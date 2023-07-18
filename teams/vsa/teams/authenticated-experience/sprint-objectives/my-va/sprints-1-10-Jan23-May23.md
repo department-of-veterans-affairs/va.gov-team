@@ -333,9 +333,9 @@ This assumes all work was done from last sprint, and we were able to kickoff UAT
 
 ### My VA audit updates
 
-- Update 1-month post launch to 100% stats
-  - This is done in the [My VA audit project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#measuring-success)
-  - Remember, we want to track stats 1 month after the date of the launch to 100% of users. So, if we went to 100% of users on 4/15, we'd track the first month of stats from 4/15 - 5/14.
+- ~Update 1-month post launch to 100% stats~
+  - ~This is done in the [My VA audit project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#measuring-success)~
+  - ~Remember, we want to track stats 1 month after the date of the launch to 100% of users. So, if we went to 100% of users on 4/15, we'd track the first month of stats from 4/15 - 5/14.~ (launch was pushed out so this got bumped to sprint 11)
 - BE documentation wrap-up: architecture diagram
 - Unit and E2E test improvements (cont.)
 

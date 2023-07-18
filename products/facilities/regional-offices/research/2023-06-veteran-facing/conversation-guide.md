@@ -30,11 +30,16 @@
 
 *CHECK SLACK for real-time feedback and questions from observers*
 
-## Intro - 5 minutes
+## Intro - 5 minutes 
+***(At first ONLY MODERATOR & PARTICIPANT, *not* notetaker)***
 
 Thank you for joining us today! My name is Cindy. How are you doing today?
 
-I have a colleague with us in this session who will be taking notes. 
+*(Brief conversation)*
+
+Now I'll invite a colleague to join us in this session to take notes.
+
+*(DELETE: I have a colleague with us in this session who will be taking notes.)* 
 
 There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
 - *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
@@ -55,6 +60,8 @@ Before we start, I want to go over a few things:
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
+
+*(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session?
 
 *Click Live Transcript and **Enable**, or **Show Captions**.* 
 
@@ -90,13 +97,19 @@ Let’s start with a few questions...
 
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
 
-1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *(NOTE how to share URL: dictate / Zoom chat)* 
+1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *(RECORD)* 
 
-1. How do you typically get information and benefits from the VA? *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)*
+1. What VA benefits, if any, do you have experience with? 
+*(health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________)*
 
-1. What do you know about VA regional benefit offices? 
-1. Have you been to one before? 
-1. If yes, can you describe your last visit to a regional benefit office? 
+1. How do you typically get information and benefits from the VA? 
+*(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / _________________)*
+
+1. Are you familiar with VA regional benefit offices? 
+     1. If so, what do you know about them? 
+     1. What tasks would you expect to do at a VA benefit office?
+1. Have you been to a VA benefit office before? 
+1. If so, can you describe your last visit to a VA benefit office? 
      1. When was it?
      1. What did you do there?
      1. What do you wish you had known *before going*?
@@ -115,7 +128,7 @@ I would like you to share your screen with me so that I can see what you do duri
 If you wanted to visit a VA benefit office near you, what would you do?
 - * wayfinding via google? VA.gov > facility locator?
 
-Can you show me how you would find out whether it could help you with XXX (TBD--e.g., applying for disability compensation)?
+Can you show me how you would find out whether a VA benefit office could help you explore how to pay for college?
 
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
@@ -126,7 +139,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 
 Let's suppose that (Google/VA.gov) led you to the page that I'm going to show you. It's a prototype that isn't very interactive–some things work, and many things do not. I'm looking for **your feedback**, including any issues that you see or questions that you have. I'd like you to talk to me about what you want to do BEFORE you click anything.
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **https://bit.ly/3zuL4Be**
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **TBD**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Do you see the link? 
@@ -136,33 +149,141 @@ Do you see the link?
 
 What are your impressions of what you're looking at? *(RECORD)*
 
-### Task 3: [TBD task re service on the page]
+- *Any comments about the 2 phone numbers? If so, ask which they would use and why*
+- *Any comments about the limited services and hours expandable alert?*
+- *Any comments about the 3 action links near top of page? What do they expect from them?*
+  - *(If "Ask a benefit question")* Ask what happens after they click on it.
 
-Could you try to use this to find out if you could get help with XXX [TBD]? 
+### Task 3: [Education (Veteran only)--accordion doesn't open]
 
-To make this happen, what would you do next? 
-- *ck hours / mk appt / how to get there / what to bring*
+Let's pretend that you live in Boston. 
 
-How would you locate the benefit office in the building?
+Let's say that you’re exploring how to pay for college or other training, and you want to see if the VA can help. Using the information on this page, how can the Boston Regional Office help you?
 
-### Task 4: [TBD task re service on the page]
+- *(**Educ benefits for Veterans** / Educ benefits for family members / __________)*
 
-Could you try to use this to find out if you could get help with YYY [TBD]? 
+### Task 4: [Education (Veteran or family member, not caregiver if only role)--accordion doesn't open]
 
-To make this happen, what would you do next? 
-- *ck hours / mk appt / how to get there / what to bring*
+*(if didn't say above)* Let's pretend that you live in Boston. 
 
-### Task 5: [TBD task re service NOT on the page]
+Imagine that you’re thinking about how to pay for your kid to go to college. You want to learn about scholarships that might be available to kids of Veterans. Using the information on this page, how can the Boston Regional Office help you? 
 
-Could you try to use this to find out if you could get help with ZZZ [TBD--whether the VA will pay for more school for you]? 
+- *(Educ benefits for Veterans / **Educ benefits for family members** / __________)*
 
-- *What do they do?* 
-  - *Facility Locator?*
+### Task 5: [Disability--accordion opens]
+*(Veteran only)*
+Imagine that you have some hearing loss that's related to your military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some help applying for them. Using the information on this page, how could you get help from the Boston Regional Office? 
+
+*(If not Veteran but caregiver or family member:)*
+Imagine that your *[spouse/Veteran]* has some hearing loss that's related to their military service. They’re not currently receiving monthly disability payments from the VA, and you’d like some help for them to apply for them. Using the information on this page, how could you get help from the Boston Regional Office?
+
+- *(Disability compensation)*
+
+- *[if need prompting...]* 
+  - To make this happen, what would you do next? 
+  - How could you talk to someone? *[in-person / virtual / phone]*
+  - Do you need an appointment? *[no but it’s preferred]* 
+  - When will you go? *[check office hours for this task specifically]*
+    - *Record any comments about*
+      - *multiple sets of office hours*
+      - *multiple hour blocks per day*
+      - *notes about Thursday closures*
+
+  - When you go, what should you have with you? *[photo ID, DD214]* 
+  
+### Task 6: [Home loan > apply--accordion opens]
+
+You’re interested in buying a house, and your lender asks for proof that you qualify for a VA home loan. From this page, where would you go for that?
+
+- *(VA home loans > Get help filling out VA loan paperwork)*
+
+- *[if need prompting...]* 
+  - To make this happen, what would you do next? 
+  - How could you talk to someone? *[in-person / virtual / phone]*
+  - Do you need an appointment? *[no but it’s preferred]* 
+  - When will you go? *[check office hours for this task specifically]*
+    - *Record any comments about*
+      - *multiple sets of office hours*
+      - *multiple hour blocks per day*
+      - *notes about Thursday closures*
+
+  - When you go, what should you have with you? *[photo ID, DD214]* 
+  
+### Task 7: [Need DD214 for home loan]
+
+Say you’ve decided to go the Boston Regional Office in person to get proof that you qualify for a VA home loan. What do you need to have with you? [DD214]  
+
+If you don't have a DD214, how could you get it? 
+
+- *(Prepare for your visit > Helpful documents > give permission / _____________)*
+
+- *[if need prompting...]* 
+  - How could you talk to someone? *[in-person / virtual / phone]*
+  - Do you need an appointment? *[no but it’s preferred]* 
+  - When will you go? *[check office hours for this task specifically]*
+    - *Record any comments about*
+      - *multiple sets of office hours*
+      - *multiple hour blocks per day*
+      - *notes about Thursday closures*
+
+  
+### Task 8: [Home loan > check status--accordion opens]
+
+Now some time has passed since your visit to the regional office, and you’re still waiting to get proof that you qualify for a VA home loan. How would you find out what’s happening? 
+
+- *(VA home loans > Check the status of your COE)*
+
+- *[if need prompting...]* 
+  - How could you talk to someone? *[phone]*
+  - Do you need an appointment? *[no but it’s preferred]* 
+  - When will you do that? *[check office hours for this task specifically]*
+    - *Record any comments about*
+      - *multiple sets of office hours*
+      - *multiple hour blocks per day*
+      - *notes about Thursday closures*
+
+  
+### Task 9: [VA life insurance--no accordion on page]
+
+If you wanted help applying for life insurance through the VA, where would you go for that?  
+
+
+*[Follow-up when they can’t find it:]* Since you didn't find that information on this page, where would you go to find it? 
+
+  - *RECORD what they do: Facility Locator / call--what number? ______________*
+  
+### Task 10: [Burial/memorial--accordion opens]
+
+ If you wanted to honor a Veteran with a medallion on their headstone, could the Boston Regional Office help? 
+
+- *(Burial in a VA cemetery / **Burial and memorials** / __________)*
+
+- *[if need prompting...]* 
+  - To make this happen, what would you do next? 
+  - How could you talk to someone? *[in-person / virtual / phone]*
+  - Do you need an appointment? *[no but it’s preferred]* 
+  - When will you go? *[check office hours for this task specifically]*
+    - *Record any comments about*
+      - *multiple sets of office hours*
+      - *multiple hour blocks per day*
+      - *notes about Thursday closures*
+
+  - When you go, what should you have with you? *[photo ID, DD214]* 
+  
+### Task 11: [Direct deposit--accordion doesn't open]
+
+Suppose that you just switched banks, and you want to tell the VA so that any payments you receive will go to your new bank instead of your old one. Could the Boston Regional Office help you do this?  
+
+- *(Other services > Veteran direct deposit)*
+
 
 ## Post-Task Interview - 10 minutes
+
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. In your own words, what do you think you can do from this VA office?
+1. *(Did they interact with any of the 3 action links near top of page?)*
+     1. *(If "Ask a benefit question")* Ask what happens after they click on it.
+1. In your own words, what do you think you can do at from this VA office?
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
@@ -191,5 +312,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 ## Approvals
-- Michelle Middaugh or Dave Conlon (PO) on TBD
-- Shane Strassberg on TBD
+- Michelle Middaugh (PO) on TBD
+- VA Research Ops on TBD

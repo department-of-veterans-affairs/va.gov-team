@@ -3,7 +3,7 @@ name: Sitewide Content, Accessibility, and IA Intake Form
 about: To request support with content, accessibility, or IA from Sitewide Content, Accessibility, and IA team
 title: "<Type of Request> from <Team>"
 labels: sitewide CAIA, sitewide content-product support, Sitewide IA, sitewide content, sitewide accessibility
-assignees: RLHecht, coforma-terry
+assignees: RLHecht, coforma-terry, kristinoletmuskat, laurwill, sara-amanda
 
 ---
 ## About your team
@@ -25,6 +25,7 @@ assignees: RLHecht, coforma-terry
 - [ ] Accessibility issue (general request)
 - [ ] Accessibility PDF review request
 - [ ] Accessibility user research support ([submit a separate, additional request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name))
+- [ ] DST component or pattern 
 - [ ] Something else 
  
 ### Give a brief description of what your team needs support with:
@@ -43,20 +44,53 @@ My team needs support with ...
 ### When do you expect to launch your product to 100% of users?
   
 *Please provide an estimated date so our team can create other relevant tickets.*
- 
-### Will this work be going through the Collaboration Cycle?
-- [ ] Yes 
-- [ ] No
- 
-#### If yes, please check all of the phases in the Collaboration Cycle you have completed: 
-- [ ] Design Intent
-- [ ] Midpoint Review
-- [ ] Staging
- 
+
 ### When does this work need to be completed?
 - Estimated launch date:
 - Estimated staging review date:
 - Content, Accessibility, and IA work needed by: 
+
+## Collaboration Cycle
+ 
+### Will this work be going through the Collaboration Cycle?
+- [ ] Yes 
+- [ ] No
+
+### If no ...
+- Skip to the _supporting artifacts_ section, below.
+ 
+### If yes ... 
+#### Please provide the link to your Collaboration Cycle ticket: 
+- Ticket (number): 
+- Collab. Cycle Ticket Opened (date): 
+ 
+#### Please check all of the phases in the Collaboration Cycle you have completed: 
+- [ ] Design Intent
+- [ ] Midpoint Review
+- [ ] Staging
+ 
+#### For planning purposes, please check all of the phases in the Collaboration Cycle you feel you might need CAIA support and guidance: 
+##### Design Intent
+- [ ] Accessibility
+- [ ] Content
+- [ ] IA
+- [ ] Translation
+- [ ] Already completed, no assistance needed.
+- [ ] Unknown at this time.
+##### Midpoint
+- [ ] Accessibility
+- [ ] Content
+- [ ] IA
+- [ ] Translation
+- [ ] Already completed, no assistance needed.
+- [ ] Unknown at this time.
+##### Staging
+- [ ] Accessibility
+- [ ] Content
+- [ ] IA
+- [ ] Translation
+- [ ] Already completed, no assistance needed.
+- [ ] Unknown at this time.
   
 ## Supporting artifacts
 *Please provide supporting artifacts as available.*
@@ -83,7 +117,7 @@ The [#accessibility-help channel](https://dsva.slack.com/archives/C8E985R32) in 
 
 ## Next steps
 
-**Once you’ve submitted this ticket, please post a link to this issue in the [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia) Slack channel and tag Randi Hecht.**
+**Once you’ve submitted this ticket, please post a link to this issue in the [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia) Slack channel and tag `@Terry Nichols`.**
 
 - If you also need engineering support from the Public Websites team, fill out their [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E).
   

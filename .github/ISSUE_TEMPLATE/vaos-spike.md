@@ -2,7 +2,7 @@
 name: VAOS Spike Template
 about: For VAOS dev spike requests.
 title: "[Spike]"
-labels: needs-grooming, spike, vaos
+labels: needs-grooming, spike, appointments
 assignees: ''
 
 ---

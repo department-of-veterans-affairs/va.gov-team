@@ -1,6 +1,6 @@
 # Decision Review Requests and Appeals Digital Experience Outline
 - GitHub Label: [benefits team 1, squad 2]
-- Slack channel: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
+- Slack channel: [#benefits-ce-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
 
 ### Table of Contents
 
@@ -187,6 +187,13 @@ TBD after launch
 - API: API team is working on resolving their issues that are preventing @SMLuthi from completing this task. Working on issues endpoint; UAT.
 - Design: Handoff from Carola to Benefits and Memorials designers occurred on 9/18. Additional research and design work in progress.
 - Development: FE identified work items to build out skeleton and individual form steps to work on during the next sprint or two.
+
+**April 2022**
+- Request for Board Appeal (Notice of Disagreement) form launch
+
+**March 2023**
+- Supplemental Claim form launch
+
 
 ## Solution Narrative
 - Late April: Product appears on CTO list of high value targets

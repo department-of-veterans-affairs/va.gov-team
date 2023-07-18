@@ -47,4 +47,11 @@ Systems used by Application Processing teams
      - Technical specs and details can be found in this [VA.gov Profile Backend document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md)
 
 - 1/18/2023 Tarsha Tremble has moved to another position and is no longer the POC Project manager for 10-10EZ.
-     - Update coming soon.  Until then, we can contact Edward Horne (edward.horne@va.gov)
+     - Jennifer Mdoe is the new contact
+ 
+- WSDL file for Enrollment System from Joshua Faulkner
+     - [EE Summary WSDL](https://ves.va.gov/esr-ws/spring-ws/getEESummary/eeSummary.wsdl)
+     - MUST be on VA Network to access this file
+ 
+
+

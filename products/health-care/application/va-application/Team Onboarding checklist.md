@@ -6,7 +6,7 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
      - Completed by COR
 - [ ] GitHub account, associated to VA.gov email address
 - [ ] Add to VA Org - [Request Ticket](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=&labels=add-user-to-org%2Cnew-user%2Cuser-created&template=add-user.yml&title=Add+User+to+Org%3A+%5Busername%5D)
-- [ ] Add to VA.gov-team Repo - [Request ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-GitHub)
+- [ ] Add to VA.gov-team Repo - [Request ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-GitHub) (must have VA.gov email address first)
 - [ ] Add to [ZenHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub.md) (if applicable)
      - Add to workspace
      - Ensure connected with GH account
@@ -15,6 +15,7 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
      - [ ] 1010-health-apps
      - [ ] health-tools-1010-apm
      - [ ] vecms-carma_vadotgov_development_external
+     - [ ] accessibility-ops
      - [ ] vfs-change-announcements
      - [ ] vfs-platform-support
      - [ ] vfs-all-teams
@@ -24,6 +25,7 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
      - [ ] (Design.research) research-ops
      - [ ] (Design.research) platform-design-system
      - [ ] (Design.research) sitewide-content-ia
+     - [ ] (Frontend Engineers) vfs-frontend
 
 
 - [ ] Design/Research

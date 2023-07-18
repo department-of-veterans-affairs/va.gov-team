@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # Handling edge cases in the Design System Governance Process
 
 The Design System Governance Process is based on a happy path flow for VFS teams to request a new pattern or adjust an existing pattern. This happy path does not always accomodate certain VFS team edge case scenarios. We're not currently prioritizing Design System and Forms Library improvements that would prevent these edge cases. This document explains how we handle edge cases based on whether the required changes are launch-blocking and their impact to other teams or features.

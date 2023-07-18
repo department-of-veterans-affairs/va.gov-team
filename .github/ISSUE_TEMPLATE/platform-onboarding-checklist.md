@@ -72,5 +72,5 @@ Note: AWS access can be granted once the EQIP has been submitted _before the PIV
 - [ ]  [AWS access request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=Access+for+%5Bindividual%5D) - _can be submitted early, but won't be approved until EQIP submission is verified_
 
 _Once your PIV card has been obtained:_ 
-- [ ] [Citrix Access Gateway (CAG)](https://citrixaccess.va.gov/vpn/index_citrix_splash.html)
+- [ ] [Citrix Access Gateway (CAG)](https://citrixaccess.va.gov/vpn/index_citrix_splash.html) or [Azure Windows Virtual Desktop](https://client.wvd.microsoft.com/arm/webclient/index.html)
 - [ ] [Venafi](https://vfs.atlassian.net/wiki/spaces/OT/pages/1719009302/Venafi+Gain+access+to+manage+internal+TLS+certificates) _DevOps Only_

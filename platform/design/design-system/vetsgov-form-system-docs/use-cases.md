@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 **Uses cases we might want to support**|**Notes**|**Priority**
 -----|-----|-----
 Basic use of RJSF styled as USWDS|Basically the same use cases as plain RJSF, but with components that follow USWDS (and probably our blur/handling and validation). Not including page flow logic. This would be the sort of bare minimum use of the library/toolkit|Low

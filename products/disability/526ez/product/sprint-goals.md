@@ -1,4 +1,98 @@
-# Sprint goals for Benefits Disability Experience Team 
+# Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
+
+## Sprint 9
+Period - 07/06/2023 - 07/18/2023
+### Sprint goals 
+- **Expedited**
+   - [ ] Bug - Eng Fix - Error handling for bad CSRF tokens #58396 - depends on findings and capacity
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+        - Rateddisabilities
+            - Can we work on a release plan? Consider staggered release? 
+        - Submit 
+            - [ ] Abstract calls to submit endpoint
+            - [ ] Start endpoint migration - PPIU Abstraction
+- **Features**
+   - Intro page changes and 526ez current with paper form
+      - [ ] Intro pages - Research shareout
+      - [ ] Toxic Exposure screens - Research - Reconciling Midpoint Review Research Musts
+      - [ ] Complete 4142 tech discovery for FE - Engineering
+- **Analytics**
+  - [ ] None
+- **Tech Debt**
+
+ 
+## Sprint 8
+Period - 06/21/2023 - 07/04/2023
+### Sprint goals 
+- **Expedited**
+   - [x] Bug - Eng Fix - Future Date of Claim - apply validation and content updates - Completed
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+        - Submit endpoint
+            - [x] Abstract calls to endpoint - Started
+            - [x] Complete Discovery 
+        - RatedDisailities
+            - [x] Integrate rateddisability ID
+- **Features**
+   - Intro page changes and 526ez current with paper form
+      - [x] Intro pages - Conduct interviews and research report 
+      - [ ] Toxic Exposure screens - Content and design
+           - Design ready, Content pending CAIA response
+      - [x] Complete 4142 tech discovery for BE - Engineering
+      - [x] Started 4142 tech discovery for BE - Engineering
+- **Collab Cycle Issues**
+  - [x] Engineering - Accessibility Link opens in new tab without warning users
+- **Issue Management Stretch goal?**
+  - [ ] Bug - Eng Discovery - 526 start - Identification error - Issue Management POC? What kind of bandwidth do we see?
+    - Moved to Team Carbs
+ 
+## Sprint 7
+Period - 06/07/2023 - 06/20/2023
+### Sprint goals TBD
+- **Expedited**
+   - [ ] Self-Assessment Part A to BDD 526 claims - Contact center review and feature launch
+   - [ ] Bug - Fix - VAMC location field optional
+   - [ ] Bug - Discovery - 526 start - Identification error
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration 
+        - Wrap up discovery for testing environment solution
+        - Submit endpoint
+            - [ ] Abstract calls to endpoint 
+        - BRD
+            - [ ] Discovery - Whether EVSS is used in DisabilityCompensationFormsController (BRD)
+- **Features**
+   - Intro page changes and 526ez current with paper form
+      - [ ] Intro pages - Research and interviews
+      - [ ] Implementation for return URL as result of 526 flow changes 
+      - [ ] 4142 - Tech dicovery for the proposed flow and wireframe designs
+      - [ ] 4142 - Design wireframes for revised 4142
+      - [ ] Review BDD SHA Staging review feedback for plan around addressing design changes
+   
+ 
+ 
+## Sprint 6
+Period - 05/24/2023 - 06/06/2023
+### Sprint goals TBD
+- **Expedited**
+   - [ ] Self-Assessment Part A to BDD 526 claims - staging review and contact center review - update BDD product guide
+   - [ ] Bug - Fix - Identification issue - Update phone number on 526-EZ alert 
+   - [ ] Bug - Fix - Required validation error not displaying for BDD Supporting Evidence
+   - [ ] Bug - Design - Future Date of Claim issue fix
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration 
+        - Intent to File endpoint 
+            - [ ] Integration testing with LH in dev, sandbox and staging environments 
+        - Submit endpoint
+            - [ ] Discovery - What would it take to migrate the endpoint
+- **Features**
+   - Intro page changes and 526ez current with paper form
+      - [ ] Intro pages - Research and interviews
+      - [ ] Research plan and screener for intro pages
+      - [ ] Design for return URL as result of flow changes
+      - [ ] User flow for toxic exposure screens
+
+ 
 
 ## Sprint 5
 Period - 05/10/2023 - 05/23/2023

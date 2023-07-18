@@ -2,13 +2,56 @@ name: SOCKS Issue creation kickoff Workflow
 on:
   issues:
     types: [opened, edited, reopened]
-    
+
 env:
   ISSUE_ID: ${{ github.event.issue.number }}
+  GH_REPO_FOR_ISSUES: department-of-veterans-affairs/va.gov-team
 
 jobs:
+  parse_ssh_key:
+    if: contains(github.event.issue.title, 'SOCKS access')
+    runs-on: ubuntu-latest
+    outputs:
+      ssh_key: ${{ fromJSON(steps.parse.outputs.payload)[' Public SSH Key'] }}
+    steps:
+      - name: Run Issue form parser
+        id: parse
+        uses: department-of-veterans-affairs/issue-forms-body-parser@main
+        with:
+          issue_id: ${{ env.ISSUE_ID }}
+          repository: ${{ env.GH_REPO_FOR_ISSUES }}
+          separator: '###'
+          label_marker_start: " "
+          label_marker_end: "\n"
+  validate_ssh_key:
+    if: contains(github.event.issue.title, 'SOCKS access')
+    runs-on: ubuntu-latest
+    needs: parse_ssh_key
+    env:
+      PUBLIC_KEY: "${{ needs.parse_ssh_key.outputs.ssh_key }}"
+    steps:
+      - name: Run ssh public key validation
+        id: fingerprint
+        shell: bash
+        run: ssh-keygen -lf /dev/stdin <<< "$PUBLIC_KEY"
+      - name: Notify failure
+        id: ssh_key_invalid
+        if: ${{ failure() }}
+        shell: bash
+        run: |
+          echo "::error:: You seem to have uploaded an invalid ssh public key: $PUBLIC_KEY"
+      - name: Comment issue
+        if: ${{ failure() }}
+        uses: KeisukeYamashita/create-comment@v1
+        with:
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          number: ${{ env.ISSUE_ID }}
+          comment: |
+            :x: The attached ssh key failed to validate
+
   start_workflow:
     runs-on: ubuntu-latest
+    needs: validate_ssh_key
     name: Start workflow in devops repo
     if: contains(github.event.issue.title, 'SOCKS access')
     steps:

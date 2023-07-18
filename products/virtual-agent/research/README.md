@@ -3,6 +3,9 @@
 ## 2023 Research
 | Date                 | Activity                 | Description         | Output        |
 | :-------------              | :-------------              |:-------------         |:-------------|
+| **January 2023** | Sign in Support |  12 remote, moderated user testing sessions for guidance through the newly implemented Sign in Support feature | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/signin-support) |
+| **June 2023** | Prescriptions Round 1 (Entries & Exits and Voice) |  5 remote, moderated user testing sessions for guidance through the new Rx Skill, specifically Entry & Exit of the skill and a new voice feature | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/prescriptions) |
+| **July 2023** | OpenAI |  7 remote, moderated user testing sessions for feedback about ongoing OpenAI research | no report available yet |
 
 ## Phase 3 Research Activites and Output
 | Date                 | Activity                 | Description         | Output        |

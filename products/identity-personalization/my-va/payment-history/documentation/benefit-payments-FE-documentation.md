@@ -1,5 +1,8 @@
 # Benefit Payments Frontend Documentation
-Last updated: November 4, 2022
+Last updated: July 17, 2023 - added Background; updated error
+
+### Background
+This is FE documentation for v2 of "payment info" on My VA in which the original single section My VA, "Benefit payments and debts" was separated out into two sections - one for Outstanding Debts and a second for Benefit Payments. This document specifically covers the Benefit Payments section on My VA.
 
 ## When to show the ‘Benefit payments’ section
 We show this section for every LOA3 user.
@@ -43,6 +46,15 @@ Check mailed on [date]
 Use the [card component](https://design.va.gov/components/card) in the VA design system for the benefit payments card.
 
 The link style on the card is the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in the VA design system.
+
+#### **Accessibility specs**
+
+Since this card has an extra heading in it that is not in other cards on My VA, we need to make certain accessibility accomodations to ensure that screen reader users can navigate by heading and hear all important context.
+
+[Annotations in Sketch](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/OeRqarG)
+
+- This mockup calls out that the h4 in the benefit payment card should be coded as a paragraph (p) but use h4 styling.
+- The H3 should also have an `aria-describedby` label that associates the amount with the payment type so that a screen reader user gets that context when navigating through H3s.
 
 ---
 
@@ -112,7 +124,7 @@ Only show a card for the most recent payment.
 ### Error State 1: The Payment History API call fails
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+- Use the [warning alert component](https://design.va.gov/components/alert#warning-alert) for the error message.
 >**We can't access your payment history**
 
 >We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.

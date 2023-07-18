@@ -1,6 +1,18 @@
 # My VA Redirect Initiative Brief
 
-**Last updated: November 29, 2022 (updates to success metrics)**
+**Last updated: July 7, 2023 (added Communications and Roles)**
+
+### Communications
+
+- **GitHub Label**: authenticated-experience; my-va-dashboard, my-va-redirect
+- **Slack channel**: accountexp-authexp
+- **Development Epic: [#41223](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41223)**
+- **Collaboration Cycle Epic: [#42582](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42582)**
+
+### Roles
+
+[Please see the My VA product outline for the current My VA team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles).
+
 
 ### Table of Contents
 - [Outcome Summary](#outcome-summary)

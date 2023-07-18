@@ -40,7 +40,7 @@ Communication channels (eg. email, text)
 - We do **not** need a “do not contact” option. This is reflected in the permission itself.
 - These are **pulled in dynamically** from VA Profile. The VA.gov team does not need to define communication channels.
 
-**As of Q2 2021, a set of items, groupings and channels were agreed upon for the MVP. They can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-configuration.md)**.
+**As of Q2 2021, a set of items, groupings and channels were agreed upon for the MVP. They can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/product/communications-permissions-mvp-definition.md)**.
  
 #### Communication permissions
 

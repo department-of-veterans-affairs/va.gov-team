@@ -75,10 +75,12 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - Facilities are shown on this page if:
     - They are associated with a VistA site where the user is registered, and
     - The site has marked the facility as accepting either requests or direct appointments for the chosen type of care
-- If the user has a residential address in VA Profile, then facilities are shown sorted by distance from that address
+- If the user has a residential address in VA Profile, then facilities are shown sorted by distance from that address:
+   - Users can choose to sort the facilities by how close they are to their current (browser) location instead of residential address.
+   - The distance to the facility is shown in miles.
+   - The distance is calculated as a straight line between the Veteran's residential address or location and the facility address.
+   - Facilities that are within 100 miles of the residential address or current location (if currently being used) and do not support any online scheduling can be revealed by clicking on the "Why isn't my facility shown?" link below the facilities options. 
 - If the user does not have a residential address, the facilities are shown in alphabetical order
-- Users can choose to sort the facilities by how close they are to their current (browser) location
-- Facilities that are within 100 miles of the residential address or current location (if currently being used) and do not support any online scheduling can be revealed by clicking on the "Why isn't my facility shown?" link below the facilities options.
 - If a user only has one facility that supports online scheduling for the chosen type of care, this page will show that facility without radio buttons.
 - If the user is registered at a Cerner site, facilities in that site are always shown on this page and include a link to the Cerner portal below the radio button
 - If a user choose a Cerner facility and clicks Continue, they're sent to the schedule Cerner page

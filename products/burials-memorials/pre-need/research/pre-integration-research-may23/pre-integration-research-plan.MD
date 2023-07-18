@@ -20,7 +20,7 @@ The Pre-Need application applies to life stages from **Serving** onward to **Dyi
 
 ## Research Goals / Questions	
 The goals of this user research are to: 
-  * Learn how users experience applying for pre-need to identify improvements that can be made to address usability pain points, address user feedback/concerns, improve the rate of mobile applications, and improve its fairly low submission rate
+  * Learn how users experience applying for pre-need to identify improvements that can be made to address usability pain points, address user feedback/concerns, improve the rate of mobile applications, and improve submission rates
     * What's working well for users and what are the pain points they're experiencing when applying for pre-need eligibility determination?
     * Why are most users applying through desktop devices, and how can we improve rates for mobile applications and successful submissions overall?
     * Since the majority of users are in the upper age brackets (35+ years old), what enhancements can we make to improve the application process for them?
@@ -50,8 +50,8 @@ Remote location with a preferred video conferencing software as Zoom
 
 ### Research materials
 For moderated usability tests: 
-- [Link to conversation guide - TBD](Url goes here)
-- [Link to Pre-Need Pre-Integration prototype](https://vaselfservice.invisionapp.com/console/share/BGYS6FJQ49H) - This prototype contains content and accessibility enhancements that we're able to implement pre-integration without damaging our legacy system.
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/pre-integration-research-may23/pre-integration-conversation-guide.MD)
+- [Link to Pre-Need Pre-Integration usability testing prototype](https://bahdigital.invisionapp.com/console/share/HF26GKB9W7Q) - This prototype contains content and accessibility enhancements that we're able to implement pre-integration.
 	
 ## Recruitment	
 
@@ -61,24 +61,25 @@ Weâ€™d like to recruit 9 participants for a total of 6-8 completed sessions. Weâ
 ### Recruitment criteria 
 
 **Primary criteria (must-haves)**
-- Amount: Target is 6-8 participants but recruit 9
+- Amount: Target is 6-8 participants but recruit 10
 - Age ranges: 
-    * Around 80% 35+
+    * Around 60% 35+
+    * Around 20% 65+
     * Around 20% 18-34
 - Types: 
     * Three to four service members and Veterans 
      	- Age 55+, Black, male 
     	- Age 35-54+, White, female
      	- Age 18-34, Hispanic, male 
-    * One spouse or surviving spouse of a service member of Veteran (A **spouse** is a person who is or was legally married to a service member or Veteran. A **surviving spouse** is someone who was legally married to the service member or Veteran at the time of their death and includes a surviving spouse who remarried.)
+    * One to two spouse or surviving spouse of a service member of Veteran (A **spouse** is a person who is or was legally married to a service member or Veteran. A **surviving spouse** is someone who was legally married to the service member or Veteran at the time of their death and includes a surviving spouse who remarried.)
      	- Any age, LGBTQ+, female
-    * One representative (a person filling out pre-need form on behalf of applicant, such as a **preparer**)
+    * One to two personal representative (a person filling out the pre-need form on behalf of an applicant, such as a **preparer**)
      	- Age 35+, Asian, Male 
     * One unmarried adult child (An **unmarried adult child** is an individual who became physically or mentally disabled permanently and incapable of self-support before the age of 21, or before 23 years of age if pursuing a full-time course of instruction at an approved educational institution.)
      	- Age 18-20 or 18-22 if pursuing degree
-    * One parent of a service member or Veteran (considered a Corey Shea Act applicant)
+    * One parent of a service member (not the parent of a Veteran so only applicable for parents of service members; considered a Corey Shea Act applicant)
      	- Age 40+, Native American
-    * One person interested in pre-need eligibility determination
+    * One to two people interested in pre-need eligibility determination
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 - At least 3-4 people who will use a mobile device during the research session (tablet is ok too)
  
@@ -90,9 +91,10 @@ Have an identified cognitive impairment (around 1 participant)
     * If yes, go to question 3. 
     * If no, go to question 2.
 2. Which of the following describes your relationship to a Veteran or service member? 
-    * I am their spouse or surviving spouse 
-    * I am their unmarried adult child 
-    * I am their parent
+    * I am their spouse or surviving spouse (A **spouse** is a person who is or was legally married to a service member or Veteran. A **surviving spouse** is someone who was legally married to the service member or Veteran at the time of their death and includes a surviving spouse who remarried.)
+    * I am their unmarried adult child (An **unmarried adult child** is an individual who became physically or mentally disabled permanently and incapable of self-support before the age of 21, or before 23 years of age if pursuing a full-time course of instruction at an approved educational institution.)
+    * I am their parent (only applicable for parents of service members)
+    * I am their personal representative (a person filling out the pre-need form on behalf of an applicant, such as a **preparer**)
     * None of the above, but I am interested in applying for pre-need eligibility determination for myself or for someone else
 3. Have you applied or tried to apply for a pre-need eligibility determination at least once in the last 12 months? 
     * If yes, go to question 5. 
@@ -105,8 +107,8 @@ Have an identified cognitive impairment (around 1 participant)
 Answer should be yes to satisfy criteria for screen reader. 
     * 5b. Please list the name of the assistive technology or software you will use during the session. 
     * 5c. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone?
-    	* Any kind of smart phone will work, as long as it connects to the internet.  
-    	* Answer should be yes to satisfy criteria for 3-4 mobile users. 
+    	* Any kind of smart phone will work, as long as it connects to the internet. Tablet is ok, too. 
+    	* Answer should be yes for 3-4 users to satisfy criteria for mobile testing. The other half should be on desktop devices.
 
 ## Timeline
 
@@ -114,23 +116,28 @@ Answer should be yes to satisfy criteria for screen reader.
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: sherrow_alexander@bah.com
-* Date and time of pilot session: Friday, 5/26/23 @ 10:30am-11:30am
+* Pilot participant email: lcruz8646@gmail.com
+* Date and time of pilot session: Thursday, 6/1/23 @ 5:30pm
+
+**We also need a kick-off meeting with Perigean for recruiting as soon as possible. Our availability is flexible for this.** 
+- Requested dates/times for kick-off meeting: 
+	- Wed. 5/31: 9-9:30am, 10am-1:30pm, 2:30-4pm; 
+	- Thur. 6/1: 9-9:30am, 10:30am-1pm, 3:30-4pm.
 
 ### Research sessions
 * Planned dates of research: 
-	* Usability testing target dates: Wednesday, 5/31/23; Thursday, 6/1/23; Friday, 6/2/23
+	* Usability testing target dates: Wednesday, 6/7/23; Thursday, 6/8/23; Friday, 6/9/23
 
 ### Length of sessions
-* Session length: 45 minutes up to an hour
+* Session length: 45 minutes
 * Buffer time between sessions: 30 minutes 
-* Maximum Sessions per day: 3-4
+* Maximum Sessions per day: 4-5
 
 ### Availability
-* Wednesday, 5/31/23: 9:30am-1pm, 2:30pm-4pm, 5pm-6pm
-* Thursday, 6/1/23: 9:30am-1pm, 1:30pm-4pm, 5-6pm
-* Friday, 6/2/23: 9:30am-1pm, 1:30pm-4pm
-If more timeslots are needed, we could open up Monday, 6/5/23.
+* Wednesday, 6/7/23: 9:30am-1pm, 3-4pm, 
+* Thursday, 6/8/23: 9:30am-12:30pm, 1-4pm, 5-6pm
+* Friday, 6/9/23: 9:30am-12:30pm, 1-4pm
+If more timeslots are needed, we could open up Monday, 6/12/23.
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.** 	
@@ -145,4 +152,12 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant(s) for pilot test: Alexander Sherrow, sherrow_alexander@bah.com
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	None
 - Note-takers: Perigean
-- Observers: Rhonda Jones, rhonda.jones1@va.gov; Michael Ouslander, michael.ouslander@va.gov; Michael Rampton, michael.rampton@va.gov
+- Observers (limiting 3-4 of the following per session): 
+	- Rhonda Jones (rhonda.jones1@va.gov)
+	- Michael Ouslander (michael.ouslander@va.gov)
+	- Michael Rampton (michael.rampton@va.gov)
+	- Michelle Dieudonne Yenyo (dieudonneyenyo_michelle@bah.com)
+	- Kelby Stewart (stewart_kelby@bah.com)
+	- Laura Willwerth (l.willwerth@bloomworks.digital)
+	- Randi Hecht (r.hecht@bloomworks.digital)
+	- Aliyah Blackmore (a.blackmore@bloomworks.digital)

@@ -1,4 +1,4 @@
-# Onboarding guide for Benefits Disability Experience Team
+# Onboarding guide for Disability Benefits Experience Team
 
 ## Administrative tasks for onboarding to the VA for first time
 
@@ -14,18 +14,21 @@
   - There is one template for all new team members 
         - Enter “Disability Experience” for VFS Team
   - Another template for PO/PMs for establishing a new team in VFS, if necessary
-- Get added to slack channels in DSVA Slack
+- Get added to slack channels in DSVA Slack - after SAC adjudication is complete
    - benefits-onboarding
     - This initiates VA onboarding with buddy assignments
-  - benefits-disability-experience
-  - benefits-contention-classification
+  - benefits-ce-disability_exp_1
+  - benefits-ce-disablity_exp_2
+  - benefits-ce-dbex_issue_reporting
+  - benefits-ce-disablity_design
   - va-forms
   - vfs-all-teams
   - vfs-platform-support
   - design
-- Ask your DM/team-member to request access to Github [sample ticket # 14451](https://github.com/department-of-veterans-affairs/github-user-requests/issues/14451)
+- Ask your DM/team-member to request access to Github [sample ticket # 14451](https://github.com/department-of-veterans-affairs/github-user-requests/issues/14451) - after SAC adjudication is complete
 - You must have access to your va.gov email address to obtain a Mural license. As long as one person on the team has a VA mural license the rest of the team can contribute as visitors. Licenses have associated cost and are limited. The team's PO is the POC.
 - For [Zenhub access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub.md)
+    - Note: for ZH access you must have GitHub permissions, a ZH license, and be invited to the space by your contractor email address. Once you login with google, you can then add your Github user to the account.
 
 
 ## VA Benefits Orientation 

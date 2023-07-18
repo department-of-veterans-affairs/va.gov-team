@@ -1,6 +1,6 @@
 # Patient Check In (PCI) Research Plan for Unified Check-In Generative Research Usability Study  
 
-Last modified: April 20, 2023
+Last modified: May 31, 2023
 
 ## Background 
 
@@ -35,7 +35,7 @@ To mitigate these concerns, the Modernized Check-In Experience Team has decided 
 
 In this scenario, when Veterans access the new PCI web app, an appointment card component will be used to highlight the upcoming appointment that requires immediate attention. For example, the appointment needs to be confirmed or checked into.
 
-In addition, we will start showing Veterans all of their upcoming appointments as a solution for making their health appointment information more accessible, creating better consistency between digital touchpoints across VA and enabling them to complete other appointment tasks during their encounter. 
+In addition, we will start showing Veterans all of their upcoming appointments as a solution for making their health appointment information more accessible, creating better consistency between digital touchpoints across VA and enabling them to complete other appointment tasks during their encounter.
 
 ### OCTO Objectives 
 
@@ -51,54 +51,54 @@ This research plan maps to the following moment within the Veteran journey:
 
 ## Research Goals 
 
-The purpose of this research is to **get feedback from Veterans on the new unified PCI experience idea** and, specifically, about ease of use and how well it meets expectations.
+The purpose of this generative research is to **get feedback from Veterans on the new unified PCI experience idea** and, specifically, about ease of use and how well it meets expectations.
 
 ### Research Questions
 
 #### Primary Questions 
 
 1. Do Veterans find the day before appointment reminder and pre-check-in notifications confusing?
-1. How easy or difficult is it for Veterans to understand that you still need to complete the online check-in process even if you’ve completed the pre-check-in process a few days before?  
-1. How easy or difficult is it for Veterans to check in to an appointment? 
-1. Do Veterans think the check in confirmation page provides enough information about the status of their check in and what to do next?
-1. How easy or difficult is it for Veterans to understand if their other upcoming appointments have tasks to complete? For example, another appointment needs to complete pre-check-in or can initiate a check-in. 
-1. How easy or difficult is it for Veterans to understand the difference between the pre-check-in process and checking in to an appointment? 
-1. Do Veterans find it helpful to be able to review all of their other upcoming appointments during the pre-check-in and check-in processes?
-1. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in? 
+2. How easy or difficult is it for Veterans to understand that you still need to complete the online check-in process even if you’ve completed the pre-check-in process a few days before?
+3. How easy or difficult is it for Veterans to check in to an appointment?
+4. Do Veterans think the check in confirmation page provides enough information about the status of their check in and what to do next?
+5. How easy or difficult is it for Veterans to understand if their other upcoming appointments have tasks to complete? For example, another appointment needs to complete pre-check-in or can initiate a check-in.
+6. How easy or difficult is it for Veterans to understand the difference between the pre-check-in process and checking in to an appointment?
+7. Do Veterans find it helpful to be able to review all of their other upcoming appointments during the pre-check-in and check-in processes?
+8. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in? 
 
 #### Secondary Questions 
 
-9. How easy or difficult is it for Veterans to find the call to action from the appointment detail pages? 
-10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the the appointment list page or detail pages?  
+9. How easy or difficult is it for Veterans to find the call to action from the appointment detail pages?
+10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the appointment list page or detail pages?
 
 ### Hypothesis 
 
 #### Primary Questions 
 
 1. Do Veterans find the day before appointment reminder and pre-check-in notifications confusing?
-     - LIKELY FALSE: Most Veterans will find the notifications easy to understand.  
-2. How easy or difficult is it for Veterans to understand that you still need to complete the online check-in process even if you’ve completed the pre-check-in process a few days before? 
-     - MAYBE TRUE: Some Veterans will understand that completing the pre-check-in process does not replace checking in to an appointment, and, therefore, they will recommend making that more clear at the completion of pre-check-in. 
-3. How easy or difficult is it to check in to an appointment? 
-     - DEFINITELY TRUE: Veterans will think the process for checking in to an appointment is easy. 
+     - LIKELY FALSE: Most Veterans will find the notifications easy to understand.
+2. How easy or difficult is it for Veterans to understand that you still need to complete the online check-in process even if you’ve completed the pre-check-in process a few days before?
+     - MAYBE TRUE: Some Veterans will understand that completing the pre-check-in process does not replace checking in to an appointment, and, therefore, they will recommend making that more clear at the completion of pre-check-in.
+3. How easy or difficult is it to check in to an appointment?
+     - DEFINITELY TRUE: Veterans will think the process for checking in to an appointment is easy.
 4. Do Veterans think the check in confirmation page provides enough information about the status of their check in and what to do next?
-     - DEFINITELY TRUE: Veterans will think the information on the check in confirmation page is well organized and prioritized. 
-5. How easy or difficult is it for Veterans to understand if their other upcoming appointments have tasks to complete? For example, another appointment needs to complete pre-check-in or can initiate a check-in. 
-     - LIKELY TRUE: Most Veterans will find it easy to understand that their other upcoming appointments have tasks to complete, but might recommend highlighting those tasks better in the appointment list. 
+     - DEFINITELY TRUE: Veterans will think the information on the check in confirmation page is well organized and prioritized.
+5. How easy or difficult is it for Veterans to understand if their other upcoming appointments have tasks to complete? For example, another appointment needs to complete pre-check-in or can initiate a check-in.
+     - LIKELY TRUE: Most Veterans will find it easy to understand that their other upcoming appointments have tasks to complete, but might recommend highlighting those tasks better in the appointment list.
 6. How easy or difficult is it for Veterans to understand the difference between the pre-check-in process and checking in to an appointment?
-     - LIKELY TRUE: Most Veterans will understand the difference between the pre-check-in process and checking in to an appointment. 
-7. Do Veterans find it helpful to be able to review all of their other upcoming appointments during the pre-check-in and check-in processes? 
-     - LIKELY TRUE: Veterans will like seeing all of their other upcoming appointments in one place, even if it’s within the context of completing the pre-check-in and check-in processes. 
+     - LIKELY TRUE: Most Veterans will understand the difference between the pre-check-in process and checking in to an appointment.
+7. Do Veterans find it helpful to be able to review all of their other upcoming appointments during the pre-check-in and check-in processes?
+     - LIKELY TRUE: Veterans will like seeing all of their other upcoming appointments in one place, even if it’s within the context of completing the pre-check-in and check-in processes.
 8. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in?
-     - DEFINITELY TRUE: Veterans will prefer receiving a text message 45 minutes before each of their appointments compared to scanning a poster at the clinics.  
+     - DEFINITELY TRUE: Veterans will prefer receiving a text message 45 minutes before each of their appointments compared to scanning a poster at the clinics. 
 
 #### Secondary Questions 
 
-9. How easy or difficult is it for Veterans to find the call to action from the appointment detail pages? 
-     - LIKELY TRUE: Veterans will find it easy to locate where to start the pre-check-in and check-in processes from the appointment detail pages, but might recommend adding some separation between the appointment information and the action link to make it more noticeable. 
-10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the the appointment list page or detail pages? 
-     - LIKELY TRUE: Most Veterans will expect to see which of their upcoming appointments have already completed pre-check-in, especially if they just completed that process for one of their other appointments.   
-
+9. How easy or difficult is it for Veterans to find the call to action from the appointment detail pages?
+     - LIKELY TRUE: Veterans will find it easy to locate where to start the pre-check-in and check-in processes from the appointment detail pages, but might recommend adding some separation between the appointment information and the action link to make it more noticeable.
+10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the the appointment list page or detail pages?
+     - LIKELY TRUE: Most Veterans will expect to see which of their upcoming appointments have already completed pre-check-in, especially if they just completed that process for one of their other appointments.
+   
 ## Methodology 
 
 This research will be conducted as a remote moderated user research study that utilizes an accessible prototype built for mobile devices. Participants will be asked to complete specific tasks for usability testing and asked follow-up questions to gain understanding of expectations and satisfaction.  
@@ -115,17 +115,24 @@ Remote with Zoom
 
 ## Recruitment 
 
+**Perigean to recruit a total of 18 Veterans in order to get 12 completed sessions,** which includes 5 completed sessions with screen reader users, 2 completed sessions with screen magnification or zoom users, 3 completed sessions with non AT cognitive impairment users and 2 completed sessions with non AT users.
+
+[Recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/321#event-9308399813)
+
 ## Timeline 
 
 ### Prepare
+
 **We would like to request a 15 minute kick-off call with Perigean before recruiting begins.**
 
 Availability for a kick-off call: 
-- TBD
+- June 2, 9am-530pm
+- June 5, 9am-2pm, 330pm-530pm
+- June 6, 9am-530pm
 
 ### Pilot session
-* Pilot participant email:  
-* Date and time of pilot session:  TBD
+* Pilot participant email: robin.garrison@adhocteam.us 
+* Date and time of pilot session: June 7, 3pm-4pm ET
 
 ### Research sessions
 * Planned dates of research: June 12 - June 20 (not the 19th)
@@ -141,11 +148,13 @@ Availability for a kick-off call:
 
 |Date | Time (Eastern) | Screenreader session notes |
 | -----------  | -----------  | -----------  | 
-|June 12  | 9am-6pm | Screenreaders between 9-4pm, support by Sara.Smith@oddball.io |
-|June 13  | 9am-6pm | Screenreaders between 9-4pm, support by Sara.Smith@oddball.io |
-|June 14  | 9am-6pm | Screenreaders between 9-1pm, support by Sara.Smith@oddball.io |
-|June 15-18  | 9am-6pm | No screenreader sessions |
-|June 20  | 9am-6pm | Screenreaders between 9-2pm and 3-5pm, support by Sara.Smith@oddball.io |
+|June 12  | 9am-6pm | Screenreaders between 9-6pm, support by Sara.Smith@oddball.io and/or angela.fowler@adhocteam.us |
+|June 13  | 9am-6pm | Screenreaders between 9-6pm, support by Sara.Smith@oddball.io and/or angela.fowler@adhocteam.us |
+|June 14  | 9am-6pm | Screenreaders between 9-1pm and 2-5pm support by Sara.Smith@oddball.io and/or angela.fowler@adhocteam.us |
+|June 15  | 9am-6pm | Screenreaders between 10-2pm, support by angela.fowler@adhocteam.us  |
+|June 16  | 9am-6pm | Screenreaders between 1-6pm, support by angela.fowler@adhocteam.us |
+|June 17-18  | 9am-6pm | No screenreader sessions |
+|June 20  | 9am-6pm | Screenreaders between 9-6pm and 3-5pm, support by Sara.Smith@oddball.io and/or angela.fowler@adhocteam.us|
 
 
 ## Team Roles
@@ -158,20 +167,19 @@ Participants for pilot test: </br>
 Accessibility specialist: Angela Fowler ([angela.fowler@adhocteam.us](mailto:angela.fowler@adhocteam.us)), Sara Smith ([sara.smith@oddball.io](mailto:sara.smith@oddball.io))</br>
 Note-takers: Perigean</br>
 Observers: 
-- Stephen Barrs
-- Patrick Bateman
-- Kristen McConnell
+- Stephen Barrs ([stephen.barrs@va.gov](mailto:stephen.barrs@va.gov))
+- Kristen McConnell ([kristen.mcconnell@va.gov](mailto:kristen.mcconnell@va.gov))
 - Mark Dewey ([mark.dewey@va.gov](mailto:mark.dewey@va.gov))
 - Lori Pusey ([lori.pusey@agile6.com](mailto:lori.pusey@agile6.com))
-- Sarah Knopp
-- Zach Park
-- Ya-ching Tsao
-- Christina Gednalske
-- Kelly Smith   
-- Brian Seek
-- Gaurav Gupta
-- Kanchana Suriyamoorthy
-- John Woolschlager
+- Zach Park ([zach.park@agile6.com](mailto:zach.park@agile6.com))
+- Ya-ching Tsao ([yaching.tsao@civicactions.com](mailto:yaching.tsao@civicactions.com))
 - Christina Gednalske ([christina.gednalske@adhocteam.us](mailto:christina.gednalske@adhocteam.us))
+- Kelly Smith ([kelly.smith@civicactions.com](mailto:kelly.smith@civicactions.com))
+- Brian Seek ([brian.seek@civicactions.com](mailto:brian.seek@civicactions.com))
+- Gaurav Gupta ([ggupta@kindsys.us](mailto:ggupta@kindsys.us))
+- Kanchana Suriyamoorthy ([ksuriyamoorthy@kindsys.us](mailto:ksuriyamoorthy@kindsys.us))
+- John Woolschlager ([John.woolschlager@civicactions.com](mailto:John.woolschlager@civicactions.com))
+- Christina Gednalske ([christina.gednalske@adhocteam.us](mailto:christina.gednalske@adhocteam.us))
+- Robyn Singleton ([robyn.singleton@va.gov](mailto:robyn.singleton@va.gov))
 
 

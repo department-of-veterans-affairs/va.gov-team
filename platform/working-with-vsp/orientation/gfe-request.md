@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # GFE Requests
 
 GFE's (Government-furnished equipment) are not issued for everyone on VSP, but some individuals do use them. For everyone who doens't have a GFE, we use CAG for remote access to the VA network (email, ServiceNow, etc).

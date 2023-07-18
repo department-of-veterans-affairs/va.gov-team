@@ -19,7 +19,7 @@ The user is able to navigate between the appointment status (upcoming, pending, 
   - N/A
 * How does this initiative help further OCTO-DE's mission and goals?
   - Improve user satisfaction
-  - Meet user expectations of a seamless expereince 
+  - Meet user expectations of a seamless experience 
 
  <details>
   <summary><b>User Feedback Quotes</b></summary>
@@ -34,7 +34,33 @@ The user is able to navigate between the appointment status (upcoming, pending, 
 - A user cannot access the new Appointment List in MHV on VA.gov 
 
 ## Key Decisions
-- It is very important that the navigation links work as expected in order for the Veteran to have access to their health appointments online. 
+
+These are based on the [Sitewide IA Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/health-appointments.md)
+
+**Doing:**
+- Top level URLs will be
+    - Manage appts: `www.va.gov/my-health/appointments`
+    - Schedule appts: `www.va.gov/my-health/appointments/schedule`
+       - The type of care page URL be `www.va.gov/my-health/appointments/schedule/type-of-care` 
+- We will remove cc/va from the details page URLS
+- Page title tags will follow [the format described in the design system](https://design.va.gov/content-style-guide/seo#title-tags): `[H1 Page Title] | Veterans Affairs`
+- IA will review the full list of URLs for the MVP
+- We will not change heading content as part of this effort
+- Breadcrumbs:
+    - Top level breadcrumb will be `VA.gov home > My HealtheVet > Appointments` 
+    - **Details** pages will show descriptive back links instead of a breadcrumb: `< Back to [h1 of previous page]
+    - **Scheduling** pages will continue to show breadcrumbs, updated to show the new structure
+       - The Forms Digitization team will be exploring a descriptive back link on task-flows. Once that work is complete we'll follow their lead.
+
+**Not doing:**
+- We will not update the cancelation flow for this round. We'll revisit moving it to separate pages when we look at updating that flow in te future
+- Parameter based URLS: Due to technical issues with the way we get Request data, this structure would add complexity and cause performance issues. However, if the data we receive back is improved this would be a helpful technical improvement. We'll revisit this when we look at the request data. UX will add a ticket outlining this approach to the idea board.
+
+**Open questions:**
+
+- Should there be a breadcrumb on confirmation pages?
+    - 06/08 Meeting: Agreed that we should treat it like the rest of the details pages and include the descriptive back link. We'll map out this flow and share with IA.
+- 06/13 IA requested we double check with design council on descriptive back links. TBD experimental design ticket will outline the requirements.
 
 ---
 ## Measuring Success

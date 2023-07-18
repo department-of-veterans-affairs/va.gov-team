@@ -23,7 +23,12 @@ Created by the sitewide content and IA team for teams working on products relate
 
 - **Disability benefits vs. disability compensation:** We want to finalize whether we always say "compensation."
 
-- **Service-connected condition:** We define this as "an illness or injury that was caused by—or got worse because of—your active military service." We want to get final confirmation from disability comp SME if this should always be "condition" or "disability" or if there's any nuance.
+- **Service-connected condition:** We define this as "an illness or injury that was caused by—or got worse because of—your active military service."
+- **Disability vs condition:** A "condition" is an illness or injury that affects your mind or body. We call your condition a "disability" after you've received a disability rating. </br>
+**Uses:**</br>
+**When describing the Veteran's conditions that don't yet have a disability rating:** Use condition or service-connected condition, depending on context. Example: If you believe your condition is connected to your service."</br>
+**When describing conditions that VA connects to a Veteran's service in general,** use "condition" (and "service-connected condition" or "presumptive condition" as appropriate in context).</br>
+ **When describing rated disabilities,** use "service-connected disability" on first mention on a page and "disability" on subsequent mentions.
 
 - **Illness, injury, condition:** If describing only illnesses or injuries alone, use just "illness" or "injury." If describing illnesses or injuries, use "illness or injury (also called "condition")" and then "condition" for subsequent mentions. 
 

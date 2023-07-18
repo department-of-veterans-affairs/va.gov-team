@@ -137,11 +137,16 @@ _Prompt: Click start a new request_
 * On a scale of 1 to 6, with 1 being the least confident and 6 being the most confident, how do you feel submitting this claim? Why?
 * On a scale of 1 to 6, with 1 being the worst and 6 being the best, how would you rate this experience? Why?
 * How much confidence do you have that your appeal will be handled properly and in a timely manner?
-* How likely are you to use VA.gov to file a follow-up claim?
-* Does the current process seem too impersonal?  What could we change to make a difference in that respect?
 * Optional: If you were to give this a letter grade, A-F, what would you give this experience?
 * Optional: Based on what you’ve seen for this form, what advice would you give other veterans to ensure that they would have a successful submission?
-## Thank-You and Closing - 5 minutes
+
+## Recruiting Experience questions: 3 min
+* We're taking a look at our process for finding Veterans to participate in these sessions.
+   * Is there anything you'd want us to know about how that was for you?
+* Before you joined the study, you had to answer a questionnaire to schedule a session:
+   * How did you feel about the questions?
+
+## Thank-You and Closing: 2 minutes
 Great, thank you so much. This has been really helpful for our team, and we appreciate you taking the time to share your thoughts with us today. Just as a reminder, the things we’ve done today will not affect the status of your account. 
 Do you have any questions or last thoughts for me before we end the session?
 ## Emergency Exit

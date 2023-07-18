@@ -1,4 +1,4 @@
-# CST Initial Research Findings 
+# CST Initial Decisions Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Claim Status Tool, VA Benefits Team 1**
 

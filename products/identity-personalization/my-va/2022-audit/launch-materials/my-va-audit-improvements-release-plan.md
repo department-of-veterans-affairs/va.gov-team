@@ -80,15 +80,15 @@
 
 ### 1-month results (at 100%):
 - **Number of unique users:**
-     - ...
+     - 1,015,954
 - **Any issues with VA handling/processing?**
-     - ...
+     - No
 - **Types of errors logged:**
-     - ...
+     - None
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?**
-     - ...
+     - No
 - **If yes, what:** 
-     - ...
+     - N/A
 
 ## Post-launch Questions 
 

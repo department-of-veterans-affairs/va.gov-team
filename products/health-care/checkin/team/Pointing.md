@@ -14,3 +14,4 @@ When we estimate with story points, we assign a point value to each item. The ra
 |       3       | Adding a new, simple component/page (working from well-defined spec) <br /> Adding a new feature toggle<br/> A minor code change that has complicated testing associated with it.<br/> Adding calls to a new CHIP endpoint |Design and content changes without changing UI pattern <br /> Designing a feature based off examples w/no changes to design system<br>UI Change with extensive complexity|
 |       5       | New feature that touches multiple parts of the application | Designing a feature that requires a new workflow|
 |       8       |  |  |
+|       13      |  |  |

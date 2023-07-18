@@ -1,3 +1,5 @@
+## This flow is no longer up to date as of 6/12/23, up to date flow can be viewed [in VA MURAL space here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792?invited=true&sender=u2905941a69b3083a009c9997).
+
 ## Legend
 
 - `526` = has Rated Disabilities

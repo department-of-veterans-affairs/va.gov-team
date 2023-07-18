@@ -4,6 +4,55 @@ Meeting Owner: Kelly Lein
 Timing: Every 2 Thursdays 2:35 - 3:15pm 
 
 ---  
+**Demo Sprint 73 6/21/23** 
+Agenda
+- Demo Topic(s)
+  -  Documenting current state analytics: log-in success/failure (Greta)
+  -  In-app recruiting flow (Holly)
+
+- Slides - [Sprint 73 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11823718/Sprint.73.-.VA.Mobile.App.Demo.Slides.pdf)
+
+- Video
+  - Documenting current state analytics: log-in success/failure: https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/1292861e-51fe-4abb-b675-7a6ffd8a8706
+  - In-app recruiting flow: https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/3f6a1d5f-d752-471b-b3ce-34786515c9aa
+
+
+
+
+
+
+---  
+**Demo Sprint 72 6/7/23** 
+Agenda
+- Demo Topic(s)
+  -  Understanding our users: Retention (Greta/Liz)
+  -  Data Research Request / Data Flow (Greta)
+
+- Slides - [Sprint 72 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/11680943/Sprint.72.-.VA.Mobile.App.Demo.Slides.pdf)
+- Video - https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/e931b742-e685-4664-88a5-fa8c626a7d70
+
+
+
+
+
+
+
+---  
+**Demo Sprint 71 5/25/23** 
+Agenda
+- Demo Topic(s)
+  -  Secure Messaging Realignment (Misty and Lauren)
+  -  Figma improvements (Jessica) 
+  -  QA Process updates (Binny)
+
+- Slides - [Sprint 71 VA Mobile App Demo Slides.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11568490/Sprint.71.VA.Mobile.App.Demo.Slides.pptx)
+- Video 
+  -  Secure Messaging Realignment Pt.1 - https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/60f0bf54-24ab-4ef6-be54-6806eac3bff1
+  -  Secure Messaging Realignment Pt.2 - https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/0aff31fb-3b2c-49e4-b84f-53221a55f572
+  -  Figma updates and QA process updates - https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/66fcf5e2-a6ea-4b70-8f42-6d953e42de2a
+
+
+---  
 **Demo Sprint 70 5/11/23** 
 Agenda
 - Demo Topic(s)

@@ -19,6 +19,7 @@ Welcome to the CEDAR Identity Login.gov Adoption Team. We're excited to have you
 - [ ] Add [contact information to Project Team tab here](https://docs.google.com/spreadsheets/d/18LUvaTxHe__Ae54O3yUHFwhEpQZrqf-f-312drKsOwc/edit?usp=sharing)
 - [ ] Once you get your PIV card [download the citrix client](https://raportal.vpn.va.gov/Downloads.aspx)
 - [ ] Access [VA Citrix Access Gateway(CAG)](https://citrixaccess.va.gov/vpn/index_citrix_splash.html) for VA Citrix Remote Access. 
+- [ ] Complete [Zenhub onboarding checklist ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/3498c681cbcfd5501e2282fbdfe9d5f700688726/platform/working-with-vsp/orientation/zenhub.md)
 
 ## CEDAR Identity Login.gov Adoption Project
 ### Background

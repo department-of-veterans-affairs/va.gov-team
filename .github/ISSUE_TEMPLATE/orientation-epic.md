@@ -37,9 +37,11 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 ### General
 
-- [ ] Attend the [General Orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation) (schedule via Calendly)
-- [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose)
-- [ ] Watch [Watch the VFS Orientation for Platform Website video](https://www.youtube.com/watch?v=yzl6nyLmqkA&ab_channel=PlatformCrew)
+- [ ] For [General orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
+- [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose) for an overview of VA.gov
+- [ ] Watch [VFS Orientation for Platform Website video](https://www.youtube.com/watch?v=yzl6nyLmqkA&ab_channel=PlatformCrew)
+- [ ] Watch the [Platform Support overview video](https://www.youtube.com/watch?v=iwIQU4XepNQ)
+- [ ] Review the [Getting help from the Platform in Slack guidance](https://depo-platform-documentation.scrollhelp.site/support/getting-help-from-the-platform-in-slack)
 - [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Slack) with Program, Team, Role and Company
 - [ ] Review [Welcome](https://depo-platform-documentation.scrollhelp.site/getting-started/Welcome.1255276574.html) documentation
 - [ ] Review [Support Overview](https://depo-platform-documentation.scrollhelp.site/support/Support-overview.604012552.html) documentation
@@ -51,7 +53,6 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Review guidance on the [Platform Satisfaction Survery](https://depo-platform-documentation.scrollhelp.site/support/platform-satisfaction-survey)
 - [ ] Review the [Code of Conduct](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/code-of-conduct.md)
 - [ ] Review the [Norms for Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-communication.md)
-- [ ] Review [Orientation materials](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) on Platform Website
 - [ ] Review the [Guidelines for Working Safely in an Open Source Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
 
 ### Working on the platform
@@ -70,29 +71,29 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Watch the [getting started with design videos](https://depo-platform-documentation.scrollhelp.site/research-design/getting-started-with-design)
 - [ ] Get oriented to the [Design System](https://design.va.gov/)
 - [ ] Get oriented to the [Collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
-- [ ] Attend [Design orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Design&researchorientation) (schedule via Calendly)
-- [ ] Attend [Accessibility orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) (schedule via Calendly)
+- [ ] For [Design orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Design&researchorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
+- [ ] For [Accessibiliy orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 
 #### Front-end Engineers
 - [ ] Review [frontend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-developer-documentation.687931428.html) on Platform Website
 - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-- [ ] Attend [Front-end orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Front-endorientation) (schedule via Calendly)
-- [ ] Attend [Analytics orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation) (schedule via Calendly)
-- [ ] Attend [Accessibility orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) (schedule via Calendly)
-- [ ] Attend [QA orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) (schedule via Calendly)
-- [ ] Attend [Design System/Forms Library orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Designsystem/formslibraryorientation) (schedule via Calendly)
+- [ ] For [Front-end orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Front-endorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
+- [ ] For [Analytics orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
+- [ ] For [Accessibiliy orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
+- [ ] For [QA orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
+- [ ] For [Design System/Forms Library orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Designsystem/formslibraryorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 
 #### Back-end Engineers
 - [ ] Review [backend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Backend-developer-documentation.1886289964.html) on Platform Website
 - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-- [ ] Attend [Back-end orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Back-endorientation) (schedule via Calendly)
-- [ ] Attend [QA orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) (schedule via Calendly)
+- [ ] For [Back-end orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Back-endorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
+- [ ] For [QA orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 
 #### Product Managers
 - [ ] Request PM intro with @ Shira Goodman in Slack
-- [ ] Attend [Analytics orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation) (schedule via Calendly)
-- [ ] Attend [Accessibility orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) (schedule via Calendly)
-- [ ] Attend [QA orientation session](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) (schedule via Calendly)
+- [ ]  For [Analytics orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
+- [ ] For [Accessibiliy orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
+- [ ] For [QA orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 
 ### Off-boarding of teammates
 - [ ] Review [process for when a teammate leaves](https://depo-platform-documentation.scrollhelp.site/getting-started/offboarding)

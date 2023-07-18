@@ -1,5 +1,238 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Jul 5 2023       
+### Participants: Rakshinda, Steve, Shannon, Austin, Jen
+### Topics Covered:
+- Update the funnel - expedite across both teams?
+   - Looking at discovery to understand the URLs and tags,
+   - Designing the new funnel or multiple for BDD and original flow
+   - Submiting the ticket to platform team for DOMO dashboard
+   - Look at creating the funnels in Google Analytics ourselves - need to check if we have access to do that ourselves
+   - Steve - Talking to Eugene on geting some 526 metrics on Datadog
+     - Sam on Team 2 is also looking at this
+     - Implementation for RUM on the priority board
+- Q3 Initiatives prioritization
+   - Review where we are and plan for the workshops
+   - What stakeholders do we need?   
+- Catch-up on Work in Progress
+   - 526ez sync with paper form
+      -  Content for Toxic Exposure - blocked on content from CAIA - CAIA team is short staffed over the summer so there are more delays
+   - Intro page changes
+      - Content for landing pages pending research report share out. Shareout expected this week.
+   - eVSS Migration to Light house
+      - Expecting the work to continue into October/more
+      - Do we want to consider Team 2 picking up some migration work to improve the ETA?   
+   - 4142
+      -  Shannon to review the changes in 526 and other 2 versions before deciding on testing / implementation
+      -  Need to come up with a strategy for forms that are developed/maintained by multiple applications(like 4142)
+   - Issue Management
+      - New process in place for a couple of weeks
+      - Plan a retrospective in the next few weeks 
+      
+### Date: Jul 5 2023       
+### Participants: Rakshinda, Steve, Shannon
+### Topics Covered:
+- Q3 Initiatives prioritization
+   - Ideas - Shannon and Steve
+      - Let Shannon know when our board is ready for additions
+      - Get the board ready by Friday morning
+      - Performance 
+         - Page load is around 3 sec
+         - More actions are happening that take the page to fully load with data for a lot longer than 3 seconds   
+         - How to measure it?
+         - Establish baselines and metrics
+         - Identify problem areas and teams that control the fix
+      - Improve logging and metrics
+         - Silent failures
+         - Review Kyle's work on this
+         - Sam from 526ex Team2 is also working on it
+      -  Diagram the 526 error categories
+          -  Steve setting up datadog dashboard for visualizing issues and scale
+             - Pair with lamb duty engineer (Mark this week)
+      - Improving health and monitoring metrics
+          - Shannon to get the list
+- Content for Toxic Exposure
+   - Recommendation
+     - Use data from the first few screens or data already filled out for TE screens
+     - Review eng capacity based on recommendation
+     - Research report to be pulled in this sprint   
+- Content for Landing Pages
+   - Waiting for research report share out
+   - If there are a lot of changes, might needto restest
+   - Share a targeted timeline for production with collab cycle
+- 4142
+   -  Shannon to review the changes in 526 and other 2 versions before deciding on testing / implementation
+   -  May test 4142 and evidence collection   
+- Combined road-map
+    - In progress - Austin
+    
+### Date: June 28 2023       
+### Participants: Rakshinda, Shannon, Steve
+### Topics Covered:
+- Issue Management Strategy
+   - Bug Triage - how's it working out?
+      - Need to start looking at bugs
+      - Put the logging items for discovery sprint and review reported bugs in the triage   
+   - Can we find a different time? Work something with Austin
+- Q3 Initiatives prioritization
+   - Idea solicitation
+   - Timeline
+   - Look at getting the board ready by July 10th for review with Matt
+- Combined road-map
+  - In progress - Austin
+- Analytics
+  - Updating site-map and URLs
+  - Austin and Rakshinda working on requirements for dashboard updates
+  - In progress - work on goals for cliamant experience
+     -  Submission time
+     -  Sessions for completion
+     -  Customer satisfaction, other health metrics
+     -  Keep Steve and Shannon included 
+- Keep changes on 526 ancillary forms in sync with other applications and stand-alone digitized forms
+- Stop retrying large file uploads (> 150 MB)
+
+ 
+### Date: June 21 2023       
+### Participants: Rakshinda, Austin, Shannon
+### Topics Covered:
+- Catch-up / updates from the last 2 weeks
+- Issue Management Strategy
+  - How's it been working so far
+     - Particiaption by each team for pairing
+     - Bug Board
+     - Process
+    - Good collaboration between deisgn and dev team feedback from Team 2
+    - Lack or clarity and tools to troubleshoot on Team 2
+    - Seeing some challenges in pairing with Team 2 - Team 1
+    - Feedback session on process
+    - Need to get back to Contact center on the process
+      - Encrypted emails are not readable outside GFE
+    - Action item - daily stand-up for issue management
+       - Include Shannon/Steve while Matt is out
+    - Issue with claims getting lost due to downstream validation issues or other reason - Steve A
+       -  Kyle, Sam, Steve,
+       -  Need to get it on the Zenhub board for prioritization
+    - Scheduling a meeting with contact center to walk through the ticket creation and new process
+      
+- Collaboration between teams
+  -  What's working and what isn't
+  -  How to improve collaboration
+     - Eng collab - Thomas to reach out to Anneliese
+     - product sync - twice a week to begin with
+       
+  -  Analytics  
+    - Meeting this week for
+    - New pulls for analytics - Shannon / Steve / Austin /
+       
+- Roadmap
+  - Review updates by Team Carbs with Austin on another sync
+    
+- PTO Coverage for design team over the summer
+  - Lydia is 4-5 weeks
+     - Planning to get first drafts of content/design for ongoing epics
+     - Possibility of Nicole and Julie
+  - Nichole back when Lydia is leaving
+  
+- eVSS migration status - Steve
+  - Send update every Wednesday
+
+- eVSS outage because a pdf for 150 M was uploaded as evidence
+  - problem originated with efolder document upload  
+  - This caused outage of multiple services
+ 
+###Action item 
+- Find more time this week to go over the rest of the items
+- Add the 150M file upload constraint to the endpoint call for document upload 
+
+
+### Date: June 14 2023
+### Topics Covered:
+- Funnel data and user behavior
+  - Shannon wants to make sure all efforts (Steve, Nyantee, Julie) are synced, also that we are not seeking impossibly "perfect" targets
+  - Austin says Team 2 looking at user behavior overall, alongside error messaging (sees as complementary)
+  - Steve confirms if Thomas (Team 2) and Seth (Team 1) are the best folks for Sentry work
+  - Austin reminds we also have shorter term work around really understanding submission errors
+  - Austin wants to know if we want to prioritize certain user groups
+- Communication between team 1 and 2
+  - Lydia wonders if we can agree on where to communicate across teams in Slack
+  - Matt suggests looping Sarah and Rakshinda into conversation about combined channel
+  - Austin says he'll touch base with Sarah, Lydia will do same with Rakshinda
+- Austin will share brainstorm MURAL for folks to look at async
+- Bug Pilot Rollout
+  - Austin thinks we should go ahead and start piloting with contact center
+  - Matt says it will fall on teams to create tickets, Shannon will help with creating non-contact-center tickets (in Matt's absense)
+  - Matt reminds to capture feedback on MURAL, and will look forward to formal review when he returns
+  - Regarding Sentry/Datadog errors noted by Steve: Austin wondering if should prioritize? Steve says prioritize on case by case basis based on other things going on, expects there to be a pattern that means fixing one means fixing many
+  - Matt reminds to prioritize based on severity, Austin will make sure folks on big duty are understanding/doing this
+  - Austin re: request from Kimberly regarding Form Error lis, will meet to discuss, still need to schedule hand off
+
+
+### Date: June 7 2023
+### Topics Covered:
+- Team 2 Board Quick Overview
+  - First sprint planning complete
+  - Review sprint goal
+- Roadmap
+  - Austin to update shared update in BDX Idea Board Mural 
+- Issue Management Strategy
+  - Next Steps, Who to contact at CCS?
+    - Matt to forward meeting  
+  - Austin to discuss with Lydia on template
+  - Bug request from Kimberly in slack channel
+    - Lydia to follow up 
+- Branch of service drop-down in the BDD flow within the 526 (Barrett Cooper)
+  - Austin and Lydia to follow up with Barrett and hand off for assessment 
+- UX review label (discussion with Lydia)
+- If time (not DBEx related):
+  - Interface with CWINRS (VR&E request from Aude Togbenon and Elizabeth Solley)
+    - Not a bug / this will go through new feature request process - Matt with follow up 
+    - Austin to create a ticket in proper board for future discussion
+
+
+### Date: May 31 2023
+### Topics covered:
+- Rakshinda's coverage - June 2 - June 15
+  -  Invite Lydia for the next two weeks 526 prod sync 
+- Do we need more than 30 min for this sync? 
+    - Keep it to 30 min for next few weeks
+- Issue Management Strategy 
+   - What's next? 
+   - Finalize and share the details with Contact Center Support team
+- Sprint 7 goals
+- Bugs and Defects
+   - What's being picked up by Team Carbs?
+   - Create a ticket for Kimberley for pulling a report of issues for Team Carbs to synthesize the most impacting defects to prioritize for work
+- Create the new workspace for Disability Benefits Experience team for x-team view 
+   - Does addition of new workspace in Zenhub add to expence/licenses? Don't know
+   - Create the DBEX workspace
+- Product syncs across other benefit teams
+   - Keep 526 product sync/share across both team1/team2
+- Schedule Meet and Greet for Austin and Julie with Alejandro - Matt S
+   - Invite Austin and Julie to the biweekly VBA checkin
+   - Send agenda link to Austin 
+-  Update the roadmap to include Team Carbs work - Austin
+-  Email about integration with va.gov - Austin to fwd email to Rakshinda and Matt
+
+### Date: May 24 2023
+### Topics covered:
+- BDD SHA launch date
+   - Is there a preferred day of the week?
+   - Should we invite stakeholders for the review? Or do another one if they can't join today?
+       -  Schedule a feedback session
+- Issue Management Strategy - debrief 
+   - PM/POs to do daily review and prioritization of the bugs
+   - New channel for 526ez bugs 
+      -  Will need to see if that is necessary
+   - Different board (kanban)
+     -  Can look at that
+   - Team Strategy
+     -  Team 1 - 1/2 people per sprint
+     -  Team 2 - carve out velocity
+     -  Pair throughout the sprint    
+- Review upcoming sprint goals
+
+
+      
 ### Date: May 17 2023
 ### Topics covered:
 - Issue Management Strategy - debrief <br>

@@ -1,4 +1,4 @@
-## Veteran Identification Card (VIC)
+## Digital veteran card
 
 
 ## Sprint 0
@@ -94,11 +94,10 @@ TBD
    * [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) has this data
 
 ### Measuring success
-#### Usefulness of VIC:
-* Track number/% of Users that access the ID in the app
-* Track number/% of users that regularly access the ID in the app over time
-* OS Wallet metrics for how often IDs in the Wallets are accessed?  
-   * Location of where/when it is accessed in wallet?
+#### feature engagement:
+* Track number of unique users that access the card in app
+* Track number events, number of times the card is accessed in app
+* if/when applicable, OS Wallet metrics for engagement  
 #### Impact of launching VIC:
 * An increase in app downloads that correlates with the launch of VIC card
 * An increase in the overall number of active app users
@@ -119,7 +118,8 @@ TBD
 1. Surface official VIC within the app
    1. Could work to make request process smoother, including submitting a photo
    2. This would involve working with a VA group that may not have APIs to support what we need.  We may need to help build them ourselves.
-   3. Could try adding a version of it to the OS Mobile Wallet
+      - Confirmed that APIs do not currently exist
+   4. Could try adding a version of it to the OS Mobile Wallet
 2. Create a separate ID card within the app that serves the same purpose but doesn’t adhere to the VIC regulations
    1. Need to ensure the ID we create would be accepted by external groups
    2. Could add it to the OS Mobile Wallet
@@ -131,9 +131,15 @@ TBD
          2. Very different than web
          3. How do we guarantee that outside orgs will take the ID? - not sure, should talk to them
 
+
+
+
+
+
 ### Open Questions
 **Questions for existing VIC:**
 * Is there an API to find which Veterans have a VIC?
+  * Answer from VIC team: There isn't, but, "this should be possible" 
 * Applying for VIC:  
   * 2 ways to apply, AccessVA or VA.gov but VA.gov isn't working right now
   * apply online, login.gov doesn't work yet but 
@@ -144,9 +150,12 @@ TBD
     * Confirming Gov ID, approve photo
   * There is an ID #
 * Can we access the VIC PDF and surface it (or ideally the data used in the PDF) in the app?
+  * * Answer from VIC team: There isn't, but, "this should be possible". The VIC app runs off a mongoDB, which we should be able to run queries against.  
 * Who would we work with in VA for this?
 * What does their audience look like now?  How many Veterans have a VIC?
+  * Answer: About 500,000 veterans have a VIC card right now.
 * Can Veterans print the card on their own, at home? Or does it have to be printed a specific way?
+  * Answer: the card can be printed at home, does not have to be printed in any specific way  
 * In what specific real-life situations does the VIC card get used today?
     * What are the discounts and other private-sector benefits Veterans would have access to with their VIC?
     * How frequently do Veterans need to use some form of Veteran ID?
@@ -198,24 +207,27 @@ Increase active user base
 * With internet connectivity,
 * As an authenticated user,
 * Using the VA Flagship mobile app,
-* Can discover and create a VSC
+* Can discover and create/view a card
 
 ### Acceptance criteria
-* Available in English
-* Creates or already has a VA.gov account 
-* Can be verified of Veteran status
-* Knows they can create a Veteran Status Card
-* If a user has an account but cannot be verified as a Veteran, they do not see a button to create a VSC 
-* A VSC will have these pieces of data:
+* Signs into app
+* Verified of Veteran status
+* Views a Veteran Status Card
+* If a user has an account but cannot be verified as a Veteran, they do not see a card
+* A card has the following data:
 	* Veteran name
-	* Dates of service (consider simplifying into something like number of years served?)
-	* Branch of military
-	* VA logo
-	* Photo of their choosing—optional 
-* Upon review of their information, can take the appropriate steps to correct it, if needed
+   	* Date of birth
+   	* VA logo
+   	* Branch of military
+	* Dates of service (If there were multiple service periods, choose status quo of current experience in mobile/web/va-profile)
+* Upon review of card information, sees info on how to revise data if needed
+* VA can add info to this card in the future if a veteran becomes eligible to access x benefit (e.g. health service)
+
+### Future enhancement considerations
+* Card has number of years served
+* Card has photo of user's choice, optional 
 * Can add it to Apple/Google wallet
-* Can print their card
-* Has the ability to add info to this card, in some future date, should a veteran become eligible to access VA health services 
+* Can export to print a card
 
 ### Questions:
 1. How would the native mobile app contribute to a veteran’s success?
@@ -228,8 +240,9 @@ Increase active user base
 	- OCTO
 	- ???
 5. What kind of API magic can we harness to verify Veteran Status? I’ve heard MPI thrown around.
-6. Are there multiple ways to capture Veteran status (e.g. if a Veteran is enrolled in Health care, can we piggyback on that presumed Veteran status?)
-7. Should we enable card deletion? 
+        - Answer: Veteran verification API has this data
+7. Are there multiple ways to capture Veteran status (e.g. if a Veteran is enrolled in Health care, can we piggyback on that presumed Veteran status?)
+8. Should we enable card deletion? 
 
 ### Incoming Amazon Box (What we want)
 * Understanding of scope

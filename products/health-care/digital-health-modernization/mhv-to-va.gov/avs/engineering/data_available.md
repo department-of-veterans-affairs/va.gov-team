@@ -65,10 +65,7 @@
 #### Fields
 - Type
 - NDC (National Drug Code)
-- Total number of refills
 - Reason
-- Quantity
-- Days supply
 - Ordering provider
 - Rx Type
 

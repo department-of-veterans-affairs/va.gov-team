@@ -1,3 +1,12 @@
+---- 
+
+### For community assitance with Zenhub issues, go to [#zenhub-information](https://app.slack.com/client/T03FECE8V/C05BRLN52HJ).
+
+
+----
+
+
+
 # Zenhub
 
 Zenhub is the main issue tracking tool used by VSP. An intro to Zenhub can be found [here](https://help.zenhub.com/support/solutions/articles/43000010778-what-is-zenhub-an-intro-to-zenhub-in-github).

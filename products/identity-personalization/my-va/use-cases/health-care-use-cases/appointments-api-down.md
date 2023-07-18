@@ -1,5 +1,7 @@
 # My VA Health Care Use Case: The appointments API is down and the system can't tell if the user has appointments scheduled but can tell they have VA health care
 
+**Last updated:** July 17, 2023
+
 For LOA3 users who have VA health care but sign in when the appointments API is down, they will see an error in the Health care section on My VA as well as other useful health care links.
 
 ## UX
@@ -12,7 +14,7 @@ For LOA3 users who have VA health care but sign in when the appointments API is 
 - When this error occurs and the user does have unread messages, they will see the unread messages alert above the appointments error as well as links in the Health care section to [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions), [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/), and [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data). These links currently all go to their respective pages in My HealtheVet.
 - When this error occurs and there are unread messages, all secondary links appear on the right hand side on desktop.
 - [Desktop mockup without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
-- [Mobile mockup without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/Krd92n/a/uuid/E9539FDB-7D42-4153-83EF-CC1394FC9C14)
+- [Mobile mockup without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
 - [Desktop mockup with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C19F6AA0-62CE-4F92-89BD-65680DE67F60)
 - [Mobile mockup with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/0C2845E1-A9E9-412C-B653-11B292A822A0)
 

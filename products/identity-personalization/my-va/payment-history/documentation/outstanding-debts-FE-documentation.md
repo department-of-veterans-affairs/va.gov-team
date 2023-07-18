@@ -1,5 +1,8 @@
 # Outstanding Debts Frontend Documentation
-Last updated: October 26, 2022
+Last updated: July 17, 2023
+
+### Background
+This is FE documentation for v2 of "payment info" on My VA in which the original single section My VA, "Benefit payments and debts" was separated out into two sections - one for Outstanding Debts and a second for Benefit Payments. This document specifically covers the Outstanding Debts section on My VA.
 
 ## When to show the ‘Outstanding debts’ section
 We show this section for every LOA3 user.
@@ -127,7 +130,7 @@ You have no overpayment debts or copay bills.
 ### Error State 1: The Debt API or Copay API call fails
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+- Use the [warning alert component](https://design.va.gov/components/alert#warning-alert) for the error message.
 >**We can't access some of your financial information**
 
 >We're sorry. We can't access some of your financial information right now.  We're working to fix this problem. Please check back later.

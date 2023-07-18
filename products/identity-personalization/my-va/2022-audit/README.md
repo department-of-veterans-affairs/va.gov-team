@@ -1,11 +1,13 @@
 # Project outline: My VA audit, updates, and documentation
 
-**Last updated: April 18, 2023 - updated key dates, added 'after' screenshot**
+**Last updated: June 27, 2023 - updated 2 month metrics**
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; my-va-dashboard
-- **Slack channel**: vsa-authd-exp
+- **GitHub Label**: authenticated-experience; my-va-dashboard
+- **Slack channel**: accountexp-authexp
+- **Development Epic: [#41934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41934)**
+- **Collaboration Cycle Epic: [#42601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42601)**
 
 ### Roles
 
@@ -18,6 +20,7 @@
 - [Solution approach](#solution-approach)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
+- [Security](#security)
 - [Measuring Success](#measuring-success)
 - [Key deliverables](#key-deliverables)
 - [Key Dates](#key-dates)
@@ -83,6 +86,9 @@ To mitigate each of the problems above, we plan to do the following:
 
 - These updates don't really improve the page for us or the end user.
 
+## Security
+[My VA Audit UX Improvements Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/launch-materials/my-va-audit-improvements-security-playbook.md)
+
 ## Measuring Success
 
 - [Analytics how-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/Product/audit-analytics-how-to.md)
@@ -96,15 +102,15 @@ To mitigate each of the problems above, we plan to do the following:
 
 |KPI/metric|Baseline: <br />1 month pre-launch to 25%  <br />(3/10/23 - 4/09/23)|1 month post-launch to 100% <br />(4/25/23 - 5/24/23)| 2 months post-launch to 100% <br />(5/25/23 - 6/24/23)|
 |----------|-------------|---------------|-------------------|
-|Clicks into "Manage all claims and appeals"|417,914|TBD|TBD|
-|Clicks into individual claims, "Review claim"|305,445|TBD|TBD|
-|Clicks into "Learn how to file a claim"|Not applicable - new link to My VA|TBD|TBD|
-|Clicks into "Apply for VA health care"|Not applicable - new link to My VA|TBD|TBD|
-|Clicks into "Schedule and manage your appointments"|16,606|TBD|TBD|
-|Clicks into "Send a secure message to your health care team"|100,893|TBD|TBD|
-|Clicks into "Refill and track your prescriptions"|77,825|TBD|TBD|
-|Clicks into "Manage your VA debt"|25,830|TBD|TBD|
-|Clicks into "Review your payment history"|1,492|TBD|TBD|
+|Clicks into "Manage all claims and appeals"|417,916|294,679|374,578|
+|Clicks into individual claims, "Review claim"|305,445|509,934|633,521|
+|Clicks into "Learn how to file a claim"|Not applicable - new link to My VA|14,878|21,385|
+|Clicks into "Apply for VA health care"|Not applicable - new link to My VA|4,546|6,005|
+|Clicks into "Schedule and manage your appointments"|16,606|71,880|89,559|
+|Clicks into "Send a secure message to your health care team"|100,893|84,044|107,809|
+|Clicks into "Refill and track your prescriptions"|77,825|60,721|86,540|
+|Clicks into "Manage your VA debt"|25,830|21,243|24,369|
+|Clicks into "Review your payment history"|225,791|203,138|257,159|
 
 **KPI: We will see a reduction in searches for terms related to new links added to My VA.**
 
@@ -112,15 +118,15 @@ To mitigate each of the problems above, we plan to do the following:
 
 |KPI/metric|Baseline: <br />1 month pre-launch to 25% <br />(3/10/23 - 4/09/23)|1 month post-launch to 100% <br />(4/25/23 - 5/24/23)| 2 months post-launch to 100% <br />(5/25/23 - 6/24/23)|
 |----------|-------------|---------------|-------------------|
-|Search rank for "gi bill” or similar from My VA (whichever comes first)|#28 (282 instances)|TBD|TBD|
-|Search rank for "coe” or "certificate of eligibility" (whichever comes first)|#4 (970 instances)|TBD|TBD|
+|Search rank for "**gi bill**” or similar from My VA (whichever comes first)|#28 (282 instances)|#44 (177 instances)|#46 (230 instances)|
+|Search rank for "**coe**” or "certificate of eligibility" from My VA (whichever comes first)|#4 (970 instances)|#6 (860 instances)|#5 (1,080 instances)|
 
 **KPI: Establish baseline metrics for clicks into new links from My VA.**
 
 |KPI/metric| 1 month post-launch to 100% <br />(4/25/23 - 5/24/23)|2 months post-launch to 100% <br />(5/25/23 - 6/24/23)|
 |----------|---------------|-------------------|
-|Clicks into "Compare GI Bill benefits by school" from My VA |TBD|TBD|
-|Clicks into "Check your GI Bill statement of benefits" from My VA |TBD|TBD|
+|Clicks into "Compare GI Bill benefits by school" from My VA |5,105|6,284|
+|Clicks into "Check your Post-9/11 GI Bill statement of benefits" from My VA |53,301|65,277|
 
 ## Key deliverables
 

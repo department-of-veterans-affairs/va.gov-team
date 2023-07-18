@@ -1,5 +1,5 @@
 # My VA Claims and Appeals Frontend Documentation
-Last updated: October 26, 2022
+Last updated: July 17, 2023
 
 ## When to show the ‘Claims and appeals’ section
 We show this section for every LOA3 user.
@@ -104,7 +104,7 @@ Use font awesome icon `file-lines` for icon
 ### Error State 1: The claims API call fails
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+- Use the [warning alert component](https://design.va.gov/components/alert#warning-alert) for the error message.
 >**We can't access your claims or appeals information**
 >
 >We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.
