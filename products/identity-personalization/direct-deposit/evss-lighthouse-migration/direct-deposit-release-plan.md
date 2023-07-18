@@ -74,12 +74,13 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 | Launch to 100% | ~3 days | week of 08/21/2023 |[#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
   
 - How will you make the product available in production while limiting the number of users who can find/access it: We'll enable the toggle for a % of users
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: We want to see that the new LH API is working as good or better than our current EVSS API
+  - Successful retrievals of direct deposit (C&P) information
+  - Failed retrievals of direct deposit (C&P) information
+  - Form Submits for direct deposit (C&P) information
+  - Failures in saving direct deposit (C&P) information
+- Links to the dashboard(s) showing "success criteria" metrics:  [GA Dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
+- Who is monitoring the dashboard(s)?: PM/PO/BE Developer 
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
