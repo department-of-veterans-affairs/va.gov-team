@@ -76,10 +76,20 @@
 
 ## Notes
 
+## 7/25/23 Agenda:
+* Q3 Projects in Progress
+   *  Secure Messaging - Migrate to Re-Engineered MHV APIs
+      * Met with Christy and found they plan to be done with their work by the 1st week of Sept - asking when we could slate the work - earliest would be Sprint 80 (9/13) 
+* Question for the POs
+   * Any new work we should be on the lookout for?
+   * Any priority shifts?
+* Sprint 77 Planning (Adam)
+   * Review [Sprint 76 SoS board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3) to see what is currently slated
+
 ## 7/18/23 Agenda: 
  * SoS is being used this day for Sprint Planning for Sprin 76
  * Sprint Planning Slides [Mobile Team Sprint Planning - Sprint 76.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12088648/Mobile.Team.Sprint.Planning.-.Sprint.76.pdf)
- * Additional discussions needed on the process to handle pulling in tickets that were not planned 
+ * Additional discussions needed on the process to handle pulling in tickets that were not planned - Jennifer to followup with Matt on coordination
 
 
 ## 7/11/23 Agenda and Meeting Notes 
