@@ -67,13 +67,13 @@ Let’s start with a couple warm-up questions.
 ### Things to watch for:
 - [What terminology does the Veteran use as they talk about their experience?]
 - [How does the Veteran portray the overall process - easy, difficult, uneventful?]
-- [How does the Veteran descirbe the process of figuring out what they are eligible for - are they frustrated or do they find it easy?]
+- [How does the Veteran describe the process of figuring out what they are eligible for - are they frustrated or do they find it easy?]
 - [What does the Veteran call out about the process after the initial application and around managing their benefits?]
 - [What pain points or areas of confusion are revealed?]
 
 
 ## Second Topic: [Priority Group - Awareness] - 5 minutes
-- Can you tell me more about what Priority Group you are in for your health care benefits now.
+- Can you tell me more about what Priority Group you are in for your health care benefits now?
 - Can you please describe how this was communicated to you and how you understood the impact to you and your benefits?
 - Before you completed enrollment, how were you aware of Priority Groups or copays as part of the health care benefits package?
 - [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
@@ -97,7 +97,7 @@ Let’s start with a couple warm-up questions.
 
 ### Things to watch for:
 - [Do Veterans call out VA.gov as where they would expect to find this information? Do they list VA Profile?]
-- [Do Veterans mention other channels to find and manage this information - Proifle, MHV, mobile, etc?]
+- [Do Veterans mention other channels to find and manage this information - Profile, MHV, mobile, etc?]
 - [What information do Veterans want to know about their Priority Group?]
 
 
@@ -134,10 +134,10 @@ Let’s start with a couple warm-up questions.
 - Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
 - [Share link to VA.gov in Zoom chat]
 
-- For this scenario, you received a communication to update your annual income to maintain your copay and travel reimbursment costs as part of your health care benefits.
+- For this scenario, you received a communication to update your annual income to maintain your copay and travel reimbursement costs as part of your health care benefits.
 
 [Notification and process]
-- How would you like to recieve this communication that you need to provide updated financial information?
+- How would you like to receive this communication that you need to provide updated financial information?
 - What would you want to know in this communication about how and why you need to update your financial information?
 
 [Where to find]
