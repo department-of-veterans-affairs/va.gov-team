@@ -1,7 +1,7 @@
 # DRAFT Research Plan for health care application generative research study around Priority Groups and Financial Updates [Health Enrollment Team, 10-10EZ, July 2023]
 
 ## Background
-The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) can both impact a Veteran's eligibilty and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbursement in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to provide personal, financial or insurance information updates after enrollment. 
+The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) can both impact a Veteran's eligibility and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbursement in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to provide personal, financial or insurance information updates after enrollment. 
 
 The outcome of this generative research study will help in understanding the Veteran's mental model around health care benefits as it pertains to understanding and maintaining those benefits - specifically around awareness of their Priority Group and that impact as well as updating financial information after initial enrollment. 
 
@@ -21,7 +21,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 ### Veteran Journey
 
-- This fits accross the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from **getting out to aging**.
+- This fits across the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from **getting out to aging**.
 
 - This impacts a **key moment that matters** in that Veterans need to select the health care coverage according to their individual needs and preferences and that is the best fit for them. 
 
@@ -67,7 +67,7 @@ We will use these findings to:
 
 **Learn more about how Veterans would like to go about providing updated information - such as financial information or dependents - that could impact their health care benefits after enrollment.**
 
-- Where do Veterans call out as the way to manage their health benefits information like finanical updates and copays? 
+- Where do Veterans call out as the way to manage their health benefits information like financial updates and copays? 
 - Currently, how do Veterans prefer to provide updated financial information (in person at appointments or over the phone)? Ideal state, how would Veteran's prefer to make these updates?
 - Do income updates cross benefits in the Veteran's POV or do they associate them only with their health care benefits?
 - Would Veterans prefer to be prompted to provide updated financials or do this proactively?
@@ -83,7 +83,7 @@ We will use these findings to:
 - We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
 - We assume that Veterans want more information about Priority Groups and transparency about how that impacts their eligibility and benefits.
 - We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between that could impact their enrollment and Priority Group placement. 
-- We assume there is a desire from Veterans for the Priority Group placement to be more clear as it pertains to benefits, copays, costs and travel reimubrusement
+- We assume there is a desire from Veterans for the Priority Group placement to be more clear as it pertains to benefits, copays, costs and travel reimbursement.
 - We assume that Veterans would like to update their financial information online if it was available but need a clear way to be communicated to or notified that they have to do so.
 - We think that Veterans will go to the VA profile to update personal information like financial updates annually.
 
@@ -121,8 +121,8 @@ Our intended audience for this research are Veterans and we will be using and le
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 **Veterans**
-- Mix of particpant ages (no more than 2 each per age group)
-- No more than 3 particpants who identify as White
+- Mix of participant ages (no more than 2 each per age group)
+- No more than 3 participants who identify as White
 - At least 3 participants who are women
 - At least 2 participant who identifies as Asian
 - At least 2 participant who identifies as Hispanic
