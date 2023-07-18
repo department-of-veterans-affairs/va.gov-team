@@ -22,6 +22,7 @@ Date: 07/18/23
 [Who we talked to](#who-we-talked-to)
 
 <br>
+
 ## Background
 Alternative text (alt text) is a crucial component of web accessibility, as it provides a means of conveying visual content to individuals who are visually impaired or have difficulty seeing certain types of content. However, the creation of accurate alt text can be challenging, particularly for Drupal CMS editors who may lack prior experience with and knowledge of creating plain and accessible language for the web. This circumstance may be exacerbated when editors have low confidence in using the CMS.
 
