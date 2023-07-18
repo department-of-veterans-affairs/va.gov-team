@@ -50,7 +50,7 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Create Short & Long Versions of the Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62156)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60874)    
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62169)    
 - **GOAL: Address tech & design debt**
     - TBD
 __________________________________________________________________________________________________________________________________________________________
