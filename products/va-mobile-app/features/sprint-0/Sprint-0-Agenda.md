@@ -62,6 +62,12 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Working session notes
 
+## 7/20/23
+
+* [Sprint 0: Error Documentation - Misty](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Error%20Documentation/Error%20documentation%20sprint%200.md)
+
+
+  
 ## 7/6/23
 
 * [Sprint 0: User Endpoint Enhancement - Jayson](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md)
