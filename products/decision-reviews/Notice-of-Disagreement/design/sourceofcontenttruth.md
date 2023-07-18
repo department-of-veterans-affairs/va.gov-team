@@ -364,7 +364,7 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-### Denail of VA health care benefits
+### Denial of VA health care benefits
 
 Tell us why you have good cause for an extension.
 
