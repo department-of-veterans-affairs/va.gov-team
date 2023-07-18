@@ -22,6 +22,17 @@ Deep links produce a seamless user journey that reduces churn and increases the 
 
 We want to provide the veteran with the best user experience possible in order to drive conversion and retention rates in the app.
 
+**MVP Q3 Decisions** (High Level)
+
+1. Secure Messaging vs Appointments- Deep Linking via SECURE MESSAGING for MVP
+More volume of users was noted currently for appts, however we would like to go with secure messaging as it poses the least complication overall
+
+2. Deep Link to Inbox
+User receives a push notification and this will “deep link’ to the Inbox (newest message)
+
+3. Back Navigation: As user exits the inbox, they will be taken back to the Home Screen of the App.
+
+
 **Assumptions and Level of Confidence**
 TBD
 
