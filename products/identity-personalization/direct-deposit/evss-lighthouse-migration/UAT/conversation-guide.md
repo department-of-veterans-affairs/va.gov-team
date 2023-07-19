@@ -35,6 +35,8 @@ _Direct user to Direct Deposit section of Profile_
 - [ ] **UAT TASK:** Confirm that their direct deposit information is visible in the Profile (read-only view).
 	* If see messaging that they are not eligible for direct deposit, then they likely do not receive disability compensation from the VA. If this is the case, end the session.
 	* If see prompt to set up direct deposit, then they likely receive disability compensation via check, as opposed to direct deposit. If that's the case, move to optional task 6.
+- [ ] **UAT TASK:** Confirm that their direct deposit information is correct in the Profile (read-only view).
+
 
 ## UAT Task #2: Cancel an edit to direct deposit info - 2 minutes
 Next, I'll have you click to edit your direct deposit info. Now click cancel, and let's see what happens. 
