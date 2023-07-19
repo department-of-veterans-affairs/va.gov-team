@@ -38,7 +38,7 @@ Before we start, a few things I want to mention:
    - If yes: Admit observers. 
     - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
-- **Are you comfortable if I record my audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this) or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7. Knowing that, are you comfortable if I record my screen and audio as we talk today?
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
@@ -57,7 +57,7 @@ Let’s start with a few warm-up questions.
 
 - What was your experience like getting setup for that appointment beforehand or did you just walk in?
 - Can you describe your experience with any forms or sign up information that you had to complete to apply to be seen for care? [Not saying your "registration experience, but would they have filled out an EZ?]
-- Was it clear to you as you were applying/getting care, what benefits or level of care you would qualify for? 
+- What was your impression to what benefits or level of care you would qualify for as you were applying/getting care? 
 - How would you describe the process after you were seen for care? 
 - Did you have any communication from the VA or information if you were eligible for more health care benefits?
 
@@ -102,7 +102,7 @@ Let’s start with a few warm-up questions.
 
 ## Post-Task Interview - 5 minutes
 
-- Out of the 2 scenarios that were talked through with you, what one would you prefer out of those and why?
+
 - Is there anything else you would like to add about what we talked about today?
 - Any questions for me? 
 
