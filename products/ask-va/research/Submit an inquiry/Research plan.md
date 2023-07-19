@@ -29,7 +29,7 @@ Ask VA can support Veterans, caregivers and other submitters at all stages of th
 
 The key goals of this study are to:
 
-* Understand how submitters expect to answer questions and in which order
+* Understand how submitters expect to answer form fields and in which order
 * Understand how submitters expect to review an ongoing or past inquiry
 * Understand whether submitters know where to get help or what they will do if they encounter an issue
 
@@ -39,12 +39,12 @@ This research will help us determine if and how we need to improve the design an
 
 ### Research questions
 
-Understand how submitters expect to answer questions and in which order:
+Understand how submitters expect to answer fields and in which order:
 
 * Is it clear when you need to authenticate or when it’s optional?
 * Do the form patterns match people’s expectations of how they would answer each question?
 * Are people missing information on any question, page or sequence of pages?
-* Are there too many or too few questions per page?
+* Are there too many or too few fields per page?
 * Is it clear how much longer the form is?
 * Do people understand how to edit their answers on the review page?
 * How long do people expect it to take to submit an inquiry?
@@ -65,11 +65,11 @@ Understand whether submitters know where to get help or what they will do if the
 
 ### Hypotheses
 
-1. Most people will think authentication is required in order to ask any question, or, they will not understand that it’s required for specific types of questions.
-2. Most people will find answering questions throughout the form straightforward and intuitive.
-3. Most people will choose to answer questions even if they are not required.
+1. Most people will think authentication is required in order to ask any question, or, they will not understand that it’s required for specific types of fields.
+2. Most people will find answering fields throughout the form straightforward and intuitive.
+3. Most people will choose to answer fields even if they are not required.
 4. Most people will have a clear understanding of how long the form is and how much progress they have made throughout the process.
-5. Some people will give up midway through the form because there are too many questions.
+5. Some people will give up midway through the form because there are too many fields.
 6. Most people will understand how to edit answers on the review page.
 7. Some people will be confused about which information they can edit on the review page and which they cannot.
 8. Most people will prefer to receive email notifications when the status of their ongoing inquiry changes.
