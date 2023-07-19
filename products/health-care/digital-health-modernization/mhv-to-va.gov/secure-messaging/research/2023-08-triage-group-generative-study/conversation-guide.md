@@ -95,7 +95,7 @@ _[if no:]_
 
 _[if yes:]_
 
-- Can you walk me through what you did?
+- Can you walk me through what you did to find the right person to send your message to?
 
 ## **Task 2: Contact Lists**
 
