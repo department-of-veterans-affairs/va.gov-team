@@ -14,6 +14,14 @@ Auth: https://staging-developer.va.gov/explore/authorization/docs/client-credent
 
 ## Veteran Verification
 
+### Public/Private key generation example
+
+Below is an example of how to generate a public/private key for VV
+
+    openssl genpkey -algorithm RSA > lighthouse_vv_private.pem
+    openssl pkey -pubout -in lighthouse_vv_private.pem > lighthouse_vv_pub.pem
+    pem-jwk lighthouse_vv_pub.pem lighthouse_vv_pub.jw
+
 ### Auth token example
 
 Below is an example of how to generate an auth token for VV, using the rails console. See the [Auth page](https://staging-developer.va.gov/explore/authorization/docs/client-credentials?api=claims) for more details- and first steps. This example assumes that you've already requested a token, generated public/private keys, received a client ID, etc
