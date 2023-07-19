@@ -10,11 +10,11 @@ Identify all backend actions and items a Higher Level Review submission on va.go
   
 
 ### List of possible Discrete Submission Actions
-Action | Description | [Up/Down]stream System | Transfer Description | Frequency
--- | -- | -- | -- | --
-Prefill Info | Get info for the veteran to pre-populate information on the form | Vet360 (mailing address),BGS (file number last 4) | An http call to external service | Always 1 per submission
-Get Contestable Issues | Gets a list of contestable issues the veteran can choose from for this claim | Lighthouse | An http call to external service | Always 1 per submission
-Overall HLR Claim Submission | The overall submission over the claim | Lighthouse | An http call to external service | Always 1 per submission
+Action | Description | [Up/Down]stream System | Transfer Description | Frequency | Consequence of Failure
+-- | -- | -- | -- | -- | -- 
+Prefill Info | Get info for the veteran to pre-populate information on the form | Vet360 (mailing address),BGS (file number last 4) | An http call to external service | Always 1 per submission | User cannot begin the form
+Get Contestable Issues | Gets a list of contestable issues the veteran can choose from for this claim | Lighthouse | An http call to external service | Always 1 per submission | User is allowed to continue, must enter in their own contentions. May cause confusion if user does not know it, or delay claim if they enter something different that what they requested before.
+Overall HLR Claim Submission | The overall submission over the claim | Lighthouse | An http call to external service | Always 1 per submission | User sees an error message on the webpage. Save in progress data is retained. They may attempt later.
   
 
 
