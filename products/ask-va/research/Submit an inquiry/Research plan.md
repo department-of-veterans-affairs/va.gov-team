@@ -140,7 +140,7 @@ Example: I’m a Veteran. I called the VA to ask them a question about my claim 
 
 Example: My wife is a Veteran, I’m one of her dependents. She has another dependent, my son. I called the VA 2 weeks ago to ask them a question about my son’s benefits. I sign in to VA.gov twice a year to check my records. I can use Zoom on my smartphone.
 
-#### Demographic criteria
+#### Demographic targets
 
 * At least 8 people must have a cognitive disability or consideration
 * At least 8 people must be over 55
