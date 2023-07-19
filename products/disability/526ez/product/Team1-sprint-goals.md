@@ -4,43 +4,57 @@
 Period - 07/19/2023 - 08/1/2023
 ### Sprint goals 
 - **Expedited**
-   - [ ] Bug - 
+   - [ ] Bug - Make VAMC fields optional
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - Rateddisabilities
-            - Can we work on a release plan? Consider staggered release? 
+            - [ ] Complete Release Plan
+            - [ ] Start staggered release
         - Submit 
             - [ ] Abstract calls to submit endpoint
-            - [ ] Start endpoint migration - PPIU Abstraction
+            - [ ] Start endpoint migration - Document Service
+            - [ ] Start endpoint migration - Claims Service
 - **Features**
    - Intro page changes and 526ez current with paper form
       - [ ] Intro pages - Research shareout
-      - [ ] Toxic Exposure screens - Research - Reconciling Midpoint Review Research Musts
+      - [ ] Toxic Exposure screens - Start Research Plan
       - [ ] Toxic Exposure screens - Design - Updates based on Midpoint review and VBA stakeholder review
-      - [ ] 
 - **Analytics**
-  - [ ] None
+  - [ ] Tech dicovery for custom tags in 526ez for Google Analytics - Engineering
+  - [ ] Send data request to VBA - Research
+        
 - **Tech Debt**
 
 ## Sprint 9
 Period - 07/06/2023 - 07/18/2023
 ### Sprint goals 
 - **Expedited**
-   - [ ] Bug - Eng Fix - Error handling for bad CSRF tokens #58396 - depends on findings and capacity
+   - [x] Bug - Tech Discovery - Error handling for bad CSRF tokens #58396
+      - Completed discovery
+      - The fix is expected at the Platform level
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - Rateddisabilities
-            - Can we work on a release plan? Consider staggered release? 
+            - [ ] Release plan
+              - In progress 
         - Submit 
-            - [ ] Abstract calls to submit endpoint
-            - [ ] Start endpoint migration - PPIU Abstraction
+            - [x] Abstract calls to submit endpoint
+            - [x] Start endpoint migration - PPIU Abstraction
+            - [ ] Document Service
+               -  Picked up mid-sprint
+               -  In progress
 - **Features**
    - Intro page changes and 526ez current with paper form
-      - [ ] Intro pages - Research shareout
-      - [ ] Toxic Exposure screens - Research - Reconciling Midpoint Review Research Musts
-      - [ ] Complete 4142 tech discovery for FE - Engineering
+      - [x] Intro pages - Research shareout
+      - [x] Toxic Exposure screens - Research - Reconciling Midpoint Review Research Musts
+      - [x] Complete 4142 tech discovery for FE - Engineering
+         - Completed tech discovery
+         - Pending discussion with Shannon, Matt and Jen about whether we are ready to pick this up 
 - **Analytics**
-  - [ ] None
+  - Funnel Update
+     - [x] - Updated URLs to create a funnel update ticket for DOMO
+     - Collaborated with Team 2 on what requests to create 
+ 
 - **Tech Debt**
 
  
