@@ -1,4 +1,4 @@
-# VA Mobile Research Roundup: Personalized App Screen
+# VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)
 
 Nov 3, 2021
 
