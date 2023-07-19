@@ -8,6 +8,9 @@
 |---|---|:-:|
 |EVSS>Lighthouse API Migration|As part of the EVSS to Lighthouse migration, the Disability Rating API is migrating and we need to update our process to use the new API.|In Progres 7/2023|
 
+## KPI/Metrics 
+Google Analytics [dashboard here](https://analytics.google.com/analytics/web/#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)  is tracking Lighthouse API calls versus EVSS calls. 
+The [dashboard was updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61095) as part of the EVSS>LH migration. 
 
 
 ## Sketch Mockups
