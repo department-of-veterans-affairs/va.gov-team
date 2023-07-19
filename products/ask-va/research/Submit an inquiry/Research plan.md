@@ -30,6 +30,7 @@ Ask VA can support Veterans, caregivers and other submitters at all stages of th
 The key goals of this study are to:
 
 * Understand how submitters expect to answer form fields and in which order
+* Understand if submitters are clear when they need or don't need to authenticate
 * Understand how submitters expect to review an ongoing or past inquiry
 * Understand whether submitters know where to get help or what they will do if they encounter an issue
 
@@ -41,7 +42,6 @@ This research will help us determine if and how we need to improve the design an
 
 Understand how submitters expect to answer fields and in which order:
 
-* Is it clear when you need to authenticate or when it’s optional?
 * Do the form patterns match people’s expectations of how they would answer each question?
 * Are people missing information on any question, page or sequence of pages?
 * Are there too many or too few fields per page?
@@ -49,6 +49,10 @@ Understand how submitters expect to answer fields and in which order:
 * Do people understand how to edit their answers on the review page?
 * How long do people expect it to take to submit an inquiry?
 * What do people expect to happen right after they submit an inquiry?
+
+Understand if submitters are clear when they need or don't need to authenticate:
+
+* Is it clear when you need to authenticate or when it’s optional?
 
 Understand how submitters expect to review an ongoing or past inquiry:
 
