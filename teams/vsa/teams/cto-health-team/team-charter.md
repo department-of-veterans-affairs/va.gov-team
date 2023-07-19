@@ -83,15 +83,24 @@ We have created a [PI Planning board in ZenHub](https://app.zenhub.com/workspace
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals.
 
-- Monday before the start of each sprint @2PM ET
+- Monday before the start of each sprint @ 2PM ET
 - 1 hour 
 
 #### Backlog Refinement
 Assess and update workload for remainder of sprint
 
-- 2nd Monday of every sprint @ 2 PM ET
+- 1st Monday of every sprint @ 2 PM ET
 - 1 hour
 - [Zenhub: MHV on VA.gov Top-Level View](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
+
+Refinement Process
+1. Thursday before refinement - A list of tickets to be refined will be sent in the team Slakc channel. This gives the team time to become familiar with the tickets and develop questions/comments/suggestions for discussion.
+2. During refinement - The team will discuss the listed tickets, addressing team members' questions/comments/suggestions.
+3. After refinement - Point voting will be opened in the team Slack channel using the Poker Planner app.
+   - Team members will vote on any tickets they are comfortable expressing an opinion on.
+   - Voting will remain open until EOD the Wednesday follwing refinement to allow the team ample time to process discussion and form an opinion.
+4. After voting, each ticket will be assigned the highest non-outlier point value from the voting in order to be conservative on capacity planning.
+   - If follow-up discussions are needed for a ticket, those conversations will be done asynchronously in the team Slack channel among all those who voted on the ticket.
 
 #### Retrospective
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action/improvement items
