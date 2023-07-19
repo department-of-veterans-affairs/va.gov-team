@@ -33,7 +33,7 @@
 ## <a name="nav"></a>Entry points <br>
 
 1. Supporting page forms - Add
-  - Placement description: 
+  - Placement description: 4th option down
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972
   - Notes: 
