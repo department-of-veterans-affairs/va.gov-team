@@ -153,7 +153,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 
 **Pilot 2 - Moderator David Kennedy**
-* Pilot participant email: 
+* Pilot participant email: Heather Justice (heather.justice@adhocteam.us)
 * Date and time of pilot session: Tuesday July 25, 2023 at 1pm ET / 10am PT
 
 
