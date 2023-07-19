@@ -2,6 +2,8 @@
 
 ## Update status
 - 7.13.23: Creating document and adding content that is with SMEs for an accuracy check before usability testing
+Please use [Word doc](https://dvagov-my.sharepoint.com/:w:/g/personal/danielle_thierry_va_gov/ESmD5P5nmjhPrE7BmMnMpGMBORL7c_BFQfORmHrpIyFBKw?e=iaEcFG) for now until I can get this fully updated.
+
 
 ## Screen-by-screen flow
 
@@ -16,7 +18,7 @@ We’ll tell you what the PACT Act may mean for your VA benefits—and what to d
 
 Get started > [Goes to service history section: Screen S1]
 
-Note: Are you the surviving family member of a Veteran? Get PACT Act information for survivors
+**Note:** Are you the surviving family member of a Veteran? Get PACT Act information for survivors
 
 
 ### Service history section
