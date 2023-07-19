@@ -99,21 +99,6 @@ These are the following confirmed use cases for registration over enrollment.
 - Employees (Veterans and non-Veterans)
 - Humanitarian cases
 
-### Outstanding questions
-- What benefit does "registering" provide?
-     - What do you get with Registration vs Enrollment?
-- Confirm - this is for both Active Duty Service Members **and** Veterans?
-- Is this the first and only time the Veteran will see these terms used?  
-     - If so, do they even need to know about these terms at all?
-- How do Service Members/Veterans know if they need to complete the 10-10EZ for "Registration Only"?
-     - Do they understand why/what scenario they are in that calls for the Reg Only pathway, especially as opposed to enrollment? 
-- What are the current volumes of monthly registration vs enrollment applications?
-     - What are the volumes of registration approvals, follow-ups (if any) and denials?
-     - What are the top 3-5 scenarios/use cases with the most registration-only applications?
-- Can a Veteran in good health with no service-connected disabilties or injuries be eligible for VA Health Care or at least obtain care at a VA medical facility?
-     - Does their discharge character impact whether they can receive this care?
-
-
 
 ### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
@@ -203,7 +188,7 @@ Section III
 
 <details>
   
-- Office/Department: OCto, VES, VEO, HEC
+- Office/Department: OCTO, VES, VEO, HEC
 - Contact(s): 
  
 </details>
