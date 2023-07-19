@@ -17,5 +17,12 @@ Delivery teams are responsible for monitoring Veteran feedback, in line with the
   a. gather that feedback and flag for review the Bylight and OCTO product managers, who will decide whether a ticket needs to be made to address feedback. Product managers can reach out to OCC Product Owners if unsure.
   b. Respond to the email saying "Thank you for submitting this suggestion to improve the {insert name here} application. We will review this along with other suggested improvements."
   c. File the email in the correct folder so others know it has been addressed. 
-5. If feedback determined to be "other" (not user support, not product feedback), discuss the feedback in product-specific channel and tag OCTO Product Owners to decide how to route. File the email in the correct folder so others know it has been addressed. 
+5. If feedback determined to be "other" (not user support, not product feedback), discuss the feedback in product-specific channel and tag OCTO Product Owners to decide how to route. File the email in the correct folder so others know it has been addressed.
+
+## Additional instructions
+- Acknowledge all feedback with a response to thank them for their feedback without making unrealistic promises about a response. Suggested response could be: 
+
+Thank you for your feedback. We appreciate hearing your thoughts and are logging all comments to be reviewed by our team. Please continue to provide feedback or ask questions as they arise in the future. 
+
+- If feedback represents a user support issue, respond as needed. 
 
