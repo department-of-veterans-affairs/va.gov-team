@@ -30,10 +30,6 @@ One of our most important efforts this year will be working with Mikki and teams
 
 There are plenty of opportunities for us to collaborate as MHV health features move into VA.gov. Our largest effort will be supporting the migration of MHV notification preferences into VA.gov. Additionally, we'll update the My VA dashboard as health features move over.
 
-### Support addition of a new user role on VA.gov
-
-Assuming that this work is ready to start in 2023, we'll work closely with the identity product team to update My VA and the profile to accommodate a new user type on VA.gov.
-
 ### Maintenance & UX improvements
 
 There are both known and likely to-be-determined maintenance, UX, and accessibility updates that need to happen for both My VA and the VA.gov profile. We'll support these initiatives as required.
