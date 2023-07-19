@@ -31,18 +31,14 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
 ## Problem
 There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Experience Office) stakeholders to include a registration-only pathway for the online 10-10EZ application.
 
-_**We need more information on why Registration is used as opposed to enrollment, and what benefit is being provided/problem is being solved_**
-
 ## Desired User Outcomes
-- Provide Active-Duty Service members and Veterans the ability to register for VA medical care without enrolling in VA Health Care
-- 
+- Provide Active-Duty Service members and Veterans the ability to register for and receive VA medical care without enrolling in VA Health Care
 
 ## Undesired User Outcomes
 - Confusion between what it means to register vs. enroll, and whether the online application should be used for one or the other.
 
 ## Desired Business Outcomes
 - Receive online form data from VA.gov for Veterans who do not wish to enroll to enable faster processing
-- 
 
 ## Undesired Business Outcomes
 TBD
@@ -61,7 +57,8 @@ TBD
 **Key Result**
 |Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 |-------| --------- | --------- | --------- |
-|TBD| TBD | TBD | TBD |
+|Submissions to Enroll| TBD | TBD | TBD |
+|Submissions to Register| TBD | TBD | TBD |
 
 #### Objective
 ....
