@@ -18,7 +18,7 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
        >
      - >Create service to receive online form data from VA.gov for Veterans who do not wish to enroll and provide that data to VistA/Millennium. In alignment with PACT Act, COMPACT, SERVICE Act and 38 CFR 17.37 this enables Veterans to request an appointment and register for those not wishing to enroll.
 
-### MVP
+### Iteration (not finalized)
 - Allow Active Duty Service Members with a discharge date within 365 days of the current date to "register" for care
      - The current 10-10EZ online form allows applicants to enter a future discharge date within 365 days of current date.
      - We do not inform the applicant that this is not an enrollment path, but a registration only.
@@ -41,7 +41,7 @@ There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Ex
 - Receive online form data from VA.gov for Veterans who do not wish to enroll to enable faster processing
 
 ## Undesired Business Outcomes
-TBD
+- Receive online enrollment applications from VA.gov for Veterans who are eligible to register but not eligible to enroll
 
 ---
 
@@ -51,10 +51,12 @@ TBD
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 #### Objective
-....
+Provide a pathway for Veterans to Register for health care when they are unable or do not want to apply for VA health care benefits package.
+
 - Source: TBD
 
-**Key Result**
+**Key Result** Introduce Registration application submissions online to reach 10% of overall submissions.
+
 |Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 |-------| --------- | --------- | --------- |
 |Submissions to Enroll| TBD | TBD | TBD |
@@ -64,10 +66,10 @@ TBD
 ....
 - Source: TBD
 
-**Key Result**
+**Key Result** Key Result: Reduce rejected applications due to ineligibility to enroll, but eligible to register.
 |Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 |-------| --------- | --------- | --------- |
-|TBD| TBD | TBD | TBD |
+|Decrease in decllines/rejections due to ineligible to ENROLL| TBD | TBD | TBD |
 
 #### Objective
 ....
@@ -122,9 +124,9 @@ These are the following confirmed use cases for registration over enrollment.
     - VA stakeholder testing, marketing, compliance requirements 
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+**In Scope:**
+
+
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
