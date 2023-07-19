@@ -23,15 +23,15 @@ This research supports the following OCTO priorities:
 
 ### Veteran journey
 
-Ask VA can support Veterans, caregivers and other users at all stages of the Veteran journey, from starting up to aging.
+Ask VA can support Veterans, caregivers and other submitters at all stages of the Veteran journey, from starting up to aging.
 
 ## Research goals
 
 The key goals of this study are to:
 
-* Understand how users expect to answer questions and in which order
-* Understand how users expect to review an ongoing or past inquiry
-* Understand whether users know where to get help or what they will do if they encounter an issue
+* Understand how submitters expect to answer questions and in which order
+* Understand how submitters expect to review an ongoing or past inquiry
+* Understand whether submitters know where to get help or what they will do if they encounter an issue
 
 ### Outcome
 
@@ -39,7 +39,7 @@ This research will help us determine if and how we need to improve the design an
 
 ### Research questions
 
-Understand how users expect to answer questions and in which order:
+Understand how submitters expect to answer questions and in which order:
 
 * Is it clear when you need to authenticate or when it’s optional?
 * Do the form patterns match people’s expectations of how they would answer each question?
@@ -50,15 +50,15 @@ Understand how users expect to answer questions and in which order:
 * How long do people expect it to take to submit an inquiry?
 * What do people expect to happen right after they submit an inquiry?
 
-Understand how users expect to review an ongoing or past inquiry:
+Understand how submitters expect to review an ongoing or past inquiry:
 
 * What information do people need about the status of an inquiry?
 * When do people decide to review inquiries? For example, when they get an email notification or when they're logged into their account for another reason?
 * How often do people expect to be updated about changes to the status of their inquiry?
-* What do users expect to happen after they receive a response to their inquiry? Do they expect to reply back? If they can’t reply back, what would they do?
+* What do submitters expect to happen after they receive a response to their inquiry? Do they expect to reply back? If they can’t reply back, what would they do?
 * What information do people need when they review a past (solved) inquiry?
 
-Understand whether users know where to get help or what they will do if they encounter an issue:
+Understand whether submitters know where to get help or what they will do if they encounter an issue:
 
 * If people encounter an issue or don't understand something, what do they do?
 * Do people expect to be able to give feedback while or after they use the form?
@@ -83,7 +83,7 @@ Understand whether users know where to get help or what they will do if they enc
 
 This will be a moderated usability study conducted remotely on Zoom. 
 
-We will observe users (hypothetically):
+We will observe submitters (hypothetically):
 
 * authenticate
 * ask a health related question
@@ -255,10 +255,10 @@ Each session will include no more than 5 total attendees per session: 1 particip
 We have removed a few things that are out of scope for this study. In future research, we’d like to learn:
 
 * Is it clear how information has been pre-populated from My VA Profile?
-* How does the process differ for users who submit both personal and business queries, such as School Certifying Officials?
+* How does the process differ for submitters who submit both personal and business queries, such as School Certifying Officials?
 * How does the unauthenticated experience differ from the authenticated experience?
 
-And we’d like to observe users:
+And we’d like to observe submitters:
 
 * reply to an inquiry from their dashboard and their email
 * look up an inquiry (from the start page) using their reference number
