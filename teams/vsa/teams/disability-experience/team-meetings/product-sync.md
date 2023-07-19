@@ -1,15 +1,17 @@
 # Benefits Disability Experience - Product sync 
 
 ### Date: Jul 19 2023       
-### Participants: Rakshinda, Steve, Shannon, Austin, Jen
+### Participants: Rakshinda, Austin, Matt, Jen, Steve, Shannon
 ### Topics Covered:
 - Individual Unemployability form is not live in production
    - There was conversation about taking this out of the main flow. Not making this live till that is done would be add the least disruption.
-   -    
+     - Leave this in staging for now
+     - Revisit later when we are looking at other forms that may need to be taken out of the flow
+     - Look at other feature flags and if there are other forms that are not live in production
 - eVSS Migration - review updated roadmap and challenges
 - Q3 Initiatives prioritization
    - Review where we are and plan for the workshops
-   - What stakeholders do we need?   
+   - What stakeholders do we need?  - Matt to get back on this
 - Catch-up on Work in Progress
    - 526ez sync with paper form
       -  Toxic Exposure - restart work after hold
