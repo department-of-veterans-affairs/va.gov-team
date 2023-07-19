@@ -683,7 +683,11 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-### Veteran information
+### Veteran details
+
+#### Homelessness question [Edit]
+
+Are you experiencing homelessness?
 
 #### Contact information [Edit Profile](https://staging.va.gov/profile)
 
@@ -699,21 +703,7 @@ State
 
 Postal code
 
-#### Homelessness question [Edit]
-
-Are you experiencing homelessness?
-
-### Issues for review [Edit]
-
-#### Issue
-
-##### Issue [Edit]
-Decision date: **XX X, XXXX**
-
-##### Issue [Edit]
-The service connection **Selected**
-
-Something else: **A few words**
+### Issues for review
 
 ##### Request an extension [Edit]
 Are you requesting an extension **Yes**
@@ -722,6 +712,16 @@ Reason for extension **Added reason for extension**
 
 ##### Denial of VA health care benefits [Edit]
 Are you appealing a denial of VA health care benefits? **Yes**
+
+#### Issue for review [Edit]
+
+##### Issue
+Decision date: **XX X, XXXX**
+
+##### Issue [Edit]
+The service connection **Selected**
+
+Something else: **A few words**
 
 ### Board review option
 
