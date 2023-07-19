@@ -1,5 +1,27 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 10
+Period - 07/19/2023 - 08/1/2023
+### Sprint goals 
+- **Expedited**
+   - [ ] Bug - 
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+        - Rateddisabilities
+            - Can we work on a release plan? Consider staggered release? 
+        - Submit 
+            - [ ] Abstract calls to submit endpoint
+            - [ ] Start endpoint migration - PPIU Abstraction
+- **Features**
+   - Intro page changes and 526ez current with paper form
+      - [ ] Intro pages - Research shareout
+      - [ ] Toxic Exposure screens - Research - Reconciling Midpoint Review Research Musts
+      - [ ] Toxic Exposure screens - Design - Updates based on Midpoint review and VBA stakeholder review
+      - [ ] 
+- **Analytics**
+  - [ ] None
+- **Tech Debt**
+
 ## Sprint 9
 Period - 07/06/2023 - 07/18/2023
 ### Sprint goals 
