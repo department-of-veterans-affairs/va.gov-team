@@ -209,6 +209,6 @@ Please list the people who will be serving in each role. **Include the primary p
 
 
 ## Approvals
-Reviewed and approved by --- on. 
+Reviewed and approved by Kristen McConnell on July 19, 2023 via Slack. 
 Submited and approved by --- on.
 
