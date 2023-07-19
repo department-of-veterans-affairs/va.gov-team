@@ -4,13 +4,17 @@
 - Check participant information to see what types of login(s) credentials they may have (Login.gov, ID.me, DS Logon, MyHealtheVet).
 
 ## Introduction - 2 minutes
-Thanks for joining us today. My name is Florence and I have some colleagues on the line observing and taking notes. Today we're going to look at the Profile at VA.gov together to make sure everything is working as intended.
+Thanks for joining us today! My name is Pam. I am a designer who works on improving the VA.gov website so Veterans can get what they need as quickly and easily as possible. I also have some colleagues from my team on the line observing and taking notes.
 
-- This entire session should take about x minutes.
-- We're testing the website, not you.
-- We may be able to see some of your real information today as we will be viewing the Direct Deposit section of your VA Profile. 
-- You may end the session at any point if you feel uncomfortable with this (or for any other reason).
-- Any questions for me?
+What I hope to do today is get your help in testing some technical changes we’ve made to the website. The changes we have made aren’t something anyone can see on the screen, but with your help we will be able to see whether we’ve set everything up correctly.
+
+Before we start, I wanted to go over a few details:
+- **This session should take 30 minutes of your time or less.** It involves me asking you to complete a few small tasks. Because I want to make sure we don’t keep you beyond half an hour, I may prompt you with the next question to keep things moving.
+- **You will need your direct deposit information today.** I will ask you to re-enter your direct deposit information in order to make sure the system is doing what it’s supposed to, but we will not be making any changes to your account.
+- **We will be able to see your real information today.** This may include some healthcare information and some claims information. During any of the tasks, feel free to stop screensharing and start again when you feel comfortable. 
+- **You may end the session at any time, for any reason.** Just let me know.
+
+Do you have any questions for me before we begin?
 
  ## Screen questions - 3 minutes
  1. Can you confirm for me that you have a username and password for VA.gov?
@@ -80,4 +84,8 @@ Now, navigate once again to the Direct Deposit section of your Profile and let's
 ----------------------------------------
 
 ## Closing - 1 minute
-Okay, that's everything we were hoping to look at with you today. Thank you for taking the time to help us improve the VA.gov site.
+Okay, that's everything we were hoping to cover today. Thank you for taking the time to help us improve the VA.gov website. Your feedback is so helpful to us as we continue to work on the site and make sure it works well for Veterans.
+
+Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
+Thank you so much again, and enjoy the rest of your day!
