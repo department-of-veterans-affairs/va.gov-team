@@ -1,4 +1,4 @@
-# Research Plan for "registration only" use cases mental model study [Health Enrollment Team, 10-10EZ, August 2023]
+# DRAFT Research Plan for "registration only" use cases mental model study [Health Enrollment Team, 10-10EZ, August 2023]
 
 ## Background
 The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one medical need to the "full medical benefits package". 
@@ -96,6 +96,9 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
+
+
+
 **Screener Questions**
 
 Cohort 1: 
@@ -105,13 +108,6 @@ Cohort 1:
 
 Cohort 2:
 - Have you applied within the past 3 years and are currently enrolled in and using your health care benefits? [answer should be yes to qualify.]
-
-
-
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
-
 
 
 
@@ -148,23 +144,26 @@ Please request enough dates and at ***least double the amount of time slots for 
 ### Availability
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
-| July    	|    		|
-| July  	|   		|
+| August    	|    		|
+| August  	|   		|
 
 
 
 
 
-
-
-## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderators:	
+- Moderators: Jessica Stump (jessica.stump@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us), Katelyn Caillouet (katelyn.caillouet@agile6.com), Hieu Vo (hieu.vo@agile6.com)
 - Research guide writing and task development (usually but not always same as moderator): Moderators
 - Participant recruiting & screening:	Perigean
-- Project point of contact:	
+- Project point of contact: Moderators	
 - Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
+- Accessibility specialist (for sessions where support for assistive technology may be needed):
 - Note-takers:	Perigean and 1010 Health Enrollment Team
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Observers: [link to sign up post on Slack]
+
+
+**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
+
+
+  ## Approvals
+
