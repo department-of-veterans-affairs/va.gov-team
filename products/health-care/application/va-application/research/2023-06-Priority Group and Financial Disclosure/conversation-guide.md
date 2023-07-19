@@ -1,4 +1,4 @@
-# DRAFT Conversation Guide for health care application generative research study around Priority Groups and Financial Disclosure Updates [Health Enrollment Team, 10-10EZ, July 2023]
+# Conversation Guide for health care application generative research study around Priority Groups and Financial Disclosure Updates [Health Enrollment Team, 10-10EZ, July 2023]
 
 ## Moderator logistics
 ### 2-3 days before the session
