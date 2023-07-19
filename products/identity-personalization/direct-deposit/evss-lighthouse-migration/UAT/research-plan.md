@@ -12,7 +12,7 @@ EVSS -- the VA backend that stores direct deposit for comp & pen, disability rat
 The goals for the EVSS > Lighthouse migration are to limit service disruptions for Veterans and other users who receive comp & pen direct deposits or who need to change their direct deposit information for comp & pen purposes.
 
 ## Research Goals	
-The primary goal of our UAT is to confirm that the Direct Deposit section of the Profile functions as intended for those users who have it set up with their bank information. 
+The primary goal of our UAT is to confirm that the Direct Deposit section of the Profile functions as intended for users who sign in with ID.me and/or login.gov and who have direct deposit set up with their bank information. This includes validating that MHV and DSLogon behavior hasn't changed.
 
 Specifically, this research will be looking to validate the following use cases:
 - Users see direct deposit section of the profile and receive comp & pen payments can edit and save their bank info.
