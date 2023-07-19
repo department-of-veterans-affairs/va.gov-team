@@ -1,4 +1,4 @@
-# DRAFT Research Plan for health care application generative research study around Priority Groups and Financial Updates [Health Enrollment Team, 10-10EZ, July 2023]
+# Research Plan for health care application generative research study around Priority Groups and Financial Updates [Health Enrollment Team, 10-10EZ, July 2023]
 
 ## Background
 The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) can both impact a Veteran's eligibility and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbursement in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to provide personal, financial or insurance information updates after enrollment. 
@@ -206,3 +206,9 @@ Please list the people who will be serving in each role. **Include the primary p
 - Observers: [link to sign up post on Slack]
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+
+
+## Approvals
+Reviewed and approved by --- on. 
+Submited and approved by --- on.
+
