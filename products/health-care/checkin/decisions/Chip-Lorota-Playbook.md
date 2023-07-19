@@ -3,7 +3,7 @@
 
 
 ### Table of Contents
-1. [PCI API Tier 3 Team Overview](#overview)
+1. [CHIP & Lorota API Pager Incident Response Overview](#overview)
 2. [VA Systems](#systems)
 3. [Support Hours](#hours)
 4. [Monitoring Process Overview](#monitoring-process)
@@ -40,9 +40,11 @@ guide.
 This covers CHIP and Lorota pager duty only
 
 ## VA Systems <a name="systems"></a>
-Tier 3 Technical Engineering Support team will manage the requests submitted by end users of APIs and services exposed for the following systems:
+The Patient Check-in experience team will manage the requests submitted by end users of APIs and services exposed for the following systems:
 - CHIP (add link to chip repo)
 - LoROTA (add link to lorota repo)
+- Day of Check-In front-end application
+- Pre-check-in front-end application
 
 Architecture diagrams that show our systems in context can be found here:
 
@@ -75,11 +77,11 @@ Read the PCI API Tier 3 Playbook (this document!)
 As discussed above, during business hours (07:00am ET - 08:00pm ET) the expectation is that you will be more in a proactive monitoring posture (especially in the morning, when clinics open). When you are on-call, expect to start your shift at 7am EST, as most issues identified are identified in the morning (such as following a deployment the previous night). 
 
 When you start your shift
-- Update the [#check-in-go-live](https://dsva.slack.com/archives/C02UP02HHGX) channel description to list your name as PCI API on-call developer
+- Update the [#check-in-go-live](https://dsva.slack.com/archives/C02UP02HHGX) channel description to list your name as Check-in on-call developer
 - Be aware that there are some automatic daily and weekly monitoring downtimes on datadog. The downtime is to silence any potential alerts that occur during the downtime window. Click [here](https://tevi.ddog-gov.com/monitors/downtimes?sort=-start_dt) for the currently enabled automatic downtimes Tevi Datadog automatic downtime
 - Monitor the tools listed below for signs of issues
 
-When you log in in the morning at 7am EST,  the on-call developer should be proactively monitoring a number of locations for any outages or incidents. This includes:
+When you log in in the morning at 7am EST for first shift 1pm EST for second shift,  the on-call developer should be proactively monitoring a number of locations for any outages or incidents. This includes:
 - DSVA Slack 
   - Check DataDog Alerts in the [#check-in-monitoring](https://dsva.slack.com/archives/C04G3EY2F5W) channel
   - Actively monitor and respond to incident threads in the [#check-in-production-support](https://dsva.slack.com/archives/C02UP02HHGX) channel
