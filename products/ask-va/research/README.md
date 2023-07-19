@@ -11,4 +11,4 @@ Last updated by @tygindraux: July 7, 2023
 |[Usability and wayfinding study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Usability%20and%20wayfinding%20study)|Usability testing|TBC October-November 2023||
 
 <br>
-Contact Tyler Gindraux (tyler@bluetiger.digital) about Ask VA research.
+Reach out on DSVA Slack #ask-va-public or contact Tyler Gindraux (tyler@bluetiger.digital) about Ask VA research.
