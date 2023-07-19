@@ -703,17 +703,25 @@ Postal code
 
 Are you experiencing homelessness?
 
-### Issues for review
+### Issues for review [Edit]
 
-#### Issues [Edit]
+#### Issue
 
-##### My Issue
-The service connection
-Decision date
+##### Issue [Edit]
+Decision date: **XX X, XXXX**
 
-##### Another Issue
-The service connection
-Decision date
+##### Issue [Edit]
+The service connection **Selected**
+
+Something else: **A few words**
+
+##### Request an extension [Edit]
+Are you requesting an extension **Yes**
+
+Reason for extension **Added reason for extension**
+
+##### Denial of VA health care benefits [Edit]
+Are you appealing a denial of VA health care benefits? **Yes**
 
 ### Board review option
 
