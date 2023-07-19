@@ -1,4 +1,4 @@
-# Research Plan: Direct deposit for compensation & pension EVSS > Lighthouse migration UAT, March 2023
+# Research Plan: Direct deposit for compensation & pension EVSS > Lighthouse migration UAT, July 2023
 
 ## Background  
 EVSS -- the VA backend that stores direct deposit for comp & pen, disability ratings, and more -- is being retired in favor of the Lighthouse platform. Lighthouse has been working hard to migrate data from EVSS to their platform, and they have successfully done so with direct deposit for comp & pen information. This means that we need to reintegrate the VA.gov profile to point to Lighthouse instead of EVSS.
@@ -55,21 +55,24 @@ LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for comp & pe
 
 **All participants**
 - Must be able to screenshare via Zoom
-- Must be able to login to VA.gov with either ID.me or Login.gov
 - Must have a disability rating (which means they receive some disability compensation, likely through direct deposit)
+
+**Some participants**
+- 3 must be able to login to VA.gov with a verified ID.me
+- 2 must be able to login to VA.gov with a verified Login.gov
 
 ### Additional screener questions
 
 **Verification level screener question**
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?**
-You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified.
+You can check on this by logging into VA.gov and going to VA.gov/profile. If you see a prompt to verify your identity when you get to your profile page, your identity is **not** yet verified.
 Response options: yes or no.
 - Answering "yes" qualifies the participant
 - Answering "no" disqualifies the participant
 
 **Login method screener question**
 Do you have a working login and password for any of the following VA.gov login methods? (Select 1-4 options). **You will need your login credentials for the research session, so please make sure your credentials work before answering this question.**
-Response options: DS Logon, MyHealtheVet, Login.gov, ID.me, None of the above
+Response options (checkbox): DS Logon, MyHealtheVet, Login.gov, ID.me, None of the above
 - If participant answers **only** DS Logon or MyHealtheVet, they are disqualified.
 - If participant's answer includes either (or both) Login.gov or ID.me, they are qualified.
 - If participant answers None of the above, they are disqualified.
@@ -79,19 +82,20 @@ This is a fill in the blank question, no character limit, and is not qualifying 
 
 ### Research sessions
 What dates do you plan to do research? 
-- Tentative: April 2023
+- Tentative: July 2023
 
 ### Length of sessions
 30 minute session for all participants 
 
 ## Team Roles	
-- Moderator: Florence McCafferty, florence.mccafferty@agile6.com
-- Research guide writing and task development (usually but not always same as moderator): Florence McCafferty
+- Moderator: Pam Drouin, pamela.drouin@a1msolutions.com
+- Research guide writing and task development (usually but not always same as moderator): Pam Drouin
 - Participant recruiting & screening: Perigean
-- Note-taker: Perigean
+- Note-taker: Team
 - Observers/Participants:
+  -  <travis.cahill@agile6.com>
   -  <adam.whitlock@adhocteam.us>
-  -  <berni.xiong@agile6.com>
+  -  <adrian.brewster@agile6.com>
   -  <liz.lantz@adhocteam.us>
   -  <samara.strauss@va.gov>
   -  <tom.harrison@adhocteam.us>
