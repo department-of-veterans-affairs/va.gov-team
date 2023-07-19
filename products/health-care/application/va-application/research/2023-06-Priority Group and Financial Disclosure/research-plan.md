@@ -49,10 +49,8 @@ We will use these findings to:
 **Learn more about Veteran's mental model when applying for and managing their health care benefits including the terms they use and how they understand eligibility and their specific benefits.**
 
 - What are Veteran's understanding of what benefits they will get and the cost to them when enrolling for health care benefits?
-- How do Veterans refer to their health care benefits and costs - what terms do they use?
 - What are Veteran's understanding of what benefits they will get and the cost to them after enrollment?
 - What are the Veteran's current pain points with how the health care application impacts the overall health care journey?
-- What information do Veterans feel most that the VA has and they should not have to provide?
 - What is the Veterans mental model of eligibility and Priority Groups around their benefits and costs?
   
 
@@ -63,7 +61,7 @@ We will use these findings to:
 - What is the communication and education process around Priority Groups like from the Veteran's perspective today? (current state)
 - What information around PG/copays would the Veteran like to have easy access to and where? (future state)
 - Where do Veterans call out as their preferred way to view their Priority Group information? 
-- Do Veterans associate Priority Groups more with eligibility or with benefits?
+
 
 **Learn more about how Veterans would like to go about providing updated information - such as financial information or dependents - that could impact their health care benefits after enrollment.**
 
