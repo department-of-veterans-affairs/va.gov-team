@@ -1,6 +1,14 @@
 # Nametag specs
 
-**Last updated: November 29, 2022**
+**Last updated: 7/23/2023**
+
+## Projects/Initiatives 
+
+|Project/Initiative Name|Description|Status|
+|---|---|:-:|
+|EVSS>Lighthouse API Migration|As part of the EVSS to Lighthouse migration, the Disability Rating API is migrating and we need to update our process to use the new API.|In Progres 7/2023|
+
+
 
 ## Sketch Mockups
 
