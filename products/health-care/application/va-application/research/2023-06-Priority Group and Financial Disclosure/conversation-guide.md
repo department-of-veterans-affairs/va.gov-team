@@ -85,7 +85,7 @@ Let’s start with a couple warm-up questions.
 
 ### Things to watch for:
 - [Do Veterans' confidently know their Priority Group and what that means to them and their benefits?]
-- [What is the current process and experience around Prioity Groups?]
+- [What is the current process and experience around Priority Groups?]
 - [What are the knowledge gaps around Priority Groups and health care costs?]
 - [What things would Veterans like to see or like to change in regards to Priority Groups?]
 
