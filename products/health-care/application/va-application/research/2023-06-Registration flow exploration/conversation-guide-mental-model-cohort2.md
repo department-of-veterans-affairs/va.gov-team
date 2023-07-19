@@ -38,7 +38,7 @@ Before we start, a few things I want to mention:
    - If yes: Admit observers. 
     - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
-- **Are you comfortable if I record my audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this) or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7. Knowing that, are you comfortable if I record my screen and audio as we talk today?
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
@@ -51,9 +51,8 @@ Before we start, a few things I want to mention:
 Let’s start with a few warm-up questions.
 
 - Are you currently enrolled and using health care benefits from the VA? 
-- How long have you been receiving medical care from the VA? 
 - How often do you visit a VA facility? (if answered yes)
-- Do you regularly visit VA.gov?
+- How often do you visit VA.gov?
 - Do you receive other benefits from the VA in addition to your medical benefits?
 
 
@@ -108,7 +107,6 @@ Let’s start with a few warm-up questions.
 
 ## Post-Task Interview - 5 minutes
 
-- Out of the 2 scenarios that were talked through with you, what one would you prefer out of those and why?
 - Is there anything else you would like to add about what we talked about today?
 - Any questions for me? 
 
