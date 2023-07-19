@@ -1,4 +1,4 @@
-## This flow is no longer up to date as of 6/12/23, up to date flow can be viewed [in VA MURAL space here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792?invited=true&sender=u2905941a69b3083a009c9997).
+## Additional documentation can be viewed in the [526 Form Flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792?invited=true&sender=u2905941a69b3083a009c9997).
 
 ## Legend
 
@@ -88,11 +88,14 @@ graph TD
     subgraph ChapterDetails [Chapter: Veteran Details]
 
     VetInfo --> ContactInfo[Contact Inforation]
-    ContactInfo -. BDD/OC .-> AltNames[Alternative Names]
-    ContactInfo -. 526 .-> MilitaryHx
-
+    ContactInfo --> Homeless[Homeless or at risk]
+    Homeless --> TerminallyIll[Are you terminally ill]
+    TerminallyIll -. OC .-> AltNames[Alternative Names]
+    ContactInfo -. BDD .-> AltNames
+    TerminallyIll .-> MilitaryHx
     AltNames --> MilitaryHx[Military History]
-
+    
+    
     MilitaryHx -. RNG .-> ReserveNG[Reserve National Guard Info]
     MilitaryHx -. OC, not RNG .-> PaySep
     ReserveNG --> FedOrders[Federal Orders]
@@ -475,25 +478,20 @@ graph TD
 
     PaymentInfo[Payment/bank information]
 
-    PaymentInfo -. BDD .-> VaEmployee
-    PaymentInfo --> Homeless[Homeless or at risk]
-    Homeless --> TerminallyIll[Are you terminally ill]
-    TerminallyIll --> VaEmployee[Are you a VA employee]
+    PaymentInfo --> VaEmployee[Are you a VA employee]
 
     VaEmployee -. OC & has retired pay .-> RetiredPayWaiver[Waiving retirement pay]
     RetiredPayWaiver -. has training pay .-> TrainingPayWaiver
-    RetiredPayWaiver --> FDC
+    
 
     VaEmployee -. OC & has training pay .-> TrainingPayWaiver[Waiving training pay]
-    TrainingPayWaiver --> FDC
-
-    VaEmployee --> FDC[Fully developed claim]
-
+    
     end
 
-    VaEmployee -. BDD .-> RS
-    FDC --> RS[Review & Submit]
-    RS --> Confirmation[Confirmation]
+    TrainingPayWaiver --> RS 
+    VaEmployee --> RS
+    RetiredPayWaiver --> RS
+    RS[Review & Submit] --> Confirmation[Confirmation]
 
 ```
 
