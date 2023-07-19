@@ -125,7 +125,6 @@ _Samara returns from parental leave!_
 
 **Notification Center**
 - Continue build
-- Prep for QA (write test cases)
 
 ### My VA
 
@@ -152,8 +151,7 @@ _Samara returns from parental leave!_
 - Documentation updates: standard use cases, flows, etc.
 
 **Notification Center**
-- QA prep
-- Finish build
+- Continue build
 - Begin thinking about UAT - _in the past UAT on anything notification-related has been tricky given that we don't want to alarm veterans by showing them "fake" debt notifications. Does this same concern exist for the NC MVP?_
 
 ### My VA
@@ -181,11 +179,8 @@ _Samara returns from parental leave!_
 - Documentation updates (cont.): document process of component build soup to nuts
 
 **Notification Center**
-- QA
-- Analytics
-- Schedule staging review
-- Plan for UAT (convo guide, plan)
-- Staging Review?
+- Prep for QA (write test cases)
+- Continue build
 
 **Scaling Onsite Notifications**
 - Design work for RX shipment
@@ -205,8 +200,8 @@ _Samara returns from parental leave!_
 ### Onsite Notifications
 
 **Notification Center**
-- Staging and PSIR reviews
-- Plan for UAT (convo guide, plan)
+- QA prep/execution
+- Finish build
 
 **Scaling Onsite Notifications**
 - ... 
@@ -226,7 +221,11 @@ _Samara returns from parental leave!_
 ### Onsite Notifications
 
 **Notification Center**
-- ...
+- QA
+- Analytics
+- Schedule staging review
+- Plan for UAT (convo guide, plan)
+- Staging Review?
 
 **Scaling Onsite Notifications**
 - Design intent
@@ -247,7 +246,8 @@ _Samara returns from parental leave!_
 ### Onsite Notifications
 
 **Notification Center**
-- ...
+- Staging and PSIR reviews
+- Plan for UAT (convo guide, plan)
 
 **Scaling Onsite Notifications**
 - ...
