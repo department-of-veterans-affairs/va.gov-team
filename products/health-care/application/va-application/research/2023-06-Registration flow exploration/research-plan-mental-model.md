@@ -107,7 +107,7 @@ Cohort 1:
 
 
 Cohort 2:
-- Have you applied within the past 3 years and are currently enrolled in and using your health care benefits? [answer should be yes to qualify.]
+- Have you applied within the past 5 years and are currently enrolled in and using your health care benefits? [answer should be yes to qualify.]
 
 
 
