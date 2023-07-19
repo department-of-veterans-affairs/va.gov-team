@@ -8,8 +8,8 @@ Period - 07/19/2023 - 08/1/2023
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - Rateddisabilities
-            - [ ] Complete Release Plan
-            - [ ] Start staggered release
+            - [ ] Complete Release Plan with roll back plan
+            - [ ] Start staggered release - timeboxed tickets to monitor the release and fix issues as they occur 
         - Submit 
             - [ ] Abstract calls to submit endpoint
             - [ ] Start endpoint migration - Document Service
