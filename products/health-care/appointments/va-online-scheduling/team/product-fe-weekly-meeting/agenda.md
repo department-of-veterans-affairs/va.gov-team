@@ -1,13 +1,14 @@
 # Appointments Team Weekly Agenda
 
 <details>
-<summary>July 19, 2023</summary>
+<summary>July 21, 2023</summary>
 
 ## Agenda
 
 ### Topics
 
 - [P] UAT planning for MHV on VA.gov features
+- [J/L] Release planning for print button and descriptive back link 
  
 </details>
 
