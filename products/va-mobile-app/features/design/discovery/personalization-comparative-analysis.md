@@ -1,4 +1,4 @@
-# VA Mobile Comparative Analysis: Personalized App Screen
+# VA Mobile Comparative Analysis: Personalized App Homescreen
 
 Nov 3, 2021
 
