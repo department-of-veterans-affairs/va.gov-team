@@ -60,7 +60,7 @@ Provide a pathway for Veterans to Register for health care when they are unable 
 |Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 |-------| --------- | --------- | --------- |
 |Submissions to Enroll| TBD | TBD | TBD |
-|Submissions to Register| TBD | TBD | TBD |
+|Submissions to Register| 13k paper | TBD | TBD |
 
 #### Objective
 ....
