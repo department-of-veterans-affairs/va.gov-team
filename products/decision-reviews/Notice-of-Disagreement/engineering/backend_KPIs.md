@@ -59,6 +59,9 @@ Evidence Uploads | Files provided by the user to support their claim | Lighthous
 *   Total 
     
 *   (Or any 2 of the 3 that allow you to arrive at the 3rd)
+*   Overall Retries (for any queued jobs)
+*   Failed Retried (for any queued jobs)
+*   Final Retries Failed (exhausted) (for any queued jobs)
     
 
 ##### Measures
