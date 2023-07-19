@@ -121,7 +121,7 @@ Let’s start with a couple warm-up questions.
 
 
 ## [Dependents] - 5 minutes
-- Have you ever had a need to make changes to your dependents for VA beneftis? If so, can you tell me more about that experience. 
+- Have you ever had a need to make changes to your dependents for VA benefits? If so, can you tell me more about that experience. 
 - Ideally if you had to make changes to your dependents, can you explain to me how you would go about doing that?
 
 
