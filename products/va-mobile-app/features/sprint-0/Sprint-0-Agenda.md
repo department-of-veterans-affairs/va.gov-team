@@ -65,6 +65,9 @@ The Sprint 0 meeting is a time to do the following:
 ## 7/20/23
 
 * [Sprint 0: Error Documentation - Misty](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Error%20Documentation/Error%20documentation%20sprint%200.md)
+  * This could help solve other issues like Call Center troubleshooting and data analytics clarification
+  * Error messages are definitely Veteran-facing, so work to make them better is impactful to Veterans
+  * the impact of this work is hard to measure, but it is valuable
 
 
   
