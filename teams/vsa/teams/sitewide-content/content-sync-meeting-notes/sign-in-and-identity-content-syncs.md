@@ -1,5 +1,18 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**July 20, 2023**
+-
+Attendees: Aliyah, Carl, Laura, Dawn, Joe, Tinu, and Sofia 
+
+**Notes**
+- **OOO updates:** Aliyah (July 27 to August 9) Laura (July 28 to July 31) Carl (July 27). Laura will send out a new invite for weekly sign in and identity syncs for July 27 and August 3. Aliyah will also flag that she'll need to send out the agenda.
+- Carl shared that he is working on some additional email content - he doesn't anticipate much feedback, as it's similar to previous email content. He'll share this with us next week ahead of his OOO time.
+- **Verifying your identity on VA.gov page**
+     - We're shifiting plan and will actually move forward with integrating feedback from the identity teams and publish those changes first. Then we'll continue to review additional questions to consider adding to the page with Joe and CORE identity team.
+ - **Comms plan from LGA team:** Carl updated that they're working on an internal document that compiles all things sign in /identity in - in one deck. He flagged that their deck will also include imagery guidelines and email template guidance. Sitewide CAIA (content) noted that if they're pulling any content from the content brief or style guide, we recommend that they include a link out to the content brief or style guide, so that we aren't duplicating any of that information and have clarity/one source of truth for the content brief and style guide items. **Action item:** Carl to update us on name of this comms document/plan, as we don't want this to be called a style guide.
+ - **Email templates:** Followed up with Carl on question via Slack about the constraints in the Test A email template and if those constraints will be the same for the Test B email. Dawn flagged that the Test A email is a VEO template and they'll continue to use this until they have an OCTO account. **Action item for Aliyah/Laura:** Pass feedback to Dawn about things that we’d suggest changing in the template – pass in a word document. **Action item for Dawn** She'll get answers about whether those are things that we can change.
+ - **Privacy and security at VA page:** Laura asked for groups thoughts on how to make updates to this page, as some information is outdated and it only discusses ID.me and not Login.gov. Joe mentioned that the CORE team wrote part of this content in the past. We'll plan to move forward with making updates to this page for a mid September deadline for having content finalized and approved. LGA team will provide notes on content updates and sitewide CAIA (content) will implement. **Action item**: Sitewide CAIA (content) to do a review first and see where we can pull in existin content. Then we'll pass to LGA team to do a pass and provide additional notes on information that we'll need to update.
+
 **July 13, 2023**
 -
 Attendees: Aliyah, Carl, Ngozi, Sofia, Dawn, Joe, Tinu 
@@ -11,7 +24,7 @@ Attendees: Aliyah, Carl, Ngozi, Sofia, Dawn, Joe, Tinu
 - Later in afternoon, Carl and team shared on identity comms call that they sent out a test A email on 7/11. I asked that Carl share the content with us, since we weren't previsouly aware of this email being sent out on this date. They'll still send out the Test B email that we did review, on 7/20.
 - Also on identity comms call, Carl and team mentioned that they're working on a comms plan that'll track the content across various phases of the transition. We'll plan to discuss this further.
 - **Verifying your identity on VA.gov page**
-     - Joe started to review questions that their team compiled. Aliyah provided some initial feedback on some of the questions. We'll continue reviewing if there's time next week. Aliyah flagged for Joe and his team that we'll exporrt content to a Word document when we're ready to integrate any questions on the current verifying your identity page.
+     - Joe started to review questions that their team compiled. Aliyah provided some initial feedback on some of the questions. We'll continue reviewing if there's time next week. Aliyah flagged for Joe and his team that we'll export content (a Google doc) to a Word document when we're ready to integrate any questions on the current verifying your identity page.
 
 **July 6, 2023**
 -
