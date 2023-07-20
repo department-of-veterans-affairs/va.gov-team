@@ -33,19 +33,24 @@ Last updated by @tygindraux: July 20, 2023
 
 Thanks for joining us today! My name is **[TYLER or BECKY]**, I’m a researcher from the VA.
 
-There’s a couple other people from my team in the Zoom waiting room who would like to observe and take notes. But before we invite them, I want to explain what we’re doing today so you can decide what you are and aren’t okay with.
+I work on improving VA.gov so it's easier for Veterans to contact the VA online if they have a question.
 
-Today we're going to talk about contacting the VA online. We want to make this easier for you and other Veterans, so we’re going to ask a few questions about your experiences, and then we’ll show you something we’re working on and ask for your feedback.
+What I hope to do today is get a sense of how we can make this process better.
 
-Before we start, a few things I want to mention:
+What I don't want to do is add to any frustration that may have led you to contact the VA - or even frustration you've had with actually contacting the VA - in the past. I want to be up front and say that I don't have a way of fixing those past experiences. But, I do want to know about your frustrations in case they're things we can improve in the future.
 
-* **This entire session should take about an hour.** I will make sure we don’t spend longer than that, and so I may occasionally move us along to the next question or topic so we can cover everything.
-* **In this session, we want to hear your honest opinions.** We’re not testing your ability. And everything you tell me will help us improve things for Veterans. I want you to know that I’m not going to be offended by any opinions you express, and I welcome your feedback.
+Now before we get started, there are a few other things I want to mention:
+
+* **This session should take about an hour.** I will make sure we don’t spend longer than that, and so I may occasionally move us along to the next question or topic so we can cover everything.
+* **In this session, we want to hear your honest opinions.** We’re not testing your ability. And I want you to know that I’m not going to be offended by any opinions you express, I'm here to get your feedback.
 * **I’m going to share a prototype with you today.** This is like a pretend version of the website, and so it may not function exactly the way you expect. For example, you’ll be able to click some buttons or links, but not all of them. And there’s certain things you’ll read that might not match what you see on the VA’s real website today.
-* **If for any reason and at any time you want to stop the session, please let me know.** And that might be a pause to get some water or to stop the session completely. You'll be compensated no matter how much of the session we complete.
-* When they set up this session, Perigean asked if you are okay with a couple of observers joining us. But, I want to be sure before we start. **Are you okay with a couple of observers joining this session?**
+* **If for any reason and at any time you want to stop the session, you just have to let me know.** And that might be a pause to get some water or to stop the session completely. You'll be paid even if we don't complete the full session.
+* When they set up this session, Perigean asked if you are okay with a couple of observers joining us. **I want to confirm with you now, are you okay with a couple of observers joining this session?**
     * **[IF NO]** Use Slack to kindly ask the observers to leave the Zoom.
-    * **[IF YES]** Admit observers. Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. Then, ask notetakers and observers to turn off their cameras for the rest of the session.
+    * **[IF YES]** Great, they're in the waiting room so I'm going to let them into the meeting now.
+
+> Admit observers and let them introduce themselves before turning off their cameras.
+
 * Next I’d like to ask you about recordings. We use recordings to confirm that we’ve captured your opinions accurately. The recordings are destroyed after we finish the study, and none of your comments are attributed to you directly. **Are you comfortable if I record my screen and audio as we talk today?**
     * **[IF NO]** Don't record
     * **[IF YES]** Once I start recording, I am going to confirm that you are ok with me recording this session once more.
@@ -93,8 +98,8 @@ Next, I’d like to share some ideas with you so we can get your feedback. In th
 
 * Can you open this link?
 * Have you shared your screen on Zoom before?
-    * **[IF NO]** I’ll walk you through how to do that. **[HELP THEM SCREEN SHARE]**.
     * **[IF YES]** Great. Can you please share your screen?
+    * **[IF NO]** I’ll walk you through how to do that...
 
 Thanks! Now I’m able to see the prototype too.
 
@@ -211,4 +216,201 @@ Let’s finish answering the questions on this page. Since this is a prototype, 
 * Is it straightforward to find a topic?
 * Do they know where or how to get help if they encounter an issue?
 
-### 
+### 4b: Sign in modal
+
+> Screen: Sign in modal
+
+**[IF THEY DIDN'T ALREADY AUTHENTICATE: MODAL APPEARS]**
+
+Okay, it looks like something has appeared.
+
+* What is this asking you to do?
+* Why does it need you to sign in or create an account?
+* How do you feel, reading this?
+* What do you expect to happen next?
+
+**[THEY ARE SENT BACK TO SIGN IN]**
+
+### 5: Question
+
+> Screen: Your question
+
+> Field: What is your question?
+
+* How would you answer this question?
+   * Would you have any trouble with this?
+* Would you upload a document along with your question? Why or why not?
+   * If you did upload a document, what type of document are you allowed to upload?
+* If you needed help or had a question about this page, what would you do?
+* Before we click continue, what do you expect to see on the next page?
+
+#### Things to watch for:
+* Are they hesitant about writing their question free-text?
+* Do they seem surprised or frustrated that it’s taken until Step 3 to input their question?
+* Does uploading a document seem familiar?
+* Do they know where or how to get help if they encounter an issue?
+
+### 6: Veteran’s information
+
+> Screen: Veteran’s information
+
+Before we look closely at this page, how much longer do you think you have left, to finish submitting your question?
+
+Okay, so we’re going to imagine that this is your information, instead of Hector’s.
+
+> Field: Veteran’s first name
+
+> Field: Veteran’s middle name
+
+> Field: Veteran’s last name
+
+> Field: Veteran’s suffix
+
+> Field: Veteran’s preferred name
+
+> Field: Select all of the Veteran’s pronouns
+
+> Field: Select Veteran’s gender identity
+
+> Field: Daytime phone
+
+> Field: Email address
+
+> Field: How should we get in touch?
+
+> Field: Veteran’s Address
+
+> Field: Veteran’s Branch of Service
+
+> Field: Veteran’s Service Number
+
+> Field: Veteran’s SSN
+
+> Field: Veteran’s DoD/EDIPI
+
+> Field: Veteran’s Service Start Date
+
+> Field: Veteran’s Service End Date
+
+> Field: Veteran’s DoB
+
+> Field: Veteran’s Claim Number
+
+* It looks like information has been pre-filled. Where has the information come from?
+* If you noticed that your phone number was wrong, how would you update it on this page?
+* How do you feel about the number of questions you’ve had to answer at this point?
+   * What information do you think the VA needs in order to help you?
+* Before we click continue, what do you expect to see on the next page?
+
+#### Things to watch for:
+
+* Do they seem confused that it says “Veteran’s first name” instead of “Your first name” or “first name”?
+* Would they choose to answer questions that are not required?
+* Does the number of questions on this page seem overwhelming?
+* Do they show likelihood of giving up at any point?
+
+### 7: Summary
+
+> Screen: Review and send
+
+* Can you tell me what we’re looking at?
+   * Why do you think the VA is showing you a [summary]?
+* If you read this summary, and noticed that you had a typo in your question, what would you do?
+* What if you noticed that you chose the wrong topic and you wanted to change it to a different topic. What would you do?
+* What do you expect to happen after you send your question?
+
+#### Things to watch for:
+
+* Do people understand how to edit their answers on the review page?
+* Is it clear which fields are editable from the review page, and which are not?
+* What do people expect to happen right after they submit?
+
+### 8: Submitted
+
+> Screen: Your inquiry has been submitted
+
+* What is this page telling you?
+* Is there anything else that you’d like to know after you submit an inquiry?
+
+Great, thank you. I’m going to ask you to stop sharing your screen now. For the rest of our conversation, we’ll just talk face-to-face.
+
+> Stop screen share.
+
+#### Things to watch for:
+
+* Do they notice anything helpful or missing from this page?
+* Do they mention saving their reference number?
+
+## 9: Ongoing or past inquiry - 15 minutes
+
+* Thinking back on the process of submitting a question, was it shorter or longer than you would have expected?
+   * Is there anything that could have made it easier?
+* And after you submit an inquiry, what do you expect to happen?
+   * Do you expect to get updates?
+   * How would you look up your inquiry?
+   * How would you expect to get updated? [For example, over email or receive a notification in your profile.]
+   * How often?
+* How would you expect to get a response to your inquiry?
+   * Who would respond?
+   * Would you be able to reply?
+   * If you couldn’t reply back, but you had a follow up question, what would you do?
+* Let’s say you wanted to go back and look at a question you had submitted a few months ago. What would you be interested in seeing?
+   * For example, would you want to see all the information you submitted? Or would you just like to see certain things?
+   * Anything else?
+* Throughout this whole process, when would you like to give feedback on the service?
+
+#### Things to watch for:
+
+* Do they recall being given a reference number?
+* Do they recall stating how they prefer to be contacted, when they filled out the form?
+* How do they expect updates and how often?
+* Do they seem likely to go back and review a past inquiry (once it's resolved)?
+* When do they expect to give feedback?
+
+## Wrap up - 3 minutes
+
+We covered a lot today. Before we finish, I want to give us a couple minutes to reflect.
+
+* How or where would you expect to find this tool that you just used?
+* What worked well for you?
+* What was unclear or didn't work well for you?
+* Is there anything else you want to share with me?
+
+Great, thank you! Those are all of the questions I have for you today.
+
+* Do you have any questions for me?
+
+## Thank you - 2 minutes
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
+Thank you so much again, and enjoy the rest of your day!
+
+## Pause or exit strategies
+
+> If the participant isn't feeling well.
+
+I'm sorry you're [NOT FEELING WELL]. Do you feel up for continuing? You'll be paid even if we stop early."
+
+(If they choose to continue) Okay, just let me know if you change your mind.
+
+> If the participant is showing signs of upset or distress.
+
+This sounds so hard. Would you like to take a break or stop?
+
+(If they choose to take a break and come back) Welcome back. I'm interested to hear more about... are you up for continuing or would you prefer we move to the next topic?
+
+> If the participant decides to stop.
+
+Thank you for time on this call, I completely understand your decision to stop.
+
+(If they seem distressed) Before you go, the VA Hotline number is 988, it's a confidential helpline, and it's 24/7. It's up to you whether you call.
+
+> If the participant is fine to continue, but you aren't.
+
+I hear that you're okay to continue. Before we do, I realized that I need a minute. I'm going to turn off my camera and microphone, and get a glass of water. Is that okay with you? I'll be back in 3 minutes.
+
+(If you're still not able to continue) Thanks for letting me take a break. You didn't do anything wrong, but I'm realizing that I'm not going to be able to continue this session. You will still be paid for the full time. I really appreciate you sharing with me today. Is it okay with you if we stop? Thanks very much.
+
