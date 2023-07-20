@@ -7,7 +7,16 @@ Agenda
 - Team 1 Upcoming Sprint Goals
 - TE updates
 - Team 1 & 2 Collaboration
-  
+NOTES
+
+Team 1 Upcoming Sprint Goals
+- Team 1 will be working on the following tickets for the upcoming sprint (Sprint 8): Ticket 62295, 61915, and 62296.
+
+TE Updates
+- Julie and Nyantee have a meeting today to discuss how to move forward on the TE project
+- Kate now has access to Google Docs and Sketch files for TE
+- Nyantee will be discussing objectives and what should be tested (mobile vs desktop)
+- Solutions workshop will be scheduled for next week. This will help inform the work we are doing and how we can collaborate
   
 ## 7/13/23
 Attendees: Nyantee, Kate, Julie, Nichole
