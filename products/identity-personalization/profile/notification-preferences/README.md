@@ -59,7 +59,7 @@ The following data will come through VA Profile's API
 <!--StartFragment--><google-sheets-html-origin>
 
 Notification Group | Item | Description | Notes | Channel | In Production
--- | -- | -- | -- | -- | --
+-- | -- | -- | -- | :-: | :-:
 Your health care | Appointment reminders |   |   | Text | Yes
 Your health care | Prescription shipment and tracking updates |   | This is available only with specific facilities | Text | Yes
 Your health care | Medical images and reports |   | MHV Migration Item | Email | No
