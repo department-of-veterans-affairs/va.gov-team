@@ -1,4 +1,4 @@
-# Conversation Guide for Ask VA: Submit an Inquiry - Veterans
+# Conversation guide for Ask VA: Submit an inquiry - Veterans
 
 Ask VA Integration Team, July 2023
 
