@@ -6,11 +6,10 @@ Summary deck: [Review of User Research: VA Mobile App Personalization (Jul 2022)
 
 Reviewed existing VA research for insights related to personalization in the Benefits & Health spaces, 2016-2022.
 
-
-* Veteran motivations and behaviors
-* Pain points
-* What Veterans say they want from a home screen
-* What Veterans say about notifications
+* [Veteran motivations and behaviors related to personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-behaviors--motivations-general---user-context)
+* [Pain points potentially addressed by personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-pain-points-general---user-context)
+* [What Veterans say they want from a home screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-they-want-from-a-home-screen)
+* [What Veterans say about notifications]()
 
 Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, Harvard students)
 
@@ -98,8 +97,6 @@ Veterans **value empathy and communication**.
 
 ### What Veterans say they want from a home screen:
 
-
-
 1. **Veterans want their experience to be task-based** (**actionable**!), streamlined, and expect a mix of links and widgets to complete tasks from their home screen. <sub>1,2,5,6,7</sub> 
    * They want to **be able to quickly see what needs to be done, act on it and get off the [site]**. <sub>8</sub> 
    * Participants would prefer VA communications that are **timely**, give a clear sense of **what to expect and when**. <sub>9</sub> 
@@ -112,6 +109,8 @@ Veterans **value empathy and communication**.
    * Some Veterans are interested in **being able to customize** their logged-in homepage (although this is less common as of late).<sub>1,2,7</sub> 
 
 3. **Veterans prefer clear, simple design** (an easy to scan list of top tasks, approach to presenting health info) to avoid info overload. <sub>2,5,7</sub>  
+
+###  What Veterans say about notifications:
 
 
 **Sources:**
