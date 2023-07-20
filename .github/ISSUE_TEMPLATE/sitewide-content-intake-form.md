@@ -51,7 +51,6 @@ What areas does your team need support in? Check all that apply.
 - [ ] URLs
 - [ ] Breadcrumbs and Left Nav placement
 - [ ] Redirects
-
 #### Multilingual content
 - [ ] Translating content
  
@@ -64,7 +63,7 @@ _Tell us about your product's timeline. And we'll work with you to meet timeline
   - [ ] Yes
   - [ ] No
 
-### What is your team’s next step and its timing?
+### What's your team’s next step and its timing?
 
 - **Our next step is** ....
 - **Provide date if available**: xx/xx/xxxx
@@ -83,7 +82,7 @@ _Tell us about your product's timeline. And we'll work with you to meet timeline
   - [ ] Yes
   - [ ] No
 
-### If you are conducting research, when is that starting? 
+### If you're conducting research, when is that starting? 
 **Provide date if available:** xx/xx/xxxx
   - [ ] Next week
   - [ ] This month
@@ -184,5 +183,6 @@ The [#accessibility-help channel](https://dsva.slack.com/archives/C8E985R32) in 
 - If you need a page/URL redirected, a URL changed or a vanity URL set up, please submit a [Redirect, URL change, or vanity URL request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=ia&template=redirect-request.md&title=Redirect+Request)
  
  - If you are creating an [experimental design,](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) please [also contact the DST. ](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
+
 - If you are requesting [a11y support for user research,](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name) please complete this form, next. 
 
