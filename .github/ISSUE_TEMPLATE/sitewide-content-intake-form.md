@@ -14,7 +14,7 @@ assignees: RLHecht, coforma-terry, kristinoletmuskat, laurwill, sara-amanda
 -	Designer: 
 - Accessibility specialist:
 - Content writer: 
--	Product/team Slack channel:
+-	Slack channel:
  
 ## CAIA Support Request
 ### Describe what you need in a few sentences:
@@ -29,7 +29,7 @@ assignees: RLHecht, coforma-terry, kristinoletmuskat, laurwill, sara-amanda
 - We need to make sure the content we’re using in our tool is written in plain language and follows the style guide.
 
 ### Which are you doing?
-- [ ] **Launching a new page**, tool, form, or app
+- [ ] **Launching a new** page, tool, form, or app
 - [ ] **Making changes** to an existing page, tool, form, or app
 
 ### Types of Support
@@ -93,7 +93,7 @@ _Tell us about your product's timeline. And we'll work with you to meet timeline
   - [ ] 6 months
   - [ ] 1 year
 
-### Will this new product be released incrementally (for instance 25% of users initially)? 
+### Will you release this new product incrementally (for example, release to 25% of users to start)? 
   - [ ] Yes
   - [ ] No
  
@@ -130,22 +130,22 @@ _Tell us about your product's timeline. And we'll work with you to meet timeline
 - [ ] Content
 - [ ] IA
 - [ ] Translation
-- [ ] Already completed, no assistance needed.
-- [ ] Unknown at this time.
+- [ ] Already completed, no assistance needed
+- [ ] Unknown at this time
 ##### Midpoint
 - [ ] Accessibility
 - [ ] Content
 - [ ] IA
 - [ ] Translation
-- [ ] Already completed, no assistance needed.
-- [ ] Unknown at this time.
+- [ ] Already completed, no assistance needed
+- [ ] Unknown at this time
 ##### Staging
 - [ ] Accessibility
 - [ ] Content
 - [ ] IA
 - [ ] Translation
-- [ ] Already completed, no assistance needed.
-- [ ] Unknown at this time.
+- [ ] Already completed, no assistance needed
+- [ ] Unknown at this time
   
 ## Supporting artifacts
 *Please provide links to supporting artifacts as available.*
