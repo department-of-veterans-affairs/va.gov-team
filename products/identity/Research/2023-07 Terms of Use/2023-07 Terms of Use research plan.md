@@ -4,84 +4,65 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+VA would like everyone utilizing VA.gov and it's surrounding sites and services to be presented with a unified version of the Terms and Conditions that they will have to agree to in order to continue utilizing the authenticated experience
+- [product info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/terms%20and%20conditions)
 
-[Link to product brief](url goes here).
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+- Veterans and their families can apply for all benefits online
+- Veterans can manage their health services online
+- Veterans and their families trust the security, accuracy, and relevancy of VA.gov
+
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+
+Securely accessing VA online services can happen at any stage in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf). The updated Terms of Use will apply to every who signs into VA online and uses the authenticated experience.
 
 ## Research Goals	
-What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+- Test the usability of a prototype that requires veterans to agree to updated terms of use
+- Identify any pain points with the prototype
+- Validate certain options we are considering for this design on language and certain design elements
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+
+- Validate the prototype’s usability.
+- Learn what pain points the current design has with various audiences - especially since this page will be a precursor to continuing to use the authenticated experience, we need the design to be as smooth and usable as possible to the everyone
+
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+- Does the prototype allow users to successfully understand the updated Terms of Use?
+- Are folks able to successfully complete this page in order to move onto the authenticated experience?
+- Is there a substantial usability difference between certain language and design options?
+- What changes would make the prototype more helpful or more usable?
+
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+
+- Veterans will see needing to agree to updated terms as a nuisance
+- Veterans will opt to click past this as quickly as possible, including by not reading any long paragraphs of updated terms, so they can move on to their task at hand.
+
 
 ## Methodology	
-Remote usability testing will evaluate the modal prototype with participants who sign into VA.gov
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+Remote usability testing will evaluate the prototype with participants. We’ll use Perigean’s Zoom account for these remote sessions. We plan to test with both mobile and desktop users and with assistive tech users.
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-
-### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
 
 ### Research materials 
 
-- [Conversation guide]()
-- [modal prototype]()
+- [Conversation guide]() 
+- [modal prototype](https://www.figma.com/file/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=0-1&mode=design&t=fFYcQAIlkNWAQ2sn-0)
 	
 ## Recruitment	
 
-We will ustilize the Perigean recruitment team to recruit Veterans for this moderated study. 
+We will use Perigean to recruit Veterans for this moderated study. We are looking to include as participants some historically under represented groups for this:
 
+- Assistive Tech users (screen zoom, and screen reader in particular)
+- mobile users
+- cognitive disabilities
 
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
