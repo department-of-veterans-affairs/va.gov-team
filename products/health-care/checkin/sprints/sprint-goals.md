@@ -42,6 +42,7 @@ ________________________________________________________________________________
         - **EPIC: [Unified Pre-Check-in/Check-in Experience - Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60971)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [UX] Which solution will solve the accordion issue?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59416)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [SPIKE] Do we use dismissible alerts or not?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57894)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Create wireframe for how to decrease No's to filing for travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62272)
     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
         - Pilot ends July 31; need decision from Kay/IVC about whether to provide it to everyone
     - **Sub Goal: [Create Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60145)**
