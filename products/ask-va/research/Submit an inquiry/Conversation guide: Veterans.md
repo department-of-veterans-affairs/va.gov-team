@@ -390,27 +390,26 @@ Thank you so much again, and enjoy the rest of your day!
 
 ## Pause or exit strategies
 
-> If the participant isn't feeling well.
+#### If the participant isn't feeling well.
 
-I'm sorry you're [NOT FEELING WELL]. Do you feel up for continuing? You'll be paid even if we stop early."
+I'm sorry you're **[NOT FEELING WELL]**. Do you feel up for continuing? You'll be paid even if we stop early.
 
 (If they choose to continue) Okay, just let me know if you change your mind.
 
-> If the participant is showing signs of upset or distress.
+#### If the participant is showing signs of upset or distress.
 
 This sounds so hard. Would you like to take a break or stop?
 
 (If they choose to take a break and come back) Welcome back. I'm interested to hear more about... are you up for continuing or would you prefer we move to the next topic?
 
-> If the participant decides to stop.
+#### If the participant decides to stop.
 
 Thank you for time on this call, I completely understand your decision to stop.
 
 (If they seem distressed) Before you go, the VA Hotline number is 988, it's a confidential helpline, and it's 24/7. It's up to you whether you call.
 
-> If the participant is fine to continue, but you aren't.
+#### If the participant is fine to continue, but you aren't.
 
 I hear that you're okay to continue. Before we do, I realized that I need a minute. I'm going to turn off my camera and microphone, and get a glass of water. Is that okay with you? I'll be back in 3 minutes.
 
 (If you're still not able to continue) Thanks for letting me take a break. You didn't do anything wrong, but I'm realizing that I'm not going to be able to continue this session. You will still be paid for the full time. I really appreciate you sharing with me today. Is it okay with you if we stop? Thanks very much.
-
