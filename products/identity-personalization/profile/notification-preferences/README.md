@@ -131,7 +131,6 @@ Additional details can be found [here](https://github.com/department-of-veterans
 - [Frontend documentation on how the notification settings UI works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/display-notes.md)
 
 ## Design and UX
-- [High level user flow with screenshots](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/v8zKwxQ)
 - [Notification settings sketch files](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/README.md)
 
