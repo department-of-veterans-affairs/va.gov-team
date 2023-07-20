@@ -1,5 +1,11 @@
 # Review of Related User Research: VA Mobile App Personalization
 
+Office of the CTO - Digital Experience (OCTO-DE), VA Mobile App
+
+Date: 05/31/2022
+
+Holly Collier
+
 Summary deck: [Review of User Research: VA Mobile App Personalization (Jul 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/Review%20of%20User%20Research_%20VA%20Mobile%20App%20Personalization%20(Jul%202022).pdf) 
 
 ## Background
