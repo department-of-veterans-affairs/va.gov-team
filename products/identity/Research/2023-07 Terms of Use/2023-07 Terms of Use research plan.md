@@ -1,5 +1,3 @@
-# WIP - the research plan template will be filled in as we plan 
-
 # Research Plan for [Identity, Terms of Use, Date]
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
