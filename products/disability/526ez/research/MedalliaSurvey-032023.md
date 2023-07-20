@@ -2,7 +2,7 @@
 
 ----
 
-# 526 Qualitative Survey Feedback White Paper 
+# 526 Medallia Survey Feedback Data White Paper 
 
 - Purpose: to summarize insights gained from written survey data captured from feedback survey on Introduction/Start pages by Contact Center and discover pain points
 - Data collection date: 1/1/23 - 3/15/23
