@@ -7,6 +7,7 @@
 | 4/26/23        | Coulton Bunney   |Created document                                                                                                     |
 | 4/27/23        | Coulton Bunney   |Added initial draft of overview and use cases                                                                        |
 | 4/28/23        | Coulton Bunney   |Added initial draft of requirements                                                                        |
+7/20/23            Kay Lawyer        Updated to match design and logic 
 
 ## Table of Contents
 - [Overview](#overview)
