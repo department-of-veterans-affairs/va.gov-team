@@ -8,7 +8,9 @@
 ### Topics
 
 - [P] UAT planning for MHV on VA.gov features
-- [J/L] Release planning for print button and descriptive back link 
+- [J/L] Release planning for print button and descriptive back link
+- [P] Next steps for MHV on VA.gov (looking at Mikki's comment [here](https://dsva.slack.com/archives/CMNQT72LX/p1686835346637409))
+- [P] Next steps for PBS research
  
 </details>
 
