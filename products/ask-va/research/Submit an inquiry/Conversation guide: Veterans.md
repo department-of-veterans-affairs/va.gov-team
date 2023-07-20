@@ -31,7 +31,7 @@ Last updated by @tygindraux: July 20, 2023
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [FACILITATOR], I’m a researcher from the VA.
+Thanks for joining us today! My name is **[TYLER or BECKY]**, I’m a researcher from the VA.
 
 There’s a couple other people from my team in the Zoom waiting room who would like to observe and take notes. But before we invite them, I want to explain what we’re doing today so you can decide what you are and aren’t okay with.
 
@@ -44,11 +44,11 @@ Before we start, a few things I want to mention:
 * **I’m going to share a prototype with you today.** This is like a pretend version of the website, and so it may not function exactly the way you expect. For example, you’ll be able to click some buttons or links, but not all of them. And there’s certain things you’ll read that might not match what you see on the VA’s real website today.
 * **If for any reason and at any time you want to stop the session, please let me know.** And that might be a pause to get some water or to stop the session completely. You'll be compensated no matter how much of the session we complete.
 * When they set up this session, Perigean asked if you are okay with a couple of observers joining us. But, I want to be sure before we start. **Are you okay with a couple of observers joining this session?**
-    * [If no] Use Slack to kindly ask the observers to leave the Zoom.
-    * [If yes] Admit observers. Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. Then, ask notetakers and observers to turn off their cameras for the rest of the session.
+    * **[IF NO]** Use Slack to kindly ask the observers to leave the Zoom.
+    * **[IF YES]** Admit observers. Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. Then, ask notetakers and observers to turn off their cameras for the rest of the session.
 * Next I’d like to ask you about recordings. We use recordings to confirm that we’ve captured your opinions accurately. The recordings are destroyed after we finish the study, and none of your comments are attributed to you directly. **Are you comfortable if I record my screen and audio as we talk today?**
-    * [If no] Don't record
-    * [If yes] Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+    * **[IF NO]** Don't record
+    * **[IF YES]** Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 > Start recording (‘Record to cloud’).
 
@@ -70,12 +70,12 @@ I'd like to start by learning more about your experience with the VA and our onl
 
 * How often do you go online to use VA services, such as, schedule a medical appointment or check your benefits?
 * Have you ever contacted the VA online or over the phone?
-    * [If no] Why might you contact the VA?
-    * [If yes]
+    * **[IF NO]** Why might you contact the VA?
+    * **[IF YES]**
         * Can you tell me about a time when you contacted the VA?
-        * Do you usually contact the VA [over the phone or online]? Why?
-        * [If you contacted the VA online] Did you use your phone, tablet or computer?
-        * How did you find the support you received [over the phone or online]?
+        * Do you usually contact the VA **[OVER THE PHONE OR ONLINE]**? Why?
+        * **[IF ONLINE]** Did you use your phone, tablet or computer?
+        * How did you find the support you received **[OVER THE PHONE OR ONLINE]**?
 * And can you also confirm whether you’re currently enrolled in VA health care?
 
 #### Things to watch for:
@@ -93,8 +93,8 @@ Next, I’d like to share some ideas with you so we can get your feedback. In th
 
 * Can you open this link?
 * Have you shared your screen on Zoom before?
-    * [If no] I’ll walk you through how to do that. [Help them screen share].
-    * [If yes] Great. Can you please share your screen?
+    * **[IF NO]** I’ll walk you through how to do that. **[HELP THEM SCREEN SHARE]**.
+    * **[IF YES]** Great. Can you please share your screen?
 
 Thanks! Now I’m able to see the prototype too.
 
@@ -108,21 +108,21 @@ Now that we have this open, I'd like us to start by imagining that you need to a
 
 I’ll give you a second to read this page more closely now.
 
-* Before we click anything, what would you do first if you wanted to [ask a question]?
-    * How long would you expect it to take to [ask a question]?
+* Before we click anything, what would you do first if you wanted to **[ASK A QUESTION]**?
+    * How long would you expect it to take to **[ASK A QUESTION]**?
 
-[a: Sign in/Create an account]
+**[A: SIGN IN/CREATE AN ACCOUNT]**
 
 * Why would you click sign in/create an account?
     * Does it seem like you need to sign in, in order to start?
     * What if you had a question about life insurance instead of health care, would you need to sign in?
     * Remember, today we’re imagining that you have a question about health care. Do you need to sign in?
 
-[b: Continue without signing in]
+**[B: CONTINUE WITHOUT SIGNING IN]**
 
 * What do you expect to happen after you click continue?
 
-Okay, let’s go ahead and click [option they choose] now.
+Okay, let’s go ahead and click **[OPTION THEY CHOOSE]** now.
 
 #### Things to watch for:
 
@@ -131,3 +131,84 @@ Okay, let’s go ahead and click [option they choose] now.
 * Is it clear when they need to sign in or when it is optional?
 * Which authentication (‘Create an Account or Sign in’) link do they click, of the two?
 
+### 2a: Sign in
+
+> Screen: Sign in
+
+So, for today, we’ll just pretend that we’re signing in.
+
+* Which option do you usually choose to sign in?
+
+Let’s click **[OPTION THEY CHOOSE]** and we’ll continue.
+
+#### Things to watch for:
+
+* Are they familiar with the sign in screen?
+* Do they remember which sign in credential they use?
+
+### 2b, 3a: About you
+
+> Screen: About you
+
+Okay, now we’re on this page.
+
+* First, can you tell me what we’re looking at here?
+* If you had to guess, how long do you think this process is going to take?
+
+> Field: Who are you asking a question for?
+
+* How would you answer this question?
+   * Would you have trouble answering this question?
+   * Why do you think the VA is asking this?
+* If you needed help or had a question about this page, what would you do?
+* Before we click continue, what do you expect to see on the next page?
+
+**[IF THEY WERE SENT BACK VIA MODAL TO SIGN IN]**
+
+* Does this page look familiar?
+* Do you notice anything different? **[KEEP IN MIND: THEIR INFO HAS BEEN SAVED/PRE-FILLED]**.
+
+#### Things to watch for:
+
+* Is it straightforward to answer this question?
+* Do they know where or how to get help if they encounter an issue?
+* Do they expect to give feedback while they use the service or after?
+
+### 3b, 4a: Category and topic
+
+> Screen: Category and topic
+
+I mentioned earlier that we’re imagining you have a question about health care. Let’s think of a question you might have about your healthcare.
+
+* Does a question come to mind?
+      * **[NEED EXAMPLE: ENROLLED IN VA HEALTH CARE]** That’s okay. Let’s say you wanted to get a hearing test.
+      * **[NEED EXAMPLE: NOT ENROLLED]** That’s okay. Let’s say you wanted to know if you are eligible for VA health care.
+
+Great. Now keeping that question in mind…
+
+* Can you show me how you would answer the first two questions on this page? It’s helpful if you tell me outloud why you’re choosing each option.
+
+> Field: Which category best describes your question?
+
+> Field: Which topic best describes your question?
+
+* Did you have trouble answering either of these questions?
+* Why do you think the VA is asking these questions?
+
+Let’s finish answering the questions on this page. Since this is a prototype, it only includes some options. You might not be able to select your state or medical center, so if that’s the case you can just choose any state or medical center from the list.
+
+> Field: State where VA Medical Center is located
+
+> Field: VA Medical Center
+
+* If you needed help or had a question about this page, what would you do?
+* Before we click continue, what do you expect to see on the next page?
+
+#### Things to watch for:
+
+* If they thought of their own question, is it related to health care?
+* Is it straightforward to find a category?
+* Is it straightforward to find a topic?
+* Do they know where or how to get help if they encounter an issue?
+
+### 
