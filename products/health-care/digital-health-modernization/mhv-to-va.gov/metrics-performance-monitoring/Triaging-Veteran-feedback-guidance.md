@@ -15,7 +15,13 @@ A single traffic control officer will be responsible for the initial triage and 
 - 8/5 - 8/12: Marci McGuire
 
 #### Default traffic control response
-All messages will receive the default response: "_Thank you for submitting feedback on My HealtheVet on VA.gov. This message will be reviewed by our delivery teams for action. Please note that a member of our delivery team may follow up with you to gather more information. Thank you, The My HealtheVet on VA.gov Team_"
+All messages will receive the default response: 
+
+"_Thank you for submitting feedback on My HealtheVet on VA.gov. Your message will be reviewed by our delivery teams for action. Please note a member of our delivery team may follow up with you to gather more information._ 
+
+_Sincerely,_ 
+
+_The My HealtheVet on VA.gov Team_"
 
 ### Delivery teams
 Delivery teams are responsible for receiving feedback from the traffic control officer and taking the necessary steps to resolove  in line with their broader feedback strategy.
