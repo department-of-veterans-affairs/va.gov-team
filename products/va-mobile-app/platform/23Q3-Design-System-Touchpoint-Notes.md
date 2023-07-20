@@ -7,6 +7,7 @@ Agenda:
 
 
 ## 7/20/23
+*   Discuss purpose/role of this meeting
 *   Open Action Items:
      -  VADS stakeholder introduction to Kelly
      -  Outcomes/Goals 1-pager format feedback
