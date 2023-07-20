@@ -1,5 +1,14 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
 
+## 7/20/23
+Attendees: Nyantee, Kate, Julie, Nichole
+
+Agenda
+- Team 1 Upcoming Sprint Goals
+- TE updates
+- Team 1 & 2 Collaboration
+  
+  
 ## 7/13/23
 Attendees: Nyantee, Kate, Julie, Nichole
 
