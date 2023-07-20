@@ -148,7 +148,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 **Pilot 1 - Moderator Hieu Vo**
 * Pilot participant email: Fletcher Bonds (fletcher.bonds@adhocteam.us)
-* Date and time of pilot session: Friday July 19, 2023 at 1pm ET / 10am PT
+* Date and time of pilot session: Friday July 21, 2023 at 1pm ET / 10am PT
 
 
 
