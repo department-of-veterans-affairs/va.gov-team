@@ -1,4 +1,4 @@
-# Research Plan for Ask VA: Submit an Inquiry
+# Research plan for Ask VA: Submit an inquiry
 
 Ask VA Integration Team, July 2023
 
