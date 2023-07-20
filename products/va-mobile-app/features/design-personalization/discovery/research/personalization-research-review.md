@@ -110,7 +110,31 @@ Veterans **value empathy and communication**.
 
 3. **Veterans prefer clear, simple design** (an easy to scan list of top tasks, approach to presenting health info) to avoid info overload. <sub>2,5,7</sub>  
 
-###  What Veterans say about notifications:
+
+### What Veterans say about notifications
+These findings are based on existing research conducted on the MHV, MyVA, and VSA websites (not the mobile app).
+
+
+1. **The word “notification” gets used in studies and by Veterans to mean both “alerts” in general and something more specific:**
+   * ‘Notifications’ are different than action items:
+       * In one study, Veterans made a **clear distinction between an 'action item' (something that the Veteran needs to DO)** and a **'notification' (something that the Veteran should know).** They want to be able to quickly see what needs to be done, act on it and get off the site.
+   * ‘Notifications’ is also used throughout other studies to describe any kind of alert.
+2. **Veterans expectations around where Notifications might live varies between studies.**
+   * Users expect to have a **centralized alerts page** (VSA authenticated experience).
+   * Users expected to see notifications and updates at the top of their logged-in **MyVA home page.**
+3. **Veterans expect specific attributes of Notification content and have expectations about their order of prioritization.**
+   * **Prioritization/order of notifications:**
+       * **Time-sensitivity and unexpected problems** should be prioritized. (if something is going to expire, or if something is time-sensitive they would want that to be called out in some way that they can't miss)
+       * Importance of an individual alert depends what is happening in a Veteran's life.
+   * **Notification content:**
+       * The best notifications are succinct (**brief and action-oriented**), **personal** (applies to me and my life), **reassuring** (the things I set up to happen on a recurring schedule are happening), and **timely** (shows up when I need the information). 
+       * Participants want consistent information across all channels.
+   * **Notification topics mentioned by Veterans**(*mentioned more than once)**:**
+       * **Health:** Appointments, *Prescription refills,* Messages,* Physician referral approvals
+       * **Money:** that they owe, or are owed*
+       * **Benefits**: Approaching deadlines (e.g. 3 days left to provide document), Claim status,** Education, benefits that Veterans are entitled to, Home loan info
+       * **General:** Changes to VA benefits or policies that impact them, Veteran organizations available to join
+
 
 
 **Sources:**
@@ -124,7 +148,7 @@ Veterans **value empathy and communication**.
 8. [VSA Authenticated Experience: Action Items (aka Notifications) Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#research-goals) (Sep 2021)
 9. [VA.gov User Notifications MVP Readout - end of sprint demo](https://docs.google.com/presentation/d/1R89gPDHfBMZFYogzdMSh39zh4xmrTJXPDTAFTTx-63w/edit#slide=id.p1) (2018)
 
-
+See [Notifications section below](https://hackmd.io/rU2oMKIATXCx08RS9Noz_w#Notifications) for specific studies.
 ## Related User Research by Study
 
 
