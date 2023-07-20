@@ -9,7 +9,7 @@ Reviewed existing VA research for insights related to personalization in the Ben
 * [Veteran motivations and behaviors related to personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-behaviors--motivations-general---user-context)
 * [Pain points potentially addressed by personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-pain-points-general---user-context)
 * [What Veterans say they want from a home screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-they-want-from-a-home-screen)
-* [What Veterans say about notifications]()
+* [What Veterans say about notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-about-notifications)
 
 Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, Harvard students)
 
