@@ -44,10 +44,13 @@ Created by the sitewide content and IA team for teams working on products relate
 
 - **VA disability compensation:** VA disability compensation provides tax-free monthly payments.
 
-- **Retroactive payments:** 
+- **Retroactive payments:**
+  
+- **Disabling:** A condition is 10% disabling / 20% disabling, etc.
+  
+- **Posttraumatic:** No hyphen when spelling out PTSD.
 
 ## Content considerations specific to disability compensation
-
 
 ## Organic SEO and VA.gov search
 
