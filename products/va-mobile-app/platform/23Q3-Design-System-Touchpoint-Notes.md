@@ -11,4 +11,5 @@ Agenda:
 *   Open Action Items:
      -  VADS stakeholder introduction to Kelly
      -  Outcomes/Goals 1-pager format feedback
-*   Progress of component-library discovery            
+*   Progress of component-library discovery
+*   Discussion on MVP component selection          
