@@ -181,8 +181,8 @@ Okay, now we’re on this page.
 I mentioned earlier that we’re imagining you have a question about health care. Let’s think of a question you might have about your healthcare.
 
 * Does a question come to mind?
-      * **[NEED EXAMPLE: ENROLLED IN VA HEALTH CARE]** That’s okay. Let’s say you wanted to get a hearing test.
-      * **[NEED EXAMPLE: NOT ENROLLED]** That’s okay. Let’s say you wanted to know if you are eligible for VA health care.
+   * **[NEED EXAMPLE: ENROLLED IN VA HEALTH CARE]** That’s okay. Let’s say you wanted to get a hearing test.
+   * **[NEED EXAMPLE: NOT ENROLLED]** That’s okay. Let’s say you wanted to know if you are eligible for VA health care.
 
 Great. Now keeping that question in mind…
 
