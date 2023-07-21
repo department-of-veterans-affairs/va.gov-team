@@ -22,7 +22,7 @@ Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, 
 * [Veteran motivations and behaviors related to personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-behaviors--motivations-general---user-context)
 * [Pain points potentially addressed by personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-pain-points-general---user-context)
 * [What Veterans say they want from a home screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-they-want-from-a-home-screen)
-* [How Veterans think about notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-about-notifications)*
+* [How Veterans think about notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-about-notifications)
 
 
 ## Topline findings: Summary of insight themes related to personalization 
@@ -119,7 +119,7 @@ Veterans **value empathy and communication**.
 
 
 ### How Veterans think about notifications*
-*These findings are based on existing research conducted on the MHV, MyVA, and VSA websites (not the mobile app). Added to topline findings in Jul 2023*
+*These findings are based on existing research conducted on the MHV, MyVA, and VSA websites (not the mobile app), compiled in May 2022, added to topline findings in Jul 2023*
 
 1. **The word “notification” gets used in studies and by Veterans to mean both “alerts” in general and something more specific:**
    * ‘Notifications’ are different than action items:
@@ -370,8 +370,6 @@ Method: interviews, observations, secondary research
 
 
 ### Notifications
-
-
 
 **MyHeatheVet onto [VA.gov](http://va.gov/) work** (2022)
 * [Research findings for round 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/Round1_Usability/Final_report.md) (usability study on the desktop landing pages)
