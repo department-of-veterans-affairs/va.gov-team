@@ -225,26 +225,131 @@ If only one facility is available:
 ## Technical design
 <!-- Endpoints and sample responses -->
 
-**Staging URL:** [Add staging URL]
+**Staging URL:** https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/va-facility-2
 
 **Staging base URL:** https://staging-api.va.gov/
 
 **Prod base URL:** https://api.va.gov/
 
 **Endpoints**
-`replace-with-endpoint-1`
+`/vaos/v2/facilities/${id}`
 
-`replace-with-endpoint-2`
+`/vaos/v2/scheduling/configurations?facility_ids[]=${id}`
 
 To see the current api responses:
 - Navigate to the [vets-api swagger](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/)
 - Search for `https://api.va.gov/vaos/v2/apidocs`
 
 <details>
-  <summary>Sample response</summary>
+  <summary>Sample response for /vaos/v2/facilities/${id}</summary>
 
 ```json
-[Add sample response]
+{
+  "data": [
+    {
+      "id": "983",
+      "type": "facilities",
+      "attributes": {
+        "id": "983",
+        "vistaSite": "983",
+        "vastParent": "983",
+        "type": "va_facilities",
+        "name": "Cheyenne VA Medical Center",
+        "classification": "VA Medical Center (VAMC)",
+        "timezone": {
+          "timeZoneId": "America/Denver"
+        },
+        "lat": 39.744507,
+        "long": -104.830956,
+        "website": "https://www.denver.va.gov/locations/directions.asp",
+        "phone": {
+          "main": "307-778-7550",
+          "fax": "307-778-7381",
+          "pharmacy": "866-420-6337",
+          "afterHours": "307-778-7550",
+          "patientAdvocate": "307-778-7550 x7517",
+          "mentalHealthClinic": "307-778-7349",
+          "enrollmentCoordinator": "307-778-7550 x7579"
+        },
+        "hoursOfOperation": null,
+        "mailingAddress": null,
+        "physicalAddress": {
+          "type": "physical",
+          "line": [
+            "2360 East Pershing Boulevard"
+          ],
+          "city": "Cheyenne",
+          "state": "WY",
+          "postalCode": "82001-5356"
+        },
+        "mobile": false,
+        "healthService": [
+          "Audiology",
+          "Cardiology",
+          "DentalServices",
+          "EmergencyCare",
+          "Gastroenterology",
+          "Gynecology",
+          "MentalHealthCare",
+          "Nutrition",
+          "Ophthalmology",
+          "Optometry",
+          "Orthopedics",
+          "Podiatry",
+          "PrimaryCare",
+          "SpecialtyCare",
+          "UrgentCare",
+          "Urology",
+          "WomensHealth"
+        ],
+        "operatingStatus": {
+          "code": "NORMAL"
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "currentPage": 0,
+      "perPage": 0,
+      "totalPages": 0,
+      "totalEntries": 0
+    }
+  }
+}
+```
+</details>
+<details>
+ <summary>Sample response for /vaos/v2/scheduling/configurations?facility_ids[]=${id}</summary>
+
+```json
+
+{
+            "id": "optometry",
+            "name": "Optometry",
+            "stopCodes": [
+              {
+                "primary": "408",
+                "defaultForRequests": false
+              }
+            ],
+            "direct": {
+              "patientHistoryRequired": false,
+              "patientHistoryDuration": 0,
+              "canCancel": true,
+              "enabled": false
+            },
+            "request": {
+              "patientHistoryRequired": false,
+              "patientHistoryDuration": 0,
+              "canCancel": true,
+              "submittedRequestLimit": 2,
+              "enterpriseSubmittedRequestLimit": 2,
+              "enabled": false
+            }
+
+
+
 ```
 
 </details>
