@@ -37,6 +37,12 @@ Thank you for joining us today! My name is Cindy. How are you doing today?
 
 *(Brief conversation)*
 
+I work on making technology easier for Veterans to use in order to get information and benefits from the VA. 
+
+What I *hope to do today* is to get your feedback on a new web page that we're working on. 
+
+What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may look at things that have caused you serious frustration, and I want you to know up front that I can't make that better for you right now. I don't have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations since they might be opportunities for what I can help improve in the future.
+
 Now I'll invite a colleague to join us in this session to take notes.
 
 *(DELETE: I have a colleague with us in this session who will be taking notes.)* 
@@ -92,6 +98,61 @@ Before we start, I want to go over a few things:
   - Computer: Just to the left of center is a conversation bubble that says Chat. 
     - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+
+## Protocol for Recognizing & Handling Trauma-Triggering
+*Remember*: Getting to all the questions on your script isn’t as important as the Veteran feeling heard. Prioritize the participant over the research.
+### OBSERVE the participant
+*Be PRESENT with the participant. Notice their body language, tone of voice, and the environment* 
+
+*SENSE discomfort, anxiety, nervousness, anger, teary/crying, shakiness, nervousness. Some signs may include:*
+- *Prolonged silences*
+- *Shifts in tone or attitude or interactivity*
+- *New background noises*
+- *Staring into space* 
+
+### If notice a change, SAY one of these:
+  - Sometimes talking about these types of experiences can be difficult. Do you think you would be comfortable telling me if it starts to affect you negatively?
+  - This sounds so hard. Would you like to take a break or stop?
+  - Would you like me to stop recording?
+  - I sense that this may be upsetting. We value what you’re sharing with us, but we don’t have to go there.
+  - Do you want to just sit here quietly for a few minutes?
+  - Would you like to pause, or are you OK with continuing?
+  - Is this not a good time for this session?
+
+### If resume after a break
+I'm interested to hear more about...Are you up for continuing with that, or would you prefer to move on to the next topic?
+
+### Handling other specific situations
+- *If p isn't feeling well in the moment*
+  - I'm sorry to hear that you're (not feeling well--repeat their words). Do you feel up for continuing? You will be compensated even if we stop early. 
+    - *(If they want to keep going)* Please let me know if you change your mind.
+- *If p describes something that seems unfair*
+  - I hear you saying that this is unfair. It sounds incredibly frustrating. I'm sorry to hear that you've been going through this.
+- *If MST (military sexual trauma) comes up*
+  - I am so sorry that happened to you. I truly appreciate your willingness to speak with me today.
+
+
+
+### If you notice something and want to make sure they know how to get mental health help
+I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
+
+### If the participant is fine to continue, but you're worried about their situation...
+I realize I'm worried for you being in this situation. I don't have concrete help I can offer, but I do have a hotline number. Before we continue, would you like me to give you the number?
+- If you need to talk to someone right away, you can contact the Veterans Crisis Line via phone, text, or chat anytime day or night. You can call 988 or text 838255. It's confidential and available 24 by 7.
+- You could also call the Benefits Hotline at 800-827-1000.
+
+### If I feel teary or emotional
+*Turn off my camera and/or say,* I need to step away for a moment.
+
+### When participant is fine to continue, but you're not sure you can
+I hear that you're good to continue. Before we do, I realize that I need a minute--I'm going to go off video, mute myself, and get a glass of water. Is that OK with you? I'll be back in X minutes.
+
+*(If I'm still not OK to continue)* After taking a breather, I realize I'm not able to continue. You didn't do anything wrong, and you will get paid for the full time. I appreciate your time and your willingness to share your experience.
+
+### When a participant decides to stop the session
+I don't know if you'd want to call, but the Veterans Crisis Line number is 988. It's confidential and available 24 by 7.
+
+Thank you for your time in having this call. I honor your decision to stop and wish you well. [Try to maintain a CALM tone]
  
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
