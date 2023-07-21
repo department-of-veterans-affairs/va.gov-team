@@ -29,8 +29,8 @@
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
 
-**1) [Page name] - [Existing/New]**
-- URL:
+**1) H1 of page - New**
+- URL: www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/apply-for-certificate-form-40-0247/
 - Breadcrumb: VA.gov home > Burials and memorials > Memorial items > Presidential Memorial Certificates > H1 of page 
 - Notes: Subsequent pages will add on to the above URL using short and simple labels, i.e. .../introduction/. We can provide further guidance on these additions if needed.
 
@@ -52,7 +52,7 @@
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- https://www.cem.va.gov/facts/Presidential_Memorial_Certificates.asp|  | We recommend redirecting this legacy page to the new digitized form on the modernized site, but suggest connecting with the program officer to confirm this change before proceeding with the redirect. 
+ https://www.cem.va.gov/facts/Presidential_Memorial_Certificates.asp| www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/apply-for-certificate-form-40-0247/ | We recommend redirecting this legacy page to the new digitized form on the modernized site, but suggest connecting with the program office to confirm this change before proceeding with the redirect. 
  
 
 
