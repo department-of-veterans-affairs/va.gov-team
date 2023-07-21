@@ -1,3 +1,18 @@
+-----
+# Email with MHV help desk leads
+July 21, 2023
+
+From Lameka Kendrick:
+> From what we see, if can affect what they are able to see on the site. For instance, if they call and say “I cannot see my note from B facility”. We have them go check the treating facility and save the facility and then go back to the Notes in Blue Button and it will show up. Whether it is a glitch or actually makes a difference, we cannot tell but it has worked for us in several instances.
+
+And from Katie Everett:
+> As Lameka said, we mostly use it to help troubleshoot issues with Blur Button, but we also sometimes use it in troubleshooting Secure Messaging issues; for example, if a veteran has switched facilities and they are not seeing their new providers in their contact list we will have them select their preferred facility.
+
+I responded back to both of them with the following questions:
+1. As far as you know does the facilities field change anything else about the Blue Button report besides the Notes?
+2. Are you aware of help desk staff using the facilities field for any other purposes?
+
+-----
 # Call with Patty Henry
 June 21, 2023
 
