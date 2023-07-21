@@ -18,7 +18,7 @@ Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, 
 * Benefits: 8 reports
 * Health: 4 reports
 
-**Quick links:**
+**Quick links (to detailed findings):**
 * [Veteran motivations and behaviors related to personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-behaviors--motivations-general---user-context)
 * [Pain points potentially addressed by personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-pain-points-general---user-context)
 * [What Veterans say they want from a home screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-they-want-from-a-home-screen)
@@ -29,7 +29,7 @@ Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, 
 
 
 ### Veteran behaviors & motivations (general - user context)
-
+[Veteran motivations and behaviors related to personalization - Detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-behaviors--motivations-general---user-context)
 
 #### UNDERSTANDING & STAYING INFORMED
 
@@ -74,7 +74,7 @@ Veterans **value empathy and communication**.
 
 
 ### Veteran pain points (general - user context)
-
+[Pain points potentially addressed by personalization - Detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-pain-points-general---user-context)
 
 
 1. Navigating VA ecosystem is **so complex and confusing** that **Veterans feel discouraged** to apply for, manage, and maximize their benefits. <sub>3,5</sub> 
@@ -103,6 +103,7 @@ Veterans **value empathy and communication**.
 
 
 ### What Veterans say they want from a home screen:
+[What Veterans say they want from a home screen - Detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-they-want-from-a-home-screen)
 
 1. **Veterans want their experience to be task-based** (**actionable**!), streamlined, and expect a mix of links and widgets to complete tasks from their home screen. <sub>1,2,5,6,7</sub> 
    * They want to **be able to quickly see what needs to be done, act on it and get off the [site]**. <sub>8</sub> 
@@ -120,6 +121,7 @@ Veterans **value empathy and communication**.
 
 ### How Veterans think about notifications*
 *These findings are based on existing research conducted on the MHV, MyVA, and VSA websites (not the mobile app), compiled in May 2022, added to topline findings in Jul 2023*
+[How Veterans think about notifications - Detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-about-notifications)
 
 1. **The word “notification” gets used in studies and by Veterans to mean both “alerts” in general and something more specific:**
    * ‘Notifications’ are different than action items:
