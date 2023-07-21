@@ -26,18 +26,7 @@ VA has a responsibility to provide accurate VA facilities and VA services inform
 
 4. VA facilities and VA services are contextually presented to users based on the VA.gov page they are on
 
-## Key resources 
-
-- [**VSA Facilities Team transition folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
-- [**VSA Facilities Team Research and Design Hub document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
-
-### Other product documentation
-
-> Our VA.gov facilities and services products are powered by Drupal and the Facilities API.
-
-- [VA facility product sitemaps](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1674779377050?sender=u2aba00c97ab77c6ec1573123&key=3024f3ae-613d-4244-abf0-844be1f68cca)
-
-**Facilities products**
+## Facilities products
 
 These are the products we are designing and building for Veterans and users on VA.gov.
 
@@ -51,17 +40,25 @@ These are the products we are designing and building for Veterans and users on V
 
 - NCA National Cemetery facility product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/cemeteries)
 
+## Key resources 
+
+- [#sitewide-facilities](https://dsva.slack.com/channels/sitewide-facilities) - Facilities Team Slack channel
+- [VA facility product sitemaps](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1674779377050?sender=u2aba00c97ab77c6ec1573123&key=3024f3ae-613d-4244-abf0-844be1f68cca)
+- [VSA Facilities Team transition folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
+- [VSA Facilities Team Research and Design Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
+
+### Related teams & documentation
+
+Our VA.gov facilities and services products are powered by the VA.gov Drupal CMS Platform and the Facilities API.
+
 **Drupal CMS**
 
 - [Repo](https://github.com/department-of-veterans-affairs/va.gov-cms)
+- [#cms-support](https://dsva.slack.com/channels/cms-support) - Drupal CMS support
+- [#cms-team](https://dsva.slack.com/channels/cms-team) - Drupal CMS Platform team
 
 **Facilities API**
 
 - [Repo](https://github.com/department-of-veterans-affairs/vets-api)
-
 - [Documentation](https://developer.va.gov/explore/facilities/docs/facilities?version=current)
 
-## Teams/Slack channels working on facilities products
-- [#sitewide-facilities](https://dsva.slack.com/channels/sitewide-facilities) - Facilities Team
-- [#cms-support](https://dsva.slack.com/channels/cms-support) - Drupal CMS support
-- [#cms-team](https://dsva.slack.com/channels/cms-team) - Drupal CMS Platform team
