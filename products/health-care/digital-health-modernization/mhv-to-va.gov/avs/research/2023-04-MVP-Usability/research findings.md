@@ -30,7 +30,7 @@ The purpose of this research is to get feedback from Veterans and caregivers on 
  <br> 
  <br> 
 
- ## What are Veterans’/caregivers’
+ ##  Research Questions
 - What are Veterans’/caregivers’ past experience with an AVS in either paper form or online?
 - Can Veterans/caregivers easily find the AVS within the Appointments section and/or the Care Summaries
 Notes section for a particular appointment?
@@ -42,3 +42,37 @@ displayed that Veterans/caregivers weren't expecting to see?
 - Do Veterans/caregivers prefer one notification for each AVS or one notification for all appointments in
 one day?
 - What information do Veterans/caregivers expect in an AVS notification?
+
+ <br> 
+ <br> 
+
+ ## Method
+- This research was conducted as a remote moderated study on the Zoom platform. Each session was 1
+hour in length, where each participant was asked to interact with a Figma prototype built for mobile devices.
+
+- When time allowed, most participants were asked to complete 7 tasks interacting with the prototype, while the
+moderator asked them questions to gain understanding of expectations and satisfaction.
+
+<br> 
+ <br> 
+
+ ## Participant Demographics
+ - 13 Participants
+   - Veterans: 7
+   - Caregivers: 2
+   - Veterans, who are also Caregivers: 4
+
+  - Disabilities
+     - Cognitive Disability: 5
+   
+- Gender
+  - Female: 6
+  - Male: 7
+ 
+- Ages
+  - 25-34: 1
+  - 35-44: 4
+  - 45-54: 3
+  - 55-64: 3
+  - 65-74: 1
+   - Did not disclose: 1  
