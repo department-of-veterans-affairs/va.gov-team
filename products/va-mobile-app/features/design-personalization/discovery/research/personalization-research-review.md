@@ -10,18 +10,19 @@ Summary deck: [Review of User Research: VA Mobile App Personalization (Jul 2022)
 
 ## Background
 
-Reviewed existing VA research for insights related to personalization in the Benefits & Health spaces, 2016-2022.
+**Goal:** Identify research insights from existing VA studies to help inform our approach to personalization in the VA mobile app. 
 
+**Approach:** 
+We reviewed existing VA research reports for insights related to personalization in the Benefits & Health spaces (2016-2022):
+Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, Harvard students)
+* Benefits: 8 reports
+* Health: 4 reports
+
+**Quick links:**
 * [Veteran motivations and behaviors related to personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-behaviors--motivations-general---user-context)
 * [Pain points potentially addressed by personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-pain-points-general---user-context)
 * [What Veterans say they want from a home screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-they-want-from-a-home-screen)
 * [What Veterans say about notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-about-notifications)
-
-Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, Harvard students)
-
-
-* Benefits: 8 reports
-* Health: 4 reports
 
 
 ## Summary of insight themes related to personalization 
