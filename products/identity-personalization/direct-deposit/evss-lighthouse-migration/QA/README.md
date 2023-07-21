@@ -10,7 +10,7 @@ Last updated: 7/14/2023
 |---|---|
 | PM Ticket for Scenarios | [#54870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54870) |
 | QA Testing Ticket - Sprint 14 7/5-7/18 | [Team QA Testing #54771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54771) |
-| **QA Plan** / Scenarios | [Spreadsheet](https://docs.google.com/spreadsheets/d/1xflLNJhUSVslzLbVQtMkYkzsBGAhIccnmYW0GL_Ihd0/edit#gid=0)|
+| **QA Plan** / Scenarios | [Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/QA/Direct%20depost%20for%20compensation%20%26%20pension%20EVSS%20_%20Lighthouse%20migration%20test%20cases%20(1).xlsx)|
 
 
 ## QA Plan 
