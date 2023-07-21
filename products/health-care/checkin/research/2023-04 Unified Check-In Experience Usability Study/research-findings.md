@@ -66,9 +66,9 @@ The new unified check-in experience hopes to address:
 ## Primary Questions 
 
 1. Do Veterans find the day before appointment reminder and pre-check-in notifications confusing?
-     - LIKELY FALSE: Most Veterans will find the notifications easy to understand.
+     - LIKELY FALSE: All Veterans found the notifications easy to understand, but some didn't feel the pre-check-in content was actionable enough. 
 2. How easy or difficult is it for Veterans to understand that you still need to complete the online check-in process even if you’ve completed the pre-check-in process a few days before?
-     - MAYBE TRUE: Some Veterans will understand that completing the pre-check-in process does not replace checking in to an appointment, and, therefore, they will recommend making that more clear at the completion of pre-check-in.
+     - DEFINITELY TRUE: All Veterans said that it was very clear that you still need to check in even after completing pre-check-in because it's a known behavior for VA medical appointments. 
 3. How easy or difficult is it to check in to an appointment?
      - DEFINITELY TRUE: Veterans will think the process for checking in to an appointment is easy.
 4. Do Veterans think the check in confirmation page provides enough information about the status of their check in and what to do next?
