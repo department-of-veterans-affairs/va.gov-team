@@ -17,8 +17,8 @@ The goals of this research are to
 
 | Stage | Dates |
 | --- | ---|
-| Planning | TBD |
-| Recrtuiting | TBD |
+| Planning | July 2023 |
+| Recrtuiting | Aug 2023 |
 | Pilot | TBD |
-| Sessions | TBD |
-| Analysis | TBD |
+| Sessions | Aug 2023 |
+| Analysis | Aug 2023 |
