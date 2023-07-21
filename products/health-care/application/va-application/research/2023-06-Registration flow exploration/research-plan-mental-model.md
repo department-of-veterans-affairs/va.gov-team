@@ -17,7 +17,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 
 ### Veteran Journey
-- This fits accross the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from getting out to aging.
+- This fits across the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from getting out to aging.
 - This impacts a **key moment that matters** in that Veterans need to select the health care coverage according to their individual needs and preferences and that is the best fit for them. 
 
 
@@ -27,7 +27,7 @@ Learn if Veterans who have recently started receiving health care benefits are a
 
 Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
 
-Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of informationt they need to provide in that process. 
+Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they need to provide in that process. 
 
 
 ### Outcome
@@ -50,7 +50,7 @@ Learn more about Veteran's mental model when applying for health care benefits a
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for.
 - What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
 - What is the order and process expectations of Veterans when they are applying (registering or enrolling) for health care benefits?
-- When does it make sense to Veterans to go thorugh eligibiltiy based questions? (before, during or after application)
+- When does it make sense to Veterans to go through eligibility based questions? (before, during or after application)
 
 
 ### Hypothesis
@@ -86,7 +86,7 @@ Remote via Zoom for the interviews
 
 ### Recruitment approach
 
-Our intended audience for this reasearch are Veterans and we will be using and leveraging Perigean to recruit participants.
+Our intended audience for this research are Veterans and we will be using and leveraging Perigean to recruit participants.
 
 ### Recruitment criteria
 

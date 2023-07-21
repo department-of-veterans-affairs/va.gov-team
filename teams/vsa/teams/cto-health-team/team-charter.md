@@ -94,7 +94,7 @@ Assess and update workload for remainder of sprint
 - [Zenhub: MHV on VA.gov Top-Level View](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
 
 Refinement Process
-1. Thursday before refinement - A list of tickets to be refined will be sent in the team Slakc channel. This gives the team time to become familiar with the tickets and develop questions/comments/suggestions for discussion.
+1. Thursday before refinement - A list of tickets to be refined will be sent in the team Slack channel. This gives the team time to become familiar with the tickets and develop questions/comments/suggestions for discussion.
 2. During refinement - The team will discuss the listed tickets, addressing team members' questions/comments/suggestions.
 3. After refinement - Point voting will be opened in the team Slack channel using the Poker Planner app.
    - Team members will vote on any tickets they are comfortable expressing an opinion on.

@@ -1,6 +1,6 @@
 # Product outline: Notification settings
 
-**Last Updated: July 17, 2023**
+**Last Updated: July 20, 2023**
 
 ## Table of Contents
 - [POCs](#pocs)
@@ -52,14 +52,28 @@ The following data will come through VA Profile's API
 - Channels (text/email), groups (e.g. health care)
 - User settings (null, true, false) will come through
 
-Currently we support the following notifications:
+**Currently we support the following notifications:**
 
-|Notification Group|Item|
-|--------|-----------|
-|Your health care|Appointment reminders|
-|Your health care|Prescription shipment and tracking updates|
-|Board of Veterans' Appeals|Appeals hearing reminder|
-|Board of Veterans' Appeals|Appeals status updates|
+<html>
+<body>
+<!--StartFragment--><google-sheets-html-origin>
+
+Notification Group | Item | Description | Notes | Channel | In Production
+-- | -- | -- | -- | :-: | :-:
+Your health care | Appointment reminders |   |   | Text | Yes
+Your health care | Prescription shipment and tracking updates |   | This is available only with specific facilities | Text | Yes
+Your health care | Medical images and reports |   | MHV Migration Item | Email | No
+Your health care | My HealtheVet Newsletter |   | MHV Migration Item | Email | No
+Your health care | My HealtheVet new secure message available |   | MHV Migration Item | Email | No
+Board of Veterans' Appeals | Appeals hearing reminder |   |   | Text | Yes
+Board of Veterans' Appeals | Appeals status updates |   |   | Text | Yes
+Payments | Disability and Pension Deposit Notification |   | Requires VA Notify Support prior to enablement | Text | No
+QuickSubmit | QuickSubmit | A notification and preference around a platform called "QuickSubmit" | This should NEVER display in the profile and is behind a gate | Email | No
+
+<!--EndFragment-->
+</body>
+</html>
+
 
 ## User Outcomes
 
@@ -117,7 +131,6 @@ Additional details can be found [here](https://github.com/department-of-veterans
 - [Frontend documentation on how the notification settings UI works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/display-notes.md)
 
 ## Design and UX
-- [High level user flow with screenshots](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/v8zKwxQ)
 - [Notification settings sketch files](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/README.md)
 

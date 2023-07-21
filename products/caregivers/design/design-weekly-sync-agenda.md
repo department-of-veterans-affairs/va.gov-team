@@ -2,11 +2,34 @@
 
 ## 2023-07-17
 
-Attendees: TBD
+Attendees:  DK, Jessica, Hieu, Katelyn, Kristen
+
+**EZR eresearch**
+
+- Jessica with where we're at in getting research scheduled.
+
+Action items:
+
+- Send note to Robyn for research heads up. Waiting for AE feedback.
+
+**HEC presentation for EZR work**
+
+- DK to run through rough slides/presentation.
+
+Action items:
+
+- Add questions to slide deck.
+- Ask about process in design
 
 **Date Input vs. Memorable Date**
 
 - Katelyn to review desk research on these components and lead discussion with designers about direction
+
+Action items:
+
+- Ask about forms design system and memorable date component
+- Ask about launch date for component in design system
+- Look into accessibility research
 
 ## 2023-07-10
 

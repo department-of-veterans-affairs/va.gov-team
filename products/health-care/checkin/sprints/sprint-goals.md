@@ -42,6 +42,7 @@ ________________________________________________________________________________
         - **EPIC: [Unified Pre-Check-in/Check-in Experience - Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60971)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [UX] Which solution will solve the accordion issue?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59416)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [SPIKE] Do we use dismissible alerts or not?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57894)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Create wireframe for how to decrease No's to filing for travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62272)
     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
         - Pilot ends July 31; need decision from Kay/IVC about whether to provide it to everyone
     - **Sub Goal: [Create Veteran FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60145)**
@@ -103,7 +104,7 @@ ________________________________________________________________________________
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Pull out Wireframe & Info Needed for Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61689)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Retry new idea for appt statuses](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/61802)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update wireframes with confirmation status solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61635)
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change icon in the manage appts symbol](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/61708)
+            - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change icon in the manage appts symbol](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/61708)
         - **EPIC: [Unified Check-in: Phase 1 - New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [SPIKE: Design Implementation for Phase I](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61609)                  
     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
