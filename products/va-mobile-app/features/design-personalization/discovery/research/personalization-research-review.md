@@ -25,7 +25,7 @@ Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, 
 * [What Veterans say about notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-about-notifications)
 
 
-## Summary of insight themes related to personalization 
+## Topline findings: Summary of insight themes related to personalization 
 
 
 ### Veteran behaviors & motivations (general - user context)
