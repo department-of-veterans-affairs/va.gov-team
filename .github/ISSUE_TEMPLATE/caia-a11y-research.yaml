@@ -27,7 +27,7 @@ body:
 - type: dropdown
   id: champion-1
   attributes:
-    label: Do you have an accessibility champion on your team?
+    label: Do you have an [accessibility champion](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community) on your team?
     description: If you don't have one, totally ok! Let us know if you're interested in becoming one.
     options:
       - No, we don't have a champion (yet)
