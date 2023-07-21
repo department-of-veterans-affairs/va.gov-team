@@ -13,8 +13,8 @@ Summary deck: [Review of User Research: VA Mobile App Personalization (Jul 2022)
 **Goal:** Identify research insights from existing VA studies to help inform our approach to personalization in the VA mobile app. 
 
 **Approach:** 
-We reviewed existing VA research reports for insights related to personalization in the Benefits & Health spaces (2016-2022):
-Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, Harvard students)
+In May 2022, we reviewed existing VA research reports for insights related to personalization in the Benefits & Health spaces (2016-2022):
+Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, Harvard students). In Jul 2023, we surfaced findings related to notifications in the topline findings after reexamining the original review for newly relevant callouts. 
 * Benefits: 8 reports
 * Health: 4 reports
 
@@ -146,6 +146,8 @@ Veterans **value empathy and communication**.
 9. [VA.gov User Notifications MVP Readout - end of sprint demo](https://docs.google.com/presentation/d/1R89gPDHfBMZFYogzdMSh39zh4xmrTJXPDTAFTTx-63w/edit#slide=id.p1) (2018)
 
 See [Notifications section below](https://hackmd.io/rU2oMKIATXCx08RS9Noz_w#Notifications) for specific studies.
+
+
 ## Related User Research by Study
 
 
