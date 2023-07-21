@@ -411,19 +411,19 @@ Monday - Friday 9am PT / 12pm ET - 1pm PT / 4pm ET
 Please list the people who will be serving in each role.  **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
 -   Moderator: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
     
--   Research guide writing and task development (usually but not always same as moderator): [Megan Gayle](mailto:megan.gayle@govcio.com)  [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
+-   Research guide writing and task development (usually but not always same as moderator): [Megan Gayle](mailto:megan.gayle@govcio.com),  [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
     
--   Participant recruiting & screening: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [Megan Gayle](mailto:megan.gayle@govcio.com)
+-   Participant recruiting & screening: [Charlotte Cesana](mailto:charlotte@cityfriends.tech),  [Megan Gayle](mailto:megan.gayle@govcio.com)
     
--   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [Megan Gayle](mailto:megan.gayle@gcio.com)
+-   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech),  [Megan Gayle](mailto:megan.gayle@gcio.com)
     
 -   Participant(s) for pilot test: TBD
     
--   Note-takers: [Megan Gayle](mailto:megan.gayle@govcio.com)  [Joseph Lee](mailto:joseph@cityfriends.tech)
+-   Note-takers: [Megan Gayle](mailto:megan.gayle@govcio.com),  [Joseph Lee](mailto:joseph@cityfriends.tech)
     
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
     
--[Charlotte Cesana](mailto:charlotte@cityfriends.tech)
+- [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
 - [Megan Gayle](mailto:megan.gayle@gcio.com)  
 - [Joseph Lee](mailto:joseph@cityfriends.tech)
 - [Denise Coveyduc](denise.coveyduc@va.gov)
