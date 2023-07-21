@@ -57,7 +57,10 @@ Before we start, I want to go over a few things:
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
 - I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
-  - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+  
+  - Last thing: One of the ways that we share findings with our partners across VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not but like to ask ahead of time. I'll also confirm at the end of this session that this is okay with you, so you will get a chance to veto this once you know what we've talked about. 
+  - Knowing this, **would you be comfortable if we decided to use a clip of our session** with you to help our partners understand Veteran's experiences?
+  - *(If yes:)* Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 *Start recording to the cloud.*
 
@@ -67,7 +70,9 @@ Before we start, I want to go over a few things:
 
 *Click **Live Transcript > View Full Transcript***
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+- **I have started recording**. I'd like to confirm: 
+  - Are you comfortable if I record my screen and the audio as we talk today? 
+  - Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners, as long as we remove any information that could be used to identify you?
 
 ## Screen sharing instructions (if needed)
 - In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer). 
@@ -301,6 +306,10 @@ Suppose that you just switched banks, and you want to tell the VA so that any pa
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
 1. Is there anything else that we haven't talked about that you think I should know? 
+
+I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences. 
+- **Is it OK if we decide to use a recorded clip from our discussion today to share with other VA partners?**
+- *(If participant says yes:)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
 I want to let you know that the prototype I showed you may not be completely accurate about the benefits office it described. We're still working out the details, so I'm going to ask you to **NOT** *rely on the accuracy of the information that you've seen*, in case it's not correct.
 
