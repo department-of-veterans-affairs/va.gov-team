@@ -70,9 +70,9 @@ The new unified check-in experience hopes to address:
 2. How easy or difficult is it for Veterans to understand that you still need to complete the online check-in process even if you’ve completed the pre-check-in process a few days before?
      - DEFINITELY TRUE: All Veterans said that it was very clear that you still need to check in even after completing pre-check-in because it's a known behavior for VA medical appointments. 
 3. How easy or difficult is it to check in to an appointment?
-     - DEFINITELY TRUE: Veterans will think the process for checking in to an appointment is easy.
+     - DEFINITELY TRUE: All Veterans thought the process for checking in to an appointment was easy.
 4. Do Veterans think the check in confirmation page provides enough information about the status of their check in and what to do next?
-     - DEFINITELY TRUE: Veterans will think the information on the check in confirmation page is well organized and prioritized.
+     - DEFINITELY TRUE: All Veterans thought the information on the check in confirmation page was well organized and prioritized.
 5. How easy or difficult is it for Veterans to understand if their other upcoming appointments have tasks to complete? For example, another appointment needs to complete pre-check-in or can initiate a check-in.
      - LIKELY TRUE: Most Veterans will find it easy to understand that their other upcoming appointments have tasks to complete, but might recommend highlighting those tasks better in the appointment list.
 6. How easy or difficult is it for Veterans to understand the difference between the pre-check-in process and checking in to an appointment?
