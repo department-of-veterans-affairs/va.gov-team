@@ -1,5 +1,4 @@
- Research Plan for [Debt Resolution Team, Streamlined Waiver, Transparency, July 2023]
-_Questions about how to set up your research study? Reach out in the #research-ops Slack channel._
+# Research Plan for Debt Resolution Team, Streamlined Waiver, Transparency, July 2023
 
 ## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#background)Background
 
@@ -9,19 +8,19 @@ Briefly describe the background of your product. Consider:
 -   Where is your product situated on VA.gov? (ex: auth vs. unauth)
 -   What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
-The Streamlined Waiver allows Veterans who meet the qualifications to bypass sections of the FSR and automatically receive a waiver of their copays. [This Mural](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1678973946956?sender=ua78f969c4cddcbfe56b27885&key=340ed11b-aab8-42d3-b488-f9abf67b3513) with the different user flows will be the best way to understand all of the paths that users can take. We need to let users know that they may not have to fill out the full form and why they may have bypassed some questions if they meet the qualifications.
+
+The Streamlined Waiver allows Veterans who meet the qualifications to bypass sections of the Financial Status Report and automatically receive a waiver of their copays. [This Mural](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1678973946956?sender=ua78f969c4cddcbfe56b27885&key=340ed11b-aab8-42d3-b488-f9abf67b3513) with the different user flows will be the best way to understand all of the paths that users can take. We need to let users know that they may not have to fill out the full form and why they may have bypassed some questions if they meet the qualifications.
 
 Simplifying the process for claiming medical debt forgiveness, VA will streamline the request process and set a simple income threshold for receiving medical debt relief. The request process will include an online option for veterans and reduce the effort required by veterans to access relief. These changes will go into effect in the next 90 to 120 days.
 
-The assumption is that transparency is important, the framing as well as the expectation setting for the streamlined waiver process will be key and contribute to a seamless and satisfying experience for Veterans seeking to resolve their debt. At the same time, our stakeholders have expressed concern that an upfront transparency reveal of the possibility of an automatic waiver could be confusing and upsetting for Veterans if they are deemed not to be eligible. We also know that 95% of users with VHA debt (copay debt) will be approved for automatic waiver.
+The assumption is that transparency is important, the framing as well as the expectation setting for the streamlined waiver process will be key and contribute to a seamless and satisfying experience for Veterans seeking to resolve their debt. At the same time, our stakeholders have expressed concern that an upfront transparency reveal of the possibility of an automatic waiver could be confusing and upsetting for Veterans if they are deemed not to be eligible. **We also know that 95% of users with VHA debt (copay debt) will be approved for the automatic waiver.**
 
   
 
 Continuing the usability study we did in May 2023, the Streamlined Waiver usability study is an extension of this work. The Streamlined Waiver offers a revised intro page, offering limited copy in terms of transparency and offering clarity on the required sections the Veteran will be expected to fill out. Furthermore, the Streamlined Waiver will take the Veteran through a dynamic flow unique to their financial and life situation (income limits thresholds, number of dependents, spouse's information, cash on hand).
 
   
-The additional copy, revised copy, addition of a transition page, and notification page have been designed with the design principle of minimalist design in mind. Taking into account the length of the form and the fact that users skim content, we seek to make the form's content scannable and easily digestible.
+**The additional copy, revised copy, addition of a transition page, and notification page have been designed with the design principle of minimalist design in mind.** Taking into account the length of the form and the fact that users skim content, we seek to make the form's content scannable and easily digestible.
 
 ### [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#octo-priorities)OCTO Priorities
 
@@ -69,17 +68,17 @@ _Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how t
   
 **Usability study (40 minutes)**
 
-Test Dan (automatic approval flow)
+**Test [User Flow for Dan](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1678973946956?sender=ua78f969c4cddcbfe56b27885&key=340ed11b-aab8-42d3-b488-f9abf67b3513)** (automatic approval flow under GMT)
 
-Areas being considered:
+**Areas being considered:**
 
--   New copy (intro page, transition page, confirmation/decision page)
+-   **New copy (intro page, transition page, confirmation/decision page)**
     
--   Transition page and progress bar
+-   **Transition page and progress bar**
     
--   Review page
+-   **Review page**
     
--   Submission confirmation page and automatic waiver decision (only surfaced if they are approved)
+-   **Submission confirmation page and automatic waiver decision** (only surfaced if they are approved)
     
 
 ***Goal 1: Evaluate the usability of the Streamlined Waiver experience***
@@ -132,6 +131,9 @@ Consider bucketing research questions under research goals. For each question, t
     
 9. How do they feel about the confirmation page? Is there anything else they would wish to see on this page?
 
+**Concept Evaluation**
+- Between the brief intro page and the extensive intro page, which we will show them side by side, which one do they feel is most helpful? Why? 
+
 ### [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#hypothesis)Hypothesis
 
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -153,39 +155,14 @@ What do you intend to learn and measure from this study? Think through these pro
 
 ## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#methodology)Methodology
 
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.
-
-Examples of common research methods include:
-
 -   Semi-structured interviews - appropriate for generative research
--   Contextual inquiry - appropriate for generative research
--   Card sorts - appropriate for generative and evaluative research; depending on the study design
--   Tree tests - appropriate for evaluative research
 -   Usability testing - appropriate for evaluative research
--   User acceptance testing (UAT) - required before product release
 
-Additional resources:
-
--   Please review the  [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md)  to educate yourself on how PRA impacts the research we do as a government project.
--   Review the  [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html)  to understand how Perigean recruits, and what types of research they can support.
--   If conducting testing on mobile, refer to the  [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
--   If conducting  [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)
--   If conducting  [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)  and  [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
--   In the rare event of an emergency during research, be prepared by reviewing guidelines for  [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 **-   Usability testing - appropriate for evaluative research**
 
 ### [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#location)Location
 
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research.  [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-
--   Location
--   Point of contact
--   Equipment used for research
 
 **The sessions will be remote moderated interviews on Zoom.**
 
@@ -202,19 +179,9 @@ For moderated interviews:
 For moderated usability tests:
 
 -   [Link to conversation guide](url goes here)
--   [Link to prototype](url goes here)
+-   [Link to prototype - Desktop](https://preview.uxpin.com/6940f648e5994b8fad9550934a5530b4cd73cacb#/pages/163500315/simulate/sitemap?mode=cvhid)
+-   [Link to prototype - Mobile](url goes here)
 
-For  [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)
-
--   [Link to email with instructions](url goes here)
--   [Link to prototype or OptimalSort session for group A](url goes here)
--   [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-
--   [Link to recruitment flyer](url goes here)
-
-## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#recruitment)Recruitment
 
 OCTO works with Perigean, a small business, to handle the  [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.
 
@@ -246,7 +213,8 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
    **At least 8-10 Veterans interviewed, please recruit 16-20 Veterans**
     
  -   #### All participants must be Veterans
-    
+ -   #### All participants must have had an experience of medical copay debt in the last 2 years (resolved or not resolved is ok)
+-    #### Inclusive, diverse sample with respect to race/ethnicity, age, gender, educational attainment, financial status    
  -   #### All must be on a computer or mobile device.
     
  -   #### During the session, be willing to share a web browser window on their device
@@ -255,26 +223,18 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
     
  -   #### Have Zoom downloaded to their device prior to the session and know how to share their screen
     
- -  50% of participants should complete the session on a smartphone.
+ -  **50%** of participants should complete the session on a **smartphone**.
     
- - 50% of participants should complete the session on a desktop   
-   computer.
-    
--   2 of 10 Veterans that are users with low vision, users with hearing aids. No assistive tech users that use screen reader because the UXPin prototype is not screen reader friendly. We will have a dedicated AT study after launch in the live environment (user with low vision, or user of hearing aide, user who uses voice over)
-    
--   Mix of income levels
-    
--   All participants must say they are currently experiencing financial hardship or have in the last 2 years.
-    
--   All participants should preferably have medical copay debt now or in the recent past.
-    
-While the FSR asks for financial information, we won't be asking our participants to provide exact financial information. However, we want to simulate a real experience as much as we can to ensure the experience is intuitive for Veterans.  
-Please confirm participants are comfortable talking about their finances.**
+ - **50%** of participants should complete the session on a **desktop   
+   computer**.
+- **No assistive tech users that use screen readers** because the UXPin prototype is not screen reader friendly. We will have a dedicated AT study after launch in the live environment  
+- Mix of income levels
+- All participants must say they are currently experiencing financial hardship or have in the past. 
+- All participants should preferably have medical copay debt now or in the recent past.
+- While the FSR asks for financial information, we won't be asking our participants to provide exact financial information. However, we want to simulate a real experience as much as we can to ensure the experience is intuitive for Veterans. 
+**Please confirm participants are comfortable talking about their finances.**
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question. Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the  [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy)  by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study.  [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-####   
 Demographic must-haves
 
 Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA debt.
@@ -304,51 +264,40 @@ Note: The following demographic criteria is our goal, but we understand that his
 
 Inclusive research strategy
 
-SCREENER QUESTIONS
+**SCREENER QUESTIONS**
   
-1. Your unpaid VA Medical Copay debt
+1. **Your unpaid VA Medical Copay debt
+Please select what applies to you: (checkmark)**
 
-Please select what applies to you: (checkmark)
-
--   I have 1 or more unpaid medical copay within the last 6 months
-    
-OR
-    
--   I have had 1 or more unpaid medical copay within the last 2 years
-    
-
--   I do not have any active VA debt (does not qualify)
-    
+	I currently have an unpaid VA medical copay debt 
+	I have had a VA medical copay debt in the last 3 years
+	I have never had VA medical copay debt *(does not qualify)*
 
   
 
-2. LGBTQ+
+2.**LGBTQ+**
 
 Do you identify as a member of the LGBTQ+ community ?
 
-We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
-
-  
+*We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.*
 
 -   Yes
-    
 -   No
-    
 -   Decline to answer
       
     
 
-3. Cognitive consideration
+3. **Cognitive consideration**
 
-Has a medical professional ever diagnosed you with a cognitive disorder? Some examples include Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury
+Has a medical professional ever diagnosed you with a **cognitive disorder**? Some examples include Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury
 
 -   Yes
-    
 -   No
+-   Decline to answer
     
     
 
-4. What is your annual household income level?
+4. **What is your annual household income level?**
 
 $0 - $25K
 
@@ -366,7 +315,7 @@ Over $200K
 
   
 
-5. Experience financial hardship
+5. **Experience financial hardship**
 
 Please select the statement(s) that apply to you: (Check all that apply)
 
@@ -399,7 +348,28 @@ Please select the statement(s) that apply to you: (Check all that apply)
 -     
     
 
-7. Attitudinal question - trust
+7. **Attitudinal question - trust**
+Please indicate how much you agree or disagree with the following statement: "I trust VA to fulfill our country’s commitment to Veterans.”
+- Strongly agree
+- Agree
+- Neutral
+- Disagree
+- Strongly disagree
+
+  
+8. **Veterans that have a disability**
+Do you use any of the following assistive technology? (check all that apply)
+
+- Screen reader or voice over technology *(does not qualify)*
+- Hearing aid
+- Speech communication devices (examples include voice amplification systems, fluency assistance devices, artificial larynx) 
+- Zoom text (magnification)
+
+9. **What device will you be using during the interview?**
+- A mobile device/cell phone
+- A desktop or laptop computer
+- A tablet 
+
 
 ## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#timeline)Timeline
 
@@ -416,7 +386,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#research-sessions)Research sessions
 
--   Planned dates of research:
+-  Planned dates of research: 8/1 - 8/8
 
 ### [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#length-of-sessions)Length of sessions
 
@@ -448,17 +418,27 @@ Monday - Friday 9am PT / 12pm ET - 1pm PT / 4pm ET
 Please list the people who will be serving in each role.  **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
 -   Moderator: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
     
--   Research guide writing and task development (usually but not always same as moderator): [megan.gayle@govcio.com](mailto:megan.gayle@govcio.com)  [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
+-   Research guide writing and task development (usually but not always same as moderator): [Megan Gayle](mailto:megan.gayle@govcio.com)  [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
     
--   Participant recruiting & screening: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [megan.gayle@govcio.com](mailto:megan.gayle@govcio.com)
+-   Participant recruiting & screening: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [Megan Gayle](mailto:megan.gayle@govcio.com)
     
--   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [megan.gayle@gcio.com](mailto:megan.gayle@gcio.com)
+-   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech)  [Megan Gayle](mailto:megan.gayle@gcio.com)
     
 -   Participant(s) for pilot test: TBD
     
--   Note-takers: [megan.gayle@govcio.com](mailto:megan.gayle@govcio.com)  [Joseph Lee](mailto:joseph@cityfriends.tech)
+-   Note-takers: [Megan Gayle](mailto:megan.gayle@govcio.com)  [Joseph Lee](mailto:joseph@cityfriends.tech)
     
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
     
-
-[megan.gayle@gcio.com](mailto:megan.gayle@gcio.com)  [Joseph Lee](mailto:joseph@cityfriends.tech)
+-[Charlotte Cesana](mailto:charlotte@cityfriends.tech)
+- [Megan Gayle](mailto:megan.gayle@gcio.com)  
+- [Joseph Lee](mailto:joseph@cityfriends.tech)
+- [Denise Coveyduc](denise.coveyduc@va.gov)
+- [Tom Davis](thomas.davis@govcio.com)
+- [Heather Rienk](heather.rienks@agile6.com)
+- [Jill Anderson](jill.anderson3@va.gov)
+- [Andrew Rodiek](andrew.rodiek@govcio.com)
+- [Brandyn Sullins](brandyn.sullins@govcio.com)
+- [Aaron Ponce](aaron.ponce@agile6.com)
+- [Kevin Suarez](kevin.suarez@agile6.com)
+- [Scott James](scott.james@govcio.com)
