@@ -2,13 +2,6 @@
 
 ## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#background)Background
 
-Briefly describe the background of your product. Consider:
-
--   What problem is your product trying to solve?
--   Where is your product situated on VA.gov? (ex: auth vs. unauth)
--   What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
-
-
 The Streamlined Waiver allows Veterans who meet the qualifications to bypass sections of the Financial Status Report and automatically receive a waiver of their copays. [This Mural](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1678973946956?sender=ua78f969c4cddcbfe56b27885&key=340ed11b-aab8-42d3-b488-f9abf67b3513) with the different user flows will be the best way to understand all of the paths that users can take. We need to let users know that they may not have to fill out the full form and why they may have bypassed some questions if they meet the qualifications.
 
 Simplifying the process for claiming medical debt forgiveness, VA will streamline the request process and set a simple income threshold for receiving medical debt relief. The request process will include an online option for veterans and reduce the effort required by veterans to access relief. These changes will go into effect in the next 90 to 120 days.
@@ -17,7 +10,7 @@ The assumption is that transparency is important, the framing as well as the exp
 
   
 
-Continuing the usability study we did in May 2023, the Streamlined Waiver usability study is an extension of this work. The Streamlined Waiver offers a revised intro page, offering limited copy in terms of transparency and offering clarity on the required sections the Veteran will be expected to fill out. Furthermore, the Streamlined Waiver will take the Veteran through a dynamic flow unique to their financial and life situation (income limits thresholds, number of dependents, spouse's information, cash on hand).
+Continuing the [usability study we did in May 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/research/enhanced_fsr), the Streamlined Waiver usability study is an extension of this work. The Streamlined Waiver offers a revised intro page, offering limited copy in terms of transparency and offering clarity on the required sections the Veteran will be expected to fill out. Furthermore, the Streamlined Waiver will take the Veteran through a dynamic flow unique to their financial and life situation (income limits thresholds, number of dependents, spouse's information, cash on hand).
 
   
 **The additional copy, revised copy, addition of a transition page, and notification page have been designed with the design principle of minimalist design in mind.** Taking into account the length of the form and the fact that users skim content, we seek to make the form's content scannable and easily digestible.
@@ -38,13 +31,18 @@ This research supports these main [OCTO objectives and goals](https://github.com
 This research supports increasing these measures:
 
 -   Usage of digital, self-service tools
-    
+-   Percent of applications submitted online (vs. paper)
+-   Completion rate of online transactions
+-   Veteran satisfaction with VA.gov
 -   Number of VA.gov users as a function of total Veteran population
-    
+-   Benefit value (in $) delivered from online applications or transactions
 
 This research supports decreasing these measures:
 
 -   Call center volume, wait time, and time to resolution
+-   Time to successful complete and submit online transactions
+-  Time to process online applications (vs. paper)
+
 
 ### [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#veteran-journey)Veteran Journey
 
