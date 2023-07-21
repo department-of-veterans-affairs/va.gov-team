@@ -231,6 +231,12 @@ Okay, it looks like something has appeared.
 
 **[THEY ARE SENT BACK TO SIGN IN]**
 
+#### Things to watch for:
+
+* Are they confused about why they are being asked to sign in?
+* Do they feel like they're going to have to start over now?
+* Do they show likelihood of giving up at any point?
+
 ### 5: Question
 
 > Screen: Your question
