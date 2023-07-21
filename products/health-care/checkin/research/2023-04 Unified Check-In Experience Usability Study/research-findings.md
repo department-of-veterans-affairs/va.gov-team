@@ -53,3 +53,10 @@ The new unified check-in experience hopes to address:
 
 9. How easy or difficult is it for Veterans to find the call to action from the appointment detail pages?
 10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the appointment list page or detail pages?
+
+# Methodology 
+
+- Conducted a moderated usability study using a CodePen (accessible) prototype with 13 Veterans who had been to a VA health facility for a medical appointment in the last 12 months 
+- 12 out of 13 Veterans used their smartphones
+- 60 minute sessions with non AT users, 90 minute sessions with AT users 
+- Veterans were tasked with completing the pre-check-in and check in processes, while providing feedback of their thoughts and actions along the way 
