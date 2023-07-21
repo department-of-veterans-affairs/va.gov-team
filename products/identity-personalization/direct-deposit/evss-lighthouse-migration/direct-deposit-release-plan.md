@@ -44,9 +44,9 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 - Desired date range or test duration: ~ 7/19/2023-8/1/2023
 - Desired number of users: [9]
-- How you'll recruit the right production test users: [**Research Plan** to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60942) 
-- How you'll conduct the testing: [**Conversation Guide** to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60942) 
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- How you'll recruit the right production test users: [**Research Plan** to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT/research-plan.md) 
+- How you'll conduct the testing: [**Conversation Guide** to be defined](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT/conversation-guide.md) 
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Feature Toggle mentioned above 
 
 #### Results
 
