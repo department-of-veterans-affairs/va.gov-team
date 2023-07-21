@@ -136,10 +136,10 @@ These findings are based on existing research conducted on the MHV, MyVA, and VS
        * The best notifications are succinct (**brief and action-oriented**), **personal** (applies to me and my life), **reassuring** (the things I set up to happen on a recurring schedule are happening), and **timely** (shows up when I need the information). 
        * Participants want consistent information across all channels.
    * **Notification topics mentioned by Veterans**(*mentioned more than once)**:**
-       * **Health:** Appointments, *Prescription refills,* Messages,* Physician referral approvals
+       * **Health:** Appointments*, Prescription refills,* Messages,* Physician referral approvals
        * **Money:** that they owe, or are owed*
-       * **Benefits**: Approaching deadlines (e.g. 3 days left to provide document), Claim status,** Education, benefits that Veterans are entitled to, Home loan info
-       * **General:** Changes to VA benefits or policies that impact them, Veteran organizations available to join
+       * **Benefits**: Claim status,** Education, benefits that Veterans are entitled to, Home loan info
+       * **General:** Approaching deadlines (e.g. 3 days left to provide document), Changes to VA benefits or policies that impact them, Veteran organizations available to join
 
 
 
