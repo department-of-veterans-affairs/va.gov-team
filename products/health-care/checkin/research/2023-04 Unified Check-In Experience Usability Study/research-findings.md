@@ -16,12 +16,12 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)]
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/research-findings.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/research-findings.md#key-findings)
+[Key findings](#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/research-findings.md#recommendations)
+[Recommendations](#recommendations)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/research-findings.md#who-we-talked-to)
+[Who we talked to](who-we-talked-to)
 
 <br>
