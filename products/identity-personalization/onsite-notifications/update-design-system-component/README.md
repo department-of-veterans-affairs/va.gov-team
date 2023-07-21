@@ -1,6 +1,6 @@
 # Project outline: Update Design System Component on My VA
 
-**Last updated: March 20, 2023**
+**Last updated: July 21, 2023 - updated key dates**
 
 ### Communications
 
