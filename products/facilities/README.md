@@ -63,6 +63,5 @@ These are the products we are designing and building for Veterans and users on V
 
 ## Teams/Slack channels working on facilities products
 - [#sitewide-facilities](https://dsva.slack.com/channels/sitewide-facilities) - Facility Locator
-- [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade) - VAMC product upgrade
 - [#cms-support](https://dsva.slack.com/channels/cms-support) - Drupal CMS support
 - [#cms-team](https://dsva.slack.com/channels/cms-team) - Drupal CMS team
