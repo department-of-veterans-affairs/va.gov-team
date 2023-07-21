@@ -231,7 +231,8 @@ If only one facility is available:
 
 **Prod base URL:** https://api.va.gov/
 
-**Endpoints**
+**Endpoints:**
+
 `/vaos/v2/facilities/${id}`
 
 `/vaos/v2/scheduling/configurations?facility_ids[]=${id}`
