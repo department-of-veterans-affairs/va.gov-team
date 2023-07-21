@@ -347,7 +347,7 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
 * Do they notice anything helpful or missing from this page?
 * Do they mention saving their reference number?
 
-## 9: Ongoing or past inquiry - 15 minutes
+## Ongoing or past inquiry - 15 minutes
 
 * Thinking back on the process of submitting a question, was it shorter or longer than you would have expected?
    * Is there anything that could have made it easier?
