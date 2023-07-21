@@ -22,9 +22,7 @@ Which  [OCTO priorities](https://github.com/department-of-veterans-affairs/va.go
 This research supports these main [OCTO objectives and goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
 
 -   Veterans can manage their health services online
-    
 -   Veterans and their families can find a single, authoritative source of information
-    
 -   Logged-in users have a personalized experience, with relevant and time-saving features
     
 
@@ -52,9 +50,7 @@ Where does your product fit into the  [Veteran journey](https://github.com/depar
 Other key moments this research touches in the Veteran journey are:
 
 -   Attending to health needs
-    
 -   Taking care of myself
-    
 -   Managing my declining health
 
 ## [](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#research-goals)Research Goals
@@ -80,8 +76,7 @@ _Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how t
     
 
 ***Goal 1: Evaluate the usability of the Streamlined Waiver experience***
-
-Minimize confusion with the progress bar (USDS progress bars are available now, can’t be customized)
+Minimize confusion with a “skipped question” transition page
 
 ***Goal 2: Evaluate the comprehension of the Streamlined Waiver experience and the new copy additions to the FSR/Streamlined Waiver pages.***
 
