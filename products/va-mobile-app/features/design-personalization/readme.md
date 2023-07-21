@@ -1,4 +1,4 @@
-# VA Mobile app Personalization
+# VA Mobile App - Personalization
 Last updated Jul 2023
 
 ### Product
