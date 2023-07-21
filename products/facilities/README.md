@@ -1,6 +1,6 @@
 # VA.gov Facilities & Services Product Portfolio
 
-**Product Owner:** Dave Conlon (David.Conlon@va.gov)
+**Product Owner:** Michelle Middaugh (Suzanne.Middaugh@va.gov)
 
 ## Why VA facilities and services matter to Veterans
 
