@@ -6,7 +6,7 @@ Reference the [VA Platform Tools site](https://depo-platform-documentation.scrol
      - Completed by COR
 - [ ] GitHub account, associated to VA.gov email address
 - [ ] Add to VA Org - [Request Ticket](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=&labels=add-user-to-org%2Cnew-user%2Cuser-created&template=add-user.yml&title=Add+User+to+Org%3A+%5Busername%5D)
-- [ ] Add to VA.gov-team Repo - [Request ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-GitHub) (must have VA.gov email address first)
+- [ ] Add to VA.gov-team Repo - [Request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=analytics-insights%2C+analytics-request%2C+governance-team%2C+platform-orientation&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D) (must have VA.gov email address first)
 - [ ] Add to [ZenHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub.md) (if applicable)
      - Add to workspace
      - Ensure connected with GH account
