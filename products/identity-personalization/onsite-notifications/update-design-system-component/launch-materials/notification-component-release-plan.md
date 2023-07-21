@@ -6,7 +6,7 @@ Not applicable - no formal UAT will occur
 ## Phase II: Launch - Remove feature flag 
 
 ### Planning
-Desired date range for release of component to public: 7/17/2023 - 7/20/2023
+Desired date range for release of component to public: 7/17/2023 - 7/31/2023
 
 ## Go Live!
 ### Planning:
