@@ -13,7 +13,7 @@
 - Answer: 
 
 **Samara/AJ: is call center ready to handle potential calls that may come in about the feature (i.e. have we submitted our updated product guide)?**
-- Answer: 
+- Answer: Yes call center guide was updated in June with updated component 
 
 **Samara/AJ: are you ready to monitor analytics data for trends and problems?**
 - Answer: 
