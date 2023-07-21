@@ -122,5 +122,5 @@ A personalized VA mobile app will:
 
 ### Important Links
 
-* Definition of new screen types: 
+* [Product brief - gdoc](https://docs.google.com/document/d/1jN-SZCvkgo82kOIQaoW24Pw9lDpki9DTmFv9UoE-fLA/edit#heading=h.mnq6vtjqteg4)
 * High-level wireframes - [https://balsamiq.cloud/s4uw4la/pa3zodh/rD7BD](https://balsamiq.cloud/s4uw4la/pa3zodh/rD7BD)
