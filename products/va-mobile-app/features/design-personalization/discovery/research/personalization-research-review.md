@@ -2,7 +2,7 @@
 
 Office of the CTO - Digital Experience (OCTO-DE), VA Mobile App
 
-Date: 05/31/2022, updated 7/20/2023
+Date: 05/31/2022, updated 7/20/2023*
 
 Holly Collier
 
@@ -22,7 +22,7 @@ Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, 
 * [Veteran motivations and behaviors related to personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-behaviors--motivations-general---user-context)
 * [Pain points potentially addressed by personalization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-pain-points-general---user-context)
 * [What Veterans say they want from a home screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-they-want-from-a-home-screen)
-* [How Veterans think about notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-about-notifications)
+* [How Veterans think about notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-about-notifications)*
 
 
 ## Topline findings: Summary of insight themes related to personalization 
@@ -118,8 +118,8 @@ Veterans **value empathy and communication**.
 3. **Veterans prefer clear, simple design** (an easy to scan list of top tasks, approach to presenting health info) to avoid info overload. <sub>2,5,7</sub>  
 
 
-### How Veterans think about notifications
-*These findings are based on existing research conducted on the MHV, MyVA, and VSA websites (not the mobile app).*
+### How Veterans think about notifications*
+*These findings are based on existing research conducted on the MHV, MyVA, and VSA websites (not the mobile app). Added to topline findings in Jul 2023*
 
 1. **The word “notification” gets used in studies and by Veterans to mean both “alerts” in general and something more specific:**
    * ‘Notifications’ are different than action items:
