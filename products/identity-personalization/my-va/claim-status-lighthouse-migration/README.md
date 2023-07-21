@@ -82,7 +82,10 @@ TBD
 - March 2023: Project kick-off
 - June - July 2023: Development
 - July 2023: Pre-launch activities
-- ...
+- ...: Launch to 10%
+- ...: Launch to 25%
+- ...: Launch to 50%
+- ...: Launch to 100%
    
 ## Screenshots
 _Not applicable as no visual to My VA will occur when the work is complete_
