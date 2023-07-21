@@ -91,39 +91,505 @@ moderator asked them questions to gain understanding of expectations and satisfa
   - Master’s: 6
   
  - Branch of Service
-  - Army: 6
-  - Marine Corps: 1
-  - Air Force: 2
-  - Coast Guard: 1
-  - Navy: 1
-  - Did not disclose: 1
+   - Army: 6
+   - Marine Corps: 1
+   - Air Force: 2
+   - Coast Guard: 1
+   - Navy: 1
+   - Did not disclose: 1
 
  - States Represented
-  -  Oregan: 1
-  -  Texas: 3
-  -  Louisiana: 1
-  -  Missouri: 1
-  -  Georgia: 2
-  -  South Carolina: 1
-  -  North Carolina: 1
-  -  Indiana: 1
-  -  Ohio: 1
-  -  Pennsylvania: 1
+   -  Oregan: 1
+   -  Texas: 3
+   -  Louisiana: 1
+   -  Missouri: 1
+   -  Georgia: 2
+   -  South Carolina: 1
+   -  North Carolina: 1
+   -  Indiana: 1
+   -  Ohio: 1
+   -  Pennsylvania: 1
 
  <br> 
  <br> 
- ## Key Findings 
  
- - Past AVS experience
+ ##  Key Findings 
+ 
+**Past AVS Experience**
+ <br> 
+ <br>
    
 1. All participants routinely reviewed information about their
 appointments, tests, and upcoming tasks to complete. The method they utilized to access this information differed.
-2. The information in the current VA AVS matches the information that participants routinely review after an appointment.
-3. The name "After visit summary" matches Veteran/caregiver mental models.
-4. 7 Veterans mentioned that they sometimes don’t receive appointment summaries or lab
-results until 48 72 hours following the appointment. 
 
- - Information architecture
+2. The information in the current VA AVS matches the information that participants routinely review after an appointment.
+   
+3. The name "After visit summary" matches Veteran/caregiver mental models.
+   
+4. 7 Veterans mentioned that they sometimes don’t receive appointment summaries or lab
+results until 48 72 hours following the appointment.
+
 5.Participants validated past research that Veterans/caregivers expect
 AVSs within appointments and care summaries and notes.
+
+ <br> 
+
+ <br>
  
+**Information Architecture**
+
+ 
+6. 2 out of 6 participants were confused by the label "Schedule and manage appointments,"
+because the appointment they were looking for occurred in the past.
+
+7. When already on the AVS page, 6 participants thought they needed to click on
+the "Details" link to view the AVS.
+
+8. 7 participants thought that they had to click on the "Details" link to access
+doctor's instructions or results.
+
+9. 10 participants easily navigated from one AVS to another using the back breadcrumb.
+ 
+10. 3 out of 6 participants, who reviewed the appointments section, expected the "pending"
+list to include referrals, recall, follow up, or imaging appointments that still need to be
+scheduled.
+
+ <br> 
+
+ <br>
+
+**AVS content**
+
+11. Overall, the majority of participants had a very positive response to the AVS and stated it
+contains a lot of useful information.
+
+12. A third of the participants saw the AVS as a place to confirm that their providers
+understood what they were trying to convey during the appointment.
+
+13.Even though half of the participants stated the instructions within the "Your treatment plan
+from this appointment" section were helpful, half of participants also made suggestions toadd information.
+
+14. 8 participants didn't know what a recall appointment was.
+
+15. 4 Participants incorrectly defined the "You were diagnosed with" section.16161.
+    
+16. 7 participants understood that the “Problem list” showed all their diagnoses, but some saw
+overlap or confusion with the "You were diagnosed with" section. AVS content cont.
+
+17. Half of the participants didn't understand at least one medical term and wanted more information to educate themselves.
+
+18. 6 participants would like their vitals to be displayed in Imperial/U.S. standard measurements instead of the metric system.
+    
+19. 4 participants saw value in sharing their AVS with non VA providers.
+ 
+20. 8 participants interpreted the "Medications administered at the clinic" section incorrectly.
+
+
+
+**Medications**
+
+21. 8 participants interpreted the "Medications administered at the clinic" section
+incorrectly.
+22. The "My medications" section met the expectations of most participants.
+
+23. Approximately half of all participants were either confused about the difference between all
+three of the medications sections or wanted the sections combined into one section.
+
+24. Some participants asked for additional instructions with their medications.
+Notifications.
+
+25. All participants wanted a notification (email, text, etc.) that their
+AVS was ready to review.
+
+27. Participants were equally divided between receiving one notification for each AVS or
+receiving all AVSs for a given day together in one notification.
+
+**Secondary Findings**
+
+1. 2 participants mentioned it would be helpful having more phone information.
+   
+2. 3 participants had a hard time interpreting what the lab results meant for them; they didn't
+know what to do with this information.
+
+3. 2 participants didn't understand the clinic name.
+
+Past AVS experience
+1. All participants routinely reviewed information about their appointments, tests, and upcoming tasks to complete. The method they utilized to access this information differed.
+My HealtheVet: 7
+VA AVS paper printout: 4
+Non-VA AVS: 2
+Lab specific paper reports: 2
+VA AVS (unknown if digital or paper printout): 1
+Printout of upcoming appointments: 1
+Recommendation: Spread awareness via the changebmanagement process that a digital AVS is available on VA.gov.
+
+2. The information in the current VA AVS matches the information that participants routinely review after an appointment. 
+Information that participants routinely review:*
+Labs: 6
+Medications: 4
+Provider notes/what provider documented: 3
+Appointments: 2
+Instructions before an upcoming procedures,
+radiology, and tests: 2
+Results from a procedure and radiology: 2
+Blue button: 1
+Vitals: 1
+Terminology: 1
+Medical tasks that need to be completed: 1
+*Participants had not reviewed the prototype yet when they shared this information.
+
+
+3. The name "After-visit summary" matches Veteran/caregiver mental models.
+Terms participants used to name an AVS:
+Recommendation: Keep referring to this experience as the
+"After visit summary."
+After appointment confirmation or Post OP: 1
+After-visit summary: 2
+Summary report: 1
+Appointment review: 1
+Lab print
+out: 1
+An overview or summary: 1
+A review of medical records: 1
+Doctor’s notes: 1
+A visit summary: 1
+Lab results or radiology results: 1
+A summary of visit: 1
+Prior-office visit information: 1
+Recommendation: Keep referring to this experience as the "After After-visit summary."
+
+4. 7 Veterans mentioned that they sometimes don’t receive appointment summaries or lab results until 48-72 hours following the appointment.
+
+"In person notes are loaded, usually 2 to 3 days after the initial visit, and so
+sometimes, they make people have to wait for the after visit summary; so I
+request my husband to bring them to me, so that I know what transpired"-Caregiver participant
+
+Recommendation: Within the AVS, add content to inform Veteran/caregiver that lab results are still in progress and send the AVS notification as soon as it is available.
+
+Information architecture
+5. Participants validated past research that Veterans/caregivers expect AVSs within appointments and care summaries and notes.
+
+6 participants accessed the AVS via appointments.
+7 participants accessed the AVS via care summaries and notes.
+
+Recommendation: Don't change the current information architecture plan to include AVS within appointments and care summaries and notes.
+
+
+6. 2 out of 6 participants were confused by the label "Schedule and manage appointments,"
+because the appointment they were looking for occurred in the past.
+
+“My first thought would be to schedule and manage appointments,
+but I already had [the appointment]. So, it's not really scheduling it,
+but I don't see anything else that would be relevant.”
+Recommendation: Review past appointment research into this label and add this as a research question to future studies. If evidence continues to suggest Veteran/caregiver confusion, then make changes to the label.
+
+
+7. When already on the AVS page, 6 participants thought they needed to click on the "Details" link to view the needed to click on the "Details" link to view the AVS.
+Example workflow from one participant:
+Reached the AVS and didn't scroll down the page.
+Chose the "Details" link, where they expected to see
+doctor's recommendations, follow ups, and referrals.
+
+Recommendation: Remove the "Details" link.
+8. 7 participants thought that they had to click o the "Details" link to access doctor's instructions or
+results.
+“It's not allowing me to click on details…It will actually show me the
+summary notes of the visit, and then, when I click on the lab work well,
+I don't know if that lab work is part of the 9:50 appointment, or not,
+because it has a 11:30 a.m. time. I wouldn’t know if that's the next
+procedure that the doctor wants me to have done.”
+
+Recommendation: Remove the "Details" link.
+
+
+9. 10 participants easily navigated from one AVS to another using the back breadcrumb.
+Some of the other locations the 3 participants tried to click on to navigate were:
+Collapsing the AVS accordions
+Scrolling to the bottom of the page
+Clicking the Hector profile icon
+Recommendation: The navigational structure (back buttons) can remain the same.
+
+
+10.3 out of 6 participants, who reviewed the appointments section, expected the "pending"list to include referrals, recall, follow up, or imaging appointments that still need to be scheduled.
+All participants correctly assumed this list weren't confirmed appointments. 
+"I would expect to see the...ones that...I've either requested myself...or another provider has put into the system, but they haven't been confirmed yet, either by me or the other person."
+Recommendation: Conduct further research when adding referrals and recalls to the appointment list.
+
+AVS content
+11. Overall, the majority of participants had a very positive response to the AVS and stated it
+contains a lot of useful information.
+"It looks pretty thorough, and I like the way it's sectioned out…I think it kind
+of gets more to the summary of everything without having to read through
+a whole couple of paragraphs to figure out what was going on."
+“It looks like it will give me quicker access to the information that I'm looking for.”
+
+12. A third of the participants saw the AVS as a place to confirm that their providers understood what they were trying to convey during the appointment.
+"I review that so that I can see how the doctor, or whoever I saw, interpreted
+what I was saying; if they heard what I intended to convey.”
+Recommendation: Explore ways to connect/crosslink AVS and other care summaries and notes, such as progress notes, so a complete story of what the provider understood can be shared with the Veteran/caregiver.
+
+13. Even though half of the participants stated the instructions within the "Your treatment plan from this appointment" section were helpful, half of participants also made suggestions to add information.
+the technical and Veteran value of these requests.
+Examples of information requested:
+What to do for upcoming tests (or knowing that they don't have to do
+anything)
+Phone numbers and addresses of imaging facilities and pharmacies.
+Deadlines and turn around times for lab work before certain procedures or appointments.
+Whether tests can be done on a walk in basis or if an appointment is required.
+
+Recommendation: Complete additional research to understand
+
+
+
+
+
+
+14. 8 participants didn't know what a recall appointment was. "Recall appointments are appointments that someone has to come in multiple times for something; maybe they need to come in weekly
+for their blood pressure… they need to have their blood drawn every2 weeks to check or something like that, just to kind of remind people because life gets busy". "I don't know, because VA doesn't do walk ins to see your primary care. I'm not sure what a recall appointment is."
+Recommendation: Eliminate the term "recall" for these appointment types. Provide a more accurate and descriptive name for these type of appointments.
+
+15. 4 Participants incorrectly defined the "You were diagnosed with" section.
+They defined "You were diagnosed with" as all new diagnoses
+from this appointment and past diagnoses from other
+appointments.
+When asked about the alternative section title, "Health conditions you discussed," participants defined that section as concerns and conditions discussed with their provider at this appointment, which may or may not be official diagnoses. Participants commented that both "You were diagnosed
+with" and "Health conditions you discussed" were valuable to review within an AVS.
+Recommendation: Explore an alternate title to the "You were diagnosed with" section.
+
+16. 7 participants understood that the “Problem list” showed all their diagnoses, but some saw overlap or confusion with the "You were diagnosed with" section.
+ "I guess these are the things that you tested me for and these are the problems that you saw."
+ "I feel like, if you are going to keep the problem list...then you can just take away the ["You were diagnosed with"] section."
+Recommendation: Explore how to remove confusion between the "You were diagnosed with" and "Problems list" sections.
+
+17. Half of the participants didn't understand at least one medical term and wanted more information to
+educate themselves.
+"Respirations...what does that mean?"
+"I would probably have to look up some of this. [Hypertension]…I don’t
+know what that is. Could they put a link, what does this mean? Like a
+glossary similar to the medication section. That way that I don’t have to
+get on Google and diagnosis myself that I’m dying …like we all do."
+“The PO… that is unclear…Oh. Yeah, that [means] Post Office.”
+Recommendation: Complete a content review of medical terminology within the AVS to identify areas for more plain language. Ensure that if clinicians entered patient friendly descriptions, then displaythem within the AVS. In addition, expand patient education articles linking within the AVS. For example, make hypertension a link to an article describing the condition.
+
+
+18. 6 participants would like their vitals to be displayed in Imperial/U.S. standard
+measurements instead of the metric system.
+"The temperature in Celsius is not helpful for me...I got to go get a
+converter for that.“
+“The height and weight I prefer to have in inches and pounds if I'm the
+one using it. Obviously, the medical people probably want it [in metric].”
+“I don't know what the temperature is…instead of Fahrenheit. What is
+36.4 C?”
+Recommendation: Ensure that the default configuration is set to
+Imperial/U.S. standard, which the VA AVS system already provides.
+
+19. 4 participants saw value in sharing their AVS with non- VA providers.
+
+They specifically discussed wanting to print out copies.
+“I could print it out…my dad… also uses the VA, we can go onto his site, and I can see what he is allergic to and help his providers…So, it'd be easy… a nice thing to print out.”
+“If I were to see a provider outside the VA that would need my medication list, this is a great reference for me to pull and either print out.”
+Recommendation: Ensure that the AVS product has a good print stylesheet and an accessible, downable PDF.
+
+
+
+Medications
+20. 8 participants interpreted the "Medications administered at the clinic" section incorrectly.
+Participants assumed the medication:
+would be received during a later visit.
+was given at the clinic, but also required them to take more later at home after picking up a prescription.
+would either be administered during the procedure or mailed to them
+to take before arriving to an appointment.
+“That's what's being used during the procedure…so, they ordered it…and said…
+you… [are] going to get this in the mail; you need to make sure you take this and it's
+going to be telling you how to take it. And you take it before you come in for the
+procedure.”
+
+“It says, give…[not] given…[it should] say the time…and a date…It doesn't say if it's
+given or not…so I'm thinking…It's saying that he hasn't taken it yet.”
+
+Recommendation: Change the section title and label to something
+More plain language and understandable.
+
+21. The "My medications" section met the expectations of most participants.
+
+"This is much more informative, I like this layout, or I like the amount
+of [information]...If I forgot how much to take, I could refer to
+information relayed here. I guess the other was just a summary, this
+is more like a full history".
+
+22. Approximately half of all participants were either confused
+about the difference between all three of the medications
+sections or wanted the sections combined into one section. "You’ve got multiple places to get what you’re looking for. Again, that this goes back to the redundancy…If I'm looking the prescription information, I shouldn't have to go to 3 different spots and find prescription information."
+Recommendation: Explore clearer labels to eliminate confusion across different medication sections. Explore a combined medication sections.
+
+23. Some participants asked for additional instructions with their medications.
+They requested what condition they are taking the medication for.
+instructions on when to take it.
+why they stopped taking a medication and what
+the adverse reactions were.
+
+“I want to know what I was taking Tylenol for.”
+Recommendation: Display the existing indication field.
+Research the other requests further.
+
+
+Notifications
+24. All participants wanted a notification (email, text, etc.) that their AVS was ready to review.
+
+Modality preferences:
+3 Text only
+2 Email only
+7 Either text or email
+
+Recommendation: Create AVS notification for each modality, such as email, text, push, or in app notification. Also, create an associated notification preference.
+
+
+25. Participants were equally divided between receiving one notification for each AVS or receiving all AVSs for a given day, together in one notification.
+
+"I would prefer all in one; because then that way,...I'm not waiting to
+see that each one comes…and I'm counting 3 separate ones. I
+count one notification, I click into that, and I can find anything that
+happened during that day.”
+
+“I would like one for each visit, because what if the first doctor I
+saw…sent…the after care summary. But then my third doctor of the
+day well, he didn’t…send that in;...then I don't have to keep
+reminding myself to check back and look for it.”
+
+Recommendation: Start with separate notification for each AVS. Then, explore expanding to one notification for each day in the future as another option.
+
+Secondary findings
+1. 2 participants mentioned it would be helpful having more phone information.
+1 participant suggested having live phone links to call:
+“If you made the phone number a link, so if…I’m
+looking at it on my phone,…If we just hit the phone
+number and it calls.”
+
+When 1 participant was asked if the information in the
+recall appointments was helpful, she replied there is no
+phone number to call:
+“Again…there’s no phone number to
+
+Recommendation: Add phone number within the appointments section and make it clickable.
+
+2. 3 participants had a hard time interpreting what the lab results meant for them; they didn't know
+what to do with this information. 
+
+"I don't know how to read the lab results, so I don't know what that
+means".
+
+I know it gives a reference range, but I never know….if it's good
+or bad…I always look at the results and I never know how to
+interpret them, and I always have to call the Doc back.”
+
+Recommendation: Share this information with the medical records team that is working on VA.gov lab results.
+
+
+3. 2 participants didn't understand the clinic name.
+
+"The clinic with the colors might be confusing if you're not
+aware that you're assigned…by color. You're like, I don't
+know what that means. I don't have any idea what color I am."
+
+“I don't know what Red 4C is; if they're really telling you, what
+floor to go to…[I would like to see] just a room number… with
+conventional room numbers.".
+
+Recommendation: Make clinic names more user friendly or display a combination of other appointment information, such as floor and room number.
+
+
+Recommendations to complete with MVP release
+
+Spread awareness via the change management process that a digital AVS is available on VA.gov.
+
+Keep referring to this experience as the "After visit summary."
+
+Don't change the current information architecture plan to include AVS within appointments and care
+summaries and notes.
+
+Remove the "Details" link from the design.
+
+The navigational structure (back buttons) can remain the same.
+
+Ensure that the default configuration is set to Imperial/U.S. standard, which the VA AVS system
+already provides.
+
+Ensure that if clinicians entered patient friendly descriptions, then display them within the AVS.
+
+Display the existing medication indication field.
+
+Make phone numbers clickable.
+
+Share this information with the medical records team that is working on VA.gov lab results.
+
+Recommendations to consider for a Phase 2 release
+
+Review past appointment research into this label and add this as a research question to future
+studies. If evidence continues to suggest Veteran/caregiver confusion, then make changes to
+the label.
+Ensure that the AVS product has a good print stylesheet and an accessible, downable PDF.
+
+Conduct further research when adding referrals and recalls to the appointment list.
+
+Eliminate the term "recall" for these appointment types. Provide a more accurate
+and descriptive name for these type of appointments.
+
+Explore an alternate title to the "You were diagnosed with" section.
+
+Explore how to remove confusion between the "You were diagnosed with" and "Problems
+list" sections.
+
+Change the "Medications administered at the clinic" section title and label to something more plain language and understandable.
+
+Recommendations to consider for a Phase 2 release cont.
+Complete a content review of medical terminology within the AVS to identify areas for more plain
+language. Ensure that if clinicians entered patient friendly descriptions, then display them within the
+AVS. In addition, expand patient education articles linking within the AVS.
+
+Recommendations to complete in a later iteration by the AVS team
+Explore ways to connect/crosslink AVS and other care summaries and notes, such as progress
+notes, so a complete story of what the provider understood can be shared with the
+Veteran/caregiver.
+
+Complete additional research to understand the technical and Veteran value of the additional
+information requests to the "Your treatment plan from this appointment" section.
+
+
+Expand patient education articles linking within the AVS. For example, make hypertension a link to
+an article describing the condition.
+
+Explore clearer labels to eliminate confusion across the different medication sections. Explore a
+combined medication sections.
+
+Research additional medication instruction needs further.
+
+Add phone number within the appointments section.
+
+Recommendations for later iterations and will require other teams
+
+Within the AVS, add content to inform Veteran/caregiver that lab results are still in
+progress and send the AVS notification as soon as it is available. Review past appointment research into this "Schedule and manage appointments" label and add this as a research question to future studies. If evidence continues to suggest Veteran/caregiver confusion, then make changes to the label. (Appointments and AVSs teams)
+
+Explore ways to connect/crosslink AVS and other care summaries and notes, such as
+progress notes, so a complete story of what the provider understood can be shared with
+the Veteran/caregiver. (Medical records and AVS teams).
+
+Make clinic names more user friendly or display a combination of other appointment information,
+such as floor and room number. (Appointments backendteam)
+
+Conduct further research when adding referrals and recalls to the appointment list. (Appointments
+team).
+
+Hypothesis of teams needed for each item are included in the paratheses.
+
+Recommendations for later iterations and will require other teams cont.
+Create AVS notification for each modality, such as email, text, push, or in app notification. Also,
+create an associated notification preference. VeText , VA Authenticated Experience, and
+AVS teams).
+
+Start with separate notification for each AVS. Then, explore expanding to one notification for each
+day in the future as another option. VeText , VA Authenticated Experience, and AVS teams)
+
+Within the AVS, add content to inform Veteran/caregiver that lab results are still in progress
+and send the AVS notification as soon as it is available. Hypothesis of teams needed for each item are included in the paratheses.
+
