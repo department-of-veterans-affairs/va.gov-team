@@ -80,7 +80,9 @@ TBD
 ### Key Dates
 
 - March 2023: Project kick-off
-- June 2023: Development started
+- June - July 2023: Development
+- July 2023: Pre-launch activities
+- ...
    
 ## Screenshots
 _Not applicable as no visual to My VA will occur when the work is complete_
