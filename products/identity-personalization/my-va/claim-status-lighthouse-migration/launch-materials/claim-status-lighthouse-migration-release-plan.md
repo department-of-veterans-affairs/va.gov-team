@@ -16,7 +16,7 @@ Not applicable - team conducted internal testing.
 - Launch go/no-go ticket: [#61316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61316)
 - [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/launch-materials/claim-status-lighthouse-migration-launch-readiness-checklist.md)
 
-**Desired date range:** _mm/dd/yyyy - mm/dd/yyyy_
+**Desired date range:** _07/24/23 - 08/04/23_
 
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
