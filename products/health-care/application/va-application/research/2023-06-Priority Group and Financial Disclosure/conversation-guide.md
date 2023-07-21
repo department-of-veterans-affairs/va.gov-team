@@ -77,10 +77,17 @@ Let’s start with a couple warm-up questions.
 
 ## Second Topic: [Priority Group - Awareness] - 5 minutes
 - Can you tell me more about what Priority Group you are in for your health care benefits now?
+
+[If aware of Priority Groups]
 - Can you please describe how this was communicated to you and how you understood the impact to you and your benefits?
 - Before you completed enrollment, how were you aware of Priority Groups or copays as part of the health care benefits package?
 - [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
 - Since you have been using your benefits, what have you learned about Priority Groups and the impact it has on you and health care benefits that you wish you knew during the application?
+
+[If NOT aware of Priority Groups, ask question and skip to fourth topic]
+- What do you think Priority Groups are? There is no right or wrong answer here, just explain your understanding of what you think it could be and how that is important to health care benefits. 
+
+
 
 
 ### Things to watch for:
@@ -135,9 +142,11 @@ Let’s start with a couple warm-up questions.
 
 - I would like to ask if you are comfortable sharing your screen and walking through a task on VA.gov?
 - Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
-- [Share link to VA.gov in Zoom chat]
 
-- For this scenario, you received a communication to update your annual income to maintain your copay and travel reimbursement costs as part of your health care benefits.
+- For this scenario, you received a communication to update your annual income to maintain your copay and travel reimbursement costs as part of your health care benefits. I would like to ask you to show me where and how you would expect to accomplish this online. 
+
+- [Share link to VA.gov in Zoom chat for VA.gov]
+
 
 [Notification and process]
 - How would you like to receive this communication that you need to provide updated financial information?
@@ -148,8 +157,7 @@ Let’s start with a couple warm-up questions.
 - Please remember to talk aloud about your thought process as you go.
 - Can you explain to me why you went [here] to update your financial information?
 - Talk to me about where you would expect to find the ability to complete this task and why.
-
-
+-[Possible prompt to remind them that this task is not available today, but want to know where you would expect to find it if it was made available]
 
 [**IF** they state the would go to the VA Profile to update this information]
 - Are you comfortable logging in to your own VA profile account? 
