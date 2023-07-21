@@ -29,13 +29,10 @@ Sources: Internal (VA Mobile team + VA.gov teams) & external consultants (Frog, 
 
 
 ### Veteran behaviors & motivations (general - user context)
-[Veteran motivations and behaviors related to personalization - Detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-behaviors--motivations-general---user-context)
 
 #### UNDERSTANDING & STAYING INFORMED
 
 Veterans **want to understand their benefits and how to access them, what VA is doing & needs from them.**
-
-
 
 1. Veterans **care about anything they have in flight**, whether that is education or other benefits. <sub>1,2,3</sub>
    * They **want to know where they are in the claims process** —Timeline for benefits decision not explained, back & forth status is confusing. <sub>2</sub> 
@@ -49,8 +46,6 @@ Veterans **want to understand their benefits and how to access them, what VA is 
 
 Veterans want to control the things they can in a large and confusing system that they can’t always rely on to deliver the benefits they’ve earned.
 
-
-
 1. **Veterans** **want to feel like they’re in control** [of any process], but the VA benefits process makes Veterans feel like they’re not in control.
 2. **Veterans** store files themselves because they **don't trust VA to safeguard their personal documents** for posterity and **are concerned with documenting their service connected disabilities for fear of losing access to care**. <sub>2,4</sub> 
 3. **Veterans** **don’t trust the accuracy of the claim status** they see on eBenefits. <sub>2</sub> 
@@ -59,8 +54,6 @@ Veterans want to control the things they can in a large and confusing system tha
 #### COMMUNICATION & CONNECTING
 
 Veterans **value empathy and communication**. 
-
-
 
 1. Veterans **trust and want to connect one-on-one with individuals** who **know the details of their specific case** to help them.
    * They **want to talk with VSOs, Claims Staff,** and other **VA service providers** when they have questions or need help. <sub>2,3</sub> 
@@ -74,8 +67,6 @@ Veterans **value empathy and communication**.
 
 
 ### Veteran pain points (general - user context)
-[Pain points potentially addressed by personalization - Detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#veteran-pain-points-general---user-context)
-
 
 1. Navigating VA ecosystem is **so complex and confusing** that **Veterans feel discouraged** to apply for, manage, and maximize their benefits. <sub>3,5</sub> 
    * A lack of ongoing benefits training leaves **Veterans at a loss for what they're eligible for** and **how to get started** with benefits. <sub>2,3,4,5</sub>    
@@ -103,7 +94,6 @@ Veterans **value empathy and communication**.
 
 
 ### What Veterans say they want from a home screen:
-[What Veterans say they want from a home screen - Detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-they-want-from-a-home-screen)
 
 1. **Veterans want their experience to be task-based** (**actionable**!), streamlined, and expect a mix of links and widgets to complete tasks from their home screen. <sub>1,2,5,6,7</sub> 
    * They want to **be able to quickly see what needs to be done, act on it and get off the [site]**. <sub>8</sub> 
@@ -121,7 +111,6 @@ Veterans **value empathy and communication**.
 
 ### How Veterans think about notifications*
 *These findings are based on existing research conducted on the MHV, MyVA, and VSA websites (not the mobile app), compiled in May 2022, added to topline findings in Jul 2023*  
-[How Veterans think about notifications - Detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md#what-veterans-say-about-notifications)
 
 1. **The word “notification” gets used in studies and by Veterans to mean both “alerts” in general and something more specific:**
    * ‘Notifications’ are different than action items:
