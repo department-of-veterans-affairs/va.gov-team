@@ -32,11 +32,9 @@ Not applicable - team conducted internal testing.
 ### Planning:
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 1% | mm/dd/yyyy | _mm/dd/yyyy_ |
 | Launch to 10% | mm/dd/yyyy | _mm/dd/yyyy_ |
 | Launch to 25% | mm/dd/yyyy | _mm/dd/yyyy_ |
 | Launch to 50% | mm/dd/yyyy | _mm/dd/yyyy_ |
-| Launch to 75% | mm/dd/yyyy | _mm/dd/yyyy_ |
 | Launch to 100% | mm/dd/yyyy | _mm/dd/yyyy_ |
 
 
