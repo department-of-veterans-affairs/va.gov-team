@@ -1,7 +1,7 @@
 
 ---
 
-# Modernized Check-In Experience: Unified Check-In Generative Research Findings
+# Patient Check In (PCI): Unified Check-In Generative Research Findings
  Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Healthcare Products, Modernized Check-In Experience**
