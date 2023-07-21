@@ -37,7 +37,7 @@ This brief will help your team create content for your product that aligns with 
 ## Research findings
 
 - Mobile app research showed that 4/8 people found the "Pending" status label confusing. They wondered what it meant and if they needed to do something about an appointment that was "pending." However, previous research showed that Veterans understood "Pending" > "requested." There are additional complications to this. Guidance is to stay with "Pending" for now.
-- The AVS MVP research findings show that 2 out of 6 participants found the "Schedule and manage appointments" label is confusing when they were trying to get to the after-visit summary from the My HealtheVet’s landing page. Since “schedule” and “manage” sounds like an action that will be performed,  they were hesitant to choose that label because the AVS appointment happened in the past and they were not performing any action to the AVS; they would be just viewing the appointment.
+
 
 ## Other notes
 
