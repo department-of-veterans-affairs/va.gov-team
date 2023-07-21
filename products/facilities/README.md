@@ -5,9 +5,7 @@
 ## Why VA facilities and services matter to Veterans
 
 - Veterans associate their VA benefits and health care journey with where they go to receive help and care.
-
 - VA facilities humanize VA by demystifying "the VA black box" and by delivering in-person services and support.
-
 - Veterans' mental models for VA benefits and health care start with the task they are trying to complete (e.g., get disabiltiy benefits), the service they are looking for (e.g., career counseling), or the condition they are experiencing (e.g., depression). 
 
 **Why this matters to VA**
@@ -28,21 +26,33 @@ VA has a responsibility to provide accurate VA facilities and VA services inform
 
 ## Facilities products
 
-These are the products we are designing and building for Veterans and users on VA.gov.
+### Integrated Facilities & Services Data Products
+
+These products span the entire portfolio of VA facilities and services and aim to create a single source of truth for Veterans 
 
 - VA.gov Facility Locator tool | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)
+- VA Services Taxonomy | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/taxonomy)
 
+### Modernized Facility Websites
+
+These products provide detailed information about specific VA facilities to help Veterans get the services they need
+
+**Modernized**
 - VHA Medical Center facility system product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
-
 - VHA Vet Center facility product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers)
 
+**Currently being modernized**
 - VBA Regional Office facility system product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices)
 
+**Future facilities to modernize**
 - NCA National Cemetery facility product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/cemeteries)
+- Domiciliaries | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/domiciliaries)
+- Community Living Centers | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/community-living-centers)
 
 ## Key resources 
 
-- [#sitewide-facilities](https://dsva.slack.com/channels/sitewide-facilities) - Sitewide Facilities Team slack channel
+- [Facilities Team slack channel](https://dsva.slack.com/channels/sitewide-facilities) | #sitewide-facilities 
+- [VA Facilities Naming Schema](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/naming-schema)
 - [VA facility product sitemaps](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1674779377050?sender=u2aba00c97ab77c6ec1573123&key=3024f3ae-613d-4244-abf0-844be1f68cca)
 - [VSA Facilities Team transition folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
 - [VSA Facilities Team Research and Design Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
@@ -56,7 +66,6 @@ Our VA.gov facilities and services products are powered by the VA.gov Drupal CMS
 - [Repo](https://github.com/department-of-veterans-affairs/va.gov-cms)
 - [#sitewide-cms-platform](https://dsva.slack.com/channels/cms-team) - Drupal CMS Platform Team slack channel
 - [#cms-support](https://dsva.slack.com/channels/cms-support) - Drupal CMS Support slack channel
-
 
 **Facilities API**
 
