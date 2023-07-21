@@ -62,6 +62,6 @@ These are the products we are designing and building for Veterans and users on V
 - [Documentation](https://developer.va.gov/explore/facilities/docs/facilities?version=current)
 
 ## Teams/Slack channels working on facilities products
-- [#sitewide-facilities](https://dsva.slack.com/channels/sitewide-facilities) - Facility Locator
+- [#sitewide-facilities](https://dsva.slack.com/channels/sitewide-facilities) - Facilities Team
 - [#cms-support](https://dsva.slack.com/channels/cms-support) - Drupal CMS support
-- [#cms-team](https://dsva.slack.com/channels/cms-team) - Drupal CMS team
+- [#cms-team](https://dsva.slack.com/channels/cms-team) - Drupal CMS Platform team
