@@ -36,9 +36,11 @@ By using a universal, inclusive taxonomy, we allow searchability, improve findab
 ## Contacts / Content Governance
 Person | Email | Role |
 ---| --- | --- |
-Dave Conlon | david.conlon@va.gov | Product owner
-Jenny Heiland-Luedtke |jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media
+Michelle Middaugh | suzanne.middaugh@va.gov | OCTO product owner 
+Danielle Thierry | danielle.thierry@va.gov | OCTO content and translation lead
+Jenny Heiland-Luedtke | jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media (VAMC POC)
 Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC) 
+TBD | tbd@va.gov | (VBA POC)
 
 Changes to Taxonomy should be reviewed by these stakeholders, including changing categories or heirarchy.
 
