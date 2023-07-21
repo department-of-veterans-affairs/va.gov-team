@@ -163,7 +163,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 
 ### Research sessions
-* Planned dates of research: **July 27 - August 9, 2023**
+* Planned dates of research: **July 27 - August 8, 2023**
 
 ### Length of sessions
 * Session length:  < 1 hour
@@ -190,7 +190,6 @@ Please request enough dates and at ***least double the amount of time slots for 
 | August 4, 2023	|  12pm - 4pm ET 	|
 | August 7, 2023	|  12pm - 4pm ET 	|
 | August 8, 2023	|  1pm - 4pm ET 	|
-| August 9, 2023	|  12pm - 4pm ET 	|
 
 
 
