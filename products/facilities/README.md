@@ -42,7 +42,7 @@ These are the products we are designing and building for Veterans and users on V
 
 ## Key resources 
 
-- [#sitewide-facilities](https://dsva.slack.com/channels/sitewide-facilities) - Facilities Team Slack channel
+- [#sitewide-facilities](https://dsva.slack.com/channels/sitewide-facilities) - Sitewide Facilities Team slack channel
 - [VA facility product sitemaps](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1674779377050?sender=u2aba00c97ab77c6ec1573123&key=3024f3ae-613d-4244-abf0-844be1f68cca)
 - [VSA Facilities Team transition folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
 - [VSA Facilities Team Research and Design Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
@@ -54,8 +54,9 @@ Our VA.gov facilities and services products are powered by the VA.gov Drupal CMS
 **Drupal CMS**
 
 - [Repo](https://github.com/department-of-veterans-affairs/va.gov-cms)
-- [#cms-support](https://dsva.slack.com/channels/cms-support) - Drupal CMS support
-- [#cms-team](https://dsva.slack.com/channels/cms-team) - Drupal CMS Platform team
+- [#sitewide-cms-platform](https://dsva.slack.com/channels/cms-team) - Drupal CMS Platform Team slack channel
+- [#cms-support](https://dsva.slack.com/channels/cms-support) - Drupal CMS Support slack channel
+
 
 **Facilities API**
 
