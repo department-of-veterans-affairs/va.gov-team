@@ -192,8 +192,11 @@ Imagine that your *[spouse/Veteran]* has some hearing loss that's related to the
   - When you go, what should you have with you? *[photo ID, DD214]* 
   
 ### Task 6: [Home loan > apply--accordion opens]
-
+*(Veteran only)*
 You’re interested in buying a house, and your lender asks for proof that you qualify for a VA home loan. From this page, where would you go for that?
+
+*(If not Veteran but caregiver or family member:)*
+Your Veteran family member *(the Veteran you care for)* is interested in buying a house, and their lender asks for proof that they qualify for a VA home loan. From this page, where would you go for that?
 
 - *(VA home loans > Get help filling out VA loan paperwork)*
 
@@ -210,10 +213,16 @@ You’re interested in buying a house, and your lender asks for proof that you q
   - When you go, what should you have with you? *[photo ID, DD214]* 
   
 ### Task 7: [Need DD214 for home loan]
-
-Say you’ve decided to go the Boston Regional Office in person to get proof that you qualify for a VA home loan. What do you need to have with you? [DD214]  
+*(Veteran only)*
+Say you’ve decided to go to the Boston Regional Office in person to get proof that you qualify for a VA home loan. What do you need to have with you? [DD214]  
 
 If you don't have a DD214, how could you get it? 
+
+*(If not Veteran but caregiver or family member:)*
+Say your Veteran family member *(the Veteran you care for)* decides they want to go to the Boston Regional Office in person to get proof that they qualify for a VA home loan. What do they need to have with them? [DD214]
+
+If they don't have a DD214, how could you help them get it?
+
 
 - *(Prepare for your visit > Helpful documents > give permission / _____________)*
 
@@ -228,8 +237,10 @@ If you don't have a DD214, how could you get it?
 
   
 ### Task 8: [Home loan > check status--accordion opens]
-
+*(Veteran only)*
 Now some time has passed since your visit to the regional office, and you’re still waiting to get proof that you qualify for a VA home loan. How would you find out what’s happening? 
+
+*(If not Veteran but caregiver or family member)* Now some time has passed since your Veteran family member *(the Veteran you care for)* visited the regional office, and they’re still waiting to get proof that they qualify for a VA home loan. How would you help them find out what’s happening?
 
 - *(VA home loans > Check the status of your COE)*
 
@@ -271,8 +282,10 @@ If you wanted help applying for life insurance through the VA, where would you g
   - When you go, what should you have with you? *[photo ID, DD214]* 
   
 ### Task 11: [Direct deposit--accordion doesn't open]
+*(Veteran only)*
+Suppose that you just switched banks, and you want to tell the VA so that any payments you receive will go to your new bank instead of your old one. Could the Boston Regional Office help you do this? 
 
-Suppose that you just switched banks, and you want to tell the VA so that any payments you receive will go to your new bank instead of your old one. Could the Boston Regional Office help you do this?  
+*(If not Veteran but caregiver or family member)* Suppose that your Veteran family member *(the Veteran you care for)* just switched banks, and they want to tell the VA so that any payments they receive will go to the new bank instead of the old one. Could the Boston Regional Office help you do this?
 
 - *(Other services > Veteran direct deposit)*
 
