@@ -19,9 +19,10 @@ Securely accessing VA online services can happen at any stage in the [Veteran jo
 
 ## Research Goals	
 
-- Test the usability of a prototype that requires veterans to agree to updated terms of use
-- Identify any pain points with the prototype
-- Validate certain options we are considering for this design on language and certain design elements
+- Explore veterans thinking around terms of use, both in general and as it relates to VA.gov
+- Understand how the sign in experience would be affected with a terms of use page interrupting the flow 
+- Test the usability of a prototype for updated terms of use
+
 
 ### Outcome
 
