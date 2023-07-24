@@ -95,8 +95,8 @@ We will observe submitters (hypothetically):
 
 ### Research materials
 
-- [Conversation guide: Veteran](url goes here) 
-- [Conversation guide: Dependent](url goes here)
+- [Conversation guide: Veterans]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Conversation%20guide%3A%20Veterans.md)) 
+- [Conversation guide: Dependents]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Conversation%20guide%3A%20Dependents.md))
 - [Prototype](url goes here)
 	
 ## Recruitment	
