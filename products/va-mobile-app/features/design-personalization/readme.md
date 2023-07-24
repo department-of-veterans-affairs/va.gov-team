@@ -11,7 +11,8 @@ Last updated Jul 2023
 ### UX Discovery
 * **Personalization 2022 (May-Jun 2022):**
   * [DRAFT: VA Mobile app: Personalization - Design Strategy Worksheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-design-strategy-worksheet.md)
-  * [UX Discovery Questions: VA App Personalization](https://docs.google.com/document/d/1eB8t02SWEjpiAmoSN_WuRqWYBjS_j-V2/edit)
+    * WIP design strategy
+    * [UX Discovery Questions: VA App Personalization](https://docs.google.com/document/d/1eB8t02SWEjpiAmoSN_WuRqWYBjS_j-V2/edit)
 * **Earlier exploratory activities (Nov 2021 - Jan 2022):**
     * [Comparative Analysis: Personalized App Homescreen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-comparative-analysis.md)   
       * Comparative analysis of how other apps present personalization.   
