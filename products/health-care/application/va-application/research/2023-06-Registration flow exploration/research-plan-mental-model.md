@@ -83,7 +83,7 @@ Remote via Zoom for the interviews
 - [Link to conversation guide - cohort 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort1.md) 
 - [Link to conversation guide - cohort 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-cohort2.md) 
 
-- [Recruitment ticket]
+- [Recruitment ticket](url)
 	
 ## Recruitment	
 
@@ -117,9 +117,9 @@ Cohort 2:
 
 ## Timeline
 
-Cohort 1: TBD
+Cohort 1: August 23 - 28, 2023
 
-Cohort 2: TBD
+Cohort 2: August 29 - September 1, 2023
 
 
 
