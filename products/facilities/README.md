@@ -33,25 +33,25 @@ Similar to most other types of search tools, Veterans should be able to begin a 
 
 These products span the entire portfolio of VA facilities and services and aim to create a single source of truth for Veterans 
 
-- VA.gov Facility Locator tool | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator) | [github label](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Facility%20Locator)
-- VA Services Taxonomy | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/taxonomy) | [github label](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/VA%20services%20taxonomy)
+- VA.gov Facility Locator tool | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator) | github label: [Facility Locator](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Facility%20Locator)
+- VA Services Taxonomy | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/taxonomy) | github label: [VA services taxonomy](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/VA%20services%20taxonomy)
 
 ### Modernized Facility Websites
 
 These products provide detailed information about specific VA facilities to help Veterans get the services they need
 
 **Modernized**
-- VHA Medical Center facility system product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers) | [github label](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/VAMC)
-- VHA Vet Center facility product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers) | [github label](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Vet%20Center)
+- VHA Medical Center facility system product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers) | github label: [VAMC](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/VAMC)
+- VHA Vet Center facility product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers) | github label: [Vet Center](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Vet%20Center)
 
 **Currently being modernized**
-- VBA Regional Office facility system product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices) | [github label](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Regional%20office)
+- VBA Regional Office facility system product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices) | github label: [Regional office](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Regional%20office)
 
 **Future facilities to modernize**
-- NCA National Cemetery facility product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/cemeteries) | [github label](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Cemeteries)
-- VBA non-Regional Office facilities | [github label](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/VBA)
-- Domiciliaries | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/domiciliaries) | [github label](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Domiciliaries)
-- Community Living Centers | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/community-living-centers) | [github label](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Community%20Living%20Centers)
+- NCA National Cemetery facility product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/cemeteries) | github label: [Cemeteries](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Cemeteries)
+- VBA non-Regional Office facilities | github label: [VBA](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/VBA)
+- Domiciliaries | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/domiciliaries) | github label: [Domiciliaries](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Domiciliaries)
+- Community Living Centers | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/community-living-centers) | github label: [Community Living Center](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Community%20Living%20Centers)
 
 ## Key resources 
 
