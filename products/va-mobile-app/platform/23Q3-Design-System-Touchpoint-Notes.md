@@ -6,6 +6,9 @@ Agenda:
 *   Discuss progress and risks for Q3 work
 
 
+## 8/3/23
+*   IA of Mobile Design System Documentation
+
 ## 7/20/23
 *   Discuss purpose/role of this meeting
 *   Open Action Items:
