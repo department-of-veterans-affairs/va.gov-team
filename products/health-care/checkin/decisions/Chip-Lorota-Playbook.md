@@ -107,13 +107,18 @@ When the above responsibilities are met and development bandwidth is available, 
 
 |Service|Team POCs|Slack Responsive?|
 |:-------:|:--------:|:--------:|
+|Vetext| [#vetext-engineering](https://dsva.slack.com/archives/C051S52N1C6) ||
+|VISTA|||
+|CLINICIAN WORKFLOW|||
+
+3. **Containment of Issue** - Are there downstream effects of the bug? If so, isolate the system. Once isolated we need to inform the downstream system of issues and see if we can limit impact.
+|Service|Team POCs|Slack Responsive?|
+|:-------:|:--------:|:--------:|
 |PCI Front End|Lee Delarm, Brian Seek, John Woolschlager|Yes|
 |PCI Vets-API|Guarav Gupta, Kanchana|Yes|
-
-3. **Containment of Issue** - Are there downstream effects of the bug? If so, isolate the system. Once isolated we need to inform the downstream system of issues and see if we can limit impact. 
-4. **Resolution of Issue** - At this step, we implement any needed changes to address the issue. Whether that is a code change and deployment, or infrastructure changes. The Incident Commander is responsible for coordinating the changes and communicating to the appropriate Slack / VA MS Teams channels.
-5. **Recovery** - This phase is where we monitor the changes made to address the issues. Make sure DataDog alarms are recovered. Make sure PagerDuty incidents are recovered.
-6. **Incident Documentation** - This is the final phase of incident response and involves documenting and learning from the incident - 
+5. **Resolution of Issue** - At this step, we implement any needed changes to address the issue. Whether that is a code change and deployment, or infrastructure changes. The Incident Commander is responsible for coordinating the changes and communicating to the appropriate Slack / VA MS Teams channels.
+6. **Recovery** - This phase is where we monitor the changes made to address the issues. Make sure DataDog alarms are recovered. Make sure PagerDuty incidents are recovered.
+7. **Incident Documentation** - This is the final phase of incident response and involves documenting and learning from the incident - 
     1. Post final resolution / next steps on incident Slack thread.
     2. Coordinate with VHA IVC (Shawn Adams) to communicate resolution to the field via PCI Implementation Teams channel.
     3. Create Zenhub Tickets - For each incident, any relevant tickets should be created and tracked on the Zenhub board, in collaboration with the Tier 3 Product Manager.
