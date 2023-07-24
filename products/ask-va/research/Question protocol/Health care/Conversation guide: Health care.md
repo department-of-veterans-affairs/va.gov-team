@@ -13,6 +13,11 @@ Our goal is to **understand which fields are necessary in order for agents to de
 * If an answer is required, what happens if a submitter enters something random in order to get through the form?
 * How does this process differ across use cases (or categories and topics)?
 
+## Notes to review ahead of time
+
+* Most common correctly routed topics in the form of submitter questions: All questions related to the VA Civilian Health and Medical Program (CHAMPVA) and CHAMPVA In-House Treatment Initiative (CITI).
+
+
 ## Agenda - 60 minutes
 
 * Intros: 5 minutes
