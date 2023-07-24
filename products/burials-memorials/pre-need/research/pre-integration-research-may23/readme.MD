@@ -1,11 +1,11 @@
 # 2023-06 Pre-Need Pre-Integration Usability Testing Study Summary
 
-#### Recruitment Criteria 
+## Recruitment Criteria 
 [Criteria Issue](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/323) 
 
-#### Summary
+## Summary
 
-Briefly summarize the high level questions your research was trying to answer.
+High level questions this research was trying to answer:
 
 - What's working well for users and what are the pain points they're experiencing when applying for pre-need eligibility determination?
 - Why are most users applying through desktop devices, and how can we improve rates for mobile applications and successful submissions overall?
