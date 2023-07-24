@@ -47,20 +47,13 @@
 
 [If the participant doesn't show up in the first few minutes, reach out to Perigean on Slack.]
 
-
 - Thank you for joining this session today! I first want to make sure that we're able to hear each other.
-
-[WAIT FOR RESPONSE - if can’t hear, [troubleshoot](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr#Troubleshootingresearchsessions-Problem:Usercannothearyou/youcan'thearthemonZoom) otherwise...]
-
+- [WAIT FOR RESPONSE - if can’t hear, [troubleshoot](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr#Troubleshootingresearchsessions-Problem:Usercannothearyou/youcan'thearthemonZoom) otherwise...]
 - Great! I’m [YOUR NAME] and I’m a researcher for VA.gov. 
 - I also have [NOTE TAKER NAME] here today to take some notes. I’ll ask them to introduce themself.
-
-[PAUSE FOR NOTE TAKER to introduce themself]
-
+   - [PAUSE FOR NOTE TAKER to introduce themself]
 - I'd also love for you to tell us a little about yourself.
-
-[PAUSE FOR PARTICIPANT to introduce themself]
-
+   - [PAUSE FOR PARTICIPANT to introduce themself]
 - Nice to meet you!
 - We do have a couple other team members in the waiting room who would like to observe and help take notes. But before we invite them, I'd like to tell you more about what we're doing today.
 - The subject of our research today is the sign in process on VA.gov and in particular the Terms of Use agreement. We are not testing your ability.
@@ -96,7 +89,8 @@ Are you comfortable with that?
 - Other than the VA, do you sign into other services online? Like a bank or social media?
 - Has another service like a bank or social media ever asked you to agree to terms of use.
    - [NOTE this is different than cookies, if mentioned try to redirect - this would be only after you sign in]
-- And what comes to mind when you think about that kind of thing?
+   - Do you remember what you thought about or what you did when you saw that come up?
+   - Anything else come to mind when you think about that kind of thing?
 - Do you recall the last time a website or an app asked you to agree to something like that?
    - Can you explain how that went
       - [PROMPTS] When did it come up? How much did you read? How much time did you spend from when it came up to clicking past that? Was there any unease or questions that came to mind when you saw this?
@@ -135,6 +129,7 @@ Are you comfortable with that?
 - Does this information change how much you trust your online interactions with the VA?
 - Is there any information that you’d want that you don’t find here?
 <br>
+
 - On other websites when something like this has come up, do you usually accept the terms or would you decline? [TRY TO redirect if talks about cookies]
 - How strongly do you generally feel about [ACCEPTING or DECLINING] the terms of use on a website?
    - Have you ever declined terms of use on a website or app 
