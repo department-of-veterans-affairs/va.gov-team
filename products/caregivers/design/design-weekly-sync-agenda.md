@@ -38,7 +38,7 @@ We talked through logistics for our upcoming studies. The goal is to have a prim
 
 Attendees:  DK, Jessica, Hieu, Katelyn, Kristen
 
-**EZR eresearch**
+**EZR Research**
 
 - Jessica with where we're at in getting research scheduled.
 
