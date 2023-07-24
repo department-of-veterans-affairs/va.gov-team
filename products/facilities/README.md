@@ -12,7 +12,7 @@
 
 VA has a responsibility to provide accurate VA facilities and VA services information to its customers--and that align with the Veteran experience of getting and managing their VA benefits and health care.
 
-> Go deeper into our VA.gov facilities and services (and condition) product strategy [here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1571687080233/b02974cdf86270f2ea988b527ef97f3a9d2c5c4e)
+> Go deeper into our VA.gov facilities and services (and condition) product strategy [here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1571687080233/b02974cdf86270f2ea988b527ef97f3a9d2c5c4e) (last updated 2019)
 
 ## Product vision
 
@@ -23,6 +23,9 @@ VA has a responsibility to provide accurate VA facilities and VA services inform
 3. Users can find all VA services, both VA services and in-VA network services, based on their current geographical location, another starting/preferred location, or the VA.gov page they are on
 
 4. VA facilities and VA services are contextually presented to users based on the VA.gov page they are on
+   
+## Long-term vision
+Similar to most other types of search tools, Veterans should be able to begin a search with the need/service and receive a list of facilities where that service is available, regardless of the "type" of facility. This is especially true for services which are delivered across VA facility types. The Facility Locator can become a VA Facility/Service/Condition Locator once all facilities, services, and conditions are connected in Drupal and/or Facilities API. 
 
 ## Facilities products
 
