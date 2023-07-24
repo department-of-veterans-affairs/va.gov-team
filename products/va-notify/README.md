@@ -152,7 +152,6 @@ Lighthouse
 ## Incident Response ##
 Points of contact:
 * Lead: [Kyle MacMillan](mailto://kyle.macmillan@oddball.io)
-* Notifications SME: [Jacob Cheriathundam](mailto://jacob@docme360.com)
 * Product Manager: [Melanie Jones](mailto://melanie.jones@oddball.io)
 
 ## Terms and Conditions
