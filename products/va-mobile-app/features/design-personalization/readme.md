@@ -16,10 +16,12 @@ Last updated Jul 2023
     * [VA Mobile Personalization Brainstorm Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-team-brainstorm.md) 
       *  Cross-functional brainstorm activity based on [MyVA Redesign research insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md); attended by UX, stakeholders, product, and engineering.
     * **Concept development:**
-      * [Wireframes - round 1 (balsamiq)](https://balsamiq.cloud/s4uw4la/pnnwuqv)
-         * [Wireframes - round 1 - feedback synthesis](https://docs.google.com/document/d/1k58jV5M0MCQ3brhgQ_uYXesszfWn7ovz6BZzsp5UK58/edit)
-      *  [Wireframes - round 2](https://balsamiq.cloud/s4uw4la/pnnwuqv/r8507)
-    * [Discovery & notes docs](https://drive.google.com/drive/folders/1ERxsNiNfAQfRosRGHRrh3e0ovCDevzcg)
+      * [Wireframes - round 1 (Balsamiq)](https://balsamiq.cloud/s4uw4la/pnnwuqv)
+         * Low-fidelity wireframes the UX team created to explore different concepts of personalization.
+         * [Team feedback summary (GDoc)](https://docs.google.com/document/d/1k58jV5M0MCQ3brhgQ_uYXesszfWn7ovz6BZzsp5UK58/edit)
+      *  [Wireframes - round 2 (Balsamiq)](https://balsamiq.cloud/s4uw4la/pnnwuqv/r8507)
+         * Unfinished work by one designer before they got pulled onto another project.
+    * [Discovery & notes docs (GDrive Folder)](https://drive.google.com/drive/folders/1ERxsNiNfAQfRosRGHRrh3e0ovCDevzcg)
 
 ### UX Research
 * [VA Mobile App - Personalization Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/discovery/research)
