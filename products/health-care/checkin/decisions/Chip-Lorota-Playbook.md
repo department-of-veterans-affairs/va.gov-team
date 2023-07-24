@@ -41,8 +41,8 @@ This covers CHIP and Lorota pager duty only
 
 ## VA Systems <a name="systems"></a>
 The Patient Check-in experience team will manage the requests submitted by end users of APIs and services exposed for the following systems:
-- CHIP (add link to chip repo)
-- LoROTA (add link to lorota repo)
+- [CHIP](https://github.com/department-of-veterans-affairs/chip)
+- [LoROTA](https://github.com/department-of-veterans-affairs/lorota)
 - Day of Check-In front-end application
 - Pre-check-in front-end application
 
