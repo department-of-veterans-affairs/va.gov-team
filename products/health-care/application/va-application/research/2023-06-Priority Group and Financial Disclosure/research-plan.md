@@ -99,7 +99,7 @@ Remote via Zoom for the interviews
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide.md)
 
 
-- [Recruitment ticket]
+- [Recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/347)
 
   
 	
@@ -202,12 +202,12 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):
 - Note-takers:	Perigean and 1010 Health Enrollment Team
-- Observers: [link to sign up post on Slack]
+- Observers: [link to sign up post on Slack](https://dsva.slack.com/docs/T03FECE8V/F05HXN2V8E8)
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
 
 
 ## Approvals
-Reviewed and approved by Kristen McConnell on July 19, 2023 via Slack. 
-Submited and approved by --- on.
+- Reviewed and approved by Kristen McConnell on July 19, 2023 via Slack. 
+- Moved from submitted to current on Research Repo by Robyn Singleton on July 24, 2023.
 
