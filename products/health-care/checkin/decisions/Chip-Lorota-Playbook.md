@@ -72,7 +72,7 @@ Read the PCI API Tier 3 Playbook (this document!)
 As discussed above, during business hours (07:00am ET - 08:00pm ET) the expectation is that you will be more in a proactive monitoring posture (especially in the morning, when clinics open). When you are on-call, expect to start your shift at 7am EST, as most issues identified are identified in the morning (such as following a deployment the previous night). 
 
 When you start your shift
-- Update the [#check-in-go-live](https://dsva.slack.com/archives/C02UP02HHGX) channel description to list your name as Check-in on-call developer
+- Update the [#check-in-production-support](https://dsva.slack.com/archives/C02UP02HHGX) channel description to list your name as Check-in on-call developer
 - Be aware that there are some automatic daily and weekly monitoring downtimes on datadog. The downtime is to silence any potential alerts that occur during the downtime window. Click [here](https://tevi.ddog-gov.com/monitors/downtimes?sort=-start_dt) for the currently enabled automatic downtimes Tevi Datadog automatic downtime
 - Monitor the tools listed below for signs of issues
 
