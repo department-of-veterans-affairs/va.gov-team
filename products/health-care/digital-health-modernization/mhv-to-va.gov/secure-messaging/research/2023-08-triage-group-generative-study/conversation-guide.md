@@ -11,7 +11,6 @@ _Review participant list for participant name and screener question responses_
 - _@mention team members_
 
 - _Share brief summary of participant demographic info_
--
 
 **10 min before session:**  _Sign onto Zoom website in web browser as Perigean w/credentials provided and start Zoom meeting_
 
@@ -66,6 +65,8 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 - How often do you use My HealtheVet?
 - How often do you use Secure Messaging?
   - Are those messages sent to the same providers all the time?
+- Could you please tell me the reasons you have sent secure messages in the past?
+  - Why did you use secure messaging instead of calling?
 - What other activities do you do in My HealtheVet besides sending messages?
 
 ## **Task 1: Interview**
