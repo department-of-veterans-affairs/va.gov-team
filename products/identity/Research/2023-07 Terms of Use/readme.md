@@ -1,6 +1,6 @@
 # About this Research
 
-- [Research Repo Ticket]() - to make
+- [Research Repo Ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/351)
 - [Research Session Guest List Planning]()  - to make
 - [Mural board for note taking](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1690215396309/04dee4d029baa5e33c00b53d58be3540db30f4b5?sender=u6c46f747a0483ea836054483)
 - [Recruitment diversity checker spreadsheet]()  - to make
