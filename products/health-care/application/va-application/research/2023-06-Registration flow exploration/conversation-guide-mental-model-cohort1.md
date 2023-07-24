@@ -30,7 +30,7 @@ Today we're going to talk about the health care application process.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [half an hour to an hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about [half an hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -56,10 +56,10 @@ Let’s start with a few warm-up questions.
 ## First Topic: [Current Process] - 5 minutes
 
 - What was your experience like getting setup for that appointment beforehand or did you just walk in?
-- Can you describe your experience with any forms or sign up information that you had to complete to apply to be seen for care? [Not saying your "registration experience, but would they have filled out an EZ?]
-- What was your impression to what benefits or level of care you would qualify for as you were applying/getting care? 
+- Can you describe your experience with any forms or sign up questions that you had to complete to be seen for care? [Not saying your "registration experience, but would they have filled out an EZ in person?]
+- What was your impression to what benefits or level of care you would qualify for as you were doing this? 
 - How would you describe the process after you were seen for care? 
-- Did you have any communication from the VA or information if you were eligible for more health care benefits?
+- How did you recieve any communication from the VA or information if you were eligible to enroll in health care benefits? 
 
 
 ### Things to watch for:
@@ -71,11 +71,10 @@ Let’s start with a few warm-up questions.
 
 ## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
 
-- How did you determine what health benefits you could get when you recently applied or were seen for care?
-- Did anyone help you figure out what you qualify for and what your benefits included?
-- What resources do you use to understand what you might qualify for?
-- Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage?
-- Is there anything that is unclear to you about the application and health benefits eligibility? 
+- How did you determine what health benefits you could get when you recently seen for care?
+- What resources did you use and how to understand what you might qualify for?
+- Did you want to only get care for one specific health concern, or were you interested in enrolling in full health care coverage?
+- Is there anything that is unclear to you about the application and health care benefits eligibility? 
 
 
 ### Things to watch for:
