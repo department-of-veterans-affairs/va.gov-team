@@ -85,7 +85,7 @@
    * Any new work we should be on the lookout for?
    * Any priority shifts?
 * Sprint 77 Planning (Adam)
-   * Review [Sprint 76 SoS board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3) to see what is currently slated
+   * Review [Sprint 77 SoS board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3) to see what is currently slated
 
 ## 7/18/23 Agenda: 
  * SoS is being used this day for Sprint Planning for Sprin 76
