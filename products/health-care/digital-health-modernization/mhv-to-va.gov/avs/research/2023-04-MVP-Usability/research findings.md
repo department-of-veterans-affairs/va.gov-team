@@ -1,7 +1,8 @@
 # After-visit Summary MVP Usability Findings
- <br> 
- <br> 
- <br> 
+
+-  [AVS MVP Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/research-plan.md)
+-  [AVS MVP Prototype](https://www.figma.com/proto/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?page-id=2%3A3&type=design&node-id=1233-16119&viewport=-892%2C210%2C0.4&scaling=scale-down&starting-point-node-id=1233%3A16119)
+-  [AVS MVP Notetaker Participant Transcripts Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/transcripts)
 
  
 ## How this research maps to the Veteran journey
@@ -145,7 +146,7 @@ moderator asked them questions to gain understanding of expectations and satisfa
         * Terminology: 1
         * Medical tasks that need to be completed: 1
 
-    * Participants had not reviewed the prototype yet when they shared this information.
+      **Note:** Participants had not reviewed the prototype yet when they shared this information.
   <br> 
  <br>     
 
@@ -173,7 +174,7 @@ moderator asked them questions to gain understanding of expectations and satisfa
 
          "In person notes are loaded, usually 2 to 3 days after the initial visit, and so
           sometimes, they make people have to wait for the after visit summary; so I
-         request my husband to bring them to me, so that I know what transpired"-Caregiver participant
+          request my husband to bring them to me, so that I know what transpired"-Caregiver participant
 
     **Recommendation:** Within the AVS, add content to inform Veteran/caregiver that lab results are still in progress and send the AVS notification as soon as it is available.
 </br>
@@ -193,8 +194,7 @@ width="709" alt="Finding 5" src="https://github.com/department-of-veterans-affai
 <br>
     **Recommendation:** Don't change the current information architecture plan to include AVS within appointments and care summaries and notes.
 
-<br>
-<br>
+
 
 6. 2 out of 6 participants were confused by the label "Schedule and manage appointments,"
 because the appointment they were looking for occurred in the past.
@@ -236,7 +236,9 @@ because the appointment they were looking for occurred in the past.
 
 8. 7 participants thought that they had to click o the "Details" link to access doctor's instructions or results.
 
-        “It's not allowing me to click on details…It will actually show me the summary notes of the visit, and then, when I click on the lab work well, I don't know if that lab work is part of the 9:50 appointment, or not, because it has a 11:30 a.m. time. I wouldn’t know if that's the next procedure that the doctor wants me to have done.”
+        “It's not allowing me to click on details…It will actually show me the summary notes of the visit, and then, when I click on the lab work well, I don't know if that 
+         lab work is part of the 9:50 appointment, or not, because it has a 11:30 a.m. time. I wouldn’t know if that's the next procedure that the doctor wants me to have 
+   done.”
 
 
 <img 
