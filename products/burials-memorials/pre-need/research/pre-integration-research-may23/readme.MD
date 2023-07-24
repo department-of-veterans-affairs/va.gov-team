@@ -18,7 +18,6 @@ High level questions this research was trying to answer:
 
 ## Key Findings
 
-Add your key findings with markdown formatting from research report after study is finished and move issue card to complete column.
 - Generally, participants found applying simple and straightforward 
     - 10/10 participants were able to complete the pre-need pre-integration application for their specific flow 
     - 4/10 participants did not wish to fill out optional fields, only the required fields 
