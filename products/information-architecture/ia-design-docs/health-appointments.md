@@ -21,6 +21,7 @@ Note: the URL for the after-visit summary is still TBD. It could be just an ID b
 
 ## <a name="urls"></a>URLs and breadcrumbs
 
+**Main URLS**
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 |1. Appointments landing page | https://va.gov/my-health/appointments | VA.gov home > My HealtheVet > Appointments |
@@ -33,6 +34,7 @@ Page | URL | Breadcrumb | Notes
 |8. Pending appointments detail pages | https://va.gov/my-health/appointments/pending/[Request-ID] | < Back to pending appointments |
 |9. Root scheduling URL | https://va.gov/my-health/appointments/schedule/[H1-related-title] | VA.gov home > My HealtheVet > Appointments > [H1 Page Title] |
 
+**Scheduling Flow URLS**
 | Flow                                                   | Internal name                           | H1 Page Title                                  | Current URL                                                                                                           | New URL                                                                       |
 | ------------------------------------------------------ | --------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | All                                                    | Type of care                            | Choose the type of care you need               | https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment                                         | https://va.gov/my-health/appointments/schedule/type-of-care                   |
@@ -78,4 +80,30 @@ These will be documented and updated according to the Phased Rollout Plan.
 ## <a name="redirects"></a>Redirects <br>
 We will need to redirect all of the existing scheduling URLs to the first page of the new scheduling flow: https://va.gov/my-health/appointments/schedule/type-of-care 
 
+
+|Confirmed appointment details page | https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]?confirmMsg=true | https://va.gov/my-health/appointments/[ID]?confirmMsg=true 
+|Confirmed request details page | https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true | https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true 
+|Upcoming and canceled appointments detail pages | https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID] | https://va.gov/my-health/appointments/[ID] 
+|Past appointments detail pages | https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID] | https://va.gov/my-health/appointments/past/[ID]
+|Pending appointments detail pages |  | https://va.gov/my-health/appointments/pending/[Request-ID] 
+
+| Internal name                                                              | Current Staging URL                                                                                 | Redirect to (New URL)                                                                                                                        |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Appointments landing page                                                  | https://va.gov/health-care/schedule-view-va-appointments/appointments                               | https://va.gov/my-health/appointments                                                                                          |
+| Past appointments list                                                     | https://va.gov/health-care/schedule-view-va-appointments/appointments/past                          | https://va.gov/my-health/appointments/past                                                                                     |
+| Appointment requests list                                                  | https://va.gov/health-care/schedule-view-va-appointments/appointments/pending                       | https://va.gov/my-health/appointments/pending                                                                                  |
+| Confirmed VA appointment details page<br><br>(Shows after booking in VAOS) | https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]?confirmMsg=true       | https://va.gov/my-health/appointments/[ID]?confirmMsg=true                                                                     |
+| Upcoming VA appointment details page                                       | https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]                       | https://va.gov/my-health/appointments/[ID]                                                                                     |
+| Past VA appointment details page                                           | https://va.gov/health-care/schedule-view-va-appointments/appointments/past/va/[ID]                  | https://va.gov/my-health/appointments/past/[ID]                                                                                |
+| Canceled VA appointment details page                                       | https://va.gov/health-care/schedule-view-va-appointments/appointments/va/[ID]                       | https://va.gov/my-health/appointments/[ID]                                                                                     |
+| Upcoming CC appointment details page                                       | https://va.gov/health-care/schedule-view-va-appointments/appointments/cc/[ID]                       | https://va.gov/my-health/appointments/[ID]                                                                                     |
+| Canceled CC appointment details page                                       | https://va.gov/health-care/schedule-view-va-appointments/appointments/cc/[ID]                       | https://va.gov/my-health/appointments/[ID]                                                                                     |
+| Past CC appointment details page                                           | https://va.gov/health-care/schedule-view-va-appointments/appointments/past/cc/[ID]                  | https://va.gov/my-health/appointments/past/[ID]                                                                                |
+| Confirmed VA request details page<br><br>(Shows after booking in VAOS)     | https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true | https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true                                                             |
+| Pending VA request details page                                            | https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]                 | https://va.gov/my-health/appointments/pending/[ID]                                                                             |
+| Canceled VA request details page                                           | https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]                 | https://va.gov/my-health/appointments/pending/[ID]                                                                             |
+| Confirmed CC request details page<br><br>(Shows after booking in VAOS)     | https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true | https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true                                                             |
+| Pending CC request details page                                            | https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]                 | https://va.gov/my-health/appointments/pending/[ID]                                                                             |
+| Canceled CC request details page                                           | https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]                 | https://va.gov/my-health/appointments/pending/[ID]                                                                             |
+| All scheduling urls                                                        | Various -- see list above                                                                           | https://va.gov/my-health/appointments/schedule/type-of-care                                                                    |
 
