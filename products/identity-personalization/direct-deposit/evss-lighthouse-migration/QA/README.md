@@ -10,7 +10,7 @@ Last updated: 7/24/2023
 |---|---|
 | PM Ticket for Scenarios | [#54870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54870) |
 | QA Testing Ticket - Sprint 14 7/5-7/18 | [Team QA Testing #54771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54771) |
-| **QA Plan** / Scenarios | [GD Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/QA/Direct%20depost%20for%20compensation%20%26%20pension%20EVSS%20_%20Lighthouse%20migration%20test%20cases%20(1).xlsx) [Spreadsheet uploaded to GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/QA/Direct%20depost%20for%20compensation%20%26%20pension%20EVSS%20_%20Lighthouse%20migration%20test%20cases%20(1).xlsx)|
+| **QA Plan** / Scenarios | [GD Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/QA/Direct%20depost%20for%20compensation%20%26%20pension%20EVSS%20_%20Lighthouse%20migration%20test%20cases%20(1).xlsx) and  [Spreadsheet uploaded to GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/QA/Direct%20depost%20for%20compensation%20%26%20pension%20EVSS%20_%20Lighthouse%20migration%20test%20cases%20(1).xlsx)|
 | QA Fixes Epic| [BE/FE \| Profile \| EVSS>LH \| Direct Deposit C&P \| Post QA Fixes #60945](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60945) |
 
 
