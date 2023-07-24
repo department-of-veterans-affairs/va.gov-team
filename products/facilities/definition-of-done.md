@@ -1,7 +1,7 @@
 # VA Sitewide Facilities Team Definition of Done
 
 Definition of Done
-Sitewide FAcilities Team
+Sitewide Facilities Team
 Created 2/3/2023
 
 “Definition of Done” is to be used as a checklist for every user story (“issue”, “ticket”) in order to call the work “done”. Note that this is a living document and as such will be reviewed and revised at least quarterly.
