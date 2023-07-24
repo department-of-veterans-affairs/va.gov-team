@@ -28,6 +28,7 @@ Last updated Jul 2023
 
 ### UX Research
 * [VA Mobile App - Personalization Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/discovery/research)
+  * Research review of existing VA sources for insights related to personalization in the Benefits & Health spaces.
 
 ### Related links
 **VA Mobile App:**
