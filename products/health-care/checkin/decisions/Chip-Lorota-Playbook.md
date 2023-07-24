@@ -3,7 +3,7 @@
 
 
 ### Table of Contents
-1. [CHIP & Lorota API Pager Incident Response Overview](#overview)
+1. [CHIP & Lorota API Incident Response Overview](#overview)
 2. [VA Systems](#systems)
 3. [Support Hours](#hours)
 4. [Monitoring Process Overview](#monitoring-process)
@@ -33,18 +33,13 @@
       - [SNS Exteral Runtime Response and Upkeep](#runtime-sns)
       - [SSL Certificate Expiration](#ssl)
 
-## CHIP & Lorota API Pager Incident Response Overview <a name="overview"></a>
-This is meant to communicate and establish the ideal response playbook for incidents on pager duty. People who are responsible for pager duty should try to follow these guidelines, and expand upon them if they incur a scenario that is not covered by this
-guide.
-
-This covers CHIP and Lorota pager duty only
+## CHIP & Lorota API Incident Response Overview <a name="overview"></a>
+This playbook is meant to communicate and establish the ideal response to outages and other issues with CHIP and LoROTA. People who are `on call` should follow these guidelines. This is meant to be a living document so people should make corrections and expand upon this playbook as things change and new situations arrise.
 
 ## VA Systems <a name="systems"></a>
-The Patient Check-in experience team will manage the requests submitted by end users of APIs and services exposed for the following systems:
+The Patient Check-in team will manage the requests submitted by end users of APIs and services exposed for the following systems:
 - [CHIP](https://github.com/department-of-veterans-affairs/chip)
 - [LoROTA](https://github.com/department-of-veterans-affairs/lorota)
-- Day of Check-In front-end application
-- Pre-check-in front-end application
 
 Architecture diagrams that show our systems in context can be found here:
 
