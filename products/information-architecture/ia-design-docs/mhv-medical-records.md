@@ -27,8 +27,11 @@ Notes:
 
 User Flow Open Quetions:
 1. If a user doesn't have data to show, will they not have it for all the reports, or could it just be for one report?
-2. Does VHIE apply to ppl who never got VA healthcare? If so, do we still want to show it to them? 
+   Answer: If the user doesn't have data for that particular domain, they can still view data in other domains. We have an informational alert for pages that explains why the page is empty.
+2. Does VHIE apply to ppl who never got VA healthcare? If so, do we still want to show it to them?
+   Answer: VHIE will not apply to people who have never had healthcare.
 3. Users will most likely need help figuring out how to share the VA Health Summary with their provider. What's the right spot to give them that guidance?
+   Answer: We aren't including the VA Health Summary (at least in Phase 0)
 4. How can we make the experience seamless for Veterans who come here from the unauth pages? How can we ensure the content isn't duplicative or contradictory?
 
 
