@@ -82,6 +82,10 @@ We need to reach parity with our new Regional Office/benefits products so we can
   - We need to figure out the user flows into VocRehab facilies and services, since users will be able to get to them from a VAMC site, RO sites, and Facility Locator
 - VBA's Veteran Readiness and Employment sites are both stand-alone but also often times located at VAMCs or Vet Centers(VocRehab is built into the VHA health services taxonomy for this reason)
   - We need to figure out the user flows into VocRehab facilies and services, since users will be able to get to them from a VAMC site, RO sites, and Facility Locator
+ 
+## MVP Scope
+MVP scope is detailed in [Initiative - Design & Build VBA Regional Office MVP #10514](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10514).
+[SE: Initiative - VBA Regional Office modernization #13029](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13029) includes post-MVP issues.
 
 ## VBA Facility types
 
