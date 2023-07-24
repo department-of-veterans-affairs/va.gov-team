@@ -34,8 +34,8 @@
 - [ ] Remove "What kind of disability benefits can I get?" section (if needed)
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 
-- After edits: 
+- Before edits: 14.8
+- After edits: 9.1
 
 - [ ] Backlog ticket for further review created if needed
 
