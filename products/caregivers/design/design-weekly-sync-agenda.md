@@ -1,5 +1,39 @@
 # Design Weekly Sync Agenda
 
+## 2023-07-24
+
+Attendees:  DK, Jessica, Katelyn, Kristen, Heather
+
+**Research organization and planning**
+
+We talked through logistics for our upcoming studies. The goal is to have a primary lead for each research activity and a backup. Two people would take each study.
+
+- Katelyn to lead synthesis on FD
+- Hieu to lead prototype next steps
+- Hieu/DK to take planning on prototype research
+- Jessica/DK on Household study
+- Registration-only: Jessica/Katelyn to take lead
+- Katelyn in Hawaii for Labor Day
+- Sign up for mod. sessions.
+
+[Full planning available in the research planning Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686254946051/07405f6e988a0541dc0983cc5e286ba6fe612cf8?wid=189-1652380184686).
+
+
+
+**Registration-only stuff**
+
+- Same disclosure depending on registration-only flow? Not different for paper form. Still have to agree.
+- Still some questions around the priority of the flows.
+- Kristen/Patrick: Where should it be in the C&P process?
+- This is early work so more coming.
+
+**Memorable date component**
+
+- Version 3 has month picker by name vs. date number. Maybe easier cognitively. Hasn't been tested by Veterans.
+- How many date fields on EZ? Three/four or more. CG is a better testing ground.
+- Maybe tradeoffs for each one would be better to see it all.
+- Katelyn to make a list of tradeoffs for each path and share.
+
 ## 2023-07-17
 
 Attendees:  DK, Jessica, Hieu, Katelyn, Kristen
