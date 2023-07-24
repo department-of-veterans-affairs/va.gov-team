@@ -122,6 +122,7 @@ moderator asked them questions to gain understanding of expectations and satisfa
 1. All participants routinely reviewed information about their
 appointments, tests, and upcoming tasks to complete. The method they utilized to access this information differed.
 
+
 2. The information in the current VA AVS matches the information that participants routinely review after an appointment.
    
 3. The name "After visit summary" matches Veteran/caregiver mental models.
@@ -129,11 +130,11 @@ appointments, tests, and upcoming tasks to complete. The method they utilized to
 4. 7 Veterans mentioned that they sometimes don’t receive appointment summaries or lab
 results until 48 72 hours following the appointment.
 
-5.Participants validated past research that Veterans/caregivers expect
+
+5. Participants validated past research that Veterans/caregivers expect
 AVSs within appointments and care summaries and notes.
 
  <br> 
-
  <br>
  
 **Information Architecture**
@@ -155,7 +156,6 @@ list to include referrals, recall, follow up, or imaging appointments that still
 scheduled.
 
  <br> 
-
  <br>
 
 **AVS content**
@@ -166,7 +166,7 @@ contains a lot of useful information.
 12. A third of the participants saw the AVS as a place to confirm that their providers
 understood what they were trying to convey during the appointment.
 
-13.Even though half of the participants stated the instructions within the "Your treatment plan
+13. Even though half of the participants stated the instructions within the "Your treatment plan
 from this appointment" section were helpful, half of participants also made suggestions toadd information.
 
 14. 8 participants didn't know what a recall appointment was.
@@ -212,8 +212,10 @@ receiving all AVSs for a given day together in one notification.
 know what to do with this information.
 
 3. 2 participants didn't understand the clinic name.
+   
 
-Past AVS experience
+### Past AVS experience
+
 1. All participants routinely reviewed information about their appointments, tests, and upcoming tasks to complete. The method they utilized to access this information differed.
 My HealtheVet: 7
 VA AVS paper printout: 4
@@ -258,6 +260,7 @@ A summary of visit: 1
 Prior-office visit information: 1
 Recommendation: Keep referring to this experience as the "After After-visit summary."
 
+
 4. 7 Veterans mentioned that they sometimes don’t receive appointment summaries or lab results until 48-72 hours following the appointment.
 
 "In person notes are loaded, usually 2 to 3 days after the initial visit, and so
@@ -266,13 +269,20 @@ request my husband to bring them to me, so that I know what transpired"-Caregive
 
 Recommendation: Within the AVS, add content to inform Veteran/caregiver that lab results are still in progress and send the AVS notification as soon as it is available.
 
-Information architecture
+
+### Information architecture
+
 5. Participants validated past research that Veterans/caregivers expect AVSs within appointments and care summaries and notes.
 
 6 participants accessed the AVS via appointments.
 7 participants accessed the AVS via care summaries and notes.
 
 Recommendation: Don't change the current information architecture plan to include AVS within appointments and care summaries and notes.
+
+<img width="709" alt="Finding 5" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/11db9697-a91c-41f3-97bc-1beab1c12369">
+
+ <br> 
+ <br>
 
 
 6. 2 out of 6 participants were confused by the label "Schedule and manage appointments,"
@@ -283,6 +293,10 @@ but I already had [the appointment]. So, it's not really scheduling it,
 but I don't see anything else that would be relevant.”
 Recommendation: Review past appointment research into this label and add this as a research question to future studies. If evidence continues to suggest Veteran/caregiver confusion, then make changes to the label.
 
+<img width="152" alt="Finding 6" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/2161f2fc-b425-4731-bdc6-7fc10223afd3">
+
+ <br> 
+ <br>
 
 7. When already on the AVS page, 6 participants thought they needed to click on the "Details" link to view the needed to click on the "Details" link to view the AVS.
 Example workflow from one participant:
@@ -291,31 +305,51 @@ Chose the "Details" link, where they expected to see
 doctor's recommendations, follow ups, and referrals.
 
 Recommendation: Remove the "Details" link.
-8. 7 participants thought that they had to click o the "Details" link to access doctor's instructions or
-results.
-“It's not allowing me to click on details…It will actually show me the
-summary notes of the visit, and then, when I click on the lab work well,
-I don't know if that lab work is part of the 9:50 appointment, or not,
-because it has a 11:30 a.m. time. I wouldn’t know if that's the next
-procedure that the doctor wants me to have done.”
+
+
+<img width="161" alt="Findings 7" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/2e665ce8-fa23-46bb-b6eb-9466a097ca75">
+
+
+<img width="161" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/73fbb1ed-f1fe-4dfd-b8b9-5496fd17ca17">
+
+ <br> 
+ <br>
+
+
+8. 7 participants thought that they had to click o the "Details" link to access doctor's instructions or results.
+“It's not allowing me to click on details…It will actually show me the summary notes of the visit, and then, when I click on the lab work well, I don't know if that lab work is part of the 9:50 appointment, or not, because it has a 11:30 a.m. time. I wouldn’t know if that's the next procedure that the doctor wants me to have done.”
 
 Recommendation: Remove the "Details" link.
 
+<img width="169" alt="Findings 8" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/2cc8f83e-d31f-43bf-a748-bcb76d63b8b2">
 
-9. 10 participants easily navigated from one AVS to another using the back breadcrumb.
-Some of the other locations the 3 participants tried to click on to navigate were:
-Collapsing the AVS accordions
-Scrolling to the bottom of the page
-Clicking the Hector profile icon
+ <br> 
+ <br>
+
+9. 10 participants easily navigated from one AVS to another using the back breadcrumb. Some of the other locations the 3 participants tried to click on to navigate were:
+Collapsing the AVS accordions Scrolling to the bottom of the page Clicking the Hector profile icon.
+
 Recommendation: The navigational structure (back buttons) can remain the same.
 
 
-10.3 out of 6 participants, who reviewed the appointments section, expected the "pending"list to include referrals, recall, follow up, or imaging appointments that still need to be scheduled.
-All participants correctly assumed this list weren't confirmed appointments. 
+<img width="126" alt="Findings 9" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/9ac19b7b-29e5-48d1-b00f-4344e342552c">
+
+ <br> 
+ <br>
+
+10.3 out of 6 participants, who reviewed the appointments section, expected the "pending"list to include referrals, recall, follow up, or imaging appointments that still need to be scheduled. All participants correctly assumed this list weren't confirmed appointments.
+
 "I would expect to see the...ones that...I've either requested myself...or another provider has put into the system, but they haven't been confirmed yet, either by me or the other person."
+
 Recommendation: Conduct further research when adding referrals and recalls to the appointment list.
 
-AVS content
+<img width="142" alt="Findings 10" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/a0fdb8ad-2882-4322-b249-cd17d0a22021">
+
+ <br> 
+ <br>
+
+### AVS content
+
 11. Overall, the majority of participants had a very positive response to the AVS and stated it
 contains a lot of useful information.
 "It looks pretty thorough, and I like the way it's sectioned out…I think it kind
@@ -392,7 +426,7 @@ Recommendation: Ensure that the AVS product has a good print stylesheet and an a
 
 
 
-Medications
+### Medications
 20. 8 participants interpreted the "Medications administered at the clinic" section incorrectly.
 Participants assumed the medication:
 would be received during a later visit.
@@ -458,7 +492,8 @@ reminding myself to check back and look for it.”
 
 Recommendation: Start with separate notification for each AVS. Then, explore expanding to one notification for each day in the future as another option.
 
-Secondary findings
+## Secondary findings
+
 1. 2 participants mentioned it would be helpful having more phone information.
 1 participant suggested having live phone links to call:
 “If you made the phone number a link, so if…I’m
