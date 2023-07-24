@@ -6,16 +6,16 @@
 - [Recruitment diversity checker spreadsheet](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1367041690)
 
 
-## Planned timeline
+## Timeline
 
 | Stage | Dates |
 | --- | --- |
-| Planning | Complete by April 14 |
-| Recruiting | April 19 - 21 |
-| Pilot | April 21 |
-| Sessions | April 26 - May 5 |
-| Analysis | May |
-| Socialize findings | May/June |
+| Planning | Complete by April 14, 2023|
+| Recruiting | April 19 - 21, 2023 |
+| Pilot | April 21, 2023 |
+| Sessions | April 26 - May 5, 2023 |
+| Analysis | May 2023|
+| Socialize findings | May/June 2023|
 
 ## Background
 
