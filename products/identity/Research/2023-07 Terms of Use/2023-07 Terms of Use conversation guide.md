@@ -35,7 +35,10 @@
 - Make sure everyone is muted except moderator (me) and the participant
 - Check you are logged out of Zoom on your phone
 - Have the Zoom meeting ID handy for phone join later in session (it can be found in the cal invite!)
-- Have link to [prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) handy for phone join later in session
+- Have link to prototype handy for phone join later in session
+   - [Desktop prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=1-493&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=1%3A493&mode=design)
+   - [Mobile prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=319-274&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=319%3A274&mode=design)
+
 
 
 ## Starting the Session | 5 minutes
@@ -102,11 +105,12 @@ Are you comfortable with that?
 ## Round 2, Task - Prototype | 15-20 minutes
 - Ok so now I’d like to take a look at the prototype design. Just a quick reminder that this is a website design that we are thinking about using. It may look like the real VA.gov but it won’t be, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
 - I’m going to send you a link in the Zoom chat.
-   - Desktop prototype link
-   - Mobile version link
+   - [Desktop prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=1-493&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=1%3A493&mode=design)
+   - [Mobile prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=319-274&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=319%3A274&mode=design)
 - Let me know if you have any issues opening up that link
 - Once you get that up, I’ll also ask that you share your screen
-   - Screen share help if needed [to link]
+   - [Mobile screen share help]((https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+   - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom) 
 - Ok so let’s imagine that you are going onto VA.gov to [DO TASK FROM EARLIER]
 - Does this page look like where you would normally go?
    - [IF normally uses MHV have them imagine they need to sign into VA.gov for another reason]
