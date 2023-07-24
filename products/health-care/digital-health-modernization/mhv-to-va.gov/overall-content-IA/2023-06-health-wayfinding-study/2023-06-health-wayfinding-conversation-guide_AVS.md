@@ -172,6 +172,34 @@ _Ask these questions if did not ask them in the AVS task:_
 - Where would you put your disability resources and your health resources? What about education benefits? Housing benefits? 
 - (_Ask participant to click between My VA and My HealtheVet pages_): If you were to describe these two pages to another Veteran, how would you explain them?
 
+- On Desktop:
+
+
+
+* Look at the top left corner.  Do you see “VA Benefits and Health Care”? [once they have identified it] 
+    * What comes to mind when you read “VA Benefits and Health Care”? 
+    * What would you expect to find there?  
+    * What do you think you could do there?
+    * If it was up to you, where would you put it?
+
+On Mobile:
+
+
+
+* Look at the top left corner.  Do you see “Menu”? 
+    * What comes to mind when you see “Menu”?
+    * What would you expect to find there?
+    * What do you think you could do from “Menu”?
+
+    [have them click Menu]
+
+* Can you tell me what you are looking at? Does it meet what you expected? 
+* Do you see “VA Benefits and Health Care”?
+    * What comes to mind when you read “VA Benefits and Health Care”? 
+    * What would you expect to find there?  
+    * What do you think you could do there?
+    * If it was up to you, where would you put it?
+
 **Priority Group questions**
 
 Thank you for showing me how you would navigate around this site. Now that you are more familiar, I'd like to ask you a couple of final questions. 
