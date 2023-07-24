@@ -58,11 +58,11 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/requests`
+New URL: `https://va.gov/my-health/appointments/pending`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/pending`
 
-Page title: `Requests | Veterans Affairs`
+Page title: `[Page header] | Veterans Affairs`
 
 Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Pending appointments`
 
