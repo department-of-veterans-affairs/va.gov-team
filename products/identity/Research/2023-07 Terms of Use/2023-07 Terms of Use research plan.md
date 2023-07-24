@@ -1,5 +1,4 @@
-# Research Plan for [Identity, Terms of Use, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for Identity, Terms of Use, 2023-07
 
 ## Background
 VA would like everyone utilizing VA.gov and it's surrounding sites and services to be presented with a unified version of the Terms and Conditions that they will have to agree to in order to continue utilizing the authenticated experience
@@ -26,8 +25,7 @@ Securely accessing VA online services can happen at any stage in the [Veteran jo
 
 ### Outcome
 
-- Validate the prototype’s usability.
-- Learn what pain points the current design has with various audiences - especially since this page will be a precursor to continuing to use the authenticated experience, we need the design to be as smooth and usable as possible to the everyone
+Learn what pain points the current design has with various audiences - especially since this page will be a precursor to continuing to use the authenticated experience, we need the design to be as smooth and usable as possible for everyone.
 
 
 ### Research questions
@@ -40,8 +38,9 @@ Securely accessing VA online services can happen at any stage in the [Veteran jo
 
 ### Hypothesis
 
-- Veterans will see needing to agree to updated terms as a nuisance
-- Veterans will opt to click past this as quickly as possible, including by not reading any long paragraphs of updated terms, so they can move on to their task at hand.
+- Veterans will be familiar with terms of use from other sites and a
+- Veterans will see needing to agree to an updated terms with VA as a nuisance
+- Veterans will opt to click past this as quickly as possible, including by not reading any long paragraphs, so they can move on to their task at hand.
 
 
 ## Methodology	
@@ -51,7 +50,7 @@ Remote usability testing will evaluate the prototype with participants. We’ll 
 
 ### Research materials 
 
-- [Conversation guide]() 
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4ad93a47df328dc862a3f90556cba0d3266723fe/products/identity/Research/2023-07%20Terms%20of%20Use/2023-07%20Terms%20of%20Use%20conversation%20guide.md)
 - [modal prototype](https://www.figma.com/file/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=0-1&mode=design&t=fFYcQAIlkNWAQ2sn-0)
 	
 ## Recruitment	
