@@ -51,10 +51,8 @@ Before we start, a few things I want to mention:
 Let’s start with a few warm-up questions.
 
 - Are you currently enrolled and using health care benefits from the VA? 
-- How often do you visit a VA facility? (if answered yes)
+- How often do you visit a VA facility?
 - How often do you visit VA.gov?
-- Do you receive other benefits from the VA in addition to your medical benefits?
-
 
 ## First Topic: [Current Process] - 10 minutes
 
@@ -63,7 +61,7 @@ Let’s start with a few warm-up questions.
 - Anything that stood out to you?
 - Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
-- Was it clear to you as you were applying, what benefits you would qualify for? 
+- How was it made clear to you as you were applying, what benefits you would qualify for? 
 - How would you describe the process that happened after you applied, such as the communications from the VA, things you had to do, etc.?
 - Was it clear to you how your application answers impacted your benefits?
 - When it comes to registering and health care at the VA, what does that mean to you?
@@ -79,8 +77,7 @@ Let’s start with a few warm-up questions.
 ## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
 
 - How did you determine what health benefits you could get when you recently applied or were seen for care?
-- Did anyone help you figure out what you qualify for and what your benefits included?
-- What resources do you use to understand what you might qualify for?
+- What resources did you use and how to understand what you might qualify for?
 - Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage?
 - Looking back now after you have been using health care benefits, is there anything you wish you would have known during the application?
 
@@ -88,7 +85,6 @@ Let’s start with a few warm-up questions.
 - [How does the Veteran descirbe the process of figuring out what they are eligble for - are they frustrated, do they find it easy, do they just expect the VA to have the data and figure it out for them?]
 - [Is there a mix or preference for wanting to be told what they get or search it out on their own?]
 - [Is there any confusion about their benefits within the health care benefits they recieve?]
-- [Do they know and mention their Priority Group during these questions?]
 
 
 ## Third Topic: [Ideal State] - 10 minutes
