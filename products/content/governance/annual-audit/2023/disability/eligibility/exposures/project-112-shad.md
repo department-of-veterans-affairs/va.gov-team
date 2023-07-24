@@ -53,8 +53,8 @@ You can also call the Defense Health Agency exposure information hotline at 800-
 - You have other questions about the tests
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 8.5
-- After edits: 10.2
+- Before edits: 15.2
+- After edits: 10.3
 
 - [ ] Backlog ticket for further review created if needed
 
