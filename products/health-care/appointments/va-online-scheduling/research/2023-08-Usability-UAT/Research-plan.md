@@ -2,20 +2,78 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and manage their appointments.
+
+The VA Online Scheduling team has worked to evaluate the usability of the existing appointment list. A redesign of the appointment list was created based on the [feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-appts-list-usability/research-findings.md) during Veteran research sessions. The usability of the redesign was then tested with Veterans and the findings were incorporated in updated designs. The VA Online scheduling team now seeks feedback from Veterans using screenreaders to validate the changes made to the appointment list for low and non-sighted Veterans. 
+
+Also see [Product's initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/appointment-list/product-outline-appointment-list-2022.md).
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
 
-### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+-   Veterans and their families can find a single, authoritative source of information
+-   Logged-in users have a personalized experience, with relevant and time-saving features
+
+Increase 📈
+
+-   Veteran satisfaction with VA.gov: by providing an after visit summary, a print functionality on the appointment list page, and ease of navigation with updated breadcrums.
+-   
+Decrease 📉
+
+-   Call center volume, wait time, and time to resolution: by providing the right information about appointments when Veterans need it.
+
+### Veteran journey
+
+Veterans may interact with VAOS at different stages across the [veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
+
+Starting up
+
+-   MTM: Attending to health needs
+
+Taking care of myself
+
+-   MTM: Recognizing and addressing mental health needs
+-   MTM: Managing health issues
+
+Putting down roots
+
+-   Maintaining my emotional health
+-   Engaging VA to access benefits and services
+
+Retiring
+
+-   MTM: Taking care of my health
+-   MTM: Managing my declining health
+
+Research goals
+--------------
+
+The goal of this research is to twofold verify that logged in Veterans are able to utilize recently added features (UAT) and also to understand their mental models as they navigate through Appointments with the updated navigation chenages (Usability). 
+
+
+### Outcome
+
+We will use the findings to:
+
+- To understand and validate assumptions around the current facility/clinic selection process for direct scheduling.
+- To understand and validate assumptions around the current provider selection for Community Care appointments. 
+- To validate the print button design or make iterations based on feedback. 
+- Validate breadcrumb and URL updates.
+- Validate the changes to the navigation descriptive back link.
+- Validate the After-visit summary is populating with user data as expected. 
+
+### Hypotheses
+
+When logged in Veterans are in the appointments feature on VA.gov:
+
+-   They will be able to navigate their appointments as expected.
+-   They will be able to print a list of their (upcoming, pending, past) appointments. 
+-   They will be able to find the information they need to attend/join their appointments.
+-   They will be able to find and review their after visit summary
+
+
 
 ## Research Goals	
 What are you trying to learn from this research? 
