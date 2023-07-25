@@ -4,7 +4,7 @@
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/preferred-date-cc-request`
+New URL: `https://va.gov/my-health/appointments/schedule/community-request`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/request-date`
 
@@ -41,7 +41,7 @@ Choose your preferred date and time for this appointment. You can request up to 
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/closest-city-cc-request`
+New URL: `https://va.gov/my-health/appointments/schedule/community-request/closest-city`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-closest-city`
 
@@ -95,7 +95,7 @@ Please provide a response
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/preferred-provider-cc-request`
+New URL: `https://va.gov/my-health/appointments/schedule/community-request/preferred-provider`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/community-care-preferences`
 
@@ -196,7 +196,7 @@ Selected Provider
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/preferred-language-cc-request`
+New URL: `https://va.gov/my-health/appointments/schedule/community-request/preferred-language`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/community-care-language`
 
@@ -247,7 +247,7 @@ Choose a preferred language
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/reason-cc-request`
+New URL: `https://va.gov/my-health/appointments/schedule/community-request/reason`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/reason-appointment`
 
@@ -289,7 +289,7 @@ Please let us know any additional details about your symptoms that may be helpfu
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/contact-information-cc-request`
+New URL: `https://va.gov/my-health/appointments/schedule/community-request/contact-information`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/contact-info`
 
@@ -369,7 +369,7 @@ Please enter a valid email address
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/review-cc-request`
+New URL: `https://va.gov/my-health/appointments/schedule/community-request/review`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review`
 

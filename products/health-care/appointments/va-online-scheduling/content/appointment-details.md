@@ -16,7 +16,7 @@
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/requests/[ID]?confirmMsg=true`
+New URL: `https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true`
 
@@ -98,7 +98,7 @@ Phone number: {phone number}
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/requests/[ID]`
+New URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
@@ -170,7 +170,7 @@ Phone number: {phone number}
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/requests/[ID]`
+New URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
@@ -1389,7 +1389,7 @@ You shared these details about your concern
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/requests/[ID]?confirmMsg=true`
+New URL: `https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]?confirmMsg=true`
 
@@ -1494,7 +1494,7 @@ Phone number: {phone number}
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/requests/[ID]`
+New URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
@@ -1586,7 +1586,7 @@ Phone number: {phone number}
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/requests/[ID]`
+New URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
 Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/requests/[ID]`
 
