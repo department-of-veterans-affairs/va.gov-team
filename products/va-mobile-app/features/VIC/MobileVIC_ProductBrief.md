@@ -187,6 +187,7 @@ Currently,the processes for acquiring a VIC card are cumbersome and long and not
 - [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)
 - [H.R.91 - 114th Congress (2015-2016): Veterans Identification Card Act 2015](https://www.congress.gov/bill/114th-congress/house-bill/91) 
 - [Military Info, Profile Research Findings - Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience - 03/20203](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#military-info-profile-research-findings)
+- [List of current approved forms of Veteran ID card](https://www.va.gov/records/get-veteran-id-cards/)
 
 
 ### Notes from VIC Meeting
