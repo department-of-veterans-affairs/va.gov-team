@@ -1,4 +1,4 @@
-**Sprint 0 Product Brief- Deep Linking**
+# Sprint 0 Product Brief- Deep Linking
 
 **Problem Statement**
 Today, the deep linking functionality does not exist in the Mobile App.
