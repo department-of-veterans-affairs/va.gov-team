@@ -1,6 +1,8 @@
 # VA Mobile App - Personalization
 Last updated Jul 2023
 
+The VA mobile team has explored the concept of Personalization several times (2021, 2022) from a product, discovery, and design perspective.
+
 ### Product
 * [DRAFT: VA Mobile App Personalization Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalization-Product-Brief-2022.md) (2022)  
   * WIP product brief.
@@ -12,8 +14,9 @@ Last updated Jul 2023
 * **Personalization 2022 (May-Jun 2022):**
   * [DRAFT: VA Mobile app: Personalization - Design Strategy Worksheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-design-strategy-worksheet.md)
     * WIP design strategy
+  * [VA Mobile App - Personalization Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/discovery/research)
+    * Research review of existing VA sources for insights related to personalization in the Benefits & Health spaces.
   * [UX Discovery Questions: VA App Personalization](https://docs.google.com/document/d/1eB8t02SWEjpiAmoSN_WuRqWYBjS_j-V2/edit)
-
 
 
 * **Earlier exploratory activities (Nov 2021 - Jan 2022):**
@@ -31,8 +34,7 @@ Last updated Jul 2023
     * [Discovery & notes docs (GDrive Folder)](https://drive.google.com/drive/folders/1ERxsNiNfAQfRosRGHRrh3e0ovCDevzcg)
 
 ### UX Research
-* [VA Mobile App - Personalization Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/discovery/research)
-  * Research review of existing VA sources for insights related to personalization in the Benefits & Health spaces.
+
 
 ### Related links
 **VA Mobile App:**
