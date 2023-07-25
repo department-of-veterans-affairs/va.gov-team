@@ -1,7 +1,7 @@
 
-# Product Outline - Personalized Menu
----
-Last Updated: 7/25/2023
+# Product Outline: Personalized Menu
+
+**Last Updated: 7/25/2023**
 
 ## Overview
 When logged in, upon clicking the user’s name in the top right of the screen, there is a mini-menu. This product has been live for some time and has not been modified/updated. 
