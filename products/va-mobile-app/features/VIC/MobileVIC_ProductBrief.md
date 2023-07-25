@@ -48,6 +48,9 @@ Currently,the processes for acquiring a VIC card are cumbersome and long and not
   * The VIC law is prescriptive and doesn’t include funding so Veterans need to pay to print the card which is not worth it.
   * The photo is the hardest part, needs to be approved and holds up the process.  The photo is part of the law.  We may be able to bypass that if we do something that isn’t technically the VIC but serves the same purpose but could be automated.
   * There is an ID # on the card
+  * VA and non VA health systems interested in leveraging a veteran status proof in mobile app. sample use cases in non-VA health systems:
+  	* veteran shows up at non VA ER in acute suicidal crisis. VA will cover the cost of that care - regardless of whether veteran is enrolled in VA health care. Health system knowing that this person is a veteran allows them to get treated and reimbursed
+     	* Veteran gets care at private health system may be eligible for care under PACT act. If system knows they are a veteran, they can make other HIPAA covered clinical calls to help support veteran care.
 
 ### Pain Points
 * Acquiring a VIC is time consuming
@@ -92,6 +95,7 @@ TBD
 * ID needs to be available offline
 * Must have non-dishonarable discharge
    * [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) has this data
+   * so does this API https://developer.va.gov/explore/api/veteran-confirmation
 
 ### Measuring success
 #### feature engagement:
