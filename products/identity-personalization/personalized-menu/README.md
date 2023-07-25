@@ -11,7 +11,7 @@
 
 #### OCTO team
 
-[This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles] in partnership with the Sitewide/Public Websites team.
+[This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles) in partnership with the Sitewide/Public Websites team.
 
 ## Overview
 When logged in, a menu labeled with the user's name appears in the upper-right corner of the screen. This personalized menu links to three personalized spaces -- My VA, the VA.gov profile, and the MHV landing page. In the 5+ years this menu has been live on VA.gov, we've done very little in the way of exploring how it could better support users.
