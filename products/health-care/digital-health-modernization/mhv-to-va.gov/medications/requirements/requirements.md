@@ -6,8 +6,8 @@
 |----------------| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 4/26/23        | Coulton Bunney   |Created document                                                                                                     |
 | 4/27/23        | Coulton Bunney   |Added initial draft of overview and use cases                                                                        |
-| 4/28/23        | Coulton Bunney   |Added initial draft of requirements                                                                        |
-7/20/23            Kay Lawyer        Updated to match design and logic 
+| 4/28/23        | Coulton Bunney   |Added initial draft of requirements                                                                                  |
+| 7/20/23        | Kay Lawyer       |Updated to match design and logic                                                                                    |
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,9 +15,10 @@
 - [Requirements](#requirements)
 
 ## Overview
-This document lays out the requirements for the MVP version of Medications on VA.gov we plan to ship to Phase 0. We expect additional functionality to be iteratively added to the tool over time during the phased rollout. 
+This document lays out the requirements for Medications on VA.gov. It is broken out by the phases. We expect additional functionality to be iteratively added to the tool over time during the phased rollout. 
 
-## MVP Phase 0 Use cases
+## MVP Phase 0 
+### Use cases
 1. Phase 0- landing page to describe the tool and FAQs for the tool. Beyond Phase 1, FAQs about the tool will be put in a general help session for MHV on va.gov. 
 2. As a user, I can see a list of all the medications I have on file with the VA. This includes both active medications and inactive/historical medications, and non-VA medications captured by VA staff. For the MVP, this does not include medications that are only on file at Cerner-based VA facilities OR medications self-entered by the Veteran.  
 3. As a user, I understand which of my VA prescriptions are fillable, refillable, which need renewed, and which cannot be renewed. 
@@ -55,28 +56,29 @@ This document lays out the requirements for the MVP version of Medications on VA
     * For each past renewals
       * Date and time of renewal
       * Person who renewed
-12. Use of pagination to show all passt medications- not separate space to show meds. 
+12. Use of pagination to show all past medications- not separate space to show meds. 
 
-## Requirements
+###  Requirements
 
-There should be two primary page patterns for medications
+There should be three primary page patterns for medications
 - List view of all medications on file at the VA
 - Details view for each medication in list
-- Print/Download medications
+- Temporary landing page for users
 
 ---
-### Page: List view
+#### Page: Temporary Landing Page
 
-#### H1: About Medications
-Details details**
+#### Page: List view
 
-#### H1
+##### H1
 Medications
 
-#### Print or download this list
-- Must include **need to get details again from Coulton**
+##### Print or download this list
+* Print page + allergy list
+* Download this medication record + allergy list as PDF
+* Download this  medication record + allergy list as TXT
 - 
-#### Content
+##### Content
 * Inform user what is included in the list of medications 
 * Inform user what is not included in the list of medications 
 * Link to glossary of status and date definitions 
@@ -91,13 +93,9 @@ Medications
     * After 15 days, do not show the tracking number
 
 #### Possible alerts
-* Tell patient to go to Cerner to manage prescriptions
-* Tell patient if a med was unable to be filled due to issue. This should be a dismissable alert.
+
 
 #### Functionality 
-* Print medication list + allergy list **Move to separate section**
-* Download medication history + allergy list as PDF
-* Download medication history + allergy list as TXT
 * Filter list by status
 * Available to fill or refill-- then listed by the one that hasn't been filled until last **UPDATE** 
 * Link to allergies list
@@ -108,13 +106,15 @@ Medications
 * List should be paginated, with 20 medications per page
 * Learn more about a status in context
 * Renewals should append to current Rx and will show that there are additional refills
-* Renewal of medication if exactly the same would then 
+* Renewal of medication if exactly the same would then
+* Alert patient to go to Cerner to manage prescriptions
+* Alert patient if a med was unable to be filled due to an issue. This should be a dismissable alert. 
 ---
-### Page: Details view
-#### H1
+#### Page: Details view
+##### H1
 < Name and dosage of medication >
 
-#### Content 
+##### Content 
 Details should include 
 * About
 * Rx #
@@ -144,10 +144,14 @@ Details should include
     * For each past renewals
       * Date and time of renewal
       * Person who renewed
+      * 
+##### Functionality 
 
-#### Possible alerts
-
-Tracking alert that shows
+* Link to allergies list
+* Ability to refill this prescription (when applicable)
+* Ability to renew this prescription (when applicable)
+* Learn more about a status in context
+* Tracking alert that shows
 * For each package in shipment
   * Tracking number and link 
   * Date shipped
@@ -158,24 +162,14 @@ Tracking alert that shows
 Fill or refill error alert
 * Tell patient if a med was unable to be filled due to issue. \
 * This should be a dismissable alert
-
-
-#### Functionality 
-* Print page + allergy list
-* Download this medication record + allergy list as PDF
-* Download this  medication record + allergy list as TXT
-* Link to allergies list
-* Ability to refill this prescription (when applicable)
-* Ability to renew this prescription (when applicable)
-* Learn more about a status in context
 ---
-### Refilling a medication
+#### Refilling a medication
 * When a med is active, a refill is not in process, and there are refills left, a user should be able to request a refill by pressing a button. 
 * For the first version of this tool, a user must click refill on each individual meds. There is no bulk med refill functionality. 
 * When a prescription refill is in process, remove the ability to refill and provide a pithy explainer that the refill is in process. The button should be replaced by the estimated fill date. 
 * Once a med has been dispensed, start the process over again.
 
-### Renewing a medication
+#### Renewing a medication
 For MVP:
 * 15 days before X date (need to decide which one), alert user that a VA prescription has **no** refills left and what actions a user should take to get a VA prescription renewed. 
 
@@ -184,5 +178,6 @@ Post MVP:
 * When pressing the action link, initiate a pre-filled secure message to the ordering provider's triage group. In this screen, also provide a number to call AudioCare. A user should be able to edit the triage group name and also add a note.
 * Process form or something that shows where the prescription is in the process
 
+## MVP Phase 1
 
-
+## MVP Phase 2
