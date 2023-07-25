@@ -103,7 +103,7 @@ Are you comfortable with that?
    - [Mobile prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=319-274&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=319%3A274&mode=design)
 - Let me know if you have any issues opening up that link
 - Once you get that up, I’ll also ask that you share your screen
-   - [Mobile screen share help]((https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+   - [Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
    - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom) 
 - Ok so let’s imagine that you are going onto VA.gov to [DO TASK FROM EARLIER]
 - Does this page look like where you would normally go?
