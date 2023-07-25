@@ -29,14 +29,16 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - fetch demographics statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61031)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - fetch appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61032)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - error response/failed validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61033)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - reporting](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61034)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - fetch appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61032) 
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to patch demographic-confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61123)      
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create Service class with initialize method with a new set of tenant parameters](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62093)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add token method to the Service class to call CHIP token endpoint](https://github.com/department-of-veterans-affair)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create private token method in service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62095)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to post authenticated-check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61124)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to patch demographic-confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61123)              
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to post authenticated-check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61124)            
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Add method to get demographic-confirmations to the Service class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61122)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create private token method in service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62095)
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Create Final Wireframes to Include Appointment List Disclaimer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62160)
