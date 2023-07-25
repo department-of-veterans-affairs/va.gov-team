@@ -9,9 +9,9 @@ Ask VA (AVA) is an online portal that allows Veterans, caregivers, and others to
 Through moderated usability testing with submitters we will use high-fidelity Sketch prototype(s) to learn how they expect to answer questions, review an ongoing or past inquiry and get help if they encounter an issue. We will test on mobile.
 
 ## Research Goals
-* Understand how submitters expect to answer questions and in which order
-* Understand what submitters expect to see when they review a past or ongoing inquiry
-* Understand whether submitters know where to get help or what they will do if they encounter an issue
+* Understand how submitters expect to answer form fields and in which order
+* Understand if submitters are clear when to authenticate and the benefits
+* Understand how submitters expect to review an ongoing or past inquiry
 
 ## Recruitment
 We will recruit through Perigean.
