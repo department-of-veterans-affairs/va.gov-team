@@ -25,6 +25,7 @@ We want to provide the veteran with the best user experience possible in order t
 **MVP Q3 Decisions** (High Level)
 
 1. Secure Messaging vs Appointments- Deep Linking via SECURE MESSAGING for MVP
+
 More volume of users was noted currently for appts, however we would like to go with secure messaging as it poses the least complication overall
 
 2. Deep Link to Inbox
@@ -57,12 +58,12 @@ TBD
 
 **Open Questions**
 
-Preference is to implement Deep Linking with secure messaging vs appointments. Tech Spike-Deciding the LOE/Risk Levels  if we need it for secure messaging (preference) vs appointments? (need all eventually) 
+Preference is to implement Deep Linking with secure messaging vs appointments. MVP- Secure Messaging (Q3) with phased approach for next steps with Deep Linking (ex: deep linking with apppts).
 
 1. Are there any other expected outcomes besides the having the deep linking functionality working for one or the other? (Besides the listed below)
 -Better Seamless User Experience
 
-2. Do Later have the conversion or retention rate increase in the app as a measure of success?
+2. Do we late mesaure conversion or retention rate increase in the app as a measure of success?
 
 3. Will we need Content Support?
 
