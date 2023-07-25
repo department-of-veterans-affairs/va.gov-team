@@ -14,12 +14,12 @@ Last updated by @tygindraux: July 25, 2023
 
 ### Day of the session
 
-- [ ] Open a thread in #feedback-backchannel 10-20 minutes before the session
+- [ ] Open a thread in `#feedback-backchannel` 10-20 minutes before the session
 - [ ] Open the prototype and be ready to screen share if needed
 - [ ] Open the conversation guide
 - [ ] Mute your Slack notifications and find your headphones
 - [ ] Log into the Perigean Zoom meeting (you will be the host)
-- [ ] Turn on transcriptions by clicking ‘LIVE TRANSCRIPT’ and ‘ENABLE’
+- [ ] Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
 - [ ] Make sure participants have permission to share screen
 
 ### Starting the session
