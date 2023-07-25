@@ -66,6 +66,12 @@ body:
     validations:
       required: false
   - type: input
+    id: slack-channel
+    attributes:
+      label: Public DSVA Slack channel for VFS team
+    validations:
+      required: true
+  - type: input
     id: start-date
     attributes:
       label: When did/will you start working on this product/feature?
@@ -152,8 +158,8 @@ body:
   - type: checkboxes
     id: notify-slack
     attributes:
-      label: Notify the Collaboration Cycle team of this ticket in the vfs-platform-support Slack channel.
-      description: See ["Getting help from the Platform in Slack"](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
+      label: Notify the Collaboration Cycle team of this ticket in your team's public Slack channel.
+      description: After creating this ticket, post the keyword "collab-cycle-kickoff" in your Slack channel and follow Slackbot's instructions.
       options:
         - label: I acknowledge that I must notify \#vfs-platform-support after submitting this issue.
           required: true
