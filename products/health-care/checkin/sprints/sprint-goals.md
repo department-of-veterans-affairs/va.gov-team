@@ -8,10 +8,9 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Submit Mileage-Only Claim during Check-in**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
+     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
      - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
      - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
-     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
-     - **Sub Goal: Create Veteran FAQ**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
 
@@ -28,6 +27,9 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Figure out how to decrease No's to filing for travel](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/62272)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change "verify" to "confirm"](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59162)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
+    - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
+        - Pilot ends July 31; need decision from Kay/IVC about whether to provide it to everyone
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Create 11 x 17 Poster Size](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62518)
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - fetch demographics statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61031)
@@ -46,12 +48,9 @@ ________________________________________________________________________________
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Spike] [UX] Determine which direction between 59165 and 59121 regarding h1's](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/62345)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Need better solution to let users know they have actions to complete on confirmation page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/62347)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add in headings to the caution alerts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/61670) 
-        - **EPIC: [Unified Pre-Check-in/Check-in Experience - Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60971)**
+        - **EPIC: [Unified Check-in Experience - Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60971)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [SPIKE] Do we use dismissible alerts or not?](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/57894)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Is there an issue navigating months on the appt list for screen readers?](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/61604)                     
-    - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
-        - Pilot ends July 31; need decision from Kay/IVC about whether to provide it to everyone
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Create 11 x 17 Poster Size](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62518)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62169)    
