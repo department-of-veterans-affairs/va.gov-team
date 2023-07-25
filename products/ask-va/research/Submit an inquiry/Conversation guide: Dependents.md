@@ -2,7 +2,7 @@
 
 Ask VA Integration Team, July 2023
 
-Last updated by @tygindraux: July 20, 2023
+Last updated by @tygindraux: July 25, 2023
 
 ## Moderator logistics
 
@@ -14,12 +14,12 @@ Last updated by @tygindraux: July 20, 2023
 
 ### Day of the session
 
-- [ ] Open a thread in #feedback-backchannel 10-20 minutes before the session
+- [ ] Open a thread in `#feedback-backchannel` 10-20 minutes before the session
 - [ ] Open the prototype and be ready to screen share if needed
 - [ ] Open the conversation guide
 - [ ] Mute your Slack notifications and find your headphones
 - [ ] Log into the Perigean Zoom meeting (you will be the host)
-- [ ] Turn on transcriptions by clicking ‘LIVE TRANSCRIPT’ and ‘ENABLE’
+- [ ] Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
 - [ ] Make sure participants have permission to share screen
 
 ### Starting the session
@@ -31,7 +31,7 @@ Last updated by @tygindraux: July 20, 2023
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is **[TYLER or BECKY]**, I’m a researcher from the VA.
+Thanks for joining us today! My name is `TYLER OR BECKY`, I’m a researcher from the VA.
 
 I work on improving VA.gov so it's easier for Veterans to contact the VA online if they have a question.
 
@@ -46,18 +46,18 @@ Now before we get started, there are a few other things I want to mention:
 * **I’m going to share a prototype with you today.** This is like a pretend version of the website, and so it may not function exactly the way you expect. For example, you’ll be able to click some buttons or links, but not all of them. And there’s certain things you’ll read that might not match what you see on the VA’s real website today.
 * **If for any reason and at any time you want to stop the session, you just have to let me know.** And that might be a pause to get some water or to stop the session completely. You'll be paid even if we don't complete the full session.
 * When they set up this session, Perigean asked if you are okay with a couple of observers joining us. **I want to confirm with you now, are you okay with a couple of observers joining this session?**
-    * **[IF NO]** Use Slack to kindly ask the observers to leave the Zoom.
-    * **[IF YES]** Great, they're in the waiting room so I'm going to let them into the meeting now.
+    * `IF NO` Use Slack to kindly ask the observers to leave the Zoom.
+    * `IF YES` Great, they're in the waiting room so I'm going to let them into the meeting now.
 
 > Admit observers and let them introduce themselves before turning off their cameras.
 
 * Next I’d like to ask you about recordings. We use recordings to confirm that we’ve captured your opinions accurately. The recordings are destroyed after we finish the study, and none of your comments are attributed to you directly. **Are you comfortable if I record my screen and audio as we talk today?**
-    * **[IF NO]** Don't record
-    * **[IF YES]** Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+    * `IF NO` Don't record
+    * `IF YES` Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-> Start recording (‘Record to cloud’).
+> Start recording: `RECORD TO CLOUD`.
 
-> Click Live Transcript and Enable, or Show Captions.
+> Click `LIVE TRANSCRIPT` and `ENABLE` or `SHOW CAPTIONS`.
 
 * I have started recording. I'd like to confirm: **Are you comfortable if I record my screen and the audio as we talk today?**
 
