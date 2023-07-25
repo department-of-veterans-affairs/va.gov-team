@@ -105,18 +105,19 @@ When the above responsibilities are met and development bandwidth is available, 
     6. **Determine if we need to revert a previous deployment** - See Rollback instructions
     7. **Contact development team of upstream service if issue is arising from an upstream service and invite them into incident bridge** - See table below for PCI Ecosystem POCs -- 
 
-|Service|Team POCs|Slack Responsive?|
-|:-------:|:--------:|:--------:|
-|Vetext| [#vetext-engineering](https://dsva.slack.com/archives/C051S52N1C6) ||
-|VISTA|||
-|CLINICIAN WORKFLOW|||
+|Service|Team POCs|
+|:-------:|:--------:|
+|Vetext| [#vetext-engineering](https://dsva.slack.com/archives/C051S52N1C6) |
+|VISTA API|[#vetext-engineering](https://dsva.slack.com/archives/C051S52N1C6)|
+|CLINICIAN WORKFLOW|[#check-in-cw-transition](https://dsva.slack.com/archives/C04SCJDFGTH)|
 
 3. **Containment of Issue** - Are there downstream effects of the bug? If so, isolate the system. Once isolated we need to inform the downstream system of issues and see if we can limit impact.
 
-|Service|Team POCs|Slack Responsive?|
-|:-------:|:--------:|:--------:|
-|PCI Front End|Lee Delarm, Brian Seek, John Woolschlager|Yes|
-|PCI Vets-API|Guarav Gupta, Kanchana|Yes|
+|Service|Team POCs|
+|:-------:|:--------:|
+|PCI Front End|[#check-in-experience-engineering](https://dsva.slack.com/archives/C02G6AB3ZRS)|
+|PCI Vets-API|[#check-in-experience-engineering](https://dsva.slack.com/archives/C02G6AB3ZRS)|
+|Mobile App|[#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ)|
 
 5. **Resolution of Issue** - At this step, we implement any needed changes to address the issue. Whether that is a code change and deployment, or infrastructure changes. The Incident Commander is responsible for coordinating the changes and communicating to the appropriate Slack / VA MS Teams 
 channels.
