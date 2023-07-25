@@ -69,9 +69,12 @@ This proposed change shouldn't have a ton of developoment demands and could be r
 Modifying the personalized menu is a small initiative with potentially large impacts to help users.
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
 - Initiative | [Link to Initiative Brief](#)
+
+|Project/Inititive Name|Description|Brief|
+|---|---|---|
+||||
 
 --- 
 
