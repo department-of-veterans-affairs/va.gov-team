@@ -2,7 +2,8 @@
 
 [App Map in Sketch](https://www.sketch.com/s/d8594ef0-5efd-4a48-aa7a-baa3cb056482)
 
-[App Map PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/11355443/CST.App.Map.pdf)
+[Download App Map PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/12162375/CST.App.Map.pdf)
+
 
 CST is `va.gov/track-claims` and related pages. 
 
