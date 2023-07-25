@@ -25,7 +25,9 @@ Currently,the processes for acquiring a VIC card are cumbersome and long and not
 - Step 5: Veteran must print the digital VIC card (pdf) in order to use it (this cost is covered by the Veteran).
 
 **Using a VIC:**
-- Veteran needs to remember to have VIC card with them when it's needed to prove Veteran status.
+- Step 1: The Veteran is in a physical context where they need to prove their Veteran status in order to receive a Veteran discount or benefit (like paying at a restaurant or checkout in a store). The store does not have their own method for indicating Veteran status and the Veteran does not have a special Veteran designation on their driver's license.
+- Step 2: The Veteran shows the store their VIC card to prove their status (* *needs to remember to have VIC card with them*).
+- Step 3: The Veteran receives the desired benefit.
 
 
 ### Notes:
