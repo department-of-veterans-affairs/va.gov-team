@@ -85,12 +85,6 @@ The feature is currently built, this is a minor adjustment/update to what is lis
 This proposed change shouldn't have a ton of developoment demands and could be rolled out very quickly allowing us to  guague if our guess is correct. 
 Modifying the personalized menu is a small initiative with potentially large impacts to help users.
 
-### Initiatives
-
-|Project/Inititive Name|Description|Epic|Inititive Brief|
-|---|---|---|---|
-|Menu Modifications|Updating/Adding Letters and Dependents as a low dev effort change to improve user experience|[EPIC \| Profile \| Personalized Menu Modification#62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)|No inititive brief, using this first iteration of the product outline to capture the work
-
 --- 
 
 ## Launch Strategy
