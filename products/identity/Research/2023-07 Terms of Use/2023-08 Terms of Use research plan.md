@@ -103,14 +103,27 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Planned dates of research: Mid-August
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: 1 hour
-* Maximum Sessions per day: 4
+- Planned dates of research: August 14-25, 2023
+- Session length: **60-minute** sessions 
+- Session buffer: **60-minute breaks** in between
+- Max sessions per day: 4
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+### Availability
+**Aug 14 - 25**
+
+Team Availability | Time (EST)
+------------------|--------------
+Mon | 9am - Noon, 1 - 7 pm
+Tue | 9am - Noon, 1 - 7 pm
+Wed | 9am - Noon, 1 - 7 pm
+Thur| 9am - Noon, 1 - 7 pm
+Fri | 9am - Noon, 1 - 5 pm
+
+Pilot Session | Time (EST)
+--------------|----------
+TBD | TBD 
 	
 ## Team Roles	
 - Moderators: Clayton Zook, Amanda Porter, Charlye Tran
