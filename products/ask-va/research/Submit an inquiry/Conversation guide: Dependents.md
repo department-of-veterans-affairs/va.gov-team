@@ -79,12 +79,12 @@ I'd like to start by learning more about your experience with the VA and our onl
 * And can you confirm whether you’re currently enrolled in VA health care?
 * How often do you go online to use VA services, such as, schedule a medical appointment or check your benefits?
   * Have you ever contacted the VA online or over the phone?
-    * **[IF NO]** Why might you contact the VA?
-    * **[IF YES]**
+    * `IF NO` Why might you contact the VA?
+    * `IF YES`
         * Can you tell me about a time when you contacted the VA?
-        * Do you usually contact the VA **[OVER THE PHONE OR ONLINE]**? Why?
-        * **[IF ONLINE]** Did you use your phone, tablet or computer?
-        * How did you find the support you received **[OVER THE PHONE OR ONLINE]**?
+        * Do you usually contact the VA `OVER THE PHONE OR ONLINE`? Why?
+        * `IF ONLINE` Did you use your phone, tablet or computer?
+        * How did you find the support you received `OVER THE PHONE OR ONLINE`?
 
 #### Things to watch for:
 
@@ -103,8 +103,8 @@ Next, I’d like to share some ideas with you so we can get your feedback. In th
 
 * Can you open this link?
 * Have you shared your screen on Zoom before?
-    * **[IF YES]** Great. Can you please share your screen?
-    * **[IF NO]** I’ll walk you through how to do that...
+    * `IF YES` Great. Can you please share your screen?
+    * `IF NO` I’ll walk you through how to do that...
 
 Thanks! Now I’m able to see the prototype too.
 
@@ -112,16 +112,16 @@ Thanks! Now I’m able to see the prototype too.
 
 > Screen: Start page
 
-Now that we have this open, I'd like us to start by imagining that you need to ask the VA a question about **[YOUR or ANOTHER DEPENDENT'S]** health care.
+Now that we have this open, I'd like us to start by imagining that you need to ask the VA a question about `YOUR or ANOTHER DEPENDENT'S` health care.
 
 * First off, can you tell me what this page is about?
 
 I’ll give you a second to read this page more closely now.
 
-* Before we click anything, what would you do first if you wanted to **[ASK A QUESTION]**?
-    * How long would you expect it to take to **[ASK A QUESTION]**?
+* Before we click anything, what would you do first if you wanted to `ASK A QUESTION`?
+    * How long would you expect it to take to `ASK A QUESTION`?
 
-**[A: SIGN IN/CREATE AN ACCOUNT]**
+`A: SIGN IN/CREATE AN ACCOUNT`
 
 * Why would you click sign in/create an account?
     * Does it seem like you need to sign in, in order to start?
@@ -130,11 +130,11 @@ I’ll give you a second to read this page more closely now.
     * Remember, today we’re imagining that you have a question about health care. Do you need to sign in?
     * Are there any benefits of signing in?
 
-**[B: CONTINUE WITHOUT SIGNING IN]**
+`B: CONTINUE WITHOUT SIGNING IN`
 
 * What do you expect to happen after you click continue?
 
-Okay, let’s go ahead and click **[OPTION THEY CHOOSE]** now.
+Okay, let’s go ahead and click `OPTION THEY CHOOSE` now.
 
 #### Things to watch for:
 
@@ -142,7 +142,7 @@ Okay, let’s go ahead and click **[OPTION THEY CHOOSE]** now.
 * Do they notice that they need to sign in order to ask a question about this topic?
 * Would they sign in with their own account, or use the Veteran’s or another dependent’s account?
 * Is it clear when they need to sign in or when it is optional?
-* Which authentication (‘Create an Account or Sign in’) link do they click, of the two?
+* Which authentication link do they click?
 
 ### 2a: Sign in
 
@@ -152,7 +152,7 @@ So, for today, we’ll just pretend that we’re signing in.
 
 * Which option do you usually choose to sign in?
 
-Let’s click **[OPTION THEY CHOOSE]** and we’ll continue.
+Let’s click `OPTION THEY CHOOSE` and we’ll continue.
 
 #### Things to watch for:
 
@@ -170,17 +170,17 @@ Okay, now we’re on this page.
 
 > Field: Who are you asking a question for?
 
-I mentioned earlier that we’re going to imagine that you have a question about **[YOUR or ANOTHER DEPENDENT'S]** health care. Knowing this…
+I mentioned earlier that we’re going to imagine that you have a question about `YOUR or ANOTHER DEPENDENT'S` health care. Knowing this…
 
 * How would you answer this question?
    * Would you have trouble answering this question?
    * Why do you think the VA is asking this?
 * Before we click continue, what do you expect to see on the next page?
 
-**[IF THEY WERE SENT BACK VIA MODAL TO SIGN IN]**
+`IF THEY WERE SENT BACK VIA MODAL TO SIGN IN`
 
 * Does this page look familiar?
-* Do you notice anything different? **[KEEP IN MIND: THEIR INFO HAS BEEN SAVED/PRE-FILLED]**.
+* Do you notice anything different? `KEEP IN MIND: THEIR INFO HAS BEEN SAVED/PRE-FILLED`.
 
 #### Things to watch for:
 
@@ -190,11 +190,11 @@ I mentioned earlier that we’re going to imagine that you have a question about
 
 > Screen: Category and topic
 
-So we're imagining you have a question about **[YOUR or ANOTHER DEPENDENT'S]** health care. Let’s think of a question you might have.
+So we're imagining you have a question about `YOUR or ANOTHER DEPENDENT'S` health care. Let’s think of a question you might have.
 
 * Does a question come to mind?
-   * **[NEED EXAMPLE: ENROLLED IN VA HEALTH CARE]** That’s okay. Let’s say **[YOU or ANOTHER DEPENDENT]** wanted to get a hearing test.
-   * **[NEED EXAMPLE: NOT ENROLLED]** That’s okay. Let’s say you wanted to know if **[YOU or ANOTHER DEPENDENT]** are/is eligible for VA health care.
+   * `NEED EXAMPLE: ENROLLED IN VA HEALTH CARE` That’s okay. Let’s say `YOU or ANOTHER DEPENDENT` wanted to get a hearing test.
+   * `NEED EXAMPLE: NOT ENROLLED` That’s okay. Let’s say you wanted to know if `YOU or ANOTHER DEPENDENT` are/is eligible for VA health care.
 
 Great. Now keeping that question in mind…
 
@@ -207,7 +207,7 @@ Great. Now keeping that question in mind…
 * Did you have trouble answering either of these questions?
 * Why do you think the VA is asking these questions?
 
-Let’s finish answering the questions on this page. Since this is a prototype, it only includes some options. You might not be able to select **[YOUR or ANOTHER DEPENDENT'S]** state or medical center, so if that’s the case you can just choose any state or medical center from the list.
+Let’s finish answering the questions on this page. Since this is a prototype, it only includes some options. You might not be able to select `YOUR or ANOTHER DEPENDENT'S` state or medical center, so if that’s the case you can just choose any state or medical center from the list.
 
 > Field: State where VA Medical Center is located
 
@@ -225,7 +225,7 @@ Let’s finish answering the questions on this page. Since this is a prototype, 
 
 > Screen: Sign in modal
 
-**[IF THEY DIDN'T ALREADY AUTHENTICATE: MODAL APPEARS]**
+`IF THEY DIDN'T ALREADY AUTHENTICATE: MODAL APPEARS`
 
 Okay, it looks like something has appeared.
 
@@ -235,7 +235,7 @@ Okay, it looks like something has appeared.
 * How do you feel, reading this?
 * What do you expect to happen next?
 
-**[THEY ARE SENT BACK TO SIGN IN]**
+`THEY ARE SENT BACK TO SIGN IN`
 
 #### Things to watch for:
 
@@ -395,7 +395,7 @@ We’re going to do the same thing, you can scroll down slowly and tell me if th
 > Screen: Review and send
 
 * Can you tell me what we’re looking at?
-   * Why do you think the VA is showing you a [summary]?
+   * Why do you think the VA is showing you a `SUMMARY`?
 * If you read this summary, and noticed that you had a typo in your question, what would you do?
 * What if you noticed that you chose the wrong topic and you wanted to change it to a different topic. What would you do?
 * What do you expect to happen after you send your question?
@@ -428,9 +428,9 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
    * Is there anything that could have made it easier?
 * And after you submit an inquiry, what do you expect to happen?
    * Do you expect to get updates?
-   * Do you expect the VA to notify the Veteran [or other dependent] as well as yourself?
+   * Do you expect the VA to notify the Veteran `OR OTHER DEPENDENT` as well as yourself?
    * How would you look up your inquiry?
-   * How would you expect to get updated? [For example, over email or receive a notification in your profile.]
+   * How would you expect to get updated? `OVER EMAIL OR RECEIVE A NOTIFICATION IN YOUR PROFILE, ETC.`
    * How often?
 * How would you expect to get a response to your inquiry?
    * Who would respond?
@@ -439,7 +439,6 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
 * Let’s say you wanted to go back and look at a question you had submitted a few months ago. What would you be interested in seeing?
    * For example, would you want to see all the information you submitted? Or would you just like to see certain things?
    * Anything else?
-* Throughout this whole process, when would you like to give feedback on the service?
 
 #### Things to watch for:
 
@@ -448,7 +447,6 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
 * How do they expect updates and how often?
 * Do they expect the Veteran (or other dependent) to get notified as well?
 * Do they seem likely to go back and review a past inquiry (once it's resolved)?
-* When do they expect to give feedback?
 
 ## Wrap up - 3 minutes
 
@@ -475,7 +473,7 @@ Thank you so much again, and enjoy the rest of your day!
 
 #### If the participant isn't feeling well.
 
-I'm sorry you're **[NOT FEELING WELL]**. Do you feel up for continuing? You'll be paid even if we stop early.
+I'm sorry you're `NOT FEELING WELL`. Do you feel up for continuing? You'll be paid even if we stop early.
 
 (If they choose to continue) Okay, just let me know if you change your mind.
 
@@ -483,16 +481,16 @@ I'm sorry you're **[NOT FEELING WELL]**. Do you feel up for continuing? You'll b
 
 This sounds so hard. Would you like to take a break or stop?
 
-(If they choose to take a break and come back) Welcome back. I'm interested to hear more about... are you up for continuing or would you prefer we move to the next topic?
+`If they choose to take a break and come back` Welcome back. I'm interested to hear more about... are you up for continuing or would you prefer we move to the next topic?
 
 #### If the participant decides to stop.
 
 Thank you for time on this call, I completely understand your decision to stop.
 
-(If they seem distressed) Before you go, the VA Hotline number is 988, it's a confidential helpline, and it's 24/7. It's up to you whether you call.
+`If they seem distressed` Before you go, the VA Hotline number is 988, it's a confidential helpline, and it's 24/7. It's up to you whether you call.
 
 #### If the participant is fine to continue, but you aren't.
 
 I hear that you're okay to continue. Before we do, I realized that I need a minute. I'm going to turn off my camera and microphone, and get a glass of water. Is that okay with you? I'll be back in 3 minutes.
 
-(If you're still not able to continue) Thanks for letting me take a break. You didn't do anything wrong, but I'm realizing that I'm not going to be able to continue this session. You will still be paid for the full time. I really appreciate you sharing with me today. Is it okay with you if we stop? Thanks very much.
+`If you're still not able to continue` Thanks for letting me take a break. You didn't do anything wrong, but I'm realizing that I'm not going to be able to continue this session. You will still be paid for the full time. I really appreciate you sharing with me today. Is it okay with you if we stop? Thanks very much.
