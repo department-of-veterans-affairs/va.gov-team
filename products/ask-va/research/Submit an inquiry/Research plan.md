@@ -194,7 +194,7 @@ This study will start (TBC) in August 2023 until at least 10 sessions are comple
 ### Pilot session
 
 * Pilot participant email: TBC
-Date and time of pilot session: TBC
+* Date and time of pilot session: TBC
 
 ## Research sessions
 
@@ -202,7 +202,7 @@ Date and time of pilot session: TBC
 
 * Length: 1 hour
 * Buffer between sessions: 30 minutes
-Maximum sessions per day: 4 sessions
+* Maximum sessions per day: 4 sessions
 
 ### Availability
 
