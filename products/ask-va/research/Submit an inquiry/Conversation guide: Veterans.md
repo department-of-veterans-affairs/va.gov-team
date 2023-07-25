@@ -195,8 +195,10 @@ Great. Now keeping that question in mind…
 
 > Field: Which topic best describes your question?
 
-* Did you have trouble answering either of these questions?
-* Why do you think the VA is asking these questions?
+* Did you have any trouble answering these questions?
+* How important do you think it is to answer these questions correctly?
+* What do you think happens based on what you choose here?
+* What if you couldn't find an option that fit your inquiry, what would you do?
 
 Let’s finish answering the questions on this page. Since this is a prototype, it only includes some options. You might not be able to select your state or medical center, so if that’s the case you can just choose any state or medical center from the list.
 
