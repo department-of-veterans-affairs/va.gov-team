@@ -99,7 +99,7 @@ When the above responsibilities are met and development bandwidth is available, 
      
     3. **Determine if a Maintenance window should be created to prevent access to affected downstream systems.** - See [Maintenance Mode Guidelines below](#maintenance-guidelines)
     5. **Coordinate with VHA IVC (Shawn Adams) to communicate resolution to field** - via PCI Implementation Teams channel
-    6. **Determine if we need to revert a previous deployment** - See Rollback instructions
+    6. **Determine if we need to revert a previous deployment**
     7. **Contact development team of upstream service if issue is arising from an upstream service and invite them into incident bridge** - See table below for PCI Ecosystem POCs -- 
 
 |Service|Team POCs|
