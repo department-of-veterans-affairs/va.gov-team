@@ -20,33 +20,38 @@
 |Kristin Ouellette Muskat| Information architect for Sitewide content/IA| kristin.o.m@coforma.io|
 
 ## Overview
-When logged in, upon clicking the user’s name in the top right of the screen, there is a mini-menu. This product has been live for some time and has not been modified/updated. 
+
+We're looking to run a lightweight experiment by adding links into the "personalized menu" for [Dependents ](https://staging.va.gov/view-change-dependents/view)and [Letters](https://staging.va.gov/records/download-va-letters/).
+
+- [We saw evidence in Liz's logged-in navigation user research from April that we need to elevate dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md#its-hard-to-get-to-tasks-when-theyre-not-obviously-linked-from-the-homepage-my-va-or-the-mega-menu). People had significant trouble finding dependent information on the site, and many people said they expected to find dependent information in the profile.
+- In analytics, variations on "dependents" and "letters" make up the majority of the top 10 search terms in the profile. [These are the stats for the last six months](https://dsva.slack.com/archives/C909ZG2BB/p1689612516606549?thread_ts=1689606177.353799&cid=C909ZG2BB).
+
+However, we're looking for a lighter weight solution than fully integrating these sections into the profile. By adding things into the personalized menu, we're hoping to catch people a step earlier than the profile. We plan to experiment with this solution, see if it moves metrics, and determine next steps based on the outcome.
 
 ## Problem Statement
-This feature was launched several years ago and has remained untouched for much of that time. 
 
-During [research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-06-add-dependents-records-discovery/summary.md) completed in June 2023, we uncovered a trend of users searching for Dependents and Letters from within the profile.
+Users have trouble finding dependent information and where to download their benefit letters. Through research and analytics, we have observed people expect to find these things in the VA.gov profile, but those things are currently not linked from there.
 
-We’re looking to experiment with that menu by adding links to Dependents and Letters. By highlighting some notoriously difficult to find VA.gov content (eg. Dependents and Letters) we suspect we can reduce search for those very same items. 
-
- 
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- *Why would a user want to use this? With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
-Users currently open this navigation menu when they navigate to their VA.gov user profile. By adding these items to this menu the hope is that users will not need to search for those items. 
+- By elevating dependent and letters in the personalized menu, users should be able to more easily find these tools.
 
 ## Undesired User Outcomes
 
+- Users still look for dependent and letters in the profile.
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+*Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+
+- Adding links to dependents and letters to the personalized menu is a significantly lighterweight solution than fully integrating these sections into the profile, and even easier than simply linking to these pages from the profile.
+- This may help prove out that we can/should more holistically leverage the personalized menu to support the authenticated experience.
 
 ## Undesired Business Outcomes
 
+- Adding these links to the personalized menu doesn't move metrics, and we're back at square one.
 
 ---
 ## Measuring Success
