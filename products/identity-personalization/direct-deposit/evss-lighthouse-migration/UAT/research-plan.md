@@ -11,6 +11,9 @@ EVSS -- the VA backend that stores direct deposit for comp & pen, disability rat
 ### OCTO-DE Objectives 
 The goals for the EVSS > Lighthouse migration are to limit service disruptions for Veterans and other users who receive comp & pen direct deposits or who need to change their direct deposit information for comp & pen purposes.
 
+### Veteran Journey 
+Since Veterans can receive compensation and disability any time after establishing benefits with VA, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
+
 ## Research Goals	
 The primary goal of our UAT is to confirm that the Direct Deposit section of the Profile functions as intended for users who sign in with ID.me and/or login.gov and who have direct deposit set up with their bank information. This includes validating that MHV and DSLogon behavior hasn't changed.
 
@@ -43,7 +46,7 @@ Remote via Zoom
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT/conversation-guide.md)
 
 ## Recruitment
-Perigean will perform recruiting for 7 participants for a total of 5 completed sessions. Before recruitment begins, a recruiting meeting to touchbase is needed. As part of recruitment, selected participants must be notified that we will be looking at the Direct Deposit section of the site, and they will need their direct deposit information readily available so they can enter it at the end of the session.
+Perigean will perform recruiting for 7 participants for a total of 5 completed sessions. Before recruitment begins, a recruiting meeting to touchbase is needed. **As part of recruitment, selected participants must be notified that we will be looking at the Direct Deposit section of the site, and they will need their direct deposit information readily available so they can enter it at the end of the session.**
 
 ### Recruitment criteria
 We will aim for at least **5 completed sessions** with the following user type:
@@ -80,12 +83,33 @@ Response options (checkbox): DS Logon, MyHealtheVet, Login.gov, ID.me, None of t
 **What email address(es) do you use to login to VA.gov?**
 This is a fill in the blank question, no character limit, and is not qualifying or disqualifying.
 
+**Do you currently get disability compensation payments from the VA via direct deposit?**
+**Note:** We ask this question because we’ll be asking you to confirm your direct deposit payments are set up correctly.
+
+## Timeline 
+
+### Prepare
+When will the thing you are testing be finalized? July 25, 2022 (tentative)
+
+Date and name of a mock participant for a pilot session:
+- Pilot participant name: TBD
+- Pilot participant email: TBD
+- Date and time of pilot session: (either Monday, July 31 or Tuesday, August 1)
+
 ### Research sessions
 What dates do you plan to do research? 
-- Tentative: July 2023
+- 8/2 - 8/4
 
 ### Length of sessions
-30 minute session for all participants 
+Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
+
+### Availability
+
+| Date       | Times (Eastern) |
+| ---------- | --------------- |
+| 8/2/2023 | 9am - any time |	
+| 8/3/2023 | 9am - any time |
+| 8/4/2023 | 9am - 3pm |
 
 ## Team Roles	
 - Moderator: Pam Drouin, pamela.drouin@a1msolutions.com
