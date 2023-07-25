@@ -17,15 +17,16 @@ While VIC card is not currently present in the VA Mobile app, Veterans occasiona
 #### Outside the app:
 Currently,the processes for acquiring a VIC card are cumbersome and long and not well known by Veterans. 
 
-**Getting a VIC**(From [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)):
+##### Getting a VIC
+(From [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)):
 - Step 1: Veteran applies for VIC card (requires doing the following: Fill out form (digital or paper), upload or print a photo to attach to form. Requires SSN, a digital copy of their DD214, DD256, DD257, or NGB22, a copy of a current and valid government-issued ID.
 - Step 2: Application is received, reviewed and the photo must be approved (exactly how long does this take?)
 - Step 3: Veteran receives an email letting them know status of application. They may be asked for additional info or evidence.
 - Step 4: If eligible, Veteran receives digital VIC card (pdf) in an email.
 - Step 5: Veteran must print the digital VIC card (pdf) in order to use it (this cost is covered by the Veteran).
 
-**Using a VIC:**
-- Step 1: The Veteran is in a physical context where they need to prove their Veteran status in order to receive a Veteran discount or benefit (like paying at a restaurant or checkout in a store). The store does not have their own method for indicating Veteran status and the Veteran does not have a special Veteran designation on their driver's license.
+##### Using a VIC:
+- Step 1: The Veteran is in a physical context where they need to prove their Veteran status in order to receive a Veteran discount or benefit (like paying at a restaurant or checkout in a store). The store does not have their own method for indicating Veteran status and the Veteran does not have any of the [other forms of ID that are currently accepted and used to get discounts](https://www.va.gov/records/get-veteran-id-cards/vic/) to prove their status.
 - Step 2: The Veteran shows the store their VIC card to prove their status (* *needs to remember to have VIC card with them*).
 - Step 3: The Veteran receives the desired benefit.
 
@@ -61,7 +62,7 @@ Currently,the processes for acquiring a VIC card are cumbersome and long and not
 
 
 ## Assumptions and Level of Confidence
-* A significant number of Veterans are in situations where they don't *already* have a way to prove their Veteran status (ex: Veteran designation on their driver's license, military ID, a store-controlled Veteran registration system).
+* A significant number of Veterans are in situations where they don't *already* have a way to prove their Veteran status (ex:[one of several other forms of accepted ID](https://www.va.gov/records/get-veteran-id-cards/vic/), a store-controlled Veteran registration system).
 * A Veteran Status card displayed on a phone/in the VA mobile app will be accepted by 3rd parties as official proof of Veteran status.
 * There will be marketing support for the new Veteran status card (to drive new app downloads).
 
