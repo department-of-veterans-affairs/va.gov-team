@@ -30,7 +30,7 @@ Ask VA can support Veterans, caregivers and other submitters at all stages of th
 The key goals of this study are to:
 
 * Understand how submitters expect to answer form fields and in which order
-* Understand if submitters are clear when they need or don't need to authenticate
+* Understand if submitters are clear when to authenticate and the benefits
 * Understand how submitters expect to review an ongoing or past inquiry
 
 ### Outcome
@@ -49,9 +49,10 @@ Understand how submitters expect to answer fields and in which order:
 * How long do people expect it to take to submit an inquiry?
 * What do people expect to happen right after they submit an inquiry?
 
-Understand if submitters are clear when they need or don't need to authenticate:
+Understand if submitters are clear when to authenticate and the benefits
 
 * Is it clear when you need to authenticate or when it’s optional?
+* Are the benefits of authenticating clear?
 
 Understand how submitters expect to review an ongoing or past inquiry:
 
