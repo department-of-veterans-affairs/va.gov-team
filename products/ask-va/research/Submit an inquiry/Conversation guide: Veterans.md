@@ -135,7 +135,7 @@ Okay, let’s go ahead and click `OPTION THEY CHOOSE` now.
 * Where would they (likely) click first?
 * Do they notice that they need to sign in order to ask a question about this topic?
 * Is it clear when they need to sign in or when it is optional?
-* Which authentication link do they click, of the two?
+* Which authentication link do they click?
 
 ### 2a: Sign in
 
@@ -213,6 +213,8 @@ Let’s finish answering the questions on this page. Since this is a prototype, 
 * If they thought of their own question, is it related to health care?
 * Is it straightforward to find a category?
 * Is it straightforward to find a topic?
+* Do they think it's important to choose the right category and topic?
+* Do they recognize that the category and topic they choose will send their inquiry to the right person?
 
 ### 4b: Sign in modal
 
