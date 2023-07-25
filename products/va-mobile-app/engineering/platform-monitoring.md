@@ -4,11 +4,12 @@
 
 ## What we are looking for
 
-Guidance on how to wire up our alerts into the proper Slack channels (if we can't use the current ones) and pagerDuty so Platform can monitor upstream services after hours.
-Platform bypassing the mobile team to route issues to the proper upstream service after hours when applicable ([View this example in Slack](https://dsva.slack.com/archives/C01CSM3EZGT/p1690301465018319)).
+- Guidance on how to wire up our alerts into the proper Slack channels (if we can't use the current ones) and pagerDuty so Platform can monitor upstream services after hours.
+- Platform bypassing the mobile team to route issues to the proper upstream service after hours when applicable ([View this example in Slack](https://dsva.slack.com/archives/C01CSM3EZGT/p1690301465018319)).
 
 ## What we are not looking for
-The expected outcome is not that someone on platform / PagerDuty will fix a problem, but rather pass on the issue to the affected service.
+
+- The expected outcome is not that someone on platform / PagerDuty will fix a problem, but rather pass on the issue to the affected service.
 
 ## Relevant documentation
 
