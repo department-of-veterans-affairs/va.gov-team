@@ -56,6 +56,10 @@
 **Julie Strothman**, VA OCTO designer/researcher in the Benefits Portfolio
 - julie.strothman@va.gov
 
+**Jamie Klenetsky Fay**, Accessibility and Content Specialist on CAIA
+- jamie.klenetsky@coforma.io
+- Can answer questions about semantic HTML, content accessibility, general accessibility best practices
+  
 ## VA Sponsor
 **Martha Wilkes**, OCTO Accessibility Strategist
 - martha.wilkes@va.gov, [LinkedIn](https://www.linkedin.com/in/marthawilkes/)
