@@ -32,7 +32,6 @@ The key goals of this study are to:
 * Understand how submitters expect to answer form fields and in which order
 * Understand if submitters are clear when they need or don't need to authenticate
 * Understand how submitters expect to review an ongoing or past inquiry
-* Understand whether submitters know where to get help or what they will do if they encounter an issue
 
 ### Outcome
 
@@ -62,11 +61,6 @@ Understand how submitters expect to review an ongoing or past inquiry:
 * What do submitters expect to happen after they receive a response to their inquiry? Do they expect to reply back? If they can’t reply back, what would they do?
 * What information do people need when they review a past (solved) inquiry?
 
-Understand whether submitters know where to get help or what they will do if they encounter an issue:
-
-* If people encounter an issue or don't understand something, what do they do?
-* Do people expect to be able to give feedback while or after they use the form?
-
 ### Hypotheses
 
 1. Most people will think authentication is required in order to ask any question, or, they will not understand that it’s required for specific types of fields.
@@ -80,18 +74,11 @@ Understand whether submitters know where to get help or what they will do if the
 9. When reviewing an ongoing inquiry, most people will need to know which date they submitted their inquiry, what their question was and its current status (in progress or closed).
 10. Once they receive a VA response to their inquiry, some people will expect to reply back.
 11. If people aren’t able to reply back to an inquiry, some people will submit a new inquiry as a way of continuing the conversation or following up.
-12. If they encounter an issue, most people will choose to call the VA instead and will look for a phone number.
-13. Some people will expect an estimate or deadline for when they will receive a response from the VA.
+12. Some people will expect an estimate or deadline for when they will receive a response from the VA.
 
 ## Methodology
 
-This will be a moderated usability study conducted remotely on Zoom. 
-
-We will observe submitters (hypothetically):
-
-* authenticate
-* ask a health related question
-* review an inquiry in their dashboard
+This will be a moderated usability study conducted remotely on Zoom. We'll use a Sketch prototype to observe users (hypothetically) authenticate and ask a health related question.
 
 ### Research materials
 
@@ -122,8 +109,8 @@ We need to recruit 16 Veterans for this study in order to achieve 10 completed s
 
 **All participants:**
 
-* Must have contacted VA online or over the phone in the last 3 months
-* Must have signed into VA.gov in the last 3 months
+* Must have contacted VA online or over the phone in the last 3-6 months
+* Must have signed into VA.gov in the last 3-6 months
 * Must have a smartphone which they are willing to use for the session and can use Zoom (and share screen) on
 
 #### Participant groups
@@ -146,17 +133,17 @@ Example: My wife is a Veteran, I’m one of her dependents. She has another depe
 
 #### Demographic targets 
 
-We recognize that it's likely Perigean is not able to meet all of these targets when recruiting, but we would like to at least aim for the following:
+We recognize that it's unlikely Perigean can meet all of these targets when recruiting. We would like to use these as targets:
 
-* At least 8 people must have a cognitive disability or consideration
-* At least 8 people must be over 55
-* At least 5 people must identify as Black, Hispanic or Native
-* At least 5 people must live in a remote or rural area
-* At least 4 people must be without a degree or professional certificate
-* At least 3 people must have a partial hearing loss
-* At least 3 people must be of immigrant origin
-* At least 2 people must identify as other than male
-* At least 2 people must identify as gay, lesbian, bisexual, or transgender
+* At least 8 people should be over 55
+* At least 5 people should have a cognitive disability or consideration
+* At least 5 people should identify as Black, Hispanic or Native
+* At least 5 people should live in a remote or rural area
+* At least 4 people should be without a degree or professional certificate
+* At least 3 people should have a partial hearing loss
+* At least 3 people should be of immigrant origin
+* At least 2 people should identify as other than male
+* At least 2 people should identify as gay, lesbian, bisexual, or transgender
 
 ### Screener questions
 
