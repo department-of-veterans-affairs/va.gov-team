@@ -2,7 +2,7 @@
 
 Ask VA Integration Team, July 2023
 
-Last updated by @tygindraux: July 19, 2023
+Last updated by @tygindraux: July 25, 2023
 
 ## Background
 
@@ -257,3 +257,11 @@ And we’d like to observe submitters:
 * reply to an inquiry from their dashboard and their email
 * look up an inquiry (from the start page) using their reference number
 * go through the form using assistive technology
+
+## Reviewers
+
+This plan has been reviewed by:
+- Chante Lantos-Swett, VAPO
+- Ruchi Shah, PM
+- Becky Phung, Designer
+- Thomas Michaud, Designer
