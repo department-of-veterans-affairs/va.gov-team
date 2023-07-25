@@ -54,9 +54,9 @@
 |Planned | User Endpoint Update | Stacy | Not Started | Sprint 78 - 81 Oct '23| 
 |Planned | Remote Disaster | Stacy |Not Started  | Sprint 79 - 81 ; carrying over into Q4 |
 |Planned | Travel Reimbursement Step 1 -2 | Adam | Not Started | Sprint 78 -79 Sept '23 |
-|Planned | Terms of Use Sprint 0 | Ameet |Not Started | Sprint 81 Oct '23 |
+|Planned | Terms of Use Sprint 0 |  |Not Started | Sprint 81 Oct '23 |
 |Planned | Appeals Decision Letters Sprint 0| Stacy |Not Started | Sprint 80 Sept '23|
-|Planned | Push Noticication Overall Strategy Sprint 0| | Not Started | Sprint 80 Sept '23 | 
+|Planned | Push Noticication Overall Strategy Sprint 0| Ameet | Not Started | Sprint 80 Sept '23 | 
 | Alternate | [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5562) | Adam | Blocked - MHV SM team - Sept | Met with MHV SM they are targeting completion by the 1st week of September; need to determine when to plan this project - Sprint 80?  | Meeting with MHV SM late August after their PI planning session  | TBD |
 | Alternate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | |  | TBD |
 
