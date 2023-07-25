@@ -97,10 +97,7 @@ When the above responsibilities are met and development bandwidth is available, 
       
       <p align="center"><image src="https://user-images.githubusercontent.com/56260532/217282822-00714cd4-debe-4740-bb82-c5e82041c48c.png" /></p>
      
-    3. **Enable PCI Maintenance Page in VA pagerduty** - 
-        1. Login to VA pagerduty -> services -> day of check-in - https://dsva.pagerduty.com/service-directory/PNDVBO8
-        2. Go to Add Maintenance at the Maintenance Window section at the bottom right
-        3. Create a new Maintenance Window depending on the discussed time we wish to have the window open.
+    3. **Determine if a Maintenance window should be created to prevent access to affected downstream systems.** - See [Maintenance Mode Guidelines below](#maintenance-guidelines)
     5. **Coordinate with VHA IVC (Shawn Adams) to communicate resolution to field** - via PCI Implementation Teams channel
     6. **Determine if we need to revert a previous deployment** - See Rollback instructions
     7. **Contact development team of upstream service if issue is arising from an upstream service and invite them into incident bridge** - See table below for PCI Ecosystem POCs -- 
@@ -149,9 +146,15 @@ As our infrastructure, pipelines, and processes have matured, causes for outages
     - This playbook is designed to serve as a living document and guide with regular updates as our environment grows and/or changes. If an outage has occured and is not covered here, please ensure we document it well in the incident tracker and post-mortem and update the playbook with new information and resolution steps.
 
 ## Maintenance mode guidelines <a name="maintenance-guidelines"></a>
-There are a few factors to consider when deciding on if the maintenance page should be activated in a unscheduled event:
 
-TBD - Add section on how to set maintenance mode for website
+To enable Maintance mode for PCI via PagerDuty:
+
+1. Login to VA pagerduty -> services -> day of check-in - https://dsva.pagerduty.com/service-directory/PNDVBO8
+2. Go to Add Maintenance at the Maintenance Window section at the bottom right
+3. Create a new Maintenance Window depending on the discussed time we wish to have the window open.
+
+
+There are a few factors to consider when deciding on if the maintenance page should be activated in a unscheduled event:
 
 1. Is the app in a down state, or degraded state?
 
