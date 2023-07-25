@@ -29,6 +29,8 @@ Similar to most other types of search tools, Veterans should be able to begin a 
 
 ## Facilities products
 
+[Product documentation index](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/product-documentation.md)
+
 ### Integrated Facilities & Services Data Products
 
 These products span the entire portfolio of VA facilities and services and aim to create a single source of truth for Veterans 
