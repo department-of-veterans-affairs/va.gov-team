@@ -357,7 +357,6 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
 * Let’s say you wanted to go back and look at a question you had submitted a few months ago. What would you be interested in seeing?
    * For example, would you want to see all the information you submitted? Or would you just like to see certain things?
    * Anything else?
-* Throughout this whole process, when would you like to give feedback on the service?
 
 #### Things to watch for:
 
@@ -365,7 +364,6 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
 * Do they recall stating how they prefer to be contacted, when they filled out the form?
 * How do they expect updates and how often?
 * Do they seem likely to go back and review a past inquiry (once it's resolved)?
-* When do they expect to give feedback?
 
 ## Wrap up - 3 minutes
 
