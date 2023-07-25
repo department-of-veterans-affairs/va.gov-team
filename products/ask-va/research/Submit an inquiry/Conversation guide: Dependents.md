@@ -128,6 +128,7 @@ I’ll give you a second to read this page more closely now.
     * Would you sign in with your account, the Veteran’s account, or another dependent’s account?
     * What if you had a question about life insurance instead of health care, would you need to sign in?
     * Remember, today we’re imagining that you have a question about health care. Do you need to sign in?
+    * Are there any benefits of signing in?
 
 **[B: CONTINUE WITHOUT SIGNING IN]**
 
@@ -174,7 +175,6 @@ I mentioned earlier that we’re going to imagine that you have a question about
 * How would you answer this question?
    * Would you have trouble answering this question?
    * Why do you think the VA is asking this?
-* If you needed help or had a question about this page, what would you do?
 * Before we click continue, what do you expect to see on the next page?
 
 **[IF THEY WERE SENT BACK VIA MODAL TO SIGN IN]**
@@ -185,8 +185,6 @@ I mentioned earlier that we’re going to imagine that you have a question about
 #### Things to watch for:
 
 * Is it straightforward to answer this question?
-* Do they know where or how to get help if they encounter an issue?
-* Do they expect to give feedback while they use the service or after?
 
 ### 3b, 4a: Category and topic
 
@@ -215,7 +213,6 @@ Let’s finish answering the questions on this page. Since this is a prototype, 
 
 > Field: VA Medical Center
 
-* If you needed help or had a question about this page, what would you do?
 * Before we click continue, what do you expect to see on the next page?
 
 #### Things to watch for:
@@ -223,7 +220,6 @@ Let’s finish answering the questions on this page. Since this is a prototype, 
 * If they thought of their own question, is it related to health care?
 * Is it straightforward to find a category?
 * Is it straightforward to find a topic?
-* Do they know where or how to get help if they encounter an issue?
 
 ### 4b: Sign in modal
 
@@ -257,7 +253,6 @@ Okay, it looks like something has appeared.
    * Would you have any trouble with this?
 * Would you upload a document along with your question? Why or why not?
    * If you did upload a document, what type of document are you allowed to upload?
-* If you needed help or had a question about this page, what would you do?
 * Before we click continue, what do you expect to see on the next page?
 
 #### Things to watch for:
@@ -265,7 +260,6 @@ Okay, it looks like something has appeared.
 * Are they hesitant about writing their question free-text?
 * Do they seem surprised or frustrated that it’s taken until Step 3 to input their question?
 * Does uploading a document seem familiar?
-* Do they know where or how to get help if they encounter an issue?
 
 ### 6: Veteran’s information
 
