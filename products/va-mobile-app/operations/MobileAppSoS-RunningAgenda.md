@@ -26,7 +26,7 @@
 | [Deeplinking](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6037) | Stacy | GREEN |Implementation Phase| | Aug '23| 
 | [Appointment: List & Detail content alignment audit](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5136) | Meko | GREEN | Appt List & Detail content audit and recommendation review | Recommendation readout | Aug '23 |
 | [Appointment Refinement: Compensation & Pension](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725)  | Meko  |Green | Remove Cancel button & content update for C&P appts -Complete |  | 8/1 App release |
-| User Endpoint Update | Ameet | GREEN | | | | 
+| User Endpoint Update | Ameet | GREEN |Determine data required for user to proceed through application | Split out user endpoint into multiple endpoints | Sept '23 | 
 | Finding Medications-Comparitive Analysis | Meko/Lauren | Green |   |  | August '23| 
 | Pre-Needs Burial Claims Sprint 0  | Adam  | GREEN | Working with Pre-Need Github page and starting on Product Brief artifact | Present Sprint 0 | July '23 |
 | [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Adam, Ameet | GREEN | Reviewing SM for gaps in current analytics| Next 2 Dashboard priorities Login Blocked, Letters | All Q3|
