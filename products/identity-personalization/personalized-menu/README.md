@@ -71,11 +71,9 @@ Modifying the personalized menu is a small initiative with potentially large imp
 
 ### Initiatives
 
-- Initiative | [Link to Initiative Brief](#)
-
-|Project/Inititive Name|Description|Epic|
-|---|---|---|
-|Menu Modifications|Updating/Adding Letters and Dependents as a low dev effort change to improve user experience|[EPIC \| Profile \| Personalized Menu Modification#62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)|
+|Project/Inititive Name|Description|Epic|Inititive Brief|
+|---|---|---|---|
+|Menu Modifications|Updating/Adding Letters and Dependents as a low dev effort change to improve user experience|[EPIC \| Profile \| Personalized Menu Modification#62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)|No inititive brief, using this first iteration of the product outline to capture the work
 
 --- 
 
