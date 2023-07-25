@@ -3,6 +3,17 @@
 
 **Last Updated: 7/25/2023**
 
+### Communications
+
+- **Github labels**: vsa-authenticated-exp
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+
+### Roles
+
+#### OCTO team
+
+[This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+
 ## Overview
 When logged in, upon clicking the user’s name in the top right of the screen, there is a mini-menu. This product has been live for some time and has not been modified/updated. 
 
@@ -62,18 +73,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 Modifying the personalized menu is a developmentally low cost potentially high impact change. 
-## Solution Approach
 
+## Projects
 
-The feature is currently built, this is a minor adjustment/update to what is listed/linked there. 
-This proposed change shouldn't have a ton of developoment demands and could be rolled out very quickly allowing us to  guague if our guess is correct. 
-Modifying the personalized menu is a small initiative with potentially large impacts to help users.
-
-### Initiatives
-
-|Project/Inititive Name|Description|Epic|Inititive Brief|
-|---|---|---|---|
-|Menu Modifications|Updating/Adding Letters and Dependents as a low dev effort change to improve user experience|[EPIC \| Profile \| Personalized Menu Modification#62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)|No inititive brief, using this first iteration of the product outline to capture the work
+|Project/Inititive|Epic|
+|---|---|
+|Add Letters and Dependents links ([project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalized-menu/add-dependents-letter/README.md))|[EPIC \| Profile \| Personalized Menu Modification#62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)|
 
 --- 
 
