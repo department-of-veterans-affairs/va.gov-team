@@ -78,7 +78,7 @@ Are you comfortable with that?
 - Ok, that's it for set up! Do you have any questions on any of this setup stuff before we start?
 
   
-## Round 1, Starter Questions | 5-10 minutes
+## Round 1, Starter Questions | 5 minutes
 - I’d like to start by asking you a few questions to get to know how you access VA services online
 - Could you first let me know what device you are using right now for this call.
    - [Phone, laptop, doesn’t have to be brand]
