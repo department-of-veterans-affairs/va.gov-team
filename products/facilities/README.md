@@ -76,4 +76,5 @@ Our VA.gov facilities and services products are powered by the VA.gov Drupal CMS
 
 - [Repo](https://github.com/department-of-veterans-affairs/vets-api)
 - [Documentation](https://developer.va.gov/explore/facilities/docs/facilities?version=current)
+- [Information about the data sources](https://github.com/department-of-veterans-affairs/lighthouse-facilities#readme)
 
