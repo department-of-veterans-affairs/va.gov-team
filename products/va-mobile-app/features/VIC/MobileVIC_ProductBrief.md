@@ -3,7 +3,7 @@
 
 ## Sprint 0
 
-### Problem Statement
+## Problem Statement
 There are a variety of situations in which Veterans need to prove their Veteran status in order to receive a particular benefit (having [a way to prove Veteran status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#though-they-may-not-need-their-dd214-in-all-cases-to-apply-for-va-benefits-having-a-copy-of-it-facilitates-the-benefit-application-process-and-helps-veterans-access-non-va-privileges-memberships-and-discounts) helps Veterans access non-VA privileges, memberships, and discounts). Veterans would benefit from an easy-to-access official Veteran ID card to use in these contexts. Because there is currently no simple way to attain an ID like this, a widely accepted Veteran ID within the mobile app could prove a very useful feature for Veterans and greatly increase usage of the app.
 
 From VA.gov: 
@@ -57,11 +57,11 @@ Currently,the processes for acquiring a VIC card are cumbersome and long and not
 * Veterans need to pay to print the card
 * Veterans need to remember to have VIC (or some other form of accepted Veteran ID) with them to receive benefits
 
-### Assumptions and Level of Confidence
+## Assumptions and Level of Confidence
 TBD
 
 
-### Risks
+## Risks
 1. Creating a ‘competitor’ to the VIC could anger certain stakeholders (?) 
     1. Need to ensure creating an ID card that is not technically the VIC does not interfere with the VIC law
 2. Surfacing current VIC may not be technically possible and the owning group may not have interest in working with us
@@ -69,7 +69,7 @@ TBD
 4. We don't currently coordinate with VA comms team when we launch features.
 5. There are [several other forms of ID that are currently accepted and used to get discounts](https://www.va.gov/records/get-veteran-id-cards/vic/)(Veteran Health Identification Card (VHIC), Department of Defense (DoD) Identification Card—either a Common Access Card (CAC) or Uniformed Services ID Card, or a state-issued driver’s license or ID with a Veterans designation), and Veterans may find it easier to use those instead.
 
-### Business Goals
+## Business Goals
 - Increase app downloads overall
   - Bring users into the app that do not use VA Health
 - Increase overall number of app active users
@@ -80,14 +80,14 @@ TBD
 
 
 
-### Roadmap
+## Roadmap
 
 #### V1
 * 
 #### V2 and beyond**
 * 
 
-### Technical Approach
+## Technical Approach
 * Unique identifier?
 * Discharge status API
    * [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) has this data
@@ -97,7 +97,7 @@ TBD
    * [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) has this data
    * so does this API https://developer.va.gov/explore/api/veteran-confirmation
 
-### Measuring success
+## Measuring success
 #### feature engagement:
 * Track number of unique users that access the card in app
 * Track number events, number of times the card is accessed in app
@@ -111,14 +111,14 @@ TBD
 * Requests for ability to provide proof of service decreases in [need to understand where these requests are happening now]
    
 
-### Stakeholders
+## Stakeholders
 * Melisa Rebstock (VEO)
 * Joe Valentine (with Angela Gant-Curtis) - Technical contact for VIC
 * Molly Burlage - VIC Lead
 * John Lundy - division cheif VEO
 
 
-### Potential Solutions
+## Potential Solutions
 1. Surface official VIC within the app
    1. Could work to make request process smoother, including submitting a photo
    2. This would involve working with a VA group that may not have APIs to support what we need.  We may need to help build them ourselves.
@@ -140,7 +140,7 @@ TBD
 
 
 
-### Open Questions
+## Open Questions
 **Questions for existing VIC:**
 * Is there an API to find which Veterans have a VIC?
   * Answer from VIC team: There isn't, but, "this should be possible" 
@@ -176,7 +176,7 @@ TBD
 * Are there any other VA cards we could add to the OS Mobile Wallet?  VHA card, etc.?
     * Vaccine ‘card’?
 
-### Important Links
+## Important Links
 - Google Wallet: [Google Wallet](https://wallet.google/#identity)
 - iOS Wallet: [IDs in Wallet](https://learn.wallet.apple/id)
 - [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)
