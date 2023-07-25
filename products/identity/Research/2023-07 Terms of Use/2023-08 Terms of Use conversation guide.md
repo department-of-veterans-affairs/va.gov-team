@@ -78,7 +78,7 @@ Are you comfortable with that?
 - Ok, that's it for set up! Do you have any questions on any of this setup stuff before we start?
 
   
-## Round 1, Starter Questions | 5 minutes
+## Round 1, Starter Questions | 5-10 minutes
 - I’d like to start by asking you a few questions to get to know how you access VA services online
 - Could you first let me know what device you are using right now for this call.
    - [Phone, laptop, doesn’t have to be brand]
@@ -119,7 +119,7 @@ Are you comfortable with that?
        - What do you understand this page to mean?
        - Did you know that VA had terms of use?
        - What do you think about being presented with terms of use for the VA online?
- -Being on this page, what would you do next?
+ - Being on this page, what would you do next?
    - Is that what you have done on other websites that present new terms of use?
       - What would make you want to [SKIP PAST or READ THROUGH] this?
          - [IF SKIP] How would you move past this page?
@@ -132,8 +132,6 @@ Are you comfortable with that?
 
 - On other websites when something like this has come up, do you usually accept the terms or would you decline? [TRY TO redirect if talks about cookies]
 - How strongly do you generally feel about [ACCEPTING or DECLINING] the terms of use on a website?
-   - Have you ever declined terms of use on a website or app 
-      - Can you tell me more about that?
    - Has there ever been a time when you didn’t agree to these types of terms on a website or app?
       - Can you tell me more about that?
    - For a website or app you use regularly, have you noticed a time recently when they said they updated their terms and you have to look at them and agree to them again?
@@ -144,7 +142,7 @@ Are you comfortable with that?
    - This might sound a little silly, but can you give me your definition of “accept”
       - What about “decline”
    - We have “accept” and “decline” buttons here. Would it change anything for you if we renamed the decline button to “not accept”? So the options are accept and not accept.
-      - [ONLY IF P is feeling the vocab discussion, can also ask about “reject” and “refuse”]
+      - [IF Participant is feeling the vocab discussion, can also ask about “reject” and “refuse” and also about having the buttons simply say "yes" or "no"]
 - Let assume you’d select “accept” - don’t actually do it yet - what would you expect to happen next?
    - Let’s say the lawyers get together again and decide something needed to change here on this terms of use. If a change happened would you expect to get something like this full page about it again?
       - Would you want to know about the update?
