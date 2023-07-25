@@ -61,9 +61,9 @@ Currently,the processes for acquiring a VIC card are cumbersome and long and not
 
 
 ## Assumptions and Level of Confidence
-* That a significant number of Veterans are in situations where they don't *already* have a way to prove their Veteran status (ex: Veteran designation on their driver's license, military ID, a store-controlled Veteran registration system).
-* That a Veteran Status card displayed on a phone/in the VA mobile app will be accepted by 3rd parties as official identification.
-* That there will be marketing support for the new Veteran status card (to drive new app downloads).
+* A significant number of Veterans are in situations where they don't *already* have a way to prove their Veteran status (ex: Veteran designation on their driver's license, military ID, a store-controlled Veteran registration system).
+* A Veteran Status card displayed on a phone/in the VA mobile app will be accepted by 3rd parties as official proof of Veteran status.
+* There will be marketing support for the new Veteran status card (to drive new app downloads).
 
 ## Risks
 1. Creating a ‘competitor’ to the VIC could anger certain stakeholders (?) 
