@@ -13,6 +13,7 @@ Last updated Jul 2023
   * [DRAFT: VA Mobile app: Personalization - Design Strategy Worksheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-design-strategy-worksheet.md)
     * WIP design strategy
     * [UX Discovery Questions: VA App Personalization](https://docs.google.com/document/d/1eB8t02SWEjpiAmoSN_WuRqWYBjS_j-V2/edit)
+    * See UX research section below for [comparative analysis including personalized home screen approaches](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md).
 * **Earlier exploratory activities (Nov 2021 - Jan 2022):**
     * [Comparative Analysis: Personalized App Homescreen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-comparative-analysis.md)   
       * Comparative analysis of how other apps present personalization.   
@@ -41,7 +42,7 @@ Last updated Jul 2023
    * [VA Mobile App - Navigation UI Direction Recommendation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/2022%20-%20VA%20Mobile%20App%20-%20Navigation%20UI%20Direction%20Recommendation%20PO%20presentation.pdf) (2022)
      * Includes high-level thinking around planned zones for personalized content on the app's home and category screens. 
    * [VA Mobile Comparative Analysis: Navigation UI Patterns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md)
-     * Identified and compared app navigation structures that share similar features and/or functionalities with the VA mobile app (ex: robust user/account data, with an emphasis on omnichannel). Many of these apps also includes personalized content on their home screens.
+     * Identified and compared app navigation structures that share similar features and/or functionalities with the VA mobile app (ex: robust user/account data, with an emphasis on omnichannel). Many of these apps also include personalized content on their home screens.
 * [Mobile App Measures of Success (OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Mobile-OKRs.md) (2021)
   
 **Other teams:**
