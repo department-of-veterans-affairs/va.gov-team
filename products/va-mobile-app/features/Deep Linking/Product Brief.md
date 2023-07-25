@@ -1,6 +1,6 @@
 # Sprint 0 Product Brief- Deep Linking
 
-**Problem Statement**
+### Problem Statement
 Today, the deep linking functionality does not exist in the Mobile App.
 We want to allow a user the ability able to follow a single link (via push notification) into a specific area within the mobile app.
 
@@ -13,16 +13,16 @@ Deep linking does this by specifying a custom URL scheme (iOS Universal Links) o
 
 We want to send this custom URL via EXISTING push notification in the app.
 
-**Current Experience**
+### Current Experience
 We have no seemless way to allow the user to follow single secure link that will take them to specific area in teh mobile app.
 
-**Desired Outcomes**
+### Desired Outcomes
 
 Deep links produce a seamless user journey that reduces churn and increases the likelihood of an install. They let you make sophisticated campaigns while providing a better user experience, moving users onto your app in a single click.
 
 We want to provide the veteran with the best user experience possible in order to drive conversion and retention rates in the app.
 
-**MVP Q3 Decisions** (High Level)
+### MVP Q3 Decisions (High Level)
 
 1. Secure Messaging vs Appointments- Deep Linking via SECURE MESSAGING for MVP
 
@@ -34,29 +34,29 @@ User receives a push notification and this will “deep link’ to the Inbox (ne
 3. Back Navigation: As user exits the inbox, they will be taken back to the Home Screen of the App.
 
 
-**Assumptions and Level of Confidence**
+### Assumptions and Level of Confidence
 TBD
 
 
-**Risks**
+### Risks
 TBD
 
-**Business Goals**
-TBD
-
-
-**Roadmap**
-TBD
-
-**Technical Approach**
+### Business Goals
 TBD
 
 
-**Measuring success**
+### Roadmap
+TBD
+
+### Technical Approach
 TBD
 
 
-**Open Questions**
+### Measuring success
+TBD
+
+
+### Open Questions
 
 Preference is to implement Deep Linking with secure messaging vs appointments. MVP- Secure Messaging (Q3) with phased approach for next steps with Deep Linking (ex: deep linking with apppts).
 
