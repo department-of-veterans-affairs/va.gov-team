@@ -20,7 +20,14 @@ Our goal is to **understand which fields are necessary in order for agents to de
   * Assisted Living (IE… in nursing home, or needs assisted living benefits) 
   * Survivor Benefits
   * IT Issues (for example, but not limited to ID.me or MyHealtheVet issues)
-  * Questions from providers regarding eligibility, benefits, claims status, or claims filing.  
+  * Questions from providers regarding eligibility, benefits, claims status, or claims filing.
+
+----
+
+*Graph showing counts of topics and subtopics for VA Health Care:*
+![topic and subtopic count graph](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Question%20protocol/Health%20care/category-topic-subtopic-graph-VA%20Health%20Care.png)
+
+----
 
 ## Agenda - 60 minutes
 
