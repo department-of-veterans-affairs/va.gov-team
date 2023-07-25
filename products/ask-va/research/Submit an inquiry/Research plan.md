@@ -179,17 +179,17 @@ We expect Perigean to screen for all criteria listed above. We have written spec
 
 ## Timeline
 
-This study will start (TBC) August 22, 2023 until at least 10 sessions are complete.
+This study will start (TBC) in August 2023 until at least 10 sessions are complete.
 
 |Date|Milestone|
 |:--|:--|
-|TBC|Design Intent|
+|July 28|Design Intent|
 |TBC|Midpoint Review|
 |TBC|Research Review|
 |TBC|Pilot session at TBC EST|
-|Aug 22 - 31 TBC|Research sessions|
-|Aug 31 - Sept 5 TBC|Analysis|
-|Sept 6 - 11 TBC|Share findings|
+|TBC|Research sessions|
+|TBC|Analysis|
+|TBC|Share findings|
 
 ### Pilot session
 
@@ -210,14 +210,14 @@ We will provide 32 time slots, with the aim to book 16 sessions.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Tuesday, August 22|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Wednesday, August 23|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Thursday, August 24|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Friday, August 25|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Monday, August 28|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Tuesday, August 29|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Wednesday, August 30|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Thursday, August 31|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|Tuesday, August 22 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|Wednesday, August 23 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|Thursday, August 24 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|Friday, August 25 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|Monday, August 28 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|Tuesday, August 29 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|Wednesday, August 30 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|Thursday, August 31 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
 	
 ## Team roles
 
