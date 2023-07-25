@@ -79,9 +79,8 @@
 
 ## 7/25/23 Agenda:
 * Q3 Projects in Progress
-   *  Secure Messaging - Migrate to Re-Engineered MHV APIs
-      * Met with Christy and found they plan to be done with their work by the 1st week of Sept - asking when we could slate the work - earliest would be Sprint 80 (9/13) 
-* Question for the POs
+   * Biometric bug 5986 update (Jayson)
+* Standing question for the POs
    * Any new work we should be on the lookout for?
    * Any priority shifts?
 * Sprint 77 Planning (Adam)
