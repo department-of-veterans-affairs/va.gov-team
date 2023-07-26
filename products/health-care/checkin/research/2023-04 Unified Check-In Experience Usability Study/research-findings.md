@@ -78,17 +78,17 @@ The new unified check-in experience hopes to address:
 4. Do Veterans think the check in confirmation page provides enough information about the status of their check in and what to do next?
      - DEFINITELY TRUE: All Veterans thought the information on the check in confirmation page was well organized and prioritized.
 5. How easy or difficult is it for Veterans to understand if their other upcoming appointments have tasks to complete? For example, another appointment needs to complete pre-check-in or can initiate a check-in.
-     - LIKELY TRUE: Most Veterans will find it easy to understand that their other upcoming appointments have tasks to complete, but might recommend highlighting those tasks better in the appointment list.
+     - LIKELY TRUE: All Veterans thought it was easy to understand and find out if their other upcoming appointments had tasks to complete from the confirmation pages and the appointments list. However, many Veterans didn't feel the content and design pattern on the confirmation pages was enough to incite action or, simply, had no interest in starting another task after their primary task was completed. 
 6. How easy or difficult is it for Veterans to understand the difference between the pre-check-in process and checking in to an appointment?
-     - LIKELY TRUE: Most Veterans will understand the difference between the pre-check-in process and checking in to an appointment.
+     - LIKELY TRUE: All Veterans understood the difference between the pre-check-in and check in process for VA medical appointments. However, it is difficult to simulate outside a real world scenario.
 7. Do Veterans find it helpful to be able to review all of their other upcoming appointments during the pre-check-in and check-in processes?
-     - LIKELY TRUE: Veterans will like seeing all of their other upcoming appointments in one place, even if it’s within the context of completing the pre-check-in and check-in processes.
+     - LIKELY TRUE: Most Veterans thought it was helpful to be able to review all of their upcoming appointments when completing pre-check-in or check-in. However, some Veterans had some concerns to make sure that it doesn't impose on the primary task that needs to be completed. 
 8. Would Veterans find it helpful to receive a text message 45 minutes before each of their appointments with instructions on how to check in?
-     - DEFINITELY TRUE: Veterans will prefer receiving a text message 45 minutes before each of their appointments compared to scanning a poster at the clinics. 
+     - LIKELY TRUE: All Veterans preferred receiving a text message 45 minutes before each of their appointments compared to scanning a poster at the clinics. 
 
 ## Secondary Questions 
 
 9. How easy or difficult is it for Veterans to find the call to action from the appointment detail pages?
-     - LIKELY TRUE: Veterans will find it easy to locate where to start the pre-check-in and check-in processes from the appointment detail pages, but might recommend adding some separation between the appointment information and the action link to make it more noticeable.
+     - NOT ENOUGH INFORMATION
 10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the the appointment list page or detail pages?
-     - LIKELY TRUE: Most Veterans will expect to see which of their upcoming appointments have already completed pre-check-in, especially if they just completed that process for one of their other appointments.
+     - LIKELY TRUE: Most Veterans expected to see which of their upcoming appointments have already completed pre-check-in, especially if they just completed that process for one of their other appointments when returning to the appointments list. 
