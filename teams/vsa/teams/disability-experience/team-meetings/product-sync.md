@@ -9,7 +9,11 @@
       - ITF (disovery has uncovered larger oppurtunities. Need to weigh options, but seems like an important place to focus and define short term, medium term and longer term improvements)
       - Review and Submit changes (need design approval / waiting for Shannon to return)
       - Bug for missing ID errors (requires input from Contact Center but we are being told there is sensitivity with talking to them)
+            - Matt/Jen - to check what's the obstacle for this discussion 
    - **Reccomend** waiting on Lydia on Aug 8 vs disrupting the Team 2 work in progress
+   - **Check** if Coforma can support with UX for the next 2 weeks - Austin
+   - **Check** if Lydia is still planning to be back on Aug 8 - Rakshinda
+   - **Check** Can Lesley Ropp(Enablement Team) support this? - Matt/Jen
 - Q3 Initiatives prioritization
    - Team 1 has no capacity till about late Sepetmber for new initiatives working on
       - Lighthouse migration - current ETA November
@@ -20,7 +24,19 @@
           - From Error reports, surveys, and failure reports
       - Monitoring/logging
    - **Reccomend** Delaying a big priortization workshop till there's capacity to pick up work
- -  
+   - Do not need July-Sept prioritization at this point
+   - Plan something for mid-Sept
+- Bug Triage meeting
+   - Different cadence?
+   - Keep the current one for a couple more weeks
+- Issue Management Strategy
+   - Review Definition of Done, Severity and Priority
+   - Come up with a framework for use for other teams
+   - Come up with Plug and Play model
+- Data Extract for VRO
+   -  Conversations ongoing with Steve and Diana   
+- Using non-Lighthouse API needs Matt's approval 
+
 ### Date: Jul 19 2023       
 ### Participants: Rakshinda, Austin, Matt, Jen, Steve
 ### Topics Covered:
