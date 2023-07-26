@@ -43,7 +43,6 @@ Our hypothesis is that users might:
 - Have an easier time completing the application with the improvements to the user flows and grouping of related pages
 - They might experience some frustration with the addition of new required fields for integration, causing the application process to be lengthier
 - Be able to more easily identify the various roles in the application and better understand what information they'll need to provide
-- Experience an improved mobile application with the addition of new file formats for the upload of supporting documents
 - Deem certain parts of the form as too insensitive, and they may wonder why they have to provide that information, particularly questions centered around the death of family members and other personal demographic questions
 
 ## Methodology
