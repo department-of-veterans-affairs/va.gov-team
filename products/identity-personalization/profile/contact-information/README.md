@@ -42,6 +42,7 @@ The backend for this is powered by VA Profile (formerly Vet360), which is integr
 * To access this feature in the profile, users need to login to VA.gov  with an identity-verified (LOA3)  account.
 * Contact information is pulled from and written to the VA Profile API.
 * Updates made in VA.gov profile contact information will sync with any other systems that are using the VA Profile API for contact information.
+	* some benefits will require a separate phone call to update the address, [see the FAQ](https://www.va.gov/resources/change-your-address-on-file-with-va/#change-your-address-by-contact)  
 * Email confirmations are sent when a Veteran updates their contact information.
 * The only piece of contact information that can’t be deleted once added is a mailing address
 * This feature doesn’t support international phone numbers 
