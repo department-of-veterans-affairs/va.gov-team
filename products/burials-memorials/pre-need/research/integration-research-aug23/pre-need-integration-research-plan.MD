@@ -66,7 +66,7 @@ Weâ€™d like to recruit 10 participants for a total of 8 completed sessions. Weâ€
 ### Recruitment criteria 
 
 **Primary criteria (must-haves)**
-- Amount: Target is 6-8 participants but recruit 10
+- Amount: Target is 8 participants but recruit 10
 - Age ranges: 
     * Around 70% 55+
     * Around 20% 35+
