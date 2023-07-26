@@ -40,9 +40,12 @@
 * **Carryover
 
 ## Q3 Projects Planned Not Yet Started
+
+<details>
+<Summary> Planned but Not Started Projects </Summary>
  - 3rd quarter projects planned but have not yet started
  - Sprint 0 priority (7/18) - Push Notifications, Appeals Letters, Terms of Use
-
+ 
 | Priority |Project | PM | Status | Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| 
 |Planned | [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam |Experiment starting Sprint 77 | Aug '23 |
@@ -57,9 +60,11 @@
 |Planned | Push Noticication Overall Strategy Sprint 0| Ameet | Not Started | Sprint 80 Sept '23 | 
 | Alternate | [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5562) | Adam | Blocked - MHV SM team - Sept | Met with MHV SM they are targeting completion by the 1st week of September; need to determine when to plan this project - Sprint 80?  | Meeting with MHV SM late August after their PI planning session  | TBD |
 | Alternate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | |  | TBD |
-
+</details>
 
 ## 2023 Completed work:
+<details>
+<Summary>Completed Work </Summary>
 
 | Quarter |Project | PM | Status |
 |-------- | ----------- | ----------- | ----------- |
@@ -73,8 +78,20 @@
 | Q3 | [Cancel Message Content Auidt**](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | Releasing August |
 | Q3| [SM Realignement with MHV](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4718) | Adam | Releasing August| 
 
-## Notes
+</details>
 
+## Agenda  
+
+## 8/9/23 Agenda:
+* Q3 Projects in Progress
+* Standing question for the POs
+  * Any new work we should be on the lookout for?
+  * Any priority shifts?
+* Sprint 77 Planning (Adam)
+
+<details>
+<Summary>Historical Agendas and Meeting Notes </Summary>
+ 
 ## 7/25/23 Agenda:
 * Q3 Projects in Progress
   * Check-in
@@ -363,3 +380,5 @@ Discussion Items
   * Currently we get tracking info from CMOP - not sure if this change is adding to this or something different
   * New content disclosure needs to be displayed?
 * RX Research concluded, findings and recommendations to come
+
+</details>
