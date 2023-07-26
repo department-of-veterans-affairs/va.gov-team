@@ -9,6 +9,8 @@ Based on discovery research and the overall goals for the project, our plan is t
 1. Release incremental enhancements in a "Pre-Integration" phase (before the application is integrated with related systems) **and to** 
 2. Release enhancements in an "Integration" phase in which the form will be fully integrated with the modernized system to allow for faster case processing
 
+For this research study, our aim is to focus on the testing of Pre-Integration phase designs.
+
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/initiative-brief.md). 
 
 ### OCTO Priorities 
