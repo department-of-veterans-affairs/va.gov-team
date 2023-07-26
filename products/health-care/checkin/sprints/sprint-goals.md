@@ -20,7 +20,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**     
-       - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61691)
        - Pilot ends on July 31; need decision from Mark about national release
    - **EPIC: [Travel Reimbursement - Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
@@ -78,7 +78,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**     
-       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
+       - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
        - Pilot started June 26 and runs through end of July; weekly feedback touchpoints with Wilkes-Barre
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61690)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Start - Most likely It continue in the next sprint [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61691)
