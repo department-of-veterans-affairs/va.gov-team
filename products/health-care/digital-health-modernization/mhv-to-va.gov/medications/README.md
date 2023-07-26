@@ -183,24 +183,27 @@ Specific solution is dependent on Research and Discovery of the Medications sect
 
 </details>
 
-#### Team Members
+#### Team Members  
 
-<details>
- 
- - OCTO Product Leads: Kay Lawyer and Lauren Alexanderson
- - PM: Kay Lawyer
- - Bylight PM: Raquel & Tanner 
- - Engineering: Mark Dewey and Stephen Barrs
- - Research/Design: Coulton Bunney, Jenny Wang, Harrison A. 
- 
-</details>
+**OCTO**
+- Product Leads: Kay Lawyer and Lauren Alexanderson
+- Design: Coulton Bunney
+- Research: Robyn Singleton
+- Engineering: Adrian Rollett 
+
+ **Bylight**
+   - Product Leads: Raquel Robertson & Tanner Bird
+   - Design: Harrison Amelang, Lexi Wunder
+   - Engineering Lead: 
+
+**OCC**
+   - Product Owner and decision maker: Dr. Eric Spahn, Office of Pharmacy Benefits Management
+
+**Others involved**
+   - Dr. Maureen Layden - Subject Matter Expert, Office of Pharmacy Benefits Management
+   - Margo Kabel - Previous human factors lead and very involved in the development of VA Directive 1164, Office of Pharmacy Benefits Management
+   - Ro Weaver - OCC Business Requirements Manager
 
 
-#### Stakeholders
-- Dr. Maureen Layden- Office of Pharmacy Benefits Management
-- **Dr. Eric Spahn- Office of Pharmacy Benefits Management** - Decision maker
-- Margo Kabel- Human Factors Office
-- Dr. Rob Silverman
-- Carnetta Scruggs
-- Ro Weaver 
+
 
