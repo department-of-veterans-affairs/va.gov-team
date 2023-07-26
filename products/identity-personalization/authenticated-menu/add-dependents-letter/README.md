@@ -56,8 +56,6 @@ Users have trouble finding dependent information and where to download their ben
 ---
 ## Measuring Success
 
-## Measuring Success
-
 - [Profile domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 
 ### Objective: Increase findability of Dependents and Letters information
