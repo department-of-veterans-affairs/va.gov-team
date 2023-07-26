@@ -102,12 +102,6 @@ When the above responsibilities are met and development bandwidth is available, 
     6. **Determine if we need to revert a previous deployment**
     7. **Contact development team of upstream service if issue is arising from an upstream service and invite them into incident bridge** - See table below for PCI Ecosystem POCs -- 
 
-|Service|Team POCs|
-|:-------:|:--------:|
-|Vetext| [#vetext-engineering](https://dsva.slack.com/archives/C051S52N1C6) |
-|VISTA API|[#vetext-engineering](https://dsva.slack.com/archives/C051S52N1C6)|
-|CLINICIAN WORKFLOW|[#check-in-cw-transition](https://dsva.slack.com/archives/C04SCJDFGTH)|
-
 3. **Containment of Issue** - Are there downstream effects of the bug? If so, isolate the system. Once isolated we need to inform the downstream system of issues and see if we can limit impact.
 
 |Service|Team POCs|
