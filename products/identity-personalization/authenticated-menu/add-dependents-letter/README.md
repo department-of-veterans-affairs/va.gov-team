@@ -34,7 +34,7 @@ Users have trouble finding dependent information and where to download their ben
 
 ## Desired User Outcomes
 
-- *Why would a user want to use this? With this problem solved, what should users be able to do/achieve that they couldn't before?*
+*Why would a user want to use this? With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 - By elevating dependent and letters in the authenticated menu, users should be able to more easily find these tools.
 
