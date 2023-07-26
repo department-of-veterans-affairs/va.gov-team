@@ -6,7 +6,7 @@ Direct deposit information lives in two places:
 - [The private repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md) contains the full product outline.
 
 
-## EVSS > LH Migration for Direct Deposit Comp & Pen API
+## Summary of where to locate info on EVSS > LH Migration for Direct Deposit Comp & Pen API
 
 There are several places where things have been documented. 
 
