@@ -21,5 +21,6 @@
      - Next steps
           - Talk with Josh Kim on his research
           - Talk with Josh Faulkner on how they enter Spanish language data today in Enrollment system
+          - Talk with Marla & team on how they enter Spanish language data today in CARMA
           - Discovery on solutions 
                - How is this handled in the world today?
