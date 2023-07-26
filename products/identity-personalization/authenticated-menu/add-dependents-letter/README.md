@@ -58,7 +58,7 @@ Users have trouble finding dependent information and where to download their ben
 
 - [Profile domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 
-### Objective: Increase findability of Dependents and Letters information
+### Objective #1: Increase findability of Dependents and Letters information
 
 **When filling in data -- update dates to be 1 month pre-launch, one month post launch (to 100%), and the second month post-launch (to 100%) based on actual launch dates.**
 
@@ -69,33 +69,27 @@ Users have trouble finding dependent information and where to download their ben
 |Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)||||
 |Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)||||
 
+**KPI: See variations on "dependents" and "letters" entirely removed from the top 10 search terms on VA.gov as a whole.**
 
-### Key Performance Indicators (KPIs)
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| [Search Data from Domo Dashboard](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)|             |                    |                    |        |
+|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|-------------|---------------|-------------------|
+|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)||||
+|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)||||
 
+### Objective #2: Explore using authenticated menu as a place to elevate links to tools.
 
-#### Baseline KPI Values
-Jan 1-July 18, 2023
-|Search Terms|Total searches|
-|---|:-:|
-|dependents	|5,045|
-|letters|	2,749|
+**KPI: Establish baseline metrics for "dependents" and "letters" links in the authenticated menu.**
 
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:Reduced search for dependents and letters from the profile 
-  - Key result: 
-  - Key result: 
-
-
+|KPI/metric| 1 month post-launch to 100% [add dates]|2 months post-launch to 100% [add dates]|
+|----------|---------------|-------------------|
+|Clicks into "Dependents" from the authenticated menu|||
+|Clicks into "Letters" from the authenticated menu |||
 ---
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
-Modifying the personalized menu is a developmentally low cost potentially high impact change. 
+Modifying the personalized menu is a developmentally low cost potentially high impact change.
+
 ## Solution Approach
 
 
