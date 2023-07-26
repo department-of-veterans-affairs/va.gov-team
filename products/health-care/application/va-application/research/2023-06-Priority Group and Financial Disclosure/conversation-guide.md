@@ -82,7 +82,6 @@ Let’s start with a couple warm-up questions.
 - Can you please describe how this was communicated to you and how you understood the impact to you and your benefits?
 - Before you completed enrollment, how were you aware of Priority Groups or copays as part of the health care benefits package?
 - [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
-- Since you have been using your benefits, what have you learned about Priority Groups and the impact it has on you and health care benefits that you wish you knew during the application?
 
 [If NOT aware of Priority Groups, ask question and skip to fourth topic]
 - What do you think Priority Groups are? There is no right or wrong answer here, just explain your understanding of what you think it could be and how that is important to health care benefits. 
@@ -100,7 +99,7 @@ Let’s start with a couple warm-up questions.
 
 ## Third Topic: [Priority Group - Future State] - 5 minutes
 - Where are some places that you would like to be able to view your Priority Group number? Why?
-- How would this be a benefit to you?
+- How would this be helpful to you?
 - What type of information is important to you to have access to about your Priority Group and your health care benefits?
 - Is there anything you find confusing about how your Priority Group impacts you today that you wish the VA would provide more clarity on?
 
@@ -143,27 +142,37 @@ Let’s start with a couple warm-up questions.
 - I would like to ask if you are comfortable sharing your screen and walking through a task on VA.gov?
 - Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
 
-- For this scenario, you received a communication to update your annual income to maintain your copay and travel reimbursement costs as part of your health care benefits. I would like to ask you to show me where and how you would expect to accomplish this online. 
-
-- [Share link to VA.gov in Zoom chat for VA.gov]
-
+- For this scenario, you received a communication to update your annual income for your health benefits to maintain your copay and travel reimbursement costs. 
 
 [Notification and process]
 - How would you like to receive this communication that you need to provide updated financial information?
 - What would you want to know in this communication about how and why you need to update your financial information?
 
+
+- I would like to ask you to show me where and how you would expect to accomplish this online. 
+- [Share link to https://VA.gov in Zoom chat]
+
+
 [Where to find]
-- Now, from the VA.gov home page, can you walk me through where you would expect to go to update your annual income?
+- Now as you open the link in the chat, from the VA.gov home page, can you walk me through where you would expect to go to update your annual income?
 - Please remember to talk aloud about your thought process as you go.
-- Can you explain to me why you went [here] to update your financial information?
-- Talk to me about where you would expect to find the ability to complete this task and why.
--[Possible prompt to remind them that this task is not available today, but want to know where you would expect to find it if it was made available]
+
+
+  
+
 
 [**IF** they state the would go to the VA Profile to update this information]
 - Are you comfortable logging in to your own VA profile account? 
 - [If no] Or would you rather have me share my screen and a test account with you and we can talk through the rest of this together?
+   - [Backup =  which test account FOR MODERATOR to login to if there are concerns or issues with screen sharing after they state they would update this in Profile, Moderator would need to share their screen at this point]
+      - Test user 80
+
+
 
 [Possible prompts]
+- Can you explain to me why you went [here] to update your financial information?
+- Talk to me about where you would expect to find the ability to complete this task and why.
+- [Possible prompt to remind them that this task is not available today if they get hung up looking for it, but want to know where you would expect to find it if it was made available]
 - What would you be looking for when you first login to update this information? Something in the sidebar or a notification?
 - Would you think this fits with any of the existing options or would you expect this to be something new?
 - What would you expect this new section to be called?
@@ -171,10 +180,6 @@ Let’s start with a couple warm-up questions.
 
 
   
-
-[Backup =  which test account to login to if there are concerns or issues with screen sharing after they state they would update this in Profile?]
-
-- Test user 80
 
 
 ### Things to watch for:
