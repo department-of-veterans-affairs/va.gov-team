@@ -25,7 +25,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 Learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them and the process to getting the level the care they want/need.
 
-Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
+Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care during the health care application process.
 
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they need to provide in that process. 
 
