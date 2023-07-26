@@ -112,3 +112,25 @@ As a person that receives payments from VA, I want to be able to easily view and
 ### How to test
 
 - [Sandbox Test Accounts for Direct Deposit Management API](https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/test_accounts/direct_deposit_test_accounts.md)
+
+
+## Summary of where to locate info on EVSS > LH Migration for Direct Deposit Comp & Pen API
+
+There are several places where things have been documented. 
+
+
+### Public Directories 
+
+**Outside of the Profile Documentation**
+<br>
+[va.gov-team/products/identity-personalization/direct-deposit
+/evss-lighthouse-migration/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration)
+
+
+**Inside Profile Documentation**
+<br>
+[va.gov-team/products/identity-personalization/profile
+/evss-migration/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/evss-migration)
+
+### Private Directory
+[products/identity-personalization/lighthouse-migration](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/lighthouse-migration)
