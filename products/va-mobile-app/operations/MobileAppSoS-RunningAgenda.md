@@ -13,8 +13,6 @@
 
 
 ## Q3 Projects In Progress 
- - Currently in Sprint 75 ( 7/4 - 7/18) 1 of 7 sprints for Q3
- - 
  - 3rd Quarter projects that are currently being worked on by the mobile team
  - Focus will be on non-green items unless there are questions / specific updates
  - Work is listed in PO's priority order based on SoS Sprint Tab
@@ -79,12 +77,67 @@
 
 ## 7/25/23 Agenda:
 * Q3 Projects in Progress
-   * Biometric bug 5986 update (Jayson)
+  * Check-in
+     * Yellow as we continue to be dependent on getting APIs finalized, sycning with Vista for testing confirugation  
+     * Kay and team working on priorities 
+     * Rachel asked how we could be better in handling situations like this
+        * Meko mentioned that we need to identify dependencies upfront and make sure external times are aligned and on the same roadmap 
+        * Meko also mentioned we are learning at the same time especially on the testing side 
+  * Appointments
+     * Call out that apopintment space is very complex
+     * Facilities have their own business rules and can be different
+     * Focus on appointment specific vs organization specific  
+  * Deeplinking
+     * Narin the only person to send messages for push notifcations
+     * Narin had access issues that delayed testing 1-2 days
+     * Potential issue with VANotify schema issue - working to debug but may need external coordination
+     * Ryan said to pull him in if needed
+     * Narin sent Rachel Han a form to sign to get Rachael and Theo access for testing
+         * Rachel H noticed it was 2 years old and wanted to verify its the correct form
+         * Narin confirmed and is working with a MHV PM who has helped on similar asks in the past
+         * Rachel H to submit today 7/25 
+  * Biometric bug 5986 update (Jayson)
+     * Not the issue Tim Wright is working on
+     * Jayson doesnt not believe is biometrics specific
+     * When signing in there is an auto upgrade process to premium - sometimes this auto upgrade does not work
+         * Web experiences this issue as well
+         * Believe the root cause is related to the upgrade process
+     * Jayson working with Identity on this
+     * Rachel asked we should see what Web is doing to work around this and see if we can apply something similar
+         * Jayson confirmed once we get more information from Identity we can review our options to resolve   
+
 * Standing question for the POs
    * Any new work we should be on the lookout for?
+      * Transition from RxR App to Flagship
+      * Matt / Rachel have been talking - need to discuss with team to discuss scope
+           * Only expect PM capacity to be impacted and maybe data to track metrics during transition and possibly coordinate with web to align
+      * Analytics
+          * Align priority with Phase 0 work which can be found in MHV-on-vagov-portal-home channel in their favorites
+             * [Phase Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1667322271773/26b9a1c19e3d4f1dbcc1dba4e4218a56f0fbb75a?sender=u7ec1ac1ea3bde48882e36908)
+             * Product to review and align with this
+     * Veteran Stauts Card
+          * VA got confirmation that other health systems in the private sector will accept this form of id to get medical care/  treatment
+          * Calling this out to re-enforce its value
+     * Rachel (PO) to pull in Jayson as needed to help find information
+          * Travel Reimbursement - Rachel and Kay meeting Thursday
+          * Labs and tests - Jayson shared discovery done a year ago
+               * That discovery may be outdated as all API MHV Medical Records are moving to Fire (Lighthouse) however Jayson indicated it includes details on Lighthouse APIs in that doc
+               * Rachel Question for Jen / Ryan to consider - how much do we know as to what Veterans want to see in labs and tests froma mobile debice
+                   * May need to consider mobile research and piggyback off Thanksgiving 2022 web research
+                   * Ryan has seen comps from that and feels its just waiting to be built - not a lot of complexity
+                   * Discussion on sharing and downdloading - need to consider impact with large documents (hundreds of pages)
+                   * Lauren to follow up with Jen on this topic  (Lauren completed see [Slack](https://adhoc.slack.com/archives/C02CTV4JN0J/p1690314234091539)
+                   * Greta mentioned completing access needs to get access to cover the metrics side of this work
+                   * Reinforcement that just because web did it does not mean Mobile has to
+                   * Liz call out some initial findings from research - Vet agency and cointuation of care especially for mobile (homeless vets) more info to be shared in research findings at next demo
    * Any priority shifts?
+      * None
 * Sprint 77 Planning (Adam)
    * Review [Sprint 77 SoS board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3) to see what is currently slated
+   * No priority changes
+   * Discussions on Check-In and impact being delayed
+   * Discussions on how to use extra capacity
+      * Indicated disciplines leads are discussiong - Matt confirmed 
 
 ## 7/18/23 Agenda: 
  * SoS is being used this day for Sprint Planning for Sprin 76
