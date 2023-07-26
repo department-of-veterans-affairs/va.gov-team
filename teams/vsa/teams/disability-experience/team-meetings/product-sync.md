@@ -1,5 +1,26 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Jul 26 2023       
+### Participants: Rakshinda, Austin
+### Topics Covered:
+- Toxic Exposure Research
+   - Team 1 has no researcher
+   - Team 2 is working on 
+      - ITF
+      - Review and Submit changes
+      - Bug for missing ID errors  
+   - **Reccomend** waiting on Lydia on Aug 8 vs disrupting the Team 2 work in progress
+- Q3 Initiatives prioritization
+   - Team 1 has no capacity till about late Sepetmber for new initiatives working on
+      - Lighthouse migration - current ETA November
+      - 526ez sync with paper version - ETA late Sept
+         - Toxic Exposure and 4142 form flow changes with research     
+   - Team 2 working on
+      - Validation and errors
+      - Monitoring/logging
+      - ??
+   - **Reccomend** Delaying a big priortization workshop till there's capacity to pick up work
+ -  
 ### Date: Jul 19 2023       
 ### Participants: Rakshinda, Austin, Matt, Jen, Steve
 ### Topics Covered:
