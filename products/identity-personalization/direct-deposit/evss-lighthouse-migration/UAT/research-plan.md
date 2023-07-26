@@ -46,7 +46,7 @@ Remote via Zoom
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT/conversation-guide.md)
 
 ## Recruitment
-Perigean will perform recruiting for 7 participants for a total of 5 completed sessions. Before recruitment begins, a recruiting meeting to touchbase is needed. **As part of recruitment, selected participants must be notified that we will be looking at the Direct Deposit section of the site, and they will need their direct deposit information readily available so they can enter it at the end of the session.**
+Perigean will perform recruiting for 7 participants for a total of 5 completed sessions. ~Before recruitment begins, a recruiting meeting to touchbase is needed~. **As part of recruitment, selected participants must be notified that we will be looking at the Direct Deposit section of the site, and they will need their direct deposit information readily available so they can enter it at the end of the session.**
 
 ### Recruitment criteria
 We will aim for at least **5 completed sessions** with the following user type:
