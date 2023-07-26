@@ -1,4 +1,4 @@
-# DRAFT Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, June 2023][Cohort 2]
+# DRAFT Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, August 2023][Cohort 2]
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -62,7 +62,7 @@ Let’s start with a few warm-up questions.
 - Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
 - How was it made clear to you as you were applying, what benefits you would qualify for? 
-- How would you describe the process that happened after you applied, such as the communications from the VA, things you had to do, etc.?
+- How would you describe the process that happened after you applied, such as the communications from the VA, things you had to do, updating information, etc.?
 - Was it clear to you how your application answers impacted your benefits?
 - When it comes to registering and health care at the VA, what does that mean to you?
 
@@ -78,8 +78,9 @@ Let’s start with a few warm-up questions.
 
 - How did you determine what health benefits you could get when you recently applied or were seen for care?
 - What resources did you use and how to understand what you might qualify for?
-- Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage?
+- Did you want to only get care for one specific health concern, or were you interested in enrolling in full health care coverage?
 - Looking back now after you have been using health care benefits, is there anything you wish you would have known during the application?
+  
 
 ### Things to watch for:
 - [How does the Veteran descirbe the process of figuring out what they are eligble for - are they frustrated, do they find it easy, do they just expect the VA to have the data and figure it out for them?]
