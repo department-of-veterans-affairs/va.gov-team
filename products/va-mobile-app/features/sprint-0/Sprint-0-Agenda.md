@@ -52,6 +52,8 @@ The Sprint 0 meeting is a time to do the following:
 * [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md)
 * [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md)
 * [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
+* [Sprint 0: Pre-Needs Burial Claim - Adam](https://docs.google.com/document/d/1DTio0ekfMld9RuvfqPChfvEhBtxL6qGo2hto46MekG0/edit)
+
 
 | Immediate Action | Next Quarter Bucket | Icebox |
 | ----------- | ----------- | ----------- |
