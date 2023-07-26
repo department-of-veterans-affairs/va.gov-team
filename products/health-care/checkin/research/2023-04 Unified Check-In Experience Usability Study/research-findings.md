@@ -30,7 +30,7 @@ Christina Gednalske [[christina.gednalske@adhocteam.us](mailto:christina.gednals
 
 # Research Goals
 
-The purpose of this generative research is to **get feedback from Veterans on the new "unified PCI experience" idea** and, specifically, about ease of use and how well it meets expectations.
+The purpose of this generative research is to **get feedback from Veterans on the new “unified check-in” experience idea of enhancements to Patient Check In (PCI)** and, specifically, about ease of use and how well it meets expectations.
 
 The new unified check-in experience hopes to address: 
 
@@ -38,7 +38,7 @@ The new unified check-in experience hopes to address:
 - Many Veterans use the pre-check-in link that was texted to them to initiate check-in on the day of their appointment, which does not actually allow them to check in.
 - Some Veterans skip checking in altogether when they arrive at the clinic because they think they’re checked in as a result of completing the pre-check-in process, which in fact does not initiate or complete the online check in process.
 
-*Note: “Unified check-in” isn’t a new product or product name. It’s simply an internal term being used to describe a set of features and visual changes to add into the Veteran-facing Patient Check In (PCI) product to improve ease of use for Veterans and increase utilization at VISNs.* 
+*Note: “Unified check-in” isn’t a new product or product name. It’s simply an internal term being used to describe a set of features and visual changes to add into the Veteran-facing PCI product to improve ease of use for Veterans and increase utilization at VISNs.* 
 
 ## Research Questions
 
