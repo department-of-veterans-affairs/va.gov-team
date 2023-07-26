@@ -53,7 +53,6 @@ Users have trouble finding dependent information and where to download their ben
 
 - Adding these links to the authenticated menu doesn't move metrics, and we're back at square one.
 
----
 ## Measuring Success
 
 - [Profile domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
