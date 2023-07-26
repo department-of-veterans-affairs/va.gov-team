@@ -125,7 +125,7 @@ Answer should be yes to satisfy criteria for screen reader.
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD
+* Pilot participant email: santiago_kenneth@bah.com
 * Date and time of pilot session: TBD
 
 **We also need a kick-off meeting with Perigean for recruiting as soon as possible. Our availability is flexible for this.** 
@@ -158,7 +158,7 @@ Please list the people who will be serving in each role. **Include the primary p
     * Charlie Barron, barron_charles@bah.com	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Catherine Hughes, hughes_catherine@bah.com; Kelby Stewart, stewart_kelby@bah.com
-- Participant(s) for pilot test: TBD
+- Participant(s) for pilot test: Kenneth Santiago, santiago_kenneth@bah.com
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	None
 - Note-takers: Perigean
 - Observers (limiting 3-4 of the following per session): 
