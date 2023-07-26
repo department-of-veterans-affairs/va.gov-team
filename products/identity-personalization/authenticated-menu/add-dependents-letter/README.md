@@ -105,7 +105,7 @@ Users have trouble finding dependent information and where to download their ben
 
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
-- Collab cycle kickoff ticket
+- [EPIC | Profile | Authenticated Menu Modifications #62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)
 - Sketch files
 - Release plan
 
