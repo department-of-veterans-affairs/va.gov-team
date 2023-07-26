@@ -45,11 +45,30 @@ You can schedule an appointment online now, or call your VA medical center to sc
 ### Upcoming alert - Generic message if any of the systems are unavailable (VSP, VVS and HSRM) 
 
 ```
-(H1) We can't display all your appointments.
+{H1} We can't display all your appointments.
 
-(H2) We're working to resolve this issue.  To manage an appointment that is not shown in this list, contact the facility at which it was scheduled.
+{H2} We're working to resolve this issue.  To manage an appointment that is not shown in this list, contact the facility at which it was scheduled.
 
 {link} Facility locator 
+```
+
+### Upcoming alert - Cerner redirect
+
+```
+{H2} To manage appointments at these facilities, go to My VA Health
+
+- [Cerner facility]
+- [Cerner facility]
+
+{Action link} Go to My VA Health
+
+{Additional info title} Having trouble opening My VA Health?
+
+{Additional info content}
+    Try these steps:
+    - Disable your browser's pop-up blocker
+    - Sign in to My VA Health with the same account you used to sign in to VA.gov
+{End additional info content}
 ```
 
 ---
