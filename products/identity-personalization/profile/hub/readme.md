@@ -23,11 +23,15 @@ Last Updated: 07/26/2023
 - [Frontend](#frontend)
 
 ## Overview
-
+This page should provide users a landing page for the VA.gov Profle surfacing high level details of the types of things they can do within each section of the VA.gov Profile. This should mirroring some practices we see on websites in healthcare, financial services, and consumer/shopping. 
 
 ## Problem statement
 
+Without this Profile Hub, when users select "Profile" on other pages/parts of va.gov this sends them directly into the "Personal Information" subsection of the Profile which is a breech of best practices. Users then have to navigate to each page of the profile to know what is available within that section or they have to use search to locate the item they're looking for. Navigation is even more challenging in the case of screen reader users since the other sections of the Profile live above the H1 in the current page structure. Unless a screenreader user knows there is something above the H1 they may not know to look for it. 
 
+By creating a Profile Hub page this will give users added context and will resolve the issues encountered with items living above the H1 header.
+
+Additionally, some common things users are searching for within the profile are things that live in other pages of the profile. 
 
 ## User Outcomes
 
@@ -35,7 +39,7 @@ Last Updated: 07/26/2023
 
 *Why would a user want to use this? With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
-- 
+- This would help users navigate the various parts of their Profile and could reduce search for things in the profile. This would provide an overall better experience for screenreader users 
 
 ### Undesired User Outcomes
 
@@ -51,7 +55,7 @@ Last Updated: 07/26/2023
 
 ### Undesired Business Outcomes
 
-- The hub becomes a disorganized dumping ground.
+- The hub becomes a disorganized.
 
 ## Analytics
 
