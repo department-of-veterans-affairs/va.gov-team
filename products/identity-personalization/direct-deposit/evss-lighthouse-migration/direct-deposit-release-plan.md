@@ -2,7 +2,7 @@
 # Release Plan - Direct Deposit Comp & Pen Migration from EVSS to Lighthouse
  [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration#readme)
 
-Last updated: 7/25/2023
+Last updated: 7/26/2023
 
 ## Table of contents
 
@@ -68,10 +68,12 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
   
 |Launch % |Time Frame | Planned Date Range | Ticket | 
 |-------|-----------|-----------|------|
-| Launch to 10% | 1 week | week of 08/02/2023 | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
-| Launch to 25% | 1 week | week of 08/09/2023 |[#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
-| Launch to 50% | ~3 days | week of 08/16/2023 |  [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)|
-| Launch to 100% | ~3 days | week of 08/21/2023 |[#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
+| Launch to 10% | 1 week | week of 08/7/2023 | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
+| Launch to 25% | 1 week | week of 08/14/2023 |[#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
+| Launch to 50% | ~3 days | week of 08/21/2023 |  [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)|
+| Launch to 100% | ~3 days | week of 08/24/2023 |[#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
+
+
   
 - How will you make the product available in production while limiting the number of users who can find/access it: We'll enable the toggle for a % of users
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: We want to see that the new LH API is working as good or better than our current EVSS API
