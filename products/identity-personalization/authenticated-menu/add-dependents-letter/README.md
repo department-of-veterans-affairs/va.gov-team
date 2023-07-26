@@ -1,4 +1,4 @@
-# Project outline: Add links to dependents and letters tools to the authenticated menus
+# Project outline: Add links to dependents and letters tools to the authenticated menu
 
 **Last Updated: 7/25/2023**
 
