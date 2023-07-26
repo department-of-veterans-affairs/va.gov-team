@@ -22,7 +22,7 @@
 ### Table of Contents
 
 - [Overview](#overview)
-- [Problems](#problems)
+- [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
