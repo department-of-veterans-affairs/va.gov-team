@@ -32,7 +32,6 @@ The goals of this user research are to:
     * Which areas of the pre-need application are potentially confusing for users, particularly in determining whose details they need to enter throughout?
     * Do they understand the difference between an Applicant, a Sponsor, a Previous Decedent, and a Preparer? 
 * For additional integration enhancements, determine what's working well and what isn't
-    * Can users easily upload supporting documents through their mobile device, with the addition of new file formats in the UI?
     * Are there additional opportunities to simplify the user experience, particularly since Integration will require the inclusion of new fields?
     * Are there any enhancements to address Corey Shea Act applicants that would be helpful?
 
