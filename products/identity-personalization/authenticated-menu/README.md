@@ -1,4 +1,4 @@
-# Product Outline: Personalized Menu
+# Product Outline: Authenticated Menu
 
 **Last Updated: 7/25/2023**
 
