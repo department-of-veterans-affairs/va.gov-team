@@ -6,9 +6,9 @@
 - Toxic Exposure Research
    - Team 1 has no researcher
    - Team 2 is working on 
-      - ITF
-      - Review and Submit changes
-      - Bug for missing ID errors  
+      - ITF (disovery has uncovered larger oppurtunities. Need to weigh options, but seems like an important place to focus and define short term, medium term and longer term improvements)
+      - Review and Submit changes (need design approval / waiting for Shannon to return)
+      - Bug for missing ID errors (requires input from Contact Center but we are being told there is sensitivity with talking to them)
    - **Reccomend** waiting on Lydia on Aug 8 vs disrupting the Team 2 work in progress
 - Q3 Initiatives prioritization
    - Team 1 has no capacity till about late Sepetmber for new initiatives working on
@@ -17,8 +17,8 @@
          - Toxic Exposure and 4142 form flow changes with research     
    - Team 2 working on
       - Validation and errors
+          - From Error reports, surveys, and failure reports
       - Monitoring/logging
-      - ??
    - **Reccomend** Delaying a big priortization workshop till there's capacity to pick up work
  -  
 ### Date: Jul 19 2023       
