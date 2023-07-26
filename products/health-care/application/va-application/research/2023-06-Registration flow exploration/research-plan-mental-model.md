@@ -3,8 +3,9 @@
 ## Background
 The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one medical need to the "full medical benefits package". 
 
-How might we enable Veterans who simply want to "register" for a specific level of care — up to and including the full medical benefits package — do that instead of processing all applications as enrollment applications?
+How might we enable Veterans who simply want to "register" for a specific level of care — up to and including the full medical benefits package — do that instead of processing all applications as enrollment applications? The outcomes of this initiative including getting Veterans access to the health care benefits for their needs in a transparent and simple process while asking only for the information required for their circumstance (future "short form" growth)
 
+This is a generative study to gain an understanding of the current mental model of Veterans in regards to different benefit types of health care coverage.
 
 - [Link to product initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration).
 
@@ -35,25 +36,25 @@ We will use these findings to:
 - Gain more understanding of the current problem space and Veteran's perception of registration and enrollment
 - Check assumptions and terminology used to remain Veteran-centric 
 - Develop insights into an ideal state and how Veteran would prefer to navigation the health care benefits application journey
-- Guide our direction in creating the registration flow hyptothesis prototype and study for next steps
+- Guide our direction in creating the registration flow hyptothesis prototype and future study for next steps
 
 ### Research questions
 
 Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
 - What is the experience of "registering only" today?
 - Are Veterans aware that they registered or just that they declined enrollment?
-- How does the regulation "§ 17.37 - Enrollment not required—provision of hospital and outpatient care to veterans" impact Veterans when applying for health care?
-- What are the reasons a Veteran would decline to enroll in health care when completing online?
+- What are the reasons a Veteran would decline to enroll in health care when completing the application?
 
 Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care during the health care application process.
 - What is the the awareness by Veterans of health care differences between enrollment and registration?
 - What terms do Veterans use when describing if they are enrolled or registered for health care benefits?
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
 
-Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for.
+Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they need to provide in that process. 
 - What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
 - What is the order and process expectations of Veterans when they are applying (registering or enrolling) for health care benefits?
 - When does it make sense to Veterans to go through eligibility based questions? (before, during or after application)
+- Is there often other applications/claims/VA services that the Veteran has to interact with that could change their decision of being registered to enrolling for the full medical benefits package?
 
 
 ### Hypothesis
@@ -61,6 +62,7 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 - We assume that Veterans will use the term registration when they are talking about choosing their main VA medical facility for care not applying for benefits. 
 - We assume adding the term/step of "registration" will add to the confusion around health care benefits. 
 - We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and claims filed in between. 
+
 
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
@@ -99,6 +101,13 @@ Our intended audience for this research are Veterans and we will be using and le
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 
+**Veterans**
+
+- Mix of participant ages 
+- At least 4 participants over 55+
+- At least 4 participants who are women
+- All particpants have less than a Bachelor's Degree Education level 
+- No more than 3 participant who are White (mix of other demographics)
 
 
 **Screener Questions**
@@ -113,12 +122,9 @@ Cohort 2:
 
 
 
-
 ## Timeline
 
-Cohort 1: August 23 - 28, 2023
-
-Cohort 2: August 29 - September 1, 2023
+August 23 - September 1, 2023
 
 
 
@@ -129,12 +135,12 @@ Cohort 2: August 29 - September 1, 2023
 ### Research sessions
 * Planned dates of research:
 * Cohort 1: August 23 - 28, 2023
-* Cohort 2: August 29 - September 1, 2023
+* Cohort 2: August 28 - September 1, 2023
 
 ### Length of sessions
 * Session length:  < 1 hour
 * Buffer time between sessions: 1 hour
-* Maximum Sessions per day: 4
+* Maximum Sessions per day: 3
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
@@ -146,21 +152,29 @@ Please request enough dates and at ***least double the amount of time slots for 
 ### Availability
 TBD
 
-| **Team Availability** | **Time (ET)** |
-| --------------------- | ------------- |
-| August    	|    		|
-| August  	|   		|
+| **Team Availability** | **Time (ET)** 	|
+| --------------------- | ----------------------|
+| August 23, 2023 	| 4pm ET - 7pm ET 	|
+| August 24, 2023 	| 1pm ET - 7pm ET 	|
+| August 25, 2023 	| 1pm ET - 4pm ET 	|
+| August 28, 2023 	| 3pm ET - 7pm ET 	|
+| August 29, 2023 	| 1pm ET - 7pm ET 	|
+| August 30, 2023 	| 1pm ET - 7pm ET 	|
+| August 31, 2023 	| 1pm ET - 7pm ET 	|
+| September 1, 2023 	| 1pm ET - 4pm ET 	|
+
+
 
 
 
 
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderators: Jessica Stump (jessica.stump@adhocteam.us), Katelyn Caillouet (katelyn.caillouet@agile6.com), 
+- Moderators: Jessica Stump (jessica.stump@adhocteam.us), Katelyn Caillouet (katelyn.caillouet@agile6.com) 
 - Research guide writing and task development (usually but not always same as moderator): Moderators
 - Participant recruiting & screening:	Perigean
 - Project point of contact: Moderators	
-- Participant(s) for pilot test:
+- Participant(s) for pilot test: 
 - Accessibility specialist (for sessions where support for assistive technology may be needed):
 - Note-takers:	Perigean and 1010 Health Enrollment Team
 - Observers: [link to sign up post on Slack]
