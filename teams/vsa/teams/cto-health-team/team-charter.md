@@ -93,7 +93,7 @@ Assess and update workload for remainder of sprint
 - 1 hour
 - [Zenhub: MHV on VA.gov Top-Level View](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
 
-Refinement Process
+##### Refinement Process
 1. Thursday before refinement - A list of tickets to be refined will be sent in the team Slack channel. This gives the team time to become familiar with the tickets and develop questions/comments/suggestions for discussion.
 2. During refinement - The team will discuss the listed tickets, addressing team members' questions/comments/suggestions.
 3. After refinement - Point voting will be opened in the team Slack channel using the Poker Planner app.
@@ -101,12 +101,6 @@ Refinement Process
    - Voting will remain open until EOD the Wednesday follwing refinement to allow the team ample time to process discussion and form an opinion.
 4. After voting, each ticket will be assigned the highest non-outlier point value from the voting in order to be conservative on capacity planning.
    - If follow-up discussions are needed for a ticket, those conversations will be done asynchronously in the team Slack channel among all those who voted on the ticket.
-
-#### Retrospective
-Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action/improvement items
-
-- Every other Tuesday @ 1:30 PM ET
-- 30 minutes
 
 ##### Issue Estimates
 
@@ -118,6 +112,12 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
 | 5 | Large  | Complex | Work is known and can be completed in half a sprint | 
 | 8 | XLarge | Very Complex | Work is complex and/or there might be unknown factors that need to be discussed prior to planning. Once further information is known, break down into smaller tickets that can be completed in a sprint with certantity. |
 | 13 | XXLarge |  | Needs discovery or prototype before it can be planned for a sprint. If a story is estimated as 13, it should be broken down into smaller tickets that can be completed in the sprint. |
+
+#### Retrospective
+Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action/improvement items
+
+- Every other Tuesday @ 1:30 PM ET
+- 30 minutes
 
 #### Team Norms
 - Team crosses all US time zones so core business/meeting hours are 12-4PM ET.
