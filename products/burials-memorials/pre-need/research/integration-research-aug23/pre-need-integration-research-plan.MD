@@ -160,7 +160,7 @@ Please list the people who will be serving in each role. **Include the primary p
     * Charlie Barron, barron_charles@bah.com	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Catherine Hughes, hughes_catherine@bah.com; Kelby Stewart, stewart_kelby@bah.com
-- Participant(s) for pilot test: Alexander Sherrow, sherrow_alexander@bah.com
+- Participant(s) for pilot test: TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	None
 - Note-takers: Perigean
 - Observers (limiting 3-4 of the following per session): 
