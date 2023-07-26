@@ -21,7 +21,7 @@ The VA mobile team has explored the concept of Personalization several times (20
 
 * **Earlier exploratory activities (Nov 2021 - Jan 2022):**
     * [Comparative Analysis: Personalized App Homescreen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-comparative-analysis.md)   
-      * Comparative analysis of how other apps present personalization (see [VA Mobile Comparative Analysis: Navigation UI Patterns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md) for more examples of personlized home screens).   
+      * Comparative analysis of how other apps present personalization (see [VA Mobile Comparative Analysis: Navigation UI Patterns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md) for more examples of personalized home screens).   
     * [VA Mobile Personalization Brainstorm Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-team-brainstorm.md) 
       *  Cross-functional brainstorm activity based on [MyVA Redesign research insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md); attended by UX, stakeholders, product, and engineering.
     * **Concept development:**
