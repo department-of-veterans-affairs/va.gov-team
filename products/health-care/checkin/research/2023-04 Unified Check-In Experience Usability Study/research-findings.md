@@ -109,5 +109,24 @@ The new unified check-in experience hopes to address:
 
 **7. 11 out of 11 Veterans prefer to receive a text message when it’s time to check in to their appointment.** And, 8 out of 11 Veterans would prefer to receive a text message before each of their appointments when they have more than one on the same day. 
  
+# Details of Key Findings
+
+**1. 12 out of 12 Veterans felt that the two pre-check-in text reminders were not confusing.** However, 5 out of 12 Veterans expected a better call to action in the second text message to encourage them to select the pre-check-in link. 
+
+<img width="357" alt="Screenshot 2023-07-26 at 4 18 00 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/ad0fde4f-fc4c-4857-8714-45363050caf7"><br><br>
+
+> "The first one was the initial confirmation and that's all I was expecting to see. And then, looking further down it appears that the VA wants me to take some more actions."
+
+> "Well, do you have to do that? They just want to know the appointment is confirmed. I would probably not check my information."
+
+> "I would be done. I mean I know my information is correct. So, I would be done."
+
+> "Honestly, I wouldn't click the link because of time. If it said, you must confirm the information prior to your appointment. Something more directive."
+
+> "Once it's confirmed, I generally don't do anything with it unless I need to add it to my calendar. If it was worded differently, I might do something. For example, if it said, please review this information, but know that your appointment is confirmed."
+
+**2. 10 out of 10 Veterans thought it was easy or very easy to check in to an appointment.** I.e., the design and content cues from the appointment page to the confirmation page were easily findable and felt very guided. 
+
+<img width="364" alt="Screenshot 2023-07-26 at 4 20 05 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/90e64546-8d18-468c-afe1-b0e2a71b9c58"><br><br>
 
 
