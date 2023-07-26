@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 7/26/2023 - 8/8/2023 ---------------------- FUTURE / TENTATIVE ---------------------------
+## 7/26/2023 - 8/8/2023 
 #### SPRINT GOALS
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Submit Mileage-Only Claim during Check-in**
@@ -56,7 +56,6 @@ ________________________________________________________________________________
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add plain language statement to explain next of kin](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59089)
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[BUG] Audit & Repair Demographic Status Reset in Staging Tool](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
 
----------------------- END FUTURE / TENTATIVE ---------------------------
 __________________________________________________________________________________________________________________________________________________________
 
 ## 7/12/2023 - 7/25/2023
