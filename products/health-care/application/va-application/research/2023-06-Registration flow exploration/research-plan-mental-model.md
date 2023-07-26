@@ -46,9 +46,8 @@ Out goal is to learn if Veterans who have recently started receiving health care
 
 Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
 - What is the the awareness by Veterans of health care differences between enrollment and registration?
-- What terms to Veterans use when describing if they are enrolled or registered for health care benefits?
+- What terms do Veterans use when describing if they are enrolled or registered for health care benefits?
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
-- What is the Veterans perception of eligibility and Priority Groups when they are completing the application?
 
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for.
 - What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
@@ -58,10 +57,9 @@ Learn more about how Veterans would like to go about applying, discovering eligi
 
 ### Hypothesis
 - We assume that Veterans will not use the term "registration only" when referring to health care benefits but will be familiar with enrollment and eligibility.
-- We assume that Veterans will use the term registration when they are talking about choosing their main VA medical facility for care. 
-- We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
+- We assume that Veterans will use the term registration when they are talking about choosing their main VA medical facility for care not applying for benefits. 
 - We assume adding the term/step of "registration" will add to the confusion around health care benefits. 
-- We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between. 
+- We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and claims filed in between. 
 
 ## Methodology	
 - Semi-structured interviews - appropriate for generative research
@@ -129,8 +127,8 @@ Cohort 2: August 29 - September 1, 2023
 
 ### Research sessions
 * Planned dates of research:
-* Cohort 1: 
-* Cohort 2: 
+* Cohort 1: August 23 - 28, 2023
+* Cohort 2: August 29 - September 1, 2023
 
 ### Length of sessions
 * Session length:  < 1 hour
@@ -145,6 +143,8 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 
 ### Availability
+TBD
+
 | **Team Availability** | **Time (ET)** |
 | --------------------- | ------------- |
 | August    	|    		|
