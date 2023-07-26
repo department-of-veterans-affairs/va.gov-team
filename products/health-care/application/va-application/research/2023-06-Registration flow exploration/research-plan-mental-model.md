@@ -40,11 +40,12 @@ We will use these findings to:
 ### Research questions
 
 Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
-- What is the experience of "registering only" today? 
+- What is the experience of "registering only" today?
+- Are Veterans aware that they registered or just that they declined enrollment?
 - How does the regulation "§ 17.37 - Enrollment not required—provision of hospital and outpatient care to veterans" impact Veterans when applying for health care?
 - What are the reasons a Veteran would decline to enroll in health care when completing online?
 
-Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care and Priority Groups impacting them during the health care application process.
+Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care during the health care application process.
 - What is the the awareness by Veterans of health care differences between enrollment and registration?
 - What terms do Veterans use when describing if they are enrolled or registered for health care benefits?
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
