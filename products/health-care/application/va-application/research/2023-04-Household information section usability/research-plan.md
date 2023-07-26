@@ -191,17 +191,17 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
-| August 24, 2023  	|  12pm - 6pm ET 	|
-| August 25, 2023  	|  12pm - 4pm ET 	|
-| August 28, 2023  	|  12pm - 6pm ET 	|
-| August 29, 2023  	|  12pm - 6pm ET 	|
-| August 30, 2023  	|  12pm - 6pm ET 	|
-| August 31, 2023  	|  12pm - 6pm ET 	|
-| September 1, 2023  	|  12pm - 6pm ET 	|
-| September 5, 2023  	|  12pm - 6pm ET 	|
-| September 6, 2023  	|  12pm - 6pm ET 	|
-| September 7, 2023  	|  12pm - 6pm ET 	|
-| September 8, 2023  	|  12pm - 6pm ET 	|
+| August 24, 2023  	|  11am - 5pm ET 	|
+| August 25, 2023  	|  11am - 4pm ET 	|
+| August 28, 2023  	|  11am - 5pm ET 	|
+| August 29, 2023  	|  11am - 5pm ET 	|
+| August 30, 2023  	|  11am - 5pm ET 	|
+| August 31, 2023  	|  11am - 5pm ET 	|
+| September 1, 2023  	|  11am - 5pm ET 	|
+| September 5, 2023  	|  11am - 5pm ET 	|
+| September 6, 2023  	|  11am - 5pm ET 	|
+| September 7, 2023  	|  11am - 5pm ET 	|
+| September 8, 2023  	|  11am - 5pm ET 	|
 
 
 
