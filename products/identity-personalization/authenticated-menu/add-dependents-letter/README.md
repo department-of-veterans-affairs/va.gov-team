@@ -84,53 +84,22 @@ Users have trouble finding dependent information and where to download their ben
 |----------|---------------|-------------------|
 |Clicks into "Dependents" from the authenticated menu|||
 |Clicks into "Letters" from the authenticated menu |||
----
-
-## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
-Modifying the personalized menu is a developmentally low cost potentially high impact change.
-
-## Solution Approach
-
-
-The feature is currently built, this is a minor adjustment/update to what is listed/linked there. 
-This proposed change shouldn't have a ton of developoment demands and could be rolled out very quickly allowing us to  guague if our guess is correct. 
-Modifying the personalized menu is a small initiative with potentially large impacts to help users.
-
---- 
-
-## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-This is currently launched, we would be making very minor changes to the options listed in the UI. A release plan will be created after we have a collab cycle kick off conversation around the changes. 
-
-## Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
-
----
 
 ## Solution Narrative
 
-### Current Status
+### Key dates
 
-### Key Decisions
+- July 2023: Initial discussions; project kickoff
 
----
+## Design
+
+- Add link to Sketch files
    
-## Screenshots
-
 ### Before
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/76d5cd22-fab0-4c53-a69e-4d80bb82797a)
 
-
 ### After
 
----
- 
+## Frontend
+
+## Backend
