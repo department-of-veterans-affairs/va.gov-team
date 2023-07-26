@@ -1,4 +1,5 @@
 # Direct Deposit
+Last Updated: 7/26/2023
 
 Direct deposit information lives in two places:
 - [Our public repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit) contains an overview and detailed use case documentation.
