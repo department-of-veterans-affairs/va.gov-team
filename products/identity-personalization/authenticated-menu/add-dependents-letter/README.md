@@ -19,6 +19,19 @@
 |----|----|-----|
 |Kristin Ouellette Muskat| Information architect for Sitewide content/IA| kristin.o.m@coforma.io|
 
+### Table of Contents
+
+- [Overview](#overview)
+- [Problems](#problems)
+- [User Outcomes](#user-outcomes)
+- [Business Outcomes](#business-outcomes)
+- [Measuring Success](#measuring-success)
+- [Key deliverables](#key-deliverables)
+- [Key Dates](#key-dates)
+- [Design](#design)
+- [Frontend](#frontend)
+
+
 ## Overview
 
 We're looking to run a lightweight experiment by adding links into the authenticated menu for [Dependents ](https://staging.va.gov/view-change-dependents/view)and [Letters](https://staging.va.gov/records/download-va-letters/).
@@ -32,24 +45,28 @@ However, we're looking for a lighter weight solution than fully integrating thes
 
 Users have trouble finding dependent information and where to download their benefit letters. Through research and analytics, we have observed people expect to find these things in the VA.gov profile, but those things are currently not linked from there.
 
-## Desired User Outcomes
+## User Outcomes
+
+### Desired User Outcomes
 
 *Why would a user want to use this? With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 - By elevating dependent and letters in the authenticated menu, users should be able to more easily find these tools.
 
-## Undesired User Outcomes
+### Undesired User Outcomes
 
 - Users still look for dependent and letters in the profile.
 
-## Desired Business Outcomes
+## Business Outcomes
+
+### Desired Business Outcomes
 
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 - Adding links to dependents and letters to the personalized menu is a significantly lighterweight solution than fully integrating these sections into the profile, and even easier than simply linking to these pages from the profile.
 - This may help prove out that we can/should more holistically leverage the authenticated menu to support the authenticated experience.
 
-## Undesired Business Outcomes
+### Undesired Business Outcomes
 
 - Adding these links to the authenticated menu doesn't move metrics, and we're back at square one.
 
@@ -84,9 +101,15 @@ Users have trouble finding dependent information and where to download their ben
 |Clicks into "Dependents" from the authenticated menu|||
 |Clicks into "Letters" from the authenticated menu |||
 
-## Solution Narrative
+## Key deliverables
 
-### Key dates
+(This is just a starting list. Feel free to add whatever is relevant here.)
+
+- Collab cycle kickoff ticket
+- Sketch files
+- Release plan
+
+## Key dates
 
 - July 2023: Initial discussions; project kickoff
 
@@ -100,5 +123,3 @@ Users have trouble finding dependent information and where to download their ben
 ### After
 
 ## Frontend
-
-## Backend
