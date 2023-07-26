@@ -178,6 +178,6 @@ Post MVP:
 * When pressing the action link, initiate a pre-filled secure message to the ordering provider's triage group. In this screen, also provide a number to call AudioCare. A user should be able to edit the triage group name and also add a note.
 * Process form or something that shows where the prescription is in the process
 
-## MVP Phase 1
+## Phase 1
 
-## MVP Phase 2
+## Phase 2
