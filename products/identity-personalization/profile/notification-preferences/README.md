@@ -1,6 +1,6 @@
 # Product outline: Notification settings
 
-**Last Updated: July 20, 2023**
+**Last Updated: July 26, 2023**
 
 ## Table of Contents
 - [POCs](#pocs)
