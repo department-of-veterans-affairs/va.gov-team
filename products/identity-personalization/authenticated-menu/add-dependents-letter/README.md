@@ -56,6 +56,21 @@ Users have trouble finding dependent information and where to download their ben
 ---
 ## Measuring Success
 
+## Measuring Success
+
+- [Profile domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
+
+### Objective: Increase findability of Dependents and Letters information
+
+**When filling in data -- update dates to be 1 month pre-launch, one month post launch (to 100%), and the second month post-launch (to 100%) based on actual launch dates.**
+
+**KPI: See variations on "dependents" and "letters" entirely removed from the top 10 search terms within the profile.**
+
+|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|-------------|---------------|-------------------|
+|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)||||
+|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)||||
+
 
 ### Key Performance Indicators (KPIs)
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
