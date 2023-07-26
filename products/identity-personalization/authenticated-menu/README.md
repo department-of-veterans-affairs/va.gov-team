@@ -24,7 +24,7 @@
 - [Frontend](#frontend)
 
 ## Overview
-When logged in, a menu labeled with the user's name appears in the upper-right corner of the screen. This personalized menu links to three personalized spaces -- My VA, the VA.gov profile, and the MHV landing page. In the 5+ years this menu has been live on VA.gov, we've done very little in the way of exploring how it could better support users.
+When logged in, a menu labeled with the user's name appears in the upper-right corner of the screen. This authenticated menu links to three personalized spaces -- My VA, the VA.gov profile, and the MHV landing page. In the 5+ years this menu has been live on VA.gov, we've done very little in the way of exploring how it could better support users.
 
 ## Problem statement
 
@@ -36,11 +36,11 @@ VA.gov has historically prioritized the unauthenticated experience in its naviga
 
 *Why would a user want to use this? With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
-- Users would want to use the personalized menu to more easily find authenticated tools and information without having to sift through content pages.
+- Users would want to use the authenticated menu to more easily find authenticated tools and information without having to sift through content pages.
 
 ### Undesired User Outcomes
 
-- Done wrong, the personalized menu could become a noisy, cluttered place that makes it harder for users to easily navigate to authenticated tools.
+- Done wrong, the authenticated menu could become a noisy, cluttered place that makes it harder for users to easily navigate to authenticated tools.
 
 ## Business Outcomes
 
@@ -48,11 +48,11 @@ VA.gov has historically prioritized the unauthenticated experience in its naviga
 
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
-- Done right, the personalized menu could be an important part of a more holistic authenticated experience. 
+- Done right, the authenticated menu could be an important part of a more holistic authenticated experience. 
 
 ### Undesired Business Outcomes
 
-- The personalized menu becomes a disorganized dumping ground.
+- The authenticated menu becomes a disorganized dumping ground.
 
 ## Analytics
 
