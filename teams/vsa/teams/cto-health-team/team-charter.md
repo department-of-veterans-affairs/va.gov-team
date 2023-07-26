@@ -110,14 +110,14 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
 
 ##### Issue Estimates
 
-| Point | Task Size | Approx Days/hours | Description |
+| Point | Task Size | Complexity | Description |
 |-|-|-|-|
-| 1 | Easy  | ~1-2 days / ~8-16 hrs | Work is known, can be executed quickly |
-| 2 | Small | ~2-3 days / ~16-24 hrs | Work is known, and can be completed with minimal hours |
-| 3 | Medium | ~3-4 days / ~24-48 hrs | Work is known, and can be completed in a couple days |
-| 5 | Large  | ~5 days / ~40 hrs | Work is known and can be completed in half a sprint | 
-| 8 | XLarge | ~6-8 days/ ~40-60 hrs | Work is complex and/or there might be unknown factors that need to be discussed prior to planning. Once further information is known, break down into smaller tickets that can be completed in a sprint with certantity. |
-| 13 | XXLarge |  | Very complex, needs discovery or prototype before it can be planned for a sprint. If a story is estimated as 13, it should be broken down into smaller tickets that can be completed in the sprint. |
+| 1 | Easy  | Very Simple | Work is known, can be executed quickly |
+| 2 | Small | Simple | Work is known, and can be completed with minimal hours |
+| 3 | Medium | Average | Work is known, and can be completed in a couple days |
+| 5 | Large  | Complex | Work is known and can be completed in half a sprint | 
+| 8 | XLarge | Very Complex | Work is complex and/or there might be unknown factors that need to be discussed prior to planning. Once further information is known, break down into smaller tickets that can be completed in a sprint with certantity. |
+| 13 | XXLarge |  | Needs discovery or prototype before it can be planned for a sprint. If a story is estimated as 13, it should be broken down into smaller tickets that can be completed in the sprint. |
 
 #### Team Norms
 - Team crosses all US time zones so core business/meeting hours are 12-4PM ET.
