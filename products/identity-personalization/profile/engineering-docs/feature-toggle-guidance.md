@@ -81,19 +81,31 @@ Last updated: July 11, 2022
   - Each of these steps will be a ticket created by your PM/PO.
 - Once the feature is entirely on, the developer can remove the feature toggle. Removing the toggle will also include removing old tests and code no longer needed.
 
-## Feature Toggle List - Status
+## Feature Toggle List - Currently used toggles
 
-One thing that is a bit strange is that these toggle do not show up in the same order within the feature toggle ui on staging vs prod, so just be aware.
+_Note: One thing that is a bit strange is that toggles do not show up in the same order within the feature toggle ui on staging vs prod, so just be aware._
 
-- `profile_use_field_editing_page` - is in place for new editing experience for profile. Future work will use this toggle
-- `profile_user_claims` - still in use in BE. May be able to remove if decided that the feature is solid at this point.
-- `profile_email_specify_change` - in use for only specific users on prod
-- `profile_show_payments_notification_setting` - in use for only specific users on prod
-- `profile_get_military_info_from_vaprofile` - OFF IN PROD
+- `profile_user_claims` - ON IN PROD
+  - May be able to remove if decided that the feature is solid at this point. Provides boolean flags on what endpoints should be able to be called for a given user
+
+- `profile_use_field_editing_page` - OFF IN PROD
+  - allows an 'editing as a sub-task' UI to be used when updating a single section of profile. Used for mobile phone and email address sections via notification settings page alerts
+  
+- `profile_show_payments_notification_setting` - OFF IN PROD
+  - Used to show/hide Payments group and related notifications in Notification Settings page
+
+- `profile_use_info_card` - ON IN PROD
+  - will be removed, as work has been completed and validated. Allows switching between the newer Info Card component and older table component.
+ 
 - `profile_hide_direct_deposit_comp_and_pen` - OFF IN PROD
-- `profile_show_appeal_status_notification_setting` - OFF IN PROD
+  - can be used to hide Direct Deposit Comp and Pen
+    
 - `profile_show_military_academy_attendance` - OFF IN PROD
-- `profile_show_pronouns_and_sexual_orientation` - OFF IN PROD. These fields are not implemented in the BE and hadn't been approved, so are removed from showing in the FE
-- `profile_use_vafsc` - OFF IN PROD, experimental for using newest form system. Since the form system is currently not production ready this flag is turned off and work can resume when the form system is updated further.
-- `profile_use_vaos_v2_api` - OFF IN PROD
+  - shows military academy attendance in the history shown on Military Information page
+    
+- `profile_show_pronouns_and_sexual_orientation` - OFF IN PROD
+  - Work for these fields is on hold, so they are hidden in the FE via this toggle until further notice
+    
+- `profile_use_vafsc` - OFF IN PROD
+  - being removed, was from an experiement using the VAFSC library for forms and fields
 
