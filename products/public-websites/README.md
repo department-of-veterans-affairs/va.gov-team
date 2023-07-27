@@ -10,7 +10,7 @@ VA Product Owner = Dave Conlon (@davidconlon)
 - [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 
 ### Github / work tracking
-- [va.gov-cms Sprint board](https://github.com/department-of-veterans-affairs/va.gov-cms/#workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?labels=%E2%AD%90%EF%B8%8F%20public%20websites)  (install Zenhub browser plugin)
+- [va.gov-cms Sprint board](https://github.com/department-of-veterans-affairs/va.gov-cms/#workspaces/public-websites-6171bf4bf43742001af18cc5/board)  (install Zenhub browser plugin)
 - Team label: `Public Websites`
 
 
@@ -25,9 +25,9 @@ VA Product Owner = Dave Conlon (@davidconlon)
 | [Benefits Detail Page](#benefits-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | [Disability rating calculator](#disability-rating-calculator) |
 | [Campaign Landing Pages](#campaign-landing-pages-clp) | [Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Discharge update wizard](#discharge-update-wizard) |
 | [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging)|
-| [Event](#event) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
+| [Event](#event-detail-page) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
 | [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
-| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Offices](#offices) | [“How to apply” wizards](#how-to-apply-wizards) |
+| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Offices](#offices) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
 | [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | [React widgets governance](#react-widgets-governance)|
 | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
 | [Promo Banner](#promo-banner) |  [Unauthed React widgets](#unauthed-react-widgets) |  .  |
@@ -112,7 +112,6 @@ Campaign Landing Pages are intended to prevent creation of standalone marketing 
 **More info:**
 * A6 program GDrive folder:[ Campaign Landing Page](https://drive.google.com/drive/u/1/folders/1pyvDhf6ZdvBehFs3lFzyAF2kMeGkazX6)
 * [Product launch docs: tier 2 content IA & Design > Campaign Landing Page Templates - Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates) 
-* [Public Websites team documentation: Campaign Landing Pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/campaign-landing-pages/campaign-landing-pages.md) - 
 * [VFS Product Directory: Campaign Landing Page](https://depo-platform-documentation.scrollhelp.site/getting-started/campaign-landing-page)
 
 
@@ -122,7 +121,7 @@ Campaign Landing Pages are intended to prevent creation of standalone marketing 
 
 Template that displays chronological list of Events published to that list. There are two types of events lists: those that are associated with National VA (Outreach & Events hub) and those associated with specific VA Medical Center (VAMC) facilities.
 
-Events / lists may only be managed by editors with permissions for that specific VAMC facility or office (aka “Section).
+Events / lists may only be managed by editors with permissions for that specific VAMC facility or office (aka “Section").
 
 Events filters are available on Lists, to filter by past, future, or specific date(s). (Filters may also be referred to as “V2 filters”.)  Most common events lists:
 
@@ -175,7 +174,7 @@ Events may be single or recurring, and are either:
 
 **What is:**
 
-A Drupal content type that is used to aggregate [Q&A nodes](tbd url) (jumplink). Often published with a URL path in /resources/, indistinguishable to front-end users from other [Resources & Support ](tbd url)(jumplink) content.
+A Drupal content type that is used to aggregate [Q&A nodes](#qa---single). Often published with a URL path in /resources/, indistinguishable to front-end users from other [Resources & Support](#resources-and-support-detail-page) content.
 
 **Example content:**
 * URL: [https://va.gov/resources/signing-in-to-vagov](https://va.gov/resources/signing-in-to-vagov) 
@@ -185,7 +184,7 @@ A Drupal content type that is used to aggregate [Q&A nodes](tbd url) (jumplink).
 * Primary editors: Sitewide Content team
 
 **More info:**
-* COPE effort to make Q&A resuable on [Resources & Support ](tbd url)(jumplink)  = [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
+* COPE effort to make Q&A reusable on [Resources & Support](#resources-and-support-detail-page) = [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
 
 
 ## Find a form / VA Forms
@@ -233,26 +232,27 @@ Announcements are reusable components that give a common way to make full page a
 
 <img width="1167" alt="image" src="https://user-images.githubusercontent.com/61624970/218570338-9e1728ce-db6b-4639-aa4c-926225f4db42.png">
 
-Using a shared format and config file, developers are able to quickly create new announcements and easily implement rules for when and on what pages they should be displayed.  The config file is located in vets-website at 'src/platform/site-wide/announcements/config/index.js' and an example config looks like this:
+Using a shared format and config file, developers are able to quickly create new announcements and easily implement rules for when and on what pages they should be displayed.  The config file is located in vets-website at `src/platform/site-wide/announcements/config/index.js` and an example config looks like this:
 
-`  announcements: [
-    {
-      name: 'new-homepage',
-      // Homepage only
-      paths: /^\/$/,
-      component: HomepageRedesignModal,
-      disabled: false,
-      show: AnnouncementBehavior.SHOW_ONCE_PER_SESSION,
-      returnFocusDivContent: 'Current Homepage',
-    },
-  ],
-`
+```
+announcements: [
+  {
+    name: 'new-homepage',
+    // Homepage only
+    paths: /^\/$/,
+    component: HomepageRedesignModal,
+    disabled: false,
+    show: AnnouncementBehavior.SHOW_ONCE_PER_SESSION,
+    returnFocusDivContent: 'Current Homepage',
+  },
+],
+```
 
-New announcement components should be built in the announcements components directory (src/platform/site-wide/announcements/components), although the announcement framework allows any React component in vets-website to be used.
+New announcement components should be built in the announcements components directory (`src/platform/site-wide/announcements/components`), although the announcement framework allows any React component in vets-website to be used.
 
 The `announcement` property in the rendered component will contain the announcement as stored in the config, so in this case `announcement.name` will render `New Education Feature`.
 
-The `show` perperty can be set to one of 3 values defined in the AnnouncementBehavior enum constant, which are SHOW_ONCE, SHOW_EVERY_TIME and SHOW_ONCE_PER_SESSION. The SHOW_ONCE option persists to `localStorage`, the SHOW_ONCE_PER_SESSION persists to the `sessionStorage` nad the SHOW_EVERY_TIME does not persist dismissal at all.
+The `show` property can be set to one of 3 values defined in the AnnouncementBehavior enum constant, which are SHOW_ONCE, SHOW_EVERY_TIME and SHOW_ONCE_PER_SESSION. The SHOW_ONCE option persists to `localStorage`, the SHOW_ONCE_PER_SESSION persists to the `sessionStorage` and the SHOW_EVERY_TIME does not persist dismissal at all.
 
 Architecture:
 
@@ -261,7 +261,7 @@ The Announcement entry point uses React to bind to an element inside an announce
 
 ## Full-width Alert
 
-aka : Banner
+aka: Banner
 
 **What is:**
 Banners are fixed content at the top of the page used for dismissible announcements such as new tools, news, etc. 
@@ -274,7 +274,7 @@ Currently, www.va.gov supports two types of Full Width Alerts:
 1. **Informational alerts,** which are used to provide helpful information to a user or something that warrants attention. Not used for negative consequences.
 2. **Warning alerts,** which are used to warn a user, such as when there are negative consequences, but necessary when something has gone wrong.
 
-You can read more about these alert types in the [VA Design System](https://design.va.gov/components/alertboxes) or read more about Full Width Alerts in the (opens in a new window).
+You can read more about these alert types in the [VA Design System](https://design.va.gov/components/alert) or read more about Full Width Alerts in the (opens in a new window).
 
 **Example content:**
 * CMS: 
@@ -309,7 +309,7 @@ Currently, www.va.gov supports three types of promo banners:
 2. **Email signups**, which relate to email signups for various VA updates / alerts / communications.
 3. **News stories**, which relate to newly received or noteworthy information about the VA.
 
-You can read more about these promo types in the [VA Design System](https://design.va.gov/components/promo-banners) or read more about Promo Banners in the [Knowledge Base](https://prod.cms.va.gov/node/39828) (opens in a new window).
+You can read more about these promo types in the [VA Design System](https://design.va.gov/components/banner/promo) or read more about Promo Banners in the [Knowledge Base](https://prod.cms.va.gov/node/39828).
 
 **Example content:**
 * CMS: [https://staging.cms.va.gov/node/48052/edit](https://staging.cms.va.gov/node/48052/edit) 
@@ -318,7 +318,7 @@ You can read more about these promo types in the [VA Design System](https://desi
 * Primary editors: Sitewide Content team
 
 **More info:**
-* [Promo banner](https://design.va.gov/components/promo-banners): va.gov design system
+* [Promo banner](https://design.va.gov/components/banner/promo): va.gov design system
 
 
 ## Outreach Materials Library (Publication Listing Page) / Publications
@@ -346,7 +346,7 @@ Q&As may be used on Resources & Support pages, or FAQ pages, as an entity refere
 **Example content:**
 * URL: [https://www.va.gov/resources/gi-bill-and-other-va-education-benefit-payments-faqs/#:~:text=When%20will%20I%20get%20my,way%20to%20receive%20your%20payment](https://www.va.gov/resources/gi-bill-and-other-va-education-benefit-payments-faqs/#:~:text=When%20will%20I%20get%20my,way%20to%20receive%20your%20payment) – Q&A appears on FAQ page
 * CMS: 
-  * Q&A node: [https://staging.cms.va.gov/resources/when-will-i-get-my-first-gi-bill-payment/edit](https://staging.cms.va.gov/resources/when-will-i-get-my-first-gi-bill-payment/edit) 
+  * Q&A node: [https://staging.cms.va.gov/resources/when-will-i-get-my-first-gi-bill-payment](https://staging.cms.va.gov/resources/when-will-i-get-my-first-gi-bill-payment) 
   * FAQ where Q&A is added as entity reference, under Q&A groups: [https://staging.cms.va.gov/node/15640/edit](https://staging.cms.va.gov/node/15640/edit) 
 
 
@@ -354,7 +354,7 @@ Q&As may be used on Resources & Support pages, or FAQ pages, as an entity refere
 * Primary editors: Sitewide Content team
 
 **More info:**
-* **Q3 2022 project:**: adding reusable Q&As to Resources & Support content type: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
+* **Q3 2022 project**: adding reusable Q&As to Resources & Support content type: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
 
 
 ## Resources and support Detail Page
@@ -415,7 +415,7 @@ Q3 2022, only a set of COVID- and PACT-act-related pages on VA.gov are translate
 Sometimes content generated by the Sitewide Content team, other teams, or just portions of a page may need to “dark launch” meaning: not be available to all site users in production. We have options for how to manage dark launches: 
 
 ### It is **not** currently possible to
-* stage CMS + content-build + vets-website changes on Tugboat. Tugboat only supports CMS + content-build: #6434   is an open Platform CMS ask to enable this.
+* stage CMS + content-build + vets-website changes on Tugboat. Tugboat only supports CMS + content-build: (#6434)[https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6434] is an open Platform CMS ask to enable this.
 * hide a specific CMS node from robots.txt & the sitemap. Not ticketed, and would/will require custom code.
 
 ### It IS currently possible to
@@ -511,10 +511,8 @@ VA.gov header and footer, within VA.gov context, including presentation of banne
 * URL: [https://www.va.gov/](https://www.va.gov/) 
 
 **More info:**
-* 2019 research for launch: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/header-footer-and-navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/header-footer-and-navigation)
 * Mobile authed header: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/30626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30626)
 * Mobile unauthed header: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/30623](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30623) 
-* [VFS Product Directory: Site Navigation](https://depo-platform-documentation.scrollhelp.site/getting-started/site-navigation)
 
 
 
@@ -546,23 +544,9 @@ Veterans are eligible for benefits based on a complex matrix of factors includin
 
 **More info:**
 * [Income Limits App product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app) in Github
-* A6 program GDrive folder: [Benefits Eligibility Tool](https://drive.google.com/drive/u/1/folders/1FvuprvP7-6tpn8jrctRrms8MTOqPvuAL)
 * A6 program GDrive folder: [Income limits](https://drive.google.com/drive/u/1/folders/1uwHUEe8UBHST-didMR68Xfaud-BaI0iJ)
 * **Q3 2022 project:** [Income limits web app: Discovery, Design, prototype, user research #9626](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9626)  
 
-
-## Offices
-
-**What is:**
-
-The VA is comprised of multiple administrative offices, e.g. VHA, VEO, NCA, VBA, etc. ([diagram](https://app.mural.co/t/vagov6717/m/vagov6717/1643724063628/1654203c1a0d6c763bbd5c969febf94ec476df79?sender=kevinwalsh8610)) Each of these offices contributes their own content to the Veteran-facing pages of the modernized VA.gov CMS. However, information _about_ the offices themselves is not necessarily a Veteran priority, e.g. organization of, administrative officials, etc. The Public Websites team intends to build a product that organizes information about these Offices, synced from Salesforce, and displays that content within VA.gov somewhere. 
-
-**Example content:**
-* TBD
-
-**More info:**
-* This project was launched in ~Feb 2022, but is blocked by Salesforce &lt;>Lighthouse integration. 
-* Epic: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7587](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7587) 
 
 ## On-site search (using search.gov)
 
@@ -572,7 +556,7 @@ VA.gov uses search.gov as its engine. Public Websites owns that integration, and
 
 **Example content:**
 * URL: [https://www.va.gov/search/?query=test&t=false](https://www.va.gov/search/?query=test&t=false)  
-* Example issue: 
+* Example issue: TODO
 
 **Note on API keys**
 * API keys for search and search-typeahead are different keys generated by api.data.gov.  At the time this was written, keys are maintained by platform devops, and the keys belong to the universal devops user.  Should the email tied to these keys be lost, new ones will need to be generated
@@ -582,7 +566,6 @@ VA.gov uses search.gov as its engine. Public Websites owns that integration, and
 * [On Site Search - product docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search)
 * Design system: [Search input](https://design.va.gov/components/search-input)
 * Search.gov indexing documentation: https://search.gov/indexing/indexing-with-searchgov.html 
-* 2020: bring more sites under search banner: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search) 
 * 2021: consistent UI styling for search implementations: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency) 
 * [VFS Product Directory: Search](https://depo-platform-documentation.scrollhelp.site/getting-started/search)
 
@@ -596,9 +579,9 @@ Request to change a URL and/or implement a redirect for a URL. Also for vanity U
 Facilities team can handle redirects for Facility URLs / content. 
 
 **Workflow:**
-[Redirects IA Context & Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md)
+[Redirects IA Context & Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/redirects.md)
 * Another team requests a URL redirect
-* Sitewide Content team vets the request – IA will approve the requested URLs (Process: [Platform IA Redirects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md))
+* Sitewide Content team vets the request – IA will approve the requested URLs (Process: [Platform IA Redirects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/redirects.md))
 * Sitewide Content team assigns the issue to Public Websites via va.gov-team issue
 * Public Websites moves the issue to va.gov-cms repo, assigns in sprint, completes work, merges
 * If server-side redirect: Revproxy build job must deploy the code: http://jenkins.vfs.va.gov/job/deploys/job/revproxy-vagov-prod/ -- this job only runs automatically on Wed at ~10am ET. (Job is owned by the Platform team. )
@@ -618,7 +601,7 @@ Facilities team can handle redirects for Facility URLs / content.
 **More info:**
 * [Platform Redirect Implementation strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md) - context, describes various types of redirects, and mechanisms for carrying them out, including server-side vs. client-side.
   * [Redirects(sensitive repo)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/redirects.md) - this doc will be merged into the above Implementation Strategy doc 
-* [Redirects IA Context & Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md)
+* [Redirects IA Context & Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/redirects.md)
 * [RevProxy deploy job info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/infrastructure/reverse_proxy.md)
 * [Proxy-rewrite info](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md) - relevant for client-side redirects from TeamSite pages
 
@@ -647,7 +630,7 @@ Calls to action on these widgets point users to the Electronic Healthcare Record
 * [React widget flows](https://app.mural.co/t/vagov6717/m/vagov6717/1651166973924/bc8bc44cab4e4ae7b84819d22ba89b11aa70e5e1?invited=true) (Mural)
 * **Q2/Q3 2022 project:** Active effort to replace old hard coded data file with Drupal as source of truth for which healthcare records management system is used by a VA medical center system. 
    * [CMS source of truth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Cerner-Support/cms-source-of-truth) (github)
-* Cerner cutovers have been complex and not additional facilities will move to Cerner in 2022. Cerner cutovers should resume in 2023.
+* Cerner cutovers have been complex and no additional facilities will move to Cerner in 2022. Cerner cutovers should resume in 2023.
 
 
 ## VA.gov Homepage
@@ -667,7 +650,8 @@ The homepage includes links to key traffic areas of the site. These links are re
 * A6 program GDrive folder:[ Homepage](https://drive.google.com/drive/u/1/folders/1a-dg6-nWuqNTxO9lds4iqWHo5DxYj_z8)
 * **Q2/Q3 2022 project:**[Homepage redesign iteration:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#home-page-redesign-iteration) design refresh underway, prototype in staging.  Q3 user testing & will lead to design / build iteration for further testing. 
    * [[Epic] VA.gov Home page redesign #40845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40845) 
-* 2021 Top Tasks research/info: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/home-page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/home-page) 
+* 2022 Top Tasks unmoderated research/info: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md) 
+* 2022 Top Tasks moderated research/info: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md)
 * [VFS Product Directory: VA.gov Homepage](https://depo-platform-documentation.scrollhelp.site/getting-started/va-gov-homepage)
 
 
@@ -733,7 +717,6 @@ https://www.va.gov/discharge-upgrade-instructions/questions
 The discharge update wizard was written by the Decision Tools team. That team transitioned responsibility to the Search & Discovery Team, which has since become Public Websites purview. 
 
 **More info:**
-* vets.gov-team repo: [discharge tool issues](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?q=label%3A%22discharge+tool%22+)
 * [Discharge Update wizard product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update)
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md)
 
@@ -770,14 +753,19 @@ There are currently 5 urls where in-content "How to Apply" wizards exist:
 
 Education: owned by EDU team
 * https://www.va.gov/education/eligibility
+  * React component (vets-website): `src/applications/edu-benefits/component/createEducationApplicationStatus.jsx`
 * https://www.va.gov/education/how-to-apply
+  * React component (vets-website): `src/applications/edu-benefits/component/createEducationApplicationStatus.jsx`
 
 Still owned by PW:
 * https://www.va.gov/disability/eligibility
+  * content-build only (no React component)
 * https://www.va.gov/disability/how-to-file-claim
+  * content-build only (no React component)
 * https://www.va.gov/decision-reviews/higher-level-review/
+  * content-build only (no React component)
 
-TODO: Learn what is the actual widget component of these pages, and PW ownership of that. Have these all been replaced by online forms? 
+TODO: Have these all been replaced by online forms? 
 
 More info:
 * [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards) 
