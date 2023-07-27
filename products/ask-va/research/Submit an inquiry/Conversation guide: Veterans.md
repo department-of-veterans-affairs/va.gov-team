@@ -335,7 +335,7 @@ Okay, so we’re going to imagine that this is your information, instead of Hect
 
 * What is this page telling you?
 * Is there anything else that you’d like to know after you submit an inquiry?
-* How do you feel about receiving an email with this information too?
+* How do you feel about receiving an email with this information?
 
 Great, thank you. I’m going to ask you to stop sharing your screen now. For the rest of our conversation, we’ll just talk face-to-face.
 
@@ -354,8 +354,8 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
 * And after you submit an inquiry, what do you expect to happen?
    * Do you expect to get updates?
    * How would you expect to get an update? `TEXT, EMAIL, RECEIVE A NOTIFICATION IN YOUR PROFILE, ETC.`
-   * How would you look up your inquiry?
    * How often?
+   * How would you look up your inquiry?
 * How would you expect to get a response to your inquiry?
    * Who would respond?
    * Would you be able to reply?
