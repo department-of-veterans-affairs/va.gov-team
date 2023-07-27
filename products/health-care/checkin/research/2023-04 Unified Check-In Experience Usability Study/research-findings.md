@@ -129,4 +129,27 @@ The new unified check-in experience hopes to address:
 
 <img width="364" alt="Screenshot 2023-07-26 at 4 20 05 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/90e64546-8d18-468c-afe1-b0e2a71b9c58"><br><br>
 
+> "It's pretty much guided. Simple. Very easy."
+
+> "Very easy. It was clear. It wasn't a lot of steps. It's not a bunch of extra steps."
+
+> "The green arrow [Link - Action component] works for all the cues."
+
+> "I'm not sure how you could make it easier. It's very quick and convenient."
+
+> "I think maybe this process is a step or two longer than what it needs to be… But, the travel part saves you a step. You can do it right then and there. Like, going to that BTSSS part. So, I do like that travel part there."
+
+> "I think about 3 or 4 times, it will be easier. It's way better than the kiosk with no voice output, especially with blind and low-vision Veterans. So, this is way easier."
+
+However, the content in the "What to do next" in the appointment card was confusing to a few Veterans for minor reasons. Therefore, the appointment card could be simplified to avoid being redundant with the appointment information in the appointment list, as well as reduce cognitive load and align better with VA notification design patterns.  
+
+<img width="329" alt="Screenshot 2023-07-27 at 10 57 26 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/6416368e-7174-4cc3-b909-c4dceb437e04"><br><br>
+
+> "Well, it's listed twice. Is that just a reminder? I don't think it's needed to repeat the appointment."
+
+> "The click to review your contact information, but I would probably combine those sentences so it's not so confusing. It's a little bit confusing where it has review your contact information and then upcoming appointment."
+
+> "What to do next isn't super clear. I don't think it's too much information, but maybe just a wording issue. But, with screen readers, sometimes the headings are repetitive and I'm getting repetitive information on the next page."
+
+
 
