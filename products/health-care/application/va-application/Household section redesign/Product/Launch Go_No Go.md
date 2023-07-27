@@ -1,41 +1,41 @@
 # Household section optimization - Launch Go/No Go
-## 7/25/2023
+## 7/31/2023
 ## Decision: 
 
 ---
 
 #### Platform: Is monitoring and alerting configured and working as expected via the Privacy and Security Review?
-- [ ] Yes
+- [x] Yes
 - [ ] No
 - Comments:
 
 #### Are we ready to monitor analytics data for trends and problems?
-- [ ] Yes
+- [x] Yes
 - [ ] No
 - Comments: 
 
 #### PM: Is the release plan complete and ready to execute against?
-- [ ] Yes
+- [x] Yes
 - [ ] No
 - Comments: 
 
 #### FE/BE: Are there any launch-blocking bugs or accessibility issues outstanding?
 - [ ] Yes
-- [ ] No
+- [x] No
 - Comments:
 
 #### PM: Is the call center ready to handle potential calls that may come in?
-- [ ] Yes
+- [x] Yes
 - [ ] No
 - Comments:
 
 #### PM: Is flipper working properly?
-- [ ] Yes
+- [x] Yes
 - [ ] No
 - Comments: 
 
 ### Next Steps:
 When are we launching?
-- [ ] Today 
-- [ ] Tomorrow morning 
+- [ ] Monday, July 31
+- [ ] Another day?
 - Comments: 
