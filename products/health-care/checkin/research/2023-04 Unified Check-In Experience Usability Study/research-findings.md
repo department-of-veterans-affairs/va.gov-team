@@ -256,6 +256,33 @@ Veterans provided additional insights that will help to inform the PCI product a
 <img width="1324" alt="Screenshot 2023-07-27 at 2 22 20 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/5bcf08a0-a106-41a0-a942-38f99c35468a">
 <img width="1323" alt="Screenshot 2023-07-27 at 2 22 33 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/f583f90b-8ec7-4708-bdbc-0d9c029b0969">
 
+# Recommendations
+
+## Recommendations for *initial MVP release*
+
+1. Change the pre-check-in text reminder to be simpler, while also inciting action. 
+1. In the "What to do next" appointment card that contains the primary task, simplify the content for ease of use, while also differentiating it from the appointment in the upcoming appointments list. 
+1. Ensure that Veterans understand if and why some appointments might not be listed in their upcoming appointments list and explain how to review their entire list. E.g., Appointments on VA.gov. 
+1. When Veterans return back to their appointment list, avoid showing additional tasks to complete, unless there's an appointment inside the check in window. We want to avoid cognitive overload, while also allowing Veterans that want to complete other tasks to still review those tasks in the appointment list.  
+1. Send a check in link text message 45 minutes before each Patient Check In (PCI) eligible appointment.
+1. Update content on the identity verification pages to make it clear to Veterans that providing their last name and date of birth is the start of the process.
+
+## Recommendations for *subsequent releases*
+
+1. Add statuses within the upcoming appointments list for whether appointments have completed pre-check-in. I.e., we want Veterans to feel confident that an action took place. 
+1. Work on finding a better design pattern and content to communicate to Veterans how many more PCI-related tasks they're able to complete after finishing their primary task.  
+1. Begin planning for larger rollout of PCI with the inclusion of beneficiary travel. 
+1. Find a better design solution (pairing with the Appointments and A11y specialists) that allows screen readers to better navigate longer lists of upcoming appointments.  
+1. Work with the Platform Design System team and A11y specialists to troubleshoot the memorable date component to make it more accessible for screen readers. 
+1. A/B testing of different design patterns on the initial appointments list page to ensure the main focus is on the primary PCI-related task. 
+
+## Recommendations for *releases that may require other teams or larger architectural changes*
+
+1. Continue to work towards reflecting all of a Veterans appointments in PCI, similar to Appointments on VA.gov. 
+1. Allow Veterans to complete PCI tasks outside, to the degree possible, existing pre-check-in and check-in expiration rules. 
+1. Continue to escalate the need for a centralized database of facility floor maps or directions to help Veterans wayfind to the building or clinic.  
+1. Look to add features into PCI that are available in VEText appointment reminders and Appointments on VA.gov. For example, add to calendar and cancel appointment. 
+1. If a Veteran completes pre-check-in for an upcoming appointment that hasn't been set as confirmed in VistA by VEText, then make sure the status update is sent to VistA so Veterans don't continue to receive appointment confirmation text reminders. Of course, they’ll continue to receive appointment reminders up until the day of their appointment. 
 
 
 
