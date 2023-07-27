@@ -5,12 +5,12 @@ Last updated by @tygindraux: July 26, 2023
 
 ## Agenda
 
-Intros: 5 minutes
-Review form fields: 15 minutes
-Review proposed names of category/subtopic: 20 minutes
-How you answer an inquiry: 10 minutes
-1st Design Iteration: 5 mins
-Wrap up: 5 minutes
+- Intros: 5 minutes
+- Review form fields: 15 minutes
+- Review proposed names of category/subtopic: 20 minutes
+- How you answer an inquiry: 10 minutes
+- Share 1st design iteration: 5 mins
+- Wrap up: 5 minutes
 
 ## Attendees
 
