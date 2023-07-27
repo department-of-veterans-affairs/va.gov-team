@@ -335,6 +335,7 @@ Okay, so we’re going to imagine that this is your information, instead of Hect
 
 * What is this page telling you?
 * Is there anything else that you’d like to know after you submit an inquiry?
+* How do you feel about receiving an email with this information too?
 
 Great, thank you. I’m going to ask you to stop sharing your screen now. For the rest of our conversation, we’ll just talk face-to-face.
 
@@ -344,6 +345,7 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
 
 * Do they notice anything helpful or missing from this page?
 * Do they mention saving their reference number?
+* Do they mention preferring text notifications over email?
 
 ## Ongoing or past inquiry - 15 minutes
 
@@ -351,8 +353,8 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
    * Is there anything that could have made it easier?
 * And after you submit an inquiry, what do you expect to happen?
    * Do you expect to get updates?
+   * How would you expect to get an update? `TEXT, EMAIL, RECEIVE A NOTIFICATION IN YOUR PROFILE, ETC.`
    * How would you look up your inquiry?
-   * How would you expect to get updated? `OVER EMAIL OR RECEIVE A NOTIFICATION IN YOUR PROFILE, ETC.`
    * How often?
 * How would you expect to get a response to your inquiry?
    * Who would respond?
@@ -367,6 +369,7 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
 * Do they recall being given a reference number?
 * Do they recall stating how they prefer to be contacted, when they filled out the form?
 * How do they expect updates and how often?
+* Do they mention preferring text notifications over email?
 * Do they seem likely to go back and review a past inquiry (once it's resolved)?
 
 ## Wrap up - 3 minutes
