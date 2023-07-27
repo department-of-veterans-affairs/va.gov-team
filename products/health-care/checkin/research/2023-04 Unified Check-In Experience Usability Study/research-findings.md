@@ -151,5 +151,23 @@ However, the content in the "What to do next" in the appointment card was confus
 
 > "What to do next isn't super clear. I don't think it's too much information, but maybe just a wording issue. But, with screen readers, sometimes the headings are repetitive and I'm getting repetitive information on the next page."
 
+**3. 9 of out 9 Veterans said that nothing was confusing about the organization or prioritization of the check-in confirmation page.** Veterans thought the most important information on the page was that they were checked in successfully, their appointment details, and that their travel reimbursement claim was submitted.
+
+Some Veterans mentioned reviewing the content that directs them back to review their upcoming appointments list, but it was typically mentioned last because, unsurprisingly, it's positioned last on the page. 
+
+<img width="389" alt="Screenshot 2023-07-27 at 1 35 39 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/25fed174-f3dc-475a-bc21-abfe94453f8d">
+
+> "Making sure my travel reimbursement went in. So, that looks like it was successful. And, checking to make sure my appointment is at the right time and with the right doctor."
+
+> "Wow, that's nice. I like that they are processing the reimbursement already. The most important thing is that I'm checked in and that they're working on my reimbursement already. I think that's pretty neat." 
+
+>"Shows my appointment and that I'm checked in and it says we'll send you a text message with the status of your travel claim."
+
+> "It shows me the appointment time and that they're processing the travel reimbursement. And, there's a thing to review upcoming appointments."
+
+
+
+
+
 
 
