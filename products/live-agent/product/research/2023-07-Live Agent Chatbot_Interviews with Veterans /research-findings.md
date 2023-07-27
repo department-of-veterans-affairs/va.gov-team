@@ -185,14 +185,10 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+We talked to **5 Veterans.**
 
 Audience segment:
 * Veterans: 5 
@@ -209,9 +205,9 @@ Age:
 * 25-34: 0
 * 35-44: 1
 * 45-54: 1
-* 55-64: x
+* 55-64: 0
 * 65+: 3
-* Unknown: x
+* Unknown: 0
 
 
 Education:
@@ -232,21 +228,15 @@ Geographic location:
 Race:
 * White: 1
 * Black: 1
-* Hispanic: x
 * Biracial: 2
-* Asian: x
 * Native: 1
 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Expat (living abroad)
+* Immigrant origin
+* Cognitive disability
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+[Recruitment Checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
