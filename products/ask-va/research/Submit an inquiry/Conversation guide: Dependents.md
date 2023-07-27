@@ -416,7 +416,7 @@ We’re going to do the same thing, you can scroll down slowly and tell me if th
 
 * What is this page telling you?
 * Is there anything else that you’d like to know after you submit an inquiry?
-* How do you feel about receiving an email with this information?
+* This mentions it will send you an email as well. How do you feel about receiving this as an email?
 
 Great, thank you. I’m going to ask you to stop sharing your screen now. For the rest of our conversation, we’ll just talk face-to-face.
 
@@ -433,13 +433,12 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
 * Thinking back on the process of submitting a question, was it shorter or longer than you would have expected?
    * Is there anything that could have made it easier?
 * And after you submit an inquiry, what do you expect to happen?
-   * Do you expect to get updates?
-   * How would you expect to get an update? `TEXT, EMAIL, RECEIVE A NOTIFICATION IN YOUR PROFILE, ETC.`
-   * How often?
+   * Would you like to receive an email or text message in this [scenario]?
+   * When would you expect to receive this `EMAIL OR TEXT MESSAGE`?
+   * What information is important to you?
+   * How often would you expect to get an update?
    * Do you expect the VA to notify the Veteran `OR OTHER DEPENDENT` as well as yourself?
-   * How would you look up your inquiry?
-* How would you expect to get a response to your inquiry?
-   * Who would respond?
+* When you get a response to your inquiry, would you expect it to come from?
    * Would you be able to reply?
    * If you couldn’t reply back, but you had a follow up question, what would you do?
 * Let’s say you wanted to go back and look at a question you had submitted a few months ago. What would you be interested in seeing?
