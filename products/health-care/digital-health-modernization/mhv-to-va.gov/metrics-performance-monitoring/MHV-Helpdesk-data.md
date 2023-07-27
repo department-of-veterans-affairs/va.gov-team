@@ -1,3 +1,17 @@
+# Meeting on Tier 3 issues
+Date: July 28, 2023
+Attendees: Florence McCafferty, Sean Good, Melissa Ashton, David Rawlins
+
+## What attributes make an issue Tier 3?
+
+## What are all the sources of feedback that could be designated Tier 3 issues?
+
+## Once an issue is designated as Tier 3, what happens to it?
+
+## Who receives information about Tier 3 issues and their progress to being solved?
+
+## Are Tier 3 issues documented together? Where? How is this information used?
+
 
 # Meeting with Patty Henry
 Date: June 21, 2023
