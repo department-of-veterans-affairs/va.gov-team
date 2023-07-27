@@ -1,4 +1,4 @@
-# Notes and Insights: HEALTH CARE BUSINESS LINE
+# Insights: HEALTH CARE BUSINESS LINE
 *Ask VA Integration Team, July 2023*
 
 Last updated by @tygindraux: July 26, 2023
