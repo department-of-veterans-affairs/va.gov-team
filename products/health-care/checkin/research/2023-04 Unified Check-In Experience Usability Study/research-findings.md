@@ -103,7 +103,7 @@ The new unified check-in experience hopes to address:
 
 **4. Similar to how some Veterans find the check in status on the appointments list helpful, Veterans expected to find a similar appointment confirmation or “your information is up to date” status for pre-check-in on the appointments list.**
 
-**5. 9 out of 11 Veterans thought that it was helpful to be able to review all of their upcoming appointments when completing a pre-check-in or check-in task.** However, not if it increases the ease of checking in or adds steps to the existing user flow. 
+**5. 9 out of 11 Veterans thought that it was helpful to be able to review all of their upcoming appointments when completing a pre-check-in or check-in task.** However, not if it decreases the ease of checking in or adds steps to the existing user flow. 
 
 **6. 11 out of 11 Veterans thought it was easy to find out how to review their other upcoming appointments from the pre-check-in confirmation page.** However, some Veterans didn’t understand that they had other appointments with tasks to complete (based on the design pattern and content) or had no interest in starting another task after their primary task was completed. 
 
@@ -113,7 +113,7 @@ The new unified check-in experience hopes to address:
 
 **1. 12 out of 12 Veterans felt that the two pre-check-in text reminders were not confusing.** However, 5 out of 12 Veterans expected a better call to action in the second text message to encourage them to select the pre-check-in link. 
 
-<img width="357" alt="Screenshot 2023-07-26 at 4 18 00 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/ad0fde4f-fc4c-4857-8714-45363050caf7"><br><br>
+<img width="300" alt="Screenshot 2023-07-26 at 4 18 00 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/ad0fde4f-fc4c-4857-8714-45363050caf7"><br><br>
 
 > "The first one was the initial confirmation and that's all I was expecting to see. And then, looking further down it appears that the VA wants me to take some more actions."
 
@@ -127,7 +127,7 @@ The new unified check-in experience hopes to address:
 
 **2. 10 out of 10 Veterans thought it was easy or very easy to check in to an appointment.** I.e., the design and content cues from the appointment page to the confirmation page were easily findable and felt very guided. 
 
-<img width="364" alt="Screenshot 2023-07-26 at 4 20 05 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/90e64546-8d18-468c-afe1-b0e2a71b9c58"><br><br>
+<img width="300" alt="Screenshot 2023-07-26 at 4 20 05 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/90e64546-8d18-468c-afe1-b0e2a71b9c58"><br><br>
 
 > "It's pretty much guided. Simple. Very easy."
 
@@ -143,7 +143,7 @@ The new unified check-in experience hopes to address:
 
 However, the content in the "What to do next" in the appointment card was confusing to a few Veterans for minor reasons. Therefore, the appointment card could be simplified to avoid being redundant with the appointment information in the appointment list, as well as reduce cognitive load and align better with VA notification design patterns.  
 
-<img width="329" alt="Screenshot 2023-07-27 at 10 57 26 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/6416368e-7174-4cc3-b909-c4dceb437e04"><br><br>
+<img width="300" alt="Screenshot 2023-07-27 at 10 57 26 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/6416368e-7174-4cc3-b909-c4dceb437e04"><br><br>
 
 > "Well, it's listed twice. Is that just a reminder? I don't think it's needed to repeat the appointment."
 
@@ -155,7 +155,7 @@ However, the content in the "What to do next" in the appointment card was confus
 
 Some Veterans mentioned reviewing the content that directs them back to review their upcoming appointments list, but it was typically mentioned last because, unsurprisingly, it's positioned last on the page. 
 
-<img width="389" alt="Screenshot 2023-07-27 at 1 35 39 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/25fed174-f3dc-475a-bc21-abfe94453f8d">
+<img width="300" alt="Screenshot 2023-07-27 at 1 35 39 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/25fed174-f3dc-475a-bc21-abfe94453f8d"><br><br>
 
 > "Making sure my travel reimbursement went in. So, that looks like it was successful. And, checking to make sure my appointment is at the right time and with the right doctor."
 
@@ -164,6 +164,101 @@ Some Veterans mentioned reviewing the content that directs them back to review t
 >"Shows my appointment and that I'm checked in and it says we'll send you a text message with the status of your travel claim."
 
 > "It shows me the appointment time and that they're processing the travel reimbursement. And, there's a thing to review upcoming appointments."
+
+**4. Similar to how some Veterans find the check in status on the appointments list page helpful, Veterans expected to find a similar appointment confirmation or “your information is up to date” status for pre-check-in on the appointments list.**
+
+<img width="300" alt="Screenshot 2023-07-27 at 1 52 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/360f9695-c854-410d-819d-08ffe4cd2288"><br><br>
+
+> "Once it's confirmed, it should say it's confirmed because I have no way of knowing if these other ones are confirmed."
+
+> "Absolutely. I would have expected to know if this appointment was confirmed. If I confirmed it 3 or 4 days ago, I would have no other place of knowing if I confirmed it."
+
+> "My only question is, why can I only confirm some appointments and not the other ones?"
+
+> "There's only 1 other appointment that says that I can confirm it and there's several others that I can't confirm. I feel like those haven't been confirmed. To me, the appointment doesn't seem confirmed." 
+
+> "Interesting. None of the other appointments have anything else about confirming. I would put some information there that says confirmed so that they know I'm coming to the appointment."
+
+**5. 9 out of 11 Veterans thought that it was helpful to be able to review all of their upcoming appointments when completing a pre-check-in or check-in task.** However, not if it decreases the ease of checking in or adds steps to the existing user flow. 
+
+<img width="300" alt="Screenshot 2023-07-27 at 2 01 37 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/35b4ee20-db80-4c3d-8964-04385c9cb1c1"><br><br>
+
+> "It's nice to have that reminder there, especially if you have three appointments in one day or several appointments in one week. So, it's nice to be reminded of that."
+
+> "I liked everything and that it was on one page. I didn't have to navigate to another page or window."
+
+> "Very helpful because you tend to forget that you have appointments way out."
+
+> "I did appreciate that. Especially because appointments are often changed."
+
+> "I found it very helpful. From my own experience, I went to the doctor last month, and a day or two later, I went on the VA website and I was shocked [in a good way] that all my appointments up to December were there."
+
+**6. 11 out of 11 Veterans thought it was easy to find out how to review their other upcoming appointments from the pre-check-in confirmation page.** 
+
+<img width="300" alt="Screenshot 2023-07-27 at 2 07 09 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/b1431d14-02fb-4a2b-829a-f160efed1a87"><br><br>
+
+> "I would close it. I don't see anything to do. I would just wait for the text to confirm an appointment."
+
+> "I would probably close it out. I mean, I might review my upcoming appointments. But, typically with VA, I get 4-5 text messages even after I've confirmed it to remind me and everything. So, it might be easier to confirm these now and not have to confirm it again."
+
+> "I might go back to review upcoming appointments, but it doesn't really seem like it requires me to do anything. The message under review upcoming appointments doesn't seem like I have to do it. It just seems like I either can or can't."
+
+> "If there's absolutely something for me to do, then I would use that arrow button again [Link - Action component]. To me it looks like it's not a requirement."
+
+However, some Veterans didn’t understand that they had other appointments with tasks to complete (based on the design pattern and content) or had no interest in starting another task after their primary task was completed. 
+
+Might complete additional tasks: 
+
+> "Since the Friday appointment is so close, I would probably confirm that one."
+
+> "I've done everything else that I can do for today's appointments. So, I would confirm the rest of the appointments."
+
+> "I might check some of my other appointments to make sure I'm square. I probably wouldn't confirm or I might confirm my appointment on the ninth for ease just to get it done with."
+
+Stick to the primary task: 
+
+> "I don't want to confirm my appointment for Friday just yet; it's still Monday. I have two young kids at home that get into all kinds of trouble and there's no telling what I may be doing by Friday."
+
+> "No, I wouldn't confirm an upcoming appointment because I've been conditioned that VA is going to send me text messages. So, when I'm on the VA web pages, I'm generally just there for more information. If I saw that, I would probably click on it and confirm, but that's not how the VA has conditioned me to respond to confirmation requests."
+
+> "I wouldn't be worried about my upcoming appointments because I have appointments today. It wouldn't be a priority."
+
+And, some Veterans were confused by seeing a different appointment card in the "What to do next" section when returning back to their appointments list after having completed their primary task. 
+
+This could be another indicator of notification fatigue that many VFS teams have heard before, as well as cognitive overload. And, as a possible solution, stick to patterns that we know work well, such as presenting additional tasks within the context of the appointment list and not a separate section. 
+
+<img width="300" alt="Screenshot 2023-07-27 at 2 15 48 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/cfc21e83-3670-42dd-9ba5-b53b9a1e0576"><br><br>
+
+> "So, it's almost time to check in. Oh, I guess I tried to check in too early. It was confusing."
+
+> "I have other appointments. I guess I don't know why it's focused on the one appointment on the ninth."
+
+> "That's weird. Wasn't it different before on top? I would have thought it just started at upcoming appointments. You didn't want to confirm anything, so I didn't expect to see it at the top."
+
+> "So, is this one a different one? So, have I not yet confirmed this one?"
+
+**7. 11 out of 11 Veterans prefer to receive a text message when it’s time to check in to their appointment.** And, 8 out of 11 Veterans would prefer to receive a text message before each of their appointments when they have more than one on the same day. 
+
+<img width="300" alt="Screenshot 2023-07-27 at 2 17 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/95c8ecfb-05c5-4dda-abce-7cadb8334475"><br><br>
+
+> "Text message for sure because there's posters hanging up all over the place. How am I going to know which one to go to unless it's right up at the nurses station? And, if I'm up there, why not just say, hey I'm here."
+
+> "I just think that I'm so used to that. A lot of times posters could be often ignored because there's so much jargon when you walk in. There's information signs and posters and directions and it could be easily overlooked. Whereas, most people come in and they're all on their phones. So, I think that's a wonderful idea."  
+
+> "10/10 I would take a text message over a poster. I have been to facilities where they put information on the wall. And, unless you have someone directing you to that wall, then you don't know where to look there. That's a rough way to get checked in to an appointment. Getting a text message is so user friendly. We're so conditioned to review a text message when we receive one. That's clearly the better way to go."
+
+# Additional Insights
+
+Veterans provided additional insights that will help to inform the PCI product and development roadmap: 
+
+<img width="1323" alt="Screenshot 2023-07-27 at 2 21 53 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/7821a8e8-32b8-443e-998b-37c9e14b0990">
+<img width="1323" alt="Screenshot 2023-07-27 at 2 22 05 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/a170be63-5148-4c41-b744-6a09d69562e2">
+<img width="1324" alt="Screenshot 2023-07-27 at 2 22 20 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/5bcf08a0-a106-41a0-a942-38f99c35468a">
+<img width="1323" alt="Screenshot 2023-07-27 at 2 22 33 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/f583f90b-8ec7-4708-bdbc-0d9c029b0969">
+
+
+
+
 
 
 
