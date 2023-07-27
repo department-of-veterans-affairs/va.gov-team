@@ -7,7 +7,7 @@ We should document the different types of notifications/alerts that commonly pow
 This is not intended as an exhaustive list, so feel free to add to it.
 
 - System alerts (eg. An alert announcing that a feature is down)
-- Event-based notifications (eg. A saved confirmation)
+- Event-based notifications (eg. A save confirmation)
 - General, non-personalized announcements
 - Personalized notifications (eg. "you have a new debt")
 - Personalized indicators (eg. a "2" next to an inbox to indicate 2 new messages)
