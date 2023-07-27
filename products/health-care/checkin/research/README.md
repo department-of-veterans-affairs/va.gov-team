@@ -18,6 +18,7 @@
 | [Corpus Christi Veteran In-Person Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/corpus-christi-in-person) | 39 Veterans and 2 Caregivers | July 2022 |
 | [Corpus Christi Staff In-Person Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing/corpus-christi-in-person) | 30 Staff Members | July 2022 |
 | [Travel Reimbursement Remote Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test) | 20 Veterans | September 2022 |
+| [Unmoderated Appointment Information Prioritization](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization) | 66 Veterans | October 2022 |
 | [Spanish Check-in & Toggle Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/Spanish) | 11 Veterans | August 2022 |
 | [Unified Check-In Generative Research Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study) | 13 Veterans | June 2023 |
 
