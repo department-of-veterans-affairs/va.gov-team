@@ -53,10 +53,11 @@ Let’s start with a few warm-up questions.
 
 
 
-## First Topic: [Current Process] - 5 minutes
+## First Topic: [Current Process - Facility Experience] - 5 minutes
 
 - What was your experience like getting setup for that appointment beforehand or did you just walk in?
-- Can you describe your experience with any forms or sign up questions that you had to complete to be seen for care? [Not saying your "registration experience, but would they have filled out an EZ in person?]
+- Can you describe your experience with any forms or sign up questions that you had to complete to be seen for care?
+   - [Not saying your "registration experience, but would they have filled out a paper EZ in person or did staff input?]
 - What was your impression to what benefits or level of care you would qualify for as you were doing this? 
 - How would you describe the process after you were seen for care? 
 - How did you recieve any communication from the VA or information if you were eligible to enroll in health care benefits? 
@@ -74,7 +75,7 @@ Let’s start with a few warm-up questions.
 - How did you determine what health benefits you could get when you recently seen for care?
 - What resources did you use and how to understand what you might qualify for?
 - Did you want to only get care for one specific health concern, or were you interested in enrolling in full health care coverage?
-- Is there anything that is unclear to you about the application and health care benefits eligibility? 
+- Can you tell me more about anything that is unclear to you about the application and health care benefits eligibility today? 
 
 
 ### Things to watch for:
