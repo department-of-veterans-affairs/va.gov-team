@@ -9,7 +9,7 @@
 | [How to apply for a VA pension as a Veteran](https://www.va.gov/pension/how-to-apply/) | | CAIA |	[56656](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/56656) | Spanish | 5/9/2023 |
 | [VA Survivors Pension](https://www.va.gov/pension/survivors-pension/) | | CAIA | [56656](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/56656) |	Spanish | 5/9/2023 |
 | [About VA DIC for spouses, dependents, and parents](https://www.va.gov/disability/dependency-indemnity-compensation/) |	| CAIA | [51435](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/51435) | Spanish | 4/25/2023 |
-| Check-in Spanish translations needed (from 3/30 email) | | Modernized check-in | | Spanish | 3/31/2023	|
-| Check-in Tagalog translations needed (from 3/30 email) | | Modernized check-in | | Tagalog |  3/31/2023	|
-| BTSSS JSON text messages for travel pay | |	Modernized check-in | |	Spanish | 5/4/2023 |
-| BTSSS JSON text messages for travel pay |	| Modernized check-in | |	Tagalog | 5/4/2023 |
+| Check-in Spanish translations needed (from 3/30 email) | | Modernized check-in | | Spanish | 7/27/2023	|
+| Check-in Tagalog translations needed (from 3/30 email) | | Modernized check-in | | Tagalog |  7/27/2023	|
+| BTSSS JSON text messages for travel pay | |	Modernized check-in | |	Spanish | 7/27/2023 |
+| BTSSS JSON text messages for travel pay |	| Modernized check-in | |	Tagalog | 7/27/2023 |
