@@ -41,7 +41,7 @@ Last updated by @tygindraux: July 26, 2023
 - [ ] Set up a meeting with Sitewide Content to review category, topic and subtopic proposed names
 - [ ] Explore descriptive text for select menus
 - [ ] Analyze whether most frequently chosen topics/subtopics are often 1-3 on the list
-- [ ] Consider the need for recommending more descriptive text on the backend (to the CRM team) so inquiries can be re-routed well
+- [ ] Recommend adding more descriptive text on the backend so inquiries can be re-routed well
 
 ## Unabbreviated notes
 
