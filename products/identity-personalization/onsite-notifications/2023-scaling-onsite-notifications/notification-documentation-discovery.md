@@ -1,6 +1,10 @@
 # Notification documentation discovery
 
-We should take some time to document the different types of notifications/alerts that generally power web products, and whether we are already utilizing those on VA.gov or not. Some examples might include:
+We should take some time to document the different types of notifications/alerts that generally power web products, and whether we are already utilizing those on VA.gov or not. The goal of this work is to start viewing the VA>gov notification landscape more holistically, and to highlight our opportunites and options for expanding on it.
+
+**Notification/alert type examples**
+
+This may not be an exhaustive list, so feel free to add to it.
 
 - System alerts (eg. An alert announcing that a feature is down)
 - Event-based notifications (eg. A saved confirmation)
