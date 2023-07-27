@@ -50,7 +50,7 @@ The front end process of the site build already automatically adds IDs to header
 
 On the toolbar on the rich text editors in the CMS, we are adding an abbreviation function. When used, this will allow editors to add abbreviations to their content with proper semantic HTML markup.
 
-This change is being done...
+This change is being done to allow editors the ability to make more accessible abbreviations and acronyms. By providing this option within the text editor and adding instructions on how and when to use it within relevant Knowledge Base articles, we are providing a way for editors to make more accessible content.
 
 ## Contacts
 - Product Owner: Erika Washburn (OCTO-DE)
