@@ -11,6 +11,7 @@ This is not intended as an exhaustive list, so feel free to add to it.
 - General, non-personalized announcements
 - Personalized notifications (eg. "you have a new debt")
 - Personalized indicators (eg. a "2" next to an inbox to indicate 2 new messages)
+- Status tags (eg. "Expiring soon"; "Prescription shipped") -- Is this a notification/alert?
 
 **Things we'd want to document**
 
@@ -20,6 +21,7 @@ This is not intended as an exhaustive list, so feel free to add to it.
 - When might a user see this type of notification?
 - Does VA.gov already employ this type of notification? If so, where/how?
   - Note: We don't need to recreate any documentation. Things like system alerts are already well documented in the design system, so we should link off to existing documentation where it makes sense.
+- Opportunities for use on VA.gov (if we're not already employing a notification/alert type)
 
 **Things we do NOT need to do**
 
