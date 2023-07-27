@@ -18,8 +18,9 @@ Wrap up: 5 minutes
 - VHA (Caregiver Support): Mary Ewers, Jennifer Mcalinden
 - CRM Team: Shelby, Jaime, Maria King, Kathleen, Wayne Eberly
 - *Not present: ECM (Enrollment Case Management), HAC (Health Administration Center) and Women Veterans Health Care*
- 
+
 ## Key takeaways
+
 - **We only met with folks from Caregiver Support.** We were missing attendees from ECM (Enrollment Case Management), HAC (Health Administration Center) and Women Veterans Health Care.
 - We learned that `Zip Code` is **important for Caregiver Support**. And `Is the Veteran deceased?` helps them know whether to give information for a surviving spouse. They don't let people `upload documents` (and want to keep it that way).
 - But other fields should be **on our radar for (potential) removal**:
@@ -32,15 +33,19 @@ Wrap up: 5 minutes
 - **Receiving irrelevant inquiries is their biggest painpoint.** They receive a lot of inquiries that aren't meant for them, because:
     - submitters choose the wrong category or topic
     - and/or internal teams re-route to Caregiver Support incorrectly.
+- They shared **concerns about a one-thing-per-page approach,** and "the consumer having to go through a bunch of pages." 
 
 ## Actions
+
 - [ ] Chante/Ruchi decide best approach for getting feedback from the rest of VHA teams
 - [ ] Set up a meeting with Sitewide Content to review category, topic and subtopic proposed names
 - [ ] Explore descriptive text for select menus
-- [ ] Consider the need for recommending more descriptive text on the backend (to the CRM team) so inquiries can be re-routed well
 - [ ] Analyze whether most frequently chosen topics/subtopics are often 1-3 on the list
+- [ ] Consider the need for recommending more descriptive text on the backend (to the CRM team) so inquiries can be re-routed well
 
 ## Unabbreviated notes
+
+- [Spreadsheet to review](https://docs.google.com/spreadsheets/d/1zaSB4xrnUbW7c75_nvmkU-_R09jb2O4zpNhmWel1U9I/edit#gid=296052415)
 - Tyler: Is everyone ok with recording?
   - Ruchi started recording
 - Ruchi sent an email reminder about this meeting to the entire audience of this meeting to request them to join.
