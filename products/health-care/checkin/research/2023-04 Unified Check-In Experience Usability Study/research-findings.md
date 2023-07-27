@@ -284,9 +284,37 @@ Veterans provided additional insights that will help to inform the PCI product a
 1. Look to add features into PCI that are available in VEText appointment reminders and Appointments on VA.gov. For example, add to calendar and cancel appointment. 
 1. If a Veteran completes pre-check-in for an upcoming appointment that hasn't been set as confirmed in VistA by VEText, then make sure the status update is sent to VistA so Veterans don't continue to receive appointment confirmation text reminders. Of course, they’ll continue to receive appointment reminders up until the day of their appointment. 
 
+# Appendix 
 
+Research plan
 
+Conversation guide
 
+Prototype
+
+Observer Notes (Mural)
+
+Research Synthesis (Mural)
+
+[Research Readout Presentation (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/12184734/PCI.Unified.Check-In.Research.Report.pdf)
+
+[Sketch file (in progress)](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0EC89917-F949-4461-A7B3-32A5201FD2A2/canvas)
+
+## Who we talked to
+
+Our goal was to stress test our prototype with an inclusive set of Veteran populations including those with cognitive disabilities, using screen magnification, using screen readers, etc. 
+
+However, we weren’t able to successfully recruit and observe all underserved Veteran populations, including: 
+
+- Other than honorable discharge
+- Immigrant origin
+- Expat (living abroad)
+- Hispanic, Biracial, Asian and Native
+- LGBTQ+<br><br>
+
+![unnamed](https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/2f3a3b1c-dd54-4ef6-9ef5-86a17889218e)
+
+[Participant Tracker (Google Sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1574186763)
 
 
 
