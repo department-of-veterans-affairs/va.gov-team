@@ -119,7 +119,7 @@ Data source - Call Center team/TBD
      - [x] Content and IA
      - [x] Research
      - [x] Midpoint
-     - [ ] Contact Center guide
+     - [x] Contact Center guide
      - [N/A] Analytics
      - [x] Staging
      - [x] Privacy & Security
