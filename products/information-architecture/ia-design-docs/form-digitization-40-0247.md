@@ -2,6 +2,8 @@
 **STATUS: In progress**
 #### Edit History
 - 7/6/23 - Created (JM)
+- 7/27/23 - Edits (JM)
+   - Updated redirect link from digitized form URL to the PMC details page as it better corresponds with the legacy page
 
 **Team:** Form digitization team
 
@@ -52,7 +54,7 @@
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- https://www.cem.va.gov/facts/Presidential_Memorial_Certificates.asp| www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/apply-for-certificate-form-40-0247/ | We recommend redirecting this legacy page to the new digitized form on the modernized site, but suggest connecting with the program office to confirm this change before proceeding with the redirect. 
+ https://www.cem.va.gov/facts/Presidential_Memorial_Certificates.asp| www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/| We recommend redirecting this legacy page to the modernized page with information on the Presidential Memorial Certificate, but suggest connecting with the program office first to confirm this change before proceeding with the redirect. 
  
 
 
