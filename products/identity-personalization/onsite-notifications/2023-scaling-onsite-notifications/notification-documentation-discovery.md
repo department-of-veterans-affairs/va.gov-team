@@ -23,5 +23,7 @@ This is not intended as an exhaustive list, so feel free to add to it.
 
 **Things we do NOT need to do**
 
-- We don't need any more documentation on different notification center treatments. We've already captured that.
+- We don't need any more documentation on different dashboard or notification center treatments. We've already captured that.
+  - [Liz's 2020 logged-in homepage discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/comparative-analysis.md)
+  - [Tressa's 2021 action item discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/action-items-comparative%20analysis.md)
 - We don't need to gather exhaustive examples of treatments and styling. For example, it doesn't necessarily matter whether something appears as a modal, bubble, in-line message etc. What matters is the type of notification and what it's trying to communicate.
