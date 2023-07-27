@@ -25,15 +25,16 @@ Date: 07/27/2023
 
 ## Research Goals
 
-The need for assistance and clarity from the VA can happen at any time for a Veteran. Veterans and their caretakers have the option of contacting the VA by phone or through VA.gov. The Live Agent chat is a part of the Veteran’s user journey as a way in which a Veteran may interact with a VA representative. It allows an additional method of communication.
-
 The Thoughtworks team (in partnership with VES, Seamless CX leaders, and VA Call Center stakeholders) are exploring how integrations of chat-based Live Agent services may enhance and enable the experiences of Veterans and their caregivers while interacting with the VA.
+
+The need for assistance and clarity from the VA can happen at any time for a Veteran. Veterans and their caretakers have the option of contacting the VA by phone or through VA.gov. The Live Agent chat is a part of the Veteran’s user journey as a way in which a Veteran may interact with a VA representative. It allows fod an additional method of communication.
 
 The Thoughtworks team is looking to gather and review existing research and data and conduct interviews with Live Agents and Veterans. Through interviews with Veterans we are hoping to understand their experiences, pain points, and recommendations for improving interactions with text-based live agents and enhancements to the systems or technology.
 
 The goal is to learn about gaps and areas to optimize from Veterans to inform recommendations for best practices for how to integrate chat-based Live Agent communications across different departments at the VA and to develop recommendations for effective and successful interactions between a Veteran (or their caregiver) and a Live Agent.
 
 * Understand how Veterans and their families would want to leverage a chat experience, how it works for them today [in the VA and outside of the VA], and in what instances they would not want to use a chat experience.
+
 * Map out what a Veteran’s experience journey would look like if they were to leverage a live chat experience; considering the different archetypes and variance in the problems to be solved, what does the happy path look like?
 
 ## Research Questions
@@ -50,14 +51,14 @@ We spoke to a limited number of Veterans due to time constraints on the engageme
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+H1: There will be some consistency across each Veteran’s journey in how they reach out for help to find information from the VA
+   * Definitely True; Veterans contacted VA through a similar process and through similar channels.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+H2: There will be a number of challenges Veterans experience in regards to effectively sourcing information or resources that they need
+   * Definitely True; Veterans voiced a number of obstacles with communicating with VA (long wait times, siloed VA departments)
 
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+H3: There will be some scenarios where text-based chat works really well and others where it is not an ideal channel to use to solve a specific problem or issue.
+   * Definitely Tue; Veterans prefer communicating through chat for most issues, but prefer other methods of communciation for certain scenarios, such as medical care.
 
 ## Key Findings
 
@@ -194,74 +195,47 @@ _If you had specific criteria that you recruited for, use this space to explain 
 We talked to **x participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 5 
+* Caregivers: 0
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
-
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Male: 3 
+* Female: 2 
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
+* 25-34: 0
+* 35-44: 1
+* 45-54: 1
 * 55-64: x
-* 65+: x
+* 65+: 3
 * Unknown: x
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 1
+* Some college (no degree): 0
+* Associate's degree, trade certificate or vocational training: 0
+* Bachelor's degree: 2
+* Master's degree: 2
+* Doctorate degree: 0
 
 
 Geographic location:
 * Urban: x
-* Rural: x
-* Unknown: x
+* Rural: 2
+* Unknown: 3
 
 
 Race:
-* White: x
-* Black: x
+* White: 1
+* Black: 1
 * Hispanic: x
-* Biracial: x
+* Biracial: 2
 * Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Native: 1
 
 
 ## Underserved groups we haven’t talked to 
