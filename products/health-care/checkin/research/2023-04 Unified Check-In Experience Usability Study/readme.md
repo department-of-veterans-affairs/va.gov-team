@@ -17,4 +17,6 @@ Date(s): June 12-21, 2023
 
 ## Findings and Recommendations 
 
-[Research synthesis (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686602905647?invited=true)
+[Research synthesis (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686602905647?invited=true)<br>
+[Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/research-findings.md)<br>
+[Research presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/12187375/PCI.Unified.Check-In.Research.Report.pdf)
