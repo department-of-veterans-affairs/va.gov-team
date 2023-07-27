@@ -125,6 +125,8 @@ The new unified check-in experience hopes to address:
 
 > "Once it's confirmed, I generally don't do anything with it unless I need to add it to my calendar. If it was worded differently, I might do something. For example, if it said, please review this information, but know that your appointment is confirmed."
 
+Labels: AUD: Veterans, DSC: Action link, DSC: Memorable date, DSC: Text input, HDW: Smartphone, OMNI: Appointments, PRDT: health-care-check-in, RESRCH: Generative (discovery), RESRCH: Remote, RESRCH: Usability, SPG: Cognitive Consideration, Accessibility, SPG: Blind/Visually Impaired, VAOS: Appointment List, VAOS: Details Page, VETJNY: Taking care of themselves
+
 **2. 10 out of 10 Veterans thought it was easy or very easy to check in to an appointment.** I.e., the design and content cues from the appointment page to the confirmation page were easily findable and felt very guided. 
 
 <img width="300" alt="Screenshot 2023-07-26 at 4 20 05 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/90e64546-8d18-468c-afe1-b0e2a71b9c58"><br><br>
@@ -151,6 +153,8 @@ However, the content in the "What to do next" in the appointment card was confus
 
 > "What to do next isn't super clear. I don't think it's too much information, but maybe just a wording issue. But, with screen readers, sometimes the headings are repetitive and I'm getting repetitive information on the next page."
 
+Labels: AUD: Veterans, DSC: Action link, DSC: Memorable date, DSC: Text input, HDW: Smartphone, OMNI: Appointments, PRDT: health-care-check-in, RESRCH: Generative (discovery), RESRCH: Remote, RESRCH: Usability, SPG: Cognitive Consideration, Accessibility, SPG: Blind/Visually Impaired, VAOS: Appointment List, VAOS: Details Page, VETJNY: Taking care of themselves
+
 **3. 9 of out 9 Veterans said that nothing was confusing about the organization or prioritization of the check-in confirmation page.** Veterans thought the most important information on the page was that they were checked in successfully, their appointment details, and that their travel reimbursement claim was submitted.
 
 Some Veterans mentioned reviewing the content that directs them back to review their upcoming appointments list, but it was typically mentioned last because, unsurprisingly, it's positioned last on the page. 
@@ -164,6 +168,8 @@ Some Veterans mentioned reviewing the content that directs them back to review t
 >"Shows my appointment and that I'm checked in and it says we'll send you a text message with the status of your travel claim."
 
 > "It shows me the appointment time and that they're processing the travel reimbursement. And, there's a thing to review upcoming appointments."
+
+Labels: AUD: Veterans, DSC: Action link, DSC: Memorable date, DSC: Text input, HDW: Smartphone, OMNI: Appointments, PRDT: health-care-check-in, RESRCH: Generative (discovery), RESRCH: Remote, RESRCH: Usability, SPG: Cognitive Consideration, Accessibility, SPG: Blind/Visually Impaired, VAOS: Appointment List, VAOS: Details Page, VETJNY: Taking care of themselves
 
 **4. Similar to how some Veterans find the check in status on the appointments list page helpful, Veterans expected to find a similar appointment confirmation or “your information is up to date” status for pre-check-in on the appointments list.**
 
@@ -179,6 +185,8 @@ Some Veterans mentioned reviewing the content that directs them back to review t
 
 > "Interesting. None of the other appointments have anything else about confirming. I would put some information there that says confirmed so that they know I'm coming to the appointment."
 
+Labels: AUD: Veterans, DSC: Action link, DSC: Memorable date, DSC: Text input, HDW: Smartphone, OMNI: Appointments, PRDT: health-care-check-in, RESRCH: Generative (discovery), RESRCH: Remote, RESRCH: Usability, SPG: Cognitive Consideration, Accessibility, SPG: Blind/Visually Impaired, VAOS: Appointment List, VAOS: Details Page, VETJNY: Taking care of themselves
+
 **5. 9 out of 11 Veterans thought that it was helpful to be able to review all of their upcoming appointments when completing a pre-check-in or check-in task.** However, not if it decreases the ease of checking in or adds steps to the existing user flow. 
 
 <img width="300" alt="Screenshot 2023-07-27 at 2 01 37 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/35b4ee20-db80-4c3d-8964-04385c9cb1c1"><br><br>
@@ -192,6 +200,8 @@ Some Veterans mentioned reviewing the content that directs them back to review t
 > "I did appreciate that. Especially because appointments are often changed."
 
 > "I found it very helpful. From my own experience, I went to the doctor last month, and a day or two later, I went on the VA website and I was shocked [in a good way] that all my appointments up to December were there."
+
+Labels: AUD: Veterans, DSC: Action link, DSC: Memorable date, DSC: Text input, HDW: Smartphone, OMNI: Appointments, PRDT: health-care-check-in, RESRCH: Generative (discovery), RESRCH: Remote, RESRCH: Usability, SPG: Cognitive Consideration, Accessibility, SPG: Blind/Visually Impaired, VAOS: Appointment List, VAOS: Details Page, VETJNY: Taking care of themselves
 
 **6. 11 out of 11 Veterans thought it was easy to find out how to review their other upcoming appointments from the pre-check-in confirmation page.** 
 
@@ -237,6 +247,8 @@ This could be another indicator of notification fatigue that many VFS teams have
 
 > "So, is this one a different one? So, have I not yet confirmed this one?"
 
+Labels: AUD: Veterans, DSC: Action link, DSC: Memorable date, DSC: Text input, HDW: Smartphone, OMNI: Appointments, PRDT: health-care-check-in, RESRCH: Generative (discovery), RESRCH: Remote, RESRCH: Usability, SPG: Cognitive Consideration, Accessibility, SPG: Blind/Visually Impaired, VAOS: Appointment List, VAOS: Details Page, VETJNY: Taking care of themselves
+
 **7. 11 out of 11 Veterans prefer to receive a text message when it’s time to check in to their appointment.** And, 8 out of 11 Veterans would prefer to receive a text message before each of their appointments when they have more than one on the same day. 
 
 <img width="300" alt="Screenshot 2023-07-27 at 2 17 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/95c8ecfb-05c5-4dda-abce-7cadb8334475"><br><br>
@@ -246,6 +258,8 @@ This could be another indicator of notification fatigue that many VFS teams have
 > "I just think that I'm so used to that. A lot of times posters could be often ignored because there's so much jargon when you walk in. There's information signs and posters and directions and it could be easily overlooked. Whereas, most people come in and they're all on their phones. So, I think that's a wonderful idea."  
 
 > "10/10 I would take a text message over a poster. I have been to facilities where they put information on the wall. And, unless you have someone directing you to that wall, then you don't know where to look there. That's a rough way to get checked in to an appointment. Getting a text message is so user friendly. We're so conditioned to review a text message when we receive one. That's clearly the better way to go."
+
+Labels: AUD: Veterans, DSC: Action link, DSC: Memorable date, DSC: Text input, HDW: Smartphone, OMNI: Appointments, PRDT: health-care-check-in, RESRCH: Generative (discovery), RESRCH: Remote, RESRCH: Usability, SPG: Cognitive Consideration, Accessibility, SPG: Blind/Visually Impaired, VAOS: Appointment List, VAOS: Details Page, VETJNY: Taking care of themselves
 
 # Additional Insights
 
