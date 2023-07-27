@@ -286,17 +286,20 @@ Veterans provided additional insights that will help to inform the PCI product a
 
 # Appendix 
 
-Research plan
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/research-plan.md)
 
-Conversation guide
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/conversation-guide.md)
 
-Prototype
+[Prototype](https://codepen.io/team/va-cie/live/NWORQEe)
 
-Observer Notes (Mural)
+[Observer notes (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1685723671443/5dbb11efe40fcd322967f3d2096159f7c928552e?sender=u37bb983bd3fc3cc00c7d3286)
 
-Research Synthesis (Mural)
+[Accessibility findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study/accessibility-findings-mhv-pci.md)
 
-[Research Readout Presentation (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/12184734/PCI.Unified.Check-In.Research.Report.pdf)
+[Research synthesis (Mural)
+](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686602905647?invited=true)
+
+[Research readout presentation (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/12184734/PCI.Unified.Check-In.Research.Report.pdf)
 
 [Sketch file (in progress)](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0EC89917-F949-4461-A7B3-32A5201FD2A2/canvas)
 
