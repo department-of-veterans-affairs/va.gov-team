@@ -1,0 +1,5 @@
+{
+  "btsss-response-text-error-general": "We're sorry, something went wrong. File your travel claim online within 30 days at https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/",
+  "btsss-response-text-error-claim-exists": "You’ve already submitted a claim for the appointment on 2023-09-30. You can check your claim status at https://va.gov/accessva-travel-claim",
+  "btsss-response-text-success": "We received your travel reimbursement claim for 2023-09-30. Claim number, TC202207000011666. Check your claim status at https://va.gov/accessva-travel-claim"
+}
