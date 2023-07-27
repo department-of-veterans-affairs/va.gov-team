@@ -9,7 +9,7 @@
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-- Open a new window and login into the [test user account](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) (80) for backup 
+- Open a new window and login into the [test user account](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) (82) for backup 
 
 
 ### Starting the session
@@ -165,7 +165,7 @@ Let’s start with a couple warm-up questions.
 - Are you comfortable logging in to your own VA profile account? 
 - [If no] Or would you rather have me share my screen and a test account with you and we can talk through the rest of this together?
    - [Backup =  which test account FOR MODERATOR to login to if there are concerns or issues with screen sharing after they state they would update this in Profile, Moderator would need to share their screen at this point]
-      - Test user 80
+      - Test user 82
 
 
 
