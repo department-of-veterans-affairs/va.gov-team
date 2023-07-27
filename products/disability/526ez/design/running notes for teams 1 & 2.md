@@ -1,10 +1,11 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
 
 **7/27/23**
+
 Attendees:
 
 Agenda
-- Team 1 Sprint Updates and Team member update
+- Team 1 Sprint Updates and Team Member update
 - Team 2 Sprint Updates
   
 ## 7/20/23
