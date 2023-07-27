@@ -7,7 +7,10 @@ Attendees:
 Agenda
 - Team 1 Sprint Updates and Team Member update
 - Team 2 Sprint Updates
-  
+- Collaboration opportunities (TE Research)
+- Also research to learn more about TE
+
+    
 ## 7/20/23
 Attendees: Nyantee, Kate, Julie, Nichole
 
