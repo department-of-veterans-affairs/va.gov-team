@@ -28,19 +28,8 @@ Systems used by Application Processing teams
      - If this changes, we need to be sure to communicate to Joshua Faulkner and ES team.  If Joshua is not available, update the Project Lead to pass on the communications.
 - 1/31/23 - Here is the [10-10EZ Schema](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/eccf2e8f98967e2d8841331935e8f8ce8a36e74d/dist/10-10EZ-schema.json)
 - 7/27/23 - Confirmation regarding how ES handles non-english characters (in the event we translate the EZ into another language)
-     - **Heather (Question)**: Question regarding non-english language characters in ES.  Can/Does ES handle characters with accents, such as in the Spanish language?
-     - **Joshua Faulkner (Answer)**:There has been feedback on other systems that the character with an accent on it is registering as two characters, so while data input appears on the front end to stay within field character limits, it is failing on the backend as exceeding limits due to the character now counting as two.
-
-
-
-
-
-New
-
-
-Joshua Faulkner
-  11:35 AM
-i think you're talking about database constraints; ES will support non english characters but they take up more than one byte in a varchar column, which is why you don't set the constraints to be the same as the input field length constraints if your database is using ISO charset. i.e. last name field can be 30 chars including extended character sets but the DB column is 100 bytes to allow for conversions. Haven't had any issues with it aside from some foreign addresses that were in German, couple years ago we had to extend the column to accommodate some of those.
+     - **Heather (Question)**: Question regarding non-english language characters in ES.  Can/Does ES handle characters with accents, such as in the Spanish language? There has been feedback on other systems that the character with an accent on it is registering as two characters, so while data input appears on the front end to stay within field character limits, it is failing on the backend as exceeding limits due to the character now counting as two.
+     - **Joshua Faulkner (Answer)**: i think you're talking about database constraints; ES will support non english characters but they take up more than one byte in a varchar column, which is why you don't set the constraints to be the same as the input field length constraints if your database is using ISO charset. i.e. last name field can be 30 chars including extended character sets but the DB column is 100 bytes to allow for conversions. Haven't had any issues with it aside from some foreign addresses that were in German, couple years ago we had to extend the column to accommodate some of those.
 
 
 
