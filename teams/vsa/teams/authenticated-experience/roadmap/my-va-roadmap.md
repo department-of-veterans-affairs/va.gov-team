@@ -1,12 +1,10 @@
 # My VA roadmap
 
-**Last updated: June 22, 2023 - updated team ideas section**
+**Last updated: July 28, 2023 - pointed current and completed project sections to the product folder**
 
 ## Current projects
 
-|Project|Status|
-|----|----|
-|Claim status EVSS > Lighthouse | Technical discovery |
+[Please refer to the team product folder for a list of current projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md#current-projects).
 
 ### Projected timelines for current projects
 
@@ -16,17 +14,7 @@
 
 ## Completed projects
 
-|Project|Launch/Completion date|
-|----|----|
-|[My VA audit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#project-outline-my-va-audit-updates-and-documentation)| April 25, 2023 |
-|[Launch VAOS v2 integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41202)|December 19, 2022|
-|[Update Cerner module to be powered by Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47956)| Launched December 13, 2022|
-|[Payments and debts V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed December 12, 2022|
-|[My VA redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect#readme)| Completed September 12, 2022|
-|[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed May 2022|
-|[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)|Completed August 2021|
-|[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Launch completed July 2021 |
-|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
+[Please refer to the team product folder for a list of completed projects and enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md#completed-projects--enhancements).
 
 ## Priorities
 
