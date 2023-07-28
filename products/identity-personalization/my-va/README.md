@@ -140,7 +140,7 @@ _Why would your business want this to exist?_
 
 |Project|Status|
 |----|----|
-|Claim status EVSS > Lighthouse | Pre-launch |
+|[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#readme)| Pre-launch |
 
 ### Completed projects & enhancements
 
