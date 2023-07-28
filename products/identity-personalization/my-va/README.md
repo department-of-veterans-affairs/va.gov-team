@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: July 28, 2023 - migrated current and completed projects list from another section of GitHub**
+**Last updated: July 28, 2023 - migrated current and completed projects list from another section of GitHub; linked to README for team member list**
 
 ### Communications
 
@@ -9,7 +9,7 @@
 
 ### Roles
 
-[The VA.gov profile is maintained by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team).
+[My VA is maintained by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team).
 
 
 ### Table of Contents
