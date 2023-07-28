@@ -1,6 +1,6 @@
 # Product outline: Onsite Notifications (ie. personalized notifications that show on VA.gov)
 
-**Last updated: May 31, 2023 -- added link to security documentation**
+**Last updated: July 28, 2023 -- updated formatting for past and current projects**
 
 ### Communications
 
@@ -15,7 +15,7 @@
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
-|Berni Xiong| Delivery Manager | berni.xiong@agile6.com |
+|Adrian Brewster| Delivery Manager | adrian.brewster@agile6.com |
 |Angela Agosto |Designer| angela.agosto@adhocteam.us |
 |Allison Lu| FE Engineer|	allison@cityfriends.tech |
 |Derrick Ellerbie| Full Stack Engineer | Derrick.ellerbie@Agile6.com|
@@ -98,13 +98,27 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ## Projects
 
-|Project| Launch date|
+### Current projects
+
+|Project| Status|
 |-------|------------|
 | Notification center MVP | In development |
+|[Update design system component build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md) | Pre-launch |
+|[Scaling onsite notifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#initiative-outline-scaling-onsite-notifications)|In development|
+
+### Completed projects & enhancements
+
+<details>
+
+<summary>Completed projects & enhancements</summary>
+
+|Project or enhancement|Launch/Completion date|
+|----|----|
 |[Notification center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery)| Discovery work complete Spring 2023|
-|[Update design system component build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md) | In development  |
-|[Onsite notifications v2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#initiative-outline-scaling-onsite-notifications)|In development|
 |[Onsite notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp)| Launch completed October 24, 2022|
+
+</details>
+
 
 ## Security
 [Onsite Notifications Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/mvp/launch-materials/onsite-notifications-security-playbook.md)
