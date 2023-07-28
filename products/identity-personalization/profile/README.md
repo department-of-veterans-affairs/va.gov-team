@@ -25,15 +25,7 @@
 
 #### Roles  
   
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Travis Cahill |Product Manager|travis.cahill@agile6.com|
-|Adrian Brewster | Delivery Manager|adrian.brewster@agile6.com|
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Pam Drouin| Designer | pamela.drouin@a1msolutions.com |
-|Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
-|Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
+[The VA.gov profile is maintained by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team).
 
 ---
 
