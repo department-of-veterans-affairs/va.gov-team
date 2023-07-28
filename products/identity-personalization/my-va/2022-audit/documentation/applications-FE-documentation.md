@@ -1,5 +1,5 @@
 # My VA Benefit Application Drafts Frontend Documentation
-Last updated: February 28, 2023
+Last updated: July 28, 2023
 
 ## When to show the ‘Benefit application drafts’ section
 We show this section for every LOA3 user.
@@ -81,6 +81,12 @@ Continue your application (linked to saved application)
 
 - The data for the benefit application draft card is gathered from the same API call as the main user call.
 
+---
+
+## How does an application in progress end up showing in a card on My VA?
+
+- As outlined on the [Platform website](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage), changes are required in the User Profile code for in-progress forms to be displayed on My VA.
+  -   
 ---
 
 ### If a user has multiple benefit application drafts to show
