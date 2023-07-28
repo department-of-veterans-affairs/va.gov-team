@@ -34,20 +34,15 @@ While landing people directly in the first section of the profile generally does
 - In the mobile view, people often don't realize the profile menu is collapsed, and they think `Personal information` is the only section of the profile. We have seen this in usability testing, and we think this might be why we sometimes see search results for sections that are already part of the profile.
 - For people that use screen readers, they expect to land on an H1 section header of `Profile` when they come to the section. But since we drop people right into `Personal information`, there is no `Profile` header. This breaks accessibility best practices.
 
-Furthermore, we have come across scenarios where people expect to find certain information in the profile that actually lives in tools elsewhere on VA.gov (eg. [dependents and letters](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter#readme)). This is a real problem for users who aren't able to find what they're looking for. However, rebuilding existing tools within the VA.gov profile is a cumbersome task.
-
-To solve for all of these problems, we are building a profile hub page, which resolves the three issues mentioned above by doing the following:
+To solve for these problems, we are building a profile hub page, which resolves the issues mentioned above by doing the following:
 
 - On mobile, it allows people to scan a page instead of an easy-to-miss menu for the contents of the profile.
 - This allows us to create a `Profile` H1, which aligns with accessibility best practices.
-- This allows us to link off to tools people expect to find in the profile without needing to rebuild anything.
 
 ## Problem Statement
 
 - As a mobile user, I can easily miss the mobile menu in the profile, which leads me to think that `Personal information` is the only section of the profile.
 - As a person using a screen reader, I expect to see a `Profile` H1 when I go to the profile.
-- As a veteran with dependents, I expect to find dependent information in the profile.
-- As a veteran, I expect to find letters information in the profile.
 
 ## User Outcomes
 
@@ -57,7 +52,6 @@ To solve for all of these problems, we are building a profile hub page, which re
 
 - On mobile, users can more easily scan for what is available in the profile.
 - For people using screen readers, it will be much clearer that links to `Profile` landed them in the right place.
-- For all users, they can more easily find links to tools that live elsewhere but are associated with the profile (eg. dependent information).
 
 ### Undesired User Outcomes
 
