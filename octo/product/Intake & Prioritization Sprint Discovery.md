@@ -29,3 +29,4 @@ The goal is to understand OCTO’s various intake and prioritization decision pr
 * [CMS Repo](https://github.com/department-of-veterans-affairs/va.gov-cms#workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board)
 * [CMS/Facilities/Public Websites Repo](https://github.com/department-of-veterans-affairs/vets-website)
 * [Mural Workspace](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1685649447497/4e91a57b816330a388471da13a101dc305614c2f?sender=f78b23f6-ae8d-45da-8deb-929288758658)
+* [Additional documentation can be found here](https://dvagov-my.sharepoint.com/personal/lisa_koenigsberg_va_gov/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flisa%5Fkoenigsberg%5Fva%5Fgov%2FDocuments%2FProductOperations%2FIntake%20and%20Prioritization%20Initiative%20%2D%202023&view=0)
