@@ -25,15 +25,12 @@
 
 ## Overview
 
-This page should provide users a landing page for the VA.gov Profle surfacing high level details of the types of things they can do within each section of the VA.gov Profile. This should mirroring some practices we see on websites in healthcare, financial services, and consumer/shopping. 
+The profile hub serves as a landing page for the VA.gov Profile. It allows users to easily scan all sections of the profile without obfuscating this information behind a menu. 
 
 ## Problem statement
 
-Without this Profile Hub, when users select "Profile" on other pages/parts of va.gov this sends them directly into the "Personal Information" subsection of the Profile which is a breech of best practices. Users then have to navigate to each page of the profile to know what is available within that section or they have to use search to locate the item they're looking for. Navigation is even more challenging in the case of screen reader users since the other sections of the Profile live above the H1 in the current page structure. Unless a screenreader user knows there is something above the H1 they may not know to look for it. 
-
-By creating a Profile Hub page this will give users added context and will resolve the issues encountered with items living above the H1 header.
-
-Additionally, some common things users are searching for within the profile are things that live in other pages of the profile. 
+- As a mobile user, I can easily miss the mobile menu in the profile, which leads me to think that `Personal information` is the only section of the profile.
+- As a person using a screen reader, I expect to see a `Profile` H1 when I go to the profile.
 
 ## User Outcomes
 
@@ -41,11 +38,12 @@ Additionally, some common things users are searching for within the profile are 
 
 *Why would a user want to use this? With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
-- This would help users navigate the various parts of their Profile and could reduce search for things in the profile. This would provide an overall better experience for screenreader users 
+- On mobile, users can more easily scan for what is available in the profile.
+- For people using screen readers, it will be much clearer that links to `Profile` landed them in the right place.
 
 ### Undesired User Outcomes
 
-- Done wrong, the hub could become noisy, cluttered place that makes it harder for users to easily navigate to tools they're seeking 
+- Done wrong, the hub could become noisy, cluttered place that makes it harder for users to easily navigate to tools.
 
 ## Business Outcomes
 
@@ -53,15 +51,17 @@ Additionally, some common things users are searching for within the profile are 
 
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
-- Done right, the hub could be an important part of a more holistic authenticated experience. 
+- This allows us to fix longstanding issues for mobile and screen reader users.
+- This allows us to surface links associated with the profile without having to build whole new sections within the profile.
+- This allows us to experiment with the hub model and whether it might be part of a more holistic authenticated experience. 
 
 ### Undesired Business Outcomes
 
-- The hub becomes a disorganized.
+- The hub becomes a dumping ground.
 
 ## Analytics
 
-- TBD we'd need to create the page first
+- TBD
 
 ## Projects
 
