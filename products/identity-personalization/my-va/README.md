@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: May 30, 2023 - updated links for technical documention and user flows, new screenshot post-launch of audit updates**
+**Last updated: July 28, 2023 - migrated current and completed projects list from another section of GitHub**
 
 ### Communications
 
