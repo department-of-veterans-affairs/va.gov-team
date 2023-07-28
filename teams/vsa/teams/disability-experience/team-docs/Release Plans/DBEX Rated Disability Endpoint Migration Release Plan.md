@@ -1,47 +1,47 @@
-# DBEX Rated Disability Endpoint Migration Release Plan.md
+# DBEX Rated Disability Endpoint Migration Release Plan
 
 ## Overview:
 #### Internal Testing and Review:
-[ ] Complete pre-launch tasks: [ticket](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62666)
-    [ ] Splitting feature flags + consider environment parity b/c LH sandbox might use a different data source from eVSS
-    [ ] Additional metrics/logging calls in RD controller (InProgressForm swallows errors)
-[ ] Request production credentials from Lighthouse via their production access form
-[ ] Complete manual testing with production credentials in Argo
-[ ] Push credentials to K8 manifest and devops repositories
-[ ] Determine internal production test users for targeted runs
+- [ ] Complete pre-launch tasks: [ticket](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62666)
+    - [ ] Splitting feature flags + consider environment parity b/c LH sandbox might use a different data source from eVSS
+    - [ ] Additional metrics/logging calls in RD controller (InProgressForm swallows errors)
+- [ ] Request production credentials from Lighthouse via their production access form
+- [ ] Complete manual testing with production credentials in Argo
+- [ ] Push credentials to K8 manifest and devops repositories
+- [ ] Determine internal production test users for targeted runs
     - List users identified:
-[ ] Create and execute a Testrail test plan
-[ ] Complete Review
+- [ ] Create and execute a Testrail test plan
+- [ ] Complete Review
 
 #### Canary
-[ ] Schedule a meeting for controlled testing
-[ ] Set Flipper active for identified internal production users
-[ ] Ensure qualitatively that the feature works as intended for users
-[ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
-[ ] Monitor Sentry and DataDog logs for any anomalies
+- [ ] Schedule a meeting for controlled testing
+- [ ] Set Flipper active for identified internal production users
+- [ ] Ensure qualitatively that the feature works as intended for users
+- [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
+- [ ] Monitor Sentry and DataDog logs for any anomalies
 
 #### Staged Rollout
 - For each defined interval, monitor defined criteria in DataDog and Sentry
 - Progress if the criteria is met for the given timebox
 - Rollback if any of the rollback criteria are met
-    [ ] 1%
-    [ ] 5%
-    [ ] 10%
-    [ ] 25%
-    [ ] 50%
+    - [ ] 1%
+    - [ ] 5%
+    - [ ] 10%
+    - [ ] 25%
+    - [ ] 50%
 
 
 ## Phase I: Internal Testing and Review
 
 ### Review Cases
-[ ] Does the existing DataDog monitoring have sufficient coverage?
-[ ] Has manual testing been completed in Argo with prod credentials?
-[ ] Have a successful TestRail test plan been executed?
-[ ] Confirm devops repository has references to correct environment variable paths
-[ ] Confirm K8 manifest repository has references to correct environment variable paths
-[ ] Do we have a point of contact on LH to coordinate with?
-[ ] Has the team reviewed and timeboxed the release intervals?
-[ ] Have PO(s) been made aware and approved of the plan? 
+- [ ] Does the existing DataDog monitoring have sufficient coverage?
+- [ ] Has manual testing been completed in Argo with prod credentials?
+- [ ] Have a successful TestRail test plan been executed?
+- [ ] Confirm devops repository has references to correct environment variable paths
+- [ ] Confirm K8 manifest repository has references to correct environment variable paths
+- [ ] Do we have a point of contact on LH to coordinate with?
+- [ ] Has the team reviewed and timeboxed the release intervals?
+- [ ] Have PO(s) been made aware and approved of the plan? 
 
 ### Pre-release Testing
 - Identify a prod user and do a test run
@@ -64,7 +64,7 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 - Monitor logs for any qualitative anomalies
 - Monitor latency
 
-Links to dashboard(s) showing "success criteria" metrics: <a href = "https://vagov.ddog-gov.com/dashboard/zc5-23v-wpq/benefits---dbex---evss-to-lh-rated-disability?from_ts=1690393863486&to_ts=1690397463486&live=true">Benefits DBex EVSS-to-LH: Rated Disability</a>
+Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: Rated Disability](https://vagov.ddog-gov.com/dashboard/zc5-23v-wpq/benefits---dbex---evss-to-lh-rated-disability?from_ts=1690393863486&to_ts=1690397463486&live=true)
 
 #### Rollback
 - Rollback if any of the following is encountered
@@ -81,7 +81,7 @@ Links to dashboard(s) showing "success criteria" metrics: <a href = "https://vag
             Date:
             Severity/Impact:
             Ticket(s) created to address:
-            [ ] Has the issue been resolved?
+            - [ ] Has the issue been resolved?
 
 
 ### Stage A: Canary 
