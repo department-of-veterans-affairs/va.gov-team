@@ -1,6 +1,6 @@
 # Product outline: Onsite Notifications (ie. personalized notifications that show on VA.gov)
 
-**Last updated: July 28, 2023 -- updated formatting for past and current projects**
+**Last updated: July 28, 2023 -- updated formatting for past and current projects; linked to README for team member list**
 
 ### Communications
 
@@ -9,17 +9,7 @@
 
 ### Roles
 
-#### On-site notifications team
-
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
-|Adrian Brewster| Delivery Manager | adrian.brewster@agile6.com |
-|Angela Agosto |Designer| angela.agosto@adhocteam.us |
-|Allison Lu| FE Engineer|	allison@cityfriends.tech |
-|Derrick Ellerbie| Full Stack Engineer | Derrick.ellerbie@Agile6.com|
-
+[Onsite notifications are maintained by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team).
 
 #### Partners
 
