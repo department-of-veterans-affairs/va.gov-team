@@ -2,17 +2,19 @@
 Date: July 28, 2023
 Attendees: Florence McCafferty, Sean Good, Melissa Ashton, David Rawlins
 
-## What attributes make an issue Tier 3?
+## What makes an issue a "Tier 3" issue?
+- Can be a Veteran issue, clinician, coordinators (different flows/ways of handling)
+- These issues are usually account-specifics; might see trends for a bug, but usually one-off problems
+- Veteran tier 3 issues come through the MHV HRC help desk: First tier 1, if they can't solve it the issue goes to tier 2, and then finally tier 3
+- At this stage, the issues go to Melissa Ashton: she addresses the issue or triages it and gets it to the right people who are likely to be able to address it
 
-## What are all the sources of feedback that could be designated Tier 3 issues?
+Tier 3 Ticket example: Veteran calls in and can't see an appointment they have scheduled. Tier 1 and Tier 2 goes in and looks around, thinks issue is in platform or appt modules, can't solve it because they don't have the knowledge or access. Could be the way the appointment was logged into the system; some appointments are labeled a certain way when providers don't want the Veteran to be able to view them. Tier 1 and 2 staff are unable to view this level of detail to help users with this type of problem. 
 
-## Once an issue is designated as Tier 3, what happens to it?
+## Where are Tier 3 issues tracked and shared?
 
-## Who receives information about Tier 3 issues and their progress to being solved?
+MS Dynamics; share out during weekly scrum of scrums meeting where weekly numbers are shown and broken down by team; there is also a weekly slide presentation (Melissa creates this report). I asked Melissa if she could send me a copy of the next report so I could see if that info might be useful to our team.
 
-## Are Tier 3 issues documented together? Where? How is this information used?
-
-
+---
 # Meeting with Patty Henry
 Date: June 21, 2023
 Attendees: Patty and Florence
