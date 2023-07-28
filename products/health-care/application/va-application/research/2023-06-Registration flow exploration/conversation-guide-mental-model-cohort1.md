@@ -71,12 +71,10 @@ Let’s start with a few warm-up questions.
 
 
 ## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
-
-
-- How did you determine what health benefits you could get when you recently seen for care?
-- What resources did you use and how to understand what you might qualify for?
+- Can you explain to me in your own words, the type of health care benefits that are available to you?
+- What resources have you ever used to understand what health care benefits you might qualify for?
 - Did you want to only get care for one specific health concern, or were you interested in enrolling in full health care coverage?
-- Can you tell me more about anything that is unclear to you about the application and health care benefits eligibility today? 
+- Can you tell me more about anything that is unclear to you about the health care benefits eligibility and application process today? 
 
 
 ### Things to watch for:
