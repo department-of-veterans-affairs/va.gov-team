@@ -2,10 +2,10 @@ The following is a list of notification types under consideration for inclusion 
 
 1. **New Secure Message** (in progress)
    * Displayed when there are unread messages in the user's Secure Messaging inbox
-2. **New After Visit Summary**
-   * Displayed when there is an unread After Visit Summary for the user
-3. **Appointment Reminder**
+2. **Appointment Reminder**
     * Displayed when the user has an appointment scheduled in the next X days.
+3. **New After Visit Summary**
+   * Displayed when there is an unread After Visit Summary for the user
 4. **Appointment Cancellation**
     * Displayed when a confirmed appointment for the user has been cacnelled.
 5. **Pending Appointment Reminder**
