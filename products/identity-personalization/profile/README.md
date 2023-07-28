@@ -104,6 +104,12 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ### Current projects
 
+|Project|Status|
+|----|----|
+|Direct deposit for comp & pen EVSS > Lighthouse migration| Pre-launch|
+|Notification preferences: Adding email as a channel| Build |
+|Profile hub|Discovery/design|
+
 ### Completed projects & enhancements
 
 <details>
