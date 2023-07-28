@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [POCs](#pocs)
-- [Overview & features](#products--features)
+- [Products & features](#products--features)
 - [Is VA Profile the same thing as the VA.gov profile?](#is-va-profile-the-same-thing-as-the-vagov-profile)
 - [Problem Statement](#problem-statement)
 - [Opportunities](#opportunities)
