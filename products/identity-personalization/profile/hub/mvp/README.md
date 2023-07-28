@@ -29,7 +29,7 @@
 
 When we launched [profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#readme) in 2020, the profile went from a single page to a multi-page section. The URL `va.gov/profile` became obsolete, as we opted to land users right on the first page of the profile (at the time, a combined personal & contact information section), which had a more specific URL.
 
-While landing people directly in the first section of the profile generally doesn't cause problems navigating the profile, there have been two notable exceptions to this:
+While landing people directly in the first section of the profile generally doesn't cause problems usability issues, there have been two notable exceptions to this:
 
 - In the mobile view, people often don't realize the profile menu is collapsed, and they think `Personal information` is the only section of the profile.
 - For people that use screen readers, they expect to land on an H1 section header of `Profile` when they come to the section. But since we drop people right into `Personal information`, there is no `Profile` header. This breaks accessibility best practices.
