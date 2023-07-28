@@ -48,16 +48,15 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 #### **Key Result #1:** Reduce drop-off/exit rate for the Household section pages by a third.
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+- Note: Total Apps started do not include Short Form flow, as those applications do not flow through the section we are monitoring
 
-| Product KPI | 2021| 2022 | Target | Post-Launch 1 week |Post-Launch 1 month|
-|------------- |---------|-------|-------------- |-------------- |-------------- |
-|Total Apps started |173,669|231,725 |N/A | TBD |TBD |
-|Household section |13.7% (23,803)|9.1% (21,074) |7% | TBD |TBD |
-|Financial Disclosure |4% (1,464)|0.3% (477) | no change |TBD |TBD |
-|Spouse Info |%|% | TBD |TBD |TBD |
-|Dependent info |%|% |% | TBD |TBD |
-|Annual Income |26.3% (40,791) |11.4% (14,772) | 8% |TBD |TBD |
-|Deductible Expenses |6.2% (9,704)|7% (9,116) | 5% |TBD |TBD |
+| Product KPI | 2021| 2022 | Jan-Jun 2023 |Target | Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------|-------|-------------- |-------------- |-------------- |
+|Total Apps started |173,669|231,725 |81,431 |N/A | TBD |TBD |
+|Household section drop-off |14% (23,803)|9% (21,074) |34% (27,715) |10% | TBD |TBD |
+|Financial Disclosure |4% (1,464)|0.3% (477) | 0% (no drop) |no change |TBD |TBD |
+|Annual Income |26.3% (40,791) |11.4% (14,772) | 24% (12,417) |10% |TBD |TBD |
+|Deductible Expenses |6% (9,704)|7% (9,116) | 8% (3,296) |5% |TBD |TBD |
 
 
 #### **Key Result #2:** Increase application submissions by 5%, and submissions within a single session by 5%
@@ -65,10 +64,10 @@ This is based on a third of current exit rates converting to successful submissi
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| Product KPI | 2022 Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
-|------------- |---------|-------|-------------- |-------------- |
-|Application Submissions | 58% (137.5k)  | 63% | TBD|TBD|
-|Single-session Submissions | 67% (92k) | 72% | TBD|TBD|
+| Product KPI | 2022 Baseline | Jan-Jun 2023 | Target | Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------|-------|-------------- |-------------- |
+|Application Submissions | 59.8% (138,687k)  | 61.4% (63,084) | 65% |TBD|TBD|
+|Single-session Submissions | 60.5% (83,941) | 62.2% (39,232) | 77%  |TBD|TBD|
 
 
 #### **Key Result #3:** Veterans feel prepared when they begin the Household section
