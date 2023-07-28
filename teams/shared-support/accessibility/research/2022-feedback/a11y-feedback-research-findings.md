@@ -5,10 +5,10 @@ These findings were checked by the following participants:
 - Tim Hornik (Chief of Staff BVA)
 - Michael, Ian, and Aubrey (Contact Center and Medallia Team)
 
-They have yet to be checked by:
-- The Section 508 office (we will bring this up in a future sync)
-- VEO (we emailed them and confirmed receipt, but no feedback has been provided yet)
-- Brea and Cindy (we have contacted them, and expect possible feedback before the end of July)
+We informed the following, but have not received any additional feedback from:
+- The Section 508 office
+- VEO 
+- Brea and Cindy (researchers)
 
 ## Goals
 Our goal is to establish a process to collect a11y feedback from the public. In order to accomplish this goal, we need to…
