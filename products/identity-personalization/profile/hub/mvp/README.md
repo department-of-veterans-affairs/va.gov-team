@@ -1,6 +1,6 @@
 # Project outline: Profile hub MVP
 
-**Last Updated:July 28, 2023**
+**Last Updated: July 28, 2023**
 
 ### Communications
 
@@ -45,7 +45,7 @@ To solve for all of these problems, we are building a profile hub page, which re
 ## Problem Statement
 
 - As a mobile user, I can easily miss the mobile menu in the profile, which leads me to think that `Personal information` is the only section of the profile.
-- As a screen reader user, I expect to see a `Profile` H1 when I go to the profile.
+- As a person using a screen reader, I expect to see a `Profile` H1 when I go to the profile.
 - As a veteran with dependents, I expect to find dependent information in the profile.
 - As a veteran, I expect to find letters information in the profile.
 
@@ -55,7 +55,13 @@ To solve for all of these problems, we are building a profile hub page, which re
 
 *Why would a user want to use this? With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
+- On mobile, users can more easily scan for what is available in the profile.
+- For people using screen readers, it will be much clearer that links to `Profile` landed them in the right place.
+- For all users, they can more easily find links to tools that live elsewhere but are associated with the profile (eg. dependent information).
+
 ### Undesired User Outcomes
+
+- This reduces overall scannability of the profile.
 
 ## Business Outcomes
 
@@ -63,8 +69,13 @@ To solve for all of these problems, we are building a profile hub page, which re
 
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
+- This allows us to fix longstanding issues for mobile and screen reader users.
+- This allows us to surface links associated with the profile without having to build whole new sections within the profile.
+- This allows us to experiment with the hub model, and whether there are things about this pattern we could learn from/apply to the My VA dashboard.
 
 ### Undesired Business Outcomes
+
+- The profile hub becomes a dumping ground.
 
 ## Measuring Success
 
