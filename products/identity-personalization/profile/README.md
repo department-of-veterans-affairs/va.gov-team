@@ -108,7 +108,7 @@ We don’t want the profile to become such a de facto place for Veteran informat
 |----|----|
 |Direct deposit for comp & pen EVSS > Lighthouse migration| Pre-launch|
 |Notification preferences: Adding email as a channel| Build |
-|Profile hub|Discovery/design|
+|Profile hub page|Discovery/design|
 
 ### Completed projects & enhancements
 
