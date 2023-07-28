@@ -65,8 +65,8 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 - This allows us to fix longstanding issues for mobile and screen reader users.
 - This allows us to surface links associated with the profile without having to build whole new sections within the profile.
-- This allows us to experiment with the hub model, and whether there are things about this pattern we could learn from/apply to the My VA dashboard.
-
+- This allows us to experiment with the hub model and whether it might be part of a more holistic authenticated experience.
+  
 ### Undesired Business Outcomes
 
 - The profile hub becomes a dumping ground.
