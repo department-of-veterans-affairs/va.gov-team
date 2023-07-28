@@ -67,7 +67,7 @@ Additionally, some common things users are searching for within the profile are 
 
 |Project|Epic|Launch date|
 |---|---|---|
-| | | |
+|[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md) | ||
 
 ## Design
 
