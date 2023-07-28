@@ -1,6 +1,6 @@
 # Product outline: Military information in the VA.gov profile
 
-**Last Updated: January 11, 2023**
+**Last Updated: July 18, 2023**
 
 ### Table of Contents
 
@@ -65,4 +65,4 @@ The following provides a description of the different termination reason codes:
 ## Design and UX
 - [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/use-cases)
-- [High-level user flow with screenshots](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/v/nqRRpz/a/l1LzOgv/r/EYLLpY)
+- [User flow on mobile page of Sketch files has u](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/p/D6D40E33-BC4E-4A06-90C7-879C59AD49F4/canvas)
