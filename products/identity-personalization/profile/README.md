@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [POCs](#pocs)
-- [Overview & features](#overview--features)
+- [Overview & features](#products--features)
 - [Is VA Profile the same thing as the VA.gov profile?](#is-va-profile-the-same-thing-as-the-vagov-profile)
 - [Problem Statement](#problem-statement)
 - [Opportunities](#opportunities)
@@ -37,11 +37,11 @@
 
 ---
 
-## Overview & features
+## Products & features
 
 The [VA.gov profile](https://staging.va.gov/profile) provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
 
-|Profile feature| Description | Backend tool | Backend tool contact info|
+|Profile product/feature| Description | Backend tool | Backend tool contact info|
 |---------------|-------------|--------------|--------------------------|
 |[Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) - Full name| Shows  the full name for all LOA3 users.| MPI| [#vsp-identity](https://dsva.slack.com/channels/vsp-identity) |
 |[Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) - Disability rating| Shows someone's disability rating, if applicable.| EVSS | [#benefits-disability-experience](https://dsva.slack.com/channels/benefits-disability-experience)| 
