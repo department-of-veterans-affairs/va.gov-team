@@ -9,15 +9,7 @@
 
 ### Roles
 
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
-|Bernadette Xiong| Delivery Manager | berni.xiong@agile6.com |
-|Angela Agosto |Designer| angela.agosto@adhocteam.us |
-|Liz Lantz |Design support| liz.lantz@adhocteam.us |
-|Allison Lu| FE Engineer|	allison@cityfriends.tech |
-|Derrick Ellerbie | Full Stack Engineer | derrick.ellerbie@Agile6.com|
+[The VA.gov profile is maintained by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team).
 
 
 ### Table of Contents
