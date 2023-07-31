@@ -1,5 +1,7 @@
 # Intiative Briefing: Benefit Hub Optimization
 
+## **This is outdated.  Updated initiative brief, status, and supporting artifacts can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/optimize-benefit-hubs/initiative-brief.md**
+
 ## Outcome Summary - Benefit Hubs  Optimization
 
 The initial digital optimization of the benefit hubs was created in 2018 through 2019 via the launch of the new VA.gov and the migration of Tier 1 Veteran-facing benefit and health care content and tools, from the legacy pages into the new hubs.  In the course a Content Management System (CMS) was established and the benefit hubs were then migrated into the CMS.  
