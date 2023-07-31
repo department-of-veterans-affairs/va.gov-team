@@ -71,7 +71,7 @@ Let’s start with a few warm-up questions.
 - [What things does a Veteran talk about in regards to the term registration?]
 
 
-## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
+## Second Topic: [Choosing Benefits/Understanding Eligibility] - 10 minutes
 - Can you explain to me in your own words, the type of health care benefits that are available to you?
 - What resources have you ever used to understand what health care benefits you might qualify for?
 - Did you want to only get care for one specific health concern, or were you interested in enrolling in full health care coverage?
@@ -85,18 +85,27 @@ Let’s start with a few warm-up questions.
 - [Do they know and mention their Priority Group during these questions?]
 
 
+
+
 ## Third Topic: [Ideal State] - 10 minutes
 - Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits. 
 - What tools, communication, people could make this the best process possible in your mind?
 - How would you like to discover what options you have to get the level of care that is right for you?
 - What information would be important to you so you feel confident when having to choose between health care benefit options?
 
-
 ### Things to watch for:
 - [Are there any terminology used that stand out as the Veteran is describing their ideal process?]
 - [What steps do they call out?]
 - [What steps do they leave out?]
 - [What do they mention or call out as information that is helpful in making decisions about health care benefit choices?]
+
+
+
+## Topic: [Current paper instructions]
+- For this last part of the session, I am going to share my screen with you and I want you to explain to me what the instructions mean. There is no right or wrong answer here, we just want to better understand your decision throught process here. 
+
+-[Possible prompts]
+
 
 
 
