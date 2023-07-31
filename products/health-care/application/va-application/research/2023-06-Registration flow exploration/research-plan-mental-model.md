@@ -36,32 +36,32 @@ We will use these findings to:
 - Gain more understanding of the current problem space and Veteran's perception of registration and enrollment
 - Check assumptions and terminology used to remain Veteran-centric 
 - Develop insights into an ideal state and how Veteran would prefer to navigation the health care benefits application journey
-- Guide our direction in creating the registration flow hyptothesis prototype and future study for next steps
+- Guide our direction in creating the registration flow hypothesis prototype and future study for next steps
 
 ### Research questions
 
-Out goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
+Our goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.
 - What is the experience of "registering only" today?
 - Are Veterans aware that they registered or just that they declined enrollment?
 - What are the reasons a Veteran would decline to enroll in health care when completing the application?
 
 Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care during the health care application process.
-- What is the the awareness by Veterans of health care differences between enrollment and registration?
+- Are Veterans aware of the health care differences between enrollment and registration?
 - What terms do Veterans use when describing if they are enrolled or registered for health care benefits?
 - What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
 
 Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they need to provide in that process. 
 - What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
-- What is the order and process expectations of Veterans when they are applying (registering or enrolling) for health care benefits?
+- What do Veterans expect from the order and process of applying (registering or enrolling) for health care benefits?
 - When does it make sense to Veterans to go through eligibility based questions? (before, during or after application)
-- Is there often other applications/claims/VA services that the Veteran has to interact with that could change their decision of being registered to enrolling for the full medical benefits package?
+- What other applications/claims/VA services must Veterans interact with that could change their choice from registeration to enrollment in the full medical benefits package?
 
 
 ### Hypothesis
-- We assume that Veterans will not use the term "registration only" when referring to health care benefits but will be familiar with enrollment and eligibility.
-- We assume that Veterans will use the term registration when they are talking about choosing their main VA medical facility for care not applying for benefits. 
+- We assume that Veterans will not use the term "registration only" when referring to health care benefits, but will be familiar with enrollment and eligibility.
+- We assume that Veterans will use the term registration when they are talking about choosing their main VA medical facility for care, not applying for benefits. 
 - We assume adding the term/step of "registration" will add to the confusion around health care benefits. 
-- We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and claims filed in between. 
+- We assume not all Veterans can complete the enrollment process in one go, that there are often stops, such as an exam and claims filed in between. 
 
 
 ## Methodology	
