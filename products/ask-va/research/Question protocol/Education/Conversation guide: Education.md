@@ -13,6 +13,42 @@ Our goal is to **understand which fields are necessary in order for agents to de
 * If an answer is required, what happens if a submitter enters something random in order to get through the form?
 * How does this process differ across use cases (or categories and topics)?
 
+## Notes to review ahead of time
+
+* Most common correctly routed topics in the form of submitter questions (submitter questions you can answer):
+  * Attached is a time record for processing
+  * See attached time record and signed agreement
+  * Time sheet for _____
+  * Submitting Timecard for payment
+  * Requesting a new Work-Study contract
+  * New Application attached, please process
+  * Requesting 30-day extension for student
+  * Contract Extension request
+  * Work Study Application
+  * Signed Contract
+  * Work-Study Supervisor changes
+  * Work-Study site changes
+  * Interested in Work-Study
+  * Often times the Work-Study Site Supervisor submitting the student request will include the student’s name in the question section. 
+* Items that seem like they would belong to your LoB, but don’t (submitter questions you cannot answer):
+  * We see on occasion the following that require us to re-route to Muskogee CSR or Buffalo CSR.  These do not seem like they would belong to Work Study, but somewhere there is confusion, and we see OJT certifications.
+  * Monthly Cert
+  * OJT Cert
+  * OJT Application
+  * OJT hours for submission
+  * On the other hand, there are times when the submitter selects “GI BILL” and “Post 9-11” when they should be requesting Work-Study. These then sit in the wrong queue and are not answered as timely as they could have been.
+  * Additionally, for our CH31 recipients using Work Study benefits, sometimes documents are sent to VRE counselors instead of being correctly assigned to Work Study.
+
+----
+
+*Graph showing counts of topics and subtopics for VA Health Care:*
+![topic and subtopic count graph](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Question%20protocol/Education/Education%20(Ch.30%2C%2033%2C%2035%2C%201606%2C%20etc.%20%26%20Work%20Study)-hsb.png)
+
+*Graph showing topic frequency over time:*
+![time series]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Question%20protocol/Education/Education%20(Ch.30%2C%2033%2C%2035%2C%201606%2C%20etc.%20%26%20Work%20Study)-hsb.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Question%20protocol/Education/Education%20(Ch.30%2C%2033%2C%2035%2C%201606%2C%20etc.%20%26%20Work%20Study)-time-series.png))
+
+----
+
 ## Agenda - 60 minutes
 
 * Intros: 5 minutes
