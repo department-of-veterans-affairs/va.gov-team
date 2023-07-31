@@ -64,7 +64,7 @@
 ## Launch Planning
 ### Collaboration Cycle
 
-- [Kickoff Ticket]()
+- [Kickoff Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62889)
 
 ### Timeline 
 - ASAP. This is a high-priority project for OCTO, and work will start as soon as it is approved by the Collab Cycle and CAIA.
