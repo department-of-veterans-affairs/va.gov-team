@@ -45,7 +45,7 @@ Our goal is to **understand which fields are necessary in order for agents to de
 ![topic and subtopic count graph](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Question%20protocol/Education/Education%20(Ch.30%2C%2033%2C%2035%2C%201606%2C%20etc.%20%26%20Work%20Study)-hsb.png)
 
 *Graph showing topic frequency over time:*
-![time series]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Question%20protocol/Education/Education%20(Ch.30%2C%2033%2C%2035%2C%201606%2C%20etc.%20%26%20Work%20Study)-hsb.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Question%20protocol/Education/Education%20(Ch.30%2C%2033%2C%2035%2C%201606%2C%20etc.%20%26%20Work%20Study)-time-series.png))
+![time series](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Question%20protocol/Education/Education%20(Ch.30%2C%2033%2C%2035%2C%201606%2C%20etc.%20%26%20Work%20Study)-time-series.png)
 
 ----
 
