@@ -6,12 +6,12 @@
 ## Introduction - 2 minutes
 Thanks for joining us today! My name is Pam. I am a designer who works on improving the VA.gov website so Veterans can get what they need as quickly and easily as possible. I also have some colleagues from my team on the line observing and taking notes.
 
-What I hope to do today is get your help in testing some technical changes we’ve made to the website. The changes we have made aren’t something anyone can see on the screen, but with your help we will be able to see whether we’ve set everything up correctly.
+What I hope to do today is get your help in testing some technical changes we’ve made to the website. The changes we have made aren’t something anyone can see on the screen, but with your help we will be able to check whether we’ve set everything up correctly.
 
 Before we start, I wanted to go over a few details:
 - **This session should take 30 minutes of your time or less.** It involves me asking you to complete a few small tasks. Because I want to make sure we don’t keep you beyond half an hour, I may prompt you with the next question to keep things moving.
 - **You will need your direct deposit information today.** I will ask you to re-enter your direct deposit information in order to make sure the system is doing what it’s supposed to, but we will not be making any changes to your account.
-- **We will be able to see your real information today.** This may include some healthcare information and some claims information. During any of the tasks, feel free to stop screensharing and start again when you feel comfortable. 
+- **We will be able to see your real information today.** This may include some healthcare information and some claims information. However, you have the choice to free to stop screensharing during any of the tasks, and start again when you feel comfortable. 
 - **You may end the session at any time, for any reason.** Just let me know.
 
 Do you have any questions for me before we begin?
