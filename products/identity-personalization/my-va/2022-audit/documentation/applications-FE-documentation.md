@@ -1,5 +1,5 @@
 # My VA Benefit Application Drafts Frontend Documentation
-Last updated: July 28, 2023
+Last updated: July 31, 2023
 
 ## When to show the ‘Benefit application drafts’ section
 We show this section for every LOA3 user.
@@ -83,10 +83,11 @@ Continue your application (linked to saved application)
 
 ---
 
-## How does an application in progress end up showing in a card on My VA?
+### How does an application in progress end up showing in a card on My VA?
 
 - As outlined on the [Platform website](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage), changes are required in the User Profile code for in-progress forms to be displayed on My VA.
-  -   
+- A form must have Save in Progress (SiP) enabled, must have a form ID added to the VA_FORM_IDS object in the [/platform/forms/constants file](https://github.com/department-of-veterans-affairs/vets-website/blob/bbd17c20a03e01ef22e5247a37d073ee10c47992/src/platform/forms/constants.js#L1), and add form information in the [personalization dashboard helpers file](https://github.com/department-of-veterans-affairs/vets-website/blob/e812cfb6b7bad2822498e7c88d60bd78b3796179/src/applications/personalization/dashboard/helpers.jsx#L1) to specified objects as outlined in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage).
+
 ---
 
 ### If a user has multiple benefit application drafts to show
