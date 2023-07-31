@@ -23,6 +23,7 @@ assignees: ''
 - [ ] If poster is updated, create PDFs and update poster links in [Git](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/design/visual-collateral)
 
 ## PRODUCT TASKS
+- [ ] Close the Collab Cycle ticket
 - [ ] Create release notes [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
 - [ ] Remove corresponding entry from the [Planned Releases page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md)
 - [ ] Send release notification via slack in the [check-in-expreience](https://dsva.slack.com/archives/C022AC2STBM) channel 
