@@ -1,6 +1,6 @@
 # Intiative Briefing: Benefit Hub Optimization
 
-## **This is outdated.  Updated initiative brief, status, and supporting artifacts can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/optimize-benefit-hubs/initiative-brief.md**
+## **This is outdated.  Updated initiative brief, status, and supporting artifacts can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/optimize-benefit-hubs**
 
 ## Outcome Summary - Benefit Hubs  Optimization
 
