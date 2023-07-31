@@ -61,7 +61,7 @@ Let’s start with a few warm-up questions.
    - [Not saying your "registration experience, but would they have filled out a paper EZ in person or did staff input on their behalf?]
 - What was your impression to what benefits or level of care you would qualify for as you were going thorugh this process? 
 - How would you describe the process after you were seen for care? 
-   - Did you recieve any communication from the VA or information if you were eligible to enroll in health care benefits? 
+   - Did you receive any communication from the VA or information if you were eligible to enroll in health care benefits? 
 
 
 ### Things to watch for:
@@ -72,8 +72,8 @@ Let’s start with a few warm-up questions.
 
 
 ## Second Topic: [Choosing Benefits/Understanding Eligibility] - 10 minutes
-- Can you explain to me in your own words, the type of health care benefits that are available to you?
-- What resources have you ever used to understand what health care benefits you might qualify for?
+- Can you explain to me, in your own words, the type of health care benefits that are available to you?
+- What resources have you used to understand what health care benefits you might qualify for?
 - Did you want to only get care for one specific health concern, or were you interested in enrolling in full health care coverage?
 - Can you tell me more about anything that is unclear to you about the health care benefits eligibility and application process today? 
 
