@@ -101,13 +101,6 @@ Let’s start with a few warm-up questions.
 
 
 
-## Topic: [Current paper instructions]
-- For this last part of the session, I am going to share my screen with you and I want you to explain to me what the instructions mean. There is no right or wrong answer here, we just want to better understand your decision throught process here. 
-
--[Possible prompts]
-
-
-
 
 ## Post-Task Interview - 5 minutes
 
