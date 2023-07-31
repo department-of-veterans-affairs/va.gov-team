@@ -38,7 +38,7 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 ### Planning
 
 - Desired date range: 
-   - 08/23/2023
+   - 08/03/2023
 - How will you make the product available in production while limiting the number of users who can find/access it: 
    - N/A
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
@@ -66,7 +66,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 ## Go Live!
 
 ### Planning:
-- Desired date: 08/23/23
+- Desired date: 08/03/23
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
