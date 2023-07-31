@@ -1,4 +1,4 @@
-# How disabled Veterans provide accessibility feedback [DRAFT]
+# How disabled Veterans provide accessibility feedback
 `[DISCOVERY]` `[RESEARCH FINDINGS]`
 
 These findings were checked by the following participants:
