@@ -26,7 +26,7 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about the health care application process.
+Today we're going to talk about the health care benefits process.
 
 Before we start, a few things I want to mention:
 
@@ -49,7 +49,8 @@ Before we start, a few things I want to mention:
 
 Let’s start with a few warm-up questions.
 
-- How long have you been receiving medical care from the VA or when was your last appointment at a VA Facility for medical reasons? 
+- How long have you been receiving medical care from the VA? 
+- When was your last appointment at a VA Facility for medical reasons? 
 
 
 
@@ -57,8 +58,8 @@ Let’s start with a few warm-up questions.
 
 - Can you please tell me about your experience getting setup for that first appointment at a VA facility?
 - Can you describe your experience with any forms or sign up questions that you had to complete to be seen for care?
-   - [Not saying your "registration experience, but would they have filled out a paper EZ in person or did staff input?]
-- What was your impression to what benefits or level of care you would qualify for as you were doing this? 
+   - [Not saying your "registration experience, but would they have filled out a paper EZ in person or did staff input on their behalf?]
+- What was your impression to what benefits or level of care you would qualify for as you were going thorugh this process? 
 - How would you describe the process after you were seen for care? 
    - Did you recieve any communication from the VA or information if you were eligible to enroll in health care benefits? 
 
