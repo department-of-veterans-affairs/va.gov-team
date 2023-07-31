@@ -90,6 +90,7 @@ Let’s start with a few warm-up questions.
 - [Is there any confusion about their benefits within the health care benefits they recieve?]
 
 
+
 ## Third Topic: [Understanding how to use benefits] - 10 minutes
 - Explain to me in your own words what you get with your VA health care benefits?
 - What help or resources did you rely on to help you figure this all out?
@@ -105,11 +106,13 @@ Let’s start with a few warm-up questions.
 - What do you think Priority Groups are? There is no right or wrong answer here, just explain your understanding of what you think it could be and how that is important to health care benefits. 
 
 
-
 ### Things to watch for:
 - [How do Veterans describe their awareness of benefits? Confident, unsure, frustrated?]
 - [Do Veterans consistenly rely on word of mouth or a variety of in person resources to understand their health care benefits?]
-- [Do Veterans' confidently know their Priority Group and what that means to them and their benefits?]
+[Do Veterans' confidently know their Priority Group and what that means to them and their benefits?]
+[What is the current process and experience around Priority Groups?]
+[What are the knowledge gaps around Priority Groups and health care costs?]
+[What things would Veterans like to see or like to change in regards to Priority Groups?]
 
 
 
