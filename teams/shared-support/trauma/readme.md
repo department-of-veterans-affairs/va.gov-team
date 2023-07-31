@@ -71,6 +71,10 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 - martha.wilkes@va.gov, [LinkedIn](https://www.linkedin.com/in/marthawilkes/)
 - I'm here to learn from all of you experts who are dedicated to creating good experiences for our research participants and team members. I'm ready to support all of you in whatever way I can, please don't hesitate to reach out.
 
+**Julie Strothman**, OCTO Benefits Portfolio Designer / Researcher
+- julie.strothman@va.gov, she/her [Julie on LinkedIn](https://www.linkedin.com/in/jstrothman/)
+- I want to work with folks at VA OCTO to ensure participating in design research is safe and inclusive, and to ensure that people doing the work have the training and support they need.   
+
 <hr/>
 
 ### Facilitators 👐
@@ -84,6 +88,7 @@ Facilitated a big meeting or small group? You've helped serve as glue for our co
 - Cindy Merrill
 - Brittany Iannuzzi
 - Charlotte Cesana
+- Julie Strothman
 
 #### How do I serve as a facilitator?
 1. Volunteer at our next big meeting
@@ -100,6 +105,7 @@ Took notes for a big meeting or small group? You've helped share and grow our le
 - Liz Straghalis
 - Tyler Gindraux
 - Megan Graham
+- Julie Strothman
 
 #### How do I serve as a scribe?
 1. Volunteer at our next big meeting
