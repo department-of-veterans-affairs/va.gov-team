@@ -30,7 +30,7 @@ Today we're going to talk about the health care application process.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [half an hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about [an hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -54,16 +54,18 @@ Let’s start with a few warm-up questions.
 - How often do you visit a VA facility?
 - How often do you visit VA.gov?
 
-## First Topic: [Current Process] - 10 minutes
+## First Topic: [Current Application Process] - 10 minutes
 
 - Can you explain to me in your own words the process you took when you applied for benefits?
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
 - Anything that stood out to you?
 - Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
-- How was it made clear to you as you were applying, what benefits you would qualify for? 
-- How would you describe the process that happened after you applied, such as the communications from the VA, things you had to do, updating information, etc.?
 - Was it clear to you how your application answers impacted your benefits?
+- How was it made clear to you as you were applying, what benefits you would qualify for? 
+- How would you describe the process that happened after you completed your application, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
+- Now that you have been using your benefits, I would like you to think back and recall if there is anything that would have been helpful for you to know during your application process that you have learned after you enrolled?
+- How have you - if at all - been notified since you enrolled that you had to provide updated information?
 - When it comes to registering and health care at the VA, what does that mean to you?
 
 
@@ -74,9 +76,9 @@ Let’s start with a few warm-up questions.
 - [What things does a Veteran talk about in regards to the term registration? VA Facilities?]
 
 
-## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
+## Second Topic: [Choosing Benefits/Understanding Eligibility] - 10 minutes
 
-- How did you determine what health benefits you could get when you recently applied or were seen for care?
+- How did you determine what health benefits you could get when you recently completed the application?
 - What resources did you use and how to understand what you might qualify for?
 - Did you want to only get care for one specific health concern, or were you interested in enrolling in full health care coverage?
 - Looking back now after you have been using health care benefits, is there anything you wish you would have known during the application?
@@ -88,7 +90,31 @@ Let’s start with a few warm-up questions.
 - [Is there any confusion about their benefits within the health care benefits they recieve?]
 
 
-## Third Topic: [Ideal State] - 10 minutes
+## Third Topic: [Understanding how to use benefits] - 10 minutes
+- Explain to me in your own words what you get with your VA health care benefits?
+- What help or resources did you rely on to help you figure this all out?
+- Can you tell me more about what Priority Group you are in for your health care benefits now?
+
+[If aware of Priority Groups]
+- Can you please describe how this was communicated to you and how you understood the impact to you and your benefits?
+- Before you completed enrollment, how were you aware of Priority Groups or copays as part of the health care benefits package?
+- [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
+- Since you have been using your benefits, what have you learned about Priority Groups and the impact it has on you and health care benefits that you wish you knew during the application?
+
+[If NOT aware of Priority Groups, ask question and skip to fourth topic]
+- What do you think Priority Groups are? There is no right or wrong answer here, just explain your understanding of what you think it could be and how that is important to health care benefits. 
+
+
+
+### Things to watch for:
+- [How do Veterans describe their awareness of benefits? Confident, unsure, frustrated?]
+- [Do Veterans consistenly rely on word of mouth or a variety of in person resources to understand their health care benefits?]
+- [Do Veterans' confidently know their Priority Group and what that means to them and their benefits?]
+
+
+
+
+## Fourth Topic: [Ideal State] - 10 minutes
 - Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits. 
 - What tools, communication, people could make this the best process possible in your mind?
 - How would you like to discover what options you have to get the level of care that is right for you?
@@ -100,6 +126,10 @@ Let’s start with a few warm-up questions.
 - [What steps do they call out?]
 - [What steps do they leave out?]
 - [What do they mention or call out as information that is helpful in making decisions about health care benefit choices?]
+
+
+
+
 
 
 ## Post-Task Interview - 5 minutes
