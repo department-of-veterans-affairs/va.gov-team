@@ -3,6 +3,55 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
+## 8/9/2023 - 8/22/2023 
+#### SPRINT GOALS
+- **GOAL: Comply with ATO**
+    - **Sub Goal: Perform Audit & Remove Unused User Accounts**
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Submit Mileage-Only Claim during Check-in**
+- **GOAL: Increase usage of Pre-Check-in & Check-in**
+     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
+     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
+     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
+     - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Address tech & design debt**
+
+#### PLANNED RELEASES 
+- None
+
+#### SPRINT TICKETS
+- **GOAL: Comply with ATO**
+    - **Sub Goal: Perform Audit & Remove Unused User Accounts**
+       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[Perform a System Audit and Remove Unused User Accounts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62836)
+- **GOAL: Make submission of a travel reimbursement claim easier**
+   - **EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**     
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[FE] Change "Verify" to "Confirm"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62840)
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42937)
+           - Enable feature for.......
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create a sitewide intake ticket (resource page update) for adding travel pay information on the resource page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60079)       
+   - **EPIC: [Travel Reimbursement - Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
+       - TBD
+- **GOAL: Increase usage of Pre-Check-in & Check-in**
+    - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create a sitewide intake ticket (resource page update) to update the image of the check-in poster](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60080)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60740)
+    - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
+        - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Create a test harness](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61441)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Perform Integration Testing - CIE Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61438)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Perform Integration Testing - CIE & Mobile App Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61439)
+    - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
+        - **EPIC: [Unified Check-in: Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
+            - TBD
+        - **EPIC: [Unified Check-in Enhancements - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60971)**
+            - TBD
+    - **Sub Goal: Analyze current metrics to see what they tell us**
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62848)    
+- **GOAL: Address tech & design debt**
+    
+__________________________________________________________________________________________________________________________________________________________
+
 ## 7/26/2023 - 8/8/2023 
 #### SPRINT GOALS
 - **GOAL: Make submission of a travel reimbursement claim easier**
