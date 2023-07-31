@@ -492,9 +492,9 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-issue name ****(decision date)****
+### Disagreement with issue decision on decision date
 
-### Tell us what you disagree with. You can choose more than one.(\*Required)
+Tell us what you disagree with. You can choose more than one.(\*Required)
 
 I disagree with this:
 
@@ -718,7 +718,7 @@ Are you appealing a denial of VA health care benefits? **Yes**
 ##### Issue
 Decision date: **XX X, XXXX**
 
-##### Issue [Edit]
+##### Disagreement with issue decision on decision date [Edit]
 The service connection **Selected**
 
 Something else: **A few words**
