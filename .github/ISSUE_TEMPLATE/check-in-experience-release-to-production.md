@@ -17,7 +17,7 @@ assignees: ''
 - [ ] Publish updated Product Guides to Git, if necessary
 
 ## DESIGN TASKS
-- [ ]  Merge final wireframes (and/or poster) to Abstract main branch and collection, if necessary
+- [ ]  Merge final wireframes (and/or poster) in Sketch, if necessary
 - [ ]  Merge Sketch files (and/or poster) to VA Sketch cloud, if necessary
 - [ ]  Verify [production prototypes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product#production-wireframes-in-va-sketch-cloud) are updated
 - [ ] If poster is updated, create PDFs and update poster links in [Git](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/design/visual-collateral)
