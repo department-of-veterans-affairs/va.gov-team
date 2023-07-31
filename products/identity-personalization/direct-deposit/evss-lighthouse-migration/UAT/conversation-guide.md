@@ -4,14 +4,16 @@
 - Check participant information to see what types of login(s) credentials they may have (Login.gov, ID.me, DS Logon, MyHealtheVet).
 
 ## Introduction - 2 minutes
-Thanks for joining us today! My name is Pam. I am a designer who works on improving the VA.gov website so Veterans can get what they need as quickly and easily as possible. I also have some colleagues from my team on the line observing and taking notes.
+Thanks for joining us today! My name is Pam. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need as quickly and easily as possible. 
+
+I have some colleagues from my team in the waiting room. Which would you be comfortable with: having them join in the background to observe or keep the session between the two of us?
 
 What I hope to do today is get your help in testing some technical changes we’ve made to the website. The changes we have made aren’t something anyone can see on the screen, but with your help we will be able to check whether we’ve set everything up correctly.
 
 Before we start, I wanted to go over a few details:
 - **This session should take 30 minutes of your time or less.** It involves me asking you to complete a few small tasks. Because I want to make sure we don’t keep you beyond half an hour, I may prompt you with the next question to keep things moving.
 - **You will need your direct deposit information today.** I will ask you to re-enter your direct deposit information in order to make sure the system is doing what it’s supposed to, but we will not be making any changes to your account.
-- **We will be able to see your real information today.** This may include some healthcare information and some claims information. However, you have the choice to free to stop screensharing during any of the tasks, and start again when you feel comfortable. 
+- **We will be able to see your real information today.** This may include some healthcare information and some claims information. However, you have the choice to stop screensharing during any of the tasks, and start again when you feel comfortable. 
 - **You may end the session at any time, for any reason.** Just let me know.
 
 Do you have any questions for me before we begin?
@@ -29,7 +31,7 @@ _Once can see their screen:_ Could you now open a browser and go to VA.gov?
 _Once they arrive at VA.gov:_ Next, could you login using -------? (either Login.gov or ID.me)
 
 ## UAT Task #1: Review Direct Deposit with LOA3 account - 2 minutes
-_Direct user to Direct Deposit section of Profile_
+_Next, go to the Direct Deposit section of Profile_
 
 - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they should see a "Verify your identity" prompt. If they are not LOA3, end the session.
 - [ ] **UAT TASK:** Confirm that their direct deposit information is visible in the Profile (read-only view).
@@ -57,7 +59,7 @@ Okay, go ahead and click edit again, and this time I will have you enter some in
 
 As the last task for this part, I want you to click edit again, and this time I want you to enter your own information in all the fields. Again, if it makes you feel more comfortable, you can pause your screenshare. Once all your information is in the form, click save.
 
-_Once that step is complete_: That action should cause a confirmation email to get sent to your email address. Can you check and see if you've received an email?
+_Once that step is complete_: That action should cause a confirmation email to get sent to your email address. Can you check and see if you've received a conformation email? (_Nothing has been changed, the email just just confirming that your information has been resaved_)
 
 - [ ] **UAT TASK:** When user clicks edit and save, they receive a confirmation email.
 
