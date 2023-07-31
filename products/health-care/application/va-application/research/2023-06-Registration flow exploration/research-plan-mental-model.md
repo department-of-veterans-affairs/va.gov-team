@@ -134,13 +134,14 @@ August 23 - September 1, 2023
 
 ### Research sessions
 * Planned dates of research:
-* Cohort 1: August 23 - 28, 2023
-* Cohort 2: August 28 - September 1, 2023
+August 24 - September 1, 2023
+
 
 ### Length of sessions
 * Session length:  < 1 hour
 * Buffer time between sessions: 1 hour
 * Maximum Sessions per day: 3
+
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
@@ -154,7 +155,6 @@ TBD
 
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | ----------------------|
-| August 23, 2023 	| 4pm ET - 7pm ET 	|
 | August 24, 2023 	| 1pm ET - 7pm ET 	|
 | August 25, 2023 	| 1pm ET - 4pm ET 	|
 | August 28, 2023 	| 3pm ET - 7pm ET 	|
