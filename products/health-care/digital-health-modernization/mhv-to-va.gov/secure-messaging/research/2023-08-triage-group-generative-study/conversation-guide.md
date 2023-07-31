@@ -68,6 +68,7 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 - Could you please tell me the reasons you have sent secure messages in the past?
   - Why did you use secure messaging instead of calling?
 - What other activities do you do in My HealtheVet besides sending messages?
+- Do you use any VA mobile apps to send messages to your care providers? Can you describe your experience?
 
 ## **Task 1: Interview**
 
@@ -117,6 +118,12 @@ _[open second drop-down]_
 - Which of these would you choose?
 - What made you choose that one?
 - What could you do to ensure that you selected the correct one?
+
+**Category**
+
+When typing a message, which category do you choose?
+
+Have you ever had a hard time knowing which one to pick?
 
 **Learning SM**
 
