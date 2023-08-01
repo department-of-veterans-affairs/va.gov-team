@@ -156,7 +156,7 @@ _When participant clicks on the green button to apply, repeat the scenario:_
     - Is there anything that would be helpful to see at this point once you've submitted
     - _Have them click After You Apply link_
 - **After you apply**
-    -_Have them briefly look at page to get their thoughts_
+    - _Have them briefly look at page to get their thoughts_
 
 ## Task 2: Applying for Self - Applicant is a non-Veteran - 15 minutes
 
@@ -247,7 +247,7 @@ _When participant clicks on the green button to apply, repeat the scenario:_
     - Is there anything that would be helpful to see at this point once you've submitted
     - _Have them click After You Apply link_
 - **After you apply**
-    -_Have them briefly look at page to get their thoughts_
+    - _Have them briefly look at page to get their thoughts_
 
 ## Task 3: Applying for Someone Else - Applicant is a Veteran - 20 minutes
 
@@ -336,7 +336,7 @@ _When participant clicks on the green button to apply, repeat the scenario:_
     - Is there anything that would be helpful to see at this point once you've submitted
     - _Have them click After You Apply link_
 - **After you apply**
-    -_Have them briefly look at page to get their thoughts_
+    - _Have them briefly look at page to get their thoughts_
 
 ## Task 4: Applying for Someone Else - Applicant is a non-Veteran - 20 minutes
 
@@ -427,7 +427,7 @@ _When participant clicks on the green button to apply, repeat the scenario:_
     - Is there anything that would be helpful to see at this point once you've submitted
     - _Have them click After You Apply link_
 - **After you apply**
-    -_Have them briefly look at page to get their thoughts_ 
+    - _Have them briefly look at page to get their thoughts_ 
 
 ## Post-Task Interview - 5-10 minutes
 Wonderful! Thank you so much for walking through that with us and telling us your thoughts. We just have a few questions to ask before we wrap up our session for today. 
@@ -453,5 +453,4 @@ Wonderful! Thank you so much for walking through that with us and telling us you
 ## Emergency Exit
 
 > [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
 
