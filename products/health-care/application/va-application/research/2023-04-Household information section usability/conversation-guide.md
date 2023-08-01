@@ -259,9 +259,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task: [Step 6: Confirmation] - 3 minutes
 
-- What are your thoughts on this page after you submitted your application?
-- Is this what you would expect or if not, what are your expectations of what you would see here or what would happen next?
-
+- What are your thoughts on this page now that you have submitted your application?
+- What are your expectations of what is on this page and what would happen next?
+- Would you do anything on this page or pause before moving on?
+    
 
 ### Things to watch for:
 
