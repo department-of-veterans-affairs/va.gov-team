@@ -124,9 +124,9 @@ There was no single personalization method used on the home screen by all apps (
    <td>
 
 
-<img src="images/name-status-miles.png" width="" alt="user name, status, miles" title="user name, status, miles">
-<img src="images/walgreens-rewards.png" width="" alt="Walgreens total cash rewards" title="Walgreens total cash rewards">
-<img src="images/usaa-account.png" width="" alt="USAA account overview" title="USAA account overview">
+<img src="images/name-status-miles.png" width="200" alt="user name, status, miles" title="user name, status, miles">
+<img src="images/walgreens-rewards.png" width="200" alt="Walgreens total cash rewards" title="Walgreens total cash rewards">
+<img src="images/usaa-account.png" width="200" alt="USAA account overview" title="USAA account overview">
 
    </td>
   </tr>
