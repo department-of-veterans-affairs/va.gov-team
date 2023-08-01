@@ -18,6 +18,9 @@
 **Derrick**: are you ready to turn the feature on to 1% of users?
 - Answer: 
 
+**Samara & AJ**: is the PSIR Review complete?
+- Answer: Yes, approved 8/1 ([#1061](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1061))
+
 **Samara & AJ**: is the Google Analytics/Domo updated to track this product data and are they working as expected?
 - Answer: 
 
