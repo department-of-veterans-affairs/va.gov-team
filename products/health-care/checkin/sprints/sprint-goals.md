@@ -25,10 +25,7 @@ ________________________________________________________________________________
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[Perform a System Audit and Remove Unused User Accounts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62836)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**     
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[FE] Change "Verify" to "Confirm"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62840)
-       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png)  [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42937)
-           - Enable feature for.......
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create a sitewide intake ticket (resource page update) for adding travel pay information on the resource page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60079)       
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[FE] Change "Verify" to "Confirm"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62840)  
    - **EPIC: [Travel Reimbursement - Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
        - TBD
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
@@ -49,6 +46,8 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62848)    
 - **GOAL: Address tech & design debt**
+    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62927)
+
 ----------------------- END FUTURE / TENTATIVE ---------------------------------    
 __________________________________________________________________________________________________________________________________________________________
 
