@@ -1,6 +1,6 @@
 # Project outline: Notifications Settings - Default Send Functionality
 
-**Last Updated: April 25, 2023**
+**Last Updated: August 1, 2023**
 
 ### Communications
 
@@ -93,7 +93,16 @@ OKRs and KPIs TBD.
 - Update notification preferences so that feature flag can filter by channel (email/text)
 - Update notificatio preferences so that it filters out the new QuickSubmit group
 - Build editing page for Va.gov profile (part 2)
-- Build the new page for hte mobile number
+- Build the new page for the mobile number
+
+## Key Deliverables
+|Deliverable|Date completed|
+|-----------|--------------|
+|[Project epic]()| TBD |
+|[QA Testing]()| |
+| [UAT Go/no-go]() | |
+|UAT results|TBD|
+|[Release plan]()|TBD|
 
 ## Key Dates
 Q2 goals:
@@ -102,9 +111,6 @@ Q2 goals:
 
 Q3 goals:
 - Launch frontend UI updates to move from radio button to checkbox design
-
-Q4 goals:
-- TBD (when Samara returns from maternity leave)
 
 ## Backend
 
