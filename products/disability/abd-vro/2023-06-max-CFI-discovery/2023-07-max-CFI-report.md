@@ -111,4 +111,18 @@ Note: while it’s exceedingly rare for veterans to get a rating higher than the
 ### Prototype screenshots 
 (added text highlighted in yellow)
 
+**Scenario Yellow**
 
+![Screenshot of primary screen in Scenario Yellow, showing mild language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Yellow-screenshot.png)
+
+**Scenario Orange**
+
+![Screenshot of primary screen in Scenario Orange, showing strong language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Orange-screenshot.png)
+
+**Scenario Blue**
+
+![Screenshot of primary screen in Scenario Blue, showing an expanded Additional Info component above the rated disabilities list and mild language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Blue-screenshot.png)
+
+**Scenario Purple**
+
+![Screenshot of primary screen in Scenario Purple, showing an expanded Additional Info component below the rated disabilities list and strong language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Purple-screenshot.png)
