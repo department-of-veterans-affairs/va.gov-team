@@ -52,8 +52,12 @@ We have 4 toggles this release plan is focused on. Our main deployment will be c
 
 As we prepare to deploy these changes, there are other groups (VA Notify/VA Profile) that aren't fully prepared for the entire body of work to be deployed. AE Profile is going to deploy the improvements we can in order to pave the way for changes pending from those other teams. Namely, we'll be able to support email-as-a-channel before we have notifications available that utilize email. 
 
-Our goals for this initial deployment is to leverage the new checkbox UI, utilize the default send information supplied by VA Profile, deploy our editing-as-a-subtask feature. The toggles in question 
+Our goals for this initial deployment:
+- leverage the new checkbox UI
+- Utilize the default send information supplied by VA Profile/VA Notify
+- Deploy our editing-as-a-subtask feature
 
+The toggles used for this:
 <details><summary> Toggle Details </summary>
 <p>
 
