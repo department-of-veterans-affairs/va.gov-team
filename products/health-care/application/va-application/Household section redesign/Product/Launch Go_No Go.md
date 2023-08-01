@@ -1,5 +1,5 @@
 # Household section optimization - Launch Go/No Go
-## 7/31/2023
+## 8/1/2023
 ## Decision: We are a GO!
 
 ---
