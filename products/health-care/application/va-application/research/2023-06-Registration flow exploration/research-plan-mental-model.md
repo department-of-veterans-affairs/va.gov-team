@@ -124,7 +124,7 @@ Cohort 2:
 
 ## Timeline
 
-August 23 - September 1, 2023
+August 24 - September 1, 2023
 
 
 
