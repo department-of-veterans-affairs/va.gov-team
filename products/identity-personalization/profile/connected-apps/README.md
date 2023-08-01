@@ -1,6 +1,6 @@
 # Connected Apps Product Outline
 
-**Last updated: July 27, 2023**
+**Last updated: August 1, 2023**
      
 ## Table of Contents
 
@@ -34,9 +34,8 @@ As a user I need to:
 
 ## Projects
 
-|Project or enhancement|Launch/Completion date|
-|----|----|
-|[Combine profile and account](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#readme)| September 2020|
+[For a list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
+
 
 ## Analytics
 - [GA dashboard for connected apps](https://analytics.google.com/analytics/web/#/dashboard/-7uuXRP8QJOLgqwi7s5OOg/a50123418w177519031p176188361/)
