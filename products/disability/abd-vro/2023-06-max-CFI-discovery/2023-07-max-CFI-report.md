@@ -21,7 +21,7 @@ The VA receives many claims for increase (CFIs) for conditions where a Veteran i
 
 Our first effort will target Tinnitus CFIs. With nearly 25,000 claims filed in FY2022, Tinnitus represents the largest category of CFIs where the Veteran is already at the maximum disability rating. Tinnitus is also a good test case because it is virtually never (0.0001% of the time) granted over 10%.
 
-This work supports OCTO Priority 7: Fast-track disability claims, starting with PACT Act claims, and it fits into the Veteran Journey in the Living Civilian Life phase. It’s related to the Moment That Matters called “Managing primary care and chronic health issues.” 
+This work supports [OCTO Priority 7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md): Fast-track disability claims, starting with PACT Act claims, and it fits into the [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) in the Living Civilian Life phase. It’s related to the Moment That Matters called “Managing primary care and chronic health issues.” 
 
 Benefits to Veterans: 
 Avoid unnecessary administrative burden for claims that would only get denied
@@ -52,10 +52,10 @@ We tested 18 scenarios in all. The intervention was successful in 8 of these and
 **Number of veterans who would or would not file by prototype tested.**
 | Prototype      | Would not file | Would file |
 | ----------- | ----------- | ----------- |
-| Mild language, two sentences in tinnitus box ([Yellow]())    | 1 out of 3 | 2 out of 3 |
-| Strong language, one sentence in tinnitus box ([Orange]())     | 3 out of 6 | 3 out of 6 |
-| Mild language, one sentence in tinnitus box, </br> and Additional Info component at top ([Blue]())    | 1 out of 5 | 4 out of 5|
-| Mild language, one sentence in tinnitus box. Includes  </br>Additional info component at bottom with stronger language. ([Purple]())    | 3 out of 4 | 1 out of 4 |
+| Mild language, two sentences in tinnitus box ([Yellow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/bca1fdcc5b9e80dd52127b7b5cf869be623e7b50/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Yellow-screenshot.png))    | 1 out of 3 | 2 out of 3 |
+| Strong language, one sentence in tinnitus box ([Orange](https://github.com/department-of-veterans-affairs/va.gov-team/blob/bca1fdcc5b9e80dd52127b7b5cf869be623e7b50/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Orange-screenshot.png))     | 3 out of 6 | 3 out of 6 |
+| Mild language, one sentence in tinnitus box, </br> and Additional Info component at top ([Blue](https://github.com/department-of-veterans-affairs/va.gov-team/blob/bca1fdcc5b9e80dd52127b7b5cf869be623e7b50/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Blue-screenshot.png))    | 1 out of 5 | 4 out of 5|
+| Mild language, one sentence in tinnitus box. Includes  </br>Additional info component at bottom with stronger language. ([Purple](https://github.com/department-of-veterans-affairs/va.gov-team/blob/bca1fdcc5b9e80dd52127b7b5cf869be623e7b50/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Purple-screenshot.png))    | 3 out of 4 | 1 out of 4 |
 
 **Reasons for filing an increase:**
 * At this point in the process, might as well file
