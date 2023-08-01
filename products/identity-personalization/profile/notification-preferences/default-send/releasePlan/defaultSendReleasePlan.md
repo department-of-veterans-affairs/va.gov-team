@@ -85,7 +85,10 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ## Go Live
 [Rollout Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
 
+
 ## Enabling Email as a Channel Notifications
+
+As VA Notify and VA Profile work through the notifications that will use email as a channel, we'll enable each of those notifications. A separate release plan will likely be needed and those would be controlled by the below toggles.  
 
 <details><summary>Toggle Details</summary>
 <p>
