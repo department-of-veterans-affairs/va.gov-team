@@ -46,9 +46,8 @@ We have 4 toggles this release plan is focused on. Our main deployment will be c
 |[Editing as a subtask epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49319)||
 |Analytics Dashboard||
 |QA Testing||
-|UAT Testing| |
-|[UAT go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62915)||
-|[Go Live go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62928)||
+
+
 
 ## Migrating from Radio Button to Checkbox Component and Consuming Default Send
 
@@ -75,6 +74,24 @@ The toggles used for this:
 
 ## Phase I - UAT 
 
+### Planning
+|Planning Item/Question|Response|
+|---|---|
+|[UAT Go/No-go Convo/Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62915)||
+|Desired Date Range or Test Duration|1 week|
+|Desired Number of Users|TBD|
+|How you'll recruit the right production test users|We will recruit users via Perigean|
+|How you'll conduct the testing|We will conduct UAT over Zoom to ensure the different features work correctly|
+|How you'll give the test users access to the product in production w/o making it live on VA.gov|The feature will be behind a feature flag|
+|Link to Research plan for UAT|[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b440b37ccc0450785856cdd8bd2d10e3f3aae727/products/identity-personalization/profile/notification-preferences/default-send/UAT/UATdefaultSendResearchPlan.md) <br>[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b440b37ccc0450785856cdd8bd2d10e3f3aae727/products/identity-personalization/profile/notification-preferences/default-send/UAT/UATdefaultSendConversationGuide.md)|
+
+### Results 
+|UAT Results|Details|
+|---|---|
+|Number of Users||
+|Number of Bugs Identified/Fixed||
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
+
 
 
 ## Phase II - Staged Rollout 
@@ -85,6 +102,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ## Go Live
 [Rollout Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
 
+|[Go Live go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62928)||
 
 ## Enabling Email as a Channel Notifications
 
