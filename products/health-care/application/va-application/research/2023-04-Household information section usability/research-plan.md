@@ -111,7 +111,7 @@ Remote, moderated via Zoom.
 
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-04-Household%20information%20section%20usability/conversation-guide.md)
-- [Link to staging (once development / staging review complete)](url goes here)
+- [Link to staging (once development / staging review complete)](https://staging.va.gov/health-care/apply/application/introduction)
 - [Link to recruitment ticket](url here)
 	
 ## Recruitment	
@@ -122,7 +122,7 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-Veterans: completed 6; requested 9
+**Veterans: Completed 6; requested 9**
 
 
 **Primary criteria (must-haves)**
@@ -132,8 +132,8 @@ What demographics, experience, and scenarios do you need participants to meet to
 - All must currently or in the past claimed dependents (on their tax returns)
 
 
-- At least **3 out of the 6 completed sessions** are with a screen reader
-- At least **3 out of the 9** are mobile users
+- At least 2 using a screen reader during the session
+- At least 2 are using a mobile device during the session
 - Diverse mix of age ranges
 - No more than 1 participant with a Bachelor's degree or higher
 - At least 2 participants who are Black
@@ -153,7 +153,7 @@ For recruiting 3 screen reader users
 - (a) Do you need to use assistive technology to use the internet such as VoiceOver on an Apple device, TalkBack on an Android device, or JAWS on a computer? (Proceed to question b if yes, if no, disqualify)
 - (b) Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
 
-For recuriting 4 mobile users
+For recuriting 3 mobile users
 - Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 4 mobile users)
 
 
@@ -171,6 +171,7 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
 * Date and time of pilot session: 
+
 
 ### Research sessions
 * Planned dates of research: **August 21 - August 25, 2023**
@@ -191,9 +192,9 @@ Please request enough dates and at ***least double the amount of time slots for 
 | --------------------- | --------------------- |
 | August 21, 2023  	|  11am - 5pm ET 	|
 | August 22, 2023  	|  11am - 5pm ET 	|
-| August 23, 2023  	|  11am - 5pm ET 	|
-| August 24, 2023  	|  11am - 5pm ET 	|
-| August 25, 2023  	|  11am - 4pm ET 	|
+| August 23, 2023  	|  11am - 4pm ET 	|
+| August 24, 2023  	|  10am - 4pm ET 	|
+| August 25, 2023  	|  10am - 4pm ET 	|
 
 
 
@@ -204,15 +205,18 @@ Please request enough dates and at ***least double the amount of time slots for 
 
  
 ## Team Roles	
-- Moderator: Jessica Stump (jessica.stump@adhocteam.us) and David Kennedy (david.kennedy@adhocteam.us)
+- Moderator: David Kennedy (david.kennedy@adhocteam.us) and 
 - Research guide writing and task development: Moderators	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Moderators
 - Participant(s) for pilot test: 
 - Note-takers: Perigean, 1010 Team
-- Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us),  
+- Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us),  Jessica Stump (jessica.stump@adhocteam.us)
 
 > **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
 
 
+
+## Approvals 
+- 
 
