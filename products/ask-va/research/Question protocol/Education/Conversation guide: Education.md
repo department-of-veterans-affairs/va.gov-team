@@ -92,6 +92,12 @@ We’ve reviewed the current names and made suggestions for how to update these 
 
 > Go through list of names.
 
+## Review Education team’s topic updates - 5 minutes
+
+We also wanted to review the updated topics that Lisa forwarded to Ruchi last week.
+
+> Go through list of updated topics.
+
 ## How you answer an inquiry - 10 minutes
 
 I'll stop sharing my screen now.
@@ -106,14 +112,6 @@ We're going to switch gears a little now. I'd like to ask a few questions about 
 * What makes it difficult?
 * How long does it usually take you to reply to an inquiry?
     * Are you comfortable with us stating that it takes up to 7 business days to reply to an inquiry? 
-
-## Show first design iteration - 5 mins
-
-Thanks for answering all of our questions.
-
-Before we wrap up, **[THOMAS]**, is going to show you a preview of the designs we've been working on. Just a reminder that this is the first version of these, so it's very likely that they'll change. But we wanted to give you an idea of what to expect.
-
-> Share screen with Sketch prototype.
 
 ## Wrap up - 5 minutes
 
