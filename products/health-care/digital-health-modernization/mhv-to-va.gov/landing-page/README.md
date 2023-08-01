@@ -95,6 +95,7 @@ On April 26, 2023, the rollout moved to Phase 2, and access was expanded to 10% 
 - UX Design: Florence McCafferty (Agile Six)
 - Research: Cara Frissell (Ad Hoc)
 - Technical Architect: Carlos Felix (Agile Six)
+- Information Architect: Sara Sterkenburg (Ad Hoc)
 - Engineer: Eric Voshall (Ad Hoc)
    
 ## Screenshots
