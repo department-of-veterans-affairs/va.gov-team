@@ -46,11 +46,15 @@ We have 4 toggles this release plan is focused on. Our main deployment will be c
 |QA Testing||
 |UAT Testing| |
 |[UAT go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62915)||
-|Go Live go/no-go conversation||
+|[Go Live go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62928)||
 
 ## Migrating from Radio Button to Checkbox Component and Consuming Default Send
 
-<details><summary>Toggle Details</summary>
+As we prepare to deploy these changes, there are other groups (VA Notify/VA Profile) that aren't fully prepared for the entire body of work to be deployed. AE Profile is going to deploy the improvements we can in order to pave the way for changes pending from those other teams. Namely, we'll be able to support email-as-a-channel before we have notifications available that utilize email. 
+
+Our goals for this initial deployment is to leverage the new checkbox UI, utilize the default send information supplied by VA Profile, deploy our editing-as-a-subtask feature. The toggles in question 
+
+<details><summary>**Toggle Details**</summary>
 <p>
 
 - `profile_use_notification_settings_checkboxes`
@@ -76,8 +80,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 [Rollout Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
 
 ## Enabling Email as a Channel Notifications
-
-
 
 <details><summary>Toggle Details</summary>
 <p>
