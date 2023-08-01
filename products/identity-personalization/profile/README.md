@@ -1,6 +1,6 @@
 # Section Outline: The VA.gov Profile
 
-**Last Updated: July 28, 2023**
+**Last Updated: August 1, 2023**
 
 ## Table of Contents
 
