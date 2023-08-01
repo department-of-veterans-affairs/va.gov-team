@@ -73,7 +73,7 @@ We have 4 toggles this release plan is focused on. Our main deployment will be c
 PM and PO will monitor analytics. If the team notices a spike in errors, they will contact the engineering team to get the FE engineer to disable the toggles previously mentioned. 
 
 ## Go Live
-
+[Rollout Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
 
 ## Enabling Email as a Channel Notifications
 
