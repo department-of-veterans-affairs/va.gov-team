@@ -87,7 +87,7 @@ The toggles used for this:
 
 
 ### Results 
-|UAT Results|Details|
+|UAT|Result|
 |---|---|
 |Number of Users||
 |Number of Bugs Identified/Fixed||
