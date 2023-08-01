@@ -1,6 +1,6 @@
 # My VA Claims and Appeals Use Case: User has an open claim or appeal
 
-**Last updated:** April 13, 2023
+**Last updated:** August 1, 2023
 
 For LOA3 users who sign in and have an open claim or appeal, we will show a card for their most recently updated claim or appeal with the current status in the Claims and Appeals section on My VA.
 
@@ -8,9 +8,9 @@ For LOA3 users who sign in and have an open claim or appeal, we will show a card
 
 - Any logged in LOA3 user can see the Claims and Appeals section on My VA.
 - If a logged in LOA3 user has an open claim or appeal, they will see a card in this section that tells them the type of claim or appeal, the date the application was received, a current status update, and a link to "Review details" which links to the details page for that specific claim in the claims tool. The claim details link is specific to the claim card. It is in the following format and the ###### is the claim number: https://va.gov/track-claims/your-claims/########/status.
-- When a user has a claims or appeals card to show, they will also see a link to "Manage all claims and appeals" which links to the [claims tool](https://www.va.gov/claim-or-appeal-status/) where they can view a list of all current and past claims.
 - This card is always displayed on the lefthand side of the page on desktop and at the top of the list directly under the Claims and appeals header on mobile.
 - Uses the [card component](https://design.va.gov/components/card) from the VA design system.
+- They will also see links to “Learn how to file a claim” which links to [a page about how to file a disability claim](https://www.va.gov/disability/how-to-file-claim/), as well as "Manage all claims and appeals" which links to the [claims tool](https://www.va.gov/claim-or-appeal-status/) where they can view a list of all past claims.
 - [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
 - [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
 
