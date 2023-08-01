@@ -21,15 +21,34 @@ This brief will help your team create content for your product that aligns with 
 | **appointment** | Use "appointment" consistently (don't interchange with "visit" or other words) | VA content standards (not yet in style guide) | 7.20.22  |
 | **check-in or check in** | This is the step that the person takes when they arrive. Use "check-in" (with hyphen) as a noun or adjective and "check in" (no hyphen) as a verb. Example: Complete the check-in process. vs. You can check in with your smartphone. | VA content standards (not yet in style guide) and AP style | 7.20.22  |
 | **clinic** | Clinics at VA have two meanings. One is the physical location where an appointment may be held. The other refers to the scheduling grid VA uses. A single provider can have many "clinics" - even if all of them take place in the same physical location. A provider may have a different clinic grid for each day of the week, for the format of care (phone, in person, telehealth), or even for returning vs. new patients, which may impact the length of the appointment. As part of the self-scheduling process, Veterans may see multiple "clinics" listed, and need to know which is THEIR clinic, so they can self-schedule. This is a known pain point in VistA scheduling, which will be alleviated somewhat once sites move to Cerner. | VAOS product standard | 7.20.22 |
+| **canceled appointment** | An appointment that has been canceled by patient or scheduling staff. |  | 8.1.23 |
+| **canceled request** | A request that has been canceled by patient or scheduling staff. |  | 8.1.23 |
+| **community care location** | A location in the VA Community Care Network (CCN) that is not run and managed by the VA. See also location, VA location. |  | 8.1.23 |
+| **confirmed (or booked) appointment** |  |  |  |
 | **health care** | Always 2 words, no hyphen | VA content style guide standard | 7.20.22 |
 | **health care provider** or **provider** | A Veteran's provider may be a doctor, nurse practitioner, physician's assistant, or other type of provider. Use "health care provider" on first mention and "provider" or "your provider" on subsequent mentions on a page/in a flow. Don't use "doctor" unless you're 100% sure that the person will specifically be a doctor. | VA content style guide standard | 7.20.22 |
 | **health care facility** | Use this phrasing consistently for health care facilities (don't interchange with "VA location" or other words). You can shorten to "the facility" or "your facility" after first mention, unless there's a risk of confusion between VA and non-VA (i.e. community care) facilities. | 7.20.22 |
 | **in-person or in person** | Use "in-person" (with hyphen) as a modifier and "in person" (no hyphen) in all other cases, including in a standalone label. Example: "You have an in-person appointment" vs. "You'll need to come to VA in person." | AP style  | 7.20.22 |
+| **location** | Where an appointment takes place. See also clinic, health care facility, ATLAS location. |  | 8.1.23 |
+| **location category** | Whether an appointment is through the VA or community care. See also VA location, community care location. |  | 8.1.23 |
+| method of attendance (or modality) | How a patient attends an appointment, such as in person, by phone, or by video. |  | 8.1.23 |
+| **patient** | The person who wants to receive care. |  | 8.1.23 |
+| **pending appointment** | A pending appointment represents a need for appointment that hasn’t been fulfilled yet. This could be a Veteran request for appointment, a referral, or a return to clinic order. |  | 8.1.23 |
+| **phone appointment** | A method of attendance via Telehealth, where a patient attends the appointment by phone.  |  | 8.1.23 |
 | **pre-check-in** | This is the step the person takes ahead of their appointment | VA content standards (not yet in style guide) | 7.20.22 |
+| **request for appointment** | A Veteran-initiated request for an appointment. A Veteran may initiate a request through through an online portal, over the phone, or at a facility. Staff review these and schedule appointments. Also called an appointment request. |  | 8.1.23 |
 | **request vs. schedule** | Veterans can self-schedule **some** types of appointments online. They can request other types of appointments. The option to self-schedule or request is not uniform across all types of care and VAMCs because it is controlled locally. | VAOS product |  7.20.22 |
 | **sign in/sign out** | Use "sign in" and "sign out" consistently. Don't use "log in" at all. | VA.gov content style guide |  7.20.22 |
 | **smartphone** | Veterans must have a smartphone (a mobile phone with internet access) to check in for appointments with their phone. Always use "smartphone" for this use case, not "mobile phone." | Check in content standard |  7.20.22 |
+| **Telehealth appointment** | Methods of attendance that are not in person, such as by phone or by video. |  | 8.1.23 |
 | **type of care** | Type of care refers to the specialty, i.e. primary care, mental health. | VAOS content standard  | 7.20.22 |
+| **VA location** | A location run and managed by the VA. See also, location, community care location. |  | 8.1.23 |
+| **VA Video Connect** | An application used by patients to attend video appointments with their provider. |  | 8.1.23 |
+| **video appointment** | A method of attendance via Telehealth, where a patient attends the appointment via VA Video Connect. Types of appointments that may be attended by video are Video at home, Video at VA, Video at an ATLAS location, Video with a VA device. |  | 8.1.23 |
+| **Video at an ATLAS location** | A method of attendance where a patient attends an appointment by opening a link to VA Video Connect. The patient uses a device at an ATLAS (Accessing Telehealth through Local Area Stations) facility to open VA Video Connect. |  | 8.1.23 |
+| **Video at home** | A method of attendance where a patient attends an appointment by opening a link to VA Video Connect. The patient uses the device of their choice from any location. |  | 8.1.23 |
+| **Video at VA** | A method of attendance where a patient attends an appointment by opening a link to VA Video Connect. The patient uses a device at a VA Facility to open VA Video Connect. |  | 8.1.23 |
+| **Video with a VA device** | A method of attendance where a patient attends an appointment by opening a link to VA Video Connect.  The patient uses a device provided by VA, sometimes referred to as a GFE (Government-Furnished Equipment) device, to open VA Video Connect |  | 8.1.23 |
 
 
 **Note:** Terms may evolve with usability testing.
