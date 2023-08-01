@@ -125,18 +125,8 @@ There was no single personalization method used on the home screen by all apps (
 
 
 <img src="images/name-status-miles.png" width="" alt="user name, status, miles" title="user name, status, miles">
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/walgreens-rewards.png" width="" alt="Walgreens total cash rewards" title="Walgreens total cash rewards">
+<img src="images/usaa-account.png" width="" alt="USAA account overview" title="USAA account overview">
 
    </td>
   </tr>
