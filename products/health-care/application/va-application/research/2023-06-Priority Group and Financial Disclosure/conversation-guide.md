@@ -200,6 +200,8 @@ Let’s start with a couple warm-up questions.
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
+As was mentioned in the beginning but I want to confirm now that we have completed, are you stil comfortable if we decided to use a clip of our session with you (deleting any identifying info) to help our partners understand Veteran's experiences?
+
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
