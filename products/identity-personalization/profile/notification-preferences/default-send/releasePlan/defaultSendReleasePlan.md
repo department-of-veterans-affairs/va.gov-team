@@ -65,7 +65,12 @@ We have 4 toggles this release plan is focused on. Our main deployment will be c
 
 ## Phase I - UAT 
 
+
+
 ## Phase II - Staged Rollout 
+
+### Rollback Plan:
+PM and PO will monitor analytics. If the team notices a spike in errors, they will contact the engineering team to get the FE engineer to disable the toggles previously mentioned. 
 
 ## Go Live
 
