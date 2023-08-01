@@ -49,7 +49,7 @@ Before we start, a few things I want to mention:
 
 Let’s start with a few warm-up questions.
 
-- When was your last appointment at a VA Facility where you were seen for medical reasons? 
+- When was your last appointment at a VA Facility when you were seen for medical reasons? 
 
 
 
@@ -103,18 +103,21 @@ Let’s start with a few warm-up questions.
 ## Fourth Topic: [Current paper instructions] - 10 minutes
 - For this next topic, I am going to share my screen and show you an example of instructions that appear on the health care benefits application.
 - Can you explain to me in your own words, what these options mean?
-- Which one would you select and can you tell me why?
-- Is there anything about these instructions you find confusing
+- Which one would you select and can you explain to  me your thinking behind that?
+- Is there anything about these instructions that you find confusing?
+- Is there anything you would like more details or explaination on?
 
 - [Link to Mural board for example](url)
 
-### Things to watch for:
 
+### Things to watch for:
+- [What are the scenarios or examples given to why registration would be the preferred choice?]
+- [Is selecting both options a common answer?]
+- [What words and terms to participants use whent they are explaining the differences?]
 
 
 
 ## Post-Task Interview - 5 minutes
-
 
 - Is there anything else you would like to add about what we talked about today?
 - Any questions for me? 
