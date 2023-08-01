@@ -235,18 +235,19 @@ Notifications were present in half of the apps, but overwhelmingly they were not
 
 <table>
   <tr>
-   <td>Notifications center in main navigation:
+   <td>Notifications center in main navigation
    </td>
    <td>
-<img src="images/image20.png" width="250" alt="alt_text" title="image_tooltip">
+<img src="images/tabbar-notifications.png" width="250" alt="tab bar with notifications" title="tab bar with notifications">
+      <img src="images/topbar-inbox.png" width="250" alt="top bar with inbox" title="top bar with inbox">
    </td>
 </tr>
    
 <tr>
-   <td>Notifications/alerts area on home center
+   <td>Notifications/alerts area on home 
    </td>
    <td>
-   <img src="images/image20.png" width="250" alt="alt_text" title="image_tooltip">
+   <img src="images/home-alert.png" width="250" alt="alert on home" title="alert on home">
    </td>
  </tr>
   
@@ -254,7 +255,8 @@ Notifications were present in half of the apps, but overwhelmingly they were not
    <td>Notification style homescreen UI
    </td>
    <td>
-<img src="images/image20.png" width="250" alt="alt_text" title="image_tooltip">
+<img src="images/feed.png" width="250" alt="feed homescreen UI" title="feed homescreen UI">
+      <img src="feed-completed.png" width="250" alt="alt_text" title="completed feed item">
    </td>
   </tr>
   
@@ -416,7 +418,8 @@ The apps we reviewed used three high-level patterns to display personalized and 
    </td>
    <td>
 
-<img src="images/image18.png" width="250" alt="alt_text" title="image_tooltip">
+<img src="images/feed.png" width="250" alt="feed homescreen UI" title="feed homescreen UI">
+      <img src="feed-completed.png" width="250" alt="alt_text" title="completed feed item">
 
    </td>
   </tr>
