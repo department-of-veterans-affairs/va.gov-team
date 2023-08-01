@@ -25,7 +25,10 @@ ________________________________________________________________________________
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[Perform a System Audit and Remove Unused User Accounts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62836)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**     
-       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change "Verify" to "Confirm"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62840)  
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change "Verify" to "Confirm"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62840)
+   - **EPIC: [Add Cell Phone to LoROTA Entry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)**
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Update CHIP to also store the cell phone in LoROTA (field TBD)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62437)
+       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update Vets-API to use the newly stored cell phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create a sitewide intake ticket (resource page update) to update the image of the check-in poster](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60080)
