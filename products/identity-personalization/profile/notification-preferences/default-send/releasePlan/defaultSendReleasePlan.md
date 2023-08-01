@@ -45,7 +45,7 @@ We have 4 toggles this release plan is focused on. Our main deployment will be c
 |Analytics Dashboard||
 |QA Testing||
 |UAT Testing| |
-|UAT go/no-go conversation||
+|[UAT go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62915)||
 |Go Live go/no-go conversation||
 
 ## Migrating from Radio Button to Checkbox Component and Consuming Default Send
