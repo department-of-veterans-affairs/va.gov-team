@@ -80,13 +80,12 @@ Send direct link for FSR which will go to Wizard
 
   
 
-Link
+Desktop Prototype Link: [https://preview.uxpin.com/6940f648e5994b8fad9550934a5530b4cd73cacb#/pages/163500315/simulate/no-panels?mode=cvhidf](https://preview.uxpin.com/6940f648e5994b8fad9550934a5530b4cd73cacb#/pages/163500315/simulate/no-panels?mode=cvhidf)
 
-  
+Mobile Prototype Link: [https://preview.uxpin.com/bee98dfe15974e66ea5958c976cb43a2c08ecabc#/pages/163781737/simulate/no-panels?mode=if](https://preview.uxpin.com/bee98dfe15974e66ea5958c976cb43a2c08ecabc#/pages/163781737/simulate/no-panels?mode=if)
+
 
 [[Mobile sessions screen share directions]](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
-
-  
 
 [Sharing screen instructions as needed]
 
