@@ -54,8 +54,8 @@ Our goal is to **understand which fields are necessary in order for agents to de
 * Intros: 5 minutes
 * Review form fields: 15 minutes
 * Review proposed names of category/topics: 20 minutes
+* Review Education team’s topic updates: 5 min
 * How you answer an inquiry: 10 minutes
-* Show first design iteration: 5 mins
 * Wrap up: 5 minutes
 
 ## Intros - 5 minutes
