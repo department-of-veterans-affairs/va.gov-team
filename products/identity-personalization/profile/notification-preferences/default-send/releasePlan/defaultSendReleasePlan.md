@@ -40,11 +40,13 @@ We have 4 toggles this release plan is focused on. Our main deployment will be c
 </details> 
 
 ## Important Artifacts 
-Analytics Dashboard 
-QA Testing 
-UAT Testing 
-UAT go/no-go conversation 
-Go Live go/no-go conversation 
+|Artifact|Date Completed|
+|---|:-:|
+|Analytics Dashboard||
+|QA Testing||
+|UAT Testing| |
+|UAT go/no-go conversation||
+|Go Live go/no-go conversation||
 
 ## Migrating from Radio Button to Checkbox Component and Consuming Default Send
 
