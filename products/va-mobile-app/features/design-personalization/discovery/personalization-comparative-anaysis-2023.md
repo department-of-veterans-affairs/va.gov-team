@@ -2,7 +2,7 @@
 
 # VA Mobile Comparative Analysis: Personalized & contextual Home screen content
 
-July 2022
+July 2023
 
 [Mural with all the screenshots](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1645116475554/b9c0cc05f453a16c5a4a2f444fbbdd544693d892?sender=u98217f9fb71c48553bdb7841), [personalization comparison spreadsheet](https://docs.google.com/spreadsheets/d/1RPTVo-TXOhZE_bd5BNlzsuuZoduy7l7rmgGgeFzXnfo/edit#gid=0)
 
