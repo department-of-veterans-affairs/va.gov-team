@@ -23,7 +23,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is [Jessica/Katelyn] and we have our notetake on for taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
 Today we're going to talk about the health care benefits process.
@@ -49,8 +49,7 @@ Before we start, a few things I want to mention:
 
 Let’s start with a few warm-up questions.
 
-- How long have you been receiving medical care from the VA? 
-- When was your last appointment at a VA Facility for medical reasons? 
+- When was your last appointment at a VA Facility where you were seen for medical reasons? 
 
 
 
@@ -98,6 +97,18 @@ Let’s start with a few warm-up questions.
 - [What steps do they call out?]
 - [What steps do they leave out?]
 - [What do they mention or call out as information that is helpful in making decisions about health care benefit choices?]
+
+
+
+## Fourth Topic: [Current paper instructions] - 10 minutes
+- For this next topic, I am going to share my screen and show you an example of instructions that appear on the health care benefits application.
+- Can you explain to me in your own words, what these options mean?
+- Which one would you select and can you tell me why?
+- Is there anything about these instructions you find confusing
+
+- [Link to Mural board for example](url)
+
+### Things to watch for:
 
 
 
