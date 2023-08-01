@@ -1,5 +1,35 @@
 # Design Weekly Sync Agenda
 
+## 2023-08-01
+
+Attendees:  DK, Jessica, Katelyn, Hieu, Kristen, Heather, Alex, Fletcher
+
+**Research organization and planning**
+
+Prototype study: Could tackle the PRA stuff if it's strongly Profile direction. If not, back to the drawing board.
+Mobile app is looking into Priority Groups. Touch base with them on research.
+
+- Add in video check at end.
+- Priority Group: Didn't know. Could we relate to disbility rating.
+- Disability rating and financial ratings: How to this interplay? How is it used by other benefits? Maybe check out financial hardship form.
+- Deadline remains the same for EZR whether it's a form or in Profile.
+
+**Registration only study feedback** 
+
+- Leave the priority group questions in this research.
+- Good idea to show print version of the current state form.
+- Ask about changes to ideal state after seeing the print form or an example.
+- Cohort 1: Does warmup question make sense for folks who didn't enroll? Maybe it's around care? Delete for question, but keep second one.
+- Third topic, first question: Break this question up some.
+- Cohort 2: Warmup, maybe follow up on what kind of activities they do.
+- First topic: Maybe too many questions for 10 minutes?
+
+**Household study**
+
+- Overlap. Will we need to get the prototype ready?
+- Go lighter on Household section.
+- Focus on one thing vs. all three studies.
+
 ## 2023-07-24
 
 Attendees:  DK, Jessica, Katelyn, Kristen, Heather
