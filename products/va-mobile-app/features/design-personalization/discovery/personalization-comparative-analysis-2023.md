@@ -102,18 +102,17 @@ We did not do an accessibility audit of the apps from a personalization standpoi
 
 There was no single personalization method used on the home screen by all apps ([view the full list](https://docs.google.com/spreadsheets/d/1RPTVo-TXOhZE_bd5BNlzsuuZoduy7l7rmgGgeFzXnfo/edit#gid=0)), but five patterns were seen most frequently, and across sectors.
 
-
 <table>
   <tr>
-   <td colspan="3" ><strong>Most commonly used personalization methods across apps</strong>
+   <td colspan="3"><strong>Most commonly used personalization methods across apps</strong>
    </td>
   </tr>
   <tr>
-   <td><strong>Personalized module type</strong>
+<td width ="30%"><strong>Personalized module type</strong>
    </td>
-   <td><strong>#</strong>
+   <<td width ="5%"><strong>#</strong>
    </td>
-   <td><strong>Example</strong>
+   <td width ="65%"><strong>Example</strong>
    </td>
   </tr>
   <tr>
@@ -396,9 +395,9 @@ The apps we reviewed used three high-level patterns to display personalized and 
    </td>
   </tr>
   <tr>
-   <td><strong>Pattern Description</strong>
+   <td width ="40%"><strong>Pattern Description</strong>
    </td>
-   <td><strong>Example</strong>
+   <td width ="60%"><strong>Example</strong>
    </td>
   </tr>
   <tr>
