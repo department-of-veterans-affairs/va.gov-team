@@ -6,8 +6,6 @@
 ## Introduction - 2 minutes
 Thanks for joining us today! My name is Pam. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need as quickly and easily as possible. 
 
-I have some teammates who would like to observe our session and take notes for me, but only if you're comfortable with that. They'll be muted and off camera and you won't have to interact with them. Would you be okay with that, or do you prefer to keep the session just the two of us?
-
 What I hope to do today is get your help in testing some technical changes we’ve made to the website. The changes we have made aren’t something anyone can see on the screen, but with your help we will be able to check whether we’ve set everything up correctly.
 
 Before we start, I wanted to go over a few details:
@@ -15,6 +13,8 @@ Before we start, I wanted to go over a few details:
 - **You will need your direct deposit information today.** I will ask you to re-enter your direct deposit information in order to make sure the system is doing what it’s supposed to, but we will not be making any changes to your account.
 - **We will be able to see your real information today.** This may include some healthcare information and some claims information. However, you have the choice to stop screensharing during any of the tasks, and start again when you feel comfortable. 
 - **You may end the session at any time, for any reason.** Just let me know.
+
+I have some teammates who would like to observe our session and take notes for me, but only if you're comfortable with that. They'll be muted and off camera and you won't have to interact with them. Would you be okay with that, or do you prefer to keep the session just the two of us?
 
 Do you have any questions for me before we begin?
 
