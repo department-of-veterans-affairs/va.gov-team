@@ -112,7 +112,7 @@ The toggles used for this:
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 
-**DISCUSS THIS PART W SAMARA**
+**DISCUSS THIS PART W SAMARA** may want to add new KPI section to the [product outline here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences) OR we might want to document the KPI's on the [Project outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send)which currently links to the MVP KPIs
 [Success metrics]()
 
 
