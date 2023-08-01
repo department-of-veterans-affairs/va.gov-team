@@ -137,9 +137,9 @@ There was no single personalization method used on the home screen by all apps (
    </td>
    <td>
 
-<img src="images/prescription-delivery.png" width="" alt="Prescription delivery status" title="Prescription delivery status">
-<img src="images/upcoming-flight.png" width="" alt="upcoming trip" title="upcoming trip">
-<img src="images/account-overview.png" width="" alt="Account overview" title="Account overview">
+<img src="images/prescription-delivery.png" width="250" alt="Prescription delivery status" title="Prescription delivery status">
+<img src="images/upcoming-flight.png" width="250" alt="upcoming trip" title="upcoming trip">
+<img src="images/account-overview.png" width="250" alt="Account overview" title="Account overview">
 
    </td>
   </tr>
@@ -150,8 +150,8 @@ There was no single personalization method used on the home screen by all apps (
    </td>
    <td>
 
-<img src="images/aftervisit-summary.png" width="" alt="after visit summary" title="after visit summary">
-<img src="images/pick-your-seat.png" width="" alt="choose seat reminder" title="choose seat reminder">
+<img src="images/aftervisit-summary.png" width="250" alt="after visit summary" title="after visit summary">
+<img src="images/pick-your-seat.png" width="250" alt="choose seat reminder" title="choose seat reminder">
 
    </td>
   </tr>
@@ -162,8 +162,8 @@ There was no single personalization method used on the home screen by all apps (
    </td>
    <td>
 
-<img src="images/name-time.png" width="" alt="user name and time of day" title="user name and time of day">
-<img src="images/name.png" width="" alt="user name" title="user name">
+<img src="images/name-time.png" width="250" alt="user name and time of day" title="user name and time of day">
+<img src="images/name.png" width="250" alt="user name" title="user name">
 
    </td>
   </tr>
@@ -174,8 +174,8 @@ There was no single personalization method used on the home screen by all apps (
    </td>
    <td>
 
-<img src="images/new-message.png" width="" alt="new message" title="new message">
-<img src="images/aa-critical-action-module.png" width="" alt="flight module with critical actions" title="flight module with critical actions">
+<img src="images/new-message.png" width="250" alt="new message" title="new message">
+<img src="images/aa-critical-action-module.png" width="250" alt="flight module with critical actions" title="flight module with critical actions">
 
    </td>
   </tr>
@@ -238,8 +238,8 @@ Notifications were present in half of the apps, but overwhelmingly they were not
 Two apps gave users the ability to customize the elements that appear on their home screen: TSA displays one or more of the user’s favorite airports and Bank of America has a customizable “quantified self” style dashboard on a secondary “dashboard” home screen tab. It is not the main/default part of the home screen.
 
 
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image4.png" width="250" alt="alt_text" title="image_tooltip">
+<img src="images/image4.png" width="250" alt="alt_text" title="image_tooltip">
 
 
 
@@ -380,8 +380,8 @@ The apps we reviewed used three high-level patterns to display personalized and 
    <td>
 
 
-<img src="images/image16.png" width="" alt="alt_text" title="image_tooltip">
-<img src="images/image17.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image16.png" width="250" alt="alt_text" title="image_tooltip">
+<img src="images/image17.png" width="250" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -390,7 +390,7 @@ The apps we reviewed used three high-level patterns to display personalized and 
    </td>
    <td>
 
-<img src="images/image18.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image18.png" width="250" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -399,8 +399,8 @@ The apps we reviewed used three high-level patterns to display personalized and 
    </td>
    <td>
 
-<img src="images/image19.png" width="" alt="alt_text" title="image_tooltip">
-<img src="images/image20.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image19.png" width="250" alt="alt_text" title="image_tooltip">
+<img src="images/image20.png" width="250" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
