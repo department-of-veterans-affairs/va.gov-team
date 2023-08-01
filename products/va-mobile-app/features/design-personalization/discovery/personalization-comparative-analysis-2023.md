@@ -239,17 +239,24 @@ Notifications were present in half of the apps, but overwhelmingly they were not
 
    </td>
    <td>
-
-![alt_text](images/image1.png "image_tooltip")
-
-
+<img src="images/image20.png" width="250" alt="alt_text" title="image_tooltip">
    </td>
    </tr>
+   
 <tr>
    <td>Notifications/alerts area on home center
 
    </td>
    <td>
+      <img src="images/image20.png" width="250" alt="alt_text" title="image_tooltip">
+   </td>
+  </tr>
+  <tr>
+   <td>Notification style homescreen UI
+   </td>
+   <td>
+      <img src="images/image20.png" width="250" alt="alt_text" title="image_tooltip">
+   </td>
   </tr>
 </table>
 
