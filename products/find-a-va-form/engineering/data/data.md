@@ -1,10 +1,6 @@
 # Find a Form data README
 
-
-
-
-
-### Date contexts
+## Date contexts
 (Housing here for lack of better location.)
 The Forms DB includes 2 dates that are migrated to Drupal: 
 1. **Revision date** - date that is on the form itself in the lower left hand corner. Reflects the date when the form was created. 
