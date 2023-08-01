@@ -52,7 +52,7 @@ Go Live go/no-go conversation
 
 ## Phase II - Staged Rollout 
 
-## Go Live: 
+## Go Live
 
 
 ## Enabling Email as a Channel Notifications
