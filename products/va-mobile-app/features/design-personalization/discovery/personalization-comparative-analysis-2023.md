@@ -256,7 +256,7 @@ Notifications were present in half of the apps, but overwhelmingly they were not
    </td>
    <td>
 <img src="images/feed.png" width="250" alt="feed homescreen UI" title="feed homescreen UI">
-      <img src="feed-completed.png" width="250" alt="alt_text" title="completed feed item">
+      <img src="images/feed-completed.png" width="250" alt="alt_text" title="completed feed item">
    </td>
   </tr>
   
@@ -419,7 +419,8 @@ The apps we reviewed used three high-level patterns to display personalized and 
    <td>
 
 <img src="images/feed.png" width="250" alt="feed homescreen UI" title="feed homescreen UI">
-      <img src="feed-completed.png" width="250" alt="alt_text" title="completed feed item">
+      <img src="images/feed-completed.png" width="250" alt="alt_text" title="completed feed item">
+
 
    </td>
   </tr>
