@@ -58,14 +58,9 @@ Let’s start with a few warm-up questions.
 
 - Can you explain to me in your own words the process you took when you applied for benefits?
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
-- Anything that stood out to you?
 - Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
-- Was it clear to you how your application answers impacted your benefits?
 - How was it made clear to you as you were applying, what benefits you would qualify for? 
-- How would you describe the process that happened after you completed your application, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
-- Now that you have been using your benefits, I would like you to think back and recall if there is anything that would have been helpful for you to know during your application process that you have learned after you enrolled?
-- How have you - if at all - been notified since you enrolled that you had to provide updated information?
 - When it comes to registering and health care at the VA, what does that mean to you?
 
 
@@ -132,6 +127,24 @@ Let’s start with a few warm-up questions.
 
 
 
+
+## Fifth Topic: [Current paper instructions] - 10 minutes
+- For this next topic, I am going to share my screen and show you an example of instructions that appear on the health care benefits application.
+- Can you explain to me in your own words, what these options mean and how they are differnet?
+- Which one would you select and can you explain to me your thinking behind that?
+- Is there anything about these instructions that you find confusing?
+- Is there anything you would like more details or explaination on?
+
+- [Link to Mural board for example](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690928150976/0ce17c5b63ed3a2fd75736ac481d2d6e31fd927b?sender=uadf1ed7fe7c76f0914967329)
+
+- Now that you have seen an example of choosing benefit options, would you change anything about your ideal state we just talked about right before this?
+  
+
+### Things to watch for:
+- [What are the scenarios or examples given to why registration would be the preferred choice?]
+- [Is selecting both options a common answer?]
+- [What words and terms to participants use whent they are explaining the differences?]
+- [Is there often confusion to what to choose and what that means to them and their health care benefits?]
 
 
 
