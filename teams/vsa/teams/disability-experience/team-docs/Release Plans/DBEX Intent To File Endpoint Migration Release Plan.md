@@ -1,6 +1,6 @@
 # DBEX Intent To File Endpoint Migration Release Plan
 
-##### NOTE:
+### NOTE:
 The Lighthouse team has communicated the following:
 
 - Lighthouse staging (staging-api.va.gov) is not intended for consumers / application developers. Its intended use is for Lighthouse developers and API providers on the Lighthouse platform to test, debug, and prepare releases for sandbox (sandbox-api.va.gov) and production (api.va.gov).
@@ -62,7 +62,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 ### Canary
 - [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles:
-    - 
+    - John Doe
 - [ ] Schedule a meeting for controlled testing
 - [ ] Set Flipper active for identified internal production users
 - [ ] Ensure qualitatively that the feature works as intended for users
@@ -103,12 +103,10 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
             - [ ] Has the issue been resolved?
 
 
-- [ ] 
 ### Stage A: Monitoring phase 
 #### Planning  
-Date: 
+Date Started: 
 ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62957
-
 Length of time: 1 week
 Percentage of Users (and roughly how many users do you expect this to be): 0.5%
 #### Results:  
@@ -121,12 +119,11 @@ Percentage of Users (and roughly how many users do you expect this to be): 0.5%
 - Highest Latency:
 - Rollbacks:
 
-- [ ] 
+
 ### Stage B: Moderate ramp up
 #### Planning  
-Date: 
-ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62319
-
+Date Started: 
+ZH Tracking:
 Length of time: 
 Percentage of Users (and roughly how many users do you expect this to be): 5% 
 #### Results:  
@@ -139,12 +136,11 @@ Percentage of Users (and roughly how many users do you expect this to be): 5%
 - Highest Latency:
 - Rollbacks:
 
-- [ ] 
+
 ### Stage C: Another moderate ramp up
 #### Planning
-Date: 
-ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62322
-
+Date Started: 
+ZH Tracking:
 Length of time: 
 Percentage of Users (and roughly how many users do you expect this to be): 10% 
 #### Results  
@@ -157,12 +153,10 @@ Percentage of Users (and roughly how many users do you expect this to be): 10%
 - Highest Latency:
 - Rollbacks:
 
-- [ ] 
 ### Stage D: Final moderate ramp up
 #### Planning  
-Date: 
-ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62323
-
+Date Started: 
+ZH Tracking:
 Length of time: 
 Percentage of Users (and roughly how many users do you expect this to be): 25% 
 #### Results  
@@ -175,12 +169,10 @@ Percentage of Users (and roughly how many users do you expect this to be): 25%
 - Highest Latency:
 - Rollbacks:
 
-- [ ] 
 ### Stage E: High traffic
 #### Planning
-Date: 
-ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62324
-
+Date Started: 
+ZH Tracking:
 Length of time: 1 week
 Percentage of Users (and roughly how many users do you expect this to be): 50% 
 #### Results  
@@ -193,10 +185,9 @@ Percentage of Users (and roughly how many users do you expect this to be): 50%
 - Highest Latency:
 - Rollbacks:
 
-- [ ] 
+- [ ] Complete
 ### Stage F: Go Live!
-Date: 
-
+Date Started: 
 Percentage of Users (and roughly how many users do you expect this to be): 100% 
 #### Results  
 - New Sentry Errors: 
