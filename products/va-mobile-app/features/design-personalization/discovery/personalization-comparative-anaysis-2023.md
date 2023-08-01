@@ -277,7 +277,7 @@ Apps also used both static and variable personalized information of varying comp
 
 ##### Notifications
 Notifications were present in half of the apps, but overwhelmingly they were not included on the home screen: 
-* 9 apps had a placement for notifications in the primary or secondary navigation (top and bottom bars) of the app
+* 9 apps had a placement for notifications/inbox in the primary or secondary navigation (top and bottom bars) of the app
 * 1 app had an area for notifications/alerts on the home screen (but didn’t use it to display critical action items)
 * 1 app used a feed of dismissable notification-style modules as it’s main homescreen UI. The modules appeared when features had critical action items, essential status updates, confirmation messages and when there were general messages from the app. They  disappeared once the user has interacted with them, leaving a “nothing new  to show” message in place when there no more modules in that category.
 
