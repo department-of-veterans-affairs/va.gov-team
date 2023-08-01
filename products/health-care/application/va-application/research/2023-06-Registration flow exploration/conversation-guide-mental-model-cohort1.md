@@ -102,19 +102,21 @@ Let’s start with a few warm-up questions.
 
 ## Fourth Topic: [Current paper instructions] - 10 minutes
 - For this next topic, I am going to share my screen and show you an example of instructions that appear on the health care benefits application.
-- Can you explain to me in your own words, what these options mean?
-- Which one would you select and can you explain to  me your thinking behind that?
+- Can you explain to me in your own words, what these options mean and how they are differnet?
+- Which one would you select and can you explain to me your thinking behind that?
 - Is there anything about these instructions that you find confusing?
 - Is there anything you would like more details or explaination on?
 
-- [Link to Mural board for example](url)
+- [Link to Mural board for example](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690928150976/0ce17c5b63ed3a2fd75736ac481d2d6e31fd927b?sender=uadf1ed7fe7c76f0914967329)
 
+- Now that you have seen an example of choosing benefit options, would you change anything about your ideal state we just talked about right before this?
+  
 
 ### Things to watch for:
 - [What are the scenarios or examples given to why registration would be the preferred choice?]
 - [Is selecting both options a common answer?]
 - [What words and terms to participants use whent they are explaining the differences?]
-
+- [Is there often confusion to what to choose and what that means to them and their health care benefits?]
 
 
 ## Post-Task Interview - 5 minutes
