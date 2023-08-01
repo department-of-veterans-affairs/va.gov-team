@@ -1,4 +1,4 @@
- # Tinnitus claims for increase Research Findings 
+ # Tinnitus claims for increase - Research findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Disability Benefits Employee Experience Team**
 
@@ -11,6 +11,8 @@
 [Hypotheses and conclusions](#hypotheses-and-conclusions)
 
 [Key findings](#key-findings)
+
+[Additional insights](#additional-insights)
 
 [Recommendations](#recommendations)
 <br>
@@ -109,7 +111,9 @@ Note: while it’s exceedingly rare for veterans to get a rating higher than the
 
 [Sketch prototype - Yellow and Blue](https://sketch.com/s/7b704520-bd67-4e58-8187-2164d7616bd4/a/1VxlAbp/play)
 
-[Sketch prototype - Orange and Blue](https://sketch.com/s/7b704520-bd67-4e58-8187-2164d7616bd4/a/w5roKWw/play)[Sketch prototype - Orange and Purple](https://sketch.com/s/7b704520-bd67-4e58-8187-2164d7616bd4/a/3oGzdnz/play)
+[Sketch prototype - Orange and Blue](https://sketch.com/s/7b704520-bd67-4e58-8187-2164d7616bd4/a/w5roKWw/play)
+
+[Sketch prototype - Orange and Purple](https://sketch.com/s/7b704520-bd67-4e58-8187-2164d7616bd4/a/3oGzdnz/play)
 
 ### Prototype screenshots 
 With added text highlighted
