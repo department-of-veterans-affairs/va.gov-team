@@ -49,13 +49,13 @@ Start the pre-need eligibility application {link - action}
 
 #### To help us process your application faster, you can upload: {h4}
 
-A copy of your or your sponsor’s DD214 or other separation documents
+A copy of your or your sponsor’s DD214 or other separation files
 
 ##### Other information for certain applicants you can provide: {h5}
 
 * **If you’re applying as the legally married spouse or surviving spouse of a service member or Veteran**, you’ll need your personal information (including Social Security number and date of birth).
-* **If you’re applying on behalf of someone else**, you can upload supporting documents or an affidavit showing you can apply on their behalf.
-* **If you’re applying for an unmarried adult child of a service member or Veteran**, you can upload supporting documents with information about the adult child’s disability.  
+* **If you’re applying on behalf of someone else**, you can upload supporting files or an affidavit showing you can apply on their behalf.
+* **If you’re applying for an unmarried adult child of a service member or Veteran**, you can upload supporting files with information about the adult child’s disability.  
 
 #### What if I need help filling out my application? {h4}
 
@@ -1487,12 +1487,12 @@ We’ll let you know by mail or phone if we need more details.
 
 Print this page {primary button}
 
-### Do you have more documents you need to submit? {h3 heading with h4 styling}
+### Do you have more files you need to submit? {h3 heading with h4 styling}
 
-To mail or fax additional documents:     
-1. Make copies of the documents.     
+To mail or fax additional files:     
+1. Make copies of the files.     
 2. Make sure you write your name and confirmation number on every page.
-3. Submit application and supporting documents to the VA by mail:
+3. Submit application and supporting files to the VA by mail:
 
 {address block} 
 
