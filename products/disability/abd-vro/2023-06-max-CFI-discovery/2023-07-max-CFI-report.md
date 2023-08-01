@@ -15,6 +15,8 @@
 [Additional insights](#additional-insights)
 
 [Recommendations](#recommendations)
+
+[Appendix](#appendix)
 <br>
 ## Background 
 The VA receives many claims for increase (CFIs) for conditions where a Veteran is already at the maximum rating for that condition. In most cases, the condition will be “confirmed and continued” (denied) by a claims processor. We’d like to reduce the amount of time claims processors spend on these contentions by reducing the number of CFIs Veterans that file in this situation.
