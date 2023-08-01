@@ -50,8 +50,8 @@ Now I'll have you do the same first action again, click edit. But this time, cli
 
 - [ ] **UAT TASK:** When user clicks save, they cannot submit the form due to error(s).
 
-## UAT Task #4: Edit and try to save with bogus routing number - 3 minutes
-Okay, go ahead and click edit again, and this time I will have you enter some information. For routing number, I want you to add a number that's clearly false, so let's say 10 0's. Then, for the rest of the form, please add your own correct information. If it makes you more comfortable, you can pause the screenshare while you do this step. Click save and let's see what happens.
+## UAT Task #4: Edit and try to save with fake routing number - 3 minutes
+Okay, go ahead and click edit again, and this time I will have you enter some information. For routing number, I want you to add a number that's fake, like 12345678. Then, for the rest of the form, please add your own correct information. If it makes you more comfortable, you can pause the screenshare while you do this step. Click save and let's see what happens.
 
 - [ ] **UAT TASK:** When user clicks save, they cannot submit the form due to the bogus routing number.
 
