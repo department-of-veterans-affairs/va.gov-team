@@ -19,14 +19,17 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 - Veteran can access a digital card in the Flagship mobile app to display to applicable 3rd parties 
 
 ### Out of Scope
- - Integration with VIC
- - Digital wallet integration
- - Unauthenticated experience / access
- - Export / Print card
- - Photo of the user's choice
- - Number of years served
- - New component
- - VIC blurb regarding how to use it 
+|Prioirty # |Idea  | Rationale | Owner |Status|
+|-------|-------|-------|-------|-------|
+|1|Photo of the user's choice||Binny |Not Reviewed|
+|2|Number of years served||Binny | Not Reviewed |
+|3|Export / Print card||Binny / Binny |Not Reviewed|
+|4|Unauthenticated experience / access||Brea |Not Reviewed|
+|5| Digital wallet integration||Binny |Not Reviewed|
+|6|New card component||Brea|Not Reviewed|
+|7|VIC blurb regarding how to use it ||Open Question|Not Reviewed|
+|8|Integration with VIC ||PO deemed not feasible | Closed|
+
 
 ### In Scope
  - Displaying information that the Flagship VA app already has access too 
@@ -72,6 +75,7 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 
  
 ## Notes
+Standup 
 
 
 
