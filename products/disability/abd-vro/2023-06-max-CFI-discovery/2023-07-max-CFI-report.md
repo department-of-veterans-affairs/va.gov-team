@@ -66,7 +66,9 @@ We tested 18 scenarios in all. The intervention was successful in 8 of these and
 
 ### Finding 2. The most successful prototype (Orange) used strong language in the Tinnitus checkbox and did not include an additional information component. 
 
-This intervention was successful three out of six times. While the prototype with strong language in the Additional Information Component (purple) was more effective in dissuading users from filing, it also caused more confusion and negative reactions (“Why are you denying 99.9% of the claims?!?" - Veteran 9) 
+This intervention was successful three out of six times. While the prototype with strong language in the Additional Information Component (purple) was more effective in dissuading users from filing, it also caused more confusion and negative reactions 
+> “Why are you denying 99.9% of the claims?!?" - Veteran 9 
+
 Participants were confused by the language that explained how to file for a secondary condition (Purple and Blue, in the Additional Information component). 
 
 ### Finding 3. Only two participants out of eight noticed the Additional Info component without additional prompts.
@@ -84,7 +86,8 @@ When asked, they expected to be blocked from claiming an increase for tinnitus i
 ## Additional Insights
 1. Participants had varying levels of understanding of the rating schedule.
 2. Veterans think about how conditions relate to each other - both as secondary conditions and how they impact their overall rating. They compare conditions to strategize how to get an increased overall rating.
-3. Bad previous experiences with the VA influences a Veteran’s current attitudes. “The site is user-friendly, but not geared towards my best interests." - Veteran 2
+3. Bad previous experiences with the VA influences a Veteran’s current attitudes.
+   > “The site is user-friendly, but not geared towards my best interests." - Veteran 2
 4. A number of veterans praised the information they received in their decision letters to understand their rating level. 
 ## Recommendations
 * Launch a limited-release pilot testing the real-world effects of Scenario Orange, with the goal of learning more about Veteran behavior. 
@@ -109,20 +112,10 @@ Note: while it’s exceedingly rare for veterans to get a rating higher than the
 [Sketch prototype - Orange and Blue](https://sketch.com/s/7b704520-bd67-4e58-8187-2164d7616bd4/a/w5roKWw/play)[Sketch prototype - Orange and Purple](https://sketch.com/s/7b704520-bd67-4e58-8187-2164d7616bd4/a/3oGzdnz/play)
 
 ### Prototype screenshots 
-(added text highlighted in yellow)
+With added text highlighted
 
-**Scenario Yellow**
+| Scenario Yellow | Scenario Orange | Scenario Blue | Scenario Purple | 
+| --- | --- | --- |  --- | 
+| ![Screenshot of primary screen in Scenario Yellow, showing mild language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Yellow-screenshot.png) | ![Screenshot of primary screen in Scenario Orange, showing strong language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Orange-screenshot.png) | ![Screenshot of primary screen in Scenario Blue, showing an expanded Additional Info component above the rated disabilities list and mild language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Blue-screenshot.png) | ![Screenshot of primary screen in Scenario Purple, showing an expanded Additional Info component below the rated disabilities list and strong language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Purple-screenshot.png) |
 
-![Screenshot of primary screen in Scenario Yellow, showing mild language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Yellow-screenshot.png)
 
-**Scenario Orange**
-
-![Screenshot of primary screen in Scenario Orange, showing strong language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Orange-screenshot.png)
-
-**Scenario Blue**
-
-![Screenshot of primary screen in Scenario Blue, showing an expanded Additional Info component above the rated disabilities list and mild language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Blue-screenshot.png)
-
-**Scenario Purple**
-
-![Screenshot of primary screen in Scenario Purple, showing an expanded Additional Info component below the rated disabilities list and strong language within the tinnitus box.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35f24debfd36b87a9e3148bb06eaef1168b05449/products/disability/abd-vro/2023-06-max-CFI-discovery/images/Purple-screenshot.png)
