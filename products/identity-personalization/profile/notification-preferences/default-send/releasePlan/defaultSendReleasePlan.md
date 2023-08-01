@@ -54,7 +54,7 @@ As we prepare to deploy these changes, there are other groups (VA Notify/VA Prof
 
 Our goals for this initial deployment is to leverage the new checkbox UI, utilize the default send information supplied by VA Profile, deploy our editing-as-a-subtask feature. The toggles in question 
 
-<details><summary>**Toggle Details**</summary>
+<details><summary> Toggle Details </summary>
 <p>
 
 - `profile_use_notification_settings_checkboxes`
