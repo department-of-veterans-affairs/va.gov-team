@@ -232,7 +232,26 @@ Notifications were present in half of the apps, but overwhelmingly they were not
 * 1 app had an area for notifications/alerts on the home screen (but didn’t use it to display critical action items)
 * 1 app used a feed of dismissable notification-style modules as it’s main homescreen UI. The modules appeared when features had critical action items, essential status updates, confirmation messages and when there were general messages from the app. They  disappeared once the user has interacted with them, leaving a “nothing new  to show” message in place when there no more modules in that category.
 
-**Needs table w images*
+
+<table>
+  <tr>
+   <td>Notifications center in main navigation:
+
+   </td>
+   <td>
+
+![alt_text](images/image1.png "image_tooltip")
+
+
+   </td>
+   </tr>
+<tr>
+   <td>Notifications/alerts area on home center
+
+   </td>
+   <td>
+  </tr>
+</table>
 
 ##### Customization
 Two apps gave users the ability to customize the elements that appear on their home screen: TSA displays one or more of the user’s favorite airports and Bank of America has a customizable “quantified self” style dashboard on a secondary “dashboard” home screen tab. It is not the main/default part of the home screen.
