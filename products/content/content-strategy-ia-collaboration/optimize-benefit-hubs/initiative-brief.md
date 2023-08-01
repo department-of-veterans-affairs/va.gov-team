@@ -5,13 +5,11 @@ The initial benefit hub content and structure was created in 2018 via the launch
 
 In late 2020, the Resources and support product was launched, and was intended to house "benefit-adjacent" content, to allow for additional content to be migrated from legacy VA.gov into the modernized VA.gov experience without cluttering the core benefit hubs. However, "benefit-adjacent" was not a well-defined descriptor, and it was unclear what content belonged in R&S versus the benefit hubs.  
 
-In 2022, OCTO Content and IA rolled out version 1 of the content placement criteria which provided strict, clear eligibility criteria for benefith hub and R&S content.  This criteria has been tested and is being utilized, and refined, as new content is proposed and as content migrations have continued.
+In 2022, OCTO Content and IA rolled out version 1 of the content placement criteria which provided strict, clear eligibility criteria for benefith hub and R&S content.  This criteria has been tested and is being utilized, and refined, as new content is proposed, and as content migrations continue.
 
+An oppurtunity now exists to revisit the content and organizational structure of the benefit hubs to apply the content placement criteria, in an effort to simplify the experience, and optimize the path to apply. 
 
-
-An oppurtunity now exists to revisit the benefit hubs and flatten much needed IA and navigation in order to optimize the Veteran-facing experience on VA.gov with the intent to increase effectiveness of conversion paths of the benefit hubs.
-
-The goal will be to:
+Goals:
 
 Optimize user flows and conversion paths on benefit hub pages to:
   
