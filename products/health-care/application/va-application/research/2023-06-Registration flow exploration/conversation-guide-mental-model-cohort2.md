@@ -1,4 +1,4 @@
-# DRAFT Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, August 2023][Cohort 2]
+# DRAFT Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, August 2023][Cohort 2 - already enrolled]
 
 ## Moderator logistics
 ### 2-3 days before the session
