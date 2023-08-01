@@ -20,4 +20,4 @@ For LOA3 users who sign in and have an open claim or appeal, we will show a card
 - Once logged in, you will be redirected to My VA.
 - Verify that you see a card for the most recently updated claim or appeals under the "Claims and appeals" header.
 - Verify that the link in the card to “Review details” links to the details page about that particular claim and the status in the claims tool matches what is displaying on My VA.
-- Verify that you see a secondary link to “Manage all claims and appeals” that links to the claims tool and that it appears on the righthand side on desktop.
+- Verify that you see secondary links to "Learn how to file a claim" and “Manage all claims and appeals” and that they appear on the righthand side on desktop.
