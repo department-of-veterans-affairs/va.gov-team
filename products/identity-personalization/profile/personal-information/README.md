@@ -1,6 +1,6 @@
 # Product outline: Personal information in the VA.gov profile
 
-Last Updated: October 12, 2022
+Last Updated: August 1, 2023
 
 ## Table of Contents
 
@@ -138,5 +138,4 @@ Needs to be filled out by Adam.
 - [Personal information revision UX decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/design/personal-info-ux-decisions.md)
 
 ### Flow diagrams
-
-- [High-level add/edit flow with screenshots](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/p/8E8C2FD5-BE91-45C2-BD5F-D71E27903187/canvas)
+- [Mobile page of Sketch file](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/p/BE56DBF8-B1BF-4A60-9379-DC9F2C5098BB/canvas) has user flow
