@@ -1,6 +1,6 @@
 # Product outline: Military information in the VA.gov profile
 
-**Last Updated: July 18, 2023**
+**Last Updated: August 1, 2023**
 
 ### Table of Contents
 
@@ -38,9 +38,7 @@ We pull in a small amount of military information to the VA.gov profile. This in
 
 ## Projects
 
-|Project|Launch date|
-|-------|-----------|
-|[Integrate military information through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme)| Launched August 2022|
+[For a list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
 
 ## Backend
 [Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md)
