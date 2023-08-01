@@ -266,8 +266,8 @@ Notifications were present in half of the apps, but overwhelmingly they were not
 Two apps gave users the ability to customize the elements that appear on their home screen: TSA displays one or more of the user’s favorite airports and Bank of America has a customizable “quantified self” style dashboard on a secondary “dashboard” home screen tab. It is not the main/default part of the home screen.
 
 
-<img src="images/image4.png" width="250" alt="alt_text" title="image_tooltip">
-<img src="images/image4.png" width="250" alt="alt_text" title="image_tooltip">
+<img src="images/ba-home-dashboard.png" width="250" alt="home screen dashboard tab" title="home screen dashboard tab">
+<img src="images/favorite-airport.png" width="250" alt="favorite airport" title="favorite airport">
 
 
 
@@ -408,8 +408,8 @@ The apps we reviewed used three high-level patterns to display personalized and 
    <td>
 
 
-<img src="images/image16.png" width="250" alt="alt_text" title="image_tooltip">
-<img src="images/image17.png" width="250" alt="alt_text" title="image_tooltip">
+<img src="images/state-farm.png" width="250" alt="state farm home screen" title="state farm home screen">
+<img src="images/aa-home.png" width="250" alt="american airlines home screen" title="american airlines home screen">
 
    </td>
   </tr>
@@ -429,8 +429,8 @@ The apps we reviewed used three high-level patterns to display personalized and 
    </td>
    <td>
 
-<img src="images/image19.png" width="250" alt="alt_text" title="image_tooltip">
-<img src="images/image20.png" width="250" alt="alt_text" title="image_tooltip">
+<img src="images/delta-tabs.png" width="300" alt="delta account and today tabs" title="delta account and today tabs">
+<img src="images/ba-home-tabs.png" width="300" alt="bank of america home screen tabs" title="bank of america home screen tabs">
 
    </td>
   </tr>
