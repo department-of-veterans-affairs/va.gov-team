@@ -22,7 +22,7 @@ We have 4 toggles this release plan is focused on. Our main deployment will be c
   - toggles the usage of radio buttons vs checkboxes as the input type that is used for every notification. Also consumes default send indicator boolean when turned on.
 
 - `profile_use_field_editing_page` 
-  - allows an 'editing as a sub-task' UI to be used when updating a single section of profile. Used for mobile phone and email address sections via notification settings page alerts when one of those channels is missing from the user's profile AND the `profile_show_email_notification_settings` is turned ON
+  - allows an 'editing as a sub-task' UI to be used when updating a single section of profile. Used for mobile phone and email address sections via notification settings page alerts when one of those channels is missing from the user's profile 
 
 - `profile_show_email_notification_settings`
   - toggles display of ALL email based notification checkboxes
@@ -57,7 +57,7 @@ We have 4 toggles this release plan is focused on. Our main deployment will be c
   - toggles the usage of radio buttons vs checkboxes as the input type that is used for every notification. Also consumes default send indicator boolean when turned on.
 
 - `profile_use_field_editing_page` 
-  - allows an 'editing as a sub-task' UI to be used when updating a single section of profile. Used for mobile phone and email address sections via notification settings page alerts when one of those channels is missing from the user's profile AND the `profile_show_email_notification_settings` is turned ON
+  - allows an 'editing as a sub-task' UI to be used when updating a single section of profile. Used for mobile phone and email address sections via notification settings page alerts when one of those channels is missing from the user's profile 
 
 </p>
 </details> 
