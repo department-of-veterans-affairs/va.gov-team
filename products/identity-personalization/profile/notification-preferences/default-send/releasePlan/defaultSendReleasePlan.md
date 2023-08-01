@@ -25,18 +25,6 @@ We have 4 toggles this release plan is focused on. Our main deployment will be c
 - `profile_use_field_editing_page` 
   - allows an 'editing as a sub-task' UI to be used when updating a single section of profile. Used for mobile phone and email address sections via notification settings page alerts when one of those channels is missing from the user's profile 
 
-- `profile_show_email_notification_settings`
-  - toggles display of ALL email based notification checkboxes
-
-- `profile_show_mhv_notification_settings`
-  - toggles display of ALL MHV notifications
-  - the MHV notifications all happen to be email based, so this is similar to the above, but will allow any future email notifications to be toggled separately
-  - RX refill shipment notification (needs combined with Prescription shipment and tracking updates via VA Profile)
-  - VA Appointment Reminders (needs to be combined with Appointment Reminders via VA Profile)
-  - Secure messaging alert
-  - Medical images and reports available
-  - Biweekly MHV newsletter (in turn the General VA Updates and Information group is hidden since this notification is the only one in the group) 
-
 </p>
 </details> 
 
@@ -156,25 +144,3 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 3. Which of the assumptions you listed in your product outline were/were not validated? 
 4. How might your product evolve now or in the future based on these results?
 
-
-## Enabling Email as a Channel Notifications
-
-As VA Notify and VA Profile work through the notifications that will use email as a channel, we'll enable each of those notifications. A separate release plan may be needed and those would be controlled by the below toggles.  
-
-<details><summary>Toggle Details</summary>
-<p>
-
-- `profile_show_email_notification_settings`
-  - toggles display of ALL email based notification checkboxes
-
-- `profile_show_mhv_notification_settings`
-  - toggles display of ALL MHV notifications
-  - the MHV notifications all happen to be email based, so this is similar to the above, but will allow any future email notifications to be toggled separately
-  - RX refill shipment notification (needs combined with Prescription shipment and tracking updates via VA Profile)
-  - VA Appointment Reminders (needs to be combined with Appointment Reminders via VA Profile)
-  - Secure messaging alert
-  - Medical images and reports available
-  - Biweekly MHV newsletter (in turn the General VA Updates and Information group is hidden since this notification is the only one in the group) 
-
-</p>
-</details> 
