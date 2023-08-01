@@ -276,7 +276,10 @@ Apps also used both static and variable personalized information of varying comp
 
 
 ##### Notifications
-While notifications were present in half of the apps, overwhelmingly they were not treated like personalized information on the home screen: 9 apps had a placement for notifications in the primary or secondary navigation of the app—1 had an area for notifications/alerts on the home screen (but didn’t use it to display critical action items).
+Notifications were present in half of the apps, but overwhelmingly they were not included on the home screen: 
+* 9 apps had a placement for notifications in the primary or secondary navigation (top and bottom bars) of the app
+* 1 app had an area for notifications/alerts on the home screen (but didn’t use it to display critical action items)
+* 1 app used a feed of dismissable notification-style modules as it’s main homescreen UI. The modules appeared when features had critical action items, essential status updates, confirmation messages and when there were general messages from the app. They  disappeared once the user has interacted with them, leaving a “nothing new  to show” message in place when there no more modules in that category.
 
 ##### Customization
 Two apps gave users the ability to customize the elements that appear on their home screen: TSA displays one or more of the user’s favorite airports and Bank of America has a customizable “quantified self” style dashboard on a secondary “dashboard” home screen tab. It is not the main/default part of the home screen.
@@ -451,7 +454,7 @@ The apps we reviewed used three high-level patterns to display personalized and 
    </td>
   </tr>
   <tr>
-   <td><strong>Feed:</strong> One app home screen used a feed combining timely actionable items from various features, essential status updates, confirmation messages and general messages from the app followed by feature promotions.
+   <td><strong>Feed:</strong> One app’s home screen used a feed combining timely actionable items from various features, essential status updates, confirmation messages and general messages from the app followed by feature promotions. The modules disappear once the user has interacted with them, leaving a “nothing new  to show” message in place when there no more modules in that category.
    </td>
    <td>
 
