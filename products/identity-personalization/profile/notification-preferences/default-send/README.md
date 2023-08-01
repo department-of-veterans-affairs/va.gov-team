@@ -98,11 +98,11 @@ OKRs and KPIs TBD.
 ## Key Deliverables
 |Deliverable|Date completed|
 |-----------|--------------|
-|[Project epic]()| TBD |
+|[Email as a channel epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61101)| |
 |[QA Testing]()| |
 | [UAT Go/no-go]() | |
-|UAT results|TBD|
-|[Release plan]()|TBD|
+|UAT results||
+|[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/releasePlan/defaultSendReleasePlan.md)||
 
 ## Key Dates
 Q2 goals:
