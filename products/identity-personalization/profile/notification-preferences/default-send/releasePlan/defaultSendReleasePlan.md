@@ -15,7 +15,7 @@ The default send work is comprised of several different pieces of functionality.
 
 We have 4 toggles this release plan is focused on. Our main deployment will be concerned with the first two toggles which control the checkboxes and the editing-as-a-subtask feature. The other two will be discussed in the [Enabling Email as a Channel Notifications](#enabling-email-as-a-channel-notifications) section of this document. 
 
-<details><summary>Toggle Details</summary>
+<details><summary>All Toggles</summary>
 <p>
 
 - `profile_use_notification_settings_checkboxes`
