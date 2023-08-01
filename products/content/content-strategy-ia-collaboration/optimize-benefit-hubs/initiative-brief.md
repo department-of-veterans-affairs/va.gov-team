@@ -1,9 +1,13 @@
 # Initiative Brief: Optimizing the benefit hubs
 #### Overview
 
-The initial digital optimization of the benefit hubs was created in 2018 through 2019 via the launch of the new VA.gov and the migration of Tier 1 Veteran-facing benefit and health care content and tools, from the legacy pages into the new hubs.  In the course a Content Management System (CMS) was established and the benefit hubs were then migrated into the CMS.  
+The initial benefit hub content and structure was created in 2018 via the launch of the new VA.gov and the migration of Veteran-facing benefit and health care content from both Vets.gov and legacy (Team Site) VA.gov pages.  At that time, all Veteran and family benefit content was placed within one of the 3 "spokes" - Get, Manage, or Resources - of each hub.   Content within these hubs continued to grow as more content was migrated into the new experience. 
 
-Then in 2020 we focused on building Tier 2 benefit-adjacent content elements such as Resources and Support and Campaign Landing Pages in order to help Veterans and other beneficiaries learn through self discovery, and support content for Veterans, family members, or other beneficiaries of VA benefits/services in supporty of completing "Tier 1" benefit actions. 
+In late 2020, the Resources and support product was launched, and was intended to house "benefit-adjacent" content, to allow for additional content to be migrated from legacy VA.gov into the modernized VA.gov experience without cluttering the core benefit hubs. However, "benefit-adjacent" was not a well-defined descriptor, and it was unclear what content belonged in R&S versus the benefit hubs.  
+
+In 2022, OCTO Content and IA rolled out version 1 of the content placement criteria which provided strict, clear eligibility criteria for benefith hub and R&S content.  This criteria has been tested and is being utilized, and refined, as new content is proposed and as content migrations have continued.
+
+
 
 An oppurtunity now exists to revisit the benefit hubs and flatten much needed IA and navigation in order to optimize the Veteran-facing experience on VA.gov with the intent to increase effectiveness of conversion paths of the benefit hubs.
 
