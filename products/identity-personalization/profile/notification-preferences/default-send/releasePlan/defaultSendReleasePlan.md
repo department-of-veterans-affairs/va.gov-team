@@ -83,6 +83,10 @@ The toggles used for this:
 
 
 ## Phase II - Staged Rollout 
+
+### Rollback Plan:
+PM and PO will monitor analytics. If the team notices a spike in errors, they will contact the engineering team to get the FE engineer to disable the toggles previously mentioned. 
+
 ### Planning
 **Launch Go/No-go:** 
 - [Launch go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62928)
@@ -104,8 +108,7 @@ The toggles used for this:
 [Success metrics]()
 
 
-### Rollback Plan:
-PM and PO will monitor analytics. If the team notices a spike in errors, they will contact the engineering team to get the FE engineer to disable the toggles previously mentioned. 
+
 
 ## Go Live
 
