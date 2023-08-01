@@ -9,6 +9,9 @@
 **Allison: are you ready to turn the feature on for all users?**
 - Answer: 
 
+**Samara & AJ: is the PSIR Review complete?**
+- Answer: Yes, approved 6/20 ([#1000](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1000))
+
 **Samara/AJ: is Google Analytics updated to track this product data and are they working as expected?**
 - Answer: 
 
