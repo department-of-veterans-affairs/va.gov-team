@@ -1,6 +1,6 @@
 # Household section optimization - Launch Go/No Go
 ## 7/31/2023
-## Decision: 
+## Decision: We are a GO!
 
 ---
 
@@ -37,5 +37,5 @@
 ### Next Steps:
 When are we launching?
 - [ ] Monday, July 31
-- [ ] Another day?
-- Comments: 
+- [x] Wednesday, August 2nd, 2023
+- Comments: Delayed to ensure Contact Center guide is reviewed.
