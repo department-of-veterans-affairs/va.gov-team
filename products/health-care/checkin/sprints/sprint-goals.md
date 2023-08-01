@@ -26,7 +26,7 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**     
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[FE] Change "Verify" to "Confirm"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62840)  
-   - **EPIC: [Travel Reimbursement - Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
+   - **EPIC: [Travel Reimbursement Enhancements - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
        - TBD
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
