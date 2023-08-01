@@ -183,7 +183,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 {end dynamic content}
 
-### Page Title: Preparer information {h3 heading with h5 styling}
+### Page Title: Preparer details {h3 heading with h5 styling}
 
 Since you indicated you’re preparing the application, you’ll need to provide your details.
 
