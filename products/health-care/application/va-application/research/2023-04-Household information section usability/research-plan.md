@@ -122,7 +122,7 @@ Our intended audience for this reasearch are Veterans and we will be using and l
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-Veterans: completed 10; requested 15
+Veterans: completed 6; requested 9
 
 
 **Primary criteria (must-haves)**
@@ -132,16 +132,14 @@ What demographics, experience, and scenarios do you need participants to meet to
 - All must currently or in the past claimed dependents (on their tax returns)
 
 
-- At least **3 out of the 10 completed sessions** are with a screen reader
-- At least **4 out of the 10** are mobile users
-- At least **2 out of 10** are currently living abroad or of immigrant origin
-  
+- At least **3 out of the 6 completed sessions** are with a screen reader
+- At least **3 out of the 9** are mobile users
+- Diverse mix of age ranges
+- No more than 1 participant with a Bachelor's degree or higher
+- At least 2 participants who are Black
+- At least 2 participants who are Hispanic
 
 
-
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-- 
 
 ### Screener questions
 
@@ -175,12 +173,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: **August 24 - September 8, 2023**
+* Planned dates of research: **August 21 - August 25, 2023**
 
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 1 hour
-* Maximum Sessions per day: 3
+* Maximum Sessions per day: 2
 
 
 ### Availability
@@ -191,17 +189,13 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
+| August 21, 2023  	|  11am - 5pm ET 	|
+| August 22, 2023  	|  11am - 5pm ET 	|
+| August 23, 2023  	|  11am - 5pm ET 	|
 | August 24, 2023  	|  11am - 5pm ET 	|
 | August 25, 2023  	|  11am - 4pm ET 	|
-| August 28, 2023  	|  11am - 5pm ET 	|
-| August 29, 2023  	|  11am - 5pm ET 	|
-| August 30, 2023  	|  11am - 5pm ET 	|
-| August 31, 2023  	|  11am - 5pm ET 	|
-| September 1, 2023  	|  11am - 5pm ET 	|
-| September 5, 2023  	|  11am - 5pm ET 	|
-| September 6, 2023  	|  11am - 5pm ET 	|
-| September 7, 2023  	|  11am - 5pm ET 	|
-| September 8, 2023  	|  11am - 5pm ET 	|
+
+
 
 
 
