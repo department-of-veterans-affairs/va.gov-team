@@ -99,6 +99,7 @@ OKRs and KPIs TBD.
 |Deliverable|Date completed|
 |-----------|--------------|
 |[Email as a channel epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61101)| |
+|Analytics Dashboard| |
 |[QA Testing]()| |
 | [UAT Go/no-go]() | |
 |UAT results||
