@@ -159,7 +159,7 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 
 ## Enabling Email as a Channel Notifications
 
-As VA Notify and VA Profile work through the notifications that will use email as a channel, we'll enable each of those notifications. A separate release plan will likely be needed and those would be controlled by the below toggles.  
+As VA Notify and VA Profile work through the notifications that will use email as a channel, we'll enable each of those notifications. A separate release plan may be needed and those would be controlled by the below toggles.  
 
 <details><summary>Toggle Details</summary>
 <p>
