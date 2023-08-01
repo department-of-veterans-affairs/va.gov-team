@@ -42,6 +42,8 @@ We have 4 toggles this release plan is focused on. Our main deployment will be c
 ## Important Artifacts 
 |Artifact|Date Completed|
 |---|:-:|
+|[Email as a channel epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61101)| |
+|[Editing as a subtask epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49319)||
 |Analytics Dashboard||
 |QA Testing||
 |UAT Testing| |
