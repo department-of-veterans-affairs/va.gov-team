@@ -26,5 +26,6 @@
 
 - `profile_use_field_editing_page` - somewhat related
   - allows an 'editing as a sub-task' UI to be used when updating a single section of profile. Used for mobile phone and email address sections via notification settings page alerts when one of those channels is missing from the user's profile.
+  - when turned ON, there is a new `profile/edit` route that uses the url query parameters to dispaly a single field for editing, and will return to a defined `returnPath` upon successful save or cancel of editing the field.
   
 They are all ON is staging at this point, except for the QuickSubmit one since that is supposed to just be turned off completely.
