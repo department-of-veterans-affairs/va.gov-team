@@ -1,5 +1,5 @@
 # My VA Claims and Appeals Frontend Documentation
-Last updated: July 17, 2023
+Last updated: August 1, 2023
 
 ## When to show the ‘Claims and appeals’ section
 We show this section for every LOA3 user.
@@ -70,7 +70,7 @@ A max of **one** status card should be showing at any given time for a user.
 Use font awesome icon `file-lines` for icon
 
 **Show**
-- For users who do not have a claim or appeal update to show as outlined above.
+- For all LOA3 users.
 
 **Positioning**
 - This link should appear on the lefthand side on desktop as the first link in the list, above "Manage all claims and appeals".
@@ -91,8 +91,7 @@ Use font awesome icon `file-lines` for icon
 - For all LOA3 users.
 
 **Positioning**
-- If user has a claim or appeal status update card to show, this link should appear on the righthand side of the page on desktop.
-- If a user does not have a claim or appeal status update card to show, this link should appear on the lefthand side on desktop, below the "Learn how to file a claim" link.
+- This link should appear on the lefthand side on desktop, below the "Learn how to file a claim" link.
 
 #### Content
 [Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/)
