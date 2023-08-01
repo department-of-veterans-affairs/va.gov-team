@@ -200,7 +200,8 @@ Let’s start with a couple warm-up questions.
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-As was mentioned in the beginning but I want to confirm now that we have completed, are you stil comfortable if we decided to use a clip of our session with you (deleting any identifying info) to help our partners understand Veteran's experiences?
+I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
+If participant says yes: Is there any part of our discussion that you would NOT want shared in a video clip?
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
