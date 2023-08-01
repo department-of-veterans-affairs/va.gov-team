@@ -48,7 +48,6 @@ In order to be able to add email as a channel, we need to do two things: add the
 
 - As a customer of the VA, I need to be able to opt in or out of email communications so that I can customize through which channels I prefer to be contacted. 
 
-
 ## User outcomes
 
 ### Desired User Outcomes
@@ -65,12 +64,25 @@ In order to be able to add email as a channel, we need to do two things: add the
 - Allow any updates veterans make to their permissions to be saved/accessed across the VA (through VA Profile backend).
 - Set up an infrastructure for this functionality that is sustainable and allows us to scale easily over time.
 
-
 ## Measuring success
 
-OKRs and KPIs TBD.
+### Objective #1: Maintain overall performance of the notification preferences page
 
-- We are not currently measuring any OKRs or KPIs for notification settings. For previous OKRs/KPIs: [Notification settings MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/product/mvp-project-outline.md#measuring-success)
+**When filling in data -- update dates to be 1 month pre-launch, one month post launch (to 100%), and the second month post-launch (to 100%) based on actual launch dates.**
+
+**KPI: See no reduction in the percentage of successful retrievals and saves for notification preferences.**
+
+[Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
+
+|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|-------------|---------------|-------------------|
+|Percentage of successful retrievals||||
+|Percentage of successful saves||||
+
+**Additional things to consider**
+
+- Is there anyway to glean improved usability through metrics?
+- Is there any way to glean whether we are successfully consuming/displaying default send? 
 
 ## Solution approach
 
@@ -134,8 +146,3 @@ Additional details can be found [here](https://github.com/department-of-veterans
 
 - Completed research from usability testing on the designs: [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md)
 - Discussed how our design changes could support VA Notify's requirements for capturing optins and optouts now that we have default send available in July 2022: [meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/default-send/july-2022-notes.md)
-
-
-
-
-
