@@ -157,11 +157,12 @@ Please list the people who will be serving in each role. **Include the primary p
     * Cindy Cruz, cruz_cindy@bah.com
     * Charlie Barron, barron_charles@bah.com	
 - Participant recruiting & screening: Perigean
-- Project point of contact: Catherine Hughes, hughes_catherine@bah.com; Kelby Stewart, stewart_kelby@bah.com
+- Project point of contact: Catherine Hughes, hughes_catherine@bah.com; Michelle Dieudonne Yenyo, dieudonneyenyo_michelle@bah.com
 - Participant(s) for pilot test: Kenneth Santiago, santiago_kenneth@bah.com
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	None
 - Note-takers: Perigean
 - Observers (limiting 3-4 of the following per session): 
+	- Catherine Hughes (hughes_catherine@bah.com)
 	- Rhonda Jones (rhonda.jones1@va.gov)
 	- Michael Ouslander (michael.ouslander@va.gov)
 	- Michael Rampton (michael.rampton@va.gov)
