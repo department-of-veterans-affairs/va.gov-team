@@ -63,11 +63,20 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles:
     - John Doe
-- [ ] Schedule a meeting for controlled testing
+- [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
+    - If opting for a meeting:
+        - [ ] note the date, start, and end time:
+    - If opting for asynchronous time:
+        - [ ] Note individual scheduled dates and times next to each identified user
+        - [ ] Note testing steps:
+            1. Login to your va.gov account
+            2. ...
+        - Share testing steps with each user
 - [ ] Set Flipper active for identified internal production users
 - [ ] Ensure qualitatively that the feature works as intended for users
 - [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
-- [ ] Monitor Sentry and DataDog logs for any anomalies
+- [ ] Monitor Sentry and DataDog logs for any anomalies, record below, create tickets if necessary
+    - Note any anomalies here:
 
 
 ## Phase II - Staged Rollout (also known as unmoderated production testing)
