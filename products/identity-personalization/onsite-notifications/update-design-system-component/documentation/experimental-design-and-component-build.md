@@ -54,7 +54,7 @@ Note to dev: pull in the latest changes on main, then run yarn install to make s
 
 ### Timeline (2023)
 
-| Date | x|
+| Date | Details |
 |--|--|
 | 3/29 | AJ [pings **#platform-design-system** team on Slack](https://dsva.slack.com/archives/C01DBGX4P45/p1680118181355759) that we're starting to build the component |
 | 4/3 | Notification design sync with Patrick Bateman (health care products [office of cto / usds / depo]), Matt D (OCTO/Platform - Product Owner & Designer for Design System & Forms System [USDS]), Coulton Bunney (VA/OCTO - Design Lead - Health Care Apartment) |
@@ -73,6 +73,13 @@ Note to dev: pull in the latest changes on main, then run yarn install to make s
 | 6/12 | Started work on replacing current Notification component (on staging.va.gov/my-va) with new `va-notification` (coming from CL) |
 
 Tip for dev: need to rebuild stencil: `yarn build` (&& `yarn build-bindings` to be safe?) in /web-components/
+
+### Recommendstions going forward
+- Set up [`component-library` repo](https://github.com/department-of-veterans-affairs/component-library) locally
+- Start component work directly on the `component-library` repo, instead of duplicating work on `vets-website` AND `component-library`
+- Time work so your work can be released before **DST's** sprint ends.
+  - Make sure your PR is reviewed, approved, and merged before EOD Tuesday before their end of sprint
+  - Keep an eye out on their [release changelogs](https://github.com/department-of-veterans-affairs/component-library/releases), and the #platform-design-system Slack channel to get latest updates 
  
 ### Resources
 - [Contributing](https://design.va.gov/about/developers/contributing) (VA Design System)
