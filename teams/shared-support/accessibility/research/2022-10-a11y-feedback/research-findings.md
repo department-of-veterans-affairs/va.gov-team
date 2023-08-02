@@ -4,11 +4,12 @@
 These findings were checked by the following participants:
 - Tim Hornik (Chief of Staff BVA)
 - Michael, Ian, and Aubrey (Contact Center and Medallia Team)
+- Cindy Merrill (Researcher)
 
 We informed the following, but have not received any additional feedback from:
 - The Section 508 office
 - VEO 
-- Brea and Cindy (researchers)
+- Brea (VA Mobile designer)
 
 ## Goals
 Our goal is to establish a process to collect a11y feedback from the public. In order to accomplish this goal, we need to…
@@ -20,7 +21,7 @@ Our goal is to establish a process to collect a11y feedback from the public. In 
 ### A note on this research's limitations ⚠
 As we can only append to existing studies or rely on secondary research and key informants, we are limited in who and how we sample. In other words, any insights from this research cannot be established as broader, representative patterns. They can only be interpreted as localized events. For example, if we hear that several Veterans are using the Medallia feedback button, we cannot assume that it is representative of all disabled Veterans, but we can conclude that some Veterans are using it and fund more time into investigating it further.
 
-Furthermore, this research critically _does not_ include caretakers and family members of disabled Veterans (who may have disabilities themselves). As we note in our next steps, we strongly recommend including them in future iterations of this research.
+Furthermore, this research critically _does not_ include caregivers and family members of disabled Veterans (who may have disabilities themselves). As we note in our next steps, we strongly recommend including them in future iterations of this research.
 
 > [Read more on risk, assumptions, and constraints of this study here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#constraints-assumptions-and-risks) We further break down risk for each method used in the full details below.
 
