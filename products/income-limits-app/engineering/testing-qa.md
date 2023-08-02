@@ -122,22 +122,22 @@ Both utilities are thoroughly unit tested [here](https://github.com/department-o
 
 There is a comprehensive [Cypress test suite](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/income-limits/tests/income-limits.cypress.spec.js). It tests the following scenarios:
 
-Navigation through the entire current flow forward and backward
-Navigation through the entire past flow forward and backward
-Clicking Edit for Year on the Review page
-Clicking Edit for Zip Code on the Review page
-Clicking Edit for Dependents on the Review page
-Validation of correct data on the Results page for standard flow
-Validation of correct data on the Results page for non-standard (AKA Jonesboro) flow
-Year page form validation
-Zip Code page form validation
-Dependents page form validation
-Zip code validation - correct display of service errors
-Results validation - correct display of service error when year is invalid
-Results validation - correct display of service error when zip code is invalid
-Results validation - correct display of service error when dependents are invalid
-Results validation - correct display of service error when the service times out
-Deep linking prevention - user attempts to link to a part of the form before filling out inputs that precede it
+1. Navigation through the entire current flow forward and backward
+2. Navigation through the entire past flow forward and backward
+3. Clicking Edit for Year on the Review page
+4. Clicking Edit for Zip Code on the Review page
+5. Clicking Edit for Dependents on the Review page
+6. Validation of correct data on the Results page for standard flow
+7. Validation of correct data on the Results page for non-standard (AKA Jonesboro) flow
+8. Year page form validation
+9. Zip Code page form validation
+10. Dependents page form validation
+11. Zip code validation - correct display of service errors
+12. Results validation - correct display of service error when year is invalid
+13. Results validation - correct display of service error when zip code is invalid
+14. Results validation - correct display of service error when dependents are invalid
+15. Results validation - correct display of service error when the service times out
+16. Deep linking prevention - user attempts to link to a part of the form before filling out inputs that precede it
 
 **Cypress flakiness**
 As of 7/27/2023, the Cypress test is ignored in the pipeline, but all tests are passing locally. This is because there is a selector that is flaky and fails 4 out of 20 times. Instead of selecting the correct Income Limits element, it tries to select something in the global header. 16 out of 20 times this does not happen. To prevent blocking people from merging in, the tests are skipped for now. 
