@@ -51,6 +51,7 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
   ---
   - Status Code: 400
   - Body: (object): Invalid Patient and/or Appointment data
+    - `code` (string): check-in-failure
     - `errors` (string comma separated):
       - clinic-e-check-in-not-allowed
       - appointment-has-bad-status
