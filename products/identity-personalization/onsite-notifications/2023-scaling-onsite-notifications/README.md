@@ -11,7 +11,7 @@
 
 ### Roles
 
-[Please see the on-site notifications product outline for the current team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications#readme)
+[Please see the onsite notifications product outline for the current team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications#readme)
 
 ### Table of Contents
 
