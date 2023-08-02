@@ -34,13 +34,23 @@ Product | Link to product outline
 - Veterans no longer have to enter a minimum amount of information to change one piece of information
 
 ## Undesired User Outcomes
-- TBD
+- Veterans do not know they can update their information online
+- Veterans cannot find the places online that they can update their information
+- Veterans think they must update all of their information in order to update one piece of information
+- Veterans do not trust the VA with their personal (e.g. financial, dependent) information
+- Veterans do not trust the VA.Gov profile enough to enter personal information into it
 
 ## Desired Business Outcomes
-- TBD
+- Reduction in paper 10-10EZR forms being processed
+- Reduction in the number of help desk calls to update basic information
+- Reduction in the time spent by frontline staff during pre-check-in updating Veteran information
+- Veterans saving time by updating their information online
 
 ## Undesired Business Outcomes
-- TBD
+- Veterans not knowing about the ability to update information online
+- Veterans believing that they can _only_ update their information online
+- Duplication of record changes (e.g. paper form and online) by Veterans due to confusion
+- Inability to process online information changes the same way paper forms are processed
 
 ---
 ## Measuring Success
