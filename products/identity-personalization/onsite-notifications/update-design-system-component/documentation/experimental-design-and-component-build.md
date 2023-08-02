@@ -79,7 +79,8 @@ Tip for dev: need to rebuild stencil: `yarn build` (&& `yarn build-bindings` to 
 - Start component work directly on the `component-library` repo, instead of duplicating work on `vets-website` AND `component-library`
 - Time work so your work can be released before **DST's** sprint ends.
   - Make sure your PR is reviewed, approved, and merged before EOD Tuesday before their end of sprint
-  - Keep an eye out on their [release changelogs](https://github.com/department-of-veterans-affairs/component-library/releases), and the #platform-design-system Slack channel to get latest updates 
+  - Keep an eye out on their [release changelogs](https://github.com/department-of-veterans-affairs/component-library/releases), and the #platform-design-system Slack channel to get latest updates
+- DST doesn't host office hours anymore, but they are willing to meet when they are available. (We met with them during their standup meeting time)
  
 ### Resources
 - [Contributing](https://design.va.gov/about/developers/contributing) (VA Design System)
