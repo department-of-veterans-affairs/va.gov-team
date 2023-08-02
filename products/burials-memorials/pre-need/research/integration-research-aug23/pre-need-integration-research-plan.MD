@@ -160,15 +160,12 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Catherine Hughes, hughes_catherine@bah.com; Michelle Dieudonne Yenyo, dieudonneyenyo_michelle@bah.com
 - Participant(s) for pilot test: Kenneth Santiago, santiago_kenneth@bah.com
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	None
-- Note-takers: Perigean
-- Observers (limiting 3-4 of the following per session): 
+- Note-takers: Carly Yamrus, yamrus_carly@bah.com
+- Observers (limiting 3-4 of the following people per session): 
 	- Catherine Hughes (hughes_catherine@bah.com)
 	- Rhonda Jones (rhonda.jones1@va.gov)
-	- Michael Ouslander (michael.ouslander@va.gov)
-	- Michael Rampton (michael.rampton@va.gov)
+	- Sathish Kadiresan (sathish.kadiresan@va.gov)
 	- Michelle Dieudonne Yenyo (dieudonneyenyo_michelle@bah.com)
-	- Carly Yamrus (yamrus_carly@bah.com)
 	- Kelby Stewart (stewart_kelby@bah.com)
 	- Laura Willwerth (l.willwerth@bloomworks.digital)
-	- Randi Hecht (r.hecht@bloomworks.digital)
 	- Aliyah Blackmore (a.blackmore@bloomworks.digital)
