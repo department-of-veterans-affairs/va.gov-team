@@ -87,7 +87,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 ### Assumptions/Risks
 
 - **Value Risks** (will people use it): 
-  - TBD
+  - Will Veterans use this? Will Veterans who need to update their information want to do so online, or will they only want to do so via phone, mail, and in person?
+  - Will enough Veterans use this to justify the expenditure?
 - **Usability Risks** (can people figure out how to use it):
   - v
 
