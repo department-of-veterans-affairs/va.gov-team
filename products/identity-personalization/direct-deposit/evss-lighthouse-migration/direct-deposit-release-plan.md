@@ -2,7 +2,7 @@
 # Release Plan - Direct Deposit Comp & Pen Migration from EVSS to Lighthouse
  [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration#readme)
 
-Last updated: 7/26/2023
+**Last updated: 08/02/2023**
 
 ## Table of contents
 
