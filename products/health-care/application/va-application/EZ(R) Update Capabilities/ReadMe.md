@@ -90,13 +90,23 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
   - Will Veterans use this? Will Veterans who need to update their information want to do so online, or will they only want to do so via phone, mail, and in person?
   - Will enough Veterans use this to justify the expenditure?
 - **Usability Risks** (can people figure out how to use it):
-  - v
+  - Will Veterans know that they can now update their information online?
+  - Knowing they can update their information online, will Veterans choose to do this, or will they continue paper/phone/in person? Note: We believe this to be the largest risk for this initiative. We will work with both the groups who currently work to update this information, as well as other projects who have brought paper functionality online to do our best to notify Veterans that they can now update their information online. We believe that if this initiative is not successful it will be due in large part to our inability to reach Veterans who would want to update this information online. 
 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - TBD
+  - Can we set up an API with VES to send and receive EZR information?
+  - What required fields will be needed by VES to update a Veteran’s information akin to a paper EZR?
+  - Will online information changes behave the same as a paper EZR change?
+  - What are the downstream effects of changing this information? How is this information used to process a Veteran into a Priority Group? Is there anything we need to do to ensure this process works?
+  - What external systems (e.g. IRS, SSA) does VES interface with to make determinations of a Veteran’s information? Do we need to do anything with these third-party applications?
+  - Will having this information online (e.g. in the va.gov profile) impact site performance?
+
+
+
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - TBD
+  - This should help OCTO-CIO by providing another thing for Veterans to do online
+  - This should help stakeholder relationships as it should reduce the number of paper EZRs processed, the number of phone calls to update information, and the number of Veterans who need to update their information during pre check in.
 
 
 ### Solution Summary
