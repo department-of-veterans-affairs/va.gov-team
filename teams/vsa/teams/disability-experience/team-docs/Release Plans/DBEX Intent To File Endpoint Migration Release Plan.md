@@ -60,6 +60,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - [ ] Have PO(s) been made aware and approved of the plan? 
 
 ### Canary
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63007
 - [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles:
     - John Doe
@@ -72,16 +73,18 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
             1. Login to your va.gov account
             2. ...
         - [ ] Share testing steps with each user
-- [ ] Set Flipper active for identified internal production users
+- [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
 - [ ] Ensure qualitatively that the feature works as intended for users
 - [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
 - [ ] Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
     - Note any anomalies here:
 
+<br>
 
 ## Phase II - Staged Rollout (also known as unmoderated production testing)
 ### Metrics
-How will you make the product available in production while limiting the number of users who can find/access it: Flipper toggle 
+How will you make the product available in production while limiting the number of users who can find/access it: [Flipper Dashboard](https://api.va.gov/flipper/features)
+<br>
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
 - Ensure relative traffic lines up between eVSS and LH to the given allotment in Flipper
 - Ensure Sentry errors remain constant across batches
