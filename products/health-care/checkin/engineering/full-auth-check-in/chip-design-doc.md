@@ -149,7 +149,7 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
   - Status Code: 200 OK
   - Body (object): The updated demographicConfirmations object
     - `id` (string): PatientDfn
-    - `type` (string): 'PatientDemographicsStatusResponse'
+    - `type` (string): 'patientDemographicsStatusResponse'
     - `contactNeedsUpdate` (boolean)
     - `contactConfirmedAt` (date)
     - `emergencyContactNeedsUpdate` (boolean)
