@@ -103,11 +103,11 @@ Let’s start with a few warm-up questions.
 
 ### Things to watch for:
 - [How do Veterans describe their awareness of benefits? Confident, unsure, frustrated?]
-- [Do Veterans consistenly rely on word of mouth or a variety of in person resources to understand their health care benefits?]
-[Do Veterans' confidently know their Priority Group and what that means to them and their benefits?]
-[What is the current process and experience around Priority Groups?]
-[What are the knowledge gaps around Priority Groups and health care costs?]
-[What things would Veterans like to see or like to change in regards to Priority Groups?]
+- [Do Veterans consistently rely on word of mouth or a variety of in person resources to understand their health care benefits?]
+- [Do Veterans' confidently know their Priority Group and what that means to them and their benefits?]
+- [What is the current process and experience around Priority Groups?]
+- [What are the knowledge gaps around Priority Groups and health care costs?]
+- [What things would Veterans like to see or like to change in regards to Priority Groups?]
 
 
 
@@ -131,7 +131,7 @@ Let’s start with a few warm-up questions.
 
 ## Fifth Topic: [Current paper instructions] - 10 minutes
 - For this next topic, I am going to share my screen and show you an example of instructions that appear on the health care benefits application.
-- Can you explain to me in your own words, what these options mean and how they are differnet?
+- Can you explain to me in your own words, what these options mean and how they are different?
 - Which one would you select and can you explain to me your thinking behind that?
 - Is there anything about these instructions that you find confusing or need more explanation before you could answer?
 
@@ -144,7 +144,7 @@ Let’s start with a few warm-up questions.
 ### Things to watch for:
 - [What are the scenarios or examples given to why registration would be the preferred choice?]
 - [Is selecting both options a common answer?]
-- [What words and terms to participants use whent they are explaining the differences?]
+- [What words and terms to participants use when they are explaining the differences?]
 - [Is there often confusion to what to choose and what that means to them and their health care benefits?]
 
 
