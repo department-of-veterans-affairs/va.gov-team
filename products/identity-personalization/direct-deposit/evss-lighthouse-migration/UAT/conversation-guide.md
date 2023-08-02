@@ -4,7 +4,7 @@
 - Check participant information to see what types of login(s) credentials they may have (Login.gov, ID.me, DS Logon, MyHealtheVet).
 
 ## Introduction - 2 minutes
-Thanks for joining us today! My name is Pam. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need as quickly and easily as possible. 
+Thanks for joining us today! My name is Pam. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily. 
 
 What I hope to do today is get your help in testing some technical changes we’ve made to the website. The changes we have made aren’t something anyone can see on the screen, but with your help we will be able to check whether we’ve set everything up correctly.
 
