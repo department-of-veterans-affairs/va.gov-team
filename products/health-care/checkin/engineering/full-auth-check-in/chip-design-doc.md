@@ -47,22 +47,20 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
   - Status Code: 200 OK
   - Body (object): The Response Object which contains the following fields
     - `code` (string): check-in-success
-    - `message` (string): Check-In successful
+    - `message` (string): Check-in success with appointmentIen: ${appointmentIen}, patientDfn: ${patientDfn}, stationNo: ${stationNo}
   ---
   - Status Code: 400
-  - Body: (object): The demographics information needs to be confirmed
-    - `code` (string): invalid-demographics
-    - `message` (string): A list of demographics that need to be confirmed. ie. Patient Information, Emergency Contact, Next-of-Kin
-  ---
-  - Status Code: 400 
-  - Body (object): The Insurance information is missing/needs to be updated Response Object which contains the following fields
-    - `code` (string): invalid-insurance
-    - `message` (string): Insurance needs to be validated
-  ---
-  - Status Code: 400
-  - Body (object): Invalid appointment object with the following fields
-    - `code` (string): invalid-appointment
-    - `message` (string): Details specific reasons the appointment is invalid (too-early, too-late, e-check-in-not-enabled, invalid-status, invalid-type)
+  - Body: (object): Invalid Patient and/or Appointment data
+    - `errors` (array):
+      - clinic-e-check-in-not-allowed
+      - appointment-has-bad-status
+      - appointment-check-in-too-early
+      - appointment-check-in-too-late
+      - patient-contact-info-needs-update
+      - patient-emergency-contact-needs-update
+      - patient-next-of-kin-needs-update
+      - patient-insurance-needs-update
+    - `message` (string): Check-in unsuccessful with appointmentIen: ${appointmentIen}, patientDfn: ${patientDfn}, stationNo: ${stationNo}
 
 ### Demographics
 
