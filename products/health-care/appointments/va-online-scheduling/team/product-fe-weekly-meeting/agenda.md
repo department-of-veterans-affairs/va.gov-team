@@ -1,6 +1,17 @@
 # Appointments Team Weekly Agenda
 
 <details>
+<summary>August 2, 2023</summary>
+
+## Agenda
+
+### Topics
+
+- [P] Run through PBS research plan
+ 
+</details>
+
+<details>
 <summary>July 21, 2023</summary>
 
 ## Agenda
