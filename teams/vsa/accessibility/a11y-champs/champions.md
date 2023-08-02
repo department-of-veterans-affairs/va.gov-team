@@ -4,16 +4,19 @@
 
 ### Members, Level 1
 - **Rocio De Santiago**, Front end developer on Benefits Decision Reviews
-- **Kate Murphy**, Product Designer | Disability Benefits Experience 2, Non-disability benefits experience, Dependents experience
-- **Charlotte Cesana**, Debt Resolution, Senior UX Researcher
+- **Cara Frissell**, Research Lead for the Cartography team
+- **Ruben Sun**, UX researcher and designer on Benefits Team 1
+- **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team ✔️
+- **Jonathan Nelson**, UX designer on the MHV to VA.gov team ✔️
+- **Heather Widmont**, Scrum Master VA Benefits Team 1 ✔️
+- **Skyler Schain**, UX designer on Benefits ✔️
+- **Scott Mericle**, UX designer on Lighthouse ✔️
+- **Joseph Lee**, Product designer on Debt Resolution ✔️
+- **Charlotte Cesana**, Debt Resolution, Senior UX Researcher ✔️
+- **Clayton Zook**, Researcher on Core Identity Team ✔️
+- **Tyler Gindraux**, Researcher on AskVA ✔️
 
 ### Testers, Level 2
-- **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team 
-- **Jonathan Nelson**, UX designer on the MHV to VA.gov team
-- **Heather Widmont**, Scrum Master VA Benefits Team 1
-- **Skyler Schain**, UX designer on Benefits
-- **Scott Mericle**, UX designer on Lighthouse
-- **Joseph Lee**, Product designer on Debt Resolution
 
 ### Advocates, Level 3
 
@@ -59,6 +62,9 @@
 **Jamie Klenetsky Fay**, Accessibility and Content Specialist on CAIA
 - jamie.klenetsky@coforma.io
 - Can answer questions about semantic HTML, content accessibility, general accessibility best practices
+
+ **Kate Murphy**, Accessibility Specialist on CAIA
+ - kate@coforma.io
   
 ## VA Sponsor
 **Martha Wilkes**, OCTO Accessibility Strategist
