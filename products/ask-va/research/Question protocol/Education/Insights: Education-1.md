@@ -1,8 +1,6 @@
 # Insights: EDUCATION BUSINESS LINE #1
 *Ask VA Integration Team, August 2023*
 
-Last updated by @tygindraux: August 2, 2023
-
 ## Agenda
 
 - Review form fields: 50 minutes
