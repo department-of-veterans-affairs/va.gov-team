@@ -380,6 +380,9 @@ _When participant clicks on the green button to apply, repeat the scenario:_
         - _Things to watch for:_
             - How do users react with applicant address/contact page being moved to this new location?
 - **Step 3 of 7: Sponsor information**
+    - **Applicant's sponsor**
+        - _Should select YES, that they're the sponsor here._
+        - Do they have any confusion with the sponsor terminology?
     - **Sponsor details**
         - What are your thoughts regarding whose details you'll need to provide here? 
     - **Sponsor's mailing addresss/contact details**
