@@ -12,7 +12,7 @@ Agenda
 - Slides - [Sprint 76 - VA Mobile App Demo.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12243277/Sprint.76.-.VA.Mobile.App.Demo.pdf
 
 - Video
-  - Documenting current state analytics: log-in success/failure: https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/1292861e-51fe-4abb-b675-7a6ffd8a8706
+  - No video as the official host was absent
 
 ---  
 **Demo Sprint 73 6/21/23** 
