@@ -105,10 +105,10 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage A: Monitoring phase 
 #### Planning  
-Date Started: 
-ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62957
-Length of time: 1 week
-Percentage of Users (and roughly how many users do you expect this to be): 0.5%
+- Date Started: 
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov--team/62957
+- Length of time: 1 week
+- Percentage of Users (and roughly how many users do you expect this to be): 0.5%
 #### Results:  
 - New Sentry Errors: 
 - Unsuccessful test cases: 
@@ -122,10 +122,10 @@ Percentage of Users (and roughly how many users do you expect this to be): 0.5%
 
 ### Stage B: Moderate ramp up
 #### Planning  
-Date Started: 
-ZH Tracking:
-Length of time: 
-Percentage of Users (and roughly how many users do you expect this to be): 5% 
+- Date Started: 
+- ZH Tracking:
+- Length of time: 
+- Percentage of Users (and roughly how many users do you expect this to be): 5% 
 #### Results:  
 - New Sentry Errors: 
 - Unsuccessful test cases: 
@@ -139,10 +139,10 @@ Percentage of Users (and roughly how many users do you expect this to be): 5%
 
 ### Stage C: Another moderate ramp up
 #### Planning
-Date Started: 
-ZH Tracking:
-Length of time: 
-Percentage of Users (and roughly how many users do you expect this to be): 10% 
+- Date Started:
+- ZH Tracking:
+- Length of time: 
+- Percentage of Users (and roughly how many users do you expect this to be): 10% 
 #### Results  
 - New Sentry Errors: 
 - Unsuccessful test cases: 
@@ -155,10 +155,10 @@ Percentage of Users (and roughly how many users do you expect this to be): 10%
 
 ### Stage D: Final moderate ramp up
 #### Planning  
-Date Started: 
-ZH Tracking:
-Length of time: 
-Percentage of Users (and roughly how many users do you expect this to be): 25% 
+- Date Started:
+- ZH Tracking:
+- Length of time:
+- Percentage of Users (and roughly how many users do you expect this to be): 25% 
 #### Results  
 - New Sentry Errors: 
 - Unsuccessful test cases: 
@@ -171,10 +171,10 @@ Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 ### Stage E: High traffic
 #### Planning
-Date Started: 
-ZH Tracking:
-Length of time: 1 week
-Percentage of Users (and roughly how many users do you expect this to be): 50% 
+- Date Started:
+- ZH Tracking:
+- Length of time: 1 week
+- Percentage of Users (and roughly how many users do you expect this to be): 50% 
 #### Results  
 - New Sentry Errors: 
 - Unsuccessful test cases: 
@@ -187,8 +187,8 @@ Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 - [ ] Complete
 ### Stage F: Go Live!
-Date Started: 
-Percentage of Users (and roughly how many users do you expect this to be): 100% 
+- Date Started: 
+- Percentage of Users (and roughly how many users do you expect this to be): 100% 
 #### Results  
 - New Sentry Errors: 
 - Unsuccessful test cases: 
