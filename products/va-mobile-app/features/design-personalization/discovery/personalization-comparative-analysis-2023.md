@@ -441,16 +441,20 @@ The apps we reviewed used three high-level patterns to display personalized and 
 
 #### Do well:
 
-1. Home screens display a high level snapshot of the user’s interactions made up of a list of permanent feature modules (displaying high level feature data, changing statuses and action items).
-    * Personalized and contextual information is displayed first on the screen and is distinguished visually from non-personalized features and marketing messages that appear lower.
-    * Apps combine fixed and variable personalized info to ensure that they feel personalized even when there aren’t critical action items to complete. 
-2. Our app has features that are both status and location based.
-    * Most of the apps containing features with a changing status used a consistent module placement on their home screen (and group high-level feature data, variable statuses and critical action items when necessary). This is an accessible way to give a bird’s eye view of the user’s interactions and bubble up what’s most important at any given time without cognitive overload.
-        * They distinguish between critical action items and non-critical action items within the same module using type hierarchy. Emphasis is on always on action, when available. 
-        * It’s also a solution that could be implemented in phases over time (start with consistent module showing high-level feature data or indicating a status change).
-   * The apps containing features with an in-person element use display logic leveraging current location to show newly-relevant tools and information in those contexts, and make use of the free space in intentional ways when those elements are not present (for example, an airline app promoting possible travel ideas to the user on a non-travel day).
+1. Many home screens display a **high-level snapshot of the user’s current status and interactions**, typically made up of a list of permanent feature modules (displaying high level feature data, changing statuses and action items).
+    * Apps **combine fixed and variable personalized info** to ensure that they feel personalized even when there aren’t critical action items to complete.
+       * **Personalized and contextual information is displayed first** on the screen and is distinguished visually from non-personalized features by appearing higher in the visual hierarchy as well as physically higher on the screen.
+       * **Variable** personalized content (like an account balance or flight status) is given more emphasis in the visual hierarchy than static personalized content (like a name or account number).
+
+2. Most of the apps containing features with a changing status used a **fixed module or category placement** on their home screen (and group high-level feature data, variable statuses and critical action items when necessary).
+    * Using fixed modules/sections (as opposed to modules or sections that disappear) is an accessible way to give a bird’s eye view of the user’s interactions with a feature and bubble up what’s most important at any given time wihtout "moving their cheese".
+    * Modules distinguish between critical action items and non-critical action items within the same module using type hierarchy. **Emphasis is on always on action**, when it's available. 
+    * **Level of personalization within fixed module content can vary**: some apps show only high-level feature data while other add buttons or messages to indicate a status change).
+
+3. The apps containing features with an **in-person element** use display logic leveraging **current location** to show newly-relevant tools and information in those contexts, and make use of the free space in intentional ways when those elements are not present (for example, an airline app promoting possible travel ideas to the user on a non-travel day).
      * That said, given our current feature set, location is less powerful than time & status.
-4. Apps that had a notification center/inbox did not display it on the homescreen, they located it as a feature in the primary or secondary navigation. 
+
+4. In most apps that include it, the **notification center/inbox is treated as a feature in the primary or secondary navigation** rather than a module on the homescreen. 
     * This leaves the home screen free to display a high level snapshot/to-do list made up of permanent feature modules (displaying changing statuses and action items) without duplicating content between the modules and the notifications.
 
 
