@@ -8,19 +8,19 @@ Period - 07/19/2023 - 08/1/2023
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - Rateddisabilities - changed to ITF
-            - [ ] Complete Release Plan with roll back plan
+            - [X] Complete Release Plan with roll back plan
             - [ ] Start staggered release - timeboxed tickets to monitor the release and fix issues as they occur 
         - Submit 
-            - [ ] Abstract calls to submit endpoint
+            - [X] Abstract calls to submit endpoint
             - [ ] Start endpoint migration - Document Service
             - [ ] Start endpoint migration - Claims Service
 - **Features**
    - Intro page changes and 526ez current with paper form
-      - [ ] Intro pages - Research shareout
+      - [X] Intro pages - Research shareout
       - [ ] Toxic Exposure screens - Start Research Plan
-      - [ ] Toxic Exposure screens - Design - Updates based on Midpoint review and VBA stakeholder review
+      - [X] Toxic Exposure screens - Design - Updates based on Midpoint review and VBA stakeholder review
 - **Analytics**
-  - [ ] Tech dicovery for custom tags in 526ez for Google Analytics - Engineering
+  - [X] Tech dicovery for custom tags in 526ez for Google Analytics - Engineering
   - [ ] Send data request to VBA - Research
         
 - **Tech Debt**
