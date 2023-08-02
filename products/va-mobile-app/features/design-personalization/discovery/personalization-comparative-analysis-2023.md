@@ -446,8 +446,7 @@ The apps we reviewed used three high-level patterns to display personalized and 
        * **Personalized and contextual information is displayed first** on the screen and is distinguished visually from non-personalized features by appearing higher in the visual hierarchy as well as physically higher on the screen.
        * **Variable** personalized content (like an account balance or flight status) is given more emphasis in the visual hierarchy than static personalized content (like a name or account number).
 
-2. Most of the apps containing features with a changing status used a **fixed module or category placement** on their home screen (and group high-level feature data, variable statuses and critical action items when necessary).
-    * Using fixed modules/sections (as opposed to modules or sections that disappear) is an accessible way to give a bird’s eye view of the user’s interactions with a feature and bubble up what’s most important at any given time wihtout "moving their cheese".
+2. Most of the apps containing features with a changing status used a **fixed module or category placement** on their home screen (and group high-level feature data, variable statuses and critical action items when necessary) as opposed to modules or sections that appear/disappear when there's a status update. Holding the space with is an accessible way to reassure users that there are no new changes in way that simply omitting the module does not.
     * Modules distinguish between critical action items and non-critical action items within the same module using type hierarchy. **Emphasis is on always on action**, when it's available. 
     * **Level of personalization within fixed module content can vary**: some apps show only high-level feature data while other add buttons or messages to indicate a status change).
 
@@ -460,6 +459,6 @@ The apps we reviewed used three high-level patterns to display personalized and 
 
 #### We can do better:
 
-1. The “feed” direction combining timely actionable items from various features, essential status updates, confirmation messages and general messages from the app followed by feature promotions felt overwhelming. (example: MyChart)
-2. General contextual information that is based on time (displaying today’s date or a greeting like “good afternoon”) wasn’t obviously useful, and seemed either superfluous or crowding the available space. (example: State Farm, USAA, Chase)
-3. Some apps mixed promotional/marketing content with personalized content, burying features (example: Walgreens)
+1. In the “feed” direction (example: MyChart), the combined a mix of critical action items from various features, essential status updates, confirmation messages and general messages from the app—followed by feature promotions and the lack of variation in visual treatment between modules makes it **difficult to differentiate between critical and non-critical** action items.
+2. **General contextual information that is based on time** (displaying today’s date or a greeting like “good afternoon”) wasn’t obviously useful, and seemed either superfluous or crowding the available space. (example: State Farm, USAA, Chase)
+3. Some apps **mixed promotional/marketing content with personalized content in the screen's order**, pushing personalized content lower down on the screen (example: Walgreens) and making it less discoverable.
