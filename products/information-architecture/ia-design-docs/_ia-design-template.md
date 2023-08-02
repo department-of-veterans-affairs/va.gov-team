@@ -14,67 +14,60 @@
 - [Meeting notes](#notes)
 
 
-###### User/Page Flow:
-
-Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1679086662310/cbe41468d45afc03206a3d0a7f6b979517c523d8?wid=0-1689953198747)
-
+## <a name="flows"></a>User/page flows <br>
+*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-<!--H6 not demoted to H7. -->
-
-
-###### Page Structure: 
+## <a name="map"></a>Page structure<br>
+*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+## <a name="url"></a>URLs and breadcrumbs
+*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
 
-![alt_text](images/image2.png "image_tooltip")
+**1) [Page name] - [Existing/New]**
+- URL:
+- Breadcrumb: 
+- Notes: 
+
+**2) [Page name] - [Existing/New]**
+- URL:
+- Breadcrumb: 
+- Notes: 
 
 
-<!--H6 not demoted to H7. -->
+## <a name="nav"></a>Entry points <br>
+*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
 
-###### URL and breadcrumbs:
+1. **[Page URL or component name]** - [Add/Modify/Remove]
+  - Placement description: 
+  - Link label: 
+  - Link destination: 
+  - Notes: 
+
+2. **[Page URL or component name]** - [Add/Modify/Remove]
+  - Placement description: 
+  - Link label:
+  - Link destination: 
+  - Notes: 
+ 
+
+## <a name="redirects"></a>Redirects <br>
+*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
 
 
-
-1. Order CPAP Devices - New
-* URL: va.gov/health-care/[H1 TBD by content]
-* Breadcrumb: Home > Healthcare > [H1 TBD by content]
-* Notes: Let’s use whatever the content team decides for the H1 to match as closely as possible with breadcrumb and url, but it will probably be something like /order-CPAP
-
-<!--H6 not demoted to H7. -->
-
-
-###### Entry points:
-
-
-
-1. Left Nav - Add
-* Placement description: In ‘Manage Benefits’ between ‘Order hearing aid batteries and accessories’ and ‘Order prosthetic socks’
-* Link label: [TBD by content]
-* Link destination: va.gov/health-care/[H1 TBD by content]
-
-<!--H6 not demoted to H7. -->
-
-
-###### Redirects:
-
-No redirects, since this is a new page. 
-
-Next IA steps for product team:
+Current URL | Redirect to | Notes
+--- | --- | ---
+ |  | 
+ 
 
 
 
-1. Add new CPAP page + content
-2. Add CPAP entry point to left nav
-3. Add CPAP questions to hearing aid form to combine them
-4. Update find-a-form page to include CPAP
+
+<hr>
+<hr>
+
+## <a name="notes"></a>Meetings notes and background info
