@@ -1,5 +1,5 @@
 # Household section optimization - Release Plan 
-- Last updated 07/28/2023
+- Last updated 08/02/2023
 
 
 ## Step 1: Development
