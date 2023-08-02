@@ -23,7 +23,7 @@ As we can only append to existing studies or rely on secondary research and key 
 
 Furthermore, this research critically _does not_ include caregivers and family members of disabled Veterans (who may have disabilities themselves). As we note in our next steps, we strongly recommend including them in future iterations of this research.
 
-> [Read more on risk, assumptions, and constraints of this study here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#constraints-assumptions-and-risks) We further break down risk for each method used in the full details below.
+> [Read more on risk, assumptions, and constraints of this study here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-10-a11y-feedback/research-findings.md#constraints-assumptions-and-risks) We further break down risk for each method used in the full details below.
 
 ### Inaccessibility of online digital feedback mechanisms may be preventing some disabled Veterans from using them  
 - 100% (5/5) of the digital methods of providing feedback to VA.gov that we audited had major accessibility issues <sup>[[1]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/research/2022-feedback/a11y-feedback-research-findings.md#key-insights--2)</sup>
