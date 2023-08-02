@@ -166,6 +166,7 @@ Please list the people who will be serving in each role. **Include the primary p
 	- Michael Ouslander (michael.ouslander@va.gov)
 	- Michael Rampton (michael.rampton@va.gov)
 	- Michelle Dieudonne Yenyo (dieudonneyenyo_michelle@bah.com)
+	- Carly Yamrus (yamrus_carly@bah.com)
 	- Kelby Stewart (stewart_kelby@bah.com)
 	- Laura Willwerth (l.willwerth@bloomworks.digital)
 	- Randi Hecht (r.hecht@bloomworks.digital)
