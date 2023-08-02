@@ -30,7 +30,7 @@ Period - 08/2/2023 - 08/15/2023
 Period - 07/19/2023 - 08/1/2023
 ### Sprint goals 
 - **Expedited**
-   - [ ] Bug - Make VAMC fields optional
+   - [ ] Bug - Make VAMC fields optional - on hold
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - Rateddisabilities - changed to ITF
