@@ -1,62 +1,54 @@
-# IA Design for [Product/page name]
+# IA Design for CPAP Ordering
 **STATUS: Complete**
 
-**Team:** [Team name]
+**Team:** Health Portfolio
 
-**IA Request:** Intake ticket
+**IA Request:** https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/61624
 
 **On this page:**
 - [User/page flows](#flows)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
-- [Redirects](#redirects)
-- [Meeting notes](#notes)
-
 
 
 ## <a name="flows"></a>User/page flows <br>
+*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
 
-Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1679086662310/cbe41468d45afc03206a3d0a7f6b979517c523d8?wid=0-1689953198747)
+For some reason I can't upload screenshots right now, but you can see the IA work and decision points by command+F searching for CPAP in this mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1679086662310/cbe41468d45afc03206a3d0a7f6b979517c523d8?wid=0-1689953198747&sender=ua67f17f1c416a96ea04d2476
 
-![](https://lh3.googleusercontent.com/Nw92t0JpyN0gU3WbeWiAj7jpHOq8cOl_h6MCpDBPKnP9sR1_aBgY8xQUtkSTKTG0JU0s4FUxVhOZIsVxAy1l4fOZTDk2I45sG4Rl2YRAg_9tmIVuOKguhigqsFpJXemJgxjWvTsdEfQoFg7kY4R7T6o)
 
 ## <a name="map"></a>Page structure<br>
+*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
-![](https://lh5.googleusercontent.com/7wxR-0v5ShWXYzV8m4mdqU-JNkOqwKuf3UoVBq8ZXhAaCEM3kNwsKfuLtp2dg3Sfuerxog5N9w2JVNjBUgKW5X0CUHYePjGWMGM0osg9qhV9tTn1YDJ2xjYItZ_JNqpqMMhPyHf0xILmIsQdExpPLe4)
+For some reason I can't upload screenshots right now, but you can see the page structure by command+F searching for CPAP in this mural sitemap: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1666882559766/ada92d293c76f3d61c71d3f2421c7f160f3648a8?sender=ua67f17f1c416a96ea04d2476
 
 ## <a name="url"></a>URLs and breadcrumbs
+*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
+
 
 **1) [Order CPAP Devices] - [New]**
+- URL: va.gov/health-care/[H1 TBD by content]
+- Breadcrumb: Home > Healthcare > [H1 TBD by content]
+- Notes: Let’s use whatever the content team decides for the H1 to match as closely as possible with breadcrumb and url, but it will probably be something like /order-CPAP
 
--   URL: va.gov/health-care/[H1 TBD by content]
-
--   Breadcrumb: Home > Healthcare > [H1 TBD by content]
-
--   Notes: Let's use whatever the content team decides for the H1 to match as closely as possible with breadcrumb and url, but it will probably be something like /order-CPAP
 
 ## <a name="nav"></a>Entry points <br>
+*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
 1. **[Left Nav]** - [Add]
-
--   Placement description: In 'Manage Benefits' between 'Order hearing aid batteries and accessories' and 'Order prosthetic socks'
-
--   Link label: [TBD by content]
-
--   Link destination: va.gov/health-care/[H1 TBD by content]
-
-## <a name="redirects"></a>Redirects <br>
-
-No redirects, since this is a new page.
-
+  - Placement description: In ‘Manage Benefits’ between ‘Order hearing aid batteries and accessories’ and ‘Order prosthetic socks’
+  - Link label: [TBD by content]
+  - Link destination: va.gov/health-care/[H1 TBD by content]
+  - Notes: 
 
 Next IA steps for product team:
+- Add new CPAP page + content
+- Add CPAP entry point to left nav
+- Add CPAP questions to hearing aid form to combine them
+- Update find-a-form page to include CPAP
 
-1.  Add new CPAP page + content
 
-2.  Add CPAP entry point to left nav
-
-3.  Add CPAP questions to hearing aid form to combine them
-
-4.  Update find-a-form page to include CPAP
+<hr>
+<hr>
 
