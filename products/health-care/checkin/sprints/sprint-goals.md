@@ -47,7 +47,7 @@ ________________________________________________________________________________
                 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Revisit adding travel confirmation into h1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59165)
                 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [UX] Update the travel pay confirmation page to avoid using 2 sentences](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59121)
         - **EPIC: [Unified Check-in Enhancements - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60971)**
-            - [[AFTER RESEARCH] Add annotations for when to announce alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59118)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Add annotations for when to announce alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59118)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62848)    
