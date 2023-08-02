@@ -3,7 +3,13 @@
 
 ## Outcome Summary
 
-TBD
+Ability for a Veteran to update some of their information online–namely contact, demographic, financial, dependent, and health insurance.
+Related/Associated product(s)
+10-10EZR PDF
+VA.Gov Profile
+
+Product | Link to product outline
+
 
 
 **Related/Associated product(s)**
