@@ -267,8 +267,8 @@ We conducted several key informant interviews with folks who may have expert kno
 
 **The primary call center is My VA 411 (800-698-2411).** There’s also a White House national hotline. When a Veteran calls the number and reaches an operator, they’ve reached tier 1 support. If their issue cannot be resolved, it is escalated to tier 2 which is the contact center team. If it cannot be resolved there, it becomes tier 3 which is often for technical issues like editing the markup of the website.
 - We’re not sure how the TTY number is handled nor how accessibility issues are triaged.
-- Tier 1 agents can log calls in salesforce, but the interface is difficult to search.
-Many issues found within salesforce at a glance appear to be home related accessibility issues (as opposed to digital website issues). 
+- Tier 1 agents can log calls in Salesforce, but the interface is difficult to search.
+Many issues found within Salesforce at a glance appear to be home related accessibility issues (as opposed to digital website issues). 
 - jkwon@thesocompany.com noted there’s a possibility a11y feedback may stop at a tier 1 agent as the surface level problem may be addressed over call (reading out a data table) while still leaving the source of the issue unresolved (the data table itself is still inaccessible). Jae also asked…
   - How far (if at all) do disabled Veterans go to solve accessibility issues more permanently?
   - What is VA.gov doing to make it easy for users to submit issues?
@@ -286,7 +286,7 @@ Many issues found within salesforce at a glance appear to be home related access
 - [x] ian.mccullough@oddball.io to share any usability studies conducted with ask.va.gov
 - [x] Josh KIM to request shared support a11y team to do a cursory audit of ask.va.gov, the medallia feedback button, and the medallia intercept survey to determine if they meet or don’t meet Section 508 compliance
 - [x] Ian to send Josh code and instructions for intercept survey testing
-- [x] ian.mccullough@oddball.io to dig into salesforce data to examine for digital accessibility complaints or feedback regarding VA.gov.
+- [x] ian.mccullough@oddball.io to dig into Salesforce data to examine for digital accessibility complaints or feedback regarding VA.gov.
 
 #### Blocked ❌
 - [ ] Josh KIM to reach out to Laura to connect with Marlee (who trains call center agents) to ask about a11y, training docs, and if call center agents know how to reply to a11y requests.
@@ -336,7 +336,7 @@ Future research and work should explore:
 - What might the now, next, later look like to mediate this gulf in expectations, provide plain language transparency, or explore service level solutions?
 
 ### Tim Hornik (Blinded Veterans Association Chief of Staff)
-**Some disabled Veterans are providing feedback, but Tim hypothesizes many more may be sitting with inaccessible products.** Tim shared an anecdote of a social care worker who sent an email to the Section 508 office about the cerner patient portal. Without that social care worker’s relationship with the disabled Veteran and their intervention, the issue may have never been highlighted.
+**Some disabled Veterans are providing feedback, but Tim hypothesizes many more may be sitting with inaccessible products.** Tim shared an anecdote of a social care worker who sent an email to the Section 508 office about the Cerner patient portal. Without that social care worker’s relationship with the disabled Veteran and their intervention, the issue may have never been highlighted.
 
 **VEO historically has not considered the disabled Veteran experience**, despite being critical to collecting feedback. As an advocate, Tim requested VEO to have mechanisms and pathways for feedback both virtually and physically at VA centers in the past. This doesn’t appear to have been implemented.
 411 may be too overwhelmed to help. Tim noted that 411 call center employees may not have the time, training, and space to record accessibility feedback and forward it to the appropriate places to be fixed.
