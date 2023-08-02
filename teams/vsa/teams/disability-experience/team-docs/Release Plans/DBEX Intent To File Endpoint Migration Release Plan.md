@@ -101,7 +101,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
             Severity/Impact:
             Ticket(s) created to address:
             - [ ] Has the issue been resolved?
-
+<br>
 
 ### Stage A: Monitoring phase 
 #### Planning  
@@ -118,6 +118,8 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - New 499 Errors: 
 - Highest Latency:
 - Rollbacks:
+
+<br>
 
 
 ### Stage B: Moderate ramp up
@@ -136,6 +138,8 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - Highest Latency:
 - Rollbacks:
 
+<br>
+
 
 ### Stage C: Another moderate ramp up
 #### Planning
@@ -153,6 +157,9 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - Highest Latency:
 - Rollbacks:
 
+<br>
+
+
 ### Stage D: Final moderate ramp up
 #### Planning  
 - Date Started:
@@ -168,6 +175,9 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - New 499 Errors: 
 - Highest Latency:
 - Rollbacks:
+
+<br>
+
 
 ### Stage E: High traffic
 #### Planning
@@ -185,7 +195,9 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - Highest Latency:
 - Rollbacks:
 
-- [ ] Complete
+<br>
+
+
 ### Stage F: Go Live!
 - Date Started: 
 - Percentage of Users (and roughly how many users do you expect this to be): 100% 
@@ -198,6 +210,8 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - New 499 Errors: 
 - Highest Latency:
 - Rollbacks:
+
+<br>
 
 
 ## Post-launch Questions  
