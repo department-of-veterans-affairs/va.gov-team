@@ -63,18 +63,18 @@ Documentation about the CMS lives in various places
 ## How to Reach Us
 
 ### CMS Team
-- Dave Conlon, VA Product Owner, Slack `@Dave Conlon`
-- Erika Washburn, Lead Product Manager - Slack `@Erika Washburn`
-- Dawn Pruitt, Delivery Manager - Slack `@Dawn Pruitt`
+- Erika Washburn, VA Product Owner, Slack `@Erika Washburn`
+- Mike Hollen, Lead Product Manager - Slack `@Mike Hollen`
+- Berni Xiong, Delivery Manager - Slack `@Berni Xiong`
 - Eric Oliver, DevOps Lead - Slack `@Eric Oliver`
-- Tim Cosgrove, Tech Lead - Slack `@Tim Cosgrove`
+- Nate Douglas, Tech Lead - Slack `@Nathan Douglas`
 - Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
 - Blake Organ, Content Designer- Slack `@Blake Organ`
 - Joann Agnitti, Senior Researcher- Slack `@Joann Agnitti`
 - Edmund Dunn, Senior Drupal Developer- Slack `@Edmund Dunn`
 - Stefanie Gray, Helpdesk Manager, Slack `@Stefanie Gray`
 - Troy Griffin, Helpdesk and Training Manager, Slack `@Troy Griffin`
-- Nate Douglas, Software/DevOps Engineer and QA Lead, Slack `@Nathan Douglas`
+
 
 Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/811171875/Both+Teams+Scrum+Notes+May+26+2021+-).
 
