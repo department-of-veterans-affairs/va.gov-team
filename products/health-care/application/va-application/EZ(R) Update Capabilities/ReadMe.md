@@ -17,7 +17,12 @@ Product | Link to product outline
 
 ## Problem
 
-- TBD
+--Veterans need to update their information and currently can only do it via phone, at a facility, or by printing and mailing 10-10EZR form (a couple of exceptions are on VA.Gov Profile)
+--We believe this impacts at least hundreds of thousands of Veterans per year based on the number of paper 10-10EZRs processed 
+--Veterans affected are trying to change their contact information–how VA gets in touch with them; and/or insurance, dependent, or financial information which impacts how much they have to pay for their VA healthcare
+--This furthers OCTO-CIO’s mission of trying to bring more common “paper” functionality online, allowing Veterans to do more things online
+--This initiative has the bonus effect of helping reduce workload frontline staff and HEC who currently have to update this information prior to an appointment, or process these paper forms. The ability for Veterans online should reduce pre check-in changes and paper EZR forms.
+
 
 ## Desired User Outcomes
 - TBD
