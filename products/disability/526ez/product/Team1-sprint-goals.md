@@ -7,7 +7,7 @@ Period - 07/19/2023 - 08/1/2023
    - [ ] Bug - Make VAMC fields optional
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
-        - Rateddisabilities
+        - Rateddisabilities - changed to ITF
             - [ ] Complete Release Plan with roll back plan
             - [ ] Start staggered release - timeboxed tickets to monitor the release and fix issues as they occur 
         - Submit 
