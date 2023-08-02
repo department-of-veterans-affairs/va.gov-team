@@ -58,7 +58,7 @@ Let’s start with a few warm-up questions.
 - Can you please tell me about your experience getting setup for that first appointment at a VA facility?
 - Can you describe your experience with any forms or sign up questions that you had to complete to be seen for care?
    - [Not saying your "registration experience, but would they have filled out a paper EZ in person or did staff input on their behalf?]
-- What was your impression to what benefits or level of care you would qualify for as you were going thorugh this process? 
+- What was your impression to what benefits or level of care you would qualify for as you were going through this process? 
 - How would you describe the process after you were seen for care? 
    - Did you receive any communication from the VA or information if you were eligible to enroll in health care benefits? 
 
@@ -78,9 +78,9 @@ Let’s start with a few warm-up questions.
 
 
 ### Things to watch for:
-- [How does the Veteran descirbe the process of figuring out what they are eligble for - are they frustrated, do they find it easy, do they just expect the VA to have the data and figure it out for them?]
+- [How does the Veteran describe the process of figuring out what they are eligible for - are they frustrated, do they find it easy, do they just expect the VA to have the data and figure it out for them?]
 - [Is there a mix or preference for wanting to be told what they get or search it out on their own?]
-- [Is there any confusion about their benefits within the health care benefits they recieve?]
+- [Is there any confusion about their benefits within the health care benefits they receive?]
 - [Do they know and mention their Priority Group during these questions?]
 
 
@@ -115,7 +115,7 @@ Let’s start with a few warm-up questions.
 ### Things to watch for:
 - [What are the scenarios or examples given to why registration would be the preferred choice?]
 - [Is selecting both options a common answer?]
-- [What words and terms to participants use whent they are explaining the differences?]
+- [What words and terms to participants use when they are explaining the differences?]
 - [Is there often confusion to what to choose and what that means to them and their health care benefits?]
 
 
