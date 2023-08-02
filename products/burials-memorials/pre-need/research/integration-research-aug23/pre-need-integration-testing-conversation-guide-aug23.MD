@@ -356,8 +356,15 @@ _When participant clicks on the green button to apply, repeat the scenario:_
 - **Step 1 of 7: Preparer information**
     - _Things to watch for:_
         - Observe if user has difficulty answering applying for self or someone else field (should select Applying for Someone Else)
-        - Does the user feel the need to open the additional info component?
-    - If they have difficulty, could ask: What are you leaning towards selecting here? Why?
+            - Does the user feel the need to open the additional info component?
+        - If they have difficulty, could ask: What are you leaning towards selecting here? Why?
+    - **Preparer details**
+        - Whose name do you think would need to be noted here?
+        - _Things to watch for:_
+            - Do they understand they would need to provide their details here as the preparer (Sammy Smith)? 
+    - **Preparer's mailing address/contact details**
+        - _Things to watch for:_
+            - Do they understand they would need to provide their details here as the preparer? 
 - **Step 2 of 7: Applicant information**
     - **Applicant relationship to service member / Veteran**
         - What do you think this question is asking? 
@@ -367,7 +374,7 @@ _When participant clicks on the green button to apply, repeat the scenario:_
             - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
     - **Applicant details**
         - _Things to watch for:_
-            - Do they understand they would need to provide their details here (Robin Smith)? 
+            - Do they understand they would need to provide their child's details here (Robin Smith)? 
             - Does the user show any confusion with two new birth fields?
     - **Applicant's mailing address**
         - _Things to watch for:_
