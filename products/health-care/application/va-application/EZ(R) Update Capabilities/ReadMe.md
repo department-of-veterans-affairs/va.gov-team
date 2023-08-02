@@ -29,7 +29,9 @@ Product | Link to product outline
 
 
 ## Desired User Outcomes
-- TBD
+- Veterans update their information online via methods and tools they already use (e.g. VA.Gov Profile)
+- Veterans spend less time filling out paper forms, calling help desk, and talking to frontline staff to update basic information
+- Veterans no longer have to enter a minimum amount of information to change one piece of information
 
 ## Undesired User Outcomes
 - TBD
