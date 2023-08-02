@@ -22,9 +22,9 @@ Before enabling your feature toggle in production, you'll need to:
 - [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
    - [x] Confirm with Joshua Faulkner and team on End to End testing
    - [x] [Link to confirmation of successful transmission/processing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Staging%20Review_QA/E-2-E%20testing%20confirmation.md)
-- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+- [x] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [x] review the plan with your DEPO/OCTO representative.
+  - [x] review the release plan with your team.
 
 ## Step 3: Production rollout
 
@@ -37,9 +37,9 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Desired date range or test duration:
-     - 2 weeks - 8/7/2023 - 8/18/2023
+     - 1 weeks - 8/21/2023 - 8/25/2023
 - Desired number of users:
-     - 10 participants
+     - 6 participants
 - How you'll recruit the right production test users:
      - Perigean recruiting
 - How you'll conduct the testing:
@@ -66,7 +66,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Rollout Planning
 
 - Desired date range:
-     - 7/31/2023 - 8/7/2023
+     - 8/2/2023 - 8/14/2023
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - Feature Toggle limiting % of traffic to the application
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
@@ -114,7 +114,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Length of time:
      - 2 days
 - Percentage of Users (and roughly how many users do you expect this to be):
-     - 10% of authenticated Veterans
+     - 25% of authenticated Veterans
 
 #### Results
 
@@ -124,26 +124,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 25% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time:
-     - 2-3 days
-- Percentage of Users (and roughly how many users do you expect this to be):
-     - 25%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage C: 50% of users
+### Stage B: 50% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -162,7 +143,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage D: 75% of users
+### Stage C: 75% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -181,7 +162,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage E: 100% of users
+### Stage D: 100% of users
 
 #### Planning
 
