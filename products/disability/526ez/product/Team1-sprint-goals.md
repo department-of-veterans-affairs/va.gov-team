@@ -1,5 +1,31 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+
+## Sprint 11
+Period - 08/2/2023 - 08/15/2023
+### Sprint goals 
+- **Expedited**
+   - [ ] Bug - 
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+        - ITF
+            - [ ] Start staggered release - timeboxed tickets to monitor the release and fix issues as they occur 
+        - Submit 
+            - [ ] Transform service
+               - [ ] Treatments
+               - [ ] Service Pay
+- **Features**
+   - Intro page changes and 526ez current with paper form
+      - [ ] Toxic Exposure screens - Start Research Plan
+      - [ ] Toxic Exposure screens - Design - Updates based on Midpoint review and VBA stakeholder review
+    
+- **Analytics**
+  - [ ] Send data request to VBA - Research
+        
+- **Stretch**
+- [ ] Create submit526 method to be added to tbe BenefitsClaims service to submit the 526 to Lighthouse
+
+
 ## Sprint 10
 Period - 07/19/2023 - 08/1/2023
 ### Sprint goals 
