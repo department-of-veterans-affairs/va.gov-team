@@ -35,9 +35,8 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60740)
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Create a test harness](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61441)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Perform Integration Testing - CIE Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61438)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Perform Integration Testing - CIE & Mobile App Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61439)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Create a test harness](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61441)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Perform Integration Testing - CIE Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61438)            
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Add Content to the 45-minutes Check-in Reminder Text for When to Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62955)
@@ -46,6 +45,10 @@ ________________________________________________________________________________
             - One of these tickets but not both
                 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Revisit adding travel confirmation into h1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59165)
                 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [UX] Update the travel pay confirmation page to avoid using 2 sentences](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59121)
+        - **EPIC: [Unified Check-in: Release 2 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Create Feature Flag 'check_in_experience_unified_landing_page'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62161)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Login Page: Update the H1 and supporting content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62100)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Landing Page: Create New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62101)
         - **EPIC: [Unified Check-in Enhancements - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60971)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Add annotations for when to announce alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59118)
     - **Sub Goal: Analyze current metrics to see what they tell us**
