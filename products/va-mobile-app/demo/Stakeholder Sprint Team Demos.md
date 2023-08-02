@@ -1,7 +1,7 @@
 # Sprint Team Demo
 
 Meeting Owner: Jennifer Brown
-Timing: Every second Thursdays 2:35 - 3:15pm 
+Timing: Every second Wednesday 2:35 - 3:15pm 
 
 ---  
 **Demo Sprint 76 8/2/23** 
