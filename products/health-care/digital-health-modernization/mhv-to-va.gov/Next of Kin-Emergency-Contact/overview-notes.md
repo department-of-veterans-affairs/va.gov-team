@@ -16,3 +16,6 @@ We have been tasked with migrating **Next of Kin** (NOK) and **Emergency Contact
 **Addtional information/context around the 1010: 
    
 ![Screenshot 2023-08-02 at 11 08 03 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/e2c83c59-0f31-443c-96a8-412f86c4683c)
+
+## Background 
+
