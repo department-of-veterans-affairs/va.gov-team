@@ -20,7 +20,7 @@ As a content designer, if I want to make a minor copy change (even a single char
 
 And even after merging, the change isn’t visible to users immediately. It has to wait for the next release.
 
-Also, we have no single place for source-of-truth copy. JSON strings have all _currently _implemented copy _but also_ old copy that’s no longer used. Figma designs are not kept up to date with copy. And demo mode only covers some use cases, not all.
+Also, we have no single place for source-of-truth copy. JSON strings have all _currently_ implemented copy _but also_ old copy that’s no longer used. Figma designs are not kept up to date with copy. And demo mode only covers some use cases, not all.
 
 <h3>Immediate Desired Outcomes</h3>
 
