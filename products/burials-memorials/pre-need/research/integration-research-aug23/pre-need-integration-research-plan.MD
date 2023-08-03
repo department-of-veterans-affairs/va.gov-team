@@ -120,9 +120,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: TBD
 
 **We also need a kick-off meeting with Perigean for recruiting as soon as possible. Our availability is flexible for this.** 
-- Requested dates/times for kick-off meeting: 
-	- Fri. 8/4: 9-9:30am, 10am-1:30pm, 3-4pm; 
-	- Mon. 8/7: 9-9:30am, 10:00-12:30pm, 1-4pm.
+- Requested dates/times for kick-off meeting (ET): 
+	- Fri. 8/4: 9-11am 
+	- Mon. 8/7: 9-9:30am, 10:30-11:30am, 12:30-4pm.
 
 ### Research sessions
 * Planned dates of research: 
