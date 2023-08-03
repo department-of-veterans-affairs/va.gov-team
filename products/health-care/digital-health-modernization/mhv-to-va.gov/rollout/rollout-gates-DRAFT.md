@@ -57,8 +57,11 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 - [ ] Verify Needed feature improvements have been made
 	- What is "needed" is agreed upon jointly by OCC Product Owner and OCC owners, with support from OCC leadership
 - [ ] Verify - Any major feature improvements have been tested and completed the collaboration cycle
-- [ ] Add a URL path from MHV’s app to the new apartment app: “Hi, we’re building a new version of this application. Try it out! Give us feedback.” 
-
+- [ ] Add a URL path from MHV’s app to the new apartment app: “Hi, we’re building a new version of this application. Try it out! Give us feedback.”
+- [ ] Connect Phase 1 app to MHV on VA.gov Landing page (on flipper)
+- [ ] Review Mural above to ensure all other connections have been made
+- [ ] Check with identity and access teams to review pathways into application are not blocked
+- [ ] Meet with communications, change management, training groups to give demos and to ensure materials are ready. 
 - [ ] Schedule and complete user acceptance testing with development team, OCTO team, Product Owner, and other necessary technical personnel
 	- All use cases tested and validated in production, starting from sign-in at all entry points.
 	- Any risks are captured for go-no-go
@@ -66,23 +69,35 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 - [ ] Review completed w product owners and they have acknowledged that requirements have been met
 	- Product owners includes the OCC product owner, OCTO product/design/engineering leads 
 - [ ] Review completed w clinical or other SMEs and they have acknowledged that it adheres to legal and/or policy requirements, governance standards
+- [ ] Communications working group has prepared (and had approved)
+	- [ ] all necessary communication materials have been drafted & reviewed by OCC and OCTO leadership 
+- [ ] Change management have been notified
+- [ ] Training team have been notified  
 - [ ] Go/no go team has been established & go-no-go meeting scheduled
+	- [ ] For Phase 1 Go no Go should include Dev, OCC, OCTO, OEHRM, Comms, Chg Mgmt, Training. 
 - [ ] Go/No Go meeting conducted
 	- [ ] Outcomes of go-no-go documented 
-- MHV users can still use the old app on MHV. 
-- Send MHV newsletter story encouraging users to try the new version and give feedback. 
-- Public websites, My VA continue to point users to MHV app. 
-- Apps can move to this phase when they are ready. Apps may be in this phase for a while (i.e. until Cerner data is integrated). 
-- Review/revise release plan as needed
-- Communication plan has been defined for next phase (what, how, when, to whom info will be communicated)
-- Goals and exit criteria have been established for next phase
-- Gate review is conducted
-- Outcome of gate review is documented
-- Communications have been posted/sent
+- [ ] Communications team releases approved communication materials to key audiences 
+- [ ] Training team sets up training for needed audiences
+- [ ] Change management team takes any necessary steps on their change management plan
+- [ ] Switch is flipped
+- [ ] Monitoring/tracking issues / bugs / features requests 
 
+## While the app is in Phase 1
+- MHV users can still use the old app on MHV. 
+- Public websites, My VA continue to point users to MHV app.
+- MHV on va.gov points to the new app
+- App is in left nav of MHV on va.gov  
+- **Exit criteria for this phase: Cerner data is integrated into the application, and any user can see and interact with all of their cerner and vista data.**
+- Communication plan and materials are defined and prepared for Phase 2 (including what, how, when, to whom info will be communicated)
+- Training materials are defined and prepared for Phase 2
+- Dependencies tracked (i.e. terms of use) and addressed
+- Prepare any integrations and other information needed to move from 1 - 2 (i.e. content for MHV website and My VA Health, changes to va.gov)
+- Ongoing work to prepare for Phase 2 integrations 
+  
 ## Phase 2: VA.gov Transitions
-- Update links on public website tools pages, My VA, the apartment home, mobile app, and other cross-links to drive users starting on va.gov to the new version.   
-- Apartment apps have a link to the old version on MHV & Cerner for those who need it.
+- Update links on public website tools pages, My VA, the apartment home, mobile app, and other cross-links to drive users starting on va.gov to the new version.  
+- MHV on va.gov apps have a link to the old version on MHV & Cerner for those who need it.
 - My VA, PW, mobile, & apartment teams will need to make updates. 
 - We should not move an application to phase 2 until Cerner data is integrated, and MHV users are signing into va.gov more easily. 
 - Review/revise release plan as needed
