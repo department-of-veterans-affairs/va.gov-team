@@ -79,6 +79,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 | Launch to 100% | ~3 days | week of 08/24/2023 |[#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
 
 
+### Metrics
   
 - How will you make the product available in production while limiting the number of users who can find/access it: We'll enable the toggle for a % of users
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: We want to see that the new LH API is working as good or better than our current EVSS API
