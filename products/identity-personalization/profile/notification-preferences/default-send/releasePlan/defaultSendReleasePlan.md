@@ -9,7 +9,7 @@
 - [Phase II - Staged Rollout](#phase-ii---staged-rollout)
 - [Go Live](#go-live)
 - [Post Launch Questions](#post-launch-questions)
-- [Enabling Email as a Channel Notifications](#enabling-email-as-a-channel-notifications)
+
 
 ## Overview 
 The default send work is comprised of several different pieces of functionality. 
