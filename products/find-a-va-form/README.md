@@ -2,15 +2,6 @@
 
 All background, historical, discovery, and status/maintenance documentation for the Find a VA Form product. 
 
-## Modern maintenance shortlinks
-- [Incident Response](#incident-response)
-   - [Team](#team)
-- [VA Forms Contacts](#va-forms-contacts)
-- [Troubleshooting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md)
-    - [Find Forms FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/find-forms-faq.md)
-- [Engineering (architecture / data)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/engineering.md)
-
-
 ## Product Brief information
 - [Product Brief](#find-forms-product-brief)
 - [KPIs](#kpis)
@@ -19,7 +10,87 @@ All background, historical, discovery, and status/maintenance documentation for 
 - [Post-MVP Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/post-mvp-status-and-decisions.md)
 
 
+## Modern maintenance shortlinks
+- [Incident Response](#incident-response)
+   - [Team](#team)
+- [VA Forms Contacts](#va-forms-contacts)
+- [Troubleshooting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md)
+    - [Find Forms FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/find-forms-faq.md)
+- [Engineering (architecture / data)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/engineering.md)
+
 ----
+
+## Find Forms Product Brief
+
+### Overview
+
+### Problem Statement
+Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
+
+- we want to redesign experience on this page to the new VA.gov look and feel.
+- we want to create new content on this page to drive traffic to top tasks and to the top digital versions of form applications.
+- we want to add analytics tracking to all links and downloads.
+
+
+### Desired User Outcomes
+
+### Undesired User Outcomes
+
+### Desired Business Outcomes
+
+### Undesired Business Outcomes
+
+---
+### Measuring Success
+
+#### KPIs
+**Metrics**:
+- Standard Domo Dashboard - https://va-gov.domo.com/page/1964748112?userId=666442134 (filter by Find a VA Form)
+- Custom Domo Dashboard - https://va-gov.domo.com/page/1785082329
+**[Google Analytics Find a Form Dashboard 1.0](https://analytics.google.com/analytics/web/#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)**
+**Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
+**Signal**: are people downloading form applications or starting a new benefit application\
+- Custom Google Analytics Reports (open Google Analytics
+   - Ensure that you're in the All VA.gov Website Data [Production] view and then import the below files into your profile.
+
+*Find VA Forms - Search*
+Search Relevancy
+- % queries with no results
+- % PDF downloads / successful queries
+- % conversions to online benefit application experiences / successful queries
+- % converions to logging-in following Find VA Form Search query (future, preferred)
+
+Engagement
+- % conversions to "Frequently used VA forms" / session
+- % conversions to "Manage your VA and other information online" / session
+- % conversions to "More information" / session
+
+*Find VA Forms - Detail Landing Pages*
+
+Acquisition
+- Are people using Form Detail pages? - Ratio of traffic to Detail pages / Search query volume
+
+Engagement
+- % PDF downloads / queries
+- % conversions to online benefit application experiences
+- % converions to logging-in following Find VA Form Search query (future, preferred)
+
+---
+
+## Initiatives
+- MVP
+- Post-MVP
+- [PDF audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/pdf_audit_2021/pdf_audit_2021.md) - 2021
+- [VA Form Data Evaluation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/form-data-mgmt/data_eval-Feb-2020.md) - Feb 2021
+- [Sort by last updated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/sort-by-last-updated/release-plan.md) - Feb 2021
+- [Language support discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/language-support/meetings/meeting-notes.md) - April 2021
+- [Improve search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/README.md) - July 2021
+- [Connect search with details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/connect-search-with-details/README.md)
+- [Docusign POC](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/docusign-poc/meetings-decisions.md)
+- [PDF Modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/pdf_modal/accessibility/accessibility-staging-prep.md)
+- [PDF certificate warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/pdf-cert-warning-alert) - Q4 2022
+
+---
 
 ## Incident Response
 As of 8/1/23:
@@ -95,58 +166,4 @@ Within VA, all administrations have an internal process to review & approve form
 
 ![contacts-by-business-line](https://user-images.githubusercontent.com/85581471/200931161-13fe43d6-b1de-4b41-8afe-30714c47b3ec.png)
 
-
-
 ---
-
-## Find Forms Product Brief
-
-### Overview
-
-### Problem Statement
-Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
-
-- we want to redesign experience on this page to the new VA.gov look and feel.
-- we want to create new content on this page to drive traffic to top tasks and to the top digital versions of form applications.
-- we want to add analytics tracking to all links and downloads.
-
-
-### Desired User Outcomes
-
-### Undesired User Outcomes
-
----
-## Measuring Success
-
-### KPIs
-**Metrics**:
-- Standard Domo Dashboard - https://va-gov.domo.com/page/1964748112?userId=666442134 (filter by Find a VA Form)
-- Custom Domo Dashboard - https://va-gov.domo.com/page/1785082329
-**[Google Analytics Find a Form Dashboard 1.0](https://analytics.google.com/analytics/web/#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)**
-**Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
-**Signal**: are people downloading form applications or starting a new benefit application\
-- Custom Google Analytics Reports (open Google Analytics
-   - Ensure that you're in the All VA.gov Website Data [Production] view and then import the below files into your profile.
-
-*Find VA Forms - Search*
-Search Relevancy
-- % queries with no results
-- % PDF downloads / successful queries
-- % conversions to online benefit application experiences / successful queries
-- % converions to logging-in following Find VA Form Search query (future, preferred)
-
-Engagement
-- % conversions to "Frequently used VA forms" / session
-- % conversions to "Manage your VA and other information online" / session
-- % conversions to "More information" / session
-
-*Find VA Forms - Detail Landing Pages*
-
-Acquisition
-- Are people using Form Detail pages? - Ratio of traffic to Detail pages / Search query volume
-
-Engagement
-- % PDF downloads / queries
-- % conversions to online benefit application experiences
-- % converions to logging-in following Find VA Form Search query (future, preferred)
-
