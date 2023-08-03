@@ -80,12 +80,12 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 **Objective 1: Improve save success rates by migrating to Lighthouse**.
 
-|KPI|Rate 1 month pre-launch [6/1/2023-6/28/2023]|10% UAT|25% UAT |50% UAT |75% UAT |1 week 100% | Rate 1mo. 100% of users [dates]|Rate 2mo. 100% of users [dates]|
+|KPI|Rate 1 month pre-launch [7/9/2023-8/2/2023]|10% UAT|25% UAT |50% UAT |75% UAT |1 week 100% | Rate 1mo. 100% of users [dates]|Rate 2mo. 100% of users [dates]|
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Successful retrievals of direct deposit (C&P) information|||||||||
-|Failed retrievals of direct deposit (C&P) information|||||||||
-|Form Submits for direct deposit (C&P) information|18,397||||||||
-|Failures in saving direct deposit (C&P) information|||||||||
+|Successful retrievals of direct deposit (C&P) information|236,452||||||||
+|Failed retrievals of direct deposit (C&P) information|22,925||||||||
+|Form Submits for direct deposit (C&P) information|18,238||||||||
+|Failures in saving direct deposit (C&P) information|3,023||||||||
 
 
 ## Key deliverables
