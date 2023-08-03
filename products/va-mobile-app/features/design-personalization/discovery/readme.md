@@ -1,4 +1,4 @@
-#VA Mobile App - Personalization - UX Discovery
+# VA Mobile App - Personalization - UX Discovery
 ### Personalization 2023:
   * [VA Mobile Comparative Analysis: Personalized Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-comparative-analysis-2023.md)
     * Comparative analysis re-examining apps originally included in the earlier Comparative Analysis of Navigation UI Patterns work, this time with a lens examining how apps treat personalized content on their home screens.
