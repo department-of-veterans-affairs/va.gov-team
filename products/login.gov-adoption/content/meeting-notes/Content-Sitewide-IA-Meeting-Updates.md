@@ -2,9 +2,26 @@
 
 ## July 6, 2023
 
-## MHV Comms Working Group 
+## Sitewide Content
 
-### Attendees: Sofia Kirkman, Carl Dickerson, Dawn Munoz, Aliyah Blackmore, Tinu Awaliyi, Ngozi Abolarin, Joe Niquette
+### Attendees: Sofia Kirkman, Dawn Munoz
+
+### Notes:
+Close to moving into a variation of Phase 1 in terms of appointments
+appointments has lived on VA.gov for some time
+Viewing appointments was on MHV but managing apointments was on VA.gov
+Processes are going to change
+Getting ready to launch into the try me phase 
+"if you have been managing your appointments on VA.gov then you will continue to use the same tool"
+MHV is going away as a sign in in January
+Tricky messaging because there is a difference between MHV sign in and MHV portal
+Difficulty in conveying how to sign up for VA.gov by using a Login.gov account
+Forming a "glossary of terms" to help people understand the differences in the language
+Content brief is to show what studies show but they are not necessarily style guides
+Things from content briefs are taken in as findings
+LGA team will follow up with Susan Haidary to understand coordinator workflow and connect with potential MVP sites
+
+
 
 Examined new FAQs for identity verfication here: https://docs.google.com/document/d/1p_BmZsXZEfOY5cCiPOBXQurVuP8LWIr7vXqhemQRQNM/edit
 
