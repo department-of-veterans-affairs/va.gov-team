@@ -26,7 +26,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 ### Share your info with Platform
 - [ ] Complete the fields below:
  - Name:
- - Preferred pronouns (e.g. she/her):
+ - Pronouns (e.g. she/her):
  - Role:
  - Email:
  - GitHub handle*:
@@ -85,7 +85,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] For [Back-end orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Back-endorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 - [ ] For [QA orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 
-#### Product Managers
+#### Product Managers & Delivery Managers
 - [ ] Request PM intro with @ Shira Goodman in Slack
 - [ ]  For [Analytics orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 - [ ] For [Accessibiliy orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
