@@ -1,6 +1,6 @@
 # Product outline: Onsite Notifications (ie. personalized notifications that show on VA.gov)
 
-**Last updated: July 28, 2023 -- updated formatting for past and current projects; linked to README for team member list**
+**Last updated: August 3, 2023 -- broadening outline to be less VANotify-centric**
 
 ### Communications
 
@@ -34,7 +34,7 @@
 
 ## Overview
 
-VA.gov is in the process of implementing a comprehensive communication strategy to support email, text, and in-app (ie. on VA.gov) notifications. Currently, the VANotify team  builds and manages email notification support for VA.gov, and they are working in tandem with VEText to integrate support for text messages into their platform. The authenticated experience team aims to cover information around the third and final pillar -- notifications that show to logged-in users on VA.gov.
+VA.gov is in the process of implementing a comprehensive communication strategy to support email, text, and in-app (ie. on VA.gov) notifications. Currently, the VANotify and VEText platforms team builds and manage email and text notification. The authenticated experience team aims to cover information around the third and final pillar -- personalized notifications and alerts that show to logged-in users on VA.gov.
 
 ## Onsite notification criteria
 
@@ -53,7 +53,8 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ## Problem Statement
 
-- As a customer of the VA, I need to know if there are tasks I need to complete so that I can receive or manage my benefits.
+- As a customer of VA, I need to know if there are tasks I need to complete so that I can receive or manage my benefits.
+- As a customer of VA, I need to know if VA has taken an action that affects my health and benefits, even if no action is required from me (eg. shipped a prescription).
 
 ## User outcomes
 
@@ -65,17 +66,16 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ### Undesired User Outcomes
 
-- Confusion or lack of syncing between on-site notifications/action items and email, text, or mail communications (data integrity). We can avoid this by building on the VANotify platform to ensure a synchronous experience between email, text, and notifications on VA.gov.
-- An overwhelming amount of notifications makes it so that this update feels more like noise than a helpful tool.
+- Not alerting users to important updates.
+- Confusion or lack of syncing between in how notifications are handled across VA.gov (data integrity). We can avoid this through close coordination with other VA.gov teams, the VA mobile team, and VANotify.
+- Notifications feeling like noise because there are too many of them. 
 
 ## Business outcomes
 
 ### Desired Business Outcomes
 
-- To create a unified experience through the VANotify platform. 
-- Once the notification infrastructure is in place, it will be easy for VA business lines to get necessary action items in front of users with little lift.
-- We'll be able to build more nuanced logic to get messages in front of certain audiences (eg. show a notification to all people who have a BVS hearing within the next 30 days). 
-- We'll be able to show notifications on more than one page, or in a central location (eg. a notification center) that is accessible from all pages.
+- We create a unified, consistent experience for how notifications/alerts are handled across VA.gov.
+- We create a unified, consistent experience for how information is surfaced on VA.gov and in the VA mobile app.
 
 ### Undesired Business Outcomes
 
@@ -115,7 +115,7 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ## Backend
 
-### How it works
+### How the VANotify integration works
 
 We receive on-site notifications from [VA Notify](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services). For the MVP, the system works as follows:
 
@@ -139,13 +139,13 @@ Currently, there is only one notification to test (2022). In the future, there m
 
 ## Frontend
 
-### Overview
+### How the VANotify integration works
 
 - The frontend connects to VA Notify via an API we set up.
 - Currently, the frontend code stores the content for on-site notifications. This may be stored by VA Notify some time in the future, but not for the MVP.
 - If VA Notify determines it should send a notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show which notification and to whom.
 
-### When are the notifications fetched from the server?
+#### When are the notifications fetched from the server?
 
 The notifications are pulled on load using a GET request to the api `/v0/onsite_notifications` if they have no MPI errors and they are an LOA3 user. 
 
@@ -154,11 +154,11 @@ The notifications are pulled on load using a GET request to the api `/v0/onsite_
 * If there is an error on the backend preventing notifications from appearing, then we do not display the Notifications section on the page.
 * If there is an error when the user attempts to dismiss the notification, we show an error.
 
-### If a user dismisses a notification
+#### If a user dismisses a notification
 
 When a user dismisses a notification, we send a PATCH request to the api `/v0/onsite_notifications/${id}`. If they have an error we show the dismissal failed error. If there is no error we remove the notification from the page.
 
-### [Adding a new notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/frontend/adding-new-onsite-notification.md)
+#### [Adding a new notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/frontend/adding-new-onsite-notification.md)
 
 ## Design
 
