@@ -1,5 +1,5 @@
 # VA Mobile App - Personalization
-Last updated Jul 2023
+Last updated Aug 2023
 
 The VA mobile team has explored the concept of Personalization several times (2021, 2022) from a product, discovery, and design perspective.
 
