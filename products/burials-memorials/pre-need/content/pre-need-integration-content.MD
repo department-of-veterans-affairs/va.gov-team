@@ -152,9 +152,8 @@ Are you applying for yourself or for someone else? (*Required) {radio buttons}
 {additional-info text}
 
 A preparer can sign for an applicant who’s:
-- Under 18 years of age, **or**
-- Is mentally incompetent, **or**
-- Is physically unable to sign the application
+- Mentally incompetent **or**
+- Physically unable to sign the application
 
 {end additional-info text}
 
