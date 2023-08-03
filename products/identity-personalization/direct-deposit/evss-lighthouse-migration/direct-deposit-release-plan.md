@@ -9,6 +9,7 @@
 - [Step 1: Development](#step-1-development)
 - [Step 2: Validation](#step-2-validation)
 - [Step 3: Production rollout](#step-3-production-rollout)
+- [Launch](#launch)
 - [Post Launch metrics](#post-launch-metrics)
 - [Post-launch Questions](#post-launch-questions)
 
@@ -97,26 +98,46 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - **Who is monitoring the dashboard(s)?:** <br>PM/PO/BE Developer<br>
 
 
+## Launch
+---
+
 ### Stage A: Canary (10%)
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- **Number of unique users:** [FILL_IN]
+- **Metrics at this stage (per your "success criteria"):**
+  
+|KPI|Rate|
+|---|:-:|
+|Successful retrievals of direct deposit (C&P) information| |
+|Failed retrievals of direct deposit (C&P) information| |
+|Form Submits for direct deposit (C&P) information| |
+|Failures in saving direct deposit (C&P) information| |
 
+- **Was any downstream service affected by the change?:** [PICK_ONE]: yes | no |  N/A
+- **Types of errors logged:** [FILL_IN]
+- **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** [FILL_IN]
+
+---
 ### Stage B: 25% of users
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- **Number of unique users:** [FILL_IN]
+- **Metrics at this stage (per your "success criteria"):**
+  
+|KPI|Rate|
+|---|:-:|
+|Successful retrievals of direct deposit (C&P) information| |
+|Failed retrievals of direct deposit (C&P) information| |
+|Form Submits for direct deposit (C&P) information| |
+|Failures in saving direct deposit (C&P) information| |
 
+- **Was any downstream service affected by the change?:** [PICK_ONE]: yes | no |  N/A
+- **Types of errors logged:** [FILL_IN]
+- **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** [FILL_IN]
+---
 ### Stage C: 50% of users
 
 #### Results
@@ -126,7 +147,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
+---
 ### Stage D: 100% of users
 
 #### Results
