@@ -1,5 +1,7 @@
 # MHV on VA.gov Phase Targets 
 
+Applications should move through each phase as they are ready, however below indicates some rough targets for where we'd like to be for each phase to be on track for our deadline. 
+
 ## Phase 0 (October 2023)
 - Medical records, medications, secure messaging should be in Phase 0 no later than October 2023.
 
