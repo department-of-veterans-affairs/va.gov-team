@@ -43,11 +43,10 @@ What I *hope to do today* is to get your feedback on a new web page that we're w
 
 What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may look at things that have caused you serious frustration, and I want you to know up front that I can't make that better for you right now. I don't have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations since they might be opportunities for what I can help improve in the future.
 
-Now I'll invite a colleague to join us in this session to take notes.
-
-*(DELETE: I have a colleague with us in this session who will be taking notes.)* 
+I have a colleague with us in this session who will be taking notes.
 
 There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
+- *(If participant seems hesitant or unsure or uncomfortable)* Just so you know, my teammates will be muted and off camera and you won't have to interact with them. You also have the option to keep the session just the two of us plus the notetaker.
 - *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 
 - *(NOTETAKER & OBSERVERS JOIN w/cameras ON )* We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
