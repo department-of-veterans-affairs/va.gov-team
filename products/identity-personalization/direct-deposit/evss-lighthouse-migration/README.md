@@ -73,9 +73,15 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 [Profile - Form Submit - CNP Direct Deposit Information](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20230601&_u.date01=20230628&explorer-table.plotKeys=%5B%5D&explorer-table.filter=%5EProfile%20-%20Form%20Submit%20-%20(direct-deposit-information%7CDirect%20Deposit%20Information%7CCNP%20Direct%20Deposit%20Information)&explorer-segmentExplorer.segmentId=analytics.eventAction/)
 
-|Save success rate 1 month pre-launch [6/1/2023-6/28/2023]|Save success rate 1 month post-launch to 100% of users [dates]|Save success rate 2 months post-launch to 100% of users [dates]|
-|------|------|-----|
-|18,397|TBD|TBD|
+|KPI|Rate 1 month pre-launch [6/1/2023-6/28/2023]|10% UAT|25% UAT |50% UAT |75% UAT |1 week 100% | Rate 1mo. 100% of users [dates]|Rate 2mo. 100% of users [dates]|
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Successful retrievals of direct deposit (C&P) information|||||||||
+|Failed retrievals of direct deposit (C&P) information|||||||||
+|Form Submits for direct deposit (C&P) information|18,397||||||||
+|Failures in saving direct deposit (C&P) information|||||||||
+
+
+
 
 ## Key deliverables
 
