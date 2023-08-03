@@ -54,7 +54,7 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 ## Problem Statement
 
 - As a customer of VA, I need to know if there are tasks I need to complete so that I can receive or manage my benefits.
-- As a customer of VA, I need to know if VA has taken an action that affects my health and benefits, even if no action is required from me (eg. shipped a prescription).
+- As a customer of VA, I need to know if VA has taken an action that affects my health and benefits, even if no action is required from me (eg. VA shipped a prescription).
 
 ## User outcomes
 
