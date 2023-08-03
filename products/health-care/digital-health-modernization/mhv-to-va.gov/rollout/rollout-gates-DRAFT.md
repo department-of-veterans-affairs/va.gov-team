@@ -103,7 +103,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 - Review/revise release plan as needed
 - Communication plan has been defined for next phase (what, how, when, to whom info will be communicated)
 - Goals and exit criteria have been established for next phase
-- Gate review
+- Go no go review
 - Communications have been posted/sent
 
 ## Phase 3: MHV Nudge
@@ -113,7 +113,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 - Review/revise release plan as needed
 - Communication plan has been defined for next phase (what, how, when, to whom info will be communicated)
 - Goals and exit criteria have been established for next phase
-- Gate review
+- go no go review
 - Communications have been posted/sent
 
 ## Phase 4:  MHV redirect app to apartment
