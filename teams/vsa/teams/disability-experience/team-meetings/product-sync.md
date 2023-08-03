@@ -1,5 +1,23 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Aug 3 2023       
+### Participants: Austin
+### Topics Covered:
+- Toxic Exposure Research
+   - Shannon picking up research plan to fill in gaps and have draft for Lydia return
+- Data for ITF / Late submissions
+- ITF Policy question from Julie / further discussion with Andrew Gray
+- Meeting Matt, Jen and Steve around dashboarding
+ - What do each persona need?
+ - What other key perfomance metrics do we want to get
+ - how to make public dashboards?
+ - best way to create dashbaords?
+- Future discussions with Contact Center
+ - how to make dashboards for them
+ - how to build relationships with Contact Center
+   - are veterans comfortable with error numbers 
+
+
 ### Date: Jul 26 2023       
 ### Participants: Rakshinda, Austin
 ### Topics Covered:
