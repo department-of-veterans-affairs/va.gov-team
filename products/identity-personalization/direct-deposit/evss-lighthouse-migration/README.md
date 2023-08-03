@@ -69,9 +69,16 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 ## Measuring success
 
-**Objective 1: Improve save success rates by migrating to Lighthouse**.
+### Metrics
+- [GA Dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
+- [Sentry](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?display=daily&environment=production&field=url&field=error.value&field=timestamp&name=Errors+by+URL&query=event.type%3Aerror+url%3Ahttps%3A%2F%2Fapi.va.gov%2Fv0%2Fprofile%2Fdirect_deposits%2Fdisability_compensations&sort=-url&statsPeriod=14d&widths=-1&widths=-1&widths=-1)
+- Data Dog
+     - [Viewing LH Direct Deposit](https://vagov.ddog-gov.com/apm/resource/vets-api/rack.request/e504ea6e07d6848b?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AProfile%3A%3ADirectDeposits%3A%3ADisabilityCompensationsController%23show%22&env=eks-prod&spanType=service-entry&topGraphs=latency%3Alatency%2Chits%3Acount%2Cerrors%3Acount%2CbreakdownAs%3Apercentage&traces=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&start=1690315410527&end=1690920210527&paused=true)
+     - [Updating LH Direct Deposit](https://vagov.ddog-gov.com/apm/resource/vets-api/rack.request/bc1e3cb125eb0125?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AProfile%3A%3ADirectDeposits%3A%3ADisabilityCompensationsController%23update%22&env=eks-prod&spanType=service-entry&topGraphs=latency%3Alatency%2Chits%3Acount%2Cerrors%3Acount%2CbreakdownAs%3Apercentage&traces=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&start=1690315475062&end=1690920275062&paused=true)
 
-[Profile - Form Submit - CNP Direct Deposit Information](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20230601&_u.date01=20230628&explorer-table.plotKeys=%5B%5D&explorer-table.filter=%5EProfile%20-%20Form%20Submit%20-%20(direct-deposit-information%7CDirect%20Deposit%20Information%7CCNP%20Direct%20Deposit%20Information)&explorer-segmentExplorer.segmentId=analytics.eventAction/)
+  <p></p>
+
+**Objective 1: Improve save success rates by migrating to Lighthouse**.
 
 |KPI|Rate 1 month pre-launch [6/1/2023-6/28/2023]|10% UAT|25% UAT |50% UAT |75% UAT |1 week 100% | Rate 1mo. 100% of users [dates]|Rate 2mo. 100% of users [dates]|
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -79,8 +86,6 @@ As a person that receives payments from VA, I want to be able to easily view and
 |Failed retrievals of direct deposit (C&P) information|||||||||
 |Form Submits for direct deposit (C&P) information|18,397||||||||
 |Failures in saving direct deposit (C&P) information|||||||||
-
-
 
 
 ## Key deliverables
