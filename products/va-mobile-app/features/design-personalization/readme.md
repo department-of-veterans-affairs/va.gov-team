@@ -18,6 +18,3 @@ The VA mobile team has explored the concept of Personalization several times (20
 
 
 ### UX Research
-
-
-### [Related links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#related-links)
