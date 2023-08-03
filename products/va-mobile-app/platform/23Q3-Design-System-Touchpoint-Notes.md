@@ -8,6 +8,9 @@ Agenda:
 
 ## 8/3/23
 *   IA of Mobile Design System Documentation
+     -  for Q3 we will put our Design System and component docs on the Mobile Doc site
+     -  longer-term we want to have our docs more integrated with VADS, but still some unknowns on how
+       -  Ryan to check with Matt D. about using the Draft functionality from VADS and the Code Usage section and how that would work if Mobile was included
 
 ## 7/20/23
 *   Discuss purpose/role of this meeting
