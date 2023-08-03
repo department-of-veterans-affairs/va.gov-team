@@ -71,17 +71,11 @@ Weâ€™d like to recruit 10 participants for a total of 8 completed sessions. Weâ€
     * Around 10% 18-34
 - Types: 
     * Three to four service members and Veterans 
-     	- Age 55+, Black, male 
-    	- Age 35-54+, White, female
-     	- Age 18-34, Hispanic, male 
+
     * Two to four spouses or surviving spouses of a service member of Veteran (A **spouse** is a person who is or was legally married to a service member or Veteran. A **surviving spouse** is someone who was legally married to the service member or Veteran at the time of their death and includes a surviving spouse who remarried.)
-     	- Any age, LGBTQ+, female
     * One to two personal representative (a person filling out the pre-need form on behalf of an applicant, such as a **preparer**)
-     	- Age 35+, Asian, Male 
     * One unmarried adult child (An **unmarried adult child** is an individual who became physically or mentally disabled permanently and incapable of self-support before the age of 21, or before 23 years of age if pursuing a full-time course of instruction at an approved educational institution.)
-     	- Age 18-20 or 18-22 if pursuing degree
     * One parent of a service member (not the parent of a Veteran so only applicable for parents of service members; considered a Corey Shea Act applicant)
-     	- Age 40+, Native American
     * Six to eight people interested in pre-need eligibility determination
     * We would like to emphasize recruiting more from the following underserved communities:
         * Identify as Biracial, Asian, Black, or LGBTQ+ 
