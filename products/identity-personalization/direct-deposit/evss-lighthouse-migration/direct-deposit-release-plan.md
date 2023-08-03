@@ -106,15 +106,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 #### Results
 
 - **Number of unique users:** [FILL_IN]
-- **Metrics at this stage (per your "success criteria"):**
-  
-|KPI|Rate|
-|---|:-:|
-|Successful retrievals of direct deposit (C&P) information| |
-|Failed retrievals of direct deposit (C&P) information| |
-|Form Submits for direct deposit (C&P) information| |
-|Failures in saving direct deposit (C&P) information| |
-
+- **Metrics at this stage (per your "success criteria"):** <br> [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)
 - **Was any downstream service affected by the change?:** [PICK_ONE]: yes | no |  N/A
 - **Types of errors logged:** [FILL_IN]
 - **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** [FILL_IN]
@@ -125,14 +117,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 #### Results
 
 - **Number of unique users:** [FILL_IN]
-- **Metrics at this stage (per your "success criteria"):**
-  
-|KPI|Rate|
-|---|:-:|
-|Successful retrievals of direct deposit (C&P) information| |
-|Failed retrievals of direct deposit (C&P) information| |
-|Form Submits for direct deposit (C&P) information| |
-|Failures in saving direct deposit (C&P) information| |
+- **Metrics at this stage (per your "success criteria"):** <br> [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)
 
 - **Was any downstream service affected by the change?:** [PICK_ONE]: yes | no |  N/A
 - **Types of errors logged:** [FILL_IN]
