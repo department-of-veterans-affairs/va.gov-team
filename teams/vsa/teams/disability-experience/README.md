@@ -19,16 +19,16 @@ At the highest level, the core disability experience team is here to own, from t
 |Name|Role|Email|GH userid|
 |----|----|-----|---------|
 | Matt Self | OCTO PO | matthew.self2@va.gov / matthewself.dsva@gmail.com | mattpointzxer0 |
+| Jennifer Bertsch | OCTO Product Manager | jennifer.bertsch@va.gov | jenniferbertsch |
 | Rakshinda Aslam | Product Manager | rakshinda.aslam@agile6.com | RakshindaAslam |
 | Lydia Hooper | UX Researcher and Designer | lydia.hooper@agile6.com | lydiahooper |
-| Nyantee Asherman | UX Researcher and Designer | nyantee@cityfriends.tech | Nyanteea |
 | Aurora Hampton | Engineer | aurora.hampton@agile6.com | ahay-agile6 |
 | Eddie Glenn | Engineer | eddieglenn@navapbc.com | navaeddie |
 | Seth Darr | Engineer | seth.darr@agile6.com | sethdarragile6 |
 | Anneliese LaTempa | Delivery Manager | anneliese.latempa@agile6.com | alatempa24 |
 | Christine Cereca | Engineer | christine@cityfriends.tech | christinec-fftc |
 | Mark Chae | Engineer | markchae@navapbc.com | mchae-nava |
-| Kate Allbee | UX Designer and Research | kate@verdance.co | TBD |
+| Kate Allbee | UX Designer and Research | kate@verdance.co | @kate-allbee |
 | Austin Price | Product Manager | austin.price@coforma.io | austinjprice |
 | Sarah Shields | Delivery Manager | sarah.shields@coforma.io | sortizsh |
 | Micah Frazier | Engineer | micah.frazier@oddball.io | micahaspyr |
