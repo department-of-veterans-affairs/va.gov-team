@@ -1,53 +1,74 @@
 # MHV to VA.gov Rollout Gates (draft)
-Each application moving to VA.gov (e.g., Secure Messaging, Medical Records) will follow the same process defined below:
+Each application moving to VA.gov (e.g., Secure Messaging, Medical Records, Medication,s Appointments) will follow the same process defined below. 
 
-## To enter Phase 0:
-- Defect characterization is established
-- All critical and major defects addressed
-- Minor and cosmetic defects have been prioritized and added to backlog
-- Product has been thoroughly documented
-	- Decisions
+Delineation of phases: [https://dvagov.sharepoint.com/sites/vhaccmhvtovagovcomms/SitePages/timeline.aspx#what-to-expect-in-each-phase-of-a-feature’s-launch](https://dvagov.sharepoint.com/sites/vhaccmhvtovagovcomms/SitePages/timeline.aspx#what-to-expect-in-each-phase-of-a-feature’s-launch)
+
+Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1667322271773/26b9a1c19e3d4f1dbcc1dba4e4218a56f0fbb75a?sender=ude85bb253763b7bbdaf46656)
+
+## To enter Phase 0 (Trusted Users)
+- [ ]  Collab cycle successfully completed and all critical and major defects addressed
+- [ ]  Minor and cosmetic defects have been prioritized and added to backlog
+- [ ] Product documentation is up to date
 	- Discovery
 	- Research
 	- System Architecture
 	- Data Architecture
 	- UI/UX
-	- Test cases
 	- User documentation
-- Monitoring has been set up (Datadog)
-- Support personnel have been trained
-- Contingency plan has been defined
-- Support/issue reporting process has been defined
-- Communication plan has been defined for next phase (what, how, when, to whom info will be communicated)
-- Change management process has been defined
-- Outcomes and KPIs have been defined
-- Analytics are in place to measure KPIs
-- Has been through user acceptance testing
-- Has been reviewed by stakeholders and they have acknowledged that requirements have been met
-- Has been reviewed by clinical or other SMEs and they have acknowledged that it adheres to legal and/or policy requirements, governance standards
-- All phases of Collaboration Cycle have been completed
-- Gate review team has been established
-- Goals and exit criteria have been established for phase 0
-- Trusted users have been identified
-- Communication has gone out to trusted users
-- Gate review is conducted
-- Outcome of gate review is documented
+- [ ] Monitoring has been set up (Analytics/Datadog)
+- [ ] Product guide created and shared with support personnel 
+- [ ] Support/issue reporting process and R&R has been defined
+- [ ] Goals and exit criteria have been established for phase 0 and agreed upon with product owner
+	- Each application will have a specific target that it is looking to hit (i.e. 250 messages sent, or # interactions or transactions completed)
+- [ ] Communications working group has prepared (and had approved)
+	- [ ] all necessary communication materials have been drafted & reviewed by OCC and OCTO leadership 
+- [ ] Change management and comms have been notified
+- [ ] Schedule and complete user acceptance testing with development team, OCTO team, Product Owner, and other necessary technical personnel
+	- All use cases tested and validated in production, starting from sign-in at all entry points.
+	- Any risks are captured for go-no-go
+ 	- Any risks reviewed with OCC Product Owner and OCTO team to determine if they are launch blocking. 
+- [ ] Has been reviewed by product owners and they have acknowledged that requirements have been met
+	- Product owners includes the OCC product owner, OCTO product/design/engineering leads 
+- [ ] Has been reviewed by clinical or other SMEs and they have acknowledged that it adheres to legal and/or policy requirements, governance standards
+- [ ] Go/no go team has been established & go-no-go meeting scheduled
+	- [ ] Go no go agenda prepared ([see example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/Secure%20Messaging%20Go-No-Go%20Updated%20Live%2071723.docx) )
+- [ ] Trusted users have been identified
+- [ ] Go/No Go meeting conducted
+	- [ ] Outcomes of go-no-go documented 
+- [ ] Communication has gone out to trusted users
+- [ ] Communication goes out to other key audiences
 
-## Phase 0: Trusted Users
-- Application exists in a published, authenticated state, but can only be found if users know URL. 
-- Invite a select group of trusted users to try the MHV application on VA.gov. (mobile model) 
-- Provide dedicated feedback channels.  Incorporate suggestions into backlog & future sprints. 
+## While the app is in phase 0: Trusted Users
+- Application exists in a published, authenticated state, but can only be found if users know URL.
 - Public websites, My VA continue to point users to MHV app. 
-- Apps can move to this phase when they are ready. Apps may be in this phase for a while. 
-- Review/revise release plan as needed
-- Communication plan has been defined for next phase (what, how, when, to whom info will be communicated)
-- Goals and exit criteria have been established for next phase
-- Gate review is conducted
-- Outcome of gate review is documented
-- Communications have been posted/sent
+- A select group of trusted users is invited to try the MHV application on VA.gov. (mobile model) 
+- Provide dedicated feedback channels and [follow protocol for monitoring, responding, and logging issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/metrics-performance-monitoring/Triaging-Veteran-feedback-guidance.md) 
+- Team tddress bugs quickly
+- Dev team to incorporate suggestions into backlog & future sprints.
+- Dev team to address any top-line feature or API improvements needed to move from MVP to Phase 1
+- Communication plan and materials are defined and prepared for Phase 1 (including what, how, when, to whom info will be communicated)
+- Training materials are defined and prepared for Phase 1
+- Dependencies tracked (i.e. terms of use) and addressed
+- Prepare any integrations and other information needed to move from 0 - 1 (i.e. content for MHV website, integration with the MHV on va.gov home page and left nav)
+- Ongoing work to prepare for Phase 2 integrations 
   
-## Phase 1: "Try Me"
-- Add a URL path from MHV’s app to the new apartment app: “Hi, we’re building a new version of this application. Try it out! Give us feedback.” 
+## To move from Phase 0 to Phase 1: "Try Me"
+- [ ] Verify Phase 0 targets reached
+- [ ] Verify Needed feature improvements have been made
+	- What is "needed" is agreed upon jointly by OCC Product Owner and OCC owners, with support from OCC leadership
+- [ ] Verify - Any major feature improvements have been tested and completed the collaboration cycle
+- [ ] Add a URL path from MHV’s app to the new apartment app: “Hi, we’re building a new version of this application. Try it out! Give us feedback.” 
+
+- [ ] Schedule and complete user acceptance testing with development team, OCTO team, Product Owner, and other necessary technical personnel
+	- All use cases tested and validated in production, starting from sign-in at all entry points.
+	- Any risks are captured for go-no-go
+ 	- Any risks reviewed with OCC Product Owner and OCTO team to determine if they are launch blocking.
+- [ ] Review completed w product owners and they have acknowledged that requirements have been met
+	- Product owners includes the OCC product owner, OCTO product/design/engineering leads 
+- [ ] Review completed w clinical or other SMEs and they have acknowledged that it adheres to legal and/or policy requirements, governance standards
+- [ ] Go/no go team has been established & go-no-go meeting scheduled
+- [ ] Go/No Go meeting conducted
+	- [ ] Outcomes of go-no-go documented 
 - MHV users can still use the old app on MHV. 
 - Send MHV newsletter story encouraging users to try the new version and give feedback. 
 - Public websites, My VA continue to point users to MHV app. 
