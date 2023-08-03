@@ -66,9 +66,9 @@ Weâ€™d like to recruit 10 participants for a total of 8 completed sessions. Weâ€
 **Primary criteria (must-haves)**
 - Amount: Target is 8 participants but recruit 10
 - Age ranges: 
-    * Around 70% 55+
-    * Around 20% 35+
-    * Around 10% 18-34
+    * Around 70% 55+ - 7 participants
+    * Around 20% 35+ - 2 participants
+    * Around 10% 18-34 - 1 participant
 - Types: 
     * Three to four service members and Veterans 
 
@@ -79,6 +79,12 @@ Weâ€™d like to recruit 10 participants for a total of 8 completed sessions. Weâ€
     * Six to eight people interested in pre-need eligibility determination
     * We would like to emphasize recruiting more from the following underserved communities:
         * Identify as Biracial, Asian, Black, or LGBTQ+ 
+		*Biracial - 1 participant
+		*Asian - 1 participant	
+		*Asian - 1 participant
+		*Black - 1 participant
+		*LGBTQ+ - 1 participant
+    * Nice to haves:  
         * Live in rural areas or abroad
         * Other than honorable
         * Immigrant origin
