@@ -7,19 +7,19 @@
 ### Attendees: Sofia Kirkman, Dawn Munoz
 
 ### Notes:
-Close to moving into a variation of Phase 1 in terms of appointments
+- Close to moving into a variation of Phase 1 in terms of appointments
 appointments has lived on VA.gov for some time
-Viewing appointments was on MHV but managing apointments was on VA.gov
-Processes are going to change
-Getting ready to launch into the try me phase 
-"if you have been managing your appointments on VA.gov then you will continue to use the same tool"
-MHV is going away as a sign in in January
-Tricky messaging because there is a difference between MHV sign in and MHV portal
-Difficulty in conveying how to sign up for VA.gov by using a Login.gov account
-Forming a "glossary of terms" to help people understand the differences in the language
-Content brief is to show what studies show but they are not necessarily style guides
-Things from content briefs are taken in as findings
-LGA team will follow up with Susan Haidary to understand coordinator workflow and connect with potential MVP sites
+- Viewing appointments was on MHV but managing apointments was on VA.gov
+- Processes for appointments are going to change as everything pertaining to appointments is moving to VA.gov
+- Getting ready to launch into the try me phase 
+- For veterans who are already familiar with managing appointments on VA.gov: "if you have been managing your appointments on VA.gov then you will continue to use the same tool"
+- MHV is going away as a sign in in January
+- Tricky messaging because there is a difference between MHV sign in and MHV portal
+- Difficulty in conveying how to sign up for VA.gov by using a Login.gov account
+- Forming a "glossary of terms" to help people understand the differences in the language
+- Content brief is to show what studies show but they are not necessarily style guides
+- Things from content briefs are taken in as findings
+- LGA team will follow up with Susan Haidary to understand coordinator workflow and connect with potential MVP sites
 
 
 
