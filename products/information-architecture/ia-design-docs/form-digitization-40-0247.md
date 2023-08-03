@@ -4,6 +4,8 @@
 - 7/6/23 - Created (JM)
 - 7/27/23 - Edits (JM)
    - Updated redirect link from digitized form URL to the PMC details page as it better corresponds with the legacy page
+- 8/3/23 - Edits (JM)
+   - Removed redirect recommendation
 
 **Team:** Form digitization team
 
@@ -54,7 +56,7 @@
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- https://www.cem.va.gov/facts/Presidential_Memorial_Certificates.asp| www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/| We recommend redirecting this legacy page to the modernized page with information on the Presidential Memorial Certificate, but suggest connecting with the program office first to confirm this change before proceeding with the redirect. 
+|   |
  
 
 
@@ -64,3 +66,5 @@ Current URL | Redirect to | Notes
 <hr>
 
 ## <a name="notes"></a>Meetings notes and background info
+#### August 3, 2023 - Redirect recommendation
+Connected with Beth P about redirecting the legacy informational page and this page will be a part of the broader migration work. For now, okay to leave as is and not move forward with a redirect recommendation at this moment.
