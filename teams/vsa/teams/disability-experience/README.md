@@ -4,7 +4,7 @@ Last Updated - 03/27/2023
 
 ## Where to find us
 - GitHub Label: disability-experience
-- Slack channel: #benefits-ce-disability_exp_1, #benefits-ce-disablity_exp_2
+- Slack channel: #benefits-ce-disability_exp
 - Product repo: [va.gov-team/tree/master/products/disability/526ez ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
 - Teams repo: [va.gov-team/teams/vsa/teams/disability-experience/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
 - Zenhub board: Workspace - [Disability experience](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)
