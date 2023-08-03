@@ -15,7 +15,7 @@
 
 ### Table of Contents
 
-- [August 2023 -- Re-evaluating the VANotify/onsite (VA.gov) notifications strategy]() 
+- [August 2023 -- Re-evaluating the VANotify/onsite (VA.gov) notifications strategy](#re-evaluating-the-vanotifyonsite-vagov-notifications-strategy) 
 - [Overview](#overview)
 - [Problems](#problems)
 - [Questions](#questions)
