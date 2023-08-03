@@ -55,18 +55,18 @@ What are you trying to learn from this research?
 
 
 ### Outcome
-These learnings will allow us to evaluate for additional gaps prior to launching these updates to production. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed in future interations.
+These learnings will allow us to evaluate for additional gaps during the rollout of these updates to production. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed in future interations.
 
 
 ### Research questions
 **Goal 1: Test the usability of the experimental pattern for adding multiple dependents to the household financial information section.**
-- When arriving at the dependent questions, is there any confusion on who the participant should add here? (Who does the VA consider a dependent)
+- When arriving at the dependent questions, is there any confusion on who the participant should add here? (Who does the VA consider a dependent?)
 - Are any of the content/questions unclear or cause the participant to pause?
-- Can participant easily move through the pages of dependent questions? 
+- Can participants easily move through the pages of dependent questions? 
 - Are the questions grouped by topic (one-thing-per-page) as it would make sense to the participant?  
 - After adding their first dependent, do participants know how to make changes or remove a dependent from the application?
 - Do participants comment on the progress bar during this process?
-- Are participants able to make adjustments to their dependents from the reivew page easily or do they struggle?
+- Are participants able to make adjustments to their dependents from the review page easily or do they struggle?
 - Do participants seem to be confident when making edits on the review page or hesitant?
 
 
@@ -117,7 +117,7 @@ For moderated usability tests:
 ## Recruitment	
 
 ### Recruitment approach
-Our intended audience for this reasearch are Veterans and we will be using and leveraging Perigean to recruit participants.
+Our intended audience for this research are Veterans and we will be using and leveraging Perigean to recruit participants.
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
