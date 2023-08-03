@@ -81,8 +81,8 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 ### Metrics
   
-- How will you make the product available in production while limiting the number of users who can find/access it: We'll enable the toggle for a % of users
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: We want to see that the new LH API is working as good or better than our current EVSS API
+- **How will you make the product available in production while limiting the number of users who can find/access it:** <br>We'll enable the toggle for a % of users<br>
+- **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** <br> We want to see that the new LH API is working as good or better than our current EVSS API<br>
   - Successful retrievals of direct deposit (C&P) information
   - Failed retrievals of direct deposit (C&P) information
   - Form Submits for direct deposit (C&P) information
@@ -94,9 +94,8 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
           - [Viewing LH Direct Deposit](https://vagov.ddog-gov.com/apm/resource/vets-api/rack.request/e504ea6e07d6848b?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AProfile%3A%3ADirectDeposits%3A%3ADisabilityCompensationsController%23show%22&env=eks-prod&spanType=service-entry&topGraphs=latency%3Alatency%2Chits%3Acount%2Cerrors%3Acount%2CbreakdownAs%3Apercentage&traces=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&start=1690315410527&end=1690920210527&paused=true)
           - [Updating LH Direct Deposit](https://vagov.ddog-gov.com/apm/resource/vets-api/rack.request/bc1e3cb125eb0125?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AProfile%3A%3ADirectDeposits%3A%3ADisabilityCompensationsController%23update%22&env=eks-prod&spanType=service-entry&topGraphs=latency%3Alatency%2Chits%3Acount%2Cerrors%3Acount%2CbreakdownAs%3Apercentage&traces=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&start=1690315475062&end=1690920275062&paused=true)
 
-- Who is monitoring the dashboard(s)?: PM/PO/BE Developer 
+- **Who is monitoring the dashboard(s)?:** <br>PM/PO/BE Developer<br>
 
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
 ### Stage A: Canary (10%)
 
