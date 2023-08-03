@@ -4,7 +4,7 @@
 
 ### Members, Level 1
 - **Rocio De Santiago**, Front end developer on Benefits Decision Reviews
-- **Cara Frissell**, Research Lead for the Cartography team
+- **Cara Frissell**, Research Lead for the Cartography team ✔️
 - **Ruben Sun**, UX researcher and designer on Benefits Team 1
 - **Robert Bailey (Bobby)**, UX/UI Researcher and Designer on the Medical Records team ✔️
 - **Jonathan Nelson**, UX designer on the MHV to VA.gov team ✔️
