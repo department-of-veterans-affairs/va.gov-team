@@ -48,6 +48,7 @@ Architecture diagrams that show our systems in context can be found here:
 
 ## Support Hours <a name="hours"></a>
  - 7:00am ET - 8:00pm ET
+ - Monday through Friday
 
 ## Before you start… <a name="before-start"></a>
 Make sure you have access to DataDog 
