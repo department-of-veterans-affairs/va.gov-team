@@ -17,6 +17,10 @@ Last updated Aug 2023
   * Research review of existing VA sources for insights related to personalization in the Benefits & Health spaces.
     - [Presentation deck](https://docs.google.com/presentation/d/1J10VcE7PGN9emVT1vtqO4-5XRYc3Jycm5zJ4QJnc19g/edit) | [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/Review%20of%20User%20Research_%20VA%20Mobile%20App%20Personalization%20(Jul%202022).pdf)
 
+#### Concept development
+* [Personalized homescreen: High-level UI wireframes](https://balsamiq.cloud/s4uw4la/pa3zodh/rD7BD)
+
+
 ### Earlier exploratory activities (Nov 2021 - Jan 2022) 
 #### Desk Research
 * [Comparative Analysis: Personalized & Contexutal App Homescreens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis.md) (Nov 2021)  
