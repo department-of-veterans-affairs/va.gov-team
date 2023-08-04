@@ -31,6 +31,7 @@ ________________________________________________________________________________
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update Vets-API to use the newly stored cell phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Aggregate Poster Pilot Feedback Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63188)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create a sitewide intake ticket (resource page update) to update the image of the check-in poster](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60080)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60740)
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
