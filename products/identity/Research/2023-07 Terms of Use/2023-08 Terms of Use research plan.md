@@ -87,8 +87,7 @@ Our primary diversity and inclusion criteria:
 - 9 total desktop users which includes
    - 5 sighted desktop users
    - 4 screen reader users
-- 3 cognitive disabilities
-- 2 screen zoom users (who are different than the recruited screen reader users)
+- 2 cognitive disabilities
 
 
 ### Screener Questions
