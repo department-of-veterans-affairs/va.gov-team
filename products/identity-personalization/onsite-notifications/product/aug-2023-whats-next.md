@@ -37,3 +37,19 @@ According to analytics, far more people are clicking into the debt section of My
 3.	Is this component confusing? Maybe the icons aren’t necessary…
 
 **Preliminary next steps**: Talk to the team about this.
+
+## What I think our team should do
+
+These are some assumptions I have about what work our team should pursue with regards to notifications. To borrow from the idea of [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills), we should be thinking both about the broad the authenticated experience and in-depth about our own product (My VA).
+
+### Working across the authenticated experience
+
+I am assuming the following would be helpful:
+
+1. Providing guidance across teams around how notification states should be used within the logged-in experience. The goal is to make sure notifications and alerts are surfaced in a uniform, consistent way.
+2. Filling in any gaps in the design system for notification/alerts states that aren't accounted for.
+3. Figuring out when -- or if -- VANotify should be sending notification information to VA.gov.
+
+### Work on My VA
+
+While we are working on the big picture, we should also continue to improve how we surface action items and important updates on the My VA dashboard. This might be a space where we can iterate and try things to see if they can or should be applied to the broader authenticated experience.
