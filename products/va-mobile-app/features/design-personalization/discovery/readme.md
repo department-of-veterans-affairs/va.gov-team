@@ -33,7 +33,7 @@ Last updated Aug 2023
 
 ## Related links
 **VA Mobile App:**
-* **VA Mobile App: Retention research (2023):**
+* [**VA Mobile App Retention research (2023)**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention)
     * [Forging a mixed methods process: VA Mobile App - Retention research findings](https://docs.google.com/presentation/d/1bSW3zev7agnUY7HsFkDkuJL-OY0RFyGzUk3TcdeM6sc/edit#slide=id.g892adcb623_0_141)
 * **VA Mobile App: Information Architecture & Navigation (2022):**
    * [VA Mobile App: Information Architecture & Navigation - High Level Project Summary
