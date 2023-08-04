@@ -13,13 +13,13 @@ Veterans are asked to choose where they'd like to receive the type of care they 
 ### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-**Display facilities**
+**Display the user's registered facilities**
 - Show facilities if:
     - They are associated with a VistA site where the user is registered
     - The site has marked the facility as accepting either requests or direct appointments for the chosen type of care
 - If a user only has one facility that supports online scheduling for the chosen type of care, this page will show that facility without radio buttons.
 
-**Sort facilities**
+**Allow user to sort facilities**
 - If multiple facilites are shown and the user has a residential address in VA Profile
   - Show facilities sorted by distance from that address.
   - Users can choose to sort the facilities by how close they are to their current (browser) location instead of residential address.
@@ -28,11 +28,11 @@ Veterans are asked to choose where they'd like to receive the type of care they 
     - Facilities that are within 100 miles of the residential address or current location and do not support any online scheduling can be revealed by clicking on the "Why isn't my facility shown?" link below the facilities options. 
 - If the user does not have a residential address, show the facilities in alphabetical order.
 
-**Cerner facilities**
+**Redirect user to Cerner**
 - If the user is registered at a Cerner site, facilities in that site are always shown on this page and include a link to the Cerner portal below the radio button
 - If a user choose a Cerner facility and clicks Continue, they're sent to the schedule Cerner page
 
-**Check if user is eligible to schedule**
+**Notify user if they are ineligible to schedule or request**
 - After a user chooses a facility and clicks continue, VAOS checks if they're eligible to make a request or to direct schedule online. 
     - VAOS tries to put users in the direct schedule path first, and falls back to the request path if direct scheduling is not available
     - If the user is not eligible for either path, they're shown a modal explaining why
@@ -47,11 +47,11 @@ Veterans are asked to choose where they'd like to receive the type of care they 
         - This is a front end check, done to reduce the confusion around what clinic a user should choose
         - This will effectively override check 2, if that check is set to allow all users through in VATS
 - For the request path, there are three potential checks:
-    1. Does the facility support requests (set in VATS)
-    2. Does the veteran have a recent enough visit
+    1. Does the facility support requests (set in VATS)?
+    2. Does the veteran have a recent enough visit?
         - This is controlled in VATS, and can be set to 12 or 24 months, or disabled
         - This check does not apply for primary care
-    3. Is the user over the request limit for this facility and type of care
+    3. Is the user over the request limit for this type of care at this facility?
         - This is controlled in VATS and can be set to 1 or 2
 - If a user can direct schedule, they're sent to the clinic choice page
 - If a user can only make a request, they're sent to the request calendar page
