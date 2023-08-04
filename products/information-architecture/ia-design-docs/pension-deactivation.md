@@ -1,7 +1,7 @@
-# IA Design for [Pension Deactivation]
-**STATUS: [In Progress]**
+# IA Design for Pension Deactivation
+**STATUS: In Progress**
 
-**Team:** [Benefits and claims: Non-Disability Benefits]
+**Team:** Benefits and claims: Non-Disability Benefits
 
 **IA Request:** [[Link to Sitewide Content and IA intake request](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/62445)]
 
