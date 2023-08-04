@@ -15,5 +15,3 @@ The VA mobile team has explored the concept of Personalization several times (20
   * [**Personalization - Strategy & Research (2022)**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2022-may-jun-2022)
   * [**Personalization - Earlier exploratory activities (Nov 2021 - Jan 2022)**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#earlier-exploratory-activities-nov-2021---jan-2022)
 
-
-### UX Research
