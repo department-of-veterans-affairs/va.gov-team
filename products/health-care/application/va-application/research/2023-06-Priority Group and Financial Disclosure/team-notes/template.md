@@ -1,48 +1,61 @@
 # Conversation Guide for health care application generative research study around Priority Groups and Financial Disclosure Updates [Health Enrollment Team, 10-10EZ, July 2023]
 
 ## P#
-
+**Date and Time**
 ---
 
 
 ## Warm-up Questions  - 3 minutes
 
-- How long have you been enrolled in and using health care benefits from the VA?
+[How long have you been enrolled in and using health care benefits from the VA?]
+  > Quotes
   >
-  >
+  - Notes
 
-- How often do you visit VA.gov online and do you sign in every time you visit?
+[How often do you visit VA.gov online and do you sign in every time you visit?]
   
 
 ## First Topic: [Application Process] - 10 minutes
 
-- Can you explain to me in your own words the process when you applied for health care benefits?
-- [If they don't specify] Did you apply online, in-person or via paper application by yourself?
-- What resources did you use to understand what health care benefits you might qualify for during this process?
-- How would you describe the process that happened after you completed your application, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?
-- Now that you have been using your benefits, I would like you to think back and recall if there is anything that would have been helpful for you to know during your application process that you have learned after you enrolled?
-- How have you - if at all - been notified since you enrolled that you had to provide updated information?
+[Can you explain to me in your own words the process when you applied for health care benefits?]
+
+[[If they don't specify] Did you apply online, in-person or via paper application by yourself?]
+
+[What resources did you use to understand what health care benefits you might qualify for during this process?]
+
+[How would you describe the process that happened after you completed your application, such as things you had to do, additional information you had to provide, communications from the VA, your first appointment, etc.?]
+
+[Now that you have been using your benefits, I would like you to think back and recall if there is anything that would have been helpful for you to know during your application process that you have learned after you enrolled?]
+
+[How have you - if at all - been notified since you enrolled that you had to provide updated information?]
 
 
 ### Things to watch for:
 - [What terminology does the Veteran use as they talk about their experience?]
+      - 
 - [How does the Veteran portray the overall process - easy, difficult, uneventful?]
+      - 
 - [How does the Veteran describe the process of figuring out what they are eligible for - are they frustrated or do they find it easy?]
+      - 
 - [What does the Veteran call out about the process after the initial application and around managing their benefits?]
+      - 
 - [What pain points or areas of confusion are revealed?]
 
 
 ## Second Topic: [Priority Group - Awareness] - 5 minutes
-- Can you tell me more about what Priority Group you are in for your health care benefits now?
+[Can you tell me more about what Priority Group you are in for your health care benefits now?]
 
 [If aware of Priority Groups]
-- Can you please describe how this was communicated to you and how you understood the impact to you and your benefits?
-- Before you completed enrollment, how were you aware of Priority Groups or copays as part of the health care benefits package?
-- [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
-- Since you have been using your benefits, what have you learned about Priority Groups and the impact it has on you and health care benefits that you wish you knew during the application?
+[Can you please describe how this was communicated to you and how you understood the impact to you and your benefits?]
+
+[Before you completed enrollment, how were you aware of Priority Groups or copays as part of the health care benefits package?]
+
+[if yes, Can you tell me more about what you knew before you applied and how you learned that information?]
+
+[Since you have been using your benefits, what have you learned about Priority Groups and the impact it has on you and health care benefits that you wish you knew during the application?]
 
 [If NOT aware of Priority Groups, ask question and skip to fourth topic]
-- What do you think Priority Groups are? There is no right or wrong answer here, just explain your understanding of what you think it could be and how that is important to health care benefits. 
+[What do you think Priority Groups are? There is no right or wrong answer here, just explain your understanding of what you think it could be and how that is important to health care benefits.]
 
 
 
@@ -56,10 +69,10 @@
 ---
 
 ## Third Topic: [Priority Group - Future State] - 5 minutes
-- Where are some places that you would like to be able to view your Priority Group number? Why?
-- How would this be a benefit to you?
-- What type of information is important to you to have access to about your Priority Group and your health care benefits?
-- Is there anything you find confusing about how your Priority Group impacts you today that you wish the VA would provide more clarity on?
+[Where are some places that you would like to be able to view your Priority Group number? Why?]
+[How would this be a benefit to you?]
+[What type of information is important to you to have access to about your Priority Group and your health care benefits?]
+[Is there anything you find confusing about how your Priority Group impacts you today that you wish the VA would provide more clarity on?]
 
 
 ### Things to watch for:
@@ -71,7 +84,7 @@
 ---
 
 ## Fourth Topic: [Updates post enrollment] - 5 minutes
-- Changing directions a bit now, since you enrolled, have you had to make any updates to your information since your initial application?
+[Changing directions a bit now, since you enrolled, have you had to make any updates to your information since your initial application?]
 >
 
 - If yes:
@@ -82,14 +95,15 @@
 
 
 ## [Financial Disclosure] - 5 minutes
-- How would you see a change in income impacting your health care benefits?
+[How would you see a change in income impacting your health care benefits?]
 > 
-- How would you want to be notified to provide your updated financial information?
+
+[How would you want to be notified to provide your updated financial information?]
 
 
 ## [Dependents] - 5 minutes
-- Have you ever had a need to make changes to your dependents for VA benefits? If so, can you tell me more about that experience. 
-- Ideally if you had to make changes to your dependents, can you explain to me how you would go about doing that?
+[Have you ever had a need to make changes to your dependents for VA benefits? If so, can you tell me more about that experience.] 
+[Ideally if you had to make changes to your dependents, can you explain to me how you would go about doing that?]
 
 
 ### Things to watch for:
@@ -100,24 +114,23 @@
 
 ## Fifth Topic: [EZR Tasks - SCENARIO] - 10 minutes
 
-- I would like to ask if you are comfortable sharing your screen and walking through a task on VA.gov?
-- Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
-
-- For this scenario, you received a communication to update your annual income to maintain your copay and travel reimbursement costs as part of your health care benefits. I would like to ask you to show me where and how you would expect to accomplish this online. 
-
-- [Share link to VA.gov in Zoom chat for VA.gov]
+[Share link to VA.gov in Zoom chat for VA.gov]
 
 
 [Notification and process]
-- How would you like to receive this communication that you need to provide updated financial information?
-- What would you want to know in this communication about how and why you need to update your financial information?
+[How would you like to receive this communication that you need to provide updated financial information?]
+[What would you want to know in this communication about how and why you need to update your financial information?]
 
 [Where to find]
-- Now, from the VA.gov home page, can you walk me through where you would expect to go to update your annual income?
-- Please remember to talk aloud about your thought process as you go.
-- Can you explain to me why you went [here] to update your financial information?
-- Talk to me about where you would expect to find the ability to complete this task and why.
-- [Possible prompt to remind them that this task is not available today, but want to know where you would expect to find it if it was made available]
+[Now, from the VA.gov home page, can you walk me through where you would expect to go to update your annual income?]
+[Please remember to talk aloud about your thought process as you go.]
+[Can you explain to me why you went [here] to update your financial information?]
+[Talk to me about where you would expect to find the ability to complete this task and why.]
+[Possible prompt to remind them that this task is not available today, but want to know where you would expect to find it if it was made available]
+
+
+
+
 
 [**IF** they state the would go to the VA Profile to update this information]
 - Are you comfortable logging in to your own VA profile account? 
@@ -141,6 +154,6 @@
 
 ## Post-Task Interview - 2 minutes
 
-- Is there anything else you would like to add about what we talked about today?
-- Any questions for me? 
+[Is there anything else you would like to add about what we talked about today?]
+[Any questions for me?]
 
