@@ -1,12 +1,12 @@
 # Initiative Brief: Family member benefit hub expansion
 #### Overview
 
- The VA.gov family member benefit hub has served as a front door to core benefit information for family members since the 2018 VA.gov redesign. But the deeper benefit information lives scattered amongst the benefit hubs. Research shows that family members are going to the hub for their information and communication efforts across VA are aiming to bring family member information (and specifically survivor information) together to help make it easier for family members to understand and access their benefits.
+The VA.gov family member benefit hub has served as a front door to core benefit information for family members since the 2018 VA.gov redesign. But the deeper benefit information lives scattered amongst the benefit hubs. Research shows that family members are going to the hub for their information and communication efforts across VA are aiming to bring family member information (and specifically survivor information) together to help make it easier for family members to understand and access their benefits.
 
 We're working to bring all family member core benefit content into the family member hub to full streamline and consolidate the benefit experience for this critical audience.
 
-Goals:
-This effort to create a single location for family member benefits will make it easier for family members to find, understand, and use information about their benefits. By pulling family member benefits out of the Veteran benefit hubs, this effort will also help to streamline the Veteran benefit experience and reduce the cognitive burden of links and content in those hubs.
+**Goals:**
+- This effort to create a single location for family member benefits will make it easier for family members to find, understand, and use information about their benefits. By pulling family member benefits out of the Veteran benefit hubs, this effort will also help to streamline the Veteran benefit experience and reduce the cognitive burden of links and content in those hubs.
 
 
 **Product(s) impacted**
