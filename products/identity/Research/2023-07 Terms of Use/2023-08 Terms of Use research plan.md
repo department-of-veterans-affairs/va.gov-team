@@ -51,7 +51,10 @@ Remote usability testing will evaluate the prototype with participants. We’ll 
 ### Research materials 
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4ad93a47df328dc862a3f90556cba0d3266723fe/products/identity/Research/2023-07%20Terms%20of%20Use/2023-07%20Terms%20of%20Use%20conversation%20guide.md)
-- [modal prototype](https://www.figma.com/file/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=0-1&mode=design&t=fFYcQAIlkNWAQ2sn-0)
+- [Conversation guide - screen reader]()
+-[Desktop prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=1-493&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=1%3A493&mode=design)
+- [Mobile prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=319-274&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=319%3A274&mode=design)
+- [Screen reader prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31&show-proto-sidebar=1)
 	
 ## Recruitment	
 
