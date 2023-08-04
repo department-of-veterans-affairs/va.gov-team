@@ -20,7 +20,18 @@ We're working to bring all family member core benefit content into the family me
 Family and caregiver benefit content, applications, and tasks are distributed across the Veteran benefit hubs.  Furthermore, tools related to managing health care and benefits are mostly framed up for the Veteran, but often also intended for family members and caregivers to use.
   
 * Evidence to support Prolem:
+  - Pull findings from health tree test
+  - Pull analytics to show how traffic has trended over time, since launch of family hub
+  - Are family benefit pages high traffic in the veteran hubs?
+  - We know the Veteran hubs are overwhelming and removing content/pages will help streamline for Veterans
+  - Analytics - can we create a funnel/path data; use prev and next pages - where are people going first
+  - Compare click depth - are there assumptions we can make?
+  - military spouse VEO research - wanting to be recognized as an individual
+  - Medallia data - look at what we did for auth exp work
+  
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
+ - Content is currently organized by Veteran benefit and is not necessarily optimized for different audiences
+  
 * How does this initiative help further OCTO-DE's mission and goals?
   - Streamline the IA
  
@@ -38,7 +49,8 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
   - 
 
 ## Desired Business Outcomes
-- Increased use of family member benefits and services
+- Increased enrollment and use of family member benefits and services
+- Reduced calls from family members and caregivers unable to find benefit content and tasks
 
 
 ## Undesired Business Outcomes
@@ -49,10 +61,12 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 ### Key Performance Indicators (KPIs)
 
-- Increased traffic to key family member pages
-- 
+- Same or increased traffic to key family member pages
+- same or increased task completion
+- Performs better than baseline
+- Not detrimenting findability of Veteran content due to similar family member content (i.e. same benefit has content in Veteran hub and family hub)
 - Decreased calls from family members and caregivers
-- VA.gov overall satisfaction
+- VA.gov overall satisfaction - can we even get to this for a specific audience
 - VA.gov experience rating
 - 
 | Product KPI | Baseline as of **DATE** | Target | Link to data source (e.g. GA, Domo) |
@@ -68,25 +82,22 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 ## Discovery
 
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
-- **Value Risks** (will people use it): 
+**Assumptions**
 
-- **Usability Risks** (can people figure out how to use it):
-  - Family members will continue to look for benefits information in the Veteran hubs more the family member hub (this is the current state)
-  - Family members will get lost once sent into the Veteran hubs for certain tasks and applications
-  - Organization of the family member hub may make it difficult to find benefits that pertain to the visitor (i.e. benefits specific to parents or survivors)
-  - Loss of SEO with changes in placement, titles, and URLs
- 
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
- 
 
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: VA stakeholder testing, marketing, compliance requirements 
+**Risks**
+- Family members will continue to look for benefits information in the Veteran hubs more the family member hub (this is the current state)
+- Family members will get lost once sent into the Veteran hubs for certain tasks and applications
+- Organization of the family member hub may make it difficult to find benefits that pertain to the visitor (i.e. benefits specific to parents or survivors)
+- Loss of SEO with changes in placement, titles, and URLs
+- Potential 404s
+- Resources and support only allows selecting one audience type - Veteran or family member - and some content will be for both audiences
+- Loss of trust from family members and caregivers if the findability of benefit information becomes more difficult
+- Stakeholders disagree or block the changes needed
+- Development work needed from teams outside Sitewide to support moving applications and tools
 
- 
-  - 
+
 ### Solution Scope
 
 **In Scope**
@@ -96,23 +107,9 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 **Not In Scope**
 
-## Launch Planning
+## Approach
 
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
-
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
 
 ---
    
@@ -143,18 +140,17 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 #### Communications
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
+- Team Name: Discovery - OCTO Content and IA; Implementation - Sitewide CAIA
+- GitHub Label(s): sitewide CAIA
+- Slack channel: #sitewide-content-accessibility-ia
 - Product POCs:
-  - VA Product Owner: 
-  - Product Manager:
-  - Delivery Manager: 
+  - OCTO Content Strategy: Danielle Thierry 
+  - OCTO Information Architecture: Mikki Northuis
 
 
 #### Stakeholders
   
-- 
+- All program offices that have family member or caregiver benefits
 
 
 ---
