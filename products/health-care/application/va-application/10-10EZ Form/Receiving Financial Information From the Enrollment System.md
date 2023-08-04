@@ -33,7 +33,7 @@
     for short, where `XPATH_PREFIX` is a helpful constant inside of the service file.
 ## When the Test User Does Not Have the Necessary Financial Information
 1. If the user does not have any financial information, or you can’t find the fields you need, you may need to update or add an whole new income test to their enrollment system record. Here are the steps to do so:
-    - Via the intranet (CAG or GFE), visit the <a href="https://sqa.ves.va.gov/esr/" target="_blank">enrollment system dashboard</a>.
+    - Via the intranet (CAG or GFE), visit the <a href="https://sqa.ves.va.gov/esr/" target="_blank">enrollment system dashboard</a>. If you can't access the page, please reach out to Joshua Faulkner via slack to request access.
     - Sign in using your PIV card.
     - You should get directed to the "Person Search" page.
     - Look for the "ICN" field, enter the `icn` for the test user, and then click "Find".
