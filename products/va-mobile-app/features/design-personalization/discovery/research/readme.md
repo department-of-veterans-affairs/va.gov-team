@@ -1,5 +1,5 @@
 
-# VA Mobile App - Personalization Research
+# VA Mobile App - Personalization Discovery Research
 
 ## Previous Studies - Personalization
 - [VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md) Nov 2021
