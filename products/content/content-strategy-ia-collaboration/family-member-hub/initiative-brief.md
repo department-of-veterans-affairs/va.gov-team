@@ -14,9 +14,11 @@ We're working to bring all family member core benefit content into the family me
 - Benefit hubs
 - Resources and support
 
-## Problem
+## Problems to solve
 
-* Problem Defined: 
+**Problem Defined:**
+Family and caregiver benefit content, applications, and tasks are distributed across the Veteran benefit hubs.  Furthermore, tools related to managing health care and benefits are mostly framed up for the Veteran, but often also intended for family members and caregivers to use.
+  
 * Evidence to support Prolem:
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
@@ -24,25 +26,32 @@ We're working to bring all family member core benefit content into the family me
  
 
 ## Desired User Outcomes
-* *Ie. Faster load, increased trust, etc*
-
+- As a family member and/or caregiver of a Veteran, I can easily
+  - find and learn about the benefits and services available to me
+  - apply online or understand how to apply for the benefits and services available to me
+  - access tools to manage my health care and benefits I am receiving through VA
 
 ## Undesired User Outcomes
-* 
+- Family members or caregivers of Veterans
+  - are unable to find information and applications for the benefits and services avilable to them
+  - are unable to find the tools that allow them to manage their health care and benefits they receive through VA
+  - 
 
 ## Desired Business Outcomes
-* 
+- Increased use of family member benefits and services
 
 
 ## Undesired Business Outcomes
-* 
+- Increased calls from family members and caregivers unable to find benefit content and tasks
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
 
-- Increased traffic to family member pages
+- Increased traffic to key family member pages
+- 
+- Decreased calls from family members and caregivers
 - VA.gov overall satisfaction
 - VA.gov experience rating
 - 
