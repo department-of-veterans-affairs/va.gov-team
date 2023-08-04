@@ -1,4 +1,4 @@
-# Initiative Brief - EVSS to LH > Disabilities Rating
+# Initiative Brief - EVSS to LightHouse > Disabilities Rating API Update
 #### Overview
 
 Product: Profile > Nametag > Disabilities Rating
