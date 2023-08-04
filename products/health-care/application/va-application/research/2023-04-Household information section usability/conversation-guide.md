@@ -50,19 +50,19 @@ Before we start, a few things I want to mention:
 
 *Start recording.*
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners, if we remove any information that can be used to identify you?**
 
 
-## Warm-up Questions (Optional) - X minutes
-
-Before we look at the website, let’s start with a few warm-up questions.
-
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
 ## Task: [Start Application] - 5 minutes
 
 - For this session today, we are going to work through the scenario that you are interested in applying for VA health care.
-- You arrive at this page. Please explain what the content on this page means to you and what you would do next.
+
+- You arrive at [this page](https://staging.va.gov/health-care/apply/application/introduction). Please explain what the content on this page means to you and what you would do next.
+
+[Link to staging site of introduction page to the 10-10EZ health care application]
+
 
 **Participant questions:**
 - On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the application you are about to begin? - Why did you give it that rating?
