@@ -1,0 +1,70 @@
+# IA Design for [Pension Deactivation]
+**STATUS: [In Progress]**
+
+**Team:** [Benefits and claims: Non-Disability Benefits]
+
+**IA Request:** [[Link to Sitewide Content and IA intake request](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/62445)]
+
+**On this page:**
+- [User/page flows](#flows)
+- [Entry points](#nav)
+- [Redirects](#redirects)
+- [Search best bets](#search)
+
+
+## <a name="flows"></a>User/page flows <br>
+Up-to-date user flows can be found on mural here: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689262813123/cb880912d3f71ef79be0d63d0e61e306d1e6ae31?wid=0-1691181001222
+
+
+## <a name="nav"></a>Entry points <br>
+We are REMOVING entry points for this project.
+
+1. **Main Nav - Pension** - [Remove]
+  - Link label: Apply now for Veterans Pension
+  - Link destination: https://www.va.gov/pension/application/527EZ/introduction
+  - ![Pension main nav](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/e07c669d-da37-4634-838b-db3722d89cc1)
+
+
+2. **[Left Nav - Pension]** - [Remove]
+  - Link label: Apply now
+  - Link destination: https://www.va.gov/pension/application/527EZ/introduction
+  - ![Pension Left Nav](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/bf0ce511-2f64-4bf8-829d-2081aca61acc)
+
+
+3. **[Pension Hub Page]** - [Remove]
+  - Link label: Apply for Veterans Pension online (VA Form 21P-527EZ)
+  - Link destination: https://www.va.gov/pension/application/527EZ/introduction
+  - ![Pension hub page](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/0a2797e1-1e3d-4859-b76c-c811f94a491c)
+
+Note: The content team will also remove links to the online form from:
+1. The 'How to Apply' pension page:
+   ![How to apply](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/92181033-4894-4a69-b4c8-e190766dff21)
+
+2. The 'About Form 527EZ' page
+   ![About form 527ez](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/d402909e-4acc-4058-aab8-d3fd1b776989)
+
+3. Any PDFs that directly link or reference the online form
+
+
+
+## <a name="redirects"></a>Redirects <br>
+*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
+
+
+Current URL | Redirect to | Notes
+--- | --- | ---
+All online form pages | https://www.va.gov/pension/how-to-apply/ | How we set up the redirects will depend on if there are currently redirects set up.
+
+Redirects will need to be temporary (302), not permanent (301). The 302 code tells search engines that the redirect isn't permanent and the URL will come back at a future date.  Some search engines will still index the old page, but the redirect will land them in the right spot.
+ 
+
+## <a name="search"></a>Search result best bets <br>
+| Keyword      | Results                                                                                                | Action needed?                                                                        |
+|--------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Pension form | https://www.va.gov/find-forms/about-form-21p-527ez/ https://www.va.gov/find-forms/about-form-21-0966/  | No – we’ll be removing the link to the online form here anyway                        |
+| 527ez        | https://www.va.gov/find-forms/about-form-21p-527ez/ https://www.va.gov/find-forms/about-form-21p-0969/ | No – we’ll be removing the link to the online form here anyway                        |
+| pension      | https://www.va.gov/pension/survivors-pension/ https://www.va.gov/pension/veterans-pension-rates/       | No - these should prob be updated in the future, but no implications for this project |
+| Pension 527  | No best bets                                                                                           |                                                                                       |
+
+<hr>
+<hr>
