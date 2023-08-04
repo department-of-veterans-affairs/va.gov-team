@@ -111,14 +111,20 @@ We're working to bring all family member core benefit content into the family me
 
 ### Before (starting state)
 
+<details>
 <summary> IA of Family member hub on VA.gov as of 8/1/2023 </summary>
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/b28413d1-41b4-477e-b54a-ee28e9311b44)
+</details>
 
+<details>
 <summary> Family member hub on VA.gov as of 8/1/2023 - Desktop screenshot </summary>
 ![fam-ben-hub-desktop](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/1ab37733-3df8-4526-bdad-127039feea80)
+</details>
 
+<details>
 <summary> Family member hub on VA.gov as of 8/1/2023 - Mobile screenshot </summary>
 ![fam-ben-hub-mobile](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/f0bf67a2-be7a-4bc7-a9cd-050356467269)
+</details>
 
 ### After 
 
