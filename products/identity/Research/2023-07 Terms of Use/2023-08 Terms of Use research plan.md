@@ -52,7 +52,7 @@ Remote usability testing will evaluate the prototype with participants. We’ll 
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4ad93a47df328dc862a3f90556cba0d3266723fe/products/identity/Research/2023-07%20Terms%20of%20Use/2023-07%20Terms%20of%20Use%20conversation%20guide.md)
 - [Conversation guide - screen reader]()
--[Desktop prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=1-493&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=1%3A493&mode=design)
+- [Desktop prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=1-493&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=1%3A493&mode=design)
 - [Mobile prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=319-274&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=319%3A274&mode=design)
 - [Screen reader prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31&show-proto-sidebar=1)
 	
@@ -83,22 +83,22 @@ Must have signed into VA.gov in the last 6 months, for any reason
 
 
 Our primary diversity and inclusion criteria:
-- tbd # of mobile users
-- tbd # of cognitive disabilities
-- tbd # of screen reader users
-- tbd # of of keyboard navigators
+- 5 mobile users (none of these can be screen reader users)
+- 9 total desktop users which includes
+   - 5 sighted desktop users
+   - 4 screen reader users
+- 3 cognitive disabilities
+- 2 screen zoom users (who are different than the recruited screen reader users)
+
 
 ### Screener Questions
 
 1. 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
 * Date and time of pilot session: 
 
@@ -130,11 +130,11 @@ TBD | TBD
 	
 ## Team Roles	
 - Moderators: Clayton Zook, Amanda Porter, Charlye Tran
-- Research guide writing and task development (usually but not always same as moderator): Clayton Zook
+- Research guide writing and task development: Clayton Zook
 - Participant recruiting & screening: Perigean
 - Project point of contact: Clayton Zook
 - Participant(s) for pilot test: tbd
-- Accessibility specialist (for sessions where support for assistive technology may be needed): n/a
+- Accessibility specialist (for sessions where support for assistive technology may be needed): tbd
 - Note-takers: Clayton Zook, Amanda Porter, Charlye Tran
 - Observers: Tom Black, Mike King, Amber Parsley
 - Team member emails:
