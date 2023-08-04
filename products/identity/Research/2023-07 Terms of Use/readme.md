@@ -9,11 +9,11 @@
 
 | Stage | Dates |
 | --- | ---|
-| Planning | Complete by July 31, 2023 |
-| Recrtuiting | Aug 2023 |
+| Planning | Complete by Aug 4, 2023 |
+| Recrtuiting | Aug 9th-15th 2023 |
 | Pilot | TBD |
-| Sessions | Aug 2023 |
-| Analysis | Aug 2023 |
+| Sessions | Aug 16th - 25th 2023 |
+| Analysis | Aug 26th - Sept 1 2023 |
 
 
 ## Background
