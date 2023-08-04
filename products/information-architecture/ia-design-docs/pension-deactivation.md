@@ -65,9 +65,9 @@ Search “best bets” are suggested pages that appear in the “Our top recomme
 
 | Keyword      | Results                                                                                                | Action needed?                                                                        |
 |--------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| Pension form | https://www.va.gov/find-forms/about-form-21p-527ez/ https://www.va.gov/find-forms/about-form-21-0966/  | No – we’ll be removing the link to the online form here anyway                        |
-| 527ez        | https://www.va.gov/find-forms/about-form-21p-527ez/ https://www.va.gov/find-forms/about-form-21p-0969/ | No – we’ll be removing the link to the online form here anyway                        |
-| pension      | https://www.va.gov/pension/survivors-pension/ https://www.va.gov/pension/veterans-pension-rates/       | No - these should prob be updated in the future, but no implications for this project |
+| Pension form | 1. https://www.va.gov/find-forms/about-form-21p-527ez/ 2. https://www.va.gov/find-forms/about-form-21-0966/  | No – we’ll be removing the link to the online form here anyway                        |
+| 527ez        | 1. https://www.va.gov/find-forms/about-form-21p-527ez/ 2. https://www.va.gov/find-forms/about-form-21p-0969/ | No – we’ll be removing the link to the online form here anyway                        |
+| pension      | 1. https://www.va.gov/pension/survivors-pension/ 2. https://www.va.gov/pension/veterans-pension-rates/       | No - these should prob be updated in the future, but no implications for this project |
 | Pension 527  | No best bets                                                                                           |                                                                                       |
 
 <hr>
