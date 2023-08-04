@@ -36,17 +36,17 @@ Veterans are asked to choose where they'd like to receive the type of care they 
 - After a user chooses a facility and clicks continue, VAOS checks if they're eligible to make a request or to direct schedule online. 
     - VAOS tries to put users in the direct schedule path first, and falls back to the request path if direct scheduling is not available
     - If the user is not eligible for either path, they're shown a modal explaining why
-- For the direct scheduling path, there are four potential checks:
+- **For the direct scheduling path**, there are four potential checks:
     1. Does the facility support direct scheduling (set in VATS)?
-    2. Does the veteran have a recent enough visit?
-        - This is controlled in VATS, and can be set to 12 or 24 months, or disabled
+    2. Does the veteran have a recent enough visit (set in VATS)?
+        - This can be set to 12 or 24 months, or disabled
         - This check does not apply for primary care
     3. Are there available VistA clinics for this facility and type of care?
         - For primary care, this entails finding clinics associated with the user's PACT 
     4. Are there available VistA clinics that the user has interacted with in the past 24 months?
-        - This is a front end check, done to reduce the confusion around what clinic a user should choose
-        - This will effectively override check 2, if that check is set to allow all users through in VATS
-- For the request path, there are three potential checks:
+        - This is a front end check, done to reduce the confusion around what clinic a user should choose.
+        - This will effectively override check 2, if that check is set to allow all users through in VATS.
+- **For the request path**, there are three potential checks:
     1. Does the facility support requests (set in VATS)?
     2. Does the veteran have a recent enough visit?
         - This is controlled in VATS, and can be set to 12 or 24 months, or disabled
