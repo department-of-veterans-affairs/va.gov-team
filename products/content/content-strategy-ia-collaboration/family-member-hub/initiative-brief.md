@@ -42,14 +42,16 @@ We're working to bring all family member core benefit content into the family me
 
 ### Key Performance Indicators (KPIs)
 
-
+- Increased traffic to family member pages
+- VA.gov overall satisfaction
+- VA.gov experience rating
 - 
 | Product KPI | Baseline as of **DATE** | Target | Link to data source (e.g. GA, Domo) |
 | ----------- |  ----------- |  ----------- |  ----------- | 
-| VA.gov family hub page performance |   |   |   | 
 | |   |   |   | 
-| VA.gov Overall Satisfaction |   |   |   | 
-| VA.gov Experience rating |   |   |   | 
+| |   |   |   | 
+| |   |   |   | 
+| |   |   |   | 
 
 
 ---
@@ -63,17 +65,25 @@ We're working to bring all family member core benefit content into the family me
 - **Value Risks** (will people use it): 
 
 - **Usability Risks** (can people figure out how to use it):
+  - Family members will continue to look for benefits information in the Veteran hubs more the family member hub (this is the current state)
+  - Family members will get lost once sent into the Veteran hubs for certain tasks and applications
+  - Organization of the family member hub may make it difficult to find benefits that pertain to the visitor (i.e. benefits specific to parents or survivors)
+  - Loss of SEO with changes in placement, titles, and URLs
  
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
  
-- **Viability Risks/Constraints** (will there be a positive organizational impact):
 
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: VA stakeholder testing, marketing, compliance requirements 
 
+ 
+  - 
 ### Solution Scope
-**In Scope**
 
+**In Scope**
+- Moving Drupal content pages from Veteran benefit hub to family member hub and implementing URL changes
+- Moving applications from Veteran benefit hubs to family member hub and implementing URL changes
+- Moving pages and segments of content to Resources and support
 
 **Not In Scope**
 
@@ -99,7 +109,18 @@ We're working to bring all family member core benefit content into the family me
    
 ## Screenshots
 
+### Before (starting state)
 
+<summary> IA of Family member hub on VA.gov as of 8/1/2023 </summary>
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/b28413d1-41b4-477e-b54a-ee28e9311b44)
+
+<summary> Family member hub on VA.gov as of 8/1/2023 - Desktop screenshot </summary>
+![fam-ben-hub-desktop](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/1ab37733-3df8-4526-bdad-127039feea80)
+
+<summary> Family member hub on VA.gov as of 8/1/2023 - Mobile screenshot </summary>
+![fam-ben-hub-mobile](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/f0bf67a2-be7a-4bc7-a9cd-050356467269)
+
+### After 
 
 ---
 
