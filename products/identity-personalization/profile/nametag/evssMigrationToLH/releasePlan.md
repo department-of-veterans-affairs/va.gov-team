@@ -12,33 +12,21 @@
 
 ## Overview 
 
+[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag)
+[Inititve Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/inititiveBrief.md) 
+
 
 ## Important Artifacts 
 
-- [Email as a channel epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61101)
-- [Editing as a subtask epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49319)
-- Analytics Dashboard
+- [Email as a channel epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59866)
+- [Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)
 - QA Testing
+- this is a read only item it either displays or doesn there isn't a lot of comprehensive testing we can do given that this endpoint is using mocked data only in Staging. 
 
 
-## Migrating from Radio Button to Checkbox Component and Consuming Default Send
-
-As we prepare to deploy these changes, there are other groups (VA Notify/VA Profile) that aren't fully prepared for the entire body of work to be deployed. AE Profile is going to deploy the improvements we can in order to pave the way for changes pending from those other teams. Namely, we'll be able to support email-as-a-channel before we have notifications available that utilize email. 
-
-Our goals for this initial deployment:
-- leverage the new checkbox UI
-- Utilize the default send information supplied by VA Profile/VA Notify
-- Deploy our editing-as-a-subtask feature
-
-The toggles used for this:
 **<details><summary> Toggle Details </summary>**
 <p>
-
-- `profile_use_notification_settings_checkboxes`
-  - toggles the usage of radio buttons vs checkboxes as the input type that is used for every notification. Also consumes default send indicator boolean when turned on.
-
-- `profile_use_field_editing_page` 
-  - allows an 'editing as a sub-task' UI to be used when updating a single section of profile. Used for mobile phone and email address sections via notification settings page alerts when one of those channels is missing from the user's profile 
+profile_lighthouse_rating_info
 
 </p>
 </details> 
@@ -46,38 +34,19 @@ The toggles used for this:
 
 ## Phase I - UAT 
 
-### Planning
-
-|Planning Item/Question|Response|
-|---|---|
-|UAT Go/No-go Convo|[Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62915)|
-|Desired Date Range or Test Duration|1 week|
-|Desired Number of Users|TBD|
-|How you'll recruit the right production test users|We will recruit users via Perigean|
-|How you'll conduct the testing|We will conduct UAT over Zoom to ensure the different features work correctly|
-|How you'll give the test users access to the product in production w/o making it live on VA.gov|The feature will be behind a feature flag|
-|Link to Research plan for UAT|[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b440b37ccc0450785856cdd8bd2d10e3f3aae727/products/identity-personalization/profile/notification-preferences/default-send/UAT/UATdefaultSendResearchPlan.md) <br>[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b440b37ccc0450785856cdd8bd2d10e3f3aae727/products/identity-personalization/profile/notification-preferences/default-send/UAT/UATdefaultSendConversationGuide.md)|
-
-
-### Results 
-|UAT|Result|
-|---|---|
-|Number of Users||
-|Number of Bugs Identified/Fixed||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
-
+The API will have UAT completed by [insert the proper benefits team name]
 
 ## Phase II - Staged Rollout 
 
 ### Rollback Plan:
-PM and PO will monitor analytics. If the team notices a spike in errors, they will contact the engineering team to get the FE engineer to disable the toggles previously mentioned. 
+PM and PO will monitor analytics. If the team notices a spike in errors, they will contact the engineering team to get the team engineers to disable the toggle(s) previously mentioned. 
 
 ### Planning
 **Launch Go/No-go:** 
-- [Launch go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62928)
+- [Launch go/no-go conversation]()
 
 **Desired date range:** _TBD_
-- [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
+- [Launch Ticket]() 
 
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range|
