@@ -3,7 +3,7 @@
 ## Why we're here
 
 ### Executive Summary:
-Our mission to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov. As we consolidate the health experience, we will work closely with the "classic" My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
+Veterans and their caregivers have a single, trusted, intuitive, and fully accessible place to go to manage their VA health care. The My HealtheVet portal on VA.gov will make it easier for all Veterans to find, understand, and use the tools they need to manage their health, their care, and all their VA benefits. This will lead to increased health outcomes for Veterans—and increased trust in VA.As we consolidate the health experience, we will work closely with the "classic" My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
 
 ### Mission:
 
