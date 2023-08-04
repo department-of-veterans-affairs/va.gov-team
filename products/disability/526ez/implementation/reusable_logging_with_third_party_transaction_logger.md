@@ -4,9 +4,6 @@
 ## What is it?
 This module can be used to wrap one or more (class or instance) methods in logging.  
 
-**NOTE**: Previously this was only useable in the Controller context.  It can now be used anywhere in the codebase!
-**NOTE**: Previously this was only useable on class level context.  It can now be used to log instance level values as well!
-
 ## Why do I need it?
 If you have an action that delegates to a third party API, you can / should use this module to wrap that method in applicable logging.
 
@@ -38,22 +35,20 @@ Ideally you should wrap as little code as possible.  That means you may want to 
 
 <img width="639" alt="Screen Shot 2023-07-17 at 3 02 54 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/cc6de884-61e0-44ae-a994-c71de25307fb">
 
-
 2. use the `wrap_with_logging` method to idenitify the correct method to log around. 
 
 <img width="586" alt="Screen Shot 2023-07-17 at 3 03 13 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/409f7608-1d94-44e4-a9eb-231bfdec1590">
 
 2.A the `wrap_with_logging` method will log the following default parameters:
   a. Puma process id
-  b. current user's uuid from `current_user` at the controller level.
-  c. a generic description of the action being taken
-  d. The class and method being wrapped
-  e. start time, stop time, duration.
-  f. the arguments passed to the method converted to a string.  NOTE: this is very unrefind and may result in clunky values suche as `<SomeClass instance #123123sdfsdf>` or unlabled values like strings and numbers.  These are only valueble to a debugging dev who can look at the calling code and grok the context.
+  b. a generic description of the action being taken
+  c. The class and method being wrapped
+  d. start time, stop time, duration.
+  e. the arguments passed to the method converted to a string.  NOTE: this is very unrefind and may result in clunky values suche as `<SomeClass instance #123123sdfsdf>` or unlabled values like strings and numbers.  These are only valueble to a debugging dev who can look at the calling code and grok the context.
 
 ### Additional Parameters
 
-You can pass parameters to be evaluated at the class or instance level, E.G.
+You can pass parameters to be evaluated at the class or instance level, E.G., the uuid of a current user. 
 
 #### Class level parameters
 Pass these arguments as a hash using the `additional_instance_logs` parameter.
@@ -71,7 +66,7 @@ NOTE: these are very dumb logs and cannot evaluate methods.  For values returned
 
 #### Instance level parameters
 Pass these arguments as a hash using the `additional_instance_logs` parameter.
-These are much more flexible and can be passed a method chain to evaluate after oject instantiaon.  For example, if my object `some_form_loader` has a relation (or attribute) called `some_form` and I want to log the `id` of that relation, I can pass a method chain to the logger to call `self.some_form.id` NOTE: `self` is implicit and does not need to be passed.
+These are much more flexible and should be passed a method chain to evaluate after oject instantiaon.  For example, if my object `some_form_loader` has a relation (or attribute) called `some_form` and I want to log the `id` of that relation, I can pass a method chain to the logger to call `self.some_form.id` NOTE: `self` is implicit and does not need to be passed.
 
 ```
   wrap_with_logging(:some_method,
@@ -80,6 +75,16 @@ These are much more flexible and can be passed a method chain to evaluate after 
     }
   )
 ```
+
+another example would be extracting a the uuid from a currently logged in user.  E.G.
+```
+  wrap_with_logging(:some_method,
+    additional_instance_logs: {
+      user_uuid: [:current_user, :account_uuid]
+    }
+  )
+```
+will call `current_user.account_uuid` from within the controller context!  This is a valuable tool for linking logs to persisted data.
 
 NOTE: if you want to return the value of an instance variable, you should make it a readable attribute on your calling class.  E.G.
 ```
@@ -120,4 +125,7 @@ self.do.this.thing
 # from inside the logging methods : )
 ```
 
-This is accomplished using `inject` and `try`.  `inject` returns the value of the loops previous itteration to the next itteration, and passing `:try` instead of a block, means that itteration will call `.try` with it's contextual value on the result of the previous itteration, resulting in a method chain that will fail silently, even in the case of raised errors!
+This is accomplished using `inject`, `send`,  and `respond_to?`.  `inject` returns the value of the loops previous itteration to the next itteration.  
+
+### Note on Quiet Failures and Private Methods
+We need to allow for quite failures / `nil` returns if a method chain doesn't evaluate.  This could happen due to context, such as inheritence, a change in a data relation, or simple developer error.  The standard way of doing this sort of quiet attempt would be to leverage Rails' `try(:method_name)` syntax, however `.try` does not work on private methods.  In a previous example we mentioned pulling a `uuid` from `current_user`.  `current_user` is actually a private method, so we want to use `send` to access it's value. In order to avoid no method errors we can use `respond_to?(<method>, true)` where true denotes a check against both the public and private scope of logged object context.  
