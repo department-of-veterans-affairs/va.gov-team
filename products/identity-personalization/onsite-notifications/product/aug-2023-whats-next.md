@@ -50,6 +50,8 @@ I am assuming the following would be helpful:
 2. Filling in any gaps in the design system for notification/alerts states that aren't accounted for.
 3. Figuring out when -- or if -- VANotify should be sending notification information to VA.gov.
 
+**How do we validate whether this is what we should be doing? And if so, how do we get people on board with us being in a leadership role?**
+
 ### Work on My VA
 
 While we are working on the big picture, we should also continue to improve how we surface action items and important updates on the My VA dashboard. This might be a space where we can iterate and try things to see if they can or should be applied to the broader authenticated experience.
