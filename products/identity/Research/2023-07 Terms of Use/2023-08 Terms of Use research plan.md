@@ -110,6 +110,7 @@ Screen reader practice session:
 
 ### Length of sessions
 - Planned dates of research: August 14-25, 2023
+   - NOTE: please hold Aug 24th/25th in case of needed make ups sessions.
 - Session length: **60-minute** sessions 
 - Session buffer: **60-minute breaks** in between
 - Max sessions per day: 4
