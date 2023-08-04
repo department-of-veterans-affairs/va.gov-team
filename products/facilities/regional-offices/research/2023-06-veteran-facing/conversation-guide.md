@@ -256,14 +256,14 @@ Imagine that your *[spouse/Veteran]* has some hearing loss that's related to the
 
   - When you go, what should you have with you? *[photo ID, DD214]* 
   
-### Task 6: [Home loan > apply--accordion opens]
+### Task 6: [Home loan > COE--accordion opens]
 *(Veteran only)*
 You’re interested in buying a house, and your lender asks for proof that you qualify for a VA home loan. From this page, where would you go for that?
 
 *(If not Veteran but caregiver or family member:)*
 Your Veteran family member *(the Veteran you care for)* is interested in buying a house, and their lender asks for proof that they qualify for a VA home loan. From this page, where would you go for that?
 
-- *(VA home loans > Get help filling out VA loan paperwork)*
+- *(Home loans > Get help requesting a COE or filling out paperwork)*
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
@@ -277,7 +277,7 @@ Your Veteran family member *(the Veteran you care for)* is interested in buying 
 
   - When you go, what should you have with you? *[photo ID, DD214]* 
   
-### Task 7: [Need DD214 for home loan]
+### Task 7: [Home loan - Need DD214]
 *(Veteran only)*
 Say you’ve decided to go to the Boston Regional Office in person to get proof that you qualify for a VA home loan. What do you need to have with you? [DD214]  
 
@@ -289,7 +289,7 @@ Say your Veteran family member *(the Veteran you care for)* decides they want to
 If they don't have a DD214, how could you help them get it?
 
 
-- *(Prepare for your visit > Helpful documents > give permission / _____________)*
+- *(Prepare for your visit > Helpful documents)*
 
 - *[if need prompting...]* 
   - How could you talk to someone? *[in-person / virtual / phone]*
@@ -307,17 +307,13 @@ Now some time has passed since your visit to the regional office, and you’re s
 
 *(If not Veteran but caregiver or family member)* Now some time has passed since your Veteran family member *(the Veteran you care for)* visited the regional office, and they’re still waiting to get proof that they qualify for a VA home loan. How would you help them find out what’s happening?
 
-- *(VA home loans > Check the status of your COE)*
+- *(Home loans > Get help checking the status of your COE)*
 
 - *[if need prompting...]* 
   - How could you talk to someone? *[phone]*
-  - Do you need an appointment? *[no but it’s preferred]* 
-  - When will you do that? *[check office hours for this task specifically]*
-    - *Record any comments about*
-      - *multiple sets of office hours*
-      - *multiple hour blocks per day*
-      - *notes about Thursday closures*
-
+  - Do you need an appointment? *[no]* 
+  - When will you do that? *[check phone hours for this task specifically]*
+  
   
 ### Task 9: [VA life insurance--no accordion on page]
 
