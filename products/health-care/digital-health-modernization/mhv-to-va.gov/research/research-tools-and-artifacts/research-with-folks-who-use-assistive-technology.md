@@ -3,7 +3,7 @@
 **Step 1:** Read the information on this topic found on the [Platform Documentation site](https://depo-platform-documentation.scrollhelp.site/research-design/research-assistive-technology-sessions)
 - Estimated time burden: 1 hour
 
-**Step 2:** Complete Level 1: Community Member of the [A11y Champs program](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/level-1.md), including playing around with a screenreader
+**Step 2:** Complete Level 1: Community Member of the [A11y Champs program](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community), including playing around with a screenreader
 - Estimated time burden: 1 hour
 
 **Step 3:** Participate in a video demo of a research session with a person using a screenreader, followed by a Q&A with an a11y specialist
