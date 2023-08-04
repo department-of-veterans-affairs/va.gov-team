@@ -9,7 +9,7 @@
     - [Presentation deck](https://docs.google.com/presentation/d/1J10VcE7PGN9emVT1vtqO4-5XRYc3Jycm5zJ4QJnc19g/edit) | [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/Review%20of%20User%20Research_%20VA%20Mobile%20App%20Personalization%20(Jul%202022).pdf)
     - [Full findings report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
 * [**Comparative Analysis: Personalized & Contexutal App Homescreens**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-comparative-analysis.md) (Nov 2021)  
-  * Comparative analysis of how other apps handle personalized and cutomizabled content on their home screens.
+  * Comparative analysis of how other apps handle personalized and cutomizable content on their home screens.
 - **[VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md)** (Nov 2021)
   - Summarizes findings of MyVA homepage study.
 
