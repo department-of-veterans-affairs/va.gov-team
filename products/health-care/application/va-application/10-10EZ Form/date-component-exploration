@@ -1,0 +1,19 @@
+## Date Component Research Exploration for potential implementation on 10-10EZ
+
+[Github Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61211)
+
+## Problem
+Over the last few years, in almost every research session we have held, there is feedback on the "date" fields being confusing, and hard to use. There are reports from Medallia feedback and even Business partners completing testing, that the Month and Day dropdowns 'jump' from their selection to another Month or Day.
+
+To remedy this painpoint, we wanted to look into the Memorable Date component and determine whether we can use this format, and whether it would truly resolve the issues being experienced today within our form. We can do this by checking in with other teams using this component and gathering any feedback they may have.
+
+## What We Found
+# Memorable Date Component 2.0
+Looking into the Memorable Date component, it does appear to be quicker to complete for a memorable personal date — typing and tabbing results in quicker form completion than using multiple dropdowns.
+
+# Memorable Date Component 3.0
+It looks like the v3 Memorable Date component is styled like the USWDS Memorable Date component, with a drop down to choose the month by name (followed by day and year numerical fields). If this version is approved and implemented, it might be a happy medium solution—improving the experience for sighted users giving the more recognizable month name, while keeping the strong experience for screen-reader users.
+
+But there are tradeoffs for the use of each component.
+
+*insert table comparison here*
