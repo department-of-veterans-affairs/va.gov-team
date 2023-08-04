@@ -5,10 +5,11 @@
 Period - 08/2/2023 - 08/15/2023
 ### Sprint goals 
 - **Expedited**
-   - [ ] Bug - 
+
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - ITF
+            - [ ] Enable ITF in production - Canary
             - [ ] Start staggered release - timeboxed tickets to monitor the release and fix issues as they occur 
         - Submit 
             - [ ] Transform service
