@@ -135,18 +135,19 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 ## Timeline
 
 ### Prepare
-Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Alexis and I are available for a kickoff call during any of these times: 
-- **TBD ET**
-- **TBD ET**
+Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Cindy and Alexis are available for a kickoff call during any of these times: 
+- **Aug 22: 12-5 ET**
+- **Aug 23: 12-5 ET**
+- **Aug 24: 12-5 ET**
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
-I have scheduled the following two **pilot tests**:
+We will schedule two **pilot tests**:
 - Pilot 1: **TBD ET** with TBD (TBD.us)
 - Pilot 2: **TBD ET** with TBD (TBD.us)
 
 ### Research sessions
-* Planned dates of research: **TBD** 
+* Planned dates of research: **Sept 1, 5, and 11-15** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 
@@ -159,7 +160,13 @@ We would like to request that **Perigean calls each participant** to remind them
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-TBD, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Sept 1, 2023 | 12-1, 2-3, 5-6 pm 
+Sept 5, 2023 | 12-1, 2-3, 4:30-5:30 pm 
+Sept 11, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Sept 12, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Sept 13, 2023 | 12-1, 2-3, 5-6 pm 
+Sept 14, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Sept 15, 2023 | 12-1 pm
 
 
 ## Team Roles	
