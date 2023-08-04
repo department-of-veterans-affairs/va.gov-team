@@ -12,7 +12,7 @@ Applications should move through each phase as they are ready, however below ind
 - ## Phase 2 (May 2024)
 - Medical records, medications, secure messaging, and appointments should be in Phase 2, with cerner data integrated working and available to users, by end of spring 2024 (May/June)
 
-- ## Phase 3 (July 2024
+- ## Phase 3 (July 2024)
 - Phase 3 can be a fast follow of Phase 2, but all apps should be in Phase 3 by Summer 2024
 
 - ## Phase 4 (October 2024) 
