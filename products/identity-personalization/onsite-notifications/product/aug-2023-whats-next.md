@@ -42,7 +42,7 @@ According to analytics, far more people are clicking into the debt section of My
 
 These are some assumptions I have about what work our team should pursue with regards to notifications. To borrow from the idea of [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills), we should be thinking both about the broad the authenticated experience and in-depth about our own product (My VA).
 
-### Working across the authenticated experience
+### Work across the authenticated experience
 
 I am assuming the following would be helpful:
 
