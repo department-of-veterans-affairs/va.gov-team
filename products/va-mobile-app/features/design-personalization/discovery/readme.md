@@ -19,7 +19,7 @@ Last updated Aug 2023
 ### Earlier exploratory activities (Nov 2021 - Jan 2022) 
 #### Desk Research
 * [Comparative Analysis: Personalized & Contexutal App Homescreens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-comparative-analysis.md) (Nov 2021)  
-  * Comparative analysis of how other apps handle personalized and cutomizabled content on their home screens.
+  * Comparative analysis of how other apps handle personalized and cutomizable content on their home screens.
 - [VA Mobile Research Review: Personalized App Homescreen (My VA homepage analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md) (Nov 2021)
   - Summarizes findings of MyVA homepage study.
 #### Concept development:
