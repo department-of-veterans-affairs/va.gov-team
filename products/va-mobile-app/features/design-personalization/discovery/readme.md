@@ -13,8 +13,9 @@ Last updated Aug 2023
   * [UX Discovery Questions: VA App Personalization](https://docs.google.com/document/d/1eB8t02SWEjpiAmoSN_WuRqWYBjS_j-V2/edit)
 
 #### Desk Research
-* [VA Mobile App - Personalization Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/discovery/research)
+* [VA Mobile App - Personalization Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review.md)
   * Research review of existing VA sources for insights related to personalization in the Benefits & Health spaces.
+    - [Presentation deck](https://docs.google.com/presentation/d/1J10VcE7PGN9emVT1vtqO4-5XRYc3Jycm5zJ4QJnc19g/edit) | [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/Review%20of%20User%20Research_%20VA%20Mobile%20App%20Personalization%20(Jul%202022).pdf)
 
 ### Earlier exploratory activities (Nov 2021 - Jan 2022) 
 #### Desk Research
