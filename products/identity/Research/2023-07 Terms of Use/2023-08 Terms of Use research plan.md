@@ -93,17 +93,20 @@ Our primary diversity and inclusion criteria:
 
 ### Screener Questions
 
-1. 
+- These are noted in each recruitment request ticket per cohort
 
 ## Timeline
 
 ### Prepare
 
-* Pilot participant email:
-* Date and time of pilot session: 
+- Pilot participant email:
+- Date and time of pilot session:
+
+Screen reader practice session:
+- Accessibility specialist email:
+- Date and time of SR practice session: 
 
 ### Research sessions
-* Planned dates of research: Mid-August
 
 ### Length of sessions
 - Planned dates of research: August 14-25, 2023
