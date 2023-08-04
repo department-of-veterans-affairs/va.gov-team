@@ -115,7 +115,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task: [Step 3: Military Service] - 2 minutes
 
-- Continue completing the application and answer the fileds about your military service information.
+- Continue completing the application and answer the fields about your military service information.
 
 
 ### Things to watch for:
@@ -127,8 +127,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task: [Step 3: Military Service / Upload Document] - 3 minutes
 
-- Can you please explain the instruction on this page. We won't actually be uploading a file today but walk me through your process if you were to complete this question.
-- Can you tell me more about what you would have to do to get this document and complete this tas
+- Can you please explain the instruction on this page? We won't actually be uploading a file today but walk me through your process if you were to complete this question.
+- Can you tell me more about what you would have to do to get this document and complete this task?
 
 ### Things to watch for:
 - [Does the participant understand the use of upload file/document?]
