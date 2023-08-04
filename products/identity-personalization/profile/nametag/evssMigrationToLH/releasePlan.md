@@ -18,7 +18,7 @@
 
 ## Important Artifacts 
 
-- [Email as a channel epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59866)
+- [EVSS>LH Disabilities Rating Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59866)
 - [Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)
 - QA Testing
 - this is a read only item it either displays or doesn there isn't a lot of comprehensive testing we can do given that this endpoint is using mocked data only in Staging. 
