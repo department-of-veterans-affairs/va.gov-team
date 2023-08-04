@@ -23,14 +23,14 @@ According to analytics, far more people are clicking into the debt section of My
 
 **Preliminary next steps**: Talk to the team about this.
 
-### The notification component feels very similar to the now-default white card.
+### The notification component feels very similar to the [now-default white card](https://design.va.gov/components/card#2-default-white).
 
 1.	If we update My VA to use white card, does the notification component now feel too similar? 
 2.	If we update My VA to use the white card, can we/should we insert notifications/statuses into the cards themselves? If so, does that render our new notification component obsolete?
    
 **Preliminary next steps**: Explore implementing the white card design on My VA. Discuss whether or not we think there should be some sort of unification of the white card and the notification style.
 
-### The notification component was designed with the VANotify notification center in mind, so it is unclear to me how anyone else should use this.
+### The [notification component](https://design.va.gov/components/notification) was designed with the VANotify notification center in mind, so it is unclear to me how anyone else should use this.
 
 1.	If the notification center is not happening any time soon, what do we do with the notification style?
 2.	Should we be advising people to use this notification state? If so, for what? How do people know whether to use this or the existing alert states?
