@@ -47,22 +47,22 @@
 
 - Thank you for joining this session today! I first want to make sure that we're able to hear each other.
 - [WAIT FOR RESPONSE - if can’t hear, [troubleshoot](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr#Troubleshootingresearchsessions-Problem:Usercannothearyou/youcan'thearthemonZoom) otherwise...]
-- Great! I’m [YOUR NAME] and I’m a researcher for VA.gov. We have two other folks on the call right now, but before I allow them to introduce themselves, I want to check in with you on your preference with introductions. For example, we have our videos on at the moment, and we can describe our physical appearance if you’d like. Would you find that helpful?
-[WAIT FOR RESPONSE if wants description then offer]
+- Great! I’m [YOUR NAME] and I’m a researcher for VA.gov. We have two other folks on the call right now, but before I allow them to introduce themselves, I want to check in with you on your preference with introductions. For example, we have our videos on at the moment, and we can describe our physical appearance and backgrounds if you’d like. Would you find that helpful?
+[WAIT FOR RESPONSE if wants description then offer yours]
 - I also have [NOTE TAKER NAME] here today to take some notes. I’ll ask them to introduce themself.
    - [PAUSE FOR NOTE TAKER to introduce themself]
-- And also with us today is a VA accessibility specialist who can help us if we run into any snags using the screen reader on the design we’ve built and also if we have any questions about navigating zoom. I’ll ask they introduce themself now.
+- And also with us today a VA accessibility specialist. I’ll ask they introduce themself now.
    - [PAUSE FOR a11y specialist to introduce themself]
 - I'd also love for you to tell us a little about yourself.
    - [PAUSE FOR PARTICIPANT to introduce themself]
 - Nice to meet you! We really appreaciate you spending some time with us to make sure our design is usable for folks who use screen readers.
 - The subject of our research today is the sign in process on VA.gov and in particular the Terms of Use agreement. We are not testing your ability.
-- Today we're going to talk about how you sign in to access and manage your VA benefits and health care.
 - In this session, we want to hear your honest opinions. The goal is to improve this process to better meet veterans needs. We will not be offended by any opinions you express, and we welcome your candid feedback.
-- A bit later on, I’ll ask you to interact with a prototype. Just to prepare you for that, it may seem real, but it won't be, and we won’t be accessing your account or real information.
+- A bit later on, I’ll ask you to interact with a prototype using your screen reader. It'll mimic VA.gov, so it may seem real, but it won't be.
    - We use prototypes to help us test things before we decide what to make real.
-- This entire session should take no more than 1 hour.
-- I do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or even stop the session, please let me know.
+   - We won’t ask you to access your VA account or bring up your actual VA information.
+- This entire session should take no more than 1.5 hours.
+- We do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or even stop the session, please let me know.
 - Any questions so far?
 ---
 - OK so we also have a couple other team members who would like to join the call to observe and help take notes. We don’t want to be redundant, but even though Perigean did previously ask for your consent to allow people to observe today, but I know things can change, so I'd like to confirm with you. Are you okay with a couple of additional observers joining us during this session?
@@ -105,41 +105,50 @@ Are you comfortable with that?
       - [PROMPTS] When did it come up? How much did you have the screen reader go through? How much time did you spend from when it came up to clicking past that? Was there any unease or questions that came to mind when this came up?
   
 ## Round 2, Task - Prototype | 15-20 minutes
-- Ok so now I’d like to bring up the prototype design. Just a quick reminder that this is not real but a design that we are thinking about using. Also because it is not the VA.gov, it will act differently than you may be used to. For example, we don’t have a way to code things as headings if you are use to navigating that way. Other things the screen reader may first announce as a button or another part of the page but then also call it an image. That’s because this program we are using to design in, we kind of have to trick into working with a screen reader. If you have any questions about anything please ask. Also for this reason, I will also recommend that you take it a bit slower than you’d usually, this will also help us follow along.
-- Seem ok so far?
-- Ok I’m going to send you a link. I can send that through the Zoom application chat if that works for you.
+- Ok so now I’d like to bring up the prototype design. Just a quick reminder that this is not real but a design that we are thinking about using. Also because it is not the VA.gov, it will act differently than you may be used to. For example, we haven't had the chance at this point to fully code things like headings, so those will announce as text. It means that you won't be able to navigate that way right now, but that you'll have to tab through each element on the page for today.
+- Also becuase this is an early draft version and not the real VA.gov, we had to manipulate other things so they'd work with a screen reader. For example, your screen reader might first announce a button or another part of the page but then also call it an image. If you have any questions about anything including what an element is actually supposed to be, please ask, and I can clarify.
+- I know some of this will make it a bit awkward, but remember we aren't testing you, but you are helping us test this new part of the website.
+- Does that seem ok so far?
+- Ok I’m going to send you a link to a webpage. I can send that through the Zoom application chat if that works for you.
    - If you’d prefer another method, let me know.
 -[SEND LINK BY PREFERRED METHOD]
    - [Screen reader prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31&show-proto-sidebar=1)
 - Let me know if you have any issues opening up that link
----
-## below this point still needs to be reviewed for necessary adaptions for screen reader sessions
-- Once you get that up, I’ll also ask that you share your screen
+- Once you open the link in your web browser, I’ll then ask that in Zoom you select the option to share your screen. If you aren't familiar with that, we can guide you there.
    - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom) 
-- Ok so let’s imagine that you are going onto VA.gov to [DO TASK FROM EARLIER]
-- Does this page look like where you would normally go?
+- Ok I think we are good to go, so I'll ask you to imagine that you are going onto VA.gov to [DO TASK FROM EARLIER]
+- [SCREEN READER NOTE: participant will have to tab in browser to "skip to content" on Figma page]
+   - [Once on the content wait from it to render for screen readers]
+- Now you're best way to navigate on the design will be to use your VO key with the left and right arrow keys.
+- Considering the wonky bits about this page, does this page seem like where you would normally go?
    - [IF normally uses MHV have them imagine they need to sign into VA.gov for another reason]
 - Would you normally sign in first thing before getting started?
-   - Go ahead and start to sign in.
+   - Go ahead and sign in.
 - [Continue signing in - credential selection page]
    - Which option do you usually choose to sign in here?
-   - Ok, for today it won’t matter which you select, they’ll all take you to the same place.
-   - We’ll use a fake email and password here, so you can move along through this part.
-- Ok now that you are signed in, can you tell me what about this page?
+   - Ok, for today we'll ask that you choose the ID.me button even if that's not how you usually sign in.
+   - How you describe this page that you're on now?
+   - I do want you to fake sign in. We’ll use the fake email and password that is already added in here
+   - Before you sign in, I'm curious what you expect after you select the sign-in button
+      - Ok you may continue signing in
+- Now that you are signed in, can you tell me about this page?
    - [PROMPTS] What did you expect to come up here? 
        - What do you understand this page to mean?
        - Did you know that VA had terms of use?
        - What do you think about being presented with terms of use for the VA online?
- - Being on this page, what would you do next?
-   - Is that what you have done on other websites that present new terms of use?
-      - What would make you want to [SKIP PAST or READ THROUGH] this?
-         - [IF SKIP] How would you move past this page?
-   - Do you consider the terms of use here on the VA in the same way as other sites? 
-- How much do you feel like this applies to you?
-- How meaningful is this information to you?
+- Go ahead and take some time to move through this page
+    - Do any thoughts come to mind? Any questions? Did anything seem strange or set up in a way that was difficult to move through or understand?
+- Ok so if you feel like you have the information you need from this page, what would you do next?
+   - When a Terms of Use comes up on a website other than VA, have you taken the same action there?
+   - Do you consider the terms of use here on the VA in the same way as you would on another sites? 
+- How much do you feel like the VA terms of use applies to you?
+- How meaningful is the VA terms of use of the information on this page to you?
 - Does this information change how much you trust your online interactions with the VA?
 - Is there any information that you’d want that you don’t find here?
 <br>
+
+---
+## below this point still needs to be reviewed for necessary adaptions for screen reader sessions
 
 - On other websites when something like this has come up, do you usually accept the terms or would you decline? [TRY TO redirect if talks about cookies]
 - How strongly do you generally feel about [ACCEPTING or DECLINING] the terms of use on a website?
