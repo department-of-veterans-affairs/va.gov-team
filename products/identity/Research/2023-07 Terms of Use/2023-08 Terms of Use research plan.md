@@ -90,12 +90,12 @@ Our primary diversity and inclusion criteria:
 - 2 cognitive disabilities
 
 We've split these into 3 cohorts
-- (Cohort 1: sighted desktop)[https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/356]
+- [Cohort 1: sighted desktop](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/356)
    - 5 computer (desktop or laptop) users of VA.gov
    - 5 who will join the session on desktop or laptop
    - 1 cognitive disability
    - 1 who self-identifies race as other than white
-- (Cohort 2: sighted mobile)[https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/357]
+- [Cohort 2: sighted mobile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/357)
    - 5 mobile users of VA.gov
    - 5 who will join the session on mobile
    - 1 cognitive disability
