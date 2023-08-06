@@ -84,10 +84,27 @@ Must have signed into VA.gov in the last 6 months, for any reason
 
 Our primary diversity and inclusion criteria:
 - 5 mobile users (none of these can be screen reader users)
-- 9 total desktop users which includes
+- 8 total desktop users which includes
    - 5 sighted desktop users
-   - 4 screen reader users
+   - 3 screen reader users
 - 2 cognitive disabilities
+
+We've split these into 3 cohorts
+- (Cohort 1: sighted desktop)[https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/356]
+   - 5 computer (desktop or laptop) users of VA.gov
+   - 5 who will join the session on desktop or laptop
+   - 1 cognitive disability
+   - 1 who self-identifies race as other than white
+- (Cohort 2: sighted mobile)[https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/357]
+   - 5 mobile users of VA.gov
+   - 5 who will join the session on mobile
+   - 1 cognitive disability
+   - 1 who self-identifies race as other than white
+- [Cohort 3: screen reader desktop](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/358)
+   - 3 screen reader participants
+      - at least 1 who is less experienced using screen reader
+      - at least 1 who is more experienced using screen reader 
+   - 3 (all) joining session on desktop
 
 
 ### Screener Questions
@@ -105,19 +122,20 @@ Screen reader practice session:
 - Accessibility specialist email:
 - Date and time of SR practice session: 
 
-### Research sessions
-
 ### Length of sessions
-- Planned dates of research: August 14-25, 2023
-   - NOTE: please hold Aug 24th/25th in case of needed make ups sessions.
-- Session length: **60-minute** sessions 
-- Session buffer: **60-minute breaks** in between
-- Max sessions per day: 4
+- Cohort 1 and 2: sighted participants
+   - Session length: **60-minute** sessions 
+   - Session buffer: **60-minute breaks** in between
+   - Max sessions per day: 4
+- Cohort 3: screen reader participants
+   - Session length: **90-minute** sessions 
+   - Session buffer: **60-minute breaks** in between
+   - Max sessions per day: 2
 
+  
 ### Availability
-
-### Availability
-**Aug 14 - 25**
+- **Aug 14 - 25**
+- please hold Aug 24th/25th in case of needed make ups sessions.
 
 Team Availability | Time (EST)
 ------------------|--------------
