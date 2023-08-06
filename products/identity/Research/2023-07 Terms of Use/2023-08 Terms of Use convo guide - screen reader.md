@@ -81,7 +81,7 @@ Are you comfortable with that?
 - Ok, that's it for set up items! Do you have any questions on any of this setup stuff before we start?
 
   
-## Round 1, Starter Questions | 5-10 minutes
+## Round 1, Starter Questions | 10 minutes
 - I’d like to start by asking you a few questions to get to know how you access VA services online
 - Could you first let me know what device you are using right now for this call.
    - [Phone, laptop, doesn’t have to be brand]
@@ -104,7 +104,7 @@ Are you comfortable with that?
    - Can you explain how that went
       - [PROMPTS] When did it come up? How much did you have the screen reader go through? How much time did you spend from when it came up to clicking past that? Was there any unease or questions that came to mind when this came up?
   
-## Round 2, Task - Prototype | 15-20 minutes
+## Round 2, Task - Prototype | 30 minutes
 - Ok so now I’d like to bring up the prototype design. Just a quick reminder that this is not real but a design that we are thinking about using. Also because it is not the VA.gov, it will act differently than you may be used to. For example, we haven't had the chance at this point to fully code things like headings, so those will announce as text. It means that you won't be able to navigate that way right now, but that you'll have to tab through each element on the page for today.
 - Also becuase this is an early draft version and not the real VA.gov, we had to manipulate other things so they'd work with a screen reader. For example, your screen reader might first announce a button or another part of the page but then also call it an image. If you have any questions about anything including what an element is actually supposed to be, please ask, and I can clarify.
 - I know some of this will make it a bit awkward, but remember we aren't testing you, but you are helping us test this new part of the website.
@@ -138,7 +138,7 @@ Are you comfortable with that?
        - What do you think about being presented with terms of use for the VA online?
 - Go ahead and take some time to move through this page
     - Do any thoughts come to mind? Any questions? Did anything seem strange or set up in a way that was difficult to move through or understand?
-- Ok so if you feel like you have the information you need from this page, what would you do next?
+- Ok so if you feel like you have the information you need from this page, what would you do next? DONT DO IT YET!
    - When a Terms of Use comes up on a website other than VA, have you taken the same action there?
    - Do you consider the terms of use here on the VA in the same way as you would on another sites? 
 - How much do you feel like the VA terms of use applies to you?
@@ -147,32 +147,29 @@ Are you comfortable with that?
 - Is there any information that you’d want that you don’t find here?
 <br>
 
----
-## below this point still needs to be reviewed for necessary adaptions for screen reader sessions
-
 - On other websites when something like this has come up, do you usually accept the terms or would you decline? [TRY TO redirect if talks about cookies]
 - How strongly do you generally feel about [ACCEPTING or DECLINING] the terms of use on a website?
    - Has there ever been a time when you didn’t agree to these types of terms on a website or app?
       - Can you tell me more about that?
-   - For a website or app you use regularly, have you noticed a time recently when they said they updated their terms and you have to look at them and agree to them again?
+   - For a website or app you use regularly, have you noticed a time recently when they said they updated their terms and you have to review them and agree to them again?
       - How did you react to that?
-- Let’s pretend you wanted to read through the information here, how would you do that?
+- [IF HAVENT DISCUSSED THE accordian items] Let’s pretend you wanted to read through all the information here, how would you do that?
 - Let’s pretend you didn’t want to agree to these terms here, at least right now. What would you do?
-   - What would you expect the buttons (at bottom of page) to do?
-   - This might sound a little silly, but can you give me your definition of “accept”
-      - What about “decline”
-   - We have “accept” and “decline” buttons here. Would it change anything for you if we renamed the decline button to “not accept”? So the options are accept and not accept.
+- [GUIDE PARTICIPANT TO BOTTOM of page, if they haven't made it there yet]
+- This might sound a little silly, but can you give me your definition of “accept”
+   - And what about your definition of "decline"?
+   - We have “accept” and “decline” buttons here. Would it change anything for you if we renamed the decline button to “not accept”? Meaning the options are accept and not accept.
       - [IF Participant is feeling the vocab discussion, can also ask about “reject” and “refuse” and also about having the buttons simply say "yes" or "no"]
 - Let assume you’d select “accept” - don’t actually do it yet - what would you expect to happen next?
    - Let’s say the lawyers get together again and decide something needed to change here on this terms of use. If a change happened would you expect to get something like this full page about it again?
       - Would you want to know about the update?
-      - Would it make a difference if it was a smaller change vs a larger change?  
+      - Would it make a difference if it was a smaller change vs a larger change? 
 - Now let’s assume you’d select “decline” - don’t actually do it yet - what would you expect to happen?
    - Go ahead and select “decline”
    - What do you think about this information here?
 
-## Round 3 - Closing Q’s and Thank you | minutes
-- That's all the questions that I wanted to cover today. I’m going to look at my messages to see if notetakers or observers had any questions they wanted to ask or follow up on.
+## Round 3 - Closing Q’s and Thank you | 5 minutes
+- That's all the questions that I wanted to cover today. I’m going to check my messages to see if notetakers or observers had any questions they wanted to ask or follow up on.
    - [Ask questions as needed]
 - Do you have any questions or further comments about what we discussed today?
 - We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on VA.gov to make sure it works for Veterans.
@@ -182,12 +179,6 @@ Are you comfortable with that?
 
 ---
 ## Session Helps
-### Instructions for finding Zoom chat (if needed)
-- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
-  - Computer: Just to the left of center is a conversation bubble that says **Chat**. 
-    - *If don't see chat, ASK:* Do you see the red **Stop Share** button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the **Chat** button in the center of the Zoom controls.
-  - Phone: On the far right is a **More** button or **3 dots**. Tap that and then on Chat or the conversation bubble. 
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ---
 ### Instructions for screen reader
