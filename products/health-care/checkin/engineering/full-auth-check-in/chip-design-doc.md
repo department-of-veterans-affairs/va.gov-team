@@ -137,7 +137,7 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
 	        - `zip4` (string)
 	        - `country` (string)
 
-#### `POST/PATCH /authenticated-demographics`
+#### `POST /authenticated-demographics`
 - Description: Edit demographics confirmations
 - Request Body:
   - `patientDFN` (string): The unique identifier of the patient.
