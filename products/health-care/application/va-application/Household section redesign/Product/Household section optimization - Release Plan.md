@@ -93,8 +93,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | 2022 Baseline | Jan-Jun 2023 | Target | End of 25%| End of 50%| End of 75%| Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------|-------|-------------- |-------------- |-------------- |-------------- |-------------- |
-|Application Submissions | 59.8% (138,687k)  | 61.4% (63,084) | 65% |TBD|TBD|TBD |TBD |TBD |
-|Single-session Submissions | 60.5% (83,941) | 62.2% (39,232) | 77%  |TBD|TBD|TBD |TBD |TBD |
+|Application Submissions | 59.8% (138,687k)  | 61.4% (63,084) | 65% |3,566|65%|TBD |TBD |TBD |
+|Single-session Submissions | 60.5% (83,941) | 62.2% (39,232) | 77%  |2,505|70%|TBD |TBD |TBD |
 
 - Links to the dashboard(s) showing "success criteria" metrics:
      - Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
