@@ -15,7 +15,7 @@
 **Derrick**: are there any Sev1 bugs or accessibility issues outstanding?
 - Answer: 
 
-**Derrick**: are you ready to turn the feature on to 1% of users?
+**Derrick**: are you ready to turn the feature on to 10% of users?
 - Answer: 
 
 **Samara & AJ**: is the PSIR Review complete?
@@ -30,6 +30,6 @@
 **Samara & AJ**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/launch-materials/claim-status-lighthouse-migration-release-plan.md) complete and ready to execute against?
 - Answer: 
 
-**Everyone**: does anyone have any concerns or reasons we should postpone a launch 1% of users?
+**Everyone**: does anyone have any concerns or reasons we should postpone a launch 10% of users?
 - Answer: 
 
