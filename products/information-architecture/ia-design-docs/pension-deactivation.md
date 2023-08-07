@@ -19,19 +19,19 @@ Up-to-date user flows can be found on mural here: https://app.mural.co/t/departm
 ## <a name="nav"></a>Entry points <br>
 We are REMOVING entry points for this project.
 
-1. **Main Nav - Pension** - [Remove]
+1. **Main Nav - Pension** - Remove
   - Link label: Apply now for Veterans Pension
   - Link destination: https://www.va.gov/pension/application/527EZ/introduction
    ![Pension main nav](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/e07c669d-da37-4634-838b-db3722d89cc1)
 
 
-2. **[Left Nav - Pension]** - [Remove]
+2. **Left Nav - Pension** - Remove
   - Link label: Apply now
   - Link destination: https://www.va.gov/pension/application/527EZ/introduction
    ![Pension Left Nav](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/bf0ce511-2f64-4bf8-829d-2081aca61acc)
 
 
-3. **[Pension Hub Page]** - [Remove]
+3. **Pension Hub Page** - Remove
   - Link label: Apply for Veterans Pension online (VA Form 21P-527EZ)
   - Link destination: https://www.va.gov/pension/application/527EZ/introduction
    ![Pension hub page](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/0a2797e1-1e3d-4859-b76c-c811f94a491c)
