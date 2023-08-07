@@ -6,7 +6,7 @@ Below are the current main problems we are facing given the pause on VANotify an
 
 ### There are already alert states, tags, and our new notification state in the design system. 
 
-_AJ Note: A challenge to acknowlegde is that it seems like everyone has a different definition of "notifications" - as we saw with MHV's thinking of a notification and as we're seeing with Angela's findings reviewed this morning - there's badges, dots, tags, "identifiers", warnings, alerts and of course notifications - lots of different terminology used to refer to the same essential thing, i.e. something used to catch or draw the user's attention to new (and potentially) actionable information._ 
+_AJ Note: A challenge to acknowledge is that it seems like everyone has a different definition of "notifications" - as we saw with MHV's thinking of a notification and as we're seeing with Angela's findings reviewed this morning - there's badges, dots, tags, "identifiers", warnings, alerts and of course notifications - lots of different terminology used to refer to the same essential thing, i.e. something used to catch or draw the user's attention to new (and potentially) actionable information._ 
 
 As a result, we keep coming across teams that are rightly applying the design system to implement a notification/alert.
 
