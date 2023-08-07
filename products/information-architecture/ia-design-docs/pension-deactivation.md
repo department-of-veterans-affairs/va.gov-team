@@ -16,7 +16,7 @@
 Up-to-date user flows can be found on mural here: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689262813123/cb880912d3f71ef79be0d63d0e61e306d1e6ae31?wid=0-1691181001222
 
 
-## <a name="nav"></a>Entry points <br>
+## <a name="nav"></a>Entry point removal <br>
 We are REMOVING entry points for this project.
 
 1. **Main Nav - Pension** - Remove
