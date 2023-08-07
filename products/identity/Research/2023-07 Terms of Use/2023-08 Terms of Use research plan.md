@@ -38,7 +38,7 @@ Learn what pain points the current design has with various audiences - especiall
 
 ### Hypothesis
 
-- Veterans will be familiar with terms of use from other sites and a
+- Veterans will be familiar with terms of use from other sites and and apps
 - Veterans will see needing to agree to an updated terms with VA as a nuisance
 - Veterans will opt to click past this as quickly as possible, including by not reading any long paragraphs, so they can move on to their task at hand.
 
@@ -73,13 +73,13 @@ We will use Perigean to recruit Veterans for this moderated study. We are lookin
 
 **Primary criteria (must-haves)**
 All participants:
-Must have a computer or mobile phone and be willing to complete their sessions on this device
-Must be willing to share a web browser window on the Zoom call
-Must have a working microphone
-Must have Zoom downloaded to their computer prior to the session and know how to share their screen
-In addition our primary product criteria includes:
-Must be Veterans
-Must have signed into VA.gov in the last 6 months, for any reason
+- Must have a computer or mobile phone and be willing to complete their sessions on this device
+- Must be willing to share a web browser window on the Zoom call
+- Must have a working microphone
+- Must have Zoom downloaded to their computer prior to the session and know how to share their screen
+- In addition our primary product criteria includes:
+   - Must be veterans
+   - Must have signed into VA.gov in the last 6 months, for any reason
 
 
 Our primary diversity and inclusion criteria:
