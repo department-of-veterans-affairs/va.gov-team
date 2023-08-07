@@ -50,10 +50,7 @@ Note: The content team will also remove links to the online form from the 'How t
 
 Current URL | Redirect to | Notes
 --- | --- | ---
-All online form pages | https://www.va.gov/pension/how-to-apply/ | How we set up the redirects will depend on if there are currently redirects set up.
-
-Redirects will need to be temporary (302), not permanent (301). The 302 code tells search engines that the redirect isn't permanent and the URL will come back at a future date.  Some search engines will still index the old page, but the redirect will land them in the right spot.
- 
+http://va.gov/disability/file-disability-claim-form-21-526ez/introduction | https://www.va.gov/pension/how-to-apply/ | Redirects will need to be temporary (302), not permanent (301). The 302 code tells search engines that the redirect isn't permanent and the URL will come back at a future date.  Some search engines will still index the old page, but the redirect will land them in the right spot.
 
 
 ## <a name="search"></a>Search result best bets <br>
