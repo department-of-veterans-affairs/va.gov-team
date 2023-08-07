@@ -25,7 +25,7 @@ _Note: We conducted 18 interviews in total. There is one failed interview becaus
 
 ### - Where did people look for their AVS -> Med Records or Appointments?
 
-There are multiple paths participants took, which you could read more into the overall "figure-it-outness" finding. For example, one participant found MR's top task link on the My VA landing page, and one participant found MR after clicking on the MHV portal tab. With that being said, 15 out of 17 participants took the path that led them to MR to look for AVS. 
+There are multiple paths participants took, which you could read more into the overall "figure-it-outness" finding. For example, one participant found MR's top task link on the My VA landing page, and one participant found MR after clicking on the MHV portal tab. With that being said, 15 out of 17 participants took the path that led them to MR to look for AVS. Out of the 15 participants, 2 went into secure messaging and expected to find AVS in messages from their doctors. 
 
 **Quotes:**
 _"I'm looking for something that says after-visit summary or doctor's notes."_
@@ -55,7 +55,7 @@ For the first reaction, 6 out of 14 participants wanted to click "Find VA locati
 8 out of 14 participants clicked the "back to Appointments" breadcrumb to get back out to the Appointments list page, and 6 used the browser back button. 
 
 ### - How are participants understanding the term "Requests"?
-Out of 17 participants, only 2 guessed the correct meaning of "Requests". The majority of the participants thought they could request or change or take some sort of action if they click "Requests". 
+Out of 17 participants, only 2 guessed the correct meaning of "Requests". The majority of the participants thought they could request or change or take some sort of action if they click "Requests". So, "Requests" should not replace "Pending". 
 
 **Quotes:**
 _"I expect to change or request an appointment."_
@@ -63,4 +63,4 @@ _"Maybe ask the VA to see a particular specialist."_
 _"It should give me an option or calendar to schedule appointments. It would have to be with a specific doctor or department as options."_
 
 ### - Did participants use the filter in past appointments?
-
+Not enough participants accessed AVS through Appts, so we really weren't able to explore this. No conclusions. 
