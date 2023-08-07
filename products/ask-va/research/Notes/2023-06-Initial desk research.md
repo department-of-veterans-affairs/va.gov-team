@@ -620,21 +620,21 @@ Unable to access.
 * Is “plain language” utilized throughout the entirety of the AVA application?
 #### Findings
 * Form findability
- * 4 out of 7 users were able to find a link to ask a question, though the experience was often roundabout and confusing
- * Only 3 participants went straight to the Contact us page
- * Even if users navigate to the Contact us page, it's not guaranteed that they'll find the Ask a question links
- * 2 participants on the Contact us page clicked on the Research and support button and didn't find a link to ask a question
- * If users are seeking to ask a question about a specific topic, they are more likely to navigate to tertiary pages regarding that subject. These pages rarely contain links to asking a question.
+  * 4 out of 7 users were able to find a link to ask a question, though the experience was often roundabout and confusing
+  * Only 3 participants went straight to the Contact us page
+  * Even if users navigate to the Contact us page, it's not guaranteed that they'll find the Ask a question links
+  * 2 participants on the Contact us page clicked on the Research and support button and didn't find a link to ask a question
+  * If users are seeking to ask a question about a specific topic, they are more likely to navigate to tertiary pages regarding that subject. These pages rarely contain links to asking a question.
 * The form is largely self-explanatory; all participants were able to successfully submit an inquiry
 * OMB Burden Language confused multiple users
 * All participants expressed interest, or preference, in logging in to complete the form
- * Logging in would automatically fill in multiple form fields, and make further contact more streamlined.
+  * Logging in would automatically fill in multiple form fields, and make further contact more streamlined.
 * There were multiple technical issues which diminshed the overall usability of the form:
- * Lack of help text around certain form fields
- * Review page does not have a title, nor does it retain conditional display logic
- * Required field indicators are easily overlooked
- * Modal window search inconsistencies: For example, when you search for Loan in the modal, it yields no results despite Home Loan being an option
- * Spacing issues
+  * Lack of help text around certain form fields
+  * Review page does not have a title, nor does it retain conditional display logic
+  * Required field indicators are easily overlooked
+  * Modal window search inconsistencies: For example, when you search for Loan in the modal, it yields no results despite Home Loan being an option
+  * Spacing issues
 * Users were unsure of the correct format for various date fields.
 * Users were unsure what to put for "Veteran's Service Number," most thought it was their SSN. Other abbreviations caused confusion like DoD ID/EDIPI and SSN.
 * Required field indicator was easily overlooked. Design system recommendation was to include "Required" as text alongside the red asterisk.
