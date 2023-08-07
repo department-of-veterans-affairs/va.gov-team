@@ -1,6 +1,6 @@
 ## [August 7, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-08-07.md)
 `Big Meeting` `Strategy`
-- Discussed how to share what we're learning
+- Discussed how to share what we're learning as a community
 
 ## [June 26, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-06-26.md)
 `Big Meeting` `Onboarding`
