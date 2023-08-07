@@ -134,8 +134,8 @@ Screen reader practice session:
 
   
 ### Availability
-- **Aug 14 - 25**
-- please hold Aug 24th/25th in case of needed make ups sessions.
+- **Aug 16 - 25**
+- please hold Aug 24th/25th in case of needed make ups sessions, to the extent possible.
 
 Team Availability | Time (EST)
 ------------------|--------------
