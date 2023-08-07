@@ -36,14 +36,10 @@ We are REMOVING entry points for this project.
   - Link destination: https://www.va.gov/pension/application/527EZ/introduction
    ![Pension hub page](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/0a2797e1-1e3d-4859-b76c-c811f94a491c)
 
-Note: The content team will also remove links to the online form from:
-1. The 'How to Apply' pension page:
+Note: The content team will also remove links to the online form from the 'How to Apply' pension page and the 'About Form 527EZ' page
    ![How to apply](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/92181033-4894-4a69-b4c8-e190766dff21)
 
-2. The 'About Form 527EZ' page
    ![About form 527ez](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/d402909e-4acc-4058-aab8-d3fd1b776989)
-
-3. Any PDFs that directly link or reference the online form
 
 
 
