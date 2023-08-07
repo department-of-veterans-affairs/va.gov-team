@@ -72,7 +72,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
   
 |Launch % |Time Frame | Planned Date Range | Ticket | 
 |-------|-----------|-----------|------|
-| Launch to 10% | 1 week | week of 08/7/2023 | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
+| Launch to 5% | 1 week | week of 08/7/2023 | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
 | Launch to 25% | 1 week | week of 08/14/2023 |[#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
 | Launch to 50% | 1 week | week of 08/21/2023 |  [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)|
 | Launch to 100% | 1 week | week of 08/28/2023 |[#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
