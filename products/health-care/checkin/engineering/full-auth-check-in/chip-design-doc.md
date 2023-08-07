@@ -46,22 +46,20 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
 - Responses:
   - Status Code: 200 OK
   - Body (object): The Response Object which contains the following fields
-    - `code` (string): check-in-success
+    - `id` (string): patientDfn
     - `message` (string): Check-in success with appointmentIen: ${appointmentIen}, patientDfn: ${patientDfn}, stationNo: ${stationNo}
+    - `type` (string): AuthenticatedCheckinResponse
   ---
   - Status Code: 400
   - Body: (object): Invalid Patient and/or Appointment data
-    - `code` (string): check-in-failure
-    - `errors` (string comma separated):
-      - clinic-e-check-in-not-allowed
-      - appointment-has-bad-status
-      - appointment-check-in-too-early
-      - appointment-check-in-too-late
-      - patient-contact-info-needs-update
-      - patient-emergency-contact-needs-update
-      - patient-next-of-kin-needs-update
-      - patient-insurance-needs-update
+    - `id` (string): patientDfn
+    - `errors` (array of objects):
+      - `status` (string) 400
+      - `title` (string) `clinic-e-check-in-not-allowed`, `appointment-has-bad-status`, `appointment-check-in-too-early`, `appointment-check-in-too-late`, `patient-contact-info-needs-update`, `patient-emergency-contact-needs-update`, `patient-next-of-kin-needs-update`, `patient-insurance-needs-update`
     - `message` (string): Check-in unsuccessful with appointmentIen: ${appointmentIen}, patientDfn: ${patientDfn}, stationNo: ${stationNo}
+    - `type` (string): AuthenticatedCheckinResponse
+   
+      
 
 ### Demographics
 
