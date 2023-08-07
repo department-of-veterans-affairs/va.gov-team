@@ -20,7 +20,7 @@
     - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772082/24x36-lowvision-yourecheckedin-fin.pdf)
  Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772083/24x36-lowvision-yourecheckedin-philippines-fin.pdf)
 
-    - 17" x 11" to display on a TV monitor with [dark background](https://github.com/department-of-veterans-affairs/va.gov-team/assets/91493630/ca0baceb-289b-4b43-9840-e04efb822d84) Or [light background](https://github.com/department-of-veterans-affairs/va.gov-team/assets/91493630/31861651-6c32-4817-b606-f29fcd0dd92c)
+    - 17" x 11" TV monitor posters with [dark background](https://github.com/department-of-veterans-affairs/va.gov-team/assets/91493630/ca0baceb-289b-4b43-9840-e04efb822d84) Or [light background](https://github.com/department-of-veterans-affairs/va.gov-team/assets/91493630/31861651-6c32-4817-b606-f29fcd0dd92c)
 
 
  <br><br>
