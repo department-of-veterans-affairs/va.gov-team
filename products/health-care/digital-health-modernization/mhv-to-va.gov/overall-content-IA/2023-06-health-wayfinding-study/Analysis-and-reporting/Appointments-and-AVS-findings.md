@@ -19,7 +19,14 @@ To ensure we capture what they do/say/feel accurately, besides taking transcribe
 We had two sets of data to analyze: observation notes on a Mural board and interview transcripts. Through comparing and bucketing and analyzing, we arrived at findings. With quantitative analysis, we were able to find the repeated patterns and answer the AVS and Appointments questions. 
 
 # What we learned
-- Where did people look for their AVS -> Med Records or Appointments?
+Here is a list of questions we addressed for Appointments and AVS in this study:
+
+_Note: We conducted 18 interviews in total. There is one failed interview because the participant had challenges processing questions and tasks and the facilitator didn't proceed with simpler questions. So, there are 17 interviews we pulled data from._
+
+**- Where did people look for their AVS -> Med Records or Appointments?**
+There are multiple paths participants took, which you could read more into the overall "figure-it-outness" finding. For example, one participant found MR's top task link on the My VA landing page, and one participant found MR after clicking on the MHV portal tab. With that being said, 15 out of 17 participants took the path that led them to MR to look for AVS. 
+
+
 - How often is BB brought in relation to AVS?
 - Do participants open details and think the details are AVS or scroll down to the treatment plan:
 - How do people navigate in/out of the Appointments section (back button, breadcrumbs, secondary nav, etc.)
