@@ -56,15 +56,12 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- Number of users: 5
+- Number of bugs identified / fixed: 0
+- Was any downstream service affected by the change?: no
+- Types of errors logged: n/a
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? no
+- If yes, what: n/a with ticket numbers
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
