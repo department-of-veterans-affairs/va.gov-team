@@ -2,7 +2,7 @@
 name: Check In Experience Functional Testing
 about: For Check In Experience Functional Testing
 title: "Run Test Cases for Functional Testing"
-labels: HCE-Checkin, design
+labels: HCE-Checkin, UX
 assignees: ''
 
 ---
@@ -11,7 +11,6 @@ assignees: ''
 As a team, we need to perform functional testing so that we can ensure our feature is ready for release. 
 
 ## Tasks
-- [ ] Run these TestRail Test Cases
-  - [ ] xxxx
-  - [ ] xxxx
+- [ ] Run TestRail Test Cases as defined in this [ticket](<attach ticket url)
+- [ ] Schedule a Staging Review if all tests pass
  
