@@ -1,7 +1,7 @@
 ## Translation process tracker
 | **Page/content** | **Order number** | **Team** | **Ticket/epic** | **Language** | **Date sent** | **Date returned** | **QA sent** | **QA returned** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VEText | LS-2022-0118394 | VEText | [59019](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59019) | Spanish | 7/20/2023 |
+| VEText | LS-2022-0118394 | VEText | [59019](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59019) | Spanish | 7/20/2023 | 8/4/23 |
 | VEText | LS-2022-0118394 | VEText	| [59019](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59019) |	Tagalog | 7/20/2023 | 7/31/23
 | [10-10CG form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Form%20Language%20Translation/10-10CG%20content.json) (JSON file) | LS-2022-0118394 | 10-10 health apps | [50376](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/50376) |	Spanish |  7/20/2023 | 7/28/23 |
 | [The program of Comprehensive Assistance for Family Caregivers](https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/) landing page| LS-2022-0118394 | 10-10 health apps | [50376](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/50376) | Spanish | 7/18/2023 | 7/27/23 |
