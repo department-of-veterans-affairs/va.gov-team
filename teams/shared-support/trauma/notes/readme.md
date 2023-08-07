@@ -1,3 +1,7 @@
+## [August 7, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-08-07.md)
+`Big Meeting` `Strategy`
+- Discussed how to share what we're learning
+
 ## [May 1, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-05-01.md)
 `Big Meeting` `Community Guidelines` `Strategy`
 - Shared why we joined this community to contribute to our vision and strategy
