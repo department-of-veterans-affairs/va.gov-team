@@ -10,3 +10,4 @@ assignees: ''
 ## Tasks
 - [ ] Decide on metrics to measure success for the Epic
 - [ ] Determine how we will capture the metrics
+- [ ] Create an analytics request, if need help from the Analytics team
