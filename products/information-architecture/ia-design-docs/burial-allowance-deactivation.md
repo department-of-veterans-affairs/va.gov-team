@@ -32,11 +32,7 @@ We are REMOVING entry points for this project.
 
 Current URL | Redirect to | Notes
 --- | --- | ---
-All online form pages | https://www.va.gov/burials-memorials/veterans-burial-allowance/ | How we set up the redirects will depend on if there are currently redirects set up.
-
-Redirects will need to be temporary (302), not permanent (301). The 302 code tells search engines that the redirect isn't permanent and the URL will come back at a future date.  Some search engines will still index the old page, but the redirect will land them in the right spot.
- 
-
+https://www.va.gov/burials-and-memorials/application/530/introduction | https://www.va.gov/burials-memorials/veterans-burial-allowance/ | Redirects will need to be temporary (302), not permanent (301). The 302 code tells search engines that the redirect isn't permanent and the URL will come back at a future date.  Some search engines will still index the old page, but the redirect will land them in the right spot.
 
 ## <a name="search"></a>Search result best bets <br>
 Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.
