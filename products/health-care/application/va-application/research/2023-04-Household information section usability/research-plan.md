@@ -149,11 +149,11 @@ For all:
 - Do you currently or in the past claimed dependents on your tax return? (Proceed if yes, if no, disqualify)
 
 
-For recruiting 3 screen reader users
+For recruiting 2 screen reader users
 - (a) Do you need to use assistive technology to use the internet such as VoiceOver on an Apple device, TalkBack on an Android device, or JAWS on a computer? (Proceed to question b if yes, if no, disqualify)
 - (b) Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
 
-For recuriting 3 mobile users
+For recuriting 2 mobile users
 - Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 4 mobile users)
 
 
