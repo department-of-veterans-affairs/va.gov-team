@@ -27,10 +27,23 @@ _Note: We conducted 18 interviews in total. There is one failed interview becaus
 
 There are multiple paths participants took, which you could read more into the overall "figure-it-outness" finding. For example, one participant found MR's top task link on the My VA landing page, and one participant found MR after clicking on the MHV portal tab. With that being said, 15 out of 17 participants took the path that led them to MR to look for AVS. 
 
+**Quotes:**
+_"I'm looking for something that says after-visit summary or doctor's notes."_
+_"Well, I would go to medical records."_ (while on VA.gov home)
 
 **- How often is BB brought in relation to AVS?**
+Blue Button (this term) was only brought up once (_1 out of 17_), so it's not referred to generally. 
+
+**Quote:**
+_"I would go to BB and look at health records”_ when asked to review the next steps in care from the previous visit.
 
 **- Do participants open details and think the details are AVS or scroll down to the treatment plan?**
+All the participants clicked into the details of AVS. 13 out of 17 scrolled on the details page and clicked to expand the treatment plan tab. Out of the 13 participants who read the treatment plan, 3 participants are still confused after reading it and were not sure if they were looking at the doctor's notes. 
+
+**Quote:**
+_"The next steps in my care should be my treatment plan."_
+_“I would take a look at the treatment plan and find out what they’re gonna be doing."_
+_"Now I feel stuck. I don't see doctor's notes."_ (while on AVS details page)
 
 **- How do people navigate in/out of the Appointments section (back button, breadcrumbs, secondary nav, etc.)?**
 
