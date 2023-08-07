@@ -48,7 +48,7 @@ Selects “remember this browser” and it never remembers the 2FA for Firefox b
 - P4: ID.me (not LOA3) & MHV
 - P5: Login.gov 
 
-|                                                                                                   | ID.me | Login.gov | MVH |
+|                                                                                                   | ID.me | Login.gov | MHV |
 | ------------------------------------------------------------------------------------------------- | --------------------- | --------- | --- |
 | UAT Task #1: Review Direct Deposit with LOA3 account                                              |                       |           |     |
 | Confirm they are LOA3                                                                             | 2/2                   | 2/2       | n/a |
