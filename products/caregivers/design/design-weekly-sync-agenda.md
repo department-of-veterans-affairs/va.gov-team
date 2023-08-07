@@ -1,5 +1,13 @@
 # Design Weekly Sync Agenda
 
+## 2023-08-07
+
+Attendees:
+
+**Research sync on current research + synthesis**: All
+
+**EZR wireframe**: Hieu
+
 ## 2023-08-01
 
 Attendees:  DK, Jessica, Katelyn, Hieu, Kristen, Heather, Alex, Fletcher
