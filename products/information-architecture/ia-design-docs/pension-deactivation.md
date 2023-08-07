@@ -59,7 +59,9 @@ Redirects will need to be temporary (302), not permanent (301). The 302 code tel
 ## <a name="search"></a>Search result best bets <br>
 Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.
 
-![Screenshot 2023-08-07 at 12 29 45 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/09e32bf9-eeb8-4346-add3-6547db25fac0)
+![Search result showing online form link as top result for keywords in table below](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/6c2a371a-a744-4806-a7e0-efb00dcdc7c1)
+
+![search.gov result for online form line](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/09e32bf9-eeb8-4346-add3-6547db25fac0)
 
 | Keyword        | Action needed                                                                                                                                              |   |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
