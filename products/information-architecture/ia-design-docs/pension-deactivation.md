@@ -59,12 +59,12 @@ Redirects will need to be temporary (302), not permanent (301). The 302 code tel
 ## <a name="search"></a>Search result best bets <br>
 Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.
 
-| Keyword      | Results                                                                                                | Action needed?                                                                        |
-|--------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| Pension form | 1. https://www.va.gov/find-forms/about-form-21p-527ez/ 2. https://www.va.gov/find-forms/about-form-21-0966/  | No – we’ll be removing the link to the online form here anyway                        |
-| 527ez        | 1. https://www.va.gov/find-forms/about-form-21p-527ez/ 2. https://www.va.gov/find-forms/about-form-21p-0969/ | No – we’ll be removing the link to the online form here anyway                        |
-| pension      | 1. https://www.va.gov/pension/survivors-pension/ 2. https://www.va.gov/pension/veterans-pension-rates/       | No - these should prob be updated in the future, but no implications for this project |
-| Pension 527  | No best bets                                                                                           |                                                                                       |
+![Screenshot 2023-08-07 at 12 29 45 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/09e32bf9-eeb8-4346-add3-6547db25fac0)
+
+| Keyword        | Action needed                                                                                                                                              |   |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| 21p527ez       | Add this keyword to https://www.va.gov/find-forms/about-form-21p-527ez/ instead, and remove from https://www.va.gov/pension/application/527EZ/introduction |   |
+| Form 21p 527ez | Add this keyword to https://www.va.gov/find-forms/about-form-21p-527ez/ instead, and remove from https://www.va.gov/pension/application/527EZ/introduction |   |
 
 <hr>
 <hr>
