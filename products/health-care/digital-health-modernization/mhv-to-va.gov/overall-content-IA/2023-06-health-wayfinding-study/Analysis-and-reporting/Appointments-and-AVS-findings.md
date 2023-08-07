@@ -46,8 +46,8 @@ _“I would take a look at the treatment plan and find out what they’re gonna 
 _"Now I feel stuck. I don't see doctor's notes."_ (while on the AVS details page)
 
 ### - How do people navigate in/out of the Appointments section (back button, breadcrumbs, secondary nav, etc.)?
-#### IN 
 _Note: For this task, we have 3 failed data. Two participants got stuck and didn't know how to get into Appointments, and one participant had to stop the interview._
+#### IN 
 
 For the first reaction, 6 out of 14 participants wanted to click "Find VA location", but the link doesn't work. 10 out of 14 participants used secondary navigation to go to the Appointments section. 3 went to the MHV landing page, and 1 used the back button to backtrace. So, the majority of the participants replied on the secondary navigation.  
 
