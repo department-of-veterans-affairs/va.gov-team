@@ -48,7 +48,7 @@ These are some assumptions I have about what work our team should pursue with re
 
 I am assuming the following would be helpful:
 
-1. Providing guidance across teams around how notification states should be used within the logged-in experience. The goal is to make sure notifications and alerts are surfaced in a uniform, consistent way.
+1. Providing guidance across teams around how notification states should be used within the logged-in experience. The goal is to make sure notifications and alerts are surfaced in a uniform, consistent way. (AJ Note: work closely with design system on this? I think we'll need to be in alignment so when they see components/elements used in various ways we're can be confident it's consistent with broader "notification" strategy)
 2. Filling in any gaps in the design system for notification/alerts states that aren't accounted for.
 3. Figuring out when -- or if -- VANotify should be sending notification information to VA.gov.
 
