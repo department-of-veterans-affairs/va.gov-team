@@ -112,7 +112,7 @@ Remote, moderated via Zoom.
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-04-Household%20information%20section%20usability/conversation-guide.md)
 - [Link to staging (once development / staging review complete)](https://staging.va.gov/health-care/apply/application/introduction)
-- [Link to recruitment ticket](url here)
+- [Link to recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/360)
 	
 ## Recruitment	
 
