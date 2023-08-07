@@ -6,7 +6,7 @@ Below are the current main problems we are facing given the pause on VANotify an
 
 ### There are already alert states, tags, and our new notification state in the design system. 
 
-AJ Note: A challenge to acknowlegde is that it seems like everyone has a different definition of "notifications" - as we saw with MHV's thinking of a notification and as we're seeing with Angela's findings reviewed this morning - there's badges, dots, tags, "identifiers", warnings, alerts and of course notifications - lots of different terminology used to refer to the same essential thing, i.e. something used to catch or draw the user's attention to new (and potentially) actionable information. 
+_AJ Note: A challenge to acknowlegde is that it seems like everyone has a different definition of "notifications" - as we saw with MHV's thinking of a notification and as we're seeing with Angela's findings reviewed this morning - there's badges, dots, tags, "identifiers", warnings, alerts and of course notifications - lots of different terminology used to refer to the same essential thing, i.e. something used to catch or draw the user's attention to new (and potentially) actionable information._ 
 
 As a result, we keep coming across teams that are rightly applying the design system to implement a notification/alert.
 
@@ -48,7 +48,7 @@ These are some assumptions I have about what work our team should pursue with re
 
 I am assuming the following would be helpful:
 
-1. Providing guidance across teams around how notification states should be used within the logged-in experience. The goal is to make sure notifications and alerts are surfaced in a uniform, consistent way. (AJ Note: work closely with design system on this? I think we'll need to be in alignment so when they see components/elements used in various ways we're can be confident it's consistent with broader "notification" strategy)
+1. Providing guidance across teams around how notification states should be used within the logged-in experience. The goal is to make sure notifications and alerts are surfaced in a uniform, consistent way._(AJ Note: work closely with design system on this? I think we'll need to be in alignment so when they see components/elements used in various ways we're can be confident it's consistent with broader "notification" strategy)_
 2. Filling in any gaps in the design system for notification/alerts states that aren't accounted for.
 3. Figuring out when -- or if -- VANotify should be sending notification information to VA.gov.
 
