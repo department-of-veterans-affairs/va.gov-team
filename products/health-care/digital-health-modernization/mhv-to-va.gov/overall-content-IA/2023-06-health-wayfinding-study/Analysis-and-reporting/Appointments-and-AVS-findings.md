@@ -31,23 +31,30 @@ There are multiple paths participants took, which you could read more into the o
 _"I'm looking for something that says after-visit summary or doctor's notes."_
 _"Well, I would go to medical records."_ (while on VA.gov home)
 
-#### - How often is BB brought in relation to AVS?
+### - How often is BB brought in relation to AVS?
 Blue Button (this term) was only brought up once (_1 out of 17_), so it's not referred to generally. 
 
 **Quote:**
 _"I would go to BB and look at health records”_ when asked to review the next steps in care from the previous visit.
 
-**- Do participants open details and think the details are AVS or scroll down to the treatment plan?**
+### - Do participants open details and think the details are AVS or scroll down to the treatment plan?
 All the participants clicked into the details of AVS. 13 out of 17 scrolled on the details page and clicked to expand the treatment plan tab. Out of the 13 participants who read the treatment plan, 3 participants are still confused after reading it and were not sure if they were looking at the doctor's notes. 
 
 **Quote:**
 _"The next steps in my care should be my treatment plan."_
 _“I would take a look at the treatment plan and find out what they’re gonna be doing."_
-_"Now I feel stuck. I don't see doctor's notes."_ (while on AVS details page)
+_"Now I feel stuck. I don't see doctor's notes."_ (while on the AVS details page)
 
-**- How do people navigate in/out of the Appointments section (back button, breadcrumbs, secondary nav, etc.)?**
+### - How do people navigate in/out of the Appointments section (back button, breadcrumbs, secondary nav, etc.)?
+#### IN 
+_Note: For this task, we have 3 failed data. Two participants got stuck and didn't know how to get into Appointments, and one participant had to stop the interview._
 
-**- How are participants understanding the term "Requests"?**
+For the first reaction, 6 out of 14 participants wanted to click "Find VA location", but the link doesn't work. 10 out of 14 participants used secondary navigation to go to the Appointments section. 3 went to the MHV landing page, and 1 used the back button to backtrace. So, the majority of the participants replied on the secondary navigation.  
 
-**- Did participants use the filter in past appointments?**
+#### OUT
+8 out of 14 participants clicked the "back to Appointments" breadcrumb to get back out to the Appointments list page, and 6 used the browser back button. 
+
+### - How are participants understanding the term "Requests"?
+
+### - Did participants use the filter in past appointments?
 
