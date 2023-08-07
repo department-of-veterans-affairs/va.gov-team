@@ -55,6 +55,12 @@ For the first reaction, 6 out of 14 participants wanted to click "Find VA locati
 8 out of 14 participants clicked the "back to Appointments" breadcrumb to get back out to the Appointments list page, and 6 used the browser back button. 
 
 ### - How are participants understanding the term "Requests"?
+Out of 17 participants, only 2 guessed the correct meaning of "Requests". The majority of the participants thought they could request or change or take some sort of action if they click "Requests". 
+
+**Quotes:**
+_"I expect to change or request an appointment."_
+_"Maybe ask the VA to see a particular specialist."_
+_"It should give me an option or calendar to schedule appointments. It would have to be with a specific doctor or department as options."_
 
 ### - Did participants use the filter in past appointments?
 
