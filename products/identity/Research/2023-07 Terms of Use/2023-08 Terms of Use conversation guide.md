@@ -63,6 +63,7 @@
 - This entire session will take no more than 1 hour.
 - I do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or even stop the session, please let me know.
 - Any questions so far?
+---
 - Ok, let’s get to the folks we have waiting to join the session. Perigean did previously ask for your consent to allow other people to observe today, but I know things can change. So I'd like to confirm with you now - are you okay with a couple of additional observers joining us during this session?
    - [If NO]: Use Slack to kindly ask the observers to leave the Zoom.
    - [If YES]: Admit observers.
@@ -136,9 +137,10 @@ Are you comfortable with that?
       - Can you tell me more about that?
    - For a website or app you use regularly, have you noticed a time recently when they said they updated their terms and you have to look at them and agree to them again?
       - How did you react to that?
-- Let’s pretend you wanted to read through the information here, how would you do that?
+- Let’s pretend you wanted to read through all of the information here, how would you do that?
 - Let’s pretend you didn’t want to agree to these terms here, at least right now. What would you do?
-   - What would you expect the buttons (at bottom of page) to do?
+- [GUIDE PARTICIPANT TO BOTTOM of page, if they haven't made it there yet]
+   - What would you expect the buttons here to do?
    - This might sound a little silly, but can you give me your definition of “accept”
       - What about “decline”
    - We have “accept” and “decline” buttons here. Would it change anything for you if we renamed the decline button to “not accept”? So the options are accept and not accept.
@@ -150,6 +152,8 @@ Are you comfortable with that?
 - Now let’s assume you’d select “decline” - don’t actually do it yet - what would you expect to happen?
    - Go ahead and select “decline”
    - What do you think about this information here?
+   - What is your understanding of what this page is telling you?
+
 
 ## Round 3 - Closing Q’s and Thank you | minutes
 - That's all the questions that I wanted to cover today. I’m going to look at my messages to see if notetakers or observers had any questions they wanted to ask or follow up on.
@@ -168,9 +172,6 @@ Are you comfortable with that?
     - *If don't see chat, ASK:* Do you see the red **Stop Share** button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the **Chat** button in the center of the Zoom controls.
   - Phone: On the far right is a **More** button or **3 dots**. Tap that and then on Chat or the conversation bubble. 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
-
----
-### Instructions for screen reader
 
 ---
 
