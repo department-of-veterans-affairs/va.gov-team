@@ -86,8 +86,8 @@ ________________________________________________________________________________
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change "verify" to "confirm"](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59162)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
-        - Pilot ends July 31; need decision from Kay/IVC about whether to provide it to everyone
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Create 11 x 17 Poster Size](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62518)
+        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) Pilot ends July 31; need decision from Kay/IVC about whether to provide it to everyone
+        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Create 11 x 17 Poster Size](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62518)
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - authenticated check-in - fetch appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61032)
