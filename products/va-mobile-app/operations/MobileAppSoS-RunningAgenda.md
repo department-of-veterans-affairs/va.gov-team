@@ -26,19 +26,18 @@
 |[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | YELLOW| PM: Project follow up and sizing| BE integration with final api designs, FE Development | Sept '23 |
 | [Deeplinking](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6037) | Stacy | GREEN |Implementation Phase|Continuing Implementation | Aug '23| 
 | [Appointment: List & Detail content alignment audit](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5136) | Meko | GREEN | Appt List & Detail content audit and recommendation review | Recommendation readout | Aug '23 |
-| [Appointment Refinement: Compensation & Pension](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725)  | Meko  |Green | Remove Cancel button & content update for C&P appts -Complete |  | 8/1 App release |
 | User Endpoint Update | Ameet | GREEN |Determine data required for user to proceed through application | Split out user endpoint into multiple endpoints | Sept '23 | 
 | [Finding Medications-Comparitive Analysis](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/6041) | Meko/Lauren | Green |   |  | August '23| 
-| Pre-Needs Burial Claims Sprint 0  | Adam  | GREEN | Working with Pre-Need Github page and starting on Product Brief artifact | Present Sprint 0 | July '23 |
-| [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Adam, Ameet | GREEN | Reviewing SM for gaps in current analytics| Next 2 Dashboard priorities Login Blocked, Letters | All Q3|
+| [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam | Green | Already met with Ryan 1x and will be meeting again on 8/8 | Final PO review 8/14  | Aug '23 |
+| [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Ameet | GREEN | Reviewing SM for gaps in current analytics| Next 2 Dashboard priorities Login Blocked, Letters | All Q3|
 | [Mobile App Retention Research and Analysis](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5952) | Adam, Ameet | GREEN | Working through the remainder of the interviews and starting some retention analysis | Finalize findings and present | Aug '23 | 
-| [General Analytic Request and Needs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6070) | Adam, Ameet | GREEN | Working on App Version reporting to stop general stupport and working on a Sprint 0 on how to better track via FB URLs   | | | Ongoing |
+| [General Analytic Request and Needs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6070) | Ameet | GREEN | Working on App Version reporting to stop general stupport and working on a Sprint 0 on how to better track via FB URLs   | | | Ongoing |
 | [Platform Preparation - Design System](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6011) | Kelly, Ameet | GREEN | Disovery for working in VADS shared component-library repo; Continue setting up tools in temp repo; | Begin building SegmentedControl component | All Q3 | 
 | [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN | Items merged with Dev| | Aug-2.8.0 Release |
 | [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | 4 bugs worked on, 2 bug blockers completed  | Continued work managing bug tickets and discipline tech debt | Ongoing | 
 | [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
-| RX Analytics** | Meko/Greta | Green| Engineering adding new events for improved RX reporting -Complete | None | July '23 | 
-| [Cancel Message Content Auidt**](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy |GREEN | Items Merged with Dev  | NA | Aug- 2.8.0 Release|
+| VHIC Step 1 | Stacy | Green | | | Aug '23 | 
+| Personalization | Ameet | | | |
 * *Alternate Project
 * **Carryover
 
@@ -51,7 +50,7 @@
  
 | Priority |Project | PM | Status | Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| 
-|Planned | [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam |Experiment starting Sprint 77 | Aug '23 |
+
 |Planned | Finding Medications Research & Analysis | Meko | Sprint 76 - 77 Aug'23| 
 |Planned |RX List and Details Update | Meko | Sprint 80 - 81 Oct '23|
 |Planned | Claims Reimagined Step 1 | Stacy | Sprint 79 Sept '23| 
@@ -80,7 +79,8 @@
 | Q3 | [Content Management System Sprint 0](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6071)   | Misty | COMPLETE |
 | Q3 | [Cancel Message Content Auidt**](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | Releasing August |
 | Q3| [SM Realignement with MHV](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4718) | Adam | Releasing August| 
-
+| Q3 | Pre-Needs Burial Claims Sprint 0  | Adam  | Presenting at future Sprint 0 |
+|Q3  [Appointment Refinement: Compensation & Pension](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725)  | Meko | 8/1 App release |
 </details>
 
 ## Agenda  
