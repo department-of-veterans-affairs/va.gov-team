@@ -16,6 +16,9 @@
  - 3rd Quarter projects that are currently being worked on by the mobile team
  - Focus will be on non-green items unless there are questions / specific updates
  - Work is listed in PO's priority order based on SoS Sprint Tab
+ - Current Sprint
+    - Sprint 77 8/2 - 8/15
+    - 4 sprints remaining in this quarter 
    
 |Project | PM | Status | Current Sprint Work | Future Sprint Work | Est Completion Timing |
 | ----------- | ----------- | ----------- |-----------| -------------| ----------|
