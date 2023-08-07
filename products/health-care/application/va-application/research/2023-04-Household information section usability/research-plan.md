@@ -199,24 +199,23 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 
 
-
-
-
-
  
 ## Team Roles	
-- Moderator: David Kennedy (david.kennedy@adhocteam.us) and 
-- Research guide writing and task development: Moderators	
+- Moderator: David Kennedy (david.kennedy@adhocteam.us) and team
+- Research guide writing and task development: Jessica Stump (jessica.stump@adhocteam.us)	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Moderators
 - Participant(s) for pilot test: 
 - Note-takers: Perigean, 1010 Team
-- Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Lihan Li (lihan@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us),  Jessica Stump (jessica.stump@adhocteam.us)
+- Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Jessica Stump (jessica.stump@adhocteam.us), Katelyn Caillouet (katelyn.caillouet@agile6.com), Hieu Vo (hieu.vo@agile6.com) 
+Observers: [link to sign up post on Slack](url)
+
 
 > **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
+- Kristen McConnell (kristen.mcconnell@va.gov)
 
 
 
 ## Approvals 
-- 
+- Kristen McConnell (kristen.mcconnell@va.gov) on August 4, 2023
 
