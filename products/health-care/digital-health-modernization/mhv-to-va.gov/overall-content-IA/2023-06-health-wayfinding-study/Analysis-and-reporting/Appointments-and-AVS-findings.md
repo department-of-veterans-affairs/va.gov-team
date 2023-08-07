@@ -67,4 +67,4 @@ Out of 17 participants, only 2 guessed the correct meaning of "Requests". The ma
 - _"It should give me an option or calendar to schedule appointments. It would have to be with a specific doctor or department as options."_
 
 ### - Did participants use the filter in past appointments?
-Not enough participants accessed AVS through Appts, so we really weren't able to explore this. No conclusions. 
+Not enough participants accessed AVS through Appts, so we didn't have any conclusions to this question. 
