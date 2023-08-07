@@ -165,7 +165,7 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
 #### Check-in success
 ```
 {
-	"code": "check-in-success",
+	"id": "366",
 	"message": "Check-in success with appointmentIen: 38847, patientDfn: 366, stationNo: 530",
 	"type": "AuthenticatedCheckinResponse"
 }
@@ -173,14 +173,32 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
 #### Check-in failure 400
 ```
 {
-	"code": "check-in-failure",
+	"id": "366"
 	"errors": [
-		"patient-contact-info-needs-update",
-		"patient-emergency-contact-needs-update",
-		"patient-next-of-kin-needs-update",
-		"patient-insurance-needs-update",
-		"appointment-has-bad-status",
-		"appointment-check-in-too-late"
+		{
+			"status": "400",
+			"title": "patient-contact-info-needs-update"
+		},
+		{
+			"status": "400",
+			"title": "patient-emergency-contact-needs-update"
+		},
+		{
+			"status": "400",
+			"title": "patient-next-of-kin-needs-update"
+		},
+		{
+			"status": "400",
+			"title": "patient-insurance-needs-update"
+		},
+		{
+			"status": "400",
+			"title": "appointment-has-bad-status"
+		},
+		{
+			"status": "400",
+			"title": "appointment-check-in-too-late"
+		},
 	],
 	"message": "Check-in unsuccessful with appointmentIen: 38846, patientDfn: 366, stationNo: 530",
 	"type": "AuthenticatedCheckinResponse"
@@ -271,12 +289,14 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
 {
 	"id": "366",
 	"type": "patientDemographicsStatusResponse",
-	"contactNeedsUpdate": false,
-	"demographicsConfirmedAt": "2023-08-07T10:21:42.178-04:00",
-	"nextOfKinNeedsUpdate": false,
-	"nextOfKinConfirmedAt": "2023-08-07T10:21:42.178-04:00",
-	"emergencyContactNeedsUpdate": false,
-	"emergencyContactConfirmedAt": "2023-08-07T10:21:42.178-04:00"
+	"data": {
+		"contactNeedsUpdate": false,
+		"contactConfirmedAt": "2023-08-07T10:21:42.178-04:00",
+		"nextOfKinNeedsUpdate": false,
+		"nextOfKinConfirmedAt": "2023-08-07T10:21:42.178-04:00",
+		"emergencyContactNeedsUpdate": false,
+		"emergencyContactConfirmedAt": "2023-08-07T10:21:42.178-04:00"
+	}
 }
 ```
 #### POST Demographics Failure
