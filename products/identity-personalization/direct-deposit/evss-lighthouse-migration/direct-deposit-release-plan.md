@@ -142,7 +142,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage D: 100% of users
+### Stage E: 100% of users
 
 #### Results
 
