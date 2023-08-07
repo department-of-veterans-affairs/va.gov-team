@@ -65,7 +65,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Rollout Planning
 
-- Desired date range:  8/17/23 - 8/31/23
+- Desired date range:  8/17/23 - 8/30/23
 - How will you make the product available in production while limiting the number of users who can find/access it: Use of Feature toggles.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Successful submissions, *reported contact center calls < 2 calls*
 - Link to the dashboard(s) showing "success criteria" metrics:
@@ -76,7 +76,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: 10 days (8/17-8/27)
+- Length of time: 5 days (8/17-8/21)
 - Percentage of Users (and roughly how many users do you expect this to be): 10% 
 
 #### Results
@@ -91,7 +91,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: 2 days (8/28-8/29)
+- Length of time: 2 days (8/22-8/23)
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -106,7 +106,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: 1 day (8/30)
+- Length of time: 7 days - due to a weekend (8/24)
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -117,7 +117,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage D: 100% of users (8/31)
+### Stage D: 100% of users (8/30)
 
 #### Planning
 
