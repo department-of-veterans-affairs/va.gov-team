@@ -64,7 +64,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% | 08/08/2023 |  |
+| Launch to 25% | 08/11?/2023-TBD |  |
 | Launch to 50% |  | |
 | Launch to 100% |  |  |
 
