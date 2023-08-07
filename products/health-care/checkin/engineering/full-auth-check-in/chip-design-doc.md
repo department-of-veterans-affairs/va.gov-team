@@ -153,12 +153,13 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
   - Body (object): The updated demographicConfirmations object
     - `id` (string): PatientDfn
     - `type` (string): 'patientDemographicsStatusResponse'
-    - `contactNeedsUpdate` (boolean)
-    - `contactConfirmedAt` (date)
-    - `emergencyContactNeedsUpdate` (boolean)
-    - `emergencyContactConfirmedAt` (date)
-    - `nextOfKinNeedsUpdate` (boolean)
-    - `nextOfKinConfirmedAt` (date)
+    - `data` (object): The updated data
+	    - `contactNeedsUpdate` (boolean)
+	    - `contactConfirmedAt` (date)
+	    - `emergencyContactNeedsUpdate` (boolean)
+	    - `emergencyContactConfirmedAt` (date)
+	    - `nextOfKinNeedsUpdate` (boolean)
+	    - `nextOfKinConfirmedAt` (date)
 
 
 ### Example Responses
