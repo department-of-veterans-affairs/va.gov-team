@@ -12,7 +12,7 @@ Not applicable - team conducted internal testing.
 
 ### Planning
 **Launch Go/No-go:** 
-- _Completed mm/dd/yyyy_
+- _Completed 08/07/2023_
 - Launch go/no-go ticket: [#61316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61316)
 - [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/launch-materials/claim-status-lighthouse-migration-launch-readiness-checklist.md)
 
