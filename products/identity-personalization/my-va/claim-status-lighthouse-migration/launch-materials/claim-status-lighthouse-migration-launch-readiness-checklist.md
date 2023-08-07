@@ -1,6 +1,6 @@
 # My VA Claims and Appeals Section: EVSS > Lighthouse Migration: Launch Readiness Checklist
 
-### Launch Go / No Go | MM/DD/YYYY
+### Launch Go / No Go | 08/07/2023
 
 ## Decision: ... 
 
