@@ -136,7 +136,7 @@ Are you comfortable with that?
        - What do you understand this page to mean?
        - Did you know that VA had terms of use?
        - What do you think about being presented with terms of use for the VA online?
-- Go ahead and take some time to move through this page
+- Recall that we are pretending you are signing in today to [TASK]. Take as much time to go through this page as you would in that instance.
     - Do any thoughts come to mind? Any questions? Did anything seem strange or set up in a way that was difficult to move through or understand?
 - Ok so if you feel like you have the information you need from this page, what would you do next? DONT DO IT YET!
    - When a Terms of Use comes up on a website other than VA, have you taken the same action there?
@@ -167,6 +167,7 @@ Are you comfortable with that?
 - Now let’s assume you’d select “decline” - don’t actually do it yet - what would you expect to happen?
    - Go ahead and select “decline”
    - What do you think about this information here?
+   - What is your understanding of what this page is telling you?
 
 ## Round 3 - Closing Q’s and Thank you | 5 minutes
 - That's all the questions that I wanted to cover today. I’m going to check my messages to see if notetakers or observers had any questions they wanted to ask or follow up on.
