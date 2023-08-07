@@ -4,7 +4,7 @@
 
 ### Latest Release (PDF)
 - Release Notes
-  - 8/07/2023 - 17x11 poster to display on a TV monitor is added.<br><br>
+  - 8/07/2023 - 17x11 TV monitor posters are added.<br><br>
     - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772069/8.5x11-lowvision-yourecheckedin-fin.pdf)
  Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772073/8.5x11-lowvision-yourecheckedin-philippines-fin.pdf)
 
