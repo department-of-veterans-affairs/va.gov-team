@@ -6,7 +6,15 @@ Attendees:
 
 **Research sync on current research + synthesis**: All
 
+- Research is showing Profile would be the best location for EZR info. We'll need to have the conversation with PRA folks. Alex to set up a meeting with them, Kristen and Patrick when Patrick is back from vacation.
+- One middle ground might be to link to a separate EZR form from the Profile, if we have to walk in both worlds of a separate form and putting it in a location where Veterans want it. Still working both angles: Profile and separate form flow.
+- Designers will meet to walk through submitting for Household study.
+
 **EZR wireframe**: Hieu
+
+- Showed spreadsheet with field comparison. Will work on wireframe of separate form flow next.
+- Look at Pre-checkin for confirm flow.
+- Could be a technical limitation because of Check-in confirm flow not being in forms library. Chat with engineers about the possibilities there.
 
 ## 2023-08-01
 
