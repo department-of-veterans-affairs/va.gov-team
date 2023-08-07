@@ -156,6 +156,135 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
     - `emergencyContactConfirmedAt` (date)
     - `nextOfKinNeedsUpdate` (boolean)
     - `nextOfKinConfirmedAt` (date)
-    
 
 
+### Example Responses
+
+#### Check-in success
+```
+{
+	"code": "check-in-success",
+	"message": "Check-in success with appointmentIen: 38847, patientDfn: 366, stationNo: 530",
+	"type": "AuthenticatedCheckinResponse"
+}
+```
+#### Check-in failure 400
+```
+{
+	"code": "check-in-failure",
+	"errors": [
+		"patient-contact-info-needs-update",
+		"patient-emergency-contact-needs-update",
+		"patient-next-of-kin-needs-update",
+		"patient-insurance-needs-update",
+		"appointment-has-bad-status",
+		"appointment-check-in-too-late"
+	],
+	"message": "Check-in unsuccessful with appointmentIen: 38846, patientDfn: 366, stationNo: 530",
+	"type": "AuthenticatedCheckinResponse"
+}
+```
+#### Check-in failure 500
+```
+{
+	"errors": [
+		{
+			"status": "500",
+			"title": "Authenticated Check-in vista error."
+		}
+	]
+}
+```
+#### GET Demographics Success
+```
+{
+	"data": {
+		"insuranceVerificationNeeded": true,
+		"needsConfirmation": true,
+		"mailingAddress": {
+			"street1": "Any Street",
+			"street2": "",
+			"street3": "",
+			"city": "Any Town",
+			"county": "",
+			"state": "WV",
+			"zip": "999980071",
+			"zip4": null,
+			"country": ""
+		},
+		"residentialAddress": {
+			"street1": "",
+			"street2": "",
+			"street3": "",
+			"city": "",
+			"county": null,
+			"state": "",
+			"zip": "",
+			"zip4": null,
+			"country": ""
+		},
+		"homePhone": "222-555-8235",
+		"officePhone": "222-555-7720",
+		"cellPhone": "3153789190",
+		"email": "",
+		"emergencyContact": {
+			"name": "",
+			"relationship": "",
+			"phone": "",
+			"workPhone": "",
+			"address": {
+				"street1": "",
+				"street2": "",
+				"street3": "",
+				"city": "",
+				"county": null,
+				"state": "",
+				"zip": "",
+				"zip4": "",
+				"country": ""
+			},
+			"needsConfirmation": true
+		},
+		"nextOfKin": {
+			"needsConfirmation": true
+		}
+	},
+	"id": "366",
+	"type": "authenticatedGetDemographicsResponse"
+}
+```
+#### GET Demographics Failure
+```
+{
+	"errors": [
+		{
+			"status": "500",
+			"title": "Error getting demographics from VistA API: Request failed with status code 500"
+		}
+	]
+}
+```
+#### POST Demographics Success
+```
+{
+	"id": "366",
+	"type": "patientDemographicsStatusResponse",
+	"contactNeedsUpdate": false,
+	"demographicsConfirmedAt": "2023-08-07T10:21:42.178-04:00",
+	"nextOfKinNeedsUpdate": false,
+	"nextOfKinConfirmedAt": "2023-08-07T10:21:42.178-04:00",
+	"emergencyContactNeedsUpdate": false,
+	"emergencyContactConfirmedAt": "2023-08-07T10:21:42.178-04:00"
+}
+```
+#### POST Demographics Failure
+```
+{
+	"errors": [
+		{
+			"status": "400",
+			"title": "Invalid arguments: \"demographicConfirmations.contactNeedsUpdates\" is not allowed"
+		}
+	]
+}
+```
