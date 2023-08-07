@@ -27,6 +27,8 @@ _Note: We conducted 18 interviews in total. There is one failed interview becaus
 
 There are multiple paths participants took, which you could read more into the overall "figure-it-outness" finding. For example, one participant found MR's top task link on the My VA landing page, and one participant found MR after clicking on the MHV portal tab. With that being said, 15 out of 17 participants took the path that led them to MR to look for AVS. Out of the 15 participants, 2 went into secure messaging and expected to find AVS in messages from their doctors. 
 
+So, the majority prefers to find AVS through MR. 
+
 **Quotes:**
 
 - _"I'm looking for something that says after-visit summary or doctor's notes."_
@@ -42,6 +44,8 @@ Blue Button (this term) was only brought up once (_1 out of 17_), so it's not re
 ### - Do participants open details and think the details are AVS or scroll down to the treatment plan?
 All the participants clicked into the details of AVS. 13 out of 17 scrolled on the details page and clicked to expand the treatment plan tab. Out of the 13 participants who read the treatment plan, 3 participants are still confused after reading it and were not sure if they were looking at the doctor's notes. 
 
+The majority know to look for the next steps in their care from the visit in the details link once they get to Care summaries and notes, but it takes them a while to read and scroll up and down to find the next steps from the visit. 3 participants are even confused after reading it. It is challenging for participants to filter out the information they want even if they are on the correct page. 
+
 **Quote:**
 
 - _"The next steps in my care should be my treatment plan."_
@@ -52,10 +56,10 @@ All the participants clicked into the details of AVS. 13 out of 17 scrolled on t
 _Note: For this task, we have 3 failed data. Two participants got stuck and didn't know how to get into Appointments, and one participant had to stop the interview._
 #### IN 
 
-For the first reaction, 6 out of 14 participants wanted to click "Find VA location", but the link doesn't work. 10 out of 14 participants used secondary navigation to go to the Appointments section. 3 went to the MHV landing page, and 1 used the back button to backtrace. So, the majority of the participants replied on the secondary navigation.  
+For the first reaction, 6 out of 14 participants wanted to click "Find VA location", but the link doesn't work. 10 out of 14 participants used secondary navigation to go to the Appointments section. 3 went to the MHV landing page, and 1 used the back button to backtrace. So, the majority of the participants replied on the secondary navigation to get to Appointments.   
 
 #### OUT
-8 out of 14 participants clicked the "back to Appointments" breadcrumb to get back out to the Appointments list page, and 6 used the browser back button. 
+8 out of 14 participants clicked the "back to Appointments" breadcrumb to get back out to the Appointments list page, and 6 used the browser back button. "Back to" breadcrumb works well, and it provides participants an additional option to go back besides the back button on the browser. 
 
 ### - How are participants understanding the term "Requests"?
 Out of 17 participants, only 2 guessed the correct meaning of "Requests". The majority of the participants thought they could request or change or take some sort of action if they click "Requests". So, "Requests" should not replace "Pending". 
