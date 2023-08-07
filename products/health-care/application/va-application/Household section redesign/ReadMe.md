@@ -52,11 +52,11 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | 2021| 2022 | Jan-Jun 2023 |Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------|-------|-------------- |-------------- |-------------- |
-|Total Apps started |173,669|231,725 |81,431 |N/A | TBD |TBD |
-|Household section drop-off |14% (23,803)|9% (21,074) |34% (27,715) |10% | TBD |TBD |
-|Financial Disclosure |4% (1,464)|0.3% (477) | 0% (no drop) |no change |TBD |TBD |
-|Annual Income |26.3% (40,791) |11.4% (14,772) | 24% (12,417) |10% |TBD |TBD |
-|Deductible Expenses |6% (9,704)|7% (9,116) | 8% (3,296) |5% |TBD |TBD |
+|Total Apps started |173,669|346,625 |81,431 |N/A  |TBD |TBD |
+|Household section drop-off |14% (23,803)|28% (98,209) |34% (27,715) |10% |TBD |TBD |
+|Financial Disclosure |4% (1,464)|0.3% (477) | 0% (no drop) |no change | TBD |TBD |
+|Annual Income |26.3% (40,791) |30% (75,416) | 24% (12,417) |10% |TBD |TBD |
+|Deductible Expenses |6% (9,704)|8% (13,911) | 8% (3,296) |5% |TBD |TBD |
 
 
 #### **Key Result #2:** Increase application submissions by 5%, and submissions within a single session by 5%
