@@ -4,15 +4,15 @@ Pam Drouin, Authenticated Experience Profile team
 
 ## Background
 
-EVSS -- the VA backend that stores direct deposit for comp & pen, disability ratings, and more -- is being retired in favor of the Lighthouse platform. Lighthouse has been working hard to migrate data from EVSS to their platform, and they have successfully done so with direct deposit for comp & pen information. This means that we need to reintegrate the VA.gov profile to point to Lighthouse instead of EVSS.
+EVSS -- the VA backend that stores direct deposit for disability compensation & pensions, disability ratings, and more is being retired in favor of the Lighthouse platform. Lighthouse has been working hard to migrate data from EVSS to their platform, and they have successfully done so with direct deposit for comp & pen information. This means that we need to reintegrate the VA.gov profile to point to Lighthouse instead of EVSS.
 
 - [Project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration#readme)
 - [Direct deposit product outline](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/direct-deposit)
 
 ### Goals
-The primary goal of our UAT is to confirm that the Direct Deposit section of the Profile functions as intended for users who sign in with ID.me and/or Login.gov and who have direct deposit set up with their bank information. This includes validating that MHV and DSLogon behavior hasn't changed.
+The primary goal of our UAT was to confirm that the Direct Deposit section of the Profile functions as intended for users who sign in with ID.me and/or Login.gov and who have direct deposit set up with their bank information, including validating that MHV and DSLogon behavior has not changed.
 
-Specifically, this research will be looking to validate the following use cases:
+Specifically, this research validated the following use cases:
 - Users see direct deposit section of the profile and receive disability compensation & pension payments can edit and save their bank info.
 - Users that open the edit modal and click cancel will see modal close and previously-saved direct deposit information will still be saved.
 - Users that click to edit direct deposit information cannot submit the form with errors.
@@ -20,7 +20,7 @@ Specifically, this research will be looking to validate the following use cases:
 - Users who save direct deposit for disability compensation & pension information receive a confirmation email.
 
 ### Approach
-Summary of how you conducted UAT (include method, and number of participants)
+Summary of how we conducted UAT:
 We recruited 7 participants with the aim of conducting 5 completed User Acceptance Test sessions. 
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT/research-plan.md) (note: this file is stored within the EVSS>Lighthouse Migration folder)
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/UAT/conversation-guide.md) (note: this file is stored within the EVSS>Lighthouse Migration folder)
@@ -37,14 +37,12 @@ We were not able to test successfully with a DSLogon user. None of the participa
 
 Since the same authorization rules apply to both MHV and DSL users (both are gated, and these rules are enforced at both the FE and BE levels), and we've already seen the gate with MHV users, we have decided that we don’t need a DSLogon user to complete UAT.
 
-Selects “remember this browser” and it never remembers the 2FA for Firefox browser. Prefers VA app because it uses facial recognition.
-
 ## Detailed findings 
 
 ### Participant login credentials
 - P1: ID.me & MHV
 - P2: ID.me
-- P3: Login.gov & MHV. Also had ID.me but did not test because of pre-existing user issues 
+- P3: Login.gov & MHV. P3 also had ID.me but did not test because of pre-existing user issues 
 - P4: ID.me (not LOA3) & MHV
 - P5: Login.gov 
 
@@ -92,7 +90,7 @@ Google Sheets
 
 **Recruitment criteria**
 
-We aimed to recruit 7 participants for at least **5 completed sessions** with the following user type: LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for disability compensation & pension and has set it up. Participants myst have a disability rating and be able to log in to VA.gov with a verified ID.me or verified Login.gov credentials.
+We aimed to recruit 7 participants for at least **5 completed sessions** with the following user type: LOA3 (ID.me or Login.gov) user that is eligible for direct deposit for disability compensation & pension and has set it up. Participants needed to have a disability rating and be able to log in to VA.gov with a verified ID.me or verified Login.gov credentials.
 
 We worked with **5 participants** to test the backend migration.
 
