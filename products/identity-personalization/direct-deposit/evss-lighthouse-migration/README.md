@@ -95,7 +95,7 @@ As a person that receives payments from VA, I want to be able to easily view and
 |[Project epic: #51900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51900)| TBD |
 |[QA Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/QA/README.md)| 07/20/2023 |
 | [UAT Go/no-go](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61177) |07/24/2023|
-|UAT results|TBD|
+|[UAT results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/Research/2023-08-direct-deposit-UAT/2023-08%20UAT%20findings.md)|08/07/2023|
 |[Launch Go/no-go](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63029)|TBD|
 |[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/direct-deposit-release-plan.md)|TBD|
 
