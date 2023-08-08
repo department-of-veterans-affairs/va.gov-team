@@ -79,7 +79,9 @@ As a person that receives payments from VA, I want to be able to easily view and
 
   <p></p>
 
-**Objective 1: Improves direct deposit for comp & pen success rates by migrating to Lighthouse**.
+### Objective 1: Improves direct deposit for comp & pen success rates by migrating to Lighthouse.
+
+**KPI: Get direct deposit retrievals and saves to a 95% success rate.**
 
 Stats based on the [Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986).
 
