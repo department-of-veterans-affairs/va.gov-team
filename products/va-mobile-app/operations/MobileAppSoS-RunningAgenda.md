@@ -33,10 +33,10 @@
 | [Mobile App Retention Research and Analysis](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5952) | Adam, Ameet | GREEN | Working through the remainder of the interviews and starting some retention analysis | Finalize findings and present | Aug '23 | 
 | [General Analytic Request and Needs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6070) | Ameet | GREEN | Working on App Version reporting to stop general stupport and working on a Sprint 0 on how to better track via FB URLs   | | | Ongoing |
 | [Platform Preparation - Design System](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6011) | Kelly, Ameet | GREEN | Began building SegmentedControl compnent; Updating component documenation site; Begin building out automation| Incorporate new SegmentedControl component into the app| All Q3 | 
-| [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | GREEN | Items merged with Dev| | Aug-2.8.0 Release |
+| [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | Yellow | Rollback done to address errors |WIP with SIS team | Original-Aug-2.8.0 Release , Roll Back 2.9.0 Release|
 | [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | Continued work to reduce bugs and tech debt | Total Open Bugs 60 (7 are Sev 2)   | Ongoing | 
 | [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
-| VHIC Step 1 | Stacy | Green | | | Aug '23 | 
+| VHIC Step 1 | Stacy | Yellow |Awaiting on Client Info/Endpoints Meeting | | Aug '23 | 
 | Personalization | Ameet | | | |
 * *Alternate Project
 * **Carryover
