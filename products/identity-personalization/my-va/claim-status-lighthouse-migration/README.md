@@ -1,6 +1,6 @@
 # Project outline: My VA Claim status EVSS > Lighthouse migration
 
-**Last updated July 3, 2023 - updated security section**
+**Last updated August 8, 2023 - updated key dates**
 
 ### Communications
 
@@ -85,7 +85,7 @@ In order to continue providing claims and appeals details on My VA we need to up
 - March 2023: Project kick-off
 - June - July 2023: Development
 - July 2023: Pre-launch activities
-- ...: Launch to 10%
+- August 8, 2023: Launch to 10%
 - ...: Launch to 25%
 - ...: Launch to 50%
 - ...: Launch to 100%
