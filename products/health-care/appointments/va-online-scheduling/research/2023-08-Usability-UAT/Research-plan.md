@@ -50,8 +50,11 @@ Retiring
 Research goals
 --------------
 
-The goal of this research is to twofold verify that logged in Veterans are able to utilize recently added features (UAT) and also to understand their mental models as they navigate through Appointments with the updated navigation chenages (Usability). 
+The goal of this research is to twofold: verify that logged in Veterans are able to utilize recently added features (UAT) and also to understand their mental models as they navigate through Appointments with the updated navigation and UI chanages (Usability). 
 
+Goal 1: (UAT) Verify that logged in Veterans are able to utilize recently added features.
+
+Goal 2: (Usability) Understand their mental models as they navigate through Appointments with the updated navigation and UI chanages. 
 
 ### Outcome
 
@@ -74,27 +77,12 @@ When logged in Veterans are in the appointments feature on VA.gov:
 -   They will be able to find and review their after visit summary
 
 
-
-## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
-
-### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
-### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
