@@ -105,9 +105,9 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 - Mix of participant ages 
 - At least 4 participants over 55+
-- At least 3 participants who are women
+- At least 3, no more than 7, participants who are women
 - All particpants have less than a Bachelor's Degree Education level 
-- No more than 3 participant who are White (mix of other demographics)
+- No more than 2 participant who are White (mix of other demographics)
 
 
 **Screener Questions**
@@ -124,7 +124,7 @@ Cohort 2:
 
 ## Timeline
 
-August 24 - September 1, 2023
+September 13 - September 22, 2023
 
 
 
@@ -134,7 +134,7 @@ August 24 - September 1, 2023
 
 ### Research sessions
 * Planned dates of research:
-August 24 - September 1, 2023
+September 13 - September 22, 2023
 
 
 ### Length of sessions
@@ -151,19 +151,17 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 
 ### Availability
-TBD
 
+TBD
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | ----------------------|
-| August 24, 2023 	| 1pm ET - 7pm ET 	|
-| August 25, 2023 	| 1pm ET - 4pm ET 	|
-| August 28, 2023 	| 3pm ET - 7pm ET 	|
-| August 29, 2023 	| 1pm ET - 7pm ET 	|
-| August 30, 2023 	| 1pm ET - 7pm ET 	|
-| August 31, 2023 	| 1pm ET - 7pm ET 	|
-| September 1, 2023 	| 1pm ET - 4pm ET 	|
-
-
+| September 13, 2023 	| 1pm ET - 7pm ET 	|
+| September 14, 2023 	| 1pm ET - 4pm ET 	|
+| September 15, 2023 	| 3pm ET - 7pm ET 	|
+| September 18, 2023 	| 1pm ET - 7pm ET 	|
+| September 20, 2023 	| 1pm ET - 7pm ET 	|
+| September 21, 2023 	| 1pm ET - 4pm ET 	|
+| September 22, 2023 	| 1pm ET - 4pm ET 	|
 
 
 
@@ -172,7 +170,7 @@ TBD
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderators: Jessica Stump (jessica.stump@adhocteam.us), Katelyn Caillouet (katelyn.caillouet@agile6.com) 
 - Research guide writing and task development (usually but not always same as moderator): Moderators
-- Participant recruiting & screening:	Perigean
+- Participant recruiting & screening: Perigean
 - Project point of contact: Moderators	
 - Participant(s) for pilot test: 
 - Accessibility specialist (for sessions where support for assistive technology may be needed):
