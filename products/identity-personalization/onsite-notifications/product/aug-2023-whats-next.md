@@ -21,7 +21,7 @@ As a result, we keep coming across teams that are applying the design system to 
 - [Domo report](https://va-gov.domo.com/page/1167851935?userId=1322887837)
 - [GA dashboard for onsite notifications](https://analytics.google.com/analytics/web/#/dashboard/MALmun-7S7WXBNKxUrQ39g/a50123418w177519031p184624291/)
 
-According to analytics, far more people are clicking into the debt section of My VA than the onsite notification by a large margin, which is pretty surprising to me. From Jan 1 – Aug 2 2023, `Manage your VA debt` was clicked about 300K times from the debt section vs. about 97K clicks from the onsite notification. This is a large discrepancy even considering that the onsite notification was removed about 77K times over the year. 
+According to analytics, far more people are clicking into the debt section of My VA than the onsite notification by a large margin. From Jan 1 – Aug 2 2023, `Manage your VA debt` was clicked about 300K times from the debt section vs. about 97K clicks from the onsite notification. This is a large discrepancy even considering that the onsite notification was removed about 77K times over the year. 
 
 **Preliminary next steps**: Determine what to do with the Notifications section/`You have a new debt` on My VA.
 
