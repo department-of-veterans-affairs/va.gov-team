@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: July 21, 2023**
+**Last Updated: August 8, 2023 -- adding launch date**
 
 ### Communications
 
@@ -78,14 +78,14 @@ As a person that receives payments from VA, I want to be able to easily view and
 
   <p></p>
 
-**Objective 1: Improve save success rates by migrating to Lighthouse**.
+**Objective 1: Improves direct deposit for comp & pen success rates by migrating to Lighthouse**.
 
-|KPI|Rate 1 month pre-launch [7/9/2023-8/2/2023]|1 week @10% UAT|3 days @25% UAT |3 days @50% UAT |3 days @75% UAT |1 week @100% | 1month @100% [dates]|2months @100% of users [dates]|
+|KPI|Rate (%) 1 month pre-launch [7/8/2023-8/7/2023]|1 week at 5%| 1 week @10% UAT|1 week @25% UAT |1 week @50% UAT|1 week @100% | 1month @100% [dates] | 2nd month @100% of users [dates]|
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Successful retrievals of direct deposit (C&P) information|236,452||||||||
-|Failed retrievals of direct deposit (C&P) information|22,925||||||||
-|Form Submits for direct deposit (C&P) information|18,238||||||||
-|Failures in saving direct deposit (C&P) information|3,023||||||||
+|% of successful retrievals|||||||||
+|% of failed retrievals|||||||||
+|% of successful saves|||||||||
+|% of save failures|||||||||
 
 
 ## Key deliverables
@@ -106,10 +106,11 @@ As a person that receives payments from VA, I want to be able to easily view and
 - January 2023: Profile team begins discovery
 - February 2023: Backend migration
 - March 2023: Backend migration continues; FE + BE updates; QA planning
-- April 2023: QA & Pre-launch activities
+- April 2023: ???
 - May 2023: On hold while Samara is on maternity leave
 - June 2023: On hold while Samara is on maternity leave
-- July 2023: Launch
+- July 2023: QA; Pre-launch activities
+- August 8, 2023: Launch to 5% of users
 
 ## Backend
 
