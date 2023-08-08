@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: July 28, 2023 - migrated current and completed projects list from another section of GitHub; linked to README for team member list**
+**Last updated: August 8, 2023 - updated launch status for claims**
 
 ### Communications
 
@@ -132,7 +132,7 @@ _Why would your business want this to exist?_
 
 |Project|Status|
 |----|----|
-|[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#readme)| Pre-launch |
+|[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#readme)| Launched to 10% |
 
 ### Completed projects & enhancements
 
