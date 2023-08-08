@@ -46,28 +46,26 @@ According to analytics, far more people are clicking into the debt section of My
 
 Are we only the team that was responsible for the VANotify integration? Or are we responsible for notification & alert governance and guidance across the logged-in experience?
 
-## What I think our team should do
+**Preliminary next steps**: Samara to talk to OCTO folks about this.
 
-These are some assumptions I have about what work our team should pursue with regards to notifications. To borrow from the idea of [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills), we should be thinking both about the broad the authenticated experience and in-depth about our own product (My VA).
+## Next steps
 
-### Work across the authenticated experience
+### Continue on work that is clearly in our purview
 
-The following would definitely be helpful:
+My VA and the notification component that Angela created are clearly in our team's purview, and we should continue to pursue work that improves My VA and clarifies usage around the notification component. We should do the following:
 
-1. Determine what we should do with the notification component now that we don't have immediate plans to scale it. Options include refining it and improving documentation on when to use it; nixing the component and combining it with the white card; or something else we haven't thought about.
+1. Determine what to do with the Notifications section/`You have a new debt` on My VA.
+2. Determine what to do with the notification component now that we don't have immediate plans to scale it. Options include refining it and improving documentation on when to use it; nixing the component and combining it with the white card; or something else we haven't thought about.
+3. Continue to pursue dot indicator with MHV landing page team.
+4. Pursue white card design on My VA.
+5. Continue to think about how to better elevate personally relevant info on My VA.
 
-I am assuming the following would be helpful:
+### Determine whether we have a broader role in notifications on VA.gov
+
+It is unclear how leadership and other teams view our role in the broader notifications landscape -- and there might be differing opinions on this throughout OCTO. Before we pursue anything outside of My VA, Samara should work with OCTO leadership to determine what role our team should play in notification work across the logged-in experience.
+
+If we determine that the auth experience team should have a broader role in notifications as a whole, the following might be helpful:
 
 1. Providing guidance across teams around how notification states should be used within the logged-in experience. The goal is to make sure notifications and alerts are surfaced in a uniform, consistent way. We would likely need to work with the design system team on this.
 2. Filling in any gaps in the design system for notification/alerts states that aren't accounted for.
 3. Figuring out when -- or if -- VANotify should be sending notification information to VA.gov.
-
-**How do we validate whether this is what we should be doing? And if so, how do we get people on board with us being in a leadership role?**
-
-### Work on My VA
-
-While we are working on the big picture, we should also continue to improve how we surface action items and important updates on the My VA dashboard. This might be a space where we can iterate and try things to see if they can or should be applied to the broader authenticated experience.
-
-1. Make a determination on what to do with the "Notifications" section and the debt notification.
-2. Continue to pursue dot indicator with MHV landing page team.
-3. Pursue white card design on My VA.
