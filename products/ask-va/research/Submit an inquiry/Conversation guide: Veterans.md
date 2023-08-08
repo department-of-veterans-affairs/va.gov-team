@@ -1,16 +1,17 @@
 # Conversation guide for Ask VA: Submit an inquiry - Veterans
 
-Ask VA Integration Team, July 2023
+Ask VA Integration Team, August 2023
 
-Last updated by @tygindraux: July 25, 2023
+Last updated by @tygindraux: August 8, 2023
 
 ## Moderator logistics
 
 ### 2-3 days before the session
 
-- [ ] Review VA Platform's Research Checklist
-- [ ] Review guidelines for moderating
-- [ ] Review research plan, conversation guide and prototype
+- [ ] Review [VA Platform's Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist)
+- [ ] Review [guidelines for moderating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Guidelines/Guide%20to%20moderating.md)
+- [ ] Review [research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md)
+- [ ] Review prototype
 
 ### Day of the session
 
@@ -31,7 +32,7 @@ Last updated by @tygindraux: July 25, 2023
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is `TYLER OR BECKY`, I’m a researcher from the VA.
+Thanks for joining us today! My name is `TYLER or BECKY`, I’m a researcher from the VA.
 
 I work on improving VA.gov so it's easier for Veterans to contact the VA online if they have a question.
 
@@ -64,8 +65,8 @@ Now before we get started, there are a few other things I want to mention:
 ## Agenda - 60 minutes
 
 * Warm up - 5 minutes
-* Submit an inquiry - 35 minutes
-* Ongoing or past inquiry - 15 minutes
+* Submit an inquiry - 40 minutes
+* Review an ongoing/past inquiry - 10 minutes
 * Wrap up - 3 minutes
 * Thank you - 2 minutes
 
@@ -81,22 +82,23 @@ I'd like to start by learning more about your experience with the VA and our onl
         * Do you usually contact the VA `OVER THE PHONE OR ONLINE`? Why?
         * `IF ONLINE` Did you use your phone, tablet or computer?
         * How did you find the support you received `OVER THE PHONE OR ONLINE`?
-* And can you also confirm whether you’re currently enrolled in VA health care?
 
 #### Things to watch for:
 
 * How do they decide which channel to use when they contact the VA?
 * Do they specify the device they use (tablet, mobile, desktop)?
 
-## Submit an inquiry - 35 minutes
+## Submit an inquiry - 40 minutes
 
-Thanks, it’s helpful to learn about some of your experience with the VA.
+Thanks, it’s helpful to learn about your experience with the VA.
 
-Next, I’d like to share some ideas with you so we can get your feedback. In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a pretend version of a website.
+Next, I’d like to share some ideas with you so we can get your feedback.
+
+In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a pretend version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with all Veterans.
 
 > Send Sketch link in Zoom chat.
 
-* Can you open this link?
+* Can you open this link on your phone?
 * Have you shared your screen on Zoom before?
     * `IF YES` Great. Can you please share your screen?
     * `IF NO` I’ll walk you through how to do that...
@@ -107,13 +109,11 @@ Thanks! Now I’m able to see the prototype too.
 
 > Screen: Start page
 
-Now that we have this open, I'd like us to start by imagining that you need to ask the VA a question about your health care.
+Now that we have this open, I'd like us to start by imagining that you need to ask the VA a question. Let's say it's a question about your health care.
 
-* First off, can you tell me what this page is about?
+We're not going to click on anything yet, but I'm going to give you a second to read this page more closely now.
 
-I’ll give you a second to read this page more closely now.
-
-* Before we click anything, what would you do first if you wanted to `ASK A QUESTION`?
+* Can you tell me what you would do first if you wanted to `ASK A QUESTION` about your health care?
     * How long would you expect it to take to `ASK A QUESTION`?
 
 `A: SIGN IN/CREATE AN ACCOUNT`
@@ -126,101 +126,80 @@ I’ll give you a second to read this page more closely now.
 
 `B: CONTINUE WITHOUT SIGNING IN`
 
-* What do you expect to happen after you click continue?
+* What do you expect to happen after you click `OPTION THEY CHOOSE`?
 
 Okay, let’s go ahead and click `OPTION THEY CHOOSE` now.
 
 #### Things to watch for:
-
-* Where would they (likely) click first?
-* Do they notice that they need to sign in order to ask a question about this topic?
+* Where are they most likely to click first?
+* Do they notice that they need to sign in order to ask a question about health care?
 * Is it clear when they need to sign in or when it is optional?
 * Which authentication link do they click?
 
-### 2a: Sign in
+### (2): Sign in
+
+`IF THEY CONTINUE WITHOUT SIGNING IN: SKIP TO 4`
 
 > Screen: Sign in
 
-So, for today, we’ll just pretend that we’re signing in.
+So, for today, we’re just going to pretend that we’re signing in.
 
 * Which option do you usually choose to sign in?
 
-Let’s click `OPTION THEY CHOOSE` and we’ll continue.
+Great, thanks. Let’s click `Login.gov`.
+
+> Screen: Login.gov
+
+Okay, and we'll just click `Sign in` now.
 
 #### Things to watch for:
-
-* Are they familiar with the sign in screen?
+* Are they familiar with the VA sign in screen?
 * Do they remember which sign in credential they use?
 
-### 2b, 3a: About you
-
-> Screen: About you
+### 3: Create new question
 
 Okay, now we’re on this page.
 
-* First, can you tell me what we’re looking at here?
-* If you had to guess, how long do you think this process is going to take?
+* Before we click anything, can you tell me what you would do first on this page?
 
-> Field: Who are you asking a question for?
+Okay, let's go ahead and click `Create new question`.
 
-* How would you answer this question?
-   * Would you have trouble answering this question?
-   * Why do you think the VA is asking this?
+#### Things to watch for:
+* Are they quick to choose `create new question`?
+
+### 4: Category
+
+> Screen: Which category best describes your question?
+
+So, first off...
+
+* Based on what you see here, how long do you think this process is going to take?
+
+And I mentioned earlier that we’re imagining that you want to ask a question about your health care.
+
+* Why do you think the VA is asking you to choose a category?
+* How important do you think it is to answer this question correctly?
+* Can you show me how you would answer this?
 * Before we click continue, what do you expect to see on the next page?
 
-`IF THEY WERE SENT BACK VIA MODAL TO SIGN IN`
+Okay, let's go ahead and click `Continue`.
+
+`IF THEY WERE SENT BACK VIA MODAL TO SIGN IN: ADDITIONAL QUESTIONS`
 
 * Does this page look familiar?
-* Do you notice anything different? `KEEP IN MIND: THEIR INFO HAS BEEN SAVED/PRE-FILLED`.
+   * Why do you think you're back on this page now?
 
 #### Things to watch for:
+* Do they notice the progress bar?
+* Do they think it's important to choose the right topic?
+* Do they recognize why they need to choose a topic?
+* Is it straightforward to find the category?
 
-* Is it straightforward to answer this question?
-
-### 3b, 4a: Category and topic
-
-> Screen: Category and topic
-
-I mentioned earlier that we’re imagining you have a question about health care. Let’s think of a question you might have about your healthcare.
-
-* Does a question come to mind?
-   * `NEED EXAMPLE: ENROLLED IN VA HEALTH CARE` That’s okay. Let’s say you wanted to get a hearing test.
-   * `NEED EXAMPLE: NOT ENROLLED` That’s okay. Let’s say you wanted to know if you are eligible for VA health care.
-
-Great. Now keeping that question in mind…
-
-* Can you show me how you would answer the first two questions on this page? It’s helpful if you tell me outloud why you’re choosing each option.
-
-> Field: Which category best describes your question?
-
-> Field: Which topic best describes your question?
-
-* Did you have any trouble answering these questions?
-* How important do you think it is to answer these questions correctly?
-* What do you think happens based on what you choose here?
-* What if you couldn't find an option that fit your inquiry, what would you do?
-
-Let’s finish answering the questions on this page. Since this is a prototype, it only includes some options. You might not be able to select your state or medical center, so if that’s the case you can just choose any state or medical center from the list.
-
-> Field: State where VA Medical Center is located
-
-> Field: VA Medical Center
-
-* Before we click continue, what do you expect to see on the next page?
-
-#### Things to watch for:
-
-* If they thought of their own question, is it related to health care?
-* Is it straightforward to find a category?
-* Is it straightforward to find a topic?
-* Do they think it's important to choose the right category and topic?
-* Do they recognize that the category and topic they choose will send their inquiry to the right person?
-
-### 4b: Sign in modal
+### 5: Sign in modal
 
 > Screen: Sign in modal
 
-`IF THEY DIDN'T ALREADY AUTHENTICATE: MODAL APPEARS`
+`IF THEY SKIPPED SIGN IN: MODAL APPEARS`
 
 Okay, it looks like something has appeared.
 
@@ -229,109 +208,157 @@ Okay, it looks like something has appeared.
 * How do you feel, reading this?
 * What do you expect to happen next?
 
-`THEY ARE SENT BACK TO SIGN IN`
+Okay, let's go ahead and click `Sign in`.
+
+`SENT BACK TO SIGN IN`
 
 #### Things to watch for:
-
 * Are they confused about why they are being asked to sign in?
 * Do they feel like they're going to have to start over now?
 * Do they show likelihood of giving up at any point?
 
-### 5: Question
+### 6: Topic
 
-> Screen: Your question
+> Screen: Which topic best describes your question?
 
-> Field: What is your question?
+* What is this page asking you?
+* What do you think happens based on what you choose here?
+* How important do you think it is to answer this question correctly?
+* What if you couldn't find an option that fit your needs, what would you do?
 
-* How would you answer this question?
-   * Would you have any trouble with this?
-* Would you upload a document along with your question? Why or why not?
-   * If you did upload a document, what type of document are you allowed to upload?
-* Before we click continue, what do you expect to see on the next page?
+For today, I'm just going to give you a topic. Let's say your question is about `Concerns at a VA medical center`.
+
+* Can you show me how you would answer the question on this page?
+
+Okay, let's go ahead and click `Continue`.
+
+#### Things to watch for:
+* Do they think it's important to choose the right topic?
+* Do they recognize why they need to choose a topic?
+* Is it straightforward to find the topic?
+
+### 7: Search for your VA Medical Center
+
+> Screen: Search for your VA Medical Center
+
+Okay, first off...
+
+* Can you tell me what we're looking at on this page?
+* What does it mean `search by name`?
+* Would you be more likely to `search by name` or `search by location`? Why?
+* After you typed in your `name or location`, what would you expect to see on the next page?
+
+We'll pretend like we type in your `name or location.` You can click `search` now.
+
+> Screen: List of VA Medical Centers
+
+* What are we seeing now?
+* If this was a list of VA Medical Centers in your area, would you have any issues finding the right one?
+
+Okay, let's go ahead and click `Continue`.
+
+#### Things to watch for:
+* Are they more likely to search for a medical center by name or location?
+* Do they predict any issues with finding their medical center in a list?
+
+### 8: Question
+
+> Screen: Tell us your question
+
+* Okay, what is this asking you to type in?
+  * Do you have any hesitations about freely typing in a question here? 
+* If you needed to upload a document with your question, can you tell me what you would do first?
+   * Are you familiar with uploading a document online?
+
+Okay, let's go ahead and click `Continue`.
 
 #### Things to watch for:
 * Are they hesitant about writing their question free-text?
-* Do they seem surprised or frustrated that it’s taken until Step 3 to input their question?
+* Do they seem surprised or frustrated that it's taken a few steps before they type their question?
 * Does uploading a document seem familiar?
 
-### 6: Veteran’s information
+### 9: Tell us who has a question
 
-> Screen: Veteran’s information
+> Screen: Tell us who has a question
 
-Before we look closely at this page, how much longer do you think you have left, to finish submitting your question?
+Before we look closely at this page...
 
-Okay, so we’re going to imagine that this is your information, instead of Hector’s.
+* How much longer do you think you have left, to finish submitting your question?
 
-> Field: Veteran’s first name
+Okay, let's look at this page more closely now.
 
-> Field: Veteran’s middle name
+* Can you tell me what you would choose for these questions?
+* Is anything unclear on this page?
+* Looking at this second question. Can you imagine a scenario where you might choose a different option?
 
-> Field: Veteran’s last name
+Okay, let's go ahead and click `Continue`.
 
-> Field: Veteran’s suffix
+#### Things to watch for:
+* Do they notice the progress bar?
+* Do they show likelihood of giving up at any point?
+* Is it clear how to answer both questions, or when you might choose a different option?
 
-> Field: Veteran’s preferred name
+### 10: Contact information
 
-> Field: Select all of the Veteran’s pronouns
+> Screen: Tell us about the Veteran
 
-> Field: Select Veteran’s gender identity
+Okay, so first off...
 
-> Field: Daytime phone
+* It looks like there is already information about Hector on this page. Where has the information come from? How is it already filled in?
 
-> Field: Email address
+Let's pretend like this is your information, instead of Hector's.
 
-> Field: How should we get in touch?
+* Where has this information come from? How is it already filled in?
+* If you noticed that your preferred name was wrong on this page, how would you update it?
+   * If you updated your preferred name on this page, would that affect or change anything else?
 
-> Field: Veteran’s Address
+Okay, let's go ahead and click `Continue`.
 
-> Field: Veteran’s Branch of Service
+> Screen: Veteran's contact information
 
-> Field: Veteran’s Service Number
+* On this page, why do you think the VA is asking for this information?
+* If you needed to update your address on this page, how would you update it?
 
-> Field: Veteran’s SSN
-
-> Field: Veteran’s DoD/EDIPI
-
-> Field: Veteran’s Service Start Date
-
-> Field: Veteran’s Service End Date
-
-> Field: Veteran’s DoB
-
-> Field: Veteran’s Claim Number
-
-* It looks like information has been pre-filled. Where has the information come from?
-* If you noticed that your phone number was wrong, how would you update it on this page?
-* How do you feel about the number of questions you’ve had to answer at this point?
-   * What information do you think the VA needs in order to help you?
-* Before we click continue, what do you expect to see on the next page?
+Okay, let's go ahead and click `Continue`.
 
 #### Things to watch for:
 
 * Do they seem confused that it says “Veteran’s first name” instead of “Your first name” or “first name”?
+* Do they understand how the information has been pre-filled?
 * Would they choose to answer questions that are not required?
-* Does the number of questions on this page seem overwhelming?
-* Do they show likelihood of giving up at any point?
 
-### 7: Summary
+### 7: Review and submit
 
-> Screen: Review and send
+> Screen: Review and submit
 
-* Can you tell me what we’re looking at?
-   * Why do you think the VA is showing you a `SUMMARY`?
-* If you read this summary, and noticed that you had a typo in your question, what would you do?
-* What if you noticed that you chose the wrong topic and you wanted to change it to a different topic. What would you do?
-* What do you expect to happen after you send your question?
+* Can you tell me what we’re looking at here?
+* How much longer do you think there is until you're finished with this form?
+
+Let's imagine that you're reading this summary and notice a typo.
+
+* If you noticed you chose the wrong topic, and wanted to change it to a different topic. What would you do?
+* What about if you noticed a typo in your question, what would you do?
+
+Okay, let's click `Edit` and see what happens.
+
+* How would you edit your question?
+* When you finished editing, what would you click?
+
+Let's go ahead and click `Update content`.
+
+* Before we move on, what do you expect to happen after you click `Continue`?
+
+Let's go ahead and click `Continue`.
 
 #### Things to watch for:
 
-* Do people understand how to edit their answers on the review page?
 * Is it clear which fields are editable from the review page, and which are not?
-* What do people expect to happen right after they submit?
+* Is it clear how to edit a field (one that is editable)?
+* What do people expect to happen right after they submit their question?
 
 ### 8: Submitted
 
-> Screen: Your inquiry has been submitted
+> Screen: Your question was submitted
 
 * What is this page telling you?
 * Is there anything else that you’d like to know after you submit an inquiry?
@@ -347,13 +374,13 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
 * Do they mention saving their reference number?
 * Do they mention preferring text notifications over email?
 
-## Ongoing or past inquiry - 15 minutes
+## Ongoing or past inquiry - 10 minutes
 
-* Thinking back on the process of submitting a question, was it shorter or longer than you would have expected?
+* Thinking about the process of asking a question, was it shorter or longer than you would have expected?
    * Is there anything that could have made it easier?
 * And after you submit an inquiry, what do you expect to happen?
-   * Would you like to receive an email or text message in this [scenario]?
-   * When would you expect to receive this `EMAIL OR TEXT MESSAGE`?
+   * Would you like to receive an email or text message?
+   * When would you expect to receive an `EMAIL or TEXT`?
    * What information is important to you?
    * How often would you expect to get an update?
 * When you get a response to your inquiry, would you expect it to come from?
