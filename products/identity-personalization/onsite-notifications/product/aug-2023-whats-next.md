@@ -4,11 +4,13 @@ Below are the current main problems we are facing given the pause on VANotify an
 
 ## Problems
 
+### Everyone has a different definition of what "notifications" means
+
+A challenge to acknowledge is that it seems like everyone has a different definition of "notifications" -- there are badges, dots, tags, "identifiers", warnings, alerts and of course notifications - lots of different terminology used to refer to the same essential thing, i.e. something used to catch or draw the user's attention to new (and potentially) actionable information.
+
 ### There are already alert states, tags, and our new notification state in the design system. 
 
-_AJ Note: A challenge to acknowledge is that it seems like everyone has a different definition of "notifications" - as we saw with MHV's thinking of a notification and as we're seeing with Angela's findings reviewed this morning - there's badges, dots, tags, "identifiers", warnings, alerts and of course notifications - lots of different terminology used to refer to the same essential thing, i.e. something used to catch or draw the user's attention to new (and potentially) actionable information._ 
-
-As a result, we keep coming across teams that are rightly applying the design system to implement a notification/alert.
+As a result, we keep coming across teams that are applying the design system to implement a notification/alert, but we don't know anything about how consistently these are being applied.
 
 1.	What kind of uniformity/guidance, if any, is needed or would be helpful from our team?
 2.	Do teams actually need to work with us? What kind of cross-team collaboration makes sense?
@@ -39,6 +41,10 @@ According to analytics, far more people are clicking into the debt section of My
 3.	Is this component confusing? Maybe the icons aren’t necessary…
 
 **Preliminary next steps**: Talk to the team about this.
+
+### Generally speaking, it is unclear what is actually in our team's purview
+
+Are we only the team that was responsible for the VANotify integration? Or are we responsible for notification & alert governance and guidance across the logged-in experience?
 
 ## What I think our team should do
 
