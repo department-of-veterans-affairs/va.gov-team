@@ -70,6 +70,7 @@ As a person that receives payments from VA, I want to be able to easily view and
 ## Measuring success
 
 ### Metrics
+- [Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 - [GA Dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
 - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?display=daily&environment=production&field=url&field=error.value&field=timestamp&name=Errors+by+URL&query=event.type%3Aerror+url%3Ahttps%3A%2F%2Fapi.va.gov%2Fv0%2Fprofile%2Fdirect_deposits%2Fdisability_compensations&sort=-url&statsPeriod=14d&widths=-1&widths=-1&widths=-1)
 - Data Dog
