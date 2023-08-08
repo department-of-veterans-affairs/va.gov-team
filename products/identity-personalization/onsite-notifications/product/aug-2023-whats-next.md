@@ -12,11 +12,7 @@ Everyone has different definitions of "notifications" -- there are badges, dots,
 
 ### There are already alert states, tags, and our new notification state in the design system. 
 
-As a result, we keep coming across teams that are applying the design system to implement a notification/alert, but we don't know anything about how consistently these are being applied.
-
-1.	What kind of uniformity/guidance, if any, is needed or would be helpful from our team?
-2.	Do teams actually need to work with us? What kind of cross-team collaboration makes sense?
-3.	How can we differentiate between system alerts vs. personally-relevant alerts? Does this actually matter to users?
+As a result, we keep coming across teams that are applying the design system to implement a notifications/alerts who haven't consulted with us -- and maybe they don't need to. This begs the question -- What kind of uniformity/guidance around notifications is needed or would be helpful from our team, if any? 
 
 **Preliminary next steps**: If it's determined by OCTO that our team should be more broadly involved in notification strategy as a whole, then we should create a plan after Angela's audit.
 
