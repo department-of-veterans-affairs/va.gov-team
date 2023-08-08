@@ -68,10 +68,8 @@ We will use the findings to:
 - To validate the print button design or make iterations based on feedback.
 - To understand and validate assumptions around the current facility/clinic selection process for direct scheduling.
 - To understand and validate assumptions around the current provider selection for Community Care appointments. 
- 
-
 - Validate the After-visit summary is populating with user data as expected. 
-- Using a prototype A/B test of the "join appointment" button placement and the "print" button placement. 
+
 ### Hypotheses
 
 When logged in Veterans are in the appointments feature on VA.gov:
@@ -100,13 +98,6 @@ Remote, over Zoom.
 For moderated *desktop* usability test 
 - Conversation guide
 
-- Desktop Prototype
-
-For moderated *tablet* usability test 
-- [Conversation guide](conversation-guide.md)
-
-- [Mobile Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
-
 Recruitment
 -----------
 
@@ -122,29 +113,22 @@ Desktop users:
 -  8 participants who primarily use a desktop/laptop computer.
 -  All participants must be able to attend sessions on their desktop/laptop computer.
 -  All participants must use va.gov for appointments and have upcoming appointments.
--  At least 2 participants should have upcoming video appointment(s)
 
 Mobile users:
 -  8 participants who primarily use a tablet or other mobile device.
 -  All participants must be able to attend sessions on a mobile device.
 -  All participants must use va.gov for appointments and have upcoming appointments.
--  At least 2 participants should have upcoming video appointment(s)
 
 
 **Secondary criteria:**
 
-Desktop users:
-- At least 1 veteran with a cognitive disabilty
+- At least 4 veterans with a cognitive disabilty
+- At least 2 Screenreader users
+- At least 2 screen magnification users
 - At least 1 LGBTQ+ Veteran
 - At least 1 Native Veteran
 - At least 1 who lives in a rural area
 
-Mobile users:
-- At least 1 veteran with a cognitive disabilty
-- At least 1 LGBTQ+ Veteran
-- At least 1 Native Veteran
-- At least 1 who lives in a rural area
-  
 
 Timeline
 --------
