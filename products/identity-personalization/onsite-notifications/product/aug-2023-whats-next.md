@@ -6,7 +6,7 @@ As we pause the VANotify integration, below are the main problems we are current
 
 ### Generally speaking, it is unclear what is actually in our team's purview
 
-Everyone has a different definition of "notifications" -- there are badges, dots, tags, "identifiers", warnings, alerts, etc - lots of different terminology used to refer to something used to catch or draw the user's attention to new (and potentially) actionable information. As a result, it isn't clear what our team is actually responsible for. Are we only responsible for the VANotify integration? Or are we responsible for notification & alert governance and guidance across the logged-in experience?
+Everyone has different definitions of "notifications" -- there are badges, dots, tags, "identifiers", warnings, alerts, etc - lots of different terminology used to refer to something used to catch or draw the user's attention to new (and potentially) actionable information. As a result, it isn't clear what our team is actually responsible for. Are we only responsible for the VANotify integration? Or are we responsible for notification & alert governance and guidance across the logged-in experience?
 
 **Preliminary next steps**: Samara to talk to OCTO folks about this.
 
