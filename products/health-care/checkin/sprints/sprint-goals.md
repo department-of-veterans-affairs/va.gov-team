@@ -32,6 +32,7 @@ ________________________________________________________________________________
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Update CHIP to also store the cell phone in LoROTA (field TBD)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62437)
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update Vets-API to use the newly stored cell phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)
    - **EPIC: [Allow Submission of Travel Claim for 1 Facility Per Day](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)**
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Create Feature Flag '<check-in-experience-travel-logic>'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63339)
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Remove Logic to Prevent User from Seeing Travel Questions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63315)
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Send Appointment Time to BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63318)
    - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
@@ -44,7 +45,8 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60740)
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Log additional context to Sentry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63171)
+            - [[BE] Add method to get demographic-confirmations to the Service class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61122)
+               - In PR
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Create a test harness](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61441)     
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**           
