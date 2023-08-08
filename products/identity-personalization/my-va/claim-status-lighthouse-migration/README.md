@@ -1,6 +1,6 @@
 # Project outline: My VA Claim status EVSS > Lighthouse migration
 
-**Last updated August 8, 2023 - updated key dates**
+**Last updated: August 8, 2023 - updated key dates; added OKR and KPI info**
 
 ### Communications
 
@@ -74,6 +74,18 @@ In order to continue providing claims and appeals details on My VA we need to up
 - [Authenticated Experience API monitoring (Staging GA)](https://analytics.google.com/analytics/web/authuser=3#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w178298118p176884211/_u.date00=20230601&_u.date01=20230802/)
 - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?display=daily&environment=staging&field=url&field=error.value&field=timestamp&field=browser.name&name=Errors+by+URL&query=event.type%3Aerror+url%3Ahttps%3A%2F%2Fstaging-api.va.gov%2Fv0%2Fbenefits_claims&sort=-timestamp&statsPeriod=14d&widths=-1&widths=-1&widths=-1&widths=-1)
 - [Datadog](https://vagov.ddog-gov.com/logs?query=env%3Aeks-prod%20%40http.url_details.path%3A%2Fv0%2Fbenefits_claims%2A%20%40http.status_code%3A403%20&cols=host%2Cservice%2C%40http.status_code%2C%40payload.user_uuid&index=%2A&messageDisplay=inline&sort=time&stream_sort=%40payload.user_uuid%2Cdesc&viz=stream&from_ts=1690751268671&to_ts=1690837668671&live=true)
+
+### Objective 1: Improve claim status retrieval rates rates by migrating to Lighthouse.
+
+**KPI: Get claim status retrievals to a 95% success rate.**
+
+Stats based on the [Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986).
+
+|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week at 5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)|1 week @25% (8/22/23 - 8/28/23) |1 week @50% (8/29 -9/4/23)|1 week @100% (9/5/23 - 9/11/23)| 1 month @100% (9/12/23 - 10/11/23) | 2nd month @100% of users (10/12/23 - 11/11/23)|
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|% of successful retrievals|91%||||||||
+|% of failed retrievals|9%||||||||
+
 
 ## Key deliverables
 
