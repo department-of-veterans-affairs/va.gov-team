@@ -85,7 +85,7 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 Stats based on the [Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986).
 
-|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week at 5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)|1 week @25% (8/22/23 - 8/28/23) |1 week @50% (8/29 -9/4/23)|1 week @100% (9/5/23 - 9/11/23)| 1 month @100% (9/12/23 - 10/11/23) | 2nd month @100% of users (10/12/23 - 11/11/23)|
+|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)|1 week @25% (8/22/23 - 8/28/23) |1 week @50% (8/29/23 -9/4/23)|1 week @100% (9/5/23 - 9/11/23)| 1 month @100% (9/12/23 - 10/11/23) | 2nd month @100% of users (10/12/23 - 11/11/23)|
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |% of successful retrievals|94%||||||||
 |% of failed retrievals|6%||||||||
