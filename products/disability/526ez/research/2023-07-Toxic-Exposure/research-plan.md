@@ -1,7 +1,7 @@
-# Research Plan for Toxic Exposure Addition 
+# Research Plan for Toxic Exposure New Question 
 
 
-## Background
+## Background on the product
 
 The 21-526EZ form is one of the most used VA forms and one of the largest. It is also often the first VA "service" that veterans will come into contact with, setting a precedent for their other experiecnes on VA.gov. However, it's confusing and stressful for veterans to apply for disability compensation as the process is rather opaque to the veteran. The form UX often leaves them feeling anxious and forgotten. The lack of clarity can also lead to mis-ratings, or misunderstanding of ratings, and a snowball of Appeals. 
 
