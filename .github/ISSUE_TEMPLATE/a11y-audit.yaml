@@ -1,7 +1,7 @@
 name: "Accessibility Audit Epic"
 description: "Create an epic for an a11y audit outside of the collaboration cycle"
 title: "[A11y Audit]: "
-labels: ["a11y-testing, sitewide CAIA, sitewide accessibility, epic, accessibility"]
+labels: ["accessibility, a11y-testing, sitewide CAIA, sitewide accessibility, epic"]
 assignees: []
 body:
 - type: markdown
