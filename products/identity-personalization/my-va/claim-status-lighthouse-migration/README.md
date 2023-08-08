@@ -43,7 +43,6 @@ The Claims and Appeals section of My VA is powered by an integration with EVSS. 
 
 In order to continue providing claims and appeals details on My VA we need to update our current EVSS integration to Lighthouse.
 
-
 ## User Outcomes
 
 ### Desired User Outcomes
@@ -71,6 +70,7 @@ In order to continue providing claims and appeals details on My VA we need to up
 ## Measuring Success
 
 - [My VA Domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837)
+- [EVSS > Lighthouse migration dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)
 - [Authenticated Experience API monitoring (Product GA)](https://analytics.google.com/analytics/web/?authuser=3#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/) - _see "Benefits" widget_
 - [Authenticated Experience API monitoring (Staging GA)](https://analytics.google.com/analytics/web/authuser=3#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w178298118p176884211/_u.date00=20230601&_u.date01=20230802/)
 - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?display=daily&environment=staging&field=url&field=error.value&field=timestamp&field=browser.name&name=Errors+by+URL&query=event.type%3Aerror+url%3Ahttps%3A%2F%2Fstaging-api.va.gov%2Fv0%2Fbenefits_claims&sort=-timestamp&statsPeriod=14d&widths=-1&widths=-1&widths=-1&widths=-1)
@@ -80,7 +80,7 @@ In order to continue providing claims and appeals details on My VA we need to up
 
 **KPI: Get claim status retrievals to a 95% success rate.**
 
-Stats based on the [My VA Domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837).
+Stats based on the [My VA Domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837) and the [EVSS > Lighthouse migration dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/).
 
 |KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @10% (8/8/23 - 8/14/23)| 1 week @25% (8/15/23 - 8/21/23)|1 week @50% (8/22/23 - 8/28/23) |1 week @100% (8/29/23 -9/4/23)|1 month @100% (9/5/23 - 10/4/23)| 2nd month @100% (10/5/23 - 11/4/23) | 
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
