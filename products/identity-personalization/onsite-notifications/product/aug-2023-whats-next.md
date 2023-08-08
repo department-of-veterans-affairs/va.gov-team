@@ -32,7 +32,7 @@ According to analytics, far more people are clicking into the debt section of My
    
 **Preliminary next steps**: Explore implementing the white card design on My VA. Discuss whether or not we think there should be some sort of unification of the white card and the notification style.
 
-### The [notification component](https://design.va.gov/components/notification) was designed with the VANotify notification center in mind, so it is unclear to me how anyone else should use this.
+### The [notification component](https://design.va.gov/components/notification) was designed with the VANotify integration in mind, so it is unclear how anyone should use this if the notification center isn't happening.
 
 1.	If the notification center is not happening any time soon, what do we do with the notification style?
 2.	Should we be advising people to use this notification state? If so, for what? How do people know whether to use this or the existing alert states?
