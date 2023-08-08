@@ -53,7 +53,6 @@
 |Planned | Finding Medications Research & Analysis | Meko | Sprint 76 - 77 Aug'23| 
 |Planned |RX List and Details Update | Meko | Sprint 80 - 81 Oct '23|
 |Planned | Claims Reimagined Step 1 | Stacy | Sprint 79 Sept '23| 
-|Planned | User Endpoint Update | Stacy | Not Started | Sprint 78 - 81 Oct '23| 
 |Planned | Remote Disaster | Stacy |Not Started  | Sprint 79 - 81 ; carrying over into Q4 |
 |Planned | Travel Reimbursement Step 1 -2 | Adam | Not Started | Sprint 78 -79 Sept '23 |
 |Planned | Terms of Use Sprint 0 |  |Not Started | Sprint 81 Oct '23 |
