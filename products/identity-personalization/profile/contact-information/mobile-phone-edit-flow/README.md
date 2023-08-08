@@ -64,10 +64,15 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+
 https://analytics.google.com/analytics/web/#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/
 
-GA of how often someone enters into the new workflow 
+|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|-------------|---------------|-------------------|
+|Percentage of users updating using the new feature|0%|||
+|Percentage of users missing phone number||||
+|Percentage of users missing email||||
+|Percentage of users missing both phone and email||||
 
 ---
 
