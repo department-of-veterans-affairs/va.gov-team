@@ -5,5 +5,5 @@
 
 | CONTENT | NOTES |
 | ----------------------------------| ------------------------------------------------------------|
-
+| Change "verify" to "confirm" | See [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62840) |
 
