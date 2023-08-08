@@ -23,9 +23,7 @@ ________________________________________________________________________________
 - **GOAL: Comply with ATO**
     - **Sub Goal: Perform Audit & Remove Unused User Accounts**
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[Perform a System Audit and Remove Unused User Accounts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62836)
-- **GOAL: Make submission of a travel reimbursement claim easier**
-   - **EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**     
-       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change "Verify" to "Confirm"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62840)
+- **GOAL: Make submission of a travel reimbursement claim easier**       
    - **EPIC: [Add Cell Phone to LoROTA Entry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)**
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Update CHIP to also store the cell phone in LoROTA (field TBD)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62437)
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update Vets-API to use the newly stored cell phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)
@@ -83,6 +81,8 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**     
+       - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change "Verify" to "Confirm"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62840)
+           - Added at the end of the spring
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Monitor Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43631)
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61691)
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) Pilot ends on July 31; need decision from Mark about national release
