@@ -50,7 +50,6 @@
  
 | Priority |Project | PM | Status | Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| 
-|Planned | Finding Medications Research & Analysis | Meko | Sprint 76 - 77 Aug'23| 
 |Planned |RX List and Details Update | Meko | Sprint 80 - 81 Oct '23|
 |Planned | Claims Reimagined Step 1 | Stacy | Sprint 79 Sept '23| 
 |Planned | Remote Disaster | Stacy |Not Started  | Sprint 79 - 81 ; carrying over into Q4 |
