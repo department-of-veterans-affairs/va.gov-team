@@ -28,6 +28,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42937)
            - Just involves product guides, wireframe merging, & release notes
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create a sitewide intake ticket (resource page update) for adding travel pay information on the resource page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60079)
+       - [[Research][Content] Adjust Content for Travel Claim Submission Text Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63300)
    - **EPIC: [Add Cell Phone to LoROTA Entry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)**
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Update CHIP to also store the cell phone in LoROTA (field TBD)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62437)
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update Vets-API to use the newly stored cell phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)
@@ -47,6 +48,8 @@ ________________________________________________________________________________
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Pull out Wireframes for Releases 3-6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62963)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Pull out Wireframes for Releases 7-9](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62964)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Add annotations for when to announce alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59118)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Update Final Wireframes for Confirmation & Demographic Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63301)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Investigate the "Feedback" Button to Determine if we want to Include it](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63308)
             - One of these tickets but not both
                 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Revisit adding travel confirmation into h1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59165)
                 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] [UX] Update the travel pay confirmation page to avoid using 2 sentences](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59121)
