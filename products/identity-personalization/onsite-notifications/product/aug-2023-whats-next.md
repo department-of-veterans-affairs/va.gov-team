@@ -58,6 +58,6 @@ It is unclear how leadership and other teams view our role in the broader notifi
 
 If we determine that the auth experience team should have a broader role in notifications as a whole, the following might be helpful:
 
-1. Providing guidance across teams around how notification states should be used within the logged-in experience. The goal is to make sure notifications and alerts are surfaced in a uniform, consistent way. We would likely need to work with the design system team on this.
+1. Providing guidance across teams around how notification states should be used within the logged-in experience. 
 2. Filling in any gaps in the design system for notification/alerts states that aren't accounted for.
 3. Figuring out when -- or if -- VANotify should be sending notification information to VA.gov.
