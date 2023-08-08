@@ -104,53 +104,64 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 #### Results
 
-- **Number of unique users:** [FILL_IN]
-- **Metrics at this stage (per your "success criteria"):** <br> [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)
-- **Was any downstream service affected by the change?:** [PICK_ONE]: yes | no |  N/A
-- **Types of errors logged:** [FILL_IN]
-- **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** [FILL_IN]
+|Question|Response|
+|---|---|
+|Number of unique users:| [FILL_IN]
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
+|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
+|Types of errors logged:| [FILL_IN]|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [Reviewing 502 Gateway Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63323) |
 
 ---
 ### Stage B: 10% of users
 
 #### Results
 
-- **Number of unique users:** [FILL_IN]
-- **Metrics at this stage (per your "success criteria"):** <br> [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)
+|Question|Response|
+|---|---|
+|Number of unique users:| [FILL_IN]
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
+|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
+|Types of errors logged:| [FILL_IN]|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
 
-- **Was any downstream service affected by the change?:** [PICK_ONE]: yes | no |  N/A
-- **Types of errors logged:** [FILL_IN]
-- **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** [FILL_IN]
 ---
 ### Stage C: 25% of users
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+|Question|Response|
+|---|---|
+|Number of unique users:| [FILL_IN]
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
+|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
+|Types of errors logged:| [FILL_IN]|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+
 ---
 ### Stage D: 50% of users
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+|Question|Response|
+|---|---|
+|Number of unique users:| [FILL_IN]
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
+|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
+|Types of errors logged:| [FILL_IN]|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
 
 ### Stage E: 100% of users
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+|Question|Response|
+|---|---|
+|Number of unique users:| [FILL_IN]
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
+|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
+|Types of errors logged:| [FILL_IN]|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
 
 
 ## Post Launch metrics
