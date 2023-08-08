@@ -48,7 +48,7 @@ My VA and the notification component that Angela created are clearly in our team
 
 1. Determine what to do with the Notifications section/`You have a new debt` on My VA.
 2. Determine what to do with the notification component (nix it? combine it with the white card? refine it and improve documentation? something else?).
-3. Continue to pursue dot indicator with MHV landing page team.
+3. Continue to pursue the dot indicator with MHV landing page team.
 4. Pursue white card design on My VA.
 5. Continue to think about how to better elevate personally relevant info on My VA.
 
