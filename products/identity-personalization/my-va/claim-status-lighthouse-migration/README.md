@@ -76,7 +76,7 @@ In order to continue providing claims and appeals details on My VA we need to up
 - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?display=daily&environment=staging&field=url&field=error.value&field=timestamp&field=browser.name&name=Errors+by+URL&query=event.type%3Aerror+url%3Ahttps%3A%2F%2Fstaging-api.va.gov%2Fv0%2Fbenefits_claims&sort=-timestamp&statsPeriod=14d&widths=-1&widths=-1&widths=-1&widths=-1)
 - [Datadog](https://vagov.ddog-gov.com/logs?query=env%3Aeks-prod%20%40http.url_details.path%3A%2Fv0%2Fbenefits_claims%2A%20%40http.status_code%3A403%20&cols=host%2Cservice%2C%40http.status_code%2C%40payload.user_uuid&index=%2A&messageDisplay=inline&sort=time&stream_sort=%40payload.user_uuid%2Cdesc&viz=stream&from_ts=1690751268671&to_ts=1690837668671&live=true)
 
-### Objective 1: Improve claim status retrieval rates rates by migrating to Lighthouse.
+### Objective 1: Improve claim status retrieval rates by migrating to Lighthouse.
 
 **KPI: Get claim status retrievals to a 95% success rate.**
 
