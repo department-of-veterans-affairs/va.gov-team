@@ -50,9 +50,10 @@ Notes: The content team will update this, but wanted to note here that for the M
 
 ## <a name="redirects"></a>Redirects <br>
 
-Current URL | Redirect to | Notes
-Ask.va.gov + all sub-urls | va.gov/contact-us/ask-va | If the sub-urls from the old app were redirecting anyway to ask.va.gov, you don’t need to worry about redirecting each one. Redirecting just ask.va.gov should be sufficient.
- 
+| Current URL               | Redirect to              | Notes                                                                                       |
+|---------------------------|--------------------------|---------------------------------------------------------------------------------------------|
+| Ask.va.gov + all sub-urls | va.gov/contact-us/ask-va | If the sub-urls from the old app were redirecting anyway to ask.va.gov, you don’t need to worry about redirecting each one. Redirecting just ask.va.gov should be sufficient. |
+
 ## <a name="bestbets"></a>Best bets <br>
 Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.
 
