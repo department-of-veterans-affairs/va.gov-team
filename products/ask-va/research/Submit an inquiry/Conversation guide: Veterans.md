@@ -136,7 +136,7 @@ Okay, let’s go ahead and click `OPTION THEY CHOOSE` now.
 * Is it clear when they need to sign in or when it is optional?
 * Which authentication link do they click?
 
-### (2): Sign in
+### _2: Sign in_
 
 `IF THEY CONTINUE WITHOUT SIGNING IN: SKIP TO 4`
 
@@ -195,7 +195,7 @@ Okay, let's go ahead and click `Continue`.
 * Do they recognize why they need to choose a topic?
 * Is it straightforward to find the category?
 
-### 5: Sign in modal
+### _5: Sign in modal_
 
 > Screen: Sign in modal
 
