@@ -18,7 +18,7 @@ As a result, we keep coming across teams that are applying the design system to 
 2.	Do teams actually need to work with us? What kind of cross-team collaboration makes sense?
 3.	How can we differentiate between system alerts vs. personally-relevant alerts? Does this actually matter to users?
 
-**Preliminary next steps**: If its determined by OCTO that our team should more broadly be involved in notification strategy as a whole, then we should create a plan after Angela's audit.
+**Preliminary next steps**: If it's determined by OCTO that our team should be more broadly involved in notification strategy as a whole, then we should create a plan after Angela's audit.
 
 ### The debt notification now feels like it doesn’t make sense if we aren’t scaling the VANotify integration any time soon.
 
