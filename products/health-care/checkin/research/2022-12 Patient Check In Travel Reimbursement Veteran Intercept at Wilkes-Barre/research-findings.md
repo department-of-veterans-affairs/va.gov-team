@@ -31,6 +31,14 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)]<br>
 
 <br>
 
+## Methodology
+
+<br>
+
+## Hypothesis and Conclusions
+
+<br>
+
 ## Key Findings
 
 **Reception of eCheck-in with travel reimbursement**
@@ -206,6 +214,33 @@ Last time I couldn't do this until I got home.”
 
 ## Recommendations
 
+### Recommendations for further improving reception of travel reimbursement within eCheck-in
+1. Prioritize 45-min text for fewer steps and earlier check-in (in early stage discussions)  
+2. Include more information on travel reimbursement screens to encourage Veterans to file who might not know they’re eligible and prevent the perception that an error has occurred because they think they’re not eligible (in early stage discussions) 
+3. Update content on the low authentication (last name, DOB) page to clarify that Veterans are starting the check in process, not completing it (in early stage discussions)
+4. Adjust text message response indicating a successfully submitted travel reimbursement claim to ensure Veterans know they have finished the process and don’t need to fill out the paper form
+5. Add information to demographics pages and confirmation pages to help Veterans understand how to update their information, even if it’s correct at the time of check in
+
+
+### Recommendations for increasing the volume of Veterans who can access travel reimbursement within eCheck-in
+1. Allow travel reimbursement in eCheck-in when a Veteran has multiple appointments on the same day (in early stage discussions)
+2. Discuss the need to educate MSAs on how to update smartphone numbers in VistA (in order to be eligible for eCheck-in) with product owners and IVC
+
+
+### Recommendations for improving staff perceptions of eCheck-in and interactions with Veterans to increase eCheck-in utilization 
+1. Discuss feedback received about the need for additional education around PCI and travel reimbursement for staff and Veterans, and opportunities to encourage utilization, with product owners (and IVC) – as well as how to identify, engage, or not engage Veterans who might not be an ideal candidate for using PCI
+2. Discuss refresh rate of VSE that causes MSAs to think "check in is not working" with PCI staff-facing team and IVC about the concern and how to better communicate with staff about how eCheck-in and VSE works together
+3. Continue to discuss with product owners (and IVC) the potential for including the ability for MSAs to file a travel reimbursement claim on behalf of Veterans (potentially, within VSE), while also sharing feedback received that MSAs wouldn’t want to add to their workload   
+4. Fix issue on the BTSSS API side to ensure the correct payment facility is appearing in claims from eCheck-in
+
+
+### Other recommendations to socialize with other teams or prioritize in our backlog
+1. Confirm and resolve issue with not being able to use a special character in the text input component, which PCI uses for authentication
+2. Discuss with Platform Design and Accessibility the potential of making PCI more accessible by increasing mobile font sizes  
+3. Pass along Veteran feedback to Appointments and VeText teams the issues and suggestions from Veterans and staff surrounding formatting of appointment text reminders, e.g., Y1.  
+4. Pass along feedback to Beneficiary Travel Office team related to challenges with using BTSSS from both Veterans and Travel Office staff  
+5. Build and/or open access to a BTSSS database to check Veterans beneficiary travel eligibility to personalize the PCI experience to the Veteran
+6. Continue discussing the need and value  for a customer satisfaction survey at the end of check in to collect Veteran feedback (since a Veteran did mention it), especially knowing that VA: Health and Benefits app have implemented something similar recently 
 
 
 
