@@ -79,12 +79,12 @@ In order to continue providing claims and appeals details on My VA we need to up
 
 **KPI: Get claim status retrievals to a 95% success rate.**
 
-Stats based on the [Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986).
+Stats based on the [My VA Domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837).
 
-|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week at 5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)|1 week @25% (8/22/23 - 8/28/23) |1 week @50% (8/29 -9/4/23)|1 week @100% (9/5/23 - 9/11/23)| 1 month @100% (9/12/23 - 10/11/23) | 2nd month @100% of users (10/12/23 - 11/11/23)|
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|% of successful retrievals|91%||||||||
-|% of failed retrievals|9%||||||||
+|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @10% (8/8/23 - 8/14/23)| 1 week @25% (8/15/23 - 8/21/23)|1 week @50% (8/22/23 - 8/28/23) |1 week @100% (8/29/23 -9/4/23)|1 month @100% (9/5/23 - 10/4/23)| 2nd month @100% (10/5/23 - 11/4/23) | 
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|% of successful retrievals|91%|||||||
+|% of failed retrievals|9%|||||||
 
 
 ## Key deliverables
