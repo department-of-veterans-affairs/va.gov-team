@@ -1,6 +1,6 @@
 # Where do we go with personalization and notifications?
 
-Below are the current main problems we are facing given the pause on VANotify and notification center work, especially given that it is unclear if we will definitely pick it up again.
+As we pause the VANotify integration, below are the main problems we are currently facing around notification work.
 
 ## Problems
 
