@@ -42,15 +42,18 @@ Blue Button (this term) was only brought up once (_1 out of 17_), so it's not re
 - _"I would go to BB and look at health records”_ when asked to review the next steps in care from the previous visit.
 
 ### - Do participants open details and think the details are AVS or scroll down to the treatment plan?
-All the participants clicked into the details of AVS. 13 out of 17 scrolled on the details page and clicked to expand the treatment plan tab. Out of the 13 participants who read the treatment plan, 3 participants are still confused after reading it and were not sure if they were looking at the doctor's notes. 
+All the participants clicked into the details of AVS. 13 out of 17 scrolled on the details page and clicked to expand the treatment plan tab. Out of the 13 participants who read the treatment plan, 3 participants are either confused or wanted to see more information after reading it. So, the majority know to look for the next steps in their care from the visit in the details link once they get to Care summaries and notes. It takes them a while to read and scroll up and down to find the next steps from the visit, which does not only apply to mobile users. 
 
-The majority know to look for the next steps in their care from the visit in the details link once they get to Care summaries and notes, but it takes them a while to read and scroll up and down to find the next steps from the visit. 3 participants are even confused after reading it. It is challenging for participants to filter out the information they want even if they are on the correct page. 
+**Quotes for 3 participants who are confused and want to see more:**
+- "I like it because it's thorough, but it's confusing because the headers are not the same. In my mind, I'm very organized, so everything I need should be an individual header...like if I need imaging done, it should be a header. I need lab and tests--header. A to-do list and future actions I need to take. I want a summary of why I need to do all of that."
+- "This is not notes, just basic order information."
+- "I think the information is 50% there. I was expecting to see what the doctor recommended to me, like why it's leading to the diagnosis."
 
 **Quote:**
 
 - _"The next steps in my care should be my treatment plan."_
 - _“I would take a look at the treatment plan and find out what they’re gonna be doing."_
-- _"Now I feel stuck. I don't see doctor's notes."_ (while on the AVS details page)
+- _"Now I feel stuck. I don't see doctor's notes."_ (while on the AVS details page and looking for the term "notes")
 
 ### - How do people navigate in/out of the Appointments section (back button, breadcrumbs, secondary nav, etc.)?
 _Note: For this task, we have 3 failed data. Two participants got stuck and didn't know how to get into Appointments, and one participant had to stop the interview._
