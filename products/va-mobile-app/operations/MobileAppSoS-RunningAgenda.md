@@ -88,6 +88,9 @@
   * Any new work we should be on the lookout for?
   * Any priority shifts?
 * Sprint 77 Planning (Adam)
+  * SoS (Sprint Tab)[https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3]
+     * Projects starting: Travel Reimbursement Step 1 , Check-In Unhappy Path Copy, 
+     * Projects expected to fall off - VHIC Step 1, Veteran Status (implementation TBD), Medication Readout, Mobile App Retention Analysis
 
 <details>
 <Summary>Historical Agendas and Meeting Notes </Summary>
