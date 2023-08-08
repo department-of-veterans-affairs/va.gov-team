@@ -42,7 +42,7 @@ According to analytics, far more people are clicking into the debt section of My
 
 ## Next steps
 
-### Continue on work that is clearly in our purview
+### Continue work that is clearly in our purview
 
 My VA and the notification component that Angela created are clearly in our team's purview, and we should continue to pursue work that improves My VA and clarifies usage around the notification component. We should do the following:
 
