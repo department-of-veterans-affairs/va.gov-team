@@ -79,7 +79,7 @@ As a person that receives payments from VA, I want to be able to easily view and
 
   <p></p>
 
-### Objective 1: Improves direct deposit for comp & pen success rates by migrating to Lighthouse.
+### Objective 1: Improve direct deposit for comp & pen success rates by migrating to Lighthouse.
 
 **KPI: Get direct deposit retrievals and saves to a 95% success rate.**
 
