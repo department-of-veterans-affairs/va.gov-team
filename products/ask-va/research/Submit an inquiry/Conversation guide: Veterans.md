@@ -158,6 +158,8 @@ Okay, and we'll just click `Sign in` now.
 
 ### 3: Create new question
 
+> Screen: Create new question
+
 Okay, now we’re on this page.
 
 * Before we click anything, can you tell me what you would do first on this page?
