@@ -103,8 +103,8 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-[Success metrics on Default Send project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/README.md#measuring-success)
-[Success metrics on editing-as-subtask inititive brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/mobile-phone-edit-flow/README.md#key-performance-indicators-kpis)
+- [Success metrics on Default Send project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/README.md#measuring-success)
+- [Success metrics on editing-as-subtask inititive brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/mobile-phone-edit-flow/README.md#key-performance-indicators-kpis)
 
 ## Go Live
 
