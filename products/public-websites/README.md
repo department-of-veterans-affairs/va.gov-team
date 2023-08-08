@@ -749,7 +749,7 @@ Static CMS page
 
 ## “How to apply” / Benefit wizards
 
-There are currently 5 urls where in-content "How to Apply" wizards exist:
+There are currently 3 urls where in-content "How to Apply" wizards exist, none of which are owned by Public Websites any more:
 
 Education: owned by EDU team
 * https://www.va.gov/education/eligibility
@@ -757,19 +757,12 @@ Education: owned by EDU team
 * https://www.va.gov/education/how-to-apply
   * React component (vets-website): `src/applications/edu-benefits/component/createEducationApplicationStatus.jsx`
 
-Still owned by PW:
-* https://www.va.gov/disability/eligibility
-  * content-build only (no React component)
-* https://www.va.gov/disability/how-to-file-claim
-  * content-build only (no React component)
-* https://www.va.gov/decision-reviews/higher-level-review/
-  * content-build only (no React component)
+Higher-level review: [owned by Benefits team](https://depo-platform-documentation.scrollhelp.site/getting-started/higher-level-review)
+* This url (https://www.va.gov/decision-reviews/higher-level-review/) links to url with actual 1-question, wizard here: https://www.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/start
 
-TODO: Have these all been replaced by online forms? 
 
 More info:
 * [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards) 
-* [https://github.com/department-of-veterans-affairs/va.gov-team/issues/14104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14104)
 
 
 ## React widgets governance
