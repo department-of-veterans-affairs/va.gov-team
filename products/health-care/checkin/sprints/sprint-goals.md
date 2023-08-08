@@ -27,14 +27,16 @@ ________________________________________________________________________________
    - **EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42937)
            - Just involves product guides, wireframe merging, & release notes
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create a sitewide intake ticket (resource page update) for adding travel pay information on the resource page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60079)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Content] Adjust Content for Travel Claim Submission Text Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63300)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create a sitewide intake ticket (resource page update) for adding travel pay information on the resource page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60079)       
    - **EPIC: [Add Cell Phone to LoROTA Entry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)**
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Update CHIP to also store the cell phone in LoROTA (field TBD)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62437)
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update Vets-API to use the newly stored cell phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)
    - **EPIC: [Allow Submission of Travel Claim for 1 Facility Per Day](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)**
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Remove Logic to Prevent User from Seeing Travel Questions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63315)
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Send Appointment Time to BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63318)
+   - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Content] Adjust Content for Travel Claim Submission Text Message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63300)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] Determine Steps Needed to Evolve Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63320) 
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Re-Design Poster to Exclude QR Code Instructions**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Aggregate Poster Pilot Feedback Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63188)
