@@ -4,7 +4,7 @@ As we pause the VANotify integration, below are the main problems we are current
 
 ## Problems
 
-### Generally speaking, it is unclear what is actually in our team's purview
+### Generally speaking, it is unclear what is actually in our team's purview.
 
 Everyone has different definitions of "notifications" -- there are badges, dots, tags, "identifiers", warnings, alerts, etc - lots of different terminology used to refer to something used to catch or draw the user's attention to new (and potentially) actionable information. As a result, it isn't clear what our team is actually responsible for. Are we only responsible for the VANotify integration? Or are we responsible for notification & alert governance and guidance across the logged-in experience?
 
@@ -16,7 +16,7 @@ As a result, we keep coming across teams that are applying the design system to 
 
 **Preliminary next steps**: If it's determined by OCTO that our team should be more broadly involved in notification strategy as a whole, then we should create a plan after Angela's audit.
 
-### The debt notification now feels like it doesn’t make sense if we aren’t scaling the VANotify integration any time soon.
+### The debt notification doesn’t feel like it makes sense if we aren’t scaling the VANotify integration any time soon.
 
 - [Domo report](https://va-gov.domo.com/page/1167851935?userId=1322887837)
 - [GA dashboard for onsite notifications](https://analytics.google.com/analytics/web/#/dashboard/MALmun-7S7WXBNKxUrQ39g/a50123418w177519031p184624291/)
