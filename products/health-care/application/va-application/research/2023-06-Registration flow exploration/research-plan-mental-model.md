@@ -105,7 +105,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 - Mix of participant ages 
 - At least 4 participants over 55+
-- At least 4 participants who are women
+- At least 3 participants who are women
 - All particpants have less than a Bachelor's Degree Education level 
 - No more than 3 participant who are White (mix of other demographics)
 
