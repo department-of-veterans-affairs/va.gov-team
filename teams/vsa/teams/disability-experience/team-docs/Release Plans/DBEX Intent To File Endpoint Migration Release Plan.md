@@ -25,9 +25,9 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 
 ## Overview Checklist
 - [ ] Phase I: Internal Testing and Review
-    - [ ] Internal Testing and Review
-    - [ ] Pre-release Testing
-    - [ ] Review Cases
+    - [x] Internal Testing and Review
+    - [x] Pre-release Testing
+    - [x] Review Cases
     - [ ] Canary
 - [ ] Phase II: Staged Rollout 
     - [ ] Stage A: 1%
@@ -42,22 +42,23 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 ## Phase I: Internal Testing and Review
 
 ### Pre-release Testing
-- [ ] Complete pre-launch tasks: N/A
+- [x] Complete pre-launch tasks: N/A
 - [x] Request production credentials from Lighthouse via their production access form
 - [x] Complete manual testing with production credentials in Argo
 - [x] Push credentials to K8 manifest and devops repositories
-- [ ] Create and execute a Testrail test plan
-- [ ] Complete Review
+- [x] Create and execute a Testrail test plan
+    - Link: https://dsvavsp.testrail.io/index.php?/cases/view/43193
+- [x] Complete Review
 
 ### Review Cases
-- [ ] Does the existing DataDog monitoring have sufficient coverage?
-- [ ] Has manual testing been completed in Argo with prod credentials?
-- [ ] Have a successful TestRail test plan been executed?
-- [ ] Confirm devops repository has references to correct environment variable paths
-- [ ] Confirm K8 manifest repository has references to correct environment variable paths
-- [ ] Do we have a point of contact on LH to coordinate with?
-- [ ] Has the team reviewed and timeboxed the release intervals?
-- [ ] Have PO(s) been made aware and approved of the plan? 
+- [x] Does the existing DataDog monitoring have sufficient coverage?
+- [x] Has manual testing been completed in Argo with prod credentials?
+- [x] Have a successful TestRail test plan been executed?
+- [x] Confirm devops repository has references to correct environment variable paths
+- [x] Confirm K8 manifest repository has references to correct environment variable paths
+- [x] Do we have a point of contact on LH to coordinate with?
+- [x] Has the team reviewed and timeboxed the release intervals?
+- [x] Have PO(s) been made aware and approved of the plan? 
 
 ### Canary
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63007
