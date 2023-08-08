@@ -52,6 +52,10 @@ These are some assumptions I have about what work our team should pursue with re
 
 ### Work across the authenticated experience
 
+The following would definitely be helpful:
+
+1. Determine what we should do with the notification component now that we don't have immediate plans to scale it. Options include refining it and improving documentation on when to use it; nixing the component and combining it with the white card; or something else we haven't thought about.
+
 I am assuming the following would be helpful:
 
 1. Providing guidance across teams around how notification states should be used within the logged-in experience. The goal is to make sure notifications and alerts are surfaced in a uniform, consistent way. We would likely need to work with the design system team on this.
@@ -63,3 +67,6 @@ I am assuming the following would be helpful:
 ### Work on My VA
 
 While we are working on the big picture, we should also continue to improve how we surface action items and important updates on the My VA dashboard. This might be a space where we can iterate and try things to see if they can or should be applied to the broader authenticated experience.
+
+1. Make a determination on what to do with the "Notifications" section and the debt notification.
+2. Continue to pursue dot indicator with MHV landing page team.
