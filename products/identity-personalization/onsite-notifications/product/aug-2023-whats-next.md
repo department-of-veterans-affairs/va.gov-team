@@ -70,3 +70,4 @@ While we are working on the big picture, we should also continue to improve how 
 
 1. Make a determination on what to do with the "Notifications" section and the debt notification.
 2. Continue to pursue dot indicator with MHV landing page team.
+3. Pursue white card design on My VA.
