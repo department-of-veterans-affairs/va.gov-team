@@ -18,7 +18,7 @@ As a result, we keep coming across teams that are applying the design system to 
 2.	Do teams actually need to work with us? What kind of cross-team collaboration makes sense?
 3.	How can we differentiate between system alerts vs. personally-relevant alerts? Does this actually matter to users?
 
-**Preliminary next steps**: A lot will be clarified after Angela puts together the design documentation on notifications/alerts/tags/whatever. This will show us what our opportunities are so we can create a plan.
+**Preliminary next steps**: If its determined by OCTO that our team should more broadly be involved in notification strategy as a whole, then we should create a plan after Angela's audit.
 
 ### The debt notification now feels like it doesn’t make sense if we aren’t scaling the VANotify integration any time soon.
 
@@ -27,7 +27,7 @@ As a result, we keep coming across teams that are applying the design system to 
 
 According to analytics, far more people are clicking into the debt section of My VA than the onsite notification by a large margin, which is pretty surprising to me. From Jan 1 – Aug 2 2023, `Manage your VA debt` was clicked about 300K times from the debt section vs. about 97K clicks from the onsite notification. This is a large discrepancy even considering that the onsite notification was removed about 77K times over the year. 
 
-**Preliminary next steps**: Talk to the team about this.
+**Preliminary next steps**: Determine what to do with the Notifications section/`You have a new debt` on My VA.
 
 ### The notification component feels very similar to the [now-default white card](https://design.va.gov/components/card#2-default-white).
 
@@ -42,7 +42,7 @@ According to analytics, far more people are clicking into the debt section of My
 2.	Should we be advising people to use this notification state? If so, for what? How do people know whether to use this or the existing alert states?
 3.	Is this component confusing? Maybe the icons aren’t necessary…
 
-**Preliminary next steps**: Talk to the team about this.
+**Preliminary next steps**: Determine what to do with the notification component (nix it? combine it with the white card? refine it and improve documentation? something else?).
 
 ## Next steps
 
@@ -51,7 +51,7 @@ According to analytics, far more people are clicking into the debt section of My
 My VA and the notification component that Angela created are clearly in our team's purview, and we should continue to pursue work that improves My VA and clarifies usage around the notification component. We should do the following:
 
 1. Determine what to do with the Notifications section/`You have a new debt` on My VA.
-2. Determine what to do with the notification component now that we don't have immediate plans to scale it. Options include refining it and improving documentation on when to use it; nixing the component and combining it with the white card; or something else we haven't thought about.
+2. Determine what to do with the notification component (nix it? combine it with the white card? refine it and improve documentation? something else?).
 3. Continue to pursue dot indicator with MHV landing page team.
 4. Pursue white card design on My VA.
 5. Continue to think about how to better elevate personally relevant info on My VA.
