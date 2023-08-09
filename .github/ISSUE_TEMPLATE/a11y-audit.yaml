@@ -7,14 +7,18 @@ body:
 - type: markdown
   attributes:
     value: "## Details and Definition of done"
-- type: markdown
+- type: textarea
+  id: review
   attributes:
+    label: Definition of done
+    description: Provide a list of test users and any relevant instructions
     value: |
       1. Review and acknowledge all issues added to this maintenance audit.
       2. Fix and/or document decisions made for all issues.
       3. A11y specialist will review documented decisions or validating fixes for all tickets.
       4. A11y specialist will update the product page on the [VA a11y dashboard](https://docs.google.com/spreadsheets/d/1lgzMiZZ-0rBPDuB2gRupBAjsyF0WTe005VvEHYrMxww/edit?usp=sharing).
       5. A11y specialist will close this ticket.
+    render: bash
 - type: input
   id: auditor
   attributes:
