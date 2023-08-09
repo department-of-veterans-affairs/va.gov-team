@@ -25,6 +25,9 @@
 > "Leave it as it is. Users know what all that means. Education and training is going to cause a lot of issues."
 
 > "It used to be GI Bill, Veterans know what 30 means, 33, 35, Work Study. Education and training is a catchphrase for all."
+- There were no comments on any changes we proposed for topic names.
+- We received feedback to keep `Position description` as is, because it will impact other "email templates and procedures."
+- The education business line has topics they would like to remove and add with the CRM team. While we wait to see whether or when these changes happen, we're going to propose revised names for all potential topics.
 
 ## Actions
 
