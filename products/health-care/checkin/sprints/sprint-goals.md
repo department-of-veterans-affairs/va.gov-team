@@ -71,6 +71,8 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62848)    
 - **GOAL: Address tech & design debt**
+    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59089)
+        - Rolled over, needs more thought
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Day-of & Pre-Check-in: Allow Special Characters in Last Name for Identity Verification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63321)
 
 ----------------------- END FUTURE / TENTATIVE ---------------------------------    
