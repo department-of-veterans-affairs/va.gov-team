@@ -50,11 +50,8 @@ body:
   attributes:
     label: Screen Reader
     options:
-      - label: Chrome and JAWS (recommended)
-      - label: iOS Safari and VoiceOver (recommended)
-      - label: Chrome and Talkback
-      - label: Firefox and NVDA
-      - label: Safari and Voiceover (Desktop)
+      - label: Windows, Chrome, JAWS 
+      - label: iPhone, iOS Safari, VoiceOver 
 - type: textarea
   id: other
   attributes:
