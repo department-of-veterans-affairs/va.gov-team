@@ -18,7 +18,6 @@ body:
       3. A11y specialist will review documented decisions or validating fixes for all tickets.
       4. A11y specialist will update the product page on the VA a11y dashboard.
       5. A11y specialist will close this ticket.
-    render: bash
 - type: input
   id: auditor
   attributes:
@@ -62,7 +61,6 @@ body:
       2.
       3.
       ...
-    render: bash
 - type: input
   id: sheet
   attributes:
@@ -91,7 +89,6 @@ body:
       2.
       3.
       ...
-    render: bash
 - type: markdown
   attributes:
     value: "[Passwords for test users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/a11y-audit.md#:~:text=user%2B%3F%3F%40gmail.com-,Passwords,-Footer)"
