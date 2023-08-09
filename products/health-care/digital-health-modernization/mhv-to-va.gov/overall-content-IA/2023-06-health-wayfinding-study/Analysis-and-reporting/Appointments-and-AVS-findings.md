@@ -23,7 +23,7 @@ Here is a list of questions we addressed for Appointments and AVS in this study:
 
 _Note: We conducted 18 interviews in total. There is one failed interview because the participant had challenges processing questions and tasks and the facilitator didn't proceed with simpler questions. So, there are 17 interviews we pulled data from._
 
-### - Where did people look for their AVS -> Med Records or Appointments?
+- ### Where did people look for their AVS -> Med Records or Appointments?
 
 There are multiple paths participants took, which you could read more into the overall "figure-it-outness" finding. For example, one participant found MR's top task link on the My VA landing page, and one participant found MR after clicking on the MHV portal tab. With that being said, 15 out of 17 participants took the path that led them to MR to look for AVS. Out of the 15 participants, 2 went into secure messaging and expected to find AVS in messages from their doctors. 
 
