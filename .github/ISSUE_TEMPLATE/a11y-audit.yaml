@@ -1,6 +1,6 @@
 name: "Accessibility Maintenance Audit"
-description: "Create an epic for an a11y audit outside of the collaboration cycle"
-title: "[A11y Maintenance Audit]: "
+description: "Create an epic for a maintenance a11y audit outside of the collaboration cycle"
+title: "[Maintenance A11y Audit]: "
 labels: ["epic, accessibility, a11y-testing, sitewide CAIA, sitewide accessibility"]
 assignees: []
 body:
