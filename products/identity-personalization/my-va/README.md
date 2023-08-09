@@ -133,6 +133,7 @@ _Why would your business want this to exist?_
 |Project|Status|
 |----|----|
 |[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#readme)| Launched to 10% |
+| [Remove "what benefits does VA offer?" menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/benefit-application-drafts-updates.md) | Development| 
 
 ### Completed projects & enhancements
 
