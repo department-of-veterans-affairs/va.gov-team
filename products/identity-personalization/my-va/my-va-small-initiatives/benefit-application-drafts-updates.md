@@ -29,10 +29,10 @@ This will be a change to both the LOA1 and LOA3 states on My VA.
 
 ### Objective: Provide greater consistency and simplification of the Benefit Application Drafts section.
 
-- **KPI: We will not see searches for the benefits in the "what benefits does VA offer" menu move into the top 50 search terms.**
-  - Note: there are already some search terms (eg. careers) that are in the top 50. Given their already high rankings, we probably won't learn much even if they do move up a little bit as a result of this menu going away.
-
-
+**KPI: We will not see searches for the benefits in the "what benefits does VA offer" menu move into the top 50 search terms.**
+- There are already some search terms (eg. careers) that are in the top 50. Given their already high rankings, we probably won't learn much even if they do move up a little bit as a result of this menu going away.
+- We will monitor for a month to start. If there isn't a signifant change in metrics, we can permanently remove the menu. If we do see metrics moving in a way that concerns us, we'll monitor for a second month.
+ 
 |KPI/metric|Baseline: <br />1 month pre-launch <br />(mm/dd/yyyy - mm/dd/yyyy)|1 month post-launch <br />(mm/dd/yyyy - mm/dd/yyyy)| 2 months post-launch <br />(mm/dd/yyyy - mm/dd/yyyy)|
 |----------|-------------|---------------|-------------------|
 |Are searches for "**health care**” (or similar -- whichever comes first) in the top 50 search terms on My VA?|   |   |   |
