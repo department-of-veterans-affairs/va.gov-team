@@ -1,3 +1,4 @@
+<img width="917" alt="Screenshot 2023-08-09 at 10 44 30 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/0bf27ea2-a05a-405f-9d27-391c183a6cb7">
 # What we did
 ## What are the tasks participants need to complete about AVS and Appointments? 
 **Copay task:**  You want to see if you owe payments to the VA for past health appointments, and how would you go about paying it?
@@ -39,7 +40,15 @@ We had two sets of data to analyze: observation notes on a Mural board and inter
   - _"This bugs me. It should tell me when I leave VA."_
   - _"I'm always unsure at first, and wondering if it's the right site."_ 
   
-- **How do they think about/ understand debt vs. copay?**
-- **How do users know how much to pay?**
+- **How do they think about/ understand debt vs. copay, and how do users know how much to pay??**
+  _Note: "Manage VA debt link" on My VA was not enabled in the prototype. There were 2 failed data collections on this question._
+
+   10 out of 16 participants found the copay link on My VA. 
+When looking for how much they own to the VA from past health visits, "financial, billing, payment" were mentioned, when presenting
+
+![Uploading Screenshot 2023-08-09 at 10.43.58 AM.png…]()
+![Uploading Screenshot 2023-08-09 at 10.42.56 AM.png…]()
+
+
 - **How is the payment linked to the bill?**
 Copay = I think just the nugget about including a link to your bills on the MHV landing page, rather than just a link to where you pay the bill. Came from a comment from only one participant, but seems valuable.
