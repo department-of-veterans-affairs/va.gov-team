@@ -1,1 +1,37 @@
-asd
+# Insights: EDUCATION BUSINESS LINE #2
+*Ask VA Integration Team, August 2023*
+
+## Agenda
+
+- Review form fields: 40 minutes
+- Wrap up: 5 minutes
+
+## Attendees
+
+- Our team: Becky, Ruchi, Tyler, Thomas
+- Education: Lisa Eaton, Kendra Stewart, Kevin White, Matthew Ziolkowski, Tammy Hurley, Michael Napper
+- CRM team: Shelby, Chris, Maria, Wayne
+- Not present: Jacqueline Mikoley (Buffalo), Louiseza Sanderson, Dawn Arnold, Terry Warren, Preston Sanders, Wandy Espana
+
+## Key takeaways
+
+- There are strong concerns with changing `Education (Ch.30, 33, 35, 1606, etc. & Work Study)` at all.
+> "We're suggesting that the category includes the chapters so that we can remove other topics."
+
+> "Claimants are familiar with the chapters."
+
+> "We do want to make sure that 'work study' is visible as well as 'education'."
+
+> "Leave it as it is. Users know what all that means. Education and training is going to cause a lot of issues."
+
+> "It used to be GI Bill, Veterans know what 30 means, 33, 35, Work Study. Education and training is a catchphrase for all."
+
+## Actions
+
+- [ ] Ruchi schedule follow-up meeting for Wednesday, August 9th
+- [ ] Explore descriptive text to help with category, topic, subtopic select menus
+- [ ] Analyze data on the number of each “type of inquiry” eg. complaint, compliment, question
+
+## References
+
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1AlUqvwn49ah2gHniTwx3x0afOPliKgURo575e73OH40/edit#gid=1192783561) we reviewed.
