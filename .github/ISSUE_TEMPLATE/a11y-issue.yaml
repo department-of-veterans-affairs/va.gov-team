@@ -1,7 +1,7 @@
 name: "Accessibility Issue Ticket"
 description: "Create an accessibility issue ticket"
 title: "[a11y-defect-x]:"
-labels: ["Accessibility"]
+labels: ["accessibility"]
 assignees: []
 body:
 - type: markdown
