@@ -236,10 +236,10 @@ Imagine that you’re thinking about how to pay for your kid to go to college. Y
 
 ### Task 5: [Disability--accordion opens]
 *(Veteran only)*
-Imagine that you have some hearing loss that's related to your military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some help applying for them. Using the information on this page, how could you get help from the Boston Regional Office? 
+Imagine that you have some hearing loss that's related to your military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some assistance with your application. Using the information on this page, how could you get help from the Boston Regional Office? 
 
 *(If not Veteran but caregiver or family member:)*
-Imagine that your *[spouse/Veteran]* has some hearing loss that's related to their military service. They’re not currently receiving monthly disability payments from the VA, and you’d like some help for them to apply for them. Using the information on this page, how could you get help from the Boston Regional Office?
+Imagine that your *[spouse/Veteran]* has some hearing loss that's related to their military service. They’re not currently receiving monthly disability payments from the VA, and you’d like some assistance with your application. Using the information on this page, how could you get help from the Boston Regional Office?
 
 - *(Disability compensation)*
 
