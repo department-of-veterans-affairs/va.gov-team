@@ -53,6 +53,7 @@ ________________________________________________________________________________
             - Waiting on Laura
                 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Create Final Wireframes to Include Appointment List Disclaimer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62160)
                 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Spike] [UX] Determine which direction between 59165 and 59121 regarding h1's](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/62345)
+                - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add in headings to the caution alerts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/61670) 
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Add Content to the 45-minutes Check-in Reminder Text for When to Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62955)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[AFTER RESEARCH] Add annotations for when to announce alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59118)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Update Final Wireframes for Confirmation & Demographic Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63301)
