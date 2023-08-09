@@ -30,6 +30,8 @@ assignees: ''
    - Text = "Modernized Check-in Production Release on <date>. Release notes can be found here" 
    - Link = include link to the release notes for the date of the production release
    - Call-outs = include call outs to
+      - Kay Lawyer
+      - Kristen McConnell
       - Stephen Barrs
       - Patrick Bateman
       - Shawn Adams
@@ -38,6 +40,8 @@ assignees: ''
    - Text = "Modernized Check-in Production Release on <date>. Release notes can be found here" 
    - Link = include link to the release notes for the date of the production release
    - Send email to
+      - Kay Lawyer
+      - Kristen McConnell
       - Stephen Barrs
       - Patrick Bateman
       - Shawn Adams
