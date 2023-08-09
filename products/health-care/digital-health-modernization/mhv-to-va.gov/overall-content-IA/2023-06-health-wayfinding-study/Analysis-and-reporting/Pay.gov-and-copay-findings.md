@@ -24,10 +24,8 @@ We had two sets of data to analyze: observation notes on a Mural board and inter
 
 # What we learned
 
-- When they leave VA.gov and go to Pay.gov:
--   Where do they think they are? 
-How do they feel when they realize they are no longer on VA.gov? 
-How do they think about/ understand debt vs. copay? 
-How do users know how much to pay? 
-How is the payment linked to the bill?
+- **When they leave VA.gov and go to Pay.gov: Where do they think they are? How do they feel when they realize they are no longer on VA.gov?**
+- **How do they think about/ understand debt vs. copay?**
+- **How do users know how much to pay?**
+- **How is the payment linked to the bill?**
 Copay = I think just the nugget about including a link to your bills on the MHV landing page, rather than just a link to where you pay the bill. Came from a comment from only one participant, but seems valuable.
