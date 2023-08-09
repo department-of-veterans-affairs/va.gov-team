@@ -208,7 +208,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 - Participant(s) for pilot test: 
 - Note-takers: Perigean, 1010 Team
 - Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Jessica Stump (jessica.stump@adhocteam.us), Katelyn Caillouet (katelyn.caillouet@agile6.com), Hieu Vo (hieu.vo@agile6.com) 
-Observers: [link to sign up post on Slack](url)
+Observers: [link to sign up post on Slack](https://dsva.slack.com/docs/T03FECE8V/F05M2V3T4FM)
 
 
 > **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
