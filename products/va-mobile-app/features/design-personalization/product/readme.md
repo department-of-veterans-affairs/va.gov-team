@@ -2,7 +2,7 @@
 Last updated Aug 2023
 
 ### Current Product Docs (2023)
-* [Personalization - Project Kickoff 2023.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/product#:~:text=..-,Personalization%20%2D%20Project%20Kickoff%202023.pdf,-(File))
+* [Personalization - Project Kickoff 2023.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalization%20-%20Project%20Kickoff%202023.pdf)
 
 
 ### Previous Product Docs
