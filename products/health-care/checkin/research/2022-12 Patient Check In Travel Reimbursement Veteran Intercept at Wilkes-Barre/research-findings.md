@@ -32,10 +32,44 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)]<br>
 <br>
 
 ## Methodology
+This research was conducted as Veteran intercepts during the check in process at Allentown CBOC and Wilkes-Barre VAMC, two Wilkes-Barre Health Care System clinics that have eCheck-in enabled.
+
+We worked with Wilkes-Barre Health Care System Health Administration Services (HAS) staff to determine the best approach for Veteran intercepts.
+
+We completed the following in-person research to evaluate Veteran and staff experiences and feedback:
+- Combined Veteran-facing and staff-facing research
+- Interviews with clinic staff and travel office staff
+- Veteran intercepts with MSA/staff assistance - worked with Wilkes-Barre Health Care System Health Administration Services (HAS) staff to determine the best approach for Veteran intercepts
+  - Assisted and observed as they went through eCheck-in
+  - Asked questions about the process
+
 
 <br>
 
 ## Hypothesis and Conclusions
+
+**Primary**
+1. Veterans will think filing a travel reimbursement claim during check in is easy, but those that aren’t eligible may think it’s neither easy nor difficult.
+    - LIKELY TRUE
+3. Veterans will be able to review and answer each of the travel reimbursement claim eligibility questions in a short amount of time.
+    - DEFINITELY TRUE
+5. Veterans will think it’s easy and convenient to file a travel reimbursement claim while checking in for their appointment.
+    - DEFINITELY TRUE
+7. Veterans will be pleasantly surprised at how few steps are required to file a travel reimbursement claim within the PCI application.
+    - DEFINITELY TRUE
+9. Veterans will think the status of their travel reimbursement claim and check-in on the confirmation pages are easy to understand, but would like to see more definiteness or plain language around why their claim couldn’t be submitted and how to check the status of their claim.
+    - LIKELY TRUE
+11. Veterans will have suggestions for supporting other travel types and other travel reimbursement tasks. E.g., edit the address, upload receipts, file later, file for other appointments, etc.
+    - LIKELY TRUE
+   
+**Secondary**
+
+7. Veterans will identify the most confusing or difficult aspects of mobile check in to be the scanning the QR code and texting VA step and the perception that they thought they already completed check in by completing pre-check-in (e.g., not understanding the steps involved in the PCI workflow).
+    - LIKELY TRUE (texting VA/beginning eCheck-in)
+9. Veterans will recommend removing the scanning the QR code and texting VA step of the PCI workflow.
+    - NOT ENOUGH INFORMATION
+11. Some Veterans will prefer responding to 1 or 2 text messages to check in for their appointment, while other Veterans will feel they already receive too many VA text messages.
+    - LIKELY TRUE
 
 <br>
 
@@ -242,10 +276,24 @@ Last time I couldn't do this until I got home.”
 5. Build and/or open access to a BTSSS database to check Veterans beneficiary travel eligibility to personalize the PCI experience to the Veteran
 6. Continue discussing the need and value  for a customer satisfaction survey at the end of check in to collect Veteran feedback (since a Veteran did mention it), especially knowing that VA: Health and Benefits app have implemented something similar recently 
 
+<br>
 
+## Who we talked to
 
+**We spoke to 9 clinic and travel office staff members:**
+- 2 staff members from the travel office
+  - Formal interview with Travel Office Supervisor
+  - Feedback from travel office staff during facility visits
+- 7 MSAs in two facilities across four clinics, with 3 of these being informal interviews (versus speaking 1 on 1 at their work stations). 
 
-
+**We completed 32 Veteran intercepts with clinic staff assistance. 11/32 Veterans tried eCheck-in:**
+- 7 completed Check-in
+    - 5 were shown travel reimbursement (3 completed travel reimbursement and 2 did not because they knew they were not eligible)
+    - 2 were not shown travel because they had multiple appointments. Note: The MVP enables Veterans with one appointment to file for a mileage reimbursement claim. Subsequent releases will extend the reach.
+- 4 did not complete Check-in
+    - 2 received an error message because they tried to access eCheck-in before the check-in window (1 was 30 min before the appointment and within the check-in window but still received this message, likely due to an unexpected system error)
+    - 1 received the “phone number doesn’t match” error message - to resolve this, MSAs can update home phone to cell in VistA Scheduling Enhancements (VSE) or use the appropriate VistA menu to update cell phone if they have access to it
+    - 1 could not authenticate because of incorrect information. (login info possibly entered incorrectly)
 
 
 
