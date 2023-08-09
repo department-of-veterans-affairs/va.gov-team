@@ -148,6 +148,9 @@ https://staging-api.va.gov/flipper/features
 ### Managed by:
 VA account combined with email in [list in vets-api](https://github.com/department-of-veterans-affairs/vets-api/blob/78a3b4243102f478bbcc4f8bbbdee2e580ce2283/config/settings.yml).
 
+Moving to gitHub team enabled access https://dsva.slack.com/archives/C03R5SBELQM/p1691616340610669
+[Flipper Team](https://github.com/orgs/department-of-veterans-affairs/teams/va-gov-flipper-prod/)
+
 ### Access:
 - Brian Seek (brian.seek@civicactions.com)
 - Gaurav Gupta (ggupta@kindsys.us)
