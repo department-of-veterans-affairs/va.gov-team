@@ -40,6 +40,12 @@ According to analytics, far more people are clicking into the debt section of My
 
 **Preliminary next steps**: Determine what to do with the notification component (nix it? combine it with the white card? refine it and improve documentation? something else?).
 
+### Our thinking around notifications has been led by the tool (VANotify), not by what we know about user needs and priority
+
+While no one intended for this to happen, our approach to the notification strategy was so heavily bound to everything needing to go through VANotify that we weren't able to prioritize what we know about about user needs and expectations. Had we been able to lead with what we know about users and how they prioritize information, we could have been thinking about other ways to elevate information on My VA and across VA.gov that would have been easier to build, met user expectations and facilitated behavior, and wouldn't have conflicted in any way with VANotify's text and email notifications.
+
+**Preliminary next steps**: On My VA, we should continue to think about how to better elevate items we know are high priority to users. Across VA.gov, we should wait to apply any broader thinking until we're sure this is within our purview.
+
 ## Next steps
 
 ### Continue work that is clearly in our purview
