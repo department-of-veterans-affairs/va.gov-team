@@ -31,9 +31,7 @@
 
 ## Actions
 
-- [ ] Ruchi schedule follow-up meeting for Wednesday, August 9th
-- [ ] Explore descriptive text to help with category, topic, subtopic select menus
-- [ ] Analyze data on the number of each “type of inquiry” eg. complaint, compliment, question
+- [ ] Ruchi raise education team's concerns with Chante
 
 ## References
 
