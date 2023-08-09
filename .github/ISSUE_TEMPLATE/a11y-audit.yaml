@@ -1,4 +1,4 @@
-name: "Accessibility Audit Epic"
+name: "Accessibility Maintenance Audit"
 description: "Create an epic for an a11y audit outside of the collaboration cycle"
 title: "[A11y Audit]: "
 labels: ["epic, accessibility, a11y-testing, sitewide CAIA, sitewide accessibility"]
@@ -46,11 +46,16 @@ body:
   attributes:
     label: Screen Reader
     options:
-      - label: Firefox and NVDA
-      - label: Chrome and JAWS
-      - label: iOS Safari and VoiceOver (Mobile)
-      - label: Safari and Voiceover (Desktop)
+      - label: Chrome and JAWS (recommended)
+      - label: iOS Safari and VoiceOver (recommended)
       - label: Chrome and Talkback
+      - label: Firefox and NVDA
+      - label: Safari and Voiceover (Desktop)
+- type: input
+  id: sheet
+  attributes:
+    label: Audit sheet link
+    description: Provide a link to any sheets or tools used for the audit; [you can use this complex audit google sheet](https://docs.google.com/spreadsheets/d/1QXwkudLtG8aX7g5NGuwW_CgNHEmvV59hPRCoQORlA7Q/edit?usp=sharing)
 - type: markdown
   attributes:
     value: "## Staging URL and Credentials"
