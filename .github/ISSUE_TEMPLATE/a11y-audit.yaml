@@ -10,7 +10,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      1. Review and acknowledge all issues added to this audit epic.
+      1. Review and acknowledge all issues added to this maintenance audit.
       2. Fix and/or document decisions made for all issues.
       3. A11y specialist will review documented decisions or validating fixes for all tickets.
       4. A11y specialist will update the product page on the [VA a11y dashboard](https://docs.google.com/spreadsheets/d/1lgzMiZZ-0rBPDuB2gRupBAjsyF0WTe005VvEHYrMxww/edit?usp=sharing).
