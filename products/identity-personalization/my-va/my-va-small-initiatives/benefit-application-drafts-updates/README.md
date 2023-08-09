@@ -44,7 +44,22 @@ This will be a change to both the LOA1 and LOA3 states on My VA.
 |Are searches for "**burials and memorials**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
 |Are searches for "**life insurance**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
 |Are searches for "**service member benefits**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
-|Are searches for "**family member benefits**” o(or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
+|Are searches for "**family member benefits**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
+
+
+Historical data (January 2023 - August 2023)
+|        Benefit page       | Total Pageviews | Clicks from My VA Bene App Drafts section | % Clicks from My VA Bene App Drafts section | 
+|---------------------------|-----------------|-------------------------------------------|---------------------------------------------|
+| Health care               | 1,721,732       | 32,029                                    | 1.86%                                       |
+| Education and training    | 1,722,482       | 35,512                                    | 2.06%                                       |
+| Disability compensation   | 4,463,307       | 62,798                                    | 1.41%                                       |
+| Careers & employment      | 744,905         | 6,788                                     | 0.91%                                       |
+| Pension                   | 473,257         | 7,901                                     | 1.67%                                       |
+| Housing assistance        | 703,717         | 22,775                                    | 3.24%                                       |
+| Burials & memorials       | 476,312         | 8,313                                     | 1.75%                                       |
+| Life insurance            | 820,656         | 13,132                                    | 1.60%                                       |
+| Service member benefits   | 1,136,271       | 18,016                                    | 1.59%                                       |
+| Family member benefits    | 2,113,398       | 25,888                                    | 1.22%                                       |
 
 
 ## Key Dates
