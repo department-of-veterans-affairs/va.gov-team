@@ -246,14 +246,14 @@ Imagine that your *[spouse/Veteran]* has some hearing loss that's related to the
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
   - How could you talk to someone? *[in-person / virtual / phone]*
-  - Do you need an appointment? *[no but it’s preferred]* 
+  - Do you need an appointment? *[no but it’s preferred, per top-level accordion]* 
   - When will you go? *[check office hours for this task specifically]*
     - *Record any comments about*
       - *multiple sets of office hours*
       - *multiple hour blocks per day*
       - *notes about Thursday closures*
 
-  - When you go, what should you have with you? *[photo ID, DD214]* 
+  - When you go, what should you have with you? *[photo ID, DD214, medical records]* 
   
 ### Task 6: [Home loan > COE--accordion opens]
 *(Veteran only)*
@@ -266,8 +266,8 @@ Your Veteran family member *(the Veteran you care for)* is interested in buying 
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
-  - How could you talk to someone? *[in-person / virtual / phone]*
-  - Do you need an appointment? *[no but it’s preferred]* 
+  - How could you talk to someone? *[in-person / virtual]*
+  - Do you need an appointment? *[no but it’s preferred, per top-level accordion]* 
   - When will you go? *[check office hours for this task specifically]*
     - *Record any comments about*
       - *multiple sets of office hours*
@@ -280,12 +280,12 @@ Your Veteran family member *(the Veteran you care for)* is interested in buying 
 *(Veteran only)*
 Say you’ve decided to go to the Boston Regional Office in person to get proof that you qualify for a VA home loan. What do you need to have with you? [DD214]  
 
-If you don't have a DD214, how could you get it? 
+One of the items is a DD214. If you don't have a DD214, how could you get it? 
 
 *(If not Veteran but caregiver or family member:)*
 Say your Veteran family member *(the Veteran you care for)* decides they want to go to the Boston Regional Office in person to get proof that they qualify for a VA home loan. What do they need to have with them? [DD214]
 
-If they don't have a DD214, how could you help them get it?
+One of the items is a DD214. If they don't have a DD214, how could you help them get it?
 
 
 - *(Prepare for your visit > Helpful documents)*
@@ -332,14 +332,13 @@ If you wanted help applying for life insurance through the VA, where would you g
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
   - How could you talk to someone? *[in-person / virtual / phone]*
-  - Do you need an appointment? *[no but it’s preferred]* 
+  - Do you need an appointment? *[yes]* 
   - When will you go? *[check office hours for this task specifically]*
     - *Record any comments about*
       - *multiple sets of office hours*
       - *multiple hour blocks per day*
       - *notes about Thursday closures*
 
-  - When you go, what should you have with you? *[photo ID, DD214]* 
   
 ### Task 11: [Direct deposit--accordion doesn't open]
 *(Veteran only)*
@@ -347,7 +346,7 @@ Suppose that you just switched banks, and you want to tell the VA so that any pa
 
 *(If not Veteran but caregiver or family member)* Suppose that your Veteran family member *(the Veteran you care for)* just switched banks, and they want to tell the VA so that any payments they receive will go to the new bank instead of the old one. Could the Boston Regional Office help you do this?
 
-- *(Other services > Veteran direct deposit)*
+- *(Other services > Direct deposit)*
 
 
 ## Post-Task Interview - 10 minutes
