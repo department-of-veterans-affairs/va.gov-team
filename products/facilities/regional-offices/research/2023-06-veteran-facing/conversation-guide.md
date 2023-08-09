@@ -41,7 +41,7 @@ I work on making technology easier for Veterans to use in order to get informati
 
 What I *hope to do today* is to get your feedback on a new web page that we're working on. 
 
-What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may look at things that have caused you serious frustration, and I want you to know up front that I can't make that better for you right now. I don't have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations since they might be opportunities for what I can help improve in the future.
+What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may look at things that have caused you frustration, and I want you to know up front that I can't make that better for you right now. I don't have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations because they can help me advocate for improvements to the process in the future.
 
 I have a colleague with us in this session who will be taking notes.
 
@@ -113,7 +113,7 @@ Before we start, I want to go over a few things:
   - Sometimes talking about these types of experiences can be difficult. Do you think you would be comfortable telling me if it starts to affect you negatively?
   - This sounds so hard. Would you like to take a break or stop?
   - Would you like me to stop recording?
-  - I sense that this may be upsetting. We value what you’re sharing with us, but we don’t have to go there.
+  - I sense that this may be upsetting. We value what you’re sharing with us, but we don’t have to go there if you don't want to.
   - Do you want to just sit here quietly for a few minutes?
   - Would you like to pause, or are you OK with continuing?
   - Is this not a good time for this session?
@@ -128,8 +128,7 @@ I'm interested to hear more about...Are you up for continuing with that, or woul
 - *If p describes something that seems unfair*
   - I hear you saying that this is unfair. It sounds incredibly frustrating. I'm sorry to hear that you've been going through this.
 - *If MST (military sexual trauma) comes up*
-  - I am so sorry that happened to you. I truly appreciate your willingness to speak with me today.
-
+  - I am so sorry that happened to you. I hear you, and I'm grateful you felt safe sharing this with me.
 
 
 ### If you notice something and want to make sure they know how to get mental health help
