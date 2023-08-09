@@ -55,6 +55,17 @@ body:
       - label: Chrome and Talkback
       - label: Firefox and NVDA
       - label: Safari and Voiceover (Desktop)
+- type: textarea
+  id: other
+  attributes:
+    label: Other tests
+    description: Provide a list of any other tests conducted
+    value: |
+      1. for example, Dragon Naturally Speaking on Chrome on Windows
+      2.
+      3.
+      ...
+    render: bash
 - type: input
   id: sheet
   attributes:
