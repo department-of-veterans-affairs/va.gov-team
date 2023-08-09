@@ -34,14 +34,14 @@ So, the majority prefers to find AVS through MR.
 - _"I'm looking for something that says after-visit summary or doctor's notes."_
 - _"Well, I would go to medical records."_ (while on VA.gov home)
 
-### - How often is BB brought in relation to AVS?
+- ### How often is BB brought in relation to AVS?
 Blue Button (this term) was only brought up once (_1 out of 17_), so it's not referred to generally. 
 
 **Quote:**
 
 - _"I would go to BB and look at health records”_ when asked to review the next steps in care from the previous visit.
 
-### - Do participants open details and think the details are AVS or scroll down to the treatment plan?
+- ### Do participants open details and think the details are AVS or scroll down to the treatment plan?
 All the participants clicked into the details of AVS. 13 out of 17 scrolled on the details page and clicked to expand the treatment plan tab. Out of the 13 participants who read the treatment plan, 3 participants are either confused or wanted to see more information after reading it, and each has different reasons (see quotes below). So, the majority know to look for the next steps in their care from the visit in the details link once they get to Care summaries and notes. It takes them a while to read and scroll up and down to find the next steps from the visit, which does not only apply to mobile users. 
 
 **Quotes for 3 participants who are confused and want to see more:**
@@ -55,7 +55,7 @@ All the participants clicked into the details of AVS. 13 out of 17 scrolled on t
 - _“I would take a look at the treatment plan and find out what they’re gonna be doing."_
 - _"Now I feel stuck. I don't see doctor's notes."_ (while on the AVS details page and looking for the term "notes")
 
-### - How do people navigate in/out of the Appointments section (back button, breadcrumbs, secondary nav, etc.)?
+- ### How do people navigate in/out of the Appointments section (back button, breadcrumbs, secondary nav, etc.)?
 _Note: For this task, we have 3 failed data. Two participants got stuck and didn't know how to get into Appointments, and one participant had to stop the interview._
 #### IN 
 
@@ -64,7 +64,7 @@ For the first reaction, 6 out of 14 participants wanted to click "Find VA locati
 #### OUT
 8 out of 14 participants clicked the "back to Appointments" breadcrumb to get back out to the Appointments list page, and 6 used the browser back button. "Back to" breadcrumb works well, and it provides participants an additional option to go back besides the back button on the browser. 
 
-### - How are participants understanding the term "Requests"?
+- ### How are participants understanding the term "Requests"?
 Out of 17 participants, only 2 guessed the correct meaning of "Requests". The majority of the participants thought they could request or change or take some sort of action if they click "Requests". So, "Requests" should not replace "Pending". 
 
 **Quotes:**
@@ -73,5 +73,5 @@ Out of 17 participants, only 2 guessed the correct meaning of "Requests". The ma
 - _"Maybe ask the VA to see a particular specialist."_
 - _"It should give me an option or calendar to schedule appointments. It would have to be with a specific doctor or department as options."_
 
-### - Did participants use the filter in past appointments?
+- ### Did participants use the filter in past appointments?
 Not enough participants accessed AVS through Appts, so we didn't have any conclusions to this question. 
