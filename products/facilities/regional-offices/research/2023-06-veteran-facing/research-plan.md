@@ -147,7 +147,7 @@ We will schedule two **pilot tests**:
 - Pilot 2: **TBD ET** with TBD (TBD.us)
 
 ### Research sessions
-* Planned dates of research: **Sept 1, 5, and 11-15** 
+* Planned dates of research: **Aug 29 - Sept 1, 5, and 11-12** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 
@@ -160,21 +160,20 @@ We would like to request that **Perigean calls each participant** to remind them
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
+Aug 29, 2023 | 12-1, 2-3, 5-6 pm 
+Aug 30, 2023 | 12-1, 2-3, 5-6 pm
+Aug 31, 2023 | 12-1, 2-3, 5-6 pm
 Sept 1, 2023 | 12-1, 2-3, 5-6 pm 
 Sept 5, 2023 | 12-1, 2-3, 4:30-5:30 pm 
 Sept 11, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
 Sept 12, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Sept 13, 2023 | 12-1, 2-3, 5-6 pm 
-Sept 14, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Sept 15, 2023 | 12-1 pm
-
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
 - Moderator: Cindy Merrill (cindy.merrill@adhocteam.us) / Alexis Logsdon (alexis.logsdon@a1msolutions.com)
-- Research guide writing and task development: Cindy Merrill 
+- Research guide writing and task development: Cindy Merrill / Alexis Logsdon
 - Participant recruiting & screening: Perigean	
-- Project point of contact: Cindy Merrill
+- Project point of contact: Cindy Merrill / Alexis Logsdon
 - Participant(s) for pilot test: TBD and TBD
 - Note-takers: Perigean	(in github)
 - Observers: Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Jane Xiong (jane@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session.
