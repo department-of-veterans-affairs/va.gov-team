@@ -1,5 +1,4 @@
 # Ask VA: Research overview
-Last updated by @tygindraux: July 7, 2023
 
 <br>
 
