@@ -6,6 +6,13 @@ assignees: []
 body:
 - type: markdown
   attributes:
+    value: "## Instructions for specialist"
+- type: markdown
+  attributes:
+    value: |
+      [Follow these instructions on how to conduct a maintenance audit](https://docs.google.com/document/d/1nrpUyjtbfMkVd8uxxSzEvLzBHOZbwTbw6g0gKbo2nJY/edit?usp=sharing)
+- type: markdown
+  attributes:
     value: "## Details and Definition of done"
 - type: textarea
   id: review
