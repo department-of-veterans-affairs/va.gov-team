@@ -27,3 +27,8 @@ TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> ngin
 ### VA Forms API Documentation
 [VA Forms API](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4621) 
 Documentation for API that indexes data sourced from VA.gov, Lighthouse
+
+### Error messages
+When API hits a rate limit, an error message will be displayed to end users, "We're sorry. Something went wrong when we tried to load the search widget." That message originates from Drupal in a React widget on the Find-Form node
+https://staging.cms.va.gov/node/2352/edit
+https://staging.cms.va.gov/find-forms
