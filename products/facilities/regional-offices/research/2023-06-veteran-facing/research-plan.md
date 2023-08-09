@@ -1,4 +1,4 @@
-# Research Plan for Usability Testing, VBA Facility pages Veteran-Facing, June 2023
+# Research Plan for Usability Testing, VBA Facility pages Veteran-Facing, August 2023
 
 ## Background
 
