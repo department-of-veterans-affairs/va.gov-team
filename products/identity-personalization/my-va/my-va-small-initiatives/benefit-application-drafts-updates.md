@@ -29,20 +29,22 @@ This will be a change to both the LOA1 and LOA3 states on My VA.
 
 ### Objective: Provide greater consistency and simplification of the Benefit Application Drafts section.
 
-**KPI: We will not see an increase in searches for the benefits in the "what benefits does VA offer" menu once the menu is no longer visible to users.**
+- **KPI: We will not see searches for the benefits in the "what benefits does VA offer" menu move into the top 50 search terms.**
+  - Note: there are already some search terms (eg. careers) that are in the top 50. Given their already high rankings, we probably won't learn much even if they do move up a little bit as a result of this menu going away.
+
 
 |KPI/metric|Baseline: <br />1 month pre-launch <br />(mm/dd/yyyy - mm/dd/yyyy)|1 month post-launch <br />(mm/dd/yyyy - mm/dd/yyyy)| 2 months post-launch <br />(mm/dd/yyyy - mm/dd/yyyy)|
 |----------|-------------|---------------|-------------------|
-|Search rank for "**health care**” or similar from My VA (whichever comes first)|   |   |   |
-|Search rank for "**education and training**” or similar from My VA (whichever comes first)| | | |
-|Search rank for "**disability compensation**” or similar from My VA (whichever comes first)| | | |
-|Search rank for "**careers and employment**” or similar from My VA (whichever comes first)| | | |
-|Search rank for "**pension**” or similar from My VA (whichever comes first)| | | |
-|Search rank for "**house assistance**” or similar from My VA (whichever comes first)| | | |
-|Search rank for "**burials and memorials**” or similar from My VA (whichever comes first)| | | |
-|Search rank for "**life insurance**” or similar from My VA (whichever comes first)| | | |
-|Search rank for "**service member benefits**” or similar from My VA (whichever comes first)| | | |
-|Search rank for "**family member benefits**” or similar from My VA (whichever comes first)| | | |
+|Are searches for "**health care**” (or similar -- whichever comes first) in the top 50 search terms on My VA?|   |   |   |
+|Are searches for "**education and training**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
+|Are searches for "**disability compensation**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
+|Are searches for "**careers and employment**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
+|Are searches for "**pension**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
+|Are searches for "**house assistance**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
+|Are searches for "**burials and memorials**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
+|Are searches for "**life insurance**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
+|Are searches for "**service member benefits**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
+|Are searches for "**family member benefits**” o(or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
 
 
 ### Key Dates
