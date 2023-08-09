@@ -1,4 +1,3 @@
-<img width="917" alt="Screenshot 2023-08-09 at 10 44 30 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/0bf27ea2-a05a-405f-9d27-391c183a6cb7">
 # What we did
 ## What are the tasks participants need to complete about AVS and Appointments? 
 **Copay task:**  You want to see if you owe payments to the VA for past health appointments, and how would you go about paying it?
@@ -46,8 +45,9 @@ We had two sets of data to analyze: observation notes on a Mural board and inter
    10 out of 16 participants found the copay link on My VA. 
 When looking for how much they own to the VA from past health visits, "financial, billing, payment" were mentioned, when presenting
 
-![Uploading Screenshot 2023-08-09 at 10.43.58 AM.png…]()
-![Uploading Screenshot 2023-08-09 at 10.42.56 AM.png…]()
+<img width="1147" alt="Screenshot 2023-08-09 at 10 42 56 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/61131258-58ef-4b5d-a03b-ed9c5b955dc0">
+<img width="628" alt="Screenshot 2023-08-09 at 10 43 58 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/bbef57c1-fecd-4996-bcc4-e2ad3c50aa7f">
+<img width="917" alt="Screenshot 2023-08-09 at 10 44 30 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/179a0474-63cd-4499-92e7-630cab6fea8b">
 
 
 - **How is the payment linked to the bill?**
