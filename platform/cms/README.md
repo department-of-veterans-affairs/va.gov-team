@@ -65,7 +65,7 @@ Documentation about the CMS lives in various places
 ### CMS Team
 - Erika Washburn, VA Product Owner, Slack `@Erika Washburn`
 - Mike Hollen, Lead Product Manager - Slack `@Mike Hollen`
-- Berni Xiong, Delivery Manager - Slack `@Berni Xiong`
+- Berni Xiong, Senior Delivery Manager - Slack `@Berni Xiong`
 - Eric Oliver, DevOps Lead - Slack `@Eric Oliver`
 - Nate Douglas, Tech Lead - Slack `@Nathan Douglas`
 - Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
@@ -76,7 +76,7 @@ Documentation about the CMS lives in various places
 - Troy Griffin, Helpdesk and Training Manager, Slack `@Troy Griffin`
 
 
-Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/811171875/Both+Teams+Scrum+Notes+May+26+2021+-).
+~~Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/811171875/Both+Teams+Scrum+Notes+May+26+2021+-).~~
 
 Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
