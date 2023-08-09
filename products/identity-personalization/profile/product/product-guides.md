@@ -9,5 +9,6 @@
 |[Va Profile Product Guide v 5.2.1](https://docs.google.com/document/d/1CGkJtItjQAX9yvutpAfHZ65nki9tijgy/edit#heading=h.gjdgxs)| v5.2.1 | Nov 2022 | [#49352](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/49352)| Updates for Account Security - MPI Error Messages [#48501](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/48501)
 |[Va Profile Product Guide v 5.2.2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/59f7c658562a612d7ab5eeb70a1cf8437b8a3e12/products/identity-personalization/profile/product/VAgov.Profile.v5_2_2_.docx)| v5.2.2 | Dec 2022 | [#50686]()| Misc updates for alerts and account security pages|(https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/48501)
 
-[AE Profile Archive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/product/archive)
-[Call Center Archive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Call%20Center)
+
+- [AE Profile Archive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/product/archive)
+- [Call Center Archive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Call%20Center)
