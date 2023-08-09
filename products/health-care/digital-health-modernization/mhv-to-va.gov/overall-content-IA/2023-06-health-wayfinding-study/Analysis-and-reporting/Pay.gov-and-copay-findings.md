@@ -51,8 +51,6 @@ There are multiple starting points that can lead them to check how much they owe
 
 <img width="628" alt="Screenshot 2023-08-09 at 10 43 58 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/bbef57c1-fecd-4996-bcc4-e2ad3c50aa7f">
 
-<img width="917" alt="Screenshot 2023-08-09 at 10 44 30 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/87431fe3-81e8-4511-822c-979e545faba0">
-
 
 - **How is the payment linked to the bill?**
 
@@ -64,4 +62,4 @@ _"I think just the nugget about including a link to your bills on the MHV landin
 From desk research, users can also access copay bills through "Manage VA debt". ? out of ? participants showed interests in the "Manage VA debt" link on My VA at first before clicking on "Manage VA bill". 
 
 <img width="602" alt="Screenshot 2023-08-09 at 11 18 46 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/79404829-4690-4b51-b1d9-948e304cced1">
-
+<img width="917" alt="Screenshot 2023-08-09 at 10 44 30 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/87431fe3-81e8-4511-822c-979e545faba0">
