@@ -32,6 +32,7 @@
 ## Actions
 
 - [ ] Ruchi raise education team's concerns with Chante
+- [ ] Review the list of topics that Lisa shares
 
 ## References
 
