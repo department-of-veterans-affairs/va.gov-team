@@ -30,14 +30,14 @@ We had two sets of data to analyze: observation notes on a Mural board and inter
   10 out of 15 participants thought they were on a different website (not VA.gov). When asked where they were, they were all able to identify the Pay.gov website as their location by pointing out the Pay.gov logo, header, and footer area. The rest of the participants (4 out of 15) all assumed they were still on either VA.gov or My HealtheVet because they were not notified that they were being directed to another website. In other words, they all expect to be notified if they are leaving VA.gov. 
 
   **Quote**
-  _"I would think I'm still on VA.gov. It didn't tell me I was moved (to another website)."_
+  - _"I would think I'm still on VA.gov. It didn't tell me I was moved (to another website)."_
 
   Out of the 10 participants who realized they were on a different website, 6 participants told us how they felt about it. They all expressed some levels of discomfort and lack of confidence in the two websites' transition.
 
    **Quotes**
-  _"It's not the best (feeling), and not the worst. It's weird that I had to come to a different site."_
-  _"This bugs me. It should tell me when I leave VA."_
-  _"I'm always unsure at first, and wondering if it's the right site."_ 
+  - _"It's not the best (feeling), and not the worst. It's weird that I had to come to a different site."_
+  - _"This bugs me. It should tell me when I leave VA."_
+  - _"I'm always unsure at first, and wondering if it's the right site."_ 
   
 - **How do they think about/ understand debt vs. copay?**
 - **How do users know how much to pay?**
