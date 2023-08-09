@@ -45,10 +45,9 @@ We had two sets of data to analyze: observation notes on a Mural board and inter
    10 out of 16 participants found the copay link on My VA. 
 When looking for how much they own to the VA from past health visits, "financial, billing, payment" were mentioned, when presenting
 
-<img width="1147" alt="Screenshot 2023-08-09 at 10 42 56 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/61131258-58ef-4b5d-a03b-ed9c5b955dc0">
+![alt text] <img width="1147" alt="Screenshot 2023-08-09 at 10 42 56 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/61131258-58ef-4b5d-a03b-ed9c5b955dc0">
 <img width="628" alt="Screenshot 2023-08-09 at 10 43 58 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/bbef57c1-fecd-4996-bcc4-e2ad3c50aa7f">
-<img width="917" alt="Screenshot 2023-08-09 at 10 44 30 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/179a0474-63cd-4499-92e7-630cab6fea8b">
-
+<img width="917" alt="Screenshot 2023-08-09 at 10 44 30 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/87431fe3-81e8-4511-822c-979e545faba0">
 
 - **How is the payment linked to the bill?**
 Copay = I think just the nugget about including a link to your bills on the MHV landing page, rather than just a link to where you pay the bill. Came from a comment from only one participant, but seems valuable.
