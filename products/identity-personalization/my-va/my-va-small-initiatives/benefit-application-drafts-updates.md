@@ -56,10 +56,12 @@ This will be a change to both the LOA1 and LOA3 states on My VA.
 ## Screenshots
 
 ### Before
-**LOA1**
+#### LOA1
+
 ![Screenshot 2023-08-09 at 12 24 12 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/d0a404f5-0c0e-46cf-b017-fa016209f8aa)
 
-**LOA3**
+#### LOA3
+
 ![Screenshot 2023-08-09 at 12 21 58 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/7387facf-0391-4fca-900a-64a12df62aa4)
 
 ### After
