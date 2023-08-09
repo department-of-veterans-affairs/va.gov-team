@@ -287,8 +287,7 @@ Say your Veteran family member *(the Veteran you care for)* decides they want to
 
 One of the items is a DD214. If they don't have a DD214, how could you help them get it?
 
-
-- *(Prepare for your visit > Helpful documents)*
+- *(Prepare for your visit > Helpful documents: office can request on your behalf)*
 
 - *[if need prompting...]* 
   - How could you talk to someone? *[in-person / virtual / phone]*
@@ -321,7 +320,7 @@ If you wanted help applying for life insurance through the VA, where would you g
 
 *[Follow-up when they can’t find it:]* Since you didn't find that information on this page, where would you go to find it? 
 
-  - *RECORD what they do: Facility Locator / call--what number? ______________*
+  - *RECORD what they do: Can't find service looking for > call hotline / Find a VA benefits location / ______________*
   
 ### Task 10: [Burial/memorial--accordion opens]
 
@@ -362,7 +361,7 @@ Suppose that you just switched banks, and you want to tell the VA so that any pa
 1. Is there anything else that we haven't talked about that you think I should know? 
 
 I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences. 
-- **Is it OK if we decide to use a recorded clip from our discussion today to share with other VA partners?**
+- **Is it OK if we decide to use a recorded clip from our discussion today to share with other VA partners?** *(yes / no)*
 - *(If participant says yes:)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
 I want to let you know that the prototype I showed you may not be completely accurate about the benefits office it described. We're still working out the details, so I'm going to ask you to **NOT** *rely on the accuracy of the information that you've seen*, in case it's not correct.
@@ -389,4 +388,4 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## Approvals
 - Michelle Middaugh (PO) on TBD
-- VA Research Ops on TBD
+- Robyn Singleton (VA Research Ops) on TBD
