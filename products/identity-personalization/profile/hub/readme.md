@@ -61,7 +61,7 @@ The profile hub serves as a landing page for the VA.gov Profile. It allows users
 
 ## Analytics
 
-- TBD
+- We need new tracking for GA on the profile menu
 
 ## Projects
 
