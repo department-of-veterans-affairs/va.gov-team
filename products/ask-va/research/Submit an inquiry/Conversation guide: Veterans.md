@@ -333,7 +333,7 @@ Okay, let's go ahead and click `Continue`.
 
 > Screen: Review and submit
 
-* Can you tell me what we’re looking at here?
+* Can you describe this page to me?
 * How much longer do you think there is until you're finished with this form?
 
 Let's imagine that you're reading this summary and notice a typo.
