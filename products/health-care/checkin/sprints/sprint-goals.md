@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 8/9/2023 - 8/22/2023 ----------------------- FUTURE / TENTATIVE ---------------------------
+## 8/9/2023 - 8/22/2023 
 #### SPRINT GOALS
 - **GOAL: Comply with ATO**
     - **Sub Goal: Perform Audit & Remove Unused User Accounts**
@@ -76,9 +76,10 @@ ________________________________________________________________________________
 - **GOAL: Address tech & design debt**
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59089)
         - Rolled over, needs more thought
+    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62927)
+        - Blocked by ticket above
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Day-of & Pre-Check-in: Allow Special Characters in Last Name for Identity Verification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63321)
 
------------------------ END FUTURE / TENTATIVE ---------------------------------    
 __________________________________________________________________________________________________________________________________________________________
 
 ## 7/26/2023 - 8/8/2023 
