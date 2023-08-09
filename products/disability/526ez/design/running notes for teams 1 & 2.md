@@ -1,19 +1,19 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
 
-**8/10/23**
+## 8/10/23
 
 Attendees:
 
 Agenda
 - Review and Submit Sketch Updates
 
-**8/3/23- cancelled**
+## 8/3/23- cancelled
 
 Attendees:
 
 Agenda
 - Project Updates
-**7/27/23**
+## 7/27/23
 
 Attendees:Kate, Julie, & Nichole
 
