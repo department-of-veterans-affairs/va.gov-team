@@ -6,6 +6,7 @@ Attendees:
 
 Agenda
 - Review and Submit Sketch Updates
+- Upcoming toxic exposure research
 
 ## 8/3/23- cancelled
 
