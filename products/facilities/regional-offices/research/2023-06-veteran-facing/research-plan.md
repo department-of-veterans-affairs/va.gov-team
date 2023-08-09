@@ -136,9 +136,8 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 
 ### Prepare
 Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Cindy and Alexis are available for a kickoff call during any of these times: 
+- **Aug 21: 12-5 ET**
 - **Aug 22: 12-5 ET**
-- **Aug 23: 12-5 ET**
-- **Aug 24: 12-5 ET**
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
