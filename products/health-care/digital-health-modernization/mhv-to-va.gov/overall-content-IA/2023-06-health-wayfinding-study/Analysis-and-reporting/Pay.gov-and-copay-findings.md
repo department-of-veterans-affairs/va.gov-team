@@ -43,8 +43,9 @@ We had two sets of data to analyze: observation notes on a Mural board and inter
   _Note: "Manage VA debt link" on My VA was not enabled in the prototype. There were 2 failed data collections on this question._
 
    10 out of 16 participants found the copay link on My VA. 
-When looking for how much they own to the VA from past health visits, "financial, billing, payment" were mentioned, when presenting
+When looking for how much they owe to the VA from past health visits, "financial, billing, payment" were mentioned by the participants, and they said they were looking for those terms and expecting links with those terms would lead them to the right place.
 
+There are multiple starting points that can lead them to check how much they owe (see screenshots below). 
 
 <img width="1147" alt="Screenshot 2023-08-09 at 10 42 56 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/61131258-58ef-4b5d-a03b-ed9c5b955dc0">
 
@@ -54,4 +55,13 @@ When looking for how much they own to the VA from past health visits, "financial
 
 
 - **How is the payment linked to the bill?**
-Copay = I think just the nugget about including a link to your bills on the MHV landing page, rather than just a link to where you pay the bill. Came from a comment from only one participant, but seems valuable.
+
+? out of ? participants found the "Manage VA bill" link on My VA, which was the only successful path participants took in this study. Participants who found the "Pay copay bill" link on MHV were confused about how much to pay because the link directly sends them to Pay.gov. 
+
+**Quote**
+_"I think just the nugget about including a link to your bills on the MHV landing page, rather than just a link to where you pay the bill."_
+
+From desk research, users can also access copay bills through "Manage VA debt". ? out of ? participants showed interests in the "Manage VA debt" link on My VA at first before clicking on "Manage VA bill". 
+
+<img width="602" alt="Screenshot 2023-08-09 at 11 18 46 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/79404829-4690-4b51-b1d9-948e304cced1">
+
