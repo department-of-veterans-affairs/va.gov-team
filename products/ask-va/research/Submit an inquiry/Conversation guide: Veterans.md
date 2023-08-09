@@ -142,7 +142,7 @@ Okay, let’s go ahead and click `OPTION THEY CHOOSE` now.
 
 > Screen: Sign in
 
-So, for today, we’re just going to pretend that we’re signing in.
+For today, we’re just going to pretend that we’re signing in.
 
 * Which option do you usually choose to sign in?
 
@@ -160,8 +160,6 @@ Okay, and we'll just click `Sign in` now.
 
 > Screen: Create new question
 
-Okay, now we’re on this page.
-
 * Before we click anything, can you tell me what you would do first on this page?
 
 Okay, let's go ahead and click `Create new question`.
@@ -173,9 +171,7 @@ Okay, let's go ahead and click `Create new question`.
 
 > Screen: Which category best describes your question?
 
-So, first off...
-
-* Based on what you see here, how long do you think this process is going to take?
+* First off, based on what you see here, how long do you think this process is going to take?
 
 And I mentioned earlier that we’re imagining that you want to ask a question about your health care.
 
@@ -243,8 +239,6 @@ Okay, let's go ahead and click `Continue`.
 
 > Screen: Search for your VA Medical Center
 
-Okay, first off...
-
 * Can you tell me what we're looking at on this page?
 * What does it mean `search by name`?
 * Would you be more likely to `search by name` or `search by location`? Why?
@@ -287,7 +281,7 @@ Before we look closely at this page...
 
 * How much longer do you think you have left, to finish submitting your question?
 
-Okay, let's look at this page more closely now.
+Let's look at this page more closely now.
 
 * Can you tell me what you would choose for these questions?
 * Is anything unclear on this page?
@@ -304,9 +298,7 @@ Okay, let's go ahead and click `Continue`.
 
 > Screen: Tell us about the Veteran
 
-Okay, so first off...
-
-* It looks like there is already information about Hector on this page. Where has the information come from? How is it already filled in?
+* First off, it looks like there is already information about Hector on this page. Where has the information come from? How is it already filled in?
 
 Let's pretend like this is your information, instead of Hector's.
 
@@ -378,7 +370,7 @@ Great, thank you. I’m going to ask you to stop sharing your screen now. For th
 
 ## Ongoing or past inquiry - 10 minutes
 
-* Thinking about the process of asking a question, was it shorter or longer than you would have expected?
+* Thinking back on the process of asking a question, was it shorter or longer than you would have expected?
    * Is there anything that could have made it easier?
 * And after you submit an inquiry, what do you expect to happen?
    * Would you like to receive an email or text message?
