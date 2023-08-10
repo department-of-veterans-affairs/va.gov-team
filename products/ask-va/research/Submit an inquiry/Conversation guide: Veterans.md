@@ -228,7 +228,7 @@ For today, I'm just going to give you a topic. Let's say your question is about 
 
 * Can you show me how you would answer the question on this page?
 
-Okay, let's go ahead and click `Continue`.
+Okay, let's go ahead and click `Continue` now.
 
 #### Things to watch for:
 * Do they think it's important to choose the right topic?
@@ -239,17 +239,25 @@ Okay, let's go ahead and click `Continue`.
 
 > Screen: Search for your VA Medical Center
 
-* Can you tell me what we're looking at on this page?
+* Can you tell me what we're looking at now?
 * What does it mean `search by name`?
 * Would you be more likely to `search by name` or `search by location`? Why?
 * After you typed in your `name or location`, what would you expect to see on the next page?
 
-We'll pretend like we type in your `name or location.` You can click `search` now.
+We're going to pretend like we're typing in the `name.` You can click the `blank text box` now.
 
-> Screen: List of VA Medical Centers
+So we'll pretend like we live in Atlanta and we're looking for a facility in Atlanta.
 
-* What are we seeing now?
+* Can you show me what you would do next?
+
+Next you can click `ATLANTA VA MEDICAL CENTER`.
+
+* Can you show me what you would do next?
+* Do see the search results? (If they don't scroll down)
 * If this was a list of VA Medical Centers in your area, would you have any issues finding the right one?
+* How would you choose `ATLANTA VA MEDICAL CENTER`? Can you show me?
+
+You can click `ATLANTA VA MEDICAL CENTER` and then `Continue`.
 
 Okay, let's go ahead and click `Continue`.
 
@@ -262,11 +270,15 @@ Okay, let's go ahead and click `Continue`.
 > Screen: Tell us your question
 
 * Okay, what is this asking you to type in?
-  * Do you have any hesitations about freely typing in a question here? 
+  * Do you have any hesitations about typing in your question here?
+* Can you tell me how you would answer this next question?
+   * Can you choose more than 1 option in this list?
 * If you needed to upload a document with your question, can you tell me what you would do first?
    * Are you familiar with uploading a document online?
 
-Okay, let's go ahead and click `Continue`.
+Okay, let's pretend like we filled in our question and click `Continue`.
+
+Now it's filled in. We can click `Continue` again.
 
 #### Things to watch for:
 * Are they hesitant about writing their question free-text?
