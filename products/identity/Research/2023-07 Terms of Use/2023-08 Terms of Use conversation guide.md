@@ -11,7 +11,7 @@
 ### 10-15 min before session: 
 
 - Post in #feedback-backchannel @ team members joining
-   - P# | Identity, Proactive CSP Migration starts in 15 minutes
+   - P# | Identity, Terms of Use starts in 15 minutes
    - In thread post:
 > How to observe or take notes for this session:
 > - Wait in the Zoom waiting room until the participant agrees you may join
@@ -87,13 +87,14 @@ Are you comfortable with that?
    - Any particular reason you use [DEVICE] the most
 - Would you mind telling me what VA services you normally access online or perhaps why you went on to VA.gov most recently.
    - [remember this for later on]
-- Other than the VA, do you sign into other services online? Like a bank or social media?
-- Has another service like a bank or social media ever asked you to agree to terms of use.
-   - [NOTE this is different than cookies, if mentioned try to redirect - this would be only after you sign in]
-   - Do you remember what you thought about or what you did when you saw that come up?
-   - Anything else come to mind when you think about that kind of thing?
-- Do you recall the last time a website or an app asked you to agree to something like that?
+- Other than the VA, do you sign into other services online? Maybe a bank or social media?
+   - Has another service like a bank or social media site ever asked you to agree to thier terms of use.
+   - If you had to explain what is "terms of use" how would you describe it to me if I was a 2nd grader?
+      - [NOTE this is different than cookies, if mentioned try to redirect - this would be only after you sign in]
+- Do you recall the last time a website or an app asked you to agree to a terms of use?
    - Can you explain how that went
+   - Do you remember what you thought about when you saw that come up?
+   - WDo you remember what you did when you saw that come up?
       - [PROMPTS] When did it come up? How much did you read? How much time did you spend from when it came up to clicking past that? Was there any unease or questions that came to mind when you saw this?
 
   
