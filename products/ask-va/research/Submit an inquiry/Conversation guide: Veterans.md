@@ -271,12 +271,13 @@ Okay, let's go ahead and click `Continue`.
 
 * Okay, what is this asking you to type in?
   * Do you have any hesitations about typing in your question here?
-* Can you tell me how you would answer this next question?
-   * Can you choose more than 1 option in this list?
+* Can you show me how you would answer the next question?
 
-Okay, let's pretend like we filled in our question and click `Continue`.
+Okay, so now it looks like we've filled these in.
 
-Now it's filled in. We can click `Continue` again.
+* Do you think you choose more than 1 option for the reason you're contacting the VA?
+
+Alright, next let's click `Continue`.
 
 #### Things to watch for:
 * Are they hesitant about writing their question free-text?
@@ -292,9 +293,9 @@ Before we look closely at this page...
 
 Let's look at this page more closely now.
 
-* Can you tell me what you would choose for these questions?
-* Is anything unclear on this page?
-* Looking at this second question. Can you imagine a scenario where you might choose a different option?
+* Why do you think the VA is asking you these questions?
+* Can you show me what you would choose here?
+* Looking at this second question, can you imagine a scenario where you might choose a different option?
 
 Okay, let's go ahead and click `Continue`.
 
