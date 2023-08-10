@@ -1,6 +1,6 @@
 # Benefits Disability Experience - Product sync 
 
-### Date: Aug 3 2023       
+### Date: Aug 10 2023       
 ### Participants: Austin
 ### Topics Covered:
 - P1 issue
