@@ -52,7 +52,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 - For some participants, at first, there was positive reception when seeing the green checkmark and "You're eligible for a waiver". Then disappointment when reading the fine print. This is an active conversation between VA stakeholders and SMEs and the copy is not final yet. Based on what we tested, it's clear that an automatic decision is unfamiliar and surprising, and also would be very positive. While at the same time, some participants can't believe it since they haven't seen it done before. An email and a letter to confirm and prove this would be helpful. One participant expected automatic approval as she compared it to submitted a form for Travel Pay. As we saw in our last study, the term "waiver" was not understood by all participants.
 
-> Quote (if relevant)
+> "The idea is just a shock, I suppose...like in the more positive sense...I feel like the Veterans Administration, I guess, is becoming a little more sensitive to what the Veterans need now. It's taken a little while, but I mean at least it's coming.
 
 
 **Transition page**
