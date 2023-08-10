@@ -126,7 +126,7 @@ We're not going to click on anything yet, but I'm going to give you a second to 
 
 `B: CONTINUE WITHOUT SIGNING IN`
 
-* What do you expect to happen after you click `OPTION THEY CHOOSE`?
+* What do you expect to happen after you click `continue without signing in`?
 
 Okay, let’s go ahead and click `OPTION THEY CHOOSE` now.
 
