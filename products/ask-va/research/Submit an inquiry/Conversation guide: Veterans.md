@@ -242,13 +242,42 @@ Okay, let's go ahead and click `Continue` now.
 * Can you tell me what we're looking at now?
 * What does it mean `search by name`?
 * Would you be more likely to `search by name` or `search by location`? Why?
-* After you typed in your `name or location`, what would you expect to see on the next page?
+* Can you show me what you would do first?
 
-We're going to pretend like we're typing in the `name.` You can click the `blank text box` now.
+`BY NAME`
 
-So we'll pretend like we live in Atlanta and we're looking for a facility in Atlanta.
+Okay, we're not going to be able to type in this box today. You can go ahead and click in the box and we'll pretend like you started to type in the name of a medical center.
+
+Now we see a list.
+
+Let's pretend like your medical center is `James J. Peters in the Bronx`.
 
 * Can you show me what you would do next?
+
+Now let's click `James J. Peters` in this list.
+
+* Can you show me what you would do next?
+* `If they don't scroll down enough` Do see any search results?
+* If this was a list of VA Medical Centers in your area, how would you choose your medical center from the list?
+
+Next you can click `Continue`.
+
+`BY LOCATION`
+
+Okay, we're not going to be able to type in this box today. You can go ahead and click in the box and we'll pretend like you typed in your zipcode.
+
+* What would you do next?
+
+Now let's click `Search`.
+
+* Can you show me what you would do next?
+* `If they don't scroll down enough` Do see any search results?
+* If this was a list of VA Medical Centers in your area, how would you choose your medical center from the list?
+
+Let's pretend like your medical center is `James J. Peters in the Bronx`.
+
+* Can you show me how you would choose James J. Peters?
+* What would you do next?
 
 Next you can click `ATLANTA VA MEDICAL CENTER`.
 
