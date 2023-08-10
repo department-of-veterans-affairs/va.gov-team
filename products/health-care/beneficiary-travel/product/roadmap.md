@@ -1,25 +1,43 @@
 # Travel Pay Road Map
 
-> WIP
-
 ## Definations
 
 - **Simple Claim** : A round trip claim for a single appointment that a Veteran used their own vehicle to travel to and from. 
+- **Next Step Claim** : A `yet be determined` use case to allow Veterans to submit a more than a Simple claim 
 
-## MVP
+## Completed Summer 2023
 
-- Claims API that can accept a simple claim
-- Integrated expereince to submit with inside the Check In app
-- Able to know the analytics around
- - How many claims are being submitted via the API
- - How many of those claims went into manual review vs auto approved
+- PCI Pilot has concluded. See results in [../discovery/README.md] TL;DR; Success
+- Analytics have been created/reported in the early stages
+- MVP for GET status of a claim has been completed. 
+- Updated the submit endpoint to handle multiple appoinments 
 
-## MVP+1
+## Known issues 
 
-> disclaimer: depending on feedback and research results
+- Performant Sumbit claim is currently still in development
+- There is an Thing of interest happening with Claims being created with a `Payment Facility not verified VAMC` error
+- Claims are being created before appointments are marked complete. This is leading to ever claim to be reviewed by a Travel Clerk.
 
-- Text Veteran a link to submit a claim post appoitment
-- Submit claim after appointment
-- Determine how we can handle eligbility and enrollment status to refine work flow
-- Submit more complex claim that can help the major of Veterans that do not do the simple cliam
-- Check claim status from the API for a Veteran based on ICN / Appt ID
+
+## Next for va.gov focused team 
+
+- Refactor the Travel Pay routes out of the PCI API into their own module
+- Spike: LHDI for a possible solution instead of using vets-api
+- Create an app on VA.gov that allows a Veteran to submit a Simple Claim
+- Expand the experience on VA.gov that allows a Veteran to submit a Next Step Claim
+- Integration with the Appointments team. 
+- Integration with the static BTSSS page on va.gov
+- Create and add any supporting analytics
+
+
+## Next for API focused team 
+
+- Address the [Known Issues](#known-issues) (performant, Payment Facility)
+- Update API to create claims when the appointment is marked complete
+- Create a performant endpoint for determining a Veteran Eligility 
+- Support teams integration with Claims API; including documentation, meetings, etc.
+  - va.gov BTSSS team
+  - Appointments team
+  - Mobile team 
+- Create and add any supporting analytics
+- Aid in creating and delievering on `how to make better claims get processed more efficiently`
