@@ -84,11 +84,4 @@ General q’s:
 - If you could change one small thing, what would you change?
 - Do you have any questions for us at this point?  
 
-
-Interested in feedback/reactions to layout ->  
-
-Broad layout -> don’t understand why laid out way is; why info organized; think Veterans might have hard time finding prev message; scanability issues 
-
-Not interested in color feedback 
-
  
