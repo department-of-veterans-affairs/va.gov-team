@@ -11,7 +11,8 @@
 | --- | ---|
 | Planning | Complete by Aug 4, 2023 |
 | Recrtuiting | Aug 9th-15th 2023 |
-| Pilot | TBD |
+| Pilot | Aug 9 |
+| AT Pilot | Aug 10 |
 | Sessions | Aug 16th - 25th 2023 |
 | Analysis | Aug 26th - Sept 1 2023 |
 

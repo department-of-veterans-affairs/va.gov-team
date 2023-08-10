@@ -1,7 +1,7 @@
 # CIE Accounts
 Accounts realted to the VA check-in experience.
 For full list of team memebers see [team readme](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin#team-members).
-## vets-website github
+## vets-website github (not within ATO boundry)
 The frontend for the patient check-in application and pre-check-in application is located at src/applications/check-in.
 
 ### Location: 
@@ -12,7 +12,7 @@ Platform Team
 
 ### Access:
  - Full team defined by [github team](https://github.com/orgs/department-of-veterans-affairs/teams/patient-check-in)
-## vets-api github
+## vets-api github (not within ATO boundry)
 ### Location: 
 https://github.com/department-of-veterans-affairs/vets-api
 
@@ -22,7 +22,7 @@ Platform Team
 ### Access:
  - Full team defined by [github team](https://github.com/orgs/department-of-veterans-affairs/teams/patient-check-in)
 
-## chip github
+## chip github (code is within ATO boundry)
 The code from this repo is manged here and deployed to AWS via [SAM](https://aws.amazon.com/serverless/sam/)
 
 ### Location: 
@@ -34,7 +34,7 @@ Platform Team
 ### Access:
  - Full team defined by [github team](https://github.com/orgs/department-of-veterans-affairs/teams/patient-check-in)
 
-## cie-staging-scheduler github
+## cie-staging-scheduler github (not within ATO boundry)
 Repo to manage the code for the frontend of the appointment scheduling test tool. A reference to the current AWS lambda code is also managed here but not deployed from this repo. This tool is used to create appointments and manage patient attributes in dev and stage vistas.
 ### Location: 
 https://github.com/department-of-veterans-affairs/cie-staging-scheduler
@@ -64,7 +64,7 @@ Write access:
  - ves-envent-bus [github team](https://github.com/orgs/department-of-veterans-affairs/teams/ves-event-bus)
  - vnce-avalanche [github team](https://github.com/orgs/department-of-veterans-affairs/teams/vnce-avalanche)
 
-## VAEC Amazon Web Services (AWS)
+## VAEC Amazon Web Services (AWS) (CHIP Lambdas and LoROTA Dynamo DB within ATO boundry)
 Lambdas for CHIP, and the scheduling tool reside here as well as DynamoDB instances (Lorota)
 
 ### Manged by: 
@@ -79,7 +79,7 @@ Access is provided via elevated access with a Non-mail Enabled Account (NMEA) an
 - Lee Delarm (pending)
 - John Woolschlager
 
-## Veterans-affairs PagerDuty
+## Veterans-affairs PagerDuty (not within ATO boundry)
 https://veterans-affairs.pagerduty.com/
 
 ### Managed by:
@@ -95,7 +95,7 @@ TBD
  - Patrick Bateman
  - Stephen Barrs
 
-## DVSA PagerDuty
+## DVSA PagerDuty (not within ATO boundry)
 https://dsva.pagerduty.com/
 
 ### Managed by:
@@ -112,7 +112,7 @@ TBD
  - Lori Pusey
  - Stephen Barrs
 
-## Google Analytics
+## Google Analytics (not within ATO boundry)
 
 ### Managed by:
 Platform analytics team
@@ -123,7 +123,7 @@ Platform analytics team
  - Lori Pusey
  - John Woolschlager
 
-## SMS batch processing tool
+## SMS batch processing tool (not within ATO boundry)
 https://r01fd.r01.med.va.gov/smsbatch
 
 ### Managed by:
@@ -133,7 +133,7 @@ Andy McCarty (william.mccarty@va.gov)
  - Brian Seek
  - John Woolschlager
 
- ## Sketch
+ ## Sketch (not within ATO boundry)
 
  ### Managed by:
  TBD
@@ -141,7 +141,7 @@ Andy McCarty (william.mccarty@va.gov)
  ### Access:
  - Full team
 
-## Feature toggle access
+## Feature toggle access (not within ATO boundry)
 https://api.va.gov/flipper/features
 https://staging-api.va.gov/flipper/features
 
@@ -161,3 +161,12 @@ These three emails were removed form this list as part of this audit:
 - dan.goodwin@civicactions.com
 - corey.parker@gcio.com
 - julie.adair@agile6.com
+
+ ## Mural (not within ATO boundry)
+
+ ### Managed by:
+ OCTO PO via DOTS request
+
+ ### Access:
+ - Ben Brasso
+ - Lori Pusey

@@ -1,5 +1,19 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Aug 10 2023       
+### Participants: 
+### Topics Covered:
+- P1 issue
+   - Do we roll back the ITF msg after the traffic volume goes down after Aug 10?
+   - Do we need any further work on file size for upload or does 99 MB per upload stand?
+- Toxic Exposure 
+   - Research planned for the week of Aug 21
+   - Start work on mock-ups and plan the build
+- ITF LH migration roll-out
+  - 1-5 user test starting this sprint
+  - next would be .5% rollout
+- Question from David R re status of Landing page work?
+  
 ### Date: Aug 3 2023       
 ### Participants: Austin
 ### Topics Covered:

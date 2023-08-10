@@ -5,15 +5,15 @@
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist)
 - Review VA Platform's [Accessibility Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-assistive-technology-sessions)
 - Complete any project-specific setup tasks for this study
-   - Set up note-taking [in Mural](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
+   - Set up note-taking [in Mural](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1690215396309/04dee4d029baa5e33c00b53d58be3540db30f4b5?sender=u6c46f747a0483ea836054483)
    - Practice assistive tech sessions
-   - Check that [the screen reader prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31&show-proto-sidebar=1) is working
+   - Check that [the screen reader prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31) is working
 
 
 ### 10-15 min before session: 
 
 - Post in #feedback-backchannel @ team members joining
-   - P# | Identity, Proactive CSP Migration starts in 15 minutes
+   - P# | Identity, Terms of Use starts in 15 minutes
    - In thread post:
 > How to observe or take notes for this session:
 > - Wait in the Zoom waiting room until the participant agrees you may join
@@ -25,18 +25,17 @@
 ### 5-10 min before session:
 
 - Sign onto Perigean Zoom session
-- Admit the session’s notetaker and a11y specialist
+- Admit the session’s notetaker
 - Check Settings
    - Bottom tool bar > Screen Share "^" up arrow > Advanced Sharing Options > who can share > All Participants
    - Bottom tool bar > Participants window > More > Make sure Play join/leave sound is OFF (should be by default)
       - Also make sure that waiting room is on (should be by default)
    - Change Zoom name from "facilitator" to your name
-- Open standalone browser tab to [the screen reader prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31&show-proto-sidebar=1) is working
- and save link in slack so ready to paste
 - Do Not Disturb ON so no notifications from your devices
    - Mute your Slack notifications
 - Make sure everyone is muted except moderator (me) and the participant
-- Check you are logged out of Zoom on your phone
+- Have link to prototype handy later in session
+   - [screen reader prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31)
 
 
 ## Starting the Session | 10 minutes
@@ -95,14 +94,16 @@ Are you comfortable with that?
    - Any particular reason you use [DEVICE] the most
 - Would you mind telling me what VA services you normally access online or perhaps why you went on to VA.gov most recently.
    - [remember this for later on]
-- Other than the VA, do you sign into other services online? Like a bank or social media?
-- Has another service like a bank or social media ever asked you to agree to terms of use.
-   - [NOTE this is different than cookies, if mentioned try to redirect - this would be only after you sign in]
-   - Do you remember what you thought about or what you did when you saw that come up?
-   - Anything else come to mind when you think about that kind of thing?
-- Do you recall the last time a website or an app asked you to agree to something like that?
+- Other than the VA, do you sign into other services online? Maybe a bank or social media?
+   - Has another service like a bank or social media site ever asked you to agree to thier terms of use.
+   - If you had to explain what is "terms of use" how would you describe it to me if I was a 2nd grader?
+      - [NOTE this is different than cookies, if mentioned try to redirect - this would be only after you sign in]
+- Do you recall the last time a website or an app asked you to agree to a terms of use?
    - Can you explain how that went
-      - [PROMPTS] When did it come up? How much did you have the screen reader go through? How much time did you spend from when it came up to clicking past that? Was there any unease or questions that came to mind when this came up?
+   - Do you remember what you thought about when you saw that come up?
+      - [PROMPTS] Did you have any questions when this came up? Any unease or maybe it made you feel better to see it?
+   - Do you remember what you did when you saw that come up? 
+      - [PROMPTS] When did it come up? How much did you have the screen reader go through? How much time did you spend from when it came up to clicking past that? 
   
 ## Round 2, Task - Prototype | 30 minutes
 - Ok so now I’d like to bring up the prototype design. Just a quick reminder that this is not real but a design that we are thinking about using. Also because it is not the VA.gov, it will act differently than you may be used to. For example, we haven't had the chance at this point to fully code things like headings, so those will announce as text. It means that you won't be able to navigate that way right now, but that you'll have to tab through each element on the page for today.
@@ -112,14 +113,14 @@ Are you comfortable with that?
 - Ok I’m going to send you a link to a webpage. I can send that through the Zoom application chat if that works for you.
    - If you’d prefer another method, let me know.
 -[SEND LINK BY PREFERRED METHOD]
-   - [Screen reader prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31&show-proto-sidebar=1)
+   - [Screen reader prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31)
 - Let me know if you have any issues opening up that link
 - Once you open the link in your web browser, I’ll then ask that in Zoom you select the option to share your screen. If you aren't familiar with that, we can guide you there.
    - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom) 
 - Ok I think we are good to go, so I'll ask you to imagine that you are going onto VA.gov to [DO TASK FROM EARLIER]
 - [SCREEN READER NOTE: participant will have to tab in browser to "skip to content" on Figma page]
    - [Once on the content wait from it to render for screen readers]
-- Now you're best way to navigate on the design will be to use your VO key with the left and right arrow keys.
+- Your best way to navigate on the design will be to use your VO key with the left and right arrow keys.
 - Considering the wonky bits about this page, does this page seem like where you would normally go?
    - [IF normally uses MHV have them imagine they need to sign into VA.gov for another reason]
 - Would you normally sign in first thing before getting started?
@@ -141,28 +142,29 @@ Are you comfortable with that?
 - Ok so if you feel like you have the information you need from this page, what would you do next? DONT DO IT YET!
    - When a Terms of Use comes up on a website other than VA, have you taken the same action there?
    - Do you consider the terms of use here on the VA in the same way as you would on another sites? 
-- How much do you feel like the VA terms of use applies to you?
-- How meaningful is the VA terms of use of the information on this page to you?
-- Does this information change how much you trust your online interactions with the VA?
-- Is there any information that you’d want that you don’t find here?
+- Is their any value to you in a terms of use like this page?
+   - [PROMPT] like do you feel like you get anything out of it?
+- Does this terms of use or the information on this page affect your trust with the VA?
+   - Does it affect any feelings of security or insecurity you may have around interacting with the VA online?
 <br>
 
 - On other websites when something like this has come up, do you usually accept the terms or would you decline? [TRY TO redirect if talks about cookies]
 - How strongly do you generally feel about [ACCEPTING or DECLINING] the terms of use on a website?
    - Has there ever been a time when you didn’t agree to these types of terms on a website or app?
       - Can you tell me more about that?
+      - What would you generally expeect to happened when you didn't agree to a website's term of use agreement?
    - For a website or app you use regularly, have you noticed a time recently when they said they updated their terms and you have to review them and agree to them again?
       - How did you react to that?
-- [IF HAVENT DISCUSSED THE accordian items] Let’s pretend you wanted to read through all the information here, how would you do that?
-- Let’s pretend you didn’t want to agree to these terms here, at least right now. What would you do?
+- [IF HAVENT DISCUSSED THE accordian items] Let’s pretend you wanted to read through all or some of the information here, can you take me through a little bit of that?
+- Let’s pretend you didn’t want to agree to these terms here, at least not right now. What would you do?
 - [GUIDE PARTICIPANT TO BOTTOM of page, if they haven't made it there yet]
 - This might sound a little silly, but can you give me your definition of “accept”
    - And what about your definition of "decline"?
    - We have “accept” and “decline” buttons here. Would it change anything for you if we renamed the decline button to “not accept”? Meaning the options are accept and not accept.
       - [IF Participant is feeling the vocab discussion, can also ask about “reject” and “refuse” and also about having the buttons simply say "yes" or "no"]
 - Let assume you’d select “accept” - don’t actually do it yet - what would you expect to happen next?
-   - Let’s say the lawyers get together again and decide something needed to change here on this terms of use. If a change happened would you expect to get something like this full page about it again?
-      - Would you want to know about the update?
+   - Let’s say the lawyers get together again and decide something needed to change here on this terms of use. If a change happened how would you expect to hear about it? Maybe get something like this page about it again?
+      - What would you want to know about the update?
       - Would it make a difference if it was a smaller change vs a larger change? 
 - Now let’s assume you’d select “decline” - don’t actually do it yet - what would you expect to happen?
    - Go ahead and select “decline”

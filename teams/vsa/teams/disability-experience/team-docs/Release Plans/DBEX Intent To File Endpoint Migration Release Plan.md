@@ -62,9 +62,11 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 
 ### Canary
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63007
-- [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
+- [x] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles:
-    - John Doe
+    - Robin Garrison @Robin Garrison
+    - Mike Richards @Mike Richard
+    - Rocio De Santiago @Rocio De Santiago - Coforma
 - [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
         - [ ] Note the date, start, and end time:
@@ -76,6 +78,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
             3. ...
             4. Verify the legacy use case, making sure a user that has an ITF created via EVSS is still able to access LH
             5. If the above fails, may indicate issues with LH implementation
+        - [x] Record testing steps in TestRail
         - [ ] Share testing steps with each user
 - [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
 - [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))

@@ -1,4 +1,4 @@
-# Research Plan for Usability Testing, VBA Facility pages Veteran-Facing, June 2023
+# Research Plan for Usability Testing, VBA Facility pages Veteran-Facing, August 2023
 
 ## Background
 
@@ -146,7 +146,7 @@ We will schedule two **pilot tests**:
 - Pilot 2: **TBD ET** with TBD (TBD.us)
 
 ### Research sessions
-* Planned dates of research: **Aug 29 - Sept 1, 5, and 11-12** 
+* Planned dates of research: **Aug 29 - Sept 1, 5, 11, and 12** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 

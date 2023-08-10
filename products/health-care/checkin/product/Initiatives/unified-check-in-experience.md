@@ -44,7 +44,7 @@ The following changes, as compared to historical levels, will serve as key perfo
 ### Initiative Rollout
 We will be implementing this initiative using the following releases:
 - Release 1 
-     - Check-in 45 min text message
+     - Send out 45-minute Check-in Text Reminder with Check-in Link
 - Release 2 [(Wireframes (Sketch))](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/F05730C4-9E76-4B1D-AEA0-63CEC7E61175/canvas)
     - Update Pre-Check-in text message
     - Update heading & body text on Login page for Pre-Check-in & Check-in
