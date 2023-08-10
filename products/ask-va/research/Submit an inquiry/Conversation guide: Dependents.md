@@ -2,15 +2,16 @@
 
 Ask VA Integration Team, July 2023
 
-Last updated by @tygindraux: July 25, 2023
+Last updated by @tygindraux: August 10, 2023
 
 ## Moderator logistics
 
 ### 2-3 days before the session
 
-- [ ] Review VA Platform's Research Checklist
-- [ ] Review guidelines for moderating
-- [ ] Review research plan, conversation guide and prototype
+- [ ] Review [VA Platform's Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist)
+- [ ] Review [guidelines for moderating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Guidelines/Guide%20to%20moderating.md)
+- [ ] Review [research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md)
+- [ ] Review prototype
 
 ### Day of the session
 
@@ -64,8 +65,8 @@ Now before we get started, there are a few other things I want to mention:
 ## Agenda - 60 minutes
 
 * Warm up - 5 minutes
-* Submit an inquiry - 35 minutes
-* Ongoing or past inquiry - 15 minutes
+* Submit an inquiry - 40 minutes
+* Review an ongoing/past inquiry - 10 minutes
 * Wrap up - 3 minutes
 * Thank you - 2 minutes
 
@@ -76,7 +77,6 @@ I'd like to start by learning more about your experience with the VA and our onl
 * I understand you’re the dependent of a Veteran, is that correct?
   * How long have you been a dependent?
   * Does the Veteran who you are a dependent of, also have other dependents?
-* And can you confirm whether you’re currently enrolled in VA health care?
 * How often do you go online to use VA services, such as, schedule a medical appointment or check your benefits?
   * Have you ever contacted the VA online or over the phone?
     * `IF NO` Why might you contact the VA?
@@ -107,6 +107,8 @@ Next, I’d like to share some ideas with you so we can get your feedback. In th
     * `IF NO` I’ll walk you through how to do that...
 
 Thanks! Now I’m able to see the prototype too.
+
+## UPDATE FROM HERE!
 
 ### 1: Start page
 
