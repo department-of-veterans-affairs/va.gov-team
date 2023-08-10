@@ -118,7 +118,7 @@ We're not going to click on anything yet, but I'm going to give you a second to 
 
 `A: SIGN IN/CREATE AN ACCOUNT`
 
-* Why would you click sign in/create an account?
+* Why would you click `create account/sign in`?
     * Does it seem like you need to sign in, in order to start?
     * What if you had a question about life insurance instead of health care, would you need to sign in?
     * Remember, today we’re imagining that you have a question about health care. Do you need to sign in?
