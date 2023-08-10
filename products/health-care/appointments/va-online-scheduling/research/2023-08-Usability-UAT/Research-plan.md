@@ -52,13 +52,15 @@ Research goals
 
 The goal of this research is to twofold: verify that logged in Veterans are able to utilize recently added features (UAT) and also to understand their mental models as they navigate through Appointments with the updated navigation and UI chanages (Usability). 
 
-Goal 1: (UAT) Verify that logged in Veterans are able to utilize recently added features.
-- 
-- 
+Goal 1: (UAT) Verify that logged in Veterans are able to utilize recently added features and data is populating as expected.
 
 Goal 2: (Usability) Understand their mental models as they navigate through Appointments with the updated navigation and UI chanages. 
-- 
-- 
+
+### Research questions
+
+1. Are participants able to navigate through the appointments feature? Are there any areas of difficulty? Are the navigation changes displaying correctly?
+2. Are participants able to complete each of the tasks given to them? If not, what went wrong?
+
 ### Outcome
 
 We will use the findings to:
@@ -96,7 +98,9 @@ Remote, over Zoom.
 ### Research materials
 
 For moderated *desktop* usability test 
-- [Conversation guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-08-Usability-UAT/Conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-08-Usability-UAT/Conversation-guide.md)
+- [Observer Signup sheet](https://docs.google.com/spreadsheets/d/1psKVN-csDpXjvwFOEgGBUAdCzaF9M_Ua27pujRqaNzQ/edit?usp=sharing)
+- [Mural board for notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689954776087/f9c46f95011f1ba2bbe090a71496336e8cf98718?sender=ab46bdc2-9241-4530-b4ae-5f5482510528)
 
 Recruitment
 -----------
