@@ -42,4 +42,11 @@ end
  If we aren't using it, perhaps it can be removed.
 
 ## app/uploaders/hca_attachment_uploader.rb
-- **Current coverage** - We have coverage for the `` method, but not for the `uuid` method.
+- **Current coverage** -
+
+- **Potential improvement** -
+
+## lib/hca/military_information.rb
+- **Current coverage** -
+
+- **Potential improvement** -
