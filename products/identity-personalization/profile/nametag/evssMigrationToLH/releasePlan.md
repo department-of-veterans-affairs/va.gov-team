@@ -42,10 +42,10 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 ### Planning
 **Launch Go/No-go:** 
-- [Launch go/no-go conversation]()
+- [Launch go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63199)
 
 **Desired date range:** _TBD_
-- [Launch Ticket]() 
+- [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63159) 
 
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range|
