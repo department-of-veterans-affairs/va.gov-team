@@ -27,8 +27,8 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 |4|Unauthenticated experience / access| Ability to access this featurew without having to go through the login hurdles (if they can get through) and get to the card |Brea | Not Reviewed|
 |5| Digital wallet integration| Ability to store this information with the other digital cards the Veteran has on their device. Also acts like an unauthenticted solution |Binny | Not Reviewed|
 |6|New component| Identified that mobile may need a new component to best facilitate this project which could also includ typography. End of project identified the typography needed but that will be picked up in Personalization project and not in this one |Brea|Not Reviewed|
-|7|VIC blurb regarding how to use it | Provide the Veteran with an understanding on what this is and how to us it. PO deemed not necessary as of now. Has not come up in the 2 reviews |Adam | Reviewed|
-|8|Integration with VIC | Thought is just to implement an existing digital VIC card vs creating something new. Project was original a digital VIC but was later deemed to facilitate the benefits of VIC but not be VIC. Understanding what integration was not feasible at this time |PO deemed not feasible | Closed|
+|7|VIC blurb regarding how to use it | Provide the Veteran with an understanding on what this is and how to us it. PO deemed not necessary as of now. Has not come up in the 2 reviews as of 8/2 |Adam | Reviewed|
+|8|Integration with VIC | Thought is just to implement an existing digital VIC card vs creating something new. Project was original a digital VIC but was later deemed to facilitate the benefits of VIC but not be VIC. Understanding what integration was not feasible at this time. Ceating a ‘competitor’ to the VIC could anger certain stakeholders. Need to ensure creating an ID card that is not technically the VIC does not interfere with the VIC law. Surfacing current VIC may not be technically possible and the owning group may not have interest in working with us |PO deemed not feasible | Closed|
 
 
 ### In Scope
@@ -45,6 +45,10 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 ### Risks and Assumptions 
  - Ceating a ‘competitor’ to the VIC could anger certain stakeholders (?)
      - Need to ensure creating an ID card that is not technically the VIC does not interfere with the VIC law
+- Not all facilities have the same requirements to give discounts
+     - Some need disablity rating, some need service connected Y/N, some require id.me integration so no form of id or letter will work, sometimes letters work
+     - Do not have data on the marketplace on how many allow veteran discounts to what form of identification is needed
+     - Not every shop given Veterans discount - dont know the number 
 - Surfacing current VIC may not be technically possible and the owning group may not have interest in working with us
 - If we aren't able to let the 3rd parties who currently accept VIC as a form of proof of Veteran status know that the digital VIC is an official form of Veteran ID, they may not accept it (and Veterans will be angry/disappointed/inconveniences in that moment, but it might also erode trust in VA & the app).
 - We don't currently coordinate with VA comms team when we launch features.
@@ -55,7 +59,7 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 - 3rd parties will accept a Veteran ID card without a photo
 - Not replacing VIC, but providing the same value
 - Stolen valor argument related to Veteran ID card without a picture
-- Creating another unique identification card the Veterans will need to use / understand 
+- Creating another unique identification card the Veterans will need to use / understand
 
 
 ### Team
