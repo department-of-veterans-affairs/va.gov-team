@@ -25,7 +25,8 @@
 
 **<details><summary> Toggle Details </summary>**
 <p>
-profile_lighthouse_rating_info
+
+  `profile_lighthouse_rating_info`
 
 </p>
 </details> 
