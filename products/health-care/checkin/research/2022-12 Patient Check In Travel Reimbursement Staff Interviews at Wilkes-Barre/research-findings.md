@@ -91,7 +91,8 @@ We completed the following in-person research to evaluate Veteran and staff expe
 
 #### Secondary
 7. Staff will think that Veterans don’t understand eCheck-In and think it’s too complicated.
-8. Staff will indicate that Veterans would recommend removing the scanning the QR code and texting VA step of the PCI workflow.
+    - LIKELY TRUE
+9. Staff will indicate that Veterans would recommend removing the scanning the QR code and texting VA step of the PCI workflow.
     - LIKELY TRUE
 10. Staff will think that Veterans would prefer responding to 1 or 2 text messages to check in for their appointments.
     - DEFINITELY TRUE
