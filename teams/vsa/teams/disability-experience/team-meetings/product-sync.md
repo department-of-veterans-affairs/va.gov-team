@@ -12,7 +12,7 @@
 - ITF LH migration roll-out
   - 1-5 user test starting this sprint
   - next would be .5% rollout
--    
+- Question from David R re status of Landing page work?
   
 ### Date: Aug 3 2023       
 ### Participants: Austin
