@@ -36,7 +36,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 **Split reception on the condensed intro page versus the full intro page copy**
 
-- In comparing a lean version with the full version of the intro, preference was equally split. Important to note that participants of the older demographic were more thorough, generally, and preferred the more descriptive page, as did one other participant. The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content and keeping both action links to minimize frustration or drop off.
+- In comparing a lean version with the full version of the intro, preference was equally split. The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content and keeping both action links to minimize frustration or drop off.
 
 > Quote (if relevant)
 
