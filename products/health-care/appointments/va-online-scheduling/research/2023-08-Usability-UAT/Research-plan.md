@@ -1,4 +1,4 @@
-# Research Plan for VAOS Appointments September 2023
+# Research Plan for VAOS Appointments Usability 
 
 
 ## Background
@@ -96,7 +96,7 @@ Remote, over Zoom.
 ### Research materials
 
 For moderated *desktop* usability test 
-- Conversation guide
+- [Conversation guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-08-Usability-UAT/Conversation-guide.md)
 
 Recruitment
 -----------
