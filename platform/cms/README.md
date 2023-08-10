@@ -69,7 +69,7 @@ Documentation about the CMS lives in various places
 - Eric Oliver, DevOps Lead - Slack `@Eric Oliver`
 - Nate Douglas, Tech Lead - Slack `@Nathan Douglas`
 - Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
-- Blake Organ, Content Designer- Slack `@Blake Organ`
+- Blake Organ, Product Designer- Slack `@Blake Organ`
 - Joann Agnitti, Senior Researcher- Slack `@Joann Agnitti`
 - Edmund Dunn, Senior Drupal Developer- Slack `@Edmund Dunn`
 - Stefanie Gray, Helpdesk Manager, Slack `@Stefanie Gray`
