@@ -12,6 +12,9 @@ Platform Team
 
 ### Access:
  - Full team defined by [github team](https://github.com/orgs/department-of-veterans-affairs/teams/patient-check-in)
+#### Changes:
+No changes were deemed necessary during the scope of this audit.
+
 ## vets-api github (not within ATO boundry)
 ### Location: 
 https://github.com/department-of-veterans-affairs/vets-api
@@ -21,6 +24,8 @@ Platform Team
 
 ### Access:
  - Full team defined by [github team](https://github.com/orgs/department-of-veterans-affairs/teams/patient-check-in)
+#### Changes:
+No changes were deemed necessary during the scope of this audit.
 
 ## chip github (code is within ATO boundry)
 The code from this repo is manged here and deployed to AWS via [SAM](https://aws.amazon.com/serverless/sam/)
@@ -33,6 +38,8 @@ Platform Team
 
 ### Access:
  - Full team defined by [github team](https://github.com/orgs/department-of-veterans-affairs/teams/patient-check-in)
+#### Changes:
+No changes were deemed necessary during the scope of this audit.
 
 ## cie-staging-scheduler github (not within ATO boundry)
 Repo to manage the code for the frontend of the appointment scheduling test tool. A reference to the current AWS lambda code is also managed here but not deployed from this repo. This tool is used to create appointments and manage patient attributes in dev and stage vistas.
@@ -64,6 +71,9 @@ Write access:
  - ves-envent-bus [github team](https://github.com/orgs/department-of-veterans-affairs/teams/ves-event-bus)
  - vnce-avalanche [github team](https://github.com/orgs/department-of-veterans-affairs/teams/vnce-avalanche)
 
+#### Changes:
+No changes were deemed necessary during the scope of this audit.
+
 ## VAEC Amazon Web Services (AWS) (CHIP Lambdas and LoROTA Dynamo DB within ATO boundry)
 Lambdas for CHIP, and the scheduling tool reside here as well as DynamoDB instances (Lorota)
 
@@ -78,6 +88,9 @@ Access is provided via elevated access with a Non-mail Enabled Account (NMEA) an
 - Kanchana Suriyamoorthy
 - Lee Delarm (pending)
 - John Woolschlager
+- 
+#### Changes:
+No changes were deemed necessary during the scope of this audit.
 
 ## Veterans-affairs PagerDuty (not within ATO boundry)
 https://veterans-affairs.pagerduty.com/
@@ -95,6 +108,9 @@ TBD
  - Patrick Bateman
  - Stephen Barrs
 
+#### Changes:
+No changes were deemed necessary during the scope of this audit.
+
 ## DVSA PagerDuty (not within ATO boundry)
 https://dsva.pagerduty.com/
 
@@ -111,6 +127,9 @@ TBD
  - Kanchana Suriyamoorthy
  - Lori Pusey
  - Stephen Barrs
+ - 
+#### Changes:
+No changes were deemed necessary during the scope of this audit.
 
 ## Google Analytics (not within ATO boundry)
 
@@ -123,6 +142,9 @@ Platform analytics team
  - Lori Pusey
  - John Woolschlager
 
+#### Changes:
+No changes were deemed necessary during the scope of this audit.
+
 ## SMS batch processing tool (not within ATO boundry)
 https://r01fd.r01.med.va.gov/smsbatch
 
@@ -133,6 +155,9 @@ Andy McCarty (william.mccarty@va.gov)
  - Brian Seek
  - John Woolschlager
 
+#### Changes:
+No changes were deemed necessary during the scope of this audit.
+
  ## Sketch (not within ATO boundry)
 
  ### Managed by:
@@ -140,6 +165,9 @@ Andy McCarty (william.mccarty@va.gov)
 
  ### Access:
  - Full team
+
+#### Changes:
+No changes were deemed necessary during the scope of this audit.
 
 ## Feature toggle access (not within ATO boundry)
 https://api.va.gov/flipper/features
@@ -157,6 +185,7 @@ Moving to gitHub team enabled access https://dsva.slack.com/archives/C03R5SBELQM
 - Kanchana Suriyamoorthy (ksuriyamoorthy@kindsys.us)
 - John Woolschlager (john.woolschlager@va.gov)
 
+#### Changes:
 These three emails were removed form this list as part of this audit:
 - dan.goodwin@civicactions.com
 - corey.parker@gcio.com
@@ -170,3 +199,6 @@ These three emails were removed form this list as part of this audit:
  ### Access:
  - Ben Brasso
  - Lori Pusey
+
+ #### Changes:
+ No changes were deemed necessary during the scope of this audit.
