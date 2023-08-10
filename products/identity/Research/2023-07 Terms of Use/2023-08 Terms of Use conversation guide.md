@@ -4,8 +4,10 @@
 
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 - Complete any project-specific setup tasks for this study (List them below)
-   - Set up note-taking [in Mural](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
-   - Check that [the prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) is working
+   - Set up note-taking [in Mural](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1690215396309/04dee4d029baa5e33c00b53d58be3540db30f4b5?sender=u6c46f747a0483ea836054483)
+   - Check that the prototype is working
+      - [Desktop prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=1-493&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=1%3A493&mode=design)
+      - [Mobile prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=319-274&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=319%3A274&mode=design)
 
 
 ### 10-15 min before session: 
@@ -102,8 +104,8 @@ Are you comfortable with that?
    - [Mobile prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=319-274&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=319%3A274&mode=design)
 - Let me know if you have any issues opening up that link
 - Once you get that up, I’ll also ask that you share your screen
-   - [Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
-   - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom) 
+   - [[Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)]
+   - [[Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)]
 - Ok so let’s imagine that you are going onto VA.gov to [DO TASK FROM EARLIER]
 - Does this page look like where you would normally go?
    - [IF normally uses MHV have them imagine they need to sign into VA.gov for another reason]
