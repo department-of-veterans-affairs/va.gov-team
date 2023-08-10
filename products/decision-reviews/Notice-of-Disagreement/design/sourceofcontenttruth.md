@@ -24,16 +24,17 @@ Primary Button: **Sign in to start your request**
 ### 1. Check to be sure you can request a Board Appeal
 You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
 
-**If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+If our decision involves a **contested claim**, the Board must receive your completed form within **60 days** from the date listed on your decision notice. A contested claim is when multiple people are claiming the right to a benefit that only one party has a right to.
 
-**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
-- Within 60 days from the date on the SSOC letter, **or**
-- Within 1 year of the decision date by the agency of original jurisdiction
+If you have a **Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC)** from the old appeals system dated on or after **February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+- Within **60 days** from the date on the SSOC letter, **or**
+- Within **1 year** of the decision date by the agency of original jurisdiction
 
 You can request a Board Appeal for these claim decisions:
 - An initial claim
 - A Supplemental Claim
 - A Higher-Level Review
+
 **Note:** You can’t request a Board Appeal if you’ve already requested one for this same claim.
 
 ### 2. Gather your information
@@ -104,16 +105,17 @@ Action Link: **[Sign in to start your request](https://staging.va.gov/decision-r
 ### 1. Check to be sure you can request a Board Appeal
 You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
 
-**If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+If our decision involves a **contested claim**, the Board must receive your completed form within **60 days** from the date listed on your decision notice. A contested claim is when multiple people are claiming the right to a benefit that only one party has a right to.
 
-**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
-- Within 60 days from the date on the SSOC letter, **or**
-- Within 1 year of the decision date by the agency of original jurisdiction
+If you have a **Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC)** from the old appeals system dated on or after **February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+- Within **60 days** from the date on the SSOC letter, **or**
+- Within **1 year** of the decision date by the agency of original jurisdiction
 
 You can request a Board Appeal for these claim decisions:
 - An initial claim
 - A Supplemental Claim
 - A Higher-Level Review
+
 **Note:** You can’t request a Board Appeal if you’ve already requested one for this same claim.
 
 ### 2. Gather your information
@@ -274,12 +276,14 @@ Your application will be saved on every change. Your application ID number is XX
 
 You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
 
-**If our decision involves a contested claim,** the Board must receive your completed form within 60 days from the date listed on your decision notice. A contested claim is when a favorable claim decision for one person results in denial or reduced benefits for another person.
+#### You have a contested claim
+A contested claim is when multiple people are claiming the right to a benefit that only one party has a right to. If our decision involves a contested claim, the Board must receive your completed form within **60 days** from the date listed on your decision notice. 
 
-**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+#### You have a claim from the old appeals system
+If you have a **Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC)** from the old appeals system **dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
 
-* Within 60 days from the date on the SSOC letter, **or**
-* Within 1 year of the decision date by the agency of original jurisdiction
+* Within **60 days** from the date on the SSOC letter, **or**
+* Within **1 year** of the decision date by the agency of original jurisdiction
 
 Please understand that by listing any issues currently pending in the old system, you are specifically opting those issues into the new decision review process if you continue with this submission. We won’t continue to process your appeal in the old system.
 
@@ -496,15 +500,13 @@ Your application will be saved on every change. Your application ID number is XX
 
 Tell us what you disagree with. You can choose more than one.(\*Required)
 
-I disagree with this:
-
 * [ ] The service connection
 * [ ] The effective date of award
 * [ ] Your evaluation of my condition
 
-Something else:
+If you disagree with something other than the list above, tell us what in a few words.
 
- explain in a few words
+* text field (90 characters)
 
 Finish this request later
 
