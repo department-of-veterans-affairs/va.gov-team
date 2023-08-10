@@ -5,9 +5,9 @@
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist)
 - Review VA Platform's [Accessibility Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-assistive-technology-sessions)
 - Complete any project-specific setup tasks for this study
-   - Set up note-taking [in Mural](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1681396854554/ff9d23f8eef22907cccb8d45cf46f81f5686684d?sender=u6c46f747a0483ea836054483)
+   - Set up note-taking [in Mural](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1690215396309/04dee4d029baa5e33c00b53d58be3540db30f4b5?sender=u6c46f747a0483ea836054483)
    - Practice assistive tech sessions
-   - Check that [the screen reader prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31&show-proto-sidebar=1) is working
+   - Check that [the screen reader prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31) is working
 
 
 ### 10-15 min before session: 
@@ -35,8 +35,7 @@
    - Mute your Slack notifications
 - Make sure everyone is muted except moderator (me) and the participant
 - Have link to prototype handy later in session
-   - [Desktop prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=1-493&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=1%3A493&mode=design)
-   - [Mobile prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=319-274&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=319%3A274&mode=design)
+   - [screen reader prototype](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31)
 
 
 ## Starting the Session | 10 minutes
@@ -114,7 +113,7 @@ Are you comfortable with that?
 - Ok I’m going to send you a link to a webpage. I can send that through the Zoom application chat if that works for you.
    - If you’d prefer another method, let me know.
 -[SEND LINK BY PREFERRED METHOD]
-   - [Screen reader prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31&show-proto-sidebar=1)
+   - [Screen reader prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31)
 - Let me know if you have any issues opening up that link
 - Once you open the link in your web browser, I’ll then ask that in Zoom you select the option to share your screen. If you aren't familiar with that, we can guide you there.
    - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom) 
