@@ -37,6 +37,7 @@ The research should answer these questions:
 - Do users understand the concept of toxic exposure? Does the hint content provide them with enough information when the term is unfamiliar?
 - Can users understand the questions and accurately provide answers to those questions?
 - Do users have trouble connecting location questions with date data input on the following screens?
+- Is summarizing the data collected in this subsection useful?
 
 ### Hypotheses
 
