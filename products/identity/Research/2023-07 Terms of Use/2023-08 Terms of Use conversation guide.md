@@ -29,13 +29,10 @@
    - Bottom tool bar > Participants window > More > Make sure Play join/leave sound is OFF (should be by default)
       - Also make sure that waiting room is on (should be by default)
    - Change Zoom name from "facilitator" to your name
-- Open standalone browser tab to [the modal prototype](https://www.figma.com/proto/8vobVoSl1UqLnXsni3rcvO/Login.gov-Adoption%3A-Design-Flows?node-id=1375-5590&scaling=scale-down&page-id=944%3A3979) and save link in slack so ready to paste
 - Do Not Disturb ON so no notifications from your devices
    - Mute your Slack notifications
 - Make sure everyone is muted except moderator (me) and the participant
-- Check you are logged out of Zoom on your phone
-- Have the Zoom meeting ID handy for phone join later in session (it can be found in the cal invite!)
-- Have link to prototype handy for phone join later in session
+- Have link to prototype handy later in session
    - [Desktop prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=1-493&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=1%3A493&mode=design)
    - [Mobile prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=319-274&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=319%3A274&mode=design)
 
@@ -94,7 +91,7 @@ Are you comfortable with that?
 - Do you recall the last time a website or an app asked you to agree to a terms of use?
    - Can you explain how that went
    - Do you remember what you thought about when you saw that come up?
-   - WDo you remember what you did when you saw that come up?
+   - Do you remember what you did when you saw that come up?
       - [PROMPTS] When did it come up? How much did you read? How much time did you spend from when it came up to clicking past that? Was there any unease or questions that came to mind when you saw this?
 
   
@@ -116,7 +113,7 @@ Are you comfortable with that?
    - Which option do you usually choose to sign in here?
    - Ok, for today it won’t matter which you select, they’ll all take you to the same place.
    - We’ll use a fake email and password here, so you can move along through this part.
-- Ok now that you are signed in, can you tell me what about this page?
+- Ok now that you are signed in, can you tell me about this page?
    - [PROMPTS] What did you expect to come up here? 
        - What do you understand this page to mean?
        - Did you know that VA had terms of use?
@@ -126,20 +123,25 @@ Are you comfortable with that?
       - What would make you want to [SKIP PAST or READ THROUGH] this?
          - [IF SKIP] How would you move past this page?
    - Do you consider the terms of use here on the VA in the same way as other sites? 
-- How much do you feel like this applies to you?
-- How meaningful is this information to you?
-- Does this information change how much you trust your online interactions with the VA?
-- Is there any information that you’d want that you don’t find here?
+- Is their any value to you in a terms of use like this?
+   - [PROMPT] like do you feel like you get anything out of it?
+- Does this terms of use or the information on this page affect your trust with the VA?
+   - Does it affect any feelings of security or insecurity you may have around interacting with the VA online?
 <br>
-
+  
 - On other websites when something like this has come up, do you usually accept the terms or would you decline? [TRY TO redirect if talks about cookies]
 - How strongly do you generally feel about [ACCEPTING or DECLINING] the terms of use on a website?
    - Has there ever been a time when you didn’t agree to these types of terms on a website or app?
       - Can you tell me more about that?
+      - What would you generally expeect to happened when you didn't agree to a website's term of use agreement?
    - For a website or app you use regularly, have you noticed a time recently when they said they updated their terms and you have to look at them and agree to them again?
       - How did you react to that?
-- Let’s pretend you wanted to read through all of the information here, how would you do that?
-- Let’s pretend you didn’t want to agree to these terms here, at least right now. What would you do?
+- Let’s pretend you wanted to read through some or all of the information here, can you walk me through that a little bit?
+- If you needed help with the terms of use or with this page, where would you go, who would you turn to?
+- Is there any information that you’d want that you don’t find here?
+<br>
+
+- Let’s pretend you didn’t want to agree to these terms here, at least not right now. What would you do?
 - [GUIDE PARTICIPANT TO BOTTOM of page, if they haven't made it there yet]
    - What would you expect the buttons here to do?
    - This might sound a little silly, but can you give me your definition of “accept”
@@ -147,10 +149,10 @@ Are you comfortable with that?
    - We have “accept” and “decline” buttons here. Would it change anything for you if we renamed the decline button to “not accept”? So the options are accept and not accept.
       - [IF Participant is feeling the vocab discussion, can also ask about “reject” and “refuse” and also about having the buttons simply say "yes" or "no"]
 - Let assume you’d select “accept” - don’t actually do it yet - what would you expect to happen next?
-   - Let’s say the lawyers get together again and decide something needed to change here on this terms of use. If a change happened would you expect to get something like this full page about it again?
-      - Would you want to know about the update?
+   - Let’s say the lawyers get together again and decide something needed to change here on this terms of use. If a change happened how would you expect to hear about it? Maybe get something like this full page about it again?
+      - What would you want to know about the update?
       - Would it make a difference if it was a smaller change vs a larger change?  
-- Now let’s assume you’d select “decline” - don’t actually do it yet - what would you expect to happen?
+- Now let’s assume you’d select “decline” - don’t actually do it yet - what would you expect to happen? 
    - Go ahead and select “decline”
    - What do you think about this information here?
    - What is your understanding of what this page is telling you?
