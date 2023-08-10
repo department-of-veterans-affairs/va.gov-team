@@ -136,18 +136,18 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 ## Timeline
 
 ### Prepare
-Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Cindy and Alexis are available for a kickoff call during any of these times: 
-- **Aug 21: 12-5 ET**
-- **Aug 22: 12-5 ET**
+Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Alexis Logsdon (alexis.logsdon@a1msolutions.com) and Dave Pickett (dave.pickett@civicactions.com) are available for a kickoff call during any of these times: 
+- **Aug 17: 12-5 ET**
+- **Aug 18: 10-5 ET**
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 We will schedule two **pilot tests**:
-- Pilot 1: **TBD ET** with TBD (TBD.us)
-- Pilot 2: **TBD ET** with TBD (TBD.us)
+- Pilot 1: **Aug 22 at time TBD ET** with TBD (TBD.us)
+- Pilot 2: **Aug 23 at time TBD ET** with TBD (TBD.us)
 
 ### Research sessions
-* Planned dates of research: **Aug 29 - Sept 1, 5, 11, and 12** 
+* Planned dates of research: **Aug 28 - Sept 5** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 
@@ -160,20 +160,19 @@ We would like to request that **Perigean calls each participant** to remind them
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Aug 29, 2023 | 12-1, 2-3, 5-6 pm 
-Aug 30, 2023 | 12-1, 2-3, 5-6 pm
-Aug 31, 2023 | 12-1, 2-3, 5-6 pm
-Sept 1, 2023 | 12-1, 2-3, 5-6 pm 
-Sept 5, 2023 | 12-1, 2-3, 4:30-5:30 pm 
-Sept 11, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Sept 12, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Aug 28, 2023 | 10-11, 12-1, 3-4, 5-6 pm 
+Aug 29, 2023 | 10-11, 12-1, 3-4, 5-6 pm 
+Aug 30, 2023 | 10-11, 12-1, 3-4, 5-6 pm 
+Aug 31, 2023 | 10-11, 12-1, 3-4, 5-6 pm 
+Sept 1, 2023 | 10-11, 12-1, 3-4, 5-6 pm  
+Sept 5, 2023 | 10-11, 12-1  
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
-- Moderator: Cindy Merrill (cindy.merrill@adhocteam.us) / Alexis Logsdon (alexis.logsdon@a1msolutions.com)
+- Moderator: Alexis Logsdon (alexis.logsdon@a1msolutions.com) 
 - Research guide writing and task development: Cindy Merrill / Alexis Logsdon
 - Participant recruiting & screening: Perigean	
-- Project point of contact: Cindy Merrill / Alexis Logsdon
+- Project point of contact: Alexis Logsdon
 - Participant(s) for pilot test: TBD and TBD
 - Note-takers: Perigean	(in github)
 - Observers: Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Jane Xiong (jane@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session.
