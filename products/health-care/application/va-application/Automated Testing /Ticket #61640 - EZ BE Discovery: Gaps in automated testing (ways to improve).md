@@ -47,6 +47,6 @@ end
 - **Potential improvement** -
 
 ## lib/hca/military_information.rb
-- **Current coverage** -
+- **Current coverage** - We're only missing one line of code in this file, and it's within a conditonal inside of the `deployed_to?` method.
 
-- **Potential improvement** -
+- **Potential improvement** - We could write a test to confirm that, when the `location['deployment_country_code']` is included in the `countries` param and the `date_range` param overlaps the `location_date_range`, the method returns `true`.
