@@ -273,8 +273,6 @@ Okay, let's go ahead and click `Continue`.
   * Do you have any hesitations about typing in your question here?
 * Can you tell me how you would answer this next question?
    * Can you choose more than 1 option in this list?
-* If you needed to upload a document with your question, can you tell me what you would do first?
-   * Are you familiar with uploading a document online?
 
 Okay, let's pretend like we filled in our question and click `Continue`.
 
@@ -283,7 +281,6 @@ Now it's filled in. We can click `Continue` again.
 #### Things to watch for:
 * Are they hesitant about writing their question free-text?
 * Do they seem surprised or frustrated that it's taken a few steps before they type their question?
-* Does uploading a document seem familiar?
 
 ### 9: Tell us who has a question
 
