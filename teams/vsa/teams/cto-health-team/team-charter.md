@@ -33,9 +33,10 @@ Team Name - Cartographers
 - [ ] Jonathan Nelson (Designer)
 - [ ] Keith Cheung (Designer)
 - [ ] Carlos Felix (Technical Architect)
-- [ ] Eric Voshall (Full stack developer)
-- [ ] Richard Davis (Developer)
+- [ ] Jim Zaccardo (Full stack developer)
+- [ ] Richard Davis (Full stack developer)
 - [ ] Angela Fowler (Accessibilty Specialist)
+- [ ] Sara Sterkenberg (Information Architect)
 
 ---
 
@@ -116,8 +117,8 @@ Assess and update workload for remainder of sprint
 #### Retrospective
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action/improvement items
 
-- Every other Tuesday @ 1:30 PM ET
-- 30 minutes
+- Every other Tuesday @ 2:30 PM ET
+- 60 minutes
 
 #### Team Norms
 - Team crosses all US time zones so core business/meeting hours are 12-4PM ET.
@@ -128,18 +129,18 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
 - We value everyone's wellness and need for a healthy work-life balance.
 - Communication and collaboration
 - Action over discussion
-- Ask for help when needed
+- Ask for help when needed - from your team members as well as OCTO.
 
 ##### Program Meetings
 
 | Meeting | Date | Purpose | Presenter/Lead |
 |-|-|-|-|
-| MHV Scrum of Scrums | Monday (weekly) | Provide MHV on VA.gov updates to all MHV National Portal and MHV app teams. | Lynne; Tom backup |
+| MHV Scrum of Scrums | Monday (weekly) | Provide MHV on VA.gov updates to all MHV National Portal and MHV app teams. | Lynne |
 | VFS Team of Teams | Tuesday (weekly) | Provide MHV on VA.gov updates to all VFS teams | Lynne; Tom backup |
 | MHV on VA.gov Weekly Stand Up | Wednesday (weekly) | Provide MHV on VA.gov updates to all MHV on VA.gov adjacent teams | Patrick; Lynne back up |
 | MHV Weekly Design Review | Wednesday (weekly) | Provide MHV on VA.gov updates (UCD/UX, Developers, Testers, Product, and Stakeholder updates) | Team round robin as needed | 
-| MHV Scrum of Scrums | Thursday (weekly) | Provide MHV on VA.gov updates to all MHV and MHV classic teams. | Lynne; Tom backup |
-| Roadmap Alignment | Monthly | Review Roadmap, clarify priorities, ask questions, make adjustments  | Lynne, Team as needed |
+| MHV Scrum of Scrums | Thursday (weekly) | Provide MHV on VA.gov updates to all MHV and MHV classic teams. | Lynne |
+| Roadmap Alignment | Monthly | Review Roadmap, clarify priorities, ask questions, make adjustments  | Tom, team as needed |
 
 #### Slack:
 - Slack is our primary form of communication outside meetings.  It is encouraged that we communicate in public channels rather than private channels or direct messages, except when necessary.  Please thread your replies, and @ whoever you need to specifically provide info to, or need feedback from.  Channels:
