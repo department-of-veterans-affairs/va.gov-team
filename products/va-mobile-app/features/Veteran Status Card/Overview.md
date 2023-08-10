@@ -21,13 +21,13 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 ### Out of Scope
 |Prioirty # |Idea  | Rationale | Owner |Status|
 |-------|-------|-------|-------|-------|
-|1|Photo of the user's choice||Binny |Not Reviewed|
-|2|Number of years served||Binny | Not Reviewed |
-|3|Export / Print card||Binny / Binny |Not Reviewed|
-|4|Unauthenticated experience / access||Brea |Not Reviewed|
-|5| Digital wallet integration||Binny |Not Reviewed|
-|6|New card component||Brea|Not Reviewed|
-|7|VIC blurb regarding how to use it ||Open Question|Not Reviewed|
+|1|Photo of the user's choice| Reddit feedback (stolen valor) and research on accepting ids for military discount indicate photo is needed. If no photo it may not be accepted or Veteran will need to pull out another photo id to verify |Binny |Reviewed and coded |
+|2|Number of years served| Original ask, but not something we get via APIs so FE would need to calculate. During discussions with PO identified this may not be critical as we could not find data indicating this is needed for a discount|Binny | Not reviewed |
+|3|Export / Print card| Enables ability to access this offline or share the card with a spouse to get the discount when they are not together |Binny / Binny | UX reviewed|
+|4|Unauthenticated experience / access| Ability to access this featurew without having to go through the login hurdles (if they can get through) and get to the card |Brea | Not Reviewed|
+|5| Digital wallet integration| Ability to store this information with the other digital cards the Veteran has on their device. Also acts like an unauthenticted solution |Binny | Not Reviewed|
+|6|New component| Identified that mobile may need a new component to best facilitate this project which could also includ typography. End of project identified the typography needed but that will be picked up in Personalization project and not in this one |Brea|Not Reviewed|
+|7|VIC blurb regarding how to use it | Provide the Veteran with an understanding on what this is and how to us it. PO deemed not necessary as of now. Has not come up in the 2 reviews |Adam | Reviewed|
 |8|Integration with VIC ||PO deemed not feasible | Closed|
 
 
