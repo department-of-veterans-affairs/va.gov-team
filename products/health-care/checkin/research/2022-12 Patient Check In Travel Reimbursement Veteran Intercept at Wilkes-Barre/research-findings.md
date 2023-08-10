@@ -29,6 +29,23 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)]<br>
 
 ## Research Goals
 
+The purpose of this research is to get feedback from Veterans on the new travel reimbursement feature in eCheck-in on ease of use and what, if any, expectations were unmet, specifically around travel reimbursement tasks.
+
+### Research Questions
+
+#### Primary Questions
+1. How easy or difficult is it to file a travel reimbursement claim during check in?
+2. What is the cognitive load needed for Veterans to review and confirm their travel reimbursement claim eligibility?
+3. Is it clear or confusing to check in for an appointment and submit a travel reimbursement claim at the same time?
+4. How well or not so well does filing a travel reimbursement claim during check-in meet Veteran’s expectations?
+5. How easy or difficult is it to understand the status (and associated next steps) of a travel reimbursement claim (whether filed or not) and check-in on the confirmation pages?
+6. What would Veterans change or add, if anything, to improve filing a travel reimbursement claim during check in? E.g., edit the address, upload receipts, file later, etc.
+
+#### Secondary Questions
+7. What’s most confusing or difficult about the mobile check in process (including pre-check-in)?
+8. What would Veterans change or add, if anything, to make the mobile check in process easier?
+8. Would Veterans be more likely to complete mobile check in by responding to 1 or 2 text messages versus the current experience?
+
 <br>
 
 ## Methodology
