@@ -17,13 +17,13 @@ Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)]<br>
 
 **Jump to:**
 
-[Hypotheses and conclusions](link)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre/research-findings.md#hypothesis-and-conclusions)
 
-[Key findings](link)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre/research-findings.md#key-findings)
 
-[Recommendations](link)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre/research-findings.md#recommendations)
 
-[Who we talked to](link)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre/research-findings.md#who-we-talked-to)
 
 <br>
 
