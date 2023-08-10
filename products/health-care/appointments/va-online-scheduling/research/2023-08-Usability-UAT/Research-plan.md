@@ -19,7 +19,7 @@ This research supports the following [OCTO objectives](https://github.com/depart
 Increase 📈
 
 -   Veteran satisfaction with VA.gov: by providing an after visit summary, a print functionality on the appointment list page, and ease of navigation with updated breadcrums.
--   
+
 Decrease 📉
 
 -   Call center volume, wait time, and time to resolution: by providing the right information about appointments when Veterans need it.
