@@ -47,7 +47,7 @@
 - Thank you for joining this session today! I first want to make sure that we're able to hear each other.
 - [WAIT FOR RESPONSE - if can’t hear, [troubleshoot](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr#Troubleshootingresearchsessions-Problem:Usercannothearyou/youcan'thearthemonZoom) otherwise...]
 - Great! I’m [YOUR NAME] and I’m a researcher for VA.gov. We have two other folks on the call right now, but before I allow them to introduce themselves, I want to check in with you on your preference with introductions. For example, we have our videos on at the moment, and we can describe our physical appearance and backgrounds if you’d like. Would you find that helpful?
-[WAIT FOR RESPONSE if wants description then offer yours]
+   - [If wants description then offer yours: like hair length, hair color, eye color, skin tone, other defining feature, and background]
 - I also have [NOTE TAKER NAME] here today to take some notes. I’ll ask them to introduce themself.
    - [PAUSE FOR NOTE TAKER to introduce themself]
 - And also with us today a VA accessibility specialist. I’ll ask they introduce themself now.
@@ -87,7 +87,8 @@ Are you comfortable with that?
 - I understand that you use a screen reader - what app do you use the most for that?
    - [Apple Voice Over, JAWS, NVDA]
 - What would you say your proficiency level is on that screen reader?
-   - [are you a beginner? Used it for several years?]- How do you generally navigate a website when using a screen reader?
+   - [are you a beginner? Used it for several years?]
+- How do you generally navigate a website when using a screen reader?
    - [skip to headers, links, tab through each item?]
 - [SKIP IF already answered or described as 100% blind] When you are accessing a website, how often do you use a screen reader?
 - Thinking about the VA online, do you generally use [DEVICE] most often?
@@ -106,13 +107,14 @@ Are you comfortable with that?
       - [PROMPTS] When did it come up? How much did you have the screen reader go through? How much time did you spend from when it came up to clicking past that? 
   
 ## Round 2, Task - Prototype | 30 minutes
-- Ok so now I’d like to bring up the prototype design. Just a quick reminder that this is not real but a design that we are thinking about using. Also because it is not the VA.gov, it will act differently than you may be used to. For example, we haven't had the chance at this point to fully code things like headings, so those will announce as text. It means that you won't be able to navigate that way right now, but that you'll have to tab through each element on the page for today.
-- Also becuase this is an early draft version and not the real VA.gov, we had to manipulate other things so they'd work with a screen reader. For example, your screen reader might first announce a button or another part of the page but then also call it an image. If you have any questions about anything including what an element is actually supposed to be, please ask, and I can clarify.
+- Ok so now I’d like to bring up the prototype design. Just a quick reminder that this is not real but a design that we are thinking about using. Also because it is not the VA.gov, but an early draft version of a page it will act differently with your screen reader than you may be used to.
+- For example, because things are in a draft format we had to manipulate some elements to work with a screen reader. Headings may announce as text. Some other elements may announce as images, which may seem out of place. Also it means that you won't be able to navigate through headings right now or using the tab key, but that **you'll have to use the VO and forward or back button to move through each element on the page for today.**
+- If you have any questions about anything including what an element is actually supposed to be, please ask, and I can clarify.
 - I know some of this will make it a bit awkward, but remember we aren't testing you, but you are helping us test this new part of the website.
 - Does that seem ok so far?
 - Ok I’m going to send you a link to a webpage. I can send that through the Zoom application chat if that works for you.
    - If you’d prefer another method, let me know.
--[SEND LINK BY PREFERRED METHOD]
+   - [SEND LINK BY PREFERRED METHOD]
    - [Screen reader prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31)
 - Let me know if you have any issues opening up that link
 - Once you open the link in your web browser, I’ll then ask that in Zoom you select the option to share your screen. If you aren't familiar with that, we can guide you there.
