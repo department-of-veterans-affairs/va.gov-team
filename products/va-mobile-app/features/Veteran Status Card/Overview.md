@@ -19,6 +19,8 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 - Veteran can access a digital card in the Flagship mobile app to display to applicable 3rd parties 
 
 ### Out of Scope
+- Items listed out of scope on PO Product Brief but mobile wanted to consider based on discovery and other available data garnered during a couple day discovery period
+
 |Prioirty # |Idea  | Rationale | Owner |Status|
 |-------|-------|-------|-------|-------|
 |1|Photo of the user's choice| Reddit feedback (stolen valor) and research on accepting ids for military discount indicate photo is needed. If no photo it may not be accepted or Veteran will need to pull out another photo id to verify |Binny |Reviewed and coded |
@@ -60,6 +62,7 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 - Not replacing VIC, but providing the same value
 - Stolen valor argument related to Veteran ID card without a picture
 - Creating another unique identification card the Veterans will need to use / understand
+- Going from design to prototype in 2 weeks limits understanding and knowledge of the problem 
 
 
 ### Team
