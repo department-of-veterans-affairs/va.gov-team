@@ -6,6 +6,7 @@ Attendees:
 
 Agenda
 - Review and Submit Sketch Updates
+- Past research on Veteran's submitting at the last moment before ITF deadline? Slack thread: https://dsva.slack.com/archives/C04KW0B46N5/p1690989910234909
 - Error message and analytics tickets
 - Upcoming toxic exposure research
 
