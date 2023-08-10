@@ -8,7 +8,7 @@
 
 ## Summary
 
-The Sign in Service offers a private key JWT flow to allow API authentication and scoped authorization for its clients. In this flow, clients preregister a `ServiceAccountConfig` with SiS that includes their public key & desired scopes, then make a request to the `/token` endpoint with a JWT assertion requesting specific scopes & signed with their private key. SiS validates the JWT against the saved `ServiceAccountConfig`'s public key and scopes, then issues a scoped access token that can be used to access SiS or 3rd-party SiS-client routes.
+The Sign in Service offers a private key JWT flow to allow API authentication and scoped authorization for its clients. In this flow, clients preregister a `ServiceAccountConfig` with SiS that includes their public cert & desired scopes, then make a request to the `/token` endpoint with a JWT assertion requesting specific scopes & signed with their private key. SiS validates the JWT against the saved `ServiceAccountConfig`'s public key and scopes, then issues a scoped access token that can be used to access SiS or 3rd-party SiS-client routes.
 
 ### Sign in Service Postman Collection
 
@@ -16,26 +16,40 @@ The Sign in Service offers a private key JWT flow to allow API authentication an
 
 ## Service Account Config Registration
 
-- A [`ServiceAccountConfig`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/sign_in/service_account_config.rb) must be registered with appropriate SiS environment. The following is a ServiceAccountConfig for a localhost SiS instance:
+- A [`ServiceAccountConfig`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/sign_in/service_account_config.rb) must be registered with appropriate SiS environment. ServiceAccountConfigs have the following attributes:
+
+| attribute | data type | description | sample value |
+| --- | --- | --- | --- |
+| `service_account_id` | uuid | unique identifier for account connection | 9caf51576cd6fe65b662588584ed97b1 |
+| `description` | string | custom text description of account integration | Some Sign in Service Client |
+| `scopes` | array | one or more string URL permissions granted to the client | ['http://localhost:3000/sign_in/client_configs'] |
+| `access_token_audience` | string | URL of the requesting account | http://localhost:4000 |
+| `access_token_duration` | DateTime | duration of access token; maximum of 5 minutes | 5.minutes |
+| `certificates` | array | one or more public certs provided by the client | ["-----BEGIN CERTIFICATE-----\nMIIDAjCCAeoCC..."] |
+
+### Manual Service Account Config Creation
+
+- To register a service account with custom attributes, open a Rails console on the SiS instance you wish to register it on, copy the `service_account_config` below (modified how you wish), then save it to the database with `service_account_config.save`.
 
   ```ruby
   service_account_config = SignIn::ServiceAccountConfig.new({
-    service_account_id: SecureRandom.hex, # unique identifier for account connection
-    description: 'VA Identity Dashboard API', # custom text description of account integration
-    scopes: ['http://localhost:3000/v0/sign_in/client_config'], # array string URL permissions granted to the client
-    access_token_audience: 'http://identity-dashboard-api-dev.vfs.va.gov', # URL of the requesting account
-    access_token_duration: 5.minutes, # duration of access token; maximum of 5 minutes
-    certificates: ["-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA24ECpVAz0UCzL3mYShHVblvJLDPzvC8w7CFU7WQKdJoSU1hDq6ntICrCmTPtjuZ2HD20z9BWeLtfnKvAy8lM7PmChfnXuD/azozJJcgFWSlg0Ii7R7gldiKlNhiNoyvT0bhZoJohKXpfYNlQCtsXEpTZUHb+dIuYR9BgfQt+7FRqpNgpCxGUuHjb29gISNJ0RV4QkPDzuzdLbn7QPL3xPoHaFchl2VJzNK7FittAgOyHakvyqs8RNFmRjZ5PC0i1Wufm0fVJ8/9TsWBaMBhHn7Y9Dto8hrWBdy4WJ1hg1IbldnfD2e1x5QyWBUPOhZFlx2nRpZt62NWKHNoPdL/gWQIDAQAB\n-----END PUBLIC KEY-----"]
-    # an array of one or more public certs provided by the client
+    service_account_id: SecureRandom.hex,
+    description: 'Sample Client API',
+    scopes: ['http://localhost:3000/sign_in/client_configs'],
+    access_token_audience: 'http://localhost:4000',
+    access_token_duration: 5.minutes,
+    certificates: ["-----BEGIN CERTIFICATE-----\nMIIDAjCCAeoCCQCd5yxC1/1eSTANBgkqhkiG9w0BAQsFADBDMQswCQYDVQQGEwJV\nUzEPMA0GA1UECAwGT3JlZ29uMREwDwYDVQQHDAhQb3J0bGFuZDEQMA4GA1UECgwH\nT2RkYmFsbDAeFw0yMzA3MjAxMzM2MTFaFw0yNDA3MTkxMzM2MTFaMEMxCzAJBgNV\nBAYTAlVTMQ8wDQYDVQQIDAZPcmVnb24xETAPBgNVBAcMCFBvcnRsYW5kMRAwDgYD\nVQQKDAdPZGRiYWxsMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw15I\nxiDnedSaypN4J85mpqnW/lEhUVBOab8WH6yHP/TAybwuEA1g5FlvsK+JI8daB9ww\ntj5jEO7lVObrLXDj9n2nvA05UxaoeSihVJcZZyXeqszyceV5Jy19cQFeHQsNCH/f\n2rgWupyCe6UrqK8l9K/F5MILXLoDDKE1a/2mdoWl7dPy9eCBfkuoptKsWp/UYSzE\nUOeveppS+fqvcyoJIRO1vMqt7Lf07RhxmzOEOF71IzxTUDbI/RLgO+LgEHPHOg9J\nW7Tubh0RvKD2W7xqMDQF/81t+Y+LQ8+jnpE/7LUrHWUMmQHd5BXECFoBi/XiR01t\ndcBtKdQfwmRydoPMZQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQC/2iLSxm+0Eehq\ntxZq7h8CMTMuOueLVeTu/UY9zT/juvobTmwgsKqYLmKx4JC7Ioycn7z1diX0LeEV\nECcMV0dIYgNDQ9J1pEVA1GJX72d3za45ZlY9R0tujDD8eynx/rxbimv5KaxmNmBA\na/2qmpxHyy2F4ZjHX4w60CYRVHvqNzSjCUpHkMw+40P89I3YStFhW64i3lpm7YRJ\nAsf3Uq21LI1T9xWECQ6YBDeRHeyn2EOqAYe/xLV23AXP1pID3Mso+KpXch7Nsemc\nKRXpqqNAsSZqbyXm3Wwf5zR7zKwTE2E5UfpQxlcQMFJi6HJKOua/6ujsm9JimNlr\n2FRiU/DM\n-----END CERTIFICATE-----\n"]
   })
-
-  # the same Service Account Config on a single line & without comments
-  service_account_config = SignIn::ServiceAccountConfig.new(service_account_id: SecureRandom.hex, description: 'VA Identity Dashboard API', scopes: ['http://localhost:3000/v0/sign_in/client_config'], access_token_audience: 'http://identity-dashboard-api-dev.vfs.va.gov', access_token_duration: 5.minutes, certificates: ["-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA24ECpVAz0UCzL3mYShHVblvJLDPzvC8w7CFU7WQKdJoSU1hDq6ntICrCmTPtjuZ2HD20z9BWeLtfnKvAy8lM7PmChfnXuD/azozJJcgFWSlg0Ii7R7gldiKlNhiNoyvT0bhZoJohKXpfYNlQCtsXEpTZUHb+dIuYR9BgfQt+7FRqpNgpCxGUuHjb29gISNJ0RV4QkPDzuzdLbn7QPL3xPoHaFchl2VJzNK7FittAgOyHakvyqs8RNFmRjZ5PC0i1Wufm0fVJ8/9TsWBaMBhHn7Y9Dto8hrWBdy4WJ1hg1IbldnfD2e1x5QyWBUPOhZFlx2nRpZt62NWKHNoPdL/gWQIDAQAB\n-----END PUBLIC KEY-----"])
   ```
 
-- To register a service account open a Rails console on the SiS instance you wish to register it on, then copy the above `service_account_config`, modified how you wish, and save it to the database with `service_account_config.save`.
-- Copy the `service_account_id` that you randomly generated or passed in, it will be required in your service account assertion.
-- You will need the private key paired with the public key you registered; the public key in the example above is paired with the [SiS test service account private key](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/fixtures/sign_in/sample_service_account.pem).
+### Seeded Service Account Config Creation
+
+- the `vets-api` development seed file contains a configuration for a Service Account Config similar to the one above; in order to populate it run `rails db:seed` from `vets-api` root and confirm through a rails console or Postgres that the entry was created.
+
+### `service_account_id` & Private Certificates
+
+- Regardless of the source of your Service Account Config, copy the `service_account_id` that you randomly generated or passed in, it will be required in your service account assertion.
+- You will need the private key paired with the public key you registered; the public key in the example above & the development seed config is paired with the [SiS test service account private key](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/fixtures/sign_in/sample_service_account.pem).
 
 ## Service Account Token Request
 
@@ -43,39 +57,52 @@ The Sign in Service offers a private key JWT flow to allow API authentication an
 - The params sent in the request MUST include:
   - `grant_type`: `urn:ietf:params:oauth:grant-type:jwt-bearer`
     - this needs to be URL-encoded if going through a browser: `urn%3Aietf%3Aparams%3Aoauth%3Agrant%2Dtype%3Ajwt%2Dbearer`
-  - `service_account_assertion`: a JWT signed with your private key
+  - `assertion`: a JWT signed with your private key
 
 ### Signed Service Account Assertion
+
+- The signed JWT assertion requesting a Service Account access token has the following attributes:
+
+| attribute | data type | description | sample value |
+| --- | --- | --- | --- |
+| `iss` | string | issuer of Service Account assertion, must matched the saved ServiceAccountConfig `access_token_audience` | http://localhost:40001 |
+| `sub` | string | email of the user requesting the action | vets.gov.user+0@gmail.com |
+| `aud` | string | the SiS token route that is being requested | http://localhost:3000/v0/sign_in/token |
+| `iat` | integer | current time in Unix/Epoch (10 digit) format | 1691702191 |
+| `exp` | integer | assertion should have a 5 minute (300 second) duration | 1691702791 |
+| `scopes` | array | one or more requested scopes, validated against saved ServiceAccountConfig `scopes`| ['http://localhost:3000/sign_in/client_configs'] |
+| `service_account_id` | uuid | unique identifier for account connection | 9caf51576cd6fe65b662588584ed97b1 |
+| `jti` | string | a random identifier that can be used by the client to log & audit their Service Account interactions | '2ed8a21d207adf50eb935e32d25a41ff' |
+
 
 - Create a Service Account assertion payload:
 
   ```ruby
   {
-    "iss": "http://identity-dashboard-api-dev.vfs.va.gov", # issuer of Service Account assertion, must matched the saved ServiceAccountConfig "access_token_audience"
-    "sub": <user_email>, # email of the user requesting the action
-    "aud": "http://localhost:3000/v0/sign_in/token", # the SiS token route that is being requested
-    "iat": <current Unix timestamp>, # current time in Unix/Epoch (10 digit) format
-    "exp": <current Unix timestamp + 300>, # the assertion has a 5 minute duration
-    "scopes": ["http://localhost:3000/v0/sign_in/client_config"], # one or more requested scopes, validated against saved ServiceAccountConfig scopes
-    "service_account_id": <copied_service_account_id>, # the client application's Service Account uuid
-    "jti": SecureRandom.hex # a random identifier that can be used by the client to log & audit their Service Account interactions
+    "iss": "http://localhost:4000",
+    "sub": "vets.gov.user+0@gmail.com",
+    "aud": "http://localhost:3000/v0/sign_in/token",
+    "iat": 1691702191,
+    "exp": 1691702791,
+    "scopes": ["http://localhost:3000/sign_in/client_configs"],
+    "service_account_id": "9caf51576cd6fe65b662588584ed97b1",
+    "jti": "2ed8a21d207adf50eb935e32d25a41ff"
   }
   ```
   
-- Use a [JWT encoding program](https://dinochiesa.github.io/jwt/) to create and encode a JWT assertion signed with the private key that matches the saved ServiceAccountConfig's public key.
-
+- Use a [JWT encoding program](https://dinochiesa.github.io/jwt/) or your Rails console to create and encode a JWT assertion signed with the private key that matches the saved ServiceAccountConfig's public key.
 
 ### Example Request
 
-  ```
-  POST /token HTTP/1.1
-  Host: http://identity-dashboard-api-dev.vfs.va.gov
-  Accept: application/json
-  Content-Type: none
+```
+POST /token HTTP/1.1
+Host: http://identity-dashboard-api-dev.vfs.va.gov
+Accept: application/json
+Content-Type: none
 
-  grant_type=urn:ietf:params:oauth:grant-type:jwt-bearer
-  service_account_assertion=eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwOi8vaWRlbnRpdHktZGFzaGJvYXJkLWFwaS1kZXYudmZzLnZhLmdvdiIsInN1YiI6InZldHMuZ292LnVzZXIrMEBnbWFpbC5jb20iLCJhdWQiOiJodHRwOi8vMTI3LjAuMC4xOjMwMDAvdjAvc2lnbl9pbi90b2tlbiIsImlhdCI6MTY4NzI3ODQzNiwiZXhwIjoxNjg3Mjc5MDM2LCJzY29wZXMiOlsiaHR0cHM6Ly9kZXYtYXBpLnZhLmdvdi92MC9zaWduX2luL2NsaWVudF9jb25maWc6UkVBRCJdLCJzZXJ2aWNlX2FjY291bnRfaWQiOiIzZWQzYzc2OWIxYzZlMDgyM2NlZGI3NDdjOWZlYTFiNSIsImp0aSI6ImRkNjc4OWM0MjFiM2JjMWRlZjgyMjU4MzAzZTI3MzE1In0.qFw-lLPLQW4wx07RtHEFq6hWPf-Ympq40zO8t78sNktd3Dplf_p9Nhu0pSUyHiwrtEfNUregYVPkamEkNWv3--KCtzodpxfoDVwpTVweS2zzfiezBRhmVR6XNSrcE064DfK2mvCQC9FZRoZr3WEPZTX2ZXREiF825Bt2K-PTnJQVwCu_y4qkiPS2Yb9W1pZPHrOoe-HhRwGs7AOiM623z8alvWSIXAwGJWVmWjz_XEcDXyLdDDhafC98UkUUF3euoM183jOpASvuM9PReqLgEl01r-eyXHECvOt8T3yVMUibAjovuiV16MEQrohss9sF2SygP1JfDxmg0nXk4ypgMQ
-  ```
+grant_type=urn:ietf:params:oauth:grant-type:jwt-bearer
+assertion=eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwOi8vaWRlbnRpdHktZGFzaGJvYXJkLWFwaS1kZXYudmZzLnZhLmdvdiIsInN1YiI6InZldHMuZ292LnVzZXIrMEBnbWFpbC5jb20iLCJhdWQiOiJodHRwOi8vMTI3LjAuMC4xOjMwMDAvdjAvc2lnbl9pbi90b2tlbiIsImlhdCI6MTY4NzI3ODQzNiwiZXhwIjoxNjg3Mjc5MDM2LCJzY29wZXMiOlsiaHR0cHM6Ly9kZXYtYXBpLnZhLmdvdi92MC9zaWduX2luL2NsaWVudF9jb25maWc6UkVBRCJdLCJzZXJ2aWNlX2FjY291bnRfaWQiOiIzZWQzYzc2OWIxYzZlMDgyM2NlZGI3NDdjOWZlYTFiNSIsImp0aSI6ImRkNjc4OWM0MjFiM2JjMWRlZjgyMjU4MzAzZTI3MzE1In0.qFw-lLPLQW4wx07RtHEFq6hWPf-Ympq40zO8t78sNktd3Dplf_p9Nhu0pSUyHiwrtEfNUregYVPkamEkNWv3--KCtzodpxfoDVwpTVweS2zzfiezBRhmVR6XNSrcE064DfK2mvCQC9FZRoZr3WEPZTX2ZXREiF825Bt2K-PTnJQVwCu_y4qkiPS2Yb9W1pZPHrOoe-HhRwGs7AOiM623z8alvWSIXAwGJWVmWjz_XEcDXyLdDDhafC98UkUUF3euoM183jOpASvuM9PReqLgEl01r-eyXHECvOt8T3yVMUibAjovuiV16MEQrohss9sF2SygP1JfDxmg0nXk4ypgMQ
+```
 
 ## Service Account Token Response
 
@@ -125,30 +152,44 @@ The Sign in Service offers a private key JWT flow to allow API authentication an
 
 ### Service Account Access Token Validation - Sign in Service
 
-- To test the validity of the Service Account access token against Sign in Service you may use the `client_config` route, which is protected by Service Account authorization.
+- To test the validity of the Service Account access token against Sign in Service you may use the `client_configs` route, which is protected by Service Account authorization.
 
-- Make a request to `<vets-api-environment>/v0/client_config`, passing your access token with either Bearer or token auth:
+- Make a request to `<vets-api-environment>/client_configs`, passing your access token with Bearer auth:
 
   ```bash
-  # Bearer Auth
-  curl http://localhost:3000/v0/sign_in/client_config -v -H "Accept: application/json" -H "Authorization: Bearer <access token>"
-  
-  # Cookie Auth
-  curl http://localhost:3000/v0/sign_in/client_config -v -H "Accept: application/json" --cookie "service_account_access_token=<access token>"
+  curl http://localhost:3000/sign_in/client_configs -v -H "Accept: application/json" -H "Authorization: Bearer <access token>"
   ```
 
 - The URL you request must match the `scopes` of the Service Account access token; they are compared before access is granted.
-- If your access token is accepted then `/client_config` will return a `204 - No Content` response.
+- If your access token is accepted then `/client_config` will return a `200` response with an empty `data` hash.
 
   ```bash
-  * Trying 127.0.0.1:3000...
+  *   Trying 127.0.0.1:3000...
   * Connected to localhost (127.0.0.1) port 3000 (#0)
-  > GET /v0/sign_in/client_config HTTP/1.1
+  > GET /sign_in/client_configs HTTP/1.1
   > Host: localhost:3000
   > User-Agent: curl/7.81.0
-  > Cookie: service_account_access_token=eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjMwMDAvdmFfc2lnbl9pbl9zZXJ2aWNlIiwiYXVkIjoiaHR0cDovL2lkZW50aXR5LWRhc2hib2FyZC1hcGktZGV2LnZmcy52YS5nb3YiLCJqdGkiOiI1MDllZDlkNzYyMzg1ZmRmYzUwMTgwYzRkNjI2ZWVkNSIsInN1YiI6InZldHMuZ292LnVzZXIrMEBnbWFpbC5jb20iLCJpYXQiOjE2ODc4ODYxNjQsImV4cCI6MTY4Nzg4NjQ2NCwidmVyc2lvbiI6IlYwIiwic2NvcGVzIjpbImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC92MC9zaWduX2luL2NsaWVudF9jb25maWciXX0.c4E6x6DmBM7T6YO0lzp51hVD6KJ_wjNDUTx9EzLaAX3kAuSCuBN_7jyaB7pUdJ4RinTPGFGoOsZ_SUSbM7vzJZ0jeAsGwDv7fbeikID7VWaFlACKqZXakmCyooSO8qFfL3WjQRg4mFBoxPNHqxEYa-sPvdUnDw91j1k8jo-ps9msvQXfqVR34_W6DE5yMk9G3cyrfiKv2V1DAGLGr3l3BIbi401dTmJhjX0oMbmT7VyBq-T8zWA3BT_wE9msqTUCaRCwuIEOOp0qi2jZ88BsARMoxMrHyttIuQ2G_81eh02u70QN_5ID9GQf6eAibU3XEkp6bXf3WF73Ocu9G_EanA
   > Accept: application/json
-  > 
+  > Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJ2YS5nb3Ygc2lnbiBpbiIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6NDAwMCIsImp0aSI6IjRkNGE4ZmUyLWJkYjktNGYwZS1iNzcxLWQ3NzNjN2M3YWY1NiIsInN1YiI6InZldHMuZ292LnVzZXIrMEBnbWFpbC5jb20iLCJleHAiOjE2OTE3MTE2NTYsImlhdCI6MTY5MTcxMTM1NiwidmVyc2lvbiI6IlYwIiwic2NvcGVzIjpbImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9zaWduX2luL2NsaWVudF9jb25maWdzIl0sInNlcnZpY2VfYWNjb3VudF9pZCI6IjAxYjhlYmFhYzUyMTVmODQ2NDBhZGU3NTZiNjQ1ZjI4In0.q1Lo3BcJ76jTMRdFYK3TVwX6SzLYlpr3S_R5CxnJb5gI1j5oGfe-dYAGyKle2EtW7PlRT-aaWFz57HiMYUde_Dl1_1mRGB61KyBXz7gk2kLtPExG4GK59wt7WvHUUrAHGkAcMXyjcxnFgTiwZPcCdnjEd-ANqFoiqvP9-CADxpSrEHL-R5tk2jR6jhYEx2lj_ySzRXZAS_aAhx6ynQN_e3mOGekWQ47FDakkab1y0AIcJAMtS3Z2wbwanDfXfbsMEcQqH9iEm6959KboP1sCC4-xxAsuAdrxKD8JrbJO5wyc36GcblafaeQtX0kiHsTb20xc13f9HUBcUhpZO_DdRQ
+
   * Mark bundle as not supporting multiuse
-  < HTTP/1.1 204 No Content....
+  < HTTP/1.1 200 OK
+  < X-Frame-Options: SAMEORIGIN
+  < X-XSS-Protection: 1; mode=block
+  < X-Content-Type-Options: nosniff
+  < X-Download-Options: noopen
+  < X-Permitted-Cross-Domain-Policies: none
+  < Referrer-Policy: strict-origin-when-cross-origin
+  < X-Git-SHA: MISSING_GIT_REVISION
+  < X-GitHub-Repository: https://github.com/department-of-veterans-affairs/vets-api
+  < Content-Type: application/json; charset=utf-8
+  < ETag: W/"8fe32e407a1038ee38753b70e5374b3a"
+  < Cache-Control: max-age=0, private, must-revalidate
+  < X-Request-Id: 5d2f1c92-d7f1-415d-bc82-99a3ebbcf74e
+  < X-Runtime: 0.022570
+  < vary: Accept, Origin
+  < Content-Length: 11
+  < 
+  * Connection #0 to host localhost left intact
+  {"data":[]}%            
   ```
