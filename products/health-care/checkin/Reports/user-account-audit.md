@@ -64,7 +64,7 @@ Write access:
  - ves-envent-bus [github team](https://github.com/orgs/department-of-veterans-affairs/teams/ves-event-bus)
  - vnce-avalanche [github team](https://github.com/orgs/department-of-veterans-affairs/teams/vnce-avalanche)
 
-## VAEC Amazon Web Services (AWS) (Lambdas and Dynamo DB within ATO boundry)
+## VAEC Amazon Web Services (AWS) (CHIP Lambdas and LoROTA Dynamo DB within ATO boundry)
 Lambdas for CHIP, and the scheduling tool reside here as well as DynamoDB instances (Lorota)
 
 ### Manged by: 
