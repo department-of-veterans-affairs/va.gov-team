@@ -1,7 +1,7 @@
 # Benefits Disability Experience - Product sync 
 
 ### Date: Aug 10 2023       
-### Participants: Austin
+### Participants: 
 ### Topics Covered:
 - P1 issue
    - Do we roll back the ITF msg after the traffic volume goes down after Aug 10?
