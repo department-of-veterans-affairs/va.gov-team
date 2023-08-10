@@ -28,7 +28,7 @@ Translation work for FY2024 will focus on [Priority 3](https://github.com/depart
 
 ### Burials and memorials 
 - [Eligibility for burial in a VA national cemetery](https://www.va.gov/burials-memorials/eligibility/) (Word count: 591)
-- [Pre-need eligibility for burial in a VA cemetery](Pre-need eligibility for burial in a VA cemetery ) (Word count: )
+- [Pre-need eligibility for burial in a VA cemetery](https://www.va.gov/burials-memorials/pre-need-eligibility/) (Word count: 1,181)
 - [After you apply for an eligibility determination](https://www.va.gov/burials-memorials/pre-need-eligibility/after-you-apply/) (Word count: 1,039)
 
 ## Priority 4: 
