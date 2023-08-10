@@ -287,7 +287,7 @@ Say your Veteran family member *(the Veteran you care for)* decides they want to
 
 One of the items is a DD214. If they don't have a DD214, how could you help them get it?
 
-- *(Prepare for your visit > Helpful documents: office can request on your behalf)*
+- *(Prepare for your visit > What to bring: office can request on your behalf)*
 
 - *[if need prompting...]* 
   - How could you talk to someone? *[in-person / virtual / phone]*
@@ -330,14 +330,9 @@ If you wanted help applying for life insurance through the VA, where would you g
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
-  - How could you talk to someone? *[in-person / virtual / phone]*
+  - How could you talk to someone? *[in-person only]*
   - Do you need an appointment? *[yes]* 
   - When will you go? *[check office hours for this task specifically]*
-    - *Record any comments about*
-      - *multiple sets of office hours*
-      - *multiple hour blocks per day*
-      - *notes about Thursday closures*
-
   
 ### Task 11: [Direct deposit--accordion doesn't open]
 *(Veteran only)*
@@ -345,7 +340,7 @@ Suppose that you just switched banks, and you want to tell the VA so that any pa
 
 *(If not Veteran but caregiver or family member)* Suppose that your Veteran family member *(the Veteran you care for)* just switched banks, and they want to tell the VA so that any payments they receive will go to the new bank instead of the old one. Could the Boston Regional Office help you do this?
 
-- *(Other services > Direct deposit)*
+- *(Other services > Direct deposit information)*
 
 
 ## Post-Task Interview - 10 minutes
