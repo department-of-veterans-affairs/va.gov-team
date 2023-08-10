@@ -2,7 +2,7 @@
 
 Ask VA Integration Team, August 2023
 
-Last updated by @tygindraux: August 8, 2023
+Last updated by @tygindraux: August 10, 2023
 
 ## Moderator logistics
 
