@@ -1228,27 +1228,69 @@ Page: Spouse’s annual income
 
 [button pair] [<< Back] [Continue >>]
 
+----
 
-URL: health-care/apply/application/##
-Page: Deductible expenses
+#### Page: Deductible expenses
+#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
+
+
 [component progress bar]
 [h2] Step 4 of 6: Household financial information
 [end progress bar]
 
 
-[fieldset legend title] Your deductible expenses in 2021
+[fieldset legend title] Deductible expenses from 2022
 
-[component alert]
-[p] **Note:** We understand in some cases your expenses might be higher than your income. If your expenses exceed your income, we’ll adjust them to be equal to your income. This won’t affect your application or benefits.
+[p] These deductible expenses will lower the amount of money we count as your income.
 
-[END Component alert]
+[legend title] Non-reimbursable medical expenses
+
+[additional info component]
+[add info label] What we consider non-reimbursable medical expenses 
+[add info content]
+[p] Non-reimbursable medical expenses include costs you or your spouse (if you’re married) paid for these types of health care for yourselves, your dependents, or others you have the moral obligation to support:
+[ul]
+- Doctor or dentist appointments
+- Medications
+- Medicare or health insurance
+- Inpatient hospital care
+- Nursing home care 
+
+[p] We only consider expenses non-reimbursable if your health insurance doesn't pay you back for the cost.
+
+[end add info component]
 
 
-[component text input label] Amount you or your spouse paid in non-reimbursable medical expenses this past year.(*Required)
+[component text input label] Enter the amount you or your spouse (if you’re married) paid in non-reimbursable medical expenses in 2022 (*Required)
 
-[component text input label] Amount you paid in funeral or burial expenses for a deceased spouse or child this past year. (*Required)
 
-[component text input label] Amount you paid for anything related to your own college or vocational education this past year.(*Required)
+
+[legend title] College or vocational education expenses
+
+
+[additional info component]
+[add info label] What we consider non-reimbursable medical expenses 
+[add info content]
+[p] College and vocational expenses include payments for these expenses related to your own education: 
+[ul]
+- Tuition
+- Books 
+- Fees 
+- Course materials
+
+[p] Only include expenses for your own education (not your dependents' education).
+
+[end add info component]
+
+
+[component text input label] Enter the amount you paid for your own college or vocational education in 2022 (*Required)
+
+
+[legend title] Funeral and burial expenses for a spouse or dependent child who died 
+[p] Funeral and burial expenses are any payments made by you, like prepaid expenses.
+
+[component text input label] Enter the amount you paid for funeral or burial expenses in 2022 (*Required)
+
 
 
 [button pair] [<< Back] [Continue >>]
