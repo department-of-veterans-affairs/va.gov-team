@@ -28,21 +28,29 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Finding #1: Veterans expect to update their financial information in the profile**
 
-- More details on Finding #1
-- These details could be key words, actions, or test outcomes
+Finding detail
+- 11/12 Veterans said they would expect to update their financial information in the profile.
+- 1/12 Veterans said they would want to update their financial information in My Health.
 
-> Quote (if relevant)
+
+> P2: "I imagine my financial info would be under my profile. It makes sense because it's me and my information."
+
+> P3: "It is just where I know where to go to change my address, so it makes sense to be able to change any other personal information."
+
 
 
 **Finding #2: The line between disability benefits and health care is blurry**
 
-- More details on Finding #2
-- These details could be key words, actions, or test outcomes
+Finding detail
+- 6/12 associate Priority Groups with disability rating
+- 2/12 with appointment availability
+- 1/12 unknown
+- 3/12 - question not asked
 
 > Quote (if relevant)
 
 
-**Finding #3**
+**Finding #3: More explanation needed for Priority Groups**
 
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
@@ -50,15 +58,17 @@ This topline summary is a high level, top of mind summary of trends found in the
 > Quote (if relevant)
 
 
-**Finding #4**
+**Finding #4: Notifications to make financial updates**
 
-- More details on Finding #4
-- These details could be key words, actions, or test outcomes
+How would they want to be notified to update financial information?
+- 7/12 Email
+- 4/12 Notifications (2/4 also mentioned in person appt.)
+- 1/12 letter in mail
 
 > Quote (if relevant)
 
 
-**Finding #5**
+**Finding #5: Desire for more robust online experience**
 
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
