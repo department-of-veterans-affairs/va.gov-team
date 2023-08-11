@@ -69,7 +69,6 @@ This is managed by [the authenticated experience team](https://github.com/depart
 - Add link to Sketch files
    
 ### Before
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/76d5cd22-fab0-4c53-a69e-4d80bb82797a)
 
 ### After
 
