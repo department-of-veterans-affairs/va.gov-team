@@ -32,7 +32,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 _Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
 
-**Finding #1**
+**Finding #1: Veterans expect to update their financial information in the profile**
 
 - More details on Finding #1
 - These details could be key words, actions, or test outcomes
@@ -40,7 +40,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 > Quote (if relevant)
 
 
-**Finding #2**
+**Finding #2: The line between disability benefits and health care is blurry**
 
 - More details on Finding #2
 - These details could be key words, actions, or test outcomes
