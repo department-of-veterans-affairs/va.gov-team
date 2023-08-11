@@ -112,8 +112,8 @@ In order to be able to add email as a channel, we need to do two things: add the
 |-----------|--------------|
 |[Email as a channel epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61101)| |
 |Analytics Dashboard| |
-|[QA Testing]()| |
-| [UAT Go/no-go]() | |
+|[QA Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send/QA)| |
+| [UAT Go/no-go](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62915) | |
 |UAT results||
 |[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/releasePlan/defaultSendReleasePlan.md)||
 
