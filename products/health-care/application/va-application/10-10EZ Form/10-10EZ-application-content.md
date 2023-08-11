@@ -628,9 +628,9 @@ Month Day Year (dropdowns)
 [p] **You may qualify for enhanced eligibility status if you receive any of these benefits:**  
 
 [ul]
-	• 	VA pension 
-	• 	VA service-connected disability compensation 
-	• 	Medicaid benefits
+- VA pension 
+- VA service-connected disability compensation 
+- Medicaid benefits
 [END ul]
 
 [p] **You may also qualify for enhanced eligibility status if you fit one of these descriptions:**
@@ -640,7 +640,10 @@ You received a Purple Heart
 You received a Medal of Honor  
 You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998 
 You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987. 
+
 [END ul]
+[End Additional Info Component]
+
 [button pair] [<< Back] [Continue >>]
 
 ---
