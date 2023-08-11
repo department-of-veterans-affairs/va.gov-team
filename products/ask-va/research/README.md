@@ -7,7 +7,7 @@
 |[Initial desk research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md)|Desk research|June 2023||
 |[Business line engagement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement)|Focus groups|June 2023-Ongoing||
 |[Submit an inquiry](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Submit%20an%20inquiry)|Usability testing|September 2023||
-|[Usability and wayfinding study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Usability%20and%20wayfinding%20study)|Usability testing|TBC November 2023||
+|[Usability and wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Usability%20and%20wayfinding)|Usability testing|TBC November 2023||
 
 <br>
 
