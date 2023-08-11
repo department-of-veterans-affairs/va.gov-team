@@ -25,7 +25,7 @@ Our goal is to **understand which fields are necessary in order for agents to de
 ----
 
 *Graph showing counts of topics and subtopics for VA Health Care:*
-![topic and subtopic count graph](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Question%20protocol/Health%20care/category-topic-subtopic-graph-VA%20Health%20Care.png)
+![topic and subtopic count graph](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Health%20care/category-topic-subtopic-graph-VA%20Health%20Care.png)
 
 ----
 
