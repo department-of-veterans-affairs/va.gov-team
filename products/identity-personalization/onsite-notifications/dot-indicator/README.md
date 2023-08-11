@@ -13,10 +13,10 @@ This is managed by [the authenticated experience team](https://github.com/depart
 
 |Name|Role|Email|
 |----|----|-----|
-|Patrick Bateman| OCTO lead for MHV landing page||
-|Florence McCafferty| Designer for MHV landing page||
-|Rachel Han| OCTO product lead for the mobile app||
-|Ryan Thurlwell|OCTO design lead for the mobile app||
+|Patrick Bateman| OCTO lead for MHV landing page|patrick.bateman@va.gov|
+|Florence McCafferty| Designer for MHV landing page|Florence.McCafferty@agile6.com|
+|Rachel Han| OCTO product lead for the mobile app|RachelXiaolu.Han@va.gov|
+|Ryan Thurlwell|OCTO design lead for the mobile app|ryan.thurlwell@va.gov|
 
 ### Table of Contents
 
