@@ -453,8 +453,6 @@ _When participant clicks on the green button to apply, repeat the scenario:_
 - **After you apply**
     - _Optional: Have them briefly look at page to get their thoughts_ 
 
-[Go to Post-Task Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#post-task-interview---5-10-minutes)
-
 ## Post-Task Interview - 5-10 minutes
 Wonderful! Thank you so much for walking through that with us and telling us your thoughts. We just have a few questions to ask before we wrap up our session for today. 
 - What did you think of the application process overall?
