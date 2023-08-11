@@ -164,7 +164,9 @@ _When participant clicks on the green button to apply, repeat the scenario:_
     - Is there anything that would be helpful to see at this point once you've submitted
     - _Have them click After You Apply link_
 - **After you apply**
-    - _Have them briefly look at page to get their thoughts_
+    - _Optional: Have them briefly look at page to get their thoughts_
+
+[Go to Post-Task Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#post-task-interview---5-10-minutes)
 
 ## Task 2: Applying for Self - Applicant is a non-Veteran - 15 minutes
 
@@ -255,7 +257,9 @@ _When participant clicks on the green button to apply, repeat the scenario:_
     - Is there anything that would be helpful to see at this point once you've submitted
     - _Have them click After You Apply link_
 - **After you apply**
-    - _Have them briefly look at page to get their thoughts_
+    - _Optional: Have them briefly look at page to get their thoughts_
+
+[Go to Post-Task Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#post-task-interview---5-10-minutes)
 
 ## Task 3: Applying for Someone Else - Applicant is a Veteran - 20 minutes
 
@@ -344,7 +348,9 @@ _When participant clicks on the green button to apply, repeat the scenario:_
     - Is there anything that would be helpful to see at this point once you've submitted
     - _Have them click After You Apply link_
 - **After you apply**
-    - _Have them briefly look at page to get their thoughts_
+    - _Optional: Have them briefly look at page to get their thoughts_
+
+[Go to Post-Task Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#post-task-interview---5-10-minutes)
 
 ## Task 4: Applying for Someone Else - Applicant is a non-Veteran - 20 minutes
 
@@ -445,7 +451,9 @@ _When participant clicks on the green button to apply, repeat the scenario:_
     - Is there anything that would be helpful to see at this point once you've submitted
     - _Have them click After You Apply link_
 - **After you apply**
-    - _Have them briefly look at page to get their thoughts_ 
+    - _Optional: Have them briefly look at page to get their thoughts_ 
+
+[Go to Post-Task Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#post-task-interview---5-10-minutes)
 
 ## Post-Task Interview - 5-10 minutes
 Wonderful! Thank you so much for walking through that with us and telling us your thoughts. We just have a few questions to ask before we wrap up our session for today. 
