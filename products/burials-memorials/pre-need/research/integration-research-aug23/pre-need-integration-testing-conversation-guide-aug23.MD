@@ -79,11 +79,11 @@ _**Note:** Each participant will go through **ONE** of the tasks below._
 
 [Go to Task 1: Applying for Self - Applicant is a Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#task-1-applying-for-self---applicant-is-a-veteran---15-minutes)
 
-[Go to Real Cool Heading section](#real-cool-heading)
+[Go to Task 2: Applying for Self - Applicant is a non-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#task-2-applying-for-self---applicant-is-a-non-veteran---15-minutes)
 
-[Go to Real Cool Heading section](#real-cool-heading)
+[Go to Task 3: Applying for Someone Else - Applicant is a Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#task-3-applying-for-someone-else---applicant-is-a-veteran---20-minutes)
 
-[Go to Real Cool Heading section](#real-cool-heading)
+[Go to Task 4: Applying for Someone Else - Applicant is a non-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#task-4-applying-for-someone-else---applicant-is-a-non-veteran---20-minutes)
 
 ## Task 1: Applying for Self - Applicant is a Veteran - 15 minutes
 
