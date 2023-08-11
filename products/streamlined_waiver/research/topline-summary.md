@@ -31,38 +31,38 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 - This is in comparision to our [last study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/research-findings.md) which tested the full FSR path. The streamlined waiver tested in this current study was described as "easy" and "straightforward".
 
-> Quote (if relevant)
+> "It was easy to navigate...it didn't ask a lot of questions and it was quick." -P5
 
 
 **Split reception on the condensed intro page versus the full intro page copy**
 
 - In comparing a lean version with the full version of the intro, preference was equally split. The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content and keeping both action links to minimize frustration or drop off.
 
-> Quote (if relevant)
+> "Other people they may like prefer this version, like they may not like all the extra stuff. But I would prefer the the extra information." -P8
 
 
 **Overall Comprehension**
 
 - The majority of participants understood the purpose of the form, with the exception of 2 participants: one who said she had suffered a stroke that affected her memory, and the other who did not understand the form in the beginning.
 
-> Quote (if relevant)
+> "I think it's very easy to use, like way easy to navigate, and I don't have any issues filling out the form. But I like that the definition of each term, like what you need to fill out." -P8
 
 
 **Confirmation Page and trust**
 
 - For some participants, at first, there was positive reception when seeing the green checkmark and "You're eligible for a waiver". Then disappointment when reading the fine print. This is an active conversation between VA stakeholders and SMEs and the copy is not final yet. Based on what we tested, it's clear that an automatic decision is unfamiliar and surprising, and also would be very positive. While at the same time, some participants can't believe it since they haven't seen it done before. An email and a letter to confirm and prove this would be helpful. One participant expected automatic approval as she compared it to submitted a form for Travel Pay. As we saw in our last study, the term "waiver" was not understood by all participants.
 
-> "The idea is just a shock, I suppose...like in the more positive sense...I feel like the Veterans Administration, I guess, is becoming a little more sensitive to what the Veterans need now. It's taken a little while, but I mean at least it's coming.
+> "The idea is just a shock, I suppose...like in the more positive sense...I feel like the Veterans Administration, I guess, is becoming a little more sensitive to what the Veterans need now. It's taken a little while, but I mean at least it's coming." -P1
 
 
 **Transition page**
 
 - Since the transition page was confusing for some participants, we recommend removing the "next steps" portion as part of the same alert as "skipping ahead" to minimize confusion, and separate different ideas.
 
-> Quote (if relevant)
+> "It sounds like it's telling me that based on my responses that I'm gonna be eligible for a waiver to get the bills taken care of. It's telling me right now that I am eligible for a waiver. So now I'm happy. So now I'm gonna submit. I'll continue." -P4
 
 **The cash on hand question was easily understood by all participants**
 
 - Participants easily understood the "Cash on hand" question and thought it was worded well. 
 
-> Quote (if relevant)
+> "Now cash on hand. Not in my bank. So that's asking, "What's in my pocket right now? What's on me?". Well just say I got $50. Which is pretty easy. I mean, most people would know how much money they have currently on them." -P6
