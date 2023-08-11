@@ -37,11 +37,11 @@ This research supported this goal by:
   - Purpose: To specify the amount of unread/unseen things within a category; To draw attention to new, important content on a page that might otherwise be missed
   - We use the [tag](https://design.va.gov/components/tag) in the VA design system, as well as a dot that is not yet part of the design system.
   - <img width="205" alt="Screenshot 2023-08-11 at 11 52 19 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/4a7f037f-f580-4ac0-bf2d-248f5d597ec8">
-
+<br>
   Tag used in mobile app to denote unread messages
 
   - <img width="755" alt="image (2)" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/ebd5edfd-0531-4b61-9508-b6968fa0d48a">
-
+<br> 
   Dot used in new secure messaging portal on VA.gov to show that there are unread messages in a thread
 
 
