@@ -1,3 +1,16 @@
+# Notification "dot" design intent prep
+## Agenda
+- Cover some context: (2 min)
+  - Notification component recently added to design system (Angela/Auth Exp team and Matt Dingey identified need, collaborated on design)
+  - Why this component is not ideal for the new health landing page (show mock-up)
+- Health landing page use case: (5 min)
+  - Functional description of what is needed and why
+  - Introduce dot and other examples on the site (secure messaging and check claims)
+  - Walk through user flow
+  - (assuming we won't have time to go into testing plan)
+- My VA landing page use case (3 min)
+
+
 # Notification Definitions and UX Principles
 Created in preparation for Design intent: Secure message notification
 
