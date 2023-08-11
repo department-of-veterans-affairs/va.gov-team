@@ -6,4 +6,4 @@
 <br>[UAT](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send/UAT)
 
 
-We're launching the editing as a subtask feature alongside the default send/checkbox UI update to the notification settings.
+We're launching the editing as a subtask feature alongside the default send/checkbox UI update to the notification settings, hence the combined documentation. 
