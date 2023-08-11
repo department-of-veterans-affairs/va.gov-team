@@ -1,11 +1,11 @@
 ## Collaboration Cycle meetings
 Meetings where Facilities team takes work to VA.gov Platform team & CMS Platform team for technical review & feedback
 
-## Midpoint review
+### Midpoint review
 
-## CMS collab cycle - Drupal specs
+### CMS collab cycle - Drupal specs
 
-## CMS collab cycle - Content model
+### CMS collab cycle - Content model
 
 ## VBA Stakeholder meetings
 Meetings where OCTO & Facilities team present to VBA stakeholders to generate buy-in and get feedback
