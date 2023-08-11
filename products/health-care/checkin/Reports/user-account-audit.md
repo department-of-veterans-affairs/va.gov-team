@@ -198,7 +198,17 @@ These three emails were removed form this list as part of this audit:
 
  ### Access:
  - Ben Brasso
+ - Christina Gednalske
+ - Kay Lawyer
+ - Kristen McConnell
+ - Lauren Alexanderson
  - Lori Pusey
+ - Mark Dewey
+ - Patrick Bateman
+ - Kelly Smith
+ - Peter Russo
+ - Stephen Barrs
+ - Zach Park
 
  #### Changes:
  No changes were deemed necessary during the scope of this audit.
