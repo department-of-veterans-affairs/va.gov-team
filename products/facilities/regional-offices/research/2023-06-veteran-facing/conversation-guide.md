@@ -326,7 +326,7 @@ If you wanted help applying for life insurance through the VA, where would you g
 
  If you wanted to honor a Veteran with a medallion on their headstone, could the Boston Regional Office help? 
 
-- *(Family member and caregiver benefits / **Burial and memorials** / __________)*
+- *(Family member and caregiver benefits > Burial and memorials)*
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
