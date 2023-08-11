@@ -675,9 +675,9 @@ You served at least 30 days at Camp Lejeune between August 1, 1953, and December
 [p] We’ll ask for income information from 2022 for you, your spouse (if you’re married), and any dependents you may have.  
 [p]**Here’s what income information you’ll need to fill out this section:**
 [ul]
-Gross annual income from work. Gross income is income before taxes and any other deductions. This includes income from a job like wages, bonuses, tips, and severance pay.  
-Net income from a farm, property, or business. Net income is your income after taxes and deductions are subtracted. 
-Other income you received. This includes things like retirement benefits, unemployment, VA benefit compensation, money from the sale of a house, or interest from investments.
+- Gross annual income from work. Gross income is income before taxes and any other deductions. This includes income from a job like wages, bonuses, tips, and severance pay.  
+- Net income from a farm, property, or business. Net income is your income after taxes and deductions are subtracted. 
+- Other income you received. This includes things like retirement benefits, unemployment, VA benefit compensation, money from the sale of a house, or interest from investments.
 [END ul]
 
 [p] And we’ll ask for you or your spouse’s deductible expenses from 2022.
@@ -685,8 +685,8 @@ Other income you received. This includes things like retirement benefits, unempl
 [p] **Here’s what deductible information you can include in this section:**
 
 [ul]
-Certain health care or education costs
-Funeral or burial expenses for a spouse or dependent child
+- Certain health care or education costs
+- Funeral or burial expenses for a spouse or dependent child
 [END ul]
 
 [p] These deductible expenses will lower the amount of money we count as your income.
@@ -737,11 +737,11 @@ Funeral or burial expenses for a spouse or dependent child
 [END additional information component]
 
 [dropdown options]
-Married
-Never Married
-Separated
-Widowed
-Divorced
+- Married
+- Never Married
+- Separated
+- Widowed
+- Divorced
 
 [button pair] [<< Back] [Continue >>]
 
@@ -767,11 +767,11 @@ Divorced
 
 [component dropdown select] Spouse’s suffix
 [dropdown options]
-Jr. 
-Sr. 
-II 
-III 
-IV
+- Jr. 
+- Sr. 
+- II 
+- III 
+- IV
 
 [component text input label] Spouse’s Social Security number(*Required)
 
@@ -807,13 +807,13 @@ IV
 
 [component radio select label] Did you live with your spouse for all or part of 2022?
 [select options]
-Yes
-No
+- Yes
+- No
 
 [component radio select label] Do you currently have the same address as your spouse? (*Required)
 [select options]
-Yes
-No
+- Yes
+- No
 
 [button pair] [<< Back] [Continue >>]
 
@@ -841,8 +841,8 @@ No
 - One-time payment financial support
 
 [select options]
-Yes
-No
+- Yes
+- No
 
 [button pair] [<< Back] [Continue >>]
 
@@ -878,8 +878,9 @@ No
 
 ---
 
-URL: health-care/apply/application/##
-Page: Add dependents 
+#### Page: Add dependents 
+
+#### URL: health-care/apply/application/household-information-v2/dependents
 
 [component progress bar]
 [h2] Step 4 of 6: Household financial information
@@ -904,22 +905,24 @@ An unmarried child (including adopted children or stepchildren)
 [p] **If your dependent is an unmarried child, one of these descriptions must be true:**
 
 [ul]
-They’re under 18 years old, **or**
-They’re between the ages of 18 and 	23 years old and were attending high school, college, or vocational school full-time or part-time enrolled as a full time student in 2022, **or**
-They're living with a permanent disability that happened before they turned 18
+- They’re under 18 years old, **or**
+- They’re between the ages of 18 and 23 years old and were attending high school, college, or vocational school full-time or part-time enrolled as a full time student in 2022, **or**
+- They're living with a permanent disability that happened before they turned 18
 
 [END ul]
 
  [select options]
-Yes
-No
+- Yes
+- No
 
 [button pair] [<< Back] [Continue >>]
 
+----
 
 
-URL: health-care/apply/application/##
-Page: Dependent’s information (selected YES to dependent question)
+#### Page: Dependent’s information (selected YES to dependent question)
+
+#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
 
 [component progress bar]
 [h2] Step 4 of 6: Household financial information
@@ -935,21 +938,21 @@ Page: Dependent’s information (selected YES to dependent question)
 
 [component dropdown select] Dependent’s suffix
 [dropdown options]
-Jr. 
-Sr. 
-II 
-III 
-IV
+- Jr. 
+- Sr. 
+- II 
+- III 
+- IV
 
 [component dropdown select] What is the dependent’s relationship to you?(*Required)
 [dropdown options]
-Daughter 
-Son 
-Stepson 
-Stepdaughter 
-Father
-Mother 
-Spouse
+- Daughter 
+- Son 
+- Stepson 
+- Stepdaughter 
+- Father
+- Mother 
+- Spouse
 
 [component text input label] Dependent’s Social Security number(*Required)
 
@@ -975,9 +978,11 @@ Spouse
 
 [button pair] [<< Back] [Continue >>]
 
+----
 
-URL: health-care/apply/application/##
-Page: Dependent’s additional information (selected YES to dependent question)
+#### Page: Dependent’s additional information (selected YES to dependent question)
+
+#### URL: health-care/apply/application/##
 
 [component progress bar]
 [h2] Step 4 of 6: Household financial information
