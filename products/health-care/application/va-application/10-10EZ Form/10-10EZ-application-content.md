@@ -973,7 +973,37 @@ An unmarried child (including adopted children or stepchildren)
 
 ----
 
-#### Page: Dependent’s additional information (selected YES to dependent question)
+#### Page: Dependent’s education expenses (Age between 18 and 23)
+
+#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] [FirstName LastName]’s education expenses
+
+
+
+[component radio select label] If your dependent is between 18 and 23 years old, were they enrolled as a  full-time or part-time student in 2022? (*Required)
+[select options]
+- Yes
+- No
+
+[component text input label] Enter the total amount of money your dependent paid for college, vocational rehabilitation, or training (like tuition, book, or supplies) (*Required)
+
+
+
+[button secondary] Cancel adding dependent
+
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+----
+
+#### Page: Dependent’s additional information 
 
 #### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
 
@@ -983,19 +1013,12 @@ An unmarried child (including adopted children or stepchildren)
 
 [fieldset legend title] [FirstName LastName]’s additional information
 
-[component radio select label] Was your dependent permanently and totally disabled before the age of 18? (*Required)
+[component radio select label] Is your dependent living with a permanent disability that happened before they turned 18 years old? (*Required)
 [select options]
 - Yes
 - No
 
-[component radio select label] If your dependent is between 18 and 23 years old, were they enrolled as a full time student in 2022? (*Required)
-[select options]
-- Yes
-- No
-
-[component text input label] Enter the total amount of money your dependent paid for college, vocational rehabilitation, or training (like tuition, book, or supplies) (*Required)
-
-[component radio select label] Did your dependent live with you in 2020? (*Required)
+[component radio select label] Did your dependent live with you in 2022? (*Required)
 [select options]
 - Yes
 - No
@@ -1024,10 +1047,10 @@ An unmarried child (including adopted children or stepchildren)
 
 [fieldset legend title] Financial support for [Dependent’s first last name]
 
-[component radio select label] If your dependent didn’t live with you last year, did you provide any financial support?
+[component radio select label] What we consider financial support for a dependent
 
 [component additional information]
-[label] What we consider financial support
+[label] What we consider financial support for a dependent
 [content] 
 [p] Please count all support contributions even if they weren’t paid in regular and set amounts. Support can include tuition or medical bill payments.
 
