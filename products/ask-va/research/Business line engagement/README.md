@@ -10,7 +10,7 @@ We need to determine which fields are required in order for agents to deliver th
 
 This work involves ongoing technical meetings with the CRM team to determine routing rules and limitations.
 
-## Research Goals
+## Research goals
 * Understand which fields are necessary in order for agents to deliver the service
 * Understand which fields are necessary in order to route queries to the right place
 
