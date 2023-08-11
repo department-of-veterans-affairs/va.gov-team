@@ -2,7 +2,7 @@
 
 **This is a template, PLEASE MAKE A COPY**
 
-# [Research Name] Topline Summary
+# [2023-07 Health care application research study around Priority Groups and Financial Updates] Topline Summary
 
 
 [link research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-plan.md)
