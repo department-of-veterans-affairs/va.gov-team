@@ -49,6 +49,10 @@ Logged-in users have a personalized experience, with relevant and time-saving fe
 Roadmap
 I as a Veteran want to be able to view my VA lab results and test results via my mobile device. 
 
+
+## Recommendation: 
+   Leverage the Lighthouse API to prioritize viewing parsed data that is accessible over downloading the pdf.  If we decide a pdf is important for sharing or other purposes, it wouldn’t be difficult to do both in future iterations 
+
 ### V1
 View results via structured data if possible
 Download if not 
@@ -71,8 +75,18 @@ Would require calling multiple endpoints- potential performance issues depending
 Does not support pdf
 Data is accessible and include translations 
 
-### Recommendation: 
-   Leverage the Lighthouse API to prioritize viewing parsed data that is accessible over downloading the pdf.  If we decide a pdf is important for sharing or other purposes, it wouldn’t be difficult to do both in future iterations 
+### Requirements
+The VA mobile app will display:
+Results from VA ordered labs/tests only (no outside providers, self entered data)
+Data from the LH api
+
+### Out of Scope
+Self entered data 
+
+## Other Information
+
+### Important Links
+
 ### Questions
 Where does the data in labs & tests on MVH come from? 
 LH api
@@ -109,8 +123,6 @@ KR: Fewer clicks than blue button to reach
 David (Boomer) Rawlins is the Product Line Manager for the Health Data Product Line on MHV that Blue Button falls under
 @Bain, Lichelle A. (BYLIGHT) is the analyst for the Health Records Product Line.
  
-
-
 ### Keep informed
   OCC leadership
   Nancy, Theresa, Neil
@@ -121,20 +133,17 @@ David (Boomer) Rawlins is the Product Line Manager for the Health Data Product L
   Consult/collaborate
   Apartment team - Tracey, Meg, Chris F. 
 
-### Requirements
-The VA mobile app will display:
-Results from VA ordered labs/tests only (no outside providers, self entered data)
-Data from the LH api
-
-### Out of Scope
-Self entered data 
-
-### Important Links
-
 ### Veteran feedback from MHV help desk:
 I had a 41 year old Veteran today that was very confused by the Cell phone format of the Lab Tests. He originally was trying to pull it up under Health Records, But I redirected him to the lab/test section.
+
 He does not like that when you pull it up on the phone you have to go to the menu/Track health/Labs and tests. He thinks this is very confusing to find it under track health as to him that should mean Tracking something like BP, etc. When we went into the Lab/test He was very upset since it did not have his test as it was saying Nothing found to display.
+
 At that point he started to push the View more button which of course took him to see No Self Entered test.
+
 I was able to redirect him back to the Lab/test page and explain that he needs to scroll past the Self Entered test to get to the VA Chemistry/Hematology results.
+
 He believes if he is having issues and confusion with this a lot of Veterans must have the same issue.
+
 One suggest that we came up with that may be an easy fix is to list the VA Chemistry/Hematology results first on the cell phone format, then the Self Entered tests. Is this something that can be sent or has been sent as a recommendation?
+
+
