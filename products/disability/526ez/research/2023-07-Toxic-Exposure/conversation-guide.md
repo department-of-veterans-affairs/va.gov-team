@@ -40,13 +40,13 @@ Before we start, a few things I want to mention:
  
 - I have [a few] additional colleagues who would like to listen in to our conversation. **Is that OK with you?**
  
-	- *If no: Use Slack to kindly ask the observers to leave the Zoom.
+	- *If no: Use Slack to kindly ask the observers to leave the Zoom.*
  
-	- If yes: Admit observers.
+	- *If yes: Admit observers.*
  
-	- Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and their role.
+	- *Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and their role.*
  
-	- Once complete, ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth.*
+	- *Once complete, ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth.*
  
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
  
@@ -58,17 +58,17 @@ Before we start, a few things I want to mention:
  
 Before we look at the website, let’s start with a few background questions.
  
-First, can you briefly describe your military service? We’re interested in hearing about when you served, your branch, and your MOS (job) if you are comfortable sharing those details. Moderator will have to keep in mind the participant’s service history to know where to prompt participant during task 2.
+First, can you briefly describe your military service? We’re interested in hearing about when you served, your branch, and your MOS (job) if you are comfortable sharing those details. *Moderator will have to keep in mind the participant’s service history to know where to prompt participant during task 2.*
  
 Second, we’re interested in hearing if you have ever filed a claim for disability compensation before…
  
-If yes,
+*If yes,*
 - How many claims have you filed?
 - Have you been service-connected for any conditions, or in other words have you been granted compensation for any conditions?
 - How did you file the claims? (online, by mail, with VSO, etc.)
 - Are you considering filing any new claims in the near future?
  
-If no,
+*If no,*
 - Have you ever considered filing? Why or why not?
  
 ## Transition to prototype – 5 mins
@@ -97,23 +97,23 @@ Out of curiosity, can you guess what this step might be about? What other kinds 
 
 What would you do on this screen? 
  
-If they only select “One or more that has gotten worse”: Okay, now for demo purposes, I’m going to ask you to go back and indicate that you are claiming a condition that has not been rated yet. After they do that and see the next screen: Would you have expected to see questions related to toxic exposure if you were filing a claim because a condition has worsened?
+*If they only select “One or more that has gotten worse”:* Okay, now for demo purposes, I’m going to ask you to go back and indicate that you are claiming a condition that has not been rated yet. *After they do that and see the next screen:* Would you have expected to see questions related to toxic exposure if you were filing a claim because a condition has worsened?
  
 ### Related to toxic exposure screen
 
-If Veteran has mentioned claims or considering claims for a condition, use their own situation: 
+*If Veteran has mentioned claims or considering claims for a condition, use their own situation:* 
 
 Think about a condition that you have claimed in the past or are thinking about claiming and walk us through what you would do with this screen.
  
-If Veteran needs or prefers a hypothetical situation:
+*If Veteran needs or prefers a hypothetical situation:*
 
 Imagine that you started this application to ask for disability compensation for asthma and you served in a Gulf War location. If that was the case, what would you do on this screen?
  
-Allow participant to answer the first question. Hoping for some organic “No’s” – if we do not get them, suggest to later participants to answer no to get feedback from the added screen, then to answer yes. 
+*Allow participant to answer the first question. Hoping for some organic “No’s” – if we do not get them, suggest to later participants to answer no to get feedback from the added screen, then to answer yes.*
 
-If answer no, allow user to go to next screen before stopping them to answer follow up questions.
+*If answer no, allow user to go to next screen before stopping them to answer follow up questions.*
  
-Follow-up questions:
+*Follow-up questions:*
 
 - Are you familiar with the phrase “toxic exposure”? What do you know about it?
 - Where did you learn about it?
@@ -121,9 +121,9 @@ Follow-up questions:
   
 ### No/not sure follow-up screen
  
-Allow participant to look at and answer the question on the screen.
+*Allow participant to look at and answer the question on the screen.*
  
-Follow-up:
+*Follow-up:*
 
 - Is there anything confusing about the message here?If so, please explain.
 - Does this screen change your mind about your answer? Why or why not?
@@ -133,11 +133,11 @@ What would you do next?
  
 ## Task 2: Filling in toxic exposure locations and dates - 15 mins 
 
-Note: We want to have the participant exercise multiple dates on one of these screens, either for more than one location or for more than one time period. Moderator will have to keep in mind the participant’s service history to know where to prompt (GW or AO). If we do not get this type of entry, after participant fills it out to their own service history then suggest/ask what they would do in hypothetical scenario (served in Gulf War location after 9/11 and filing new claim for asthma.)
+*Note: We want to have the participant exercise multiple dates on one of these screens, either for more than one location or for more than one time period. Moderator will have to keep in mind the participant’s service history to know where to prompt (GW or AO). If we do not get this type of entry, after participant fills it out to their own service history then suggest/ask what they would do in hypothetical scenario (served in Gulf War location after 9/11 and filing new claim for asthma.)*
 
 ### GW screen #1
 
-What would you do on this screen? Please use your own military service to answer the questions. Moderator should note if they served none or more than one of these places.
+What would you do on this screen? Please use your own military service to answer the questions. M*oderator should note if they served none or more than one of these places.*
  
 What would you do next?
  
@@ -153,7 +153,7 @@ What would you do next?
  
 ### GW screen #2
 
-What would you do on this screen? Please use your own military service to answer the questions. Moderator should note if they served none or more than one of these places.
+What would you do on this screen? Please use your own military service to answer the questions. *Moderator should note if they served none or more than one of these places.*
  
 What would you do next?
  
@@ -169,7 +169,7 @@ What would you do next?
  
 ### GW screen #3
 
-What would you do on this screen? Please use your own military service to answer the questions. Moderator should note if they served none or more than one of these places.
+What would you do on this screen? Please use your own military service to answer the questions. *Moderator should note if they served none or more than one of these places.*
  
 What would you do next?
  
@@ -185,7 +185,7 @@ What would you do next?
  
 ### AO screen
 
-What would you do on this screen? Please use your own military service to answer the questions. Moderator should note if they served none or more than one of these places.
+What would you do on this screen? Please use your own military service to answer the questions. *Moderator should note if they served none or more than one of these places.*
  
 What would you do next?
  
@@ -207,9 +207,9 @@ What would you do next?
  
 - What would you do on this screen…
  
-- If any apply, what would you do next?
+- *If any apply,* what would you do next?
  
-- If none apply, what would you do next?
+- *If none apply,* what would you do next?
  
 For the sake of getting feedback, we’d like you to imagine that you were exposed to asbestos and radiation.
  
@@ -218,18 +218,18 @@ For the sake of getting feedback, we’d like you to imagine that you were expos
  
 ### Asbestos screen
  
-- What would you do on this screen? If Veteran asks about what dates to put in, ask them to use a time frame from their own service.
+- What would you do on this screen? *If Veteran asks about what dates to put in, ask them to use a time frame from their own service.*
  
-- What would you do if you had been exposed more than once? Looking for verbal, as we will have covered this pattern already.
+- What would you do if you had been exposed more than once? *Looking for verbal, as we will have covered this pattern already.*
  
 What would you do next?
  
  
 ### Radiation screen
  
-- What would you do on this screen? If Veteran asks about what dates to put in, ask them to use a time frame from their own service.
+- What would you do on this screen? *If Veteran asks about what dates to put in, ask them to use a time frame from their own service.*
  
-- What would you do if you had been exposed more than once? Looking for verbal, as we will have covered this pattern already.
+- What would you do if you had been exposed more than once? *Looking for verbal, as we will have covered this pattern already.*
  
 What would you do next?
  
@@ -280,7 +280,7 @@ Thank you so much again, and enjoy the rest of your day!
  
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it’s easy to find during a session. Take some time to practice so it feels more comfortable.]
  
-If participant becomes nervous, anxious, or irritated -
+*If participant becomes nervous, anxious, or irritated -*
  
 How are you feeling? do you want to take a few minutes to yourself?
  
