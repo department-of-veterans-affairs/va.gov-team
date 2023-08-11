@@ -635,11 +635,11 @@ Month Day Year (dropdowns)
 
 [p] **You may also qualify for enhanced eligibility status if you fit one of these descriptions:**
 [ul]
-You’re a former Prisoner of War (POW)  
-You received a Purple Heart 
-You received a Medal of Honor  
-You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998 
-You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987. 
+- You’re a former Prisoner of War (POW)  
+- You received a Purple Heart 
+- You received a Medal of Honor  
+- You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998 
+- You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987. 
 
 [END ul]
 [End Additional Info Component]
@@ -862,13 +862,21 @@ You served at least 30 days at Camp Lejeune between August 1, 1953, and December
 [fieldset legend title] Spouse’s address and phone number
 
 [component select label] Country(*Required)
+
 [component text input label] Street address(*Required)
+
 [component text input label] Street address line 2
+
 [component text input label] Street address line 3
+
 [component text input label] City(*Required)
+
 [component select label] State(*Required)
+
 [component text input label] Postal code(*Required)
+
 [component text input label] Phone number
+
 
 [button pair] [<< Back] [Continue >>]
 
@@ -900,8 +908,8 @@ You served at least 30 days at Camp Lejeune between August 1, 1953, and December
 [p] **Here’s who we consider to be a dependent:**
 
 [ul]
-A spouse (we recognize same-sex and common law marriages) 
-An unmarried child (including adopted children or stepchildren)
+- A spouse (we recognize same-sex and common law marriages) 
+- An unmarried child (including adopted children or stepchildren)
 
 [END ul]
 
@@ -1052,7 +1060,16 @@ An unmarried child (including adopted children or stepchildren)
 [component additional information]
 [label] What we consider financial support for a dependent
 [content] 
-[p] Please count all support contributions even if they weren’t paid in regular and set amounts. Support can include tuition or medical bill payments.
+
+[p] We consider any payments, even if they aren’t regular or the same amount, to be financial support. 
+[p bold] Financial support includes payments for these types of expenses: 
+
+[ul]
+- Tuition or medical bills 
+- Monthly child support 
+- One-time payment financial support
+
+[END additional info component]
 
 [select options]
 - Yes
@@ -1076,6 +1093,7 @@ An unmarried child (including adopted children or stepchildren)
 
 [legend title] Gross income from work
 [p] Gross income is income before taxes and any other deductions are subtracted.
+
 [additional info component]
 [add info label] What we consider gross annual income 
 [add info content]
@@ -1114,8 +1132,6 @@ An unmarried child (including adopted children or stepchildren)
 
 
 [button pair] [<< Back] [Continue >>]
-
-
 
 
 ----
@@ -1198,7 +1214,6 @@ An unmarried child (including adopted children or stepchildren)
 [END MODAL]
 
 
-
 [REMOVE MODAL]
 [h3] Remove this dependent?
 [p] This will remove **[First Name Last Name]** and all their information from your list of dependents.
@@ -1217,14 +1232,13 @@ An unmarried child (including adopted children or stepchildren)
 [END MODAL]
 
 
----
-
 
 ---
 
 **Section: Financials**
 
 ---
+
 
 #### Page: Veteran's annual income
 
@@ -1239,6 +1253,7 @@ An unmarried child (including adopted children or stepchildren)
 
 [legend title] Gross income from work
 [p] Gross income is income before taxes and any other deductions are subtracted.
+
 [additional info component]
 [add info label] What we consider gross annual income 
 [add info content]
