@@ -71,6 +71,7 @@ KPI: See an increase in profiles with completed mobile phone number
 |KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|-------------------|
 |Percentage of users updating using the new feature|0%|||
+|Percentage of successful saves|0%|||
 |Percentage of users updating using the legacy feature|0%|||
 |Percentage of users missing mobile phone number||||
 
