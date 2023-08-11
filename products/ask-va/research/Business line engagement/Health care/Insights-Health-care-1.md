@@ -1,5 +1,5 @@
 # Insights: HEALTH CARE BUSINESS LINE #1
-*Ask VA Integration Team, July 2023*
+*Ask VA Integration Team, July 26, 2023*
 
 ## Agenda
 
