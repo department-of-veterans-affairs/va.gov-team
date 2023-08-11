@@ -1,5 +1,5 @@
 # Notification "dot" design intent prep
-## Agenda
+### Agenda
 - Cover some context: (2 min)
   - Notification component recently added to design system (Angela/Auth Exp team and Matt Dingey identified need, collaborated on design)
   - Why this component is not ideal for the new health landing page (show mock-up)
