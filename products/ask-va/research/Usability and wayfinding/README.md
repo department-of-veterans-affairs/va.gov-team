@@ -17,4 +17,4 @@ Through moderated usability testing with users we should use a coded prototype(s
 We will recruit through Perigean.
 
 ## Date
-This research is likely to start in October-November 2023.
+This research is likely to start in November 2023.
