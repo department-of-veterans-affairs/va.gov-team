@@ -46,6 +46,12 @@ Notes
 1. As soon as a claim is submited, the status availible for query
 1. The endpoint can be called with just an appointment date or an appointment date and time. Only passing in the date will fail if there are multiple appointments. If there is only 1 appointment that its possible to pass in just the date. If the date and time are provided then it does some checking around the `1 claim per day per facility` rule. 
 
+## Known Issues 
+
+- The API sometimes attaches the wrong payment faiclity. We are looking into how fix that
+- If no date is supplied for submitting a claim, and the Veteran has multiple appointments on that day, the API throws an `invalid datetime` error
+- The submit claim endpoint is very slow, but a new, more performant endpoint is underdevelopment and ETA of fall 2023
+
 ## Test data
 
 Currently, its up to the consuming team to manage their own test data. 
