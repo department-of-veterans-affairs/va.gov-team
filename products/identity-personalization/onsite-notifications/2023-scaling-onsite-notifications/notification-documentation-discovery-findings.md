@@ -32,8 +32,9 @@ This research supported this goal by:
 |Status tags|To give a quick status update for a specific item.|[Tag in VA design system](https://design.va.gov/components/tag)|<img width="472" alt="Screenshot 2023-08-11 at 12 48 07 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/aa9ec5b5-5782-4f7e-acaa-eb6a2422686a">|- The tag for status indicator could be used more universally across VA.gov. We could follow similar guidance to the CST team and include a status tag in our cards on My VA when we update them to [default white cards](https://design.va.gov/components/card#default---white-with-border).|
 
 ## Types of notifications we're not using that we may want to explore
-
--
+|Type of notification|Purpose|Outside Examples|Opportunities|
+|----|----|-----|-----|
+|Takeover modal|-To notify a user of something urgent <br> -To ensure a notification cannot be ignored <br> -Nothing else can be done on the page without dismissing or taking an action within the modal|<img width="193" alt="Screenshot 2023-08-11 at 12 52 20 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/ac3d4ebb-56e1-4b39-853f-fa490faaa8f4"> <br> <img width="826" alt="Screenshot 2023-08-11 at 12 57 33 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/ef1d5aa7-5337-46c0-863b-d89f3d8f1df6">|- This is very invasive but if there ever was an extremely urgent update, this is something to consider <br> - Would need to explore the a11y implications of a takeover modal|
 
 ## Additional Insights
 
