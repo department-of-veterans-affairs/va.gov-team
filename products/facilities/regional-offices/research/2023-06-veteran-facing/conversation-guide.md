@@ -241,11 +241,11 @@ Imagine that you have some hearing loss that's related to your military service.
 *(If not Veteran but caregiver or family member:)*
 Imagine that your *[spouse/Veteran]* has some hearing loss that's related to their military service. They’re not currently receiving monthly disability payments from the VA, and you’d like some assistance with your application. Using the information on this page, how could you get help from the Boston Regional Office?
 
-- *(Disability compensation)*
+- *(Veteran benefits > Disability compensation)*
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
-  - How could you talk to someone? *[in-person / virtual / phone]*
+  - How could you talk to someone? *[in-person]*
   - Do you need an appointment? *[no but it’s preferred, per top-level accordion]* 
   - When will you go? *[check office hours for this task specifically]*
     - *Record any comments about*
@@ -262,7 +262,7 @@ You’re interested in buying a house, and your lender asks for proof that you q
 *(If not Veteran but caregiver or family member:)*
 Your Veteran family member *(the Veteran you care for)* is interested in buying a house, and their lender asks for proof that they qualify for a VA home loan. From this page, where would you go for that?
 
-- *(Home loans > Get help requesting a COE or filling out paperwork)*
+- *(Veteran benefits > Home loans > Get help requesting a COE or filling out paperwork)*
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
@@ -305,7 +305,7 @@ Now some time has passed since your visit to the regional office, and you’re s
 
 *(If not Veteran but caregiver or family member)* Now some time has passed since your Veteran family member *(the Veteran you care for)* visited the regional office, and they’re still waiting to get proof that they qualify for a VA home loan. How would you help them find out what’s happening?
 
-- *(Home loans > Get help checking the status of your COE)*
+- *(Veteran benefits > Home loans > Get help checking the status of your COE)*
 
 - *[if need prompting...]* 
   - How could you talk to someone? *[phone]*
@@ -326,7 +326,7 @@ If you wanted help applying for life insurance through the VA, where would you g
 
  If you wanted to honor a Veteran with a medallion on their headstone, could the Boston Regional Office help? 
 
-- *(Burial in a VA cemetery / **Burial and memorials** / __________)*
+- *(Family member and caregiver benefits / **Burial and memorials** / __________)*
 
 - *[if need prompting...]* 
   - To make this happen, what would you do next? 
