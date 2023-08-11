@@ -17,14 +17,10 @@ This research supported this goal by:
 * Identifying opportunities worth exploring for VA.gov found in this discovery research
 
 ## Types of notifications we're already using and may not need to expand upon
-
-- System alerts
-  - Purpose: To announce that a feature is down. The user didn't cause this alert and can't do anything to remedy it immediately.
-  -  We use the [warning alert](https://design.va.gov/components/alert#warning-alert) in the VA Design System for these.
- 
-- General, non-personalized announcements
-  - Purpose: To communicate things that can impact many users. Not personalized to the individual user.
-  - We use the [banner](https://design.va.gov/components/banner/) in the VA design system for these.
+|Type of notification|Purpose|Documentation|VA Examples|
+|----|----|-----|-----|
+|System alerts|To announce that a feature is down. The user didn't cause this alert and can't do anything to remedy it immediately.|[Warning alert in VA Design System](https://design.va.gov/components/alert#warning-alert)|<img width="397" alt="Screenshot 2023-08-11 at 12 13 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/aca42396-6f4e-4843-8817-270304fad529">|
+|General, non-personalized announcements|To communicate things that can impact many users. Not personalized to the individual user.|[Banner in VA Design System](https://design.va.gov/components/banner/)|<img width="691" alt="Screenshot 2023-08-11 at 12 36 01 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/d14f7f8d-5c05-48e9-9867-d05ea6fcee4e"> <br> <img width="694" alt="Screenshot 2023-08-11 at 12 36 12 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/f90221f1-29e4-43f7-ab24-f159757dd5a4">|
 
 ## Types of notifications we're already using and may have an opportunity to expand upon
  
