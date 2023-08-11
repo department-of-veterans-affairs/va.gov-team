@@ -8,7 +8,7 @@ Ask VA (AVA) is an online portal that allows Veterans, caregivers, and supportin
 
 Through moderated usability testing with users we should use a coded prototype(s) to review whether they can find Ask VA around VA.gov, authenticate if necessary or desired, and successfully submit and review inquiries. We will include screen reader users in this study.
 
-## Research Goals
+## Research goals
 * Review whether users can successfully submit and review an inquiry
 * Review where Ask VA should live and be linked to from
 * Review how users experience authentication
