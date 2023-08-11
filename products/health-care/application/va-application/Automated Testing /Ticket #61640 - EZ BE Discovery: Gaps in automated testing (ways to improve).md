@@ -59,6 +59,7 @@ describe HCAAttachmentUploader do
     context 'when in a production environment' do
       it 'should configure certain AWS data correctly' do
         hca_attachment_uploader = described_class.new('0d19a72b-ca2a-4d16-915a-113003c5aa24')
+
         expect(hca_attachment_uploader.aws_credentials).to eq(
           {
             access_key_id: 'test',
