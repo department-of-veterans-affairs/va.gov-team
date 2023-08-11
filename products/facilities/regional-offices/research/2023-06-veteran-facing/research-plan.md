@@ -83,7 +83,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2023-06-veteran-facing/conversation-guide.md)
-- [Link to prototype TBD]()
+- [Link to prototype TBD](https://www.figma.com/proto/8RYmYfVGS9CUfZbomH5lBe/VBA-Regional-Office-Prototype?page-id=0%3A1401&node-id=3-10371&starting-point-node-id=3%3A10371&hotspot-hints=0&t=8GbxK22Cd8eh2AUJ-1)
 	
 ## Recruitment
 
