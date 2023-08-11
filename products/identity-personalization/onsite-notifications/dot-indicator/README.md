@@ -9,11 +9,7 @@
 
 ### Roles
 
-#### OCTO team
-
-[This is managed by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team).
-
-#### Partners
+[This is managed by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team) in partnership with the following people:
 
 |Name|Role|Email|
 |----|----|-----|
