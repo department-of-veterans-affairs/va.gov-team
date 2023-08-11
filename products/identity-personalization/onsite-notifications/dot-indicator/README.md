@@ -9,7 +9,7 @@
 
 ### Roles
 
-This is managed by [the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team) in partnership with the following people:
+This is managed by [the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team) and the following people:
 
 |Name|Role|Email|
 |----|----|-----|
