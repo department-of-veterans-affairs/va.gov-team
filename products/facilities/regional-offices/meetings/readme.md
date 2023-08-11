@@ -10,6 +10,6 @@
 
 - **Who:** Dave Conlon, David Shannon, & Aslan French presenting to VBA stakeholders
 - **What:** Overview of project goals and timeline, initial findings from Veteran research
-- **When:** October 26, 2023
+- **When:** October 26, 2022
 - [Meeting recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/meetings/VBA-RO-kickoff-10262022.mp4)
 - [Slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/meetings/VBA-RO-kickoff-10262022.pptx)
