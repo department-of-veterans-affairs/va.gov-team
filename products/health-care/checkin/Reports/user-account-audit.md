@@ -96,7 +96,7 @@ No changes were deemed necessary during the scope of this audit.
 https://veterans-affairs.pagerduty.com/
 
 ### Managed by:
-TBD
+ OCTO PO via DOTS request
 
 ### Access
  - Brian Seek
@@ -115,7 +115,7 @@ No changes were deemed necessary during the scope of this audit.
 https://dsva.pagerduty.com/
 
 ### Managed by:
-TBD
+va.gov platform (VSP)
 
 ### Access
  - Adrian Rollett
