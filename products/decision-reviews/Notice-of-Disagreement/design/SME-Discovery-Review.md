@@ -8,7 +8,7 @@
 Our team is working on the second version of the form, and iterating based on opportunities identified through evaluative research.
 
 ## Intake
-
+**SME** William Bo Rollins
 - How does the intake team use the area of disagreement?
 - If the user identifies their area of disagreement as 'something else', can the claim still be processed?
   - Does that impact the time it takes to process the claim?
@@ -18,7 +18,7 @@ Our team is working on the second version of the form, and iterating based on op
   - Do Veterans typically include one explanation for the entire appeal, or do they provide seperate explanations for each issue?
 
 ## Legal
-
+**SME** Angeline DeChiara
 - Deadline + contested claims, are the plain language modifications acceptable?
 - Area of disagreement, are there examples of other areas of disagreement, and can we provide them?
 - Board Review Options: What kind of clarifying information can we show Veterans? 
