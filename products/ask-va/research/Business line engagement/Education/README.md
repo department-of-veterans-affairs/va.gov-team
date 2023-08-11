@@ -23,6 +23,6 @@ Education
 
 ### Engagements
 
-* June 22, 2023
+* [June 22, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Education/June%2022%2C%202023.md)
 * [August 2, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Education/August%202%2C%202023.md)
 * [August 9, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Education/August%209%2C%202023.md)
