@@ -15,7 +15,7 @@ Last updated: 8/11/2023
 
 
 ## QA Plan 
-See test cases above 
+See test scenarios linked above 
 
 #### General Version-coverage Strategy
 - **Hardware:** cover 2nd-latest models [1 yr back from latest available]
