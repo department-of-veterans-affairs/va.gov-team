@@ -16,7 +16,7 @@ This research supported this goal by:
 * Doing discovery work to look into other popular design systems and how they utilize notifications and alerts.
 * Identifying opportunities worth exploring for VA.gov found in this discovery research
 
-## Types of notifications we're already using
+## Types of notifications we're already using and don't see an opportunity to expand upon
 
 - 
 
