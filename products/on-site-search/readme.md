@@ -80,3 +80,4 @@ As a user, I want to:
 ## Maintenance documentation
 - [Search playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md) - Contains access and architectural information
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/product-outline.md)
+- [Getting Search.gov access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md#getting-access)
