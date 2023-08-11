@@ -8,7 +8,28 @@ Ask VA (AVA) is an online portal that allows Veterans, caregivers, and supportin
 
 We need to determine which fields are required in order for agents to deliver the service, which is often called a [question protocol](https://www.uxmatters.com/mt/archives/2010/06/the-question-protocol-how-to-make-sure-every-form-field-is-necessary.php). In order to do this, we will meet with different business lines for feedback and discussion. We also reviewed agent's responses to a monthly survey, to learn more about what is and is not working for them.
 
-This work involves ongoing technical meetings with the CRM team to determine routing rules and limitations.
+### Business lines
+
+|Business line|Link to folder|
+|:--|:--|
+|Health care|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Health%20care)|
+|Education|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Education)|
+|Debt|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Debt)|
+|Women Veterans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Women%20Veterans)|
+|Life insurance|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Life%20insurance)|
+|Veteran ID cards|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Veteran%20ID%20cards)|
+|Sign in and technical issues|[See folder]()|
+|DEERS|[See folder]()|
+|Center for Minority Veterans|[See folder]()|
+|Appeals of denied claims|[See folder]()|
+|Benefits issues outside US|[See folder]()|
+|Compensation|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Compensation)|
+|Pension|[See folder]()|
+|Fiduciary program|[See folder]()|
+|Survivor benefits|[See folder]()|
+|Burials and memorials|[See folder]()|
+|VR&E|[See folder]()|
+|Housing issues|[See folder]()|
 
 ## Research goals
 * Understand which fields are necessary in order for agents to deliver the service
