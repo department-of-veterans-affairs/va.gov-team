@@ -39,13 +39,13 @@ According to [Centers for Medicare & Medicaid Services Meaningful Use guidelines
 
 ## MVP Requirements
 #### In Scope 
-- AVSs available for appointments occurring on or after launch date. Past appointment AVSs will not be available.
-- Data and sections displayed will be similar to the printed PDF that the VA currently offers (minus the patient education articles and clinical graphs sections).
+- AVSs available for appointments occurring from the date that structured data creation released. Past appointment AVSs will not be available.
+- Data and sections displayed will be similar to the printed PDF that the VA currently offers (minus the patient education articles, clinical graphs sections, and the Pocket VA medications and allergies).
 - AVSs will only be available for appointments where a site batch prints or a provider prints an AVS within the CPRS AVS system.
 - Only appointments at VA facilities will be possible to display.
 
 #### Out of Scope
-- Patient education articles and clinical graphs will not be displayed in the MVP.
+- Patient education articles, clinical graphs, and the Pocket VA medications and allergies sections will not be displayed in the MVP.
   - In order to pull in images that are part of patient education articles and clinical charts, a location to store the image files needs to be identified.
   - We also need to make sure the current Kramer Staywell licensing allows for imaging to be shared through a patient portal.
 - Past appointment AVSs will not be shown.
@@ -137,9 +137,10 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 <details>
  
   - Lauren Alexanderson - OCTO Health Lead, [lauren.alexanderson@va.gov](mailto:lauren.alexanderson@va.gov)
+  - Kay Lawyer - OCTO Product Lead, [katherine.lawyer@va.gov](mailto:katherine.lawyer@va.gov)
   - Kristen McConnell - OCTO UX Lead, [kristen.mcconnell@va.gov](mailto:kristen.mcconnell@va.gov)
   - Adrian Rollett - OCTO Engineering Lead, [adrian.rollett@va.gov](mailto:adrian.rollett@va.gov)
- 
+  - Nina Anusavice - UX Designer, [Nina.Anusavice@va.gov](mailto:Nina.Anusavice@va.gov)
 </details>
 
 
@@ -147,11 +148,6 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 
 <details>
  
-- OCTO Health Apps
-  - Patrick Bateman
-  - Kay Laywer
-  - Mark Dewey
-  - Stephen Barrs 
 - CPRS AVS
   - Shane Elliott
   - Rob Durkin
@@ -161,7 +157,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 - MHV on VA.gov
   - Coulton Bunney
 - Stakeholders
-  - Dr. Harzand
+  - AVS Steering Committee (meets monthly)
   - Dr. Spahn
   - Dr. Layden
   - Dr. Nilesh Shah
@@ -170,5 +166,4 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
   - Jeff Roof
   - Leah De La Costa
   - Peter Russo
-  - Ciera Maddox
 </details>
