@@ -39,7 +39,8 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 - In comparing a lean version with the full version of the intro, preference was equally split. The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content and keeping both action links to minimize frustration or drop off.
 
 > "Other people they may like prefer this version, like they may not like all the extra stuff. But I would prefer the the extra information." -P8
-
+> 
+> "I would read the second page (lean intro). But - It doesn't have enough information about what you're seeking. In your work history. Like the employer's name. Starting end date monthly. Like some people might need help to grab their W2 Or their paystub. You know what I mean?" -P1
 
 **Overall Comprehension**
 
@@ -52,7 +53,9 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 - For some participants, at first, there was positive reception when seeing the green checkmark and "You're eligible for a waiver". Then disappointment when reading the fine print. This is an active conversation between VA stakeholders and SMEs and the copy is not final yet. Based on what we tested, it's clear that an automatic decision is unfamiliar and surprising, and also would be very positive. While at the same time, some participants can't believe it since they haven't seen it done before. An email and a letter to confirm and prove this would be helpful. One participant expected automatic approval as she compared it to submitted a form for Travel Pay. As we saw in our last study, the term "waiver" was not understood by all participants.
 
-> "The idea is just a shock, I suppose...like in the more positive sense...I feel like the Veterans Administration, I guess, is becoming a little more sensitive to what the Veterans need now. It's taken a little while, but I mean at least it's coming." -P1
+> "So they will automatically know you're eligible for a waiver. [P1]
+[Moderator] How do you feel about that? [P1] Well, it seems like they would have to review it.
+The idea is just a shock, I suppose...like in the more positive sense...I feel like the Veterans Administration, I guess, is becoming a little more sensitive to what the Veterans need now. It's taken a little while, but I mean at least it's coming." -P1
 
 
 **Transition page**
@@ -66,3 +69,5 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 - Participants easily understood the "Cash on hand" question and thought it was worded well. 
 
 > "Now cash on hand. Not in my bank. So that's asking, "What's in my pocket right now? What's on me?". Well just say I got $50. Which is pretty easy. I mean, most people would know how much money they have currently on them." -P6
+> 
+> "What does cash on hand mean to you?" "The amount of cash I have in my wallet. To me, cash on hand means it's what you have that you can get your hands on." -P1
