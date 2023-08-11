@@ -161,7 +161,7 @@ No changes were deemed necessary during the scope of this audit.
  ## Sketch (not within ATO boundry)
 
  ### Managed by:
- TBD
+ VA - #design channel in Slack - Kevin Hoffman
 
  ### Access:
  - Full team
