@@ -13,6 +13,8 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 - [Law H.R.91 - Veterans Identification Card Act 2015](https://www.congress.gov/bill/114th-congress/house-bill/91)
 - [List of current approved forms of Veteran ID](https://www.va.gov/records/get-veteran-id-cards/)
 - [Product Canvas / Sprint Timeline](https://docs.google.com/presentation/d/1TlzLu1eYixyKLVZ5FeMbB3iJ_HSw0tsYr5gJWGzdstQ/edit)
+- [Discovery Work / Review](https://www.figma.com/file/MxqpGSmpZrG5HlxB9wNoRP/%234270---Veteran-Status-Card?type=whiteboard&node-id=0-1&t=iOacE13OfKZ23BOR-0)
+- [UX Figma File with Mockups](https://www.figma.com/file/Wjq9DkQ3ulXlHhbMrpNHME/%F0%9F%94%8D-Profile-2.0---Working---VAMobile?type=design&node-id=1707-38955&mode=design&t=mFMFasHqvVWdXp9F-0)
 
 ### Desired Outcomes ###
  
