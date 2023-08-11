@@ -18,8 +18,32 @@ This research supported this goal by:
 
 ## Types of notifications we're already using and don't see an opportunity to expand upon
 
-- 
+- System alerts
+  - Purpose: To announce that a feature is down. The user didn't cause this alert and can't do anything to remedy it immediately.
+  -  We use the [warning alert](https://design.va.gov/components/alert#warning-alert) in the VA Design System for these.
+ 
+- General, non-personalized announcements
+  - Purpose: To communicate things that can impact many users. Not personalized to the individual user.
+  - We use the [banner](https://design.va.gov/components/banner/) in the VA design system for these.
 
+## Types of notifications we're already using and may have an opportunity to expand upon
+
+- Event-based notifications
+  - Purpose: User feedback - Respond to an action a user has taken to draw their attention to something.
+  - We use the [default alert](https://design.va.gov/components/alert#success-alert) and [slim alert](https://design.va.gov/components/alert#examples---slim-alert) in the VA design system for these.
+  - **Opportunity:** These alerts can contain a link and we may be able to make better use of that feature of the component. For example, giving an option to "Undo" an action when technically feasible is a common pattern in these type of alerts that we're not currently using.
+ 
+- Personalized indicators
+  - Purpose: To specify the amount of unread/unseen things within a category; To draw attention to new, important content on a page that might otherwise be missed
+  - We use the [tag](https://design.va.gov/components/tag) in the VA design system, as well as a dot that is not yet part of the design system.
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/a7723b3a-ec3d-4ccd-8e42-5ec4ba5fe605) Tag used in mobile app to denote unread messages
+
+<img width="755" alt="image (2)" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/ebd5edfd-0531-4b61-9508-b6968fa0d48a"> Dot used in new secure messaging portal on VA.gov to show that there are unread messages in a thread
+
+
+## Types of notifications we're not using that we may want to explore
+
+-
 
 ## Additional Insights
 
