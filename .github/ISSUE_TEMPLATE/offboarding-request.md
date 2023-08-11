@@ -54,6 +54,7 @@ _The following steps are performed by the **Platform Support** team. Detailed in
  - [ ] [Okta account](https://vfs.atlassian.net/wiki/spaces/OT/pages/2532508159/Offboarding+users+from+Okta) disabled (if applicable)
  - [ ] [Datadog account](https://vfs.atlassian.net/wiki/spaces/OT/pages/2526282894/Offboarding+Users+from+Datadog) disabled (if applicable. Check [Datadog users](https://vagov.ddog-gov.com/organization-settings/users))
  - [ ] Sentry access removed (if applicable. Check [Sentry members](http://sentry.vfs.va.gov/settings/vsp/members/))
+ - [ ] TestRail access removed (if applicable, Check [[TestRail User List](https://dsvavsp.testrail.io/index.php?/admin/users/overview)]
  - [ ] Google analytics and Domo access removed (if applicable. Make sure the `analytics-insights` label is on this Issue)
  - [ ] Bot (`va-bot`, `va-vfs-bot`, and `va-vsp-bot`) user GitHub account(s) YubiKey(s) removed
    > This is rare. See [documentation](https://vfs.atlassian.net/wiki/spaces/OT/pages/1908932642/Remove+YubiKeys+of+Offboarded+Operations+Team+Members) for current users and removal process.
