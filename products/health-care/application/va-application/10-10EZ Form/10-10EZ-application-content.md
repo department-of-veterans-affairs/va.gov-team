@@ -2,9 +2,7 @@
 
 ---
 
-
-- [Mural flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027) - OUTDATED (can't update will move to VA Mural instance)
-- [VA Mural flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1682696116933/9352d9dbbe6d6aa9a05eddcac8c82521512d9795?sender=uadf1ed7fe7c76f0914967329)
+- [VA Mural flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687376928311/303a0fbb8ffe1353eedf695ac86a6e069cd2003f?sender=uadf1ed7fe7c76f0914967329)
 - [Sketch wireflows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/DPjA4ba)
 
 --- 
@@ -710,68 +708,154 @@ Funeral or burial expenses for a spouse or dependent child
 Section: Spouse
 ---
 
+#### Page: Marital status
+#### URL: health-care/apply/application/household-information-v2/marital-status
+(Note: if chose to not share financial information, this is the only other page presented in the household information section)
 
-## Step 4 of 6: Household Information
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+[component select]
+[label] What is your marital status? (*Required)
 
-**Spouse’s information**
+[component additional information]
+[label] Why we ask for this information
+[content]
+[p] We want to make sure we understand your household’s financial information to better determine what health care benefits you can get. If you’re married, we also need to understand your spouse’s financial information.
 
-Please fill this out to the best of your knowledge. The more accurate your responses, the faster we can process your application.
+[END additional information component]
 
-Spouse’s first name (*Required)
+[dropdown options]
+Married
+Never Married
+Separated
+Widowed
+Divorced
 
-Spouse’s middle name
+[button pair] [<< Back] [Continue >>]
 
-Spouse’s last name (*Required)
 
-Suffix  _(dropdown)_ Jr. Sr. II III IV
+#### Page: Spouse information
+#### URL: health-care/apply/application/household-information-v2/spouse-personal-information
 
-Spouse’s Social Security number (*Required)
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
 
-Spouse’s date of birth (*Required)
+[fieldset legend title] Spouse’s information
 
-Month Day Year _(dropdown)_
+[p] Fill this out to the best of your knowledge. The more accurate your responses, the faster we can process your application.
 
-Date of marriage (*Required)
+[component text input label] Spouse’s first name(*Required)
 
-Month Day Year _(dropdown)_
+[component text input label] Spouse’s middle name
 
-Did your spouse live with you last year?
+[component text input label] Spouse’s last name(*Required)
 
+[component dropdown select] Spouse’s suffix
+[dropdown options]
+Jr. 
+Sr. 
+II 
+III 
+IV
+
+[component text input label] Spouse’s Social Security number(*Required)
+
+[component date select] Spouse’s date of birth(*Required)
+[dropdowns for: month, day] [ input for year]
+
+[component date select] Date of marriage
+[dropdowns for: month, day] [ input for year]
+
+[button pair] [<< Back] [Continue >>]
+
+
+#### Page: Spouse additional information
+#### URL: health-care/apply/application/household-information-v2/spouse-additional-information
+
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Spouse’s additional information
+
+[p] Fill this out to the best of your knowledge. The more accurate your responses, the faster we can process your application.
+
+[component additional information] 
+[label] Why we ask for this information
+
+[content] 
+[p] This information helps us determine if your spouse was your dependent in 2022.
+
+[component radio select label] Did you live with your spouse for all or part of 2022?
+[select options]
 Yes
-
 No
 
-_(if no)_ If your spouse did not live with you last year, did you provide financial support?
-
+[component radio select label] Do you currently have the same address as your spouse? (*Required)
+[select options]
 Yes
-
 No
 
-Do you have the same address as your spouse?(*Required)
+[button pair] [<< Back] [Continue >>]
 
+
+#### Page: Spouse financial support (if NO answered on did you live with your spouse)
+#### URL: health-care/apply/application/household-information-v2/spouse-financial-support
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Spouse’s financial support
+
+[component radio select label] Did you provide financial support to your spouse in 2022 even though you didn't live together?
+
+[additional info component]
+[add info label]What we consider financial support for a spouse[end label]
+[add info content]
+[p]We consider any payments, even if they aren’t regular or the same amount, to be financial support. 
+[p bold] Financial support includes payments for these types of payments: 
+[ul]
+- Monthly spousal support 
+- One-time payment financial support
+
+[select options]
 Yes
-
 No
 
-_(if no)_ **Spouse’s address and telephone number**
+[button pair] [<< Back] [Continue >>]
 
-Country(*Required) _(dropdown)_
 
-Street address(*Required)
+#### Page: Spouse address and phone number (if answered NO to same address question on additional info page)
+#### URL: health-care/apply/application/household-information-v2/spouse-contact-information
 
-Street address line 2
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
 
-Street address line 3
+[fieldset legend title] Spouse’s address and phone number
 
-City(*Required)
+[component select label] Country(*Required)
+[component text input label] Street address(*Required)
+[component text input label] Street address line 2
+[component text input label] Street address line 3
+[component text input label] City(*Required)
+[component select label] State(*Required)
+[component text input label] Postal code(*Required)
+[component text input label] Phone number
 
-State (*Required) _(dropdown)_
+[button pair] [<< Back] [Continue >>]
 
-Postal code(*Required)
 
-Phone
 
-[<< Back] [Continue >>]
+
+---
+Section: Dependents
+---
+
 
 
 ## Step 4 of 6: Household Information
