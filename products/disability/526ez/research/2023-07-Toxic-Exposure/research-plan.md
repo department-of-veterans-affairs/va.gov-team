@@ -61,6 +61,13 @@ Resources:
 - [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md)
 - [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing).
 
+### Criteria
+Recruit 12 participants for 8-10 completes:
+- 3 Veterans who served in Vietnam-era (1961-1980 – note covering some later dates here added for PACT)
+- 3 Veterans who served between 1990 and 2001 (Gulf War era)
+- 3 Veterans who served after 2001 (Post 9-11 era)
+- 3 who served between 1975-1990 (not in the cohort)
+
 Benefits:
 - Recruit approximately 50% who have applied for disability benefits before and 50% who have never applied.
  
