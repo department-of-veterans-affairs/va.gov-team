@@ -97,6 +97,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range|
 |---|---|---|
+| Launch to 10% | 1 week |  | 
 | Launch to 25% | 1 week |  | 
 | Launch to 50% | 1 week |  | 
 | Launch to 100% | 1 week | |
@@ -111,6 +112,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
+| Launch to 10% |  |  |
 | Launch to 25% |  |  |
 | Launch to 50% |  | |
 | Launch to 100% |  |  |
