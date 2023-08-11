@@ -3,7 +3,7 @@
 # Streamlined Waiver Topline Summary
 
 
-[link research plan]()
+[link research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/research/research-plan.md)
 
 [link conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/research/conversation-guide.md)
 
