@@ -1,8 +1,7 @@
 [Product Brief Link](https://docs.google.com/document/d/1tLRcBUznYkaoz5oAUEM6ui7rr8Gj0qijgqqApwHVnxk/edit)
 
 
-# Lab & Test Results Product Brief 
-# VA Mobile App
+# VA Mobile App Lab & Test Results Product Brief (Sprint 0)  as of 9/2022
 
 ## Problem Statement
 For Veterans waiting for results, lab and test outcomes have high urgency and timeliness. Accessing this information on the web can be confusing and can become out of reach all together by login issues. Veterans want to easily see their lab and test results on the mobile app, where they can be notified and gain access to the right information quickly. 
