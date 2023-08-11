@@ -9,8 +9,7 @@ Date: 08/8/2023
 Christina Gednalske [[christina.gednalske@adhocteam.us](mailto:christina.gednalske@adhocteam.us)]
 Ben Brasso [[ben.brasso@agile6.com](mailto:ben.brasso@agile6.com)]<br>
 
-[PCI Travel Reimbursement Research Readout Presentation (PDF)](link)
-
+[PCI Travel Reimbursement Research Readout Presentation (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/12323862/PCI.Travel.Reimbursement.Research.Report.pdf)
 
 
 <br>
