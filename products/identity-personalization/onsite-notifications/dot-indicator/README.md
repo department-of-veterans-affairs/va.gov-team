@@ -24,7 +24,6 @@ This is managed by [the authenticated experience team](https://github.com/depart
 - [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
-- [Analytics](#analytics)
 - [Design](#design)
 - [Frontend](#frontend)
 
@@ -55,8 +54,6 @@ The dot indicator is a notificatio style that aims to indicate that there is som
 ### Undesired Business Outcomes
 
 - The dot indicator becomes overly or improperly used
-
-## Analytics
 
 ## Projects
 
