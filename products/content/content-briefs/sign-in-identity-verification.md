@@ -53,17 +53,6 @@ We want to begin encouraging Veterans to create Login.gov or ID.me accounts, wit
  > - **Login.gov** is an account created, maintained, and secured by the U.S. government. It encrypts your stored information at 2 levels. Encryption translates your data into code that only you can access as the account holder. This means only you can access and change your information. 
  > - **ID.me** is an account created, maintained, and secured by a trusted technology partner. It uses bank-grade encryption to keep your personal info safe. It gives you control over which services can share your information.
 
-#### And here's language from the TAP curriculum about creating a Login.gov account specifically: (added 10.14.22)
-
- > To manage your VA benefits online, we encourage you to create a Login.gov account now. 
- > Login.gov offers these benefits:
- >  - Access to VA benefits, services, and information in a single, secure account
- >  - A secure sign-in option that protects your privacy and complies with the latest federal security standards
- >  - A single account to manage your other government benefits and services (like Social Security benefits or federal job applications)
- >  - An account created, maintained, and secured by the U.S. government
- > 
- > At this time, you can also use your DS Logon, My HealtheVet, or ID.me account to sign in to VA.gov. But VA will soon no longer offer DS Logon as a sign-in option. And soon all VA websites will follow a new sign-in process through VA.gov with Login.gov as the recommended account.
-
 ## Organic SEO and VA.gov search
 ### Terms related to "verifying" have larger volume than "proofing" ###
 **Top 10 on-site search terms related to verifying – 5/24/22 to 5/24/23**
