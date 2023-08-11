@@ -40,7 +40,7 @@ This research supported this goal by:
 <br>
   Tag used in mobile app to denote unread messages
 
-  - <img width="755" alt="image (2)" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/ebd5edfd-0531-4b61-9508-b6968fa0d48a">
+  - <img width="370" alt="Screenshot 2023-08-11 at 11 52 30 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/c0c4a9db-47a8-4ecb-8c99-b2050bbf8c6c">
 <br> 
   Dot used in new secure messaging portal on VA.gov to show that there are unread messages in a thread
 
