@@ -35,6 +35,17 @@ Always refer to the [Swagger](https://claimingestsvc-ppd-btsss-east.nprod.vaec.v
 Notes
 - Must be on the VA network to access these endpoints. 
 
+### Submit claims 
+
+#### Use Cases/Noted Business Rules
+
+> In not specific order
+
+1. As a Veteran, I can submit 1 claim per appointment per faciltiy per day
+1. The API will submit a claim for an appointment in any state, but only a checked-out/completed appointment can create a successful claim
+1. As soon as a claim is submited, the status availible for query
+1. The endpoint can be called with just an appointment date or an appointment date and time. Only passing in the date will fail if there are multiple appointments. If there is only 1 appointment that its possible to pass in just the date. If the date and time are provided then it does some checking around the `1 claim per day per facility` rule. 
+
 ## Test data
 
 Currently, its up to the consuming team to manage their own test data. 
