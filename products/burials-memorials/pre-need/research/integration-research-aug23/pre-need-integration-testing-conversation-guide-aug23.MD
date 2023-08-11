@@ -472,7 +472,7 @@ Wonderful! Thank you so much for walking through that with us and telling us you
 
 **STOP RECORDING** 
 
-- **Ask observers for top takeaways after participant has dropped and, as a group, note participant quantitative results.**
+- **Ask observers for top takeaways after participant has dropped. UXers: Note participant quantitative results after observers have left.**
 
 ## Emergency Exit
 
