@@ -48,7 +48,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 > "I think it's very easy to use, like way easy to navigate, and I don't have any issues filling out the form. But I like that the definition of each term, like what you need to fill out." -P8
 
 
-**Confirmation Page and trust**
+**Confirmation page and trust**
 
 - For some participants, at first, there was positive reception when seeing the green checkmark and "You're eligible for a waiver". Then disappointment when reading the fine print. This is an active conversation between VA stakeholders and SMEs and the copy is not final yet. Based on what we tested, it's clear that an automatic decision is unfamiliar and surprising, and also would be very positive. While at the same time, some participants can't believe it since they haven't seen it done before. An email and a letter to confirm and prove this would be helpful. One participant expected automatic approval as she compared it to submitted a form for Travel Pay. As we saw in our last study, the term "waiver" was not understood by all participants.
 
