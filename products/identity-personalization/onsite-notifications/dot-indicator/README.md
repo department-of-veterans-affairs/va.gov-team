@@ -34,6 +34,8 @@ The dot indicator is a notificatio style that aims to indicate that there is som
 
 ## Problem statement
 
+- As a VA.gov user, I want to be able to easily see items that require my attention or action when I log into the website.
+
 ## User Outcomes
 
 ### Desired User Outcomes
