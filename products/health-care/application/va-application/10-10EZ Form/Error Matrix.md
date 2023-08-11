@@ -4,6 +4,7 @@
 [10-10EZ Error Messages](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683651181051/e0f47b9aaefbf78a3942df3028525cdc4336caff?sender=uadf1ed7fe7c76f0914967329)
 - Content / Design Audit and Living Document
 
+
 ## Matrix
 This matrix contains abridged messaging and resolution for the errors that can be encountered in the form. The are categorized under:
 
@@ -93,15 +94,14 @@ Please see the individual errors below or the Mural board for the full text and 
 | Upload failed | We couldn't upload you file.  | |
 
 
-#### Feedback Messages - NOT YET LIVE - Household informaiton optimization 
+#### Feedback Messages - Household financial informaiton section
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
 | Confirmation financial disclosure | [h3] Confirm that you don't want to provide your household financial information [p] If you're not eligible for VA health care based on enhanced eligibility status, we need your financial information to decide if you're eligible based on your income. | Confirm or go back to change answer | 
-| Modal - Delete Confirmation | [h3] Remove this dependent [p] This will remove [First Name Last Name] and all their information from your list of dependents. | Confirm or cancel |
-| Modal - Cancel Adding | [h3]Cancel adding this dependent [p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added. | Confirm or cancel |
-| Modal - Cancel Editing | [h3] Cancel editing this dependent [p] This will stop editing [First Name Last Name]. You will return to a list of any previously added dependents and your edits will not be applied. | Confirm or cancel | 
-| Deductible alert | [p] Note: We understand in some cases your expenses might be higher than your income. If your expenses exceed your income, we'll adjust them to be equal to your income. This won't affect your application or benefits. | None, informational |
+| Modal - Delete Confirmation | [h3] Remove this dependent? [p] This will remove [First Name Last Name] and all their information from your list of dependents. | Confirm or cancel |
+| Modal - Cancel Adding | [h3]Cancel adding this dependent? [p] If you cancel adding this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents. | Confirm or cancel |
+| Modal - Cancel Editing | [h3] Cancel editing this dependent? [p] If you cancel editing this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents. | Confirm or cancel | 
 
 
 #### Feedback Messages - Individual form fields
