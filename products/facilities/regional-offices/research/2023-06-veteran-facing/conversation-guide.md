@@ -19,7 +19,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page:* **[TBD]()**
+- *Open a standalone browser window to web page:* **bit.ly/3QwOn4F**
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -203,7 +203,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 
 Let's suppose that (Google/VA.gov) led you to the page that I'm going to show you. It's a prototype that isn't very interactive–some things work, and many things do not. I'm looking for **your feedback**, including any issues that you see or questions that you have. I'd like you to talk to me about what you want to do BEFORE you click anything.
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **TBD**
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/3QwOn4F**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Do you see the link? 
