@@ -9,9 +9,9 @@ Education
 |Stakeholder|Business area|
 |:--|:--|
 |Dawn Arnold|Education|
-|Jacqueline Mikoley|Education|
-|Kendra Stewart|Education|
-|Lisa Eaton|Education|
+|Jacqueline Mikoley|Education: Buffalo|
+|Kendra Stewart|Work Study|
+|Lisa Eaton|Education: Muskogee|
 |Matthew Ziolkowski|Education|
 |Michael Napper|Education|
 |Tammy Hurley|Education|
