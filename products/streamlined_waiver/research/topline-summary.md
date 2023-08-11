@@ -43,7 +43,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 **Overall Comprehension**
 
-- The majority of participants understood the purpose of the form, with the exception of 2 participants: one who said she had suffered a stroke that affected her memory, and the other who did not understand the form.
+- The majority of participants understood the purpose of the form, with the exception of 2 participants: one who said she had suffered a stroke that affected her memory, and the other who did not understand the form in the beginning.
 
 > Quote (if relevant)
 
@@ -58,5 +58,11 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 **Transition page**
 
 - Since the transition page was confusing for some participants, we recommend removing the "next steps" portion as part of the same alert as "skipping ahead" to minimize confusion, and separate different ideas.
+
+> Quote (if relevant)
+
+**The cash on hand question was easily understood by all participants**
+
+- Participants easily understood the "Cash on hand" question and thought it was worded well. 
 
 > Quote (if relevant)
