@@ -30,12 +30,16 @@ See test cases above
 |1. |      Macbook       |  Ventura (latest)  | Chrome   |
 |2. |      Macbook       |  Ventura (latest)  | Edge     |
 |3. |      Macbook       |  Ventura (latest)  | Safari   |
-|4. |     iphone 13      |    iOS (latest)    | Chrome   |
-|5. |     iphone 13      |    iOS (latest)    | Edge     |
-|6. |     iphone 13      |    iOS (latest)    | Safari   |
-|7. |         PC         |     Windows 10     | Chrome   |
-|8. |         PC         |     Windows 10     | Edge     |
-|9. | Samsung Galaxy S21 |      Android       | Chrome   |
+|4. |      Macbook       |  Ventura (latest)  | Firefox  |
+|5. |     iphone 13      |    iOS (latest)    | Chrome   |
+|6. |     iphone 13      |    iOS (latest)    | Edge     |
+|7. |     iphone 13      |    iOS (latest)    | Safari   |
+|7. |     iphone 13      |    iOS (latest)    | Firefox  |
+|8. |         PC         |     Windows 10     | Chrome   |
+|9. |         PC         |     Windows 10     | Edge     |
+|10.|         PC         |     Windows 10     | Firefox  |
+|11.| Samsung Galaxy S21 |      Android       | Chrome   |
+
 
 ### How We Will Test and Track
 1. Use the spreadsheet in Test Scenario section to document test cases, browser/os/device combos and pass/fail
