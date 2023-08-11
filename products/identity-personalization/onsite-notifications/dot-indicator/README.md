@@ -59,7 +59,7 @@ The dot indicator is a notificatio style that aims to indicate that there is som
 
 |Project/Inititive|Epic|Launch date|
 |---|---|---|
-|[Create dot indicator]()|-|In progress|
+|[Create dot indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md)|-|In progress|
 
 ## Documentation
 
