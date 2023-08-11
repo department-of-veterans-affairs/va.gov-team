@@ -87,13 +87,41 @@
 * Standing question for the POs
   * Any new work we should be on the lookout for?
   * Any priority shifts?
-* Sprint 77 Planning (Adam)
+* Sprint 78 Planning (Adam)
   * SoS (Sprint Tab)[https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3]
-     * Projects starting: Travel Reimbursement Step 1 , Check-In Unhappy Path Copy, 
-     * Projects expected to fall off - VHIC Step 1, Veteran Status (implementation TBD), Medication Readout, Mobile App Retention Analysis
+     * Projects starting: 
+     * Projects expected to fall off
 
 <details>
 <Summary>Historical Agendas and Meeting Notes </Summary>
+
+## 8/9/23 Agenda
+* Q3 Projects in Progress
+   * 3 Yellow projects
+      * Check-In (status from last SoS - related to dependency on other team) 
+      * Customer Tabs - rollback 2.0.9; SiS team is involved - awaiting next steps from them
+      * VHIC - mtg tomorrow in order to get contacts / info in order to get started
+      * Design System Repo - Ryan has a meeting to review the roadmap and get Github staff contact
+* Standing question for the POs
+  * Any new work we should be on the lookout for?
+      * Matt / Seth message from Ericka Robins (not sure of spelling) to get bullet points - both agreed to follow-up
+      * VANotify is doing some work - does not impact mobile / existing notifications
+          * But impacts new notifications - business is looking into it OCTO is staying in touch
+      * Offsite that OCTO is participating in October - will have more info to share after  
+  * Any priority shifts? None
+* Sprint 77 Planning (Adam)
+   * Ryan provided additional details on improving
+      * less of a readout and interested in the conversation on epics being worked on and their tickets
+      * Seth to follow-up with Jennifer on this 
+   * SoS (Sprint Tab)[https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3]
+     * Projects starting: Travel Reimbursement Step 1 , Check-In Unhappy Path Copy, 
+     * Projects expected to fall off - VHIC Step 1, Veteran Status (implementation TBD), Medication Readout, Mobile App Retention Analysis
+     * Matt talked about additional discussion on handling surplus of capacity
+     * Matt mentioned Labs and Test may be in consideration for Q3 (though no planned)
+         * BE Jayson is working with Rachel and could do additional assessments of this and also Travel Pay
+ * Other
+     * Ryan - Just go ahead and put time on my calendar; I appreciate you asking but feel free to just put it on and I will respond or ask for a new time   
+
  
 ## 7/25/23 Agenda:
 * Q3 Projects in Progress
