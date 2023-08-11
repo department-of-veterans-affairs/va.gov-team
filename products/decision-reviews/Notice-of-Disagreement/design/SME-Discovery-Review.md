@@ -11,6 +11,7 @@ Our team is working on the second version of the form, and iterating based on op
 
 - How does the intake team use the area of disagreement?
 - If the user identifies their area of disagreement as 'something else', can the claim still be processed?
+  - Does that impact the time it takes to process the claim?
 - How does the intake team process additional explanation provided on a separate sheet of paper?
   - How do those explanations typically look like?
   - Is there typically one explanation for the form, or does it depend on the issues submitted?
