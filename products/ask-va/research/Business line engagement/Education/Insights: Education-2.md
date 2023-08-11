@@ -1,5 +1,5 @@
 # Insights: EDUCATION BUSINESS LINE #2
-*Ask VA Integration Team, August 2023*
+*Ask VA Integration Team, August 9, 2023*
 
 ## Agenda
 
