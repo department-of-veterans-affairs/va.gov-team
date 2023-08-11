@@ -39,8 +39,7 @@ This research supported this goal by:
  
 |Type of notification|Purpose|VA Examples|Opportunities|
 |----|----|-----|-----|
-|Event-based notifications|User feedback - Respond to an action a user has taken to draw their attention to something.|<img width="397" alt="Screenshot 2023-08-11 at 12 13 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/aca42396-6f4e-4843-8817-270304fad529">
-|These alerts can contain a link and we may be able to make better use of that feature of the component. For example, giving an option to "Undo" an action when technically feasible is a common pattern in these type of alerts that we're not currently using.|
+|Event-based notifications|User feedback - Respond to an action a user has taken to draw their attention to something.|<img width="397" alt="Screenshot 2023-08-11 at 12 13 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/aca42396-6f4e-4843-8817-270304fad529">|These alerts can contain a link and we may be able to make better use of that feature of the component. For example, giving an option to "Undo" an action when technically feasible is a common pattern in these type of alerts that we're not currently using.|
 
 
 
