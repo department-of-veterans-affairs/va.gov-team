@@ -37,9 +37,9 @@ This research supported this goal by:
   - Purpose: To specify the amount of unread/unseen things within a category; To draw attention to new, important content on a page that might otherwise be missed
   - We use the [tag](https://design.va.gov/components/tag) in the VA design system, as well as a dot that is not yet part of the design system.
  
-|Type of notification|Purpose|VA Examples|Opportunities|
-|----|----|-----|-----|
-|Event-based notifications|User feedback - Respond to an action a user has taken to draw their attention to something.|<img width="397" alt="Screenshot 2023-08-11 at 12 13 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/aca42396-6f4e-4843-8817-270304fad529">|These alerts can contain a link and we may be able to make better use of that feature of the component. For example, giving an option to "Undo" an action when technically feasible is a common pattern in these type of alerts that we're not currently using.|
+|Type of notification|Purpose|Documentation|VA Examples|Opportunities|
+|----|----|-----|-----|-----|
+|Event-based notifications|User feedback - Respond to an action a user has taken to draw their attention to something.|[Alerts in VA design system](https://design.va.gov/components/alert)|<img width="397" alt="Screenshot 2023-08-11 at 12 13 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/aca42396-6f4e-4843-8817-270304fad529">|These alerts can contain a link and we may be able to make better use of that feature of the component. For example, giving an option to "Undo" an action when technically feasible is a common pattern in these type of alerts that we're not currently using.|
 
 
 
