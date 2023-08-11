@@ -54,12 +54,17 @@ Learnings will help refine individual questions and the overall list of them in 
 1. Do Veterans know enough about their military service to answer the questions? If not, what do they need to answer them?
 
 1. What feedback do Veterans have on the results (including date ranges and next steps)?
+     1. Do Veterans understand the results, especially the first of the 2 screens shown when their service might qualify?
+     1. Do Veterans understand what “presumptive conditions” are? (it’s language that the VA uses) 
+
+1. If the tool says that they're eligible, do they feel like applying?
 
 
 ### Hypotheses
 1. Veterans will find the questions to be clear and easy to understand and answer.
 2. Veterans will not be overwhelmed by the total number of questions they need to answer.
-1. Veterans will understand the results screen, not be confused by it, and know what they should do next. 
+1. The results are simple enough for Veterans to understand and not misleading. 
+1. From the results screen, Veterans will know what they should do next. 
 
 ## Method	
 We will conduct **usability testing** to guide research participants through a working prototype that presents the questions in the PACT Act wizard. 
@@ -67,9 +72,10 @@ We will conduct **usability testing** to guide research participants through a w
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
 ### Ideas for conversation guide
-- If the questions include compound questions with both a date range and a location, later in the research session consider asking each part of the question separately to assess if the participant answered the compound question accurately.
 - Ask if participant has VA health care and/or disability compensation.
-- Consider providing an "I don't know" option to each yes/no question.
+- When participant sees the results screen, ask what it means to them in order to gauge understanding, esp. the phrase "presumtive conditions"
+- After participant sees results screen, ask what they would do next (if anything). Apply?
+
 
 
 ### Research materials
