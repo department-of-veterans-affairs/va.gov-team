@@ -591,50 +591,125 @@ Month Day Year (dropdowns)
 ## Step 4 Household information 
 
 ---
+Section: Introduction/disclose financials
+---
+
+#### Page: Financial introduction page
+#### URL: health-care/apply/application/household-information-v2/financial-information-use
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+
+[p] Next we'll ask about your household financial information from 2022. We’ll ask about income and expenses for you, your spouse (if you’re married), and any dependents you may have.
+
+[h3] How we use your household financial information  
+
+[p] It’s your choice whether you want to share your financial information. Before you decide, here’s what to know about how we’ll use your financial information. 
+
+[p]{bold}   We use your financial information to determine these factors: 
+
+[ul]
+**If you’re eligible for VA health care based on your income.** You may be eligible based on factors other than your income. We call these “enhanced eligibility status” factors. If you don’t have one of these factors, we’ll use your income to decide if you’re eligible. 
+**If you’re eligible for travel pay reimbursement.** Reimbursement means we pay you back for the cost of travel to and from your VA health appointments. 
+**If you’ll need to pay a copay for non-service-connected care or prescription medicines.** This means you may need to pay a fixed amount for some types of care or medications you receive from a VA health care provider or an approved community care provider.
+
+[/end ul]
+
+[p] **Note:** We verify the financial information you provide with the Internal Revenue Service (IRS).  
+
+[component additional info]
+
+[label] Learn more about enhanced eligibility status for VA health care
+
+[content]
+
+[p] **You may qualify for enhanced eligibility status if you receive any of these benefits:**  
+
+[ul]
+	• 	VA pension 
+	• 	VA service-connected disability compensation 
+	• 	Medicaid benefits
+[END ul]
+
+[p] **You may also qualify for enhanced eligibility status if you fit one of these descriptions:**
+[ul]
+You’re a former Prisoner of War (POW)  
+You received a Purple Heart 
+You received a Medal of Honor  
+You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998 
+You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987. 
+[END ul]
+[button pair] [<< Back] [Continue >>]
 
 
 
+#### Page: Financial disclosure select
+#### URL: health-care/apply/application/household-information-v2/share-financial-information
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+[component radio select]
+[label] Do you want to share your household financial information? (*Required)
+[select options]
+- Yes
+- No
+[button pair] [<< Back] [Continue >>]
+
+#### Page: Financial disclosure - YES selected
+
+#### URL: health-care/apply/application/household-information-v2/financial-information-needed
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+[h3] Financial information you’ll need
+[p] We’ll ask for income information from 2022 for you, your spouse (if you’re married), and any dependents you may have.  
+[p]**Here’s what income information you’ll need to fill out this section:**
+[ul]
+Gross annual income from work. Gross income is income before taxes and any other deductions. This includes income from a job like wages, bonuses, tips, and severance pay.  
+Net income from a farm, property, or business. Net income is your income after taxes and deductions are subtracted. 
+Other income you received. This includes things like retirement benefits, unemployment, VA benefit compensation, money from the sale of a house, or interest from investments.
+[END ul]
+
+[p] And we’ll ask for you or your spouse’s deductible expenses from 2022.
+
+[p] **Here’s what deductible information you can include in this section:**
+
+[ul]
+Certain health care or education costs
+Funeral or burial expenses for a spouse or dependent child
+[END ul]
+
+[p] These deductible expenses will lower the amount of money we count as your income.
+
+[button pair] [<< Back] [Continue >>]
 
 
 
-## Step 4 of 6: Household Information
+#### Page: Financial disclosure - NO selected
+#### URL: health-care/apply/application/household-information-v2/share-financial-information-confirm
 
-**Financial disclosure**
 
-Next, we’ll ask you to provide your financial information from the most recent tax year, which we’ll verify with the IRS. We use this information to figure out if you:
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+[component featured content blue background]
+[h3] Confirm that you don't want to provide your household financial information
+[p] **If you’re not eligible for VA health care based on enhanced eligibility status,** we need your financial information to decide if you’re eligible based on your income. 
+[p] **If you’re eligible based on enhanced eligibility status,** you don’t have to share your financial information for eligibility. But if you don’t share this information, we may not be able to decide if you qualify for no copays, free medications, or travel reimbursement.
+[button pair] [<< Back] [Continue >>]
 
-1. Are eligible for health care even if you don’t have one of the qualifying factors
-2. Are eligible for added benefits, like reimbusement for travel costs or cost-free medications
-3. Should be charged for copays or medication
+[END component featured content blue background]
 
-_(gray box)_  **Note:** You don’t have to provide your financial information. But if you don’t have a qualifying eligibility factor, this information is the only other way for us to see if you can get VA health care benefits--including added benefits like waived copays. _(end gray box)_
 
-Qualifying factors:
 
-- Former Prisoner of War
-- Received a Purple Heart
-- Recently discharged combat Veteran
-- Discharged for a disability that resulted from your service or got worse in the line of duty
-- Getting VA service-connected disability compensation
-- Getting a VA pension
-- Receiving Medicaid benefits
-- Served in Vietnam between January 9, 1962, and May 7, 1975
-- Served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998
-- Served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987
+---
+Section: Spouse
+---
 
-[Learn more](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits?_ga=2.33134654.1615093133.1624289581-860138168.1616615986) about our income thresholds (also called income limits) and copayments.
-
-Do you want to provide your financial information?(*Required)
-
-Yes
-
-No
-
-_(if no, gray box appears)_ If you don’t provide your financial information and you don’t have another qualifying eligibility factor, VA can’t enroll you. _(end gray box)_
-
-[<< Back] [Continue >>]
-
-_(if yes)_
 
 ## Step 4 of 6: Household Information
 
