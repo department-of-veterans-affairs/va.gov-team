@@ -76,3 +76,7 @@ As a user, I want to:
 ## Questions
 
 - Given resource constraints, a determination needs to be made about the scope and prioritization of this initiative.  Clear objectives and outcomes need to be communicated to ensure aligment with key stakeholders -- including VA business line leads and DEPO leadership.
+
+## Maintenance documentation
+- [Search playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md) - Contains access and architectural information
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/product-outline.md)
