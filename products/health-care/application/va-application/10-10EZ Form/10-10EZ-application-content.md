@@ -589,7 +589,9 @@ Month Day Year (dropdowns)
 ## Step 4 Household information 
 
 ---
-Section: Introduction/disclose financials
+
+**Section: Introduction/disclose financials**
+
 ---
 
 #### Page: Financial introduction page
@@ -641,6 +643,7 @@ You served at least 30 days at Camp Lejeune between August 1, 1953, and December
 [END ul]
 [button pair] [<< Back] [Continue >>]
 
+---
 
 
 #### Page: Financial disclosure select
@@ -655,6 +658,11 @@ You served at least 30 days at Camp Lejeune between August 1, 1953, and December
 - Yes
 - No
 [button pair] [<< Back] [Continue >>]
+
+
+---
+
+
 
 #### Page: Financial disclosure - YES selected
 
@@ -685,6 +693,7 @@ Funeral or burial expenses for a spouse or dependent child
 
 [button pair] [<< Back] [Continue >>]
 
+---
 
 
 #### Page: Financial disclosure - NO selected
@@ -705,7 +714,9 @@ Funeral or burial expenses for a spouse or dependent child
 
 
 ---
-Section: Spouse
+
+**Section: Spouse**
+
 ---
 
 #### Page: Marital status
@@ -733,6 +744,8 @@ Widowed
 Divorced
 
 [button pair] [<< Back] [Continue >>]
+
+---
 
 
 #### Page: Spouse information
@@ -771,6 +784,9 @@ IV
 [button pair] [<< Back] [Continue >>]
 
 
+---
+
+
 #### Page: Spouse additional information
 #### URL: health-care/apply/application/household-information-v2/spouse-additional-information
 
@@ -801,6 +817,8 @@ No
 
 [button pair] [<< Back] [Continue >>]
 
+---
+
 
 #### Page: Spouse financial support (if NO answered on did you live with your spouse)
 #### URL: health-care/apply/application/household-information-v2/spouse-financial-support
@@ -828,6 +846,8 @@ No
 
 [button pair] [<< Back] [Continue >>]
 
+---
+
 
 #### Page: Spouse address and phone number (if answered NO to same address question on additional info page)
 #### URL: health-care/apply/application/household-information-v2/spouse-contact-information
@@ -853,130 +873,381 @@ No
 
 
 ---
-Section: Dependents
+
+**Section: Dependents**
+
+---
+
+URL: health-care/apply/application/##
+Page: Add dependents 
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+
+[component radio select]
+[label] Do you have any dependents to report?(*Required)
+
+[component additional information]
+[label] Who we consider a dependent
+
+[content] 
+[p] **Here’s who we consider to be a dependent:**
+
+[ul]
+A spouse (we recognize same-sex and common law marriages) 
+An unmarried child (including adopted children or stepchildren)
+
+[END ul]
+
+[p] **If your dependent is an unmarried child, one of these descriptions must be true:**
+
+[ul]
+They’re under 18 years old, **or**
+They’re between the ages of 18 and 	23 years old and were attending high school, college, or vocational school full-time or part-time enrolled as a full time student in 2022, **or**
+They're living with a permanent disability that happened before they turned 18
+
+[END ul]
+
+ [select options]
+Yes
+No
+
+[button pair] [<< Back] [Continue >>]
+
+
+
+URL: health-care/apply/application/##
+Page: Dependent’s information (selected YES to dependent question)
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Dependent’s information
+
+[component text input label] Dependent’s first name(*Required)
+
+[component text input label] Dependent’s middle name
+
+[component text input label] Dependent’s last name(*Required)
+
+[component dropdown select] Dependent’s suffix
+[dropdown options]
+Jr. 
+Sr. 
+II 
+III 
+IV
+
+[component dropdown select] What is the dependent’s relationship to you?(*Required)
+[dropdown options]
+Daughter 
+Son 
+Stepson 
+Stepdaughter 
+Father
+Mother 
+Spouse
+
+[component text input label] Dependent’s Social Security number(*Required)
+
+[component date select] Dependent’s date of birth(*Required)
+[dropdowns for: month, day] [ input for year]
+[component date select] When did they become your dependent? (*Required)
+[dropdowns for: month, day] [ input for year]
+
+[button secondary] Cancel adding dependent
+
+[MODAL cancel adding]
+[component modal alert]
+
+[h3] Cancel adding this dependent
+
+[p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added.
+
+[button primary] Yes, cancel adding
+[button secondary] No, continue adding
+
+[END MODAL]
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+URL: health-care/apply/application/##
+Page: Dependent’s additional information (selected YES to dependent question)
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] [FirstName LastName]’s additional information
+
+[component radio select label] Was your dependent permanently and totally disabled before the age of 18? (*Required)
+[select options]
+Yes
+No
+
+[component radio select label] If your dependent is between 18 and 23 years old, were they enrolled as a full time student in 2022? (*Required)
+[select options]
+Yes
+No
+
+[component text input label] Enter the total amount of money your dependent paid for college, vocational rehabilitation, or training (like tuition, book, or supplies) (*Required)
+
+[component radio select label] Did your dependent live with you in 2020? (*Required)
+[select options]
+Yes
+No
+
+[component radio select label] Did your dependent earn income in 2022? (*Required)
+[select options]
+Yes
+No
+
+[button secondary] Cancel adding dependent
+
+[MODAL cancel adding]
+[component modal alert]
+
+[h3] Cancel adding this dependent
+
+[p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added.
+
+[button primary] Yes, cancel adding
+[button secondary] No, continue adding
+
+[END MODAL]
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+URL: health-care/apply/application/##
+Page: Dependent’s support (selected NO to dependent live with you question)
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Financial support for [Dependent’s first last name]
+
+[component radio select label] If your dependent didn’t live with you last year, did you provide any financial support?
+
+[component additional information]
+[label] What we consider financial support
+[content] 
+[p] Please count all support contributions even if they weren’t paid in regular and set amounts. Support can include tuition or medical bill payments.
+
+[select options]
+Yes
+No
+
+
+[button secondary] Cancel adding dependent
+
+[MODAL cancel adding]
+[component modal alert]
+
+[h3] Cancel adding this dependent
+
+[p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added.
+
+[button primary] Yes, cancel adding
+[button secondary] No, continue adding
+
+[END MODAL]
+
+[button pair] [<< Back] [Continue >>]
+
+
+URL: health-care/apply/application/##
+Page: Dependent’s annual income (selected YES to dependent income question)
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] [Dependent’s first last name] annual income
+
+[component label text input] Dependent's gross annual income from employment(*Required)
+[hint text] Gross income is your income before any taxes, and other deductions are subtracted. This includes any employment wages, bonuses, severance pay, and tips. Include your dependent’s income if it could have been used to pay household expenses.
+
+
+[component label text input] Dependent's net annual income from your farm, property, or business(*Required)
+[hint text] Net income is your income after any taxes and other deductions are subtracted.
+
+[component label text input] Dependent's other income (*Required)
+[hint text] This includes any income from Social Security, unemployment, retirement and pension, compensation benefits such as VA disability, and any interest or dividends including, tax-exempt earnings from Individual Retirement Accounts (IRAs) or annuities. 
+
+
+[button secondary] Cancel adding dependent
+
+[MODAL cancel adding]
+[component modal alert]
+
+[h3] Cancel adding this dependent
+
+[p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added.
+
+[button primary] Yes, cancel adding
+[button secondary] No, continue adding
+
+[END MODAL]
+
+[button pair] [<< Back] [Continue >>]
+
+
+URL: health-care/apply/application/##
+Page: Review dependents
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Review your dependents
+
+[EXPERIMENTAL component card]
+[p]**Dependent’s first and last name**
+[p] Relationship
+
+[action link] Edit > 
+
+[EXPERIMENTAL action link] x Remove
+
+[END card]
+
+[component radio select]
+[label] Do you have another dependent to report?(*Required)
+
+[component additional information]
+[label] Who we consider a dependent
+
+[content] 
+[p] **Here’s who we consider to be a dependent:**
+
+[ul]
+A spouse (we recognize same-sex and common law marriages) 
+An unmarried child (including adopted children or stepchildren)
+
+[END ul]
+
+[p] **If your dependent is an unmarried child, one of these descriptions must be true:**
+
+[ul]
+They’re under 18 years old, **or**
+They’re between the ages of 18 and 	23 years old and were attending high school, college, or vocational school full-time or part-time enrolled as a full time student in 2022, **or**
+They're living with a permanent disability that happened before they turned 18
+
+[END ul]
+
+ [select options]
+Yes
+No
+
+
+[REMOVE MODAL]
+[h3] Remove this dependent
+[p] This will remove **[First Name Last Name]** and all their information from your list of dependents.
+[button primary] Yes, remove dependent
+[button secondary] No, cancel
+
+[END MODAL]
+
+
+[CANCEL EDITING MODAL]
+[h3] Cancel editing this dependent
+[p] This will stop editing [First Name Last Name]. You will return to a list of any previously added dependents and your edits will not be applied.
+[button primary] Yes, cancel editing
+[button secondary] No, continue editing
+
+[END MODAL]
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+
+
 ---
 
 
+---
 
-## Step 4 of 6: Household Information
-Do you have any dependents to report?(*Required)
-
-Yes
-
-No
-
-_(if yes-Dependent information)_
-
-Dependent’s first name (*Required)
-
-Dependent’s middle name
-
-Dependent’s last name (*Required)
-
-Dependent’s suffix  _(dropdown)_ Jr. Sr. II III IV
-
-What’s your dependent’s relationship to you?(*Required)  _(dropdown)_ Daughter, Son, Stepson, Stepdaughter, Father, Mother, Spouse
-
-Dependent’s Social Security number (*Required)
-
-Dependent’s date of birth (*Required)
-
-Month Day Year _(dropdown)_
-
-When did they become your dependent? (*Required)
-
-Month Day Year _(dropdown)_
-
-Was your dependent permanently and totally disabled before the age of 18?(*Required)
-
-Yes
-
-No
-
-If your dependent is between 18 and 23 years of age, did they attend school during the last calendar year?
-
-Yes
-
-No
-
-Expenses your dependent paid for college, vocational rehabilitation, or training (e.g., tuition, books, materials)(*Required) $
-
-Did your dependent live with you last year?(*Required)
-
-Yes
-
-No
-
-_(if no)_
-
-If your dependent didn’t live with you last year, did you provide support? (Please count all support contributions even if they weren’t paid in regular and set amounts. Support can include tuition or medical bill payments.)
-
-Yes
-
-No
-
-[Add another Dependent] _(list loop dependent information)_
-
-[<< Back] [Continue >>]
-
-## Step 4 of 6: Household Information
-
-**Annual income**
-
-Please fill this section out to the best of your knowledge. Provide the previous calendar year’s gross annual income for you, your spouse, and your dependents.
-
-**Gross annual income:** This income is from employment only, and doesn’t include income from your farm, ranch, property, or business. When you calculate your gross annual income, include your wages, bonuses, tips, severance pay, and other accrued benefits. Include your dependent’s income information if it could have been used to pay your household expenses.
-
-**Net income:** This is the income from your farm, ranch, property, or business.
-
-**Other income:** This includes retirement and pension income; Social Security Retirement and Social Security Disability income; compensation benefits such as VA disability, unemployment, Workers, and black lung; cash gifts; interest and dividends, including tax exempt earnings and distributions from Individual Retirement Accounts (IRAs) or annuities.
-
-Veteran’s gross annual income from employment(*Required) $
-
-Veteran’s net income from your farm, ranch, property or business(*Required) $
-
-Veteran’s other income amount(*Required) $
-
-**Spouse’s income**
-
-Spouse’s gross annual income from employment(*Required) $
-
-Spouse’s net income from your farm, ranch, property or business(*Required) $
-
-Spouse’s other income amount(*Required) $
-
-**[Dependent name] income**
-
-Dependent’s gross annual income from employment(*Required) $
-
-
-Dependent’s net income from farm, ranch, property or business(*Required) $
-
-Dependent’s other income amount(*Required) $
-
-_(repeat per dependent)_
-
-[<< Back] [Continue >>]
-
-## Step 4 of 6: Household Information
-
-**Previous Calendar Year's Deductible Expenses**
-
-Tell us a bit about your expenses this past calendar year. Enter information for any expenses that apply to you.
-
-What if my expenses are higher than my annual income? _more information_
-
-We understand in some cases your expenses might be higher than your income. If your expenses exceed your income, we’ll adjust them to be equal to your income. This won’t affect your application or benefits. _end more information_
-
-Amount you or your spouse paid in non-reimbursable medical expenses this past year.(*Required) $
-
-Amount you paid in funeral or burial expenses for a deceased spouse or child this past year.(*Required) $
-
-Amount you paid for anything related to your own education (college or vocational) this past year. Do not list your dependents’ educational expenses.(*Required) $
-
-[<< Back] [Continue >>]
+**Section: Financials**
 
 ---
+
+
+URL: health-care/apply/application/##
+Page: Annual income
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+
+[fieldset legend title] Your annual income
+
+[component label text input] Gross annual income from employment(*Required)
+[hint text] Gross income is your income before any taxes, and other deductions are subtracted. This includes any employment wages, bonuses, severance pay, and tips. Include your dependent’s income if it could have been used to pay household expenses.
+
+
+[component label text input] Net annual income from your farm, property, or business(*Required)
+[hint text] Net income is your income after any taxes and other deductions are subtracted.
+
+[component label text input] Other income (*Required)
+[hint text] This includes any income from Social Security, unemployment, retirement and pension, compensation benefits such as VA disability, and any interest or dividends including, tax-exempt earnings from Individual Retirement Accounts (IRAs) or annuities. 
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+URL: health-care/apply/application/##
+Page: Spouse’s annual income
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+
+[fieldset legend title] Spouse’s annual income
+
+[component label text input] Spouse’s gross annual income from employment(*Required)
+[hint text] Gross income is your income before any taxes, and other deductions are subtracted. This includes any employment wages, bonuses, severance pay, and tips. Include your dependent’s income if it could have been used to pay household expenses.
+
+
+[component label text input] Spouse’s net annual income from your farm, property, or business(*Required)
+[hint text] Net income is your income after any taxes and other deductions are subtracted.
+
+[component label text input] Spouse’s other income (*Required)
+[hint text] This includes any income from Social Security, unemployment, retirement and pension, compensation benefits such as VA disability, and any interest or dividends including, tax-exempt earnings from Individual Retirement Accounts (IRAs) or annuities. 
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+URL: health-care/apply/application/##
+Page: Deductible expenses
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+
+[fieldset legend title] Your deductible expenses in 2021
+
+[component alert]
+[p] **Note:** We understand in some cases your expenses might be higher than your income. If your expenses exceed your income, we’ll adjust them to be equal to your income. This won’t affect your application or benefits.
+
+[END Component alert]
+
+
+[component text input label] Amount you or your spouse paid in non-reimbursable medical expenses this past year.(*Required)
+
+[component text input label] Amount you paid in funeral or burial expenses for a deceased spouse or child this past year. (*Required)
+
+[component text input label] Amount you paid for anything related to your own college or vocational education this past year.(*Required)
+
+
+[button pair] [<< Back] [Continue >>]
+
 
 
 
