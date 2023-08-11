@@ -14,7 +14,7 @@ Created in preparation for Design intent: Secure message notification
 
 ## Why not the notification component?
 - Any notification that gets added to the VA health experience is in **addition** to the various notifications that Veterans already receive including texts, phone calls, emails, and mailed letters
-  - Given this information, the current card component in the design system is just too in users' faces for the My Health landing page; it would move the actionable content on the page down the screen and out of sight (essentially becoming an obstacle between the user and the goal they came to the landing page to complete)
+  - Given this information, the current card component in the design system plays too prominent a role on the My Health landing page; it would move the actionable content on the page down the screen and out of sight (essentially becoming an obstacle between the user and the goal they came to the landing page to complete)
  
 - So why add notifications to the health experience at all?
   - Products with good UX help users take advantage of their authenticated session to view/read everything that is new and specific to that user within the product
