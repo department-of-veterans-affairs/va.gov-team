@@ -963,17 +963,7 @@ An unmarried child (including adopted children or stepchildren)
 
 [button secondary] Cancel adding dependent
 
-[MODAL cancel adding]
-[component modal alert]
 
-[h3] Cancel adding this dependent
-
-[p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added.
-
-[button primary] Yes, cancel adding
-[button secondary] No, continue adding
-
-[END MODAL]
 
 
 [button pair] [<< Back] [Continue >>]
@@ -982,7 +972,7 @@ An unmarried child (including adopted children or stepchildren)
 
 #### Page: Dependent’s additional information (selected YES to dependent question)
 
-#### URL: health-care/apply/application/##
+#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
 
 [component progress bar]
 [h2] Step 4 of 6: Household financial information
@@ -992,46 +982,39 @@ An unmarried child (including adopted children or stepchildren)
 
 [component radio select label] Was your dependent permanently and totally disabled before the age of 18? (*Required)
 [select options]
-Yes
-No
+- Yes
+- No
 
 [component radio select label] If your dependent is between 18 and 23 years old, were they enrolled as a full time student in 2022? (*Required)
 [select options]
-Yes
-No
+- Yes
+- No
 
 [component text input label] Enter the total amount of money your dependent paid for college, vocational rehabilitation, or training (like tuition, book, or supplies) (*Required)
 
 [component radio select label] Did your dependent live with you in 2020? (*Required)
 [select options]
-Yes
-No
+- Yes
+- No
 
 [component radio select label] Did your dependent earn income in 2022? (*Required)
 [select options]
-Yes
-No
+- Yes
+- No
 
 [button secondary] Cancel adding dependent
 
-[MODAL cancel adding]
-[component modal alert]
-
-[h3] Cancel adding this dependent
-
-[p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added.
-
-[button primary] Yes, cancel adding
-[button secondary] No, continue adding
-
-[END MODAL]
 
 
 [button pair] [<< Back] [Continue >>]
 
 
-URL: health-care/apply/application/##
-Page: Dependent’s support (selected NO to dependent live with you question)
+----
+
+#### Page: Dependent’s support (selected NO to dependent live with you question)
+#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
+
+
 [component progress bar]
 [h2] Step 4 of 6: Household financial information
 [end progress bar]
@@ -1046,65 +1029,85 @@ Page: Dependent’s support (selected NO to dependent live with you question)
 [p] Please count all support contributions even if they weren’t paid in regular and set amounts. Support can include tuition or medical bill payments.
 
 [select options]
-Yes
-No
+- Yes
+- No
 
 
 [button secondary] Cancel adding dependent
 
-[MODAL cancel adding]
-[component modal alert]
 
-[h3] Cancel adding this dependent
-
-[p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added.
-
-[button primary] Yes, cancel adding
-[button secondary] No, continue adding
-
-[END MODAL]
 
 [button pair] [<< Back] [Continue >>]
 
 
-URL: health-care/apply/application/##
-Page: Dependent’s annual income (selected YES to dependent income question)
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
+----
 
-[fieldset legend title] [Dependent’s first last name] annual income
+#### Page: Dependent’s annual income (selected YES to dependent income question)
 
-[component label text input] Dependent's gross annual income from employment(*Required)
-[hint text] Gross income is your income before any taxes, and other deductions are subtracted. This includes any employment wages, bonuses, severance pay, and tips. Include your dependent’s income if it could have been used to pay household expenses.
+#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
+
+[fieldset legend title] [First Last]’s annual income from 2022
+
+[legend title] Gross income from work
+[p] Gross income is income before taxes and any other deductions are subtracted.
+[additional info component]
+[add info label] What we consider gross annual income 
+[add info content]
+[p bold] Gross income includes these types of income from a job:
+[ul]
+- Wages 
+- Bonuses 
+- Tips 
+- Severance pay  
+[end additional info component]
+
+[component label text input] Enter your dependent's gross annual income from 2022 (*Required)
 
 
-[component label text input] Dependent's net annual income from your farm, property, or business(*Required)
-[hint text] Net income is your income after any taxes and other deductions are subtracted.
+[legend title] Net income from a farm, property, or business
+[p] Net income is income after any taxes and other deductions are subtracted.
+[component label text input] Enter your dependent's net annual income from a farm, property, or business from 2022 (*Required)
 
-[component label text input] Dependent's other income (*Required)
-[hint text] This includes any income from Social Security, unemployment, retirement and pension, compensation benefits such as VA disability, and any interest or dividends including, tax-exempt earnings from Individual Retirement Accounts (IRAs) or annuities. 
 
+
+[legend title] Other income  
+[p] Other income is additional income that doesn't come from a job.
+[additional info component]
+[add info label] What we consider other annual income 
+[add info content]
+[p bold] Other income includes things like this:
+[ul]
+- Retirement benefits
+- Unemployment
+- VA benefit compensation
+- Money from the sale of a house
+- Interest from investments.  
+
+[component label text input] Enter your dependent's other annual income from 2022 (*Required)
+
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+
+
+----
 
 [button secondary] Cancel adding dependent
 
-[MODAL cancel adding]
-[component modal alert]
 
-[h3] Cancel adding this dependent
 
-[p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added.
-
-[button primary] Yes, cancel adding
-[button secondary] No, continue adding
-
-[END MODAL]
 
 [button pair] [<< Back] [Continue >>]
 
+----
 
-URL: health-care/apply/application/##
-Page: Review dependents
+#### Page: Review dependents
+
+#### URL: health-care/apply/application/household-information-v2/dependents
+
+
 [component progress bar]
 [h2] Step 4 of 6: Household financial information
 [end progress bar]
@@ -1131,27 +1134,47 @@ Page: Review dependents
 [p] **Here’s who we consider to be a dependent:**
 
 [ul]
-A spouse (we recognize same-sex and common law marriages) 
-An unmarried child (including adopted children or stepchildren)
+- A spouse (we recognize same-sex and common law marriages) 
+- An unmarried child (including adopted children or stepchildren)
 
 [END ul]
 
 [p] **If your dependent is an unmarried child, one of these descriptions must be true:**
 
 [ul]
-They’re under 18 years old, **or**
-They’re between the ages of 18 and 	23 years old and were attending high school, college, or vocational school full-time or part-time enrolled as a full time student in 2022, **or**
-They're living with a permanent disability that happened before they turned 18
+- They’re under 18 years old, **or**
+- They’re between the ages of 18 and 23 years old and were attending high school, college, or vocational school full-time or part-time enrolled as a full time student in 2022, **or**
+- They're living with a permanent disability that happened before they turned 18
 
 [END ul]
 
- [select options]
-Yes
-No
+[select options]
+- Yes
+- No
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+
+----
+
+[MODAL cancel adding]
+[component modal alert]
+
+[h3] Cancel adding this dependent?
+
+[p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added.
+
+[button primary] Yes, cancel adding
+[button secondary] No, continue adding
+
+[END MODAL]
+
 
 
 [REMOVE MODAL]
-[h3] Remove this dependent
+[h3] Remove this dependent?
 [p] This will remove **[First Name Last Name]** and all their information from your list of dependents.
 [button primary] Yes, remove dependent
 [button secondary] No, cancel
@@ -1160,17 +1183,12 @@ No
 
 
 [CANCEL EDITING MODAL]
-[h3] Cancel editing this dependent
-[p] This will stop editing [First Name Last Name]. You will return to a list of any previously added dependents and your edits will not be applied.
+[h3] Cancel editing this dependent?
+[p] If you cancel editing this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents. 
 [button primary] Yes, cancel editing
 [button secondary] No, continue editing
 
 [END MODAL]
-
-
-[button pair] [<< Back] [Continue >>]
-
-
 
 
 ---
@@ -1182,48 +1200,109 @@ No
 
 ---
 
+#### Page: Veteran's annual income
 
-URL: health-care/apply/application/##
-Page: Annual income
+#### URL: health-care/apply/application/household-information-v2/veteran-annual-income
+
 [component progress bar]
 [h2] Step 4 of 6: Household financial information
 [end progress bar]
 
 
-[fieldset legend title] Your annual income
+[fieldset legend title] Your annual income from 2022
 
-[component label text input] Gross annual income from employment(*Required)
-[hint text] Gross income is your income before any taxes, and other deductions are subtracted. This includes any employment wages, bonuses, severance pay, and tips. Include your dependent’s income if it could have been used to pay household expenses.
+[legend title] Gross income from work
+[p] Gross income is income before taxes and any other deductions are subtracted.
+[additional info component]
+[add info label] What we consider gross annual income 
+[add info content]
+[p bold] Gross income includes these types of income from a job:
+[ul]
+- Wages 
+- Bonuses 
+- Tips 
+- Severance pay  
+[end additional info component]
+
+[component label text input] Enter your gross annual income from 2022 (*Required)
 
 
-[component label text input] Net annual income from your farm, property, or business(*Required)
-[hint text] Net income is your income after any taxes and other deductions are subtracted.
+[legend title] Net income from a farm, property, or business
+[p] Net income is income after any taxes and other deductions are subtracted.
+[component label text input] Enter your net annual income from a farm, property, or business from 2022 (*Required)
 
-[component label text input] Other income (*Required)
-[hint text] This includes any income from Social Security, unemployment, retirement and pension, compensation benefits such as VA disability, and any interest or dividends including, tax-exempt earnings from Individual Retirement Accounts (IRAs) or annuities. 
+
+
+[legend title] Other income  
+[p] Other income is additional income that doesn't come from a job.
+[additional info component]
+[add info label] What we consider other annual income 
+[add info content]
+[p bold] Other income includes things like this:
+[ul]
+- Retirement benefits
+- Unemployment
+- VA benefit compensation
+- Money from the sale of a house
+- Interest from investments.  
+
+[component label text input] Enter your other annual income from 2022 (*Required)
+
 
 
 [button pair] [<< Back] [Continue >>]
 
+----
 
-URL: health-care/apply/application/##
-Page: Spouse’s annual income
+
+#### Page: Spouse’s annual income
+
+#### URL: health-care/apply/application/household-information-v2/spouse-annual-income
+
 [component progress bar]
 [h2] Step 4 of 6: Household financial information
 [end progress bar]
 
 
-[fieldset legend title] Spouse’s annual income
+[fieldset legend title] Spouse's annual income from 2022
 
-[component label text input] Spouse’s gross annual income from employment(*Required)
-[hint text] Gross income is your income before any taxes, and other deductions are subtracted. This includes any employment wages, bonuses, severance pay, and tips. Include your dependent’s income if it could have been used to pay household expenses.
+[legend title] Gross income from work
+[p] Gross income is income before taxes and any other deductions are subtracted.
+[additional info component]
+[add info label] What we consider gross annual income 
+[add info content]
+[p bold] Gross income includes these types of income from a job:
+[ul]
+- Wages 
+- Bonuses 
+- Tips 
+- Severance pay  
+[end additional info component]
+
+[component label text input] Enter your spouse’s gross annual income from 2022 (*Required)
 
 
-[component label text input] Spouse’s net annual income from your farm, property, or business(*Required)
-[hint text] Net income is your income after any taxes and other deductions are subtracted.
+[legend title] Net income from a farm, property, or business
+[p] Net income is income after any taxes and other deductions are subtracted.
+[component label text input] Enter your spouse’s net annual income from a farm, property, or business from 2022 (*Required)
 
-[component label text input] Spouse’s other income (*Required)
-[hint text] This includes any income from Social Security, unemployment, retirement and pension, compensation benefits such as VA disability, and any interest or dividends including, tax-exempt earnings from Individual Retirement Accounts (IRAs) or annuities. 
+
+
+[legend title] Other income  
+[p] Other income is additional income that doesn't come from a job.
+[additional info component]
+[add info label] What we consider other annual income 
+[add info content]
+[p bold] Other income includes things like this:
+[ul]
+- Retirement benefits
+- Unemployment
+- VA benefit compensation
+- Money from the sale of a house
+- Interest from investments.  
+
+[component label text input] Enter your spouse's other annual income from 2022 (*Required)
+
 
 
 [button pair] [<< Back] [Continue >>]
@@ -1231,7 +1310,7 @@ Page: Spouse’s annual income
 ----
 
 #### Page: Deductible expenses
-#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
+#### URL: health-care/apply/application/household-information-v2/deductible-expenses
 
 
 [component progress bar]
