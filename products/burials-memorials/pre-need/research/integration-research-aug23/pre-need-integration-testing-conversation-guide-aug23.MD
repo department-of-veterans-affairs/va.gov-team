@@ -77,6 +77,14 @@ Ok, it seems like we're having some trouble getting the prototype up on your scr
 
 _**Note:** Each participant will go through **ONE** of the tasks below._
 
+[Go to Task 1: Applying for Self - Applicant is a Veteran](# Task 1: Applying for Self - Applicant is a Veteran - 15 minutes)
+
+[Go to Real Cool Heading section](#real-cool-heading)
+
+[Go to Real Cool Heading section](#real-cool-heading)
+
+[Go to Real Cool Heading section](#real-cool-heading)
+
 ## Task 1: Applying for Self - Applicant is a Veteran - 15 minutes
 
 - **Scenario:** For your scenario, pretend that you are Sammy Smith, a Veteran, and that you want to plan for the future and find out if you're eligible for burial in a VA national cemetery. How would you go about filling out this application?  In this example, you are already signed in to VA.gov. I'm going to briefly have you take a look at this information page before you start the application.
