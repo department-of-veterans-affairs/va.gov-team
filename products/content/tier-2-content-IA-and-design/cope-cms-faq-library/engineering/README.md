@@ -3,7 +3,7 @@ Currently implemented on Resources and Support, you may view the configuration o
 
 For existing content types, edit the field_content_block field (Main content) if it exists on the content type, select to add the Q&A paragraph type, then save. (See steps below.)
 
-Now when editors want to add an existing reusable Q&A they will see it as one of the options for adding main content.
+Now when editors want to add an existing reusable Q&A they will see it as one of the options for adding main content. 
 
 ## CMS Instructions: Reusable Q&A Implementation Runbook
 ### Utilizing an existing Entity Reference Revisions field, e.g. as "Main content" block
@@ -95,4 +95,20 @@ The two files referenced under **Pre-Existing Setup** are used to fetch the Drup
     {% endif %}
     </ul>
 {% endfor %}
+```
+
+### Implementing Reusable QA Group Template to Content Blocks loops
+1. `src/site/paragraphs/q_a_group_content.drupal.liquid`
+    This template consumes the Drupal entity data for the QA group and displays the entire QA with answers.
+   
+3. In the looping of content blocks we will add a conditonal to determine if the `entityBundle` on that content block is `q_a_group`.
+
+```
+{% if block.entity.entityBundle == "q_a_group"  %}
+```
+
+3. If so, add in the template via `include`, passing in the `block.entity`.
+
+```
+{% include "src/site/paragraphs/q_a_group_content.drupal.liquid" with entity = block.entity %}
 ```
