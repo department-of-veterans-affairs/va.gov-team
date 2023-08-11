@@ -40,13 +40,13 @@ Before we start, a few things I want to mention:
  
 - I have [a few] additional colleagues who would like to listen in to our conversation. **Is that OK with you?**
  
-	- * * If no: Use Slack to kindly ask the observers to leave the Zoom.
+	- *If no: Use Slack to kindly ask the observers to leave the Zoom.
  
 	- If yes: Admit observers.
  
 	- Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and their role.
  
-	- Once complete, ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth. * *
+	- Once complete, ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth.*
  
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
  
