@@ -134,6 +134,12 @@ Mobile users:
 - At least 1 who lives in a rural area
 
 
+### Screener Questions:
+
+1. Do you have any upcoming appointments listed when you login to VA.gov?
+
+
+
 Timeline
 --------
 
