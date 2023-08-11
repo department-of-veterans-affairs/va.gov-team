@@ -13,8 +13,9 @@ Our team is working on the second version of the form, and iterating based on op
 - If the user identifies their area of disagreement as 'something else', can the claim still be processed?
   - Does that impact the time it takes to process the claim?
 - How does the intake team process additional explanation provided on a separate sheet of paper?
-  - How do those explanations typically look like?
-  - Is there typically one explanation for the form, or does it depend on the issues submitted?
+  - Does the format for this additional explanation impact the time it takes to process the claim?
+  - How do the explanations typically look like?
+  - Do Veterans typically include one explanation for the entire appeal, or do they provide seperate explanations for each issue?
 
 ## Legal
 
