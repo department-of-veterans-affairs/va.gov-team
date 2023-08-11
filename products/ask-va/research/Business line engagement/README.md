@@ -18,11 +18,11 @@ We need to meet with business lines to determine which fields are required in or
 |Women Veterans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Women%20Veterans)|
 |Life insurance|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Life%20insurance)|
 |Veteran ID cards|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Veteran%20ID%20cards)|
-|Sign in and technical issues|[See folder]()|
-|DEERS|[See folder]()|
-|Center for Minority Veterans|[See folder]()|
-|Appeals of denied claims|[See folder]()|
-|Benefits issues outside US|[See folder]()|
+|Sign in and technical issues|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Sign%20in%20and%20technical%20issues)|
+|DEERS|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/DEERS)|
+|Center for Minority Veterans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Center%20for%20Minority%20Veterans)|
+|Appeals of denied claims|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Appeals%20of%20denied%20claims)|
+|Benefits issues outside US|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Benefits%20issues%20outside%20US)|
 |Compensation|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Compensation)|
 |Pension|[See folder]()|
 |Fiduciary program|[See folder]()|
