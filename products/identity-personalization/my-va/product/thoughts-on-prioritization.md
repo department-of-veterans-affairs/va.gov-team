@@ -2,7 +2,7 @@
 
 Let's use this doc to start defining how we think about priority on VA.gov and My VA.
 
-## Prioritization across VA.gov and My VA
+## Prioritization across VA.gov
 
 |Priority level| Information type|
 |--------------|-----------------|
@@ -10,7 +10,7 @@ Let's use this doc to start defining how we think about priority on VA.gov and M
 |Medium priority|<ul><li>Personalized status updates </li><li>System errors/alerts</li></ul>|
 |Lesser priority|<ul><li>General, non-personalized info</li></ul>|
 
-## Prioritization specific to My VA
+## Prioritization specific to My VA content
 
 This is partially based on analyics/user research, partially Samara's opinion. Let's discuss this.
 
