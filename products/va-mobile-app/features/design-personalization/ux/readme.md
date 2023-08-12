@@ -8,4 +8,5 @@ Last updated Aug 2023
     * WIP design strategy
       
 ### Personalization 2022 (May-Jun 2022)
-  * [DRAFT: VA Mobile app: Personalization 2022 - Design Strategy Worksheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-design-strategy-worksheet-2022.md)
+  * [VA Mobile app: Personalization 2022 - Design Strategy Worksheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-design-strategy-worksheet-2022.md)
+     * Deprecated 
