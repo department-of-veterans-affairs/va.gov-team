@@ -48,14 +48,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 **Desired date range:** _TBD_
 - [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63159) 
 
-**Phased rollout:** 
-|Launch % |Time Frame | Planned Date Range|
-|---|---|---|
-| Launch to 25% | 1 week |  | 
-| Launch to 50% | 1 week |  | 
-| Launch to 100% | 1 week | |
-
-
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 [Success metrics on project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/README.md#measuring-success)
 
@@ -65,9 +57,9 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% | 08/11?/2023-TBD |  |
-| Launch to 50% |  | |
-| Launch to 100% |  |  |
+| Launch to 25% | 08/15/2023 |  |
+| Launch to 50% | 08/22/2023 | |
+| Launch to 100% | 08/29/2023 |  |
 
 ### 1-week results at 100%
 ||Results|
