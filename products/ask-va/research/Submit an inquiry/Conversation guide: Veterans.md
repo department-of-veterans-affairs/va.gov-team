@@ -279,15 +279,6 @@ Let's pretend like your medical center is `James J. Peters in the Bronx`.
 * Can you show me how you would choose James J. Peters?
 * What would you do next?
 
-Next you can click `ATLANTA VA MEDICAL CENTER`.
-
-* Can you show me what you would do next?
-* Do see the search results? (If they don't scroll down)
-* If this was a list of VA Medical Centers in your area, would you have any issues finding the right one?
-* How would you choose `ATLANTA VA MEDICAL CENTER`? Can you show me?
-
-You can click `ATLANTA VA MEDICAL CENTER` and then `Continue`.
-
 Okay, let's go ahead and click `Continue`.
 
 #### Things to watch for:
@@ -298,9 +289,9 @@ Okay, let's go ahead and click `Continue`.
 
 > Screen: Tell us your question
 
-* Okay, what is this asking you to type in?
+* Okay, what is this asking you to do?
   * Do you have any hesitations about typing in your question here?
-* Can you show me how you would answer the next question?
+* Can you show me how you would answer the next question, `tell us the reason you're contacting us`?
 
 Okay, so now it looks like we've filled these in.
 
@@ -323,7 +314,7 @@ Before we look closely at this page...
 Let's look at this page more closely now.
 
 * Why do you think the VA is asking you these questions?
-* Can you show me what you would choose here?
+* Can you show me what you would choose on this page?
 * Looking at this second question, can you imagine a scenario where you might choose a different option?
 
 Okay, let's go ahead and click `Continue`.
