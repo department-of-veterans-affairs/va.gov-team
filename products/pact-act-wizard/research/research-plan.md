@@ -92,14 +92,14 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 - At least 5 whose service years include *1989 or earlier*
 - At least 3 whose service years include *1990 or later*
 - At last 3 whose service years include both *before AND after* 1990
+- At least 3 people who use a screen reader 
+- At least 4 people with a cognitive disability (e.g., TBI)
+- At least 4 people who are age 55 or older
 - At least 3 who do NOT have VA health care or disability.
 - At least 7 have a smartphone to use it for the session and...
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
   - Be willing to share over Zoom a web browser window on their smartphone
   - Have a working microphone on their smartphone
-- At least 3 people who use a screen reader 
-- At least 4 people with a cognitive disability (e.g., TBI)
-- At least 4 people who are age 55 or older
 - At least 2 people 35 or under
 - At least 3 people of color
 - At least 2 women
@@ -113,14 +113,6 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
     1. No *(RECRUIT 11)*
     2. Yes *(disqualify)*
 
-1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
-     1. No
-     2. Yes *(RECRUIT 4 and RECORD as having a cognitive disability)*
-
-1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
-     1. No  
-     1. Yes *(RECRUIT 2)*
-
 1. Do you use screen reader technology every time you use the internet? For example, VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer.
 We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
      1. No
@@ -129,6 +121,16 @@ We ask this question because we want to make sure that our website works for peo
 1. Are you willing to join the Zoom session using this assistive technology? 
      1. No
      1. Yes *(RECRUIT 3 to satify "screen reader" criterion)*
+
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
+     1. No
+     2. Yes *(RECRUIT 4 and RECORD as having a cognitive disability)*
+
+1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+     1. No  
+     1. Yes *(RECRUIT 2)*
+
+
 
 1. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
      1. No 
