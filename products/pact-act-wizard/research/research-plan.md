@@ -88,7 +88,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
 
 ### Required criteria 
-- ALL have never applied for VA benefits under the PACT Act
+- NONE have ever applied for VA benefits under the PACT Act
 - At least 5 whose service years include *1989 or earlier*
 - At least 3 whose service years include *1990 or later*
 - At last 3 whose service years include both *before AND after* 1990
@@ -108,21 +108,14 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
-***(Are we open to screen reader users on a computer instead of a smartphone?)***
 
 1. Have you applied for VA benefits under the PACT Act?
     1. No *(RECRUIT 11)*
     2. Yes *(disqualify)*
 
-1. What time zone are you located in? *(RECORD)*
-
 1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
      1. No
      2. Yes *(RECRUIT 4 and RECORD as having a cognitive disability)*
-
-1. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
-     1. No *(disqualify)*
-     2. Yes *(RECRUIT 7)*
 
 1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
      1. No  
@@ -136,6 +129,13 @@ We ask this question because we want to make sure that our website works for peo
 1. Are you willing to join the Zoom session using this assistive technology? 
      1. No
      1. Yes *(RECRUIT 3 to satify "screen reader" criterion)*
+
+1. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
+     1. No 
+     2. Yes *(RECRUIT 7)*
+
+1. What time zone are you located in? *(RECORD)*
+
 
 
 ## Timeline
