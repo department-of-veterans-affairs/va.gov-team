@@ -84,13 +84,15 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 	
 ## Recruitment
 
-Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
+Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
 
 ### Required criteria 
-- At least 5 whose service years include some of 1962-1980
-- At least 3 whose service years include 1990 or later
-- At least 3 whose service years include 2001 or later
-- ALL have a smartphone to use it for the session and...
+- ALL have never applied for VA benefits under the PACT Act
+- At least 5 whose service years include *1989 or earlier*
+- At least 3 whose service years include *1990 or later*
+- At last 3 whose service years include both *before AND after* 1990
+- At least 3 who do NOT have VA health care or disability.
+- At least 7 have a smartphone to use it for the session and...
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
   - Be willing to share over Zoom a web browser window on their smartphone
   - Have a working microphone on their smartphone
@@ -107,10 +109,9 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
 ### Screening Questions
 ***(Are we open to screen reader users on a computer instead of a smartphone?)***
 
-1. How do you use the internet? (check all that apply)
-     1. From a smart phone *(RECRUIT 11)*
-     1. From a tablet or iPad
-     1. From a desktop or laptop computer
+1. Have you applied for VA benefits under the PACT Act?
+    1. No *(RECRUIT 11)*
+    2. Yes *(disqualify)*
 
 1. What time zone are you located in? *(RECORD)*
 
@@ -120,7 +121,7 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
 
 1. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
      1. No *(disqualify)*
-     2. Yes *(RECRUIT 11)*
+     2. Yes *(RECRUIT 7)*
 
 1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
      1. No  
