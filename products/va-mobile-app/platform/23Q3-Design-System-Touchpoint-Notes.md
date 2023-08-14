@@ -6,6 +6,9 @@ Agenda:
 *   Discuss progress and risks for Q3 work
 
 
+## 8/17/23
+*   Choosing 2nd component to build out
+
 ## 8/3/23
 *   IA of Mobile Design System Documentation
      -  for Q3 we will put our Design System and component docs on the Mobile Doc site
