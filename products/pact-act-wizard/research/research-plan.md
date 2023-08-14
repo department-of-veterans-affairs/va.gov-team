@@ -95,7 +95,7 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 - At least 3 people who use a screen reader 
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
-- At least 3 who do NOT have VA health care or disability.
+- At least 3 who do NOT have VA health care or disability
 - At least 7 have a smartphone to use it for the session and...
   - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
   - Be willing to share over Zoom a web browser window on their smartphone
