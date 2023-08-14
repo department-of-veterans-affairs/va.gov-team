@@ -52,21 +52,21 @@ When looking for how much they owe to the VA from past health visits, "financial
 
 There are multiple starting points that can lead them to check how much they owe (see screenshots below). 
 
-<img width="1147" alt="Screenshot 2023-08-09 at 10 42 56 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/61131258-58ef-4b5d-a03b-ed9c5b955dc0">
-
 <img width="628" alt="Screenshot 2023-08-09 at 10 43 58 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/bbef57c1-fecd-4996-bcc4-e2ad3c50aa7f">
 
 **Quote**
 
 
 - **How is the payment linked to the bill?**
+  _Note: There were 2 failed data collections on this question._
 
-? out of ? participants found the "Manage VA bill" link on My VA, which was the only successful path participants took in this study. Participants who found the "Pay copay bill" link on MHV were confused about how much to pay because the link directly sends them to Pay.gov. 
+10 out of 16 participants found the "Manage VA bill" link on My VA, which was the only successful path in this study. 5 out of 16 participants found the "Pay copay bill" link on MHV, and they are aware that they can pay the money through that link. However, one participant called out that they were confused about how much to pay because the link directly sends them to Pay.gov, which is a valuable point. One participant found the pay copay link by navigating to "View all in health care" in the main menu. 
 
 **Quote**
-_"I think just the nugget about including a link to your bills on the MHV landing page, rather than just a link to where you pay the bill."_
+_"Oh this is not it. I want to see how much I own. (after clicking on the "Pay copay" link on the MHV landing page)_
+_"I expect copay to be in health care, not My VA."
 
-From desk research, users can also access copay bills through "Manage VA debt". ? out of ? participants showed interests in the "Manage VA debt" link on My VA at first before clicking on "Manage VA bill". 
+From desk research, users can also access copay bills through "Manage VA debt". Out of the 10 participants who found copay on My VA page, 4 participants wanted to click on the "Manage VA debt" link on My VA at first. Because we didn't enable that link, they then clicked on "Manage VA bill". 
 
 <img width="602" alt="Screenshot 2023-08-09 at 11 18 46 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/79404829-4690-4b51-b1d9-948e304cced1">
 <img width="917" alt="Screenshot 2023-08-09 at 10 44 30 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/87431fe3-81e8-4511-822c-979e545faba0">
