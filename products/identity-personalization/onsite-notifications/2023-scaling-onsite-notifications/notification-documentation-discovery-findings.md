@@ -40,8 +40,8 @@ This research supported this goal by:
 
 - We're already using most types of notifications/alerts but there's a lot of potential to better standardize the way we use them across VA.gov and expand upon the current usage.
 - The exploration of personalized indicators is under way with the MHV to VA.gov team collaborating with the Auth Exp team on a dot indicator, but this project brought to light how we could expand even further on personalized indicators and consider that for certain use cases a badge with a number may be more appropriate.
-  - We can reference other design systems' documentation for guidance on when to use each, like [Google Material Design Badges](https://m3.material.io/components/badges/overview).
+ - We can reference other design systems' documentation for guidance on when to use each, like [Google Material Design Badges](https://m3.material.io/components/badges/overview).
 - Our usage of tags as a status indicator could be more standardized across VA.gov, and we may want to consider utilizing it on My VA when we look at changing the style of the cards to default white.
 - The only type of notification/alert we came across in this discovery work that we are not currently using on VA.gov in any form is a takeover modal.
-  - Not sure if there are any use cases for this and think we can effectively highlight extremely important info/updates with notifications but it's a potential pattern to keep in mind.
+ - Not sure if there are any use cases for this and think we can effectively highlight extremely important info/updates with notifications but it's a potential pattern to keep in mind.
 - **The ultimate goal is for all digital VA products to speak to each other** and this is especially true with notifications. The mobile app team is ahead of us in this realm and we can learn from them as well as work towards a unified notification strategy; a world where a user gets a notification in the app and addresses it and then sees it as read/seen in the VA.gov experience, for example.
