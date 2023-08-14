@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Authenticated Experience, My VA**
 
-Last updated: 8/11/2023
+Last updated: 8/14/2023
 
 [Link to Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691076804207/fa8da503c9c851bc0cad4586c8e742dbe99b8537?sender=ud5c82d652d231345efaf6060)
 
@@ -36,5 +36,12 @@ This research supported this goal by:
 |----|----|-----|-----|
 |Takeover modal|-To notify a user of something urgent <br> -To ensure a notification cannot be ignored <br> -Nothing else can be done on the page without dismissing or taking an action within the modal|<img width="193" alt="Screenshot 2023-08-11 at 12 52 20 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/ac3d4ebb-56e1-4b39-853f-fa490faaa8f4"> <br> <img width="826" alt="Screenshot 2023-08-11 at 12 57 33 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/ef1d5aa7-5337-46c0-863b-d89f3d8f1df6">|- This is very invasive but if there ever was an extremely urgent update, this is something to consider <br> - Would be good to use something this invasive if a user is about to take an action that has major implicatons and cannot be undone <br> - Would need to explore the a11y implications of a takeover modal|
 
-## Additional Insights
+## Key Takeaways
 
+- We're already using most types of notifications/alerts but there's a lot of potential to better standardize the way we use them across VA.gov and expand upon the current usage.
+- The exploration of personalized indicators is under way with the MHV to VA.gov team collaborating with the Auth Exp team on a dot indicator, but this project brought to light how we could expand even further on personalized indicators and consider that for certain use cases a badge with a number may be more appropriate.
+ - We can reference other design systems' documentation for guidance on when to use each, like [Google Material Design Badges](https://m3.material.io/components/badges/overview).
+- Our usage of tags as a status indicator could be more standardized across VA.gov, and we may want to consider utilizing it on My VA when we look at changing the style of the cards to default white.
+- The only type of notification/alert we came across in this discovery work that we are not currently using on VA.gov in any form is a takeover modal.
+ - Not sure if there are any use cases for this and think we can effectively highlight extremely important info/updates with notifications but it's a potential pattern to keep in mind.
+- **The ultimate goal is for all digital VA products to speak to each other** and this is especially true with notifications. The mobile app team is ahead of us in this realm and we can learn from them as well as work towards a unified notification strategy; a world where a user gets a notification in the app and addresses it and then sees it as read/seen in the VA.gov experience, for example.
