@@ -12,6 +12,11 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 8/1/2023
+- New feature added to eCheck-in that allows Veterans to submit a mileage-only travel reimbursement claim as part of the online check-in process (NOTE: not available for Veterans who have more than 1 appointment)
+    - NOTE: feature is currently available at 4 Wilkes-Barre facilities; the feature will be enabled for additional facilities using a phased approach 
+    - [Epic 40265](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+
 ### 6/22/2023
 - Added a visual element (eyebrow) to the eCheck-in workflow questions and appointment pages to provide context to the Veteran that they are using online check-in
     - [Ticket 59168](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59168#event-9618489930)
