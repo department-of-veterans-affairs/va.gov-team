@@ -11,7 +11,6 @@
 - My VA landing page use case (3 min)
   - Show mockup and explain how the dot can be used in the same way it's being proposed for My Health, on My VA as well
 
-
 # Notification Definitions and UX Principles
 Created in preparation for Design intent: Secure message notification
 
@@ -25,6 +24,11 @@ Created in preparation for Design intent: Secure message notification
 - Alerts communicate system-wide issues / problems, for example: claims api is not working at the moment
 - Alerts are viewed by many (all?) users
 - Alerts can be specific to a user when they are confirming that a user action has been successfully completed, for example: Your message was sent  ui in which the alert appears
+
+## Dot behavior/How it works:
+- Dot shows up next to the inbox link on the landing page when there is 1 or more unread message(s) present in the inbox
+- When user checks inbox without opening the unread message(s), the dot indicator remains present
+- When user opens all unread messages, the dot indicator goes away
 
 ## Why not the notification component?
 - Any notification that gets added to the VA health experience is in **addition** to the various notifications that Veterans already receive including texts, phone calls, emails, and mailed letters
