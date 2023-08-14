@@ -1,6 +1,15 @@
 # Conversation Guide: BUSINESS LINE TEMPLATE
 *Ask VA Integration Team, June 2023*
 
+### Update: August 14, 2023
+
+After meeting with two business lines we have decided to change our approach and not use this conversation guide. This will help us:
+- simplify prep
+- shorten the meeting
+- take notes directly in spreadsheets during the meeting
+
+We have also decided not to share designs yet to save time. We will likely share designs with business lines all together, after we have done research.
+
 ## Research goal
 
 Our goal is to **understand which fields are necessary in order for agents to deliver Ask VA (AVA)**. Our research questions are:
