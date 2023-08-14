@@ -351,7 +351,7 @@ Okay, let's go ahead and click `Continue`.
 * Do they understand how the information has been pre-filled?
 * Would they choose to answer questions that are not required?
 
-### 7: Review and submit
+### 11: Review and submit
 
 > Screen: Review and submit
 
@@ -380,7 +380,7 @@ Let's go ahead and click `Continue`.
 * Is it clear how to edit a field (one that is editable)?
 * What do people expect to happen right after they submit their question?
 
-### 8: Submitted
+### 12: Submitted
 
 > Screen: Your question was submitted
 
