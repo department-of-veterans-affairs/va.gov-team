@@ -10,7 +10,7 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 
 ## Final MVP - 8/14/2023 ## 
  - **Post meeting changes**
-   - Modifying Veteran status to better set expectations - going to pull in content from Misty - to verify when she gets back 
+   - Modifying Veteran status name / title to better set expectations - going to pull in content from Misty - to verify when she gets back 
    - Update the chevron to align with Veteran Crisis Line 
    - Add some kind of indicator that the photo can be editted 
    - Verify spacing updates / changes - Brea has added this info to figma 
