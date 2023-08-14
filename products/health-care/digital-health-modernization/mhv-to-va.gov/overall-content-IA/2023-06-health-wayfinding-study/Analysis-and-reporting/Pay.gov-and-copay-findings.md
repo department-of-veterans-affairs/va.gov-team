@@ -49,13 +49,15 @@ We had two sets of data to analyze: observation notes on a Mural board and inter
 
   There are multiple starting points that can lead them to check how much they owe, which are in the main menu, My VA, and MHV. One participant successfully found the pay copay link by navigating to "View all in health care" in the main menu, but there are a few participants who first explored the main menu and couldn't find the information because they said they were looking for terms like "financial, billing, payment" and expecting links with those terms would lead them to the right place.
 
-  10 out of 16 participants found the copay link on My VA. From desk research, users can also access copay bills through "Manage VA debt". Out of the 10 participants who found copay on My VA page, 4 participants wanted to click on the "Manage VA debt" link on My VA at first. Because we didn't enable that link, they then clicked on "Manage VA bill". These 4 participants showed that there is some confusion around debts vs. copay, and they are not sure how to differentiate both. We didn't probe further into what confuses them. 
+  10 out of 16 participants found the copay link on My VA. From desk research, users can also access copay bills through "Manage VA debt". Out of the 10 participants who found copay on My VA page, 4 participants wanted to click on the "Manage VA debt" link on My VA at first. Because we didn't enable that link, they then clicked on "Manage VA bill". These 4 participants showed that there is some confusion around debts vs. copay, and they are not sure how to differentiate both. We didn't probe further into what confuses them.
+
+  **Quote**
+  - _"VA debt is going to hopefully show what you own and what you pay."_
+  
 
 <img width="602" alt="Screenshot 2023-08-09 at 11 18 46 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/79404829-4690-4b51-b1d9-948e304cced1">
 <img width="917" alt="Screenshot 2023-08-09 at 10 44 30 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/87431fe3-81e8-4511-822c-979e545faba0">
 
-  **Quote**
-  - _"VA debt is going to hopefully show what you own and what you pay."_ 
 
 - **How is the payment linked to the bill?**
   _Note: There were 2 failed data collections on this question._
