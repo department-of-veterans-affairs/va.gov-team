@@ -142,7 +142,7 @@ Okay, let’s go ahead and click `OPTION THEY CHOOSE` now.
 
 ### _2: Sign in_
 
-`IF THEY CONTINUE WITHOUT SIGNING IN:` [SKIP TO 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Conversation%20guide%3A%20Veterans.md#4-category)
+`IF THEY CONTINUE WITHOUT SIGNING IN:` [SKIP TO 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Conversation%20guide%3A%20Dependents.md#4-category)
 
 > Screen: Sign in
 
