@@ -108,9 +108,9 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 |---|---|
 |Number of unique users:| [FILL_IN]
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
-|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [Reviewing 502 Gateway Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63323) |
+|Was any downstream service affected by the change?:| No|
+|Types of errors logged:| unknown-title-get-error-api-response	54; <br> cnp.payment.generic.error - No changes were made	33; <br> cnp.payment.routing.number.invalid.checksum 	33;<br> unknown-profile-section-code-unknown-title-unknown-detail-unknown	33; <br> 500 internal error	22; <br> cnp.payment.api.gateway.timeout -Did not receive a timely response from an upstream server-enroll	11; <br> cnp.payment.night.area.number.invalid - No changes were made	11
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [Reviewing 502 Gateway Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63323), the issue seems to be, a downstream system doesn't have an updated address on file which is causing LightHouse to return these 502 errors |
 
 ---
 ### Stage B: 10% of users
