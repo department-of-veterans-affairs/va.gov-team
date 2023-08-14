@@ -1,3 +1,8 @@
+**Past relevant studies**
+- [Notes on medical financial things](https://github.com/department-of-veterans-affairs/va.gov-team/blob/40856fc0afa4dd4397056893f8577601816c9921/products/health-care/digital-health-modernization/pre-mhv-prototype/design/copays-and-travel-pay/notes-debt-resolution-team.md)
+- [Debt Portal Copayment Enhancement Veteran Research Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/readout.md#veterans-looked-for-a-variety-of-keywords-when-searching-for-a-pathway-to-copayment-information-but-primarily-looked-for-bill)
+
+
 # What we did
 ## What are the tasks participants need to complete about AVS and Appointments? 
 **Copay task:**  You want to see if you owe payments to the VA for past health appointments, and how would you go about paying it?
