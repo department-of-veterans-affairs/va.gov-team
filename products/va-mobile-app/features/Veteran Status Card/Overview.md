@@ -46,9 +46,12 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
     - Is there additional data needed or do we need to modify the order of the data presented -  information / discovery needed
     - Perform UAT testing to get direct user feedback / possibly to add it to something existing 
 - **Next Steps**
-    - POs to verify timing to implement and move this into production
+   - POs to discuss if MVP metrics are sufficient or if inclusion of a feedback module should be included 
+   - POs to verify timing to implement and move this into production
          - Estimating it would be a sprint with pushing current MVP plans (a couple points for engineering refinement; 5-8 for QA testing)
-    - POs to discuss if MVP metrics are sufficient or if inclusion of a feedback module should be included 
+         - If we pull in the implementation plan as is for [Sprint 78](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3) , we may need to pull something out to make room as implementation has not yet been planned. Something to discuss during Sprint Planning
+         - If not next sprint it we can plan for another sprint in Q3
+ 
 
  
 ## Important Links
