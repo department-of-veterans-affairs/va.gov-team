@@ -37,7 +37,7 @@ We had two sets of data to analyze: observation notes on a Mural board and inter
   **Quote**
   - _"I would think I'm still on VA.gov. It didn't tell me I was moved (to another website)."_
 
-  Out of the 10 participants who realized they were on a different website, 6 participants told us how they felt about it. They all expressed some levels of discomfort and lack of confidence in the two websites' transition.
+  Out of the 10 participants who realized they were on a different website, 6 participants told us how they felt about it. They all expressed some levels of discomfort and lack of confidence in the two websites' transition (from VA.gov to Pay.gov).
 
    **Quotes**
   - _"It's not the best (feeling), and not the worst. It's weird that I had to come to a different site."_
@@ -48,13 +48,15 @@ We had two sets of data to analyze: observation notes on a Mural board and inter
   _Note: "Manage VA debt link" on My VA was not enabled in the prototype. There were 2 failed data collections on this question._
 
    10 out of 16 participants found the copay link on My VA. 
-When looking for how much they owe to the VA from past health visits, "financial, billing, payment" were mentioned by the participants, and they said they were looking for those terms and expecting links with those terms would lead them to the right place.
+When looking for how much they owe to the VA from past health visits, "financial, billing, payment" were terms mentioned by the participants, and they said they were looking for those terms and expecting links with those terms would lead them to the right place.
 
 There are multiple starting points that can lead them to check how much they owe (see screenshots below). 
 
 <img width="1147" alt="Screenshot 2023-08-09 at 10 42 56 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/61131258-58ef-4b5d-a03b-ed9c5b955dc0">
 
 <img width="628" alt="Screenshot 2023-08-09 at 10 43 58 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/bbef57c1-fecd-4996-bcc4-e2ad3c50aa7f">
+
+**Quote**
 
 
 - **How is the payment linked to the bill?**
