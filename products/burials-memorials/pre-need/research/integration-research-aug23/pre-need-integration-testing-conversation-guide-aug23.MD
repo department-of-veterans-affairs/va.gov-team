@@ -26,7 +26,7 @@
     - _Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)_
    - _Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth. Moderator can turn off camera._
 
-- Are you on a desktop, mobile or tablet device?
+- I'd like to confirm that you're on a [device they specified from participant tracker]
 
 - I'm going to send you a link in the chat that I would like for you to open.
 
