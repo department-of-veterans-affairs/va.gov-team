@@ -84,14 +84,14 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 **KPI: Get direct deposit retrievals and saves to a 95% success rate.**
 
-Stats based on the [Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986) and the [EVSS > Lighthouse migration dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/).
-
+- [Pre-launch stats from direct deposit dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
+- [Launch monitoring from Adam's EVSS > Lighthouse dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)
 |KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)|1 week @25% (8/22/23 - 8/28/23) |1 week @50% (8/29/23 -9/4/23)|1 week @100% (9/5/23 - 9/11/23)| 1 month @100% (9/12/23 - 10/11/23) | 2nd month @100% of users (10/12/23 - 11/11/23)|
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|% of successful retrievals|94%|95.8%|||||||
-|% of failed retrievals|6%|4.2%|||||||
-|% of successful saves|86%|93.2%|||||||
-|% of save failures|14%|6.8%|||||||
+|% of successful retrievals|90%|95%|||||||
+|% of failed retrievals|10%|5%|||||||
+|% of successful saves|84%|92%|||||||
+|% of save failures|16%|8%|||||||
 
 
 ## Key deliverables
