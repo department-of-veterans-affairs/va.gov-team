@@ -7,6 +7,49 @@ As a Veteran with internet connectivity and as an authenticated uesr, I can disc
 ## Problem Statement
  
 When a Veteran calls a call center, the Veteran needs to go through a call tree, identify themselves, and start every conversation from scratch. Is there a way that the mobile app can reduce the burden on Veterans and improve their customer experience by passing some of this information to the call center?
+
+## Final MVP - 8/14/2023 ## 
+ - **Post meeting changes**
+   - Modifying Veteran status to better set expectations - going to pull in content from Misty - to verify when she gets back 
+   - Update the chevron to align with Veteran Crisis Line 
+   - Add some kind of indicator that the photo can be editted 
+   - Verify spacing updates / changes - Brea has added this info to figma 
+ - **MVP**
+    - [This is the MVP](https://www.figma.com/file/Wjq9DkQ3ulXlHhbMrpNHME/%F0%9F%94%8D-Profile-2.0---Working---VAMobile?type=design&node-id=1806-90255&mode=design&t=XtCXFn3wnc9l9407-4) we agreed to move forward with
+    - Hypothesising this information to be the most critical based on discovery and research 
+       1) Image - header;  found most places need to match an idea to a name; Reddit other resources talked about concerns of stolen valor if there is no picture 
+       2) Name -  header ; name of the Veteran 
+       3) Branch - header;  shows branch of military they are in 
+       4) Disablity rating / service connected - showing this first given some merchants 
+       5) Periods of Service - provides proof of their service dates; which we found some evidence that it could impact discount 
+       6) Date of Birth - deprioritized to last as limited research / logic in this being impactful to POS discount 
+ -**Measuring success**
+    - MVP Metrics
+       - number of times Veteran Status button on the name tag on the home page or profile is tapped 
+       - Average time a Veteran is on the Veteran Status full panel 
+       - Looking at App Store reviews and Reddit with relevant feedback
+       - Limitations
+           - Only directional data on usage; not if the product was successful in its use cases 
+           - No explicit way for us to get feedback on if this worked at point of sales
+     - Metric consideration: 
+       - Ask the Veteran every so often if the feature worked in a feedback module similiar to [this user flow](https://www.figma.com/file/Wjq9DkQ3ulXlHhbMrpNHME/%F0%9F%94%8D-Profile-2.0---Working---VAMobile?type=design&node-id=1817-46594&mode=design&t=haNBYaOFXXI4Yuc5-4) 
+ - **Post MVP Considerations**
+    - Displaying years of service - 2 points 
+    - Modify the birthday to be less formal - Currently January 01, 2022 and would like January 1, 2022 (matches period of service; dont feel people use 0 if its a single digit date) - estimated small
+    - Ability to share / print the card  - currently can screenshot - discovery needed 
+    - Integration with mobile wallets - discovery needed 
+    - Unauthenticated experience so Veterans can access the info without logging in - discovery needed 
+    - Typography / format changes - this are being looked out current with UX team - discovery needed 
+    - Feedback module - see [draft here](https://www.figma.com/file/Wjq9DkQ3ulXlHhbMrpNHME/%F0%9F%94%8D-Profile-2.0---Working---VAMobile?type=design&node-id=1817-46594&mode=design&t=haNBYaOFXXI4Yuc5-4)
+    - Modifying the black stripe which is tied to the Veteran Crisis Hotline - discovery needed 
+    - Are we losing anything given we are not using a card format -  information / discovery needed 
+    - Is there additional data needed or do we need to modify the order of the data presented -  information / discovery needed
+    - Perform UAT testing to get direct user feedback / possibly to add it to something existing 
+- **Next Steps**
+    - POs to verify timing to implement and move this into production
+         - Estimating it would be a sprint with pushing current MVP plans (a couple points for engineering refinement; 5-8 for QA testing)
+    - POs to discuss if MVP metrics are sufficient or if inclusion of a feedback module should be included 
+
  
 ## Important Links
 - [PO Product Brief ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/VIC/MobileVIC_ProductBrief.md) - this has original info from when ask was replacing VIC; changed with the MVP May 2023 addition to Veteran Status 
