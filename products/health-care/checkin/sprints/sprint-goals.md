@@ -38,7 +38,7 @@ ________________________________________________________________________________
         - **EPIC: [Unified Check-in: Release 2 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - [[FE] Pre-Check-in & Day-of Landing Page: Display all Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62103)
                 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Create upcoming appointments component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62227)
-                - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [CHIP] Update refreshPreCheckIn to fetch upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62228)
+                - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Update refreshPreCheckIn to fetch upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62228)
                 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Update initateCheckIn to fetch upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62229)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Landing Page: Display the Next Task for "What to do next"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62138)
     - **Sub Goal: Analyze current metrics to see what they tell us**
