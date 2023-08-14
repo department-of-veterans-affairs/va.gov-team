@@ -54,7 +54,7 @@ We had two sets of data to analyze: observation notes on a Mural board and inter
 <img width="602" alt="Screenshot 2023-08-09 at 11 18 46 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/79404829-4690-4b51-b1d9-948e304cced1">
 <img width="917" alt="Screenshot 2023-08-09 at 10 44 30 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/87431fe3-81e8-4511-822c-979e545faba0">
 
-**Quote**
+  **Quote**
 _"VA debt is going to hopefully show what you own and what you pay."_ 
 
 - **How is the payment linked to the bill?**
@@ -62,6 +62,6 @@ _"VA debt is going to hopefully show what you own and what you pay."_
 
   10 out of 16 participants found the "Manage VA bill" link on My VA, which was the only successful path in this study. Participants checked how much they own and were able to pay the bill through the Pay.gov link on the bill page. 5 out of 16 participants found the "Pay copay bill" link on MHV, and they are aware that they can pay the money through that link. However, one participant called out that they were confused about how much to pay because the link directly sends them to Pay.gov, which is a valuable point. One participant found the pay copay link by navigating to "View all in health care" in the main menu. 
 
-**Quote**
+  **Quote**
 - _"Oh this is not it. I want to see how much I own. (after clicking on the "Pay copay" link on the MHV landing page)_
 - _"I expect copay to be in health care, not My VA."_
