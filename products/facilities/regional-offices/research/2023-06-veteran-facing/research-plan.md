@@ -149,14 +149,14 @@ We would like to request that **Perigean calls each participant** to remind them
 
 ### Availability
 
-Team Availability | Time Slots (ET--all pm)
+Team Availability | Time Slots (ET)
 ------------------|--------------
-Aug 28, 2023 | 10-11, 12-1, 3-4, 5-6 pm 
-Aug 29, 2023 | 10-11, 12-1, 3-4, 5-6 pm 
-Aug 30, 2023 | 10-11, 12-1, 3-4, 5-6 pm 
-Aug 31, 2023 | 10-11, 12-1, 3-4, 5-6 pm 
-Sept 1, 2023 | 10-11, 12-1, 3-4, 5-6 pm  
-Sept 5, 2023 | 10-11, 12-1  
+Aug 28, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm 
+Aug 29, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm 
+Aug 30, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm 
+Aug 31, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm 
+Sept 1, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm  
+Sept 5, 2023 | 10-11 am, 12-1  
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
