@@ -44,27 +44,28 @@ The purpose of this research is to **find out whether the questions drafted for 
 Learnings will help refine individual questions and the overall list of them in the wizard.
 
 ### Research questions
-1. What feedback do Veterans have on individual questions?
-     1. Are Veterans able to understand the questions?
-     1. Are Veterans able to accurately answer questions that include both a date range AND a location?
-1. What feedback do Veterans have on the entire set of questions?
-     1. Are there so many questions that Veterans get frustrated or stop before the end?
-     1. Are Veterans bothered by the repetitive construction of the questions?
+1. What feedback do Veterans (and others) have on **individual questions**? 
+1. What feedback do Veterans (and others) have on the **entire set of questions**?
+     1. Are there so many questions that Veterans (and others) get frustrated or stop before the end?
+     1. Are Veterans (and others) bothered by the repetitive construction of the questions?
 
-1. Do Veterans know enough about their military service to answer the questions? If not, what do they need to answer them?
+1. Do Veterans (and others) **know enough about their military service to answer the questions**? If not, what do they need to answer them?
 
-1. What feedback do Veterans have on the results (including date ranges and next steps)?
-     1. Do Veterans understand the results, especially the first of the 2 screens shown when their service might qualify?
-     1. Do Veterans understand what “presumptive conditions” are? (it’s language that the VA uses) 
+1. What feedback do Veterans (and others) have on the **results**?
+     - date ranges
+     - "presumptive conditions"
+     - next steps
+     
 
-1. If the tool says that they're eligible, do they feel like applying?
+1. If the tool says that they're eligible, do they **feel like applying**?
 
 
 ### Hypotheses
-1. Veterans will find the questions to be clear and easy to understand and answer.
-2. Veterans will not be overwhelmed by the total number of questions they need to answer.
-1. The results are simple enough for Veterans to understand and not misleading. 
-1. From the results screen, Veterans will know what they should do next. 
+1. Veterans (and others) will find the questions to be clear and easy to understand and answer.
+2. Veterans (and others) will not be overwhelmed by the total number of questions they need to answer.
+1. The results are simple enough for Veterans (and others) to understand and not seem misleading. 
+1. Veterans (and others) will understand what "presumptive conditions" mean.
+1. From the results screen, Veterans (and others) will know what they should do next. 
 
 ## Method	
 We will conduct **usability testing** to guide research participants through a working prototype that presents the questions in the PACT Act wizard. 
