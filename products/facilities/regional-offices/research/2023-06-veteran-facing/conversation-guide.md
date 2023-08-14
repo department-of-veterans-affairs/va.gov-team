@@ -257,7 +257,7 @@ Imagine that your *[spouse/Veteran]* has some hearing loss that's related to the
   - When you go, what should you have with you? *[photo ID, DD214, medical records]* 
 
 - Is there anything else you need to know before taking the next step?
-- *(No / Yes: what?________________________)*
+  - *(No / Yes: what?________________________)*
   
 ### Task 6: [Home loan > COE--accordion opens]
 *(Veteran only)*
@@ -279,8 +279,8 @@ Your Veteran family member *(the Veteran you care for)* is interested in buying 
       - *notes about Thursday closures*
 
   - When you go, what should you have with you? *[photo ID, DD214]* 
-  - Is there anything else you need to know before taking the next step?
-    - *(No / Yes: what?________________________)*
+- Is there anything else you need to know before taking the next step?
+  - *(No / Yes: what?________________________)*
   
 ### Task 7: [Home loan - Need DD214]
 *(Veteran only)*
@@ -321,7 +321,7 @@ Now some time has passed since your visit to the regional office, and you’re s
   - When will you do that? *[check phone hours for this task specifically]*
 
 - Is there anything else you need to know before taking the next step?
-    - *(No / Yes: what?________________________)*
+  - *(No / Yes: what?________________________)*
   
 ### Task 9: [VA life insurance--no accordion on page]
 
