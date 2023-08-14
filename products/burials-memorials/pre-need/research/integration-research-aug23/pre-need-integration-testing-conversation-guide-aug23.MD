@@ -16,7 +16,7 @@
 ## Project-Specific Setup and Intro - 10 minutes
 
 - _[Moderator turns on camera. Waits to admit observers until consent is received from participant]_ 
-- Thanks for joining us today! My name is [moderator name] and I'm a designer for VA.gov. I also have a colleague on the line, [Charlie or Cindy], observing and taking notes. Today, we're going to review a prototype of the VA Pre-Need application for eligibility determination at a VA national cemetery. We're working on improvements to the form, so it's important that we get feedback from users.
+- Thanks for joining us today! My name is [moderator name] and I'm a designer for VA.gov. I also have some colleagues on the line observing and taking notes. Today, we're going to review a prototype of the VA Pre-Need application for eligibility determination at a VA national cemetery. We're working on improvements to the form, so it's important that we get feedback from users.
 - This entire session should take about 45 minutes or less. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question.
 - You'll be taking a look at a prototype of the application. This prototype is basically made up of images or mockups so none of your actions will affect your actual VA information or benefits and none of your details are collected at any point or associated to your comments. As you click through the prototype, the fields will prefill with test data. 
 - If, for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.
