@@ -213,10 +213,11 @@ Do you see the link?
 
 What are your impressions of what you're looking at? *(RECORD)*
 
+*(Below note if participant comments on; don't ask participant directly...)*
+
 - *Any comments about the 2 phone numbers? If so, ask which they would use and why*
 - *Any comments about the limited services and hours expandable alert?*
 - *Any comments about the 3 action links near top of page? What do they expect from them?*
-  - *(If "Ask a benefit question")* Ask what happens after they click on it.
 
 ### Task 3: [Education (Veteran only)--accordion doesn't open]
 
@@ -236,10 +237,10 @@ Imagine that you’re thinking about how to pay for your kid to go to college. Y
 
 ### Task 5: [Disability--accordion opens]
 *(Veteran only)*
-Imagine that you have some hearing loss that's related to your military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some assistance with your application. Using the information on this page, how could you get help from the Boston Regional Office? 
+Imagine that you have some hearing loss that's related to your military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some assistance applying for benefits. Using the information on this page, how could you get help from the Boston Regional Office? 
 
 *(If not Veteran but caregiver or family member:)*
-Imagine that your *[spouse/Veteran]* has some hearing loss that's related to their military service. They’re not currently receiving monthly disability payments from the VA, and you’d like some assistance with your application. Using the information on this page, how could you get help from the Boston Regional Office?
+Imagine that your *[spouse/Veteran]* has some hearing loss that's related to their military service. They’re not currently receiving monthly disability payments from the VA, and you’d like some assistance applying for benefits. Using the information on this page, how could you get help from the Boston Regional Office?
 
 - *(Veteran benefits > Disability compensation)*
 
@@ -254,6 +255,9 @@ Imagine that your *[spouse/Veteran]* has some hearing loss that's related to the
       - *notes about Thursday closures*
 
   - When you go, what should you have with you? *[photo ID, DD214, medical records]* 
+
+  - Is there anything else you need to know before taking the next step?
+    - *(No / Yes: what?________________________)*
   
 ### Task 6: [Home loan > COE--accordion opens]
 *(Veteran only)*
@@ -275,17 +279,19 @@ Your Veteran family member *(the Veteran you care for)* is interested in buying 
       - *notes about Thursday closures*
 
   - When you go, what should you have with you? *[photo ID, DD214]* 
+  - Is there anything else you need to know before taking the next step?
+    - *(No / Yes: what?________________________)*
   
 ### Task 7: [Home loan - Need DD214]
 *(Veteran only)*
 Say you’ve decided to go to the Boston Regional Office in person to get proof that you qualify for a VA home loan. What do you need to have with you? [DD214]  
 
-One of the items is a DD214. If you don't have a DD214, how could you get it? 
+One of the items is a DD214. If you don't have a DD214, could this office help you get it? 
 
 *(If not Veteran but caregiver or family member:)*
 Say your Veteran family member *(the Veteran you care for)* decides they want to go to the Boston Regional Office in person to get proof that they qualify for a VA home loan. What do they need to have with them? [DD214]
 
-One of the items is a DD214. If they don't have a DD214, how could you help them get it?
+One of the items is a DD214. If they don't have a DD214, could this office help them get it?
 
 - *(Prepare for your visit > What to bring: office can request on your behalf)*
 
@@ -309,9 +315,13 @@ Now some time has passed since your visit to the regional office, and you’re s
 
 - *[if need prompting...]* 
   - How could you talk to someone? *[phone]*
+  - What phone number would you use? *[888-888-8888 is for this service task]*
+    - *(vs. 844-872-4681 for other service task or Main / 800-827-1000 VA benefits hotline)*
   - Do you need an appointment? *[no]* 
   - When will you do that? *[check phone hours for this task specifically]*
-  
+
+- Is there anything else you need to know before taking the next step?
+    - *(No / Yes: what?________________________)*
   
 ### Task 9: [VA life insurance--no accordion on page]
 
@@ -333,6 +343,9 @@ If you wanted help applying for life insurance through the VA, where would you g
   - How could you talk to someone? *[in-person only]*
   - Do you need an appointment? *[yes]* 
   - When will you go? *[check office hours for this task specifically]*
+  
+- Is there anything else you need to know before taking the next step?
+  - *(No / Yes: what?________________________)*
   
 ### Task 11: [Direct deposit--accordion doesn't open]
 *(Veteran only)*
