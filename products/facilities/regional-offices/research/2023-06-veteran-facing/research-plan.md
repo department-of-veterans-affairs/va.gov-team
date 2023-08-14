@@ -43,38 +43,35 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 
 ### Research questions
 #### Before seeing the prototype:
-1. What do Veterans know about VA regional benefit offices?
-1. What tasks do Veterans expect to do at VA regional benefit offices?
+1. What do Veterans (and others) know about VA regional benefit offices?
+1. What tasks do Veterans (and others) expect to do at VA regional benefit offices?
 
 #### From the prototype:
-3. Do Veterans understand which services are available at this location?
-     1. Do Veterans understand and use the categories of services *(i.e., Veteran benefits, Family member & caregiver benefits, Service member benefits, Other services)* to find the service they're looking for? 
-1. Do Veterans understand how services are delivered at this location?
+3. Do Veterans (and others) understand **which services** are available at this location?
+     1. Categories of services *(i.e., Veteran benefits, Family member & caregiver benefits, Service member benefits, Other services)*  
+      10. Service offering accordions that have multiple locations inside them 
+      8. What if they _don't_ find an applicable service on the page? 
+    
+1. Do Veterans (and others) understand **how** services are delivered at this location?
      1. In-person, virtual, or by phone (do people open the appointments accordion unprompted?)
      1. With or without appointments (any comments about location of appointments information?)
      2. Hours of operation--for the office _vs._ only for a specific service
      3. Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour), comment about one of the days
      1. Notice different hours/appointments per service *vs.* regional office in general?
-3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
-11. What do Veterans expect to find under the service accordions?
-     1. Do Veterans understand the different categories of service offerings?
-     6. When prompted with specific tasks, do Veterans navigate to an appropriate service accordion?
-     8. What happens if Veterans _don't_ find an applicable service accordion on the page? 
-     9. Do Veterans expect to find different details for different services?
-     10. How do Veterans interact with service offering accordions that have multiple locations inside them? Do they click on links for more info?
-8. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? 
-     1. What do they expect from "Ask a benefit question"? Probe about what happens after they click on it.
-10. How do Veterans react to seeing 2 phone numbers?
+
+
+10. How do Veterans (and others) react to seeing **2 phone numbers**?
      1. Which phone number would they use and why? 
      2. What do they expect when they call?
+8. Do Veterans (and others) interact with any of the **3 action links** near the top of the page? If so, which ones? 
 
-12. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
+12. What feedback do Veterans (and others) have on content, organization, and length of the regional benefit office web page?
 
 ### Hypotheses
-1. Veterans will understand what they can do at a VA benefit office from the new web page.
-1. Veterans will understand how services are delivered at this location from the new web page.
-2. Veterans will understand how to prepare for a visit to a VA benefit office from the new web page.
-3. Veterans will know what to do if they _don't_ find the kind of help they need on the new web page.
+1. Veterans (and others) will understand **what they can do** at a VA benefit office from the new web page.
+1. Veterans (and others) will understand **how services are delivered** at this location from the new web page.
+2. Veterans (and others) will understand **how to prepare** for a visit to a VA benefit office from the new web page.
+3. Veterans (and others) will know **what to do if they _don't_ find** the kind of help they need on the new web page.
 
 ## Method	
 We will conduct **usability testing** to guide research participants through a click-through prototype. We would like most participants to be on mobile devices. We will be unable to accommodate screen reader users because the prototype won't be accessible.
@@ -96,7 +93,6 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
   - Be willing to share over Zoom a web browser window on their smartphone
   - Have a working microphone on their smartphone
 - 4 have **never visited a VA benefit office**, 3 have **visited in the past 6 months**, and 4 have **visited more than 6 months ago**
-- 5 have **not used any VA benefits before**, and 5 have
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
 - At least 2 people 35 or under
@@ -112,11 +108,6 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
      1. No, never *(RECRUIT 4)*
      1. Yes, in the past 6 months *(RECRUIT 3)*
      2. Yes, more than 6 months ago *(RECRUIT 4)*
-
-
-1. Have you used any VA benefits before? For example, VA health care, education/GI Bill, career services, disability compensation, pension, home loan, life insurance, burial benefits or memorial items.
-     1. No  *(RECRUIT 5)*
-     1. Yes *(RECRUIT 5)*
 
 1. What time zone are you located in? *(RECORD)*
 
@@ -172,11 +163,11 @@ Please list the people who will be serving in each role.
 - Moderator: Alexis Logsdon (alexis.logsdon@a1msolutions.com) 
 - Research guide writing and task development: Cindy Merrill / Alexis Logsdon
 - Participant recruiting & screening: Perigean	
-- Project point of contact: Alexis Logsdon
+- Project point of contact: Alexis Logsdon / Cindy Merrill (only until Aug 25)
 - Participant(s) for pilot test: TBD and TBD
 - Note-takers: Perigean	(in github)
-- Observers: Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Jane Xiong (jane@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session.
+- Observers: Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Jane Xiong (jane@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session, and the sign up sheet will be shared with Perigean so they can add observers' email addresses to individual sessions.
 
 ## Approvals
-- Michelle Middaugh (PO) on TBD
-- VA Research Ops on TBD
+- Michelle Middaugh (PO) on Aug 14, 2023
+- Robyn Singleton (VA Research Ops) on TBD
