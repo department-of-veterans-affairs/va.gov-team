@@ -213,7 +213,7 @@ Okay, it looks like something has appeared.
 
 Okay, let's go ahead and click `Sign in`.
 
-`IF THEY ARE SENT BACK TO SIGN IN:` [BACK TO 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Conversation%20guide%3A%20Veterans.md#2-sign-in)
+`IF THEY ARE SENT BACK TO SIGN IN:` [BACK TO 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Conversation%20guide%3A%20Dependents.md#2-sign-in)
 
 #### Things to watch for:
 * Are they confused about why they are being asked to sign in?
