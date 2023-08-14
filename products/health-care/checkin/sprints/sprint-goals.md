@@ -7,6 +7,8 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Comply with ATO**
     - **Sub Goal: Perform Compliance Tasks**
+ - **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Evolve travel reimbursement during online check-in**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
      - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
      - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
@@ -21,8 +23,9 @@ ________________________________________________________________________________
     - **Sub Goal: Perform Compliance Tasks**
        - TBD
 - **GOAL: Make submission of a travel reimbursement claim easier**          
-   - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
-       - TBD
+    - **Sub Goal: Evolve travel reimbursement during online check-in**
+       - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
+           - TBD
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
