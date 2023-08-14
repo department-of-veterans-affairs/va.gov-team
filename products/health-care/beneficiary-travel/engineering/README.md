@@ -8,6 +8,7 @@
 - BTSSS API PM: Michell Ortiz
 - BTSSS API Technical Lead: Jorge Gomez-
 
+
 ## Authenication
 
 ### OAuth/JWT policy
@@ -59,6 +60,8 @@ Currently, its up to the consuming team to manage their own test data.
 Refer to the [test data](./test.data.md) guide for details
 
 ## Sample curls for QA enviroment 
+
+> [Postman Collection](./postman/BTSSS%20API.postman_collection.json)
 
 ### Get token
 
