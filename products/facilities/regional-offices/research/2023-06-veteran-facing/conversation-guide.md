@@ -256,8 +256,8 @@ Imagine that your *[spouse/Veteran]* has some hearing loss that's related to the
 
   - When you go, what should you have with you? *[photo ID, DD214, medical records]* 
 
-  - Is there anything else you need to know before taking the next step?
-    - *(No / Yes: what?________________________)*
+- Is there anything else you need to know before taking the next step?
+- *(No / Yes: what?________________________)*
   
 ### Task 6: [Home loan > COE--accordion opens]
 *(Veteran only)*
