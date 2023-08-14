@@ -1,5 +1,20 @@
 # Design Weekly Sync Agenda
 
+## 2023-08-14
+
+Attendees: DK, Katelyn, Hieu, Kristen, Emily, Alex
+
+**EZR form wireframe**: Hieu
+
+- Jessica's feedback in Sketch all straight forward and had no main questions or challenges.
+- DK's feedback around one thing per page: Can we still combine fields that can't be changed? DK: Yes, it was a concern and possible feedback that Collab Cycle folks might have. But it can still be explored.
+- Kristen to review the wireframes this week.
+
+**Research synthesis**: Katelyn
+
+- Katelyn to carve out slides/sections she wants to work on in HEC deck and Mural.
+- Katelyn to make a working session for today to team can collaborate on synthesis more.
+
 ## 2023-08-07
 
 Attendees:
