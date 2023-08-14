@@ -169,6 +169,7 @@ _Tell us about your product's timeline. And we'll work with you to meet timeline
 - [ ] I’ll take this to Beth or Danielle’s office hours.
 - [ ] I’d like to schedule time to talk about this.
 - [ ] Let’s work async and meet as needed.
+- [ ] Schedule a kick-off call with your team and CAIA for your project **(Recommended)**
 
  
 ### Accessibility Help in Slack
