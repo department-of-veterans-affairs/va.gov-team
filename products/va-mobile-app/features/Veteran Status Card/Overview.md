@@ -18,6 +18,7 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
     - [This is the MVP](https://www.figma.com/file/Wjq9DkQ3ulXlHhbMrpNHME/%F0%9F%94%8D-Profile-2.0---Working---VAMobile?type=design&node-id=1806-90255&mode=design&t=XtCXFn3wnc9l9407-4) we agreed to move forward with
     - Hypothesising this information to be the most critical based on discovery and research 
        1) Image - header;  found most places need to match an idea to a name; Reddit other resources talked about concerns of stolen valor if there is no picture 
+           - Limitations - only tied to their devices cache - thus only shows on that device and if uninstalled it will be removed 
        2) Name -  header ; name of the Veteran 
        3) Branch - header;  shows branch of military they are in 
        4) Disablity rating / service connected - showing this first given some merchants 
