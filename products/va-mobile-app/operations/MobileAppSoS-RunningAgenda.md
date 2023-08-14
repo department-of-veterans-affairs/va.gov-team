@@ -61,6 +61,11 @@
 | Alternate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | |  | TBD |
 </details>
 
+Sprint 0 Prioritization
+ - Push Notificaitons (question if this is still valid with last weeks VA Notify update)
+ - Appeals Decision Letters
+ - Terms of Use S
+
 ## 2023 Completed work:
 <details>
 <Summary>Completed Work </Summary>
