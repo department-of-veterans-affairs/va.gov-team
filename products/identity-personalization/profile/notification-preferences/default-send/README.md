@@ -1,6 +1,6 @@
 # Project outline: Notifications Settings - Default Send Functionality
 
-**Last Updated: August 1, 2023**
+**Last Updated: August 15, 2023 -- Added key dates**
 
 ### Communications
 
@@ -118,12 +118,11 @@ In order to be able to add email as a channel, we need to do two things: add the
 |[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/releasePlan/defaultSendReleasePlan.md)||
 
 ## Key Dates
-Q2 goals:
-- Add default sent functionality
-- Start updating frontend UI to move from radio button design to checkbox design
 
-Q3 goals:
-- Launch frontend UI updates to move from radio button to checkbox design
+- January 2023: Start discovery on proposed updates
+- February 2023: Complete discovery; Scope work over the next few months.
+- Spring 2023: Begin/complete build
+- August 2023: QA
 
 ## Backend
 
