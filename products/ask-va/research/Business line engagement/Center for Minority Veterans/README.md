@@ -14,4 +14,4 @@ Center for Minority Veterans
 
 ### Engagements
 
-We have not engaged with this business line yet.
+- [August 23, 2023]()
