@@ -1,11 +1,11 @@
 
 # Summary
 
-On Tuesday Auguest 15 2023 around 8:00 AM ET, it was discovered that no online check-ins were successful. 
+On Tuesday Auguest 15 2023 around 7:30 AM ET, it was discovered that no online check-ins were successful. 
 
 # Impact
 
-High: no Veterans were able to check in to their appointments using mobile check-in from ~8:00-11:00 AM ET. 
+High: no Veterans were able to check in to their appointments using mobile check-in from ~7:00-11:00 AM ET. 
 
 # Ownership
 
