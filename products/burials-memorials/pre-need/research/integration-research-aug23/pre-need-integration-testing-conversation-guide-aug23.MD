@@ -83,7 +83,9 @@ _**Note:** Each participant will go through **ONE** of the tasks below._
 
 [Go to Task 3: Applying for Someone Else - Applicant is a Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#task-3-applying-for-someone-else---applicant-is-a-veteran---20-minutes)
 
-[Go to Task 4: Applying for Someone Else - Applicant is a non-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#task-4-applying-for-someone-else---applicant-is-a-non-veteran---20-minutes)
+[Go to Task 4a: Applying for Someone Else (as the sponsor) - Applicant is a non-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#task-4-applying-for-someone-else---applicant-is-a-non-veteran---20-minutes)
+
+[Go to Task 4b: Applying for Someone Else (not as the sponsor) - Applicant is a non-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#task-4-applying-for-someone-else---applicant-is-a-non-veteran---20-minutes)
 
 ## Task 1: Applying for Self - Applicant is a Veteran - 15 minutes
 
@@ -352,7 +354,7 @@ _When participant clicks on the green button to apply, repeat the scenario:_
 
 [Go to Post-Task Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#post-task-interview---5-10-minutes)
 
-## Task 4: Applying for Someone Else - Applicant is a non-Veteran - 20 minutes
+## Task 4a: Applying for Someone Else (as the sponsor) - Applicant is a non-Veteran - 20 minutes
 
 - **Scenario:** For your scenario, pretend that you are Sammy Smith. You're a navy Veteran, and you have a disabled adult dependent son who is 20 years old. You want to plan for the future and find out if your adult son is eligible for burial in a VA national cemetery under your benefits. How would you go about filling out this application?  In this example, you are already signed in to VA.gov. I'm going to briefly have you take a look at this information page before you start the application.
 
@@ -421,6 +423,110 @@ _When participant clicks on the green button to apply, repeat the scenario:_
         - For the discharge character of service options, are you familiar with those?
         - _Things to watch for:_
             - Would they be able to add multiple service periods for their sponsor?
+    - **Sponsor's previous name**
+        -_Have them select YES_
+        - _Things to watch for:_
+            - Do they understand what this field is asking? 
+- **Step 5 of 7: Burial benefits**
+    - **Previous Decedents**
+        - Would you understand what this question is asking about your sponsor?
+        - _Have them select YES_
+        - If they don't understand: Is there a different way you would ask it?
+        - _Things to watch for:_
+            - Do they understand what this field is asking?   
+    - **Desired cemetery**
+        - Do you have something in mind for where the applicant would like to be buried?
+        - If they don't: How would you go about finding a cemetery?
+        - _Things to watch for:_
+            - Does the language in the note make sense to them or do they express any concerns?  
+- **Step 6 of 7: Supporting files**
+    - **Upload supporting files** 
+        - Do you think you would need to upload something here to continue?
+        - What do you think you could provide to help your application process?
+        - How would you go about uploading a file if you're on a mobile device?
+        - What are your thoughts regarding the allowed file type for PDFs?
+- **Step 7 of 7: Review application**
+    - What would you do at this point?
+- **Confirmation** 
+    - What would you do at this point?
+    - When do you think you would get a decision? 
+    - Is there anything that would be helpful to see at this point once you've submitted
+    - _Have them click After You Apply link_
+- **After you apply**
+    - _Optional: Have them briefly look at page to get their thoughts_ 
+
+[Go to Post-Task Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#post-task-interview---5-10-minutes)
+
+## Task 4b: Applying for Someone Else (not as the sponsor) - Applicant is a non-Veteran - 20 minutes
+
+- **Scenario:** For your scenario, pretend that you are Sammy Smith. You're the parent of a disabled adult dependent son who is 20 years old. You want to help your son apply to see if he's eligible for burial in a VA national cemetery with your spouse Veteran sponsoring their benefits. How would you go about filling out this application for your son?  In this example, you are already signed in to VA.gov. I'm going to briefly have you take a look at this information page before you start the application.
+
+_When participant clicks on the green button to apply, repeat the scenario:_
+
+- **Scenario:** I'll repeat the scenario again: Pretend that you are Sammy Smith. You are married to a Veteran. You're the parent of a disabled adult dependent son who is 20 years old. You want to help your son apply to see if he's eligible for burial in a VA national cemetery with your spouse Veteran sponsoring their benefits. How would you go about filling out this application for your son? 
+
+### Questions to ask as they go through scenario
+- **Introduction**
+    - What are your thoughts regarding the content on this page?
+    - Do you feel prepared to start applying?
+        - _Things to watch for:_
+            - Does the user feel the need to click on external links? 
+            - Does the user try to open the Privacy Act Statement before continuing?_  
+- **Step 1 of 7: Preparer information**
+    - _Things to watch for:_
+        - Observe if user has difficulty answering applying for self or someone else field (should select Applying for Someone Else)
+            - Does the user feel the need to open the additional info component?
+        - If they have difficulty, could ask: What are you leaning towards selecting here? Why?
+    - **Preparer details**
+        - Whose name do you think would need to be noted here?
+        - _Things to watch for:_
+            - Do they understand they would need to provide their details here as the preparer (Sammy Smith)? 
+    - **Preparer's mailing address/contact details**
+        - _Things to watch for:_
+            - Do they understand they would need to provide their details here as the preparer? 
+- **Step 2 of 7: Applicant information**
+    - **Applicant relationship to service member / Veteran**
+        - What do you think this question is asking? 
+        - What are your thoughts regarding the available options? (should select Adult Dependent Son)
+        - _Things to watch for:_
+            - Does the user feel the need to open the additional info component? 
+    - **Applicant details**
+        - _Things to watch for:_
+            - Do they understand they would need to provide their child's details here (Robin Smith)? 
+    - **Applicant's mailing address**
+        - _Things to watch for:_
+            - How do users react with applicant address/contact page being moved to this new location?
+- **Step 3 of 7: Sponsor information**
+    - **Applicant's sponsor**
+        - _Should select NO, that they're not the sponsor here._
+        - Do they have any confusion with the sponsor terminology?
+    - **Sponsor details**
+        - What are your thoughts regarding whose details you'll need to provide here? [Should be entering their Veteran spouse's detais]
+        - _Things to watch for:_
+           - Does the user experience any confusion in entering sponsor details?  
+           - Does the user show any confusion with two new birth fields?
+    - **Sponsor's mailing addresss/contact details**
+        - _Things to watch for:_
+            - How do users react with sponsor address/contact page being moved to this new location?
+    - **Sponsor demographics**
+        - Do you have any thoughts regarding the questions and options available here?
+        - Is there anything you would change?
+        - _Things to watch for:_
+            - How do users react to answering potentially sensitive questions?
+            - How do they approach Other Category Comment field?
+    - **Sponsor's passing**        
+        - _Things to watch for:_
+            - How do users react to answering potentially sensitive questions?
+- **Step 4 of 7: Sponsor military history** 
+    - **Sponsor's military details**
+        - Are you familiar with the military status dropdown options?
+        - Would you know what to provide for these fields? If not, how would you get that information?
+    - **Sponsor's service periods**
+        - Would you feel prepared to answer these questions about your sponsor or would you need to look them up? 
+        - What would you do if you didn't have this information on hand?
+        - For the discharge character of service options, are you familiar with those?
+        - _Things to watch for:_
+            - Would they be able to add multiple service periods for their Veteran sponsor?
     - **Sponsor's previous name**
         -_Have them select YES_
         - _Things to watch for:_
