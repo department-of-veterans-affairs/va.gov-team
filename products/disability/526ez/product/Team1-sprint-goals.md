@@ -9,22 +9,32 @@ Period - 08/2/2023 - 08/15/2023
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - ITF
-            - [ ] Enable ITF in production - Canary
-            - [ ] Start staggered release - timeboxed tickets to monitor the release and fix issues as they occur 
+            - [ ] Enable ITF in production - Canary - started, due to production issues still in progress
+            - [ ] Start staggered release - timeboxed tickets to monitor the release and fix issues as they occur - not started due to production issues
         - Submit 
-            - [ ] Transform service
-               - [ ] Treatments
-               - [ ] Service Pay
+            - [X] Transform service
+               - [X] Treatments
+               - [X] Service Pay
+               - [ ] Abstract references to EVSS claims service - still in progress
+               
+   
 - **Features**
    - Intro page changes and 526ez current with paper form
-      - [ ] Toxic Exposure screens - Start Research Plan
-      - [ ] Toxic Exposure screens - Design - Updates based on Midpoint review and VBA stakeholder review
+      - [X] Toxic Exposure screens - Start Research Plan
+      - [X] Toxic Exposure screens - Design - Updates based on Midpoint review and VBA stakeholder review
+   
     
 - **Analytics**
-  - [ ] Send data request to VBA - Research
+  - [ ] Send data request to VBA - Research - did not get to
         
 - **Stretch**
-- [ ] Create submit526 method to be added to tbe BenefitsClaims service to submit the 526 to Lighthouse
+- [ ] Create submit526 method to be added to tbe BenefitsClaims service to submit the 526 to Lighthouse - did not get to
+
+- **Added after sprint started**
+- [ ] Enable Rated disabilities production launch - pre-launch tasks - still in progress
+- [X] Production launch for first pass 526 sync
+- [X] Migrate OMBinfo component on 526 intro page
+- [ ] Complete prototypes for toxic exposure - still in progress
 
 
 ## Sprint 10
