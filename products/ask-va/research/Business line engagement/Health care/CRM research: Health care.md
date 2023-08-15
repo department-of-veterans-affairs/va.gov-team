@@ -60,3 +60,23 @@ We are requesting the following from you (in the form of a Word document or emai
 - Agency Contracting – questions about starting a business/contracting with the VAMC
 - Benefit questions – Service Connection, Aid and Attendance
 - Visitation policies for local VAMC
+
+---
+
+# ECM Write Up
+
+### Submitted by: Debra Hicks on April 26, 2022
+
+We are requesting the following from you (in the form of a Word document or email) so that we can begin to workshop a reference document for agents to assist in correctly routing.
+
+#### 1. Provide any point(s) of contact who are responsible for process documentation and/or are subject matter experts in terms of routing and queues for your LoB
+
+No problem for AVA/ECM. We get the type of inquiries that we should get. Release 3 should take care of any issue with re-routing to the correct facility without going through many hoops. The re-routing inquiries we get typically do not come from Vets directly.
+
+#### 2. Provide a list of most common correctly routed topics in the form of submitter questions (submitter questions you can answer)
+
+We provide information straight out of KM articles. Most questions are regarding VA Healthcare. There is very little need for ad lib.
+
+#### 3. Provide a list of items that seem like they would belong to your LoB, but don’t (submitter questions you cannot answer). Ex: DMC does not handle medical debt/ payments for medical services
+
+This is not an issue for us. KM articles provide the needed responses to most inquiries. Agents just copy and paste  straight from KM artless to include POCs and phone numbers as needed.
