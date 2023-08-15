@@ -60,12 +60,10 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
      1. Notice different hours/appointments per service *vs.* regional office in general?
 
 
-10. How do Veterans (and others) react to seeing **2 phone numbers**?
-     1. Which phone number would they use and why? 
-     2. What do they expect when they call?
-8. Do Veterans (and others) interact with any of the **3 action links** near the top of the page? If so, which ones? 
-
-12. What feedback do Veterans (and others) have on content, organization, and length of the regional benefit office web page?
+12. What feedback do Veterans (and others) have on **content, organization, and length** of the regional benefit office web page?
+     1. Do Veterans (and others) interact with any of the *Prepare for your visit* accordions?
+     1. Do Veterans (and others) interact with any of the 3 action links near the top of the page? If so, which ones?
+     1. How do Veterans (and others) react to seeing 2 phone numbers? Which phone number would they use and why? What do they expect when they call?
 
 ### Hypotheses
 1. Veterans (and others) will understand **what they can do** at a VA benefit office from the new web page.
@@ -170,4 +168,4 @@ Please list the people who will be serving in each role.
 
 ## Approvals
 - Michelle Middaugh (PO) on Aug 14, 2023
-- Robyn Singleton (VA Research Ops) on TBD
+- Shannon Ford (VA Research Ops) on Aug 14, 2023
