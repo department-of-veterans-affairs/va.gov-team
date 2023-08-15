@@ -1,6 +1,13 @@
 # DBEX Rated Disability Endpoint Migration Release Plan
 
 #### NOTE:
+Pros of splitting rated disabilities release
+less points of failure on initial release
+easier to monitor one migration at a time
+Cons of spilitting rated disabilities release
+potential juggling of two different failing data providers (EVSS + Lighthouse)
+potential differing data results between the frontend website vs. the submit background job 
+
 The Lighthouse team has communicated the following:
 
 - Lighthouse staging (staging-api.va.gov) is not intended for consumers / application developers. Its intended use is for Lighthouse developers and API providers on the Lighthouse platform to test, debug, and prepare releases for sandbox (sandbox-api.va.gov) and production (api.va.gov).
