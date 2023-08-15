@@ -1,4 +1,4 @@
-# Initiative Brief: ~Mobile Phone Edit Flow~ Editing as a Sub-Task
+# Initiative Brief: Editing as a Sub-Task
 
 **Last updated: August 15, 2023 -- added OKR/KPI info**
 
