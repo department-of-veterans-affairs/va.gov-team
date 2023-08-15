@@ -32,6 +32,8 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 - This is in comparision to our [last study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/research-findings.md) which tested the full FSR path. The streamlined waiver tested in this current study was described as "easy" and "straightforward".
 
 > "It was easy to navigate...it didn't ask a lot of questions and it was quick." -P5
+> 
+>“[Moderator] Based on your previous experience with this form, how do you feel about seeing that you're able to skip questions on this form? - Well, it makes it easier. I mean, I'm not an old, I mean, I'm old, but I'm not an old like a lot of veterans that I see at the hospital. Something like this would make it much easier for those folks Along with myself.” -P9
 
 
 **Split reception on the condensed intro page versus the full intro page copy**
