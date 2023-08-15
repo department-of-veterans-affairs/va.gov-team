@@ -49,31 +49,33 @@ We will be implementing this initiative using the following releases:
 - Add messaging to Pre-Check-in completion page that a text will be sent to the Veteran
 
 #### Release 2: [New landing page & accompanying content changes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/868762F3-8E8F-4E23-B0DA-34C1783F0A03/canvas)
-   - Pre-Check-in
-   	- Text Message: new content
-	- Login Page: new H1 content
-   	- Landing Page: new Landing page format
-   		- Display task, in dismissible alert, that corresponds to the appt for the link clicked (different alert for grouped appts)
-        	- Display all upcoming appointments
-        	- Details link for each appt
-        	- Don't show statuses
-	 	- Change WF to show new landing page w/ dismissible alert for "your info is up to date" when demographics are up-to-date
-    	- Completion Page: 
-        	- New H1 content (different for grouped appts)
-        	- First accordion not visible if answered Yes to all demo questions
-     - Day-of Check-in
-    	- Text Message: new content
-    	- Login Page: new H1 content
-    	- Landing Page: new Landing page format
-        	- Display task, in dismissible alert, that corresponds to the appt for the link clicked
-        	- Different multiple alerts if there are more than appt in the check-in window
-        	- Display all upcoming appointments
-        	- Details link for each appt
-        	- DO show statuses (but only certain ones)
-        	- Do not show next task if task was completed and user is navigating from the Completion page
-    	- Completion Page: 
-        	- Add link back to Landing page
-        	- Do not show next task if task on Landing page was completed and user is navigating from the Completion page
+- Pre-Check-in
+    - Text Message: new content
+    - Login Page: new H1 & body content 
+    - Landing Page: new Landing page format
+        - Show pre-check-in task in new card component and "What to do next" heading
+        - If demos don't need review, change WF to show landing page w/ dismissible alert, that corresponds to the appt for the link clicked (different alert for grouped appts)
+        - Display all upcoming appointments
+        - Details link for each appt
+        - Don't show statuses within appt list
+        - No going back to upcoming appts list page after pre check in complete
+    - Completion Page: 
+        - New H1 content (different for grouped appts)
+        - First accordion not visible if answered Yes to all demo questions. Accordions should not have any work to be done. 
+- Day-of Check-in
+    - Text Message: new content
+    - Login Page: new H1 & body content
+    - Landing Page: new Landing page format
+        - Show check in task in new card component and "What to do next" heading 
+        - If demos don't need review and there's no travel questions shown, show check-in task in new card component and "What to do next" heading. When Veterans selects "check in now" in the card component, take them to this [confirmation page](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/a/pY4ZOjQ#Version). 
+        - Two card components can be show in the "What to do next" heading if Veteran is within two windows. The 1st card should be specific to the text that was clicked. 
+        - Display all upcoming appointments
+        - Details link for each appt
+        - DO show statuses (but only certain ones) on appt list. Statuses have changed design pattern. 
+        - Do not show next task if task was completed and user is navigating from the Completion page back to the appointment list page
+    - Completion Page: 
+        - Add link back to Landing page
+
 
 #### Release 2.1: Updates to Details page (TENTATIVE)
 - Add ability to see pre-check-in detail appt page w/ "review your information now" call to action
