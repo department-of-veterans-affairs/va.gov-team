@@ -1,6 +1,6 @@
 # My VA frontend
 
-Last updated: March 28, 2023 — still WIP 🚧
+Last updated: August 15, 2023 — still WIP 🚧
 
 The React/Redux frontend for the VA.gov MyVA. Modeled after [Profile's README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/frontend-getting-started.md).
 
@@ -88,9 +88,9 @@ yarn cy:run --spec "path/to/test-file.cypress.spec.js"
 ```
 
 ## Test coverage
-Adam from Profile team wrote [a command to output a test coverage report](https://github.com/department-of-veterans-affairs/vets-website/pull/23751) in HTML format (currently in PR as of 3/28/23).
+Adam from Profile team wrote [a command to output a test coverage report](https://github.com/department-of-veterans-affairs/vets-website/pull/23751) in HTML format.
 
-Once this gets approved and merged, we can run the following:
+Run the following:
 ```
 yarn test:unit --app-folder personalization --coverage --coverage-html
 ```
@@ -105,4 +105,4 @@ Then navigate to **coverage/index.html** and serve it on any live server.
 - [Authenticated Experience team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
 - [Product outline: My VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md)
 - [`vets-website` README.md](https://github.com/department-of-veterans-affairs/vets-website)
-- [Istabul - JavaScript test coverage tool](https://istanbul.js.org/)
+- [Istanbul - JavaScript test coverage tool](https://istanbul.js.org/)
