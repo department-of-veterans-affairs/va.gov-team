@@ -42,6 +42,9 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 > 
 > "I would read the second page (lean intro). But - It doesn't have enough information about what you're seeking. In your work history. Like the employer's name. Starting end date monthly. Like some people might need help to grab their W2 Or their paystub. You know what I mean?" -P1
 
+>“[Moderator] And between these 2 versions, which version do you think is the best for you?The first one [long intro], cause this one, The second one, it doesn't give you a lot of information. I think the first one gives you examples, I guess, is the word. Because some people might not understand monthly living expenses.” -P9
+>
+
 **Overall Comprehension**
 
 - The majority of participants understood the purpose of the form, with the exception of 2 participants: one who said she had suffered a stroke that affected her memory, and the other who did not understand the form in the beginning.
