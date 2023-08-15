@@ -331,7 +331,7 @@ _When participant clicks on the green button to apply, repeat the scenario:_
         - _Things to watch for:_
             - Do they understand what this field is asking?   
     - **Desired cemetery**
-        - Do you have something in mind for where you'd like to be buried?
+        - Do you have something in mind for where the applicant would like to be buried?
         - If they don't: How would you go about finding a cemetery?
         - _Things to watch for:_
             - Does the language in the note make sense to them or do they express any concerns?  
@@ -433,7 +433,7 @@ _When participant clicks on the green button to apply, repeat the scenario:_
         - _Things to watch for:_
             - Do they understand what this field is asking?   
     - **Desired cemetery**
-        - Do you have something in mind for where you'd like to be buried?
+        - Do you have something in mind for where the applicant would like to be buried?
         - If they don't: How would you go about finding a cemetery?
         - _Things to watch for:_
             - Does the language in the note make sense to them or do they express any concerns?  
