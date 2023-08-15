@@ -35,13 +35,28 @@ Now when editors want to add an existing reusable Q&A they will see it as one of
 ## Front End Instructions
 
 ### Pre-Existing Setup
-1. `src/site/paragraphs/q_a_group.drupal.liquid`
-    This template consumes the Drupal entity data for a single Q&A on the content type and uses the `src/site/paragraphs/rich_text_char_limit_1000.drupal.liquid` template to display the contents of the Q&A answer.
+1. `src/site/paragraphs/q_a_group_content.drupal.liquid`
+    This template consumes the Drupal entity data for the QA group and displays the entire QA with answers.
 
 2. `src/site/stages/build/drupal/graphql/paragraph-fragments/qaGroup.paragraph.graphql.js`: 
     This GraphQL query has been modified to consume the new data structure for a Q&A answer coming from Drupal. We received the query snippet (contained within `fieldAnswer`, ending before `targetId`, lines 16-24) from a Drupal developer to facilitate connecting the data from Drupal.
 
-### Implementing a New Content Type
+### Implementing Reusable QA Group Template to Content Blocks loops
+In the content block loop we will include the first file referenced under **Pre-Existing Setup** to correctly reference the QA Group template if QAs are present among the content blocks. 
+
+1. In the looping of content blocks we will add a conditonal to determine if the `entityBundle` on that content block is `q_a_group`.
+
+```
+{% if block.entity.entityBundle == "q_a_group"  %}
+```
+
+2. If so, add in the template via `include`, passing in the `block.entity`.
+
+```
+{% include "src/site/paragraphs/q_a_group_content.drupal.liquid" with entity = block.entity %}
+```
+
+### Implementing a New Content Type inside `src/site/paragraphs/q_a_group_content.drupal.liquid`
 The two files referenced under **Pre-Existing Setup** are used to fetch the Drupal data for Q&As of the type `q_a_group` and render the Q&A answers. The steps below demonstrate how to optionally render a `fieldSectionHeader` if it exists, then loop through the Q&As, display the question, then create the template name for displaying the Q&A answer.
 
 1. Loop through the content blocks coming from Drupal. 
@@ -95,20 +110,4 @@ The two files referenced under **Pre-Existing Setup** are used to fetch the Drup
     {% endif %}
     </ul>
 {% endfor %}
-```
-
-### Implementing Reusable QA Group Template to Content Blocks loops
-1. `src/site/paragraphs/q_a_group_content.drupal.liquid`
-    This template consumes the Drupal entity data for the QA group and displays the entire QA with answers.
-   
-3. In the looping of content blocks we will add a conditonal to determine if the `entityBundle` on that content block is `q_a_group`.
-
-```
-{% if block.entity.entityBundle == "q_a_group"  %}
-```
-
-3. If so, add in the template via `include`, passing in the `block.entity`.
-
-```
-{% include "src/site/paragraphs/q_a_group_content.drupal.liquid" with entity = block.entity %}
 ```
