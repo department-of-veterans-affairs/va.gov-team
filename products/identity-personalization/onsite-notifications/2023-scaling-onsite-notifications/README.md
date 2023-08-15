@@ -1,6 +1,6 @@
 # Initiative outline: Scaling the VANotify integration for onsite notifications
 
-**Last updated: August 3, 2023 -- adding documentation on why we are closing out this initiative.**
+**Last updated: August 15, 2023 -- added key dates.**
 
 ### Communications
 
@@ -247,6 +247,8 @@ At most, this would be a page we could link to from My VA/the health apartment/a
 - January 2023: Project discovery; Scope V2
 - February 2023: Technical discovery; Continued notifications discovery
 - March 2023: Determination that there are no good candidate for immediately adding a new onsite notification; pivoting project to notification center discovery and putting the new notification design through the collab cycle.
+- April - June 2023: Samara on maternity leave
+- July 2023: Samara returns; Determination made to pause efforts to scale the VANotify integration.
 
 ## Backend
 
