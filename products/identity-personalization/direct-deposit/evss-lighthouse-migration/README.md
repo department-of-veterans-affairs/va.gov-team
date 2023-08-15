@@ -119,6 +119,7 @@ As a person that receives payments from VA, I want to be able to easily view and
 - June 2023: On hold while Samara is on maternity leave
 - July 2023: QA; Pre-launch activities
 - August 8, 2023: Launch to 5% of users
+- August 15, 2023: Launched to 10% of users
 
 ## Backend
 
