@@ -198,13 +198,13 @@ _When participant clicks on the green button to apply, repeat the scenario:_
     - **Applicant details**
         - _Things to watch for:_
             - Do they understand they would need to provide their details here (Robin Smith)? 
-            - Does the user show any confusion with two new birth fields?
     - **Applicant's mailing address**
         - _Things to watch for:_
             - How do users react with applicant address/contact page being moved to this new location?
 - **Step 3 of 7: Sponsor information**
     - **Sponsor details**
         - What are your thoughts regarding whose details you'll need to provide here? 
+        - Does the user show any confusion with two new birth fields?
     - **Sponsor's mailing addresss/contact details**
         - _Things to watch for:_
             - How do users react with sponsor address/contact page being moved to this new location?
@@ -385,7 +385,6 @@ _When participant clicks on the green button to apply, repeat the scenario:_
         - What are your thoughts regarding the available options? (should select Adult Dependent Son)
         - _Things to watch for:_
             - Does the user feel the need to open the additional info component? 
-            - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
     - **Applicant details**
         - _Things to watch for:_
             - Do they understand they would need to provide their child's details here (Robin Smith)? 
@@ -399,6 +398,7 @@ _When participant clicks on the green button to apply, repeat the scenario:_
         - Do they have any confusion with the sponsor terminology?
     - **Sponsor details**
         - What are your thoughts regarding whose details you'll need to provide here? 
+        - Does the user experience any confusion in reading details? (Need to scroll to bottom of page)_ 
     - **Sponsor's mailing addresss/contact details**
         - _Things to watch for:_
             - How do users react with sponsor address/contact page being moved to this new location?
