@@ -164,7 +164,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Cindy Merrill / Alexis Logsdon
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Alexis Logsdon / Cindy Merrill (only until Aug 25)
-- Participant(s) for pilot test: TBD and TBD
+- Participant(s) for pilot test: barbara@adhocteam.us, diem.mooney@adhocteam.us, and greg.monahan@adhocteam.us
 - Note-takers: Perigean	(in github)
 - Observers: Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Jane Xiong (jane@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session, and the sign up sheet will be shared with Perigean so they can add observers' email addresses to individual sessions.
 
