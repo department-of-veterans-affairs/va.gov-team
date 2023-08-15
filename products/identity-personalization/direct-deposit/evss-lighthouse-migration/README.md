@@ -89,10 +89,10 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 |KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)|1 week @25% (8/22/23 - 8/28/23) |1 week @50% (8/29/23 -9/4/23)|1 week @100% (9/5/23 - 9/11/23)| 1 month @100% (9/12/23 - 10/11/23) | 2nd month @100% of users (10/12/23 - 11/11/23)|
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|% of successful retrievals|90%|95%|||||||
-|% of failed retrievals|10%|5%|||||||
-|% of successful saves|84%|92%|||||||
-|% of save failures|16%|8%|||||||
+|% of successful retrievals|90%|96%|||||||
+|% of failed retrievals|10%|4%|||||||
+|% of successful saves|84%|91%|||||||
+|% of save failures|16%|9%|||||||
 
 
 ## Key deliverables
