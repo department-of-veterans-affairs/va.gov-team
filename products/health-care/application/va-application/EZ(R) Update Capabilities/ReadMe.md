@@ -3,33 +3,26 @@
 
 ## Outcome Summary
 
-Ability for a Veteran to update some of their information online–namely contact, demographic, financial, dependent, and health insurance.
-Related/Associated product(s)
-10-10EZR PDF
-VA.Gov Profile
-
-Product | Link to product outline
-
+Ability for a Veteran to update some of their information online – namely contact, demographic, financial, dependent, and health insurance.
 
 
 **Related/Associated product(s)**
 - Product | [10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
+- [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
 ## Problem
 
---Veterans need to update their information and currently can only do it via phone, at a facility, or by printing and mailing 10-10EZR form (a couple of exceptions are on VA.Gov Profile)
+- Veterans need to update their information and currently can only do it via phone, at a facility, or by printing and mailing 10-10EZR form (a couple of exceptions are on VA.Gov Profile)
+- We believe this impacts at least hundreds of thousands of Veterans per year based on the number of paper 10-10EZRs processed 
+- Veterans affected are trying to change their contact information – how VA gets in touch with them; and/or insurance, dependent, or financial information which impacts how much they have to pay for their VA healthcare
 
---We believe this impacts at least hundreds of thousands of Veterans per year based on the number of paper 10-10EZRs processed 
+- This furthers OCTO-CIO’s mission of trying to bring more common “paper” functionality online, allowing Veterans to do more things online
 
---Veterans affected are trying to change their contact information–how VA gets in touch with them; and/or insurance, dependent, or financial information which impacts how much they have to pay for their VA healthcare
-
---This furthers OCTO-CIO’s mission of trying to bring more common “paper” functionality online, allowing Veterans to do more things online
-
---This initiative has the bonus effect of helping reduce workload frontline staff and HEC who currently have to update this information prior to an appointment, or process these paper forms. The ability for Veterans online should reduce pre check-in changes and paper EZR forms.
+- This initiative has the bonus effect of helping reduce workload frontline staff and HEC who currently have to update this information prior to an appointment, or process these paper forms. The ability for Veterans online should reduce pre check-in changes and paper EZR forms.
 
 
 ## Desired User Outcomes
-- Veterans update their information online via methods and tools they already use (e.g. VA.Gov Profile)
+- Veterans update their information online via methods and tools they already use (e.g. VA.Gov Profile, online forms)
 - Veterans spend less time filling out paper forms, calling help desk, and talking to frontline staff to update basic information
 - Veterans no longer have to enter a minimum amount of information to change one piece of information
 
@@ -55,28 +48,29 @@ Product | Link to product outline
 ---
 ## Measuring Success
 
-### Objective: TBD.
+### Objective: Provide an effortless Veteran information health care benefit update process
+#### **Key Result #1:** Increase % of Veterans who successfully update their health care benefits information online
 
-#### **Key Result #1:** TBD.
-
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+- Data source
+     - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+     - Google Analytics Dashboard
 
 | Product KPI | Historical (range?) | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------------- |-------------- |-------------- |
-|TBD (metric?) |TBD |TBD | TBD |TBD |
-|TBD (metric?) |TBD |TBD | TBD |TBD |
-|TBD (metric?) |TBD |TBD | TBD |TBD |
+|Submissions |NEW |TBD | TBD |TBD |
+|Submission Failures |NEW |TBD | TBD |TBD |
+|Veteran Validation errors |NEW |TBD | TBD |TBD |
 
 
+#### **Key Result #2:** Increase number of form submissions in a single session
 
-#### **Key Result #2:** Increase application submissions by 5%, and submissions within a single session by 5%
-This is based on a third of current exit rates converting to successful submissions
-
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+- Data source
+     - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+     - Google Analytics Dashboard
 
 | Product KPI | Historical (range?) | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
-|TBD (metric?) |TBD |TBD | TBD |TBD |
+|Single-session submissions |NEW |TBD | TBD |TBD |
 
 
 
@@ -89,6 +83,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - **Value Risks** (will people use it): 
   - Will Veterans use this? Will Veterans who need to update their information want to do so online, or will they only want to do so via phone, mail, and in person?
   - Will enough Veterans use this to justify the expenditure?
+
 - **Usability Risks** (can people figure out how to use it):
   - Will Veterans know that they can now update their information online?
   - Knowing they can update their information online, will Veterans choose to do this, or will they continue paper/phone/in person? Note: We believe this to be the largest risk for this initiative. We will work with both the groups who currently work to update this information, as well as other projects who have brought paper functionality online to do our best to notify Veterans that they can now update their information online. We believe that if this initiative is not successful it will be due in large part to our inability to reach Veterans who would want to update this information online. 
@@ -101,9 +96,6 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
   - What external systems (e.g. IRS, SSA) does VES interface with to make determinations of a Veteran’s information? Do we need to do anything with these third-party applications?
   - Will having this information online (e.g. in the va.gov profile) impact site performance?
 
-
-
-  
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - This should help OCTO-CIO by providing another thing for Veterans to do online
   - This should help stakeholder relationships as it should reduce the number of paper EZRs processed, the number of phone calls to update information, and the number of Veterans who need to update their information during pre check in.
@@ -152,14 +144,16 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Release plan
 - [Production env](https://www.va.gov/health-care/apply/application/introduction)
 
+### Key Decisions
+- 8/15/2023 - After talking with our HEC Stakeholders and the PRA team (Paper Reduction Act) in [July's Stakeholder meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes/2023-07-24%20PRA%20discussion%20on%20EZR%20with%20HEC%20stakeholders.md), and explaining our proposal to incorporate EZR updates within the VA.gov Profile page, it was communicated from PRA team to our PO, Patrick Bateman, that they would like us to stick closer to something like a standalone authenticated workflow.  
 
 ### Key Dates
 
 - May 2023: Initial discovery
-- TBD: Kickoff with outline & begin design
+- August 2023: Kickoff with outline & begin design
 - TBD: Design work ready
+- TBD: Development
 - TBD: Usability testing kickoff
-- TBD: Finalize designs, development
 - TBD: Complete QA
 - TBD: Complete UAT
 - TBD: Launched to ???% of users
@@ -210,7 +204,7 @@ TBD
      - [VA Profile SwaggerUI docs](https://dvagov.sharepoint.com/sites/OITEPMOVAPROPUB/SitePages/VA-Profile-SwaggerUI-Links.aspx?csf=1&web=1&e=1BdP8h) (must be on VA network)
      - Emily Gupta is part of this team and had been contacted in February 2023 regarding the EZR and some data that might be available.  While the communication did not offer any answers to our questions at the time, we were able to get the email contact (above) and VA Profile sharepoint site with some details.
 
-- MyHealteVet
+- MyHealtheVet (MHV on VA.gov)
      - Lynne Johnson - Delivery Manager
      - Tom Anderson - Product Manager
      - Patrick Bateman - OCTO PO
