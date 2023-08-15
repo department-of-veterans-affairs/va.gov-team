@@ -25,7 +25,8 @@ Period - 08/2/2023 - 08/15/2023
    
     
 - **Analytics**
-  - [ ] Send data request to VBA - Research - did not get to
+  - [ ] Send data request to VBA - Research 
+    - This task has changed recently. Emily has access to Tableau dashboard that may provide us some of the info we are looking for. Will be sending the request to VBA after reviewing the dashboard with Emily. ETA - TBD
         
 - **Stretch**
 - [ ] Create submit526 method to be added to tbe BenefitsClaims service to submit the 526 to Lighthouse - did not get to
@@ -34,7 +35,6 @@ Period - 08/2/2023 - 08/15/2023
 - [ ] Enable Rated disabilities production launch - pre-launch tasks - still in progress
 - [X] Production launch for first pass 526 sync
 - [X] Migrate OMBinfo component on 526 intro page
-- [ ] Complete prototypes for toxic exposure - still in progress
 
 
 ## Sprint 10
