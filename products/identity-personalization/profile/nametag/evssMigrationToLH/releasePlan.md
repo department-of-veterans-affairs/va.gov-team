@@ -1,5 +1,7 @@
 # EVSS > LH Disabilities Rating API Migration
 
+**Updated:** 08/15/2023
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -57,9 +59,9 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% | 08/15/2023 |  |
-| Launch to 50% | 08/22/2023 | |
-| Launch to 100% | 08/29/2023 |  |
+| Launch to 25% | 08/21/2023 |  |
+| Launch to 50% | 08/28/2023 | |
+| Launch to 100% | 09/04/2023 |  |
 
 ### 1-week results at 100%
 ||Results|
