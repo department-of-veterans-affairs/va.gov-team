@@ -102,7 +102,7 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
-1. Have you ever visited a VA benefit office? (These VA facilities can help Veterans and families get benefits; they are different from VA Medical Centers, clinics, and Vet Centers.)
+1. Have you ever visited a VA benefit office? (These VA facilities can help Veterans and families get benefits; they include Regional Benefit Offices, Veteran Readiness and Employment Offices, VetSuccess On Campus, and VA Regional Benefit Satellite Offices. They are different from VA Medical Centers, clinics, and Vet Centers.)
      1. No, never *(RECRUIT 4)*
      1. Yes, in the past 6 months *(RECRUIT 3)*
      2. Yes, more than 6 months ago *(RECRUIT 4)*
