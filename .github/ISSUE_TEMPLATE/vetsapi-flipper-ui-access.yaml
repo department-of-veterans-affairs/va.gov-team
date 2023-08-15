@@ -47,3 +47,18 @@ body:
         - label: "[VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
         - label: "[Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
         - label: "Federal User (Bill Chapman will need to confirm)"
+  - type: checkboxes
+    attributes:
+      label: Flipper UI Access requested for the following environments
+      description: Only request Production access if it is necessary
+      options:
+        - label: Lesser Environments (Dev/Staging/Sandbox)
+        - label: Production (if requesting, justify prod access below)
+    validations:
+      required: true
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Reason for Production Access (If requested)
+      description: Please provide justification for Production (feature flags you own, etc)
+      placeholder: I need this access because of <reason>
