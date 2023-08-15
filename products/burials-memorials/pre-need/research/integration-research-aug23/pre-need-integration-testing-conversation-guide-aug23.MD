@@ -85,7 +85,7 @@ _**Note:** Each participant will go through **ONE** of the tasks below._
 
 [Go to Task 4a: Applying for Someone Else (as the sponsor) - Applicant is a non-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#task-4a-applying-for-someone-else-as-the-sponsor---applicant-is-a-non-veteran---20-minutes)
 
-[Go to Task 4b: Applying for Someone Else (not as the sponsor) - Applicant is a non-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#task-4-applying-for-someone-else---applicant-is-a-non-veteran---20-minutes)
+[Go to Task 4b: Applying for Someone Else (not as the sponsor) - Applicant is a non-Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/research/integration-research-aug23/pre-need-integration-testing-conversation-guide-aug23.MD#task-4b-applying-for-someone-else-not-as-the-sponsor---applicant-is-a-non-veteran---20-minutes)
 
 ## Task 1: Applying for Self - Applicant is a Veteran - 15 minutes
 
