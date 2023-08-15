@@ -131,9 +131,11 @@ Before recruitment starts, I would like to **request a kickoff call with Perigea
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
-We will schedule two **pilot tests**:
-- Pilot 1: **Aug 22 at time TBD ET** with TBD (TBD.us)
-- Pilot 2: **Aug 23 at time TBD ET** with TBD (TBD.us)
+We will schedule three **pilot tests**:
+- Pilot 1: **Aug 23 at 1-2 ET** with barbara@adhocteam.us
+- Pilot 2: **Aug 24 at 12-1 ET** with diem.mooney@adhocteam.us
+- Pilot 3: **Aug 24 at 4-5 ET** with greg.monahan@adhocteam.us
+
 
 ### Research sessions
 * Planned dates of research: **Aug 28 - Sept 5** 
