@@ -1,6 +1,6 @@
 # Project outline: Create dot indicator
 
-**Last Updated: August 11, 2023  -- create outline**
+**Last Updated: August 15, 2023  -- add success metrics**
 
 ### Communications
 
@@ -49,8 +49,14 @@ This is managed by [the authenticated experience team](https://github.com/depart
 
 ## Measuring Success
 
-**Talk to Patrick about how we are measuring success for this effort**.
+### Objective: Increase traffic to secure messaging link on My VA.
 
+**KPI: Increase clicks into secure messaging link by X%.**
+
+|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|-------------|---------------|-------------------|
+|Number of clicks into "secure messaging" link on My VA||||
+|% increase in clicks from previous month|-|||
 
 ## Key deliverables
 
