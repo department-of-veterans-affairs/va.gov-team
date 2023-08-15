@@ -10,7 +10,7 @@ Appeals of denied claims
 |:--|:--|
 |Amanda Baker|BVA (Board of Veterans' Appeals)|
 |Keturah Harley|BVA (Board of Veterans' Appeals)|
-|Victor Breon Johnson|VBA-ART|
+|Breon Johnson|VBA-ART|
 
 ### Engagements
 
