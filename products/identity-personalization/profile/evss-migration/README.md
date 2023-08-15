@@ -9,7 +9,7 @@ There are several places where things have been documented.
 
 ### Public Directories 
 
-**Outside of the Profile Documentation**
+**Outside of the Profile Documentation** (START HERE for **LAUCH** DETAILS)
 <br>
 [va.gov-team/products/identity-personalization/direct-deposit
 /evss-lighthouse-migration/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration)
