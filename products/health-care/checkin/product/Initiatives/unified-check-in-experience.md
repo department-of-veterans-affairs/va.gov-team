@@ -48,30 +48,30 @@ We will be implementing this initiative using the following releases:
      - Add messaging to Pre-Check-in completion page that a text will be sent to the Veteran
 - Release 2 [(Wireframes (Sketch))](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/F05730C4-9E76-4B1D-AEA0-63CEC7E61175/canvas)
    - Pre-Check-in
-    - Text Message: new content
-    - Login Page: new H1 content
-    - Landing Page: new Landing page format
-        - Display task, in dismissible alert, that corresponds to the appt for the link clicked (different alert for grouped appts)
-        - Display all upcoming appointments
-        - Details link for each appt
-        - Don't show statuses
-	 - Change WF to show new landing page w/ dismissible alert for "your info is up to date" when demographics are up-to-date
-    - Completion Page: 
-        - New H1 content (different for grouped appts)
-        - First accordion not visible if answered Yes to all demo questions
-- Day-of Check-in
-    - Text Message: new content
-    - Login Page: new H1 content
-    - Landing Page: new Landing page format
-        - Display task, in dismissible alert, that corresponds to the appt for the link clicked
-        - Different multiple alerts if there are more than appt in the check-in window
-        - Display all upcoming appointments
-        - Details link for each appt
-        - DO show statuses (but only certain ones)
-        - Do not show next task if task was completed and user is navigating from the Completion page
-    - Completion Page: 
-        - Add link back to Landing page
-        - Do not show next task if task on Landing page was completed and user is navigating from the Completion page
+   	- Text Message: new content
+   	- Login Page: new H1 content
+   	- Landing Page: new Landing page format
+   		- Display task, in dismissible alert, that corresponds to the appt for the link clicked (different alert for grouped appts)
+        	- Display all upcoming appointments
+        	- Details link for each appt
+        	- Don't show statuses
+	 	- Change WF to show new landing page w/ dismissible alert for "your info is up to date" when demographics are up-to-date
+    	- Completion Page: 
+        	- New H1 content (different for grouped appts)
+        	- First accordion not visible if answered Yes to all demo questions
+     - Day-of Check-in
+    	- Text Message: new content
+    	- Login Page: new H1 content
+    	- Landing Page: new Landing page format
+        	- Display task, in dismissible alert, that corresponds to the appt for the link clicked
+        	- Different multiple alerts if there are more than appt in the check-in window
+        	- Display all upcoming appointments
+        	- Details link for each appt
+        	- DO show statuses (but only certain ones)
+        	- Do not show next task if task was completed and user is navigating from the Completion page
+    	- Completion Page: 
+        	- Add link back to Landing page
+        	- Do not show next task if task on Landing page was completed and user is navigating from the Completion page
 - Release 2.1
      - Add ability to see pre-check-in detail appt page w/ "review your information now" call to action
      - Restyle check in button to action link on detail page for check in 
