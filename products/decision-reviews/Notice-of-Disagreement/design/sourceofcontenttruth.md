@@ -404,7 +404,7 @@ If you’d like to add an issue for review,  select "Add a new issue" to get sta
 
 * Why isn’t my issue listed here? (expand)
     
-> If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. We may still be processing it.
+> If you don’t see your issue or decision listed here, it may not be in our system yet. This can happen if it’s a more recent claim decision. If you have a decision date, you can add a new issue now.
     
 
 Finish this request later
