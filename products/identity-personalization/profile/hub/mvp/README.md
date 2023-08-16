@@ -77,7 +77,9 @@ To solve for these problems, we are building a profile hub page, which resolves 
 ### Objective #1: Reduce searches from within profile for items in the profile
 
 **KPI: See a decrease in search terms for items already in the profile (not a comprehensive list: payment, payment history, dd214, direct deposit, address change, change address, address, email) .**
+
 [Domo dashboard for profile searches by search term](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
+
 |KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|-------------------|
 
