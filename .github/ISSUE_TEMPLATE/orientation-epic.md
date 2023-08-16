@@ -8,7 +8,8 @@ assignees: ''
 ---
 
 ## Welcome and Introduction
-Welcome to the Veteran's Administration (VA) Veteran Facing Services (VFS) team! 
+Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team! 
+
 As a new VFS team member, you will be working in the web ecosystem we call the VA.gov Platform (or "**The Platform,**" for short).  The tasks on this list are designed to get you up to speed on the role of Platform, making it easier for you to do your job.
 
 Because the VA is a huge organization that serves millions, the Platform it runs on is equally big, complex and multilayered. Most people find that even learning the basics for their own practice area entails a significant learning curve.  The tasks on this checklist will help you acquire those basics as quickly and efficiently as possible. 
@@ -38,7 +39,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 ### General
 
 - [ ] For [General orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
-- [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Slack) with Program, Team, Role and Company
+- [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
 - [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose) for an overview of VA.gov
 - [ ] Watch [VFS Orientation for Platform Website video](https://www.youtube.com/watch?v=yzl6nyLmqkA&ab_channel=PlatformCrew)
 - [ ] Watch the [Platform Support overview video](https://www.youtube.com/watch?v=iwIQU4XepNQ)
@@ -93,7 +94,6 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 ### Off-boarding of teammates
 - [ ] Review [process for when a teammate leaves](https://depo-platform-documentation.scrollhelp.site/getting-started/offboarding)
-
 
 ## Platform Checklist
 The items in this checklist are for Platform to complete. If you are ready to close the ticket and the Platform Checklist section has not been completed, please reach out to Platform via the guidance provided in [Getting help from Platform in Slack](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
