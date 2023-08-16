@@ -4,7 +4,7 @@
 Attendees:
 
 Agenda
-
+-Research session questions (Kate)
 
 ## 8/10/23
 
