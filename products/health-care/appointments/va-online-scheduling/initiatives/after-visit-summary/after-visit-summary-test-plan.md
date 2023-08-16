@@ -10,43 +10,11 @@ On the VAOS homepage, the app displays the following for each status:
 - Past appointments: displays up to 2 years of past VA and Community Care booked appointments (note: it does not display past canceled booked appointments) 
 
 ### Use Cases
- 
-- [ ] Use Case 1 - Validate upcoming appointments in VAOS 
+
+- [ ] Use Case 1 - Validate past appointments in VAOS
 
      Configuration setup in test environment must include: 
-  - [ ] Test user should have VA (in person, video visit and phone call) and Community Care booked appointments including canceled appointments
-
-* **Description**
-  - Tester will validate that they could view the list of their upcoming appointments (future appts) in VAOS 
-    - [ ] Booked VA appointment - in person (at a Facility) 
-    - [ ] Booked VA appointment - video connect (at a Facility) 
-    - [ ] Booked VA appointment - video connect (at an ATLAS location) 
-    - [ ] Booked VA appointment - video connect (at home, not a VA or ATLAS location) 
-    - [ ] Booked VA appointment - phone call 
-    - [ ] Booked Community Care appointment
-    - [ ] Canceled VA appointment - in person (at a Facility) 
-    - [ ] Canceled VA appointment - video connect (at a Facility) 
-    - [ ] Canceled VA appointment - video connect (at an ATLAS location) 
-    - [ ] Canceled VA appointment - video connect (at home, not a VA or ATLAS location) 
-    - [ ] Canceled VA appointment - phone call 
-    - [ ] Canceled Community Care appointment
-
-- [ ] Use Case 2 - Validate pending requests in VAOS 
-
-     Configuration setup in test environment must include: 
-  - [ ] Test user should have VA and Community Care pending requests including canceled requests
-
-* **Description**
-  - Tester will validate that they could view the list of their pending requests in VAOS 
-    - [ ] Pending VA request - in person (at a Facility) 
-    - [ ] Pending Community Care request
-    - [ ] Canceled VA request - in person (at a Facility) 
-    - [ ] Canceled Community Care request
-
-- [ ] Use Case 3 - Validate past appointments in VAOS
-
-     Configuration setup in test environment must include: 
-  - [ ] Test user should have past booked VA and Community Care appointments 
+  - [ ] Test user should have past booked VA and [Community Care appointments ??] 
 
 * **Description**
   - Tester will validate that they could view the list of their past booked appointments in VAOS 
@@ -56,17 +24,7 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Past booked VA appointment - video connect (at home, not a VA or ATLAS location) 
     - [ ] Past booked VA appointment - phone call 
     - [ ] Past booked Community Care appointment
-    
-- [ ] Use Case 4 - Validate appointment list for mobile devices.
-      
-      Configuration setup in test environment must include: 
-  - [ ] Test user should have past booked, upcoming and pending VA and Community Care appointments
-
-* **Description**
-  - Tester will validate that the list of their past booked, upcoming and pending VA and Community Care appointments in VAOS looks as expected on mobile
-    - [ ] Past booked, upcoming and pending VA and Community Care appointments - iOS devices
-    - [ ] Past booked, upcoming and pending VA and Community Care appointments - Android devices
- 
+     
 
 ### User flow
 - [ ] [Figma file]() 
