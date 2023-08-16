@@ -50,29 +50,30 @@
    - [If wants description then offer yours: like hair length, hair color, eye color, skin tone, other defining feature, and background]
 - I also have [NOTE TAKER NAME] here today to take some notes. I’ll ask them to introduce themself.
    - [PAUSE FOR NOTE TAKER to introduce themself]
-- And also with us today a VA accessibility specialist. I’ll ask they introduce themself now.
+- And also with us today are a couple VA accessibility specialists who've been helping set up research for assistive technology. I’ll ask they introduce themself now.
    - [PAUSE FOR a11y specialist to introduce themself]
-- I'd also love for you to tell us a little about yourself.
-   - [PAUSE FOR PARTICIPANT to introduce themself]
-- Nice to meet you! We really appreaciate you spending some time with us to make sure our design is usable for folks who use screen readers.
-- The subject of our research today is the sign in process on VA.gov and in particular the Terms of Use agreement. We are not testing your ability.
-- In this session, we want to hear your honest opinions. The goal is to improve this process to better meet veterans needs. We will not be offended by any opinions you express, and we welcome your candid feedback.
-- A bit later on, I’ll ask you to interact with a prototype using your screen reader. It'll mimic VA.gov, so it may seem real, but it won't be.
-   - We use prototypes to help us test things before we decide what to make real.
-   - We won’t ask you to access your VA account or bring up your actual VA information.
-- This entire session should take no more than 1.5 hours.
-- We do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or even stop the session, please let me know.
-- Any questions so far?
----
-- OK so we also have a couple other team members who would like to join the call to observe and help take notes. We don’t want to be redundant, but even though Perigean did previously ask for your consent to allow people to observe today, but I know things can change, so I'd like to confirm with you. Are you okay with a couple of additional observers joining us during this session?
+- We also have a couple other team members who would like to join the call to help take take notes or observe and learn. Even though Perigean did previously ask for your consent to allow people to observe today, I know things can change, so I'd like to confirm with you now. Are you okay with a couple of additional observers joining us during this session?
    - [If NO]: Use Slack to kindly ask the observers to leave the Zoom.
    - [If YES]: Admit observers.
       - Let’s have each of our observers quickly go around and introduce themselves with cameras on, please.
       - [LET THEM KNOW PREF for descriptions or no]
       - [PAUSE for observers to introduce themselves]
       - Ok and now I’ll ask our notetakers and observers to mute themselves and turn off their cameras for the remainder of the sessions to save on distractions and to save Zoom bandwidth.
+- Now that we've all introduced ourselves, I'd also love for you to tell us a little about yourself.
+   - [PAUSE FOR PARTICIPANT to introduce themself]
+- Nice to meet you! We really appreaciate you spending some time with us to help us make sure our design is usable.
+---
+- Let's get further into the session setup items. The subject of our research today is the sign in process on VA.gov and in particular the Terms of Use agreement. We are not testing your ability in any way. It is a prototpye design the is being tested
+   - A bit later on, I’ll ask you to interact with a prototype using your screen reader. It'll mimic VA.gov, so it may seem real, but it won't be.
+   - We use prototypes to help us test things before we decide what to make real.
+   - We won’t ask you to access your VA account or bring up your actual VA information.
+- We want to hear your honest opinions. We will not be offended by any opinions you express, and we welcome your candid feedback.
+- This entire session should take no more than 1.5 hours.
+- We do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or even stop the session, please let me know.
+- Any questions so far?
+- Ok just a few more setup items.
 - We sometimes use written quotes from our notes to help others at the VA understand why we want to make certain changes, but your name and information will not be directly linked to any of your comments.
-Are you comfortable with that?
+   - Are you comfortable with use using quotes from our discussion today?
 - I'd also like to ask your permission to record our discussion today. This helps us if we need to look back for clarifications like to make sure we noted your opinions correctly. We delete recordings after we finish analysis, which usually takes a couple weeks. Knowing that, are you comfortable if I record my screen and our audio as we talk today?
    - [IF YES - RECORD TO CLOUD] 
    - Now that we're recording, I have to confirm once more - are you are ok if I record my screen and the audio as we talk today?
@@ -107,13 +108,13 @@ Are you comfortable with that?
       - [PROMPTS] When did it come up? How much did you have the screen reader go through? How much time did you spend from when it came up to clicking past that? 
   
 ## Round 2, Task - Prototype | 30 minutes
+### Prototype Subtask - The setup
 - Ok so now I’d like to bring up the prototype design. Just a quick reminder that this is not real but a design that we are thinking about using. Also because it is not the VA.gov, but an early draft version of a page it will act differently with your screen reader than you may be used to.
 - For example, because things are in a draft format we had to manipulate some elements to work with a screen reader. Headings may announce as text. Some other elements may announce as images, which may seem out of place. Also it means that you won't be able to navigate through headings right now or using the tab key, but that **you'll have to use the VO and forward or back button to move through each element on the page for today.**
 - If you have any questions about anything including what an element is actually supposed to be, please ask, and I can clarify.
 - I know some of this will make it a bit awkward, but remember we aren't testing you, but you are helping us test this new part of the website.
 - Does that seem ok so far?
-- Ok I’m going to send you a link to a webpage. I can send that through the Zoom application chat if that works for you.
-   - If you’d prefer another method, let me know.
+- Ok we had Perigean send a link to you in email, but we could instead send it in the zoom chat. Would you prefer to grab that from your email?
    - [SEND LINK BY PREFERRED METHOD]
    - [Screen reader prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?type=design&node-id=381-31&t=6Iu86HTNhe9kB8yC-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=381%3A31)
 - Let me know if you have any issues opening up that link
@@ -122,8 +123,9 @@ Are you comfortable with that?
 - Ok I think we are good to go, so I'll ask you to imagine that you are going onto VA.gov to [DO TASK FROM EARLIER]
 - [SCREEN READER NOTE: participant will have to tab in browser to "skip to content" on Figma page]
    - [Once on the content wait from it to render for screen readers]
-- Your best way to navigate on the design will be to use your VO key with the left and right arrow keys.
-- Considering the wonky bits about this page, does this page seem like where you would normally go?
+- Your best way to navigate on this design will be to use your VO key with the left and right arrow keys, not the tab key.
+- Would you like a chance to go through some of the page?
+- Considering the wonky bits about this page and how you have to navigate, does this page seem like where you would normally go?
    - [IF normally uses MHV have them imagine they need to sign into VA.gov for another reason]
 - Would you normally sign in first thing before getting started?
    - Go ahead and sign in.
@@ -133,7 +135,9 @@ Are you comfortable with that?
    - How you describe this page that you're on now?
    - I do want you to fake sign in. We’ll use the fake email and password that is already added in here
    - Before you sign in, I'm curious what you expect after you select the sign-in button
-      - Ok you may continue signing in
+      - Ok go ahead and continue signing in
+
+### Prototype Subtask - Questions
 - Now that you are signed in, can you tell me about this page?
    - [PROMPTS] What did you expect to come up here? 
        - What do you understand this page to mean?
@@ -148,8 +152,6 @@ Are you comfortable with that?
    - [PROMPT] like do you feel like you get anything out of it?
 - Does this terms of use or the information on this page affect your trust with the VA?
    - Does it affect any feelings of security or insecurity you may have around interacting with the VA online?
-<br>
-
 - On other websites when something like this has come up, do you usually accept the terms or would you decline? [TRY TO redirect if talks about cookies]
 - How strongly do you generally feel about [ACCEPTING or DECLINING] the terms of use on a website?
    - Has there ever been a time when you didn’t agree to these types of terms on a website or app?
@@ -158,7 +160,16 @@ Are you comfortable with that?
    - For a website or app you use regularly, have you noticed a time recently when they said they updated their terms and you have to review them and agree to them again?
       - How did you react to that?
 - [IF HAVENT DISCUSSED THE accordian items] Let’s pretend you wanted to read through all or some of the information here, can you take me through a little bit of that?
+- Have you ever downloaded or saved a copy of any website terms of use in the past?
+   - If you wanted to save a copy of the VA terms of use here, how might you do that? 
+- If you needed help with the terms of use or with this page, where would you go, who would you turn to?
+- Is there any information that you’d want that you don’t find here?
+
+### Prototype Subtask - move past TOU
+- Let's say you want to agree to the terms here. Don't take any actions on the page yet, but what would you do?
+   - And after that what would you expect to happen?
 - Let’s pretend you didn’t want to agree to these terms here, at least not right now. What would you do?
+   - And after that what would you expect to happen?
 - [GUIDE PARTICIPANT TO BOTTOM of page, if they haven't made it there yet]
 - This might sound a little silly, but can you give me your definition of “accept”
    - And what about your definition of "decline"?
@@ -183,10 +194,23 @@ Are you comfortable with that?
 
 
 ---
-## Session Helps
+## Screen reader help
+- Close Zoom chat window
+  - ALT + H put focus on the Zoom chat window
+  - ALT + SPACE to bring up the menu
+  - arrow over to minimize button
+  - Enter to select minimize
 
----
-### Instructions for screen reader
+- Navigating Figma with screen reader
+  - open up link in browser
+  - Tab “skip to content”
+  - Tab moves through link and buttons
+  - left right moves back and forth between all elements
+  - Can also do VO button + left/right
+
+- [Set up screen share](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist#Screenreaderchecklist-Settingupascreenshare)
+- [Common A/V issues](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist#Screenreaderchecklist-Commonproblemsduringscreensharesetup)
+
 
 ---
 
