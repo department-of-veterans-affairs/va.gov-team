@@ -44,8 +44,8 @@ The dot indicator is a notification style that aims to call a user's attention t
 
 ### Desired User Outcomes
 
-- Users will more easily be able to find items that need their attention.
-
+- Users will more easily be able to see they have unread messages.
+  
 ### Undesired User Outcomes
 
 - Done wrong, the dot indicator would be easily missed by users.
@@ -58,7 +58,7 @@ The dot indicator is a notification style that aims to call a user's attention t
 
 ### Undesired Business Outcomes
 
-- The dot indicator becomes overly or improperly used
+- The dot indicator makes no difference in drawing attention to unread messages.
 
 ## Measuring Success
 
