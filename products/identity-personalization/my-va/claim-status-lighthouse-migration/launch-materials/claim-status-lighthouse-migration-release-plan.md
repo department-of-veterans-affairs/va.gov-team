@@ -22,7 +22,7 @@ Not applicable - team conducted internal testing.
 |Launch % |Time Frame | Planned Date Range | Ticket | 
 |-------|-----------|-----------|------|
 | Launch to 10% | 1 week | week of 08/07/2023 |[#61318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61318) |
-| Launch to 25% | 1 week | week of mm/dd/yyyy | [#61319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61319)  |
+| Launch to 25% | 1 week | week of 08/14/2023 | [#61319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61319)  |
 | Launch to 50% | 1 week | week of mm/dd/yyyy | [#61320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61320) |
 | Launch to 100% | 1 week | week of mm/dd/yyyy | [#61322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61322)  |
 
@@ -33,7 +33,7 @@ Not applicable - team conducted internal testing.
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
 | Launch to 10% | 8/8/2023 | _08/08/2023_ |
-| Launch to 25% | mm/dd/yyyy | _mm/dd/yyyy_ |
+| Launch to 25% | 8/15/2023 | _8/15/2023_ |
 | Launch to 50% | mm/dd/yyyy | _mm/dd/yyyy_ |
 | Launch to 100% | mm/dd/yyyy | _mm/dd/yyyy_ |
 
@@ -42,11 +42,7 @@ Not applicable - team conducted internal testing.
 ### Results
 
 **1-week results (at 100%):**
-- **Number of unique users:**
-- **Any issues with VA handling/processing?**
-- **Types of errors logged:**
-- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-- **If yes, what?** 
+[1 week stats](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#objective-1-improve-claim-status-retrieval-rates-by-migrating-to-lighthouse)
 
 **1-month results (at 100%):**
 - **Number of unique users:**
