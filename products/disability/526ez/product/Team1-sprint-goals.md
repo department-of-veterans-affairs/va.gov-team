@@ -14,7 +14,7 @@ Period - 08/16/2023 - 08/29/2023
         - Submit 
             - [ ] Transform service
                - [ ] Abstract references to EVSS claims service - still in progress
-               - [ ] Create submit526 method to be added to tbe BenefitsClaims service to submit the 526 to Lighthouse 
+               - [ ] Create submit526 method to be added to tbe BenefitsClaims service to submit the 526 to Lighthouse
    
 - **Features**
    - Intro page changes and 526ez current with paper form
@@ -25,8 +25,8 @@ Period - 08/16/2023 - 08/29/2023
 - **Analytics**
         
 - **Stretch**
-- [ ] 
-
+   - [ ] Implement call to BenefitClaims LH submit526 service method from submission service
+   - [ ] Implement call to BenefitClaims LH submit526 service method from backup submission service
 - **Added after sprint started**
 
 ## Sprint 11
