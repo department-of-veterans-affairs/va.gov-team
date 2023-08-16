@@ -20,9 +20,10 @@
 
 <details>
 
-- Project epic #57417
+- Project epic [#57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
 - [10-10EZR Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/10-10EZR%20Product%20Brief%20(standalone%20form).md)
-- Whiteboard sketch or other lo-fi prototypes or wireframes
+- Whiteboard sketch or other lo-fi prototypes or
+- [Sketch Wireframes](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A8A73F5C-CD0D-4862-AE2E-71BCE8F00790/canvas)
 - User flows
 - Research plan 
 - Conversation guide
