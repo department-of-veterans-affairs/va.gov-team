@@ -4,7 +4,7 @@
 
 ### Communications
 
-- **Github labels**: `profile-hub`
+- **Github labels**: `profile-hub` ([GH issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Aprofile-hub))
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
