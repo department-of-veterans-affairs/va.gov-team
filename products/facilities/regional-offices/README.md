@@ -54,30 +54,31 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 - Like VAMCs, ROs are a network of facilities; the Regional Office is the parent facility, and other benefits facilities are children
 - VBA's facilities are unique because they provide VA benefits help for all three administrations (i.e., they will help you apply for health care and get burial benefits)
 
-**Business partners:**
+### **Business partners:**
 - J.R. Arce, Chief, Digital Media and Design, VBA Strategic Engagement (jeku.arce@va.gov)
 - Tanekwa Bournes, VBA Strategic Engagement & VBA facilities lead (tanekwa.bournes@va.gov) 
 - Kenyonna Power, VBA Strategic Engagement (kenyonna.power@va.gov)
 - Derek Hommema, VBA Office of Field Operations (Derek.Hommema@va.gov)
 - Brigette Murray, VBA Office of Field Operations (Brigette.Murray@va.gov)
 
-**VBA Stakeholders:**
+### **VBA Stakeholders:**
 - Laura O'Shea, Office of Policy Overview at VBA (laura.oshea@va.gov)
 - Jamie Statton, Office of Policy Overview at VBA (jamie.statton@va.gov)
 
-**Points of Contact from VBA RO pilot locations**
+### **Points of Contact from VBA RO pilot locations**
 Extracted from VBA RO recurring sync, 8/16, list to be confirmed with stakeholders:
-daniel.irizarry@va.gov,
-jametria.mcelroy@va.gov,
-jamie.verity@va.gov,
-joshua.carson@va.gov,
-michael.nelson9@va.gov,
-nykeisha.moore@va.gov,
-ramon.lopez2@va.gov,
-scott.lajiness@va.gov,
-steven.sunseri@va.gov,
-thomas.gibson@va.gov,
-tykisha.tull@va.gov
+
+- daniel.irizarry@va.gov
+- jametria.mcelroy@va.gov
+- jamie.verity@va.gov
+- joshua.carson@va.gov
+- michael.nelson9@va.gov
+- nykeisha.moore@va.gov
+- ramon.lopez2@va.gov,
+- scott.lajiness@va.gov
+- steven.sunseri@va.gov
+- thomas.gibson@va.gov
+- tykisha.tull@va.go
 
 ## Approach
 - Research, design, and define the facilities hierarchical structure as it relates to Veteran needs and understanding
