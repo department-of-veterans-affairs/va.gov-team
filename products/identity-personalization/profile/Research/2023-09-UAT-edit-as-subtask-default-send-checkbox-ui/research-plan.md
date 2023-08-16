@@ -1,9 +1,4 @@
-# Research Plan: Profile multi-feature UAT, July 2023
-
-User Acceptance Testing for 
-- profile editing as a sub-task
-- notification settings default send
-- notification settings checkbox UI updates
+# Research Plan: Profile multi-feature UAT, September 2023
 
 ## Background  
 
