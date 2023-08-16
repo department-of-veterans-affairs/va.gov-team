@@ -53,6 +53,7 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 - On mobile, users can more easily scan for what is available in the profile.
 - For people using screen readers, it will be much clearer that links to `Profile` landed them in the right place.
+- People won't need to use search from profile to find things that are in profile.
 
 ### Undesired User Outcomes
 
