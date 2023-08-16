@@ -1,6 +1,6 @@
 # Project outline: Create dot indicator
 
-**Last Updated: August 15, 2023  -- add success metrics**
+**Last Updated: August 16, 2023  -- add pre-launch metrics**
 
 ### Communications
 
@@ -15,6 +15,7 @@ This is managed by [the authenticated experience team](https://github.com/depart
 |----|----|-----|
 |Patrick Bateman| OCTO lead for MHV landing page|patrick.bateman@va.gov|
 |Florence McCafferty| Designer for MHV landing page|Florence.McCafferty@agile6.com|
+|Tom Anderson| PM for MHV landing page |tom.anderson@agile6.com|
 |Rachel Han| OCTO product lead for the mobile app|RachelXiaolu.Han@va.gov|
 |Ryan Thurlwell|OCTO design lead for the mobile app|ryan.thurlwell@va.gov|
 
@@ -51,12 +52,12 @@ This is managed by [the authenticated experience team](https://github.com/depart
 
 ### Objective: Increase traffic to secure messaging link on My VA.
 
-**KPI: Increase clicks into secure messaging link by X%.**
+**KPI: Increase clicks into secure messaging link by 25%.**
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|-------------|---------------|-------------------|
-|Number of clicks into "secure messaging" link on My VA||||
-|% increase in clicks from previous month|-|||
+|KPI/metric|Pre-launch [7/19 - 7/25]|Pre-launch [7/26 - 8/1]| Pre-launch [8/2 - 8/8]|Pre-launch [8/9 - 8/15]|Pre-launch [8/16 - 8/22]|Pre-launch [8/23 - 8/29]|1 week post-launch to 100% [add dates]| 2nd week post-launch to 100% [add dates]|
+|----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+|Number of clicks into "secure messaging" link on My VA|27,364|24,259|26,748|29,918|||||
+|% increase in clicks from previous week|-|-11%|+10%|+12%||||||
 
 ## Key deliverables
 
