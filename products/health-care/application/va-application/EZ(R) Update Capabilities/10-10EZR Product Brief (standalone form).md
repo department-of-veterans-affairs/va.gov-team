@@ -88,6 +88,7 @@ In future iterations, we plan to review for alternative locations and other syst
 - Unauthenticated experience
 - Integrating update capabilities with VA.gov Profile Page or MHV on VA.gov 
 - Short Form flow
+- Printing generated PDF of the completed form after submission with all data input
 
 ### Initiatives
 - [EZ(R) update capabilities epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
