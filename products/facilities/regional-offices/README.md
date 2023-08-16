@@ -69,6 +69,7 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 - Jamie Statton, Office of Policy Overview at VBA (jamie.statton@va.gov)
 
 ### **Points of Contact from VBA RO pilot locations**
+[VBA Pilot Sites Selection.xlsx](https://dvagov.sharepoint.com/:f:/s/VBAVA.govmodernization/ElGAcEivodBFn5vZuP69aFUBpanKqq02M4JLkimn5zMfiQ?e=TJh0ir) [VA SharePoint]
 
 11/23/22 list:
 | Houston          | 1/2       | Name                        | Email                   |
