@@ -168,7 +168,7 @@ In future iterations, we plan to review for alternative locations and other syst
 
 ### Before
 
-[Paper/Downloadable form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/VA%20Form%2010-10EZR.pdf)
+[Paper/Downloadable form](https://staging.va.gov/vaforms/medical/pdf/VA%20Form%2010-10EZR.pdf)
 
 ### After
 
