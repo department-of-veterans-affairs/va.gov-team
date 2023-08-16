@@ -61,7 +61,7 @@ Efficiency and cost-effectiveness: Engaging the same participants can save time 
 ## Recruitment
 
 
-Each session will have 5-8 participants per session. Over recruitment is encouraged assuming likelihood of no shows/drop out therefore criteria will be out of 8. Veterans may invite members of their support network to join, however, support network members must still register with Perigean in order to be compensated and be able to sign up for workshop sessions. See Approach to Recruit in Appendix
+Each session will have 5-8 participants per session. For every session Perigean will oversee recruitment. Over recruitment is encouraged assuming likelihood of no shows/drop out therefore criteria will be out of 8. Should Veterans only be able to attend with support network members (for example, caregiver, family member or friend), we will designate specific sessions for both Veteran and their support network member to attend. Both Veteran and support network members will still register with Perigean in order to be compensated and be able to sign up for those designated workshop sessions. See Approach to Recruit in Appendix
 
 Participant characteristics should be distributed in a manner offering diversity in ethnicity, gender, age, ability, and housing. Given the small size of each co-creation study group per session, it will not be possible for the sample to be representative. 
 ### Primary Criteria 
