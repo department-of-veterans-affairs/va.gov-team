@@ -120,7 +120,7 @@ Are you comfortable with that?
  
 ### Prototype Subtask - Questions
 - Ok go ahead and sign in
-   -  nan you tell me about this page?
+   -  Can you tell me about this page?
    - [PROMPTS] What did you expect to come up here? 
        - What do you understand this page to mean?
        - Did you know that VA had terms of use?
@@ -152,7 +152,6 @@ Are you comfortable with that?
    - And after that what would you expect to happen?
 - Let’s pretend you didn’t want to agree to these terms here, at least not right now. What would you do?
 - [GUIDE PARTICIPANT TO BOTTOM of page, if they haven't made it there yet]
-   - What would you expect the buttons here to do?
    - This might sound a little silly, but can you give me your definition of “accept”
       - What about “decline”
    - We have “accept” and “decline” buttons here. Would it change anything for you if we renamed the decline button to “not accept”? So the options are accept and not accept.
