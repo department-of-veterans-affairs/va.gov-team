@@ -29,7 +29,7 @@ This is managed by [the authenticated experience team](https://github.com/depart
 
 ## Overview
 
-The dot indicator is a notification style that aims to indicate that there is something that requires a user's attention.
+The dot indicator is a notification style that aims to call a user's attention to unread messages. 
 
 ## Problem statement
 
