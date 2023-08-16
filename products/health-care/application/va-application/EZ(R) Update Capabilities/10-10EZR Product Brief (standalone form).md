@@ -40,29 +40,14 @@ How might we provide an online experience where the Veteran can quickly and easi
 ---
 ## Measuring Success
 
-
-### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### Objective: Provide an effortless Veteran information health care benefit update process
+### Objective: Provide an effortless online experience for Veterans to update their information for health care benefits
 #### **Key Result #1:** Increase % of Veterans who successfully update their health care benefits information online
 
 - Data source
      - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-     - Google Analytics Dashboard
+     - Google Analytics Dashboard - TBD (NEW)
 
-| Product KPI | Historical (paper) | Target | Post-Launch 1 week |Post-Launch 1 month|
+| Product KPI | Historical | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------------- |-------------- |-------------- |
 |Paper Submissions |TBD |TBD | TBD |TBD |
 |Online Submissions |NEW |TBD | TBD |TBD |
@@ -76,9 +61,9 @@ How might we provide an online experience where the Veteran can quickly and easi
      - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
      - Google Analytics Dashboard
 
-| Product KPI | Historical (range?) | Target | Post-Launch 1 week |Post-Launch 1 month|
+| Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
-|Single-session submissions |NEW |TBD | TBD |TBD |
+|Single-session submissions |NEW |75% of submitted forms | TBD |TBD |
 
 
 ---
