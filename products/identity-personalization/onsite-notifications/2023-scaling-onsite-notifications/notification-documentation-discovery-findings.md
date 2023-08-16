@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Authenticated Experience, My VA**
 
-Last updated: 8/14/2023
+Last updated: 8/16/2023
 
 [Link to Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691076804207/fa8da503c9c851bc0cad4586c8e742dbe99b8537?sender=ud5c82d652d231345efaf6060)
 
