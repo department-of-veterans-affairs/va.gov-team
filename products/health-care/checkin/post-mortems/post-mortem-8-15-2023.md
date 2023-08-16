@@ -1,7 +1,7 @@
 
 # Summary
 
-On Tuesday August 15 2023 around 7:30 AM ET, it was discovered that no online check-ins were being completed. 
+On Tuesday August 15 2023 around 7:30 AM ET, it was discovered that no online check-ins were being completed. Investigation revealed a VeText change the previous day that removed parameters required for online check-in caused the issue.
 
 # Impact
 
