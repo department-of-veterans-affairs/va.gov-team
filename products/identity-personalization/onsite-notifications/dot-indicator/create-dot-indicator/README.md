@@ -6,6 +6,7 @@
 
 - **Github labels**: authenticated-experience
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+- **Development Epic:** [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788)
 
 ### Roles
 
@@ -75,7 +76,7 @@ The dot indicator is a notification style that aims to call a user's attention t
 
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
-- Epic
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788)
 - Sketch files
 - Release plan
 
