@@ -39,7 +39,7 @@ We will also aim to translate some of our core content patterns and error messag
 ### Service member benefits
 
 ### Burials and memorials 
-- [Eligibility for burial in a VA national cemetery](https://www.va.gov/burials-memorials/eligibility/) (Word count: 591)
+- [Eligibility for burial in a VA national cemetery](https://www.va.gov/burials-memorials/eligibility/) (Word count: 1996)
 - [Pre-need eligibility for burial in a VA cemetery](https://www.va.gov/burials-memorials/pre-need-eligibility/) (Word count: 1,181)
 - [After you apply for an eligibility determination](https://www.va.gov/burials-memorials/pre-need-eligibility/after-you-apply/) (Word count: 1,039)
 
