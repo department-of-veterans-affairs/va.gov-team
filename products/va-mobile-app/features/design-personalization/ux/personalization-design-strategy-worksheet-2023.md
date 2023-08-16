@@ -16,9 +16,9 @@ Our target users are Veterans with mobile devices who [have VA accounts & are ac
 A personalized VA mobile app helps Veterans to keep up with and manage their current interactions (and discover their possible future interactions) across the VA while on the go.
 
 #### 3. What user problems will a personalized VA mobile app experience solve? 
-* Veterans aren’t able to get a **quick overview of what VA is doing for them now** and aren’t **proactively informed that something is needed from them** in order to keep things moving.<sub>1a,1b</sub>
-* Veteran **expectations and understanding** of what they think they can do in the app are **limited and often inaccurate**.<sub>2</sub>
-* The app **doesn’t currently demonstrate to Veterans how VA can support them as an individual,** whether it’s in their day-to-day or when something in their life changes (health, claims, moving, marriage, transitions, etc).<sub>3,4,4a</sub>
+* Veterans aren’t able to get a **quick overview of what VA is doing for them now**<sub>1a,1b</sub>
+* Veterans aren’t **proactively informed that something is needed from them** in order to keep things moving.<sub>1a,1b</sub>
+* Veteran **expectations and understanding** of what they think they can do in the app are **limited and often inaccurate**.<sub>2,3,4</sub>
 
 #### Supporting research (problems):
 
@@ -31,17 +31,17 @@ A personalized VA mobile app helps Veterans to keep up with and manage their cur
     3. Veterans are in need of support, guidance & connection from others at various times during their journey, and they don’t always know where to get help. [(VA Benefit planning, applications, and claims research, pp 37, 53, 74, 97 - Frog, March 2016)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md#:~:text=Benefit%20planning%2C%20applications%2C%20and%20claims%20research%20conducted%20by%20Frog%20in%202016)
 
 #### 4. When and how is a personalized VA mobile app experience used? 
-* When a Veteran has tasks and interactions in flight, it’s used to **check to make sure things are on track** and to **stay informed when VA needs something from them **in order to keep things moving.
-* When users are new to the app, it’s used to **demonstrate the current and future value of the app** to that person. 
-* When something in a Veteran’s life changes (health, claims, moving, marriage, transitions, etc), it’s used **as a tool/resource that can help them with the transition**.
+* When a Veteran has tasks and interactions in flight, it’s used to **check to make sure things are on track** and to **stay informed when VA needs something from them** in order to keep things moving.
+* When **users are new to the app**, it’s used to **demonstrate the current and future value of the app** to that person. 
+* When **something in a Veteran’s life changes** (health, claims, moving, marriage, transitions, etc), it’s used **as a tool/resource that can help them with the transition**.
 * When service members have recently separated, it’s used to **acclimate new Veterans to VA benefits based on their individual context**.
 
 
 #### 5. What benefits and features are important to a personalized VA mobile app experience?
 * Gives Veterans a **high-level snapshot of their status** and **persistent overview of their current interactions** with VA so it’s quick and easy to see what VA is doing now.
-* Proactively **notifies them when critical items need their attention** or important statuses change and **gives them the ability to act**.
-*** Surfaces relevant content and tasks** that speak to a Veteran’s **individual context** so that Veterans feel known and **supported by VA right now and as their situation changes**.
+* **Proactively notifies them when critical items need their attention** or important statuses change and **gives them the ability to act**.
 * **Demonstrates the value** of the VA mobile app to Veterans **without requiring them to dig into each individual feature**.
+* **Surfaces relevant content and tasks** that speak to a Veteran’s **individual context** so that Veterans feel known and **supported by VA right now and as their situation changes**.
 * **Allows users to connect with others who know their case** (inside & outside the VA) **when they need support** & guidance navigating their benefits.
 * Provides **access to the things/features the Veteran uses the most**.
 
