@@ -57,7 +57,7 @@ This is managed by [the authenticated experience team](https://github.com/depart
 |KPI/metric|Pre-launch [7/19 - 7/25]|Pre-launch [7/26 - 8/1]| Pre-launch [8/2 - 8/8]|Pre-launch [8/9 - 8/15]|Pre-launch [8/16 - 8/22]|Pre-launch [8/23 - 8/29]|1 week post-launch to 100% [add dates]| 2nd week post-launch to 100% [add dates]|
 |----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Number of clicks into "secure messaging" link on My VA|27,364|24,259|26,748|29,918|||||
-|% increase in clicks from previous week|-|-11%|+10%|+12%||||||
+|% change in clicks from previous week|-|-11%|+10%|+12%||||||
 
 ## Key deliverables
 
