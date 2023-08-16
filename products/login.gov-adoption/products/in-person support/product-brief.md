@@ -1,8 +1,6 @@
 
 
-# Product brief: In-Person Proofing MVP
-
-
+# Product overview: In-Person Proofing MVP
 
 ## **Problem statement**
 
@@ -75,6 +73,10 @@ From a Veteran applicant’s perspective we need to provide:
 While the intake can happen several days before the in-person proofing event, we should allow for intake to occur immediately before / during the in-person proofing event. This allows a Veteran to recover from an expired (or non-existent) Case ID when they begin interacting with the proofing agent in-person.
 To instill motivation for the Veteran to complete the in person proofing event, case ID's will expire after 10 days. Should a Veteran's case ID expire, they will need to restart the Intake process. This can be done remotely or with an in person proofing agent.
 
+To instill motivation for the Veteran to complete the in person proofing event, case ID's will expire after 10 days. Should a Veteran's case ID expire, they will need to restart the Intake process. This can be done remotely or with an in person proofing agent.
+
+ ![intake](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/images/intake.png)
+
 #### In-person proofing process
 After intake, the Veteran applicant then meets with the proofing agent who will guide them through the process.
 
@@ -84,6 +86,8 @@ First, however, we need to ensure the person claiming to be the proofing agent i
 So, when a Veteran approaches a proofing agent with their case ID, the proofing agent will first need to authenticate to the proofing application, thus ensuring only a valid proofing agent can help a Veteran applicant through in-person proofing. 
 
 The proofing agent will then take the Veteran’s case ID and search for it in the proofing application. Again, this is needed so that once identity verification is complete, we will know which Login.gov account should then become verified. Should a case ID not be found, the proofing agent can help the Veteran perform the intake process on the spot to then complete the in-person proofing during the same visit (thus not wasting the trip for the Veteran).
+
+![search for case ID](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/images/search-case-ID.png)
 
 Following are the normative requirements to establish an IAL2 credential for an in-person process. Note that these process steps need not necessarily occur in the same sequence as in this document. However, all steps do need to occur at some point.
 
@@ -104,6 +108,8 @@ The proofing application will ask the proofing agent to capture the Veteran’s 
 
 The philosophy we want to adopt is that rather than relying on training, the proofing application will provide the guidance in situ. This ensures we are not relying on a proofing agent’s ability to remember all their training that would now include knowing what IDs have what security features. The added benefit is we now avoid the administrative burden of keeping training records and ensuring everyone has kept up to date when something changes (ex. a state came out with a new layout for their ID).
 
+![checks ID](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/images/check-ID.png)
+
 By the end of this step, the proofing agent has determined that the photo ID presented by the Veteran is unexpired and authentic. They now know which identity they are going to validate against authoritative records.
 
 ##### Validation
@@ -117,6 +123,8 @@ The proofing agent will need to:
 - Search for that identity in the Identity Toolkit.
 - Once found in the Identity Toolkit, the proofing agent will mark the identity as validated in the proofing application.
 
+  ![validation via swivel chair](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/images/validation.png)
+
 While MPI is the most complete source of Veteran identity information, it is not 100%. Should a Veteran participant in the pilot not be found in the Identity Toolkit, we will have to develop a protocol to handle instances where the application was unsuccessful in validating against MPI: 
 - Thank the Veteran for their participation, 
 - Inform them that, unfortunately, we will not be able to complete verification
@@ -125,6 +133,8 @@ While MPI is the most complete source of Veteran identity information, it is not
 
 ##### Verification
 In this step, the proofing application will ask the proofing agent to ensure the Veteran that presented the photo ID is the Veteran on the photo ID (i.e. compare the Veteran’s face to the photo on the ID). NIST clarified that verification can occur at any stage in the process, it need not follow validation.
+
+![Verification facial match](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/images/verification.png)
  
 In a later phase, we can see if MPI has photos to which we can compare the Veteran rather than the photo ID. This would be a stronger control, but is not needed in the pilot.
 
