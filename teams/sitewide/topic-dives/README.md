@@ -30,7 +30,7 @@ Please add any potential future topics you would like covered below:
 
 ### 6/5/23 - Foundational accessibility testing
 - Laura Flannery
-- [Foundational accessibility testing video](https://youtu.be/3hR8vTFaC8A)
+- [Foundational accessibility testing video](https://youtu.be/cTOXiOW4oE4)
 - [Slides](https://docs.google.com/presentation/d/1QGgCFZgwOQ8KiixNhvJ1Z4xi8OwN6FZ6UoKhYal9Rp0)
 
 ### 5/22/23 - Github / pull request basics for non-engineers
