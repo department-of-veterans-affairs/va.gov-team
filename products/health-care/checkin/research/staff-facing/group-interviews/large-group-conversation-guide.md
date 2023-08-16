@@ -10,7 +10,6 @@
 -	How has COVID era changed check-in needs and process?
 
 ## Moderator logistics
-- Use #feedback-backchannel in Slack for real-time feedback from observers.
 - Mute your Slack notifications
 - Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).
 - In the Attendees section, make sure everyone except the participant is on mute.
@@ -29,7 +28,7 @@ Before we start, a few things I want to mention:
 - This entire session should take about 60 min. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. There are no right or wrong answers. I’m not going to be offended, I’m interested in honesty.
 - I know you all have other responsibilities besides talking to me for an hour, so if you have to hop off at any time, we understand. 
-- Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+- Are you comfortable if I record my screen and audio as we talk today? 
   - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 __Start recording.__
