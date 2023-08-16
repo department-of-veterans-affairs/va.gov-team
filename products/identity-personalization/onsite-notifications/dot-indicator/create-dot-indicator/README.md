@@ -34,7 +34,7 @@ This is managed by [the authenticated experience team](https://github.com/depart
 
 ## Overview
 
-The dot indicator is a notification style that aims to call a user's attention to unread messages. For MVP, we plan to launch this style and test whether it changes metrics, specifically for the health inbox link on My VA and the MHV landing page.
+The dot indicator is a notification style that aims to call a user's attention to unread messages. For MVP, we plan to launch this style and test whether it changes metrics for the health inbox link on My VA and the MHV landing page.
 
 ## Problem statement
 
