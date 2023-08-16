@@ -75,7 +75,8 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 |KPI/metric|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|
-|Number of saves of the add a mobile number form|||
+|Number of saves of the add a mobile number form (success)|||
+|Number of saves of the add a mobile number form (failures)|||
 
 ---
 
