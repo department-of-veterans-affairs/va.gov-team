@@ -98,6 +98,7 @@ Are you comfortable with that?
 
   
 ## Round 2, Task - Prototype | 15-20 minutes
+### Prototype Subtask - The setup
 - Ok so now I’d like to take a look at the prototype design. Just a quick reminder that this is a website design that we are thinking about using. It may look like the real VA.gov but it won’t be, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
 - I’m going to send you a link in the Zoom chat.
    - [Desktop prototype link](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&type=design&node-id=1-493&viewport=2258%2C66%2C0.29&t=px4EPLKK2RGRhdS3-1&scaling=scale-down&starting-point-node-id=1%3A493&mode=design)
@@ -115,7 +116,11 @@ Are you comfortable with that?
    - Which option do you usually choose to sign in here?
    - Ok, for today it won’t matter which you select, they’ll all take you to the same place.
    - We’ll use a fake email and password here, so you can move along through this part.
-- Ok now that you are signed in, can you tell me about this page?
+   - Before you sign in, what would you expect to happen once you sign in?
+ 
+### Prototype Subtask - Questions
+- Ok go ahead and sign in
+   -  nan you tell me about this page?
    - [PROMPTS] What did you expect to come up here? 
        - What do you understand this page to mean?
        - Did you know that VA had terms of use?
@@ -129,8 +134,6 @@ Are you comfortable with that?
    - [PROMPT] like do you feel like you get anything out of it?
 - Does this terms of use or the information on this page affect your trust with the VA?
    - Does it affect any feelings of security or insecurity you may have around interacting with the VA online?
-<br>
-  
 - On other websites when something like this has come up, do you usually accept the terms or would you decline? [TRY TO redirect if talks about cookies]
 - How strongly do you generally feel about [ACCEPTING or DECLINING] the terms of use on a website?
    - Has there ever been a time when you didn’t agree to these types of terms on a website or app?
@@ -139,10 +142,14 @@ Are you comfortable with that?
    - For a website or app you use regularly, have you noticed a time recently when they said they updated their terms and you have to look at them and agree to them again?
       - How did you react to that?
 - Let’s pretend you wanted to read through some or all of the information here, can you walk me through that a little bit?
+- Have you ever downloaded or saved a copy of any website terms of use in the past?
+   - If you wanted to save a copy of the VA terms of use here, how might you do that? 
 - If you needed help with the terms of use or with this page, where would you go, who would you turn to?
 - Is there any information that you’d want that you don’t find here?
-<br>
 
+### Prototype Subtask - move past TOU
+- Let's say you want to agree to the terms here. Don't take any actions on the page yet, but what would you do?
+   - And after that what would you expect to happen?
 - Let’s pretend you didn’t want to agree to these terms here, at least not right now. What would you do?
 - [GUIDE PARTICIPANT TO BOTTOM of page, if they haven't made it there yet]
    - What would you expect the buttons here to do?
