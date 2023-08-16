@@ -50,16 +50,20 @@ We will also aim to translate some of our core content patterns and error messag
 ## Forms
 We'll also prioritize translating health care and disability forms as they're the top 10 pdf forms downloaded by people with their browsers set to Spanish. Some of these online forms are currently being reworked in English and others are not yet available. 
 
-- 526EZ Application for Disability Compensation and Related Compensation Benefits (Word count from PDF for estimate: 4018)
-- 10-10EZ Instructions and Enrollment Application for Health Benefits (Word count from PDF for estimate: 1653)
+- 526EZ Application for Disability Compensation and Related Compensation Benefits (Word count from PDF for estimate: 4,018)
+- 10-10EZ Instructions and Enrollment Application for Health Benefits (Word count from PDF for estimate: 1,653)
 - 21-4138 Statement in Support of Claim (Word count from PDF for estimate: 724)
-- 20-0995 Decision Review Request: Supplemental Claim (Word count from PDF for estimate: 1203)
+- 20-0995 Decision Review Request: Supplemental Claim (Word count from PDF for estimate: 1,203)
 - 10-7959A CHAMPVA Claim Form (Word count from PDF for estimate: 925 - note that we would only translate this form if we digitize is this year)
 - 10-7959f-1 Foreign Medical Program (FMP) Registration Form (Word count from PDF for estimate: 63 - note that we would only translate this form if we digitize is this year)
-- 21-22 Appointment of Veterans Service Organization as Claimant's Representative (Word count: )
-- 10-10d Application for CHAMPVA Benefits (Word count: )
+- 21-22 Appointment of Veterans Service Organization as Claimant's Representative (Word count: 1,023)
+- 10-10d Application for CHAMPVA Benefits (Word count: 1.283)
 
 ## Core content patterns and error messages
 
-- Matt Dingee is getting us a word count for design system patterns
+- Global components needing string translations (Word count: 167)
+- Additional global comoponents (Word count: 1,000-very rough estimate)
 - Error messages and alerts: 10,000 (very rough estimate)
+
+## Language assistance and resources page translated into 10 additional languages
+To support VA's commitment to the fact sheet law, we'll aim to translate our language assistance and resources page into 10 additional languages. This word count is based on the Spanish page with a 10% buffer because other languages tend to be more expensive to translate. (Word count: )
