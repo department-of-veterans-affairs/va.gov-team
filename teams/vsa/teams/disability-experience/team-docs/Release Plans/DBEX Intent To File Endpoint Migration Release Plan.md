@@ -85,9 +85,9 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
                 - The current time and date
                 - Whether you have an existing Intent to File (Info block will say "You already have an Intent to File")
                 - The city your browser is making the request from
-            6. Once the previous step is completed, let us know. We will then toggle the feature flag for you account to then use the Lighthouse API provider
+            6. Once the previous step is completed, let us know. We will then toggle the feature flag for your account to then use the Lighthouse API provider
             7. Close your browser and repeat steps 2-4
-            8. On the first `/veteran-information` screen, please note for the current time and date
+            8. On the first `/veteran-information` screen, please note the current time and date
         - [x] Record testing steps in TestRail
         - [ ] Share testing steps with each user
 - [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
