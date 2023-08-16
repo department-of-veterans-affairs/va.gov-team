@@ -417,7 +417,11 @@ If you have questions or need help filling out this form,  call our MYVA411 mai
 
 If you have hearing loss, call TTY: [711](tel:711).
 
-ERROR: **** add, and select, at least one issue, so we can process your request****
+ERROR ALERT: 
+
+### You'll need to add, and select, an issue
+
+You must select at least 1 issue before you can continue filling out your request.
 
 ---
 
