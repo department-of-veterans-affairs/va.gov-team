@@ -50,6 +50,7 @@ _Note:_ Phrases are okay in headlines, subheads, and bullets within a list. [ADD
 ## Words and phrases
 
 - [ ] Text contains no idioms, slang, jargon, or culturally specific information.
+- [ ] Text clarifies technical terms (cookies, software, database, etc.)
 
 | Like this | Not like this |
 |---|---|
