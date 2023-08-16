@@ -326,7 +326,7 @@ Method: interviews
 1. Make the **patient portal experience the constant in an otherwise varied health landscape.** Veterans should have access to their health information online,**shown in a holistic, simple, and actionable way.** (p24)
     * **Communicate proactively.** Use effective channels all Veterans can access to **share** health **information** or **events**.
 2. Create a clear path between websites for health tasks.
-    * Veterans should be **taken directly to the information and tools they need**, especially when tasks are distributed across multiple websites.
+    * Veterans should be **taken directly to the information and tools they need**, especially when tasks are distributed across multiple websites.  
 **Foundational Research & Findings:**
 1. The VA ecosystem is **so complex** that **Veterans feel discouraged** to apply for, manage, and maximize their benefits. (p25)
     * Veterans are **unaware of what benefits are available to them or how to apply**. Many participants had to **overcome shame** in order to identify that they were deserving of VA benefits.
