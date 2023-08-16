@@ -1,8 +1,5 @@
 
 # Product Outline - 10-10EZR Health Benefits Update form
-- Preceding page URL to the new 10-10EZR landing page
-     - https://staging.va.gov/health-care/update-health-information/
-- [EZ(R) update capabilities epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
 ---
 
 ## Overview
