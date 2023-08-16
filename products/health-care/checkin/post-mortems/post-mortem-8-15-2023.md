@@ -1,7 +1,7 @@
 
 # Summary
 
-On Tuesday Auguest 15 2023 around 7:30 AM ET, it was discovered that no online check-ins were successful. 
+On Tuesday August 15 2023 around 7:30 AM ET, it was discovered that no online check-ins were being completed. 
 
 # Impact
 
@@ -26,8 +26,7 @@ High: no Veterans were able to check in to their appointments using mobile check
 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
-| Long Term Fix for Vista 3-Digit Station Number Hotfix | Engineering Work | [tevi-avalanche](https://github.com/orgs/department-of-veterans-affairs/teams/tevi-avalanche) | [chip - #942](https://github.com/department-of-veterans-affairs/chip/issues/942) |
-| Implement alerting for low numbers of successful check-ins | Engineering Work | [tevi-avalanche](https://github.com/orgs/department-of-veterans-affairs/teams/tevi-avalanche) | [chip - #946](https://github.com/department-of-veterans-affairs/chip/issues/946) |
+| Implement hotfix to re-add removed parameters (patient name, zip, DOB) | Engineering Work | [hotfix](https://github.com/department-of-veterans-affairs/vetext/pull/1323/files)  |
 
 # Root Cause Analysis
 
