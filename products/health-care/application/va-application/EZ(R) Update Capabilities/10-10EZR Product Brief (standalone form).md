@@ -113,9 +113,11 @@ In future iterations, we plan to review for alternative locations and other syst
      - [ ] Privacy & Security
 
 ### Incident Response info
-- The 1010EZ form is currently in production; we are only changing **TBD**
-- Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
-- 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+- The 1010EZR form is a new form on VA.gov
+- Full form flow
+- Dependent Backend systems - TBD
+- 1010EZR - Dashboard TBD
+- Contacts: TBD
 
 ## Launch Dates
 - *Target Launch Date*
