@@ -1,13 +1,29 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
+## 8/17/23
+
+Attendees:
+
+Agenda
+
 
 ## 8/10/23
 
 Attendees:
 
 Agenda
-- Review and Submit Sketch Updates
-- Error message and analytics tickets
-- Upcoming toxic exposure research
+Review and Submit Sketch Updates
+- We learned that many items in Sketch are not customizable
+- Possible flow change, but on pause until Submission page work is completed
+Error message and analytics tickets
+- Can close tickets in content discovery
+- Prioritize tickets from Nyantee
+  
+Upcoming toxic exposure research
+- TE research interviews will begin August 21-27
+- Nichole will work with Team 1 to moderate interviews for morning sessions
+
+Misc News
+- New researcher will be joining Team 1 on Aug 15 to help with research
 
 ## 8/3/23- cancelled
 
