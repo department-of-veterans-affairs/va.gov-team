@@ -16,21 +16,21 @@ Carl Dickerson - Carl@themostudio.com or Carl.Dickerson@va.gov
 [Appendix](#appendix)
 
 ## Background
-VA posted an article on July 21, 2023 about the new option for verifying your Identity with Login.gov through the USPS titled [Login.gov offers new in-person identity verification for Veterans](https://news.va.gov/122499/login-gov-offers-new-in-person-identity-verification-for-veterans/). The post details how a Veteran may choose this in-person option and what documents and/or next steps they need to take. The sole focus is support for this facet of Login.gov adoption and doesn’t mention other VA sign in options going away. The post generated a total of 6 comments in the feedback section and an additional 10 comments from the post being shared on Facebook. The emotion in some of the comments were so palpable that the Identity team wanted to see what understandings we could gather from them.
+VA posted an article on July 21, 2023 about Login.gov's new option for verifying your Identity in-person through the USPS titled [Login.gov offers new in-person identity verification for Veterans](https://news.va.gov/122499/login-gov-offers-new-in-person-identity-verification-for-veterans/). The post details how a Veteran may choose this in-person option and step-by-step what to expect a their appoint. The sole focus is awareness for this program and to encourage Login.gov adoption without mention of other VA sign in options going away. The post generated a total of 6 comments in the feedback section and an additional 10 comments from the post being shared on Facebook.
 
 VA is in the process of requiring all user accounts to have a high identity verification level. The VA seeks to use the standard established by The National Institute of Standards and Technologies (NIST). These standards are verified by credential service providers (CSP). VA offers two CSPs for account login that have an option for high identity verification. One, ID.me currently uses an older NIST standard called Level of Assurance (LOA). LOA level 3 is considered a verified account beyond a reasonable doubt. The other CSP, login.gov, uses a newer NIST standard called Identity Assurance Level (IAL). IAL level 2 means there is evidence that proves a real person’s identity is correctly represented by an online account. While LOA3 and IAL2 are similar, they use different rules for classifying accounts.
 
 > NOTE: In this report we'll use the phrase “verified account” to refer to both LOA3 and IAL2 accounts.
 
 ## Analysis Goals
-Better understand some of veterans’ frustrations with logging in and credentialing and the need to change CSP if they aren't already using login.gov or ID.me, and the need to verify with their CSP, if they are using an unverified account
+Building upon the work started by researchers on the Identity team in February of 2023, [VA login.gov Post Comment Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-02%20Desk%20Research/Findings%20from%20VA%20login%20post%20comment%20analysis.md) We seek to better understand Veterans’ opinions and/or frustrations with the VA.gov sign in process, to include sign in account creation, identity verification, the actual sign in process and the need to change CSP if they aren't already using login.gov or ID.me.
 
 
 ## Methodology 
 
-Some veterans use the comment section of VA news (or blog) posts to express their feelings on that particular topic. The comments were posted publically on a publically accessible page of VA.gov. This is potentially valuable data, as long as we understand the limitations of this data source. Consider, this source *isn’t statistically significant*, nor does it adequately represent the veteran population, as only those who read the post and then are most vocal or stirred to write about it will leave a comment.
+Some veterans use the comment section of FaceBook and VA news (or blog) posts to express their feelings on that particular topic. The comments were posted publicly on a publicly accessible page of VA.gov. This is potentially valuable data, as long as we understand the limitations of this data source. Consider, this source *isn’t statistically significant*, nor does it adequately represent the Veteran population, as only those who read the post and then are most vocal or stirred to write about it will leave a comment.
    
-The particular post of consideration is [Login.gov Provides Access to VA Digital Products, Services](https://news.va.gov/114076/login-gov-access-va-digital-products-services/), of note this post doesn’t mention other VA sign in options going away. Still it generated 53 comments that we sorted through on an affinity map to organize the key topics that kept coming up.
+The particular post of consideration is [Login.gov offers new in-person identity verification for Veterans](https://news.va.gov/122499/login-gov-offers-new-in-person-identity-verification-for-veterans/).
 
 
 ## Key Analysis Points
@@ -118,7 +118,7 @@ Some areas that might benefit from further research based on this analysis of co
 
 ### Tools used for Synthesis
 
-- [Mural Board](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1676642198110/a8b126f62cd09838d366d8a59d1e788b9b0eb51b?sender=u6c46f747a0483ea836054483)
+- [Mural Board](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1691603761695/5512258f43d142875f249edfce9c8cec996092c6?sender=uf884d122b7055bc310de5524)
 
 
-### Public comments came from [VA’s login.gov announcement](https://news.va.gov/114076/login-gov-access-va-digital-products-services/)
+### Public comments came from [VA’s login.gov blog post](https://news.va.gov/122499/login-gov-offers-new-in-person-identity-verification-for-veterans/)
