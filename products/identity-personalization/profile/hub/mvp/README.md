@@ -1,6 +1,6 @@
 # Project outline: Profile hub MVP
 
-**Last Updated: August 4, 2023**
+**Last Updated: August 16, 2023**
 
 ### Communications
 
@@ -29,14 +29,15 @@
 
 When we launched [profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#readme) in 2020, the profile went from a single page to a multi-page section. The URL `va.gov/profile` became obsolete, as we opted to land users right on the first page of the profile (at the time, a combined personal & contact information section), which had a more specific URL.
 
-While landing people directly in the first section of the profile generally doesn't cause usability issues, there have been two notable exceptions to this:
+While landing people directly in the first section of the profile generally doesn't cause major usability issues, there have been a few notable exceptions to this:
 
 - In the mobile view, people often don't realize the profile menu is collapsed, and they think `Personal information` is the only section of the profile. We have seen this in usability testing, and we think this might be why we sometimes see search results for sections that are already part of the profile.
 - For people that use screen readers, they expect to land on a page with an H1 that says `Profile` after clicking on the profile link from the authenticated menu. But since we drop people right into `Personal information`, there is no `Profile` header. This breaks accessibility best practices.
+- When reviewing search analytics, we see people using search terms to find things that are already in profile. This suggests that the navigation isn't offering enough contextual clues to users, or simply isn't being noticed.
 
 To solve for these problems, we are building a profile hub page, which resolves the issues mentioned above by doing the following:
 
-- On mobile, it allows people to scan a page instead of an easy-to-miss menu for the contents of the profile.
+- Provide people to scan a page instead of an easy-to-miss menu for the contents of the profile.
 - This allows us to create a proper profile landing page with a `Profile` H1, which aligns with accessibility best practices.
 
 ## Problem Statement
