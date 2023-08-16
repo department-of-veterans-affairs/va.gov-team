@@ -17,6 +17,9 @@ We have been tasked with migrating **Next of Kin** (NOK) and **Emergency Contact
    
 ![Screenshot 2023-08-02 at 11 08 03 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/e2c83c59-0f31-443c-96a8-412f86c4683c)
 
+- [Check-in team provided plain language guidance on Next of Kin](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59089) as of 8/23
+  
+
 ## Background 
 
 Liz Lantz (liz.lantz@adhocteam.us) and the Authenticated Experience team conducted research (April 2022) and provided recommendations on migrating the My HealtheVet (MHV) profile into the VA.gov profile. [See the full recommendations here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/recommendations.md#in-case-of-emergency-section) 
