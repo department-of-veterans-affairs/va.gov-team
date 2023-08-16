@@ -34,19 +34,31 @@ This is managed by [the authenticated experience team](https://github.com/depart
 
 ## Overview
 
-## Problem Statement
+The dot indicator is a notification style that aims to call a user's attention to unread messages. For MVP, we plan to launch this style and test whether it changes metrics, specifically for the health inbox link on My VA and the MHV landing page.
+
+## Problem statement
+
+- As a VA.gov user, I want to be able to easily see items that require my attention or action when I log into the website.
 
 ## User Outcomes
 
 ### Desired User Outcomes
 
+- Users will more easily be able to find items that need their attention.
+
 ### Undesired User Outcomes
+
+- Done wrong, the dot indicator would be easily missed by users.
 
 ## Business Outcomes
 
 ### Desired Business Outcomes
 
+- The dot indicator is simple and easily scalable as an attention mechanism.
+
 ### Undesired Business Outcomes
+
+- The dot indicator becomes overly or improperly used
 
 ## Measuring Success
 
@@ -69,7 +81,7 @@ This is managed by [the authenticated experience team](https://github.com/depart
 
 ## Key dates
 
-- August 2023: Initial discussions; project kickoff; design intent
+- August 2023: Initial discussions; project kickoff; design intent; implementation on My VA.
 
 ## Design
 
