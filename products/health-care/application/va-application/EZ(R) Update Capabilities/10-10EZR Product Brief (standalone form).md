@@ -168,7 +168,7 @@ In future iterations, we plan to review for alternative locations and other syst
 
 ### Before
 
-TBD
+[Paper/Downloadable form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/VA%20Form%2010-10EZR.pdf)
 
 ### After
 
@@ -216,6 +216,8 @@ TBD
 </details>
 
 #### Resources  
+
+<details>
 - VA Profile: VAPROFILEPM@va.gov
      - Slack Channel: #va-profile
      - [VA Profile Sharepoint](https://dvagov.sharepoint.com/sites/OITEPMOVAPROPUB) (must be on VA network)
@@ -236,6 +238,7 @@ TBD
      - Bryan Riley - Delivery/Product Manager
      - Leila Rassi - OCTO PO
 
+</details>
+
 ---
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
+
