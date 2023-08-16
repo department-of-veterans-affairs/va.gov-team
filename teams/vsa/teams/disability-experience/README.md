@@ -20,6 +20,7 @@ At the highest level, the core disability experience team is here to own, from t
 |----|----|-----|---------|
 | Emily Theis | OCTO Claimant Experience Crew Chief | emily.theis@va.gov | emilytheis |
 | Jennifer Bertsch | OCTO Product Manager | jennifer.bertsch@va.gov | jenniferbertsch |
+| Shannon Ford | OCTO Design Lead | shannon.ford1@va.gov | shannonkford |
 | Rakshinda Aslam | Product Manager | rakshinda.aslam@agile6.com | RakshindaAslam |
 | Lydia Hooper | UX Researcher and Designer | lydia.hooper@agile6.com | lydiahooper |
 | Aurora Hampton | Engineer | aurora.hampton@agile6.com | ahay-agile6 |
