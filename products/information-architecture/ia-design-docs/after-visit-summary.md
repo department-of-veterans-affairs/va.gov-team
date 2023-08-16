@@ -1,6 +1,6 @@
 # IA Design for After Visit Summary
 **STATUS: In Progress**
-Last Updated: 7/21/23 by KO after AVS study findings finalized
+Last Updated: 8/16/23 by KO after AVS study findings finalized
 
 **Team:** Appointments and Medical Records Joint initiative
 - appointments will be writing and releasing the code
@@ -25,6 +25,9 @@ Users can access the AVS from both the Appointments and Medical records sections
 
 ## <a name="map"></a>Page structure<br>
 - The After Visit Summary (AVS) will live in Medical Records as a type of Care Note and Summary
+- Note in the redirect section below, we show how to handle redirects from empty directories.
+- At such time as we start showing AVSs in the list of past care notes, do the work to integrate the application's functionality into the MHV medical records application and get rid of the /avs/ subdirectory altogether.
+
 
 ## <a name="url"></a>URLs and breadcrumbs
 
@@ -49,7 +52,9 @@ Users can access the AVS from both the Appointments and Medical records sections
 
 
 ## <a name="redirects"></a>Redirects <br>
-No redirects needed now.
+| Current URL               | Redirect to              | Notes                                                                                                                                                                         |
+|---------------------------|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ask.va.gov + all sub-urls | va.gov/contact-us/ask-va | If the sub-urls from the old app were redirecting anyway to ask.va.gov, you don’t need to worry about redirecting each one. Redirecting just ask.va.gov should be sufficient. |
 
 
 <hr>
