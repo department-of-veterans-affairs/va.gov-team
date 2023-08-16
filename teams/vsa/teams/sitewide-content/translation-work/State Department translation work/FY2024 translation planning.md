@@ -66,4 +66,4 @@ We'll also prioritize translating health care and disability forms as they're th
 - Error messages and alerts: 10,000 (very rough estimate)
 
 ## Language assistance and resources page translated into 10 additional languages
-To support VA's commitment to the fact sheet law, we'll aim to translate our language assistance and resources page into 10 additional languages. This word count is based on the Spanish page with a 10% buffer because other languages tend to be more expensive to translate. (Word count: )
+To support VA's commitment to the fact sheet law, we'll aim to translate our language assistance and resources page into 10 additional languages. This word count is based on the Spanish page with a 10% buffer because other languages tend to be more expensive to translate. (Word count: 11,935)
