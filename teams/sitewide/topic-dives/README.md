@@ -1,7 +1,7 @@
 # Topic Dives
 
 ## Purpose/background
-The VA CMS and Sitewide program live in a vast system with many moving part. These topic dives are meant to be shorter presentations on a specific topic within that ecosystem, that simplifies onboarding or work in a specific area. If there is a topic you want covered, ask about it! Someone else is probably curious too. Candidates for Topic Dives include: CMS / Drupal engineering topics, environmental information, process workflows, Front-end ecosystem topics / data handling, or intricate UX topics. 
+The VA CMS and Sitewide program live in a vast system with many moving part. These topic dives are meant to be shorter presentations on a specific topic within that ecosystem, that simplifies onboarding or work in a specific area. If there is a topic you want covered, ask about it! Someone else is probably curious too. Candidates for Topic Dives include: CMS / Drupal engineering topics, environmental information, process workflows, Front-end ecosystem topics / data handling, or intricate UX topics.
 
 ## How to sign up to present
 Add your preferred date and topic to the Topic Dives list below. This acts as both agenda for upcoming sessions, as well as an archive of previous sessions.
