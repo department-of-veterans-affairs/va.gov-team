@@ -91,7 +91,7 @@ In future iterations, we plan to review for alternative locations and other syst
 - Printing generated PDF of the completed form after submission with all data input
 
 ### Initiatives
-- [EZ(R) update capabilities epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
+- [EZR online epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
 - Preceding page URL to the new 10-10EZR landing page
      - https://staging.va.gov/health-care/update-health-information/
 - [Original EZR Update Capabilities Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/ReadMe.md) 
