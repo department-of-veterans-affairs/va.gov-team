@@ -72,12 +72,22 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
         - [ ] Note the date, start, and end time:
     - If opting for asynchronous time:
         - [ ] Note individual scheduled dates and times next to each identified user
-        - [ ] Note testing steps:
-            1. Login to your va.gov account
-            2. ...
-            3. ...
-            4. Verify the legacy use case, making sure a user that has an ITF created via EVSS is still able to access LH
-            5. If the above fails, may indicate issues with LH implementation
+        - [x] Note testing steps:
+            1. Login to your va.gov account in prod
+            2. Navigate to `va.gov/file-disability-claim-form-21-526ez/start`
+            3. Answer the questions as follows:
+                "Are you on active duty right now?" > "No"
+                "I'm filing a new claim"
+                
+                Alternatively, skip the form by navigating to the "If you know X form is right, click here"
+            4. On the /introduction screen, select "Start the Disability Compensation Application"
+            5. On the first `/veteran-information` screen, please note for us
+                - The current time and date
+                - Whether you have an existing Intent to File (Info block will say "You already have an Intent to File")
+                - The city your browser is making the request from
+            6. Once the previous step is completed, let us know. We will then toggle the feature flag for you account to then use the Lighthouse API provider
+            7. Close your browser and repeat steps 2-4
+            8. On the first `/veteran-information` screen, please note for the current time and date
         - [x] Record testing steps in TestRail
         - [ ] Share testing steps with each user
 - [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
