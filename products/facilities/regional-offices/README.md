@@ -61,24 +61,39 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 - Derek Hommema, VBA Office of Field Operations (Derek.Hommema@va.gov)
 - Brigette Murray, VBA Office of Field Operations (Brigette.Murray@va.gov)
 
+
+
+
 ### **VBA Stakeholders:**
 - Laura O'Shea, Office of Policy Overview at VBA (laura.oshea@va.gov)
 - Jamie Statton, Office of Policy Overview at VBA (jamie.statton@va.gov)
 
 ### **Points of Contact from VBA RO pilot locations**
-Extracted from VBA RO recurring sync, 8/16, list to be confirmed with stakeholders:
 
-- daniel.irizarry@va.gov
-- jametria.mcelroy@va.gov
+11/23/22 list:
+| Houston          | 1/2       | Name                        | Email                   |
+| ---------------- | ---------- | -------------------------- | ----------------------- |
+| Anchorage        | Primary    | Kathleen “Kathie” Warren   | kathleen.warren1@va.gov |
+| Anchorage        | Secondary  | Alice Dunaway              | alice.schuler@va.gov\>  |
+| Albuquerque      | Primary    | Michael Nelson             | Michael.Nelson9@va.gov  |
+| Albuquerque      | Secondary  | Scott Lajiness             | Scott.Lajiness@va.gov   |
+| Honolulu         | Primary    | Eric Gaskin                | eric.gaskin@va.gov      |
+| Honolulu         | Secondary  | Jametria McElroy           | Jametria.mcelroy@va.gov |
+| Houston          | Primary    | Daniel Irizarry            | Daniel.Irizarry@va.gov  |
+| Houston          | Secondary  | Thomas “David” Gibson      | Thomas.Gibson@va.gov    |
+| Houston          | Additional | Steven Sunseri             | steven.sunseri@va.gov   |
+| National Capital | Primary    | Bobby Norton               | BOBBY.NORTON@va.gov     |
+| National Capital | Secondary  | Joshua Carson              | Joshua.Carson@va.gov    |
+| San Juan         | Primary    | Sharon Delgado             | sharon.delgado@va.gov   |
+| San Juan         | Secondary  | Adrian Pons                | ADRIAN.PONS@va.gov      |
+
+
+8/16/23: Additional invitees to Facilities/VBA RO recurring sync, list to be confirmed with stakeholders re: who are current primary / secondary:
 - jamie.verity@va.gov
-- joshua.carson@va.gov
-- michael.nelson9@va.gov
 - nykeisha.moore@va.gov
 - ramon.lopez2@va.gov,
-- scott.lajiness@va.gov
-- steven.sunseri@va.gov
-- thomas.gibson@va.gov
 - tykisha.tull@va.go
+
 
 ## Approach
 - Research, design, and define the facilities hierarchical structure as it relates to Veteran needs and understanding
