@@ -462,10 +462,6 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-### Sorry, we couldn’t find any eligible issues
-
-If you’d like to add an issue for review,  select "Add a new issue" to get started.
-
 * [ ] Name of Issue
 	  
       Decision Date: Month day, Year
