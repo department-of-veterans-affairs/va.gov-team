@@ -12,4 +12,4 @@ Fiduciary program
 
 ### Engagements
 
-We have not engaged with this business line yet.
+- [August 30, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Fiduciary%20program/August%2030%2C%202023.md)
