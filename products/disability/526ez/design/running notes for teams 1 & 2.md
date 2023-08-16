@@ -8,7 +8,7 @@ Agenda
 
 ## 8/10/23
 
-Attendees:
+Attendees: Kate, Julie, Nichole, and Lydia
 
 Agenda
 Review and Submit Sketch Updates
