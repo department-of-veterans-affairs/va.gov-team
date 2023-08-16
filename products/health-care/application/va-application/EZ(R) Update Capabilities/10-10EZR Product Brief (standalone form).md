@@ -73,7 +73,7 @@ How might we provide an online experience where the Veteran can quickly and easi
 ## Solution Approach
 We are going to build a standalone EZR form online.  This will be an authenticated experience only, so the Veteran must have a VA.gov account **_and_** enrolled/registered for VA health care to complete and submit the form.
 This solution was chosen as the easiest path to get the update capability online, while also meeting expectations from HEC stakeholders and the Paper Reduction Act team.
-In future iterations, we plan to review for alternative locations and other systems that we can leverage where Veterans can provide an update to their information in one place, and that data cascades to all systems that is dependent on the update.  
+In future iterations, we plan to review for alternative locations and other systems that we can leverage where Veterans can provide an update to their information in one place, and that data cascades to all systems that are dependent on the update.  
 
 **In-scope**:
 - Build a standalone 10-10EZR form online
