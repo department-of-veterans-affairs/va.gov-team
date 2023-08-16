@@ -8,8 +8,11 @@ Debt
 
 |Stakeholder|Business area|
 |:--|:--|
+|Julie Lawrence|DMC (Debt Management Center)|
 |Jason Hoge|DMC (Debt Management Center)|
 |Tamara Dorle|DMC (Debt Management Center)|
+|Robert Vitt|DMC (Debt Management Center)|
+|Breon Johnson|VBA ART (Veterans Benefits Administration All Response Team)|
 
 ### Engagements
 
