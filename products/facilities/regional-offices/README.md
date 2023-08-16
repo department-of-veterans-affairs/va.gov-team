@@ -65,6 +65,20 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 - Laura O'Shea, Office of Policy Overview at VBA (laura.oshea@va.gov)
 - Jamie Statton, Office of Policy Overview at VBA (jamie.statton@va.gov)
 
+**Points of Contact from VBA RO pilot locations**
+Extracted from VBA RO recurring sync, 8/16, list to be confirmed with stakeholders:
+daniel.irizarry@va.gov,
+jametria.mcelroy@va.gov,
+jamie.verity@va.gov,
+joshua.carson@va.gov,
+michael.nelson9@va.gov,
+nykeisha.moore@va.gov,
+ramon.lopez2@va.gov,
+scott.lajiness@va.gov,
+steven.sunseri@va.gov,
+thomas.gibson@va.gov,
+tykisha.tull@va.gov
+
 ## Approach
 - Research, design, and define the facilities hierarchical structure as it relates to Veteran needs and understanding
 - Research, design, and write new content/create content guidelines for field editors for location-specific content, for example "prepare for your visit" section and others
