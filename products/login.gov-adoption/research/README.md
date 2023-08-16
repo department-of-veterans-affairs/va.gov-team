@@ -12,4 +12,4 @@ Last updated by @tygindraux: May 31, 2023
 |[In-Person Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/in-person%20support)|In-Person Proofing|Concept testing|May-June 2023 (TBC)||
 
 <br>
-Contact Tyler Gindraux, Senior UX Researcher (tyler@bluetiger.digital) about the Login.gov Adoption Team's research.
+Contact Sophia Philip, Senior UX Researcher (sophia@themostudio.com) about the Login.gov Adoption Team's research.
