@@ -142,12 +142,12 @@ In future iterations, we plan to review for alternative locations and other syst
 - [Prototype]
 - [Technical documentation folder]
 - How to access and test
-    - [Staging env](https://staging.va.gov/health-care/apply/application/introduction)
+    - Staging env
     - Testing documentation - TestRail
     - [Test/Use cases & users]
     - A11y test case documentation
 - Release plan
-- [Production env](https://www.va.gov/health-care/apply/application/introduction)
+- Production env
 
 ### Key Decisions
 - 8/15/2023 - After talking with our HEC Stakeholders and the PRA team (Paper Reduction Act) in [July's Stakeholder meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes/2023-07-24%20PRA%20discussion%20on%20EZR%20with%20HEC%20stakeholders.md), and explaining our proposal to incorporate EZR updates within the VA.gov Profile page, it was communicated from PRA team to our PO, Patrick Bateman, that they would like us to stick closer to something like a standalone authenticated workflow.  
