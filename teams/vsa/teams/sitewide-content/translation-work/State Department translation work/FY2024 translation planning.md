@@ -1,6 +1,11 @@
-Translation work for FY2024 will focus on [Priority 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/16062e7e6f6bc88b2fe3366274dd6ff2afa2e83e/products/content-localization/multilingual-content-prioritization.md#priority-3-vital-benefit-content-for-initial-benefit-access) and [Priority 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/16062e7e6f6bc88b2fe3366274dd6ff2afa2e83e/products/content-localization/multilingual-content-prioritization.md#priority-4-select-high-value-vital-benefit-content-for-fully-accessing-and-managing-benefits-with-an-emphasis-on-content-that-requires-a-response-from-the-veteran-or-family-member). We determined these in our initial multilingual content prioritization efforts. 
+Translation work for FY2024 will focus on [Priority 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/16062e7e6f6bc88b2fe3366274dd6ff2afa2e83e/products/content-localization/multilingual-content-prioritization.md#priority-4-select-high-value-vital-benefit-content-for-fully-accessing-and-managing-benefits-with-an-emphasis-on-content-that-requires-a-response-from-the-veteran-or-family-member), [Priority 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/16062e7e6f6bc88b2fe3366274dd6ff2afa2e83e/products/content-localization/multilingual-content-prioritization.md#priority-3-vital-benefit-content-for-initial-benefit-access) and [Priority 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/16062e7e6f6bc88b2fe3366274dd6ff2afa2e83e/products/content-localization/multilingual-content-prioritization.md#priority-4-select-high-value-vital-benefit-content-for-fully-accessing-and-managing-benefits-with-an-emphasis-on-content-that-requires-a-response-from-the-veteran-or-family-member). We determined these in our initial multilingual content prioritization efforts. 
 
 We will also aim to translate some of our core content patterns and error messages in the design system to prepare for easier cross-product and cross-platform translation moving forward.
+
+## Priority 2: Basic rights and assistance content
+- Privacy policy (Word count: 1,000 estimate)
+- Patient policy (Word count: 1,000 estimate)
+- [Accessibility at VA](https://www.va.gov/accessibility-at-va/) (Word count: 660)
 
 ## Priority 3: Vital benefit content for initial benefit access
 ### Decision reviews
