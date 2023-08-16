@@ -102,7 +102,7 @@ In future iterations, we plan to review for alternative locations and other syst
 
 ### Collaboration Cycle
 
-- Collab Cycle ticket [#TBD]
+- Collab Cycle ticket [#63773](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63773)
      - [ ] Design Intent
      - [ ] Content and IA
      - [ ] Research
@@ -132,6 +132,7 @@ In future iterations, we plan to review for alternative locations and other syst
 ## Solution Narrative
 
 ### Current Status
+- New form being built online
 
 #### Key deliverables
 
