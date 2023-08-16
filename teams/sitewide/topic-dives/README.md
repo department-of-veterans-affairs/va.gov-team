@@ -37,3 +37,8 @@ Please add any potential future topics you would like covered below:
 - Jill Adams
 - [Github/Pull Request Basics video](https://drive.google.com/file/d/1sM4gD6BYeXgRobRhCI6oTXgCOvmOWHXs/view)
 - [Github/Version Control Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683580605953/e136d3c6247df126dab4e8d317cbe49b6b057e69?sender=u25440eff886a526ece257322)
+
+### 5/15/23 - CMS User Permission Model (Roles, Permissions, Workflows & Sections)
+- Dave Pickett
+- [CMS User Permission Model video](https://drive.google.com/file/d/1kM_WClSL15z3JX1EAHJ5f-QG8f0n_lyL/view)
+- [CMS User Permission Model slides](https://docs.google.com/presentation/d/1Kkjmx7rBprudAHXN8uFuxNp7D0nPD2oSj9-9-Jirxr8)
