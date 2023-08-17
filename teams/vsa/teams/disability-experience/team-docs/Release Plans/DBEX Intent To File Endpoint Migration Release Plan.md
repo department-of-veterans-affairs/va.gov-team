@@ -95,12 +95,14 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
         - [x] Share testing steps with each user
 - [x] Ensure that at least a portion of users can run through testing steps before setting Flipper active
 - [x] Ensure at least one user covers the "legacy" case (EVSS generated ITF, LH checked)
-- [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
-- [ ] Ensure qualitatively that the feature works as intended for users
+- [x] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
+- [x] Ensure qualitatively that the feature works as intended for users
 - [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
-- [ ] Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
+- [ ] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
+- Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
     - Note any anomalies here:
         - 8/17: Discrepancy between LH monitoring (no activity) and our Dashboard. Additionally, activity picked up on our dashboard did not match the expected use case
+            - Our activity picked up submit calls for `form_0966`, while related to ITF, is not necessary to monitor
 
 <br>
 
