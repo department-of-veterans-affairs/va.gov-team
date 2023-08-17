@@ -193,13 +193,13 @@ Decreased Time to successful complete and submit online transactions
 
 ## Team Roles (IN PROGRESS)
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. 
-Principal Investigator: Svenja Leggewie
-Project Point of Contact: Sophia Philip
-Research guide writing and task development (usually but not always same as moderator): Sophia Philip and Sofia Kirkman
-Moderator: Sophia Philip and Sofia Kirkman
-Participant recruiting & screening: Perigean
-Participant(s) for pilot test: TBD
-Note-takers: Sophia Philip and Sofia Kirkman
+- Principal Investigator: Svenja Leggewie
+- Project Point of Contact: Sophia Philip
+- Research guide writing and task development (usually but not always same as moderator): Sophia Philip and Sofia Kirkman
+- Moderator: Sophia Philip and Sofia Kirkman
+- Participant recruiting & screening: Perigean
+- Participant(s) for pilot test: TBD
+- Note-takers: Sophia Philip and Sofia Kirkman
 
 
 Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. 
