@@ -100,6 +100,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
 - [ ] Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
     - Note any anomalies here:
+        - 8/17: Discrepancy between LH monitoring (no activity) and our Dashboard. Additionally, activity picked up on our dashboard did not match the expected use case
 
 <br>
 
