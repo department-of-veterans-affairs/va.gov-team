@@ -3,21 +3,27 @@
 ### Date: Aug 17 2023       
 ### Participants: 
 ### Topics Covered:
-- P1 issue
-   -  What is the CTA for our teams?  
+- P1 ITF issue
+   -  What is the CTA for our teams?
+   -  Nothing at this time 
 - Backup Submission Issue
-   -  What is the CTA for our teams? 
+   -  What is the CTA for our teams?
+   -  Get better monitoring
+   -  Minitoring to indicate next steps
+   -  Sam working with Kyle to take on this work
+   -  Team 2 is taking on this issue
 - Team 1 engagement in these two issues will delay
    - Submit endpoint migration to LH that will delay Toxic Exposure launch
    - ITF and rateddisabilities launch
-   - What needs to be prioritized
+   - What needs to be prioritized - Team 1 stay focused on LH migration
 - Form Validation errors priorities for team 2
    - reproduce, review priorities
    - Determine capacity to fix
 - New Benefits Portfolio project/workstream dashboard created in response to status reqeusts from stakeholders (https://dvagov.sharepoint.com/sites/vaabdvro/SitePages/Project%20Status%20Overview%20-%20OCTO%20Benefits.aspx)
    -    We have organized the workstreams by the Benefits Portfolio's "Priority Bets" to show how the workstreams support achieving the bets.  There's an area below sorted by crews and teams where we will link to individual team roadmaps and sprint review documents.
    -   Please review and update status of 526 team work.  Are there workstreams that need to be added, deleted or consolidated?    
-     
+- Priortization needed for near term Research / Design ideas
+   - Shannon and Jen to talk about that this week
 ### Date: Aug 10 2023       
 ### Participants: Rakshinda, Shannon, Steve, Jen
 ### Topics Covered:
