@@ -348,7 +348,7 @@ There are patterns around certain aspects of personalization and contextual info
 
 <table>
   <tr>
-   <td colspan="3" ><strong>Personalization patterns by industry </strong>
+   <td colspan="3" ><strong>Contextual personalization patterns by industry </strong>
    </td>
   </tr>
   <tr>
