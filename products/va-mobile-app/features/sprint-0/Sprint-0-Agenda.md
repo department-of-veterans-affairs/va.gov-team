@@ -18,19 +18,21 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
+* Terms and conditions consolidated approach across VA
+    * Trying to create a single set of T&Cs for all tools
+        * Ex: MHV can revoke access to SM based on behavior
+    * Tom Black (OCTO) coordinating
+* Appeals Claims Letter
+* Overall strategy for push notifications
+* Pre-Needs Burial
 * [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
 * Program level analytics - (Greta)
 * App store marketing strategy 
-* Overall strategy for push notifications
 * 10-10EZR 
 * Cerner Impacts
 * Web and App UI differences
-* Terms and conditions consolidated approach across VA
-    * Trying to create a single set of T&Cs for all tools
-        * Ex: MHV can revoke access to SM based on behavior
-    * Tom Black (OCTO) coordinating
 * List filtering and sorting
 * Onboarding
 * After visit summary for appointments
@@ -41,7 +43,6 @@ The Sprint 0 meeting is a time to do the following:
     * H623A - eligibility letter for getting on base, doesn’t have a photo so we should look at this for VHIC/VIC
 * [Omni-channel handoffs](https://docs.google.com/document/d/1fIqeZ3Ajbn6VBo-nYuVo8fdNLGHAsaqNJLxkICph0gk/edit?usp=share_link) 
 * [External Links - Minimize and Refine](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4077)
-* Deep Linking from Push Notifications
 * Personalized Notifications
     * Showing changes of statuses, etc.
 * Revamp Letters
