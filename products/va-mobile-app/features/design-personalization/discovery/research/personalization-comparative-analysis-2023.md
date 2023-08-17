@@ -161,8 +161,11 @@ There was no single personalization method used on the home screen by all apps (
    </td>
    <td>
 
-<img src="../images/name-time.png" width="250" alt="user name and time of day" title="user name and time of day">
 <img src="../images/name.png" width="250" alt="user name" title="user name">
+<img src="../images/name-status-miles.png" width="250" alt="user name, status, miles" title="user name, status, miles">
+<img src="../images/name-time.png" width="250" alt="user name and time of day" title="user name and time of day">
+
+
 
    </td>
   </tr>
