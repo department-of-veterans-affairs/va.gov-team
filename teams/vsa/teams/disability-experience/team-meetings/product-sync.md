@@ -1,11 +1,23 @@
 # Benefits Disability Experience - Product sync 
 
-### Date: Aug 10 2023       
-### Participants: 
+### Date: Aug 17 2023       
+### Participants: Rakshinda
 ### Topics Covered:
 - P1 issue
-   - Do we roll back the ITF msg after the traffic volume goes down after Aug 10?
-   - Do we need any further work on file size for upload or does 99 MB per upload stand?
+   -  What is needed?  
+- Backup Submission Issue
+   -  What is needed?
+- Team 1 engagement in these two issues will delay
+   - Submit endpoint migration to LH that will delay Toxic Exposure launch
+   - ITF and rateddisabilities launch
+   - What needs to be prioritized
+     
+### Date: Aug 10 2023       
+### Participants: Rakshinda, Shannon, Steve
+### Topics Covered:
+- P1 issue
+   - Do we roll back the ITF msg after the traffic volume goes down after Aug 10? - Being handled by Kyle/Robin
+   - Do we need any further work on file size for upload or does 99 MB per upload stand? No
 - Toxic Exposure 
    - Research planned for the week of Aug 21
    - Start work on mock-ups and plan the build
@@ -13,6 +25,8 @@
   - 1-5 user test starting this sprint
   - next would be .5% rollout
 - Question from David R re status of Landing page work?
+     - Content team needs another ticket after research
+     - Shannon and Beth meeting next week to discuss
   
 ### Date: Aug 3 2023       
 ### Participants: Austin
