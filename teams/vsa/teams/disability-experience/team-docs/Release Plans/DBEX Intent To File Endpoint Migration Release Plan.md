@@ -62,9 +62,12 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 
 ### Canary
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63007
+- Links to dashboard showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: Intent to File](https://vagov.ddog-gov.com/dashboard/ipg-v6d-c59/benefits---dbex---evss-to-lh-intent-to-file?from_ts=1690907664207&to_ts=1690911264207&live=true) (Timezone is ET)
 - [x] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles:
-    - Robin Garrison, @Robin Garrison, Aug 17, 2023 9:47AM CT, Has existing ITF, Wichita KS
+    - Robin Garrison, @Robin Garrison
+        - EVSS: Aug 17, 2023 9:47AM CT, Has existing ITF, Wichita KS
+        - LH: Aug 17, 2023 10:07AM CT
     - Mike Richards @Mike Richard
     - Rocio De Santiago @Rocio De Santiago - Coforma
 - [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
@@ -111,7 +114,7 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 - Monitor logs for any qualitative anomalies
 - Monitor latency
 
-Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: Intent to File](https://vagov.ddog-gov.com/dashboard/ipg-v6d-c59/benefits---dbex---evss-to-lh-intent-to-file?from_ts=1690907664207&to_ts=1690911264207&live=true)
+Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: Intent to File](https://vagov.ddog-gov.com/dashboard/ipg-v6d-c59/benefits---dbex---evss-to-lh-intent-to-file?from_ts=1690907664207&to_ts=1690911264207&live=true) (Timezone is ET)
 
 #### Rollback
 - Rollback if any of the following is encountered
