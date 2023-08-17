@@ -156,7 +156,7 @@ Aug 29, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm
 Aug 30, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm 
 Aug 31, 2023 | ~10-11 am~, 12-1, 3-4, 5-6 pm 
 Sept 1, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm  
-Sept 5, 2023 | 10-11 am, 12-1 pm 
+Sept 5, 2023 | 10-11 am, 12-1, **3-4** pm 
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
