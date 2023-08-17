@@ -24,7 +24,6 @@ The Sprint 0 meeting is a time to do the following:
     * Tom Black (OCTO) coordinating
 * Appeals Claims Letter
 * Overall strategy for push notifications
-* Pre-Needs Burial
 * [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
@@ -50,9 +49,9 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Ready to Present
 
-* [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md)
-* [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
 * [Sprint 0: Pre-Needs Burial Claim - Adam](https://docs.google.com/document/d/1DTio0ekfMld9RuvfqPChfvEhBtxL6qGo2hto46MekG0/edit)
+* [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
+* [Sprint 0: Push Notification Announcements - Binny](https://docs.google.com/document/d/1oHUiY6_ZFJgOep0UcRlff8WXk0-YSpl9g2WRC-bBOu4/edit#heading=h.mnq6vtjqteg4)
 
 
 | Immediate Action | Next Quarter Bucket | Icebox |
