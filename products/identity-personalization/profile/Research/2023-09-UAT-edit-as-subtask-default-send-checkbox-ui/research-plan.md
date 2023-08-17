@@ -13,14 +13,18 @@ The primary goal of our UAT is to confirm that 3 updates to the Profile function
 - Leveraging the notification `default send` flags in VA Notify
 - changing radio buttons to checkboxes in the notification settings user interface
 
-Specifically, this research will be looking to validate the following use cases:
-- 
+Specifically, this research will be looking to validate the following use cases for LOA3 users:
+- User adds a mobile phone number to profile from the notification settings page
+- User updates a mobile phone number to profile from the notification settings page
+- User manages notification settings with and without a  `default send` value
 
 ### Outcome
 Based on the outcome of this research study, we will either release this work to production, or make updates to correct any bugs or significant usability hurdles.
 
 ### Research questions
-- 
+- Does our edit as a sub-task flow function as expected do users can add or update their mobile number?
+- Can users successfully update notification settings with the checkbox UI?
+- Does the notification API return the correct default send value before and after user interaction?
 
 ### Hypothesis
 - Our edit as a sub-task flow will work as expected
@@ -33,25 +37,30 @@ While sharing their screen in remote (Zoom) interviews, participants will comple
 Remote via Zoom
 
 ### Research materials
-
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-09-UAT-edit-as-subtask-default-send-checkbox-ui/conversation-guide.md)
 
 ## Recruitment
-Perigean will perform recruiting for 7 participants for a total of 5 completed sessions. ~Before recruitment begins, a recruiting meeting to touchbase is needed~. 
+Perigean will perform recruiting for 7 participants for a total of 5 completed sessions. ~
+
+Before recruitment begins, a recruiting meeting to touchbase is needed~. 
 
 ### Recruitment criteria
-We will aim for at least **5 completed sessions** with the following user type:
-LOA3 (ID.me or Login.gov) user that 
-
-**To get at least 5 completed sessions, we'll recruit 7 participants.**
+We will aim for at least **5 completed sessions** and recruit 7 participants to reach that goal.
 
 ### Primary criteria (must-haves)
 
 **All participants**
-- Must be able to screenshare via Zoom
+- Must have a smartphone, desktop, laptop, or tablet and are willing to complete their interview with that device. 
+* Have an identify-verified VA.gov or My HealtheVet account.
+* Be willing to log into their above mentioned account and share their screen over Zoom in a web browser window on their device (please include device info in the tracker information)
+* Provide the email that they use to log in to VA.gov prior to the session (please include this email address in the tracker information)
+* Have a working microphone on their device
+* Have Zoom downloaded to their device prior to the session
 
 **Some participants**
-- 3 must be able to login to VA.gov with a verified ID.me
-- 2 must be able to login to VA.gov with a verified Login.gov
+- At least 3 must be able to join the session from a mobile device
+- At least 3 must be able to join the session from a desktop or laptop computer
+- At least 3 must have never previously updated notification settings in their VA.gov profile account
 
 ### Additional screener questions
 
@@ -72,20 +81,32 @@ Response options (checkbox): DS Logon, MyHealtheVet, Login.gov, ID.me, None of t
 **What email address(es) do you use to login to VA.gov?**
 This is a fill in the blank question, no character limit, and is not qualifying or disqualifying.
 
+**Device screener question**
+We’d like to make sure the website works well on a variety of devices. Please check the devices you have available to you that you could use to join the interview. **The device will need to have Zoom downloaded and a working microphone.**
 
+Response options: Desktop/laptop, tablet, smartphone
+
+**Note:** This should be used to satisfy the device criteria under “Some participants”
+
+**Previous experience managing notification settings screener question**
+Have you ever used VA.gov to opt in or out of text notifications from VA?  Examples include notifications for appointment reminders, prescription shipments, and Board of Veterans’ Appeals hearing reminders.
+ 
+Response options (radio button):  Yes, No, I’m not sure
+
+**Note:** Answer should be No to satisfy criteria for never having managed notification settings on VA.gov
 ## Timeline 
 
 ### Prepare
-When will the thing you are testing be finalized? TBD
+When will the thing you are testing be finalized? September 12
 
 Date and name of a mock participant for a pilot session:
 - Pilot participant name: TBD
 - Pilot participant email: TBD
-- Date and time of pilot session: TBD
+- Date and time of pilot session: 9/21, time TBD
 
 ### Research sessions
 What dates do you plan to do research? 
-- TBD
+- September 25-27
 
 ### Length of sessions
 Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
@@ -94,9 +115,9 @@ Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule
 
 | Date | Times (Eastern) |
 |------|-----------------|
-|      |                 |
-|      |                 |
-|      |                 |
+| 9/25 | 8am-4pm         |
+| 9/26 | 11:30am-5pm     |
+| 9/27 | 8am-4pm         |
 
 ## Team Roles	
 - Moderator: Pam Drouin, pamela.drouin@a1msolutions.com, Liz Lantz <liz.lantz@adhocteam.us>
