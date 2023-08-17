@@ -18,13 +18,12 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
-* Terms and conditions consolidated approach across VA
+* Terms and conditions consolidated approach across VA (Meko)
     * Trying to create a single set of T&Cs for all tools
         * Ex: MHV can revoke access to SM based on behavior
     * Tom Black (OCTO) coordinating
-* Appeals Claims Letter
-* Overall strategy for push notifications
-* [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
+* Appeals Claims Letter (Stacy)
+* Overall strategy for push notifications 
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
 * Program level analytics - (Greta)
@@ -44,14 +43,14 @@ The Sprint 0 meeting is a time to do the following:
 * [External Links - Minimize and Refine](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4077)
 * Personalized Notifications
     * Showing changes of statuses, etc.
-* Revamp Letters
 
 
 ## Ready to Present
 
 * [Sprint 0: Pre-Needs Burial Claim - Adam](https://docs.google.com/document/d/1DTio0ekfMld9RuvfqPChfvEhBtxL6qGo2hto46MekG0/edit)
-* [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
 * [Sprint 0: Push Notification Announcements - Binny](https://docs.google.com/document/d/1oHUiY6_ZFJgOep0UcRlff8WXk0-YSpl9g2WRC-bBOu4/edit#heading=h.mnq6vtjqteg4)
+* [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
+* [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
 
 
 | Immediate Action | Next Quarter Bucket | Icebox |
