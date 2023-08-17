@@ -1,28 +1,29 @@
 # Research Plan: Profile multi-feature UAT, September 2023
 
 ## Background  
+Over the last 3 months, we’ve worked on improvements related to our notification settings feature, and how users update profile information while in the middle of another task.  They’re closely related, and will be part of the same release so we are conducting UAT on all 3 features at once. 
 
-### OCTO-DE Objectives 
-
-### Veteran Journey 
-Since Veterans can manage their VA.gov profile any time after becoming a Veteran, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
+### Features to be tested
+- Default send
+  - VA Notify added a `default send` flag to indicate whether or not a person is automatically opted-in to a notification via another action. 
+  - We’ve made an update to leverage this flag in our notification settings feature and want to validate the data is being sent correctly
+- User interface update
+  - Since we have the `default send` flag available to us, we were able to simplify our UI and use checkbox inputs instead of radio buttons. 
+- Edit as a sub-task
+  - Previous rounds of research highlighted an opportunity to improve how we asked users to add or update contact information as part of a task. 
+  - We’ve created a new flow for this that can be used in any part of profile, and are initially launching it within the notification settings feature.
 
 ## Research Goals	
-The primary goal of our UAT is to confirm that 3 updates to the Profile function as intended for users who sign in with ID.me and/or login.gov.  The updates are
-- the profile-wide editing as a sub-task feature (which we’re launching in notification settings)
-- Leveraging the notification `default send` flags in VA Notify
-- changing radio buttons to checkboxes in the notification settings user interface
-
-Specifically, this research will be looking to validate the following use cases for LOA3 users:
+The primary goal of our UAT is to confirm that 3 updates to the Profile function as intended for users who sign in with ID.me and/or login.gov.  Specifically, this research will be looking to validate the following scenarios are completed as expected for LOA3 users:
 - User adds a mobile phone number to profile from the notification settings page
 - User updates a mobile phone number to profile from the notification settings page
-- User manages notification settings with and without a  `default send` value
+- The  `default send` value is returned correctly based on user interaction in the notification API
 
 ### Outcome
 Based on the outcome of this research study, we will either release this work to production, or make updates to correct any bugs or significant usability hurdles.
 
 ### Research questions
-- Does our edit as a sub-task flow function as expected do users can add or update their mobile number?
+- Does our edit as a sub-task flow function as expected when users add or update their mobile number?
 - Can users successfully update notification settings with the checkbox UI?
 - Does the notification API return the correct default send value before and after user interaction?
 
@@ -95,7 +96,7 @@ Response options (radio button):  Yes, No, I’m not sure
 
 **Note:** Answer should be No to satisfy criteria for never having managed notification settings on VA.gov
 ## Timeline 
-
+**This timeline is dependent on staging review timing**
 ### Prepare
 When will the thing you are testing be finalized? September 12
 
