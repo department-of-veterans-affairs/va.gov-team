@@ -176,10 +176,6 @@ In the last 10 minutes of the usability study interviews, we will do a small con
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
 1. **This Streamlined Waiver had a more positive reception than the Full FSR and was described as "easy" and "straightforward".**
 
 2. **Overall Comprehension: Most understood the purpose of the form.**
@@ -198,12 +194,6 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 
 ## Details of Findings 
-
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
 
 
 Labels: Streamlined waiver, financial status report form (FSR)
@@ -239,6 +229,8 @@ In our research to date, (2) emerging archetypes are emerging - users that are v
 > _“Moderator: "And between these 2 versions, which version do you think is the best for you?"_ 
 _"The first one [full intro], cause this one, The second one, it doesn't give you a lot of information. I think the first one gives you examples, I guess, is the word. Because some people might not understand monthly living expenses.” -P9_
 
+<img width="650" alt="intro-split" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/5553542/e61b4a38-87b6-4c11-9b95-ac608782bc8c">
+
 
 4. **The cash on hand question was easily understood by all participants**
 Participants easily understood the "Cash on hand" question. Specifically, the information in parentheses (“cash not in a bank”) is what helped participants understand the meaning of cash on hand.
@@ -250,9 +242,9 @@ _"The amount of cash I have in my wallet. To me, cash on hand means it's what yo
 
 
 5. **Transition page clarity: most did not understand the purpose of this page**
-This page was added to help orient the user since the progress bar will change. However, it would seem that participants in this study did not notice the progress bar changed, possibly because it was a prototype and not on the live VA.gov environment.
+This page was added to help orient the user since the progress bar will change. However, it would seem that participants in this study did not notice the progress bar changed. Some focused on the "next steps" portion of the page as opposed to the portion of the page that let them know they were on the expedited path and were skipping steps. Despite not knowing they were skipping steps, those participants had no issues continuing with the form and did not experience any confusion with completing and submitting the form.
 
-Since the transition page was confusing for some participants, we recommend removing the "next steps" portion as part of the same alert as "skipping ahead" to minimize confusion, and separate different ideas.
+Since the transition page was confusing for some participants, we recommend removing the "next steps" portion to minimize confusion.
 
 >_"It sounds like it's telling me that based on my responses that I'm gonna be eligible for a waiver to get the bills taken care of. It's telling me right now that I am eligible for a waiver. So now I'm happy. So now I'm gonna submit. I'll continue." -P4_
 
@@ -445,9 +437,11 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Biracial 
+* Native
+* Other than honorable
+* Immigrant origin
+* Transgender
+* Users of screenreaders
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img width="420" alt="check-q" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/5553542/d843d44b-4f28-4016-bbd7-22f222457f4c">
