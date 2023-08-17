@@ -9,7 +9,7 @@ We will also aim to translate some of our core content patterns and error messag
 
 ## Priority 3: Vital benefit content for initial benefit access
 ### Decision reviews
-- [Higher-Level Reviews](https://www.va.gov/decision-reviews/higher-level-review/) (Word count: 1,114)
+- [Higher-Level Reviews](https://www.va.gov/decision-reviews/higher-level-review/) (Word count: 1,293)
 - [Board Appeals](http://va.gov/decision-reviews/board-appeal/) (Word count: 682)
 - [After you request a decision review](http://va.gov/decision-reviews/after-you-request-review/) (Word count: 656)
   
@@ -21,14 +21,14 @@ We will also aim to translate some of our core content patterns and error messag
 ### Records
 
 ### Housing
-- [Eligibility requirements for VA home loan programs ](https://www.va.gov/housing-assistance/home-loans/eligibility/) (Word count: 1,037)
-- [How to request a VA home loan Certificate of Eligibility (COE)](https://www.va.gov/housing-assistance/home-loans/how-to-request-coe/) (Word count: 664)
+- [Eligibility requirements for VA home loan programs ](https://www.va.gov/housing-assistance/home-loans/eligibility/) (Word count: 1,653)
+- [How to request a VA home loan Certificate of Eligibility (COE)](https://www.va.gov/housing-assistance/home-loans/how-to-request-coe/) (Word count: 1,082)
 
 ### Family member benefits
-- Family member hub page: 1067
-- CHAMPVA:
-- [Survivors and dependents education benefits](https://www.va.gov/education/survivor-dependent-benefits/)
-- 
+- [Camp Lejeune water contamination health issues](https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/#familymembers): (WOrd count: 1,751)
+- [VA mental health services](https://www.va.gov/health-care/health-needs-conditions/mental-health/) (Word count: 2,035)
+- [CHAMPVA benefits]([https://www.va.gov/education/survivor-dependent-benefits/](https://www.va.gov/health-care/family-caregiver-benefits/champva/) (Word count: 1,280)
+- [VA Dental Insurance Program (VADIP)](https://www.va.gov/health-care/about-va-health-benefits/dental-care/dental-insurance/) (Word count: 544)
 
 ### Careers and employment
 - [Eligibility for Veteran Readiness and Employment ](https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/) (Word count: 1,324)
@@ -44,8 +44,8 @@ We will also aim to translate some of our core content patterns and error messag
 - [After you apply for an eligibility determination](https://www.va.gov/burials-memorials/pre-need-eligibility/after-you-apply/) (Word count: 1,039)
 
 ## Priority 4: 
-- [VA travel pay reimbursement](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/) (Word count: 817)
-- [Manage your VA debt for benefit overpayments and copay bills ](https://www.va.gov/manage-va-debt/) (Word count: 491)
+- [VA travel pay reimbursement](https://www.va.gov/health-care/get-reimbursed-for-travel-pay/) (Word count: 1,263)
+- [Manage your VA debt for benefit overpayments and copay bills ](https://www.va.gov/manage-va-debt/) (Word count: 649)
 
 ## Forms
 We'll also prioritize translating health care and disability forms as they're the top 10 pdf forms downloaded by people with their browsers set to Spanish. Some of these online forms are currently being reworked in English and others are not yet available. 
