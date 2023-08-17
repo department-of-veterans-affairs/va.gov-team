@@ -64,7 +64,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63007
 - [x] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles:
-    - Robin Garrison @Robin Garrison
+    - Robin Garrison, @Robin Garrison, Aug 17, 2023 9:47AM CT, Has existing ITF, Wichita KS
     - Mike Richards @Mike Richard
     - Rocio De Santiago @Rocio De Santiago - Coforma
 - [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
