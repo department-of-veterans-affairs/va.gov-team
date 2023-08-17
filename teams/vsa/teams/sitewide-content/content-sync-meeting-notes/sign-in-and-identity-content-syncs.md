@@ -1,5 +1,29 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**August 17, 2023**
+- 
+Attendees: Aliyah, Carl, Laura, Tinue, Sophia, and Joe 
+
+**Notes** 
+- Flagged that Aliyah and Laura will be OOO September 20 to 22 for an offsite.
+- **Verifying your identity on VA.gov**
+     - We shared with the Login.gov adoption and CORE identity teams that we chatted with Grace about the ID.me questions on this page.
+     - We'll continue to review the remaining questions next week.
+     - Sophia to check in with Dawn about whether there's any information we can start to communicate about the account transitions.
+ - LGA team is working on a call center FAQ script. This will include information to better assist users.
+
+**August 10, 2023** 
+-
+Attendees: Aliyah, Carl, Laura, Dawn, Tinu, and Sophia
+
+**Notes**
+- We'll be using the identity-research channel for messages re: this meeting moving forward.
+- **Reactivation and organic email campaigns:**
+     - Laura updated team that Danielle has plans to share new review proccess for all communication items (like email campaigns and other comms initiatives) The goal of this is to have a more clear review proccess in place to support all of the future changes.
+- **Creating an account on VA.gov page**
+     - We'll need to think through content to address Veterans who can't or don't qualify to create a Login.gov account.  Two sets of information would likely need to exist - **1.** What do I do if I've failed the online proofing **2.** I can't create a Login.gov account and won't ever be able to create a Login.gov account (for example, due to living outside of the U.S.)
+     - Dawn sent a question to Login.gov partners to find out if there's a list of all of the scenarios when someone wouldn't qualify to create a Login.gov account. 
+
 **July 20, 2023**
 -
 Attendees: Aliyah, Carl, Laura, Dawn, Joe, Tinu, and Sofia 
