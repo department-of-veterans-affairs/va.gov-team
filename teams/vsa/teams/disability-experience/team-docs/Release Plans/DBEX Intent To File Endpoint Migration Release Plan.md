@@ -93,7 +93,8 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
             8. On the first `/veteran-information` screen, please note the current time and date
         - [x] Record testing steps in TestRail
         - [x] Share testing steps with each user
-- [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
+- [x] Ensure that at least a portion of users can run through testing steps before setting Flipper active
+- [x] Ensure at least one user covers the "legacy" case (EVSS generated ITF, LH checked)
 - [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
 - [ ] Ensure qualitatively that the feature works as intended for users
 - [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
