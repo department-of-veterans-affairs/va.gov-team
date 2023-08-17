@@ -7,8 +7,8 @@ Period - 08/16/2023 - 08/29/2023
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - ITF
-            - [ ] Enable ITF in production - Canary - started, due to production issues still in progress
-            - [ ] Start staggered release - timeboxed tickets to monitor the release and fix issues as they occur - not started due to production issues
+            - [ ] Enable ITF in production - Canary launch with 3 internal users
+            - [ ] Start staggered release for .5% and 5% - timeboxed tickets to monitor the release and fix issues as they occur
         - Rated Disabilities
             - [ ] Complete release planning
         - Submit 
