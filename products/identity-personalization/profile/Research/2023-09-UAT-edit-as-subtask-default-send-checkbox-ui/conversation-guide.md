@@ -1,7 +1,7 @@
 # Conversation Guide: Profile multi-feature UAT, September 2023
 
 ### Project-specific setup
-- Check participant information to see what types of login(s) credentials they may have (Login.gov, ID.me, DS Logon, MyHealtheVet).
+- Add participant to feature flipper
 
 ## Introduction - 2 minutes
 Thanks for joining us today! My name is Liz. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily. 
@@ -103,6 +103,21 @@ Thank you, that was very helpful for our team. Now I just want to be sure we lea
 
 ----------------------------------------
 ## Optional Task 1: Review authenticated menu - 5 minutes
+
+Since we have a little extra time, there are 2 more things I’d like to get your feedback on.  Can you click on your name in the heading?  I’d like to hear your impressions of the items in that menu.
+
+Don’t click on anything yet. Where do you expect each link to take you?
+
+Go ahead and click on dependents.  How does this page line up with what you expected?
+
+And now click on letters. How does this page line up with what you expected?
+
+#### Things to watch for
+- [ ] What were the participants impressions of the menu items? 
+- [ ] How did the dependents page align with what they expected?
+- [ ] How did the letters page align with what they expected?
+
+## Optional Task 2: Review "authenticated menu" - 5 minutes
 
 Since we have a little extra time, there is one last thing I’d like to get your feedback on.  Can you click on your name in the heading?  I’d like to hear your impressions of the items in that menu.
 
