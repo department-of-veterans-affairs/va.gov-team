@@ -75,7 +75,7 @@ The brainstorming session yielded many ideas on how the Mobile App could be pers
 
 * Allowing Veterans to share certain information with others (i.e. being able to share a secure message via text)
 
-**Dashboard **
+**Dashboard**
 
 * Display key info and stats (disability rating, My VAMC)
 * Displaying the last login date
