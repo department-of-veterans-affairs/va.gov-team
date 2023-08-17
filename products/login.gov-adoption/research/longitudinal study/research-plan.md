@@ -41,7 +41,7 @@ These research outcomes will be unique to a) self service, including remote help
 
 ## Research Methodology:
 Co-creation, generative research
-We will mostly engage in a group format (5-8 participants). In order to ensure that individual voices are heard, we may either ask for pre-work (not longer than 15 minutes or reflection/capture) or have individual heads-down time during the group sessions, preparing for discussions. The sessions will be a combination of exploring current state experiences with conversation prompts or creative activities; and envisioning desired solutions through brainstorms informed by prototypes and role play. During the sessions, we will pay attention to the inputs from participants as well as how they interact with each other, namely, who and what influences individuals and the group to change their attitudes and perspectives. Because of the longitudinal nature of these interactions, we also plan on asking for feedback on the session design, and bringing in learning from previous sessions and reporting on what they informed.
+We will mostly engage in a group format (5-8 participants). In order to ensure that individual voices are heard, we may either ask for pre-work (not longer than 15 minutes or reflection/capture) or have individual heads-down time during the group sessions, preparing for discussions. The sessions will be a combination of exploring current state experiences with conversation prompts or creative activities; and envisioning desired solutions through brainstorms informed by prototypes and role play. During the sessions, we will pay attention to the inputs from participants as well as how they interact with each other, namely, who and what influences individuals and the group to change their attitudes and perspectives. Because of the longitudinal nature of these interactions, we also plan on asking for feedback on the session design, and bringing in learning from previous sessions and reporting on what they informed us.
 
 ## Trauma informed approach
 To ensure the research experience for participants is respectful and supportive, a trauma informed approach will be used for both pilot and the longitudinal study. During research review through Veteran Affairs, collaboration sessions will be held in pre-research planning to review workshop design and identity structures and resources to provide trauma informed practice throughout the research process.
@@ -76,24 +76,36 @@ For each group, recruitment should aim to get 2 per segment:
 - During the session, be willing to share a web browser window on their device
 - Have a working microphone on their device
 - Have Zoom downloaded to their device prior to the session and know how to share their screen
-- Login credentials (per our four segments)
-- At least 3 of 8 people who use a assistive technology (screen reader)
-- At least 3 of 8 people must identify as having a cognitive consideration
-- At least 3 of 8 people must identify as Black, Hispanic, Biracial, Asian, Native
-- At least 3 of 8 people must identify as women
-- At least 3 of 8 people regularly needs assistance using VA online services
-- At least 3 of 8 people are without an undergraduate degree or professional certificate
+- At least 2 of 8 people must have Login credentials
+- At least 2 of 8 people must have My HealtheVet accounts
+- At least 2 of 8 people are experienced screen reader users (They identify as at least a 4 on the 5 point scale from the screener question below)
+- At least 2 of 8 people must identify as having a cognitive consideration
+- At least 2 of 8 people must identify as Black, Hispanic, Biracial, Asian, Native
+- At least 2 of 8 people must identify as women
+- At least 2 of 8 people require assistance using VA online services (They either go to the helpdesk or family, friends, or peers for assistance per the screener question below)
 - At least 3 of 8 people are over 55
 
 ### Secondary criteria
 - Veterans will be offered an opportunity to invite members of their support network to participate. Should this be popular, we suggest at least 3 of 8 people who are part of someone’s Veteran Support network. Veterans will be notified that if they want to invite a support network member to participate they will need to participate 
-- At least 3 of 8 people who identify as gay, lesbian, bisexual, or transgender
-- At least 3 of 12 people who live in a rural or remote area
-- At least 3 of 12 people who are experiencing being unhoused
+- At least 2 of 8 people who identify as gay, lesbian, bisexual, or transgender
+- At least 2 of 12 people who live in a rural or remote area
+- At least 2 of 12 people who are experiencing being unhoused
+- At least 2 of 8 people are without an undergraduate degree or professional certificate
 
 Last four workshop sessions may be used to work directly with people who are experiencing or have experienced being unhoused 
 For these participants they must be able to access a computer or smartphone through a support organization
 
+## Screener Questions
+1. Login Credentials; Have you ever created a Login.gov account? Do you currently use it or do you use one of the following credentials:
+- ID.me
+- My HealtheVet
+- DS Logon
+2. Cognitive Considerations; Have you been diagnosed by a medical professional in the past with a diagnosis like TBI, PTSD, etc.? (open text box)
+3. Screen reader; Do you use a screen reader? If so, what type of screen reader do you use? On a scale of 1-5, with 1 being a beginner and 5 being an expert, how experienced are you with using a screen reader? [1, 2, 3, 4, 5]   
+4. Need for assistance using VA Online Service; please select all of the options that best describes how you need assistance for using VA Online Service
+- I do not need assistance
+- I call the help desk for assistance when I encounter 
+- I go to family, friends, and peers for assistance
 
 ## Workshop Timeline
 Length of Workshop: 90 minutes
