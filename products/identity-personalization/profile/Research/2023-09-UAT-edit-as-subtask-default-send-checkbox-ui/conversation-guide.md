@@ -10,22 +10,17 @@ We’ve invited you to participate today to get your help in testing some techni
 
 Before we start, I wanted to go over a few details:
 - **This session should take 30 minutes of your time or less.** It involves me asking you to complete a few small tasks. Because I want to make sure we don’t keep you beyond half an hour, I may prompt you with the next question to keep things moving.
-- **We will be able to see your real information today.** This may include some healthcare information and some claims information. However, you have the choice to stop screensharing during any of the tasks, and start again when you feel comfortable. 
-- **I’ll be asking you to make some updates to the mobile number in your VA.gov profile.** We can revert things back to the way they were at the start of the session if you don’t want to save any of the changes permanently.
+- **We need you to log into your VA.gov account today.** Can you confirm with me you have your login information available and are able to log in?
+- **We will be able to see your real information today.** This may include some healthcare information and some claims information. However, you have the choice to stop screensharing any time, and start again when you feel comfortable. 
+- **I’ll be asking you to make some updates to settings in your VA.gov profile.** We can will things back to the way they were at the start of the session if you don’t want to save any of the changes permanently.
 - **You may end the session at any time, for any reason.** Just let me know.
 
 I have some teammates who would like to observe our session and take notes for me, but only if you're comfortable with that. They'll be muted and off camera and you won't have to interact with them. Would you be okay with that, or do you prefer to keep the session just the two of us?
 
 Do you have any questions for me before we begin?
 
- ## Screen questions - 3 minutes
-1. Can you confirm for me that you have a username and password for VA.gov?
-2. When you login at VA.gov, what is the type of login you tend to use (options are: Login.gov, ID.me, DS Logon, MyHealtheVet)
-   - If participant has neither a Login.gov account nor an ID.me account, end the session.
-3. 
-
-## Share screen and login to LOA3 account (either Login.gov or ID.me) - 5 minutes
-Great, thanks for providing that information. I think we're good to move ahead. For the next step, I'll have you share you screen so we can look at VA.gov together. 
+ ## Share screen and login to LOA3 account (either Login.gov or ID.me) - 5 minutes
+Great, I think we're good to move ahead. For the next step, I'll have you share you screen so we can look at VA.gov together. 
 _Once can see their screen:_ Could you now open a browser and go to VA.gov? 
 _Once they arrive at VA.gov:_ Next, could you login using -------? (either Login.gov or ID.me)
 
@@ -51,16 +46,14 @@ Some of these next things may feel a little tedious but this will help us be sur
    *Should trigger modal*
 6. Press `yes, cancel changes` in the modal.
    *Should return user to notification settings page with alert displayed*
-7. Alright, now click the link again to add the mobile number, and this time, enter a valid number and press cancel again. 
+7. Alright, now click the link again to add the mobile number, and this time, enter 8887776666 and press cancel again. 
    *Should trigger modal*
 8. And press `No, go back to editing` in the modal.
    *Should return user to form*
 9. Now press save.
    *Should return user to notification settings page, with slim success alert and phone number displayed*
 
-Does the phone number look accurate here?
-
-Great, thank you! This has been helpful. Now we can move onto the next task.
+Let’s look at this page, is that what you entered? Great, thank you! This has been helpful. Now we can add back your actual phone number.
 
 - [ ] **UAT TASK:** Confirm the link takes the user to the sub-task flow
 - [ ] **UAT TASK:** Confirm the cancel button takes the user back to the alert
@@ -74,8 +67,57 @@ Great, thank you! This has been helpful. Now we can move onto the next task.
 - [ ] **UAT TASK:** Confirm phone number is correctly displayed on the notification settings page
 - [ ] **Usability notes:** Did the user experience any usability hurdles or provide UX feedback?
 
+## UAT Task 2: Update mobile number - 3 minutes
+
+1. Please go ahead and click the link to update your mobile phone number.
+   *Should take user to sub-task page*
+2. Add an actual mobile number, and then save it. 
+   *Should take user back to notification settings page with success alert*
+
+Does the page correctly show the change you made?
+
+Do you want to keep this number in your profile? If not, let’s remove it. 
+
+**Facilitator note: ***Take user through steps of removing the number from contact info page if needed, and then get them back to the notification settings page*
+
+- [ ] **UAT TASK:** Confirm update link takes user to sub-task page
+- [ ] **UAT TASK:** Confirm phone number is correctly displayed on the notification settings page
+- [ ] **Usability notes:** Does the participant mention anything about removing the mobile number from the sub-task page?
+
+## UAT Task 3: Update notification settings - 3 minutes
+
+*Should be on notification settings page*
+
+As a last step, we’d like to make sure updates to the settings on this page work. 
+Have you ever made updates to any of these notifications on the page before?
+
+Ok, thank you. 
+1. Go ahead and check each checkbox.
+2. Uncheck each checkbox
+
+Thank you, that was very helpful for our team. Now I just want to be sure we leave your account in the state that you want it - go ahead and check the box for any notifications that you do still want to receive.
+
+- [ ] **UAT TASK:** Confirm the success message displays for each notification
+- [ ] **UAT TASK:** Confirm phone number is correctly displayed on the notification settings page
+- [ ] **Usability notes:** Does the participant make any comments on the UX or encounter any usability hurdles?
+
 ----------------------------------------
-## Optional Tasks
+## Optional Task 1: Review personalized menu - 5 minutes
+
+Since we have a little extra time, there is one last thing I’d like to get your feedback on.  Can you click on your name in the heading?  I’d like to hear your impressions of the items in that menu.
+
+Don’t click on anything yet. Where do you expect each link to take you?
+
+Go ahead and click on dependents.  How does this page line up with what you expected?
+
+And now click on letters. How does this page line up with what you expected?
+
+#### Things to watch for
+- [ ] What were the participants impressions of the menu items? 
+- [ ] How did the dependents page align with what they expected?
+- [ ] How did the letters page align with what they expected?
+
+
 ----------------------------------------
 
 ## Closing - 1 minute
