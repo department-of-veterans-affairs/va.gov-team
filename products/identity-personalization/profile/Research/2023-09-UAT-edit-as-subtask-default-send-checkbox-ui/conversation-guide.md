@@ -38,19 +38,25 @@ The first thing we’re going to do is check to see if you have a mobile number 
 Great, now let’s go over to the notification settings section of profile. 
 - *User should see the alert prompting them to add a mobile number*
 
-Some of these next things may feel a little tedious but this will help us be sure we’ve set everything up correctly on the website. Please go ahead and click the link to add your mobile phone number.
-
-Alright, don’t enter anything, and please hit cancel.
-
-Now click the link again, and this time, hit save without entering any data.
-
-Now enter 123456789 to the field.
-
-Perfect, now delete that, and enter a valid phone number into the field, and then press cancel. You can press `yes, cancel changes` in the modal too.
-
-Alright, now click the link again to add the mobile number, and this time, enter a valid number and press cancel again. And press `No, go back to editing` in the modal.
-
-Now press save.
+Some of these next things may feel a little tedious but this will help us be sure we’ve set everything up correctly on the website. 
+1. Please go ahead and click the link to add your mobile phone number.
+   *Should take user to sub-task page*
+2. Alright, don’t enter anything, and please hit cancel.
+   *Should take user back to notification settings page with alert*
+3. Now click the link again, and this time, hit save without entering any data.
+   *Should trigger error message*
+4. Enter 123456789 to the field. (This is an invalid phone number)
+   *Should trigger field validation*
+5. Perfect, now delete that, and enter a valid phone number into the field, and then press cancel. 
+   *Should trigger modal*
+6. Press `yes, cancel changes` in the modal.
+   *Should return user to notification settings page with alert displayed*
+7. Alright, now click the link again to add the mobile number, and this time, enter a valid number and press cancel again. 
+   *Should trigger modal*
+8. And press `No, go back to editing` in the modal.
+   *Should return user to form*
+9. Now press save.
+   *Should return user to notification settings page, with slim success alert and phone number displayed*
 
 Does the phone number look accurate here?
 
