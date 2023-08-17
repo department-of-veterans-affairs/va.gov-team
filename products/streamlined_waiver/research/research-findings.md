@@ -244,7 +244,7 @@ _"The amount of cash I have in my wallet. To me, cash on hand means it's what yo
 5. **Transition page clarity: most did not understand the purpose of this page**
 This page was added to help orient the user since the progress bar will change. However, it would seem that participants in this study did not notice the progress bar changed. Some focused on the "next steps" portion of the page as opposed to the portion of the page that let them know they were on the expedited path and were skipping steps. Despite not knowing they were skipping steps, those participants had no issues continuing with the form and did not experience any confusion with completing and submitting the form.
 
-Since the transition page was confusing for some participants, we recommend removing the "next steps" portion to minimize confusion.
+    Since the transition page was confusing for some participants, we recommend removing the "next steps" portion to minimize confusion.
 
 >_"It sounds like it's telling me that based on my responses that I'm gonna be eligible for a waiver to get the bills taken care of. It's telling me right now that I am eligible for a waiver. So now I'm happy. So now I'm gonna submit. I'll continue." -P4_
 
@@ -274,7 +274,7 @@ _"That is awesome. That is, that is way awesome. But this is just a prototype, s
 - A participant brought up that information would be difficult to be received by mail since some Veterans have unstable housing. He recommended also sending the information via email.
 > _"'We'll send you this information by mail.' I know some veterans. Have uneasy, or like, uncertain living accommodations so maybe that main part would be difficult for them. And I know we're getting more into the digital age and I don't know if there's some rules or laws about sending it also by email." -P6_
 
-- Make it clear whether Veterans will need to submit a new form if they incur more debt. (Example: Reoccuring monthly prescription)
+- Make it clear whether Veterans will need to submit a new form if they incur more debt. One Participant asked whether she would need to submit a new form each month as she received her prescription monthly. She received monthly copay bills and noted that her financial situation would not change monthly.
 
   
 ## Recommendations
