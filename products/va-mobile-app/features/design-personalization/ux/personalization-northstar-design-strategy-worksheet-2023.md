@@ -10,15 +10,15 @@ Aug 2023
 ### User Assumptions
 
 #### 1. Who is our user?
-Our target users are Veterans with mobile devices who [have VA accounts & are actively using benefits like Health, Claims, and Education](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md) _(% of users who are actually using our app & fall under this category is unknown—this is an assumption that needs research)_.
+Our target users are Veterans with mobile devices who [have VA accounts & are actively using benefits like Health, Claims, and Education].
 
 #### 2. Where does a personalized VA mobile app experience fit in their work or life?
 A personalized VA mobile app helps Veterans to keep up with and manage their current interactions (and discover their possible future interactions) across the VA while on the go.
 
 #### 3. What user problems will a personalized VA mobile app experience solve? 
-* Veterans aren’t able to get a **quick overview of what VA is doing for them now**<sub>1a,1b</sub>
-* Veterans aren’t **proactively informed that something is needed from them** in order to keep things moving.<sub>1a,1b</sub>
-* Veteran **expectations and understanding** of what they think they can do in the app are **limited and often inaccurate**.<sub>2,3,4</sub>
+* Veterans aren’t able to get a** quick overview of what VA is doing for them now** and aren’t **proactively informed that something is needed from them** in order to keep things moving<sub>1a,1b</sub>
+* Veteran **expectations and understanding** of what they think they can do in the app are **limited and often inaccurate**.<sub>2</sub>
+* The app **doesn’t currently demonstrate to Veterans how VA can support them as an individual**, whether it’s in their day-to-day or when something in their life changes (health, claims, moving, marriage, transitions, etc).<sub>3,4,4a</sub>
 
 #### Supporting research (problems):
 
@@ -40,8 +40,8 @@ A personalized VA mobile app helps Veterans to keep up with and manage their cur
 #### 5. What benefits and features are important to a personalized VA mobile app experience?
 * Gives Veterans a **high-level snapshot of their status** and **persistent overview of their current interactions** with VA so it’s quick and easy to see what VA is doing now.
 * **Proactively notifies them when critical items need their attention** or important statuses change and **gives them the ability to act**.
-* **Demonstrates the value** of the VA mobile app to Veterans **without requiring them to dig into each individual feature**.
 * **Surfaces relevant content and tasks** that speak to a Veteran’s **individual context** so that Veterans feel known and **supported by VA right now and as their situation changes**.
+* **Demonstrates the value** of the VA mobile app to Veterans **without requiring them to dig into each individual feature**.
 * **Allows users to connect with others who know their case** (inside & outside the VA) **when they need support** & guidance navigating their benefits.
 * Provides **access to the things/features the Veteran uses the most**.
 
@@ -73,7 +73,7 @@ A personalized VA mobile app helps Veterans to keep up with and manage their cur
 **8. We will beat the competition by** meeting our users’ needs in a way that’s proactive and tailored to _their specific experience_ and that leverages native mobile-specific capabilities. 
 
 **9. Our biggest product risks are that:** 
-* We’re not sure if people will actually find value in a personalized or customizable experience, we’re not sure what people mean by “a unified view” of all their VA interactions (and how much information or customization is too much).  
+* We’re not sure if people will actually find value in a personalized or customizable experience, we’re not sure what people mean by “a unified view” of all their VA interactions (and how much information or customization is too much). 
 * The gap between web and mobile widens to the point that it’s confusing for Veterans who engage with both. 
 * We may not have the staffing to maintain the high level system of personalization, and the home screen becomes overgrown & a dumping ground over time without proper governance.
 
