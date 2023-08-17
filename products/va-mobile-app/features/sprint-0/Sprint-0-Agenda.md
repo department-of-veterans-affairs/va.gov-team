@@ -22,9 +22,9 @@ The Sprint 0 meeting is a time to do the following:
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
 * Program level analytics - (Greta)
-* App store marketing strategy (Stacy)
+* App store marketing strategy 
 * Overall strategy for push notifications
-* 10-10EZR (Stacy)
+* 10-10EZR 
 * Cerner Impacts
 * Web and App UI differences
 * Terms and conditions consolidated approach across VA
