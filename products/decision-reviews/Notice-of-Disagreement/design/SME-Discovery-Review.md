@@ -8,7 +8,7 @@
 Our team is working on the second version of the form, and iterating based on opportunities identified through evaluative research.
 
 ## Intake
-**SME:** William Bo Rollins
+**SME:** William Bo Rollins & Valerie Tolson
 - How does the intake team use the area of disagreement?
 - If the user identifies their area of disagreement as 'something else', can the claim still be processed?
   - Does that impact the time it takes to process the claim?
