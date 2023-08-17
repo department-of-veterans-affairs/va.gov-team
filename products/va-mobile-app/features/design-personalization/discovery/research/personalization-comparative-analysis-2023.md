@@ -330,7 +330,7 @@ Yes— 13 out of the 20 apps displayed personalized content that was also contex
 
 <li>Credit card or insurance app’s account module displays an overdue alert if a bill is overdue.
 
-<li>Health app displays after visit summary when user has attended appointment & document is available, a prescription is ready for pickup or a new message from a doctor is available to read
+<li>Health app displays after visit summary when user has attended appointment & document is available, a prescription is ready for pickup or a new message from a doctor is available to read.
 
 <li>Airline app’s travel reservation module includes a check in button or a link to their boarding pass if already checked in on a travel day. May also display a gate change information and/or a rebooking button in an irregular operations (IROP) scenario.
 </li>
@@ -370,7 +370,7 @@ There are patterns around certain aspects of personalization and contextual info
   <tr>
    <td>Status + Time
    </td>
-   <td>Apps that have<strong> time-based elements</strong>, like a bill being due or.
+   <td>Apps that have <strong>time-based elements</strong>, like a bill being due or a policy expiring.
    </td>
    <td>Banking/Credit Cards, Insurance, Travel
    </td>
