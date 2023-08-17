@@ -20,7 +20,10 @@ The primary goal of our UAT is to confirm that 3 updates to the Profile function
 - User updates a mobile phone number to profile from the notification settings page
 - The  `default send` value is returned correctly based on user interaction in the notification API
 
-A detailed list of test cases is available in[Google Sheets](https://docs.google.com/spreadsheets/d/1-oSUr_kFqyptbSI6jRC3O7wqk3TNDOwaWedmO3eh7FA/edit#gid=1459792507)
+A detailed list of test cases is available in [Google Sheets](https://docs.google.com/spreadsheets/d/1-oSUr_kFqyptbSI6jRC3O7wqk3TNDOwaWedmO3eh7FA/edit#gid=1459792507)
+
+As a secondary goal, and as time allows, we’ll ask for feedback on the updates we made to the authenticated menu.
+
 ### Outcome
 Based on the outcome of this research study, we will either release this work to production, or make updates to correct any bugs or significant usability hurdles.
 
