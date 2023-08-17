@@ -19,6 +19,11 @@ The solutions proposed below aim to make that process more efficient (ordered fr
 2. Since we are reading the user's saved forms from the Redux store, we could include in the metadata all of the information we need in order to render the `ApplicationsInProgress` card. This would involve getting the forms metadata into the Redux store when the FE calls the `v0/user` endpoint. Pros: A developer wouldn't need to do anything Cons: Not sure the technical feasibility of this since the BE doesn't have all the data required to pull this off
 3. Create a new API endpoint that will return all of the SiP enabled forms and their metadata. Developers would just need to add their SiP form to a config file in the API repo. The FE for vets-website would use this list to render the user's saved forms. Pros: There is a definitive list of SiP forms that live in the BE. Cons: Developers would need to update multiple codebases (vets-api and vets-website) before their form showed up in My VA. Higher development complexity to implement this.
 
+## Recommendations
+All of the solutions proposed require a good amount of engineering effort. My recommendation is to assess the problem more (is the current process _really_ a headache for developers now? have we been receiving complaints of any kind?, etc.).
+
+After determining if this is a problem worth tackling, I would favor the simplest solution (#1) and measure developer happiness from there. If that still proves to be too itchy for devs, then we can invest engineering time into one of the more complex solutions.
+
 ### Resources
 - [Original issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/62897)
 - [UX Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60510)
