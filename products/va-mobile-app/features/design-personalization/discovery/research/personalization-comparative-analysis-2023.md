@@ -155,7 +155,7 @@ There was no single personalization method used on the home screen by all apps (
    </td>
   </tr>
   <tr>
-   <td>The <strong>user’s name </strong>(however, most app’s reserve only a small amount of space for this
+   <td> <strong>Fixed content</strong>, like the user’s name or a mileage number (however, most app’s reserve only a small amount of space for this
    </td>
    <td>12
    </td>
