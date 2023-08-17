@@ -1,7 +1,7 @@
 # Benefits Disability Experience - Product sync 
 
 ### Date: Aug 17 2023       
-### Participants: Rakshinda
+### Participants: 
 ### Topics Covered:
 - P1 issue
    -  What is needed?  
