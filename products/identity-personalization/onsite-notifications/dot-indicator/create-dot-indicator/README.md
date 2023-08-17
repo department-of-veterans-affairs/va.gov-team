@@ -67,6 +67,8 @@ The dot indicator is a notification style that aims to call a user's attention t
 
 **KPI: Increase clicks into secure messaging link by 25% week-over-week.**
 
+[My VA Domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837) (event action: Navigation - Link List - Health care - View your messages)
+
 |KPI/metric|Pre-launch [7/19 - 7/25]|Pre-launch [7/26 - 8/1]| Pre-launch [8/2 - 8/8]|Pre-launch [8/9 - 8/15]|Pre-launch [8/16 - 8/22]|Pre-launch [8/23 - 8/29]|1 week post-launch to 100% [add dates]| 2nd week post-launch to 100% [add dates]|
 |----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |Number of clicks into "secure messaging" link on My VA|27,364|24,259|26,748|29,918|||||
