@@ -4,12 +4,13 @@
 Over the last 3 months, we’ve worked on improvements related to our notification settings feature, and how users update profile information while in the middle of another task.  They’re closely related, and will be part of the same release so we are conducting UAT on all 3 features at once. 
 
 ### Features to be tested
-- Default send
+- Default send ([project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/README.md))
   - VA Notify added a `default send` flag to indicate whether or not a person is automatically opted-in to a notification via another action. 
   - We’ve made an update to leverage this flag in our notification settings feature and want to validate the data is being sent correctly
 - User interface update
   - Since we have the `default send` flag available to us, we were able to simplify our UI and use checkbox inputs instead of radio buttons. 
-- Edit as a sub-task
+  - This update doesn’t have a dedicated project outline
+- Edit as a sub-task ([project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/mobile-phone-edit-flow/README.md))
   - Previous rounds of research highlighted an opportunity to improve how we asked users to add or update contact information as part of a task. 
   - We’ve created a new flow for this that can be used in any part of profile, and are initially launching it within the notification settings feature.
 
@@ -19,6 +20,7 @@ The primary goal of our UAT is to confirm that 3 updates to the Profile function
 - User updates a mobile phone number to profile from the notification settings page
 - The  `default send` value is returned correctly based on user interaction in the notification API
 
+A detailed list of test cases is available in[Google Sheets](https://docs.google.com/spreadsheets/d/1-oSUr_kFqyptbSI6jRC3O7wqk3TNDOwaWedmO3eh7FA/edit#gid=1459792507)
 ### Outcome
 Based on the outcome of this research study, we will either release this work to production, or make updates to correct any bugs or significant usability hurdles.
 
