@@ -1,6 +1,6 @@
 # Disability Benefits Experience Teams 1 & 2
 
-Last Updated - 03/27/2023
+Last Updated - 08/17/2023
 
 ## Where to find us
 - GitHub Label: disability-experience
@@ -28,7 +28,7 @@ At the highest level, the core disability experience team is here to own, from t
 | Anneliese LaTempa | Delivery Manager | anneliese.latempa@agile6.com | alatempa24 |
 | Christine Cereca | Engineer | christine@cityfriends.tech | christinec-fftc |
 | Mark Chae | Engineer | markchae@navapbc.com | mchae-nava |
-| Kate Allbee | UX Designer and Research | kate@verdance.co | @kate-allbee |
+| Kate Allbee | UX Designer and Research | kate@verdance.co | kate-allbee |
 | Evelyn Davis | UX Research | evelyn@cityfriends.tech | TBD |
 | Austin Price | Product Manager | austin.price@coforma.io | austinjprice |
 | Sarah Shields | Delivery Manager | sarah.shields@coforma.io | sortizsh |
