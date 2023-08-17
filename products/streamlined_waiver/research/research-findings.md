@@ -212,19 +212,18 @@ Labels: Streamlined waiver, financial status report form (FSR)
    This is in comparison to our [last study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/research-findings.md) which tested the full FSR path. The streamlined waiver tested in this current study was described as "easy" and "straightforward".
    
 > _"It was easy to navigate...it didn't ask a lot of questions and it was quick." -P5_
->_“[Moderator] Based on your previous experience with this form, how do you feel about seeing that you're able to skip questions on this form? [Participant] Well, it makes it easier. I mean, I'm not old, I mean, I'm old, but I'm not old like a lot of veterans that I see at the hospital. Something like this would make it much easier for those folks. Along with myself.” -P9_
+
+> _Moderator: "Based on your previous experience with this form, how do you feel about seeing that you're able to skip questions on this form?"_
+_Participant: "Well, it makes it easier. I mean, I'm not old, I mean, I'm old, but I'm not old like a lot of veterans that I see at the hospital. Something like this would make it much easier for those folks. Along with myself.” -P9_
 
 
-
-
-Labels: label 1, label 2 
 
 2. **Overall Comprehension: most understood the purpose of the form**
 The majority of participants understood the purpose of the form, with the exception of 2 participants: one who said she had suffered a stroke that affected her memory, and the other who did not understand the form in the beginning, possibly due to cognitive considerations.
 
 >_"I think it's very easy to use, like way easy to navigate, and I don't have any issues filling out the form. But I like the definition of each term, like what you need to fill out." -P8_
 
->_“I like it. It was nice. It's much better than what it used to be. If they use this, it'll be helpful to a lot of people.” - P9
+>_“I like it. It was nice. It's much better than what it used to be. If they use this, it'll be helpful to a lot of people.” - P9_
 
 
 
@@ -235,24 +234,26 @@ In our research to date, (2) emerging archetypes are emerging - users that are v
 
 > _"Other people they may like prefer this version, like they may not like all the extra stuff. But I would prefer the extra information." -P8_
 
->_"I would read the second page (lean intro). But - It doesn't have enough information about what you're seeking. In your work history. Like the employer's name. Starting end date monthly. Like some people might need help to grab their W2 Or their paystub. You know what I mean?" -P1_
+> _"I would read the second page [condensed intro]. But - It doesn't have enough information about what you're seeking. In your work history. Like the employer's name. Starting end date monthly. Like some people might need help to grab their W2 Or their paystub. You know what I mean?" -P1_
 
->_“[Moderator] And between these 2 versions, which version do you think is the best for you?The first one [long intro], cause this one, The second one, it doesn't give you a lot of information. I think the first one gives you examples, I guess, is the word. Because some people might not understand monthly living expenses.” -P9_
+> _“Moderator: "And between these 2 versions, which version do you think is the best for you?"_ 
+_"The first one [full intro], cause this one, The second one, it doesn't give you a lot of information. I think the first one gives you examples, I guess, is the word. Because some people might not understand monthly living expenses.” -P9_
 
 
 4. **The cash on hand question was easily understood by all participants**
 Participants easily understood the "Cash on hand" question. Specifically, the information in parentheses (“cash not in a bank”) is what helped participants understand the meaning of cash on hand.
 
->_"Now cash on hand. Not in my bank. So that's asking, "What's in my pocket right now? What's on me?". Well just say I got $50. Which is pretty easy. I mean, most people would know how much money they have currently on them." -P6
+>_"Now cash on hand. Not in my bank. So that's asking, "What's in my pocket right now? What's on me?". Well just say I got $50. Which is pretty easy. I mean, most people would know how much money they have currently on them." -P6_
 
->_Moderator: "What does cash on hand mean to you?"_
+> _Moderator: "What does cash on hand mean to you?"_
 _"The amount of cash I have in my wallet. To me, cash on hand means it's what you have that you can get your hands on." -P1_
 
 
 5. **Transition page clarity: most did not understand the purpose of this page**
 This page was added to help orient the user since the progress bar will change. However, it would seem that participants in this study did not notice the progress bar changed, possibly because it was a prototype and not on the live VA.gov environment.
 
->Since the transition page was confusing for some participants, we recommend removing the "next steps" portion as part of the same alert as "skipping ahead" to minimize confusion, and separate different ideas.
+Since the transition page was confusing for some participants, we recommend removing the "next steps" portion as part of the same alert as "skipping ahead" to minimize confusion, and separate different ideas.
+
 >_"It sounds like it's telling me that based on my responses that I'm gonna be eligible for a waiver to get the bills taken care of. It's telling me right now that I am eligible for a waiver. So now I'm happy. So now I'm gonna submit. I'll continue." -P4_
 
 
@@ -266,14 +267,20 @@ While at the same time, some participants can't believe it since they haven't se
 An email and a letter to confirm and prove this would be helpful. 
 One participant expected automatic approval as she compared it to submitting a form for Travel Pay. As we saw in our last study, the term "waiver" was not understood by all participants.
 
->_"So they will automatically know you're eligible for a waiver. [P1] [Moderator] How do you feel about that? [P1] Well, it seems like they would have to review it. The idea is just a shock, I suppose...like in the more positive sense...I feel like the Veterans Administration, I guess, is becoming a little more sensitive to what the Veterans need now. It's taken a little while, but I mean at least it's coming." -P1 >
->Oh, and it tells you immediately? Does it tell you for real? [Moderator] 12:30:27 How do you feel about that? [P9] 12:30:29 That is awesome. That is, that is way awesome. But this is just a prototype, so. But that would be cool. That would be cool because then you'd go right off the bat. Wouldn't have to sit and wait like I did wait a week thinking that everything's gonna be okay and then get your It's form sent back to you in the mail, you're not. Eligible yet because you haven't submitted this form this paperwork. It would let you know immediately. That's nice. [P9]_
+>_"So they will automatically know you're eligible for a waiver?"_ 
+_Moderator: "How do you feel about that?"_
+_"Well, it seems like they would have to review it. The idea is just a shock, I suppose...like in the more positive sense...I feel like the Veterans Administration, I guess, is becoming a little more sensitive to what the Veterans need now. It's taken a little while, but I mean at least it's coming." -P1_
+
+
+>_"Oh, and it tells you immediately? Does it tell you for real?"_
+_Moderator: "How do you feel about that?"_
+_"That is awesome. That is, that is way awesome. But this is just a prototype, so. But that would be cool. That would be cool because then you'd go right off the bat. Wouldn't have to sit and wait like I did wait a week thinking that everything's gonna be okay and then get your It's form sent back to you in the mail, you're not. Eligible yet because you haven't submitted this form this paperwork. It would let you know immediately. That's nice." -P9_
 
 
 ## Additional Insights
 
 - A participant brought up that information would be difficult to be received by mail since some Veterans have unstable housing. He recommended also sending the information via email.
-> _"'We'll send you this information by mail.' I know some veterans. Have uneasy, or like, uncertain living accommodations so maybe that main part would be difficult for them. And I know we're getting more into the digital age and I don't know if there's some rules or laws about sending it also by email."_ -P6
+> _"'We'll send you this information by mail.' I know some veterans. Have uneasy, or like, uncertain living accommodations so maybe that main part would be difficult for them. And I know we're getting more into the digital age and I don't know if there's some rules or laws about sending it also by email." -P6_
 
 - Make it clear whether Veterans will need to submit a new form if they incur more debt. (Example: Reoccuring monthly prescription)
 
