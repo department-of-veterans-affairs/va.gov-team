@@ -15,18 +15,18 @@ Period - 08/16/2023 - 08/29/2023
             - [ ] Transform service
                - [ ] Abstract references to EVSS claims service - still in progress
                - [ ] Create submit526 method to be added to tbe BenefitsClaims service to submit the 526 to Lighthouse
+               - [ ] Form526 Backup Submission Process Discovery 
    
 - **Features**
    - Intro page changes and 526ez current with paper form
       - [ ] Toxic Exposure screens - Start Research
       - [ ] Toxic Exposure screens - Tech Discovery for upcoming changes - Frontend engineering
-      - [ ] Intro pages - Content update
     
 - **Analytics**
         
 - **Stretch**
-   - [ ] Implement call to BenefitClaims LH submit526 service method from submission service
-   - [ ] Implement call to BenefitClaims LH submit526 service method from backup submission service
+   - [ ] Design Discovery: Placement of new military service questions
+   - [ ] Design Discovery: Consistent ordering of conditions and disability names
 - **Added after sprint started**
 
 ## Sprint 11
