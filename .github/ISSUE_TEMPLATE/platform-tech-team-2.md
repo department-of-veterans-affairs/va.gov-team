@@ -2,7 +2,7 @@
 name: Platform Tech Team 2 Issue
 about: For VA.gov Platform Tech Team 2
 title: '[Product] Thing to be done'
-labels: platform-tech-team-2
+labels: platform-lights-team
 assignees: ''
 
 ---
