@@ -148,13 +148,13 @@ In the last 10 minutes of the usability study interviews, we will do a small con
 
 **We hypothesize that:**
 
--   The revised intro page will be clear
+-   The revised intro page will be clear: **Likely true**
     
--   The form flow will be clear and easy to understand
+-   The form flow will be clear and easy to understand: **Likely true**
     
--   The transition page will make sense
+-   The transition page will make sense: **Maybe true**
     
--   The submission page notification with the reveal of an automatic approval will be well received and maybe even positively surprising.
+-   The submission page notification with the reveal of an automatic approval will be well received and maybe even positively surprising.: **Definitely true**
 
 _Hypothesis statement_
 
@@ -178,7 +178,8 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 3. **Split reception on the condensed intro page versus the full intro page copy**
 >In comparing a lean version with the full version of the intro, preference was equally split. Half of the sample of participants preferred the extra information provided on the full introduction explaining each category (example: what are considered assets) to help them prepare, while the other half preferred to see all of the categories grouped together to easily scan visually. 
->The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content when viewing on mobile, and keeping both action links to minimize frustration or drop off. 
+>The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content when viewing on mobile, and keeping both action links to minimize frustration or drop off.
+>In our research to date, (2) emerging archetypes are emerging - users that are very thorough filling out forms and reading every aspect in detail, and users that will skip ahead based on previous familiarity with VA.gov forms and feeling confident with the process. 
 
 
 
@@ -237,7 +238,8 @@ Labels: label 1, label 2
 
 3. **Split reception on the condensed intro page versus the full intro page copy**
 >In comparing a lean version with the full version of the intro, preference was equally split. Half of the sample of participants preferred the extra information provided on the full introduction explaining each category (example: what are considered assets) to help them prepare, while the other half preferred to see all of the categories grouped together to easily scan visually. 
->The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content when viewing on mobile, and keeping both action links to minimize frustration or drop off. 
+>The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content when viewing on mobile, and keeping both action links to minimize frustration or drop off.
+>In our research to date, (2) emerging archetypes are emerging - users that are very thorough filling out forms and reading every aspect in detail, and users that will skip ahead based on previous familiarity with VA.gov forms and feeling confident with the process. 
 
 > _"Other people they may like prefer this version, like they may not like all the extra stuff. But I would prefer the extra information." -P8_
 >>_"I would read the second page (lean intro). But - It doesn't have enough information about what you're seeking. In your work history. Like the employer's name. Starting end date monthly. Like some people might need help to grab their W2 Or their paystub. You know what I mean?" -P1_
@@ -285,21 +287,24 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
+* Intro page: Remove or move [alert box] so that it does not hide important introduction page content that the user needs to see to prepare to fill out the form. 
     * _Supporting evidence_
-* Recommendation 2
+* Transition page: Better visual chunking of separate ideas
     * _Supporting evidence_
 
 
 ## Next Steps
 
 _Next steps here. Include owners if appropriate._
-
+>Accessibility study in Fall 2023
 
 ## Further research needed
 
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
+>We met our objective of interviewing participants 55+ for this study.
+>We recommend an accessibility study in the Fall 2023 to test with Veterans that use screen readers.
+>In light of the (2) participants with cognitive considerations (stroke that affects memory, and other unknown cognitive consideration) who had a hard time with the form, we also recommend that stakeholders consider how participants can get assistance filling out the form if it proves to be difficult. 
 
 ## Appendix
 
