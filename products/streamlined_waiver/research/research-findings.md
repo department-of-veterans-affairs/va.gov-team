@@ -148,28 +148,28 @@ In the last 10 minutes of the usability study interviews, we will do a small con
 
 **We hypothesize that:**
 
-- The revised intro page will be clear
+- **The revised intro page will be clear**
   
-    _Likely True_
+    **_Likely True_**
 
     Although many participants initially skipped the intro page, once they read it they generally understood it.
     
--   The form flow will be clear and easy to understand
+-   **The form flow will be clear and easy to understand**
 
-    _Likely True_
+    **_Likely True_**
 
     This form flow was well received and described as "straightforward" and "easy to use".
     
     
--   The transition page will make sense
+-   **The transition page will make sense**
      
-     _Likely False_
+     **_Likely False_**
 
     Some participants did not realize they were skipping steps after reading this page. Some focused on the "next steps" portion of the page as opposed to the portion of the page that let them know they were on the expedited path and were skipping steps. Despite not knowing they were skipping steps, those participants had no issues continuing with the form and did not experience any confusion with completing and submitting the form.
     
--   The submission page notification with the reveal of an automatic approval will be well received and maybe even positively surprising.
+-   **The submission page notification with the reveal of an automatic approval will be well received and maybe even positively surprising.**
 
-    _Maybe True_
+    **_Maybe True_**
 
     The confirmation page was originally meant to communicate to the Veteran that their selected copay debt was automatically approved. The language was updated right before the study began to "You're tentatively eligible for debt relief" by stakeholders. While this was mostly well received by participants, there was some confusion as some felt the messaging was ambiguous.
 
@@ -182,9 +182,9 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 1. **This Streamlined Waiver had a more positive reception than the Full FSR.**
 
-   This is in comparison to our [last study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/research-findings.md) which tested the full FSR path. The streamlined waiver tested in this current study was described as "easy" and "straightforward".
+The streamlined waiver tested in this current study was described as "easy" and "straightforward".
 
-3. **Overall Comprehension: most understood the purpose of the form**
+2. **Overall Comprehension: most understood the purpose of the form**
 
    The majority of participants understood the purpose of the form, with the exception of 2 participants: one who said she had suffered a stroke that affected her memory, and the other who did not understand the form in the beginning, possibly due to cognitive considerations.
 
@@ -212,6 +212,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 6. **Confirmation page and trust: immediate waiver decision was welcome and surprising**
 
+
    Most participants were positively surprised by the immediate feedback on the decision of their request. 
 For some participants, at first, there was positive reception when seeing the green checkmark and "You're eligible for a waiver". Then, some felt  disappointment when reading the fine print.
 
@@ -231,19 +232,17 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
-Labels: Streamlined waiver, financial status report form (FSR)
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-1. **This Streamlined Waiver had a more positive reception than the Full FSR.**
-This is in comparison to our last study which tested the full FSR path. 
-The streamlined waiver tested in this current study was described as "easy" and "straightforward".
 
+Labels: Streamlined waiver, financial status report form (FSR)
+
+1. **This Streamlined Waiver had a more positive reception than the Full FSR.**
+   This is in comparison to our [last study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/research-findings.md) which tested the full FSR path. The streamlined waiver tested in this current study was described as "easy" and "straightforward".
+   
 > _"It was easy to navigate...it didn't ask a lot of questions and it was quick." -P5_
 >_“[Moderator] Based on your previous experience with this form, how do you feel about seeing that you're able to skip questions on this form? [Participant] Well, it makes it easier. I mean, I'm not old, I mean, I'm old, but I'm not old like a lot of veterans that I see at the hospital. Something like this would make it much easier for those folks. Along with myself.” -P9_
 
 
 
-**Finding 2**
 
 Labels: label 1, label 2 
 
@@ -254,9 +253,6 @@ The majority of participants understood the purpose of the form, with the except
 >_“I like it. It was nice. It's much better than what it used to be. If they use this, it'll be helpful to a lot of people.” - P9
 _
 
-**Finding 3**
-
-Labels: label 1, label 2 
 
 3. **Split reception on the condensed intro page versus the full intro page copy**
 In comparing a lean version with the full version of the intro, preference was equally split. Half of the sample of participants preferred the extra information provided on the full introduction explaining each category (example: what are considered assets) to help them prepare, while the other half preferred to see all of the categories grouped together to easily scan visually. 
@@ -268,8 +264,6 @@ In our research to date, (2) emerging archetypes are emerging - users that are v
 >>_“[Moderator] And between these 2 versions, which version do you think is the best for you?The first one [long intro], cause this one, The second one, it doesn't give you a lot of information. I think the first one gives you examples, I guess, is the word. Because some people might not understand monthly living expenses.” -P9_
 
 
-**Finding 4**
-
 4. **The cash on hand question was easily understood by all participants**
 Participants easily understood the "Cash on hand" question. Specifically, the information in parentheses (“cash not in a bank”) is what helped participants understand the meaning of cash on hand.
 
@@ -277,7 +271,6 @@ Participants easily understood the "Cash on hand" question. Specifically, the in
 >_"Now cash on hand. Not in my bank. So that's asking, "What's in my pocket right now? What's on me?". Well just say I got $50. Which is pretty easy. I mean, most people would know how much money they have currently on them." -P6>
 >"What does cash on hand mean to you?" "The amount of cash I have in my wallet. To me, cash on hand means it's what you have that you can get your hands on." -P1_
 
-**Finding 5**
 
 5. **Transition page clarity: most did not understand the purpose of this page**
 This page was added to help orient the user since the progress bar will change. However, it would seem that participants in this study did not notice the progress bar changed, possibly because it was a prototype and not on the live VA.gov environment.
@@ -285,7 +278,6 @@ This page was added to help orient the user since the progress bar will change. 
 >
 _"It sounds like it's telling me that based on my responses that I'm gonna be eligible for a waiver to get the bills taken care of. It's telling me right now that I am eligible for a waiver. So now I'm happy. So now I'm gonna submit. I'll continue." -P4_
 
-**Finding 6**
 
 6. **Confirmation page and trust: immediate waiver decision was welcome and surprising**
 
@@ -320,15 +312,15 @@ For some participants, at first, there was positive reception when seeing the gr
 ## Next Steps
 
 _Next steps here. Include owners if appropriate._
->Accessibility study in Fall 2023
+- Accessibility study in Fall 2023
 
 ## Further research needed
 
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
->We met our objective of interviewing participants 55+ for this study.
->We recommend an accessibility study in the Fall 2023 to test with Veterans that use screen readers.
->In light of the (2) participants with cognitive considerations (stroke that affects memory, and other unknown cognitive consideration) who had a hard time with the form, we also recommend that stakeholders consider how participants can get assistance filling out the form if it proves to be difficult. 
+- We met our objective of interviewing participants 55+ for this study.
+- We recommend an accessibility study in the Fall 2023 to test with Veterans that use screen readers.
+- In light of the (2) participants with cognitive considerations (stroke that affects memory, and other unknown cognitive consideration) who had a hard time with the form, we also recommend that stakeholders consider how participants can get assistance filling out the form if it proves to be difficult. 
 
 ## Appendix
 
