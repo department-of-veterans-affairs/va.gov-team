@@ -39,7 +39,7 @@ We will also aim to translate some of our core content patterns and error messag
 ### Service member benefits
 
 ### Burials and memorials 
-- [Eligibility for burial in a VA national cemetery](https://www.va.gov/burials-memorials/eligibility/) (Word count: 1996)
+- [Eligibility for burial in a VA national cemetery](https://www.va.gov/burials-memorials/eligibility/) (Word count: 1,996)
 - [Pre-need eligibility for burial in a VA cemetery](https://www.va.gov/burials-memorials/pre-need-eligibility/) (Word count: 1,181)
 - [After you apply for an eligibility determination](https://www.va.gov/burials-memorials/pre-need-eligibility/after-you-apply/) (Word count: 1,039)
 
@@ -57,7 +57,7 @@ We'll also prioritize translating health care and disability forms as they're th
 - 10-7959A CHAMPVA Claim Form (Word count from PDF for estimate: 925 - note that we would only translate this form if we digitize is this year)
 - 10-7959f-1 Foreign Medical Program (FMP) Registration Form (Word count from PDF for estimate: 63 - note that we would only translate this form if we digitize is this year)
 - 21-22 Appointment of Veterans Service Organization as Claimant's Representative (Word count: 1,023)
-- 10-10d Application for CHAMPVA Benefits (Word count: 1.283)
+- 10-10d Application for CHAMPVA Benefits (Word count: 1,283)
 
 ## Core content patterns and error messages
 
