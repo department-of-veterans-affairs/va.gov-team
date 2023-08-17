@@ -28,7 +28,7 @@ Building upon the work started by researchers on the Identity team in February o
 
 ## Methodology 
 
-Some veterans use the comment section of FaceBook and VA news (or blog) posts to express their feelings on that particular topic. The comments were posted publicly on a publicly accessible page of VA.gov. This is potentially valuable data, as long as we understand the limitations of this data source. Consider, this source *isn’t statistically significant*, nor does it adequately represent the Veteran population, as only those who read the post and then are most vocal or stirred to write about it will leave a comment.
+Some Veterans use the comment section of FaceBook and VA news (or blog) posts to express their feelings on that particular topic. The comments were posted publicly on a publicly accessible page of VA.gov. This is potentially valuable data, as long as we understand the limitations of this data source. Consider, this source *isn’t statistically significant*, nor does it adequately represent the Veteran population, as only those who read the post and then are most vocal or stirred to write about it will leave a comment.
    
 The particular post of consideration is [Login.gov offers new in-person identity verification for Veterans](https://news.va.gov/122499/login-gov-offers-new-in-person-identity-verification-for-veterans/).
 
@@ -37,71 +37,44 @@ The particular post of consideration is [Login.gov offers new in-person identity
 
 Although the categories listed here don’t claim to be exhaustive or exclusionary of other possible categories, during analysis we sorted the comments into the following categories:
 
-**1. Number of account credential options**
-- The comments in this category relate to being overwhelmed or otherwise frustrated at the number of credentialing option available
-- “WE don’t want more accounts and log-ins.”
-- “How many freaking Logins are going to keep being the ONLY one that I need?”
-- “This is so effing convoluted! I signed into Myhealthevet and had no problems until, Login.gov, IDme.gov Login.gov. DoD.gov.”
-   - This comment, along with some others, go a step further and assign blame to the new credentialing options. Adoption of a new credentialing system will likely be difficult for a segment of veterans who are so negative towards a new CSP that it becomes aversion, since aversion is difficult to overcome.
+**1. Change management & frequency of changing tools**
+- These comments relate to lack of understanding why VA keeps changing/adding new sign-in options and the pace/time given for adjusting to new systems.
+- “I see absolutely no reason to keep changing or adding new log-ins.”
+- “The online keeps changing. Just when you get comfortable... Most of us do not use this system daily so it seems to change almost every time we try.”
 
-**2. Requirements to switch credentialing systems**
-- These comments relate the desire to keep their current credential option
-- “I like signing in to MyHealtheVet as it is.”
-- “I have no problems with the Health Vet login so please leave it alone.”
+**2. Access to required documentation to verify account**
+- These comments relate generally to frustration with documents needed to verify accounts and technological (and otherwise) barriers to receiving and uploading those documents.
+- “I uploaded a copy of my drivers license, their system kept saying it could not read it...”
+- “If, a veteran is registered to get VA Health Care and has been issued an [VHIC] for those benefits. Why is there not an option to use the [VHIC] for verification by Login. gov?”
+- "...they [ID.me] couldn't identify me even after I sent copies of my 214, social security, birth cert, drivers license, and VA card so I just said I'm done with this BS and I'll continue to use in person services."
 
-**3. Required information or documentation to verify account**
-- A known issue is the difficulty with taking the ID picture. This was brought up several times. Also included in this category are other frustrations with what is needed, and frustration about feeling this is a repeat process.
-- “I have tried this several times, but the photo always fails to send…”
-- “I do not have a drivers license, a passport. or any other form of ID except my Veterans Healthcare Card.”
-- "Why ask for SS number. Last four is all I need for most things I access."
-- “ I have been verified by MYhealthevet, I have been verifed, in person, at my VAMC and now I have to reverify an account I’ve had for years?”
-   - Since many veterans who have a verified account should be able to inherit proof, this comment might indicate a misunderstanding of the process
+**3. Platform difficulties**
+- These comments appear to be issues with the CSP platforms and technology in and of themselves, with Veterans having issues signing in with either option or across all of the options.
+- “The VA should demand that both organizations fix their software or else withdraw from the contracts...”
+- “Login.gov is the hardest site I have ever tried to use. I gave up trying to access anything VA related.”
+- “When are you going to get rid of my healthy vet and get a system that works? You keep no information safe, and the vet center has access to VA records and the VA doesn’t.”
 
-**4. General credential system issues**
-- Some of these comments appear to be issues with either DS login or MHV, others are unclear. These are issues where veterans are unable to access using their currently preferred credentialing method
-- “every time I try to sign in…they want me to change my PW.. whats up with that..”
-- “I BEEN LOCKED OUT FOR OVER FIVE MONTHS AND COUNTING”
-- “Neither ID.ME or myHealtheVet (i am registered and have passwords for each) will login reliably.”
+**4. Necessity for in-person services**
+- These comments point to frustrations that arise over being asked to do things online and not only a preference of doing things in-person that some Veterans may have, but also for some such as the unhoused, it being a necessity.
+- “...these new log-ins... none of them work!!! I am old and prefer in person contacts not online on the computer nor video!”
+- “Kiosks worked well, In person pay before that worked great. The online keeps changing.”
+- "It was certainly easier when I lived 3 blocks from the Philly regional office."
 
-**5. Login.gov’s ease (or difficulty) of use**
-- Several commenters mentioned issues specifically signing in with login.gov
-- “Login.gov is definitely not easy to use. On Monday I spent four hours signing on, being kicked off, redirected and cut off.”
-- “it doesn’t work all the time”
-
-**6. Multi factor authentication issues**
-- The comments in this section relate to frustrations with MFA
-- “When I finally got through I could not receive a text with a stupid code to continue. I tried many many times. I tried again days later. Not without a ton of effort did I finally get through.”
-- “Every time it has me enter a verification code, I go back to retrieve it from my phone and I go back to enter it , it makes me start all over in an endless loop”
-
-**7. Technology proficiency and accessibility concerns**
-- Several commenters mentioned that other veterans or themselves have technology proficiency concerns.
-- “You have no idea what some people have to go through just to use tech. It is not easy.”
-- “Many of our veterans can not keep up with the constant change of todays technology. I’m in my seventies and I struggle with my flip phone.”
-- “All vets are not ITs or computer literate. Make the system easier!!!!”
-
-**8. Workarounds**
-- When unable to log in, veterans employ various workarounds and propose others
-- “CAN’T GET ONLINE, HAVE TO GO IN PERSON”
-- One veteran told a story about getting a letter from the VA in the states, but being unable to login had to get a family member to mail it to him overseas.
-- “NEED LIVE IN PERSON PHONE HELP TO GET LOGIN.GOV TO WORK”
-   - This shows that some veterans prefer live phone help to other methods, including chatbots
-
-**9. General frustrations**
-- “So please just identify me as ‘FRUSTRATED’.”
-- “The new process is worse than being hacked.”
-
-**10. Comments not directly related to the login or credentialing process**
-- While important in their own way, 11 of the comments seemed off topic to identity, credentialing, and logging in and were set aside
-
+**5. Distrust because of perceived neglect**
+- Some comments in this area are unrelated to sign-in, but there is a general sentiment of distrust amongst some Veterans that VA will do what it says that it's going to do and that they have Veterans best interest at heart.
+- "You people have made damn sure veterans aren’t welcome and you can’t be bothered with the human interactions and contact we need."
+- “AND MILLIONS STILL CAN'T GET TREATMENT OF SERVICE CONNECTED DISABILITIES.”
+- “IT MAY BE TIME FOR VETERANS TO GET TOGETHER AND MARCH ON WASHINGTON. I am a VIETNAM VET still fighting and getting denied.
+IT'S TIME TO TAKE CARE OF THE.ONES THAT TOOK CARE OF THEM”
 
 ## Take-aways
 
-- Some veterans who do not agree with or understand the need to change their Credential Service Provider (CSP) may become averse to doing so.
-- Some veterans may not understand the inherited verification process - that if they've already been verified the account creation process for login.gov has few steps
-- Some veterans have issues with their current CSP, whether it's MHV, DS, login.gov, or ID.me
+- Findings were consistent with feedback analyzed in post comment findings from February of 2023, [VA login.gov Post Comment Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-02%20Desk%20Research/Findings%20from%20VA%20login%20post%20comment%20analysis.md)
+- Some Veterans who do not agree with or understand the need to change their Credential Service Provider (CSP) may become averse to doing so.
+- Some Veterans have issues with their current CSP, whether it's MHV, DS, login.gov, or ID.me
    - Some veterans having issues with their CSP attribute that to a VA issue, even when the CSP is not owned by VA
-- Some veterans may have a technological proficiency barier to a more secure CSP.
-   - Many other veterans stick up for those even when they are more technology proficient themselves
+- Some Veterans may have a physical barrier (e.g. unhoused or physical disability) or technological proficiency barrier to creating an account with a more secure CSP or accessing VA websites online at all.
+   - Many other veterans stick up for those even when they have physical or technologcial barriers themselves
 
 Not Identity team related
 - Some veterans post their needs or frustrations with or seek information from the VA on these posts, even when it's a completely unrelated topic.
@@ -109,9 +82,11 @@ Not Identity team related
 
 ## Further research possibilities
 
-Some areas that might benefit from further research based on this analysis of comments
+Some areas that might benefit from further research based on this analysis of comments:
+- What tools and resources might help to better explain the difference between CSPs and help Veterans understand why change is happening/manage change?
+- How might we combat general distrust for the VA so that messaging is well-received and Veterans do not feel that they are being taken advantage of?
 - For those who have a negative impression of the newer CSP (login.gov and ID.me), is their any information or explination that would change their mind of the need to switch CSP?
-- How can the VA best ensure veterans understand that these CSPs are no managed by VA, so for example, they understand to seek help from them and not from VA.
+- How can the VA best ensure Veterans understand that these CSPs are not managed by VA, so for example if they experience issues creating an account or signing in, they understand where in the process an error occurred (CSP, VA, technology) and also how and where to best seek help.
 
 
 ## Appendix
