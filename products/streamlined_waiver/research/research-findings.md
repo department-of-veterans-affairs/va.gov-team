@@ -223,6 +223,7 @@ Labels: label 1, label 2
 The majority of participants understood the purpose of the form, with the exception of 2 participants: one who said she had suffered a stroke that affected her memory, and the other who did not understand the form in the beginning, possibly due to cognitive considerations.
 
 >_"I think it's very easy to use, like way easy to navigate, and I don't have any issues filling out the form. But I like the definition of each term, like what you need to fill out." -P8_
+
 >_“I like it. It was nice. It's much better than what it used to be. If they use this, it'll be helpful to a lot of people.” - P9
 
 
@@ -233,7 +234,9 @@ The majority of participants skipped ahead on the intro page and we recommend re
 In our research to date, (2) emerging archetypes are emerging - users that are very thorough filling out forms and reading every aspect in detail, and users that will skip ahead based on previous familiarity with VA.gov forms and feeling confident with the process. 
 
 > _"Other people they may like prefer this version, like they may not like all the extra stuff. But I would prefer the extra information." -P8_
+
 >_"I would read the second page (lean intro). But - It doesn't have enough information about what you're seeking. In your work history. Like the employer's name. Starting end date monthly. Like some people might need help to grab their W2 Or their paystub. You know what I mean?" -P1_
+
 >_“[Moderator] And between these 2 versions, which version do you think is the best for you?The first one [long intro], cause this one, The second one, it doesn't give you a lot of information. I think the first one gives you examples, I guess, is the word. Because some people might not understand monthly living expenses.” -P9_
 
 
@@ -241,11 +244,14 @@ In our research to date, (2) emerging archetypes are emerging - users that are v
 Participants easily understood the "Cash on hand" question. Specifically, the information in parentheses (“cash not in a bank”) is what helped participants understand the meaning of cash on hand.
 
 >_"Now cash on hand. Not in my bank. So that's asking, "What's in my pocket right now? What's on me?". Well just say I got $50. Which is pretty easy. I mean, most people would know how much money they have currently on them." -P6
->"What does cash on hand mean to you?" "The amount of cash I have in my wallet. To me, cash on hand means it's what you have that you can get your hands on." -P1_
+
+>_Moderator: "What does cash on hand mean to you?"_
+_"The amount of cash I have in my wallet. To me, cash on hand means it's what you have that you can get your hands on." -P1_
 
 
 5. **Transition page clarity: most did not understand the purpose of this page**
 This page was added to help orient the user since the progress bar will change. However, it would seem that participants in this study did not notice the progress bar changed, possibly because it was a prototype and not on the live VA.gov environment.
+
 >Since the transition page was confusing for some participants, we recommend removing the "next steps" portion as part of the same alert as "skipping ahead" to minimize confusion, and separate different ideas.
 >_"It sounds like it's telling me that based on my responses that I'm gonna be eligible for a waiver to get the bills taken care of. It's telling me right now that I am eligible for a waiver. So now I'm happy. So now I'm gonna submit. I'll continue." -P4_
 
