@@ -24,7 +24,7 @@ Great, I think we're good to move ahead. For the next step, I'll have you share 
 _Once can see their screen:_ Could you now open a browser and go to VA.gov? 
 _Once they arrive at VA.gov:_ Next, could you login using -------? (either Login.gov or ID.me)
 
-## UAT Task 1: Add mobile number - 3 minutes
+## UAT Task 1: Add mobile number - 4 minutes
 
 The first thing we’re going to do is check to see if you have a mobile number in your profile. Let’s go to the Contact information section of your profile. (Guide user if needed)
 
@@ -67,7 +67,7 @@ Let’s look at this page, is that what you entered? Great, thank you! This has 
 - [ ] **UAT TASK:** Confirm phone number is correctly displayed on the notification settings page
 - [ ] **Usability notes:** Did the user experience any usability hurdles or provide UX feedback?
 
-## UAT Task 2: Update mobile number - 3 minutes
+## UAT Task 2: Update mobile number - 2 minutes
 
 1. Please go ahead and click the link to update your mobile phone number.
    *Should take user to sub-task page*
@@ -102,7 +102,7 @@ Thank you, that was very helpful for our team. Now I just want to be sure we lea
 - [ ] **Usability notes:** Does the participant make any comments on the UX or encounter any usability hurdles?
 
 ----------------------------------------
-## Optional Task 1: Review personalized menu - 5 minutes
+## Optional Task 1: Review authenticated menu - 5 minutes
 
 Since we have a little extra time, there is one last thing I’d like to get your feedback on.  Can you click on your name in the heading?  I’d like to hear your impressions of the items in that menu.
 
