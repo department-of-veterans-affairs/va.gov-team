@@ -150,20 +150,19 @@ Are you comfortable with that?
 ### Prototype Subtask - move past TOU
 - Let's say you want to agree to the terms here. Don't take any actions on the page yet, but what would you do?
    - And after that what would you expect to happen?
-- Let’s pretend you didn’t want to agree to these terms here, at least not right now. What would you do?
 - [GUIDE PARTICIPANT TO BOTTOM of page, if they haven't made it there yet]
    - This might sound a little silly, but can you give me your definition of “accept”
       - What about “decline”
    - We have “accept” and “decline” buttons here. Would it change anything for you if we renamed the decline button to “not accept”? So the options are accept and not accept.
       - [IF Participant is feeling the vocab discussion, can also ask about “reject” and “refuse” and also about having the buttons simply say "yes" or "no"]
-- Let assume you’d select “accept” - don’t actually do it yet - what would you expect to happen next?
-   - Let’s say the lawyers get together again and decide something needed to change here on this terms of use. If a change happened how would you expect to hear about it? Maybe get something like this full page about it again?
-      - What would you want to know about the update?
-      - Would it make a difference if it was a smaller change vs a larger change?  
+- Let’s say the lawyers get together again and decide something needed to change here on this terms of use. If a change happened how would you expect to hear about it? Maybe get something like this full page about it again?
+   - What would you want to know about the update?
+   - Would it make a difference if it was a smaller change vs a larger change?  
 - Now let’s assume you’d select “decline” - don’t actually do it yet - what would you expect to happen? 
    - Go ahead and select “decline”
    - What do you think about this information here?
    - What is your understanding of what this page is telling you?
+   - Does requiring veterans to accept a terms of use feel like a reasonable request?
 
 
 ## Round 3 - Closing Q’s and Thank you | minutes
