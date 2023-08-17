@@ -4,9 +4,9 @@
 ### Participants: 
 ### Topics Covered:
 - P1 issue
-   -  What is needed?  
+   -  What is the CTA for our teams?  
 - Backup Submission Issue
-   -  What is needed?
+   -  What is the CTA for our teams? 
 - Team 1 engagement in these two issues will delay
    - Submit endpoint migration to LH that will delay Toxic Exposure launch
    - ITF and rateddisabilities launch
