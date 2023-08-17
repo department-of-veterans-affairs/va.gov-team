@@ -1,6 +1,6 @@
 ---
-name: Platform Tech Team 2 Issue
-about: For VA.gov Platform Tech Team 2
+name: Platform Lights Team Issue
+about: For VA.gov Platform Lights Team
 title: '[Product] Thing to be done'
 labels: platform-lights-team
 assignees: ''
