@@ -46,7 +46,7 @@
 
 - Thank you for joining this session today! I first want to make sure that we're able to hear each other.
 - [WAIT FOR RESPONSE - if can’t hear, [troubleshoot](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr#Troubleshootingresearchsessions-Problem:Usercannothearyou/youcan'thearthemonZoom) otherwise...]
-- Great! I’m [YOUR NAME] and I’m a researcher for VA.gov. We have two other folks on the call right now, but before I allow them to introduce themselves, I want to check in with you on your preference with introductions. For example, we have our videos on at the moment, and we can describe our physical appearance and backgrounds if you’d like. Would you find that helpful?
+- Great! I’m [YOUR NAME] and I’m a researcher for VA.gov. We have two other folks on the call right now, but before I allow them to introduce themselves, I want to check in with you on your preference with introductions. For example, some of us have our camera on at the moment, and we can describe our physical appearance and backgrounds if you’d like. Would you find that helpful?
    - [If wants description then offer yours: like hair length, hair color, eye color, skin tone, other defining feature, and background]
 - I also have [NOTE TAKER NAME] here today to take some notes. I’ll ask them to introduce themself.
    - [PAUSE FOR NOTE TAKER to introduce themself]
@@ -168,15 +168,12 @@
 ### Prototype Subtask - move past TOU
 - Let's say you want to agree to the terms here. Don't take any actions on the page yet, but what would you do?
    - And after that what would you expect to happen?
-- Let’s pretend you didn’t want to agree to these terms here, at least not right now. What would you do?
-   - And after that what would you expect to happen?
 - [GUIDE PARTICIPANT TO BOTTOM of page, if they haven't made it there yet]
 - This might sound a little silly, but can you give me your definition of “accept”
    - And what about your definition of "decline"?
    - We have “accept” and “decline” buttons here. Would it change anything for you if we renamed the decline button to “not accept”? Meaning the options are accept and not accept.
       - [IF Participant is feeling the vocab discussion, can also ask about “reject” and “refuse” and also about having the buttons simply say "yes" or "no"]
-- Let assume you’d select “accept” - don’t actually do it yet - what would you expect to happen next?
-   - Let’s say the lawyers get together again and decide something needed to change here on this terms of use. If a change happened how would you expect to hear about it? Maybe get something like this page about it again?
+- Let’s say the lawyers get together again and decide something needed to change here on this terms of use. If a change happened how would you expect to hear about it? Maybe get something like this page about it again?
       - What would you want to know about the update?
       - Would it make a difference if it was a smaller change vs a larger change? 
 - Now let’s assume you’d select “decline” - don’t actually do it yet - what would you expect to happen?
