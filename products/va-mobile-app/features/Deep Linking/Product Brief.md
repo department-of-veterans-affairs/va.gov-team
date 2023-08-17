@@ -28,10 +28,10 @@ We want to provide the veteran with the best user experience possible in order t
 
 More volume of users was noted currently for appts, however we would like to go with secure messaging as it poses the least complication overall
 
-2. Deep Link to Inbox
-User receives a push notification and this will “deep link’ to the Inbox (newest message)
+2. Deep Link to Indidual message in the inbox
+User receives a push notification and this will “deep link’ to an individual message in the inbox
 
-3. Back Navigation: As user exits the inbox, they will be taken back to the Home Screen of the App.
+
 
 
 ### Assumptions and Level of Confidence
