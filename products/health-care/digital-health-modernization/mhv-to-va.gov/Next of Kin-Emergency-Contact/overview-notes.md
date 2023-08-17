@@ -38,3 +38,20 @@ We heard from stakeholders that the data in this field is strictly used to infor
 ## Check-in Experience team 
 
 [Ticket to Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research/recommendations.md#in-case-of-emergency-section](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59089)https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59089)
+
+Collecting NOK in Check-in experience. 
+
+* If they click “no” what is the flow?  
+    * For our pre-check-in process for in-person appts, if a Veteran answers "no" that NOK is incorrect, then they'll need to review that information with an MSA on the day of their appt in order to check in [Wireframe for confirmation page](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/a/YZJWVld). (It's a clinical ops business rule that pre-reg demo questions (contact, emergency contact, next of kin) have to reviewed ~7 days, which I think you're aware of.)
+    * For day of check in for in-person appts, if a Veteran answers "no" that NOK is incorrect, then we don't allow them to proceed any further. They're taken directly to a confirmation page that tells them to see an MSA to update their next of kin with them. [Wireframe](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/a/27moxKp)
+    * Pre check in and check in doesn't allow editing of NOK because our web app isn't full auth.
+        * Maybe just restated from Kristen: 
+    * Yes, check-in and pre-check-in just confirm that NOK and emergency contact are correct. We pull the data from VistA. We had discussions with VA Profile, but at the time that we built that part of the experience it wasn't possible to connect to there. We update the timestamp in (would need to confirm what all system we update) to show when a Veteran confirmed this information, but we do not allow Veterans to edit/don't send edits anywhere.
+* Q: Is Check-in also collecting Emergency Contact? 
+    * Emergency contact is similar. It's in VistA, which pre-check in and check-in only "read" and don't allow editing back to VistA. Wireframe for pre-check-in when Veterans answers "no" to emergency contact.
+* Where is this being stored? 
+    * NOK is stored in VistA (Check in doesn't push edits for NOK to VistA) 
+* Additional info: 
+    * Now, as far as the plain language for defining next of kin to help some Veterans understand how to fill out or review their next of kin, here is a working version that CAIA team is still reviewing. Will provide an update once it's been reviewed by them.
+    * Our team started talking about using the form hint text component to show the next of kin definition, but that’s not really appropriate for our design since we’re not using a form field.
+
