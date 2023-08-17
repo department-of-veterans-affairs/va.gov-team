@@ -123,9 +123,9 @@ There was no single personalization method used on the home screen by all apps (
    <td>
 
 
-<img src="images/name-status-miles.png" width="250" alt="user name, status, miles" title="user name, status, miles">
-<img src="images/walgreens-rewards.png" width="250" alt="Walgreens total cash rewards" title="Walgreens total cash rewards">
-<img src="images/usaa-account.png" width="250" alt="USAA account overview" title="USAA account overview">
+<img src="../images/name-status-miles.png" width="250" alt="user name, status, miles" title="user name, status, miles">
+<img src="../images/walgreens-rewards.png" width="250" alt="Walgreens total cash rewards" title="Walgreens total cash rewards">
+<img src="../images/usaa-account.png" width="250" alt="USAA account overview" title="USAA account overview">
 
    </td>
   </tr>
@@ -136,9 +136,9 @@ There was no single personalization method used on the home screen by all apps (
    </td>
    <td>
 
-<img src="images/prescription-delivery.png" width="250" alt="Prescription delivery status" title="Prescription delivery status">
-<img src="images/upcoming-flight.png" width="250" alt="upcoming trip" title="upcoming trip">
-<img src="images/account-overview.png" width="250" alt="Account overview" title="Account overview">
+<img src="../images/prescription-delivery.png" width="250" alt="Prescription delivery status" title="Prescription delivery status">
+<img src="../images/upcoming-flight.png" width="250" alt="upcoming trip" title="upcoming trip">
+<img src="../images/account-overview.png" width="250" alt="Account overview" title="Account overview">
 
    </td>
   </tr>
@@ -149,8 +149,8 @@ There was no single personalization method used on the home screen by all apps (
    </td>
    <td>
 
-<img src="images/aftervisit-summary.png" width="250" alt="after visit summary" title="after visit summary">
-<img src="images/pick-your-seat.png" width="250" alt="choose seat reminder" title="choose seat reminder">
+<img src="../images/aftervisit-summary.png" width="250" alt="after visit summary" title="after visit summary">
+<img src="../images/pick-your-seat.png" width="250" alt="choose seat reminder" title="choose seat reminder">
 
    </td>
   </tr>
@@ -161,8 +161,8 @@ There was no single personalization method used on the home screen by all apps (
    </td>
    <td>
 
-<img src="images/name-time.png" width="250" alt="user name and time of day" title="user name and time of day">
-<img src="images/name.png" width="250" alt="user name" title="user name">
+<img src="../images/name-time.png" width="250" alt="user name and time of day" title="user name and time of day">
+<img src="../images/name.png" width="250" alt="user name" title="user name">
 
    </td>
   </tr>
@@ -173,8 +173,8 @@ There was no single personalization method used on the home screen by all apps (
    </td>
    <td>
 
-<img src="images/new-message.png" width="250" alt="new message" title="new message">
-<img src="images/aa-critical-action-module.png" width="250" alt="flight module with critical actions" title="flight module with critical actions">
+<img src="../images/new-message.png" width="250" alt="new message" title="new message">
+<img src="../images/aa-critical-action-module.png" width="250" alt="flight module with critical actions" title="flight module with critical actions">
 
    </td>
   </tr>
@@ -237,8 +237,8 @@ Notifications were present in half of the apps, but overwhelmingly they were not
    <td>Notifications center in main navigation
    </td>
    <td>
-<img src="images/tabbar-notifications.png" width="250" alt="tab bar with notifications" title="tab bar with notifications">
-      <img src="images/topbar-inbox.png" width="250" alt="top bar with inbox" title="top bar with inbox">
+<img src="../images/tabbar-notifications.png" width="250" alt="tab bar with notifications" title="tab bar with notifications">
+      <img src="../images/topbar-inbox.png" width="250" alt="top bar with inbox" title="top bar with inbox">
    </td>
 </tr>
    
@@ -246,7 +246,7 @@ Notifications were present in half of the apps, but overwhelmingly they were not
    <td>Notifications/alerts area on home 
    </td>
    <td>
-   <img src="images/home-alert.png" width="250" alt="alert on home" title="alert on home">
+   <img src="../images/home-alert.png" width="250" alt="alert on home" title="alert on home">
    </td>
  </tr>
   
@@ -254,8 +254,8 @@ Notifications were present in half of the apps, but overwhelmingly they were not
    <td>Notification style homescreen UI
    </td>
    <td>
-<img src="images/feed.png" width="250" alt="feed homescreen UI" title="feed homescreen UI">
-      <img src="images/feed-completed.png" width="250" alt="alt_text" title="completed feed item">
+<img src="../images/feed.png" width="250" alt="feed homescreen UI" title="feed homescreen UI">
+      <img src="../images/feed-completed.png" width="250" alt="alt_text" title="completed feed item">
    </td>
   </tr>
   
@@ -265,7 +265,7 @@ Notifications were present in half of the apps, but overwhelmingly they were not
 Two apps gave users the ability to customize the elements that appear on their home screen: TSA displays one or more of the user’s favorite airports and Bank of America has a customizable “quantified self” style dashboard on a secondary “dashboard” home screen tab. It is not the main/default part of the home screen.
 
 
-<img src="images/ba-home-dashboard.png" width="250" alt="home screen dashboard tab" title="home screen dashboard tab"><img src="images/favorite-airport.png" width="250" alt="favorite airport" title="favorite airport">
+<img src="../images/ba-home-dashboard.png" width="250" alt="home screen dashboard tab" title="home screen dashboard tab"><img src="images/favorite-airport.png" width="250" alt="favorite airport" title="favorite airport">
 
 
 
@@ -406,7 +406,7 @@ The apps we reviewed used three high-level patterns to display personalized and 
    <td>
 
 
-<img src="images/state-farm.png" width="250" alt="state farm home screen" title="state farm home screen"><img src="images/aa-home.png" width="250" alt="american airlines home screen" title="american airlines home screen">
+<img src="../images/state-farm.png" width="250" alt="state farm home screen" title="state farm home screen"><img src="../images/aa-home.png" width="250" alt="american airlines home screen" title="american airlines home screen">
 
    </td>
   </tr>
@@ -415,7 +415,7 @@ The apps we reviewed used three high-level patterns to display personalized and 
    </td>
    <td>
 
-<img src="images/feed.png" width="250" alt="feed homescreen UI" title="feed homescreen UI"><img src="images/feed-completed.png" width="250" alt="alt_text" title="completed feed item">
+<img src="../images/feed.png" width="250" alt="feed homescreen UI" title="feed homescreen UI"><img src="../images/feed-completed.png" width="250" alt="alt_text" title="completed feed item">
 
 
    </td>
@@ -425,7 +425,7 @@ The apps we reviewed used three high-level patterns to display personalized and 
    </td>
    <td>
 
-<img src="images/delta-tabs.png" width="250" alt="delta account and today tabs" title="delta account and today tabs"><img src="images/ba-home-tabs.png" width="250" alt="bank of america home screen tabs" title="bank of america home screen tabs">
+<img src="../images/delta-tabs.png" width="250" alt="delta account and today tabs" title="delta account and today tabs"><img src="../images/ba-home-tabs.png" width="250" alt="bank of america home screen tabs" title="bank of america home screen tabs">
 
    </td>
   </tr>
