@@ -11,6 +11,9 @@
    - Submit endpoint migration to LH that will delay Toxic Exposure launch
    - ITF and rateddisabilities launch
    - What needs to be prioritized
+- Form Validation errors priorities for team 2
+   - reproduce, review priorities
+   - Determine capacity to fix    
      
 ### Date: Aug 10 2023       
 ### Participants: Rakshinda, Shannon, Steve
