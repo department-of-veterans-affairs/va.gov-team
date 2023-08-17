@@ -56,16 +56,15 @@ Although the categories listed here don’t claim to be exhaustive or exclusiona
 
 **4. Necessity for in-person services**
 - These comments point to frustrations that arise over being asked to do things online and not only a preference of doing things in-person that some Veterans may have, but also for some such as the unhoused, it being a necessity.
+- "The system is too difficult for homeless, near homeless, or rural living vets without transportation. Add to that older Vets and those less technology savvy."
 - “...these new log-ins... none of them work!!! I am old and prefer in person contacts not online on the computer nor video!”
-- “Kiosks worked well, In person pay before that worked great. The online keeps changing.”
 - "It was certainly easier when I lived 3 blocks from the Philly regional office."
 
 **5. Distrust because of perceived neglect**
 - Some comments in this area are unrelated to sign-in, but there is a general sentiment of distrust amongst some Veterans that VA will do what it says that it's going to do and that they have Veterans best interest at heart.
 - "You people have made damn sure veterans aren’t welcome and you can’t be bothered with the human interactions and contact we need."
 - “AND MILLIONS STILL CAN'T GET TREATMENT OF SERVICE CONNECTED DISABILITIES.”
-- “IT MAY BE TIME FOR VETERANS TO GET TOGETHER AND MARCH ON WASHINGTON. I am a VIETNAM VET still fighting and getting denied.
-IT'S TIME TO TAKE CARE OF THE.ONES THAT TOOK CARE OF THEM”
+- “ It is difficult but there is no excuse for it. We took care of them and our great USA now it's time.to wake up and help us.”
 
 ## Take-aways
 
