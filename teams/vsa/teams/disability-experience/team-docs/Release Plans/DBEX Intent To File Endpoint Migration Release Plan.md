@@ -85,7 +85,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
                 Alternatively, skip the form by navigating to the "If you know X form is right, click here"
             4. On the /introduction screen, select "Start the Disability Compensation Application"
             5. On the first `/veteran-information` screen, please note for us
-                - The current time and date
+                - The current time, date, and timezone
                 - Whether you have an existing Intent to File (Info block will say "You already have an Intent to File")
                 - The city your browser is making the request from
             6. Once the previous step is completed, let us know. We will then toggle the feature flag for your account to then use the Lighthouse API provider
