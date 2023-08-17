@@ -89,7 +89,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
             7. Close your browser and repeat steps 2-4
             8. On the first `/veteran-information` screen, please note the current time and date
         - [x] Record testing steps in TestRail
-        - [ ] Share testing steps with each user
+        - [x] Share testing steps with each user
 - [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
 - [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
 - [ ] Ensure qualitatively that the feature works as intended for users
