@@ -167,17 +167,37 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+1. **This Streamlined Waiver had a more positive reception than the Full FSR.**
+>This is in comparison to our last study which tested the full FSR path. 
+>The streamlined waiver tested in this current study was described as "easy" and "straightforward".
 
-2. Finding two
 
-3. Finding three
+2. **Overall Comprehension**
+>The majority of participants understood the purpose of the form, with the exception of 2 participants: one who said she had suffered a stroke that affected her memory, and the other who did not understand the form in the beginning, possibly due to cognitive considerations.
 
-4. Finding four
 
-5. Finding five
+3. **Split reception on the condensed intro page versus the full intro page copy**
+>In comparing a lean version with the full version of the intro, preference was equally split. Half of the sample of participants preferred the extra information provided on the full introduction explaining each category (example: what are considered assets) to help them prepare, while the other half preferred to see all of the categories grouped together to easily scan visually. 
+>The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content when viewing on mobile, and keeping both action links to minimize frustration or drop off. 
 
-6. Finding six
+
+
+4. **The cash on hand question was easily understood by all participants**
+>Participants easily understood the "Cash on hand" question. Specifically, the information in parentheses (“cash not in a bank”) is what helped participants understand the meaning of cash on hand. 
+
+5. **Transition page clarity**
+>Since the transition page was confusing for some participants, we recommend removing the "next steps" portion as part of the same alert as "skipping ahead" to minimize confusion, and separate different ideas.
+
+
+6. **Confirmation page and trust**
+>Most participants were positively surprised by the immediate feedback on the decision of their request. 
+>For some participants, at first, there was positive reception when seeing the green checkmark and "You're eligible for a waiver". Then, some felt  disappointment when reading the fine print. 
+>Context: This is an active conversation between VA stakeholders and SMEs and the copy is not final yet. 
+>Based on what we tested, it's clear that an automatic decision is unfamiliar and surprising, and also would be very positive. 
+>While at the same time, some participants can't believe it since they haven't seen it done before. 
+>An email and a letter to confirm and prove this would be helpful. 
+>One participant expected automatic approval as she compared it to submitting a form for Travel Pay. As we saw in our last study, the term "waiver" was not understood by all participants.
+
 
 7. Finding seven
 
