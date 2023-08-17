@@ -23,17 +23,18 @@
   - I'm 90% sure that we have a LH staging endpoint to test against.  
 
 
-## Observiations
+## Observations
 ### Existing Flippers!
   Someone put a whole bunch of potentially useful guiderails in place for this work.  They look like this
-          ```
-          if Flipper.enabled?(:disability_compensation_lighthouse_document_service_provider)
-            # TODO: create client from lighthouse document service
-          else
-            client = EVSS::DocumentsService.new(submission.auth_headers)
-          end
-          client.upload(file_body, document_data)
-          ```
+
+  ```
+      if Flipper.enabled?(:disability_compensation_lighthouse_document_service_provider)
+        # TODO: create client from lighthouse document service
+      else
+        client = EVSS::DocumentsService.new(submission.auth_headers)
+      end
+      client.upload(file_body, document_data)
+  ```
   There is a non-zero chance that this work, at least as far as coding goes, is going to be as simple as finding all these old `EVSS::DocumentsService` calls within  flippers and adding the new service stuff.  This will need to be validated in testing.
 
 ### Testing will be the work
