@@ -25,6 +25,12 @@
    -   Please review and update status of 526 team work.  Are there workstreams that need to be added, deleted or consolidated?    
 - Priortization needed for near term Research / Design ideas
    - Shannon and Jen to talk about that this week
+- Steve getting some team members Datadog access
+  - Would want consistency in monitoring
+  - non-zero amount of time to start working on it
+  - Need clarity around submission logs
+-
+  
 ### Date: Aug 10 2023       
 ### Participants: Rakshinda, Shannon, Steve, Jen
 ### Topics Covered:
