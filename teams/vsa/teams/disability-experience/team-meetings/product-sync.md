@@ -13,10 +13,13 @@
    - What needs to be prioritized
 - Form Validation errors priorities for team 2
    - reproduce, review priorities
-   - Determine capacity to fix    
+   - Determine capacity to fix
+- New Benefits Portfolio project/workstream dashboard created in response to status reqeusts from stakeholders (https://dvagov.sharepoint.com/sites/vaabdvro/SitePages/Project%20Status%20Overview%20-%20OCTO%20Benefits.aspx)
+   -    We have organized the workstreams by the Benefits Portfolio's "Priority Bets" to show how the workstreams support achieving the bets.  There's an area below sorted by crews and teams where we will link to individual team roadmaps and sprint review documents.
+   -   Please review and update status of 526 team work.  Are there workstreams that need to be added, deleted or consolidated?    
      
 ### Date: Aug 10 2023       
-### Participants: Rakshinda, Shannon, Steve
+### Participants: Rakshinda, Shannon, Steve, Jen
 ### Topics Covered:
 - P1 issue
    - Do we roll back the ITF msg after the traffic volume goes down after Aug 10? - Being handled by Kyle/Robin
