@@ -101,7 +101,7 @@ The brainstorming session yielded many ideas on how the Mobile App could be pers
 * Allowing users to scan prescription barcodes
 * Connection to SM if need to message doctor
 
-**Profile **
+**Profile**
 
 * Allowing Veterans to add a profile image 
 
