@@ -6,12 +6,12 @@
 ## Introduction - 2 minutes
 Thanks for joining us today! My name is Liz. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily. 
 
-What I hope to do today is get your help in testing some technical changes we’ve made to the website. The changes we have made aren’t something anyone can see on the screen, but with your help we will be able to check whether we’ve set everything up correctly.
+We’ve invited you to participate today to get your help in testing some technical changes we’ve made to the website. The changes we have made aren’t something anyone can see on the screen, but with your help we will be able to check whether we’ve set everything up correctly.
 
 Before we start, I wanted to go over a few details:
 - **This session should take 30 minutes of your time or less.** It involves me asking you to complete a few small tasks. Because I want to make sure we don’t keep you beyond half an hour, I may prompt you with the next question to keep things moving.
-- **You will need your direct deposit information today.** I will ask you to re-enter your direct deposit information in order to make sure the system is doing what it’s supposed to, but we will not be making any changes to your account.
 - **We will be able to see your real information today.** This may include some healthcare information and some claims information. However, you have the choice to stop screensharing during any of the tasks, and start again when you feel comfortable. 
+- **I’ll be asking you to make some updates to the mobile number in your VA.gov profile.** We can revert things back to the way they were at the start of the session if you don’t want to save any of the changes permanently.
 - **You may end the session at any time, for any reason.** Just let me know.
 
 I have some teammates who would like to observe our session and take notes for me, but only if you're comfortable with that. They'll be muted and off camera and you won't have to interact with them. Would you be okay with that, or do you prefer to keep the session just the two of us?
@@ -29,12 +29,44 @@ Great, thanks for providing that information. I think we're good to move ahead. 
 _Once can see their screen:_ Could you now open a browser and go to VA.gov? 
 _Once they arrive at VA.gov:_ Next, could you login using -------? (either Login.gov or ID.me)
 
-## UAT Task 1: XYZ - X minutes
-_Next, go to the notification settings section of Profile_
+## UAT Task 1: Add mobile number - 3 minutes
 
-- [ ] **UAT TASK:** 
-- [ ] **UAT TASK:** 
-- [ ] Usability task:
+The first thing we’re going to do is check to see if you have a mobile number in your profile. Let’s go to the Contact information section of your profile. (Guide user if needed)
+
+- *If there is a phone number, have them remove it.*
+
+Great, now let’s go over to the notification settings section of profile. 
+- *User should see the alert prompting them to add a mobile number*
+
+Some of these next things may feel a little tedious but this will help us be sure we’ve set everything up correctly on the website. Please go ahead and click the link to add your mobile phone number.
+
+Alright, don’t enter anything, and please hit cancel.
+
+Now click the link again, and this time, hit save without entering any data.
+
+Now enter 123456789 to the field.
+
+Perfect, now delete that, and enter a valid phone number into the field, and then press cancel. You can press `yes, cancel changes` in the modal too.
+
+Alright, now click the link again to add the mobile number, and this time, enter a valid number and press cancel again. And press `No, go back to editing` in the modal.
+
+Now press save.
+
+Does the phone number look accurate here?
+
+Great, thank you! This has been helpful. Now we can move onto the next task.
+
+- [ ] **UAT TASK:** Confirm the link takes the user to the sub-task flow
+- [ ] **UAT TASK:** Confirm the cancel button takes the user back to the alert
+- [ ] **UAT TASK:** Confirm saving without data triggers the correct error message
+- [ ] **UAT TASK:** Confirm invalid number entry triggers the field validation message
+- [ ] **UAT TASK:** Confirm modal warning is triggered when data is entered, and cancel is pressed
+- [ ] **UAT TASK:** Confirm the cancel button in the modal takes the user back to the alert
+- [ ] **UAT TASK:** Confirm the return to editing button in the modal takes the user back to editing
+- [ ] **UAT TASK:** Confirm valid number save redirects person to notification settings page
+- [ ] **UAT TASK:** Confirm success message is correctly displayed on the notification settings page
+- [ ] **UAT TASK:** Confirm phone number is correctly displayed on the notification settings page
+- [ ] **Usability notes:** Did the user experience any usability hurdles or provide UX feedback?
 
 ----------------------------------------
 ## Optional Tasks
