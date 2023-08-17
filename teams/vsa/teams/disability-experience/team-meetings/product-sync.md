@@ -19,7 +19,8 @@
 - Form Validation errors priorities for team 2
    - reproduce, review priorities
    - Determine capacity to fix
-- New Benefits Portfolio project/workstream dashboard created in response to status reqeusts from stakeholders (https://dvagov.sharepoint.com/sites/vaabdvro/SitePages/Project%20Status%20Overview%20-%20OCTO%20Benefits.aspx)
+- New Benefits Portfolio project/workstream dashboard created in response to status reqeusts from stakeholders - Before offsite on Aug 29
+- (https://dvagov.sharepoint.com/sites/vaabdvro/SitePages/Project%20Status%20Overview%20-%20OCTO%20Benefits.aspx)
    -    We have organized the workstreams by the Benefits Portfolio's "Priority Bets" to show how the workstreams support achieving the bets.  There's an area below sorted by crews and teams where we will link to individual team roadmaps and sprint review documents.
    -   Please review and update status of 526 team work.  Are there workstreams that need to be added, deleted or consolidated?    
 - Priortization needed for near term Research / Design ideas
