@@ -1,4 +1,4 @@
-# Overview for moving Emergency contact and Next of kin fileds 
+# Overview for moving Emergency contact and Next of kin fields 
 
 ## Purpose
 
