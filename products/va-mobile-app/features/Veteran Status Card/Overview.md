@@ -8,8 +8,31 @@ As a Veteran with internet connectivity and as an authenticated uesr, I can disc
  
 When a Veteran calls a call center, the Veteran needs to go through a call tree, identify themselves, and start every conversation from scratch. Is there a way that the mobile app can reduce the burden on Veterans and improve their customer experience by passing some of this information to the call center?
 
-## Final MVP - 8/14/2023 ## 
- - **Post meeting changes**
+## Final MVP - confirmed and updated 8/16/2023 ## 
+
+- MVP was modified after Sprint demo on 8/16 which include Mobile Team, Mobile Team PO, and VIC
+   - Identified that photo needs to be removed
+      - Rationale - concerns with photo being abused with unncessary pictures being uploaded
+   - Other demo notes: 
+        - Need to consider handling of dishonorably discharged and their usage of this feature
+          - Raises a larger questions on how mobile app should handle app wide or at log in
+         - Discover work will be added for most-mvp work 
+          - There are discussions with the government on removing the photo as a requirement from VIC 
+    - Need to enhance UX on when the information is incorrect 
+       - We send them to the profile page but identified by UX not ideal
+       = UX prefers to have some kind of overlay and content that appears when Veteran taps 
+   - Do some discovery on photo handling to see how to see options in handling concerns
+   - Demo video is accessible through Mobile team as its password protected thus will not be included here
+   - Confirmed MVP via Slack 8/18 
+      - no photo, no link
+      - <img width="179" alt="MVP 1" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/a1256d00-e08d-4fe3-987d-e7ad47d1f809">
+      - <img width="178" alt="mvp 2" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/ae3382dc-2021-421b-88c7-42a791cadf3d">
+
+
+   
+
+
+ - **Post 8/14 meeting changes** 
    - Modifying Veteran status name / title to better set expectations - going to pull in content from Misty - to verify when she gets back 
    - Update the chevron to align with Veteran Crisis Line 
    - Add some kind of indicator that the photo can be editted 
