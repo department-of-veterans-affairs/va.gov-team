@@ -225,7 +225,7 @@ The team will consider ways to explore the value the mobile app might have in he
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Conversation%20Guide.md))
 
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Session%20Notes)
 
