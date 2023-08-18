@@ -18,11 +18,11 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
           - Raises a larger questions on how mobile app should handle app wide or at log in
          - Discover work will be added for most-mvp work 
           - There are discussions with the government on removing the photo as a requirement from VIC 
-    - Need to enhance UX on when the information is incorrect 
-       - We send them to the profile page but identified by UX not ideal
-       = UX prefers to have some kind of overlay and content that appears when Veteran taps 
-   - Do some discovery on photo handling to see how to see options in handling concerns
-   - Demo video is accessible through Mobile team as its password protected thus will not be included here
+          - Need to enhance UX on when the information is incorrect 
+             - We send them to the profile page but identified by UX not ideal
+             - UX prefers to have some kind of overlay and content that appears when Veteran taps 
+         - Do some discovery on photo handling to see how to see options in handling concerns
+   - [Demo video](https://adhocteam-us.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=us06&componentName=need-password&meetingId=U-QDJrzN-dYB68PClnOLNr2IEY2axY9JBFuOCocUi8C0-fK7i0_7_jGN29HhUKJK.RkXz6x-84bp3kPT_&originRequestUrl=https%3A%2F%2Fadhocteam-us.zoom.us%2Frec%2Fshare%2FJkdhEVE_fbSzsgcKjSNJl3Ro8c1yUvPhmpXGk-h5eb5sMX66aOa70te-66b_KKSn.tKdYUluvXH5p6ve-%3FstartTime%3D1692209220000) is accessible through Mobile team as its password protected thus will not be included here
    - Confirmed MVP via Slack 8/18 
       - no photo, no link
       - <img width="179" alt="MVP 1" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/a1256d00-e08d-4fe3-987d-e7ad47d1f809">
