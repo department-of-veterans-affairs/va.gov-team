@@ -1,8 +1,8 @@
-# Sprint 0 Product Brief- Deep Linking
+# Sprint 0 Product Brief- Deep Linking (MVP Stage-Q3)
 
 ### Problem Statement
-Today, the deep linking functionality does not exist in the Mobile App.
-We want to allow a user the ability able to follow a single link (via push notification) into a specific area within the mobile app.
+Today, the Deep Linking functionality does not exist in the Mobile App.
+We want to allow a user the ability  to follow a single link (via push notification) into a specific area within the mobile app.
 
 **What is Deep Linking?**
 
@@ -11,7 +11,7 @@ Deep links are a type of link that send users directly to an app instead of a we
 **How is this Achieved?:**
 Deep linking does this by specifying a custom URL scheme (iOS Universal Links) or an intent URL (on Android devices) that opens your app if it’s already installed. Deep links can also be set to direct users to specific events or pages, which could tie into campaigns that you may want to run.
 
-We want to send this custom URL via EXISTING push notification in the app.
+We want to send this custom URL via EXISTING push notifications in the app only (MVP).
 
 ### Current Experience
 We have no seemless way to allow the user to follow single secure link that will take them to specific area in teh mobile app.
@@ -26,12 +26,11 @@ We want to provide the veteran with the best user experience possible in order t
 
 1. Secure Messaging vs Appointments- Deep Linking via SECURE MESSAGING for MVP
 
-More volume of users was noted currently for appts, however we would like to go with secure messaging as it poses the least complication overall
+Note: Today we have volume of users was noted currently for appts, however we would like to go with secure messaging as it poses the least complication overall
 
 2. Deep Link to Indidual message in the inbox
-User receives a push notification and this will “deep link’ to an individual message in the inbox
 
-
+Flow: User receives a push notification--> Push notification "deep links" to an individual message in the inbox
 
 
 ### Assumptions and Level of Confidence
@@ -49,7 +48,7 @@ TBD
 TBD
 
 ### Technical Approach
-TBD
+Implemntation via a custom URL schema (iOS Universal Links) or an intent URL (on Android devices)
 
 
 ### Measuring success
@@ -58,17 +57,20 @@ TBD
 
 ### Open Questions
 
-Preference is to implement Deep Linking with secure messaging vs appointments. MVP- Secure Messaging (Q3) with phased approach for next steps with Deep Linking (ex: deep linking with apppts).
+1. MVP- Secure messaging or appointments?
+Client's Preference is to implement Deep Linking with secure messaging vs appointments. MVP- Secure Messaging (Q3) will start with secure messages then apply phased approach for next steps with Deep Linking (ex: deep linking with apppts).
 
-1. Are there any other expected outcomes besides the having the deep linking functionality working for one or the other? (Besides the listed below)
+2. Are there any other expected outcomes besides the having the deep linking functionality working for one or the other? 
 -Better Seamless User Experience
 
 2. Do we late mesaure conversion or retention rate increase in the app as a measure of success?
+TBD
 
 3. Will we need Content Support?
+   N/A at this time (MVP)
 
 
 
 **Important Links**
 
-Epic: https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6037
+Overall Epic: https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6037
