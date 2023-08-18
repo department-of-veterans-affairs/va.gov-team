@@ -22,7 +22,7 @@ Do you have any questions for me before we begin?
  ## Share screen and login to LOA3 account (either Login.gov or ID.me) - 5 minutes
 Great, I think we're good to move ahead. For the next step, I'll have you share you screen so we can look at VA.gov together. 
 _Once can see their screen:_ Could you now open a browser and go to VA.gov? 
-_Once they arrive at VA.gov:_ Next, could you login using -------? (either Login.gov or ID.me)
+_Once they arrive at VA.gov:_ Thank you - now I’ll have you log into the website.
 
 ## UAT Task 1: Add mobile number - 4 minutes
 
@@ -78,10 +78,10 @@ Does the page correctly show the change you made?
 
 Do you want to keep this number in your profile? If not, let’s remove it. 
 
-**Facilitator note: ***Take user through steps of removing the number from contact info page if needed, and then get them back to the notification settings page*
+**Facilitator note:** *Take user through steps of removing the number from contact info page if needed, and then get them back to the notification settings page*
 
 - [ ] **UAT TASK:** Confirm update link takes user to sub-task page
-- [ ] **UAT TASK:** Confirm phone number is correctly displayed on the notification settings page
+- [ ] **UAT TASK:** Confirm phone number is correctly displayed on the notification settings page after saving
 - [ ] **Usability notes:** Does the participant mention anything about removing the mobile number from the sub-task page?
 
 ## UAT Task 3: Update notification settings - 3 minutes
@@ -92,10 +92,9 @@ As a last step, we’d like to make sure updates to the settings on this page wo
 Have you ever made updates to any of these notifications on the page before?
 
 Ok, thank you. 
-1. Go ahead and check each checkbox.
-2. Uncheck each checkbox
+1. Go ahead and change the setting for each checkbox. If it’s checked, uncheck it, and if it’s not checked, go ahead and check it.
 
-Thank you, that was very helpful for our team. Now I just want to be sure we leave your account in the state that you want it - go ahead and check the box for any notifications that you do still want to receive.
+Thank you, that was very helpful for our team. Now I just want to be sure we leave your account in the state that you want it - go ahead and check the box for any notifications that you do still want to receive, and uncheck the box for those you do not want to receive.
 
 - [ ] **UAT TASK:** Confirm the success message displays for each notification
 - [ ] **UAT TASK:** Confirm phone number is correctly displayed on the notification settings page
