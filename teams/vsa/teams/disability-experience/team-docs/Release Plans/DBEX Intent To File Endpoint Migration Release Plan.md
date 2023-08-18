@@ -68,6 +68,8 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - Robin Garrison, @Robin Garrison
         - EVSS: Aug 17, 2023 9:47AM CT, Has existing ITF, Wichita KS
         - LH: Aug 17, 2023 10:07AM CT
+        - 2nd Test EVSS: Aug 17, 2023 @ 3:09PM CT, Has existing ITF
+        - 2nd Test LH: N/A
     - Mike Richards @Mike Richard
     - Rocio De Santiago @Rocio De Santiago - Coforma
 - [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
@@ -103,6 +105,11 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - Note any anomalies here:
         - 8/17: Discrepancy between LH monitoring (no activity) and our Dashboard. Additionally, activity picked up on our dashboard did not match the expected use case
             - Our activity picked up submit calls for `form_0966`, while related to ITF, is not necessary to monitor
+            - Determined that v1 controller is not helpful to monitor, dashboard updated
+        - 8/17: Veteran encounters "We need more information for your application" issue
+            - Communicated that this is being investigated, long-term fix in progress
+            - Used the helpdesk as a short-term fix
+        - 8/18: Confirmed via second test that ITF calls are still going to EVSS, despite feature flag   
 
 <br>
 
