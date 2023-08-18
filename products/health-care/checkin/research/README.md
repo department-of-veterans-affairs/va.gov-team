@@ -21,6 +21,7 @@
 | [Unmoderated Appointment Information Prioritization](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-09-checkin-appointment-info-prioritization) | 66 Veterans | October 2022 |
 | [Spanish Check-in & Toggle Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/Spanish) | 11 Veterans | August 2022 |
 | [Unified Check-In Generative Research Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study) | 13 Veterans | June 2023 |
+| [Remove QR Code from Poster VISN 6 Pilot (Staff Observation of Veterans)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-08%20Remove%20QR%20Code%20from%20Poster%20Pilot/findings-presentation.md) | 297 Veterans | July 2023 |
 
 
 
