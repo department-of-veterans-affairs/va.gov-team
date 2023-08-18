@@ -41,18 +41,22 @@ TBD
 TBD
 
 ### Business Goals
-TBD
-
+Allow a user the ability  to follow a single link (via push notification) into a specific area within the mobile app.
 
 ### Roadmap
-TBD
+Implement a phases approach with Deep Linking by starting with secure message implementation in the MVP stage. Next, apply a phased approach to deep linking by implementing to another area ex: appointments.
 
 ### Technical Approach
 Implemntation via a custom URL schema (iOS Universal Links) or an intent URL (on Android devices)
 
 
 ### Measuring success
-TBD
+See analytics ticket here: https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6355
+
+The following new analytics events and parameters are required to measure the efficacy of the MVP of deeplinking in Secure Messaging:
+
+1.  vama_notification_click: triggered when a user clicks any notification
+2.  parameter notification_url the link from the notification
 
 
 ### Open Questions
