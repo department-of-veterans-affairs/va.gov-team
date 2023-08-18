@@ -268,6 +268,9 @@ _"Well, it seems like they would have to review it. The idea is just a shock, I 
 _Moderator: "How do you feel about that?"_
 _"That is awesome. That is, that is way awesome. But this is just a prototype, so. But that would be cool. That would be cool because then you'd go right off the bat. Wouldn't have to sit and wait like I did wait a week thinking that everything's gonna be okay and then get your It's form sent back to you in the mail, you're not. Eligible yet because you haven't submitted this form this paperwork. It would let you know immediately. That's nice." -P9_
 
+<img width="714" alt="Screenshot 2023-08-16 at 11 13 55 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/123019973/dca45bc2-9138-468c-8c99-f0bf168d7d39">
+
+
 
 ## Additional Insights
 
