@@ -19,6 +19,7 @@ The primary goal of our UAT is to confirm that 3 updates to the Profile function
 - User adds a mobile phone number to profile from the notification settings page
 - User updates a mobile phone number to profile from the notification settings page
 - The  `default send` value is returned correctly based on user interaction in the notification API
+  - Note: if we aren’t able to recruit participants to validate this, we can use internal team member production accounts to validate for UAT. 
 
 A detailed list of test cases is available in [Google Sheets](https://docs.google.com/spreadsheets/d/1-oSUr_kFqyptbSI6jRC3O7wqk3TNDOwaWedmO3eh7FA/edit#gid=1459792507)
 
@@ -26,6 +27,8 @@ As a secondary goal, and as time allows, we’ll ask for feedback on the updates
 
 ### Outcome
 Based on the outcome of this research study, we will either release this work to production, or make updates to correct any bugs or significant usability hurdles.
+
+
 
 ### Research questions
 - Does our edit as a sub-task flow function as expected when users add or update their mobile number?
