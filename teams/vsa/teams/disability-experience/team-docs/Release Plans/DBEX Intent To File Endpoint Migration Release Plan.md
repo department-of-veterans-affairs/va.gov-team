@@ -109,7 +109,9 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
         - 8/17: Veteran encounters "We need more information for your application" issue
             - Communicated that this is being investigated, long-term fix in progress
             - Used the helpdesk as a short-term fix
-        - 8/18: Confirmed via second test that ITF calls are still going to EVSS, despite feature flag   
+        - 8/18: Confirmed via second test that ITF calls are still going to EVSS, despite feature flag
+            - Confirmed flag works when set for all users in staging, however still cannot set for a single user in staging
+            - Posted an inquiry in #vfs-evss-service-migration on how other teams set this up
 
 <br>
 
