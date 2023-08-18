@@ -227,7 +227,7 @@ The team will consider ways to explore the value the mobile app might have in he
 
 [Conversation guide](link here)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Session%20Notes)
 
 
 ### **Tools used for Synthesis**
