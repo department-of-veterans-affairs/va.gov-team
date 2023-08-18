@@ -16,7 +16,7 @@
 
 
 # Accessibility Tools Utilized
-`ZoomText` `JAWs` `iOS-VO` (List types of AT covered here)
+`iOS-VO` (List types of AT covered here)
 
 ## Coverage
 This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
@@ -35,7 +35,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P12 (example)_                   | 8/28/2023         | _VoiceOver_             | _Advanced 5/5_      | _TBD_            | _TBD_    | _TBD_      |
+| _P12_                   | 8/28/2023         | _VoiceOver_             | _Advanced 5/5_      | _TBD_            | _iPad_    | _TBD_      |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
@@ -44,11 +44,21 @@ To best serve the users of VA.gov, we will need to collect the following informa
 |                        |                  |                    |                 |                      |             |             |
 
 **Participants who successfully completed sessions: XX**
-
-**Examples below:**
-- [1 desktop JAWS user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p2.md)
-- [1 iOS VoiceOver user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p15.md)
-- [1 desktop zoom text reader user (magnification, screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p1.md)
+## Initial Notes
+### P12
+- x
+- x
+- x
+- x
+- x
+- x
+- x
+- x
+- x
+- x
+- x
+- x
+  
 
 ## Key Findings
 Add screenshots, images and videos here.
