@@ -33,7 +33,7 @@
 ## Intro - 5 minutes 
 ***(At first ONLY MODERATOR & PARTICIPANT, *not* notetaker)***
 
-Thank you for joining us today! My name is Cindy. How are you doing today?
+Thank you for joining us today! My name is [Cindy or Alexis]. How are you doing today?
 
 *(Brief conversation)*
 
