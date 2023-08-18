@@ -4,7 +4,6 @@
 
 Date: July 2023
 
-
  \
 Liz Straghalis ([Liz.Straghalis@adhocteam.us](mailto:Liz.Straghalis@adhocteam.us)), Greta Optz ([Greta.Optz@adhocteam.us](mailto:Greta.Optz@adhocteam.us)) \
  \
@@ -240,7 +239,7 @@ The team will consider ways to explore the value the mobile app might have in he
 [Link to mobile app retention dashboard ](https://docs.google.com/spreadsheets/d/16kMmtDDMDMw63UDvBavnmIRzlgooFP4WKhXV03bnbWY/edit#gid=394478712)
 
 
-## **Who we talked to**
+### **Who we talked to**
 
 
 ### Audience segment:
