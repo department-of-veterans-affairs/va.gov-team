@@ -8,10 +8,6 @@ Date: New poster pilot at VISN 6 (specifically, Asheville and Richmond) was from
 
 <br>
 
-## Background 
-
-Piloting the new poster at Asheville and Richmond was a way to capture feedback from a smaller group before rolling out nationally. The PCI team created the new poster based of feedback from the field that reported a small amount of Veterans having issues using the QR code. For example, scanning it would result in taking Veterans to an unknown web page. ([New poster release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/remove-poster-qr-code.md).)
-
 ## Goals
 
 Asheville and Richmond* participated in the pilot**, which tested a new version of the check-in poster that removed the QR code option. We expected a very small increase in check-in utilization and a decrease in complaints from Veterans to staff about issues with the QR code/poster.
