@@ -232,6 +232,7 @@ The team will consider ways to explore the value the mobile app might have in he
 
 ### **Tools used for Synthesis**
 
+[Link to Mural Board for Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Mural%20Board%20for%20Synthesis.md)
 
 ### **Secondary research**
 
