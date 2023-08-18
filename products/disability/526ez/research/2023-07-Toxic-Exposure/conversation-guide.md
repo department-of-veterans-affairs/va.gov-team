@@ -119,7 +119,7 @@ Imagine that you started this application to ask for disability compensation for
 - Where did you learn about it?
 - Does this hint text help you?
   
-### No/not sure follow-up screen
+### No follow-up screen
  
 *Allow participant to look at and answer the question on the screen.*
  
