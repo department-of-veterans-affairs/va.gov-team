@@ -12,7 +12,7 @@ Search “best bets” are suggested pages that appear in the “Our top recomme
 - Surfacing critical content that will impact a large number of Veterans or their family members and needs to be easy to find, such as a major legislative update, or information on a public health emergency
 
 ### When to consider something else
-- **Content that only affects a small number of site visitors.** Content targeted to a small audience, such as a local event or internal VA information, can take away space for larger scale information and create confusion around information that doesn’t apply to most visitors.
+- **Content pertinent to a small number or sub-set of site visitors.** Content that is relative to a small audience can take away space for more critical or larger scale information, or can create confusion around information that doesn’t apply to most visitors. This includes such things as local events, internal VA information, office links, etc.
 - **A page that already ranks within the first page of search results for related keywords.** Content that is already ranking high in search won’t gain much, if anything, from additional placement within the recommendations. 
 - **Search volume for related keywords is very low.** If site visitors are not searching for keywords related to your content, a best bet placement will not receive many impressions.
 - **Promoting a related content page.** A search best bet should not be used to promote content that is related to the keyword, but not a direct match (i.e. promoting a pension page on a disability search). Consider crosslinking within the content page and using the related content components for this.
