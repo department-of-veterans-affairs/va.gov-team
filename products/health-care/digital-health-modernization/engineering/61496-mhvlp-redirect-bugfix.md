@@ -20,7 +20,7 @@ The following conditions must be met for a user to access the MHV Landing Page a
 
 Discovered that it is necessary to use the `selectPatientFacilities` selector when accessing state, and making determinations about the types of facilities a user has visited. This selector calls `.map` on facilities and adds Cerner details to `state.user.profile.facilities`
 
-[`selectPatientFacilities`](https://github.com/department-of-veterans-affairs/vets-website/blob/a5d53c37ac6126b8facfe8217eeeb3b7603db2ae/src/platform/site-wide/drupal-static-data/source-files/vamc-ehr/selectors/index.js/#L12)
+[`selectPatientFacilities`](https://github.com/department-of-veterans-affairs/vets-website/blob/2cded15f07558188a53d52196b0ddb138327cb53/src/platform/user/selectors.js/#L27)
 
 We rely on the `mega-menu` to call `connectDrupalSourceOfTruthCerner` to request `/data/cms/vamc-ehr.json` and load facility data into state.
 
