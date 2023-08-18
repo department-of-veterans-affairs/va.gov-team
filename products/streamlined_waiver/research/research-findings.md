@@ -169,7 +169,7 @@ In the last 10 minutes of the usability study interviews, we will do a small con
     
 -   **The submission page notification with the reveal of an automatic approval will be well received and maybe even positively surprising.**
 
-    **_Maybe True_**
+    **_Likely True_**
 
        The confirmation page was originally meant to communicate to the Veteran that their selected copay debt was automatically approved. The language was updated right before the study began to "You're eligible for a waiver" by stakeholders. While this was mostly well received by participants, there was some confusion as some felt the messaging was ambiguous. Immediately after this study, the language was changed to "You're tentatively eligible for debt relief". 
 
