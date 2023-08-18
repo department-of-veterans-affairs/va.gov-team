@@ -37,4 +37,6 @@ Overall, the new poster pilot was successful because: (1) there were no concerni
 
 [Download the PCI Poster Pilot VISN 6 Findings Report (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/12383599/PCI.Poster.Pilot.VISN.6.Findings.Report.2.pdf)
 
+## Other Artifacts 
 
+[Download the analysis and feedback reported by facility staff (Excel)](https://github.com/department-of-veterans-affairs/va.gov-team/files/12383713/Patient.Check-in.Poster.Pilot.-.July.2023.xlsx)
