@@ -1,6 +1,21 @@
 
 # ICE/NOK Technical Discovery (2023/08)
 
+## 10-10EZ
+
+Currently digitized at https://www.va.gov/health-care/how-to-apply/
+
+- [10-10EZ PDF Form](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-10EZ.pdf)
+
+Relevant 10-10EZ Form Fields:
+
+- 13A. Next of Kin Name
+- 13B. Next of Kin Address
+- 13C. Next of Kin Relationship
+- 13D. Next of Kin Telephone Number
+- 14A. Emergency Contact Name
+- 14B. Emergency Contact Telephone Number
+
 ## 10-10EZR
 
 Currently being digitized by #1010-health-apps Team.
