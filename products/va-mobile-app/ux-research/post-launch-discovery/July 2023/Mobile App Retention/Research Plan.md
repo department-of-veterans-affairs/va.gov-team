@@ -219,6 +219,6 @@ Please list the people who will be serving in each role. Include the primary pho
 * Participant recruiting & screening: Perigean
 * Project point of contact: Liz Straghalis
 * Participant(s) for pilot test: Seth Eheart, seth.eheart@adhocteam.us
-* Accessibility specialist (for sessions where support for assistive technology may be needed): N/A
+* Accessibility specialist (for sessions where support for assistive technology may be needed): Brea Blackwelder
 * Note-takers: Perigean
-* Observers: TBD
+* Observers: Greta Optz, Ameet Sarkar, Holly Collier, Jen Ecker 
