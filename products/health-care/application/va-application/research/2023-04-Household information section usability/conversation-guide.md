@@ -57,7 +57,7 @@ Before we start, a few things I want to mention:
 
 ## Task: [Start Application] - 5 minutes
 
-- For this session today, we are going to work through the scenario that you are interested in applying for VA health care. Please use your own information, except for your social security number. For that number, make one up. You'll be able to submit the application, but it won't be a real application, so it won't be processed by the VA.
+- For this session today, we are going to work through the scenario that you are interested in applying for VA health care. Please use your own information, except for your social security number. For that number, make one up. You'll be able to submit the application, but it won't be a real application, so it won't be processed by the VA. Also, in this case you won't log in with your VA user account.
 
 - You arrive at [this page](https://staging.va.gov/health-care/apply/application/introduction). Please explain what the content on this page means to you and what you would do next.
 
