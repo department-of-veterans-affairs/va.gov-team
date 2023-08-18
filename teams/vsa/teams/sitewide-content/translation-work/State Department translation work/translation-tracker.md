@@ -14,5 +14,5 @@
 | BTSSS JSON text messages for travel pay | |	Modernized check-in | |	Spanish | 7/27/2023 |
 | BTSSS JSON text messages for travel pay |	| Modernized check-in | |	Tagalog | 7/27/2023 |
 | Updates to [Eligibility for VA disability benefits](https://www.va.gov/disability/eligibility/) | LS-2022-0118394 | CAIA | [55192](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/55192) | Spanish | 8/11/23 |
-| PACT Act updates for end of deadline | LS-2022-0118394 | CAIA | | Spanish | 8/15/23 |
-| PACT Act updates for end of deadline | LS-2022-0118394 | CAIA | | Spanish | 8/15/23 |
+| PACT Act updates for end of deadline | LS-2022-0118394 | CAIA | ASAP | Spanish | 8/15/23 |
+| PACT Act updates for end of deadline | LS-2022-0118394 | CAIA | ASAP | Spanish | 8/15/23 |
