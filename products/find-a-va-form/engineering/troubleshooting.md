@@ -7,13 +7,27 @@
 | Cause | Looks like | Mitigation | 
 -- | -- | --
 | **vets-api latency** (broad-scale) | Big batches of "Bad PDF link" emails going to Forms manager <br/><br/>Spikes in Sentry errors, [Forms report](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?id=19&project=4&statsPeriod=7d). | Below: contact Platform Support for help. |
+| **API rate limits** | Spikes in Sentry errors, with 429 error message in the logs, [Forms report](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?id=19&project=4&statsPeriod=7d). | Below: request API rate limit increase. |
 | **Data sync issues from CMS > Lighthouse** | No CMS data flags on Forms content, but errors in the Forms search UI on va.gov.<br/><br/>Underlying cause may be vets-api latency, or failed sidekiq job | Below: contact Platform Support / Lighthouse for help. |
 | **Data entry errors in the Forms DB** | Individual forms in the CMS get flagged as Deleted for Name Changed. <br/><br/>Forms in the Forms DB do not appear in the CMS after migration. | Below: contact the correct Forms Manager to correct the data upstream in the Forms DB. <br/><br/>Verify that [Forms migration](https://prod.cms.va.gov/admin/structure/migrate/manage/forms/migrations) does not display any Messages. Rerun if yes, contact Forms Mgr if no.|
 
-### Contact Platform support or Lighthouse
+### Contact Platform support 
 - Visit #vfs-platform-support, use the Platform support workflow, to request assistance, e.g. https://dsva.slack.com/archives/CBU0KDSB1/p1660066854784409
-- Ask them to explore vets-api latency. 
-- If vets-api latency is not an issue, the issue may be due to data import from CMS > Lighthouse. This migration is handled by a Sidekiq job, `VAForms::FetchLatest` (may also be referred to as `VAForms::FormReloader`). Kristen Brown and Matt Kelly in DSVA slack are on the team that owns this Sidekiq job and can inspect logs or rerun the job. 
+- Ask them to explore vets-api latency.
+
+### Contact Lighthouse Forms team
+If vets-api latency is not an issue, the issue may be due to data import from CMS > Lighthouse. This migration is handled by a Sidekiq job, `VAForms::FetchLatest` (may also be referred to as `VAForms::FormReloader`). The Lighthouse Forms team owns the Sidekiq job.
+
+You can reach the Lighthouse Forms team in #va-forms in DSVA slack. @ Kristen Brown and Matt Kelly who can confirm the Sidekiq job is running correctly and can inspect logs or rerun the job. 
+
+### Request API limit increase
+If 429 errors occur in Datadog or Sentry, this indicates that traffic is high and we are being throttled by an API rate limit / requests are being rejected. We can request API limit increases for specific endpoints, and the Lighthouse Forms team can help expedite approvals. to do this:
+1. Ping #va-forms in DSVA slack, and explain the issue / what you're seeing to the Lighthouse Forms team.
+2. LH Forms can provide specifics on what endpoint will need to be increased for limit, and what the current limit is. They can also help suggest the new limit. If you already know this info, skip to 3.
+3. Visit https://developer.va.gov/support/contact-us. Fill out the form with endpoint, limit, and limit increase information/
+4. Share with #va-forms that request is made. Lighthouse team can then help expedite approval.
+
+Typically, we may want to reduce the limit again after traffic spikes end. If that's true, create a ticket to track requesting the lower limit. 
 
 --- 
 ## Symptom: Reports of Bad PDF link emails
