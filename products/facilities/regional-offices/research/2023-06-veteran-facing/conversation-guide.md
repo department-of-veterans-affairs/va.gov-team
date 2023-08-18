@@ -67,7 +67,7 @@ Before we start, I want to go over a few things:
   - Knowing this, **would you be comfortable if we decided to use a clip of our session** with you to help our partners understand Veteran's experiences?
   - *(If yes:)* Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-*Start recording to the cloud.*
+*Select Record, then Record to the cloud.*
 
 *(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session?
 
