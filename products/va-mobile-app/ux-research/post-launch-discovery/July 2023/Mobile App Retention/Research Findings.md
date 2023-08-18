@@ -15,7 +15,7 @@ Research readout: [Final Report](https://github.com/department-of-veterans-affai
 [Hypothesis and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Mural%20Board%20for%20Synthesis.md)
 
  
-Key findings
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Mural%20Board%20for%20Synthesis.md)
 
 
 ### 
