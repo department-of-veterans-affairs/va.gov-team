@@ -44,4 +44,15 @@
   Most of the work here is going to be (I think) actually handling the flipper based roll out of this. 
 
      
-     
+## How to Test
+    1. make sure you have the npm package `pem-jwk` (docs)[https://www.npmjs.com/package/pem-jwk].  you will need this to generate credentials for lighthouse's api
+        - `npm install -g pem-jwk`
+    2. (Follow the steps here to get temporary access to Lighthouses test API)[https://developer.va.gov/explore/api/benefits-documents/sandbox-access].  The following will generate a key and copy it to your clipboard, or just follow the docs
+        - `openssl genrsa -out private.pem 2048 && openssl rsa -in private.pem -outform PEM -pubout -out public.pem && pem-jwk public.pem > public.jwk && cat public.jwk | pbcopy``
+    3. fill out the access request and paste in your temp creds
+    4. copy your temp OAuth ID key and paste it into... where?
+    5. Enable the appropriate flipper
+        - `Flipper.enable(:disability_compensation_lighthouse_document_service_provider)`
+    6. TODO: run a the service locally
+        - command line?
+        - click through?
