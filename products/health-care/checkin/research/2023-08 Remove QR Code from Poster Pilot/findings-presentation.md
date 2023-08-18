@@ -10,15 +10,15 @@ Piloting the new poster at Asheville and Richmond was a way to capture feedback 
 
 Asheville and Richmond* participated in the pilot**, which tested a new version of the check-in poster that removed the QR code option. We expected a very small increase in check-in utilization and a decrease in complaints from Veterans to staff about issues with the QR code/poster.
 
-**Was there a noticeable increase in Veterans using the new check-in poster from staff observations? And, what were those encounters like for Veterans?**<br/>
+**1) Was there a noticeable increase in Veterans using the new check-in poster from staff observations? And, what were those encounters like for Veterans?**
 
-**Was there a realized increase in Veterans using the new check-in poster (i.e., through the Patient Check-in Dashboard)?**<br/>
+**2) Was there a realized increase in Veterans using the new check-in poster (i.e., through the Patient Check-in Dashboard)?**
 
 **3) Was there an increase in complaints from Veterans to staff, specifically, about the new check-in poster?**  
 
-* *Piloting the new poster at Asheville and Richmond was a way to capture feedback from a smaller group before rolling out nationally. The PCI team created the new poster based of feedback from the field that reported a small amount of Veterans having issues using the QR code. For example, scanning it would result in taking Veterans to an unknown web page. ([New poster release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/remove-poster-qr-code.md).)*
+**Piloting the new poster at Asheville and Richmond was a way to capture feedback from a smaller group before rolling out nationally. The PCI team created the new poster based of feedback from the field that reported a small amount of Veterans having issues using the QR code. For example, scanning it would result in taking Veterans to an unknown web page. ([New poster release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/remove-poster-qr-code.md).)*
 
-** *This report includes data from all stations at Asheville and Richmond. However, at the time this report was created, we’re unsure how many stations and clinics actually used the new poster.*
+ ***This report includes data from all stations at Asheville and Richmond. However, at the time this report was created, we’re unsure how many stations and clinics actually used the new poster.*
 
 ## Conclusions and Next Steps
 
