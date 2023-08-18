@@ -102,7 +102,7 @@ Before we start, a few things I want to mention:
 
 
 
-## Task: [Step 2: VA Benefits] - 3 minutes
+## Task: [Step 2: VA Benefits] - 3 minutes (skip/select no if time crunched)
 - Continue completing the questions in the section of the form.
 
 
@@ -125,7 +125,7 @@ Before we start, a few things I want to mention:
 
 
 
-## Task: [Step 3: Military Service / Upload Document] - 3 minutes
+## Task: [Step 3: Military Service / Upload Document] - 3 minutes (skip/select no if time crunched)
 
 - Can you please explain the instruction on this page? We won't actually be uploading a file today but walk me through your process if you were to complete this question.
 - Can you tell me more about what you would have to do to get this document and complete this task?
@@ -223,7 +223,7 @@ Before we start, a few things I want to mention:
 - [Does the participant indicate it would take a significant amount of time and delay the application to answer any of these questions?]
 
 
-## Task: [Step 5: Insurance Information] - 3 minutes
+## Task: [Step 5: Insurance Information] - 3 minutes (skip/select no if time crunched)
 
 - Please explain what this section of the form means to you as you work through answering the questions.
 
@@ -232,7 +232,7 @@ Before we start, a few things I want to mention:
 - [Do the medicaid and medicare questions cause pause or confuse the participant?]
 
 
-## Task: [Step 5: Insurance Information / Facilities] - 2 minutes
+## Task: [Step 5: Insurance Information / Facilities] - 2 minutes (skip/select no if time crunched)
 
 - What are your impressions of what this page is asking for and why it is needed for this application?
 
