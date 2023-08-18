@@ -255,71 +255,71 @@ The team will consider ways to explore the value the mobile app might have in he
 
 
 
-* Male: x
-* Female: x
+* Male: 6
+* Female: 11
 
 
 ### LGBTQ+:
 
 
 
-* Transgender: x
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 0
 
 
-### Devices used during study:
+### Mobile OS used during study: 
 
 
 
-* Desktop: x
-* Tablet: x
-* Smart phone: x
-* Assistive Technology: x
+* Android: 11
+* iOS: 6
+* Mobile Devices: 17
+* Assistive Technology: 2
 
 
 ### Age:
 
 
 
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 3
+* 35-44: 9
+* 45-54: 0
+* 55-64: 2
+* 65+: 3
+* Unknown: 0
 
 
 ### Education:
 
 
 
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 0
+* Some college (no degree): 2
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 8
+* Master's degree: 5
+* Doctorate degree: 0
+* Unknown: 0
 
 
 ### Geographic location:
 
 
 
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 12
+* Rural: 5
+* Unknown: 0
 
 
 ### Race:
 
 
 
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
+* White: 2
+* Black: 6
+* Hispanic: 4
+* Biracial: 3
 * Asian: x
 * Native: x
 
@@ -332,7 +332,7 @@ The team will consider ways to explore the value the mobile app might have in he
 * AT beginner: x
 * AT advanced user: x
 * Desktop screen reader: x
-* Mobile screen reader: x
+* Mobile screen reader: 1
 * Magnification/Zoom: x
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
 * Hearing aids: x
