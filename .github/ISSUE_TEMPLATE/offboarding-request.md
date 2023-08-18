@@ -44,15 +44,17 @@ _The following steps are performed by the **Platform Support** team. Detailed in
    > A comment on this ticket prefixed with `/request` (i.e. `/request FirstName LastName`) will send a message to the Slack admins automatically!
  - [ ] Requested removal from Confluence (if applicable. Check [confluence members](https://vfs.atlassian.net/wiki/people/search?q=))
  - [ ] Remove from [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=0) (if applicable)
- - [ ] Remove from global/config.yml / SOCKS Access removed (if applicable. Search their email in [config.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/global/config.yml))
-   > Use the [Remove SOCKS and AWS access Github Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml) to create a PR to update the `global/config.yml` file and remove the public SSH key. You'll need the user's email address associated with their public key (found in `config.yml`).
- - [ ] AWS Access removed  (if applicable. Search their name in [AWS IAM](https://console.amazonaws-us-gov.com/iamv2/home#/home))
-   > Use the [Remove SOCKS and AWS access Github Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml) to remove user's entry from DSVA AWS. You'll need the user's AWS username (typically `First.Last`).
+ - [ ] SOCKS access removed (if applicable. Search their email in [config.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/global/config.yml))
+   > Use the [Remove SOCKS and AWS access Github Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml). You'll need the user's email address associated with their public key (found in `config.yml`). Merge the PR.
+ - [ ] AWS access removed (if applicable. Search their name in [AWS IAM](https://console.amazonaws-us-gov.com/iamv2/home#/home))
+   > Use the same [SOCKS and AWS access Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml) to remove user's entry from [iam_users.tf](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/iam_users.tf). You'll need the user's AWS username (typically `First.Last`). Merge the PR and apply Terraform.
  - [ ] User removed from the VA GitHub Org (if applicable. Check [department-of-veterans-affairs/people](https://github.com/orgs/department-of-veterans-affairs/people))
    > Fill out request found [here](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=&labels=remove-user&template=user-remove.yml&title=Remove+User+from+Org%3A+%5Busername%5D).
  - [ ] Pagerduty access removed (if applicable. Check [pd users](https://dsva.pagerduty.com/users-new))
- - [ ] [Okta account](https://vfs.atlassian.net/wiki/spaces/OT/pages/2532508159/Offboarding+users+from+Okta) disabled (if applicable)
- - [ ] [Datadog account](https://vfs.atlassian.net/wiki/spaces/OT/pages/2526282894/Offboarding+Users+from+Datadog) disabled (if applicable. Check [Datadog users](https://vagov.ddog-gov.com/organization-settings/users))
+ - [ ] [Okta account](https://vfs.atlassian.net/wiki/spaces/OT/pages/2532508159/Offboarding+users+from+Okta) disabled
+ - [ ] Datadog (if applicable. Check [Datadog users](https://vagov.ddog-gov.com/organization-settings/users))
+    - [ ] Disable in Datadog UI
+    - [ ] [Submit a DOTS request](https://vfs.atlassian.net/wiki/spaces/OT/pages/2526282894/Offboarding+Users+from+Datadog)
  - [ ] Sentry access removed (if applicable. Check [Sentry members](http://sentry.vfs.va.gov/settings/vsp/members/))
  - [ ] TestRail access removed (if applicable, Check [TestRail User List](https://dsvavsp.testrail.io/index.php?/admin/users/overview))
  - [ ] Google analytics and Domo access removed (if applicable. Make sure the `analytics-insights` label is on this Issue)
