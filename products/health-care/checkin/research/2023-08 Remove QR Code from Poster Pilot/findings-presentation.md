@@ -2,6 +2,12 @@
 
 Date: New poster pilot at VISN 6 (specifically, Asheville and Richmond) was from July 10-31, 2023
 
+**Jump to:**
+
+[Findings Presentation](#findings-presentation)
+
+<br>
+
 ## Background 
 
 Piloting the new poster at Asheville and Richmond was a way to capture feedback from a smaller group before rolling out nationally. The PCI team created the new poster based of feedback from the field that reported a small amount of Veterans having issues using the QR code. For example, scanning it would result in taking Veterans to an unknown web page. ([New poster release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/remove-poster-qr-code.md).)
