@@ -1,7 +1,7 @@
 # Account security: User views and completes tasks
-**Last updated:** February 9, 2023
+**Last updated:** August 18, 2023
 
-- Once users have verfied their identity, users can add 2-factor authentication to their account, view terms and conditions for health tools (in some cases), and find a link to their sign in service (eg. ID.me) to manage their sign in information.
+- Once users have verfied their identity, users can add 2-factor authentication to their account and find a link to their sign in service (eg. ID.me) to manage their sign in information.
 
 ## UX
 ### Link to sign in service
@@ -18,14 +18,6 @@
 - This uses the [process list component](https://design.va.gov/components/process-list) from the VA design system. A numeral will appear if it hasn't been completed, and a checkmark will appear if it has been completed.
 - [2-factor authentication, not completed](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/Jn41Kgk)
 - [2-factor authentication completed](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/3OYm1ew)
-
-### Terms and conditions
-- Whether or not terms and conditions shows depends on a few factors including if the user is LOA3 and if they have a My HealtheVet account.
-- If someone has not agreed to terms and conditions, there will not be a checkmark next to the section. 
-- Clicking the link will bring the user to the [Terms and conditions for medical information page](https://staging.va.gov/health-care/medical-information-terms-conditions/).
-- This uses the [process list component](https://design.va.gov/components/process-list) from the VA design system. A numeral will appear if it hasn't been completed, and a checkmark will appear if it has been completed.
-- [Terms and conditions, not completed](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/v/d5bDJn/a/3OYm1ew)
-- [Terms and conditions, completed](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/Gm030dY)
 
 
 ## Codes
