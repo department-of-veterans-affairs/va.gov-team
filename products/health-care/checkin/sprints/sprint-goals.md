@@ -36,11 +36,15 @@ ________________________________________________________________________________
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Pull out Wireframes for Releases 3-6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62963)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Pull out Wireframes for Releases 7-9](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62964)
         - **EPIC: [Unified Check-in: Release 2 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-            - [[FE] Pre-Check-in & Day-of Landing Page: Display all Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62103)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Pre-Check-in & Day-of Text Messages: Update the Text Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62099)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Landing Page: Display all Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62103)
                 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Create upcoming appointments component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62227)
-                - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Update refreshPreCheckIn to fetch upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62228)
-                - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] Update initateCheckIn to fetch upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62229)
+                - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Update refreshPreCheckIn to fetch upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62228)
+                - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Update initateCheckIn to fetch upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62229)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Landing Page: Display the Next Task for "What to do next"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62138)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Pre-Check-in & Day-of Completion Page: Content & Link Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62111)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Pre-Check-in & Day-of Details Page: Add for Pre-Check-in & Update Content for Primary Button](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62102)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Pre-Check-in - No Longer Available Page: Update Content & Accordion Behavior](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62123)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62848)      
