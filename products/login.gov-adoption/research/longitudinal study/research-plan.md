@@ -68,8 +68,8 @@ Participant characteristics should be distributed in a manner offering diversity
 For each group, recruitment should aim to get 2 per segment:
 - Active credentials (people who use Login.gov or ID.me to sign in)
 - Inactive credentials (people with Login.gov or ID.me but who do not use them)
-- Newly Transitioned (Veterans who have just transferred out of service)
-- No modern credentials, does not have Login.gov or ID.me
+- Newly Transitioned (Veterans who have just transferred out of service < 1 year ago and have not used a credential for more than 1 year)
+- No modern credentials (does not have Login.gov or ID.me)
 - All participants must be Veterans
 - All have a computer or smartphone and must be willing to be complete their session on one of those devices
 - Comfortable with engaging in a group setting
