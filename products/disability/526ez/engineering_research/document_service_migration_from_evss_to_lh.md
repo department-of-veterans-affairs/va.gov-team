@@ -44,7 +44,7 @@
   Most of the work here is going to be (I think) actually handling the flipper based roll out of this. 
 
      
-## How to Test
+## How to Test Locally
     1. make sure you have the npm package `pem-jwk` (docs)[https://www.npmjs.com/package/pem-jwk].  you will need this to generate credentials for lighthouse's api
         - `npm install -g pem-jwk`
     2. (Follow the steps here to get temporary access to Lighthouses test API)[https://developer.va.gov/explore/api/benefits-documents/sandbox-access].  The following will generate a key and copy it to your clipboard, or just follow the docs
@@ -56,3 +56,19 @@
     6. TODO: run a the service locally
         - command line?
         - click through?
+
+## Action Items
+- Code updates - WIP
+    - Put in place calls to new services in flippers
+        - all done except `EVSS::DisabilityCompensationForm::SubmitForm0781`
+        - update specs that specifically reference EVSS classes, e.g.  `spec/requests/documents_spec.rb`
+- test locally - TODO
+    - will possibly require coordination with devs actually updating the lighthouse service to ensure they have ironed out the kinks
+- develop roll out plan - TODO
+    - TODO: VA has templates for this?
+        - Testrail seems relevant, since QA will be important.  (VA doc on that here)[https://depo-platform-documentation.scrollhelp.site/developer-docs/create-a-project-in-testrail]
+        - Seems we have a shared access situation.  A Testrail flow will almost certainly be part of this deploy.
+            - do we have one? 
+    - TODO: check with Mark Chae, he has done this recently and has an example we can use
+        - (his existing roll out plan.  Square our intent with this)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Intent%20To%20File%20Endpoint%20Migration%20Release%20Plan.md]
+    - TODO: determin deliverable for ticket?  Are we initiating the roll out?
