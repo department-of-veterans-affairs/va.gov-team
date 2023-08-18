@@ -1,10 +1,19 @@
 # About this Research Study
-- **Study Name:** Project Name (ex. MHV Authenticated Experience)
-- **Study Dates:** (can be month study was held or specific)
-- **Study Research Lead:**
-- **A11y Collaborators:**
-- **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
-- **Ticket Links:** EPIC and/or CAIA research assistance request ticket
+- **Study Name:** Project Name Core Identity Team, Terms of Use Research (Figma prototype)
+- **Study Dates:** August 2023
+- **Study Research Lead:** Clayton Zook/Core Identity Team
+- **Slack Channel:**  #identity-ux channel
+- **A11y Collaborators:** Sara, Jamie and Kate
+- **Related Docs:**
+    - Product outline: [Product info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/f180bf496a0b9b06b71770f20a4091a3b9bc7b04/products/identity/terms%20and%20conditions)
+    - User flows: [User flow in Figma](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&node-%5B=&node-id=58-976&starting-point-node-id=1%3A493&show-proto-sidebar=1)
+    - Prototype or mockups: [User flow in Figma](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&node-%5B=&node-id=58-976&starting-point-node-id=1%3A493&show-proto-sidebar=1)
+    - Research plan: [Research Folder in GH](https://github.com/department-of-veterans-affairs/va.gov-team/tree/91db02e7caf27417583e829894628cb7b3753e50/products/identity/Research/2023-07%20Terms%20of%20Use)
+   - [Research conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-07%20Terms%20of%20Use/2023-08%20Terms%20of%20Use%20conversation%20guide.md) 
+- **Ticket Links:** EPIC and/or CAIA research assistance request ticket:
+    - Research Request [GitHub Ticket #62359](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62359)
+    - [Epic] CAIA Intake: Core Identity Team [GitHub Ticket #62354](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62354)
+
 
 # Accessibility Tools Utilized
 `ZoomText` `JAWs` `iOS-VO` (List types of AT covered here)
@@ -26,7 +35,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
+| _P12 (example)_                   | 8/28/2023         | _VoiceOver_             | _Advanced 5/5_      | _TBD_            | _TBD_    | _TBD_      |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
