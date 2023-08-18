@@ -8,7 +8,7 @@ Date: July 2023
  \
 Liz Straghalis ([Liz.Straghalis@adhocteam.us](mailto:Liz.Straghalis@adhocteam.us)), Greta Optz ([Greta.Optz@adhocteam.us](mailto:Greta.Optz@adhocteam.us)) \
  \
-Research readout: (insert link) \
+Research readout: [Final Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/final%20report.md) \
  \
 **Jump to:** \
  \
