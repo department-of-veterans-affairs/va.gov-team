@@ -20,7 +20,8 @@
 ## Open Questions
   - There is some complexity around the difference between how EVSS received documents and how LH does.  Via Andrew Herzberg: ("just to give an idea of the changes, the document parameter as well as the file have to be uploaded as files in the request body while EVSS has the document parameters as query params.")[https://dsva.slack.com/archives/C04KHCT3ZMY/p1692294706475599?thread_ts=1692294169.089089&cid=C04KHCT3ZMY]
   - PR-1 from step two creates two 'sets' of objects.  Roughly speaking, they are the `LighthouseDocuments` objects and the `BenefitsDocuments` objecs.  (See this git diff for context)[https://github.com/department-of-veterans-affairs/vets-api/pull/13090/files].  The first, `LighthouseDocuments` seems like a very clear successor to it's EVSS counterpart, `EvssClaimDocument`s.  File for file, and object for object, it seems like a the new `LighthouseDocument`s object group will be replacing the `Evss::ClaimDocument`s.  So what are `BenefitsDocuments` for?  Are they a part of this switch over?
-  - I'm 90% sure that we have a LH staging endpoint to test against.  
+  - I'm 90% sure that we have a LH staging endpoint to test against.
+
 
 
 ## Observations
@@ -58,13 +59,16 @@
         - click through?
 
 ## Action Items
-- Code updates - WIP
+-[ ] Code updates - WIP
     - Put in place calls to new services in flippers
-        - all done except `EVSS::DisabilityCompensationForm::SubmitForm0781`
-        - update specs that specifically reference EVSS classes, e.g.  `spec/requests/documents_spec.rb`
-- test locally - TODO
+        - DONE
+    - Add flipper to Document model where one exists for the service (the LH API expects a `LighthouseDocument`, not the old `EVSSClaimDocument`)
+    - Verify that  `evss_claim_id` on the `EVSSClaimDocument` model is logicially equivalent to `file_number` on the `LighhouseDocument` model.  ATM the code has a 1 to 1 swap out, and if they are used in the same way it would be great to keep it this way.  However this needs to be validated.
+    - Review and resolve all comments marked with a `[wipn8923]`.  These park points of interest and potential questions or action items discovered while performing a naive first pass of the code.
+    - Probably update specs that specifically reference EVSS classes, e.g.  `spec/requests/documents_spec.rb`
+-[ ] test locally - TODO
     - will possibly require coordination with devs actually updating the lighthouse service to ensure they have ironed out the kinks
-- develop roll out plan - TODO
+-[ ] develop roll out plan - TODO
     - TODO: VA has templates for this?
         - Testrail seems relevant, since QA will be important.  (VA doc on that here)[https://depo-platform-documentation.scrollhelp.site/developer-docs/create-a-project-in-testrail]
         - Seems we have a shared access situation.  A Testrail flow will almost certainly be part of this deploy.
