@@ -55,17 +55,17 @@ We conducted hour-long moderated semi-structured interviews, including one task-
 
 ## Hypotheses and Conclusions
 1. We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
-   i. TRUE: 8 out of 12 Veteran participants either had no understanding of what a Priority Group was, or were only somewhat familiar with the term and their associated benefits.
+   1. TRUE: 8 out of 12 Veteran participants either had no understanding of what a Priority Group was, or were only somewhat familiar with the term and their associated benefits.
 2. We assume that Veterans want more information about Priority Groups and transparency about how that impacts their eligibility and benefits.
-   i. TRUE: 10 out of 12 Veterans
+   1. TRUE: 10 out of 12 Veterans
 3. We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between that could impact their enrollment and Priority Group placement.
-   i. MAYBE TRUE: Several Veteran participants conflated the disability claim process with the health care enrollment process. Because disability rate is important for some Priority Groups and not for others, it's difficult to come to an 
+   1. MAYBE TRUE: Several Veteran participants conflated the disability claim process with the health care enrollment process. Because disability rate is important for some Priority Groups and not for others, it's difficult to come to an 
 4. We assume there is a desire from Veterans for the Priority Group placement to be more clear as it pertains to benefits, copays, costs and travel reimbursement.
-   i. MAYBE TRUE: Most Veterans responded positively to the idea of Priority Group info being more conveniently placed and more clear, but some were ambivalent or did not consider Priority Group info important to their own access of health care benefits.
+   1. MAYBE TRUE: Most Veterans responded positively to the idea of Priority Group info being more conveniently placed and more clear, but some were ambivalent or did not consider Priority Group info important to their own access of health care benefits.
 5. We assume that Veterans would like to update their financial information online if it was available but need a clear way to be communicated to or notified that they have to do so.
-   i. TRUE: All 12 participants responded that they would prefer notification (email, push notifications in the app, a letter) to update their financial information if/when they needed to do so.
+   1. TRUE: All 12 participants responded that they would prefer notification (email, push notifications in the app, a letter) to update their financial information if/when they needed to do so.
 6. We think that Veterans will go to the VA profile to update personal information like financial updates annually.
-   i. TRUE: 11 out of 12 Veterans navigated to or mentioned the VA Profile when prompted to go to the part of VA.gov where they would expect to update financial information.
+   1. TRUE: 11 out of 12 Veterans navigated to or mentioned the VA Profile when prompted to go to the part of VA.gov where they would expect to update financial information.
 
 
 ## Key Findings
@@ -129,14 +129,51 @@ Depending on a Veteran’s disability rating (ex: if their rating is high) they 
 > _Supporting data: "I don’t think my income is sufficient enough to impact anything."_
 
 
+**There's a blurry line between disability benefits and health care benefits**
+
+Labels: label 1, label 2 
+
+Veterans conflated disability benefits and the disability compensation process with health care benefits and the healthcare application process, especially when it related to Priority Groups.
+
+> _Supporting data: "They gave me my VA disability and my healthcare came with it. I think I filled out the application online and it was pretty painless from what I remember.”_
+
+> _Supporting data: “I’m guessing that priority group is based off disability rating, but I wouldn't even know where to find that. I assume the more disabled you are, the more priority you have.”_
+
+
+**More explanation needed for Priority Groups**
+
+Labels: label 1, label 2 
+
+Veterans would benefit from convenient placement of their Priority Group number as well as additional explanation about how priority groups work and what benefits are available to them.
+
+> _Supporting data: "I don’t know what they are. I think word of mouth someone mentioned there is a certain priority group that will allow you to schedule appointments online and some that will not, but I don't know if that is correct. I learn a lot about the VA is from word of mouth. The website just has a lot of information and it can be a lot."_
+
+> _Supporting data: "I think it said I was a Priority 1 based on my rating. Maybe some parts of the country it carries more weight than others. Based on the other priorities, maybe it gets me seen sooner? I don’t recall what I read about that."_
+
+
+**Veterans want a more robust online experience**
+
+Labels: label 1, label 2 
+
+Veterans expressed enthusiasm for the current online options available, such as applying for health care benefits online or utilizing the VA app to read messages from providers. But they also expressed a desire for more flexibility and functionality within these online services.
+
+> _Supporting data: "Having the stuff online is incredible because it makes it so easy for you to do yourself.”_
+
+> _Supporting data: “I would love if everything went through the app. I don’t go anywhere without my phone.”_
+
+> _Supporting data: “For my name change, I couldn’t complete it online. Had to call in and mail a bunch of stuff. There was no insight given into the name change process…it just happened without notification. It would be good to get more communications online."_
+
+
+
+
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+* Veterans rely heavily on word-of-mouth and in-person assistance for application process
+* Veterans can have challenges with facilities — there can be a high burden on Veterans when they first enroll, shuffling them from facility to facility to cover their first appointment(s)
+* There's a confusing post-enrollment process
 
 
 ## Recommendations
-
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
 * Provide a clear access point on the VA.gov Profile to update health enrollment information, including financial information.
    * VA.gov Profile access point is in addition to other VA.gov cross linking opportunities.
@@ -152,11 +189,11 @@ We will work with the rest of the 1010 team, our stakeholders, and the Authentic
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-plan.md))
 
-[Conversation guide](link here)
+[Conversation guide]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/conversation-guide.md))
 
-[Interview transcripts](link here)
+[Interview transcripts]((https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/transcripts))
 
 
 ## Tools used for Synthesis
