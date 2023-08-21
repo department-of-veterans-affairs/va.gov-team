@@ -1,14 +1,14 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+# [2023-06-Priority Group and Financial Disclosure] Research Findings 
 
----
+**Office of the CTO - Digital Experience (OCTO-DE), 10-10EZR, 1010 Team**
 
-# [Study] Research Findings 
+Date: 07/2023
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
-
-Date: MM/DD/YYYY
-
-[Designer 1] [email], [Designer 2] [email]
+**Designers**
+- Jessica Stump (jessica.stump@adhocteam.us)
+- David Kennedy (david.kennedy@adhocteam.us)
+- Hieu Vo (hieu.vo@agile6.com)
+- Katelyn Caillouet (katelyn.caillouet@agile6.com) 
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -29,42 +29,43 @@ _Once you've presented your research readout to your team, if you have a deck, i
 <br>
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) can both impact a Veteran's eligibility and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbursement in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to provide personal, financial or insurance information updates after enrollment.
 
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
+The outcome of this generative research study will help in understanding the Veteran's mental model around health care benefits as it pertains to understanding and maintaining those benefits - specifically around awareness of their Priority Group and that impact as well as updating financial information after initial enrollment.
 
 
 ## Research Questions
+# Understanding of health care benefits
+- What are Veteran's understanding of what benefits they will get and the cost to them when enrolling for health care benefits?
+- What are Veteran's understanding of what benefits they will get and the cost to them after enrollment?
+- What are the Veteran's current pain points with how the health care application impacts the overall health care journey?
+- What is the Veterans mental model of eligibility and Priority Groups around their benefits and costs?
+# Priority groups
+- Do Veterans seem confused by Priority Group transparency prior to applying for enrollment?
+- Do Veterans know their know Priority Group easily or do they just know they are enrolled?
+- What is the communication and education process around Priority Groups like from the Veteran's perspective today? (current state)
+- Where do Veterans call out as their preferred way to view their Priority Group information?
+# Updating information
+- How would Veterans like to go about providing updated information - such as financial information or dependents - that could impact their health care benefits after enrollment?
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
 
 ## Methodology 
-
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+We conducted hour-long moderated semi-structured interviews, including one task-based scenario, on Zoom from July 27-August 9, 2023.
 
 
 ## Hypotheses and Conclusions
-
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+1. We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
+   i. TRUE: 8 out of 12 Veteran participants either had no understanding of what a Priority Group was, or were only somewhat familiar with the term and their associated benefits.
+2. We assume that Veterans want more information about Priority Groups and transparency about how that impacts their eligibility and benefits.
+   i. TRUE: 10 out of 12 Veterans
+3. We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between that could impact their enrollment and Priority Group placement.
+   i. MAYBE TRUE: Several Veteran participants conflated the disability claim process with the health care enrollment process. Because disability rate is important for some Priority Groups and not for others, it's difficult to come to an 
+4. We assume there is a desire from Veterans for the Priority Group placement to be more clear as it pertains to benefits, copays, costs and travel reimbursement.
+   i. MAYBE TRUE: Most Veterans responded positively to the idea of Priority Group info being more conveniently placed and more clear, but some were ambivalent or did not consider Priority Group info important to their own access of health care benefits.
+5. We assume that Veterans would like to update their financial information online if it was available but need a clear way to be communicated to or notified that they have to do so.
+   i. TRUE: All 12 participants responded that they would prefer notification (email, push notifications in the app, a letter) to update their financial information if/when they needed to do so.
+6. We think that Veterans will go to the VA profile to update personal information like financial updates annually.
+   i. TRUE: 11 out of 12 Veterans navigated to or mentioned the VA Profile when prompted to go to the part of VA.gov where they would expect to update financial information.
 
 
 ## Key Findings
@@ -73,19 +74,18 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+1. Veterans expect to update their financial info in the VA Profile
 
-2. Finding two
+2. Veterans want notifications to update financial information
 
-3. Finding three
+3. Veterans don't know/don't need to know how income impacts their benefits
 
-4. Finding four
+4. There's a blurry line between disability benefits and health care benefits
 
-5. Finding five
+5. More explanation needed for Priority Groups
 
-6. Finding six
+6. Veterans want a more robust online experience
 
-7. Finding seven
 
 
 ## Details of Findings 
@@ -96,43 +96,37 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**Veterans expect to update their financial info in the VA Profile**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+An overwhelming majority (11 out of 12 participants) navigated to or mentioned the Profile as the place they would look for the ability to update financial information.
 
-Brief description
+> _Supporting data: "I imagine my financial info would be under my profile. It makes sense because it's me and my information."_
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> _Supporting data: "It is just where I know where to go to change my address, so it makes sense to be able to change any other personal information."_
 
 
-**Finding 2**
+**Veterans want notifications to update financial information**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Veterans expressed that they wanted communications if they needed to update their financial information, ranging from email to text to in-app notifications.
 
-Brief description
+> _Supporting data: "I think an email would be best because VA letters are very behind. I think an email where I can click a link where I can just update the information."_
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> _Supporting data: "Because I use the VA.gov so much it would be nice to have a red thing on top to tell you what you need to update. Something that sticks out and you would not be able to ignore."_
 
 
-**Finding 3**
+**Veterans don't know/don't need to know how income impacts their benefits**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Depending on a Veteran’s disability rating (ex: if their rating is high) they may not need to know how income impacts their benefits. Income is only relevant for certain priority groups.
 
-Brief description
+> _Supporting data: "For me it doesn’t matter because I have 100%. For others I can imagine they would rely on it more because of the copays that may vary with your income."_
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> _Supporting data: "I don’t think my income is sufficient enough to impact anything."_
 
 
 ## Additional Insights
@@ -144,20 +138,16 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* Provide a clear access point on the VA.gov Profile to update health enrollment information, including financial information.
+   * VA.gov Profile access point is in addition to other VA.gov cross linking opportunities.
+* Use VA.gov-based content (unauthenticated and authenticated pages) to increase awareness about the impact of financial information on health care benefits.
+* Explore push and other types of notifications that direct Veterans to VA.gov to update health enrollment information when needed.
+
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
-
-
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+We will work with the rest of the 1010 team, our stakeholders, and the Authenticated Experience team to pilot a new online version of the 10-10EZR, making the form accessible (either through a link or other means) from the VA Profile.
 
 
 ## Appendix
@@ -171,12 +161,12 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Synthesis Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690832432428/9dc824f17b6dd1fe6c00ba64e036834dc91d9c2c?sender=ube02cc3d1108083a94f75471)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+VA.gov website
 
 
 ## Other supporting documents created
