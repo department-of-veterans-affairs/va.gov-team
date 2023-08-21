@@ -115,9 +115,8 @@ Imagine that you started this application to ask for disability compensation for
  
 *Follow-up questions:*
 
-- Are you familiar with the phrase “toxic exposure”?
-- What do you know about it?
-- Where did you learn about it?
+- Are you familiar with the phrase “toxic exposure”? What do you know about it? Where did you learn about it?
+- Is this text about toxic exposure helpful to you?
   
 ### No follow-up screen (only if user clicked "No")
  
