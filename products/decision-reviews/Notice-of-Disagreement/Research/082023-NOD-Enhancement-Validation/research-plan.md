@@ -5,25 +5,25 @@ During post-launch evaluation of the Board Appeal form, the decision reviews tea
 
 ## Background
 Veterans can file a request for a board appeal if they are dissatisfied or disagree with a VA decision on their benefits claim in hopes of receiving a higher benefits rating. Following release in April 2022, The Request for Board Appeal online form was released in April 2022. A post-launch evaluative lead to the following proposed enhancements:
-###### Context and Expectation-Setting Enhancements
-*Form Introduction*
-	- Enhancements to the form introduction page facilitating validation of their chosen decision pathway
-	- Clarifying language surrounding deadlines for submission and definition of contested claims
-###### Issue Selection and Disagreement Explanation Enhancements
-*Select Issues for Review, Provide Reason for Disagreement*
-	- Links to claimant decision letters facilitating issue selection and entry
-	- Population of contention details facilitating the selection of reasons for disagreement 
-	- Additional language clarifying the intent of the reason for disagreement field and additional form elements to gather context and explanations for the appeal
-###### Navigational and Task Flow Related Enhancements
-*Navigation and Submission Review*
-	- Simplified form headers facilitating task orientation and form navigation  ([experimental ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1326))
-	- Simplified form review page facilitating validation of form data ahead of submission ([research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page-round-two/Review%20Page%20Research%20Round%202.pdf))
+##### Context and Expectation-Setting Enhancements
+**Form Introduction**
+ - Enhancements to the form introduction page facilitating validation of their chosen decision pathway
+ - Clarifying language surrounding deadlines for submission and definition of contested claims
+##### Issue Selection and Disagreement Explanation Enhancements
+**Select Issues for Review, Provide Reason for Disagreement**
+- Links to claimant decision letters facilitating issue selection and entry
+- Population of contention details facilitating the selection of reasons for disagreement 
+- Additional language clarifying the intent of the reason for disagreement field and additional form elements to gather context and explanations for the appeal
+##### Navigational and Task Flow Related Enhancements
+**Navigation and Submission Review**
+- Simplified form headers facilitating task orientation and form navigation  ([experimental ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1326))
+- Simplified form review page facilitating validation of form data ahead of submission ([research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/pst-forms-library/research/review-page-round-two/Review%20Page%20Research%20Round%202.pdf))
 
 ### BVA Priorities
 We are working with the Board of Veterans Appeals to discover ways we can help meet the following goals:
-	- Each Veteran’s appeal is timely docketed and tracked throughout the appeals process
-	- Each Veteran receives a timely hearing by a Veterans Law Judge upon request
-	- Each Veteran receives a timely decision on his/her appeal
+- Each Veteran’s appeal is timely docketed and tracked throughout the appeals process
+- Each Veteran receives a timely hearing by a Veterans Law Judge upon request
+- Each Veteran receives a timely decision on his/her appeal
 ### Veteran Journey
 Services and products coming out of this effort would support the following phases of a veteran’s journey:  Taking Care of Myself, Retiring, Aging and Putting down roots, specifically engaging VA to access benefits and services in the  [Veteran Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 ## Research Goals
@@ -36,33 +36,33 @@ Research findings will be used to validate the readiness enhancements for develo
 
 ##### Gather feedback surrounding the relevance of usability of proposed enhancements
 **Context and Expectation-Setting Enhancements**
-	- How well are Veterans able to orient around what's presented in the revised instructional pages?
-	- How well does content provided in instructional pages line up against Veteran expectations? How well does provide content support Veterans in validating their chosen decision pathway?
-	- How do revised instructional pages compare against what's currently provided? Which do Veterans prefer?
+- How well are Veterans able to orient around what's presented in the revised instructional pages?
+- How well does content provided in instructional pages line up against Veteran expectations? How well does provide content support Veterans in validating their chosen decision pathway?
+- How do revised instructional pages compare against what's currently provided? Which do Veterans prefer?
 
 **Issue Selection and Disagreement Enhancements**
-	- To what extent is access to decision letters valuable in facilitating the selection and entry of issues for disagreement?
-	- To what extent does issue details in the reason for disagreement screen support Veterans in selecting relevant reasons for disagreement?
-	- Are Veterans able to locate where to enter additional context and explanation for their reason for disagreement?
+- To what extent is access to decision letters valuable in facilitating the selection and entry of issues for disagreement?
+- To what extent does issue details in the reason for disagreement screen support Veterans in selecting relevant reasons for disagreement?
+- Are Veterans able to locate where to enter additional context and explanation for their reason for disagreement?
 
 **Navigational and Task Flow Enhancements**
-	- Are veterans able to identify where they are in the appeal submission process with the updated navigation?
-	- Are veterans able to review their form responses with the enhanced review page?
+- Are veterans able to identify where they are in the appeal submission process with the updated navigation?
+- Are veterans able to review their form responses with the enhanced review page?
 
 **Enhancement User Value and Desirability**
-	- Between the various enhancements proposed (revised instructional page, inclusion of issue details, enhanced navigation, and enhanced review page), which enhancements stand to have the greatest impact in bolstering Veteran confidence with their appeal submission? Why?
-	- What would Veterans consider "must have's" vs "nice to have's"? Are there any enhancements users don't find to be useful?
+- Between the various enhancements proposed (revised instructional page, inclusion of issue details, enhanced navigation, and enhanced review page), which enhancements stand to have the greatest impact in bolstering Veteran confidence with their appeal submission? Why?
+- What would Veterans consider "must have's" vs "nice to have's"? Are there any enhancements users don't find to be useful?
 ## Hypotheses and Assumptions
 **Context and Expectation-Setting Enhancements**
-	- We believe Veterans will prefer the revised instructional pages in comparison to the existing instructional pages.
-	- We believe there may be desire for additional benefits and decision review information not currently provided in instructional pages that Veterans do not know where to find.
+- We believe Veterans will prefer the revised instructional pages in comparison to the existing instructional pages.
+- We believe there may be desire for additional benefits and decision review information not currently provided in instructional pages that Veterans do not know where to find.
 
 **Issue Selection and Disagreement Enhancements**
-	- We believe there may be limited benefit to providing access to decision letters. Veterans may not know where to locate information surrounding specific contention decisions.
-	- We believe that Veterans will be able to identify where to provide additional information about their appeal and differentiate those fields from fields relating to reason for disagreement
+- We believe there may be limited benefit to providing access to decision letters. Veterans may not know where to locate information surrounding specific contention decisions.
+- We believe that Veterans will be able to identify where to provide additional information about their appeal and differentiate those fields from fields relating to reason for disagreement
 
 **Navigational and Task Flow Enhancements**
-	- We believe Veterans will prefer the updated navigation and review pages.
+- We believe Veterans will prefer the updated navigation and review pages.
 
 ## Methodology
 Moderated interview and concept evaluation of enhanced Board Appeal form clickable software prototype.
