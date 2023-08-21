@@ -5,11 +5,21 @@ Last updated: 8/21/23
 After a person submits an inquiry through the Ask VA form, they may be able to reply to their inquiry. They can reply as an unauthenticated or authenticated user. Inquiries are linked to VA business line queues in the CRM system. Business lines can enable or disable submitter replies to inquries.
 
 We wanted to understand the volume of replies coming through the AVA system. This would help us understand the extent to which submitters use the reply feature in AVA.
-There are also open questions on the data we pulled from the CRM system that the AVA form is connected to.
+The initial data supports our recommendation to continue allowing submitters to reply to inquiries both via email and the AVA dashboard. However, we still need to clarify some open data questions below.
 
 ## Key takeaways
+- There is a significant number of total replies sent from submitters and the AVA system.
 - Inquiries in the `Education` category have the most replies.
 - "Business" inquiries are concentrated in `Education`, `Compensation`, and `Veterans Affairs - Debt`.
+
+## Recommendations
+|Phase|Recommendation|
+|:--|:--|
+|Phase 1 (current)|Continue to allow submitters to reply to inquiries via email (unauthenticated) and the AVA dashboard (authenticated).|
+|Phase 2 (future)|Identify security risks with allowing unauthenticated submissions. Determine ways to mitigate risk while still prioritizing a simple, easy user expereince for submitting inquiries.|
+
+## Risks for Phase 1
+- 
 
 ## Open data questions
 - Are the Business or Personal authentication levels for unauthenticated or authenticated submitters or both?
