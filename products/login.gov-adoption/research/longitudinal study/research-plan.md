@@ -6,7 +6,7 @@ Veteran Affairs (VA) continues to digitize across systems and services to ensure
 Research 
 
 ## Project Overview
-A three month longitudinal study of generative research and participatory design workshops initiated by a preliminary pilot. As of now, the pilot and longitudinal study will be conducted virtually. Recruit Veterans and Veteran support network to participate in focus groups and co-creation workshops. Offer preliminary pilot participants opportunity for continued engagement over three months. During the preliminary pilot, participants and researchers will co-create expectations and structure of longitudinal study should there be interest. Primary goal is to assess awareness and receptivity to In Person Proofing methods and communication campaigns created by MO to promote migration to a Login.gov credential. Secondary goal is to assess feasibility and Veteran and Veteran support network interest in a longitudinal study. More specifically, feasibility and participant interest in using focus group and co-creation research and design methods, and staying engaged over a period of time.
+A three month longitudinal study of generative research and participatory design workshops initiated by a preliminary pilot and followed up by three series each comprised of sessions. As of now, the pilot and following sessions will be conducted virtually. We will recruit Veterans and their support network to participate in focus groups and co-creation workshops. We will offer preliminary pilot participants the opportunity for continued engagement over three months. During the preliminary pilot, participants and researchers will co-create expectations and structure of longitudinal study should there be interest. Primary goal is to assess awareness and receptivity to In Person Proofing methods and communication campaigns created by MO to promote migration to a Login.gov credential. Secondary goal is to assess feasibility and Veteran and Veteran support network interest in a longitudinal study. More specifically, feasibility and participant interest in using focus group and co-creation research and design methods, and staying engaged over a period of time.
 
 ## Research Goals
 ### Primary
@@ -41,7 +41,7 @@ These research outcomes will be unique to a) self service, including remote help
 
 ## Research Methodology:
 Co-creation, generative research
-We will mostly engage in a group format (5-8 participants). In order to ensure that individual voices are heard, we may either ask for pre-work (not longer than 15 minutes or reflection/capture) or have individual heads-down time during the group sessions, preparing for discussions. The sessions will be a combination of exploring current state experiences with conversation prompts or creative activities; and envisioning desired solutions through brainstorms informed by prototypes and role play. During the sessions, we will pay attention to the inputs from participants as well as how they interact with each other, namely, who and what influences individuals and the group to change their attitudes and perspectives. Because of the longitudinal nature of these interactions, we also plan on asking for feedback on the session design, and bringing in learning from previous sessions and reporting on what they informed us.
+We will mostly engage in a group format (up to 9 participants). Within this study, we have designated series (comprised of 3 sessions within a month) where we will engage with the same participants. In order to ensure that individual voices are heard, we may either ask for pre-work (not longer than 15 minutes or reflection/capture) or have individual heads-down time during the group sessions, preparing for discussions. The sessions will be a combination of exploring current state experiences with conversation prompts or creative activities; and envisioning desired solutions through brainstorms informed by prototypes and role play. During the sessions, we will pay attention to the inputs from participants as well as how they interact with each other, namely, who and what influences individuals and the group to change their attitudes and perspectives. Because of the longitudinal nature of these interactions, we also plan on asking for feedback on the session design, and bringing in learning from previous sessions and reporting on what they informed us.
 
 ## Trauma informed approach
 To ensure the research experience for participants is respectful and supportive, a trauma informed approach will be used for both pilot and the longitudinal study. During research review through Veteran Affairs, collaboration sessions will be held in pre-research planning to review workshop design and identity structures and resources to provide trauma informed practice throughout the research process.
@@ -61,51 +61,69 @@ Efficiency and cost-effectiveness: Engaging the same participants can save time 
 ## Recruitment
 
 
-Each session will have 5-8 participants per session. For every session Perigean will oversee recruitment. Over recruitment is encouraged assuming likelihood of no shows/drop out therefore criteria will be out of 8. Should Veterans only be able to attend with support network members (for example, caregiver, family member or friend), we will designate specific sessions for both Veteran and their support network member to attend. Both Veteran and support network members will still register with Perigean in order to be compensated and be able to sign up for those designated workshop sessions. See Approach to Recruit in Appendix
+Each session will have up to 9 participants per session. For every session Perigean will oversee recruitment. Over recruitment is encouraged assuming likelihood of no shows/drop out therefore criteria will be out of 8. Should Veterans only be able to attend with support network members (for example, caregiver, family member or friend), we will designate specific sessions for both Veteran and their support network member to attend. Both Veteran and support network members will still register with Perigean in order to be compensated and be able to sign up for those designated workshop sessions. See Approach to Recruit in Appendix
 
 Participant characteristics should be distributed in a manner offering diversity in ethnicity, gender, age, ability, and housing. Given the small size of each co-creation study group per session, it will not be possible for the sample to be representative. 
 ### Primary Criteria 
 For each group, recruitment should aim to get 2 per segment:
-- Active credentials (people who use Login.gov or ID.me to sign in)
-- Inactive credentials (people with Login.gov or ID.me but who do not use them)
-- Newly Transitioned (Veterans who have just transferred out of service < 1 year ago and have not used a credential for more than 1 year)
-- No modern credentials (does not have Login.gov or ID.me)
+  - Active credentials (people who use Login.gov or ID.me to sign in)
+  - Inactive credentials (people with Login.gov or ID.me but who do not use them)
+  - Newly Transitioned (Veterans who have just transferred out of service < 1 year ago and have not used a credential for more than 1 year)
+  - No modern credentials (does not have Login.gov or ID.me)
 - All participants must be Veterans
 - All have a computer or smartphone and must be willing to be complete their session on one of those devices
 - Comfortable with engaging in a group setting
 - During the session, be willing to share a web browser window on their device
 - Have a working microphone on their device
 - Have Zoom downloaded to their device prior to the session and know how to share their screen
-- At least 2 of 8 people must have Login credentials
-- At least 2 of 8 people must have My HealtheVet accounts
-- At least 2 of 8 people are experienced screen reader users (They identify as at least a 4 on the 5 point scale from the screener question below)
-- At least 2 of 8 people must identify as having a cognitive consideration
-- At least 2 of 8 people must identify as Black, Hispanic, Biracial, Asian, Native
-- At least 2 of 8 people must identify as women
-- At least 2 of 8 people require assistance using VA online services (They either go to the helpdesk or family, friends, or peers for assistance per the screener question below)
-- At least 3 of 8 people are over 55
+- At least 2 of 9 people must have Login credentials
+- At least 2 of 9 people must have My HealtheVet accounts
+- At least 2 of 9 people are experienced screen reader users (They identify as at least a 4 on the 5 point scale from the screener question below)
+- At least 2 of 9 people must identify as having a cognitive consideration
+- At least 2 of 9 people must identify as Black, Hispanic, Biracial, Asian, Native
+- At least 2 of 9 people must identify as women
+- At least 2 of 9 people require assistance using VA online services (They either go to the helpdesk or family, friends, or peers for assistance per the screener question below)
+- At least 3 of 9 people are over 55
 
-### Secondary criteria
-- Veterans will be offered an opportunity to invite members of their support network to participate. Should this be popular, we suggest at least 3 of 8 people who are part of someone’s Veteran Support network. Veterans will be notified that if they want to invite a support network member to participate they will need to participate 
-- At least 2 of 8 people who identify as gay, lesbian, bisexual, or transgender
-- At least 2 of 12 people who live in a rural or remote area
-- At least 2 of 12 people who are experiencing being unhoused
-- At least 2 of 8 people are without an undergraduate degree or professional certificate
-
-Last four workshop sessions may be used to work directly with people who are experiencing or have experienced being unhoused 
-For these participants they must be able to access a computer or smartphone through a support organization
 
 ## Screener Questions
-1. Login Credentials; Have you ever created a Login.gov account? Do you currently use it or do you use one of the following credentials:
+1. Have you ever created a Login.gov or ID.me account?
+- Yes
+- No
+  
+2. Which login credential do you use most often to access your VA benefits and services online?
+- Login.gov
 - ID.me
-- My HealtheVet
+- My HealtheVet/MHV
 - DS Logon
-2. Cognitive Considerations; Have you been diagnosed by a medical professional in the past with a diagnosis like TBI, PTSD, etc.? (open text box)
-3. Screen reader; Do you use a screen reader? If so, what type of screen reader do you use? On a scale of 1-5, with 1 being a beginner and 5 being an expert, how experienced are you with using a screen reader? [1, 2, 3, 4, 5]   
-4. Need for assistance using VA Online Service; please select all of the options that best describes how you need assistance for using VA Online Service
+- I don't have a way to login and access my VA benefits and services online
+(Please recruit at least 4 who:
+- answer "Yes" to question 1 and who either answer Login.gov or ID.me to question 2
+- Answer "Yes" to question 1 and who either answer MHV or DS Logon to question 2
+- Answer "No" to question 1 and who either answer MHV or DS Logon to question 2
+  
+3. Have you been diagnosed by a medical professional in the past with a diagnosis like TBI, PTSD, etc.?
+- Yes (recruit at least 3; can have more, will not disqualify from participation)
+- No
+  
+4. Do you use a screenreader?
+- Yes
+- No
+
+5. On a scale of 1-5, with 1 being a beginner and 5 being an expert, how experienced are you with using a screen reader?
+- 1
+- 2
+- 3
+- 4
+- 5
+-  I don't use a screenreader
+(please recruit at least 3 from 3 or 5 to fulfill Assistive Tech criteria)
+
+6. Please select all of the options that best describes how you need assistance for using VA Online Service.
 - I do not need assistance
-- I call the help desk for assistance when I encounter 
+- I call the help desk for assistance when I encounter
 - I go to family, friends, and peers for assistance
+(please recruit at least 3 from responses of those who either use help desk or use family, friends, and peers for assistance)
 
 ## Workshop Timeline
 Length of Workshop: 90 minutes
