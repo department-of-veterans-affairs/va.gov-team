@@ -1,17 +1,17 @@
 # Ask VA replies from 3-10-22 to 8-10-23
-Last updated: 8/10/23
+Last updated: 8/21/23
 
 ## Overview
-After a person submits an inquiry through the Ask VA form, they may be able to reply to their inquiry. They can reply as an unauthenticated or authenticated user. 
-The VA business line who manages the queue that inquiries are linked to can enable or diable replies to their inquries.
+After a person submits an inquiry through the Ask VA form, they may be able to reply to their inquiry. They can reply as an unauthenticated or authenticated user. Inquiries are linked to VA business line queues in the CRM system. Business lines can enable or disable submitter replies to inquries.
 
-We wanted to understand the volume of replies coming through the AVA system. We're still investigating open questions we have about the data we pulled from the CRM system that the AVA form is connected to.
+We wanted to understand the volume of replies coming through the AVA system. This would help us understand the extent to which submitters use the reply feature in AVA.
+There are also open questions on the data we pulled from the CRM system that the AVA form is connected to.
 
 ## Key takeaways
 - Inquiries in the `Education` category have the most replies.
 - "Business" inquiries are concentrated in `Education`, `Compensation`, and `Veterans Affairs - Debt`.
 
-## Current open questions
+## Open data questions
 - Are the Business or Personal authentication levels for unauthenticated or authenticated submitters or both?
 - What is the # of inquiries from 3/10/22 to 8/10/23 that allow replies (so we can understand % of inquires that received a reply)?
 - Why are there unauthenticated replies for the categories that only allow authenticated submitters (Education and Debt)?
