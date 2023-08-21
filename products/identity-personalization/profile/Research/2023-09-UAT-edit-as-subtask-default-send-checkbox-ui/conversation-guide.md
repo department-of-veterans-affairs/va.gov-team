@@ -92,7 +92,7 @@ As a last step, we’d like to make sure updates to the settings on this page wo
 Have you ever made updates to any of these notifications on the page before?
 
 Ok, thank you. 
-1. Go ahead and change the setting for each checkbox. If it’s checked, uncheck it, and if it’s not checked, go ahead and check it.
+1. Go ahead and change the setting for each checkbox. If it’s checked, uncheck it, and if it’s not checked, go ahead and check it. We’ll change everything back to the way it was when you’re done.
 
 Thank you, that was very helpful for our team. Now I just want to be sure we leave your account in the state that you want it - go ahead and check the box for any notifications that you do still want to receive, and uncheck the box for those you do not want to receive.
 
@@ -105,20 +105,7 @@ Thank you, that was very helpful for our team. Now I just want to be sure we lea
 
 Since we have a little extra time, there are 2 more things I’d like to get your feedback on.  Can you click on your name in the heading?  I’d like to hear your impressions of the items in that menu.
 
-Don’t click on anything yet. Where do you expect each link to take you?
-
-Go ahead and click on dependents.  How does this page line up with what you expected?
-
-And now click on letters. How does this page line up with what you expected?
-
-#### Things to watch for
-- [ ] What were the participants impressions of the menu items? 
-- [ ] How did the dependents page align with what they expected?
-- [ ] How did the letters page align with what they expected?
-
-## Optional Task 2: Review "authenticated menu" - 5 minutes
-
-Since we have a little extra time, there is one last thing I’d like to get your feedback on.  Can you click on your name in the heading?  I’d like to hear your impressions of the items in that menu.
+**Note to facilitator:** If needed, ask “What do you think about seeing links to dependents and letters in this menu?”
 
 Don’t click on anything yet. Where do you expect each link to take you?
 
