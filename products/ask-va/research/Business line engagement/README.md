@@ -28,7 +28,7 @@ We need to meet with business lines to determine which fields are required in or
 |Sign in and technical issues|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Sign%20in%20and%20technical%20issues)|
 |Survivor benefits|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Survivor%20benefits)|
 |Women Veterans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Women%20Veterans)|
-|Veteran ID cards|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Veteran%20ID%20cards)|
+|Veteran ID Card (VIC)|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Veteran%20ID%20cards)|
 |VR&E|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/VR%26E)|
 
 ## Research goals
