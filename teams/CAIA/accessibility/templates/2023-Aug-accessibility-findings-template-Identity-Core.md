@@ -19,7 +19,7 @@
 `iOS-VO` (List types of AT covered here)
 
 ## Coverage
-This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
+This research fulfilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
 
 **Original study request: ##**
 
@@ -29,9 +29,9 @@ This research fufilled X% (y/z) of its original request. Given the **limited/abu
 To best serve the users of VA.gov, we will need to collect the following information during each a11y research session:
 - **Skill level of user:** Novice, Intermediate or Advanced
 - **Operating System:** Mac or Windows
-- **Assistive Technology being used:** Jaws, NVDA, Zoomtext, Dragon, etc.
+- **Assistive Technology being used:** Jaws, NVDA, ZoomText, Dragon, etc.
 - **Internet Browser:** Chrome, Firefox, etc.
-- **Note**: In the table below, the first row is an example for P54
+- **Note**: In the table below, the first row is an example of P54
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
