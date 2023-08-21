@@ -156,6 +156,8 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 
  
 ## Notes
+### [Post MVP Epic Details](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6547) 
+
  ### Demo notes  
 - Handling of dishonorably discharged Veterans
    - Dishonorably Discharged Veterans are not eligible for VIC
