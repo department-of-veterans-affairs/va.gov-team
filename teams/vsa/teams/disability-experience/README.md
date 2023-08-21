@@ -29,7 +29,7 @@ At the highest level, the core disability experience team is here to own, from t
 | Christine Cereca | Engineer | christine@cityfriends.tech | christinec-fftc |
 | Mark Chae | Engineer | markchae@navapbc.com | mchae-nava |
 | Kate Allbee | UX Designer and Research | kate@verdance.co | kate-allbee |
-| Evelyn Davis | UX Research | evelyn@cityfriends.tech | TBD |
+| Evelyn Davis | UX Research | evelyn@cityfriends.tech | evelynhilbrichdavis |
 | Austin Price | Product Manager | austin.price@coforma.io | austinjprice |
 | Sarah Shields | Delivery Manager | sarah.shields@coforma.io | sortizsh |
 | Micah Frazier | Engineer | micah.frazier@oddball.io | micahaspyr |
