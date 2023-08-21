@@ -62,6 +62,10 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Working session notes
 
+
+## 8/31/23
+* Identity Team coming to talk about Terms of Use
+
 ## 8/17/23
 * [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md)
 
