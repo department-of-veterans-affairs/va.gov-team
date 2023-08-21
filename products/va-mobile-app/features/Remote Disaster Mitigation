@@ -1,1 +1,53 @@
+Sprint O/Product Brief:
 
+
+Problem Statement/Current Experience:
+
+Today, when critical errors affect the Mobile Application,  we currently do not have an immediate way to remotely address error fixes or clear cashes outside of the normal app store release and review process. 
+As a result, users experience a broken app until it can be fixed.
+
+What is Remote Configuration?
+
+A software development technique for mobile apps where the behavior or features of an app can be changed remotely without having to publish an app update
+
+Use Cases:
+
+1. Roll Backs: IOS app or Android Store updates go through review process and can take 24-48 hours, longer if rejected. Rollbacks can be done withouth any backend code changes.
+
+2. Feature Rollouts by % (Paced Rollout)- Set conditional values in the your app that only a segment of users can see the feature. Ex: 25% of population for "X" feature
+
+3. A/B Testing: Ability to enable and disable features of a subset of users. % of Population is served a NEW experience vs. % gets old experience. 
+
+This use case will be great for statistical analysis to determine the impact of a feature an gain feature confidence on that new feature. This will help us
+determind if this change is an improvement over the old version.
+
+In additon, if bugs are discovered, features can easily be disabled remotely withought having to go through the store release process.
+
+Desired Outcomes
+-Ability to Remotely addressing bugs and or fix for user when a bug is determined on a feature in the app
+-Determine what the content and modal will look like when a remote configuration is happening
+
+Content: 
+Need to Determine what dynamic messaging (Error Messaging) the user will receive when the feature is not available or in a "fix".
+
+Assumptions and Level of Confidence
+TBD
+
+Risks
+TBD
+
+Business Goals
+
+
+Technical Approach
+
+
+Measuring success
+TBD
+
+
+
+
+Important Links
+
+Overall Epic: 
