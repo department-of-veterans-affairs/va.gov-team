@@ -59,7 +59,7 @@ Before we start, a few things I want to mention:
  
 Before we look at the website, let’s start with a few background questions.
  
-First, can you briefly describe your military service? We’re interested in hearing about when you served, your branch, and your MOS (job) if you are comfortable sharing those details. *Moderator will have to keep in mind the participant’s service history to know where to prompt participant during task 2.*
+First, can you briefly describe your military service? We’re interested in hearing about when you served, what branch, etc. if you are comfortable sharing those details. *Moderator will have to keep in mind the participant’s service history to know where to prompt participant during task 2.*
  
 Second, we’re interested in hearing if you have ever filed a claim for disability compensation before…
  
@@ -164,7 +164,7 @@ What would you do next?
  
 What would you do on this screen?
 
-If you served in more than one time period, what would you do? 
+If you served in more than one time period, what would you do? *No need dto ask this if have previously.*
  
 What would you do next?
  
@@ -180,7 +180,7 @@ What would you do next?
  
 What would you do on this screen?
  
-If you served in more than one time period, what would you do? 
+If you served in more than one time period, what would you do? *No need dto ask this if have previously.*
  
 What would you do next?
  
@@ -196,7 +196,7 @@ What would you do next?
  
 What would you do on this screen?
  
-If you served in more than one time period, what would you do? 
+If you served in more than one time period, what would you do? *No need dto ask this if have previously.*
  
 What would you do next?
  
