@@ -69,4 +69,14 @@ Swimlanes for this board include:
 
 ## Open questions
 
-This proposal is based mostly on the needs of the accessibility workstream crew -- there is a real possibility that this process doesn't make sense for the other workstreams. With that in mind: would it make sense to have a different process per-workstream? What are core assumptions being made here that need to be revisited? Are there other gaps or unmet needs that this process should address? 
+This proposal is based mostly on the needs of the accessibility workstream crew -- there is a real possibility that this process doesn't make sense for the other workstreams. With that in mind: would it make sense to have a different process per workstream? What are core assumptions being made here that need to be revisited? Are there other gaps or unmet needs that this process should address? 
+
+## Technical considerations
+
+CAIA currently relies on a split system between GitHub projects and ZenHub with the goal of migrating wholly to one or another system soon.
+
+Under the proposed scheme we believe all needs will be supported through *just* GitHub projects. This will hopefully reduce the cognitive load when navigating, organizing, and sharing work.
+
+GitHub projects may need to go through an accessibility review if we hope to include full-time assistive tech users on the team.
+
+There is a possibility that the high-level board can remain in GitHub projects while the lighter-weight task board be maintained in a simpler tool like Trello -- note this diminishes the opportunity to automate aspects of the board and we would need to de-risk and validate that we are permitted to use such another tool, first.
