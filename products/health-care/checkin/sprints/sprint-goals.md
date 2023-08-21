@@ -49,7 +49,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62848)      
 - **GOAL: Address tech & design debt**
-    - TBD
+    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62927)      
  
 ------------------------ END FUTURE / TENTATIVE ------------------
 __________________________________________________________________________________________________________________________________________________________
