@@ -15,11 +15,10 @@ The initial data supports our recommendation to continue allowing submitters to 
 ## Recommendations
 |Phase|Recommendation|
 |:--|:--|
-|Phase 1 (current)|Continue to allow submitters to reply to inquiries via email (unauthenticated) and the AVA dashboard (authenticated).|
-|Phase 2 (future)|Identify security risks with allowing unauthenticated submissions. Determine ways to mitigate risk while still prioritizing a simple, easy user expereince for submitting inquiries.|
+|Phase 1|Continue to allow submitters to reply to inquiries via email (unauthenticated) and the AVA dashboard (authenticated).|
+|Phase 2 and beyond|Identify security risks with allowing unauthenticated submissions. Determine ways to mitigate risk while still prioritizing a simple, easy user expereince for submitting inquiries.|
 
-## Risks for Phase 1
-- 
+## Risks
 
 ## Open data questions
 - Are the Business or Personal authentication levels for unauthenticated or authenticated submitters or both?
