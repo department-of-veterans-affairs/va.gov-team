@@ -156,7 +156,38 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 
  
 ## Notes
-Standup 
-
-
+ ### Demo notes  
+- Handling of dishonorably discharged Veterans
+   - Dishonorably Discharged Veterans are not eligible for VIC
+   - Dishonorably Discharged Veteran may get a character discharge determination to get VA benefits
+   - Mobile App currently doesn't filter or account for differences in service summary and title 38 codes
+- Allowing images also allows for inappropriate images to be uploaded
+   - VIC teams catches these and prevents them
+   - VA is working on getting in front of legislation to discuss removing the image requirement from VIC  (date of birth, SSN, and other forms of identification don't require it so why this) - they are hoping to have this conversation this year
+   - We are removing this from MVP at this time
+- If Periods of Service info is incorrect it can't be changed immediately
+   - Source is a DoD system (DEERS)
+   - Difficult to change and won't happen immediately can take months
+   - VA is working on how best to handle updates here
+   - This was not introduced with Veteran status just a current fact with how systems are working today
+- Number of people eligible for VIC is greater than the number of people eligible for VA benefits
+   - Reserves and Guardsmen are eligible for VIC but not for VA benefits
+- Marketing - Communication VIC
+   - VIC launched in 2017 (law in 2015) and did not have a marketing communication out to merchants
+   - Veterans had a lot of negative feedback / interactions cause of this
+   - When VA spoke with merchants (finding info from merchant websites vs having a POC) they got so use to it being shown they just accepted it
+   - They have seen when they communicate / advertise VIC it has led to large upticks in participations but had difficulty in existing services and processes handling volume
+   - Example went from averaging 100 emails a day to 500-800 in a 5 hour period after communications
+- Other areas seem interested
+   - Patronage - Been convo for a few years were Service Connected Veterans can have access to privileges @ military bases commissary and exchanges privileges
+   - Veteran Health Identification Card (VHIC) served as proof of this ; but found Veterans  who served under 24 months or not service connected don't have VHIC so looking for another solution
+   - Expected to need DOD EDIPI (some kind of person ID DoD uses)  - could even add a barcode on a card but would need to tie into DoD equipment
+- Changes agreed upon:
+   - Remove images 
+   - Future consideration / non mvp
+      - UX for if information is incorrect
+      - Handling of dishonorable discharge 
+      - POS UX for Veteran Feedback 
+      - Adding a VIC disclaimer - likely not necessary for mobile as compared to VIC - not a pre-auth for any VA benefits 
+      - Collaboration on being used for Patronage - Service Connected Vets being hable to get commissary benefits from military benefits - id that works with DoD system   
 
