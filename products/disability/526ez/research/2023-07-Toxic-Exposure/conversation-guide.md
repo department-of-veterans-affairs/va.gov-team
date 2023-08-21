@@ -115,18 +115,19 @@ Imagine that you started this application to ask for disability compensation for
  
 *Follow-up questions:*
 
-- Are you familiar with the phrase “toxic exposure”? What do you know about it?
+- Are you familiar with the phrase “toxic exposure”?
+- What do you know about it?
 - Where did you learn about it?
-- Does this hint text help you?
   
-### No follow-up screen
+### No follow-up screen (only if user clicked "No")
  
 *Allow participant to look at and answer the question on the screen.*
  
 *Follow-up:*
 
-- Is there anything confusing about the message here?If so, please explain.
+- Is there anything confusing about the message here? If so, please explain.
 - Does this screen change your mind about your answer? Why or why not?
+- Did you notice the link to "Learn more about toxic exposure"? What would you expect if you clicked that?
  
 What would you do next?
  
