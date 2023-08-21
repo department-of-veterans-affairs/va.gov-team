@@ -37,7 +37,7 @@ This high-level board would primarily be for CAIA workstream leads, and VA POs. 
 
 As happens today, an external team of VA PO would create an intake ticket. This ticket would appear on the high-level board. 
 
-From there, CAIA workstream leads and team members as needed will decompose the intake ticket into supporting tasks to be completed (those will live on the task board detailed latter, here). 
+From there, CAIA workstream leads and team members as needed will decompose the intake ticket into supporting tasks to be completed (those will live on the task board detailed later, here). 
 
 The high-level board will have the following swimlanes: 
 
@@ -66,3 +66,7 @@ Swimlanes for this board include:
 - `blocked`, tickets here were being worked on, but have a dependency or something of the sort that needs to be cleared before they can be completed 
 - `verify`, tickets in this column are complete, but in need of review
 - `done`, tickets in this column are complete and have been reviewed
+
+## Open questions
+
+This proposal is based mostly on the needs of the accessibility workstream crew -- there is a real possibility that this process doesn't make sense for the other workstreams. With that in mind: would it make sense to have a different process per-workstream? What are core assumptions being made here that need to be revisited? Are there other gaps or unmet needs that this process should address? 
