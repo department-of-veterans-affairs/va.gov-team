@@ -10,6 +10,7 @@ Veteran Identification Card (VIC)
 |:--|:--|
 |Molly Burlage|Veteran Identification Card (VIC)|
 |Reginald Martin|Veteran Identification Card (VIC)|
+|Melissa Rebstock|VBA|
 
 ### Engagements
 
