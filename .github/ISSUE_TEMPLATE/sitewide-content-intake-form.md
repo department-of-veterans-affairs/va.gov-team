@@ -47,7 +47,6 @@ What areas does your team need support in? Check all that apply.
 #### IA
 - [ ] User Flows
 - [ ] Page placement
-- [ ] Object-Oriented UX (OOUX) support
 - [ ] URLs
 - [ ] Breadcrumbs and Left Nav placement
 - [ ] Redirects
