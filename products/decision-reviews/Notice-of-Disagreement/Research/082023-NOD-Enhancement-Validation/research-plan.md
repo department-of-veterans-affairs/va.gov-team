@@ -69,7 +69,7 @@ Moderated interview and concept evaluation of enhanced Board Appeal form clickab
 ### Location
 Research will be conducted remotely over Zoom.
 ### Research materials
-*  [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/042023%20NoD%20Evaluative%20Research/conversation-guide.md) 
+*  [Discussion Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/082023-NOD-Enhancement-Validation/discussion-guide.md) 
 
 ## Recruitment
 ### Recruitment approach
