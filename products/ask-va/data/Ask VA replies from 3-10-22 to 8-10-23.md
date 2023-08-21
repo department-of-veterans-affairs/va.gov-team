@@ -19,6 +19,9 @@ The initial data supports our recommendation to continue allowing submitters to 
 |Phase 2 and beyond|Identify security risks with allowing unauthenticated submissions. Determine ways to mitigate risk while still prioritizing a simple, easy user expereince for submitting inquiries.|
 
 ## Risks
+- Submitters who don't log in can submit an inquiry or reply to an inquiry with PII/PHI in the response.
+- It's unclear what security measures are in place to prevent anyone from attaching malware to email replies.
+- Asking submitters to authenticate is an extra step that places additional burden on submitters.
 
 ## Open data questions
 - Are the Business or Personal authentication levels for unauthenticated or authenticated submitters or both?
