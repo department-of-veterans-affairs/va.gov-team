@@ -25,7 +25,7 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Past booked VA appointment - phone call 
     - [ ] Past booked Community Care appointment
 
-- [ ] Use Case 2 - Validate after visit summary link on the Past appointment details page
+- [ ] Use Case 2 - Validate After Visit Summary link on the Past appointment details page
 
      Configuration setup in test environment must include: 
   - [ ] Test user must have an After Visit Summary linked to the appointment response (appointment IEN) 
