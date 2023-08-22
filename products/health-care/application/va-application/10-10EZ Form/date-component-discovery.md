@@ -18,10 +18,30 @@ The v3 Memorable Date component is styled like the USWDS Memorable Date componen
 ## Other Alternatives
 USWDS recommends using a Memorable Date component of their own when the day-of-the-week isn’t important, or for when users are selecting a familiar date, like their birthdate. The USWDS pattern differs from the VA experimental pattern, using both the numeric representation of the month and the month name.
 
-USWDS version of the Memorable Date Component
 
 ## Date Component Comparison
 - As a reminder, in the context of these forms users are:
   - Recalling a singular memorable date (ex: birth date(s) for self and/or dependents, discharge date)
   - Selecting or typing that date
   - Moving onto the next field of a longer form
+### Date Input (currently in use as of August 2023)
+**Pros**
+1. Selection from list of named months, reducing friction from dyscalculia
+2. Dropdowns can reduce potential for user error by constraining options to those of the list
+**Cons**
+1. Reported usability issues around selection - dropdown will “jump” to select something else
+2. Two dropdowns slows users down, making the form longer to complete
+3. [Bug: overflowing on small screen sizes](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1548)
+### Memorable Date 2.0
+**Pros**
+1. Text fields are often the quickest, easiest way for users to complete fields - no clicking or scrolling necessary
+2. More versatile, as numeric date works well for remembering various dates
+**Cons**
+1. Text fields can be more difficult from an accessibility perspective
+2. Potential bug: error message refers to numeric months, which isn’t helpful or accurate
+### Memorable Date 3.0
+**Pros**
+1. Alignment with USDWS standards
+2. Allows typing the month number OR the month name
+**Cons**
+1. Not yet tested with Veterans; experimental pattern. We’d be the guinea pigs. Though this could change soon - as announced in the 08/14/2023, we can use the 3.0 experimental component library.
