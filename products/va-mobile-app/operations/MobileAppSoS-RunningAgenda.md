@@ -88,10 +88,8 @@
   * Any priority shifts?
 * Sprint 78 Planning (Adam)
   * SoS (Sprint Tab)[https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3]
-     * FE overcapacity by 27 points
-     * QA overcapacity by 13 points - only 1 QA person for next sprint
-     * PM over capacity by 10 points
-     * Backend over capacity by 6 points
+     * Several areas over capacity
+     * Rachael is the only QAer next sprint 
      * New projects
          *  Remote Disaster Mitigation   
          *  RX Default list view to show Active 
