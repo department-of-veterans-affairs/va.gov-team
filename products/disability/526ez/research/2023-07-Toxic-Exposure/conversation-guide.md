@@ -19,7 +19,7 @@ Slack for real-time feedback from observers.
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
-- Turn on captions/transcript (select "view full transcript"
+- Turn on captions/transcript (select "view full transcript")
 - When the participant is ready, begin the session with the following intro*
  
  
