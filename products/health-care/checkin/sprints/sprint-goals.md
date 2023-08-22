@@ -29,7 +29,7 @@ ________________________________________________________________________________
        - **EPIC: [Decrease No's to Filing for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63928)**
            -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Revisit Content & Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64040)
        - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
-           - TBD
+           - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create pros and cons of ideas on how to evolve travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64050)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
