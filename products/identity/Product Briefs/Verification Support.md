@@ -1,4 +1,4 @@
-# In Person Proofing (IPP) - Verification Support
+# Verification Support
 
 ## Overview: (Provide a high level description of the product/set of features)
 
