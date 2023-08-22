@@ -26,9 +26,7 @@ ________________________________________________________________________________
     - **Sub Goal: Perform Compliance Tasks**
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Placeholder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63608)
 - **GOAL: Make submission of a travel reimbursement claim easier**          
-    - **EPIC: [Decrease No's to Filing for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63928)**
-         -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Revisit Content & Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64040)   
-    - **EPIC: [Add Cell Phone to LoROTA Entry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)**
+   - **EPIC: [Add Cell Phone to LoROTA Entry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)**
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) BE  [[BE] Update Vets-API to use the newly stored cell phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62438)
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64061)
    - **EPIC: [Allow Submission of Travel Claim for 1 Facility Per Day](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)**
@@ -36,6 +34,12 @@ ________________________________________________________________________________
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Test in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64056)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)[Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64060)
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64059)
+    - **EPIC: [Decrease No's to Filing for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63928)**
+         -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Revisit Content & Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64040)
+         -  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] File for Travel Question Page: New Content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63931)
+         -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63949)
+         -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63948)
+         -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63951)
    - **Sub Goal: Evolve travel reimbursement during online check-in**
       - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
           - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create pros and cons of ideas on how to evolve travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64050)
@@ -60,7 +64,8 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62848)      
 - **GOAL: Address tech & design debt**
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62927)
-    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Identify and prioritize components for Design System v.3 transition](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64010#issuecomment-1687153194)
+    - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Identify and prioritize components for Design System v.3 transition](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64010#issuecomment-1687153194)
  
 ------------------------ END FUTURE / TENTATIVE ------------------
 __________________________________________________________________________________________________________________________________________________________
