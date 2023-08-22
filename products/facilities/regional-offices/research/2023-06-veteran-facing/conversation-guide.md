@@ -90,7 +90,7 @@ Before we start, I want to go over a few things:
 - iPad: **Broadcast screen**
 
 - *Backup plan if they cannot figure out how to share screen:*
-  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
+  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control--doesn't work w/iPhones]* Can you click and see if you can move your mouse around on my screen?
 
 ## Instructions for finding Zoom chat (if needed)
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
@@ -208,7 +208,7 @@ I'll have you start from a URL that I'm going to *[dictate/put into the Zoom cha
 
 Do you see the link? 
 
-- *If see “unsupported browser” error, ask to try a different browser or device, or share my screen and mouse control*
+- *If see “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)*
 - *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
 What are your impressions of what you're looking at? *(RECORD)*
