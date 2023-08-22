@@ -184,7 +184,8 @@ Let’s start with a few questions...
 Now I'm going to ask you to do some things... ***Reassure if p nervous or says they feel dumb or embarrassed***
 
 ### Screen sharing
-I would like you to share your screen with me so that I can see what you do during this session. You might want to first close any apps that you don’t want me to see.
+I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me the same thing you see on your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
+
 - *(refer to Screen sharing instructions above, if needed)*
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
