@@ -45,3 +45,14 @@ USWDS recommends using a Memorable Date component of their own when the day-of-t
 2. Allows typing the month number OR the month name
 **Cons**
 1. Not yet tested with Veterans; experimental pattern. We’d be the guinea pigs. Though this could change soon - as announced in the 08/14/2023, we can use the 3.0 experimental component library.
+
+## Conclusion
+Switching from Date Input to the Memorable Date input would alleviate the “jumping” concerns/reports, since only typing is required for the current version (no dropdown). I’m not sure if there will otherwise be usability improvements.
+I’m hesitant to suggest switching over the Memorable Date component for all forms. It might be valuable to try on the 10-10EZ as a pilot, or to wait until the newest version of the experimental pattern is approved for use. This version would be in better alignment with the USWDS and might alleviate some of the concerns with the current Date Input component.
+
+## References
+[Accessibility ticket on memorable date](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1550)
+[Thread on plans for future date picker components](https://dsva.slack.com/archives/C01DBGX4P45/p1687544483716189)
+- Screen reader user in previous research mentioned they’d prefer a date picker over the memorable date component
+[Ticket about possible experimental date picker (calendar) component](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/684)
+
