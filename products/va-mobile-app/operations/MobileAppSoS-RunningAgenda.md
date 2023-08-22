@@ -83,6 +83,7 @@
 
 ## 8/22/23 Agenda:
 * **Q3 Projects in Progress**
+  * Yellow projects - Check In and Android Custom Tabs  
 * **Standing question for the POs**
   * Any new work we should be on the lookout for?
   * Any priority shifts?
