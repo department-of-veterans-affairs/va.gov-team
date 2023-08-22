@@ -74,7 +74,8 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
         - 3rd Test LH: 8/22/2023 @ 9:57AM CT (VERIFIED)
     - Mike Richards @Mike Richard
         - EVSS: Encountered issue, can't proceed
-        - LH: Encountered same issue
+        - LH: Encountered same issue, 8/22/23 @ 1:33 PM CT, No existing Intent to File, Austin Texas
+            - Noting that a successful POST was called, despite a 404 for GET 
     - Rocio De Santiago @Rocio De Santiago - Coforma
         - EVSS: N/A
         - LH: Aug 22, 12:34PM CST, Has existing ITF, St Louis, MO
