@@ -73,7 +73,8 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
         - 3rd Test EVSS: N/A
         - 3rd Test LH: 8/22/2023 @ 9:57AM CT (VERIFIED)
     - Mike Richards @Mike Richard
-        - Encountered issue, can't proceed
+        - EVSS: Encountered issue, can't proceed
+        - LH: Encountered same issue
     - Rocio De Santiago @Rocio De Santiago - Coforma
         - EVSS: N/A
         - LH: Aug 22, 12:34PM CST, Has existing ITF, St Louis, MO
