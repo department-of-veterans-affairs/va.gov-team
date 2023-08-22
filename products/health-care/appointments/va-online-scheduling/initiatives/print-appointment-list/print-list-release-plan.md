@@ -66,7 +66,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 ## Go Live!
 
 ### Planning:
-- Desired date: 08/03/23
+- Desired date: 08/02/23
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
