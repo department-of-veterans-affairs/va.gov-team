@@ -64,6 +64,59 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 | Launch to 50% | 09/04/2023 |  |
 | Launch to 100% | 09/11/2023 |  |
 
+## Launch 
+### Stage B: 10% of users
+
+#### Results
+
+|Question|Response|
+|---|---|
+|Number of unique users:| [FILL_IN]
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
+|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
+|Types of errors logged:| [FILL_IN]|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+
+---
+### Stage C: 25% of users
+
+#### Results
+
+|Question|Response|
+|---|---|
+|Number of unique users:| [FILL_IN]
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
+|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
+|Types of errors logged:| [FILL_IN]|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+
+---
+### Stage D: 50% of users
+
+#### Results
+
+|Question|Response|
+|---|---|
+|Number of unique users:| [FILL_IN]
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
+|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
+|Types of errors logged:| [FILL_IN]|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+
+### Stage E: 100% of users
+
+#### Results
+
+|Question|Response|
+|---|---|
+|Number of unique users:| [FILL_IN]
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
+|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
+|Types of errors logged:| [FILL_IN]|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+
+
+## Post Launch Metrics 
 ### 1-week results at 100%
 ||Results|
 |---|---|
