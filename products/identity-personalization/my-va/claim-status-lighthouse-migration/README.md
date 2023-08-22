@@ -84,8 +84,8 @@ Stats based on the [My VA Domo dashboard](https://va-gov.domo.com/page/116785193
 
 |KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @10% (8/8/23 - 8/14/23)| 1 week @25% (8/15/23 - 8/21/23)|1 week @50% (8/22/23 - 8/28/23) |1 week @100% (8/29/23 -9/4/23)|1 month @100% (9/5/23 - 10/4/23)| 2nd month @100% (10/5/23 - 11/4/23) | 
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|% of successful retrievals|91%|99||||||
-|% of failed retrievals|9%|1%||||||
+|% of successful retrievals|91%|99%|97%|||||
+|% of failed retrievals|9%|1%|3%|||||
 
 
 ## Key deliverables
