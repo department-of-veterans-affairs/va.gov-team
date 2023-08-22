@@ -10,7 +10,8 @@ Date: 07/2023
 - Hieu Vo (hieu.vo@agile6.com)
 - Katelyn Caillouet (katelyn.caillouet@agile6.com) 
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ 
+- [Research readout DRAFT](https://docs.google.com/presentation/d/1bmh_zzhjrXlRdyOnmuTJkz6ppQhOU5LwngBnVEr87Kw/edit#slide=id.g892adcb623_0_141)
 
 <br>
 
