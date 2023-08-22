@@ -15,9 +15,11 @@ But the existing Date Input pattern has had shortcomings. It overflows on small 
 
 ## Potential Experience
 **VA Experimental Memorable Date Component**
+
 Looking into the Memorable Date component, it does appear to be quicker to complete for a memorable personal date (typing and tabbing does the job, rather than thinking and carefully making a selection from a dropdown).
 
 **Bugs related to the Memorable Date component**
+
 The v3 Memorable Date component is styled like the USWDS Memorable Date component, with a drop down to choose the month by name (followed by day and year numerical fields). If this version is approved and implemented, it might be a happy medium solution—improving the experience for sighted users giving the more recognizable month name, while keeping the strong experience for screen-reader users.
 
 
