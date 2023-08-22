@@ -5,20 +5,21 @@ Welcome to the CEDAR Identity Login.gov Adoption Team. We're excited to have you
 ### Your onboarding checklist
 - [ ] Confirm access to Slack channels (#va-identity-product-team & #cedar-identity-product-team)
 - [ ] Confirm access to [VA CEDAR Identity Google Drive](https://drive.google.com/drive/folders/1THzmYaOjGwxhQX-eWR-KQWepPgkjUqhe?usp=share_link)
-- [ ] Review [Performance Work Statement](https://docs.google.com/document/d/1Q0UDmaO78au-p2ec_XmfoYqjDct9fhKd/edit?usp=sharing&ouid=113935907412888271383&rtpof=true&sd=true)
-- [ ] Share (or create and share) your Github handle and email with [Elizabeth Koch](https://dsva.slack.com/team/U043UFQG98V)
+usp=sharing&ouid=113935907412888271383&rtpof=true&sd=true)
+- [ ] Share (or create and share) your Github handle and email with [Dawn Muñoz]
+- [ ] [Complete the VA Platform orientation template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights%2C+analytics-request&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D)
+- [ ] - [ ] Complete [Zenhub onboarding checklist ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/3498c681cbcfd5501e2282fbdfe9d5f700688726/platform/working-with-vsp/orientation/zenhub.md)
 - [ ] Confirm you have access to the Digital Service @ VA Slack
 - [ ] Confirm you have access to VA Github
-- [ ] [Review guidance for new teams and team members ](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSTeammembers)
-- [ ] [Complete the VA Platform orientation template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights%2C+analytics-request&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D)
 - [ ] Get access to [other tools](#tools-we-use)
 - [ ] Schedule 1:1’s to meet your [team](#implementation-team)
-- [ ] [Review previous research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research)
-- [ ] [Review previous sprint demo decks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/presentations/sprint%20demos)
-- [ ] Add [contact information to Project Team tab here](https://docs.google.com/spreadsheets/d/18LUvaTxHe__Ae54O3yUHFwhEpQZrqf-f-312drKsOwc/edit?usp=sharing)
 - [ ] Once you get your PIV card [download the citrix client](https://raportal.vpn.va.gov/Downloads.aspx)
 - [ ] Access [VA Citrix Access Gateway(CAG)](https://citrixaccess.va.gov/vpn/index_citrix_splash.html) for VA Citrix Remote Access. 
-- [ ] Complete [Zenhub onboarding checklist ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/3498c681cbcfd5501e2282fbdfe9d5f700688726/platform/working-with-vsp/orientation/zenhub.md)
+- [ ] [Review previous sprint demo decks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/presentations/sprint%20demos)
+- [ ] [Review previous research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research)
+- [ ] Review [Performance Work Statement](https://docs.google.com/document/d/1Q0UDmaO78au-p2ec_XmfoYqjDct9fhKd/edit?
+- [ ] [Review guidance for new teams and team members ](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSTeammembers)
+
 
 ## CEDAR Identity Login.gov Adoption Project
 ### Background
