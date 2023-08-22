@@ -8,7 +8,7 @@ Welcome to the CEDAR Identity Login.gov Adoption Team. We're excited to have you
 usp=sharing&ouid=113935907412888271383&rtpof=true&sd=true)
 - [ ] Share (or create and share) your Github handle and email with [Dawn Muñoz]
 - [ ] [Complete the VA Platform orientation template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team%2C+analytics-insights%2C+analytics-request&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D)
-- [ ] - [ ] Complete [Zenhub onboarding checklist ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/3498c681cbcfd5501e2282fbdfe9d5f700688726/platform/working-with-vsp/orientation/zenhub.md)
+- [ ] Complete [Zenhub onboarding checklist ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/3498c681cbcfd5501e2282fbdfe9d5f700688726/platform/working-with-vsp/orientation/zenhub.md)
 - [ ] Confirm you have access to the Digital Service @ VA Slack
 - [ ] Confirm you have access to VA Github
 - [ ] Get access to [other tools](#tools-we-use)
