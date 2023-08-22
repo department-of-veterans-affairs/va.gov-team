@@ -74,12 +74,13 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
         - 3rd Test LH: 8/22/2023 @ 9:57AM CT (VERIFIED)
     - Mike Richards @Mike Richard
         - EVSS: Encountered issue, can't proceed
-        - LH: Encountered same issue, 8/22/23 @ 1:33 PM CT, No existing Intent to File, Austin Texas
+        - LH: Encountered same issue, 8/22/23 @ 1:33 PM CT, No existing Intent to File, Austin Texas (VERIFIED)
             - Noting that a successful POST was called, despite a 404 for GET 
     - Rocio De Santiago @Rocio De Santiago - Coforma
         - EVSS: N/A
-        - LH: Aug 22, 12:34PM CST, Has existing ITF, St Louis, MO
-        - Note: The app ID only showed up after answering more questions and it showed up at the bottom 8806521
+        - LH: Aug 22, 12:34PM CST, Has existing ITF, St Louis, MO (VERIFIED)
+        - Feedback: The prod was wrong, it's supposed to be `va.gov/disability/file-disability-claim-form-21-526ez/start`
+        - Feedback: The app ID only showed up after answering more questions and it showed up at the bottom instead of under the header
 - [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
         - [ ] Note the date, start, and end time:
@@ -87,7 +88,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
         - [x] Note individual scheduled dates and times next to each identified user
         - [x] Note testing steps:
             1. Login to your va.gov account in prod
-            2. Navigate to `va.gov/file-disability-claim-form-21-526ez/start`
+            2. Navigate to `va.gov/disability/file-disability-claim-form-21-526ez/start`
             3. Answer the questions as follows:
                 "Are you on active duty right now?" > "No"
                 "I'm filing a new claim"
