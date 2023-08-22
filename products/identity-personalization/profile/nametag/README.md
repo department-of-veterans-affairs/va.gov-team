@@ -13,9 +13,11 @@ Google Analytics [dashboard here](https://analytics.google.com/analytics/web/#/d
 The [dashboard was updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61095) as part of the EVSS>LH migration. 
 
 
-EVSS> LH Migration KPI
-**Objective 1: Maintain success rates by migrating to Lighthouse.**
-**KPI: Maintain success rates for disability rating.**
+### EVSS> LH Migration KPI
+
+**Objective 1:** Maintain success rates by migrating to Lighthouse.
+
+**KPI** Maintain success rates for disability rating 
 
 
 
