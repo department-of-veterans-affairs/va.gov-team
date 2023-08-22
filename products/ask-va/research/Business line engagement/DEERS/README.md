@@ -8,7 +8,7 @@ Defense Enrollment Eligibility Reporting System (DEERS)
 
 |Stakeholder|Business area|
 |:--|:--|
-|Unidentified|EVSS (Enterprise Veterans Self Service)|
+|Jeremy Haas|EVSS (Enterprise Veterans Self Service)|
 
 ### Engagements
 
