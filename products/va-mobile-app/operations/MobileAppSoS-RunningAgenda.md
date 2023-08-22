@@ -82,11 +82,11 @@
 ## Agenda  
 
 ## 8/22/23 Agenda:
-* Q3 Projects in Progress
-* Standing question for the POs
+* **Q3 Projects in Progress**
+* **Standing question for the POs**
   * Any new work we should be on the lookout for?
   * Any priority shifts?
-* Sprint 78 Planning (Adam)
+* **Sprint 78 Planning (Adam)**
   * SoS (Sprint Tab)[https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3]
      * Several areas over capacity
      * Rachael is the only QAer next sprint 
@@ -95,8 +95,8 @@
          *  RX Default list view to show Active 
      * Projects completed from last sprint - 2.11 release 9/12 
          * Veteran Status MVP
- * Other items
-    * Q4 planning timing ? 
+ * **Other items**
+    * Q4 planning timing ? (Adam)
        * 3 sprints left for Q3 ~7 weeks away from Q4 work  
 
 <details>
