@@ -1,26 +1,26 @@
-## Date Picker Research
+# Date Picker Research
 [Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61211)
 
-# Current Experience
+## Current Experience
 On both the 10-10CG and the 10-10EZ, we currently use the Date Input component. A few folks on Slack have anecdotally mentioned that screen reader users prefer this component, as dropdowns are easier to use.
 
-# VA Date Input Pattern
+### VA Date Input Pattern
 *Quote from screen reader research participant:*
 “The birthdate - it acts like it wants me to type in numbers but most of the time there’s date pickers so right now until I actually start I won’t know what it wants me to do. Other than get my date in there, but how I get my date in there...well, it just hasn’t told me yet.”
 But the existing Date Input pattern has had shortcomings. It overflows on small screen sizes and thus isn’t always mobile-friendly. There’s also reports of the dropdown “jumping” from one selection to another (cited in the ticket).
 
-# Potential Experience
+## Potential Experience
 *VA Experimental Memorable Date Component*
 Looking into the Memorable Date component, it does appear to be quicker to complete for a memorable personal date (typing and tabbing does the job, rather than thinking and carefully making a selection from a dropdown).
 Bugs related to the Memorable Date component
 The v3 Memorable Date component is styled like the USWDS Memorable Date component, with a drop down to choose the month by name (followed by day and year numerical fields). If this version is approved and implemented, it might be a happy medium solution—improving the experience for sighted users giving the more recognizable month name, while keeping the strong experience for screen-reader users.
 
-# Other Alternatives
+## Other Alternatives
 USWDS recommends using a Memorable Date component of their own when the day-of-the-week isn’t important, or for when users are selecting a familiar date, like their birthdate. The USWDS pattern differs from the VA experimental pattern, using both the numeric representation of the month and the month name.
 
 USWDS version of the Memorable Date Component
 
-# Date Component Comparison
+## Date Component Comparison
 - As a reminder, in the context of these forms users are:
   - Recalling a singular memorable date (ex: birth date(s) for self and/or dependents, discharge date)
   - Selecting or typing that date
