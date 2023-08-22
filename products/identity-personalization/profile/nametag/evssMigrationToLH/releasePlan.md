@@ -65,7 +65,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 | Launch to 100% | 09/11/2023 |  |
 
 ## Launch 
-### Stage B: 10% of users
+### Stage A: 10% of users
 
 #### Results
 
@@ -78,7 +78,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
 
 ---
-### Stage C: 25% of users
+### Stage B: 25% of users
 
 #### Results
 
@@ -91,7 +91,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
 
 ---
-### Stage D: 50% of users
+### Stage C: 50% of users
 
 #### Results
 
@@ -103,7 +103,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |Types of errors logged:| [FILL_IN]|
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
 
-### Stage E: 100% of users
+### Stage D: 100% of users
 
 #### Results
 
