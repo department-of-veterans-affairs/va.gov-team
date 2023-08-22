@@ -16,12 +16,12 @@
 ### Who we are
 
 #### Implementation team
-Updated as of August 2023
+*Updated as of August 2023*
 |Role|Assigned|Contact|
 |:---:|:---:|:---:|
 |DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
 |Program/Delivery Lead|Dawn Muñoz|dawn@themostudio.com|
-|IPP Program/Deliveyr Lead|Michael Antiporta (Porta)|porta@themostudio.com
+|IPP Program/Delivery Lead|Michael Antiporta (Porta)|porta@themostudio.com
 |Product Owner|TBD|TBD|
 |Senior Product Manager|TBD|TBD|
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
