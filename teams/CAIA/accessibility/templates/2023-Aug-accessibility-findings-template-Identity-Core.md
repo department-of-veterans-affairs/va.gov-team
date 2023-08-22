@@ -35,7 +35,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P12_                   | 8/28/2023         | _VoiceOver_             | _Advanced 5/5_      | _TBD_            | _iPad_    | _TBD_      |
+| _P12_                   | 8/18/2023         | _Originally recruited as an AT user, but didn't have access to AT on his desktop. This participant was partially sighted and completed the test w/o AT on his desktop, but verbalized feedback related to AT.`_             | _Advanced 5/5_      | _TBD_            | _Windows_    | _Chrome_      |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
@@ -46,18 +46,11 @@ To best serve the users of VA.gov, we will need to collect the following informa
 **Participants who successfully completed sessions: XX**
 ## Initial Notes
 ### P12
-- x
-- x
-- x
-- x
-- x
-- x
-- x
-- x
-- x
-- x
-- x
-- x
+- Rarely uses AT on desktop; uses it all the time on iOS. 
+- Usually selects everything on the page and lets VoiceOver read it back to him.
+- Prefers iOS devices because they are "convenient while I'm on the go."
+- When using MyHealtheVet on iOS, he uses a combination of pre-fill and facial recognition to access the app. "I selected that option; that's convenient for me."
+- If he'd had access to AT he was comfortable with on Windows, he would've used it to read the contents of page accordions out loud. "I'd rather just hear it read to me."
   
 
 ## Key Findings
@@ -82,7 +75,7 @@ Add screenshots, images and videos here.
 This section is for quotes. ⚠️ Participants should be referenced by number only, please.
 In this section feel free to segment populations based on the trends we see with certain user types.
 
-> "Quote goes here." - P54
+> "I'd rather just hear it read to me." - P12, who is partially sighted, speaking about AT and accordions
 
 ## a11y Recommendations
 Overview summary goes here. 
