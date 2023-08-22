@@ -61,19 +61,21 @@
         - click through?
 
 ## Resources
-- (Slack thread re Lighthouse Document Service objects in our vets-api Rails app)[https://dsva.slack.com/archives/C04KHCT3ZMY/p1692294169089089]
+- [Slack thread re Lighthouse Document Service objects in our vets-api Rails app](https://dsva.slack.com/archives/C04KHCT3ZMY/p1692294169089089)
 
 ## Action Items
--[ ] Code updates - WIP
+-[] Code updates - WIP
     - Put in place calls to new services in flippers
         - DONE
     - Add flipper to Document model where one exists for the service (the LH API expects a `LighthouseDocument`, not the old `EVSSClaimDocument`)
     - Verify that  `evss_claim_id` on the `EVSSClaimDocument` model is logicially equivalent to `file_number` on the `LighhouseDocument` model.  ATM the code has a 1 to 1 swap out, and if they are used in the same way it would be great to keep it this way.  However this needs to be validated.
     - Review and resolve all comments marked with a `[wipn8923]`.  These park points of interest and potential questions or action items discovered while performing a naive first pass of the code.
     - Probably update specs that specifically reference EVSS classes, e.g.  `spec/requests/documents_spec.rb`
--[ ] test locally - TODO
+    
+- [] test locally - TODO
     - will possibly require coordination with devs actually updating the lighthouse service to ensure they have ironed out the kinks
--[ ] develop roll out plan - TODO
+      
+- [] develop roll out plan - TODO
     - TODO: VA has templates for this?
         - Testrail seems relevant, since QA will be important.  (VA doc on that here)[https://depo-platform-documentation.scrollhelp.site/developer-docs/create-a-project-in-testrail]
         - Seems we have a shared access situation.  A Testrail flow will almost certainly be part of this deploy.
