@@ -7,15 +7,17 @@ On both the 10-10CG and the 10-10EZ, we currently use the **Date Input component
 
 
 ### VA Date Input Pattern
-*Quote from screen reader research participant:*
-“The birthdate - it acts like it wants me to type in numbers but most of the time there’s date pickers so right now until I actually start I won’t know what it wants me to do. Other than get my date in there, but how I get my date in there...well, it just hasn’t told me yet.”
+**Quote from screen reader research participant:**
+*“The birthdate - it acts like it wants me to type in numbers but most of the time there’s date pickers so right now until I actually start I won’t know what it wants me to do. Other than get my date in there, but how I get my date in there...well, it just hasn’t told me yet.”*
+
 But the existing Date Input pattern has had shortcomings. It overflows on small screen sizes and thus isn’t always mobile-friendly. There’s also reports of the dropdown “jumping” from one selection to another (cited in the ticket).
 
 
 ## Potential Experience
-**VA Experimental Memorable Date Component*
+**VA Experimental Memorable Date Component**
 Looking into the Memorable Date component, it does appear to be quicker to complete for a memorable personal date (typing and tabbing does the job, rather than thinking and carefully making a selection from a dropdown).
-Bugs related to the Memorable Date component
+
+**Bugs related to the Memorable Date component**
 The v3 Memorable Date component is styled like the USWDS Memorable Date component, with a drop down to choose the month by name (followed by day and year numerical fields). If this version is approved and implemented, it might be a happy medium solution—improving the experience for sighted users giving the more recognizable month name, while keeping the strong experience for screen-reader users.
 
 
