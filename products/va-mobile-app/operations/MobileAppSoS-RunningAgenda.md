@@ -86,6 +86,13 @@
 * **Standing question for the POs**
   * Any new work we should be on the lookout for?
   * Any priority shifts?
+ 
+* [4420](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4420)-Truncated address when launching Apple Maps
+   * Next Steps to close the loop
+     - Initial analysis not a mobile app issue, web has not heard of any issues on their end (leverage google maps)
+     - Potential test that Kay has called out in slack is we could try testing with a Staff Veteran at the site.  If this is something we should do; may need PO coordination to set this up.  [See thread](https://dsva.slack.com/archives/CMNQT72LX/p1690220266864609)
+     - There has only been 1 reported instance of this, should we continue to troubleshoot and work to test with this particular site, or is it ok to close this ticket for now and monitor to see if we receive any new inquiries concerning this use case?
+
 * **Sprint 78 Planning (Adam)**
   * SoS (Sprint Tab)[https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3]
      * Several areas over capacity
