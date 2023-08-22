@@ -82,7 +82,7 @@
 
 ## Agenda  
 
-## 8/9/23 Agenda:
+## 8/22/23 Agenda:
 * Q3 Projects in Progress
 * Standing question for the POs
   * Any new work we should be on the lookout for?
