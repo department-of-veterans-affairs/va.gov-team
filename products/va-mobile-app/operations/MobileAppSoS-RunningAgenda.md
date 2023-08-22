@@ -17,8 +17,8 @@
  - Focus will be on non-green items unless there are questions / specific updates
  - Work is listed in PO's priority order based on SoS Sprint Tab
  - Current Sprint
-    - Sprint 77 8/2 - 8/15
-    - 4 sprints remaining in this quarter 
+    - Sprint 78 8/16 - 8/29
+    - 3 sprints remaining in this quarter 
    
 |Project | PM | Status | Current Sprint Work | Future Sprint Work | Est Completion Timing |
 | ----------- | ----------- | ----------- |-----------| -------------| ----------|
@@ -98,7 +98,10 @@
          *  Remote Disaster Mitigation   
          *  RX Default list view to show Active 
      * Projects completed from last sprint - 2.11 release 9/12 
-         * Veteran Status MVP 
+         * Veteran Status MVP
+ * Other items
+    * Q4 planning timing ? 
+       * 3 sprints left for Q3 ~7 weeks away from Q4 work  
 
 <details>
 <Summary>Historical Agendas and Meeting Notes </Summary>
