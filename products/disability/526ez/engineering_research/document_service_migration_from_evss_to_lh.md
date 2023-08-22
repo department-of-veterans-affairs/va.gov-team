@@ -9,8 +9,8 @@
 ## Context
   To date, the itterations on this work are as follows
   1. Abstraction of work handled by DBX-1.
-     a. (Top Level Discovery Ticket)[https://github.com/department-of-veterans-affairs/va.gov-team/issues/57231]
-     b. (Output - Zenhub Ticket)[https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/57231]
+     a. [Top Level Discovery Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57231)
+     b. [Output - Zenhub Ticket](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/57231)
      c. (Output - Github Issue)[https://github.com/department-of-veterans-affairs/va.gov-team/issues/57231]
   2. Implementation of Lighthouse Document Service in our Rails API, handled by ??? (POC - Andrew Herzberg)
      a. (Ticket)[https://github.com/department-of-veterans-affairs/va-mobile-app/issues/6119]
