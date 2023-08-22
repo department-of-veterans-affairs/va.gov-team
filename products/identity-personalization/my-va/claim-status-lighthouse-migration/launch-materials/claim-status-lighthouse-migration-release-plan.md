@@ -34,7 +34,7 @@ Not applicable - team conducted internal testing.
 |-------|-----------|-----------|
 | Launch to 10% | 8/8/2023 | _08/08/2023_ |
 | Launch to 25% | 8/15/2023 | _8/15/2023_ |
-| Launch to 50% | mm/dd/yyyy | _mm/dd/yyyy_ |
+| Launch to 50% |8/22/2023 | _8/22/2023_ |
 | Launch to 100% | mm/dd/yyyy | _mm/dd/yyyy_ |
 
 
