@@ -10,7 +10,7 @@ Center for Minority Veterans
 |:--|:--|
 |Carl McPherson|CMV (Center for Minority Veterans)|
 |Dennis May|CMV (Center for Minority Veterans)|
-|Dwayne Campbell	Line of Business|CMV (Center for Minority Veterans)|
+|Dwayne Campbell|CMV (Center for Minority Veterans)|
 
 ### Engagements
 
