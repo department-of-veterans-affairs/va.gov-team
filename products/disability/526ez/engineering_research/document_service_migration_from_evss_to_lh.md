@@ -60,6 +60,9 @@
         - command line?
         - click through?
 
+## Resources
+- (Slack thread re Lighthouse Document Service objects in our vets-api Rails app)[https://dsva.slack.com/archives/C04KHCT3ZMY/p1692294169089089]
+
 ## Action Items
 -[ ] Code updates - WIP
     - Put in place calls to new services in flippers
