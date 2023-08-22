@@ -24,7 +24,7 @@
 | ----------- | ----------- | ----------- |-----------| -------------| ----------|
 |[EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN | Complete Documents API in Vets API | Wait for VA.gov to go live with services, then turn them on for Mobile  | Sept '23 | 
 |[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | YELLOW| PM: Project follow up and sizing| BE integration with final api designs, FE Development | Sept '23 |
-| [Deeplinking](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6037) | Stacy | GREEN |Implementation Phase|Continuing Implementation | Aug '23| 
+| [Deeplinking](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6037) | Stacy | GREEN |2.10.11 RElease |Implementation Complete | Aug '23| 
 | [Appointment: List & Detail content alignment audit](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5136) | Meko | GREEN | Need to complete read out |  | Aug '23 |
 | [User Endpoint Update](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5815) | Ameet | GREEN |Split out user endpoint into multiple endpoints | Front end updates to use new endpoings  | Sept '23 | 
 | [Finding Medications-Comparitive Analysis](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/6041) | Meko/Lauren | Green | Need to complete read out   |  | August '23| 
@@ -33,10 +33,10 @@
 | [Mobile App Retention Research and Analysis](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5952) | Adam, Ameet | GREEN | Summarize & report out findings | | Aug '23 | 
 | [General Analytic Request and Needs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6070) | Ameet | GREEN | Working on App Version reporting to stop general stupport and working on a Sprint 0 on how to better track via FB URLs   | | | Ongoing |
 | [Platform Preparation - Design System](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6011) | Kelly, Ameet | GREEN | Began building SegmentedControl compnent; Updating component documenation site; Begin building out automation| Incorporate new SegmentedControl component into the app| All Q3 | 
-| [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | Yellow | Rollback done to address errors |WIP with SIS team | Original-Aug-2.8.0 Release , Roll Back 2.9.0 Release|
+| [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | Yellow | Plan for 2.11.0 Release | SIS team Complete| Original-Aug-2.8.0 Release , Roll Back 2.9.0 Release|
 | [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | Continued work to reduce bugs and tech debt | Total Open Bugs 60 (7 are Sev 2)   | Ongoing | 
 | [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
-| VHIC Step 1 | Stacy | Green |Current Discovery Closed until further notice |Slated for 1 sprint. | Aug '23 | 
+| VHIC Step 1 | Stacy | Green |Discovery now slated for sprint 80 |Originally Slated Sprint 77 | Aug '23 | 
 | [Personalization](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/3542) | Ameet | Green | First draft of Product Brief & UX Strategy | Review product brief & strategy with POs and outline work that next Steps entail| Aug '23 |
 * *Alternate Project
 * **Carryover
