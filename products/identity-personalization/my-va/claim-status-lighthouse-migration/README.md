@@ -1,6 +1,6 @@
 # Project outline: My VA Claim status EVSS > Lighthouse migration
 
-**Last updated: August 15, 2023 - updated key dates and week 1 metrics**
+**Last updated: August 22, 2023 - updated key dates and week 2 metrics**
 
 ### Communications
 
@@ -100,7 +100,7 @@ Stats based on the [My VA Domo dashboard](https://va-gov.domo.com/page/116785193
 - July 2023: Pre-launch activities
 - August 8, 2023: Launch to 10%
 - August 15, 2023: Launch to 25%
-- ...: Launch to 50%
+- August 22, 2023: Launch to 50%
 - ...: Launch to 100%
    
 ## Screenshots
