@@ -75,6 +75,9 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - Mike Richards @Mike Richard
         - Encountered issue, can't proceed
     - Rocio De Santiago @Rocio De Santiago - Coforma
+        - EVSS: N/A
+        - LH: Aug 22, 12:34PM CST, Has existing ITF, St Louis, MO
+        - Note: The app ID only showed up after answering more questions and it showed up at the bottom 8806521
 - [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
         - [ ] Note the date, start, and end time:
