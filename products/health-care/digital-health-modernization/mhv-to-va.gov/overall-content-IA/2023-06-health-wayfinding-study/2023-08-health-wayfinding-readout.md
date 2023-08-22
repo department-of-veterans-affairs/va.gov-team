@@ -25,10 +25,8 @@ _Once you've presented your research readout to your team, if you have a deck, i
 <br>
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
+Most broadly speaking, the goal of this study is to help us get a sense of how closely the current organizing structures and wayfinding tools within the MHV on VA.gov experience align with users’ expectations and mental models. The purpose of this research is to assess users' reactions to and expectations of the MHV on VA.gov experience and whether the current wayfinding tactics are effective at guiding users through key tasks. More specifically, this study aims to help us understand how users navigate across health tools to non-health tools, and what their understandings and behaviors are when they are linked to other VA.gov sections or outside of VA.gov.
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
 
@@ -36,31 +34,26 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Research Questions
 
-_Research questions here_
+* When users are at the "manage health" stage, where do they look for their health-related services and resources on VA.gov? What health-related information do they seek out?
+* How do users navigate from an unauthenticated state to the the My HealtheVet portal?
+* How easily can users navigate to various tasks within the My HealtheVet portal?
+* Once deep within My HealtheVet portal tool navigation hierarchy, how do users navigate back out to My HealtheVet portal or wider VA.gov? (e.g., out of health landing page, or specific tool on landing page) What do users do if they get lost?
+* How do users differentiate between My VA vs. My HealtheVet portal? What resources do they expect to be in each of those two locations?
 
 _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
 
 ## Methodology 
 
 _Brief description of method chosen_
+
+We conducted 18 remote interviews via Zoom. These interviews included questions documenting users’ process navigating to and within My VA and My HealtheVet, the mental models they use to find certain information, and their expectations related to health-specific tasks. The interviews will consist of a combination of tasks and direct questions.
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
 
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+Not applicable
 
 
 ## Key Findings
