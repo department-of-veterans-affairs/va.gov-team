@@ -70,7 +70,10 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
         - LH: Aug 17, 2023 10:07AM CT
         - 2nd Test EVSS: Aug 17, 2023 @ 3:09PM CT, Has existing ITF
         - 2nd Test LH: N/A
+        - 3rd Test EVSS: N/A
+        - 3rd Test LH: 8/22/2023 @ 9:57AM CT (VERIFIED)
     - Mike Richards @Mike Richard
+        - Encountered issue, can't proceed
     - Rocio De Santiago @Rocio De Santiago - Coforma
 - [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
@@ -90,17 +93,21 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
                 - The current time, date, and timezone
                 - Whether you have an existing Intent to File (Info block will say "You already have an Intent to File")
                 - The city your browser is making the request from
-            6. Once the previous step is completed, let us know. We will then toggle the feature flag for your account to then use the Lighthouse API provider
-            7. Close your browser and repeat steps 2-4
-            8. On the first `/veteran-information` screen, please note the current time and date
+              
+            6. Press ‘Continue’
+            7. Under the “Step 1 of 5: Veteran Details” header, there should be a line with your Application ID number
+                - Please note your Application ID for us
+            8. Once the previous step is completed, let us know. We will then toggle the feature flag for your account to then use the Lighthouse API provider
+            9. Close your browser and repeat steps 2-4
+            10. On the first `/veteran-information` screen, please note the current time and date
         - [x] Record testing steps in TestRail
         - [x] Share testing steps with each user
 - [x] Ensure that at least a portion of users can run through testing steps before setting Flipper active
 - [x] Ensure at least one user covers the "legacy" case (EVSS generated ITF, LH checked)
 - [x] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
 - [x] Ensure qualitatively that the feature works as intended for users
-- [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
-- [ ] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
+- [x] Ensure that the user activity is noticed and captured in the DataDog dashboard
+- [x] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
 - Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
     - Note any anomalies here:
         - 8/17: Discrepancy between LH monitoring (no activity) and our Dashboard. Additionally, activity picked up on our dashboard did not match the expected use case
