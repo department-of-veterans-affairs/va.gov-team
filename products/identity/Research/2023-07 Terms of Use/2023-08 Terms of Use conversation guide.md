@@ -120,11 +120,10 @@ Are you comfortable with that?
  
 ### Prototype Subtask - Questions
 - Ok go ahead and sign in
-   -  Can you tell me about this page?
-   - [PROMPTS] What did you expect to come up here? 
-       - What do you understand this page to mean?
-       - Did you know that VA had terms of use?
-       - What do you think about being presented with terms of use for the VA online?
+   -  With this page that is up now - what comes to mind, what are you thinking about?
+      - What do you understand this page to mean?
+      - Did you know that VA had terms of use?
+      - What do you think about being presented with terms of use for the VA online?
  - Being on this page, what would you do next?
    - Is that what you have done on other websites that present new terms of use?
       - What would make you want to [SKIP PAST or READ THROUGH] this?
