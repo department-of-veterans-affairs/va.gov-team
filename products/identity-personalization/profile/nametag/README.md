@@ -13,6 +13,9 @@ Google Analytics [dashboard here](https://analytics.google.com/analytics/web/#/d
 The [dashboard was updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61095) as part of the EVSS>LH migration. 
 
 
+Objective 1: Improve success rates by migrating to Lighthouse.
+KPI: Get direct deposit retrievals and saves to a 95% success rate.
+
 ## Sketch Mockups
 
 - [Desktop & Mobile](https://www.sketch.com/s/bca53b50-8797-44fa-8c37-2b13c24c626c)
