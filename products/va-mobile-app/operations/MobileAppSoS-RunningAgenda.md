@@ -28,7 +28,7 @@
 | [Appointment: List & Detail content alignment audit](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5136) | Meko | GREEN | Appt List & Detail content audit and recommendation review | Recommendation readout | Aug '23 |
 | [User Endpoint Update](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5815) | Ameet | GREEN |Split out user endpoint into multiple endpoints | Front end updates to use new endpoings  | Sept '23 | 
 | [Finding Medications-Comparitive Analysis](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/6041) | Meko/Lauren | Green |   |  | August '23| 
-| [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam | Green | Already met with Ryan 1x and will be meeting again on 8/8 | Final PO review 8/14  | Aug '23 |
+| [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam | Green | QA testing, adding Post MVP epic to track post MVP considerations | 9/12 release date | Sept '23 |
 | [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Ameet | GREEN | Reviewing SM for gaps in current analytics| Next 2 Dashboard priorities Login Blocked, Letters | All Q3|
 | [Mobile App Retention Research and Analysis](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5952) | Adam, Ameet | GREEN | Summarize & report out findings | | Aug '23 | 
 | [General Analytic Request and Needs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6070) | Ameet | GREEN | Working on App Version reporting to stop general stupport and working on a Sprint 0 on how to better track via FB URLs   | | | Ongoing |
@@ -37,7 +37,7 @@
 | [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | Continued work to reduce bugs and tech debt | Total Open Bugs 60 (7 are Sev 2)   | Ongoing | 
 | [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
 | VHIC Step 1 | Stacy | Green |Current Discovery Closed until further notice |Slated for 1 sprint. | Aug '23 | 
-| [Personalization](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/3542) | Ameet | Green | First draft of Product Brief & UX Strategy | Review product brief & strategy with POs and outline work that next Steps entail|
+| [Personalization](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/3542) | Ameet | Green | First draft of Product Brief & UX Strategy | Review product brief & strategy with POs and outline work that next Steps entail| Aug '23 |
 * *Alternate Project
 * **Carryover
 
@@ -46,7 +46,7 @@
 <details>
 <Summary> Planned but Not Started Projects </Summary>
  - 3rd quarter projects planned but have not yet started
- - Sprint 0 priority (7/18) - Push Notifications, Appeals Letters, Terms of Use
+ - Sprint 0 priority (7/18) - Terms of Use, Appeals Claim Letter, Push Notificaiton Strategy 
  
 | Priority |Project | PM | Status | Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| 
@@ -61,10 +61,6 @@
 | Alternate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | |  | TBD |
 </details>
 
-Sprint 0 Prioritization
- - Push Notificaitons (question if this is still valid with last weeks VA Notify update)
- - Appeals Decision Letters
- - Terms of Use S
 
 ## 2023 Completed work:
 <details>
@@ -94,8 +90,15 @@ Sprint 0 Prioritization
   * Any priority shifts?
 * Sprint 78 Planning (Adam)
   * SoS (Sprint Tab)[https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3]
-     * Projects starting: 
-     * Projects expected to fall off
+     * FE overcapacity by 27 points
+     * QA overcapacity by 13 points - only 1 QA person for next sprint
+     * PM over capacity by 10 points
+     * Backend over capacity by 6 points
+     * New projects
+         *  Remote Disaster Mitigation   
+         *  RX Default list view to show Active 
+     * Projects completed from last sprint - 2.11 release 9/12 
+         * Veteran Status MVP 
 
 <details>
 <Summary>Historical Agendas and Meeting Notes </Summary>
