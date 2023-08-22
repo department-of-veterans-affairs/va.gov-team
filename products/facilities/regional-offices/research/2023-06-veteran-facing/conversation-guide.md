@@ -19,7 +19,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page:* **bit.ly/3QwOn4F**
+- *Open a standalone browser window to web page and make it NARROW so about the width of prototype:* **bit.ly/3QwOn4F**
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -80,11 +80,11 @@ Before we start, I want to go over a few things:
   - Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners, as long as we remove any information that could be used to identify you?
 
 ## Screen sharing instructions (if needed)
-- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer). 
+- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share *(on phone, may need to scroll sideways)* or Share Screen *(on computer, button is green).*
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
-- Now I'd like you to share your screen with me. Tap on the green button that says **Share**. You will then see options for what to share. Please choose **"Screen"** (phone) or your web browser.
+- Now I'd like you to share your screen with me. Tap on the button that says **Share**. You will then see options for what to share. Please choose **"Screen"** (phone) or your web browser.
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: **Broadcast screen**
@@ -357,7 +357,7 @@ Suppose that you just switched banks, and you want to tell the VA so that any pa
 - *(Other services > Direct deposit information)*
 
 
-## Post-Task Interview - 10 minutes
+## Post-Task Interview - 7 minutes
 
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
@@ -369,16 +369,15 @@ Suppose that you just switched banks, and you want to tell the VA so that any pa
 1. What would you like to *change or add*?
 1. Is there anything else that we haven't talked about that you think I should know? 
 
+## Thank You and Closing - 3 minute
+
+I want to let you know that the prototype I showed you may not be completely accurate about the benefits office it described. We're still working out the details, so I'm going to ask you to **NOT** *rely on the accuracy of the information that you've seen*, in case it's not correct.
+
 I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences. 
 - **Is it OK if we decide to use a recorded clip from our discussion today to share with other VA partners?** *(yes / no)*
 - *(If participant says yes:)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
-I want to let you know that the prototype I showed you may not be completely accurate about the benefits office it described. We're still working out the details, so I'm going to ask you to **NOT** *rely on the accuracy of the information that you've seen*, in case it's not correct.
-
-
-## Thank You and Closing - 1 minute
-
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
+**We really appreciate you taking the time to share your thoughts with us today**. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
 If you know any other Veterans, caregivers, or service members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team. 
 
