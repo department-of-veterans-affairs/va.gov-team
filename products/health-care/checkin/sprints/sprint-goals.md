@@ -21,9 +21,13 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: [Comply with ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
     - **Sub Goal: Perform Compliance Tasks**
-       - [Placeholder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63608)
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Placeholder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63608)
 - **GOAL: Make submission of a travel reimbursement claim easier**          
+    - **EPIC: [Travel Reimbursement - MVP (Submit Mileage-OnlyClaim)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)**
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Enable Travel Feature for All Wilkes-Barre Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64044)
     - **Sub Goal: Evolve travel reimbursement during online check-in**
+       - **EPIC: [Decrease No's to Filing for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63928)**
+           -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Revisit Content & Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64040)
        - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
            - TBD
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
@@ -46,6 +50,7 @@ ________________________________________________________________________________
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Pre-Check-in & Day-of Completion Page: Content & Link Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62111)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Pre-Check-in & Day-of Details Page: Add for Pre-Check-in & Update Content for Primary Button](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62102)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Pre-Check-in - No Longer Available Page: Update Content & Accordion Behavior](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62123)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] New Appointment Disclaimer Accordion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62848)      
