@@ -75,7 +75,8 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - Mike Richard @Mike Richard
         - EVSS: Encountered issue, can't proceed
         - LH: Encountered same issue, 8/22/23 @ 1:33 PM CT, No existing Intent to File, Austin Texas (VERIFIED)
-            - Noting that a successful POST was called, despite a 404 for GET 
+            - Noting that a successful POST was called, despite a 404 for GET
+            - Post was verified in VBMS by Lighthouse
     - Rocio De Santiago @Rocio De Santiago - Coforma
         - EVSS: N/A
         - LH: Aug 22, 12:34PM CST, Has existing ITF, St Louis, MO (VERIFIED)
