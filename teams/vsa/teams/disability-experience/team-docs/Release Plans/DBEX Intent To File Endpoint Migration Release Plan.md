@@ -24,11 +24,11 @@ The lack of a viable end-to-end testing environment introduces several risks, no
 Lighthouse has been made aware of these risks. Our focus for this test plan will be to raise our baseline confidence as much as we can with thorough testing and mock data in the preparation phase, followed by close monitoring and prompt incident responses during the rollout phase.
 
 ## Overview Checklist
-- [ ] Phase I: Internal Testing and Review
+- [x] Phase I: Internal Testing and Review
     - [x] Internal Testing and Review
     - [x] Pre-release Testing
     - [x] Review Cases
-    - [ ] Canary
+    - [x] Canary
 - [ ] Phase II: Staged Rollout 
     - [ ] Stage A: 0.5%
     - [ ] Stage B: 5%
@@ -80,11 +80,11 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
         - EVSS: N/A
         - LH: Aug 22, 12:34PM CST, Has existing ITF, St Louis, MO
         - Note: The app ID only showed up after answering more questions and it showed up at the bottom 8806521
-- [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
+- [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
         - [ ] Note the date, start, and end time:
     - If opting for asynchronous time:
-        - [ ] Note individual scheduled dates and times next to each identified user
+        - [x] Note individual scheduled dates and times next to each identified user
         - [x] Note testing steps:
             1. Login to your va.gov account in prod
             2. Navigate to `va.gov/file-disability-claim-form-21-526ez/start`
