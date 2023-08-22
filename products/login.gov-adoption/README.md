@@ -3,7 +3,7 @@
 ### Where to find us 
 
 - GitHub Label: login.gov-adoption  
-- DSVA Slack: [#va-identity-product-team](https://dsva.slack.com/archives/C0429DNFN8Y)
+- DSVA Slack: [#va-identity-product-team](https://dsva.slack.com/archives/C0429DNFN8Y) and [#identity-research](https://app.slack.com/client/T03FECE8V/C04S98PE8FK)
 
 ### What we work on
 
