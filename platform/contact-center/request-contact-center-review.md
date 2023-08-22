@@ -24,7 +24,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
 
   1. Create a Product Guide that covers all the functionality, the main user flow(s), any error conditions, and how the user can resolve those errors.
   2. Create a Table of Contents at the beginning of the Product Guide that includes clickable in-document links to each section and sub-section. 
-  3. The Product Guide must be a Word document or a PDF.
+  3. The Product Guide must be a Word document.
 
   
       [Template for creating a product guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/self-service-product-guide-template.md)
