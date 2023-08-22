@@ -51,7 +51,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 - [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63159) 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-[Success metrics on project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/README.md#measuring-success)
+[Success metrics on project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)
 
 
 ## Go Live
