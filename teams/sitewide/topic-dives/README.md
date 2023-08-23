@@ -52,8 +52,13 @@ Please add any potential future topics you would like covered below:
   - [Engineer workflow](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/workflow.md#module-removal--uninstall)
   - [Quarterly planning](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13286)
 
-
 ### 2/6/23 - Drupal and internalization
 - Tim Cosgrove
 - [Drupal and internalization video](https://drive.google.com/file/d/1pdnSGqbVopl92ORVFIxuQE5yKexM4n4Z/view)
+
+### 11/21/2022 - VBA Veteran Research Readout
+- Dave Pickett
+- [VBA Veteran Research Readout video](https://drive.google.com/file/d/1pxqhoKk0o6qZ_K3bvvsznuNoE4bvpxC5/view)
+- [VBA Veteran Research slides (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-readout.pdf)
+- [VBA Veteran Research slides (PPT)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/VBA_research_readout.pptx)
   
