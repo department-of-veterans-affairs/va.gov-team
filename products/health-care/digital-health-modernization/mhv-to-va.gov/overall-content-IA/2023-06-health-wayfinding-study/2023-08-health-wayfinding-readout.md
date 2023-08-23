@@ -34,11 +34,13 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Research Questions
 
-* When users are at the "manage health" stage, where do they look for their health-related services and resources on VA.gov? What health-related information do they seek out?
-* How do users navigate from an unauthenticated state to the the My HealtheVet portal?
-* How easily can users navigate to various tasks within the My HealtheVet portal?
-* Once deep within My HealtheVet portal tool navigation hierarchy, how do users navigate back out to My HealtheVet portal or wider VA.gov? (e.g., out of health landing page, or specific tool on landing page) What do users do if they get lost?
-* How do users differentiate between My VA vs. My HealtheVet portal? What resources do they expect to be in each of those two locations?
+* When users are at the "manage health" stage, where do they look for their health-related services and resources on VA.gov? What health-related information do they seek out?  ​
+* How do users navigate from an unauthenticated state to the MHV portal?​
+* How easily can users navigate to various tasks within the MHV portal and between tools in the portal?​
+* Once deep within MHV portal tool navigation hierarchy, how do users navigate back out to MHV portal or wider VA.gov? ​
+* If a user clicks on a task that takes them out of the MHV portal, can they find their way back to MHV portal? If so, what paths/ strategies do they take?​
+* How do users differentiate between My VA vs. MHV portal? What resources do they expect to be in each of those two locations?
+
 
 _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
 
@@ -46,7 +48,7 @@ _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team
 
 _Brief description of method chosen_
 
-We conducted 18 remote interviews via Zoom. These interviews included questions documenting users’ process navigating to and within My VA and My HealtheVet, the mental models they use to find certain information, and their expectations related to health-specific tasks. The interviews will consist of a combination of tasks and direct questions.
+We conducted 18 remote interviews via Zoom. In these interviews, participants navigated across 4 key tasks using a prototype.  These interviews also included questions documenting users’ process navigating to and within My VA and My HealtheVet, the mental models they use to find certain information, and their expectations related to key tasks.  See the full [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/51d9beee1bbe325473118685c6f0ea6e46115fb7/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-conversation-guide_AVS.md) here.
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
 
@@ -58,23 +60,16 @@ Not applicable
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+1. Earlier navigational behavior and outcomes​
 
-2. Finding two
+2. Recurring navigational behaviors and outcomes: "gravitational pull" of wayfinding tactics​
 
-3. Finding three
+3. Spectrum of "figure-it-outness"​
 
-4. Finding four
+4. Sensemaking around health vs. Non-health resources: Differentiating between My VA and MHV portal experience
 
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
 
 
 ## Details of Findings 
@@ -85,43 +80,59 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**Finding 1: Earlier navigational behavior and outcomes​**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
+<img width="453" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/a5e698fc-0632-4e68-8f57-ea764d4584bb">
 
 > _Supporting data: Quote here_
 
 > _Supporting data: Quote here_
 
 
-**Finding 2**
+**Finding 2: Recurring navigational behaviors and outcomes: "gravitational pull" of wayfinding tactics​**
 
-Labels: label 1, label 2 
+<img width="182" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/98506969-d814-467b-9f42-0f0e6bb5dde2">
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+We observed certain navigational tools exerting a “gravitational pull” on participants, in that participants would return to those comfortable tactics to accomplish their tasks, despite at times having wayfinding alternatives that would enable a more direct path.  The intended behavior embedded in the designs is for users to utilize the My VA and MHV landing page and, in the case of MHV, the secondary navigation within the MHV portal. When users used those strategies, they were more efficient at achieving their tasks. However, we observed a number of participants who returned throughout the course of their interviews to the Megamenu or Home page, or who referenced wanting to use Search functionality. 
 
-Brief description
+<img width="319" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/b74933e0-f4af-45c5-89aa-8f5992d4677b">
+<img width="247" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/28036a20-9f40-4502-aaa0-6ba76423c30a">
+<img width="86" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/f758f4c0-29d2-4f9e-a83e-407bc751259e">
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+Some participants would be in MHV portal experience and return to Megamenu, Home page or Search. They indicated that they did this because they believed that they could "restart" from those spaces. These participants commonly did not indicate an awareness of the MHV portal experience, or, at times, My VA, despite having navigated periodically in those experiences when seeking to accomplish those tasks. These participants had to follow circuitous routes to accomplish the tasks and often indicated frustration or described VA.gov as complicated or confusing. This lack of awareness of how to return to these personalized spaces or how to use these spaces to accomplish their tasks was most pronounced amongst participants using the mobile prototype. No participant using the mobile prototype looked for the tabs in the Authenticated Menu and as a result, did not locate the MHV landing page without support from facilitators. 
 
 
-**Finding 3**
+**Finding 3: Spectrum of "figure-it-outness"​**
 
-Labels: label 1, label 2 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/3efff43c-19d0-4bde-ab49-2ba1a6b421ec)
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
 
 > _Supporting data: Quote here_
 
 > _Supporting data: Quote here_
+
+
+
+**Finding 4: Sensemaking around health vs. Non-health resources: Differentiating between My VA and MHV portal experience**
+
+*Finding #1:* One group of participants expressed that they want everything in one place.  These participants understood and used the links on My VA as a snapshot or gateway to start to access health care benefits, returning to where they started sometimes even when they were already in MHV.
+
+
+> _“This [My VA] is like a snapshot of everything that would cover me...” – P13_
+
+> _"I see it's [My VA] a jumping off place to for getting the rest of your VA stuff..." - P18_
+
+*Finding #2:* Another group of participants distinguished their medical care from their other VA benefits.  At the start, for some this meant automatically MHV while others would guess at the Healthcare and Benefits megamenu.
+
+> _“Normally I would think kind of like on the civilian side... I think of something like MyChart and so that would be my first instinct on the VA side, like, ok where do I find my like MyChart equivalent for VA?” – P23_
+
+> _"I'm looking for something that says After Visit Summary... I think I would go to Benefits and Health care... then I would click on Health care... and then I would go over to Manage your health" - P16_
+
+*Finding #3:* Participants' distinction between a snapshot of available VA benefits and one place to manage medical care required a greater recognition and awareness of the differences between the My VA and MHV pages writ large. Not all participants got there, and many never got there without help from the facilitator. Participants who did get there were more likely to be aware of the My VA than the MHV page, especially if they signed in and first landed on the My VA page.
+
+> _“MHV is going to deal with your health... and then you have to go to My VA to get all your information about your other benefits...My VA is for everything else but MHV is just for your health.” – P8_
+
+> _"...if it has anything to do with my health and wellbeing it's MHV app... anything else that's I think it's like a different app... like a copayment... it's going take you out of MHV" - P12_
 
 
 ## Additional Insights
