@@ -143,7 +143,7 @@ Length of Study Session: 90 minutes
 | Co-Creation Study Series 2, Study Session 2 | 11/28/2023 | 11:00 am ET | 90 Minutes  | Virtual |
 | Co-Creation Study Series 2, Study Session 3 | 12/19/2023 | 11:00 am ET | 90 Minutes  | Virtual |
 | Co-Creation Study Series 3, Study Session 1 | 1/16/2024 | 11:00 am ET | 90 Minutes  | Virtual |
-| CCo-Creation Study Series 3, Study Session 2 | 1/30/2024 | 11:00 am ET | 90 Minutes  | Virtual |
+| Co-Creation Study Series 3, Study Session 2 | 1/30/2024 | 11:00 am ET | 90 Minutes  | Virtual |
 | Co-Creation Study Series 3, Study Session 3 | 2/13/2024 | 11:00 am ET | 90 Minutes  | Virtual |
 
 
