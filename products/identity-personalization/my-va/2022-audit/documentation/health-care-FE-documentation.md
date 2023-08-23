@@ -82,37 +82,6 @@ You have no upcoming appointments to show.
 
 ---
 
-### If a user has unread message(s) from a health care provider(s)
-
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/FC0B70C7-FF70-4A54-8247-DC0AD864E5ED)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ACC876AD-8A95-4CF0-BC33-814C674A33D4)
-
-**Show**
-
-- If a user has unread messages in the [My HealtheVet secure messaging portal](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
-
-#### **Content**
-
-You have # unread messages. [Review your messages](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
-
-**Content specs**
-
-- The notification should contain the number of unread messages that a user has in the [secure messaging portal](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
-- If a user has multiple unread messages, the word "messages" should appear as plural.
-- If a user has one unread message, the word "message" should appear as singular.
-
-**Visual specs**
-
-- This feature uses the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--default#warning) in the VA design pattern library.
-- The color of the icon is `secondary-darkest` in the VA design pattern library (#981B1E)
-- The header text in the notification is an `H4`.
-- The link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--active#active) in the VA pattern library.
-
-**Positioning**
-- The unread messages notification should appear under the "Health care" header on the lefthand side on desktop, regardless of any other conditions within the section. If the user also has upcoming appointments, the messages notification should come before the upcoming appointments card.
-
----
-
 ### If a user receives VA health care at a Cerner facility
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ADCF0E10-E520-4E53-AA3A-70B27D06AD46)
@@ -169,21 +138,33 @@ Use font awesome icon `file-medical` for icon
 
 ---
 
-### Send a secure message to your health care team link
+### Go to your inbox link
 
-![Screen Shot 2022-09-30 at 1 47 18 PM](https://user-images.githubusercontent.com/97965610/193328155-29073239-d536-4672-ad4e-a8922c86c71a.png)
+With unread messages:
+<img width="955" alt="Screenshot 2023-08-23 at 2 13 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/692bd74b-c9c6-4e8e-9a27-1ab2401a3c2b">
+
+Without unread messages:
+<img width="948" alt="Screenshot 2023-08-23 at 2 30 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/07d7cc07-f26a-418e-81fe-8b5fe0d4d119">
 
 Use font awesome icon `comments` for icon
 
-**Show**
-- For users who have VA health care but do not have any unread messages.
+**Show link**
+- For users who have VA health care.
+
+**Show red indicator dot**
+- For users who have **any** unread messages in their [secure messaging portal](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
+- Red dot visual specs:
+  - Size: 10x10 px
+  - Color: `secondary-dark` in VA pattern library
+    - Hex value: #CD2026
+  - Margins and positioning: 20 px to the right of the "Go to your inbox" link text for users who have unread messages. Should be positioned in the middle of the link vertically as shown in the screenshot.
 
 **Positioning**
-- This link should always appear first in the stack of health care links when it applies. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+- The "Go to your inbox" link should always appear first in the stack of health care links when it applies. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
 
-[Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
+[Go to your inbox](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
 
 ---
 
