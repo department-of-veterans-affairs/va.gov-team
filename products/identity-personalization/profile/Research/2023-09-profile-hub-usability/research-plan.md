@@ -20,36 +20,31 @@ While shifting to multiple sections with vertical navigation solved the problems
 	- Unless a person knows to navigate 'upwards' in the page structure after they’ve opened the page, they may never realize that there even is a navigation menu that lives above the `H1`. 
 	- This increases the likelihood that the navigation could be skipped altogether if people navigate by heading, which is a common form of navigation style.  [Profile Hub epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593)
 
-
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md#measuring-success).
-Link to card in research repo
 
 ### OCTO Priorities 
 
-The profile hub supports the following OCTO priorities
+The profile hub supports the following OCTO priorities **TBD**
 
-North stars:
+North stars
 - **Obj. 1: Increase the accessibility, reliability, and security of Veteran’s digital services.**
 - **Obj. 2: Reduce the time it takes for Veterans to find, use, and receive VA services.**  
 - Obj. 3: Deliver higher-quality health care and faster, more accurate benefits decisions by increasing VA staff access to the right information, in the right format, at the right time.
 - **Obj. 4: Make OCTO a healthier and more effective civic tech team.**
 
-Goals
-
+Goals 
 1. Veterans and their families can apply for all benefits online
 2. Veterans can manage their health services online
 3. Logged-in users can easily track applications, claims, or appeals online
-4. ==Logged-in users can update their personal information easily and instantly==
-5. ==Veterans and their families can find a single, authoritative source of information==
-6. ==Logged-in users have a personalized experience, with relevant and time-saving features==
+4. **Logged-in users can update their personal information easily and instantly**
+5. **Veterans and their families can find a single, authoritative source of information**
+6. **Logged-in users have a personalized experience, with relevant and time-saving features**
 7. Veterans and their families trust the security accuracy and relevancy of VA.gov
 8. Platform users can build and deploy high-quality products for Veterans
-
 
 ### Veteran Journey
 
 This research involves navigating personal information on VA.gov, and applies to any life stage in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up through Aging.
-
 
 ## Research Goals	
 
@@ -120,26 +115,39 @@ We will use Perigean to recruit Veterans for this moderated study. We are lookin
 
 ### Recruitment criteria
 
+Schedule 16 Veterans for a minimum of 13 successfully completed sessions. **TBD**
+
 **Primary criteria (must-haves)**
 
-All participants:
-- Must have a computer or mobile phone and be willing to complete their sessions on this device
-- Must be willing to share a web browser window on the Zoom call
-- Must have a working microphone
-- Must have Zoom downloaded to their computer prior to the session and know how to share their screen
-- In addition our primary product criteria includes:
-    - Must be veterans
-    - Must have signed into VA.gov in the last 6 months, for any reason
+- All participants must be LOA3 (identity verified) on VA.gov. Participants will likely not know what this means, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see any sections in profile other than Account Security, they are LOA3 and can participate in testing.
+- All participants must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
+- All participants must able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
+	- Participants should be understand that facilitators and observers will be able to see their VA account information, and be comfortable with this.
+- ~33% of participants should be able to participant from a desktop device.
+- ~33% of participants should be able to participate from a non-desktop device (tablet or mobile phone).
+- ~33% of participants should be able to participate from a desktop device using a screen reader
 
 Our primary diversity and inclusion criteria: 
 
-TO BE UPDATED/still refining
+**TO BE UPDATED/still refining**
 
 - 5 mobile users (none of these can be screen reader users)
 - 8 total desktop users which includes
-    - 5 sighted desktop users
-    - 3 screen reader users
+    - 4 sighted desktop users
+    - 4 screen reader users
 
+#### Secondary criteria (nice-to-haves)
+
+Gender
+- 8 women, 8 men
+
+Inclusion
+- 10 participants who identify as other than white
+- 5 participants who identify as other than straight/heterosexual and cisgender
+- 8 participants age 55+
+- 8 participants who identify as having a cognitive disability
+- 5 participants who do not have a college degree
+- 5 participants who live in a rural area
 
 **Screener Questions**
 
@@ -172,6 +180,7 @@ TO BE UPDATED/still refining
 
 ### Availability
 
+***Table***
  
 ## Team Roles	
 
