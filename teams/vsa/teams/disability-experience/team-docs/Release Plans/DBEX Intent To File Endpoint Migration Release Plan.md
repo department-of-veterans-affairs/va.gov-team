@@ -149,6 +149,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
     - Qualitative anomalies that affect a significant number of users
     - Any new severe or widespread errors identified
     - 429 error indicating rate limit has been reached
+    - Volume of 404s do not match up with number of POST request (should be seeing 1 POST per GET 404)
     - High volume of 500 errors
     - High volume of Call Center complaints
     - Abnormally high latency
