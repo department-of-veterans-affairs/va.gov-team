@@ -7,7 +7,7 @@ Date: 08/23/2023
 Robyn Singleton (robyn.singleton@va.gov), Jenny Wang (Yizhen.Wang@va.gov), Cara Frissell (cara.frissell@adhocteam.us)
 
 Presentation slides deck
-[230823_Design Review (1).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12423960/230823_Design.Review.1.pdf)
+[Research read out presentation.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12423960/230823_Design.Review.1.pdf)
 
 
 <br>
