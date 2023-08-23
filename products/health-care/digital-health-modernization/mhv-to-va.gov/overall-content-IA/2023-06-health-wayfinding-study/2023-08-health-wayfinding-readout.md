@@ -149,14 +149,12 @@ We observed 3 groups:
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+This study focused on participants who were active and familiar with MHV - using it at least once a month or more - but less familiar with va.gov - using it 1-2 times or less in the last 6 months.
 
-We talked to **x participants.**
+We talked to **18 participants.**
 
 Audience segment:
 * Veterans: 18 
