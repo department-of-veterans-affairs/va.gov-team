@@ -3,7 +3,6 @@
 
 ## Background
 Veteran Affairs (VA) continues to digitize across systems and services to ensure access and security for all Veterans. The phased migration to Login.gov ameliorates barriers by consolidating platform login and increasing security for Veterans and non-Veteran users. For the digital migration to login.gov, VA is conducting a phased communication campaign to ensure that the shift to digital does not leave any Veterans behind. The phased communication campaign provides online and physical touchpoints to support adoption of modern credentials through a) self-service (including remote helpdesk support) and b) through/with in-person proofing support. Partnerships with agencies like MO offer opportunities to learn how Human-Centered Design and generative research can optimize a digital migration and phased communication campaign.
-Research 
 
 ## Project Overview
 A three month longitudinal study of generative research and participatory design workshops initiated by a preliminary pilot and followed up by three series each comprised of sessions. As of now, the pilot and following sessions will be conducted virtually. We will recruit Veterans and their support network to participate in focus groups and co-creation workshops. We will offer preliminary pilot participants the opportunity for continued engagement over three months. During the preliminary pilot, participants and researchers will co-create expectations and structure of longitudinal study should there be interest. Primary goal is to assess awareness and receptivity to In Person Proofing methods and communication campaigns created by MO to promote migration to a Login.gov credential. Secondary goal is to assess feasibility and Veteran and Veteran support network interest in a longitudinal study. More specifically, feasibility and participant interest in using focus group and co-creation research and design methods, and staying engaged over a period of time.
@@ -17,22 +16,23 @@ Increase the efficiency and effectiveness of our iterations through rapid worksh
 
 
 ### Secondary
-Learn how to best engage a group of Veterans on an on-going basis.
-Learn about how Veterans influence one another towards adoption.
-Research Questions
-How might we leverage the Veteran community to increase awareness and migration to Login.gov?
-How might we adapt virtual and in person communication channels to increase trust and support in our services?
-How might we develop virtual and in person communication channels that address differing levels of hesitancy?
-How might we ensure that our services are well designed for all Veterans?
-How might we use this study’s methodology as an example for future campaigns and research for Veteran facing services? 
+Learn how to best engage a group of Veterans on an on-going basis.<br />
+Learn about how Veterans influence one another towards adoption.<br />
+
+### Research Questions
+How might we leverage the Veteran community to increase awareness and migration to Login.gov?<br />
+How might we adapt virtual and in person communication channels to increase trust and support in our services?<br />
+How might we develop virtual and in person communication channels that address differing levels of hesitancy?<br />
+How might we ensure that our services are well designed for all Veterans?<br />
+How might we use this study’s methodology as an example for future campaigns and research for Veteran facing services? <br />
 
 
 ## Research Outcomes 
 
-Refine key messages
-Identify key support needs and when to offer certain support aids
-Update communication strategy and toolkit 	
-These research outcomes will be unique to a) self service, including remote helpdesk support, and b) through/with in-person proofing support
+Refine key messages<br />
+Identify key support needs and when to offer certain support aids<br />
+Update communication strategy and toolkit <br />
+These research outcomes will be unique to a) self service, including remote helpdesk support, and b) through/with in-person proofing support<br />
 
 ## Research in support of:
 - Commitment to Digital Modernization - Veteran Affairs’ modernization initiative is a commitment to providing streamlined and secure access to all VA products and services. By researching opportunities to use in person proofing throughout digital migration the VA can ensure exclusion is reduced and possibly identify future use for in person proofing and co-creation with Veterans as a tool for research and future initiatives. 
