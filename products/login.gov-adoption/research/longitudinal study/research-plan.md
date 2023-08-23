@@ -130,20 +130,20 @@ Length of Workshop: 90 minutes
 
 ## Workshop Schedule (PLEASE NOTE EXACT DATES SUBJECT TO CHANGE)
 
-| Workshop Name  | Date | Time (EST)  | Duration | Mode  | Attendees | Goal |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Co-Creation Study Pilot 1 | 8/29/2023 | TBD | 90 Minutes | Virtual | TBD | Establish ground rules. We want you to be fellow problem solvers. Allow participants to work on a theme together and give feedback |
-| Co-Creation Study Pilot 2  | 9/5/2023 | TBD | 90 Minutes  | Virtual  | TBD  | Success of this workshop will determine start date of co-creation study |
-| Co-Creation Study Pilot 3  | 9/19/2023  | TBD | 90 Minutes  | Virtual | TBD | TBD |
-| Co-Creation Study Series 1, Study Session 1 | 10/3/2023 | TBD | 90 Minutes  | Virtual | TBD | TBD |
-| Co-Creation Study Series 1, Study Session 2 | 10/17/2023 | TBD | 90 Minutes  | Virtual | TBD | TBD |
-| Co-Creation Study Series 1, Study Session 3 | 10/31/2023 | TBD | 90 Minutes  | Virtual | TBD | TBD |
-| Co-Creation Study Series 2, Study Session 1 | 11/14/2023 | TBD | 90 Minutes  | Virtual | TBD | TBD |
-| Co-Creation Study Series 2, Study Session 2 | 11/28/2023 | TBD | 90 Minutes  | Virtual | TBD | TBD |
-| Co-Creation Study Series 2, Study Session 3 | 12/19/2023 | TBD | 90 Minutes  | Virtual | TBD | TBD |
-| Co-Creation Study Series 3, Study Session 1 | 1/16/2024 | TBD | 90 Minutes  | Virtual | TBD | TBD |
-| CCo-Creation Study Series 3, Study Session 2 | 1/30/2024 | TBD | 90 Minutes  | Virtual | TBD | TBD |
-| Co-Creation Study Series 3, Study Session 3 | 2/13/2024 | TBD | 90 Minutes  | Virtual | TBD | TBD |
+| Workshop Name  | Date | Time (ET)  | Duration | Mode  |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Co-Creation Study Pilot 1 | 8/29/2023 | 11:00 am ET | 90 Minutes | Virtual |
+| Co-Creation Study Pilot 2  | 9/5/2023 | 11:00 am ET | 90 Minutes  | Virtual  |
+| Co-Creation Study Pilot 3  | 9/19/2023  | 11:00 am ET | 90 Minutes  | Virtual |
+| Co-Creation Study Series 1, Study Session 1 | 10/3/2023 | 11:00 am ET | 90 Minutes  | Virtual |
+| Co-Creation Study Series 1, Study Session 2 | 10/17/2023 | 11:00 am ET | 90 Minutes  | Virtual |
+| Co-Creation Study Series 1, Study Session 3 | 10/31/2023 | 11:00 am ET | 90 Minutes  | Virtual |
+| Co-Creation Study Series 2, Study Session 1 | 11/14/2023 | 11:00 am ET | 90 Minutes  | Virtual |
+| Co-Creation Study Series 2, Study Session 2 | 11/28/2023 | 11:00 am ET | 90 Minutes  | Virtual |
+| Co-Creation Study Series 2, Study Session 3 | 12/19/2023 | 11:00 am ET | 90 Minutes  | Virtual |
+| Co-Creation Study Series 3, Study Session 1 | 1/16/2024 | 11:00 am ET | 90 Minutes  | Virtual |
+| CCo-Creation Study Series 3, Study Session 2 | 1/30/2024 | 11:00 am ET | 90 Minutes  | Virtual |
+| Co-Creation Study Series 3, Study Session 3 | 2/13/2024 | 11:00 am ET | 90 Minutes  | Virtual |
 
 
 ## Registration 
