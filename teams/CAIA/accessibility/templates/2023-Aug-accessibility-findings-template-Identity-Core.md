@@ -36,7 +36,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
 | _P12_                   | 8/18/2023         | Originally recruited as an AT user, but didn't have access to AT on his desktop. This participant was partially sighted and completed the test w/o AT on his desktop, but verbalized feedback related to AT.             | Advanced 5/5      |  Windows    | Chrome      | Laptop (Asus) |
-| _P19_                       | 8/23/2021                  | _Uses MAGic magnifier + screen reader. Figma prototypes aren't compatible with MAGic, so only used magnifier for this session.                    | Intermediate to advanced 4/5                 | Windows                      |  Firefox           |   Laptop (Dell)          |
+| _P19_                       | 8/23/2021                  | Uses MAGic magnifier + screen reader. Figma prototypes aren't compatible with MAGic, so only used magnifier for this session.                    | Intermediate to advanced 4/5                 | Windows                      |  Firefox           |   Laptop (Dell)          |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
@@ -60,7 +60,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - Bold and blue text stuck out.
 - H3 was almost the same size as paragraph text, "too small."
 - Noted that if the TOU was available in Word, he could download it and use its search features to find the information he needed.
-- ** Figma prototypes are not compatible with MAGic. **
+- **Figma prototypes are not compatible with MAGic.**
 
 
 ## Key Findings
