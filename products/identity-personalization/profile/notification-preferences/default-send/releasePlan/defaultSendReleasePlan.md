@@ -96,15 +96,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 **Desired date range:** _TBD_
 - [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
 
-**Phased rollout:** 
-|Launch % |Time Frame | Planned Date Range|
-|---|---|---|
-| Launch to 25% | 1 week |  | 
-| Launch to 50% | 1 week |  | 
-| Launch to 75% | 1 week |  | 
-| Launch to 100% | 1 week | |
-
-
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 - [Success metrics on Default Send project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/README.md#measuring-success)
 - [Success metrics on editing-as-subtask inititive brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/mobile-phone-edit-flow/README.md#key-performance-indicators-kpis)
