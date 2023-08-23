@@ -97,10 +97,10 @@ For each group, recruitment should aim to get 2 per segment:
 - My HealtheVet/MHV
 - DS Logon
 - I don't have a way to login and access my VA benefits and services online
-(Please recruit at least 4 who:
-- answer "Yes" to question 1 and who either answer Login.gov or ID.me to question 2
-- Answer "Yes" to question 1 and who either answer MHV or DS Logon to question 2
-- Answer "No" to question 1 and who either answer MHV or DS Logon to question 2
+Please recruit at least 4 who:
+  - Answer "Yes" to question 1 and who either answer Login.gov or ID.me to question 2
+  - Answer "Yes" to question 1 and who either answer MHV or DS Logon to question 2
+  - Answer "No" to question 1 and who either answer MHV or DS Logon to question 2
   
 3. Have you been diagnosed by a medical professional in the past with a diagnosis like TBI, PTSD, etc.?
 - Yes (recruit at least 3; can have more, will not disqualify from participation)
@@ -117,13 +117,13 @@ For each group, recruitment should aim to get 2 per segment:
 - 4
 - 5
 -  I don't use a screenreader
-(please recruit at least 3 from 3 or 5 to fulfill Assistive Tech criteria)
+Please recruit at least 3 from question 3 or question 5 to fulfill Assistive Tech criteria
 
 6. Please select all of the options that best describes how you need assistance for using VA Online Service.
 - I do not need assistance
 - I call the help desk for assistance when I encounter
 - I go to family, friends, and peers for assistance
-(please recruit at least 3 from responses of those who either use help desk or use family, friends, and peers for assistance)
+Please recruit at least 3 from responses of those who either use help desk or use family, friends, and peers for assistance
 
 ## Workshop Timeline
 Length of Workshop: 90 minutes
@@ -182,12 +182,12 @@ Given a registered participant completes a 90 minute workshop, they will receive
   - Anticipate ways of how to bring in other participants/viewpoints without creating alienating group dynamics
 
 
-## Screener Questions
+## Alternative Screener Questions
+These screener questions will not be used for this study but are shared here as a resource.
 On a scale of 1 to 10:
 How comfortable are you with trying new services or technologies?
 How important is trust and security to you when engaging with a new service?
 What kind of support or guidance would you need to overcome any potential hesitancy related to the learning curve?
-Refer to Discussion Guide
 
 
 ## OCTO Objectives
