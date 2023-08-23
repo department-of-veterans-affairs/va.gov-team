@@ -14,7 +14,7 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 [Key findings](#key-findings)
 
-[Next steps](#nextsteps)
+[Next steps](#next-steps)
 
 [Who we talked to](#who-we-talked-to)
 
@@ -80,6 +80,12 @@ Some participants would be in MHV portal experience and return to Megamenu, Home
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/3efff43c-19d0-4bde-ab49-2ba1a6b421ec)
 
+We observed 3 groups:
+
+1. Not able to figure it out: These participants were unaware that they were in an authenticated health experience. They relied on the Menu dropdown and direct links and the home page and top task links. No mobile participants were able to “figure it out”
+2. Struggles but figures it out: These participants also relied on the Menu dropdown and direct links and the home page and top task links but were more successful and confident in their ability to troubleshoot. They also gravitated to other self service functionality, like Search.
+3. Experience is intuitive: These participants relied on direct links in My VA and immediately noticed and engaged with the MHV portal and wayfinding tactics available there.
+  
 
 **Finding 4: Sensemaking around health vs. Non-health resources: Differentiating between My VA and MHV portal experience**
 
@@ -142,74 +148,50 @@ _If you had specific criteria that you recruited for, use this space to explain 
 We talked to **x participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 18 
+* Caregivers: 0 
+* Family members of a Veteran: 0
 
 
 Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Male: 10 
+* Female: 7
+* Woman; non-binary: 1 
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 11 
+* Tablet: 1, using mobile prototype 
+* Smart phone: 6 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 3
+* 45-54: 1
+* 55-64: 9
+* 65+: 4
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* High school degree or equivalent: 12
+* Some college (no degree): 0
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 2
+* Master's degree: 2
+* Doctorate degree: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 9
+* Black: 4
+* Hispanic: 0
+* Biracial: 3
+* Asian: 1
+* Native: 0
+* Prefer not to respond: 1
 
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
 
 
 ## Underserved groups we haven’t talked to 
@@ -217,10 +199,20 @@ Disability and Assistive Technology (AT):
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+This research may not include the perspectives of the following underserved Veteran groups:
+- Cognitive disability
+- Other than honorable
+- Immigrant origin
+- Expat
+- Gay, lesbian, or bisexual
+- Desktop screen reader user
+- Speech input technology users
+- Hearing Aids
+- Sighted Keyboard
+- Captions
+- Switch Device
+- Braille Reader
+- Assistive Technology users
 
 _[insert screenshot of completed recruitment checker]_
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
