@@ -2,9 +2,10 @@
 
 The current landscape of appointment-related notifications is complex, and the appointments team has put together extensive documentation and research to describe when and how Veteran patients get notified about various appointment reminders, schedule changes, cancellations, and when appointment requests become scheduled. 
 
-* Related resources from Appointments Team:
+**Related resources about appointments **
   * Research study
-  * Service blueprint regarding appointment notifications 
+  * Service blueprint regarding appointment notifications
+  * [Appointments content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/appointments-content-brief.md) (what language to use when, where)
 
 ## Types of appointment reminders
 * Appointment reminders
