@@ -73,7 +73,7 @@ The toggles used for this:
 |How you'll recruit the right production test users|We will recruit users via Perigean|
 |How you'll conduct the testing|We will conduct UAT over Zoom to ensure the different features work correctly|
 |How you'll give the test users access to the product in production w/o making it live on VA.gov|The feature will be behind a feature flag|
-|Link to Research plan for UAT|[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b440b37ccc0450785856cdd8bd2d10e3f3aae727/products/identity-personalization/profile/notification-preferences/default-send/UAT/UATdefaultSendResearchPlan.md) <br>[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b440b37ccc0450785856cdd8bd2d10e3f3aae727/products/identity-personalization/profile/notification-preferences/default-send/UAT/UATdefaultSendConversationGuide.md)|
+|Link to Research plan for UAT|[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-09-UAT-edit-as-subtask-default-send-checkbox-ui/research-plan.md) <br>[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-09-UAT-edit-as-subtask-default-send-checkbox-ui/conversation-guide.md)|
 
 
 ### Results 
