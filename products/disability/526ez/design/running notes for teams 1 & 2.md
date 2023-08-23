@@ -1,4 +1,12 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
+
+## 8/24/23
+
+Attendees:
+
+Agenda
+- Error Matrix Discussion
+
 ## 8/17/23
 
 Attendees:
