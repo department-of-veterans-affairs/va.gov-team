@@ -49,6 +49,8 @@ Created by the sitewide content and IA team for teams working on products relate
 - **Disabling:** A condition is 10% disabling / 20% disabling, etc.
   
 - **Posttraumatic:** No hyphen when spelling out PTSD.
+  
+- **180-90 days left on active duty:** We start with the higher number (180) because this is a countdown to the discharge date. SMEs don't want us to show it as 90-180 days.
 
 ## Content considerations specific to disability compensation
 
