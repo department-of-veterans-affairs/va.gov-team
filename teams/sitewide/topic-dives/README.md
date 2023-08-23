@@ -71,8 +71,8 @@ Please add any potential future topics you would like covered below:
   - [Next-build technical overview video](https://drive.google.com/file/d/1gAVAsgTfvcp7XxvD_bax-2qlELNUKn-U/view)
   - [Next-build technical overview slides (note: still in progress, do not export)](https://docs.google.com/presentation/d/16QUzUmsdksWHQql9VnjpaBp1ewFAdrszv4TAsCxHBhU)
  
-    ### 8/22/2022 - Next-build overview and roadmap
-    - Tim Cosgrove
-    - [Next-build overview and roadmap video] 
-    - [Next-build overview and roadmap slides](https://docs.google.com/presentation/d/1QslO0qdxQm2QFczE0dxKrwCMFjqlRh-_z2xnc5eK83U)
+### 8/22/2022 - Next-build overview and roadmap
+- Tim Cosgrove
+- [Next-build overview and roadmap video](https://drive.google.com/file/d/18RxKVLKSWoWLH9KcaHF3PcL00huHkaHx/view)
+- [Next-build overview and roadmap slides](https://docs.google.com/presentation/d/1QslO0qdxQm2QFczE0dxKrwCMFjqlRh-_z2xnc5eK83U)
   
