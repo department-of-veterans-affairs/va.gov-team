@@ -20,6 +20,7 @@ ________________________________________________________________________________
 #### PLANNED RELEASES 
 - **EPIC: [Add Cell Phone to LoROTA Entry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)**
 - **EPIC: [Allow Submission of Travel Claim for 1 Facility Per Day](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)**
+- **EPIC: [Decrease No's to Filing for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63928)**
 
 #### SPRINT TICKETS
 - **GOAL: [Comply with ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
