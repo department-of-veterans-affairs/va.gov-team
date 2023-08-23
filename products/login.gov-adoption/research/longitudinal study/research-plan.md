@@ -73,7 +73,7 @@ For each group, recruitment should aim to get 2 per segment:
 - All participants must be Veterans
 - All participants have a computer or smartphone and must be willing to complete their session on one of those devices
 - All participants have a working microphone on their device
-- - Have Zoom downloaded to their device prior to the session and know how to share their screen
+- Have Zoom downloaded to their device prior to the session and know how to share their screen
 - All participants must be comfortable with engaging in a group setting
 - During the session, be willing to share a web browser window on their device
 - At least 2 of 9 people must have Login credentials
@@ -104,7 +104,7 @@ Please recruit at least 4 who:
   - Answer "No" to question 1 and who either answer MHV or DS Logon to question 2
   
 3. Have you been diagnosed by a medical professional in the past with a diagnosis like TBI, PTSD, etc.?
-  - Yes (recruit at least 3; can have more, will not disqualify from participation)
+  - Yes (recruit at least 2; can have more, will not disqualify from participation)
   - No
   
 4. Do you use a screenreader?
@@ -118,15 +118,13 @@ Please recruit at least 4 who:
   - 4
   - 5
   -  I don't use a screenreader
-
-Please recruit at least 3 from question 3 or question 5 to fulfill Assistive Tech criteria
+(Please recruit at least 2 from question 3 or 2 from question 5 who respond with at least a 4 on the 5 point scale to fulfill Assistive Tech criteria)
 
 6. Please select all of the options that best describes how you need assistance for using VA Online Service.
   - I do not need assistance
   - I call the help desk for assistance when I encounter
   - I go to family, friends, and peers for assistance
-
-Please recruit at least 3 from responses of those who either use help desk or use family, friends, and peers for assistance
+(Please recruit at least 2 from responses of those who either use help desk or use family, friends, and peers for assistance)
 
 ## Workshop Timeline
 Length of Workshop: 90 minutes
