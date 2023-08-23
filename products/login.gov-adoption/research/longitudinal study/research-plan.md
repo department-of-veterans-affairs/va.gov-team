@@ -173,14 +173,14 @@ Given a registered participant completes a 90 minute workshop, they will receive
 
 
 - Lack of fresh perspectives: While continuity has its advantages, using the same participants for an extended period might limit the introduction of new perspectives and fresh insights. Over time, participants may become accustomed to the service and potentially miss important considerations or blind spots
-  - Invite participants to reach out into their network for additional input. For example, participants may invited members of their support network to register with Perigean and participate in the study.
+- Invite participants to reach out into their network for additional input. For example, participants may invited members of their support network to register with Perigean and participate in the study.
 - Bias and groupthink: Maintaining the same participants can lead to potential bias and groupthink. Participants may start aligning their opinions or be influenced by the dominant perspectives within the group. 
-  - Actively seek diverse viewpoints and consider formats that allow for individual contribution before discussion or create break-out sessions that take power/viewpoint dynamics into consideration
+- Actively seek diverse viewpoints and consider formats that allow for individual contribution before discussion or create break-out sessions that take power/viewpoint dynamics into consideration
 - Fatigue and disengagement: Participants members may experience fatigue or reduced engagement over time, particularly if the development process becomes lengthy or repetitive. 
-  - Consider recruiting a larger cohort and then offering opt-in sessions
-  - Provide meaningful updates, addressing their feedback, and recognizing their contributions
+- Consider recruiting a larger cohort and then offering opt-in sessions
+- Provide meaningful updates, addressing their feedback, and recognizing their contributions
 - Limited scalability: If the campaign evolves in a way that was not anticipated initially, the participant representation and diversifying of the workshop group may become necessary.
-  - Anticipate ways of how to bring in other participants/viewpoints without creating alienating group dynamics
+- Anticipate ways of how to bring in other participants/viewpoints without creating alienating group dynamics
 
 
 ## Alternative Screener Questions
