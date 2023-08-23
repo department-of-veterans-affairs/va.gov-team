@@ -16,7 +16,7 @@
 
 
 # Accessibility Tools Utilized
-`iOS-VO` (List types of AT covered here)
+MAGic Screen Magnification Software ([product website](https://support.freedomscientific.com/Products/LowVision/MAGic))
 
 ## Coverage
 This research fulfilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
@@ -35,8 +35,8 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P12_                   | 8/18/2023         | _Originally recruited as an AT user, but didn't have access to AT on his desktop. This participant was partially sighted and completed the test w/o AT on his desktop, but verbalized feedback related to AT.`_             | _Advanced 5/5_      | _TBD_            | _Windows_    | _Chrome_      |
-|                        |                  |                    |                 |                      |             |             |
+| _P12_                   | 8/18/2023         | Originally recruited as an AT user, but didn't have access to AT on his desktop. This participant was partially sighted and completed the test w/o AT on his desktop, but verbalized feedback related to AT.             | Advanced 5/5      |  Windows    | Chrome      | Laptop (Asus) |
+| _P19_                       | 8/23/2021                  | _Uses MAGic magnifier + screen reader. Figma prototypes aren't compatible with MAGic, so only used magnifier for this session.                    | Intermediate to advanced 4/5                 | Windows                      |  Firefox           |   Laptop (Dell)          |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
@@ -51,7 +51,17 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - Prefers iOS devices because they are "convenient while I'm on the go."
 - When using MyHealtheVet on iOS, he uses a combination of pre-fill and facial recognition to access the app. "I selected that option; that's convenient for me."
 - If he'd had access to AT he was comfortable with on Windows, he would've used it to read the contents of page accordions out loud. "I'd rather just hear it read to me."
-  
+
+### P19
+- Uses a combination of screen magnification + screen reading via MAGic. He'll hover his mouse over text, and MAGic reads it out loud to him.
+- Uses 5x zoom. (Our testing standard is 4x.)
+- Uses a trackpad + keyboard when on laptop. When on the go, uses iOS devices.
+- Often, a web site's TOU is long and not broken up into chunks, so MAGic reads the entire thing out loud, which can take "30 minutes."
+- Bold and blue text stuck out.
+- H3 was almost the same size as paragraph text, "too small."
+- Noted that if the TOU was available in Word, he could download it and use its search features to find the information he needed.
+- ** Figma prototypes are not compatible with MAGic. **
+
 
 ## Key Findings
 Add screenshots, images and videos here.
@@ -76,6 +86,8 @@ This section is for quotes. ⚠️ Participants should be referenced by number o
 In this section feel free to segment populations based on the trends we see with certain user types.
 
 > "I'd rather just hear it read to me." - P12, who is partially sighted, speaking about AT and accordions
+> "...it takes 30 minutes. When you're reading you can skip read, but not if it's being read to you." - P19, about the length of TOUs
+> "I like that. Nice to have the option to look more in depth. Usually don't have the choice." - P19, on TOU items chunked by headings into accordions
 
 ## a11y Recommendations
 Overview summary goes here. 
