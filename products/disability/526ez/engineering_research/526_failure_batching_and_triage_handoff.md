@@ -1,4 +1,4 @@
-# 526 Failure re-try batching and triage handoff. 
+# 526 Failure re-try batching and triage handoff
 
 ## Purpose
 
@@ -15,23 +15,59 @@ The following detail what happened, how it was being addressed, and why we are n
 - [Transitional Ticket](https://app.zenhub.com/workspaces/benefits-team-1-6138d7b57a2631001a4b7562/issues/gh/department-of-veterans-affairs/va.gov-team/62593)
 
 ### TL;DR
-In mid 2022 it was discovered that we had roughly <nubmer of failures> outstanding on our 526 submission.  These failures had presented to end users as successful submissions, and due to a lack of cohesive monitoring these failures had not been address.  Here are some tickets and discussions related to that Issue, henceforth known as the "black hole".  The strategy for addressing the black hole failures includes the creation of an automatic retry and backup submission flow, as well as better logging and monitoring.  For the failed submissions that originally fell into the black hole we are leveraging this new backup submission functionality (aka a 'paper' submission) to re-enqueue these jobs.  The initial list of failures was compiled by Kyle Soskin, then sent to the VA> for review.  This list was deduped (many vet's had submitted multiple claims) and sent back as a master 'retry' list.  This was ~40k submissions.  Kyle has been re-enqueued these submissions manually in batches.  Currently 3 batches have been re-enqueued.  At the present time, there are less than 7k outstanding submissions to be resubmitted via the 'paper submission' flow.  The goal of this work and the focus of this document is the knowledge transfer that is occurring around how we rerun these failed jobs manually.
+In mid 2022 it was discovered that we had roughly ~150k failed user submissions
+in our 526 form that had never been addressed.  These failures had presented to
+end users as non-failures with a message to the effect of "We cqn't submit this
+now, but we will keep trying.  Due to a lack of cohesive monitoring these
+failures quitely piled up where no one was looking, leaving vetterans in the
+dark about the status of their claims.  THis problem is coliquially known to the team (now) as the "black hole" problem, as
+these submissions had effectively vanished.  See the afforementioned tickets for more context
+on the bug and the initial strategy to address it.
+
+For these historical failures, after de-duping the original 150k (Some vets had
+tried multiple submissions), Kyle Soskin from veteran-benefits-team-1 was tasked with
+a multi faceted project to begin correcting this problem. A major part of this
+work has been enabling the VBA to manually resubmit these forms. Our part of this process (or more specificially, Kyle's part until now)
+was / is to run a time consuming and semi-manual process wherin we use
+ our existing code (via a production rails console) to generate PDFs which are in turn sent in
+bacthes to VBA for re-submission (how they actually leverage these files towards
+resubmitting is a black box and beyond the scope of our work.  
+This process requires enhanced security credentials, 
+knowledge of our existing available infrastructure for generating these PDFs,
+and some proprietery scripting by kyle. Until now, the onus for this work, as
+well as related or adjacent triage, was falling soly on him due to the siloing
+of this knowledge.
+
+The purpouse of this knowledge transfer is to
+1. Allow Kyle to be moved off on to other work, and Sam to pick up where he left
+   off.
+2. Allow Sam the insight needed to document and potentially automate this
+   process.
+3. Ultimately De-silo the knowledge and hopefully remove the need for dangrous production access
 
 ## The Batch Resbumission Flow
 
-This work entails the manual resubmission of a large number of failed submissions via the backup flow, aka the 'paper submission'.
+This 'batching' work described above, roughly entails:
+1. getting / building a list of submission IDs to target for the batch
+2. logging into a production connected rails terminal
+3. pasting in the IDs
+4. writting some Ruby code to 
+    a. creating a Sidekiq batch
+    b. loop over the IDs, enqueuing a sidekiq job (defined in our code) with
+    each ID
 
+    TODO:
+
+5. zip and (???) upload these batches to S3
+6. generate signed links to these batches in S3, allowing our VBA counterparts
+   to easily pull these batched fils
+
+**NOTE:**
 Downstream services are
 - EVSS 526 PDF document generation
     - `asdf`
 - Lighthouse Backup submission endpoint
     - `asdf`
-### Identify the Submissions to retry
 
-- TODO: link to kyles batch folders
-
-
-### Notify 
-```
-
+TODO: break down each of these steps with code
 
