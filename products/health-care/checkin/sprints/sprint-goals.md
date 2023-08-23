@@ -36,7 +36,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64060)
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64059)
     - **EPIC: [Decrease No's to Filing for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63928)**
-         -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Revisit Content & Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64040)
+         -  ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Revisit Content & Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64040)
          -  ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] File for Travel Question Page: New Content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63931)
          -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63949)
          -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63948)
@@ -52,9 +52,9 @@ ________________________________________________________________________________
             - Blocked by Mobile App team work & staging test user
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Release 2 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+            - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[SPIKE] Figure out how to fetch all appointments for a Veteran for some period of time regardless of station/facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/640967)   
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Decide on Metrics to Measure Success for this Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63233)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Landing Page: Create New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62101)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[SPIKE] Figure out how to fetch all appointments for a Veteran for some period of time regardless of station/facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/640967)            
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Landing Page: Create New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62101)                      
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62848)      
