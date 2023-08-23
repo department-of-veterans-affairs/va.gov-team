@@ -45,9 +45,9 @@ We will mostly engage in a group format (up to 9 participants). Within this stud
 
 ## Trauma informed approach
 To ensure the research experience for participants is respectful and supportive, a trauma informed approach will be used for both pilot and the longitudinal study. During research review through Veteran Affairs, collaboration sessions will be held in pre-research planning to review workshop design and identity structures and resources to provide trauma informed practice throughout the research process.
-### Pilot
+## Pilot
 Establish an initial pilot study of three workshops for iterative engagement of Veterans and Veteran support networks in the development process and mixed method and generative research. During the pilot, participants will do workshops that allow for co-creation of expectations within the pilot and into the longitudinal study should they participate. There is also opportunity to do initial research into participant awareness and receptivity to the phased communication campaign. The pilot also allows for gauging initial interest in longer term engagement in the longitudinal study. 
-### Co-Creation Study
+## Co-Creation Longitudinal Study
 The longitudinal study is an extension of the pilot and pilot attendees are encouraged to continue participation in the longitudinal study. The longitudinal study is optimal as it offers the following benefits:
   - Continuity and familiarity: Having consistent study participants throughout the development process allows for continuity and a deeper understanding of the service. Participants become familiar with the service's evolution, goals, and challenges, which allows them to navigate different topics more effectively.
   - Building relationships and trust: Long-term engagement with the same participants fosters stronger relationships and trust between the development team and the users. Participants feel valued and invested in the service's success, leading to a more collaborative and productive partnership.
