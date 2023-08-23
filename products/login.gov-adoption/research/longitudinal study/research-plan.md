@@ -61,7 +61,7 @@ Efficiency and cost-effectiveness: Engaging the same participants can save time 
 ## Recruitment
 
 
-Each session will have up to 9 participants per session. For every session Perigean will oversee recruitment. Over recruitment is encouraged assuming likelihood of no shows/drop out therefore criteria will be out of 8. Should Veterans only be able to attend with support network members (for example, caregiver, family member or friend), we will designate specific sessions for both Veteran and their support network member to attend. Both Veteran and support network members will still register with Perigean in order to be compensated and be able to sign up for those designated workshop sessions. See Approach to Recruit in Appendix
+Each session will have up to 9 participants per session. For every session Perigean will oversee recruitment. Over recruitment is encouraged assuming likelihood of no shows/drop out therefore criteria will be out of 9. Should Veterans only be able to attend with support network members (for example, caregiver, family member or friend), we will designate specific sessions for both Veteran and their support network member to attend. Both Veteran and support network members will still register with Perigean in order to be compensated and be able to sign up for those designated workshop sessions. See Approach to Recruit in Appendix
 
 Participant characteristics should be distributed in a manner offering diversity in ethnicity, gender, age, ability, and housing. Given the small size of each co-creation study group per session, it will not be possible for the sample to be representative. 
 ### Primary Criteria 
@@ -71,11 +71,11 @@ For each group, recruitment should aim to get 2 per segment:
   - Newly Transitioned (Veterans who have just transferred out of service < 1 year ago and have not used a credential for more than 1 year)
   - No modern credentials (does not have Login.gov or ID.me)
 - All participants must be Veterans
-- All have a computer or smartphone and must be willing to be complete their session on one of those devices
-- Comfortable with engaging in a group setting
+- All participants have a computer or smartphone and must be willing to complete their session on one of those devices
+- All participants have a working microphone on their device
+- - Have Zoom downloaded to their device prior to the session and know how to share their screen
+- All participants must be comfortable with engaging in a group setting
 - During the session, be willing to share a web browser window on their device
-- Have a working microphone on their device
-- Have Zoom downloaded to their device prior to the session and know how to share their screen
 - At least 2 of 9 people must have Login credentials
 - At least 2 of 9 people must have My HealtheVet accounts
 - At least 2 of 9 people are experienced screen reader users (They identify as at least a 4 on the 5 point scale from the screener question below)
@@ -88,41 +88,44 @@ For each group, recruitment should aim to get 2 per segment:
 
 ## Screener Questions
 1. Have you ever created a Login.gov or ID.me account?
-- Yes
-- No
+  - Yes
+  - No
   
 2. Which login credential do you use most often to access your VA benefits and services online?
-- Login.gov
-- ID.me
-- My HealtheVet/MHV
-- DS Logon
-- I don't have a way to login and access my VA benefits and services online
+  - Login.gov
+  - ID.me
+  - My HealtheVet/MHV
+  - DS Logon
+  - I don't have a way to login and access my VA benefits and services online
+
 Please recruit at least 4 who:
   - Answer "Yes" to question 1 and who either answer Login.gov or ID.me to question 2
   - Answer "Yes" to question 1 and who either answer MHV or DS Logon to question 2
   - Answer "No" to question 1 and who either answer MHV or DS Logon to question 2
   
 3. Have you been diagnosed by a medical professional in the past with a diagnosis like TBI, PTSD, etc.?
-- Yes (recruit at least 3; can have more, will not disqualify from participation)
-- No
+  - Yes (recruit at least 3; can have more, will not disqualify from participation)
+  - No
   
 4. Do you use a screenreader?
-- Yes
-- No
+  - Yes
+  - No
 
 5. On a scale of 1-5, with 1 being a beginner and 5 being an expert, how experienced are you with using a screen reader?
-- 1
-- 2
-- 3
-- 4
-- 5
--  I don't use a screenreader
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  -  I don't use a screenreader
+
 Please recruit at least 3 from question 3 or question 5 to fulfill Assistive Tech criteria
 
 6. Please select all of the options that best describes how you need assistance for using VA Online Service.
-- I do not need assistance
-- I call the help desk for assistance when I encounter
-- I go to family, friends, and peers for assistance
+  - I do not need assistance
+  - I call the help desk for assistance when I encounter
+  - I go to family, friends, and peers for assistance
+
 Please recruit at least 3 from responses of those who either use help desk or use family, friends, and peers for assistance
 
 ## Workshop Timeline
