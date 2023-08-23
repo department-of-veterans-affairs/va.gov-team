@@ -1,4 +1,4 @@
-# [#62584](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/issues/gh/department-of-veterans-affairs/va.gov-team/62584) Onsite notifications UX Design Evaluatiion
+# [#62584](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/issues/gh/department-of-veterans-affairs/va.gov-team/62584) Onsite notifications UX Design Evaluation
 August 2023
 
 ## Appointment Reminder Notifications with Dot design vs. Card design
