@@ -10,6 +10,7 @@
 - *Post p# and "observer instructions" in #feedback-backchannel*
   - *@mention team members*
   - *Share brief summary of participant demographic info*
+  - *Mural link for notetaking*
 
 **5-10 min before session:** *Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
