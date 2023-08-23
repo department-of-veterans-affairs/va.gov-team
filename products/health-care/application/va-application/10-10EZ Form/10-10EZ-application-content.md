@@ -159,17 +159,23 @@ Expiration date: 06/30/2024
 
 [h1] We need some information before you can start your application
 
-[p] This will help us fit the application to your specific needs. Please fill out the form below. Then we’ll take you to the VA health care application (10-10EZ).
+- [p] We need some information before you can start your application. This will help us fit your application to your specific needs.
+- [p] Then you can fill out the VA health care application (10-10EZ).
 
-[p bold] Want to skip this step?
-[a] Sign in to start your application.
+- [p bold] Sign in and save time
+- [p] You can sign in and confirm that the information we have for you is up to date and then fill out the VA health care application. 
+- [a] Sign in to start your application.
 
 [component text input label] First name (*Required)
 
+[component form text input label] Your middle name
+
 [component text input label] Last name (*Required)
 
+[component form text input label] Suffix (dropdown) Jr. Sr. II III IV
+
 [label] Date of birth (*Required)
-Month Day Year (dropdowns)
+- Month Day Year (dropdowns)
 
 [component text input label] Social Security number(*Required)
 
@@ -181,7 +187,7 @@ Month Day Year (dropdowns)
 ---
 
 
-### Page: Veteran’s Name
+### Page: Personal Information - Unauthenticated View
 
 #### URL: /health-care/apply/application/veteran-information/profile-information
 
@@ -189,50 +195,39 @@ Month Day Year (dropdowns)
 [h2] Step 1 of 6: Veteran Information
 [end progress bar]
 
-[p] You don’t have to fill in all these fields. But we can review your application faster if you provide more information.
+[p] Confirm your information before you continue.
 
-[component form text input label] Your first name (*Required)
+[read only block]
+- [p bold] Name
+- Social Security number: xxx-xx-{last 4 of SSN}
+- Date of Birth: Month day, year
 
-[component form text input label] Your middle name
-
-[component form text input label] Your last name (*Required)
-
-[component form text input label] Suffix (dropdown) Jr. Sr. II III IV
 
 [button pair] [<< Back] [Continue >>]
 
 
----
-
-### Page: Social Security number
-
-#### URL: /health-care/apply/application/veteran-information/profile-information-ssn
+### Page: Veteran's Profile - AUTHENTICATED View
 
 [component progress bar]
 [h2] Step 1 of 6: Veteran Information
+[p] We’ll save your application on every change.
 [end progress bar]
 
-[component text input label] Social Security number (*Required)
+
+[p] This is the personal information we have on file for you.
+
+[read only block]
+- [p bold] Name
+- Social Security number: xxx-xx-{last 4 of SSN}
+- Date of Birth: Month day, year
+
+[p][bold]Note:[end bold] If you need to update your personal information, call our VA benefits hotline at 800-827-1000 (TTY: 711), Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+[p] You can also call your VA medical center (find a VA location tool) to get help changing your name on file with VA. Ask for the eligibility department.
+
+
 
 [button pair] [<< Back] [Continue >>]
 
-
----
-
-### Page: Date of birth
-
-#### URL: /health-care/apply/application/veteran-information/profile-information-dob
-
-
-[component progress bar]
-[h2] Step 1 of 6: Veteran Information
-[end progress bar]
-
-[component date label] Date of birth (*Required)
-
-[dropdowns for: month, day] [ input for year]
-
-[button pair] [<< Back] [Continue >>]
 
 
 ---
