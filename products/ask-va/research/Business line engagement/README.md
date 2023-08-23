@@ -12,8 +12,8 @@ We need to meet with business lines to determine which fields are required in or
 
 |Business line|Link to folder|
 |:--|:--|
-|Appeals of denied claims|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Appeals%20of%20denied%20claims)|
 |Benefits issues outside US|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Benefits%20issues%20outside%20US)|
+|Board Appeals|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Board%20Appeals)|
 |Burials and memorials|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Burials%20and%20memorials)|
 |Compensation|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Compensation)|
 |Debt|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Debt)|
