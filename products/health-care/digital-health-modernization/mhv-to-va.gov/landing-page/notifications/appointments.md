@@ -11,7 +11,7 @@ The current landscape of appointment-related notifications is complex, and the a
 * Appointment cancellations (by VA)
 * Pending appointments
 
-## Related notifications
+### Related notifications
 * New After-Visit Summary available (coming in Fall 2023)
 
 ## UX Discovery Research on Appointments
