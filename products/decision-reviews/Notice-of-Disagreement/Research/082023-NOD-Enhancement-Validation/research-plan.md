@@ -105,10 +105,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Research sessions
 Sessions will occur on the following dates: 
 
-* 8/30
+* 8/31
 * 9/1
-* 9/2
-* 9/4
 * 9/5
 * 9/6
 * 9/7
@@ -123,20 +121,19 @@ Sessions will occur on the following dates:
 * Buffer time between sessions: 60 minutes
 * Maximum number of sessions per day: 3
 ### Availability
-Use research plan temp (time 8 am to 6 pm est)
+Use research plan temp (time 9 am to 6 pm est)
 
-* Wednesday, 5/31 8am-6pm
-* Thursday, 6/1 8am-6pm
-* Friday, 6/2 8am-6pm
-* Monday, 6/5 8am-6pm
-* Tuesday, 6/6 8am-6pm
-* Wednesday, 6/7 8am-6pm
-* Thursday, 6/8 8am-6pm
-* Friday, 6/9 8am-6pm
-* Monday, 6/12 8am-6pm
-* Tuesday, 6/13 8am-6pm
-* Wednesday, 6/14 8am-6pm
-* Thursday, 6/15 8am-6pm
+* Wednesday, 8/30 9am-6pm
+* Thursday, 8/31 9am-6pm
+* Friday, 9/1 9am-6pm
+* Tuesday, 9/5 9am-6pm
+* Wednesday, 9/6 9am-6pm
+* Thursday, 9/7 9am-6pm
+* Friday, 9/8 9am-6pm
+* Monday, 9/12 9am-6pm
+* Tuesday, 9/13 9am-6pm
+* Wednesday, 9/14 9am-6pm
+* Thursday, 9/15 9am-6pm
 
 ## Team Roles
 
