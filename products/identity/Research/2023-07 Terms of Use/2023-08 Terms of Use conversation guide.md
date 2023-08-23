@@ -86,6 +86,8 @@ Are you comfortable with that?
    - Any particular reason you use [DEVICE] the most
 - Would you mind telling me what VA services you normally access online or perhaps why you went on to VA.gov most recently.
    - [remember this for later on]
+- About how long would you say you've been accessing services from the VA?
+   - How long would you say you've been going **online** to access services from VA? 
 - Other than the VA, do you sign into other services online? Maybe a bank or social media?
    - Has another service like a bank or social media site ever asked you to agree to thier terms of use.
    - If you had to explain what is "terms of use" how would you describe it to me if I was a 2nd grader?
