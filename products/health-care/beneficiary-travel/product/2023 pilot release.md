@@ -55,9 +55,8 @@ We will roll back if
 - What minor tweaks can be made before rolling this out to more Veterans?
 - What new metrics arise that we care about? 
 
-### Phase Staged Rollout 
 
-#### ✅ Phase 0: First Facility  - Wilkes Barre
+## ✅ Phase 0: First Facility  - Wilkes Barre
 
 **Desired date range** 
 
@@ -98,7 +97,7 @@ We will roll back if
   - ✅ Veteran
 
 
-#### Phase 1: VISN 0? roll out
+## Phase 1: VISN 0? roll out
 
 **Desired date range** 
 
@@ -122,7 +121,7 @@ Go live mid September 2023 + 8 weeeks
   - [ ] VISN XX Travel Office
 
 
-#### Phase 2: More VISNs 
+## Phase 2: More VISNs 
 
 > GOAL: Roll out to a total of 3 VISNS
 
