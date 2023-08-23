@@ -3,27 +3,30 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 -->
 ## Background
-This research covers the proposed redesign and enhancement of the "Specialized mission filter" feature (SMF) in the VA's GI Bill Comparison Tool product. A usability study will be organized to gauge the updated feature's ease of use and overall value to the user. Enhancements include:
+This research covers the proposed redesign and enhancement of the "Specialized mission filter" feature (SMF) in the VA's GI Bill Comparison Tool (CT) product. A usability study will be organized to gauge the updated feature's ease of use and overall value to the user. Enhancements include:
 - The ability to select multiple SMF options
 - Descriptions of SMF options
-- Positioning of filters below the Comparison Tool's search panel
+- Positioning of all filters below the Comparison Tool's search panel
 
+The CT product is publicly available (accessible whether or not the Veteran is signed in to VA.gov). It is not a new product, though modifications to it may occur from time to time to enhance the user experience.
 <!--- Where is your product situated on VA.gov? (ex: auth vs. unauth)
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?-->
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/67b8f7743ee130fe77267217dd86d9fc595a56f6/products/GIBCT_SMF%20Product%20Outline.docx).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/67b8f7743ee130fe77267217dd86d9fc595a56f6/products/GIBCT_SMF%20Product%20Outline.docx)
 
-<!--### OCTO Priorities 
+### OCTO Priorities 
+This research supports and aligns with the OCTO priority goal of enhancing Veterans’ personalized online experience.
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.-->
+[OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md)
 
 ### Veteran Journey
-This feature is part of the GI Bill Comparison Tool, which provides information and guidance on educational and training opportunities for Veterans.
-<!--Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter?-->
+The filtering feature to be studied is part of the GI Bill Comparison Tool, which provides information and guidance toward educational and training opportunities for Veterans.
+
+For many Veterans, this can be an important step in the "Starting Up," "Reinventing Myself," and "Engaging VA to access benefits and services" segments of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf).
+<!--Are there moments that matter?-->
 
 ## Research Goals	
-Primary goal of this research is to confirm ease of use and gauge the level of understanding of how the Specialized mission filters can be applied and updated in the GI Bill Comparison Tool.
+The primary goal of this research is to confirm ease of use and gauge the level of understanding of how the Specialized mission filters can be applied and updated in the GI Bill Comparison Tool.
 
 <!--What are you trying to learn from this research? 
 
@@ -33,48 +36,69 @@ Primary goal of this research is to confirm ease of use and gauge the level of u
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?-->
 
 ### Research questions
-This research involves how specific search filtering options are understood and applied when using the GI Bill Comparison Tool. Questions will include:
-- Have you used the SMF feature to filter school search results in the GI Bill Comparison tool? If so,
+Questions we seek to resolve by observing how participants use the SMF feature include:
+- How filtering options are understood: Do participants seek additional information on selections by locating and opening the "Learn more" accordion control to expose descriptions of the filters? 
+- How are the filters selected when using the GI Bill Comparison Tool: Do participants choose a single filter or (as now supported) select multiple filters?
+- Are participants aware that they need to choose the Update results button to refresh results?
+- Are participants satisfied with the updated results?
+- Are participants aware that they can modify the filters and update results at any time?
+- Do participants have any questions about other available filters or filter groups?
+- Are sight-impaired or other participants with accessibility needs in any way hampered from using and modifying filters?
+
+<!--FOR CONVERSATION GUIDE:
+- Have you previously used the SMF feature to filter school search results in the GI Bill Comparison tool? If so,
   - Did you apply the feature on a desktop or mobile device?
   - Which SMF filter or filter options have you applied?
   - Were you satisfied with the results of the SMF feature?
-  - Please rank the ease of use and value of the SMF feature on a scale of 1-10
+  - Please rank the ease of use and value of the SMF feature on a scale of 1-10 -->
 
 <!--Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)--> 
+- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+--> 
 
-<!--### Hypothesis
+### Hypothesis
+This study is intended to provide insight into whether or not CT filters, in particular those included in the SMF, are being used as designed and are providing Veterans with an effective, efficient means of discovering the opportunities they seek.
+
+Notes and recordings will be collected and analyzed, and the study will be considered successful if no serious impediments are discovered as participants work through the primary feature being studied, the feature functions as expected, and no design changes are deemed necessary.
+
+<!--
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!-->
+- Remember to constrain the hypothesis to the goals of your study!
+-->
 
 ## Methodology	
-Methodology for this research will be a moderated usability study, including an introductory demo should the participant be unfamiliar with the GI Bill Comparison Tool or the SMF feature.
+This research will be a moderated usability study focusing on the specialized media filter feature in the GI Bill Comparison Tool web application.
+
+Each session will include note-taking and, with the permission of the participant, recording, to determine how participants use and apply the filtering features under study.
+
 <!--
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
-Examples of common research methods include: 
+[template] Examples of common research methods include: 
 - Semi-structured interviews - appropriate for generative research
 - Contextual inquiry - appropriate for generative research
 - Card sorts - appropriate for generative and evaluative research; depending on the study design 
 - Tree tests - appropriate for evaluative research
 - Usability testing - appropriate for evaluative research
 - User acceptance testing (UAT) - required before product release
-
+-->
 Additional resources:
+
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
 - Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
 - If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
 - If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
 - If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).-->
+- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Study participants will be interviewed one at a time using the Zoom application.
+
+Study participants will be interviewed remotely one at a time using the Zoom application. "After hours" sessions will likely need to be scheduled for most if not all participants.
+
 <!--Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
 If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
@@ -86,8 +110,7 @@ If in person, include:
 -->
 
 ### Research materials
-The questions listed in the Research questions section above will provide the framework for the questions that will be asked during the moderated sessions. A script will be provided soon after the SMF feature is deployed to the development staging server.
-[Link to GI Bill Comparison Tool staging server)](https://staging.va.gov/education/gi-bill-comparison-tool/)
+The [Conversation Guide](url goes here)] will serve as the primary source for interactions with participants during each session of this study. A final script will be ready for review at least two days prior to deployment of the repositioned filters on the [GI Bill Comparison Tool staging server](https://staging.va.gov/education/gi-bill-comparison-tool/).  
 
 <!--
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -112,18 +135,17 @@ If recruiting outside of Perigean’s participant database:
 
 ## Recruitment	
 
-<!-->
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
+OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of participants. 
+ 
 - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
--->
+
+### Recruitment approach
+The intended audience should comprise Veterans who are currently or may in future be seeking educational or employment training opportunities.
+
+Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 <!--
-### Recruitment approach
-
-
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
 Pro tip:
@@ -131,13 +153,14 @@ Pro tip:
 - Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
 - Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more.
+ Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 -->
 
 ### Recruitment criteria
-Total number of Veteran participants: 15
+Total number of Veteran participants: 20
 
-Demographic criteria: Veterans, preferably those who are actively seeking or will in future be seeking education opportunities and may want to review institutions that support selected specialized mission types listed in the filter.
+Demographic criteria: Veterans, preferably those who are actively seeking or will in future be seeking education or training opportunities and may want to review institutions that support selected specialized mission types listed in the filter.
 
 Current specialized mission institution types are:
 - Historically Black colleges and universities
@@ -150,6 +173,8 @@ Current specialized mission institution types are:
 - Asian American Native American Pacific Islander-serving institutions
 - Predominantly Black institutions
 - Tribal college and university
+
+Special needs criteria: Recommend 10% of participants be included in the study to ensure design and content is accessible to Veterans with sight, hearing, or other impairments.   
 
 <!--
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
@@ -173,9 +198,10 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 -->
 
 ### Preparation
-A pilot session with one mock participant will be conducted within two days of the SMF feature's deployment on the staging server. 
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+A pilot session with one mock participant will be conducted within two days of the SMF feature's deployment on the staging server.
+
+- Pilot participant email: TBD
+- Date and time of pilot session: TBD
 <!--
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
@@ -197,13 +223,21 @@ Session length: 30 minutes. Sessions per day: 3.
 
 ### Availability
 Session scheduling: TBD
+
 <!--When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.-->
 	
 ## Team Roles	
-Moderator will be Garry Forbes (GovCIO contractor, writer/researcher). Note-taker will be Ariana Adili (GovCIO UX Designer). Other observers and note-takers may also attend but should not be required.
-Project points of contact are Garry Forbes (Garry.Forbes@va.gov), Ariana Adili (Ariana.Adili@va.gov), and Kara Ciprich (GovCIO Product Manager, Kara.Ciprich@va.gov) 
+- Moderator: Garry Forbes (GovCIO contractor, writer/researcher) 
+- Note-taker: Ariana Adili (GovCIO UX Designer)
+- Project points of contact: 
+  - GovCIO Product Manager Kara Ciprich (Kara.Ciprich@va.gov)
+  - Ariana Adili (Ariana.Adili@va.gov)
+  - Garry Forbes (Garry.Forbes@va.gov)
+
+Other observers and note-takers may also attend but should not be required.
+
 <!--
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator:	
