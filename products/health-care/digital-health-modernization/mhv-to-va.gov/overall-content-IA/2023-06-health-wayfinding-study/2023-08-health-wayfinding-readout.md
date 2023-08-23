@@ -1,10 +1,10 @@
-# [Study] Research Findings 
+# Health Wayfinding Study Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
-Date: MM/DD/YYYY
+Date: 08/23/2023
 
-[Designer 1] [email], [Designer 2] [email]
+[Robyn Singleton](robyn.singleton@va.gov), [Jenny Wang](Yizhen.Wang@va.gov), [Cara Frissell](cara.frissell@adhocteam.us)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -12,24 +12,18 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 **Jump to:**
 
-[Hypotheses and conclusions](#hypotheses-and-conclusions)
-
 [Key findings](#key-findings)
 
-[Recommendations](#recommendations)
+[Next steps](#nextsteps)
 
 [Who we talked to](#who-we-talked-to)
 
-[Further research needed](#further-research-needed)
 
 <br>
 
 ## Research Goals
 
 Most broadly speaking, the goal of this study is to help us get a sense of how closely the current organizing structures and wayfinding tools within the MHV on VA.gov experience align with users’ expectations and mental models. The purpose of this research is to assess users' reactions to and expectations of the MHV on VA.gov experience and whether the current wayfinding tactics are effective at guiding users through key tasks. More specifically, this study aims to help us understand how users navigate across health tools to non-health tools, and what their understandings and behaviors are when they are linked to other VA.gov sections or outside of VA.gov.
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
 
 
 ## Research Questions
@@ -42,25 +36,14 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 * How do users differentiate between My VA vs. MHV portal? What resources do they expect to be in each of those two locations?
 
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
 ## Methodology 
 
 _Brief description of method chosen_
 
 We conducted 18 remote interviews via Zoom. In these interviews, participants navigated across 4 key tasks using a prototype.  These interviews also included questions documenting users’ process navigating to and within My VA and My HealtheVet, the mental models they use to find certain information, and their expectations related to key tasks.  See the full [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/51d9beee1bbe325473118685c6f0ea6e46115fb7/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-conversation-guide_AVS.md) here.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
-
-
-## Hypotheses and Conclusions
-
-Not applicable
-
 
 ## Key Findings
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
 1. Earlier navigational behavior and outcomes​
 
@@ -74,20 +57,11 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
 **Finding 1: Earlier navigational behavior and outcomes​**
 
-<img width="453" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/a5e698fc-0632-4e68-8f57-ea764d4584bb">
+<img width="1117" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/e58ba9ab-e5b5-4059-82c8-368425a69b13">
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
+Participants who did not directly sign in had a more complex experience than those who did.  These early actions impact the rest of a participants’ experience.
 
 **Finding 2: Recurring navigational behaviors and outcomes: "gravitational pull" of wayfinding tactics​**
 
@@ -105,12 +79,6 @@ Some participants would be in MHV portal experience and return to Megamenu, Home
 **Finding 3: Spectrum of "figure-it-outness"​**
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/3efff43c-19d0-4bde-ab49-2ba1a6b421ec)
-
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
 
 
 **Finding 4: Sensemaking around health vs. Non-health resources: Differentiating between My VA and MHV portal experience**
@@ -135,60 +103,32 @@ Some participants would be in MHV portal experience and return to Megamenu, Home
 > _"...if it has anything to do with my health and wellbeing it's MHV app... anything else that's I think it's like a different app... like a copayment... it's going take you out of MHV" - P12_
 
 
-## Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
-
-## Recommendations
-
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
-
 ## Next Steps
 
 _Next steps here. Include owners if appropriate._
 
 
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
-
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/632cd3475f816d50c484a473ef0d31d4f860c608/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/632cd3475f816d50c484a473ef0d31d4f860c608/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-conversation-guide_AVS.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/632cd3475f816d50c484a473ef0d31d4f860c608/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/transcripts)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1688057183385/892e08ae73c1a90432e0f8bb6cd8a620ee8bf2dc?sender=ucbacbd1daef36939e8aa2288)
+
+[GitHub: Analysis and Reporting](https://github.com/department-of-veterans-affairs/va.gov-team/tree/632cd3475f816d50c484a473ef0d31d4f860c608/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/Analysis-and-reporting)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Desktop prototype](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/A3C4D258-7207-47A2-8530-4ED04E2CBB0F?hotspots=false)
 
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+[Mobile prototype](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/2724A3C2-DF18-4FEC-903A-E1886F87E72F?hotspots=false)
 
 
 ## Who we talked to 
