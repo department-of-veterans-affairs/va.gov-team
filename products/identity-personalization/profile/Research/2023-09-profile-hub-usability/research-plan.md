@@ -21,18 +21,18 @@ While shifting to multiple sections with vertical navigation solved the problems
 	- This increases the likelihood that the navigation could be skipped altogether if people navigate by heading, which is a common form of navigation style.  [Profile Hub epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593)
 
 
-- [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md#measuring-success).
-- Link to card in research repo
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md#measuring-success).
+Link to card in research repo
 
 ### OCTO Priorities 
 
 The profile hub supports the following OCTO priorities
 
 North stars:
-- ==Obj. 1: Increase the accessibility, reliability, and security of Veteran’s digital services. == 
-- ==Obj. 2: Reduce the time it takes for Veterans to find, use, and receive VA services.==  
+- **Obj. 1: Increase the accessibility, reliability, and security of Veteran’s digital services.**
+- **Obj. 2: Reduce the time it takes for Veterans to find, use, and receive VA services.**  
 - Obj. 3: Deliver higher-quality health care and faster, more accurate benefits decisions by increasing VA staff access to the right information, in the right format, at the right time.
-- ==Obj. 4: Make OCTO a healthier and more effective civic tech team.==
+- **Obj. 4: Make OCTO a healthier and more effective civic tech team.**
 
 Goals
 
