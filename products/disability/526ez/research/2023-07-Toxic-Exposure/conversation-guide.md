@@ -110,16 +110,14 @@ Think about a condition that you have claimed in the past or are thinking about 
 
 Imagine that you started this application to ask for disability compensation for asthma and you served in a Gulf War location. If that was the case, what would you do on this screen?
  
-*Allow participant to answer the first question. Hoping for some organic “No’s” – if we do not get them, suggest to later participants to answer no to get feedback from the added screen, then to answer yes.*
-
-*If answer no, allow user to go to next screen before stopping them to answer follow up questions.*
- 
-*Follow-up questions:*
+*Allow participant to first answer the question, then ask these follow up questions before they select "Continue"*
 
 - Are you familiar with the phrase “toxic exposure”? What do you know about it? Where did you learn about it?
 - Is this text about toxic exposure helpful to you?
+
+For the sake of getting feedback, we’d like you to select "I don't know" before proceeding.
   
-### No follow-up screen (only if user clicked "No")
+### No follow-up screen (only displays if user clicked "No" or "I don't know")
  
 *Allow participant to look at and answer the question on the screen.*
  
