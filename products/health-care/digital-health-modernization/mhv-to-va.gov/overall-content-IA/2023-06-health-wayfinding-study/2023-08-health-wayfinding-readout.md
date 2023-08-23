@@ -111,7 +111,18 @@ We observed 3 groups:
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+#### Short term
+
+* Move My VA and My HealtheVet into main menu on mobile. 
+* Make changes to My VA - link to My HealtheVet landing page. 
+
+#### Long term
+
+* Move My VA and My HealtheVet primary navigation elements "to the left".
+* Expose My HealtheVet link to unauthenticated visitors: 
+    * Add My HealtheVet link as part of "Manage health care" section of unauthenticated content. 
+    * Add My HealtheVet link (and potentially My VA link) onto home page.
+    * Add My HealtheVet link to the Health care benefits fly-out menu in top nav under "manage".
 
 
 ## Appendix
