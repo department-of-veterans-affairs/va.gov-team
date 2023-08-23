@@ -20,8 +20,9 @@ While shifting to multiple sections with vertical navigation solved the problems
 	- Unless a person knows to navigate 'upwards' in the page structure after they’ve opened the page, they may never realize that there even is a navigation menu that lives above the `H1`. 
 	- This increases the likelihood that the navigation could be skipped altogether if people navigate by heading, which is a common form of navigation style.  [Profile Hub epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593)
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md#measuring-success).
-Link to card in research repo
+
+- [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md#measuring-success).
+- Link to card in research repo
 
 ### OCTO Priorities 
 
