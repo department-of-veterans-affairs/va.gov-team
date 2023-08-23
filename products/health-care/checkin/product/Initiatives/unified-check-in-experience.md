@@ -89,6 +89,8 @@ We will be implementing this initiative using the following releases:
 	      	- Clicked on "Review your info" & answered No to at least 1 question
   	- New link to get back to the new landing page (minus the message of other tasks to do)
         - Add eyebrow into pre-check-in
+        - New expandable control to show what to do if demographics info is no up-to-date
+- Update to demographics pages to show what to do if demographics info is NOT up-to-date
 
 #### Release 4: New message and error pages (TENTATIVE)
 - New message page for info is up-to-date & clicked the pre-check-in link
