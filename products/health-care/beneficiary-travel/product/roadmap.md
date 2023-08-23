@@ -21,39 +21,53 @@
 
 ## Next for API focused team - Fall 2023
 
-- Address the [Known Issues](#known-issues) (performant, Payment Facility)
-- Update API to create claims when the appointment is marked complete
-- Create a performant endpoint for determining a Veteran Eligility 
-- Support teams integration with Claims API; including documentation, meetings, etc.
-  - va.gov BTSSS team
-  - Appointments team
-  - Mobile team 
-- Create and add any supporting analytics
-- Aid in creating and delievering on `how to make better claims get processed more efficiently`
+
+### Top 3 Proirities 
+
+1. Address the [Known Issues](#known-issues) (performant, Payment Facility)
+  1. Update API to create claims when the appointment is marked complete
+1. Expand the performant Submit Claim endpoint to support more use cases 
+1. BTSSS Veteran status API endpoint ; Given a Veteran return their BTSSS status (elilibilyty, account finalized, etc)
+
+### Other priorities
+
+1. Create and add any supporting analytics
+1. Support teams integration with Claims API; including documentation, meetings, etc.
+  1. va.gov BTSSS team
+  1. Appointments team
+  1. Mobile team 
+1. Aid in creating and delievering on `how to make better claims get processed more efficiently`
+1. Add functioanlity to expose payment status (where, when, etc) 
+
 
 ## Next for va.gov submission tool focused team - Fall 2023
-- Refactor the Travel Pay routes out of the PCI API into their own module
-- Spike: LHDI for a possible solution instead of using vets-api
-- Create an app on VA.gov that allows a Veteran to submit a Simple Claim
-- Expand the experience on VA.gov that allows a Veteran to submit a Next Step Claim
-- Integration with the Appointments team. 
-- Integration with the static BTSSS page on va.gov
-- Create and add any supporting analytics
+
+
+### Top 3
+1. Create an accessble and monitored app on VA.gov linked from the appointments app that allows a Veteran to submit a Simple Claim
+  1. Integration with the Appointments team. 
+1. Create an experience on VA.gov that can be expaneding to support Veteran submitting a `Next Step Claim``
+1. Integration with the static BTSSS page on va.gov
+
+### Other
+1. SPIKE: LHDI for a possible solution instead of using vets-api
+1. Create and add any supporting analytics 
+1. SPIKE: What does a low auth submit app look like
 
 ## Next for va.gov Appointments team - Fall 2023
 
-- Add a link to the submission tool for past appointments 
-- Query for claim status when viewing past appointments 
+1. Add a link to the submission tool for past appointments 
+1. Query for claim status when viewing past appointments 
 
 ## Next for va.gob mobile team - Fall 2023
 
-- Add ability to submit a simple claim for relative appointments
-- Integrate viewing claims status in the claims/benefits section. 
+1. Add ability to submit a simple claim for relative appointments
+1. Integrate viewing claims status in the claims/benefits section. 
 
 ## Next for va.gov benefits - Winter 2023/Early 2024
 
-- Start design research into where viewing claim status could be incorporated 
+1. Start design research into where viewing claim status could be incorporated 
 
 ## Next for va.gov `My VA team` and/or cartography team /Early 2024
 
-- Start design research into where viewing claim status could be incorporated 
+1. Start design research into where viewing claim status could be incorporated 

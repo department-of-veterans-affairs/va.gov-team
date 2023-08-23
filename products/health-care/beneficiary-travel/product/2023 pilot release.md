@@ -57,7 +57,7 @@ We will roll back if
 
 ### Phase Staged Rollout 
 
-#### Phase: First Facility  - Wilkes Barre
+#### ✅ Phase 0: First Facility  - Wilkes Barre
 
 **Desired date range** 
 
@@ -98,11 +98,11 @@ We will roll back if
   - ✅ Veteran
 
 
-#### Phase: VISN 0? roll out
+#### Phase 1: VISN 0? roll out
 
 **Desired date range** 
 
-Go live mid September 2023
+Go live mid September 2023 + 8 weeeks
 
 **To go live** 
 
@@ -113,6 +113,40 @@ Go live mid September 2023
       BTSSS Utilization - Number of Claims created in BTSSS
       Travel Pay process maturity (staff turnover rate, vacancies, etc) - ?????
       Staff willingness to participate - ????
+- [ ] Update PCI to add the new VISN
+- [ ] Sign off from 
+  - [ ] OCTO
+  - [ ] BTSSS API Team
+  - [ ] IVC
+  - [ ] VTP 
+  - [ ] VISN XX Travel Office
+
+
+#### Phase 2: More VISNs 
+
+> GOAL: Roll out to a total of 3 VISNS
+
+**Desired date range** 
+
+Go live Jan 2024+ 4 weeks
+
+**To go live** 
+
+- [ ] Identify training needs for the Travel Clerks and MSAs on the front line
+- [ ] Idenity any technical or design updates needed
+  -  [ ] ???
+  -  [ ] ???
+  -  [ ] ???
+  -  [ ] ???
+- [ ] Update PCI to add the new VISN
+- [ ] Sign off from 
+  - [ ] OCTO
+  - [ ] BTSSS API Team
+  - [ ] PCI
+  - [ ] IVC
+  - [ ] VTP 
+  - [ ] VISN XX Travel Offices
+
 
 
 
