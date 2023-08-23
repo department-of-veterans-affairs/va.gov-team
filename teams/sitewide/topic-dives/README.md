@@ -61,4 +61,18 @@ Please add any potential future topics you would like covered below:
 - [VBA Veteran Research Readout video](https://drive.google.com/file/d/1pxqhoKk0o6qZ_K3bvvsznuNoE4bvpxC5/view)
 - [VBA Veteran Research slides (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-readout.pdf)
 - [VBA Veteran Research slides (PPT)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/VBA_research_readout.pptx)
+
+  ### 10/31/2022 - Spec Tool 2.0
+  - Jill Adams and Daniel Sasser
+  - [Spec Tool 2.0 video](https://drive.google.com/file/d/1nQZqZPIxIsVn-x0zeNwELJTGDP-ByFyJ/view)
+
+  ### 8/29/2022 - Next-build technical overview
+  - Tim Cosgrove
+  - [Next-build technical overview video](https://drive.google.com/file/d/1gAVAsgTfvcp7XxvD_bax-2qlELNUKn-U/view)
+  - [Next-build technical overview slides (note: still in progress, do not export)](https://docs.google.com/presentation/d/16QUzUmsdksWHQql9VnjpaBp1ewFAdrszv4TAsCxHBhU)
+ 
+    ### 8/22/2022 - Next-build overview and roadmap
+    - Tim Cosgrove
+    - [Next-build overview and roadmap video] 
+    - [Next-build overview and roadmap slides](https://docs.google.com/presentation/d/1QslO0qdxQm2QFczE0dxKrwCMFjqlRh-_z2xnc5eK83U)
   
