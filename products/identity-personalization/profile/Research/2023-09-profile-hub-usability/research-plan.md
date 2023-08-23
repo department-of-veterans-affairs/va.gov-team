@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience – Profile, Profile Hub, [Date TBD]
+# Research Plan for Authenticated Experience Profile: Profile Hub usability study [Date TBD]
 
 ---
 ## Background
