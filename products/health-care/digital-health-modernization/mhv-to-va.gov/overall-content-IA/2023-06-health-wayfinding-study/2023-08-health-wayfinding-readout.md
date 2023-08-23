@@ -1,6 +1,6 @@
 # Health Wayfinding Study Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), OCTO Research**
 
 Date: 08/23/2023
 
