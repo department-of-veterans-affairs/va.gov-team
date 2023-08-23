@@ -4,7 +4,7 @@
 
 Date: 08/23/2023
 
-[Robyn Singleton](robyn.singleton@va.gov), [Jenny Wang](Yizhen.Wang@va.gov), [Cara Frissell](cara.frissell@adhocteam.us)
+Robyn Singleton (robyn.singleton@va.gov), Jenny Wang (Yizhen.Wang@va.gov), Cara Frissell (cara.frissell@adhocteam.us)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
