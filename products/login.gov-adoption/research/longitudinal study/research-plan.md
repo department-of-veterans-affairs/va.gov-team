@@ -61,7 +61,7 @@ Efficiency and cost-effectiveness: Engaging the same participants can save time 
 ## Recruitment
 
 
-Each session will have up to 9 participants per session. For every session Perigean will oversee recruitment. Over recruitment is encouraged assuming likelihood of no shows/drop out therefore criteria will be out of 9. Should Veterans only be able to attend with support network members (for example, caregiver, family member or friend), we will designate specific sessions for both Veteran and their support network member to attend. Both Veteran and support network members will still register with Perigean in order to be compensated and be able to sign up for those designated workshop sessions. See Approach to Recruit in Appendix
+Each session will have up to 9 participants per session. For the duration of the study, Perigean will oversee recruitment. Over recruitment is encouraged assuming likelihood of no shows/drop out therefore criteria will be out of 9. The study is organized into a three session pilot and three series of sessions (See study session timeline below). For the pilot and three series, there will be an unique cohort recruited for each. Each cohort will need to register for each study session within their assigned series. Cohorts will be unique for the pilot and each series to increase attendance as asking participants to commit to more than three sessions can become a barrier and discourage attendance. Should Veterans only be able to attend with support network members (for example, caregiver, family member or friend), we will designate specific sessions for both Veteran and their support network member to attend. Both Veteran and support network members will still register with Perigean in order to be compensated and be able to sign up for those designated workshop sessions. See Approach to Recruit in Appendix
 
 Participant characteristics should be distributed in a manner offering diversity in ethnicity, gender, age, ability, and housing. Given the small size of each co-creation study group per session, it will not be possible for the sample to be representative. 
 ### Primary Criteria 
@@ -126,12 +126,12 @@ Please recruit at least 4 who:
   - I go to family, friends, and peers for assistance
 (Please recruit at least 2 from responses of those who either use help desk or use family, friends, and peers for assistance)
 
-## Workshop Timeline
-Length of Workshop: 90 minutes
+## Study Timeline
+Length of Study Session: 90 minutes
 
-## Workshop Schedule (PLEASE NOTE EXACT DATES SUBJECT TO CHANGE)
+## Study Session Schedule (PLEASE NOTE EXACT DATES SUBJECT TO CHANGE)
 
-| Workshop Name  | Date | Time (ET)  | Duration | Mode  |
+| Session Name  | Date | Time (ET)  | Duration | Mode  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Co-Creation Study Pilot 1 | 8/29/2023 | 11:00 am ET | 90 Minutes | Virtual |
 | Co-Creation Study Pilot 2  | 9/5/2023 | 11:00 am ET | 90 Minutes  | Virtual  |
