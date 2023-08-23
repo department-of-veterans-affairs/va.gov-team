@@ -24,20 +24,19 @@
 
 ## Content on page
 
-- [ ] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
-- [ ] Header levels are hierarchical
-- [ ] The page has no broken links
-- [ ] Text links have purpose and target (only need target if the link takes the user off VA.gov--subsites don't need target)
-- [ ] The content is free of ability-focused language (view, walk, see, hear)
-- [ ] Relevant terms from page are in content brief and any relevant backlog work is noted
-- [ ] Remove "Who's covered?" section (if needed)
-- [ ] Remove "What kind of disability benefits can I get?" section (if needed)
+- [x] The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and has short sentences to align with PL standards
+- [x] Header levels are hierarchical
+- [x] The page has no broken links
+- [x] Text links have purpose and target (only need target if the link takes the user off VA.gov--subsites don't need target)
+- [x] The content is free of ability-focused language (view, walk, see, hear) **Note:** This page has "appears," which we've decided is ok when we talk about disabilities that "appear after military service." Not sure we need to rephrase this since one of the meanings in M-W is "to become evident or manifest."
+- [x] Relevant terms from page are in content brief and any relevant backlog work is noted **Note:** Added "180-90 days" to record that SMEs requested we frame it in decending order rather than 90-180 since it is a countdown to discharge.
+- [x] Fix lead-in lines to bulleted lists so the lead-in is a complete sentence (to support eventual translation) **Note:** Fixed several instances of this.
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 
-- After edits: 
+- Before edits: 11.2
+- After edits: 10.3
 
-- [ ] Backlog ticket for further review created if needed
+- [ ] Backlog ticket for further review created if needed **Note:** Not needed! The only outstanding text to address is the Supplemental Claims accordion that needs PACT/presumptive conditions language added to it. This will happen in a separate ticket and the work addressed sooner than with a backlog audit ticket. 
 
 ## SME review
 
