@@ -194,7 +194,7 @@ I would like you to share your screen with me so that I can see what you do duri
 If you wanted to visit a VA benefit office near you, what would you do?
 - * wayfinding via google? VA.gov > facility locator?
 
-Can you show me how you would find out whether a VA benefit office could help you explore how to pay for college?
+Can you show me how you would find out whether a VA benefit office could help you apply for disability benefits?
 
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. 
 
@@ -221,23 +221,7 @@ What are your impressions of what you're looking at? *(RECORD)*
 - *Any comments about the limited services and hours expandable alert?*
 - *Any comments about the 3 action links near top of page? What do they expect from them?*
 
-### Task 3: [Education (Veteran only)--accordion doesn't open]
-
-Let's pretend that you live in Boston. 
-
-Let's say that you’re exploring how to pay for college or other training, and you want to see if the VA can help. Using the information on this page, how can the Boston Regional Office help you?
-
-- *(**Educ benefits for Veterans** / Educ benefits for family members / __________)*
-
-### Task 4: [Education (Veteran or family member, not caregiver if only role)--accordion doesn't open]
-
-*(if didn't say above)* Let's pretend that you live in Boston. 
-
-Imagine that you’re thinking about how to pay for your kid to go to college. You want to learn about scholarships that might be available to kids of Veterans. Using the information on this page, how can the Boston Regional Office help you? 
-
-- *(Educ benefits for Veterans / **Educ benefits for family members** / __________)*
-
-### Task 5: [Disability--accordion opens]
+### Task 3: [Disability--accordion opens]
 *(Veteran only)*
 Imagine that you have some hearing loss that's related to your military service. You’re not currently receiving monthly disability payments from the VA, and you’d like some assistance applying for benefits. Using the information on this page, how could you get help from the Boston Regional Office? 
 
@@ -260,8 +244,9 @@ Imagine that your *[spouse/Veteran]* has some hearing loss that's related to the
 
 - Is there anything else you need to know before taking the next step?
   - *(No / Yes: what?________________________)*
-  
-### Task 6: [Home loan > COE--accordion opens]
+
+
+### Task 4: [Home loan > COE--accordion opens]
 *(Veteran only)*
 You’re interested in buying a house, and your lender asks for proof that you qualify for a VA home loan. From this page, where would you go for that?
 
@@ -284,7 +269,7 @@ Your Veteran family member *(the Veteran you care for)* is interested in buying 
 - Is there anything else you need to know before taking the next step?
   - *(No / Yes: what?________________________)*
   
-### Task 7: [Home loan - Need DD214]
+### Task 5: [Home loan - Need DD214]
 *(Veteran only)*
 Say you’ve decided to go to the Boston Regional Office in person to get proof that you qualify for a VA home loan. What do you need to have with you? [DD214]  
 
@@ -307,7 +292,7 @@ One of the items is a DD214. If they don't have a DD214, could this office help 
       - *notes about Thursday closures*
 
   
-### Task 8: [Home loan > check status--accordion opens]
+### Task 6: [Home loan > check status--accordion opens]
 *(Veteran only)*
 Now some time has passed since your visit to the regional office, and you’re still waiting to get proof that you qualify for a VA home loan. How would you find out what’s happening? 
 
@@ -324,17 +309,24 @@ Now some time has passed since your visit to the regional office, and you’re s
 
 - Is there anything else you need to know before taking the next step?
   - *(No / Yes: what?________________________)*
-  
-### Task 9: [VA life insurance--no accordion on page]
 
-If you wanted help applying for life insurance through the VA, where would you go for that?  
+### Task 7: [Education (Veteran only)--accordion doesn't open]
 
+Let's pretend that you live in Boston. 
 
-*[Follow-up when they can’t find it:]* Since you didn't find that information on this page, where would you go to find it? 
+Let's say that you’re exploring how to pay for college or other training, and you want to see if the VA can help. Using the information on this page, how can the Boston Regional Office help you?
 
-  - *RECORD what they do: Can't find service looking for > call hotline / Find a VA benefits location / ______________*
-  
-### Task 10: [Burial/memorial--accordion opens]
+- *(**Educ benefits for Veterans** / Educ benefits for family members / __________)*
+
+### Task 8: [Education (Veteran or family member, not caregiver if only role)--accordion doesn't open]
+
+*(if didn't say above)* Let's pretend that you live in Boston. 
+
+Imagine that you’re thinking about how to pay for your kid to go to college. You want to learn about scholarships that might be available to kids of Veterans. Using the information on this page, how can the Boston Regional Office help you? 
+
+- *(Educ benefits for Veterans / **Educ benefits for family members** / __________)*
+
+### Task 9: [Burial/memorial--accordion opens]
 
  If you wanted to honor a Veteran with a medallion on their headstone, could the Boston Regional Office help? 
 
@@ -348,8 +340,9 @@ If you wanted help applying for life insurance through the VA, where would you g
   
 - Is there anything else you need to know before taking the next step?
   - *(No / Yes: what?________________________)*
-  
-### Task 11: [Direct deposit--accordion doesn't open]
+
+ 
+### Task 10: [Direct deposit--accordion doesn't open]
 *(Veteran only)*
 Suppose that you just switched banks, and you want to tell the VA so that any payments you receive will go to your new bank instead of your old one. Could the Boston Regional Office help you do this? 
 
@@ -358,6 +351,16 @@ Suppose that you just switched banks, and you want to tell the VA so that any pa
 - *(Other services > Direct deposit information)*
 
 
+### Task 11: [VA life insurance--no accordion on page]
+
+If you wanted help applying for life insurance through the VA, where would you go for that?  
+
+
+*[Follow-up when they can’t find it:]* Since you didn't find that information on this page, where would you go to find it? 
+
+  - *RECORD what they do: Can't find service looking for > call hotline / Find a VA benefits location / ______________*
+  
+ 
 ## Post-Task Interview - 7 minutes
 
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
