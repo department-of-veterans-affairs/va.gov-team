@@ -18,7 +18,23 @@
  - Work is listed in PO's priority order based on SoS Sprint Tab
  - Current Sprint
     - Sprint 78 8/16 - 8/29
-    - 3 sprints remaining in this quarter 
+    - 3 sprints remaining in this quarter
+  
+
+## Agenda
+* **Q3 Projects in Progress**
+  * Yellow projects
+ 
+* **Standing question for the POs**
+  * Any new work we should be on the lookout for?
+  * Any priority shifts or other updates? 
+
+
+* **Sprint Planning (Adam)**
+ * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
+
+
+
    
 |Project | PM | Status | Current Sprint Work | Future Sprint Work | Est Completion Timing |
 | ----------- | ----------- | ----------- |-----------| -------------| ----------|
@@ -79,23 +95,43 @@
 |Q3  [Appointment Refinement: Compensation & Pension](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725)  | Meko | 8/1 App release |
 </details>
 
-## Agenda  
+
+
+
+<details>
+<Summary>Historical Agendas and Meeting Notes </Summary>
 
 ## 8/22/23 Agenda:
 * **Q3 Projects in Progress**
-  * Yellow projects - Check In and Android Custom Tabs  
+  * Yellow projects - Check In and Android Custom Tabs
+     * Check-In (Meko) - still need Appointment team to expose a few fields and provide access to staging tool - Apt team is continuing to work on it 
+     * Custom Tabs (Stacy) - SiS did a fix on their side and Mobile will be re-releasing on 9/12 
+  
+  
 * **Standing question for the POs**
   * Any new work we should be on the lookout for?
+       * Not on Scrum Board but Terms of Use Sprint 0 - external team will demo this on Thursday
+       * Terms of Use Sprint 0 should be priority one of Sprint 0s and prefer to start this earlier than originally planned
+       * Mobile does not explicitly have to match what other teams are doing
+         * However - need to make sure that changes Web makes does not negatively impact mobile and changes mobile makes does not negatively impact web  
   * Any priority shifts?
+  * Any updates?
+       * Veteran Status - Rachel - hot off the press 
+         * Just found out before this meeting that per VA Legal we cannot use the term Veteran or Veteran Status given dishonorably discharged (DD) Veterans can currently access this feature 
+           * Rationale - doesn't follow Veteran definition; could lead to legal problems if DD Veteran has something that indicates they are a Veteran ; refered to VA communication toolkit on the web
+         * With this - the recommendation was to change the name to Proof of Military Service then rename to Veteran Status onec DD Vets are prevented from accessing 
+           * Mobile recommended Proof of Service given the length of Proof of Military Service will cause UX issues in the app - Rachel agreed
+           * Mobile also sited concerns with the switching and changes impacting Veterans with cognitive disabilities 
+              * Mobile's recommendation was to hold off releasing until the product works as expected vs pushing it out and making changes
+              * Mobile also concerned with hiding information and from conversation DD Veterans can access some information but just not have it say Veteran
+              * Mobile confirmed BE has access to statuses but FE does not use them to identify DD Vets
+                 * Mobile will need help with understanding what statuses to use and when from external team
+         * Rachel agreed to hold off on how to move forward with Veteran Status based on Mobile feedback and will get back with the Mobile team on next steps   
  
-* [4420](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4420)-Truncated address when launching Apple Maps
-   * Next Steps to close the loop
-     - Initial analysis not a mobile app issue, web has not heard of any issues on their end (leverage google maps)
-     - Potential test that Kay has called out in slack is we could try testing with a Staff Veteran at the site.  If this is something we should do; may need PO coordination to set this up.  [See thread](https://dsva.slack.com/archives/CMNQT72LX/p1690220266864609)
-     - There has only been 1 reported instance of this, should we continue to troubleshoot and work to test with this particular site, or is it ok to close this ticket for now and monitor to see if we receive any new inquiries concerning this use case?
 
-* **Sprint 78 Planning (Adam)**
-  * SoS (Sprint Tab)[https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3]
+
+* **Sprint 79 Planning (Adam)**
+  * SoS [Sprint Tab](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
      * Several areas over capacity
      * Rachael is the only QAer next sprint 
      * New projects
@@ -103,12 +139,25 @@
          *  RX Default list view to show Active 
      * Projects completed from last sprint - 2.11 release 9/12 
          * Veteran Status MVP
+     * Conversation on the sprint
+         * Identified that Check-In Mobile work will be limited as we do not have access to testing - Apts is still working on it
+         * Tom confirmed QA is set-up the best way the can to support Rachael being solo QA this sprint
+         * Rachel indicated that we would pull capacity from Claims or the proejct itself
+            * Matt eindicated this was more for small changes and planning for Q4 work
+        * Adam indicated more conversation to happen during Sprint Planning process but have made good progress with the convo    
+ 
  * **Other items**
     * Q4 planning timing ? (Adam)
-       * 3 sprints left for Q3 ~7 weeks away from Q4 work  
+       * 3 sprints left for Q3 ~7 weeks away from Q4 work
+       * Matt said that Kelly will be leading and coordinate with Jennifer - more information to be shared with Kelly is back from PTO
+       * 10/3 is the full plan review - start at least 2 weeks before hand 
+   * [4420](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4420)-Truncated address when launching Apple Maps
+     * Next Steps to close the loop
+       - Initial analysis not a mobile app issue, web has not heard of any issues on their end (leverage google maps)
+       - Potential test that Kay has called out in slack is we could try testing with a Staff Veteran at the site.  If this is something we should do; may need PO coordination to set this up.  [See thread](https://dsva.slack.com/archives/CMNQT72LX/p1690220266864609)
+       - There has only been 1 reported instance of this, should we continue to troubleshoot and work to test with this particular site, or is it ok to close this ticket for now and monitor to see if we receive any new inquiries concerning this use case?
+    * Rachel approved to close this out but monitor is this is happening in App store review / Reddit 
 
-<details>
-<Summary>Historical Agendas and Meeting Notes </Summary>
 
 ## 8/9/23 Agenda
 * Q3 Projects in Progress
