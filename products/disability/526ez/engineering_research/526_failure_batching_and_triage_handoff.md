@@ -65,7 +65,7 @@ This 'batching' work described above, roughly entails:
 **NOTE:**
 Downstream services are
 - EVSS 526 PDF document generation
-    - `asdf`
+    - `<evss url>/rest/form526/v2/getPDF`
 - Lighthouse Backup submission endpoint
     - `asdf`
 
