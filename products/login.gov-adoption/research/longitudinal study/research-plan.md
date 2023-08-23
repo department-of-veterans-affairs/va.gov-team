@@ -10,10 +10,10 @@ A three month longitudinal study of generative research and participatory design
 
 ## Research Goals
 ### Primary
-Discover new strategies, language, and channels to educate Veterans about Login.gov.
-Leverage trusted communities and resources to provide migration support, especially to those who display more hesitancy and resistance.
-Uncover jobs to be done that pertain to accessibility and edge cases.
-Increase the efficiency and effectiveness of our iterations through rapid workshops and prototypes.
+Discover new strategies, language, and channels to educate Veterans about Login.gov.<br />
+Leverage trusted communities and resources to provide migration support, especially to those who display more hesitancy and resistance.<br />
+Uncover jobs to be done that pertain to accessibility and edge cases.<br />
+Increase the efficiency and effectiveness of our iterations through rapid workshops and prototypes.<br />
 
 
 ### Secondary
