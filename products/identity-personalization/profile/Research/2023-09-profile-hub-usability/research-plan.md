@@ -1,6 +1,5 @@
 # Research Plan for Authenticated Experience Profile: Profile Hub usability study [Date TBD]
 
----
 ## Background
 
 When we launched [Profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#readme) in 2020, the profile went from a single page to a multi-page section with the intent of solving a number of problems:
@@ -103,7 +102,6 @@ TO BE UPDATED
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
 
-
 ## Recruitment	
 
 ### Recruitment approach
@@ -168,6 +166,8 @@ Inclusion
 * Planned dates of research:
 
 ### Length of sessions
+
+**TBD**
 
 - Cohort 1 and 2: sighted participants
     - Session length: **60-minute** sessions
