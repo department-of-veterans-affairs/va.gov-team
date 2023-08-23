@@ -3,13 +3,14 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 8/23/2023 - 9/5/2023 ------------------------ FUTURE / TENTATIVE ------------------
+## 8/23/2023 - 9/5/2023 
 #### SPRINT GOALS
 - **GOAL: Comply with ATO**
     - **Sub Goal: Perform Compliance Tasks**
  - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Add Cell Phone to LoROTA Entry**
     - **Sub Goal: Allow Submission of Travel Claim for 1 Facility Per Day**
+    - **Sub Goal: Decrease No's to Filing for Travel**
     - **Sub Goal: Evolve travel reimbursement during online check-in**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
      - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
@@ -42,13 +43,14 @@ ________________________________________________________________________________
          -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63949)
          -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63948)
          -  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63951)
-   - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] [SPIKE] For Travel Claims Worker, handle the 60 second limit for Sidekiq worker](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64070)
+   - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] [SPIKE] For Travel Claims Worker, handle the 60 second limit for Sidekiq worker](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64070)  
    - **Sub Goal: Evolve travel reimbursement during online check-in**
       - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
           - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create pros and cons of ideas on how to evolve travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64050)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Remove 'Client' class from CHIP library](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64152)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create a Readme for CHIP library in vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64073)
             - Blocked by Mobile App team work & staging test user
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
@@ -68,7 +70,6 @@ ________________________________________________________________________________
     - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Identify and prioritize components for Design System v.3 transition](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64010#issuecomment-1687153194)
  
------------------------- END FUTURE / TENTATIVE ------------------
 __________________________________________________________________________________________________________________________________________________________
 
 ## 8/9/2023 - 8/22/2023 
