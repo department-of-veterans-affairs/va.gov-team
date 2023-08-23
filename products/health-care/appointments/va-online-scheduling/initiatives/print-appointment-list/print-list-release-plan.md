@@ -7,17 +7,36 @@
 ### Planning:
 - Desired date range or test duration: 1 week
 - Desired number of users: 3
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- How you'll recruit the right production test users: Find veteran within the VA to test with
+- How you'll conduct the testing: Online meeting
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Enable feature flag for test user
 
-### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+### Week 1 Results: August 1-8, 2023
+- Number of users: 899
+- Total Events: 1,214
+- Number of bugs identified / fixed: 0/0
+- Was the data submitted (if any) easy for VA to process?: yes
+- Types of errors logged: No errors logged
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? no 
+- If yes, what: n/a
+
+### Week 2 Results: August 9-15, 2023
+- Number of users: 989
+- Total Events: 1,343
+- Number of bugs identified / fixed: 0/0
+- Was the data submitted (if any) easy for VA to process?: yes
+- Types of errors logged: No errors logged
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? no 
+- If yes, what: n/a
+
+### Week 3 Results: August 16-22, 2023
+- Number of users: 957
+- Total Events: 1,297
+- Number of bugs identified / fixed: 0/0
+- Was the data submitted (if any) easy for VA to process?: yes
+- Types of errors logged: No errors logged
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? no 
+- If yes, what: n/a
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
