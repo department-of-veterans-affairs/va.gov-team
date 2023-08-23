@@ -113,16 +113,28 @@ We observed 3 groups:
 
 #### Short term
 
-* Move My VA and My HealtheVet into main menu on mobile. 
-* Make changes to My VA - link to My HealtheVet landing page. 
+* Make it easier to find My VA and My HealtheVet within the navigation on mobile web.
+<img width="620" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/53805e8c-e9c5-4492-8c66-db0fe7e1cd39">
+
+
+* Help users viewing My VA more easily find My HealtheVet. Connect My HealtheVet branding to health care section.
+<img width="652" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/3bf02f96-e63b-47a8-a384-de2f82d0b701">
+
+
 
 #### Long term
 
-* Move My VA and My HealtheVet primary navigation elements "to the left".
-* Expose My HealtheVet link to unauthenticated visitors: 
-    * Add My HealtheVet link as part of "Manage health care" section of unauthenticated content. 
-    * Add My HealtheVet link (and potentially My VA link) onto home page.
-    * Add My HealtheVet link to the Health care benefits fly-out menu in top nav under "manage".
+* Increase the prominence of My VA and My HealtheVet within the primary navigation.
+<img width="632" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/7d5be565-e024-4059-a92d-8dd772f61cff">
+
+Expose My HealtheVet link to unauthenticated users:					
+* Add MyHealtheVet link as part of "Manage healthcare" section of unauthenticated content. 						
+* Add MyHealtheVet link to the Healthcare benefits fly-out menu in top nav under "manage"
+ <img width="818" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/ef034c00-8af6-4db6-abed-e8c61dc06aa9">
+
+* Add My HealtheVet link (and potentially My VA link) onto home page.
+<img width="415" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/14c03fb7-cf1f-46f8-84fd-fdb28a906a2d">
+
 
 
 ## Appendix
