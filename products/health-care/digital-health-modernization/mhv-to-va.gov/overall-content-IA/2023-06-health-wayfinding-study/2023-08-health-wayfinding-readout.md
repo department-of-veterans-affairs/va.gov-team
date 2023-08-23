@@ -6,7 +6,7 @@ Date: 08/23/2023
 
 Robyn Singleton (robyn.singleton@va.gov), Jenny Wang (Yizhen.Wang@va.gov), Cara Frissell (cara.frissell@adhocteam.us)
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout powerpoint deck](https://dvagov-my.sharepoint.com/:p:/r/personal/robyn_singleton_va_gov/Documents/Docs/2023%20Wayfinding%20research/230823_AVS_Appts%20readout.pptx?d=w411dde75275e4d4fb4636b029672cbe7&csf=1&web=1&e=heBZJ5)
 
 <br>
 
