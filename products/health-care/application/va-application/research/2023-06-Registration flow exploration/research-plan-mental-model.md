@@ -155,13 +155,13 @@ Please request enough dates and at ***least double the amount of time slots for 
 TBD
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | ----------------------|
-| September 13, 2023 	| 1pm ET - 7pm ET 	|
-| September 14, 2023 	| 1pm ET - 7pm ET 	|
-| September 15, 2023 	| 1pm ET - 4pm ET 	|
-| September 18, 2023 	| 1pm ET - 7pm ET 	|
-| September 20, 2023 	| 1pm ET - 7pm ET 	|
-| September 21, 2023 	| 1pm ET - 7pm ET 	|
-| September 22, 2023 	| 1pm ET - 4pm ET 	|
+| September 13, 2023 	| 12pm ET - 7pm ET |
+| September 14, 2023 	| 12pm ET - 2pm and 3pm ET - 7pm ET 	|
+| September 15, 2023 	| 12pm ET - 2pm and 3pm ET - 4pm ET 	|
+| September 18, 2023 	| 12pm ET - 2pm and 3pm ET - 7pm ET 	|
+| September 20, 2023 	| 12pm ET - 7pm ET 	|
+| September 21, 2023 	| 12pm ET - 2pm and 3pm ET - 7pm ET 	|
+| September 22, 2023 	| 12pm ET - 2pm and 3pm ET - 4pm ET 	|
 
 
 
