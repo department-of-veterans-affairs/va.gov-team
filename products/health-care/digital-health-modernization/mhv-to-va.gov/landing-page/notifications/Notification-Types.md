@@ -8,6 +8,8 @@ The following is a list of notification types under consideration for inclusion 
     * Displayed when a user has a prescription with a refill available but not ordered when due.
 1. **Rx Needs Renewal**
     * Displayed when the user has a prescription with no refills available and the term of the last refill is almost ended.
+1. **Rx has Shipped**
+   * Displayed when a prescription first fill or refill has been shipped by the pharmacy (this status can stay on Medication card as active status for up to 14 days, but most facilities will ship within 2-3 days)
 1. **New Lab/Test Results Available**
     * Displayed when unread lab results are available to the user.
 1. **New Imaging Results Available**
