@@ -17,6 +17,7 @@
   - Development on Submit workflow
     - Also picking up discovery on Backup submission flow to see if anything needs to be  migrated or if we can leave it in place till after Toxic Exposure is live
 - Now/Next/Later is in the idea board - https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1692887832703
+- Is there a way to publish announcements without code changes for future issues/outages? On va.gov?
 - Do we want to meet with Octo biweekly calls?
 
 ### Date: Aug 17 2023       
