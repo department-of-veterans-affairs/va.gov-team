@@ -36,7 +36,7 @@
 - Before edits: 11.2
 - After edits: 10.3
 
-- [ ] Backlog ticket for further review created if needed **Note:** Not needed! The only outstanding text to address is the Supplemental Claims accordion that needs PACT/presumptive conditions language added to it. This will happen in a separate ticket and the work addressed sooner than with a backlog audit ticket. 
+- [x] Backlog ticket for further review created if needed 
 
 ## SME review
 
