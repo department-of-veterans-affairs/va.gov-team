@@ -269,17 +269,17 @@ Race:
 * Native: 0
 
 
-Disability and Assistive Technology (AT): None
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+Disability and Assistive Technology (AT): Not applicable in this study, generative inteview
+* Cognitive: 8
+* AT beginner: NA
+* AT advanced user: NA
+* Desktop screen reader: NA
+* Mobile screen reader: NA
+* Magnification/Zoom: NA
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking:NAx
+* Hearing aids: NA
+* Sighted keyboard: NA
+* Captions: NA
 
 
 ## Underserved groups we haven’t talked to 
