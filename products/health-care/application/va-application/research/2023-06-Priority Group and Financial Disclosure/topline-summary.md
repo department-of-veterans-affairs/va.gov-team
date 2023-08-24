@@ -33,11 +33,6 @@ Finding detail
 - 1/12 Veterans said they would want to update their financial information in My Health.
 
 
-> P2: "I imagine my financial info would be under my profile. It makes sense because it's me and my information."
-
-> P3: "It is just where I know where to go to change my address, so it makes sense to be able to change any other personal information."
-
-
 
 **Finding #2: The line between disability benefits and health care is blurry**
 
@@ -47,7 +42,6 @@ Finding detail
 - 1/12 unknown
 - 3/12 - question not asked
 
-> Quote (if relevant)
 
 
 **Finding #3: More explanation needed for Priority Groups**
@@ -55,7 +49,6 @@ Finding detail
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
 
-> Quote (if relevant)
 
 
 **Finding #4: Notifications to make financial updates**
@@ -65,7 +58,6 @@ How would they want to be notified to update financial information?
 - 4/12 Notifications (2/4 also mentioned in person appt.)
 - 1/12 letter in mail
 
-> Quote (if relevant)
 
 
 **Finding #5: Desire for more robust online experience**
@@ -73,4 +65,3 @@ How would they want to be notified to update financial information?
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
 
-> Quote (if relevant)
