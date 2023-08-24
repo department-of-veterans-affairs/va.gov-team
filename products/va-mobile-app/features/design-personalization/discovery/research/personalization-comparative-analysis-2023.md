@@ -116,7 +116,7 @@ There was no single personalization method used on the home screen by all apps (
    </td>
   </tr>
   <tr>
-   <td><strong>High level feature data</strong> (a summary that’s not actionable—ex: a bank account balance, total number of airline miles) 
+   <td><strong>High level data</strong> (big number/status that’s not actionable: total number of airline miles, airline mileage ranking; “quantified self”) 
    </td>
    <td>15
    </td>
@@ -130,7 +130,7 @@ There was no single personalization method used on the home screen by all apps (
    </td>
   </tr>
   <tr>
-   <td><strong>Current feature status </strong>(specific, not actionable—ex: a credit card balance, a shipped prescription, an upcoming booked trip)
+   <td><strong>Feature status </strong>(data that changes and is specific to a feature, but not actionable: a credit card balance, a shipped prescription, an upcoming booked trip “status overview”)
    </td>
    <td>13
    </td>
@@ -143,7 +143,7 @@ There was no single personalization method used on the home screen by all apps (
    </td>
   </tr>
   <tr>
-   <td><strong>Non-critical action items</strong> (actionable, but not critical—ex: an after visit summary is available to read, you have a new insurance card, your account number has changed, past tasks to review)
+   <td><strong>Non-critical action items</strong> (actionable, but not critical: an after visit summary is available, you have a new insurance card, your account number has changed, past tasks to review )
    </td>
    <td>13
    </td>
@@ -155,7 +155,7 @@ There was no single personalization method used on the home screen by all apps (
    </td>
   </tr>
   <tr>
-   <td> <strong>Fixed content</strong>, like the user’s name or a mileage number (however, most app’s reserve only a small amount of space for this
+   <td> <strong>Fixed content</strong>, like the user’s name, airline mileage account number, agent/contact person, favorite location (however, most app’s reserve only a small amount of space for this
    </td>
    <td>12
    </td>
@@ -170,8 +170,7 @@ There was no single personalization method used on the home screen by all apps (
    </td>
   </tr>
   <tr>
-   <td><strong>Critical action items</strong> related to a feature’s status (ex: whether a bill is due and its due date, the ability to check in for travel or an appointment, an unread message from a doctor)
-   </td>
+   <td><strong>Critical action items & updates</strong> related to a feature’s status: whether a bill is due and its due date, the ability to check in for travel or an appointment, an unread message from a doctor
    <td>11
    </td>
    <td>
