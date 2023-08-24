@@ -24,7 +24,7 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 
 [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2287%3A43222&t=0TibHujNgvUjrD7t-1)
 
-[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#appointment-list-cards)
+[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/homepage.md#upcoming-appointments)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
