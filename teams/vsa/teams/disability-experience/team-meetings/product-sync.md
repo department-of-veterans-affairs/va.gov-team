@@ -1,7 +1,26 @@
 # Benefits Disability Experience - Product sync 
 
-### Date: Aug 17 2023       
+### Date: Aug 24' 2023       
 ### Participants: 
+### Topics Covered:
+- New Benefits Portfolio project/workstream dashboard
+  - Updated except for Toxic Exposure - do not expect this to be Live before end of October at this point
+  - Might need to pull in Team 2 based on discovery and final designs
+  - Depends on Submit migration
+- Lighhouse migration
+  - ITF at .5% traffic on LH since 10 AM Aug 23
+  - View dashboard
+  - Next step is at 5%
+    - we had planned it after 1 week
+    - wondering if we can pull that forward     
+  - Ready for rateddisabilities release after ITF
+  - Development on Submit workflow
+    - Also picking up discovery on Backup submission flow to see if anything needs to be  migrated or if we can leave it in place till after Toxic Exposure is live
+- Now/Next/Later is in the idea board - https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1692887832703
+- Do we want to meet with Octo biweekly calls?
+
+### Date: Aug 17 2023       
+### Participants: Emily, Jen, Steve, Austin, Rakshinda
 ### Topics Covered:
 - P1 ITF issue
    -  What is the CTA for our teams?
