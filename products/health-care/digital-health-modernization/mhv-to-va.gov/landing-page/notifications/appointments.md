@@ -30,10 +30,10 @@ We believe that a reminder about an upcoming appointment is very similar to the 
   * Should an appointment reminder include additional information that the dot indicator cannot provide (such as a link to pre check-in or directions to the appointment?)
   * Do we need to work with the Appointments Team to implement the dot on their page for upcoming appointments in order for this pattern to accurately lead users from the notification dot on the landing page to the upcoming appointments it is referencing?
   * What is the definition of "upcoming"? How many days/hours in advance of the appointment does this notification get triggered?
-  * Foreseeable roblems with scaling the lightweight dot notification to all appointment notifications: 
-    * The dot will not support appointment cancellations, which cannot clearly be linked to or indicated with simple link text on the existing MHV to VA.gov landing page
-    * It may also be an issue to support pending appointments for the same reason - these notifications are less straightforward and will require content/context to make sense
-    * With 3 types of notifications for appointments alone, is it confusing that each has a different notification type? Will users be confused about which notification type the dot is referenceing?
+  * Possible future problems with scaling the lightweight dot notification to all appointment notifications: 
+    * The dot will not support appointment cancellations, which cannot clearly be linked to or indicated with simple link text on the existing MHV to VA.gov landing page. Additional context will be necessary to convey a cancelled appointment, and may need to include CTAs, such as next steps for the Veteran to reschedule the cancelled appointment.
+    * The dot will also be able to support pending appointments for the same reason - this notification is less straightforward and will require content/context to make sense.
+    * With 3 types of notifications for appointments alone, is it confusing that each has a different notification type? Will users understand which notification type the dot is referencing? How will they tell the difference?
 
 #### Technical analysis:
 The appointments team has shared that this is a feasible notification type at present. There are many ways that Veterans are notified about upcoming appointments. See related resources above for additional context into notifications work.
