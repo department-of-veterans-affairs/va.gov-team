@@ -1,5 +1,5 @@
 # 10-10EZ Veteran Health Care application - Load Testing Plan
-
+- [Load testing GH ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64123)
 
 ## **1. Purpose**
 
