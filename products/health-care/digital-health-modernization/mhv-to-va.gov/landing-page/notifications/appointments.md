@@ -2,17 +2,17 @@
 
 The current landscape of appointment-related notifications is complex, and the appointments team has put together extensive documentation and research to describe when and how Veteran patients get notified about various appointment reminders, schedule changes, cancellations, and when appointment requests become scheduled. 
 
-**Related resources about appointments **
-  * Research study
-  * Service blueprint regarding appointment notifications
+**Related resources about appointments**
+  * [VA Appointment Notifications Service Map Research](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md)
+  * [Veteran appointment notification service map](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1649696758581/a12e35b635ef11d25ff389fe6651b1e63026b68c?wid=0-1664898146419&outline=open&sender=uf94a77a19aaf687331c09367)
   * [Appointments content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/appointments-content-brief.md) (what language to use when, where)
 
 ## Types of appointment reminders
-* Appointment reminders
-* Appointment cancellations (by VA)
-* Pending appointments
+* 1. Appointment reminders
+* 2. Appointment cancellations (by VA)
+* 3. Pending appointments
 
-### Related notifications
+### Related notification types
 * New After-Visit Summary available (coming in Fall 2023)
 
 ## Discovery research
