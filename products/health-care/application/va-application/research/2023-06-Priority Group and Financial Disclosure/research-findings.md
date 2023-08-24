@@ -56,22 +56,20 @@ We conducted hour-long moderated semi-structured interviews, including one task-
 
 ## Hypotheses and Conclusions
 1. We assume the overall process of determining eligibility and being placed in a Priority Group is somewhat unclear to Veterans today.
-   1. TRUE: 8 out of 12 Veteran participants either had no understanding of what a Priority Group was, or were only somewhat familiar with the term and their associated benefits.
+   1. **TRUE**: 8 out of 12 Veteran participants either had no understanding of what a Priority Group was, or were only somewhat familiar with the term and their associated benefits.
 2. We assume that Veterans want more information about Priority Groups and transparency about how that impacts their eligibility and benefits.
-   1. TRUE: 10 out of 12 Veterans
+   1. **TRUE**: 10 out of 12 Veterans
 3. We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between that could impact their enrollment and Priority Group placement.
-   1. MAYBE TRUE: Several Veteran participants conflated the disability claim process with the health care enrollment process. Because disability rate is important for some Priority Groups and not for others, it's difficult to come to an 
+   1. **MAYBE TRUE**: Several Veteran participants conflated the disability claim process with the health care enrollment process. Because disability rate is important for some Priority Groups and not for others, it's difficult to come to an 
 4. We assume there is a desire from Veterans for the Priority Group placement to be more clear as it pertains to benefits, copays, costs and travel reimbursement.
-   1. MAYBE TRUE: Most Veterans responded positively to the idea of Priority Group info being more conveniently placed and more clear, but some were ambivalent or did not consider Priority Group info important to their own access of health care benefits.
+   1. **MAYBE TRUE**: Most Veterans responded positively to the idea of Priority Group info being more conveniently placed and more clear, but some were ambivalent or did not consider Priority Group info important to their own access of health care benefits.
 5. We assume that Veterans would like to update their financial information online if it was available but need a clear way to be communicated to or notified that they have to do so.
-   1. TRUE: All 12 participants responded that they would prefer notification (email, push notifications in the app, a letter) to update their financial information if/when they needed to do so.
+   1. **TRUE**: All 12 participants responded that they would prefer notification (email, push notifications in the app, a letter) to update their financial information if/when they needed to do so.
 6. We think that Veterans will go to the VA profile to update personal information like financial updates annually.
-   1. TRUE: 11 out of 12 Veterans navigated to or mentioned the VA Profile when prompted to go to the part of VA.gov where they would expect to update financial information.
+   1. **TRUE**: 11 out of 12 Veterans navigated to or mentioned the VA Profile when prompted to go to the part of VA.gov where they would expect to update financial information.
 
 
 ## Key Findings
-
-
 
 1. Veterans expect to update their financial information for health care benefits somewhere in their VA Profile.
 2. Veterans want notifications to update financial information for health care benefits including a link and additional context.
@@ -87,7 +85,6 @@ We conducted hour-long moderated semi-structured interviews, including one task-
 
 **Veterans expect to update their financial info in the VA Profile**
 
-Labels: label 1, label 2 
 
 An overwhelming majority (11 out of 12 participants) navigated to or mentioned the Profile as the place they would look for the ability to update financial information.
 
@@ -102,7 +99,6 @@ An overwhelming majority (11 out of 12 participants) navigated to or mentioned t
 
 **Veterans want notifications to update financial information**
 
-Labels: label 1, label 2 
 
 Veterans expressed that they wanted communications if they needed to update their financial information, ranging from email to text to in-app notifications.
 
@@ -117,18 +113,23 @@ Veterans expressed that they wanted communications if they needed to update thei
 
 **Veterans don't know/don't need to know how income impacts their benefits**
 
-Labels: label 1, label 2 
 
 Depending on a Veteran’s disability rating (ex: if their rating is high) they may not need to know how income impacts their benefits. Income is only relevant for certain priority groups.
 
-> _Supporting data: "For me it doesn’t matter because I have 100%. For others I can imagine they would rely on it more because of the copays that may vary with your income."_
+**Finding detail**
+- 2 of 12 unknown disability rating
+- 2 of 12 under 50% disability rating
+- 8 of 12 over 50% disability rating
+- 3 of 12 didn't know
+- 4 of 12 said income would matter
+- 5 of 12 said income wouldn't matter
 
-> _Supporting data: "I don’t think my income is sufficient enough to impact anything."_
+> P2: "For me it doesn’t matter because I have 100%. For others I can imagine they would rely on it more because of the copays that may vary with your income."
+
+> P7: "I don’t think my income is sufficient enough to impact anything."
 
 
 **There's a blurry line between disability benefits and health care benefits**
-
-Labels: label 1, label 2 
 
 
 Veterans conflated disability benefits and the disability compensation process with health care benefits and the healthcare application process, especially when it related to Priority Groups.
@@ -144,7 +145,6 @@ Veterans conflated disability benefits and the disability compensation process w
 
 **More explanation needed for Priority Groups**
 
-Labels: label 1, label 2 
 
 Veterans would benefit from convenient placement of their Priority Group number as well as additional explanation about how priority groups work and what benefits are available to them.
 
@@ -160,7 +160,6 @@ Veterans would benefit from convenient placement of their Priority Group number 
 
 **Veterans want a more robust online experience**
 
-Labels: label 1, label 2 
 
 Veterans expressed enthusiasm for the current online options available, such as applying for health care benefits online or utilizing the VA app to read messages from providers. But they also expressed a desire for more flexibility and functionality within these online services.
 
@@ -200,11 +199,13 @@ We will work with the rest of the 1010 team, our stakeholders, and the Authentic
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-plan.md))
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-plan.md)
 
-[Conversation guide]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/conversation-guide.md))
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/conversation-guide.md)
 
-[Interview transcripts]((https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/transcripts))
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/transcripts)
+
+- [Team notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/team-notes)
 
 
 ## Tools used for Synthesis
@@ -214,7 +215,7 @@ We will work with the rest of the 1010 team, our stakeholders, and the Authentic
 
 ## Pages and applications used
 
-VA.gov website
+- VA.gov website
 
 
 ## Secondary research
