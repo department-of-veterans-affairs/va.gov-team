@@ -33,7 +33,7 @@
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 5.9
-- After edits: 
+- After edits: 5.9
 
 - [x] Backlog ticket for further review created if needed
 
