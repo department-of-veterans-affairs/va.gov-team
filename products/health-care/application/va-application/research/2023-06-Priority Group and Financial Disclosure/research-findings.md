@@ -222,7 +222,7 @@ We will work with the rest of the 1010 team, our stakeholders, and the Authentic
 
 Include any secondary research you may have. 
 
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+- [Data/UX] Discovery: Analyze and report on EZR-related searches [#62399](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62399)
 
 
 ## Who we talked to 
