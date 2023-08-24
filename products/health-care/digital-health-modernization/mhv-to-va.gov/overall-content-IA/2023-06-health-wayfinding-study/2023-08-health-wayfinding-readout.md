@@ -164,7 +164,7 @@ Expose My HealtheVet link to unauthenticated users:
 
 ## Who we talked to 
 
-**[Recruitment criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-research-plan.md#recruitment-criteria)**
+[Recruitment criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-research-plan.md#recruitment-criteria)
 
 This study focused on participants who were active and familiar with MHV - using it at least once a month or more - but less familiar with va.gov - using it 1-2 times or less in the last 6 months.
 
