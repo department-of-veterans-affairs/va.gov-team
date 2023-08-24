@@ -2,10 +2,16 @@
 
 ## 8/24/23
 
-Attendees:
+Attendees: Kate, Julie, Nichole, Lydia and Evelyn
 
 Agenda
-- Error Matrix Discussion
+Error Matrix Discussion
+- Nichole will Slack Lydia to connect about the Error message and learn more context
+
+Roadmap/ Moving forward/ collaboration
+- Team 2 is working on a roadmap with stakeholders
+- Feels of working on a lot of tech debt via bug fixes and migration
+- Brainstorm for getting others on board with research- Weekly post of user questions
 
 ## 8/17/23
 
