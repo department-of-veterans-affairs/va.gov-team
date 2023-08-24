@@ -106,7 +106,7 @@ To mitigate each of the problems above, we plan to do the following:
 |Clicks into individual claims, "Review claim"|305,445|509,934|633,521|
 |Clicks into "Learn how to file a claim"|Not applicable - new link to My VA|14,878|21,385|
 |Clicks into "Apply for VA health care"|Not applicable - new link to My VA|4,546|6,005|
-|Clicks into "Schedule and manage your appointments"|16,606|71,880|89,559|
+|Clicks into "Schedule and manage your appointments"|26,342|71,880|89,559|
 |Clicks into "Send a secure message to your health care team"|100,893|84,044|107,809|
 |Clicks into "Refill and track your prescriptions"|77,825|60,721|86,540|
 |Clicks into "Manage your VA debt"|25,830|21,243|24,369|
