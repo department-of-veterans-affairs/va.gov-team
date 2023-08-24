@@ -3,7 +3,7 @@ name: Sitewide Content, Accessibility, and IA Intake Form
 about: To request support with content, accessibility, or IA from Sitewide Content, Accessibility, and IA team
 title: "<Type of Request> from <Team>"
 labels: sitewide CAIA, sitewide content-product support, Sitewide IA, sitewide content, sitewide accessibility
-assignees: RLHecht, coforma-terry, kristinoletmuskat, laurwill, sara-amanda
+assignees: strelichl, coforma-terry, kristinoletmuskat, laurwill, sara-amanda
 
 ---
 ## About your team
