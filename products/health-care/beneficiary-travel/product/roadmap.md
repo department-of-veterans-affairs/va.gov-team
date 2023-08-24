@@ -25,7 +25,7 @@
 ### Top 3 Proirities 
 
 1. Address the [Known Issues](#known-issues) (performant, Payment Facility)
-    1. Update API to create claims when the appointment is marked complete
+    - Update API to create claims when the appointment is marked complete
 1. Expand the performant Submit Claim endpoint to support more use cases 
 1. BTSSS Veteran status API endpoint ; Given a Veteran return their BTSSS status (elilibilyty, account finalized, etc)
 
@@ -33,9 +33,9 @@
 
 1. Create and add any supporting analytics
 1. Support teams integration with Claims API; including documentation, meetings, etc.
-    1. va.gov BTSSS team
-    1. Appointments team
-    1. Mobile team 
+    - va.gov BTSSS team
+    - Appointments team
+    - Mobile team 
 1. Aid in creating and delievering on `how to make better claims get processed more efficiently`
 1. Add functioanlity to expose payment status (where, when, etc) 
 
