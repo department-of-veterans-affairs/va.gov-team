@@ -46,7 +46,7 @@ The outcome of this generative research study will help in understanding the Vet
 - Do Veterans know their know Priority Group easily or do they just know they are enrolled?
 - What is the communication and education process around Priority Groups like from the Veteran's perspective today? (current state)
 - Where do Veterans call out as their preferred way to view their Priority Group information?
-# Updating information
+### Updating information
 - How would Veterans like to go about providing updated information - such as financial information or dependents - that could impact their health care benefits after enrollment?
 
 
