@@ -164,7 +164,7 @@ Use font awesome icon `comments` for icon
   - Margins and positioning: 20 px to the right of the "Go to your inbox" link text for users who have unread messages. Should be positioned in the middle of the link vertically as shown in the screenshot.
 
 **Positioning**
-- The "Go to your inbox" link should always appear first in the stack of health care links when it applies. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+- The "Go to your inbox" link should always appear first in the stack of health care links. The stack of links appears on the lefthand side on desktop if the user does not upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
 
