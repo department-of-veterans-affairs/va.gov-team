@@ -91,9 +91,13 @@ Labels: label 1, label 2
 
 An overwhelming majority (11 out of 12 participants) navigated to or mentioned the Profile as the place they would look for the ability to update financial information.
 
-> _Supporting data: "I imagine my financial info would be under my profile. It makes sense because it's me and my information."_
+**Finding detail**
+- 11 out of 12 Veterans said they would expect to update their financial information in the Profile.
+- 1 Veteran said they would want to update their financial information in My Health.
 
-> _Supporting data: "It is just where I know where to go to change my address, so it makes sense to be able to change any other personal information."_
+> P2: "I imagine my financial info would be under my profile. It makes sense because it's me and my information."
+
+> P3: "It is just where I know where to go to change my address, so it makes sense to be able to change any other personal information."
 
 
 **Veterans want notifications to update financial information**
@@ -102,9 +106,13 @@ Labels: label 1, label 2
 
 Veterans expressed that they wanted communications if they needed to update their financial information, ranging from email to text to in-app notifications.
 
-> _Supporting data: "I think an email would be best because VA letters are very behind. I think an email where I can click a link where I can just update the information."_
+**Finding detail**
+- 7 out of 12 Veterans would prefer an email notification, preferably with a link to where they could accomplish this task
+- 5 out of 12 Veterans would prefer a notification in the VA app
 
-> _Supporting data: "Because I use the VA.gov so much it would be nice to have a red thing on top to tell you what you need to update. Something that sticks out and you would not be able to ignore."_
+> P5: "I think an email would be best because VA letters are very behind. I think an email where I can click a link where I can just update the information."
+
+> P3: "Because I use the VA.gov so much it would be nice to have a red thing on top to tell you what you need to update. Something that sticks out and you would not be able to ignore."
 
 
 **Veterans don't know/don't need to know how income impacts their benefits**
@@ -122,11 +130,16 @@ Depending on a Veteran’s disability rating (ex: if their rating is high) they 
 
 Labels: label 1, label 2 
 
+
 Veterans conflated disability benefits and the disability compensation process with health care benefits and the healthcare application process, especially when it related to Priority Groups.
 
-> _Supporting data: "They gave me my VA disability and my healthcare came with it. I think I filled out the application online and it was pretty painless from what I remember.”_
+**Finding detail**
+- 6 out of 12 Veterans mentioned disability rating when discussing their knowledge of Priority Groups
+- 3 out of 12 Veterans described their disability application process when asked about the health care application process
 
-> _Supporting data: “I’m guessing that priority group is based off disability rating, but I wouldn't even know where to find that. I assume the more disabled you are, the more priority you have.”_
+> P7: "They gave me my VA disability and my healthcare came with it. I think I filled out the application online and it was pretty painless from what I remember.”
+
+> P14: “I’m guessing that priority group is based off disability rating, but I wouldn't even know where to find that. I assume the more disabled you are, the more priority you have.”
 
 
 **More explanation needed for Priority Groups**
@@ -135,9 +148,14 @@ Labels: label 1, label 2
 
 Veterans would benefit from convenient placement of their Priority Group number as well as additional explanation about how priority groups work and what benefits are available to them.
 
-> _Supporting data: "I don’t know what they are. I think word of mouth someone mentioned there is a certain priority group that will allow you to schedule appointments online and some that will not, but I don't know if that is correct. I learn a lot about the VA is from word of mouth. The website just has a lot of information and it can be a lot."_
+**Finding detail**
+- 4 out of 12 Veterans were unfamiliar with Priority Groups entirely, while 5 more Veterans were only somewhat familiar with the term — they may know their group number, but don't have a clear understanding of what it means
+- 5 out of 12 Veterans expressed an interest in seeing their Priority Group number and what that means to them in their VA Profile
 
-> _Supporting data: "I think it said I was a Priority 1 based on my rating. Maybe some parts of the country it carries more weight than others. Based on the other priorities, maybe it gets me seen sooner? I don’t recall what I read about that."_
+
+> P4: "I don’t know what they are. I think word of mouth someone mentioned there is a certain priority group that will allow you to schedule appointments online and some that will not, but I don't know if that is correct. I learn a lot about the VA is from word of mouth. The website just has a lot of information and it can be a lot."
+
+> P12: "I think it said I was a Priority 1 based on my rating. Maybe some parts of the country it carries more weight than others. Based on the other priorities, maybe it gets me seen sooner? I don’t recall what I read about that."
 
 
 **Veterans want a more robust online experience**
@@ -146,11 +164,15 @@ Labels: label 1, label 2
 
 Veterans expressed enthusiasm for the current online options available, such as applying for health care benefits online or utilizing the VA app to read messages from providers. But they also expressed a desire for more flexibility and functionality within these online services.
 
-> _Supporting data: "Having the stuff online is incredible because it makes it so easy for you to do yourself.”_
+**Finding detail**
+- 3 out of 12 Veterans mentioned that applying for health care and/or making updates to their information online was “easy” or “painless.”
+- 2(? maybe more) out of 12 Veterans expressed frustration with slow or lacking communications from VA, such as delayed letters in the mail or online statuses that never updated
 
-> _Supporting data: “I would love if everything went through the app. I don’t go anywhere without my phone.”_
+> P8: "Having the stuff online is incredible because it makes it so easy for you to do yourself.”
 
-> _Supporting data: “For my name change, I couldn’t complete it online. Had to call in and mail a bunch of stuff. There was no insight given into the name change process…it just happened without notification. It would be good to get more communications online."_
+> P7: “I would love if everything went through the app. I don’t go anywhere without my phone.”
+
+> P1: “For my name change, I couldn’t complete it online. Had to call in and mail a bunch of stuff. There was no insight given into the name change process…it just happened without notification. It would be good to get more communications online."
 
 
 
@@ -173,7 +195,7 @@ Veterans expressed enthusiasm for the current online options available, such as 
 
 ## Next Steps
 
-We will work with the rest of the 1010 team, our stakeholders, and the Authenticated Experience team to pilot a new online version of the 10-10EZR, making the form accessible (either through a link or other means) from the VA Profile.
+We will work with the rest of the 1010 team, our stakeholders, and the Authenticated Experience team to pilot a new online version of the 10-10EZR, making the form accessible (either through a link or other means) where it makes the most sense for Veterans to find.
 
 
 ## Appendix
@@ -229,10 +251,10 @@ LGBTQ+:
 
 
 Devices used during study: Not applicable in this study, generative inteview
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: unknown
+* Tablet: unknown 
+* Smart phone: unknown 
+* Assistive Technology: unknown
 
 
 Age:
