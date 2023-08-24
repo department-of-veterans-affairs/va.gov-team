@@ -18,7 +18,17 @@
     - Also picking up discovery on Backup submission flow to see if anything needs to be  migrated or if we can leave it in place till after Toxic Exposure is live
 - Now/Next/Later is in the idea board - https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1692887832703
 - Is there a way to publish announcements without code changes for future issues/outages? On va.gov?
+  - It's currently in place and was used - static content team did make changes
+  - May need to figure out a way to make content changes in REACT pages - will be a big architectural challenge
 - Do we want to meet with Octo biweekly calls?
+ - Table it for now - need to talk to the team if this is helpful
+ - Can we use ToT for this?
+- Need to look at this issue - don't have contractual on call support
+  - Steve may have suggestions/ideas on this for later
+- Get a list of APIs to Steve
+  -  Get the product page updated - Rakshinda
+-  
+-   
 
 ### Date: Aug 17 2023       
 ### Participants: Emily, Jen, Steve, Austin, Rakshinda
