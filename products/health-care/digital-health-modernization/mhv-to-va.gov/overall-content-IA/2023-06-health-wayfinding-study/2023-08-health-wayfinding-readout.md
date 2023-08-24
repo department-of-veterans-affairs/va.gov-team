@@ -219,8 +219,6 @@ Race:
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
 This research may not include the perspectives of the following underserved Veteran groups:
 - Cognitive disability
@@ -237,5 +235,5 @@ This research may not include the perspectives of the following underserved Vete
 - Braille Reader
 - Assistive Technology users
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img width="450" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/92da2e4a-8607-4e56-9bad-4d745ed46db5">
+
