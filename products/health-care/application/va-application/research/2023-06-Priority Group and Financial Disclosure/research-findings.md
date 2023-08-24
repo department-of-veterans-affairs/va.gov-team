@@ -36,12 +36,12 @@ The outcome of this generative research study will help in understanding the Vet
 
 
 ## Research Questions
-# Understanding of health care benefits
+### Understanding of health care benefits
 - What are Veteran's understanding of what benefits they will get and the cost to them when enrolling for health care benefits?
 - What are Veteran's understanding of what benefits they will get and the cost to them after enrollment?
 - What are the Veteran's current pain points with how the health care application impacts the overall health care journey?
 - What is the Veterans mental model of eligibility and Priority Groups around their benefits and costs?
-# Priority groups
+### Priority groups
 - Do Veterans seem confused by Priority Group transparency prior to applying for enrollment?
 - Do Veterans know their know Priority Group easily or do they just know they are enrolled?
 - What is the communication and education process around Priority Groups like from the Veteran's perspective today? (current state)
