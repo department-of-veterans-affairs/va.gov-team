@@ -9,7 +9,7 @@ Last Updated 08/24/2023
 Links to Figma files can be found below: 
     - [Connect devices page](https://www.figma.com/file/dUOJjrWtYFq1l7CZem0Paz/Active-consent-VA.gov-flow?type=design&node-id=239%3A37&mode=design&t=BFCakVV5fjGWkkIf-1)
     - [Command center](https://www.figma.com/file/IA2acFxgYdn9upFvxyC6UE/Command-Center?type=design&node-id=20%3A2&mode=design&t=zIKosS3RWwTHnMxk-1)
-- All research done previously with Veterans and Clinicians can be found in [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-platform/research).  
+- All research done previously with Veterans and Clinicians can be found in [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-pathway/research).  
 - The design system for VA.gov can be found [here](https://design.va.gov). 
 - To learn more about the VA research and design team you can go [here](https://depo-platform-documentation.scrollhelp.site/research-design/). 
 

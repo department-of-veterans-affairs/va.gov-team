@@ -28,8 +28,8 @@
 
 - Desired date range: _\[08/18/22 - open\]_
 - How will you make the product available in production while limiting the number of users who can find/access it: We will have a standalone flow on VA.gov accessed by a specific link sent to a Veteran. This option is not something a Veteran could navigate to on VA.gov and instead would be accessed by a direct link.
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: _\[[Digital Health Platform Device Connection Product Outline - Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-platform#desired-user-outcomes)\]_
-- Links to dashboard(s) showing "success criteria" metrics: _\[[Digital Health Platform Device Connection Product Outline - Desired User Outcomes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-platform#desired-user-outcomes)\]_
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: _\[[Digital Health Platform Device Connection Product Outline - Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-pathway#desired-user-outcomes)\]_
+- Links to dashboard(s) showing "success criteria" metrics: _\[[Digital Health Platform Device Connection Product Outline - Desired User Outcomes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-pathway#desired-user-outcomes)\]_
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
