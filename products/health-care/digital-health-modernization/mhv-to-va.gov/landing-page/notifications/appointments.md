@@ -8,9 +8,9 @@ The current landscape of appointment-related notifications is complex, and the a
   * [Appointments content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/appointments-content-brief.md) (what language to use when, where)
 
 ## Types of appointment reminders
-* 1. Appointment reminders
-* 2. Appointment cancellations (by VA)
-* 3. Pending appointments
+* Appointment reminders
+* Appointment cancellations (by VA)
+* Pending appointments
 
 ### Related notification types
 * New After-Visit Summary available (coming in Fall 2023)
