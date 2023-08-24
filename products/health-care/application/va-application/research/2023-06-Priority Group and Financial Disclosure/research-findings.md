@@ -71,30 +71,18 @@ We conducted hour-long moderated semi-structured interviews, including one task-
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Veterans expect to update their financial info in the VA Profile
-
-2. Veterans want notifications to update financial information
-
-3. Veterans don't know/don't need to know how income impacts their benefits
-
-4. There's a blurry line between disability benefits and health care benefits
-
-5. More explanation needed for Priority Groups
-
-6. Veterans want a more robust online experience
+1. Veterans expect to update their financial information for health care benefits somewhere in their VA Profile.
+2. Veterans want notifications to update financial information for health care benefits including a link and additional context.
+3. Veterans don't know/don't need to know how income impacts their health care benefits if they are over a certain percent of service connected disability rating.
+4. There's a blurry line between disability benefits and health care benefits for Veterans who have gone through the process of filing claims for service connected disabilities.
+5. More explanation is needed for Priority Groups around what they are and how they impact health care benefits and are connected to disability ratings.
+6. Veterans express enthusiasm for the current online options to update health care information and want even more online flexibility and functionality.
 
 
 
 ## Details of Findings 
-
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
 
 
 **Veterans expect to update their financial info in the VA Profile**
