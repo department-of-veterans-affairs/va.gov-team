@@ -4,12 +4,6 @@
 
 **Login**
 
-How to login to Zoom 5 
-- Go to <https://zoom.us/> and ensure you enter using a Google Chrome Web browser
-- Email address to enter is: dsvazoomfour\@perigeantechnologies.com
-- Password to enter is: p3rigeaN2020!
-_\*Ensure that you are recording to the account cloud\*_
-
 Access the scheduled session
 - Once logged in you will come to the main account page
 - At the top of the page, click meetings
