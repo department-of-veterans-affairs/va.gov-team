@@ -18,7 +18,7 @@ Links to Figma files can be found below:
 
 The pilot has been put on pause as of **08/24/2023**.
 
-- We have onboarded tier 1 (Orlando), tier 2 (Cleveland), tier 3a (SLC) and tier 3b (WRIISC) Veterans.
+- We have onboarded tier 1 (Orlando), tier 2 (Cleveland), tier 3a (SLC), and tier 3b (WRIISC) Veterans.
 - We have conducted interviews for Tier 3 Veterans
 - We have onboarded all clinicians to the dashboard 
 
