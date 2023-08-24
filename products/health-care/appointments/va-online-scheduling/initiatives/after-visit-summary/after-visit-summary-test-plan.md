@@ -45,7 +45,7 @@ On the VAOS homepage, the app displays the following for each status:
      
 
 ### User flow
-- [ ] [Figma file]() 
+- [ ] [Figma file](https://www.figma.com/file/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?type=design&node-id=2012%3A35639&mode=design&t=TWu7CJ3mbxrLx9YS-1) 
 
 ### Reference (if applicable) 
 - [ ] [Design file]()
