@@ -91,12 +91,12 @@ There are a few steps to doing this.
     a. Login as your user
     b. Navigate to a page that will load your user data, such as [the 526 form](http://localhost:3001/disability/file-disability-claim-form-21-526ez/start)
     c. open your developer tools (inspect page source or CMD+Shift+C)
-       
     d. Open the Redux tab
 <img width="1477" alt="Screenshot 2023-08-25 at 1 41 26 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/fa6177cc-e42c-4a44-b167-82fceb6dc576">
 
     e. select the 'STATE' tab on the right pannel and an event on the left pannel
 <img width="305" alt="Screenshot 2023-08-25 at 1 41 59 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/64c76172-119b-4f97-82ca-83cb64a3fc1b">
+
     f. dropdown the user -> profile carrots in the STATE object and get the value for accountUuid:
 <img width="574" alt="Screenshot 2023-08-25 at 1 43 01 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/ab6bf382-0159-44a3-aadd-22d398f70a69">
 
