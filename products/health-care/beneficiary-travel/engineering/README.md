@@ -6,7 +6,7 @@
 
 - OCTO Lead: Mark Dewey
 - BTSSS API PM: Michell Ortiz
-- BTSSS API Technical Lead: Jorge Gomez-
+- BTSSS API Technical Lead: Jorge Gomez-danes Mejia
 
 
 ## Authenication
@@ -47,7 +47,8 @@ Notes
 1. As a Veteran, I can submit 1 claim per appointment per faciltiy per day
 1. The API will submit a claim for an appointment in any state, but only a checked-out/completed appointment can create a successful claim
 1. As soon as a claim is submited, the status availible for query
-1. The endpoint can be called with just an appointment date or an appointment date and time. Only passing in the date will fail if there are multiple appointments. If there is only 1 appointment that its possible to pass in just the date. If the date and time are provided then it does some checking around the `1 claim per day per facility` rule. 
+1. The endpoint can be called with just an appointment date or an appointment date and time. Only passing in the date will fail if there are multiple appointments. If there is only 1 appointment that its possible to pass in just the date. If the date and time are provided then it does some checking around the `1 claim per day per facility` rule.
+1. The only stop codes that are automatically rejected are the codes for telehealth. All other stope codes go through manual process if not automatically accepted. The BTSSS team is currently working through more documentation and configuration for this. 
 
 ## Known Issues 
 
