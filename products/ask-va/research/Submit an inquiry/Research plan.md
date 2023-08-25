@@ -181,14 +181,14 @@ We will provide 32 time slots, with the aim to book 16 sessions.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Tuesday, August 22 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Wednesday, August 23 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Thursday, August 24 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Friday, August 25 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Monday, August 28 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Tuesday, August 29 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Wednesday, August 30 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
-|Thursday, August 31 (TBC)|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|TBC|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|TBC|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|TBC|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|TBC|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|TBC|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|TBC|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|TBC|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
+|TBC|12-1pm, 1:30-2:30pm, 3-4pm, 4:30-5:30pm|
 	
 ## Team roles
 
