@@ -32,13 +32,13 @@ When working on UI/design updates these are the rough steps
 
 # RESEARCH EPIC
 For research, there’s a very consistent set of steps:
-1. Create research plan
-2. Create convo guide
-3. Logistics (set up note taking docs/templates, schedule debrief session, maybe hold kick-off w/ Perigean)
-4. Run the sessions
-5. Create Topline summary (optional)
-6. Synthesize findings
-7. Create presentation deliverables (optional)
+- [ ] Research | Project | Create research plan
+- [ ] Research | Project | Create convo guide
+- [ ] Research | Project | Logistics (set up note taking docs/templates, schedule debrief session, maybe hold kick-off w/ Perigean)
+- [ ] Research | Project | Run the sessions
+- [ ] Research | Project | Create Topline summary (optional)
+- [ ] Research | Project | Synthesize findings
+- [ ] Research | Project | Create presentation deliverables (optional)
 
 
 # DISCOVERY 
