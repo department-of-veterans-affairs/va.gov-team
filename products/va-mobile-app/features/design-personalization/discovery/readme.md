@@ -2,6 +2,7 @@
 Last updated Aug 2023
 
 ### Personalization 2023
+- [Personalized Data - Discovery & Classification (Figjam)](https://www.figma.com/file/NHnXpvkhBeqvUQ6LIqMGqd/Personalized-Data---Discovery-%26-Classification--VA-Mobile?type=whiteboard&node-id=0%3A1&t=2kSgg4tKMXHSSrVZ-1)
 #### Desk Research
 * [VA Mobile Comparative Analysis: Personalized Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
     * Comparative analysis re-examining apps originally included in the earlier Comparative Analysis of Navigation UI Patterns work, this time with a lens examining how apps treat personalized content on their home screens.
