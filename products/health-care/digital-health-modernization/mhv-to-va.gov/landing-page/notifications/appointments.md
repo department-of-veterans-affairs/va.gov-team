@@ -69,7 +69,7 @@ At present, our lightweight notification dot design does not scale to support th
 Clinic appointment cancellations must be communicated to Veterans in different ways if the first method of contact is not successful: 
     1. Automated communications (e.g., VEText) used to notify the Veteran of their appointment is cancelled may be used as the first scheduling contact attempt.
     2. The second contact attempt must be a telephone call to personalize the communication due to the inconvenience of the clinic canceling the appointment
-    NOTE: This applies to cases where the Veteran has a telephone. Staff must use contact methods most appropriate to the Veteran's specific situation when it is not possible to reach the patient using traditional methods (e.g., homeless outreach or certified mail).”
+    NOTE: This applies to cases where the Veteran has a telephone. Staff must use contact methods most appropriate to the Veteran's specific situation when it is not possible to reach the patient using traditional methods (e.g., homeless outreach or certified mail).” [Source document here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md)
 
 ### 3. Pending appointments 
 ```Status: On Hold```
