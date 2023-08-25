@@ -176,7 +176,8 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
     - 8/24: Traffic increased to 1% due to needing more cases to observe
     - 8/24: Noted discrepancy between LH 404s and POSTs called
         - Normal behavior, the GET went to EVSS while the POST was called through LH
-    - 8/25: Noted 404s on the LH side that we're not duplicated on the v0 side
+    - 8/25: Noted 404s on the LH side that were not duplicated on the v0 side
+        - Confirmed that the 404 was captured on both sides, but simply did not show up in the v0/EVSS graph, investigating why this might have happened
 - Rollbacks:
 
 <br>
