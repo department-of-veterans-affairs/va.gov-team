@@ -14,7 +14,7 @@ Attendees: Aliyah, Laura, Tinu, Carl, and Joe
 
 **August 17, 2023**
 - 
-Attendees: Aliyah, Carl, Laura, Tinue, Sophia, and Joe 
+Attendees: Aliyah, Carl, Laura, Tinu, Sophia, and Joe 
 
 **Notes** 
 - Flagged that Aliyah and Laura will be OOO September 20 to 22 for an offsite.
