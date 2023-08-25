@@ -1,4 +1,5 @@
 VA BENEFITS · CE Decision Review # Research Plan for NOD Enhancement Validation
+# Research Plan for NOD Enhancement Validation, September 2023
 
 During post-launch evaluation of the Board Appeal form, the decision reviews
 team identified the following post-release enhancements to improve form
@@ -216,9 +217,9 @@ review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/
 A pilot session is required. Please indicate the date and name of a mock
 participant for a pilot session.
 
-- Pilot participant email: \[ tbd \]
+- Pilot participant: [Dan Miller](mailto:dan@coforma.io) 
 - Observer: Sade Ragsdale
-- Date and time of pilot session: \[ tbd \]
+- Date and time of pilot session: Tuesday, August 29th @10a ET
 
 ### Research Sessions
 Sessions will occur on the following dates:
@@ -255,12 +256,11 @@ Sessions will occur on the following dates:
 
 Please list the people who will be serving in each role.
 
-- Moderators: [Ruben Sun](mailto:ruben@coforma.io), [Eileen
-Chi](mailto:eileen.chi@coforma.io) (secondary)
+- Moderator: [Ruben Sun](mailto:ruben@coforma.io)
 - Research guide writing and task development: [Ruben
 Sun](mailto:ruben@coforma.io)
 - Participant recruiting & screening: Perigean
 - Project point of contact: [Ruben Sun](mailto:ruben@coforma.io)
-- Participant(s) for pilot test: \[ tbd \]
+- Participant(s) for pilot test: [Dan Miller](mailto:dan@coforma.io) 
 - Observers: [Eileen Chi](mailto:eileen.chi@coforma.io), [Sade
 Ragsdale](mailto:sade@coforma.io)
