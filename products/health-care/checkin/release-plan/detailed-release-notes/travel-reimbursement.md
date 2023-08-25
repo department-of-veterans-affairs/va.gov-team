@@ -8,7 +8,7 @@
 
 [Wireframes](https://app.abstract.com/projects/ab30c34e-e2f9-4d3e-bb96-3b683b006c24/branches/3c784fa2-f86a-42b7-b1e4-f0fd5f3c1aa3/commits/005790a0202eed0e984eb6e87c8d183d090d945f/files/585436fe-2120-45f4-b4f7-fbae01d258d9/layers/9B61B462-73BA-45CF-ABA4-215FD07B6D5A?collectionId=3e7034be-0a0a-4895-8cf2-246a3d3ecb52&collectionLayerId=11842933-81f3-4651-86c5-220d77e2c649&present=true&preview=false&sha=005790a0202eed0e984eb6e87c8d183d090d945f)
 
-[New Workflow](https://app.mural.co/t/vfscie8528/m/vfscie8528/1667222840454/ada0c417b71c922895f1750cd32d869f6213e129?sender=ud3aa760e30b39bcf436d4473)
+[New Workflow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531124203/5edcfd3ea4b1eaf1ef082d56782a8b3291ef3932?sender=u37bb983bd3fc3cc00c7d3286)
 
 ### When a Veteran chooses to use eCheck-in to check-in for an in-person appointment and after they confirm their personal, emergency, and next-of-kin contact information, they will now be asked if they would like to file a Travel Reimbursement claim
 
