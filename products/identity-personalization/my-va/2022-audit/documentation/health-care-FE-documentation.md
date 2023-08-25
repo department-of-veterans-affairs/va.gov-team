@@ -110,6 +110,7 @@ To manage your health care at these facilities, go to My VA  Health:
 Having trouble opening My VA Health?
 
 *Expanded content:* 
+
 Try these steps:
 - Disable your browser's pop-up blocker
 - Sign in to My VA Health with the same account you used to sign in to VA.gov
