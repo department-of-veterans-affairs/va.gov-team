@@ -79,7 +79,7 @@ This will be a moderated usability study conducted remotely over Zoom. We will u
 
 ### Recruitment approach
 
-We’ll use Perigean to recruit participants. We will recruit Veterans and dependents.
+We’ll use Perigean to recruit participants.
 
 **Please note**: We request a kick-off call with Perigean before recruitment can start.
 
@@ -87,29 +87,37 @@ We’ll use Perigean to recruit participants. We will recruit Veterans and depen
 
 We need to recruit 16 participants for a total of 8-10 completed sessions.
 
-#### Primary criteria (must-have)
+#### Cohort 1: 10 Veterans
 
-|# of participants|Primary criteria|
+|# of participants|Criteria|
 |:--|:--|
-|Exactly 16|Have contacted VA online or over the phone in the past year|
-|Exactly 16|Have signed into VA.gov in the past year|
-|Exactly 8|Are Veterans|
-|Exactly 8|Are dependents|
-|Exactly 8|Are willing to join from a mobile device|
-|Exactly 8|Are willing to join from a desktop device|
-|At least 8|Are over 55 years old|
-|At least 8|Identify as Black, Hispanic or Native|
-|Exactly 4|Require screenreader software to use computers and mobile devices|
-|Exactly 4|Have a cognitive disability or consideration|
-|At least 4|Identify as a gender other than male|
+|Exactly 10|Are Veterans|
+|Exactly 10|Have contacted VA online or over the phone in the past year|
+|Exactly 10|Have signed into VA.gov in the past year|
+|Exactly 5|Are willing to join from a mobile device|
+|Exactly 5|Are willing to join from a desktop device|
+|At least 4|Are over 55 years old|
+|At least 4|Identify as Black, Hispanic or Native|
+|Exactly 3|Require screenreader software to use a desktop computer|
+|Exactly 3|Have a cognitive disability or consideration|
+|At least 2|Identify as a gender other than male|
 
-#### Secondary criteria (nice-to-have)
+We have a submitted a [Recruitment Request: Cohort 1 - Veterans](url goes here).
 
-|# of participants|Secondary criteria|
+#### Cohort 2: 6 Dependents
+
+|# of participants|Criteria|
 |:--|:--|
-|At least 4|Live in a remote or rural area|
-|At least 4|Don't have a degree or professional certificate|
-|At least 4|Have partial hearing loss|
+|Exactly 6|Are dependents of Veterans|
+|Exactly 6|Have contacted VA online or over the phone in the past year|
+|Exactly 6|Have signed into VA.gov in the past year|
+|Exactly 3|Are willing to join from a mobile device|
+|Exactly 3|Are willing to join from a desktop device|
+|At least 3|Are over 55 years old|
+|At least 3|Identify as Black, Hispanic or Native|
+|At least 2|Identify as a gender other than male|
+
+We have a submitted a [Recruitment Request: Cohort 2 - Dependents](url goes here).
 
 ### Screener questions
 
