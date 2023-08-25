@@ -7,6 +7,8 @@ Last updated by @ruchishah29 on August 24, 2023
 - [Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#medallia)
 - [Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#dashboard)
 - [Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#profile)
+- [Notify](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#notify)
+- [Assumptions/Risks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#assumptions/risks)
 
 ## Inquiry form
 
@@ -58,3 +60,30 @@ Last updated by @ruchishah29 on August 24, 2023
 |Submitters are able to click a button to go to VA Profile to update their information and then return to the same spot on AVA||x||
 |Submitters should able to temporarily update the fields in AVA but this should NOT update information in VA Profile|x|||
 |Sunset the existing AVA Profile: No migration of data, no comparison between this and VA Profile)|x|||
+
+## Notify
+
+|Feature or task|Must have|Nice to have|Not in scope|
+|:--|:--:|:--:|:--:|
+|Submitters get email notifications through VA Notify - triggered by Dynamics|||x|
+|Submitters being able to respond on email notifications coming from VA Notify|||x|
+|Onsite notifications on MyVA|||x|
+|Text notifications|||x|
+
+## Assumptions/Risks
+
+After looking at the must haves, what risks do we see that will impact those deliverables?
+
+### 1. Dependency on the CRM Team
+- API Layer that both exposes data to us (dashboard) and receives data from us (inquiry submission) + additional time for AVA Engineering team to implement.
+- If the API layer cannot be done by CRM Team - we would need a Dynamics instance and time to ramp up.
+
+Impact of this Risk: `HIGH`
+
+Without this work, we would not be able to send the data collected in the new AVA back to Dynamics for routing. It would prevent us from launching our MVP.
+
+### 2. Alignment between Sitewide Content and the business lines on content updates.
+
+Impact of Risk: `LOW`
+
+Without this alignment, we may have to stick with the names of categories and topics currently present which may not be easy and intuitive for the Veterans. This is a low risk because it would not prevent us from launching our MVP.
