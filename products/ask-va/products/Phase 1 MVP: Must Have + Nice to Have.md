@@ -4,7 +4,7 @@ Last updated by @ruchishah29 on August 24, 2023
 
 **Jump to:**
 - [Inquiry form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#inquiry-form)
-- [Medallia survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#medallia-survey)
+- [Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#medallia)
 - [Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#dashboard)
 - [Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#profile)
 
@@ -30,7 +30,7 @@ Last updated by @ruchishah29 on August 24, 2023
 |Add new Ask VA link to pages that currently don’t contain Ask VA link but have their category in the Ask VA form||x||
 |Add new Ask VA link to pages that currently don’t contain Ask VA link and don’t have their category in Ask VA|||x|
 
-## Medallia survey
+## Medallia
 
 |Feature or task|Must have|Nice to have|Not in scope|
 |:--|:--:|:--:|:--:|
