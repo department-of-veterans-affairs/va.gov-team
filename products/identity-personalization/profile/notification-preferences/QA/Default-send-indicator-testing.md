@@ -27,5 +27,5 @@
  
  - if the setting has been explicitly set before aka the user has checked or unchecked a checkbox already, then there will be a communicationPermission property present:
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/522ff17f-2701-4a97-a5f3-19c28bead825)
   ![Screenshot 2023-08-16 at 2 16 03 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/8332986/16770843-aa66-4807-a8b6-c441ab724acc)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/522ff17f-2701-4a97-a5f3-19c28bead825)
