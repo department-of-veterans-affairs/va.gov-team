@@ -79,11 +79,13 @@ This will be a moderated usability study conducted remotely over Zoom. We will u
 
 ### Recruitment approach
 
-We’ll use Perigean to recruit participants. We request a kick-off call with Perigean before recruitment can start.
+We’ll use Perigean to recruit participants. We will recruit Veterans and dependents.
+
+**Please note**: We request a kick-off call with Perigean before recruitment can start.
 
 ### Recruitment criteria
 
-We need to recruit 16 participants for a total of around 8-10 completed sessions.
+We need to recruit 16 participants for a total of 8-10 completed sessions.
 
 #### Primary criteria (must-have)
 
@@ -91,8 +93,8 @@ We need to recruit 16 participants for a total of around 8-10 completed sessions
 |:--|:--|
 |Exactly 16|Have contacted VA online or over the phone in the past year|
 |Exactly 16|Have signed into VA.gov in the past year|
-|Exactly 8|Are Veterans (Group 1)|
-|Exactly 8|Are dependents (Group 2)|
+|Exactly 8|Are Veterans|
+|Exactly 8|Are dependents|
 |Exactly 8|Are willing to join from a mobile device|
 |Exactly 8|Are willing to join from a desktop device|
 |At least 8|Are over 55 years old|
@@ -108,16 +110,6 @@ We need to recruit 16 participants for a total of around 8-10 completed sessions
 |At least 4|Live in a remote or rural area|
 |At least 4|Don't have a degree or professional certificate|
 |At least 4|Have partial hearing loss|
-
-#### Participant groups
-
-##### Group 1: Veterans
-
-Example: I’m a Veteran. I called the VA to ask them a question about my claim status last month. I sign in to VA.gov every month to renew my prescriptions. I can use Zoom on my smartphone.
-
-##### Group 2: Dependents
-
-Example: My wife is a Veteran, I’m one of her dependents. She has another dependent, my son. I called the VA 2 weeks ago to ask them a question about my son’s benefits. I sign in to VA.gov twice a year to check my records. I can use Zoom on my smartphone.
 
 ### Screener questions
 
