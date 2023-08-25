@@ -19,7 +19,7 @@ We're working to bring all family member core benefit content into the family me
 **Problem Defined:**
 Family and caregiver benefit content, applications, and tasks are distributed across the Veteran benefit hubs.  Furthermore, tools related to managing health care and benefits are mostly framed up for the Veteran, but often also intended for family members and caregivers to use.
   
-* Evidence to support Problem:
+**Evidence to support Problem:**
 - Research and data is showing a trend towards more use of the family member hub; Over the past year, the family member hub has had more page views than any of the other family member benefit pages within the benefit hubs
 - The streamlined health care hub helped visitors find the correct family and caregiver benefit information, as opposed to selecting veteran content to find their answers; In addition, the streamlined hub showed an increase of family members looking for information to complete "manage" taskss such as travel pay
 - The family member benefit hub is the #1 referring page on VA.gov to all of the other family/caregiver benefit pages within the benefit hubs; However, while the family hub consistently refers visitors to family content in the veteran hubs, the family content in veteran hubs is not referring visitors to the family hub; This is a potential opportunity to better expose family members to the other benefit options they have
