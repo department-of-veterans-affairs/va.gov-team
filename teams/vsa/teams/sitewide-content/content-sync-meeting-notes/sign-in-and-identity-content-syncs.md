@@ -1,5 +1,17 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**August 24, 2023**
+-
+Attendees: Aliyah, Laura, Tinu, Carl, and Joe
+
+**Notes**
+- Updated LGA and CORE identity teams on new proccess for sign in and identity content related to changes. Content on static pages will need to go through the new MHV and identity comms working group review (async).
+- - **Verifying your identity on VA.gov**
+     - We finished reviewing this page in our meeting
+     - There's still an open question out to the ID contact (via Amber) about the link text for users who don't live in the US. We'll adjust this content when we get a reply.
+     - Once this page is reviewed by the working group, copy edited, and published, we'll move back to reviewing the additional questions Joe and his team compiled and identify what new information will need to be added to this page.
+- In the bi-weekly identity comms meeting, Luciana (from the chatbot team) raised a question about chatbot content that aligns with current VA.gov content on signing in. Aliyah added Luciana and Nathalie to the weekly sync to disucss this further. They'll join the 8/31 meeting.
+
 **August 17, 2023**
 - 
 Attendees: Aliyah, Carl, Laura, Tinue, Sophia, and Joe 
