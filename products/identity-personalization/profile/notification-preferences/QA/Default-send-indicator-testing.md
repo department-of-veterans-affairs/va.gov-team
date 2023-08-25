@@ -19,7 +19,7 @@
  - the communicationChannels array items are where the defaultSendIndicator will be present
  ![Screenshot 2023-08-16 at 2 08 14 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/8332986/01343b6f-d8e8-419a-9175-8a6bc21e12a4)
 
- - if the setting has never been set:
+ - if the setting has never been set it will look like this:
    
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/ac11d885-e34a-493c-87e4-4131e3ebf6c6)
 
