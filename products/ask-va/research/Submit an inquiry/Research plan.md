@@ -57,15 +57,15 @@ This research will help us determine if and how we need to improve the design an
 
 ### Hypotheses
 
-1. Some people will think authentication is required in order to ask _any_ question.
-2. Most people will find the form straightforward and intuitive.
-3. Most people will understand how long the form is and their progress.
-4. Some people will be confused about which information they can edit on the review page and which they cannot.
-5. Most people will expect an estimate of how long it will take to receive a reply.
-6. When reviewing an inquiry, most people will need to know the date they submitted, their question and its current status.
-7. Most people will prefer to receive email notifications when the status of their ongoing inquiry changes.
-8. Once they receive a response from VA about their inquiry, some people will expect to reply back.
-9. If people aren’t able to reply back to an inquiry, some people will submit a new inquiry to follow up.
+1. Some users will think authentication is required in order to ask _any_ question.
+2. Most users will find the form straightforward and intuitive.
+3. Most users will understand how long the form is and their progress.
+4. Some users will be confused about which information they can edit on the review page and which they cannot.
+5. Most users will expect an estimate of how long it will take to receive a reply.
+6. When reviewing an inquiry, most users will need to know the date they submitted, their question and its current status.
+7. Most users will prefer to receive email notifications when the status of their ongoing inquiry changes.
+8. Once they receive a response from VA about their inquiry, some users will expect to reply back.
+9. If users aren’t able to reply back to an inquiry, some people will submit a new inquiry to follow up.
 
 ## Methodology
 
@@ -85,9 +85,11 @@ This will be a moderated usability study conducted remotely over Zoom. We will u
 
 We’ll use Perigean to recruit participants. **We request a kick-off call with Perigean before recruitment can start.**
 
+We will also recruit 2 School Certifying Officials (SCOs) ourselves.
+
 ### Recruitment criteria
 
-We need to recruit 16 participants for a total of 8-10 completed sessions.
+We need to recruit 10 Veterans and 6 dependents for a total of 8-10 completed sessions.
 
 #### Cohort 1: 10 Veterans
 
@@ -120,6 +122,17 @@ We have a submitted a [Recruitment Request: Cohort 1 - Veterans](url goes here).
 |At least 2|Identify as a gender other than male|
 
 We have a submitted a [Recruitment Request: Cohort 2 - Dependents](url goes here).
+
+#### Cohort 3: 2 School Certifying Officials
+
+Note: We will recruit this cohort ourselves.
+
+|# of participants|Criteria|
+|:--|:--|
+|Exactly 2|Are SCOs|
+|Exactly 2|Have submitted an inquiry through Ask VA in the past year|
+|Exactly 2|Have signed into VA.gov in the past year|
+|Exactly 2|Are willing to join from a desktop device|
 
 ### Screener questions
 
