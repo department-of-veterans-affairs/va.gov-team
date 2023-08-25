@@ -1,6 +1,11 @@
 # VA Mobile App - Personalization - UX 
 Last updated Aug 2023
 
+## Work planning
+
+[Personalization work planning (figjam)](https://www.figma.com/file/fQfBPKtLWbwEnPIFeaBaXf/Personalization-work-planning?type=whiteboard&node-id=66%3A575&t=AeF4Blig86OJDwwh-1)
+
+
 ## UX Strategy
 
 ### Personalization - North Star
