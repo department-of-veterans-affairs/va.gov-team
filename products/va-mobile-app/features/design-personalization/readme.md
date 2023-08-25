@@ -3,13 +3,13 @@ Last updated Aug 2023
 
 The VA mobile team has explored the concept of Personalization several times (2021, 2022, 2023) from a product, discovery, and design perspective.
 
-[Personalization work planning (figjam)](https://www.figma.com/file/fQfBPKtLWbwEnPIFeaBaXf/Personalization-work-planning?type=whiteboard&node-id=66%3A575&t=AeF4Blig86OJDwwh-1)
-
 ## Product
 
 
 
 ## UX
+[Personalization work planning (figjam)](https://www.figma.com/file/fQfBPKtLWbwEnPIFeaBaXf/Personalization-work-planning?type=whiteboard&node-id=66%3A575&t=AeF4Blig86OJDwwh-1)
+
 ### North Star
 - [Personalization - North Star - UX Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/ux#personalization---north-star)
 
