@@ -1,4 +1,4 @@
-# Synthesis of existing data and research
+# Review of existing data and research
 
 ## Background and purpose
 
@@ -12,6 +12,9 @@ This file contains information on the following
 ## <a name="analytics"></a>Site analytics and search data 
 
 ### YoY Performance of the [Family member benefits hub page](https://www.va.gov/family-member-benefits)
+
+Date range: Calendar years, 2019 starts on March 1,  2023 ends on Aug 16, 2023
+Description: General data for the family member benefits hub page since the launch of the page
 
 Year | Page views | Unique page views (%) | Entrances (%) | Bounce rate | Exit rate | Time on page
 --- | ---| --- | --- | --- | --- | ---
@@ -29,6 +32,9 @@ Notes:
 
 ### Past year performance of key family member benefits pages
 
+Date range: Aug 17, 2022 - Aug 16, 2023
+Description: General data about each family/caregiver benefits page within the benefits hubs, including the top previous page and top next page
+
 Hub > Page	| Views |	 Unique views 	(%)	| entrances 	(%)	|bounce rate	|exit rate	|time on page|	Prev page - % - rank | Next page - % - rank
 --- | ---| --- | --- | --- | --- | --- | --- | ---
 Family hub	 |2,889,245 	 |	 1,441,441 	(49.89%)	 |	 473,705 	(16.40%) |	0.79%	 |	14.75%	 |	1:01 |		#1 Home	27.90%		<br> #2 R&S PACT page	12.03%	| #1 health > family	15.94%		<br> #2 Pension > survivors pen	12.96%
@@ -45,6 +51,8 @@ Notes:
 
 ## Top previous and next pages in past year
 
+Date range: Aug 17, 2022 - Aug 16, 2023
+Description: The top pages viewed prior to and after the family member benefits hub page
 
 Top previous pages - % | Top next pages -  %	 
 --- | ---
@@ -62,6 +70,88 @@ Top previous pages - % | Top next pages -  %
 Notes:
 - The top areas of previous pages were the home page, benefit hub pages, and Resources and support pages
 
+## Top nav click events 
+
+Date range: Aug 17, 2022 - Aug 16, 2023
+Description: Number of clicks each top level option in the top nav received, as well as the number of clicks on family/caregiver specific links in the top nav
+
+
+Top nav clicks |	 Event clicks 
+--- | ---
+Disability	 | 4,302,496 
+Health care	 | 1,844,489 
+Education |	 1,603,484 
+Records	 | 1,119,286 
+Pension	 | 551,316 
+Housing  |	 423,049 
+Service member	  |305,184 
+Life insurance	 | 292,121 
+Careers |	 273,597
+**Family member benefits**	 | **266,804**
+Burials	 | 179,687 
+Disability > Survivor and dependent compensation (DIC) |	 53,066 
+Education > Survivor and dependent education benefits |	 46,971 
+Health care > Family and caregiver health benefits	 | 43,885 
+Pension > Survivors pension 	 | 16,513 
+
+**Top pages visitors are clicking on the "Family member benefits" top nav option**
+- Home page - 104,407
+- eBenefits home -	 9,492 
+- R&S PACT page	- 8,396 
+- Sign in	 - 7,666 
+
+
+## Top related search terms
+
+Date range: Aug 17, 2022 - Aug 16, 2023
+Description: The top 10 searches containing the each of following terms: dependent, caregiver, spouse, family, or survivor
+
+**Search term - # of searches**
+- Dependents 	85,065
+- Add dependent 	34,565
+- Dependent 	33,913
+- Add dependents 	14,487
+- Caregiver 	12,562
+- Survivor benefits 	8,456
+- Spouse benefits 	5,768
+- Spouse 	4,708
+- Add a dependent 	3,824
+- Add spouse 	3,407
+- Survivor pension 	3,232
+- Caregiver application 	3,081
+- Caregiver program 	2,522
+- Caregiver eligibility 	2,245
+- Survivors pension 	2,221
+- Survivor benefits 	2,108
+- Caregiver support program 	2,026
+- Adding dependents 	2,006
+- Caregiver assistance 	1,996
+- My dependents 	1,993
+- Dependents claims 	1,936
+- Spouse benefits after death 	1,897
+- View dependents 	1,803
+- Death benefits for spouse 	1,706
+- Dependent education benefits	1,672
+- Caregiver support 	1,442
+- Caregivers 	1,435
+- Aid and attendance for spouse 	1,371
+- Home caregiver program 	1,197
+- Surviving spouse benefits 	1,196
+- Family caregiver 	1,136
+- Survivor	1,036
+- Survivor pension rate table 	877
+- Benefits for spouse 	798
+- Spouse id card 	669
+- Survivors 	618
+- Family 	613
+- Survivor benefit 	404
+- Family health insurance 	395
+- Benefits for family of deceased 	323
+- Family caregivers 	311
+- Survivor benefit plan 	302
+- Family care giver 	292
+- Comprehensive assistance for family caregivers 	245
+- Family member benefits 	242
 
 
 ## <a name="research"></a>Past Veteran and family member research
