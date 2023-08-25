@@ -2,10 +2,10 @@
 
 Last updated by @ruchishah29 on August 24, 2023
 
-Jump to:
-- Inquiry form
-- Medallia survey
-- Dashboard on status of inquiries
+**Jump to:**
+- [Inquiry form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#inquiry-form)
+- [Medallia survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#medallia-survey)
+- [Dashboard on status of inquiries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#dashboard)
 
 ## Inquiry form
 
@@ -39,7 +39,7 @@ Jump to:
 |Make sure existing AVA has implemented the intercept survey for at least 1 month before going live||x||
 |Ensure we receive PRA Approval both surveys|x|||
 
-## Dashboard on status of inquiries
+## Dashboard
 
 |Feature or task|Must have|Nice to have|Not in scope|
 |:--|:--:|:--:|:--:|
