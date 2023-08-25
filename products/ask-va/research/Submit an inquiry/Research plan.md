@@ -80,8 +80,6 @@ This will be a moderated usability study conducted remotely over Zoom. We will u
 
 We’ll use Perigean to recruit participants. We request a kick-off call with Perigean before recruitment can start.
 
-The audience will be Veterans and their dependents.
-
 ### Recruitment criteria
 
 We need to recruit 16 participants for a total of around 8-10 completed sessions.
@@ -98,8 +96,8 @@ We need to recruit 16 participants for a total of around 8-10 completed sessions
 |Exactly 8|Are willing to join from a desktop device|
 |At least 8|Are over 55 years old|
 |At least 8|Identify as Black, Hispanic or Native|
-|At least 4|Require screenreader software to use computers and mobile devices|
-|At least 4|Have a cognitive disability or consideration|
+|Exactly 4|Require screenreader software to use computers and mobile devices|
+|Exactly 4|Have a cognitive disability or consideration|
 |At least 4|Identify as a gender other than male|
 
 #### Secondary criteria (nice-to-have)
