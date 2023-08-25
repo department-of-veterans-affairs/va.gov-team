@@ -11,6 +11,8 @@
 
 ## Authenication
 
+To get access keys; send a request to btsss_support@va.gov. cc'Mark Dewey and they will handle the request. 
+
 ### OAuth/JWT policy
 
 The BTSSS Claims Ingest API utilizes the Oauth 2.0 protocol. This authentication process is handled by VAEC. The api follows a stand system to system 0Auth flow. We use VEIS for the authenication provider. Calls for the token are made to the VEIS service and then token is passed to the Claims API in the header. You will get a client secret, client id, and scope. The client secret and client id are the same for all enviroments, the scope changes as you are promoted from QA to production.  
