@@ -16,13 +16,7 @@ Describe the issue background and scope
 
 
 #  EPIC
-When working on UI/design updates these are the rough steps
-1. designer create mockups (includes review from CAIA practices)
-2. FE builds the thing, and then once it’s on prod (or close to it)
-3. contact center doc gets updated (minimum screenshots might need to change) 
-4. use case docs get updated (possibly nothing needs to change, or could be a lot)
-5. Sketch mock-ups get merged into master “source of truth” artboards that are linked to our docs
-
+When working on UI/design updates these are the tickets you need to create 
 - [ ] Design | Project | Create mockups (includes review from CAIA practices)
 - [ ] FE | Project | builds the thing, and then once it’s on prod (or close to it)
 - [ ] PM | Project | contact center doc gets updated (minimum screenshots might need to change)
@@ -31,7 +25,7 @@ When working on UI/design updates these are the rough steps
 
 
 # RESEARCH EPIC
-For research, there’s a very consistent set of steps:
+For research, these are the tickets you need to create:
 - [ ] Research | Project | Create research plan
 - [ ] Research | Project | Create convo guide
 - [ ] Research | Project | Logistics (set up note taking docs/templates, schedule debrief session, maybe hold kick-off w/ Perigean)
