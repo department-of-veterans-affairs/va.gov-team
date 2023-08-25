@@ -34,7 +34,7 @@ This research will help us determine if and how we need to improve the design an
 
 ### Research questions
 
-Review whether submitters can successfully submit an inquiry:
+**Review whether submitters can successfully submit an inquiry:**
 
 * Is it clear when you need to authenticate or when it’s optional?
 * Are people missing information on any question, page or sequence of pages?
@@ -45,7 +45,7 @@ Review whether submitters can successfully submit an inquiry:
 * How long do people expect it to take to submit an inquiry?
 * What do people expect to happen right after they submit an inquiry?
 
-Review what information submitters need when reviewing an ongoing or past inquiry:
+**Review what information submitters need when reviewing an ongoing or past inquiry:**
 
 * Are people missing any information that helps them identify which inquiry they're reviewing?
 * How and how often do people expect to be updated about changes to their inquiry status?
