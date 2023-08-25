@@ -37,7 +37,8 @@
     - Appointments team
     - Mobile team 
 1. Aid in creating and delievering on `how to make better claims get processed more efficiently`
-1. Add functioanlity to expose payment status (where, when, etc) 
+1. Add functioanlity to expose payment status (where, when, etc)
+   - Could be apart of the existing status endpoint and include how much was paid
 
 
 ## Next for va.gov submission tool focused team - Fall 2023
