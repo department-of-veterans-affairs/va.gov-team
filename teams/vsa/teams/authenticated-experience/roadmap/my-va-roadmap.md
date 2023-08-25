@@ -1,12 +1,10 @@
 # My VA roadmap
 
-**Last updated: June 22, 2023 - updated team ideas section**
+**Last updated: July 28, 2023 - pointed current and completed project sections to the product folder**
 
 ## Current projects
 
-|Project|Status|
-|----|----|
-|Claim status EVSS > Lighthouse | Technical discovery |
+[Please refer to the team product folder for a list of current projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md#current-projects).
 
 ### Projected timelines for current projects
 
@@ -16,17 +14,7 @@
 
 ## Completed projects
 
-|Project|Launch/Completion date|
-|----|----|
-|[My VA audit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#project-outline-my-va-audit-updates-and-documentation)| April 25, 2023 |
-|[Launch VAOS v2 integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41202)|December 19, 2022|
-|[Update Cerner module to be powered by Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47956)| Launched December 13, 2022|
-|[Payments and debts V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed December 12, 2022|
-|[My VA redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect#readme)| Completed September 12, 2022|
-|[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed May 2022|
-|[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)|Completed August 2021|
-|[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Launch completed July 2021 |
-|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
+[Please refer to the team product folder for a list of completed projects and enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md#completed-projects--enhancements).
 
 ## Priorities
 
@@ -47,7 +35,7 @@
 
 |Project|Date of request| Notes| Status|
 |----|----|----|----|
-|Surfacing "priority group" info on My VA | June 2023 | [Inquiry in VA Profile slack](https://dsva.slack.com/archives/C7TE0PFTL/p1686762657184879)|
+|Surfacing "priority group" info on My VA | June 2023 | [Inquiry in VA Profile slack](https://dsva.slack.com/archives/C7TE0PFTL/p1686762657184879), [more background slack thread](https://dsva.slack.com/archives/C04GDQSHD1R/p1687881972978809)|
 |Benefit application drafts | May/June 2023 | Inquiries from different teams led the team to realize our documentation for this section was not as clear is it could be  <br /><br />- [Veteran facing forms team - slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1686599083929699), as a result a form was added to the section, "form 21p-0847" <br />- [NOD and supplemental claims forms via Robin G - slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1686065298385539) <br />- Going to have the team do a review of our documentation around that section to indicate when and how a form appears there; and which forms currently appear there (see [#60510](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60510)) | Backlog [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60510)|
 | Expansion of education section| Spring 2023 | As a result of [My VA audit UX improvements UAT study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/findings-summary.md), it was [recommended](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/findings-summary.md#recommendations) we expand the education and training section to include education benefits that do not fall under the post-9/11 GI bill. We should do some discovery work, talk to other teams, poke around GH to gather info on other types of education benefits and see how/if we can incorporate that into My VA education and training section. ([Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1682011499974139)) | Backlog [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59636)|
 |Should we/how can we add letters and dependent info?| - | 'letters' and 'dependents' are top searches on My VA now that we've added links to other popular functionality (eg. payment info). They are also top searches across the site. How can we elevate this info on My VA? Links? Something else? | | 

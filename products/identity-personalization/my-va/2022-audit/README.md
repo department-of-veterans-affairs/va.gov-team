@@ -4,8 +4,10 @@
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; my-va-dashboard
-- **Slack channel**: vsa-authd-exp
+- **GitHub Label**: authenticated-experience; my-va-dashboard
+- **Slack channel**: accountexp-authexp
+- **Development Epic: [#41934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41934)**
+- **Collaboration Cycle Epic: [#42601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/42601)**
 
 ### Roles
 
@@ -100,15 +102,15 @@ To mitigate each of the problems above, we plan to do the following:
 
 |KPI/metric|Baseline: <br />1 month pre-launch to 25%  <br />(3/10/23 - 4/09/23)|1 month post-launch to 100% <br />(4/25/23 - 5/24/23)| 2 months post-launch to 100% <br />(5/25/23 - 6/24/23)|
 |----------|-------------|---------------|-------------------|
-|Clicks into "Manage all claims and appeals"|417,914|294,679|374,578|
+|Clicks into "Manage all claims and appeals"|417,916|294,679|374,578|
 |Clicks into individual claims, "Review claim"|305,445|509,934|633,521|
 |Clicks into "Learn how to file a claim"|Not applicable - new link to My VA|14,878|21,385|
 |Clicks into "Apply for VA health care"|Not applicable - new link to My VA|4,546|6,005|
-|Clicks into "Schedule and manage your appointments"|16,606|71,880|89,559|
+|Clicks into "Schedule and manage your appointments"|26,342|71,880|89,559|
 |Clicks into "Send a secure message to your health care team"|100,893|84,044|107,809|
 |Clicks into "Refill and track your prescriptions"|77,825|60,721|86,540|
 |Clicks into "Manage your VA debt"|25,830|21,243|24,369|
-|Clicks into "Review your payment history"|1,492|203,138|257,159|
+|Clicks into "Review your payment history"|225,791|203,138|257,159|
 
 **KPI: We will see a reduction in searches for terms related to new links added to My VA.**
 

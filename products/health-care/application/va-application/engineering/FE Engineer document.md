@@ -29,7 +29,9 @@ Mission: Make it easier for Veterans and Caregivers to apply for, track, and man
 ``` markdown
 /health-care/apply/application/introduction
 ```
-
+### Enrollment System WSDL
+- [Enrollment System - EE Summary WSDL](https://ves.va.gov/esr-ws/spring-ws/getEESummary/eeSummary.wsdl)
+     - Must be on VA Network to access
 
 ### How to run locally
 

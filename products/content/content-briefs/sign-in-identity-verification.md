@@ -32,7 +32,7 @@ This brief will help your team create content for your product that aligns with 
 | **My HealtheVet** |  | "My HealtheVet" is 2 words. Don’t italicize the “e” between “Health” and “Vet” in body copy,headlines, and user interface elements such as links, buttons, and navigation. The “e” is italicized only in the logo. |  | In style guide Word list | 10.14.22 |
 | **sign in/sign out** | We always use "sign in" and "sign out" to describe the process of authenticating on VA.gov and other VA digital tools. | We don't use "log in"/"log out" or "sign on." |  | In style guide Word list | 10.14.22 |
 | ***draft*** **verify your identity** | We use this to describe the process of proving your identity through a sign-in partner like Login.gov or ID.me. | Login.gov and ID.me use "verify your identity" to describe this process. We can explain this in Veteran content as "We'll ask you to verify your identity (prove that you're you)."| | Not yet in style guide | 5.25.23 |
-| ***draft*** **VA.gov and other VA online services** | We use this term to describe the group of websites, tools, and apps that Veterans can use to manage their VA benefits, health care, and information online. | We can usually omit this term and focus on the action: "Sign in to manage your VA benefits and health care online." But we sometimes need to refer to this directly. For example, "To sign in to VA.gov and other VA online services, you need to accept these terms of use." | | Not yet in style guide | 5.25.23 |
+| ***draft*** **VA.gov and other VA online services** | We use this term to describe the group of websites, tools, and apps that Veterans can use to manage their VA benefits, health care, and information online. | We can usually omit this term and focus on the action: "Sign in to manage your VA benefits and health care online." But we sometimes need to refer to this directly. For example, "To sign in to VA.gov and other VA online services, you need to accept these terms of use." | | (Not yet ready for style guide) | 5.25.23 |
 
 ## Content considerations specific to sign in and identity verification
 
@@ -52,17 +52,6 @@ We want to begin encouraging Veterans to create Login.gov or ID.me accounts, wit
  > **Here’s the difference between these 2 accounts:** 
  > - **Login.gov** is an account created, maintained, and secured by the U.S. government. It encrypts your stored information at 2 levels. Encryption translates your data into code that only you can access as the account holder. This means only you can access and change your information. 
  > - **ID.me** is an account created, maintained, and secured by a trusted technology partner. It uses bank-grade encryption to keep your personal info safe. It gives you control over which services can share your information.
-
-#### And here's language from the TAP curriculum about creating a Login.gov account specifically: (added 10.14.22)
-
- > To manage your VA benefits online, we encourage you to create a Login.gov account now. 
- > Login.gov offers these benefits:
- >  - Access to VA benefits, services, and information in a single, secure account
- >  - A secure sign-in option that protects your privacy and complies with the latest federal security standards
- >  - A single account to manage your other government benefits and services (like Social Security benefits or federal job applications)
- >  - An account created, maintained, and secured by the U.S. government
- > 
- > At this time, you can also use your DS Logon, My HealtheVet, or ID.me account to sign in to VA.gov. But VA will soon no longer offer DS Logon as a sign-in option. And soon all VA websites will follow a new sign-in process through VA.gov with Login.gov as the recommended account.
 
 ## Organic SEO and VA.gov search
 ### Terms related to "verifying" have larger volume than "proofing" ###

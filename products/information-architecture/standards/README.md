@@ -2,16 +2,17 @@
 
 ### IA standards
 
-**Standards and best practices in Github**
+**Standards and best practices**
+
+- [URL standards](https://design.va.gov/content-style-guide/url-standards) - in the VA.gov design system
+  - Additional [work in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/url-standards.md) around URLs
+- Navigation components
+  - [Breadcrumbs](https://design.va.gov/components/breadcrumbs) - in the VA.gov design system
+  - [Secondary nav (aka side nav)](https://design.va.gov/components/sidenav) - in the VA.gov design system
+  - [Pagination](https://design.va.gov/components/pagination) - in the VA.gov design system
 - [Search best bets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/search-best-bets.md) - Draft standards complete, will be continuing to evaulate draft approach
 - [SEO best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/seo-best-practices.md)
 - [Template: Benefit hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/template-guidelines-hub-page.md) - work in progress
-
-**Standard components in the VA.gov design system**
-- [URL standards](https://design.va.gov/content-style-guide/url-standards)
-- [Breadcrumbs](https://design.va.gov/components/breadcrumbs)
-- [Secondary nav (aka side nav)](https://design.va.gov/components/sidenav)
-- [Pagination](https://design.va.gov/components/pagination) 
 - Additional IA standards to come...
 
 **VA.gov experience standards**

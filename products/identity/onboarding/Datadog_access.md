@@ -17,11 +17,9 @@ The [VA.](http://va.gov/)gov Platform monitoring solution uses a Datadog instanc
 
 *Note: These instructions require a VA-issued PIV card. Alternatively, a Platform Crew team lead can fill out a request on a team member’s behalf. If you have a PIV card, but these instructions are not working for you, please see “[Troubleshooting](https://vfs.atlassian.net/wiki/spaces/OT/pages/2233598117/Get+access+to+Datadog#troubleshooting)” and/or “[Support](https://vfs.atlassian.net/wiki/spaces/OT/pages/2233598117/Get+access+to+Datadog#Support)” below*
 
-**1 - Go to Max.Gov Jira** and use the request template found **[HERE](https://vajira.max.gov/servicedesk/customer/portal/1/create/18)
+**1 - Go to VA Jira** and use the request template found **[HERE](https://jira.devops.va.gov/servicedesk/customer/portal/1/group/3)
 
-**Log in using your PIV card** *(or using your VA.gov email):*
-
-![image](https://user-images.githubusercontent.com/71290526/215187754-1e50a903-4cd5-4376-bf78-ca0ffd5d6a41.png)
+**Log in using your VA Okta credentials or PIV card**
 
 **2 - Submit a request** for access to Datadog *(instance name: [vagov.ddog-gov.com](http://vagov.ddog-gov.com/))*
 

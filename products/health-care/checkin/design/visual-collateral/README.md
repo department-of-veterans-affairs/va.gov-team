@@ -4,7 +4,7 @@
 
 ### Latest Release (PDF)
 - Release Notes
-  - 6/16/2023 - Step 3 content is revised (Select the link. Follow the steps until you get to the page that says “You’re checked in.”) <br><br>
+  - 8/07/2023 - 17x11 TV monitor posters are added.<br><br>
     - 8.5" X 11" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772069/8.5x11-lowvision-yourecheckedin-fin.pdf)
  Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772073/8.5x11-lowvision-yourecheckedin-philippines-fin.pdf)
 
@@ -20,6 +20,9 @@
     - 24" x 36" for [US & US Territories](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772082/24x36-lowvision-yourecheckedin-fin.pdf)
  Or [Philippines](https://github.com/department-of-veterans-affairs/va.gov-team/files/11772083/24x36-lowvision-yourecheckedin-philippines-fin.pdf)
 
+    - 17" x 11" TV monitor posters with [dark background](https://github.com/department-of-veterans-affairs/va.gov-team/assets/91493630/ca0baceb-289b-4b43-9840-e04efb822d84) Or [light background](https://github.com/department-of-veterans-affairs/va.gov-team/assets/91493630/31861651-6c32-4817-b606-f29fcd0dd92c)
+
+
  <br><br>
 
  
@@ -27,7 +30,8 @@
 ### Previous Release/Version (PDF)
 
 - Release Notes
-  - 5/30/2023 - Removed QR code <br><br>
+  - 6/16/2023 - Step 3 content is revised (Select the link. Follow the steps until you get to the page that says “You’re checked in.”) <br>
+  - 5/30/2023 - Removed QR code <br>
   - 4/27/2023 - Iterated the first footer content
   - 4/25/2023 - Removed QR Code and related first footer content (The content is updated to "After you check in, we'll come get you")
   - 6/27/2022 - Updated file name and QR codes for Philippines only posters

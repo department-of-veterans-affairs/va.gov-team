@@ -48,17 +48,19 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 
 **Federal employees** 
 - Portfolio: Lauren Alexanderson
+- Product Owner: Patrick Bateman
 - Product: Leila Rassi
 - Product: Marci McGuire
 - Design: Coulton Bunney
 - Design: Ryan Thurlwell
+- Design: Robyn Singleton
 - Design: Jenny Wang, Digital Corps Fellow
 - Product: Jasmine Yohannan, Digital Corps Fellow
 
 **Contractors (Agile Six)**
 - Delivery Manager: Lynne Johnson
 - Technical Architect: Carlos Felix
-- Team Coach: Dotti Cummings
+- Team Coach: Mike Collier
 - Delivery Coach: Stephen Smythe
 - Design Lead: Florence McCafferty
 - Product Manager: Tom Anderson
@@ -68,10 +70,9 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 **Contractors (Ad Hoc)** 
 - Design: Jonathan Nelson
 - Research Lead: Cara Frissell
-- Engineering: Eric Voshall
-- QA Engineer: Erin Flaherty
+- Engineering: Jim Zaccardo
 - Accessibility: Angela Fowler
-- Information Architect: TBD
+- Information Architect: Sara Sterkenberg
 
 **Contractors (Oddball)
 - 508 Accessibility Specialist: Sara Smith

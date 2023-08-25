@@ -1,0 +1,720 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "*",
+        "src/*"
+      ],
+      "~/*": [
+        "./src/*"
+      ],
+      "@@profile/*": [
+        "./src/applications/personalization/profile/*"
+      ],
+      "@@vap-svc/*": [
+        "./src/platform/user/profile/vap-svc/*"
+      ],
+      "@department-of-veterans-affairs/platform-pdf/exports": [
+        "./src/platform/pdf/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-startup/exports": [
+        "./src/platform/startup/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-startup/index": [
+        "./src/platform/startup/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-startup/store": [
+        "./src/platform/startup/store.js"
+      ],
+      "@department-of-veterans-affairs/platform-startup/react": [
+        "./src/platform/startup/react.js"
+      ],
+      "@department-of-veterans-affairs/platform-startup/setup": [
+        "./src/platform/startup/setup.js"
+      ],
+      "@department-of-veterans-affairs/platform-startup/router": [
+        "./src/platform/startup/router.js"
+      ],
+      "@department-of-veterans-affairs/platform-startup/analytics-middleware": [
+        "./src/platform/startup/analytics-middleware.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/exports": [
+        "./src/platform/utilities/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/environment": [
+        "./src/platform/utilities/environment/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/stagingDomains": [
+        "./src/platform/utilities/environment/stagingDomains.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/va-subdomain": [
+        "./src/platform/utilities/environment/va-subdomain.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/feature-toggles": [
+        "./src/platform/utilities/feature-toggles/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/feature-toggles/helpers": [
+        "./src/platform/utilities/feature-toggles/helpers.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/flipper-client": [
+        "./src/platform/utilities/feature-toggles/flipper-client.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/featureFlagNames": [
+        "./src/platform/utilities/feature-toggles/featureFlagNames.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/medical-centers": [
+        "./src/platform/utilities/medical-centers/medical-centers.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/sso/constants": [
+        "./src/platform/utilities/sso/constants.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/sso": [
+        "./src/platform/utilities/sso/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/keepAliveSSO": [
+        "./src/platform/utilities/sso/keepAliveSSO.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/loginAttempted": [
+        "./src/platform/utilities/sso/loginAttempted.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/mockKeepAliveSSO": [
+        "./src/platform/utilities/sso/mockKeepAliveSSO.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/localStorage": [
+        "./src/platform/utilities/storage/localStorage.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/asyncLoader": [
+        "./src/platform/utilities/ui/asyncLoader.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/DelayedRender": [
+        "./src/platform/utilities/ui/DelayedRender.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/ui": [
+        "./src/platform/utilities/ui/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/scrollTo": [
+        "./src/platform/utilities/ui/scrollTo.js"
+      ],
+      "@department-of-veterans-affairs/platform-utilities/scrollToTop": [
+        "./src/platform/utilities/ui/scrollToTop.js"
+      ],
+      "@department-of-veterans-affairs/platform-landing-pages/exports": [
+        "./src/platform/landing-pages/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-landing-pages/dev-template": [
+        "./src/platform/landing-pages/dev-template.js"
+      ],
+      "@department-of-veterans-affairs/platform-landing-pages/facility-sidebar": [
+        "./src/platform/landing-pages/facility-sidebar.json"
+      ],
+      "@department-of-veterans-affairs/platform-landing-pages/header-footer-data": [
+        "./src/platform/landing-pages/header-footer-data.json"
+      ],
+      "@department-of-veterans-affairs/platform-static-data/exports": [
+        "./src/platform/static-data/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-static-data/CallHRC": [
+        "./src/platform/static-data/CallHRC.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-static-data/CallNCACenter": [
+        "./src/platform/static-data/CallNCACenter.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-static-data/CallVBACenter": [
+        "./src/platform/static-data/CallVBACenter.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-static-data/EmailVICHelp": [
+        "./src/platform/static-data/EmailVICHelp.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-static-data/error-messages": [
+        "./src/platform/static-data/error-messages.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-static-data/labels": [
+        "./src/platform/forms/static-data/labels.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-static-data/options-for-select": [
+        "./src/platform/static-data/options-for-select.js"
+      ],
+      "@department-of-veterans-affairs/platform-static-data/SubmitSignInForm": [
+        "./src/platform/static-data/SubmitSignInForm.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-polyfills/exports": [
+        "./src/platform/polyfills/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-polyfills/canvas-toBlob": [
+        "./src/platform/polyfills/canvas-toBlob.js"
+      ],
+      "@department-of-veterans-affairs/platform-polyfills/download-attribute": [
+        "./src/platform/polyfills/download-attribute.js"
+      ],
+      "@department-of-veterans-affairs/platform-polyfills": [
+        "./src/platform/polyfills/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-polyfills/polyfill-timezone-data": [
+        "./src/platform/polyfills/polyfill-timezone-data.js"
+      ],
+      "@department-of-veterans-affairs/platform-polyfills/preESModulesPolyfills": [
+        "./src/platform/polyfills/preESModulesPolyfills.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/exports": [
+        "./src/platform/user/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/selectors": [
+        "./src/platform/user/selectors.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/authentication/actions": [
+        "./src/platform/user/authentication/actions/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/authentication/constants": [
+        "./src/platform/user/authentication/constants.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/authentication/selectors": [
+        "./src/platform/user/authentication/selectors.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/authentication/utilities": [
+        "./src/platform/user/authentication/utilities.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/transitionModal": [
+        "./src/platform/user/authentication/components/account-transition/TransitionModal.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/transitionSuccessModal": [
+        "./src/platform/user/authentication/components/account-transition/TransitionSuccessModal.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/CreateAccountLink": [
+        "./src/platform/user/authentication/components/CreateAccountLink.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/VerifyAccountLink": [
+        "./src/platform/user/authentication/components/VerifyAccountLink.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/DowntimeBanner": [
+        "./src/platform/user/authentication/components/DowntimeBanner.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/FedWarning": [
+        "./src/platform/user/authentication/components/FedWarning.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/IDMeSVG": [
+        "./src/platform/user/authentication/components/IDMeSVG.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/LoginActions": [
+        "./src/platform/user/authentication/components/LoginActions.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/LoginButton": [
+        "./src/platform/user/authentication/components/LoginButton.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/LoginContainer": [
+        "./src/platform/user/authentication/components/LoginContainer.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/LoginGovSVG": [
+        "./src/platform/user/authentication/components/LoginGovSVG.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/LoginHeader": [
+        "./src/platform/user/authentication/components/LoginHeader.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/LoginInfo": [
+        "./src/platform/user/authentication/components/LoginInfo.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/LogoutAlert": [
+        "./src/platform/user/authentication/components/LogoutAlert.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/ServiceProvidersList": [
+        "./src/platform/user/authentication/components/ServiceProvidersList.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/ServiceProvidersText": [
+        "./src/platform/user/authentication/components/ServiceProvidersText.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/SessionTimeoutModal": [
+        "./src/platform/user/authentication/components/SessionTimeoutModal.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/SignInModal": [
+        "./src/platform/user/authentication/components/SignInModal.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/AcceptTermsPrompt": [
+        "./src/platform/user/authorization/components/AcceptTermsPrompt.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/RequiredLoginView": [
+        "./src/platform/user/authorization/components/RequiredLoginView.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/MHVApp": [
+        "./src/platform/user/authorization/container/MHVApp.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/RequiredTermsAcceptanceView": [
+        "./src/platform/user/authorization/container/RequiredTermsAcceptanceView.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-user/profile/actions": [
+        "./src/platform/user/profile/actions.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/profile/backendServices": [
+        "./src/platform/user/profile/constants/backendServices.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/profile/reducers": [
+        "./src/platform/user/profile/reducers/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/profile/utilities": [
+        "./src/platform/user/profile/utilities/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/local-vapsvc": [
+        "./src/platform/user/profile/vap-svc/util/local-vapsvc.js"
+      ],
+      "@department-of-veterans-affairs/platform-user/disableFTUXModals": [
+        "./src/platform/user/tests/disableFTUXModals.js"
+      ],
+      "@department-of-veterans-affairs/platform-testing/exports": [
+        "./src/platform/testing/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-testing/contract": [
+        "./src/platform/testing/contract/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-testing/form-tester": [
+        "./src/platform/testing/e2e/cypress/support/form-tester/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-testing/form-tester/utilities": [
+        "./src/platform/testing/e2e/cypress/support/form-tester/utilities.js"
+      ],
+      "@department-of-veterans-affairs/platform-testing/mock-helpers": [
+        "./src/platform/testing/e2e/mock-helpers.js"
+      ],
+      "@department-of-veterans-affairs/platform-testing/common": [
+        "./src/platform/testing/local-dev-mock-api/common.js"
+      ],
+      "@department-of-veterans-affairs/platform-testing/helpers": [
+        "./src/platform/testing/unit/helpers.js"
+      ],
+      "@department-of-veterans-affairs/platform-testing/react-testing-library-helpers": [
+        "./src/platform/testing/unit/react-testing-library-helpers.js"
+      ],
+      "@department-of-veterans-affairs/platform-testing/schemaform-utils": [
+        "./src/platform/testing/unit/schemaform-utils.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-testing/sentry": [
+        "./src/platform/testing/unit/sentry.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/exports": [
+        "./src/platform/site-wide/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/showVaAlertExpandable": [
+        "./src/platform/site-wide/alerts/showVaAlertExpandable.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/EbenefitsLink": [
+        "./src/platform/site-wide/ebenefits/containers/EbenefitsLink.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/selectors": [
+        "./src/platform/site-wide/feature-toggles/selectors.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/actionTypes": [
+        "./src/platform/site-wide/feature-toggles/actionTypes.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/feature-toggles/reducers": [
+        "./src/platform/site-wide/feature-toggles/reducers/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/header": [
+        "./src/platform/site-wide/header/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/static-drupal-data": [
+        "./src/platform/site-wide/hooks/static-drupal-data.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/menu": [
+        "./src/platform/site-wide/legacy/menu.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/legacy/mega-menu": [
+        "./src/platform/site-wide/legacy/mega-menu.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/LoadingButton": [
+        "./src/platform/site-wide/loading-button/LoadingButton.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/mega-menu": [
+        "./src/platform/site-wide/mega-menu/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/reducers": [
+        "./src/platform/site-wide/mega-menu/reducers/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/utilities": [
+        "./src/platform/site-wide/mhv/utilities.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/mobile-menu-button": [
+        "./src/platform/site-wide/mobile-menu-button/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/style": [
+        "./src/platform/site-wide/sass/style.scss"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/va-medallia-style": [
+        "./src/platform/site-wide/sass/va-medallia-style.scss"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/m-overrides": [
+        "./src/platform/site-wide/sass/modules/m-overrides.scss"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/m-header": [
+        "./src/platform/site-wide/sass/modules/m-header.scss"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/m-footer": [
+        "./src/platform/site-wide/sass/modules/m-footer.scss"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/m-downtime-notification": [
+        "./src/platform/site-wide/sass/modules/m-downtime-notification.scss"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/m-layers": [
+        "./src/platform/site-wide/sass/modules/m-layers.scss"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/iconography": [
+        "./src/platform/site-wide/sass/modules/iconography.scss"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/sitemap-helpers": [
+        "./src/platform/site-wide/tests/sitemap/sitemap-helpers.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/actions": [
+        "./src/platform/site-wide/user-nav/actions/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/AutoSSO": [
+        "./src/platform/site-wide/user-nav/containers/AutoSSO.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/user-nav": [
+        "./src/platform/site-wide/user-nav/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/sass/user-nav": [
+        "./src/platform/site-wide/user-nav/sass/user-nav.scss"
+      ],
+      "@department-of-veterans-affairs/ask-va/sass/ask-va-too": [
+        "./src/applications/ask-va/sass/ask-va-too.scss"
+      ],
+      "@department-of-veterans-affairs/virtual-agent/sass/virtual-agent": [
+        "./src/applications/virtual-agent/sass/virtual-agent.scss"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/user-nav/reducers": [
+        "./src/platform/site-wide/user-nav/reducers/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/va-footer": [
+        "./src/platform/site-wide/va-footer/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/wizard": [
+        "./src/platform/site-wide/wizard/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/accessible-VCL-modal": [
+        "./src/platform/site-wide/accessible-VCL-modal.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/main": [
+        "./src/platform/site-wide/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/moment-setup": [
+        "./src/platform/site-wide/moment-setup.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/wc-loader": [
+        "./src/platform/site-wide/wc-loader.js"
+      ],
+      "@department-of-veterans-affairs/platform-site-wide/mhv/utilities": [
+        "./src/platform/site-wide/mhv/utilities.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/exports": [
+        "./src/platform/forms/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/labels": [
+        "./src/platform/forms/address/data/labels.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/addressHelpers": [
+        "./src/platform/forms/address/helpers.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/address": [
+        "./src/platform/forms/address/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/validations": [
+        "./src/platform/forms/address/validations.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/ErrorMessage": [
+        "./src/platform/forms/components/common/alerts/ErrorMessage.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/grid": [
+        "./src/platform/forms/components/commong/grid/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/BurialModalContent": [
+        "./src/platform/forms/components/OMBInfoModalContent/BurialModalContent.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/EducationModalContent": [
+        "./src/platform/forms/components/OMBInfoModalContent/EducationModalContent.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/HealthcareModalContent": [
+        "./src/platform/forms/components/OMBInfoModalContent/HealthcareModalContent.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/ApplicantDescription": [
+        "./src/platform/forms/components/ApplicantDescription.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/FormFooter": [
+        "./src/platform/forms/components/FormFooter.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/GetPensionOrBurialFormHelp": [
+        "./src/platform/forms/components/GetPensionOrBurialFormHelp.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/ServicePeriodView": [
+        "./src/platform/forms/components/ServicePeriodView.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/definitions/address": [
+        "./src/platform/forms/definitions/address.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/bankAccount": [
+        "./src/platform/forms/definitions/bankAccount.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/fullName": [
+        "./src/platform/forms/definitions/fullName.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/nonMilitaryJobs": [
+        "./src/platform/forms/definitions/nonMilitaryJobs.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/nonRequiredFullName": [
+        "./src/platform/forms/definitions/nonRequiredFullName.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/personId": [
+        "./src/platform/forms/definitions/personId.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/form": [
+        "./src/platform/forms/formulate-integration/Form.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/ApplicationInformation": [
+        "./src/platform/forms/pages/applicantInformation.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/actions": [
+        "./src/platform/forms/save-in-progress/actions.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/api": [
+        "./src/platform/forms/save-in-progress/api.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/ApplicationStatus": [
+        "./src/platform/forms/save-in-progress/ApplicationStatus.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/DowntimeMessage": [
+        "./src/platform/forms/save-in-progress/DowntimeMessage.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/FormSaved": [
+        "./src/platform/forms/save-in-progress/FormSaved.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/save-in-progress/helpers": [
+        "./src/platform/forms/save-in-progress/helpers.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/MilitaryPrefillMessage": [
+        "./src/platform/forms/save-in-progress/MilitaryPrefillMessage.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/PrefillMessage": [
+        "./src/platform/forms/save-in-progress/PrefillMessage.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/reducers": [
+        "./src/platform/forms/save-in-progress/reducers.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/RoutedSavableApp": [
+        "./src/platform/forms/save-in-progress/RoutedSavableApp.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/SaveFormLink": [
+        "./src/platform/forms/save-in-progress/SaveFormLink.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/SaveStatus": [
+        "./src/platform/forms/save-in-progress/SaveStatus.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms/selectors": [
+        "./src/platform/forms/save-in-progress/selectors.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/constants": [
+        "./src/platform/forms/constants.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/fields": [
+        "./src/platform/forms/fields.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/helpers": [
+        "./src/platform/forms/helpers.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms/sub-task": [
+        "./src/platform/forms/sub-task/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/exports": [
+        "./src/platform/forms-system/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/AddressViewField": [
+        "./src/platform/forms-system/src/js/components/AddressViewField.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/FormNavButtons": [
+        "./src/platform/forms-system/src/js/components/FormNavButtons.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/FormTitle": [
+        "./src/platform/forms-system/src/js/components/FormTitle.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/ProgressButton": [
+        "./src/platform/forms-system/src/js/components/ProgressButton.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/ReviewCardField": [
+        "./src/platform/forms-system/src/js/components/ReviewCardField.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/SchemaForm": [
+        "./src/platform/forms-system/src/js/components/SchemaForm.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/content/directDeposit": [
+        "./src/platform/forms-system/src/js/definitions/content/directDeposit.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/address": [
+        "./src/platform/forms-system/src/js/definitions/address.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/autosuggest": [
+        "./src/platform/forms-system/src/js/definitions/autosuggest.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/confirmationEmail": [
+        "./src/platform/forms-system/src/js/definitions/confirmationEmail.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/currency": [
+        "./src/platform/forms-system/src/js/definitions/currency"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/currentOrPastDate": [
+        "./src/platform/forms-system/src/js/definitions/currentOrPastDate.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/currentOrPastMonthYear": [
+        "./src/platform/forms-system/src/js/definitions/currentOrPastMonthYear.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/date": [
+        "./src/platform/forms-system/src/js/definitions/date.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/dateRange": [
+        "./src/platform/forms-system/src/js/definitions/dateRange.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/directDeposit": [
+        "./src/platform/forms-system/src/js/definitions/directDeposit.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/email": [
+        "./src/platform/forms-system/src/js/definitions/email.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/definitions/file": [
+        "./src/platform/forms-system/src/js/definitions/file.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/fullName": [
+        "./src/platform/forms-system/src/js/definitions/fullName.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/monthYear": [
+        "./src/platform/forms-system/src/js/definitions/monthYear.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/monthYearRange": [
+        "./src/platform/forms-system/src/js/definitions/monthYearRange.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/phone": [
+        "./src/platform/forms-system/src/js/definitions/phone.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/profileAddress": [
+        "./src/platform/forms-system/src/js/definitions/profileAddress.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/profileContactInfo": [
+        "./src/platform/forms-system/src/js/definitions/profileContactInfo.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/ssn": [
+        "./src/platform/forms-system/src/js/definitions/ssn.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/year": [
+        "./src/platform/forms-system/src/js/definitions/year.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/FullNameField": [
+        "./src/platform/forms-system/src/js/fields/FullNameField.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/ObjectField": [
+        "./src/platform/forms-system/src/js/fields/ObjectField.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/review/PhoneNumberWidget": [
+        "./src/platform/forms-system/src/js/review/PhoneNumberWidget.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/ReviewChapters": [
+        "./src/platform/forms-system/src/js/review/ReviewChapters.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/SubmitController": [
+        "./src/platform/forms-system/src/js/review/SubmitController.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/state/helpers": [
+        "./src/platform/forms-system/src/js/state/helpers.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/reducers": [
+        "./src/platform/forms-system/src/js/state/reducers.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/selectors": [
+        "./src/platform/forms-system/src/js/state/selectors.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/numberToWords": [
+        "./src/platform/forms-system/src/js/utilities/data/numberToWords.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/findDuplicateIndexes": [
+        "./src/platform/forms-system/src/js/utilities/data/findDuplicateIndexes.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/get": [
+        "./src/platform/forms-system/src/js/utilities/data/get.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/set": [
+        "./src/platform/forms-system/src/js/utilities/data/set.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/utilities/file": [
+        "./src/platform/forms-system/src/js/utilities/file/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/mask-string": [
+        "./src/platform/forms-system/src/js/utilities/ui/mask-string.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/ui": [
+        "./src/platform/forms-system/src/js/utilities/ui/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/validations": [
+        "./src/platform/forms-system/src/js/utilities/validations/index.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/fuzzy-matching": [
+        "./src/platform/forms-system/src/js/utilities/fuzzy-matching.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/save-in-progress-messages": [
+        "./src/platform/forms-system/src/js/utilities/save-in-progress-messages.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/viewify-fields": [
+        "./src/platform/forms-system/src/js/utilities/viewify-fields.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/widgets/PhoneNumberWidget": [
+        "./src/platform/forms-system/src/js/widgets/PhoneNumberWidget.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/TextWidget": [
+        "./src/platform/forms-system/src/js/widgets/TextWidget.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/ArrayCountWidget": [
+        "./src/platform/forms-system/src/js/widgets/ArrayCountWidget.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/actions": [
+        "./src/platform/forms-system/src/js/actions.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/constants": [
+        "./src/platform/forms-system/src/js/constants.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/helpers": [
+        "./src/platform/forms-system/src/js/helpers.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/routing": [
+        "./src/platform/forms-system/src/js/routing.js"
+      ],
+      "@department-of-veterans-affairs/platform-forms-system/validation": [
+        "./src/platform/forms-system/src/js/validation.js"
+      ],
+      "@department-of-veterans-affairs/platform-monitoring/exports": [
+        "./src/platform/monitoring/exportsFile.js"
+      ],
+      "@department-of-veterans-affairs/platform-monitoring/DowntimeNotification": [
+        "./src/platform/monitoring/DowntimeNotification/index.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-monitoring/DowntimeNotification/containers/DowntimeNotification": [
+        "./src/platform/monitoring/DowntimeNotification/containers/DowntimeNotification.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-monitoring/DowntimeNotification/components/Banner": [
+        "./src/platform/monitoring/DowntimeNotification/components/Banner.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-monitoring/DowntimeNotification/components/Down": [
+        "./src/platform/monitoring/DowntimeNotification/components/Down.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-monitoring/DowntimeNotification/components/DowntimeApproaching": [
+        "./src/platform/monitoring/DowntimeNotification/components/DowntimeApproaching.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-monitoring/DowntimeNotification/components/Wrapper": [
+        "./src/platform/monitoring/DowntimeNotification/components/Wrapper.jsx"
+      ],
+      "@department-of-veterans-affairs/platform-monitoring/DowntimeNotification/util/helpers": [
+        "./src/platform/monitoring/DowntimeNotification/util/helpers.js"
+      ],
+      "@department-of-veterans-affairs/platform-monitoring/external-services/ExternalServicesError": [
+        "./src/platform/monitoring/external-services/ExternalServicesError.jsx"
+      ]
+    },
+    "jsx": "react",
+    "resolveJsonModule": true
+  },
+  "exclude": [
+    "node_modules",
+    "build",
+    "coverage"
+  ]
+}

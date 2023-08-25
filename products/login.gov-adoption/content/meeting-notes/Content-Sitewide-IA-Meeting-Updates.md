@@ -1,5 +1,83 @@
 ## Content Sync
 
+## July 6, 2023
+
+## Sitewide Content
+
+### Attendees: Sofia Kirkman, Dawn Munoz
+
+### Notes:
+- Close to moving into a variation of Phase 1 in terms of appointments
+appointments has lived on VA.gov for some time
+- Viewing appointments was on MHV but managing apointments was on VA.gov
+- Processes for appointments are going to change as everything pertaining to appointments is moving to VA.gov
+- Getting ready to launch into the try me phase 
+- For veterans who are already familiar with managing appointments on VA.gov: "if you have been managing your appointments on VA.gov then you will continue to use the same tool"
+- MHV is going away as a sign in in January
+- Tricky messaging because there is a difference between MHV sign in and MHV portal
+- Difficulty in conveying how to sign up for VA.gov by using a Login.gov account
+- Forming a "glossary of terms" to help people understand the differences in the language
+- Content brief is to show what studies show but they are not necessarily style guides
+- Things from content briefs are taken in as findings
+- LGA team will follow up with Susan Haidary to understand coordinator workflow and connect with potential MVP sites
+
+
+
+Examined new FAQs for identity verfication here: https://docs.google.com/document/d/1p_BmZsXZEfOY5cCiPOBXQurVuP8LWIr7vXqhemQRQNM/edit
+
+## July 6, 2023
+
+## MHV Comms Working Group 
+
+### Attendees: Sofia Kirkman, Dawn Munoz
+
+### Notes:
+FAQS: Bank of questions and answers for presenters on MHV on VA.gov project
+- Use content for other channels
+
+Track how we are doing with communications
+In comms plan, desired measures were provided - now we have to put those in place and communicate them to leadership
+
+Danielle and Treva will provide a 10 min preview on a call of MHV on VA.gov
+- High level
+- Product line people will attend to answer questions
+- Working on some slides
+- Use MHV on VA.gov briefing
+- Focus briefing more on what veterans need to know rather than what the project is about
+
+Change management process
+- Pro triangle assessment
+- Sent out to key stakeholders
+- Look at how assessments of awareness and knowledge will be made
+- Important to capture the questions for the FAQs and to gauge where confusion and uncertainty lies
+- Adkar assessment
+	- awareness, desire, knowledge, ability, reinforcement
+
+
+MHV coordinators wanted to know if they will be supporting veterans upgrading to Login.gov
+- He can upgrade veterans to MHV premium
+- If options are taken away and it’s all Login.gov and ID.me, they can’t help the veterans as of right now
+- Can they do that? The answer is complicated
+- This is something that the LGA is pursuing - how can we enable MHV coordinators and other staff members to help transition veterans?
+- Should email be the first encounter of MHV sunset (outside of blog posts)
+- Treva, Rebekah, Ngozi from MHV and Danielle from VA
+- MHV coordinators and help desk will need to be involved - Susan Haidary
+
+### Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Dawn Munoz, Joe Niquette
+
+### Notes:
+- Sitewide has given feedback to Carl's reactivation emails
+- Sofia got a response to use [OIT Brand System](https://digital.va.gov/oit-brand-system/)for sourcing CLP images
+- Went over Verify you identity FAQ page
+- Remove references to DS Logon going away
+- From Joe: "I still think it’s a valid question as to whether the first time we mention “you’ll no longer be able to use your DSLogon account” is within this email. My personal recommendation would be to not mention anything about DSLogon at all. Generally the goal of this email is to get more folks using login.gov rather than dslogon..but we can encourage login.gov without mentioning dslogon."
+- is there a benefit to triggered email vs sent ones
+- doesn't seem like we are ready to communicate about sunset: if we don't want to socialize MHV and DSL yet then we should harp on Login.gov and ID.me to be the preferred method
+- Next steps:
+  - Carl will adjust email content to communicate that there is a preferred sign in option
+  - Dawn will touch base with John and Tom how we are communicating the sunset
+
+
 ## June 29, 2023
 
 ### Attendees: Sofia Kirkman, Carl Dickerson, Aliyah Blackmore, Porta Antiporta, Joe Niquette

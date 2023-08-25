@@ -18,19 +18,19 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
-* [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
-* Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
-* App store review strategy (Matt)
-* Program level analytics - (Greta)
-* App store marketing strategy (Stacy)
-* Overall strategy for push notifications
-* 10-10EZR (Stacy)
-* Cerner Impacts
-* Web and App UI differences
-* Terms and conditions consolidated approach across VA
+* Terms and conditions consolidated approach across VA (Meko)
     * Trying to create a single set of T&Cs for all tools
         * Ex: MHV can revoke access to SM based on behavior
     * Tom Black (OCTO) coordinating
+* Appeals Claims Letter (Stacy)
+* Overall strategy for push notifications 
+* Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
+* App store review strategy (Matt)
+* Program level analytics - (Greta)
+* App store marketing strategy 
+* 10-10EZR 
+* Cerner Impacts
+* Web and App UI differences
 * List filtering and sorting
 * Onboarding
 * After visit summary for appointments
@@ -39,31 +39,55 @@ The Sprint 0 meeting is a time to do the following:
     * Has edipi on it
     * Has photo
     * H623A - eligibility letter for getting on base, doesn’t have a photo so we should look at this for VHIC/VIC
-* [Omni-channel handoffs](https://docs.google.com/document/d/1fIqeZ3Ajbn6VBo-nYuVo8fdNLGHAsaqNJLxkICph0gk/edit?usp=share_link) (Stacy)
+* [Omni-channel handoffs](https://docs.google.com/document/d/1fIqeZ3Ajbn6VBo-nYuVo8fdNLGHAsaqNJLxkICph0gk/edit?usp=share_link) 
 * [External Links - Minimize and Refine](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4077)
-* Deep Linking from Push Notifications
 * Personalized Notifications
     * Showing changes of statuses, etc.
-* Revamp Letters
 
 
 ## Ready to Present
 
-* [Sprint 0: User Endpoint Enhancement - Jayson](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md)
-* [Sprint 0: Error Documentation - Misty](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Error%20Documentation/Error%20documentation%20sprint%200.md)
+* [Sprint 0: Pre-Needs Burial Claim - Adam](https://docs.google.com/document/d/1DTio0ekfMld9RuvfqPChfvEhBtxL6qGo2hto46MekG0/edit)
+* [Sprint 0: Push Notification Announcements - Binny](https://docs.google.com/document/d/1oHUiY6_ZFJgOep0UcRlff8WXk0-YSpl9g2WRC-bBOu4/edit#heading=h.mnq6vtjqteg4)
+* [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
+* [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
+
 
 | Immediate Action | Next Quarter Bucket | Icebox |
 | ----------- | ----------- | ----------- |
-| [Sprint 0: Defining active user base and log-in problems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Defining%20active%20user%20base%20&%20log-in%20problems/Sprint%200:%20Defining%20active%20user%20base%20&%20log-in%20problems.md) |  * [Sprint 0: Display Zoom on Android](https://docs.google.com/document/d/1zJ1efdJNzZx9KutF0i8yC0KnXk4rV8E2JrlR8Xwqar0/edit?usp=sharing)   * [Sprint 0: Submit Feedback](https://docs.google.com/document/d/12PejlFxL-OanOAnxJHqMLTawYnvfcNcRavPp2yVI3_w/edit#heading=h.mnq6vtjqteg4) | placeholder |
+| [Sprint 0: Defining active user base and log-in problems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Defining%20active%20user%20base%20&%20log-in%20problems/Sprint%200:%20Defining%20active%20user%20base%20&%20log-in%20problems.md) <br><br> [Sprint 0: User Endpoint Enhancement - Jayson](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md) |  [Sprint 0: Display Zoom on Android](https://docs.google.com/document/d/1zJ1efdJNzZx9KutF0i8yC0KnXk4rV8E2JrlR8Xwqar0/edit?usp=sharing) <br><br> [Sprint 0: Submit Feedback](https://docs.google.com/document/d/12PejlFxL-OanOAnxJHqMLTawYnvfcNcRavPp2yVI3_w/edit#heading=h.mnq6vtjqteg4) <br><br> [Sprint 0: Error Documentation - Misty](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Error%20Documentation/Error%20documentation%20sprint%200.md) <br><br> [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%3A%20Track%20referring%20URLs.md) (Greta) <br><br>  [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md) | [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty) |
 
 
 
 
 ## Working session notes
 
+
+## 8/31/23
+* Identity Team coming to talk about Terms of Use
+
+## 8/17/23
+* [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md)
+
+
+## 8/3/23
+
+* [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)
+* [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%3A%20Track%20referring%20URLs.md) (Greta)
+
+## 7/20/23
+
+* [Sprint 0: Error Documentation - Misty](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Error%20Documentation/Error%20documentation%20sprint%200.md)
+  * This could help solve other issues like Call Center troubleshooting and data analytics clarification
+  * Error messages are definitely Veteran-facing, so work to make them better is impactful to Veterans
+  * the impact of this work is hard to measure, but it is valuable
+
+
+  
 ## 7/6/23
 
 * [Sprint 0: User Endpoint Enhancement - Jayson](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md)
+  * This was identified as being related to the Profile Fail Error Handling which was prioritized for Q3.
 
 
 ## 6/22/23

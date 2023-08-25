@@ -2,7 +2,7 @@
 **SIGNED OUT**
  
 # Request a Higher-Level Review
-VA Form 20-0996 (Higher-Level Review)
+VA Form 20-0996
 
 ## Is this the form I need?
 
@@ -40,8 +40,8 @@ You’ll need to fill out and submit VA Form 20-0996 by mail or in person. [Send
 </details>
 
 
-# Request a Higher-Level Review with VA Form 20-0996
-VA Form 20-0996 (Higher-Level Review)
+# Request a Higher-Level Review
+VA Form 20-0996
  
 Info Alert:
 
@@ -101,8 +101,8 @@ Respondent Burden: We need this information to determine your eligibility for be
  
 **SIGNED IN**
 
-# Request a Higher-Level Review with VA Form 20-0996
-VA Form 20-0996 (Higher-Level Review)
+# Request a Higher-Level Review
+VA Form 20-0996
  
 Info Alert:
 

@@ -51,7 +51,7 @@
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Implementation: update claims status to point to Lighthouse endpoints (from EVSS)
+- Implementation
 
 **General**
 - E2E and unit test work
@@ -63,7 +63,7 @@
 ### Onsite Notifications
 **Component**
 - QA and staging review (if not complete in sprint 13)
-- "release" component on My VA
+
 
 **Notification Center**
 - Start build
@@ -74,7 +74,7 @@
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Implementation continued: update claims status to point to Lighthouse endpoints (from EVSS)
+- Implementation continued
 - Product documentation ticket
 - Testing strategy/discussion with Tom and Derrick
 
@@ -91,8 +91,8 @@ _Samara returns from parental leave!_
 ### Onsite Notifications
 
 **Component**
-- Post-launch code cleanup 
-- Documentation updates: standard use cases, flows, etc. 
+- Resolve staging review findings
+- Waiting on GA from design system team, then confirm on our side
 
 
 **Notification Center**
@@ -102,44 +102,40 @@ _Samara returns from parental leave!_
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Testing?
+- Testing
 - Submit PSIR review (will need dev support on this)
-- Launch/remove feature flag
 
 **Audit UX**
-- Post launch code cleanup 
- 
-**Alert/Error Updates** 
-- (Design) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
+- Prep for impact review (PM only)
 
-**MHV Migration Support**
-- Technical discovery: what will/do we need to update on My VA that currently points to MHV? (FE and BE tix in backlog)
+**Alert/Error Updates** 
+- (Design) In anticipation of onsite notification component launch, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
 
 **General**
-- E2E and unit test work (cont. as needed)
+- E2E and unit test work (cont. as needed/bandwidth allows)
+- Post launch code cleanup of My VA redirect (work was not complete in [#47291](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47291) and had to be reopened)
 
 
 ## Sprint 15 (7/19 - 8/1)
 [#58195](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58195)
 
 ### Onsite Notifications
-
-### Onsite Notifications
 **Component** 
-- Documentation updates (cont.): document process of component build soup to nuts
+- "release" component on My VA
 
 **Notification Center**
 - Continue build
-- Prep for QA (write test cases)
 
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- Update technical diagram(s)/documentation
-- Post-launch cleanup
+- Begin phased launch
 
-**Alert/Error Updates** 
-- (Dev) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066))
+**MHV Migration Support**
+- Technical discovery: what will/do we need to update on My VA that currently points to MHV, or will be impacted by the migration to VA.gov? (FE and BE tix in backlog)
+
+**Audit UX**
+- Audit code to prep for post launch code cleanup 
 
 **General**
 - E2E and unit test work (cont. as needed)
@@ -150,16 +146,24 @@ _Samara returns from parental leave!_
 
 ### Onsite Notifications
 
-### Onsite Notifications
+**Component**
+- Post-launch code cleanup 
+- Documentation updates: standard use cases, flows, etc.
 
 **Notification Center**
-- Finish build
-- QA
+- Continue build
+- Begin thinking about UAT - _in the past UAT on anything notification-related has been tricky given that we don't want to alarm veterans by showing them "fake" debt notifications. Does this same concern exist for the NC MVP?_
 
 ### My VA
 
 **Claims status widget - EVSS > Lighthouse**
-- ...
+- Continue phased launch
+
+**Audit UX**
+- Execute post launch code cleanup (may be multiple tickets/sprints based on findings in 60886 last sprint)
+
+**Alert/Error Updates** 
+- (Dev) Once the onsite notification component is released, we can revisit some of our alert and error states on My VA (see [#39066](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39066) for design guidance and [#60329](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60329) for the implementation)
 
 **General**
 - E2E and unit test work (cont. as needed)
@@ -171,13 +175,21 @@ _Samara returns from parental leave!_
 
 ### Onsite Notifications
 
+**Component**
+- Documentation updates (cont.): document process of component build soup to nuts
+
 **Notification Center**
-- QA
-- Schedule staging review
-- Plan for UAT (convo guide, plan)
-- Staging Review?
+- Prep for QA (write test cases)
+- Continue build
+
+**Scaling Onsite Notifications**
+- Design work for RX shipment
+- Submit collab cycle for RX shipment
 
 ### My VA
+
+**Claims status widget - EVSS > Lighthouse**
+- Complete phased launch
 
 **General**
 - ...
@@ -188,10 +200,17 @@ _Samara returns from parental leave!_
 ### Onsite Notifications
 
 **Notification Center**
-- Staging and PSIR reviews
-- Plan for UAT (convo guide, plan)
+- QA prep/execution
+- Finish build
+
+**Scaling Onsite Notifications**
+- ... 
 
 ### My VA
+
+**Claims status widget - EVSS > Lighthouse**
+- Update technical diagram(s)/documentation
+- Post-launch cleanup
 
 **General**
 - E2E and unit test work (cont. as needed)
@@ -202,7 +221,15 @@ _Samara returns from parental leave!_
 ### Onsite Notifications
 
 **Notification Center**
-- ...
+- QA
+- Analytics
+- Schedule staging review
+- Plan for UAT (convo guide, plan)
+- Staging Review?
+
+**Scaling Onsite Notifications**
+- Design intent
+- Begin FE work? 
 
 ### My VA
 
@@ -216,4 +243,20 @@ _Samara returns from parental leave!_
 ## Sprint 20 (9/27 - 10/10)
 [#58202](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58202)
 
+### Onsite Notifications
+
+**Notification Center**
+- Staging and PSIR reviews
+- Plan for UAT (convo guide, plan)
+
+**Scaling Onsite Notifications**
+- ...
+
+### My VA
+
+**Claims status widget - EVSS > Lighthouse**
+- ...
+
+**General**
+- ...
 

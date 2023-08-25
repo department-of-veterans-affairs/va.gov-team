@@ -18,7 +18,7 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
        >
      - >Create service to receive online form data from VA.gov for Veterans who do not wish to enroll and provide that data to VistA/Millennium. In alignment with PACT Act, COMPACT, SERVICE Act and 38 CFR 17.37 this enables Veterans to request an appointment and register for those not wishing to enroll.
 
-### MVP
+### Iteration (not finalized)
 - Allow Active Duty Service Members with a discharge date within 365 days of the current date to "register" for care
      - The current 10-10EZ online form allows applicants to enter a future discharge date within 365 days of current date.
      - We do not inform the applicant that this is not an enrollment path, but a registration only.
@@ -31,21 +31,17 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
 ## Problem
 There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Experience Office) stakeholders to include a registration-only pathway for the online 10-10EZ application.
 
-_**We need more information on why Registration is used as opposed to enrollment, and what benefit is being provided/problem is being solved_**
-
 ## Desired User Outcomes
-- Provide Active-Duty Service members and Veterans the ability to register for VA medical care without enrolling in VA Health Care
-- 
+- Provide Active-Duty Service members and Veterans the ability to register for and receive VA medical care without enrolling in VA Health Care
 
 ## Undesired User Outcomes
 - Confusion between what it means to register vs. enroll, and whether the online application should be used for one or the other.
 
 ## Desired Business Outcomes
 - Receive online form data from VA.gov for Veterans who do not wish to enroll to enable faster processing
-- 
 
 ## Undesired Business Outcomes
-TBD
+- Receive online enrollment applications from VA.gov for Veterans who are eligible to register but not eligible to enroll
 
 ---
 
@@ -55,22 +51,25 @@ TBD
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 #### Objective
-....
+Provide a pathway for Veterans to Register for health care when they are unable or do not want to apply for VA health care benefits package.
+
 - Source: TBD
 
-**Key Result**
+**Key Result** Introduce Registration application submissions online to reach 10% of overall submissions.
+
 |Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 |-------| --------- | --------- | --------- |
-|TBD| TBD | TBD | TBD |
+|Submissions to Enroll| TBD | TBD | TBD |
+|Submissions to Register| 13k paper | TBD | TBD |
 
 #### Objective
 ....
 - Source: TBD
 
-**Key Result**
+**Key Result** Key Result: Reduce rejected applications due to ineligibility to enroll, but eligible to register.
 |Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 |-------| --------- | --------- | --------- |
-|TBD| TBD | TBD | TBD |
+|Decrease in decllines/rejections due to ineligible to ENROLL| TBD | TBD | TBD |
 
 #### Objective
 ....
@@ -102,21 +101,6 @@ These are the following confirmed use cases for registration over enrollment.
 - Employees (Veterans and non-Veterans)
 - Humanitarian cases
 
-### Outstanding questions
-- What benefit does "registering" provide?
-     - What do you get with Registration vs Enrollment?
-- Confirm - this is for both Active Duty Service Members **and** Veterans?
-- Is this the first and only time the Veteran will see these terms used?  
-     - If so, do they even need to know about these terms at all?
-- How do Service Members/Veterans know if they need to complete the 10-10EZ for "Registration Only"?
-     - Do they understand why/what scenario they are in that calls for the Reg Only pathway, especially as opposed to enrollment? 
-- What are the current volumes of monthly registration vs enrollment applications?
-     - What are the volumes of registration approvals, follow-ups (if any) and denials?
-     - What are the top 3-5 scenarios/use cases with the most registration-only applications?
-- Can a Veteran in good health with no service-connected disabilties or injuries be eligible for VA Health Care or at least obtain care at a VA medical facility?
-     - Does their discharge character impact whether they can receive this care?
-
-
 
 ### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
@@ -140,9 +124,9 @@ These are the following confirmed use cases for registration over enrollment.
     - VA stakeholder testing, marketing, compliance requirements 
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+**In Scope:**
+
+
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
@@ -206,7 +190,7 @@ Section III
 
 <details>
   
-- Office/Department: OCto, VES, VEO, HEC
+- Office/Department: OCTO, VES, VEO, HEC
 - Contact(s): 
  
 </details>

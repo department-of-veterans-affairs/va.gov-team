@@ -23,6 +23,7 @@ Signed up to facilitate or scribe a small group or event? We got you covered. Th
 5. **Take notes of key discussion points.** Focus on collecting key quotes, themes, stories, and action items. You don't have to take verbatim notes, but try to take note of anything that will help you write out a shared learning summary. People who didn't attend the meeting should have an idea as to what happened, key takeaways, and action items.
 6. **Write a shared learnings summary based on the meeting.**
   - Add and create a new .md file with the date of the meeting (e.g. 2023/01/11.md) to our [notes folder on github ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes). You can copy and paste the [contents of this template as a reference.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/YYYY-MM-DD.md)
+  - Update the [notes readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/readme.md) with the latest meeting and a link to the notes
   - Email the shared learnings to everyone who is signed up for our big meetings
   - Post the shared learnings to our #trauma-practice channel
 8. **Find a scribe for the next sync.** Everyone should get an opt-in shot at scribing the big meeting. If you can’t find someone, you’ll be responsible for running it next time.

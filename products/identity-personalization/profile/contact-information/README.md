@@ -1,5 +1,6 @@
 # Contact Information Product Outline
-Last Updated October 25, 2022
+
+**Last Updated: August 1, 2023**
      
 ## Table of Contents
 
@@ -42,6 +43,7 @@ The backend for this is powered by VA Profile (formerly Vet360), which is integr
 * To access this feature in the profile, users need to login to VA.gov  with an identity-verified (LOA3)  account.
 * Contact information is pulled from and written to the VA Profile API.
 * Updates made in VA.gov profile contact information will sync with any other systems that are using the VA Profile API for contact information.
+	* some benefits will require a separate phone call to update the address, [see the FAQ](https://www.va.gov/resources/change-your-address-on-file-with-va/#change-your-address-by-contact)  
 * Email confirmations are sent when a Veteran updates their contact information.
 * The only piece of contact information that can’t be deleted once added is a mailing address
 * This feature doesn’t support international phone numbers 
@@ -65,17 +67,7 @@ As a user, I want to be able to:
 
 ## Projects
 
-|Project or enhancement|Launch/Completion date|
-|----|----|
-|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/bad-address-indicator#readme)| Launched to 100% on 10/24/22|
-|[Modal that asks if you want to update your mailing address when you update your home address](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33732)| July 2022|
-|[Remove requirement for international postal code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39775)| April 2022 |
-|[Remove Fax number field from the profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35975) | February 2022 |
-|[Add confirmation email for contact info updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8383) | Launched June 2021 |
-|[Add contact info FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23376)| Launched April 2021|
-|[Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/product-outline.md) | Launch completed March 2020||
-|[Add APO/FPO/DPO options for military base addresses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3209)| January 2020|
-|[VA Profile (formerly Vet360) initial integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/profile-V1) | Launch completed Summer 2018 |
+[For a list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
 
 ## Analytics
 - [GA dashboard for contact information](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)

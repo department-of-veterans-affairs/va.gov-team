@@ -1,4 +1,4 @@
-# Research Plan for Usability Testing, VBA Facility pages Veteran-Facing, June 2023
+# Research Plan for Usability Testing, VBA Facility pages Veteran-Facing, August 2023
 
 ## Background
 
@@ -6,7 +6,7 @@ VBA regional office websites are being modernized in order to replace the legacy
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices)
 
-[Link to card in research repo]()
+[Link to card in research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/363)
 
 ### OCTO Objectives
 
@@ -43,37 +43,33 @@ Learnings will help refine the design of the pages before piloting an MVP with 7
 
 ### Research questions
 #### Before seeing the prototype:
-1. What do Veterans know about VA regional benefit offices?
-1. What tasks do Veterans expect to do at VA regional benefit offices?
+1. What do Veterans (and others) know about VA regional benefit offices?
+1. What tasks do Veterans (and others) expect to do at VA regional benefit offices?
 
 #### From the prototype:
-3. Do Veterans understand which services are available at this location?
-     1. Do Veterans understand and use the categories of services *(i.e., Veteran benefits, Family member & caregiver benefits, Service member benefits, Other services)* to find the service they're looking for? 
-1. Do Veterans understand how services are delivered at this location?
+3. Do Veterans (and others) understand **which services** are available at this location?
+     1. Categories of services *(i.e., Veteran benefits, Family member & caregiver benefits, Service member benefits, Other services)*  
+      10. Service offering accordions that have multiple locations inside them 
+      8. What if they _don't_ find an applicable service on the page? 
+    
+1. Do Veterans (and others) understand **how** services are delivered at this location?
      1. In-person, virtual, or by phone (do people open the appointments accordion unprompted?)
      1. With or without appointments (any comments about location of appointments information?)
      2. Hours of operation--for the office _vs._ only for a specific service
      3. Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour), comment about one of the days
-3. Do Veterans understand the actions they need to take to receive the service (make an appointment, walk-in, bring required documents, etc.)?
-11. What do Veterans expect to find under the service accordions?
-     1. Do Veterans understand the different categories of service offerings?
-     6. When prompted with specific tasks, do Veterans navigate to an appropriate service accordion?
-     8. What happens if Veterans _don't_ find an applicable service accordion on the page? 
-     9. Do Veterans expect to find different details for different services?
-     10. How do Veterans interact with service offering accordions that have multiple locations inside them? Do they click on links for more info?
-8. Do Veterans interact with any of the 3 action links near the top of the page? If so, which ones? 
-     1. What do they expect from "Ask a benefit question"? Probe about what happens after they click on it.
-10. How do Veterans react to seeing 2 phone numbers?
-     1. Which phone number would they use and why? 
-     2. What do they expect when they call?
+     1. Notice different hours/appointments per service *vs.* regional office in general?
 
-12. What feedback do Veterans have on content, organization, and length of the regional benefit office web page?
+
+12. What feedback do Veterans (and others) have on **content, organization, and length** of the regional benefit office web page?
+     1. Do Veterans (and others) interact with any of the *Prepare for your visit* accordions?
+     1. Do Veterans (and others) interact with any of the 3 action links near the top of the page? If so, which ones?
+     1. How do Veterans (and others) react to seeing 2 phone numbers? Which phone number would they use and why? What do they expect when they call?
 
 ### Hypotheses
-1. Veterans will understand what they can do at a VA benefit office from the new web page.
-1. Veterans will understand how services are delivered at this location from the new web page.
-2. Veterans will understand how to prepare for a visit to a VA benefit office from the new web page.
-3. Veterans will know what to do if they _don't_ find the kind of help they need on the new web page.
+1. Veterans (and others) will understand **what they can do** at a VA benefit office from the new web page.
+1. Veterans (and others) will understand **how services are delivered** at this location from the new web page.
+2. Veterans (and others) will understand **how to prepare** for a visit to a VA benefit office from the new web page.
+3. Veterans (and others) will know **what to do if they _don't_ find** the kind of help they need on the new web page.
 
 ## Method	
 We will conduct **usability testing** to guide research participants through a click-through prototype. We would like most participants to be on mobile devices. We will be unable to accommodate screen reader users because the prototype won't be accessible.
@@ -82,11 +78,11 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2023-06-veteran-facing/conversation-guide.md)
-- [Link to prototype TBD]()
+- [Link to prototype](https://www.figma.com/proto/8RYmYfVGS9CUfZbomH5lBe/VBA-Regional-Office-Prototype?page-id=0%3A1401&node-id=3-10371&starting-point-node-id=3%3A10371&hotspot-hints=0&t=8GbxK22Cd8eh2AUJ-1)
 	
 ## Recruitment
 
-Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
+Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/362). 
 
 ### Required criteria 
 
@@ -95,7 +91,6 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
   - Be willing to share over Zoom a web browser window on their smartphone
   - Have a working microphone on their smartphone
 - 4 have **never visited a VA benefit office**, 3 have **visited in the past 6 months**, and 4 have **visited more than 6 months ago**
-- 5 have **not used any VA benefits before**, and 5 have
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
 - At least 2 people 35 or under
@@ -107,15 +102,10 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
-1. Have you ever visited a VA benefit office? 
+1. Have you ever visited a VA benefit office? (These VA facilities can help Veterans and families get benefits; they include Regional Benefit Offices, Veteran Readiness and Employment Offices, VetSuccess On Campus, and VA Regional Benefit Satellite Offices. They are different from VA Medical Centers, clinics, and Vet Centers.)
      1. No, never *(RECRUIT 4)*
      1. Yes, in the past 6 months *(RECRUIT 3)*
      2. Yes, more than 6 months ago *(RECRUIT 4)*
-
-
-1. Have you used any VA benefits before? For example, VA health care, education/GI Bill, career services, disability compensation, pension, home loan, life insurance, burial benefits or memorial items.
-     1. No  *(RECRUIT 5)*
-     1. Yes *(RECRUIT 5)*
 
 1. What time zone are you located in? *(RECORD)*
 
@@ -135,18 +125,20 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 ## Timeline
 
 ### Prepare
-Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Alexis and I are available for a kickoff call during any of these times: 
-- **TBD ET**
-- **TBD ET**
+Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Alexis Logsdon (alexis.logsdon@a1msolutions.com) and Dave Pickett (dave.pickett@civicactions.com) are available for a kickoff call during any of these times: 
+- **Aug 17: 12-5 ET**
+- **Aug 18: 10-5 ET**
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
-I have scheduled the following two **pilot tests**:
-- Pilot 1: **TBD ET** with TBD (TBD.us)
-- Pilot 2: **TBD ET** with TBD (TBD.us)
+We will schedule three **pilot tests**:
+- Pilot 1: **Aug 23 at 1-2 ET** with barbara@adhocteam.us
+- Pilot 2: **Aug 24 at 12-1 ET** with diem.mooney@adhocteam.us
+- Pilot 3: **Aug 24 at 4-5 ET** with greg.monahan@adhocteam.us
+
 
 ### Research sessions
-* Planned dates of research: **TBD** 
+* Planned dates of research: **Aug 28 - Sept 5** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 
@@ -157,21 +149,25 @@ We would like to request that **Perigean calls each participant** to remind them
 
 ### Availability
 
-Team Availability | Time Slots (ET--all pm)
+Team Availability | Time Slots (ET)
 ------------------|--------------
-TBD, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-
+Aug 28, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm 
+Aug 29, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm 
+Aug 30, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm 
+Aug 31, 2023 | ~10-11 am~, 12-1, 3-4, 5-6 pm 
+Sept 1, 2023 | 10-11 am, 12-1, 3-4, 5-6 pm  
+Sept 5, 2023 | 10-11 am, 12-1, **3-4** pm 
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
-- Moderator: Cindy Merrill (cindy.merrill@adhocteam.us)
-- Research guide writing and task development: Cindy Merrill 
+- Moderator: Alexis Logsdon (alexis.logsdon@a1msolutions.com) 
+- Research guide writing and task development: Cindy Merrill / Alexis Logsdon
 - Participant recruiting & screening: Perigean	
-- Project point of contact: Cindy Merrill
-- Participant(s) for pilot test: TBD and TBD
+- Project point of contact: Alexis Logsdon / Cindy Merrill (only until Aug 25)
+- Participant(s) for pilot test: barbara@adhocteam.us, diem.mooney@adhocteam.us, and greg.monahan@adhocteam.us
 - Note-takers: Perigean	(in github)
-- Observers: Alexis Logsdon (alexis.logsdon@a1msolutions.com), Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Kamari Patrick (kamari@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session.
+- Observers: Jordan Wood (jordan.wood@civicactions.com), Michelle Middaugh (suzanne.middaugh@va.gov), Jane Xiong (jane@cityfriends.tech), Dave Pickett (dave.pickett@civicactions.com). Observers will need to sign up so we can limit the number of observers per session, and the sign up sheet will be shared with Perigean so they can add observers' email addresses to individual sessions.
 
 ## Approvals
-- Michelle Middaugh (PO) on TBD
-- VA Research Ops on TBD
+- Michelle Middaugh (PO) on Aug 14, 2023
+- Shannon Ford (VA Research Ops) on Aug 14, 2023

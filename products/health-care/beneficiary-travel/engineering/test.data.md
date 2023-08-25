@@ -1,5 +1,30 @@
 # Test data
 
+## Quick Started
+
+- Can use any test user that is in MPI and can have appointents made in test VistA 500
+- Teams are responsible for their own test data
+
+## Testing Procedure
+
+1. Have an Appointment in the CHYSHY VistA(s), using the clinincs RClinic1, RClinic2, RClini3
+1. Submit your claim
+1. Clean up claim created for the user in the [BTSSS CRM](https://dvagov-btsss-qa.crm9.dynamics.com/main.aspx?appid=410c62d5-3681-4423-9170-6801d95cacbe&forceUCI=1&newWindow=true&pagetype=entitylist&etn=contact&viewid=00000000-0000-0000-00aa-000010001004&viewType=1039)
+
+Contact Mark Dewey to get access to the BTSSS CRM 
+
+
+## Patient Check-In Testing docs
+
+### [WIP] Testing procedure. 
+
+1. Create Appointment in the CHYSHY VistA(s), using the clinincs RClinic1, RClinic2, RClini3
+1. Create an appointment in the PCI check in tool for staging. 
+1. Do the check in process, the claims should be submitted after the button for check in is selected. 
+1. Clean up claim created for the user in the [BTSSS CRM](https://dvagov-btsss-qa.crm9.dynamics.com/main.aspx?appid=410c62d5-3681-4423-9170-6801d95cacbe&forceUCI=1&newWindow=true&pagetype=entitylist&etn=contact&viewid=00000000-0000-0000-00aa-000010001004&viewType=1039)
+
+Contact Mark Dewey to get access to the BTSSS CRM 
+
 ## Get access VistA
 
 You will need to fill out a VA9957 form to gain access to the CHYSHR VistA
@@ -40,7 +65,6 @@ The terminal will connect and you see a shell-like prompt that you can type comm
 1. Enter a new code in the same type of format.
 1. Retype the new code.
 1. You should be in VistA commands and navigate the system 
-
  
 
 ## Create an appointment 
@@ -63,14 +87,6 @@ The terminal will connect and you see a shell-like prompt that you can type comm
 
 
 
-## [WIP] Testing procedure. 
-
-1. Create Appointment in the CHYSHY VistA(s), using the clinincs RClinic1, RClinic2, RClini3
-1. Create an appointment in the PCI check in tool for staging. 
-1. Do the check in process, the claims should be submitted after the button for check in is selected. 
-1. Clean up claim created for the user in the [BTSSS CRM](https://dvagov-btsss-qa.crm9.dynamics.com/main.aspx?appid=410c62d5-3681-4423-9170-6801d95cacbe&forceUCI=1&newWindow=true&pagetype=entitylist&etn=contact&viewid=00000000-0000-0000-00aa-000010001004&viewType=1039)
-
-Contact Mark Dewey to get access to the BTSSS CRM 
 
 ## Users in the BTSSS system 
 

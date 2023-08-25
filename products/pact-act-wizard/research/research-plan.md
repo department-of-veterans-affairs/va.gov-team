@@ -1,4 +1,4 @@
-# Research Plan for Usability Testing, PACT Act Wizard, August 2023
+# Research Plan for Usability Testing, PACT Act Wizard, September 2023
 
 ## Background
 The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3967/text) is intended to significantly improve healthcare access and funding for Veterans who were exposed to toxic substances during military service. The law itself is not easy for a Veteran to read and understand whether or not it directly affects them and their benefits. To provide an easier way for a Veteran or Veteran's representative (family member, caregiver, other) to understand whether the PACT Act may apply to them, we are designing a PACT Act Wizard.
@@ -44,22 +44,28 @@ The purpose of this research is to **find out whether the questions drafted for 
 Learnings will help refine individual questions and the overall list of them in the wizard.
 
 ### Research questions
-1. What feedback do Veterans have on individual questions?
-     1. Are Veterans able to understand the questions?
-     1. Are Veterans able to accurately answer questions that include both a date range AND a location?
-1. What feedback do Veterans have on the entire set of questions?
-     1. Are there so many questions that Veterans get frustrated or stop before the end?
-     1. Are Veterans bothered by the repetitive construction of the questions?
+1. What feedback do Veterans (and others) have on **individual questions**? 
+1. What feedback do Veterans (and others) have on the **entire set of questions**?
+     1. Are there so many questions that Veterans (and others) get frustrated or stop before the end?
+     1. Are Veterans (and others) bothered by the repetitive construction of the questions?
 
-1. Do Veterans know enough about their military service to answer the questions? If not, what do they need to answer them?
+1. Do Veterans (and others) **know enough about their military service to answer the questions**? If not, what do they need to answer them?
 
-1. What feedback do Veterans have on the results (including date ranges and next steps)?
+1. What feedback do Veterans (and others) have on the **results**?
+     - date ranges
+     - "presumptive conditions"
+     - next steps
+     
+
+1. If the tool says that they're eligible, do they **feel like applying**?
 
 
 ### Hypotheses
-1. Veterans will find the questions to be clear and easy to understand and answer.
-2. Veterans will not be overwhelmed by the total number of questions they need to answer.
-1. Veterans will understand the results screen, not be confused by it, and know what they should do next. 
+1. Veterans (and others) will find the questions to be clear and easy to understand and answer.
+2. Veterans (and others) will not be overwhelmed by the total number of questions they need to answer.
+1. The results are simple enough for Veterans (and others) to understand and not seem misleading. 
+1. Veterans (and others) will understand what "presumptive conditions" mean.
+1. From the results screen, Veterans (and others) will know what they should do next. 
 
 ## Method	
 We will conduct **usability testing** to guide research participants through a working prototype that presents the questions in the PACT Act wizard. 
@@ -67,9 +73,10 @@ We will conduct **usability testing** to guide research participants through a w
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
 ### Ideas for conversation guide
-- If the questions include compound questions with both a date range and a location, later in the research session consider asking each part of the question separately to assess if the participant answered the compound question accurately.
 - Ask if participant has VA health care and/or disability compensation.
-- Consider providing an "I don't know" option to each yes/no question.
+- When participant sees the results screen, ask what it means to them in order to gauge understanding, esp. the phrase "presumtive conditions"
+- After participant sees results screen, ask what they would do next (if anything). Apply?
+
 
 
 ### Research materials
@@ -78,19 +85,21 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 	
 ## Recruitment
 
-Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
+Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
 
 ### Required criteria 
-- At least 5 whose service years include some of 1962-1980
-- At least 3 whose service years include 1990 or later
-- At least 3 whose service years include 2001 or later
-- ALL have a smartphone to use it for the session and...
-  - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
-  - Be willing to share over Zoom a web browser window on their smartphone
-  - Have a working microphone on their smartphone
+- NONE have ever applied for VA benefits under the PACT Act
+- At least 5 whose service years include *1989 or earlier*
+- At least 3 whose service years include *1990 or later*
+- At last 3 whose service years include both *before AND after* 1990
 - At least 3 people who use a screen reader 
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
+- At least 3 who do NOT have VA health care or disability
+- At least 7 have a smartphone to use it for the session and...
+  - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
+  - Be willing to share over Zoom a web browser window on their smartphone
+  - Have a working microphone on their smartphone
 - At least 2 people 35 or under
 - At least 3 people of color
 - At least 2 women
@@ -99,26 +108,10 @@ Ask Perigean to recruit **8 Veterans and 3 caregivers** of Veterans who meet the
 - At least 2 people who are LGBTQ+
 
 ### Screening Questions
-***(Are we open to screen reader users on a computer instead of a smartphone?)***
 
-1. How do you use the internet? (check all that apply)
-     1. From a smart phone *(RECRUIT 11)*
-     1. From a tablet or iPad
-     1. From a desktop or laptop computer
-
-1. What time zone are you located in? *(RECORD)*
-
-1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
-     1. No
-     2. Yes *(RECRUIT 4 and RECORD as having a cognitive disability)*
-
-1. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
-     1. No *(disqualify)*
-     2. Yes *(RECRUIT 11)*
-
-1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
-     1. No  
-     1. Yes *(RECRUIT 2)*
+1. Have you applied for VA benefits under the PACT Act?
+    1. No *(RECRUIT 11)*
+    2. Yes *(disqualify)*
 
 1. Do you use screen reader technology every time you use the internet? For example, VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer.
 We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
@@ -128,6 +121,23 @@ We ask this question because we want to make sure that our website works for peo
 1. Are you willing to join the Zoom session using this assistive technology? 
      1. No
      1. Yes *(RECRUIT 3 to satify "screen reader" criterion)*
+
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
+     1. No
+     2. Yes *(RECRUIT 4 and RECORD as having a cognitive disability)*
+
+1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+     1. No  
+     1. Yes *(RECRUIT 2)*
+
+
+
+1. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
+     1. No 
+     2. Yes *(RECRUIT 7)*
+
+1. What time zone are you located in? *(RECORD)*
+
 
 
 ## Timeline

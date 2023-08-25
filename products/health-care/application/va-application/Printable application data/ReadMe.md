@@ -2,8 +2,18 @@
 #### Overview
 - We would like to provide an easy way for Veterans to print and/or save (download) their application data entry, in an accessible format, for future reference.
 - There have been past research findings indicating that Veterans prefer to print and/or save (download) a copy of their application input.
-     - [2023 Suplemental Claims - PACT Act](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#finding-9)
-     - 
+     - [2023 Supplemental Claims - PACT Act](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/Research/1222-PACT-Act/research-findings.md#finding-9)
+
+- There is also historical data on the 10-10CG application that indicates applicants download the completed application just about every time (and sometimes more than once!)
+     - Google Analytics - [Submissions and PDF Form downloads](https://analytics.google.com/analytics/web/#/dashboard/u4Zg-ougQpq-87e5dGIH_w/a50123418w177519031p184624291/_u.date00=20230101&_u.date01=20230630/)
+
+<details>
+     <summary>Current Screenshot of 10-10CG application - Confirmation screen (click to expand)</summary>
+     
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/1dde92ef-cecf-4973-a338-8436f8c1696e)
+     
+</details>
+
 ---
 
 ## Outcome Summary
@@ -37,18 +47,11 @@
 
 ### Key Performance Indicators (KPIs)
 
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+Data source - Google Analytics - EZ Dashboard (NEW widget/event)
 
 | Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |------------- |
-|KPI |TBD | TBD |TBD |TBD |
-|KPI |TBD | TBD |TBD |TBD |
-|KPI |TBD | TBD |TBD |TBD |
-|KPI |TBD | TBD |TBD |TBD |
-|KPI |TBD | TBD |TBD |TBD |
-|KPI |TBD | TBD |TBD |TBD |
-|KPI |TBD  |TBD |TBD |TBD |
-
+|Print application button |NEW | 25% of submissions |TBD |TBD |
 ---
 
 ## Discovery
@@ -61,7 +64,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
   - Veterans will not be able to print or save (download) at the time of their application (no printer available, unable to save on device)
 - **Usability Risks** (can people figure out how to use it):
   - Veterans will not know how to print or save (download) their application, even with on-screen prompts
-  - Veterans will not have the equipment necessary to print or save (download) their application, and not understand why the function is not working
+  - Veterans will not have the equipment or software necessary to print or save (download) their application, and not understand why the function is not working
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Data availability and reliability risks
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
@@ -98,10 +101,18 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 ### Incident Response info
 - The 1010EZ form is currently in production; we are adding the ability to print and/or save (download) the application, with the Veteran's input, after submission is complete
-- ???? Full application flow / less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
-- 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
-- ??? GA Page to show downloads?  What about errors?
-
+- This change applies to the full application flow, as well as the Short Form flow (less than 50% disability rating) ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
+- **NEW API/ENDPOINTS DETAILS**
+- We will use the following 1010EZ monitoring applications for any latency or errors being logged
+     - [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+     - [Datadog Real User Monitoring dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3A9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa&from_ts=1687971959215&to_ts=1688058359215&live=true)
+     - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+- If there are any errors or issues found as a result of this change, we will disable the code by switching off the feature toggle which will result in the change being reverted to its previous state prior to release.  We will then begin triaging the root cause and determining a solution.
+     - Timeline for triage and solution implementation will be fast-tracked to complete within 1-3 days.
+- Main POCs:
+     - Heather Justice (heather.justice@adhocteam.us) - Product Manager
+     - TBD - Engineering lead
+     - Patrick Bateman (patrick.bateman@adhocteam.us) - Product Owner
 - 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*

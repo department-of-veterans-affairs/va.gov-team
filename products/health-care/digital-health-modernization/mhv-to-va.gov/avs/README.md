@@ -25,27 +25,25 @@ According to [Centers for Medicare & Medicaid Services Meaningful Use guidelines
 
 ## Solution Approach
 - _What are you going to build now, and why have you decided to start here?_
-  - Since the CPRS AVS system already generates HTML, we are going to leverage that for our MVP, in order to hit a summer 2023 release date. 
-  - We will make edits to the HTML generates upon printing within the CPRS AVS system, so the HTML is semantic and accessible.
-    - Apply VA design system styling.
-    - Finalize a plan on where to access the AVS HTML version. Mongo and TIU Notes (in Vista) have been discussed.
+  - We intially explored editing the HTML generated upon printing within the CPRS system to make the MHTL semantic and accessible. After starting the edits, we realized that they would impact the printed version and were more involved than initial estimated. As a result, we changed the MVP approach to generating JSON and connecting to the CPRS AVs system via endpoints created by the CPRS AVS team.
+  - Apply VA design system styling.
 - _Why this solution/approach over other solutions/approaches?_
   - We evaluated other technical solutions, including:
-    - Creating custom JSON
+    - Editing the HTML already generated from the CPRS AVS system
     - Providing structure CCDA data
     - Using MHV APIs for Ongoing Care sections
     - Creating our own connections/APIs to VistA
-  - We decided against these approaches due due to the resourcing available and summer launch timelines. 
+  - We decided against these approaches due due to the resourcing available and early fall launch timelines. 
 
 ## MVP Requirements
 #### In Scope 
-- AVSs available for appointments occurring on or after launch date. Past appointment AVSs will not be available.
-- Data and sections displayed will be similar to the printed PDF that the VA currently offers (minus the patient education articles and clinical graphs sections).
+- AVSs available for appointments occurring from the date that structured data creation released. Past appointment AVSs will not be available.
+- Data and sections displayed will be similar to the printed PDF that the VA currently offers (minus the patient education articles, clinical graphs sections, and the Pocket VA medications and allergies).
 - AVSs will only be available for appointments where a site batch prints or a provider prints an AVS within the CPRS AVS system.
 - Only appointments at VA facilities will be possible to display.
 
 #### Out of Scope
-- Patient education articles and clinical graphs will not be displayed in the MVP.
+- Patient education articles, clinical graphs, and the Pocket VA medications and allergies sections will not be displayed in the MVP.
   - In order to pull in images that are part of patient education articles and clinical charts, a location to store the image files needs to be identified.
   - We also need to make sure the current Kramer Staywell licensing allows for imaging to be shared through a patient portal.
 - Past appointment AVSs will not be shown.
@@ -91,11 +89,14 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 # Implementation Info
 
 ## Status
-- Collab cycle kickoff -TBD
+- For the MVP release, all stages of the collaboration cycle through the mispoint review are completed.
 
 ## Technical Decisions
 
 ## Product Decisions
+- As of August 14, 2023:
+  - Changing from editing the HTML to generating JSON
+  - Cut the Pocket VA medications and allergies from scope.
 - Prior to April 17 
   - We are building an HTML version of the AVS and not just giving Veterans access to a PDF.
   - Longer-term (non MVP goal): Data parity across MHV on VA.gov sections.
@@ -110,8 +111,10 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 - [CPRS AVS Sample](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0eebafe247417bf1249b8b1917a69d180ccf69fe/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf)
 - [CPRS AVS User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0eebafe247417bf1249b8b1917a69d180ccf69fe/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/After-Visit-Summary-User%20Guide-1.2.pdf)
 
-### Initial Designs
-![AVS-MVP-Happy-Path-UserFlow](https://user-images.githubusercontent.com/66287082/232537966-4330ee46-a1f0-4caf-a158-304b33e03b9f.jpg)
+### Designs
+- [AVS-MVP-Happy-Path-UserFlow](https://user-images.githubusercontent.com/66287082/232537966-4330ee46-a1f0-4caf-a158-304b33e03b9f.jpg)
+
+- [Hi-fi MVP for Development](https://www.sketch.com/s/05d5a740-4fc7-4380-8d83-e7acfbab201b)
 
 - [Kickoff Mural (includes initial decisions, definition of success, and more)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677076638208/77cc850ded3dd4358451f0a42f7a96d9f49a1206?sender=u7c471a43344939c759cb1640)
 - [WIP Sketch](https://www.sketch.com/s/05d5a740-4fc7-4380-8d83-e7acfbab201b)
@@ -126,6 +129,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 - Slack channel: [#after-visit-summary](https://dsva.slack.com/archives/C04UBETRY8N)
 - Product POCs: 
   - Lauren Alexanderson - OCTO Health Lead, [lauren.alexanderson@va.gov](mailto:lauren.alexanderson@va.gov)
+  - Kay Lawyer - OCTO Product Lead, [katherine.lawyer@va.gov](mailto:katherine.lawyer@va.gov)
   - Kristen McConnell - OCTO UX Lead, [kristen.mcconnell@va.gov](mailto:kristen.mcconnell@va.gov)
   - Adrian Rollett - OCTO Engineering Lead, [adrian.rollett@va.gov](mailto:adrian.rollett@va.gov)
 - [Super Epic](https://app.zenhub.com/workspaces/mhv-to-vagov-appointments-63d9ef2effd69b002641127b/issues/gh/department-of-veterans-affairs/va.gov-team/54140)
@@ -137,9 +141,10 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 <details>
  
   - Lauren Alexanderson - OCTO Health Lead, [lauren.alexanderson@va.gov](mailto:lauren.alexanderson@va.gov)
+  - Kay Lawyer - OCTO Product Lead, [katherine.lawyer@va.gov](mailto:katherine.lawyer@va.gov)
   - Kristen McConnell - OCTO UX Lead, [kristen.mcconnell@va.gov](mailto:kristen.mcconnell@va.gov)
   - Adrian Rollett - OCTO Engineering Lead, [adrian.rollett@va.gov](mailto:adrian.rollett@va.gov)
- 
+  - Nina Anusavice - UX Designer, [Nina.Anusavice@va.gov](mailto:Nina.Anusavice@va.gov)
 </details>
 
 
@@ -147,11 +152,6 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 
 <details>
  
-- OCTO Health Apps
-  - Patrick Bateman
-  - Kay Laywer
-  - Mark Dewey
-  - Stephen Barrs 
 - CPRS AVS
   - Shane Elliott
   - Rob Durkin
@@ -161,7 +161,8 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
 - MHV on VA.gov
   - Coulton Bunney
 - Stakeholders
-  - Dr. Harzand
+  - Dr. Maureen Layden (AVS Product Owner)
+  - AVS Steering Committee (meets monthly)
   - Dr. Spahn
   - Dr. Layden
   - Dr. Nilesh Shah
@@ -170,5 +171,4 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
   - Jeff Roof
   - Leah De La Costa
   - Peter Russo
-  - Ciera Maddox
 </details>

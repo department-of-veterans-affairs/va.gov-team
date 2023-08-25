@@ -1,14 +1,4 @@
----- 
 
-
-# We've moved our docs!
-
-### This document is no longer maintained.
-
-### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
-
-
-----
 <!-- markdownlint-disable MD024 -->
 # Release Plan Template
 
@@ -18,7 +8,7 @@ So: **how might we craft a release plan to test our product "in the wild" at a s
 
 Though issues in production happen, follow this template to minimize the chances and the effects of production issues.
 
-## When to use this release plane
+## When to use this release plan
 
 If you answer yes to any of the questions below, you'll need to create a release plan using this template.
 

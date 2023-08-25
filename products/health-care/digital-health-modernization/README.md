@@ -24,6 +24,7 @@
 - Eric Voshall - Full stack Developer
 - Richard Davis - Full stack Developer
 - Angela Fowler - Accessibilty Specialist
+- Sara Sterkenburg - Information Architect
 
 ## Projects
 - [MyHealtheVet to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/)

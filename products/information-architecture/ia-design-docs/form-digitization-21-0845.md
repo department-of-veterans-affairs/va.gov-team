@@ -1,9 +1,10 @@
 # IA Design for Form 21-0845
-**STATUS: In progress**
+**STATUS: Completed**
 #### Edit history
 - 5/16/23 - Created (JM)
 - 5/22/23 - Edits (JM)
 - 6/30/23 - Edits (JM)
+- 7/12/23 - Edits (JM)
 
 **Team:** Veteran Facing Forms
 
@@ -35,7 +36,7 @@ The form will live under the new parent page for supporting forms, which is now 
 **1) H1 of page - New**
 - URL: www.va.gov/supporting-forms-for-claims/third-party-authorization-form-21-0845
 - Breadcrumb: VA.gov home > Supporting forms for VA claims > H1 of form page
-- Notes:
+- Notes: Subsequent pages will add on to the above URL using short and simple labels, i.e. .../introduction/
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*

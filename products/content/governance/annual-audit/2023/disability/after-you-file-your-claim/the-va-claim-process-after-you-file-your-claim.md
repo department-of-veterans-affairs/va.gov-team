@@ -10,7 +10,7 @@
 - [ ] The page displays a breadcrumb
 - [ ] The breadcrumb represents the same hierarchy as the URL
 - [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly **Note:** Breadcrumb and H1 don't match exactly - issue added to backlog notes          
-- [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags **Note:** Not applicable right now, but will be soon
+- [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags 
 
 ## Secondary navigation (where applicable)
 
@@ -24,20 +24,18 @@
 
 ## Content on page
 
-- [ ] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
-- [ ] Header levels are hierarchical
-- [ ] The page has no broken links
-- [ ] Text links have purpose and target (only need target if the link takes the user off VA.gov--subsites don't need target)
-- [ ] The content is free of ability-focused language (view, walk, see, hear)
-- [ ] Relevant terms from page are in content brief and any relevant backlog work is noted
-- [ ] Remove "Who's covered?" section (if needed)
-- [ ] Remove "What kind of disability benefits can I get?" section (if needed)
+- [x] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces **Note:** edits to intro.
+- [x] Header levels are hierarchical **Note:** I'm adding a task to our backlog ticket for this page that calls out the same problem that we have on the how to file page--the number of days seems to be an H2, but it's within another H2 section. We need to fix the problem with this component.
+- [x] The page has no broken links
+- [x] Text links have purpose and target (only need target if the link takes the user off VA.gov--subsites don't need target)
+- [x] The content is free of ability-focused language (view, walk, see, hear) **Note:** Changed one "see" to "list"
+- [x] Relevant terms from page are in content brief and any relevant backlog work is noted
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 
-- After edits: 
+- Before edits: 5.9
+- After edits: 5.9
 
-- [ ] Backlog ticket for further review created if needed
+- [x] Backlog ticket for further review created if needed
 
 ## SME review
 
@@ -45,6 +43,10 @@
 
 - **SME** Name goes here
 - **Date response received:** 
+
+### Additional questions to ask SME:
+- Are all these claim statuses still correct? (show screen shot of subway map)
+- Logic of this sentence in No. 2 in the subway map: "Your claim will move to step 3 if we don't need anymore evidence to support it." This doesn't make sense because No. 3 is about "evidence gathering." I think we could probably just cut that sentence entirely. If we end up reworking the sentence instead, we should lead with the conditional if-statement. 
 
 ### Responses
 

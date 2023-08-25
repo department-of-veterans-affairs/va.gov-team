@@ -1,5 +1,143 @@
 # Design Weekly Sync Agenda
 
+## 2023-08-14
+
+Attendees: DK, Katelyn, Hieu, Kristen, Emily, Alex
+
+**EZR form wireframe**: Hieu
+
+- Jessica's feedback in Sketch all straight forward and had no main questions or challenges.
+- DK's feedback around one thing per page: Can we still combine fields that can't be changed? DK: Yes, it was a concern and possible feedback that Collab Cycle folks might have. But it can still be explored.
+- Kristen to review the wireframes this week.
+
+**Research synthesis**: Katelyn
+
+- Katelyn to carve out slides/sections she wants to work on in HEC deck and Mural.
+- Katelyn to make a working session for today to team can collaborate on synthesis more.
+
+## 2023-08-07
+
+Attendees:
+
+**Research sync on current research + synthesis**: All
+
+- Research is showing Profile would be the best location for EZR info. We'll need to have the conversation with PRA folks. Alex to set up a meeting with them, Kristen and Patrick when Patrick is back from vacation.
+- One middle ground might be to link to a separate EZR form from the Profile, if we have to walk in both worlds of a separate form and putting it in a location where Veterans want it. Still working both angles: Profile and separate form flow.
+- Designers will meet to walk through submitting for Household study.
+
+**EZR wireframe**: Hieu
+
+- Showed spreadsheet with field comparison. Will work on wireframe of separate form flow next.
+- Look at Pre-checkin for confirm flow.
+- Could be a technical limitation because of Check-in confirm flow not being in forms library. Chat with engineers about the possibilities there.
+
+## 2023-08-01
+
+Attendees:  DK, Jessica, Katelyn, Hieu, Kristen, Heather, Alex, Fletcher
+
+**Research organization and planning**
+
+Prototype study: Could tackle the PRA stuff if it's strongly Profile direction. If not, back to the drawing board.
+Mobile app is looking into Priority Groups. Touch base with them on research.
+
+- Add in video check at end.
+- Priority Group: Didn't know. Could we relate to disbility rating.
+- Disability rating and financial ratings: How to this interplay? How is it used by other benefits? Maybe check out financial hardship form.
+- Deadline remains the same for EZR whether it's a form or in Profile.
+
+**Registration only study feedback** 
+
+- Leave the priority group questions in this research.
+- Good idea to show print version of the current state form.
+- Ask about changes to ideal state after seeing the print form or an example.
+- Cohort 1: Does warmup question make sense for folks who didn't enroll? Maybe it's around care? Delete for question, but keep second one.
+- Third topic, first question: Break this question up some.
+- Cohort 2: Warmup, maybe follow up on what kind of activities they do.
+- First topic: Maybe too many questions for 10 minutes?
+
+**Household study**
+
+- Overlap. Will we need to get the prototype ready?
+- Go lighter on Household section.
+- Focus on one thing vs. all three studies.
+
+## 2023-07-24
+
+Attendees:  DK, Jessica, Katelyn, Kristen, Heather
+
+**Research organization and planning**
+
+We talked through logistics for our upcoming studies. The goal is to have a primary lead for each research activity and a backup. Two people would take each study.
+
+- Katelyn to lead synthesis on FD
+- Hieu to lead prototype next steps
+- Hieu/DK to take planning on prototype research
+- Jessica/DK on Household study
+- Registration-only: Jessica/Katelyn to take lead
+- Katelyn in Hawaii for Labor Day
+- Sign up for mod. sessions.
+
+[Full planning available in the research planning Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686254946051/07405f6e988a0541dc0983cc5e286ba6fe612cf8?wid=189-1652380184686).
+
+
+
+**Registration-only stuff**
+
+- Same disclosure depending on registration-only flow? Not different for paper form. Still have to agree.
+- Still some questions around the priority of the flows.
+- Kristen/Patrick: Where should it be in the C&P process?
+- This is early work so more coming.
+
+**Memorable date component**
+
+- Version 3 has month picker by name vs. date number. Maybe easier cognitively. Hasn't been tested by Veterans.
+- How many date fields on EZ? Three/four or more. CG is a better testing ground.
+- Maybe tradeoffs for each one would be better to see it all.
+- Katelyn to make a list of tradeoffs for each path and share.
+
+## 2023-07-17
+
+Attendees:  DK, Jessica, Hieu, Katelyn, Kristen
+
+**EZR Research**
+
+- Jessica with where we're at in getting research scheduled.
+
+Action items:
+
+- Send note to Robyn for research heads up. Waiting for AE feedback.
+
+**HEC presentation for EZR work**
+
+- DK to run through rough slides/presentation.
+
+Action items:
+
+- Add questions to slide deck.
+- Ask about process in design
+
+**Date Input vs. Memorable Date**
+
+- Katelyn to review desk research on these components and lead discussion with designers about direction
+
+Action items:
+
+- Ask about forms design system and memorable date component
+- Ask about launch date for component in design system
+- Look into accessibility research
+
+## 2023-07-10
+
+Attendees: DK, Jessica, Hieu, Alex
+
+**EZR related wireframes and meeting prep (Hieu)**
+
+- We mostly talked through a strategy of how to pitch the EZR-related work in the Profile area of VA.gov.
+
+**EZR related research (Jessica)**
+
+- This mostly feels like it's in good shape after Jessica talked through it. No major feedback or changes.
+
 ## 2023-06-26
 
 Attendees: DK, Jessica, Hieu, Katelyn, Kristen

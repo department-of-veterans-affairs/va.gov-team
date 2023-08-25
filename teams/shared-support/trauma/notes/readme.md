@@ -1,3 +1,16 @@
+## [August 7, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-08-07.md)
+`Big Meeting` `Strategy`
+- Discussed how to share what we're learning as a community
+
+## [June 26, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-06-26.md)
+`Big Meeting` `Onboarding`
+- Discussed how to embed trauma informed guidance into VA onboarding
+
+## [May 23, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-05-23.md)
+`Big Meeting` `Shareout`
+- Usability testing with homeless Veterans
+- Turning the doorknob moments
+
 ## [May 1, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-05-01.md)
 `Big Meeting` `Community Guidelines` `Strategy`
 - Shared why we joined this community to contribute to our vision and strategy

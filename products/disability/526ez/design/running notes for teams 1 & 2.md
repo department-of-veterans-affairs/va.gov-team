@@ -1,5 +1,118 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
 
+## 8/24/23
+
+Attendees: Kate, Julie, Nichole, Lydia and Evelyn
+
+Agenda
+Error Matrix Discussion
+- Nichole will Slack Lydia to connect about the Error message and learn more context
+
+Roadmap/ Moving forward/ collaboration
+- Team 2 is working on a roadmap with stakeholders
+- Feels of working on a lot of tech debt via bug fixes and migration
+- Brainstorm for getting others on board with research- Weekly post of user questions
+
+## 8/17/23
+
+Attendees:
+
+Agenda
+-Research session questions (Kate)
+
+## 8/10/23
+
+Attendees: Kate, Julie, Nichole, and Lydia
+
+Agenda
+Review and Submit Sketch Updates
+- We learned that many items in Sketch are not customizable
+- Possible flow change, but on pause until Submission page work is completed
+Error message and analytics tickets
+- Can close tickets in content discovery
+- Prioritize tickets from Nyantee
+  
+Upcoming toxic exposure research
+- TE research interviews will begin August 21-27
+- Nichole will work with Team 1 to moderate interviews for morning sessions
+
+Misc News
+- New researcher will be joining Team 1 on Aug 15 to help with research
+
+## 8/3/23- cancelled
+
+Attendees:
+
+Agenda
+- Project Updates
+## 7/27/23
+
+Attendees:Kate, Julie, & Nichole
+
+Agenda
+- Team 1 Sprint Updates and Team Member update
+- Team 2 Sprint Updates
+- Collaboration opportunities (TE Research)
+- Also research to learn more about TE
+
+    
+## 7/20/23
+Attendees: Nyantee, Kate, Julie, Nichole
+
+Agenda
+- Team 1 Upcoming Sprint Goals
+- TE updates
+- Team 1 & 2 Collaboration
+NOTES
+
+Team 1 Upcoming Sprint Goals
+- Team 1 will be working on the following tickets for the upcoming sprint (Sprint 8): Ticket 62295, 61915, and 62296.
+
+TE Updates
+- Julie and Nyantee have a meeting today to discuss how to move forward on the TE project
+- Kate now has access to Google Docs and Sketch files for TE
+- Nyantee will be discussing objectives and what should be tested (mobile vs desktop)
+- Solutions workshop will be scheduled for next week. This will help inform the work we are doing and how we can collaborate
+  
+## 7/13/23
+Attendees: Nyantee, Kate, Julie, Nichole
+
+Agenda
+- Error message update
+- Submit and Confirmation pages redesign and timeline
+- TE updates?
+
+NOTES
+
+Error message update
+-    Nyantee will continue to look into this error and provide details by Friday.
+-    Nichole will post in Slack to see if Nathan has any code insight into the error message.
+
+Submit and Confirmation pages redesign and timeline
+-   This item didn't make it into the roadmap this quarter and will probably be pushed to the next quarter.
+-   Team 1 would like to move forward with research and provide a short-term solution to the issues
+-   Ping Rakshinda for more details about where this would fall on the roadmap
+
+TE updates
+-    Nyantee had a conversation with Shannon about continuing the work on TE over 4142.  There is also a discussion about re-testing the changes on the landing page.
+-    There is a hold for the Readout of the 526 Landing Page on Wednesday, July 18 at 4PM EST
+-    Julie speak with Shannon and CAIA about TE.  There are a couple of unresolved issues.  All changes are being tracked in Sharepoint.
+   
+## 7/6/23
+Attendees: Nyantee, Kate, Julie, Nichole
+
+Notes
+- Team 2 / Carbs working on error messaging and validation
+- Nyantee went through some survey feedback (based on feedback button that exists on each page of the form) and has been creating tickets based on these, but unsure about capacity to continue this work (it's also a few months old, so data might be a little out of date).
+- 600 responses, useful as supplementary data. Should be shareable, includes some PII, can only view on remote desktop. Nyantee to check with Shannon to see if they need to scrub that first. 
+- Contact center said we could make request for custom surveys on that page, something for Nyantee and Nichole to chat to further. Can reach out on our support channel on Slack, #vsp-contact-center-support
+- What staging profiles to use? Might depend on the error message, can check with engineers to understand which profiles will have the required info
+- Lydia started a spreadsheet to track all error messages (mostly focused on error content) - https://docs.google.com/spreadsheets/d/1s3mIDmsPk98q80qCyXP9Q3XhgqdV42JMGwVVG7-InLw/edit#gid=0
+- Also need to capture errors that are missing / not visible to the user, will add this as a category
+- Nyantee wrapping up intro page synthesis, excited to see where it lands - might want to retest changes
+- Reminder to add ideas for Q3 prioritization here: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=39-1688575360079&sender=udbd39c1bbebb4ec4d7d08829
+
+
 ## 6/22/23
 Attendees: Lydia, Nyantee, Julie
 

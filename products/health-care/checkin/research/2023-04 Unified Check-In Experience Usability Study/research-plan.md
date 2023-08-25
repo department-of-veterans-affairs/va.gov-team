@@ -69,7 +69,7 @@ The purpose of this generative research is to **get feedback from Veterans on th
 #### Secondary Questions 
 
 9. How easy or difficult is it for Veterans to find the call to action from the appointment detail pages?
-10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the the appointment list page or detail pages?
+10. Do Veterans expect to find information about whether an appointment has already completed pre-check-in? If so, from the appointment list page or detail pages?
 
 ### Hypothesis 
 

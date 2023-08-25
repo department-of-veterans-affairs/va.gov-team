@@ -1,4 +1,4 @@
-# Research Plan for MBS Self-Service Team, Application for Pre-Need Eligibility Determination (VA Form 40-10007), May 2023
+# Pre-Integration Research Plan for MBS Self-Service Team, Application for Pre-Need Eligibility Determination (VA Form 40-10007), May 2023
 
 ## Background
 The National Cemetery Administration (NCA) is working to modernize its systems, including the system that processes pre-need applications (VA Form 40-10007) for determining eligibility for burial in a VA national cemetery. Presently, pre-need cases are processed in the newly-modernized system and in the legacy system. Analysts are swiveling between the two systems to manage cases, which impacts timeliness measures for Eligibility Office (EO) analysts and Scheduling Office (SO) agents at the National Cemetery Scheduling Office (NCSO). Ultimately, users applying for pre-need are impacted, as eligibility determinations are delayed due to longer processing times.
@@ -8,6 +8,8 @@ The application for Pre-Need Eligibility Determination (VA Form 40-10007) is off
 Based on discovery research and the overall goals for the project, our plan is to: 
 1. Release incremental enhancements in a "Pre-Integration" phase (before the application is integrated with related systems) **and to** 
 2. Release enhancements in an "Integration" phase in which the form will be fully integrated with the modernized system to allow for faster case processing
+
+For this research study, our aim is to focus on the testing of Pre-Integration phase designs and enhancements.
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/initiative-brief.md). 
 

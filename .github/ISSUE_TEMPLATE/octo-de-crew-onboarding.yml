@@ -66,25 +66,26 @@ body:
     placeholder: '@Slackbot'
 - type: checkboxes
   attributes:
-    label: Crew Specific - Platform
-    description: Onboarding tasks specific to OCTO-DE Platform Crew
+    label: Platform Onboarder Tasks
+    description: To be performed by Platform team admins
     options:
-    - label: "Add to Slack group: @octo-de-platform"
-    - label: "Add to Github group: octo-de-platform"
+    - label: "Add to Slack group: @octo-de-platform https://dsva.slack.com/admin/user_groups"
+    - label: "Add to Github team: octo-de-platform https://github.com/orgs/department-of-veterans-affairs/teams/octo-de-platform"
     - label: "Post welcome Slack message: #platform-team"
-    - label: "Register for Platform Orientation: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D"
-    - label: "Add to Confluence"
-    - label: 'Add to Confluence group "platform-crew-octo-de" https://admin.atlassian.com/s/10f8a514-fd86-4b32-8ba3-c0bfc6969f88/groups/81f1ea1a-fc6d-4b27-aed5-0bb73dd86c02'
-    - label: "Update Team Roster (private) https://vfs.atlassian.net/wiki/spaces/OCLP/overview#Meet-the-team"
-    - label: "Update Team Roster (public) https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623"
+    - label: 'Add to Confluence group "platform-crew-octo-de": https://admin.atlassian.com/s/10f8a514-fd86-4b32-8ba3-c0bfc6969f88/groups/81f1ea1a-fc6d-4b27-aed5-0bb73dd86c02'
+    - label: "Update Team Roster: https://vfs.atlassian.net/wiki/spaces/LEAD/overview#OCTO-DE-Leadership (can be seen on https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
     - label: "Schedule recurring 1:1"
-    - label: "Link to Platform team welcome guide https://vfs.atlassian.net/wiki/spaces/AP/pages/1413808450"
-    - label: "Link to Platform team meetings https://vfs.atlassian.net/wiki/spaces/AP/pages/2141519911/Platform+Meetings"
+    - label: "Pagerduty OOB Deploy setup - Admin : https://vfs.atlassian.net/wiki/spaces/ECP/pages/1959165976/Out+of+band+deployment+approval#Admin"
+    - label: "Add to VA GOV DEVOPS Service Now group: https://github.com/department-of-veterans-affairs/CTO/discussions/100"
+    - label: "Add to MS Teams / Sharepoint group: https://teams.microsoft.com/l/team/19%3aWKiBsscnhmaeQZivkkji2GkkHwY1RNX0AXrCfiJdkwg1%40thread.tacv2/conversations?groupId=1dc3d637-a996-47c3-a0cb-0562475da049&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf"
+- type: checkboxes
+  attributes:
+    label: Platform Onboardee Tasks
+    description: To be performed by new Platform team member
+    options:
+    - label: "Register for Platform Orientation: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D"
     - label: "Schedule PO meetings with teams"
-    - label: "Update Slack profile in accordance with https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Slack"
-    - label: "Pagerduty OOB Deploy setup https://vfs.atlassian.net/wiki/spaces/ECP/pages/1959165976/Out+of+band+deployment+approval"
-    - label: "Add to VA GOV DEVOPS Service Now group https://github.com/department-of-veterans-affairs/CTO/discussions/100"
-      
-      
-      
-      
+    - label: "Update Slack profile in accordance with: https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile"
+    - label: "Pagerduty OOB Deploy setup - User : https://vfs.atlassian.net/wiki/spaces/ECP/pages/1959165976/Out+of+band+deployment+approval#User"
+    - label: "Link to Platform team welcome guide: https://vfs.atlassian.net/wiki/spaces/AP/pages/1413808450" 
+    - label: "Link to Platform team meetings: https://vfs.atlassian.net/wiki/spaces/AP/pages/2141519911/Platform+Meetings"

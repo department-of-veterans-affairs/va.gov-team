@@ -1,0 +1,138 @@
+{
+	"info": {
+		"_postman_id": "62f522cd-7c3b-4801-ab1a-10e31be1c6af",
+		"name": "BTSSS API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24821983"
+	},
+	"item": [
+		{
+			"name": "get claims for a veteran",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"vetId\": \"1013742142V598816\",\r\n  \"vetIdType\": \"icn\",\r\n  \"startRangeDate\": \"2023-06-30T14:01:02.204Z\",\r\n  \"endRangeDate\": \"2023-07-26T14:53:02.204Z\",\r\n  \"clientNumber\": \"CLI-XXXXXXXX\"\r\n}"
+				},
+				"url": {
+					"raw": "https://claimingestsvc-ppd-btsss-east.nprod.vaec.va.gov/api/Claims/V0/GetClaimsStatus",
+					"protocol": "https",
+					"host": [
+						"claimingestsvc-ppd-btsss-east",
+						"nprod",
+						"vaec",
+						"va",
+						"gov"
+					],
+					"path": [
+						"api",
+						"Claims",
+						"V0",
+						"GetClaimsStatus"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Submit Claim",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json-patch+json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"clientNumber\": \"CLI-XXXXXXXX\",\r\n  \"appointment\": {\r\n    \"appointmentDateTime\": \"2023-07-25T16:08:33.432Z\"\r\n  },\r\n  \"claimantID\": \"1013742142V598816\",\r\n  \"claimantIDType\": \"icn\",\r\n  \"mileageexpense\": {\r\n    \"tripType\": \"One Way\",\r\n    \"description\": \"string\"\r\n  }\r\n}"
+				},
+				"url": {
+					"raw": "https://claimingestsvc-ppd-btsss-east.nprod.vaec.va.gov/api/ClaimIngest/submitclaim",
+					"protocol": "https",
+					"host": [
+						"claimingestsvc-ppd-btsss-east",
+						"nprod",
+						"vaec",
+						"va",
+						"gov"
+					],
+					"path": [
+						"api",
+						"ClaimIngest",
+						"submitclaim"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get token",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Cookie",
+						"value": "fpc=AoLo5qM0X4NPibnHKM-IIVKWJKRjAQAAAFFT99oOAAAA"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "grant_type",
+							"value": " client_credentials",
+							"type": "text"
+						},
+						{
+							"key": "client_id",
+							"value": "same as dev",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "same as dev",
+							"type": "text"
+						},
+						{
+							"key": "scope",
+							"value": "some-guid/.default",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://login.microsoftonline.us/{{guid}}/oauth2/v2.0/token",
+					"protocol": "https",
+					"host": [
+						"login",
+						"microsoftonline",
+						"us"
+					],
+					"path": [
+						"{{guid}}",
+						"oauth2",
+						"v2.0",
+						"token"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

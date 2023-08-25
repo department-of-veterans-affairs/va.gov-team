@@ -1,6 +1,6 @@
 # Connected Apps Product Outline
 
-**Last updated: September 6, 2022**
+**Last updated: August 1, 2023**
      
 ## Table of Contents
 
@@ -34,9 +34,8 @@ As a user I need to:
 
 ## Projects
 
-|Project or enhancement|Launch/Completion date|
-|----|----|
-|[Combine profile and account](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#readme)| September 2020|
+[For a list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
+
 
 ## Analytics
 - [GA dashboard for connected apps](https://analytics.google.com/analytics/web/#/dashboard/-7uuXRP8QJOLgqwi7s5OOg/a50123418w177519031p176188361/)
@@ -58,4 +57,4 @@ See [profile product outline](https://github.com/department-of-veterans-affairs/
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps/use-cases)
 
 ### Flow diagrams
-- [View and disconnect apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/p/1E65D486-EF4E-401C-AA44-37082963EA88/canvas)
+- The [mobile page of the Sketch file](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/p/0E8B5CFE-DD9A-46CE-9369-6ED367B57063/canvas) includes the user flow.

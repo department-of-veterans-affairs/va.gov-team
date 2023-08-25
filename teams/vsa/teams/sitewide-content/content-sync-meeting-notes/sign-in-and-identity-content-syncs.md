@@ -1,5 +1,80 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**August 24, 2023**
+-
+Attendees: Aliyah, Laura, Tinu, Carl, and Joe
+
+**Notes**
+- Updated LGA and CORE identity teams on new proccess for sign in and identity content related to changes. Content on static pages will need to go through the new MHV and identity comms working group review (async).
+- - **Verifying your identity on VA.gov**
+     - We finished reviewing this page in our meeting
+     - There's still an open question out to the ID contact (via Amber) about the link text for users who don't live in the US. We'll adjust this content when we get a reply.
+     - Once this page is reviewed by the working group, copy edited, and published, we'll move back to reviewing the additional questions Joe and his team compiled and identify what new information will need to be added to this page.
+- In the bi-weekly identity comms meeting, Luciana (from the chatbot team) raised a question about chatbot content that aligns with current VA.gov content on signing in. Aliyah added Luciana and Nathalie to the weekly sync to disucss this further. They'll join the 8/31 meeting.
+
+**August 17, 2023**
+- 
+Attendees: Aliyah, Carl, Laura, Tinu, Sophia, and Joe 
+
+**Notes** 
+- Flagged that Aliyah and Laura will be OOO September 20 to 22 for an offsite.
+- **Verifying your identity on VA.gov**
+     - We shared with the Login.gov adoption and CORE identity teams that we chatted with Grace about the ID.me questions on this page.
+     - We'll continue to review the remaining questions next week.
+     - Sophia to check in with Dawn about whether there's any information we can start to communicate about the account transitions.
+ - LGA team is working on a call center FAQ script. This will include information to better assist users.
+
+**August 10, 2023** 
+-
+Attendees: Aliyah, Carl, Laura, Dawn, Tinu, and Sophia
+
+**Notes**
+- We'll be using the identity-research channel for messages re: this meeting moving forward.
+- **Reactivation and organic email campaigns:**
+     - Laura updated team that Danielle has plans to share new review proccess for all communication items (like email campaigns and other comms initiatives) The goal of this is to have a more clear review proccess in place to support all of the future changes.
+- **Creating an account on VA.gov page**
+     - We'll need to think through content to address Veterans who can't or don't qualify to create a Login.gov account.  Two sets of information would likely need to exist - **1.** What do I do if I've failed the online proofing **2.** I can't create a Login.gov account and won't ever be able to create a Login.gov account (for example, due to living outside of the U.S.)
+     - Dawn sent a question to Login.gov partners to find out if there's a list of all of the scenarios when someone wouldn't qualify to create a Login.gov account. 
+
+**July 20, 2023**
+-
+Attendees: Aliyah, Carl, Laura, Dawn, Joe, Tinu, and Sofia 
+
+**Notes**
+- **OOO updates:** Aliyah (July 27 to August 9) Laura (July 28 to July 31) Carl (July 27). Laura will send out a new invite for weekly sign in and identity syncs for July 27 and August 3. Aliyah will also flag that she'll need to send out the agenda.
+- Carl shared that he is working on some additional email content - he doesn't anticipate much feedback, as it's similar to previous email content. He'll share this with us next week ahead of his OOO time.
+- **Verifying your identity on VA.gov page**
+     - We're shifiting plan and will actually move forward with integrating feedback from the identity teams and publish those changes first. Then we'll continue to review additional questions to consider adding to the page with Joe and CORE identity team.
+ - **Comms plan from LGA team:** Carl updated that they're working on an internal document that compiles all things sign in /identity in - in one deck. He flagged that their deck will also include imagery guidelines and email template guidance. Sitewide CAIA (content) noted that if they're pulling any content from the content brief or style guide, we recommend that they include a link out to the content brief or style guide, so that we aren't duplicating any of that information and have clarity/one source of truth for the content brief and style guide items. **Action item:** Carl to update us on name of this comms document/plan, as we don't want this to be called a style guide.
+ - **Email templates:** Followed up with Carl on question via Slack about the constraints in the Test A email template and if those constraints will be the same for the Test B email. Dawn flagged that the Test A email is a VEO template and they'll continue to use this until they have an OCTO account. **Action item for Aliyah/Laura:** Pass feedback to Dawn about things that we’d suggest changing in the template – pass in a word document. **Action item for Dawn** She'll get answers about whether those are things that we can change.
+ - **Privacy and security at VA page:** Laura asked for groups thoughts on how to make updates to this page, as some information is outdated and it only discusses ID.me and not Login.gov. Joe mentioned that the CORE team wrote part of this content in the past. We'll plan to move forward with making updates to this page for a mid September deadline for having content finalized and approved. LGA team will provide notes on content updates and sitewide CAIA (content) will implement. **Action item**: Sitewide CAIA (content) to do a review first and see where we can pull in existin content. Then we'll pass to LGA team to do a pass and provide additional notes on information that we'll need to update.
+
+**July 13, 2023**
+-
+Attendees: Aliyah, Carl, Ngozi, Sofia, Dawn, Joe, Tinu 
+
+**Notess** 
+- Tinu, a technical writer on the CORE identity team, joined the call.
+- Carl shared updated Login.gov/ID.me reactivation email (on Tuesday). Carl confirmed later in afternooon that date to send the email is 7/20. **Action item:** Aliyah to review and provide feedback (**DONE** - Aliyah provided feedback in ticket)
+- Carl to share draft blog post about sign in and verifying accounts - he's aiming to share the draft with his team by next Wednesday.
+- Later in afternoon, Carl and team shared on identity comms call that they sent out a test A email on 7/11. I asked that Carl share the content with us, since we weren't previsouly aware of this email being sent out on this date. They'll still send out the Test B email that we did review, on 7/20.
+- Also on identity comms call, Carl and team mentioned that they're working on a comms plan that'll track the content across various phases of the transition. We'll plan to discuss this further.
+- **Verifying your identity on VA.gov page**
+     - Joe started to review questions that their team compiled. Aliyah provided some initial feedback on some of the questions. We'll continue reviewing if there's time next week. Aliyah flagged for Joe and his team that we'll export content (a Google doc) to a Word document when we're ready to integrate any questions on the current verifying your identity page.
+
+**July 6, 2023**
+-
+Attendees: Aliyah, Carl, Ngozi, Sofia, Joe, Dawn
+
+**Notes** 
+- **Verifying your identity on VA.gov page**
+     - We finsihed reviewing this page. We'll likely move forward with redirecting users to partner pages for some of the questions, given the information may change on the partner side.
+     - Joe and team to create a list of any questions that need to be added to the page, based on pain points they've seen/heard. Their team will look at the page on VA.gov and Aliyah requested that they provide a word document with a list of additonal questions.
+- **Login.gov/ID.me reaction draft email**
+    - We discussed whether this email should be the first point of information about account options going away.
+    - **Action item:** Dawn will touch base with John and Tom about how to approach this
+    - **Action item:** Carl will make adjustments to email content based on call feedback. He'll remove mentions of the account option and frame as encouraging use of these account types instead of mentioning that accounts are going away
+
 **June 23, 2023**
 -
 Attendees: Aliyah, Carl, Joe, Sofia, Porta

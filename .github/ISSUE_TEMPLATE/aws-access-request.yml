@@ -125,11 +125,11 @@ body:
         ---
         :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: All done! :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
         For SOCKS access, open a [SOCKS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=socks-access-request.yml&title=SOCKS+access+for+%5Bindividual%5D).
-        If you need additional infrastructure, please use [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) 
+        If you need additional infrastructure, please use [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
         :x: Don't fill out anything below here :x:
   - type: checkboxes
     attributes:
-      label: User must exist in a roster before AWS access can be granted
+      label: "User must exist in a roster before AWS access can be granted. See [AWS access documentation](https://vfs.atlassian.net/wiki/spaces/OT/pages/1792114735/Onboard+New+Team+Members+Granting+Access+to+Internal+Tools#AWS-Access-Request) for the steps involved."
       description: Don't fill this part out, please
       options:
       - label: "Search for user on the [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"

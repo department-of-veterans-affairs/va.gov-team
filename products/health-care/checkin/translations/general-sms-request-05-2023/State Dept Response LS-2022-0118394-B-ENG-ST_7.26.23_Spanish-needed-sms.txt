@@ -1,0 +1,8 @@
+{
+"ERROR_CLINIC_NOT_ENABLED": "Lo sentimos. El registro en línea no está disponible aún para su clínica. Pídale asistencia a un miembro del personal."
+"ERROR_MULTIPLE_PATIENTS": "Lo sentimos. Hubo un problema al buscar su expediente. Pídale asistencia a un miembro del personal."
+"CHECK_IN_LATE_ERROR": "Lo sentimos. El registro en línea ya no está disponible para la hora de su cita. Pídale asistencia a un miembro del personal."
+"PRE_CHECK_IN": "Para ayudar a prepararnos para su cita, regístrese antes de llegar en: https://www.va.gov/{shorturl}"
+"PRE_CHECK_IN_UNIFIED": "Su cita de VA el {Date} a la(s) {Time} está confirmada. Para prepararse para su cita, verifique si su información está actualizada: https://www.va.gov/{shorturl}"
+"CHECK_IN_UNIFIED": "Ha llegado el momento de registrarse para su cita de VA el {Date} a la(s) {Time}. Inicie su registro ahora: https://www.va.gov/{shorturl} Si tiene problemas para registrarse, pídale ayuda a un miembro del personal en su centro de cuidado de la salud de VA." 
+}

@@ -1,6 +1,6 @@
 # My VA: Outstanding Debts Use Cases
 
-**Last updated:** December 14, 2022
+**Last updated:** July 17, 2023
 
 ## Overview of Outstanding Debts
 * Outstanding debts encompasses overpayment debts and copay debts.

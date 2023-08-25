@@ -1,6 +1,203 @@
 # Benefits Disability Experience - Product sync 
 
-### Date: June 21 2023       
+### Date: Aug 24' 2023       
+### Participants: 
+### Topics Covered:
+- New Benefits Portfolio project/workstream dashboard
+  - Updated except for Toxic Exposure - do not expect this to be Live before end of October at this point
+  - Might need to pull in Team 2 based on discovery and final designs
+  - Depends on Submit migration
+- Lighhouse migration
+  - ITF at .5% traffic on LH since 10 AM Aug 23
+  - View dashboard
+  - Next step is at 5%
+    - we had planned it after 1 week
+    - wondering if we can pull that forward     
+  - Ready for rateddisabilities release after ITF
+  - Development on Submit workflow
+    - Also picking up discovery on Backup submission flow to see if anything needs to be  migrated or if we can leave it in place till after Toxic Exposure is live
+- Now/Next/Later is in the idea board - https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1692887832703
+- Is there a way to publish announcements without code changes for future issues/outages? On va.gov?
+  - It's currently in place and was used - static content team did make changes
+  - May need to figure out a way to make content changes in REACT pages - will be a big architectural challenge
+- Do we want to meet with Octo biweekly calls?
+ - Table it for now - need to talk to the team if this is helpful
+ - Can we use ToT for this?
+- Need to look at this issue - don't have contractual on call support
+  - Steve may have suggestions/ideas on this for later
+- Get a list of APIs to Steve
+  -  Get the product page updated - Rakshinda
+-  
+-   
+
+### Date: Aug 17 2023       
+### Participants: Emily, Jen, Steve, Austin, Rakshinda
+### Topics Covered:
+- P1 ITF issue
+   -  What is the CTA for our teams?
+   -  Nothing at this time 
+- Backup Submission Issue
+   -  What is the CTA for our teams?
+   -  Get better monitoring
+   -  Minitoring to indicate next steps
+   -  Sam working with Kyle to take on this work
+   -  Team 2 is taking on this issue
+- Team 1 engagement in these two issues will delay
+   - Submit endpoint migration to LH that will delay Toxic Exposure launch
+   - ITF and rateddisabilities launch
+   - What needs to be prioritized - Team 1 stay focused on LH migration
+- Form Validation errors priorities for team 2
+   - reproduce, review priorities
+   - Determine capacity to fix
+- New Benefits Portfolio project/workstream dashboard created in response to status reqeusts from stakeholders - Before offsite on Aug 29
+- (https://dvagov.sharepoint.com/sites/vaabdvro/SitePages/Project%20Status%20Overview%20-%20OCTO%20Benefits.aspx)
+   -    We have organized the workstreams by the Benefits Portfolio's "Priority Bets" to show how the workstreams support achieving the bets.  There's an area below sorted by crews and teams where we will link to individual team roadmaps and sprint review documents.
+   -   Please review and update status of 526 team work.  Are there workstreams that need to be added, deleted or consolidated?    
+- Priortization needed for near term Research / Design ideas
+   - Shannon and Jen to talk about that this week
+- Steve getting some team members Datadog access
+  - Would want consistency in monitoring
+  - non-zero amount of time to start working on it
+  - Need clarity around submission logs
+-
+  
+### Date: Aug 10 2023       
+### Participants: Rakshinda, Shannon, Steve, Jen
+### Topics Covered:
+- P1 issue
+   - Do we roll back the ITF msg after the traffic volume goes down after Aug 10? - Being handled by Kyle/Robin
+   - Do we need any further work on file size for upload or does 99 MB per upload stand? No
+- Toxic Exposure 
+   - Research planned for the week of Aug 21
+   - Start work on mock-ups and plan the build
+- ITF LH migration roll-out
+  - 1-5 user test starting this sprint
+  - next would be .5% rollout
+- Question from David R re status of Landing page work?
+     - Content team needs another ticket after research
+     - Shannon and Beth meeting next week to discuss
+  
+### Date: Aug 3 2023       
+### Participants: Austin
+### Topics Covered:
+- Toxic Exposure Research
+   - Shannon picking up research plan to fill in gaps and have draft for Lydia return
+- Data for ITF / Late submissions
+- ITF Policy question from Julie / further discussion with Andrew Gray
+- Meeting Matt, Jen and Steve around dashboarding
+ - What do each persona need?
+ - What other key perfomance metrics do we want to get
+ - how to make public dashboards?
+ - best way to create dashbaords?
+- Future discussions with Contact Center
+ - how to make dashboards for them
+ - how to build relationships with Contact Center
+   - are veterans comfortable with error numbers 
+
+
+### Date: Jul 26 2023       
+### Participants: Rakshinda, Austin
+### Topics Covered:
+- Toxic Exposure Research
+   - Team 1 has no researcher
+   - Team 2 is working on 
+      - ITF (disovery has uncovered larger oppurtunities. Need to weigh options, but seems like an important place to focus and define short term, medium term and longer term improvements)
+      - Review and Submit changes (need design approval / waiting for Shannon to return)
+      - Bug for missing ID errors (requires input from Contact Center but we are being told there is sensitivity with talking to them)
+            - Matt/Jen - to check what's the obstacle for this discussion 
+   - **Reccomend** waiting on Lydia on Aug 8 vs disrupting the Team 2 work in progress
+   - **Check** if Coforma can support with UX for the next 2 weeks - Austin
+   - **Check** if Lydia is still planning to be back on Aug 8 - Rakshinda
+   - **Check** Can Lesley Ropp(Enablement Team) support this? - Matt/Jen
+- Q3 Initiatives prioritization
+   - Team 1 has no capacity till about late Sepetmber for new initiatives working on
+      - Lighthouse migration - current ETA November
+      - 526ez sync with paper version - ETA late Sept
+         - Toxic Exposure and 4142 form flow changes with research     
+   - Team 2 working on
+      - Validation and errors
+          - From Error reports, surveys, and failure reports
+      - Monitoring/logging
+   - **Reccomend** Delaying a big priortization workshop till there's capacity to pick up work
+   - Do not need July-Sept prioritization at this point
+   - Plan something for mid-Sept
+- Bug Triage meeting
+   - Different cadence?
+   - Keep the current one for a couple more weeks
+- Issue Management Strategy
+   - Review Definition of Done, Severity and Priority
+   - Come up with a framework for use for other teams
+   - Come up with Plug and Play model
+- Data Extract for VRO
+   -  Conversations ongoing with Steve and Diana   
+- Using non-Lighthouse API needs Matt's approval 
+
+### Date: Jul 19 2023       
+### Participants: Rakshinda, Austin, Matt, Jen, Steve
+### Topics Covered:
+- Individual Unemployability form is not live in production
+   - There was conversation about taking this out of the main flow. Not making this live till that is done would be add the least disruption.
+     - Leave this in staging for now
+     - Revisit later when we are looking at other forms that may need to be taken out of the flow
+     - Look at other feature flags and if there are other forms that are not live in production
+- eVSS Migration - review updated roadmap and challenges
+   - Currently looking at continuing into November
+   - The development work may not be easy to share with Team 2 at this point in migration
+   - May lean on peer review
+   - The biggest roadblock is lack of a testing environment
+   - Meeting scheduled with Steve to discuss possible work-arounds to reduce testing time
+- Q3 Initiatives prioritization
+   - Review where we are and plan for the workshops
+   - What stakeholders do we need?  - Matt to get back on this
+- Catch-up on Work in Progress
+   - 526ez sync with paper form
+      -  Toxic Exposure - restart work after hold
+   - Intro page changes
+      - Content for landing pages pending research report share out. Shareout expected this week.
+   - 4142
+      -  Are we deciding to hold off on this for now till we test with the larger evidence collection scope?
+        Or
+     - Do we want to move ahead with flow changes while working through content changes at a later stage?
+
+      
+### Date: Jul 12 2023       
+### Participants: Rakshinda, Steve, Shannon
+### Topics Covered:
+- Q3 Initiatives prioritization
+   - Ideas - Shannon and Steve
+      - Let Shannon know when our board is ready for additions
+      - Get the board ready by Friday morning
+      - Performance 
+         - Page load is around 3 sec
+         - More actions are happening that take the page to fully load with data for a lot longer than 3 seconds   
+         - How to measure it?
+         - Establish baselines and metrics
+         - Identify problem areas and teams that control the fix
+      - Improve logging and metrics
+         - Silent failures
+         - Review Kyle's work on this
+         - Sam from 526ex Team2 is also working on it
+      -  Diagram the 526 error categories
+          -  Steve setting up datadog dashboard for visualizing issues and scale
+             - Pair with lamb duty engineer (Mark this week)
+      - Improving health and monitoring metrics
+          - Shannon to get the list
+- Content for Toxic Exposure
+   - Recommendation
+     - Use data from the first few screens or data already filled out for TE screens
+     - Review eng capacity based on recommendation
+     - Research report to be pulled in this sprint   
+- Content for Landing Pages
+   - Waiting for research report share out
+   - If there are a lot of changes, might needto restest
+   - Share a targeted timeline for production with collab cycle
+- 4142
+   -  Shannon to review the changes in 526 and other 2 versions before deciding on testing / implementation
+   -  May test 4142 and evidence collection   
+- Combined road-map
+    - In progress - Austin
+    
+### Date: June 28 2023       
 ### Participants: Rakshinda, Shannon, Steve
 ### Topics Covered:
 - Issue Management Strategy

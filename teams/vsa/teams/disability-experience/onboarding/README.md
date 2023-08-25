@@ -17,8 +17,7 @@
 - Get added to slack channels in DSVA Slack - after SAC adjudication is complete
    - benefits-onboarding
     - This initiates VA onboarding with buddy assignments
-  - benefits-ce-disability_exp_1
-  - benefits-ce-disablity_exp_2
+  - benefits-ce-disability_exp
   - benefits-ce-dbex_issue_reporting
   - benefits-ce-disablity_design
   - va-forms

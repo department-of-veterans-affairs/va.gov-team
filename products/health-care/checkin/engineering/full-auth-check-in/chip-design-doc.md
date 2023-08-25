@@ -46,27 +46,24 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
 - Responses:
   - Status Code: 200 OK
   - Body (object): The Response Object which contains the following fields
-    - `code` (string): check-in-success
-    - `message` (string): Check-In successful
+    - `id` (string): appointmentIEN
+    - `message` (string): Check-in success with appointmentIen: ${appointmentIen}, patientDfn: ${patientDfn}, stationNo: ${stationNo}
+    - `type` (string): AuthenticatedCheckinResponse
   ---
   - Status Code: 400
-  - Body: (object): The demographics information needs to be confirmed
-    - `code` (string): invalid-demographics
-    - `message` (string): A list of demographics that need to be confirmed. ie. Patient Information, Emergency Contact, Next-of-Kin
-  ---
-  - Status Code: 400 
-  - Body (object): The Insurance information is missing/needs to be updated Response Object which contains the following fields
-    - `code` (string): invalid-insurance
-    - `message` (string): Insurance needs to be validated
-  ---
-  - Status Code: 400
-  - Body (object): Invalid appointment object with the following fields
-    - `code` (string): invalid-appointment
-    - `message` (string): Details specific reasons the appointment is invalid (too-early, too-late, e-check-in-not-enabled, invalid-status, invalid-type)
+  - Body: (object): Invalid Patient and/or Appointment data
+    - `id` (string): appointmentIEN
+    - `errors` (array of objects):
+      - `status` (string) 400
+      - `title` (string) `clinic-e-check-in-not-allowed`, `appointment-has-bad-status`, `appointment-check-in-too-early`, `appointment-check-in-too-late`, `patient-contact-info-needs-update`, `patient-emergency-contact-needs-update`, `patient-next-of-kin-needs-update`, `patient-insurance-needs-update`
+    - `message` (string): Check-in unsuccessful with appointmentIen: ${appointmentIen}, patientDfn: ${patientDfn}, stationNo: ${stationNo}
+    - `type` (string): AuthenticatedCheckinResponse
+   
+      
 
 ### Demographics
 
-#### `GET /demographic-confirmations`
+#### `GET /authenticated-demographics`
 - Description: This endpoint is for retrieving demographics confirmation information which includes a field indicating if insurance verification is needed, patient contact information, emergency contact information and next-of-kin contact information.
   - Requirements for patient check-in:
     - all three `needsConfirmation` fields need to be `false`
@@ -78,66 +75,69 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
 - Response:
   - Status Code: 200 OK
   - Body (object): The demographics object
-    - `insuranceVerificationNeeded` (boolean)
-    - `needsConfirmation` (boolean)
-    - `mailingAddress` (object)
-      - `street1` (string)
-      - `street2` (string)
-      - `street3` (string)
-      - `city` (string)
-      - `county` (string)
-      - `state` (string)
-      - `zip` (string)
-      - `zip4` (string)
-      - `country` (string)
-    - `residentialAddress` (object)
-      - `street1` (string)
-      - `street2` (string)
-      - `street3` (string)
-      - `city` (string)
-      - `county` (string)
-      - `state` (string)
-      - `zip` (string)
-      - `zip4` (string)
-      - `country` (string)
-    - `homePhone` (string)
-    - `officePhone` (string)
-    - `cellPhone` (string)
-    - `email` (string)
-    - `emergencyContact` (object)
-      - `needsConfirmation` (boolean)
-      - `name` (string): "VETERAN,BROTHER"
-      - `relationship` (string)
-      - `phone` (string)
-      - `workPhone` (string)
-      - `address` (object)
-        - `street1` (string)
-        - `street2` (string)
-        - `street3` (string)
-        - `city` (string)
-        - `county` (string)
-        - `state` (string)
-        - `zip` (string)
-        - `zip4` (string)
-        - `country` (string)
-    - `nextOfKin`
-      - `needsConfirmation` (boolean)
-      - `name` (string): "VETERAN,BROTHER"
-      - `relationship` (string)
-      - `phone` (string)
-      - `workPhone` (string)
-      - `address` (object)
-        - `street1` (string)
-        - `street2` (string)
-        - `street3` (string)
-        - `city` (string)
-        - `county` (string)
-        - `state` (string)
-        - `zip` (string)
-        - `zip4` (string)
-        - `country` (string)
+    - `id` (string): The patientDfn
+    - `type` (string): AuthenticatedGetDemographicsResponse
+    - `data`(object)
+	    - `insuranceVerificationNeeded` (boolean)
+	    - `needsConfirmation` (boolean)
+	    - `mailingAddress` (object)
+	      - `street1` (string)
+	      - `street2` (string)
+	      - `street3` (string)
+	      - `city` (string)
+	      - `county` (string)
+	      - `state` (string)
+	      - `zip` (string)
+	      - `zip4` (string)
+	      - `country` (string)
+	    - `residentialAddress` (object)
+	      - `street1` (string)
+	      - `street2` (string)
+	      - `street3` (string)
+	      - `city` (string)
+	      - `county` (string)
+	      - `state` (string)
+	      - `zip` (string)
+	      - `zip4` (string)
+	      - `country` (string)
+	    - `homePhone` (string)
+	    - `officePhone` (string)
+	    - `cellPhone` (string)
+	    - `email` (string)
+	    - `emergencyContact` (object)
+	      - `needsConfirmation` (boolean)
+	      - `name` (string): "VETERAN,BROTHER"
+	      - `relationship` (string)
+	      - `phone` (string)
+	      - `workPhone` (string)
+	      - `address` (object)
+	        - `street1` (string)
+	        - `street2` (string)
+	        - `street3` (string)
+	        - `city` (string)
+	        - `county` (string)
+	        - `state` (string)
+	        - `zip` (string)
+	        - `zip4` (string)
+	        - `country` (string)
+	    - `nextOfKin`
+	      - `needsConfirmation` (boolean)
+	      - `name` (string): "VETERAN,BROTHER"
+	      - `relationship` (string)
+	      - `phone` (string)
+	      - `workPhone` (string)
+	      - `address` (object)
+	        - `street1` (string)
+	        - `street2` (string)
+	        - `street3` (string)
+	        - `city` (string)
+	        - `county` (string)
+	        - `state` (string)
+	        - `zip` (string)
+	        - `zip4` (string)
+	        - `country` (string)
 
-#### `PATCH /demographic-confirmations`
+#### `POST /authenticated-demographics`
 - Description: Edit demographics confirmations
 - Request Body:
   - `patientDFN` (string): The unique identifier of the patient.
@@ -149,9 +149,168 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
 - Response:
   - Status Code: 200 OK
   - Body (object): The updated demographicConfirmations object
-    - `contactNeedsUpdate` (boolean)
-    - `emergencyContactNeedsUpdate` (boolean)
-    - `nextOfKinNeedsUpdate` (boolean)
-    
+    - `id` (string): PatientDfn
+    - `type` (string): 'patientDemographicsStatusResponse'
+    - `data` (object): The updated data
+	    - `contactNeedsUpdate` (boolean)
+	    - `contactConfirmedAt` (date)
+	    - `emergencyContactNeedsUpdate` (boolean)
+	    - `emergencyContactConfirmedAt` (date)
+	    - `nextOfKinNeedsUpdate` (boolean)
+	    - `nextOfKinConfirmedAt` (date)
 
 
+### Example Responses
+
+#### Check-in success
+- `id`: appointmentIEN
+```
+{
+	"id": "33611",
+	"message": "Check-in success with appointmentIen: 38847, patientDfn: 366, stationNo: 530",
+	"type": "AuthenticatedCheckinResponse"
+}
+```
+#### Check-in failure 400
+- `id`: appointmentIEN
+```
+{
+	"id": "33611"
+	"errors": [
+		{
+			"status": "400",
+			"title": "patient-contact-info-needs-update"
+		},
+		{
+			"status": "400",
+			"title": "patient-emergency-contact-needs-update"
+		},
+		{
+			"status": "400",
+			"title": "patient-next-of-kin-needs-update"
+		},
+		{
+			"status": "400",
+			"title": "patient-insurance-needs-update"
+		},
+		{
+			"status": "400",
+			"title": "appointment-has-bad-status"
+		},
+		{
+			"status": "400",
+			"title": "appointment-check-in-too-late"
+		},
+	],
+	"message": "Check-in unsuccessful with appointmentIen: 38846, patientDfn: 366, stationNo: 530",
+	"type": "AuthenticatedCheckinResponse"
+}
+```
+#### Check-in failure 500
+```
+{
+	"errors": [
+		{
+			"status": "500",
+			"title": "Authenticated Check-in vista error."
+		}
+	]
+}
+```
+#### GET Demographics Success
+- `id`: patientDfn
+```
+{
+	"data": {
+		"insuranceVerificationNeeded": true,
+		"needsConfirmation": true,
+		"mailingAddress": {
+			"street1": "Any Street",
+			"street2": "",
+			"street3": "",
+			"city": "Any Town",
+			"county": "",
+			"state": "WV",
+			"zip": "999980071",
+			"zip4": null,
+			"country": ""
+		},
+		"residentialAddress": {
+			"street1": "",
+			"street2": "",
+			"street3": "",
+			"city": "",
+			"county": null,
+			"state": "",
+			"zip": "",
+			"zip4": null,
+			"country": ""
+		},
+		"homePhone": "222-555-8235",
+		"officePhone": "222-555-7720",
+		"cellPhone": "3153789190",
+		"email": "",
+		"emergencyContact": {
+			"name": "",
+			"relationship": "",
+			"phone": "",
+			"workPhone": "",
+			"address": {
+				"street1": "",
+				"street2": "",
+				"street3": "",
+				"city": "",
+				"county": null,
+				"state": "",
+				"zip": "",
+				"zip4": "",
+				"country": ""
+			},
+			"needsConfirmation": true
+		},
+		"nextOfKin": {
+			"needsConfirmation": true
+		}
+	},
+	"id": "366",
+	"type": "authenticatedGetDemographicsResponse"
+}
+```
+#### GET Demographics Failure
+```
+{
+	"errors": [
+		{
+			"status": "500",
+			"title": "Error getting demographics from VistA API: Request failed with status code 500"
+		}
+	]
+}
+```
+#### POST Demographics Success
+- `id`: patientDfn
+```
+{
+	"id": "366",
+	"type": "patientDemographicsStatusResponse",
+	"data": {
+		"contactNeedsUpdate": false,
+		"contactConfirmedAt": "2023-08-07T10:21:42.178-04:00",
+		"nextOfKinNeedsUpdate": false,
+		"nextOfKinConfirmedAt": "2023-08-07T10:21:42.178-04:00",
+		"emergencyContactNeedsUpdate": false,
+		"emergencyContactConfirmedAt": "2023-08-07T10:21:42.178-04:00"
+	}
+}
+```
+#### POST Demographics Failure
+```
+{
+	"errors": [
+		{
+			"status": "400",
+			"title": "Invalid arguments: \"demographicConfirmations.contactNeedsUpdates\" is not allowed"
+		}
+	]
+}
+```

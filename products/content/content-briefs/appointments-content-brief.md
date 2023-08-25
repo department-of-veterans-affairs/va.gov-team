@@ -38,6 +38,7 @@ This brief will help your team create content for your product that aligns with 
 
 - Mobile app research showed that 4/8 people found the "Pending" status label confusing. They wondered what it meant and if they needed to do something about an appointment that was "pending." However, previous research showed that Veterans understood "Pending" > "requested." There are additional complications to this. Guidance is to stay with "Pending" for now.
 
+
 ## Other notes
 
 

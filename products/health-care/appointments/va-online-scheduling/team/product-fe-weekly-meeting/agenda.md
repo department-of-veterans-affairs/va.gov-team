@@ -1,13 +1,40 @@
 # Appointments Team Weekly Agenda
 
 <details>
+<summary>August 2, 2023</summary>
+
+## Agenda
+
+### Topics
+
+- [P] Run through PBS research plan
+ 
+</details>
+
+<details>
+<summary>July 21, 2023</summary>
+
+## Agenda
+
+### Topics
+
+- [P] UAT planning for MHV on VA.gov features
+- [J/L] Release planning for print button and descriptive back link
+- [L] Will set some time next week to kickoff the Appointment Details Redesign initiative
+- [L] QA to validate the URL updates for the MHV on VA.gov work 
+- [P] Next steps for MHV on VA.gov (looking at Mikki's comment [here](https://dsva.slack.com/archives/CMNQT72LX/p1686835346637409))
+- [P] Next steps for PBS research
+ 
+</details>
+
+<details>
 <summary>July 7, 2023</summary>
 
 ## Agenda
 
 ### Topics
 
-- 
+- [L] After visit summmary still target for September launch? 
  
 </details>
 

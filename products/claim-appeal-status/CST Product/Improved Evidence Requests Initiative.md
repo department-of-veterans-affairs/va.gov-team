@@ -95,8 +95,9 @@ Our core bet is that if veterans are able to clearly identify when requests for 
 
 ### Proposed In-scope functional requirements
 
-1. Add claim IDs to the listing cards on the claims listing page
+1. Bring claim card titles in-line with acceptable accessibility standards
 2. Change the card sorting logic to move those claims with open evidence requests to the top of the stack.
+3. Change claim tab titles so they meet accessibility standards.
 
 ## Phase 2: Major Changes to the Claims Detail View
 
@@ -113,6 +114,7 @@ Our core bet is that if veterans are able to clearly identify when requests for 
 1. Redesign the claims detail view to break the page into two main parts:
     * The first part should clearly tell the veteran what outstanding requests they need to take action on.
     * The second part should show other open requests intended for third parties.
+    * Action alerts for new evidence submission requests will be pulled to the the top of the page
 
 These improvements to the user interface will directly contribute to our ability to test the above hypotheses and track the corresponding KPIs.
 

@@ -32,7 +32,7 @@ For Phase 0:
 ![Screenshot 2023-06-28 at 4 35 42 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/9aa7af6a-78c7-46b1-9b61-577987b7579f)
 
 NOTE: As of 6/30/23, the H1 of the Medication page may change to 'Medication and Supplies'. If we do make that change, we may change URLs.
-- also not, that the url is a sibling structure, but the breadcrumbs will represent a parent strucuture. 
+- also note that the url is a sibling structure, but the breadcrumbs will represent a parent strucuture. 
 
 ## <a name="url"></a>URLs and breadcrumbs
 
@@ -55,7 +55,7 @@ NOTE: As of 6/30/23, the H1 of the Medication page may change to 'Medication and
 **3) Meidcation details - NEW**
 - URL: www.va.gov/my-health/medications/[medicationID]/
 - Breadcrumb: 
-  - desktop: My HealtheVet > Medications > [H1 of page]
+  - desktop: My HealtheVet > About Medications > Medications > [H1 of page]
   - mobile: < My HealtheVet
 - Title tag: [H1] - Medications | Veterans Affairs
 - Notes: 

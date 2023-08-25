@@ -2,9 +2,7 @@
 
 ---
 
-
-- [Mural flow](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1632923531828/474bfdde942c22a0df26ad416a0b23e36b834d4a?sender=u6ad375c1c8425e5bfec67027) - OUTDATED (can't update will move to VA Mural instance)
-- [VA Mural flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1682696116933/9352d9dbbe6d6aa9a05eddcac8c82521512d9795?sender=uadf1ed7fe7c76f0914967329)
+- [VA Mural flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687376928311/303a0fbb8ffe1353eedf695ac86a6e069cd2003f?sender=uadf1ed7fe7c76f0914967329)
 - [Sketch wireflows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/DPjA4ba)
 
 --- 
@@ -161,17 +159,23 @@ Expiration date: 06/30/2024
 
 [h1] We need some information before you can start your application
 
-[p] This will help us fit the application to your specific needs. Please fill out the form below. Then we’ll take you to the VA health care application (10-10EZ).
+- [p] We need some information before you can start your application. This will help us fit your application to your specific needs.
+- [p] Then you can fill out the VA health care application (10-10EZ).
 
-[p bold] Want to skip this step?
-[a] Sign in to start your application.
+- [p bold] Sign in and save time
+- [p] You can sign in and confirm that the information we have for you is up to date and then fill out the VA health care application. 
+- [a] Sign in to start your application.
 
 [component text input label] First name (*Required)
 
+[component form text input label] Your middle name
+
 [component text input label] Last name (*Required)
 
+[component form text input label] Suffix (dropdown) Jr. Sr. II III IV
+
 [label] Date of birth (*Required)
-Month Day Year (dropdowns)
+- Month Day Year (dropdowns)
 
 [component text input label] Social Security number(*Required)
 
@@ -183,7 +187,7 @@ Month Day Year (dropdowns)
 ---
 
 
-### Page: Veteran’s Name
+### Page: Personal Information - Unauthenticated View
 
 #### URL: /health-care/apply/application/veteran-information/profile-information
 
@@ -191,50 +195,39 @@ Month Day Year (dropdowns)
 [h2] Step 1 of 6: Veteran Information
 [end progress bar]
 
-[p] You don’t have to fill in all these fields. But we can review your application faster if you provide more information.
+[p] Confirm your information before you continue.
 
-[component form text input label] Your first name (*Required)
+[read only block]
+- [p bold] Name
+- Social Security number: xxx-xx-{last 4 of SSN}
+- Date of Birth: Month day, year
 
-[component form text input label] Your middle name
-
-[component form text input label] Your last name (*Required)
-
-[component form text input label] Suffix (dropdown) Jr. Sr. II III IV
 
 [button pair] [<< Back] [Continue >>]
 
 
----
-
-### Page: Social Security number
-
-#### URL: /health-care/apply/application/veteran-information/profile-information-ssn
+### Page: Veteran's Profile - AUTHENTICATED View
 
 [component progress bar]
 [h2] Step 1 of 6: Veteran Information
+[p] We’ll save your application on every change.
 [end progress bar]
 
-[component text input label] Social Security number (*Required)
+
+[p] This is the personal information we have on file for you.
+
+[read only block]
+- [p bold] Name
+- Social Security number: xxx-xx-{last 4 of SSN}
+- Date of Birth: Month day, year
+
+[p][bold]Note:[end bold] If you need to update your personal information, call our VA benefits hotline at 800-827-1000 (TTY: 711), Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+[p] You can also call your VA medical center (find a VA location tool) to get help changing your name on file with VA. Ask for the eligibility department.
+
+
 
 [button pair] [<< Back] [Continue >>]
 
-
----
-
-### Page: Date of birth
-
-#### URL: /health-care/apply/application/veteran-information/profile-information-dob
-
-
-[component progress bar]
-[h2] Step 1 of 6: Veteran Information
-[end progress bar]
-
-[component date label] Date of birth (*Required)
-
-[dropdowns for: month, day] [ input for year]
-
-[button pair] [<< Back] [Continue >>]
 
 
 ---
@@ -592,232 +585,831 @@ Month Day Year (dropdowns)
 
 ---
 
-
-
-
-
-
-## Step 4 of 6: Household Information
-
-**Financial disclosure**
-
-Next, we’ll ask you to provide your financial information from the most recent tax year, which we’ll verify with the IRS. We use this information to figure out if you:
-
-1. Are eligible for health care even if you don’t have one of the qualifying factors
-2. Are eligible for added benefits, like reimbusement for travel costs or cost-free medications
-3. Should be charged for copays or medication
-
-_(gray box)_  **Note:** You don’t have to provide your financial information. But if you don’t have a qualifying eligibility factor, this information is the only other way for us to see if you can get VA health care benefits--including added benefits like waived copays. _(end gray box)_
-
-Qualifying factors:
-
-- Former Prisoner of War
-- Received a Purple Heart
-- Recently discharged combat Veteran
-- Discharged for a disability that resulted from your service or got worse in the line of duty
-- Getting VA service-connected disability compensation
-- Getting a VA pension
-- Receiving Medicaid benefits
-- Served in Vietnam between January 9, 1962, and May 7, 1975
-- Served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998
-- Served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987
-
-[Learn more](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits?_ga=2.33134654.1615093133.1624289581-860138168.1616615986) about our income thresholds (also called income limits) and copayments.
-
-Do you want to provide your financial information?(*Required)
-
-Yes
-
-No
-
-_(if no, gray box appears)_ If you don’t provide your financial information and you don’t have another qualifying eligibility factor, VA can’t enroll you. _(end gray box)_
-
-[<< Back] [Continue >>]
-
-_(if yes)_
-
-## Step 4 of 6: Household Information
-
-**Spouse’s information**
-
-Please fill this out to the best of your knowledge. The more accurate your responses, the faster we can process your application.
-
-Spouse’s first name (*Required)
-
-Spouse’s middle name
-
-Spouse’s last name (*Required)
-
-Suffix  _(dropdown)_ Jr. Sr. II III IV
-
-Spouse’s Social Security number (*Required)
-
-Spouse’s date of birth (*Required)
-
-Month Day Year _(dropdown)_
-
-Date of marriage (*Required)
-
-Month Day Year _(dropdown)_
-
-Did your spouse live with you last year?
-
-Yes
-
-No
-
-_(if no)_ If your spouse did not live with you last year, did you provide financial support?
-
-Yes
-
-No
-
-Do you have the same address as your spouse?(*Required)
-
-Yes
-
-No
-
-_(if no)_ **Spouse’s address and telephone number**
-
-Country(*Required) _(dropdown)_
-
-Street address(*Required)
-
-Street address line 2
-
-Street address line 3
-
-City(*Required)
-
-State (*Required) _(dropdown)_
-
-Postal code(*Required)
-
-Phone
-
-[<< Back] [Continue >>]
-
-
-## Step 4 of 6: Household Information
-Do you have any dependents to report?(*Required)
-
-Yes
-
-No
-
-_(if yes-Dependent information)_
-
-Dependent’s first name (*Required)
-
-Dependent’s middle name
-
-Dependent’s last name (*Required)
-
-Dependent’s suffix  _(dropdown)_ Jr. Sr. II III IV
-
-What’s your dependent’s relationship to you?(*Required)  _(dropdown)_ Daughter, Son, Stepson, Stepdaughter, Father, Mother, Spouse
-
-Dependent’s Social Security number (*Required)
-
-Dependent’s date of birth (*Required)
-
-Month Day Year _(dropdown)_
-
-When did they become your dependent? (*Required)
-
-Month Day Year _(dropdown)_
-
-Was your dependent permanently and totally disabled before the age of 18?(*Required)
-
-Yes
-
-No
-
-If your dependent is between 18 and 23 years of age, did they attend school during the last calendar year?
-
-Yes
-
-No
-
-Expenses your dependent paid for college, vocational rehabilitation, or training (e.g., tuition, books, materials)(*Required) $
-
-Did your dependent live with you last year?(*Required)
-
-Yes
-
-No
-
-_(if no)_
-
-If your dependent didn’t live with you last year, did you provide support? (Please count all support contributions even if they weren’t paid in regular and set amounts. Support can include tuition or medical bill payments.)
-
-Yes
-
-No
-
-[Add another Dependent] _(list loop dependent information)_
-
-[<< Back] [Continue >>]
-
-## Step 4 of 6: Household Information
-
-**Annual income**
-
-Please fill this section out to the best of your knowledge. Provide the previous calendar year’s gross annual income for you, your spouse, and your dependents.
-
-**Gross annual income:** This income is from employment only, and doesn’t include income from your farm, ranch, property, or business. When you calculate your gross annual income, include your wages, bonuses, tips, severance pay, and other accrued benefits. Include your dependent’s income information if it could have been used to pay your household expenses.
-
-**Net income:** This is the income from your farm, ranch, property, or business.
-
-**Other income:** This includes retirement and pension income; Social Security Retirement and Social Security Disability income; compensation benefits such as VA disability, unemployment, Workers, and black lung; cash gifts; interest and dividends, including tax exempt earnings and distributions from Individual Retirement Accounts (IRAs) or annuities.
-
-Veteran’s gross annual income from employment(*Required) $
-
-Veteran’s net income from your farm, ranch, property or business(*Required) $
-
-Veteran’s other income amount(*Required) $
-
-**Spouse’s income**
-
-Spouse’s gross annual income from employment(*Required) $
-
-Spouse’s net income from your farm, ranch, property or business(*Required) $
-
-Spouse’s other income amount(*Required) $
-
-**[Dependent name] income**
-
-Dependent’s gross annual income from employment(*Required) $
-
-
-Dependent’s net income from farm, ranch, property or business(*Required) $
-
-Dependent’s other income amount(*Required) $
-
-_(repeat per dependent)_
-
-[<< Back] [Continue >>]
-
-## Step 4 of 6: Household Information
-
-**Previous Calendar Year's Deductible Expenses**
-
-Tell us a bit about your expenses this past calendar year. Enter information for any expenses that apply to you.
-
-What if my expenses are higher than my annual income? _more information_
-
-We understand in some cases your expenses might be higher than your income. If your expenses exceed your income, we’ll adjust them to be equal to your income. This won’t affect your application or benefits. _end more information_
-
-Amount you or your spouse paid in non-reimbursable medical expenses this past year.(*Required) $
-
-Amount you paid in funeral or burial expenses for a deceased spouse or child this past year.(*Required) $
-
-Amount you paid for anything related to your own education (college or vocational) this past year. Do not list your dependents’ educational expenses.(*Required) $
-
-[<< Back] [Continue >>]
+**Section: Introduction/disclose financials**
 
 ---
+
+#### Page: Financial introduction page
+#### URL: health-care/apply/application/household-information-v2/financial-information-use
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+
+[p] Next we'll ask about your household financial information from 2022. We’ll ask about income and expenses for you, your spouse (if you’re married), and any dependents you may have.
+
+[h3] How we use your household financial information  
+
+[p] It’s your choice whether you want to share your financial information. Before you decide, here’s what to know about how we’ll use your financial information. 
+
+[p]{bold}   We use your financial information to determine these factors: 
+
+[ul]
+**If you’re eligible for VA health care based on your income.** You may be eligible based on factors other than your income. We call these “enhanced eligibility status” factors. If you don’t have one of these factors, we’ll use your income to decide if you’re eligible. 
+**If you’re eligible for travel pay reimbursement.** Reimbursement means we pay you back for the cost of travel to and from your VA health appointments. 
+**If you’ll need to pay a copay for non-service-connected care or prescription medicines.** This means you may need to pay a fixed amount for some types of care or medications you receive from a VA health care provider or an approved community care provider.
+
+[/end ul]
+
+[p] **Note:** We verify the financial information you provide with the Internal Revenue Service (IRS).  
+
+[component additional info]
+
+[label] Learn more about enhanced eligibility status for VA health care
+
+[content]
+
+[p] **You may qualify for enhanced eligibility status if you receive any of these benefits:**  
+
+[ul]
+- VA pension 
+- VA service-connected disability compensation 
+- Medicaid benefits
+[END ul]
+
+[p] **You may also qualify for enhanced eligibility status if you fit one of these descriptions:**
+[ul]
+- You’re a former Prisoner of War (POW)  
+- You received a Purple Heart 
+- You received a Medal of Honor  
+- You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998 
+- You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987. 
+
+[END ul]
+[End Additional Info Component]
+
+[button pair] [<< Back] [Continue >>]
+
+---
+
+
+#### Page: Financial disclosure select
+#### URL: health-care/apply/application/household-information-v2/share-financial-information
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+[component radio select]
+[label] Do you want to share your household financial information? (*Required)
+[select options]
+- Yes
+- No
+[button pair] [<< Back] [Continue >>]
+
+
+---
+
+
+
+#### Page: Financial disclosure - YES selected
+
+#### URL: health-care/apply/application/household-information-v2/financial-information-needed
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+[h3] Financial information you’ll need
+[p] We’ll ask for income information from 2022 for you, your spouse (if you’re married), and any dependents you may have.  
+[p]**Here’s what income information you’ll need to fill out this section:**
+[ul]
+- Gross annual income from work. Gross income is income before taxes and any other deductions. This includes income from a job like wages, bonuses, tips, and severance pay.  
+- Net income from a farm, property, or business. Net income is your income after taxes and deductions are subtracted. 
+- Other income you received. This includes things like retirement benefits, unemployment, VA benefit compensation, money from the sale of a house, or interest from investments.
+[END ul]
+
+[p] And we’ll ask for you or your spouse’s deductible expenses from 2022.
+
+[p] **Here’s what deductible information you can include in this section:**
+
+[ul]
+- Certain health care or education costs
+- Funeral or burial expenses for a spouse or dependent child
+[END ul]
+
+[p] These deductible expenses will lower the amount of money we count as your income.
+
+[button pair] [<< Back] [Continue >>]
+
+---
+
+
+#### Page: Financial disclosure - NO selected
+#### URL: health-care/apply/application/household-information-v2/share-financial-information-confirm
+
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+[component featured content blue background]
+[h3] Confirm that you don't want to provide your household financial information
+[p] **If you’re not eligible for VA health care based on enhanced eligibility status,** we need your financial information to decide if you’re eligible based on your income. 
+[p] **If you’re eligible based on enhanced eligibility status,** you don’t have to share your financial information for eligibility. But if you don’t share this information, we may not be able to decide if you qualify for no copays, free medications, or travel reimbursement.
+[button pair] [<< Back] [Continue >>]
+
+[END component featured content blue background]
+
+
+
+---
+
+**Section: Spouse**
+
+---
+
+#### Page: Marital status
+#### URL: health-care/apply/application/household-information-v2/marital-status
+(Note: if chose to not share financial information, this is the only other page presented in the household information section)
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+[component select]
+[label] What is your marital status? (*Required)
+
+[component additional information]
+[label] Why we ask for this information
+[content]
+[p] We want to make sure we understand your household’s financial information to better determine what health care benefits you can get. If you’re married, we also need to understand your spouse’s financial information.
+
+[END additional information component]
+
+[dropdown options]
+- Married
+- Never Married
+- Separated
+- Widowed
+- Divorced
+
+[button pair] [<< Back] [Continue >>]
+
+---
+
+
+#### Page: Spouse information
+#### URL: health-care/apply/application/household-information-v2/spouse-personal-information
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Spouse’s information
+
+[p] Fill this out to the best of your knowledge. The more accurate your responses, the faster we can process your application.
+
+[component text input label] Spouse’s first name(*Required)
+
+[component text input label] Spouse’s middle name
+
+[component text input label] Spouse’s last name(*Required)
+
+[component dropdown select] Spouse’s suffix
+[dropdown options]
+- Jr. 
+- Sr. 
+- II 
+- III 
+- IV
+
+[component text input label] Spouse’s Social Security number(*Required)
+
+[component date select] Spouse’s date of birth(*Required)
+[dropdowns for: month, day] [ input for year]
+
+[component date select] Date of marriage
+[dropdowns for: month, day] [ input for year]
+
+[button pair] [<< Back] [Continue >>]
+
+
+---
+
+
+#### Page: Spouse additional information
+#### URL: health-care/apply/application/household-information-v2/spouse-additional-information
+
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Spouse’s additional information
+
+[p] Fill this out to the best of your knowledge. The more accurate your responses, the faster we can process your application.
+
+[component additional information] 
+[label] Why we ask for this information
+
+[content] 
+[p] This information helps us determine if your spouse was your dependent in 2022.
+
+[component radio select label] Did you live with your spouse for all or part of 2022?
+[select options]
+- Yes
+- No
+
+[component radio select label] Do you currently have the same address as your spouse? (*Required)
+[select options]
+- Yes
+- No
+
+[button pair] [<< Back] [Continue >>]
+
+---
+
+
+#### Page: Spouse financial support (if NO answered on did you live with your spouse)
+#### URL: health-care/apply/application/household-information-v2/spouse-financial-support
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Spouse’s financial support
+
+[component radio select label] Did you provide financial support to your spouse in 2022 even though you didn't live together?
+
+[additional info component]
+[add info label]What we consider financial support for a spouse[end label]
+[add info content]
+[p]We consider any payments, even if they aren’t regular or the same amount, to be financial support. 
+[p bold] Financial support includes payments for these types of payments: 
+[ul]
+- Monthly spousal support 
+- One-time payment financial support
+
+[select options]
+- Yes
+- No
+
+[button pair] [<< Back] [Continue >>]
+
+---
+
+
+#### Page: Spouse address and phone number (if answered NO to same address question on additional info page)
+#### URL: health-care/apply/application/household-information-v2/spouse-contact-information
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Spouse’s address and phone number
+
+[component select label] Country(*Required)
+
+[component text input label] Street address(*Required)
+
+[component text input label] Street address line 2
+
+[component text input label] Street address line 3
+
+[component text input label] City(*Required)
+
+[component select label] State(*Required)
+
+[component text input label] Postal code(*Required)
+
+[component text input label] Phone number
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+
+
+---
+
+**Section: Dependents**
+
+---
+
+#### Page: Add dependents 
+
+#### URL: health-care/apply/application/household-information-v2/dependents
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+
+[component radio select]
+[label] Do you have any dependents to report?(*Required)
+
+[component additional information]
+[label] Who we consider a dependent
+
+[content] 
+[p] **Here’s who we consider to be a dependent:**
+
+[ul]
+- A spouse (we recognize same-sex and common law marriages) 
+- An unmarried child (including adopted children or stepchildren)
+
+[END ul]
+
+[p] **If your dependent is an unmarried child, one of these descriptions must be true:**
+
+[ul]
+- They’re under 18 years old, **or**
+- They’re between the ages of 18 and 23 years old and were attending high school, college, or vocational school full-time or part-time enrolled as a full time student in 2022, **or**
+- They're living with a permanent disability that happened before they turned 18
+
+[END ul]
+
+ [select options]
+- Yes
+- No
+
+[button pair] [<< Back] [Continue >>]
+
+----
+
+
+#### Page: Dependent’s information (selected YES to dependent question)
+
+#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Dependent’s information
+
+[component text input label] Dependent’s first name(*Required)
+
+[component text input label] Dependent’s middle name
+
+[component text input label] Dependent’s last name(*Required)
+
+[component dropdown select] Dependent’s suffix
+[dropdown options]
+- Jr. 
+- Sr. 
+- II 
+- III 
+- IV
+
+[component dropdown select] What is the dependent’s relationship to you?(*Required)
+[dropdown options]
+- Daughter 
+- Son 
+- Stepson 
+- Stepdaughter 
+- Father
+- Mother 
+- Spouse
+
+[component text input label] Dependent’s Social Security number(*Required)
+
+[component date select] Dependent’s date of birth(*Required)
+[dropdowns for: month, day] [ input for year]
+[component date select] When did they become your dependent? (*Required)
+[dropdowns for: month, day] [ input for year]
+
+[button secondary] Cancel adding dependent
+
+
+
+
+[button pair] [<< Back] [Continue >>]
+
+----
+
+#### Page: Dependent’s education expenses (Age between 18 and 23)
+
+#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] [FirstName LastName]’s education expenses
+
+
+
+[component radio select label] If your dependent is between 18 and 23 years old, were they enrolled as a  full-time or part-time student in 2022? (*Required)
+[select options]
+- Yes
+- No
+
+[component text input label] Enter the total amount of money your dependent paid for college, vocational rehabilitation, or training (like tuition, book, or supplies) (*Required)
+
+
+
+[button secondary] Cancel adding dependent
+
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+----
+
+#### Page: Dependent’s additional information 
+
+#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] [FirstName LastName]’s additional information
+
+[component radio select label] Is your dependent living with a permanent disability that happened before they turned 18 years old? (*Required)
+[select options]
+- Yes
+- No
+
+[component radio select label] Did your dependent live with you in 2022? (*Required)
+[select options]
+- Yes
+- No
+
+[component radio select label] Did your dependent earn income in 2022? (*Required)
+[select options]
+- Yes
+- No
+
+[button secondary] Cancel adding dependent
+
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+----
+
+#### Page: Dependent’s support (selected NO to dependent live with you question)
+#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
+
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Financial support for [Dependent’s first last name]
+
+[component radio select label] What we consider financial support for a dependent
+
+[component additional information]
+[label] What we consider financial support for a dependent
+[content] 
+
+[p] We consider any payments, even if they aren’t regular or the same amount, to be financial support. 
+[p bold] Financial support includes payments for these types of expenses: 
+
+[ul]
+- Tuition or medical bills 
+- Monthly child support 
+- One-time payment financial support
+
+[END additional info component]
+
+[select options]
+- Yes
+- No
+
+
+[button secondary] Cancel adding dependent
+
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+----
+
+#### Page: Dependent’s annual income (selected YES to dependent income question)
+
+#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
+
+[fieldset legend title] [First Last]’s annual income from 2022
+
+[legend title] Gross income from work
+[p] Gross income is income before taxes and any other deductions are subtracted.
+
+[additional info component]
+[add info label] What we consider gross annual income 
+[add info content]
+[p bold] Gross income includes these types of income from a job:
+[ul]
+- Wages 
+- Bonuses 
+- Tips 
+- Severance pay  
+[end additional info component]
+
+[component label text input] Enter your dependent's gross annual income from 2022 (*Required)
+
+
+[legend title] Net income from a farm, property, or business
+[p] Net income is income after any taxes and other deductions are subtracted.
+[component label text input] Enter your dependent's net annual income from a farm, property, or business from 2022 (*Required)
+
+
+
+[legend title] Other income  
+[p] Other income is additional income that doesn't come from a job.
+[additional info component]
+[add info label] What we consider other annual income 
+[add info content]
+[p bold] Other income includes things like this:
+[ul]
+- Retirement benefits
+- Unemployment
+- VA benefit compensation
+- Money from the sale of a house
+- Interest from investments.  
+
+[component label text input] Enter your dependent's other annual income from 2022 (*Required)
+
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+----
+
+[button secondary] Cancel adding dependent
+
+
+
+
+[button pair] [<< Back] [Continue >>]
+
+----
+
+#### Page: Review dependents
+
+#### URL: health-care/apply/application/household-information-v2/dependents
+
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+[fieldset legend title] Review your dependents
+
+[EXPERIMENTAL component card]
+[p]**Dependent’s first and last name**
+[p] Relationship
+
+[action link] Edit > 
+
+[EXPERIMENTAL action link] x Remove
+
+[END card]
+
+[component radio select]
+[label] Do you have another dependent to report?(*Required)
+
+[component additional information]
+[label] Who we consider a dependent
+
+[content] 
+[p] **Here’s who we consider to be a dependent:**
+
+[ul]
+- A spouse (we recognize same-sex and common law marriages) 
+- An unmarried child (including adopted children or stepchildren)
+
+[END ul]
+
+[p] **If your dependent is an unmarried child, one of these descriptions must be true:**
+
+[ul]
+- They’re under 18 years old, **or**
+- They’re between the ages of 18 and 23 years old and were attending high school, college, or vocational school full-time or part-time enrolled as a full time student in 2022, **or**
+- They're living with a permanent disability that happened before they turned 18
+
+[END ul]
+
+[select options]
+- Yes
+- No
+
+
+[button pair] [<< Back] [Continue >>]
+
+
+
+----
+
+[MODAL cancel adding]
+[component modal alert]
+
+[h3] Cancel adding this dependent?
+
+[p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added.
+
+[button primary] Yes, cancel adding
+[button secondary] No, continue adding
+
+[END MODAL]
+
+
+[REMOVE MODAL]
+[h3] Remove this dependent?
+[p] This will remove **[First Name Last Name]** and all their information from your list of dependents.
+[button primary] Yes, remove dependent
+[button secondary] No, cancel
+
+[END MODAL]
+
+
+[CANCEL EDITING MODAL]
+[h3] Cancel editing this dependent?
+[p] If you cancel editing this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents. 
+[button primary] Yes, cancel editing
+[button secondary] No, continue editing
+
+[END MODAL]
+
+
+
+---
+
+**Section: Financials**
+
+---
+
+
+#### Page: Veteran's annual income
+
+#### URL: health-care/apply/application/household-information-v2/veteran-annual-income
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+
+[fieldset legend title] Your annual income from 2022
+
+[legend title] Gross income from work
+[p] Gross income is income before taxes and any other deductions are subtracted.
+
+[additional info component]
+[add info label] What we consider gross annual income 
+[add info content]
+[p bold] Gross income includes these types of income from a job:
+[ul]
+- Wages 
+- Bonuses 
+- Tips 
+- Severance pay  
+[end additional info component]
+
+[component label text input] Enter your gross annual income from 2022 (*Required)
+
+
+[legend title] Net income from a farm, property, or business
+[p] Net income is income after any taxes and other deductions are subtracted.
+[component label text input] Enter your net annual income from a farm, property, or business from 2022 (*Required)
+
+
+
+[legend title] Other income  
+[p] Other income is additional income that doesn't come from a job.
+[additional info component]
+[add info label] What we consider other annual income 
+[add info content]
+[p bold] Other income includes things like this:
+[ul]
+- Retirement benefits
+- Unemployment
+- VA benefit compensation
+- Money from the sale of a house
+- Interest from investments.  
+
+[component label text input] Enter your other annual income from 2022 (*Required)
+
+
+
+[button pair] [<< Back] [Continue >>]
+
+----
+
+
+#### Page: Spouse’s annual income
+
+#### URL: health-care/apply/application/household-information-v2/spouse-annual-income
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+
+[fieldset legend title] Spouse's annual income from 2022
+
+[legend title] Gross income from work
+[p] Gross income is income before taxes and any other deductions are subtracted.
+[additional info component]
+[add info label] What we consider gross annual income 
+[add info content]
+[p bold] Gross income includes these types of income from a job:
+[ul]
+- Wages 
+- Bonuses 
+- Tips 
+- Severance pay  
+[end additional info component]
+
+[component label text input] Enter your spouse’s gross annual income from 2022 (*Required)
+
+
+[legend title] Net income from a farm, property, or business
+[p] Net income is income after any taxes and other deductions are subtracted.
+[component label text input] Enter your spouse’s net annual income from a farm, property, or business from 2022 (*Required)
+
+
+
+[legend title] Other income  
+[p] Other income is additional income that doesn't come from a job.
+[additional info component]
+[add info label] What we consider other annual income 
+[add info content]
+[p bold] Other income includes things like this:
+[ul]
+- Retirement benefits
+- Unemployment
+- VA benefit compensation
+- Money from the sale of a house
+- Interest from investments.  
+
+[component label text input] Enter your spouse's other annual income from 2022 (*Required)
+
+
+
+[button pair] [<< Back] [Continue >>]
+
+----
+
+#### Page: Deductible expenses
+#### URL: health-care/apply/application/household-information-v2/deductible-expenses
+
+
+[component progress bar]
+[h2] Step 4 of 6: Household financial information
+[end progress bar]
+
+
+[fieldset legend title] Deductible expenses from 2022
+
+[p] These deductible expenses will lower the amount of money we count as your income.
+
+[legend title] Non-reimbursable medical expenses
+
+[additional info component]
+[add info label] What we consider non-reimbursable medical expenses 
+[add info content]
+[p] Non-reimbursable medical expenses include costs you or your spouse (if you’re married) paid for these types of health care for yourselves, your dependents, or others you have the moral obligation to support:
+[ul]
+- Doctor or dentist appointments
+- Medications
+- Medicare or health insurance
+- Inpatient hospital care
+- Nursing home care 
+
+[p] We only consider expenses non-reimbursable if your health insurance doesn't pay you back for the cost.
+
+[end add info component]
+
+
+[component text input label] Enter the amount you or your spouse (if you’re married) paid in non-reimbursable medical expenses in 2022 (*Required)
+
+
+
+[legend title] College or vocational education expenses
+
+
+[additional info component]
+[add info label] What we consider non-reimbursable medical expenses 
+[add info content]
+[p] College and vocational expenses include payments for these expenses related to your own education: 
+[ul]
+- Tuition
+- Books 
+- Fees 
+- Course materials
+
+[p] Only include expenses for your own education (not your dependents' education).
+
+[end add info component]
+
+
+[component text input label] Enter the amount you paid for your own college or vocational education in 2022 (*Required)
+
+
+[legend title] Funeral and burial expenses for a spouse or dependent child who died 
+[p] Funeral and burial expenses are any payments made by you, like prepaid expenses.
+
+[component text input label] Enter the amount you paid for funeral or burial expenses in 2022 (*Required)
+
+
+
+[button pair] [<< Back] [Continue >>]
+
 
 
 

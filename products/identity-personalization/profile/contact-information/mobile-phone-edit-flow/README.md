@@ -1,5 +1,6 @@
-# Initiative Brief: ~Mobile Phone Edit Flow~ Editing as a Sub-Task
-06/27/2023
+# Initiative Brief: Editing as a Sub-Task
+
+**Last updated: August 15, 2023 -- added OKR/KPI info**
 
 #### Overview
 
@@ -60,14 +61,22 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 ---
 ## Measuring Success
 
-### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+### Objective #1: Streamline flow to add contact information from the Notifcations preferences page.
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-https://analytics.google.com/analytics/web/#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/
+**KPI: See a decrease in ranking for referrals to Contact information from Notification preferences.**
 
-GA of how often someone enters into the new workflow 
+- [Contact information entrance page report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fcontact-information~2F&_r.tabId=navigationsummary/)
+
+|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|-------------|---------------|-------------------|
+|Ranking of Notification preferences as an entrance page to Contact information||||
+
+**KPI: Establish baseline metrics for number of saves of the add a mobile number form.**
+
+|KPI/metric|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|-------------|---------------|
+|Number of saves of the add a mobile number form (success)|||
+|Number of saves of the add a mobile number form (failures)|||
 
 ---
 

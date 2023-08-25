@@ -1,4 +1,4 @@
-# Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, June 2023][Cohort 2]
+# DRAFT Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, August 2023][Cohort 2 - Currently Enrolled]
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -30,7 +30,7 @@ Today we're going to talk about the health care application process.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [half an hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about [an hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.** 
 - Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -38,7 +38,7 @@ Before we start, a few things I want to mention:
    - If yes: Admit observers. 
     - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
-- **Are you comfortable if I record my audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this) or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7. Knowing that, are you comfortable if I record my screen and audio as we talk today?
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
@@ -51,22 +51,16 @@ Before we start, a few things I want to mention:
 Let’s start with a few warm-up questions.
 
 - Are you currently enrolled and using health care benefits from the VA? 
-- How long have you been receiving medical care from the VA? 
-- How often do you visit a VA facility? (if answered yes)
-- Do you regularly visit VA.gov?
-- Do you receive other benefits from the VA in addition to your medical benefits?
+- How often do you visit a VA facility?
+- How often do you visit VA.gov?
 
-
-## First Topic: [Current Process] - 10 minutes
+## First Topic: [Current Application Process] - 10 minutes
 
 - Can you explain to me in your own words the process you took when you applied for benefits?
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
-- Anything that stood out to you?
 - Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
-- Was it clear to you as you were applying, what benefits you would qualify for? 
-- How would you describe the process that happened after you applied, such as the communications from the VA, things you had to do, etc.?
-- Was it clear to you how your application answers impacted your benefits?
+- How was it made clear to you as you were applying, what benefits you would qualify for? 
 - When it comes to registering and health care at the VA, what does that mean to you?
 
 
@@ -77,23 +71,50 @@ Let’s start with a few warm-up questions.
 - [What things does a Veteran talk about in regards to the term registration? VA Facilities?]
 
 
-## Second Topic: [Getting Benefits/Eligibility] - 10 minutes
+## Second Topic: [Choosing Benefits/Understanding Eligibility] - 10 minutes
 
-- How did you determine what health benefits you could get when you recently applied or were seen for care?
-- Did anyone help you figure out what you qualify for and what your benefits included?
-- What resources do you use to understand what you might qualify for?
-- Did you want to only get care for one specific health concern, or were you interested in getting full health care coverage?
+- How did you determine what health benefits you could get when you recently completed the application?
+- What resources did you use and how to understand what you might qualify for?
+- Did you want to only get care for one specific health concern, or were you interested in enrolling in full health care coverage?
 - Looking back now after you have been using health care benefits, is there anything you wish you would have known during the application?
+  
 
 ### Things to watch for:
 - [How does the Veteran descirbe the process of figuring out what they are eligble for - are they frustrated, do they find it easy, do they just expect the VA to have the data and figure it out for them?]
 - [Is there a mix or preference for wanting to be told what they get or search it out on their own?]
 - [Is there any confusion about their benefits within the health care benefits they recieve?]
-- [Do they know and mention their Priority Group during these questions?]
 
 
-## Third Topic: [Ideal State] - 10 minutes
-- Could you describe how - in a perfect world - you would **want** the health care application process to go for you? From learning what you qualify for, applying and using your benefits. 
+
+## Third Topic: [Understanding how to use benefits] - 10 minutes
+- Explain to me in your own words what you get with your VA health care benefits?
+- What help or resources did you rely on to help you figure this all out?
+- Can you tell me more about what Priority Group you are in for your health care benefits now?
+
+[If aware of Priority Groups]
+- Can you please describe how this was communicated to you and how you understood the impact to you and your benefits?
+- Before you completed enrollment, how were you aware of Priority Groups or copays as part of the health care benefits package?
+- [if yes] Can you tell me more about what you knew before you applied and how you learned that information?
+- Since you have been using your benefits, what have you learned about Priority Groups and the impact it has on you and health care benefits that you wish you knew during the application?
+
+[If NOT aware of Priority Groups, ask question and skip to fourth topic]
+- What do you think Priority Groups are? There is no right or wrong answer here, just explain your understanding of what you think it could be and how that is important to health care benefits. 
+
+
+### Things to watch for:
+- [How do Veterans describe their awareness of benefits? Confident, unsure, frustrated?]
+- [Do Veterans consistently rely on word of mouth or a variety of in person resources to understand their health care benefits?]
+- [Do Veterans' confidently know their Priority Group and what that means to them and their benefits?]
+- [What is the current process and experience around Priority Groups?]
+- [What are the knowledge gaps around Priority Groups and health care costs?]
+- [What things would Veterans like to see or like to change in regards to Priority Groups?]
+
+
+
+
+## Fourth Topic: [Ideal State] - 10 minutes
+- Could you describe how - in a perfect world - you would **want** the health care application process to go for you in regards to learning about benefit options and what you qualify for?
+- How would you want to learn about how to use your benefits that you are eligible for?
 - What tools, communication, people could make this the best process possible in your mind?
 - How would you like to discover what options you have to get the level of care that is right for you?
 - What information would be important to you so you feel confident when having to choose between health care benefit options?
@@ -106,9 +127,30 @@ Let’s start with a few warm-up questions.
 - [What do they mention or call out as information that is helpful in making decisions about health care benefit choices?]
 
 
+
+
+## Fifth Topic: [Current paper instructions] - 10 minutes
+- For this next topic, I am going to share my screen and show you an example of instructions that appear on the health care benefits application.
+- Can you explain to me in your own words, what these options mean and how they are different?
+- Which one would you select and can you explain to me your thinking behind that?
+- Is there anything about these instructions that you find confusing or need more explanation before you could answer?
+
+
+- [Link to Mural board for example](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690928150976/0ce17c5b63ed3a2fd75736ac481d2d6e31fd927b?sender=uadf1ed7fe7c76f0914967329)
+
+- Now that you have seen an example of choosing benefit options, would you change anything about your ideal state we just talked about right before this?
+  
+
+### Things to watch for:
+- [What are the scenarios or examples given to why registration would be the preferred choice?]
+- [Is selecting both options a common answer?]
+- [What words and terms to participants use when they are explaining the differences?]
+- [Is there often confusion to what to choose and what that means to them and their health care benefits?]
+
+
+
 ## Post-Task Interview - 5 minutes
 
-- Out of the 2 scenarios that were talked through with you, what one would you prefer out of those and why?
 - Is there anything else you would like to add about what we talked about today?
 - Any questions for me? 
 

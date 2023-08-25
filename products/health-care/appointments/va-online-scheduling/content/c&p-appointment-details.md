@@ -1,4 +1,4 @@
-### Compensation & Pension Booked-Future
+### Claim Exam Booked - Upcoming
 
 **FORM TITLE**
 
@@ -17,8 +17,8 @@ none
 **PAGE CONTENT**
 
 ```
-{serviceCategory} Compensation and pension exam
-This appointment is for rating purposes only and will not include treatment. If you have any medical evidence to support your claim, please bring copies to your exam.
+{serviceCategory} Claim exam
+This appointment is for disability rating purposes only. It doesn't include treatment. If you have medical evidence to support your claim, bring copies to this appointment.
 
 {Facility name}
 {Facility address}
@@ -66,7 +66,7 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
-{serviceCategory} Compensation and pension exam
+{serviceCategory} Claim exam
 
 {Facility name}
 {Facility address}
@@ -106,7 +106,7 @@ n/a
 **PAGE CONTENT**
 
 ```
-{serviceCategory} Compensation and pension exam
+{serviceCategory} Claim exam
 
 {Facility name}
 {Facility address}

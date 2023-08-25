@@ -6,16 +6,16 @@
 - [Recruitment diversity checker spreadsheet](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1367041690)
 
 
-## Planned timeline
+## Timeline
 
 | Stage | Dates |
 | --- | --- |
-| Planning | Complete by April 14 |
-| Recruiting | April 19 - 21 |
-| Pilot | April 21 |
-| Sessions | April 26 - May 5 |
-| Analysis | May |
-| Socialize findings | May/June |
+| Planning | Complete by April 14, 2023|
+| Recruiting | April 19 - 21, 2023 |
+| Pilot | April 21, 2023 |
+| Sessions | April 26 - May 5, 2023 |
+| Analysis | May 2023|
+| Socialize findings | May/June 2023|
 
 ## Background
 
@@ -23,10 +23,10 @@ There are currently multiple ways to sign in and access VA services. These Crede
 
 This research will consider terms anad phrases that will help us better speak to veterans about the migration. We're seeking ways to encourage Veterans to migrate to a modern CSP on their own, proactively, even prior to any announcement about sunsetting legacy credentials.
 
-This study is part of a body of research work that is taking place across multiple Identity teams
+This study is part of a body of research work that is taking place across multiple Identity teams, including 
 
-- See also [LGA team's pre-work related to this research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-03-Organic-Adoption-Messaging-Usability)
 - See also [LGA team's research overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research)
+- [Product brief (from the Login.gov Adoption Idenety team)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/login.gov)
 
 ## Research goals
 

@@ -56,10 +56,11 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 
 #### [Pre-Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/README.md#pre-check-in)
 
+[Update product guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/update-product-guides.md)
 ### Production Wireframes in VA Sketch Cloud
-- [In person Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/BE60720E-7D9D-46BD-AF86-6332C23E7D8B) in Sketch Cloud
-- [In person Check-in](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/9F9F9F9F-E205-4F5E-9177-DD4AD750828C) in Sketch Cloud
-- [Telephone Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/407FA16E-4716-43C8-8898-B25F96F61001) in Sketch Cloud
+- [In person Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/D830D75A-3B87-4A5F-9EAF-622D2913AF5D) in Sketch Cloud
+- [In person Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/F5EF96F6-7B82-4D03-95F5-7DAB610B8617) in Sketch Cloud
+- [Telephone Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/EA3E9DDA-30E8-47AB-8335-C31F3A0AFB5C) in Sketch Cloud
 
 ## Launch Strategy
 - Limited availability release to St. Louis in early 2022
@@ -80,7 +81,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
      - Veteran loads the eCheck-in application and verifies their identity by entering their Last Name and date of birth
      - Veteran selects the appointment for which they want to check in and checks-in
      - Once check-in is complete, the VA facility will be notified that the Veteran has checked in 
-- Applies to: In-person appoiuntments only
+- Applies to: In-person appointments only
 
 #### [Pre-check-in MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/iniative-phase-2.md)
 - Status: Released on 5/2/2022
@@ -92,7 +93,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
      - Veteran reviewes their contact, emergency contact, and next-of-kin information and indicates if the information is correct or needs to be updated
      - Once pre-check-in is complete, the VA facility will be notified as to whether the Veteran will need to update their information at the time of their appointment
      - If the Veteran needs to update their information, they are directed to check-in with a staff member at the time of their appointment
-- Applies to: In-person and phone appoiuntments only
+- Applies to: In-person and phone appointments only
 
 #### Support for Phone Appointments
  - Status: Released

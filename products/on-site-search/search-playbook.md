@@ -20,10 +20,21 @@ The help manual can be found [here](http://search.digitalgov.gov/manual/).
 - "Best Bets" is a way to boost content on the va.gov site.  More information can be found on [this site](https://search.gov/manual/best-bets.html). Best Bets are added on the search.gov portal which requires approval to access. If a best bet needs to be added or changed reach out to the search.gov team at search@gsa.gov or contact Danielle Thierry on the VA Content team.
 
 ## Getting Access
-In order to get access to the search.gov console, you have to have a log in and be approved. This process is best accomplished by emailing search@gsa.gov.  When you do so, be sure to CC your PO as part of the process, as they track VA approval for all credentialed accounts they distribute.
+In order to get access to the search.gov console, you have to have a log in and be approved. 
+
+* Visit search.gov
+* Select Login
+* You'll be redirected to a Login.gov authentication screen.
+    * If you are not set up for Login.gov, do that. ([help docs](https://www.login.gov/help/get-started/create-your-account/))
+    * For search.gov, you will need to use a .gov email address, or associate your .gov email address with your existing Login.gov account. (If you try to use your agency email address, you may receive a response like this: "Because you don't have a .gov or .mil email address, we need additional information. If you are a contractor on an active contract, please use your .gov or .mil email address on this account, or have your federal POC email search@gsa.gov to confirm your status.`)
+* Login at Login.gov using your .gov email address
+* Provide your PIV keycode when prompted
+* You should be logged in.
+* If not: contact search@gsa.gov for help and CC your PO as part of the process, as they track VA approval for all credentialed accounts they distribute.
 
 ## In Case of Issues
 - The primary contact point for any search related issues is going to be search.gov. Their primary mode of contact is email: search@gsa.gov
+- In case of load testing or VA.gov incidents that might hit the Search.gov rate limit, we can/should forwarn the Search.gov customer experience team: search-cx@gsa.gov
 
 ### FE issues
 In the event of a front end issue with search, all of the front end code can be found in the following locations:

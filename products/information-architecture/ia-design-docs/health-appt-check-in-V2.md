@@ -38,6 +38,10 @@
 **Page** | **URL** | **Breadcrumb** | **Description**
 --- | --- | --- | ---
 
+Note: If you come back to us with all of the pages in the flow, we can help you create url slugs. Otherwise, here is the [guidance on how to create them yourself](https://design.va.gov/content-style-guide/url-standards). The TL;DR is Each one should be 1-2 words max, and have keywords from the H1s.
+
+If you want to create the urls yourself (recommended so you are super familiar with them), we're happy to review them.
+
 Here are some ideas:
 ![URls for checkin pages](https://user-images.githubusercontent.com/122126772/236068081-01963860-0d09-4250-b131-edc2bd9935f3.png)
 
@@ -47,10 +51,10 @@ Here are some ideas:
 The text message from VEText is the only entry point to this demographics and checkin workflow.
 
 
-
-
 ## <a name="redirects"></a>Redirects <br>
-Do we need to redirect from current checkin experience to new ones? I don't think so since each url is unique from the text message?
+We don't think we need to implement redirects at this time, but double-check with your devs that that makes sense to them!
+
+Question for Ben: What happens today when a user clicks on an old/expired link?
 
 
 <hr>

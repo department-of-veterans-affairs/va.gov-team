@@ -17,7 +17,7 @@
 ### Contacts: ###
 Area | Name 
 ------ | ------
-VA PO | Chris Johnston
+VA PO | Rachel Han, Ryan Thurwell
 Ad Hoc | Group Product Manager - Matt Hall
 Slack Channel  | #va-mobile-app
 
@@ -31,7 +31,7 @@ Slack Channel  | #va-mobile-app
  5.    Enter the Password and click demo button
  6.    Screen is updated with a Demo Mode bar on the home screen
  7.    Click Sign In button 
- 8.    Demo user is not at the home page of the mobile app and can explore 
+ 8.    Demo user is now at the home page of the mobile app and can explore 
 
 
 

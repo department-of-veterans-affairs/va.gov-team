@@ -6,6 +6,8 @@
 
 - **GitHub Label**: vsa-authenticated-exp; my-va-dashboard
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+- **MVP Epic [#43337](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43337)**
+- **Payment info v2 Epic [#43332](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43332)**
 
 ### Roles
 
@@ -134,6 +136,8 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 ### MVP: Adding payments and debts to My VA (October 2021 - May 2022)
 
 <details>  <summary>MVP</summary>  
+
+#### MVP Epic [#43337](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43337)
  
 #### Problems
 
@@ -253,6 +257,8 @@ A security vulnerability is unlikely due to the 2-factor authentication required
 
 <details>  <summary>V2</summary>  
  
+#### Payment info v2 Epic [#43332](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43337)
+
 #### Problems 
  
 - In the V1 of benefit payments and debts, it's hard to differentiate between payment info and debt info.

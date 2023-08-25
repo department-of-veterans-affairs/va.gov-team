@@ -1,5 +1,9 @@
 # Decision log - Income Limits app
 
+## Will not phase roll-out
+
+- We decided internally not to phase the roll-out, as the app is replacing missing functionality and it's relatively low-risk.
+
 ## Engineering decisions during implementation phase
 
 - Special case where GMT < NMT (i.e., low cost-of-living counties) – In ticket [13590](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13590), we decided that the API should always return NMT and GMT and let consuming products decide how/whether to display thresholds in this special case. (The Income Limits app will not display GMT in that case.)

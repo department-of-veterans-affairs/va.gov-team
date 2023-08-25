@@ -1,10 +1,11 @@
 # IA Design for Form 21-0966
-**STATUS: Complete**
+**STATUS: Completed**
 
 #### Edit history
 - 5/16/23 - Created (JM)
 - 6/29/23 - Edits (JM)
 - 6/30/23 - updated status (JM)
+- 7/12/23 - Edits (JM)
 
 **Team:** Veteran Facing Forms
 
@@ -36,7 +37,7 @@ The form will live under the new parent page for supporting forms. Sitemap has a
 **1) H1 of page - New**
 - URL: URL: www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966
 - Breadcrumb: VA.gov home > Supporting forms for VA claims > H1 of form page
-- Notes:
+- Notes: Subsequent pages will add on to the above URL using short and simple labels, i.e. .../introduction/. We can provide further guidance on these additions if needed.
 
 
 ## <a name="nav"></a>Entry points <br>

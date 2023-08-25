@@ -1,9 +1,9 @@
-## Veteran Identification Card (VIC)
+# Product Brief - Digital veteran card 
 
 
 ## Sprint 0
 
-### Problem Statement
+## Problem Statement
 There are a variety of situations in which Veterans need to prove their Veteran status in order to receive a particular benefit (having [a way to prove Veteran status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#though-they-may-not-need-their-dd214-in-all-cases-to-apply-for-va-benefits-having-a-copy-of-it-facilitates-the-benefit-application-process-and-helps-veterans-access-non-va-privileges-memberships-and-discounts) helps Veterans access non-VA privileges, memberships, and discounts). Veterans would benefit from an easy-to-access official Veteran ID card to use in these contexts. Because there is currently no simple way to attain an ID like this, a widely accepted Veteran ID within the mobile app could prove a very useful feature for Veterans and greatly increase usage of the app.
 
 From VA.gov: 
@@ -17,15 +17,18 @@ While VIC card is not currently present in the VA Mobile app, Veterans occasiona
 #### Outside the app:
 Currently,the processes for acquiring a VIC card are cumbersome and long and not well known by Veterans. 
 
-**Getting a VIC**(From [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)):
+##### Getting a VIC
+(From [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)):
 - Step 1: Veteran applies for VIC card (requires doing the following: Fill out form (digital or paper), upload or print a photo to attach to form. Requires SSN, a digital copy of their DD214, DD256, DD257, or NGB22, a copy of a current and valid government-issued ID.
 - Step 2: Application is received, reviewed and the photo must be approved (exactly how long does this take?)
 - Step 3: Veteran receives an email letting them know status of application. They may be asked for additional info or evidence.
 - Step 4: If eligible, Veteran receives digital VIC card (pdf) in an email.
 - Step 5: Veteran must print the digital VIC card (pdf) in order to use it (this cost is covered by the Veteran).
 
-**Using a VIC:**
-- Veteran needs to remember to have VIC card with them when it's needed to prove Veteran status.
+##### Using a VIC:
+- Step 1: The Veteran is in a physical context where they need to prove their Veteran status in order to receive a Veteran discount or benefit (like paying at a restaurant or checkout in a store). The store does not have their own method for indicating Veteran status and the Veteran does not have any of the [other forms of ID that are currently accepted and used to get discounts](https://www.va.gov/records/get-veteran-id-cards/vic/) to prove their status.
+- Step 2: The Veteran shows the store their VIC card to prove their status (* *needs to remember to have VIC card with them*).
+- Step 3: The Veteran receives the desired benefit.
 
 
 ### Notes:
@@ -48,17 +51,22 @@ Currently,the processes for acquiring a VIC card are cumbersome and long and not
   * The VIC law is prescriptive and doesn’t include funding so Veterans need to pay to print the card which is not worth it.
   * The photo is the hardest part, needs to be approved and holds up the process.  The photo is part of the law.  We may be able to bypass that if we do something that isn’t technically the VIC but serves the same purpose but could be automated.
   * There is an ID # on the card
+  * VA and non VA health systems interested in leveraging a veteran status proof in mobile app. sample use cases in non-VA health systems:
+  	* veteran shows up at non VA ER in acute suicidal crisis. VA will cover the cost of that care - regardless of whether veteran is enrolled in VA health care. Health system knowing that this person is a veteran allows them to get treated and reimbursed
+     	* Veteran gets care at private health system may be eligible for care under PACT act. If system knows they are a veteran, they can make other HIPAA covered clinical calls to help support veteran care.
 
 ### Pain Points
 * Acquiring a VIC is time consuming
 * Veterans need to pay to print the card
 * Veterans need to remember to have VIC (or some other form of accepted Veteran ID) with them to receive benefits
 
-### Assumptions and Level of Confidence
-TBD
 
+## Assumptions and Level of Confidence
+* A significant number of Veterans are in situations where they don't *already* have a way to prove their Veteran status (ex:[one of several other forms of accepted ID](https://www.va.gov/records/get-veteran-id-cards/vic/), a store-controlled Veteran registration system).
+* A Veteran Status card displayed on a phone/in the VA mobile app will be accepted by 3rd parties as official proof of Veteran status.
+* There will be marketing support for the new Veteran status card (to drive new app downloads).
 
-### Risks
+## Risks
 1. Creating a ‘competitor’ to the VIC could anger certain stakeholders (?) 
     1. Need to ensure creating an ID card that is not technically the VIC does not interfere with the VIC law
 2. Surfacing current VIC may not be technically possible and the owning group may not have interest in working with us
@@ -66,7 +74,7 @@ TBD
 4. We don't currently coordinate with VA comms team when we launch features.
 5. There are [several other forms of ID that are currently accepted and used to get discounts](https://www.va.gov/records/get-veteran-id-cards/vic/)(Veteran Health Identification Card (VHIC), Department of Defense (DoD) Identification Card—either a Common Access Card (CAC) or Uniformed Services ID Card, or a state-issued driver’s license or ID with a Veterans designation), and Veterans may find it easier to use those instead.
 
-### Business Goals
+## Business Goals
 - Increase app downloads overall
   - Bring users into the app that do not use VA Health
 - Increase overall number of app active users
@@ -77,14 +85,14 @@ TBD
 
 
 
-### Roadmap
+## Roadmap
 
 #### V1
 * 
 #### V2 and beyond**
 * 
 
-### Technical Approach
+## Technical Approach
 * Unique identifier?
 * Discharge status API
    * [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) has this data
@@ -92,13 +100,13 @@ TBD
 * ID needs to be available offline
 * Must have non-dishonarable discharge
    * [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) has this data
+   * so does this API https://developer.va.gov/explore/api/veteran-confirmation
 
-### Measuring success
-#### Usefulness of VIC:
-* Track number/% of Users that access the ID in the app
-* Track number/% of users that regularly access the ID in the app over time
-* OS Wallet metrics for how often IDs in the Wallets are accessed?  
-   * Location of where/when it is accessed in wallet?
+## Measuring success
+#### feature engagement:
+* Track number of unique users that access the card in app
+* Track number events, number of times the card is accessed in app
+* if/when applicable, OS Wallet metrics for engagement  
 #### Impact of launching VIC:
 * An increase in app downloads that correlates with the launch of VIC card
 * An increase in the overall number of active app users
@@ -108,14 +116,14 @@ TBD
 * Requests for ability to provide proof of service decreases in [need to understand where these requests are happening now]
    
 
-### Stakeholders
+## Stakeholders
 * Melisa Rebstock (VEO)
 * Joe Valentine (with Angela Gant-Curtis) - Technical contact for VIC
 * Molly Burlage - VIC Lead
 * John Lundy - division cheif VEO
 
 
-### Potential Solutions
+## Potential Solutions
 1. Surface official VIC within the app
    1. Could work to make request process smoother, including submitting a photo
    2. This would involve working with a VA group that may not have APIs to support what we need.  We may need to help build them ourselves.
@@ -137,7 +145,7 @@ TBD
 
 
 
-### Open Questions
+## Open Questions
 **Questions for existing VIC:**
 * Is there an API to find which Veterans have a VIC?
   * Answer from VIC team: There isn't, but, "this should be possible" 
@@ -173,12 +181,13 @@ TBD
 * Are there any other VA cards we could add to the OS Mobile Wallet?  VHA card, etc.?
     * Vaccine ‘card’?
 
-### Important Links
+## Important Links
 - Google Wallet: [Google Wallet](https://wallet.google/#identity)
 - iOS Wallet: [IDs in Wallet](https://learn.wallet.apple/id)
 - [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)
 - [H.R.91 - 114th Congress (2015-2016): Veterans Identification Card Act 2015](https://www.congress.gov/bill/114th-congress/house-bill/91) 
 - [Military Info, Profile Research Findings - Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience - 03/20203](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#military-info-profile-research-findings)
+- [List of current approved forms of Veteran ID card](https://www.va.gov/records/get-veteran-id-cards/)
 
 
 ### Notes from VIC Meeting
@@ -208,7 +217,7 @@ Increase active user base
 * With internet connectivity,
 * As an authenticated user,
 * Using the VA Flagship mobile app,
-* Can discover and create a VSC
+* Can discover and create/view a card
 
 ### Acceptance criteria
 * Signs into app
@@ -220,7 +229,7 @@ Increase active user base
    	* Date of birth
    	* VA logo
    	* Branch of military
-	* Dates of service
+	* Dates of service (If there were multiple service periods, choose status quo of current experience in mobile/web/va-profile)
 * Upon review of card information, sees info on how to revise data if needed
 * VA can add info to this card in the future if a veteran becomes eligible to access x benefit (e.g. health service)
 

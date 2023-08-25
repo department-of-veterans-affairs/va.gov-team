@@ -6,14 +6,17 @@ body:
   - type: markdown
     attributes:
       value: |
+        :warning: **_Prerequisites_**  
+
+        Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
+        
         :wave: **_Instructions_**
-        1. Before being granted access, the individual for whom access is requested (the 'target individual') must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
-        2. Change the **Title** to include target individual
-        3. Add the label used by the target individual's team (eg: `BAH-526`)
-        4. Do not remove any of the existing labels.
-        5. Enter required fields and select environments you need access to.
-        6. If Production access is required, please use the respective section to provide proof of E-QIP transmittal. If you have not started the E-QIP process, do not submit this ticket. Ask your Vendor Onboarding Representative to confirm.
-        7. Fill in "Additional Notes" with any information requested by the other steps.
+        1. Change the **Title** to include target individual
+        1. Add the label used by the target individual's team (eg: `BAH-526`)
+        1. Do not remove any of the existing labels.
+        1. Complete required fields and select environments you need access to.
+        1. If Production access is required, please  If you have not started the E-QIP process, do NOT submit this ticket. 
+        1. Fill in "Additional Notes" with any information requested by the other steps.
   - type: input
     id: requestor-name
     attributes:
@@ -23,7 +26,7 @@ body:
     validations:
       required: true
   - type: input
-    id: email
+    id: gh-handle
     attributes:
       label: Your GitHub handle (Sidekiq Admin UI access is managed through GitHub)
       description: Please provide the work GitHub handle of the target individual
@@ -66,12 +69,10 @@ body:
   - type: checkboxes
     attributes:
       label: Please confirm if you are on the VFS Team Roster or Platform Team Roster
-      description: If you are on neither, close this request and reach out to your Product Manager to be added
+      description: If you are on neither, please refer to the **Prerequisites** section at the top, and close this request until complete
       options:
         - label: "[VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
         - label: "[Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
-    validations:
-      required: true
   - type: checkboxes
     attributes:
       label: Sidekiq UI Access requested for the following environments

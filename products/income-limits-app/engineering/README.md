@@ -10,6 +10,7 @@ Where it's documented:
 - This [Mural](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1683232214853?sender=uebde62ceb342c6477fb09406&key=71389d5d-cc99-471d-bcaf-2bcc34aaaedb) in the VA Mural account (Public Websites Room > Income Limits folder) has 
   - How to calculate fields
   - Which fields map to the values the front-end displays
+- A PDF of the above mural (downloaded 8/4/23) is available in this github folder [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/engineering/Income%20Limits%20API%20logic%20and%20data_2023-08-04%20(MVP).pdf).
 
 ## Overview
 - Income is one aspect that determine's a Veteran's eligibility for benefits from VA. An existing application allows Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents.

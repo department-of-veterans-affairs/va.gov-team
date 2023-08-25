@@ -88,7 +88,16 @@
 | 86 | [My HealtheVet on VA.gov: What to know](https://www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates) | Health care | 3/21/23
 | 87 | [Presumptive cancers related to burn pit exposure](https://www.va.gov/resources/presumptive-cancers-related-to-burn-pit-exposure) | Health care | 3/27/23
 | 88 | [How to report the death of a Veteran to VA](https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va) | Other topics and questions | 3/27/23
-| 89 | [Copay exemptions for American Indian and Alaska Native Veterans]([https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va](https://www.va.gov/resources/copay-exemptions-for-american-indian-and-alaska-native-veterans/) | Health care | 4/3/23
+| 89 | [Copay exemptions for American Indian and Alaska Native Veterans](https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va) | Health care | 4/3/23
 | 90 |[Decision reviews FAQs](https://www.va.gov/resources/decision-reviews-faqs) | Decision reviews           | 4/20/23
 | 91 |[VA’s duty to assist](https://www.va.gov/resources/vas-duty-to-assist) | Decision reviews           | 4/20/23
 | 92 | [Compare VA education benefits](https://www.va.gov/resources/compare-va-education-benefits) | Education | 6/16/23
+| 93 | [About our VA community care network and covered services](https://www.va.gov/resources/about-our-va-community-care-network-and-covered-services/) | Health care | 7/6/23
+| 94 | [Eligibility for community care outside VA](https://www.va.gov/resources/eligibility-for-community-care-outside-va/) | Health care | 7/6/23
+| 95 | [How to get community care referrals and schedule appointments](https://www.va.gov/resources/how-to-get-community-care-referrals-and-schedule-appointments) | Health care | 7/6/23
+| 96 | [Getting urgent care at VA or in-network community providers](https://www.va.gov/resources/getting-urgent-care-at-va-or-in-network-community-providers) | Health care | 7/6/23
+| 97 | [Reimbursement of non-VA prescriptions or medical expenses](https://www.va.gov/resources/reimbursement-of-non-va-prescriptions-or-medical-expenses) | Health care | 7/6/23
+| 98 | [Does VA cover Indian Health Service or Tribal Health Programs care?](https://www.va.gov/resources/does-va-cover-indian-health-service-or-tribal-health-programs-care) | Health care | 7/6/23
+| 99 | [Getting emergency care at non-VA facilities](https://www.va.gov/resources/getting-emergency-care-at-non-va-facilities) | Health care | 7/6/23
+| 100 | [Military sexual trauma and disability compensation](https://www.va.gov/resources/military-sexual-trauma-and-disability-compensation/) | Health care | 8/15/23
+

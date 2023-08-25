@@ -36,7 +36,7 @@ Search "best bets" are implemented in Search.gov by the IA team and consist of t
 4. For pages that are live on the site, update the URL, title, and/or the description directly in Search.gov.
    - If the current metadescription is over the 255 character max, coordinate with the Content team to review and provide feedback on how it could be shortened to fit the character limits.
 5. Review any relevant research, if applicable
-6. Validate any current keywords against [IA and implementation guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/information-architecture/process#ia-and-implementation)
+6. Validate any current keywords against [IA and implementation guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/search-best-bets-process.md#ia-and-implementation)
 7. Review any additional keywords that have been requested or that should be added to Search.gov
 8. Use metric tools to evaluate performance and inform keywords list
 9. Follow up in original request ticket with findings and recommendations

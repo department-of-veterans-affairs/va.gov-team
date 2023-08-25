@@ -980,7 +980,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 {end dynamic content}
 
-### Page Title: Upload your supporting documents {h3 heading with h5 styling}
+### Page Title: Upload supporting documents {h3 heading with h5 styling}
 
 If you have supporting documents readily available, you can upload them to help us make a determination. If you don’t have service documents, you can still apply and we’ll request the service documents for you. 
 You can scan your documents onto the device you’re using to submit this application, such as your computer, tablet, or mobile phone. You can upload your document from there. 
@@ -1063,7 +1063,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 {end dynamic content}
 
-### Page Title: Upload your supporting documents {h3 heading with h5 styling}
+### Page Title: Upload supporting documents {h3 heading with h5 styling}
 
 If you have supporting documents readily available, you can upload them to help us make a determination. If you don’t have service documents, you can still apply and we’ll request the service documents for you. 
 You can scan your documents onto the device you’re using to submit this application, such as your computer, tablet, or mobile phone. You can upload your document from there. 

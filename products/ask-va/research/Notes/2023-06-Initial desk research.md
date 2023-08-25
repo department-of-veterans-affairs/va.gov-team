@@ -2,30 +2,30 @@
 Last updated by @tygindraux on June 9, 2023
 
 ## Jump to
-[List of studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#list-of-studies)
-<br>[Details of studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#details-of-studies)
-<br>[Key takeaways](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#key-takeaways)
+[List of studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#list-of-studies)
+<br>[Details of studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#details-of-studies)
+<br>[Key takeaways](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#key-takeaways)
 
 ## List of studies
-1. [Profile Notification Settings, Add Email Channel - January 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#1-profile-notification-settings-add-email-channel)
-2. [Disabled Veteran Accessibility Feedback - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#2-disabled-veteran-accessibility-feedback)
-3. [MCT Chatbot as AVA Front Door - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#3-mct-chatbot-as-ava-front-door)
-4. [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#4-mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
-5. [Profile Editing Evaluation - September 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#5-profile-editing-evaluation)
-6. [Chatbot Feature Prioritization - August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#6-chatbot-feature-prioritization)
-7. [MCT Omnichannel Experience: Co-Design Phase II - June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#7-mct-omnichannel-experience-co-design-phase-ii)
-8. [VA Orchid, Virtual Agent Chatbot - June 14, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#8-va-orchid-virtual-agent-chatbot)
-9. [MCT VHA Virtual Agent Research - June 24, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#9-mct-vha-virtual-agent-research)
-10. [MCT Omnichannel Experience: Co-Design - March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#10-mct-omnichannel-experience-co-design)
-11. [Virtual Agent Authentication Usability Test - March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#11-virtual-agent-authentication-usability-test)
-12. [VSP, Ask VA - Business, Personal Tabs (IRIS) - January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#12-vsp-ask-va---business-personal-tabs-iris)
-13. [Needs of Spanish Speaking Veterans for the Virtual Agent - January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#13-needs-of-spanish-speaking-veterans-for-the-virtual-agent)
-14. [MCT Virtual Agent Facilities Conversational Design - January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#14-mct-virtual-agent-facilities-conversational-design)
-15. [Virtual Agent Automated Content and Claims Feature Usability Testing - Nov 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#15-virtual-agent-automated-content-and-claims-feature-usability-testing)
-16. [VSP, Ask VA (IRIS) - July 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#16-vsp-ask-va-iris)
-17. [Virtual Agent Inclusive Design interviews - June 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#17-virtual-agent-inclusive-design-interviews)
-18. [VSP, Ask VA (IRIS) - April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#18-vsp-ask-va-iris)
-19. [VA.gov Relaunch - 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Initial%20desk%20research%20of%20previous%20VA%20studies.md#19-vagov-relaunch-involved-multiple-studies)
+1. [Profile Notification Settings, Add Email Channel - January 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#1-profile-notification-settings-add-email-channel)
+2. [Disabled Veteran Accessibility Feedback - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#2-disabled-veteran-accessibility-feedback)
+3. [MCT Chatbot as AVA Front Door - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#3-mct-chatbot-as-ava-front-door)
+4. [MCT Virtual Agent Chatbot Login.Gov and ID.me Moderated Interviews - Dec 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#4-mct-virtual-agent-chatbot-logingov-and-idme-moderated-interviews)
+5. [Profile Editing Evaluation - September 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#5-profile-editing-evaluation)
+6. [Chatbot Feature Prioritization - August 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#6-chatbot-feature-prioritization)
+7. [MCT Omnichannel Experience: Co-Design Phase II - June 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#7-mct-omnichannel-experience-co-design-phase-ii)
+8. [VA Orchid, Virtual Agent Chatbot - June 14, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#8-va-orchid-virtual-agent-chatbot)
+9. [MCT VHA Virtual Agent Research - June 24, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#9-mct-vha-virtual-agent-research)
+10. [MCT Omnichannel Experience: Co-Design - March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#10-mct-omnichannel-experience-co-design)
+11. [Virtual Agent Authentication Usability Test - March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#11-virtual-agent-authentication-usability-test)
+12. [VSP, Ask VA - Business, Personal Tabs (IRIS) - January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#12-vsp-ask-va---business-personal-tabs-iris)
+13. [Needs of Spanish Speaking Veterans for the Virtual Agent - January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#13-needs-of-spanish-speaking-veterans-for-the-virtual-agent)
+14. [MCT Virtual Agent Facilities Conversational Design - January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#14-mct-virtual-agent-facilities-conversational-design)
+15. [Virtual Agent Automated Content and Claims Feature Usability Testing - Nov 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#15-virtual-agent-automated-content-and-claims-feature-usability-testing)
+16. [VSP, Ask VA (IRIS) - July 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#16-vsp-ask-va-iris)
+17. [Virtual Agent Inclusive Design interviews - June 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#17-virtual-agent-inclusive-design-interviews)
+18. [VSP, Ask VA (IRIS) - April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#18-vsp-ask-va-iris)
+19. [VA.gov Relaunch - 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/2023-06-Initial%20desk%20research.md#19-vagov-relaunch-involved-multiple-studies)
 
 ## Details of studies
 
@@ -620,21 +620,21 @@ Unable to access.
 * Is “plain language” utilized throughout the entirety of the AVA application?
 #### Findings
 * Form findability
- * 4 out of 7 users were able to find a link to ask a question, though the experience was often roundabout and confusing
- * Only 3 participants went straight to the Contact us page
- * Even if users navigate to the Contact us page, it's not guaranteed that they'll find the Ask a question links
- * 2 participants on the Contact us page clicked on the Research and support button and didn't find a link to ask a question
- * If users are seeking to ask a question about a specific topic, they are more likely to navigate to tertiary pages regarding that subject. These pages rarely contain links to asking a question.
+  * 4 out of 7 users were able to find a link to ask a question, though the experience was often roundabout and confusing
+  * Only 3 participants went straight to the Contact us page
+  * Even if users navigate to the Contact us page, it's not guaranteed that they'll find the Ask a question links
+  * 2 participants on the Contact us page clicked on the Research and support button and didn't find a link to ask a question
+  * If users are seeking to ask a question about a specific topic, they are more likely to navigate to tertiary pages regarding that subject. These pages rarely contain links to asking a question.
 * The form is largely self-explanatory; all participants were able to successfully submit an inquiry
 * OMB Burden Language confused multiple users
 * All participants expressed interest, or preference, in logging in to complete the form
- * Logging in would automatically fill in multiple form fields, and make further contact more streamlined.
+  * Logging in would automatically fill in multiple form fields, and make further contact more streamlined.
 * There were multiple technical issues which diminshed the overall usability of the form:
- * Lack of help text around certain form fields
- * Review page does not have a title, nor does it retain conditional display logic
- * Required field indicators are easily overlooked
- * Modal window search inconsistencies: For example, when you search for Loan in the modal, it yields no results despite Home Loan being an option
- * Spacing issues
+  * Lack of help text around certain form fields
+  * Review page does not have a title, nor does it retain conditional display logic
+  * Required field indicators are easily overlooked
+  * Modal window search inconsistencies: For example, when you search for Loan in the modal, it yields no results despite Home Loan being an option
+  * Spacing issues
 * Users were unsure of the correct format for various date fields.
 * Users were unsure what to put for "Veteran's Service Number," most thought it was their SSN. Other abbreviations caused confusion like DoD ID/EDIPI and SSN.
 * Required field indicator was easily overlooked. Design system recommendation was to include "Required" as text alongside the red asterisk.

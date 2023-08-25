@@ -1,6 +1,6 @@
 # Project outline: Update Design System Component on My VA
 
-**Last updated: March 20, 2023**
+**Last updated: July 21, 2023 - updated key dates**
 
 ### Communications
 
@@ -76,6 +76,10 @@ TBD
 - Summer 2022: Designed new component in partnership with the design system team
 - August 2022: Tested the new component in payments V2 research
 - March 2023: Collab cycle and development kick-off
+- April - June 2023: Development
+- June 2023: Review with Design System Team
+- July 2023: Prelaunch activities
+
 
 ## Backend
 

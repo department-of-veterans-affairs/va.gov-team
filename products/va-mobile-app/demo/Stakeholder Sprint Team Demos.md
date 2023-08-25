@@ -1,7 +1,18 @@
 # Sprint Team Demo
 
-Meeting Owner: Kelly Lein
-Timing: Every 2 Thursdays 2:35 - 3:15pm 
+Meeting Owner: Jennifer Brown
+Timing: Every second Wednesday 2:35 - 3:15pm 
+
+---  
+**Demo Sprint 76 8/2/23** 
+Agenda
+- Demo Topic(s)
+  -  EVSS (Tom G)
+
+- Slides - [Sprint 76 - VA Mobile App Demo.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12243277/Sprint.76.-.VA.Mobile.App.Demo.pdf
+
+- Video
+  - No video as the official host was absent
 
 ---  
 **Demo Sprint 73 6/21/23** 

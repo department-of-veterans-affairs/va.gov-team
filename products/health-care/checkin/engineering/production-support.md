@@ -8,6 +8,14 @@ Here is the current production support guidance for Check-in Experience team:
 
 ### Support Tasks
 - Proactively monitor the following    
+    - PagerDuty
+        - We will do 2-week rotations that coincide with our sprint schedule
+            - 2 people will be on call from 7 am to 8 pm ET and configured in the PCI API Schedule
+                - Primary - is responsible for responding to incidents/issues
+                - Secondary - is the next person in line to be Primary and takes over for the Primary if they need to be OOO
+            - On call persons will get a call/text if an issue needs to be addressed (depending on your configuration in PagerDuty)
+        - Use the [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/Chip-Lorota-Playbook.md) to guide incident/issue response
+        - In the event that an issue is resulting from something upstream, bring attention to the issue in the following [vettext-production-support channel](https://dsva.slack.com/archives/C052BC1893K) and use the following call-out "@vetext-tier-3-team"
     - Slack channels
         - [#check-in-production-support](https://dsva.slack.com/archives/C02UP02HHGX)
             - Ensure the daily bot is posting check-in and pre-check-in data 

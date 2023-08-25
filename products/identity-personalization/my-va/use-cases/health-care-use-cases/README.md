@@ -1,6 +1,6 @@
 # My VA: Health Care Use Cases
 
-**Last updated:** April 13, 2023
+**Last updated:** August 25, 2023
 
 ## Overview of Health Care:
 - This feature on My VA integrates with My HealtheVet and the VA online scheduling tool (VAOS) to give the user dynamic content updates for upcoming appointments and unread messages.

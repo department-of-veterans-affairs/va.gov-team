@@ -1,13 +1,10 @@
 # On-site notifications roadmap
 
-**Last updated: March 21, 2023**
+**Last updated: July 28, 2023**
 
 ## Current projects
 
-|Project|Status|
-|----|----|
-|[Update design component](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/update-design-system-component)| Discovery|
-|[Notification center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery)|Research|
+[Please view the onsite notifications product outline for a list of current projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/README.md#projects).
 
 ### Projected timelines for current projects
 
@@ -18,10 +15,7 @@
 
 ## Completed projects
 
-|Project|Launch/Completion date|
-|----|----|
-|[On-site notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/mvp/README.md)| Completed October 24, 2022|
-
+[Please view the onsite notifications product outline for a list of completed projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/README.md#projects).
 
 ## Requests from other teams
 

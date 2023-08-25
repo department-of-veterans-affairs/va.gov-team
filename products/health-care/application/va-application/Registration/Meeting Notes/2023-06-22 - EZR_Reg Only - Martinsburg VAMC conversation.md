@@ -86,4 +86,21 @@ Magic wand
           - Would alleviate in-prson for those who can update online
      - Does means test include deductibles with income
           - It can mean deductibles as well
+      
+## Synthesis
+- Confusion over registration option:
+  - Veterans are sometimes confused over having both the option to register and enroll on the form. They're not 100% sure which to choose.
+  - Staff know when to register or not. Walk-ins can receive guidance on this, but mail-ins do not.
+- Financial information is pain point
+  - Veterans may provide inaccurate information and receive a priority status they don't actually qualify, they can be audited
+  - Often, this becomes a problem when Veterans start to receive co-pay bills in the mail that they don't expect and don't believe they need to pay
+  - Good rule of thumb: anyone above Priority Group 2 has to occasionally update their means test/financial info to keep exemption status
+- Common EZR process
+  - Big reason for filling out EZR is to get copay exemption or travel pay
+  - Walk-ins, mail-ins, or updating over the phone (with HEC, VAMCs aren't allowed to take info over phone) are the methods
+  - VAMC staff would prefer an option to fill EZR out online to help cut down on mail-ins and phone call wait times
+- Reg only for humanitarian purposes or military transfer
+  - Though registration only is a rarer occurence, it's still useful for things like humanitarian admittance to the ER or military transfers coming off active duty
+- Priority groups
+  - Veterans learn their priority group when enrolling and receive information about their benefits
 

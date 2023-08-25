@@ -1,7 +1,8 @@
 # My VA Architecture Diagram
-_Last updated: May 3, 2023. New diagram created to reflect the latest version of My VA, which includes information about claims and appeals, health care, outstanding debts, benefit payments, and education benefits, as well as onsite notifications._
+_Last updated: July 25, 2023. New diagram created to reflect the latest version of My VA, which includes information about claims and appeals, health care, outstanding debts, benefit payments, and education benefits, as well as onsite notifications._
 
-![My VA Architecture Diagram](https://user-images.githubusercontent.com/534756/236293186-88497a33-cd3f-4dd9-99d8-5f94717c507e.png)
+![My VA Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/assets/534756/2cda66a7-e367-4bd2-bcd8-1a8a274f0e1a)
+
 
 ## Endpoint to Feature Map
 
@@ -9,7 +10,7 @@ _Last updated: May 3, 2023. New diagram created to reflect the latest version of
 | -------- | ------- |
 | [`/v0/profile/payment_history`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/profile/getPaymentHistory) | [Benefit Payments](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/benefits_payments/backend_documentation.md) |
 | [`/v0/appeals`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/benefits_status/getAppeals) | [Claim Status](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/claim_status/backend_documentation.md) |
-| [`/v0/evss_claims_async`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/) | [Claim Status](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/claim_status/backend_documentation.md) |
+| [`/v0/benefits_claims`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/) | [Claim Status](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/claim_status/backend_documentation.md) |
 | [`/vaos/v2/appointments`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/appointments/getAppointments) | [Health Care Appointments & Messages](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/health_care/backend_documentation.md) |
 | [`/v0/messaging/health/folders`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/secure_messaging/foldersIndex) | [Health Care Appointments & Messages](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/health_care/backend_documentation.md) |
 | [`/v0/profile/full_name`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/profile/getFullName) | [Nametag](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/nametag/backend_documentation.md) |

@@ -27,8 +27,9 @@ body:
 - type: dropdown
   id: champion-1
   attributes:
-    label: Do you have an accessibility champion on your team?
-    description: If you don't have one, totally ok! Let us know if you're interested in becoming one.
+    label: Do you have an accessibility champion?
+    description: If you don't have one, totally ok! Let us know if you're interested in becoming one. [Learn more about becoming an Accessibility Champion](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community)
+
     options:
       - No, we don't have a champion (yet)
       - No, but we are interested in training one!

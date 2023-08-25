@@ -1,6 +1,6 @@
 # My VA Health Care Use Case: User has VA health care and does or does not have upcoming appointments
 
-**Last updated:** April 13, 2023
+**Last updated:** August 25, 2023
 
 For LOA3 users who sign in and have VA health care, we will show a card with dynamic content in the Health care section of My VA if they have an upcoming appointment. If they don’t have any upcoming appointments, we show text stating this in the Health care section. This section also contains other useful health care links.
 
@@ -9,7 +9,7 @@ For LOA3 users who sign in and have VA health care, we will show a card with dyn
 
 ### User has an upcoming appointment
 
-- If a logged in LOA3 user has a confirmed upcoming appointment, they will see a card in this section that tells them the date, time, and location of the appointment, as well as a link to "Schedule and manage your appointments" which links to the [online scheduling tool](https://va.gov/health-care/schedule-view-va-appointments/appointments).
+- If a logged in LOA3 user has a confirmed upcoming appointment, they will see a card in this section that tells them the date, time, and location of the appointment, as well as a link to "Schedule and manage your appointments" which links to the [online scheduling tool](https://va.gov/my-health/appointments).
 - This card is always displayed on the left hand side of the page on desktop under the Health care header.
 - Uses the [card component](https://design.va.gov/components/card) from the VA design system.
 - [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
@@ -19,7 +19,7 @@ For LOA3 users who sign in and have VA health care, we will show a card with dyn
 
 - When a user does not have any upcoming appointments, they will see text in this section that states “You have no upcoming appointments to show.”
 	- When a user has unread messages, this text shows directly below the messages alert  on the left hand side on desktop.
-- When a user does not have any upcoming appointments, they will see a link to [“Schedule and manage your appointments”](https://va.gov/health-care/schedule-view-va-appointments/appointments) in the link list in this section. It will show at the top of the list of links in this scenario.
+- When a user does not have any upcoming appointments, they will see a link to [“Schedule and manage your appointments”](https://va.gov/my-health/appointments) in the link list in this section. It will show at the top of the list of links in this scenario.
 - [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/8AB87684-AE2C-42F4-BC9D-60E4B26AE1BB)
 - [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/28297FB0-D585-45CF-84CB-1935A09F74F3)
 

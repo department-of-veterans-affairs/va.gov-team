@@ -23,7 +23,9 @@ This document serves as the start of a voicebot section of the VA.gov content st
 -The voicebot can refer to itself as "voicebot" during instances outside of a user interaction (e.g. "We're working to fix some problems with our voicebot. We're sorry it's not working right now...")
 
 ## Technology considerations and limitations
--Voicebot copy doesn't include dash marks (-) since the voice interface pronounces '-' as a word. Therefore, "post-9/11" becomes "post 9/11," "PACT Act-related benefits" becomes "PACT Act related benefits," etc.
+-Voicebot copy doesn't include dash marks (-) since the voice interface pronounces '-' as a word. Therefore, "post-9/11" becomes "post 9/11," "PACT Act-related benefits" becomes "PACT Act related benefits," etc. Also remove '-' from form names.
+
+–A limitation of VUI is varied ability to pay attention to and retain information that is only being heard. Given this, the Voicebot is designed to inform Veterans as efficiently as possible and can't support certain outreach statements which increases information overload. For example, VA.gov summarizes the PACT Act as: "The PACT Act is a new law that expands VA health care and benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances. The PACT Act adds to the list of health conditions that we assume (or “presume”) are caused by exposure to these substances. This law helps us provide generations of Veterans—and their survivors—with the care and benefits they’ve earned and deserve." For a Voicebot summary of PACT Act, we can remove the last sentence ("This law helps us...") which is outreach in nature rather than informational.
 
 ## Plain language
 

@@ -6,7 +6,7 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 - centering the diverse voices of disabled Veterans, caretakers, and family members
 - asking questions first and learning from others
 
-<strong>[Complete level 1 to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/1-Introduction.md)</strong>
+<strong>[Complete level 1 to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/A_Introduction.md)</strong>
 
 ## Who can be an accessibility champion? And what do they do? 🤔 
 
@@ -36,7 +36,7 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 
 ## Curriculum
 
-### [Level 1, Community Member](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/1-Introduction.md) 👐
+### [Level 1, Community Member](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/A_Introduction.md) 👐
 - 1 hour to complete
 - Learn what accessibilty is, get comfortable asking for help, and join our community
 - Get started with your first screen reader
@@ -90,8 +90,10 @@ We make updates to our curriculum based on feedback from our community. This is 
 - [Provide feedback directly using this Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAToLe2lUM0FTUlRTRUxIMEhTVjc1RExON1JTVTk2Vi4u)
 
 ### Contributors
-- Josh Kim
-- Sara Smith
-- Jeana Clark
-- Martha Wilkes
-- Joseph Lee
+- Josh Kim `Writer`
+- Brian DeConinck `Writer`
+- Sara Smith `Editor`
+- Jeana Clark `Editor`
+- Martha Wilkes `OCTO Lead`
+- Joseph Lee `Editor`
+- Scott Mericle `Writer`

@@ -37,11 +37,10 @@ Great, let’s get started.
 The following questions are a way to get to know you better and to make sure we are talking to veterans in different situations with different needs. Feel free to answer the questions you’re comfortable with, and please know you can skip anything you prefer not to answer.
 
 
+* Tell me a little bit about yourself. Where are you from, where do you live now? (city, state)
 
-* What’s the city and state of the main place where you live?
 * How long have you been out of the military?
-* Do you ever use any type of assistive technology?
-* What type of phone do you have?
+
 * What was your first connection with the VA?
     * About how long have you been connected to VA services?
     * How long have you been out of the military before you first connected with the VA?
@@ -60,9 +59,11 @@ The following questions are a way to get to know you better and to make sure we 
 
 Now we’re going to talk a bit about your experience using VA’s Health & Benefits mobile app. Again, please know you can skip anything you prefer not to answer, or to stop at any time.
 
-
+* First, let's talk a bit about how you use your phone. What type of phone do you have?
+* Do you ever use any type of assistive technology, like enlarging the text on your phone or using a screenreader?
 
 * When did you first download the VA Health & Benefits app?
+* Do you remember how you heard about it?
 * Do you use your fingerprint or face ID to get into the app? 
 * What was your main reason(s) for downloading the mobile app? 
 * What are the things you wanted to be able to do after you downloaded it?
@@ -70,16 +71,18 @@ Now we’re going to talk a bit about your experience using VA’s Health & Bene
 * When did you stop using the mobile app? 
 * What were the specific reasons you stopped using the app?
 * What are things you’d need to have in order to start using the app again, if any?
+
+* How would you want to find out about new features in the app? 
 * What other information is important for us to know that we haven’t talked about?
 
 ## 
 **Thank-You and Closing - 5 min**
 
 
-Is there anything else you wanted to share before we wrap up? \
- \
-We really appreciate you taking the time to share your thoughts with us today.  \
- \
+Is there anything else you wanted to share before we wrap up? 
+ 
+We really appreciate you taking the time to share your thoughts with us today.  
+ 
 Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again.

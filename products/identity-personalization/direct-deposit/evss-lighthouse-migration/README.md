@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: June 29, 2023**
+**Last Updated: August 15, 2023 -- updated week 1 stats**
 
 ### Communications
 
@@ -69,21 +69,42 @@ As a person that receives payments from VA, I want to be able to easily view and
 
 ## Measuring success
 
-**Objective 1: Improve save success rates by migrating to Lighthouse**.
+### Metrics
+- [Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
+- [EVSS > Lighthouse migration dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)
+- [Direct deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
+- [Sentry](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?display=daily&environment=production&field=url&field=error.value&field=timestamp&name=Errors+by+URL&query=event.type%3Aerror+url%3Ahttps%3A%2F%2Fapi.va.gov%2Fv0%2Fprofile%2Fdirect_deposits%2Fdisability_compensations&sort=-url&statsPeriod=14d&widths=-1&widths=-1&widths=-1)
+- Data Dog
+     - [Viewing LH Direct Deposit](https://vagov.ddog-gov.com/apm/resource/vets-api/rack.request/e504ea6e07d6848b?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AProfile%3A%3ADirectDeposits%3A%3ADisabilityCompensationsController%23show%22&env=eks-prod&spanType=service-entry&topGraphs=latency%3Alatency%2Chits%3Acount%2Cerrors%3Acount%2CbreakdownAs%3Apercentage&traces=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&start=1690315410527&end=1690920210527&paused=true)
+     - [Updating LH Direct Deposit](https://vagov.ddog-gov.com/apm/resource/vets-api/rack.request/bc1e3cb125eb0125?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AProfile%3A%3ADirectDeposits%3A%3ADisabilityCompensationsController%23update%22&env=eks-prod&spanType=service-entry&topGraphs=latency%3Alatency%2Chits%3Acount%2Cerrors%3Acount%2CbreakdownAs%3Apercentage&traces=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&start=1690315475062&end=1690920275062&paused=true)
 
-[Profile - Form Submit - CNP Direct Deposit Information](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20230601&_u.date01=20230628&explorer-table.plotKeys=%5B%5D&explorer-table.filter=%5EProfile%20-%20Form%20Submit%20-%20(direct-deposit-information%7CDirect%20Deposit%20Information%7CCNP%20Direct%20Deposit%20Information)&explorer-segmentExplorer.segmentId=analytics.eventAction/)
+  <p></p>
 
-|Save success rate 1 month pre-launch [6/1/2023-6/28/2023]|Save success rate 1 month post-launch to 100% of users [dates]|Save success rate 2 months post-launch to 100% of users [dates]|
-|------|------|-----|
-|18,397|TBD|TBD|
+### Objective 1: Improve direct deposit for comp & pen success rates by migrating to Lighthouse.
+
+**KPI: Get direct deposit retrievals and saves to a 95% success rate.**
+
+- [Pre-launch stats from direct deposit dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
+- [Launch monitoring from Adam's EVSS > Lighthouse dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)
+- **Success rate** = Failed [retrievals/saves]/Successful [retrievals/saves]
+
+|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/22/23)|1 week @25% (8/22/23 - 8/28/23) |1 week @50% (8/29/23 -9/4/23)|1 week @100% (9/5/23 - 9/11/23)| 1 month @100% (9/12/23 - 10/11/23) | 2nd month @100% of users (10/12/23 - 11/11/23)|
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|% of successful retrievals|90%|96%|94%||||||
+|% of failed retrievals|10%|4%|6%||||||
+|% of successful saves|84%|91%|86%||||||
+|% of save failures|16%|9%|14%||||||
+
 
 ## Key deliverables
 
 |Deliverable|Date completed|
 |-----------|--------------|
-|[Project epic: #51900](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/51900)| N/A|
-|[QA Testing](https://docs.google.com/spreadsheets/d/1xflLNJhUSVslzLbVQtMkYkzsBGAhIccnmYW0GL_Ihd0/edit#gid=0)| TBD|
-|UAT results|TBD|
+|[Project epic: #51900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51900)| TBD |
+|[QA Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/QA/README.md)| 07/20/2023 |
+| [UAT Go/no-go](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61177) |07/24/2023|
+|[UAT results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/Research/2023-08-direct-deposit-UAT/2023-08%20UAT%20findings.md)|08/07/2023|
+|[Launch Go/no-go](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63029)|08/07/2023|
 |[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/direct-deposit-release-plan.md)|TBD|
 
 ## Key dates
@@ -93,10 +114,12 @@ As a person that receives payments from VA, I want to be able to easily view and
 - January 2023: Profile team begins discovery
 - February 2023: Backend migration
 - March 2023: Backend migration continues; FE + BE updates; QA planning
-- April 2023: QA & Pre-launch activities
+- April 2023: ???
 - May 2023: On hold while Samara is on maternity leave
 - June 2023: On hold while Samara is on maternity leave
-- July 2023: Launch
+- July 2023: QA; Pre-launch activities
+- August 8, 2023: Launch to 5% of users
+- August 15, 2023: Launched to 10% of users
 
 ## Backend
 
@@ -111,3 +134,25 @@ As a person that receives payments from VA, I want to be able to easily view and
 ### How to test
 
 - [Sandbox Test Accounts for Direct Deposit Management API](https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/test_accounts/direct_deposit_test_accounts.md)
+
+
+## Summary of where to locate info on EVSS > LH Migration for Direct Deposit Comp & Pen API
+
+There are several places where things have been documented. 
+
+
+### Public Directories 
+
+**Outside of the Profile Documentation**
+<br>
+[va.gov-team/products/identity-personalization/direct-deposit
+/evss-lighthouse-migration/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration)
+
+
+**Inside Profile Documentation**
+<br>
+[va.gov-team/products/identity-personalization/profile
+/evss-migration/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/evss-migration)
+
+### Private Directory
+[products/identity-personalization/lighthouse-migration](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/lighthouse-migration)

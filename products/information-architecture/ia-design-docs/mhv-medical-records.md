@@ -1,7 +1,7 @@
 # IA Design for MHV on VA.gov: Medical Records
 **STATUS: In progress**
 
-Last Updated 3/23/23 -- KO edits
+Last Updated 7/21/23 -- KO finalizing after medical records research -- ready to develop Phase 0
 
 **Team:** Health apps - medical records
 
@@ -16,74 +16,71 @@ Last Updated 3/23/23 -- KO edits
 
 
 ## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
+Most up-to-date user flow can be found on VA public mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671138122441/c6eae887e8c0467e616d61002f14085580dfb59c?wid=0-1686659937807
 
-![Workflow for sharing medical records](https://user-images.githubusercontent.com/122126772/227365555-5c623289-fa7c-45d9-9cf1-c2094b467840.png)
-
-
-User Flow Notes:
-
+Notes:
 - If you'e been treated at a VA health facility at any point for any thing, you would have something in blue button, regardless of if you are currently enrolled in VA healthcare
 - BUT, it's possible you had VA healthcare so long ago that it isn't showing up
 - Veterans enrolled in foreign medical program who had VA healthcare in the past might need to access records here
 - Healthcare records for military service CANNOT be found here
 - Veterans might go to /health-history by accident looking for medical records, so we should add a way for them to recover from that error and get in the right place
-- 
 
 User Flow Open Quetions:
 1. If a user doesn't have data to show, will they not have it for all the reports, or could it just be for one report?
-2. Does VHIE apply to ppl who never got VA healthcare? If so, do we still want to show it to them? 
+   Answer: If the user doesn't have data for that particular domain, they can still view data in other domains. We have an informational alert for pages that explains why the page is empty.
+2. Does VHIE apply to ppl who never got VA healthcare? If so, do we still want to show it to them?
+   Answer: VHIE will not apply to people who have never had healthcare.
 3. Users will most likely need help figuring out how to share the VA Health Summary with their provider. What's the right spot to give them that guidance?
+   Answer: We aren't including the VA Health Summary (at least in Phase 0)
 4. How can we make the experience seamless for Veterans who come here from the unauth pages? How can we ensure the content isn't duplicative or contradictory?
 
 
 ## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
-<br>
-- The medical records features will be organized into 3 separate groups within the MHV on VA.gov experience: lab and test resutls, health history, and medical records - represented by the oranged dashed outlines in the below diagram
+Most up-to-date page structure can be found in VA public mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671138122441/c6eae887e8c0467e616d61002f14085580dfb59c?wid=65-1686344795557
 
-![Medical Records on MyHealth on VA.gov sitemap](https://user-images.githubusercontent.com/122126772/227365672-b4f97010-8783-49f4-a07f-e017f9e3fe60.png)
-
+<img width="926" alt="Screenshot 2023-07-21 at 10 20 34 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/a6f578fd-5b8f-485e-a21d-50c593dd0f40">
 
 ## <a name="url"></a>URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
 **Note: The breadcrumbs for these pages may need to be suppressed until the "My health" landing page is live to avoide having an inactive segment in the breadcrumb.  If the "My health" landing page is live by the time these features go live, the breadcrumb can exist as noted.**
 
 Page | URL | Breadcrumb | Notes
---- | --- | --- | ---
-About VA Medical Records landing page | www.va.gov/my-health/about-records | Desktop:  VA.gov home > My Health > [H1 of tests listing page] <br> Mobile: < My health |  This page will start in P0 at the top fo the left nav. In P1 it will move to last position in left nav. In P2 it will move to R+S.
-Lab and test results listing page | www.va.gov/my-health/labs-tests | Desktop:  VA.gov home > My Health > [H1 of tests listing page] <br> Mobile: < My health |  
-Lab and test result detail page | Builds on URL for listing page | Desktop: VA.gov home > My Health > [H1 of tests listing page] > [H1 of tests detail page]  <br> Mobile: < [H1 of test listing page]  |  
-Health history landing page | www.va.gov/my-health/health-history | Desktop: VA.gov home > My Health > [H1 of health history landing page] <br> Mobile: < My health | 
-Allergies listing page | www.va.gov/my-health/health-history/allergies | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of allergies listing page] <br> Mobile: < [H1 of health history landing page] |
-Allergies detail page | Builds on URL for listing page  | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of allergies listing page] > [H1 of allergies detail page] <br> Mobile: < [H1 of allergies listing page] |
-Notes listing page  | www.va.gov/my-health/health-history/care-notes | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of notes listing page] <br> Mobile: < [H1 of health history landing page] |
-Notes detail page  | Builds on URL for listing page | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of notes listing page] > [H1 of notes detail page] <br> Mobile: < [H1 of notes listing page] |
-Health conditions listing page  | www.va.gov/my-health/health-history/conditions | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of conditions listing page] <br> Mobile: < [H1 of health history landing page] |
-Health conditions detail page | Builds on URL for listing page | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of conditions listing page] > [H1 of conditions detail page] <br> Mobile: < [H1 of conditions listing page] |
-Vaccines listing page  | www.va.gov/my-health/health-history/vaccines | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of vaccines listing page] <br> Mobile: < [H1 of health history landing page] |
-Vaccines detail page  | Builds on URL for listing page | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of vaccines listing page] > [H1 of vaccines detail page] <br> Mobile: < [H1 of vaccines listing page] |
-Vitals listing page  | www.va.gov/my-health/health-history/vitals | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of vitals listing page] <br> Mobile: < [H1 of health history landing page] |
-Vitals detail page  | Builds on URL for listing page | Desktop:  VA.gov home > My Health > [H1 of health history landing page] > [H1 of vitals listing page] > [H1 of vitals detail page] <br> Mobile: < [H1 of vitals listing page] |
-Share Medical records page  | www.va.gov/my-health/medical-records | Desktop:  VA.gov home > My Health > [H1 of records listing page] <br> Mobile: < My health |
+| Page                      | URLs                                                           | P0 breadcrumbs                           | P1+ mobile breadcrumbs     | P1+ desktop breadcrumbs                          | Title tags                                 |
+|---------------------------|----------------------------------------------------------------|------------------------------------------|----------------------------|--------------------------------------------------|--------------------------------------------|
+| Landing page              | /my-health/medical-records/                                    | None                                     | < My HealtheVet            | My HealtheVet > [H1]                             | Medical Records \| Veterans Affairs        |
+| Lab and test results list | /my-health/medical-records/labs-and-tests/                     | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
+| >Test detail              | /my-health/medical-records/labs-and-tests/123456/              | < Back to Lab and test results           | < Lab and test results     | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
+| >>Image listing           | /my-health/medical-records/labs-and-tests/123456/images/       | < Back to [H1 of test detail page]       | < Test detail              | My HealtheVet > [H1] > [H1] > [H1] > [H1]        | [H1] - Medical Records \| Veterans Affairs |
+| >>>Image zoom             | /my-health/medical-records/labs-and-tests/123456/images/67890/ | < Back to Images: H1 of test detail page | < Image listing            | My HealtheVet > [H1] > [H1] > [H1] > [H1] > [H1] | [H1] - Medical Records \| Veterans Affairs |
+| Care summaries and notes  | /my-health/medical-records/summaries-and-notes/                | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
+| >Note details             | /my-health/medical-records/summaries-and-notes/1234/           | < Back to Care summaries and notes       | < Care summaries and notes | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
+| Vaccines list             | /my-health/medical-records/vaccines/                           | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
+| >Vaccine detail           | /my-health/medical-records/vaccines/1234/                      | < Back to Vaccines                       | < Vaccines                 | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
+| Allergy listing           | /my-health/medical-records/allergies/                          | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
+| >Allergy detail           | /my-health/medical-records/allergies/1234/                     | < Back to Allergies                      | < Allergies                | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
+| Health conditions list    | /my-health/medical-records/conditions/                         | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
+| >Condition summary        | /my-health/medical-records/conditions/1234/                    | < Back to Conditions                     | < Conditions               | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
+| Vital list                | /my-health/medical-records/vitals/                             | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
+| >Vital history            | /my-health/medical-records/vitals/blood-pressure-history/      | < Back to Vitals                         | < Vitals                   | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
+| Medical Records Settings  | /my-health/medical-records/settings                            | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
+| Download all records      | /my-health/medical-records/download-all                        | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
 
 
 
 ## <a name="nav"></a>Secondary navigation <br>
-*Secondary navigation needs within this feature.*
 
-- Secondary/left navigation order
-  - About VA medical records
-  - Lab and test results
-  - Health history
-    - Care notes and summaries
+Secondary/left navigation order
+
+  - Medical Records
+    - Lab and test results
+    - Care summaries and notes
     - Vaccines
     - Allergies
     - Health conditions
     - Vitals
-  - Share medical records
-
+    - Medical records settings
+    - Download all records
+ 
 <hr>
 <hr>
 

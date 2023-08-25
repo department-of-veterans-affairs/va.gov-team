@@ -32,3 +32,19 @@ Google Analytics data for the event triggered when folks click on the "Analytics
 | Jan 1, 2022 - Nov 17, 2022 | All Users                 | 26,005       | 24,540        |
 |                            | Mobile and Tablet Traffic | 18,123       | 16,947        |
 |                            | Performed Site Search     | 7,270        | 6,921         |
+
+*** 
+
+## Update, August 2023
+
+**Between November 1, 2022 and August 15, 2023:**
+
+- 24,460 page views
+- 22,122 unique page views
+- 02:02 average time on page
+- 69.43% bounce rate (nearly 70% of users did not interact with anything on this page)
+- 50.83% exit
+
+Between November 1, 2022 and Aug 15, 2023 the **accessibility link in the footer of modernized va.gov pages was clicked 20,340.**
+
+Of those clicks, **14,318 of them were triggered from a mobile device.**

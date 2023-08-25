@@ -74,7 +74,7 @@ While MHV applications are in the process of being integrated into VA.gov, links
 # Implementation Info
 
 ## Status
-The application was initially launched in Production behind a feature flag. During Phase 0 of the landing page rollout, a handful of trusted users were given access via an allow list.
+The application was initially launched in Production behind a feature flag on March 8. 2023. During Phase 0 of the landing page rollout, a handful of trusted users were given access via an allow list.
 
 On March 27, 2023, after the initial smoke testing was completed by the trusted user group, access was changed to allow access to a random 5% of daily MyHealtheVet users who log in via Login.gov or ID.me, have health benefits, have a VAMC associated with their profile, and have never received care at a Cerner VA Medical Center.
 
@@ -95,6 +95,7 @@ On April 26, 2023, the rollout moved to Phase 2, and access was expanded to 10% 
 - UX Design: Florence McCafferty (Agile Six)
 - Research: Cara Frissell (Ad Hoc)
 - Technical Architect: Carlos Felix (Agile Six)
+- Information Architect: Sara Sterkenburg (Ad Hoc)
 - Engineer: Eric Voshall (Ad Hoc)
    
 ## Screenshots

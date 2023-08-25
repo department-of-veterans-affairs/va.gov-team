@@ -2,8 +2,8 @@
 
 |Projects| Outline | Folder |
 |----|----|----|
-| Onsite Search | [Onsite Search Outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)|[On-Site Search project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)|
-| Offsite Search|[Off-site Search Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)|[Off-site Search project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)|
+| Onsite Search | [Onsite Search Outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)|You are here|
+| Offsite Search|[Off-site Search Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)|[Off-site Search project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/off-site-search)|
 
 ## The Problem
 
@@ -76,3 +76,8 @@ As a user, I want to:
 ## Questions
 
 - Given resource constraints, a determination needs to be made about the scope and prioritization of this initiative.  Clear objectives and outcomes need to be communicated to ensure aligment with key stakeholders -- including VA business line leads and DEPO leadership.
+
+## Maintenance documentation
+- [Search playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md) - Contains access and architectural information
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/product-outline.md)
+- [Getting Search.gov access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md#getting-access)

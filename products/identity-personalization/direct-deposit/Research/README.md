@@ -1,6 +1,8 @@
 # Direct Deposit
 What is required in order to port the direct deposit functionality from eBenefits to VA.gov? 
 
+**Original discovery documentation from 2019**
+
 ## Summary
 - Direct Deposit would likely be a natural addition to the VA Profile
 - We can immediately begin FE integration for retrieving the Direct Deposit payment information behind Compensation & Pension.

@@ -1,7 +1,7 @@
 name: "Accessibility Issue Ticket"
 description: "Create an accessibility issue ticket"
-title: "[a11y-defect-x]:"
-labels: ["Accessibility"]
+title: "[a11y-defect-x]: Issue description"
+labels: ["accessibility"]
 assignees: []
 body:
 - type: markdown
@@ -76,12 +76,21 @@ body:
     label: Type of issue
     description: You may select more than one.
     options:
-      - label: Screenreader
+      - label: Axe-core
+      - label: Screenreader | assistive tech & device support
       - label: Keyboard
+      - label: Zoom
+      - label: Color, typography, & visual elements
+      - label: Components and pattern standards
+      - label: Content organization
       - label: Focus
       - label: Headings
-      - label: Color
-      - label: Zoom
-      - label: Semantics
-      - label: Axe-core
+      - label: Content style guide
+      - label: Link and button labels
+      - label: Semantic HTML
+      - label: Markup and metadata
+      - label: Non-text content and media
+      - label: Overall user experience
+      - label: Cognitive | user flows & navigating
+      - label: URL standards
       - label: Something else

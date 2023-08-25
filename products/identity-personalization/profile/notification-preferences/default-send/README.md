@@ -1,6 +1,6 @@
 # Project outline: Notifications Settings - Default Send Functionality
 
-**Last Updated: April 25, 2023**
+**Last Updated: August 15, 2023 -- Added key dates**
 
 ### Communications
 
@@ -48,7 +48,6 @@ In order to be able to add email as a channel, we need to do two things: add the
 
 - As a customer of the VA, I need to be able to opt in or out of email communications so that I can customize through which channels I prefer to be contacted. 
 
-
 ## User outcomes
 
 ### Desired User Outcomes
@@ -65,12 +64,25 @@ In order to be able to add email as a channel, we need to do two things: add the
 - Allow any updates veterans make to their permissions to be saved/accessed across the VA (through VA Profile backend).
 - Set up an infrastructure for this functionality that is sustainable and allows us to scale easily over time.
 
-
 ## Measuring success
 
-OKRs and KPIs TBD.
+### Objective #1: Maintain overall performance of the notification preferences page
 
-- We are not currently measuring any OKRs or KPIs for notification settings. For previous OKRs/KPIs: [Notification settings MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/product/mvp-project-outline.md#measuring-success)
+**When filling in data -- update dates to be 1 month pre-launch, one month post launch (to 100%), and the second month post-launch (to 100%) based on actual launch dates.**
+
+**KPI: See no reduction in the percentage of successful retrievals and saves for notification preferences.**
+
+[Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
+
+|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|-------------|---------------|-------------------|
+|Percentage of successful retrievals||||
+|Percentage of successful saves||||
+
+**Additional things to consider**
+
+- Is there anyway to glean improved usability through metrics?
+- Is there any way to glean whether we are successfully consuming/displaying default send? 
 
 ## Solution approach
 
@@ -93,18 +105,24 @@ OKRs and KPIs TBD.
 - Update notification preferences so that feature flag can filter by channel (email/text)
 - Update notificatio preferences so that it filters out the new QuickSubmit group
 - Build editing page for Va.gov profile (part 2)
-- Build the new page for hte mobile number
+- Build the new page for the mobile number
+
+## Key Deliverables
+|Deliverable|Date completed|
+|-----------|--------------|
+|[Email as a channel epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61101)| |
+|Analytics Dashboard| |
+|[QA Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send/QA)| |
+| [UAT Go/no-go](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62915) | |
+|UAT results||
+|[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/releasePlan/defaultSendReleasePlan.md)||
 
 ## Key Dates
-Q2 goals:
-- Add default sent functionality
-- Start updating frontend UI to move from radio button design to checkbox design
 
-Q3 goals:
-- Launch frontend UI updates to move from radio button to checkbox design
-
-Q4 goals:
-- TBD (when Samara returns from maternity leave)
+- January 2023: Start discovery on proposed updates
+- February 2023: Complete discovery; Scope work over the next few months.
+- Spring 2023: Begin/complete build
+- August 2023: QA
 
 ## Backend
 
@@ -127,8 +145,3 @@ Additional details can be found [here](https://github.com/department-of-veterans
 
 - Completed research from usability testing on the designs: [findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md)
 - Discussed how our design changes could support VA Notify's requirements for capturing optins and optouts now that we have default send available in July 2022: [meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/default-send/july-2022-notes.md)
-
-
-
-
-

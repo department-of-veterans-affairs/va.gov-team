@@ -1,6 +1,6 @@
 # Product outline: Notification settings
 
-**Last Updated: June 23, 2022**
+**Last Updated: August 1, 2023**
 
 ## Table of Contents
 - [POCs](#pocs)
@@ -22,7 +22,7 @@
  
  ### Roles
 
-[Please refer to the profile product outline for the current VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile#roles).
+[Please refer to the profile product outline for the current VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
 Additionally, we work in partnership with VANotify and VA Profile on this work. Additional partners include:
 
@@ -52,13 +52,28 @@ The following data will come through VA Profile's API
 - Channels (text/email), groups (e.g. health care)
 - User settings (null, true, false) will come through
 
-Currently we support the following notifications:
+**Currently we support the following notifications:**
 
-|Notification Group|Item|
-|--------|-----------|
-|Your health care|Appointment reminders|
-|Your health care|Prescription shipment and tracking updates|
-|Applications, claims, decision reviews, and appeals|Board of Veterans' Appeals hearing reminder|
+<html>
+<body>
+<!--StartFragment--><google-sheets-html-origin>
+
+Notification Group | Item | Description | Notes | Channel | In Production
+-- | -- | -- | -- | :-: | :-:
+Your health care | Appointment reminders |   |   | Text | Yes
+Your health care | Prescription shipment and tracking updates |   | This is available only with specific facilities | Text | Yes
+Your health care | Medical images and reports |   | MHV Migration Item | Email | No
+Your health care | My HealtheVet Newsletter |   | MHV Migration Item | Email | No
+Your health care | My HealtheVet new secure message available |   | MHV Migration Item | Email | No
+Board of Veterans' Appeals | Appeals hearing reminder |   |   | Text | Yes
+Board of Veterans' Appeals | Appeals status updates |   |   | Text | Yes
+Payments | Disability and Pension Deposit Notification |   | Requires VA Notify Support prior to enablement | Text | No
+QuickSubmit | QuickSubmit | A notification and preference around a platform called "QuickSubmit" | This should NEVER display in the profile and is behind a gate | Email | No
+
+<!--EndFragment-->
+</body>
+</html>
+
 
 ## User Outcomes
 
@@ -86,12 +101,8 @@ For previous OKRs/KPIs:
 
 ## Projects
 
-|Projects|Launch date|
-|--------|-----------|
-|[Notification Settings - Default Send Functionality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/README.md)|April 2023 - TBD|
-|[MHV notification preferences migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration#readme); Component of the MHV preference migration: [Initiative Brief - Permission to Include PHI and PII in Appointment Reminders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/appointmentReminderPHIandPII/initiative-brief-appointmentReminderPHIandPII.md) |TBD|
-|[MHV profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research#readme)| April 2022|
-|[Notification settings MVP project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/product/mvp-project-outline.md)| Nov 2021|
+[For a list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
+
 
 ## How to Access and Test
 - [Staging](https://staging.va.gov/profile/notifications)
@@ -114,9 +125,9 @@ Additional details can be found [here](https://github.com/department-of-veterans
 ## Frontend
 
 - [Frontend documentation on how the notification settings UI works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/display-notes.md)
+- [Feature flag documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/feature-flags.md)
 
 ## Design and UX
-- [High level user flow with screenshots](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/v8zKwxQ)
 - [Notification settings sketch files](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/README.md)
 

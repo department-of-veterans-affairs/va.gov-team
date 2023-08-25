@@ -18,7 +18,7 @@ See the [full research plan](https://github.com/department-of-veterans-affairs/v
 ## Research Questions
 
 * Does this new design make it easier for Veterans to understand when they have an evidence submission request in CST? Are they better able to understand exactly what that request is and how to act on it?
-* Does including the claim ID in the claim card make it easier for Veterans to distinguish between different claims in CST?
+* Does including the Claim ID in the claim card make it easier for Veterans to distinguish between different claims in CST?
 * Do Veterans respond positively to the new layout of the Claim Details page, with separate sections dedicated to Veteran actions and VA actions?
 * Do Veterans respond positively to other UX improvements in this version of CST?
   
@@ -29,7 +29,7 @@ Remote usability testing sessions with Veteran participants.
 
 ## Key Findings
 
-1. Most participants said they prefer the new CST design to the current design. In particular, they prefer the visual design and specificity of detail. 
+1. Most participants said they prefer the new CST design to the current design. In particular, they prefer the layout and display of information.
 
 2. Participants were able to navigate the evidence request flow without much difficulty.
 
@@ -83,7 +83,7 @@ Remote usability testing sessions with Veteran participants.
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
-When prompted to compare the CST status pages side-by-side, there was a clear preference for the new design for most participants. A couple Veterans mentioned that they like seeing the stepper with the claim stages, and a few mentioned that they also like the current version because they’re used to it.
+When prompted to compare the CST status pages side-by-side, there was a clear preference for the new design for most participants. A couple Veterans mentioned that they found the stepper with the claim stages useful, but the majority did not.
 
 > “After seeing the (new) page, it just seems that the information is formatted better, in such a way that I have more faith that things are going on behind the scenes.” - P2
 
@@ -92,22 +92,21 @@ When prompted to compare the CST status pages side-by-side, there was a clear pr
 > “This is good…Everything I saw is an improvement over where we are.” – P12
 
 
-**Participants were able to navigate the evidence request flow without much difficulty.**
+### 2. Participants were able to navigate the evidence request flow without much difficulty.
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool, DSP: Notifications
 
-Veterans did not have much trouble with the evidence submission flow. 
+None of the participants had trouble identifying that they had a request, and that they needed to take action to fulfill the request.
 
-A couple Veterans said they would use the Files tab to add evidence. This might result in delays in processing, so we need to iterate on the design to figure that out.
+Two Veterans said they would use the Files tab to add evidence. This might result in delays in processing, so the next design iteration needs to solve for this so that Veterans don’t make that mistake.
 
-A couple Veterans wanted more information about why they were getting this particular request.
+A couple Veterans mentioned they wanted more information about _why_ they were getting this particular request.
 
 > “This feels like they were ‘right on it.’ Because it shows the dates when this was needed and the deadline to submit it.” – P7
 
 > "They're giving me what I need to do, when I need to get it turned in, and a way for me to turn it in, so that the VA can make a decision...Had I not known there was something for me to do, my 179 days would be a lot longer." – P9
 
-
-**Participants like seeing the “Recent activity” section because they like clearly seeing that the VA is taking action to gather necessary information for the claim.**
+### 3. Participants are reassured by the “Recent activity” section because it tells them that the VA is taking action to gather necessary information for the claim.
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool, DSP: Notifications
 
@@ -119,6 +118,29 @@ Keeping this level of detail in implementation will be key to this feature’s s
 
 > "I like (this) version becaues it gives more information and it shows (the Veteran) what you've actually done." – P11
 
+### 4. Participants were neutral about Claim IDs. They didn’t see a clear value in it, but were not bothered by it either.
+
+Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
+
+Participants felt neutral about the Claim ID. It’s only useful to them if they are using it as a reference for the call center. Multiple participants mentioned that the call center uses SSN for finding and referencing their claims.
+
+We do need the claim headers to be unique, but the “Submitted on” date could satisfy that requirement without Claim IDs.
+
+>  “That's a claim number which...if you were to call they don't ever ask you about a claim number.” – P1
+
+>  “When you call the VA, they're not going to ask for that number, they want your social.” – P7
+
+### 5. Participants responded well to the CST status page framing of “What you need to do” and “What we’re doing.”
+
+Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
+
+The shift to an action-oriented approach for the Status tab was well-received. Many participants called out that they like being reassured that there was nothing they had to do to advance the claim. 
+
+Seeing the details of up-to-date VA actions gave them confidence that the claim was being attended to.
+
+>  “5/5, because ‘what you need to do’ and ‘what were doing’ those two things are significant for us.” – P7
+
+>  “You don’t have to do anything right now...that’s good.” – P13
 
 ## Recommendations
 
@@ -126,8 +148,8 @@ Keeping this level of detail in implementation will be key to this feature’s s
     * Participants preferred the new design to the current design.  
 2. Adopt the action-oriented design principle. Be proactive in reassuring Veterans about what they do and don’t have to do while a claim is in progress.
     * The reassuring messaging of "You don't need to do anything right now" really resonated with participants. Multiple Veterans called that out as useful and anxiety-reducing. 
-3. Consider how Claim IDs could be included but less prominent visually.
-    * Given that it's not a crucial part of the UI for sighted users, we might explore reducing its visual prominence if we can still satisfy a11y criteria.
+3. Remove Claim IDs from the design proposal, given that they don’t seem to provide much value. Consider adding them in the future if a use case becomes clear.
+    * The research didn't reveal any ways in which Claim IDs would be uniquely valuable parts of the user interface. As a reference, Veteran Social Security Numbers seem to be more common. As a way to distinguish headers for a11y purposes, the "Submitted on: [date]" string will work.
 4. Explore ways to ensure Veterans use the request widget to add evidence, rather than the Files tab.
     * A couple participants would have uploaded evidence via the Files tab, and files uploaded in this way are not expedited in the same way evidence request files are. They do not get looked at by the VSR as quickly as they would if they'd been uploaded via the request widget. 
 5. Explore ways to make it clearer where Documents Filed items came from, and way to clarify the relationship Documents Filed and Recent Activity.
@@ -150,6 +172,7 @@ Keeping this level of detail in implementation will be key to this feature’s s
 ## Further research needed
 
 - We will need to test the design with AT users once it has been implemented in code.
+- Talk to the call center team about whether or not a unique Claim ID would be useful to them as a reference object. If so, consider adding Claim IDs to the UI.
 
 ## Appendix
 

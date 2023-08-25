@@ -18,7 +18,7 @@ Following the [instructions listed on the Platform](https://depo-platform-docume
 
 ## Learn more about our team
 - [ ] Our [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/cto-health-team/team-charter.md) provides information on our mission, vision, who we are, and how we work.
-- [ ] [How we sprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/cto-health-team/how-we-sprint) provides best practices on how the Cartography team approaches each two week sprint. 
+
 
 ### Helpful terminology
 - _a11y_ - an abbreviation for accessibility coined by the a11y project.  The 11 in the middle represents eleven letters in the middle of the word accessibility.

@@ -1,6 +1,6 @@
 
 ## QA Artifacts - EVSS > Lighthouse Direct Deposit - Comp&Pen 
-Last updated: 6/30/2023
+Last updated: 7/24/2023
 
 [Migration Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51900)
 
@@ -10,7 +10,8 @@ Last updated: 6/30/2023
 |---|---|
 | PM Ticket for Scenarios | [#54870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54870) |
 | QA Testing Ticket - Sprint 14 7/5-7/18 | [Team QA Testing #54771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54771) |
-| **QA Plan** / Scenarios | [Spreadsheet](https://docs.google.com/spreadsheets/d/1xflLNJhUSVslzLbVQtMkYkzsBGAhIccnmYW0GL_Ihd0/edit#gid=0)|
+| **QA Plan** / Scenarios | [GD Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/QA/Direct%20depost%20for%20compensation%20%26%20pension%20EVSS%20_%20Lighthouse%20migration%20test%20cases%20(1).xlsx) and  [Spreadsheet uploaded to GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/QA/Direct%20depost%20for%20compensation%20%26%20pension%20EVSS%20_%20Lighthouse%20migration%20test%20cases%20(1).xlsx)|
+| QA Fixes Epic| [BE/FE \| Profile \| EVSS>LH \| Direct Deposit C&P \| Post QA Fixes #60945](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60945) |
 
 
 ## QA Plan 
@@ -46,9 +47,9 @@ See test cases above
 
 
 ### Adverse Findings Summary
-| Test case No. |    Finding       | Device  | Operating System| Browser |Reporter | Resolution Ticket(s)| Status |
+| Test case No. |    Finding       | Device  | Operating System | Browser | Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
-| | | | | | | |
+| 6 | The error messaging was incorrectly returning from LH. More expansive details can be found in the resolution ticket | Desktop | Windows | Chrome | Travis | [#61252](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61252) | Complete/Resolved | 
 
 
 ## Staging Review Prep 
