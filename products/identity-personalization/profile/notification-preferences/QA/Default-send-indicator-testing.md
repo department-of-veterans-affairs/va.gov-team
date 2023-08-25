@@ -18,5 +18,14 @@
   ```
  - the communicationChannels array items are where the defaultSendIndicator will be present
  ![Screenshot 2023-08-16 at 2 08 14 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/8332986/01343b6f-d8e8-419a-9175-8a6bc21e12a4)
- - if the setting has been explicitly set before aka the user has checked or unchecked a checkbox already, then there will be a communicationPermission property present
+
+ - if the setting has never been set:
+   
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/ac11d885-e34a-493c-87e4-4131e3ebf6c6)
+
+
+ 
+ - if the setting has been explicitly set before aka the user has checked or unchecked a checkbox already, then there will be a communicationPermission property present:
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/522ff17f-2701-4a97-a5f3-19c28bead825)
   ![Screenshot 2023-08-16 at 2 16 03 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/8332986/16770843-aa66-4807-a8b6-c441ab724acc)
