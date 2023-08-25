@@ -26,7 +26,7 @@ Ask VA can support Veterans, caregivers and other submitters at all stages of th
 The key goals of this study are to:
 
 * Review whether submitters can successfully submit an inquiry
-* Review whether submitters have all the information they need when reviewing an ongoing or past inquiry
+* Review whether submitters have the information they need when reviewing an ongoing or past inquiry
 
 ### Outcome
 
