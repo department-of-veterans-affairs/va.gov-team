@@ -53,7 +53,7 @@ This research will help us determine if and how we need to improve the design an
 
 ### Hypotheses
 
-1. Most people will think authentication is required in order to ask any question, or, they will not understand that it’s required for specific types of fields.
+1. Most people will think authentication is required in order to ask _any_ question.
 2. Most people will find the form straightforward and intuitive.
 3. Most people will choose to answer fields even if they are not required.
 4. Most people will understand how long the form is and their progress.
