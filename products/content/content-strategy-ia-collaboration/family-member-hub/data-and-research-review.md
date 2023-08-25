@@ -9,6 +9,32 @@ This file contains information on the following
 2. [Related findings from past research efforts](#research)
 3. [Summary of Medallia and call center data](#callcenter)
 
+
+
+## High level findings (Draft)
+
+From Veteran and family member research
+- The streamlined health care hub helped visitors find the correct family and caregiver benefit information, as opposed to selecting veteran content to find their answers
+- Recent tree tests for the MHV portal showed more family member participants looking initially to the family member benefit hub for information on their own benefits
+- In addition, the streamlined hub showed an increase of family members looking for travel pay within the family member hub.  In these tests, that hub was not built out so they did not find the answers there and had to look elsewhere, but this indicates their initial mindset to favor the family member hub
+- Both rounds of the MHV portal tree testing showed
+
+From data
+- Over the past year, the family member hub has had more page views than any of the other family member benefit pages within the benefit hubs  
+- It is also the #1 referring page on VA.gov to all of the other benefit pages within the benefit hubs.  However, visitors do not go to the family member hub after viewing family content within benefit hub page as often.  So while the family hub consistently refers visitors to family content in the veteran hubs, the family content in veteran hubs is not referring visitors to the family  hub.  This is a potential opportunity to better expose family members to the other benefit options they have. 
+- The family member hub is clicked at least 4x more than any other family content option in the top nav, but quite a bit less than the core benefit options
+- Top searches contain more specific terms than "family" - i.e. dependent, caregiver, survivor, spouse
+
+Thoughts
+- Research and data is showing a trend towards more use of the family member hub 
+- The hub name change from "Family member" to "Family and caregiver" seemed to improved its findability, and search data leans towards more specific labels
+- Pages within the Veteran benefits hubs are still very much needed, but should strongly reference and link to the family member hub
+- The family hub should include more than information on exploring and applying for benefits - it should also include tasks related to family members being able to manage their own benefits
+
+
+
+
+
 ## <a name="analytics"></a>Site analytics and search data 
 
 ### YoY Performance of the [Family member benefits hub page](https://www.va.gov/family-member-benefits)
