@@ -37,20 +37,23 @@ The key goals of this study are to:
 * Review whether submitters can successfully submit an inquiry
 * Review whether submitters have the information they need when reviewing an ongoing or past inquiry
 
+**Note:** In our research documentation, the words `user` and `submitter` are used interchangeably.
+
 ### Outcome
 
 This research will help us determine if and how we need to improve the design and content of our MVP.
 
 ### Research questions
 
-* Is it clear when you need to authenticate or when it’s optional?
-* Are you missing information on any question, page or sequence of pages?
+* Is it clear when users need to authenticate or when it’s optional?
+* Are users missing information on any question, page or sequence of pages?
 * Are there too many or too few fields per page?
-* Do you understand how to edit their answers on the review page?
-* Is it clear what to expect after you submit an inquiry?
-* Are you missing any information to identify which inquiry you're reviewing?
-* How and how often do you expect to be updated about changes to your inquiry status?
-* What do you expect to happen after you receive a response to your inquiry?
+* Do users understand why we're asking each question?
+* Do users understand how to edit their answers on the review page?
+* Is it clear what to expect after they submit an inquiry?
+* Are users missing any information to identify which inquiry they're reviewing?
+* How and how often do users expect to be updated about changes to their inquiry status?
+* What do users expect to happen after you receive a response to their inquiry?
 
 ### Hypotheses
 
