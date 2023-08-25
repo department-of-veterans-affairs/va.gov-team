@@ -80,6 +80,17 @@ Name & Link to slack or teams profile
 
 - [Path analysis research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104)
 
+## Success Integrations
+
+### Check In
+
+As Veteran, I want to submit a travel claim during the check in process
+
+Team docs: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin
+Prototype: https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6/prototype/a/0042DC07-D314-45AF-946F-884DCBBE43C0
+Sketch file (w/ additional confirmation pages) : https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6
+User flow (w/ text messages): https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531124203/5edcfd3ea4b1eaf1ef082d56782a8b3291ef3932?sender=u37bb983bd3fc3cc00c7d3286
+
 ## Who We Work With
 
 - VA Business Partners:
