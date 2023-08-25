@@ -1,6 +1,6 @@
 # My VA Health Care Use Case: User has VA health care and has received health care services at a Cerner facility
 
-**Last updated:** April 13, 2023
+**Last updated:** August 25, 2023
 
 For LOA3 users who sign in, have VA health care, and have received care at a Cerner facility, we will show an alert in the Health care section of My VA directing them to the new VA health portal and My HealtheVet.
 
