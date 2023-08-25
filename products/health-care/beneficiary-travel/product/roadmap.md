@@ -39,6 +39,7 @@
 1. Aid in creating and delievering on `how to make better claims get processed more efficiently`
 1. Add functioanlity to expose payment status (where, when, etc)
    - Could be apart of the existing status endpoint and include how much was paid
+1. Sending Notifications to a Veteran on Claim status updates. 
 
 
 ## Next for va.gov submission tool focused team - Fall 2023
