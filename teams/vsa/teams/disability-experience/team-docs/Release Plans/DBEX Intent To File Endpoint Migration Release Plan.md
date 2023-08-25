@@ -172,13 +172,11 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 0.5%
 #### Results:  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies
+    - 8/24: Traffic increased to 1% due to needing more cases to observe
+    - 8/24: Noted discrepancy between LH 404s and POSTs called
+        - Normal behavior, the GET went to EVSS while the POST was called through LH
+    - 8/25: Noted 404s on the LH side that we're not duplicated on the v0 side
 - Rollbacks:
 
 <br>
