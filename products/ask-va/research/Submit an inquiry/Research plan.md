@@ -1,6 +1,6 @@
 # Research plan for Ask VA: Submit an inquiry
 
-Ask VA Integration Team, August 2023
+Ask VA Integration Team
 
 Last updated by @tygindraux: August 25, 2023
 
