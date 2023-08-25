@@ -45,7 +45,7 @@ Start the pre-need eligibility application {link - action}
 * Personal information (including Social Security number and date of birth).
 * Military history or the military history of the service member or Veteran who’s sponsoring your application.
 * The name of the VA national cemetery where you’d prefer to be buried.
-[Find a VA national cemetery](https://staging.va.gov/find-locations)
+[Find a VA national cemetery (opens in a new tab)](https://staging.va.gov/find-locations)
 
 #### To help us process your application faster, you can upload: {h4}
 
@@ -60,7 +60,7 @@ A copy of your or your sponsor’s DD214 or other separation files
 #### What if I need help filling out my application? {h4}
 
 An accredited representative, like a Veterans Service Officer (VSO), can help you fill out your claim.
-[Get help filing your claim](https://staging.va.gov/disability/get-help-filing-claim/)
+[Get help filing your claim (opens in a new tab)](https://staging.va.gov/disability/get-help-filing-claim/)
 
 ### 2. Apply [h3]
 
