@@ -8,7 +8,7 @@ Last updated by @ruchishah29 on August 24, 2023
 - [Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#dashboard)
 - [Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#profile)
 - [Notify](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#notify)
-- [Assumptions/Risks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#assumptions/risks)
+- [Assumptions/Risks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#assumptionsrisks)
 
 ## Inquiry form
 
@@ -74,7 +74,7 @@ Last updated by @ruchishah29 on August 24, 2023
 
 After looking at the must haves, what risks do we see that will impact those deliverables?
 
-### 1. Dependency on the CRM Team
+### 1. Dependency on CRM Team
 - API Layer that both exposes data to us (dashboard) and receives data from us (inquiry submission) + additional time for AVA Engineering team to implement.
 - If the API layer cannot be done by CRM Team - we would need a Dynamics instance and time to ramp up.
 
@@ -82,7 +82,7 @@ Impact of this Risk: `HIGH`
 
 Without this work, we would not be able to send the data collected in the new AVA back to Dynamics for routing. It would prevent us from launching our MVP.
 
-### 2. Alignment between Sitewide Content and the business lines on content updates.
+### 2. Alignment between Sitewide Content and the business lines on content updates
 
 Impact of Risk: `LOW`
 
