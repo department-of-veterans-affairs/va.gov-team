@@ -39,7 +39,7 @@ In additon, if bugs are discovered, features can easily be disabled remotely wit
 * Determine what the content and modal will look like when a remote configuration is happening
 * With the best UX possible, we should be able to remotely clear caches and/or shut down parts of the mobile app in times of dire need.
 * This could be applied if we’re rolling out a major feature and need users to get it or if we need to roll a major feature back ASAP and we need user actions associated with it, or if an entire backend api is retired without alternative as we’ve seen the VA attempt in the past.
-* We never have to use this feature.
+
 
 **User outcomes:**
 
