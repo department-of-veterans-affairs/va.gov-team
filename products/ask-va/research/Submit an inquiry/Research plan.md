@@ -71,6 +71,7 @@ This will be a moderated usability study conducted remotely over Zoom. We will u
 ### Research materials
 
 - [Conversation guide: Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Conversation%20guide%3A%20Veterans.md)
+- [Conversation guide: Veterans - Screen Readers](url goes here)
 - [Conversation guide: Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Conversation%20guide%3A%20Dependents.md)
 - [Prototype](url goes here)
 	
