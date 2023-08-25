@@ -13,7 +13,7 @@ Last updated Aug 2023
  (2023)
     * Personalization "umbrella" design strategy
 #### Home Screen
-  * [VA Mobile app - Personalized Home Screen - Design Strategy Worksheet](TBD) | [doc](https://docs.google.com/document/d/1-nAN6VTg2dtKSv4UXIOlMZxdr8pWmA0l/edit#heading=h.gjdgxs) (2023)
+  * [VA Mobile app - Personalized Home Screen - Design Strategy Worksheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/personalization-homescreen-design-strategy-worksheet-2023.md) | [doc](https://docs.google.com/document/d/1-nAN6VTg2dtKSv4UXIOlMZxdr8pWmA0l/edit#heading=h.gjdgxs) (2023)
     * Homescreen-specific design strategy for personalization
 
       
