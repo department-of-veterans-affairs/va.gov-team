@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: August 23, 2023
+Last updated: August 25, 2023
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -50,14 +50,14 @@ Time
 
 Location
 
-[Schedule and manage your appointments](https://va.gov/health-care/schedule-view-va-appointments/appointments)
+[Schedule and manage your appointments](https://va.gov/my-health/appointments)
 
 **Content specs**
 
 - Next appointment: Static text that appears this way for every appointment card
-- Date: Date of the soonest appointment in the [appointments tool](https://va.gov/health-care/schedule-view-va-appointments/appointments)
-- Time: Time of the soonest appointment in the [appointments tool](https://va.gov/health-care/schedule-view-va-appointments/appointments)
-- Location: Location of the soonest appointment in the [appointments tool](https://va.gov/health-care/schedule-view-va-appointments/appointments)
+- Date: Date of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
+- Time: Time of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
+- Location: Location of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
 
 ---
 
@@ -68,7 +68,7 @@ Location
 
 **Show**
 
-- If a user has VA health care but does not have any upcoming appointments scheduled in the [appointments tool](https://va.gov/health-care/schedule-view-va-appointments/appointments).
+- If a user has VA health care but does not have any upcoming appointments scheduled in the [appointments tool](https://va.gov/my-health/appointments).
 
 #### **Content**
 
@@ -197,7 +197,7 @@ Use font awesome icon `calendar` for icon
 
 #### Content
 
-[Schedule and manage your appointments](https://va.gov/health-care/schedule-view-va-appointments/appointments)
+[Schedule and manage your appointments](https://va.gov/my-health/appointments)
 
 ---
 
@@ -287,7 +287,7 @@ Use font awesome icon `file-medical` for icon
 >**We can't access your appointment information**
 >
 >We're sorry. Something went wrong on our end and we can’t access your appointment information. Please try again later or go to the appointments tool:
->[Schedule and manage your appointments](https://va.gov/health-care/schedule-view-va-appointments/appointments)
+>[Schedule and manage your appointments](https://va.gov/my-health/appointments)
 
 **Positioning**
 - This should appear under the 'Health care' header on the lefthand side on desktop.
