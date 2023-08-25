@@ -65,58 +65,65 @@ moderator asked them questions to gain understanding of expectations and satisfa
  <br> 
 
  ## Participant demographics
- - 13 Participants
-   - Veterans: 7
-   - Caregivers: 2
-   - Veterans, who are also Caregivers: 4
-
-  - Disabilities
-     - Cognitive Disability: 5
-   
-- Gender
-  - Female: 6
-  - Male: 7
+### 13 Participants
+- Veterans: 7
+- Caregivers: 2
+- Veterans, who are also Caregivers: 4
+ <br>
  
-- Ages
-  - 25-34: 1
-  - 35-44: 4
-  - 45-54: 3
-  - 55-64: 3
-  - 65-74: 1
-   - Did not disclose: 1
- 
-- Race
-  - White: 4
-  - Black or African American: 6
-  - Hispanic/Caucasian: 1
-  - American Indian/Alaskan
-  - Native: 1
-  - Did not disclose: 1
- 
-- Education Level
-  - Some college, no degree: 2
-  - Bachelor’s: 5
-  - Master’s: 6
+### Disabilities
+- Cognitive Disability: 5
+ <br>
   
- - Branch of Service
-   - Army: 6
-   - Marine Corps: 1
-   - Air Force: 2
-   - Coast Guard: 1
-   - Navy: 1
-   - Did not disclose: 1
-
- - States Represented
-   -  Oregan: 1
-   -  Texas: 3
-   -  Louisiana: 1
-   -  Missouri: 1
-   -  Georgia: 2
-   -  South Carolina: 1
-   -  North Carolina: 1
-   -  Indiana: 1
-   -  Ohio: 1
-   -  Pennsylvania: 1
+### Gender
+- Female: 6
+- Male: 7
+ <br>
+  
+### Ages
+- 25-34: 1
+- 35-44: 4
+- 45-54: 3
+- 55-64: 3
+- 65-74: 1
+- Did not disclose: 1
+  <br>
+  
+### Race
+- White: 4
+- Black or African American: 6
+- Hispanic/Caucasian: 1
+- American Indian/Alaskan
+- Native: 1
+- Did not disclose: 1
+  <br>
+  
+### Education Level
+- Some college, no degree: 2
+- Bachelor’s: 5
+- Master’s: 6
+   <br>
+   
+ ### Branch of Service
+- Army: 6
+- Marine Corps: 1
+- Air Force: 2
+- Coast Guard: 1
+- Navy: 1
+- Did not disclose: 1
+ <br>
+ 
+### States Represented
+-  Oregan: 1
+-  Texas: 3
+-  Louisiana: 1
+-  Missouri: 1
+-  Georgia: 2
+-  South Carolina: 1
+-  North Carolina: 1
+-  Indiana: 1
+-  Ohio: 1
+-  Pennsylvania: 1
 
  <br> 
  <br> 
@@ -126,167 +133,137 @@ moderator asked them questions to gain understanding of expectations and satisfa
 
 ### Past AVS Experience
 
-1. All participants routinely reviewed information about their appointments, tests, and upcoming tasks to complete. The method they utilized to access this information differed.
+**1. All participants routinely reviewed information about their appointments, tests, and upcoming tasks to complete. The method they utilized to access this information differed.**
 
-    * My HealtheVet: 7
-    * VA AVS paper printout: 4
-    * Non-VA AVS: 2
-    * Lab specific paper reports: 2
-    * VA AVS (unknown if digital or paper printout): 1
-    * Printout of upcoming appointments: 1
+- My HealtheVet: 7
+- VA AVS paper printout: 4
+- Non-VA AVS: 2
+- Lab specific paper reports: 2
+- VA AVS (unknown if digital or paper printout): 1
+- Printout of upcoming appointments: 1
 
-    **Recommendation:** Spread awareness via the changebmanagement process that a digital AVS is available on VA.gov.
+**Recommendation:** Spread awareness via the changebmanagement process that a digital AVS is available on VA.gov.
  <br> 
  <br> 
 
-2. The information in the current VA AVS matches the information that participants routinely review after an appointment. 
+**2. The information in the current VA AVS matches the information that participants routinely review after an appointment.** 
 
-    * Information that participants routinely review:
-        * Labs: 6
-        * Medications: 4
-        * Provider notes/what provider documented: 3
-        * Appointments: 2
-        * Instructions before an upcoming procedures, radiology, and tests: 2
-        * Results from a procedure and radiology: 2
-        * Blue button: 1
-        * Vitals: 1
-        * Terminology: 1
-        * Medical tasks that need to be completed: 1
+- Labs: 6
+- Medications: 4
+- Provider notes/what provider documented: 3
+- Appointments: 2
+- Instructions before an upcoming procedures, radiology, and tests: 2
+- Results from a procedure and radiology: 2
+- Blue button: 1
+- Vitals: 1
+- Terminology: 1
+- Medical tasks that need to be completed: 1
 
-      **Note:** Participants had not reviewed the prototype yet when they shared this information.
+**Note:** Participants had not reviewed the prototype yet when they shared this information.
   <br> 
  <br>     
 
-3. The name "After-visit summary" matches Veteran/caregiver mental models. Terms participants used to name an AVS:
+**3. The name "After-visit summary" matches Veteran/caregiver mental models. Terms participants used to name an AVS:**
 
- 
-    * After appointment confirmation or Post OP: 1
-        * After-visit summary: 2
-        * Summary report: 1
-        * Appointment review: 1
-        * Lab print-out: 1
-        * An overview or summary: 1
-        * A review of medical records: 1
-        * Doctor’s notes: 1
-        * A visit summary: 1
-        * Lab results or radiology results: 1
-        * A summary of visit: 1
-        * Prior-office visit information: 1
+- After appointment confirmation or Post OP: 1
+- After-visit summary: 2
+- Summary report: 1
+- Appointment review: 1
+- Lab print-out: 1
+- An overview or summary: 1
+- A review of medical records: 1
+- Doctor’s notes: 1
+- A visit summary: 1
+- Lab results or radiology results: 1
+- A summary of visit: 1
+- Prior-office visit information: 1
 
-    **Recommendation:** Keep referring to this experience as the "After After-visit summary."
+**Recommendation:** Keep referring to this experience as the "After After-visit summary."
  <br> 
  <br> 
   
-4. 7 Veterans mentioned that they sometimes don’t receive appointment summaries or lab results until 48-72 hours following the appointment.
+**4. 7 Veterans mentioned that they sometimes don’t receive appointment summaries or lab results until 48-72 hours following the appointment.**
 
-         "In person notes are loaded, usually 2 to 3 days after the initial visit, and so
-          sometimes, they make people have to wait for the after visit summary; so I
-          request my husband to bring them to me, so that I know what transpired"-Caregiver participant
+ >In person notes are loaded, usually 2 to 3 days after the initial visit, and so
+  sometimes, they make people have to wait for the after visit summary; so I
+  request my husband to bring them to me, so that I know what transpired - Caregiver 
 
-    **Recommendation:** Within the AVS, add content to inform Veteran/caregiver that lab results are still in progress and send the AVS notification as soon as it is available.
-</br>
-
+**Recommendation:** Within the AVS, add content to inform Veteran/caregiver that lab results are still in progress and send the AVS notification as soon as it is available.
+<br> 
+ <br> 
 
 ### Information Architecture
 </br>
 
-5. Participants validated past research that Veterans/caregivers expect AVSs within appointments and care summaries and notes.
+**5. Participants validated past research that Veterans/caregivers expect AVSs within appointments and care summaries and notes.**
  <br> 
  <br>
-
 <img 
 width="709" alt="Finding 5" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/11db9697-a91c-41f3-97bc-1beab1c12369">
 
+**Recommendation:** Don't change the current information architecture plan to include AVS within appointments and care summaries and notes.
 <br>
 <br>
-    **Recommendation:** Don't change the current information architecture plan to include AVS within appointments and care summaries and notes.
 
+**6. 2 out of 6 participants were confused by the label "Schedule and manage appointments,"
+because the appointment they were looking for occurred in the past.**
 
-
-6. 2 out of 6 participants were confused by the label "Schedule and manage appointments,"
-because the appointment they were looking for occurred in the past.
-
-        “My first thought would be to schedule and manage appointments, but I already had [the appointment]. So, it's not really scheduling it,
-         but I don't see anything else that would be relevant.”
+> My first thought would be to schedule and manage appointments, but I already had [the appointment]. So, it's not really scheduling it, but I don't see anything else that would be relevant.”
    
- <br>
-<br>  
 <img 
  width="152" alt="Finding 6" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/2161f2fc-b425-4731-bdc6-7fc10223afd3">
 
+**Recommendation:** Review past appointment research into this label and add this as a research question to future studies. If evidence continues to suggest Veteran/caregiver confusion, then make changes to the label.
 <br>
 <br>
 
- **Recommendation:** Review past appointment research into this label and add this as a research question to future studies. If evidence continues to suggest Veteran/caregiver confusion, then make changes to the label.
- 
+**7. When already on the AVS page, 6 participants thought they needed to click on the "Details" link to view the needed to click on the "Details" link to view the AVS.**
 <br>
 <br>
+**Example workflow from one participant:**
+- Reached the AVS and didn't scroll down the page.
+- Chose the "Details" link, where they expected to see doctor's recommendations, follow ups, and referrals.
 
-7. When already on the AVS page, 6 participants thought they needed to click on the "Details" link to view the needed to click on the "Details" link to view the AVS.
-
-<br>
-<br>
-    * Example workflow from one participant:
-       * Reached the AVS and didn't scroll down the page.
-       * Chose the "Details" link, where they expected to see doctor's recommendations, follow ups, and referrals.
-
-<br>
-<br>
 <img 
  width="161" alt="Findings 7" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/2e665ce8-fa23-46bb-b6eb-9466a097ca75">
  
+ **Recommendation:** Remove the "Details" link.
  <br> 
  <br>
-     **Recommendation:** Remove the "Details" link.
- <br> 
- <br>
 
-8. 7 participants thought that they had to click o the "Details" link to access doctor's instructions or results.
+**8. 7 participants thought that they had to click o the "Details" link to access doctor's instructions or results.**
 
-        “It's not allowing me to click on details…It will actually show me the summary notes of the visit, and then, when I click on the lab work well, I don't know if that 
-         lab work is part of the 9:50 appointment, or not, because it has a 11:30 a.m. time. I wouldn’t know if that's the next procedure that the doctor wants me to have 
-   done.”
-
+> It's not allowing me to click on details…It will actually show me the summary notes of the visit, and then, when I click on the lab work well, I don't know if that lab work is part of the 9:50 appointment, or not, because it has a 11:30 a.m. time. I wouldn’t know if that's the next procedure that the doctor wants me to have done.
 
 <img 
  width="169" alt="Findings 8" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/2cc8f83e-d31f-43bf-a748-bcb76d63b8b2">
-<br> 
- <br>
 
-    **Recommendation:** Remove the "Details" link.
+
+**Recommendation:** Remove the "Details" link.
 
  <br> 
  </br>
 
-9. 10 participants easily navigated from one AVS to another using the back breadcrumb. Some of the other locations the 3 participants tried to click on to navigate were:
-Collapsing the AVS accordions Scrolling to the bottom of the page Clicking the Hector profile icon.
+**9. 10 participants easily navigated from one AVS to another using the back breadcrumb** 
 
-
-
+**Some of the other locations the 3 participants tried to click on to navigate were:**
+- Collapsing the AVS accordions Scrolling to the bottom of the page Clicking the Hector profile icon.
 
 <img 
  width="126" alt="Findings 9" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/9ac19b7b-29e5-48d1-b00f-4344e342552c">
-
- <br> 
- <br>
-    **Recommendation:** The navigational structure (back buttons) can remain the same.
+ 
+**Recommendation:** The navigational structure (back buttons) can remain the same.
    <br> 
  <br>
+ 
+**10.3 out of 6 participants, who reviewed the appointments section, expected the "pending"list to include referrals, recall, follow up, or imaging appointments that still need to be scheduled. All participants correctly assumed this list weren't confirmed appointments.**
 
-
-
-10.3 out of 6 participants, who reviewed the appointments section, expected the "pending"list to include referrals, recall, follow up, or imaging appointments that still need to be scheduled. All participants correctly assumed this list weren't confirmed appointments.
-
-        "I would expect to see the...ones that...I've either requested myself...or another provider has put into the system, but they haven't been confirmed yet, either by 
-         me or the other person."
-
-
+> I would expect to see the...ones that...I've either requested myself...or another provider has put into the system, but they haven't been confirmed yet, either by me or the other person.
 
 <img
  width="142" alt="Findings 10" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/a0fdb8ad-2882-4322-b249-cd17d0a22021">
  
-
-    **Recommendation:** Conduct further research when adding referrals and recalls to the appointment list.
+**Recommendation:** Conduct further research when adding referrals and recalls to the appointment list.
 
  <br> 
  <br>
@@ -295,180 +272,145 @@ Collapsing the AVS accordions Scrolling to the bottom of the page Clicking the H
  <br> 
  <br>
 
-11. Overall, the majority of participants had a very positive response to the AVS and stated it contains a lot of useful information.
+**11. Overall, the majority of participants had a very positive response to the AVS and stated it contains a lot of useful information.**
     
-        "It looks pretty thorough, and I like the way it's sectioned out…I think it kind of gets more to the summary of everything without having to read through a whole 
-         couple of paragraphs to figure out what was going on." “It looks like it will give me quicker access to the information that I'm looking for.”
- <br> 
- <br>   
-
+> It looks pretty thorough, and I like the way it's sectioned out…I think it kind of gets more to the summary of everything without having to read through a whole couple of paragraphs to figure out what was going on." “It looks like it will give me quicker access to the information that I'm looking for.”
 
 <img 
  width="144" alt="Finding 11" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/46494bef-bd9e-410b-aa67-955c4fda61b2">
+<br> 
+ <br>
+
+**12. A third of the participants saw the AVS as a place to confirm that their providers understood what they were trying to convey during the appointment.**
+ 
+> I review that so that I can see how the doctor, or whoever I saw, interpreted what I was saying; if they heard what I intended to convey.
+
+**Recommendation:** Explore ways to connect/crosslink AVS and other care summaries and notes, such as progress notes, so a complete story of what the provider understood can be shared with the Veteran/caregiver.
 
  <br> 
  <br>
- 
 
-12. A third of the participants saw the AVS as a place to confirm that their providers understood what they were trying to convey during the appointment.
- 
-        "I review that so that I can see how the doctor, or whoever I saw, interpreted what I was saying; if they heard what I intended to convey.”
-
-    **Recommendation:** Explore ways to connect/crosslink AVS and other care summaries and notes, such as progress notes, so a complete story of what the provider understood can be shared with the Veteran/caregiver.
-
- <br> 
- <br>
-
-
-13. Even though half of the participants stated the instructions within the "Your treatment plan from this appointment" section were helpful, half of participants also made suggestions to add information.
+**13. Even though half of the participants stated the instructions within the "Your treatment plan from this appointment" section were helpful, half of participants also made suggestions to add information.**
     
-    * Examples of information requested:
-       * What to do for upcoming tests (or knowing that they don't have to do anything)
-       * Phone numbers and addresses of imaging facilities and pharmacies.
-       * Deadlines and turn around times for lab work before certain procedures or appointments.
-       * Whether tests can be done on a walk in basis or if an appointment is required.
-
-
+**Examples of information requested**
+- What to do for upcoming tests (or knowing that they don't have to do anything)
+- Phone numbers and addresses of imaging facilities and pharmacies.
+- Deadlines and turn around times for lab work before certain procedures or appointments.
+- Whether tests can be done on a walk in basis or if an appointment is required.
 
 <img 
  width="125" alt="Findings 13" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/4dda1423-e0cf-489e-a9e7-f489287ca0f3">
 
- 
-     **Recommendation:** Complete additional research to understand the technical and Veteran value of these requests.
+**Recommendation:** Complete additional research to understand the technical and Veteran value of these requests.
 
 <br> 
 <br>
 
+**14. 8 participants didn't know what a recall appointment was.**
 
-14. 8 participants didn't know what a recall appointment was.
-
-        "Recall appointments are appointments that someone has to come in multiple times for something; maybe they need to come in weekly for their blood pressure… they 
-         need to have their blood drawn every2 weeks to check or something like that, just to kind of remind people because life gets busy". "I don't know, because VA 
-         doesn't do walk ins to see your primary care. I'm not sure what a recall appointment is."
-
-
+> Recall appointments are appointments that someone has to come in multiple times for something; maybe they need to come in weekly for their blood pressure… they need to have their blood drawn every2 weeks to check or something like that, just to kind of remind people because life gets busy". "I don't know, because VA doesn't do walk ins to see your primary care. I'm not sure what a recall appointment is.
 
 <img 
  width="187" alt="Finding 14" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/9d0a23f6-e8cd-4e3d-b482-43202a6ffd86">
 
-    **Recommendation:** Eliminate the term "recall" for these appointment types. Provide a more accurate and descriptive name for these type of appointments.
+**Recommendation:** Eliminate the term "recall" for these appointment types. Provide a more accurate and descriptive name for these type of appointments.
 
 <br> 
 <br>
 
+**15. 4 Participants incorrectly defined the "You were diagnosed with" section.**
 
-15. 4 Participants incorrectly defined the "You were diagnosed with" section.
-
-    * They defined "You were diagnosed with" as all new diagnoses from this appointment and past diagnoses from other appointments.
-    * When asked about the alternative section title, "Health conditions you discussed," participants defined that section as concerns and conditions discussed with their provider at this appointment, which may or may not be official diagnoses.
-    * Participants commented that both "You were diagnosed with" and "Health conditions you discussed" were valuable to review within an AVS.
+- They defined "You were diagnosed with" as all new diagnoses from this appointment and past diagnoses from other appointments.
+- When asked about the alternative section title, "Health conditions you discussed," participants defined that section as concerns and conditions discussed with their provider at this appointment, which may or may not be official diagnoses.
+- Participants commented that both "You were diagnosed with" and "Health conditions you discussed" were valuable to review within an AVS.
   
-
-
 <img 
  width="131" alt="Finding 15" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/9d6cc760-97d6-4f04-95bb-3223546a08d9">
 
-    **Recommendation:** Explore an alternate title to the "You were diagnosed with" section.
+  **Recommendation:** Explore an alternate title to the "You were diagnosed with" section.
 
 <br> 
 <br>
 
-
-
-16. 7 participants understood that the “Problem list” showed all their diagnoses, but some saw overlap or confusion with the "You were diagnosed with" section.
+**16. 7 participants understood that the “Problem list” showed all their diagnoses, but some saw overlap or confusion with the "You were diagnosed with" section.**
     
-           "I guess these are the things that you tested me for and these are the problems that you saw."
+> I guess these are the things that you tested me for and these are the problems that you saw.
  
-           "I feel like, if you are going to keep the problem list...then you can just take away the ["You were diagnosed with"] section."
+> I feel like, if you are going to keep the problem list...then you can just take away the ["You were diagnosed with"] section.
  
-
 
 <img 
  width="167" alt="Finding 16" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/d7cc7d01-2382-4cf3-b349-04701d3bab46">
  
 
-    **Recommendation:** Explore how to remove confusion between the "You were diagnosed with" and "Problems list" sections.
-
+**Recommendation:** Explore how to remove confusion between the "You were diagnosed with" and "Problems list" sections.
 <br> 
 <br>
 
-
-17. Half of the participants didn't understand at least one medical term and wanted more information to educate themselves.
+**17. Half of the participants didn't understand at least one medical term and wanted more information to educate themselves.**
     
-         "Respirations...what does that mean?"
+> Respirations...what does that mean?
 
-        "I would probably have to look up some of this. [Hypertension]…I don’t know what that is. Could they put a link, what does this mean? Like a
-         glossary similar to the medication section. That way that I don’t have to get on Google and diagnosis myself that I’m dying …like we all do."
+> I would probably have to look up some of this. [Hypertension]…I don’t know what that is. Could they put a link, what does this mean? Like a glossary similar to the medication section. That way that I don’t have to get on Google and diagnosis myself that I’m dying …like we all do.
     
-          “The PO… that is unclear…Oh. Yeah, that [means] Post Office.”
-
-
+> The PO… that is unclear…Oh. Yeah, that [means] Post Office.
 
 <img 
  width="152" alt="Finding 17" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/f200d734-7857-4261-9f86-0644fcefd4d2">
 
-    **Recommendation:** Complete a content review of medical terminology within the AVS to identify areas for more plain language. Ensure that if clinicians entered patient friendly descriptions, then displaythem within the AVS. In addition, expand patient education articles linking within the AVS. For example, make hypertension a link to an article describing the condition.
-
+  
+**Recommendation:** Complete a content review of medical terminology within the AVS to identify areas for more plain language. Ensure that if clinicians entered patient friendly descriptions, then displaythem within the AVS. In addition, expand patient education articles linking within the AVS. For example, make hypertension a link to an article describing the condition.
 <br> 
 <br>
 
 
-18. 6 participants would like their vitals to be displayed in Imperial/U.S. standard measurements instead of the metric system.
+**18. 6 participants would like their vitals to be displayed in Imperial/U.S. standard measurements instead of the metric system.**
     
-       "The temperature in Celsius is not helpful for me...I got to go get a converter for that.“
+> The temperature in Celsius is not helpful for me...I got to go get a converter for that.
 
-        “The height and weight I prefer to have in inches and pounds if I'm the one using it. Obviously, the medical people probably want it [in metric].”
+> The height and weight I prefer to have in inches and pounds if I'm the one using it. Obviously, the medical people probably want it [in metric].
 
-        “I don't know what the temperature is…instead of Fahrenheit. What is 36.4 C?”
-
-
+> I don't know what the temperature is…instead of Fahrenheit. What is 36.4 C?
 
 <img 
  width="190" alt="Finding 18" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/664aee6a-13bf-4a9f-a429-195daded3187">
 
-     **Recommendation:**  Ensure that the default configuration is set to Imperial/U.S. standard, which the VA AVS system already provides.
-
+**Recommendation:**  Ensure that the default configuration is set to Imperial/U.S. standard, which the VA AVS system already provides.
 <br> 
 <br>
 
-19. 4 participants saw value in sharing their AVS with non- VA providers. They specifically discussed wanting to print out copies.
+**19. 4 participants saw value in sharing their AVS with non- VA providers. They specifically discussed wanting to print out copies.**
 
-        “I could print it out…my dad… also uses the VA, we can go onto his site, and I can see what he is allergic to and help his providers…So, it'd be easy… a nice thing to print out.”
+> I could print it out…my dad… also uses the VA, we can go onto his site, and I can see what he is allergic to and help his providers…So, it'd be easy… a nice thing to print out.
 
-        “If I were to see a provider outside the VA that would need my medication list, this is a great reference for me to pull and either print out.”
+> If I were to see a provider outside the VA that would need my medication list, this is a great reference for me to pull and either print out.
 
-
-    **Recommendation:** Ensure that the AVS product has a good print stylesheet and an accessible, downable PDF.
+**Recommendation:** Ensure that the AVS product has a good print stylesheet and an accessible, downable PDF.
 <br> 
 <br>
-
 
 ### Medications
 <br> 
 <br>
 
-20. 8 participants interpreted the "Medications administered at the clinic" section incorrectly.
+**20. 8 participants interpreted the "Medications administered at the clinic" section incorrectly**
 
-    * Participants assumed the medication:
-         * would be received during a later visit.
-         * was given at the clinic, but also required them to take more later at home after picking up a prescription.
-         * would either be administered during the procedure or mailed to them to take before arriving to an appointment.
+**Participants assumed the medication:**
+- would be received during a later visit.
+- was given at the clinic, but also required them to take more later at home after picking up a prescription.
+- would either be administered during the procedure or mailed to them to take before arriving to an appointment.
   
-        “That's what's being used during the procedure…so, they ordered it…and said… you… [are] going to get this in the mail; you need to make sure you take this and it's
-going to be telling you how to take it. And you take it before you come in for the procedure.”
+> That's what's being used during the procedure…so, they ordered it…and said… you… [are] going to get this in the mail; you need to make sure you take this and it's going to be telling you how to take it. And you take it before you come in for the procedure.
 
-        “It says, give…[not] given…[it should] say the time…and a date…It doesn't say if it's given or not…so I'm thinking…It's saying that he hasn't taken it yet.”
-
-
+> It says, give…[not] given…[it should] say the time…and a date…It doesn't say if it's given or not…so I'm thinking…It's saying that he hasn't taken it yet.
 
 <img 
  width="307" alt="Findings 20" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/5ad67778-380e-4dac-8117-5ce358b0d0c9">
 
-    **Recommendation:** Change the section title and label to something More plain language and understandable.
+**Recommendation:** Change the section title and label to something More plain language and understandable.
 
 <br> 
 <br>
-
 
 21. The "My medications" section met the expectations of most participants.
 
