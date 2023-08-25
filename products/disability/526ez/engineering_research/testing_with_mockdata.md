@@ -22,13 +22,14 @@ A coupld things you will need to install to follow this guide
     - in your browser, make sure you have the Redux dev tools chrome extension.  This will make it possible to pull user data our of your session (more on that later).  [The extension is available here](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - `redis-cli` should be available if you have completed your [environment setup](https://github.com/department-of-veterans-affairs/vagov-claim-classification-data/wiki/Setting-up-VA.gov-locally-for-this-project#start-it-all-up).  If not do that first.
 
+
 ### Step 0. Prep
 1. Start you development and web servers.  Although slightly counterintuitive, you do **not** need to restart your server see user changes reflected, however you may need to clear out old user session data in your browsers cache and you will need to clear your redis cache.
 
 2. Determine the user you want to use.  Remember that User objects aren't instantiated until there is a session, so for example if you want to login and test as user `vetsgovuser228`, you will be modify the associated data files for that user.
 
 
-#### Step 1. Edit the user in the mock-data repo
+### Step 1. Edit the user in the mock-data repo
 1. The first thing to do is find the users `.json` file under the appropriate login method path.  these files are in the `/credentials` directory of the vets-api-mockdata repository, so for instance if we login using IdMe, we would find the file `credentials/idme/vetsgovuser228.json`.
 
 <img width="768" alt="Screenshot 2023-08-25 at 1 30 50 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/95f50c08-b216-4dbc-9212-7d92c463cc11">
