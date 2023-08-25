@@ -6,6 +6,7 @@ Last updated by @tygindraux: August 25, 2023
 
 **Jump ahead to:**
 - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#background)
+- [Research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#research-goals)
 - [Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#methodology)
 - [Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#recruitment)
 - [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#timeline)
