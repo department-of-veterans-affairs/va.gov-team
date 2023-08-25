@@ -1,8 +1,8 @@
 # Research plan for Ask VA: Submit an inquiry
 
-Ask VA Integration Team, July 2023
+Ask VA Integration Team, August 2023
 
-Last updated by @tygindraux: July 25, 2023
+Last updated by @tygindraux: August 25, 2023
 
 ## Background
 
@@ -29,57 +29,48 @@ Ask VA can support Veterans, caregivers and other submitters at all stages of th
 
 The key goals of this study are to:
 
-* Understand how submitters expect to answer form fields and in which order
-* Understand if submitters are clear when to authenticate and the benefits
-* Understand how submitters expect to review an ongoing or past inquiry
+* Review whether submitters can successfully submit an inquiry
+* Review whether submitters have all the information they need when reviewing an ongoing or past inquiry
 
 ### Outcome
 
-This research will help us determine if and how we need to improve the design and content of this current iteration of the form and dashboard.
+This research will help us determine if and how we need to improve the design and content of our MVP.
 
 ### Research questions
 
-Understand how submitters expect to answer fields and in which order:
+Review whether submitters can successfully submit an inquiry:
 
-* Do the form patterns match people’s expectations of how they would answer each question?
+* Is it clear when you need to authenticate or when it’s optional?
 * Are people missing information on any question, page or sequence of pages?
 * Are there too many or too few fields per page?
+* Are people likely to answer fields that are not required?
 * Is it clear how much longer the form is?
 * Do people understand how to edit their answers on the review page?
 * How long do people expect it to take to submit an inquiry?
 * What do people expect to happen right after they submit an inquiry?
 
-Understand if submitters are clear when to authenticate and the benefits
+Review what information submitters need when reviewing an ongoing or past inquiry:
 
-* Is it clear when you need to authenticate or when it’s optional?
-* Are the benefits of authenticating clear?
-
-Understand how submitters expect to review an ongoing or past inquiry:
-
-* What information do people need about the status of an inquiry?
-* When do people decide to review inquiries? For example, when they get an email notification or when they're logged into their account for another reason?
-* How often do people expect to be updated about changes to the status of their inquiry?
-* What do submitters expect to happen after they receive a response to their inquiry? Do they expect to reply back? If they can’t reply back, what would they do?
-* What information do people need when they review a past (solved) inquiry?
+* Are people missing any information that helps them identify which inquiry they're reviewing?
+* How and how often do people expect to be updated about changes to their inquiry status?
+* What do people expect to happen after they receive a response to their inquiry?
 
 ### Hypotheses
 
 1. Most people will think authentication is required in order to ask any question, or, they will not understand that it’s required for specific types of fields.
-2. Most people will find answering fields throughout the form straightforward and intuitive.
+2. Most people will find the form straightforward and intuitive.
 3. Most people will choose to answer fields even if they are not required.
-4. Most people will have a clear understanding of how long the form is and how much progress they have made throughout the process.
-5. Some people will give up midway through the form because there are too many fields.
-6. Most people will understand how to edit answers on the review page.
-7. Some people will be confused about which information they can edit on the review page and which they cannot.
-8. Most people will prefer to receive email notifications when the status of their ongoing inquiry changes.
-9. When reviewing an ongoing inquiry, most people will need to know which date they submitted their inquiry, what their question was and its current status (in progress or closed).
-10. Once they receive a VA response to their inquiry, some people will expect to reply back.
-11. If people aren’t able to reply back to an inquiry, some people will submit a new inquiry as a way of continuing the conversation or following up.
-12. Some people will expect an estimate or deadline for when they will receive a response from the VA.
+4. Most people will understand how long the form is and their progress.
+5. Some people will be confused about which information they can edit on the review page and which they cannot.
+6. Most people will expect an estimate of how long it will take to receive a reply.
+7. Most people will prefer to receive email notifications when the status of their ongoing inquiry changes.
+8. When reviewing an inquiry, most people will need to know the date they submitted, their question and its current status.
+9. Once they receive a response from VA about their inquiry, some people will expect to reply back.
+10. If people aren’t able to reply back to an inquiry, some people will submit a new inquiry to follow up.
 
 ## Methodology
 
-This will be a moderated usability study conducted remotely on Zoom. We'll use a Sketch prototype to observe users (hypothetically) authenticate and ask a health related question.
+This will be a moderated usability study conducted remotely over Zoom. We will use a coded prototype in staging.
 
 ### Research materials
 
@@ -89,62 +80,49 @@ This will be a moderated usability study conducted remotely on Zoom. We'll use a
 	
 ## Recruitment	
 
-Before defining our recruitment strategy, we reviewed:
-
-* [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants)
-* [Introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md)
-* [Inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
-* [Recruitment checker for equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
- 
 ### Recruitment approach
 
-We will use Perigean to recruit Veterans and their dependents. We request a kick-off call with Perigean before recruitment can start.
+We’ll use Perigean to recruit participants. We request a kick-off call with Perigean before recruitment can start.
 
-We've submitted a [Recruitment Request:Name of study](url goes here).
+The audience will be Veterans and their dependents.
 
 ### Recruitment criteria
 
-We need to recruit 16 Veterans for this study in order to achieve 10 completed sessions.
+We need to recruit 16 participants for a total of around 8-10 completed sessions.
 
-#### Primary criteria
+#### Primary criteria (must-have)
 
-**All participants:**
+|# of participants|Primary criteria|
+|:--|:--|
+|Exactly 16|Have contacted VA online or over the phone in the past year|
+|Exactly 16|Have signed into VA.gov in the past year|
+|Exactly 8|Are Veterans (Group 1)|
+|Exactly 8|Are dependents (Group 2)|
+|Exactly 8|Are willing to join from a mobile device|
+|Exactly 8|Are willing to join from a desktop device|
+|At least 8|Are over 55 years old|
+|At least 8|Identify as Black, Hispanic or Native|
+|At least 4|Require screenreader software to use computers and mobile devices|
+|At least 4|Have a cognitive disability or consideration|
+|At least 4|Identify as a gender other than male|
 
-* Must have contacted VA online or over the phone in the last 3-6 months
-* Must have signed into VA.gov in the last 3-6 months
-* Must have a smartphone which they are willing to use for the session and can use Zoom (and share screen) on
+#### Secondary criteria (nice-to-have)
+
+|# of participants|Secondary criteria|
+|:--|:--|
+|At least 4|Live in a remote or rural area|
+|At least 4|Don't have a degree or professional certificate|
+|At least 4|Have partial hearing loss|
 
 #### Participant groups
 
-There are two primary groups we would like to recruit for this study.
-
-**Group 1: Veterans**
-
-* At least 8 people who are Veterans
+##### Group 1: Veterans
 
 Example: I’m a Veteran. I called the VA to ask them a question about my claim status last month. I sign in to VA.gov every month to renew my prescriptions. I can use Zoom on my smartphone.
 
-**Group 2: Dependents**
-
-* At least 8 people who are dependents of Veterans
-    * At least 4 (and a maximum of 8) people should be dependents of a Veteran who has multiple dependents.
-    * A maximum of 4 people should be dependents of a Veteran who only has one (them) dependent.
+##### Group 2: Dependents
 
 Example: My wife is a Veteran, I’m one of her dependents. She has another dependent, my son. I called the VA 2 weeks ago to ask them a question about my son’s benefits. I sign in to VA.gov twice a year to check my records. I can use Zoom on my smartphone.
-
-#### Demographic targets 
-
-We recognize that it's unlikely Perigean can meet all of these targets when recruiting. We would like to use these as targets:
-
-* At least 8 people should be over 55
-* At least 5 people should have a cognitive disability or consideration
-* At least 5 people should identify as Black, Hispanic or Native
-* At least 5 people should live in a remote or rural area
-* At least 4 people should be without a degree or professional certificate
-* At least 3 people should have a partial hearing loss
-* At least 3 people should be of immigrant origin
-* At least 2 people should identify as other than male
-* At least 2 people should identify as gay, lesbian, bisexual, or transgender
 
 ### Screener questions
 
