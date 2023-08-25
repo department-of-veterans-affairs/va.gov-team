@@ -4,13 +4,13 @@ Ask VA Integration Team
 
 Last updated by @tygindraux: August 25, 2023
 
-Jump ahead to:
-- Background
-- Methodology
-- Recruitment
-- Timeline
-- Research sessions
-- Team roles
+**Jump ahead to:**
+- [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#background)
+- [Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#methodology)
+- [Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#recruitment)
+- [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#timeline)
+- [Research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#research-sessions)
+- [Team roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#team-roles)
 
 ## Background
 
