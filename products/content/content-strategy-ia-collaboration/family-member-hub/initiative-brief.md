@@ -19,16 +19,13 @@ We're working to bring all family member core benefit content into the family me
 **Problem Defined:**
 Family and caregiver benefit content, applications, and tasks are distributed across the Veteran benefit hubs.  Furthermore, tools related to managing health care and benefits are mostly framed up for the Veteran, but often also intended for family members and caregivers to use.
   
-* Evidence to support Prolem:
-  - Pull findings from health tree test
-  - Pull analytics to show how traffic has trended over time, since launch of family hub
-  - Are family benefit pages high traffic in the veteran hubs?
-  - We know the Veteran hubs are overwhelming and removing content/pages will help streamline for Veterans
-  - Analytics - can we create a funnel/path data; use prev and next pages - where are people going first
-  - Compare click depth - are there assumptions we can make?
-  - military spouse VEO research - wanting to be recognized as an individual
-  - Medallia data - look at what we did for auth exp work
-  
+* Evidence to support Problem:
+- Research and data is showing a trend towards more use of the family member hub; Over the past year, the family member hub has had more page views than any of the other family member benefit pages within the benefit hubs
+- The streamlined health care hub helped visitors find the correct family and caregiver benefit information, as opposed to selecting veteran content to find their answers; In addition, the streamlined hub showed an increase of family members looking for information to complete "manage" taskss such as travel pay
+- The family member benefit hub is the #1 referring page on VA.gov to all of the other family/caregiver benefit pages within the benefit hubs; However, while the family hub consistently refers visitors to family content in the veteran hubs, the family content in veteran hubs is not referring visitors to the family hub; This is a potential opportunity to better expose family members to the other benefit options they have
+- vEO Military Spouse research showed that spouses want to be recognized as their own individual, and have easier access to information 
+
+
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
  - Content is currently organized by Veteran benefit and is not necessarily optimized for different audiences
   
