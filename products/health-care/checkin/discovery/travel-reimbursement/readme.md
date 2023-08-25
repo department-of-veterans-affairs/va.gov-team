@@ -17,7 +17,7 @@ MVP Targeting Fall/Winter 2022
 - [Research Synthesis from Bay Pines (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531778271/c07cb27bbf026415d07a1fc0ae39b972954ecf5c?sender=u37bb983bd3fc3cc00c7d3286)<br>
 - [Travel Reimbursement Findings from Interview with VA Texas Valley Health Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/tx-valley-interview-notes.md)
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/research-plan.md)<br>
-- [Travel Reimbursement Veteran Remote Study Synthesis (Mural)](https://app.mural.co/t/vfscie8528/m/vfscie8528/1661533294973/772d372cc95132227efcf5b3391ed1a02e41e7df?sender=u83bc52d7fa73658f84f27755)
+- [Travel Reimbursement Veteran Remote Study Synthesis (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531174556/4f4a8f04d34bde856e78d316e3b233b705714a3c?sender=u37bb983bd3fc3cc00c7d3286)
 - [Research report (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/PCI%20Travel%20Reimbursement%20Research%20Report.pdf)
 - [Research findings (Markdown)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test/research-findings.md#recommendations)
 
