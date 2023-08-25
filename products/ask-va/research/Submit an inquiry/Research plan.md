@@ -4,6 +4,14 @@ Ask VA Integration Team
 
 Last updated by @tygindraux: August 25, 2023
 
+Jump ahead to:
+- Background
+- Methodology
+- Recruitment
+- Timeline
+- Research sessions
+- Team roles
+
 ## Background
 
 Ask VA (AVA) is an online portal that allows Veterans, caregivers and others to submit questions to VA and receive a secure response. Currently, AVA resides within a stand-alone Microsoft portal that is inconsistent with VA design standards, is not mobile-friendly, and has accessibility issues. 
