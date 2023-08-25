@@ -5,7 +5,8 @@ Last updated by @ruchishah29 on August 24, 2023
 **Jump to:**
 - [Inquiry form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#inquiry-form)
 - [Medallia survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#medallia-survey)
-- [Dashboard on status of inquiries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#dashboard)
+- [Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#dashboard)
+- [Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#profile)
 
 ## Inquiry form
 
@@ -48,3 +49,12 @@ Last updated by @ruchishah29 on August 24, 2023
 |Changing the content provided in the existing AVA Dashboard when we go live with new AVA Dashboard on VA.gov page|x|||
 |Be able to filter/sort the inquiries  (Since we are thinking to move from table to card - we may lose this functionality)||x||
 |Be able to review replies to inquiries from agents (current functionality)|x|||
+
+## Profile
+
+|Feature or task|Must have|Nice to have|Not in scope|
+|:--|:--:|:--:|:--:|
+|Pull submitter’s data from VA Profile to pre-fill information for a section of AVA|x|||
+|Submitters are able to click a button to go to VA Profile to update their information and then return to the same spot on AVA||x||
+|Submitters should able to temporarily update the fields in AVA but this should NOT update information in VA Profile|x|||
+|Sunset the existing AVA Profile (No migration of data, no comparison between this and VA Profile)||x||
