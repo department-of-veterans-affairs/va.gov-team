@@ -156,4 +156,53 @@ Description: The top 10 searches containing the each of following terms: depende
 
 ## <a name="research"></a>Past Veteran and family member research
 
+[12/2022 My Health IA test Round 2 - Caregivers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/mhv-on-va-round-2-tree-test-findings.md)
+
+- In this version of the IA (H2) - the health care hub was further streamlined, and the family hub was renamed to "Family and caregivers"
+- In this round, the revised IA continued to perform better than the existing structure for family members finding eligibility content for their own health care benefits - 67% success in baseline vs 73% for both H1 and H2 structures. 
+- In addition, this version saw improvements in family members finding content relevant to themselves
+  - A reduction in the number of participants that selected Veteran content (27% down to 19%)
+  - An increase in the number of participants selecting family member content in the health care hub (13% to 19%)
+  - An increase in the number of participants selecting content in the family member hub (53% to 57%)
+- In all 3 versions of the IA, more family member participants initially looked in the family member benefits section than in the health care hub for eligibility info for their own benefits. In addition, this version showed a significant increase in family members looking in the family hub for travel pay (10% up to 38%) - unfortunately, the option was not there and this resulted in a reduction in task success (43% down to 35%)
+- Recommendation from that research: Consider building out and testing a more robust experience within the family and caregiver benefit hub that includes both information on benefits as well as tasks that family members may need to complete related to their own benefits or benefits they receive for caring for their veteran (i.e. travel pay, apply for transferred benefits, add a dependent, etc) 
+
+[08/2022 My Health IA test Round 1 - Caregivers ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1)
+- When asked to find information on health care benefits for themselves, 
+  - In the existing structure 51% explored the health care hub and 31% explored the family member hub
+  - 13% selected "Family health benefits" under the health care hub, while 29% selected an answer in the family member hub. In addition, 24% selected veteran content as their answer
+  - In the H1 version (somewhat streamlined health care hub), 39% selected an answer in the family member hub, while only 8% selected "Family and caregiver benefits" in the health care hub.  In addition, 25% selected veteran content as their answer.
+- Mental health care information was generally difficult to find for all participants - family members/caregivers looked to the main health care hub 67% of the time, and the family member hub only 13% of the time.  
+- Participants visited the family member hub 31% of the time for tasks related to getting benefits for themselves. This percentage increased to 40% in the H1 version. 
+
+[7/2022 Veteran Top Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md)
+- No findings specific to family members
+- These results included both a moderated version of the survey and an unmoderated version
+
+[11/2021 Non-veteran user roles research](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/65)
+- Includes basic definitions of non-veteran roles that visit VA.gov
+- Some interesting notes from interview with Meg Kabalt
+  - Survivors "They become beneficiaries themselves whereas families and caregivers are beneficiaries through the veteran."
+  - Beneficiary: someone who directly receives a service (payment, health care, whatever it may be) from VA
+  - Where do advocates fit in? POAs, CSOs, claim agents, etc.  Some of these are family, many are not.
+
+[VEO Military Spouse research]()
+
+**Insights**
+- Reconstructing identities - spouses feel like a 3rd wheel to the military which forces them to restructure their own identities and goals; they want to be seen as their own person; each time the system asks for Veteran info (ID) it reinforces that they are not a unique individual and are second 
+- Recurring churn - change is the only constant in military lifestyle; builds resilience but its hard; gets easier with each repetition but takes its toll; spouses take on stability in the home - managing the house/logistics coordination, also take on mental and emotional well being of the family
+- Adapting practically - how spouses are contending with this reality; seeking education, entreprenuer, volunteering for personal and financial stability; always weighing trade offs - is it worth it to engage with the resource, sets stage for transition
+- Transition tension - spouses are used to adapting but transition has unique barriers; are the veterans communicating their expectations and goals at transition; spouses not invited into the transition/tap program to learn; it's online but they don't know that; spouse should have same info and encourage conversation
+- Community is a resource cornerstone - empathy, comraderie, but also resource connection; not being part of the communities is a barrier whether it's because of how they feel labeled or logistical; sometimes they just throw their issue out to the wind - facebook groups; spouses feel dropped
+- Perusing resources aplenty - there are hurdles to getting to the resources; too much to sort through and know what applies to you; spouses knew their disability rating but not what it meant to them; they didn't know the caregiver program services; often info is second-hand making it incomplete or incorrect and confusing; misperceptions that spouse is not eligible for resources so they are underutilized and that benefits go away after service
+
+**Areas of opportunity**
+- (didn't capture quant data on site behaviors - i.e. how often are they seeking info for their veteran, or acting as caregive without the title)
+- Identity and employment - explore how to reinforce their importance, map services with spouses
+- Outreach and onboarding - proactive outreach, eligibility and enrollment info, tailored content to reach spouses with timely info
+- Skill building
+
+
+
+
 ## <a name="callcenter"></a>Summary of call center and site feedback
