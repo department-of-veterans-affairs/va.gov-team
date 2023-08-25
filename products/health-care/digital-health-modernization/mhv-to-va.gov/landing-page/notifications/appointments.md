@@ -1,6 +1,6 @@
 # Appointment notifications
 
-The current landscape of appointment-related notifications is complex, and the appointments team has put together extensive documentation and research to describe when and how Veteran patients get notified about various appointment reminders, schedule changes, cancellations, and when appointment requests become scheduled. 
+The current landscape of appointment-related notifications is complex, and the appointments team has put together extensive documentation and research to describe when and how Veteran patients get notified about various appointment reminders, schedule changes, cancellations, and when pending appointment requests become scheduled. 
 
 ## Summary
 Because at least one type of appointment notification will not work well with the lightweight notification dot component, and there are at least three types of notifications to explore for the Appointments product alone, it is likely that we will need to iterate on this design and explore definitions between notification styles (dot/badge indicator vs. onsite notification card component). The dot alone cannot effectively be used to express all three types of notifications within the Appointments product. 
