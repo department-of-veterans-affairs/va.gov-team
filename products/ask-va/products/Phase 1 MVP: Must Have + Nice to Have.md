@@ -72,18 +72,18 @@ Last updated by @ruchishah29 on August 24, 2023
 
 ## Assumptions/Risks
 
-After looking at the must haves, what risks do we see that will impact those deliverables?
+What risks do we see that could impact are must-have deliverables?
 
 ### 1. Dependency on CRM Team
 - API Layer that both exposes data to us (dashboard) and receives data from us (inquiry submission) + additional time for AVA Engineering team to implement.
 - If the API layer cannot be done by CRM Team - we would need a Dynamics instance and time to ramp up.
 
-Impact of this Risk: `HIGH`
+Impact: `HIGH`
 
 Without this work, we would not be able to send the data collected in the new AVA back to Dynamics for routing. It would prevent us from launching our MVP.
 
 ### 2. Alignment between Sitewide Content and the business lines on content updates
 
-Impact of Risk: `LOW`
+Impact: `LOW`
 
 Without this alignment, we may have to stick with the names of categories and topics currently present which may not be easy and intuitive for the Veterans. This is a low risk because it would not prevent us from launching our MVP.
