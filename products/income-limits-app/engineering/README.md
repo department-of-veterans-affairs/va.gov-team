@@ -12,6 +12,8 @@ Where it's documented:
   - Which fields map to the values the front-end displays
 - A PDF of the above mural (downloaded 8/4/23) is available in this github folder [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/engineering/Income%20Limits%20API%20logic%20and%20data_2023-08-04%20(MVP).pdf).
 
+Full details regarding Income Limits data / data sources can be found at [/products/income-limits-app/data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/data/README.md).
+
 ## Overview
 - Income is one aspect that determine's a Veteran's eligibility for benefits from VA. An existing application allows Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents.
 - Please [click here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app) for a comprehensive explanation.
