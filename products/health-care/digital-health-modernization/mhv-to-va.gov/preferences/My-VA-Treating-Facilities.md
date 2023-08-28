@@ -14,7 +14,6 @@ This is a summary of what I learned and from whom:
 ## Learnings
 
 ### Carnetta Scruggs 6/14/23
-* The dropdown options within the user defined field come from the IM System Office, which keeps a record of every VAMC that has as Veteran's medical record 
 * This field plays a crucial role in helpdesk calls (in which identifying the correct treating facility is a significant bottleneck) 
 
 ### Patty Henry 6/21/23
