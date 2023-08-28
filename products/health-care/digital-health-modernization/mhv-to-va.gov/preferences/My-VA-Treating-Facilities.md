@@ -1,9 +1,10 @@
 # Summary of learnings
 August 28, 2023
 
-### The question I've been trying to answer: How does the My VA Treating Facilities field impact the user experience on MHV and within MHV apps? 
+## The question: How does the My VA Treating Facilities field impact the user experience on MHV and within MHV apps? 
 
 Screenshot of the field in question:
+
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/6d39b6cf-1fe9-4f8d-8fb4-4b1c692aa0e3)
 
 I started working to answer the above question early June 2023. 
@@ -22,8 +23,31 @@ This is a summary of what I learned and from whom:
 * Troubleshooting secure messaging issues such as Veteran has switched treatment facilities and they are not seeing their new providers in their contact list. Helpdesk directs the user to the treating facility field to address this problem. (unverified)
 * MHV developers use the Veteran's Treating Facility in some way because they require the field's information when helpdesk staff escalate issues with the Appointments app (unverified)
 
-### Multiple MHV developers and PMs:
-* 
+### I also reached out to the following individuals but was either directed to other people (also listed) or told that there was no way to answer the question: 
+- Melissa Ashton (directed me to Lichelle Bain and Bresha Lipscomb)
+- Lichelle Bain (directed me back to Carnetta Scruggs, Jason Boire, Sandeep Karuturi, JB Walters)
+- Bresha Lipscomb 
+- Sandeep Karuturi (never responded to numerous emails)
+- Haritha Cheruvu (never responded to numerous emails)
+- Swathi Alikatti (never responded to numerous emails)
+- JB Walters (directed me to Arienne Walters, Bob Lewis, Joel Calumpong)
+- Arienne Walters (never responded to my email)
+- Bob Lewis (never responded to my email)
+- Joel Calumpong (never responded to my email)
+- Jason Boire (write: I spoke with our team about this. We don't know much about how / where that field is used. We know that what the Veteran checks or unchecks is displayed to the users in the Admin Portal, so the helpdesk and admin staff can see which facilities the user says they get treatment at. We don't know what other MHV components may or may not be using that data to adjust the user experience. If none of hte other product lines have said they use the data, it's possibly that this will just impact the help desk flows in that the data will become more stale over time if the users are unable to make updates to it.")
+- Sean Good (wrote: "I reached out to Jason and his team and thye don't know what that field is used for, at least from the access side.")
+
+## The problem
+
+At this point, MHV and associated product teams plan to go ahead with deprecation of this field, as product leaders believe what Jason Boire and Sean Good are saying, that either this field doesn't impact the user experience or the answer is impossible to uncover. 
+
+However, helpdesk leads are saying something different, that the field directly impacts what users see within the MHV products AND directly impacts the helpdesk's ability to assist Veteran callers. 
+
+## Recommendation
+
+1. All work to migrate or deprecate the field should be stopped for now
+2. The MHV team completes a technical discovery on how the field is actually used and by whom
+
 
 -----
 # Email with MHV help desk leads
