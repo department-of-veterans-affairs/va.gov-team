@@ -86,7 +86,9 @@ This section is for quotes. ⚠️ Participants should be referenced by number o
 In this section feel free to segment populations based on the trends we see with certain user types.
 
 > "I'd rather just hear it read to me." - P12, who is partially sighted, speaking about AT and accordions
+
 > "...it takes 30 minutes. When you're reading you can skip read, but not if it's being read to you." - P19, about the length of TOUs
+
 > "I like that. Nice to have the option to look more in depth. Usually don't have the choice." - P19, on TOU items chunked by headings into accordions
 
 ## a11y Recommendations
