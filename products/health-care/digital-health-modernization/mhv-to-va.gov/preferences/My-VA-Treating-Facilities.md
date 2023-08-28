@@ -35,7 +35,7 @@ This is a summary of what I learned and from whom:
 - Bob Lewis (never responded to my email)
 - Joel Calumpong (never responded to my email)
 - Jason Boire (write: I spoke with our team about this. We don't know much about how / where that field is used. We know that what the Veteran checks or unchecks is displayed to the users in the Admin Portal, so the helpdesk and admin staff can see which facilities the user says they get treatment at. We don't know what other MHV components may or may not be using that data to adjust the user experience. If none of hte other product lines have said they use the data, it's possibly that this will just impact the help desk flows in that the data will become more stale over time if the users are unable to make updates to it.")
-- Sean Good (wrote: "I reached out to Jason and his team and thye don't know what that field is used for, at least from the access side.")
+- Sean Good (wrote: "I reached out to Jason and his team and they don't know what that field is used for, at least from the access side.")
 
 ## The problem
 
