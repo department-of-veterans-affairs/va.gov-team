@@ -8,7 +8,7 @@ Sign in and technical issues
 
 |Stakeholder|Business area|
 |:--|:--|
-|Jeremy Haas|Technical, Password, and Access Issues|
+|Jeremy Haas|EVSS|
 
 ### Engagements
 
