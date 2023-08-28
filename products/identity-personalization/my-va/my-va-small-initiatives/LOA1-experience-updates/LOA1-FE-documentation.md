@@ -11,7 +11,8 @@ This view is applicable to users who have not yet verified their identity (LOA1)
 
 **Visual specs**
 
-- Use the [sign in or tool prompt component](https://design.va.gov/storybook/?path=/docs/components-va-alert--default#sign-in-or-tool-prompt) in the VA design system. The link to verify your identity should use the [primary action link style](https://design.va.gov/components/link/action#primary) in the VA design system.
+- Use the [sign in or tool prompt component](https://design.va.gov/storybook/?path=/docs/components-va-alert--default#sign-in-or-tool-prompt) in the VA design system.
+- The link to verify your identity should use the [primary action link style](https://design.va.gov/components/link/action#primary) in the VA design system.
 
 **Positioning**
 
@@ -85,22 +86,59 @@ This one-time process takes about 5-10 minutes.
 
 ---
 
-### If a user has applications in progress
+### Education and training section
+
+<img width="421" alt="Screenshot 2023-08-28 at 12 49 24 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/3e712b8e-3b3e-454b-9f60-92e6d06bd026">
+
+**Visual specs**
+
+- Use font awesome icon `graduation-cap` for icon
+
+**Positioning**
+
+- This dropdown appears directly below the "Health care" section.
+
+#### **Content**
+
+**Education and training**
+
+[Learn how to apply for VA education benefits](https://va.gov/education/how-to-apply/)
+
+---
+
+### If a user does not have any applications in progress to show
+
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
+
+<img width="345" alt="Screenshot 2023-08-28 at 12 49 30 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/b9938e01-f8a0-4411-bd1b-b0859a998179">
+
+#### **Content**
+
+**Benefit application drafts** 
+
+You have no benefit application drafts to show.
+
+#### **Positioning**
+
+This section should appear directly below the "Education and training" section.
+
+---
+
+### If a user has applications in progress to show
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/5B50B211-EE03-4796-8AEA-284AF040C31F)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A7B61911-5E70-4A4E-A453-E13AF255E01C)
 
+<img width="427" alt="Screenshot 2023-08-28 at 12 49 37 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/3083529a-6266-4015-9c52-6348c9b35a67">
+
 **Show card**
 
-- If a LOA1 user has started an application for benefits but has not yet submitted it.
-
-**Do NOT show card**
-
-- If a user does not have any saved benefit applications that they have not yet submitted.
+- If a LOA1 user has started an application for benefits but has not yet submitted it, and [criteria is met for a save-in-progress application to show on My VA](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage).
 
 **Visual specs**
 
-- Use the [form status verison of the card component](https://design.va.gov/components/card#form-status) in the VA design system.
+- Use the [form status version of the card component](https://design.va.gov/components/card#form-status) in the VA design system.
 
 #### **Content**
 
@@ -113,57 +151,6 @@ Application type
 Last opened on: Date
 
 Continue your application (linked to saved application)
-
----
-
-### If a user does not have any applications in progress to show
-
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
-
-#### **Content**
-
-You have no applications in progress to show.
-
-#### **Positioning**
-
-This text should appear directly below the "Applications in progress" subheader.
-
----
-
-## Explore VA benefits and health care
-
-**Show**
-
-- For all LOA1 users.
-
-**Do NOT show**
-
-- For LOA3 users.
-
-![Screen Shot 2022-10-14 at 4 31 00 PM](https://user-images.githubusercontent.com/97965610/195938277-faf6c21e-201a-4128-9c73-a7f0c36cce07.png)
-
-#### **Content**
-
-`briefcase-medical` icon **Health care**
-
-With VA health care, you’ll receive coverage for services like regular checkups with your health care provider and specialist appointments.
-
-[Learn how to apply for VA health care](https://va.gov/health-care/how-to-apply/)
-
-
-`file` icon **Disability compensation**
-
-With VA disability benefits, you can get disability compensation for an illness or injury that was caused, or made worse, by your military service.
-
-[Learn how to file a VA disability claim](https://va.gov/disability/how-to-file-claim/)
-
-
-`graduation-cap` icon **Education and training**
-
-With VA education benefits, you and your qualified family members can get help finding a college or training program and paying for tuition or test fees.
-
-[Learn how to apply for VA education benefits](https://va.gov/education/how-to-apply/)
 
 ---
 
