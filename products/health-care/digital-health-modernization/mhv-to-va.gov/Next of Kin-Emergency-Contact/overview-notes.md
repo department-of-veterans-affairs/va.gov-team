@@ -67,3 +67,11 @@ Collecting NOK in Check-in experience.
     * Now, as far as the plain language for defining next of kin to help some Veterans understand how to fill out or review their next of kin, here is a working version that CAIA team is still reviewing. Will provide an update once it's been reviewed by them.
     * Our team started talking about using the form hint text component to show the next of kin definition, but that’s not really appropriate for our design since we’re not using a form field.
 
+## Notes from conversation with Liz Lantz (Authenticated Experience team) 8/28/2023
+
+- Technical discovery or some kind of discovery research will be needed to inform if NOK and Emergency contact have it's own section in Profile left-hand nav or should be nestled
+
+<img width="1023" alt="Screenshot 2023-08-28 at 1 52 51 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/fb47ddf5-6b7f-4e51-9fbe-48ec2265e1d7">
+
+- Who do we need to contact to determine what information MUST be collected?
+- For emergency contact: Will we need to allow users to add more than one contact? 
