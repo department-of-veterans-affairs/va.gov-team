@@ -129,7 +129,7 @@ moderator asked them questions to gain understanding of expectations and satisfa
 
 ### Past AVS Experience
 
-**1. All participants routinely reviewed information about their appointments, tests, and upcoming tasks to complete. The method they utilized to access this information differed.**
+**1. When asked if they review their health information, appointments, tests, or doctor’s orders, all participants mentioned they routinely access this data, but they do so through different means.**
 
 - My HealtheVet: 7
 - VA AVS paper printout: 4
@@ -142,7 +142,7 @@ moderator asked them questions to gain understanding of expectations and satisfa
  <br> 
  <br> 
 
-**2. The information in the current VA AVS matches the information that participants routinely review after an appointment.** 
+**2. The information in the AVS MVP matches the data that participants routinely review after their appointment.** 
 
 - Labs: 6
 - Medications: 4
@@ -159,7 +159,7 @@ moderator asked them questions to gain understanding of expectations and satisfa
   <br> 
  <br>     
 
-**3. The name "After-visit summary" matches Veteran/caregiver mental models. Terms participants used to name an AVS:**
+**3.The nomenclature "After-visit summary" is consistent with Veteran/caregiver mental models.**
 
 - After appointment confirmation or Post OP: 1
 - After-visit summary: 2
@@ -178,16 +178,8 @@ moderator asked them questions to gain understanding of expectations and satisfa
  <br> 
  <br> 
   
-**4. 7 Veterans mentioned that they sometimes don’t receive appointment summaries or lab results until 48-72 hours following the appointment.**
 
- >In person notes are loaded, usually 2 to 3 days after the initial visit, and so
-  sometimes, they make people have to wait for the after visit summary; so I
-  request my husband to bring them to me, so that I know what transpired - Caregiver 
 
-**Recommendation:** Within the AVS, add content to inform Veteran/caregiver that lab results are still in progress and send the AVS notification as soon as it is available.
-<br> 
-<br> 
-<br>
 ### Information Architecture
 <br>
 
