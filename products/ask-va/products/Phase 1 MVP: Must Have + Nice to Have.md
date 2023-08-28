@@ -38,8 +38,8 @@ Last updated by @ruchishah29 on August 24, 2023
 |:--|:--:|:--:|:--:|
 |Ensure new AVA on VA.gov has a feedback survey|x|||
 |Ensure new AVA on VA.gov has an intercept survey|x|||
-|Make sure existing AVA has implemented the feedback survey for at least 1 month before going live|x|||
-|Make sure existing AVA has implemented the intercept survey for at least 1 month before going live|x|||
+|Make sure existing AVA has implemented the feedback survey for at least 1 month before going live||x||
+|Make sure existing AVA has implemented the intercept survey for at least 1 month before going live||||
 |Ensure we receive PRA Approval both surveys|x|||
 
 ## Dashboard
@@ -49,7 +49,7 @@ Last updated by @ruchishah29 on August 24, 2023
 |Bringing the existing AVA Dashboard up to VA.gov design standards on a page in VA.gov using the card component|x|||
 |Sunset the existing AVA Dashboard|||x|
 |Changing the content provided in the existing AVA Dashboard when we go live with new AVA Dashboard on VA.gov page|x|||
-|Be able to filter/sort the inquiries  (Since we are thinking to move from table to card - we may lose this functionality)||x||
+|Be able to filter/sort the inquiries  (Since we are thinking to move from table to card - we may lose this functionality)|x|||
 |Be able to review replies to inquiries from agents (current functionality)|x|||
 
 ## Profile
