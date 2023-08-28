@@ -3,7 +3,7 @@
 ## Background
 VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and manage their appointments.
 
-We added a print button the the appointment lists using a new tertiary style. We want to gather data to help assess the usability of the style and whether it's meeting a need.
+On 08/02 we released a feature for users to print their appointments list. This added a print button the the appointment lists using a new tertiary style. We want to gather data to help assess the usability of the style and whether it's meeting a need.
 Briefly describe the background of your product. Consider:
 - What problem is your product trying to solve?
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)

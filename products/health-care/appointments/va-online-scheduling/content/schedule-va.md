@@ -14,6 +14,24 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
 
 Form title: NEW APPOINTMENT
 
+
+### State: Single Clinic
+
+**PAGE HEADER**
+
+```Your appointment location```
+
+```
+We found one VA facility for your [type of care] appointment.
+
+{Facility name}
+{City, ST}
+{####} miles
+
+```
+
+### State: Sorted by Home Address
+
 **PAGE HEADER**
 
 ```
@@ -21,8 +39,6 @@ Choose a location
 ```
 
 **PAGE CONTENT**
-
-### State: Sorted by Home Address
 
 ```
 Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
@@ -34,16 +50,25 @@ Sort facilities
 {Option 3} Alphabetically
 
 {Facility options}
-{Facility name}
-{City, ST}
-{####} miles
-{Link - Cerner sites only} Schedule online at My VA Health
+    {Facility name}
+    {City, ST}
+    {####} miles
+    {Link - Cerner sites only} Schedule online at My VA Health
+{/Facility options}
 
 {Link} + {1-5} more locations
 
 ```
 
 ### State: No Home Address on File
+
+**PAGE HEADER**
+
+```
+Choose a location
+```
+
+**PAGE CONTENT**
 
 ```
 Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
@@ -65,6 +90,14 @@ Note: to show facilities near your home, add your residential address in your VA
 
 ### State: Can't Sort by Location
 
+**PAGE HEADER**
+
+```
+Choose a location
+```
+
+**PAGE CONTENT**
+
 ```
 Select a VA facility where you’re registered that offers {type of care} appointments.(*Required)
 
@@ -84,9 +117,7 @@ Make sure your browser’s location feature is turned on.
 
 ```
 
-### State: Single Clinic
 
-[TBD]
 
 
 **NAVIGATION BUTTONS**
@@ -180,10 +211,11 @@ Choose a clinic below or request a different clinic for this appointment. (*Requ
 ### State: Single Clinic
 
 ```
-{Type of care} appoinments are available at {clinic name}:
+Your last {type of care} appoinment was at {clinic name}:
 
 {facility name}
-{facility address}
+{facility address line 1}
+{facility address line 2}
 
 Main phone: {phone number}(TTY: 711)
 
