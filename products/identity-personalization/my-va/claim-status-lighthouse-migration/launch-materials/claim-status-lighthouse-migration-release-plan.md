@@ -23,8 +23,8 @@ Not applicable - team conducted internal testing.
 |-------|-----------|-----------|------|
 | Launch to 10% | 1 week | week of 08/07/2023 |[#61318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61318) |
 | Launch to 25% | 1 week | week of 08/14/2023 | [#61319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61319)  |
-| Launch to 50% | 1 week | week of mm/dd/yyyy | [#61320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61320) |
-| Launch to 100% | 1 week | week of mm/dd/yyyy | [#61322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61322)  |
+| Launch to 50% | 1 week | week of 08/21/2023 | [#61320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61320) |
+| Launch to 100% | 1 week | week of 08/28/2023 | [#61322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61322)  |
 
 
 ## Go Live!
@@ -35,7 +35,7 @@ Not applicable - team conducted internal testing.
 | Launch to 10% | 8/8/2023 | _08/08/2023_ |
 | Launch to 25% | 8/15/2023 | _8/15/2023_ |
 | Launch to 50% |8/22/2023 | _8/22/2023_ |
-| Launch to 100% | mm/dd/yyyy | _mm/dd/yyyy_ |
+| Launch to 100% | 0829/2023 | _08/28/2023_ |
 
 
  
