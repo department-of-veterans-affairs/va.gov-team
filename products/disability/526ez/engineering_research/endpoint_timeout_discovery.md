@@ -12,6 +12,9 @@ After the IFT failure<citation> it was requested by Steve Albers that we gather 
 - align our timouts to prevent overloading existing services in the future
 - inform upcomming dashboarding work
 
+The original ask:
+![Screenshot 2023-08-23 at 1 56 52 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/72a670aa-8a2b-498f-896d-350b59ce9e75)
+
 ## Resources
 - [Ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/64199)
 - [Slack thread asking EVSS and LH teams](https://dsva.slack.com/archives/C02CQP3RFFX/p1693249478108359)
