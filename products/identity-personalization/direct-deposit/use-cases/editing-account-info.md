@@ -1,6 +1,6 @@
 # Direct deposit: user needs to edit bank account information
 
-**Last updated July 19, 2022**
+**Last updated August 28, 2023**
 
 If a user clicks the `edit` button for either direct deposit section, they will enter edit mode for that section.
 
@@ -21,7 +21,7 @@ If a user clicks the `edit` button for either direct deposit section, they will 
 #### Save error: routing number entered is invalid and can't be matched to a bank.
 - Once a user clicks `save`, a call is made to match the routing number to a bank. If no match is found, the form isn't saved and the user is asked to review the information they entered.
 - [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/v/n5K3pa/a/Gm3e17D)
-- [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/v/n5K3pa/a/ago74wq/r/QM43VY)
+- [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/ago74wq)
 
 ### Canceling changes
 - If a user has made changes to any form field, and hits cancel, they'll first see the field validation message. This is a limitation of the form system.
