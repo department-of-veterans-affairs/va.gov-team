@@ -220,6 +220,7 @@ Sessions will occur on the following dates:
 -   9/15
 -   9/18
 -   9/19
+-   9/20
 
 ### Length of sessions
 
@@ -240,6 +241,7 @@ Sessions will occur on the following dates:
 -   Friday, 9/15, 9am-6pm
 -   Monday, 9/18, 9am-6pm
 -   Tuesday, 9/19, 9am-6pm
+-   Wednesday, 9/20, 9am-6pm
 
 ## Team Roles
 
