@@ -69,9 +69,13 @@ Collecting NOK in Check-in experience.
 
 ## Notes from conversation with Liz Lantz (Authenticated Experience team) 8/28/2023
 
-- Technical discovery or some kind of discovery research will be needed to inform if NOK and Emergency contact have it's own section in Profile left-hand nav or should be nestled
+- Technical discovery or some kind of discovery research will be needed to inform if NOK and Emergency contact have it's own section in Profile, or if it should be part of an existing part of profile.
+  - There are some clear signs that will point to it being it's own section:
+    - if we need to support multiple emergency contacts
+    - if each NOK or EC record has many fields (e.g. first name, last name, address, phone number, priority number, preferred contact method, relationship etc) 
 
 <img width="1023" alt="Screenshot 2023-08-28 at 1 52 51 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/fb47ddf5-6b7f-4e51-9fbe-48ec2265e1d7">
 
-- Who do we need to contact to determine what information MUST be collected?
-- For emergency contact: Will we need to allow users to add more than one contact? 
+- Who do we need to contact to determine what information is required for each record type (NOK and EC)?
+- For emergency contact: Will we need to allow users to add more than one contact?
+- We need to learn more about how the NOK / EC object can be updated - ideally, we can update all info assocaited with the record with one request, like how address objects currently function in profile. It would not be ideal for the update to work like notification settings, where each update has to be a separate call.
