@@ -14,8 +14,8 @@ Our team is working on the second version of the form, and iterating based on op
   - Does that impact the time it takes to process the claim?
 - How does the intake team process additional explanation provided on a separate sheet of paper?
   - Does the format for this additional explanation impact the time it takes to process the claim?
-  - How do the explanations typically look like?
-  - Do Veterans typically include one explanation for the entire appeal, or do they provide seperate explanations for each issue?
+  - What do the explanations typically look like?
+  - Do Veterans typically include one explanation for the entire appeal, or do they provide separate explanations for each issue?
 
 ## Legal
 **SME:** Angeline DeChiara
