@@ -13,6 +13,7 @@ After the IFT failure<citation> it was requested by Steve Albers that we gather 
 - inform upcomming dashboarding work
 
 The original ask:
+
 ![Screenshot 2023-08-23 at 1 56 52 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/72a670aa-8a2b-498f-896d-350b59ce9e75)
 
 ## Resources
