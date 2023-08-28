@@ -1,3 +1,30 @@
+# Summary of learnings
+August 28, 2023
+
+### The question I've been trying to answer: How does the My VA Treating Facilities field impact the user experience on MHV and within MHV apps? 
+
+Screenshot of the field in question:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/6d39b6cf-1fe9-4f8d-8fb4-4b1c692aa0e3)
+
+I started working to answer the above question early June 2023. 
+
+This is a summary of what I learned and from whom:
+
+### Carnetta Scruggs 6/14/23
+* The dropdown options within the user defined field come from the IM System Office, which keeps a record of every VAMC that has as Veteran's medical record (seems to be true)
+* This field plays a crucial role in helpdesk calls (in which identifying the correct treating facility is a significant bottleneck) (seems to be false)
+
+### Patty Henry 6/21/23
+* This field is essentially a display preference, and it impacts what a Veteran sees within their Blue Button report (among others) (seems to be true)
+
+### Multiple MHV helpdesk leads 7/21/23
+* Helpdesk uses the field when a user calls with a complaint such as "I cannot see my note from B facility in my Blue Button report." Helpdesk directs the user to the treating facility field, to save the correct facility, and then go back to notes in Blue Button and the notes will show up (unverified)
+* Troubleshooting secure messaging issues such as Veteran has switched treatment facilities and they are not seeing their new providers in their contact list. Helpdesk directs the user to the treating facility field to address this problem. (unverified)
+* MHV developers use the Veteran's Treating Facility in some way because they require the field's information when helpdesk staff escalate issues with the Appointments app (unverified)
+
+### Multiple MHV developers and PMs:
+* 
+
 -----
 # Email with MHV help desk leads
 July 21, 2023
