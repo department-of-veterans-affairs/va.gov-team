@@ -21,6 +21,8 @@ Form title: NEW APPOINTMENT
 
 ```Your appointment location```
 
+**PAGE CONTENT**
+
 ```
 We found one VA facility for your [type of care] appointment.
 
