@@ -1,6 +1,6 @@
 # Project outline: My VA Claim status EVSS > Lighthouse migration
 
-**Last updated: August 22, 2023 - updated key dates and week 2 metrics**
+**Last updated: August 28, 2023 - updated key dates and week 3 metrics**
 
 ### Communications
 
@@ -82,10 +82,10 @@ In order to continue providing claims and appeals details on My VA we need to up
 
 Stats based on the [My VA Domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837) and the [EVSS > Lighthouse migration dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/).
 
-|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @10% (8/8/23 - 8/14/23)| 1 week @25% (8/15/23 - 8/21/23)|1 week @50% (8/22/23 - 8/28/23) |1 week @100% (8/29/23 -9/4/23)|1 month @100% (9/5/23 - 10/4/23)| 2nd month @100% (10/5/23 - 11/4/23) | 
+|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @10% (8/8/23 - 8/14/23)| 1 week @25% (8/15/23 - 8/21/23)|1 week @50% (8/22/23 - 8/27/23) |1 week @100% (8/29/23 -9/4/23)|1 month @100% (9/5/23 - 10/4/23)| 2nd month @100% (10/5/23 - 11/4/23) | 
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|% of successful retrievals|91%|99%|97%|||||
-|% of failed retrievals|9%|1%|3%|||||
+|% of successful retrievals|91%|99%|97%|98%||||
+|% of failed retrievals|9%|1%|3%|2%||||
 
 
 ## Key deliverables
@@ -101,7 +101,7 @@ Stats based on the [My VA Domo dashboard](https://va-gov.domo.com/page/116785193
 - August 8, 2023: Launch to 10%
 - August 15, 2023: Launch to 25%
 - August 22, 2023: Launch to 50%
-- ...: Launch to 100%
+- August 28,2023: Launch to 100%
    
 ## Screenshots
 _Not applicable as no visual to My VA will occur when the work is complete_
