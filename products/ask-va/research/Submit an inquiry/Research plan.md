@@ -48,7 +48,7 @@ This research will help us determine if and how we need to improve the design an
 * Is it clear when users need to authenticate or when it’s optional?
 * Are users missing information on any question, page or sequence of pages?
 * Are there too many or too few fields per page?
-* Do users understand why we're asking each question?
+* Do users understand why they're being asked each question?
 * Do users understand how to edit their answers on the review page?
 * Is it clear what to expect after they submit an inquiry?
 * Are users missing any information to identify which inquiry they're reviewing?
