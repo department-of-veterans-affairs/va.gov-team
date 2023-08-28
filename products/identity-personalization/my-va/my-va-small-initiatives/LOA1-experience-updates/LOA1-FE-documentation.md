@@ -106,6 +106,13 @@ This one-time process takes about 5-10 minutes.
 
 ---
 
+### Benefit application drafts section
+
+- This section shows for all VA.gov users and works the same way whether a user is LOA1 or LOA3.
+- This section has two states: a user has benefit applications in progress to show, and a user does not have any benefit applications in progress to show.
+
+---
+
 ### If a user does not have any applications in progress to show
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
