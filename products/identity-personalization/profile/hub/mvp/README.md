@@ -97,6 +97,8 @@ To solve for these problems, we are building a profile hub page, which resolves 
 ## Key dates
 
 - July 2023: Initial discussions; project kickoff
+- August 2023: Design and design intent review
+- September 2023: Build
 
 ## Design
 
