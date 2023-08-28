@@ -3,6 +3,46 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
+## 9/6/2023 - 9/19/2023 ---------------- FUTURE / TENTATIVE --------------
+#### SPRINT GOALS
+- **GOAL: Comply with ATO**
+    - **Sub Goal: Perform Compliance Tasks**
+ - **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Evolve travel reimbursement during online check-in**
+- **GOAL: Increase usage of Pre-Check-in & Check-in**
+     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
+     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
+     - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Address tech & design debt**
+
+#### PLANNED RELEASES 
+- NONE
+
+#### SPRINT TICKETS
+- **GOAL: [Comply with ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
+    - **Sub Goal: Perform Compliance Tasks**
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Placeholder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63608)
+- **GOAL: Make submission of a travel reimbursement claim easier**          
+   - **Sub Goal: Evolve travel reimbursement during online check-in**
+      - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
+          - TBD
+- **GOAL: Increase usage of Pre-Check-in & Check-in**
+    - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
+        - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
+            - Blocked by Mobile App team work & staging test user
+    - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
+        - **EPIC: [Unified Check-in: Release 2 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+            - TBD
+    - **Sub Goal: Analyze current metrics to see what they tell us**
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62848)      
+- **GOAL: Address tech & design debt**
+    - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
+        - TBD
+---------------- END FUTURE / TENTATIVE -------------- 
+__________________________________________________________________________________________________________________________________________________________
+
+
 ## 8/23/2023 - 9/5/2023 
 #### SPRINT GOALS
 - **GOAL: Comply with ATO**
