@@ -20,12 +20,12 @@ This is a summary of what I learned and from whom:
 * This field is essentially a display preference, and it impacts what a Veteran sees within their Blue Button report (among others) 
 
 ### Multiple MHV helpdesk leads 7/21/23
-* Helpdesk uses the field when a user calls with a complaint such as "I cannot see my note from B facility in my Blue Button report." Helpdesk directs the user to the treating facility field, to save the correct facility, and then go back to notes in Blue Button and the notes will show up.
-* Troubleshooting secure messaging issues such as Veteran has switched treatment facilities and they are not seeing their new providers in their contact list. Helpdesk directs the user to the treating facility field to address this problem.
-* MHV developers use the Veteran's Treating Facility in some way because they require the field's information when helpdesk staff escalate issues with the Appointments app.
+* Helpdesk uses the field when a user calls with a complaint such as "I cannot see my notes from B facility in my Blue Button report." Helpdesk directs the user to the treating facility field to save the correct facility to address this problem
+* Troubleshooting secure messaging issues such as Veteran has switched treatment facilities and they are not seeing their new providers in their contact list. Helpdesk directs the user to the treating facility field to address this problem
+* MHV developers use the Veteran's Treating Facility in some way because they require the field's information when helpdesk staff escalate issues with the Appointments app
   
 ### Jason Boire 8/15/23
-* Email: "I spoke with our team about this. We don't know much about how / where that field is used. We know that what the Veteran checks or unchecks is displayed to the users in the Admin Portal, so the helpdesk and admin staff can see which facilities the user says they get treatment at. We don't know what other MHV components may or may not be using that data to adjust the user experience. If none of hte other product lines have said they use the data, it's possibly that this will just impact the help desk flows in that the data will become more stale over time if the users are unable to make updates to it."
+* Email: "I spoke with our team about this. We don't know much about how / where that field is used. We know that what the Veteran checks or unchecks is displayed to the users in the Admin Portal, so the helpdesk and admin staff can see which facilities the user says they get treatment at. We don't know what other MHV components may or may not be using that data to adjust the user experience. If none of the other product lines have said they use the data, it's possible that this will just impact the help desk flows in that the data will become more stale over time if the users are unable to make updates to it."
 
 ### Sean Good 8/15/23
 * Email: "I reached out to Jason and his team and they don't know what that field is used for, at least from the access side."
