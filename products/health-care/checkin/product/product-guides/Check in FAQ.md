@@ -7,7 +7,7 @@
 - Confirm your current demographics information.
    - **Note**: this step may be skipped if you’ve verified your information within the last seven days.
 - Answer the travel pay questions
-   - **Note**: this step may be skipped if you have more than one appointment per day.
+   - **Note**: this step may be skipped if you have more than one appointment per facility per day.
 - View your appointment.
 - Select **Check in now**.
 - View confirmation screen: *You’re checked in*
