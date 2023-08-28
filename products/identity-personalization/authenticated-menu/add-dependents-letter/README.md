@@ -1,6 +1,6 @@
 # Project outline: Add links to dependents and letters tools to the authenticated menu
 
-**Last Updated: 7/26/2023**
+**Last Updated: August 28, 2023 -- Added key dates**
 
 ### Communications
 
@@ -124,6 +124,8 @@ Users have trouble finding dependent information and where to download their ben
 ## Key dates
 
 - July 2023: Initial discussions; project kickoff
+- August 2023: Design
+- September 2023: Build
 
 ## Design
 
