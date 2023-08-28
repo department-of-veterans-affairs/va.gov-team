@@ -91,36 +91,27 @@ will be used to inform prioritization for development and release.
 Gather feedback surrounding the relevance of usability of proposed enhancements
 
 **Context and Expectation-Setting Enhancements**
->   - How well are Veterans able to orient around what's presented in the
-revised instructional pages?
->   - How well does content provided in instructional pages line up against
-Veteran expectations?
->   - How well does provided content support Veterans in validating their chosen
-decision pathway?
->   - How do the revised instructional pages compare against what's currently
-provided? Which do Veterans prefer?
+
+>   - How well are Veterans able to orient and comprehend what's presented in the
+>     revised instructional pages?
+>   - How well does content line up against Veteran expectations and support Veterans in validating their chosen decision pathway?
 
 **Issue Selection and Disagreement Enhancements**
->   - To what extent is access to decision letters valuable in facilitating the
-selection and entry of issues for disagreement?
->   - To what extent does issue details in the reason for disagreement screen
-support Veterans in selecting relevant reasons for disagreement?
->   - Are Veterans able to locate where to enter additional context and
-explanation for their reason for disagreement?
+
+>   - To what extent is access to decision letters and details surrounding contention decisions valuable in facilitating the selection and entry of issues for disagreement?
+>   - Are Veterans able to locate where to enter additional context and explanation for their reason for disagreement?
 
 **Navigational and Task Flow Enhancements**
->   - Are veterans able to identify where they are in the appeal submission
-process with the updated navigation?
->   - Are veterans able to review and edit their form responses with the
-enhanced review page?
+
+>   - How well are Veterans able to comprehend, orient, and operate enhanced form navigation controls?
+>   - What value does the task list and enhanced submission review pages provide Veterans?
 
 **Enhancement User Value and Desirability**
+
 >   - Between the various enhancements proposed (revised instructional page,
-inclusion of issue details, enhanced navigation, and enhanced review page),
-which enhancements stand to have the greatest impact in bolstering Veteran
-confidence with their appeal submission? Why?
->   - What would Veterans consider "must have's" vs "nice to have's"? Are there
-any enhancements users don't find to be useful?
+>     inclusion of issue details, enhanced navigation, and enhanced review page),
+>     which enhancements stand to have the greatest impact in bolstering Veteran
+>     confidence with their appeal submission? Why?
 
 ## Hypotheses and Assumptions
 
@@ -155,20 +146,18 @@ clickable prototype.
 ### Research materials
 
 - [Discussion Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/082023-NOD-Enhancement-Validation/discussion-guide.md)
-- [Desktop Prototype](https://www.sketch.com/s/0424c51d-7818-43ea-8821-6de91eb7ab27/prototype/a/8BC0DCA4-5F41-4D78-8E0F-2DCF4A75FDD2)
-- [Mobile Prototype](https://www.sketch.com/s/0424c51d-7818-43ea-8821-6de91eb7ab27/prototype/a/13839F25-A4A8-4BE1-97CF-D670D9A45AF8)
+- [Desktop Prototype](https://www.sketch.com/s/0424c51d-7818-43ea-8821-6de91eb7ab27/prototype/a/2A5ED16A-03EA-4A23-AD83-95957495314B?hotspots=false)
+- [Mobile Prototype](https://www.sketch.com/s/0424c51d-7818-43ea-8821-6de91eb7ab27/prototype/a/517BA6D0-4C89-4117-A810-7D1ECB98E0CF?hotspots=false)
 
 ## Recruitment
 
 ### Recruitment approach
 
-We will recruit participants using a variant of the maximum variation sampling
-strategy. Our goal is to emphasize underrepresented veterans in past research.
-We desire to surface new insights that may not be obvious as a result of
-studying our usual groups. We will use Perigean's recruiting service to schedule 18 interviews to achieve 12 completed sessions.
+We will recruit participants using a variant of the maximum variation sampling strategy. Our goal is to emphasize underrepresented veterans in past research. We desire to surface new insights that may not be obvious as a result of studying our usual groups. We will use Perigean's recruiting service to schedule 18 interviews to achieve 12 completed sessions.
 
 ### Recruitment criteria
-**Primary criteria (must-haves) Our target audience for this research is Veterans who have had their claims denied and have either already completed a request for a Board appeal or are in the process of completing a request for a board appeal.**
+
+**Primary criteria (must-haves) Our target audience for this research is Veterans who have had their claims denied and are considering to make a Board Appeal request.**
 
 -   All participants must be Veterans.
 -   All participants must have a computer or tablet and be willing to complete
@@ -181,13 +170,13 @@ studying our usual groups. We will use Perigean's recruiting service to schedule
 
 ### Screener
 
-1.  Did you receive a claims decision within the last year?
+1.  Did you receive a claims decision within the last year?  
 **\[Yes/No: Must answer 'Yes'\]**
 
-2.  Are you planning to appeal a claim/appeals decision?
+2.  Are you planning to appeal a claim/appeals decision?  
 **\[Yes/No: Must answer 'Yes'\]**
 
-3.  What options are you considering for submitting your appeal?
+3.  What options are you considering for submitting your appeal?  
     **\[Multi-select: Must include 'on va.gov'\]**
      - On VA.gov
      - On eBenefits
@@ -204,15 +193,11 @@ studying our usual groups. We will use Perigean's recruiting service to schedule
     -   Unsure
 
 ## Timeline
-Please submit artifacts for [Research
-Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html)
-8-9 days prior to the first planned research day for remote studies so Perigean
-can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
+Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint
-review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html)
-.
+
+When will the thing you are testing be finalized? Ideally, it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock
 participant for a pilot session.
@@ -233,6 +218,8 @@ Sessions will occur on the following dates:
 -   9/13
 -   9/14
 -   9/15
+-   9/18
+-   9/19
 
 ### Length of sessions
 
@@ -240,7 +227,7 @@ Sessions will occur on the following dates:
 -   Buffer time between sessions: 60 minutes
 -   Maximum number of sessions per day: 3
 
-### Availability Use research plan temp (time 9 am to 6 pm est)
+### Availability Use research plan temp (time 9 am to 6 pm ET)
 
 -   Tuesday, 9/5 9am-6pm
 -   Wednesday, 9/6, 9am-6pm
@@ -251,6 +238,8 @@ Sessions will occur on the following dates:
 -   Wednesday, 9/13, 9am-6pm
 -   Thursday, 9/14, 9am-6pm
 -   Friday, 9/15, 9am-6pm
+-   Monday, 9/18, 9am-6pm
+-   Tuesday, 9/19, 9am-6pm
 
 ## Team Roles
 
