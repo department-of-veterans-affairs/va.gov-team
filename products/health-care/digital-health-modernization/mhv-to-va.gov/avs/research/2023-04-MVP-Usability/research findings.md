@@ -374,8 +374,6 @@ moderator asked them questions to gain understanding of expectations and satisfa
 <br>
 
 ### Secondary findings
-<br>
-<br>
 
 **1. 2 out of 6 participants were confused by the label "Schedule and manage appointments.**
 
