@@ -46,7 +46,7 @@ See test scenarios linked above
 ### Adverse Findings Summary
 | Test case No. |    Finding       | Device  | Operating System | Browser | Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
-| n/a | While preparing the QA spreadsheet we noticed odd behavior on save if the phone number that was already saved was not change | Desktop | Windows | Chrome | Travis | [#63333](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63333) | In Progress | 
+| n/a | While preparing the QA spreadsheet we noticed odd behavior on save if the phone number that was already saved was not change | Desktop | Windows | Chrome | Travis | [#63333](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63333) | Closed | 
 
 
 ## Staging Review Prep 
