@@ -14,17 +14,17 @@ This is a summary of what I learned and from whom:
 ## Learnings
 
 ### Carnetta Scruggs 6/14/23
-* The dropdown options within the user defined field come from the IM System Office, which keeps a record of every VAMC that has as Veteran's medical record (seems to be true)
-* This field plays a crucial role in helpdesk calls (in which identifying the correct treating facility is a significant bottleneck) (seems to be false)
+* The dropdown options within the user defined field come from the IM System Office, which keeps a record of every VAMC that has as Veteran's medical record 
+* This field plays a crucial role in helpdesk calls (in which identifying the correct treating facility is a significant bottleneck) 
 
 ### Patty Henry 6/21/23
-* This field is essentially a display preference, and it impacts what a Veteran sees within their Blue Button report (among others) (seems to be true)
+* This field is essentially a display preference, and it impacts what a Veteran sees within their Blue Button report (among others) 
 
 ### Multiple MHV helpdesk leads 7/21/23
-* Helpdesk uses the field when a user calls with a complaint such as "I cannot see my note from B facility in my Blue Button report." Helpdesk directs the user to the treating facility field, to save the correct facility, and then go back to notes in Blue Button and the notes will show up (unverified)
-* Troubleshooting secure messaging issues such as Veteran has switched treatment facilities and they are not seeing their new providers in their contact list. Helpdesk directs the user to the treating facility field to address this problem. (unverified)
-* MHV developers use the Veteran's Treating Facility in some way because they require the field's information when helpdesk staff escalate issues with the Appointments app (unverified)
-
+* Helpdesk uses the field when a user calls with a complaint such as "I cannot see my note from B facility in my Blue Button report." Helpdesk directs the user to the treating facility field, to save the correct facility, and then go back to notes in Blue Button and the notes will show up.
+* Troubleshooting secure messaging issues such as Veteran has switched treatment facilities and they are not seeing their new providers in their contact list. Helpdesk directs the user to the treating facility field to address this problem.
+* MHV developers use the Veteran's Treating Facility in some way because they require the field's information when helpdesk staff escalate issues with the Appointments app.
+  
 ### Jason Boire 8/15/23
 * Email: "I spoke with our team about this. We don't know much about how / where that field is used. We know that what the Veteran checks or unchecks is displayed to the users in the Admin Portal, so the helpdesk and admin staff can see which facilities the user says they get treatment at. We don't know what other MHV components may or may not be using that data to adjust the user experience. If none of hte other product lines have said they use the data, it's possibly that this will just impact the help desk flows in that the data will become more stale over time if the users are unable to make updates to it."
 
