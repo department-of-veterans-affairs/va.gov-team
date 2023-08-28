@@ -2,7 +2,7 @@
 
 ## Purpose
 
-document each endpoint that the 526 from interacts with along with it's timout threshold in two places
+Document each endpoint that the 526 from interacts with along with it's timout threshold in two places:
 - on the external API
 - on our api
 
@@ -12,8 +12,10 @@ After the IFT failure<citation> it was requested by Steve Albers that we gather 
 - align our timouts to prevent overloading existing services in the future
 - inform upcomming dashboarding work
 
+## Resources
 - [Ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/64199)
-
+- [Slack thread asking EVSS and LH teams](https://dsva.slack.com/archives/C02CQP3RFFX/p1693249478108359)
+- [Slack thread about kicking off this work](https://dsva.slack.com/archives/C04KW0B46N5/p1693237964443529)
 
 ## Research
 
@@ -135,3 +137,6 @@ submit form 4142
       :post, 'getStatus'
       :post, 'upload'
 ```
+
+
+## Resource
