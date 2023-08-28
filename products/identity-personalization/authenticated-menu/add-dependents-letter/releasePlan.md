@@ -20,6 +20,7 @@ We're looking for a low stakes, low development way to reduce the number of user
 **<details><summary>Toggle</summary>**
 <p>
 
+`show_authenticated_menu_enhancements` [created using this ticket](https://github.com/department-of-veterans-affairs/vets-api/pull/13658)
 
 </p>
 </details> 
