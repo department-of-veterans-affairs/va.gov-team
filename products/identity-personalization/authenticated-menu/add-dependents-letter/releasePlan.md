@@ -44,7 +44,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 ### Planning
 **Launch Go/No-go:** 
-- [Launch go/no-go conversation]()
+- [Launch go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64424)
 
 **Desired date range:** _TBD_
 - [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
@@ -58,9 +58,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% |  |  |
 | Launch to 50% |  |  |
-| Launch to 75% |  | |
 | Launch to 100% |  |  |
 
 ### 1-week results at 100%
