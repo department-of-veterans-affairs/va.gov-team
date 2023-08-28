@@ -13,9 +13,9 @@
 
 
 ## Overview 
-The default send work is comprised of several different pieces of functionality. 
+From our [research this year ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-06-add-dependents-records-discovery/summary.md)we've noticed a trend of users searching for Letters and Dependents from the profile (and across the broader va.gov website). 
 
-We have 2 toggles this release plan is focused on which control the checkboxes and the editing-as-a-subtask feature. The checkboxes incorporates consuming the default send logic from VA Profile/VA Notify.
+We're looking for a low stakes, low development way to reduce the number of users searching for letters and dependents from the profile and across the broader VA.gov site. Adding Letters and Dependents to the "personalized menu" is potentially a great way to do exactly that. 
 
 **<details><summary>Toggle</summary>**
 <p>
@@ -47,11 +47,10 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 - [Launch go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64424)
 
 **Desired date range:** _TBD_
-- [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
+- [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64430) 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
-- [Success metrics on Default Send project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/README.md#measuring-success)
-- [Success metrics on editing-as-subtask inititive brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/mobile-phone-edit-flow/README.md#key-performance-indicators-kpis)
+[Metrics from our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter#measuring-success)
 
 ## Go Live
 
