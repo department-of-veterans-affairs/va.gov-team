@@ -88,7 +88,7 @@ Other key moments this research touches in the Veteran journey are:
     
 -   **Review page**
     
--   **Submission confirmation page and automatic waiver decision** (only surfaced if they are approved)
+-   **Submission confirmation page and waiver decision language** 
     
 
 ***Goal 1: Evaluate the usability of the Streamlined Waiver experience***
