@@ -15,7 +15,7 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
 Form title: NEW APPOINTMENT
 
 
-### State: Single Clinic
+### State: Single Location Available
 
 **PAGE HEADER**
 
