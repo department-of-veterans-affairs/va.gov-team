@@ -11,13 +11,12 @@ The purpose of this research is to get feedback from Veterans and caregivers on 
 -  [AVS MVP Notetaker Participant Transcripts Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/research/2023-04-MVP-Usability/transcripts)
   <br> 
  <br> 
- 
+
 ## How this research maps to the Veteran journey
 - Taking care of myself
 - Putting down roots
 - Retiring
 - Aging
-
    <br> 
  <br> 
 
@@ -26,7 +25,6 @@ The purpose of this research is to get feedback from Veterans and caregivers on 
 - Veterans can manage their health services online.
 - VFS teams can build and deploy high quality products for Veterans on the Platform.
 - Usage of digital, self-service tools.
-
  <br> 
  <br> 
  
@@ -34,7 +32,6 @@ The purpose of this research is to get feedback from Veterans and caregivers on 
 The purpose of this research is to get feedback from Veterans and caregivers on the after visit summary AVS MVP for My Healthe Vet on VA.gov about the ease of use and how well the AVS meets expectations on the following criteria:
 - if Veteran/caregivers understand the information displayed within the AVS.
 - what notifications Veterans expect to get about AVS.
-
  <br> 
  <br> 
 
@@ -50,7 +47,6 @@ displayed that Veterans/caregivers weren't expecting to see?
 - Do Veterans/caregivers prefer one notification for each AVS or one notification for all appointments in
 one day?
 - What information do Veterans/caregivers expect in an AVS notification?
-
  <br> 
  <br> 
 
@@ -60,26 +56,26 @@ hour in length, where each participant was asked to interact with a Figma protot
 
 - When time allowed, most participants were asked to complete 7 tasks interacting with the prototype, while the
 moderator asked them questions to gain understanding of expectations and satisfaction.
-
 <br> 
  <br> 
 
  ## Participant demographics
+ 
 ### 13 Participants
 - Veterans: 7
 - Caregivers: 2
 - Veterans, who are also Caregivers: 4
- <br>
- 
+<br>
+
 ### Disabilities
 - Cognitive Disability: 5
- <br>
-  
+<br>
+   
 ### Gender
 - Female: 6
 - Male: 7
- <br>
-  
+<br>
+
 ### Ages
 - 25-34: 1
 - 35-44: 4
@@ -87,7 +83,7 @@ moderator asked them questions to gain understanding of expectations and satisfa
 - 55-64: 3
 - 65-74: 1
 - Did not disclose: 1
-  <br>
+<br>
   
 ### Race
 - White: 4
@@ -96,13 +92,13 @@ moderator asked them questions to gain understanding of expectations and satisfa
 - American Indian/Alaskan
 - Native: 1
 - Did not disclose: 1
-  <br>
+<br>
   
 ### Education Level
 - Some college, no degree: 2
 - Bachelor’s: 5
 - Master’s: 6
-   <br>
+<br>
    
  ### Branch of Service
 - Army: 6
@@ -111,7 +107,7 @@ moderator asked them questions to gain understanding of expectations and satisfa
 - Coast Guard: 1
 - Navy: 1
 - Did not disclose: 1
- <br>
+<br>
  
 ### States Represented
 -  Oregan: 1
@@ -190,10 +186,10 @@ moderator asked them questions to gain understanding of expectations and satisfa
 
 **Recommendation:** Within the AVS, add content to inform Veteran/caregiver that lab results are still in progress and send the AVS notification as soon as it is available.
 <br> 
- <br> 
-
+<br> 
+<br>
 ### Information Architecture
-</br>
+<br>
 
 **5. Participants validated past research that Veterans/caregivers expect AVSs within appointments and care summaries and notes.**
  <br> 
@@ -256,7 +252,7 @@ because the appointment they were looking for occurred in the past.**
    <br> 
  <br>
  
-**10.3 out of 6 participants, who reviewed the appointments section, expected the "pending"list to include referrals, recall, follow up, or imaging appointments that still need to be scheduled. All participants correctly assumed this list weren't confirmed appointments.**
+**10. 3 out of 6 participants, who reviewed the appointments section, expected the "pending"list to include referrals, recall, follow up, or imaging appointments that still need to be scheduled. All participants correctly assumed this list weren't confirmed appointments.**
 
 > I would expect to see the...ones that...I've either requested myself...or another provider has put into the system, but they haven't been confirmed yet, either by me or the other person.
 
@@ -412,9 +408,9 @@ because the appointment they were looking for occurred in the past.**
 <br> 
 <br>
 
-21. The "My medications" section met the expectations of most participants.
+**21. The "My medications" section met the expectations of most participants.**
 
-        "This is much more informative, I like this layout, or I like the amount of [information]...If I forgot how much to take, I could refer to information relayed here. I guess the other was just a summary, this is more like a full history".
+> This is much more informative, I like this layout, or I like the amount of [information]...If I forgot how much to take, I could refer to information relayed here. I guess the other was just a summary, this is more like a full history.
 
 <img 
  width="179" alt="Finding 21" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/808bf2e2-ff32-4b9d-bbb0-30898a88da3f">
@@ -422,35 +418,31 @@ because the appointment they were looking for occurred in the past.**
 <br> 
 <br>
 
-22. Approximately half of all participants were either confused about the difference between all three of the medications sections or wanted the sections combined into one section. 
+**22. Approximately half of all participants were either confused about the difference between all three of the medications sections or wanted the sections combined into one section.**
 
-        "You’ve got multiple places to get what you’re looking for. Again, that this goes back to the redundancy…If I'm looking the prescription information, I shouldn't have to go to 3 different spots and find prescription information."
-
-
+> You’ve got multiple places to get what you’re looking for. Again, that this goes back to the redundancy…If I'm looking the prescription information, I shouldn't have to go to 3 different spots and find prescription information.
 
 <img 
  width="332" alt="Finding 22" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/8cb762fb-f2d7-4f11-8845-2bd29a91fd20">
 
-     **Recommendation:** Explore clearer labels to eliminate confusion across different medication sections. Explore a combined medication sections.
-
+**Recommendation:** Explore clearer labels to eliminate confusion across different medication sections. Explore a combined medication sections.
 
 <br> 
 <br>
 
-23. Some participants asked for additional instructions with their medications.
+**23. Some participants asked for additional instructions with their medications.**
 
-    *They requested:
-       * what condition they are taking the medication for.
-       * instructions on when to take it.
-       * why they stopped taking a medication and what the adverse reactions were.
+**They requested:**
+- what condition they are taking the medication for.
+- instructions on when to take it.
+- why they stopped taking a medication and what the adverse reactions were.
          
-        “I want to know what I was taking Tylenol for.” 
-
+  > I want to know what I was taking Tylenol for.
 
 
 <img width="319" alt="Findings 23" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/d9a92e8c-0125-4f9d-a2b8-633e842580d2">
 
-    **Recommendation:** Display the existing indication field. Research the other requests further.
+**Recommendation:** Display the existing indication field. Research the other requests further.
 
 <br> 
 <br>
@@ -459,27 +451,27 @@ because the appointment they were looking for occurred in the past.**
 <br> 
 <br>
 
-24. All participants wanted a notification (email, text, etc.) that their AVS was ready to review.
+**24. All participants wanted a notification (email, text, etc.) that their AVS was ready to review.**
 
-    * Modality preferences:
-       * 3 Text only
-       * 2 Email only
-       * 7 Either text or email
+**Modality preferences:**
+- 3 Text only
+- 2 Email only
+- 7 Either text or email
          
 
-    **Recommendation:** Create AVS notification for each modality, such as email, text, push, or in app notification. Also, create an associated notification preference.
+ **Recommendation:** Create AVS notification for each modality, such as email, text, push, or in app notification. Also, create an associated notification preference.
 
 <br> 
 <br>
 
-25. Participants were equally divided between receiving one notification for each AVS or receiving all AVSs for a given day, together in one notification.
+**25. Participants were equally divided between receiving one notification for each AVS or receiving all AVSs for a given day, together in one notification.**
 
-        "I would prefer all in one; because then that way,...I'm not waiting to see that each one comes…and I'm counting 3 separate ones. I count one notification, I click into that, and I can find anything that happened during that day.”
+> I would prefer all in one; because then that way,...I'm not waiting to see that each one comes…and I'm counting 3 separate ones. I count one notification, I click into that, and I can find anything that happened during that day.
 
-        “I would like one for each visit, because what if the first doctor I saw…sent…the after care summary. But then my third doctor of the day well, he didn’t…send that in;...then I don't have to keep reminding myself to check back and look for it.”
+> I would like one for each visit, because what if the first doctor I saw…sent…the after care summary. But then my third doctor of the day well, he didn’t…send that in;...then I don't have to keep reminding myself to check back and look for it.
     
 
-    **Recommendation:** Start with separate notification for each AVS. Then, explore expanding to one notification for each day in the future as another option.
+**Recommendation:** Start with separate notification for each AVS. Then, explore expanding to one notification for each day in the future as another option.
 
 <br> 
 <br>
@@ -489,64 +481,56 @@ because the appointment they were looking for occurred in the past.**
 <br> 
 <br>
 
-1. 2 participants mentioned it would be helpful having more phone information.
+**1. 2 participants mentioned it would be helpful having more phone information.**
 
-    * When 1 participant was asked if the information in the recall appointments was helpful, she replied there is no phone number to call:
+**When 1 participant was asked if the information in the recall appointments was helpful, she replied there is no phone number to call:**
 
-        “Again…there’s no phone number to call."
+> Again…there’s no phone number to call.
 
-    * 1 participant suggested having live phone links to call:
+**1 participant suggested having live phone links to call:**
 
-        “If you made the phone number a link, so if…I’m looking at it on my phone,…If we just hit the phone number and it calls.”
-
+> If you made the phone number a link, so if…I’m looking at it on my phone,…If we just hit the phone number and it calls.
 
 <img 
  width="263" alt="SF 1" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/1ec3ccb5-5368-4040-a6d0-4b472bad8aa4">
 
-     **Recommendation:** Add phone number within the appointments section and make it clickable.
-
+  **Recommendation:** Add phone number within the appointments section and make it clickable.
 
 <br> 
 <br>
 
-2. 3 participants had a hard time interpreting what the lab results meant for them; they didn't know what to do with this information. 
+**2. 3 participants had a hard time interpreting what the lab results meant for them; they didn't know what to do with this information.** 
 
-          "I don't know how to read the lab results, so I don't know what that means".
+> I don't know how to read the lab results, so I don't know what that means.
 
-          "I know it gives a reference range, but I never know….if it's good or bad…I always look at the results and I never know how to interpret them, and I always have to call the Doc back.”
-
-
+> I know it gives a reference range, but I never know….if it's good or bad…I always look at the results and I never know how to interpret them, and I always have to call the Doc back.
 
 
 <img 
  width="139" alt="SF 2" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/32acf8d6-d224-4efb-ab55-66dfc66a175f">
 
-     **Recommendation:** Share this information with the medical records team that is working on VA.gov lab results.
+**Recommendation:** Share this information with the medical records team that is working on VA.gov lab results.
 
 <br> 
 <br>
 
+**3. 2 participants didn't understand the clinic name.**
 
-3. 2 participants didn't understand the clinic name.
+> The clinic with the colors might be confusing if you're not aware that you're assigned…by color. You're like, I don't know what that means. I don't have any idea what color I am.
 
-        "The clinic with the colors might be confusing if you're not aware that you're assigned…by color. You're like, I don't know what that means. I don't have any idea what color I am."
-
-        “I don't know what Red 4C is; if they're really telling you, what floor to go to…[I would like to see] just a room number… with conventional room numbers."
-
-
+> I don't know what Red 4C is; if they're really telling you, what floor to go to…[I would like to see] just a room number… with conventional room numbers.
 
 
 <img 
  width="194" alt="SF 3" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/108754235/fc0a41f4-b6ff-4666-9943-05398f2bc6c2">
 
- Recommendation: Make clinic names more user friendly or display a combination of other appointment information, such as floor and room number.
+**Recommendation:** Make clinic names more user friendly or display a combination of other appointment information, such as floor and room number.
 
 <br> 
 <br>
 
 
 ## Recommendations to complete with MVP release
-
 
 - Spread awareness via the change management process that a digital AVS is available on VA.gov.
 
@@ -573,7 +557,6 @@ because the appointment they were looking for occurred in the past.**
 
 ## Recommendations to consider for a phase 2 release
 
-
 - Review past appointment research into this label and add this as a research question to future studies. If evidence continues to suggest Veteran/caregiver confusion, then make changes to the label.
   
 - Ensure that the AVS product has a good print stylesheet and an accessible, downable PDF.
@@ -599,7 +582,6 @@ because the appointment they were looking for occurred in the past.**
 Veteran/caregiver.
 
 - Complete additional research to understand the technical and Veteran value of the additional information requests to the "Your treatment plan from this appointment" section.
-
 
 - Expand patient education articles linking within the AVS. For example, make hypertension a link to an article describing the condition.
 
@@ -629,5 +611,5 @@ the Veteran/caregiver. (Medical records and AVS teams)
 
 - Within the AVS, add content to inform Veteran/caregiver that lab results are still in progress and send the AVS notification as soon as it is available.
 
-    **Hypothesis** of teams needed for each item are included in the paratheses.
+**Hypothesis** of teams needed for each item are included in the paratheses.
 
