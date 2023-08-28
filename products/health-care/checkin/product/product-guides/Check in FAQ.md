@@ -6,8 +6,7 @@
 - Confirm your identity.
 - Confirm your current demographics information.
    - **Note**: this step may be skipped if you’ve verified your information within the last seven days.
-- Answer the travel pay questions
-   - **Note**: this step may be skipped if you have more than one appointment per facility per day.
+- Answer the travel pay questions.
 - View your appointment.
 - Select **Check in now**.
 - View confirmation screen: *You’re checked in*
@@ -22,7 +21,7 @@ If you can’t use your phone to check in, see a staff member for help.
 ## 6. What if check in doesn't work on my phone?
 If you aren’t able to check in on your phone, see a staff member for help checking in.
 ## 7. How do I submit a claim?
-At this time, you can create a travel claim if you have only one appointment per facility per day. In the future, you can create a travel pay claim if you have multiple appointments per facility in a day.
+At this time, you can create a travel claim once per day per facility. In the future, you can create a travel pay claim if you have multiple appointments per facility in a day.
 - After you text **Check in** to 53079, you'll receive a text back with a link to start the check in process.
 - Confirm your identity.
 - Confirm your current demographics information. 
@@ -32,12 +31,11 @@ At this time, you can create a travel claim if you have only one appointment per
 - Select **Check in now**.
 - View confirmation screen that confirms you’re checked in and we’ve received your claim submission.
 - You’ll receive a text message with your claim submission status.
-   - If you have more than one appointment per facility per day, or if you answer No to any of the travel pay questions, you can still file a claim online on the Beneficiary Travel Self Service System (BTSSS) through the AccessVA travel claim portal (https://va.gov/accessva-travel-claim) or use VA Form 10-3542 to submit a claim by mail, fax, email, or in person, within 30 days of your appointment.
+   - If you answer No to any of the travel pay questions, you can still file a claim online on the Beneficiary Travel Self Service System (BTSSS) through the AccessVA travel claim portal (https://va.gov/accessva-travel-claim) or use VA Form 10-3542 to submit a claim by mail, fax, email, or in person, within 30 days of your appointment.
    - **Note**: If you choose to file a travel reimbursement claim during online check-in you do not need to also fill out a paper form unless you receive a text message saying your claim couldn't be filed. 
 ## 8. What type of claim can I submit?
 At this time, you can submit a travel reimbursement claim for mileage only through online check-in.
 - You can still file online on the Beneficiary Travel Self Service System (BTSSS) through the AccessVA travel claim portal (https://va.gov/accessva-travel-claim) or use VA Form 10-3542 to submit a claim by mail, fax, email, or in person, within 30 days of your appointment if you:
-   - Have more than one appointment per facility per day
    - Didn’t travel from your home address
    - Didn’t travel in your own vehicle
    - Have other expenses to claim
