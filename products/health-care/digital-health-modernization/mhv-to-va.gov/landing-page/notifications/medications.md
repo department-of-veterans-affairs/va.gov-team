@@ -1,6 +1,7 @@
 # Medication Notifications
 * Currently in MYV Classic, the only medication-related notification that is active is: Your prescription has been shipped. See Slack thread [here](https://dsva.slack.com/archives/C059GGJEFQU/p1692885524618009) (private channel) or screenshot below.
 
+
 <img width="552" alt="Screenshot 2023-08-24 at 12 45 10 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/2545053f-68bb-4874-9a02-ed305e6aeb2c">
 
 * Besides the shipped notification, the team plans to not include any other notifications through PI12 (which runs through early November)
@@ -16,6 +17,8 @@
 
 <img width="549" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/cd790bde-41d1-4bfd-9a24-5af703cae0d3">
 
+<img width="910" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/9650f051-d6d4-4017-9d02-9f076e5bac69">
+
 ## Prescription statuses
 * Status changes could potentially be a trigger for notifications
 * [Glossary of statuses here](https://www.myhealth.va.gov/pharmacy-glossary-of-terms)
@@ -23,8 +26,10 @@
 * About status from Sara Sterkenburg, "I will say, this is very confusing. Medication statuses & related CTAs (such as "refill" or "request renewal") are not the same thing, but are somewhat being conflated. I am trying to come up with diagrams to separate these concepts somewhat, but it's a work in progress."
 * I'm thinking status changes could be a potential trigger for notifications. For example, the following statuses could lend themselves to helpful notifications to the user: Refill in process, on hold, parked, discontinued, expired. However, these would represent notifications that at least at this time, the medications team is not considering
 
-## Data for notifications
-* Seems that data lives at MHV Rx Refill API
+## Potential future notifications (ideated by Patrick Bateman and/or Cartography team)
+* Rx needs renewal
+* Rx refill available
+* Neither of these are being considered currently for the Medications app
 
 ## Technical Evaluation
 from Eric Spahn in [Slack thread](https://dsva.slack.com/archives/C04PRFEJQTY/p1692822742286669)
