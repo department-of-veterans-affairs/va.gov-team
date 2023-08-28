@@ -1,9 +1,9 @@
 # Income Limits Data Sources
 
-The (Income Limits application)[https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/income_limits] reads data from PostgreSQL (part of the vets-api stack). To get data imported into the database, a cron-like script runner for Ruby on Rails, Sidekiq, (executes import scripts)[https://github.com/department-of-veterans-affairs/vets-api/tree/master/app/workers/income_limits] on a schedule (currently at midnight every 3 months). The scripts pull data from CSV data files in order to populate the PostgreSQL database.
+The [Income Limits application](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/income_limits) reads data from PostgreSQL (part of the vets-api stack). To get data imported into the database, a cron-like script runner for Ruby on Rails, Sidekiq, [executes import scripts](https://github.com/department-of-veterans-affairs/vets-api/tree/master/app/workers/income_limits) on a schedule (currently at midnight every 3 months). The scripts pull data from CSV data files in order to populate the PostgreSQL database.
 
 ## VES
-The data that the Income Limits application uses is sourced from the (Veterans Enrollment System database)[https://dev.ves.va.gov/esr/]. This data is housed in Oracle databases within the VA infrastructure.
+The data that the Income Limits application uses is sourced from the [Veterans Enrollment System database](https://dev.ves.va.gov/esr/). This data is housed in Oracle databases within the VA infrastructure.
 
 During development of the Income Limits application, the VES database was not accessible via vets-api. In that interim, we opted to export the VES data to CSVs and host them on S3 in a public folder, a location that vets-api can always pull from. Once we establish connectivity directly to the VES Oracle database, we can move away from this manual data shuffling.
 
