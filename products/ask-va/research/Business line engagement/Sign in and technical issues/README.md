@@ -8,7 +8,7 @@ Sign in and technical issues
 
 |Stakeholder|Business area|
 |:--|:--|
-|Jeremy Haas|EVSS|
+|Jeremy Haas|EVSS (Enterprise Veterans Self Service)|
 
 ### Engagements
 
