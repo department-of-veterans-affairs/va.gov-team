@@ -26,7 +26,7 @@ We're looking for a low stakes, low development way to reduce the number of user
 
 ## Important Artifacts 
 
-- Epic
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)
 - Analytics Dashboard
 - ~~QA Testing~~
 - ~~UAT Testing~~
