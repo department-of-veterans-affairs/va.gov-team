@@ -34,7 +34,7 @@ We have 2 toggles this release plan is focused on which control the checkboxes a
 
 ## Phase I - UAT 
 
-We're not having UAT for this initiative, we're going to use metrics 
+We're not running UAT for this initiative, we're going to [use metrics to monitor and ensure success.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter#measuring-success)
 
 
 ## Phase II - Staged Rollout 
@@ -44,7 +44,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 ### Planning
 **Launch Go/No-go:** 
-- [Launch go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62928)
+- [Launch go/no-go conversation]()
 
 **Desired date range:** _TBD_
 - [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
