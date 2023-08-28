@@ -39,7 +39,7 @@ Last updated by @ruchishah29 on August 24, 2023
 |Ensure new AVA on VA.gov has a feedback survey|x|||
 |Ensure new AVA on VA.gov has an intercept survey|x|||
 |Make sure existing AVA has implemented the feedback survey for at least 1 month before going live||x||
-|Make sure existing AVA has implemented the intercept survey for at least 1 month before going live||||
+|Make sure existing AVA has implemented the intercept survey for at least 1 month before going live||x||
 |Ensure we receive PRA Approval both surveys|x|||
 
 ## Dashboard
