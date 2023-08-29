@@ -20,6 +20,7 @@ The original ask:
 - [Ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/64199)
 - [Slack thread asking EVSS and LH teams](https://dsva.slack.com/archives/C02CQP3RFFX/p1693249478108359)
 - [Slack thread about kicking off this work](https://dsva.slack.com/archives/C04KW0B46N5/p1693237964443529)
+    - [API info doc from this ^^^ thread](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2023-05-EVSS-Playbooks-Draft/Draft%20EVSS%20Playbook%20Template.md#api---specific-information)
 
 ## Research
 
@@ -37,12 +38,12 @@ The original ask:
 
 - LightHouse
     - /services/claims/v2/veterans
-        - 60 seconds
+        - [60 seconds]([url](https://dsva.slack.com/archives/C02CQP3RFFX/p1693255742008909?thread_ts=1693249478.108359&cid=C02CQP3RFFX))
     - /services/veteran_verification/v2
     - /services/benefits-documents/v1/documents
     - /services/direct-deposit-management/v1/direct-deposit
-    - /services/benefits-reference-data/v1/contention-types
-    - /services/benefits-reference-data/v1/disabilities
+    - /services/benefits-reference-data/v1/**
+        - [10 seconds (controlled by gateway, not code)]([url](https://dsva.slack.com/archives/C02CQP3RFFX/p1693322324028769?thread_ts=1693249478.108359&cid=C02CQP3RFFX))
 
 - Central Mail
     - /VADocument
