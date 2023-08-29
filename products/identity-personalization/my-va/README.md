@@ -132,7 +132,7 @@ _Why would your business want this to exist?_
 
 |Project|Status|
 |----|----|
-|[LOA1 uopdates to Benefit Application Drafts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|Build|
+|[LOA1 updates to Benefit Application Drafts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|Build|
 |[Dot indicator experiment + implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md) | Development |
 |Various updates to notifications| In progress|
 
