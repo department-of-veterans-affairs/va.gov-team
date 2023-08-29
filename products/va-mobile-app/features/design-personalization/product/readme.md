@@ -2,7 +2,8 @@
 Last updated Aug 2023
 
 ### Current Product Docs
-#### Personalization: North Star
+#### Personalization
+##### North Star
 * [Personalization: North Star - Project Kickoff 2023 - updated.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalization%20-%20North%20Star%20-%20Project%20Kickoff%202023%20updated.pdf)  | [slides](https://docs.google.com/presentation/d/1pIk7hEV0w18namfZsSaCAiUHlFyC7uD1Lfzud4100r0/edit#slide=id.g25f0dea14fc_1_74) (2023)
 ##### Personalized Home Screen
 * [Personalized Home Screen - Project Kickoff - pdf]()  | [slides](https://docs.google.com/presentation/d/1YBTFu9xiCfnd4DJxMM2XiTzYo0jyrGbX0M7-DZPE4ug/edit#slide=id.g25fc16e1da2_0_0) (2023)
