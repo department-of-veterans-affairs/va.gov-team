@@ -37,6 +37,7 @@ The original ask:
 
 - LightHouse
     - /services/claims/v2/veterans
+        - 60 seconds
     - /services/veteran_verification/v2
     - /services/benefits-documents/v1/documents
     - /services/direct-deposit-management/v1/direct-deposit
