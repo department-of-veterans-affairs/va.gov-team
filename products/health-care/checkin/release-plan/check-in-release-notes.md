@@ -13,6 +13,8 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 8/28/2023
+- Updated Pre-Check-in and eCheck-in to add content that clarifies what next-of-kin means in a VA context
+    - [Ticket 62927](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62927)
 -  Updated eCheck-in to use the same mobile phone number the Veteran used to initiate a check-in to text the Veteran their travel claim submission status; this was done to avoid inconsistent mobile phone number data that may prevent the Veteran from receiving the text
     -  [Ticket 62436](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)
 
