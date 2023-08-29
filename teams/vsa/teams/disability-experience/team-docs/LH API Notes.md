@@ -130,4 +130,7 @@ api_provider = ApiProviderFactory.call(
   current_user: OpenStruct.new({ flipper_id: nil }),
   feature_toggle: ApiProviderFactory::FEATURE_TOGGLE_CLAIMS_SERVICE
 )
+
+all_claims = api_provider.all_claims
+all_claims['open_claims']
 ```
