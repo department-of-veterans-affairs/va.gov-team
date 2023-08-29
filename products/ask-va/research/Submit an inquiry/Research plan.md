@@ -77,7 +77,7 @@ We will test:
 3. Sort dashboard
 4. Open an ongoing inquiry
 
-We will not testin:
+We will not test:
 5. Reply to an inquiry
 6. View resolved inquiry
 
