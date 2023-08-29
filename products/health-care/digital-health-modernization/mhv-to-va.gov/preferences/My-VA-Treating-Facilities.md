@@ -44,6 +44,9 @@ However, helpdesk leads are saying something different, that the field directly 
 ## Appendix
 
 I also reached out to the following individuals but was either directed to other people (also listed) or told that there was no way to answer the question: 
+
+- Nicole Ortega (directed me to Brenda Torres-Hill)
+- Brenda Torres-Hill (directed me to help desk leads)
 - Melissa Ashton (directed me to Lichelle Bain and Bresha Lipscomb)
 - Lichelle Bain (directed me back to Carnetta Scruggs, Jason Boire, Sandeep Karuturi, JB Walters)
 - Bresha Lipscomb 
