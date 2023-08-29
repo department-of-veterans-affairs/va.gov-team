@@ -45,4 +45,9 @@ Getting feedback on or testing with prototypes or launched applications:
 
 ### Prototype or usability testing: 
 - Testing of prototypes or built pages is best done with end users, rather than MHVCs
-- However, would be helpful to get feedback from MHVCs on existing designs or products. Always juxtapose this feedback with other forms of feedback, including from business stakeholders and end users, when thinking about the strategic implications of MHVC feedback. 
+- However, would be helpful to get feedback from MHVCs on existing designs or products. Always juxtapose this feedback with other forms of feedback, including from business stakeholders and end users, when thinking about the strategic implications of MHVC feedback.
+- 
+### Confirming or validating feedback from other sources
+- Can validate or gain further insight on feedback that is provided through other sources, like VSignals, Help Desk reports, Medallia, or emails sent to the mhvfeedback email.
+- Can also validate or gain further insight on information provided by other SMEs.
+- Goal would be to triangulate across multiple data sources in order to gain a more comprehensive understanding of an issue. 
