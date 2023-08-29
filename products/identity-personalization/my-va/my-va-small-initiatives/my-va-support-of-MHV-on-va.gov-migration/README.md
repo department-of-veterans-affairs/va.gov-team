@@ -23,7 +23,8 @@
 In support of the MHV on VA.gov migration, we'll need to make updates to the Health Care section on My VA. This work will come in phases in alignment with the phases outlined by the MHV migration initiative.
 
 ### Phases
-Phase 1B
+
+#### Phase 1B
 Updates to the "schedule and manage your appointments" links and our cerner alert are in support of phase 1B of the migration. More about this phase here (link tk).
 
 ## Key Dates
