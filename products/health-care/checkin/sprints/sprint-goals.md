@@ -98,6 +98,8 @@ ________________________________________________________________________________
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create a Readme for CHIP library in vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64073)
             - Blocked by Mobile App team work & staging test user
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Pull out Wireframes for Releases 3-6](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/62963)
+            - Added halfway through sprint
         - **EPIC: [Unified Check-in: Release 2 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[SPIKE] Figure out how to fetch all appointments for a Veteran for some period of time regardless of station/facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/640967)   
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Decide on Metrics to Measure Success for this Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63233)
@@ -113,6 +115,8 @@ ________________________________________________________________________________
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE][TECH-DEBT] - Mock API call for useSendTravelPayClaim](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/60672)
     - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Identify and prioritize components for Design System v.3 transition](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64010#issuecomment-1687153194)
+    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Update Next of Kin Wireframes Due to Platform Design Feedback](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/64341)
+        - Added half way through sprint
  
 __________________________________________________________________________________________________________________________________________________________
 
