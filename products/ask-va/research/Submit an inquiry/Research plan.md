@@ -78,8 +78,8 @@ We will test:
 4. Open an ongoing inquiry
 
 We will not test:
-5. Reply to an inquiry
-6. View resolved inquiry
+- Reply to an inquiry
+- View resolved inquiry
 
 ### Research materials
 
