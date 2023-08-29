@@ -12,7 +12,7 @@ In order to validate that the 10-10EZ form on VA.gov service can handle producti
 For every XXXX applications submitted, a request was made through the development VA.gov reverse proxy to validate performance and that the applications were submitted successfully.
 
 
-## Issues discovered during preparatory testing
+## Issues discovered during testing
 
 
 ### ANY???
