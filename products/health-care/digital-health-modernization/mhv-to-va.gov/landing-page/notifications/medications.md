@@ -25,6 +25,8 @@
 * [Mural where team is defining statuses here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690292853243/6bf4b5d2b7dea8069067ecc4134132c151e0eda2?sender=ua13e567cb5c4221acaa14949)
 * About status from Sara Sterkenburg, "I will say, this is very confusing. Medication statuses & related CTAs (such as "refill" or "request renewal") are not the same thing, but are somewhat being conflated. I am trying to come up with diagrams to separate these concepts somewhat, but it's a work in progress."
 * I'm thinking status changes could be a potential trigger for notifications. For example, the following statuses could lend themselves to helpful notifications to the user: Refill in process, on hold, parked, discontinued, expired. However, these would represent notifications that at least at this time, the medications team is not considering
+* When a refill has been requested, the medication's status moves from "active" to "active suspended," which triggers a series of actions including adding a "fill date" (when medication was filled by a pharmacist) and a "shipped date" (when the medication was shipped out). This is the trigger for the "medication shipped" notification. 
+
 
 ## Potential future notifications (ideated by Patrick Bateman and/or Cartography team)
 * Rx needs renewal
