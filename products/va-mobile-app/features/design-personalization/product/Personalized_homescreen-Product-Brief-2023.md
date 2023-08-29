@@ -148,11 +148,9 @@ Measures of success are defined by an outcome with associated direct & proxy mea
 ### Important Links
 
 UX: [WIP Design Strategy Worksheet: VA Mobile App - Personalized Home Screen 2023](https://docs.google.com/document/d/1-nAN6VTg2dtKSv4UXIOlMZxdr8pWmA0l/edit)
+[Data Project Plan - Personalized Home screen](https://docs.google.com/document/d/1xa5d114xMp6Ls1x2KR904LUoAQ7tDGKZBiijE8MJRKc/edit#heading=h.xc3a0rsasqyo)
 
-MyVA
-
-
-
+MyVA:
 * [Product outline: My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va)
     * [My VA Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases) 
     * [My VA Dashboard Product Guide Versions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/product-guides.md)
