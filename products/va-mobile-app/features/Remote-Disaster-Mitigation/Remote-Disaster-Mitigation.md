@@ -17,7 +17,10 @@ As a result, users experience a broken app until it can be fixed and the veteran
 
 A software development technique for mobile apps where the behavior or features of an app can be changed remotely without having to publish an app update
 
-### Use Cases:
+### Main Use Case:
+Use Case 1: A feature (or part of feature) is broken in the mobile application and we are working to resolve it remotely.
+
+### Possible Use Cases: (TBD-Not finalized)
 
 1. **Roll Backs**: IOS app or Android Store updates go through review process and can take 24-48 hours, longer if rejected. Rollbacks can be done withouth any backend code changes.
 
