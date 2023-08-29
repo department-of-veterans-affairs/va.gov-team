@@ -41,6 +41,7 @@ The original ask:
         - [60 seconds]([url](https://dsva.slack.com/archives/C02CQP3RFFX/p1693255742008909?thread_ts=1693249478.108359&cid=C02CQP3RFFX))
     - /services/veteran_verification/v2
     - /services/benefits-documents/v1/documents
+        - [10 seconds (gateway timeout)](https://dsva.slack.com/archives/C02CQP3RFFX/p1693327627633599?thread_ts=1693249478.108359&cid=C02CQP3RFFX)
     - /services/direct-deposit-management/v1/direct-deposit
     - /services/benefits-reference-data/v1/**
         - [10 seconds (controlled by gateway, not code)]([url](https://dsva.slack.com/archives/C02CQP3RFFX/p1693322324028769?thread_ts=1693249478.108359&cid=C02CQP3RFFX))
