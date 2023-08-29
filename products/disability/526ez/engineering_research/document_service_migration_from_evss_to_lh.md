@@ -84,6 +84,7 @@ This takes care of a large part of implementing our switching logic
         - E.G. Make sure that we are calling the correct document models, things like that
       
 -  develop roll out plan : TODO
+    - Test known EVSS failures against LH, see what may be a problem
     - Testrail seems relevant, since QA will be important.  [VA doc on that here](https://depo-platform-documentation.scrollhelp.site/developer-docs/create-a-project-in-testrail)
         - Mark built a test rail project for the broader migration, may be something in there we can use
     - Mark did this recently and has an example we can use:
