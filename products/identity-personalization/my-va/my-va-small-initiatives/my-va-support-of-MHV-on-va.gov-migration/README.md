@@ -25,7 +25,7 @@ In support of the MHV on VA.gov migration, we'll need to make updates to the Hea
 ### Phases
 
 #### Phase 1B
-Updates to the "schedule and manage your appointments" links and our cerner alert are in support of phase 1B of the migration. More about this phase here (link tk).
+Updates to the "schedule and manage your appointments" links and our cerner alert are in support of phase 1B of the migration. More about this phase 1B in development epic: #[57666](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57666).
 
 ## Key Dates
 
