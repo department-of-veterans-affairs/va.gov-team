@@ -4,7 +4,7 @@
 
 Updates in support of phase 1B include:
 - Updates to the Cerner message
-- Update to the "schedule and manage your appointments" url in where it exists in three scenarios on My VA in the Health Care section:
+- Update to the "schedule and manage your appointments" url where it exists in three scenarios on My VA in the Health Care section:
     1. next appointment card
     2. secondary link position
     3. within the appointments API error state
