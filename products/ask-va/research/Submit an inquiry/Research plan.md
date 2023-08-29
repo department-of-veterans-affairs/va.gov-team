@@ -85,8 +85,6 @@ This will be a moderated usability study conducted remotely over Zoom. We will u
 
 We’ll use Perigean to recruit participants. **We request a kick-off call with Perigean before recruitment can start.**
 
-We will also recruit 2 School Certifying Officials (SCOs) ourselves.
-
 ### Recruitment criteria
 
 We need to recruit 10 Veterans and 6 dependents for a total of 8-10 completed sessions.
@@ -122,17 +120,6 @@ We have a submitted a [Recruitment Request: Cohort 1 - Veterans](url goes here).
 |At least 2|Identify as a gender other than male|
 
 We have a submitted a [Recruitment Request: Cohort 2 - Dependents](url goes here).
-
-#### Cohort 3: 2 School Certifying Officials
-
-Note: We will recruit this cohort ourselves.
-
-|# of participants|Criteria|
-|:--|:--|
-|Exactly 2|Are SCOs|
-|Exactly 2|Have submitted an inquiry through Ask VA in the past year|
-|Exactly 2|Have signed into VA.gov in the past year|
-|Exactly 2|Are willing to join from a desktop device|
 
 ### Screener questions
 
