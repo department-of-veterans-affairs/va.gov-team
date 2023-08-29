@@ -2,12 +2,14 @@
 
 **Last updated:** August 29, 2023 (first published)
 
-This document outlines updates to the Cerner message and "schedule and manage your appointments" link where it exists in three scenarios on My VA in the Health Care section:
+Updates in support of phase 1B include:
+- Updates to the Cerner message
+- Update to the "schedule and manage your appointments" url in where it exists in three scenarios on My VA in the Health Care section:
 1. next appointment card
 2. secondary link position
 3. within the appointments API error state
 
-These updates were made in support of MHV on VA.gov migration phase 1B. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
+For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
