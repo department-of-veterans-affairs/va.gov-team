@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: August 8, 2023 - updated launch status for claims**
+**Last updated: August 29, 2023 - updated completed projects**
 
 ### Communications
 
@@ -132,9 +132,9 @@ _Why would your business want this to exist?_
 
 |Project|Status|
 |----|----|
-|[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#readme)| Launched to 25% |
-|[Remove "what benefits does VA offer?" menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/benefit-application-drafts-updates.md) | Development| 
-| [Dot indicator experiment + implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md) | Development |
+|[LOA1 uopdates to Benefit Application Drafts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|Build|
+|[Dot indicator experiment + implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md) | Development |
+|Various updates to notifications| In progress|
 
 ### Completed projects & enhancements
 
@@ -144,6 +144,8 @@ _Why would your business want this to exist?_
 
 |Project|Launch/Completion date|
 |----|----|
+|[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#readme)| August 28, 2023 |
+|[Remove "what benefits does VA offer?" menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/benefit-application-drafts-updates.md) | August 28, 2023| 
 |[Show all sections all the time (aka My VA audit)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#project-outline-my-va-audit-updates-and-documentation)| April 25, 2023 |
 |[Launch VAOS v2 integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41202)|December 19, 2022|
 |[Update Cerner module to be powered by Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47956)| Launched December 13, 2022|
