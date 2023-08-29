@@ -19,7 +19,7 @@ While shifting to multiple sections with vertical navigation solved the problems
 - **The current page structure breaks accessibility best practices, which makes it likely for people using screen readers to miss the Profile menu as well.** Sending people directly into `Personal information` from any Profile link causes an accessibility issue known as the [“hubless spoke”](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41697) problem. 
 	- Because the Profile navigation menu appears to people using screen readers before the page’s `H1` – `Personal information` – in the DOM, this makes it difficult for screen readers to interpret and read the page structure correctly. 
 	- Unless a person knows to navigate 'upwards' in the page structure after they’ve opened the page, they may never realize that there even is a navigation menu that lives above the `H1`. 
-	- This increases the likelihood that the navigation could be skipped altogether if people navigate by heading, which is a common form of navigation style.  [Profile Hub epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593)
+	- This increases the likelihood that the navigation could be skipped altogether if people navigate by heading, which is a common form of navigation style. (See [Profile Hub epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593))
 
 
 → [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md#measuring-success).
