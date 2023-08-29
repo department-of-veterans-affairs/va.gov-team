@@ -66,7 +66,7 @@ Historical data (January 2023 - August 2023)
 
 - July 2023: Analytics discovery
 - August 2023: Development
-- ...
+- August 28, 2023: Feature flag enabled (menu no longer visible for all users in production)
    
 ## Screenshots
 
