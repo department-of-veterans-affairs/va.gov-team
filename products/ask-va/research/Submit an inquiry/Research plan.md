@@ -35,7 +35,7 @@ Ask VA can support Veterans, caregivers and other submitters at all stages of th
 The key goals of this study are to:
 
 * Review whether submitters can successfully submit an inquiry
-* Review whether submitters have the information they need when reviewing an ongoing or past inquiry
+* Review whether submitters have the information they need when reviewing ongoing or past inquiries (dashboard)
 
 **Note:** In our research documentation, the words `user` and `submitter` are used interchangeably.
 
@@ -51,7 +51,7 @@ This research will help us determine if and how we need to improve the design an
 * Do users understand why they're being asked each question?
 * Do users understand how to edit their answers on the review page?
 * Is it clear what to expect after they submit an inquiry?
-* Are users missing any information to identify which inquiry they're reviewing?
+* Are users missing any information to identify an inquiry in their dashboard?
 * How and how often do users expect to be updated about changes to their inquiry status?
 * What do users expect to happen after you receive a response to their inquiry?
 
