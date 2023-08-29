@@ -1,4 +1,5 @@
-# My VA Health Care Section: Updates with dot indicator
+# My VA Health Care Inbox Link (with dot indicator) Frontend Documentation
+
 
 ### Go to your inbox link
 
