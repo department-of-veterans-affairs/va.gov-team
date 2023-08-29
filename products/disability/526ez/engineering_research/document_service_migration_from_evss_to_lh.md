@@ -84,8 +84,7 @@ This takes care of a large part of implementing our switching logic
         - E.G. Make sure that we are calling the correct document models, things like that
       
 -  develop roll out plan : TODO
-
-  - Testrail seems relevant, since QA will be important.  [VA doc on that here](https://depo-platform-documentation.scrollhelp.site/developer-docs/create-a-project-in-testrail)
+    - Testrail seems relevant, since QA will be important.  [VA doc on that here](https://depo-platform-documentation.scrollhelp.site/developer-docs/create-a-project-in-testrail)
         - Mark built a test rail project for the broader migration, may be something in there we can use
     - Mark did this recently and has an example we can use:
         - [his existing roll out plan.  Square our intent with this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Intent%20To%20File%20Endpoint%20Migration%20Release%20Plan.md]
