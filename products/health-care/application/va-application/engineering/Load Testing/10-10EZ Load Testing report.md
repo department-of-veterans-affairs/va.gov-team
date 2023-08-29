@@ -3,9 +3,7 @@
 
 ## Background
 
-In order to validate that the 10-10EZ form on VA.gov service can handle production loads, load testing was performed on XX/XX/2023 according to the [performance testing plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/Load%20Testing/10-10EZ%20Loan%20Testing%20Plan.md). Tests were performed to:
-
-
+In order to validate that the 10-10EZ form on VA.gov service can handle production loads, load testing was performed on XX/XX/2023. Tests were performed to:
 
 * obtain baseline performance
 * test anticipated production loads
