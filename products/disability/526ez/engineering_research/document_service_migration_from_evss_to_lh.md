@@ -1,4 +1,4 @@
-# WIP notes for EVSS -> LH Document Service Migration 
+EVSS -> LH Document Service Migration 
 
 [WIP PR](https://github.com/department-of-veterans-affairs/vets-api/pull/13576)
 
