@@ -1,6 +1,6 @@
 # Initiative outline: Remove "What benefits does VA offer?"
 
-**Last updated: August 9, 2023 - published**
+**Last updated: August 29, 2023 - dates in measuring success table, key dates, "after" screenshots**
 
 ### Communications
 
@@ -79,5 +79,11 @@ Historical data (January 2023 - August 2023)
 
 ![Screenshot 2023-08-09 at 12 21 58 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/7387facf-0391-4fca-900a-64a12df62aa4)
 
+
 ### After
-TK
+#### LOA1
+![Screenshot 2023-08-28 at 4 10 33 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/4eed62a4-a88a-4105-bfcd-469cfa03ec9e)
+
+
+#### LOA3
+![Screenshot 2023-08-28 at 4 11 21 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/4c10333c-f368-467b-808b-8b9ca2cec077)
