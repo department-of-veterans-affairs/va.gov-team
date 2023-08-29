@@ -48,8 +48,7 @@ I also reached out to the following individuals but was either directed to other
 - Nicole Ortega (directed me to Brenda Torres-Hill)
 - Brenda Torres-Hill (directed me to help desk leads)
 - Melissa Ashton (directed me to Lichelle Bain and Bresha Lipscomb)
-- Lichelle Bain (directed me back to Carnetta Scruggs, Jason Boire, Sandeep Karuturi, JB Walters)
-- Bresha Lipscomb 
+- Lichelle Bain & Bresha Lipscomb (directed me back to Carnetta Scruggs, Jason Boire, Sandeep Karuturi, JB Walters)
 - Sandeep Karuturi (never responded to numerous emails)
 - Haritha Cheruvu (never responded to numerous emails)
 - Swathi Alikatti (never responded to numerous emails)
