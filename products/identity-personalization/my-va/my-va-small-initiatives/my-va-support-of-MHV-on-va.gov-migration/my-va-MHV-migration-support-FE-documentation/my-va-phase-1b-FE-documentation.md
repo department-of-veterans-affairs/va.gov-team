@@ -2,11 +2,48 @@
 
 **Last updated:** August 29, 2023 (first published)
 
-This document outlines specs for the "schedule and manage your appointments links", and Cerner messaging within the Health Care section on My VA. These updates were made in support of MHV on VA.gov migration phase 1B. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
+This document outlines specs for the "schedule and manage your appointments" links (url update in three locations: next appointment card, secondary link position, link with error state), and Cerner messaging within the Health Care section on My VA. These updates were made in support of MHV on VA.gov migration phase 1B. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
-## Appointments Link
+----
+## Schedule and Manage your Appointments Link (three locations)
 
-### Schedule and manage your appointments link
+### Next appointment card
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
+
+**Show card**
+
+- If a user has VA health care and has an upcoming appointment scheduled, no matter how far in the future it is.
+
+**Do NOT show card**
+
+- If a user does not have any future appointments scheduled.
+
+**If a user has multiple future appointments scheduled**
+
+- Only show a card for the closest appointment to today's date.
+
+#### **Content**
+
+Next appointment
+
+Date
+
+Time
+
+Location
+
+[Schedule and manage your appointments](https://va.gov/my-health/appointments)
+
+**Content specs**
+
+- Next appointment: Static text that appears this way for every appointment card
+- Date: Date of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
+- Time: Time of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
+- Location: Location of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
+
+
+### Schedule and manage your appointments secondary link
 
 <img width="474" alt="Screenshot 2023-03-14 at 1 42 37 PM" src="https://user-images.githubusercontent.com/97965610/225092377-f59681f3-bcf2-402d-a76c-7aece775f547.png">
 
@@ -22,6 +59,33 @@ Use font awesome icon `calendar` for icon
 #### Content
 
 [Schedule and manage your appointments](https://va.gov/my-health/appointments)
+
+
+### Error State 2: The health care appointments API call fails (can't tell if user has appointments scheduled but can tell they have VA health care)
+
+#### Visual specs
+- Use the [warning alert component](https://design.va.gov/components/alert#warning-alert) for the error message.
+>**We can't access your appointment information**
+>
+>We're sorry. Something went wrong on our end and we can’t access your appointment information. Please try again later or go to the appointments tool:
+>[Schedule and manage your appointments](https://va.gov/my-health/appointments)
+
+**Positioning**
+- This should appear under the 'Health care' header on the lefthand side on desktop.
+
+**Secondary links**
+- When this error shows the following secondary links should appear on the lefthand side on desktop:
+  - [Go to your inbox](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
+  - [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
+  - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
+  - [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
+
+
+#### Mock-ups
+- [Desktop without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
+- [Mobile without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
+- [Desktop with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C19F6AA0-62CE-4F92-89BD-65680DE67F60)
+- [Mobile with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/0C2845E1-A9E9-412C-B653-11B292A822A0)
 
 
 
