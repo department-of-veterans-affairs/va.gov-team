@@ -71,6 +71,16 @@ This research will help us determine if and how we need to improve the design an
 
 This will be a moderated usability study conducted remotely over Zoom. We will use a coded prototype in staging.
 
+We will test:
+1. Submit an inquiry
+2. View dashboard
+3. Sort dashboard
+4. Open an ongoing inquiry
+
+We will not testin:
+5. Reply to an inquiry
+6. View resolved inquiry
+
 ### Research materials
 
 - Conversation guides
