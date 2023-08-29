@@ -1,7 +1,10 @@
 # My VA Health Care Inbox Link (with dot indicator) Frontend Documentation
 
+**Last updated:** August 29, 2023 (first published)
 
-### Go to your inbox link
+This document outlines specs for the link to access the health care secure messaging inbox within the Health Care section on My VA. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
+
+## Go to your inbox link
 
 With unread messages:
 <img width="955" alt="Screenshot 2023-08-23 at 2 13 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/692bd74b-c9c6-4e8e-9a27-1ab2401a3c2b">
