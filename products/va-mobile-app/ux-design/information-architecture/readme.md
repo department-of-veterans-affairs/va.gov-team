@@ -12,5 +12,5 @@ An editable version of the file is in FigJam: [VA Mobile App - Detailed sitemap 
 
 
 ## VA Mobile App post-MVP sitemap (Deprecated)
-The sitemap/flow diagram outlines the information architecture that the original VA Mobile App's navigation followed: [VA Mobile App sitemap (deprecated) 2-22-2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture/VA%20Mobile%20App%20sitemap%20(current%20state%202-7-22).png).
+The sitemap/flow diagram outlines the information architecture that the original VA Mobile App's navigation followed: [VA Mobile App sitemap (deprecated) 2-22-2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture/archive/VA%20Mobile%20App%20sitemap%20(current%20state%202-7-22).png).
 
