@@ -91,6 +91,17 @@ Engagement
 - [PDF certificate warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/pdf-cert-warning-alert) - Q4 2022
 
 ---
+## Important technical constraints and dependencies
+
+### Lighthouse API
+
+The forms endpoint on the Lighthouse Forms API has a rate limit. That limit was hit in August 2023 when a PACT Act deadline drove a huge surge in demand for a particular form. Discovering the source of this error can be tricky, as the error code is different at each layer of the stack. It was detected by someone on Platform noticing a surge in a specific error at a specific layer.
+
+Rate limit history:
+- 240 requests / min = the orignal rate limit  ([slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1691433561014359?thread_ts=1691430186.980299&cid=CBU0KDSB1), from Kristen Brown)
+- 500/min = New rate limit as of 8/8, after our increase request
+
+---
 
 ## Incident Response
 As of 8/1/23:
