@@ -76,6 +76,7 @@ Collecting NOK in Check-in experience.
 
 <img width="1023" alt="Screenshot 2023-08-28 at 1 52 51 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/fb47ddf5-6b7f-4e51-9fbe-48ec2265e1d7">
 
+- Who from the VA (if anyone) can access this information? How is it being collected now? How is it being used by VA staff? 
 - Who do we need to contact to determine what information is required for each record type (NOK and EC)?
 - For emergency contact: Will we need to allow users to add more than one contact?
 - We need to learn more about how the NOK / EC object can be updated - ideally, we can update all info assocaited with the record with one request, like how address objects currently function in profile. It would not be ideal for the update to work like notification settings, where each update has to be a separate call.
