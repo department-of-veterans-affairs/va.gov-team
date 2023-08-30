@@ -58,7 +58,6 @@ Relevant 10-10EZR Form Fields:
 
 - ITRP intake request (see Jira Service Desk @ max.gov)
 - intake/onboarding/reviews
-- Mike Richard states vets-api is already provisioned for VA Profile Health API, so this step may not be necessary.
 
 - **Q:** `vets-api` is already integrated with VA Profile. Does MHV-on-VA.gov and/or Authenticated Experience teams need to onboard for VA Profile?
   * **A:** It is necessary for teams to onboard when utilizing API endpoints that are not currently being accessed by `vets-api`.
