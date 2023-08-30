@@ -23,16 +23,16 @@
 - Project epic [#57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
 - [10-10EZR Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/10-10EZR%20Product%20Brief%20(standalone%20form).md)
 - Whiteboard sketch or other lo-fi prototypes or
-- [Sketch Wireframes](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A8A73F5C-CD0D-4862-AE2E-71BCE8F00790/canvas)
-- [User flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/v/yA73gK/p/A8A73F5C-CD0D-4862-AE2E-71BCE8F00790/canvas?posX=-3230.841796875&posY=-10065.689453125&zoom=0.25)
+- [Sketch Wireframes](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/D391CBC5-D341-4B4B-B1D8-566325DDF8A4/canvas)
+- [User flows](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/v/Mrk8ab/p/A0C657F6-3318-45A0-93CB-246BA8722E37/canvas?posX=-3289.158203125&posY=-10403.73046875&zoom=0.25)
 - Research plan 
 - Conversation guide
-- North Star and KPIs for the product
+- [North Star and KPIs for the product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities#measuring-success)
 - Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
      - TBD
-- Use cases
-- Finalized design prototype or mockup
+- [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZR-Update-health-care-benefits.md)
+- Finalized design, prototype or mockup
 - Content brief
 - Regression test plans
 - TestRail 
@@ -65,9 +65,9 @@
 - [ ] Optional - **Sign up for a Product Review session to present the initiative (~after Design Intent)**
 - [x] Create corresponding stories to align with the work needed (start with this list!)
 - [ ] Initial design
-     - [ ] Lo-Fi design ideas
-     - [ ] Presentation and agreement with the team on direction
-          - [ ] Confirm Frontend and Backend efforts
+     - [x] Lo-Fi design ideas
+     - [x] Presentation and agreement with the team on direction
+          - [x] Confirm Frontend and Backend efforts
      - [ ] Presentation to Stakeholders and downstream system representatives
 - [x] **Submit Collaboration Cycle request ticket**
      - [x] **Review Collaboration Cycle site**
