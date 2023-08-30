@@ -1,6 +1,6 @@
 # Initiative Brief - EVSS to LightHouse > Disabilities Rating API Update
 
-**Last updated: August 30, 2023 -- added launch date**
+**Last updated: August 30, 2023 -- added launch date; added KPI**
 
 #### Overview
 
@@ -19,9 +19,15 @@ EVSS is being sunset and will no longer be supported. We need to leverage the ne
 
 ## Measuring Success
 
-### Key Performance Indicators (KPIs)
+### Objective: Maintain or improve performance for disability rating.
 
--[ Product KPI Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag#kpimetrics)
+**KPI: Maintain a greater than 95% success rate for retrieving disability rating.**
+
+|KPI|Rate (%) 1 month pre-launch (7/30/2023-8/29/2023)|1 week @10% (8/30/23 - 9/5/23)| 1 week @25% (9/6/23 - 9/12/23) |1 week @50% (9/13/23 - 9/19/23)|1 week @100% (9/20/23 - 9/26/23)| 1 month @100% (9/20/23 - 10/19/23) | 2nd month @100% of users (10/20/23 - 11/19/23)|
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|% of successful retrievals|||||||
+|% of failed retrievals|||||||
+
 
 ---
 
