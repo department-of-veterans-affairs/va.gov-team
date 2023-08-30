@@ -1,4 +1,7 @@
 # Initiative Brief - EVSS to LightHouse > Disabilities Rating API Update
+
+**Last updated: August 30, 2023 -- added launch date**
+
 #### Overview
 
 Product: Profile > Nametag > Disabilities Rating
@@ -36,8 +39,7 @@ We're simply changing the endpoint we're using to read the Disability rating whi
 #### Initiative Launch Dates
 - *Target Launch Date*
   - 8/29/2023
-- *Actual Launch Date* 
-  - tbd
+- Launch to 10%: August 30, 2023
 
 ### Communications
 
