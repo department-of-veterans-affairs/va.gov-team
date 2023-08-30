@@ -1,5 +1,5 @@
 # DRAFT VA Mobile App: Criteria for Evaluating Personalized Home Screen Approaches
-
+August 2023
 
 ### Business Goals
 
