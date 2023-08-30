@@ -95,7 +95,7 @@ Engagement
 
 ### Lighthouse API
 
-The forms endpoint on the Lighthouse Forms API has a rate limit. That limit was hit in August 2023 when a PACT Act deadline drove a huge surge in demand for a particular form. Discovering the source of this error can be tricky, as the error code is different at each layer of the stack. It was detected by someone on Platform noticing a surge in a specific error at a specific layer.
+The forms endpoint on the Lighthouse Forms API has a rate limit. That limit was hit in August 2023 when a PACT Act deadline drove a huge surge in demand for a particular form. The presence of a rate limit is difficult to detect because the errors are masked by the many layers of the VA network stack. In practice, a rate limit could be experienced as 502 response codes occurring on the vets-api endpoint (https://api.va.gov/v0/forms), and 429 response codes on the Lighthouse endpoint (https://api.va.gov/services/va_forms/v0/forms).
 
 Rate limit history:
 - 240 requests / min = the orignal rate limit  ([slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1691433561014359?thread_ts=1691430186.980299&cid=CBU0KDSB1), from Kristen Brown)
