@@ -258,6 +258,13 @@ done
 
 ```
 
+### 8. Parse errors
+- get list of failure ids
+- pull errors from spew file or terminal
+- parse errors
+- send to whoever is in charge of fixing them (EVSS)
+- rerun this process on the previous failures when the bug is fixed
+
 Note the reference to the text document generated (list of uploads) from step 5.
 The name used doesn't matter, as long as it matches between steps 5 and 6.
 
