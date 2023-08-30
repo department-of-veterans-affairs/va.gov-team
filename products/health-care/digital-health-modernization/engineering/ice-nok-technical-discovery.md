@@ -1,6 +1,8 @@
 
 # ICE/NOK Technical Discovery (2023/08)
 
+[UX Discovery Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/af9ba7f1c18ae47de6049323ed218414974336f9/products/health-care/digital-health-modernization/mhv-to-va.gov/Next%20of%20Kin-Emergency-Contact/overview-notes.md) by Jonathon Nelson and Cara Frissell
+
 ## 10-10EZ
 
 Currently digitized at https://www.va.gov/health-care/how-to-apply/. However, it does not currently collect ICE/NOK details.
