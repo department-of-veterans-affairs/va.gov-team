@@ -35,7 +35,7 @@ Standups currently do not provide engineers and leadership with enough informati
 | --- | --- | --- | --- | --- |
 | Walk the board |  | UX/Content |  | Fireside chat of completed work |
 |  | Joe | Trevor | Alex |  |
-|  | Dick | Josh | Antonette |  |
+|  | Josh | Dick | Antonette |  |
 |  | Vid | Riley | Ian |  |
 |  | Daniel | John | Afia |  |
 |  | Mike | Amber | Lisa |  |
