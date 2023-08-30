@@ -14,7 +14,8 @@ Agenda
 Status Update
 - Continued implementation of the segmented control component into the Flagship app
 - Continued updates to component documentation to more closely align with VADS component documentation
-- Creating list of components to be added to design system 
+- Creating list of components to be added to design system
+- Next - add color design token to design system 
 
 Open action items
 - Status on repository?
