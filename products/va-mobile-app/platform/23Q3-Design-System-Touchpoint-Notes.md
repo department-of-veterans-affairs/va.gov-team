@@ -12,6 +12,7 @@ Agenda
 - Component list review by Jessica
 
 Status Update
+- Added automated unit tests, linting, and codeql to help ensure code quality
 - Continued implementation of the segmented control component into the Flagship app
 - Continued updates to component documentation to more closely align with VADS component documentation
 - Creating list of components to be added to design system
