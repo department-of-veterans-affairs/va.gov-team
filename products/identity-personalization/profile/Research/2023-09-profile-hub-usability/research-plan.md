@@ -97,12 +97,14 @@ Usability study with a coded prototype, on production behind a feature flag.
 
 Our research participants will be veterans, and we will use Perigean to recruit Veterans for this moderated study. 
 
-We’d like to recruit 20 participants for a total of 16 completed sessions:
-- 8 total desktop users which includes
-	- 4 sighted users
-	- 4 screen reader users
-- 4 magnification users (can be desktop or mobile)
-- 4 mobile users (none of these can be screen reader users)
+We’d like to recruit 10 participants for a total of 8 completed sessions:
+- 3 total desktop users which includes
+	- 1 sighted user
+	- 2 screen reader users
+- 3 magnification users which includes
+	- 2 desktop users
+	- 1 mobile user
+- 2 mobile users (none of these can be screen reader users)
 
 ### Recruitment criteria
 
