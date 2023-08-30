@@ -15,7 +15,7 @@ Careers and employment hub | | |
 Pension hub| | | 
 Housing assistance hub| | | 
 Life insurance hub| | | 
-Burials and memorials hub|Aug 2023| [File Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/Burials%20Hub%20Audit%20-%202023.xlsx)https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/Burials%20Hub%20Audit%20-%202023.xlsx | 
+Burials and memorials hub|Aug 2023| [Burial Hub Audit 2023](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/information-architecture/process/ia-audits/Burials%20Hub%20Audit%20-%202023.xlsx) | 
 Records hub | | | 
 Decision reviews hub| | | 
 Root level | | | 
