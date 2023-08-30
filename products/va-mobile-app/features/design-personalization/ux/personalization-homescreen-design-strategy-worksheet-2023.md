@@ -135,13 +135,14 @@ A personalized VA mobile app home screen should:
 
 
 ### Outcomes (measurable)
+1. Veteran **comprehension** of what the app can do 1) in general and 2) for them in their current circumstances.
+2. Veteran **satisfaction** with the amount (time & tasks) they are completing in the app.
+3. Veterans’ **perceived current and future value** of the app. 
+4. Personalized home screen’s impact on **task completion**.
+5. Personalized home screen’s impact on **longevity with the app.**
+6. **Engagement with personalized content** on the home screen.
 
-1. Increase active user base (retention).
-2. Engagement with features that are relevant to the individual Veteran (ex. more quickly get to a secure message for a Health user).
-4. Engagement with personalized content on the home screen.
-5. Net Promoter Score (NPS) or some other measurement of sentiment. (not MVP)
-6. An increase in user comprehension of the app’s feature set.
-
+See [VA Mobile App - Personalized Home Screen - Product Brief])https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) for details
 
 
 # Part II
