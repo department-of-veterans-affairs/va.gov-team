@@ -97,7 +97,7 @@ Usability study with a coded prototype, on production behind a feature flag.
 
 Our research participants will be veterans, and we will use Perigean to recruit Veterans for this moderated study. 
 
-We’d like to recruit 10 participants for a total of 8 completed sessions:
+We’d like to recruit 12 participants for a total of 8 completed sessions:
 - 3 total desktop users which includes
 	- 1 sighted user
 	- 2 screen reader users
@@ -129,7 +129,7 @@ Additionally, all participants:
 [Each cohort will have their own recruitment request ticket]
 
 ##### Cohort 1 – Sighted desktop users who are NOT screen reader users
-Recruitment request ticket XXXX (recruit 5, complete 4)
+Recruitment request ticket XXXX (recruit 2, complete 1)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
@@ -141,7 +141,7 @@ Do you find it difficult to remember or learn new things, focus on a task, or ma
 > _Response option: text box (any response to that question satisfies that particular criteria)_
 
 ##### Cohort 2 – Mobile users who are NOT screen reader users
-Recruitment request ticket XXXX (recruit 5, complete 4)
+Recruitment request ticket XXXX (recruit 3, complete 2)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
@@ -162,7 +162,7 @@ Do you find it difficult to remember or learn new things, focus on a task, or ma
 > _Response option: text box (we need a minimum of 3 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
 ##### Cohort 3 – Screen reader desktop users 
-Recruitment request ticket XXXX (recruit 5, complete 4)
+Recruitment request ticket XXXX (recruit 3, complete 2)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
@@ -186,7 +186,7 @@ Do you find it difficult to remember or learn new things, focus on a task, or ma
 > _Response option: text box (we need a minimum of 3 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
 ##### Cohort 4 –  Magnification users (desktop OR mobile)
-Recruitment request ticket XXXX (recruit 5, complete 4)
+Recruitment request ticket XXXX (recruit 4, complete 3)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
