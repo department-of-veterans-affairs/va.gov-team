@@ -71,7 +71,7 @@ Need to Determine what dynamic messaging (Error Messaging) the user will receive
     * Veterans and their families trust the security accuracy and relevancy of VA.gov
 
 
-### Roadmap
+### Roadmap (TBD in Discovery)
 
 
 #### V1
@@ -89,14 +89,14 @@ Need to Determine what dynamic messaging (Error Messaging) the user will receive
 
 ### Technical Approach
 
-* Possibly via remote config, but I could see this as something baked into an API response using maybe error boundaries on the frontend 
+* Possibly via remote config, but I could see this as something baked into an API response using maybe error boundaries on the frontend (sprint o)
 * Establish sunsetting process where a feature toggle changes over to a “gateway”
 
 
-### Measuring success 
+### Measuring success (sprint o)
 
-* A safe assumption is we will only use this under dire circumstances, which in most situations will be lots of users are found to be crashing, and we’ll be able to see how many do so before we turn the mitigation on and extrapolate avoided crashes.
-* Could measure how isolated we can specify app disruption.
+* A safe assumption is we will only use this under direct circumstances, which in most situations will be lots of users are found to be crashing, and we’ll be able to see how many do so before we turn the mitigation on and extrapolate avoided crashes.
+* Measure how isolated we can specify app disruption?
 
 
 ### Open Questions  (From Initial Sprint O)
