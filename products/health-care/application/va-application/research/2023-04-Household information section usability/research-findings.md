@@ -173,7 +173,7 @@ Some Veteran participants expressed frustration with the cumbersome login experi
 
 ## Next Steps
 
-We will work with the rest of the 1010 team, our stakeholders, and the Authenticated Experience team to pilot a new online version of the 10-10EZR, making the form accessible (either through a link or other means) where it makes the most sense for Veterans to find.
+Add
 
 
 ## Appendix
