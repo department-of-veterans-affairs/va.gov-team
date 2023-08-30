@@ -77,18 +77,47 @@ our 526 PDFs, and if we hit their rate limit we could not only break our job,
 but bring down our production app!
 
 ### 3. Login to a production connected Rails Console
-There are currently two options for doing this
+There are two options for doing this, with the former being the "right" way, and the latter being the "godmode" way
 
-1. ArgoCD.  This is the more universally available way to do this. To login to an ArgoCD terminal
-   a. request access by following the steps here
+#### ArgoCD - the right way
 
-2. AWS CLI.  This option requries access to an intermediary server that run your
-   rails console.  This option is deprecated but noted here for posterity, as it
-   is the method primarily used up till now.
+This is the more universally available way to do this. To login to an ArgoCD terminal
+   a. request access by following the [steps here](https://depo-platform-documentation.scrollhelp.site/developer-docs/vets-api-on-eks#VetsAPIonEKS-Access)
+   b. [go to the web interface and use the available shell](https://argocd.vfs.va.gov/applications/vets-api-prod)
+   
+#### AWS CLI - god mode
+This option requries access to an intermediary server that run your rails console.  This option is deprecated but noted here for posterity, as it is the method primarily used up till now.  The intermediary server that runs the Bash / Rails terminals in this option are hosted on an old EC2 instance that predates our Kubernetees deployment.  These old servers can only be deployed by VA dev ops folk and are not intended to be accessed by us. However, under the righ circumstances we may be given access, as in this case.
+
+   a. request AWS production access via [these steps]
+   b. [Follow these steps to tunnel into a production server](https://depo-platform-documentation.scrollhelp.site/developer-docs/aws-shell-access#AWSShellAccess-CLIUsage) or use the below TL;DR steps
+
+[TODO] - proof this:
+**TL;DR**
+- install dependencies
+    - `brew install jq`
+    - `brew install awscli`
+    - Docker
+- Start Docker in the background (the subsequent steps will use it)
+- pull 'devops' repo  
+    - `git clone https://github.com/department-of-veterans-affairs/devops`
+- authenticate your machine using the devops script
+    `source devops/utilities/issue_mfa.sh AWS_USERNAME AWS_2FA_CODE`
+- tunnel into prod server
+    - `devops/utilities/ssm.sh vets-api-server prod`
+    - you will most likely be presented with 1 or more servers to choose.
+      Choose the last one on the list, as it is most likely the one that is
+      working.  You may have to try others, since this is not a recommended or
+      actively maintained workflow
+    - `sudo su` become super user
+    - `docker exec -it vets-api bash`
+- start your rails console
+    - `bin/rails c`
 
 ### 4. Import the IDs from step 1
 If you are using ArgoCD, you will need to copy paste them in.  ArgoCD has a
 paste limit that at the time of writting this is ~200 lines.  
+
+If you are using an AWS CLI interface, you can pull the IDs (step 1) directly into a text file, which you can then load using `File.load(my_ids_file.text).lines.map(&:chomp)` or something similar.
 
 ### 5. Enqueue the jobs using application logic
 
@@ -132,9 +161,50 @@ Or...
 #### Run the jobs one at a time, without Sidekiq
 
 WARNING: This process uses the servers /tmp file directory.  Sidekiq will automagically clean up these temp files 
-after each run.  **However** if you are running the jobs inline (this option) you will need to manually clear out your temp files.
+after each run.  **However** if you are running the jobs inline (this option) you will need to manually clear out your temp files.  Note that if your temp files are being created inside of the service you are running, you may have to monkey patch it in order to ensure that `/tmp` files are cleared out after each itteration.
 
-[TODO]: describe this process
+An example of how you can do this would be
+```
+# Copy pasted from lib/sidekiq/form526_backup_submission_process/processor.rb, but updated to unlink files 
+class NonBreakeredProcessor < Processor
+  def get_form526_pdf
+    headers = submission.auth_headers
+    submission_create_date = submission.created_at.iso8601
+    form_json = JSON.parse(submission.form_json)[FORM_526]
+    form_json[FORM_526]['claimDate'] ||= submission_create_date
+    form_json[FORM_526]['applicationExpirationDate'] = 365.days.from_now.iso8601 if @ignore_expiration
+    resp = get_from_non_breakered_service(headers, form_json.to_json)
+    b64_enc_body = resp.body['pdf']
+    content = Base64.decode64(b64_enc_body)
+    file = write_to_tmp_file(content)
+    docs << {
+      type: FORM_526_DOC_TYPE,
+      file:
+    }
+    # THIS IS THE BIT WE ARE ADDING TO CLEAN UP OUR TEMP FILES!!!
+    file.unlink   
+  end
+end
+
+def get_from_non_breakered_service(headers, form_json)
+  EVSS::DisabilityCompensationForm::NonBreakeredService.new(headers).get_form526(form_json)
+end
+
+class NonBreakeredForm526BackgroundLoader
+  extend ActiveSupport::Concern
+  include Sidekiq::Worker
+  sidekiq_options retry: false
+  def perform(id)
+    NonBreakeredProcessor.new(id, get_upload_location_on_instantiation: false,
+                                  ignore_expiration: true).upload_pdf_submission_to_s3
+  end
+end
+
+# HERE IS WHERE WE RUN THE JOBS ONE AT A TIME
+ids.each do |id|
+    Sidekiq::Form526BackupSubmissionProcess::NonBreakeredForm526BackgroundLoader.new(id).perform
+end
+```
 
 ### 6. Pull a list of filenames from s3
 
