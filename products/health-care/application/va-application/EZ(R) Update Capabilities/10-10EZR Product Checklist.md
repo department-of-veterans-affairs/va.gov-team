@@ -71,7 +71,7 @@
      - [x] Lo-Fi design ideas
      - [x] Presentation and agreement with the team on direction
           - [x] Confirm Frontend and Backend efforts
-     - [ ] Presentation to Stakeholders and downstream system representatives
+     - [ ] Presentation to Stakeholders and downstream system representatives - **9/13/2023**
 - [x] **Submit Collaboration Cycle request ticket**
      - [x] **Review Collaboration Cycle site**
      - [x] **Start gathering artifacts (list above)**
