@@ -142,7 +142,7 @@ A personalized VA mobile app home screen should:
 5. Personalized home screen’s impact on **longevity with the app.**
 6. **Engagement with personalized content** on the home screen.
 
-See [VA Mobile App - Personalized Home Screen - Product Brief])https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) for details
+See [VA Mobile App - Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) for details
 
 
 # Part II
