@@ -9,7 +9,7 @@
 
 ### Planning:
 - **Date range or test duration** Estimated: 9/11 - 9/15
-- **Desired number of users:** TBD
+- **Desired number of users:** TBD (include users with in-progress claims and users without)
 - **How you'll recruit the right production test users:** TBD
 - **How you'll conduct the testing:** TBD
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have the new profile launched to production but hidden behind a feature flag. We'll give participants access to this feature by adding their email addresses to a list of users who can see the new profile. 
@@ -47,7 +47,7 @@
 
 **How will you make the product available in production while limiting the number of users who can access it?** 
 
-We will launch the new profile behind a feature flag and and control what % of users see it using Flipper. 
+We will launch the deativation behind a feature flags for burial and pension and and control what % of users see it using Flipper. 
 
 - Launch review pages behind a feature flag. Test with team. (1 day)
 - If things go well, we'll launch to 100% of users with in-progress forms. (1 day)
