@@ -30,36 +30,54 @@ _Once you've presented your research readout to your team, if you have a deck, i
 <br>
 
 ## Research Goals
-The online health care application (10-10EZ) and the update form (10-10EZR which is only paper form today) can both impact a Veteran's eligibility and placement when applying for and managing their health care benefits. This is more so impactful for those placed in a Priority Group who need to have income information considered for copays and travel reimbursement in addition to eligibility. The 10-10EZ is the initial application that then places a Veteran in a Priority Group for enrollment into the full medical benefits package. The 10-10EZR is used to provide personal, financial or insurance information updates after enrollment.
+We wanted to:
 
-The outcome of this generative research study will help in understanding the Veteran's mental model around health care benefits as it pertains to understanding and maintaining those benefits - specifically around awareness of their Priority Group and that impact as well as updating financial information after initial enrollment.
+1. Test the usability of the experimental pattern for adding multiple dependents to the household financial information section.
+2. Determine if the there are any issues for assistive tech users when they add multiple dependents to the application.
+3. Determine if the updated content for the household information section is clear and understandable or if any points of confusion remain.
 
 
 ## Research Questions
-### Question 1
-- Add
-### Question 2
-- Add
-### Question 3
-- Add
+### Goal 1: Test the usability of the experimental pattern for adding multiple dependents to the household financial information section.
+- When arriving at the dependent questions, is there any confusion on who the participant should add here? (Who does the VA consider a dependent?)
+- Are any of the content/questions unclear or cause the participant to pause?
+- Can participants easily move through the pages of dependent questions?
+- Are the questions grouped by topic (one-thing-per-page) as it would make sense to the participant?
+- After adding their first dependent, do participants know how to make changes or remove a dependent from the application?
+- Do participants comment on the progress bar during this process?
+- Are participants able to make adjustments to their dependents from the review page easily or do they struggle?
+- Do participants seem to be confident when making edits on the review page or hesitant?
+### Goal 2: Determine if the there are any issues for assistive tech users when they add multiple dependents to the application.
+- Are there any accessibility issues when navigating through the multiple responses flow? 
+- Is there any confusion with the tab order or how questions are presented?
+- Do users struggle on the dependent 'review' page where it lists the first dependent added and the yes/no question to add additional dependents?
+- Can users easily edit and make changes or is this process a pain point?
+- Do users using screen magnification have any issues with the action button placement on the dependent cards or the confirmation modals?
+- Does the progress bar or other form elements make it more challenging for assistive tech users?
+- Can participants edit from the review page or does this present any challenges?
+### Goal 3: Determine if the updated content for the household information section is clear and understandable or if any areas of confusion remain.
+- Do participants seem to struggle or question any of the content revisions on the onboarding page?
+- Do participants seem frustrated or appreciative of the extra pages with information (onboarding and documents needed)?
+- Do participants interact with the additional info components to learn more? Which ones? Do they feel confident or confused after reading that information?
+- Do participants find any questions difficult to understand or seem to need more information to answer?
 
 ## Methodology 
 We conducted hour-long moderated usability tests on Zoom from August 14-August 21, 2023.
 
 
 ## Hypotheses and Conclusions
-1. Hypothesis
+1. Partipants will easily be able to add multiple dependents and move through the pages of questions.
    1. **TRUE or FALSE**: Reason
-2. Hypothesis
+2. Partipants will appreciate the confirmation when destructive actions - such as remove or cancel - are initiated. (modals)
    1. **TRUE or FALSE**: Reason
-3. We assume not all Veterans go through the enrollment process in one go, there is often stops, such as an exam and other claims filed in between that could impact their enrollment and Priority Group placement.
-   1. **MAYBE TRUE**: Several Veteran participants conflated the disability claim process with the health care enrollment process. Because disability rate is important for some Priority Groups and not for others, it's difficult to come to an 
+3. Partipants will call out the edit flow for dependents as they have to go through all the pages and can't direcly edit, would suggest they would appreciate a more direct route to edit.
+   1. **TRUE or FALSE**: Reason
 4. We assume there is a desire from Veterans for the Priority Group placement to be more clear as it pertains to benefits, copays, costs and travel reimbursement.
-   1. **MAYBE TRUE**: Most Veterans responded positively to the idea of Priority Group info being more conveniently placed and more clear, but some were ambivalent or did not consider Priority Group info important to their own access of health care benefits.
-5. We assume that Veterans would like to update their financial information online if it was available but need a clear way to be communicated to or notified that they have to do so.
-   1. **TRUE**: All 12 participants responded that they would prefer notification (email, push notifications in the app, a letter) to update their financial information if/when they needed to do so.
-6. We think that Veterans will go to the VA profile to update personal information like financial updates annually.
-   1. **TRUE**: 11 out of 12 Veterans navigated to or mentioned the VA Profile when prompted to go to the part of VA.gov where they would expect to update financial information.
+   1. **TRUE or FALSE**: Reason
+5. The onboarding/documents page is well received as being clear and informational leading to a more positive perception about sharing this information.
+   1. **TRUE or FALSE**: Reason
+6. The content helps the participant answer questions confidently and accurately.
+   1. **TRUE or FALSE**: Reason
 
 
 ## Key Findings
