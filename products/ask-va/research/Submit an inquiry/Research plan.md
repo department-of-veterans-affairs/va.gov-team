@@ -76,10 +76,11 @@ We will test:
 2. View dashboard
 3. Sort dashboard
 4. Open an ongoing inquiry
+5. Start a reply
 
 We will not test:
-- Reply to an inquiry
-- View resolved inquiry
+- Actually replying to an inquiry
+- Viewing a resolved inquiry
 
 ### Research materials
 
