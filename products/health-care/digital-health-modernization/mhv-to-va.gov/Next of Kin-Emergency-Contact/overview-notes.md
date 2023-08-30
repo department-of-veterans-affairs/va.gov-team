@@ -1,5 +1,7 @@
 # Overview for moving Emergency contact and Next of kin fields 
 
+[Technical Discovery document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products[…]health-modernization/engineering/ice-nok-technical-discovery.md) by Richard Davis 
+
 ## Purpose
 
 We have been tasked with migrating **Next of Kin** (NOK) and **Emergency Contact** (EC) to VA.gov. This is a central place for notes, documents, and other information gathered (prior to discovery)
