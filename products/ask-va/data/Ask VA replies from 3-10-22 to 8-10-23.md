@@ -21,10 +21,8 @@ The initial data supports our recommendation to continue allowing submitters to 
 ## Risks
 - Submitters who don't log in can submit an inquiry or reply to an inquiry with PII/PHI in the response.
 - Asking submitters to authenticate is an extra step that places additional burden on submitters.
-- Email Attachments: Email replies from the users can contain attachments. The CRM development team has some limits on the types of files that are uploaded to the system. Generally, this is based on the file’s extension.
-  - Recommendation:  Disallow attachments in the forms and dashboard for anonymous users. Add a process to scan all attachments for viruses and malware. Note that this may make the impact of “Email Flooding”, below, greater.
-- Email Flooding: If the attacker realizes that the reply inbox can accept email that didn’t originate as replies to the system, they could flood the inbox with enough messages to make legitimate replies fail delivery.
-  - Recommendation:  We don’t really have a recommendation for this scenario. Unless there’s a setting in Exchange, or the process that monitors the inbox has logic to quickly disregard unknown emails, this is a potential attack vector.
+- Submitters can reply with email attachments, which may contain viruses or malware.
+- Submitters could flood the email inbox with replies. 
 
 ## Open data questions
 - Are the Business or Personal authentication levels for unauthenticated or authenticated submitters or both?
