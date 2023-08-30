@@ -1,5 +1,5 @@
 # Ask VA replies from 3-10-22 to 8-10-23
-Last updated: 8/21/23
+Last updated: 8/30/23
 
 ## Overview
 After a person submits an inquiry through the Ask VA form, they may be able to reply to their inquiry. They can reply as an unauthenticated or authenticated user. Inquiries are linked to VA business line queues in the CRM system. Business lines can enable or disable submitter replies to inquries.
