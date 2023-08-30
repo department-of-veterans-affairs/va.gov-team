@@ -70,13 +70,13 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 #### Planning
   
-|Launch % |Time Frame | Planned Date Range | Ticket | 
-|-------|-----------|-----------|------|
-| Launch to 5% | 1 week | week of 08/7/2023 | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
-| Launch to 10% | 1 week | week of 08/14/2023 |[#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
-| Launch to 25% | 1 week | week of 08/21/2023 |  [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)|
-| Launch to 50% | 1 week | week of 08/28/2023 |[#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
-| Launch to 100% | 1 week | week of 09/04/2023 |[#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
+|Launch % |Time Frame | Planned Date Range | Actual | Ticket | 
+|-------|-----------|-----------|------|------|
+| Launch to 5% | 1 week | week of 08/7/2023 | 08/07/2023 | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
+| Launch to 10% | 1 week | week of 08/14/2023 | 8/14/2023 (rolle back to 5 8/29) | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
+| Launch to 25% | 1 week | week of 08/21/2023 |  | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)|
+| Launch to 50% | 1 week | week of 08/28/2023 |  | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
+| Launch to 100% | 1 week | week of 09/04/2023 | | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
 
 ### Metrics
   
