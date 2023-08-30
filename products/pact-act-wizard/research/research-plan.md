@@ -5,7 +5,7 @@ The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard)
 
-[Link to card in research repo]()
+[Link to card in research repo TBD]()
 
 ### OCTO Objectives 
 
@@ -68,7 +68,7 @@ Learnings will help refine individual questions and the overall list of them in 
 1. From the results screen, Veterans (and others) will know what they should do next. 
 
 ## Method	
-We will conduct **usability testing** to guide research participants through a working prototype that presents the questions in the PACT Act wizard. 
+We will conduct **usability testing** to guide research participants through a working prototype that presents the questions and results screens in the PACT Act wizard. 
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
