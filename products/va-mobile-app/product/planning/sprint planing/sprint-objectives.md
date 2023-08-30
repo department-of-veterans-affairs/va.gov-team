@@ -35,4 +35,6 @@ Sprint 75 - Planning Deck - [Mobile Team Sprint Planning - Sprint 75.pdf](https:
 Sprint 76 - Planning Deck - [Mobile Team Sprint Planning - Sprint 76.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12479369/Mobile.Team.Sprint.Planning.-.Sprint.76.pdf)
 Sprint 77 - Planning Deck - [Mobile Team Sprint Planning - Sprint 77.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12479374/Mobile.Team.Sprint.Planning.-.Sprint.77.pdf)
 Sprint 78 - Planning Deck - [Mobile Team Sprint Planning - Sprint 78.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12479377/Mobile.Team.Sprint.Planning.-.Sprint.78.pdf)
+  Recording: https://adhocteam-us.zoom.us/rec/share/2lEnkS7NnFUWJULg4GdVe5n8eACiLoSsNwHQcad0ZOFvHDU3UYaSZb8G-YRRSrXu.qVAB5K75M0xEST-3
+  
 Sprint 79 - Planning Deck - [Mobile Team Sprint Planning - Sprint 79.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12479382/Mobile.Team.Sprint.Planning.-.Sprint.79.pdf)
