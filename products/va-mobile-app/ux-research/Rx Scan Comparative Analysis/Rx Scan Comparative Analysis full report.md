@@ -1,16 +1,10 @@
 # **Prescriptions Scan/Search comparative analysis**
-
-
 #### VA Health & Benefits Mobile App | July 2023
 
 
 ## **Summary**
 
-Although Scan-to-Refill is common in other popular pharmacy mobile apps it’s not clear that Scan will reduce or expedite the prescription workflows in the flagship app–given the app is authenticated. 
-
-Scan provides potential accessibility improvements, especially if we refine the capabilities that appear in VA’s Rx Refill app. For example, we can address the needs for users who manage their prescriptions day-to-day while relying on Assistive Technology (AT).  In this scenario, scanning a prescription could leverage mobile device functionality to relay information via VoiceOver(iOS) or TalkBack (Android). In addition to reading prescription details, it could also offer contextual actions specific to the medication.
-
-Access to analytics for Scan usage in the RxR app will help us assess the value of scan-to-refill. This way, we can establish a baseline to make a more confident recommendation. 
+Although Scan-to-Refill is common in other popular pharmacy mobile apps it’s not clear that Scan will reduce or expedite the prescription workflows in the flagship app–given the app is authenticated and only provides mail order prescriptions. 
 
 
 ## **Background and assumptions**
