@@ -39,11 +39,11 @@
 
 1.    
 
-## Phase II: Staged Rollout
+## Phase II: Rollout
 
 ### The Plan
 
-**Desired date range:** 9/13/23 - 9/15/23
+**Desired date range:** 9/15/23
 
 **How will you make the product available in production while limiting the number of users who can access it?** 
 
