@@ -60,6 +60,7 @@ Relevant 10-10EZR Form Fields:
 - intake/onboarding/reviews
 - Mike Richard states vets-api is already provisioned for VA Profile Health API, so this step may not be necessary.
 
-**Q:** Does MHV-on-VA.gov and/or Authenticated Experience teams need to onboard for VA Profile?
+- **Q:** `vets-api` is already integrated with VA Profile. Does MHV-on-VA.gov and/or Authenticated Experience teams need to onboard for VA Profile?
+  * **A:** It is necessary for teams to onboard when utilizing API endpoints that are not currently being accessed by `vets-api`.
 
 See [vets-api/lib/va_profile](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/va_profile/service.rb) for code interacting with VA Profile.
