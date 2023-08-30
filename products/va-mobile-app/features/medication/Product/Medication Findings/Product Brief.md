@@ -21,4 +21,4 @@ Out of Scope
 
 - Direct user research
 
-Research Findings: 
+Research Findings: [Comparative Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/medication/Research)
