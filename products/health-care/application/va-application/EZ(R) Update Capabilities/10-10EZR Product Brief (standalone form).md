@@ -196,6 +196,7 @@ TBD
  - DEPO Lead: Patrick Bateman
  - PM: Alex Seelig
  - Engineering: Matt Long (FE), Lihan Li (BE)
+ - QA: Fletcher Bonds
  - Research/Design: Hieu Vo
  
 </details>
