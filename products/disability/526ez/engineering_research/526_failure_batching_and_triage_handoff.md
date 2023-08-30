@@ -205,6 +205,7 @@ ids.each do |id|
     Sidekiq::Form526BackupSubmissionProcess::NonBreakeredForm526BackgroundLoader.new(id).perform
 end
 ```
+TODO: this is wrong, update with this https://dsva.slack.com/archives/D05BX4U55EG/p1692908750265409
 
 ### 6. Pull a list of filenames from s3
 
@@ -220,6 +221,11 @@ it matches with step 6
 
 ```
 aws s3 ls $bucket > my_local_file.txt
+```
+
+Or, to get just the ids, you can use
+```
+aws s3 ls s3://dsva-vagov-prod-claims-and-appeals/ | awk '{print $NF}' | sort -n  | sed 's/.zip//g' > load3/in_s3.txt
 ```
 
 If you do not have the appropriate AWS access credentials, [follow the steps here to get it](https://depo-platform-documentation.scrollhelp.site/developer-docs/aws-shell-access)
