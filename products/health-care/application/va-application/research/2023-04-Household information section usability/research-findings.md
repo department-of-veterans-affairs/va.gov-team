@@ -25,7 +25,6 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 [Who we talked to](#who-we-talked-to)
 
-[Further research needed](#further-research-needed)
 
 <br>
 
