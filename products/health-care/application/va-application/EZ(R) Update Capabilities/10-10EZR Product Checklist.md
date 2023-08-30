@@ -25,8 +25,10 @@
 - [10-10EZR Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/10-10EZR%20Product%20Brief%20(standalone%20form).md)
 - [Sketch Wireframes](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/D391CBC5-D341-4B4B-B1D8-566325DDF8A4/canvas)
 - [User flows](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/v/Mrk8ab/p/A0C657F6-3318-45A0-93CB-246BA8722E37/canvas?posX=-3289.158203125&posY=-10403.73046875&zoom=0.25)
-- Research plan 
-- Conversation guide
+- [Initial Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-plan.md) 
+- [Initial Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/conversation-guide.md)
+- Secondary Usability Research Plan
+- Secondary Usability Conversation Guide
 - [North Star and KPIs for the product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities#measuring-success)
 - Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
