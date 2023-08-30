@@ -28,7 +28,8 @@ Out of Scope
 Research Findings: [Comparative Research Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/medication/Research)
 
 
-Demo Slides: 
+Demo Slides: [Mobile Team Sprint Planning - Sprint 79.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12479958/Mobile.Team.Sprint.Planning.-.Sprint.79.pdf)
+
 
 
 **After Demo Feedback:**
