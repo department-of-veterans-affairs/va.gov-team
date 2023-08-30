@@ -7,6 +7,19 @@ Timing: Every second Wednesday 2:35 - 3:15pm
 **Demo Sprint 76 8/2/23** 
 Agenda
 - Demo Topic(s)
+  -  Deep Linking (Stacy and Theo)
+  -  Medication Findings/Comparative Analysis (Meko and Lauren)
+
+
+- Slides - [Sprint 78 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12479301/Sprint.78.-.VA.Mobile.App.Demo.Slides.pdf)
+
+- Video - https://github.com/department-of-veterans-affairs/va.gov-team/assets/93945676/1920e5fe-24f9-4d02-a327-8f81900e42f1
+
+
+---  
+**Demo Sprint 76 8/2/23** 
+Agenda
+- Demo Topic(s)
   -  EVSS (Tom G)
 
 - Slides - [Sprint 76 - VA Mobile App Demo.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12243277/Sprint.76.-.VA.Mobile.App.Demo.pdf
