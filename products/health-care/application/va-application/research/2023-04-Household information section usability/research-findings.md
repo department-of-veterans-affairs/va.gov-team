@@ -1,4 +1,4 @@
-# [2023-04-Household information section usability] Research Findings 
+# [2023-04-Household Information Section Usability] Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ, 1010 Team**
 
