@@ -233,7 +233,7 @@ Sessions will occur on the following dates:
 -   Tuesday, 9/5 9am-6pm
 -   Wednesday, 9/6, 9am-6pm
 -   Thursday, 9/7, 9am-6pm
--   Friday, 9/8, 9am-6pm
+-   Friday, 9/8, 1:30pm-6pm
 -   Monday, 9/11, 9am-6pm
 -   Tuesday, 9/12, 9am-6pm
 -   Wednesday, 9/13, 9am-6pm
