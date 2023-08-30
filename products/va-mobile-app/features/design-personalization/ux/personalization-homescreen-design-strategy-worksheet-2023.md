@@ -24,7 +24,7 @@ The personalized VA mobile app home screen helps users to keep up with and manag
 **3. What user problems will the personalized VA mobile app home screen solve?**
 
   * Veterans download the VA mobile app because they are looking for a better/easier way to manage their interactions with VA, but they don’t have a way in the app to get a **quick overview of what VA is doing for them now or that something is needed from them** in order to keep things moving.<sub>1a,1b</sub>
-  * Veteran **expectations and understanding** of what they think they can do in the VA mobile app are** limited and often inaccurate **(they want something to help them, and to know if the app is that thing).<sub>2</sub>
+  * Veteran **expectations and understanding** of what they think they can do in the VA mobile app are **limited and often inaccurate** (they want something to help them, and to know if the app is that thing).<sub>2</sub>
 
 **Supporting research (problems):**
 
