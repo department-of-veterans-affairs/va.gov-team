@@ -19,7 +19,7 @@ Period - 08/30/2023 - 9/12/2023
 - **Features**
    - 526ez current with paper form
       - [ ] Toxic Exposure screens - Research Synthesis and Report
-      - [ ] Toxic Exposure screens - Toggle and Intro pages- Frontend engineering
+      - [ ] Toxic Exposure screens - Feature toggle and Intro pages- Frontend engineering
       - [ ] Toxic Exposure screens - Page migration - Frontend engineering
 
 - **Analytics**
