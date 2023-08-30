@@ -17,12 +17,10 @@ While shifting to multiple sections with vertical navigation solved the problems
 - **People are using search to find things that are already in Profile.** Our review of search analytics suggests that the navigation isn't offering enough contextual clues to users, or simply isn't being noticed. (See [Domo metrics](https://va-gov.domo.com/page/1834995012/kpis/details/203579416?userId=1539186973))
 - **Collapsed Profile menu on mobile may lead people to think Personal information is all there is in Profile**. We have observed in usability testing that people often don't realize the Profile menu is collapsed, and they think the `Personal information` section is the only section of the Profile.  We think this might be one reason why we see people searching with keywords for content in sections that are already part of the Profile.
 - **The current page structure breaks accessibility best practices, which makes it likely for people using screen readers to miss the Profile menu as well.** Sending people directly into `Personal information` from any Profile link causes an accessibility issue known as the [“hubless spoke”](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41697) problem. 
-	- Because the Profile navigation menu appears to people using screen readers before the page’s `H1` – `Personal information` – in the DOM, this makes it difficult for screen readers to interpret and read the page structure correctly. 
-	- Unless a person knows to navigate 'upwards' in the page structure after they’ve opened the page, they may never realize that there even is a navigation menu that lives above the `H1`. 
-	- This increases the likelihood that the navigation could be skipped altogether if people navigate by heading, which is a common form of navigation style. (See [Profile Hub epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593))
+	- Because the Profile navigation menu appears to people using screen readers before the page’s `H1` – `Personal information` – in the DOM, this makes it difficult for screen readers to interpret and read the page structure correctly. Unless a person knows to navigate 'upwards' in the page structure after they’ve opened the page, they may never realize that there even is a navigation menu that lives above the `H1`, which increases the likelihood that the navigation could be skipped altogether if people navigate by heading, which is a common form of navigation style. (see [Profile Hub epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593))
+	- **Note that creating a true landing page for Profile will not entirely solve this accessibility issue**. Once a screen reader user navigates to any of the sections within the hub, they will run in to the same situation with the `H2` appearing before the `H1`. Our hypothesis (described below) is that starting people on the hub page will give them enough context to understand that other sections live alongside whichever section a screen reader user navigates to.
 
-
-→ [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md#measuring-success).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md#measuring-success).
 
 ### OCTO Priorities 
 
@@ -41,6 +39,8 @@ Goals:
 ### Veteran Journey
 
 This research involves navigating personal information on VA.gov, and applies to any life stage in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from `Starting Up` through `Aging`.
+
+---
 
 ## Research Goals	
 
@@ -79,6 +79,8 @@ We assume that:
 - AT participants in particular will find the hub’s structure clear, and are able to understand the contents within the Profile.
 - Participants using a mobile device will not find it inconvenient to scroll in order to see the hub’s overviews of each section.
 
+---
+
 ## Methodology	
 
 Usability study with a coded prototype, on production behind a feature flag.
@@ -93,6 +95,7 @@ Usability study with a coded prototype, on production behind a feature flag.
 - [Link to conversation guide](url goes here) [TO BE ADDED]
 - [Link to prototype](url goes here) [TO BE ADDED]
 
+---
 
 ## Recruitment	
 
@@ -112,10 +115,10 @@ We’d like to recruit 20 participants for a total of 16 completed sessions:
 #### Primary criteria (must-haves)
 
 Inclusive representation:
-- People who use screen readers
-- People who use magnification
-- People who are 55+
-- People with cognitive considerations
+- 2 people who use screen readers
+- 3 people who use magnification
+- 3 people who are 55+
+- 4 people with identify as having a cognitive consideration
 
 Additionally, all participants:
 - Must be veterans
@@ -125,13 +128,12 @@ Additionally, all participants:
 - Must have Zoom downloaded to their computer or mobile phone prior to the session and know how to share their screen
 - Must have signed into VA.gov in the last 6 months, for any reason
 
-### Screener Questions
+#### Screener Questions
 
 [Each cohort will have their own recruitment request ticket]
 
-### Cohort 1️⃣ – Sighted desktop users who are NOT screen reader users
-
-**Recruitment request** ticket XXXX (recruit 5, complete 4)
+##### Cohort 1 – Sighted desktop users who are NOT screen reader users
+Recruitment request ticket XXXX (recruit 5, complete 4)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
@@ -140,11 +142,10 @@ Do you need to use screen reader technology to use the internet, such as VoiceOv
 > _Response options: yes or no (Answering `no` would qualify the participant.)_
 
 Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
-> _Response option: text box_
+> _Response option: text box (any response to that question satisfies that particular criteria)_
 
-### Cohort 2️⃣ – Mobile users who are NOT screen reader users
-
-**Recruitment request** ticket XXXX (recruit 5, complete 4)
+##### Cohort 2 – Mobile users who are NOT screen reader users
+Recruitment request ticket XXXX (recruit 5, complete 4)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
@@ -162,11 +163,10 @@ Do you need to use screen reader technology to use the internet, such as VoiceOv
 > _Response options: yes or no (Answering `no` would qualify the participant.)_
 
 Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
-> _Response option: text box_
+> _Response option: text box (we need a minimum of 3 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
-### Cohort 3️⃣ – Screen reader desktop users
-
-**Recruitment request** ticket XXXX (recruit 5, complete 4)
+##### Cohort 3 – Screen reader desktop users 
+Recruitment request ticket XXXX (recruit 5, complete 4)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
@@ -187,11 +187,10 @@ Please list the type of device you will use during the session.
 > _Response option: text box_
 
 Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
-> _Response option: text box_
+> _Response option: text box (we need a minimum of 3 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
-### Cohort 4️⃣ –  Magnification users (desktop OR mobile)
-
-**Recruitment request** ticket XXXX (recruit 5, complete 4)
+##### Cohort 4 –  Magnification users (desktop OR mobile)
+Recruitment request ticket XXXX (recruit 5, complete 4)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
@@ -203,16 +202,19 @@ What device will you use to join the session? Mobile, computer, or tablet? Mac o
 > _Response option: text box_
 
 Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
-> _Response option: text box_
+> _Response option: text box (we need a minimum of 3 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
 ---
+
 ## Timeline
+
 *Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.* 
+
+We would like to **request a kick-off meeting with Perigean** to go over the recruitment criteria and screener questions.
 
 ### Prepare
 
-- Prototype date finalized: TBD
-
+- Prototype date finalized on: TBD
 * Pilot participant email: TBD
 * Date and time of pilot session: TBD
 
@@ -221,14 +223,18 @@ Do you find it difficult to remember or learn new things, focus on a task, or ma
 
 ### Length of sessions
 
-- Cohort 1 and 2: sighted participants
+- Cohort 1 and 2: sighted participants (desktop or mobile)
     - Session length: **60-minute** sessions
     - Session buffer: **60-minute breaks** in between
-    - Max sessions per day: 4
-- Cohort 3 and 4: screen reader and magnification participants
+    - Max sessions per day: 3
+- Cohort 3: screen reader participants (desktop)
     - Session length: **90-minute** sessions
     - Session buffer: **60-minute breaks** in between
     - Max sessions per day: 2
+- Cohort 4: magnification participants (desktop or mobile)
+    - Session length: **60-minute** sessions
+    - Session buffer: **60-minute breaks** in between
+    - Max sessions per day: 3
 
 ### Availability
 
