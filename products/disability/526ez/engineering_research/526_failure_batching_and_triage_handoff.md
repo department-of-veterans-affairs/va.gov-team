@@ -82,14 +82,14 @@ There are two options for doing this, with the former being the "right" way, and
 #### ArgoCD - the right way
 
 This is the more universally available way to do this. To login to an ArgoCD terminal
-   a. request access by following the [steps here](https://depo-platform-documentation.scrollhelp.site/developer-docs/vets-api-on-eks#VetsAPIonEKS-Access)
-   b. [go to the web interface and use the available shell](https://argocd.vfs.va.gov/applications/vets-api-prod)
+   - request access by following the [steps here](https://depo-platform-documentation.scrollhelp.site/developer-docs/vets-api-on-eks#VetsAPIonEKS-Access)
+   - [go to the web interface and use the available shell](https://argocd.vfs.va.gov/applications/vets-api-prod)
    
 #### AWS CLI - god mode
 This option requries access to an intermediary server that run your rails console.  This option is deprecated but noted here for posterity, as it is the method primarily used up till now.  The intermediary server that runs the Bash / Rails terminals in this option are hosted on an old EC2 instance that predates our Kubernetees deployment.  These old servers can only be deployed by VA dev ops folk and are not intended to be accessed by us. However, under the righ circumstances we may be given access, as in this case.
 
-   a. request AWS production access via [these steps]
-   b. [Follow these steps to tunnel into a production server](https://depo-platform-documentation.scrollhelp.site/developer-docs/aws-shell-access#AWSShellAccess-CLIUsage) or use the below TL;DR steps
+   - request AWS production access via [these steps]
+   - [Follow these steps to tunnel into a production server](https://depo-platform-documentation.scrollhelp.site/developer-docs/aws-shell-access#AWSShellAccess-CLIUsage) or use the below TL;DR steps
 
 [TODO] - proof this:
 **TL;DR**
