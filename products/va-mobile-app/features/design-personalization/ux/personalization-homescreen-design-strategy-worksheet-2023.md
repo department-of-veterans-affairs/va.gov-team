@@ -35,7 +35,7 @@ The personalized VA mobile app home screen helps users to keep up with and manag
 
 **4. When and how is the personalized VA mobile app home screen used?**
 
-* When a Veteran has tasks and interactions in flight, the VA mobile app home screen can be used to **check to make sure things are on track** and to** stay informed when VA needs something from them **in order to keep things moving.
+* When a Veteran has tasks and interactions in flight, the VA mobile app home screen can be used to **check to make sure things are on track** and to **stay informed when VA needs something from them** in order to keep things moving.
 * When **users are new to the app**, it’s used to **help them understand the potential current and future value of the app** to that person. 
 
 **5. What benefits and features are important to a personalized VA mobile app home screen?**
