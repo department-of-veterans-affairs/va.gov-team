@@ -32,6 +32,7 @@
      - TBD
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZR-Update-health-care-benefits.md)
 - Finalized design, prototype or mockup
+- [CAIA Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64095)
 - Content brief
 - Regression test plans
 - TestRail 
@@ -72,9 +73,9 @@
      - [x] **Review Collaboration Cycle site**
      - [x] **Start gathering artifacts (list above)**
      - [x] **Maintain this checklist of artifacts, updating as they are shared**
-- [ ] **Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket**
+- [ ] **Schedule Design Intent review - 9/18/23 at 3:30p ET**
      - [ ] Present design and obtain feedback
-- [ ] **Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] **Request CAIA (Content, Accessibility & IA) review - Kickoff 9/12/23 at 4p ET**
 - [ ] Finalize design with feedback
      - [ ] Present to team, stakeholders and any other interested parties
 - [ ] Create prototype or basic working functionality in environments
