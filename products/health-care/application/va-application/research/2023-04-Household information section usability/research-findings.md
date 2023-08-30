@@ -71,11 +71,9 @@ We conducted hour-long moderated usability tests on Zoom from August 14-August 2
    1. **TRUE or FALSE**: Reason
 3. Partipants will call out the edit flow for dependents as they have to go through all the pages and can't direcly edit, would suggest they would appreciate a more direct route to edit.
    1. **TRUE or FALSE**: Reason
-4. We assume there is a desire from Veterans for the Priority Group placement to be more clear as it pertains to benefits, copays, costs and travel reimbursement.
+4. The onboarding/documents page is well received as being clear and informational leading to a more positive perception about sharing this information.
    1. **TRUE or FALSE**: Reason
-5. The onboarding/documents page is well received as being clear and informational leading to a more positive perception about sharing this information.
-   1. **TRUE or FALSE**: Reason
-6. The content helps the participant answer questions confidently and accurately.
+5. The content helps the participant answer questions confidently and accurately.
    1. **TRUE or FALSE**: Reason
 
 
