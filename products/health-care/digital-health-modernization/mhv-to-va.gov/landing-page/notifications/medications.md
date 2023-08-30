@@ -19,6 +19,12 @@
 
 <img width="910" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/9650f051-d6d4-4017-9d02-9f076e5bac69">
 
+
+* See medications homepage mock-up and how medications that have been shipped show up (below). The mockup shows that prescriptions that have been shipped have a small icon of a truck, but there is no other way that these prescriptions are visually or semantically elevated on the page:
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/0f017d83-aab7-4bea-b652-1d2dfbd088ea)
+
+
 ## Prescription statuses
 * Status changes could potentially be a trigger for notifications
 * [Glossary of statuses here](https://www.myhealth.va.gov/pharmacy-glossary-of-terms)
