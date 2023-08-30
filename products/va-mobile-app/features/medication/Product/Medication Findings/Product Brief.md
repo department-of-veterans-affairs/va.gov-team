@@ -1,3 +1,7 @@
+## Epic
+
+[6041](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/6041)
+
 ## Purpose:
 Determine the best way for Veterans to find their prescriptions.
 
@@ -21,4 +25,25 @@ Out of Scope
 
 - Direct user research
 
-Research Findings: [Comparative Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/medication/Research)
+Research Findings: [Comparative Research Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/medication/Research)
+
+
+Demo Slides: 
+
+
+**After Demo Feedback:**
+
+Ryan:
+- using a scanner to refill
+- using a scanner to enter non-VA meds
+- using a scanner to enable script talk
+dr spahn's list of things scanning is good for
+
+**Rachel:** 
+
+1. - my thoughts, which is really about matching a problem statement and solution.
+using scanning to solve the problem of refill in authenticated state: not the best solution. we have research of commercial and mail order apps to show scanning works in unauth state for refills and to drive up store revenue/users to get products in person. we have quant data from RxR to support this conclusion. usage of scanning in RxR, auth state is 5%
+2. - scanning for patients to enter non-VA meds: this is not a problem the app solves, as patients don't self-enter data
+3. - using scanning to address low/blind users needs: a match in problem statement (veterans need and VA need) and solution that we will consider for future roadmap input. problem: veterans with low/blind vision need refills, med list, how to take meds, and VA needs an alternative option to script talk machines.
+
+  right now, we are prioritizing aligning web/mobile on prescriptions. later, dive deeper into #3
