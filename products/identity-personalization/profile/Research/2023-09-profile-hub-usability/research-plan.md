@@ -40,8 +40,6 @@ Goals:
 
 This research involves navigating personal information on VA.gov, and applies to any life stage in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from `Starting Up` through `Aging`.
 
----
-
 ## Research Goals	
 
 Our goals are to:
@@ -79,8 +77,6 @@ We assume that:
 - AT participants in particular will find the hub’s structure clear, and are able to understand the contents within the Profile.
 - Participants using a mobile device will not find it inconvenient to scroll in order to see the hub’s overviews of each section.
 
----
-
 ## Methodology	
 
 Usability study with a coded prototype, on production behind a feature flag.
@@ -94,8 +90,6 @@ Usability study with a coded prototype, on production behind a feature flag.
 
 - [Link to conversation guide](url goes here) [TO BE ADDED]
 - [Link to prototype](url goes here) [TO BE ADDED]
-
----
 
 ## Recruitment	
 
@@ -204,8 +198,6 @@ What device will you use to join the session? Mobile, computer, or tablet? Mac o
 Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
 > _Response option: text box (we need a minimum of 3 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
----
-
 ## Timeline
 
 *Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.* 
@@ -245,7 +237,7 @@ TBD
 - Moderator: Pam Drouin
 - Research guide writing and task development: Pam Drouin
 - Participant recruiting & screening:	Perigean
-- Project point of contact: Pam Drouin
+- Project point of contact: Pam Drouin (pamela.drouin@a1msolutions.com)
 - Participant(s) for pilot test: TBD
 - Accessibility specialist: TBD
 - Note-takers:	TBD
