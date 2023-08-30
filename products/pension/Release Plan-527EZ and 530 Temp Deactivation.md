@@ -9,10 +9,9 @@
 
 ### Planning:
 - **Date range or test duration** Estimated: 9/11 - 9/15
-- **Desired number of users:** 5 users
-- **How you'll recruit the right production test users:** We will recruit users via Perigean. 
-  - (We need to make sure that we have the email the user uses to log into Va.gov ahead of time)
-- **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
+- **Desired number of users:** TBD
+- **How you'll recruit the right production test users:** TBD
+- **How you'll conduct the testing:** TBD
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have the new profile launched to production but hidden behind a feature flag. We'll give participants access to this feature by adding their email addresses to a list of users who can see the new profile. 
   - (We need to make sure to include users who have in-progress pension or burial forms)
 
