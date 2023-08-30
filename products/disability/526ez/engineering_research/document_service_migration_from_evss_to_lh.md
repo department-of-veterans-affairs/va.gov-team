@@ -73,9 +73,16 @@ This takes care of a large part of implementing our switching logic
     - Put in place calls to new services in flippers
         - DONE
     - Resolve the Inheritance problem
+        - Probably will require a copying the inheritance chain of objects with the new lighthouse object chain and putting them on a flipper.  Could be more complicated
     - Verify that  `evss_claim_id` on the `EVSSClaimDocument` model is logicially equivalent to `file_number` on the `LighhouseDocument` model.  ATM the code has a 1 to 1 swap out, and if they are used in the same way it would be great to keep it this way.  However this needs to be validated.
     - Review and resolve all comments marked with a `[wipn8923]`.  These park points of interest and potential questions or action items discovered while performing a naive first pass of the code.
     - Probably update specs that specifically reference EVSS classes, e.g.  `spec/requests/documents_spec.rb`
+    - Migrate specs from existing EVSS objects to new LH objects
+        - LighthouseDocumentUploaderBase (spec/uploaders/evss_claim_document_uploader_base_spec.rb)
+        - LighthouseDocumentUploader (spec/uploaders/evss_claim_document_uploader_spec.rb)
+        - LighthouseDocument (no existing specs to copy?)
+        - Lighthouse::DocumentUpload (spec/jobs/evss/document_upload_spec.rb)
+    - Copy the `wrap_with_logging` calls from evss to lighthouse
     
 - test locally : TODO
     - Get a lighthouse API key
