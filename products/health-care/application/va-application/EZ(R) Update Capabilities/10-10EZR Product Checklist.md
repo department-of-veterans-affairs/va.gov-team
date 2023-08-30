@@ -6,9 +6,10 @@
 
 ### Product Team
 - OCTO-DE Product Lead: Patrick Bateman
-- Product Manager: Alex Seelig
-- FE Engineer: 
-- BE Engineer: 
+- Product Manager: Alex Seelig, Heather Justice
+- FE Engineer: Matt Long
+- BE Engineer: Lihan Li, Chapley Watson
+- QA Engineer: Fletcher Bonds
 - Designer: Hieu Vo, David Kennedy
 - Researcher: Hieu Vo
 - Slack channel: #1010-health-apps
