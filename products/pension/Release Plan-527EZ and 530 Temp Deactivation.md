@@ -50,8 +50,11 @@
 
 We will launch the new profile behind a feature flag and and control what % of users see it using Flipper. 
 
-- Launch behind a feature flag. Test with team. (1 day)
+- Launch review pages behind a feature flag. Test with team. (1 day)
 - If things go well, we'll launch to 100% of users with in-progress forms. (1 day)
+- CAIA releases updates to "how to apply" page
+- CAIA deactivates form entry points and implements redirects to "how to apply page"
+- Email notification to users with in-progerss forms is triggered
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:** 
 
