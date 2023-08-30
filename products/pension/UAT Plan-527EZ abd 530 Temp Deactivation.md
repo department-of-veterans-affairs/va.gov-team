@@ -16,9 +16,11 @@ The forms will be temporarily deactivated, and users with in-progress forms will
 ## Pre-Tests
 
 SAFARI, IE, Edge or FF (chrome is not needed?)
-1. Email to users with in-progress forms (link to pdf, link to "how to apply")
-2. User signs in to VA.gov
-3. User opens form review page (burial or pension)
+1. Test email to users with in-progress forms (test link to pdf, test link to "how to apply")
+2. Test an authenticated user viewing the "how to apply page".
+3. Test an unauthenticated user viewing the "how to apply page".
+4. Test an authenticated user with an in-progress form opening form review page (burial or pension)
+5. Test an unauthenticated user with an in-progress form opening form review page (burial or pension)
 
 ----
 
@@ -27,24 +29,22 @@ NOTE: This set up is to be used for UAT completed before features are launched t
 
 Chrome browser instructions below for Step 2 in other browsers [check this how to.](https://balsamiq.com/support/faqs/browserconsole/)
 
-1. Open browser & enter VA.gov
-2. Go to View > Developer > Developer tools 
-3. Go to Application (possibly Storage in other browsers)
-4. Under Storage go to Cookies
-5. Click the va.gov url
-6. Copy "FLIPPER_idname" value and paste in chat window in Zoom to person conducting UAT session
-7. UAT lead uses this value to "turn on" SSOe for UAT paricipant
-8. Close developer toolbar
-9. Refresh page
-10. Begin UAT flow
+1. Outline steps
 
 ## UAT Test Flow
-
+### Authenticated User with in-progress form
 1. User receives email notifying them the form has been deactivated and they need to submit their claim via paper form
 2. User clicks link within email to download pdf
-3. User clicks link within email to learn how to apply for a VA burial allowance
-4. User signs in to VA.gov
-5. User opens form review page (burial or pension)
+3. User clicks link within email to learn "how to apply" for a VA burial allowance and sees updated information
+5. User opens form review page (burial or pension) and sees their in-progress form summary and updated deactivation information
+
+### Authenticated User without in-progress form
+1. User visits "how to apply" page and sees updated information
+2. User visits review page and sees updated information
+
+### Unauthenticated User
+1. Users visits in-progress form and is redirected to "how to apply" page and sees updated information (is this correct?)
+2. Users vists "how to apply" page and sees updated information
 
 REPEAT: With different credentials and browsers.
 
