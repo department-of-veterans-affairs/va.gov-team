@@ -78,6 +78,12 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 ## Future places to use this feature 
 
+### Profile landing page
+- As of August 2023, in Personal information, there’s a link in the “bad mailing address” alert that could kick off the sub-task flow ([mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/JnRG2qz)).  This will likely get moved to the Profile hub once that's launched, since that will be the profile landing apge
+
+### Direct deposit
+- The “we don’t have a mailing address” alert has a link to add an address that could kick off the sub-task flow ([mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/pYAQ1Zo))
+
 ## Backend
 
 
