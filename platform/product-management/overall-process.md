@@ -1,4 +1,3 @@
-----
 # Program Increment Planning
 
 **Who**
