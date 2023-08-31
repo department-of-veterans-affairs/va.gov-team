@@ -2,8 +2,7 @@ name: Create "completed" ticket after Collab Cycle Touchpoint
 
 on:
   issues:
-    types:
-      - labeled
+    types: [labeled]
 
 jobs:
   filter_labeled_issue:
