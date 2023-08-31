@@ -1,7 +1,7 @@
 
 # Feature Overview: Editing as a Sub-Task 
 
-**Last updated: August 31, 2023 -- aupdated location**
+**Last updated:** August 31, 2023 (added future opportunites to use this feature)
 
 ## Table of Contents 
 
