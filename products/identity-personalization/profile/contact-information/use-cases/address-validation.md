@@ -48,7 +48,7 @@ We’re aware of accessibility issues with the current implementation, and [prop
 - [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/QbJeZR7)
   
 ## Analytics
-Our [address validation dashboard](Redirecting…) has metrics related to this use case.
+Our [address validation dashboard](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/) has metrics related to this use case.
 
 ## Codes
 N/a
