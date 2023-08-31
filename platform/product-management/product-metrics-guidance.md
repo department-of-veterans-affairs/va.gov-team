@@ -1,14 +1,3 @@
----- 
-
-
-# We've moved our docs!
-
-### This document is no longer maintained.
-
-### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
-
-
-----
 ## Product Success Metrics Framework
 
 Success metrics tell the story of why vets.gov products are an improvement for Veterans and VA. This is on launch checklist and should be started early during discovery by product leads. It is critical to know the baseline metrics first (what's happening today:) so you can do a valid before and after comparision -- using data.
