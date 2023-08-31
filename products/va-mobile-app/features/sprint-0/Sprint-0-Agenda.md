@@ -70,7 +70,7 @@ The Sprint 0 meeting is a time to do the following:
   * Mobile shouldn't have any work, it will be part of the sign in experience
     * If user accepts they can continue to servicing on the app/web
     * If user declines they will be logged out and messaging displayed what next
-* Call outs for idenitity & Action Items 
+* Call outs & Action Items 
    - Review how content on the page that is displayed when user does not accept TOU.  Ensuring the clarity for the Veteranthat va.gov is inclusive of the app
    - Is there a need to delete authentication and when does it become enforceable.  May want to consider doing staggered deletion objects
    - Share w/identity team any links we show on mobile today regarding TOU (i.e. what info do we show in privacy policy).
