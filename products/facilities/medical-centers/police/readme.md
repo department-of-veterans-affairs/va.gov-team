@@ -123,10 +123,17 @@ TBD
 **Business stakeholders**
 - VHA
 - VA Police operate separately but alongside the VA Law Enforcement Training Center (VA LETC) under the umbrella of the [Office of Security and Law Enforcement](https://www.osp.va.gov/Security_and_Law_Enforcement.asp).
-  - Jeffery Steidler [(Police Chief of the Year, 2020)](https://www.va.gov/wilmington-health-care/news-releases/wilmington-veterans-affairs-medical-center-police-officer-receives-top-national-honor/)
+  - Jose  Gonzalez, Deputy Director, Operations & Administration, 10N (Jose.Gonzalez6@va.gov)
+  - Edward Dubois, Investigator (Edward.Dubois2@va.gov)
+  - Jeffery Steidler Special Agent, VISN Security Officer, VHA (jeffrey.steidler@va.gov)
  
  **Partners**
   - Axon (Software services vendor)
-    - Jared Harlow and Sumegh Sodani - Leadership
-    - Antony White and Matthew Burian - Solution architects
-    - Jeff Murdza - Product 
+    - Key POCS:
+     - Matthew Burian (mburian@axon.com) - Solution architect
+     - Jeff Murdza (jmurdza@axon.com) - Product 
+    - Additional team members
+     - Jared Harlow (jharlow@axon.com) and Sumegh Sodani(ssodani@axon.com) - Leadership
+     - Antony White (awhite@axon.com) - Solution architect
+     - Brian Russell (brussell@axon.com) 
+  
