@@ -62,4 +62,4 @@ describe('<App />', () => {
 });
 ```
 
-If you find yourself scratching your head as to why your unit tests run "just fine" locally, yet fail as part of the larger test suite, ask yourself, "Is my expectation dependent on the execution of asynchronous code, such as fetching data, a promise resolving, or calls to `useState`?" If so, try wrapping your expectation with `waitFor`, push your changes, and let CI tell you if your test flakiness has been resolved.
+If you find yourself scratching your head as to why your unit tests run "just fine" locally, yet fail as part of the larger test suite, ask yourself, "Is my expectation dependent on the execution of asynchronous code, such as fetching data, a promise resolving, or calls to `useEffect`?" If so, try wrapping your expectation with `waitFor`, push your changes, and let CI tell you if your test flakiness has been resolved.
