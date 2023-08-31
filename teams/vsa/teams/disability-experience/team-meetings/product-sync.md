@@ -4,6 +4,7 @@
 ### Participants: Rashinda, Austin
 ### Topics Covered:
 - Reviewed new DOMO funnel results for exit rates
+   - Austin to do a look at the data in different widgest on DOMO to understand what it means and do a write-up with questions and findings
 
   
 ### Date: Aug 24' 2023       
