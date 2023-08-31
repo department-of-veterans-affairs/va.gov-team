@@ -207,7 +207,7 @@ For screen reader users, we will schedule a total of 10 Veterans for an expected
 4. Demographic distribution:
 
   - (0) American Indian or Alaska Native
-  - (0) Asian
+  - (1) Asian
   - (2) Black or African American
   - (2) Hispanic, Latino, or Spanish origin
   - (9) White or Caucasian
@@ -224,22 +224,22 @@ For screen reader users, we will schedule a total of 10 Veterans for an expected
 - During the session, are willing to share their screen
 - Have a working microphone and camera on their device
 
-1. Do you have a My HealtheVet (MHV) account?
+2. Do you have a My HealtheVet (MHV) account?
 
 - Yes
 - No
 
-2. _(If answered "Yes" to Screener question 2)_ Have you used Secure Messaging on My HealtheVet (MHV) within the last 12 months?
+3. _(If answered "Yes" to Screener question 2)_ Have you used Secure Messaging on My HealtheVet (MHV) within the last 12 months?
 
-- Yes _(recruit 6+)_
-- No _(recruit \<6 from "No" on either question 2 or 3)_
+- Yes _(recruit 7+)_
+- No _(recruit \<7 from "No" on either question 2 or 3)_
 
-3. Have you been diagnosed with (formally or informally) a cognitive disability? This may include any intellectual disability, ADHD, Autism spectrum disorders, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
+4. Have you been diagnosed with (formally or informally) a cognitive disability? This may include any intellectual disability, ADHD, Autism spectrum disorders, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
 
 - Yes _(Recruit – proceed to question 5)_
 - No _(Recruit \<6)_
 
-4. Based on your response to the previous question, how would you rate the severity of your cognitive disability? (Recruit all answers)
+5. Based on your response to the previous question, how would you rate the severity of your cognitive disability? (Recruit all answers)
 
 - Mild _(Symptoms has a limited effect on daily life)_
 - Moderate _(Symptoms make daily life much more difficult than usual.)_
