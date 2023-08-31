@@ -82,7 +82,7 @@ Remote via Zoom for the interviews
 
 
 - [Link to conversation guide - cohort 1 - declined enrolment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort1.md) 
-- [Link to conversation guide - cohort 2 - recently enrolled](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-cohort2.md) 
+- [Link to conversation guide - cohort 2 - recently enrolled](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort2.md)
 
 - [Recruitment ticket](url)
 	
@@ -118,7 +118,7 @@ Cohort 1:
 
 
 Cohort 2:
-- Have you applied within the past 5 years and are currently enrolled in and using your health care benefits? [answer should be yes to qualify.]
+- Have you applied within the past 3 years and are currently enrolled in and using your health care benefits? [answer should be yes to qualify.]
 
 
 
@@ -132,9 +132,11 @@ September 13 - September 22, 2023
 * Pilot participant email: 
 * Date and time of pilot session: 
 
+
 ### Research sessions
 * Planned dates of research:
 September 13 - September 22, 2023
+
 
 
 ### Length of sessions
