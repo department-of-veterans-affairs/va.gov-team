@@ -10,6 +10,13 @@
  
 ---
 
+## Important Artifacts 
+[Epic ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49319)
+[QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/QA/qaPlan.md)
+[Release Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/releasePlan/defaultSendReleasePlan.md)
+[UAT ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2023-09-UAT-edit-as-subtask-default-send-checkbox-ui)
+
+
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 
