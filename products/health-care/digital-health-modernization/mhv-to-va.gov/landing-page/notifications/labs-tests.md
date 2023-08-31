@@ -1,4 +1,4 @@
-## Labs and Tests notifications
+## Lab and Test notifications
 
 
 
