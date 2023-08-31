@@ -27,3 +27,4 @@ Cons:
   - More data stored in LoRota.
   - Would need to rely on VEText team to impliment.
   - Potential for added latency on the patient side.
+  - Would have to get prioritized with all the work they already have.
