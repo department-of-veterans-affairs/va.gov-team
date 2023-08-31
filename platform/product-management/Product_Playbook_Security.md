@@ -1,4 +1,3 @@
-----
 # [Product] Playbook
 
 NOTE: 
