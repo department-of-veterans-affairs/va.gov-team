@@ -3,12 +3,6 @@
 ## Lab and Test results
 
 
-
-
-
-
-
-
 ## Medical Images
 * Before moving over to VA.gov, MHV offered a user-maintained setting with radio buttons to either be notified of new medical images or not (but what this notification is and what exactly it looks like is harder to find)
 
