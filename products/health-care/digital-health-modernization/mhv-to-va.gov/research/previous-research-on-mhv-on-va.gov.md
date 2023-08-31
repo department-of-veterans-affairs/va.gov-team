@@ -43,7 +43,7 @@ For a view of the roadmap of current and upcoming research, visit the Research o
 For relevant appointments research, visit the [Appointments Research on VA.gov page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md). 
 
 ## Identity & Sign in related research
-Overview of intersections between Identity and MHV on VA.gov - please see [Identity & MHV on VA.gov Research Brief](link). 
+Overview of intersections between Identity and MHV on VA.gov - please see [Identity & MHV on VA.gov Research Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/research-tools-and-artifacts/MHV-on-VA.gov%2BSign_In_Transition_and_Adoption_Research_Brief.md). 
 - [Proactive CSP Migration Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20research%20findings.md) (2023)
 - [Deferred Identity Proofing Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability) (2023)
 - [Login.gov Adoption Discovery Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2022-10-Login.gov-Adoption-Discovery-Research/login.gov%20adoption%20discovery%20research%20findings.md) (2022)
