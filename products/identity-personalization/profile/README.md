@@ -46,6 +46,7 @@ The [VA.gov profile](https://staging.va.gov/profile) provides a centralized plac
 |[Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)| Allows people to update whether they'd like to receive particular notifications, and in what format| VA Profile| [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)|
 |[Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/README.md)| Allows people to verify their identity and add 2FA | N/A | If there is an identity-related issue, contact [#vsp-identity](https://dsva.slack.com/channels/vsp-identity)|
 |[Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps)| Allows people to disconect third-party apps from their account | Lighthouse | Carey Otto (carey.otto@adhocteam.us)|
+|Editing as a subtask|Allows users to more seamlessly update information 'in place'. Example opening notification settings, seeing an alert that in order to receive notifications a phone number must be on file, following a link to add a number.| | |
 
 ## Is VA Profile the same thing as the VA.gov profile?
 
