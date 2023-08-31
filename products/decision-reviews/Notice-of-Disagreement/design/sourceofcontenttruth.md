@@ -356,7 +356,7 @@ If you have questions or need help filling out this form,  call our MYVA411 mai
 
 If you have hearing loss, call TTY: [711](tel:711).
 
-ERROR: This field cannot be left blank.
+ERROR: You must provide a reason if you are requesting an extension.
 
 ---
 
@@ -795,65 +795,95 @@ Button: [Check the status of your appeal]
 **Note:**  allow some time for your appeal to process through our system. It could take 7 to 10 days for it to show up in our claim status tool.
 
 ---
-## Errors
+## Error
+
+### Error alerts
+
+Not enough PII to proceed with form:
+
+    Header: We’re missing some of your personal information
+    Body: You’ll need to provide us with the missing information before you can fill out a Supplemental Claim request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
+
+Issues are not loading:
+
+    Header: We can't load your issues right now
+    Body: You can come back later, or if you’d like to add your issue manually, you can select "Add a new issue" to get started.  
+
+Account has no issues:
+
+    Header: Sorry, we couldn’t find any eligible issues
+    Body: If you’d like to add an issue for review, select "Add a new issue" to get started.
+
+User did not select an issue:
+
+    Header: You’ll need to add, and select, an issue
+    Body: You must select at least 1 issue before you can continue filling out your request. 
+
+User tries to add 101 issues:
+
+     Header: You've reached the maximum number of allowed selected issues
+     Body: You are limited to 100 selected issues for each Notice of Disagreement request. If you would like to select more than 100,  submit this request and create a new request for the remaining issues.
+
+PDF upload errors:
+
+    Header: We couldn't upload your PDF
+    Body: Your PDF is too large to upload. You'll need to create smaller PDFs that have fewer pages. Or you can use a PDF reader to optimize (reduce the size of) your PDF. Then try again.
+
+User tries to submit with missing/invalid information:
+
+     Header: Some information in your request is missing or not valid.
+     Body: Check each section of your request to make sure you’ve filled out all the information that is required.
+
+### In-line errors
 
 ### Contact info
 
-  ` add an email address to your profile`
-  
-  ` add a phone number to your profile`
-  
-  ` add an address to your profile`
+    missingEmail: You must provide an email address
 
-####  alerts about missing info:
-    success:
-      `The missing information has been added to your application. You may continue.`
-    error (list inside curly brackets will vary):
-      `We still don't have your {email, phone, and address}.  edit and update the field.`
-    warning (shown along with error):
-      `Your {email, phone, and address} {are|is} missing.  edit and update the {fields|field}.`
+    missingPhone: You must provide a home or mobile phone number
 
-### Issue error messages:
+    missingAddress: You must provide an address
 
-  ` add the name of an issue`
-  
-  ` enter a unique condition name`
-  
-  ` enter less than 180 characters for this issue name`
+    missingPrimary: You must choose a primary phone number
 
-  ` provide a valid date`
-  
-  ` enter a decision date`
-  
-  ` enter a year between {min} and {max}`
-  
-  ` add a past decision date`
-  
-  ` add an issue with a decision date less than a year old`
+### Reason for extension
 
-  Alert if no issues are selected:
-  ` select at least one issue`
+    `You must provide a reason if you are requesting an extension.`
 
-  At least one issues is on the page, title:
-    ` select at least one issue, so we can process your request`
+### Contestable issues
 
-  No issues on the page, title:
-    ` add, and select, at least one issue, so we can process your request`
+    contestedIssue: You must select an eligible issue
 
+### Add issue
 
-###  Modal after adding 101 issues:
-    title: You've reached the maximum number of allowed selected issues
-    
-    content: You are limited to 100 selected issues for each Notice of Disagreement request. If you would like to select more than 100,  submit this request and create a new request for the remaining issues.
+    missingIssue: You must add an issue
+
+    uniqueIssue: You must enter an issue you haven't already entered
+
+    maxLength: You can enter a maximum of 140 characters
+
+    invalidDate: You must provide a date that includes a month, day, and year
+
+    missingDecisionDate: You must enter a decision date
+
+    invalidDateRange: (min, max) => You must enter a year between {min} and {max}
+
+    pastDate: You must add a decision date that's in the past
+
+    newerDate: You must add an issue with a decision date that's less than 100 years old
 
 ### Area of disagreement
 
-  ` choose or enter a reason for disagreement`
+  `You must select or enter a reason for disagreement`
 
 ### Board type
 
-  ` choose a Board review option to proceed`
+  `You must select a Board review option to proceed`
 
 ### Conference type
 
-  ` choose a conference type`
+  `You must select a conference type`
+
+### Review
+
+  `You must accept the privacy policy before continuing`
