@@ -76,7 +76,7 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 ## Projects 
 
-### Future alerts to modify 
+### Future places to use this feature 
 
 ## Analytics / Measuring Success
 
