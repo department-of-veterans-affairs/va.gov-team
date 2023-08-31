@@ -12,11 +12,15 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 8/31/2023
+- Updated eCheck-in to add new content to the "Would you like to file a travel reimbursement claim now?" question page to give the Veteran some basic travel reimbursement eligibility information so that they can make a decision about whether to file a claim
+    - [Epic 63928](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63928)
+
 ### 8/28/2023
 - Updated Pre-Check-in and eCheck-in to add content that clarifies what next-of-kin means in a VA context
     - [Ticket 62927](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62927)
 -  Updated eCheck-in to use the same mobile phone number the Veteran used to initiate a check-in to text the Veteran their travel claim submission status; this was done to avoid inconsistent mobile phone number data that may prevent the Veteran from receiving the text
-    -  [Ticket 62436](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)
+    - [Ticket 62436](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)
 
 ### 8/1/2023
 - New feature added to eCheck-in that allows Veterans to submit a mileage-only travel reimbursement claim as part of the online check-in process
