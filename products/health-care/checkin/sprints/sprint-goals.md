@@ -13,6 +13,7 @@ ________________________________________________________________________________
      - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
      - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Add Translated Content**
 - **GOAL: Address tech & design debt**
 
 #### PLANNED RELEASES 
@@ -38,6 +39,9 @@ ________________________________________________________________________________
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64409)      
+- **GOAL: Add Translated Content**
+    - [2023 Q4 Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62844)
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62847)
 - **GOAL: Address tech & design debt**    
     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Update to v1 facilities API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64491)
     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[SPIKE] Can or how can we support creating grouped pre-check-in appts in our stg tool?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64359)
