@@ -1,7 +1,15 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Aug 31' 2023       
+### Participants: Rashinda, Austin
+### Topics Covered:
+- Lighhouse migration
+  - ITF at 5%
+- Design Discovery: Consistent ordering of conditions and disability names  
+
+  
 ### Date: Aug 24' 2023       
-### Participants: 
+### Participants: Jen, Rakshinda, Steve
 ### Topics Covered:
 - New Benefits Portfolio project/workstream dashboard
   - Updated except for Toxic Exposure - do not expect this to be Live before end of October at this point
