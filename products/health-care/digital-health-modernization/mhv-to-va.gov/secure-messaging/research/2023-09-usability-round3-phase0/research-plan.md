@@ -146,25 +146,31 @@ For screen reader users, we will schedule a total of 10 Veterans for an expected
 - During the session, are willing to share their screen
 - Have a working microphone and camera on their device
 
-2. Do you have a My HealtheVet (MHV) account?
+2. Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? 
+
+- Yes (Recruit) 
+
+- No (Unqualified) 
+
+3. Do you have a My HealtheVet (MHV) account?
  
 - Yes _(go on to additional Screener question 3)_
 
  - No
  
-3. _(If answered "Yes" to Screener question 2)_ Have you used Secure Messaging on My HealtheVet (MHV) within the last 12 months?
+4. _(If answered "Yes" to Screener question 2)_ Have you used Secure Messaging on My HealtheVet (MHV) within the last 12 months?
 
 - Yes _(recruit 10+)_
  
 - No _(recruit \<10 from "No" on either question 2 or 3)_
 
-4. Have you been diagnosed with (formally or informally) a cognitive disability? This includes any intellectual disability, ADHD, Autism spectrum disorders, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
+5. Have you been diagnosed with (formally or informally) a cognitive disability? This includes any intellectual disability, ADHD, Autism spectrum disorders, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
 
 - Yes _(Recruit – proceed to question 5)_
 
 - No (Recruit)_
 
-5. _Based on your response to the previous question, how would you rate the severity of your cognitive disability? (Recruit all answers)_
+6. _Based on your response to the previous question, how would you rate the severity of your cognitive disability? (Recruit all answers)_
 - Mild _(Symptoms has a limited effect on daily life)_
 - Moderate _(Symptoms make daily life much more difficult than usual.)_
 - Severe _(Symptoms make their life extremely difficult.)_
