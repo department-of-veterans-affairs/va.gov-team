@@ -130,10 +130,10 @@ TBD
  **Partners**
   - Axon (Software services vendor)
     - Key POCS:
-     - Matthew Burian (mburian@axon.com) - Solution architect
-     - Jeff Murdza (jmurdza@axon.com) - Product 
+       - Matthew Burian (mburian@axon.com) - Solution architect
+       - Jeff Murdza (jmurdza@axon.com) - Product 
     - Additional team members
-     - Jared Harlow (jharlow@axon.com) and Sumegh Sodani(ssodani@axon.com) - Leadership
-     - Antony White (awhite@axon.com) - Solution architect
-     - Brian Russell (brussell@axon.com) 
+       - Jared Harlow (jharlow@axon.com) and Sumegh Sodani(ssodani@axon.com) - Leadership
+       - Antony White (awhite@axon.com) - Solution architect
+       - Brian Russell (brussell@axon.com) 
   
