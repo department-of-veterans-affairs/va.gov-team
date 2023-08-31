@@ -1,7 +1,7 @@
 # Initiative Brief: Editing as a Sub-Task 
 ### Initial Launch with Mobile Phone Update 
 
-**Last updated: August 15, 2023 -- added OKR/KPI info**
+**Last updated: August 31, 2023 -- updated location and added important artifacts**
 
 #### Overview
 
