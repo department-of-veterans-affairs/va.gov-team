@@ -1,6 +1,6 @@
 # Overview for moving Emergency contact and Next of kin fields 
 
-[Technical Discovery document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products[…]health-modernization/engineering/ice-nok-technical-discovery.md) by Richard Davis 
+[Technical Discovery document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/engineering/ice-nok-technical-discovery.md) by Richard Davis
 
 ## Purpose
 
