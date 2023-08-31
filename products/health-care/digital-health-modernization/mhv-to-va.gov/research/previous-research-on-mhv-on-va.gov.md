@@ -1,6 +1,6 @@
 # MHV to VA.gov
 
-Below is a list of research that has been carried out to develop and support the overall concept of MHV on VA.gov to the distinct applications that are/will be housed there. 
+Below is a list of research that has been carried out to develop and support the overall concept of MHV on VA.gov and the distinct applications that are/will be housed there. 
 
 For a view of the roadmap of current and upcoming research, visit the Research on [MHV on VA.gov ZenHub board](https://app.zenhub.com/workspaces/mhv-on-vagov-research-644bfcfc77c2ba00146120d7/board). 
 
@@ -21,6 +21,7 @@ For a view of the roadmap of current and upcoming research, visit the Research o
 - [Landing Page Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research) (March 2023)
 
 ## Secure Messaging research
+- [Secure Messaging Usability Testing Round 3 - Complex Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-09-usability-round3-phase0) (September/ October 2023)
 - [Patient Safety Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-01-patient-safety-notice-usability-testing) (January 2023)
 - [Triage Group Naming Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2022-11-triage-group-naming-discovery) (November 2022)
 - [Secure Messaging Round 2 Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2022-09-usability_testing_2) (November 2022)
@@ -33,12 +34,19 @@ For a view of the roadmap of current and upcoming research, visit the Research o
 - [Medical Records Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews) (September 2022)
 
 ## Medications research
+- [Medications Usability Testing Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-07-medications-usability-testing-round1) (July/ August 2023)
 - [Medication Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/Discovery) (April 2023)
 - [Drug Image Display user testing and research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/mhv-prescription-refill/2023-01-pharmacy-drug-image-display/Research) (January 2023)
 - [Prescription Refill Status usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/mhv-prescription-refill/2022-medication-refill-statuses/Research) (December 2022)
 
 ## Appointments research
 For relevant appointments research, visit the [Appointments Research on VA.gov page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md). 
+
+## Identity & Sign in related research
+Overview of intersections between Identity and MHV on VA.gov [Identity & MHV on VA.gov Research Brief](link). 
+- [Proactive CSP Migration Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20research%20findings.md) (2023)
+- [Deferred Identity Proofing Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability) (2023)
+- [Login.gov Adoption Discovery Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2022-10-Login.gov-Adoption-Discovery-Research/login.gov%20adoption%20discovery%20research%20findings.md) (2022)
 
 ## Preferences and Notifications research
 
