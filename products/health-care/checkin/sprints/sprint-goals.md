@@ -21,7 +21,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: [Comply with ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
     - **Sub Goal: Perform Compliance Tasks**
-       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Placeholder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63608)
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) TBD
 - **GOAL: Make submission of a travel reimbursement claim easier**          
    - **Sub Goal: Evolve travel reimbursement during online check-in**
       - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
@@ -40,6 +40,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64409)      
 - **GOAL: Address tech & design debt**    
     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Update to v1 facilities API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64491)
+    - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[SPIKE] Can or how can we support creating grouped pre-check-in appts in our stg tool?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64359)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [SPIKE: How can we quickly get Veteran feedback for new releases]()
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [Bug] Update Wireframes to remove timezone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54002)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [PRE-CHECKIN] Update canceled appointment behavior & messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51866)
@@ -76,7 +77,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: [Comply with ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
     - **Sub Goal: Perform Compliance Tasks**
-       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Placeholder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63608)
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Evaluate & Plan the Documentation for ATO Compliance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63608)
 - **GOAL: Make submission of a travel reimbursement claim easier**          
    - **EPIC: [Add Cell Phone to LoROTA Entry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)**
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update Vets-API to use the newly stored cell phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62438)
