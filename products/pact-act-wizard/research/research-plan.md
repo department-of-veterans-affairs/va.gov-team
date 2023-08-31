@@ -68,7 +68,7 @@ Learnings will help refine individual questions and the overall list of them in 
 1. From the results screen, Veterans (and others) will know what they should do next. 
 
 ## Method	
-We will conduct **usability testing** to guide research participants through a working prototype that presents the questions and results screens in the PACT Act wizard. 
+We will conduct **usability testing** to guide research participants through a working prototype that presents the questions and results screens in the PACT Act Wizard. 
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
@@ -84,7 +84,7 @@ Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of
 - NONE have ever applied for VA benefits under the PACT Act
 - At least 5 whose service years include *1989 or earlier*
 - At least 3 whose service years include *1990 or later*
-- At last 3 whose service years include both *before AND after* 1990
+- At least 3 whose service years include both *before AND after* 1990
 - At least 3 people who use a screen reader 
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
@@ -113,7 +113,7 @@ We ask this question because we want to make sure that our website works for peo
 
 1. Are you willing to join the Zoom session using this assistive technology? 
      1. No
-     1. Yes *(RECRUIT 3 to satify "screen reader" criterion)*
+     1. Yes *(RECRUIT 3 to satisfy "screen reader" criterion)*
 
 1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
      1. No
