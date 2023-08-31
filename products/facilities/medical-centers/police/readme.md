@@ -15,7 +15,7 @@
 ## Problem Statement
 Legislation passed in 2022 requires VAMC websites to include data about VA police activity.
 Deadline: One year after the enactment (December 2022), the Secretary shall report to Congress on the implementation of all provisions of amendments to 38 USC 902, which includes the publishing of arrest and ticketing data.
-### Legistlative requirements
+### Legislative requirements
 Cleland Dole Act Sec 405 legislation passed in 2022
 
 > (e) (1) The Secretary shall publish on the internet website of each facility of the Department the following information with respect to the facility:
