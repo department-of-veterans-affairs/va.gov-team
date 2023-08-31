@@ -60,7 +60,6 @@ Let’s start with a few warm-up questions.
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
 - Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
-- How was it made clear to you as you were applying, what benefits you would qualify for? 
 - When it comes to registering and health care at the VA, what does that mean to you?
 
 
