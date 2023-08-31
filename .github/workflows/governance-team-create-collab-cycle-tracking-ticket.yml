@@ -12,11 +12,10 @@ jobs:
 
     steps:
       - name: Check if label matches target
-      run: |
-        if [[ ${{ github.event.label.name }} == 'staging-review' ]]; then
-          echo "matching label!"
-        else
-          echo "no matching label"
-          exit 0
-        fi
-
+        run: |
+          if [[ ${{ github.event.label.name }} == 'staging-review' ]]; then
+            echo "matching label!"
+          else
+            echo "no matching label"
+            exit 0
+          fi
