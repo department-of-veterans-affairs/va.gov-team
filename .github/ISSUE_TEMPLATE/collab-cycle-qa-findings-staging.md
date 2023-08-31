@@ -35,7 +35,15 @@ assignees: ''
 - [ ] Standard has been met
 - [ ] Standard has not been met
 ##### Explanation of failure to meet standard (if applicable): #####
-#### Unit Test Coverage 
+#### Unit Test Coverage
+- Lines %:
+
+- Functions %:
+
+- Statements %:
+
+- Branches %:
+
 - [ ] Standard has been met
 - [ ] Standard has not been met
 ##### Explanation of failure to meet standard (if applicable): #####

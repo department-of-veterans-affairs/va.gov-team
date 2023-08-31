@@ -33,9 +33,9 @@ Standups currently do not provide engineers and leadership with enough informati
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- |
-| Walk the board | UX/Content | UX/Content | UX/Content | Fireside chat of completed work |
+| Walk the board |  | UX/Content |  | Fireside chat of completed work |
 |  | Joe | Trevor | Alex |  |
-|  | Tim | Ty | Antonette |  |
+|  | Josh | Dick | Antonette |  |
 |  | Vid | Riley | Ian |  |
 |  | Daniel | John | Afia |  |
-|  | Mike | Matt | Lisa |  |
+|  | Mike | Amber | Lisa |  |

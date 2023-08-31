@@ -1,0 +1,20 @@
+{
+  "you-created-a-travel-claim-already": "Ya presentó una reclamación por gastos de viaje.",
+  "pre-check-in-no-longer-available--info-message": "Lo sentimos. El registro previo a la llegada ya no está disponible para la hora de su cita. Pídale ayuda a un miembro del personal para registrarse.",
+  "with": "con",
+  "appointment": "cita",
+  "when": "Cuándo",
+  "what": "Qué",
+  "where-to-attend": "Dónde ir",
+  "reason-for-visit": "Razón de la visita",
+  "appointment-day": "{{ date, day }}, {{ date, monthDay }} en {{ date, time }}",
+  "back-to-appointments": "Regresar a las citas",
+  "details": "Detalles",
+  "details-for-appointment": "Detalles para la cita {{ type }} a {{ time, time }}",
+  "directions-to-location": "Direcciones para {{ location }}",
+  "directions": "Direcciones",
+  "were-sorry-this-link-has-expired": "Lo sentimos. El enlace ha vencido.",
+  "trying-to-check-in-for-an-appointment--info-message": "¿Está intentando registrarse para una cita? Envíe <0>check in</0> por mensaje de texto al <1></1>",
+  "were-sorry-cant-file-travel-file-later--info-message": "Lo sentimos. No podemos presentar su reclamación por gastos de viaje en este momento. Pero sí puede presentarla dentro de <0>30 días</0> de la cita.",
+  "processing-travel-claim": "<0>Estamos tramitando su solicitud de reclamación de reembolso por gastos de viaje.</0> Le enviaremos un mensaje de texto con el estado de su reclamación de reembolso por viaje."
+}

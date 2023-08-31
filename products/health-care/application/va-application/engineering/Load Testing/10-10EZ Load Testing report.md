@@ -1,20 +1,17 @@
 # 10-10EZ Veteran Health Care application - Load testing report
-
+ 
 
 ## Background
 
-In order to validate that the 10-10EZ form on VA.gov service can handle production loads, load testing was performed on XX/XX/2023 according to the [performance testing plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/Load%20Testing/10-10EZ%20Loan%20Testing%20Plan.md). Tests were performed to:
+In order to validate that the 10-10EZ form on VA.gov service can handle production loads, load testing was performed on 08/28/2023. Tests were performed to:
 
-
-
-* obtain baseline performance
 * test anticipated production loads
 * stress test at 150% of anticipated production loads
 
-For every XXXX applications submitted, a request was made through the development VA.gov reverse proxy to validate performance and that the applications were submitted successfully.
+For every 1 application submitted, a request was made through the staging VA.gov reverse proxy to validate performance and that the applications were submitted successfully.
 
 
-## Issues discovered during preparatory testing
+## Issues discovered during testing
 
 
 ### ANY???
@@ -51,10 +48,7 @@ Single-threaded [Locust](https://locust.io) instance with XXX simulated user run
 
 ### Results
 
-| Endpoint           | # Requests | # Failures | Avg response (ms) | Requests / s |
-| ------------------ | ---------- | ---------- | ----------------- | ------------ |
-| XXXX               | XXXX       |  XXXX      |  XXXX             |  XXXX        |
-| XXXX               | XXXX       | XXXX       | XXXX              |  XXXX        |
+last week there was 4180 successful submissions in production and 4 failures
 
 
 ## Test Run #2: Production Load Test
@@ -67,15 +61,18 @@ Single-threaded [Locust](https://locust.io) instance with XXXX simulated users r
 
 ### Results
 
+ 4114 test requests to the enrollment eligibility endpoint in the staging environment at a rate of 6.86 requests per second. This endpoint connects to both the HCA e&e api and the MPI API. There were no errors. The MPI data in the screenshot is for a fake test user, not real PII.
+
+ so 4184/(7 * 24 * 60 * 60) = 0.0069/s, or 944x normal throughput
+ 
 | Endpoint           | # Requests | # Failures | Avg response (ms) | Requests / s |
 | ------------------ | ---------- | ---------- | ----------------- | ------------ |
 | XXXX               | XXXX       |  XXXX      |  XXXX             |  XXXX        |
 | XXXX               | XXXX       | XXXX       | XXXX              |  XXXX        |
 
-**INSERT IMAGES HERE - EXAMPLES BELOW**
+**INSERT IMAGES HERE
 
-![total_requests_per_second_1644624045](https://user-images.githubusercontent.com/101649/153686676-f40bdd05-4090-47b3-8d80-b1a2d71940be.png)
-![response_times_(ms)_1644624045](https://user-images.githubusercontent.com/101649/153686673-ec82afb9-5f6a-4e9c-a1d2-6a5e15fb8c71.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/922286fe-f94f-4a60-a4c4-564ce1eda51c)
 
 ## Test Run #3: Stress Test
 

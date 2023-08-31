@@ -59,10 +59,10 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 10% | 08/21/2023 |  |
-| Launch to 25% | 08/28/2023 | |
-| Launch to 50% | 09/04/2023 |  |
-| Launch to 100% | 09/11/2023 |  |
+| Launch to 10% | 08/30/2023 |08/30/2023  |
+| Launch to 25% | 09/06/2023 | |
+| Launch to 50% | 09/13/2023 |  |
+| Launch to 100% | 09/20/2023 |  |
 
 ## Launch 
 ### Stage A: 10% of users

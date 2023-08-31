@@ -1,6 +1,6 @@
 # Direct deposit: user has set up direct deposit for one, but not both benefits
 
-**Last update: December 14, 2022**
+**Last update: August 28, 2023**
 
 If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, navigates to the direct deposit page, and has only set up direct deposit for one benefit, they'll see different messages in each payment section of the page.
 
@@ -19,13 +19,14 @@ They will also see a block under each payment section called "VA Payment History
 - Content in education section displays account information, and an `edit button`. [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md).
 - [Content in disability and compensation section prompts user to add account information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-dd-not-setup.md).
 - [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/9P3yvln)
-- [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/PGjgyEQ)
+- Review the user flow on the [Mobile page of the Sketch file]([url](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/p/837E4048-F554-48CA-B877-2C1007AB5D43/canvas)) to see how this state appears on mobile.
 
 ### Has set up education direct deposit, and is not eligible for compensation or pension payments
 - Content in education section displays account information, and an `edit button`. [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md). 
 - [Content in disability and compensation section guides user to learn more about benefit eligibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md).
 - [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/ygD7P9A)
-- [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/2530WVM)
+- Review the user flow on the [Mobile page of the Sketch file]([url](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/p/837E4048-F554-48CA-B877-2C1007AB5D43/canvas)) to see how this state appears on mobile.
+
 
 ## Codes
 N/A

@@ -88,7 +88,7 @@ Other key moments this research touches in the Veteran journey are:
     
 -   **Review page**
     
--   **Submission confirmation page and automatic waiver decision** (only surfaced if they are approved)
+-   **Submission confirmation page and waiver decision language** 
     
 
 ***Goal 1: Evaluate the usability of the Streamlined Waiver experience***
@@ -183,13 +183,11 @@ In the last 10 minutes of the usability study interviews, we will do a small con
 
 3. **Split reception on the condensed intro page versus the full intro page copy. In comparing a lean version with the full version of the intro, preference was equally split.**
 
-
 4. **The cash on hand question was easily understood by all participants.**
 
-5. **Transition page clarity: Most did not understand the purpose of this page, we recommend removing the content related to "next steps"**
+5. **Transition page clarity: Most did not understand the purpose of this page, we recommend removing the content related to "next steps."**
 
-6. **Confirmation page and trust: Immediate waiver decision was welcome and surprising. Some commented that the language was ambiguous**
-
+6. **Confirmation page and trust: Immediate waiver decision was welcome and surprising. Some commented that the language was ambiguous.**
 
 
 
@@ -198,7 +196,7 @@ In the last 10 minutes of the usability study interviews, we will do a small con
 
 Labels: Streamlined waiver, financial status report form (FSR)
 
-1. **This Streamlined Waiver had a more positive reception than the Full FSR.**
+### 1. **Streamlined Waiver had a more positive reception than the Full FSR**
    This is in comparison to our [last study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/research-findings.md) which tested the full FSR path. The streamlined waiver tested in this current study was described as "easy" and "straightforward".
    
 > _"It was easy to navigate...it didn't ask a lot of questions and it was quick." -P5_
@@ -208,7 +206,7 @@ _Participant: "Well, it makes it easier. I mean, I'm not old, I mean, I'm old, b
 
 
 
-2. **Overall Comprehension: most understood the purpose of the form**
+### 2. **Overall Comprehension: Most understood the purpose of the form**
 The majority of participants understood the purpose of the form, with the exception of 2 participants: one who said she had suffered a stroke that affected her memory, and the other who did not understand the form in the beginning, possibly due to cognitive considerations.
 
 >_"I think it's very easy to use, like way easy to navigate, and I don't have any issues filling out the form. But I like the definition of each term, like what you need to fill out." -P8_
@@ -217,10 +215,9 @@ The majority of participants understood the purpose of the form, with the except
 
 
 
-3. **Split reception on the condensed intro page versus the full intro page copy**
+### 3. **Split reception on the condensed intro page versus the full intro page copy**
 In comparing a lean version with the full version of the intro, preference was equally split. Half of the sample of participants preferred the extra information provided on the full introduction explaining each category (example: what are considered assets) to help them prepare, while the other half preferred to see all of the categories grouped together to easily scan visually. 
-The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content when viewing on mobile, and keeping both action links to minimize frustration or drop off.
-In our research to date, (2) emerging archetypes are emerging - users that are very thorough filling out forms and reading every aspect in detail, and users that will skip ahead based on previous familiarity with VA.gov forms and feeling confident with the process. 
+The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content when viewing on mobile, and keeping both action links to minimize frustration or drop off.<br><br>In our research to date, two archetypes are emerging – users that are very thorough filling out forms and reading every aspect in detail, and users that will skip ahead based on previous familiarity with VA.gov forms and feeling confident with the process. 
 
 > _"Other people they may like prefer this version, like they may not like all the extra stuff. But I would prefer the extra information." -P8_
 
@@ -232,7 +229,7 @@ _"The first one [full intro], cause this one, The second one, it doesn't give yo
 <img width="650" alt="intro-split" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/5553542/e61b4a38-87b6-4c11-9b95-ac608782bc8c">
 
 
-4. **The cash on hand question was easily understood by all participants**
+### 4. **The cash on hand question was easily understood by all participants**
 Participants easily understood the "Cash on hand" question. Specifically, the information in parentheses (“cash not in a bank”) is what helped participants understand the meaning of cash on hand.
 
 >_"Now cash on hand. Not in my bank. So that's asking, "What's in my pocket right now? What's on me?". Well just say I got $50. Which is pretty easy. I mean, most people would know how much money they have currently on them." -P6_
@@ -241,7 +238,7 @@ Participants easily understood the "Cash on hand" question. Specifically, the in
 _"The amount of cash I have in my wallet. To me, cash on hand means it's what you have that you can get your hands on." -P1_
 
 
-5. **Transition page clarity: most did not understand the purpose of this page**
+### 5. **Transition page clarity: Most did not understand the purpose of this page**
 This page was added to help orient the user since the progress bar will change. However, it would seem that participants in this study did not notice the progress bar changed. Some focused on the "next steps" portion of the page as opposed to the portion of the page that let them know they were on the expedited path and were skipping steps. Despite not knowing they were skipping steps, those participants had no issues continuing with the form and did not experience any confusion with completing and submitting the form.
 
     Since the transition page was confusing for some participants, we recommend removing the "next steps" portion to minimize confusion.
@@ -249,15 +246,18 @@ This page was added to help orient the user since the progress bar will change. 
 >_"It sounds like it's telling me that based on my responses that I'm gonna be eligible for a waiver to get the bills taken care of. It's telling me right now that I am eligible for a waiver. So now I'm happy. So now I'm gonna submit. I'll continue." -P4_
 
 
-6. **Confirmation page and trust: immediate waiver decision was welcome and surprising**
+### 6. **Confirmation page and trust: Immediate waiver decision was welcome and surprising**
 
    Most participants were positively surprised by the immediate feedback on the decision of their request. 
-For some participants, at first, there was positive reception when seeing the green checkmark and "You're eligible for a waiver". Then, some felt  disappointment when reading the fine print. 
+For some participants, at first, there was positive reception when seeing the green checkmark and "You're eligible for a waiver". Then, some felt disappointment when reading the fine print. 
 Context: This is an active conversation between VA stakeholders and SMEs and the copy is not final yet. 
 Based on what we tested, it's clear that an automatic decision is unfamiliar and surprising, and also would be very positive. 
 While at the same time, some participants can't believe it since they haven't seen it done before. 
 An email and a letter to confirm and prove this would be helpful. 
 One participant expected automatic approval as she compared it to submitting a form for Travel Pay. As we saw in our last study, the term "waiver" was not understood by all participants.
+
+>_"See this is what I’m talking about, this is the ambiguity. I was filling out the form on the assumption I would be approved. This says I’m eligible for a waiver. This is not a reimbursement per se, it is simply a request for a waiver and reimbursement, not that it is automatically approved. That it is being considered. I hate the VA, I'm sorry I do. I spent the last hour… my frame of reference is different because I’ve worked for the government in my professional past and whenever I filled out a reimbursement for travel, in my mind I am going to get that money back. That is the mindset that I am going in with. I am under the assumption that I am going to be reimbursed."  -P2_
+
 
 >_"So they will automatically know you're eligible for a waiver?"_ 
 _Moderator: "How do you feel about that?"_
@@ -266,7 +266,7 @@ _"Well, it seems like they would have to review it. The idea is just a shock, I 
 
 >_"Oh, and it tells you immediately? Does it tell you for real?"_
 _Moderator: "How do you feel about that?"_
-_"That is awesome. That is, that is way awesome. But this is just a prototype, so. But that would be cool. That would be cool because then you'd go right off the bat. Wouldn't have to sit and wait like I did wait a week thinking that everything's gonna be okay and then get your It's form sent back to you in the mail, you're not. Eligible yet because you haven't submitted this form this paperwork. It would let you know immediately. That's nice." -P9_
+_"That is awesome. That is, that is way awesome. But this is just a prototype, so, but that would be cool. That would be cool because then you'd go right off the bat. Wouldn't have to sit and wait like I did wait a week thinking that everything's gonna be okay and then get your form sent back to you in the mail [telling you] you're not eligible yet because you haven't submitted this form this paperwork. It would let you know immediately. That's nice." -P9_
 
 <img width="714" alt="Screenshot 2023-08-16 at 11 13 55 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/123019973/dca45bc2-9138-468c-8c99-f0bf168d7d39">
 

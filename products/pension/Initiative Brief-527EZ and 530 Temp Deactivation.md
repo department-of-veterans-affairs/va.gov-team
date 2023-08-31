@@ -65,6 +65,8 @@
 ### Collaboration Cycle
 
 - [Kickoff Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62889)
+- [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/35cd638de089a34c261752762c8e5928f9a9759a/products/pension/Release%20Plan-527EZ%20and%20530%20Temp%20Deactivation.md)
+- [UAT Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/79d2a7cef66e87523f2433e585f4c55236e3f002/products/pension/UAT%20Plan-527EZ%20abd%20530%20Temp%20Deactivation.md)
 
 ### Timeline 
 - ASAP. This is a high-priority project for OCTO, and work will start as soon as it is approved by the Collab Cycle and CAIA.

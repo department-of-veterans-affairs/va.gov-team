@@ -1,5 +1,5 @@
 # VA Mobile app: Personalized Home Screen Design Strategy Worksheet
-Updated Aug 2023
+August 2023
 
 _This worksheet was created from an amalgamation of sources ([Lean UX](https://www.oreilly.com/library/view/designing-for-product/9781491971451/ch05.html) and [others](http://others)) to help cross-functional teams to align and clearly frame problems and testable product hypotheses. It is ideally completed together by UX, Product Management, and User Research, and should act as the foundation for ideation sessions (it can also be used to gut-check projects that are in-process). It should be used in conjunction with a Product Brief, user stories, etc. Questions? [holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)_
 
@@ -24,7 +24,7 @@ The personalized VA mobile app home screen helps users to keep up with and manag
 **3. What user problems will the personalized VA mobile app home screen solve?**
 
   * Veterans download the VA mobile app because they are looking for a better/easier way to manage their interactions with VA, but they don’t have a way in the app to get a **quick overview of what VA is doing for them now or that something is needed from them** in order to keep things moving.<sub>1a,1b</sub>
-  * Veteran **expectations and understanding** of what they think they can do in the VA mobile app are** limited and often inaccurate **(they want something to help them, and to know if the app is that thing).<sub>2</sub>
+  * Veteran **expectations and understanding** of what they think they can do in the VA mobile app are **limited and often inaccurate** (they want something to help them, and to know if the app is that thing).<sub>2</sub>
 
 **Supporting research (problems):**
 
@@ -35,7 +35,7 @@ The personalized VA mobile app home screen helps users to keep up with and manag
 
 **4. When and how is the personalized VA mobile app home screen used?**
 
-* When a Veteran has tasks and interactions in flight, the VA mobile app home screen can be used to **check to make sure things are on track** and to** stay informed when VA needs something from them **in order to keep things moving.
+* When a Veteran has tasks and interactions in flight, the VA mobile app home screen can be used to **check to make sure things are on track** and to **stay informed when VA needs something from them** in order to keep things moving.
 * When **users are new to the app**, it’s used to **help them understand the potential current and future value of the app** to that person. 
 
 **5. What benefits and features are important to a personalized VA mobile app home screen?**
@@ -135,13 +135,14 @@ A personalized VA mobile app home screen should:
 
 
 ### Outcomes (measurable)
+1. Veteran **comprehension** of what the app can do 1) in general and 2) for them in their current circumstances.
+2. Veteran **satisfaction** with the amount (time & tasks) they are completing in the app.
+3. Veterans’ **perceived current and future value** of the app. 
+4. Personalized home screen’s impact on **task completion**.
+5. Personalized home screen’s impact on **longevity with the app.**
+6. **Engagement with personalized content** on the home screen.
 
-1. Increase active user base (retention).
-2. Engagement with features that are relevant to the individual Veteran (ex. more quickly get to a secure message for a Health user).
-4. Engagement with personalized content on the home screen.
-5. Net Promoter Score (NPS) or some other measurement of sentiment. (not MVP)
-6. An increase in user comprehension of the app’s feature set.
-
+See [VA Mobile App - Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) for details
 
 
 # Part II

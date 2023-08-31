@@ -1,10 +1,14 @@
 # Income Limits Data Sources
 
-The Income Limits application in vets-api will read data from PostgreSQL (part of the vets-api stack). To get data imported into the database, a cron-like script runner for Ruby on Rails, Sidekiq, will execute a script on a schedule. The script will pull data from one of two sources (CSV, or VES DB) in order to populate the PostgreSQL database.
+The [Income Limits application](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/income_limits) reads data from PostgreSQL (part of the vets-api stack). To get data imported into the database, a cron-like script runner for Ruby on Rails, Sidekiq, [executes import scripts](https://github.com/department-of-veterans-affairs/vets-api/tree/master/app/workers/income_limits) on a schedule (currently at midnight every 3 months). The scripts pull data from CSV data files in order to populate the PostgreSQL database.
 
-While the upstream data will eventually be coming directly from the VES Oracle database, it is not natively accessible by vets-api. So while we work with ESECC and VES to establish a networking connection between vets-api private clouds and the VES private cloud, an alternative is needed.
+## VES
+The data that the Income Limits application uses is sourced from the [Veterans Enrollment System database](https://dev.ves.va.gov/esr/). This data is housed in Oracle databases within the VA infrastructure.
 
-The alternative upstream data source will be CSV files hosted on a public S3 bucket.
+During development of the Income Limits application, the VES database was not accessible via vets-api. In that interim, we opted to export the VES data to CSVs and host them on S3 in a public folder, a location that vets-api can always pull from. Once we establish connectivity directly to the VES Oracle database, we can move away from this manual data shuffling.
+
+### Zip -> County Data
+In the VES database, the std_zipcode table houses a large dataset which contains a mapping of every U.S. county to their respective zip codes. This data is sourced from a VA Standard Data Services team, who distribute updates to the VES DB team.
 
 ## CSV
 There are 5 data files (created from VES Oracle db tables). Each of the files will need to live in a public S3 bucket so that they are reachable by any environment that needs to use them. There is no sensitivity to the data so making them public removes a need for authenticating to S3 to retrieve the files.

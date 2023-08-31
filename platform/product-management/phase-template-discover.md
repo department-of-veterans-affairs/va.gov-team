@@ -1,14 +1,3 @@
----- 
-
-
-# We've moved our docs!
-
-### This document is no longer maintained.
-
-### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
-
-
-----
 # Discovery Phase
 
 What the team works on during the Discovery phase of a product will differ depending on your product and what its maturity is, but it should always involve all disciplines (design, research, product, engineering, content) and it should start off with an explicit goal.

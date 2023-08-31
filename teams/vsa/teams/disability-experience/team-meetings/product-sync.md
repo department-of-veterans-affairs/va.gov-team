@@ -1,7 +1,14 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Aug 31' 2023       
+### Participants: Rashinda, Austin
+### Topics Covered:
+- Reviewed new DOMO funnel results for exit rates
+   - Austin to do a look at the data in different widgest on DOMO to understand what it means and do a write-up with questions and findings
+
+  
 ### Date: Aug 24' 2023       
-### Participants: 
+### Participants: Jen, Rakshinda, Steve
 ### Topics Covered:
 - New Benefits Portfolio project/workstream dashboard
   - Updated except for Toxic Exposure - do not expect this to be Live before end of October at this point

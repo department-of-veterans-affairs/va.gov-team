@@ -1,6 +1,6 @@
 # Project outline: Profile hub MVP
 
-**Last Updated: August 16, 2023**
+**Last Updated: August 28, 2023 -- Updated KPIs**
 
 ### Communications
 
@@ -77,13 +77,14 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 ### Objective #1: Reduce searches from within profile for items in the profile
 
-**KPI: See a decrease in search terms for items already in the profile (not a comprehensive list: payment, payment history, dd214, direct deposit, address change, change address, address, email) .**
+**KPI: The top 10 searches from the profile should not include any content that exists within the profile.**
 
 [Domo dashboard for profile searches by search term](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
 
 |KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|-------------------|
-
+|Search rank for "direct deposit" or similiar||||
+|Search rank for "dd214" or similar||||
 
 ## Key deliverables
 
@@ -96,6 +97,8 @@ To solve for these problems, we are building a profile hub page, which resolves 
 ## Key dates
 
 - July 2023: Initial discussions; project kickoff
+- August 2023: Design and design intent review
+- September 2023: Build
 
 ## Design
 

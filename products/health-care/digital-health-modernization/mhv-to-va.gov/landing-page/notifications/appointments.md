@@ -38,6 +38,19 @@ We believe that a reminder about an upcoming appointment is very similar to the 
 #### Technical analysis:
 The appointments team has shared that this is a feasible notification type at present. There are many ways that Veterans are notified about upcoming appointments. See related resources above for additional context into notifications work.
 
+It is important to note that there is already a lot of dupliation around appointment notifications, and not all modes are comprehensive. There are up to 15 different ways a Veteran can get reminded about a single appointment according to the VAOS team's research.
+
+Currently, there are many policies in place (but no single source of truth) around how VA staff need to notify Veterans about their appointments. See [this document for more details](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md#appendix-policies-and-procedures). 
+
+* Text:
+  * VEText
+  * Annie app (is this duplicative / the same as VEText?) 
+* Email:
+  * VA Video Service (if a telehealth appointment) will email the Veteran before the appointment
+  * MHV Email will email the Veteran before the appointment
+* Phone:
+  *  
+
 ### 2. Appointment cancellations
 ```Status: On Hold```
 
@@ -52,7 +65,11 @@ At present, our lightweight notification dot design does not scale to support th
 * The appointments team tells us that this is a technically feasible type of notification. Currently, appointments cancelled by the VA or a community care facility trigger notifications depending on the time-frame in which the cancellation occurs:
 * More than 30 days in advance: the Veteran gets a letter mailed to them about the cancelled appointment
 * Less than 15 days: The Veteran gets an email notification
-* 
+
+Clinic appointment cancellations must be communicated to Veterans in different ways if the first method of contact is not successful: 
+    1. Automated communications (e.g., VEText) used to notify the Veteran of their appointment is cancelled may be used as the first scheduling contact attempt.
+    2. The second contact attempt must be a telephone call to personalize the communication due to the inconvenience of the clinic canceling the appointment
+    NOTE: This applies to cases where the Veteran has a telephone. Staff must use contact methods most appropriate to the Veteran's specific situation when it is not possible to reach the patient using traditional methods (e.g., homeless outreach or certified mail).” [Source document here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md)
 
 ### 3. Pending appointments 
 ```Status: On Hold```

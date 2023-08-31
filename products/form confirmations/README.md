@@ -12,6 +12,8 @@
 ## Launched Form Notifications 
 |Form Number  |Form Name |User State |Email Used |Launch Date | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| 21-4142 and 21-4142a | Application to Disclose Information and General Release for Medical Provider Information to VA | Authenticated and Unauthenticated | Form | August 2023 | 
+| 22-5495 | Application for Changing Dependent Benefits | Authenticated and Unauthenticated | Form | August 2023 | 
 | 22-1990E  | Application for Family Member to Use Transferred Benefits  | Authenticated and Unauthenticated | Form | June 2023  |
 | 22-1990  | Application for VA Education Benefits through Legacy Path  | Authenticated and Unauthenticated | Form | June 2023  |
 | 22-1995  | Application for Changing Education Benefits | Authenticated and Unauthenticated | Form | June 2023  |

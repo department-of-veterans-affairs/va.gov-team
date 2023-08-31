@@ -13,8 +13,8 @@
 | Recrtuiting | Aug 9th-15th 2023 |
 | Pilot | Aug 9 |
 | AT Pilot | Aug 10 |
-| Sessions | Aug 16th - 25th 2023 |
-| Analysis | Aug 26th - Sept 1 2023 |
+| Sessions | Aug 16th - 28th 2023 |
+| Analysis | Aug 28th - Sept 2023 |
 
 
 ## Background

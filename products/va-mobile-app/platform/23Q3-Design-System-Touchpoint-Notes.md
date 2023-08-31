@@ -5,6 +5,21 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks for Q3 work
 
+## 8/30/23
+Agenda
+- Status Update
+- Open action items
+- Component list review by Jessica
+
+Status Update
+- Added automated unit tests, linting, and codeql to help ensure code quality
+- Continued implementation of the segmented control component into the Flagship app
+- Continued updates to component documentation to more closely align with VADS component documentation
+- Creating list of components to be added to design system
+- Next - add color design token to design system 
+
+Open action items
+- repo 
 
 ## 8/17/23
 *   Choosing 2nd component to build out

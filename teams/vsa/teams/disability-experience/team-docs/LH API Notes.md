@@ -113,3 +113,24 @@ Flipper.enabled?(ApiProviderFactory::FEATURE_TOGGLE_INTENT_TO_FILE)
 f = ApiProviderFactory.intent_to_file_service_provider(current_user, :lighthouse)
 f = ApiProviderFactory.intent_to_file_service_provider(current_user, :evss)
 ```
+
+factory layer (updated 2023-08-25)
+- testing call to Benefits Claim service's get_claims via ApiProviderFactory
+- using Mattie Mae from [here](https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/test_accounts/verification_test_accounts.md)
+  
+```
+require 'disability_compensation/factories/api_provider_factory'
+settings = Settings.lighthouse.benefits_claims.form526
+Flipper.enable('disability_compensation_lighthouse_claims_service_provider')
+api_provider = ApiProviderFactory.call(
+  type: ApiProviderFactory::FACTORIES[:claims],
+  provider: :lighthouse,
+  options: { icn:'1012845662V671308' },
+  # Flipper id is needed to check if the feature toggle works for this user
+  current_user: OpenStruct.new({ flipper_id: nil }),
+  feature_toggle: ApiProviderFactory::FEATURE_TOGGLE_CLAIMS_SERVICE
+)
+
+all_claims = api_provider.all_claims
+all_claims['open_claims']
+```

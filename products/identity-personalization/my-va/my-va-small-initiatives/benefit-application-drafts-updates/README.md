@@ -1,6 +1,6 @@
 # Initiative outline: Remove "What benefits does VA offer?"
 
-**Last updated: August 9, 2023 - published**
+**Last updated: August 29, 2023 - dates in measuring success table, key dates, "after" screenshots**
 
 ### Communications
 
@@ -29,11 +29,13 @@ This will be a change to both the LOA1 and LOA3 states on My VA.
 
 ### Objective: Provide greater consistency and simplification of the Benefit Application Drafts section.
 
+[My VA Domo dashboard](https://va-gov.domo.com/page/1167851935?userId=1322887837)
+
 **KPI: We will not see searches for the benefits in the "what benefits does VA offer" menu move into the top 50 search terms.**
 - There are already some search terms (eg. careers) that are in the top 50. Given their already high rankings, we probably won't learn much even if they do move up a little bit as a result of this menu going away.
 - We will monitor for a month to start. If there isn't a signifant change in metrics, we can permanently remove the menu. If we do see metrics moving in a way that concerns us, we'll monitor for a second month.
  
-|KPI/metric|Baseline: <br />1 month pre-launch <br />(mm/dd/yyyy - mm/dd/yyyy)|1 month post-launch <br />(mm/dd/yyyy - mm/dd/yyyy)| 2 months post-launch <br />(mm/dd/yyyy - mm/dd/yyyy)|
+|KPI/metric|Baseline: <br />1 month pre-launch <br />(07/27/2023 - 08/28/2023)|1 month post-launch <br />(08/29/2023 - 09/28/2023)| 2 months post-launch <br />(09/29/2023 - 10/28/2023)|
 |----------|-------------|---------------|-------------------|
 |Are searches for "**health care**” (or similar -- whichever comes first) in the top 50 search terms on My VA?|   |   |   |
 |Are searches for "**education and training**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
@@ -66,7 +68,7 @@ Historical data (January 2023 - August 2023)
 
 - July 2023: Analytics discovery
 - August 2023: Development
-- ...
+- August 28, 2023: Feature flag enabled (menu no longer visible for all users in production)
    
 ## Screenshots
 
@@ -79,5 +81,11 @@ Historical data (January 2023 - August 2023)
 
 ![Screenshot 2023-08-09 at 12 21 58 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/7387facf-0391-4fca-900a-64a12df62aa4)
 
+
 ### After
-TK
+#### LOA1
+![Screenshot 2023-08-28 at 4 10 33 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/4eed62a4-a88a-4105-bfcd-469cfa03ec9e)
+
+
+#### LOA3
+![Screenshot 2023-08-28 at 4 11 21 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/4c10333c-f368-467b-808b-8b9ca2cec077)

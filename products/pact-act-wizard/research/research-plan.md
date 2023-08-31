@@ -5,7 +5,7 @@ The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard)
 
-[Link to card in research repo]()
+[Link to card in research repo TBD]()
 
 ### OCTO Objectives 
 
@@ -68,24 +68,17 @@ Learnings will help refine individual questions and the overall list of them in 
 1. From the results screen, Veterans (and others) will know what they should do next. 
 
 ## Method	
-We will conduct **usability testing** to guide research participants through a working prototype that presents the questions in the PACT Act wizard. 
+We will conduct **usability testing** to guide research participants through a working prototype that presents the questions and results screens in the PACT Act wizard. 
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
-### Ideas for conversation guide
-- Ask if participant has VA health care and/or disability compensation.
-- When participant sees the results screen, ask what it means to them in order to gauge understanding, esp. the phrase "presumtive conditions"
-- After participant sees results screen, ask what they would do next (if anything). Apply?
-
-
-
 ### Research materials
-- [Link to conversation guide]()
-- [Link to prototype]()
+- [Link to conversation guide TBD]()
+- [Link to prototype TBD]()
 	
 ## Recruitment
 
-Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](). 
+Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket TBD](). 
 
 ### Required criteria 
 - NONE have ever applied for VA benefits under the PACT Act
@@ -140,7 +133,7 @@ We ask this question because we want to make sure that our website works for peo
 
 
 
-## Timeline
+## Timeline--TBD
 
 ### Prepare
 Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Wes and I are available for a kickoff call during any of these times: 
@@ -176,7 +169,7 @@ Please list the people who will be serving in each role.
 - Project point of contact: Cindy Merrill 
 - Participant(s) for pilot test: TBD	
 - Note-takers: Perigean	(in github)
-- Observers: Wes Rowe (wesley.rowe@agile6.com). Observers will need to sign up so we can limit the number of observers per session.
+- Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Wes Rowe, Amanda Klausmeier, Danielle Thierry, Jordan Wood, Randi Mays, Dave Conlon.) 
 
 ## Approvals
 - Dave Conlon (PO) on TBD, 2023

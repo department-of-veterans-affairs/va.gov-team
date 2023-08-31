@@ -1,14 +1,3 @@
----- 
-
-
-# We've moved our docs!
-
-### This document is no longer maintained.
-
-### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
-
-
-----
 # Implementation Phase
 
 The goal of this phase is to take what was learned in Discovery, and build an end-to-end product in staging. This will involve all disciplines (design, research, product, engineering, content) and likely lots of iterating, testing low-fidelity samples, documenting key decisions, before it's ready to finalize and move on to the next steps (launch).

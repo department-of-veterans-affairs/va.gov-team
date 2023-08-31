@@ -103,8 +103,8 @@ In future iterations, we plan to review for alternative locations and other syst
 ### Collaboration Cycle
 
 - Collab Cycle ticket [#63773](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63773)
-     - [ ] Design Intent
-     - [ ] Content and IA
+     - [ ] Design Intent - 9/18/23 at 3:30p ET
+     - [ ] Content, Accessibility and IA - Kickoff 9/12/23 at 4p ET
      - [ ] Research
      - [ ] Midpoint
      - [ ] Contact Center guide
@@ -121,7 +121,7 @@ In future iterations, we plan to review for alternative locations and other syst
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - 1/22/2023
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -137,21 +137,22 @@ In future iterations, we plan to review for alternative locations and other syst
 #### Key deliverables
 
 - Design documentation
-   - [Proposed wireflows]
-   - [Sketch Design and User Flow]
+   - [Proposed wireflows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/D391CBC5-D341-4B4B-B1D8-566325DDF8A4/canvas)
+   - [Sketch Design and User Flow](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/v/Mrk8ab/p/A0C657F6-3318-45A0-93CB-246BA8722E37/canvas?posX=-3289.158203125&posY=-10403.73046875&zoom=0.25)
 - [Research/Design folder]
 - [Prototype]
 - [Technical documentation folder]
 - How to access and test
     - Staging env
     - Testing documentation - TestRail
-    - [Test/Use cases & users]
+    - [Test/Use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZR-Update-health-care-benefits.md)
     - A11y test case documentation
 - Release plan
 - Production env
 
 ### Key Decisions
-- 8/15/2023 - After talking with our HEC Stakeholders and the PRA team (Paper Reduction Act) in [July's Stakeholder meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes/2023-07-24%20PRA%20discussion%20on%20EZR%20with%20HEC%20stakeholders.md), and explaining our proposal to incorporate EZR updates within the VA.gov Profile page, it was communicated from PRA team to our PO, Patrick Bateman, that they would like us to stick closer to something like a standalone authenticated workflow.  
+- 8/15/2023 - After talking with our HEC Stakeholders and the PRA team (Paper Reduction Act) in [July's Stakeholder meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes/2023-07-24%20PRA%20discussion%20on%20EZR%20with%20HEC%20stakeholders.md), and explaining our proposal to incorporate EZR updates within the VA.gov Profile page, it was communicated from PRA team to our PO, Patrick Bateman, that they would like us to stick closer to something like a standalone authenticated workflow.
+- 8/29/2023 - Presentation to PO Patrick Bateman on proposed direction of a standalone form, using existing data from ES to display review pages for each section with a question asking whether the information displayed is up to date, or needs to be changed.  If up to date, the next section of data will be displayed.  If a change is needed, pages with editable fields, prefilled with existing data, will be shown, allowing the Veteran to make the updates as needed.  PO agreed with proposal. Next presentation to HEC Stakeholder team will be 9/13/2023.  In the meantime, we will continue with designs, content creation and frontend development.
 
 ### Key Dates
 
@@ -194,7 +195,8 @@ TBD
  
  - DEPO Lead: Patrick Bateman
  - PM: Alex Seelig
- - Engineering: 
+ - Engineering: Matt Long (FE), Lihan Li (BE)
+ - QA: Fletcher Bonds
  - Research/Design: Hieu Vo
  
 </details>

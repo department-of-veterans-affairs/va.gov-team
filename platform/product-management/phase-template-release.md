@@ -1,14 +1,3 @@
----- 
-
-
-# We've moved our docs!
-
-### This document is no longer maintained.
-
-### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
-
-
-----
 # Release Phase
 
 The release phase is a time to get your product fully tested and cleaned up in production and eventually launched to a live audience. This will likely include testing and monitoring it in production, making sure contact centers are ready to support it, preparing any marketing or publicity, and actually getting it live for real users -- all with a plan for how to track performance to inform future iterations.

@@ -6,8 +6,7 @@
 - Confirm your identity.
 - Confirm your current demographics information.
    - **Note**: this step may be skipped if you’ve verified your information within the last seven days.
-- Answer the travel pay questions
-   - **Note**: this step may be skipped if you have more than one appointment per day.
+- Answer the travel pay questions.
 - View your appointment.
 - Select **Check in now**.
 - View confirmation screen: *You’re checked in*
@@ -22,8 +21,8 @@ If you can’t use your phone to check in, see a staff member for help.
 ## 6. What if check in doesn't work on my phone?
 If you aren’t able to check in on your phone, see a staff member for help checking in.
 ## 7. How do I submit a claim?
-At this time, you can create a travel claim if you have only one appointment for today. In the future, you can create a travel pay claim if you have multiple appointments in a day.
-- When you text **Check in** to 53079 you receive a text back with a link to start the check in process.
+At this time, you can create a travel claim once per day per facility. In the future, you can create a travel pay claim if you have multiple appointments per facility in a day.
+- After you text **Check in** to 53079, you'll receive a text back with a link to start the check in process.
 - Confirm your identity.
 - Confirm your current demographics information. 
   - **Note**: this step may be skipped if you’ve verified your information within the last seven days.
@@ -31,27 +30,27 @@ At this time, you can create a travel claim if you have only one appointment for
 - View your appointment.
 - Select **Check in now**.
 - View confirmation screen that confirms you’re checked in and we’ve received your claim submission.
-- If you answered Yes to all travel pay questions, you’ll receive a text message with your claim submission status.
-   - If you have more than one appointment for today, or if you answer No to any of the travel pay questions, you can still file a claim online on the Beneficiary Travel Self Service System (BTSSS) through the AccessVA travel claim portal (https://va.gov/accessva-travel-claim)or use VA Form 10-3542 to submit a claim by mail, fax, email, or in person, within 30 days of your appointment.
+- You’ll receive a text message with your claim submission status.
+   - If you answer No to any of the travel pay questions, you can still file a claim online on the Beneficiary Travel Self Service System (BTSSS) through the AccessVA travel claim portal (https://va.gov/accessva-travel-claim) or use VA Form 10-3542 to submit a claim by mail, fax, email, or in person, within 30 days of your appointment.
+   - **Note**: If you choose to file a travel reimbursement claim during online check-in you do not need to also fill out a paper form unless you receive a text message saying your claim couldn't be filed. 
 ## 8. What type of claim can I submit?
 At this time, you can submit a travel reimbursement claim for mileage only through online check-in.
 - You can still file online on the Beneficiary Travel Self Service System (BTSSS) through the AccessVA travel claim portal (https://va.gov/accessva-travel-claim) or use VA Form 10-3542 to submit a claim by mail, fax, email, or in person, within 30 days of your appointment if you:
-   - Have more than one appointment today
    - Didn’t travel from your home address
    - Didn’t travel in your own vehicle
    - Have other expenses to claim
-   - Need to upload receipts for meals, lodging, etc
+   - Need to upload receipts for meals, lodging, etc.
 ## 9. What if I didn’t travel from my home address?
-You can still file online on the Beneficiary Travel Self Service System (BTSSS) through the AccessVA travel claim portal (https://va.gov/accessva-travel-claim) or use VA Form 10-3542 to submit a claim by mail, fax, email, or in person, within 30 days of your appointment.
+You can still file  on the Beneficiary Travel Self Service System (BTSSS) through the AccessVA travel claim portal (https://va.gov/accessva-travel-claim) or use VA Form 10-3542 to submit a claim by mail, fax, email, or in person, within 30 days of your appointment.
 ## 10. What if I didn’t use my own vehicle?
 You can still file online on the Beneficiary Travel Self Service System (BTSSS) through the AccessVA travel claim portal (https://va.gov/accessva-travel-claim) or use VA Form 10-3542 to submit a claim by mail, fax, email, or in person, within 30 days of your appointment.
 ## 11. What if I have other receipts, like lodging or meals, to submit?
 You can still file online on the Beneficiary Travel Self Service System (BTSSS) through the AccessVA travel claim portal (https://va.gov/accessva-travel-claim) or use VA Form 10-3542 to submit a claim by mail, fax, email, or in person, within 30 days of your appointment.
 ## 12. How do I know if my claim has been submitted?
 After you complete online check-in, you’ll receive a text message with the status of your claim submission. You’ll receive one of three messages:
-- Success: *We received your travel pay claim for [Date]. You can check the status of your claim ending in 1234 at https://va.gov/accessva-travel-claim*.
+- Success: *We received your travel pay claim ending in [0000] for [Date]. Check your claim status at https://va.gov/accessva-travel-claim. No further action needed*.
 - Existing claim: *You already filed a travel pay claim for your appointment on [Date]. Check your claim status at https://va.gov/accessva-travel-claim*.
--  Can’t process your claim: *We’re sorry. We couldn’t process your travel pay claim. File your claim online within 30 days at https://www.va.gov/health-care/get-reimbursed-for-travel-pay*.
+- Can’t process your claim: *We’re sorry. We couldn’t process your travel pay claim. File your claim online within 30 days at https://www.va.gov/health-care/get-reimbursed-for-travel-pay*.
 ## 13. How can I find out the status of my claim?
 You can check the status of your travel reimbursement claim online at the Beneficiary Travel Self Service System (BTSS) through the AccessVA travel claim portal (https://va.gov/accessva-travel-claim).
 ## 14. When will I get my money?

@@ -85,7 +85,9 @@ You have no upcoming appointments to show.
 ### If a user receives VA health care at a Cerner facility
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ADCF0E10-E520-4E53-AA3A-70B27D06AD46)
+- [Desktop - expanded](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/Ryd9gKQ)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B86A600B-1B19-4128-854C-299A3A7AAD07)
+- [Mobile - expanded](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/L4PYeML)
 
 **Show**
 
@@ -97,23 +99,35 @@ You have no upcoming appointments to show.
 
 #### **Content**
 
-**Choose your health management portal**
+**Choose the right health portal**
 
-Your care team may now use our new My VA Health portal. Choose your portal based on the facility for your appointment:
+To manage your health care at these facilities, go to My VA  Health:
+- (**Health care facility name**)
+- (**Health care facility name**)
 
-For (**Health care facility name**), (**Health care facility name**), or (**Health care facility name**): [Use My VA Health (opens in new tab)](https://patientportal.myhealth.va.gov/clear-session?to=https%3A%2F%2Fstaging-patientportal.myhealth.va.gov%3Fauthenticated%3Dtrue)
+[Go to My VA Health](https://patientportal.myhealth.va.gov/clear-session?to=https%3A%2F%2Fstaging-patientportal.myhealth.va.gov%3Fauthenticated%3Dtrue)
 
-For **any other VA health facility:** [Use My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)
+Having trouble opening My VA Health?
 
-If you have trouble accessing the portal, make sure to disable your pop-up blocker. If you’re prompted to sign in again, use the same account you used to sign in to VA.gov.
+*Expanded content:* 
+
+Try these steps:
+- Disable your browser's pop-up blocker
+- Sign in to My VA Health with the same account you used to sign in to VA.gov
+
+For **any other facility, go to My HealtheVet.**
+
+[Go to My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)
 
 **Content specs**
 
-- The health care facility names should use the Drupal integration to show only the names of facilities that a user receives VA health care at that are Cerner facilities. **This content is dynamic.** If there are 2 facilities, they should be separated by the word "or". If there are 3 or more facilties, they should be separated by a comma and the word "or" should come before the last facility.
+- The health care facility names should use the Drupal integration to show only the names of facilities that a user receives VA health care at that are Cerner facilities. **This content is dynamic.**
 
 #### Visual specs
 
 - Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the Cerner alert.
+- Use the [additional info](https://design.va.gov/components/additional-info) component for the dropdown that says "Having trouble opening My VA Health?"
+- Use the [secondary action link](https://design.va.gov/components/link/action#secondary) for the "Go to My VA Health" and "Go to My HealtheVet" CTA links.
 
 **Positioning**
 - This alert should appear directly below the health care header and nothing else should be shown in the section besides this alert.

@@ -1,6 +1,6 @@
 # Project outline: Add links to dependents and letters tools to the authenticated menu
 
-**Last Updated: 7/26/2023**
+**Last Updated: August 28, 2023 -- Added key dates**
 
 ### Communications
 
@@ -118,12 +118,14 @@ Users have trouble finding dependent information and where to download their ben
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
 - [EPIC | Profile | Authenticated Menu Modifications #62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)
-- Sketch files
-- Release plan
+- [Sketch files](https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/p/F06226AA-DBC6-482C-A474-E9585FDF7178/canvas)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/releasePlan.md)
 
 ## Key dates
 
 - July 2023: Initial discussions; project kickoff
+- August 2023: Design
+- September 2023: Build
 
 ## Design
 

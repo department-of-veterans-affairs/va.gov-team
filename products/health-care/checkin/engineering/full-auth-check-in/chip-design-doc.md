@@ -269,6 +269,21 @@ CHIP provides a `/token` endpoint which is used to retrieve a token that can be 
 			"needsConfirmation": true
 		},
 		"nextOfKin": {
+			"name": "",
+			"relationship": "",
+			"phone": "",
+			"workPhone": "",
+			"address": {
+				"street1": "",
+				"street2": "",
+				"street3": "",
+				"city": "",
+				"county": null,
+				"state": "",
+				"zip": "",
+				"zip4": "",
+				"country": ""
+			},
 			"needsConfirmation": true
 		}
 	},

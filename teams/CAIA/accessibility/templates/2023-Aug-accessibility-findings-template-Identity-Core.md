@@ -78,6 +78,22 @@ Add screenshots, images and videos here.
 - Feel free to include bullets
 - They can help add some more info
 
+### Jamie's draft - feel free to integrate this into the final doc!
+#### Finding 1
+- Chunking out sections of the TOU into accordions is beneficial for AT users:
+  - Users can choose which sections are read out loud to them, instead of the entire thing being read at once (which can take "30 minutes").
+  - Users can quickly scan sections to see if the contents would interest them.
+
+#### Finding 2
+- There's not enough size differentiation between H3 and paragraph text.
+  - This is important because low-vision users using screen magnification use visual differentiation between objects on a page to determine importance and hierarchy.
+  - Without enough differentiation, the user might not realize something is a heading, versus regular paragraph text.
+ 
+#### Finding 3
+- Our current recruitment process makes using Figma prototypes difficult. This is because:
+  - We aren't always told by Perigean which assistive technology the user is using (beyond "screen reader"), **and**
+  - Figma prototypes can only be used accessibly by Mac + VoiceOver, Windows + NVDA, and Windows + JAWS.
+- It would be helpful to get more specific information about the technology in use before the test.
 
 ## User Feedback
 
@@ -86,7 +102,9 @@ This section is for quotes. ⚠️ Participants should be referenced by number o
 In this section feel free to segment populations based on the trends we see with certain user types.
 
 > "I'd rather just hear it read to me." - P12, who is partially sighted, speaking about AT and accordions
+
 > "...it takes 30 minutes. When you're reading you can skip read, but not if it's being read to you." - P19, about the length of TOUs
+
 > "I like that. Nice to have the option to look more in depth. Usually don't have the choice." - P19, on TOU items chunked by headings into accordions
 
 ## a11y Recommendations
