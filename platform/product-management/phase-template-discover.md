@@ -1,4 +1,3 @@
-----
 # Discovery Phase
 
 What the team works on during the Discovery phase of a product will differ depending on your product and what its maturity is, but it should always involve all disciplines (design, research, product, engineering, content) and it should start off with an explicit goal.
