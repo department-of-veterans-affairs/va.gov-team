@@ -1,4 +1,4 @@
-name: Create "completed" ticket after Collab Cycle Touchpoint
+name: Create completed ticket after Collab Cycle Touchpoint
 
 on:
   issues:
