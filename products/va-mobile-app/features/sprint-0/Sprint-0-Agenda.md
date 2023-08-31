@@ -65,6 +65,20 @@ The Sprint 0 meeting is a time to do the following:
 
 ## 8/31/23
 * Identity Team coming to talk about Terms of Use
+  * Intiative Goal: To have on TOU that Veterans agree to that would give access to everything
+  * Target production rollout early October
+  * Mobile shouldn't have any work, it will be part of the sign in experience
+    * If user accepts they can continue to servicing on the app/web
+    * If user declines they will be logged out and messaging displayed what next
+* Call outs for idenitity & Action Items 
+   - Review how content on the page that is displayed when user does not accept TOU.  Ensuring the clarity for the Veteranthat va.gov is inclusive of the app
+   - Is there a need to delete authentication and when does it become enforceable.  May want to consider doing staggered deletion objects
+   - Share w/identity team any links we show on mobile today regarding TOU (i.e. what info do we show in privacy policy).
+   - Will this work for people who are still on version of the app that use IAM
+     - How many people are still on IAM? 
+
+* Question to Rachel/Ryan
+  *   Would we want to give users the ability to link out and review TOUs at a later time? 
 
 ## 8/17/23
 * [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md)
