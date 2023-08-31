@@ -1,6 +1,6 @@
 # Medical Records
 
-## Lab Tests
+## Lab and Test results
 
 
 
