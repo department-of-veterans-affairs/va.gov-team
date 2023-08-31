@@ -136,7 +136,7 @@ We will expand this functionality to allow users to update email and other items
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) 
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/releasePlan/defaultSendReleasePlan.md) 
 
 ---
    
