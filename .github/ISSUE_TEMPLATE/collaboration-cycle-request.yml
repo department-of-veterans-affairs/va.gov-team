@@ -161,5 +161,5 @@ body:
       label: Notify the Collaboration Cycle team of this ticket in your team's public Slack channel.
       description: After creating this ticket, post the keyword "collab-cycle-kickoff" in your Slack channel and follow Slackbot's instructions.
       options:
-        - label: I acknowledge that I must notify the Governance team by completing the collab cycle kicckoff workflow in my team's Slack channel after submitting this issue. This can be completed by typing /collab cycle and selecting the appropriate workflow. 
+        - label: I acknowledge that I must notify the Governance team by completing the collab cycle kicckoff workflow in my team's Slack channel after submitting this issue. This can be completed by typing "/collab cycle" and selecting the appropriate workflow. 
           required: true
