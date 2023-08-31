@@ -102,8 +102,8 @@ For screen reader users, we will schedule a total of 10 Veterans for an expected
 
 **Primary criteria for Screen Reader Users (must-haves)**
 
-- At least 10 participants who use screen-readers – Blind
-
+- At least 10 participants who use screen-readers
+  
 **Secondary criteria (nice-to-haves)**
 
 1. Age distribution:
@@ -177,11 +177,11 @@ For screen reader users, we will schedule a total of 10 Veterans for an expected
 
 **Primary criteria for Sighted Users (14)**
 
-- At least 6 participants who use screen magnification technology.
-- At least 12 participants must regularly use Secure Messaging (see screener)
-- At least 12 participants with cognitive disabilities – mild to severe (see screener)
-- At least 6 participants who are mobile users
-- At least 6 participants who are desktop users.
+- At least 7 participants who use screen magnification technology.
+- At least 14 participants must regularly use Secure Messaging (see screener)
+- At least 14 participants with cognitive disabilities – mild to severe (see screener)
+- At least 7 participants who are mobile users
+- At least 7 participants who are desktop users.
 
 1. Age distribution:
 
