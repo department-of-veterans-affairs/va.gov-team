@@ -7,6 +7,7 @@
 - **GitHub Label**: authenticated-exp; my-va-dashboard
 - **Slack channel**: accountexp-authexp
 - **Development Epic:** [#63424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)
+- **Collab Cycle Epic:** [#64694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64694)
 
 ### Roles
 
