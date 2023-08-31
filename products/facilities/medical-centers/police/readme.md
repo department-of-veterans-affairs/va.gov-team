@@ -106,7 +106,7 @@ A few others have added info about the VA Police to the Prepare for your visit s
 ## Launch Dates
 **Target Launch Date**
 - MVP: Data published 12/2023, in compliance with Cleland Dole Act Sec 405 legislation
-- Spring 2023: access to data via API
+- Spring 2024: access to data via API
 
 **Actual Launch Date**
 TBD
