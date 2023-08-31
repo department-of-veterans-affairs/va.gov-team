@@ -217,7 +217,7 @@ For screen reader users, we will schedule a total of 10 Veterans for an expected
 - (4) rural
 - (10) urban
 
-### **Screener for non-assistive tech participants**
+### **Screener for sighted participants**
 
 1. Please make sure that ALL participants are willing to complete their interview **on the device they specified when recruited** and:
 
