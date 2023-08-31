@@ -1,5 +1,5 @@
 # Contact information: address not recognized as entered
-**Last updated: February 9, 2023**
+**Last updated: August 31, 2023**
 
 If a user changes their address from the VA.gov profile and that address isn’t recognized by the U.S. Postal Service (USPS), they’ll be provided with a suggestion or an option to:
 - use the address as entered
@@ -17,33 +17,38 @@ We’re aware of accessibility issues with the current implementation, and [prop
 
 
 ### Address can’t be confirmed with USPS, and a suggested address is found.
-- Warning alert appears under address section label (mailing or home)
 - User is presented with suggested and entered address as radio button options
-- They can select one and choose the “Use this address” button to save their changes, or
+- They can select one and choose the “Update” button to save their changes, or
 - They can press cancel, and will be returned to read mode
 - [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/rbJ5V77)
 - [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/4a3Wp3q)
 
-### Address and/or unit number can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
-- Warning alert appears under address section label (mailing or home), prompting user to review the information they entered
+### Address can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
 - User is presented with the address they entered
-- User can select “Use this address” button to confirm what they entered is correct, or
-- they can select “edit your address” and return to edit mode
+- User can select the primary button to confirm what they entered is correct, or
+- they can select the secondary button and return to edit mode
 - They can press cancel, and will be returned to read mode
 - [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/nRj5oKd)
 - [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/3OrW1bw)
 
 ### Address is missing a unit number
-- Warning alert appears under address section label (mailing or home), prompting user to review the information they entered and check for a unit number
 - User is presented with the address they entered
-- User can select “Use this address” button to confirm what they entered is correct, or
-- they can select “edit your address” and return to edit mode
+- User can select the primary button to confirm what they entered is correct, or
+- they can select the secondary and return to edit mode
 - They can press cancel, and will be returned to read mode
 - [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/qeJ4aVV)
 - [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/WKmL09n)
 
+### Unit number can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
+- User is presented with the address they entered
+- User can select the primary button to confirm what they entered is correct, or
+- they can select the secondary button and return to edit mode
+- They can press cancel, and will be returned to read mode
+- [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/Jn9jQMe)
+- [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/QbJeZR7)
+  
 ## Analytics
-Our [address validation dashboard](Redirecting…) has metrics related to this use case.
+Our [address validation dashboard](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/) has metrics related to this use case.
 
 ## Codes
 N/a
@@ -58,7 +63,7 @@ N/a
 Washington, DC 20010
 5. Click update
 
-### Address and/or unit number can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
+### Address can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
 1. Log into staging.va.gov with vets.gov.user+41@gmail.com ([staging user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 2. Navigate to the [contact information section](https://staging.va.gov/profile/contact-information), and 
 3. Click edit on either address section
@@ -73,3 +78,13 @@ Washington, DC 20010
 600 S. Michigan Ave
 Chicago, IL 60610
 5. Click update
+
+### Unit number can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
+1. Log into staging.va.gov with vets.gov.user+41@gmail.com ([staging user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+2. Navigate to the [contact information section](https://staging.va.gov/profile/contact-information), and 
+3. Click edit on either address section
+4. Use the following address: 
+600 S. Michigan Ave
+B
+Chicago, IL 60610
+6. Click update
