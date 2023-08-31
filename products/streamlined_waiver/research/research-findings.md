@@ -183,13 +183,11 @@ In the last 10 minutes of the usability study interviews, we will do a small con
 
 3. **Split reception on the condensed intro page versus the full intro page copy. In comparing a lean version with the full version of the intro, preference was equally split.**
 
-
 4. **The cash on hand question was easily understood by all participants.**
 
-5. **Transition page clarity: Most did not understand the purpose of this page, we recommend removing the content related to "next steps"**
+5. **Transition page clarity: Most did not understand the purpose of this page, we recommend removing the content related to "next steps."**
 
-6. **Confirmation page and trust: Immediate waiver decision was welcome and surprising. Some commented that the language was ambiguous**
-
+6. **Confirmation page and trust: Immediate waiver decision was welcome and surprising. Some commented that the language was ambiguous.**
 
 
 
@@ -208,7 +206,7 @@ _Participant: "Well, it makes it easier. I mean, I'm not old, I mean, I'm old, b
 
 
 
-2. **Overall Comprehension: most understood the purpose of the form**
+2. **Overall Comprehension: Most understood the purpose of the form**
 The majority of participants understood the purpose of the form, with the exception of 2 participants: one who said she had suffered a stroke that affected her memory, and the other who did not understand the form in the beginning, possibly due to cognitive considerations.
 
 >_"I think it's very easy to use, like way easy to navigate, and I don't have any issues filling out the form. But I like the definition of each term, like what you need to fill out." -P8_
@@ -219,8 +217,7 @@ The majority of participants understood the purpose of the form, with the except
 
 3. **Split reception on the condensed intro page versus the full intro page copy**
 In comparing a lean version with the full version of the intro, preference was equally split. Half of the sample of participants preferred the extra information provided on the full introduction explaining each category (example: what are considered assets) to help them prepare, while the other half preferred to see all of the categories grouped together to easily scan visually. 
-The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content when viewing on mobile, and keeping both action links to minimize frustration or drop off.
-In our research to date, (2) emerging archetypes are emerging - users that are very thorough filling out forms and reading every aspect in detail, and users that will skip ahead based on previous familiarity with VA.gov forms and feeling confident with the process. 
+The majority of participants skipped ahead on the intro page and we recommend removing the alert box that hides the intro page content when viewing on mobile, and keeping both action links to minimize frustration or drop off.<br><br>In our research to date, two archetypes are emerging – users that are very thorough filling out forms and reading every aspect in detail, and users that will skip ahead based on previous familiarity with VA.gov forms and feeling confident with the process. 
 
 > _"Other people they may like prefer this version, like they may not like all the extra stuff. But I would prefer the extra information." -P8_
 
