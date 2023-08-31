@@ -31,14 +31,21 @@ Deadline: One year after the enactment (December 2022), the Secretary shall repo
 ## Legistlative requirements
 Cleland Dole Act Sec 405 legislation passed in 2022
 
-“(e) (1) The Secretary shall publish on the internet website of each facility of the Department the following information with respect to the facility:
-“(A) Summaries and statistics covering the previous five-year period regarding—
-“(i) arrests made by and tickets issued by Department police officers;
-“(ii) prosecutions, ticketing, and other actions relating to such arrests;
-“(iii) the use of force and weapons discharge by Department police officers; and
-“(iv) complaints, investigations, and disciplinary actions regarding Department police officers.
-“(B) Contact information for employees of the Department and the public to directly contact the police force of the facility, including for an individual (or the representative, attorney, or authorized agent of the individual) to request information regarding the arrest, ticketing, detainment, use of force, or other police matters pertaining to that individual.
-“(2) The Secretary shall ensure that each police force of a facility of the Department is able to provide to an individual who contacts the police force pursuant to paragraph (1)(B) the information described in such paragraph.”.
+> (e) (1) The Secretary shall publish on the internet website of each facility of the Department the following information with respect to the facility:
+
+> (A) Summaries and statistics covering the previous five-year period regarding—
+
+> (i) arrests made by and tickets issued by Department police officers;
+
+> (ii) prosecutions, ticketing, and other actions relating to such arrests;
+
+> (iii) the use of force and weapons discharge by Department police officers; and
+
+> (iv) complaints, investigations, and disciplinary actions regarding Department police officers.
+
+> (B) Contact information for employees of the Department and the public to directly contact the police force of the facility, including for an individual (or the representative, attorney, or authorized agent of the individual) to request information regarding the arrest, ticketing, detainment, use of force, or other police matters pertaining to that individual.
+
+> (2) The Secretary shall ensure that each police force of a facility of the Department is able to provide to an individual who contacts the police force pursuant to paragraph (1)(B) the information described in such paragraph
 
 
 
