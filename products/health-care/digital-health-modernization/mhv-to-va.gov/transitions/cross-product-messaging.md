@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# MHV on VA.gov Cross-Product Messaging & Alerts - Initiative Brief
 #### Overview
 
 <details>
