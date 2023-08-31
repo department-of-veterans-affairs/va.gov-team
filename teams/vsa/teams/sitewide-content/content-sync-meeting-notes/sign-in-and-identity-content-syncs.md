@@ -1,12 +1,27 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**August 31, 2023**
+-
+Attendees: Aliyah, Laura, Tinu, Lauren, Carl, Sophia, and Nathalie
+
+**Notes**
+- Lauren (PM on LGA team) and Nathalie (from chatbot team) joined the call.
+- We did a refresher, for new folks on the call, about the purpose of the meeting and clarified the purpose amidst new changes to the content/comms review proccess for any work related to the sign in changes.
+     - Purpose of meeting is to review and discuss any content (on static pages, sign in modals, or alerts on VA.gov) that relates to the upcoming sign in changes on VA.gov. We also use the time to discuss or consider how other intiatives overlap with this work.
+     - Sophia shared a visual (for internal use) of the review proccess flow, given the new MHV-VA.gov-Identity Communications Group review process.
+     - We clarified that if there are changes that the LGA team is making to the sign in modal or content for an interstitial page, Laura and Aliyah will review that work with you them and the LGA team will be responsible for putting those items through the new review process.
+- Nathalie joined and Aliyah summarized some past work with the chatbot team related to sign in and identity. [This is a ticket with that past work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49815). Laura asked if updates to the chatbot are manual or dynamic - Nathalie said that it's both. Nathalie will join future meetings and provide more clarity on how this group/sitewide content will need to be involved in chatbot content that aligns with how we're currently discussing signing in to VA.gov.
+- Meetings will now be bi-weekly, for 1 hour. We'll have this meeting on the weeks that we don't have the MHV-VA.gov Identity Communications Group meeting.
+
+
+
 **August 24, 2023**
 -
 Attendees: Aliyah, Laura, Tinu, Carl, and Joe
 
 **Notes**
 - Updated LGA and CORE identity teams on new proccess for sign in and identity content related to changes. Content on static pages will need to go through the new MHV and identity comms working group review (async).
-- - **Verifying your identity on VA.gov**
+- **Verifying your identity on VA.gov**
      - We finished reviewing this page in our meeting
      - There's still an open question out to the ID contact (via Amber) about the link text for users who don't live in the US. We'll adjust this content when we get a reply.
      - Once this page is reviewed by the working group, copy edited, and published, we'll move back to reviewing the additional questions Joe and his team compiled and identify what new information will need to be added to this page.
