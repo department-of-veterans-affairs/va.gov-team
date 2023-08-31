@@ -8,19 +8,26 @@
 [Epic](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/5120)
 
 
+### What is Remote Configuration?
+
+A software development technique for mobile apps where the behavior or features of an app can be changed remotely without having to publish an app update
+
 ### Problem Statement and Current Experience
 
 Today, when critical errors affect the Mobile Application,  we currently do not have an immediate way to remotely address error fixes or clear cashes outside of the normal app store release and review process. 
 As a result, users experience a broken app until it can be fixed and the veteran experience is undesirable.
 
-### What is Remote Configuration?
+### Proposed solution work for Mobile
 
-A software development technique for mobile apps where the behavior or features of an app can be changed remotely without having to publish an app update
+We are proposing a solution to be able to "turn off" or restrict the feature so that the user will not have a bad user experience.
+
+The user will receive a message indicating that the feature is currently experiencing an error. **_The user will have to update the app via the store in order to get the actual fix_** and to be able to access what was originally restricted to them.
 
 ### Main Use Case:
-Use Case 1: A feature (or part of feature) is broken in the mobile application and we are working to resolve it remotely.
 
-### Possible Use Cases: (TBD-Not finalized)
+_Use Case: A feature (or part of feature) is broken in the mobile application and we are working to resolve it remotely._
+
+### Other Possible Use Cases to analyze: (TBD)
 
 1. **Roll Backs**: IOS app or Android Store updates go through review process and can take 24-48 hours, longer if rejected. Rollbacks can be done withouth any backend code changes.
 
@@ -28,8 +35,7 @@ Use Case 1: A feature (or part of feature) is broken in the mobile application a
 
 3. **A/B Testing:** Ability to enable and disable features of a subset of users. % of Population is served a NEW experience vs. % gets old experience. 
 
-The A/B use case will be great for statistical analysis to determine the impact of a feature an gain feature confidence on that new feature. This will help us
-determind if this change is an improvement over the old version.
+The A/B use case will be great for statistical analysis to determine the impact of a feature an gain feature confidence on that new feature. This will help us determine if this change is an improvement over the old version.
 
 In additon, if bugs are discovered, features can easily be disabled remotely withought having to go through the store release process.
 
@@ -40,17 +46,17 @@ In additon, if bugs are discovered, features can easily be disabled remotely wit
 
 * Ability to Remotely address bugs and or fix for user when a bug is determined on a feature in the app
 * Determine what the content and modal will look like when a remote configuration is happening
-* With the best UX possible, we should be able to remotely clear caches and/or shut down parts of the mobile app in times of dire need.
+* With the best UX possible, we should be able to remotely clear caches and/or shut down parts of the mobile app in times of dire need (**The user will still have to update via the store in order to get the actual fix)**
 * This could be applied if we’re rolling out a major feature and need users to get it or if we need to roll a major feature back ASAP and we need user actions associated with it, or if an entire backend api is retired without alternative as we’ve seen the VA attempt in the past.
 
 
-**User outcomes:**
+**User Outcomes:**
 
 * In the event that there is a critical error, users aren’t subject to broken features, so their trust in our app & VA isn’t undermined.
 
 ### Content: 
 
-Need to Determine what dynamic messaging (Error Messaging) the user will receive when the feature is not available or in a "fix".
+Need to determine what message the user will experience when access is initiall restricted.
 
 ### Assumptions and Level of Confidence
 
@@ -60,8 +66,9 @@ Need to Determine what dynamic messaging (Error Messaging) the user will receive
 
 ### Risks
 
-1. Hindering veteran app experience is worse than some of the outcomes we are attempting to avoid, we will need to be clear where and what is being disabled and be as minimal as possible.
-2. We could execute and put in a medium technical lift for a protective feature we never use.
+1. Hindering veteran app experience is worse than some of the outcomes we are attempting to avoid.  We will need to be clear where and what is being disabled and be as minimal as possible.
+   
+3. We could execute and put in a medium technical lift for a protective feature we never use.
 
 
 ### Business Goals
@@ -87,16 +94,14 @@ Need to Determine what dynamic messaging (Error Messaging) the user will receive
 * Being able to shut down certain problematic user flows
 
 
-### Technical Approach
-
-* Possibly via remote config, but I could see this as something baked into an API response using maybe error boundaries on the frontend (sprint o)
-* Establish sunsetting process where a feature toggle changes over to a “gateway”
+### Technical Approach (TBD)
 
 
 ### Measuring success (sprint o)
 
-* A safe assumption is we will only use this under direct circumstances, which in most situations will be lots of users are found to be crashing, and we’ll be able to see how many do so before we turn the mitigation on and extrapolate avoided crashes.
-* Measure how isolated we can specify app disruption?
+* Use remote recovery under direct circumstances, which in most situations will be lots of users are found to be crashing. Examine how many users before we turn the mitigation on and extrapolate avoided crashes.
+
+* Measure how isolated we can specify app disruption
 
 
 ### Open Questions  (From Initial Sprint O)
@@ -110,7 +115,6 @@ Need to Determine what dynamic messaging (Error Messaging) the user will receive
 
 
 ### Important Links
-
 
 
 * [Firebase Remote config](https://firebase.google.com/docs/remote-config/)
