@@ -127,12 +127,6 @@ We will expand this functionality to allow users to update email and other items
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) 
 
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-
 ---
    
 ## Screenshots
@@ -179,24 +173,4 @@ Step 3: Upon submit, users will be taken back to the screen in step 1 and now wi
 - Product POCs: Travis Cahill 
 
 </details>
-
-
-#### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
-  
-- Office/Department:
-- Contact(s): 
- 
-</details>
-
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
-
-
-<br>
----
----
 
