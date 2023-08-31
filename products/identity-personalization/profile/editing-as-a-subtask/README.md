@@ -3,17 +3,30 @@
 
 **Last updated: August 31, 2023 -- aupdated location**
 
-#### Overview
+## Table of Contents 
 
-- *Product: Notification Settings / Contact Information* 
-  - *Initiatives: Editing as a Subtask*
+## POCs
+
+- **Github labels**: authenticated-experience
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)  
+### Authenticated experience
+
+- [This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+
+
+
+## Overview
+
+There are several processes in the profile where editing another section or data point in a different part of the profile allows a user to access a more complete product. 
+
+As an example, if a user is missing a mobile phone number, when they navigate to the notification settings in the profile, they'll see an alert advising them to update their mobile phone number to access more of the notification settings. Instead of sending them to another section in the profile, this editing-as-a-subtask workflow can be worked in to quickly allow users to edit the missing information without a lot of navigation.
  
 ---
 
-## Outcome Summary
+### Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 
-During the [useability study to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), we noticed that users were struggling with the current update flow for updating email or mobile phone when attempting to view the notification settings. We will re-engineer the workflow for updating a user's contact information from the notifications setting page in order to reduce confusion for users.
+During the [useability study to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), we noticed that users were struggling with the current update flow for updating email or mobile phone when attempting to view the notification settings. The reengineered workflow reduces the cognitive load for updating data points that live elsewhere in the profile 
 
 **Related/Associated product(s)**
 
@@ -21,7 +34,7 @@ This sits between two products and allows users to "Edit as a Sub-Task". A user 
 - [Notification Settings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)
 - [Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
 
-## Problem
+## Problem Statement 
 > *Describe the challenge / pain point you seek to address.:* 
 
 Currently a mobile phone number is required in order to access the notification settings within the profile. For users who do not have a mobile phone number, the profile immediately shows the users a message advising them to input a mobile number to access the notification settings:
@@ -60,118 +73,42 @@ We'll hopefully see a reduced number of calls to the VA where users are seeking 
 Increased complexity for end users resulting in confusion, however, we're hopeful this change will reduce confusion.
 
 ---
-## Measuring Success
 
-### Objective #1: Streamline flow to add contact information from the Notifcations preferences page.
+## Projects 
 
-**KPI: See a decrease in ranking for referrals to Contact information from Notification preferences.**
 
-- [Contact information entrance page report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fcontact-information~2F&_r.tabId=navigationsummary/)
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|-------------|---------------|-------------------|
-|Ranking of Notification preferences as an entrance page to Contact information||||
+## Analytics / Measuring Success
 
-**KPI: Establish baseline metrics for number of saves of the add a mobile number form.**
 
-|KPI/metric|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|-------------|---------------|
-|Number of saves of the add a mobile number form (success)|||
-|Number of saves of the add a mobile number form (failures)|||
+## Feature Overview 
 
----
 
-## Discovery
-### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
-- **Value Risks** (will people use it): 
-  - Users leverage the current functionality, we're changing how that current feature works to make it a better user experience, so yes users will continue to leverage it
 
-- **Usability Risks** (can people figure out how to use it):
-  - This improves upon the current feature, since users have struggled when the feature in production navigates them to the contact information page, this is an attempt to reduce some of the context switching an end user may experience.  
+## Feature Overview
 
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+### What to know about this feature
 
-We've built this and it's in staging currently. 
-  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
 
-### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+## Backend
 
-We're creating this new flow that can be used for other updates to key information in the profile. This could theoretically be used at other locations accross va.gov 
-We will expand this functionality to allow users to update email and other items, but for now we're beginning with just the mobile phone number updates. 
 
-#### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
---- 
+### How to Access and Test
 
-## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
-- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58231)
-- [collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58231)
+## Frontend
 
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) 
 
----
-   
-## Screenshots
+## Design & UX
 
-### Before
-[Use Case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-missing-contact-info.md)
 
-Step1:
-https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/uuid/EFD07E4E-8467-4542-A9C6-0184B4536E4B
 
-Step2: 
-Not shown but the process jumps the user to the contact screen and scrolls them to the mobile phone number and they have to then select edit and input their information
+### Flow diagrams
 
-### After
-Overall: https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d 
-[user flow](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/293F15EA-9CCC-466C-A3B7-3E54E3111676/canvas)
 
-Step1: https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/uuid/EFD07E4E-8467-4542-A9C6-0184B4536E4B
 
-Step 2: https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/uuid/4190DD48-3E42-4579-9AB5-16836A8E8762
 
-Step 3: Upon submit, users will be taken back to the screen in step 1 and now will be able to edit/access the notification settings 
-
----
-#### Team Members
-
-<details>
- 
- - DEPO Lead: Chante Lantos-Swett (in for Samara Strauss) 
- - PM: Travis Cahill
- - Engineering: Adam Whitlock [FE]
- - Research/Design: Liz Lantz
- 
-</details>
-
-#### Communications
-*Where will you discuss this initiative?*
-
-<details>
-
-- Team Name: AE Profile
-- GitHub Label(s): @auth-exp-profile
-- Slack channel: accountexp-authexp
-- Product POCs: Travis Cahill 
-
-</details>
 
