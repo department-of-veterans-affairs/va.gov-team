@@ -17,9 +17,13 @@ For every 1 application submitted, a request was made through the staging VA.gov
 
 #### Background
 
-1.1mb File size used for document uploads to attach with the 10-10EZ
-Test was run with 750 users at 10 per second, and again at 2 per second.
-Failures increased as users increased, there were errors with the file upload api when many simultaneous connections are made
+- File size 1.1mb used for document uploads to attach with the 10-10EZ
+- Test was run with 750 users at 10 per second, and again at 2 per second.
+
+1. When many simultaneous connections are made to the file upload api, the postgres error "FATAL:  remaining connection slots are reserved for non-replication superuser connections" occurs. 
+- File uploads will fail until the load decreases to the point where the postgres connections are no longer maxed out.
+
+2. It looks like all of the async form submissions failed with the ambiguous error from ES "Form data is failed to save in the system". This may not be a real error that users can experience, and it might be caused by the form being generated from a script rather than created by the frontend. The previous async test also had all the submissions fail because the spouse social security number was missing, and that error wouldn't occur on the real form because the frontend would require that field.
 
 **750 users at 10 per second**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/7b9b023e-3c3c-473c-bdea-eb13b6461353)
@@ -94,7 +98,10 @@ Staging environment
 |POST v0/health_care_applications | 1598| 6  |  2 request per second |
 |GET v0/maintenance_windows  | 100  | 0   | 2 request per second |
 
-**INSERT IMAGES HERE**
+
+These are the results for form submissions that all include a 5mb file upload: 249 requests at a rate of 0.42 requests per second and 16 failures. There were some failures but since we have a retry system they should all go through in the end.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/58eab16e-31dd-4655-a77f-da6918f3c621)
+
 
 
 
