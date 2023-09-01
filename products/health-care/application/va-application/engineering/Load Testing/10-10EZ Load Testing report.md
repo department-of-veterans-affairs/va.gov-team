@@ -42,7 +42,7 @@ For every 1 application submitted, a request was made through the staging VA.gov
 |GET v0/maintenance_windows  | 344  | 22   | 2 request per second |
 #### Resolution
 
-...
+Changes(?) need to made to both vets-api and devops repos to test on preprod
 
 
 ## Baseline:
