@@ -1,7 +1,7 @@
 # Content guidance on FAQs (Working document)
 
 ## Problem and goals
-The Resources & Support section of VA.gov relies heavily on Q&As and multiple FAQ pages, especially for reusable content. At this time the single Q&A is the only available reusable comment (currently reusable within R&S only). But FAQs can create UX issues as well as issues with duplicative content (i.e. content framed as a question in one location and a section of content in another location). We want to document guidance for VA.gov content contributors so they can determine when an FAQ may be appropriate (and when another solution may be the answer) and how to structure Q&As and multiple FAQ pages that provide value when appropriate.
+The Resources & Support section of VA.gov relies heavily on Q&As and multiple FAQ pages, especially for reusable content. At this time the single Q&A is the only available reusable content type, currently reusable within Campaign Landing Pages, Benefit Detail Pages, FAQs, & Resources & Support. But FAQs can create UX issues as well as issues with duplicative content (i.e. content framed as a question in one location and a section of content in another location). We want to document guidance for VA.gov content contributors so they can determine when an FAQ may be appropriate (and when another solution may be the answer) and how to structure Q&As and multiple FAQ pages that provide value when appropriate.
 
 ## When and how to use FAQs for Veteran- and beneficiary-facing VA content
 
