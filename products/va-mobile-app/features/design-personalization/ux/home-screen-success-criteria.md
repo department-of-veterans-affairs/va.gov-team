@@ -1,12 +1,16 @@
 # DRAFT VA Mobile App: Personalized Home Screen UI - Explorations, Audit & Refinement
 September 2023
 
+## Explorations
+TBD
 
-#### Guidelines for choosing a personalized home screen design direction
+## Audit
+TBD
+
+### Guidelines for choosing a personalized home screen design direction
 Choosing a design direction for the personalized home screen involves balancing user, business, and technical considerations. We will use the following criteria as a guide to systematically audit our personalized home screen design explorations and narrow options down to the direction/s we intend to move forward with.
 
 ## Criteria for Evaluating Personalized Home Screen Approaches
-
 ### Business Goals
 
 
