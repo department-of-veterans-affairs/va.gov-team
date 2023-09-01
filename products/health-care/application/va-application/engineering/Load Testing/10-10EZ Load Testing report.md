@@ -40,6 +40,14 @@ For every 1 application submitted, a request was made through the staging VA.gov
 |POST v0/hca_attachments | 7,286 |  2,122   | 2 request per second |
 |POST v0/health_care_applications | 7,262 | 373 |  2 request per second |
 |GET v0/maintenance_windows  | 344  | 22   | 2 request per second |
+
+**500 users at 2 per second**
+| Endpoint           | # Requests | # Failures |  Requests / s |
+| ------------------ | ---------- | ---------- |  ------------ |
+|POST v0/hca_attachments | 6,486 |  1,566   | 2 request per second |
+|POST v0/health_care_applications | 6,824 | 23 |  2 request per second |
+|GET v0/maintenance_windows  | 322  | 0   | 2 request per second |
+
 #### Resolution
 
 Changes(?) need to made to both vets-api and devops repos to test on preprod
