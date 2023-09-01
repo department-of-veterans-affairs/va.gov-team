@@ -1,5 +1,5 @@
 # DRAFT VA Mobile App: Personalized Home Screen UI - Explorations, Audit & Refinement
-August 2023
+September 2023
 
 
 #### Guidelines for choosing a personalized home screen design direction
