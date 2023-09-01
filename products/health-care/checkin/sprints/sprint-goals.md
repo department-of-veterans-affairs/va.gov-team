@@ -22,9 +22,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: [Comply with ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
     - **Sub Goal: Perform Compliance Tasks**
-       - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Compile Evidence - Rows 101 - 200](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64670)
-       - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Compile Evidence - Rows 201 - 300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64669)
-       - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Compile Evidence - Rows 301 - 400](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64668) 
+       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Compile Evidence for 20 Dev Rows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64666)
 - **GOAL: Make submission of a travel reimbursement claim easier**          
    - **Sub Goal: Evolve travel reimbursement during online check-in**
       - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
