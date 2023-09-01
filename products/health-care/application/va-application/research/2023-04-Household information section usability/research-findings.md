@@ -100,9 +100,9 @@ We conducted hour-long moderated usability tests on Zoom from August 14-August 2
 Participants seemed to have no trouble editing and removing dependents from their application, stating they found both the interaction with this new pattern to be clear and intuitive.
 
 **Finding detail**
-- Stats
+- All participants successfully edited dependents and removed dependents.
 
-> P#: "Quote."
+> P6: "There is no problem in editing any of it, don't see any difficulting in that"
 
 
 
