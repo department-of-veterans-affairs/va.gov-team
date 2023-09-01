@@ -67,5 +67,5 @@ VHA HEC VHIC Program Team <VHAHECVHICProgramTeam@va.gov>,
 The individuals identified as key stakeholders who would have access to more information on VHIC were emailed to confirm if they could be used as authoritative identity documentation and how many were in circulation. Follow up messages were sent to the group on 8/24/2023 and 8/30/2023; no responses received. 
 
 #### 08/28/2023-Secondary Research 
-OCTO Data was found on the magnitude of VHIC Cards provided in FY19 and FY20:
+OCTO Data was found on the magnitude of VHIC Cards provided in FY19 and FY20 and will be used to inform next steps. Login.gov Adoption team will verify the use of VHIC cards with NIST and 6510 specifications. 
 [FY19: 618,274; FY20 – May 2020: 382,422](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/2)
