@@ -1,8 +1,8 @@
 # Ask VA replies from 3-10-22 to 8-10-23
-Last updated: 8/30/23
+Last updated: 9/1/23
 
 ## Overview
-After a person submits an inquiry through the Ask VA form, they may be able to reply to their inquiry. They can reply as an unauthenticated or authenticated user. Inquiries are linked to VA business line queues in the CRM system. Business lines can enable or disable submitter replies to inquries.
+After a person submits an inquiry through the Ask VA form, they may be able to reply to their inquiry. They can reply as an unauthenticated or authenticated user. Inquiries are linked to VA business line queues in the CRM system. Business lines can enable or disable submitter replies to inquries. Most queues in CRM accept replies.
 
 We wanted to understand the volume of replies coming through the AVA system. This would help us understand the extent to which submitters use the reply feature in AVA.
 The initial data supports our recommendation to continue allowing submitters to reply to inquiries both via email and the AVA dashboard. However, we still need to clarify some open data questions below.
@@ -38,6 +38,8 @@ The data excludes replies:
 The data includes replies:
   - From the AVA system
   - From submitters where replies are enabled or inside the reply period
+
+Note: The category in the data is the LAST category that an inquiry lands at after potentially being rerouted.
 
 ## Data
 View the data visualizations in [this Excel Workbook in SharePoint](https://dvagov.sharepoint.com/:x:/s/AskVA/EbIIkhfb97tHgYDNTpi-0dwBczvE1XhORBAifF-QFCqGtg?e=fUAXAD). 
