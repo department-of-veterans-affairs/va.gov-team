@@ -7,7 +7,7 @@ on:
 jobs:
   filter_labeled_issue:
     name: Checks if the issue is part of a collab cycle touchpoint
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Check if label matches target
         run: |
