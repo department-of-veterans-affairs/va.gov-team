@@ -2,12 +2,11 @@
 Last updated: 9/1/23
 
 ## Overview
-We recommend continuing to allow submitters to reply to inquiries both by email and the AVA dashboard in Phase 1. This comes after reviewing the extent to which submitters use the reply feature as well as understanding security risks with allow unauthenticated resplies. 
+We recommend continuing to allow submitters to reply to inquiries both by email (unauthenticated) and the AVA dashboard (authenticated) in Phase 1. We reviewed: 
+- The extent to which submitters use the reply feature
+- Security risks with allowing unauthenticated resplies
 
-## Key takeaways
-- There is a significant number of total replies sent from submitters and the AVA system.
-- Inquiries in the `Education` category have the most replies.
-- "Business" inquiries are concentrated in `Education`, `Compensation`, and `Veterans Affairs - Debt`.
+Disabling email replies will have a larger impact on the unauthenticated submitter experience and on categories that receive more unauthenticated replies than authenticated.
 
 ## Background
 After submitting an inquiry, a submitter can possibly follow-up with their inquiry with a reply. They can reply in two ways: 
@@ -16,29 +15,28 @@ After submitting an inquiry, a submitter can possibly follow-up with their inqui
 
 Inquiries are linked to VA business line queues in the CRM system. Business lines can enable or disable whether a submitter can reply to an inqury. Most queues in CRM accept replies but some don't.
 
-## Research question
-What is the current volume of replies from submitters?
-- By category
-- By unauthenticated and authenticated users
-
-We want to understand the extent to which submitters use the reply feature in AVA.
-
 ## Recommendations
 |Phase|Recommendation|
 |:--|:--|
 |Phase 1|Continue to allow submitters to reply to inquiries via email (unauthenticated) and the AVA dashboard (authenticated).|
-|Phase 2 and beyond|Identify security risks with allowing unauthenticated submissions. Determine ways to mitigate risk while still prioritizing a simple, easy user expereince for submitting inquiries.|
+|Phase 2 and beyond|Determine ways to mitigate risk of replies from unauthenticated users while still prioritizing a simple, easy user expereince for submitting inquiries.|
+
+## Key takeaway 1: The percentage of replies from unauthenticated vs. authenticated users varies greatly by category.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135838070/d00dccad-c70c-4d83-a7b4-2624b8ed1957)
+
+## Key takeaway 2: Out of total replies from submitters, 88% come from authenticated users and 12% come from unauthenticated users.
+Note: This is largely due to a higher number of replies that come through categories like `Education`, `Compensation`, and `Debt`.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135838070/35c9a7c8-8ba2-48e5-893f-274ce2fee157)
+
+## Key takeaway 3: Distribution of replies by category is uneven.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135838070/074da549-d232-402f-8dbf-d8075fa48c01)
+
 
 ## Risks
 - Submitters who don't log in can submit an inquiry or reply to an inquiry with PII/PHI in the response.
 - Asking submitters to authenticate is an extra step that places additional burden on submitters.
 - Submitters can reply with email attachments, which may contain viruses or malware.
 - Submitters could flood the email inbox with replies. 
-
-## Open data questions
-- Are the Business or Personal authentication levels for unauthenticated or authenticated submitters or both?
-- What is the # of inquiries from 3/10/22 to 8/10/23 that allow replies (so we can understand % of inquires that received a reply)?
-- Why are there unauthenticated replies for the categories that only allow authenticated submitters (Education and Debt)?
 
 ## Notes on the data
 The data excludes replies: 
@@ -53,27 +51,7 @@ The data includes replies:
 Note: The category in the data is the LAST category that an inquiry lands at after potentially being rerouted.
 
 ## Data
-View the data visualizations in [this Excel Workbook in SharePoint](https://dvagov.sharepoint.com/:x:/s/AskVA/EbIIkhfb97tHgYDNTpi-0dwBczvE1XhORBAifF-QFCqGtg?e=fUAXAD). 
+View the data visualizations in [this Excel Workbook in SharePoint](https://dvagov.sharepoint.com/:x:/s/AskVA/Eb9YcXZwO_pEjXpqnJt3PDEBYvC_2U8TI2sA-ID2HSVyYw?e=SJh3lA).
 Make sure you're connected to the VA network to open it.
-
-### Total replies from 3/10/22 to 8/10/23
-- 68264
-
-### (1 year) Replies from 3/10/22 to 3/10/23
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135838070/abecbaf1-4708-4ac9-a20a-9f2d449d52fa)
-
-### (5 months) Most replies from 3/10/23 to 8/10/23	
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135838070/d6d081a4-f0cf-4a61-9e32-71f0d6371a92)
-
-
-### Replies by Category from 3/10/22 to 8/10/23
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135838070/acf43d61-ec24-44fb-884c-aaf18d4db702)
-
-### Replies by Authentication level and Category from 3/10/22 to 8/10/23
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135838070/310b1409-35ba-4497-b110-e0e5c8a47e25)
-
-### Replies by Authentication level from 3/10/22 to 8/10/23	
-Note: "Personal" and "Business" depends on if "My inquiry is:" == "For the dependent of a Veteran" or "On behalf of a Veteran"	
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135838070/422f00dc-ec39-4cd3-a851-ca3e171d9379)
 
 
