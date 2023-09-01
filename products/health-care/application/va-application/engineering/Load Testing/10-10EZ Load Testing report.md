@@ -19,6 +19,7 @@ For every 1 application submitted, a request was made through the staging VA.gov
 
 1.1mb File size used for document uploads to attach with the 10-10EZ
 Test was run with 750 users at 10 per second, and again at 2 per second.
+Failures increased as users increased.  
 
 **750 users at 10 per second**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/7b9b023e-3c3c-473c-bdea-eb13b6461353)
@@ -43,7 +44,8 @@ Test was run with 750 users at 10 per second, and again at 2 per second.
 ## Baseline:
 
 In production during the last week (8/20/23-8/26/23), there was 4180 successful submissions and 4 failures.
-
+Over the last 7 months, there is a daily submission average of 6 applications that include file attachments for the 10-10EZ.  
+- The 7 month total 1,468 submissions with attachments/7 month total 91,187 submissions = 1.6% of submissions include an attachment.
 
 ## Test Run on Enrollment & Eligibility endpoint: Production Load Test
 
@@ -62,6 +64,19 @@ Staging environment
  This endpoint connects to both the HCA E&E API and the MPI API. There were no errors. The MPI data in the screenshot is for a fake test user, not real PII.
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/922286fe-f94f-4a60-a4c4-564ce1eda51c)
+
+### cpu load
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/ff61a1f6-a8d8-42a8-9089-e1c340a62f0c)
+
+### api latency
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/b481f6aa-ffcd-4045-8655-649364b4c691)
+
+### network bytes sent
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/1234e96a-ee50-4d05-9e14-943e103404fc)
+
+### network bytes received
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/1b9d458f-36c0-4197-bc82-03a335220b10)
+
 
 ## Test Run on Submissions and document uploads: Production Load Test
 
@@ -89,15 +104,12 @@ Multi-threaded [Locust](https://locust.io) instance with XX threads and XXXX sim
 
 ### Summary
 
-XXXXX
-The 10-10EZ application’s performance is very good, with an acceptably low failure rate and very good average response times of below 300ms for both the creation API and end-user facing service. Proceeding with implementation is recommended.
+The 10-10EZ application’s performance is very good, with an acceptably low failure rate and ...... 
+We are confident that the application is ready to support the increased traffic that is expected with the PACT Act special enrollment period.
 
 
 ### Additional conclusions
 
-With somewhat north of XXX 10-10EZ Applications started and submitted during testing with no retrieval errors, race conditions or hash collisions do not appear to be an issue.
-
-As with any API, callers of the service should be able to tolerate occasional faults and implement retry logic, fail gracefully or both. A relatively short client timeout of ~5s is recommended when calling this API, since the general response time is extremely quick (99.99 percentile response time of 2300ms under heavy load) and a request that doesn’t succeed within a few seconds is quite unlikely to succeed at all.
 
 
 ## Supporting Materials
