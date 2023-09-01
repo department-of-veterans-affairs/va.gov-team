@@ -27,11 +27,11 @@ VA Product Owner = Dave Conlon (@davidconlon)
 | [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging)|
 | [Event](#event-detail-page) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
 | [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
-| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Offices](#offices) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
+| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
 | [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | [React widgets governance](#react-widgets-governance)|
-| [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
+| [VA.gov Homepage](#vagov-homepage) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
 | [Promo Banner](#promo-banner) |  [Unauthed React widgets](#unauthed-react-widgets) |  .  |
-| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) |[VA.gov Homepage](#vagov-homepage) | . |
+| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Q&A - single](#qa---single) |  [Veterans Crisis Line modal](#veterans-crisis-line-modal) | . |
 | [Resources & Support detail page](#resources-and-support-detail-page) | . | .  |
 
