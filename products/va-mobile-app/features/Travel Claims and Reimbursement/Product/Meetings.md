@@ -12,7 +12,8 @@
 
 3/21 SoS Meeting agenda: 
  * Travel Claims and reimbursement was a topic with Chris J
- * Travel Reimbursement Step 1 review - Adam https://docs.google.com/presentation/d/1ji1PNrOeGUAkTFvij_2N2uw5jxKR6BPdpx4EgpolY0I/edit#slide=id.g201aab40dc3_0_13
+ * Travel Reimbursement Step 1 review - Adam [Travel Claims and Reimbursement Step 1 Product Canvas.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12499886/Travel.Claims.and.Reimbursement.Step.1.Product.Canvas.pdf)
+
  * OCTO trying to get API team to refocus on Travel but they are still working on other priorities
  * Real time API may not be available until end of Summer 2023
  * Are there other versions of this API that will be available sooner?
