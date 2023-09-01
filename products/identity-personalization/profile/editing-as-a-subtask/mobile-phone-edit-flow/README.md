@@ -1,5 +1,5 @@
 # Initiative Brief: Editing as a Sub-Task 
-### Initial Launch with Mobile Phone Update 
+### Initial Launch with Mobile Phone Number Add/Update 
 
 **Last updated: August 31, 2023 -- updated location and added important artifacts**
 
