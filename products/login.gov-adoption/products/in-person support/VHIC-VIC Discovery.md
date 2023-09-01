@@ -1,16 +1,17 @@
-##VHIC and VIC Discovery for In-Person Proofing
+## VHIC and VIC Discovery for In-Person Proofing
 
-Updated as of 09/01/2023
+*Updated as of 09/01/2023*
 
-Overview
+### Overview
 Discovery research was conducted to understand the feasibilty of using VHIC and VIC cards as forms of identity documentation in In-Person Proofing within the Identity toolkit for Login.gov. These forms of identification were selected given the assumption that expanding the options of identity documents for in-person proofing may ease barriers for Veterans to complete identity verification in person. Secondary research and meetings with internal VA stakeholders were conducted to confirm our hypothesis and help inform next steps in integrating VHIC or VIC cards as a component of in-person proofing for Login.gov Adoption. 
 
-Hypothesis
+### Hypothesis  
+
 VHIC or VIC cards can make it easier for Veterans to complete in person identity proofiing because they are more widely held and can serve as authoritative identity document. 
 
-Stakeholder Discovery
+### Stakeholder Discovery
 
-08/11/2023-VHIC/VIC Discussion (Zoom Meeting with Login.gov Stakeholders)
+#### 08/11/2023-VHIC/VIC Discussion (Zoom Meeting with Login.gov Stakeholders)
 Attendees:
 Benjamin Chait - QQ2D <benjamin.chait@gsa.gov>,
 Carrie McGrath - QQ2C <carrie.mcgrath@gsa.gov>,
