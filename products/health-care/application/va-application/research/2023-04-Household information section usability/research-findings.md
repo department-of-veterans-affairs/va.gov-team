@@ -135,9 +135,9 @@ Our Veteran participants mentioned want to get things correct, reading content c
 Several Veterans mentioned they know their income and household information will be verified by the IRS. Filling out this portion of the form that the IRS already has data on seemed unnecessary.
 
 **Finding detail**
-- Stats
+- Three out of seven participants mentioned how the VA should pull income data from the IRS.
 
-> P#: "Quote.”
+> P4: "Ok, so you are going to ask me about all my financial information. But the note says you verify wiht the IRS, why do I need to provide it? If the VA is going to go to the IRS to verify my income and social security (it doesn't say that but I know they do) Why do I need to provide it?”
 
 
 **Veterans want transparency into lengthy, messy VA processes.**
