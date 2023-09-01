@@ -37,6 +37,7 @@ Conversion notes:
 
 * In the last 90 days (as of 2/9/21), secure messaging had 653,357 pageviews, ranking in third place after the MHV homepage (2.567M) and the MHV login page (814,942). 
     * Source: [Google Analytics ](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/)
+    * Mobile has sense updated the dashboard - reach out in DSVA Slack chanel - va-mobile-app-analytics with questions
 
 **What percentage of users have sent more than 1 message in the last 30 and 365 days?**
 
