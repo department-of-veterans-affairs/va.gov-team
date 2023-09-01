@@ -34,33 +34,35 @@ All in one file, on one tab
 
 [Your VA email address]
 
-| Medallia Feedback - Dates         | Submitted by     | Status       |
+## Medallia Feedback Requests - Q3 2023
+
+| Dates                             | Submitted by     | Status       |
 |-----------------------------------|------------------|--------------|
-| July 1 - 30th                     | Leah De La Costa | ✅GH#62829    |
-| Week July 31 - August 4th         | Leah De La Costa | ✅GH#63215    |
-| Week August 5th- 13th             | Peter Russo      | GH#63535      |
-| Week August 14th- 20th            | Melissa Lefevre  | #63912        |
-| Week August 21st - 27th           | Peter Russo      | 64324         |
-| Week August 28th - September 3rd  | Peter Russo      |          |
-| Week September 4th - 10th         | Peter Russo      |           |
-| Week September 11th - 17th        | Peter Russo      |               |
-| Week September 19th 24th          |                  |               |
-| Week September 25th - October 1st |                  |               |
-| Week October 2nd - 8th            |                  |               |
-| Week October 9th - 15th           |                  |               |
-| Week October 16th - 22nd          |                  |               |
-| Week October 23rd - 29th          |                  |               |
-| Week October 30th - November 5th  |                  |               |
-| Week November 6th - 12th          |                  |               |
-| Week November 13th - 19th         |                  |               |
-| Week November 20th - 26th         |                  |               |
-| Week November 27th - December 3rd |                  |               |
-| Week December 4th - 10th          |                  |               |
-| Week December 11th - 17th         |                  |               |
-| Week December 18th - 24th         |                  |               |
-| Week December 25th - 31st         |                  |               |
-| Week January 1st - 7th            |                  |               |
-| Week January 8th - 14th           |                  |               |
-| Week January 15th - 21st          |                  |               |
-| Week January 22nd - 28th          |                  |               |
-| Week January 29th - February 4th  |                  |               |
+| July 1 - 30th                     | Leah De La Costa | ✅ 62829     |
+| Week July 31 - August 4th         | Leah De La Costa | ✅ 63215     |
+| Week August 5th- 13th             | Peter Russo      | ✅ [63535](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63535)      |
+| Week August 14th- 20th            | Melissa Lefevre  | ✅ [63912](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63912)        |
+| Week August 21st - 27th           | Peter Russo      | ✅ [64324](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64324)         |
+| Week August 28th - September 3rd  | Peter Russo      |  |
+| Week September 4th - 10th         | Peter Russo      |  |
+| Week September 11th - 17th        | Peter Russo      |  |
+| Week September 19th 24th          | Melissa Lefevre  |  |
+| Week September 25th - October 1st | Melissa Lefevre  |  |
+| Week October 2nd - 8th            | Melissa Lefevre  |  |
+| Week October 9th - 15th           | Melissa Lefevre  |  |
+| Week October 16th - 22nd          | Peter Russo      |  |
+| Week October 23rd - 29th          | Peter Russo      |  |
+| Week October 30th - November 5th  | Peter Russo      |  |
+| Week November 6th - 12th          |                  |  |
+| Week November 13th - 19th         |                  |  |
+| Week November 20th - 26th         |                  |  |
+| Week November 27th - December 3rd |                  |  |
+| Week December 4th - 10th          |                  |  |
+| Week December 11th - 17th         |                  |  |
+| Week December 18th - 24th         |                  |  |
+| Week December 25th - 31st         |                  |  |
+| Week January 1st - 7th            |                  |  |
+| Week January 8th - 14th           |                  |  |
+| Week January 15th - 21st          |                  |  |
+| Week January 22nd - 28th          |                  |  |
+| Week January 29th - February 4th  |                  |  |
