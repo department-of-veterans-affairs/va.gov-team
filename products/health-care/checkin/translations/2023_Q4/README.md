@@ -8,5 +8,6 @@
 
 ### Tagalog
 - [LS-2022-0118394-B-TAG-FINAL_Modernized check-in Tagalog.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/2023_Q4/LS-2022-0118394-B-TAG-FINAL_Modernized%20check-in%20Tagalog.json)
+- [LS-2022-0118394-C-TAG-FINAL_BTSSS%20JSON text messages for travel pay.json](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/2023_Q4/LS-2022-0118394-C-TAG-FINAL_BTSSS%20JSON%20text%20messages%20for%20travel%20pay.json)
 
 ## QA Screenshots sent to the State Department
