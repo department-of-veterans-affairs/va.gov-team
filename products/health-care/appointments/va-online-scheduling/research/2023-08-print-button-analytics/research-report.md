@@ -1,31 +1,48 @@
 # Print Button Analytics and Feedback
 
-## User Feedback
-Since January, the number of comments around printing has been minimal, with the exception of March.
+## Google Analytics Usage Data
+Veterans immediately started using the print button when it was released on 08/02/2023. Clicks started that day and continued at a steady pace throughout the month, averaging between 1-200 per day.
 
-### All feedback
+Veterans on desktop computers were the biggest users, followed by tablet and mobile.
 
-August 
+This chart shows the number of clicks from July 28th to August 21st, 2023 across different device types:
+
+<img width="1620" alt="A chart showing clicks of the print button from July 28th to August 21st 2023. A table below the chart shows Desktop users clicked the feature the most, followed by tablet and mobile users." src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/2536801/d6ccfa06-e17a-46a3-a570-30c91557dece">
+
+## What they printed
+
+Most Veterans printed the upcoming appointments screen, followed by past appointments and pending.
+
+This chart shows the number of clicks from July 28th to August 21st, 2023 across different pages:
+
+<img width="1626" alt="A table showing clicks of the print button from July 28th to August 21st 2023 by page. Most users clicked on the print button from the upcoming appointments page followed by past and pending" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/2536801/04f677ca-c161-4282-8707-e47b57d4864e">
+
+## Comparative usage
+
+Compared to the "Start scheduling" button, which is one of the most-often used features in VAOS, the Print feature was clicked about 3% as often as "Start scheduling":
+
+<img width="1619" alt="A chart showing clicks of the Start scheduling button from July 28th to August 21st 2023. A table below the chart shows that there were 179,763 clicks in the same time period" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/2536801/d9121957-255f-48bb-97ce-43e288d5686e">
+
+## Medallia Feedback
+Since January, the number of comments around printing has been minimal, with the exception of March. August is TBD, I'll add data once we have the final feedback in next week.
+
+### All Comments
+
+**August** 
 
 No mention of printing. 
 
- 
 
-July 
+**July** 
 
 1 Neg/1Pos 
 
-  
-
 (POS) 
 
-What task were you trying to do today? 
-
-Print my appointments 
-
-Were you able to do your task today? 
-
-Yes 
+_What task were you trying to do today?_  
+Print my appointments  
+_Were you able to do your task today?_   
+Yes  
 
   
 
