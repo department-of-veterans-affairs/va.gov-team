@@ -34,7 +34,7 @@ On the VAOS homepage, the app displays the following for each status:
   - Tester will validate that they could view the After Visit Summary link on the Past appointments details page
     - [ ] Past booked VA appointment - in person (at a Facility) 
 
-- [ ] Use Case 3 - Validate there is no After VisitSsummary link on the Past appointment details page
+- [ ] Use Case 3 - Validate there is no After Visit Summary link on the Past appointment details page (no alert in the response)
 
      Configuration setup in test environment must include: 
   - [ ] Test user must NOT have an After Visit Summary linked to the appointment response (appointment IEN) 
@@ -43,8 +43,16 @@ On the VAOS homepage, the app displays the following for each status:
   - Tester will validate that there is no After Visit Summary link available on the Past appointment details page
     - [ ] Past booked VA appointment - in person (at a Facility) 
      
+- [ ] Use Case 3 - Validate there is a broken link in the appointment response and the UI is displaying an alert message on the Past appointment details page (must trigger an alert in the response)
 
-### User flow
+     Configuration setup in test environment must include: 
+  - [ ] Test user must have an After Visit Summary alert in the response body [details in the controller???]
+
+* **Description**
+  - Tester will validate that there is no After Visit Summary link available on the Past appointment details page
+    - [ ] Past booked VA appointment - in person (at a Facility)
+    - [ ] 
+### User flow (confirm with Ciera and Peter)
 - [X] [Figma file](https://www.figma.com/file/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?type=design&node-id=2012%3A35639&mode=design&t=TWu7CJ3mbxrLx9YS-1) 
 
 ### Reference (if applicable) 
@@ -52,16 +60,16 @@ On the VAOS homepage, the app displays the following for each status:
 ### Test Users 
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
-### Summary Defect Report
+### Summary Defect Report (Jeff can add any FE defects) 
 - [ ] Summary Defect Report 
 
-### Traceability Report 
+### Traceability Report (Simi & Corey to add)
 - [ ] [VAOS](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
 
-### E2E tests 
+### E2E tests (Simi & Corey to add)
 - [ ] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
 - [ ] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components/AppointmentsPageV2)
 
-### Code coverage
+### Code coverage (Simi & Corey to add)
 - [ ] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
 - [ ] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components/AppointmentsPageV2)
