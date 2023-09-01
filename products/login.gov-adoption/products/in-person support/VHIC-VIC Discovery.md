@@ -12,7 +12,8 @@ VHIC or VIC cards can make it easier for Veterans to complete in person identity
 ### Stakeholder Discovery
 
 #### 08/11/2023-VHIC/VIC Discussion (Zoom Meeting with Login.gov Stakeholders)
-Attendees:
+Attendees:  
+
 Benjamin Chait - QQ2D <benjamin.chait@gsa.gov>,
 Carrie McGrath - QQ2C <carrie.mcgrath@gsa.gov>,
 Dawn Muñoz <dawn@themostudio.com>,
@@ -25,26 +26,27 @@ Overview and Findings
 Initiate conversations with Login.gov stakeholders to understand level of knowledge around VHIC and VIC as a valid form of identification for identity proofing. Discovered that many do not understand the difference between VHIC and VIC cards, the level of authentication done to obtain either thus their security as a viable form of identification documents, and the quantity in ciruclation. Follow up secondary research needed with VA stakeholders to answer these questions.
 
 08/14/2023-Login.gov Exploring VHIC and VIC (Email)
-Contacts Made:
-"Horne, Edward, MS" <Edward.Horne@va.gov>,
-Keith.Russ@va.gov
-"Rebstock, Melissa, VBASPT" <Melissa.rebstock@va.gov>,
-"Baker, Laurie, VBAVACO" <laurie.baker@va.gov>,
-"Scruggs, Carnetta M" <Carnetta.Scruggs@va.gov>,
-"Antiporta, Michael" <Michael.Antiporta@va.gov>,
-"Alexanderson, Lauren" <Lauren.Alexanderson@va.gov>,
-"Lantos-swett, Chanteclaire E. (she/her/hers)" <Chante.LantosSwett@va.gov>,
-"Burlage, Molly K." <Molly.Burlage@va.gov>,
-"Tremble, Tarsha Y." <Tarsha.Tremble@va.gov>,
-"Philip, Sophia V. (magnum Opus, Llc)" <SOPHIA.PHILIP@va.gov>,
-"porta@themostudio.com" <porta@themostudio.com>,
-"Rahaghi, John" <John.Rahaghi@va.gov>,
-"Whitfield, Tiki" <Tiki.Whitfield@va.gov>,
-"Black, Thomas M." <Thomas.Black2@va.gov>,
-"Munoz, Dawn J. (magnum Opus, Llc)" <DAWN.MUNOZ@va.gov>,
-Dawn Muñoz <dawn@themostudio.com>,
-"Martin, Reginald L." <Reginald.Martin@va.gov>,
-VHA HEC VHIC Program Team <VHAHECVHICProgramTeam@va.gov>
+Contacts Made:  
+
+"Horne, Edward, MS" <Edward.Horne@va.gov>,  
+Keith.Russ@va.gov  
+"Rebstock, Melissa, VBASPT" <Melissa.rebstock@va.gov>,  
+"Baker, Laurie, VBAVACO" <laurie.baker@va.gov>,  
+"Scruggs, Carnetta M" <Carnetta.Scruggs@va.gov>,  
+"Antiporta, Michael" <Michael.Antiporta@va.gov>,  
+"Alexanderson, Lauren" <Lauren.Alexanderson@va.gov>,  
+"Lantos-swett, Chanteclaire E. (she/her/hers)" <Chante.LantosSwett@va.gov>,  
+"Burlage, Molly K." <Molly.Burlage@va.gov>,  
+"Tremble, Tarsha Y." <Tarsha.Tremble@va.gov>,  
+"Philip, Sophia V. (magnum Opus, Llc)" <SOPHIA.PHILIP@va.gov>,  
+"porta@themostudio.com" <porta@themostudio.com>,  
+"Rahaghi, John" <John.Rahaghi@va.gov>,  
+"Whitfield, Tiki" <Tiki.Whitfield@va.gov>,  
+"Black, Thomas M." <Thomas.Black2@va.gov>,  
+"Munoz, Dawn J. (magnum Opus, Llc)" <DAWN.MUNOZ@va.gov>,  
+Dawn Muñoz <dawn@themostudio.com>,  
+"Martin, Reginald L." <Reginald.Martin@va.gov>,  
+VHA HEC VHIC Program Team <VHAHECVHICProgramTeam@va.gov>  
 
 Overview and Findings
 All individuas listed above were contacted to understand if VIC or VHIC cards we verified and distributed in a manner that would ensure they are authoritative identificatino documents, as well as the magnitude in circululation. Melissa Rebstock of VBASPT recommended against VIC as an ID for proofing purposes of identity for Login.gov because VIC does not do any in-person proofing and is only used as validation of Veteran status to partake in discounts at private retailers. Validation from an identity purpose is only through the login credentials used to access VIC. The VIC application process itself askes for a current government ID only to ensure the personal photo being applied to the VIC matches their government identification. As for the VIC card itself, the photo on the VIC does not align to the same guidelines required for other official government identification cards, such as the VHIC, driver’s licenses, or passports. Additionally, VBASPT's office is looking to see if the legislative requirement for a photo on the card can be amended. Given this feedback, the decision was made to continue research into the feasibilty of only VHIC cards. A smaller group of VHIC specific stakeholders were identified for a follow up conversation. 
