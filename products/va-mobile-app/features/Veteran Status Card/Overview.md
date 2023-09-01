@@ -80,7 +80,7 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
  
 ## Important Links
 - [PO Product Brief ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/VIC/MobileVIC_ProductBrief.md) - this has original info from when ask was replacing VIC; changed with the MVP May 2023 addition to Veteran Status 
-- See[ Sprint 0 doc](https://docs.google.com/document/d/1Rg8dUiw7MtGlpnS5ZwdJUgmBF8Moi2JFC-aEaH-NvrQ/edit)
+- See Sprint 0 Doc [VIC Sprint 0.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12499912/VIC.Sprint.0.pdf)
 - [Reddit Thread ](https://www.reddit.com/r/Veterans/comments/14gbu7g/would_people_actually_believe_this_if_i_presented/)- Would ppl actual believe this is I presented it to them for the sake of a discount 
 - [Law H.R.91 - Veterans Identification Card Act 2015](https://www.congress.gov/bill/114th-congress/house-bill/91)
 - [List of current approved forms of Veteran ID](https://www.va.gov/records/get-veteran-id-cards/)
