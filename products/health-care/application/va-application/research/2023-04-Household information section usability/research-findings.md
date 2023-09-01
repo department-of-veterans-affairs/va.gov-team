@@ -112,9 +112,9 @@ Participants seemed to have no trouble editing and removing dependents from thei
 Some participants struggled with finding their dependents within the bulk of information on the Review page. Nearly every participant stated they would expand every section to review their submission, resulting in a large amount of content to search through.
 
 **Finding detail**
-- Stats
+- Five of the seven participants rated the page a 5 (out of 5) in terms of being prepared. The other two participants weren't asked the question.
 
-> P#: "Quote."
+> P1: "Acutally really prepared You can review everything, double check entries, if you messed up you can edit it right there."
 
 
 
