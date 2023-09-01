@@ -3,10 +3,9 @@
 
 ## Background
 
-In order to validate that the 10-10EZ form on VA.gov service can handle production loads, load testing was performed on 08/28/2023. Tests were performed to:
+In order to validate that the 10-10EZ form on VA.gov service can handle production loads, load testing was performed on 08/28/2023-8/31/2023. Tests were performed to:
 
-* test anticipated production loads
-* stress test at 150% of anticipated production loads
+* test anticipated production loads, at 10x the usual volume
 
 For every 1 application submitted, a request was made through the staging VA.gov reverse proxy to validate performance and that the applications were submitted successfully.
 
@@ -14,12 +13,13 @@ For every 1 application submitted, a request was made through the staging VA.gov
 ## Issues discovered during testing
 
 
-### ANY???
-
+### v0/hca_attachment fails at higher than 4 users per second
 
 #### Background
 
-...
+1.1mb File size used for document uploads to attach with the 10-10EZ
+Test was run with 750 users at 10 per second
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/7b9b023e-3c3c-473c-bdea-eb13b6461353)
 
 
 #### Resolution
@@ -27,68 +27,44 @@ For every 1 application submitted, a request was made through the staging VA.gov
 ...
 
 
-### ANY???
+## Baseline:
+
+In production during the last week (8/20/23-8/26/23), there was 4180 successful submissions and 4 failures.
 
 
-#### Background
-
-...
-
-#### Resolution
-
-...
-
-## Test Run #1: Baseline
+## Test Run on Enrollment & Eligibility endpoint: Production Load Test
 
 
 ### Configuration
 
-Single-threaded [Locust](https://locust.io) instance with XXX simulated user running for XXXX minutes in Ubuntu on GFE.
-
-
-### Results
-
-last week there was 4180 successful submissions in production and 4 failures
-
-
-## Test Run #2: Production Load Test
-
-
-### Configuration
-
-Single-threaded [Locust](https://locust.io) instance with XXXX simulated users running for XXXX minutes in Ubuntu on GFE.
-
+Staging environment
+4184/(7 * 24 * 60 * 60) = 0.0069/s, or 944x normal throughput
 
 ### Results
-
- 4114 test requests to the enrollment eligibility endpoint in the staging environment at a rate of 6.86 requests per second. This endpoint connects to both the HCA e&e api and the MPI API. There were no errors. The MPI data in the screenshot is for a fake test user, not real PII.
-
- so 4184/(7 * 24 * 60 * 60) = 0.0069/s, or 944x normal throughput
  
-| Endpoint           | # Requests | # Failures | Avg response (ms) | Requests / s |
-| ------------------ | ---------- | ---------- | ----------------- | ------------ |
-| XXXX               | XXXX       |  XXXX      |  XXXX             |  XXXX        |
-| XXXX               | XXXX       | XXXX       | XXXX              |  XXXX        |
+| Endpoint           | # Requests | # Failures |  Requests / s |
+| ------------------ | ---------- | ---------- |  ------------ |
+| Enrollment & Eligibility | 4,114  |  0      |   6.86/s        |
 
-**INSERT IMAGES HERE
+ This endpoint connects to both the HCA E&E API and the MPI API. There were no errors. The MPI data in the screenshot is for a fake test user, not real PII.
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/922286fe-f94f-4a60-a4c4-564ce1eda51c)
 
-## Test Run #3: Stress Test
+## Test Run on Submissions and document uploads: Production Load Test
 
 
 ### Configuration
 
 Multi-threaded [Locust](https://locust.io) instance with XX threads and XXXX simulated users running for XXXX minutes in Ubuntu on GFE.
-
+100 users at 2 requests per second
 
 ### Results
 
-| Endpoint           | # Requests | # Failures | Avg response (ms) | Requests / s |
-| ------------------ | ---------- | ---------- | ----------------- | ------------ |
-| XXXX               | XXXX       |  XXXX      |  XXXX             |  XXXX        |
-| XXXX               | XXXX       | XXXX       | XXXX              |  XXXX        |
-
+| Endpoint           | # Requests | # Failures |  Requests / s |
+| ------------------ | ---------- | ---------- |  ------------ |
+|POST v0/hca_attachements | 1535       |  13   | 2 request per second |
+|POST v0/health_care_applications | 1598       | 6       |  2 request per second |
+|GET v0/maintenance_windows  | 100  | 0   | 2 request per second |
 
 **INSERT IMAGES HERE - EXAMPLES BELOW**
 
