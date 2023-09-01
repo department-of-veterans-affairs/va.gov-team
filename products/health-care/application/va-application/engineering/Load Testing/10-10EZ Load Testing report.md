@@ -43,9 +43,9 @@ Failures increased as users increased, there were errors with the file upload ap
 
 ## Baseline:
 
-In production during the last week (8/20/23-8/26/23), there was 4180 successful submissions and 4 failures.
-Over the last 7 months, there is a daily submission average of 6 applications that include file attachments for the 10-10EZ.  
-- The 7 month total 1,468 submissions with attachments/7 month total 91,187 submissions = 1.6% of submissions include an attachment.
+- In production during the last week (8/20/23-8/26/23), there was 4180 successful submissions and 4 failures.
+- Over the last 7 months, there is a daily submission average of 6 applications that include file attachments for the 10-10EZ.  
+     - The 7 month total 1,468 submissions with attachments/7 month total 91,187 submissions = 1.6% of submissions include an attachment.
 
 ## Test Run on Enrollment & Eligibility endpoint: Production Load Test
 
@@ -83,7 +83,7 @@ Staging environment
 
 ### Configuration
 
-Multi-threaded [Locust](https://locust.io) instance with XX threads and XXXX simulated users running for XXXX minutes in Ubuntu on GFE.
+---
 100 users at 2 requests per second
 
 ### Results
