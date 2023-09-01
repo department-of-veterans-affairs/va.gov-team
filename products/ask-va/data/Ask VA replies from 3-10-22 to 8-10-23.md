@@ -19,7 +19,7 @@ Inquiries are linked to VA business line queues in the CRM system. Business line
 |Phase|Recommendation|
 |:--|:--|
 |Phase 1|Continue to allow submitters to reply to inquiries via email (unauthenticated) and the AVA dashboard (authenticated).|
-|Phase 2 and beyond|Determine ways to mitigate risk of replies from unauthenticated users while still prioritizing a simple, easy user expereince for submitting inquiries.|
+|Phase 2 and beyond|Determine risk mitigation strategies for replies from unauthenticated users while still prioritizing a simple, easy user expereince for submitting inquiries.|
 
 ## Key takeaway 1: The percentage of replies from unauthenticated vs. authenticated users varies greatly by category.
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135838070/d00dccad-c70c-4d83-a7b4-2624b8ed1957)
