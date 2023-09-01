@@ -18,10 +18,23 @@ For every 1 application submitted, a request was made through the staging VA.gov
 #### Background
 
 1.1mb File size used for document uploads to attach with the 10-10EZ
-Test was run with 750 users at 10 per second
+Test was run with 750 users at 10 per second, and again at 2 per second.
+
+**750 users at 10 per second**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/7b9b023e-3c3c-473c-bdea-eb13b6461353)
 
+| Endpoint           | # Requests | # Failures |  Requests / s |
+| ------------------ | ---------- | ---------- |  ------------ |
+|POST v0/hca_attachments | 25,145  |  9,234   | 10 request per second |
+|POST v0/health_care_applications | 25,161 | 498 |  10 request per second |
+|GET v0/maintenance_windows  | 750  | 0   | 10 request per second |
 
+**750 users at 2 per second**
+| Endpoint           | # Requests | # Failures |  Requests / s |
+| ------------------ | ---------- | ---------- |  ------------ |
+|POST v0/hca_attachments | 7,286 |  2,122   | 2 request per second |
+|POST v0/health_care_applications | 7,262 | 373 |  2 request per second |
+|GET v0/maintenance_windows  | 344  | 22   | 2 request per second |
 #### Resolution
 
 ...
@@ -62,14 +75,12 @@ Multi-threaded [Locust](https://locust.io) instance with XX threads and XXXX sim
 
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
-|POST v0/hca_attachements | 1535       |  13   | 2 request per second |
-|POST v0/health_care_applications | 1598       | 6       |  2 request per second |
+|POST v0/hca_attachments | 1535 |  13   | 2 request per second |
+|POST v0/health_care_applications | 1598| 6  |  2 request per second |
 |GET v0/maintenance_windows  | 100  | 0   | 2 request per second |
 
-**INSERT IMAGES HERE - EXAMPLES BELOW**
+**INSERT IMAGES HERE**
 
-![total_requests_per_second_1644623201](https://user-images.githubusercontent.com/101649/153686467-d8eb3dd5-1196-46bb-97d8-112a4b6f446a.png)
-![response_times_(ms)_1644623201](https://user-images.githubusercontent.com/101649/153686531-75afd5ad-05a4-41ca-9d81-de23ac182178.png)
 
 
 
