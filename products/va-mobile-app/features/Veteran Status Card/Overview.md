@@ -84,7 +84,7 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 - [Reddit Thread ](https://www.reddit.com/r/Veterans/comments/14gbu7g/would_people_actually_believe_this_if_i_presented/)- Would ppl actual believe this is I presented it to them for the sake of a discount 
 - [Law H.R.91 - Veterans Identification Card Act 2015](https://www.congress.gov/bill/114th-congress/house-bill/91)
 - [List of current approved forms of Veteran ID](https://www.va.gov/records/get-veteran-id-cards/)
-- [Product Canvas / Sprint Timeline](https://docs.google.com/presentation/d/1TlzLu1eYixyKLVZ5FeMbB3iJ_HSw0tsYr5gJWGzdstQ/edit)
+- [Veteran Status Mobile Plan 2023.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12499919/Veteran.Status.Plan.2023.pdf)
 - [Discovery Work / Review](https://www.figma.com/file/MxqpGSmpZrG5HlxB9wNoRP/%234270---Veteran-Status-Card?type=whiteboard&node-id=0-1&t=iOacE13OfKZ23BOR-0)
 - [UX Figma File with Mockups](https://www.figma.com/file/Wjq9DkQ3ulXlHhbMrpNHME/%F0%9F%94%8D-Profile-2.0---Working---VAMobile?type=design&node-id=1707-38955&mode=design&t=mFMFasHqvVWdXp9F-0)
 
