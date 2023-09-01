@@ -100,6 +100,7 @@ Staging environment
 
 ### Results
 
+**100 users at 2 requests per second**
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
 |POST v0/hca_attachments | 1535 |  13   | 2 request per second |
@@ -107,7 +108,9 @@ Staging environment
 |GET v0/maintenance_windows  | 100  | 0   | 2 request per second |
 
 
-These are the results for form submissions that all include a 5mb file upload: 249 requests at a rate of 0.42 requests per second and 16 failures. There were some failures but since we have a retry system they should all go through in the end.
+**249 requests at .42 requests per second**
+
+Below are the results for form submissions that all include a 5mb file upload: 249 requests at a rate of 0.42 requests per second and 16 failures. There were some failures but since we have a retry system they should all go through in the end.
 
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
