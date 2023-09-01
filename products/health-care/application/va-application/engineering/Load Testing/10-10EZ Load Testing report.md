@@ -19,7 +19,7 @@ For every 1 application submitted, a request was made through the staging VA.gov
 
 1.1mb File size used for document uploads to attach with the 10-10EZ
 Test was run with 750 users at 10 per second, and again at 2 per second.
-Failures increased as users increased.  
+Failures increased as users increased, there were errors with the file upload api when many simultaneous connections are made
 
 **750 users at 10 per second**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/7b9b023e-3c3c-473c-bdea-eb13b6461353)
