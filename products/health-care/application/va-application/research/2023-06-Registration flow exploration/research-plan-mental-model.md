@@ -1,4 +1,4 @@
-# DRAFT Research Plan for "registration only" use cases mental model study [Health Enrollment Team, 10-10EZ, August 2023]
+# Research Plan for "registration only" use cases mental model study [Health Enrollment Team, 10-10EZ, August 2023]
 
 ## Background
 The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one medical need to the "full medical benefits package". 
@@ -185,4 +185,4 @@ Please list the people who will be serving in each role. **Include the primary p
 
   ## Approvals
 
-
+- Reviewed and approved by Kristen McConnell on September 1, 2023 via Slack.
