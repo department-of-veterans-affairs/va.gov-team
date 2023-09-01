@@ -124,9 +124,9 @@ Some participants struggled with finding their dependents within the bulk of inf
 Our Veteran participants mentioned want to get things correct, reading content cautiously and checking their work.
 
 **Finding detail**
-- Stats
+- Three out of 7 participants cited wanting to be careful when filling out information or displayed careful behavior when reading through text and filling out form fields.
 
-> P#: "Quote."
+> P2: "You don't want to make a mistake on the forms."
 
 
 **It's unclear to Veterans why they need to submit data that IRS later verifies.**
