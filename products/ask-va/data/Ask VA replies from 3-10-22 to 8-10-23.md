@@ -1,4 +1,4 @@
-# Ask VA replies from 3-10-22 to 8-10-23
+# Ask VA replies from 1-1-2023 to 9-1-23
 Last updated: 9/1/23
 
 ## Overview
@@ -45,6 +45,7 @@ The data excludes replies:
   - To categories that don't allow replies
     
 The data includes replies:
+  - Only from 2023. There was a large jump in reply data from pre-2023 to 2023, so we decided to just review 2023 data.
   - From the AVA system
   - From submitters where replies are enabled or inside the reply period
 
