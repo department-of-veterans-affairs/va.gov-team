@@ -4,7 +4,7 @@ Last updated: 9/1/23
 ## Background
 After submitting an inquiry, a submitter can possibly reply to their inquiry. They can reply in two ways: 
 - As an unauthenticated user by replying to an email notification
-- As an authenticated user by logging into ask.va.gov to get to the Ask VA dashboard.
+- As an authenticated user by logging into ask.va.gov and replying in the Ask VA dashboard
 
 Inquiries are linked to VA business line queues in the CRM system. Business lines can enable or disable whether a submitter can reply to an inqury. Most queues in CRM accept replies.
 
