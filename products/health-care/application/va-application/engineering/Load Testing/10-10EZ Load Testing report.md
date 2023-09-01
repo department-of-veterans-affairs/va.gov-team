@@ -95,7 +95,7 @@ Staging environment
 
 ### Configuration
 
----
+...
 100 users at 2 requests per second
 
 ### Results
@@ -108,6 +108,12 @@ Staging environment
 
 
 These are the results for form submissions that all include a 5mb file upload: 249 requests at a rate of 0.42 requests per second and 16 failures. There were some failures but since we have a retry system they should all go through in the end.
+
+| Endpoint           | # Requests | # Failures |  Requests / s |
+| ------------------ | ---------- | ---------- |  ------------ |
+|POST v0/health_care_applications | 249| 16  |  0.42 request per second |
+
+
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/58eab16e-31dd-4655-a77f-da6918f3c621)
 
 
