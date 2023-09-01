@@ -78,8 +78,6 @@ Additional desk research will be conducted to supplement these interviews:
 Remote via Zoom for the interviews
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
 
 - [Link to conversation guide - cohort 1 - declined enrolment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort1.md) 
 - [Link to conversation guide - cohort 2 - recently enrolled](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort2.md)
