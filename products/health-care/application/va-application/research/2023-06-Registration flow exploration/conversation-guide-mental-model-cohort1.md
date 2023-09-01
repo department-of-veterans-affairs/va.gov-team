@@ -1,4 +1,4 @@
-# DRAFT Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, August 2023][Cohort 1 - Declined Enrollment]
+# Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, August 2023][Cohort 1 - Declined Enrollment]
 
 ## Moderator logistics
 ### 2-3 days before the session
