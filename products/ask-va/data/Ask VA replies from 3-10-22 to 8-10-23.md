@@ -1,26 +1,27 @@
 # Ask VA replies from 3-10-22 to 8-10-23
 Last updated: 9/1/23
 
+## Overview
+We recommend continuing to allow submitters to reply to inquiries both by email and the AVA dashboard in Phase 1. This comes after reviewing the extent to which submitters use the reply feature as well as understanding security risks with allow unauthenticated resplies. 
+
+## Key takeaways
+- There is a significant number of total replies sent from submitters and the AVA system.
+- Inquiries in the `Education` category have the most replies.
+- "Business" inquiries are concentrated in `Education`, `Compensation`, and `Veterans Affairs - Debt`.
+
 ## Background
-After submitting an inquiry, a submitter can possibly reply to their inquiry. They can reply in two ways: 
+After submitting an inquiry, a submitter can possibly follow-up with their inquiry with a reply. They can reply in two ways: 
 - As an unauthenticated user by replying to an email notification
 - As an authenticated user by logging into ask.va.gov and replying in the Ask VA dashboard
 
-Inquiries are linked to VA business line queues in the CRM system. Business lines can enable or disable whether a submitter can reply to an inqury. Most queues in CRM accept replies.
+Inquiries are linked to VA business line queues in the CRM system. Business lines can enable or disable whether a submitter can reply to an inqury. Most queues in CRM accept replies but some don't.
 
 ## Research question
 What is the current volume of replies from submitters?
 - By category
 - By unauthenticated and authenticated users
 
-This would help us understand the extent to which submitters use the reply feature in AVA.
-
-The initial data supports our recommendation to continue allowing submitters to reply to inquiries both via email and the AVA dashboard. However, we still need to clarify some open data questions below.
-
-## Key takeaways
-- There is a significant number of total replies sent from submitters and the AVA system.
-- Inquiries in the `Education` category have the most replies.
-- "Business" inquiries are concentrated in `Education`, `Compensation`, and `Veterans Affairs - Debt`.
+We want to understand the extent to which submitters use the reply feature in AVA.
 
 ## Recommendations
 |Phase|Recommendation|
