@@ -21,7 +21,7 @@ By law, VA must audit all VA.gov content each year. The primary requirement of t
 This audit has 4 primary outcomes:
 
 - Ensure timeliness and accuracy of core VA.gov benefit and service content
-- Ensure that core VA.gov benefit and service content meets critical current standards for content, accessibility, and information architecture
+- Ensure that core VA.gov benefit and service content meets our current, basic quality standards for content, accessibility, and information architecture
 - Ensure that VA partner offices have the opportunity to identify upcoming changes that may impact core VA.gov benefit and service content in the upcoming year to feed into the broader proactive content planning calendar
 - Provide VA partners with a record of annual audits for compliance purposes
   
