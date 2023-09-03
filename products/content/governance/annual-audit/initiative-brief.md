@@ -26,3 +26,21 @@ This audit has 4 primary outcomes:
 - Provide VA partners with a record of annual audits for compliance purposes
   
 **Note:** This audit is not meant to lead to major changes in the structure or content of VA.gov. Major initiatives are separate. This audit is purely focused on accuracy and quality of existing content.
+
+## Process and timeline
+
+
+
+### Timeline
+
+The VA.gov content, accessibility, information architecture (CAIA) team conducts this audit on a rolling basis. 
+
+
+## Communication
+
+**Slack channel:** #sitewide-content-accessibility-ia
+
+### OCTO POs
+- **Overall audit strategy:** Danielle Thierry
+- **Content audit:** Beth Potts
+- **Information architecture audit:** Mikki Northuis
