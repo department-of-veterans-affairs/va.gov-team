@@ -52,7 +52,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out ArgoCD infra repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: department-of-veterans-affairs/vsp-infra-argocd
           token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
