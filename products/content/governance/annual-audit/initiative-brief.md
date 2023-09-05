@@ -29,12 +29,25 @@ This audit has 4 primary outcomes:
 
 ## Process and timeline
 
+### Process
 
+The VA.gov content, accessibility, information architecture team (CAIA) leads the auditing work. Each year, the team will work with SMEs across VA to ensure the accuracy of content. In addition, the team will check content against the content QA checklist and will determine a shortlist of current VA.gov content, accessibility, and information architecture standards to check against for the year. This process allows the team to ensure that content keeps up with evolving standards over time.
+
+The team will alert SMEs in advance of the start of the audit and will work with SMEs throughout the audit process. 
+
+The team will set up a publicy accessibility folder structure for records of all audits and will create tickets for any immediate and future updates that come out of the audit.
+
+[Read full content audit process documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-team-processes/annual-audit.md)
 
 ### Timeline
 
-The VA.gov content, accessibility, information architecture (CAIA) team conducts this audit on a rolling basis. 
+The VA.gov content, accessibility, information architecture (CAIA) team conducts this audit on a rolling basis. This timeline is an estimate and may shift:
 
+- Q2-Q3FY2023: Disability content
+- Q1FY2024: Health and life insurance content
+- Q2FY2024: Education and careers content
+- Q3FY2024: Pension and housing content
+- Q4FY2024: Burials and memorials and other content not yet covered
 
 ## Communication
 
