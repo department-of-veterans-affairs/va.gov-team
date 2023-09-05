@@ -24,8 +24,8 @@
 ## Agenda
 * **Q3 Projects in Progress**
   * Yellow projects
-     * Check-In
-     * Veteran Status
+     * Check-In - same blockers and dependencies as previously shared 
+     * Veteran Status - awaiting verification on what statuses to us to exclude Dishonorably Discharged Veterans 
   * Changes for next SoS
      * No longer using the table below for project updates - will be using new Epic templates and Kanban board  
  
