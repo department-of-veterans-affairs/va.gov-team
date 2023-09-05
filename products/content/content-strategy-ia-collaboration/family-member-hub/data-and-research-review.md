@@ -246,7 +246,7 @@ Description: The top 10 searches containing the each of following terms: depende
 
 ### Feedback survey insights
 
-**- Total number of records: 155**
+- **Total number of records: 155**
   - 42% (65/155) - overall rating of 1 or 2
   - 25% (39/155) - overall rating of 3
   - 12% (18/155) - overall rating of 4 or 5
@@ -256,24 +256,24 @@ Description: The top 10 searches containing the each of following terms: depende
   - 15% (10/65) pertained to managing a family member or caregiver benefits
 
 - Family member benefits hub page - Not able to complete task = 85 records
-	- **35/80 44% -  overall satisfaction of 1 or 2**
-	- 23/80 28% - overall satisfaction of 3
+  - **35/80 44% -  overall satisfaction of 1 or 2**
+  - 23/80 28% - overall satisfaction of 3
   - 12/80 15% - overall satisfaction of 4 or 5
   - 15/80 19% - blank/not rated
 - Health care > Family and caregiver benefits - Not able to complete task =  9 records
-	- **4/9 44%  - overall 1 or 2**
-	- 2/9 22%  - overall 3
+  - **4/9 44%  - overall 1 or 2**
+  - 2/9 22%  - overall 3
   - 0/9 0%  - overall 4 or 5
   - 3/9 33%  - blank/not rated
 - For disability > DIC - not able to complete task = 21 records
-	- **9/21 43%  - overall 1 or 2**
-	- 5/21 24%  - overall 3
-	- 2/21 10%  - overall 4 or 5
+  - **9/21 43%  - overall 1 or 2**
+  - 5/21 24%  - overall 3
+  - 2/21 10%  - overall 4 or 5
   - 5/21 24%  - blank/not rated
 - For education > DEA - not able to complete task = 19 records
-	- **7/19 37%  - overall 1 or 2 (all 1s)**
-	- 3/19 16%  - overall 3
-	- 3/19 16%  - overall 4 or 5
+  - **7/19 37%  - overall 1 or 2 (all 1s)**
+  - 3/19 16%  - overall 3
+  - 3/19 16%  - overall 4 or 5
   - 6/19 32%  - blank/not rated
 - For pension > survivors pension - not able to complete task = 21 records
   - 1**0/21 48%  - overall 1 or 2**
@@ -281,8 +281,19 @@ Description: The top 10 searches containing the each of following terms: depende
   - 1/21 5%  - overall 4 or 5
   - 4/21 19%  - blank/not rated
 		
-- Quotes
-	- "Needed to know if I'm eligible for anymore widow benefits. I was given 4 different numbers and everyone gave me a number. I don't know anymore now than I did before I started after working on it all day"
-	- "Find out what programs my daughter is eligible for (I am 100% SDV, her father transferred his ch 33 to her as well) Give us a FILTER! Ask if we are the vet, spouse, child, age, etc."
+- **Quotes**
+  - "Needed to know if I'm eligible for anymore widow benefits. I was given 4 different numbers and everyone gave me a number. I don't know anymore now than I did before I started after working on it all day"
+  - "Find out what programs my daughter is eligible for (I am 100% SDV, her father transferred his ch 33 to her as well) Give us a FILTER! Ask if we are the vet, spouse, child, age, etc."
 
+### Intercept survey insights
+
+- Total number of records = 57
+  - 14/57 25% - pertained to finding information or attempting to apply for benefits for a family member or caregiver
+  - 4/57 7% - pertaining to managing family benefits
+
+- **Quotes**
+  - "Information on DIC is scattered and conflicting."
+  - "need acess to needed forms made easier for surviving spouse benefits"
+  - "It seems almost impossible to find the forms I need to apply for spousal benefits of a deceased veteran. There should be a way to just get a list of required forms."
+  - "impossible to find or search for info on spousal benefits of WWII veterans"![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/d28d9c76-e899-4a57-8a2b-8b107a9d83a4)
 
