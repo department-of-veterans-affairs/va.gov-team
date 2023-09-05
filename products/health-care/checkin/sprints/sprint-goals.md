@@ -27,13 +27,15 @@ ________________________________________________________________________________
    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Enable Travel for all Wilkes-Barre Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64900)
    - **Sub Goal: Evolve travel reimbursement during online check-in**
       - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
-          - TBD
+          - Present to the team on Thursday
+          - Schedule & present to OCTO and decide which ideas to pursue
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
             - Blocked by Mobile Team
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Pull out Wireframes for Releases 3-6](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/62963)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Pull out Wireframes for Priorities 7-9](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62964)
         - **EPIC: [Unified Check-in: Release 2 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64484)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] [BE] Design Implementation for Priority 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64893)
@@ -48,7 +50,6 @@ ________________________________________________________________________________
 - **GOAL: Address tech & design debt**    
     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Update to v1 facilities API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64491)
     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[SPIKE] Can or how can we support creating grouped pre-check-in appts in our stg tool?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64359)
-    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [SPIKE: How can we quickly get Veteran feedback for new releases]()
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [Bug] Update Wireframes to remove timezone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54002)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [PRE-CHECKIN] Update canceled appointment behavior & messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51866)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Update Next of Kin Wireframes Due to Platform Design Feedback](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/64341)
