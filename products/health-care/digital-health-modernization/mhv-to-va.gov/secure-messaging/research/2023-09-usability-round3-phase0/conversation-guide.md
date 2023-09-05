@@ -135,7 +135,7 @@ Thank you for completing that. I have some follow up questions.
 
 b. While we are here, without clicking.
 
-- How do you feel about that page that we saw before this one, the one with Only use messages for non-urgent needs? What makes you say that?
+- How do you feel about that page that we were on before this one, the one that say "Only use messages for non-urgent needs"? What makes you say that?
 - How would you describe the purpose of that page?
 
 _Ready to continue_
@@ -154,9 +154,9 @@ _After completing this, have participant start a new message. [Have participant 
 
 e. Please continue to send a message to ask about a new RX.
   - How do you know that your message has been sent successfully?
-  - Without clicking, say you wanted to pull up the message you sent to make sure you had asked about the correct RX, where would you expect to find it?
+  - Say you wanted to review the message you sent to make sure you had asked about the correct RX. Without clicking, where would you expect to find it?
     
-f. Rating – On a scale of 1 to 5 with 1 being - 'not easy at all' and 5 being - 'very easy', what would you rate the ease of sending a message to your provider?
+f. Rating – On a scale of 1 to 5 with 1 being - 'not easy at all' and 5 being - 'very easy', how would you rate the ease of sending a message to your provider?
 
 _Give further explanation of rating for participants with Moderate to Severe CD and or others when needed._
 
@@ -164,7 +164,7 @@ _Lower rating follow-up question_
 
 - What would need to happen to make it a 5?
 
-g. While still on this page, I would like you to go up to the "to" field. What do you think "edit list" means? How do you expect to be able to use it?
+g. While still on this page, I would like you to go to the "to" field. (_Accessibility specialist may need to provide instructions on how to get to this section, if screenreader participant does not know or remember._) What do you think "edit list" means? How do you expect to be able to use it?
 
 **Things to watch for:**
 
@@ -244,11 +244,13 @@ _After error message occurs, ask:_
 _Tell the participant they can choose any document. It will show up as an attachment with title._
 
   - How do you know it is attached?
-  - If you change your mind about attaching the document and wanted to get rid of it, how would you do that? - How do you know it is removed?
+  - If you change your mind about attaching the document and wanted to get rid of it, how would you do that?
+  - How do you know it is removed?
 
 _After the participant clicks "Remove":_
 
-c. What if you had typed up a whole message and then realized you didn't have all the information you need to respond now and wanted to come back and finish later? What would you do? - Go ahead.
+c. What if you had typed up a whole message and then realized you didn't have all the information you need to respond now and wanted to come back and finish later? What would you do? 
+  - Go ahead.
   - Would you have expected your message to be saved?
 
   - How do you know your draft will be there when you return?
@@ -350,7 +352,7 @@ _Lower ratings follow up_
 
 ## **Sixth Landing Page Impression – 2 minutes**
 
-Thank you for getting through all of those tasks with me today. Please return to the messaging homepage.
+Thank you for getting through all of those activities with me today. Please return to the messaging homepage.
 
 _Take note of how participant returns to the landing page. Guide participant if needed._
 
@@ -363,7 +365,7 @@ b. What would you change or keep, if anything?
 _I am going to take back remote of the screen (or you can stop sharing your screen now.) Assist participants if necessary._
 
 - What are your thoughts about everything we reviewed today?
-  - Was there anything I missed that you would like to share?
+- Was there anything I missed that you would like to share?
 - Any there any other feedback that would be good for us to know?
 
 **Screener Interview – Users with CD**
@@ -386,7 +388,8 @@ We really appreciate you taking the time to share your thoughts with us today. Y
 
 _For AT Users_
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
+Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
+If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
 
 Thank you so much again and enjoy the rest of your day!
 
