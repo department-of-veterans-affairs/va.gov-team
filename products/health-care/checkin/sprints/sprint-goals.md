@@ -24,6 +24,7 @@ ________________________________________________________________________________
     - **Sub Goal: Perform Compliance Tasks**
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Compile Evidence for 20 Dev Rows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64666)
 - **GOAL: Make submission of a travel reimbursement claim easier**          
+   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Enable Travel for all Wilkes-Barre Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64900)
    - **Sub Goal: Evolve travel reimbursement during online check-in**
       - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
           - TBD
