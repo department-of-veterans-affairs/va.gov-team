@@ -7,7 +7,9 @@
 
 # Collaborating data from app users:
 
-**2/1/23 (the first full day of all user access to Rx refills) - to 3/31/2023**
+<details>
+  <summary>2/1/23 (the first full day of all user access to Rx refills) - to 3/31/2023
+</summary>
 
 1. Over 494K users who were authorized for pharmacy had sessions in the app.
 2. 11% (55k) of those users navigated to the PrescriptionDetails screen.
@@ -42,6 +44,7 @@ Filters used less than 10% of the time:
 - Active: Suspended
 - Transferred
 - Unknown
+</details>
 
 **4/1/23- 8/30/2023**
 
