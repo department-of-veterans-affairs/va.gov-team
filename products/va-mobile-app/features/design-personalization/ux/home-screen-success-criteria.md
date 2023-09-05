@@ -6,7 +6,6 @@ This work explores potential personalized home screen approaches for the VA Mobi
 See also: [VA Mobile App - Personalization project.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization)
 
 ## Personalized Home Screen design process
-TBD
 
 ### Design Explorations
 * Home screen Explorations + Audit
