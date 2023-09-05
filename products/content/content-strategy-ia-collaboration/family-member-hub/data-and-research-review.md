@@ -25,6 +25,14 @@ From data
 - The family member hub is clicked at least 4x more than any other family content option in the top nav, but quite a bit less than the core benefit options
 - Top searches contain more specific terms than "family" - i.e. dependent, caregiver, survivor, spouse
 
+From visitor feedback
+- Of the feedback surveys submitted on core benefit pages for family members, most rated each of the pages as 1 or 2 for overall satisfaction
+- 38% of the feedback comments received specifically indicated that they were attempting to apply for or find information about getting benefits for family members or caregivers, and only 15% pertained to tasks related to managing family or caregiver benefits. The rest of the comments were either related to Veteran benefits, or just general questions.
+- For the intercept survey, of those that were intercepted on core benefit pages for family members, 25% of the comments were specifically related to applying for or finding information on getting family member or caregiver benefits, while only 7% pertained to tasks related to managing family or caregiver benefits.  The rest of the comments were either related to Veteran benefits, or just general questions.
+- Feedback "Find out what programs my daughter is eligible for (I am 100% SDV, her father transferred his ch 33 to her as well) Give us a FILTER! Ask if we are the vet, spouse, child, age, etc."
+- Intercept "It seems almost impossible to find the forms I need to apply for spousal benefits of a deceased veteran. There should be a way to just get a list of required forms."
+
+
 Thoughts
 - Research and data is showing a trend towards more use of the family member hub 
 - The hub name change from "Family member" to "Family and caregiver" seemed to improved its findability, and search data leans towards more specific labels
