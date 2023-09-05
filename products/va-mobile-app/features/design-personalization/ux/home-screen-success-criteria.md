@@ -14,7 +14,7 @@ The design explorations below will include collecting & evaluating concepts from
 * Low-fi Home screen Explorations - Finalists for product & feasability review (links TBD)
 * High-fidelity design (Links TBD)
 
-### Criteria for Evaluating Personalized Home Screen Approaches
+### Success Criteria for Evaluating Personalized Home Screen Approaches
 Choosing a design direction for the personalized home screen involves balancing user, business, and technical considerations. We will use the following criteria as a guide to systematically audit our personalized home screen design explorations and narrow options down to the direction/s we intend to move forward with.
 
 #### Business Goals
