@@ -2,7 +2,7 @@
 
 ## Overview
 
-This initiative comprises a number of enhancements to the online check-in applications. These enhancements aim to reduce the confusion among Veterans and staff of the difference between and purpose for the pre-Check-in and check-in workflows. These enhancements consist of a number of planned releases, each of which will help to solve this problem. All enhancements may not necessarily be needed to achieve the desired outcome, which is to increase the use of the online check-in applications. The team will monitor feedback after each release and work with our VA Product Owner to determine when our objective has been achieved.
+This initiative comprises a number of enhancements to the online check-in applications. These enhancements aim to reduce the confusion among Veterans and staff of the difference between and purpose for the pre-Check-in and check-in workflows. These enhancements consist of a number of planned Prioritys, each of which will help to solve this problem. All enhancements may not necessarily be needed to achieve the desired outcome, which is to increase the use of the online check-in applications. The team will monitor feedback after each Priority and work with our VA Product Owner to determine when our objective has been achieved.
  
 ## Outcome Summary
 Veterans will have a better understanding of the tasks they need to complete before a health appointment and the differences between the two online check-in applications will become irrelevant.
@@ -41,13 +41,13 @@ The following changes, as compared to historical levels, will serve as key perfo
 - [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53488)
 
 ### Initiative Rollout
-We will be implementing this initiative using the following releases:
+We will be implementing this initiative using the following Prioritys:
 
-#### Release 1: 45-minute reminder & associated Pre-Check-in content (Scheduled for ~Q2 2024)
+#### 45-minute reminder & associated Pre-Check-in content (Scheduled for ~Q2 2024)
 - Send out 45-minute Check-in Text Reminder with Check-in Link
 - Add messaging to Pre-Check-in completion page that a text will be sent to the Veteran when it's time to check-in
 
-#### Release 2: New landing page & accompanying content changes (IN PROGRESS)
+#### Priority 1: New landing page & accompanying content changes (IN PROGRESS)
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390) & [Wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/868762F3-8E8F-4E23-B0DA-34C1783F0A03/canvas)
 - Pre-Check-in
     - Text Message: new content
@@ -76,11 +76,11 @@ We will be implementing this initiative using the following releases:
     - Completion Page: 
         - Add link back to Landing page
 
-#### Release 2.1: Minor updates to Details page (TENTATIVE)
+#### Priority 2: Minor updates to Details page (TENTATIVE)
 - Add ability to see pre-check-in detail appt page w/ "review your information now" call to action
 - Restyle check in button to action link on detail page for check in 
 
-#### Release 3: New completion page format & updates to demographics pages (TENTATIVE)
+#### Priority 3: New completion page format & updates to demographics pages (TENTATIVE)
 - New completion page for check-in & pre-check-in (phone & in-person)
 	- Design tweaks
 	- New message based on the following scenarios
@@ -91,7 +91,7 @@ We will be implementing this initiative using the following releases:
         - New expandable control to show what to do if demographics info is no up-to-date
 - Update to demographics pages to show what to do if demographics info is NOT up-to-date
 
-#### Release 4: New message and error page formats (TENTATIVE)
+#### Priority 4: New message and error page formats (TENTATIVE)
 - New message page for info is up-to-date & clicked the pre-check-in link
 - New error pages in this format (excludes login errors);
 	- Message - message for the task corresponding to the link clicked
@@ -99,25 +99,25 @@ We will be implementing this initiative using the following releases:
         	- Excluding the ability to see the check-in/pre-check-in status for each appointment
              	- Excluding the ability to complete tasks for other appts
 
-#### Release 5: View action statuses for upcoming appointments (TENTATIVE)
+#### Priority 5: View action statuses for upcoming appointments (TENTATIVE)
 - Ability to see the action status for each upcoming appointment (both on the details page & the appointments page) (this includes if you have already completed the action or when you can do it)
 
-#### Release 6: Ability to complete a task not associated with the appointment for the link clicked (TENTATIVE)
+#### Priority 6: Ability to complete a task not associated with the appointment for the link clicked (TENTATIVE)
 - Ability to complete a task for an appointment NOT associated with the link clicked
 	- NOTE: we will need to ensure that status's are set properly so that the Veteran does not receive more pre-check-in reminders & VSECS is updated as well
 -  Update completion page for pre-check-in (phone & in-person)
 	- New message based on the following scenarios: clicked on "Confirm your appointment"
 
-#### Release 7: Updates to Details page (TENTATIVE)
+#### Priority 7: Updates to Details page (TENTATIVE)
 - Details page
 	- Design tweaks to statuses
        	- Adding the confirm action for pre-check-in
 
-#### Release 8: Updates to Need help section (TENTATIVE)
+#### Priority 8: Updates to Need help section (TENTATIVE)
 - Changes to Need Help
 - Change alert on travel pages to additional info component
 
-#### Release 9: Access regardless if link expired or have no appointments (TENTATIVE)
+#### Priority 9: Access regardless if link expired or have no appointments (TENTATIVE)
 - Allow Veterans to access Pre-Check-in & Check-in regardless if the link has expired or they have no appointments for today (can we re-generate the LoROTA entry for some limited time period? does this affect the ATO?)
 
 
