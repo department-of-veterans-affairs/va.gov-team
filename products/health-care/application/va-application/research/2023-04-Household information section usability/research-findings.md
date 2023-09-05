@@ -25,7 +25,6 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 [Who we talked to](#who-we-talked-to)
 
-
 <br>
 
 ## Research Goals
@@ -34,7 +33,6 @@ We wanted to:
 1. Test the usability of the experimental pattern for adding multiple dependents to the household financial information section.
 2. Determine if the there are any issues for assistive tech users when they add multiple dependents to the application.
 3. Determine if the updated content for the household information section is clear and understandable or if any points of confusion remain.
-
 
 ## Research Questions
 ### Goal 1: Test the usability of the experimental pattern for adding multiple dependents to the household financial information section.
@@ -63,7 +61,6 @@ We wanted to:
 ## Methodology 
 We conducted hour-long moderated usability tests on Zoom from August 14-August 21, 2023.
 
-
 ## Hypotheses and Conclusions
 1. Partipants will easily be able to add multiple dependents and move through the pages of questions.
    1. **TRUE or FALSE**: Reason
@@ -75,7 +72,6 @@ We conducted hour-long moderated usability tests on Zoom from August 14-August 2
    1. **TRUE or FALSE**: Reason
 5. The content helps the participant answer questions confidently and accurately.
    1. **TRUE or FALSE**: Reason
-
 
 ## Key Findings
 
@@ -89,13 +85,9 @@ We conducted hour-long moderated usability tests on Zoom from August 14-August 2
 1. Veterans want transparency into lengthy, messy VA processes.
 2. Login is still a frustration for Veterans who want the benefit of an authenticated experience.
 
-
-
-## Details of Findings 
-
+## Details of Findings
 
 **Veterans were able to edit and remove dependents with relative ease using the new experimental pattern.**
-
 
 Participants seemed to have no trouble editing and removing dependents from their application, stating they found both the interaction with this new pattern to be clear and intuitive.
 
@@ -103,8 +95,6 @@ Participants seemed to have no trouble editing and removing dependents from thei
 - All participants successfully edited dependents and removed dependents.
 
 > P6: "There is no problem in editing any of it, don't see any difficulting in that"
-
-
 
 **Finding dependents from review page can be a challenge.**
 
@@ -116,21 +106,16 @@ Some participants struggled with finding their dependents within the bulk of inf
 
 > P1: "Acutally really prepared You can review everything, double check entries, if you messed up you can edit it right there."
 
-
-
 **Veterans take their time and are careful when completing form fields.**
-
 
 Our Veteran participants mentioned want to get things correct, reading content cautiously and checking their work.
 
 **Finding detail**
-- Three out of 7 participants cited wanting to be careful when filling out information or displayed careful behavior when reading through text and filling out form fields.
+- Three out of seven participants cited wanting to be careful when filling out information or displayed careful behavior when reading through text and filling out form fields.
 
 > P2: "You don't want to make a mistake on the forms."
 
-
 **It's unclear to Veterans why they need to submit data that IRS later verifies.**
-
 
 Several Veterans mentioned they know their income and household information will be verified by the IRS. Filling out this portion of the form that the IRS already has data on seemed unnecessary.
 
@@ -139,18 +124,14 @@ Several Veterans mentioned they know their income and household information will
 
 > P4: "Ok, so you are going to ask me about all my financial information. But the note says you verify wiht the IRS, why do I need to provide it? If the VA is going to go to the IRS to verify my income and social security (it doesn't say that but I know they do) Why do I need to provide it?”
 
-
 **Veterans want transparency into lengthy, messy VA processes.**
-
 
 Participants mentioned wanted transparency around how long the application process might take, acknowledging that VA processes can take longer than expected.
 
 **Finding detail**
-- Stat
+- Five out of the seven participants made note of VA processes that lacked transparency or were challenging to get through. Three participants mentioned wanting a timeframe on the application on the confirmation screen after applying.
 
-> P#: "Quote."
-
-
+> P6: "Unless you know the VA system, you would not know that it's going to take forever."
 
 **Login is still a frustration for Veterans who want the benefit of an authenticated experience.**
 
