@@ -13,7 +13,7 @@ In order to validate that the 10-10EZ form on VA.gov service can handle producti
 ## Issues discovered during testing
 
 
-### v0/hca_attachment fails at higher than 4 users per second
+### v0/hca_attachment fails at higher than 4 users per second in staging environment (production environment has increased capacity)
 
 #### Background
 
