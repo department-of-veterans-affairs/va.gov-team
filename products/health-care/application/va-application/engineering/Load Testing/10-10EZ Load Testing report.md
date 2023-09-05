@@ -97,6 +97,8 @@ Staging environment
 
 ### Results
 
+#### Asynchronous submission test
+
 **100 users at 2 requests per second**
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
@@ -104,6 +106,8 @@ Staging environment
 |POST v0/health_care_applications | 1598| 6  |  2 request per second |
 |GET v0/maintenance_windows  | 100  | 0   | 2 request per second |
 
+
+#### Synchronous submission test
 
 **249 requests at .42 requests per second**
 
