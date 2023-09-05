@@ -139,11 +139,9 @@ Participants mentioned wanted transparency around how long the application proce
 Some Veteran participants expressed frustration with the cumbersome login experience. The ability to login is valuable, allowing them to save their work and pre-fill information—this login tension dilutes their over VA.gov experience.
 
 **Finding detail**
-- Stat
+- Three out of seven Veterans understood that signing in meant that they could check the status of their application or save their progress. Others showed frustration with all the choices available to use for log on.
 
-> P#: "Quote.”
-
-
+> P3: "The login process is *******ed. All of those entities are dumb as dumb can be."
 
 ## Recommendations
 
