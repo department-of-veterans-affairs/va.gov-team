@@ -78,14 +78,9 @@
  
 | Priority |Project | PM | Status | Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| 
-|Planned |RX List and Details Update | Meko | Sprint 80 - 81 Oct '23|
 |Planned | Claims Reimagined Step 1 | Stacy | Sprint 79 Sept '23| 
-|Planned | Remote Disaster | Stacy |Not Started  | Sprint 79 - 81 ; carrying over into Q4 |
-|Planned | Push Noticication Overall Strategy Sprint 0| Ameet | Not Started | Sprint 80 Sept '23 | 
-|Planned | Appeals Decision Letters Sprint 0| Stacy |Not Started | Sprint 80 Sept '23|
-|Planned | Terms of Use Sprint 0 |  |Not Started | Sprint 81 Oct '23 |
-| Alternate | [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5562) | Adam | Blocked - MHV SM team - Sept | TBD - awaiting PO prioritization |
-| Alternate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | |  | TBD |
+| Alternate | [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5562) | Adam | Mobile has integrated - Mobile only needs to test when MHV SM needs testing | Testing needed Sept - early Nov per updated MHV SM timeline |
+| Alternate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | TBD |
 </details>
 
 
