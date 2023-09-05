@@ -13,7 +13,7 @@ In order to validate that the 10-10EZ form on VA.gov service can handle producti
 ## Issues discovered during testing
 
 
-### v0/hca_attachment fails at higher than 4 users per second in staging environment (production environment has increased capacity)
+### v0/hca_attachment fails at higher than 200 users per second in staging environment (production environment has increased capacity)
 
 #### Background
 
@@ -141,7 +141,7 @@ Below are the results for form submissions that all include a 5mb file upload: 2
 
 ### Summary
 
-There were issues with the file upload API under heavy load. However, historically only 1.6% of applications have included an attachment so even under 10x increased load there probably won't be any file upload errors.
+There were issues with the file upload API under heavy load. Errors start happening at around 30 requests per second in the staging enviroment (which has less resources to handle high load compared to production). However, historically only 1.6% of applications have included an attachment so even under 10x increased load users probably won't experience errors.
 
 The Enrollment & Eligibility API performed well in the load test with no errors. There were a small number of errors with the 1010EZ submission API, but since we use retrying background jobs to submit applications, submissions should eventually go through even if there are initial errors.
 
