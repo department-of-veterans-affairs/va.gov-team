@@ -9,9 +9,10 @@ See also: [VA Mobile App - Personalization project.](https://github.com/departme
 The design explorations below will include collecting & evaluating concepts from the [previous few years](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#earlier-exploratory-activities-nov-2021---jan-2022) as well as new concepts developed as a result of a [comparative analysis covering Personalized Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md).
 
 ### Design Explorations
-* Home screen Explorations + Audit  (links TBD)
-* Home screen Explorations - Finalist refinement (links TBD)
-* Home screen Explorations - Finalists for product & feasability review (links TBD)
+* Low-fi Home screen Explorations + Audit  (links TBD)
+* Low-fi Home screen Explorations - Finalist refinement (links TBD)
+* Low-fi Home screen Explorations - Finalists for product & feasability review (links TBD)
+* High-fidelity design (Links TBD)
 
 ### Criteria for Evaluating Personalized Home Screen Approaches
 Choosing a design direction for the personalized home screen involves balancing user, business, and technical considerations. We will use the following criteria as a guide to systematically audit our personalized home screen design explorations and narrow options down to the direction/s we intend to move forward with.
