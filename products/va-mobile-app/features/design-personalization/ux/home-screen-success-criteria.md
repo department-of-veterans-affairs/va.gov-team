@@ -1,11 +1,12 @@
 # DRAFT VA Mobile App: Personalized Home Screen UI - Explorations, Audit & Refinement
 September 2023
 
-This work explores potential personalized home screen approaches for the VA Mobile app. The design explorations below will include concepts from the [previous few years](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#earlier-exploratory-activities-nov-2021---jan-2022) as well as new concepts identified as a result of a [Comparative Analysis cpvering Personalized Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md), narrowed using a systematic evaluation of personalized home screen design directions based on success criteria established by the team & product owners.
+This work explores potential personalized home screen design approaches for the VA Mobile app, narrowed using a systematic evaluation of personalized home screen design directions based on success criteria established by the team & product owners.
 
 See also: [VA Mobile App - Personalization project.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization)
 
 ## Personalized Home Screen design process
+The design explorations below will include collecting & evaluating concepts from the [previous few years](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#earlier-exploratory-activities-nov-2021---jan-2022) as well as new concepts developed as a result of a [comparative analysis covering Personalized Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md).
 
 ### Design Explorations
 * Home screen Explorations + Audit
