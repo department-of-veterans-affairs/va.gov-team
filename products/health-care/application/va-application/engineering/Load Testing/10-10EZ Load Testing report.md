@@ -23,8 +23,6 @@ For every 1 application submitted, a request was made through the staging VA.gov
 1. When many simultaneous connections are made to the file upload api, the postgres error "FATAL:  remaining connection slots are reserved for non-replication superuser connections" occurs. 
 - File uploads will fail until the load decreases to the point where the postgres connections are no longer maxed out.
 
-2. It looks like all of the async form submissions failed with the ambiguous error from ES "Form data is failed to save in the system". This may not be a real error that users can experience, and it might be caused by the form being generated from a script rather than created by the frontend. The previous async test also had all the submissions fail because the spouse social security number was missing, and that error wouldn't occur on the real form because the frontend would require that field.
-
 **750 users at 10 per second**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/7b9b023e-3c3c-473c-bdea-eb13b6461353)
 
