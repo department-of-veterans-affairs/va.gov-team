@@ -144,7 +144,7 @@ Do you need to use screen reader technology to use the internet, such as VoiceOv
 > _Response options: yes or no (Answering `no` would qualify the participant.)_
 
 Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
-> _Response option: text box (any response to that question satisfies that particular criteria)_
+> _Response option: text box (we need a minimum of 3 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
 ##### Cohort 2 – Mobile users who are NOT screen reader users
 Recruitment request ticket XXXX (recruit 3, complete 2)
@@ -173,7 +173,7 @@ Recruitment request ticket XXXX (recruit 3, complete 2)
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
 
-Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
+Do you need to use screen reader technology to use the internet on a desktop computer, such as VoiceOver, NVDA, or JAWS?
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
 
 We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
