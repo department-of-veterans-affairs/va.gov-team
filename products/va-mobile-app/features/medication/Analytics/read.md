@@ -2,7 +2,7 @@
 
 # General
 
--[ [MVP] Prescriptions in the VA Mobile App Dashboard](https://lookerstudio.google.com/u/0/reporting/8e2627dc-fd2c-4be0-83dc-b60f69df7527/page/p_wtepo1ul5c)
+* [ [MVP] Prescriptions in the VA Mobile App Dashboard](https://lookerstudio.google.com/u/0/reporting/8e2627dc-fd2c-4be0-83dc-b60f69df7527/page/p_wtepo1ul5c)
 
 
 # Collaborating data from app users:
