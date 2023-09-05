@@ -40,10 +40,6 @@
       * Appeals Discovery Letter
       * Claims Re-Imagined
       * Deeplinking Ananyltics 
-   * Estimated Completed Work 
-      * EVSS ?
-      * Veteran Status ?
-
 
 
    
