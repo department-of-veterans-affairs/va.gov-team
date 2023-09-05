@@ -48,9 +48,9 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 
 **Federal employees** 
 - Portfolio: Lauren Alexanderson
-- Productr: Patrick Bateman
-- Product: Janie Carnock
-- Product: Marci McGuire
+- Product - Cartography Team: Patrick Bateman
+- Product - Secure Messaing: Janie Carnock
+- Product - Medical Records, Cerner Integration: Marci McGuire
 - Design: Coulton Bunney
 - Design: Ryan Thurlwell
 - Design: Robyn Singleton
@@ -104,7 +104,7 @@ Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 
 
 
 ### Benefits
-- Debt Resolution (Matt Self)
+- Debt Resolution (Denise Coveyduc)
 - PACT Act (Zach Goldfine, Danielle Thierry)
 
 ### Sitewide Crew
