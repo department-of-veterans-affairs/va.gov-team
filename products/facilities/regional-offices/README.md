@@ -55,7 +55,7 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 - VBA's facilities are unique because they provide VA benefits help for all three administrations (i.e., they will help you apply for health care and get burial benefits)
 
 ### **Business partners:**
-- J.R. Arce, Chief, Digital Media and Design, VBA Strategic Engagement (jeku.arce@va.gov)
+- Lew Boone, Interim Chief (9/1/2023), Digital Media and Design, VBA Strategic Engagement (lewis.boone@va.gov)
 - Tanekwa Bournes, VBA Strategic Engagement & VBA facilities lead (tanekwa.bournes@va.gov) 
 - Kenyonna Power, VBA Strategic Engagement (kenyonna.power@va.gov)
 - Derek Hommema, VBA Office of Field Operations (Derek.Hommema@va.gov)
@@ -71,29 +71,29 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 ### **Points of Contact from VBA RO pilot locations**
 [VBA Pilot Sites Selection.xlsx](https://dvagov.sharepoint.com/:f:/s/VBAVA.govmodernization/ElGAcEivodBFn5vZuP69aFUBpanKqq02M4JLkimn5zMfiQ?e=TJh0ir) [VA SharePoint]
 
-11/23/22 list:
+[08/21/23 list on Teams](https://dvagov.sharepoint.com/:x:/r/sites/SitewideFacilitiesTeam-FacilitiesProductSync/_layouts/15/Doc.aspx?sourcedoc=%7B75BA1C30-612E-47BF-8FDA-A9683892163F%7D&file=VBA%20MVP%20contacts%20August%202023.xlsx&action=default&mobileredirect=true)
 | Houston          | 1/2       | Name                        | Email                   |
 | ---------------- | ---------- | -------------------------- | ----------------------- |
 | Anchorage        | Primary    | Kathleen “Kathie” Warren   | kathleen.warren1@va.gov |
-| Anchorage        | Secondary  | Alice Dunaway              | alice.schuler@va.gov\>  |
+| Anchorage        | Secondary  | vacant           |  |
 | Albuquerque      | Primary    | Michael Nelson             | Michael.Nelson9@va.gov  |
 | Albuquerque      | Secondary  | Scott Lajiness             | Scott.Lajiness@va.gov   |
-| Honolulu         | Primary    | Eric Gaskin                | eric.gaskin@va.gov      |
+| Honolulu         | Primary    | Melynn McWilliams               | Melynn.McWilliams@va.gov      |
 | Honolulu         | Secondary  | Jametria McElroy           | Jametria.mcelroy@va.gov |
 | Houston          | Primary    | Daniel Irizarry            | Daniel.Irizarry@va.gov  |
 | Houston          | Secondary  | Thomas “David” Gibson      | Thomas.Gibson@va.gov    |
 | Houston          | Additional | Steven Sunseri             | steven.sunseri@va.gov   |
-| National Capital | Primary    | Bobby Norton               | BOBBY.NORTON@va.gov     |
+| National Capital | Primary    | vacant              |   |
 | National Capital | Secondary  | Joshua Carson              | Joshua.Carson@va.gov    |
 | San Juan         | Primary    | Sharon Delgado             | sharon.delgado@va.gov   |
 | San Juan         | Secondary  | Adrian Pons                | ADRIAN.PONS@va.gov      |
 
 
 8/16/23: Additional invitees to Facilities/VBA RO recurring sync, list to be confirmed with stakeholders re: who are current primary / secondary:
-- jamie.verity@va.gov
-- nykeisha.moore@va.gov
-- ramon.lopez2@va.gov,
-- tykisha.tull@va.go
+- jamie.verity@va.gov, San Diego, Training Manager
+- nykeisha.moore@va.gov, National Capital, VR&E Asst. Officer
+- ramon.lopez2@va.gov, Portland, Management Analyst
+- tykisha.tull@va.gov, National Capital, VSC Coach
 
 
 ## Approach
