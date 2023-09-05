@@ -48,8 +48,8 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 
 **Federal employees** 
 - Portfolio: Lauren Alexanderson
-- Product Owner: Patrick Bateman
-- Product: Leila Rassi
+- Productr: Patrick Bateman
+- Product: Janie Carnock
 - Product: Marci McGuire
 - Design: Coulton Bunney
 - Design: Ryan Thurlwell
@@ -63,7 +63,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Team Coach: Mike Collier
 - Delivery Coach: Stephen Smythe
 - Design Lead: Florence McCafferty
-- Product Manager: Tom Anderson
+- Product Manager: TBD
 - Designer: Keith Cheung
 - Full Stack Engineer: Richard Davis
 
@@ -115,6 +115,15 @@ Crew chief: Dave Conlon
 -	Laura Willwerth (content)
 
 ### OCC 
+**Federal employees**
+-	Head of OCC and Acting Dept. of Veterans Affairs CIO: Dr. Neil Evans
+-	Executive Director of Connected Care: Dr. Meredith Josephs
+-	Director of Veteran and Consumer Informatics Office: Theresa Hancock (Director of My HealtheVet)
+-	Director of CC who oversees MHV and mobile.va.gov: Nancy Wilck
+-	Management analyst/engineering oracle: Carnetta Scruggs
+-	Secure messaging product owner: Patti Henry
+-	Medical records product owner: Bresha Lipscomb
+
 **Bylight contract team**
 -	Barry Egbert (engineer)
 -	Bryan Riley (product)
@@ -127,16 +136,6 @@ Crew chief: Dave Conlon
 -	Lexi Wunder (design) 
 -	Jessica Robertson (design)
 -	Anne Costello (research)
-
-**Federal employees**
--	Head of OCC and Acting Dept. of Veterans Affairs CIO: Dr. Neil Evans
--	Executive Director of Connected Care: Dr. Meredith Josephs
--	Director of Veteran and Consumer Informatics Office: Theresa Hancock (Director of My HealtheVet)
--	Director of CC who oversees MHV and mobile.va.gov: Nancy Wilck
--	Management analyst/engineering oracle: Carnetta Scruggs
--	Secure messaging product owner: Patti Henry
--	Medical records product owner: Bresha Lipscomb
-
 
 ## Measuring success 
 
