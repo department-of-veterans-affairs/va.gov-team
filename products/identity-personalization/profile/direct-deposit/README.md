@@ -15,7 +15,7 @@ There are several places where things have been documented.
 
 **Outside of the Profile Documentation**
 <br>
-[va.gov-team/products/identity-personalization/direct-deposit
+[va.gov-team/products/identity-personalization/direct-deposit (START HERE for LAUCH DETAILS)
 /evss-lighthouse-migration/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration)
 
 
