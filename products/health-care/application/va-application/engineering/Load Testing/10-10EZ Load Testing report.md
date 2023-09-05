@@ -139,7 +139,7 @@ Below are the results for form submissions that all include a 5mb file upload: 2
 ## Conclusion
 
 
-### Summary - TBD
+### Summary
 
 There were issues with the file upload API under heavy load. However, historically only 1.6% of applications have included an attachment so even under 10x increased load there probably won't be any file upload errors.
 
