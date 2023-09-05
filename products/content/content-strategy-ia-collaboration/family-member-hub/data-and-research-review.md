@@ -36,6 +36,7 @@ From visitor feedback
 Thoughts
 - Research and data is showing a trend towards more use of the family member hub 
 - The hub name change from "Family member" to "Family and caregiver" seemed to improved its findability, and search data leans towards more specific labels
+- Feedback given on the family and caregiver pages indicate that they are primarily looking for information related to getting benefits for themselves
 - Pages within the Veteran benefits hubs are still very much needed, but should strongly reference and link to the family member hub
 - The family hub should include more than information on exploring and applying for benefits - it should also include tasks related to family members being able to manage their own benefits
 
