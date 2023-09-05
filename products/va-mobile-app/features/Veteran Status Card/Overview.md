@@ -5,6 +5,10 @@ During work, it was identified that this does not necessarily need to be a card 
 
 As a Veteran with internet connectivity and as an authenticated uesr, I can discover & view and use in my VA Flagship App a Veteran Status card. 
 
+Epics:
+   - MVP Epic [4270](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4270)
+   - [Post MVP Considerations](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6547) 
+
 ## Problem Statement
  
 When a Veteran calls a call center, the Veteran needs to go through a call tree, identify themselves, and start every conversation from scratch. Is there a way that the mobile app can reduce the burden on Veterans and improve their customer experience by passing some of this information to the call center?
