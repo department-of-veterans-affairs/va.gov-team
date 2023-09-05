@@ -7,7 +7,7 @@ In order to validate that the 10-10EZ form on VA.gov service can handle producti
 
 * test anticipated production loads, at 10x the usual volume
 
-For every 1 application submitted, a request was made through the staging VA.gov reverse proxy to validate performance and that the applications were submitted successfully.
+
 
 
 ## Issues discovered during testing
@@ -20,8 +20,7 @@ For every 1 application submitted, a request was made through the staging VA.gov
 - File size 1.1mb used for document uploads to attach with the 10-10EZ
 - Test was run with 750 users at 10 per second, and again at 2 per second.
 
-1. When many simultaneous connections are made to the file upload api, the postgres error "FATAL:  remaining connection slots are reserved for non-replication superuser connections" occurs. 
-- File uploads will fail until the load decreases to the point where the postgres connections are no longer maxed out.
+1. When many simultaneous connections are made to the file upload api, the postgres error "FATAL:  remaining connection slots are reserved for non-replication superuser connections" occurs. File uploads will fail until the load decreases to the point where the postgres connections are no longer maxed out.
 
 **750 users at 10 per second**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/7b9b023e-3c3c-473c-bdea-eb13b6461353)
@@ -138,9 +137,11 @@ Below are the results for form submissions that all include a 5mb file upload: 2
 
 ### Summary - TBD
 
-The 10-10EZ application’s performance is very good, with an acceptably low failure rate and ...... 
+There were issues with the file upload API under heavy load. However, historically only 1.6% of applications have included an attachment so even under 10x increased load there probably won't be any file upload errors.
 
-We are confident that the application is ready to support the increased traffic that is expected with the PACT Act special enrollment period.
+The Enrollment & Eligibility API performed well in the load test with no errors. There were a small number of errors with the 1010EZ submission API, but since we use retrying background jobs to submit applications, submissions should eventually go through even if there are initial errors.
+
+The application is generally ready to support the increased traffic that is expected with the PACT Act special enrollment period, but we will look into improving the file upload API to fix the issues we found during load testing.
 
 
 ### Additional conclusions
