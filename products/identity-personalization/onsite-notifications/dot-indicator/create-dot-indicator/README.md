@@ -1,6 +1,6 @@
 # Project outline: Create dot indicator
 
-**Last Updated: August 29, 2023  -- add pre-launch metrics**
+**Last Updated: September 5, 2023  -- updating pre-launch metrics**
 
 ### Communications
 
@@ -70,10 +70,10 @@ The dot indicator is a notification style that aims to call a user's attention t
 
 - Note: "You have a new message" warning alert was removed 8/28/23; Updated to static "Go to your inbox" link ahead of adding the dot indicator.
 
-|KPI/metric|Pre-launch [7/19 - 7/25]|Pre-launch [7/26 - 8/1]| Pre-launch [8/2 - 8/8]|Pre-launch [8/9 - 8/15]|Pre-launch [8/16 - 8/22]|Pre-launch [8/23 - 8/29]|1 week post-launch to 100% [add dates]| 2nd week post-launch to 100% [add dates]|
+|KPI/metric|Pre-launch [7/19 - 7/25]|Pre-launch [7/26 - 8/1]| Pre-launch [8/2 - 8/8]|Pre-launch [8/9 - 8/15]|Pre-launch [8/16 - 8/22]|Pre-launch [8/29 - 9/4]|1 week post-launch to 100% [9/5 - 9/11]| 2nd week post-launch to 100% [9/12 - 9/18]|
 |----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Number of clicks into "secure messaging" link on My VA|27,364|24,259|26,748|29,918|26,119||||
-|% change in clicks from previous week|-|-11%|+10%|+12%|-13%|||||
+|Number of clicks into "secure messaging" link on My VA|27,364|24,259|26,748|29,918|26,119|25,080|||
+|% change in clicks from previous week|-|-11%|+10%|+12%|-13%|-4%||||
 
 ## Key deliverables
 
@@ -87,6 +87,7 @@ The dot indicator is a notification style that aims to call a user's attention t
 
 - August 2023: Initial discussions; project kickoff; design intent; implementation on My VA.
 - August 28, 2023: "You have a new message" warning alert removed; Updated to static "Go to your inbox" link ahead of adding the dot indicator.
+- September 5, 2023: Launched dot indicator to 100%
 
 ## Design
 
