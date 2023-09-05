@@ -98,7 +98,6 @@ Participants seemed to have no trouble editing and removing dependents from thei
 
 **Finding dependents from review page can be a challenge.**
 
-
 Some participants struggled with finding their dependents within the bulk of information on the Review page. Nearly every participant stated they would expand every section to review their submission, resulting in a large amount of content to search through.
 
 **Finding detail**
@@ -135,7 +134,6 @@ Participants mentioned wanted transparency around how long the application proce
 
 **Login is still a frustration for Veterans who want the benefit of an authenticated experience.**
 
-
 Some Veteran participants expressed frustration with the cumbersome login experience. The ability to login is valuable, allowing them to save their work and pre-fill information—this login tension dilutes their over VA.gov experience.
 
 **Finding detail**
@@ -146,13 +144,13 @@ Some Veteran participants expressed frustration with the cumbersome login experi
 ## Recommendations
 
 * Continue using and monitoring the usability of the experimental pattern for adding, editing, and removing dependents.
-* Explore ways to lessen the burden of submitting information that IRS has available already.
-
-
+* Explore ways to lessen the burden of submitting information that the IRS has available already.
+* Explore ways to make information more fiadable when it's in its expanded form on the review page.
 
 ## Next Steps
 
-Add
+* Share findings with at the Design/Research Sync.
+* Explore rolling out new dependent pattern to other areas of the 1010 EZ form.
 
 
 ## Appendix
@@ -170,23 +168,19 @@ Add
 
 [Synthesis Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692744835134/ddbde58263c2486fcd3230bd836e39131534a0ba?sender=ube02cc3d1108083a94f75471)
 
-
 ## Pages and applications used
 
 - VA.gov staging website
 
-
 ## Secondary research
 
-Include any secondary research you may have. 
+Include any secondary research you may have:
 
-
+- [Household Section research, October 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2022-10-Household%20Information%20Section)
 
 ## Who we talked to 
 
-
 **Recruitment criteria**
-
 
 We talked to **7 participants**
 - There were 3 no shows out of the 10 recruited. 
@@ -194,8 +188,7 @@ We talked to **7 participants**
 Audience segment:
 * Veterans: 12 
 * Caregivers: 0 
-* Family members of a Veteran: 0  
-
+* Family members of a Veteran: 0
 
 Gender:
 * Male:  3
@@ -206,7 +199,6 @@ LGBTQ+:
 * Transgender: 0 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
 * Gay, lesbian, or bisexual: 0
-
 
 Devices used during study:
 * Desktop: 5
@@ -223,7 +215,6 @@ Age:
 * 65+: 2
 * Unknown: 0
 
-
 Education:
 * High school degree or equivalent: 0
 * Some college (no degree): 5
@@ -233,12 +224,10 @@ Education:
 * Doctorate degree: 0
 * Unknown: 0
 
-
 Geographic location:
 * Urban: 11
 * Rural: 1
 * Unknown: 0
-
 
 Race:
 * White: 2
@@ -247,7 +236,6 @@ Race:
 * Biracial: 1
 * Asian: 0
 * Native: 0
-
 
 Disability and Assistive Technology (AT): 
 * Cognitive: 0
@@ -260,7 +248,6 @@ Disability and Assistive Technology (AT):
 * Hearing aids: 0
 * Sighted keyboard: 0
 * Captions: 0
-
 
 ## Underserved groups we haven’t talked to 
 
