@@ -16,20 +16,21 @@
 ### Who we are
 
 #### Implementation team
-*Updated as of August 2023*
+
+August 2023-Present 
+
 |Role|Assigned|Contact|
 |:---:|:---:|:---:|
-|DSVA Product Owner|John Rahaghi|john.rahaghi@va.gov|
-|Program/Delivery Lead|Dawn Muñoz|dawn@themostudio.com|
-|IPP Program/Delivery Lead|Michael Antiporta (Porta)|porta@themostudio.com
-|Product Owner|TBD|TBD|
-|Senior Product Manager|TBD|TBD|
+|DSVA Product Owner|Thomas Black|Thomas.Black2@va.gov|
+|Program/Delivery Lead|Dawn Muñoz|dawn@themostudio.com|DAWN.MUNOZ@va.gov 
+|IPP Program/Delivery Lead|Michael Antiporta (Porta)|porta@themostudio.com|Michael.Antiporta@va.gov 
+|Senior Product Manager|Lauren Morris|lauren@themostudio.com|lauren.morris3@gva.gov
 |Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
-|Senior UX Researcher|Sophia Philip|sophia@themostudio.com|
+|Senior UX Researcher|Sophia Philip|sophia@themostudio.com|sophia.philip@va.gov
 |Content Strategist|Carl Dickerson|carl@themostudio.com|
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
 |Senior Fullstack Software Engineer|Anu Das|anu@themostudio.com|
-|Interaction Designer|Sofia Kirkman|sofia@themostudio.com|
+|Interaction Designer|Sofia Kirkman|sofia@themostudio.com|Sofia.Kirkman@va.gov 
 
 December 2022 - July 2023
 
