@@ -47,6 +47,7 @@ See test scenarios linked above
 | Test case No. |    Finding       | Device  | Operating System | Browser | Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
 | n/a | While preparing the QA spreadsheet we noticed odd behavior on save if the phone number that was already saved was not change | Desktop | Windows | Chrome | Travis | [#63333](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63333) | Closed | 
+| 9 | Inputting letters into the editing as a subtask flow when editing a phone number will not trigger the modal | PC | Windows 11 | Edge | Travis | Ticket pending | |
 
 
 ## Staging Review Prep 
