@@ -17,13 +17,13 @@ Web's goal to integrate Cerner data is in the next year.
 
 Example using medications:
 
-•**By Fall 2023: **A small group of trusted users can try out the new medications on [VA.gov](http://va.gov/) experience (VistA data only)
+•**By Fall 2023:** A small group of trusted users can try out the new medications on [VA.gov](http://va.gov/) experience (VistA data only)
 
-•**By Spring 2024: **All Veterans can try out the new medications on [VA.gov](http://va.gov/) experience (VistA data only)
+•**By Spring 2024:** All Veterans can try out the new medications on [VA.gov](http://va.gov/) experience (VistA data only)
 
-•**By Summer 2024: **Cerner data integrated into medications on [VA.gov](http://va.gov/).
+•**By Summer 2024:** Cerner data integrated into medications on [VA.gov](http://va.gov/).
 
-•**By October 2024: **All Veterans fully using the new medications on [VA.gov](http://va.gov/) experience.
+•**By October 2024:** All Veterans fully using the new medications on [VA.gov](http://va.gov/) experience.
 
 
 ---
