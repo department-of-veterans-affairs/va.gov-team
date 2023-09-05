@@ -46,7 +46,7 @@
   - (4) rural
   - (10) urban
 
-### **Screener for non-assistive tech participants**
+### **Screener for participants**
 
 1. Please make sure that ALL participants are willing to complete their interview **on the device they specified when recruited** and:
 
