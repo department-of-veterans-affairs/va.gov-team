@@ -18,37 +18,20 @@ In order to validate that the 10-10EZ form on VA.gov service can handle producti
 #### Background
 
 - File size 1.1mb used for document uploads to attach with the 10-10EZ
-- Test was run with 750 users at 10 per second, and again at 2 per second.
+- Test was run with 200 users at 2 per second.
 
-1. When many simultaneous connections are made to the file upload api, the postgres error "FATAL:  remaining connection slots are reserved for non-replication superuser connections" occurs. File uploads will fail until the load decreases to the point where the postgres connections are no longer maxed out.
+1. When >20 simultaneous connections are made to the file upload api, the postgres error "FATAL:  remaining connection slots are reserved for non-replication superuser connections" occurs. File uploads will fail until the load decreases to the point where the postgres connections are no longer maxed out.
 
-**750 users at 10 per second**
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/7b9b023e-3c3c-473c-bdea-eb13b6461353)
+**200 users at 2 per second**
 
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
-|POST v0/hca_attachments | 25,145  |  9,234   | 10 request per second |
-|POST v0/health_care_applications | 25,161 | 498 |  10 request per second |
-|GET v0/maintenance_windows  | 750  | 0   | 10 request per second |
-
-**750 users at 2 per second**
-| Endpoint           | # Requests | # Failures |  Requests / s |
-| ------------------ | ---------- | ---------- |  ------------ |
-|POST v0/hca_attachments | 7,286 |  2,122   | 2 request per second |
-|POST v0/health_care_applications | 7,262 | 373 |  2 request per second |
-|GET v0/maintenance_windows  | 344  | 22   | 2 request per second |
-
-**500 users at 2 per second**
-| Endpoint           | # Requests | # Failures |  Requests / s |
-| ------------------ | ---------- | ---------- |  ------------ |
-|POST v0/hca_attachments | 6,486 |  1,566   | 2 request per second |
-|POST v0/health_care_applications | 6,824 | 23 |  2 request per second |
-|GET v0/maintenance_windows  | 322  | 0   | 2 request per second |
+|POST v0/hca_attachments | 1901  |  2   | 25.6 request per second |
+|POST v0/health_care_applications | 1926 | 8 |  26.0 request per second |
 
 #### Resolution
 
-Changes(?) need to made to both vets-api and devops repos to test on preprod
-
+Changes(?) need to made to both vets-api and devops repos to test on preprod.  Verify connection pool settings.
 
 ## Baseline:
 
