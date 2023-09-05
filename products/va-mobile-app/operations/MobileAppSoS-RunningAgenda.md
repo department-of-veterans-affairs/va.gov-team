@@ -35,14 +35,14 @@
 
 
 * **Sprint Planning (Adam)**
- * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
-   * New Work
+   * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
+   * Anticipated New Work
       * Appeals Discovery Letter
       * Claims Re-Imagined
       * Deeplinking Ananyltics 
-   * Work completed
+   * Estimated Completed Work 
       * EVSS ?
-      * Veteran Status    
+      * Veteran Status ?
 
 
 
