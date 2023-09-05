@@ -39,7 +39,7 @@
    * Anticipated New Work
       * Appeals Discovery Letter
       * Claims Re-Imagined
-      * Deeplinking Ananyltics 
+      * Deeplinking Analytics 
 
 
    
