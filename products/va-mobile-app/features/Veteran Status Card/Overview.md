@@ -4,6 +4,7 @@ Veterans would benefit from an easy-to-access official Veteran ID card to use fo
 During work, it was identified that this does not necessarily need to be a card thus removed card from the original project name. 
 
 As a Veteran with internet connectivity and as an authenticated uesr, I can discover & view and use in my VA Flagship App a Veteran Status card. 
+
 ## Problem Statement
  
 When a Veteran calls a call center, the Veteran needs to go through a call tree, identify themselves, and start every conversation from scratch. Is there a way that the mobile app can reduce the burden on Veterans and improve their customer experience by passing some of this information to the call center?
@@ -13,9 +14,9 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 - MVP was modified after Sprint demo on 8/16 which include Mobile Team, Mobile Team PO, and VIC
    - Identified that photo needs to be removed
       - Rationale - concerns with photo being abused with unncessary pictures being uploaded
+   -  Per VA legal, only Title 38 Veterans are able to see this - thus Mobile must exclude Dishonorably Discharged Veterans (DD Veterans)
    - Other demo notes: 
-        - Need to consider handling of dishonorably discharged and their usage of this feature
-          - Raises a larger questions on how mobile app should handle app wide or at log in
+         - Raises a larger questions on how mobile app should handle app wide or at log in - later resolved ; only applies to this feature
          - Discover work will be added for most-mvp work 
           - There are discussions with the government on removing the photo as a requirement from VIC 
           - Need to enhance UX on when the information is incorrect 
