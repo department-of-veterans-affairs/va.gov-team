@@ -18,7 +18,11 @@ https://www.va.gov/welcome-kit/)
 ### 5 pages with the lowest experience ratings
 
 All pages have ratings of 2 or below.
-- 
+- VAMC: Tampa health care (**Note:** This is a VAMC section. The most common page with low ratings is /cpap-ordering-distribution-and-supply-information-sheet-and-faqs
+- Auth/login (**Note:** Authenticated experience)
+- VAMC: Hines health care/programs (**Note:** This is a VAMC section. The most common page with low ratings is the facility's [BTSSS page](https://www.va.gov/hines-health-care/programs/beneficiary-travel-self-service-system-btsss/))
+- [Post-9/11 GI Bill Statement of Benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) (**Note:** Many, but not all, of the scores are at this page /status or after sign-in)
+- [Contact us](https://www.va.gov/contact-us/)
   
 ### Resources and support ratings ("good" or "bad")
 
