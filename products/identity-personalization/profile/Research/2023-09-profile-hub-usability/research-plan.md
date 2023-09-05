@@ -109,7 +109,7 @@ We’d like to recruit 12 participants for a total of 8 completed sessions:
 	- recruit 3, complete 2
 	- recruitment request ticket XXXX 
 - Cohort 4: Magnification users (desktop OR mobile) 
-	- recruit 4, complete 3
+	- recruit 4, complete 3 (2 must be desktop)
 	- recruitment request ticket XXXX 
 
 ### Recruitment criteria
@@ -201,7 +201,7 @@ Do you normally need to resize font or use a magnification tool to see your scre
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
 
 What device will you use to join the session? Mobile, computer, or tablet? Mac or PC?
-> _Response option: text box_
+_Response option: text box (We need a minimum of 2 people on desktop, so after this requirement is met, mobile is acceptable)_
 
 Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
 > _Response option: text box (we need a minimum of 3 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
