@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: August 15, 2023 -- updated week 1 stats**
+**Last Updated: September 5, 2023 -- adding information around launch issues**
 
 ### Communications
 
@@ -120,6 +120,14 @@ As a person that receives payments from VA, I want to be able to easily view and
 - July 2023: QA; Pre-launch activities
 - August 8, 2023: Launch to 5% of users
 - August 15, 2023: Launched to 10% of users
+- Late August 2023: Reduced launch back to 5% while we investigated a sudden increase in timeouts
+
+### Launch issues
+
+Some time after we launched to 10%, we started to see a huge increase of `PUT` failures due to timeout (`504s`). Unfortunately, it was not clear why these were happening, and Lighthouse was not seeing the same degree of errors that we were seeing in both our Datadog and Google Analytics logs. They were also seeing a weird issue where `PUTs` were coming through as `GETs`, which may have effected their error logs. We made the decision to reduce the launch percentage back to 5% while we investigated these errors before continuing with launch. 
+
+- [Relevant Slack convo #1](https://dsva.slack.com/archives/C02CQP3RFFX/p1693230969286509?thread_ts=1691443341.253769&cid=C02CQP3RFFX)
+- [Relevant Slack convo #2](https://dsva.slack.com/archives/C909ZG2BB/p1693498626192619)
 
 ## Backend
 
