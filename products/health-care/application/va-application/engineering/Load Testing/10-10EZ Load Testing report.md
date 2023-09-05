@@ -31,7 +31,7 @@ In order to validate that the 10-10EZ form on VA.gov service can handle producti
 
 #### Resolution
 
-Changes(?) need to made to both vets-api and devops repos to test on preprod.  Verify connection pool settings.
+We will coordinate with platform to try to fix this issue.
 
 ## Baseline:
 
