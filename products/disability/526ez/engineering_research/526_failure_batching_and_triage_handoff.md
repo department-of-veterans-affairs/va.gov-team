@@ -63,8 +63,6 @@ Downstream services are
 - Lighthouse Backup submission endpoint
     - `asdf`
 
-TODO: break down each of these steps with code
-
 ### 1. Create a list of submission ids to process
 At the moment, this is simply taking sub-sections of the yet to be unprocessed
 submission failures from the original ~40k.  After an itteration, we are typically left with some failures which we
@@ -201,11 +199,18 @@ class NonBreakeredForm526BackgroundLoader
 end
 
 # HERE IS WHERE WE RUN THE JOBS ONE AT A TIME
-ids.each do |id|
-    Sidekiq::Form526BackupSubmissionProcess::NonBreakeredForm526BackgroundLoader.new(id).perform
+ids = File.read('/tmp/batch3_ids.txt').lines.map(&:chomp)
+c = ids.size
+i = 0
+ids.each do |id| 
+    begin
+        puts "#{id} ... #{i+=1} / #{c}"
+        pp Sidekiq::Form526BackupSubmissionProcess::NonBreakeredProcessor.new(id, get_upload_location_on_instantiation: false, ignore_expiration: true).upload_pdf_submission_to_s3
+    rescue => e
+      pp e
+    end
 end
 ```
-TODO: this is wrong, update with this https://dsva.slack.com/archives/D05BX4U55EG/p1692908750265409
 
 ### 6. Pull a list of filenames from s3
 
