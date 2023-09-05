@@ -56,35 +56,11 @@ In early 2023, VA Profile is adding functionality to validate all existing phone
 
 Once VA Profile has added this functionality, VA Notify will enhance our contact lookup process to proactively check phone numbers and make updates if we discover a phone number is invalid. This will increase visibility into which phone numbers are invalid and allow other features to be built within VA.gov and VA Profile around flagging invalid contact information and sending notifications to request updates.
 
-#### Enhancing the Claim Experience - VES Event Bus
+#### Enhancing Platform Capabilities
 ##### Theme(s): Platform Capabilities, Quality / Personal Experience
 ##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
-Uncertainty around the claims review process is a significant pain point for Veterans. VA Notify intends to resolve this by working with VBMS, VA.gov, and the claims status tool to evaluate the end to end Veteran experience and ensure informative notifications are sent to Veterans when a claim is in review, supplemental materials are needed, documents are available to review, claim status has changed, and a decision has been made.  There are also opportunities to notify Veterans should they appeal a decision on a claim.  VA Notify collaborates with Claim stakeholders and partners to add and enhance notification opportunities for Veterans. 
-
-#### Support for Mass/Bulk Notifications
-##### Theme(s): Platform Capabilities
-##### OCTO Objective(s): Enhance Veterans' personalized online experience
-
-VA Notify currently supports automated, individualized notification events. However, other use cases may be ad-hoc or one-time and should send to a defined list of recipients. VA Notify will  research these opportunities within the VA and build functionality to support these one-off notifications.
-
-#### Email Encryption
-##### Theme(s): Platform Capabilities, Quality / Personal Experience, Performance, Monitoring, Maintainability & Security
-##### OCTO Objective(s): Enhance Veterans' personalized online experience
-
-Some notification use cases include sensitive information like PII or PHI. We cannot send this through non-encrypted or non-authenticated channels like email or SMS. We will investigate options to address this problem so Veterans can get the information they need through a secure, digital solution. 
-
-#### Support for Cisco Webex Connect (IMImobile)
-##### Theme(s): Quality / Personal Experience, Platform Capabilities
-##### OCTO Objective(s): Enhance Veterans' personalized online experience
-
-The Veterans Experience Office (VEO) is furthering its partnership with Cisco to address AudioCARE needs for Veteran prescription and appointment use cases. As the enterprise notification solution for VA, VA Notify will continue to be provider agnostic. VA Notify currently supports Amazon services and Twilio and will add support for Cisco to ensure we can meet notification needs for all VA business lines, regardless of the provider.
-
-#### Support for CC/BCC on Email Notifications
-##### Theme(s): Self-Service / Governance, Quality / Personal Experience
-##### OCTO Objective(s): Enhance Veterans' personalized online experience 
-
-The need for CC/BCC functionality frequently surfaces when discussing potential use cases with business lines. For example, this functionality is essential when considering the PACT Act, as copied VSO’s, VSR’s, and/or caregivers can receive the exact same information the Veteran receives and immediately provide guidance, support, and advocacy throughout the review process. Another potential benefit of CC/BCC is the collection of feedback from copied parties to improve notifications as processes change.
+To support more types of notifications and expand VA onboarding, we are adding functionality like: EDIPI identifier support, personalisation redaction, explicit consent logic, and more.
 
 ### Strike Team
 
@@ -108,28 +84,29 @@ VA Notify is designed to be provider agnostic. We added support for a new provid
 
 This work is carrying over from Q3/Q4 CY2022 because the notification provider decision changed from Amazon to Twilio.
  
-**Expected launch date**: March 2023
+**Launched**: April 2023
 
 #### Franchise Fund Billing Reports
 We will be using the Franchise Fund to bill our business lines for SMS charges and we are working on a format/template for the Franchise Fund to receive a billing statement from us for each business line.
 
-**Expected launch date**: March 2023
+**Launched**: April 2023
 
 #### Explicit Opt-in Functionality
 Some business lines like Comp & Pen and QuickSubmit require an explicit opt-in as opposed to a default opt-in strategy. Default opt-in means that we can notify the Veteran as long as they have not explictly asked to be opted-out of the applicable notification. Explicit opt-in means that we only want to notify Veterans if they have explicitly made a selection on VA.gov to receive the applicable notification.
 
+**Launched**: June 2023
+
 #### Restart Compensation and Pension Payment Notification Work
 As we wrap up the Twilio status integration work, we have some room to re-engage with the BIA team ingest payment events and trigger disability and pension payment SMS notifications to Veterans.
-
-**Expected launch date**: July 2023
 
 #### Performance, Monitoring, Maintainability and Security 
 To keep our platform performing at its best, we plan to execute the following:
 * Platform Upgrades (Flask, Celery, etc.)
 * Adding enhanced Datadog Monitoring
-* Implement Notification Microservices, starting with Push Notifications to improve performance
+* Scalability and disaster recovery improvements
+* Automated regression test suite
 
-**Expected launch date**: March 2023
+**This is ongoing work throughout the year.**
 
 ### Strike Team
 
@@ -168,22 +145,22 @@ As VA Notify continues to onboard business lines and notification suites are exp
 #### Onsite Notification Enhancements
 As we introduce new onsite notification use cases in partnership with VA.gov, we will enhance the integration to provide valuable, timely information to Veterans.
 
-**Expected launch date**: April 2023
+**Expected launch date**: Nov 2023
 
 #### Continued work on Compensation and Pension Payment Notifications
 We are working to integrate with BIA's event bus to receive payment events and trigger notifications.
 
-**Expected launch date**: July 2023
+**Expected launch date**: Dec 2023
 
 #### VA Profile Phone Validation
 After VA Profile adds this new feature, VA Notify will enhance the existing contact info lookup integration to ensure we are only sending to valid Veteran phone numbers.
 
-**Expected launch date**: June 2023
+**Expected launch date**: Dec 2023
 
 #### Expand Veteran Identifier Support: EDIPI
 We are working with eBenefits, VADIR, and EVSS to migrate their early comm notifications to VA Notify as they move to VA.gov. We will add support for the EDIPI identifier, so that VA Notify can look up communication preferences and contact information on eBenefit recipients.
 
-**Expected launch date**: May 2023
+**Launched**: Aug 2023
 
 #### Performance, Monitoring, Maintainability and Security
 To keep our platform performing at its best, we plan to execute the following:
@@ -224,23 +201,7 @@ Whitelisting functionality allows business lines to limit notification recipient
 
 ### Q3 - Q4 CY2023 (July - December)
 ### Notify Team
-#### CISCO webex connect integration
-We are expanding our notification provider integrations to include Cisco, so we can support more VA notification use cases like VEO AudioCARE.
 
-#### Email Encryption
-We will implement a secure solution to deliver sensitive information to Veterans digitally.
-
-#### SMTP/Internal Notification Support
-We want the notification experience to be the same regardless of the recipient having an external email address or an internal VA.gov address. Currently VA Notify emails are labelled as "EXTERNAL" when sent to va.gov recipients.
-
-#### CC/BCC Support
-We want to allow business lines to incorporate supporting recipients into emails, like VSOs/VSRs, so Veterans get the notifications they need with the help they need from approved individuals.
-
-#### Multi-Account Support for Providers
-As VA business lines acquire their own provider account(s), VA Notify must add support to send notifications through the appropriate provider and account (Amazon Pinpoint, Twilio, Cisco, etc.).
-
-#### Push Notification Phase 2
-VA Notify currently partners with VEText to send push notifications for the Flagship Mobile App, which we released in 2022. VA Notify has multiple phases planned to enhance this integration and send these notifications directly with Amazon.
 
 ### Strike Team
 
