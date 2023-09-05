@@ -60,7 +60,7 @@
 | [General Analytic Request and Needs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6070) | Ameet | GREEN | Apple + Google Play store updates| | | Ongoing |
 | [Platform Preparation - Design System](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6011) | Kelly, Ameet | GREEN | Incorporate new SegmentedControl component into the app, automation, documentation, bug fixes|incorporate design token and documentation | All Q3 | 
 | [Personalization](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/3542) | Ameet | Green | Determining high priority data to surface on the homes screen and exploring home screen UI concepts | Creating wireframes based on high priority data and UI concepts| Oct '23 |
-| Terms of Use Sprint 0 | Meko | Green | Sprint 0 Doc creation, Business owner to demo to Mobile | | |  
+| Terms of Use Sprint 0 | Meko | Green | Sprint 0 Doc creation | | |  
 | Push Notifications Strategy Sprint 0 | Ameet | Green | Sprint 0 doc creation | Review Sprint 0 | Sept 2023 |
 | RX List View | Meko | Green | Design Spike | | | 
 | [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | Continued work to reduce bugs and tech debt | Total Open Bugs 60 (7 are Sev 2)   | Ongoing | 
