@@ -51,7 +51,7 @@
 | ----------- | ----------- | ----------- |-----------| -------------| ----------|
 |[EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN | Complete Documents API in Vets API | Wait for VA.gov to go live with services, then turn them on for Mobile  | Sept '23 | 
 | [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam | Yellow | Blocked in excluding DD Veterans - awaiting on confirmation from another team | Release | Sept '23 |
-|[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | YELLOW| PM: Project follow up and sizing| BE integration with final api designs, FE Development | Sept '23 |
+|[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | YELLOW| N/A: Blocked due to external dependencies| FE development/BE integration testing | Sept '23 |
 | [Travel Claims](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/1255)  | Adam | Green | Design, Content, and Backend Discovery | targeting design work next sprint | TBD |  
 | Appointments Recommendation Review | Meko | Green |  | | Sept 2023 |
 | Remote Disaster Mitigiation | Stacy | Green | Strategize and Engineering Discovery | | |
