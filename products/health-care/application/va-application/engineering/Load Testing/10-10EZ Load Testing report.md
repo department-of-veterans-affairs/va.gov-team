@@ -144,7 +144,6 @@ The Enrollment & Eligibility API performed well in the load test with no errors.
 The application is generally ready to support the increased traffic that is expected with the PACT Act special enrollment period, but we will look into improving the file upload API to fix the issues we found during load testing.
 
 
-### Additional conclusions
 
 
 
