@@ -1,7 +1,7 @@
 # DRAFT VA Mobile App: Personalized Home Screen UI - Explorations, Audit & Refinement
 September 2023
 
-This work explores potential personalized home screen approaches for the VA Mobile app. The design explorations below will include concepts from the previous several years as well as new concepts, and a systematic evaluation of personalized home screen design directions based on success criteria established by the team & product owners.
+This work explores potential personalized home screen approaches for the VA Mobile app. The design explorations below will include concepts from the previous several years as well as new concepts we identified as a result of [comparative anlaysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md), narrowed using a systematic evaluation of personalized home screen design directions based on success criteria established by the team & product owners.
 
 See also: [VA Mobile App - Personalization project.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization)
 
