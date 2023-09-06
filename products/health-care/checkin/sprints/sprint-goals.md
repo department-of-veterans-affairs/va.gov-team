@@ -28,6 +28,7 @@ ________________________________________________________________________________
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Enable Travel for all Wilkes-Barre Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64900)
    - **EPIC: [Allow Submission of Travel Claim for 1 Facility Per Day](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)**
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Test in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64056)
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64059)
    - **Sub Goal: Evolve travel reimbursement during online check-in**
       - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
           - Present to the team on Thursday
