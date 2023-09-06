@@ -1,5 +1,17 @@
 # Print Button Analytics and Feedback [Draft]
 
+## Findings
+
+Immediately on release, users started clicking the print button. Desktop users clicked it the most often, and most users printed the upcoming appointments page. This falls into our expectations with the print button. We believe this to indicate that the print button is findable/usable.
+[Go to the detailed finding](url)
+
+August was the first month in 2023 where no users left comments related to printing. We believe that, because medallia feedback tends to the negative, receiving no feedback is an indicator that the print button is meeting the intended need. 
+[Go to the detailed finding](url)
+
+## Next steps
+
+We plan to follow up with UAT that will test at this button's usability, along with other features.
+
 ## Google Analytics Usage Data
 Veterans immediately started using the print button when it was released on 08/02/2023. Clicks started that day and continued at a steady pace throughout the month, averaging between 1-200 per day.
 
