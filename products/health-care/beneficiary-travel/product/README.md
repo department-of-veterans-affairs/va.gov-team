@@ -13,7 +13,7 @@ Full list of [OKRS](./OKRS.MD) and full project description in the [README](../R
 
 ## Team Breakdowns and Key Personal
 
-### Stakeholders/Clients
+### Key Stakeholders
 
 - OCTO
   - Mark Dewey
