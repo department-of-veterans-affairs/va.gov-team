@@ -62,15 +62,16 @@ Present Veterans with the ability to accept or not accept TOU.
 * Carnetta Scruggs 
 * Tom Black, Core Identity Team
 * Danielle Thierry, CAIA (Sitewide Content) Team
+* Alexander Garcia, Identity Core Team Lead Frontend Engineer
 
 
 ### Open Questions
 
 
 1. Identity Team: Is there a need to delete authentication and when does it become enforceable? May want to consider doing staggered deletion objects
-* Will this work for people who are still on the version of the app that use IAM?
+* Will this work for people who are still on the version of the app that use IAM? Joe Niquette: we are not asking IAM to enforce ToU for mobile users, but we may need to if you can’t force them to create a new session that goes through our USiP
     * How many people are still on IAM?
-* Would we want to give users the ability to link out to review TOUs at a later time?  If so, what is the web URL
+* Would we want to give users the ability to link out to review TOUs at a later time?  If so, what is the web URL.  Joe Niquett: as for linking to a version of the Terms of Use, we are not hosting a static version as of now, but this requirement may come from the business/legal side in the future. The only version we plan to host is the viewable form within the ToU page itself
 
 **Action Items:**
 
