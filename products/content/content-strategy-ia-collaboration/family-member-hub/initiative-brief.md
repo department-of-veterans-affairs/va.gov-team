@@ -58,20 +58,12 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 ### Key Performance Indicators (KPIs)
 
-- Same or increased traffic to key family member pages
-- same or increased task completion
-- Performs better than baseline
-- Not detrimenting findability of Veteran content due to similar family member content (i.e. same benefit has content in Veteran hub and family hub)
-- Decreased calls from family members and caregivers
-- VA.gov overall satisfaction - can we even get to this for a specific audience
-- VA.gov experience rating
-- 
-| Product KPI | Baseline as of **DATE** | Target | Link to data source (e.g. GA, Domo) |
-| ----------- |  ----------- |  ----------- |  ----------- | 
-| |   |   |   | 
-| |   |   |   | 
-| |   |   |   | 
-| |   |   |   | 
+- Increased traffic to the family member hub
+  - Baseline: 240,415 avg views/month as of 8/16/23 
+- Same or increased traffic to key family member pages moved from Veteran benefit hubs to the family member hu
+- No detriment to SEO of Veteran content due to similar family member content (i.e. same benefit has content in Veteran hub and family hub)
+- Improved overall satisfaction rating in the feedback survey of the family member hub page
+
 
 
 ---
