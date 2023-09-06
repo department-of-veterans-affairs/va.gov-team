@@ -55,7 +55,6 @@ ________________________________________________________________________________
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [Bug] Update Wireframes to remove timezone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54002)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [PRE-CHECKIN] Update canceled appointment behavior & messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51866)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Update Next of Kin Wireframes Due to Platform Design Feedback](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/64341)
-    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Update Next of Kin Wireframes Due to Platform Design Feedback](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/64341)
     - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] DS v3 #1: Update form components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64827)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64828)
