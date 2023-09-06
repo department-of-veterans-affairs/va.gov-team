@@ -17,7 +17,7 @@ Full list of [OKRS](./OKRS.md) and full project description in the [README](../R
 
 - OCTO
   - Mark Dewey
-  - Chris Johnson
+  - Chris Johnston 
 - OIT 
   - Chester Peyton
 - VTP
