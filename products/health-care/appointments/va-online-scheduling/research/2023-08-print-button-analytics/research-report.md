@@ -35,7 +35,7 @@ Most Veterans printed the upcoming appointments screen, followed by past appoint
 
 ## Comparative usage
 
-The Print button was clicked about x% as often as the "Start scheduling" button, which is one of the most-often used features in VAOS.
+In the same period of time the Print button was clicked about x% as often as the "Start scheduling" button, which is one of the most-often used features in VAOS.
 
 <img width="1619" alt="A chart showing clicks of the Start scheduling button from July 28th to August 21st 2023. A table below the chart shows that there were 179,763 clicks in the same time period" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/2536801/d971e2ce-b353-4b6b-b0ab-f1cd304c9bb1">
 
@@ -44,18 +44,24 @@ Since January 2023, the number of comments around printing has been minimal, wit
 
 | Month | Total Comments | Negative | Positive | Neutral |
 | --    | -- | -- | -- | -- |
-| August   | **0** | - | - | - |
-| July     | **2**  | 1 | 1 | 0 |
-| June     | **3**  | 3 | 0 | 0 |
-| May      | **1**  | 0 | 0 | 1 |
-| April    | **2**  | 1 | 1 | 0 |
-| March    | **7**  | 5 | 2 | 0 |
-| February | **2**  | 2 | 0 | 0 |
-| January  | **3**  | 2 | 1 | 0 |
-| Totals   | **20** | **14**  | **5**  |  **1** |
+| August 2023   | **0** | - | - | - |
+| July          | **2**  | 1 | 1 | 0 |
+| June          | **3**  | 3 | 0 | 0 |
+| May           | **1**  | 0 | 0 | 1 |
+| April         | **2**  | 1 | 1 | 0 |
+| March         | **7**  | 5 | 2 | 0 |
+| February      | **2**  | 2 | 0 | 0 |
+| January       | **3**  | 2 | 1 | 0 |
+
+| December 2022 | **3** | 3 | 0 | 0 |
+| November      | **0**  | 0 | 0 | 0 |
+| October       | **1**  | 1 | 0 | 0 |
+| September     | **2**  | 1 | 1 | 0 |
+| August        | **7**  | 4 | 0 | 3 |
+| Totals        | **23** | **17** | **5** | **1** |
 
 
-### All Comments Related to Printing
+### Comments in 2023 Related to Printing
 
 **August** 
 
