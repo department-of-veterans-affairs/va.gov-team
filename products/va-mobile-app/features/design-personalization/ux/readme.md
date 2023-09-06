@@ -16,7 +16,7 @@ Last updated Aug 2023
 #### Home Screen
   * [VA Mobile app - Personalized Home Screen - Design Strategy Worksheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/personalization-homescreen-design-strategy-worksheet-2023.md) | [doc](https://docs.google.com/document/d/1-nAN6VTg2dtKSv4UXIOlMZxdr8pWmA0l/edit#heading=h.gjdgxs) (2023)
     * Homescreen-specific design strategy for personalization
-  * [DRAFT VA Mobile App: Personalized Home Screen UI - Explorations, Audit & Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/home-screen-success-criteria.md)  
+  * [VA Mobile App: Personalized Home Screen UI - Explorations, Audit & Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/home-screen-success-criteria.md)  
     * Success criteria for evaluating homescreen design approaches and design explorations.
       
 ### Personalization 2022 (May-Jun 2022)
