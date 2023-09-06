@@ -1,6 +1,6 @@
 
 
-## Sprint 0/Product Brief 
+## Remote Disaster Product Brief - MVP
 
 
 ## Remote Disaster Mitigation Options
@@ -17,26 +17,18 @@ A software development technique for mobile apps where the behavior or features 
 Today, when critical errors affect the Mobile Application,  we currently do not have an immediate way to remotely address error fixes or clear cashes outside of the normal app store release and review process. 
 As a result, users experience a broken app until it can be fixed and the veteran experience is undesirable.
 
-### Proposed solution work for Mobile
+### Proposed Solution Work for Mobile
 
 We are proposing a solution to be able to "turn off" or restrict the feature so that the user will not have a bad user experience.
 
 The user will receive a message indicating that the feature is currently experiencing an error. **_The user will have to update the app via the store in order to get the actual fix_** and to be able to access what was originally restricted to them.
 
-### Main Use Case:
+### Use Cases
 
-_Use Case: A feature (or part of feature) is broken in the mobile application and we are working to resolve it remotely._
-
-### Other Possible Use Cases to analyze: (TBD)
-
-1. **RollBacks**: IOS app or Android Store updates go through a review process and can take 24-48 hours, longer if rejected. Rollbacks can be done without any backend code changes.
-
-
-2. **Feature Rollouts** by % **(Paced Rollout)- Set conditional values in the app that only a segment of users can see the feature. Ex: 25% of population for "X" feature
-
-
-3. **A/B Testing:** Ability to enable and disable features of a subset of users. % of Population is served a NEW experience vs. % gets old experience.
-
+1. A screen is broken in the mobile app app cannot be rendered
+2. A feature (or part of a feature) is broken in the mobile app but the screen can still be rendered
+    A. The team is working to resolve this issue remotely
+    B. The issue is now resolved and installing a new version of the app will correct the problem
 
 ### Desired Outcomes
 
@@ -44,8 +36,7 @@ _Use Case: A feature (or part of feature) is broken in the mobile application an
 
 * Ability to Remotely address bugs and or fix for user when a bug is determined on a feature in the app
 * Determine what the content and modal will look like when a remote configuration is happening
-* With the best UX possible, we should be able to remotely clear caches and/or shut down parts of the mobile app in times of dire need (**The user will still have to update via the store in order to get the actual fix)**
-* This could be applied if we’re rolling out a major feature and need users to get it or if we need to roll a major feature back ASAP and we need user actions associated with it, or if an entire backend api is retired without alternative as we’ve seen the VA attempt in the past.
+* With the best UX possible, we should be able to remotely clear caches and/or shut down parts of the mobile app in times of dire need (**Note:The user will still have to update via the store in order to get the actual fix)**
 
 
 **User Outcomes:**
@@ -54,7 +45,7 @@ _Use Case: A feature (or part of feature) is broken in the mobile application an
 
 ### Content: 
 
-Need to determine what message the user will experience when access is initiall restricted.
+Need to determine what message the user will experience when access is initially restricted.
 
 ### Assumptions and Level of Confidence
 
@@ -76,33 +67,39 @@ Need to determine what message the user will experience when access is initiall 
     * Veterans and their families trust the security accuracy and relevancy of VA.gov
 
 
-### Roadmap (TBD in Discovery)
+### Roadmap 
+
+### MVP (TBD- To be approved)
+
+1. When we initially restrict access, we will provide the user with a generic message. (Allowing mobile time to figure out the “true problem”)
 
 
-#### V1
+2. **When (and if) the problem is Discovered:**
 
-* Force users to reauthenticate
-* Use remote config flags and expedited execution
-* Setting up scaling and process for a multi-team engineering model
-
-
-#### V2 and beyond
-
-* Custom logic executable from an api supply immediately/near immediately.
-* Being able to shut down certain problematic user flows
+(**Copy to  finalized**) 
+The user message will be refined/updated to give more specifics if applicable. Contents of that message will include:
+1. Updating the app (Via the store)
+2. Date, Month, Time (if we know it) to update (assuming we know this information)
+3. MVP only: Generic Help Desk Phone Number the user can call (**Phone number -TBD**). 
 
 
-### Technical Approach (TBD)
 
 
-### Measuring success (sprint o)
+#### V2 and beyond (TBD- Not finalized)
+The next phase of this MAY include more specific feature help phone numbers if possible (claims, prescriptions)
+
+
+### Technical Approach (TBD in Implemention Phase)
+
+
+### Measuring success (DRAFT- Finalized Monitoring and Dashboards to be set up after implementation)
 
 * Use remote recovery under direct circumstances, which in most situations will be lots of users are found to be crashing. Examine how many users before we turn the mitigation on and extrapolate avoided crashes.
 
 * Measure how isolated we can specify app disruption
 
 
-### Open Questions  (From Initial Sprint O)
+### Open Questions  (From Initial Sprint O Meeting)
 
 * Where should “gateways” be located in the app?
 * What is the approval path for executing an option in the UI?
