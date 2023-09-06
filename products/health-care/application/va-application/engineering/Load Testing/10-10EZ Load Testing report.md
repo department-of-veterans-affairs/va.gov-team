@@ -3,11 +3,9 @@
 
 ## Background
 
-In order to validate that the 10-10EZ form on VA.gov service can handle production loads, load testing was performed on 08/28/2023-8/31/2023. Tests were performed to:
+In order to validate that the 10-10EZ form on VA.gov service can handle high production loads, load testing was performed on 08/28/2023-8/31/2023. Tests were performed to:
 
 * test anticipated production loads, at 10x the usual volume
-
-
 
 
 ## Issues discovered during testing
@@ -31,7 +29,8 @@ In order to validate that the 10-10EZ form on VA.gov service can handle producti
 
 #### Resolution
 
-We will coordinate with platform to try to fix this issue.
+We will coordinate with platform to fix this issue.  TBD ON ACTUAL SOLUTION
+
 
 ## Baseline:
 
@@ -45,7 +44,8 @@ We will coordinate with platform to try to fix this issue.
 ### Configuration
 
 Staging environment
-4184/(7 * 24 * 60 * 60) = 0.0069/s, or 944x normal throughput
+
+We tested 4,114 requests through the Enrollment & Eligibility endpoint, sending 6.86 requests per second.  This endpoint connects to both the HCA E&E API and the MPI API. There were no errors and the endpoint performed well under stress.
 
 ### Results
  
@@ -53,9 +53,10 @@ Staging environment
 | ------------------ | ---------- | ---------- |  ------------ |
 | Enrollment & Eligibility | 4,114  |  0      |   6.86/s        |
 
- This endpoint connects to both the HCA E&E API and the MPI API. There were no errors. The MPI data in the screenshot is for a fake test user, not real PII.
+The MPI data in the screenshot is for a fake test user, not real PII.
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/922286fe-f94f-4a60-a4c4-564ce1eda51c)
+
 
 ### cpu load
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/ff61a1f6-a8d8-42a8-9089-e1c340a62f0c)
@@ -75,8 +76,7 @@ Staging environment
 
 ### Configuration
 
-...
-100 users at 2 requests per second
+We tested with 100 "users" sending requests through the endpoints listed below at 2 requests per second.  There were some failures at less than 1% of the requests sent.  At this configuration, the test performed well, however we did notice that the test started to have increased failures at higher request counts.  This is outlined in the Issues Discovered section above.
 
 ### Results
 
@@ -94,7 +94,7 @@ Staging environment
 
 **249 requests at .42 requests per second**
 
-Below are the results for form submissions that all include a 5mb file upload: 249 requests at a rate of 0.42 requests per second and 16 failures. There were some failures but since we have a retry system they should all go through in the end.
+Below are the results for form submissions that all include a 5mb file upload: 249 requests at a rate of 0.42 requests per second and 16 failures. While the there were some failures at 6% of the requests, we do have a retry system that will resubmit the requests.
 
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
