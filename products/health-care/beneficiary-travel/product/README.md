@@ -6,7 +6,7 @@ This document is a high level snapshot of where we are today and where we want t
 
 ## Goals for this PoP
 
-Full list of [OKRS](./OKRS.MD) and full project description in the [README](../README.md)
+Full list of [OKRS](./OKRS.md) and full project description in the [README](../README.md)
 
 - Create a mobile friendly, accessible claims submission tool on va.gov for a fully authenticated user
 - Create an integration with the BTSSS system and the Vets-api that can be leveraged for various products on the va.gov ecosystem
@@ -33,17 +33,18 @@ This team is focused on create the new experience on va.gov and integration vets
 
 ## After 1 year
 
-- We should have made significant progress on the [road map](./roadmap.md) for the API and va.gov team 
+We should have made significant progress on the [road map](./roadmap.md) for the API and va.gov team 
 
 ### For the va.gov team
 
 - A submission tool that is linked to from appointments page (and maybe check in experience)
-- a vets-api integration that exposes functionality from the Claims Injest API to the va.gov apps 
+- a vets-api integration that exposes functionality from the Claims Ingest API to the va.gov apps 
+- successful integration with the VA Mobile App
 
 ### For the API team 
 
 - A performant API that can be used to create valid claims
-- A perforant API that can be used to query for claim details
+- A performant API that can be used to query for claim details
   
 
 ## Architecture 
