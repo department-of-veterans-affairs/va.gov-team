@@ -10,7 +10,7 @@ This folder contains informaton around the creation, testing, and evolution of t
 
 ## Research and analysis
 
-- [Review of existing research, insights, and data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/family-member-hub/data-and-research-review.md)
+- [Review of existing research, insights, and data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/family-member-hub/data-and-research-review.md) (August 2023)
 - [Research plan]()
 - Research artifacts: 
   - [Test content]()
