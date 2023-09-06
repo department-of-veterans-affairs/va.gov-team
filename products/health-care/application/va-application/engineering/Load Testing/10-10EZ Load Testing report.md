@@ -18,16 +18,23 @@ In order to validate that the 10-10EZ form on VA.gov service can handle high pro
 - File size 1.1mb used for document uploads to attach with the 10-10EZ
 - Test was run with 200 users at 2 per second.
 
-1. When >20 simultaneous connections are made to the file upload api, the postgres error "FATAL:  remaining connection slots are reserved for non-replication superuser connections" occurs. File uploads will fail until the load decreases to the point where the postgres connections are no longer maxed out.
+- When >20 simultaneous connections are made to the file upload api, the postgres error "FATAL:  remaining connection slots are reserved for non-replication superuser connections" occurs. File uploads will fail until the load decreases to the point where the postgres connections are no longer maxed out.
+     - What is the connection pool issue exactly?
+          - The connection pool multiplied by the number of servers and threads that the application is running is overloading the max connections allowed by the postgres database server (this is what I think is happening but I'm not 100% sure it's the cause).
 
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
 |POST v0/hca_attachments | 1901  |  2   | 25.6/s |
 |POST v0/health_care_applications | 1926 | 8 |  26.0/s |
-
+ 
 #### Resolution
 
-We will coordinate with platform to fix this issue.  TBD ON ACTUAL SOLUTION
+- What steps are needed with Platform to resolve (if we know the steps)?
+     - Change the connection pool variable so that the total number of application connections is less than the max connections allowed by postgres, then run the load test again and see if errors still occur.
+- If not fixed now, what does this mean for increased volume in production?
+     - If there is greatly increased volume then users could experience random errors when calling any endpoint that uses the postgres database (including 1010ez attachment upload and 1010ez form submission).
+- What is the liklihood that we will encounter this issue, as it is way over (how many times?) the usual volume of applications with attachments?
+     - There are regularly around 4200 form submissions in a week. Historically 1.6% of submission have included an attachment. So about 67 form submissions per week include an attachment. The attachment upload API is overloaded in staging at around 30 requests per second. If the submission load increased 10x, then there would 670 form attachment uploads per week. That is still unlikely to overload the 30 request per second limit.
 
 
 ## Baseline:
