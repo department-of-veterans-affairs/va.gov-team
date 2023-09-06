@@ -1,6 +1,6 @@
 # Initiative Brief - EVSS to LightHouse > Disabilities Rating API Update
 
-**Last updated: August 30, 2023 -- added launch date; added KPI**
+**Last updated: September 6, 2023 -- updated launch dates**
 
 #### Overview
 
@@ -46,6 +46,7 @@ We're simply changing the endpoint we're using to read the Disability rating whi
 - *Target Launch Date*
   - 8/29/2023
 - Launch to 10%: August 30, 2023
+- Launch to 25%: September 6, 2023
 
 ### Communications
 
