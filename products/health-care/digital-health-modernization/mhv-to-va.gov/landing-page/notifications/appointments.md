@@ -25,7 +25,7 @@ Per our working document on [notification definitions and working principles ](h
 #### UX analysis: 
 We believe that a reminder about an upcoming appointment is very similar to the current implementation of the dot notification to signal a new or unread secure message. This indicator next to specific link text such as "Upcoming Appointments" that indicates exactly what the dot references would be fairly intuitive, and users could likely follow the dot pattern down to that product to see their upcoming appointments. We also know that this notification is technically feasible to deliver to users.
 
-* Outstanding questions: 
+##### Outstanding questions: 
   * When will the dot indicator go away for an appointment notification? When the date/time of the appointment has passed?
   * Should an appointment reminder include additional information that the dot indicator cannot provide (such as a link to pre check-in or directions to the appointment?)
   * Do we need to work with the Appointments Team to implement the dot on their page for upcoming appointments in order for this pattern to accurately lead users from the notification dot on the landing page to the upcoming appointments it is referencing?
