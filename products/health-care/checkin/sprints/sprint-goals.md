@@ -22,9 +22,9 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: [Comply with ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
     - **Sub Goal: Perform Compliance Tasks**
-       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Compile Evidence for 20 Dev Rows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64666)
+       - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Compile Evidence for 20 Dev Rows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64666)
 - **GOAL: Make submission of a travel reimbursement claim easier**          
-   - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Enable Travel for all Wilkes-Barre Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64900)
+   - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Enable Travel for all Wilkes-Barre Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64900)
    - **Sub Goal: Evolve travel reimbursement during online check-in**
       - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
           - Present to the team on Thursday
@@ -37,7 +37,7 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Pull out Wireframes for Priorities 7-9](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62964)
         - **EPIC: [Unified Check-in: Release 2 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64484)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] [BE] Design Implementation for Priority 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64893)
+            - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] [BE] Design Implementation for Priority 1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64893)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Create upcoming appointments component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62227)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
