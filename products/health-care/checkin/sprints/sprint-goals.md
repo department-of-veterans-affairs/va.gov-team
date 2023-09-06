@@ -17,7 +17,7 @@ ________________________________________________________________________________
 - **GOAL: Address tech & design debt**
 
 #### PLANNED RELEASES 
-- NONE
+- **EPIC: [Allow Submission of Travel Claim for 1 Facility Per Day](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)**
 
 #### SPRINT TICKETS
 - **GOAL: [Comply with ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
@@ -25,6 +25,8 @@ ________________________________________________________________________________
        - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Compile Evidence for 20 Dev Rows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64666)
 - **GOAL: Make submission of a travel reimbursement claim easier**          
    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Enable Travel for all Wilkes-Barre Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64900)
+   - **EPIC: [Allow Submission of Travel Claim for 1 Facility Per Day](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)**
+       - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Test in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64056)
    - **Sub Goal: Evolve travel reimbursement during online check-in**
       - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
           - Present to the team on Thursday
