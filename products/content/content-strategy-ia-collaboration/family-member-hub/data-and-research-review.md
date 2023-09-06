@@ -18,7 +18,6 @@ This file contains information on the following
     - Analytics show a steady increase in traffic to the family member hub - almost 4x as many visitors per month in 2023 compared to 2019.
     - The family member hub is clicked at least 4x more than any other family option in the top nav.
     - Over the past year, the family member hub has had approx. 2.5x more page views than any of the other core family benefit landing pages within the benefit hubs.
-    - Most visitors rated the core family benefit landing pages within the Veteran hub as 1 or 2 for overall satisfaction in the site feedback survey.
     - In the VEO Military Spouse research, it was found that spouses feel like a 3rd wheel to the military, and they want to be seen as their own person.
 
       
