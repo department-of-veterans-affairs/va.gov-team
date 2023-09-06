@@ -11,12 +11,12 @@ On 08/02/2023 the VAOS team released a feature for users to print their appointm
 **Immediately on release, users started clicking the print button.** Desktop users clicked it the most often, and most users printed the upcoming appointments page. This falls into our expectations with the print button. We believe this to indicate that the print button is findable/usable.
 [Go to the detailed finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-08-print-button-analytics/research-report.md#google-analytics-usage-data)
 
-**August was the first month in 2023 where no users left comments related to printing.** We believe that, because medallia feedback tends to the negative, receiving no feedback is an indicator that the print button is meeting the intended need. 
+**August was the first month since November 2022 where no users left comments related to printing.** We believe that, because Medallia feedback trends negative, receiving no feedback is an indicator that the print button may be meeting the intended need. 
 [Go to the detailed finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-08-print-button-analytics/research-report.md#medallia-feedback)
 
 ## Next steps
 
-We plan to follow up with UAT that will test at this button's usability, along with other features.
+We plan to follow up with UAT that will include testing this button on production.
 
 ## Google Analytics Usage Data
 Veterans immediately started using the print button when it was released on 08/02/2023. Clicks started that day and continued at a steady pace throughout the month, averaging between 1-200 per day.
@@ -35,12 +35,12 @@ Most Veterans printed the upcoming appointments screen, followed by past appoint
 
 ## Comparative usage
 
-In the same period of time the Print button was clicked about x% as often as the "Start scheduling" button, which is one of the most-often used features in VAOS.
+In the same period of time the Print button was clicked about 4% as often as the "Start scheduling" button, which is one of the most-used features in VAOS.
 
 <img width="1619" alt="A chart showing clicks of the Start scheduling button from July 28th to August 21st 2023. A table below the chart shows that there were 179,763 clicks in the same time period" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/2536801/d971e2ce-b353-4b6b-b0ab-f1cd304c9bb1">
 
 ## Medallia Feedback
-Since January 2023, the number of comments around printing has been minimal, with the highest number in March. 
+Since August 2022, the number of comments around printing has been minimal, with the highest number in August 2022 and March 2023. In the month after the print button was released, no users left comments about printing.
 
 | Month | Total Comments | Negative | Positive | Neutral |
 | --    | -- | -- | -- | -- |
@@ -52,12 +52,12 @@ Since January 2023, the number of comments around printing has been minimal, wit
 | March         | **7**  | 5 | 2 | 0 |
 | February      | **2**  | 2 | 0 | 0 |
 | January       | **3**  | 2 | 1 | 0 |
-| December 2022 | **3** | 3 | 0 | 0 |
+| December 2022 | **3**  | 3 | 0 | 0 |
 | November      | **0**  | 0 | 0 | 0 |
 | October       | **1**  | 1 | 0 | 0 |
 | September     | **2**  | 1 | 1 | 0 |
 | August        | **7**  | 4 | 0 | 3 |
-| Totals        | **23** | **17** | **5** | **1** |
+| Totals        | **33** | **23** | **6** | **4** |
 
 
 ### Comments in 2023 Related to Printing
