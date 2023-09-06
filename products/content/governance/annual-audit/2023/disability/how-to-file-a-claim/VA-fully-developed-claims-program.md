@@ -30,8 +30,7 @@
 - [ ] Text links have purpose and target (only need target if the link takes the user off VA.gov--subsites don't need target)
 - [ ] The content is free of ability-focused language (view, walk, see, hear)
 - [ ] Relevant terms from page are in content brief and any relevant backlog work is noted
-- [ ] Remove "Who's covered?" section (if needed)
-- [ ] Remove "What kind of disability benefits can I get?" section (if needed)
+- [ ] Assess what's in the blue box and whether some or all of the content should move out of it (possible end result of no blue box on the page at all)
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 
