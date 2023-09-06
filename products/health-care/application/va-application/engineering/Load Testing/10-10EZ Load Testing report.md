@@ -11,14 +11,14 @@ In order to validate that the 10-10EZ form on VA.gov service can handle high pro
 ## Issues discovered during testing
 
 
-### v0/hca_attachment fails at higher than 20 requests per second in staging environment (production environment has increased capacity)
+### v0/hca_attachment fails at higher than 30 requests per second in staging environment (production environment has increased capacity)
 
 #### Background
+- Parameters
+     - File size 1.1mb used for document uploads to attach with the 10-10EZ
+     - Test was run with 200 users at 2 per second.
 
-- File size 1.1mb used for document uploads to attach with the 10-10EZ
-- Test was run with 200 users at 2 per second.
-
-- When >20 simultaneous connections are made to the file upload api, the postgres error "FATAL:  remaining connection slots are reserved for non-replication superuser connections" occurs. File uploads will fail until the load decreases to the point where the postgres connections are no longer maxed out.
+- When >30 simultaneous connections are made to the file upload api, the postgres error "FATAL:  remaining connection slots are reserved for non-replication superuser connections" occurs. File uploads will fail until the load decreases to the point where the postgres connections are no longer maxed out.
      - What is the connection pool issue exactly?
           - The connection pool multiplied by the number of servers and threads that the application is running is overloading the max connections allowed by the postgres database server (this is what I think is happening but I'm not 100% sure it's the cause).
 
