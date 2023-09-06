@@ -75,7 +75,9 @@ Present Veterans with the ability to accept or not accept TOU.
 
 **Action Items:**
 
-* Provide the identity team with current links we show on mobile today regarding TOU.  What info do we show in privacy policy [https://www.va.gov/privacy-policy/](https://www.va.gov/privacy-policy/)
+* Provide the identity team with current links we show on mobile today regarding TOU.  What info do we show in privacy policy [https://www.va.gov/privacy-policy/](https://www.va.gov/privacy-policy/) . Done 9/6
+
+See #va-mobile-app thread: https://dsva.slack.com/archives/C018V2JCWRJ/p1694012886473069
 
 
 ### Measuring success 
