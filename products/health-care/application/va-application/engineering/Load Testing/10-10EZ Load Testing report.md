@@ -22,8 +22,8 @@ In order to validate that the 10-10EZ form on VA.gov service can handle high pro
 
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
-|POST v0/hca_attachments | 1901  |  2   | 25.6 request per second |
-|POST v0/health_care_applications | 1926 | 8 |  26.0 request per second |
+|POST v0/hca_attachments | 1901  |  2   | 25.6/s |
+|POST v0/health_care_applications | 1926 | 8 |  26.0/s |
 
 #### Resolution
 
