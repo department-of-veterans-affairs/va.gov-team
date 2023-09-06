@@ -15,17 +15,18 @@ This file contains information on the following
 
 1. **Research and data is showing an increase in need of a improved centralized benefit area for family members and caregivers**
     - Recent tree tests for the MHV portal showed more family member participants looking initially to the family member benefit hub for information on their own benefits rather than the top level Veteran benefit hubs.
-    - Analytics is showing a steady increase in traffic to the family member hub since it's launch in 2019.
-    - The family member hub is clicked at least 4x more than any other family option in the top nav
-    - Over the past year, the family member hub has had more page views than any of the other core family benefit landing pages within the benefit hubs.  
-    - Of the feedback surveys submitted on core family benefit landing pages, most rated each of the pages as 1 or 2 for overall satisfaction
-    - In the VEO Military Spouse research, it was found that spouses feel like a 3rd wheel to the military, and they want to be seen as their own person
+    - Analytics show a steady increase in traffic to the family member hub - almost 4x as many visitors per month in 2023 compared to 2019.
+    - The family member hub is clicked at least 4x more than any other family option in the top nav.
+    - Over the past year, the family member hub has had approx. 2.5x more page views than any of the other core family benefit landing pages within the benefit hubs.
+    - Most visitors rated the core family benefit landing pages within the Veteran hub as 1 or 2 for overall satisfaction in the site feedback survey.
+    - In the VEO Military Spouse research, it was found that spouses feel like a 3rd wheel to the military, and they want to be seen as their own person.
+
       
 2. **The current experience and content offered for family members and caregivers is minimal, scattered, and disjointed**
-    - The family member and caregiver content is light and often intermingled with Veteran pages. In some cases, the family member information in placed on the core Veteran page rather than on it's own page. 
+    - The family member and caregiver content is light and often intermingled with Veteran pages. In some cases, the family member information in placed within the core Veteran page rather than on it's own page. 
     - In tree tests for the health portal, family member participants often mistakenly selected their answer from Veteran benefit pages rather than a page specific to family members. As we streamlined the Veteran benefit hub and built out the family hub, we saw this behavior start to change.
-    - The family member hub is the top referring page to all of the individual family benefit landing pages - visitors are often looking to the family member hub to find their answer, but are then sent off into the Veteran experience.
-    - In addition, the Veteran hubs are not referring traffic back to the family member hub, creating a potential missed opportunity to provide information on other benefits available to the visitor.
+    - Visitors are often looking to the family member hub to find their answer, but are then sent off into the Veteran experience.  
+    - Although the family member hub is the top referring page into the Veteran benefit hubs, the Veteran hubs are not referring traffic back to the family member hub as often, creating a missed opportunity to provide information on other benefits available to the visitor.
       
 3. **The family hub should include more than information on exploring and applying for benefits**
     - it should also include tasks related to family members being able to manage their own benefits
@@ -77,13 +78,13 @@ Notes:
 Date range: Aug 17, 2022 - Aug 16, 2023
 Description: General data about each family/caregiver benefits page within the benefits hubs, including the top previous page and top next page
 
-Hub > Page	| Views |	 Unique views 	(%)	| entrances 	(%)	|bounce rate	|exit rate	|time on page|	Prev page - % - rank | Next page - % - rank
---- | ---| --- | --- | --- | --- | --- | --- | ---
-Family hub	 |2,889,245 	 |	 1,441,441 	(49.89%)	 |	 473,705 	(16.40%) |	0.79%	 |	14.75%	 |	1:01 |		#1 Home	27.90%		<br> #2 R&S PACT page	12.03%	| #1 health > family	15.94%		<br> #2 Pension > survivors pen	12.96%
-Health care > <br>Family and caregiver health benefits	| 827,731 	| 513,577 	(62.05%)	| 146,430 	(17.69%)|	0.07%	|27.17%	|1:46	|**#1 family hub	49.94%**	<br>  #2 health > family > champva	9.02%	|  #1 health > family > champva	42.63% <br> #2 family hub	8.47%
-Disability > <br>DIC	| 1,257,791 |	 778,123 	(61.86%)	| 281,193 	(22.36%)	|0.63%	|20.95%	|1:26|	**#1 family hub	15.69%**	<br> #2 R&S PACT page	11.41%		| #1 Disability > DIC rates	32.68% <br> #8 family hub	3.13%	
-Education  > <br>Survivor and dependent benefits|	 1,160,511 	| 691,337 	(59.57%)|	 244,664 	(21.08%)	|0.64%|	22.58%	|1:16	| **#1 family hub	20.85%**	<br> #2 Education hub	9.96%		| #1 Education > survivor benefits > DEA	41.78% <br>  #14 family hub	1.87%
-Pension > <br>Survivors pension	| 1,106,007 |	 666,510 	(60.26%)|	 237,511 	(21.47%)	|0.68%|	23.56%|	1:38	|**#1 family hub	30.07%**	<br> #2 R&S PACT page	13.25%	| #1 Survivors pension rates	26.56%	#1 <br> #6 family hub	5.77%	
+Hub > Page | Views |  Unique views (%) | Avg views/mo | entrances (%)	| bounce rate | exit rate | time on page | Prev page - % - rank | Next page - % - rank
+--- | ---| --- | --- | --- | --- | --- | --- | --- | ---
+Family hub  | 2,889,245 | 1,441,441 (49.89%) | 240,770 | 473,705 (16.40%) | 0.79% | 14.75% | 1:01 | #1 Home 27.90% <br> #2 R&S PACT page 12.03%m| #1 health > family	15.94%	<br> #2 Pension > survivors pen	12.96%
+Health care > <br>Family and caregiver health benefits	| 827,731 | 513,577 (62.05%) | 73,144	| 146,430 (17.69%)|0.07%	|27.17%	|1:46	|**#1 family hub 49.94%** <br>  #2 health > family > champva	9.02%	|  #1 health > family > champva	42.63% <br> #2 family hub	8.47%
+Disability > <br>DIC	| 1,257,791 | 778,123 	(61.86%) | 104,816 | 281,193 (22.36%) | 0.63%|20.95%|1:26|**#1 family hub 15.69%** <br> #2 R&S PACT page	11.41%	| #1 Disability > DIC rates	32.68% <br> #8 family hub	3.13%	
+Education  > <br>Survivor and dependent benefits | 1,160,511 | 691,337 	(59.57%)| 96,709 | 244,664 (21.08%)|0.64%|	22.58%	|1:16	| **#1 family hub 20.85%** <br> #2 Education hub 9.96%	| #1 Education > survivor benefits > DEA 41.78% <br>  #14 family hub	1.87%
+Pension > <br>Survivors pension	| 1,106,007 | 666,510 (60.26%) | 92,167 | 237,511 (21.47%) |0.68%|23.56%|1:38	|**#1 family hub 30.07%** <br> #2 R&S PACT page	13.25%	| #1 Survivors pension rates 26.56% #1 <br> #6 family hub 5.77%	
 
 Notes:
 - The family member hub has more page views than any of the individual family benefit page
