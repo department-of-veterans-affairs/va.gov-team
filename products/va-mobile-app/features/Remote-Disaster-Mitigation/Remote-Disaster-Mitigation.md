@@ -69,20 +69,20 @@ Need to determine what message the user will experience when access is initially
 
 ### Roadmap 
 
-### MVP (TBD- To be approved)
+### MVP Appproach (To be approved prior to  Implementation Start)
 
 1. When we initially restrict access, we will provide the user with a generic message. (Allowing mobile time to figure out the “true problem”)
 
 
 2. **When (and if) the problem is Discovered:**
 
-(**Copy to  finalized**) 
 The user message will be refined/updated to give more specifics if applicable. Contents of that message will include:
 1. Updating the app (Via the store)
 2. Date, Month, Time (if we know it) to update (assuming we know this information)
 3. MVP only: Generic Help Desk Phone Number the user can call (**Phone number -TBD**). 
 
 
+(**Copy to  finalized**) 
 
 
 #### V2 and beyond (TBD- Not finalized)
