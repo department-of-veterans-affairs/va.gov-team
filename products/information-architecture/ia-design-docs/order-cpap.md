@@ -25,13 +25,12 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 
 ###### URL and breadcrumbs:
 
-1.  Order CPAP Devices - New
+1.  Order CPAP supplies - New
 
--   URL: va.gov/health-care/[H1 TBD by content]
+-   URL: va.gov/health-care/order-cpap-supplies
 
--   Breadcrumb: Home > Healthcare > [H1 TBD by content]
+-   Breadcrumb: Home > Healthcare > Order CPAP supplies
 
--   Notes: Let's use whatever the content team decides for the H1 to match as closely as possible with breadcrumb and url, but it will probably be something like /order-CPAP
 
 ###### Entry points:
 
@@ -39,9 +38,9 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 
 -   Placement description: In 'Manage Benefits' between 'Order hearing aid batteries and accessories' and 'Order prosthetic socks'
 
--   Link label: [TBD by content]
+-   Link label: Order CPAP supplies
 
--   Link destination: va.gov/health-care/[H1 TBD by content]
+-   Link destination: va.gov/health-care/order-cpap-supplies
 
 ###### Redirects:
 
