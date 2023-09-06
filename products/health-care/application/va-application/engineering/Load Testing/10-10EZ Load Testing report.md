@@ -21,18 +21,17 @@
 ---
 
 ## Enrollment status load test
-- **description** of what the this endpoint does
+
+- The Enrollment Eligibility endpoint **DESCRIPTION NEEDED** 
 - This endpoint connects to both the HCA E&E API and the MPI API.
+
 ### Test configuration
-We tested 4,114 requests through the Enrollment & Eligibility endpoint, sending 6.86 requests per second.  
+We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.86 requests per second.  
+
 ### Results
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
-| Enrollment & Eligibility | 4,114  |  0      |   6.86/s        |
-
-The MPI data in the screenshot is for a fake test user, not real PII.
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/922286fe-f94f-4a60-a4c4-564ce1eda51c)
+| Enrollment Eligibility | 4,114  |  0      |   6.86/s        |
 
 
 #### cpu load
@@ -52,16 +51,15 @@ The MPI data in the screenshot is for a fake test user, not real PII.
 ---
 
 ## Document upload load test
-### description of what the this endpoint does
-### test configuration
+- The hca_attachments endpoint  **DESCRIPTION NEEDED** 
+
+### Test configuration
 - We tested 20 users at 2 requests per second, up to 8.81 requests per second, with a 1.2mb file attachment through the hca_attachments endpoint.
-- 
-### results
+
+### Results
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
 |POST v0/hca_attachments | 5271 |  0   | 8.81/s |
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/4cbfbe91-7f69-462b-a474-fc292ff85edf)
 
 #### cpu load
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/219deb4f-d12c-46d2-9f06-fc29c157e3d9)
@@ -75,38 +73,21 @@ The MPI data in the screenshot is for a fake test user, not real PII.
 #### bytes received
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/fc8c0bbe-cd09-4e8e-95c1-75f26a01176e)
 
-### findings / issues
+### Findings / Issues
 - There were no errors and the endpoint performed well under stress.
 ---
 
 ## Submission load test
-### description of what the this endpoint does
-### test configuration
-- Asynchronous submission (submission that includes the Veteran's email address in the form)
-     - We tested 1598 requests at 2 requests per second
-- Synchronous submission (submission that does not include the Veteran's email address in the form)
-     - We tested 249 requests at .42 requests per second with 5mb file attachment
+- The health_care_applications endpoint  **DESCRIPTION NEEDED** 
 
-### results
+### Test configuration
+- We tested 249 requests at .42 requests per second with 5mb file attachment through the health_care_applications endpoint.
 
-#### Asynchronous submission test
-
-We tested 1598 requests at 2 requests per section.  There were 6 failures, less than 1% (.38%) of total requests.
-| Endpoint           | # Requests | # Failures |  Requests / s |
-| ------------------ | ---------- | ---------- |  ------------ |
-|POST v0/health_care_applications | 1598| 6  |  2/s |
-
-#### Synchronous submission test
-
-We tested 249 requests at .42 requests per second, each including a 5mb file attachment, which is over 6k times the usual volume.  There were 16 failures, 6% of total requests. 
+### Results
 
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
 |POST v0/health_care_applications | 249| 16  |  0.42 request per second |
-
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/58eab16e-31dd-4655-a77f-da6918f3c621)
-
 
 ### cpu load
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/4c2b7bed-0a2a-4e14-b2a1-767f3e717c30)
@@ -120,9 +101,8 @@ We tested 249 requests at .42 requests per second, each including a 5mb file att
 ### network bytes received
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/23df1d4b-2042-45f5-aa6b-1e5f0bbeec13)
 
-### findings / issues
-While there were errors, they mainly occurred with the increased file attachment size on the Synchronous test.  Most submissions are asynchronous, which further decreases the chance of synchronous submission failures.
-There is a retry function in place for the failures, and we have high confidence that the failures would be retried and submitted successfully.  
+### Findings / Issues
+While there were errors, There is a retry function in place for the failures, and we have high confidence that the failures would be retried and submitted successfully.  
 
 ---
 
