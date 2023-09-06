@@ -296,24 +296,28 @@ Family member benefits hub page - Not able to complete task = 85 records
   - 23/85 27% - overall satisfaction of 3
   - 12/85 14% - overall satisfaction of 4 or 5
   - 15/85 18% - blank/not rated
+
 Health care > Family and caregiver benefits - Not able to complete task =  9 records
   - overall score = 2.0 (excluding blanks)
   - **4/9 44%  - overall 1 or 2**
   - 2/9 22%  - overall 3
   - 0/9 0%  - overall 4 or 5
   - 3/9 33%  - blank/not rated
+
 Disability > DIC - not able to complete task = 21 records
   - overall score = 2.3 (excluding blanks)
   - **9/21 43%  - overall 1 or 2**
   - 5/21 24%  - overall 3
   - 2/21 10%  - overall 4 or 5
   - 5/21 24%  - blank/not rated
+
 Education > DEA - not able to complete task = 19 records
   - overall score = 2.2 (excluding blanks)
   - **7/19 37%  - overall 1 or 2 (all 1s)**
   - 3/19 16%  - overall 3
   - 3/19 16%  - overall 4 or 5
   - 6/19 32%  - blank/not rated
+
 Pension > survivors pension - not able to complete task = 21 records
   - overall score = 2.1 (excluding blanks)
   - **0/21 48%  - overall 1 or 2**
@@ -335,5 +339,4 @@ Pension > survivors pension - not able to complete task = 21 records
   - "Information on DIC is scattered and conflicting."
   - "need acess to needed forms made easier for surviving spouse benefits"
   - "It seems almost impossible to find the forms I need to apply for spousal benefits of a deceased veteran. There should be a way to just get a list of required forms."
-  - "impossible to find or search for info on spousal benefits of WWII veterans"![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/d28d9c76-e899-4a57-8a2b-8b107a9d83a4)
-
+  - "impossible to find or search for info on spousal benefits of WWII veterans"
