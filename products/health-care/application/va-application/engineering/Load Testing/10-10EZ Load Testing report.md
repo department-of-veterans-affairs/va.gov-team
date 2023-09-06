@@ -130,7 +130,7 @@ Note: Most submissions are asynchronous, which also decreases the chance of sync
 
 ### Summary
 
-There were issues with the file upload API under heavy load, see the [Issues Discovered section](#issues-discovered-during-testing). Errors start happening at around 30 requests per second in the staging enviroment (which has less resources to handle high load compared to production). However, historically only 1.6% of applications have included an attachment.  The expectation is that users will not experience errors at the 10x increased volume load.
+There were issues with the file upload API under heavy load, see the [Issues Discovered section](#issues-discovered-during-testing). Errors start happening at around 30 requests per second in the staging enviroment (which has less resources to handle high load compared to production). Historically, there are regularly around 4200 form submissions in a week. About 1.6% of submission have included an attachment. This comes to about 67 form submissions per week include an attachment. The attachment upload API is overloaded in staging at around 30 requests per second. If the submission load increased 10x, then there would 670 form attachment uploads per week. That is still unlikely to overload the 30 request per second limit.
 
 The Enrollment & Eligibility API performed well in the load test with no errors. There were a small number of errors with the 1010EZ submission API, but since we use retrying background jobs to submit applications, submissions should eventually go through even if there are initial errors.
 
