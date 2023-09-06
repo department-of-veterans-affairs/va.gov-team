@@ -76,7 +76,7 @@ The MPI data in the screenshot is for a fake test user, not real PII.
 
 ### Configuration
 
-We tested with 100 "users" sending requests through the endpoints listed below at 2 requests per second.  There were some failures at less than 1% of the requests sent.  At this configuration, the test performed well, however we did notice that the test started to have increased failures at higher request counts.  This is outlined in the Issues Discovered section above.
+We tested with 100 "users" sending requests through the endpoints listed below at 2 requests per second.  There were some failures at less than 1% of the requests sent.  At this configuration, the test performed well, however we did notice that the test started to have increased failures at higher request counts.  This is outlined in the [Issues Discovered section](#issues-discovered-during-testing) above.
 
 ### Results
 
