@@ -1,7 +1,7 @@
 # Manual-UI Test Plan - Appointments on MHV on VA.gov 
 
 ## Project Summary Feature [#57667](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/57667)
-MHV users will now use the Appointments tool on VA.gov. The changes are to update the URLs, breadcrumbs and page titles structure on the Appointments tool. The update will be consistent across the mulitple application on MHV on VA.gov.
+MHV users will now use the Appointments tool on VA.gov. The changes are to update the URLs, breadcrumbs, page titles, and re-directs structure on the Appointments tool. The update will be consistent across the mulitple application on MHV on VA.gov.
 
 ## Business Rules (more details can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#appointments-list))
 On the VAOS homepage, the app displays the following for each status: 
