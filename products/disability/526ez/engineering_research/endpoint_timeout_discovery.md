@@ -25,25 +25,17 @@ The original ask:
 ## Research
 
 ### List of Endpoints
+[All EVSS endpoints timeout after 2 minutes]([url](https://dsva.slack.com/archives/C02CQP3RFFX/p1694025006775109?thread_ts=1693249478.108359&cid=C02CQP3RFFX))
 - EVSS:
     - /wss-pciu-services-web/rest/pciuServices/v1
-        - ???
     - /wss-intenttofile-services-web/rest/intenttofile/v1
-        - Kayla Watanabe
     - /wss-ppiu-services-web/rest/ppiuServices/v1/paymentInformation
-        - Lorri Glover
     - /wss-form526-services-web/rest/form526/v1/ratedDisabilities
-        - Lorri Glover
     - /wss-form526-services-web-v2/rest/form526/v2/submit
-        - Kayla Watanabe
     - /wss-form526-services-web-v2/rest/form526/v2/getPdf
-        - Kayla Watanabe
     - /wss-document-services-web-#{Settings.evss.versions.documents}/rest/
-        - Rob Perea-Martinez
     - /wss-document-services-web-#{Settings.evss.versions.documents}/rest/
-        - Rob Perea-Martinez
     - /wss-form526-services-web-v2/rest/form526/v2
-        - Rob Perea-Martinez
 
 - LightHouse
     - /services/claims/v2/veterans
