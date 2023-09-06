@@ -34,7 +34,7 @@ In order to validate that the 10-10EZ form on VA.gov service can handle high pro
 - If not fixed now, what does this mean for increased volume in production?
      - If there is greatly increased volume then users could experience random errors when calling any endpoint that uses the postgres database (including 1010ez attachment upload and 1010ez form submission).
 - What is the liklihood that we will encounter this issue, as it is way over (how many times?) the usual volume of applications with attachments?
-     - There are regularly around 4200 form submissions in a week. Historically 1.6% of submission have included an attachment. So about 67 form submissions per week include an attachment. The attachment upload API is overloaded in staging at around 30 requests per second. If the submission load increased 10x, then there would 670 form attachment uploads per week. That is still unlikely to overload the 30 request per second limit.
+     - There are regularly around 4200 form submissions in a week. Historically 1.6% of submission have included an attachment. So about 67 form submissions per week include an attachment. The attachment upload API is overloaded in staging at around 30 requests per second. If the submission load increased 10x, then there would 670 form attachment uploads per week (avg .001/s). That is still unlikely to overload the 30 request per second limit.
 
 
 ## Baseline:
