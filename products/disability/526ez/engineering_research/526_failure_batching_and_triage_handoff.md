@@ -98,6 +98,27 @@ This option requries access to an intermediary server that run your rails consol
 - Start Docker in the background (the subsequent steps will use it)
 - pull 'devops' repo  
     - `git clone https://github.com/department-of-veterans-affairs/devops`
+- Generate AWS credentials
+   - Get your creds from AWS
+      - [Login to the AWS IAM dashboard](https://console.amazonaws-us-gov.com/iamv2/home?region=us-gov-west-1#/home)
+      - Visit the Users tab in the sidebar
+    <img width="673" alt="Screenshot 2023-09-06 at 2 02 43 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/3119948f-c484-4d67-b0e6-d578910003c5">
+
+      - Search for your User
+<img width="700" alt="Screenshot 2023-09-06 at 2 03 00 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/c4bf5813-232b-4cdd-a769-7f707f8f7712">
+
+      - Find the security credentials tab in the middle of the page
+<img width="778" alt="Screenshot 2023-09-06 at 2 04 34 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/a40e7a3b-b70e-43f8-a235-eb7ddd59e69b">
+
+      - Create an access key.  This will generate an AWS access key and an AWS secret key.  Store these somewhere safe (not in code)
+ <img width="724" alt="Screenshot 2023-09-06 at 2 05 16 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/37de7a72-5899-4965-a6bc-07f64aa12ccb">
+
+    - Set up your local AWS credentials
+      - Run `aws configure` and enter the credentials you just generated for the first two values.
+<img width="442" alt="Screenshot 2023-09-06 at 2 06 34 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/47b903c8-d505-4be0-b401-5cb2f357e617">
+      - For the third value, `region` enter `us-gov-west-1` as shown above
+      - No value is required for the fourth value (`Default output format`) so you can hit enter.
+      - You should see a message in your terminal to the effect of "Credentials will expire in 12 hours"   
 - authenticate your machine using the devops script
     `source devops/utilities/issue_mfa.sh AWS_USERNAME AWS_2FA_CODE`
 - tunnel into prod server
@@ -109,7 +130,8 @@ This option requries access to an intermediary server that run your rails consol
     - `sudo su` become super user
     - `docker exec -it vets-api bash`
 - start your rails console
-    - `bin/rails c`
+    - `bin/rails c --sandbox`
+    - NOTE: the `--sandbox` flag should be used if you are not explicitly attempting to modify local data, E.G. if you are just enqueuing jobs to third party services, and you are ok with READ ONLY on the local DB, then `--sandbox` is what you want.  If you are not using `--Sandbox`, then you are doing something terribly dangerous and should probably yell at your manager.
 
 ### 4. Import the IDs from step 1
 If you are using ArgoCD, you will need to copy paste them in.  ArgoCD has a
