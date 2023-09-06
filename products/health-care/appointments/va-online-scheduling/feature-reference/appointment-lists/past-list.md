@@ -14,7 +14,8 @@ As a Veteran, I want an overview of my appointment history so I can plan future 
 
 **Functional**
 - Display all supported appointment types [LINK TBD].
-- Display x years of past appointments
+- Cancelled appointments of any type do not display on the past appointments page.
+- Display 2 years of past appointments.
 
 ## User interface desig
 
