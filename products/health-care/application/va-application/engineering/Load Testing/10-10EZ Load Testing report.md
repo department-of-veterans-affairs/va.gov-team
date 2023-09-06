@@ -48,6 +48,7 @@ We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.
 
 ### Findings / Issues
 - There were no errors and the endpoint performed well under stress.
+
 ---
 
 ## Document upload load test
@@ -75,6 +76,7 @@ We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.
 
 ### Findings / Issues
 - There were no errors and the endpoint performed well under stress.
+
 ---
 
 ## Submission load test
@@ -103,6 +105,7 @@ We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.
 
 ### Findings / Issues
 While there were failures, there is a retry function in place and we have high confidence that the failures would be retried and submitted successfully.  
+**NEED EXPLANATION OF FAILURES - WHY DO WE THINK THEY ARE OCCURING FOR THIS TEST?  OR IS THIS PART OF THE PLATFORM WORK WE WOULD NEED DONE?**
 
 ---
 
