@@ -71,12 +71,12 @@ The MPI data in the screenshot is for a fake test user, not real PII.
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/1b9d458f-36c0-4197-bc82-03a335220b10)
 
 
-## Test Run on Submissions and document uploads: Production Load Test
+## Test Run on Submissions and document uploads: Load Test
 
 
 ### Configuration
 
-We tested with 100 "users" sending requests through the endpoints listed below at 2 requests per second.  There were some failures at less than 1% of the requests sent.  At this configuration, the test performed well, however we did notice that the test started to have increased failures at higher request counts.  This is outlined in the [Issues Discovered section](#issues-discovered-during-testing) above.
+We tested with 100 "users" sending requests through the endpoints listed below at 2 requests per second, which is over 28k times the usual volume with file attachments.  There were some failures at less than 1% of the requests sent.  At this configuration, the test performed well, however we did notice increased failures at higher request counts with file attachments.  This is outlined in the [Issues Discovered section](#issues-discovered-during-testing) above.
 
 ### Results
 
@@ -94,7 +94,8 @@ We tested with 100 "users" sending requests through the endpoints listed below a
 
 **249 requests at .42 requests per second**
 
-Below are the results for form submissions that all include a 5mb file upload: 249 requests at a rate of 0.42 requests per second and 16 failures. While the there were some failures at 6% of the requests, we do have a retry system that will resubmit the requests.
+We tested 249 requests at .42 requests per second, each including a 5mb file attachment, which is over 6k times the usual volume.  There were 16 failures, 6% of total requests. There is a retry function in place for these failures, and we have high confidence that the failures would be retried and submitted successfully.  
+Note: Most submissions are asynchronous, which also decreases the chance of synchronous submission failures.
 
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
@@ -124,21 +125,9 @@ Below are the results for form submissions that all include a 5mb file upload: 2
 
 ### Summary
 
-There were issues with the file upload API under heavy load. Errors start happening at around 30 requests per second in the staging enviroment (which has less resources to handle high load compared to production). However, historically only 1.6% of applications have included an attachment so even under 10x increased load users probably won't experience errors.
+There were issues with the file upload API under heavy load, see the [Issues Discovered section](#issues-discovered-during-testing). Errors start happening at around 30 requests per second in the staging enviroment (which has less resources to handle high load compared to production). However, historically only 1.6% of applications have included an attachment.  The expectation is that users will not experience errors at the 10x increased volume load.
 
 The Enrollment & Eligibility API performed well in the load test with no errors. There were a small number of errors with the 1010EZ submission API, but since we use retrying background jobs to submit applications, submissions should eventually go through even if there are initial errors.
 
-The application is generally ready to support the increased traffic that is expected with the PACT Act special enrollment period, but we will look into improving the file upload API to fix the issues we found during load testing.
+The application is generally ready to support the increased traffic that is expected with the PACT Act special enrollment period.  We will look into improving the file upload API to fix the issues we found during load testing.
 
-
-
-
-
-## Supporting Materials
-
-**EXAMPLES BELOW**
-
-* [Locust test definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/url-shortener/supporting_docs/locustfile.py)
-* [Baseline test report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/url-shortener/supporting_docs/baseline_test.html)
-* [Production load test report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/url-shortener/supporting_docs/production_load_test.html)
-* [Stress test report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/url-shortener/supporting_docs/stress_test.html)
