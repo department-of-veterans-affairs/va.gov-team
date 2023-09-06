@@ -30,7 +30,7 @@ In order to validate that the 10-10EZ form on VA.gov service can handle high pro
 #### Resolution
 
 - What steps are needed with Platform to resolve (if we know the steps)?
-     - Change the connection pool variable so that the total number of application connections is less than the max connections allowed by postgres, then run the load test again and see if errors still occur.
+     - Change the connection pool variable so that the total number of application connections is less than the max connections allowed by postgres, then run the load test again and see if errors still occur. - Ticket [#65026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65026) created for our team to work with Platform team on the resolution.
 - If not fixed now, what does this mean for increased volume in production?
      - If there is greatly increased volume then users could experience random errors when calling any endpoint that uses the postgres database (including 1010ez attachment upload and 1010ez form submission).
 - What is the liklihood that we will encounter this issue, as it is way over (how many times?) the usual volume of applications with attachments?
