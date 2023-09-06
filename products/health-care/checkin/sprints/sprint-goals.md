@@ -79,7 +79,7 @@ ________________________________________________________________________________
 #### PLANNED RELEASES 
 - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)  **EPIC: [Add Cell Phone to LoROTA Entry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)**
 - **EPIC: [Allow Submission of Travel Claim for 1 Facility Per Day](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)**
-- **EPIC: [Decrease No's to Filing for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63928)**
+- ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) **EPIC: [Decrease No's to Filing for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63928)**
 - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)  **[[FE] Add plain language statement to explain next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62927)**
 
 #### SPRINT TICKETS
