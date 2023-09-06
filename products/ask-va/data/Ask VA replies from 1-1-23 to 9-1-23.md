@@ -1,5 +1,5 @@
-# Ask VA replies from 1-1-2023 to 9-1-23
-Last updated: 9/5/23
+# Ask VA replies from 1-1-23 to 9-1-23
+Last updated: 9/6/23
 
 ## Overview
 We recommend continuing to allow submitters to reply to inquiries both by email (unauthenticated) and the AVA dashboard (authenticated) in Phase 1. We reviewed: 
