@@ -83,7 +83,7 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Past booked, upcoming and pending VA and Community Care appointments - iOS devices
     - [ ] Past booked, upcoming and pending VA and Community Care appointments - Android devices
 
- - [ ] Use Case 5 - Direct scheduling worfklow with the new URL, breadcrumb and re-direct changes 
+- [ ] Use Case 5 - Direct scheduling worfklow with the new URL, breadcrumb and re-direct changes 
       
       Configuration setup in test environment must include: 
   - [ ] Tester will go through each step of the direct scheduling workflow in the tool
@@ -94,7 +94,7 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Facility
     - [ ] ....
 
-  - [ ] Use Case 6 - Pending request worfklow with the new URL, breadcrumb and re-direct changes (VA) 
+- [ ] Use Case 6 - Pending request worfklow with the new URL, breadcrumb and re-direct changes (VA) 
       
       Configuration setup in test environment must include: 
   - [ ] Tester will go through each step of the direct scheduling workflow in the tool
@@ -105,7 +105,7 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Facility
     - [ ] ....
    
-  - [ ] Use Case 7 - Pending request worfklow with the new URL, breadcrumb and re-direct changes (Community care) 
+- [ ] Use Case 7 - Pending request worfklow with the new URL, breadcrumb and re-direct changes (Community care) 
       
       Configuration setup in test environment must include: 
   - [ ] Tester will go through each step of the direct scheduling workflow in the tool
@@ -116,7 +116,7 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Facility
     - [ ] .... 
 
-  - [ ] Use Case 8 - Direct schedule (for COVID-19) worfklow with the new URL, breadcrumb and re-direct changes 
+- [ ] Use Case 8 - Direct schedule (for COVID-19) worfklow with the new URL, breadcrumb and re-direct changes 
       
       Configuration setup in test environment must include: 
   - [ ] Tester will go through each step of the direct scheduling workflow in the tool
