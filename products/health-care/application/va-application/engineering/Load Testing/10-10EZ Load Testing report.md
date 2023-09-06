@@ -20,8 +20,6 @@ In order to validate that the 10-10EZ form on VA.gov service can handle high pro
 
 1. When >20 simultaneous connections are made to the file upload api, the postgres error "FATAL:  remaining connection slots are reserved for non-replication superuser connections" occurs. File uploads will fail until the load decreases to the point where the postgres connections are no longer maxed out.
 
-**200 users at 2 per second**
-
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
 |POST v0/hca_attachments | 1901  |  2   | 25.6 request per second |
