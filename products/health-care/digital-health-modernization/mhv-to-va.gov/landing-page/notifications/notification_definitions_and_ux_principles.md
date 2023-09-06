@@ -15,7 +15,10 @@ Created in preparation for Design intent: Secure message notification
 ## Dot behavior/How it works:
 - Dot shows up next to the inbox link on the landing page when there is 1 or more unread message(s) present in the inbox
 - When user checks inbox without opening the unread message(s), the dot indicator remains present
-- When user opens all unread messages, the dot indicator goes away
+- The dot goes away when content has been read or no longer "new." Perpetual dots that cannot be cleared are not helpful to users - signal something truly new and/or upcoming.
+  - i.e. When user opens all unread messages, the dot indicator goes away
+  - i.e. When a user's upcoming appointment ends, the dot goes away
+  - i.e. When a user's AVS has been viewed, the dot goes away (is this technically feasible? If not, we shouldn't use the dot for it)
 
 ## Why not the notification component?
 - Any notification that gets added to the VA health experience is in **addition** to the various notifications that Veterans already receive including texts, phone calls, emails, and mailed letters
