@@ -11,7 +11,7 @@ This file contains information on the following
 
 
 
-## High level findings (Draft)
+## Findings
 
 1. **Research and data is showing an increase in need of a improved centralized benefit area for family members and caregivers**
     - Recent tree tests for the MHV portal showed more family member participants looking initially to the family member benefit hub for information on their own benefits rather than the top level Veteran benefit hubs.
