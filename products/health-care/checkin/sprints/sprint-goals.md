@@ -11,6 +11,7 @@ ________________________________________________________________________________
     - **EPIC: [Allow Submission of Travel Claim for 1 Facility Per Day](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)**
     - **Sub Goal: Evolve travel reimbursement during online check-in**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
+     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
      - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Add Translated Content**
