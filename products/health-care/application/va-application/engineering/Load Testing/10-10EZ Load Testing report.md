@@ -26,7 +26,7 @@
 - This endpoint connects to both the HCA E&E API and the MPI API.
 
 ### Test configuration
-We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.86 requests per second.  
+We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.86 requests per second. 
 
 ### Results
 | Endpoint           | # Requests | # Failures |  Requests / s |
@@ -54,7 +54,7 @@ We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.
 - The hca_attachments endpoint  **DESCRIPTION NEEDED** 
 
 ### Test configuration
-- We tested 20 users at 2 requests per second, up to 8.81 requests per second, with a 1.2mb file attachment through the hca_attachments endpoint.
+- We tested 20 users at 2 requests per second, up to 8.81 requests per second, with a 1.2mb file attachment through the hca_attachments endpoint.  
 
 ### Results
 | Endpoint           | # Requests | # Failures |  Requests / s |
@@ -81,7 +81,7 @@ We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.
 - The health_care_applications endpoint  **DESCRIPTION NEEDED** 
 
 ### Test configuration
-- We tested 249 requests at .42 requests per second with 5mb file attachment through the health_care_applications endpoint.
+- We tested 249 requests at .42 requests per second with 5mb file attachment through the health_care_applications endpoint.  
 
 ### Results
 
@@ -102,7 +102,7 @@ We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/23df1d4b-2042-45f5-aa6b-1e5f0bbeec13)
 
 ### Findings / Issues
-While there were errors, There is a retry function in place for the failures, and we have high confidence that the failures would be retried and submitted successfully.  
+While there were failures, there is a retry function in place and we have high confidence that the failures would be retried and submitted successfully.  
 
 ---
 
