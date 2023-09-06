@@ -52,7 +52,6 @@ Since January 2023, the number of comments around printing has been minimal, wit
 | March         | **7**  | 5 | 2 | 0 |
 | February      | **2**  | 2 | 0 | 0 |
 | January       | **3**  | 2 | 1 | 0 |
-
 | December 2022 | **3** | 3 | 0 | 0 |
 | November      | **0**  | 0 | 0 | 0 |
 | October       | **1**  | 1 | 0 | 0 |
