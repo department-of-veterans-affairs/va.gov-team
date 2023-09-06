@@ -4,6 +4,7 @@
 ## Background
 - The 10-10EZ Veteran health care application is an online form that allows Veterans to apply for VA health care enrollment.
 - list of dependencies (both in internal and external to VA.gov
+---
 
 ## Enrollment status load test
 - **description** of what the this endpoint does
@@ -34,6 +35,7 @@ The MPI data in the screenshot is for a fake test user, not real PII.
 
 ### Findings / Issues
 - There were no errors and the endpoint performed well under stress.
+---
 
 ## Document upload load test
 ### description of what the this endpoint does
@@ -41,11 +43,13 @@ The MPI data in the screenshot is for a fake test user, not real PII.
 - 
 ### results
 ### findings / issues
+---
 
 ## Submission load test
 ### description of what the this endpoint does
 ### test configuration
 ### results
 ### findings / issues
+---
 
 ## Conclusion and recommendation
