@@ -43,6 +43,7 @@ This team is focused on create the new experience on va.gov and integration vets
 ### For the API team 
 
 - A performant API that can be used to create valid claims
+- A perforant API that can be used to query for claim details
   
 
 ## Architecture 
