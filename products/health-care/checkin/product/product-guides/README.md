@@ -2,12 +2,11 @@
 
 ## Day of Check-In (or Patient Check-In)
 
-Last uploaded: August 15, 2023
+Last uploaded: September 06, 2023
 
-- [PATIENT.CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/12439557/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
+- [PATIENT.CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/12539081/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
 
-- [PATIENT.CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/12439560/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
-
+- [PATIENT.CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/12539088/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
 
 
 ## Pre-Check-In
