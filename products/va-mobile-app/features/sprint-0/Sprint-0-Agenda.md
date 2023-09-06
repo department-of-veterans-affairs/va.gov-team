@@ -10,8 +10,7 @@ The Sprint 0 meeting is a time to do the following:
 * Review product briefs that we can pull from in a future quarter
 * Allow time with POs to ask questions or seek feedback on Sprint 0s in progress
 
-[View Sprint 0 template](https://docs.google.com/document/d/15_1z4xmZSo7OvD9KvdV-f-P_p3JswH8tNs0jhTP-toc/edit) \
-[New Team Product Flow - Mobile](https://docs.google.com/presentation/d/1IkJRZbHv3tUc8GF0ngO8FdcOZypOpgwvpFF_EasFFnk/edit#slide=id.g33cc3b02a5_0_49) 
+[View Sprint 0 template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/sprint-0/product-brief-template.md) \
 
 
 ## Future Sprint 0s (not yet ready)
@@ -39,7 +38,7 @@ The Sprint 0 meeting is a time to do the following:
     * Has edipi on it
     * Has photo
     * H623A - eligibility letter for getting on base, doesn’t have a photo so we should look at this for VHIC/VIC
-* [Omni-channel handoffs](https://docs.google.com/document/d/1fIqeZ3Ajbn6VBo-nYuVo8fdNLGHAsaqNJLxkICph0gk/edit?usp=share_link) 
+* [Omni-channel handoffs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Call_Center_Integration/Call_Center_Integration.md) 
 * [External Links - Minimize and Refine](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4077)
 * Personalized Notifications
     * Showing changes of statuses, etc.
