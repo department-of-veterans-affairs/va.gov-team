@@ -30,7 +30,13 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 -   URL: va.gov/health-care/order-cpap-supplies
 
 -   Breadcrumb: Home > Healthcare > Order CPAP supplies
+-   
 
+2.  Form: Order CPAP and hearing aid supplies - Changing
+
+-   URL: va.gov/health-care/order-hearing-and-cpap-supplies
+
+-   Breadcrumb: Home > Healthcare > [Match H1]
 
 ###### Entry points:
 
@@ -44,7 +50,11 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 
 ###### Redirects:
 
-No redirects, since this is a new page.
+We will be setting up a new URL that includes the CPAP ordering, so we will have one redirect in place:
+
+| Current URL                                                                 | Redirect to                                                     |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------|
+| https://www.va.gov/health-care/order-hearing-aid-batteries-and-accessories/ | https://www.va.gov/health-care/order-hearing-and-cpap-supplies/ |
 
 Next IA steps for product team:
 
