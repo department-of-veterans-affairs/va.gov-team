@@ -36,6 +36,7 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] vets-api Chip Library Error Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64492)
             - Blocked by Mobile Team
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Pull out Wireframes for Priorities 7-9](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62964)
@@ -52,7 +53,7 @@ ________________________________________________________________________________
         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62847)
 - **GOAL: Address tech & design debt**    
     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Update to v1 facilities API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64491)
-    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Fix and improve cypress test for next of kin additional info]()
+    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE][TECH DEBT] - Disallowed Cypress Test Specs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60976)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [Bug] Update Wireframes to remove timezone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54002)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] [PRE-CHECKIN] Update canceled appointment behavior & messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51866)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Update Next of Kin Wireframes Due to Platform Design Feedback](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/64341)
