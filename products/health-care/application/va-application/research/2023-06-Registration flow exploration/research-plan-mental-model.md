@@ -161,6 +161,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 | September 20, 2023 	| 12pm ET - 7pm ET 	|
 | September 21, 2023 	| 12pm ET - 7pm ET 	|
 | September 22, 2023 	| 1pm ET - 4pm ET 	|
+| September 25, 2023 	| 12pm ET - 7pm ET 	|
 
 
 
