@@ -264,28 +264,33 @@ Description: The top 10 searches containing the each of following terms: depende
   - **38% (25/65) pertained to applying for, or finding information on getting benefits for a family member or caregiver**
   - 15% (10/65) pertained to managing a family member or caregiver benefits
 
-- Family member benefits hub page - Not able to complete task = 85 records
-  - **35/80 44% -  overall satisfaction of 1 or 2**
-  - 23/80 28% - overall satisfaction of 3
-  - 12/80 15% - overall satisfaction of 4 or 5
-  - 15/80 19% - blank/not rated
-- Health care > Family and caregiver benefits - Not able to complete task =  9 records
+Family member benefits hub page - Not able to complete task = 85 records
+  - overall score = 2.4 (excluding blanks)
+  - **35/85 41% -  overall satisfaction of 1 or 2**
+  - 23/85 27% - overall satisfaction of 3
+  - 12/85 14% - overall satisfaction of 4 or 5
+  - 15/85 18% - blank/not rated
+Health care > Family and caregiver benefits - Not able to complete task =  9 records
+  - overall score = 2.0 (excluding blanks)
   - **4/9 44%  - overall 1 or 2**
   - 2/9 22%  - overall 3
   - 0/9 0%  - overall 4 or 5
   - 3/9 33%  - blank/not rated
-- For disability > DIC - not able to complete task = 21 records
+Disability > DIC - not able to complete task = 21 records
+  - overall score = 2.3 (excluding blanks)
   - **9/21 43%  - overall 1 or 2**
   - 5/21 24%  - overall 3
   - 2/21 10%  - overall 4 or 5
   - 5/21 24%  - blank/not rated
-- For education > DEA - not able to complete task = 19 records
+Education > DEA - not able to complete task = 19 records
+  - overall score = 2.2 (excluding blanks)
   - **7/19 37%  - overall 1 or 2 (all 1s)**
   - 3/19 16%  - overall 3
   - 3/19 16%  - overall 4 or 5
   - 6/19 32%  - blank/not rated
-- For pension > survivors pension - not able to complete task = 21 records
-  - 1**0/21 48%  - overall 1 or 2**
+Pension > survivors pension - not able to complete task = 21 records
+  - overall score = 2.1 (excluding blanks)
+  - **0/21 48%  - overall 1 or 2**
   - 6/2 29%  - overall 3
   - 1/21 5%  - overall 4 or 5
   - 4/21 19%  - blank/not rated
