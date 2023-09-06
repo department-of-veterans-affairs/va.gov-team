@@ -5,13 +5,13 @@
 
 In order to validate that the 10-10EZ form on VA.gov service can handle high production loads, load testing was performed on 08/28/2023-8/31/2023. Tests were performed to:
 
-* test anticipated production loads, at 10x the usual volume
+* test anticipated production loads, at at least 10x the usual volume
 
 
 ## Issues discovered during testing
 
 
-### v0/hca_attachment fails at higher than 30 requests per second in staging environment (production environment has increased capacity)
+### v0/hca_attachment fails at higher than 20 requests per second in staging environment (production environment has increased capacity)
 
 #### Background
 
@@ -38,14 +38,14 @@ We will coordinate with platform to fix this issue.  TBD ON ACTUAL SOLUTION
 - Over the last 7 months, there is a daily submission average of 6 applications that include file attachments for the 10-10EZ.  
      - The 7 month total 1,468 submissions with attachments/7 month total 91,187 submissions = 1.6% of submissions include an attachment.
 
-## Test Run on Enrollment & Eligibility endpoint: Production Load Test
+## Test Run on Enrollment & Eligibility endpoint: Load Test
 
 
 ### Configuration
 
 Staging environment
 
-We tested 4,114 requests through the Enrollment & Eligibility endpoint, sending 6.86 requests per second.  This endpoint connects to both the HCA E&E API and the MPI API. There were no errors and the endpoint performed well under stress.
+We tested 4,114 requests through the Enrollment & Eligibility endpoint, sending 6.86 requests per second.  This is at over 900x the usual volume.  This endpoint connects to both the HCA E&E API and the MPI API. There were no errors and the endpoint performed well under stress.
 
 ### Results
  
@@ -85,9 +85,9 @@ We tested with 100 "users" sending requests through the endpoints listed below a
 **100 users at 2 requests per second**
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
-|POST v0/hca_attachments | 1535 |  13   | 2 request per second |
-|POST v0/health_care_applications | 1598| 6  |  2 request per second |
-|GET v0/maintenance_windows  | 100  | 0   | 2 request per second |
+|POST v0/hca_attachments | 1535 |  13   | 2/s |
+|POST v0/health_care_applications | 1598| 6  |  2/s |
+|GET v0/maintenance_windows  | 100  | 0   | 2/s |
 
 
 #### Synchronous submission test
