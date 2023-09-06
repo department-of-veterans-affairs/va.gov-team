@@ -29,15 +29,13 @@ _Use Case: A feature (or part of feature) is broken in the mobile application an
 
 ### Other Possible Use Cases to analyze: (TBD)
 
-1. **Roll Backs**: IOS app or Android Store updates go through review process and can take 24-48 hours, longer if rejected. Rollbacks can be done withouth any backend code changes.
+1. **RollBacks**: IOS app or Android Store updates go through a review process and can take 24-48 hours, longer if rejected. Rollbacks can be done without any backend code changes.
 
-2. **Feature Rollouts** by % **(Paced Rollout)- Set conditional values in the your app that only a segment of users can see the feature. Ex: 25% of population for "X" feature
 
-3. **A/B Testing:** Ability to enable and disable features of a subset of users. % of Population is served a NEW experience vs. % gets old experience. 
+2. **Feature Rollouts** by % **(Paced Rollout)- Set conditional values in the app that only a segment of users can see the feature. Ex: 25% of population for "X" feature
 
-The A/B use case will be great for statistical analysis to determine the impact of a feature an gain feature confidence on that new feature. This will help us determine if this change is an improvement over the old version.
 
-In additon, if bugs are discovered, features can easily be disabled remotely withought having to go through the store release process.
+3. **A/B Testing:** Ability to enable and disable features of a subset of users. % of Population is served a NEW experience vs. % gets old experience.
 
 
 ### Desired Outcomes
