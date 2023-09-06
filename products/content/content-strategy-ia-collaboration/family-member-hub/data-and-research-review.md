@@ -13,32 +13,28 @@ This file contains information on the following
 
 ## High level findings (Draft)
 
-From Veteran and family member research
-- The streamlined health care hub helped visitors find the correct family and caregiver benefit information, as opposed to selecting veteran content to find their answers
-- Recent tree tests for the MHV portal showed more family member participants looking initially to the family member benefit hub for information on their own benefits
-- In addition, the streamlined hub showed an increase of family members looking for travel pay within the family member hub.  In these tests, that hub was not built out so they did not find the answers there and had to look elsewhere, but this indicates their initial mindset to favor the family member hub
-- Both rounds of the MHV portal tree testing showed
-
-From data
-- Over the past year, the family member hub has had more page views than any of the other family member benefit pages within the benefit hubs  
-- It is also the #1 referring page on VA.gov to all of the other benefit pages within the benefit hubs.  However, visitors do not go to the family member hub after viewing family content within benefit hub page as often.  So while the family hub consistently refers visitors to family content in the veteran hubs, the family content in veteran hubs is not referring visitors to the family  hub.  This is a potential opportunity to better expose family members to the other benefit options they have. 
-- The family member hub is clicked at least 4x more than any other family content option in the top nav, but quite a bit less than the core benefit options
-- Top searches contain more specific terms than "family" - i.e. dependent, caregiver, survivor, spouse
-
-From visitor feedback
-- Of the feedback surveys submitted on core benefit pages for family members, most rated each of the pages as 1 or 2 for overall satisfaction
-- 38% of the feedback comments received specifically indicated that they were attempting to apply for or find information about getting benefits for family members or caregivers, and only 15% pertained to tasks related to managing family or caregiver benefits. The rest of the comments were either related to Veteran benefits, or just general questions.
-- For the intercept survey, of those that were intercepted on core benefit pages for family members, 25% of the comments were specifically related to applying for or finding information on getting family member or caregiver benefits, while only 7% pertained to tasks related to managing family or caregiver benefits.  The rest of the comments were either related to Veteran benefits, or just general questions.
-- Feedback "Find out what programs my daughter is eligible for (I am 100% SDV, her father transferred his ch 33 to her as well) Give us a FILTER! Ask if we are the vet, spouse, child, age, etc."
-- Intercept "It seems almost impossible to find the forms I need to apply for spousal benefits of a deceased veteran. There should be a way to just get a list of required forms."
-
-
-Thoughts
-- Research and data is showing a trend towards more use of the family member hub 
-- The hub name change from "Family member" to "Family and caregiver" seemed to improved its findability, and search data leans towards more specific labels
-- Feedback given on the family and caregiver pages indicate that they are primarily looking for information related to getting benefits for themselves
-- Pages within the Veteran benefits hubs are still very much needed, but should strongly reference and link to the family member hub
-- The family hub should include more than information on exploring and applying for benefits - it should also include tasks related to family members being able to manage their own benefits
+1. **Research and data is showing an increase in need of a improved centralized benefit area for family members and caregivers**
+    - Recent tree tests for the MHV portal showed more family member participants looking initially to the family member benefit hub for information on their own benefits rather than the top level Veteran benefit hubs.
+    - Analytics is showing a steady increase in traffic to the family member hub since it's launch in 2019.
+    - The family member hub is clicked at least 4x more than any other family option in the top nav
+    - Over the past year, the family member hub has had more page views than any of the other core family benefit landing pages within the benefit hubs.  
+    - Of the feedback surveys submitted on core family benefit landing pages, most rated each of the pages as 1 or 2 for overall satisfaction
+    - In the VEO Military Spouse research, it was found that spouses feel like a 3rd wheel to the military, and they want to be seen as their own person
+      
+2. **The current experience and content offered for family members and caregivers is minimal, scattered, and disjointed**
+    - The family member and caregiver content is light and often intermingled with Veteran pages. In some cases, the family member information in placed on the core Veteran page rather than on it's own page. 
+    - In tree tests for the health portal, family member participants often mistakenly selected their answer from Veteran benefit pages rather than a page specific to family members. As we streamlined the Veteran benefit hub and built out the family hub, we saw this behavior start to change.
+    - The family member hub is the top referring page to all of the individual family benefit landing pages - visitors are often looking to the family member hub to find their answer, but are then sent off into the Veteran experience.
+    - In addition, the Veteran hubs are not referring traffic back to the family member hub, creating a potential missed opportunity to provide information on other benefits available to the visitor.
+      
+3. **The family hub should include more than information on exploring and applying for benefits**
+    - it should also include tasks related to family members being able to manage their own benefits
+    - In the health portal research, when the Veteran benefit hub was streamlined, it showed an increase of family members looking for travel pay within the family member hub. 
+    - 38% of the feedback comments received specifically indicated that they were attempting to apply for or find information about getting benefits for family members or caregivers, and only 15% pertained to tasks related to managing family or caregiver benefits
+      
+4. **The family member hub label needs to capture the various audiences under this umbrella.** 
+    - Top searches contain more specific terms than "family" - i.e. dependent, caregiver, survivor, spouse
+    - In the health portal research, a slight change from "family member benefits" to "family and caregivers" increased traffic and selections in this area!
 
 
 
@@ -46,26 +42,37 @@ Thoughts
 
 ## <a name="analytics"></a>Site analytics and search data 
 
-### YoY Performance of the [Family member benefits hub page](https://www.va.gov/family-member-benefits)
+### Summary
+
+- Over the past year, the family member hub has had more page views than any of the other family member benefit pages within the benefit hubs  
+- It is also the #1 referring page on VA.gov to all of the other benefit pages within the benefit hubs.  However, visitors do not go to the family member hub after viewing family content within benefit hub page as often.  So while the family hub consistently refers visitors to family content in the veteran hubs, the family content in veteran hubs is not referring visitors to the family  hub.  This is a potential opportunity to better expose family members to the other benefit options they have. 
+- The family member hub is clicked at least 4x more than any other family content option in the top nav, but quite a bit less than the core benefit options
+- Top searches contain more specific terms than "family" - i.e. dependent, caregiver, survivor, spouse
+
+
+### Details
+
+#### YoY Performance of the [Family member benefits hub page](https://www.va.gov/family-member-benefits)
 
 Date range: Calendar years, 2019 starts on March 1,  2023 ends on Aug 16, 2023
 Description: General data for the family member benefits hub page since the launch of the page
 
-Year | Page views | Unique page views (%) | Entrances (%) | Bounce rate | Exit rate | Time on page
---- | ---| --- | --- | --- | --- | ---
-2019 | 663,259 |	 389,612 (58.74%)	| 124,970 	(18.84%)| 35.46%	| 17.35% |	1:14
-2020 | 1,063,499 |	 810,571 	(76.22%)	| 363,212 	(34.15%)	| 40.23%	| 26.37%	| 1:45
-2021 | 1,188,723 |	 930,011 	(78.24%)	| 346,858 	(29.18%)	| 39.46%	| 23.77% |	1:48
-2022	| 1,610,120 	| 1,112,459 	(69.09%)	| 385,145 	(23.92%)	| 7.63%	| 20.02%	| 1:28
-2023	| 1,803,110 |	 751,674 	(41.69%)	| 248,439 	(13.78%)	| 0.81%	| 12.44%	| :50
+Year | Page views | Unique page views (%) | Avg views/mo | Entrances (%) | Bounce rate | Exit rate | Time on page
+--- | ---| --- | --- | --- | --- | --- | ---
+2019 | 663,259 | 389,612 (58.74%) | 66,326 | 124,970 (18.84%)| 35.46% | 17.35% |	1:14
+2020 | 1,063,499 | 810,571 (76.22%) | 88,625 | 363,212 (34.15%)| 40.23% | 26.37% | 1:45
+2021 | 1,188,723 | 930,011 (78.24%) | 99,060 | 346,858 (29.18%)| 39.46% | 23.77% |	1:48
+2022 | 1,610,120 | 1,112,459 (69.09%) | 134,177	| 385,145 (23.92%)| 7.63% | 20.02% | 1:28
+2023 | 1,803,110 | 751,674 (41.69%) | 240,415 | 248,439 (13.78%)| 0.81% | 12.44% | :50
+
 
 
 Notes: 
 - In 2022: There was a steep decline in bounce rate from Feb (38.93%) to March (10.3%) to April (0.73%); Other hubs also saw this decline, ebenefits and myhealth did not; seems to be isolated to modernized va.gov pages
-- In2023: Spike of traffic in March (3x) and April (2x) - this correlates to spikes across the site that do not have an explanation; no spikes in august to correlate with PACT signing or deadline; small spike on Feb 2, 2023
+- In 2023: Spike of traffic in March (3x) and April (2x) - this correlates to spikes across the site that do not have an explanation; no spikes in august to correlate with PACT signing or deadline; small spike on Feb 2, 2023
 
 
-### Past year performance of key family member benefits pages
+#### Past year performance of key family member benefits pages
 
 Date range: Aug 17, 2022 - Aug 16, 2023
 Description: General data about each family/caregiver benefits page within the benefits hubs, including the top previous page and top next page
@@ -84,7 +91,7 @@ Notes:
 - The percent of visitors going to the family member hub after viewing a benefit page is low
 
 
-## Top previous and next pages in past year
+#### Top previous and next pages in past year
 
 Date range: Aug 17, 2022 - Aug 16, 2023
 Description: The top pages viewed prior to and after the family member benefits hub page
@@ -105,7 +112,7 @@ Top previous pages - % | Top next pages -  %
 Notes:
 - The top areas of previous pages were the home page, benefit hub pages, and Resources and support pages
 
-## Top nav click events 
+#### Top nav click events 
 
 Date range: Aug 17, 2022 - Aug 16, 2023
 Description: Number of clicks each top level option in the top nav received, as well as the number of clicks on family/caregiver specific links in the top nav
@@ -136,7 +143,7 @@ Pension > Survivors pension 	 | 16,513
 - Sign in	 - 7,666 
 
 
-## Top related search terms
+#### Top related search terms
 
 Date range: Aug 17, 2022 - Aug 16, 2023
 Description: The top 10 searches containing the each of following terms: dependent, caregiver, spouse, family, or survivor
@@ -191,6 +198,14 @@ Description: The top 10 searches containing the each of following terms: depende
 
 ## <a name="research"></a>Past Veteran and family member research
 
+### Summary
+- The streamlined health care hub helped visitors find the correct family and caregiver benefit information, as opposed to selecting veteran content to find their answers
+- Recent tree tests for the MHV portal showed more family member participants looking initially to the family member benefit hub for information on their own benefits
+- In addition, the streamlined hub showed an increase of family members looking for travel pay within the family member hub.  In these tests, that hub was not built out so they did not find the answers there and had to look elsewhere, but this indicates their initial mindset to favor the family member hub
+- Both rounds of the MHV portal tree testing showed
+
+### Details
+
 [12/2022 My Health IA test Round 2 - Caregivers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-12-health-apt-tree-test-round2/mhv-on-va-round-2-tree-test-findings.md)
 
 - In this version of the IA (H2) - the health care hub was further streamlined, and the family hub was renamed to "Family and caregivers"
@@ -242,7 +257,17 @@ Description: The top 10 searches containing the each of following terms: depende
 
 ## <a name="callcenter"></a>Summary of call center and site feedback
 
-### Data received 
+### Summary
+
+- Of the feedback surveys submitted on core benefit pages for family members, most rated each of the pages as 1 or 2 for overall satisfaction
+- 38% of the feedback comments received specifically indicated that they were attempting to apply for or find information about getting benefits for family members or caregivers, and only 15% pertained to tasks related to managing family or caregiver benefits. The rest of the comments were either related to Veteran benefits, or just general questions.
+- For the intercept survey, of those that were intercepted on core benefit pages for family members, 25% of the comments were specifically related to applying for or finding information on getting family member or caregiver benefits, while only 7% pertained to tasks related to managing family or caregiver benefits.  The rest of the comments were either related to Veteran benefits, or just general questions.
+- Feedback "Find out what programs my daughter is eligible for (I am 100% SDV, her father transferred his ch 33 to her as well) Give us a FILTER! Ask if we are the vet, spouse, child, age, etc."
+- Intercept "It seems almost impossible to find the forms I need to apply for spousal benefits of a deceased veteran. There should be a way to just get a list of required forms."
+
+### Details
+
+#### Data received 
 - Date range: 08/17/2022-08/16/2023
 - Pages included in pull:
   - Family member benefits hub
@@ -253,7 +278,7 @@ Description: The top 10 searches containing the each of following terms: depende
 - Feedback survey: Were you able to do your task today = "No"
 - Intercept survey: no additional parameters
 
-### Feedback survey insights
+#### Feedback survey insights
 
 - **Total number of records: 155**
   - 42% (65/155) - overall rating of 1 or 2
@@ -299,7 +324,7 @@ Pension > survivors pension - not able to complete task = 21 records
   - "Needed to know if I'm eligible for anymore widow benefits. I was given 4 different numbers and everyone gave me a number. I don't know anymore now than I did before I started after working on it all day"
   - "Find out what programs my daughter is eligible for (I am 100% SDV, her father transferred his ch 33 to her as well) Give us a FILTER! Ask if we are the vet, spouse, child, age, etc."
 
-### Intercept survey insights
+#### Intercept survey insights
 
 - Total number of records = 57
   - 14/57 25% - pertained to finding information or attempting to apply for benefits for a family member or caregiver
