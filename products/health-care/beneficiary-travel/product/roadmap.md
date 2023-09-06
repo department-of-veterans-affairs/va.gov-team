@@ -61,7 +61,7 @@
 1. Add a link to the submission tool for past appointments 
 1. Query for claim status when viewing past appointments 
 
-## Next for va.gob mobile team - Fall 2023
+## Next for va.gov mobile team - Fall 2023
 
 1. Add ability to submit a simple claim for relative appointments
 1. Integrate viewing claims status in the claims/benefits section. 

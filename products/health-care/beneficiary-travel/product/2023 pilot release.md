@@ -56,7 +56,7 @@ We will roll back if
 - What new metrics arise that we care about? 
 
 
-## ✅ Phase 0: First Facility  - Wilkes Barre
+#### Phase 0: First Facility  - Wilkes Barre
 
 **Desired date range** 
 
@@ -97,7 +97,7 @@ We will roll back if
   - ✅ Veteran
 
 
-## Phase 1: VISN 0? roll out
+#### Phase 1: VISN 0? roll out
 
 **Desired date range** 
 
@@ -146,6 +146,22 @@ Go live Jan 2024+ 4 weeks
   - [ ] VTP 
   - [ ] VISN XX Travel Offices
 
+
+#### Phase 2: Nationwide
+
+**Desired date range** 
++6 weeks after Phase 1, early Nov timeframe
+
+**Where** 
+The other two VISNs
+
+#### Phase 3: Nationwide rollout
+
+**Desired date range** 
+start Mid January 2024
+
+**Where** 
+Add a new VISN every 2 weeks until we are nationwide
 
 
 
