@@ -34,6 +34,11 @@ We believe that a reminder about an upcoming appointment is very similar to the 
     * The dot will not support appointment cancellations, which cannot clearly be linked to or indicated with simple link text on the existing MHV to VA.gov landing page. Additional context will be necessary to convey a cancelled appointment, and may need to include CTAs, such as next steps for the Veteran to reschedule the cancelled appointment.
     * The dot will also be able to support pending appointments for the same reason - this notification is less straightforward and will require content/context to make sense.
     * With 3 types of notifications for appointments alone, is it confusing that each has a different notification type? Will users understand which notification type the dot is referencing? How will they tell the difference?
+   
+##### UX Decisions:
+* We will only display the dot for new/unread/reminder type notifications, where the meaning of the dot is straightforward/clear.
+* For appointments, we will only solve for appointment reminders at this stage; our design will not scale to other appointment notification types
+* If we cannot clear the dot, we should not implement it. Perpetual dots are not helpful to users if they do not signal something truly new and/or upcoming. 
 
 #### Technical analysis:
 The appointments team has shared that this is a feasible notification type at present. There are many ways that Veterans are notified about upcoming appointments. See related resources above for additional context into notifications work.
@@ -49,7 +54,12 @@ Currently, there are many policies in place (but no single source of truth) arou
   * VA Video Service (if a telehealth appointment) will email the Veteran before the appointment
   * MHV Email will email the Veteran before the appointment
 * Phone:
-  *  
+  *  Robotext
+
+##### Outstanding Questions
+* Can we feasibly clear the dot notification after the date of the appointment?
+
+
 
 ### 2. Appointment cancellations
 ```Status: On Hold```
