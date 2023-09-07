@@ -19,11 +19,11 @@ On the VAOS homepage, the app displays the following for each status:
 * **Description**
   - Tester will validate that they could view the list of their past booked appointments in VAOS 
     - [ ] Past booked VA appointment - in person (at a Facility) 
-    - [ ] Past booked VA appointment - video connect (at a Facility) 
-    - [ ] Past booked VA appointment - video connect (at an ATLAS location) 
-    - [ ] Past booked VA appointment - video connect (at home, not a VA or ATLAS location) 
-    - [ ] Past booked VA appointment - phone call 
-    - [ ] Past booked Community Care appointment
+    - [ ] Past booked VA appointment - video connect (at a Facility)  - need to verify if AVS is available for this appointment type
+    - [ ] Past booked VA appointment - video connect (at an ATLAS location) - need to verify if AVS is available for this appointment type
+    - [ ] Past booked VA appointment - video connect (at home, not a VA or ATLAS location) - need to verify if AVS is available for this appointment type
+    - [ ] Past booked VA appointment - phone call - need to verify if AVS is available for this appointment type
+    - [ ] Past booked Community Care appointment - need to verify if AVS is available for this appointment type
 
 - [ ] Use Case 2 - Validate After Visit Summary link on the Past appointment details page
 
@@ -32,7 +32,8 @@ On the VAOS homepage, the app displays the following for each status:
 
 * **Description**
   - Tester will validate that they could view the After Visit Summary link on the Past appointments details page
-    - [ ] Past booked VA appointment - in person (at a Facility) 
+    - [ ] Past booked VA appointment - in person (at a Facility)
+    - [ ] Add any additonal appointment types (delete if needed)
 
 - [ ] Use Case 3 - Validate there is no After Visit Summary link on the Past appointment details page (no alert in the response)
 
@@ -41,7 +42,8 @@ On the VAOS homepage, the app displays the following for each status:
 
 * **Description**
   - Tester will validate that there is no After Visit Summary link available on the Past appointment details page
-    - [ ] Past booked VA appointment - in person (at a Facility) 
+    - [ ] Past booked VA appointment - in person (at a Facility)
+    - [ ] Add any additonal appointment types (delete if needed)
      
 - [ ] Use Case 3 - Validate there is a broken link in the appointment response and the UI is displaying an alert message on the Past appointment details page (must trigger an alert in the response)
 
@@ -51,7 +53,8 @@ On the VAOS homepage, the app displays the following for each status:
 * **Description**
   - Tester will validate that there is no After Visit Summary link available on the Past appointment details page
     - [ ] Past booked VA appointment - in person (at a Facility)
-    - [ ] 
+    - [ ] Add any additonal appointment types (delete if needed)
+          
 ### User flow (confirm with Ciera and Peter)
 - [X] [Figma file](https://www.figma.com/file/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?type=design&node-id=2012%3A35639&mode=design&t=TWu7CJ3mbxrLx9YS-1) 
 
