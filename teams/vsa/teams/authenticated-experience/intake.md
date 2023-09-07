@@ -27,10 +27,10 @@ If you’re still here after our little explainer we’d like to know more about
 
 ## Logistics
 
-What slack channel do you live in? 
-Who are the stakeholders that need to be included?
-Who are the partners that need to be included?
-What is the timeline, and what is driving it?
+- What slack channel do you live in?
+- Who are the stakeholders that need to be included?
+- Who are the partners that need to be included?
+- What is the timeline, and what is driving it?
 
 
 ## Relevant links
