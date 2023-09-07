@@ -6,6 +6,7 @@ Last updated 9/5/23 -- SS finalizing decisions for staging review
 **Team:** Health apps - Medical Records
 
 **On this page:**
+- [Medical Records launch plan](#launch-plan)
 - [User/page flows](#flows)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
@@ -13,6 +14,13 @@ Last updated 9/5/23 -- SS finalizing decisions for staging review
 - [Meeting notes and open items](#notes)
 - [Archived information](#archived)
 
+## <a name="launch-plan"></a>Medical Records Launch Plan<br>
+Medical Records has several subdomains that will be launching incrementally to Phase 0 throughout Fall 2023. The proposed launch order is as follows: 
+* Allergies (October 2023)
+* Vaccines (fast follow 2-3 weeks later)
+* Health Conditions, Vitals
+* Care summaries & notes
+* Lab and test results
 
 ## <a name="flows"></a>User/page flows <br>
 Most up-to-date user flow can be found on VA public mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671138122441/c6eae887e8c0467e616d61002f14085580dfb59c?wid=0-1686659937807
