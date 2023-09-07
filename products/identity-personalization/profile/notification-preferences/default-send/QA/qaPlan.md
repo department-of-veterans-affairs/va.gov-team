@@ -42,6 +42,12 @@ See test scenarios linked above
 3. For any adverse findings, team member will fill in a row for each item in the table below. 
 4. PM will create the needed ticket(s) to resolve finding, mark it in the Findings table below, and link it in the spreadsheet where the corresponding failure occurred.
 
+### Feature Flippers 
+Ensure the correct feature flippers are enabled and that the email as a channel work is turned off. 
+`profile_use_field_editing_page`
+`profile_use_notification_settings_checkboxes`
+
+This should be off: `profile_show_email_notification_settings`
 
 ### Adverse Findings Summary
 | Test case No. |    Finding       | Device  | Operating System | Browser | Reporter | Resolution Ticket(s)| Status |
