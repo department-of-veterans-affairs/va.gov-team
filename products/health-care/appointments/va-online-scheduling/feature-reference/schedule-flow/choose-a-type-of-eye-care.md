@@ -1,4 +1,4 @@
-# [Feature name]
+# [Choose a type of eye care]
 
 ## Overview
 [How Veterans use this feature]
