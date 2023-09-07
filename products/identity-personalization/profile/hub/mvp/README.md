@@ -92,6 +92,7 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 - [Project epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593)
 - Sketch files
+- [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2023-09-profile-hub-usability) 
 - Release plan
 
 ## Key dates
