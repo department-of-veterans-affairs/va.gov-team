@@ -26,7 +26,7 @@
 - This endpoint connects to both the HCA E&E API and the MPI API.
 
 ### Test configuration
-We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.86 requests per second. 
+We tested 4,114 requests at 6.86 requests per second through the Enrollment Eligibility endpoint, at over 900x usual volume.
 
 ### Results
 | Endpoint           | # Requests | # Failures |  Requests / s |
@@ -55,12 +55,12 @@ We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.
 - The hca_attachments endpoint  **DESCRIPTION NEEDED** 
 
 ### Test configuration
-- We tested 20 users at 2 requests per second, up to 8.81 requests per second, with a 1.2mb file attachment through the hca_attachments endpoint.  
+- We tested at 1 request per second, with a 1.2mb file attachment through the hca_attachments endpoint, at 10,000x the usual volume.  
 
 ### Results
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
-|POST v0/hca_attachments | 5271 |  0   | 8.81/s |
+|POST v0/hca_attachments | 55 |  0   | 1/s |
 
 #### cpu load
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/219deb4f-d12c-46d2-9f06-fc29c157e3d9)
@@ -76,6 +76,7 @@ We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.
 
 ### Findings / Issues
 - There were no errors and the endpoint performed well under stress.
+     - Note: We tested at extreme levels of more than 100,000x the usual volume and saw connection pool errors. These errors exist in the testing environment, and are not expected in production.  These errors have no impact on our conclusion.
 
 ---
 
@@ -83,7 +84,7 @@ We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.
 - The health_care_applications endpoint  **DESCRIPTION NEEDED** 
 
 ### Test configuration
-- We tested 249 requests at .42 requests per second with 5mb file attachment through the health_care_applications endpoint.  
+- We tested 249 requests at .42 requests per second with 5mb file attachment through the health_care_applications endpoint, at 60x usual volume.
 
 ### Results
 
@@ -104,9 +105,9 @@ We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/23df1d4b-2042-45f5-aa6b-1e5f0bbeec13)
 
 ### Findings / Issues
-While there were failures, there is a retry function in place and we have high confidence that the failures would be retried and submitted successfully.  
-**NEED EXPLANATION OF FAILURES - WHY DO WE THINK THEY ARE OCCURING FOR THIS TEST?  OR IS THIS PART OF THE PLATFORM WORK WE WOULD NEED DONE?**
+The failures are a result of connection pool errors we saw in the testing environment.  We do not expect to see these errors in production, which has a higher connection pool setting. The 10-10EZ has a retry function in place and we have high confidence that the failures would be retried and submitted successfully.  
 
 ---
 
 ## Conclusion and recommendation
+- In conclusion, we are confident that the resources we tested are well prepared for 10x normal load.
