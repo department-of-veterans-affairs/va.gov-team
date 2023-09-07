@@ -46,7 +46,6 @@ A personalized VA mobile app home screen should:
 
 * Give Veterans a **high-level snapshot of their status** and a **persistent overview of their current interactions** across VA—so it’s quick and easy to see what VA is doing now and so that when there _isn’t_ a recent status update or critical action to take, users can explicitly confirm that there’s no action to take.
 * Be **task-based** and emphasize information that is **[actionable](https://design.va.gov/about/principles)**, allowing users to **quickly see what needs to be done, act on it, and get on with their day.**
-* **Make it clear when an important-to-them feature needs their attention,** and indicates urgency/lack of by **making the difference between critical action items and non-critical items clear**.
 * **Demonstrate the value** of the VA mobile app to Veterans **without requiring them to dig** into each individual feature.
 
 **6. How should a personalized VA mobile app home screen look/feel/behave?**
@@ -58,7 +57,7 @@ A personalized VA mobile app home screen should:
 * It is **accessible** **to Veterans of all abilities** ([Accessibility is core to all design decisions](https://design.va.gov/about/principles)). 
 * **It feels reassuring**—[it lets Veterans know what is needed from them (or that nothing is needed)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md#:~:text=Benefit%20planning%2C%20applications%2C%20and%20claims%20research%20conducted%20by%20Frog%20in%202016).
 * It is **respectful** - It speaks to them in a tone that is not creepy or too casual, and **asks permission** to do things (send notifications, access camera or calendar).
-* It feels **personalized even when there are no critical actions** or updates to display.
+* It feels **personalized even when there are no updates** to display.
 
 
 ### Business Assumptions
