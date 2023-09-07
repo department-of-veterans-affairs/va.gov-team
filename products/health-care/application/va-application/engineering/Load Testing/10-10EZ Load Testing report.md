@@ -1,33 +1,30 @@
-# 10-10EZ Veteran Health Care application - Load testing report
+# VA.gov 10-10EZ Veteran Health Care application - PACT Act readiness load testing report
  
 
 ## Background
-- The 10-10EZ Veteran health care application is an online form that allows Veterans to apply for VA health care enrollment. 
-- List of endpoint dependencies include:
-    - /v0/user/
-    - v0/health_care_applications/
-    - v0/health_care_applications/enrollment_status/
-    - v0/in_progress_forms/1010ez/
-    - health_care_application/rating_info
+The VA.gov 10-10EZ Veteran health care application allows Veterans to apply for VA health care. The frontend web application depends on vets-api as an interface with various VA systems. The specific vets-api endpoint dependencies for the VA.gov 10-10EZ are:
+    
 
-- List of API dependencies include
-     - Vets-API
-     - MPI API
-     - HCA Enrollment System API
-     - HCA Enrollment Eligibility API
-     - GovDelivery API
-     - VA Profile API
-     - BGS API
-     - EVSS PCIU
----
+    - GET v0/health_care_applications/enrollment_status
+    - POST v0/hca_attachments
+    - POST v0/health_care_applications
+ 
+These endpoints and their downstream dependencies are the subject of the load tests detailed below.
 
-## Enrollment status load test
+In addition, accessing the 10-10EZ in an authenticated state generates calls to:
 
-- The Enrollment Eligibility endpoint. This endpoint is used for checking if an applicant is disqualified from the 1010EZ or has already applied.
-- This endpoint connects to both the HCA E&E API and the MPI API.
+    - GET, POST, PUT v0/in_progress_forms/1010ez
+    - GET v0/health_care_applications/rating_info
+    - GET v0/user
+
+The teams responsible for these endpoints and related resources will be conducting their own PACT Act readiness assessment.
+ 
+## Enrollment status load test (v0/health_care_applications/enrollment_status)
+
+The Enrollment Eligibility endpoint is used for checking if an applicant is disqualified from the submitting a 10-10EZ or has already applied. This endpoint depends on the VES Enrollment and Eligibility system and the MPI system.
 
 ### Test configuration
-We tested 4,114 requests at 6.86 requests per second through the Enrollment Eligibility endpoint, at over 900x usual volume.
+We tested 4,114 requests at 6.86 requests per second through the Enrollment Eligibility endpoint, which is ~900x usual volume.
 
 ### Results
 | Endpoint           | # Requests | # Failures |  Requests / s |
@@ -52,11 +49,11 @@ We tested 4,114 requests at 6.86 requests per second through the Enrollment Elig
 
 ---
 
-## Document upload load test
-- The hca_attachments endpoint. This endpoint is used for uploading attachments to be submitted with the health care application (for example a scan of the veteran's DD214).
+## Document upload load test (POST v0/hca_attachments)
+- The attachments endpoint is used for uploading optional attachments to be submitted with a completed 10-10EZ health care application, such as a DD214. Typically 1-2% of 10-10EZ submitted on VA.gov include attachments.
 
 ### Test configuration
-- We tested at 1 request per second, with a 1.2mb file attachment through the hca_attachments endpoint, at 10,000x the usual volume.  
+- We tested at 1 request per second, with a 1.2mb file attachment through the hca_attachments endpoint, at ~10,000x the usual volume.  
 
 ### Results
 | Endpoint           | # Requests | # Failures |  Requests / s |
@@ -77,16 +74,15 @@ We tested 4,114 requests at 6.86 requests per second through the Enrollment Elig
 
 
 ### Findings / Issues
-- There were no errors and the endpoint performed well under stress.
-     - Note: We tested at extreme levels of more than 100,000x the usual volume and saw connection pool errors. These errors exist in the testing environment, and are not expected in production.  These errors have no impact on our conclusion.
+- There were no errors and the endpoint performed well under stress. _Note: previously, we tested at more than 100,000x the usual volume and saw connection pool errors between vets-api and its backing Postgres database. The issue has been ticketed and we are working with the VA.gov platform team to resolve. However, given the extreme level of load used in the test, these errors have no impact on our conclusion._
 
 ---
 
 ## Submission load test
-- The health_care_applications endpoint API is used for submitting the health care application.
+The health_care_applications endpoint API is used for submitting the health care application.
 
 ### Test configuration
-- We tested 249 requests at .42 requests per second with 5mb file attachment through the health_care_applications endpoint, at 60x usual volume.
+We tested 249 requests at .42 requests per second with 5mb file attachment through the health_care_applications endpoint, at 60x usual volume.
 
 ### Results
 
@@ -107,11 +103,9 @@ We tested 4,114 requests at 6.86 requests per second through the Enrollment Elig
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/23df1d4b-2042-45f5-aa6b-1e5f0bbeec13)
 
 ### Findings / Issues
-The failures during this test was determined to be a result of connection pool errors from the enrollment system.  
-We do not expect to see these errors in production, which has a higher connection pool setting. The 10-10EZ has a retry function in place and we have high confidence that in the event failures are experienced, they would be retried and submitted successfully.  
-The failures we saw during this test have no impact on our conclusion.
+There was a 6.4% error rate for this test. The failures were a result of maxing out available connections with the downstream VES Enrollment and Eligibility system's lower environment. We've reviewed the results with the VES team and have determined that this the connection pool in the lower enviroment is configured to a higher level in production. We conclude that this type of failure would not be replicated in production under the load tested here. In addition, vets-api has queuing and retry functionality implemented for 10-10EZ submissions to the Enrollment and Eligibility system. This means that any failed submissions are retried up to 25 times over a span of 3 days.
 
 ---
 
 ## Conclusion and recommendation
-- In conclusion, we are confident that the resources we tested are well prepared for 10x normal load.
+In conclusion, we are confident that the resources we tested are well prepared for 10x normal load. We recommend close monitoring of all resources discussed above during the weeks leading up to 9/30 and coordination with downstream system owners.
