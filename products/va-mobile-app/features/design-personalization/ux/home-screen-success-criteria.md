@@ -27,10 +27,10 @@ Choosing a design direction for the personalized home screen involves balancing 
 
 #### Veteran Mental Models/Needs
 
-6. It feels tailored to the Veteran (about the Veteran’s individual relationship with the VA), even when there are no critical actions or updates to display.
-7. It is task-based and emphasizes information that is actionable—it indicates urgency/lack of by making the difference between critical action items and non-critical items clear.
+6. It feels tailored to the Veteran (about the Veteran’s individual relationship with the VA), even when there are no updates to display.
+7. It is task-based and emphasizes information that is actionable.
 8. It is streamlined to avoid information overload: It reduces complexity by focusing users on primary tasks, free of distractions, and provides just enough information  (less is more).
-9. It feels reassuring—it makes it quick and easy to see what VA is doing now, what has changed since their last visit, and/or to also explicitly confirm that there’s no action to take.
+9. It feels reassuring—it makes it quick and easy to see what is happening now and/or to also explicitly confirm that there’s no new updates.
 10. It’s accessible (including cognitive disabilities, assistive technology, ESL, etc). 
 
 #### Technical Considerations
