@@ -22,8 +22,12 @@ On the VAOS homepage, the app displays the following for each status:
 - [ ] MHV legacy portal
     - [ ] User will start from the legacy portal tool and be routed to MHV landing page (...details need to be specified)
      
-- [ ] Saved URLs
-    - [ ] (...define URLs)  
+- [ ] Saved URLs - see copy doc for details
+    - [ ] [Copy doc - all scheduling flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-all-flows.md#scheduling---all-flows)
+    - [ ] [Copy doc - VA direct schedule flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-va.md)
+    - [ ] [Copy doc - COVID-19 workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-va-covid.md#va-direct-schedule-covid-vaccine-appointment-content)
+    - [ ] [Copy doc - VA request flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/request-va.md)
+    - [ ] [Copy doc - CC request flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/request-cc.md)
 
 ### Use Cases
  
