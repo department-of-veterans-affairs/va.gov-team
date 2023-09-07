@@ -25,10 +25,49 @@ The user will receive a message indicating that the feature is currently experie
 
 ### Use Cases
 
-1. A screen is broken in the mobile app app cannot be rendered
-2. A feature (or part of a feature) is broken in the mobile app but the screen can still be rendered
-    A. The team is working to resolve this issue remotely
-    B. The issue is now resolved and installing a new version of the app will correct the problem
+1. **A feature (or part of a feature) is broken in the mobile app but a _screen can be rendered_.**
+RX Example:  We are showing the wrong personal information in Rx. The feature is still working  and we can show the UI, but it is acritical enough error that we need to shut down the feature and establish a fix.
+
+2. **A feature (or part of a feature) is broken in the mobile app and but a _screen cannot be rendered_.**
+Example: A coding error would mean the mobile app would show unrecognizable information instead of normal UI the vet is accustomed to. There is also the possibility this would force entire app to crash.
+
+
+### MVP Approach
+
+ **Use Case #1 Front End Issues- Screen Can Be Rendered**
+
+Since we can render a screen in this use case, the reccomendation would be to utilize the colored alert box. This will allow us to give the user an option of completing their task another way. 
+
+When it’s determined that we need to use remote disaster mitigation/waygate, we will show an alert box with copy that explains that we are workign to  fix an issue (**Copy-TBD**).
+
+After the issue is investigated, if we find we need to update the copy to give further clarity on the problem to the user, we can do so. Note: This likely is not needed unless we cannot give the user another way to access their information.
+
+We will always give the user an alternative way to accomplish their task.
+      
+**MVP: A general help desk phone number(TBD)**
+
+If a general phone nubmer does not exists, we might have to provide specific phone numbers for specific places in the app (i.e., a number for help with claims may not help with prescriptions).
+
+**Post-MVP: More specific phone numbers specific to features.**
+
+Since the vast majority of these use cases involve the user (via message) needing to update the app (via the app store) to fully resolve the issue. We are considering showing a button that will take the user to their app store to update once the issue is resolved and an update is available. (similar to what we do for encourage update)
+This is less essential as we are already giving the user the ability to complete their task another way (phone number). Its is still imperative for the the user to eventually need to update the app.
+
+
+**Use case #1: Back End Issues- Screen can be rendered**
+
+This use case will not involve the need to update the mobile application.
+We will utilize most of the same approach as a FE issue noted above, including using an alert box with a general error message that provides a phone number for users to complete their task. We will not need to include an update an app button as its not applicable. We could include a date/time when we anticipate the issue to be resolved since BE pushes "fixes" regularly and they are not dependent 
+on the realease/app store.
+
+
+
+**Use case #2 (likely very rare, if ever)**
+
+Since this is an issue in which we can’t even produce a normal-looking screen to show the colored alert box, we suggest using a modal alert.
+The alert modal consists of a heading, body copy, and button(s). Copy (TBD) will explain to the user that we’re fixing an issue with the app. 
+We would likely only show one button, since we may not be sure what the user was attempting to accomplish when this happens, we won’t be able to provide any type of solution other than to wait it out.
+
 
 ### Desired Outcomes
 
