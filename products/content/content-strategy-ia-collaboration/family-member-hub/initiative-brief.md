@@ -98,6 +98,32 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 ## Approach
 
+1. Review and synthesis of existing research and data
+2. Design new IA
+3. Research with family members and caregivers
+4. Create content
+5. Implement structure
+
+
+## Product/Project impacts
+
+This work will have at least some impact to the following products and work efforts.  Continuous communication and collaboration with these teams will be established. 
+
+Benefit hub templates
+- Primary contact(s): Danielle Thierry, Erika Washburn, Mikki Northuis
+- Some changes to the existing benefit hub template have been proposed to better highlight key capabilities (i.e. apply now)
+
+Optimizing benefit hubs
+- Primary contact(s): Danielle Thierry, Mikki Northuis
+- Overview: This project is aimed at streamlining Veteran benefit hub content by implementing the content placement criteria.  This will lead to moving a lot of content from the hubs into Resources and support. 
+
+Resources and support
+- Primary contact(s): Dave Conlon
+- Overview:  This product may need some technical and UX changes to acommodate the increase of content, specifically around a new audience type. There currently is not team actively working on this product.
+
+Service member hub
+- Primary contact(s): Danielle Therry, Mikki Northuis
+- Overview:  There is work planned to look at enhancing the exsiting service member benefit hub.  The family hub work may help to inform the service member hub work.
 
 
    
@@ -142,6 +168,8 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
   
 - All program offices that have family member or caregiver benefits
 
+
+### Communication plan
 
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
