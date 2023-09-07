@@ -67,7 +67,7 @@ To support more types of notifications and expand VA onboarding, we are adding f
 #### Email Confirmation Notifications for Forms
 ##### Theme(s): Platform Capabilities
 
-As we look to improve the customer experience, we want to support business lines in sending notifications to users that have completed their online forms. In addition to working with business lines to create notifications for their forms, we are also working with the Forms team, in order to support notifications for newly digitized forms. Completed notifications can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/form%20confirmations)
+As we look to improve the customer experience, we want to support business lines in sending notifications to users that have completed their online forms. In addition to working with business lines to create notifications for their forms, we are also working with the Forms team, in order to support notifications for newly digitized forms. Completed notifications can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/form%20confirmations).
 
 
 #### Promote Templates from Staging to Prod
