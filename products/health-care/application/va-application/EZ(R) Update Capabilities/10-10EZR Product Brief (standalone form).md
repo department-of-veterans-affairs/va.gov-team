@@ -85,6 +85,7 @@ In future iterations, we plan to review for alternative locations and other syst
 - Pre-fill all available fields with data from Enrollment System
 - Include legal/regulatory verbiage on Review page (similar to 10-10EZ for copays, assignment of benefits, etc)
 - Allow Veterans to print Confirmation page
+- Enrollment system will trigger generic email confirming receipt of the form
 
  
 **Out of scope**:
