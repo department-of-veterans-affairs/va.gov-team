@@ -30,7 +30,14 @@ Systems used by Application Processing teams
 - xx/xx/22 Placeholder Text.
 
 ### Business Processes
-- 9/7/2023 - Confirmation recieived from Simone Gully and Ambroja Watson
-     - 
+- 9/7/2023 - Confirmation received from Joshua Faulkner
+     - When the Enrollment System receives the submitted EZR, a generic email is triggered and sent to the email address within the form, stating that the submitted form has been received.
+- 9/7/2023 - Confirmation received from Simone Gully and Ambroja Watson
+     - EZR Processing is 5 business days.  Online submission _should_ be same day unless there is an error or inconsistency
+     - Current process:
+          - When the Priority Group (PG) changes, the VA health care handbook is sent with a letter insert on the change
+          - If there is no change, there is no communication sent to the Veteran.
+     - Future process (we will be notified when in place):
+          - Any time the Priority Group (PG) changes or any determination is made regarding Priority Group and/or Copay status, a letter will be sent out notifying the Veteran of the change
  
 ### Miscellaneous
