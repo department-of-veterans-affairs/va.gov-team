@@ -35,7 +35,7 @@ We have 2 toggles this release plan is focused on which control the checkboxes a
 - [Email as a channel epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61101)
 - [Editing as a subtask epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49319)
 - Analytics Dashboard
-- QA Testing
+- [QA Testing Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62629), [QA Testing GH Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/QA/qaPlan.md) , [QA Spreadsheet](https://docs.google.com/spreadsheets/d/1-oSUr_kFqyptbSI6jRC3O7wqk3TNDOwaWedmO3eh7FA/edit#gid=1459792507)
 
 
 ## Migrating from Radio Button to Checkbox Component and Consuming Default Send

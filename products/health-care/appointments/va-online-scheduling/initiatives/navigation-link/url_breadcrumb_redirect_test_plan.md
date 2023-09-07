@@ -1,7 +1,7 @@
 # Manual-UI Test Plan - Appointments on MHV on VA.gov 
 
 ## Project Summary Feature [#57667](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/57667)
-MHV users will now use the Appointments tool on VA.gov. The changes are to update the URLs, breadcrumbs and page titles structure on the Appointments tool. The update will be consistent across the mulitple application on MHV on VA.gov.
+MHV users will now use the Appointments tool on VA.gov. The changes are to update the URLs, breadcrumbs, page titles, and re-directs structure on the Appointments tool. The update will be consistent across the mulitple application on MHV on VA.gov.
 
 ## Business Rules (more details can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#appointments-list))
 On the VAOS homepage, the app displays the following for each status: 
@@ -22,8 +22,12 @@ On the VAOS homepage, the app displays the following for each status:
 - [ ] MHV legacy portal
     - [ ] User will start from the legacy portal tool and be routed to MHV landing page (...details need to be specified)
      
-- [ ] Saved URLs
-    - [ ] (...define URLs)  
+- [ ] Saved URLs - see copy doc for details
+    - [ ] [Copy doc - all scheduling flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-all-flows.md#scheduling---all-flows)
+    - [ ] [Copy doc - VA direct schedule flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-va.md)
+    - [ ] [Copy doc - COVID-19 workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-va-covid.md#va-direct-schedule-covid-vaccine-appointment-content)
+    - [ ] [Copy doc - VA request flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/request-va.md)
+    - [ ] [Copy doc - CC request flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/request-cc.md)
 
 ### Use Cases
  
@@ -90,9 +94,16 @@ On the VAOS homepage, the app displays the following for each status:
 
 * **Description**
   - Tester will confirm the the URL, breadcrumb and re-direct for each page in the workflow 
-    - [ ] Type of care
-    - [ ] Facility
-    - [ ] ....
+    - [ ] Type of care page
+    - [ ] Choose a VA location page
+    - [ ] How to schedule page
+    - [ ] Choose a VA clinic page
+    - [ ] Schedule this appointment page
+    - [ ] Choose a date and time page
+    - [ ] Choose a reason for this appointment page
+    - [ ] Confirm your contact informaiton page
+    - [ ] Review your appointment details page
+    - [ ] Confirmation details page after scheduling the appointment 
 
 - [ ] Use Case 6 - Pending request worfklow with the new URL, breadcrumb and re-direct changes (VA) 
       
@@ -101,20 +112,33 @@ On the VAOS homepage, the app displays the following for each status:
 
 * **Description**
   - Tester will confirm the the URL, breadcrumb and re-direct for each page in the workflow 
-    - [ ] Type of care
-    - [ ] Facility
-    - [ ] ....
+    - [ ] Type of care page
+    - [ ] Facility type page
+    - [ ] VA location page
+    - [ ] Appointment Date and time page
+    - [ ] Reason for this appointment page
+    - [ ] Type of appointment page
+    - [ ] Confirm your contact information page
+    - [ ] Review your appointment details page
+    - [ ] Confirmation details page after submitting the request 
    
 - [ ] Use Case 7 - Pending request worfklow with the new URL, breadcrumb and re-direct changes (Community care) 
       
       Configuration setup in test environment must include: 
   - [ ] Tester will go through each step of the direct scheduling workflow in the tool
+  - [ ] Tester can test with Audiolgy and Podiatry as a type of care
 
 * **Description**
   - Tester will confirm the the URL, breadcrumb and re-direct for each page in the workflow 
-    - [ ] Type of care
-    - [ ] Facility
-    - [ ] .... 
+    - [ ] Type of care page
+    - [ ] Choose an appointment day and time page
+    - [ ] What's the closet city to you page
+    - [ ] Request a provider page
+    - [ ] Preferred language page
+    - [ ] Reason for this appointment page
+    - [ ] Confirm your contact information page
+    - [ ] Review the appointment details page
+    - [ ] Confirmation details page after submitting the request 
 
 - [ ] Use Case 8 - Direct schedule (for COVID-19) worfklow with the new URL, breadcrumb and re-direct changes 
       
@@ -123,9 +147,16 @@ On the VAOS homepage, the app displays the following for each status:
 
 * **Description**
   - Tester will confirm the the URL, breadcrumb and re-direct for each page in the workflow 
-    - [ ] Type of care
-    - [ ] Facility
-    - [ ] .... 
+    - [ ] COVID-19 vaccine appointment plan ahead page
+    - [ ] Recieved a COVID-19 page
+    - [ ] Second dose online page (user must select Yes on the received a COVID-19 quesiton)
+    - [ ] Choose a location page (user must select No on the received a COVID-19 question)
+    - [ ] Choose a clinic page
+    - [ ] Choose a date page
+    - [ ] When to plan a second dose page
+    - [ ] Confirm your contact information page
+    - [ ] Review your appointment details page
+    - [ ] Confirmation details page after scheduling the appointment
  
 ### User flow (+ Peter/UX team can add the link) 
 - [ ] [Figma file]()

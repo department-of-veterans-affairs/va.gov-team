@@ -17,3 +17,5 @@
 * [**VA Mobile App Retention research (2023)**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention)
     * [Forging a mixed methods process: VA Mobile App - Retention research findings](https://docs.google.com/presentation/d/1bSW3zev7agnUY7HsFkDkuJL-OY0RFyGzUk3TcdeM6sc/edit#slide=id.g892adcb623_0_141)
 
+
+[Evidence.Submission.Research.Findings.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12542410/Evidence.Submission.Research.Findings.pdf)

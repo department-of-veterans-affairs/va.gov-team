@@ -3,22 +3,35 @@
 
 ## Background
 - The 10-10EZ Veteran health care application is an online form that allows Veterans to apply for VA health care enrollment.
-- list of dependencies (both in internal and external to VA.gov
+- List of endpoint dependencies include:
+    - /v0/user/
+    - v0/health_care_applications/
+    - v0/health_care_applications/enrollment_status/
+    - v0/in_progress_forms/1010ez/
+    - v0/disability_compensation_form/rating_info
+
+- List of API dependencies include
+     - Vets-API
+     - MPI API
+     - HCA Enrollment System API
+     - HEA Enrollment Eligibility API
+     - GovDelivery API
+     - BGS API
+     - EVSS PCIU
 ---
 
 ## Enrollment status load test
-- **description** of what the this endpoint does
+
+- The Enrollment Eligibility endpoint **DESCRIPTION NEEDED** 
 - This endpoint connects to both the HCA E&E API and the MPI API.
+
 ### Test configuration
-We tested 4,114 requests through the Enrollment & Eligibility endpoint, sending 6.86 requests per second.  This is at over 900x the usual volume. 
+We tested 4,114 requests through the Enrollment Eligibility endpoint, sending 6.86 requests per second. 
+
 ### Results
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
-| Enrollment & Eligibility | 4,114  |  0      |   6.86/s        |
-
-The MPI data in the screenshot is for a fake test user, not real PII.
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/922286fe-f94f-4a60-a4c4-564ce1eda51c)
+| Enrollment Eligibility | 4,114  |  0      |   6.86/s        |
 
 
 #### cpu load
@@ -35,21 +48,65 @@ The MPI data in the screenshot is for a fake test user, not real PII.
 
 ### Findings / Issues
 - There were no errors and the endpoint performed well under stress.
+
 ---
 
 ## Document upload load test
-### description of what the this endpoint does
-### test configuration
-- 
-### results
-### findings / issues
+- The hca_attachments endpoint  **DESCRIPTION NEEDED** 
+
+### Test configuration
+- We tested 20 users at 2 requests per second, up to 8.81 requests per second, with a 1.2mb file attachment through the hca_attachments endpoint.  
+
+### Results
+| Endpoint           | # Requests | # Failures |  Requests / s |
+| ------------------ | ---------- | ---------- |  ------------ |
+|POST v0/hca_attachments | 5271 |  0   | 8.81/s |
+
+#### cpu load
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/219deb4f-d12c-46d2-9f06-fc29c157e3d9)
+
+#### latency
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/2e7e53e2-8d01-4cda-a821-681e25fd1443)
+
+#### bytes sent
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/0519754e-a5c8-4015-9486-d4f0a5ac9328)
+
+#### bytes received
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/fc8c0bbe-cd09-4e8e-95c1-75f26a01176e)
+
+### Findings / Issues
+- There were no errors and the endpoint performed well under stress.
+
 ---
 
 ## Submission load test
-### description of what the this endpoint does
-### test configuration
-### results
-### findings / issues
+- The health_care_applications endpoint  **DESCRIPTION NEEDED** 
+
+### Test configuration
+- We tested 249 requests at .42 requests per second with 5mb file attachment through the health_care_applications endpoint.  
+
+### Results
+
+| Endpoint           | # Requests | # Failures |  Requests / s |
+| ------------------ | ---------- | ---------- |  ------------ |
+|POST v0/health_care_applications | 249| 16  |  0.42 request per second |
+
+### cpu load
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/4c2b7bed-0a2a-4e14-b2a1-767f3e717c30)
+
+### latency
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/4035c419-617f-4b6d-82c7-8cbe6fd19dca)
+
+### network bytes sent
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/4b87774b-8451-4ef1-87de-002dbcd244e5)
+
+### network bytes received
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/23df1d4b-2042-45f5-aa6b-1e5f0bbeec13)
+
+### Findings / Issues
+While there were failures, there is a retry function in place and we have high confidence that the failures would be retried and submitted successfully.  
+**NEED EXPLANATION OF FAILURES - WHY DO WE THINK THEY ARE OCCURING FOR THIS TEST?  OR IS THIS PART OF THE PLATFORM WORK WE WOULD NEED DONE?**
+
 ---
 
 ## Conclusion and recommendation

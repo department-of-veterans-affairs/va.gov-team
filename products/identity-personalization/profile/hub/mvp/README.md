@@ -90,8 +90,8 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
-- Project epic
-- Sketch files
+- [Project epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593)
+- [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2023-09-profile-hub-usability) 
 - Release plan
 
 ## Key dates

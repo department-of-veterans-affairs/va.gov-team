@@ -25,13 +25,18 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 
 ###### URL and breadcrumbs:
 
-1.  Order CPAP Devices - New
+1.  Order CPAP supplies - New
 
--   URL: va.gov/health-care/[H1 TBD by content]
+-   URL: va.gov/health-care/order-cpap-supplies
 
--   Breadcrumb: Home > Healthcare > [H1 TBD by content]
+-   Breadcrumb: Home > Healthcare > Order CPAP supplies
+-   
 
--   Notes: Let's use whatever the content team decides for the H1 to match as closely as possible with breadcrumb and url, but it will probably be something like /order-CPAP
+2.  Form: Order CPAP and hearing aid supplies - Changing
+
+-   URL: va.gov/health-care/order-hearing-and-cpap-supplies
+
+-   Breadcrumb: Home > Healthcare > Order hearing aid and CPAP supplies
 
 ###### Entry points:
 
@@ -39,13 +44,17 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 
 -   Placement description: In 'Manage Benefits' between 'Order hearing aid batteries and accessories' and 'Order prosthetic socks'
 
--   Link label: [TBD by content]
+-   Link label: Order CPAP supplies
 
--   Link destination: va.gov/health-care/[H1 TBD by content]
+-   Link destination: va.gov/health-care/order-cpap-supplies
 
 ###### Redirects:
 
-No redirects, since this is a new page.
+We will be setting up a new URL that includes the CPAP ordering, so we will have one redirect in place:
+
+| Current URL                                                                 | Redirect to                                                     |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------|
+| https://www.va.gov/health-care/order-hearing-aid-batteries-and-accessories/ | https://www.va.gov/health-care/order-hearing-and-cpap-supplies/ |
 
 Next IA steps for product team:
 
