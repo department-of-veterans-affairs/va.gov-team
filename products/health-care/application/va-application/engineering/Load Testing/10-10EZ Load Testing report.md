@@ -3,7 +3,7 @@
 
 ## Background
 - The 10-10EZ Veteran health care application is an online form that allows Veterans to apply for VA health care enrollment. 
-- List of endpoint dependencies include:  **CONFIRM THESE ARE ACCURATE**
+- List of endpoint dependencies include:  **CONFIRM THESE ARE ACCURATE, REARRANGE AS NEEDED**
     - /v0/user/
     - v0/health_care_applications/
     - v0/health_care_applications/enrollment_status/
