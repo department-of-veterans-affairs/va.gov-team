@@ -44,7 +44,6 @@ See test scenarios linked above
 
 ### Feature Flippers 
 Ensure the correct feature flippers are enabled and that the email as a channel work is turned off. 
-`profile_use_field_editing_page`
 `profile_use_notification_settings_checkboxes`
 
 This should be off: `profile_show_email_notification_settings`
