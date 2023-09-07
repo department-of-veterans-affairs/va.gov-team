@@ -25,6 +25,11 @@ If you’re still here after our little explainer we’d like to know more about
 ### What is the business outcome you're trying to achieve?
 
 
+## Relevant links
+
+Please add links to any additional materials that can provide additional context to your request.
+
+
 ## Logistics
 
 - What slack channel do you live in?
@@ -33,9 +38,7 @@ If you’re still here after our little explainer we’d like to know more about
 - What is the timeline, and what is driving it?
 
 
-## Relevant links
 
-Please add links to any additional materials that can provide additional context to your request.
 
 
 ---
