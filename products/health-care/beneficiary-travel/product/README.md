@@ -4,6 +4,27 @@
 
 This document is a high level snapshot of where we are today and where we want to be at the end of this PoP
 
+- [\[WIP\] Travel Pay Migration Effort](#wip-travel-pay-migration-effort)
+  - [Goals for this PoP](#goals-for-this-pop)
+  - [Team Breakdowns and Key Personal](#team-breakdowns-and-key-personal)
+    - [Key Stakeholders](#key-stakeholders)
+    - [API Team](#api-team)
+    - [va.gov team](#vagov-team)
+  - [By the end of 2023](#by-the-end-of-2023)
+  - [After 1 year](#after-1-year)
+    - [For the va.gov team](#for-the-vagov-team)
+    - [For the API team](#for-the-api-team)
+  - [Architecture](#architecture)
+    - [1: PCI Integration](#1-pci-integration)
+    - [2: CLaims Ingest API](#2-claims-ingest-api)
+    - [3: Existing BTSSS Portal (MS Dynamics)](#3-existing-btsss-portal-ms-dynamics)
+    - [4: va.gov submission tool](#4-vagov-submission-tool)
+    - [5: Va.gov integration](#5-vagov-integration)
+    - [6: Future integrations](#6-future-integrations)
+    - [7: VA Mobile Integration](#7-va-mobile-integration)
+    - [8: VA Mobile Experience](#8-va-mobile-experience)
+
+
 ## Goals for this PoP
 
 Full list of [OKRS](./OKRS.md) and full project description in the [README](../README.md)
@@ -30,6 +51,12 @@ This team will focus on iterating and expanding the Claims Ingest API
 ### va.gov team
 
 This team is focused on create the new experience on va.gov and integration vets-api with the Claims Ingest API
+
+## By the end of 2023
+
+- digested, aligned, and found an MVP of the items in the [road map](./roadmap.md)
+- Claims Ingest API is integrated with vets-api is successful
+- some simple claim submission is in staging. 
 
 ## After 1 year
 
