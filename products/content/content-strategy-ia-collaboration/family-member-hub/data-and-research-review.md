@@ -13,28 +13,29 @@ This file contains information on the following
 
 ## Findings
 
-1. **Research and data is showing an increase in need of a improved centralized benefit area for family members and caregivers**
+1. **Research and data shows an increase in need of a centralized benefit area for family members and caregivers**
     - Recent tree tests for the MHV portal showed more family member participants looking initially to the family member benefit hub for information on their own benefits rather than the top level Veteran benefit hubs.
-    - Analytics show a steady increase in traffic to the family member hub - almost 4x as many visitors per month in 2023 compared to 2019.
-    - The family member hub is clicked at least 4x more than any other family option in the top nav.
-    - Over the past year, the family member hub has had approx. 2.5x more page views than any of the other core family benefit landing pages within the benefit hubs.
-    - In the VEO Military Spouse research, it was found that spouses feel like a 3rd wheel to the military, and they want to be seen as their own person.
+    - Analytics show a steady increase in traffic to the family member hub - almost 4x as many visitors per month in 2023 compared to 2019.  Overall monthly pageviews is just under 2x what it was in 2019.
+    - The family member hub is clicked over 4x more than any other family option in the top nav.
+    - Over the past year, the family member hub has had approximately 2.5x more page views than any of the other family benefit landing pages within the benefit hubs.
+    - In recent VEO military spouse research, it was found that spouses feel like a 3rd wheel to the military, and they want to be seen as their own person.
 
       
-2. **The current experience and content offered for family members and caregivers is minimal, scattered, and disjointed**
-    - The family member and caregiver content is light and often intermingled with Veteran pages. In some cases, the family member information in placed within the core Veteran page rather than on it's own page. 
-    - In tree tests for the health portal, family member participants often mistakenly selected their answer from Veteran benefit pages rather than a page specific to family members. As we streamlined the Veteran benefit hub and built out the family hub, we saw this behavior start to change.
-    - Visitors are often looking to the family member hub to find their answer, but are then sent off into the Veteran experience.  
-    - Although the family member hub is the top referring page into the Veteran benefit hubs, the Veteran hubs are not referring traffic back to the family member hub as often, creating a missed opportunity to provide information on other benefits available to the visitor.
+2. **The current experience for family members and caregivers is minimal, scattered, and disjointed**
+    - The family member and caregiver content is light and often intermingled with Veteran pages. In some cases, the family member information is placed on the same page as core Veteran page rather than on it's own page - making it challenging to find and understand what applies to them. 
+    - Visitors are looking to the family member hub to find information, but the current experience then sends the visitor into the Veteran benefit hubs and content for each benefit.
+    - Although the family member hub is the top referring page into the family content in the Veteran benefit hubs, the Veteran hubs pages are not referring traffic back to the family member hub as often, creating a missed opportunity to provide information on other benefits available to the visitor.
+    - In tree tests for the health portal, family member participants often mistakenly selected their answer from Veteran benefit pages rather than a page specific to family members. As we streamlined the Veteran benefit hub and built out the family hub in those tests, we saw this behavior start to flip.
       
-3. **The family hub should include more than information on exploring and applying for benefits**
-    - it should also include tasks related to family members being able to manage their own benefits
+3. **Family members and caregivers also struggle to find information on managing their benefits**
+    - Forms, tools, and information needed to complete tasks related to managing their benefits have also shown to be challenging to find. 
     - In the health portal research, when the Veteran benefit hub was streamlined, it showed an increase of family members looking for travel pay within the family member hub. 
-    - 38% of the feedback comments received specifically indicated that they were attempting to apply for or find information about getting benefits for family members or caregivers, and only 15% pertained to tasks related to managing family or caregiver benefits
+    - While 38% of the comments received from the feedback survey specifically indicate that they were attempting to learn and apply for a benefit, 15% of the comments did pertain to tasks related to managing family or caregiver benefits. 
       
-4. **The family member hub label needs to capture the various audiences under this umbrella.** 
-    - Top searches contain more specific terms than "family" - i.e. dependent, caregiver, survivor, spouse
-    - In the health portal research, a slight change from "family member benefits" to "family and caregivers" increased traffic and selections in this area!
+4. **The family member hub should speak to the various audiences within this group** 
+    - Top searches contain more specific terms than "family" - i.e. dependent, caregiver, survivor, spouse.
+    - In the health portal research, a slight change in labels from "family member benefits" to "family and caregivers" increased traffic and selections in this area.
+    - In comments from the feedback and intercept surveys, specific terms are often used when commenting or asking questions - i.e. husband, wife, partner, child, survivor, etc. 
 
 
 
