@@ -62,17 +62,18 @@ We tested 4,114 requests at 6.86 requests per second through the Enrollment Elig
 | ------------------ | ---------- | ---------- |  ------------ |
 |POST v0/hca_attachments | 55 |  0   | 1/s |
 
-#### cpu load
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/219deb4f-d12c-46d2-9f06-fc29c157e3d9)
+### cpu load
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/fd02bbca-ad65-4bdc-b84c-0a6563ef6ea0)
 
-#### latency
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/2e7e53e2-8d01-4cda-a821-681e25fd1443)
+### latency
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/e9444997-5899-43c4-9efa-389809b13ad7)
 
-#### bytes sent
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/0519754e-a5c8-4015-9486-d4f0a5ac9328)
+### bytes sent
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/317a2df9-f395-41ec-9b2c-c3f80b98eb29)
 
-#### bytes received
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/fc8c0bbe-cd09-4e8e-95c1-75f26a01176e)
+### bytes received
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/51251d42-c26b-47ab-9ffa-dfccbb77410d)
+
 
 ### Findings / Issues
 - There were no errors and the endpoint performed well under stress.
