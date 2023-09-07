@@ -30,7 +30,7 @@ Choosing a design direction for the personalized home screen involves balancing 
 6. It feels tailored to the Veteran (about the Veteran’s individual relationship with the VA), even when there are no updates to display.
 7. It is task-based and emphasizes information that is actionable and/or when VA needs something from them.
 8. It is streamlined to avoid information overload: It reduces complexity by focusing users on primary tasks, free of distractions, and provides just enough information  (less is more).
-9. It feels reassuring—it makes it quick and easy to see what is happening now and/or to also explicitly confirm that there’s no new updates.
+9. It feels reassuring—it makes it quick and easy to see what is happening now and/or to also explicitly confirm that there’s no new updates (without requiring users to drill down to find out).
 10. It’s accessible (including cognitive disabilities, assistive technology, ESL, etc). 
 
 #### Technical Considerations
