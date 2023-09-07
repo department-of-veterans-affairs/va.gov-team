@@ -1,4 +1,4 @@
-# Things to know about the 10-10EZ
+# Things to know about the 10-10EZR
 This document contains tidbits, odds & ends, and information about the 10-10EZ form, development, testing and anything else that isn't captured in other documents.
 
 ### Abbreviations
@@ -29,7 +29,8 @@ Systems used by Application Processing teams
 ### Testing
 - xx/xx/22 Placeholder Text.
 
-### Miscellaneous
-- xx/xx/22 Placeholder Text.
+### Business Processes
+- 9/7/2023 - Confirmation recieived from Simone Gully and Ambroja Watson
+     - 
  
-
+### Miscellaneous
