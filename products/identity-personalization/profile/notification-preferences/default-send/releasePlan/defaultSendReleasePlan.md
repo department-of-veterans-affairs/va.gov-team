@@ -69,7 +69,7 @@ The toggles used for this:
 |---|---|
 |UAT Go/No-go Convo|[Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62915)|
 |Desired Date Range or Test Duration|1 week|
-|Desired Number of Users|TBD|
+|Desired Number of Users|Recruit 7 with minimum 5 completed sessions|
 |How you'll recruit the right production test users|We will recruit users via Perigean|
 |How you'll conduct the testing|We will conduct UAT over Zoom to ensure the different features work correctly|
 |How you'll give the test users access to the product in production w/o making it live on VA.gov|The feature will be behind a feature flag|
