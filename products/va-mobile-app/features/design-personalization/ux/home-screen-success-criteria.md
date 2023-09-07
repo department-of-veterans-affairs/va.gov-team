@@ -19,7 +19,7 @@ Choosing a design direction for the personalized home screen involves balancing 
 
 #### Business Goals
 
-1. Demonstrates the app’s value, even when there are no critical actions or updates to display, and regardless of the Veteran’s level of interaction with VA services.
+1. Demonstrates the app’s value, even when there are no actions or updates to display, and regardless of the Veteran’s level of interaction with VA services.
 2. High-level UI plan for personalized content is the same for every Veteran, on both iOS & Android platforms.
 3. Approach is extensible & future proof—will accommodate new personalized content over time as APIs become available.
 4. It is measurable (ideally using quant): It should be designed with data collection in mind.
