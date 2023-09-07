@@ -3,7 +3,7 @@
 
 ## Background
 - The 10-10EZ Veteran health care application is an online form that allows Veterans to apply for VA health care enrollment. 
-- List of endpoint dependencies include:  **CONFIRM THESE ARE ACCURATE, REARRANGE AS NEEDED**
+- List of endpoint dependencies include:
     - /v0/user/
     - v0/health_care_applications/
     - v0/health_care_applications/enrollment_status/
@@ -14,15 +14,16 @@
      - Vets-API
      - MPI API
      - HCA Enrollment System API
-     - HEA Enrollment Eligibility API
+     - HCA Enrollment Eligibility API
      - GovDelivery API
+     - VA Profile API
      - BGS API
      - EVSS PCIU
 ---
 
 ## Enrollment status load test
 
-- The Enrollment Eligibility endpoint **DESCRIPTION NEEDED** 
+- The Enrollment Eligibility endpoint. This endpoint is used for checking if an applicant is disqualified from the 1010EZ or has already applied.
 - This endpoint connects to both the HCA E&E API and the MPI API.
 
 ### Test configuration
@@ -52,7 +53,7 @@ We tested 4,114 requests at 6.86 requests per second through the Enrollment Elig
 ---
 
 ## Document upload load test
-- The hca_attachments endpoint  **DESCRIPTION NEEDED** 
+- The hca_attachments endpoint. This endpoint is used for uploading attachments to be submitted with the health care application (for example a scan of the veteran's DD214).
 
 ### Test configuration
 - We tested at 1 request per second, with a 1.2mb file attachment through the hca_attachments endpoint, at 10,000x the usual volume.  
@@ -82,7 +83,7 @@ We tested 4,114 requests at 6.86 requests per second through the Enrollment Elig
 ---
 
 ## Submission load test
-- The health_care_applications endpoint  **DESCRIPTION NEEDED** 
+- The health_care_applications endpoint. API for submitting the health care application.
 
 ### Test configuration
 - We tested 249 requests at .42 requests per second with 5mb file attachment through the health_care_applications endpoint, at 60x usual volume.
@@ -106,7 +107,7 @@ We tested 4,114 requests at 6.86 requests per second through the Enrollment Elig
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/23df1d4b-2042-45f5-aa6b-1e5f0bbeec13)
 
 ### Findings / Issues
-The failures during this test was determined to be a result of connection pool errors we saw in the testing environment, two different errors from vets-api and enrollment system.  
+The failures during this test was determined to be a result of connection pool errors from the enrollment system.  
 We do not expect to see these errors in production, which has a higher connection pool setting. The 10-10EZ has a retry function in place and we have high confidence that in the event failures are experienced, they would be retried and submitted successfully.  
 The failures we saw during this test have no impact on our conclusion.
 
