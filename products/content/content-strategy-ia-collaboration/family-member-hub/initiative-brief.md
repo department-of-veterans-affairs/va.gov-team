@@ -90,12 +90,15 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 ### Solution Scope
 
 **In Scope**
-- Moving Drupal content pages from Veteran benefit hub to family member hub and implementing URL changes
-- Moving applications from Veteran benefit hubs to family member hub and implementing URL changes
-- Moving pages and segments of content to Resources and support
+- Moving explore and apply content pages ("get" spoke content) from Veteran benefit hubs to the family member hub and implementing URL changes and redirects
+- Moving pages and segments of pages from benefit hubs into Resources and support and implementing redirects as needed
+- Improving crosslinking from Veteran benefit hubs and resources and support to the family member and caregiver hub
+- UX and technical updates to Resources and support to support the additional content for a new audience
 
 **Not In Scope**
+- We do not intend to move content, forms, or tools that are part of the "Manage" spoke of the hubs.  Those features will remain where they are for at least the initial iteration, and the family member hub will crosslink to them.
 
+  
 ## Approach
 
 1. Review and synthesis of existing research and data
