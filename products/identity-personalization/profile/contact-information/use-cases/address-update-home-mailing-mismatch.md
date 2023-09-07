@@ -1,13 +1,11 @@
 # Contact information: Home address is updated but does not match Mailing address
-**Last updated:** December 1, 2022
+**Last updated:** September 7, 2023
 
 If a user updates their Home address and it does not match their Mailing address, they will be prompted to review and update their Mailing address. Mailing address must be kept updated as it may be where Veterans receive VA bills, notices, and prescriptions.  
 
 - [Initial brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/initiative-brief.md)
 - [Discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/documentation.md) 
-- [User flow](https://app.mural.co/t/vsa8243/m/vsa8243/1648492872357/ccc5ced279f2062e7336460965ddc8681e6e9722?sender=u28f508d646c449cc1afe4873)
-- Sketch Mockups:  [Desktop](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/EL2Kvm2)  and  [Mobile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/My2J4Zb)  (*Note: Arrow right to see consecutive screens*)
-
+- User flow and mock-up can be reviewed in the Behavior section of the [mobile canvas](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/32C331B8-812D-46FE-AF7D-DCA63C881713/canvas) (B-7, B-7.1, B-7.2)
 ## UX
 - Uses the [modal](https://design.va.gov/components/modal) from the VA design system
 - Address change modal is triggered only when an update is made to the home address, and the update does not match the mailing address.
@@ -33,7 +31,7 @@ If a user updates their Home address and it does not match their Mailing address
 - [Desktop mock-up, success modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/jgvoJ2z)
 - [Mobile mock-up, success modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/527MKkp)
 - [Desktop mock-up, success alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/L02Y9j3)
-- [Mobile mock-up, success alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/09Ma9zG)
+- [Mobile mock-up, success alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/oYO1LOj)
 
 ### Save error
 - If the mailing address update can’t be completed, , they’ll see an error message with a close button.
