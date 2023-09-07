@@ -1,8 +1,8 @@
-# [Choose a type of eye care]
+# Choose a type of eye care
 
 ## Overview
 [How Veterans use this feature]
-
+Veterans choose between an optometry and ophthalmology appointment.
 ## User stories
 
 - As a <user type> I want <goal> so that <reason>
