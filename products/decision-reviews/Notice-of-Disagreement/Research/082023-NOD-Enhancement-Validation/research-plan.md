@@ -123,8 +123,9 @@ Gather feedback surrounding the relevance of usability of proposed enhancements
 
 **Issue Selection and Disagreement Enhancements**
 
+- We believe that not all Veterans know that they have access to decision letters through va.gov.
 - We believe there may be limited benefit to providing access to decision
-letters. Veterans may not know where to locate information surrounding specific
+letters. Veterans may need help locating information surrounding specific
 contention decisions.
 - We believe that Veterans will be able to identify where to provide additional
 information about their appeal and differentiate those fields from fields
