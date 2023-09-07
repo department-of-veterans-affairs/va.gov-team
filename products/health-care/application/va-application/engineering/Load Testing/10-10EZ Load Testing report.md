@@ -83,7 +83,7 @@ We tested 4,114 requests at 6.86 requests per second through the Enrollment Elig
 ---
 
 ## Submission load test
-- The health_care_applications endpoint. API for submitting the health care application.
+- The health_care_applications endpoint API is used for submitting the health care application.
 
 ### Test configuration
 - We tested 249 requests at .42 requests per second with 5mb file attachment through the health_care_applications endpoint, at 60x usual volume.
