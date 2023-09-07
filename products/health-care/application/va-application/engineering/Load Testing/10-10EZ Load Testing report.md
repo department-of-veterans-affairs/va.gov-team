@@ -8,7 +8,7 @@
     - v0/health_care_applications/
     - v0/health_care_applications/enrollment_status/
     - v0/in_progress_forms/1010ez/
-    - v0/disability_compensation_form/rating_info
+    - health_care_application/rating_info
 
 - List of API dependencies include
      - Vets-API
