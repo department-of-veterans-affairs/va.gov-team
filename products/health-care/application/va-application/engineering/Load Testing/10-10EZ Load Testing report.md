@@ -2,7 +2,7 @@
  
 
 ## Background
-- The 10-10EZ Veteran health care application is an online form that allows Veterans to apply for VA health care enrollment.
+- The 10-10EZ Veteran health care application is an online form that allows Veterans to apply for VA health care enrollment.  **CONFIRM THESE ARE ACCURATE**
 - List of endpoint dependencies include:
     - /v0/user/
     - v0/health_care_applications/
@@ -106,7 +106,9 @@ We tested 4,114 requests at 6.86 requests per second through the Enrollment Elig
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/23df1d4b-2042-45f5-aa6b-1e5f0bbeec13)
 
 ### Findings / Issues
-The failures are a result of connection pool errors we saw in the testing environment.  We do not expect to see these errors in production, which has a higher connection pool setting. The 10-10EZ has a retry function in place and we have high confidence that the failures would be retried and submitted successfully.  
+The failures during this test was determined to be a result of connection pool errors we saw in the testing environment, two different errors from vets-api and enrollment system.  
+We do not expect to see these errors in production, which has a higher connection pool setting. The 10-10EZ has a retry function in place and we have high confidence that in the event failures are experienced, they would be retried and submitted successfully.  
+The failures we saw during this test have no impact on our conclusion.
 
 ---
 
