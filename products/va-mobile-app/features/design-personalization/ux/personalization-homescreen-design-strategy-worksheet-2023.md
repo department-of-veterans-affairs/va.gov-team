@@ -44,7 +44,7 @@ A personalized VA mobile app home screen should:
 
 
 
-* Give Veterans a **high-level snapshot of their status** and a **persistent overview of their current interactions** across VA—so it’s quick and easy to see what VA is doing now and so that when there _isn’t_ a recent status update or critical action to take, users can explicitly confirm that there’s no action to take.
+* Give Veterans a **high-level snapshot of their status** and a **persistent overview of their current interactions** across VA—so it’s quick and easy to see what VA is doing now and so that when there _isn’t_ a recent status update or action to take, users can explicitly confirm that there’s no action to take.
 * Be **task-based** and emphasize information that is **[actionable](https://design.va.gov/about/principles)**, allowing users to **quickly see what needs to be done, act on it, and get on with their day.**
 * **Demonstrate the value** of the VA mobile app to Veterans **without requiring them to dig** into each individual feature.
 
