@@ -2,11 +2,8 @@
 **STATUS: Moving to phase 0 in October**
 
 Last updated 9/5/23 -- SS finalizing decisions for staging review
-Updated 7/21/23 -- KO finalizing after medical records research -- ready to develop Phase 0
 
 **Team:** Health apps - Medical Records
-
-**IA Request (Previous IA work by CAIA):** [Epic for medical records work](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/52997)
 
 **On this page:**
 - [User/page flows](#flows)
@@ -14,19 +11,21 @@ Updated 7/21/23 -- KO finalizing after medical records research -- ready to deve
 - [URLs and breadcrumbs](#url)
 - [Secondary nav](#nav)
 - [Meeting notes and open items](#notes)
+- [Archived information](#archived)
 
 
 ## <a name="flows"></a>User/page flows <br>
 Most up-to-date user flow can be found on VA public mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671138122441/c6eae887e8c0467e616d61002f14085580dfb59c?wid=0-1686659937807
 
 Notes:
-- If you've been treated at a VA health facility at any point for any thing, you would have something in blue button, regardless of if you are currently enrolled in VA healthcare
-- BUT, it's possible you had VA healthcare so long ago that it isn't showing up
-- Veterans enrolled in foreign medical program who had VA healthcare in the past might need to access records here (note: still determining if they are included in user base)
-- Healthcare records from during military service CANNOT be found here
-- Veterans might go to /health-history by accident looking for medical records, so we should add a way for them to recover from that error and get in the right place
+- If you've been treated at a VA health facility at any point for any thing, you would have something for a Blue Button report, regardless of whether you are currently enrolled in VA healthcare.
+- BUT, it's possible you had VA healthcare so long ago that it isn't showing up. Still working out user scenarios of who gets to see what past Phase 0 when we open up to more users.
+- Veterans enrolled in Foreign Medical Program who had VA healthcare in the past might need to access records here (note: still determining if they are included in user base)
+- Also not sure what CHAMPVA users have access too yet (TBD).
+- Healthcare records from during military service CANNOT be found here.
+- Veterans might go to /health-history by accident looking for medical records, so we should add a way for them to recover from that error and get in the right place (Once we reach Phase 1). 
 
-User Flow Open Quetions:
+User Flow Open Questions:
 1. If a user doesn't have data to show, will they not have it for all the reports, or could it just be for one report?
    Answer: If the user doesn't have data for that particular domain, they can still view data in other domains. We have an informational alert for pages that explains why the page is empty.
 2. Does VHIE apply to ppl who never got VA healthcare? If so, do we still want to show it to them?
@@ -108,3 +107,9 @@ Open issues:
   - need to identify who will redirect myhealth.va.gov URLs
 - User flow changes 
   - can we bypass the static page for authenticated users?
+ 
+## <a name="archived"></a>Archived information (Out of date)<br>
+
+
+Updated 7/21/23 -- KO finalizing after medical records research -- ready to develop Phase 0
+* **IA Request (Previous IA work by CAIA):** [Epic for medical records work](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/52997)
