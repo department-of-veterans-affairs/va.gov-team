@@ -1,5 +1,4 @@
 # VA Mobile App - Personalization - UX 
-Last updated Aug 2023
 
 ## Work planning
 
