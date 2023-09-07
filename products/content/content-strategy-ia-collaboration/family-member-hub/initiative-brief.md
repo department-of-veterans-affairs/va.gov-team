@@ -100,7 +100,6 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 
 
----
    
 ## Screenshots
 
@@ -127,17 +126,19 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 ---
 
-#### Communications
+## Communications
 
-- Team Name: Discovery - OCTO Content and IA; Implementation - Sitewide CAIA
-- GitHub Label(s): sitewide CAIA
+### Team
+
+- Team Name: OCTO Content and IA (Discovery work); Sitewide CAIA (Implementation)
+- GitHub Label(s): sitewide CAIA, Sitewide IA
 - Slack channel: #sitewide-content-accessibility-ia
 - Product POCs:
   - OCTO Content Strategy: Danielle Thierry 
   - OCTO Information Architecture: Mikki Northuis
 
 
-#### Stakeholders
+### Stakeholders
   
 - All program offices that have family member or caregiver benefits
 
