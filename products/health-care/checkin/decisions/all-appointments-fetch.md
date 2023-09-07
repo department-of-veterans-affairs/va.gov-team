@@ -30,6 +30,7 @@ sequenceDiagram
 
     FE->>va: Call upcoming appointments endpoint with UUID<br>after succesful low auth
     FE->>FE: Start app and render appointments page
+    FE->>FE: Start spinner in Upcoming Appointments section
     va->>lorota: Get patientICN
     lorota->>va: Return patientICN
     va->>sa: Get READ ONLY token
@@ -37,4 +38,5 @@ sequenceDiagram
     va->>map: Request 13 months of appointments with token
     map->>va: Return appointments found
     va->>FE: Return appointments for Upcoming Appointments section
+    FE->>FE: Stop spinner in Upcoming Appointments section
 ```
