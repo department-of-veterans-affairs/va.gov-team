@@ -14,7 +14,7 @@ Last updated 9/5/23 -- SS finalizing decisions for staging review
 - [Meeting notes and open items](#notes)
 - [Archived information](#archived)
 
-## <a name="launch-plan"></a>Medical Records Launch Plan<br>
+## <a name="launch-plan"></a>Medical Records launch plan<br>
 Medical Records has several subdomains that will be launching incrementally to Phase 0 throughout Fall 2023. The proposed launch order is as follows: 
 1. Allergies (October 2023)
 2. Vaccines (fast follow 2-3 weeks later)
@@ -25,7 +25,7 @@ Medical Records has several subdomains that will be launching incrementally to P
 ## <a name="flows"></a>User/page flows <br>
 Most up-to-date user flow can be found on VA public mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671138122441/c6eae887e8c0467e616d61002f14085580dfb59c?wid=0-1686659937807
 
-Notes:
+Background notes:
 - If you've been treated at a VA health facility at any point for any thing, you would have something for a Blue Button report, regardless of whether you are currently enrolled in VA healthcare.
 - BUT, it's possible you had VA healthcare so long ago that it isn't showing up. Still working out user scenarios of who gets to see what past Phase 0 when we open up to more users.
 - Veterans enrolled in Foreign Medical Program who had VA healthcare in the past might need to access records here (note: still determining if they are included in user base)
@@ -33,13 +33,13 @@ Notes:
 - Healthcare records from during military service CANNOT be found here.
 - Veterans might go to /health-history by accident looking for medical records, so we should add a way for them to recover from that error and get in the right place (Once we reach Phase 1). 
 
-User Flow Open Questions:
+Open questions:
 1. If a user doesn't have data to show, will they not have it for all the reports, or could it just be for one report?
-   Answer: If the user doesn't have data for that particular domain, they can still view data in other domains. We have an informational alert for pages that explains why the page is empty.
+   **Answer**: If the user doesn't have data for that particular domain, they can still view data in other domains. We have an informational alert for pages that explains why the page is empty.
 2. Does VHIE apply to ppl who never got VA healthcare? If so, do we still want to show it to them?
-   Answer: VHIE will not apply to people who have never had healthcare.
+   **Answer**: VHIE will not apply to people who have never had healthcare.
 3. Users will most likely need help figuring out how to share the VA Health Summary with their provider. What's the right spot to give them that guidance?
-   Answer: We aren't including the VA Health Summary (at least in Phase 0)
+   **Answer**: We aren't including the VA Health Summary (at least in Phase 0)
 4. How can we make the experience seamless for Veterans who come here from the unauth pages? How can we ensure the content isn't duplicative or contradictory?
 
 
@@ -59,7 +59,7 @@ Page | URL | Breadcrumb | Notes
 | Lab and test results list | /my-health/medical-records/labs-and-tests/                     | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
 | >Test detail              | /my-health/medical-records/labs-and-tests/123456/              | < Back to Lab and test results           | < Lab and test results     | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
 | >>Image listing           | /my-health/medical-records/labs-and-tests/123456/images/       | < Back to [H1 of test detail page]       | < Test detail              | My HealtheVet > [H1] > [H1] > [H1] > [H1]        | [H1] - Medical Records \| Veterans Affairs |
-| >>>Image zoom             | /my-health/medical-records/labs-and-tests/123456/images/67890/ | < Back to Images: H1 of test detail page | < Image listing            | My HealtheVet > [H1] > [H1] > [H1] > [H1] > [H1] | [H1] - Medical Records \| Veterans Affairs |
+| >>>Image zoom             | /my-health/medical-records/labs-and-tests/123456/images/67890/ | < Back to Images:[H1 of test detail page] | < Image listing            | My HealtheVet > [H1] > [H1] > [H1] > [H1] > [H1] | [H1] - Medical Records \| Veterans Affairs |
 | Care summaries and notes  | /my-health/medical-records/summaries-and-notes/                | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
 | >Note details             | /my-health/medical-records/summaries-and-notes/1234/           | < Back to Care summaries and notes       | < Care summaries and notes | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
 | Vaccines list             | /my-health/medical-records/vaccines/                           | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
@@ -67,7 +67,7 @@ Page | URL | Breadcrumb | Notes
 | Allergy listing           | /my-health/medical-records/allergies/                          | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
 | >Allergy detail           | /my-health/medical-records/allergies/1234/                     | < Back to Allergies                      | < Allergies                | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
 | Health conditions list    | /my-health/medical-records/conditions/                         | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
-| >Condition summary        | /my-health/medical-records/conditions/1234/                    | < Back to Conditions                     | < Conditions               | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
+| > Health conditions > [H1]        | /my-health/medical-records/conditions/1234/                    | < Back to Health conditions              | < Health Conditions         | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
 | Vital list                | /my-health/medical-records/vitals/                             | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
 | >Vital history            | /my-health/medical-records/vitals/blood-pressure-history/      | < Back to Vitals                         | < Vitals                   | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
 | Medical Records Settings  | /my-health/medical-records/settings                            | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
