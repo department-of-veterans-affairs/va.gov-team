@@ -123,17 +123,17 @@ Gather feedback surrounding the relevance of usability of proposed enhancements
 
 **Issue Selection and Disagreement Enhancements**
 
-- We believe that not all Veterans know that they have access to decision letters through va.gov.
-- We believe there may be limited benefit to providing access to decision
-letters. Veterans may need help locating information surrounding specific
-contention decisions.
+- We believe that not all Veterans know they are able to access decision letters through va.gov.
+- Veterans may need help locating information surrounding specific
+contention decisions within their decision letters.
 - We believe that Veterans will be able to identify where to provide additional
 information about their appeal and differentiate those fields from fields
-relating to reason for disagreement
+relating to reason for disagreement.
 
 **Navigational and Task Flow Enhancements**
 
-- We believe Veterans will prefer the updated navigation and review pages.
+- We believe Veterans will find the enhanced navigation comprehensible and usable.
+- We believe Veterans will find the enhanced review page to be comprehensible and usable.
 
 ## Methodology
 
