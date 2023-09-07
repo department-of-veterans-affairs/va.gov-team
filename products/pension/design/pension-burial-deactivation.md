@@ -9,7 +9,7 @@ After interviewing Pension and Burial SMEs we learned that both 527 Pension and 
 
 ## Flows
 We started by identifying which pages had links to the digital form for each. 
--   [Pages with direct links to apply the form](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689262813123/cb880912d3f71ef79be0d63d0e61e306d1e6ae31?wid=0-1689360929417)
+-   [Pages with direct links to each digital form](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689262813123/cb880912d3f71ef79be0d63d0e61e306d1e6ae31?wid=0-1689360929417)
 
 #### Version 1
 -   [Pension flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689262813123/cb880912d3f71ef79be0d63d0e61e306d1e6ae31?wid=0-1690293022229)
