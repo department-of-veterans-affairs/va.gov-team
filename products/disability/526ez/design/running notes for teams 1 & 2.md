@@ -3,8 +3,8 @@
 ## 9/7/23
 Attendees:
 
-Agenda
-- 
+**Agenda
+- **
 
 ## 8/24/23
 
