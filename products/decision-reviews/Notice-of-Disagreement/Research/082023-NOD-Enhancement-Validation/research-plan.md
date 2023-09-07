@@ -117,11 +117,9 @@ Gather feedback surrounding the relevance of usability of proposed enhancements
 
 **Context and Expectation-Setting Enhancements**
 
-- We believe Veterans will prefer the revised instructional pages in comparison
-to the existing instructional pages.
-- We believe there may be a desire for additional benefits and decision review
-information not currently provided in instructional pages that Veterans do not
-know where to find.
+- We believe that Veterans have inconsistent and incomplete knowledge of decision review pathways prior to pursuing a specific pathway.
+- We believe there is value in providing additional context around decision pathways at the start of the appeals process.
+- We believe the revised instructional page will help facilitate the validation of the selected decision review pathway.
 
 **Issue Selection and Disagreement Enhancements**
 
