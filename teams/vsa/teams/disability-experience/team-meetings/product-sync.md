@@ -1,5 +1,11 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Sept 7' 2023       
+### Participants: Rashinda, Austin, Emily, Jen, Shannon
+### Topics Covered:
+- Review Toxic Exposure plan
+- Do we need any process for multiple teams working on one product(526)?
+ 
 ### Date: Aug 31' 2023       
 ### Participants: Rashinda, Austin
 ### Topics Covered:
