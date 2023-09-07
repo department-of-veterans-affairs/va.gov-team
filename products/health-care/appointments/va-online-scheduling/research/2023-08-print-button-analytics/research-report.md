@@ -1,14 +1,14 @@
-# Print Button Analytics and Feedback [Draft]
+# Print Button Analytics and Feedback - August 2023
 
 ## Background
 
-On 08/02/2023 the VAOS team released a feature for users to print their appointments list. This added a print button the the appointment lists using a new tertiary style. To assess the usability of the style and whether it's meeting a need, we will gather user behavior data and feedback from Medallia for one month after the release.
+On 08/02/2023 the VAOS team released a feature for users to print their appointments list. This added a print button the the appointment lists using a new tertiary style. To assess the usability of the style and whether it's meeting a need, we gathered user behavior data and feedback from Medallia for one month after the release.
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-08-print-button-analytics/research-plan.md)
 
 ## Findings
 
-**Immediately on release, users started clicking the print button.** Desktop users clicked it the most often, and most users printed the upcoming appointments page. This falls into our expectations with the print button. We believe this to indicate that the print button is findable/usable.
+**Immediately on release, users started clicking the print button.** Desktop users clicked it the most often, and most users printed the upcoming appointments page. We believe this indicates that the print button is findable/usable.
 [Go to the detailed finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-08-print-button-analytics/research-report.md#google-analytics-usage-data)
 
 **August was the first month since November 2022 where no users left comments related to printing.** We believe that, because Medallia feedback trends negative, receiving no feedback is an indicator that the print button may be meeting the intended need. 
@@ -19,11 +19,9 @@ On 08/02/2023 the VAOS team released a feature for users to print their appointm
 We plan to follow up with UAT that will include testing this button on production.
 
 ## Google Analytics Usage Data
-Veterans immediately started using the print button when it was released on 08/02/2023. Clicks started that day and continued at a steady pace throughout the month, averaging between 1-200 per day.
+Veterans immediately started clicking the print button when it was released on 08/02/2023. Clicks continued at a steady pace throughout the month, averaging between 1-200 per day.
 
-Veterans on desktop computers were the biggest users, followed by tablet and mobile.
-
-This chart shows the number of clicks from August 1st to September 5th, 2023 across different device types:
+Veterans on desktop computers clicked the print button the most, followed by tablet and mobile users. This chart shows the number of clicks from August 1st to September 5th, 2023 across those device types:
 
 <img width="1620" alt="A chart showing the number of clicks of the print button from August 1st to September 5th, 2023. A table below the chart shows Desktop users clicked the feature the most, followed by tablet and mobile users." src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/2536801/bae4c432-7038-4c76-af09-cbe5352a9ef4">
 
@@ -35,7 +33,7 @@ Most Veterans printed the upcoming appointments screen, followed by past appoint
 
 ## Comparative usage
 
-In the same period of time the Print button was clicked about 4% as often as the "Start scheduling" button, which is one of the most-used features in VAOS.
+In the same time period the Print button was clicked about 4% as often as the "Start scheduling" button, which is one of the most-used features in VAOS.
 
 <img width="1619" alt="A chart showing clicks of the Start scheduling button from July 28th to August 21st 2023. A table below the chart shows that there were 179,763 clicks in the same time period" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/2536801/d971e2ce-b353-4b6b-b0ab-f1cd304c9bb1">
 
