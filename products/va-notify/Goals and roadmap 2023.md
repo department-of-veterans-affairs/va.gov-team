@@ -64,13 +64,19 @@ To support more types of notifications and expand VA onboarding, we are adding f
 
 ### Strike Team
 
-#### Promote templates from Staging to Prod
+#### Email Confirmation Notifications for Forms
+##### Theme(s): Platform Capabilities
+
+As we look to improve the customer experience, we want to support business lines in sending notifications to users that have completed their online forms. In addition to working with business lines to create notifications for their forms, we are also working with the Forms team, in order to support notifications for newly digitized forms. Completed notifications can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/form%20confirmations)
+
+
+#### Promote Templates from Staging to Prod
 ##### Theme(s): Self Service / Governance
 
 We know from our users that copying template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when. 
 
 
-#### Personilized Dashboard 
+#### Personalized Dashboard 
 ##### Theme(s): Self Service / Governance
 
 Currently, in order to gain analytical insight into their notifications, business lines have to log into Datadog, Google Analytics, and/or Domo, which is not an optimal user experience. We want to bring custom reports containing useful analytics front and center within the Self-Service Portal so business lines can view notification performance metrics and use them to optimize notifications over time.  Additionally, we want to add configurable business logic that can proactively alert the corresponding business line and/or VA Notify when notifications are not being triggered (based on historical performance of the notification template). These alerts can be sent to business line technical leads and/or product owners.
@@ -125,17 +131,6 @@ As VA Notify continues to onboard business lines and notification suites are exp
 
 **Expected launch date**: February 2023
 
-#### VA.gov Forms
-* 22-5490 Education Benefit Application
-
-**Expected launch date**: February 2023
-
-* 22-1990 (Application for VA Education Benefits)
-
-**Expected launch date**: March 2023
-
-
-
 
 ## The rest of the year
 
@@ -172,22 +167,6 @@ To keep our platform performing at its best, we plan to execute the following:
 
 ### Strike Team
 
-#### VA.gov Forms
-* 22-5495 (Dependents’ Request for Change of Program or Place of Training)
-
-**Expected launch date**: April 2023
-
-* 22-1995 (Request for Change of Program or Place of Training)
-
-**Expected launch date**: April 2023
-
-* 22-0994 (Application for Veteran Employment Through Technology Education Courses (VET TEC).
-
-**Expected launch date**: May 2023
-
-* 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)
-
-**Expected launch date**: March 2023 (This one may be more complicated because it already has a notification)
 
 #### User Roles - SSUI
 Defining permission-based roles within the Self-Service Portal helps business lines maintain higher security practices in line with VA standards when establishing and maintaining teams, especially when team members can turn over frequently.  Business lines will be able to define who within their team can create and edit notifications, customize service details, and publish notifications from staging to production. 
