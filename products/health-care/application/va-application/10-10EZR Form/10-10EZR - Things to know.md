@@ -11,7 +11,7 @@ This document contains tidbits, odds & ends, and information about the 10-10EZ f
 
 Systems used by Application Processing teams
 - VIS - Veteran Information Solution 
-     - Provides consolidated view of comprehensive eligibility from VBA and DoD.  Used to locate combat dates, activation peried, South West Asia (SWA), active duty military service, service-connected disability, pension, amount, etc
+     - Provides consolidated view of comprehensive eligibility from VBA and DoD.  Used to locate combat dates, activation period, South West Asia (SWA), active duty military service, service-connected disability, pension, amount, etc
 - HINQ - Hospital Inquiry System
      - Provides verificatoin information to include active duty periods, active duty for training only, and service-connected disabilities
 - SHARE - 
