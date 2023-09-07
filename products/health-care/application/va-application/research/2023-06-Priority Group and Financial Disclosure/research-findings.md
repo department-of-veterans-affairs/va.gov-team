@@ -11,7 +11,9 @@ Date: 07/2023
 - Katelyn Caillouet (katelyn.caillouet@agile6.com) 
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ 
-- [Research readout DRAFT](https://docs.google.com/presentation/d/1bmh_zzhjrXlRdyOnmuTJkz6ppQhOU5LwngBnVEr87Kw/edit#slide=id.g892adcb623_0_141)
+- [Research readout](https://docs.google.com/presentation/d/1bmh_zzhjrXlRdyOnmuTJkz6ppQhOU5LwngBnVEr87Kw/edit#slide=id.g892adcb623_0_141)
+- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690832432428/9dc824f17b6dd1fe6c00ba64e036834dc91d9c2c?sender=uadf1ed7fe7c76f0914967329)
+
 
 <br>
 
