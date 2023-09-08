@@ -91,7 +91,7 @@
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65250)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
