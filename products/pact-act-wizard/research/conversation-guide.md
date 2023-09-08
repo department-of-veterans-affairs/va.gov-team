@@ -163,12 +163,12 @@ Let’s start with a few questions...
 
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *(RECORD)* 
 
-1. What VA benefits, if any, do you have experience with? 
-*(health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________)*
+1. Do you have any experience with VA health care? 
 
-1. How do you typically get information and benefits from the VA? 
-*(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / _________________)*
+1. Do you get disability compensation from the VA?
 
+1. Have you applied for VA benefits under the PACT Act?
+- If so, can you tell me about that? *(when, how, what happened)*
 
 ## User Tasks
 Now I'm going to ask you to do some things... ***Reassure if p nervous or says they feel dumb or embarrassed***
@@ -179,15 +179,14 @@ I would like you to share your screen with me so that I can see what you do duri
 - *(refer to Screen sharing instructions above, if needed)*
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
-### Task 1: [Wayfinding] 
-If you wanted to...
+### Task 1: [Wayfinding--want this?] 
+If you wanted to learn more about the PACT Act, what would you do?
 
 - *RECORD what they do: Google / VA.gov / words looking/searching for: _______________________*
 
 
 ### Task 2: [Open prototype] 
 
-Let's suppose that (Google/VA.gov) led you to the page that I'm going to show you. It's a prototype that isn't very interactive–some things work, and many things do not. I'm looking for **your feedback**, including any issues that you see or questions that you have. I'd like you to talk to me about what you want to do BEFORE you click anything.
 
 I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/TBD**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
@@ -197,13 +196,22 @@ Do you see the link?
 - *If see “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)*
 - *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
-What are your impressions of what you're looking at? *(RECORD)*
 
-### Task 3: [TBD]
+### Task 3: [Go through questions in wizard]
+Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it, and share **your feedback** while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'd like you to talk to me about what you plan to do BEFORE you click anything.
+
+*(RECORD all feedback on questions:)*
+- *Service years*
+- *Burn Pit questions* 
+- *Agent Orange questions*
+- *Radiation question*
+- *Camp Lejeune question*
 
 
-### Task 4: [TBD]
-
+### Task 4: [Results screen]
+*(RECORD which results screen they see: Staging / Lejeune / Benefit eligibility)*
+ 
+Please tell me about what you see here
   
 ### Task 5: [TBD]
 
