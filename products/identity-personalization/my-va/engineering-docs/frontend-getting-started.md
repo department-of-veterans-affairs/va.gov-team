@@ -1,6 +1,6 @@
 # My VA frontend
 
-Last updated: August 15, 2023 — still WIP 🚧
+Last updated: September 8, 2023 — still WIP 🚧
 
 The React/Redux frontend for the VA.gov MyVA. Modeled after [Profile's README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/frontend-getting-started.md).
 
@@ -99,6 +99,29 @@ Then navigate to **coverage/index.html** and serve it on any live server.
 # Troubleshooting
 
 🚧
+
+### `Error: An error was thrown inside one of your components, but React doesn't know what it was. This is likely due to browser flakiness.` (in terminal while running unit test)
+
+most likely due to new feature toggle that is affecting the state
+
+1. add following import paths:
+   ```
+    import { renderWithStoreAndRouter } from '~/platform/testing/unit/react-testing-library-helpers';
+    
+    import { Toggler } from '~/platform/utilities/feature-toggles/Toggler';
+   ```
+2. add an initial state for feature toggle
+   
+   ```
+    const initialState = {
+       featureToggles: {
+         [Toggler.TOGGLE_NAMES.featureToggleName]: true,
+       },
+     };
+   ```
+
+3. use `renderWithStoreAndRouter` instead of `render`
+4. add `initialState` as second argument for `renderWithStoreAndRouter()`
 
 # Resources
 
