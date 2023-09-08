@@ -62,7 +62,7 @@ Tools for Veterans to schedule or request appointments.
 | Flow | Page |
 |---|---|
 | All flows | [Choose a type of care](./schedule-flow/all--type-of-care.md) |
-| All flows | [Choose a type of sleep care](products/health-care/appointments/va-online-scheduling/feature-reference/schedule-flow/choose-a-type-of-sleep-care.md) |
+| All flows | [Choose a type of sleep care]([products/health-care/appointments/va-online-scheduling/feature-reference/schedule-flow/choose-a-type-of-sleep-care.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/feature-reference/schedule-flow/choose-a-type-of-sleep-care.md)) |
 | All flows | [Choose a type of eye care](products/health-care/appointments/va-online-scheduling/feature-reference/schedule-flow/choose-a-type-of-eye-care.md) |
 | All flows | Choose location category |
 | All flows | Choose a type of audiology care |
