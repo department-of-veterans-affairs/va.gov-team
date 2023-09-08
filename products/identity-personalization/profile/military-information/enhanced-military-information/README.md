@@ -1,4 +1,4 @@
-# Project outline: Add links to dependents and letters tools to the authenticated menu
+# Project outline: Enhanced Military Information
 
 **Last Updated: August 28, 2023 -- Added key dates**
 
