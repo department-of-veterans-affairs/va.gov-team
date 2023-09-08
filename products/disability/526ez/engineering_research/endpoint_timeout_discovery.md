@@ -39,52 +39,19 @@ The original ask:
 
 - LightHouse
     - /services/claims/v2/veterans
-        - Kayla Watanabe
         - [60 seconds]([url](https://dsva.slack.com/archives/C02CQP3RFFX/p1693255742008909?thread_ts=1693249478.108359&cid=C02CQP3RFFX))
     - /services/veteran_verification/v2
-        - ???
+        - 10 seconds
     - /services/benefits-documents/v1/documents
         - [15 seconds (gateway timeout)](https://dsva.slack.com/archives/C02CQP3RFFX/p1693327627633599?thread_ts=1693249478.108359&cid=C02CQP3RFFX)
     - /services/direct-deposit-management/v1/direct-deposit
-        - Lorri Glover
+        - 10 seconds (being transitioned to 20)
     - /services/benefits-reference-data/v1/**
-        - [10 seconds (controlled by gateway, not code)]([url](https://dsva.slack.com/archives/C02CQP3RFFX/p1693322324028769?thread_ts=1693249478.108359&cid=C02CQP3RFFX))
+        - 10 seconds (controlled by gateway, not code)
 
-- Central Mail
-    - /VADocument
-
-
-Hello PMs, thank you for your help thus far but according to this document,
-you are the keeper of the information that I still need to unblock my API timeout research.
-Please provide me with the timouts in your system, or point me to an engineer
-who can help me figure it out for the following endpoints.  Thanks!
-
-Lori Glover:
-```
-/wss-ppiu-services-web/rest/ppiuServices/v1/paymentInformation
-/wss-form526-services-web/rest/form526/v1/ratedDisabilities
-/services/direct-deposit-management/v1/direct-deposit
-```
-
-Kayla Watanabe
-```
-/wss-intenttofile-services-web/rest/intenttofile/v1
-/wss-form526-services-web-v2/rest/form526/v2/submit
-/wss-form526-services-web-v2/rest/form526/v2/getPdf
-```
-
-Rob Perea-Martinez
-```
-/wss-document-services-web-#{Settings.evss.versions.documents}/rest/
-/wss-document-services-web-#{Settings.evss.versions.documents}/rest/
-/wss-form526-services-web-v2/rest/form526/v2
-```
-
-
-- Central Mail
-    - /VADocument
-
-
+- Central Mail (EMMS)
+    - /EmmsAPI/VADocument
+        - 2 minutes
 
 ### WIP breakdown with verbs
 
