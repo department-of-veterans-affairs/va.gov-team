@@ -1,10 +1,10 @@
 # Project outline: Enhanced Military Information
 
-**Last Updated: August 28, 2023 -- Added key dates**
+**Created 09/08/2023**
 
 ### Communications
 
-- **Github labels**: authenticated-experience
+- **Github labels**: authenticated-experiencem military-info
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
@@ -17,7 +17,7 @@
 
 |Name|Role|Email|
 |----|----|-----|
-|Kristin Ouellette Muskat| Information architect for Sitewide content/IA| kristin.o.m@coforma.io|
+| | | |
 
 ### Table of Contents
 
