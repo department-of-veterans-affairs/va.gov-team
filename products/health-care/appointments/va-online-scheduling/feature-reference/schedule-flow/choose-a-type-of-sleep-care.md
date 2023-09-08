@@ -1,7 +1,7 @@
-# [Feature name]
+# Choose type of sleep care
 
 ## Overview
-[How Veterans use this feature]
+Veterans choose the type of sleep care they need
 
 ## User stories
 
