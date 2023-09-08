@@ -4,7 +4,7 @@
 
 ### Communications
 
-- **Github labels**: authenticated-experiencem military-info
+- **Github labels**: authenticated-experience, military-info
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
