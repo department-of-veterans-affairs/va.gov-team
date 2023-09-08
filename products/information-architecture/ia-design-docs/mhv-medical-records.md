@@ -50,34 +50,37 @@ Most up-to-date page structure can be found in VA public mural: https://app.mura
 
 ## <a name="url"></a>URLs and breadcrumbs
 
-**Note: The breadcrumbs for these pages may need to be suppressed until the "My health" landing page is live to avoide having an inactive segment in the breadcrumb.  If the "My health" landing page is live by the time these features go live, the breadcrumb can exist as noted.**
+**Note: Full traditional breadcrumbs (if used) will need to be suppressed until the "My health" landing page fully live (to 100% of users) to avoid having an inactive segment in the breadcrumb.**
+
 
 Page | URL | Breadcrumb | Notes
 | Page                      | URLs                                                           | P0 breadcrumbs                           | P1+ mobile breadcrumbs     | P1+ desktop breadcrumbs                          | Title tags                                 |
 |---------------------------|----------------------------------------------------------------|------------------------------------------|----------------------------|--------------------------------------------------|--------------------------------------------|
-| Landing page              | /my-health/medical-records/                                    | None                                     | < My HealtheVet            | My HealtheVet > [H1]                             | Medical Records \| Veterans Affairs        |
-| Lab and test results list | /my-health/medical-records/labs-and-tests/                     | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
-| >Test detail              | /my-health/medical-records/labs-and-tests/123456/              | < Back to Lab and test results           | < Lab and test results     | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
-| >>Image listing           | /my-health/medical-records/labs-and-tests/123456/images/       | < Back to [H1 of test detail page]       | < Test detail              | My HealtheVet > [H1] > [H1] > [H1] > [H1]        | [H1] - Medical Records \| Veterans Affairs |
-| >>>Image zoom             | /my-health/medical-records/labs-and-tests/123456/images/67890/ | < Back to Images:[H1 of test detail page] | < Image listing            | My HealtheVet > [H1] > [H1] > [H1] > [H1] > [H1] | [H1] - Medical Records \| Veterans Affairs |
-| Care summaries and notes  | /my-health/medical-records/summaries-and-notes/                | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
-| >Note details             | /my-health/medical-records/summaries-and-notes/1234/           | < Back to Care summaries and notes       | < Care summaries and notes | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
-| Vaccines list             | /my-health/medical-records/vaccines/                           | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
-| >Vaccine detail           | /my-health/medical-records/vaccines/1234/                      | < Back to Vaccines                       | < Vaccines                 | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
-| Allergy listing           | /my-health/medical-records/allergies/                          | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
-| >Allergy detail           | /my-health/medical-records/allergies/1234/                     | < Back to Allergies                      | < Allergies                | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
-| Health conditions list    | /my-health/medical-records/conditions/                         | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
-| > Health conditions > [H1]        | /my-health/medical-records/conditions/1234/                    | < Back to Health conditions              | < Health Conditions         | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
-| Vital list                | /my-health/medical-records/vitals/                             | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
-| >Vital history            | /my-health/medical-records/vitals/blood-pressure-history/      | < Back to Vitals                         | < Vitals                   | My HealtheVet > [H1] > [H1] > [H1]               | [H1] - Medical Records \| Veterans Affairs |
-| Medical Records Settings  | /my-health/medical-records/settings                            | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
-| Download all records      | /my-health/medical-records/download-all                        | < Back to Medical records                | < Medical records          | My HealtheVet > [H1] > [H1]                      | [H1] - Medical Records \| Veterans Affairs |
+| Landing page              | /my-health/medical-records/                                    | None                                     | < My HealtheVet            | < Back to [previous page] | Medical Records| Veterans Affairs        |
+| Lab and test results list | /my-health/medical-records/labs-and-tests/                     | < Back to Medical records                | < Medical records          | < Back to [previous page]   | [H1] - Medical Records \| Veterans Affairs |
+| >Test detail              | /my-health/medical-records/labs-and-tests/123456/              | < Back to Lab and test results           | < Lab and test results     | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
+| >>Image listing           | /my-health/medical-records/labs-and-tests/123456/images/       | < Back to [H1 of test detail page]       | < Test detail              | < Back to [previous page]  | [H1] - Medical Records \| Veterans Affairs |
+| >>>Image zoom             | /my-health/medical-records/labs-and-tests/123456/images/67890/ | < Back to Images:[H1 of test detail page] | < Image listing            | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
+| Care summaries and notes  | /my-health/medical-records/summaries-and-notes/                | < Back to Medical records                | < Medical records          | < Back to [previous page]  | [H1] - Medical Records \| Veterans Affairs |
+| >Note details             | /my-health/medical-records/summaries-and-notes/1234/           | < Back to Care summaries and notes       | < Care summaries and notes | < Back to [previous page]| [H1] - Medical Records \| Veterans Affairs |
+| Vaccines list             | /my-health/medical-records/vaccines/                           | < Back to Medical records                | < Medical records          | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
+| >Vaccine detail           | /my-health/medical-records/vaccines/1234/                      | < Back to Vaccines                       | < Vaccines                 | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
+| Allergy listing           | /my-health/medical-records/allergies/                          | < Back to Medical records                | < Medical records          | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
+| >Allergy detail           | /my-health/medical-records/allergies/1234/                     | < Back to Allergies                      | < Allergies                | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
+| Health conditions list    | /my-health/medical-records/conditions/                         | < Back to Medical records                | < Medical records          | < Back to [previous page]| [H1] - Medical Records \| Veterans Affairs |
+| > Health conditions > [H1]        | /my-health/medical-records/conditions/1234/            | < Back to Health conditions              | < Health Conditions         | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
+| Vital list                | /my-health/medical-records/vitals/                             | < Back to Medical records                | < Medical records          | < Back to [previous page]  | [H1] - Medical Records \| Veterans Affairs |
+| >Vital history            | /my-health/medical-records/vitals/blood-pressure-history/      | < Back to Vitals                         | < Vitals                   | < Back to [previous page]  | [H1] - Medical Records \| Veterans Affairs |
+| Medical Records Settings  | /my-health/medical-records/settings                            | < Back to Medical records                | < Medical records          | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
+| Download all records      | /my-health/medical-records/download-all                        | < Back to Medical records                | < Medical records          | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
 
 
 
 ## <a name="nav"></a>Secondary navigation <br>
 
-Secondary/left navigation order
+* Phase 0 initial launch (Allergies only) will not have a secondary navigation. Navigation will only be exposed once 2+ subdomains are launched. 
+
+* Full phase 0 secondary/left navigation order:
 
   - Medical Records
     - Lab and test results
@@ -95,18 +98,14 @@ Secondary/left navigation order
 ## <a name="notes"></a>Meetings notes and background info
 
 Open issues:
-- Need to determine if secondary nav is needed in initial phases for health history, or possibly a combo secondary left nav that brings these sections together
-  - Decision: We will create a combined secondary/left nav that will include a landing page (for phase 0), Lab and test results, Health history, and Share medical records - no other portal features will be included in the left nav
-- identify what phases breadcrumb needs to be suppressed for - until it is linked to from the va.gov landing page
-  - Decision: Breadcrumb to be suppressed only until new MyHealth portal landing page is live
 - identify phase when entry points should be implemented
   - In phase 0, the user will only be linked from a url in an email invite to the VA Medical Records landing page
-  - In phase 1, the email invites will stop. Users will be linked from legacy MHV directly to these pages. The landing page will get moved to the bottom spot in the left nav.
-  - In phase 2, the landing page will move to R+S.
+  - In phase 1, the email invites will stop. Users will be linked from legacy MHV directly to these pages via "try me out" messaging. 
+  - In phase 2, the landing page will be removed from Medical Records (and that content will be migrated over to a Resources + Support page on VA.gov)
   - Other changes to the left nav are pending user research and syncing with other MHV tools.
 - identify where existing medical records and lab and test results link on My VA links to
-  - ![Destination of medical recods link on va.gov](https://user-images.githubusercontent.com/122126772/227366022-7095ff05-a69f-421c-b919-ea67b42ffde3.png)
-- identify what changes are needed to health care hub, inlcuding the existing get medical records page and lab an tests results page
+  - ![Destination of medical recrods link on va.gov](https://user-images.githubusercontent.com/122126772/227366022-7095ff05-a69f-421c-b919-ea67b42ffde3.png)
+- identify what changes are needed to health care hub, including the existing "get medical records" page and "lab an tests results" page
   - Currently, we have a static page for lab and tests and for getting medical records, but not for health history. 
   - Do we need to broaden page to include access to lab and tests as well as health history, or do we keep individual pages (health history page does not exist)
   - Pull analytics and SEO data on existing pages and keywords for reference
