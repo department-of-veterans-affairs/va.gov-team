@@ -10,7 +10,7 @@
 
 OCTO-**DE** Lead: Chante Lantos-Swett, Kevin Hoffman
 
-Account Owner: Jason Woodman @jwoodman5
+Product Manager: Anita Middleton
 
 Medallia Contact: @sarkis 
 
@@ -109,8 +109,6 @@ Right [here](https://www.va.gov/find-locations) on our VA.gov Find Locations pag
 For this survey to be implemented on your VA.gov page(s), you must request is using 'User Survey - Request Template' in Zenhub. Feedback surveys will only be added proactively for pages with ForeSee feedback surveys currently live on production.
 
 More information on the process for requesting a Medallia user survey can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-request-survey.md). 
-
-### **Please Note: We are _not_ implementing custom surveys at this time.**
 
 ### Additional Resources
 
