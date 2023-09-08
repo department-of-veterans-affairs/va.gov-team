@@ -29,8 +29,8 @@ We're looking for a low stakes, low development way to reduce the number of user
 
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)
 - Analytics Dashboard
-- ~~QA Testing~~
-- ~~UAT Testing~~
+- ~~QA Testing~~ we're not completing formal QA testing. We've confirmed the links work in staging and direct users to the correct locations. 
+- ~~UAT Testing~~ we'll use analytics to monitor, we're not spending resources to run a full UAT study
   
 
 ## Phase I - UAT 
