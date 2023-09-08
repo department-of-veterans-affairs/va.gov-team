@@ -1,9 +1,10 @@
 # Product outline: Military information in the VA.gov profile
 
-**Last Updated: August 1, 2023**
+**Last Updated: September 8, 2023** added military information project, updated GH labels
 
 ### Table of Contents
 
+- [Communications](#communications)
 - [POCs](#pocs)
 - [Overview](#overview)
 - [User problem statements](#user-problem-statements)
@@ -13,11 +14,14 @@
 - [Backend](#backend)
 - [Design and UX](#design-and-ux)
 
-### POCs
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+
+### Communications 
+- **Github labels:** authenticated-experience, military-info
+- **Slack channels**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
 #### Roles  
 [This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+
 
 ## Overview
 
@@ -64,3 +68,5 @@ The following provides a description of the different termination reason codes:
 - [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/use-cases)
 - [User flow on mobile page of Sketch files has u](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/p/D6D40E33-BC4E-4A06-90C7-879C59AD49F4/canvas)
+
+## Frontend 
