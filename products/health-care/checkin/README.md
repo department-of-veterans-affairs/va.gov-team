@@ -95,6 +95,11 @@
 - [JSON Files in Master Branch](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/locales)
 
 ## Engineering
+- Code Repositories
+  - [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
+  - [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
+  - [CHIP API](https://github.com/department-of-veterans-affairs/chip)
+  - [LoROTA API](https://github.com/department-of-veterans-affairs/lorota)
 - [Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/architecture-diagrams)
 - [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/qa)
 - [Training Environment](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/training-environment)
