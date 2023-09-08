@@ -17,9 +17,9 @@
 
 ## User interface design
 
-[User flow](Add link) 
+[User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=458-19107&t=h7voOZsnZQC7y70u-4) 
 
-[Page template](Add link)
+[Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2403-49117&mode=design)
 
 [Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-all-flows.md#choose-sleep-care:~:text=Back%20Continue-,Choose%20sleep%20care,-NAVIGATION)
 ## Metrics
