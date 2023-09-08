@@ -33,7 +33,12 @@
 
 
 ## Overview
+To access many benefits veterans often need to provide service history data and adequate documentation to support their request. When a service member separates from their respective branch, they are given a copy of their DD214. This is a snapshot at the time of ther separation of imporant information. Many veterans lose this document or in some cases never received a copy. Currently in the profile we link to 
+[link to relevant study needed] 
 
+### Relevant Legislation 
+- Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.  
+- Congress enacted Section 803 on August 10, 2022, as part of the PACT Act. Section 803(a) provides: “The Secretary of Veterans Affairs [VA] shall coordinate with the Secretary of Defense [DoD] to provide a means for Veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or Veteran in the [ILER].”
 
 
 ## Problem Statement
