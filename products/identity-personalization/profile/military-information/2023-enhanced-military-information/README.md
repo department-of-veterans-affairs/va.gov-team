@@ -17,7 +17,7 @@
 
 |Name|Role|Email|
 |----|----|-----|
-| Melissa Rebstock | | |
+| Melissa Rebstock | | should we put their emails in a public repo?|
 | Trish Dang | | |
 
 ### Table of Contents
