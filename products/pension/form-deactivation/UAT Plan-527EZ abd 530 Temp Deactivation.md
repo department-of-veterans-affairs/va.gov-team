@@ -1,7 +1,9 @@
 # UAT Plan for 527EZ and 530 Temporary Deactivation
 
-[Per VSP guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-uat.md#what-is-uat), during typical user acceptance testing (UAT), actual users test the service/tool/feature to make sure it can handle required tasks in real-world scenarios in the production environment, athough [there are times when UAT may be conducted with a non-Veteran audience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-uat.md#recruiting). Because the temporary deactivation of the pension and burial forms only affects a few pages with in the forms flows and the changes are minor, 
-we have decided to move forward with UAT with a non-Veteran audience. 
+[Per VSP guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-uat.md#what-is-uat), during typical user acceptance testing (UAT), actual users test the service/tool/feature to make sure it can handle required tasks in real-world scenarios in the production environment, athough [there are times when UAT may be conducted with a non-Veteran audience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-uat.md#recruiting).
+
+Because the temporary deactivation of the pension and burial forms only affects a few pages with in the forms flows and the changes are minor, 
+we will conduct UAT testing in production with test accounts. 
 
 ### What product & team is this UAT for?
 - Pension (527EZ) and Burial (530) digital forms
@@ -33,7 +35,7 @@ Chrome browser instructions below for Step 2 in other browsers [check this how t
 
 ## UAT Test Flow
 ### Authenticated User with in-progress form
-1. User receives email notifying them the form has been deactivated and they need to submit their claim via paper form
+1. User receives email notifying them the form has been deactivated and they need to submit their claim via paper form (test both users with email addresses within claim form and users with email on MyVA profile)
 2. User clicks link within email to download pdf
 3. User clicks link within email to learn "how to apply" for a VA burial allowance and sees updated information
 5. User opens form review page (burial or pension) and sees their in-progress form summary and updated deactivation information
