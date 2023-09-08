@@ -122,20 +122,16 @@ To keep our platform performing at its best, we plan to execute the following:
 
 ### Strike Team
 
-#### Promote to Production (MVP)  - SSUI 
-Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
-
-**Expected launch date**: March/April 2023
 
 #### Developer Resources (MVP) - SSUI
 To reduce the development time needed to integrate with VA Notify, we want to make sure developers can easily access all the information they need from within the Self-Service Portal.  A ‘Developer’ tab will include three sections: Technical Documentation, API Documentation, and Technical Contacts. ‘Technical Documentation’ informs developers about VA Notify architecture and the services we offer.  ‘API Documentation’ using Swagger helps developers understand the endpoints, methods, parameters, and responses of our API more effectively with interactive documentation. Additionally, ‘Technical Contacts’ lists VA Notify team member names and emails so developers can reach out if they have any questions.
 
-**Expected launch date**: Febuary 2023
+**Launched**: Febuary 2023
 
 #### Service Management  - SSUI 
 As VA Notify continues to onboard business lines and notification suites are expanded, it is crucial business lines are able and empowered to manage their own notification services, lest VA Notify end up a support team. Functionality such as copying service details to a clipboard, modifying permitted notification types, inviting and managing users, and managing notifications not only reduces onboarding time, it facilitates the continued evaluation and maintenance of notifications.
 
-**Expected launch date**: February 2023
+**Launched**: January/February 2023
 
 
 ## The rest of the year
@@ -173,22 +169,58 @@ To keep our platform performing at its best, we plan to execute the following:
 
 ### Strike Team
 
+#### Promote to Production (MVP)  - SSUI 
+Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
 
-#### User Roles - SSUI
-Defining permission-based roles within the Self-Service Portal helps business lines maintain higher security practices in line with VA standards when establishing and maintaining teams, especially when team members can turn over frequently.  Business lines will be able to define who within their team can create and edit notifications, customize service details, and publish notifications from staging to production. 
+**Launched**: June 2023
 
-**Expected launch date**: April/May 2023
-
-#### White Listing - SSUI
+#### Whitelist (MVP) - SSUI
 Whitelisting functionality allows business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality, but enhanced security as well.
 
-**Expected launch date**: May/June 2023
+**Launched**: June 2023
 
 ### Q3 - Q4 CY2023 (July - December)
 ### Notify Team
 
 
 ### Strike Team
+
+#### Promote to Production (Phase 1) - SSUI - Email for Admins
+Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
+
+**Launched**: July 2023
+
+#### Promote to Production (Phase 1) - SSUI - Email for Editors
+Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
+
+**Expected launch date**: September 2023
+
+#### Whitelist (Post-MVP) - SSUI
+Whitelisting functionality allows business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality, but enhanced security as well.
+
+**Expected launch date**: September 2023
+
+#### Promote to Production (Phase 3) - SSUI - SMS for Admins
+Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
+
+**Expected launch date**: October 2023
+
+#### Promote to Production (Phase 4) - SSUI - SMS for Editors
+Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
+
+**Expected launch date**: November 2023
+
+
+
+
+
+
+### Deprioritized for 2023
+
+### Strike Team
+
+#### Secondary User Roles - SSUI
+Defining permission-based roles within the Self-Service Portal helps business lines maintain higher security practices in line with VA standards when establishing and maintaining teams, especially when team members can turn over frequently.  Business lines will be able to define who within their team can create and edit notifications, customize service details, and publish notifications from staging to production. 
 
 #### Email Editor Enhancements
 Our user research suggests that using markdown to write emails within the Self-Service Portal is a major barrier to entry. Not only do users have to learn markdown to customize notifications, they have to save their notification drafts to preview them. In our mission to create a one-stop shop for business lines to create and maintain notifications, replacing the markdown editor with a free text editor and adding a preview pane is crucial to facilitate the creation of notifications.  
@@ -199,5 +231,4 @@ During onboarding, VA Notify meets with business lines to learn about their proc
 #### Service Configurations
 When it comes to SMS notifications, not only does text content have to be informative and concise, but Veterans have to trust the sender. Enabling service level administrators to assign 10-DLC/Short codes at a service level for SMS notifications ensures they can send consistent notifications from numbers that Veterans trust.
 
-#### Consolidating Notifications Across VA
-Currently, Veterans receive notifications from multiple channels. Messaging across these channels is not consistent or well-balanced, which leads to a fragmented online experience for Veterans. Moving form confirmation notifications from Govdelivery to VA Notify is a step in the right direction because it allows VA Notify to better identify and optimize the overall Veteran online notification experience.
+
