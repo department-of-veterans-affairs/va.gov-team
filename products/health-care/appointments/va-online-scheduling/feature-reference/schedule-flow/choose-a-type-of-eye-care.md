@@ -24,9 +24,9 @@ Nutrition services
 
 ## User interface design
 
-[User flow]([Add link](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=155-31279&t=YKoF2YbaafF6RwO9-4)) 
+[User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=155-31279&t=YKoF2YbaafF6RwO9-4) 
 
-[Page template]([Add link](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2403-49117&mode=design))
+[Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2403-49117&mode=design)
 
 [Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-all-flows.md#choose-eye-care:~:text=Back%0AContinue-,Choose,-eye%20care)
 
