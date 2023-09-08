@@ -26,6 +26,7 @@ intenral TO = the timeout set in vets-api
 external TO = the timeout set in the external service
 
 | service             | endpoint                                                             | internal TO | external TO                           |
+|---------------------|----------------------------------------------------------------------|-------------|---------------------------------------|
 | ITF:                |                                                                      |             |                                       |
 | EVSS                | /wss-intenttofile-services-web/rest/intenttofile/v1                  | ???         | 2 minutes                             |
 | LH                  | /services/claims/v2/veterans                                         | ???         | 60 seconds                            |
