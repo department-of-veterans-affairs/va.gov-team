@@ -1,4 +1,4 @@
-# [All type of care]
+# All type of care
 
 ## Overview
 Veterans are asked what type of care they'd like to receive.
