@@ -44,7 +44,7 @@ To access many benefits veterans often need to provide service history data and 
 
 ## Problem Statement
 
-
+Veterans struggle to access personal military records relevant to their application for benefits. Veterans need at a minimum read only access to their ILER data. 
 
 ## User Outcomes
 
