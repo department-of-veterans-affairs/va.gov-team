@@ -34,13 +34,23 @@
 
 
 ## Overview
-To access many benefits veterans often need to provide service history data and adequate documentation to support their request. When a service member separates from their respective branch, they are given a copy of their DD214. This is a snapshot at the time of ther separation of imporant information. Many veterans lose this document or in some cases never received a copy. Currently in the profile we link to 
-[link to relevant study needed] 
+### What we want to solve 
+Veterans currently cannot access key military service data points online. 
+
+### 8 key 
+
+### DD214
+To access many benefits veterans often need to provide service history data and adequate documentation to support their request. Today the DD214 is commonly used to supply service information. When a service member separates from their respective branch, they are given a copy of their DD214 and while this  snapshot at the time of their separation supplies most information needed, it could contain inaccuracies. Additionally, many veterans lose this document or in some cases never received a copy and need to re-request. Currently in the profile we link to support pages detailing how to request a copy of one's DD214, this initiative should expand upon that to make it easier for veterans to access that data. 
+[link to relevant study needed]
+
 
 ### Relevant Legislation 
 - Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.  
 - Congress enacted Section 803 on August 10, 2022, as part of the PACT Act. Section 803(a) provides: “The Secretary of Veterans Affairs [VA] shall coordinate with the Secretary of Defense [DoD] to provide a means for Veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or Veteran in the [ILER].”
 
+### Open questions to discuss with the team 
+Do we need a phased approach? what would that look like? 
+What would an MVP product be? 
 
 ## Problem Statement
 
@@ -68,6 +78,10 @@ Veterans struggle to access personal military records relevant to their applicat
 ### Undesired Business Outcomes
 
 
+## Proposed Solution
+
+
+
 
 ## Measuring Success
 
@@ -76,7 +90,6 @@ Veterans struggle to access personal military records relevant to their applicat
 ### Objective #1: 
 
 **When filling in data -- update dates to be 1 month pre-launch, one month post launch (to 100%), and the second month post-launch (to 100%) based on actual launch dates.**
-
 
 
 |KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
