@@ -1,0 +1,11 @@
+# Release Tasks - Implementing the URLs, Breadcrumbs, Page Title + Re-directs for the Appointments tool (MHV on VA.gov initiatve) 
+
+## Project Summary Feature [#57667](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/57667)
+MHV users will now use the Appointments tool on VA.gov. The changes are to update the URLs, breadcrumbs, page titles, and re-directs structure on the Appointments tool. The update will be consistent across the mulitple application on MHV on VA.gov.
+
+## Implementation Plan
+- The Appooinemnts FE team will turn on the feature toggle 100% to all users in production on Tuesday, October 3, 2023. The MHV on VA.gov try me banner is expected to go live on Thursday, October 5, 2023.
+- MHV static landing page to go out live on _____.
+- Public Websites widget to the new URL is under the Appointments FE feature toggle (toggle name)
+- Authenticated Experience widget to the new URL is under the Appointments FE toggle (toggle name)
+- 
