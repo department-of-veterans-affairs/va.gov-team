@@ -73,8 +73,6 @@
 
 
 
-[Search results can be found on the 
-
 |KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|-------------------|
 |||||
