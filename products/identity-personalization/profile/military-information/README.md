@@ -49,7 +49,7 @@ We pull in a small amount of military information to the VA.gov profile. This in
 
 |Project/Inititive|Epic|Launch date|
 |---|---|---|
-| Expand Military Information [project outline]()|| Intake|
+| Expand Military Information [project outline]()| [Intake EPIC \| Profile \| Enhanced Military Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)| Intake|
 
 ## Backend
 [Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md)
