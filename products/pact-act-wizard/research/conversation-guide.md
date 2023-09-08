@@ -168,7 +168,7 @@ Let’s start with a few questions...
 1. Do you get disability compensation from the VA?
 
 1. Have you applied for VA benefits under the PACT Act?
-- If so, can you tell me about that? *(when, how, what happened)*
+    - If so, can you tell me about your experience? *(when, how, results)*
 
 ## User Tasks
 Now I'm going to ask you to do some things... ***Reassure if p nervous or says they feel dumb or embarrassed***
@@ -198,7 +198,7 @@ Do you see the link?
 
 
 ### Task 3: [Go through questions in wizard]
-Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it, and share **your feedback** while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'd like you to talk to me about what you plan to do BEFORE you click anything.
+Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share **your feedback** while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'd like you to talk to me about what you're thinking and what you plan to do BEFORE clicking anything.
 
 *(RECORD all feedback on questions:)*
 - *Service years*
@@ -208,19 +208,35 @@ Let's suppose that (Google/VA.gov) led you to the web page that I'm going to sho
 - *Camp Lejeune question*
 
 
-### Task 4: [Results screen]
+### Task 4: [Results screen - Lejeune or Benefit eligibility]
 *(RECORD which results screen they see: Staging / Lejeune / Benefit eligibility)*
  
-Please tell me about what you see here
-  
-### Task 5: [TBD]
+Please tell me about what you see here. 
+
+What does this mean to you?
+
+What would you do now?
 
   
-### Task 6: [TBD]
+### Task 5: [Results screen--Staging version]
+*(If participant is looking at Staging version and notices that the locations don't match what their answers to the questions asked...)* This is a sample page that doesn't correspond to your answers to the questions. Pretend that you served in the Middle East.
 
 
-### Task 7: [TBD]
+*(If participant saw a different results screen before...)*
+Now I'm going to show you a different version of what you might see, which does NOT correspond to your answers to the questions, but I'd like you to take a look at it anyway.
 
+Please tell me about what you see here. 
+
+What does this page mean to you?
+
+What do "presumptive conditions" mean to you?
+
+What is unclear or doesn't work well for you?
+
+What would you do now?
+
+*(RECORD what they do: Apply for disability / supplemental claim / health care / ___________________________)*?
+  
  
 ## Post-Task Interview - 7 minutes
 
