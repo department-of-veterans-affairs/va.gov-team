@@ -135,5 +135,6 @@ Users have trouble finding dependent information and where to download their ben
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/76d5cd22-fab0-4c53-a69e-4d80bb82797a)
 
 ### After
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/b3c9247e-2707-49a8-a3c2-73a3fcaa52ba)
 
 ## Frontend
