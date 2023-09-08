@@ -110,9 +110,11 @@
 ## Screenshots
 
 ### Before
+- [Current 527 form url](https://www.va.gov/pension/application/527EZ/introduction)
+- [Current form flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683826730324/61b509f935adaa2acf2f7769a5ba911726a7b237?sender=u0e8ac1d6d7681bb7e1b80558)
 
 ### After
-
+- [Future flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691512530884/67e3bc6677c8d17cf6fc8848319a6e40ebced1af?wid=0-1691790334288&sender=u0e8ac1d6d7681bb7e1b80558)
 ---
 
 #### Communications
