@@ -20,14 +20,21 @@ In order to request information from the VA.gov Datadog instance you will need t
 Once you have obtained these keys, update your `settings.local.yml` to include the keys:
 
 ```yml
+# config/settings.local.yml
 datadog_api_client:
   api_key: <api_key>
   application_key: <application_key>
 ```
 
-### vets-api environment targeted
+### Selecting the Appropriate vets-api Environment
 
-<!-- - fix this so it's part of the settings documentation? -->
+The Datadog integration will query for logs from a specific `vets-api`, controllable by a configuration setting. This setting will default to `staging` in the `settings.yml` file; users wishing to query production logs will have to update their `settings.local.yml` file to point to "prod".
+
+```yml
+# config/settings.local.yml
+datadog_api_client:
+  vets_api_environment: prod
+```
 
 ### Authentication
 
@@ -39,26 +46,11 @@ The Identity team maintains a [Postman collection](https://github.com/department
 
 ## Datadog Querying Routes
 
-<!-- - Explain shared params, vanilla logs query vs. structured FWA dashboard replication queries, shared response format -->
+The Datadog querying integration consists of both unstructured querying for users to perform their own searches of vets-api log data, as well as pre-structured queries that feature more complex data parsing & formatting. Both the unstructured "Logs Query" and the pre-structured queries share the same parameters & top-level response formats.
 
-## GET - Logs Query
+### Query Parameters
 
-- `<identity_dashboard_env>/logs/query`
-- params: `query`, `from`, `to`
-- optional params: `limit`, `cursor`
-
-<!-- - individual querying instructions & response format -->
-
-
-## GET - Overseas Direct Deposits Query
-
-- `<identity_dashboard_env>/logs/overseas_direct_deposits`
-- params: `from`, `to`
-- optional params: `limit`, `cursor`
-
-<!-- - individual querying instructions & response format -->
-
-## Parameters
+The following query parameters are used by all Datadog querying routes, with the exception of the `query` parameter, which is used only in unstructured queries; pre-structured queries populated a hard-coded query to be submitted to Datadog.
 
 | Name | Description | Value Type | Example Values |
 | --- | --- | --- | --- |
@@ -67,3 +59,104 @@ The Identity team maintains a [Postman collection](https://github.com/department
 | to | The end of the time range you are querying. Formatting is the same as `from`. | String | `now`, `2023-09-06T11:48:36+01:00`, `1672038000000` |
 | limit (optional) | Limits how many individual log results are returned from the query. If no option is set the limit is defaulted to 50 results; maximum limit is 1000. If the number of results is greater than the limit a `cursor` parameter will be returned with the response to point to the next page. | Integer | `25` |
 | cursor (optional) | Indicates which page in a paginated request should be returned, requests without this param will return the first page. | String | `eyJhZnRlciI6IkFnQUFBWVZOT3lkT1hTSGxVZ0FBQUFBQUFBQVlBQUFB...` |
+
+### Response Format
+
+Responses are formatted as a JSON object with three primary keys: `logs`, `meta`, and `cursor`.
+
+* `logs`: The log data returned from Datadog. Unstructured queries will return an array of raw log data, structured queries will return a hash of parsed information relevant to the query.
+* `meta`: The metadata of the Datadog response, including a request_id & `cursor` for requesting the subsequent page in paginated requests.
+* `cursor`: The `cursor` information parsed from the `meta` attribute, this has been placed in a top-level attribute for ease of consumption by Datadog querying clients.
+
+## GET - Logs Query
+
+The logs query route is a direct, unstructured query of all Datadog logs for the specified `vets-api` environment. Refer to the `query` parameter information above and link to Datadog documentation for querying syntax information.
+
+The `logs` response is an array of objects, one for each log. The log object contains a `message` attribute, this is the only parsing done for this query; the `log` attribute contains the unaltered log as saved to Datadog.
+
+* `<identity_dashboard_env>/logs/query`
+* params: `query`, `from`, `to`
+* optional params: `limit`, `cursor`
+* response format:
+
+  ```json
+  {
+    "logs": [
+        {
+            "message": "Rendered Mobile::V0::FolderSerializer with ActiveModelSerializers::Adapter::JsonApi (0.67ms)",
+            "log": <unparsed_log>
+        },
+        {
+            "message": "Completed #show",
+            "log": <unparsed_log>
+        },
+        {
+            "message": "Rendered PaymentHistorySerializer with ActiveModelSerializers::Adapter::JsonApi (0.97ms)",
+            "log": <unparsed_log>
+        }
+    ],
+    "meta": {
+        "elapsed": 394,
+        "page": {
+            "after": "eyJhZnRlciI6IkFnQUFBWX..."
+        },
+        "request_id": "pddv1ChZWX3FfdExMUlFBeTBF...",
+        "status": "done"
+    },
+    "cursor": "eyJhZnRlciI6IkFnQUFBWX..."
+  }
+  ```
+
+## GET - Overseas Direct Deposits Query
+
+A structured query of all changes made to users' direct deposits from non-US or unknown geolocations.
+
+The `logs` response is a hash keyed to the ICN of each user. Each log value is also a hash, including a `latest_transaction` attribute of the most recent direct deposit change returned in the log response, and one or more location keys with groups of parsed log information.
+
+* `<identity_dashboard_env>/logs/overseas_direct_deposits`
+* params: `from`, `to`
+* optional params: `limit`, `cursor`
+* response format:
+
+  ```json
+  {
+    "logs": {
+      "1123514789V233479": {
+        "latest_transaction": "2023-07-25T22:20:30.901Z",
+        "Niger": [
+          {
+            "vagov_uuid": "b796afd3b1ad42dabbd75267da0f1451",
+            "message": "PPIUController#update request completed",
+            "csp": "idme",
+            "ip_address": "127.46.163.53",
+            "country": "Niger",
+            "city": "Maradi",
+            "timestamp": "2023-07-25T22:19:32.727Z"
+          },
+          {
+            "vagov_uuid": "b796afd3b1ad42dabbd75267da0f1451",
+            "message": "Ch33BankAccountsController#update request completed",
+            "csp": "idme",
+            "ip_address": "127.46.163.53",
+            "country": "Niger",
+            "city": "Maradi",
+            "timestamp": "2023-07-25T22:20:30.901Z"
+          }
+        ],
+        "Chad": [
+          { ... }
+        ]
+      },
+      "1345624726V263873": { ... }
+    },
+    "meta": {
+      "elapsed": 796,
+      "page": {
+        "after": "eyJhZnRlciI6IkFnQUFBWW1T..."
+      },
+      "request_id": "pddv1ChZKTTFDeGNpa1FRaW9TYU9JUmQ...",
+      "status": "done"
+    },
+    "cursor": "eyJhZnRlciI6IkFnQUFBWW1T..."
+  }
+  ```
