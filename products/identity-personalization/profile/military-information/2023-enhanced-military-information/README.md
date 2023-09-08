@@ -17,7 +17,8 @@
 
 |Name|Role|Email|
 |----|----|-----|
-| | | |
+| Melissa Rebstock | | |
+| Trish Dang | | |
 
 ### Table of Contents
 
