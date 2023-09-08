@@ -1,6 +1,15 @@
 # Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, August 2023][Cohort 1 - Declined Enrollment]
 
 
+
+## Participant 3
+### Cohort 1
+### Thursday, Sept 14 at 12pm ET / 9am PT
+
+
+----
+
+
 ## Intro - 5 minutes
 
 
@@ -88,16 +97,3 @@ Let’s start with a few warm-up questions.
 - Any questions for me? 
 
 
-## Thank-You and Closing - 3 minutes
-
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
-
-Thank you so much again, and enjoy the rest of your day!
-
-##
-
-## Emergency Exit
-
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
