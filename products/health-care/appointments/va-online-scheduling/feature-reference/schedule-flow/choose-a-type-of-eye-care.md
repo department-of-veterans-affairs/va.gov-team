@@ -5,23 +5,30 @@
 Veterans choose between an optometry and ophthalmology appointment.
 ## User stories
 
-- As a <user type> I want <goal> so that <reason>
-- As a <user type> I want <goal> so that <reason>
+- As a Veteran I want to schedule an appointment with the type of eye care that corresponds to my need. 
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- [Functional requirement]
-- [Functional requirement]
+- Eye care, sleep care, and audiology are sub-types, which a user can choose from the page after "type of care"
+
+- Community care eligibility is checked after the type of care page, if a user has chosen a type of care that supports community care:
+
+Primary care (if they have never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team])
+Audiology (for either routine exam or hearing aid support)
+Optometry
+Podiatry (currently only available for Community Care)
+Nutrition services
+
 
 ## User interface design
 
-[User flow](Add link) 
+[User flow]([Add link](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=155-31279&t=YKoF2YbaafF6RwO9-4)) 
 
-[Page template](Add link)
+[Page template]([Add link](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2403-49117&mode=design))
 
-[Page content](Add link)
+[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-all-flows.md#choose-eye-care:~:text=Back%0AContinue-,Choose,-eye%20care)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
@@ -54,7 +61,7 @@ Veterans choose between an optometry and ophthalmology appointment.
 ## Technical design
 <!-- Endpoints and sample responses -->
 
-**Staging URL:** [Add staging URL]
+**Staging URL:** [[Add staging URL](https://staging.va.gov/my-health/appointments/new-appointment/choose-eye-care)]
 
 **Staging base URL:** https://staging-api.va.gov/
 
