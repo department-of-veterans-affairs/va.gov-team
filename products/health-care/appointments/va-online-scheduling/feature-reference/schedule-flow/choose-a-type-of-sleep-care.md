@@ -21,7 +21,7 @@
 
 [Page template](Add link)
 
-[Page content](./va-online-scheduling/content/schedule-all-flows.md#choose-sleep-care:~:text=Back%20Continue-,Choose%20sleep%20care,-NAVIGATION)
+[Page content](./va-online-scheduling/content/schedule-all-flows.md#choose-sleep-care:~:text=Back%20Continue-,Choose%20sleep%20care,-NAVIGATION (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-all-flows.md#choose-sleep-care:~:text=Back%20Continue-,Choose%20sleep%20care,-NAVIGATION)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
