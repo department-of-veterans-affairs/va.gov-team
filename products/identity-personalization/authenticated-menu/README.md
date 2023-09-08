@@ -61,7 +61,7 @@ VA.gov has historically prioritized the unauthenticated experience in its naviga
 ## Analytics
 
 - [Domo](https://va-gov.domo.com/page/1834995012?userId=66061986)
-- GA Dashboard
+- [GA Dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/jTwco5hFRBmuXcjZN9YSPA/a50123418w177519031p176188361/_u.date00=20230806&_u.date01=20230814/)
 
 ## Projects
 
