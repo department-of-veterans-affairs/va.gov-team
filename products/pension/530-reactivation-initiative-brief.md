@@ -89,7 +89,7 @@
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65251)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -108,9 +108,10 @@
 ## Screenshots
 
 ### Before
-
+- [530 form url](https://www.va.gov/burials-and-memorials/application/530/introduction)
+- [Current Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691512530884/67e3bc6677c8d17cf6fc8848319a6e40ebced1af?wid=0-1691605354523)
 ### After
-
+- [Future Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691512530884/67e3bc6677c8d17cf6fc8848319a6e40ebced1af?wid=0-1691790334288&sender=u0e8ac1d6d7681bb7e1b80558)
 ---
 
 #### Communications
