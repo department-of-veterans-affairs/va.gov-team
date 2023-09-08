@@ -98,9 +98,9 @@ We tested 249 requests at .42 requests per second with 5mb file attachment throu
 ### Findings / Issues
 There was a 6.4% error rate for this test. The failures were a result of maxing out available connections with the downstream VES Enrollment and Eligibility system's lower environment. We've reviewed the results with the VES team and have determined that this the connection pool in the lower enviroment is configured to a higher level in production. We conclude that this type of failure would not be replicated in production under the load tested here. 
 
-In addition, vets-api has queuing and retry functionality implemented for 10-10EZ submissions to the Enrollment and Eligibility system. This means that any failed submissions are retried up to 25 times over a span of 3 days. While unlikely, it is technically possible for a submission to fail all 25 retries. In this case, an email notification is sent to the user. However, users are not required to provide an email address. If a user does not provide an email address or deletes their prefilled email address, alerting has been established and we are working with our VHA on how to address this scenario.
+In addition, vets-api has queuing and retry functionality implemented for 10-10EZ submissions to the Enrollment and Eligibility system. This means that any failed submissions are retried up to 25 times over a span of 3 days. While unlikely, it is technically possible for a submission to fail all 25 retries. In this case, an email notification is sent to the user.
 
 ---
 
 ## Conclusion and recommendation
-We are confident that the resources we tested are well prepared for 10x normal load. We recommend close monitoring of all resources discussed above during the weeks leading up to 9/30 and coordination with downstream system owners. We also recommend implementing a standard operating procedure in collaboration with VHA for the situation where a submission has exhausted all retries and the user did not provide an email address for contact.
+We are confident that the resources we tested are well prepared for 10x normal load. We recommend close monitoring of all resources discussed above during the weeks leading up to 9/30 and coordination with downstream system owners. 
