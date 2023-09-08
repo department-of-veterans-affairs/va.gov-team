@@ -5,6 +5,7 @@
 ### Table of Contents
 
 - [Communications](#communications)
+- [Roles](#roles)
 - [POCs](#pocs)
 - [Overview](#overview)
 - [User problem statements](#user-problem-statements)
@@ -19,7 +20,10 @@
 - **Github labels:** authenticated-experience, military-info
 - **Slack channels**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
-#### Roles  
+### Roles  
+
+**OCTO Team**
+
 [This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
 
