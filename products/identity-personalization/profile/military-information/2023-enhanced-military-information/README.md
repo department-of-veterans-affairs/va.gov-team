@@ -35,7 +35,25 @@
 
 ## Overview
 ### What we want to solve 
-Veterans currently cannot access key military service data points online. We want to make it easier for them to do that. While it was always important, in light of the PACT act this takes on greater significance. 
+Veterans currently cannot access key military service data points online. We want to make it easier for them to do that. 
+
+### Relevant Legislation 
+We have legislative mandates supportin
+- Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.  
+- Congress enacted Section 803 on August 10, 2022, as part of the PACT Act. Section 803(a) provides: “The Secretary of Veterans Affairs [VA] shall coordinate with the Secretary of Defense [DoD] to provide a means for Veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or Veteran in the [ILER].”
+
+### What's being used today? 
+
+To access many benefits veterans often need to provide service history data and adequate documentation to support their request. There are two main ways they're obtaining this information, the **DD214** or a pdf of their **ILER**. 
+
+#### DD214
+
+When a service member separates from their respective branch, they are given a copy of their DD214 and while this  snapshot at the time of their separation supplies most information needed, it could contain inaccuracies. Additionally, many veterans lose this document or in some cases never received a copy and need to re-request. Currently in the profile we link to support pages detailing how to request a copy of one's DD214, this initiative should expand upon that to make it easier for veterans to access that data. 
+[link to relevant study needed]
+
+#### ILER
+
+
 
 ### 8 key data elements 
 
@@ -50,21 +68,6 @@ There are 8 key data elements we should focus on first. While there are other th
 8. a registry that verifies participation in a TERA
 
 
-### What's being used today? 
-
-To access many benefits veterans often need to provide service history data and adequate documentation to support their request. There are two main ways they're obtaining this information, the **DD214** or a pdf of their **ILER**. 
-
-#### DD214
-
-When a service member separates from their respective branch, they are given a copy of their DD214 and while this  snapshot at the time of their separation supplies most information needed, it could contain inaccuracies. Additionally, many veterans lose this document or in some cases never received a copy and need to re-request. Currently in the profile we link to support pages detailing how to request a copy of one's DD214, this initiative should expand upon that to make it easier for veterans to access that data. 
-[link to relevant study needed]
-
-#### ILER
-
-
-### Relevant Legislation 
-- Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.  
-- Congress enacted Section 803 on August 10, 2022, as part of the PACT Act. Section 803(a) provides: “The Secretary of Veterans Affairs [VA] shall coordinate with the Secretary of Defense [DoD] to provide a means for Veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or Veteran in the [ILER].”
 
 ### Open questions to discuss with the team 
 Do we need a phased approach? what would that look like? 
