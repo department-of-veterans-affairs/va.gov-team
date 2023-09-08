@@ -35,10 +35,9 @@
 
 ## Overview
 ### What we want to solve 
-Veterans currently cannot access key military service data points online. We want to make it easier for them to do that. 
+Veterans currently cannot access key military service data points online. We want to make it easier for them to do that first by allowing them read access to their information followed by the ability to edit erroneous info. Additionally, it's worth noting this initiative has received legislative attention:
 
-### Relevant Legislation 
-We have legislative mandates supportin
+#### Relevant Legislation 
 - Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.  
 - Congress enacted Section 803 on August 10, 2022, as part of the PACT Act. Section 803(a) provides: “The Secretary of Veterans Affairs [VA] shall coordinate with the Secretary of Defense [DoD] to provide a means for Veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or Veteran in the [ILER].”
 
@@ -54,10 +53,8 @@ When a service member separates from their respective branch, they are given a c
 #### ILER
 
 
-
 ### 8 key data elements 
-
-There are 8 key data elements we should focus on first. While there are other things out there, these are the items that have been prioritized by (insert name of organization/team)
+While it's important to consider the documents used today, the focus of this initiative should drive at providing users with access to the 8 key data elements below.
 1. dates of, and branches of, service
 2. units with which the Veteran or Service member served
 3. deployment locations and start and end dates of deployments
@@ -67,7 +64,7 @@ There are 8 key data elements we should focus on first. While there are other th
 7. non-military deployment data
 8. a registry that verifies participation in a TERA
 
-
+Some are already in the VA.gov profile. While there are other things out there, these are the items that have been prioritized by (insert name of organization/team).
 
 ### Open questions to discuss with the team 
 Do we need a phased approach? what would that look like? 
@@ -75,14 +72,15 @@ What would an MVP product be?
 
 ## Problem Statement
 
-Veterans struggle to access personal military records relevant to their application for benefits. Veterans need at a minimum read only access to their ILER data. 
+- Veterans struggle to access personal military records relevant to their application for benefits. Veterans need at a minimum read only access to their ILER data.
+- The process for updating one's military record is cumbersome and should be improved, simplified, and accessible online. 
 
 ## User Outcomes
 
 ### Desired User Outcomes
 
-*Why would a user want to use this? With this problem solved, what should users be able to do/achieve that they couldn't before?*
-
+Users should be able to access their military information from the VA.gov profile and should be able to make edits. 
+Lost DD214s should become irrelevant and the urgency of locating military when applying for benefits will be reduced as the data will always be available. 
 
 
 ### Undesired User Outcomes
@@ -93,15 +91,17 @@ Veterans struggle to access personal military records relevant to their applicat
 ### Desired Business Outcomes
 
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
+Ideally this would reduce errors in the records maintained about service members. 
+Would reduce calls and time spent by the call center supporting veterans with this. 
 
 
 ### Undesired Business Outcomes
 
 
+
 ## Proposed Solution
 
-
+To be discussed w/the team collaboratively 
 
 
 ## Measuring Success
