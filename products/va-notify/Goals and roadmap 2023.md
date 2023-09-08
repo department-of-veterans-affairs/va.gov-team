@@ -79,7 +79,7 @@ We know from our users that copying template content from our staging environmen
 #### Whitelist
 ##### Theme(s): Self Service / Governance, Performance, Monitoring, & Security
 
-Whitelisting functionality allows business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality but enhanced security as well.
+We want to provide clients the ability to manage their own Whitelists in order to safely test notifications. It will allow business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality but enhanced security as well by reducing client testing delays, which varied from hours to days previously and eliminating all manual effort for internal staff - saving 30 minutes per requested change.
 
 
 #### Personalized Dashboard 
