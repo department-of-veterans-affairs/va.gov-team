@@ -62,7 +62,7 @@ Tools for Veterans to schedule or request appointments.
 | Flow | Page |
 |---|---|
 | All flows | [Choose a type of care](./schedule-flow/all--type-of-care.md) |
-| All flows | [Choose a type of sleep care]([./schedule-flow/choose-a-type-of-sleep-care.md)) |
+| All flows | [Choose a type of sleep care](./schedule-flow/choose-a-type-of-sleep-care.md) |
 | All flows | [Choose a type of eye care](./schedule-flow/choose-a-type-of-eye-care.md) |
 | All flows | Choose location category |
 | All flows | Choose a type of audiology care |
