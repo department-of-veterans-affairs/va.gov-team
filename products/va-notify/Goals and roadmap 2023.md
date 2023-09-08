@@ -76,6 +76,12 @@ As we look to improve the customer experience, we want to support business lines
 We know from our users that copying template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when. 
 
 
+#### Whitelist
+##### Theme(s): Self Service / Governance, Performance, Monitoring, & Security
+
+Whitelisting functionality allows business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality but enhanced security as well.
+
+
 #### Personalized Dashboard 
 ##### Theme(s): Self Service / Governance
 
