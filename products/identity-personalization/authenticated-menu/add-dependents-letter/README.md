@@ -119,7 +119,7 @@ Users have trouble finding dependent information and where to download their ben
 
 - [EPIC | Profile | Authenticated Menu Modifications #62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)
 - [Sketch files](https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/p/F06226AA-DBC6-482C-A474-E9585FDF7178/canvas)
-- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/releasePlan.md)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/release-plan.md)
 
 ## Key dates
 
