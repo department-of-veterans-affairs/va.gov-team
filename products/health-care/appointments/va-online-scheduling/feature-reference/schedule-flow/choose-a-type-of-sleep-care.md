@@ -21,7 +21,7 @@
 
 [Page template](Add link)
 
-[Page content]([Add link](./va-online-scheduling/content/schedule-all-flows.md#choose-sleep-care:~:text=Back%20Continue-,Choose%20sleep%20care,-NAVIGATION))
+[Page content](./va-online-scheduling/content/schedule-all-flows.md#choose-sleep-care:~:text=Back%20Continue-,Choose%20sleep%20care,-NAVIGATION)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
