@@ -1,6 +1,12 @@
 # Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, August 2023][Cohort 1 - Declined Enrollment]
 
 
+## Participant 1
+### Cohort 1
+### Wednesday, Sept 13th 12pm ET / 9am ET
+
+----
+
 ## Intro - 5 minutes
 
 
