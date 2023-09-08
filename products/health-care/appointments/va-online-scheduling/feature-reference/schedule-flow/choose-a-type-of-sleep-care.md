@@ -5,15 +5,12 @@ Veterans choose the type of sleep care they need
 
 ## User stories
 
-- As a <user type> I want <goal> so that <reason>
-- As a <user type> I want <goal> so that <reason>
+- As a Veteran I want to review the different types of sleep care so that I can choose the one that fits my needs.
 
 ## Requirements
 
 **Functional**
-<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- [Functional requirement]
-- [Functional requirement]
+ Sleep care is a sub-type of care, which a user can choose from on the page after "type of care"
 
 ## User interface design
 
