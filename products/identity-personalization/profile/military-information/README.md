@@ -45,7 +45,11 @@ We pull in a small amount of military information to the VA.gov profile. This in
 
 ## Projects
 
-[For a list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
+[For a complete list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
+
+|Project/Inititive|Epic|Launch date|
+|---|---|---|
+| Expand Military Information - ILER [project outline]()|| Intake|
 
 ## Backend
 [Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md)
