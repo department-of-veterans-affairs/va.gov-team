@@ -62,16 +62,16 @@ We wanted to:
 We conducted hour-long moderated usability tests on Zoom from August 14-August 21, 2023.
 
 ## Hypotheses and Conclusions
-1. Partipants will easily be able to add multiple dependents and move through the pages of questions.
+1. Participants will easily be able to add multiple dependents and move through the pages of questions.
    1. **TRUE**: See primary finding number one.
-2. Partipants will appreciate the confirmation when destructive actions - such as remove or cancel - are initiated. (modals)
+2. Participants will appreciate the confirmation when destructive actions - such as remove or cancel - are initiated. (modals)
    1. **TRUE**: See primary finding number one.
-3. Partipants will call out the edit flow for dependents as they have to go through all the pages and can't direcly edit, would suggest they would appreciate a more direct route to edit.
+3. Participants will call out the edit flow for dependents as they have to go through all the pages and can't directly edit, would suggest they would appreciate a more direct route to edit.
    1. **TRUE or FALSE**: Reason
 4. The onboarding/documents page is well received as being clear and informational leading to a more positive perception about sharing this information.
    1. **TRUE**: Five out of seven Veterans rated the introduction page a five out of five.
 5. The content helps the participant answer questions confidently and accurately.
-   1. **TRUE**: Veterans didn't share any confusing parts of the application, intead focusing on how long things would take, both in filling out the application or getting results.
+   1. **TRUE**: Veterans didn't share any confusing parts of the application, instead focusing on how long things would take, both in filling out the application or getting results.
 
 ## Key Findings
 
@@ -94,7 +94,7 @@ Participants seemed to have no trouble editing and removing dependents from thei
 **Finding detail**
 - All participants successfully edited dependents and removed dependents.
 
-> P6: "There is no problem in editing any of it, don't see any difficulting in that"
+> P6: "There is no problem in editing any of it, don't see any difficulty in that"
 
 **Finding dependents from review page can be a challenge.**
 
@@ -103,7 +103,7 @@ Some participants struggled with finding their dependents within the bulk of inf
 **Finding detail**
 - Five of the seven participants rated the page a 5 (out of 5) in terms of being prepared. The other two participants weren't asked the question.
 
-> P1: "Acutally really prepared You can review everything, double check entries, if you messed up you can edit it right there."
+> P1: "Actually really prepared You can review everything, double check entries, if you messed up you can edit it right there."
 
 **Veterans take their time and are careful when completing form fields.**
 
@@ -121,7 +121,7 @@ Several Veterans mentioned they know their income and household information will
 **Finding detail**
 - Three out of seven participants mentioned how the VA should pull income data from the IRS.
 
-> P4: "Ok, so you are going to ask me about all my financial information. But the note says you verify wiht the IRS, why do I need to provide it? If the VA is going to go to the IRS to verify my income and social security (it doesn't say that but I know they do) Why do I need to provide it?”
+> P4: "Ok, so you are going to ask me about all my financial information. But the note says you verify with the IRS, why do I need to provide it? If the VA is going to go to the IRS to verify my income and social security (it doesn't say that but I know they do) Why do I need to provide it?”
 
 **Veterans want transparency into lengthy, messy VA processes.**
 
