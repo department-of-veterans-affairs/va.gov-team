@@ -7,6 +7,8 @@ The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3
 
 How might we help Veterans or Veterans' representatives (family member, caregiver, other) easily understand if the PACT Act applies to them?
 
+In the future, we intend to explore the potential of further expanding this tool (or one like it) to survivors and to more toxic exposures not covered by the PACT Act.
+
 ## Desired User Outcomes
 
 - As a Veteran, I want to know whether the PACT Act changes apply to me and affect my VA benefits so that, if appropriate, I can apply to receive these increased or new benefits for which I may now be eligible.
