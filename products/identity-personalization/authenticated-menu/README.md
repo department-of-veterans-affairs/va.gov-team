@@ -7,7 +7,7 @@
 - [Communications](#communications)
 - [Roles](#roles)
 - [Overview](#overview)
-- [Problem Statement](#problem-statement)
+- [User problem statement](#user-problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Analytics](#analytics)
@@ -30,7 +30,7 @@
 ## Overview
 When logged in, a menu labeled with the user's name appears in the upper-right corner of the screen. This authenticated menu links to three personalized spaces -- My VA, the VA.gov profile, and the MHV landing page. In the 5+ years this menu has been live on VA.gov, we've done very little in the way of exploring how it could better support users.
 
-## Problem statement
+## User problem statement
 
 VA.gov has historically prioritized the unauthenticated experience in its navigation. As a result, users tend to be overly reliant on the homepage and My VA for navigating to personalized tools.
 
