@@ -6,7 +6,6 @@
 
 - [Communications](#communications)
 - [Roles](#roles)
-- [POCs](#pocs)
 - [Overview](#overview)
 - [User problem statements](#user-problem-statements)
 - [Analytics](#analytics)
