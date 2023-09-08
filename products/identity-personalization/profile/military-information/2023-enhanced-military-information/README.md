@@ -35,13 +35,31 @@
 
 ## Overview
 ### What we want to solve 
-Veterans currently cannot access key military service data points online. 
+Veterans currently cannot access key military service data points online. We want to make it easier for them to do that. While it was always important, in light of the PACT act this takes on greater significance. 
 
-### 8 key 
+### 8 key data elements 
 
-### DD214
-To access many benefits veterans often need to provide service history data and adequate documentation to support their request. Today the DD214 is commonly used to supply service information. When a service member separates from their respective branch, they are given a copy of their DD214 and while this  snapshot at the time of their separation supplies most information needed, it could contain inaccuracies. Additionally, many veterans lose this document or in some cases never received a copy and need to re-request. Currently in the profile we link to support pages detailing how to request a copy of one's DD214, this initiative should expand upon that to make it easier for veterans to access that data. 
+There are 8 key data elements we should focus on first. While there are other things out there, these are the items that have been prioritized by (insert name of organization/team)
+1. dates of, and branches of, service
+2. units with which the Veteran or Service member served
+3. deployment locations and start and end dates of deployments
+4. military occupational specialties
+5. training courses
+6. military awards and decorations
+7. non-military deployment data
+8. a registry that verifies participation in a TERA
+
+
+### What's being used today? 
+
+To access many benefits veterans often need to provide service history data and adequate documentation to support their request. There are two main ways they're obtaining this information, the **DD214** or a pdf of their **ILER**. 
+
+#### DD214
+
+When a service member separates from their respective branch, they are given a copy of their DD214 and while this  snapshot at the time of their separation supplies most information needed, it could contain inaccuracies. Additionally, many veterans lose this document or in some cases never received a copy and need to re-request. Currently in the profile we link to support pages detailing how to request a copy of one's DD214, this initiative should expand upon that to make it easier for veterans to access that data. 
 [link to relevant study needed]
+
+#### ILER
 
 
 ### Relevant Legislation 
