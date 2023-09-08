@@ -145,7 +145,7 @@ Some Veteran participants expressed frustration with the cumbersome login experi
 
 * Continue using and monitoring the usability of the experimental pattern for adding, editing, and removing dependents.
 * Explore ways to lessen the burden of submitting information that the IRS has available already.
-* Explore ways to make information more fiadable when it's in its expanded form on the review page.
+* Explore ways to make information more findable when it's in its expanded form on the review page.
 
 ## Next Steps
 
