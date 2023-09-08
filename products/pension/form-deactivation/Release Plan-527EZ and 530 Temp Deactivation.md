@@ -9,11 +9,14 @@
 
 ### Planning:
 - **Date range or test duration** Estimated: 9/11 - 9/15
-- **Desired number of users:** TBD (include users with in-progress claims and users without)
+- **Desired number of users:**
+   - 1 test user with an in-progress claim
+   - 1 test user without an in-progress claim
+   - 1 test user with an email address within their claim
+   - 1 test user without an email address on their claim but a MyVA profile email as an alternative
 - **How you'll recruit the right production test users:** TBD
-- **How you'll conduct the testing:** TBD
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have the new profile launched to production but hidden behind a feature flag. We'll give participants access to this feature by adding their email addresses to a list of users who can see the new profile. 
-  - (We need to make sure to include users who have in-progress pension or burial forms)
+- **How you'll conduct the testing:** Testing will be conducted in the VA.gov production environment using test accounts and through unit testing.
+- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have the new profile launched to production but hidden behind a feature flag. We'll give test accounts access to this feature by adding their email addresses to a list of users who can see the new profile.
 
 [UAT Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/79d2a7cef66e87523f2433e585f4c55236e3f002/products/pension/UAT%20Plan-527EZ%20abd%20530%20Temp%20Deactivation.md)
 
@@ -25,8 +28,8 @@
 - ??? will also conduct these session.
 
 #### Frontend UAT notes
-- ??? will be responsible for launching the new profile to production behind a feature flag and giving participants access to the feature.
-- They will have the option to attend UAT and be responsible for any frontend bugs/fixes.
+- Sean Midgley will be responsible for launching the new profile to production behind a feature flag and giving participants access to the feature.
+- They will attend UAT and be responsible for any frontend bugs/fixes.
 
 #### Backend UAT notes
 - The new pension and burial form review page did not require any backend work, as it was primarily a frontend redesign. However, should any backend issues come up, we will be available to fix them before we move into a phased launch.
