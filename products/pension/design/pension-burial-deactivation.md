@@ -34,6 +34,12 @@ After meeting with CAIA, CAIA proposed a new solution to update the least amount
 For users with in-progress applications, we decided to keep all the information they entered so far and give them a read-only view of their form that they can use as a reference when starting their application on paper. 
 -   Pension review page: [Sketch](https://www.sketch.com/s/12d1e8d4-7495-44b9-a16d-ab27be429ff6/a/MmLK81w)
 -   Burial review page: [Sketch](https://www.sketch.com/s/12d1e8d4-7495-44b9-a16d-ab27be429ff6/a/bLoZGjJ)
+-   
+## Email templates
+When the deactivation of both Pension and Burial takes place, we proposed to add a trigger and send an email notification to all in-progress applications. 
+We worked closely with the Notify team, gained access to the notify application tool, and created an email template for Pension and Burial.
+-   [Pension email template](https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjViIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0e4ed0160d15598c45fde0f202e9749ed5b818f6/image.png)
+-   [Burial email template](https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3hiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--96fb4200d27076d227507f7b23a9222473b26639/image.png)
 
   
 
