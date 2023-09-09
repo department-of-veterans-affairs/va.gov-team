@@ -208,7 +208,7 @@ Let's suppose that (Google/VA.gov) led you to the web page that I'm going to sho
 - *Camp Lejeune question*
 
 
-### Task 4: [Results screen - Lejeune or Benefit eligibility]
+### Task 4: [Results screen--Lejeune or Benefit eligibility]
 *(RECORD which results screen they see: Staging / Lejeune / Benefit eligibility)*
  
 Please tell me about what you see here. 
@@ -217,21 +217,24 @@ What does this mean to you?
 
 What would you do now?
 
+*(When all done with feedback on this page...)* Could you please click "Continue"?
+
+Now I'm going to show you a different version of what you might see, which does NOT correspond to your answers to the questions, but I'd like you to take a look at it anyway.
   
 ### Task 5: [Results screen--Staging version]
 *(If participant is looking at Staging version and notices that the locations don't match what their answers to the questions asked...)* This is a sample page that doesn't correspond to your answers to the questions. Pretend that you served in the Middle East.
-
-
-*(If participant saw a different results screen before...)*
-Now I'm going to show you a different version of what you might see, which does NOT correspond to your answers to the questions, but I'd like you to take a look at it anyway.
 
 Please tell me about what you see here. 
 
 What does this page mean to you?
 
-What do "presumptive conditions" mean to you?
-
 What is unclear or doesn't work well for you?
+
+Could you tell me what "presumptive conditions" are?
+
+- *(If they didn't read the description at the bottom of the page...)* Did you see anything about that on this page?
+- Could you please take a look now? 
+- *(After they read it...)* What do "presumptive conditions" mean to you?
 
 What would you do now?
 
@@ -269,6 +272,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Rename and save transcript file from Finder
 - Download notes
 - Debrief to my spreadsheet
+- Record how many questions they saw (from survey results)
 
 ## Approvals
 - Dave Conlon (PO) on DATE TBD
