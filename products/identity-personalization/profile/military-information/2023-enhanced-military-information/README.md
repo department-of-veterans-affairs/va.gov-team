@@ -23,7 +23,9 @@
 ### Table of Contents
 
 - [Overview](#overview)
-      - [What we want to solve](#what-we-want-to-solve) 
+     - [What we want to solve](#what-we-want-to-solve)
+     - [Relevant Legislation](#relevant-legislation)
+     - [# What's being used today?](#what's-being-used-today?)
 - [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
