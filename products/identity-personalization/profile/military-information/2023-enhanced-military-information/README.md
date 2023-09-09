@@ -29,7 +29,7 @@
           - [DD214](#dd214)
           - [ILER](#iler)
      - [8 key data elements](#8-key-data-elements)
-     - [# Important Items to Consider](#important-items-to-consider)
+     - [Important Items to Consider](#important-items-to-consider)
      - [Open questions to discuss with the team ](#open-questions-to-discuss-with-the-team)
 - [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
