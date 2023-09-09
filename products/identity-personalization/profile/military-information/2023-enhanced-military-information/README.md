@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Created 09/08/2023**
+**Updated 09/98/2023** content updates, incorporated internal and external links 
 
 ### Communications
 
