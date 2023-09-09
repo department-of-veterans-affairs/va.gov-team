@@ -67,7 +67,14 @@ While [researching military information in early 2023, our findings](https://git
 
 ILER was created following a December 27, 2012, Health Executive Committee (HEC) Joint Incentive Fund Initiative (JIF) proposal, in which the Department of Defense (DoD) and Department of Veterans Affairs would create a complete record of every Service member’s occupational and environmental health exposure. ILER improves the efficiency and effectiveness in claims processing and decision-making by linking a Veteran to military exposures and/or deployments by integrating information from multiple DoD sources.
 
-Veterans are gaining access to their ILER, often times, by requesting from their physician who can generate a PDF form. 
+While the announcment linked above mentions ILER is not for individual use, in practice veterans are gaining access to their ILER, often times, by requesting from their physician who can generate a PDF form. 
+
+- [DHA ILER presentation from 2020](https://www.dhaj7-cepo.com/sites/default/files/DHA_J7_CEPO_CCSS_Sept_S02.pdf)
+
+##### Example of the data model 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/8ed1c2f3-7154-4ccb-84e6-92b8a2750bd0)
+
+
 
 ### 8 key data elements 
 While it's important to consider the documents used today, the focus of this initiative should drive at providing users with access to the 8 key data elements below.
