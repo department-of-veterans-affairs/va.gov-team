@@ -69,8 +69,6 @@ ILER was created following a December 27, 2012, Health Executive Committee (HEC)
 
 While the announcment linked above mentions ILER is not for individual use, in practice veterans are gaining access to their ILER, often times, by requesting from their physician who can generate a PDF form. 
 
-
-
 ##### Example of the data model 
 
 <details>
@@ -82,8 +80,6 @@ While the announcment linked above mentions ILER is not for individual use, in p
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/8ed1c2f3-7154-4ccb-84e6-92b8a2750bd0)
 
 </details> 
-
-
 
 
 ### 8 key data elements 
@@ -101,6 +97,7 @@ Some are already in the VA.gov profile. While there are other things out there, 
 
 ### Important Items to Consider
 
+- ILER is not an authoritative data source. 
 
 ### Open questions to discuss with the team 
 Do we need a phased approach? what would that look like? 
@@ -136,7 +133,6 @@ Would reduce calls and time spent by the call center supporting veterans with th
 ### Undesired Business Outcomes
 
 
-
 ## Proposed Solution
 
 To be discussed w/the team collaboratively 
@@ -160,7 +156,7 @@ To be discussed w/the team collaboratively
 
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
-- Epic
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)
 - Sketch Files 
 - QA Plan
 - Release plan
@@ -168,7 +164,7 @@ To be discussed w/the team collaboratively
 ## Key dates
 
 - September 2023: Initial discussions; project kickoff
-- September 2023: Discovery
+- September-October 2023: Discovery
 - October 2023: Design
 - November-December 2023: Build
 
