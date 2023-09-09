@@ -23,6 +23,7 @@
 ### Table of Contents
 
 - [Overview](#overview)
+      - [What we want to solve](#what-we-want-to-solve) 
 - [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
@@ -35,11 +36,12 @@
 
 ## Overview
 ### What we want to solve 
-Veterans currently cannot access key military service data points online. We want to make it easier for them to do that first by allowing them read access to their information followed by the ability to edit erroneous info. Additionally, it's worth noting this initiative has received legislative attention:
+Veterans currently cannot access key military service data points online. We want to make it easier for them to do that first by allowing them read access to their information followed by the ability to edit erroneous info. Additionally, it's worth noting, this initiative has received legislative attention:
 
 #### Relevant Legislation 
 - Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.  
 - Congress enacted Section 803 on August 10, 2022, as part of the PACT Act. Section 803(a) provides: “The Secretary of Veterans Affairs [VA] shall coordinate with the Secretary of Defense [DoD] to provide a means for Veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or Veteran in the [ILER].”
+- Section 803(b)(1) provides that to update a record under subsection (a), a Veteran shall provide such evidence as VA considers necessary. Section 803(b)(2) requires VA to promulgate a regulation defining the “evidence considered necessary.”
 
 ### What's being used today? 
 
@@ -47,11 +49,18 @@ To access many benefits veterans often need to provide service history data and 
 
 #### DD214
 
-When a service member separates from their respective branch, they are given a copy of their DD214 and while this  snapshot at the time of their separation supplies most information needed, it could contain inaccuracies. Additionally, many veterans lose this document or in some cases never received a copy and need to re-request. Currently in the profile we link to support pages detailing how to request a copy of one's DD214, this initiative should expand upon that to make it easier for veterans to access that data. 
+When a service member separates from their respective branch, they are given a copy of their DD214. This is a point-in-time snapshot at the moment of their separation. Many veterans lose this document or in some cases never received a copy and need to re-request. Currently in the profile we link to support pages detailing how to request a copy of one's DD214.
+
+While [researching military information in early 2023, our findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#key-findings) demonstrated the importance this document carries not only in assisting veterans with the application process for benefits, but sometimes serving as a key document for proving  
+
+
 [link to relevant study needed]
 
 #### ILER
 
+ILER was created following a December 27, 2012, Health Executive Committee (HEC) Joint Incentive Fund Initiative (JIF) proposal, in which the Department of Defense (DoD) and Department of Veterans Affairs would create a complete record of every Service member’s occupational and environmental health exposure. ILER improves the efficiency and effectiveness in claims processing and decision-making by linking a Veteran to military exposures and/or deployments by integrating information from multiple DoD sources.
+
+Veterans are gaining access to their ILER, often times, by requesting their from their physician who can generate a PDF form. 
 
 ### 8 key data elements 
 While it's important to consider the documents used today, the focus of this initiative should drive at providing users with access to the 8 key data elements below.
@@ -66,6 +75,9 @@ While it's important to consider the documents used today, the focus of this ini
 
 Some are already in the VA.gov profile. While there are other things out there, these are the items that have been prioritized by (insert name of organization/team).
 
+### Important Items to Consider
+
+
 ### Open questions to discuss with the team 
 Do we need a phased approach? what would that look like? 
 What would an MVP product be? 
@@ -79,8 +91,10 @@ What would an MVP product be?
 
 ### Desired User Outcomes
 
-Users should be able to access their military information from the VA.gov profile and should be able to make edits. 
-Lost DD214s should become irrelevant and the urgency of locating military when applying for benefits will be reduced as the data will always be available. 
+- Users should be able to access their military information from the VA.gov profile
+- Edits to the source data for ILER should be placed in the hands of veterans and proper documentation for the edits should be captured  
+- Lost DD214s should become irrelevant and the urgency of locating military when applying for benefits will be reduced as the data will always be available. 
+     - expanded military information in the VA.gov Profile would be accessible to pre-fill forms on other parts of the VA.gov website
 
 
 ### Undesired User Outcomes
