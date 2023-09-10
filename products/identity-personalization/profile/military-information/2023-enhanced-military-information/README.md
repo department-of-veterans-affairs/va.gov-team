@@ -157,7 +157,6 @@ To be discussed w/the team collaboratively
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)
-- Sketch Files 
 - QA Plan
 - Release plan
 
