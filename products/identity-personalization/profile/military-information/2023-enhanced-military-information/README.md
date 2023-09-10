@@ -95,9 +95,10 @@ While it's important to consider the documents used today, the focus of this ini
 
 Some are already in the VA.gov profile. While there are other things out there, these are the items that have been prioritized by (insert name of organization/team).
 
-### Important Items to Consider
+### Important Items to Consider/note
 
-- ILER is not an authoritative data source. 
+- ILER is not an authoritative data source.
+- Items 7 and 8 should not be our initial focus as there are open questions our VBA stakeholders are discussing 
 
 ### Open questions to discuss with the team 
 Do we need a phased approach? what would that look like? 
