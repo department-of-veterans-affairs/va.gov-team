@@ -105,8 +105,9 @@ What would an MVP product be?
 
 ## Problem Statement
 
+- Current military information available online is highly limited and should be expanded to encompass the 8 key data elements highlighted above
 - Veterans struggle to access personal military records relevant to their application for benefits. Veterans need at a minimum read-only access to their ILER data.
-- The process for updating one's military record is cumbersome and should be improved, simplified, and accessible online. 
+- The process for updating one's military record is cumbersome and should be improved, simplified, and accessible online.
 
 ## User Outcomes
 
