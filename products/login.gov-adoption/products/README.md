@@ -24,22 +24,21 @@ For more on our product vision and mission, see the [team charter](https://githu
 ## Initiatives
 
 ## [#1 - Pro-active login.gov adoption](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/login.gov)
-## [#2 - Deferred identity proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/deferred-identity-proofing)
-## [#3 - In-person proofing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/in-person%20support/product-brief.md)
-## [#4 - The NVURending story](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/nvur) 
+## [#2 - In-person proofing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/in-person%20support/product-brief.md)
 
 ### [Pro-active login.gov adoption](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/login.gov)
 Currently there are multiple ways to sign on and access VA services. These login options do not all meet required security standards and also create user frustration and confusion. The Login.gov adoption team aims to consolidate the pathways to sign-in to VA.gov and provide Login.gov as a credential option while eliminating duplicative and non-compliant legacy credentials. 
+
 ### Vision
 - One sign-on to access all products and services. Veteran choice of “public” or “private” credential option for VA.gov (Login.gov or ID.me).
 - All users will be migrated from legacy MHV and DS Logon credentials.
-- Veteran users who can't identity proof online will be able to visit VAMCs to do so or have a remote video option.
+- Veteran users who can't identity proof online will eventually be able to visit VAMCs to do so.
 - Veteran users who are already visiting VAMCs regularly will be guided to create a Login.gov account and proof in person with coordinators.
 - Military personnel will be able to proof in person as part of the TAP curriculum and will have a proofed Login.gov account before they transition off active duty.
 ### Desired user outcomes
 - A Veteran user will have more seamless and secure access to not only VA services, but other government agencies that use Login.gov. Their accounts and experience will be more secure and satisfying.
 - A Veteran user  will be able to receive in-person help for signing up for Login.gov and identity proofing. This will ease the transition from using the legacy credentials and maintain their access to services.
-- For new Veterans transitioning from the Department of Defense, they will not have to create a DS Logon account or deal with the poor user experience, only to be told that they need to transition to a new credential because DS Logon will eventually go away. They will be given a modern, easy to use credential more in line with their expectations and be fully identity proofed before they leave active duty.
+
 ### User problem statements
 - As a Veteran, I need only one sign-on to access all VA products and services, so that I can have less complication
 - As a Veteran, I need to be able to receive in-person help for signing up for Login.gov and identity proofing, so I can obtain access easier.
@@ -58,24 +57,7 @@ Currently there are multiple ways to sign on and access VA services. These login
 - Outreach to existing users that they’ll need to choose a new credential.
 ##
 
-### [The NVURending story](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/nvur)  
-Currently there is not a unified definition for each of the non-Veteran customer types at the VA. Each administration — VHA, VBA, and NCA — has their own unique definitions and nuances, which increases the complexity of implementing non-Veteran user roles on VA.gov. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA. VA.gov will need to transition from exclusively serving Veterans to serving a wider audience, such as caregivers, spouses, partners, POAs, VSOs, etc.
-### Vision
-- Non-Veteran users will be able to sign-in and access the products and services they need for their specific roles.
-### Desired user outcomes
-- For Non-Veteran users, they will be provided with access to Vets' shared account data via their own accounts, which will allow them to provide superior care and support.
-- Veterans can login and manage varying access roles for trusted associates and knowledgable buddies.
-### User problem statements
-- As a Veteran, I want to be able to give others differing levels of access to my account, so I can empower them to provide greater care and support to me.
-###
 
-### [Deferred identity proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/deferred-identity-proofing)
-As we continue to evolve the VA.gov ecosystem, legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience. We need to migrate users to newer CSP's that do meet these objectives. In this specific instance, we are working to move select DS Logon users to Login.gov without the need to reverify their identities.
-
-Deferred identity proofing lets Veterans migrate without requiring them to re-proof right away.
-Through this approach, Veterans with Premium DS Logon or Premium My HealtheVet accounts would set up a limited access (IAL1 compliant) Login.gov account. Limited access means Veterans can used their Login.gov account to access VA services.
-Veterans will need to upgrade (IAL2) by identity proofing in order to use their Login.gov account to access other government services.
-The limited use of IAL1 accounts across agencies will provide incentive to upgrade to IAL2. Or, we could set a deadline for when accounts need to be proofed by.
 
 ### Desired user outcomes
 - Eligible users should be able to easily move their verified identity from DS Logon to Login.gov.
@@ -120,4 +102,26 @@ Creating a cohesive logged-in experience will:
 
 
 
+
+
+
+## Archived 
+### [The NVURending story](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/nvur)  
+Currently there is not a unified definition for each of the non-Veteran customer types at the VA. Each administration — VHA, VBA, and NCA — has their own unique definitions and nuances, which increases the complexity of implementing non-Veteran user roles on VA.gov. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA. VA.gov will need to transition from exclusively serving Veterans to serving a wider audience, such as caregivers, spouses, partners, POAs, VSOs, etc.
+### Vision
+- Non-Veteran users will be able to sign-in and access the products and services they need for their specific roles.
+### Desired user outcomes
+- For Non-Veteran users, they will be provided with access to Vets' shared account data via their own accounts, which will allow them to provide superior care and support.
+- Veterans can login and manage varying access roles for trusted associates and knowledgable buddies.
+### User problem statements
+- As a Veteran, I want to be able to give others differing levels of access to my account, so I can empower them to provide greater care and support to me.
+###
+
+### [Deferred identity proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/deferred-identity-proofing)
+As we continue to evolve the VA.gov ecosystem, legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience. We need to migrate users to newer CSP's that do meet these objectives. In this specific instance, we are working to move select DS Logon users to Login.gov without the need to reverify their identities.
+
+Deferred identity proofing lets Veterans migrate without requiring them to re-proof right away.
+Through this approach, Veterans with Premium DS Logon or Premium My HealtheVet accounts would set up a limited access (IAL1 compliant) Login.gov account. Limited access means Veterans can used their Login.gov account to access VA services.
+Veterans will need to upgrade (IAL2) by identity proofing in order to use their Login.gov account to access other government services.
+The limited use of IAL1 accounts across agencies will provide incentive to upgrade to IAL2. Or, we could set a deadline for when accounts need to be proofed by.
 
