@@ -105,7 +105,7 @@ What would an MVP product be?
 
 ## Problem Statement
 
-- Veterans struggle to access personal military records relevant to their application for benefits. Veterans need at a minimum read only access to their ILER data.
+- Veterans struggle to access personal military records relevant to their application for benefits. Veterans need at a minimum read-only access to their ILER data.
 - The process for updating one's military record is cumbersome and should be improved, simplified, and accessible online. 
 
 ## User Outcomes
@@ -114,7 +114,7 @@ What would an MVP product be?
 
 - Users should be able to access their military information from the VA.gov profile
 - Edits to the source data for ILER should be placed in the hands of veterans and proper documentation for the edits should be captured  
-- Lost DD214s should become irrelevant and the urgency of locating military when applying for benefits will be reduced as the data will always be available. 
+- Lost DD214s should become irrelevant and the urgency of locating military information when applying for benefits will be reduced as the data will always be available. 
      - expanded military information in the VA.gov Profile would be accessible to pre-fill forms on other parts of the VA.gov website
 
 
