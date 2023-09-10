@@ -23,10 +23,10 @@ August 2023-Present
 |:---:|:---:|:---:|
 |DSVA Product Owner|Thomas Black|Thomas.Black2@va.gov|
 |Program/Delivery Lead|Dawn Muñoz|dawn@themostudio.com|DAWN.MUNOZ@va.gov 
-|IPP Program/Delivery Lead|Michael Antiporta (Porta)|porta@themostudio.com|Michael.Antiporta@va.gov 
-|Senior Product Manager|Lauren Morris|lauren@themostudio.com|lauren.morris3@gva.gov
-|Engineer Lead|Steve Dickson|sdickson@greenthreadsllc.com|
-|Senior UX Researcher|Sophia Philip|sophia@themostudio.com|sophia.philip@va.gov
+|IPP Product Manager|Michael Antiporta (Porta)|porta@themostudio.com|Michael.Antiporta@va.gov 
+|Product Manager|Lauren Morris|lauren@themostudio.com|lauren.morris3@gva.gov
+|Subject Matter Expert|Steve Dickson|sdickson@greenthreadsllc.com|
+|Design Lead|Sophia Philip|sophia@themostudio.com|sophia.philip@va.gov
 |Content Strategist|Carl Dickerson|carl@themostudio.com|
 |UX Designer|Carolyn Williams|carolyn@themostudio.com|
 |Senior Fullstack Software Engineer|Anu Das|anu@themostudio.com|
