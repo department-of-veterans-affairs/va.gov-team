@@ -10,15 +10,14 @@
 - [KPIs](#kpis) 
 
 ## Overview
-Mission: The Login.gov adoption team aims to streamline the sign-in process on VA.gov by offering Login.gov as a preferred credential option while phasing out duplicative and non-compliant legacy credentials.
+Mission: The Login.gov adoption team aims to streamline the sign-in process on VA.gov by offering Login.gov as a preferred credential option, while phasing out duplicative and non-compliant legacy credentials, expanding access channels, and enhancing pathways for Veterans to verify their identity in person. 
 
 ## Priorities
 Top-level strategic priorities:
-1. messaging to increase proactive Login.gov adoption
-2. transitioning users to Login.gov from existing My HealtheVet and DS Logon accounts, also known as “inherited proofing” (DSL being #1 priority)
-3. providing support with a human touch to facilitate the migration (in-person proofing capabilities at VAMCs (VA Medical Centers))
-4. shared access for non-Veteran users on VA.gov
-5. pilot the use of security keys for users that struggle with online MFA (multi-factor authentication) methods
+1. Establish multi-channel campaign to increase pro-active and self guided Login.gov adoption
+2. Providing support with a human touch to facilitate the migration (in-person proofing capabilities at VAMCs (VA Medical Centers))
+3. Enabling data insights related to credential usage to inform campaign strategy in realt time.
+4. Creation and adoption of national verification system across the VA service ecosystem through virtual and in person support channels.
 
 For more on our product vision and mission, see the [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision). 
 
