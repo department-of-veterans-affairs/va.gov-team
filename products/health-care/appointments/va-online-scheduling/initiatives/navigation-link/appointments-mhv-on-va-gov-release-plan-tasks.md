@@ -7,7 +7,7 @@ MHV users will now use the Appointments tool on VA.gov. The changes are to updat
 - The Appooinemnts FE team will turn on the feature toggle 100% to all users in production on Tuesday, October 3, 2023. The MHV on VA.gov try me banner is expected to go live on Thursday, October 5, 2023.
 - MHV static landing page to go out live on _____.
 - Public Websites widget link to the new URL is under the Appointments FE feature toggle `va_online_scheduling_breadcrumb_url_update`
-- Authenticated Experience MyVA widget link to the new URL is under the Appointments FE toggle `va_online_scheduling_breadcrumb_url_update`
+- Authenticated Experience MyVA widget (non-Cerner) link to the new URL is under the Appointments FE toggle `va_online_scheduling_breadcrumb_url_update`
 
 ## Tasks 
 - [ ] Simi (add any deployment tasks for the team if applicable) 
