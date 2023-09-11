@@ -49,7 +49,7 @@ TL;DR -- in 2021, Congress mandated that veterans be able to view their ILER rec
 
 [The Individual Longitudinal Exposure Record (ILER)](https://www.publichealth.va.gov/exposures/publications/military-exposures/meyh-1/ILER.asp)
 
-ILER was created following a December 27, 2012, Health Executive Committee (HEC) Joint Incentive Fund Initiative (JIF) proposal, in which the Department of Defense (DoD) and Department of Veterans Affairs would create a complete record of every Service member’s occupational and environmental health exposure. ILER improves the efficiency and effectiveness in claims processing and decision-making by linking a Veteran to military exposures and/or deployments by integrating information from multiple DoD sources. It is important to note that ILER is not an authoritative data source, and it does not have an API to allow for integration into VA.gov.
+ILER was created following a December 27, 2012, Health Executive Committee (HEC) Joint Incentive Fund Initiative (JIF) proposal, in which the Department of Defense (DoD) and Department of Veterans Affairs would create a complete record of every Service member’s occupational and environmental health exposure. ILER improves the efficiency and effectiveness in claims processing and decision-making by linking a Veteran to military exposures and/or deployments by integrating information from multiple DoD sources. **It is important to note that ILER is not an authoritative data source**, and it does not have an API to allow for integration into VA.gov.
 
 While the announcement linked above mentions ILER is not for individual use, in practice, veterans are gaining access to their ILER, often times, by requesting from their physician who can generate a PDF form. 
 
