@@ -55,7 +55,6 @@ Learnings will help refine questions and the presentation of results in the wiza
 1. What feedback do Veterans (and others) have on **individual questions**? 
 1. What feedback do Veterans (and others) have on the **entire set of questions**?
     - Total number of questions 
-
     - Similar structure of the questions
 
 1. Do Veterans (and others) **know enough about their military service to answer the questions**? If not, what do they need to answer them?
