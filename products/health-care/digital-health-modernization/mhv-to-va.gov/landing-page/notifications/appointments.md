@@ -72,13 +72,14 @@ Currently, there are many policies in place (but no single source of truth) arou
 ##### Technical decisions: 
 * Notification dot should begin display at 8am the time of the local facility, which matches the pattern of other push-notifications coming from VEText.
 Pattern here (for context see link to slack thread below, under related resources:
-
+```
  {
  	"default": "Appointment Reminder Default",
  	"APNS": "{\"aps\":{\"alert\": {\"title\":\"VA Appointment Reminder\",\"body\":\"You have an upcoming VA appointment.\"}},\"appt\":\"%APPOINTMENT%\"}",
      "APNS_SANDBOX": "{\"aps\":{\"alert\": {\"title\":\"VA Appointment Reminder\",\"body\":\"You have an upcoming VA appointment.\"}},\"appt\":\"%APPOINTMENT%\"}",
  	"GCM": "{\"notification\": {\"title\": \"VA Appointment Reminder\",\"body\":\"You have an upcoming VA appointment.\"},\"data\": {\"appt\": \"%APPOINTMENT%\"}}"
  }
+```
  
 Frequency: Notifications are sent out at 8am (at the time of the facility) for each day they are configured to be sent. VEText default frequency is 7-2-1 days before appointment, but it is configurable per clinic, stop code by the site so there are many per site configurations that are different. Push notifications are sent by VEText on the same configuration the site sets for SMS notifications at the same frequency (per Shane Elliott). See [slack thread here](https://dsva.slack.com/archives/C03CGTDLTFF/p1694009165975579).
 
