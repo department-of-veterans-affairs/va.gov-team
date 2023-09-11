@@ -204,7 +204,7 @@ Devices used during study:
 * Desktop: 5
 * Tablet: 0
 * Smart phone: 2
-* Assistive Technology: 1
+* Assistive Technology: 0
 
 
 Age:
@@ -225,7 +225,7 @@ Education:
 * Unknown: 0
 
 Geographic location:
-* Urban: 0
+* Urban: 4
 * Rural: 3
 * Unknown: 0
 
