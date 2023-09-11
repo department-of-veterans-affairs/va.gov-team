@@ -1,42 +1,48 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for Sitewide Family and Caregiver benefits hub - 09/2023
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+Family and caregiver benefit content, applications, and tasks are distributed across the Veteran benefit hubs. Furthermore, tools related to managing health care and benefits are mostly framed up for the Veteran, but often also intended for family members and caregivers to use for their own benefits. Past research and data shows that family members are going to the hub for their information and communication efforts across VA are aiming to bring family member information (and specifically survivor information) together to help make it easier for family members to understand and access their benefits. In addition, we are looking for ways to streamline the Veteran benefit hubs by simplifying structure and content to improve their experience - removing the family and caregiver content would be one way to potentially help that initiative.
+
+We want to evaluate the approach of bringing all family and caregiver core benefit content into the family member hub to determine if it helps improve findability and overall experience for this audience. 
+
+[Link to initiative brief]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/family-member-hub/initiative-brief.md)).
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? 
+- Refresh VA.gov homepage and IA
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
+- This effort is aimed at the family member and caregiver journeys more than the Veteran, but would ideally indirectly improve the Veteran's journey by decluttering their experience. 
 
 ## Research Goals	
 What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+Determine if moving all family and caregiver related content under a single benefit hub for that audience will improve the discoverability and findability of relevant benefit information. 
+Determine if keeping task related pages within the Veteran hubs creates any findability issues or confusion when visitors attempt to complete a task.
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Learnings will help refine how we organize and group information within the new family and caregiver hub. 
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+1. What benefits are family and caregivers currently aware of? How easy do they feel it is to learn about benefits for themselves?
+2. Do they feel the new hub helped them discover and learn about other benefits/services?
+3. Do participants naturally find the family member hub in the experience?
+4. Where will participants primarily look for benefits for themselves?
+5. Where will participants primarily look to complete tasks related to their own benefits?
+6. Are participants clear on where they are if they are linked out of the family member hub and do they know how to return to it?
+
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+
+Family members and caregivers will easily discover and navigate to the family member hub within the experience on their own
+Family members and caregivers will navigate to the family member hub to discover and apply for benefits for themselves
+Family members and caregivers will navigate to the family member hub to manage and track their own benefits 
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
