@@ -107,8 +107,8 @@ In future iterations, we plan to review for alternative locations and other syst
 ### Collaboration Cycle
 
 - Collab Cycle ticket [#63773](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63773)
-     - [ ] Design Intent - 9/18/23 at 3:30p ET
-     - [ ] Content, Accessibility and IA - Kickoff 9/12/23 at 4p ET
+     - [N/A] Design Intent
+     - [x] Content, Accessibility and IA - Kickoff 9/12/23 at 4p ET
      - [ ] Research
      - [ ] Midpoint
      - [ ] Contact Center guide
@@ -141,8 +141,9 @@ In future iterations, we plan to review for alternative locations and other syst
 #### Key deliverables
 
 - Design documentation
-   - [Proposed wireflows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/D391CBC5-D341-4B4B-B1D8-566325DDF8A4/canvas)
+   - [Proposed wireflows](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/p/2243222A-201E-413F-8CC2-8A8C237726DC/canvas)
    - [Sketch Design and User Flow](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/v/Mrk8ab/p/A0C657F6-3318-45A0-93CB-246BA8722E37/canvas?posX=-3289.158203125&posY=-10403.73046875&zoom=0.25)
+   - [Content Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/10-10EZR-application-content.md)
 - [Research/Design folder]
 - [Prototype]
 - [Technical documentation folder]
@@ -175,12 +176,12 @@ In future iterations, we plan to review for alternative locations and other syst
 
 - May 2023: Initial discovery
 - August 2023: Kickoff with outline & begin design
-- TBD: Design work ready
-- TBD: Development
-- TBD: Usability testing kickoff
-- TBD: Complete QA
-- TBD: Complete UAT
-- TBD: Launched to ???% of users
+- Sept: Design work ready
+- Oct: Development complete
+- Oct: Usability testing kickoff
+- Nov: Complete QA
+- Nov: Complete UAT
+- End of Nov: Launched to ???% of users
 ---
    
 ## Screenshots
