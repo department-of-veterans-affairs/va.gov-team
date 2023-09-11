@@ -21,8 +21,15 @@ At the moment we have several methods "wrapped" in logging using a previously de
 Each of these wrapper logs has a `started_at` and `ended_at` value in the respective log.  If we develop a query that checks for `started_at` logs that do not have an associated `ended_at` value, we should be able to pinpoint third party API failures, and alert if we start seeing a lot in one specific 3PI.
 
 #### The Query
+Using the method submit_form_4142 as and example
+```
+a = @payload.wrapped_method:Form526Submission#submit_form_4142 AND @payload.end_time:*
+b = @payload.wrapped_method:Form526Submission#submit_form_4142 AND @payload.start_time:*
+diff = a / b
+```
+The value `diff` should almost always be 1.  If we see a variation, we alert that we are having an outage for the endpoint used by this method
 
-[TODO] implement a query that aggrigates this data
+<img width="1042" alt="Screenshot 2023-09-11 at 2 32 21 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/50431410-518c-414e-9d2e-2b449fbef66c">
 
 #### Alternate implemenation with StatsD
 
