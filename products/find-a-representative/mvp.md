@@ -5,7 +5,7 @@ Find a Rep MVP will include desktop & mobile experiences
 ## MVP
 
 1. Search
-    1. If authenticated: display existing rep (if available) and how to change the rep
+    1. If authenticated and if veteran has an existing rep, display existing rep and how to change the rep
     1. Required fields
         1. Location 
             1. Single consolidated field that accepts address 1, city, state, zip code
