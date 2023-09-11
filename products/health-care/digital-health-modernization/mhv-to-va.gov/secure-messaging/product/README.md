@@ -1,6 +1,7 @@
 # My Health Secure Messaging Product Outline
 
 Last Updated: September 2023 (Note: actively under construction!)
+
 <img width="409" alt="Screen Shot 2023-09-11 at 12 22 24 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/126614629/d665eb84-536b-45d0-820a-d70bd378f730">
 
 
