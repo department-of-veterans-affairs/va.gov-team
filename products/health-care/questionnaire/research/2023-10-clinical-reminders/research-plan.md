@@ -42,19 +42,7 @@ Sessions will take place via Zoom meetings.
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/conversation-guide.md)
 - Demo Links
-  - These links should be sent to the participant by Perigean prior to the session occurring. The links will be generated closer to the date of testing and after screener answers are collected.
-  - eScreening
-	  - [Participant 1](url goes here)
-	  - [Participant 2](url goes here)
-	  - [Participant 3](url goes here)
-	  - [Participant 4](url goes here)
-	  - [Participant 5](url goes here)
-  - BHL
-	  - [Participant 1](url goes here)
-	  - [Participant 2](url goes here)
-	  - [Participant 3](url goes here)
-	  - [Participant 4](url goes here)
-	  - [Participant 5](url goes here)
+  - These links will be sent to the participant by BHL and eScreening prior to the session occurring. The links will be generated closer to the date of testing and after screener answers are collected.
 
 ## Recruitment	
 
