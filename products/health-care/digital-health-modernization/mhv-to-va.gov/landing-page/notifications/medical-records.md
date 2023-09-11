@@ -26,11 +26,7 @@
 * [From Lexi Wunder](https://dsva.slack.com/archives/C04DRS3L9NV/p1686592560953199?thread_ts=1686334008.074209&cid=C04DRS3L9NV): "This screenshot is the modal that appears after you click "Request Images" when looking at the table of all your images and reports. Note: Reports are immediately available when entered, but the user always has to "request" the images. I think "request" in this sense is more of a load/generate action than actually submitting a request for approval. Carnetta and Patty Henry would likely be the ones to ask. Let me know if you'd like me to be part of those conversations."
 * Screenshot mentioned:
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/cac00a03-51fb-4072-b8eb-8140b68b4b8b)
-
-When this is being prioritized: 
-
-<img width="464" alt="Screenshot 2023-09-11 at 9 05 42 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/a9ccf9c7-675c-4a5c-a43f-e682dfe96cfc">
-
+* At this point, the Medical Records team is unsure what the medical images flow  will look like (e.g. will it follow the current flow of the tool on the national platform or do something different?). We should check back in after a couple months (November or December 2023). [Link to slack conversation.](https://dsva.slack.com/archives/C03Q2UQL1AS/p1693579011765229)
 
 ### Conclusion: 
 
