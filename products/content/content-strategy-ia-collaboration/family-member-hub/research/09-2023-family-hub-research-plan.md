@@ -20,10 +20,10 @@ Are there moments that matter?
 - This effort is aimed at the family member and caregiver journeys more than the Veteran, but would ideally indirectly improve the Veteran's journey by decluttering their experience. 
 
 ## Research Goals	
-What are you trying to learn from this research? 
 
-Determine if moving all family and caregiver related content under a single benefit hub for that audience will improve the discoverability and findability of relevant benefit information. 
-Determine if keeping task related pages within the Veteran hubs creates any findability issues or confusion when visitors attempt to complete a task.
+Determine if moving family and caregiver related content under a single benefit hub for that audience will improve the discoverability and findability of relevant benefit information. 
+Determine if keeping task related pages within the Veteran hubs and just crosslinking to them from the family hub creates any findability issues or confusion when visitors attempt to complete a task.
+
 
 ### Outcome
 Learnings will help refine how we organize and group information within the new family and caregiver hub. 
