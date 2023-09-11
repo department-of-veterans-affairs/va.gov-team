@@ -27,6 +27,11 @@
 * Screenshot mentioned:
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/cac00a03-51fb-4072-b8eb-8140b68b4b8b)
 
+When this is being prioritized: 
+
+<img width="464" alt="Screenshot 2023-09-11 at 9 05 42 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/a9ccf9c7-675c-4a5c-a43f-e682dfe96cfc">
+
+
 ### Conclusion: 
 
 
