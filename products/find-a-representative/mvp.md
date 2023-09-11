@@ -28,28 +28,24 @@ Find a Rep MVP will include desktop & mobile experiences
         1. Unauthenticated: rep information, no personal information
     1. Present missing form fields to the user
         1. Authenticated: Capture additional authorization information
-            1. Section 19: Authorization for representative’s access to records protected by Section 7332, Title 38, U.S.C (checkbox)
-            1. Section 20: Limitation of consent
-                1. Drug abuse, 2. Alcoholism or alcohol use problems, 3. Human immunodeficiency virus, 4. Sickle cell anemia
+            1. Section 19: Authorization for representative’s access to records protected by Section 7332, Title 38, U.S.C. _(checkbox)_
+            1. Section 20: Limitation of consent _(checkboxes)_
                 1. Drug abuse
                 1. Alcoholism or alcohol use problems
                 1. Human immunodeficiency virus
                 1. Sickle cell anemia
-            1. Section 21: Authorization to change claimant’s address (checkbox)
+            1. Section 21: Authorization to change claimant’s address _(checkbox)_
         1. Unauthenticated: Capture personal information and additional authorization information 
             1. Section I: Veteran’s information (9 fields)
             1. Section II: (If other than veteran) Claimants information (5 fields)
             1. Authorization (same as sections 19-21 listed above):
-            1. Section 19: Authorization for representative’s access to records protected by Section 7332, Title 38, U.S.C
-                1. Checkbox
-            1. Section 20: Limitation of consent
-                1. Checkboxes
-                  1. Drug abuse
-                  1. Alcoholism or alcohol use problems
-                  1. Human immunodeficiency virus (HIV)
-                  1. Sickle cell anemia
-            1. Section 21: Authorization to change claimant’s address
-                1. Checkbox
+            1. Section 19: Authorization for representative’s access to records protected by Section 7332, Title 38, U.S.C. _(checkbox)_
+            1. Section 20: Limitation of consent _(checkboxes)_
+                1. Drug abuse
+                1. Alcoholism or alcohol use problems
+                1. Human immunodeficiency virus
+                1. Sickle cell anemia
+            1. Section 21: Authorization to change claimant’s address _(checkbox)_
     1. Present option to download pre-filled PDF form (without signatures)
     1. Set expectations and guide to next steps
     1. Download to PDF desktop (do not open PDF in browser)
