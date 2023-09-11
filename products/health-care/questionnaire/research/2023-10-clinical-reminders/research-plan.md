@@ -79,7 +79,9 @@ For the existing Veteran participant pool, recruitment communications will be se
   - Answer must be yes to qualify for this study
 - How were you notified that your provider wanted you to answer some questions prior to your appointment?
   - Text (Will need this information to send the participant an appropriate link for the session)
+    - Instructions to share with participant: If you chose text, please join the session on your mobile phone. We will send you a text message to use during the session closer to the day.	
   - Email (Will need this information to send the participant an appropriate link for the session)
+    - Instructions to share with participant: Please join the research session from any device that you can access email from. We will send you an email to use during the session closer to the day.	
 
 ### Length of sessions
 - Session length: 1 hour 
