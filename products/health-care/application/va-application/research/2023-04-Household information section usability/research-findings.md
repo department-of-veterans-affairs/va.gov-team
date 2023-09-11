@@ -225,8 +225,8 @@ Education:
 * Unknown: 0
 
 Geographic location:
-* Urban: 11
-* Rural: 1
+* Urban: 0
+* Rural: 3
 * Unknown: 0
 
 Race:
@@ -243,7 +243,7 @@ Disability and Assistive Technology (AT):
 * AT advanced user: 0
 * Desktop screen reader: 0
 * Mobile screen reader: 0
-* Magnification/Zoom: 1
+* Magnification/Zoom: 0
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
 * Hearing aids: 0
 * Sighted keyboard: 0
