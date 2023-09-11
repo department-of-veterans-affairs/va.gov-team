@@ -5,6 +5,11 @@ The current landscape of appointment-related notifications is complex, and the a
 ## Summary
 Because at least one type of appointment notification will not work well with the lightweight notification dot component, and there are at least three types of notifications to explore for the Appointments product alone, it is likely that we will need to iterate on this design and explore definitions between notification styles (dot/badge indicator vs. onsite notification card component). The dot alone cannot effectively be used to express all three types of notifications within the Appointments product. More detail about this is included in the discovery research section below.
 
+Updates (decisions): 
+* We will only display the dot for new/unread/reminder type notifications, where the meaning of the dot is straightforward/clear.
+* For appointments, we will only solve for appointment reminders at this stage; our design will not scale to other appointment notification types
+* If we cannot clear the dot, we should not implement it. Perpetual dots are not helpful to users if they do not signal something truly new and/or upcoming.
+
 **Related resources about appointments**
   * [VA Appointment Notifications Service Map Research](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md)
   * [Veteran appointment notification service map](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1649696758581/a12e35b635ef11d25ff389fe6651b1e63026b68c?wid=0-1664898146419&outline=open&sender=uf94a77a19aaf687331c09367)
@@ -46,12 +51,9 @@ Relevant slack threads:
     * With 3 types of notifications for appointments alone, is it confusing that each has a different notification type? Will users understand which notification type the dot is referencing? How will they tell the difference?
    
 ##### UX Decisions:
-* We will only display the dot for new/unread/reminder type notifications, where the meaning of the dot is straightforward/clear.
-* For appointments, we will only solve for appointment reminders at this stage; our design will not scale to other appointment notification types
-* If we cannot clear the dot, we should not implement it. Perpetual dots are not helpful to users if they do not signal something truly new and/or upcoming.
+* The dot should appear X days prior to an upcoming appointment, matching the time the VEText notification is also pushed to end-users (most facilities use 8am the time of the facility as the trigger point).
+* The dot should go away 
 
-##### Outstanding Questions
-* At what point after the appointment happens should the notification dot clear? 
 
 #### Technical analysis:
 The appointments team has shared that this is a feasible notification type at present. There are many ways that Veterans are notified about upcoming appointments. See related resources above for additional context into notifications work.
@@ -86,6 +88,7 @@ Frequency: Notifications are sent out at 8am (at the time of the facility) for e
 ##### Related resources (engineering) 
 Engineering-related Slack thread: 
 * [Could you share the appointment reminders template with me? Also is there a specific time those are sent out or do they coincide with whatever the station has set for the reminder interval?](https://dsva.slack.com/archives/C01CSM3EZGT/p1684426783786359)
+* Variability of configurations: https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/bf6248a7-ae15-49f3-893b-73b65f38a7fd/ReportSectionf09450dc35eef3baa8a5?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf
 
 
 ### 2. Appointment cancellations
