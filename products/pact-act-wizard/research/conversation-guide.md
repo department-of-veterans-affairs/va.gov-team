@@ -174,6 +174,12 @@ Let’s start with a few questions...
 1. Have you applied for VA benefits under the PACT Act?
     - If so, can you tell me about your experience? *(when, how, results)*
 
+1. *(If using assistive technology:)* 
+
+     1. What assistive technology are you using?
+     1. How would you rate your level of experience with using *[specific assistive technology, such as a screen reader]*--beginner, intermediate, advanced, or expert?
+     1. How long have you been using *[specific assistive technology]*?
+
 ## User Tasks
 Now I'm going to ask you to do some things... ***Reassure if p nervous or says they feel dumb or embarrassed***
 
