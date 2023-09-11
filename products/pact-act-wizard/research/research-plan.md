@@ -85,12 +85,12 @@ We will conduct **remote moderated usability testing** to observe research parti
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
 ### Research materials
-- [Link to conversation guide TBD]()
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/conversation-guide.md)
 - [Link to prototype TBD]()
 	
 ## Recruitment
 
-Ask Perigean to recruit **8 Veterans and 3 family members and/or caregivers** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket TBD](). 
+Ask Perigean to recruit **8 Veterans and 3 family members** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket TBD](). 
 
 ### Required criteria 
 - NONE have ever applied for VA benefits under the PACT Act
@@ -151,9 +151,9 @@ We ask this question because we want to make sure that our website works for peo
 Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I would also like to discuss the relative priorities of recruitment criteria (e.g., it’s more important to recruit at least 4 people who are 55 years or older than it is to recruit 7 people who will join from their smartphone), and how the criteria are prioritized when recruiting replacements for participants who cancel in advance. 
 
 Amanda, Wes, and I are available for a kickoff call during any of these times: 
-- **Mon Sept 18 11:30 am - 4:30 pm ET**
-- **Tue Sept 19 1:30 - 5 ET**
-- **Wed Sept 20 12 - 5 ET**
+- **Mon Sept 18** 11:30 am-1 pm, 2-4:30 pm ET
+- **Tue Sept 19** 1:30-3 pm ET
+- **Wed Sept 20** 1-4 pm ET
 
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
@@ -176,10 +176,10 @@ We would like to request that **Perigean calls each participant** to remind them
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
 Sept 27, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Sept 28, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Sept 28, 2023 | 12-1, 5-6, 7-8 pm 
 Sept 29, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
 Oct 2, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Oct 3, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Oct 3, 2023 | 12-1, 2-3, 7-8 pm 
 Oct 4, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
 
 ## Team Roles	
