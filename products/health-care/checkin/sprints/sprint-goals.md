@@ -42,7 +42,7 @@ ________________________________________________________________________________
     - [2023 Q4 Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62844)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Product][UX] Send QA Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64625)
 - **GOAL: Address tech & design debt**    
-    - TBD
+    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Guides based on Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65298)
     - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
         - TBD
 
