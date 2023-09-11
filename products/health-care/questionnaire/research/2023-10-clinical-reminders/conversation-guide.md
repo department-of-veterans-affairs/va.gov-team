@@ -74,17 +74,15 @@ Before we start, a few things I want to mention:
 
 ## First Task: Notifications - 10 minutes 
 
-  
 
-- How were you notified, such as a text or email, that your provider wanted you to answer some questions prior to your appointment?  
+- How were you notified, such as a text or email, that your provider wanted you to answer some questions prior to your appointment?
+  - You should have been sent [text or email] by Perigean for today's session. Please bring up the [text or email], then share your screen. [**Moderator Note:** Help participant open the link and screen share if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.] [Mobile screen sharing instructions](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions) 
 
 - How far in advance of your appointment did you receive this notification? 
 
   - Do you feel that you were given enough time or not enough time to answer the questions prior to your appointment? 
 
   - Would you want to receive this notification at a different time prior to your appointment than you did, such as earlier to later? Why? 
-
-- [Screenshare BHL or eScreening text or email screenshot. Use the screenshot they stated that they reviewed.] Is this like the notification that you received? 
 
   - Please review the information in this notification and share your overall impressions. Think aloud as you review. 
 
@@ -102,13 +100,7 @@ Before we start, a few things I want to mention:
 
   
 
-- Next, I would like you to review the pre-appointment questions again. We also call these clinical reminders, so you may hear me refer to them as such. Some of the questions will be familiar to you as you answered them before your appointment, while others may not.  
-
-- I’m going to send you a [link]() in the Zoom chat. This link is for testing purposes only, so your answers to these questions won’t be sent to you provider or impact your future healthcare. 
-
-- Okay, I’ve just sent you a link in the chat. Please open the Zoom chat and click on that link, then share your screen. [**Moderator Note:** Help participant open the link and screen share if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.] [Mobile screen sharing instructions](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions) 
-
-- Now, pretend that you are answering the pre-appointment questions. Please think a loud as you review the screens. I’ll ask you a few questions as you move though too. 
+- Next, pretend that you are answering the pre-appointment questions again. We also call these clinical reminders, so you may hear me refer to them as such. Some of the questions will be familiar to you as you answered them before your appointment, while others may not. Please think a loud as you review the screens. I’ll ask you a few questions as you move though too. 
 
 - [**Notetaker:** Note which questionnaire branching logic they follow and if the clinical reminders end in a positive or negative result. Write down any comments shared without prompting from the Moderator.] 
 
