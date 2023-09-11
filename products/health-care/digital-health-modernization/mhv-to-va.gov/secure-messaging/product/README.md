@@ -1,6 +1,8 @@
 # My Health Secure Messaging Product Outline
 
-Last Updated: Dec 21, 2022
+Last Updated: September 2023 (Note: actively under construction!)
+https://pngimg.com/uploads/under_construction/under_construction_PNG18.png
+
 
 ### Communications
 
@@ -11,13 +13,10 @@ Last Updated: Dec 21, 2022
   
 |Name|Role|Email|
 |----|----|-----|
-|Leila Rassi |OCTO Lead| leila.rassi@va.gov |
+|Janie Tankard-Carnock |OCTO Product| jane.t.carnock@omb.eop.gov (VA email pending) |
 |Coulton Bunney |OCTO Design Lead| coulton.bunney@va.gov |
-|Marci McGuire |Core Team Product Manager| marci.mcguire@adhocteam.us|
-|Jonathan Nelson|Core Team Designer |jonathan.nelson@adhocteam.us |
-|Robyn Singleton| Core Team Researcher|robyn.singleton@adhocteam.us |
-|Patrick Vinograd|Core Team Lead Engineer|patrick.vinograd@adhocteam.us|
-|Eric Voshall|Core Team Engineer|eric.voshall@adhocteam.us |
+|Robyn Singleton| OCTO  Research Lead| - |
+|Mark Dewey | OCTO Engineering Lead |- |
 |----|----|-----|
 |Matthew Bain| MHV Program Manager | matthew.bain@va.gov |
 |Bryan Riley| MHV Team Delivery Manager/Product Manager| bryan.riley@vbylight.com |
