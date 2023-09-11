@@ -122,7 +122,7 @@ versions.
 - Which do you prefer and why?
 
 Let's move on. 
-How would you continue with pursing the appeal?
+How would you continue with pursuing the appeal?
 
 ## Task 2. Validate Comprehension of Task List Pattern and Heading Navigation (5 mins)
 
@@ -143,9 +143,9 @@ information is correct. Go ahead and continue.
 
 **Validate comprehension of heading navigation components**
 - If you wanted to go back to the previous question, where would you go?
-- If you wanted to go back to the list you saw previously, where would you go?
-- Go ahead and navigate back to the list.
-- Did you find the list to be helpful or not helpful? Why?
+- If you wanted to go back to see all the steps to file an appeal where would you go?
+- Go ahead and give it a try.
+- What do you see yourself doing with this list? Why?
 
 \< Click through Veteran Information, Request Deadline Extension, VA Healthcare  \>
 
