@@ -24,14 +24,14 @@
 
 ## Content on page
 
-- [ ] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
+- [x] The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.).
 - [ ] Header levels are hierarchical
 - [ ] The page has no broken links
 - [ ] Text links have purpose and target (only need target if the link takes the user off VA.gov--subsites don't need target)
-- [ ] The content is free of ability-focused language (view, walk, see, hear)
-- [ ] Relevant terms from page are in content brief and any relevant backlog work is noted
-- [ ] Blue box with duplicative info to what's in accordions has been removed
-- [ ] Change pronouns from "VA/we'll" to "you'll" regarding what evidence you'll need
+- [ ] The content is free of ability-focused language (view, walk, see, hear) **Note:** We allow "show" and "appear" when talking about evidence related to disability compensation.
+- [x] Relevant terms from page are in content brief and any relevant backlog work is noted
+- [x] Blue box with duplicative info to what's in accordions has been removed
+- [x] Change pronouns from "VA/we'll" to "you'll" regarding what evidence you'll need
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 
