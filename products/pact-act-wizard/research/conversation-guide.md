@@ -222,13 +222,15 @@ What would you do now?
 Now I'm going to show you a different version of what you might see, which does NOT correspond to your answers to the questions, but I'd like you to take a look at it anyway.
   
 ### Task 5: [Results screen--Staging version]
-*(If participant is looking at Staging version and notices that the locations don't match what their answers to the questions asked...)* This is a sample page that doesn't correspond to your answers to the questions. Pretend that you served in the Middle East.
+*(If participant is looking at Staging version and notices that the locations don't match what their answers to the questions asked...)* This is a sample page that doesn't correspond to your answers to the questions. I'd like you to pretend that you served in the Middle East.
 
 Please tell me about what you see here. 
 
 What does this page mean to you?
 
 What is unclear or doesn't work well for you?
+
+- *(RECORD all comments, esp. re dates)*
 
 Could you tell me what "presumptive conditions" are?
 
