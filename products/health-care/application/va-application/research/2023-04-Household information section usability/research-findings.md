@@ -63,15 +63,15 @@ We conducted hour-long moderated usability tests on Zoom from August 14-August 2
 
 ## Hypotheses and Conclusions
 1. Participants will easily be able to add multiple dependents and move through the pages of questions.
-   1. **TRUE**: See primary finding number one.
+   1. **Definitely True**: See primary finding number one.
 2. Participants will appreciate the confirmation when destructive actions - such as remove or cancel - are initiated. (modals)
-   1. **TRUE**: See primary finding number one.
+   1. **Definitely True**: See primary finding number one.
 3. Participants will call out the edit flow for dependents as they have to go through all the pages and can't directly edit, would suggest they would appreciate a more direct route to edit.
-   1. **TRUE or FALSE**: Reason
+   1. **Likely True**: One Veteran called this out.
 4. The onboarding/documents page is well received as being clear and informational leading to a more positive perception about sharing this information.
-   1. **TRUE**: Five out of seven Veterans rated the introduction page a five out of five.
+   1. **Likely True**: Five out of seven Veterans rated the introduction page a five out of five.
 5. The content helps the participant answer questions confidently and accurately.
-   1. **TRUE**: Veterans didn't share any confusing parts of the application, instead focusing on how long things would take, both in filling out the application or getting results.
+   1. **Likely True**: Veterans didn't share any confusing parts of the application, instead focusing on how long things would take, both in filling out the application or getting results.
 
 ## Key Findings
 
