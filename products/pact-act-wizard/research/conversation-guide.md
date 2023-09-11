@@ -72,13 +72,17 @@ Before we start, I want to go over a few things:
 
 *(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session?
 
-*Click Live Transcript and **Enable**, or **Show Captions**.* 
+*In the bottom toolbar of the Zoom window, click the arrow next to **Show Captions** > **View Full Transcript** > Save.*
 
-*Click **Live Transcript > View Full Transcript***
+~~Click Live Transcript and **Enable**, or **Show Captions**~~
+
+~~*Click **Live Transcript > View Full Transcript***~~
 
 - **I have started recording**. I'd like to confirm: 
   - Are you comfortable if I record my screen and the audio as we talk today? 
   - Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners, as long as we remove any information that could be used to identify you?
+
+*After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
 
 ## Screen sharing instructions (if needed)
 - In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share *(on phone, may need to scroll sideways)* or Share Screen *(on computer, button is green).*
@@ -264,7 +268,7 @@ If you know any other Veterans or family members who might be willing to partici
 
 Thank you so much again, and I hope that you enjoy the rest of your day!
 
-*In the Transcript window, click **Save Transcript**, open in Finder and then save*
+*Open the Transcript panel, click **Save Transcript***
 
 *End meeting for all*
 
