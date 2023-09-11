@@ -146,7 +146,7 @@ Before we start, a few things I want to mention:
 
   
 
-## Thank-You and Closing - X minutes 
+## Thank-You and Closing - 3 minutes 
 
   
 
