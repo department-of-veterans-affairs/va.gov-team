@@ -41,18 +41,20 @@ Sessions will take place via Zoom meetings.
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/conversation-guide.md)
-- Demo eScreening Links (to be generated closer to the date of testing)
-  - [Participant 1](url goes here)
-  - [Participant 2](url goes here)
-  - [Participant 3](url goes here)
-  - [Participant 4](url goes here)
-  - [Participant 5](url goes here)
-- Demo BHL Links
-  - [Participant 1](url goes here)
-  - [Participant 2](url goes here)
-  - [Participant 3](url goes here)
-  - [Participant 4](url goes here)
-  - [Participant 5](url goes here)
+- Demo Links
+  - These links should be sent to the participant by Perigean prior to the session occurring. The links will be generated closer to the date of testing and after screener answers are collected.
+  - eScreening
+	  - [Participant 1](url goes here)
+	  - [Participant 2](url goes here)
+	  - [Participant 3](url goes here)
+	  - [Participant 4](url goes here)
+	  - [Participant 5](url goes here)
+  - BHL
+	  - [Participant 1](url goes here)
+	  - [Participant 2](url goes here)
+	  - [Participant 3](url goes here)
+	  - [Participant 4](url goes here)
+	  - [Participant 5](url goes here)
 
 ## Recruitment	
 
@@ -74,7 +76,10 @@ For the existing Veteran participant pool, recruitment communications will be se
   - Yes, Butler (Recruit 5) 
   - No (Disqualify from study) 
 - Prior to your appointment, did you answer questions online to help your provider prepare for your appointment? These questions would have been about eye care, homelessness, food insecurity, tobacco use, sexual orientation, toxic exposure, embedded fragments, or traumatic brain injuries.  
-  - Answer must be yes to qualify for this study 
+  - Answer must be yes to qualify for this study
+- How were you notified that your provider wanted you to answer some questions prior to your appointment?
+  - Text (Will need this information to send the participant an appropriate link for the session)
+  - Email (Will need this information to send the participant an appropriate link for the session)
 
 ### Length of sessions
 - Session length: 1 hour 
