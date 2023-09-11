@@ -1,14 +1,14 @@
 
 
-## Remote Disaster Product Brief - MVP  (IN PROGRESSS- NOT FINALIZED)
+##Availability Framework (Remote Configuration) - MVP  (IN PROGRESSS- NOT FINALIZED)
 
 
-## Remote Disaster Mitigation Options
+## Availability Framework EPIC:
 
 [Epic](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/5120)
 
 
-### What is Remote Configuration?
+### What is Availability Framework/Remote Configuration?
 
 A software development technique for mobile apps where the behavior or features of an app can be changed remotely without having to publish an app update
 
@@ -25,14 +25,29 @@ The user will receive a message indicating that the feature is currently experie
 
 ### Use Cases
 
-1. **A feature (or part of a feature) is broken in the mobile app but a _screen can be rendered_.** (For ALL USERS)
+**USE CASE 1**:  **A feature (or part of a feature) is broken in the mobile app but a _screen can be rendered_.** (**For ALL USERS**)
 RX Example:  We are showing the wrong personal information in Rx. The feature is still working  and we can show the UI, but it is acritical enough error that we need to shut down the feature and establish a fix.
 
-2. **A screen is broken and it cannot be rendered without crashing app/red screen of death**. (FOR AlL USERS)
+Goal: Prevent ALL USERS from accessing a broken feature until a fix has been made and offer the ability to get that info in some other way in the meantime (A&B) & then empower users to fix it (B).
+
+
+**USE CASE 2**:  **A screen is broken and it cannot be rendered without crashing app/red screen of death**. (**FOR ALL USERS**) **LEAST LIKELY SCENARIO**
 Example: A coding error would mean the mobile app would show unrecognizable information instead of normal UI the vet is accustomed to. There is also the possibility this would force entire app to crash.
 
+Goal: Prevent all users from attempting to load the problem screen until a fix has been made (to prevent app crashing).
 
-### MVP Approach
+
+**USE CASE 3**:  **A screen element, feature, or part of feature is broken (for SOME users, not all)**. The feature entry point can still be accessed and a screen can still be rendered, but some folks can see data within the feature and others can’t.
+A. We are working to resolve it remotely
+B. The problem is now resolved and installing a new version of the app will correct the problem
+
+Goal: For a feature that is broken for SOME USERS but not all, set expectations and provide guidance (around how to get that info some other way in the meantime (A&B) and then empower users to fix it (B)) that helps the affected segment until a fix has been made, but do it without preventing access to that feature for the users who are not affected by the issue.
+
+
+
+### MVP Approach (Q3/Q4-2023)
+
+Note: All Copy/Messaging would be finalized as part of the Implemenation Phase.
 
  **Use Case #1 Front End Issues- Screen Can Be Rendered**
 
@@ -57,6 +72,7 @@ This is less essential as we are already giving the user the ability to complete
 **Use case #1: Back End Issues- Screen can be rendered**
 
 This use case will not involve the need to update the mobile application.
+
 We will utilize most of the same approach as a FE issue noted above, including using an alert box with a general error message that provides a phone number for users to complete their task. We will not need to include an update an app button as its not applicable. We could include a date/time when we anticipate the issue to be resolved since BE pushes "fixes" regularly and they are not dependent 
 on the realease/app store.
 
@@ -78,11 +94,9 @@ We would likely only show one button, since we may not be sure what the user was
 * With the best UX possible, we should be able to remotely clear caches and/or shut down parts of the mobile app in times of dire need (**Note:The user will still have to update via the store in order to get the actual fix)**
 
 
-**User Outcomes:**
 
-* In the event that there is a critical error, users aren’t subject to broken features, so their trust in our app & VA isn’t undermined.
 
-### Content: 
+### Content:  (Implementation Phase)
 
 Need to determine what message the user will experience when access is initially restricted.
 
@@ -90,6 +104,12 @@ Need to determine what message the user will experience when access is initially
 
 1. Remote config attached to features alone will not suffice. This will remove a feature, but it takes time to flush cache.
 2. Users will continue to update normally and thus receive the disaster mitigation code before we need to use it.
+
+### Out of Scope Items
+
+1. IOS or Playstore Rollbacks
+2. Feature Rollbacks by % (Paced Rollouts)
+3. A/B Testing
 
 
 ### Risks
@@ -108,7 +128,7 @@ Need to determine what message the user will experience when access is initially
 
 ### Roadmap 
 
-### MVP Appproach (To be approved prior to  Implementation Start)
+### MVP Appproach- Q3/Q4- see full details above (Implementation Phase-Copy TBD)
 
 1. When we initially restrict access, we will provide the user with a generic message. (Allowing mobile time to figure out the “true problem”)
 
@@ -124,14 +144,12 @@ The user message will be refined/updated to give more specifics if applicable. C
 (**Copy to  finalized**) 
 
 
-#### V2 and beyond (TBD- Not finalized)
+#### V2 and beyond (Timing of V2 not approved)
 The next phase of this MAY include more specific feature help phone numbers if possible (claims, prescriptions)
 
 
-### Technical Approach (TBD in Implemention Phase)
 
-
-### Measuring success (DRAFT- Finalized Monitoring and Dashboards to be set up after implementation)
+### Measuring success (DRAFT- Finalized Monitoring and Dashboards to be set up after implementation and noted in the Epic)
 
 * Use remote recovery under direct circumstances, which in most situations will be lots of users are found to be crashing. Examine how many users before we turn the mitigation on and extrapolate avoided crashes.
 
