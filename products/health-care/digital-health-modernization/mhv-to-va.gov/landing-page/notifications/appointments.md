@@ -25,6 +25,11 @@ Updates (decisions):
 
 Per our working document on [notification definitions and working principles ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/notifications/notification_definitions_and_ux_principles.md), the lightweight dot or badge notification design is a simple indicator that that intends to signal new or unread content in a relevant area on either MyVA or the MHV on VA.gov landing page. This design is being implemented for secure messages, but may not scale to all types of notifications, particularly those that require additional context to make sense (when a dot next to specific link text does not clearly express what the dot is referencing). 
 
+Possible future problems with scaling the lightweight dot notification to all appointment notifications: 
+    * The dot will not support appointment cancellations, which cannot clearly be linked to or indicated with simple link text on the existing MHV to VA.gov landing page. Additional context will be necessary to convey a cancelled appointment, and may need to include CTAs, such as next steps for the Veteran to reschedule the cancelled appointment.
+    * The dot will also not be able to support pending appointments for the same reason - this notification is less straightforward and will require content/context to make sense.
+    * With 3 types of notifications for appointments alone, is it confusing that each has a different notification type? Will users understand which notification type the dot is referencing? How will they tell the difference?
+
 ### 1. Appointment reminders 
 ```Status: In Design Phase```
 
@@ -41,18 +46,14 @@ Relevant slack threads:
 
 
 ##### Outstanding questions: 
-  * When will the dot indicator go away for an appointment notification? When the date/time of the appointment has passed?
   * Should an appointment reminder include additional information that the dot indicator cannot provide (such as a link to pre check-in or directions to the appointment?)
   * Do we need to work with the Appointments Team to implement the dot on their page for upcoming appointments in order for this pattern to accurately lead users from the notification dot on the landing page to the upcoming appointments it is referencing?
-  * What is the definition of "upcoming"? How many days/hours in advance of the appointment does this notification get triggered?
-  * Possible future problems with scaling the lightweight dot notification to all appointment notifications: 
-    * The dot will not support appointment cancellations, which cannot clearly be linked to or indicated with simple link text on the existing MHV to VA.gov landing page. Additional context will be necessary to convey a cancelled appointment, and may need to include CTAs, such as next steps for the Veteran to reschedule the cancelled appointment.
-    * The dot will also be able to support pending appointments for the same reason - this notification is less straightforward and will require content/context to make sense.
-    * With 3 types of notifications for appointments alone, is it confusing that each has a different notification type? Will users understand which notification type the dot is referencing? How will they tell the difference?
    
 ##### UX Decisions:
-* The dot should appear X days prior to an upcoming appointment, matching the time the VEText notification is also pushed to end-users (most facilities use 8am the time of the facility as the trigger point).
-* The dot should go away 
+* "Upcoming appointments" will be considered appointments that are scheduled within the next 48 hours.
+  * The dot should appear 2 days prior to an upcoming appointment, matching the time the VEText notification is also pushed to end-users (most facilities use 8am the time of the facility as the trigger point).
+  * VEText push notifications alert the user at 7, 2, and 1 days prior to appointments. Since the notifications study revealed that there isn't a clear pattern across notification types and tools, we will pattern-match the push notifications from mobile, starting at 2 days prior to an appointment.
+* The dot should go away 1 hour after the appointment start time. 
 
 
 #### Technical analysis:
