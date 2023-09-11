@@ -1,6 +1,6 @@
 
 
-## Remote Disaster Product Brief - MVP
+## Remote Disaster Product Brief - MVP  (IN PROGRESSS- NOT FINALIZED)
 
 
 ## Remote Disaster Mitigation Options
@@ -25,10 +25,10 @@ The user will receive a message indicating that the feature is currently experie
 
 ### Use Cases
 
-1. **A feature (or part of a feature) is broken in the mobile app but a _screen can be rendered_.**
+1. **A feature (or part of a feature) is broken in the mobile app but a _screen can be rendered_.** (For ALL USERS)
 RX Example:  We are showing the wrong personal information in Rx. The feature is still working  and we can show the UI, but it is acritical enough error that we need to shut down the feature and establish a fix.
 
-2. **A feature (or part of a feature) is broken in the mobile app and but a _screen cannot be rendered_.**
+2. **A screen is broken and it cannot be rendered without crashing app/red screen of death**. (FOR AlL USERS)
 Example: A coding error would mean the mobile app would show unrecognizable information instead of normal UI the vet is accustomed to. There is also the possibility this would force entire app to crash.
 
 
