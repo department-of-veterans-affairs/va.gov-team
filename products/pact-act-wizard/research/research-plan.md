@@ -1,7 +1,7 @@
 # Research Plan for Usability Testing, PACT Act Wizard, September 2023
 
 ## Background
-The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3967/text) is intended to significantly improve healthcare access and funding for Veterans who were exposed to toxic substances during military service. The law itself is not easy for a Veteran to read and understand whether or not it directly affects them and their benefits. To provide an easier way for a Veteran or Veteran's representative (family member, caregiver, other) to understand whether the PACT Act may apply to them, we are designing a PACT Act Wizard.
+The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3967/text) is intended to significantly improve healthcare access and funding for Veterans who were exposed to toxic substances during military service. The law itself is not easy for a Veteran to read and understand whether or not it directly affects them and their benefits. VA.gov currently offers an easy-to-read static page with information on how the PACT Act applies to Veterans and survivors. To complement this page, we’re designing an interactive question-and-answer flow to help Veterans understand how the PACT Act may apply to them. 
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard)
 
@@ -38,37 +38,49 @@ There are many potential touchpoints between the Veteran and this application th
 - Aging (Managing my declining health)
 
 ## Research Goals	
-The purpose of this research is to **find out whether the questions drafted for the PACT Act Wizard are clear and easy enough for Veterans to understand and answer**.
+The purpose of this research is to find out whether we’ve met these goals: 
+
+- The **questions drafted for the PACT Act Wizard are clear and easy** enough for Veterans (or family members seeking information on behalf of a Veteran) to understand and confidently answer. 
+
+- Veterans (or family members seeking information on behalf of a Veteran) can **understand from the results if they might be eligible** for disability or health care based on the PACT Act. 
+
+- Veterans (or family members seeking information on behalf of a Veteran) can **understand from the results how to apply for benefits** related to the PACT Act based on their situation. 
+
+
 
 ### Outcome
-Learnings will help refine individual questions and the overall list of them in the wizard.
+Learnings will help refine questions and the presentation of results in the wizard.
 
 ### Research questions
 1. What feedback do Veterans (and others) have on **individual questions**? 
 1. What feedback do Veterans (and others) have on the **entire set of questions**?
-     1. Are there so many questions that Veterans (and others) get frustrated or stop before the end?
-     1. Are Veterans (and others) bothered by the repetitive construction of the questions?
+    - Total number of questions 
+
+    - Similar structure of the questions
 
 1. Do Veterans (and others) **know enough about their military service to answer the questions**? If not, what do they need to answer them?
 
 1. What feedback do Veterans (and others) have on the **results**?
-     - date ranges
-     - "presumptive conditions"
-     - next steps
+     - Date/range
+     - "Presumptive conditions"
+     - Next steps
      
 
-1. If the tool says that they're eligible, do they **feel like applying**?
+1. If the tool says that they're eligible, what do they say they would **do next**?
 
 
 ### Hypotheses
 1. Veterans (and others) will find the questions to be clear and easy to understand and answer.
-2. Veterans (and others) will not be overwhelmed by the total number of questions they need to answer.
-1. The results are simple enough for Veterans (and others) to understand and not seem misleading. 
-1. Veterans (and others) will understand what "presumptive conditions" mean.
-1. From the results screen, Veterans (and others) will know what they should do next. 
+2. Veterans (and others) will find the number and content of the questions to be relevant to their understanding of the PACT Act and how it applies to them (or the Veteran). 
+
+1. Veterans (and others) won't find the number and content of the questions to be overly burdensome. 
+
+1. The results are simple enough for Veterans (and others) to understand and are not misleading. 
+
+1. Veterans (and others) will understand what "presumptive conditions" mean after reading the plain language description in the results flow. 
 
 ## Method	
-We will conduct **usability testing** to guide research participants through a working prototype that presents the questions and results screens in the PACT Act Wizard. 
+We will conduct **remote moderated usability testing** to observe research participants using a working prototype that presents the questions and results screens in the PACT Act Wizard. The prototype is not a high-fidelity design prototype but instead an **online survey (in Survey Monkey) that presents questions** and branches appropriately to subsequent questions and relevant results screens. In this way, we’re **testing the content of the PACT Act Wizard**—the text and flow of the questions and the logical branching—but not the UI design. In addition, by using an online survey tool that is accessible, we will be able to include participants who use screen readers.   
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
@@ -133,20 +145,24 @@ We ask this question because we want to make sure that our website works for peo
 
 
 
-## Timeline--TBD
+## Timeline
 
 ### Prepare
-Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. Wes and I are available for a kickoff call during any of these times: 
-- **TBD ET**
+Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I would also like to discuss the relative priorities of recruitment criteria (e.g., it’s more important to recruit at least 4 people who are 55 years or older than it is to recruit 7 people who will join from their smartphone), and how the criteria are prioritized when recruiting replacements for participants who cancel in advance. 
 
-**Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so I can review it beforehand.
+Amanda, Wes, and I are available for a kickoff call during any of these times: 
+- **Mon Sept 18 11:30 am - 4:30 pm ET**
+- **Tue Sept 19 1:30 - 5 ET**
+- **Wed Sept 20 12 - 5 ET**
+
+**Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 I have scheduled the following two **pilot tests**:
-- Pilot 1: **TBD ET** with TBD (tbd@adhocteam.us)
-- Pilot 2: **TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 1: **Mon Sept 19 TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 2: **Wed Sept 20 TBD ET** with TBD (tbd@adhocteam.us)
 
 ### Research sessions
-* Planned dates of research: **TBD, 2023** 
+* Planned dates of research: **Sept 27 – Oct 4, 2023** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 
@@ -159,7 +175,12 @@ We would like to request that **Perigean calls each participant** to remind them
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-TBD, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Sept 27, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Sept 28, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Sept 29, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Oct 2, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Oct 3, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Oct 4, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
