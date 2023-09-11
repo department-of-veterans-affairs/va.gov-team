@@ -103,7 +103,7 @@ Need to determine what message the user will experience when access is initially
 ### Assumptions and Level of Confidence
 
 1. Remote config attached to features alone will not suffice. This will remove a feature, but it takes time to flush cache.
-2. Users will continue to update normally and thus receive the disaster mitigation code before we need to use it.
+
 
 ### Out of Scope Items
 
@@ -116,7 +116,6 @@ Need to determine what message the user will experience when access is initially
 
 1. Hindering veteran app experience is worse than some of the outcomes we are attempting to avoid.  We will need to be clear where and what is being disabled and be as minimal as possible.
    
-3. We could execute and put in a medium technical lift for a protective feature we never use.
 
 
 ### Business Goals
