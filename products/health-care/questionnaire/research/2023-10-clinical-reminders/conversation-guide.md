@@ -39,7 +39,7 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 
   
 
-Today we're going to talk about your experience answering questions online, which helped your primary care provider prepare for your recent medical appointment. 
+Today we're going to talk about your experience receiving a text or email, then answering health questions online. These questions helped your primary care provider prepare for your recent medical appointment. 
 
   
 
@@ -92,7 +92,7 @@ Before we start, a few things I want to mention:
 
   - Would you add, delete, or change about the content within the notification? 
 
-- How much time do you estimate it took you to complete the questions after seeing this [text or email]? 
+- How much time do you estimate it took you to complete the questions after clicking on the [text or email]? 
 
  
 
@@ -138,7 +138,7 @@ Before we start, a few things I want to mention:
 
   - Just right 
 
-- What would you estimate the ideal number of minutes or clinical screeners to complete at one time prior to one appointment? 
+- What would you estimate the ideal number of minutes or question sets to complete at one time prior to one appointment? 
 
 - And lastly, do you have any questions for me? 
 
