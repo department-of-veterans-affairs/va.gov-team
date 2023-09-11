@@ -9,7 +9,7 @@ Clinical Reminders may be used for both clinical and administrative purposes.”
 
 [Clinical Reminders Manager’s Manual](http://ttps://www.va.gov/vdl/documents/Clinical/CPRS-Clinical_Reminders/pxrm_2_mm.pdf)
 
-The volume of clinical reminders has been impacting the quality of the time the patient spends with the provider. Providers have also reported increased burden due to data entry and notification fatigue. Therefore, Veteran Health Administration (VHA) is in search of a tool that allows customizable and standardized health forms, screeners, and questionnaires to be sent to the patient to collect responses asynchronously. Through an earlier evaluation, it was identified that VA already has two digital questionnaire tools within our ecosystem, Behavioral Health Labs (BHL) and eScreening, that can meet many, but not all our process and technological needs. OCC, OCTO, and VHA program offices agreed to complete a pilot to gather more insight to compare the tools. This study will collect Veteran feedback on the tools as part of the pilot.
+The volume of clinical reminders has been impacting the quality of the time the patient spends with the provider. Providers have also reported increased burden due to data entry and notification fatigue. Therefore, Veteran Health Administration (VHA) is in search of a tool that allows customizable and standardized health forms, screeners, and questionnaires to be sent to the patient to collect responses asynchronously. Through an earlier evaluation, it was identified that VA already has two digital questionnaire tools within our ecosystem, Behavioral Health Labs (BHL) and eScreening, that can meet many, but not all our process and technological needs. OCC, OCTO, and VHA program offices agreed to complete a pilot to gather more insight to compare the tools. This study will collect Veteran feedback on the tools.
 
 ### OCTO Priorities 
 
@@ -41,7 +41,7 @@ Sessions will take place via Zoom meetings.
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/conversation-guide.md)
-- Demo eScreening Links
+- Demo eScreening Links (to be generated closer to the date of testing)
   - [Participant 1](url goes here)
   - [Participant 2](url goes here)
   - [Participant 3](url goes here)
@@ -82,13 +82,13 @@ For the existing Veteran participant pool, recruitment communications will be se
 - Maximum Sessions per day: 3	 
 
 ### Availability
-To be scheduled when Veterans start to reach out.
+To be scheduled when Veterans start to reach out and after hitting 50 self-screeners.
 	
 ## Team Roles	
 - Moderator: Kristen McConnell (kristen.mcconnell@va.gov)
-- Research guide writing and task development (usually but not always same as moderator):	Kristen McConnell (kristen.mcconnell@va.gov)
-- Participant recruiting & screening:	
+- Research guide writing and task development (usually but not always same as moderator): Kristen McConnell (kristen.mcconnell@va.gov)
+- Participant recruiting & screening: Perigean
 - Project point of contact: Stefany Holguin (stefany.holguin@va.gov)
 - Participant(s) for pilot test:
-- Note-takers:	
+- Note-takers:	Nina Anusavice (Nina.Anusavice@va.gov)
 - Observers: Mark Junda (mark.junda@va.gov), Stephen Barrs (stephen.barrs@va.gov), John Lauser (John.Lauser@va.gov), Rosanna Weaver (Rosanna.Weaver@va.gov), Nilesh Shah (Nilesh.Shah@va.gov)
