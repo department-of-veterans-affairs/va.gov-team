@@ -164,8 +164,8 @@ Data source - Call Center team/TBD
 - Dec 2022: Usability testing kickoff
 - June 2023: Finalize designs, development
 - June 2023: Complete QA
-- Aug 2023: Launched to 25% of users (8/2)
-- Aug 2023: Complete UAT
+- Aug 2023: Launched to 100% of users (8/11)
+- Sept 2023: Complete UAT
 
 ---
    
