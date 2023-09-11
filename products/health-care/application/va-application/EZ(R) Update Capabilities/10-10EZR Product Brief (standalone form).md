@@ -109,8 +109,8 @@ In future iterations, we plan to review for alternative locations and other syst
 - Collab Cycle ticket [#63773](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63773)
      - [N/A] Design Intent
      - [x] Content, Accessibility and IA - Kickoff 9/12/23 at 4p ET
-     - [ ] Research
      - [ ] Midpoint
+     - [ ] Research
      - [ ] Contact Center guide
      - [ ] Analytics
      - [ ] Staging
@@ -125,11 +125,12 @@ In future iterations, we plan to review for alternative locations and other syst
 
 ## Launch Dates
 - *Target Launch Date*
-  - 1/22/2023
+  - 11/27/2023
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - Evaluate: End of December 2023
+  - Impact Review: January 2024
 
 ---
 
@@ -137,6 +138,7 @@ In future iterations, we plan to review for alternative locations and other syst
 
 ### Current Status
 - New form being built online
+     - 9/11/2023: In Design and foundational development concurrently
 
 #### Key deliverables
 
