@@ -9,37 +9,52 @@ Find a Rep MVP will include desktop & mobile experiences
     1. Required fields
         1. Location 
             1. Single consolidated field that accepts address 1, city, state, zip code
-                1. user can also "use my location" to populate this location field
-            1. Default to a radius (50mi?)
-                1. allow user to adjust search area through the map
+                1. User can also 'use my location' to populate this location field
+            1. Default to a radius (e.g. 50 miles)
         1. Type of Rep, including information about types of reps
+            1. Veteran Service Organization (VS0)
+            1. Representative in a Veteran Service Organization
+            1. Attorney (Lawyer)
+            1. Claims agent
 1. Display search results
     1. Map display
     1. List display 
-        1. sorted from closest to furthest
-    c. Authenticated view (especially if we display the veteran’s existing representative)
+    1. If authenticated and if veteran has an existing rep, display existing rep
 1. Selection
-    1. Search results will have a button to “Select” the representative
-1. 21-22
-    1. Pre-fill form on the back end
+    1. Search results will have a button to 'Select' the representative
+1. Form 21-22
+    1. Pre-fill the form for PDF download
         1. Authenticated: both rep and personal information
         1. Unauthenticated: rep information, no personal information
     1. Present missing form fields to the user
-        1. If logged in: additional  authorization information
-            1. 19: Authorization for representative’s access to records protected by Section 7332, Title 38, U.S.C
-                1. Authorization checkbox
-            1. Limitation of consent
-                1. Checkboxes: drug abuse, alcoholism or alcohol abuse, infection with HIV, sickle cell anemia
-            1. Authorization to change claimant’s address
-                1. Authorization checkbox
-        1. Unauthenticated: personal information and additional authorization information 
+        1. Authenticated: Capture additional authorization information
+            1. Section 19: Authorization for representative’s access to records protected by Section 7332, Title 38, U.S.C
+                1. Checkbox
+            1. Section 20: Limitation of consent
+                1. Checkboxes: 
+                  1. Drug abuse
+                  1. Alcoholism or alcohol use problems
+                  1. Human immunodeficiency virus (HIV)
+                  1. Sickle cell anemia
+            1. Section 21: Authorization to change claimant’s address
+                1. Checkbox
+        1. Unauthenticated: Capture personal information and additional authorization information 
             1. Section I: Veteran’s information (9 fields)
-            1. Section II: Claimants information (5 fields) — optional, only if the claimant is not the veteran
-            1. Authorization — same as 4.b.i above
-    c. Present option to download filled-out form
-        1. Just missing signatures
-    d. Set expectations and guide to next steps
-    e. Download to desktop (avoid opening in the browser)
+            1. Section II: (If other than veteran) Claimants information (5 fields)
+            1. Authorization (same as sections 19-21 listed above):
+            1. Section 19: Authorization for representative’s access to records protected by Section 7332, Title 38, U.S.C
+                1. Checkbox
+            1. Section 20: Limitation of consent
+                1. Checkboxes: 
+                  1. Drug abuse
+                  1. Alcoholism or alcohol use problems
+                  1. Human immunodeficiency virus (HIV)
+                  1. Sickle cell anemia
+            1. Section 21: Authorization to change claimant’s address
+                1. Checkbox
+    1. Present option to download pre-filled PDF form (without signatures)
+    1. Set expectations and guide to next steps
+    1. Download to PDF desktop (do not open PDF in browser)
 1. Feedback page
     1. Update profile to display selected representative (pending request with link to next steps)
 
