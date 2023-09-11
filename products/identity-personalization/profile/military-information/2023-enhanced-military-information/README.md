@@ -15,10 +15,10 @@
 
 #### Partners
 
-|Name|Role|Email|
-|----|----|-----|
-| Melissa Rebstock | | should we put their emails in a public repo?|
-| Trish Dang | | |
+|Name|Role|
+|----|----|
+| Melissa Rebstock |Branch Chief, Digital Experience/VEO|
+| Trish Dang |Deputy Director within VBA/VACO| 
 
 ### Table of Contents
 
