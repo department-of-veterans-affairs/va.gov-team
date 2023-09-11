@@ -255,5 +255,5 @@ This research does not include the perspectives of the following marginalized Ve
 
 *Add groups
 
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
-<img width="558" alt="VA-recruitment-checker for this study" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/02ce6cbd-bee8-4ff7-8e51-0999cc484388">
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-04-Household%20information%20section%20usability/VA-recruitment-checker.png)https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-04-Household%20information%20section%20usability/VA-recruitment-checker.png)
+<img width="558" alt="VA-recruitment-checker for this study" src="[https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/02ce6cbd-bee8-4ff7-8e51-0999cc484388](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-04-Household%20information%20section%20usability/VA-recruitment-checker.png)https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-04-Household%20information%20section%20usability/VA-recruitment-checker.png">
