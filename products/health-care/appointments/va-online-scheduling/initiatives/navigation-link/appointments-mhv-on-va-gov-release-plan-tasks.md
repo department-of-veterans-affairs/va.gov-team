@@ -11,7 +11,8 @@ MHV users will now use the Appointments tool on VA.gov. The changes are to updat
 
 ## Tasks 
 - [ ] Simi (add any deployment tasks for the team if applicable) 
-- [ ] Jeff to turn on the feature toggle 100% 
+- [ ] Jeff to turn on the feature toggle 100% on Tuesday, October 3, 2023
+- [ ] Simi will need to deploy the re-direct work on Wednesday, October 4, 2023  or Thursday, October 5, 2023 (may need to put a maintenance window) [need to discuss with Eric Boehs - Platform Reliability Lead]
 - [ ] Test in production with a MHV user (coordinate with Kay) 
 - [ ] Test in production with a non-MHV user (coordinate with Marcy)
 - [ ] Test in production with a Cerner user (coordinate with Kay - maybe we can ask Brian again)
