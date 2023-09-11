@@ -27,7 +27,7 @@ Veterans are asked to choose the VA clinic where they'd like to receive the type
 
 [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2302%3A55109&mode=design&t=UYf6hcbnuK23Qdxf-1)
 
-[Page content](./va-online-scheduling/content/schedule-va.md#:~:text=Continue-,Choose%20a%20VA%20Clinic,-NAVIGATION)
+[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-va.md#:~:text=Continue-,Choose%20a%20VA%20Clinic,-NAVIGATION)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
