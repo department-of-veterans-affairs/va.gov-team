@@ -1,4 +1,4 @@
-# Possible New Health Metric Research
+# KPI alerting with datadog
 
 ## Purpose
 
@@ -7,11 +7,25 @@
 
 ## Context
 
-- [The Ticket]([url](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/61907)https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/61907)
+- KPIs were originally defined here]([url](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57489))
+- [This epic was executed to wrap each KPI in logging]([url](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/60952)) 
+- [The Ticket]([url](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/61907)https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/61907) was created to track the leveraging of these KPIs and their new logging as Datadog dashboards and or alerts.
 
-We want to beef up our alerting around 526 health, and the ask is to propose / implement new 'metrics' that we can use as indicators of form health.  I'm using the term 'metrics' loosly as a catch all for any sort of event (statsD or logs) we can use as an actionable indicator.
+This document outlines suggestions that could be applied to each of these KPIs and their logging.
 
-One additional goal here is to use logs / stats we already have in place, or at least minimize code required to itterate.
+### Affected Actions
+
+Of the aforementioned KPIs, these are the Class#methods wrapped in logging that would be the most vauable to alert on
+- Form526Submission#submit_uploads
+- Form526Submission#submit_form_0781
+- Form526Submission#submit_form_8940
+- Form526Submission#upload_bdd_instructions
+- Form526Submission#submit_flashes
+- Form526Submission#cleanup
+- EVSS::DocumentUpload#pull_file_from_cloud!
+- EVSS::DocumentUpload#perform_document_upload_to_evss
+- EVSS::DisabilityCompensationForm#submit_complete_form
+- V0::UploadSupportingEvidencesController#save_attachment_to_cloud!
 
 ## Proposals
 
@@ -34,6 +48,7 @@ The value `diff` should almost always be 1.  If we see a variation, we alert tha
 #### Alternate implemenation with StatsD
 
 We could also (probably) add a statsD `start` and `stop` counter for each metric.  This would allow us to simplify the queries, making them faster and more grokable, but would require some coding work.
+
 
 ### 2. The "Completion Percentile" check
 
