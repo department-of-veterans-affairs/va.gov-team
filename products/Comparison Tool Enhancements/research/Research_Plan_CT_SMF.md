@@ -110,7 +110,7 @@ If in person, include:
 -->
 
 ### Research materials
-The [Conversation Guide](url goes here)] will serve as the primary source for interactions with participants during each session of this study. A final script will be ready for review at least two days prior to deployment of the repositioned filters on the [GI Bill Comparison Tool staging server](https://staging.va.gov/education/gi-bill-comparison-tool/).  
+The [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Comparison%20Tool%20Enhancements/research/Conversation_Guide_CT_SMF.md)] will serve as the primary source for interactions with participants during each session of this study. A final script will be ready for review at least two days prior to deployment of the repositioned filters on the [GI Bill Comparison Tool staging server](https://staging.va.gov/education/gi-bill-comparison-tool/).  
 
 <!--
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -198,31 +198,25 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 -->
 
 ### Preparation
-A pilot session with one mock participant will be conducted within two days of the SMF feature's deployment on the staging server.
-
-- Pilot participant email: TBD
-- Date and time of pilot session: TBD
-<!--
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
--->
+* Pilot participant email: donna.saunders@va.gov
+* Date and time of pilot session: TBD
 
 ### Research sessions
-Planned dates of research: TBD. 
+* Planned dates of research: 9/25 - 9/29/2023 (or sooner)
 
 ### Length of sessions
-Session length: 30 minutes. Sessions per day: 3.
-<!--
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
--->
+* Session length: 30 minutes. Sessions per day: 4-5.
+* Buffer time between sessions: 30 min. - 1 hour
+* Maximum Sessions per day: 5
+
 
 ### Availability
-Session scheduling: TBD
+Session scheduling: 
+* 9/25 & 9/26: 10:30 - 12 PM, 12:30 - 2:00 PM, 2:30 - 4, 4:30 - 6 PM EST (possible 3 slots for each proposed time)
+* 9/27: 10 - 11 AM, 12 - 12:30 PM, 2:30 - 3 PM, 4:30 - 6 PM EST
+* 9/28: 10 - 11 AM, 11:30 AM - 12 PM, 2:30 - 3 PM, 3:30 - 4 PM, 4 - 5:30 EST
+* 9/29: 10 - 11 AM, 11:30 AM - 12 PM EST
 
 <!--When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
