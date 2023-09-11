@@ -9,6 +9,7 @@ Because at least one type of appointment notification will not work well with th
   * [VA Appointment Notifications Service Map Research](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md)
   * [Veteran appointment notification service map](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1649696758581/a12e35b635ef11d25ff389fe6651b1e63026b68c?wid=0-1664898146419&outline=open&sender=uf94a77a19aaf687331c09367)
   * [Appointments content brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/appointments-content-brief.md) (what language to use when, where)
+  * [MyVA Healthcare Use Case - Appointments documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-appointments.md)
 
 ## Types of appointment reminders
 * Appointment reminders
@@ -25,6 +26,15 @@ Per our working document on [notification definitions and working principles ](h
 #### UX analysis: 
 We believe that a reminder about an upcoming appointment is very similar to the current implementation of the dot notification to signal a new or unread secure message. This indicator next to specific link text such as "Upcoming Appointments" that indicates exactly what the dot references would be fairly intuitive, and users could likely follow the dot pattern down to that product to see their upcoming appointments. We also know that this notification is technically feasible to deliver to users.
 
+Ben Brasso: Also worth noting, the vast majority of Veterans, today, check in with an MSA at the clinic. Many Veterans arrive for their appts an hour or more ahead of time (either because that's what their provider instructed or because "it's an all day event," e.g., at least a few appts at the same facility).
+
+Peter Russo: The day of would definitely be too late. A push notification the day before is a pretty common pattern outside of VA. Since this is more of a passive reminder where you're hoping to catch people when they're managing their health, showing it earlier would be better to increase the chances of doing that.
+But yeah like you said we didn't find a standard pattern when we looked at notifications in that [study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md#scheduling-systems-often-send-excessive-notifications)
+
+Relevant slack threads: 
+* [Where can I see content for appointment reminders' push notification? when they show up in relation to an appointment?](https://dsva.slack.com/archives/C018V2JCWRJ/p1684422303312129)
+
+
 ##### Outstanding questions: 
   * When will the dot indicator go away for an appointment notification? When the date/time of the appointment has passed?
   * Should an appointment reminder include additional information that the dot indicator cannot provide (such as a link to pre check-in or directions to the appointment?)
@@ -38,7 +48,10 @@ We believe that a reminder about an upcoming appointment is very similar to the 
 ##### UX Decisions:
 * We will only display the dot for new/unread/reminder type notifications, where the meaning of the dot is straightforward/clear.
 * For appointments, we will only solve for appointment reminders at this stage; our design will not scale to other appointment notification types
-* If we cannot clear the dot, we should not implement it. Perpetual dots are not helpful to users if they do not signal something truly new and/or upcoming. 
+* If we cannot clear the dot, we should not implement it. Perpetual dots are not helpful to users if they do not signal something truly new and/or upcoming.
+
+##### Outstanding Questions
+* At what point after the appointment happens should the notification dot clear? 
 
 #### Technical analysis:
 The appointments team has shared that this is a feasible notification type at present. There are many ways that Veterans are notified about upcoming appointments. See related resources above for additional context into notifications work.
@@ -55,10 +68,12 @@ Currently, there are many policies in place (but no single source of truth) arou
   * MHV Email will email the Veteran before the appointment
 * Phone:
   *  Robotext
+ 
+Frequency: Notifications are sent out at 8am (at the time of the facility) for each day they are configured to be sent. VEText default frequency is 7-2-1 days before appointment, but it is configurable per clinic, stop code by the site so there are many per site configurations that are different. Push notifications are sent by VEText on the same configuration the site sets for SMS notifications at the same frequency (per Shane Elliott). See [slack thread here](https://dsva.slack.com/archives/C03CGTDLTFF/p1694009165975579).
 
-##### Outstanding Questions
-* Can we feasibly clear the dot notification after the date of the appointment?
-
+##### Related resources (engineering) 
+Engineering-related Slack thread: 
+* [Could you share the appointment reminders template with me? Also is there a specific time those are sent out or do they coincide with whatever the station has set for the reminder interval?](https://dsva.slack.com/archives/C01CSM3EZGT/p1684426783786359)
 
 
 ### 2. Appointment cancellations
