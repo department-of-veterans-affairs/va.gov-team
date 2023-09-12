@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Updated 09/11/2023: Samara updated the overview**
+**Updated 09/11/2023:** Liz clarified an acronym
 
 ### Communications
 
@@ -35,7 +35,7 @@
 
 ## Overview
 
-The VA.gov profile team has been asked to enhance the military history section of the profile to meet legislative requirements around giving veterans access to view and update their ILER record.
+The VA.gov profile team has been asked to enhance the military history section of the profile to meet legislative requirements around giving veterans access to view and update their Individual Longitudinal Exposure Record (ILER) record.
 
 ### Legislative mandates
 
