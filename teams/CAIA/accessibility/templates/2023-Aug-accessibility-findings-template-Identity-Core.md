@@ -3,7 +3,7 @@
 - **Study Dates:** August 2023
 - **Study Research Lead:** Clayton Zook/Core Identity Team
 - **Slack Channel:**  #identity-ux channel
-- **A11y Collaborators:** Sara, Jamie and Kate
+- **A11y Collaborators:** Sara, Jamie and Kate, SK
 - **Related Docs:**
     - Product outline: [Product info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/f180bf496a0b9b06b71770f20a4091a3b9bc7b04/products/identity/terms%20and%20conditions)
     - User flows: [User flow in Figma](https://www.figma.com/proto/Fhw9P7r6pyaCGXRmolruoQ/Terms-of-Use?page-id=0%3A1&node-%5B=&node-id=58-976&starting-point-node-id=1%3A493&show-proto-sidebar=1)
@@ -37,8 +37,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
 | _P12_                   | 8/18/2023         | Originally recruited as an AT user, but didn't have access to AT on his desktop. This participant was partially sighted and completed the test w/o AT on his desktop, but verbalized feedback related to AT.             | Advanced 5/5      |  Windows    | Chrome      | Laptop (Asus) |
 | _P19_                       | 8/23/2023                  | Uses MAGic magnifier + screen reader. Figma prototypes aren't compatible with MAGic, so only used magnifier for this session.                    | Intermediate to advanced 4/5                 | Windows                      |  Firefox           |   Laptop (Dell)          |
-| _P23 (P15 Rescheduled)_ | 8/24/023 | User using zoomtext 
-(Not a regular screen reader user) | Advanced | Laptop and Android                |                  |                    |                 |                      |             |         |
+| _P23 (P15 Rescheduled)_ | 8/24/023 | User using zoomtext (Not a regular screen reader user) | Advanced | Laptop and Android                |                  |                    |                 |                      |             |         |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
