@@ -1,4 +1,4 @@
-# Accredited Representation Management User Reserach README
+# Accredited Representation Management User Research README
 
 ## Research Summary
 | Research Title  | Date | Research Objectives  | Link to Findings |
