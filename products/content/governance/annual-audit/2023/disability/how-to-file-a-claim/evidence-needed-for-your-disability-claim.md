@@ -34,7 +34,7 @@
 - [x] Change pronouns from "VA/we'll" to "you'll" regarding what evidence you'll need
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 
+- Before edits: 10.8
 - After edits: 
 
 - [ ] Backlog ticket for further review created if needed
