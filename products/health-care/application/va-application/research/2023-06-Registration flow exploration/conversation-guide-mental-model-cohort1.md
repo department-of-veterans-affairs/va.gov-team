@@ -50,7 +50,7 @@ Before we start, a few things I want to mention:
 Let’s start with a few warm-up questions.
 
 - When was your last appointment at a VA Facility when you were seen for medical reasons? 
-
+- Are you currently enrolled for VA health care?
 
 
 ## First Topic: [Current Process - Facility Experience] - 5 minutes
