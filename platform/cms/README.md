@@ -11,7 +11,7 @@ CMS Team work includes:
 - Data Migration for Product teams usng Drupal  
 - CMS Application Architecture & Quality Control
 - CMS Training and User Support
-- Accelerated Publishing Effort (currently on hold as of September 2022)
+- Accelerated Publishing/Next.js 
 - Content Ops: Editorial Workflows, Content Strategy, Modeling, Governance
 - Drupal Product Strategy & Launch Runbooks 
 - User Account & Permissions Governance
