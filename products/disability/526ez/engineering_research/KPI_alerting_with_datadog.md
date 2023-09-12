@@ -22,7 +22,9 @@ Of the aforementioned KPIs, these are the Class#methods wrapped in logging that 
 - Form526Submission#submit_flashes
 - Form526Submission#cleanup
 
-<img width="821" alt="Screenshot 2023-09-12 at 2 03 51 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/ac7214c8-1bfc-42fb-9d9b-fee2d0033199">
+Here is each 3PI's completion log charged:
+<img width="682" alt="Screenshot 2023-09-12 at 2 08 15 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/0528cfdb-275f-4906-98c7-b9a04bd1f9c5">
+
 
 Additionaly, before final submission it would make sense to monitor these currently logged actions:
 - EVSS::DocumentUpload#pull_file_from_cloud!
