@@ -79,7 +79,7 @@ The dot indicator is a notification style that aims to call a user's attention t
 
 [Related Slack convo](https://dsva.slack.com/archives/C909ZG2BB/p1694525904888789)
 
-First, it's important to note we saw an overall increase in traffic to My VA from the last baseline week (/8/29/23 -9/4/23), but that probably only accounts for part of the increase we saw to the `Go to your inbox` link.
+First, it's important to note we saw an overall increase in traffic to My VA from the last baseline week (8/29/23 -9/4/23), but that probably only accounts for part of the increase we saw to the `Go to your inbox` link.
 
 - Total interactions on My VA August 29 - September 4: 1,003,927
 - Total interactions on My VA September 5 - September 11: 1,154,077
