@@ -23,13 +23,11 @@ EVSS is being sunset and will no longer be supported. We need to leverage the ne
 
 **KPI: Maintain a greater than 95% success rate for retrieving disability rating.**
 
-|KPI|Rate (%) 1 month pre-launch (7/30/2023-8/29/2023)|1 week @10% (8/30/23 - 9/5/23)| 1 week @25% (9/6/23 - 9/12/23) |1 week @50% (9/13/23 - 9/19/23)|1 week @100% (9/20/23 - 9/26/23)| 1 month @100% (9/20/23 - 10/19/23) | 2nd month @100% of users (10/20/23 - 11/19/23)|
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|% of successful retrievals|||||||
-|% of failed retrievals|||||||
+| KPI                        | Rate (%) 1 month pre-launch (7/30/2023-8/29/2023) | Release 1 @10% (8/30/23 - 9/7/23) | Release 2 @25% (9/7/23 - 9/12/23) | 1 week @50% (9/13/23 - 9/19/23) | 1 week @100% (9/20/23 - 9/26/23) | 1 month @100% (9/20/23 - 10/19/23) | 2nd month @100% of users (10/20/23 - 11/19/23) |
+| -------------------------- | :-----------------------------------------------: | :-------------------------------: | :-------------------------------: | :-----------------------------: | :------------------------------: | :--------------------------------: | :--------------------------------------------: |
+| % of successful retrievals |                      96.04%                       |              93.46%               |              95.82%               |                                 |                                  |                                    |                                                |
+| % of failed retrievals     |                       3.96%                       |               6.54%               |               4.18%               |                                 |                                  |                                    |                                                |
 
-
----
 
 ## Discovery
 ### Assumptions/Risks
