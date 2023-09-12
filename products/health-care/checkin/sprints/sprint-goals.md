@@ -25,8 +25,9 @@ ________________________________________________________________________________
        - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Compile Evidence for 20 Dev Rows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65290)
 - **GOAL: Make submission of a travel reimbursement claim easier**          
    - **Sub Goal: Evolve travel reimbursement during online check-in**
-      - **EPIC: [Travel Reimbursement Evolution - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47818)**
-          - TBD
+      - **EPIC: [File any Claim Type for a Past Appointment: Discovery & Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
+          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Lo-Fi Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65413)
+          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65414)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
