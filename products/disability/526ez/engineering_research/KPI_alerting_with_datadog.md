@@ -97,7 +97,7 @@ This could indicate something stuck in a bad state, such as a loop.  E.G we usua
 
 By leveraging the `rescue` block of the logging wrapper we could track spikes in errors relative to specific 3PI methods.  This would require updating [This log]([url](https://github.com/department-of-veterans-affairs/vets-api/blob/d6849bc9b097f21a14fe6aaef26093e0ac9200fe/lib/logging/third_party_transaction.rb#L63)https://github.com/department-of-veterans-affairs/vets-api/blob/d6849bc9b097f21a14fe6aaef26093e0ac9200fe/lib/logging/third_party_transaction.rb#L63) to include the method name value as a default log, and then combining the error message with the default logs.
 
-PR to do this work:
+Coding is required for this one, but it's trivial.  [This simple PR is all we would need to add this monitoring]([url](https://github.com/department-of-veterans-affairs/vets-api/pull/13785)https://github.com/department-of-veterans-affairs/vets-api/pull/13785)
 
 
 
