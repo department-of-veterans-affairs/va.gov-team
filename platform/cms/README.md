@@ -65,12 +65,12 @@ Documentation about the CMS lives in various places
 - Berni Xiong, Senior Delivery Manager - Slack `@Berni Xiong`
 - Nate Douglas, Tech Lead - Slack `@Nathan Douglas`
 - Eric Oliver, DevOps Engineer - Slack `@Eric Oliver`
-- Tolase Akinwale, DevOps Engineer- Slack '@Tolase'
+- Tolase Akinwale, DevOps Engineer- Slack `@Tolase`
 - Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
 - Blake Organ, Product Designer- Slack `@Blake Organ`
 - Joann Agnitti, Senior Researcher- Slack `@Joann Agnitti`
 - Edmund Dunn, Senior Drupal Developer- Slack `@Edmund Dunn`
-- Tony Taylor, Drupal Developer - Slack '@Tony Taylor'
+- Tony Taylor, Drupal Developer - Slack `@Tony Taylor`
 - Stefanie Gray, Helpdesk Manager, Slack `@Stefanie Gray`
 - Troy Griffin, Helpdesk and Training Manager, Slack `@Troy Griffin`
 
