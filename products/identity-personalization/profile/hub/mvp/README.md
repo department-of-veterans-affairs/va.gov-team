@@ -83,7 +83,8 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 |KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|-------------------|
-|||||
+|dd214||||
+|direct deposit||||
 
 
 ## Key deliverables
