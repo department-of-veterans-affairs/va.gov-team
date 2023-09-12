@@ -13,18 +13,18 @@ Lead Designer: Fiorella Geedi <br>
 #### User profile used: (add staging email used)
 
 ### Automated
- * [ ] Run axe checks on every page or unique state (required)
- * [ ] Run WAVE on every page if time allows. WAVE is more visual than axe or axe-coconut, but offers some excellent ways to identify nested headings and HTML5 landmark tags.
+ * [x] Run axe checks on every page or unique state (required)
+ * [x] Run WAVE on every page if time allows. WAVE is more visual than axe or axe-coconut, but offers some excellent ways to identify nested headings and HTML5 landmark tags.
 
 ### Manual
- * [ ] Color contrast checks (recommend using whocanuse.com for beyond compliance reports)
- * [ ] Color blindness checks
- * [ ] Zoom layouts to 400% and inspect them for readability. If layouts break at 400%, I will start reducing them until they become stable, and log the zoom ratio when things started breaking.
- * [ ] Keyboard navigation
+ * [x] Color contrast checks (recommend using whocanuse.com for beyond compliance reports)
+ * [x] Color blindness checks
+ * [x] Zoom layouts to 400% and inspect them for readability. If layouts break at 400%, I will start reducing them until they become stable, and log the zoom ratio when things started breaking.
+ * [x] Keyboard navigation
  
 ### Screen Reader
- * [ ] Windows, JAWS
-      * [ ] Chrome
+ * [x] Windows, JAWS
+      * [x] Chrome
       * [ ] Firefox
       * [ ] Microsoft Edge
  * [ ] Mac, VoiceOver
