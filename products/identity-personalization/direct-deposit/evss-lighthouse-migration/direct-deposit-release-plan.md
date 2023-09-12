@@ -119,11 +119,11 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
+|Number of unique users:| [4,239](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230815&_u.date01=20230821&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fdirect-deposit%3Fpostlogin=true/)
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|Types of errors logged:| We saw enough of a failure rate in our saves to pause the launch and roll back to 5% |
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| We've coordinated updates with Lighthouse, they've increased the time limits |
 
 ---
 ### Stage C: 25% of users
