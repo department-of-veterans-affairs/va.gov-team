@@ -48,7 +48,7 @@ Goal: For a feature that is broken for SOME USERS but not all, set expectations 
 
 Note: All Copy/Messaging would be finalized as part of the Implemenation Phase.
 
- **Use Case #1 Front End Issues- Screen Can Be Rendered**
+ **Use Case #2 Front End Issues- Screen Can Be Rendered**
 
 Since we can render a screen in this use case, the reccomendation would be to utilize the colored alert box. This will allow us to give the user an option of completing their task another way. 
 
@@ -68,7 +68,7 @@ Since the vast majority of these use cases involve the user (via message) needin
 This is less essential as we are already giving the user the ability to complete their task another way (phone number). Its is still imperative for the the user to eventually need to update the app.
 
 
-**Use case #1: Back End Issues- Screen can be rendered**
+**Use case #2: Back End Issues- Screen can be rendered**
 
 This use case will not involve the need to update the mobile application.
 
@@ -77,7 +77,7 @@ on the realease/app store.
 
 
 
-**Use case #2 (likely very rare, if ever)**
+**Use case #1 (likely very rare, if ever)**
 
 Since this is an issue in which we can’t even produce a normal-looking screen to show the colored alert box, we suggest using a modal alert.
 The alert modal consists of a heading, body copy, and button(s). Copy (TBD) will explain to the user that we’re fixing an issue with the app. 
