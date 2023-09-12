@@ -29,8 +29,7 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 
 -   URL: va.gov/health-care/order-cpap-supplies
 
--   Breadcrumb: Home > Healthcare > Order CPAP supplies
--   
+-   Breadcrumb: Home > Healthcare > Order CPAP supplies  
 
 2.  Order Form (CPAP and hearing aids combined) - Edit
 
