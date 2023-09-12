@@ -35,7 +35,7 @@ Are you able to use that during our session today?
 That sounds good, thank you.
 
 
-**For Magnification sessions** As part of signing up for the session, we asked if you need magnification to use the internet. Can you tell me more about that?
+**For Magnification sessions**: As part of signing up for the session, we asked if you need magnification to use the internet. Can you tell me more about that?
 
 Thank you for sharing.
 
@@ -89,6 +89,8 @@ Before we start, can you tell me a little bit about yourself? (If stuck, prompt 
 - If you’d like to update any of this information while we’re on this call, please go ahead.
 
 [Connected apps] Let’s say you linked your VA.gov account to a tool [or application?] you use on your phone. Now you want to remove that tool’s access to your VA.gov information. How would you do that?
+
+### Optional prompts
 
 [Auth menu] Do you have any dependents who use VA benefits of any kind?
 - Where on VA.gov would you go to update your dependents’ information?
