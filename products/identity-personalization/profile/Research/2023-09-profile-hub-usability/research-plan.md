@@ -88,8 +88,8 @@ Usability study with a coded prototype, on production behind a feature flag.
 
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-- [Link to conversation guide](url goes here) [TO BE ADDED]
-- [Link to prototype](url goes here) [TO BE ADDED]
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-09-profile-hub-usability/conversation-guide.md)
+- [Link to prototype](https://staging.va.gov/profile) (Staging link, not yet on prod)
 
 ## Recruitment	
 
