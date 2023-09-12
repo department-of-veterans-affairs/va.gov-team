@@ -23,6 +23,8 @@ Of the aforementioned KPIs, these are the Class#methods wrapped in logging that 
 - Form526Submission#cleanup
 
 Here is each 3PI's completion log charged:
+
+
 <img width="682" alt="Screenshot 2023-09-12 at 2 08 15 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/0528cfdb-275f-4906-98c7-b9a04bd1f9c5">
 
 
