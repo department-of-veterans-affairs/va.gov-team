@@ -1,7 +1,6 @@
 # [Maintenance a11y audit findings]: CH31 PCPG From 28-8832
 [Staging link](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction) <br>
 Slack channel: benefits-ce-non_disability_exp  <br>
-_This is a working template, please adjust, update, and share with the team as it changes. DELETE THIS before finalizing your draft and sharing it with the product team._
 
 ## Product team
 Product Manager: Laura Steele <br>
@@ -43,17 +42,11 @@ _DELETE THIS before finalizing your draft and sharing it with the product team._
 
 | **Findings** | **Severity** | **Platform Standard** | **Page URL** | **Recommenations** | **Steps to recreate** |
 |:------------:|:------------:|:---------------------:|:------------:|:------------------:|:---------------------:|
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
-|              |              |                       |              |                    |                       |
+|OMB Control # is expired|    Minor                   |     |[introduction progress map](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction)|      ensure submitting after updates to form are made              |                       |
+|In-progress applications do not appear under 'My VA'    |   Critical | Content organization and/or categorization isn't clear or actionable.|[introduction wizard](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction)| Review and ensure in-progress work can be found on the Veteran's dashboard. | • While logged in start entering data for the form. <br>  • Opt to leave and come back <br> • Navigate to 'My VA' and review in-progress forms                   |
+|(*if known) is not a design system content pattern|Minor|Design components or patterns don't align with Design System guidelines.|[claiment information](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/claimant-information)|"if known" is not a platform standard. Recommend to provide more hint text on why it's helpful to the Veteran.  Can follow guidance from the [design system page](https://design.va.gov/patterns/ask-users-for/social-security-number).|                       |
+|Form number on PDF and Digital vary|              |                       |[introduction progress map](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction)|                    |                       |
+|Updates on paper form not aligned with Digital experience|              |                       |              |Review differences and update.<br> VA PDF Form [25-8832] has been updated to include: <br> • Branch of Service <br> • Component <br> • Character of Discharge ,br. • A question to confirm if applicant is attending school/training facility <br> This was found using  https://www.reginfo.gov/public/do/PRASearch and searching for 2900-0265 (OMP control #)|                       |
+|Applicant/Veteran confusion|              |                       |              |Recomend when adding in new steps to review the flow of this, and make sure when asking if the applicant is the Veteran or how they are affiliated with the veteran is clear and logical|                   
+
+Please reach out if you have any questions or would like to review this further. As your team develops new pages and adjusts the flow we would be happy to work with your team during design reviews and any other steps along the way of your development. Thank you and great work.
