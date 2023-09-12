@@ -25,16 +25,15 @@ The user will receive a message indicating that the feature is currently experie
 
 ### Use Cases
 
-**USE CASE 1**:  **A feature (or part of a feature) is broken in the mobile app but a _screen can be rendered_.** (**For ALL USERS**)
-RX Example:  We are showing the wrong personal information in Rx. The feature is still working  and we can show the UI, but it is acritical enough error that we need to shut down the feature and establish a fix.
-
-Goal: Prevent ALL USERS from accessing a broken feature until a fix has been made and offer the ability to get that info in some other way in the meantime (A&B) & then empower users to fix it (B).
-
-
-**USE CASE 2**:  **A screen is broken and it cannot be rendered without crashing app/red screen of death**. (**FOR ALL USERS**) **LEAST LIKELY SCENARIO**
+**USE CASE 1**:  **A screen is broken and it cannot be rendered without crashing app/red screen of death**. (**FOR ALL USERS**) **LEAST LIKELY SCENARIO**
 Example: A coding error would mean the mobile app would show unrecognizable information instead of normal UI the vet is accustomed to. There is also the possibility this would force entire app to crash.
 
 Goal: Prevent all users from attempting to load the problem screen until a fix has been made (to prevent app crashing).
+
+**USE CASE 2**:  **A feature (or part of a feature) is broken in the mobile app but a _screen can be rendered_.** (**For ALL USERS**)
+RX Example:  We are showing the wrong personal information in Rx. The feature is still working  and we can show the UI, but it is acritical enough error that we need to shut down the feature and establish a fix.
+
+Goal: Prevent ALL USERS from accessing a broken feature until a fix has been made and offer the ability to get that info in some other way in the meantime (A&B) & then empower users to fix it (B).
 
 
 **USE CASE 3**:  **A screen element, feature, or part of feature is broken (for SOME users, not all)**. The feature entry point can still be accessed and a screen can still be rendered, but some folks can see data within the feature and others can’t.
