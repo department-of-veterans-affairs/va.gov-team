@@ -175,7 +175,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant(s) for pilot test: 
 - Accessibility specialist (for sessions where support for assistive technology may be needed):
 - Note-takers:	Perigean and 1010 Health Enrollment Team
-- Observers: [link to sign up post on Slack]
+- Observers: [link to sign up post on Slack](https://dsva.slack.com/docs/T03FECE8V/F05RF4YRU4U)
 
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
