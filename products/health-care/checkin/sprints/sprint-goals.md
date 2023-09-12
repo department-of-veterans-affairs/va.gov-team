@@ -22,7 +22,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: [Comply with ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
     - **Sub Goal: Perform Compliance Tasks**
-       - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Compile Evidence for 20 Dev Rows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65290)
+       - What does Ethan need from us next?
 - **GOAL: Make submission of a travel reimbursement claim easier**          
    - **Sub Goal: Evolve travel reimbursement during online check-in**
       - **EPIC: [File any Claim Type for a Past Appointment: Discovery & Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
@@ -31,10 +31,12 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
-            - Blocked by Mobile Team
+            - BLOCKED BY MOBILE TEAM
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Evaluate and update wireframe for no upcoming appts scenario](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65286)
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+            - BLOCKED BY OTHER TEAMS
+        - **EPIC: [Unified Check-in: Priority 8 - Changes to Need Help Section & Alert ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62515)**
             - TBD
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
@@ -44,7 +46,7 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Product][UX] Send QA Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64625)
 - **GOAL: Address tech & design debt**    
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Guides based on Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65298)
-    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)[Change all wireframes to 320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
+    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change all wireframes to 320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
     - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
         - TBD
 
