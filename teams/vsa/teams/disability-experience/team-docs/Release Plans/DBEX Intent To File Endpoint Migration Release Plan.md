@@ -224,6 +224,8 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 #### Results  
 - Anomalies:
     - 9/11: Small jump in 500 errors, and small number of 401s noted Saturday evening (9/9). These affected both systems
+        - Confirmed this was due to an outage: https://dsva.slack.com/archives/C04KW0B46N5/p1694455040993379?thread_ts=1694440762.541849&cid=C04KW0B46N5
+        - LH looking into ways to monitor and address in the future
 - Rollbacks:
 
 <br>
