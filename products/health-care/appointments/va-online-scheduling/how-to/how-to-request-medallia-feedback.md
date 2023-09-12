@@ -43,7 +43,7 @@ All in one file, on one tab
 | Week 32 August 5th- 13th             | Peter Russo      | ✅ [63535](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63535)      |
 | Week 33 August 14th- 20th            | Melissa Lefevre  | ✅ [63912](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63912)        |
 | Week 34 August 21st - 27th           | Peter Russo      | ✅ [64324](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64324)         |
-| Week 35 August 28th - September 3rd  | Peter Russo      |  |
+| Week 35 August 28th - September 3rd  | Peter Russo      | ✅ [64899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64899) |
 | Week 36 September 4th - 10th         | Peter Russo      |  |
 | Week 37 September 11th - 17th        | Peter Russo      |  |
 | Week 38 September 18th - 24th        | Melissa Lefevre  |  |
