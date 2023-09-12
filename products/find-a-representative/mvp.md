@@ -12,12 +12,12 @@ Find a Rep MVP will include desktop & mobile experiences
             1. 'use my location' feature to populate this location field
             1. Default to a radius (e.g. 50 miles)
         1. Select type of rep
-            1. Veteran Service Organization (VS0)
+            1. Veteran Service Organization (VSO)
             1. Representative in a Veteran Service Organization
             1. Attorney (Lawyer)
             1. Claims agent
         1. Rep definitions
-            1. Veteran Service Organization (VS0)
+            1. Veteran Service Organization (VSO)
             1. Representative in a Veteran Service Organization
             1. Attorney (Lawyer)
             1. Claims agent
