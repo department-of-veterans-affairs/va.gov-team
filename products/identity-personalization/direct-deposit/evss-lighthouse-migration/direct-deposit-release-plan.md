@@ -139,8 +139,8 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 |Number of unique users:| |
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| yes/no/N/A  |
-|Types of errors logged:| We saw enough of a failure rate in our saves to pause the launch and roll back to 5% while we investigated  |
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| We've coordinated updates with Lighthouse, they've increased the time limits; Sept 6, 2023: Lighthouse production increase in Gateway timeout changed from 10s to 20s, resulting in a drop in timeout errors |
+|Types of errors logged:|   |
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?|  |
 
 ---
 ### Stage C: 25% of users
