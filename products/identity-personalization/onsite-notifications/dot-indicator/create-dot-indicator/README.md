@@ -81,17 +81,17 @@ The dot indicator is a notification style that aims to call a user's attention t
 
 First, it's important to note we saw an overall increase in traffic to My VA from the last baseline week (8/29/23 -9/4/23), but that probably only accounts for part of the increase we saw to the `Go to your inbox` link.
 
-- Total interactions on My VA August 29 - September 4: 1,003,927
-- Total interactions on My VA September 5 - September 11: 1,154,077
+- **Total interactions on My VA August 29 - September 4**: 1,003,927
+- **Total interactions on My VA September 5 - September 11**: 1,154,077
 
 So the increase in total interactions is 15%.
 
-Some other notable increases from baseline (8/29 - 9/4) to week 1 metrics (9/5 - 9/11). It's important to note the following had no notable design changes to result in these numbers:
+Here are some other notable increases from baseline (8/29 - 9/4) to week 1 metrics (9/5 - 9/11). It's important to note the following had no notable design changes to result in these numbers:
 
-- Clicks into individual claims: 23% increase
-- Clicks into all claims: 24%
-- Clicks to the profile from My VA: 17% increase
-- Clicks to view post-9/11 GI bill benefits: 4% increase
+- **Clicks into individual claims**: 23% increase
+- **Clicks into all claims**: 24%
+- **Clicks to the profile from My VA**: 17% increase
+- **Clicks to view post-9/11 GI bill benefits**: 4% increase
 
 So a lot of other links in the top 10 saw an increase due to activity, but that could only account for maybe a quarter of the activity we saw on the inbox link. Nothing else saw even close to a 58% increase in clicks, which means **the dot indicator is likely effective**.
 
