@@ -14,17 +14,23 @@ This document outlines suggestions that could be applied to each of these KPIs a
 
 ### Affected Actions
 
-Of the aforementioned KPIs, these are the Class#methods wrapped in logging that would be the most vauable to alert on
+Of the aforementioned KPIs, these are the Class#methods wrapped in logging that would be the most vauable to alert on are the Form 526 Submission sub-actions (3PIs)
 - Form526Submission#submit_uploads
 - Form526Submission#submit_form_0781
 - Form526Submission#submit_form_8940
 - Form526Submission#upload_bdd_instructions
 - Form526Submission#submit_flashes
 - Form526Submission#cleanup
+
+<img width="821" alt="Screenshot 2023-09-12 at 2 03 51 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/ac7214c8-1bfc-42fb-9d9b-fee2d0033199">
+
+Additionaly, before final submission it would make sense to monitor these currently logged actions:
 - EVSS::DocumentUpload#pull_file_from_cloud!
 - EVSS::DocumentUpload#perform_document_upload_to_evss
 - EVSS::DisabilityCompensationForm#submit_complete_form
 - V0::UploadSupportingEvidencesController#save_attachment_to_cloud!
+
+
 
 ## Proposals
 
