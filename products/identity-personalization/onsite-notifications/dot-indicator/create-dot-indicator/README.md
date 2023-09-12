@@ -89,7 +89,7 @@ So the increase in total interactions is 15%.
 Here are some other notable increases from baseline (8/29 - 9/4) to week 1 metrics (9/5 - 9/11). It's important to note the following had no notable design changes to result in these numbers:
 
 - **Clicks into individual claims**: 23% increase
-- **Clicks into all claims**: 24%
+- **Clicks into all claims**: 24% increase
 - **Clicks to the profile from My VA**: 17% increase
 - **Clicks to view post-9/11 GI bill benefits**: 4% increase
 
