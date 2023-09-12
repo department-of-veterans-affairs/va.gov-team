@@ -26,7 +26,7 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about the health care application process.
+Today we're going to talk about the health care application process and your benefit options.
 
 Before we start, a few things I want to mention:
 
