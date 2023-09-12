@@ -36,9 +36,7 @@ Products owned by Public Websites
 1. The Benefits **Outreach hub** at https://www.va.gov/outreach-and-events/
 1. **Resources and support** www.va.gov/resources
 1. **Campaign Landing Page** 
-
-Products owned by Decisions Tools team
-1. **VA forms** www.va.gov/find-forms (formerly owned by Public Websites) 
+1. **VA forms** www.va.gov/find-forms (formerly owned by Decision Tools Team) 
 
 Content libraries that are shared across products
 1. **Banners and alerts** (owned primarily by Public Websites, but other products can create alert blocks)
