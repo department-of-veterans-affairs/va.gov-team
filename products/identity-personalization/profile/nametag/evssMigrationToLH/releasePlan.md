@@ -84,7 +84,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |Question|Response|
 |---|---|
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md#measuring-success)|
-|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
+|Was any downstream service affected by the change?:| pick one: No |
 |Types of errors logged:| [FILL_IN]|
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
 
