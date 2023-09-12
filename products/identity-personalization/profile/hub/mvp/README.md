@@ -103,7 +103,10 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 ## Design
 
-- Add link to Sketch files
+[Initial Design work:](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60822)
+- User flow is available on the left side of [this page](https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/p/07E02D01-E54B-4ECE-9B5A-838FF0A10CA2/canvas) in Sketch
+- [Mobile](https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/a/ZVvVnp3)
+- [Desktop](https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/a/JAaAJyk)
    
 ### Before
 
