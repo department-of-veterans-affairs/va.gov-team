@@ -73,7 +73,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |---|---|
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| pick one: No |
-|Types of errors logged:| We saw an increase in 403 errors, [Tom worked on ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65067)|
+|Types of errors logged:| We saw an increase in 403 errors, [Tom worked on ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65067) ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/bb78fae5-233d-44cc-8bef-ab184337c07d)|
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [#65067](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65067) resolved some of the extra errors we were seeing |
 
 ---
