@@ -108,7 +108,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 |---|---|
 |Number of unique users:| [3,939](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230807&_u.date01=20230813&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fdirect-deposit%3Fpostlogin=true)|
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
-|Was any downstream service affected by the change?:| No|
+|Was any downstream service affected by the change?:| No |
 |Types of errors logged:| unknown-title-get-error-api-response	54; <br> cnp.payment.generic.error - No changes were made	33; <br> cnp.payment.routing.number.invalid.checksum 	33;<br> unknown-profile-section-code-unknown-title-unknown-detail-unknown	33; <br> 500 internal error	22; <br> cnp.payment.api.gateway.timeout -Did not receive a timely response from an upstream server-enroll	11; <br> cnp.payment.night.area.number.invalid - No changes were made	11
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [Reviewing 502 Gateway Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63323), the issue seems to be, a downstream system doesn't have an updated address on file which is causing LightHouse to return these 502 errors |
 
@@ -121,8 +121,8 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 |---|---|
 |Number of unique users:| [4,239](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230815&_u.date01=20230821&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fdirect-deposit%3Fpostlogin=true/)
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
-|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| We saw enough of a failure rate in our saves to pause the launch and roll back to 5% |
+|Was any downstream service affected by the change?:| pick one: Yes |
+|Types of errors logged:| We saw enough of a failure rate in our saves to pause the launch and roll back to 5% while we investigated  |
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| We've coordinated updates with Lighthouse, they've increased the time limits; Sept 6, 2023: Lighthouse production increase in Gateway timeout changed from 10s to 20s, resulting in a drop in timeout errors |
 
 ---
