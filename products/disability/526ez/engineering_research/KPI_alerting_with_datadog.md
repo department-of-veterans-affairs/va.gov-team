@@ -42,6 +42,7 @@ a = @payload.wrapped_method:Form526Submission#submit_form_4142 AND @payload.end_
 b = @payload.wrapped_method:Form526Submission#submit_form_4142 AND @payload.start_time:*
 diff = a / b
 ```
+
 The value `diff` should almost always be 1.  If we see a variation, we alert that we are having an outage for the endpoint used by this method
 
 <img width="1042" alt="Screenshot 2023-09-11 at 2 32 21 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/50431410-518c-414e-9d2e-2b449fbef66c">
@@ -94,7 +95,9 @@ This could indicate something stuck in a bad state, such as a loop.  E.G we usua
 
 ### 4. Spike in Errors
 
-By leveraging the `rescue` block of the logging wrapper we could track spikes in errors relative to specific 3PI methods.
+By leveraging the `rescue` block of the logging wrapper we could track spikes in errors relative to specific 3PI methods.  This would require updating [This log]([url](https://github.com/department-of-veterans-affairs/vets-api/blob/d6849bc9b097f21a14fe6aaef26093e0ac9200fe/lib/logging/third_party_transaction.rb#L63)https://github.com/department-of-veterans-affairs/vets-api/blob/d6849bc9b097f21a14fe6aaef26093e0ac9200fe/lib/logging/third_party_transaction.rb#L63) to include the method name value as a default log, and then combining the error message with the default logs.
+
+PR to do this work:
 
 
 
