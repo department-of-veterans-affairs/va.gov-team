@@ -71,31 +71,31 @@ Before we start, can you tell me a little bit about yourself? (If stuck, prompt 
 
 ## Various Profile prompts - X minutes
 
-[Contact info] Let’s pretend you recently moved. How would you update your information on VA.gov to make sure letters from VA get delivered to the right place?
+_[Contact info]_ Let’s pretend you recently moved. How would you update your information on VA.gov to make sure letters from VA get delivered to the right place?
 - Does this information look up-to-date?
 - If you’d like to update any of this information while we’re on this call, we’d be happy to learn from your experience.
 
-[DD info] Let’s pretend you just switched banks, and you need to update where get your payments from VA. Where would you go to do that on this website?
+_[DD info]_ Let’s pretend you just switched banks, and you need to update where get your payments from VA. Where would you go to do that on this website?
 
-[ Military info] Let’s say you want to make sure VA’s records about your service history match the information you have. How would you go about checking on this on VA.gov?
+_[Military info]_ Let’s say you want to make sure VA’s records about your service history match the information you have. How would you go about checking on this on VA.gov?
 - Does this information look up-to-date?
 - If you’d like to update any of this information while we’re on this call, we’d like to learn from your experience.
 
-[Notif settings] Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
+_[Notif settings]_ Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
 - Is there anything you’d like to change or update here?
 
-[Personal info] Let’s say you have a new nickname you’d like VA to use when communicating with you. – how would you go about updating that information on VA.gov?
+_[Personal info]_ Let’s say you have a new nickname you’d like VA to use when communicating with you. – how would you go about updating that information on VA.gov?
 - Does this information look correct?
 - If you’d like to update any of this information while we’re on this call, please go ahead.
 
-[Connected apps] Let’s say you linked your VA.gov account to a tool [or application?] you use on your phone. Now you want to remove that tool’s access to your VA.gov information. How would you do that?
+_[Connected apps]_ Let’s say you linked your VA.gov account to a tool [or application?] you use on your phone. Now you want to remove that tool’s access to your VA.gov information. How would you do that?
 
 ### Optional prompts
 
-[Auth menu] Do you have any dependents who use VA benefits of any kind?
+_[Auth menu]_ Do you have any dependents who use VA benefits of any kind?
 - Where on VA.gov would you go to update your dependents’ information?
 
-[Auth menu] Let’s say you need to download some documents in order to apply for new benefits. Where would you go to find and download those documents? 
+_[Auth menu]_ Let’s say you need to download some documents in order to apply for new benefits. Where would you go to find and download those documents? 
 - [If needed] Say, for example, your Proof of Service Card.
 
 ## Follow-ups to any of the above tasks
