@@ -95,7 +95,7 @@ If we see a slow down from our normal traffic we could alert.  E.G we usually ha
 
 This could indicate something stuck in a bad state, such as a loop.  E.G we usually have 100, now we have 1000.  A recent example was the NOD bug that causes infinite looping, or when there is an increase in failures causing more than usual retries.
 
-### 4. Spike in Errors
+#### 4. Spike in Errors
 
 By leveraging the `rescue` block of the logging wrapper we could track spikes in errors relative to specific 3PI methods.  This would require updating [This log](https://github.com/department-of-veterans-affairs/vets-api/blob/d6849bc9b097f21a14fe6aaef26093e0ac9200fe/lib/logging/third_party_transaction.rb#L63) to include the method name value as a default log, and then combining the error message with the default logs.
 
