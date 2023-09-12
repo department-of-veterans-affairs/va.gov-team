@@ -51,7 +51,7 @@ The value `diff` should almost always be 1.  If we see a variation, we alert tha
 
 We could also (probably) add a statsD `start` and `stop` counter for each metric.  This would allow us to simplify the queries, making them faster and more grokable, but would require some coding work.
 
-[Here is a spike PR that should do that work](url)
+[Here is a spike PR that should do that work](https://github.com/department-of-veterans-affairs/vets-api/pull/13788)
 
 
 #### 2. The "Completion Percentile" check
