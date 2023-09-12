@@ -115,13 +115,28 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 ---
 ### Stage B: 10% of users
 
-#### Results
+<details><summary> First Launch to 10% 8/15-29
+</summary>
+
+#### Results (first launch to 10%)
 
 |Question|Response|
 |---|---|
 |Number of unique users:| [4,239](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230815&_u.date01=20230821&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fdirect-deposit%3Fpostlogin=true/)
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| pick one: Yes |
+|Types of errors logged:| We saw enough of a failure rate in our saves to pause the launch and roll back to 5% while we investigated  |
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| We've coordinated updates with Lighthouse, they've increased the time limits; Sept 6, 2023: Lighthouse production increase in Gateway timeout changed from 10s to 20s, resulting in a drop in timeout errors |
+
+</details>
+
+#### Results (re-launch to 10% 9/12)
+
+|Question|Response|
+|---|---|
+|Number of unique users:| |
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
+|Was any downstream service affected by the change?:| yes/no/N/A  |
 |Types of errors logged:| We saw enough of a failure rate in our saves to pause the launch and roll back to 5% while we investigated  |
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| We've coordinated updates with Lighthouse, they've increased the time limits; Sept 6, 2023: Lighthouse production increase in Gateway timeout changed from 10s to 20s, resulting in a drop in timeout errors |
 
