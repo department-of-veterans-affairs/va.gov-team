@@ -71,7 +71,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
 |Was any downstream service affected by the change?:| pick one: No |
 |Types of errors logged:| We saw an increase in 403 errors, [Tom worked on ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65067)|
@@ -84,7 +83,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
 |Was any downstream service affected by the change?:| pick one: yes/no/N/A |
 |Types of errors logged:| [FILL_IN]|
@@ -97,7 +95,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
 |Was any downstream service affected by the change?:| pick one: yes/no/N/A |
 |Types of errors logged:| [FILL_IN]|
@@ -109,7 +106,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
 |Was any downstream service affected by the change?:| pick one: yes/no/N/A |
 |Types of errors logged:| [FILL_IN]|
@@ -120,7 +116,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### 1-week results at 100%
 ||Results|
 |---|---|
-|Number of unique users:||
 |Any issues with VA handling/processing?||
 |Types of errors logged:||
 |Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
@@ -130,7 +125,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### 1-month results at 100%
 ||Results|
 |---|---|
-|Number of unique users:||
 |Any issues with VA handling/processing?||
 |Types of errors logged:||
 |Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
