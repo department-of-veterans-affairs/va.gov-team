@@ -73,9 +73,9 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |---|---|
 |Number of unique users:| [FILL_IN]
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
-|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|Was any downstream service affected by the change?:| pick one: No |
+|Types of errors logged:| We saw an increase in 403 errors, [Tom worked on ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65067)|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [#65067](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65067) resolved some of the extra errors we were seeing |
 
 ---
 ### Stage B: 25% of users
