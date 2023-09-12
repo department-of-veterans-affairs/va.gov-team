@@ -59,9 +59,9 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 10% | 08/30/2023 |08/30/2023  |
+| Launch to 10% | 08/30/2023 |[08/30/2023](https://dsva.slack.com/archives/C04KXPXL4/p1693403074394949)  |
 | Launch to 25% | 09/06/2023 |[ 9/6/2023](https://dsva.slack.com/archives/C909ZG2BB/p1694177868315429?thread_ts=1693489197.759069&cid=C909ZG2BB) |
-| Launch to 50% | 09/13/2023 | 9/12/2023 |
+| Launch to 50% | 09/13/2023 | [9/12/2023](https://dsva.slack.com/archives/C04KXPXL4/p1694533587958499?thread_ts=1693403074.394949&cid=C04KXPXL4) |
 | Launch to 100% | 09/20/2023 |  |
 
 ## Launch 
