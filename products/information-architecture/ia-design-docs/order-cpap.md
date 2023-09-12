@@ -32,11 +32,12 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 -   Breadcrumb: Home > Healthcare > Order CPAP supplies
 -   
 
-2.  Form: Order CPAP and hearing aid supplies - Changing
+2.  Order Form (CPAP and hearing aids combined) - Edit
 
--   URL: va.gov/health-care/order-hearing-and-cpap-supplies
+-   URL: https://va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form-2346/introduction
 
--   Breadcrumb: Home > Healthcare > Order hearing aid and CPAP supplies
+-   Breadcrumb: Home > Healthcare > Order hearing aid or CPAP supplies
+
 
 ###### Entry points:
 
@@ -50,11 +51,11 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 
 ###### Redirects:
 
-We will be setting up a new URL that includes the CPAP ordering, so we will have one redirect in place:
+| Current URL                                                  | Redirect to                                                                           | Note                                                                                   |
+|--------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Not sure -- I tried to find in staging, but it wouldn't load | https://.va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form-2346/introduction | All of the child pages in this form will have to be redirected to the base URL as well |
 
-| Current URL                                                                 | Redirect to                                                     |
-|-----------------------------------------------------------------------------|-----------------------------------------------------------------|
-| https://www.va.gov/health-care/order-hearing-aid-batteries-and-accessories/ | https://www.va.gov/health-care/order-hearing-and-cpap-supplies/ |
+
 
 Next IA steps for product team:
 
