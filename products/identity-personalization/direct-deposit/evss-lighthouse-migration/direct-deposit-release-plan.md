@@ -128,6 +128,8 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 |Types of errors logged:| We saw enough of a failure rate in our saves to pause the launch and roll back to 5% while we investigated  |
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| We've coordinated updates with Lighthouse, they've increased the time limits; Sept 6, 2023: Lighthouse production increase in Gateway timeout changed from 10s to 20s, resulting in a drop in timeout errors |
 
+[Slack thread where we agreed to increase again](https://dsva.slack.com/archives/C909ZG2BB/p1694524410823759?thread_ts=1694439401.099159&cid=C909ZG2BB)
+
 </details>
 
 #### Results (re-launch to 10% 9/12)
