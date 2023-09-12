@@ -62,6 +62,13 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - Noted that if the TOU was available in Word, he could download it and use its search features to find the information he needed.
 - **Figma prototypes are not compatible with MAGic.**
 
+### P23 
+- Has full sight only in one eye, injured when he was a child
+- Prefers to use the laptop because its easier and is attached to the printer
+- Started using VA in 1999. in 2003 is when user started using VA for everything, weight chart, vitals etc.
+- He would try to click on the changes and see what happens.
+- Put changes in messages, or statement in opening screen or home screen
+- Explains he really likes warning message letting you know he was signed out 
 
 ## Key Findings
 Add screenshots, images and videos here.
@@ -95,6 +102,14 @@ Add screenshots, images and videos here.
   - Figma prototypes can only be used accessibly by Mac + VoiceOver, Windows + NVDA, and Windows + JAWS.
 - It would be helpful to get more specific information about the technology in use before the test.
 
+### SK's draft P23 - P15 Rescheduled 
+#### Finding 1 
+- Users continuosly have struggled to share screen through zoom
+  - We can possibly include instructions on how to share screen in meeting invite. (Open to discussion)
+ 
+#### Finding 2
+- User would like to recieve an email if there are updates made to ToU page
+   - If email is sent a plain text version needs to be sent aas well. Some recipients may not be able to access the HTML at all but only the plain text version because of corporate firewall that strips out the HTML, ,or because of a setting in an email client
 ## User Feedback
 
 ### Veterans' Voices: Impactful Quotes 
