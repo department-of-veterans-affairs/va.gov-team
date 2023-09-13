@@ -146,7 +146,7 @@ For screen reader users, we will schedule a total of 10 Veterans for an expected
 - During the session, are willing to share their screen
 - Have a working microphone and camera on their device
 
-2. Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? 
+2. Are you a person who is blind or with significant vision impairment who relies on screen reader technology to access the internet such as such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? 
 
 - Yes (Recruit) 
 
