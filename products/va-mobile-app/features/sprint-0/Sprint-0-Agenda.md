@@ -21,7 +21,6 @@ The Sprint 0 meeting is a time to do the following:
     * Trying to create a single set of T&Cs for all tools
         * Ex: MHV can revoke access to SM based on behavior
     * Tom Black (OCTO) coordinating
-* Appeals Claims Letter (Stacy)
 * Overall strategy for push notifications 
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
@@ -61,6 +60,8 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Working session notes
 
+## 9/13/23
+* [Sprint 0: Pre-Needs Burial Claim - Adam](https://docs.google.com/document/d/1DTio0ekfMld9RuvfqPChfvEhBtxL6qGo2hto46MekG0/edit)
 
 ## 8/31/23
 * Identity Team coming to talk about Terms of Use
