@@ -154,7 +154,7 @@ I hear that you're good to continue. Before we do, I realize that I need a minut
 ### When a participant decides to stop the session
 I don't know if you'd want to call, but the Veterans Crisis Line number is 988. It's confidential and available 24 by 7.
 
-Thank you for your time in having this call. I honor your decision to stop and wish you well. [Try to maintain a CALM tone]
+Thank you for your time in having this call. I honor your decision to stop and wish you well. *[Try to maintain a CALM tone]*
  
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
@@ -174,11 +174,6 @@ Let’s start with a few questions...
 1. Have you applied for VA benefits under the PACT Act?
     - If so, can you tell me about your experience? *(when, how, results)*
 
-1. *(If using assistive technology:)* 
-
-     1. What assistive technology are you using?
-     1. How would you rate your level of experience with using *[specific assistive technology, such as a screen reader]*--beginner, intermediate, advanced, or expert?
-     1. How long have you been using *[specific assistive technology]*?
 
 ## User Tasks
 Now I'm going to ask you to do some things... ***Reassure if p nervous or says they feel dumb or embarrassed***
