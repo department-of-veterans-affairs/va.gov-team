@@ -12,21 +12,14 @@ Date: MM/DD/YYYY
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
-<br>
-
 **Jump to:**
 
-[Hypotheses and conclusions](#hypotheses-and-conclusions)
+- [Hypotheses and conclusions](#hypotheses-and-conclusions)
+- [Key findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Further research needed](#further-research-needed)
+- [Who we talked to](#who-we-talked-to)
 
-[Key findings](#key-findings)
-
-[Recommendations](#recommendations)
-
-[Who we talked to](#who-we-talked-to)
-
-[Further research needed](#further-research-needed)
-
-<br>
 
 ## Research Goals
 _First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
