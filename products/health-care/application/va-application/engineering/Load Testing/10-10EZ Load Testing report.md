@@ -110,7 +110,7 @@ We tested 832 requests at 1.39 requests per second through the rating_info endpo
 
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
-|POST health_care_applications/rating_info | 832| 1  |  1.39 request per second |  -0067
+|POST health_care_applications/rating_info | 832| 1  |  1.39 request per second |
 
 ### cpu load
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/e0eb91cf-a63d-4bb7-85f6-32ce3ce13c94)
