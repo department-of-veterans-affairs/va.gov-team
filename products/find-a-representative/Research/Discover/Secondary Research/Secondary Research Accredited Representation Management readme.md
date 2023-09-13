@@ -157,7 +157,7 @@ Any questions unable to be answered through Secondary Research are recommended t
         - [2020/12 Notice of Disagreement (NOD) VSOs Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2020-12-Notice-of-Disagreement-VSOs-Discovery-Research/20201211NODVSOsDiscoveryResearch.pdf)
         - [2019/01 Benefits Claim Status Research with VSOs](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-01-Benefits-Claim-Status-Research-with-VSOs)
 
-    - Since Veteran Law is federal law, and there are **limited**** specialized firms **nationwide, attorneys and claims agents often handle** hundreds, if not thousands **, of clients. They tend to work in teams, but the VA's** restriction**to a single Power of Attorney (PoA) prevents support teams from accessing Veteran information needed to assist the attorney or claims agent. This is a**major pain point** that distracts from the work of representing Veterans.
+    - Since Veteran Law is federal law, and there are **limited** specialized firms nationwide, attorneys and claims agents often handle **hundreds, if not thousands**, of clients. They tend to work in teams, but the VA's restriction to a single Power of Attorney (PoA) prevents support teams from accessing Veteran information needed to assist the attorney or claims agent. This is a **major pain point** that distracts from the work of representing Veterans.
 
         - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs) F3
         - [2020/12 Notice of Disagreement (NOD) VSOs Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2020-12-Notice-of-Disagreement-VSOs-Discovery-Research/20201211NODVSOsDiscoveryResearch.pdf)
@@ -183,14 +183,14 @@ Any questions unable to be answered through Secondary Research are recommended t
         - [2021/09 Supplemental Claims Discovery](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2022-01-Supplemental%20Claims-Discovery/2021-09-Supplemental-Claims-Discovery-Administrators/SC_VAAdmin_FinalReport.md) F1
         - [2021/06 HLR Opt-In Legacy Issues](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2021-06-Higher-Level-Review-Opt-In-Legacy-Issues-with-Claims-Assistants/20210608HLROpt-InLegacyIssuesReport-300621-1251-8.pdf) F1
 
-3. Power of Attorney (PoA) introduces its own set of challenges, often stemming from **inconsistent**** information management **and a** lack of notifications**.
+3. Power of Attorney (PoA) introduces its own set of challenges, often stemming from **inconsistent information management** and a **lack of notifications**.
 
-    - In the intake process for 21-22 forms, there are **common issues** such as mislabeling or incorrect labeling as correspondence. Furthermore, there appears to be **no streamlined method** for tracking or modifying Power of Attorney (PoA) information, including editing representative addresses and contact details. This necessitates **manual**** notification**to multiple entities (VBA, BVA, OGC) for address updates to reflect across various systems, leading to instances where PoA attorneys and claims agents**miss critical correspondence**, including decisions.
+    - In the intake process for 21-22 forms, there are **common issues** such as mislabeling or incorrect labeling as correspondence. Furthermore, there appears to be **no streamlined method** for tracking or modifying Power of Attorney (PoA) information, including editing representative addresses and contact details. This necessitates **manual** notification to multiple entities (VBA, BVA, OGC) for address updates to reflect across various systems, leading to instances where PoA attorneys and claims agents **miss critical correspondence**, including decisions.
 
         - [2019/09 Claims Establishment Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2019-08-Claims-Establishment-Discovery-Research/Claims%20Establishment%20Discovery%20-%20Research%20Presentation%20-%20September%202019%20-%20UPDATED.pdf) S22
         - [2017 Power of Attorney: A Discovery Sprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686839758569/c518e69a2bf19d2ef1b868b98322f25d72ae9aab?sender=u1d7fe27ad03a782e135e8404) S19, 20, 22
 
-    - Representatives frequently experience **unexpected loss of PoA** without notification, typically due to the Veteran or another representative filing for new representation without realizing it'll revoke current representation access. This **abrupt**** loss **of access not only restricts representatives from logging into VBMS but also ceases their receipt of important Veterans' claim-related communications. Additionally, it can lead to situations where representatives without PoA access continue to receive notifications for claims they** shouldn't be involved with **. In the worst-case scenario, these sudden changes can even result in attorneys and claims agents** not receiving payment** for their services.
+    - Representatives frequently experience **unexpected loss of PoA** without notification, typically due to the Veteran or another representative filing for new representation without realizing it'll revoke current representation access. This **abrupt loss** of access not only restricts representatives from logging into VBMS but also ceases their receipt of important Veterans' claim-related communications. Additionally, it can lead to situations where representatives without PoA access **continue to receive notifications for claims** they shouldn't be involved with. In the worst-case scenario, these sudden changes can even result in attorneys and claims agents **not receiving payment** for their services.
 
         - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs) F2
         - [2020/12 Notice of Disagreement (NOD) VSOs Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2020-12-Notice-of-Disagreement-VSOs-Discovery-Research/20201211NODVSOsDiscoveryResearch.pdf)
@@ -278,208 +278,219 @@ Any questions unable to be answered through Secondary Research are recommended t
     - Sources
         - [Reddit: Why you should have a VSO from a VSO](https://www.reddit.com/r/VeteransBenefits/comments/psvr0g/why_you_should_have_a_vso_from_a_vso/)
         - [Reddit: Are there pros and cons of using VSO?](https://www.reddit.com/r/VeteransBenefits/comments/itacem/are_there_pros_and_cons_of_using_vso/)
-  4. **Do representatives work alone or on teams?**
-    1. Representation of a claim can take years, for this reason usually teams, not just individuals, work through the claim lifecycle.
-    2. Attorneys and Claims Assistants rely on support staff to perform administrative tasks like tracking deadlines, securing evidence, uploading documentation, ensuring the claim makes it to the VA, troubleshooting, etc.
-      1. [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
-  5. **Which representatives can and cannot charge fees?**
-    1. **VSO** : It is important to know that VA-recognized VSOs, and their representatives, always provide their services on benefit claims free-of-charge.
-    2. **Attorneys & Claims Agents** : Unlike VSOs, VA-accredited attorneys and agents may charge you a fee for their representation in appealing or requesting additional review of an adverse VA decision. Only VA-accredited attorneys and claims agents may charge you fees for assisting in a claim for VA benefits, and only after VA has issued an initial decision on the claim and they have complied with the power-of-attorney and the fee agreement requirements.
-      1. [VA.gov Accredited Representatives](https://www.benefits.va.gov/vso/)
-      2. There are 3 types of appeals: Supplemental Review, Higher Level Review, and Decision Review Request
-        1. [2019/10 VSOs Appeals (HLR) Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-10-VSOs-Appeals-Higher-Level-Review-Discovery-Research-with-VSOs)
-6. **Can representatives support Veterans remotely?**
-  1. **VSOs** : It does appear that VSOs can help Veterans remotely as it is mentioned on VSO websites and in press releases by the VA.
-    1. [Illinois Department of Veterans' Affairs](https://veterans.illinois.gov/serviceoffices.html)
-    2. [2022/06 Individuals Using the Department of Veterans Affairs' Information Technology Systems To Access Records Relevant to a Benefit Claim](https://www.federalregister.gov/documents/2022/06/24/2022-13312/individuals-using-the-department-of-veterans-affairs-information-technology-systems-to-access#:~:text=VA's%20objective%20with%20this%20rulemaking,representation%20consistent%20with%20VA's%20policies.)
-  2. **Attorneys and claims agents** : Veteran Law is federal law, therefore attorneys can support Veterans anywhere in the country.
-    1. [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
-  3. Veterans looking for remote access can vary. Some examples include; being homebound due to medical, looking for better support, or being overseas.
-    1. [Reddit: Medical Example](https://www.reddit.com/r/Veterans/comments/2di4wf/any_vso_that_helps_remotely/)
-    2. [Reddit: Overseas Example](https://www.reddit.com/r/VeteransBenefits/comments/gsq12q/overseas_vso/)
-7. **What accreditation is required for representatives? Is it nationwide or state specific?**
-  1. Governed by the Office of General Council (OGC), this process recognizes Veteran Service organizations, attorneys and claims agents as valid representatives. This is the first step to gain access to VA systems.
-  2. **VSOs** work closely with the Office of General Council (OGC) to accredit their representatives. VSOs will provide internal training and exams approved by OGC, and then will email the list of trained representatives to OGC. Re-certification happens every 5 years, but VSOs undergo continuous training. There's no standard process for VSOs to verify with OGC which representatives need recertification, and all the variations are manual.
-  3. **Claims agents** will take an exam at the regional branch of the OGC. They have to recertify by taking Continuous Legal Education (CLE) every two years. Attendance to NOVA conference counts as CLE. Claims agents can sometimes go 2 - 4 years attempting to get accredited without success.
-  4. **Attorneys** have to provide their bar license to be accredited. Have to recertify by taking CLE every two years. Attendance to NOVA conference counts as CLE.
-    1. [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
-  5. **Do representatives ever lose accreditation? How is loss of accreditation managed?**
-    1. There are very few consequences for not keeping up with accreditation renewal since the OGC has no targeted way to regularly track or remind representatives to complete their training.
-      1. [Power of Attorney/ A discovery sprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686839758569/c518e69a2bf19d2ef1b868b98322f25d72ae9aab?sender=u1d7fe27ad03a782e135e8404)
-8. **What happens once a claim has been finalized and a representative is no longer needed?**
-  1. **VSOs** do not terminate representation unless faced with ethical issues or if they are fired by the client.
-  2. **Attorneys and claims agents** regularly terminate representation when they have secured the benefits they were hired for, and they have set processes for this.
-    1. [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
 
-Veteran Representative Engagement
-What is the typical audience the VSO supports in filing claims?
-VSOs primarily provide support to widows, combat Veterans, senior Veterans, and those who have never filed a claim before but are now dealing with service-related debilitating issues. VSOs also commonly assist Veterans with limited access to technology and email. Non-Veteran claimants, primarily surviving spouses, constitute a minority of VSOs' caseload, comprising no more than 15%.
-2022/03 Decision Review Email Notifications for Non-Veteran Claimants
-2020/04 VSOs COVID19 and 1010EZ Form Discovery Research
-2019/10 VSOs Appeals (HLR) Discovery Research
-Can Veterans contact/have more than one representative at a time?
-From @Lesley Ropp /  Veterans can only have one, but frequently forget they have a PoA on file and then try to assign another.
-Can Veterans decline a representative after contacting them?
-Veterans may discharge their attorney, claims agent, or VSO representative at any time and for any reason by informing VA of their request in writing. Veterans may also replace their representative with a new representative by filing a new VA Form 21-22, Appointment of Veterans Service Organization as Claimant's Representative or VA Form 21-22a, Appointment of Individual as Claimant’s Representative with VA.
-VA.gov Accredited Representatives
-21-22 Specific
-What are the differences between the 21-22 and 21-22a?
-21-22: Grants PoA to an organization. Any representative working for the organization has the ability to represent the Veteran. Accredited VSOs like American Legion or VFW, or State and County VSOs have this type of POA. Usually representatives are cross-accredited with multiple organizations so they can better service Veterans. This means that they have access to the VBMS records of all the Veterans represented by the organizations that they are affiliated with.
-21-22a: Grants POA to an accredited individual. Only the representative signing the form has the ability to represent the Veteran and access their VBMS records. This type of POA is available to attorneys and claims agents, who primarily represent Veterans in the appeal process, but who will occasionally take initial claims to build the relationship with a client. Attorneys and Claims Agents operate federally, meaning they can take clients from anywhere in the country because Veteran Law is federal.
-For unaccredited individuals: They can represent Veterans on one-time matters with VA. They do not have electronic access to the Veteran’s record, but can ask Veterans to request physical copies of their C-file.
-2021/04 Power of Attorney VSO Research Report
-What situations link to the 21-22? Or should link to the 21-22?
-Instances of Find a Representative are documented here.
-Plan on answering where the 21-22 should link during further user flow evaluation.
-Note/ on the 21-22 form and website, the only mention of Power of Attorney is hidden on Page 2 under the signature that a Notary is not needed. There is no mention of PoA on the website for the 21-22 form.
-https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf
-https://www.va.gov/find-forms/about-form-21-22/
-Recommendations
-Veteran Key Finding 1
-Provide integrated and easy ways to review current representation and manage representation throughout the entire claims process.
-2023/01 Decision Reviews Study
+7. **Do representatives work alone or on teams?**
+    - Representation of a claim can take years, for this reason usually teams, not just individuals, work through the claim lifecycle.
+    - Attorneys and Claims Assistants rely on support staff to perform administrative tasks like tracking deadlines, securing evidence, uploading documentation, ensuring the claim makes it to the VA, troubleshooting, etc.
+        - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
 
+8. **Which representatives can and cannot charge fees?**
+    - **VSO** : It is important to know that VA-recognized VSOs, and their representatives, always provide their services on benefit claims free-of-charge.
+    - **Attorneys & Claims Agents** : Unlike VSOs, VA-accredited attorneys and agents may charge you a fee for their representation in appealing or requesting additional review of an adverse VA decision. Only VA-accredited attorneys and claims agents may charge you fees for assisting in a claim for VA benefits, and only after VA has issued an initial decision on the claim and they have complied with the power-of-attorney and the fee agreement requirements.
+        - [VA.gov Accredited Representatives](https://www.benefits.va.gov/vso/)
+        - There are 3 types of appeals: Supplemental Review, Higher Level Review, and Decision Review Request
+            - [2019/10 VSOs Appeals (HLR) Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-10-VSOs-Appeals-Higher-Level-Review-Discovery-Research-with-VSOs)
 
-Veteran Key Finding 2
-Provide ways to identify reliable representation (including peer reviews in the future).
-2023/01 Decision Review Study RAW Notes
-Provide direct and actionable information on search results so Veterans can select a representative that best suits their needs.
-Include when available; directions, call link, hours of operation, representatives detail page, and results in relation to the Veterans location.
-2022/02 VBA Service Label Usability Research Findings
-2021/02 Mobile Experience Research Findings
-2020/07 Research Findings: Urgent Care Mashup Study
-2020/03 Facility Locator Search Expectations Research Findings
-2019/11 Facility Locator Discovery Research
-Recommend reducing the size of the map on the desktop view to make room for more information as users tended to start with the list then refer to the map. Or simply used an external search engine to find facilities.
-2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study
-2021/02 Mobile Experience Research Findings
-2020/07 Research Findings: Urgent Care Mashup Study
-2020/03 Facility Locator Search Expectations Research Findings
-Ensure that information is correct and up to date to maintain trust with Veterans.
-2022/02 VBA Service Label Usability Research Findings
-2019/11 Facility Locator Discovery Research
-If ‘No Results’ occurs, provide clear, actionable next steps.
-2022/02 VBA Service Label Usability Research Findings
-On mobile, make the map/list tab easily accessible to users at all times as users tend to miss it.
-2021/02 Mobile Experience Research Findings
+9. **Can representatives support Veterans remotely?**
+    - **VSOs** : It does appear that VSOs can help Veterans remotely as it is mentioned on VSO websites and in press releases by the VA.
+        - [Illinois Department of Veterans' Affairs](https://veterans.illinois.gov/serviceoffices.html)
+        - [2022/06 Individuals Using the Department of Veterans Affairs' Information Technology Systems To Access Records Relevant to a Benefit Claim](https://www.federalregister.gov/documents/2022/06/24/2022-13312/individuals-using-the-department-of-veterans-affairs-information-technology-systems-to-access#:~:text=VA's%20objective%20with%20this%20rulemaking,representation%20consistent%20with%20VA's%20policies.)
+    - **Attorneys and claims agents** : Veteran Law is federal law, therefore attorneys can support Veterans anywhere in the country.
+        - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
+    - Veterans looking for remote access can vary. Some examples include; being homebound due to medical, looking for better support, or being overseas.
+        - [Reddit: Medical Example](https://www.reddit.com/r/Veterans/comments/2di4wf/any_vso_that_helps_remotely/)
+        - [Reddit: Overseas Example](https://www.reddit.com/r/VeteransBenefits/comments/gsq12q/overseas_vso/)
 
+10. **What accreditation is required for representatives? Is it nationwide or state specific?**
+    - Governed by the Office of General Council (OGC), this process recognizes Veteran Service organizations, attorneys and claims agents as valid representatives. This is the first step to gain access to VA systems.
+    - **VSOs** work closely with the Office of General Council (OGC) to accredit their representatives. VSOs will provide internal training and exams approved by OGC, and then will email the list of trained representatives to OGC. Re-certification happens every 5 years, but VSOs undergo continuous training. There's no standard process for VSOs to verify with OGC which representatives need recertification, and all the variations are manual.
+    - **Claims agents** will take an exam at the regional branch of the OGC. They have to recertify by taking Continuous Legal Education (CLE) every two years. Attendance to NOVA conference counts as CLE. Claims agents can sometimes go 2 - 4 years attempting to get accredited without success.
+    - **Attorneys** have to provide their bar license to be accredited. Have to recertify by taking CLE every two years. Attendance to NOVA conference counts as CLE.
+        - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
 
-Veteran Key Finding 3
-Provide a digital 21-22 form submission utilizing auto-fill and guided questions with up to date statuses to reduce duplicate form submissions and errors.
-Provide clear guidance on tasks, next steps, and timelines.
-Display status updates in a central location alongside other common statuses.
-If no digital form is available, pay close attention to guiding Veterans on how to submit their form whether by mail, email, or other means.
-If using PDFs rather than a digital form, pre-fill the PDF using a Veteran’s account and inputted information to reduce browser PDF errors such as inputted data not saving.
-2023/03 Find Forms Medallia Audit S9, S20, S21
-2023/01 Profile Notification Settings, Add Email Channel Research
-Provide educational information on jargon to allow Veterans’ to confirm their understanding of information shown.
-2022/02 VBA Service Label Usability Research Findings
-Reduce redundant, or unnecessary information at the top and bottom of the page to focus attention.
-2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study
-2020/07 Research Findings: Urgent Care Mashup Study
+11. **Do representatives ever lose accreditation? How is loss of accreditation managed?**
+    - There are very few consequences for not keeping up with accreditation renewal since the OGC has no targeted way to regularly track or remind representatives to complete their training.
+        - [Power of Attorney/ A discovery sprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686839758569/c518e69a2bf19d2ef1b868b98322f25d72ae9aab?sender=u1d7fe27ad03a782e135e8404)
 
+12. **What happens once a claim has been finalized and a representative is no longer needed?**
+    - **VSOs** do not terminate representation unless faced with ethical issues or if they are fired by the client.
+    - **Attorneys and claims agents** regularly terminate representation when they have secured the benefits they were hired for, and they have set processes for this.
+        - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
 
-Veteran Key Finding 4
-For Veterans wanting to complete tasks on their own, provide representative information to reach out for assistance if they encounter any challenges.
-2023/01 Decision Reviews Study F6
-Ensure that when a Veteran is looking for information, the structure is designed to minimize situations where they hit a dead end, which can be a source of significant frustration.
-2022/01 Testing the Naming Conventions of Current VBA Services F3
+### Veteran Representative Engagement
 
+1. **What is the typical audience the VSO supports in filing claims?**
+    - VSOs primarily provide support to widows, combat Veterans, senior Veterans, and those who have never filed a claim before but are now dealing with service-related debilitating issues. VSOs also commonly assist Veterans with limited access to technology and email. Non-Veteran claimants, primarily surviving spouses, constitute a minority of VSOs' caseload, comprising no more than 15%.
+        - [2022/03 Decision Review Email Notifications for Non-Veteran Claimants](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2022-03-Non-Veteran-Claimants-Email%20Notifications-Decision%20Reviews/NVC_EmailNotifications_DecisionReview_Report.md)
+        - [2020/04 VSOs COVID19 and 1010EZ Form Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2020-04-VSOs-Covid19-and-1010EZ-Form-Discovery-Research-with-VSOs)
+        - [2019/10 VSOs Appeals (HLR) Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-10-VSOs-Appeals-Higher-Level-Review-Discovery-Research-with-VSOs)
 
-Rep Key Finding 1
-Allow for notifications and access to Veteran information to attorney and claim agent support staff that action is needed on PoA.
-Note: This may no longer be relevant as it seems to have been addressed in 2022, but need someone to confirm.
-2022/06 Individuals Using the Department of Veterans Affairs' Information Technology Systems To Access Records Relevant to a Benefit Claim
+2. **Can Veterans contact/have more than one representative at a time?**
+    - From[@Lesley Ropp](https://dsva.slack.com/team/U04R9D4EWA2) / Veterans can only have one, but frequently forget they have a PoA on file and then try to assign another.
 
+3. **Can Veterans decline a representative after contacting them?**
+    - Veterans may discharge their attorney, claims agent, or VSO representative at any time and for any reason by informing VA of their request in writing. Veterans may also replace their representative with a new representative by filing a new[VA Form 21-22, Appointment of Veterans Service Organization as Claimant's Representative](http://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf) or[VA Form 21-22a, Appointment of Individual as Claimant's Representative](https://www.vba.va.gov/pubs/forms/VBA-21-22A-ARE.pdf) with VA.
+        - [VA.gov Accredited Representatives](https://www.benefits.va.gov/vso/)
 
-Rep Key Finding 2
-Allow digital signatures from both Veterans and representatives to reduce signature errors. Some options to consider include signature images or electronic typed signatures.
-2023/01 Desk Research 526EZ Signatures
-If a representative submits without a Veterans signature, provide a warning explaining that if they submit it could delay the process for 30-days due to failure to meet Duty to Assist.
+### 21-22 Specific
 
+1. **What are the differences between the 21-22 and 21-22a?**
+    - **21-22** : Grants PoA to an organization. Any representative working for the organization has the ability to represent the Veteran. Accredited VSOs like American Legion or VFW, or State and County VSOs have this type of POA. Usually representatives are[cross-accredited with multiple organizations](https://community.max.gov/x/yCGggQ) so they can better service Veterans. This means that they have access to the VBMS records of all the Veterans represented by the organizations that they are affiliated with.
+    - **21-22a** : Grants POA to an accredited individual. Only the representative signing the form has the ability to represent the Veteran and access their VBMS records. This type of POA is available to attorneys and claims agents, who primarily represent Veterans in the appeal process, but who will occasionally take initial claims to build the relationship with a client. Attorneys and Claims Agents operate federally, meaning they can take clients from anywhere in the country because Veteran Law is federal.
+    - **For unaccredited individuals** : They can represent Veterans on one-time matters with VA. They do not have electronic access to the Veteran's record, but can ask Veterans to request physical copies of their C-file.
+        - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
 
-Rep Key Finding 3
-Send notifications to representatives when there is a change in PoA.
-2021/04 Power of Attorney VSO Research Report
-To reduce the chances of a Veteran unknowingly changing their representative, provide their current representative information on any representative selection and management tools.
-2023/01 Decision Review Study RAW Notes
-Explore ways to reduce manual PoA information updates across multiple systems.
+2. **What situations link to the 21-22? Or should link to the 21-22?**
+    - [Instances of Find a Representative are documented here.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686839758569/c518e69a2bf19d2ef1b868b98322f25d72ae9aab?sender=u1d7fe27ad03a782e135e8404)
+    - Plan on answering where the 21-22 should link during further user flow evaluation.
+    - **Note** / on the 21-22 form and website, the only mention of Power of Attorney is hidden on Page 2 under the signature that a Notary is not needed. There is no mention of PoA on the website for the 21-22 form.
+        - [https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf](https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf)
+        - [https://www.va.gov/find-forms/about-form-21-22/](https://www.va.gov/find-forms/about-form-21-22/)
 
+# Recommendations
 
-Accessibility Best Practices
-Ensure all experiences, including PDFs, are tab and screen reader friendly.
-2023/03 Find Forms Medallia Audit S10
-Pay close attention to accessibility best practices. The Facility Locator experience previously tested did not perform well due to lacking proper grouping, headers, and other screen reader best practices.
-2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study
-Next Steps
-Janelle Finnerty Secondary research on VA Facility Locator
-Lindsay Li-Smith Holden Hinkle Janelle Finnerty Gather analytics request to supplement research and design
-Lindsay Li-Smith Document eBenefits flows and features for parity functionality
-Janelle Finnerty Create user flows and logic using eBenefits as starting point
-Lindsay Li-Smith Holden Hinkle Janelle Finnerty Co-create designs based on inputs
-Holden Hinkle Create digital experience for user testing
-Janelle Finnerty User testing with Veterans to understand their representation selection process and gather feedback on designs
-Further Research Needed
+**Veteran Key Finding 1**
+
+1. Provide **integrated** and **easy** ways to review current representation and **manage representation** throughout the **entire claims process**.
+    - [2023/01 Decision Reviews Study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/213)
+
+**Veteran Key Finding 2**
+
+2. Provide ways to identify **reliable representation** (including peer reviews in the future).
+    - [2023/01 Decision Review Study RAW Notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1693587601789/07dfb56d7d6fa2fae2e225c18bf08e2b61310139?sender=u1d7fe27ad03a782e135e8404)
+
+3. Provide **direct and actionable information** on search results so Veterans can select a representative that best suits their needs.
+    - **Include when available**; directions, call link, hours of operation, representatives detail page, and results in relation to the Veterans location.
+        - [2022/02 VBA Service Label Usability Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
+        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)
+        - [2020/07 Research Findings: Urgent Care Mashup Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-findings.md)
+        - [2020/03 Facility Locator Search Expectations Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md)
+        - [2019/11 Facility Locator Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/user-research-findings.md)
+    - Recommend **reducing the size of the map** on the desktop view to make room for more information as users tended to start with the list then refer to the map. Or simply used an external search engine to find facilities.
+        - [2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
+        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)
+        - [2020/07 Research Findings: Urgent Care Mashup Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-findings.md)
+        - [2020/03 Facility Locator Search Expectations Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md)
+    - Ensure that **information is correct** and **up to date** to maintain trust with Veterans.
+        - [2022/02 VBA Service Label Usability Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
+        - [2019/11 Facility Locator Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/user-research-findings.md)
+    - If 'No Results' occurs, **provide clear, actionable next steps**.
+        - [2022/02 VBA Service Label Usability Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
+    - On mobile, make the map/list tab **easily**** accessible to users at all times** as users tend to miss it.
+        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)
+
+**Veteran Key Finding 3**
+
+4. Provide a **digital 21-22 form submission** utilizing auto-fill and guided questions with **up to date statuses** to reduce duplicate form submissions and errors.
+    - Provide **clear guidance** on tasks, next steps, and timelines.
+    - Display status updates **in a central location** alongside other common statuses.
+    - If no digital form is available, pay close attention to guiding Veterans on **how to submit their form** whether by mail, email, or other means.
+    - If using PDFs rather than a digital form, **pre-fill the PDF** using a Veteran's account and inputted information to reduce browser PDF errors such as inputted data not saving.
+        - [2023/03 Find Forms Medallia Audit](https://docs.google.com/presentation/d/1FMiSGx-kpOnJqt5FYimHiXzHNtujoFgc1YSdcHRWthU/edit?usp=sharing) S9, S20, S21
+        - [2023/01 Profile Notification Settings, Add Email Channel Research](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/214)
+
+5. Provide educational information on jargon to allow Veterans' to **confirm their understanding** of information shown.
+    - [2022/02 VBA Service Label Usability Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
+
+6. **Reduce redundant, or unnecessary information** at the top and bottom of the page to focus attention.
+    - [2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
+    - [2020/07 Research Findings: Urgent Care Mashup Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-findings.md)
+
+**Veteran Key Finding 4**
+
+7. For Veterans wanting to complete tasks on their own, provide representative information to reach out for assistance **inline with their tasks** if they encounter any challenges.
+    - [2023/01 Decision Reviews Study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/213) F6
+8. Ensure that when a Veteran is looking for information, the structure is designed to **minimize situations where they hit a dead end** , which can be a source of significant frustration.
+    - [2022/01 Testing the Naming Conventions of Current VBA Services](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/75) F3
+
+**Rep Key Finding 1**
+
+1. Allow for notifications and access to Veteran information to attorney and claim agent support staff that action is needed on PoA.
+    - Note: This may no longer be relevant as it seems to have been addressed in 2022, but need someone to confirm.
+        - [2022/06 Individuals Using the Department of Veterans Affairs' Information Technology Systems To Access Records Relevant to a Benefit Claim](https://www.federalregister.gov/documents/2022/06/24/2022-13312/individuals-using-the-department-of-veterans-affairs-information-technology-systems-to-access#:~:text=VA's%20objective%20with%20this%20rulemaking,representation%20consistent%20with%20VA's%20policies.)
+
+**Rep Key Finding 2**
+
+2. Allow digital signatures **from both Veterans and representatives** to reduce signature errors. Some options to consider include signature images or electronic typed signatures.
+    - [2023/01 Desk Research 526EZ Signatures](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2023-01-26-Desk-Research-526EZ-Signature-Types/Desk%20Research%20526EZ%20Signatures_2023-01-26_20-58-00.pdf)
+
+3. If a representative submits without a Veterans signature, **provide a warning** explaining that if they submit it **could delay the process** for 30-days due to failure to meet Duty to Assist.
+
+**Rep Key Finding 3**
+
+4. **Send notifications** to representatives when there is a change in PoA.
+    - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
+
+5. To reduce the chances of a Veteran **unknowingly changing their representative** , provide their **current representative information** on any representative selection and management tools.
+    - [2023/01 Decision Review Study RAW Notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1693587601789/07dfb56d7d6fa2fae2e225c18bf08e2b61310139?sender=u1d7fe27ad03a782e135e8404)
+
+6. Explore ways to **reduce manual PoA information updates** across multiple systems.
+
+**Accessibility Best Practices**
+
+1. Ensure all experiences, including PDFs, are **tab and screen reader friendly**.
+    - [2023/03 Find Forms Medallia Audit](https://docs.google.com/presentation/d/1FMiSGx-kpOnJqt5FYimHiXzHNtujoFgc1YSdcHRWthU/edit?usp=sharing) S10
+
+2. **Pay close attention to accessibility best practices**. The Facility Locator experience previously tested did not perform well due to lacking proper grouping, headers, and other screen reader best practices.
+    - [2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
+
+# Further Research Needed
+
 There were several questions that I was unable to answer based on secondary research. It is recommended to cover these topics with Veterans during the first round of user testing:
-What information are Veterans looking for in the representation selection process?
-Do Veterans have challenges understanding why they’d want a representative?
-Do Veterans understand the differences between the representative options (VSO, attorney, claims agent)?
-As well as which one is best for their scenario?
-Does cost have any impact on Veterans representation decisions?
-What are the use cases for Veterans coming to VA.gov to search for representation?
-Where on VA.gov would Veterans expect to find and manage their representative information?
-Mixed feedback on pagination on search results, recommend further testing.
-Appendix
-Referenced Designs
-Dec 2020/ Search: Find a Representative
-Feb 2022/ Search: Find a Representative
-Referenced Studies (40 Total)
-2023/04 Exploring the Process to Intake & Establish NODs
-2023/03 Find Forms Medallia Audit
-2023/02 Income Limits App Usability Testing
-2023/01 Decision Reviews Study
-2023/01 Decision Review Study RAW Notes
-2023/01 Desk Research 526EZ Signatures
-2023/01 Profile Notification Settings, Add Email Channel Research
-2022/11 VSOs Frequently Asked Questions
-2022/09 VA Mobile App Information Architecture & Navigation: Evaluative Research
-2022/08 Veteran Facing Research of VBA Regional Offices
-2022/06 Lovell Federal Experience
-2022/06 MCT VHA Virtual Agent Research
-2022/05 VA Admins Disability Claims 526EZ
-2022/03 Decision Review Email Notifications for Non-Veteran Claimants
-2022/02 VA Mobile App IA & Navigation Research
-2022/02 VBA Service Label Usability Research Findings
-2022/01 Supplemental Claims Discovery - Administrators
-2022/01 Supplemental Claims Discovery - Veterans
-2022/01 Testing the Naming Conventions of Current VBA Services
-2021/12 VBA Service Naming Research
-2021/09 Supplemental Claims Discovery
-2021/08 Veteran Representative Claims Assistance Research
-2021/06 HLR Opt-In Legacy Issues
-2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study
-2021/04 Power of Attorney VSO Research Report
-2021/02 Mobile Experience Research Findings
-2020/12 Notice of Disagreement (NOD) VSOs Discovery Research
-2020/09 Notice of Disagreement (NOD) SME Interviews
-2020/07 Research Findings: Urgent Care Mashup Study
-2020/04 VSOs COVID19 and 1010EZ Form Discovery Research
-2020/03 Facility Locator Search Expectations Research Findings
-2020/03 My VA Redesign Discovery
-2020/03 Veteran Education Benefits Customer Journey Research Study
-2019/11 Facility Locator Discovery Research
-2019/10 VSOs Appeals (HLR) Discovery Research
-2019/09 Claims Establishment Discovery Research
-2019/01 Benefits Claim Status Research with VSOs
-2017/10 VSO Disability Claim Journey Map
-2017 Power of Attorney: A Discovery Sprint
-2016/07 Benefits Application Research with VSOs
-Team Roles
- Janelle Finnerty - Senior UX Researcher
-Danielle Baranowski- Program Manager
-Holden Hinkle - Lead Engineer
-Lindsay Li-Smith - Product Manager
-Lesley Ropp - Product Owner
-Emily Theis - Product Owner
-Colin O’Sullivan - Full Stack Engineer
-Jonathan Van Cort - Full Stack Engineer
+
+1. What information are Veterans looking for in the representation selection process?
+2. Do Veterans have challenges understanding why they'd want a representative?
+3. Do Veterans understand the differences between the representative options (VSO, attorney, claims agent)?
+  1. As well as which one is best for their scenario?
+4. Does cost have any impact on Veterans representation decisions?
+5. What are the use cases for Veterans coming to VA.gov to search for representation?
+6. Where on VA.gov would Veterans expect to find and manage their representative information?
+7. Mixed feedback on pagination on search results, recommend further testing.
+
+# Appendix
+
+**Referenced Designs**
+  1. [Dec 2020/ Search: Find a Representative](https://xd.adobe.com/view/b80b0931-826b-413a-9b07-1efff71cae16-ed58/screen/b416b28c-7153-4d67-ae7c-a2150008af3a/)
+  2. [Feb 2022/ Search: Find a Representative](https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145370991/simulate/sitemap)
+
+**Referenced Studies (40 Total)**
+  1. [2023/04 Exploring the Process to Intake & Establish NODs](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2023-04-Exploring-the-process-for-BVA-Program-Specialists'-to-Intake-and-Establish-Notice-of-Disagreements-(NOD)-Research-Report/2023-04-Research-Report-Exploring-the-process-for-BVA-Program-Specialists'-to-Intake-and-Establish-NODs-readme.md)
+  2. [2023/03 Find Forms Medallia Audit](https://docs.google.com/presentation/d/1FMiSGx-kpOnJqt5FYimHiXzHNtujoFgc1YSdcHRWthU/edit?usp=sharing)
+  3. [2023/02 Income Limits App Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/219)
+  4. [2023/01 Decision Reviews Study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/213)
+  5. [2023/01 Decision Review Study RAW Notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1693587601789/07dfb56d7d6fa2fae2e225c18bf08e2b61310139?sender=u1d7fe27ad03a782e135e8404)
+  6. [2023/01 Desk Research 526EZ Signatures](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2023-01-26-Desk-Research-526EZ-Signature-Types/Desk%20Research%20526EZ%20Signatures_2023-01-26_20-58-00.pdf)
+  7. [2023/01 Profile Notification Settings, Add Email Channel Research](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/214)
+  8. [2022/11 VSOs Frequently Asked Questions](https://crsreports.congress.gov/product/pdf/R/R46412)
+  9. [2022/09 VA Mobile App Information Architecture & Navigation: Evaluative Research](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/169)
+  10. [2022/08 Veteran Facing Research of VBA Regional Offices](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/177)
+  11. [2022/06 Lovell Federal Experience](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/126)
+  12. [2022/06 MCT VHA Virtual Agent Research](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/148)
+  13. [2022/05 VA Admins Disability Claims 526EZ](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2022-05-Disability-Compensation-Claims-Discovery/2022-05-VAAdmins-DisabilityCompClaims526EZ-Report.md)
+  14. [2022/03 Decision Review Email Notifications for Non-Veteran Claimants](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2022-03-Non-Veteran-Claimants-Email%20Notifications-Decision%20Reviews/NVC_EmailNotifications_DecisionReview_Report.md)
+  15. [2022/02 VA Mobile App IA & Navigation Research](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/85)
+  16. [2022/02 VBA Service Label Usability Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
+  17. [2022/01 Supplemental Claims Discovery - Administrators](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2022-01-Supplemental%20Claims-Discovery/2021-09-Supplemental-Claims-Discovery-Administrators/SC_VAAdmin_FinalReport.md)
+  18. [2022/01 Supplemental Claims Discovery - Veterans](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2022-01-Supplemental%20Claims-Discovery/2022-01-Supplemental-Claims-Discovery-Veterans/SC_Veterans_FinalReport.md)
+  19. [2022/01 Testing the Naming Conventions of Current VBA Services](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/75)
+  20. [2021/12 VBA Service Naming Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/benefits-taxonomy-research-SME/research-findings.md)
+  21. [2021/09 Supplemental Claims Discovery](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2022-01-Supplemental%20Claims-Discovery/2021-09-Supplemental-Claims-Discovery-Administrators/SC_VAAdmin_FinalReport.md)
+  22. [2021/08 Veteran Representative Claims Assistance Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2021-08-Veteran-Representative-Claims-Management-Discovery/August%202021%20Veteran%20Representative%20Claims%20Assistance%20Research%20Findings%20and%20Recommendations.pdf)
+  23. [2021/06 HLR Opt-In Legacy Issues](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2021-06-Higher-Level-Review-Opt-In-Legacy-Issues-with-Claims-Assistants/20210608HLROpt-InLegacyIssuesReport-300621-1251-8.pdf)
+  24. [2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
+  25. [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
+  26. [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)
+  27. [2020/12 Notice of Disagreement (NOD) VSOs Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2020-12-Notice-of-Disagreement-VSOs-Discovery-Research/20201211NODVSOsDiscoveryResearch.pdf)
+  28. [2020/09 Notice of Disagreement (NOD) SME Interviews](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2020-09-Notice-of-Disagreement-SME-Interviews-Research-Report)
+  29. [2020/07 Research Findings: Urgent Care Mashup Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-findings.md)
+  30. [2020/04 VSOs COVID19 and 1010EZ Form Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2020-04-VSOs-Covid19-and-1010EZ-Form-Discovery-Research-with-VSOs)
+  31. [2020/03 Facility Locator Search Expectations Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md)
+  32. [2020/03 My VA Redesign Discovery](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/17)
+  33. [2020/03 Veteran Education Benefits Customer Journey Research Study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/16)
+  34. [2019/11 Facility Locator Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/user-research-findings.md)
+  35. [2019/10 VSOs Appeals (HLR) Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-10-VSOs-Appeals-Higher-Level-Review-Discovery-Research-with-VSOs)
+  36. [2019/09 Claims Establishment Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2019-08-Claims-Establishment-Discovery-Research/Claims%20Establishment%20Discovery%20-%20Research%20Presentation%20-%20September%202019%20-%20UPDATED.pdf)
+  37. [2019/01 Benefits Claim Status Research with VSOs](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-01-Benefits-Claim-Status-Research-with-VSOs)
+  38. [2017/10 VSO Disability Claim Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/tree/8fc42cefc223750d013452b130d46ca7e59e0d65/products/disability/526ez/archive/discovery/2017-vso/output/journey-map)
+  39. [2017 Power of Attorney: A Discovery Sprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686839758569/c518e69a2bf19d2ef1b868b98322f25d72ae9aab?sender=u1d7fe27ad03a782e135e8404)
+  40. [2016/07 Benefits Application Research with VSOs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8fc42cefc223750d013452b130d46ca7e59e0d65/products/disability/526ez/archive/discovery/2016/vso-benefits-7.8.16-findingssummary.md)
