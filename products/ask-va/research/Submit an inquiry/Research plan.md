@@ -107,6 +107,7 @@ We need to recruit 10 Veterans and 6 dependents for a total of 8-10 completed se
 |Exactly 10|Are Veterans|
 |Exactly 10|Have contacted VA online or over the phone in the past year|
 |Exactly 10|Have signed into VA.gov in the past year|
+|Exactly 10|Are willing and able to sign in to their personal Login.gov or ID.me account during the session|
 |Exactly 5|Are willing to join from a mobile device|
 |Exactly 5|Are willing to join from a desktop device|
 |At least 4|Are over 55 years old|
@@ -124,6 +125,7 @@ We have a submitted a [Recruitment Request: Cohort 1 - Veterans](url goes here).
 |Exactly 6|Are dependents of Veterans|
 |Exactly 6|Have contacted VA online or over the phone in the past year|
 |Exactly 6|Have signed into VA.gov in the past year|
+|Exactly 6|Are willing and able to sign in to their personal Login.gov or ID.me account during the session|
 |Exactly 3|Are willing to join from a mobile device|
 |Exactly 3|Are willing to join from a desktop device|
 |At least 3|Are over 55 years old|
@@ -150,6 +152,9 @@ We have a submitted a [Recruitment Request: Cohort 2 - Dependents](url goes here
   * Yes
   * No
 * Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet.
+  * Yes
+  * No
+* Are you able to sign in to your Login.gov or ID.me during the session? This will require you to know and remember your email and password. We strongly encourage you to sign in ahead of your session to ensure you remember your email and password.
   * Yes
   * No
 
