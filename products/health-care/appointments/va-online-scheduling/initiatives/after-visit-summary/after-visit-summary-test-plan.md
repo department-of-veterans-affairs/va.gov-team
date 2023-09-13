@@ -64,7 +64,7 @@ On the VAOS homepage, the app displays the following for each status:
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Summary Defect Report (Jeff can add any FE defects) 
-- [ ] Summary Defect Report 
+- [ ] Summary Defect Report(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/after-visit-summary/after-vist-summary-defects.md)
 
 ### Traceability Report (Simi & Corey to add)
 - [ ] [VAOS](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
