@@ -62,7 +62,7 @@ On the VAOS homepage, the app displays the following for each status:
   - [ ] A test user must have a Community Care booked appointment 
   - [ ] View the appointment details for a Community Care appointment and user should not see a Cancel link
 
-### User flow
+### User flow (+Ciera/Peter - please add) 
 - [ ] [Figma file]() 
 
 ### Reference (if applicable) 
@@ -71,16 +71,16 @@ On the VAOS homepage, the app displays the following for each status:
 ### Test Users 
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
-### Summary Defect Report
-- [ ] TBD 
+### Summary Defect Report (Jeff will update the file)
+- [ ] [After Visit Summmary - Defect report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/after-visit-summary/after-vist-summary-defects.md) 
 
-### Traceability Report 
+### Traceability Report (Simi - please add) 
 - [ ] [VAOS](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
 
-### E2E tests 
+### E2E tests (Simi - please add) 
 - [ ] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
 - [ ] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components/AppointmentsPageV2)
 
-### Code coverage
+### Code coverage (Simi - please add) 
 - [ ] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
 - [ ] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components/AppointmentsPageV2)
