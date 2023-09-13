@@ -3,14 +3,23 @@
 ## Value to Veterans
 Veterans know where, when, and how they can receive services provided by VBA Regional Offices.
 
+(From Michelle: This is the RO initiative's value to Veterans. How will Veterans benefit from the second workflow experiment?)
+
 ## Background
 Facilities team will be piloting VBA Regional Offices (ROs) modernized web pages in an MVP with seven ROs. Editors at these VBA ROs need specific permissions to provide accurate information on their modernized web pages. There is an explicit need to prevent VBA editors from publishing an RO’s modernized web page before it has services and an operating status.
 
 ## Current State
 In Drupal, we currently have a single Editorial Workflow that governs all content types. 
 
+(From Michelle: We should include why the current functionality will not meet the RO initiative needs. This might mean moving the last sentence in the previous paragraph here: There is an explicit need to prevent VBA editors from publishing an RO’s modernized web page before it has services and an operating status, but my understanding is also that we want to prevent them from archiving valid facility locations.)
+
+(From Michelle: May need Steve to shape some of this but.... we can block archiving now using code, rather than workflow which makes it somewhat invisible/ unclear where the block exists. This method would allow us to restrict the ability to archive by content type and by admins only.)
+
 ## Proposed Future State
 Facilities is proposing the creation of a second, separate Workflow that would be considered an Experimental Feature, used only for VBA ROs. If successful, additional content types could be migrated to the second Workflow later.
+
+(From Michelle: Let's proactively address why a change to roles and/or permissions will not suit RO needs and why the Facilities team thinks the workflow approach is the best option.) 
+
 However, CMS Team has expressed a preference for using Roles and Permissions instead of Workflow because:
 - A separate Workflow was attempted in the past.
 - The separate Workflow affected the primary Content view filters by Editorial Workflow: https://prod.cms.va.gov/admin/content 
@@ -27,3 +36,4 @@ Create a multiple filter where each Workflow has its own moderation states.
 
 ## Measuring Success
 
+(From Michelle: How will we know this experiment is a success? Likely a reduction in inappropriate/inaccurate archives? perhaps measured by the number of issues handled by the Support team?)
