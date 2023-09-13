@@ -1,48 +1,121 @@
-# VANotify Platform
+# VA Notify, Enterprise Notification Platform
+**Mission**
+Facilitate an excellent communications experience from VA Business Lines to Veterans across any digital channel.
 
-## Our Mission
-To provide Veterans with the information they need to get the services/outcomes they desire in the manner that is most convenient to them.
+**Vision**
+To be the core VA notification platform that helps increase utilization and visibility of VA services, while also improving the Veteran’s experience.
 
+**North Star**
+Provide Veterans with actionable, timely notifications in the manner that is most convenient for them.
 
-## Services We Offer
- 
-- [What We Currently Offer](#what-we-currently-offer)
-- [FAQs](#faqs)
-- [How VANotify Works](#how-vanotify-works)
--  [Tech Stack](#tech-stack)
+# Contact Us!
+Please read the Playbook below to get started if you're interested in onboarding to VA Notify.
 
-## Onboarding Information
-- [Business Onboarding Guide](#business-onboarding-guide)
-- [Email Frame & Template](#email-frame-and-template)
-- [Pricing](#pricing)
-- [Technical Onboarding Guide](#technical-onboarding-guide)
-- [Post Launch Information Checklist](#Post-Launch-Information-Checklist)
+Find us on DSVA slack in [#va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT)
 
-## Things to Know
-- [Upcoming Capabilities](#upcoming-capabilities)
-- [See Who We Are Working With](#See-Who-We-Are-Working-With)
-- [Recent Successes](#recent-successes)
-- [Find Out More &amp; Get In Touch With Us](#find-out-more--get-in-touch-with-us)
-- [Incident Response](#incident-response)
-- [Terms and Conditions](#terms-and-conditions)
-_____________________________________________________________________________________________________________________________________________________________
+Email us at **VA Notify**(oitoctovanotify@va.gov)
 
-## What We Currently Offer
-![](images/currentoffering.png)
+# Point of Contacts
+**Product**
+- Beverly Nelson, VA Product Owner - VA Notify
+- Melanie Jones, Product Manager - Notifications Platform
+- Samantha Jennings, Product Manager - Forms Strike Team
 
+**Engineering**
+- Kyle Macmillan, Tech Lead - Notifications Platform
+- Nathan Wright, Tech Lead - Forms Strike Team
 
-## FAQs
-* Do you have any guidelines on when to send a notification and/or what kind to send? We do!  Look [here](notification-guide.md#vanotify-notification-guide)
-* Does VANotify support variables in emails?  Yes - There is an an example [below](#successes)
-* What about hyperlinks and attachements? Yes, VANotify supports hyperlinks and attachments.  See an example [below](#successes) Attachment example coming soon.....
-* What's not supported? Currently VANotify does not support: cc, bcc, or images for email
-* Should I run my email content by a Privacy Officer? Yes.  This will avoid sending Personally Identifiable Information inadvertantly
+**QA**
+- Cris Stoddard, QA Test Engineer - Notifications Platform
+- Jake Uhteg, QA Test Engineer - Forms Strike Team
 
+# Playbook
 
-## How VANotify Works
+## Who we are
+VA Notify is a notifications platform dedicated to improving the veteran’s notification experience by providing actionable, unified communications on the VA services they utilize. Our notification service is available to any business line/team inside the VA or with an ATO.
+## What we are
+VA Notify is designed to be a passthrough system. We do not store veteran information, but we do store your notification templates and settings. We partner with VA Profile and va.gov to provide communication preferences that the veteran can see and manage. VA Notify checks these preferences before notifying a veteran.
+
+VA Notify is located within the VAEC. We provide a REST OpenAPI, which your system can call each time a notification is needed. We also provide a Self Service web application so you can directly create and maintain your notification templates. Aggregated message metrics are provided. Google Analytics (UTM trackers) can and should be used for all message links that point to va.gov, so clicks can be captured. 
+
+If you have forms on va.gov and need help developing a notification trigger (ex., submission confirmation, reminders to complete forms, etc.), our [Forms Strike Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/form%20confirmations) can help!
+
+## What we aren’t
+
+VA Notify does not…
+- Pull data to trigger notification events
+- Provide notification scheduling services, though we may throttle or queue notifications based on volume concerns
+- Support newsletter notifications
+- Store veteran data
+- Track analytics per veteran
+
+## Supported notification channels (types)
+Currently we support email, text messaging (SMS), push notifications with the Flagship Mobile App, and onsite notifications on VA.gov, My VA dashboard. You can find the VA Standard Operating Procedures for SMS [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf).
+
+## Onboarding to VA Notify
+Welcome! Please submit an [intake form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=bevnobev%2C+mjones-oddball&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D) to kick off the process. This lets us know a little bit more about you and what you’re trying to accomplish to ensure VA Notify is a good fit. From there we may schedule a kick-off meeting to learn more and guide you through next steps.
+
+## Getting access to our Self Service Portals
+The VA Notify self service portal empowers your team to create and manage notification templates, while also providing helpful documentation and tips for your notification journey.
+
+We provide Staging and Production access. Staging should be used for testing purposes and can be connected to one or more of your lower environments (e.g. dev and qa). Once you feel everything is working as expected, you can copy and paste content into Production. We will provision your user and provide an API key per environment via an encrypted VA email to one of your technical team members. We may provide initial access via our Test Service on Staging depending where you’re at in the process.
+
+Please note: to access a lower environment with PIV, i.e. Staging, your user must be provisioned with a SecID in the [IAM system](https://dvagov.sharepoint.com/sites/OITEPMOIAM/playbooks/Pages/ssoi/SSOi%20Setup.aspx) within the appropriate environment. VA Notify Staging is integrated with the SQA IAM environment. Every user automatically gets provisioned in Production, so no extra step is needed there. You can request this yourself or ask VA Notify to help!
+
+**How do I sign in to staging?**
+1. Go to https://staging.notifications.va.gov while connected to the VA Network
+2. Sign in with your PIV using the button at the top right
+3. Let us know you’ve signed in, send us your va.gov email address, and we will assign you to the right service for your team.
+
+**How do I sign in to production?**
+1. Go to https://notifications.va.gov while connected to the VA Network
+2. Sign in with your PIV using the button at the top right
+3. Let us know you’ve signed in, send us your va.gov email address, and we will assign you to the right service for your team.
+
+## Timeframe
+The exact timing depends on your team’s schedule and the type of notification.
+
+Email is much quicker to launch than SMS because there are less steps. SMS requires us to acquire sender phone number(s) for your use case (short codes or 10DLCs), which can take up to 12 weeks. If communication preferences are needed, we must account for scheduling with the VA Profile and Authenticated Experience teams to add this. Outside of these tasks, the timeline really comes down to your engineering effort and how quickly a Privacy Officer can do a content review. Please note we collaborate with all of our users on their content to ensure it meets VA standards. For SMS, please review our [standard operating procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf).
+
+If your notification requires VA Notify engineering work, we will review and provide a schedule.
+
+## General Steps 
+Please note, this may differ based on your use case.
+(*) = Your team, (**) = Joint effort between your team and VA Notify
+
+- Submit the intake form *
+- Kick-off with VA Notify **
+- Have your technical team review the VA Notify API docs *
+- Get access to the Self Service Portal **
+- Budget approval for notifications *
+- Create your notification content (Privacy Officer review required) *
+- VA Notify submits a communication preference intake for your team (if applicable)
+    - Please note, if you have a new communication preference your team will need to determine a plan to communicate this to veterans so they know a new notification is available to opt into.
+- SMS only: VA Notify requests applicable phone number(s)
+- Build your notification code to call the VA Notify API *
+- Test your notification *
+- Launch your notification **
+- Evaluate business outcomes and make revisions as needed *
+
+## Billing
+VA Notify charges for SMS text messages to cover phone number and messaging costs. The process for transfering funds is currently under review and discussion. We can provide billing estimates and reports so you can plan within your budget until a process to transfer funds is available.
+
+## Reviewing our API docs
+Your technical team can review the [API documentation](https://staging.notifications.va.gov/developer/api_docs) and other technical information on our Self Service Portal.
+
+Callbacks can provide status updates per notification sent. Please reach out to VA Notify with a webhook url and long lived bearer token to get started in Staging.
+
+To send a notification, you must first create a template in our Self Service Portal. There are different template types available (email/SMS). Once created, you can find a template ID under template details. This will be used in the API call to trigger the notification. Please note, if you use personalisations (dynamic content) in your template(s) you must include them in the notification request body.
+
+### Technical FAQ
+**What type of API is VA Notify?**
+- We offer a REST API
+
+**How does VA Notify work?**
+
 ![](images/vanotifydiagram.png)
 
-## Tech Stack
+Tech Stack
 
 | Application          | Infrastructure  | Monitoring & Security |
 |:---------------------|:----------------|:----------------------|
@@ -51,108 +124,74 @@ ________________________________________________________________________________
 | Celery               | AWS Fargate     | Twistlock             |
 |                      | Bandit          |                       |
 
+**Where is VA Notify hosted?**
+- VA Notify is located in AWS VAEC GovCloud West behind the VA Network, but we do offer both public and private URLs for API calls
 
+**What is the authentication method for your API?**
+- Our API authentication method is JWT
 
-## Business Onboarding Guide
-![](images/business.png)
-
-## Email Frame and Template
-![](images/email-frame-template.png)
-
-
-## Pricing
-
-* The **Office of the VA Chief Technology Officer (OCTO)** will pay for the development and maintenance of VA Digital Notifications Ecosystem products (VANotify + VEText).  Also, **OCTO** will pay for AWS infrastructure and operational costs.
-* **VA business lines (outside of OCTO)** will be responsible for funding of digital notifications (email, SMS, or mobile push notifications).  Currently, **VA business lines** can procure AWS credits to fund their digital notifications.  The current cost is **$0.93 per AWS credit**. 
-
-| Communication Channel      | Unit Price                                       | Messages per AWS credit                                       |
-|:---------------------------|:-------------------------------------------------|:--------------------------------------------------------------|
-| Email                      | $0.000093/email                                  | 10,000 emails per credit                                      |
-| SMS [outbound and inbound] | $0.0078/SMS [outbound]<br/>$0.0070/SMS [inbound] | 119.23 SMS/credit [outbound]<br/>133.33 SMSs/credit [inbound] |
-
-<br>
-
- To assign credits to VANotify, please follow these steps:
-  -  Click [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VANotify%20Cloud%20Credit%20Purchase%20SOP.pdf) for detailed instructions.
-  - Link in the pdf -  https://wfm.vaec.va.gov/servicedesk/customer/portal/5
-
-
-## Technical Onboarding Guide
-Checkout our [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20Notify%20Playbook.pdf) for detailed onboarding information.
-* Staging URL: https://staging.api.notifications.va.gov
-* Postman Collection: https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman
-* Templating guides: 
-  * https://design.va.gov/templates/email
-  
-
-![](images/technical.png)
-
-
-## Post Launch Information Checklist
-
-* **How many notifications have been sent, since go-live, last week, etc?** 
-In order to determine how many notifications have been sent, you can check with your technical team to see how many requests they have sent to us. You can also message us at #va-notify-public to request these stats and we will get them to you within 24 hours. In the future, we are working to expose such statistics in our self service portal as well as integrate with DOMO. 
-
-* **How many notifications were successful vs. failed?** 
-Depending on your level of integration with VANotify you may be set up for call-back responses – if you are, you will be able to know what notifications were successful or which ones have failed. If not, you can also message us at #va-notify-public to request these stats and we will get them to you within 24 hours. In the future, we are working to expose such statistics in our self service portal as well as integrate with DOMO. 
-
-
-* **How many notifications have been opened?** 
-Please note the SMS channel does not support Open Events. Each email notification sent with VANotify has a google pixel tracker automatically embedded within the email which allows us to track Open Events. Please note Open Events are not a great metric of success in terms of knowing if your email got in front of your end-user–you can learn more [here](https://blog.mailup.com/2013/12/email-open-rate-complexity). If measuring engagement is important to you we highly recommend tracking your click through rate – see below to learn more. In order to view your open events, you must: 
-
-    I. Log in to the [VA.gov Production Google Analytics 360 account](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210217&_r.drilldown=analytics.eventCategory:email,analytics.eventAction:open). If you don’t have access to Google Analytics you can access it [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+access-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo).
-    
-    II. Navigate to [this](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210217&_r.drilldown=analytics.eventCategory:email&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D/) page. And select your notification from the list. 
-  
- ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Google%20Analytics%20Notifications%20List.png)
-  
-   III. Select your time frame on the top right of the screen. This will give you the total open events for your email. 
- 
- ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Google%20Analytics%20Email%20Open%20Rate.png)
-  
-   VI. If you want to determine your Open Rate – divide open events by total successful sends for the same time period and that number will indicate your    
-    approximate Open Rate.  
- 
- ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Google%20Analytics%20Click%20Through.png)
-
-* **How many click-throughs to links?** 
-If you have enabled website visitor tracking that includes referrer information on the web page you are trying to drive traffic and you have included the tracking parameters (i.e. UTM) in the webpage URL you are utilizing in your notification template then you will be able to view the volume of traffic that originated from the email in your tracking system (i.e. Google Analytics, DOMO, etc). To get to your click-through rate divide your click-through traffic by total successful sends for the same time period and that number will indicate your approximate click-through rate.
-
-
-## Upcoming Capabilities
- * Self Service Portal
- * Onsite Notifications
-
-
-## See Who We Are Working With
-* 526EZ (Application for Disability Compensation and Related Compensation Benefits) Email Confirmation - Sent automatically upon submission
-* Covid KMI (Keep Me Informed) Update for Veterans and Non-Veterans Beneficiaries - Sent periodically after sign up on va.gov
-* Covid KMI Email Sign-up Confirmation for Veterans and Non-Veterans Beneficiaries - Sent automatically upon sign up
-* Rx Pharmacy Shipment Update Pilot Text Message -  Sent upon shipment of prescriptions only for Asheville and Denver VAMCs however we are working on expansion nationally, text messagewill come from a local number currently
-* Debt Management Center - "You have new information" email - automatically sent after the Veteran calls the DMC for an update or information on their Debt status as well as may be sent if there is information in their account
-Lighthouse
-* Direct Deposit Email Confirmation - automatically sent when the Veteran updates their direct deposit account information on va.gov.
-* Application Connect & Disconnection from VA account - sent when the Veteran allows an app to access their health information and vice versa on va.gov.
-* VA.gov Authenticated experience - Email confirmation that a veteran has updated their contact information.
-* Higher-Level Review Email Confirmation- Sent automatically upon submission
+**How can we begin sending requests through VA Notify?**
+- We will provide an API key to your team via encrypted VA.gov email
 
 
 
-## Recent Successes
-![](images/Launched.png)
-![Rx Shipment SMS](images/Rx%20shipment.jpg)
+**What endpoints will my team need to use?**
+- You will only need to use our API for notification specific actions:
+    - Triggering a notification send (email, sms, or push)
+    - Checking a message status during testing
 
-![](images/vaccine_confirmation.png)
+**Does VA Notify integrate with any other VA systems?**
+- VA Notify integrates with MPI and VA Profile to lookup the Veteran's deceased status, contact information, and opt-in status via a person identifier you provide. If you're interested in this option you'll need to provide a supported recipient_identifier id_type.
+- Supported ID Types:
+    - ICN
+    - PID (participant id)
+    - EDIPI
+    - BIRLSID (also known as file number)
+    - VAPROFILEID
 
-## Find Out More & Get In Touch With Us
-* Fill out this form [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=bevnobev%2C+mjones-oddball&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D)
-* Slack - [#va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT)
+**What environments does VA Notify have?**
+- We onboard notification partners to our Staging and Production environments. You can connect one or more of your lower environments to our Staging environment.
+    - Please note, our Staging environment maps to MPI's SQA environment and VA Profile's QA environment.
+
+**Will any of my configurations differ by environment?**
+- Template id(s), Service id, and API Key differ by environment.
+
+**Is there anything our team can use for local testing to get familiar with VA Notify prior to building the notification trigger code?**
+- We have [postman collections](https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman) that can be used for testing
+
+**Tips for using Postman!**
+You must populate the following variables:
+- service-api-key = [api key we provided via encrypted email]
+- service-id = [id for your service in the Self Service Portal, we can provide this to you]
+- sms-sender-id = [this will be provided to you if you are using SMS]
+    - Helps identify what phone number to send from along with other relevant metadata
+- template-id = [template id, which you can find in the Self Service Portal]
+    - Check which variable is referenced in the applicable POST
+- email-template-id = [template id, which you can find in the Self Service Portal]
+    - Check which variable is referenced in the applicable POST
+- sms-template-id = [template id, which you can find in the Self Service Portal]
+    - Check which variable is referenced in the applicable POST
+
+**Sample Email request with personalisation**
+`{{notification-api-url}}/v2/notifications/email`
+
+    {
+       "template_id": "{{email-template-id}}",
+       "email_address": "sample@gmail.com",
+       "personalisation": {
+           "Name": "Jane"
+       }
+    }
 
 
-## Incident Response ##
-Points of contact:
-* Lead: [Kyle MacMillan](mailto://kyle.macmillan@oddball.io)
-* Product Manager: [Melanie Jones](mailto://melanie.jones@oddball.io)
-
-## Terms and Conditions
-Please refer to the VA's [Digital Notification Terms and Conditions](https://www.va.gov/privacy-policy/digital-notifications-terms-and-conditions/) page to read about the VA's frequency, guidelines and policies around email, text, and online notifications to Veterans.
+**Sample SMS request with personalisation**
+`{{notification-api-url}}/v2/notifications/sms`
+   
+    {
+       "template_id": "{{template-id}}",
+       "phone_number": "+11234567890",
+       "sms_sender_id": "{{sms-sender-id}}",
+       "personalisation": {
+           "Name": "Jane"
+       }
+    }
