@@ -1,0 +1,1083 @@
+[Jessica (moderator)] 08:50:38
+That's captions.
+
+[Jessica (moderator)] 09:12:18
+Hello, can you hear me okay?
+
+[Jessica (moderator)] 09:12:52
+See it says you connected to audio. Can you hear me better now?
+
+[P1] 09:13:46
+When you know
+
+[Jessica (moderator)] 09:13:50
+Yes, I can. I was reaching out for tech support, but yes, I can hear you.
+
+[P1] 09:13:57
+Sorry about all this. Should have been ready.
+
+[Jessica (moderator)] 09:14:00
+No worries at all. We have time, so. Yeah, whatever you're situated and ready, just Let me know.
+
+[P1] 09:14:08
+I'm ready.
+
+[Jessica (moderator)] 09:14:10
+Cool. Okay. Well, thank you for joining us today and battling through all of the Zoom tech issues.
+
+[Jessica (moderator)] 09:14:17
+We appreciate it. My name is Jessica and we do have a couple. Observers will be, will get to them in a minute, but I have a couple other colleagues in the Zoom waiting room who would like to observe and take notes for us, but before we get to them, I just want to kind of give a background of what we're doing today.
+
+[Jessica (moderator)] 09:14:32
+So. Today we're going to talk about the health care application process and your various benefit options and what that means to you.
+
+[Jessica (moderator)] 09:14:40
+So before we start. A couple things I want to mention. This entire session should take more than an hour and I'll make sure I kind of.
+
+[Jessica (moderator)] 09:14:48
+Prompt us along if we need to. I don't want to keep you over the hour mark. And respectful of your time there.
+
+[Jessica (moderator)] 09:14:55
+In this session, we want to hear your honest opinions. We're not testing your ability.
+
+[Jessica (moderator)] 09:15:01
+We're kind of just gating ideas and really want to understand your thinking process. So we can improve these tools to better meet veterans needs.
+
+[Jessica (moderator)] 09:15:07
+So, will not be offended by any opinions you express and we really welcome whatever honest feedback you can share with us.
+
+[Jessica (moderator)] 09:15:15
+If for any reason at any time during this session you would like to stop just let me know. We'll stop no questions ask and you'll still be compensated no matter how much of the session that we complete today.
+
+[Jessica (moderator)] 09:15:26
+And now back to those observers I had mentioned. So, Perigian did ask for your consent to allow observers, but I want to make sure before you get going.
+
+[Jessica (moderator)] 09:15:35
+Are you still okay with a couple of additional observers for today?
+
+[P1] 09:15:38
+Oh yeah. Right now, I don't know what all this entailed. But yeah, we can.
+
+[Jessica (moderator)] 09:15:40
+Okay.
+
+[Jessica (moderator)] 09:15:46
+Yeah.
+
+[P1] 09:15:47
+Do a couple of observers, I guess. Right. The way I'm feeling the more.
+
+[Jessica (moderator)] 09:15:49
+Okay.
+
+[P1] 09:15:53
+People involved the More likely it is to address some of my concerns. That some of my concerns that our address might be addressed by the powers that be.
+
+[P1] 09:16:06
+And that's what I'm looking for.
+
+[Jessica (moderator)] 09:16:09
+Got it. Well, we do have 3 observers here, so we'll kind of just let them listen and if any time you don't feel comfortable just say so and we can.
+
+[P1] 09:16:20
+Okay.
+
+[Jessica (moderator)] 09:16:21
+Have them move out or what? Why whatever you feel comfortable with.
+
+[P1] 09:16:24
+Where are they from by the way? Who are they?
+
+[Jessica (moderator)] 09:16:28
+They're just a couple of members of the team that are just gonna help take notes.
+
+[P1] 09:16:31
+Okay, alright, that's right.
+
+[Jessica (moderator)] 09:16:33
+Okay. So I will admit them now.
+
+[Jessica (moderator)] 09:16:42
+Okay.
+
+[Jessica (moderator)] 09:16:47
+And our observers are Is there logging on? I am going to ask each one of them to.
+
+[Jessica (moderator)] 09:16:56
+Briefly, turn on their camera and just do a brief introduction with their first name and their position at VA.
+
+[Jessica (moderator)] 09:17:03
+Gov and then we'll have them turn their cameras off to save bandwidth. So.
+
+[P1] 09:17:07
+Okay.
+
+[Jessica (moderator)] 09:17:07
+Observers, when you're ready, could you please introduce yourselves? Starting with you.
+
+[Hieu Vo] 09:17:14
+Hi, I'm Hugh. I am a UX, designer and researcher.
+
+[Hieu Vo] 09:17:19
+I worked with Jessica on the kind of health care. Application to.
+
+[P1] 09:17:26
+Okay.
+
+[Jessica (moderator)] 09:17:30
+Lecture?
+
+[Fletcher Bonds] 09:17:32
+Hi, my name is Sletcher. I'm a senior QA. Engineer on the health applications team.
+
+[Jessica (moderator)] 09:17:43
+And our last observer for today is Amanda.
+
+[Amanda Scully] 09:17:54
+Good morning, afternoon. My name is Amanda Scully. I am the . Thank you
+
+[Jessica (moderator)] 09:18:03
+Thank you observers. So now we'll kind of move along with our session today. So.
+
+[Jessica (moderator)] 09:18:09
+I want to ask if you're comfortable if I record my screen and audio as we talk today. And just so you know, kind of some background before you answer, we use these recordings to confirm that we've captured your opinions accurately and our notes are correct.
+
+[Jessica (moderator)] 09:18:23
+The recordings are destroyed after we complete the analysis and none of your comments will be attributed to you directly.
+
+[Jessica (moderator)] 09:18:29
+We either report findings in groups like 5 out of 10 of participants said this, or if we quote anything that you say, we give you a participant ID like PS.
+
+[Jessica (moderator)] 09:18:39
+So kind of knowing that background, are you comfortable if I record my screen and audio as we talk today?
+
+[P1] 09:18:44
+Yes, ma'am.
+
+[Jessica (moderator)] 09:18:45
+Okay, and once I start recording, I'm going to just confirm again on the recording.
+
+[Jessica (moderator)] 09:18:54
+Okay, I have started the recording, so I'm just gonna confirm. Are you comfortable if I record my screen and audio as we talk today?
+
+[P1] 09:19:00
+Yes, I am.
+
+[Jessica (moderator)] 09:19:02
+Okay, thank you. Now we are all through the logistics and the setup so we can get on with these few questions that we have for you.
+
+[Jessica (moderator)] 09:19:11
+So when was our first question and warm-up question we want to start with is when was your last appointment at a VA facility when you were seen for medical reasons.
+
+[P1] 09:19:19
+At the VA.
+
+[Jessica (moderator)] 09:19:21
+Yes.
+
+[Jessica (moderator)] 09:19:28
+An estimate like is within few months here.
+
+[P1] 09:19:30
+Man. It was last week. I'm being treated for prostate cancer.
+
+[P1] 09:19:37
+I had to take a Hormone check. What day?
+
+[Jessica (moderator)] 09:19:40
+Oh, sorry to hear that.
+
+[Jessica (moderator)] 09:19:43
+Okay.
+
+[P1] 09:19:45
+They, I wanna say Thursday. But it was one day last week. Towards.
+
+[Jessica (moderator)] 09:19:47
+Okay.
+
+[Jessica (moderator)] 09:19:51
+Got it. Got it. And are you currently in enrolled for VA healthcare?
+
+[P1] 09:19:57
+Yes, I am.
+
+[Jessica (moderator)] 09:19:58
+Okay. Can you tell me your experience about kind of getting set up for that first appointment at a VA facility when you were and rolling and signing up.
+
+[P1] 09:20:09
+Oh That was many, many, many, many years ago here in Ann Arbor. I had been.
+
+[P1] 09:20:19
+To the VA and Jackson, Mississippi. But then I moved to move back here, move back to Michigan.
+
+[P1] 09:20:28
+In 84. And I think my first encounter with the VA here.
+
+[P1] 09:20:40
+Happened around 85. And that was an all day job.
+
+[Jessica (moderator)] 09:20:45
+Oh wow, okay. So I guess thinking back a little bit, I know this is a long time and a go now.
+
+[Jessica (moderator)] 09:20:54
+Can you explain to me in your own words the process which you were applying? For benefits.
+
+[P1] 09:21:00
+Well, not okay. It was applying for
+
+[P1] 09:21:07
+It was applying for it was trying to get a treatment. For a particular issue, okay, a particular medical issue.
+
+[P1] 09:21:16
+And if you had, say if you had an appointment to see. A doctor or we would go to what they call urgent care.
+
+[P1] 09:21:28
+Emergency, cause usually that would back then, you know, being young. You didn't really go to the doctor on a regular basis.
+
+[P1] 09:21:37
+On the VA, okay. So what I would do is I would go. I came down here from Blitz.
+
+[P1] 09:21:45
+I lived in Flint, Michigan. So I came here to Ann Arbor. To see a doctor.
+
+[P1] 09:21:53
+And I got here early in the morning. And it kind of lasted pretty much. It was like about 3 or 40'clock before I could leave.
+
+[P1] 09:22:02
+To go back to plan. So. That was a long cat.
+
+[Jessica (moderator)] 09:22:07
+Yes, it was. Kind of memory thanks, but do you remember if you filled out a paper application or anything online for VA health care.
+
+[Jessica (moderator)] 09:22:17
+Recently before you were seen?
+
+[P1] 09:22:17
+Do it. Doing that time. We, well, I didn't know what that was to fill out anything online.
+
+[Jessica (moderator)] 09:22:21
+Yeah, probably paper, but.
+
+[P1] 09:22:28
+Now, what I done was in, being released from military, I Go up. I gotta take this, please.
+
+[P1] 09:22:41
+Can we pause this?
+
+[Jessica (moderator)] 09:22:42
+Yes, that's OK.
+
+[P1] 09:22:45
+Hello.
+
+[Jessica (moderator)] 09:22:47
+And I can mute you for a second.
+
+[P1] 09:22:49
+Yes it is.
+
+[P1] 09:24:40
+Okay, I'm unmuted.
+
+[Jessica (moderator)] 09:24:43
+Okay, I just wanted to give you a minute to handle all of that. So.
+
+[P1] 09:24:47
+Right click on start video.
+
+[Jessica (moderator)] 09:24:51
+No, it's all good. It's still going. We just had your, I just muted all of that.
+
+[Jessica (moderator)] 09:24:57
+So all of nothing was on there.
+
+[P1] 09:24:57
+Thank you. I'm sorry about that.
+
+[Jessica (moderator)] 09:24:59
+Oh, no worries at all. Okay, do you need a minute or are you ready to continue?
+
+[P1] 09:25:03
+Ready.
+
+[Jessica (moderator)] 09:25:04
+Okay, so I'll try to figure out where we left off. So thinking back to that current application process and how you're using benefits today.
+
+[Jessica (moderator)] 09:25:13
+Is there anything about that process that was confusing? Or difficult for you?
+
+[P1] 09:25:23
+Not really once I understood, but now I told you about an episode back in, 85.
+
+[P1] 09:25:32
+I guess the first time I really I had a piece of the V. Like I've got now was when I came back, I moved to Chicago and I came back here in 90 came back to Michigan in 93.
+
+[P1] 09:25:49
+And in 90, well, somewhere around 93 or 94 is when I first came down here.
+
+[P1] 09:25:57
+Okay. And I was here for. Alcohol treatment. I was in the hospital for about 6 weeks at least.
+
+[P1] 09:26:08
+Okay, that's when I ended up moving to and off. Because I was coming from Flint.
+
+[P1] 09:26:14
+I had no transportation. I had to take the shuttle down here from Flick. I ended up down here, ended up being admitted to the hospital.
+
+[P1] 09:26:25
+For the 6 week program. I was enrolled in something called,
+
+[P1] 09:26:34
+Oh, it was a work study program. Well, it was alcohol treatment, but you did. So, you after you got out of the program you enrolled in a particular but as far as the paperwork is concerned it was tedious but It was pretty much understandable.
+
+[P1] 09:26:52
+I'll put it that way. If that answers you quote.
+
+[Jessica (moderator)] 09:26:56
+Okay, that does help. Thank you. Kind of when it comes to kind of your recollection when it comes to registering and health care at the VA, can you?
+
+[Jessica (moderator)] 09:27:06
+Tell us what that means to you.
+
+[P1] 09:27:09
+It means to me now it's a lot I would imagine it's a lot easier because some of the records that I have, although I'm trying to get disability, now I've been trying for years and years.
+
+[P1] 09:27:26
+Since that initial time down here. It
+
+[P1] 09:27:36
+If you can't, if they can't find the record of it, they believe, they don't believe it happened.
+
+[P1] 09:27:43
+And that's very frustrating. That's very frustrating to me as a vet. I talked the other bit where that's very frustrating.
+
+[P1] 09:27:51
+See because they've got this new thing called the Packdac now. And a lot of it is supposedly about pre presumptive.
+
+[P1] 09:28:03
+Ways that you could contract something like I'm going through prostate cancer now Nobody in my family has ever had prostate cancer.
+
+[P1] 09:28:13
+That's paternal little material side of side of the family. So it's,
+
+[P1] 09:28:22
+If it's difficult in that way.
+
+[P1] 09:28:26
+But because And I hate to say it like this. It seems as though the more technological we become in doing in doing things, processing stuff.
+
+[P1] 09:28:37
+Like, back in the day, we had to go. To the VA, sit down with somebody and they would put in all your information, okay?
+
+[P1] 09:28:46
+Now you suppose are able to do it yourself through my healthy bed and you could supposedly get a notification, feel your prescriptions online, you could do make appointments or check on your appointments online.
+
+[P1] 09:29:05
+We'll see for for people that's not as computer savvy. Or for people as not computer savvy like myself.
+
+[P1] 09:29:13
+A lot of that gets to be very frustrating. Like this morning. About, you know, making sure the thing was updated and all this good stuff.
+
+[P1] 09:29:23
+And it seems as though the more technological we become, the more And that we get. You know, because I've had Thank you.
+
+[P1] 09:29:36
+Colonoscopies.
+
+[P1] 09:29:39
+After I was diagnosed in 2,007. With cats, prostate cancer. After I was treated and everything worked out.
+
+[P1] 09:29:49
+I was. Scared you or or told I would have to have a cold nastry I think every 6 months I think it was okay been kinda long time whatever.
+
+[P1] 09:30:01
+Recollection but some things I recollect very well by the way But in scheduling a colonoscopy.
+
+[P1] 09:30:12
+What are the requirements of the DA is is that you have to have Some body to bring you to the appointment.
+
+[P1] 09:30:21
+To stay to to check in with you. To stay here the entire time you are going through the. First, then to be responsible for getting you home.
+
+[P1] 09:30:35
+Oh, only one problem with that. When you don't have that person available in your life. Or you're, I'm the only relative I got here in A.
+
+[P1] 09:30:46
+So I don't have any relatives. I've had friends that was going to volunteer and do this, but at the last minute when they understood the process or when they understood the response that they are taking on.
+
+[P1] 09:30:58
+They said, no, we don't want that. We can't do that. They found some reason to renege.
+
+[P1] 09:31:04
+I've tried to explain this to the VA, okay? I've tried to explain, I don't have anybody like this.
+
+[P1] 09:31:11
+Can you put me in the hospital? Okay, this is the hospital. I'm not out of clinic.
+
+[P1] 09:31:17
+I moved from Flick to avoid the clinic to come down here because you when I went to the clinic there they had to send me down here anyway.
+
+[P1] 09:31:26
+So I moved down here to get away from all that. All right, here I am here. I'm at this big old hospital.
+
+[P1] 09:31:32
+Every time I look up they build in something different, yet they can't find a bed to put me in overnight for the procedure because they're putting me, they're anesthetizing me.
+
+[P1] 09:31:42
+And they don't want me to go home to the same day of the procedure or if I go home some responsible adult has to take me there.
+
+[P1] 09:31:51
+Even though I'm willing to send waver saying that, hey, let me go home, okay?
+
+[P1] 09:31:58
+I'll take on the responsibility myself. I just need to get the colored knots to be doing.
+
+[P1] 09:32:02
+You're gonna keep me in the recovery room till I Excuse me for putting it this way. You're gonna keep me in the recovery room until I I I can bark Okay.
+
+[P1] 09:32:14
+And but you you don't want me to go home on my own.
+
+[Jessica (moderator)] 09:32:19
+Sounds really frustrating and difficult. Thank you for sharing all that.
+
+[P1] 09:32:21
+Well, it's frustrating. They don't want the responsibility if something happens to me. After that league at the hospital if something happens to me but see if I got somebody Taken me home.
+
+[P1] 09:32:36
+And a responsible adult. Then the responsibility is on them. The DA is.
+
+[P1] 09:32:44
+Alleviated of all responsibility. Was that a dog signs me out? Or was that a dog puts its Don Hancock on the on the forearm saying, okay, I'm gonna get this guy home.
+
+[P1] 09:32:55
+And see that is frustrating. But see, there are other things as well because I, you know, I kept mentioning the fact that This is the hospital.
+
+[P1] 09:33:05
+Well, if you are hospital and you don't have any beds, why do you call yourself?
+
+[P1] 09:33:10
+As a medical facility. So that.
+
+[P1] 09:33:16
+And I hope that ask you question because I have a tendency to ramble sometimes.
+
+[Jessica (moderator)] 09:33:21
+That is okay. What kind of? Redirected kind of after sharing all of that. And Curious to know more about, I think you've been using your health care benefits and And it was a long time ago since.
+
+[Jessica (moderator)] 09:33:33
+You applied. Have you done any updates or Have you gotten any more information about like how you understand your benefits or can you talk to me about I guess how you understand your BA health care benefits today.
+
+[P1] 09:33:47
+So. And I have a, I have a cousin lives in North Carolina. He was what we call in the military a lifer.
+
+[P1] 09:33:56
+And he was also a counsel. He worked in the medical field at the VA. During his time in the military.
+
+[P1] 09:34:04
+And he understands a lot of these benefits he's been very helpful to me over the years because he understands a lot and how I need to go about applying this, that and the other.
+
+[P1] 09:34:14
+Well, getting benefits or understanding benefits. There are people you can talk to. But quite often I run into people, not recently.
+
+[P1] 09:34:28
+Maybe it's because I kind of avoid them like the plague or maybe I just ran into the right people.
+
+[P1] 09:34:35
+But back in the day, it was kind of like. You had a bunch of people who felt that they were doing you a favor by even waiting on you.
+
+[P1] 09:34:43
+Okay. That to me should be a no no. We hear all the stuff on TV about.
+
+[P1] 09:34:52
+Veterans and how We are supposed to be treated a certain way this bad any other but Quite often I ran into situations where it wasn't like that at the beginning.
+
+[P1] 09:35:05
+Not only the VA here, but the VA and Jackson because while I was away. The last time in 2,018, I had no less than 3 trips.
+
+[P1] 09:35:16
+To the VA emergency there because of a ear infection. And. The last the last time I went It was like an experience that, you know, that, Just had to be addressed.
+
+[P1] 09:35:33
+I had to talk to somebody about it some higher up about it the way I was treated. I was told by one of these.
+
+[P1] 09:35:41
+VA personnel, they're not a medical profession in mind. You wanted to admit, to suck it up.
+
+[P1] 09:35:49
+Now I'm in pain. I have a very low threshold to pay and I'm told by this young lady to suck it up.
+
+[P1] 09:35:56
+You know, I mean, that was just a little bit too much for me. So.
+
+[Jessica (moderator)] 09:36:01
+Sorry to hear that. Kind of, moving on, I know you've mentioned you rely on people a lot.
+
+[Jessica (moderator)] 09:36:09
+Kind of helping you through this. Is there? Kind of, I remember your tech comment of. That is challenging as well.
+
+[Jessica (moderator)] 09:36:15
+Is there any other resources you rely on to help figure out you figure out what you get with your VA healthcare benefits.
+
+[P1] 09:36:24
+There was one, I don't know if it's still available, but, Getting back to that colonnostopy thing.
+
+[P1] 09:36:32
+Now the first time, well not the first time, I think it might have been the second or third colder night because they would always manage.
+
+[P1] 09:36:41
+Somewhere at the last minute to find the beer to keep me in overnight. But then I got wind of a program, a White House.
+
+[P1] 09:36:51
+Hot line. I don't know if the previous administration started that a previous administration or because it was doing their their their time that I discovered that When Trump was president, I put it that way.
+
+[P1] 09:37:09
+I call the hotline because I was getting a run around with the scheduler now, a scheduler mind you.
+
+[P1] 09:37:16
+Not the medical professional themselves, but a scheduler. We don't have any bads available. So we can't keep you overnight.
+
+[P1] 09:37:27
+You can't keep me the night before or you can't keep me. The night of the procedure, the day of the procedure.
+
+[P1] 09:37:35
+Because we don't have any bit. Well, I was told to call that particular number. I called that number and Miss Jessica, before I could get off the phone, good.
+
+[P1] 09:37:46
+The VA was calling me telling me they found the bid.
+
+[P1] 09:37:52
+So. That was. And I've had that I've had to use that service at least 3 times.
+
+[P1] 09:38:01
+2 for colonoscopies and one for and here. Operation that I cause they wanted to do it as an outpatient procedure, but.
+
+[P1] 09:38:12
+You know, they were going to nest retirement. And see, that's when they require you to have somebody to
+
+[P1] 09:38:20
+Take your own after the provision.
+
+[Jessica (moderator)] 09:38:26
+Thank you for sharing that. As you mentioned you've been in rolled NVA health care for a while now.
+
+[Jessica (moderator)] 09:38:34
+Can you tell me about what priority group you're in for healthcare benefits now?
+
+[P1] 09:38:40
+I don't know a priority. I don't that Kind of new to me as forward priority group.
+
+[P1] 09:38:47
+But I usually get Is that go to urgent care? Which is kind of like ER. Okay.
+
+[P1] 09:38:56
+I get seen right away. You know, that same day. Now, they may send me home or give me an appointment for something and they might book somebody else, but usually I'm pretty pretty good as far as.
+
+[P1] 09:39:12
+Urgent care is concerned. But now some of the appointments with the. On instead of well with the COVID thing being what it was at that particular time.
+
+[P1] 09:39:25
+Some of it is.
+
+[P1] 09:39:29
+To me a little much because
+
+[P1] 09:39:35
+One of the things I wish the VA. Do, would do as far as prioritizing this, that and the other is concerned.
+
+[P1] 09:39:42
+You have a lot of veterans have to come is for down here from all the way from up in the upper peninsula.
+
+[P1] 09:39:52
+Drive down here.
+
+[Jessica (moderator)] 09:39:56
+Just the distance of facilities, is that what you mean?
+
+[P1] 09:39:58
+Well, to this VA. Now there are the clinics there are the hospitals who stand here like one of my cancer treatments or the cancer treatment that I'm going through now is that was the lady that was calling me about putting me in the hospital.
+
+[P1] 09:40:15
+I was supposed to go in on the 20 s. She's talking about going in on the 20 first, which is the Thursday.
+
+[P1] 09:40:21
+I got to stay there. Thursday, Friday, Saturday, Sunday. The procedure is Monday. Okay, then I gotta go back to the VA after the procedure.
+
+[P1] 09:40:31
+Now, You say, well, at the, the procedure is at the VA. No, it's not at the VA.
+
+[P1] 09:40:38
+It's at the U and M. Because the procedure that they're going to do for me They can't do it at the VA.
+
+[P1] 09:40:44
+It has to be done at the U of M. So they're going to transport me there. Now, initially when this was first
+
+[P1] 09:40:52
+I hope I don't get into trouble by saying they're talking about this, but initially when it was started.
+
+[P1] 09:40:58
+I was going to have to get my own way to the along with the other things that you're going to do.
+
+[P1] 09:41:08
+See, because there's a prep involved all for these these procedures. I have to clean my system out.
+
+[P1] 09:41:13
+I have to take certain medicines. Stop taking certain medicine. Takes other certain medicine. You can do that much better.
+
+[P1] 09:41:21
+A opposed to doing it at home. Even if I had a significant other, okay? Because they understand better at the hospital what you're supposed to do and what you're not supposed to do than those than you do here at home.
+
+[P1] 09:41:37
+Cause even though I've got a hand out the here, this, that and the other, it's still kind of complicated to remember what I'm supposed to do, how I'm supposed to do it when I'm supposed to do it, this that any other.
+
+[P1] 09:41:51
+Whereas if I'm in the hospital prior to the procedure. You gonna let me go home the day after the procedure, so, but now.
+
+[P1] 09:41:57
+I couldn't get I couldn't get a day at all. Now they're calling to ask me to come in even a day earlier.
+
+[P1] 09:42:04
+Now that they've scheduled a day, so you know it's. I don't know.
+
+[P1] 09:42:10
+If I just, if I fear off. Topic you can feel free to snatch me back on because I don't know if this this has to do with what you asked me about or not.
+
+[Jessica (moderator)] 09:42:21
+Hello, this is helpful right now. We're just really trying to understand your current process. How you understand current benefit options level with invading healthcare. And that's actually great.
+
+[Jessica (moderator)] 09:42:32
+So I'm gonna kind of transition us a bit and I will understand you applied for health care many years ago but.
+
+[Jessica (moderator)] 09:42:38
+Kind of put yourself in the mindset of how we can improve this for new people going forward. And I'd like you to describe like imagine in a perfect world and you're filling out this health care application.
+
+[Jessica (moderator)] 09:42:50
+How would you want the process to go for you in regards to learning what benefit options you're qualified for and applying for.
+
+[P1] 09:43:03
+I would probably like to see more. Stuff like this, maybe. 30 min.
+
+[P1] 09:43:16
+Video
+
+[P1] 09:43:20
+Of how to apply for this. This, that any other. Specifics.
+
+[P1] 09:43:28
+Okay, so you See the one benefit the one VA benefit that I didn't have when I got out was dental.
+
+[P1] 09:43:38
+I was an active duty long enough to receive dental. Okay, I got a hundred percent medical, but I don't have dinner.
+
+[P1] 09:43:45
+So it would be nice to know what I do have, what I don't have, you know.
+
+[P1] 09:43:51
+Rather than running up there with the toothache and not being able to see somebody or whatever. But a 30 min video, if we're going to do stuff like this, we might as well make it.
+
+[P1] 09:44:06
+Available or easy for a vet to maneuver. Okay.
+
+[Jessica (moderator)] 09:44:15
+Awesome. Thank you.
+
+[P1] 09:44:15
+I would like, I would like I would like to see that. But even more so.
+
+[P1] 09:44:27
+You 2 has a lot of videos about just about anything. If I wanna know how to cook a certain meal, I could go up there.
+
+[P1] 09:44:36
+I think the DA should have that health event is more maneuverable. Instead of Here's what I, here's what.
+
+[P1] 09:44:48
+Seemingly when I go to my healthy bed and I'm searching for something
+
+[P1] 09:44:54
+It's like. Decide is telling me here's what I think you're saying instead of what I'm specifically saying.
+
+[P1] 09:45:03
+That's the reason I don't like the chat. Okay, and when I have to give my information over and over again or I get jumped from this site to this site or from this person to this person.
+
+[P1] 09:45:18
+It, it's kind of frustrating. It's frustrating to have to. Okay. Get on the phone.
+
+[P1] 09:45:29
+Give him your last name, first name, and your last fourth. Last 4 of your search. See, we've gotten so technological.
+
+[P1] 09:45:39
+Back in the day it used to be your social security number or the last 4 you're so scared in them now is the last 4 of your Okay, Last name, first name, and more often than not.
+
+[P1] 09:45:54
+I'm 71 years old by the way. I get somebody that's maybe 2223 years old wanting to call me by my first name.
+
+[P1] 09:46:04
+I haven't pronounced my first name yet so they'll take liberties and say Mehemia.
+
+[P1] 09:46:10
+Isaiah. Me, me, me, Whatever happened to Mr. Thomas? I asked one young lady the other day I say, do you call Dr. Frank by her first name? Dr.
+
+[P1] 09:46:26
+Frank is my primary care, by the way. Do you call Dr. Frank by a first name? No, why should that matter?
+
+[P1] 09:46:32
+Because you're trying to call me by my first name. I'm 71 years old. You don't look like you number 1 21.
+
+[P1] 09:46:39
+25. Now I know that my team Totally, yeah, relevant to you. But see, I grew up in a day and age where Irish.
+
+[P1] 09:46:50
+Like my elders. And then we're talking about all this how we're supposed to respect veterans this that any other yet we here we are with somebody.
+
+[P1] 09:47:00
+They can't pronounce Nehemiah. But they want to use it.
+
+[P1] 09:47:07
+See, these are the kind of things that I wanted to be able to do in this particular setting. To I don't know where they're getting training from.
+
+[P1] 09:47:19
+I don't know what kind of training they're getting. But getting back to what what you originally asked about.
+
+[P1] 09:47:26
+I would like to see it. Be more manageable. And if you're not sure that it is.
+
+[P1] 09:47:36
+Set up, set up a place. Where you can go. And fill in information. Rather than a site like this.
+
+[P1] 09:47:46
+See because
+
+[P1] 09:47:48
+I was late getting on so I'm kind of pulling things out of as they come to me.
+
+[P1] 09:47:55
+What if we had a site like like we're doing now? Where we could just go and type in a suggestion, this, than the other.
+
+[P1] 09:48:05
+And if somebody on the other end reading this or looking at this they could come back and say okay we're not sure what you're talking about.
+
+[P1] 09:48:11
+Let's do it this way. If we're going to use the technology. See, because in all fairness to the VA, they've come a long ways.
+
+[P1] 09:48:20
+From the first time that I ever came down here to where they are now. My appointments now, I'm usually seeing early.
+
+[P1] 09:48:29
+If I go in early, I usually get seen earlier. Whereas, like I said, it was an all-day job before.
+
+[P1] 09:48:35
+So You know, don't get me wrong, there's a lot of improvement. And. Seemingly, you have more consideration of the veterans now.
+
+[P1] 09:48:47
+Then. When I first started, but you still have. Some people. Active DA, so what I call the South End of a Northbound horse.
+
+[P1] 09:48:58
+And I realize customers can be that way too, but you know, I don't.
+
+[P1] 09:49:06
+But I don't like.
+
+[P1] 09:49:10
+So they're, but to improve the system or a good way to improve the system. Is to Get veteran feedback.
+
+[P1] 09:49:19
+Maybe like you're doing now.
+
+[Jessica (moderator)] 09:49:23
+Yeah, thank you for all that feedback. We're trying, so yeah, thank you for sharing all that your entire story.
+
+[P1] 09:49:24
+Get them. Yeah.
+
+[Jessica (moderator)] 09:49:30
+It's very helpful for us to hear.
+
+[P1] 09:49:32
+What seems like what seems like
+
+[P1] 09:49:36
+Easy pickings for you as far as Getting me or the lady that call me and got me set up in a hurry this that and the other
+
+[P1] 09:49:47
+Well, it's easy for you. To maneuver this. Because you're used to it.
+
+[P1] 09:49:54
+Most veterans are.
+
+[P1] 09:49:58
+Okay.
+
+[P1] 09:50:02
+I got to. Guard. When I was in the military, I got to guard. Neil 1 billion dollar aircraft.
+
+[P1] 09:50:15
+Equipment. I can even handle some of it, okay? But when I got out of the military and tried to get a job.
+
+[P1] 09:50:25
+In the career field that I was in and in the military. The best I could do would be a mall cop.
+
+[Jessica (moderator)] 09:50:38
+That's really difficult. Thank you for sharing so much. Sorry. Okay, so I think For now, we're gonna kind of, I wanna be in respectful of your time as well and kind of shift us to the last topic we have and we want to touch base on today.
+
+[P1] 09:50:39
+Yeah, so.
+
+[Jessica (moderator)] 09:50:53
+So I'm going to share my screen with you and I'm going to show some instructions that go along with the health care benefits application and choosing a benefit type.
+
+[Jessica (moderator)] 09:51:03
+And I really want to get your feedback and you explain to your own words what these options mean. How they're different and what you would do.
+
+[P1] 09:51:11
+Okay.
+
+[Jessica (moderator)] 09:51:11
+So I'm going to share my screen now. And then let me know if it's Zoomed in enough for you if you need me to zoom in more at all Just go ahead and save.
+
+[P1] 09:51:22
+I'm good.
+
+[Jessica (moderator)] 09:51:24
+Okay, so yeah, if you could talk through these and instructions for me knowing kind of your experience of being with VA health care.
+
+[Jessica (moderator)] 09:51:33
+You're a lot of your experience with VA health care. And what it means to you and What you would choose in this instance if you were faced with this benefit option
+
+[P1] 09:51:48
+Okay, veteran applying for. Inrollment for the full medical benefit provide.
+
+[P1] 09:51:57
+Benefit package provided.
+
+[P1] 09:52:02
+Okay, must meet the yellow bill if you requirements.
+
+[P1] 09:52:13
+Okay, now the full medical benefits package provide. Provide in. Shouldn't that be provided?
+
+[Jessica (moderator)] 09:52:26
+Good feedback. Thank you.
+
+[P1] 09:52:29
+Okay. For enrollment for the full medical benefits package provide in 38 CFR.
+
+[P1] 09:52:39
+1 7.3 8 must meet the eligibility requirement of. So you got a different. Whatever the requirements are for the 36.
+
+[P1] 09:52:54
+If you go to apply for the package. In 38. See that's kind of frustrating.
+
+[P1] 09:53:02
+To me.
+
+[Jessica (moderator)] 09:53:04
+Yeah, can you tell me more about that? Much feedback you can provide is great.
+
+[P1] 09:53:09
+Why don't you, why don't you tell me what the full medical benefit package is.
+
+[P1] 09:53:16
+Or include that okay if you If you're applying. For the full medical benefit package. Okay.
+
+[P1] 09:53:28
+And I don't know that I'm applying for a full medical benefit package.
+
+[P1] 09:53:38
+Type of benefit applying for. Good type of benefit applying for it says enrollment. Okay. Am I applying for enrollment?
+
+[P1] 09:53:49
+Or am I trying to enroll?
+
+[P1] 09:53:53
+Registration.
+
+[P1] 09:53:58
+Why not just, okay, whatever the benefit is that I'm applying for, let's start with that.
+
+[P1] 09:54:10
+See it's okay. Yeah okay. If It's so much.
+
+[P1] 09:54:21
+Gobble the goop. And output it that way. That you need somebody to.
+
+[P1] 09:54:30
+Translate what this is actually saying.
+
+[P1] 09:54:34
+And that's the problem I find with the VA. A lot of this. Could be served up in 25 words or list and I'm a fine one to say that.
+
+[P1] 09:54:46
+But a lot of this could be thrown up in 25 words or less, but you going.
+
+[P1] 09:54:55
+It just too much.
+
+[P1] 09:55:01
+I'm applying for benefits. But now if I'm applying for the full medical benefit package That's provided.
+
+[P1] 09:55:12
+I guess they want to say provided in 38. Well, let's just say 38.
+
+[P1] 09:55:20
+And I got to meet the requirements. Of the requirements. Of 36.
+
+[P1] 09:55:32
+That makes absolutely no sense to me.
+
+[P1] 09:55:41
+Registration for registration only complete sections 1, 3, 1, 2, and 3. Enrollment not require.
+
+[P1] 09:55:50
+Oh man. Okay, in wrote now enrollments not require veterans requesting an eligibility assessment. Clinical evaluation.
+
+[P1] 09:56:00
+Care treatment pursuant.
+
+[P1] 09:56:03
+Pursuant to A special treatment of authority, Now we go into 37 so we got 36 37 and 38 And I still don't understand a darn thing because I don't know what 36 is the whatever whatever 36 reads like what does 37 read like what does 38 read like so that means in order for me to find out all of this or to proceed with all this
+
+[P1] 09:56:33
+I've got to go back or go somewhere else and find out. What this means. Now, I have a I have, but can you see my cursor?
+
+[Jessica (moderator)] 09:56:44
+Nope, I can't.
+
+[P1] 09:56:46
+Okay, put your cursor, put your cursor on. The first package provided for. Up in enrollment.
+
+[P1] 09:56:56
+Up and enrollment go down right there right there. Stop right there Now I have a Apple, on my, I studied Bible study.
+
+[P1] 09:57:07
+I have a Bible study, and I can go and highlight a certain word there and if that was highlighted.
+
+[P1] 09:57:14
+And then I could hover over with my cursor. And down at the bottom of the screen, up at the top of the screen, depending on where I.
+
+[P1] 09:57:23
+. It would show me it would show me what that particular word means in Greek and Hebrew. Okay, or in some other.
+
+[P1] 09:57:35
+Or some other thing about it. In other words, I don't have to.
+
+[P1] 09:57:41
+Pull up another screen. Okay, or jump to another tab or whatever the case risk losing my place here.
+
+[P1] 09:57:52
+Whatever I'm studying right here, I can stay right there on it and and just highlight it. Some of it I don't even have to highlight.
+
+[P1] 09:57:58
+I just put my curs on it and it automatically gives me a definition or whatever the case is. Okay.
+
+[P1] 09:58:08
+The A has a lot of money to spend. They have a lot of money to spend. They can make things a lot easier than what this is right here, okay?
+
+[P1] 09:58:17
+Type of benefit applying for the enrollment of it and the registration of it. I guess that's what that means.
+
+[P1] 09:58:24
+Okay, then it goes down to care for a veteran with the VA service connected disability rating of 50% of greater.
+
+[P1] 09:58:31
+Care for a VA rated service. Connected disability. Care for psychosis.
+
+[P1] 09:58:41
+See, somebody needs to be able to interpret all this, or it's going to be frustrating enough that Veterans don't know what they have available.
+
+[P1] 09:58:51
+Because a lot of this stuff looks great to us.
+
+[P1] 09:58:58
+And then you got the ones who do. Or who might understand.
+
+[P1] 09:59:08
+It's
+
+[P1] 09:59:11
+This to me looks like Greek, I'm sorry. There's, there's no other way I can.
+
+[P1] 09:59:16
+I don't know how to put it in the other way. Now.
+
+[Jessica (moderator)] 09:59:19
+Where is your feedback is helpful? Exactly what you're providing is helpful for us.
+
+[Jessica (moderator)] 09:59:26
+Yes.
+
+[P1] 09:59:26
+Okay, for a veteran, participated in VA, vocational rehabilitation.
+
+[P1] 09:59:34
+This This is how I understand with doubt of VSO officer or whatever. And even some of them, you know, they run into stuff that they've never seen before.
+
+[P1] 09:59:47
+And instead of telling you, see, one of the things that makes me angrier. They needed anything else.
+
+[P1] 09:59:54
+And I want this remembered.
+
+[P1] 09:59:58
+It excuse my terminology. It pisses me off to go in for a person. To not be able to say to me, I don't know.
+
+[P1] 10:00:11
+Don't tell me what you think. If you don't know something, tell me you don't know.
+
+[P1] 10:00:16
+I have much more respect for you when you tell me you don't know rather than to tell me something that ain't so.
+
+[Jessica (moderator)] 10:00:26
+Totally understandable.
+
+[P1] 10:00:27
+Let's face it, we don't know everything. Even Even the BSO officers or some of the people you run into or have to deal with and check in, check out or appointment making or whatever the case is.
+
+[P1] 10:00:46
+They just don't know a certain day. Well, if you don't know, say that.
+
+[P1] 10:00:50
+Don't make it seem like I'm the idiot here. Okay? Yeah. I can do that all by myself.
+
+[P1] 10:01:00
+So I don't need you to help me. You know, look even worse. By pretending you know something that you don't know.
+
+[Jessica (moderator)] 10:01:11
+Makes total sense. I think we are at our time and I want to be respectful of your hour, Mr. Thomas, and not keep you over, but.
+
+[P1] 10:01:12
+Okay.
+
+[Jessica (moderator)] 10:01:20
+I really do, we really do appreciate you taking the time to share so much with us today and all of your thoughts.
+
+[Jessica (moderator)] 10:01:26
+It really helps us understand. And the veterans point of view is they're filling out this VA healthcare application.
+
+[Jessica (moderator)] 10:01:32
+We're really work hard to continue to make the site work for veterans, so that's why we do these sessions.
+
+[Jessica (moderator)] 10:01:37
+So thank you to helping us iterate and think lastly I like to pair G and the one that recruited you and got you all set up and helped you through the zoom tech they'll be sending you a thank you note and a little blurb that you can pass along to any other veterans that you think might want to participate in these future research studies.
+
+[Jessica (moderator)] 10:01:54
+So. We can get their opinions to try and continue to improve. For veterans. So.
+
+[P1] 10:02:00
+Okay.
+
+[Jessica (moderator)] 10:02:00
+Thank you so much and I hope you enjoy the rest of your day. Yes.
+
+[P1] 10:02:04
+Thank you so much. Thank you. And I'm sorry about the year early on, but.
+
+[Jessica (moderator)] 10:02:09
+No worries at all. Thank you for your time.
+
+[P1] 10:02:11
+Alright. You too. Bye bye.
+
+[Jessica (moderator)] 10:02:13
+Have a great day. Bye.
+
