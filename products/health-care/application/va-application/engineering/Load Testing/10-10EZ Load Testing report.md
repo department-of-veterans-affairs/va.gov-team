@@ -81,7 +81,7 @@ We tested 249 requests at .42 requests per second with 5mb file attachment throu
 
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
-|POST v0/health_care_applications | 249| 16  |  0.42 request per second |
+|POST v0/health_care_applications | 249| 16  |  0.42/s |
 
 ### CPU load
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/4c2b7bed-0a2a-4e14-b2a1-767f3e717c30)
@@ -110,14 +110,13 @@ We tested 832 requests at 1.39 requests per second through the rating_info endpo
 
 | Endpoint           | # Requests | # Failures |  Requests / s |
 | ------------------ | ---------- | ---------- |  ------------ |
-|POST health_care_applications/rating_info | 832| 1  |  1.39 request per second |
+|POST health_care_applications/rating_info | 832| 1  |  1.39/s |
 
 ### cpu load
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/e0eb91cf-a63d-4bb7-85f6-32ce3ce13c94)
 
 ### latency
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/e1a1eea1-4b6e-4650-b649-23b78ed938cd)
-
 
 ### bytes sent
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/830084/0127009f-c0a4-4313-a19d-c714172ee8ba)
