@@ -4,7 +4,18 @@ Meeting Owner: Jennifer Brown
 Timing: Every second Wednesday 2:35 - 3:15pm 
 
 ---  
-**Demo Sprint 76 8/2/23** 
+**Demo Sprint 79 9/13/23** 
+Agenda
+- Demo Topic(s)
+  -  Design System: documentation and component progress
+
+
+- Slides - [Sprint 79 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12600941/Sprint.79.-.VA.Mobile.App.Demo.Slides.pdf)
+
+- Video - (too large to upload)
+
+---  
+**Demo Sprint 78 8/30/23** 
 Agenda
 - Demo Topic(s)
   -  Deep Linking (Stacy and Theo)
@@ -15,8 +26,18 @@ Agenda
 
 - Video - https://github.com/department-of-veterans-affairs/va.gov-team/assets/93945676/1920e5fe-24f9-4d02-a327-8f81900e42f1
 
-
 ---  
+**Demo Sprint 77 8/16/23** 
+Agenda
+- Demo Topic(s)
+  -  Veteran Status
+
+
+- Slides - [Sprint 77 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12600991/Sprint.77.-.VA.Mobile.App.Demo.Slides.pdf)
+
+- Video - https://github.com/department-of-veterans-affairs/va.gov-team/assets/93945676/1920e5fe-24f9-4d02-a327-8f81900e42f1
+
+----  
 **Demo Sprint 76 8/2/23** 
 Agenda
 - Demo Topic(s)
