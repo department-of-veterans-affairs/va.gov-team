@@ -1,7 +1,7 @@
 # Manual-UI Test Plan - After Visit Summmary
 
 ## Project Summary Epic [#57980](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/57980) 
-Adding the link to the after visit summary for on the past appointmnent details page. 
+Adding the After Visit Summary feature in the application tool to allow the Veteran to view the summary of their visit with the provider. 
 
 ## Business Rules (more details can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#appointments-list))
 On the VAOS homepage, the app displays the following for each status: 
