@@ -12,7 +12,9 @@ VA has prioritized investment in adoption of Login.gov. Login.gov currently offe
     - Further, ~27% of applicants abandon the process without even attempting to upload their documents.
 - The draft revision 4 of NIST 800-63 is indicating that an in-person proofing option is required to meet IAL2.
 VA has more intimacy with Veterans and their community compared to CSPs that act as a shared service to the entire US population. VA also has access to information that facilitates identity proofing for Veterans.
-** How might we leverage VA’s intimacy with Veterans to provide simple, secure, and privacy-preserving in-person verification (and support) for Veterans (and their community)?** 
+
+**How might we leverage VA’s intimacy with Veterans to provide simple, secure, and privacy-preserving in-person verification (and support) for Veterans (and their community)?** 
+
 The following product brief outlines an approach for an initial pilot that:
 - Leverages existing data (MPI) and systems (Identity Toolkit) to facilitate identity verification for Veterans;
 - Complements those systems to ensure the IPP process meets upcoming rev 4 standards for IAL2;
