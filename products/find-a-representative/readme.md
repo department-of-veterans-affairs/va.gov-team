@@ -1,10 +1,10 @@
-# Accredited Representation Management
+# Accredited Representation Management (ARM)
 
 _Formerlly known as Find a Representative (FAR)_
 
 This product is being revisited in 2023 with the goal of migrating the Veteran experience around finding a representative from the legacy eBenefits platform, to VA.gov.
 
-The Accredited Representation Management team is part of the Accredited Reps Crew in the OCTO Benefits Portfolio.
+The Accredited Representation Management (ARM) team is part of the Accredited Reps Crew in the OCTO Benefits Portfolio.
 
 ## Product Development
 
