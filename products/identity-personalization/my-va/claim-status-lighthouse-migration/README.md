@@ -86,6 +86,7 @@ Stats based on the [My VA Domo dashboard](https://va-gov.domo.com/page/116785193
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |% of successful retrievals|91%|99%|97%|98%||||
 |% of failed retrievals|9%|1%|3%|2%||||
+
 Note: On Sept 12, 2023, the migration to Lighthouse needed to be rolled back so that the CST on My VA was again calling EVSS. The benefits team found an issue in the CST that they need to resolve before we can again point to Lighthouse.
 
 ## Key deliverables
