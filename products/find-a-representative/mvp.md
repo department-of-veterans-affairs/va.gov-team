@@ -1,6 +1,8 @@
-# Find a Rep MVP
+# Accredited Representation Management MVP
 
-Find a Rep MVP will include desktop & mobile experiences
+_Formally known as "Find a Representative"_
+
+The Accredited Representation Management MVP will include desktop & mobile experiences
 
 ## MVP
 
