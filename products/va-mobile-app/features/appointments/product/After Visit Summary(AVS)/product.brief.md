@@ -49,7 +49,11 @@ Today, select Veterans and caregivers receive After Visit Summaries following th
 ## Mobile Intent/Goals
 
 
-**Problem Statement**
+**Veteran task to be done**
+
+Veterans are able to use the VA: Health and Benefits app, to easilty access a summary of what was discussed and decided at their appointment.
+
+- Veterans are able to review after summary list for a given appointment in which AVS is available
 
 
 
@@ -70,12 +74,27 @@ Today, select Veterans and caregivers receive After Visit Summaries following th
 
 **Measuring success**
 
+- Objective: Ensure users can easily find their After Visit Summary report on the mobile app
+- Objective: Ensure product feature functions properly
 	
-
 
 **Stakeholders**
 
+Mobile:
 
+- Rachel Han - Mobile Product Owner
+- Ryan Thurlwell - Mobile Product/Design Lead
+
+
+Web: 
+
+- Kay Lawyer - OCTO Product Lead, katherine.lawyer@va.gov
+- Kristen McConnell - OCTO UX Lead, kristen.mcconnell@va.gov
+- Adrian Rollett - OCTO Engineering Lead, adrian.rollett@va.gov
+- Nina Anusavice - UX Designer, Nina.Anusavice@va.gov
+- Jeff Roof - Appointments, Product Manager (Ad Hoc)
+- Leah De La Costa - Appointments, Product Manager (Ad Hoc)
+- Peter Russo (Appointments, Design Lead (Ad Hoc)
 
 **Important Links**
 
