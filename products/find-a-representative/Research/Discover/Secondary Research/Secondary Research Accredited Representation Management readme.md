@@ -65,8 +65,9 @@ Clearly defined user and process needs to inform the digital Accredited Represen
 # Methodology
 Secondary research to be completed using existing resources:
 1. [VA GitHub Research Repository](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1)
-2. [Reddit: Veteran Benefits Sub](https://www.reddit.com/r/VeteransBenefits/)
-3. [VA.gov](https://www.va.gov/)
+2. [VA VA GitHub Benefits & Appeals Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research)
+3. [Reddit: Veteran Benefits Sub](https://www.reddit.com/r/VeteransBenefits/)
+4. [VA.gov](https://www.va.gov/)
 
 Any questions unable to be answered through Secondary Research are recommended to be answered through Primary Research (interviews or user tests) with Veterans and Representatives for user questions, and SME interviews for VA questions.
 
@@ -149,141 +150,167 @@ Any questions unable to be answered through Secondary Research are recommended t
 
 ## Rep Process Details of Findings
 1. The most commonly mentioned representative challenge was navigating their **extensive caseloads**.
-VSOs have identified personnel shortages as a challenge in proactively assisting Veterans with their claims. Additionally, variations in access to resources, including accredited representatives, emphasizes the need to ensure VA accessibility across all regions. For instance, a county VSO in an urban setting mentioned having just 10 representatives to serve 50,000 Veterans.
-2022/11 VSOs Frequently Asked Questions
-2020/12 Notice of Disagreement (NOD) VSOs Discovery Research
-2019/01 Benefits Claim Status Research with VSOs
-Since Veteran Law is federal law, and there are limited specialized firms nationwide, attorneys and claims agents often handle hundreds, if not thousands, of clients. They tend to work in teams, but the VA's restriction to a single Power of Attorney (PoA) prevents support teams from accessing Veteran information needed to assist the attorney or claims agent. This is a major pain point that distracts from the work of representing Veterans.
- 2021/04 Power of Attorney VSO Research Report F3
-2020/12 Notice of Disagreement (NOD) VSOs Discovery Research
-Representatives face persistent difficulties in navigating documentation within the VA ecosystem, regardless of the particular process or paperwork involved. These challenges can lead to negative impacts on the quality and timeline of document processing.
-Across initial claims, decision reviews, supplemental claims, and power of attorney there were common themes of document errors including:
-Most common were signature errors; missing signatures from Veterans and representatives, signatures appearing questionable, or signatures from representatives who are not authorized
-Lack of complete documentation or over documentation
-Typos, misspellings, and extra spaces that systems cannot read or understand
-Information not matching official records
-Incorrect form submission
-2021/09 Supplemental Claims Discovery F2
-2021/06 HLR Opt-In Legacy Issues F1
-2020/09 Notice of Disagreement (NOD) SME Interviews
-2019/10 VSOs Appeals (HLR) Discovery Research F3
-2019/09 Claims Establishment Discovery Research S21 & S 22
-Importantly, documents with only representative signatures can delay rating decisions as they fail to fulfill the Duty to Assist requirement. In such cases, VA sends a notice to the Veteran, imposing a 30-day hold on the claim, during which it can be developed but not rated until either the 30 days pass or the Veteran returns the 5103 Response Waiver.
-2021/09 Supplemental Claims Discovery F1
-2021/06 HLR Opt-In Legacy Issues F1
-Power of Attorney (PoA) introduces its own set of challenges, often stemming from inconsistent information management and a lack of notifications.
-In the intake process for 21-22 forms, there are common issues such as mislabeling or incorrect labeling as correspondence. Furthermore, there appears to be no streamlined method for tracking or modifying Power of Attorney (PoA) information, including editing representative addresses and contact details. This necessitates manual notification to multiple entities (VBA, BVA, OGC) for address updates to reflect across various systems, leading to instances where PoA attorneys and claims agents miss critical correspondence, including decisions.
-2019/09 Claims Establishment Discovery Research S22
-2017 Power of Attorney: A Discovery Sprint S19, 20, 22
-Representatives frequently experience unexpected loss of PoA without notification, typically due to the Veteran or another representative filing for new representation without realizing it’ll revoke current representation access. This abrupt loss of access not only restricts representatives from logging into VBMS but also ceases their receipt of important Veterans' claim-related communications. Additionally, it can lead to situations where representatives without PoA access continue to receive notifications for claims they shouldn't be involved with. In the worst-case scenario, these sudden changes can even result in attorneys and claims agents not receiving payment for their services.
-2021/04 Power of Attorney VSO Research Report F2
-2020/12 Notice of Disagreement (NOD) VSOs Discovery Research
-2017 Power of Attorney: A Discovery Sprint S21 & S24
-2016/07 Benefits Application Research with VSOs
-Additional Insights
-About Representatives
-What benefits can representatives support?
-Compensation, education, Veteran readiness and employment, home loans, life insurance, pension, health care, and burial
-VA.gov Accredited Representatives
-Are all representatives brought on as Power of Attorney (PoA)?
-All representative participants mentioned that they typically secure and submit the PoA when they engage a new client.
-2021/08 Veteran Representative Claims Assistance Research
-2020/12 Notice of Disagreement (NOD) VSOs Discovery Research
-Extent of Authority
-A representative is authorized to prepare, present, and prosecute a claimant’s claim and has the authority to
-review the claimant’s records
-present evidence on behalf of the claimant
-sign an informal claim, a notice of disagreement (NOD), or a substantive appeal on behalf of the claimant, and
-withdraw an appeal.
-VA.gov General Information on Power of Attorney (POA) Overview
-Representatives cannot sign for an original claim. If it’s an increase or a subsequent claim, the representative can sign for the Veteran.
-Note: There are two systems that digitize Veterans signatures today: VetPro and VetraSpec.
-2023/01 Desk Research 526EZ Signatures
-What systems are used to manage PoA?
-Veteran Service Representatives (VSRs) review the PoAs submitted and update the information when they start working on a claim. If the PoA is submitted through the Centralized Mail Portal, a Claims Agent will establish it in VBMS.
-2021/04 Power of Attorney VSO Research Report
-[VSOs use VBMS to] assign representatives.
-2021/04 Power of Attorney VSO Research Report
-What systems can a Representative use?
-The PoA process triggers access to the Veteran’s records. Representatives can directly submit POA forms to VBMS through D2D and SEP.
-2021/04 Power of Attorney VSO Research Report
-What is the difference between each representative (VSO, attorney, claims agent)?
-VSO
-VA-recognized and accredited
-Free to Veterans and their families
-Helps gather any evidence to submit a Fully Developed Claim
-Can correspond with the VA about the Veterans claim on their behalf
-Many VSOs also sponsor a range of Veteran-centric programs such as providing transportation to and from VA medical center appointments, funds and volunteers for disaster relief, and grants.
-VSOs also lobby Congress on behalf of issues facing Veterans and help support requests for resources needed by VA to better serve Veterans, their families, and survivors.
-VA.gov Accredited Representatives
-Not all recognized VSOs provide accredited representatives and must advise Veterans on how to find accredited representation to support in PoA.
-2022/11 VSOs Frequently Asked Questions
-Attorney & Claims Agent
-Typically perform their representation after the VA has issued an initial decision on a claimant’s claim.
-This is when attorneys and claims agents are permitted to charge fees.
-At that stage of the adjudication process attorneys or claim agents may be helpful in further developing evidence in support of the Veterans claim and crafting persuasive and legal arguments on their behalf to submit to the VA.
-Both can assist in navigating the VA appeals process.
-VA.gov Accredited Representatives
-Attorney vs Claims Agent
-Claims agents are basically VSOs, but they function independently and are not usually associated with an authorized organization.
-Attorneys can provide similar service as claims agents and VSOs, but usually specialize in appeals and other higher-level dealings before the VA, the Board of Veterans Appeals (BVA), or other US Courts. Like claims agents, they also charge a fee, and so do not usually work on initial claims.
-Military Disability Made Easy
-What are the pros and cons of each representative?
-Note: These are collected from Reddit to see what opinions Veterans have of these groups. Would love any VA input on these.
-Pros: All
-Years of experience
-Access to up to date claim information/have VBMS access
-Can help build a successful claim leading to higher disability ratings
-Up to date knowledge on available claim options
-Pros: VSO
-Don’t charge fees
-Pros: Attorney
-Good for appeals
-More dedicated to the Veteran
-Cons: VSO
-Lack of responses or long wait times
-Some VSOs are volunteer based and lack training
-No consequence if actions impact the Veterans case
-Cons: Attorney
-Cost more
-Cons: Claims Agent
-Can be seen as ‘back alley’ operations
-Otherwise there isn’t a lot of information out there on claims agents
-Sources
-Reddit: Why you should have a VSO from a VSO
-Reddit: Are there pros and cons of using VSO?
-Do representatives work alone or on teams?
-Representation of a claim can take years, for this reason usually teams, not just individuals, work through the claim lifecycle.
-Attorneys and Claims Assistants rely on support staff to perform administrative tasks like tracking deadlines, securing evidence, uploading documentation, ensuring the claim makes it to the VA, troubleshooting, etc.
-2021/04 Power of Attorney VSO Research Report
-Which representatives can and cannot charge fees?
-VSO: It is important to know that VA-recognized VSOs, and their representatives, always provide their services on benefit claims free-of-charge.
-Attorneys & Claims Agents: Unlike VSOs, VA-accredited attorneys and agents may charge you a fee for their representation in appealing or requesting additional review of an adverse VA decision. Only VA-accredited attorneys and claims agents may charge you fees for assisting in a claim for VA benefits, and only after VA has issued an initial decision on the claim and they have complied with the power-of-attorney and the fee agreement requirements.
-VA.gov Accredited Representatives
-There are 3 types of appeals: Supplemental Review, Higher Level Review, and Decision Review Request
-2019/10 VSOs Appeals (HLR) Discovery Research
-Can representatives support Veterans remotely?
-VSOs: It does appear that VSOs can help Veterans remotely as it is mentioned on VSO websites and in press releases by the VA.
-Illinois Department of Veterans’ Affairs
-2022/06 Individuals Using the Department of Veterans Affairs' Information Technology Systems To Access Records Relevant to a Benefit Claim
-Attorneys and claims agents: Veteran Law is federal law, therefore attorneys can support Veterans anywhere in the country.
-2021/04 Power of Attorney VSO Research Report
-Veterans looking for remote access can vary. Some examples include; being homebound due to medical, looking for better support, or being overseas.
-Reddit: Medical Example
-Reddit: Overseas Example
-What accreditation is required for representatives? Is it nationwide or state specific?
-Governed by the Office of General Council (OGC), this process recognizes Veteran Service organizations, attorneys and claims agents as valid representatives. This is the first step to gain access to VA systems.
-VSOs work closely with the Office of General Council (OGC) to accredit their representatives. VSOs will provide internal training and exams approved by OGC, and then will email the list of trained representatives to OGC. Re-certification happens every 5 years, but VSOs undergo continuous training. There’s no standard process for VSOs to verify with OGC which representatives need recertification, and all the variations are manual.
-Claims agents will take an exam at the regional branch of the OGC. They have to recertify by taking Continuous Legal Education (CLE) every two years. Attendance to NOVA conference counts as CLE. Claims agents can sometimes go 2 - 4 years attempting to get accredited without success.
-Attorneys have to provide their bar license to be accredited. Have to recertify by taking CLE every two years. Attendance to NOVA conference counts as CLE.
-2021/04 Power of Attorney VSO Research Report
-Do representatives ever lose accreditation? How is loss of accreditation managed?
-There are very few consequences for not keeping up with accreditation renewal since the OGC has no targeted way to regularly track or remind representatives to complete their training.
-Power of Attorney/ A discovery sprint
-What happens once a claim has been finalized and a representative is no longer needed?
-VSOs do not terminate representation unless faced with ethical issues or if they are fired by the client.
-Attorneys and claims agents regularly terminate representation when they have secured the benefits they were hired for, and they have set processes for this.
-2021/04 Power of Attorney VSO Research Report
+
+    - VSOs have identified **personnel shortages** as a challenge in proactively assisting Veterans with their claims. Additionally, variations in **access to resources** , including accredited representatives, emphasizes the need to ensure VA accessibility across all regions. For instance, a county VSO in an urban setting mentioned having just 10 representatives to serve 50,000 Veterans.
+
+        - [2022/11 VSOs Frequently Asked Questions](https://crsreports.congress.gov/product/pdf/R/R46412)
+        - [2020/12 Notice of Disagreement (NOD) VSOs Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2020-12-Notice-of-Disagreement-VSOs-Discovery-Research/20201211NODVSOsDiscoveryResearch.pdf)
+        - [2019/01 Benefits Claim Status Research with VSOs](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-01-Benefits-Claim-Status-Research-with-VSOs)
+
+    - Since Veteran Law is federal law, and there are **limited**** specialized firms **nationwide, attorneys and claims agents often handle** hundreds, if not thousands **, of clients. They tend to work in teams, but the VA's** restriction**to a single Power of Attorney (PoA) prevents support teams from accessing Veteran information needed to assist the attorney or claims agent. This is a**major pain point** that distracts from the work of representing Veterans.
+
+        - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs) F3
+        - [2020/12 Notice of Disagreement (NOD) VSOs Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2020-12-Notice-of-Disagreement-VSOs-Discovery-Research/20201211NODVSOsDiscoveryResearch.pdf)
+
+2. Representatives face **persistent** difficulties in navigating documentation within the VA ecosystem, **regardless** of the particular process or paperwork involved. These challenges can lead to **negative impacts** on the quality and timeline of document processing.
+
+    - Across initial claims, decision reviews, supplemental claims, and power of attorney there were common themes of document errors including:
+
+        - **Most common were signature errors** ; missing signatures from Veterans and representatives, signatures appearing questionable, or signatures from representatives who are not authorized
+        - Lack of complete documentation or over documentation
+        - Typos, misspellings, and extra spaces that **systems cannot read** or understand
+        - Information **not matching** official records
+        - Incorrect form submission
+
+            - [2021/09 Supplemental Claims Discovery](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2022-01-Supplemental%20Claims-Discovery/2021-09-Supplemental-Claims-Discovery-Administrators/SC_VAAdmin_FinalReport.md) F2
+            - [2021/06 HLR Opt-In Legacy Issues](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2021-06-Higher-Level-Review-Opt-In-Legacy-Issues-with-Claims-Assistants/20210608HLROpt-InLegacyIssuesReport-300621-1251-8.pdf) F1
+            - [2020/09 Notice of Disagreement (NOD) SME Interviews](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2020-09-Notice-of-Disagreement-SME-Interviews-Research-Report)
+            - [2019/10 VSOs Appeals (HLR) Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-10-VSOs-Appeals-Higher-Level-Review-Discovery-Research-with-VSOs) F3
+            - [2019/09 Claims Establishment Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2019-08-Claims-Establishment-Discovery-Research/Claims%20Establishment%20Discovery%20-%20Research%20Presentation%20-%20September%202019%20-%20UPDATED.pdf) S21 & S 22
+         
+    - Importantly, documents with **only representative signatures** can delay rating decisions as they fail to fulfill the Duty to Assist requirement. In such cases, VA sends a notice to the Veteran, imposing a 30-day hold on the claim, during which it can be developed but not rated until either the 30 days pass or the Veteran returns the 5103 Response Waiver.
+  
+        - [2021/09 Supplemental Claims Discovery](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2022-01-Supplemental%20Claims-Discovery/2021-09-Supplemental-Claims-Discovery-Administrators/SC_VAAdmin_FinalReport.md) F1
+        - [2021/06 HLR Opt-In Legacy Issues](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2021-06-Higher-Level-Review-Opt-In-Legacy-Issues-with-Claims-Assistants/20210608HLROpt-InLegacyIssuesReport-300621-1251-8.pdf) F1
+
+3. Power of Attorney (PoA) introduces its own set of challenges, often stemming from **inconsistent**** information management **and a** lack of notifications**.
+
+    - In the intake process for 21-22 forms, there are **common issues** such as mislabeling or incorrect labeling as correspondence. Furthermore, there appears to be **no streamlined method** for tracking or modifying Power of Attorney (PoA) information, including editing representative addresses and contact details. This necessitates **manual**** notification**to multiple entities (VBA, BVA, OGC) for address updates to reflect across various systems, leading to instances where PoA attorneys and claims agents**miss critical correspondence**, including decisions.
+
+        - [2019/09 Claims Establishment Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2019-08-Claims-Establishment-Discovery-Research/Claims%20Establishment%20Discovery%20-%20Research%20Presentation%20-%20September%202019%20-%20UPDATED.pdf) S22
+        - [2017 Power of Attorney: A Discovery Sprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686839758569/c518e69a2bf19d2ef1b868b98322f25d72ae9aab?sender=u1d7fe27ad03a782e135e8404) S19, 20, 22
+
+    - Representatives frequently experience **unexpected loss of PoA** without notification, typically due to the Veteran or another representative filing for new representation without realizing it'll revoke current representation access. This **abrupt**** loss **of access not only restricts representatives from logging into VBMS but also ceases their receipt of important Veterans' claim-related communications. Additionally, it can lead to situations where representatives without PoA access continue to receive notifications for claims they** shouldn't be involved with **. In the worst-case scenario, these sudden changes can even result in attorneys and claims agents** not receiving payment** for their services.
+
+        - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs) F2
+        - [2020/12 Notice of Disagreement (NOD) VSOs Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2020-12-Notice-of-Disagreement-VSOs-Discovery-Research/20201211NODVSOsDiscoveryResearch.pdf)
+        - [2017 Power of Attorney: A Discovery Sprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686839758569/c518e69a2bf19d2ef1b868b98322f25d72ae9aab?sender=u1d7fe27ad03a782e135e8404) S21 & S24
+        - [2016/07 Benefits Application Research with VSOs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8fc42cefc223750d013452b130d46ca7e59e0d65/products/disability/526ez/archive/discovery/2016/vso-benefits-7.8.16-findingssummary.md)
+
+## Additional Insights
+
+### About Representatives
+
+1. **What benefits can representatives support?**
+    - Compensation, education, Veteran readiness and employment, home loans, life insurance, pension, health care, and burial
+        - [VA.gov Accredited Representatives](https://www.benefits.va.gov/vso/)
+
+2. **Are all representatives brought on as Power of Attorney (PoA)?**
+    - All representative participants mentioned that they typically secure and submit the PoA when they engage a new client.
+        - [2021/08 Veteran Representative Claims Assistance Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2021-08-Veteran-Representative-Claims-Management-Discovery/August%202021%20Veteran%20Representative%20Claims%20Assistance%20Research%20Findings%20and%20Recommendations.pdf)
+        - [2020/12 Notice of Disagreement (NOD) VSOs Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2020-12-Notice-of-Disagreement-VSOs-Discovery-Research/20201211NODVSOsDiscoveryResearch.pdf)
+
+    - Extent of Authority
+        - A representative is authorized to prepare, present, and prosecute a claimant's claim and has the authority to
+            - review the claimant's records
+            - present evidence on behalf of the claimant
+            - sign an informal claim, a notice of disagreement (NOD), or a substantive appeal on behalf of the claimant, and
+            - withdraw an appeal.
+                - [VA.gov General Information on Power of Attorney (POA) Overview](https://www.benefits.va.gov/WARMS/docs/admin21/m21_1/mr/part1/M21-1MRI_3_secA.docx)
+         
+    - Representatives cannot sign for an original claim. If it's an increase or a subsequent claim, the representative can sign for the Veteran.
+        - Note: There are two systems that digitize Veterans signatures today: VetPro and VetraSpec.
+            - [2023/01 Desk Research 526EZ Signatures](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2023-01-26-Desk-Research-526EZ-Signature-Types/Desk%20Research%20526EZ%20Signatures_2023-01-26_20-58-00.pdf)
+
+3. **What systems are used to manage PoA?**
+    - Veteran Service Representatives (VSRs) review the PoAs submitted and update the information when they start working on a claim. If the PoA is submitted through the Centralized Mail Portal, a Claims Agent will establish it in VBMS.
+        - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
+    - [VSOs use VBMS to] assign representatives.
+        - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
+
+4. **What systems can a Representative use?**
+    - The PoA process triggers access to the Veteran's records. Representatives can directly submit POA forms to VBMS through D2D and SEP.
+        - [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
+
+5. **What is the difference between each representative (VSO, attorney, claims agent)?**
+    - VSO
+        - VA-recognized and accredited
+        - Free to Veterans and their families
+        - Helps gather any evidence to submit a Fully Developed Claim
+        - Can correspond with the VA about the Veterans claim on their behalf
+        - Many VSOs also sponsor a range of Veteran-centric programs such as providing transportation to and from VA medical center appointments, funds and volunteers for disaster relief, and grants.
+        - VSOs also lobby Congress on behalf of issues facing Veterans and help support requests for resources needed by VA to better serve Veterans, their families, and survivors.
+            - [VA.gov Accredited Representatives](https://www.benefits.va.gov/vso/)
+        - Not all recognized VSOs provide accredited representatives and must advise Veterans on how to find accredited representation to support in PoA.
+            - [2022/11 VSOs Frequently Asked Questions](https://crsreports.congress.gov/product/pdf/R/R46412)
+    - Attorney & Claims Agent
+        - Typically perform their representation **after** the VA has issued an initial decision on a claimant's claim.
+            - This is when attorneys and claims agents are permitted to charge fees.
+            - At that stage of the adjudication process attorneys or claim agents may be helpful in further developing evidence in support of the Veterans claim and crafting persuasive and legal arguments on their behalf to submit to the VA.
+            - Both can assist in navigating the VA appeals process.
+                - [VA.gov Accredited Representatives](https://www.benefits.va.gov/vso/)
+    - Attorney vs Claims Agent
+        - Claims agents are basically VSOs, but they function independently and are not usually associated with an authorized organization.
+        - Attorneys can provide similar service as claims agents and VSOs, but usually specialize in appeals and other higher-level dealings before the VA, the Board of Veterans Appeals (BVA), or other US Courts. Like claims agents, they also charge a fee, and so do not usually work on initial claims.
+            - [Military Disability Made Easy](https://militarydisabilitymadeeasy.com/vsos-vs-claims-agents-vs-attorneys-getting-help-with-your-va-disability-claim.html#:~:text=Attorneys%20can%20provide%20similar%20service,usually%20work%20on%20initial%20claims.)
+
+6. **What are the pros and cons of each representative?**
+    - Note: These are collected from Reddit to see what opinions Veterans have of these groups. Would love any VA input on these.
+    - Pros: All
+        - Years of experience
+        - Access to up to date claim information/have VBMS access
+        - Can help build a successful claim leading to higher disability ratings
+        - Up to date knowledge on available claim options
+    - Pros: VSO
+        - Don't charge fees
+    - Pros: Attorney
+        - Good for appeals
+        - More dedicated to the Veteran
+    - Cons: VSO
+        - Lack of responses or long wait times
+        - Some VSOs are volunteer based and lack training
+        - No consequence if actions impact the Veterans case
+    - Cons: Attorney
+        - Cost more
+    - Cons: Claims Agent
+        - Can be seen as 'back alley' operations
+        - Otherwise there isn't a lot of information out there on claims agents
+    - Sources
+        - [Reddit: Why you should have a VSO from a VSO](https://www.reddit.com/r/VeteransBenefits/comments/psvr0g/why_you_should_have_a_vso_from_a_vso/)
+        - [Reddit: Are there pros and cons of using VSO?](https://www.reddit.com/r/VeteransBenefits/comments/itacem/are_there_pros_and_cons_of_using_vso/)
+  4. **Do representatives work alone or on teams?**
+    1. Representation of a claim can take years, for this reason usually teams, not just individuals, work through the claim lifecycle.
+    2. Attorneys and Claims Assistants rely on support staff to perform administrative tasks like tracking deadlines, securing evidence, uploading documentation, ensuring the claim makes it to the VA, troubleshooting, etc.
+      1. [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
+  5. **Which representatives can and cannot charge fees?**
+    1. **VSO** : It is important to know that VA-recognized VSOs, and their representatives, always provide their services on benefit claims free-of-charge.
+    2. **Attorneys & Claims Agents** : Unlike VSOs, VA-accredited attorneys and agents may charge you a fee for their representation in appealing or requesting additional review of an adverse VA decision. Only VA-accredited attorneys and claims agents may charge you fees for assisting in a claim for VA benefits, and only after VA has issued an initial decision on the claim and they have complied with the power-of-attorney and the fee agreement requirements.
+      1. [VA.gov Accredited Representatives](https://www.benefits.va.gov/vso/)
+      2. There are 3 types of appeals: Supplemental Review, Higher Level Review, and Decision Review Request
+        1. [2019/10 VSOs Appeals (HLR) Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-10-VSOs-Appeals-Higher-Level-Review-Discovery-Research-with-VSOs)
+6. **Can representatives support Veterans remotely?**
+  1. **VSOs** : It does appear that VSOs can help Veterans remotely as it is mentioned on VSO websites and in press releases by the VA.
+    1. [Illinois Department of Veterans' Affairs](https://veterans.illinois.gov/serviceoffices.html)
+    2. [2022/06 Individuals Using the Department of Veterans Affairs' Information Technology Systems To Access Records Relevant to a Benefit Claim](https://www.federalregister.gov/documents/2022/06/24/2022-13312/individuals-using-the-department-of-veterans-affairs-information-technology-systems-to-access#:~:text=VA's%20objective%20with%20this%20rulemaking,representation%20consistent%20with%20VA's%20policies.)
+  2. **Attorneys and claims agents** : Veteran Law is federal law, therefore attorneys can support Veterans anywhere in the country.
+    1. [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
+  3. Veterans looking for remote access can vary. Some examples include; being homebound due to medical, looking for better support, or being overseas.
+    1. [Reddit: Medical Example](https://www.reddit.com/r/Veterans/comments/2di4wf/any_vso_that_helps_remotely/)
+    2. [Reddit: Overseas Example](https://www.reddit.com/r/VeteransBenefits/comments/gsq12q/overseas_vso/)
+7. **What accreditation is required for representatives? Is it nationwide or state specific?**
+  1. Governed by the Office of General Council (OGC), this process recognizes Veteran Service organizations, attorneys and claims agents as valid representatives. This is the first step to gain access to VA systems.
+  2. **VSOs** work closely with the Office of General Council (OGC) to accredit their representatives. VSOs will provide internal training and exams approved by OGC, and then will email the list of trained representatives to OGC. Re-certification happens every 5 years, but VSOs undergo continuous training. There's no standard process for VSOs to verify with OGC which representatives need recertification, and all the variations are manual.
+  3. **Claims agents** will take an exam at the regional branch of the OGC. They have to recertify by taking Continuous Legal Education (CLE) every two years. Attendance to NOVA conference counts as CLE. Claims agents can sometimes go 2 - 4 years attempting to get accredited without success.
+  4. **Attorneys** have to provide their bar license to be accredited. Have to recertify by taking CLE every two years. Attendance to NOVA conference counts as CLE.
+    1. [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
+  5. **Do representatives ever lose accreditation? How is loss of accreditation managed?**
+    1. There are very few consequences for not keeping up with accreditation renewal since the OGC has no targeted way to regularly track or remind representatives to complete their training.
+      1. [Power of Attorney/ A discovery sprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686839758569/c518e69a2bf19d2ef1b868b98322f25d72ae9aab?sender=u1d7fe27ad03a782e135e8404)
+8. **What happens once a claim has been finalized and a representative is no longer needed?**
+  1. **VSOs** do not terminate representation unless faced with ethical issues or if they are fired by the client.
+  2. **Attorneys and claims agents** regularly terminate representation when they have secured the benefits they were hired for, and they have set processes for this.
+    1. [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
+
 Veteran Representative Engagement
 What is the typical audience the VSO supports in filing claims?
 VSOs primarily provide support to widows, combat Veterans, senior Veterans, and those who have never filed a claim before but are now dealing with service-related debilitating issues. VSOs also commonly assist Veterans with limited access to technology and email. Non-Veteran claimants, primarily surviving spouses, constitute a minority of VSOs' caseload, comprising no more than 15%.
