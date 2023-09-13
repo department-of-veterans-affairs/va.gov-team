@@ -309,6 +309,8 @@ _If there are demographics that were not included in this study or you discovere
 
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/streamlined_waiver/research/transcripts)
 
+[Presentation/Readout PDF](https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0NaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a9891e56a6a74468a22783d5f9c4fa7b433ec73/readout.pdf)
+
 
 ## Tools used for Synthesis
 
