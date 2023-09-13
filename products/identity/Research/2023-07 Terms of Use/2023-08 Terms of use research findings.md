@@ -35,9 +35,11 @@ Jump to:
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+On future terms of use updates, we could consider and further research implementing the following options:
+1. presenting terms of use content in a modal
+2. offering an additional warning on selecting “decline” before being signed out
 
-
+   
 ## Appendix
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6e36ba79ed1a1af687a7ace47246e54bf8271e70/products/identity/Research/2023-07%20Terms%20of%20Use/2023-08%20Terms%20of%20Use%20research%20plan.md)
