@@ -169,7 +169,7 @@ On the VAOS homepage, the app displays the following for each status:
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Summary Defect Report (+ Jeff will add the list of defects found for this initiative/assisted by Julia) 
-- [ ] [Appointments on MHV on VA.gov Redesign - Defect Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/navigation-link/navigation-link-defect-summary.md)
+- [ ] [Appointments on MHV on VA.gov - Defect Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/navigation-link/navigation-link-defect-summary.md)
 
 ### Traceability Report (+ Simi/developers will need to add this link)
 - [ ] [VAOS](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
