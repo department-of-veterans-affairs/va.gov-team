@@ -30,23 +30,26 @@ Today we're going to take a look at the VA.gov website and ask you some question
 
 **For AT sessions**: As part of signing up for the session, we asked if you need a screen reader to use the internet. According to my notes, you normally use [whatever participant has said]. Can you tell me more about that?
 
-Are you able to use that during our session today?
+- Are you able to use that during our session today?
 
-That sounds good, thank you.
-
+- That sounds good, thank you.
 
 **For Magnification sessions**: As part of signing up for the session, we asked if you need magnification to use the internet. Can you tell me more about that?
 
-Thank you for sharing.
+- Thank you for sharing.
 
 ---
 
 Before we start, there are a few things I want to mention:
 
 - **This entire session should take about XX/XX minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. To help us learn from your experience, please share out loud all of your thoughts and feelings.
+
 - **If for any reason and at any time you want to stop the session, please let me know.**
+
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
 
 _Start recording._
@@ -58,34 +61,45 @@ _Turn on transcription._
 
 ## Warm up – X minutes
 
-Before we start, can you tell me a little bit about yourself? (If stuck, prompt to ask them about service experience, where they live, their work, etc.).
-- Do you have a VA.gov account? How often do you use the website? 
+Let's begin. How often do you use the VA.gov website?
 
 **Think back to the last time you had to log into the VA.gov website to do something.** What did you need to do that required you logging in?
 
-*If not-profile-related OR if someone cites going in person or calling:*
-- Can you tell me about a time you had to update the VA with information about yourself?
+*If not-profile-related OR if someone cites going in person or calling:* Can you tell me about a time you had to update the VA with information about yourself?
 
-*If profile-related:* 
-- Can you tell me more about your experience? Walk me through what you had to do.
+
+*If profile-related:* Can you tell me more about your experience? Would you be up for logging into your account to walk me through what you had to update?
+
+### Logging in
+
+Let's go ahead and log into your account 
+
+[NTS: add more help text here]
 
 ## Various Profile prompts - X minutes
 
 _[Contact info]_ Let’s pretend you recently moved. How would you update your information on VA.gov to make sure letters from VA get delivered to the right place?
+
 - Does this information look up-to-date?
+
 - If you’d like to update any of this information while we’re on this call, we’d be happy to learn from your experience.
 
 _[DD info]_ Let’s pretend you just switched banks, and you need to update where get your payments from VA. Where would you go to do that on this website?
 
 _[Military info]_ Let’s say you want to make sure VA’s records about your service history match the information you have. How would you go about checking on this on VA.gov?
+
 - Does this information look up-to-date?
+
 - If you’d like to update any of this information while we’re on this call, we’d like to learn from your experience.
 
 _[Notif settings]_ Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
+
 - Is there anything you’d like to change or update here?
 
 _[Personal info]_ Let’s say you have a new nickname you’d like VA to use when communicating with you. – how would you go about updating that information on VA.gov?
+
 - Does this information look correct?
+
 - If you’d like to update any of this information while we’re on this call, please go ahead.
 
 _[Connected apps]_ Let’s say you linked your VA.gov account to a tool [or application?] you use on your phone. Now you want to remove that tool’s access to your VA.gov information. How would you do that?
@@ -93,16 +107,19 @@ _[Connected apps]_ Let’s say you linked your VA.gov account to a tool [or appl
 ### Optional prompts
 
 _[Auth menu]_ Do you have any dependents who use VA benefits of any kind?
+
 - Where on VA.gov would you go to update your dependents’ information?
 
-_[Auth menu]_ Let’s say you need to download some documents in order to apply for new benefits. Where would you go to find and download those documents? 
+_[Auth menu]_ Let’s say you need to download some documents in order to apply for new benefits. Where would you go to find and download those documents?
+
 - [If needed] Say, for example, your Proof of Service Card.
 
 ## Follow-ups to any of the above tasks
 
 How does that feel, navigating between [X section] and [Y section] in your Profile?
 
-What would you expect to happen? 
+What would you expect to happen?
+
 - How did that experience compare to what you were expecting?
 
 How does completing [X task] feel?
