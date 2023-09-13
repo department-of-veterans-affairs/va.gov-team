@@ -50,7 +50,9 @@ ________________________________________________________________________________
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Guides based on Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65298)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change all wireframes to 320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
     - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
-        - TBD
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #1: Update form components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65490)
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #3: Update alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65493)
 
  ---------------- END FUTURE / TENTATIVE ----------------------
 __________________________________________________________________________________________________________________________________________________________
