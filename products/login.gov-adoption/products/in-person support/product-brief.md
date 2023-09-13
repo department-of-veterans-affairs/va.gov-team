@@ -147,7 +147,7 @@ By the end of this process, the proofing agent has now validated the identity at
 
 #### Yielding a Login.gov verified account
 
-Login.gov treats validated PII with extreme care: any validated PII is protected by a second level of encryption based on the user’s password (the equivalent of row level encryption for a table), ensuring not even Login.gov operators can see user’s PII. 
+Login.gov treats validated PII with extreme care: any validated PII is protected by a second level of encryption based on the user’s password (the equivalent of row level encryption for a table), ensuring not even Login.gov operators with root level access to their databases can see users' PII. 
 
 Additionally, we want to minimize the amount of time an IAL2 credential will be persisted on VA systems (i.e. the proofing application). The longer PII is persisted, the greater a target it becomes.
 
