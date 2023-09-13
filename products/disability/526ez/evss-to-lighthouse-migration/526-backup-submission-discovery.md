@@ -9,7 +9,7 @@ The goal of this story was to
 ### Will we need to call out to our transformation service at all for migration to work?
 Yes! The backup submission process uses POST calls to a `getPDF` endpoint to generate the 526 PDF itself before sending it on to VBMS. It sends the full JSON request to the endpoint, similar to (or identical to) the `submit` endpoint. That JSON is different than the EVSS JSON, and so requires a callout to the transformation service to put it in the proper format. 
 
-Story to migrate `getPDF` TBD
+Story to migrate `getPDF`: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62170
 
 ### Are the LH and EVSS getPDF endpoints getting from the same datasource/database?
 This question was asked out of a misunderstanding that `getPDF` was a GET endpoint that simply took a submission or claim id and returned a PDF stream. The LH API documentation said as much, but as it turned out they were (are) in the process of updating it to be a POST call that was "id-agnostic". This update is still in progress at this time (see this [thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1693267337721269))
