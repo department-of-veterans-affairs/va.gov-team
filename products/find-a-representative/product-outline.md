@@ -1,5 +1,5 @@
 
-# Product Outline: Find a Representative
+# Product Outline: Accredited Representation Management
 *The content below is very much WIP*
 
 ---
