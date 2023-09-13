@@ -1,8 +1,8 @@
-# Accredited Representation Management MVP
+# Accredited Representation Management (ARM) MVP
 
 _Formally known as "Find a Representative"_
 
-The Accredited Representation Management MVP will include desktop & mobile experiences
+The Accredited Representation Management (ARM) MVP will include desktop & mobile experiences
 
 ## MVP
 
