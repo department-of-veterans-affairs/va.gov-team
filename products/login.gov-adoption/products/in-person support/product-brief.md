@@ -156,7 +156,7 @@ There are a couple techniques that can be used to meet Login.gov’s encryption 
 - (Preferred) Login.gov is working on a facility where applications can send PII encrypted protected by that second level of encryption. This would allow our proofing application to immediately send the PII validated during the in-person event to Login.gov, precluding the need for the proofing application to store any PII. This capability is currently in development with Login.gov.
 - Should that capability not be available in time for the pilot, another option is to leverage  OIDC patterns of relying party (RP) and credential service provider (CSP). These can ensure PII is transacted only when the user’s Login.gov password context is present. This allows us to meet Login.gov’s encryption requirement and limit the amount of time the proofing application needs to save information. We would add a step for the proofing agent to ask the Veteran to log back into their account to trigger this exchange within minutes; after which the PII would be removed from the proofing application.
 
-Other options may also exist. We will need a follow on technical discussion with Login.gov to align on the best approach for the pilot.
+Other options may also exist. We will need a follow on technical discussion with Login.gov to align on the best approach for the pilot, should the preferred option above not be available in time for the pilot.
 
 #### Supported document types / proofing evidence
 The document types we will be able to support will be based on the document types MPI can act as an authoritative or issuing source for.
