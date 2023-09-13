@@ -65,8 +65,10 @@ Now before we get started, there are a few other things I want to mention:
 ## Agenda - 60 minutes
 
 * Warm up - 5 minutes
-* Submit an inquiry - 40 minutes
-* Review an ongoing/past inquiry - 10 minutes
+* Submit an inquiry - 30 minutes
+* View and sort dashboard - 10 minutes
+* Open an ongoing inquiry - 5 minutes
+* Start a reply - 5 minutes
 * Wrap up - 3 minutes
 * Thank you - 2 minutes
 
