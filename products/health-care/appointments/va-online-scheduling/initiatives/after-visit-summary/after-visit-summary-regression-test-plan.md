@@ -1,7 +1,7 @@
 # Regression Test Plan - After Visit Summary 
 
 ## Project Summary Epic [#38062](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/38062) 
-Looking to improve the user experience in VAOS by updating the appointment list page to help the veterans view their upcoming appointments, pending apppointments and past appointments. The goal is to have the VAOS appointments list show the same information and value as the equivalent list in MyHealtheVet.
+Adding the After Visit Summary feature in the application tool to allow the Veteran to view the summary of their visit with the provider. 
 
 ## Business Rules (more details can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#appointments-list))
 On the VAOS homepage, the app displays the following for each status: 
