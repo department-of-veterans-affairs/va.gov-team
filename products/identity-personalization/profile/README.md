@@ -99,9 +99,9 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 |Project|Status|
 |----|----|
-|[Direct deposit for comp & pen EVSS > Lighthouse migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration#readmee)| Launched to 5%|
-|[Disability rating EVSS > Lighthouse migration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md) | Launched to 10 % |
-|[Notification preferences: Default send & adding email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send#readme)| QA|
+|[Direct deposit for comp & pen EVSS > Lighthouse migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration#readmee)| Launched to 10%|
+|[Disability rating EVSS > Lighthouse migration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md) | Launched to 50 % |
+|[Notification preferences: Default send & adding email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send#readme)|QA|
 |[Notification preferences: Editing as a subtask](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/mobile-phone-edit-flow/README.md)|QA|
 |[Authenticated Menu Updates (adding Letters and Dependents)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter)|pre-launch|
 |[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md)|Build|
