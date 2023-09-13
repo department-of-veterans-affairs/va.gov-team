@@ -79,7 +79,7 @@ Learnings will help refine questions and the presentation of results in the wiza
 1. Veterans (and others) will understand what "presumptive conditions" mean after reading the plain language description in the results flow. 
 
 ## Method	
-We will conduct **remote moderated usability testing** to observe research participants using a working prototype that presents the questions and results screens in the PACT Act Wizard. The prototype is not a high-fidelity design prototype but instead an **online survey (in Survey Monkey) that presents questions** and branches appropriately to subsequent questions and relevant results screens. In this way, we’re **testing the content of the PACT Act Wizard**—the text and flow of the questions and the logical branching—but not the UI design. In addition, by using an online survey tool that is accessible, we will be able to include participants who use screen readers.   
+We will conduct **remote moderated usability testing** to observe research participants using a working prototype that presents the questions and results screens in the PACT Act Wizard. The prototype is not a high-fidelity design prototype but instead an **online survey (in Survey Monkey) that presents questions** and branches appropriately to subsequent questions and relevant results screens. In this way, we’re **testing the content of the PACT Act Wizard**—the text and flow of the questions and the logical branching—but not the UI design.   
 
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
@@ -96,7 +96,6 @@ Ask Perigean to recruit **8 Veterans and 3 family members** of Veterans who meet
 - At least 5 whose service years include *1989 or earlier*
 - At least 3 whose service years include *1990 or later*
 - At least 3 whose service years include both *before AND after* 1990
-- At least 3 people who use a screen reader 
 - At least 4 people with a cognitive disability (e.g., TBI)
 - At least 4 people who are age 55 or older
 - At least 3 who do NOT have VA health care or disability
@@ -117,14 +116,6 @@ Ask Perigean to recruit **8 Veterans and 3 family members** of Veterans who meet
     1. No *(RECRUIT 11)*
     2. Yes *(disqualify)*
 
-1. Do you use screen reader technology every time you use the internet? For example, VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer.
-We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
-     1. No
-     1. Yes *(ask next question)*
-
-1. Are you willing to join the Zoom session using this assistive technology? 
-     1. No
-     1. Yes *(RECRUIT 3 to satisfy "screen reader" criterion)*
 
 1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
      1. No
