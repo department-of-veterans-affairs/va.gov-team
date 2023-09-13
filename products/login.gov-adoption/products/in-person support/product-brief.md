@@ -58,7 +58,7 @@ We have a [service blueprint](https://app.mural.co/t/innovationboards1199/m/inno
 Further the service blueprint will allow us to communicate where we are with respect to progress towards launching the IPP pilot. The following sections are represented in the service blueprint.
 
 #### Intake
-When a Veteran opts to verify their identity in person, this intake process serves as a registration for the Veteran. During this step we are registering, or binding, the Veterans (unverified) Login.gov account to the upcoming in-person proofing process. 
+When a Veteran opts to verify their identity in person, this intake process serves as a registration for the Veteran. During this step we are registering, or binding, the Veterans (IAL1/unverified) Login.gov account to the upcoming in-person proofing process. 
 
 This binding is necessary to meet NIST guidelines that state that an IAL2 credential (the credential that will exist after in-person proofing) is tightly bound to an AAL2 authenticator (the Login.gov account). This ensures that the IAL2 credential is adequately protected after creation, i.e. a bad actor cannot take control of the credential because of a weak password without MFA.
 
