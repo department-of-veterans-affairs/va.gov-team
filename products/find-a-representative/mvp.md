@@ -70,6 +70,7 @@ Profile Updates
 1. Future search fields to investigate
     1. Rep name
     1. Organization
+    2. Remote support
 1. Submission
     1. Requires signatures
 1. Notifications
