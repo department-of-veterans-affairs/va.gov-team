@@ -3,7 +3,7 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 
 ### `personalization/dashboard/actions`
 
-| File | Did tests exist when the audit was conducted in April 2023? | Ticket to Write Missing Test(s)| In use on My VA (y/n) as of mm/yyyy|
+| File | Has Tests? | Ticket to Write Missing Test(s)| In use on My VA (y/n) as of mm/yyyy|
 | -- | -- | --| --|
 | [claims.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/claims.jsx) | ❌ | [#57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)| |
 | [debts.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/debts.js) | ❌ | [#57462](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57462)| |
@@ -13,7 +13,7 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 
 ### `personalization/dashboard/components`
 
-| File | Did tests exist when the audit was conducted in April 2023? | Ticket to Write Missing Test(s) | In use on My VA (y/n) as of mm/yyyy|
+| File | Has Tests? | Ticket to Write Missing Test(s) | In use on My VA (y/n) as of mm/yyyy|
 | -- | -- | -- | --|
 | [CTALink.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/CTALink.jsx) | ✅ | [#57466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57466)|  y - 05/2023  |
 | [ClaimsListItem.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/ClaimsListItem.jsx) | ❌ | [#57468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57468)|    |
@@ -31,34 +31,34 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 | [benefit-payments-and-debts/BenefitPaymentsAndDebt.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments-and-debts/BenefitPaymentsAndDebt.jsx) | ❌ | [#57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|    |
 | [benefit-payments-and-debts/Debts.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments-and-debts/Debts.jsx) | ❌ | [#57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|    |
 | [benefit-payments-and-debts/Payments.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments-and-debts/Payments.jsx) | ❌ | [#57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|    |
-| [benefit-payments-v2/BenefitPaymentsV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments-v2/BenefitPaymentsV2.jsx) | ❌ | [#57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|    |
-| [benefit-payments-v2/PaymentsCardV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments-v2/PaymentsCardV2.jsx) | ❌ | [#57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|    |
-| [claims-and-appeals-v2/hooks/useHighlightedClaimOrAppealV2.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals-v2/hooks/useHighlightedClaimOrAppealV2.js) | ❌ | [#57477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57477)|    |
-| [claims-and-appeals-v2/AppealV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals-v2/AppealV2.jsx) | ❌ | [#57477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57477)|    |
-| [claims-and-appeals-v2/ClaimV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals-v2/ClaimV2.jsx) | ❌ | [#57477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57477)|    |
-| [claims-and-appeals-v2/ClaimsAndAppealsV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals-v2/ClaimsAndAppealsV2.jsx) | ✅ |    |    |
-| [claims-and-appeals-v2/Decision.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals-v2/Decision.jsx) | ❌ | [#57477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57477)|    |
-| [claims-and-appeals-v2/HighlightedClaimAppealV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals-v2/HighlightedClaimAppealV2.jsx) | ❌ | [#57477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57477)|    |
-| [debts-v2/CopaysCardV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/debts-v2/CopaysCardV2.jsx) | ❌ | [#57478](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57478)|    |
-| [debts-v2/DebtsCardV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/debts-v2/DebtsCardV2.jsx) | ❌ | [#57478](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57478)|    |
-| [debts-v2/DebtsV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/debts-v2/DebtsV2.jsx) | ❌ | [#57478](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57478)|    |
+| [benefit-payments/BenefitPayments.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments/BenefitPayments.jsx) | ❌ | [#57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|    |
+| [benefit-payments/PaymentsCard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-payments/PaymentsCard.jsx) | ❌ | [#57476](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57476)|    |
+| [claims-and-appeals/hooks/useHighlightedClaimOrAppeal.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals/hooks/useHighlightedClaimOrAppeal.js) | ❌ | [#57477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57477)|    |
+| [claims-and-appeals/Appeal.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals/Appeal.jsx) | ✅ | [#57477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57477)|    |
+| [claims-and-appeals/Claim.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals/Claim.jsx) | ✅ | [#57477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57477)|    |
+| [claims-and-appeals/ClaimsAndAppeals.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals/ClaimsAndAppeals.jsx) | ✅ |    |    |
+| [claims-and-appeals/Decision.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals/Decision.jsx) | ✅ | [#57477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57477)|    |
+| [claims-and-appeals/HighlightedClaimAppeal.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/claims-and-appeals-v2/HighlightedClaimAppealV2.jsx) | ❌ | [#57477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57477)|    |
+| [debts/CopaysCard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/debts/CopaysCard.jsx) | ❌ | [#57478](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57478)|    |
+| [debts/DebtsCard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/debts/DebtsCard.jsx) | ❌ | [#57478](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57478)|    |
+| [debts/Debts.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/debts/Debts.jsx) | ❌ | [#57478](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57478)|    |
 | [education-and-training/EducationAndTraining.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/education-and-training/EducationAndTraining.jsx) | ✅ | [#57479](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57479)|    |
-| [health-care-v2/AppointmentsV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care-v2/AppointmentsV2.jsx) | ❌ | [#57480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57480)|    |
-| [health-care-v2/HealthCareCTAV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care-v2/HealthCareCTAV2.jsx) | ❌ | [#57480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57480)|    |
-| [health-care-v2/HealthCareContentV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care-v2/HealthCareContentV2.jsx) | ❌ | [#57480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57480)|    |
-| [health-care-v2/HealthCareV2.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care-v2/HealthCareV2.jsx) | ❌ | [#57480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57480)|    |
+| [health-care/Appointments.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care/Appointments.jsx) | ❌ | [#57480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57480)|    |
+| [health-care/HealthCareCTA.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care/HealthCareCTA.jsx) | ❌ | [#57480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57480)|    |
+| [health-care/HealthCareContent.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care/HealthCareContent.jsx) | ❌ | [#57480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57480)|    |
+| [health-care/HealthCare.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care/HealthCare.jsx) | ❌ | [#57480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57480)|    |
 | [notifications/DebtNotification.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/notifications/DebtNotification.jsx) | ✅ | [#57482](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57482)|  n  |
 | [notifications/Notifications.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/notifications/Notifications.jsx) | ✅ | [#57482](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57482)|  y  |
 
 ### `personalization/dashboard/constants`
 
-| File | Did tests exist when the audit was conducted in April 2023? | Ticket to Write Missing Test(s) | In use on My VA (y/n) as of mm/yyyy|
+| File | Has Tests? | Ticket to Write Missing Test(s) | In use on My VA (y/n) as of mm/yyyy|
 | -- | -- | -- | -- |
 | [index.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/constants/index.js) | ❌ |   |   |
 
 ### `personalization/dashboard/reducers`
 
-| File | Did tests exist when the audit was conducted in April 2023? | Ticket to Write Missing Test(s) |In use on My VA (y/n) as of mm/yyyy|
+| File | Has Tests? | Ticket to Write Missing Test(s) |In use on My VA (y/n) as of mm/yyyy|
 | -- | -- | -- | -- |
 | [claimsV2.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/claimsV2.js) | ❌ |   |   |
 | [debts.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/reducers/debts.js) | ❌ |   |   |
@@ -72,7 +72,7 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 
 ### `personalization/dashboard/utils`
 
-| File | Did tests exist when the audit was conducted in April 2023? | Ticket to Write Missing Test(s) |In use on My VA (y/n) as of mm/yyyy|
+| File | Has Tests? | Ticket to Write Missing Test(s) |In use on My VA (y/n) as of mm/yyyy|
 | -- | -- | -- | -- |
 | [appeals-v2-helpers.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/appeals-v2-helpers.jsx) | ❌ |   |   |
 | [appointments.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/appointments.js) | ❌ |   |   |
@@ -85,7 +85,7 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 
 ### `personalization/dashboard`
 
-| File | Did tests exist when the audit was conducted in April 2023? | Ticket to Write Missing Test(s) |In use on My VA (y/n) as of mm/yyyy|
+| File | Has Tests? | Ticket to Write Missing Test(s) |In use on My VA (y/n) as of mm/yyyy|
 | -- | -- | -- | -- |
 | [claims-and-appeals-helpers.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/claims-and-appeals-helpers.js) | ❌ |   |   |
 | [covid-19.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/covid-19.jsx) | ✅ |   |   |
