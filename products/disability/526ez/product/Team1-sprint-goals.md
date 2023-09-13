@@ -14,9 +14,9 @@ Period - 09/13/2023 - 9/26/2023
         - Submit 
             - [ ] Transform service
                - [ ] Create submit526 method to be added to tbe BenefitsClaims service to submit the 526 to Lighthouse
-               - [ ] Form526 Backup Submission Process Discovery/Migration 
-         - PPIU - Direct Debit
-               - Start migration of PPIU endpoint 
+               - [ ] Form526 Backup Submission Process Discovery/Migration
+       - PPIU - Direct Debit 
+            - [ ] Start migration of PPIU endpoint 
 - **Features**
    - 526ez current with paper form
       - [ ] Toxic Exposure screens - Research Synthesis and Report
