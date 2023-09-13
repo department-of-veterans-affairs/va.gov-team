@@ -1,6 +1,12 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
 
-## 9/7/23
+## 9/13/23
+Attendees:
+
+Agenda
+- TE Retro
+  
+## 9/7/23- cancelled
 Attendees:
 
 Agenda
