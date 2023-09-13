@@ -90,7 +90,7 @@ I'd like to start by learning more about your experience with the VA and our onl
 * How do they decide which channel to use when they contact the VA?
 * Do they specify the device they use (tablet, mobile, desktop)?
 
-## Submit an inquiry - 40 minutes
+## Submit an inquiry - 30 minutes
 
 Thanks, it’s helpful to learn about your experience with the VA.
 
@@ -98,14 +98,14 @@ Next, I’d like to share some ideas with you so we can get your feedback.
 
 In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a pretend version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with all Veterans.
 
-> Send Sketch link in Zoom chat.
+> Send link in Zoom chat.
 
-* Can you open this link on your phone?
+* Can you please open the link in the chat?
 * Have you shared your screen on Zoom before?
     * `IF YES` Great. Can you please share your screen?
     * `IF NO` I’ll walk you through how to do that...
 
-Thanks! Now I’m able to see the prototype too.
+Thanks! Now I’m able to see your screen too.
 
 ### 1: Start page
 
@@ -115,8 +115,8 @@ Now that we have this open, I'd like us to start by imagining that you need to a
 
 We're not going to click on anything yet, but I'm going to give you a second to read this page more closely now.
 
-* Can you tell me what you would do first if you wanted to `ASK A QUESTION` about your health care?
-    * How long would you expect it to take to `ASK A QUESTION`?
+* Can you tell me what you would do first if you wanted to ask a question about your health care?
+    * How long would you expect it to take to ask a question?
 
 `A: SIGN IN/CREATE AN ACCOUNT`
 
@@ -144,15 +144,17 @@ Okay, let’s go ahead and click `OPTION THEY CHOOSE` now.
 
 > Screen: Sign in
 
-For today, we’re just going to pretend that we’re signing in.
+Today, we're going to sign in to your account.
 
 * Which option do you usually choose to sign in?
 
-Great, thanks. Let’s click `Login.gov`.
+Great, thanks. Let’s click `Login.gov or ID.me`.
 
-> Screen: Login.gov
+> Screen(s): Login.gov or ID.me
 
-Okay, and we'll just click `Sign in` now.
+`Go through sign in process`
+
+Okay great, and now we'll click `Sign in`.
 
 #### Things to watch for:
 * Are they familiar with the VA sign in screen?
