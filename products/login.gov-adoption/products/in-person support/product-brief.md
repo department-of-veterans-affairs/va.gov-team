@@ -73,7 +73,6 @@ From a Veteran applicant’s perspective we need to provide:
 - Requisite reminders (especially as expiration of the Case ID approaches)
   
 While the intake can happen several days before the in-person proofing event, we should allow for intake to occur immediately before / during the in-person proofing event. This allows a Veteran to recover from an expired (or non-existent) Case ID when they begin interacting with the proofing agent in-person.
-To instill motivation for the Veteran to complete the in person proofing event, case ID's will expire after 10 days. Should a Veteran's case ID expire, they will need to restart the Intake process. This can be done remotely or with an in person proofing agent.
 
 To instill motivation for the Veteran to complete the in person proofing event, case ID's will expire after 10 days. Should a Veteran's case ID expire, they will need to restart the Intake process. This can be done remotely or with an in person proofing agent.
 
