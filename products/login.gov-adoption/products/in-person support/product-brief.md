@@ -196,7 +196,7 @@ There are various ways to manage this dependency:
 - Research if there is a wide reaching (blanket) SORN that our proofing application can fall under. Can range anywhere from a VA.gov SORN or a VA SORN.
 - Work with the Privacy office to confirm at what threshold is a SORN required, i.e. for a pilot of a few thousand Veterans, can that be considered small enough where the pilot isn’t considered a system of record.
 
-### VA directive 6150
+### VA directive 6510
 This the VA wide directive dealing with the use of identity and access to services. A new revision is being evaluated and we have an opportunity to codify certain aspects of our pilot into this revision. For example: what document types is MPI an authoritative source for?
 
 ## Risks
