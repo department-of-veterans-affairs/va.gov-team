@@ -33,10 +33,54 @@ Jump to:
 
 ## Additional Insights and Recommendations
 
+**Finding and recommendations related to the Platform design system team**
+
+1. Screen magnification user felt the paragraph and heading level 3 text was too small even at 5 times zoom
+   - Recommendation: Design system team and/or CAIA accessibility teams should test this more extensively with screen zoom users if this presents a new concern
+2. Accordions played well for this use for terms of use
+   - Recommendation: This design component has proven itself with broad understanding for this use, if there is interest to attach this research to that component
+
+
+**Finding and recommendations related to the Office of General Council and CAIA Content team**
+Finding with a legal focus:
+1. Most folks probably won’t pay attention to the VA terms of use text, since they don’t normally read it, and generally move past quickly as possible
+2. Many participants feel forced to accept terms of use, so they prefer it also includes some user protections
+   - Recommendation: terms of use should have value to the user, things like data security and not selling data.
+   - Recommendation: At the top bullet or otherwise highlight the value to the user. Consider including a section titled something like “protections for the user”
+3. Terms of use might affect user trust in a positive way IF the user already has a positive view of VA AND they feel like the terms of use is fair and not predatory.
+   - Recommendation: similar to ii. - make sure it protects the user as well, and make sure the VA is being reasonable on the protections it’s carving out for itself.
+4. Our set of participants understood the negative consequences of not accepting a terms of use, and understood that reduced access would be one of those, whether on a private or government site
+   - Recommendation: we should feel more comfortable about restricting access based on accepting the terms of use, however restricting access to the VA online can be seen as devastating to veterans, so also understand there will likely still be highly upset outliers who don’t want to accept and also don’t want to lose online access.
+5. Should a user decline, they wouldn't want to be cut off immediately since they feel like their health data is theirs and access is important for their medical needs
+   - Recommendation: allow some amount of time (like 24 hours) for the user to download important documents before being signed out by declining to the terms of use
+6. On this and future terms of use updates, folks want to see just the changes, not the whole terms of use again since they have no frame of reference for what was changed if they see the whole thing. 
+   - Recommendation: This terms of use update, since it’s seems like a major one, could find more folks actually skimming or reading if the most important items were bulleted at the top or perhaps highlighted in situ
+   - Recommendation: Future terms of use updates, should bullet or otherwise summarize the changes front and center, with either a link to or then the entire text of the new terms of use next on page
+      - A benefit here is more folks might be more likely to read more of it, if it’s super short with just a couple of changes.
+7. Veterans want to be able to access terms of use on the site after accepting, but none of our participants were into downloading the PDF of it.
+   - Recommendation: make sure terms of use can be found on site by either search or browse - don’t include accept/decline buttons
+8. Some participants mentioned the desire to be able to approve certain parts of the terms of use in order to access only certain parts of the site
+   - Recommendation: While it’s something that happens with online cookies, it’s not necessarily part of the mental model for terms of use at this point. Also since it would likely require more engineering time than we have with our current deadline, we don’t recommend moving forward with this.
+
+Findings with a content focus:
+1. Folks took to the accordions and seemed to like having the ability to read more about a topic where a header caught their eye (keeping in mind that most people will skim or skip entirely).
+   a. Recommendation: leave accordions on page
+2. The warning alert box for “what will happen if you decline” was found to be helpful
+   a. Recommendation: Keep this feature on page
+3. VA terms of use decline page was clear and met expectations (caveat - with folks who wouldn’t normally decline a terms of use)
+   a. Recommendation: Keep the decline page short and easy to understand.
+4. Buttons elicited no strong feelings, but both our current use of accept/decline as well as the option agree/disagree were well understood, and participants gravitated toward using one word on the negative answer button
+   a. Recommendation: continue forward with the current accept/decline, or use agree/disagree as an alternative. Do not use yes/no since that lost context for some of our participants
+5. The H1 and first H2 include "terms of use" and at least one participant found this confusing
+   a. Recommendation: Consider if there is a way to reword one of those headers to increase the clarity between them
+6. The PDF on the terms of use was easy to find, but not of interest
+   a. Recommendation: The PDF download doesn’t have to be prominent on the page, especially if the terms of use can be easily found later on
+
+
 ## Further research needed
 
 On future terms of use updates, we could consider and further research implementing the following options:
-1. presenting terms of use content in a modal
+1. presenting terms of use content in a modal, on a page without the VA standard header and navigation, or some way other than a full standard templated page 
 2. offering an additional warning on selecting “decline” before being signed out
 
    
