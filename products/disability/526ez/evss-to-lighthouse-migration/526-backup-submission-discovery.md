@@ -26,11 +26,57 @@ One of the outputs of this ticket was to create a diagram of the backup submissi
 ### Initial Submission
 Initial 526 submission begins with the front-end posting to the `submit_all_claims` endpoint on vets-api, and a claim is saved to the database from the submitted JSON
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/3965574b-7b20-4323-b56a-46cbb40631eb)
+
 The claim is passed into the `create_submission` method to begin creating the submission record. Form4142 information is added to the JSON.
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/0c138cd7-0b9c-4ae7-a738-15b463234b7e)
+
 Further data translation begins, to ultimately get the JSON into a form that EVSS will understand
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/4de941f9-641e-4b06-a0df-1f28edebe89e)
+
 If it exists, the banking information is added to the JSON- calling out to the EVSS PPIU API if needed
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/9beb8b4f-07e8-4aba-bc41-d98f17f9db4e)
-Other translation methods add service pay, service info, veteran info, treatments and disabilities to the JSON. Ancillary form information and flashes are added to the JSON, as well as BIRLS ids. This "final" JSON is saved to the submission record, and the submission service is started
+
+Other translation methods add service pay, service info, veteran info, treatments and disabilities to the JSON. Ancillary form information and flashes are added to the JSON, as well as BIRLS ids. This "final" JSON is saved to the submission record, and the submission service is started...
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/83c9d49b-019e-4e3a-9d5b-e1093060f3b6)
+
+### Submission Service
+Technically, the service is initiated asynchronously from the Submission _Model_, where it is put in a batch. An event handler is set up so that once the actual submission service is successful, processing returns to the model to handle the ancillary file submissions.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/9f71ad21-390c-4b47-8ff8-48c48a3ccfb1)
+
+The submission service starts. If successful, the JSON is submitted to the EVSS submit endpoint
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/ec5a847f-68be-4729-ab1b-9e640a5e2f59)
+
+If there's an error, the submission is essentially put into retryable vs non-retryable buckets (via the job status), to be processed by the Backup Submission Process.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/2e15d87c-7842-4637-ac86-a8ce7c1f885d)
+
+### Ancillary Job Processing
+If successful, however, it's back up to the submission model's event handler to finish processing all the ancillary files
+
+Supplemental files are retrieved from AWS via the SubmitUploads and uploaded via the EVSS document service
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/2ea51ad9-3735-4dc8-9340-983a2ff7d022)
+
+spoiler alert: the backup submission process fetches files from AWS the same way- through the SupportingEvidenceAttachment model, a hybrid beast that is part database table and part uploader
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/56ef3179-8276-419d-a4ba-2ac740b1b9c6)
+
+Form 4142 is uploaded directly to Central Mail
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/1b5d5217-8f0b-417f-ac34-100fad37feae)
+
+Forms 0871 and 8940 are uploaded to VBMS, as well as the BDD supplemental (if it applies). The `get_docs` methods on these jobs are used by the backup submission process as well
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/37f40b96-960a-4bb7-a2a2-71d3ba81684d)
+
+### Backup Submission Process
+When the backup submission is initialized, the Form526BackgroundLoader will begin gathering all the docs, zip them up and upload them to S3. The gather_docs method sets a flag at the processor level when complete so that any other consumers (namely the process method) won't need to redundantly pull them
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/d60288ad-e080-48f6-9e89-07d16728753d)
+
+When gather_docs grabs the 526 PDF itself, it does so by POSTing the submissions JSON to the EVSS API's `getPDF` endpoint, which returns a stream of PDF content used to generate the 526 PDF
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/aba1a66e-751a-4ec5-8916-cf88b8ceab8d)
+
+And as previously mentioned, it calls the `get_docs` on the SupportingEvidenceAttachment model to gather the supplemental docs
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/0a0a7519-5ec8-4196-bd23-bf7068e21ffa)
+
+Other forms are gathered accordingly...
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/b9fb4147-eba5-49de-8228-c5ecbcfd707f)
+
+Finally, once all the docs have been gathered, they are submitted (one way or another) to the Lighthouse API's PUT `getPDF` endpoint
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/6614071c-f7bf-481a-957a-d1508b8a1162)
+
