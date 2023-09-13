@@ -28,11 +28,17 @@ To address this concern, Facilities researched and documented the previous Workf
 
 ## Problem to Solve
 Multiple Workflows created a situation where multiple moderation states with the same name caused publishing failures.
+<img width="624" alt="Screenshot 2023-09-13 at 12 25 44 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/73648238/33f3bde3-06a4-42ba-932f-7cf8ed45316e">
+
 
 ## Proposed Solution
 Create a multiple filter where each Workflow has its own moderation states.
 - Option 1: A moderation state has the same machine name, no matter the Workflow it’s a part of.
+<img width="623" alt="Screenshot 2023-09-13 at 12 25 58 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/73648238/b890ee4b-fffd-4d0d-8b5d-95631c401505">
+
 - Option 2: A moderation state has a different machine name in the dropdown menu depending on the Workflow it’s a part of.
+<img width="618" alt="Screenshot 2023-09-13 at 12 26 09 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/73648238/d6115e50-baf5-4644-8276-7e88c8adb580">
+
 
 ## Measuring Success
 
