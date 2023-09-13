@@ -4,7 +4,7 @@
 Attendees:
 
 Agenda
-- TE Retro
+- Retrospective on toxic exposure research collaboration 
   
 ## 9/7/23- cancelled
 Attendees:
