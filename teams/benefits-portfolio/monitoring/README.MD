@@ -14,7 +14,7 @@
 - [Domo 526 submission volume](https://va-gov.domo.com/page/447193050)  
 ### Monitors and alerts
 - [526 Completion rate is low](https://vagov.ddog-gov.com/monitors/157864)
-- [526 Backup submissionerrors occurred, just a heads up](https://vagov.ddog-gov.com/monitors/158396)
+- [526 Backup submission errors occurred](https://vagov.ddog-gov.com/monitors/158396)
 - [526 Backup submission errors are high](https://vagov.ddog-gov.com/monitors/158397)
 
 ## Intent to file (part of 526 workflow)  
@@ -42,7 +42,9 @@
 - [Benefits - Supplemental Claims](https://vagov.ddog-gov.com/dashboard/uc7-8ai-6c3/benefits---supplemental-claims)
 
 ### Monitors and Alerts
-- In process
+- (Developed by Steve, but in review by SC team)
+- [Supplemental Claims errors](https://vagov.ddog-gov.com/monitors/159197)
+- [Supplemental Claims API traffic is low](https://vagov.ddog-gov.com/monitors/159229)
 
 ## Higher level review – 0995  
 - Slack Channel: 
@@ -64,7 +66,9 @@
 - [Benefits - Notice of Disagreement](https://vagov.ddog-gov.com/dashboard/tvp-imf-tb7/benefits---notice-of-disagreement)
 
 ### Monitors and Alerts
-- in process
+- (Developed by Steve, but in review by SC team)
+- [Notice of Disagreement errors](https://vagov.ddog-gov.com/monitors/159230)
+- [Notice of Disagreement API traffic is low](https://vagov.ddog-gov.com/monitors/159231)
 
 ## Pension – 527  
 - Slack Channel: 
@@ -102,7 +106,7 @@
 ## GI bill – 1900  
 - Slack Channel: 
 - Government PO: 
-- Contract PM: 
+- Contract PM: Potentially Kara Ciprich
 
 ### Dashboards
 
