@@ -200,10 +200,10 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 ### Preparation
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: donna.saunders@va.gov
-* Date and time of pilot session: TBD
+* Date and time of pilot session: 9/18/2023, 1 - 1:30 PM EST
 
 ### Research sessions
-* Planned dates of research: 9/25 - 9/29/2023 (or sooner)
+* Planned dates of research: 9/25 - 9/29/2023
 
 ### Length of sessions
 * Session length: 30 minutes. Sessions per day: 4-5.
