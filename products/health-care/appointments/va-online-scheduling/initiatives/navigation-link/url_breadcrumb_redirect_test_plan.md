@@ -87,7 +87,7 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Past booked, upcoming and pending VA and Community Care appointments - iOS devices
     - [ ] Past booked, upcoming and pending VA and Community Care appointments - Android devices
 
-- [ ] Use Case 5 - Direct scheduling worfklow with the new URL, breadcrumb and re-direct changes 
+- [ ] Use Case 5 - Validate the direct scheduling worfklow with the new URL, breadcrumb and re-direct changes 
       
       Configuration setup in test environment must include: 
   - [ ] Tester will go through each step of the direct scheduling workflow in the tool
@@ -105,7 +105,7 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Review your appointment details page
     - [ ] Confirmation details page after scheduling the appointment 
 
-- [ ] Use Case 6 - Pending request worfklow with the new URL, breadcrumb and re-direct changes (VA) 
+- [ ] Use Case 6 - Validate pending request worfklow with the new URL, breadcrumb and re-direct changes (at a VA faciltiy) 
       
       Configuration setup in test environment must include: 
   - [ ] Tester will go through each step of the direct scheduling workflow in the tool
@@ -122,7 +122,7 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Review your appointment details page
     - [ ] Confirmation details page after submitting the request 
    
-- [ ] Use Case 7 - Pending request worfklow with the new URL, breadcrumb and re-direct changes (Community care) 
+- [ ] Use Case 7 - Validate pending request worfklow with the new URL, breadcrumb and re-direct changes (for Community care only) 
       
       Configuration setup in test environment must include: 
   - [ ] Tester will go through each step of the direct scheduling workflow in the tool
@@ -140,7 +140,7 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Review the appointment details page
     - [ ] Confirmation details page after submitting the request 
 
-- [ ] Use Case 8 - Direct schedule (for COVID-19) worfklow with the new URL, breadcrumb and re-direct changes 
+- [ ] Use Case 8 - Validate direct schedule (for COVID-19) worfklow with the new URL, breadcrumb and re-direct changes 
       
       Configuration setup in test environment must include: 
   - [ ] Tester will go through each step of the direct scheduling workflow in the tool
@@ -162,14 +162,14 @@ On the VAOS homepage, the app displays the following for each status:
 - [ ] [Figma file]()
 
 ### Reference (if applicable) 
-- [X] [Design file]()
-- [X] [Copy doc]()
+- [ ] [Design file]()
+- [ ] [Copy doc]()
 
 ### Test Users 
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Summary Defect Report (+ Jeff will add the list of defects found for this initiative/assisted by Julia) 
-- [ ] [Appointment List Redesign - Defect Report]()
+- [ ] [Appointments on MHV on VA.gov Redesign - Defect Report]()
 
 ### Traceability Report (+ Simi/developers will need to add this link)
 - [ ] [VAOS](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
