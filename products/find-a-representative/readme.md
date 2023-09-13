@@ -1,8 +1,10 @@
-# Find a Representative
+# Accredited Representation Management
 
-The Find a Representative (FAR) product is being revisited in 2023 with the goal of migrating the Veteran experience around finding a representative from the legacy eBenefits platform, to VA.gov.
+_Formerlly known as Find a Representative (FAR)_
 
-The FAR team is part of the OCTO Benefit Tools Crew.
+This product is being revisited in 2023 with the goal of migrating the Veteran experience around finding a representative from the legacy eBenefits platform, to VA.gov.
+
+The Accredited Representation Management team is part of the Accredited Reps Crew in the OCTO Benefits Portfolio.
 
 ## Product Development
 
