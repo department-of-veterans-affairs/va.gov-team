@@ -1,7 +1,7 @@
 # Benefits Disability Experience - Product sync 
 
 ### Date: Sept 14' 2023       
-### Participants: Rashinda, Austin, Emily, Shannon, Jen
+### Participants: Rashinda, Austin, Emily, Shannon, Steve
 ### Topics Covered:
 - Toxic Exposure planning
    - Idea board
