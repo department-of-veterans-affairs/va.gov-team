@@ -1,4 +1,4 @@
-# Sprint 0 Product Brief- Deep Linking (MVP Stage-Q3)
+# Product Brief- Deep Linking MVP for Secure Messages 
 
 ### Problem Statement
 Today, the Deep Linking functionality does not exist in the Mobile App.
