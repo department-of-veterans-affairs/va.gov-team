@@ -59,3 +59,10 @@ Proposed Solution: Update “Help” content
 - [Post Rx launch research, all artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/6dcb82eb1c0d3e56a45e36bba69265ea5d4b076d/products/va-mobile-app/ux-research/usability-testing/rx-post-launch) 
 
 - [App store review summaries](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/reporting/App-Stores-Reviews)
+
+
+## Team Readout/Findings/Recommendations
+- [Repeat Rx filtering analytics#6650.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12611088/Repeat.Rx.filtering.analytics.6650.pdf)
+
+
+  
