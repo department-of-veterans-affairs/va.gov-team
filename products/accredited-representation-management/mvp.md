@@ -66,7 +66,7 @@ Profile Updates
 ## Post-MVP
 
 1. 21-22
-    2. Investigate/address signature errors
+    1. Investigate/address signature errors
 1. Future search fields to investigate
     1. Rep name
     1. Organization
