@@ -1,6 +1,6 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
-## Sprint 13
+## Sprint 14
 Period - 09/13/2023 - 9/26/2023
 ### Sprint goals 
 - **Expedited**
