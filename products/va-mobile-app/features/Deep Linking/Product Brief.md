@@ -24,11 +24,11 @@ We want to provide the veteran with the best user experience possible in order t
 
 ### MVP Q3 Decisions (High Level)
 
-1. Secure Messaging vs Appointments- Deep Linking via SECURE MESSAGING for MVP
+1. Secure Messaging vs Appointments- Deep Linking via **SECURE MESSAGING ONLY **for MVP
 
 Note: Today we have volume of users was noted currently for appts, however we would like to go with secure messaging as it poses the least complication overall
 
-2. Deep Link to Indidual message in the inbox
+2. Deep Link to Individual message in the inbox
 
 Flow: User receives a push notification--> Push notification "deep links" to an individual message in the inbox
 
@@ -59,7 +59,7 @@ The following new analytics events and parameters are required to measure the ef
 2.  parameter notification_url the link from the notification
 
 
-### Open Questions
+### Open Questions (During Research Phase)
 
 1. MVP- Secure messaging or appointments?
 Client's Preference is to implement Deep Linking with secure messaging vs appointments. MVP- Secure Messaging (Q3) will start with secure messages then apply phased approach for next steps with Deep Linking (ex: deep linking with apppts).
