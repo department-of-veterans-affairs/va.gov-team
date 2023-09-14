@@ -146,8 +146,8 @@ Amanda, Wes, and I are available for a kickoff call during any of these times:
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 I have scheduled the following two **pilot tests**:
-- Pilot 1: **Mon Sept 27 TBD ET** with TBD (tbd@adhocteam.us)
-- Pilot 2: **Wed Sept 28 TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 1: **Sept 27 TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 2: **Sept 28 TBD ET** with TBD (tbd@adhocteam.us)
 
 ### Research sessions
 * Planned dates of research: **Oct 2 – Oct 9, 2023** 
