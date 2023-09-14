@@ -1,4 +1,5 @@
-# About this Research Study
+# Accessibility Findings Example
+_This is an example of an assistive technology findings artifact._
 - **Study Name:** MHV: Patient Check In (PCI) Conversation Guide for Unified Check-In Generative Research Usability Study
 - **Study Dates:** June 12 - 20 (not 19, due to the holiday)
 - **Study Research Lead:** Ben Brasso (secondary moderator: Christina Gednalske)
