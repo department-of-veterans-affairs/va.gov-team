@@ -33,13 +33,22 @@ All pages have ratings of 2 or below.
 
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
+- [In-state tuition rates under the Veterans Choice Act](www.va.gov/resources/in-state-tuition-rates-under-the-veterans-choice-act/) (100% good out of 29 total responses)
+- [Eligibility for communicty care outside VA](www.va.gov/resources/eligibility-for-community-care-outside-va/) (95% good out of 22 total responses)
+- [Commissary and exchange privileges for Veterans](www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (95% good out of 231 total responses)
+- [What does burial in a VA national cemetery include](www.va.gov/resources/what-does-burial-in-a-va-national-cemetery-include/) (95% good out of 55 total responses)
+- [VEText for VA health care reminders and updates](www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/) (94% good out of 353 total responses)
 
 
 ### 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
-
+- [GI Bill WAVE FAQs](www.va.gov/resources/gi-bill-wave-faqs/) (10% good out of 10 total responses)
+- [How to get help with concerns at a VA health facility](www.va.gov/resources/how-to-get-help-with-concerns-at-a-va-health-facility/) (10% good out of 50 total responses)
+- [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (15% good out of 249 total responses)
+- [How to file a VA travel reimbursement claim online](www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/TOTAL) (30% good out of 107 total responses)
+- [Should I create a login.gov or id.me account to sign in to VA.gov](www.va.gov/resources/should-i-create-a-logingov-or-idme-account-to-sign-in-to-vagov/) (30% good out of 10 total responses)
 
 ### 5 resources and support pages with the highest volume of total responses and >75% "good" rating
-
+- 
 
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
