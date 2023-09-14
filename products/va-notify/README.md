@@ -160,6 +160,7 @@ Tech Stack
 - We have [postman collections](https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman) that can be used for testing
 
 **Tips for using Postman!**
+
 You must populate the following variables:
 - service-api-key = [api key we provided via encrypted email]
 - service-id = [id for your service in the Self Service Portal, we can provide this to you]
