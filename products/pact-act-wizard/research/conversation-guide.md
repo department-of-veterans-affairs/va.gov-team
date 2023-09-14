@@ -171,6 +171,12 @@ Let’s start with a few questions...
 
 1. Do you get disability compensation from the VA?
 
+1. Are you familiar with the PACT Act?  
+
+    - *(If Y)* What do you know about it? 
+
+    - *(If N)* It’s a new law that expands VA health care and benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances. 
+
 1. Have you applied for VA benefits under the PACT Act?
     - If so, can you tell me about your experience? *(when, how, results)*
 
@@ -243,9 +249,15 @@ Could you tell me what "presumptive conditions" are?
 - Could you please take a look now? 
 - *(After they read it...)* What do "presumptive conditions" mean to you?
 
-What would you do now?
+If you saw this page based on the questions you just answered, **how confident are you that you could take action**? I’d like you to rate your confidence level.  
 
-*(RECORD what they do: Apply for disability / supplemental claim / health care / ___________________________)*?
+- On a scale from 1 to 7, where 1 is *Not at all confident* and 7 is *Extremely confident*, how confident are you that you could take action based on the information in this page? 
+
+- Why? 
+
+- What might that action be? 
+
+- *(RECORD what they do: Apply for disability / supplemental claim / health care / ________)*?
   
  
 ## Post-Task Interview - 7 minutes
