@@ -30,6 +30,26 @@ Jump to:
 ## Details of Findings 
 
 ## Recommendations
+This section is specifically for our design and front end related changes. We have included Content CAIA Team, Office of General Council, and Platform Design System Team findings and recommendations in [Additional Insights and Recommendations](#additional-insights-and-recommendations)
+
+1. Ensure the buttons to move past the terms of use are easy to find
+   - Key Finding 2 - most folks want to move past terms of use as quickly as possible
+2. Continue to utilize accordions and keep the full terms of use content collapsed in accordions by default
+   - Key Finding 2 - we should make terms of use as easy as possible to move past
+   - Key Finding 2 - folks who are interested in a section of the terms of use can easily open up that accordion to read more
+   - Key Finding 6 - accordions use on this page resonates with folks
+3. Ensure headings are clear 
+   - Key Finding 6 - the top H1 heading and the first H2 heading seemed to overlap. While it isn’t final language, one of the H3 accordion headers was “Feedback” and folks weren’t sure what that referred to.
+4. The PDF download doesn’t have to be prominent on the page, especially if the content can be easily found later on
+   - Key Finding 6 - The PDF on the terms of use page was easy to find but not of interest
+5. For future terms of use updates that require user input to accept, consider using a modal or another way to present instead of a full page with the standard VA header and navigation. For example a modal or a full page without standard site navigation are more standard presentations for terms of use.
+   - Key Finding 6 - some folks thought the presentation of terms of use prototype was strange, and it may be because they are used to seeing other services display terms of use not on a standard site page
+   - In addition, a modal could easily be used to stop people from navigating off page before they’ve accepted it
+   - 2023-04 Proactive CSP Migration, Key Finding 1 - modals are disruptive, but in this case user input is required and compliance is compulsory before moving on, so this could warrant an interrupting modal
+6. For future terms of use updates, we could consider adding a warning about signout before being signed out on selecting decline.
+   - Key Finding 6 - if someone accidentally selects decline, they’d need to sign back in to accept the terms of use, which for some veterans, especially assistive technology users can take a significant amount of time.
+   - It also came up that implementing a warning might be warning overkill, so it’s something we’d want to consider further and possibly also test further before implementing.
+
 
 ## Additional Insights and Recommendations
 
