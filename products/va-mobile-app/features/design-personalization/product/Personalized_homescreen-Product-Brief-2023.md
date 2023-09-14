@@ -59,7 +59,7 @@ The first version of Personalization will be a personalized home screen that off
 
 * Give Veterans a high-level snapshot of their status within VA (“digital self”).
 * Provide a persistent overview of their current interactions across VA in the app.
-* Make it clear when an important-to-them feature needs their attention.
+* Make it clear when a feature needs their attention.
 * Demonstrate the value of the VA mobile app to Veterans without requiring them to dig into each individual feature.
 
 #### V2 & Beyond
