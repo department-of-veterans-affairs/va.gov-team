@@ -376,7 +376,7 @@ Any questions unable to be answered through Secondary Research are recommended t
         - [2019/11 Facility Locator Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/user-research-findings.md)
     - If 'No Results' occurs, **provide clear, actionable next steps**.
         - [2022/02 VBA Service Label Usability Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
-    - On mobile, make the map/list tab **easily**** accessible to users at all times** as users tend to miss it.
+    - On mobile, make the map/list tab **easily accessible to users at all times** as users tend to miss it.
         - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)
 
 **Veteran Key Finding 3**
@@ -400,12 +400,12 @@ Any questions unable to be answered through Secondary Research are recommended t
 
 7. For Veterans wanting to complete tasks on their own, provide representative information to reach out for assistance **inline with their tasks** if they encounter any challenges.
     - [2023/01 Decision Reviews Study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/213) F6
-8. Ensure that when a Veteran is looking for information, the structure is designed to **minimize situations where they hit a dead end** , which can be a source of significant frustration.
+8. Ensure that when a Veteran is looking for information, the structure is designed to **minimize situations where they hit a dead end**, which can be a source of significant frustration.
     - [2022/01 Testing the Naming Conventions of Current VBA Services](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/75) F3
 
 **Rep Key Finding 1**
 
-1. Allow for notifications and access to Veteran information to attorney and claim agent support staff that action is needed on PoA.
+1. Allow for notifications and access to Veteran information to attorney and claim agent support staff.
     - Note: This may no longer be relevant as it seems to have been addressed in 2022, but need someone to confirm.
         - [2022/06 Individuals Using the Department of Veterans Affairs' Information Technology Systems To Access Records Relevant to a Benefit Claim](https://www.federalregister.gov/documents/2022/06/24/2022-13312/individuals-using-the-department-of-veterans-affairs-information-technology-systems-to-access#:~:text=VA's%20objective%20with%20this%20rulemaking,representation%20consistent%20with%20VA's%20policies.)
 
