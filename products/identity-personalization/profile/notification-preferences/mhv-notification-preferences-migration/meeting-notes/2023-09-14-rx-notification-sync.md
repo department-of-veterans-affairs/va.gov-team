@@ -2,10 +2,10 @@
 September 14, 2023
 
 **Jump to:**
-- Definitions
-- Known differences between text and email RX shipping notifications
-- Email notification details
-- Next steps
+- [Definitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/meeting-notes/2023-09-14-rx-notification-sync.md#definitions)
+- [Known differences between text and email RX shipping notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/meeting-notes/2023-09-14-rx-notification-sync.md#known-differences-between-text-and-email-rx-shipping-notifications)
+- [Email notification details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/meeting-notes/2023-09-14-rx-notification-sync.md#email-notification-details)
+- [Next steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/meeting-notes/2023-09-14-rx-notification-sync.md#next-steps)
 
 ## Background
 ### Agenda
