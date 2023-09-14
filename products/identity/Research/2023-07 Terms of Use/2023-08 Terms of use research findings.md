@@ -27,6 +27,16 @@ Jump to:
 
 ## Key Findings
 
+1. Terms of Use is a widely accepted practice, and veterans expect to see them.
+   - Folks have a well-established mental model with terms of use
+2. Most veterans move past (i.e. accept) terms of use as quickly as possible and without reading them.
+   - Some folks will be interested in a particular section of the terms of use and may skim or read a portion of that section
+3. Terms of use can be seen as positive if the user has a positive relationship with the service and if the terms include protections for the user
+4. Veterans rarely decline a service’s terms of use, but when they do the consequences are clear.
+5. Accordion functionality and our prototype’s button language resonate with veterans.
+6. Parts of our prototype terms of use page were validated in usability testing, but some modifications could make this prototype terms of use more usable.
+
+
 ## Details of Findings 
 
 **1. Terms of use is a widely accepted practice, and veterans expect to see them**
