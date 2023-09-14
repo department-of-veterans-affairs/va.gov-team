@@ -1,10 +1,20 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Sept 14' 2023       
+### Participants: Rashinda, Austin, Emily, Shannon, Jen
+### Topics Covered:
+- Toxic Exposure planning
+   - Idea board
+   - Do we need anything else for a productive discussion? 
+- Update - LH delay with /submit, /getPDF
+  
 ### Date: Sept 7' 2023       
 ### Participants: Rashinda, Austin, Emily, Jen, Shannon
 ### Topics Covered:
 - Review Toxic Exposure plan
 - Do we need any process for multiple teams working on one product(526)?
+   - No processes necessary, let collab cycle manage it
+   - Share production readiness checklist with the the benefits portfolio for non-collab cycle tickets - Rakshinda
  
 ### Date: Aug 31' 2023       
 ### Participants: Rashinda, Austin
