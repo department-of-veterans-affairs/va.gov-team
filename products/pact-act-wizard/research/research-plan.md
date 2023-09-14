@@ -141,18 +141,16 @@ Ask Perigean to recruit **8 Veterans and 3 family members** of Veterans who meet
 Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I would also like to discuss the relative priorities of recruitment criteria (e.g., it’s more important to recruit at least 4 people who are 55 years or older than it is to recruit 7 people who will join from their smartphone), and how the criteria are prioritized when recruiting replacements for participants who cancel in advance. 
 
 Amanda, Wes, and I are available for a kickoff call during any of these times: 
-- **Mon Sept 18** 11:30 am-1 pm, 2-4:30 pm ET
-- **Tue Sept 19** 1:30-3 pm ET
-- **Wed Sept 20** 1-4 pm ET
+- **Fri Sept 22** TIMES TBD ET
 
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 I have scheduled the following two **pilot tests**:
-- Pilot 1: **Mon Sept 19 TBD ET** with TBD (tbd@adhocteam.us)
-- Pilot 2: **Wed Sept 20 TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 1: **Mon Sept 27 TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 2: **Wed Sept 28 TBD ET** with TBD (tbd@adhocteam.us)
 
 ### Research sessions
-* Planned dates of research: **Sept 27 – Oct 4, 2023** 
+* Planned dates of research: **Oct 2 – Oct 9, 2023** 
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
 
@@ -165,12 +163,12 @@ We would like to request that **Perigean calls each participant** to remind them
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Sept 27, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Sept 28, 2023 | 12-1, 5-6, 7-8 pm 
-Sept 29, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
 Oct 2, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
 Oct 3, 2023 | 12-1, 2-3, 7-8 pm 
 Oct 4, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Oct 5, 2023 | 12-1, 2-3, 5-6, 7-8 pm
+Oct 6, 2023 | 12-1, 2-3, 5-6, 7-8 pm
+Oct 9, 2023 | 12-1, 5-6, 7-8 pm
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
