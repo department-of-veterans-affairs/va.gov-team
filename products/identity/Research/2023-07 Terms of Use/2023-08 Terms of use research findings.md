@@ -86,7 +86,7 @@ The tested terms of use page reinforced this, and the warning alert titled “Wh
 
 Labels: `Accessibility`, `AUD: Veterans`, ‘DSC: Accordions’, ‘HDW: Desktop’, ‘HDW: Laptop’, ‘ HDW: Smartphone’, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote’, `RESRCH: Usability’
 
-- Related to: Hypothesis 1, Question 1, Question 3, Question 4
+- Related to: Hypothesis 1, Question 1, Question 2, Question 3, Question 4
 
 Usability testing validated the use of **accordions** on the terms of use page. All participants, including older and assistive technology users, understood the accordions, and they could be expanded to read more about that section. While most would not open them up and read the content, they did all understand the functionality. Since the accordions begin in a collapsed state, veterans who prefer to skip through terms of use can scroll down to the buttons quicker than if the entire content showed. Also folks who are interested in just one section can find it easier and expand it without scrolling through the entire content.
 
