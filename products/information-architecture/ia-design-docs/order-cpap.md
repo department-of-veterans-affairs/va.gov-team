@@ -33,7 +33,7 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 
 2.  Order Form (CPAP and hearing aids combined) - Edit
 
--   URL: https://va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form-2346/introduction
+-   Base URL: https://va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form
 
 -   Breadcrumb: Home > Healthcare > Order hearing aid or CPAP supplies
 
@@ -52,7 +52,7 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 
 | Current URL                                                  | Redirect to                                                                           | Note                                                                                   |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Not sure -- I tried to find in staging, but it wouldn't load | https://.va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form-2346/introduction | All of the child pages in this form will have to be redirected to the base URL as well |
+| Not sure -- I tried to find in staging, but it wouldn't load | https://.va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form | All of the child pages in this form will have to be redirected to the base URL as well |
 
 
 
