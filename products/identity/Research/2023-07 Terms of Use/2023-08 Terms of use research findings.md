@@ -19,11 +19,33 @@ Jump to:
 
 ## Research Goals
 
+VA would like all users utilizing the authenticated experience on VA.gov and across its surrounding sites and services to be presented with a unified version of the terms and conditions. These terms of use should be able to track acceptance on a user-by-user basis, including when revisions are made to the terms and conditions and updates are presented to the user.
+
+With the research on this new terms of use page, we wanted to: 
+- Explore veterans thinking around terms of use as a general concept and as it relates to the VA.gov website specifically.
+- Understand how being presented with a terms of use page might be disruptive to the Veteran’s sign in experience.
+- Test the usability of a prototype for updated terms of use, specifically considering the use of accordions, the use of button language, and if folks can move past the terms of use.
+
+
 ## Research Questions
+
+1.  Does the prototype allow users to successfully understand the updated terms of use?
+2.  Are folks able to successfully complete this page in order to move onto the authenticated experience?
+3. Is there a substantial usability difference between certain language and design options?
+4. What changes would make the prototype more helpful or more usable?
 
 ## Methodology 
 
+We combined several methodologies for this test. We conduct interview discussions to evaluate how veterans felt about terms of use in general and specifically for VA. We tested prototypes tailored to the mobile, desktop and screen reader experiences to ensure that participants were able to read through sections of the terms of use they were most interested in and move past the terms of use page when they were ready. Finally, as part of the usability testing we included a modified multivariate test to look at the language of the two buttons that move a user past this page.
+
 ## Hypotheses and Conclusions
+
+1. Veterans will be familiar with terms of use from other sites and apps.
+   - **Definitely True** - We spoke with a range of folks of varying ages to those using various technologies to access the web; everyone has seen terms of use many times on other websites and expected that the VA will have a terms of use as well. 
+2. Veterans will see needing to agree to an updated terms with VA as a nuisance.
+   - **Partially True** - The words “nuisance,” “aggravating,” or “annoying” were used by several participants, unprompted. However, most just see terms of use as a largely necessary thing, whether or not they expressed their displeasure with it or view it in a negative way. Additionally, a couple participants did discuss how they liked knowing a terms of use is there, and especially to what extent it protects a user of a given site.
+3. Veterans will opt to click past this as quickly as possible by not reading any long paragraphs so they can move on to their task at hand.
+   - **Mostly True** - Most participants expressed they move past terms of use on other sites as quickly as possible and only put in the minimum effort - like scrolling through the entire terms when forced or clicking to accept but not actually reading. A couple participants did say they prefer to either skim or read at least some sections of a terms of use. Some of those who would read or skim, expressed they had decreased need to read terms of use on a government site, since they had confidence that the entity wouldn’t be able to use their information in a nefarious way - meaning they might be less likely to read the terms of use from the VA as compared to a private site.
 
 ## Key Findings
 
