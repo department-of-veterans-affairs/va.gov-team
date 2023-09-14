@@ -27,6 +27,9 @@ ________________________________________________________________________________
        - What does Ethan need from us next?
 - **GOAL: Make submission of a travel reimbursement claim easier**          
    - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Determine scope and PCI role in researching/implementing past appointments for travel reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65592)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create visual back-end userflow for past appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65593)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Create Lo-Fi Wireframe Structure for Past Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65594)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Lo-Fi Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65413)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65414)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
@@ -53,6 +56,7 @@ ________________________________________________________________________________
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Guides based on Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65298)
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[FE] Use the Same Facility Identifier that BTSSS Uses to Determine if Veteran has Already Submitted a Travel Claim for a Specific Day and Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65628)
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[FE] [BE] SPIKE: Determine how we might filter out all appointment types that are not supported using stop codes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65618)
+    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [SPIKE: Address bug with checking-in to multiple appointments at different facilities on same day](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60842)
     - **Sub Goal: Align with Design System Recommendations**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change all wireframes to 320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
     - **Sub Goal: Make the Switch to Version 3 of the Design System** 
