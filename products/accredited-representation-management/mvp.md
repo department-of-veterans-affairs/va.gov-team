@@ -66,8 +66,6 @@ Profile Updates
 ## Post-MVP
 
 1. 21-22
-    1. Allow folks not logged in to pre-fill personal information
-    1. Allow folks logged in to pre-fill any remaining information (not personal/rep information)
     2. Investigate/address signature errors
 1. Future search fields to investigate
     1. Rep name
