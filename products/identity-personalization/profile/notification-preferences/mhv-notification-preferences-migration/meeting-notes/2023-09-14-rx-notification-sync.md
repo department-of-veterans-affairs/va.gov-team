@@ -1,6 +1,12 @@
 # Prescription Notifications Sync
 September 14, 2023
 
+**Jump to:**
+- Definitions
+- Known differences between text and email RX shipping notifications
+- Email notification details
+- Next steps
+
 ## Background
 ### Agenda
 Clarify questions ([Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1693921206330489)) regarding differences between text and email notifications for RX shipping notifcations, in preparation for the migration of My HealtheVet (MHV) to VA.gov
@@ -28,7 +34,7 @@ Clarify questions ([Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p169
 - Implicit permission is collected through a relevant VA process, like submitting an application for health care or filing for a BVA appeal.
 - The VA Profile API has a “default send indicator” property with `true` and `false` values for each notification item
 
-### Differences between text and email RX shipping notifications
+### Known differences between text and email RX shipping notifications
 This table reflects current information as of 9/14/2023
 | Notification channel | Default send | Sent if RX is filled locally     | Sent if RX is filled through CMOP | Available ONLY if there is an associated VA user account (MHV or VA.gov) | Where can users manage permissions? |
 |----------------------|--------------|----------------------------------|-----------------------------------|--------------------------------------------------------------|-------------------------------------|
@@ -37,9 +43,9 @@ This table reflects current information as of 9/14/2023
 
 **Note:** The overall goal is that any Veteran, with any Rx could get notification by text OR email.  How we get there is still TBD and likely not going to be solved in the near term.
 
-### Email notification notes
+### Email notification details
 - Current plan is to seed VA Profile data with what they have from MHV right now
-- Sounds like there is flexibility with how we get to the final state
+- Sounds like there is flexibility with how we get to the final state of displaying all MHV email notifications
 - We discussed two MVP approaches: 
   - update the notification item name to reflect where the notification is coming from, but that relies on the Veteran having a clear understanding of where their Rx is coming from (CMOP vs local)
   - Rely on the help text to communicate the differences to users
