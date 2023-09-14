@@ -161,7 +161,7 @@ This section is specifically for our design and front end related recommendation
    - Key Finding 6 - the top H1 heading and the first H2 heading seemed to overlap. While it isn’t final language, one of the H3 accordion headers was “Feedback” and folks weren’t sure what that referred to.
 4. The PDF download doesn’t have to be prominent on the page, especially if the content can be easily found later on
    - Key Finding 6 - The PDF on the terms of use page was easy to find but not of interest
-5. For future terms of use updates that require user input to accept, consider using a modal or another way to present instead of a full page with the standard VA header and navigation. For example a modal or a full page without standard site navigation are more standard presentations for terms of use.
+5. For future terms of use updates that require user input to accept, consider using a modal or another way to present instead of on a full page with the standard VA header and navigation. For example a modal or a full page without standard site navigation are more standard presentations for terms of use.
    - Key Finding 6 - some folks thought the presentation of terms of use prototype was strange, and it may be because they are used to seeing other services display terms of use not on a standard site page
    - In addition, a modal could easily be used to stop people from navigating off page before they’ve accepted it
    - 2023-04 Proactive CSP Migration, Key Finding 1 - modals are disruptive, but in this case user input is required and compliance is compulsory before moving on, so this could warrant an interrupting modal
