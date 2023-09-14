@@ -5,4 +5,4 @@ It explains the reasons for each decision, so team members can identify their or
 |Date|Inquiry/Question|Decision/Answer|
 |--------|:-----------|:-------------|
 **9/5/23** | Problem C: Two statuses that need to be deleted from mobile filter list & logic: Active Suspended & Non-Verified.  When a prescription is in suspended status, the API sends it as refill in process; hence mobile will not receive a status Active: Suspended. Per Dr. Sphan'non-verified' we've never shown those b/c they are not useful to users and are <500 compared to the approx 18-20million prescription statuses within one year query.  Ticket [4906](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4906#issuecomment-1707220696) created to address.  Next step confirming ok to move forward| Notification provided to Dr. Spahn and Sirisha on 9/6 that mobile would be removing the statuses.  Thumbs up provided by both. [DSVA Thread](https://dsva.slack.com/archives/C04PRFEJQTY/p1693235183889379)
-| Problem D: 
+|9/14/23| Problem D: | |
