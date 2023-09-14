@@ -1,5 +1,14 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**September 14, 2023**
+-
+Attendees: Aliyah, Joe, Carl, Laura, Nathalie, and Ngozi
+
+**Notes** 
+- **REMINDER** - Aliyah and Laura (and the content side of the CAIA team) will be at an offsite from September 20-22. If there are any urgent content needs, send a message in the sitewide-content-accessibility-ia Slack channel.
+- On the **Verifying your identity on VA.gov** page, we're going to re frame the question "Can I verify my identity in person" to be about Login.gov.
+- Nathalie (chatbot team) is going look at how to integrate the newer sign in and identity content and consider how their team might train the chatbot. More updates from their team TBD.
+
 **August 31, 2023**
 -
 Attendees: Aliyah, Laura, Tinu, Lauren, Carl, Sophia, and Nathalie
