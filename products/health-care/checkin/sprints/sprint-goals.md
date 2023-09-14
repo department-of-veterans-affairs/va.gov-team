@@ -6,28 +6,29 @@ ________________________________________________________________________________
 ## 9/20/2023 - 10/3/2023  ---------------- FUTURE / TENTATIVE ----------------------
 #### SPRINT GOALS
 - **GOAL: Comply with ATO**
-    - **Sub Goal: Perform Compliance Tasks**
+    - **Sub Goal: Gather Evidence for Proving ATO Compliance**
  - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Evolve travel reimbursement during online check-in**
+    - **Sub Goal: File any Claim Type for a Past Appointment - Design & Discovery**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
      - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
      - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Add Translated Content**
 - **GOAL: Address tech & design debt**
+     - **Sub Goal: Align with Design System Recommendations** 
+     - **Sub Goal: Make the Switch to Version 3 of the Design System** 
 
 #### PLANNED RELEASES 
 - NONE
 
 #### SPRINT TICKETS
-- **GOAL: [Comply with ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
-    - **Sub Goal: Perform Compliance Tasks**
+- **GOAL: Comply with ATO**
+    - **Sub Goal: [Gather Evidence for Proving ATO Compliance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
        - What does Ethan need from us next?
 - **GOAL: Make submission of a travel reimbursement claim easier**          
-   - **Sub Goal: Evolve travel reimbursement during online check-in**
-      - **EPIC: [File any Claim Type for a Past Appointment: Discovery & Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
-          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Lo-Fi Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65413)
-          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65414)
+   - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Lo-Fi Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65413)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65414)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
@@ -48,11 +49,17 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Product][UX] Send QA Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64625)
 - **GOAL: Address tech & design debt**    
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Guides based on Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65298)
-    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change all wireframes to 320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
-    - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
-        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #1: Update form components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65490)
-        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
-        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #3: Update alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65493)
+    - **Sub Goal: Align with Design System Recommendations**
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change all wireframes to 320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
+    - **Sub Goal: Make the Switch to Version 3 of the Design System** 
+        - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] DS v3 #3: Update alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64829)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] DS v3 #4: Update additional info components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65566)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65567)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #1: Update form components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65490)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #4: Update additional info components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65596)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
 
  ---------------- END FUTURE / TENTATIVE ----------------------
 __________________________________________________________________________________________________________________________________________________________
