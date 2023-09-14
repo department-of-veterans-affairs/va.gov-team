@@ -7,7 +7,23 @@
    - Idea board
    - Do we need anything else for a productive discussion? 
 - Update - LH delay with /submit, /getPDF
-  
+   - Check if some page needs to be updated weekly 
+- Timing of larger RICE prioritization effort. Team 2 has research capacity. Team 1 has some as well
+    - UX for DataDog Dashboards - Idea board
+    - Reach out to Shannon for A/C
+    - ITF vs IPF diagram
+    - Evidence - What/Where/How - Content Audit
+    - Form abandonment
+      - Shadowning veterans
+      - Planning the research
+      - Realtistic e2e health check   
+- Access / walk through of Tableau data / is there information we can start gather based on initial thoughts around priorities that can help facilitate the RICE process?
+    - Schedule a walk-through with Emily 
+-  List of Sidekiq jobs - survey for Platform team
+  - Steve has a csv list
+  - Team 1 is identifying all submission sidekiq jobs
+  - Check if Team 2 could pick up all non-submission jobs
+
 ### Date: Sept 7' 2023       
 ### Participants: Rashinda, Austin, Emily, Jen, Shannon
 ### Topics Covered:
