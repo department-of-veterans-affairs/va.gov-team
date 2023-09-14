@@ -9,7 +9,7 @@ September 14, 2023
 
 ## Background
 ### Agenda
-Clarify questions ([Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1693921206330489)) regarding differences between text and email notifications for RX shipping notifcations, in preparation for the migration of My HealtheVet (MHV) to VA.gov
+Clarify questions ([Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1693921206330489)) regarding differences between text and email notifications for RX shipping notifications, in preparation for the migration of My HealtheVet (MHV) to VA.gov
 ### Attendees
 - VA Authenticated Experience team members: Samara Strauss, Travis Cahill, Adam Whitlock, Pam Drouin, and Liz Lantz
 - VA Notify team members: Beverly Nelson, Melanie Jones
@@ -52,7 +52,7 @@ This table reflects current information as of 9/14/2023
 
 ## Next steps
 ### Answer outstanding questions
-1. Is it clear to Veteran if their prescription is coming from CMOP or a local facility? *Beverly to clarify with Shane*
+1. Is it clear to Veterans if their prescription is coming from CMOP or a local facility? *Beverly to clarify with Shane*
 2. How can we reconcile the discrepancy between default send values between text and email channels, without over notifying the Veteran? *Beverly, Samara, Shane, and Kay*
 
 ### Implement feature toggles
