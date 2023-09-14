@@ -82,7 +82,7 @@ o	This is supported in the broader literature about the ways in which advanced a
 ## Barriers and facilitators
 
 **Motivations and attitudes towards change: Sign in/Identity** 
-It is reasonable to expect most Veterans to be reticent to change to a new login option. One study found that their participants would continue to use familiar credentials (like My HealtheVet or DS Logon) even after setting up a Login.gov account (Login.gov Adoption Discovery Study, 2022).
+It is reasonable to expect some or many Veterans to be reticent to change to a new login option. One study found that their participants would continue to use familiar credentials (like My HealtheVet or DS Logon) even after setting up a Login.gov account (Login.gov Adoption Discovery Study, 2022).
 
 Multiple studies ([Proactive CSP Migration Study, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20research%20findings.md); [Deferred Identity Proofing Usability Study, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability); [Login.gov Adoption Discovery Study, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2022-10-Login.gov-Adoption-Discovery-Research/login.gov%20adoption%20discovery%20research%20findings.md)) have observed that their Veteran participants are motivated to change login options only when: 
 -	They are forced to change – i.e., in response to fearing loss of access to their benefits (observed most often)
