@@ -48,7 +48,11 @@ All pages have ratings of 2 or below.
 - [Should I create a login.gov or id.me account to sign in to VA.gov](www.va.gov/resources/should-i-create-a-logingov-or-idme-account-to-sign-in-to-vagov/) (30% good out of 10 total responses)
 
 ### 5 resources and support pages with the highest volume of total responses and >75% "good" rating
-- 
+- [The PACT Act and your VA benefits](www.va.gov/resources/the-pact-act-and-your-va-benefits/) (79% good out of 5570 total responses)
+- [Your intent to file a VA claim](www.va.gov/resources/your-intent-to-file-a-va-claim/) (74% good out of 3154 total responses)
+- [How to check in with your smartphone for some VA appointments](www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (89% good out of 1141 total responses)
+- [VEText for VA health care reminders and updates](www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/TOTAL)
+- [Commissary and exchange privileges for Veterans](www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (95% good out of 231 total responses)
 
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
