@@ -37,6 +37,8 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Evaluate and update wireframe for no upcoming appts scenario](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65286)
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - BLOCKED BY OTHER TEAMS
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Upcoming Appointments Progress Loading Indicator](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65614)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Messages when there are no Upcoming Appointments to Display or Retrieval Failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65616)
         - **EPIC: [Unified Check-in: Priority 8 - Changes to Need Help Section & Alert ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62515)**
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update Content in the Needs Help Section on All Pre-Check-in and Check-in Pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65477)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update Content in the Needs Help Section on All Check-in Travel Pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65479)
@@ -49,6 +51,8 @@ ________________________________________________________________________________
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Product][UX] Send QA Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64625)
 - **GOAL: Address tech & design debt**    
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Guides based on Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65298)
+    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[FE] Use the Same Facility Identifier that BTSSS Uses to Determine if Veteran has Already Submitted a Travel Claim for a Specific Day and Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65628)
+    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[FE] [BE] SPIKE: Determine how we might filter out all appointment types that are not supported using stop codes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65618)
     - **Sub Goal: Align with Design System Recommendations**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change all wireframes to 320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
     - **Sub Goal: Make the Switch to Version 3 of the Design System** 
