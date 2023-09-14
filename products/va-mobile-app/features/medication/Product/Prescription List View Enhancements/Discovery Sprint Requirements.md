@@ -40,7 +40,10 @@ Two statuses need to be deleted:
 - Non-verified
 
 **Action:** MHV backend team, Yeruva, Sirisha V., to confirm that these statuses are no longer available. https://dsva.slack.com/archives/C04PRFEJQTY/p1693235183889379 (Confirmed by Sirisha)
-Next Step: Mobile to create backlog ticket to remove statuses
+
+**Next Step:**
+- Mobile to create backlog ticket to remove statuses
+- Notified Sirisha & Dr. Spahn that mobile will be removing the 2 statuses (see: [decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/medication/Product/Prescription%20List%20View%20Enhancements/Decision%20Log.md) for details)
 
 ## Problem D:
 
