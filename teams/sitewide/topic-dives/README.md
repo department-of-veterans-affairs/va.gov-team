@@ -75,4 +75,8 @@ Please add any potential future topics you would like covered below:
 - Tim Cosgrove
 - [Next-build overview and roadmap video](https://drive.google.com/file/d/18RxKVLKSWoWLH9KcaHF3PcL00huHkaHx/view)
 - [Next-build overview and roadmap slides](https://docs.google.com/presentation/d/1QslO0qdxQm2QFczE0dxKrwCMFjqlRh-_z2xnc5eK83U)
+
+### 12/2/2021 - Centralized Content
+- Steve Wirt
+- [Centralized Content video](https://www.youtube.com/watch?v=uLUXpbc1DhM)
   
