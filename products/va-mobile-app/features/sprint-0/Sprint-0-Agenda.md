@@ -62,6 +62,7 @@ The Sprint 0 meeting is a time to do the following:
 
 ## 9/13/23
 * [Sprint 0: Pre-Needs Burial Claim - Adam](https://docs.google.com/document/d/1DTio0ekfMld9RuvfqPChfvEhBtxL6qGo2hto46MekG0/edit)
+  * Not for Q4, but keep on the list
 
 ## 8/31/23
 * Identity Team coming to talk about Terms of Use
