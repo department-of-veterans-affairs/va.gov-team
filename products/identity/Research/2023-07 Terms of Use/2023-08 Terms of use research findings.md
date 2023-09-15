@@ -1,4 +1,4 @@
-# 2023-08 Terms of use research findings - WIP
+# 2023-08 Terms of use research findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Terms of Use, Core Identity team**
 
