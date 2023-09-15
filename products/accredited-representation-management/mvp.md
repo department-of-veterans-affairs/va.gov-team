@@ -29,7 +29,7 @@ The Accredited Representation Management (ARM) MVP will include desktop & mobile
     1. If authenticated and if veteran has an existing rep, display existing rep
 1. Selection
     1. Search results will have a button to 'Select' the representative
-1. Form 21-22
+1. Form 21-22/21-22a
     1. Pre-fill the form for PDF download
         1. Authenticated: both rep and personal information
         1. Unauthenticated: rep information, no personal information
@@ -65,14 +65,14 @@ Profile Updates
 
 ## Post-MVP
 
-1. 21-22
-    1. Investigate/address signature errors
 1. Future search fields to investigate
     1. Rep name
     1. Organization
     2. Remote support
-1. Submission
-    1. Requires signatures
+1. Submission of 21-22/21-22a
+    2. Requires signatures
+    3. Investigate/address signature errors
+    4. Determine if we can support digital submission for attorneys and claim agents who often require fee agreements before accepting PoA
 1. Notifications
     1. Representative approved request
     1. Representative rejected request
