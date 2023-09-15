@@ -1,75 +1,83 @@
 
 # Product Outline: Accredited Representation Management
-*The content below is very much WIP*
 
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Create a high-quality accessible service or suite of services within VA.gov to serve Veterans in managing their Power of Attorney (PoA) representation and to support the deprecation of the legacy system used to take those actions.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+There is not currently an experience on VA.gov for Veterans to find a representative and appoint PoA.  The current experience happens either in person (offline) or through an older system called eBenefits which does not provide a great user experience: confusing errors, dead ends, and inconsistent user flows. 
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+**How might we unify this process on VA.gov and provide users with clear instructions and expectations around next steps?**
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+1. Veterans can use VA.gov to search for a representative and appoint PoA
+2. Veterans will have a clear understanding of the types of representatives and the process behind granting that representative PoA
+3. Veterans will be able to easily see if they already have an appointed representative on file
+4. On related VA.gov interactions that may benefit from appointing PoA, Veterans can easily transition to searching for a representative and appointing PoA
 
 ## Undesired User Outcomes
-
+1. Veterans are unable to easily or successfully appoint PoA
+2. Veterans are unable to easily or successfully manage their PoA (including changing and removing representation)
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+1. Increase the functionality of VA.gov to support searching and appointing representatives
+2. Provide Veterans with the necessary tools and understanding to manage PoA on their own
 
 ## Undesired Business Outcomes
-
+1. Users mail in a form to appoint PoA instead of using our system on VA.gov
 
 ---
 ## Measuring Success
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
+1. **% of users by traffic source**
+   _Where are users coming into our product flow from?_
+3. **% of users who end up downloading a form after initiating a search** 
+    _Are users making it through the entire flow?_
+    1. Drop off points to track could include:
+        1. Display search results, but no selection
+        2. Made a selection, but did not complete the form pre-fill
+4. **Average time (minutes) from search → form download**
+    _How long does it take to complete the entire flow?_
+    1. Could be broken out by steps so we can understand which steps are taking longer
+    2. Would be nice to pair the average metric with a bar chart that shows the minutes from initiating a search to downloading a form (to understand the average and median, but also the range)
+5. **% of authenticated users who initiate a search** (logged on vs. not logged on)
+    _How many of our users are logged into a VA.gov account?_
+6. **% of authenticated users who end up downloading a form after initiating a search**
+    _How many of our users are looking for replacement representation?_
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+### Baseline KPI Values
+1. Number of users completing the search→form download in VA.gov each week/month 
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
-
+1. **Objective**: Veterans start moving away from legacy processes for finding a representative, in favor of our solution on VA.gov 
+    1. **Key Result**: % of week-over-week/month-over-month growth for users initiating a search
+        _Comparing baseline KPI values over time to examine growth_
+2. **Objective**: Our MVP flow on VA.gov allows users to successfully find a representative and download a pre-filled 21-22/21-22a form
+    1. **Key result**: % of users who end up downloading a form after initiating a search
+        _KPI #1 from above_
+    2. **Key result**: Average time (minutes) from search → form download
+        _KPI #2 from above_
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+1. Veterans are interested in searching for a representative and appointing PoA on their own, as long as they have a clear understanding of the process
 
 ## Solution Approach
+**Next step:** Our immediate goal is to provide Veterans with functionality that exists today, but on a unified website (VA.gov).  The plan is to kick off with an MVP which will mirror the same functionality on eBenefits, but with a more consistent and intuitive experience that lives directly on VA.gov.  
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
+**For future:** Our ultimate goal is to allow Veterans to search for a representative AND appoint PoA entirely on VA.gov.  Appointing PoA requires digital submission of a 21-22 or 21-22a form, which we currently do not have supporting API endpoints from Lighthouse to use.  Post-MVP we plan to:
+1. Identify support for these Lighthouse API endpoints
+2. Investigate how to apply signatures from two parties to achieve digital form submission
+3. Consider notifications for when a representative request is approved/rejected
+4. Explore additional features like managing open requests for representatives and managing existing representative relationships
+5. Integrate with other products or experiences that involve Veterans looking for a representative
 
 --- 
 
@@ -106,27 +114,18 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 #### Communications
 
-<details>
-
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
+- **Team Name**: Accredited Representation Management
+- **GitHub Label**: accredited-representation-management-team
+- **Slack channel**: #benefits-ce-find_a_rep
 - Product POCs:
 - Stakeholders: 
 
-</details>
-
 #### Team Members
-
-<details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
-</details>
-
+ - **DEPO Lead**: Zach Goldfine
+ - **PM**: Lindsay Li-Smith
+ - **Engineering**: Holden Hinkle
+ - **Research/Design**: Janelle Finnerty
 
 #### Stakeholders
 
