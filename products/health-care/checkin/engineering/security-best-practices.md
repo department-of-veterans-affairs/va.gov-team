@@ -12,6 +12,8 @@ Keep API requests to vets-api only. Vets-api should be where all integrations wi
 
 Make sure 3rd party libraries and dependencies are kept reasonably up to date.
 
+Sanitize input as much as possible to mitigate XSS attacks, libraries and inputs should accept and validate limited data sets.
+
 We don't currently accept user submitted files, but if we do in the future like in the case of travel receipts, we should restrict the file types accepted to a strict set.
 
 ## APIs
@@ -36,6 +38,8 @@ We should do our best to secure any API we create so that it is scoped to its sp
 Usernames, passwords, session tokens, and API keys should not appear in the URL, as this can be captured in web server logs, which makes them easily exploitable.
 
 Validate request parameters on the very first step, before it reaches application logic. Put strong validation checks and reject the request immediately if validation fails.
+
+Sanitize data or use ORMs, to prevent SQL injection and alteration.
 
 The text in this section is from the following article: https://restfulapi.net/security-essentials/
 
