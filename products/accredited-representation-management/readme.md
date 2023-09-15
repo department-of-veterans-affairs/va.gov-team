@@ -2,19 +2,17 @@
 
 _Formerlly known as Find a Representative (FAR)_
 
-This product is being revisited in 2023 with the goal of migrating the Veteran experience around finding a representative from the legacy eBenefits platform, to VA.gov.
-
 The Accredited Representation Management (ARM) team is part of the Accredited Reps Crew in the OCTO Benefits Portfolio.
 
-## Product Development
+This product is being revisited in 2023 with the goal of migrating the Veteran experience around finding a representative from the legacy eBenefits platform, to VA.gov.
 
-We are currently in discovery which includes:
-- Secondary UX research across Github repositories, VA.gov, Mural boards, Subject Matter Expert (SME) interviews and external resources (Reddit, YouTube, Google, etc.)
-- Review of previous development work around this initiative
+**Mission**: Create a high-quality accessible service or suite of services within VA.gov to serve Veterans in managing their Power of Attorney (PoA) representation and to support the deprecation of the legacy system used to take those actions.
 
-After discovery, we will move into defining our MVP and outlining work within this repo.  Issues pertaining to this product will be tagged with our `find-a-rep-team` label.
+## Product Resources
 
-Zenhub board: https://app.zenhub.com/workspaces/find-a-rep-64d0dc51d3e8f4788ac6ef96/board
+1. [Product Outline]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-outline.md))
+2. [MVP]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/mvp.md))
+3. [Zenhub board]([url](https://app.zenhub.com/workspaces/accredited-representation-management-team-64d0dc51d3e8f4788ac6ef96/board))
 
 ## Communication
 Questions?  You can find us on the DSVA slack channel #benefits-ce-find_a_rep
@@ -24,4 +22,4 @@ Questions?  You can find us on the DSVA slack channel #benefits-ce-find_a_rep
 
 In this section:
 
-- Current Find A Representative flow in eBenefits
+- Current flow in eBenefits
