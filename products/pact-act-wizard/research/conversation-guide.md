@@ -160,7 +160,7 @@ Thank you for your time in having this call. I honor your decision to stop and w
 Let’s start with a few questions... 
 
 1. I understand you are a (*Veteran / Family member).* Is that right? 
-	- *(If Family member, confirm:)* Are you a family member of a Veteran? Are you a Veteran?
+	- *(If Family member, confirm:)* Are you a family member of a Veteran? Are you also a Veteran yourself?
 	- Thanks for confirming that.
 
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
@@ -173,12 +173,10 @@ Let’s start with a few questions...
 
 1. Are you familiar with the PACT Act?  
 
-    - *(If Y)* What do you know about it? 
+    - *(If Y)* Have you applied for VA benefits under the PACT Act?
+      - *(If Y)* Can you tell me about your experience? *(when, how, results)*
 
-    - *(If N)* It’s a new law that expands VA health care and benefits for Veterans exposed to burn pits, Agent Orange, and other toxic substances. 
-
-1. Have you applied for VA benefits under the PACT Act?
-    - If so, can you tell me about your experience? *(when, how, results)*
+    - *(If N)* No problem. You'll learn about it as we go through this session. 
 
 
 ## User Tasks
@@ -212,6 +210,8 @@ Do you see the link?
 Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share **your feedback** while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'd like you to talk to me about what you're thinking and what you plan to do BEFORE clicking anything.
 
 *(RECORD all feedback on questions:)*
+- *Intro screen*
+  - *especially if p doesn't know what the PACT Act is*
 - *Service years*
 - *Burn Pit questions* 
 - *Agent Orange questions*
