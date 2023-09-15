@@ -169,7 +169,7 @@ Let’s start with a few questions...
 
 1. Do you have any experience with VA health care? 
 
-1. Do you get disability compensation from the VA?
+1. Do you get disability compensation from VA?
 
 1. Are you familiar with the PACT Act?  
 
@@ -197,17 +197,17 @@ If you wanted to learn more about the PACT Act, what would you do?
 ### Task 2: [Open prototype] 
 
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/TBD**
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to use: **bit.ly/TBD**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
-Do you see the link? 
+Did you get the link? 
 
 - *If see “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)*
 - *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
 
 ### Task 3: [Go through questions in wizard]
-Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share **your feedback** while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'd like you to talk to me about what you're thinking and what you plan to do BEFORE clicking anything.
+Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share **your feedback** while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'd like you to talk to me about what you're thinking and what you plan to do BEFORE selecting anything.
 
 *(RECORD all feedback on questions:)*
 - *Intro screen*
@@ -228,7 +228,7 @@ What does this mean to you?
 
 What would you do now?
 
-*(When all done with feedback on this page...)* Could you please click "Continue"?
+*(When all done with feedback on this page...)* Could you please select "Continue"?
 
 Now I'm going to show you a different version of what you might see, which does NOT correspond to your answers to the questions, but I'd like you to take a look at it anyway.
   
