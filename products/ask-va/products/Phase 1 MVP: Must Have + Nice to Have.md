@@ -51,10 +51,12 @@ Last updated by @tygindraux on September 15, 2023
 |Changing the content provided in the existing AVA Dashboard when we go live with new AVA Dashboard on VA.gov page|x|||
 |Review designs with School Certifying Officials (SCOs)|X|||
 |Be able to filter/sort the inquiries|x|||
-|Be able to review replies to inquiries from agents (current functionality)|x|||
+|Be able to view replies to inquiries from agents (current functionality)|x|||
 |NEW: Be able to view archived inquiries||||
 |NEW: Be able to free-text search||||
-|NEW: Notifications when you have a new reply||||
+|NEW: Notification in card UI when you have a new reply||||
+|NEW: Be able to view conversation (question and replies) on one page||||
+|NEW: Be able to separate (and hide) business and personal inquiries||||
 
 ## Profile
 
@@ -71,7 +73,7 @@ Last updated by @tygindraux on September 15, 2023
 |:--|:--:|:--:|:--:|
 |Submitters get email notifications through VA Notify - triggered by Dynamics|||x|
 |Submitters being able to respond on email notifications coming from VA Notify|||x|
-|Onsite notifications on MyVA|||x|
+|Onsite notifications on My VA|||x|
 |Text notifications|||x|
 
 ## Assumptions/Risks
