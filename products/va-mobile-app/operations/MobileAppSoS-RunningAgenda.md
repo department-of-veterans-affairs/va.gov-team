@@ -23,11 +23,9 @@
 
 ## Agenda
 * **Q3 Projects in Progress**
-  * Yellow projects
-     * Check-In - same blockers and dependencies as previously shared 
-     * Veteran Status - awaiting verification on what statuses to us to exclude Dishonorably Discharged Veterans 
-  * Changes for next SoS
-     * No longer using the table below for project updates - will be using new Epic templates and Kanban board  
+  * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+  * Yellow projects 
+
  
 * **Standing question for the POs**
   * Any new work we should be on the lookout for?
@@ -36,34 +34,6 @@
 
 * **Sprint Planning (Adam)**
    * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
-   * Anticipated New Work
-      * Appeals Discovery Letter
-      * Claims Re-Imagined
-      * Deeplinking Analytics 
-
-
-   
-|Project | PM | Status | Current Sprint Work | Future Sprint Work | Est Completion Timing |
-| ----------- | ----------- | ----------- |-----------| -------------| ----------|
-|[EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN | Complete Documents API in Vets API | Wait for VA.gov to go live with services, then turn them on for Mobile  | Sept '23 | 
-| [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam | Yellow | Blocked in excluding DD Veterans - awaiting on confirmation from another team | Release | Sept '23 |
-|[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | YELLOW| N/A: Blocked due to external dependencies| FE development/BE integration testing | Sept '23 |
-| [Travel Claims](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/1255)  | Adam | Green | Design, Content, and Backend Discovery | targeting design work next sprint | TBD |  
-| Appointments Recommendation Review | Meko | Green |  | | Sept 2023 |
-| Remote Disaster Mitigiation | Stacy | Green | Strategize and Engineering Discovery | | |
-| [User Endpoint Update](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5815) | Ameet | GREEN |Front end updates to use new endpoints | Front end updates to use new endpoints cont. | Sept '23 | 
-| [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Ameet | GREEN | Reviewing SM for gaps in current analytics| Next 2 Dashboard priorities Login Blocked, Letters | All Q3|
-| [General Analytic Request and Needs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6070) | Ameet | GREEN | Apple + Google Play store updates| | | Ongoing |
-| [Platform Preparation - Design System](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6011) | Kelly, Ameet | GREEN | Incorporate new SegmentedControl component into the app, automation, documentation, bug fixes|incorporate design token and documentation | All Q3 | 
-| [Personalization](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/3542) | Ameet | Green | Determining high priority data to surface on the homes screen and exploring home screen UI concepts | Creating wireframes based on high priority data and UI concepts| Oct '23 |
-| Terms of Use Sprint 0 | Meko | Green | Sprint 0 Doc creation | | |  
-| Push Notifications Strategy Sprint 0 | Ameet | Green | Sprint 0 doc creation | Review Sprint 0 | Sept 2023 |
-| RX List View | Meko | Green | Design Spike | | | 
-| [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | Continued work to reduce bugs and tech debt | Total Open Bugs 60 (7 are Sev 2)   | Ongoing | 
-| [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
-| VHIC Step 1 | Stacy | Hold | Revisiting Step 1 end of 3Q | | | 
-* *Alternate Project
-* **Carryover
 
 ## Q3 Projects Planned Not Yet Started
 
@@ -75,7 +45,6 @@
 | Priority |Project | PM | Status | Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| 
 |Planned | Claims Reimagined Step 1 | Stacy | Sprint 79 Sept '23| 
-| Alternate | [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5562) | Adam | Mobile has integrated - Mobile only needs to test when MHV SM needs testing | Testing needed Sept - early Nov per updated MHV SM timeline |
 | Alternate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | TBD |
 </details>
 
