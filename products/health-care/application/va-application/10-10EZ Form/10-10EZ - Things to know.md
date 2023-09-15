@@ -22,7 +22,7 @@ Systems used by Application Processing teams
 - DPRIS - Defense Personnel Records Information Retrieval System
      - Used to obtain documents such as DD-214 and DD-215
 
-### Development
+### Development/Engineering
 - 7/29/22 - The Place of Birth state dropdown must only include 50 states, DC and Other. ES will not accept any other values at this time.
      - **NOTE** - This does not apply to Mailing or Home address (see item below on 9/12/23)
 - 11/12/22 - The Certificate CN being sent to ES for SSL (Security layers) is "es-prod.va.gov"  
@@ -35,7 +35,9 @@ Systems used by Application Processing teams
      - The caveat is that Canada and Mexico states/provinces/regions must be passes to ES as the postal code abbreviations.
           - Canada provinces/regions are 2 letters, capitalized, with no spaces or punctuation
           - Mexico provinces/regions can be 3 letters or more, must be capitalized, and include periods
-
+- 9/15/23 - For context on Enrollment status “errors”.
+     - The 422 is the rate limit code. So someone that is a guest user that has used the same SSN or DOB combo too many times on the screener page.
+     - The 404 is when someone goes through the screener page and their information is validated and not found in MPI, we send back a not found and thats how they are able to proceed into the form .
 
 ### Testing
 - 8/5/22 When testing end2end in **Preprod** environment, the testing team uses Boston for the Facility locator, which is one of 4 acceptable locations for ES
