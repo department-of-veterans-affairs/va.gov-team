@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Updated 09/11/2023:** Liz clarified an acronym
+**Updated 09/15/2023:** Samara updated problem statements
 
 ### Communications
 
@@ -111,9 +111,8 @@ VA leadership is not clear on how exactly to make this possible. A lightweight M
 
 ## Problem Statement
 
-- Current military information available online is highly limited and should be expanded to encompass the 8 key data elements highlighted above
-- Veterans struggle to access personal military records relevant to their application for benefits. Veterans need at a minimum read-only access to their ILER data.
-- The process for updating one's military record is cumbersome and should be improved, simplified, and accessible online.
+- As a Veteran, I want to see what information VA has about my military history, and to be able to correct it if it is inaccurate.
+- As a Veteran, I want to know if I served in a area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
 
 ## User Outcomes
 
