@@ -70,9 +70,9 @@ Profile Updates
     1. Organization
     2. Remote support
 1. Submission of 21-22/21-22a
-    2. Requires signatures
-    3. Investigate/address signature errors
-    4. Determine if we can support digital submission for attorneys and claim agents who often require fee agreements before accepting PoA
+    1. Requires signatures
+    2. Investigate/address signature errors
+    3. Determine if we can support digital submission for attorneys and claim agents who often require fee agreements before accepting
 1. Notifications
     1. Representative approved request
     1. Representative rejected request
