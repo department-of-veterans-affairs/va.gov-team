@@ -6,6 +6,7 @@ The Accredited Representation Management (ARM) MVP will include desktop & mobile
 
 ## MVP
 
+#### Finding an Accredited Representative
 1. Search
     1. If authenticated and if veteran has an existing rep, display existing rep and how to change the rep
     1. Required fields
@@ -59,7 +60,7 @@ The Accredited Representation Management (ARM) MVP will include desktop & mobile
 1. Feedback page
     1. Update profile to display selected representative (pending request with link to next steps)
 
-Profile Updates
+#### Profile Updates
 
 1. If the user is logged in and has an existing representative, surface the status and the representative information
 
