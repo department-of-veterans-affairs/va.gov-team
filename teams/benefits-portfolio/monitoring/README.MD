@@ -1,18 +1,18 @@
 # Benefits Portfolio Monitoring  
 
 # Contents
-[Disability - 526](##-disability---526)  
-[Intent to file](##-intent-to-file---part-of-526-workflow)  
-[Supplemental claims – 0995](##-supplemental-claims-–-0995)  
-[Higher level review – 0995](##-higher-level-review-–-0995)  
-[Board appeal (also called NOD) – 10182](##-board-appeal---also-called-nod-–-10182)  
-[Pension – 527](##-pension-–-527)  
-[Time of need burial – 530](##-time-of-need-burial-–-530)  
-[Dependency - 686c](##-dependency---686c)  
-[GI bill – 1900](##-gi-bill-–-1900)  
-[Letter download tool](##-letter-download-tool)
-[Claim status tool](##-claim-status-tool)  
-[Forms team 4142](##-forms-team-4142)
+[Disability - 526](#disability--526)  
+[Intent to file](#intent-to-file---part-of-526-workflow)  
+[Supplemental claims – 0995](#supplemental-claims--0995)  
+[Higher level review – 0995](#higher-level-review--0995)  
+[Board appeal (also called NOD) – 10182](#board-appeal---also-called-nod--10182)  
+[Pension – 527](#pension--527)  
+[Time of need burial – 530](#time-of-need-burial--530)  
+[Dependency - 686c](#dependency---686c)  
+[GI bill – 1900](#gi-bill--1900)  
+[Letter download tool](#letters-download-tool)
+[Claim status tool](#claim-status-tool)  
+[Forms team 4142](#forms-team-4142)
 <hr>
 
 
