@@ -20,7 +20,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to prototype:* **bit.ly/TBD**
+- *Open a standalone browser window to prototype:* **https://bit.ly/45RtoOR**
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -188,7 +188,7 @@ I would like you to share your screen with me so that I can see what you do duri
 - *(refer to Screen sharing instructions above, if needed)*
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
-### Task 1: [Wayfinding--want this?] 
+### Task 1: [Wayfinding] 
 If you wanted to learn more about the PACT Act, what would you do?
 
 - *RECORD what they do: Google / VA.gov / words looking/searching for: _______________________*
@@ -197,7 +197,7 @@ If you wanted to learn more about the PACT Act, what would you do?
 ### Task 2: [Open prototype] 
 
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to use: **bit.ly/TBD**
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to use: **bit.ly/45RtoOR**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Did you get the link? 
@@ -228,11 +228,12 @@ What does this mean to you?
 
 What would you do now?
 
-*(When all done with feedback on this page...)* Could you please select "Continue"?
+*(When all done with feedback on this page...)* Now I'm going to show you a different version of what you might see, which does NOT correspond to your answers to the questions, but I'd like you to take a look at it anyway. 
 
-Now I'm going to show you a different version of what you might see, which does NOT correspond to your answers to the questions, but I'd like you to take a look at it anyway.
+Could you please select "Continue"?
+
   
-### Task 5: [Results screen--Staging version]
+### Task 5: [Results screen--R1 on Staging]
 *(If participant is looking at Staging version and notices that the locations don't match what their answers to the questions asked...)* This is a sample page that doesn't correspond to your answers to the questions. I'd like you to pretend that you served in the Middle East.
 
 Please tell me about what you see here. 
@@ -269,7 +270,7 @@ If you saw this page based on the questions you just answered, **how confident a
 1. What would you like to *change or add*?
 1. Is there anything else that we haven't talked about that you think I should know? 
 
-## Thank You and Closing - 3 minute
+## Thank You and Closing - 3 minutes
 
 I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences. 
 - **Is it OK if we decide to use a recorded clip from our discussion today to share with other VA partners?** *(yes / no)*
