@@ -80,3 +80,4 @@ The Accredited Representation Management (ARM) MVP will include desktop & mobile
 1. Manage requests (can the vet cancel a request)
 1. Manage rep (can the vet cancel an existing rep)
 1. Link/integrate with other, related experiences
+2. Satisfaction survey to assess the user perceptions of our product experience
