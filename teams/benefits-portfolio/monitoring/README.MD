@@ -10,7 +10,7 @@
 [Time of need burial – 530](#time-of-need-burial--530)  
 [Dependency - 686c](#dependency---686c)  
 [GI bill – 1900](#gi-bill--1900)  
-[Letter download tool](#letters-download-tool)
+[Letter download tool](#letter-download-tool)  
 [Claim status tool](#claim-status-tool)  
 [Forms team 4142](#forms-team-4142)
 <hr>
