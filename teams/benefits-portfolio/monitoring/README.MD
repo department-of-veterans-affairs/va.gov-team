@@ -55,7 +55,9 @@
 - [Benefits - Higher Level Reviews](https://vagov.ddog-gov.com/dashboard/kiy-k3e-5ta/benefits---higher-level-reviews)
 
 ### Monitors and Alerts
-- in process
+- (Developed by Steve, but in review by HLR team)
+- [Higher Level Review Errors](https://vagov.ddog-gov.com/monitors/159451)
+- [Higher Level Review API traffic is low)[https://vagov.ddog-gov.com/monitors/159452]
 
 ## Board appeal (also called NOD) – 10182
 - Slack Channel: 
@@ -66,9 +68,11 @@
 - [Benefits - Notice of Disagreement](https://vagov.ddog-gov.com/dashboard/tvp-imf-tb7/benefits---notice-of-disagreement)
 
 ### Monitors and Alerts
-- (Developed by Steve, but in review by SC team)
+- (Developed by Steve, but in review by NOD team)
 - [Notice of Disagreement errors](https://vagov.ddog-gov.com/monitors/159230)
 - [Notice of Disagreement API traffic is low](https://vagov.ddog-gov.com/monitors/159231)
+- [NOD and SC Evidence Errors](https://vagov.ddog-gov.com/monitors/159449)
+- [NOD and SC Evidence Traffic is low](https://vagov.ddog-gov.com/monitors/159450)
 
 ## Pension – 527  
 - Slack Channel: 
@@ -102,6 +106,9 @@
 [Benefits - Dependents 686/674](https://vagov.ddog-gov.com/dashboard/vad-969-xqc/benefits---dependents-686674)
 
 ### Monitors and Alerts
+- [Dependents 686/674 - submission error rate is high](https://vagov.ddog-gov.com/monitors/158164)
+- [Dependents 686/674 - no traffic](https://vagov.ddog-gov.com/monitors/158163)
+- [Dependents 686/674 - API returning errors](https://vagov.ddog-gov.com/monitors/158177)
 
 ## GI bill – 1900  
 - Slack Channel: 
@@ -109,8 +116,14 @@
 - Contract PM: Potentially Kara Ciprich
 
 ### Dashboards
+[Benefits - G.I. Bill Comparison Tool (GIBCT)](https://vagov.ddog-gov.com/dashboard/yt3-qqe-3j3/benefits---gi-bill-comparison-tool-gibct)
 
 ### Monitors and Alerts
+[GI Bill Comparison Tool Show Details traffic is low](https://vagov.ddog-gov.com/monitors/159456)  
+[GI Bill Comparison Tool Show Details errors](https://vagov.ddog-gov.com/monitors/159454)
+[GI Bill Comparison Tool Institution Search Traffic is low](https://vagov.ddog-gov.com/monitors/159455)
+[GI Bill Comparison Tool Institution Search errors](https://vagov.ddog-gov.com/monitors/159453)
+
 
 ## Letter download tool  
 - Slack Channel: 
