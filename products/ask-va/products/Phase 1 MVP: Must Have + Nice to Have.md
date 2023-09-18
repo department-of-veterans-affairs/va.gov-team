@@ -56,7 +56,7 @@ Last updated by @tygindraux on September 15, 2023
 |NEW: Be able to free-text search (search submitter question) - #2||||
 |NEW: Notification in card UI when you have a new reply - #4||||
 |NEW: Be able to view conversation (question and replies) on one page - #1||||
-|NEW: Be able to separate (and hide) business and personal inquiries - #2||||
+|NEW: Be able to separate (and hide) business and personal inquiries - #3||||
 
 ## Profile
 
