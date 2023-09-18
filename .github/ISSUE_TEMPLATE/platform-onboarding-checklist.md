@@ -60,6 +60,7 @@ Note: AWS access can be granted once the EQIP has been submitted _before the PIV
 - [ ] GitHub
   - [ ] Join the ['department-of-veterans-affairs' organization ](https://github.com/department-of-veterans-affairs)
   - [ ] Get access to the [devops repo](https://github.com/department-of-veterans-affairs/devops)
+  - [ ] Get added to the "GitHub Bots Accounts"
 - [ ] [SOCKS](https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html) - _for remote access to the following apps:_
   - [ ] [Jenkins](http://jenkins.vfs.va.gov/)
   - [ ] [Sentry](http://sentry.vfs.va.gov/)
