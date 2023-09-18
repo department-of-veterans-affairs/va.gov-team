@@ -5,7 +5,7 @@
 - [Product overview](#product-overview)
 - [Product approach](#product-approach)
 - [Value Propositions](#value-propositions)
-- [KPIs](#kpis)
+- [Analytics](#analytics)
 - [Roadmap](#roadmap)
 - [Scope and assumptions](#scope-and-assumptions)
 - [Artifacts](#artifacts)
@@ -44,8 +44,10 @@ As a Veteran, I need to search for locations where I can receive VA benefits and
 - Improve the experience Veterans have when interacting with the VA 
 - Improve performance
 
-## KPIs
-[Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/analytics/KPIs.md)
+## Analytics
+- [Baseliine data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/analytics/baseline-KPIs.md)
+- [Annual data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/analytics/baseline-KPIs.md)
+- [Quarterly data for 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/analytics/2023_data.md)
 
 ## Roadmap
 **Historical** 
