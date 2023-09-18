@@ -102,24 +102,33 @@ Schedule 10 Veterans for a minimum of 8 successfully completed sessions.
 
 
 ## Timeline
-If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
+Completion of 8 successful research sessions between October 16 - October 23.
 
 ### Prepare
-When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
-
-Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+•	Research team will organize pilot.
 
 ### Research sessions
-What dates do you plan to do research? 
+•	Planned dates of research: October 16 - October 23
+•	We would like to request that Perigean calls each participant to remind them about the session, in addition to emailing them. And please include the session time in each participant's own time zone (from a screener question).
 
 ### Length of sessions
-45 minutes. Perigean will schedule the sessions with buffer 15 minutes of buffer time to allow for participants who can't make it on time, or if you might go over time.
+45 minutes. Perigean will schedule the sessions with buffer 30 minutes of buffer time to allow for participants who can't make it on time, or if you might go over time.
+
+•	Session Length:
+o	45 minutes non assistive technology users
+o	60 minutes assistive technology users
+•	Buffer time: 30 minutes between sessions.
+•	Maximum sessions per day: 3
+
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+•	10/16: 12pm - 5pm ET
+•	10/17: 12pm - 5pm ET
+•	10/18: 12pm - 5pm ET
+•	10/19: 12pm - 5pm ET
+•	10/20: 12pm - 5pm ET
+•	10/23: 12pm - 5pm ET
+
 	
 ## Team Roles	
 
