@@ -16,7 +16,7 @@
   - Another template for PO/PMs for establishing a new team in VFS, if necessary
 - Get added to slack channels in DSVA Slack - after SAC adjudication is complete
    - benefits-onboarding
-    - This initiates VA onboarding with buddy assignments
+      - This initiates VA onboarding with buddy assignments
   - benefits-disability
   - benefits-ce-dbex_issue_reporting
   - benefits-disablity_design
