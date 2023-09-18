@@ -45,7 +45,7 @@ As a Veteran, I need to search for locations where I can receive VA benefits and
 - Improve performance
 
 ## Analytics
-- [Baseliine data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/analytics/baseline-KPIs.md)
+- [Baseline data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/analytics/baseline-KPIs.md)
 - [Annual data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/analytics/baseline-KPIs.md)
 - [Quarterly data for 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/analytics/2023_data.md)
 
