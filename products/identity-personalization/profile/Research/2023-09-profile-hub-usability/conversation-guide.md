@@ -201,7 +201,7 @@ If needed:
 - How would you expect VA to use this information? 
 - Do you have health benefits?
 
-{Include a disclaimer that right now NOK/EC is only for healthcare?]}
+{Include a disclaimer that right now NOK/EC is only for healthcare?}
 
 ## Wrapping up – X minutes
 
