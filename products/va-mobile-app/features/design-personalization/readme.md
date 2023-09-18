@@ -9,14 +9,15 @@ The VA mobile team has explored the concept of Personalization several times (20
 
 ## Personalization - Home Screen
 ### Product
-* [VA Mobile App - Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) | [doc](https://docs.google.com/document/d/1qPUDihOxzkiNqK96ZPFlX4wTTHov033n5bOXgt1jmvU/edit) (2023)
+* [Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) | [doc](https://docs.google.com/document/d/1qPUDihOxzkiNqK96ZPFlX4wTTHov033n5bOXgt1jmvU/edit) (2023)
+
+### Data
+- [Data project plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/data)
 
 ### UX
-- [Personalized Home Screen - UX Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/ux#home-screen)
-- [Personalized Data - Discovery & Classification (Figjam)](https://www.figma.com/file/NHnXpvkhBeqvUQ6LIqMGqd/Personalized-Data---Discovery-%26-Classification--VA-Mobile?type=whiteboard&node-id=0%3A1&t=2kSgg4tKMXHSSrVZ-1)
-- [Personalized Home Screen UI - Explorations, Audit & Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/home-screen-success-criteria.md)
+- [Personalized Home Screen - UX work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/ux#personalization---home-screen)
 
-## Research & Previous Exploration
+## Research, Discovery & Previous Exploration
   * [**Personalization - Desk Research (2023)**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2023)   
   * [**Personalization - Desk Research (2022)**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2022-may-jun-2022)
   * [**Personalization - Earlier exploratory activities (Nov 2021 - Jan 2022)**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#earlier-exploratory-activities-nov-2021---jan-2022)
