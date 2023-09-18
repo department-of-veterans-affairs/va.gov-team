@@ -47,15 +47,13 @@ As a Veteran, I need to search for locations where I can receive VA benefits and
 ## KPIs
 
 ## Roadmap
-### Historical 
+**Historical** 
 - [2021 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/2021%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE.pdf)
 - [1Q 2022 Portfolio roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/2022%20FACILITIES%20TEAM%20ROADMAPPLANNING%20TIMELINE%20-%20Unnamed%20Area%20(1).pdf)
 
-### Now
 **~3Q2023**
 - Test coverage and monitoring gap analysis
 
-### Next 
 **~4Q2023**
 - Enable consumers of Vets-API to leverage Lighthouse v1 functionality
   - Update Vets-API to Lighthouse v1 [#15000](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15000) 
@@ -65,25 +63,8 @@ As a Veteran, I need to search for locations where I can receive VA benefits and
   - Facility Locator iteration: Provider core training / PPMS data [#14225](https://app.zenhub.com/workspaces/sitewide-facilities-639f5253e4b702a32376339e/issues/gh/department-of-veterans-affairs/va.gov-cms/14225)
     - Blocked until adequate data is available
   
-### Later
+**Later**
 - Add search by state [#14915]
-  
-- **Add ability to return non-VAST locations, such as Vet Center community access points and VA health mobile stops** 
-   - Epic [#28088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28088)**Implement new Lighthouse v1 services endpoint (CMS -> Lighthouse -> Facility Locator)** 
-  - Epic [31901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
-  - Revisit FL front end direct connection to Lighthouse 
-    - Epic [#19065](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19065) 
-    - [Facility Locator-Lighthouse integration document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/facility-locator-integration-with-lighthouse.md)
-- **Update VBA search experience to increase VBA service and facility information**
-   - Epic [#4865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4865)
-   - Increase VBA service information [#37632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37632)
-   - Increase VBA service information [#37633](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37633)
-   - Facility Locator expected behavior for VBA "all services" searches [#38433](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38433)
-   - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/76fa860bb3ac62ad58c94c2f2b480d5296c5a1c8/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
-- **Service-centric (task-based) search**
-   - Epic [#13801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#13801) | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/80d947c076470728ec4bf84275d32769f1a75545/products/facilities/facility-locator/service-centric-search/initiative-brief.md)
-- **Add ability to return non-VAST locations, such as Vet Center community access points and VA health mobile stops** 
-   - Epic [#28088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28088)
 
 ## Scope and assumptions  
 ### In Scope
@@ -116,8 +97,6 @@ Product POCs
 - Product Manager: Jane Xiong 
 - Zenhub label: Facilities, Facility Locator
 - Slack channel: #sitewide-facilities
-
-## Artifacts
 
 
 
