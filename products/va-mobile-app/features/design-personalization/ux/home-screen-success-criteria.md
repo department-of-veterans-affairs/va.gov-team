@@ -9,10 +9,10 @@ See also: [VA Mobile App - Personalization project.](https://github.com/departme
 The design explorations below will include collecting & evaluating concepts from the [previous few years](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#earlier-exploratory-activities-nov-2021---jan-2022) as well as new concepts developed as a result of a [comparative analysis covering Personalized Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md).
 
 ### Design Explorations
-* Low-fi Home screen Explorations + Audit | [Balsamiq: Personalization Explorations - first round](https://balsamiq.cloud/s4uw4la/pnnwuqv/rFCBA)
-* Low-fi Home screen Explorations - Finalists for product & feasability review  | [Balsamiq: Personalization Explorations - finalists](https://balsamiq.cloud/s4uw4la/pnnwuqv/rF333)
-* Low-fi Home screen MVP direction (Links TBD)
-* High-fidelity design (Links TBD)
+* [Low-fi Home screen Explorations + Audit - first round](https://balsamiq.cloud/s4uw4la/pnnwuqv/rFCBA) (Balsamiq)
+* [Low-fi Home screen Explorations - Finalists for product & feasability review](https://balsamiq.cloud/s4uw4la/pnnwuqv/rF333) (Balsamiq)
+* [Low-fi Home screen - Recommended MVP direction](https://balsamiq.cloud/s4uw4la/pnnwuqv/rFAC0) (Balsamiq)
+* Low-fi Home screen - MVP direction revisions (Balsamiq)
 
 ### Success Criteria for Evaluating Personalized Home Screen Approaches
 Choosing a design direction for the personalized home screen involves balancing user, business, and technical considerations. We will use the following criteria as a guide to systematically audit our personalized home screen design explorations and narrow options down to the direction/s we intend to move forward with.
