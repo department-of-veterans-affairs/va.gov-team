@@ -30,7 +30,6 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Determine scope and PCI role in researching/implementing past appointments for travel reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65592)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create visual back-end userflow for past appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65593)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Create Lo-Fi Wireframe Structure for Past Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65594)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65414)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
