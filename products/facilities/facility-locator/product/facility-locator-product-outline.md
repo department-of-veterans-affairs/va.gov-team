@@ -45,6 +45,7 @@ As a Veteran, I need to search for locations where I can receive VA benefits and
 - Improve performance
 
 ## KPIs
+[Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/analytics/KPIs.md)
 
 ## Roadmap
 **Historical** 
