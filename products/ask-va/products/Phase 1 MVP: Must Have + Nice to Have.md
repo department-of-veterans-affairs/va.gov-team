@@ -49,7 +49,7 @@ Last updated by @tygindraux on September 15, 2023
 |Bringing the existing AVA Dashboard up to VA.gov design standards on a page in VA.gov using the card component|x|||
 |Sunset the existing AVA Dashboard|||x|
 |Changing the content provided in the existing AVA Dashboard when we go live with new AVA Dashboard on VA.gov page|x|||
-|Review designs with School Certifying Officials (SCOs)|X|||
+|Review designs with School Certifying Officials (SCOs)|x|||
 |Be able to filter/sort the inquiries|x|||
 |Be able to view replies to inquiries from agents (current functionality)|x|||
 |NEW: Be able to view archived inquiries||||
