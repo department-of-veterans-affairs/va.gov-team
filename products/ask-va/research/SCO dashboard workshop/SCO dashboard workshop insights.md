@@ -29,7 +29,7 @@ We used Mural for this workshop. You can view the activities and findings here: 
 * Category and topic are often the same, for example, 'Education' and 'Work study'. This makes these labels less useful when you sort through inquiries.
 * **Takeaway:** This implies that inquiry number should not be the leading label, and we should re-think which labels should be shown at all.
 
-#### More to less helpful labels
+#### More to less helpful dashboard labels
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/More-to-less-helpful-labels.png)
 
 ### How do you prefer to sort or filter for an inquiry?
@@ -70,4 +70,5 @@ We used Mural for this workshop. You can view the activities and findings here: 
 * This implies that inquiry number should not be the leading label, and we should re-think which labels should be shown at all.
 * This implies that their should be less onus on the submitter to reroute an inquiry, if they choose the wrong category or topic. (This is out of scope right now.)
 
+#### More to less helpful inquiry details
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/More-to-less-helpful-inquiry-details.png)
