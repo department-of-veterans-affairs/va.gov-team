@@ -15,7 +15,7 @@ The VA mobile team has explored the concept of Personalization several times (20
 - [Data project plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/data)
 
 ### UX
-- [Personalized Home Screen - UX work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/ux#personalization---home-screen)
+- [Personalized Home Screen - Design & UX strategy work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/ux#personalization---home-screen)
 
 ## Research, Discovery & Previous Exploration
   * [**Personalization - Desk Research (2023)**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2023)   
