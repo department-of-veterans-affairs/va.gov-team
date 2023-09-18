@@ -90,6 +90,9 @@ As a Veteran, I need to search for locations where I can receive VA benefits and
 - Backend: https://github.com/department-of-veterans-affairs/vets-api/tree/master/app/controllers/v0/facilities
 - https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/facilities
 
+## Artifacts
+[Key resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/README.md#key-resources)
+
 ## Team
 Product POCs 
 - Product Owner: Michelle Middaugh
