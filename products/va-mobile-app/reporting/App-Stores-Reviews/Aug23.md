@@ -1,4 +1,4 @@
-
+Each app review is analyzed and tagged with keywords that align to a product area or UX. Each keyword category is then analyzed for the trending sentiment (positive, negative, or mixed) and review highlights are included below. Summary as follows:
 
 **August 1 - August 31, 2023**				
  135 android reviews,  75 iOS reviews				
