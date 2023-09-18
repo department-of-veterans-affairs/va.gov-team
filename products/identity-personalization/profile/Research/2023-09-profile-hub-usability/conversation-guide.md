@@ -26,122 +26,197 @@ Thanks for joining us today! My name is Pam and [TBD] is taking notes. There are
 
 Today we're going to take a look at the VA.gov website and ask you some questions. We’re interested in learning from you what it’s like to navigate and find information on the website.
 
+
 ---
 
-**For AT sessions**: As part of signing up for the session, we asked if you need a screen reader to use the internet. According to my notes, you normally use [whatever participant has said]. Can you tell me more about that?
-
+**[AT sessions]** As part of signing up for the session, we asked if you need a screen reader to use the internet. According to my notes, you normally use [whatever participant has said]. Can you tell me more about how you use that?
 - Are you able to use that during our session today?
-
 - That sounds good, thank you.
 
-**For Magnification sessions**: As part of signing up for the session, we asked if you need magnification to use the internet. Can you tell me more about that?
-
-- Thank you for sharing.
+**[Magnification sessions]** As part of signing up for the session, we asked if you need magnification to use the internet. Can you tell me more about how you use that?
+- Are you able to use magnification during our session today?
+- That sounds good, thank you.
 
 ---
 
-Before we start, there are a few things I want to mention:
+There are a few things additional things I want to mention:
 
-- **This entire session should take about XX/XX minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-
+- **This entire session should take about XX/XX for AT minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. To help us learn from your experience, please share out loud all of your thoughts and feelings.
-
 - **If for any reason and at any time you want to stop the session, please let me know.**
-
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
-
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
 
 _Start recording._
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **I’m also going to turn on transcriptions to improve our notes; you should be able to control them on your end too.**
+- **I’m also going to make sure transcriptions are turned on to improve our notes.**
 
 _Turn on transcription._
 
-## Warm up – X minutes
+## Task set-up – X minutes
+ 
+Let’s begin. 
 
-Let's begin. How often do you use the VA.gov website?
+**When is the last time you had to log into VA.gov?** 
+- What did you need to do that required logging in?
+	- *If needed:* Can you tell me about a time you had to update the VA with information about yourself? 
 
-**Think back to the last time you had to log into the VA.gov website to do something.** What did you need to do that required you logging in?
+- **[If participant does NOT have any recent experience with VA]** ☞ I have some questions I’d like to ask you that require you logging in to your VA.gov account. 
+- **[If participant clearly stated a profile-related update]** ➢ Would you be willing to log into your account and walk me through what you had to do/update on the website?
 
-*If not-profile-related OR if someone cites going in person or calling:* Can you tell me about a time you had to update the VA with information about yourself?
+## Tasks – X minutes
 
+### Task #1: Logging in – X minutes
 
-*If profile-related:* Can you tell me more about your experience? Would you be up for logging into your account to walk me through what you had to update?
+**Let’s get ready to log into VA.gov with your account credentials.** 
+- **(1) [No recent experience]** ☞ Once you’re logged in, I have some questions I’d like to ask you.
+- **(1a) [Stated a profile-related update]** ➢ Once you’re logged in, you can walk me through what you had to do/update on the website.
 
-### Logging in
+When you’re on VA.gov, share your screen so I can see what you see.
 
-Let's go ahead and log into your account 
+If needed: 
+[add zoom help?]
+[additional help text around logging in – example?]
 
-[NTS: add more help text here]
+### Task #2: Navigate to the Profile hub
 
-## Various Profile prompts - X minutes
+**Now that you’re logged on…**
+- **(2) [Everyone else]** ☞ Let’s pretend you need to update your personal information because something in your life changed, and you need to let VA know about it. Where would you go to do that?
+- **(2a) [If sharing a profile-related update]** ➢ I’d like for you to show me how you [echo the language they used when referring to a profile-related update]. Where did you begin? What steps did you take to make that update?
+	- How did that work out? 
+	- Did you run into any issues when doing this?
+	- *If this task **doesn’t actually involve updating Profile***:
+		- Thank you for showing me that!
+		- *Ask this*: Let’s pretend you need to update your personal information because something in your life changed, and you need to let VA know about it. Where would you go to do that?
 
-_[Contact info]_ Let’s pretend you recently moved. How would you update your information on VA.gov to make sure letters from VA get delivered to the right place?
+*Things to note* ✎
+- Which method they use to get to their profile: My VA’s `Profile link`, `Auth menu`, or `Search`
+- Any remarks regarding the `Profile hub` once they’re on it
+- Any struggles or confusion
 
+*Once on Profile hub*
+
+{pause here to ask for a participant’s first impression of hub? good to get initial impression, but feels artificial and may cause someone to look more closely than they otherwise would, effecting time on task for subsequent tasks}
+
+Next, I’d like to ask you some questions that involve imaginary scenarios – situations where I will ask you to pretend you need to update something in your profile, but I won’t ask you to actually change anything. 
+
+### Task #3: Locate Contact information on hub page
+
+*(3) Primary prompt:* **Let’s pretend you recently moved. How would you update your information on VA.gov to make sure letters from VA get delivered to the right place?**
 - Does this information look up-to-date?
-
 - If you’d like to update any of this information while we’re on this call, we’d be happy to learn from your experience.
 
-_[DD info]_ Let’s pretend you just switched banks, and you need to update where get your payments from VA. Where would you go to do that on this website?
 
-_[Military info]_ Let’s say you want to make sure VA’s records about your service history match the information you have. How would you go about checking on this on VA.gov?
+- *(3a) Backup prompt (if already covered) – Notification settings:* Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
+	- Is there anything you’d like to change or update here?
 
-- Does this information look up-to-date?
 
-- If you’d like to update any of this information while we’re on this call, we’d like to learn from your experience.
+*Things to note* ✎
+- How quickly the participant located the correct section
+- Any struggles or confusion
 
-_[Notif settings]_ Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
+### Task #4: Switch to Direct deposit section
 
-- Is there anything you’d like to change or update here?
+*(4) Primary prompt:* **Let’s pretend you just switched banks, and you need to update where get your payments from VA. Where would you go to do that on this website?**
 
-_[Personal info]_ Let’s say you have a new nickname you’d like VA to use when communicating with you. – how would you go about updating that information on VA.gov?
 
+- *(4a) Backup prompt (if already covered) – Notification settings:* Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
+	- Is there anything you’d like to change or update here?
+
+
+*Things to note* ✎
+- Which method they use to switch: sidenav section link, breadcrumb link back to `Profile (hub)`, or other
+- Any remarks regarding the `Profile hub` once they’re on it
+- Any struggles or confusion
+
+### Task #5: Navigate back to the Profile hub
+
+(5) **Let’s say you wanted to get back to that main profile page. How would you do that?**
+
+*Things to note* ✎
+- How easily and quickly they use the breadcrumb link back to `Profile (hub)`
+- Any struggles or confusion
+
+### Task #6: Click on a deep link (like DD214)
+
+*(6) Primary prompt:* **Let’s say you want to make sure what information VA.gov has about your service history is accurate. How would you go about checking on this on VA.gov?**
+- This link took you to another page – how did that jump feel?
+	- How would you get back to your Profile?
+
+
+- *(6a) Backup prompt (if already covered) – Account security (Update your sign-in info on the [credential] website):* Let’s say you need to double-check what credentials you use to log into your account. 
+	- [If they find it] What tipped you off that you’d find that information here?
+
+
+*Things to note* ✎
+- How easily and quickly they find the deep link
+- Any struggles or confusion
+
+### Task #7: Locate Personal information section
+
+*(7) Primary prompt:* **Let’s say you have a new nickname you’d like VA to use when communicating with you. How would you go about updating that information on VA.gov?**
 - Does this information look correct?
-
 - If you’d like to update any of this information while we’re on this call, please go ahead.
 
-_[Connected apps]_ Let’s say you linked your VA.gov account to a tool [or application?] you use on your phone. Now you want to remove that tool’s access to your VA.gov information. How would you do that?
 
-### Optional prompts
+- *(7a) Backup prompt (if already covered) –  Notification settings:* Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
+	- Is there anything you’d like to change or update here?
 
-_[Auth menu]_ Do you have any dependents who use VA benefits of any kind?
 
-- Where on VA.gov would you go to update your dependents’ information?
+ *Things to note* ✎
+- How quickly the participant located the correct section
+- Any struggles or confusion
 
-_[Auth menu]_ Let’s say you need to download some documents in order to apply for new benefits. Where would you go to find and download those documents?
+### Task #8: Find dependents OR letters (auth menu)
 
-- [If needed] Say, for example, your Proof of Service Card.
+*(8) Primary prompt:* **Do you have any dependents who use VA benefits of any kind?**
+- Where on VA.gov would you go to update your dependents’ information? Without clicking on anything, where would you look first? (If they mention Search:) What’s another place you would look?
 
-## Follow-ups to any of the above tasks
 
-How does that feel, navigating between [X section] and [Y section] in your Profile?
+- *(7a) Backup prompt (if no dependents):* Let’s say you need to download some documents in order to apply for new benefits. Where would you go to find and download those documents? Without clicking on anything, where would you look first? (If they mention Search:) What’s another place you would look?
+	- [If needed] Say, for example, your Proof of Service Card.
 
-What would you expect to happen?
+If needed:
+- Let me draw attention to the menu with your name in the upper right corner. 
+	- How often do you use that menu?
 
-- How did that experience compare to what you were expecting?
+*Things to note* ✎
+- 
 
-How does completing [X task] feel?
+## Emergency Contact & Next of Kin questions – X minutes
 
-## Wrap-up questions
+- Where would you expect to be able to list your Emergency Contact and Next of Kin in your Profile?
+- How would you expect VA to use this information? 
+- Do you have health benefits?
 
-Tell me about your overall experience in this session while interacting with your Profile.
+{Include a disclaimer that right now NOK/EC is only for healthcare?]}
 
-How did it feel to navigate between your Profile sections?
 
-Did you find anything in your Profile to be surprising or unexpected?
+## Wrapping up – X minutes
 
-Is there anything in your Profile you expected to be there, but isn’t?
+### Final questions
 
-## Thank-You and Closing – 2 minutes
+Thanks for all your input! We’re going to start wrapping up our time together.
+- In a few words, how would you describe the experience of navigating your account profile?
+- To what extent did your profile help you finish the things you needed to do in an efficient manner?
+- Was there anything in your profile you found surprising or unexpected?
+- Did anything feel missing from your profile?
 
-_Moderator: Download the transcript from zoom! Ask observers in the Slack thread to post their top observations._
+For AT: how well does this prototype meet your screen reader needs?
 
-That was everything I wanted to get your feedback on today. We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Is there anything else you’d like to share with me about your experience with this prototype today?
 
-Thanks! One thing to be on the lookout for - Perigean will be sending you something you can share to provide the opportunity to participate in research to other Veterans in your personal network. It’s so valuable for us to have the opportunity to include Veterans in our process.
+### Thank you!
+
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
+Thank you so much again, I hope you enjoy the rest of your day!
 
 ## Emergency Exit
 
-In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.
+In case of an emergency, refer to the [emergency guidance.](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies).
+
+Sample exit strategy: **Out of questions**: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
