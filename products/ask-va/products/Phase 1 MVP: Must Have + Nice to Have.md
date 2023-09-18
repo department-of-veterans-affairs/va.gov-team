@@ -52,11 +52,11 @@ Last updated by @tygindraux on September 15, 2023
 |Review designs with School Certifying Officials (SCOs)|x|||
 |Be able to filter/sort the inquiries|x|||
 |Be able to view replies to inquiries from agents (current functionality)|x|||
-|NEW: Be able to view archived inquiries||||
-|NEW: Be able to free-text search (search submitter question) - #1||||
-|NEW: Notification in card UI when you have a new reply||||
-|NEW: Be able to view conversation (question and replies) on one page - #2||||
-|NEW: Be able to separate (and hide) business and personal inquiries||||
+|NEW: Be able to view archived inquiries - # ||||
+|NEW: Be able to free-text search (search submitter question) - #2||||
+|NEW: Notification in card UI when you have a new reply - # ||||
+|NEW: Be able to view conversation (question and replies) on one page - #3||||
+|NEW: Be able to separate (and hide) business and personal inquiries - #1||||
 
 ## Profile
 
