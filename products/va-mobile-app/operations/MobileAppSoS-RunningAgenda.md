@@ -17,8 +17,8 @@
  - Focus will be on non-green items unless there are questions / specific updates
  - Work is listed in PO's priority order based on SoS Sprint Tab
  - Current Sprint
-    - Sprint 79 8/30 - 9/12
-    - 2 sprints remaining in this quarter
+    - Sprint 80  9/13 - 9/26
+    - 1 sprints remaining in this quarter
   
 
 ## Agenda
