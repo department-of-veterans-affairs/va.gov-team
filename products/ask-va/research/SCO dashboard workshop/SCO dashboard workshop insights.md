@@ -3,7 +3,7 @@
 Last updated by @tygindraux on September 18, 2023
 
 
-Jump to:
+**Jump to:**
 * [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/SCO%20dashboard%20workshop%20insights.md#background)
 * [Insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/SCO%20dashboard%20workshop%20insights.md#insights)
 
