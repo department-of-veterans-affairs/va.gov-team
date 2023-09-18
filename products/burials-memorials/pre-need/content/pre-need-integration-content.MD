@@ -1839,9 +1839,10 @@ Fax them to the National Cemetery Scheduling Office: [855-840-8299] {Fax link}.
 
 {end bordered accordion}
 
-GuFile types you can upload: 
-- .pdf, .jpg, .jpeg, .png, .tif, .tiff, .bmp, and .txt
-- Your file should be no larger than ##MB.
+Guidelines for uploading a file:
+- File types you can upload: .pdf, .jpg, .jpeg, .png, .tif, .tiff, .bmp, or .txt
+- Maximum non-PDF file size: 50MB
+- Maximum PDF file size: 150MB
 
 Upload file {secondary button} {After uploading at least one file, button label should read: Upload another file}
 
