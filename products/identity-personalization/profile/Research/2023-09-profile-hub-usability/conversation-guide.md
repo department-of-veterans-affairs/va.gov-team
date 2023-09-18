@@ -123,10 +123,12 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 *(4) Primary prompt:* **Let’s pretend you just switched banks, and you need to update where get your payments from VA. Where would you go to do that on this website?**
 
 <br>
+
 - *(4a) Backup prompt (if already covered) – Notification settings:* Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
 	- Is there anything you’d like to change or update here?
 
 <br>
+
 *Things to note* ✎
 - Which method they use to switch: sidenav section link, breadcrumb link back to `Profile (hub)`, or other
 - Any remarks regarding the `Profile hub` once they’re on it
@@ -211,7 +213,7 @@ Thanks for all your input! We’re going to start wrapping up our time together.
 - Was there anything in your profile you found surprising or unexpected?
 - Did anything feel missing from your profile?
 
-For AT: how well does this prototype meet your screen reader needs?
+**For AT**: how well does this prototype meet your screen reader needs?
 
 Is there anything else you’d like to share with me about your experience with this prototype today?
 
