@@ -41,11 +41,11 @@ We combined several methodologies for this test. We conduct interview discussion
 ## Hypotheses and Conclusions
 
 1. Veterans will be familiar with terms of use from other sites and apps.
-   - **Definitely True** - We spoke with a range of folks of varying ages to those using various technologies to access the web; everyone has seen terms of use many times on other websites and expected that the VA will have a terms of use as well. 
+   - **Definitely True** - We spoke with a range of folks of varying ages and to those using various technologies to access the web; everyone has seen terms of use many times on other websites and expected that the VA will have a terms of use as well. 
 2. Veterans will see needing to agree to an updated terms with VA as a nuisance.
-   - **Partially True** - The words “nuisance,” “aggravating,” or “annoying” were used by several participants, unprompted. However, most just see terms of use as a largely necessary thing, whether or not they expressed their displeasure with it or view it in a negative way. Additionally, a couple participants did discuss how they liked knowing a terms of use is there, and especially to what extent it protects a user of a given site.
-3. Veterans will opt to click past this as quickly as possible by not reading any long paragraphs so they can move on to their task at hand.
-   - **Mostly True** - Most participants expressed they move past terms of use on other sites as quickly as possible and only put in the minimum effort - like scrolling through the entire terms when forced or clicking to accept but not actually reading. A couple participants did say they prefer to either skim or read at least some sections of a terms of use. Some of those who would read or skim, expressed they had decreased need to read terms of use on a government site, since they had confidence that the entity wouldn’t be able to use their information in a nefarious way - meaning they might be less likely to read the terms of use from the VA as compared to a private site.
+   - **Partially True** - The words “nuisance,” “aggravating,” or “annoying” were used by several participants, unprompted. However, most just see terms of use as a largely necessary thing, whether or not they expressed their displeasure with it or viewed it in a negative way. Additionally, a couple participants did discuss how they liked knowing a terms of use is there, and especially to what extent it protects a user of a given site.
+3. Veterans will opt to click past this as quickly as possible by not reading any long paragraphs, so they can move on to their task at hand.
+   - **Mostly True** - Most participants expressed they move past terms of use on other sites as quickly as possible and only put in the minimum effort - like scrolling through the entire terms when forced or clicking to accept but not actually reading. A couple participants did say they prefer to either skim or read at least some sections of a terms of use. Some of those who would read or skim, expressed they had decreased need to read terms of use on a government site, since they had confidence that the entity wouldn’t be able to use their information in a nefarious way - meaning they might be even less likely to read the terms of use from the VA as compared to a private site.
 
 ## Key Findings
 
@@ -55,7 +55,7 @@ We combined several methodologies for this test. We conduct interview discussion
    - Some folks will be interested in a particular section of the terms of use and may skim or read a portion of that section
 3. Terms of use can be seen as positive if the user has a positive relationship with the service and if the terms include protections for the user
 4. Veterans rarely decline a service’s terms of use, but when they do the consequences are clear.
-5. Accordion functionality and our prototype’s button language resonate with veterans.
+5. Accordion functionality on terms of use and our prototype’s button language both resonate with veterans.
 6. Parts of our prototype terms of use page were validated in usability testing, but some modifications could make this prototype terms of use more usable.
 
 
@@ -67,9 +67,9 @@ Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: S
 
 - Related to: Hypothesis 1, Question 1, Question 2
 
-Participants, including those of various ages, were all experienced seeing terms of use. Most reported seeing them regularly from various services, and many had seen one within a couple of days of our research session. They are ubiquitous.
-Since they are so widely used and seen on other services, it’s best that the VA largely  follow the well-established mental model around terms of use. 
-Participants largely see them presented at sign in, and some also recalls updated notification in email. Users assume they will be required to accept or agree to the terms of use before they can move on to using the desired service.
+Participants, including those of various ages, were all experienced seeing terms of use. Most reported seeing them regularly from various services. In fact, many had seen one within a couple of days of our research session. They are ubiquitous.
+Since they are so widely used and seen on other services, it’s best that the VA largely follow the well-established mental model around terms of use. 
+Participants largely see them presented at sign in, and some also recalled updated notification in email. Users assume they will be required to accept or agree to the terms of use before they can move on to using the desired service.
 
 >_"[They are] rules that the owner of the website has for you to use the functionality" - Participant 17_
 
@@ -80,8 +80,8 @@ Labels: `Accessibility`, `AUD: Veterans`, `DSC: Accordions`, `HDW: Desktop`, `HD
 
 - Related to: Hypothesis 2, Question 3
 
-Most of the folks we talked with try to move past a service’s terms of use as quickly as possible. They don’t read or skim the terms of use, but proceed to the part of the page where they can acknowledge they accept or agree to the terms of use. Folks do this in order to continue on with their task at hand.
-However, a couple participants were interested in a particular section of the terms of use, particularly how information is used and shared. Those participants may be more likely to skim or even read the given section.
+Most of the folks we talked with try to move past a service’s terms of use as quickly as possible. They don’t read or skim the terms of use, but proceed to the part of the page where they can acknowledge they accept or agree to the terms of use. Folks do this in order to continue on with their task at hand as quickly as possible.
+However, a couple participants were interested in a particular section of a terms of use, particularly how information is used and shared. Those participants may be more likely to skim or even read the given section of interest.
 
 >_"My assumption is that all of them are the same, and I just click through it" - Participant 11_
 
@@ -94,7 +94,7 @@ Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: S
 
 - Related to: Hypothesis 2
 
-Most veterans feel resigned to the fact that they must accept a terms of use and are likely to consider them a sort of necessary evil. Even so, veterans can have positive feelings with terms of use. Especially those who generally consider the VA in a positive way and who also felt that the terms of use offers protections for them as a user would feel positive feelings, like increased trust in the VA or general peace of mind, about accepting a terms of use for VA. 
+Most veterans feel resigned to the fact that they must accept a terms of use, and are likely to consider them a sort of necessary evil. Even so, veterans can have positive feelings with terms of use. Positive feelings are most likely to be found with folks who generally consider the VA in a positive way and who also feel that the terms of use offers protections for them as a user. Positive feelings can include increased trust in the VA or general peace of mind about accepting a terms of use for VA. 
 Those who consider the VA in a negative way or who feel that terms of use generally take advantage of the users will feel more neutral or negative towards seeing VA’s terms of use.
 
 >_"[Terms of use] increases my trust with the VA" - Participant 17_
@@ -106,32 +106,35 @@ Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: S
 
 - Related to: Hypothesis 1, Hypothesis 3
 
-Only two of our participants could think of a specific time when they declined a terms of use in the past, and a third had decided not to use a social media service because they had concerns about its terms of use based on news stories. Most of the folks we talked with have either never declined or couldn’t recall a time when they declined a service’s terms of use.
-Our participants understood that in order to use a service, you need to agree to the terms of use. In other words they understood the consequences of not being able to use a service if they didn’t accept the terms of use, even if they felt stuck in needing to accept it. To that end they all felt it was reasonable for the VA to block someone from signing in if they don’t agree to the terms of use.
-The tested terms of use page reinforced this, and the warning alert titled “What will happen if you decline” caught the attention of most participants. They felt like it wasn’t a surprise, although they felt it would be detrimental to anyone who didn’t accept.
+Only two of our participants could think of a specific time when they declined a terms of use in the past, and a third had decided not to use a social media service because they had concerns about its terms of use based on news stories. Most of the folks we talked with have either never declined or couldn’t recall a time when they had declined a service’s terms of use.
+Our participants understood that in order to use a service, you need to agree to the terms of use. In another view they understood the consequences that they can't use a service or app if they don't accept the terms of use. This caused some to feel forced to into accepting a site's terms of use. Still, all participants felt it was reasonable for the VA to block someone from signing in online if they don’t agree to the terms of use.
+The prototype terms of use page reinforced this convention, and the warning alert titled “What will happen if you decline” caught the attention of most participants. Noone was surprised by this information, although they felt it would be detrimental to anyone who didn’t accept.
 
 >_“If you decline.... I expect I won't be able to use the app” - Participant 16_
+
 >_"What will happen if you decline? Oh no s***. I can't access the website" - Participant 14_
 
 
-**5. Accordion functionality and our prototype’s button language resonate with veterans**
+**5. Accordion functionality on terms of use and our prototype’s button language both resonate with veterans**
 
 Labels: `Accessibility`, `AUD: Veterans`, `DSC: Accordions`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
 - Related to: Hypothesis 1, Question 1, Question 2, Question 3, Question 4
 
-Usability testing validated the use of **accordions** on the terms of use page. All participants, including older and assistive technology users, understood the accordions, and they could be expanded to read more about that section. While most would not open them up and read the content, they did all understand the functionality. Since the accordions begin in a collapsed state, veterans who prefer to skip through terms of use can scroll down to the buttons quicker than if the entire content showed. Also folks who are interested in just one section can find it easier and expand it without scrolling through the entire content.
+Usability testing validated the use of **accordions** on the terms of use page. All participants, including older, cognitive disability, and assistive technology users, understood the accordions and that more information could be pulled out. While most would not select to open them or read the content, they did all understand the functionality. Since the accordions begin in a collapsed state, veterans who prefer to skip through terms of use can scroll down to the accept button quicker than if the entire content showed. Also folks who are interested in just one section can find it easier and expand it without scrolling through the entire content.
 
 >_"[The accordions] don't compel me to click on them. I know I should expand them, the plus mark" - Participant 18_
+
 >_“I might click on these [accordions] if I was interested in reading more" - Participant 17_
->
-We found that all veterans understood the **button language** of this prototype (ie. “accept” and “decline”). All participants defined accept and decline similarly to our use in the prototype. Veterans have a slight preference for a single word on these buttons - so “decline” felt easier to read or understand over “don’t accept.” To the degree they had preference between “agree” and “accept,” more felt that ”accept” as the label resonated more. While some folks did like the simplicity of using “yes/no” on the buttons others felt it lost proper context.
+
+We found that all veterans understood the **button language** of this prototype (ie. “accept” and “decline”). All participants defined accept and decline similarly to our use in the prototype. We found a slight preference for a single word on these buttons - so “decline” felt easier to read or understand over “don’t accept.” To the degree folks had preference between “agree” and “accept,” more felt that ”accept” as the label here resonated more. Finally, while some folks did like the simplicity of using “yes/no” on the buttons, others felt it lost proper context.
 
 
 >_"[The button] looks neater with just the single word" - Participant 9_
+
 >_“ ‘Decline’ is easier than ‘not accept’ to me." - Participant 15_
 
-Related to the buttons, we found that **the flow** to the next page made sense for folks. Veterans expected to end up on either the home page or their MyVA pages after agreeing, depending where they sign in. This tracks with what happens currently after signing in on VA.gov, and what we’re planning for when the terms of use is shown. We also found that the decline page, the page veterans saw after declining the terms of use, offered the necessary information while being brief and easy to understand.
+Related to the buttons, we found that **the flow** to the next page made sense for folks. Veterans expected to end up on either the home page or their MyVA page after agreeing, depending where they sign in. This tracks with what happens currently after signing in on VA.gov, and what we’re planning for when the terms of use update is live. We also found that the decline page, the page veterans saw after declining the terms of use, offered the necessary information while being brief and easy to understand.
 
 >_“[The accept button would] redirect me to the home page or my account” - Participant 20_
 
@@ -141,24 +144,26 @@ Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: S
 
 - Related to: Question 4
 
-Our testing found some other items that are worth consideration. The bulk of these are related to other teams, so this report will include those in the [Additional Insights and Recommendations](#additional-insights-and-recommendations). 
+Our testing found some other items that are worth consideration. The bulk of these are related to other teams, so this report will include those in [Additional Insights and Recommendations](#additional-insights-and-recommendations). 
 
-Insights related to the front end design include making sure it is as easy as possible for folks to move past the terms of use page. Especially on mobile, finding the buttons at the bottom takes quite a bit of scrolling. 
+Insights related to the front end design include making sure it is as easy as possible for folks to move past the terms of use page. Especially on mobile, getting to the buttons at the bottom takes quite a bit of scrolling. 
 
-Everyone easily found the PDF of the terms of use; however, there wasn’t interest in downloading it, especially if it could be found on the VA.gov site later on. We might be giving too much prominence to the PDF download. Finally, most services present terms of use are presented on a modal or a page that isn’t a normal templated page with all the navigation options. This will be the mental model that folks are used to. In accordance with UX best practice and previous Identity Team research, modals should be used sparingly since they interrupt; however, in this case, it’s interrupting by design and does require a user’s input. As designed, our prototype is a page, so includes the standard VA header navigation that someone could use to move off the terms of use page before they accept it.
+Everyone easily found the PDF of the terms of use; however, there wasn’t interest in downloading it, especially if it could be found on the VA.gov site later on, which is the plan. We might be giving too much prominence to the PDF download here. Finally, most services present terms of use on a either modal or a page that isn’t a normal site templated page that all the navigation options. This means this will be the mental model that folks are used to. In accordance with UX best practice and previous Identity Team research, modals should be used sparingly since they interrupt; however, in this case, it’s interrupting by design and does require a user’s input. As designed, our prototype is a site temaple page, which includes the standard VA header navigation that someone could use to move off the terms of use page before they accept it.
 
+> "I would never download this" - Participant 18
 
 ## Recommendations
-This section is specifically for our design and front end related recommendations. We have included Content CAIA Team, Office of General Council, and Platform Design System Team findings and recommendations in [Additional Insights and Recommendations](#additional-insights-and-recommendations)
+This section is specifically for our design and front end related recommendations. We have included additional Content CAIA Team, Office of General Council, and Platform Design System Team findings and recommendations in [Additional Insights and Recommendations](#additional-insights-and-recommendations)
 
 1. Ensure the buttons to move past the terms of use are easy to find
    - Key Finding 2 - most folks want to move past terms of use as quickly as possible
-2. Continue to utilize accordions and keep the full terms of use content collapsed in accordions by default
+   - Key Finding 6 - parts of our prototype could be modified to make it more usable
+2. Continue to utilize accordions, and keep the full terms of use content collapsed by default
    - Key Finding 2 - we should make terms of use as easy as possible to move past
    - Key Finding 2 - folks who are interested in a section of the terms of use can easily open up that accordion to read more
    - Key Finding 6 - accordions use on this page resonates with folks
 3. Ensure headings are clear 
-   - Key Finding 6 - the top H1 heading and the first H2 heading seemed to overlap. While it isn’t final language, one of the H3 accordion headers was “Feedback” and folks weren’t sure what that referred to.
+   - Key Finding 6 - the top H1 heading and the first H2 heading seemed to overlap. One of the H3 accordion headers was “Feedback” and folks weren’t sure what that referred to. Note: the prototype didn't test final language here
 4. The PDF download doesn’t have to be prominent on the page, especially if the content can be easily found later on
    - Key Finding 6 - The PDF on the terms of use page was easy to find but not of interest
 5. For future terms of use updates that require user input to accept, consider using a modal or another way to present instead of on a full page with the standard VA header and navigation. For example a modal or a full page without standard site navigation are more standard presentations for terms of use.
