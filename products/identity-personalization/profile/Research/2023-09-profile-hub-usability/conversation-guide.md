@@ -107,10 +107,12 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 - Does this information look up-to-date?
 - If you’d like to update any of this information while we’re on this call, we’d be happy to learn from your experience.
 
+<br>
 
 - *(3a) Backup prompt (if already covered) – Notification settings:* Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
 	- Is there anything you’d like to change or update here?
 
+<br>
 
 *Things to note* ✎
 - How quickly the participant located the correct section
@@ -120,11 +122,11 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 
 *(4) Primary prompt:* **Let’s pretend you just switched banks, and you need to update where get your payments from VA. Where would you go to do that on this website?**
 
-
+<br>
 - *(4a) Backup prompt (if already covered) – Notification settings:* Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
 	- Is there anything you’d like to change or update here?
 
-
+<br>
 *Things to note* ✎
 - Which method they use to switch: sidenav section link, breadcrumb link back to `Profile (hub)`, or other
 - Any remarks regarding the `Profile hub` once they’re on it
@@ -144,10 +146,12 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 - This link took you to another page – how did that jump feel?
 	- How would you get back to your Profile?
 
+<br>
 
 - *(6a) Backup prompt (if already covered) – Account security (Update your sign-in info on the [credential] website):* Let’s say you need to double-check what credentials you use to log into your account. 
 	- [If they find it] What tipped you off that you’d find that information here?
 
+<br>
 
 *Things to note* ✎
 - How easily and quickly they find the deep link
@@ -159,10 +163,12 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 - Does this information look correct?
 - If you’d like to update any of this information while we’re on this call, please go ahead.
 
+<br>
 
 - *(7a) Backup prompt (if already covered) –  Notification settings:* Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
 	- Is there anything you’d like to change or update here?
 
+<br>
 
  *Things to note* ✎
 - How quickly the participant located the correct section
@@ -173,6 +179,7 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 *(8) Primary prompt:* **Do you have any dependents who use VA benefits of any kind?**
 - Where on VA.gov would you go to update your dependents’ information? Without clicking on anything, where would you look first? (If they mention Search:) What’s another place you would look?
 
+<br>
 
 - *(7a) Backup prompt (if no dependents):* Let’s say you need to download some documents in order to apply for new benefits. Where would you go to find and download those documents? Without clicking on anything, where would you look first? (If they mention Search:) What’s another place you would look?
 	- [If needed] Say, for example, your Proof of Service Card.
@@ -180,6 +187,8 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 If needed:
 - Let me draw attention to the menu with your name in the upper right corner. 
 	- How often do you use that menu?
+
+<br>
 
 *Things to note* ✎
 - 
@@ -191,7 +200,6 @@ If needed:
 - Do you have health benefits?
 
 {Include a disclaimer that right now NOK/EC is only for healthcare?]}
-
 
 ## Wrapping up – X minutes
 
