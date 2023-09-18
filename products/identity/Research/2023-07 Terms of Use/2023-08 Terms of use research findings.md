@@ -63,7 +63,7 @@ We combined several methodologies for this test. We conduct interview discussion
 
 **1. Terms of use is a widely accepted practice, and veterans expect to see them**
 
-Labels: `Accessibility`, `AUD: Veterans`, ‘HDW: Desktop’, ‘HDW: Laptop’, ‘ HDW: Smartphone’, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote’
+Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
 - Related to: Hypothesis 1, Question 1, Question 2
 
@@ -76,7 +76,7 @@ Participants largely see them presented at sign in, and some also recalls update
 
 **2. Most veterans move past (i.e. accept) terms of use as quickly as possible and without reading them**
 
-Labels: `Accessibility`, `AUD: Veterans`, ‘DSC: Accordions’, ‘HDW: Desktop’, ‘HDW: Laptop’, ‘ HDW: Smartphone’, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote’, `RESRCH: Usability’
+Labels: `Accessibility`, `AUD: Veterans`, `DSC: Accordions`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
 - Related to: Hypothesis 2, Question 3
 
@@ -90,7 +90,7 @@ However, a couple participants were interested in a particular section of the te
 
 **3. Terms of use can be seen as positive if the user has a positive relationship with the service and the terms include protections for the user**
 
-Labels: `Accessibility`, `AUD: Veterans`, ‘HDW: Desktop’, ‘HDW: Laptop’, ‘ HDW: Smartphone’, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote’
+Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
 - Related to: Hypothesis 2
 
@@ -102,7 +102,7 @@ Those who consider the VA in a negative way or who feel that terms of use genera
 
 **4. Veterans rarely decline a terms of use, but when they do the consequences are clear**
 
-Labels: `Accessibility`, `AUD: Veterans`, ‘HDW: Desktop’, ‘HDW: Laptop’, ‘ HDW: Smartphone’, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote’, `RESRCH: Usability’
+Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
 - Related to: Hypothesis 1, Hypothesis 3
 
@@ -116,7 +116,7 @@ The tested terms of use page reinforced this, and the warning alert titled “Wh
 
 **5. Accordion functionality and our prototype’s button language resonate with veterans**
 
-Labels: `Accessibility`, `AUD: Veterans`, ‘DSC: Accordions’, ‘HDW: Desktop’, ‘HDW: Laptop’, ‘ HDW: Smartphone’, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote’, `RESRCH: Usability’
+Labels: `Accessibility`, `AUD: Veterans`, `DSC: Accordions`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
 - Related to: Hypothesis 1, Question 1, Question 2, Question 3, Question 4
 
@@ -137,7 +137,7 @@ Related to the buttons, we found that **the flow** to the next page made sense f
 
 **6. Parts of our prototype terms of use page were validated in usability testing, but some modifications could make this prototype terms of use more usable**
 
-Labels: `Accessibility`, `AUD: Veterans`, ‘HDW: Desktop’, ‘HDW: Laptop’, ‘ HDW: Smartphone’, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Remote’, `RESRCH: Usability’
+Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Remote`, `RESRCH: Usability`
 
 - Related to: Question 4
 
