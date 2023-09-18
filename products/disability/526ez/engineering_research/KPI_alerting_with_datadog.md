@@ -16,6 +16,7 @@ This document outlines suggestions that could be applied to each of these KPIs a
 
 Of the aforementioned KPIs, these are the Class#methods wrapped in logging that would be the most vauable to alert on are the Form 526 Submission sub-actions (3PIs)
 - Form526Submission#submit_uploads
+  - [DONE: completion monitor](https://vagov.ddog-gov.com/monitors/159640)
 - Form526Submission#submit_form_0781
 - Form526Submission#submit_form_8940
 - Form526Submission#upload_bdd_instructions
