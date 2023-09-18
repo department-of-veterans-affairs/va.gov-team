@@ -43,125 +43,25 @@ We'll use this information to determine if you'll need to pay a copay for non-se
 - Your phone number, email address, or mailing address
 - Insurance information for all health insurance companies that cover you. This includes any coverage that you get through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer.
 
-[end ul]
-
-[component alert]
-Note:  Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.
-[END component alert]
-
-[button primary] Sign in to check your application status 
-
-[END component blue background alert]
-
-[h2 class h3]  Follow these steps to get started
-
-[component process list]
-
-[h3 class h4] 1. Check your eligibility
-
-[p] Make sure you meet our eligibility requirements for enrollment before you apply. 
-[p] [bold]Note:[end bold] We can help connect you with mental health care—no matter your discharge status, service history, or eligibility for VA health care. [a = https://www.va.gov/health-care/health-needs-conditions/mental-health/] Find out how to get mental health care [/a]). 
-
-[component additional info]
-[title] What are the eligibility requirements to enroll in VA health care?
-[content]
-[p] You may be eligible to enroll in VA health care if all of these statements are true:
-[ul]
- - You served in the active military, naval, or air service (including being called up from the National Guard or Reserve by a federal order), **and**
-- You didn’t receive a dishonorable discharge, **and**
-- You meet at least one of the service requirements for enrollment
-[end ul]
-
-[p] You must meet at least one of these service requirements:
-[ul]
-- You served at least 24 months in a row without a break (called continuous), or for your full active-duty period, **or**
-- You were discharged for a service-connected disability, **or**
-- You were discharged for a hardship or “early out,” **or**
-- You served before September 7, 1980 
-[end ul]
-
-[p] **Note:** Time spent on active-duty status for training purposes only doesn’t count toward the service requirements. 
-[Get instructions on how to apply for a discharge upgrade or correction](https://www.va.gov/discharge-upgrade-instructions/) 
-
-[END component additional info]
-
-[h3 class h4] 2. Gather your information
-
-[p] Here’s what you’ll need to apply:
-
-[ul]
-- **Social Security numbers** for you, your spouse, and your qualified dependents
-- **Your military discharge information.** If you sign in to apply, we may be able to fill in this information for you. If you don’t sign in to apply, we’ll ask you to upload a copy of your DD214 or other separation documents.**
-- **Insurance cards** for all health insurance companies that cover you. This includes any coverage that you get through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer. 
-[end ul]
-
-[p] We’ll also ask you for this optional information:
-
-[ul]
-- **Last year's gross household income** for you, your spouse, and your dependents. This includes income from a job and any other sources. Gross household income is your income before taxes and any other deductions.
-- **Your deductible expenses for the past year.** These include certain health care and education costs. These expenses will lower the amount of money we count as your income.
-[end ul]
-
-
-[component additional info]
-[title] Why does the VA need this information? 
-
-[content] 
-[p] When you apply, we review this information:
-[ul]
-- Your service history
-- Your VA disability rating
-- Your income level (and the income level of your spouse or other qualified dependents)
-- Your eligibility for Medicaid, VA disability compensation, and VA pension benefits
-[end ul]
-
-
-[p] We use this information to help us decide these 3 things:
-[ul]
-- What types of VA health care benefits you're eligible for, **and**
-- How soon we enroll you in VA health care, **and**
-- How much (if anything) you’ll have to pay toward the cost of your care
-[end ul]
-
-
-[p] We give Veterans with service-connected disabilities the highest priority.
-[p] **Note:** We ask about other health insurance for billing only. Having other health insurance doesn’t affect your eligibility for VA health care.
-[END component additional info]
-
-
-[h3 class h4] 3. Start your application
-[p] We’ll take you through each step of the process. It should take about 30 minutes.
-
-[component additional info]
-[title] What happens after I apply? 
-[content]
-[p] We process health care applications within about a week. We’ll send you a letter in the mail with our decision.
-[p] If you don’t receive your decision letter within a week after you apply, please don’t apply again. Call us at 877-222-8387 _(link)_ (TTY: 711)_(link)_. We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-[END component  additional info ]
-[END component process list]
+[END ul]
 
 [component alert info]
-[h2] Save time and save your work in progress
-[p] Here's how signing in now helps you:
-[ul]
-- We can fill in some of your information for you to save you time.
-- You can save your work in progress. You'll have 60 days from when you start or make updates to your application to come back and finish it. 
-[end ul]
 
-[p] **Note:** You can sign in after you start your application. But you'll lose any information you already filled in. 
-[button primary] [Sign in to start your application]
-[a link] Start your application without signing in
+[p] **Note:**  Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.
 
 [END component alert info]
 
+[button primary] Start your health benefits update form
+
 [component OMB info]
-How much time we think you'll need to apply (called respondent burden): **30 minutes**
-OMB Control #: 2900-0091
-Expiration date: 06/30/2024
+
+Respondent burden: **24 minutes**
+OMB Control #: **2900-0091**
+Expiration date: **06/30/2024**
+
 [END component OMB info]
 
 [button secondary] Privacy Act statement (_popup_)
-
 
 [component form need help, health care] 
 
@@ -174,9 +74,9 @@ Expiration date: 06/30/2024
 
 [END component form need help, health care] 
 
----
+------------------------------------------------------------------------------
 ## Step 1 Veteran Information
----
+------------------------------------------------------------------------------
 
 
 ### Page: Personal Information - Unauthenticated View
