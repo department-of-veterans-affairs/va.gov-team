@@ -28,23 +28,23 @@ external TO = the timeout set in the external service
 | service             | endpoint                                                             | internal TO | external TO                           |
 |---------------------|----------------------------------------------------------------------|-------------|---------------------------------------|
 | ITF:                |                                                                      |             |                                       |
-| EVSS                | /wss-intenttofile-services-web/rest/intenttofile/v1                  | ???         | 2 minutes                             |
-| LH                  | /services/claims/v2/veterans                                         | ???         | 60 seconds                            |
+| EVSS                | /wss-intenttofile-services-web/rest/intenttofile/v1                  | 55          | 120                             |
+| LH                  | /services/claims/v2/veterans                                         | ???         | 60                             |
 | PPIU:               |                                                                      |             |                                       |
-| EVSS                | /wss-ppiu-services-web/rest/ppiuServices/v1/paymentInformation       | ???         | 2 minutes                             |
-| LH                  | ???                                                                  | ???         | 60 seconds                            |
+| EVSS                | /wss-ppiu-services-web/rest/ppiuServices/v1/paymentInformation       | 30          | 2 minutes                             |
+| LH                  | ???                                                                  | ???         | 60                             |
 | PCIU:               |                                                                      |             |                                       |
-| EVSS                | /wss-pciu-services-web/rest/pciuServices/v1                          | ???         | 2 minutes                             |
+| EVSS                | /wss-pciu-services-web/rest/pciuServices/v1                          | 30          | 120                              |
 | LH                  | ???                                                                  | ???         |                                       |
 | Rated Disabilities: |                                                                      |             |                                       |
-| EVSS                | /wss-pciu-services-web/rest/pciuServices/v1                          | ???         | 2 minutes                             |
-| LH                  | [veteran verification host]/services/veteran_verification/v2         |             | 10 seconds                            |
+| EVSS                | /wss-pciu-services-web/rest/pciuServices/v1                          | ???         | 120                             |
+| LH                  | [veteran verification host]/services/veteran_verification/v2         |             | 10                             |
 | Submit:             |                                                                      |             |                                       |
-| EVSS                | /wss-form526-services-web-v2/rest/form526/v2                         | ???         | 2 minutes                             |
+| EVSS                | /wss-form526-services-web-v2/rest/form526/v2                         | 355         | 120                             |
 | LH                  | ???                                                                  | ???         |                                       |
 | Document Services:  |                                                                      |             |                                       |
-| EVSS                | /wss-document-services-web-#{Settings.evss.versions.documents}/rest/ | ???         | 2 minutes                             |
-| LH                  | [benefits documents host]/services/benefits-documents/v1/documents   | ???         | 10 seconds (will be 20 at some point) |
+| EVSS                | /wss-document-services-web-#{Settings.evss.versions.documents}/rest/ | ???         | 120                          |
+| LH                  | [benefits documents host]/services/benefits-documents/v1/documents   | ???         | 10 (will be 20 at some point) |
 | getPDF:             |                                                                      |             |                                       |
 | EVSS                | /wss-form526-services-web-v2/rest/form526/v2                         | ???         | 2 minutes                             |
 | LH                  | ???                                                                  |             |                                       |
