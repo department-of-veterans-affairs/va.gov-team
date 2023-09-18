@@ -1,5 +1,7 @@
 # SCO dashboard workshop: Insights
 
+Last updated by @tygindraux on September 18, 2023
+
 ## Background
 
 ### Research goals
