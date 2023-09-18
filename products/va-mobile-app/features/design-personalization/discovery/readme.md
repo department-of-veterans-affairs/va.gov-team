@@ -1,7 +1,6 @@
 # VA Mobile App - Personalization - UX Discovery
-Last updated Aug 2023
 
-### Personalization 2023
+### Personalization (2023-present)
 - [Personalized Data - Discovery & Classification (Figjam)](https://www.figma.com/file/NHnXpvkhBeqvUQ6LIqMGqd/Personalized-Data---Discovery-%26-Classification--VA-Mobile?type=whiteboard&node-id=0%3A1&t=2kSgg4tKMXHSSrVZ-1)
      * Documents existing mobile app + MyVA data, as well as UX team data concepts. Includes cross-funcitonal impact v effort exercise.
 
@@ -10,7 +9,7 @@ Last updated Aug 2023
     * Comparative analysis re-examining apps originally included in the earlier Comparative Analysis of Navigation UI Patterns work, this time with a lens examining how apps treat personalized content on their home screens.
    
       
-### Personalization 2022 (May-Jun 2022)
+### Personalization (May-Jun 2022)
   * [UX Discovery Questions: VA App Personalization](https://docs.google.com/document/d/1eB8t02SWEjpiAmoSN_WuRqWYBjS_j-V2/edit)
 
 #### Desk Research
