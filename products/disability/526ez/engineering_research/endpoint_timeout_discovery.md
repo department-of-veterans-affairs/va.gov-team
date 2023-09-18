@@ -37,11 +37,11 @@ external TO = the timeout set in the external service
 | EVSS                | /wss-pciu-services-web/rest/pciuServices/v1                          | 30          | 120                              |
 | LH                  | ???                                                                  | ???         |                                       |
 | Rated Disabilities: |                                                                      |             |                                       |
-| EVSS                | /wss-form526-services-web-v2/rest/form526/v2                         | ???         | 120                             |
+| EVSS                | /wss-form526-services-web-v2/rest/form526/v2                         | 55         | 120                             |
 | LH                  | [veteran verification host]/services/veteran_verification/v2         | 20          | 10                             |
 | Submit:             |                                                                      |             |                                       |
 | EVSS                | /wss-form526-services-web-v2/rest/form526/v2                         | 355         | 120                             |
-| LH                  | ???                                                                  | ???         |                                       |
+| LH                  | ???                                                                  | ???         | ???                                   |
 | Document Services:  |                                                                      |             |                                       |
 | EVSS                | /wss-document-services-web-#{Settings.evss.versions.documents}/rest/ | 480         | 120                          |
 | LH                  | [benefits documents host]/services/benefits-documents/v1/documents   | 20         | 10 (will be 20 at some point) |
