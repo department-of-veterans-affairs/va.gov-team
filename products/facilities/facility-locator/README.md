@@ -1,42 +1,30 @@
 # Facility Locator README 
 
-## Table of Contents
-* [Key resources](#key-resources) 
-* [Facility Locator resources](#facility-locator-resources)
-* [Practice specific](#practice-specific-resources)
-  - [Product](#product)
-  - [Engineering](#engineering)
-  - [Design/research](#design-research)
-* [What to know about the product](#what-to-know-about-the-product)
-* [Legacy info about the Facility Locator](#legacy-info-about-the-facility-locator)
+> Index of links to key resources
 
-## Key resources 
-
-- [**VSA Facilities Team transition folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
-- [**VSA Facilities Team Research and Design Hub document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
-
-## Facility Locator resources
-- [**VSA Facility Locator product transition document**](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) | March 2022
-- [**Technical documentation**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/technical-documentation.md)
-- [**Error states**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/error_states.md)
-- [Process for reporting inaccurate data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md)
-
-## Practice specific resources
-
-### Product 
-
-- [**Product Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/README.md)
-- [**Product Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
-
+## Key resources
+### Product
+- [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
+- [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
+  - [Link to Product Guide Word version](https://dvagov-my.sharepoint.com/:f:/r/personal/suzanne_middaugh_va_gov/Documents/Facility%20Locator?csf=1&web=1&e=3BaPie) _requires VA network connection_
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product)
+- Analytics : TBD
+- [Solution Narrative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/01804e1226822c291a483adf25424f3143f48940/products/facilities/facility-locator/product/solution-narrative/README.md)
 ### Engineering
-- [**Engineering Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md)
+- [Engineering Index](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md)
+- [Technical Documentation and Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/technical-documentation.md)
+- [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/error_states.md)
+- [Process for reporting inaccurate data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md)
+### UX
+- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022
+- [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design)
+- [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research#readme)
 
-### Design-research
-
-- [**Design folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design)
-- [**Research folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research)
-- [**Research summary**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/README.md)
-
+### Legacy artifacts
+The following were last updated in March 2022
+- [VSA Facilities Team transition folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) 
+- [VSA Facilities Team Research and Design Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) 
+- [VSA Facility Locator product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) 
 
 ---
 
@@ -58,7 +46,8 @@
 
 <details>
   <summary> Product and system stakeholders </summary>
-- VA Product owner: David Conlon 
+
+  - VA Product owner: David Conlon 
 - VA.gov Lead: Chris Johnston 
 - Facility API Product Owner: Dave Mazik 
 - VSSC Analyst/Engineer: Chad Holmes 
@@ -82,6 +71,7 @@ All of these folks help drive the vision and implementation of VA Community Care
 
 <details>
   <summary> Product goals </summary>
+
 - Switch primary data source from Vets API to Facility API: <https://developer.va.gov/explore/facilities/docs/facilities>
 - Reach parity with all legacy VA facility locator tools, so they can be depracated
   - Main legacy facility locator: https://www.va.gov/directory/guide/home.asp
@@ -114,6 +104,7 @@ All of these folks help drive the vision and implementation of VA Community Care
 - Web browser's location/geo-location functionality doesn't always work (or work well) on facility search page
 
 ## What to research
+
 - Pain points and bright spots with the current product (i.e., evaluative usability testing)
 - Users' mental models for VA facilities and services, including community care
   - Specifically, how users think about in-network emergency care, urgency care, and urgent care pharmacy facilities
