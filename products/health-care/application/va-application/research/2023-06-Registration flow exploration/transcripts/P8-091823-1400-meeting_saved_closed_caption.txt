@@ -1,0 +1,612 @@
+[Jessica] 10:55:12
+The transcript going. For notes. But
+
+[Jessica] 10:55:20
+Okay, so the decisions are saying will only take about an hour. We're kind of starting early a little bit.
+
+[Jessica] 10:55:26
+I just wanna be very respectful of your time and not go over that scheduled time. So. If we start getting too deep into a topic, I might kind of prompt you along so we can cover everything, but probably get out of here early too.
+
+[Jessica] 10:55:39
+So. Give you some time back. In this session, we want to hear your honest opinions. We're not testing kind of your ability or thought process.
+
+[Jessica] 10:55:47
+We really just want to improve these tools to better meet veterans needs. So the more you can share with us will really help us out.
+
+[Jessica] 10:55:53
+It will not be offended by any opinions. That you express and we welcome any and all feedback from you.
+
+[P8] 10:55:58
+Okay.
+
+[Jessica] 10:56:00
+Okay, and then if for any reason during the session you want to stop, just let me know. We'll stop.
+
+[Jessica] 10:56:06
+No questions ask and you'll be compensated no matter how much of the session we get through.
+
+[P8] 10:56:10
+Okay.
+
+[Jessica] 10:56:11
+Okay, so now back to that observer I had mentioned. I know Perigian asked about observers as they were signing you up for this study, but I just want to make sure that today's still a good day for that and are you okay if a couple additional observers join us during this session?
+
+[P8] 10:56:28
+Hello, Mike.
+
+[Jessica] 10:56:28
+It's actually just. What was that?
+
+[P8] 10:56:32
+I don't mind. It's fine.
+
+[Jessica] 10:56:33
+Okay. Alright, I will let him in. Oh.
+
+[Jessica] 10:56:41
+Okay. And as our observer is logging in, I'll just ask him to Turn his camera off to a brief introduction about who is and what's roll on the. Move on.
+
+[P8] 10:56:59
+Okay.
+
+[Hieu Vo] 10:57:00
+Hi, I'm Hugh. I'm a UX designer and researcher.
+
+[Hieu Vo] 10:57:04
+I work with Jessica on the healthcare healthcare team for the VA. Thank you for joining us.
+
+[P8] 10:57:11
+Hello.
+
+[Jessica] 10:57:13
+Some thinking. Okay, I wanna ask are you comfortable if I record my screen and audio as we talk today?
+
+[P8] 10:57:23
+I don't think so.
+
+[Jessica] 10:57:23
+Okay, and just so you know, we're only using these recordings to confirm we've captured your opinions correctly and our notes are correct.
+
+[Jessica] 10:57:31
+The recordings are then destroyed after we complete the analysis and our note-taking and none of your comments will be attributed to you directly by name.
+
+[Jessica] 10:57:39
+If we group things out, we often group findings in groups such as 5 out of 10. If we use a quote from you, we'll give you a participant ID like P 7.
+
+[Jessica] 10:57:48
+So knowing all of that, are you still comfortable if we record screen and audio as we talk today?
+
+[P8] 10:57:54
+Yes, I am comfortable.
+
+[Jessica] 10:57:56
+Okay. And I'm going to start that and then I'll confirm once. It has started.
+
+[Jessica] 10:58:04
+Okay, I have started the recording, so I'm just gonna confirm. Are you comfortable if we record screen and audio as we talked today?
+
+[P8] 10:58:12
+Yes.
+
+[Jessica] 10:58:13
+Awesome. Now we have all of the logistics done. We can start diving into a few questions.
+
+[Jessica] 10:58:21
+Are you currently enrolled and using health care benefits from the VA?
+
+[P8] 10:58:25
+Yes, I am.
+
+[Jessica] 10:58:27
+About how long have you been enrolled in VA healthcare?
+
+[P8] 10:58:31
+One in 3 years.
+
+[Jessica] 10:58:33
+Okay. How often do you visit a VA facility? For medical reasons.
+
+[P8] 10:58:41
+Every 6 months.
+
+[Jessica] 10:58:43
+Okay, thank you. And how often do you visit VA. Gov online?
+
+[P8] 10:58:50
+Maybe twice a month.
+
+[Jessica] 10:58:53
+Okay. Okay, kind of dive into our first topic to just kind of understand the current application process that you went through when applying for VA health care.
+
+[Jessica] 10:59:04
+So. Can you explain to me in your own words the process you took when you applied for health care benefits?
+
+[P8] 10:59:11
+Oh, that's you to create account on the website. And then I ask you to verify your military records.
+
+[P8] 10:59:18
+So they asked you to go to I. Me? Just verify your record. And from there.
+
+[Jessica] 10:59:25
+Okay.
+
+[P8] 10:59:28
+They, search up the record and then confirm your identity. And then that pass and you can log in to the.
+
+[P8] 10:59:37
+Dot gov, account.
+
+[P8] 10:59:41
+That too much is. It's not too complicated.
+
+[Jessica] 10:59:45
+Thanks for walking me through that. Was there any part of that process that was frustrating or that you found difficult?
+
+[P8] 10:59:54
+No, it's pretty quite easy. I'm very, type 7 so something go for me Maybe other, veterans in my house, difficulty.
+
+[P8] 11:00:07
+Trying to. Find which link to sign up. And because they have like 4 or 5 different type of verifications process now that You can click on to log in.
+
+[P8] 11:00:20
+Before it was simple. Just a simple, e benefits. Now it's just go shoot the VA.
+
+[P8] 11:00:28
+They change the whole process, so log it in. But I find it looks like easier this way just once.
+
+[P8] 11:00:36
+Location and just log in. Like the health was separate in VA. For benefits but they all now just book price is playing into one location.
+
+[P8] 11:00:50
+So it's quite easy now. Several years ago.
+
+[Jessica] 11:00:56
+Thank you for explaining all of that. That's very helpful for us to hear. When you were completing the application for healthcare benefits, what is your recollection about the amount of information for healthcare benefits, what is your recollection about the amount of information that you had to provide?
+
+[P8] 11:01:17
+I'm not quite sure. Back then they had like, you have to submit your D.
+
+[P8] 11:01:26
+2 14. From your computer and submit it. Because they wanna know. So.
+
+[P8] 11:01:35
+Because they can't really pull it up. And once you submit the, your D 2 14 They have a copy of it and now they think you can much.
+
+[P8] 11:01:46
+All getting a time. I.
+
+[Jessica] 11:01:52
+Got it. So that one piece of information was kind of the key thing that stood out in your mind, was it?
+
+[Jessica] 11:01:58
+Difficult for you to get a copy of your DT 2 for our teen or did you have that readily available?
+
+[P8] 11:02:03
+Oh, I had a scan on my computer, yeah. And every time, let's say that military or BA related, ask for it, I was able to just, upload it from my account on my computer.
+
+[P8] 11:02:16
+So it's quite easy, yeah.
+
+[Jessica] 11:02:18
+I got it. And did any of the other information that was asked seemed Just stand out to you or was it just the D.
+
+[Jessica] 11:02:27
+2 14?
+
+[P8] 11:02:28
+Just that, and just the typical, your name, your location.
+
+[P8] 11:02:34
+Yeah, that's pretty much it. That's one.
+
+[Jessica] 11:02:36
+Got it. Thank you. Okay, when it comes to registering and health care at the VA, what is that mean to you?
+
+[P8] 11:02:51
+For me, I think it's my way of. Help me get a health
+
+[P8] 11:03:05
+Getting help yeah pretty much registering and finding ways to see a doctor. Easily by using the your website.
+
+[P8] 11:03:18
+I can provide messages to my directly to my primary care doctor. And also ways to, refill my prescriptions as well.
+
+[P8] 11:03:28
+And see seeing appointments ahead of time. They let you know when your reports coming up. And, and they remind you of your events.
+
+[P8] 11:03:41
+So it provide a lot of helpful information.
+
+[Jessica] 11:03:43
+Awesome. Thank you for all of that detail. It's helpful. Okay, we're gonna switch gears a little bit and kind of talk more about as you were applying and kind of the process of you understanding your benefits.
+
+[Jessica] 11:03:55
+An eligibility around VA health care. So kind of thinking back when you were applying, how did you determine what health benefits you could get when you completed the application?
+
+[P8] 11:04:09
+Pretty much looking for a way to be seen by, Yeah, doctor. So, local private doctor.
+
+[P8] 11:04:20
+In a way, it's
+
+[P8] 11:04:23
+See, either or, finding a local doctor that will see me right away. Where's you, VA, Dr.
+
+[P8] 11:04:34
+Me lot faster than me waiting several months. But it also works out. Vice versa as well, cause probably doctor.
+
+[P8] 11:04:44
+Faster than the VA. So I kinda go back and forth. I have needs that need to be fill in.
+
+[P8] 11:04:56
+One of them will help me lot faster than the other one. So this reason why I have 2,
+
+[P8] 11:05:04
+Okay, there's VA, you know, it take a long time to be seen. And, It could be taken off too like small.
+
+[P8] 11:05:16
+3 to 4 months to be seen. You're not you're in a hurry. That's how long it takes.
+
+[P8] 11:05:23
+You should schedule up. We're just when I had an injury and it took me a long time for me to get seen.
+
+[P8] 11:05:29
+As always, I'm still waiting on the what it means to be seen by the
+
+[Jessica] 11:05:36
+Well, So could you say kind of how to learn how to navigate? Health benefits outside of VA facilities or do you?
+
+[Jessica] 11:05:46
+Use another insurance when you go and see your private doctor.
+
+[P8] 11:05:49
+Yeah, I use another insurance to see my
+
+[Jessica] 11:05:52
+Okay.
+
+[P8] 11:05:53
+Just in case, you know, the VAs don't have the It's time to see me.
+
+[P8] 11:06:00
+So I sort of.
+
+[Jessica] 11:06:02
+Got it. Kind of that time to be seen as the most important health benefit. That you're kind of navigating around.
+
+[P8] 11:06:07
+Yes. Yes.
+
+[Jessica] 11:06:09
+Okay. Before you apply, did you use any resources to understand? What you might qualify for or how the health benefits work.
+
+[P8] 11:06:21
+Yes, they send you a link. Or a website that you know look into. And they just, there's a little description that applies to what you're looking for.
+
+[P8] 11:06:34
+It's pretty much you have served. You will be qualified. If you have a on discharge. If not, I'm not sure what they're gonna do.
+
+[Jessica] 11:06:48
+She recollection on that link that answer the questions that you had at the time.
+
+[P8] 11:06:54
+Yes, it. Only applies to certain veterans that have Honorable discharge. That's what I was applying.
+
+[Jessica] 11:07:03
+Okay
+
+[P8] 11:07:05
+So that's when they ask you for a D. 14. To the show ask proof.
+
+[Jessica] 11:07:12
+Thank you for explaining that. When you were applying, were you looking to get care for one specific health concern or were you interested in rolling for full healthcare coverage of everything?
+
+[P8] 11:07:28
+I was looking for pretty much everything.
+
+[Jessica] 11:07:30
+Okay. And then looking back now that you've been using your health care benefits, is there anything you wish you would have known?
+
+[Jessica] 11:07:39
+You were filling out the application that you've had to learn on your own along the way.
+
+[P8] 11:07:52
+Bye. Oh, I don't have any, ask for that. I just pretty much know.
+
+[Jessica] 11:07:55
+Okay.
+
+[Jessica] 11:08:02
+Okay. No worries. Kind of keep moving along and ask a couple more questions and see. So now can I go where?
+
+[P8] 11:08:02
+So I can't remember.
+
+[P8] 11:08:10
+Okay.
+
+[Jessica] 11:08:13
+I guess current so you won't have to rely on thinking back to far but Can you explain to me in your own words what you get with your VA healthcare benefits?
+
+[P8] 11:08:23
+Looks like I heard my benefits when I sign up for it. I served my time and did my duties.
+
+[P8] 11:08:33
+And I was on this chart, so. It's, so way of, works for me.
+
+[P8] 11:08:38
+My, my. So I feel like I have my by VA health.
+
+[P8] 11:08:52
+That's about it.
+
+[Jessica] 11:08:52
+Okay. And I know you mentioned a link at 1 point when you were figuring out your benefits. Is there any other resources?
+
+[Jessica] 11:09:02
+You used throughout this whole process to figure out how to use the health care benefits.
+
+[P8] 11:09:08
+I want to, the actual. This building. I lived in California, so I was in Southern California.
+
+[Jessica] 11:09:14
+Okay.
+
+[P8] 11:09:19
+So that's Primary one in I went to, building here. They provided some information about how to.
+
+[P8] 11:09:28
+In real online as well.
+
+[Jessica] 11:09:32
+Okay. Did you find that to be pretty helpful?
+
+[P8] 11:09:32
+So that's another Swiss.
+
+[P8] 11:09:38
+Yes, set up me going to the hospital all time to get information. Let's go to website.
+
+[P8] 11:09:45
+I was back then before the when they started all the online stuff.
+
+[Jessica] 11:09:53
+Awesome. And another question. Can you tell me more about what priority group you are in for your health care benefits now?
+
+[P8] 11:10:02
+I would say I'm just general. Perhaps there's no priority or anything this Once you're in your hand, you're You seen They have, a, that's open.
+
+[P8] 11:10:20
+I'm not I don't have any emergency any of mental health issues so I'm categorized as general.
+
+[Jessica] 11:10:31
+Okay, have you ever came across the term priority groups? Before and health care benefits. Or is this a fairly new term?
+
+[P8] 11:10:40
+No. Yeah, that's a fairly new term to me.
+
+[Jessica] 11:10:43
+Okay. I guess there's no right or wrong answer all here, but just hearing priority groups What do you think it means?
+
+[Jessica] 11:10:53
+In terms of VA healthcare?
+
+[P8] 11:10:56
+I think it's People may be mental health issues. That priority. Compared to the rest of us.
+
+[P8] 11:11:05
+That just needs to be seen for general issues. Things and you know. Flu shots and stuff like that.
+
+[Jessica] 11:11:15
+Got it. Thank you for explaining that. We're gonna shift gears yet again. Kind of talk a little bit more about ideal state and in a perfect world how you would like all of this to work so that thought could you describe how in this perfect world you would want the healthcare application process to go for you and how you would like to learn about what benefit options you qualify for.
+
+[P8] 11:11:43
+Well, it's a lot of, it's nation out there and, It's hard to grasp sometimes when they provide you all the information.
+
+[P8] 11:11:52
+Yeah, sometimes I have to take a time and just sit down and just, me everything and it just comes at you all at once.
+
+[P8] 11:12:00
+It's here and there, but then. It's just up to to myself to just figure it out because sometimes it's not that.
+
+[P8] 11:12:09
+Easy just to read all the information all once So I would think they should like provide like maybe.
+
+[P8] 11:12:20
+Some kinda, let's say. I know, like a list that's.
+
+[P8] 11:12:27
+Easier to me than all the information. They just put out, That's about it, yeah.
+
+[P8] 11:12:39
+That's my understanding.
+
+[Jessica] 11:12:40
+Okay.
+
+[Jessica] 11:12:44
+That's great. Thank you for explaining that. I guess on that note, how would you like to learn about your benefits that you're eligible for eligible for other than just some kind of simple lists.
+
+[Jessica] 11:12:56
+Is there any other tools or methods you would want to use to make it easier for you?
+
+[P8] 11:13:01
+I would suggest maybe,
+
+[P8] 11:13:05
+You put out a, like a category for certain type of veterans out there that have, that type of a service connector injury.
+
+[P8] 11:13:15
+In one group so that way they use it and just. Lincoln, you might have all the information you need as a parent to, at once.
+
+[P8] 11:13:29
+So I want them like to do destiny a certain type of group for certain type of veterans.
+
+[P8] 11:13:36
+In my opinion, us.
+
+[Jessica] 11:13:40
+That makes sense. Thank you. I guess is there anything else you would like to add about?
+
+[Jessica] 11:13:47
+How you would like to discover what options and How to use your health care benefits before we kind of move on to the next topic.
+
+[P8] 11:14:01
+I don't have any thoughts on that right now.
+
+[Jessica] 11:14:04
+Okay. So now kind of moving on to our Next, an actual final topic already. I'm going to share my screen with you and show you some example instructions that appear on the health care benefits application.
+
+[Jessica] 11:14:22
+Just kind of ask you to explain and think aloud your thought process. As you're going through and looking at these.
+
+[Jessica] 11:14:31
+I will share my screen.
+
+[Jessica] 11:14:38
+Okay, can you see the instructions okay or do you need me to zoom in at all?
+
+[P8] 11:14:44
+Yes, LCM. Perfect. Thank you.
+
+[Jessica] 11:14:46
+Okay, so yeah, if you could just explain to me in your own words. What these options mean and how they are different to you.
+
+[P8] 11:14:58
+Okay, in Roman.
+
+[P8] 11:15:01
+Medical packages. You.
+
+[P8] 11:15:09
+Have completed a successful military. Just charge you qualify under that enrollment. Wanna be discharge. That's what I mean to be for Roman.
+
+[P8] 11:15:25
+To get the full benefits. We're disarmed, you won't be able to apply for that.
+
+[P8] 11:15:34
+I am. Registration
+
+[Jessica] 11:15:40
+And when you're talking about honorable and just honorable discharge here, it's Not on the instructions here, but that is just basically your knowledge.
+
+[Jessica] 11:15:48
+After applying for benefits in the past is how you know that or
+
+[P8] 11:15:52
+Yes, yes, that's how I knew that.
+
+[Jessica] 11:15:54
+Okay.
+
+[P8] 11:15:57
+Yeah, like a listing as well for room environment. So that's our member back then.
+
+[Jessica] 11:16:05
+Okay.
+
+[P8] 11:16:09
+Registration
+
+[Jessica] 11:16:28
+Or anything that you're find. Really confusing or that you're Sorry of getting hung up on here.
+
+[P8] 11:16:37
+Yeah, I'm just trying to understand for all the registration for Yeah, getting, no I'm getting If I sign up.
+
+[P8] 11:16:54
+Oh, it's just,
+
+[P8] 11:16:58
+In my understanding, it's say anything that I want.
+
+[P8] 11:17:04
+After our Roman, I can just find out that. I'm able to get these. S.
+
+[P8] 11:17:12
+Of a
+
+[P8] 11:17:14
+Services.
+
+[Jessica] 11:17:26
+Anything else you'd like to add about these instructions here before I ask a couple more questions?
+
+[P8] 11:17:32
+Oh, let's check. Pretty much, clear to me from my understanding, but I don't know about other people.
+
+[P8] 11:17:40
+It's still difficult for me to, try to say, to you, but. What's your role on that and register for the the services, we're able to get them.
+
+[P8] 11:17:54
+Yeah. Once you're ready for a certain disability.
+
+[P8] 11:18:00
+You're gonna get this.
+
+[Jessica] 11:18:10
+Explain that if you were completing this application today Which one or ones would you select and can you tell me just kind of your thinking behind that?
+
+[P8] 11:18:22
+I would select the, care for a veteran with a VA, a service connected disability. That's which one I'll choose because I have one.
+
+[Jessica] 11:18:36
+Okay, so you would only check the registration box if you were completing this. For yourself today. Got it.
+
+[P8] 11:18:41
+Yes. Yes.
+
+[Jessica] 11:18:45
+Okay. Is there anything? I'll see you like to add about these before kind of Wrap up today?
+
+[P8] 11:18:56
+They're pretty much, easy to understand. Not difficult.
+
+[Jessica] 11:19:04
+Okay, thank you. And as you're looking at these kind of OP Kind of an example of how to choose benefit options and kind of talking about your ideal state, how you would like things in a simple bulleted list was one thing that I remember stood out that you said.
+
+[Jessica] 11:19:20
+Is there anything you have a change about your ideal state? Or would you say this aligns with your ideal state?
+
+[P8] 11:19:26
+I'll say this, the lines for my ideal state, yes. What I was looking for. Yeah, wanted to sign up before.
+
+[Jessica] 11:19:34
+Okay.
+
+[P8] 11:19:35
+So, so they pretty much. Hey, they understood the veterans that were applying. Back then, now it's a lot easier.
+
+[Jessica] 11:19:46
+Got it. Thank you for that. And that was kind of wrap up a couple more questions. Is there anything else you would like to add about everything that we talked about today with healthcare benefit options.
+
+[P8] 11:20:01
+Oh no, this is pretty much
+
+[P8] 11:20:05
+It was good. I like this. So for to me as well now since I have a little bit more information from you guys
+
+[Jessica] 11:20:14
+Yeah. Yes, thank you. Thank you for taking the time to talk with us today. It's helpful to try and as we iterate and approve the application to Make sure it works for veterans and Learn from those who have applied before.
+
+[P8] 11:20:14
+Very helpful. Thank you.
+
+[P8] 11:20:29
+Yes.
+
+[Jessica] 11:20:30
+Okay, yes. Awesome. Well, we were, again, we really appreciate you taking the time to share your thoughts with us today.
+
+[Jessica] 11:20:37
+And talk with us. Your feedback is really helpful as we continue to work in iterate a way. And so lastly, Paragian will be sending you a thank you note with a little blurb that you can pass along to other veterans that you may know to provide a chance for them to participate in studies like these as well.
+
+[Jessica] 11:20:53
+So again, thank you so much and I hope you enjoy the rest of your day.
+
+[P8] 11:20:58
+Do as well. Thank you very much.
+
+[Jessica] 11:21:00
+Thank you. Have a great day.
+
