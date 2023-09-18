@@ -6,6 +6,7 @@ Last updated by @tygindraux on September 18, 2023
 **Jump to:**
 * [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/SCO%20dashboard%20workshop%20insights.md#background)
 * [Insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/SCO%20dashboard%20workshop%20insights.md#insights)
+* [Next steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/SCO%20dashboard%20workshop%20insights.md#next%20steps)
 
 ## Background
 
@@ -74,8 +75,12 @@ We used Mural for this workshop. You can view the activities and findings here: 
 * It's frustrating when their response is that you submitted under the wrong topic and you need to submit again, "Can't they switch that on their end?"
 * It would be useful to always know who has replies from the VA, in case you need to cite their name or ID number in future conversations.
 * Inquiry number is still not useful, in this context. "Inquiry number for me – I've really never looked at it." Similarly, "topic doesn't really mean much."
-* This implies that inquiry number should not be the leading label, and we should re-think which labels should be shown at all.
-* This implies that their should be less onus on the submitter to reroute an inquiry, if they choose the wrong category or topic. (This is out of scope right now.)
+* **Takeaway:** This implies that inquiry number should not be the leading label, and we should re-think which labels should be shown at all.
+* **Takeaway:** This implies that their should be less onus on the submitter to reroute an inquiry, if they choose the wrong category or topic. (This is out of scope right now.)
 
 #### More to less helpful inquiry details
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/More-to-less-helpful-inquiry-details.png)
+
+## Next steps
+
+We have created or updated tickets in our sprint board based on our key takeaways. Next, we will prioritize which work is in and out of scope for [Phase 1 MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md).
