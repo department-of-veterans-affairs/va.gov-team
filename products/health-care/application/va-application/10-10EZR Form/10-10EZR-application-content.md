@@ -16,14 +16,38 @@ Pages listed below **10-10EZ PLACEHOLDER, need to update to EZR**
 #### URL: /health-care/apply/application/introduction
 
 
-[h1] Apply for VA health care
+[h1] Update your VA health benefits information 
 
-[p class] Enrollment Application for Health Benefits (VA Form 10-10EZ)
-[p] VA health care covers care for your physical and mental health. This includes a range of services from checkups to surgeries to home health care. It also includes prescriptions and medical equipment. Apply online now.
+[subtitle] Health Benefits Update Form (VA Form 10-10EZR)
 
-[component blue background alert]
+[p] Use the Health Benefits Update Form (VA Form 10-10EZR) to update your personal, financial, and insurance information after you’re enrolled in VA health care.
 
-[h2] Have you applied for VA health care before?
+[h2] What to know before you fill out this form
+
+[p] [bold] **You can update this household financial information:**
+
+[ul]
+- Your marital status
+- Dependent information
+- Income information from 2022 for you, your spouse (if you're married), and any dependents you may have
+- You or your spouse's deductible expenses from 2022 
+
+We'll use this information to determine if you'll need to pay a copay for non-service-connected care or prescription medicines. We'll also determine if you're eligible for travel pay reimbursement.
+
+[end ul]
+
+[p] [bold] **You can also update this information:**
+
+[ul]
+
+- Your phone number, email address, or mailing address
+- Insurance information for all health insurance companies that cover you. This includes any coverage that you get through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer.
+
+[end ul]
+
+[component alert]
+Note:  Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.
+[END component alert]
 
 [button primary] Sign in to check your application status 
 
