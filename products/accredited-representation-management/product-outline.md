@@ -116,7 +116,7 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 
 - **Team Name**: Accredited Representation Management
 - **GitHub Label**: accredited-representation-management-team
-- **Slack channel**: #benefits-ce-find_a_rep
+- **Slack channel**: #benefits-representation-management
 - Product POCs:
 - Stakeholders: 
 
