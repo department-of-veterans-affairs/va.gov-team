@@ -2,6 +2,11 @@
 
 Last updated by @tygindraux on September 18, 2023
 
+
+Jump to:
+* [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/SCO%20dashboard%20workshop%20insights.md#background)
+* [Insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/SCO%20dashboard%20workshop%20insights.md#insights)
+
 ## Background
 
 ### Research goals
@@ -21,7 +26,7 @@ Last updated by @tygindraux on September 18, 2023
 ### Materials
 We used Mural for this workshop. You can view the activities and findings here: [9/14/23 Dashboard workshop with SCOs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694439082995/b37a804f76e3eae53b295792c422244fef6bda9f?wid=0-1694720743894).
 
-## Findings
+## Insights
 
 ### What information helps you find an inquiry in your dashboard?
 * Submitter question is the most useful field for sorting through inquiries because, "you often remember the question" or it includes identifying information like the student's name.
