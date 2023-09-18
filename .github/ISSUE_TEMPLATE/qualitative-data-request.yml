@@ -91,7 +91,7 @@ body:
     attributes:
       label: Add Assignee and Labels     
       value: |
-          If not already done so, please ensure @ianMcCullough-ob is set as the assignee for this issue and "VSP-contact-center" and "cc-data-request" are set as labels.
+          If not already done so, please ensure @newworld2616 is set as the assignee for this issue and "VSP-contact-center" and "cc-data-request" are set as labels.
           Please leave this field as is when submitting.
     validations:
       required: false
