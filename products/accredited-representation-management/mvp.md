@@ -2,7 +2,7 @@
 
 _Formally known as "Find a Representative"_
 
-The Accredited Representation Management (ARM) MVP will include desktop & mobile experiences
+The MVP will include desktop & mobile experiences
 
 ## MVP
 
