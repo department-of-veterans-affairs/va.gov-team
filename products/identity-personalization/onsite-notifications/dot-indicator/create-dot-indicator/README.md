@@ -102,7 +102,7 @@ Like the first week of the experiment, we saw an overall increase in traffic to 
 - **Total interactions on My VA August 29 - September 4**: 1,003,927
 - **Total interactions on My VA September 12 - September 18**: 1,007,783
 
-This is a less than 1% increase in interactions, so this can not account for the jump in interactions with the "Go to your inbox link."
+This is a less than 1% increase in interactions, so this can not account for the jump in interactions with the `Go to your inbox` link.
 
 Here are some other changes from baseline (8/29 - 9/4) to week 1 metrics (9/5 - 9/11). It's important to note the following had no notable design changes to result in these numbers:
 
@@ -111,7 +111,7 @@ Here are some other changes from baseline (8/29 - 9/4) to week 1 metrics (9/5 - 
 - **Clicks to view prescriptions**: 15% increase
 - **Clicks to schedule and manage appointments**: 21% increase
 
-So we can see some of the other health-related tools saw a big bump, but nothing even close to the 47% increase we saw for view your messages. This implies that it's still likely -- as we suspected in week 1 -- that the dot indicator is the contributing factor in the large jump in activity for "Go to your inbox".
+So we can see some of the other health-related tools saw a big bump, but nothing even close to the 47% increase we saw for `Go to your inbox`. This implies that it's still likely -- as we suspected in week 1 -- that the dot indicator is the contributing factor in the large jump in activity for `Go to your inbox`.
 
 
 ## Key deliverables
