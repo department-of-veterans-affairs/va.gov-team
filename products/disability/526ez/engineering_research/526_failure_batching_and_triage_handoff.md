@@ -6,6 +6,9 @@ A collection of key take aways from the knowledge transfer between Kyle Soskin
 and Sam Stuckey, specificaly relevant to the work of batch retrying historical
 failed 526 submissions, as well as ongoing triage.
 
+## Resources
+- [Kyles document of commonly used code snippits](https://github.com/kylesoskin/vets-api-code-snippets/blob/main/README.md)
+  
 ## Context
 
 ### The Work
