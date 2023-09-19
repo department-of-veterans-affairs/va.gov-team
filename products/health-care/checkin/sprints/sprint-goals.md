@@ -35,6 +35,7 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: Align with BTSSS**
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[FE] Use the Same Facility Identifier that BTSSS Uses to Determine if Veteran has Already Submitted a Travel Claim for a Specific Day and Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65628)
+       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] vets-api BTSSS lib: create an exception class #65813](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65813)
    - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Determine scope and PCI role in researching/implementing past appointments for travel reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65592)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create visual back-end userflow for past appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65593)
@@ -74,7 +75,6 @@ ________________________________________________________________________________
         - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [[Product] Send QA Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64625)
 - **GOAL: Address tech & design debt**    
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - Update dependencies #65691](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65691)
-    - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] vets-api BTSSS lib: create an exception class #65813](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65813)
     - **Sub Goal: Implement Product Guide Feedback**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Guides based on Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65298)
     - **Sub Goal: Align with Design System Recommendations**
