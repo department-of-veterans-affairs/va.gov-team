@@ -425,6 +425,8 @@ Your contact details         {link}Edit
 {email address}
 {phone number}
 
+```
+
 ``` diff
 
 - Call {morning, afternoon, evening}
