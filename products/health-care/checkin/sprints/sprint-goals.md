@@ -86,8 +86,6 @@ ________________________________________________________________________________
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65567)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #1: Update form components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65490)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #4: Update additional info components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65596)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
 
  ---------------- END FUTURE / TENTATIVE ----------------------
 __________________________________________________________________________________________________________________________________________________________
