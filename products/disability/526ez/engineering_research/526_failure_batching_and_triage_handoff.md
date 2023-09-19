@@ -59,7 +59,7 @@ The purpose of this knowledge transfer is to
 ### Why 
 The problems with the current solution are primarily
 - rails production console access.  This is a well known security concnern, not only because of potential bad actors but because of simple mistakes.
-- copy pasting. Introduces overhead for doing the work AND sharing the reusable code.  Introduces the possibility of syntax related bugs.  There is no oversight of the code being run.
+- copy pasting. Introduces overhead for doing the work AND sharing the reusable code.  Introduces the possibility of syntax related bugs.  There is no oversight of the code being run.  Also, ArgoCD (our prefered interface) doesn't like it.
 - lack of transparency and context sharing around input / output.  IF someone starts the process, and another person needs to finish it, then we end up in a situation where the starting dev will probably have to hand off information about the state of the process, e.g. what IDs have been uploaded, error logs, what IDs remain, etc.
 
 
