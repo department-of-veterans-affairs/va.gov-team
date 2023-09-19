@@ -136,7 +136,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 
 |Question|Response|
 |---|---|
-|Number of unique users:| |
+|Number of unique users:| [5,091](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20230912&_u.date01=20230918/) |
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| no  |
 |Types of errors logged:| documented our errors [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65736)  |
