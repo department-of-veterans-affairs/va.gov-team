@@ -14,7 +14,7 @@ Update various product artifacts, as necessary, based on the feature release.
 - [ ] Update the Pre-Check-in Product Guide, including content and screenshots, if necessary
 - [ ] Update the eCheck-in Product Guide, including content and screenshots, if necessary
 - [ ] Update user flow diagrams, if necessary
-- [ ] Send updated screenshots to Danielle Thierry for the Resources & Support (R&S) articles in VA.gov, if necessary
+- [ ] Create a Content ticket with updated screenshots for changes to the Resources & Support (R&S) articles in VA.gov, if necessary
 - [ ] Create a Contact Center review ticket & schedule a review
     - [ ] Put the link to the ticket in the main collab cycle ticket
 
