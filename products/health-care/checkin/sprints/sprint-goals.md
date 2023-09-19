@@ -22,6 +22,7 @@ ________________________________________________________________________________
      - **Sub Goal: Make the Switch to Version 3 of the Design System** 
 
 #### PLANNED RELEASES 
+- **Use the Same Facility Identifier that BTSSS Uses to Determine if Veteran has Already Submitted a Travel Claim for a Specific Day and Facility**
 - **Implement Next-of-Kin Feedback**
 
 #### SPRINT TICKETS
