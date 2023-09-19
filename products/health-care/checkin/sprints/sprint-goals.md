@@ -37,8 +37,6 @@ ________________________________________________________________________________
        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[FE] Use the Same Facility Identifier that BTSSS Uses to Determine if Veteran has Already Submitted a Travel Claim for a Specific Day and Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65628)
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] vets-api BTSSS lib: create an exception class #65813](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65813)
    - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Determine scope and PCI role in researching/implementing past appointments for travel reimbursement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65592)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create visual back-end userflow for past appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65593)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Create Lo-Fi Wireframe Structure for Past Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65594)
             - Ask Mark if we wants to include support for filing receipts in this scope of work ([Slack thread](https://dsva.slack.com/archives/C02GXKL8WM6/p1694794466461999))
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
@@ -53,8 +51,6 @@ ________________________________________________________________________________
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
             - BLOCKED BY MOBILE TEAM
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Evaluate and update wireframe for no upcoming appts scenario](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65286)
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Add artboards to the Design page in unified check in for pre check in phone and grouped warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65709)
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Update content in background alert on pre-check-in confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65869)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Pull out Wireframes into Own Sketch Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65868)
@@ -69,7 +65,10 @@ ________________________________________________________________________________
             - BACKEND BLOCKED BY OTHER TEAMS
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Create upcoming appointments component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62227)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Upcoming Appointments Progress Loading Indicator](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65614)
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Messages when there are no Upcoming Appointments to Display or Retrieval Failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65616)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Evaluate and update wireframe for no upcoming appts scenario](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65286)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Messages when there is a MAP VAOS Retrieval Failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65616)
+        - **EPIC: [Unified Check-in: Priority 4 - New Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61745)**
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Add artboards to the Design page in unified check in for pre check in phone and grouped warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65709)- 
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65290)      
