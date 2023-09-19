@@ -38,7 +38,11 @@ ________________________________________________________________________________
             - Ask Mark if we wants to include support for filing receipts in this scope of work ([Slack thread](https://dsva.slack.com/archives/C02GXKL8WM6/p1694794466461999))
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Implement Next-of-Kin Feedback**
-        - 
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)[[FE] Pre-Check-in: Update Content for Next-of-Kin for In-Person Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65844)
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)[[FE] Pre-Check-in: Update Content for Next-of-Kin for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65845)
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)[[FE] Day-of Check-in: Update Content for Next-of-Kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65846)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65851)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65852)
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
             - BLOCKED BY MOBILE TEAM
