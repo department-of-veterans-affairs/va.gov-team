@@ -30,12 +30,10 @@ ________________________________________________________________________________
     - **Sub Goal: [Gather Evidence for Proving ATO Compliance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
        - What does Ethan need from us next?
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Update Container Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65816)
-       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Update Sequence diagrams for check-in scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65817)
-       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Update sequence diagrams for pre check-in scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65818)
+       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Add Authenticated Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65907)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: Align with BTSSS**
-       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Use the Same Facility Identifier that BTSSS Uses to Determine if Veteran has Already Submitted a Travel Claim for a Specific Day and Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65628)
-       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] vets-api BTSSS lib: create an exception class #65813](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65813)
+       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[FE] Use the Same Facility Identifier that BTSSS Uses to Determine if Veteran has Already Submitted a Travel Claim for a Specific Day and Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65628)
    - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Create Lo-Fi Wireframe Structure for Past Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65594)
             - Ask Mark if we wants to include support for filing receipts in this scope of work ([Slack thread](https://dsva.slack.com/archives/C02GXKL8WM6/p1694794466461999))
@@ -55,7 +53,7 @@ ________________________________________________________________________________
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Update content in background alert on pre-check-in confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65869)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Pull out Wireframes into Own Sketch Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65868)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Create Feature Flag 'check-in-experience-45-minute-check-in-reminder'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65836)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Set eCheckInStarted Status when Reminder Link Clicked & Veteran has Authenticated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65834)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Update CHIP to Set eCheckInStarted Status when Reminder Link Clicked & Veteran has Authenticated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65910)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Pre-Check-in: Tell Veteran that a Check-in Reminder will be Texted to Them 45-minutes before their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65832)
                 - Blocked by https://github.com/department-of-veterans-affairs/va.gov-team/issues/65868
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65840)
