@@ -24,17 +24,18 @@
 ## Agenda
 * **Q3 Projects in Progress**
   * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
-  * Yellow projects 
+  * Yellow projects - Check-In
+   
 
  
-* **Standing question for the POs**
+* **Standing question for the POs (Adam)**
   * Any new work we should be on the lookout for?
   * Any priority shifts or other updates? 
 
 * **Sprint Planning (Adam)**
    * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
 
-* **Monthly Mobile App Review Summary**
+* **Monthly Mobile App Review Summary (Liz)**
 
 ## Q3 Projects Planned Not Yet Started
 
