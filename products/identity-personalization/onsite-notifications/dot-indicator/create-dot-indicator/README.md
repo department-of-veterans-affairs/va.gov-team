@@ -1,6 +1,6 @@
 # Project outline: Create dot indicator
 
-**Last Updated: September 12, 2023  -- updating week 1 launch details**
+**Last Updated: September 19, 2023  -- updating week 2 launch stats**
 
 ### Communications
 
@@ -72,8 +72,8 @@ The dot indicator is a notification style that aims to call a user's attention t
 
 |KPI/metric|Pre-launch [7/19 - 7/25]|Pre-launch [7/26 - 8/1]| Pre-launch [8/2 - 8/8]|Pre-launch [8/9 - 8/15]|Pre-launch [8/16 - 8/22]|Pre-launch [8/29 - 9/4]|1 week post-launch to 100% [9/5 - 9/11]| 2nd week post-launch to 100% [9/12 - 9/18]|
 |----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-|Number of clicks into "secure messaging" link on My VA|27,364|24,259|26,748|29,918|26,119|25,080|**39,582**||
-|% change in clicks from previous week|-|-11%|+10%|+12%|-13%|-4%|**+58%**||
+|Number of clicks into "secure messaging" link on My VA|27,364|24,259|26,748|29,918|26,119|25,080|**39,582**|**36,883**|
+|% change in clicks from previous week|-|-11%|+10%|+12%|-13%|-4%|**+58%**|**+47** (over baseline 8/29 - 9/4)|
 
 #### Further explanation on significance of week 1 (9/5/23 - 9/11/23) metrics
 
@@ -94,6 +94,25 @@ Here are some other notable increases from baseline (8/29 - 9/4) to week 1 metri
 - **Clicks to view post-9/11 GI bill benefits**: 4% increase
 
 So a lot of other links in the top 10 saw an increase due to activity, but that could only account for maybe a quarter of the activity we saw on the inbox link. Nothing else saw even close to a 58% increase in clicks, which means **the dot indicator is likely effective**.
+
+#### Further explanation on significance of week 2 (9/12/23 - 9/18/23) metrics
+
+Like the first week of the experiment, we saw an overall increase in traffic to My VA from the last baseline week (8/29/23 -9/4/23), but it is much smaller than the increase we saw in week 1 of the experiment. 
+
+- **Total interactions on My VA August 29 - September 4**: 1,003,927
+- **Total interactions on My VA September 12 - September 18**: 1,007,783
+
+This is a less than 1% increase in interactions, so this can not account for the jump in interactions with the "Go to your inbox link."
+
+Here are some other changes from baseline (8/29 - 9/4) to week 1 metrics (9/5 - 9/11). It's important to note the following had no notable design changes to result in these numbers:
+
+- **Clicks into individual claims**: 1% decrease
+- **Clicks into all claims**: 5% increase
+- **Clicks to view prescriptions**: 15% increase
+- **Clicks to schedule and manage appointments**: 21% increase
+
+So we can see some of the other health-related tools saw a big bump, but nothing even close to the 47% increase we saw for view your messages. This implies that it's still likely -- as we suspected in week 1 -- that the dot indicator is the contributing factor in the large jump in activity for "Go to your inbox".
+
 
 ## Key deliverables
 
