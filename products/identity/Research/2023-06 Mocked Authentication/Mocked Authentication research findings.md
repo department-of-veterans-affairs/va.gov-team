@@ -19,7 +19,7 @@ Jump to:
 
 ## Research Goals
 
-Mocked auth allows devs to iterate and work on their code in a more local way without actually having to sign in to an authorized account, which can go down or cause issues. This simplifies the development for devs who aren't in the Identity realm, and this allows them to work even without an internet connection since there are no "external calls." This also makes it more consistent.
+Mocked auth allows devs to iterate and work on their code in a more local way without actually having to sign in to an authorized account.. This simplifies the development for devs who aren't in the Identity realm, and this allows them to work even without an internet connection since there are no "external calls." This also makes it more consistent.
 
 With this research, we wanted to: 
 
