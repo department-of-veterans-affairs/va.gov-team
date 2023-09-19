@@ -140,8 +140,11 @@ Ask Perigean to recruit **8 Veterans and 3 family members** of Veterans who meet
 ### Prepare
 Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I would also like to discuss the relative priorities of recruitment criteria (e.g., it’s more important to recruit at least 4 people who are 55 years or older than it is to recruit 7 people who will join from their smartphone), and how the criteria are prioritized when recruiting replacements for participants who cancel in advance. 
 
-Amanda, Wes, and I are available for a kickoff call during any of these times: 
-- **Fri Sept 22** TIMES TBD ET
+Amanda and Cindy are available for a kickoff call during any of these times (please also invite Wes in case he can make it): 
+- **Thu Sept 21** 12 pm - 3 pm ET
+- **Fri Sept 22**  12 pm - 5 pm ET
+
+Our email addresses are cindy.merrill@adhocteam.us, amanda.klausmeier@va.gov, and wesley.rowe@agile6.com
 
 **Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
@@ -181,5 +184,5 @@ Please list the people who will be serving in each role.
 - Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Wes Rowe, Amanda Klausmeier, Danielle Thierry, Jordan Wood, Randi Mays, Dave Conlon.) 
 
 ## Approvals
-- Dave Conlon (PO) on TBD, 2023
+- Dave Conlon (PO) on Sept 19, 2023
 - VA Research Ops on TBD, 2023
