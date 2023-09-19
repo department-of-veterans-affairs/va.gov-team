@@ -53,7 +53,14 @@ The purpose of this knowledge transfer is to
 
 ## Suggested Improvements
 
-- automate this.  We should be able to put this batching / rerunning script in the apps `/script` directory, put the failure ids in a document in S3, and run it all with a single command instead of all this copy pasting.
+### Why 
+The problems with the current solution are primarily
+- rails production console access.  This is a well known security concnern, not only because of potential bad actors but because of simple mistakes.
+- copy pasting. Introduces overhead for doing the work AND sharing the reusable code.  Introduces the possibility of syntax related bugs.  There is no oversight of the code being run.
+- lack of transparency and context sharing around input / output.  IF someone starts the process, and another person needs to finish it, then we end up in a situation where the starting dev will probably have to hand off information about the state of the process, e.g. what IDs have been uploaded, error logs, what IDs remain, etc.
+
+
+
+
 - [This slack thread breaks down my proposal to itterate.](https://dsva.slack.com/archives/C053U7BUT27/p1694192774356649)
-- TODO: design doc for the above implementation
 
