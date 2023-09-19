@@ -5,7 +5,7 @@ The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard)
 
-[Link to card in research repo TBD]()
+[Link to card in research repo]()
 
 ### OCTO Objectives 
 
@@ -85,11 +85,11 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/conversation-guide.md)
-- [Link to prototype TBD]()
+- [Link to prototype](https://www.surveymonkey.com/r/KKVHSFV)
 	
 ## Recruitment
 
-Ask Perigean to recruit **8 Veterans and 3 family members** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket TBD](). 
+Ask Perigean to recruit **8 Veterans and 3 family members** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/387). 
 
 ### Required criteria 
 - NONE have ever applied for VA benefits under the PACT Act
