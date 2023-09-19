@@ -1,5 +1,5 @@
 
-# Next of Kin Product Outline 
+# Emergency Contact Product Outline 
 
 ## Table of Contents 
 
