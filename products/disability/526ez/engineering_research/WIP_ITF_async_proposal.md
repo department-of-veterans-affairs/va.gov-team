@@ -10,6 +10,9 @@ form 526 flow.
 - `3PI` - "third party interaction" or any action our system takes against an external system, e.g. lighthouse
 - `Non-working state` - any condition which prevents normal interactivity with the described system, be it schechulded maitenance or catastrophic failure
 
+## Resources
+- [Slack thread about the continued outages and proposed fix](https://dsva.slack.com/archives/C04KW0B46N5/p1695064685597689?thread_ts=1694440762.541849&cid=C04KW0B46N5)
+
 ## Notes
 ### Acceptance Criteria
 
