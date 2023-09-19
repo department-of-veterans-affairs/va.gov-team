@@ -48,7 +48,7 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 - I want to give people agency to show up and share their experience, to be fully present in difficult conversations, and to be a part of a community who is working to create spaces for new ways of working.
 
 **Lydia Hooper**, Designer/Researcher, Benefits Disability Experience 
-- lydia.hooper@agile6.com, [LinkedIn](https://www.linkedin.com/in/lydiahooper)
+- lydiahooper@gmail.com, [LinkedIn](https://www.linkedin.com/in/lydiahooper)
 - I want to be part of mutual care and mutual growth, to contribute to cultivating spaces that reduce harm and foster repair, and to center and uplift the voices and experiences of folks who are most impacted by design outcomes.
 
 **Brittany Iannuzzi**, Researcher, VES Eligibility & Enrollment
