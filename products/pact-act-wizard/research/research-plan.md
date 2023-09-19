@@ -5,7 +5,7 @@ The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard)
 
-[Link to card in research repo]()
+[Link to card in research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/385)
 
 ### OCTO Objectives 
 
