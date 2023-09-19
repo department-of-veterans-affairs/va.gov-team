@@ -1,11 +1,13 @@
 
-# Emergency Contact Product Outline 
+# Emergency Contact and Next of Kin Product Outline 
 
 ## Table of Contents 
 
 ## POCs 
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+- **Slack channel**:
+- [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 - [This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+
 
 
 ## Overview
