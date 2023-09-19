@@ -329,7 +329,7 @@ Your phone number (*Required)
 
 ```
 
-
+```
 Your email address (*Required)
 {Input field)
 ```
