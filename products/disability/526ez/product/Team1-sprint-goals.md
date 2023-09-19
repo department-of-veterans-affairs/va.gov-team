@@ -1,5 +1,63 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 16
+Period - 10/11/2023 - 10/24/2023
+### Sprint goals 
+- **Expedited**
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+        - ITF
+            - [ ] Continue staggered release - timeboxed tickets to monitor the release and fix issues as they occur
+        - Rated Disabilities
+            - [ ] Continue staggered release - timeboxed tickets to monitor the release and fix issues as they occur
+        - Submit
+          - Dashboard for migration release monitoring
+              - [ ] Build DD Dashboard widgets for monitoring sidekiq jobs
+         - **If unblocked**
+            - [ ] Submit error fixes
+        - Benefits Claims Service
+         - [ ] Canary launch?
+         - [ ] Start staggered release at .1%
+       - PPIU - Direct Debit 
+            - [ ] Release plan ticket? 
+- **Features**
+   - 526ez current with paper form
+      - [ ] Toxic Exposure screens - Design updates based on UX research and recommendations
+      - [ ] Toxic Exposure screens - Discovery for work breakdown - Frontend engineering
+      - [ ] Toxic Exposure screens - Page migration - Frontend engineering
+
+- **Stretch Goals**
+- [ ] Design for Wireframes for new military service questions
+- [ ] Intro pages changes
+
+## Sprint 15
+Period - 09/27/2023 - 10/10/2023
+### Sprint goals 
+- **Expedited**
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+        - ITF
+            - [ ] Continue staggered release - timeboxed tickets to monitor the release and fix issues as they occur
+        - Rated Disabilities
+            - [ ] Continue staggered release - timeboxed tickets to monitor the release and fix issues as they occur
+        - Submit
+          - Dashboard for migration release monitoring
+              - [ ] Build DD Dashboard widgets for monitoring controller activities
+          - Transform service
+               - [ ] Create submit526 method to be added to tbe BenefitsClaims service to submit the 526 to Lighthouse
+               - [ ] Benefits Claims Release planning
+       - PPIU - Direct Debit 
+            - [ ] Release plan ticket? 
+- **Features**
+   - 526ez current with paper form
+      - [ ] Toxic Exposure screens - Design updates based on UX research and recommendations
+      - [ ] Toxic Exposure screens - Discovery for work breakdown - Frontend engineering
+      - [ ] Toxic Exposure screens - Page migration - Frontend engineering
+
+- **Stretch Goals**
+- [ ] Design for Wireframes for new military service questions
+- [ ] Intro pages changes
+
 ## Sprint 14
 Period - 09/13/2023 - 9/26/2023
 ### Sprint goals 
@@ -12,9 +70,12 @@ Period - 09/13/2023 - 9/26/2023
             - [ ] Start canary launch
             - [ ] Start staggered release for .1% requests - timeboxed tickets to monitor the release and fix issues as they occur
         - Submit 
+            - [ ] Monitoring for migration release
+               - [ ] Identify controller activities and sidekiq jobs for monitoring
+        - Benefits Claims Service 
             - [ ] Transform service
-               - [ ] Create submit526 method to be added to tbe BenefitsClaims service to submit the 526 to Lighthouse
-               - [ ] Form526 Backup Submission Process Discovery/Migration
+               - [ ] Implement call to BenefitsClaims service to submit the 526 to Lighthouse
+               - [ ] Release plan 
        - PPIU - Direct Debit 
             - [ ] Start migration of PPIU endpoint 
 - **Features**
@@ -22,9 +83,7 @@ Period - 09/13/2023 - 9/26/2023
       - [ ] Toxic Exposure screens - Research Synthesis and Report
       - [ ] Toxic Exposure screens - Feature toggle and Intro pages- Frontend engineering
       - [ ] Toxic Exposure screens - Page migration - Frontend engineering
-      - [ ] Design for Wireframes for new military service questions
 - **Other**
- - Pending Design Update from Collab Cycle Review
  - Sync sort order of Conditions and Disabilities across different pages in 526
  - 
 
