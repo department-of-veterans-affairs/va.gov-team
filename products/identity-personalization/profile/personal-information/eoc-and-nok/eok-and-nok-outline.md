@@ -12,7 +12,7 @@
 
 ## Overview
 
-- [EPIC \| Profile \| Next of Kin and Emergency Contacts #61897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61897)
+
 
 ### What to know about this feature 
 
