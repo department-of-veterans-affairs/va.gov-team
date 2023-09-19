@@ -7,7 +7,10 @@
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 - [This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
+
 ## Overview
+
+- [EPIC \| Profile \| Next of Kin and Emergency Contacts #61897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61897)
 
 ### What to know about this feature 
 
