@@ -324,7 +324,8 @@ Your phone number (*Required)
 - {Checkbox} Afternoon (noon - 4:00 p.m.)
 - {Checkbox} Evening (4:00 p.m. - 8:00 p.m.)
 
-@@@ GH50990 @@@
+
+@@ GH50990 @@
 
 ```
 
@@ -428,7 +429,7 @@ Your contact details         {link}Edit
 
 - Call {morning, afternoon, evening}
 
-@@@ GH50990 @@@
+@@ GH50990 @@
 
 ```
 
