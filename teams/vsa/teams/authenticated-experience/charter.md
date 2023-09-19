@@ -20,7 +20,7 @@ The authenticated experience team wants to work towards a concierge-like VA expe
 To move us towards this vision, our current mission is to create a logged in experience on VA.gov that:
 
 - Elevates veteran action items and time-sensitive tasks.
-- Serves up status updates in a clear and scannable manner.
+- Serves up status updates in a clear and scannable (what does "scannable" mean? and how do we measure it?) manner.
 - Differentiates itself from the logged out experience.
 - Elevates veteran data so that it tells a story.
 - Consolidates health & benefit data so that it doesn't feel silo'd.
