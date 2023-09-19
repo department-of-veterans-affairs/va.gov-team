@@ -25,8 +25,24 @@ form 526 flow.
 
 **TL;DR**
 - ITF creation is non-blocking
-- A user enter the 526 flow should never see this again
+- A user enter the 526 flow should never see "We’re sorry. Something went wrong on our end."
 
-  
+### Axioms
+- We are building this to interact with lighthouse
+- We want the queuing to be on our end (not LH)
+- We need 100% ITF retention and retriablity
+- Must not affect functionality of ITF outside of 526
 
-##
+### Questions
+
+## Proposal
+
+- simplify front end 
+  - no more Exists? then Create?.  update to be a Find or Create by flow
+- Wrap existing find and create actions (factory) in 'find or create' service that we can offload to sidekiq
+- persist a record of the ITF creation request to track the status of the ITF
+
+
+
+
+
