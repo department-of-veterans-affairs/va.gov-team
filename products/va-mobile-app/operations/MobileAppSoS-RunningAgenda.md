@@ -24,7 +24,7 @@
 ## Agenda
 * **Q3 Projects in Progress**
   * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
-  * Yellow projects - Check-In
+  * Yellow projects - Check-In, EVSS
    
 
  
