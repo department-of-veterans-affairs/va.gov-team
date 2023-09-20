@@ -35,8 +35,18 @@ form 526 flow.
 - We want the queuing to be on our end (not LH)
 - We need 100% ITF retention and retriablity
 - Must not affect functionality of ITF outside of 526
+- Sidekiq is not stable enough to be a persistant data source relative to what ITFs NEED to be created
+- We cannot lie to the user (we can no longer say ITF was created)
 
 ### WIP
+
+#### User Facing Change
+
+For the front end we need to create a new state that shows the user that an ITF is **going to be created**.  We can't use the existing success state, as this implies we have already created the ITF, wich could be a legal can of worms if for some reason we fail.  Given this new state, we will almost certainly:
+- want to notify the user when the ITF is successfully created
+- need to go through the collab cycle
+
+Here is a summary of the change
 
 - old behavior
   - if an ITF exists, show info about it
@@ -52,8 +62,11 @@ form 526 flow.
 - [Backend spike PR](https://github.com/department-of-veterans-affairs/vets-api/pull/13887)
 - [Frontend spike PR](https://github.com/department-of-veterans-affairs/vets-website/pull/25777)
 
-- the front end will send a call to check for an ITF.
-  - either way, we send off a create ITF request, however we show an error state.
+#### Backend Change
+- Track the transaction.  if Sidekiq goes down, we need to know what Users / Submissions are missing an ITF. Otherwise we risk technical problems and (probably legal problems).
+    - create a model?
+    - handle with logging?
+- Square this new logic (ITF may not exist) with our existing code.  **This is a potential worm hole!!!**  This requires, theoretically, testing every edge case of every part of the app that uses ITF.
  
 ### TODO
 - this is new UX, and has potential legal ramifications.  We are no longer saying 'yes we created an ITF', we are saying 'we are going to do our best to create an ITF for you'
