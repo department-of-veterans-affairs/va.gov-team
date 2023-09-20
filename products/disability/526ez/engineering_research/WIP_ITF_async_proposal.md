@@ -38,6 +38,9 @@ form 526 flow.
 
 ### WIP
 
+- [Backend spike PR](https://github.com/department-of-veterans-affairs/vets-api/pull/13887)
+- [Frontend spike PR](https://github.com/department-of-veterans-affairs/vets-website/pull/25777)
+
 - the front end will send a call to check for an ITF.
   - either way, we send off a create ITF request, however we show an error state.
 
