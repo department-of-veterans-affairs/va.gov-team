@@ -1,4 +1,4 @@
-# 10-10EZR Errors
+# 10-10EZR Error Messages
 
 ## Source of Truth documents 
 [10-10EZR Error Messages](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694028526633/a5d8eba28e3acaba46de92e99fb8013fd1a56d3d?sender=uadf1ed7fe7c76f0914967329)
