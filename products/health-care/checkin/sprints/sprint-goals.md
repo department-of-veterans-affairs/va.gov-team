@@ -46,6 +46,7 @@ ________________________________________________________________________________
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
             - BLOCKED BY MOBILE TEAM
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] vets-api Chip Library Error Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64492)
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Update content in background alert on pre-check-in confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65869)
