@@ -1,6 +1,6 @@
 # 527EZ Application for Pension Benefits
 
-[Staging Link](https://staging.va.gov/burials-and-memorials/application/530/introduction)
+[Staging Link]([https://staging.va.gov/burials-and-memorials/application/530/introduction](https://staging.va.gov/pension/application/527EZ/introduction))
 
 ## All Login Information
 | Email                         | Password | 
