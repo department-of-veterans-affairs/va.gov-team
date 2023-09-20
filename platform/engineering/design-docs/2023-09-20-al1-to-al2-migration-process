@@ -1,44 +1,24 @@
 ---- 
-
-
 # We've moved our docs!
 
 ### This document is no longer maintained.
 
 ### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
-
-
 ----
-# Design Doc Template
 
-_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._  
-**Author(s):** Albert J. Wong  
-**Last Updated:** January 24, 2020  
-**Status:** **Draft** | In Review | Approved  
-**Approvers:** _Person A_ \[ \], _Person B_ \[ \], ...  
-_Replace the previous line with 2-4 people, all of whom must explicitly approve your design proposal. An important part of the design doc is building consensus with key stakeholders, technical implementers who you'll work with, and technical contacts for other systems that this proposal affects or is affected by._
-
-_For the rest of the document, replace all the italicized text. The document is designed to guide your thinking through a general design process. Not all sections are always applicable. If a section is not applicable, just say so._
-
-_You should complete the Overview section first. If your design is elaborate, you may want to pause after this section to wait for review comments before investing time into planning details that may get changed in the review._
-
-_Remember, a design document introduces a system or component to a fellow engineer. It should be written before implementing the system to aid in planning and to facilitate discussions about design decisions. After implementation, the design doc will serve as a reference for users, maintainers, and anyone else interested in the system (and for that reason it is still useful to write design docs for systems that have already been written)._
-
-_A design document is not a press release, a vision statement, a research report, or a business plan._
-
-_The intended audience for this document is software engineers, but it should make sense to anyone familiar with software development._
-
+# AL1 to AL2 Migration Process
+**Author(s):** Peter Hill, Ben Allen
+**Last Updated:** September 20, 2023
+**Status:** **Draft** 
+**Approvers:** Clint Little, Joe Tice, Eric Boehs 
 
 ## Overview
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Objective
-_In the objective section you should include a succinct 1-3 sentence statement of the objective of your project. It is also useful to state non-goals. Bulleted lists are great. Finally, state who the intended audience for the document is._
+In order to address the migration of existing Platform applications from AL1-based AMIs to AL2-based AMIs we need to establish a pattern. This design document describes that pattern.
 
 ### Background
-_The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
-
-_Do **NOT** describe the solution here. That goes in High Level Design._
+Given that team ownership of the Platform applications that rely on AL1 / AL2 based AMIs is varied, we expect that there may not be a consistent approach to managing the underlying infrastructure of these applications. Going forward, we want to establish a strong pattern for addressing maintenance and upgrades to the underlying infrastructure of all Platform applications. 
 
 ### High Level Design
 _A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
