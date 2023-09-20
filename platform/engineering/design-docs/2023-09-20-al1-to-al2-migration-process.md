@@ -31,7 +31,8 @@ The order of operations for migrating an AL1-based application is as follows --
 7. Cut over to the AL2-based deployments
 8. Decommission AL1
 
-_A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
+Link to Diagram
+https://lucid.app/lucidchart/e8eaa8d9-b39b-406e-b4c7-500f458b3ad3/edit?viewport_loc=-851%2C-594%2C2775%2C2779%2C0_0&invitationId=inv_8c416828-b5fd-4d7d-970c-ddb875f1cf28
 
 _Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
 
