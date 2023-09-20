@@ -1,7 +1,14 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
 
-## 9/13/23
+## 9/21/23
 Attendees:
+
+Agenda
+- Moving forward on small research topics from Shannon (What's the plan and can we collaborate)
+- Sprint Updates Team 1 & 2
+
+## 9/13/23
+Attendees: Kate, Julie, Nichole, Lydia, Evelyn, and Rakshinda
 
 Agenda
 - Retrospective on toxic exposure research collaboration 
