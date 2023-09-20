@@ -816,13 +816,13 @@ Account has no issues:
 
 User did not select an issue:
 
-    Header: You’ll need to add, and select, an issue
-    Body: You must select at least 1 issue before you can continue filling out your request. 
+    Header: You’ll need to select an issue
+    Body: You must select at least 1 issue before you can continue filling out your request.
 
 User tries to add 101 issues:
 
      Header: You've reached the maximum number of allowed selected issues
-     Body: You are limited to 100 selected issues for each Notice of Disagreement request. If you would like to select more than 100,  submit this request and create a new request for the remaining issues.
+     Body: You're limited to 100 selected issues for each Notice of Disagreement request. If you'd like to select more than 100,  submit this request. Then create a new request for the remaining issues.
 
 PDF upload errors:
 
@@ -848,7 +848,7 @@ User tries to submit with missing/invalid information:
 
 ### Reason for extension
 
-    `You must provide a reason if you are requesting an extension.`
+    You must provide a reason if you're requesting an extension
 
 ### Contestable issues
 
