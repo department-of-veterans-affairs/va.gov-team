@@ -75,7 +75,7 @@ ________________________________________________________________________________
     - **Sub Goal: Implement Product Guide Feedback**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Guides based on Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65298)
     - **Sub Goal: Align with Design System Recommendations**
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change all wireframes to 320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/https://github.com/department-of-veterans-affairs/va.gov-team/issues/new)
+        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Change all wireframes to 320](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65448)
     - **Sub Goal: Make the Switch to Version 3 of the Design System** 
         - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] DS v3 #4: Update additional info components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65566)
