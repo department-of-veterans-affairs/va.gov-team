@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 9/20/2023 - 10/3/2023  ---------------- FUTURE / TENTATIVE ----------------------
+## 9/20/2023 - 10/3/2023  
 #### SPRINT GOALS
 - **GOAL: Comply with ATO**
     - **Sub Goal: Update technical diagrams**
@@ -85,7 +85,6 @@ ________________________________________________________________________________
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #1: Update form components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65490)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
 
- ---------------- END FUTURE / TENTATIVE ----------------------
 __________________________________________________________________________________________________________________________________________________________
 ## 9/6/2023 - 9/19/2023 
 #### SPRINT GOALS
