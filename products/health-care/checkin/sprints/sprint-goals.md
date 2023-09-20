@@ -71,7 +71,6 @@ ________________________________________________________________________________
     - [2023 Q4 Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62844)
         - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [[Product] Send QA Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64625)
 - **GOAL: Address tech & design debt**    
-    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[CHIP] - Update dependencies #65691](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65691)
     - **Sub Goal: Implement Product Guide Feedback**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Guides based on Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65298)
     - **Sub Goal: Align with Design System Recommendations**
