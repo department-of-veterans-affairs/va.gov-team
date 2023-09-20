@@ -18,10 +18,18 @@
 In order to address the migration of existing Platform applications from AL1-based AMIs to AL2-based AMIs we need to establish a pattern. This design document describes that pattern.
 
 ### Background
-Given that team ownership of the Platform applications that rely on AL1 / AL2 based AMIs is varied, we expect that there may not be a consistent approach to managing the underlying infrastructure of these applications. Going forward, we want to establish a strong pattern for addressing maintenance and upgrades to the underlying infrastructure of all Platform applications. 
+Given that team ownership of the Platform applications that rely on AL1 / AL2 based AMIs is varied, we expect that there may not be a consistent approach to managing the underlying infrastructure of these applications. Going forward, we want to establish a strong pattern for addressing maintenance and upgrades to the underlying infrastructure of all Platform applications. AL2 will not be the end of AMI upgrades. We expect to have to migrate to AL2023 in the near future, and this process should be used again.
 
 ### High Level Design
-_A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
+The order of operations for migrating an AL1-based application is as follows --
+1. Create a dedicated and standalone repository within the DSVA GH org and named for its categorical function the application (ex. PSO-SOCKS-PROXY)
+2. Create a new AL2-based build using Terraform in the standalone repository
+3. Use the existing deploy mechanisms to deploy the new AL2 build
+4. Operate the AL1 and AL2 based builds side by side for some time
+5. Test the application's AL2-based deployment
+6. Identify bugs and iterate
+7. Cut over to the AL2-based deployments
+8. Decommission AL1
 
 _A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
 
