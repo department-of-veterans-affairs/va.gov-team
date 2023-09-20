@@ -1,15 +1,15 @@
 # https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/
 
 ## URL
-- [ ] URL follows VA.gov URL standards
+- [x] URL follows VA.gov URL standards
 - [x] URL correctly represents the placement of the page in the IA of the site
-- [ ] URL includes primary keyword and aligns with the H1
+- [x] URL includes primary keyword and aligns with the H1
 
 ## Breadcrumb
 
 - [x] The page displays a breadcrumb
 - [x] The breadcrumb represents the same hierarchy as the URL
-- [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly **Note:** Breadcrumb and H1 don't match exactly - issue added to backlog notes          
+- [x] The breadcrumb segments match the H1 of the pages in the navigation path exactly **Note:** Breadcrumb and H1 don't match exactly - issue added to backlog notes          
 - [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags **Note:** Not applicable right now, but will be soon
 
 ## Secondary navigation (where applicable)
@@ -34,7 +34,7 @@
 - [x] Remove "What kind of disability benefits can I get?" section (if needed)
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 
+- Before edits: 9.3
 - After edits: 
 
 - [ ] Backlog ticket for further review created if needed
