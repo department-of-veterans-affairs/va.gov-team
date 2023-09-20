@@ -28,7 +28,7 @@ form 526 flow.
 
 **TL;DR**
 - ITF creation is non-blocking
-- A user enter the 526 flow should never see "We’re sorry. Something went wrong on our end."
+- A user enter the 526 flow should (almost) never see "We’re sorry. Something went wrong on our end."
 
 ### Axioms
 - We are building this to interact with lighthouse
