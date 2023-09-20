@@ -102,7 +102,7 @@ We will be implementing this initiative using the following Prioritys:
 #### Priority 5: View action statuses for upcoming appointments (TENTATIVE)
 - Ability to see the action status for each upcoming appointment (both on the details page & the appointments page) (this includes if you have already completed the action or when you can do it)
 
-#### Priority 6: Ability to complete a task not associated with the appointment for the link clicked (TENTATIVE)
+#### Priority 6: Ability to complete a task from the Appointments List (TENTATIVE)
 - Ability to complete a task for an appointment NOT associated with the link clicked
 	- NOTE: we will need to ensure that status's are set properly so that the Veteran does not receive more pre-check-in reminders & VSECS is updated as well
 -  Update completion page for pre-check-in (phone & in-person)
