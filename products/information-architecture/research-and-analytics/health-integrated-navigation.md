@@ -9,8 +9,7 @@ As we enter the "try me" phase and beyond, FAQ content within the tools themselv
 
 Secondary navigation that will support these tools well, and allow them to be seamlessly integrated, will push beyond the limits of existing secondary navigation designs on VA.gov. The current designs and the problems they pose are articulated below.
 
-## Current secondary navigation designs
-### Desktop:
+## Desktop - current secondary navigation designs
 #### General:
 <img width="1147" alt="Screenshot 2023-09-20 at 10 49 46 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/a7970d62-88d2-4094-b6f1-03e4b182e97d">
 
@@ -18,7 +17,7 @@ Secondary navigation that will support these tools well, and allow them to be se
 <img width="1153" alt="Screenshot 2023-09-20 at 10 38 19 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/97981bbe-2433-4f52-9f64-16662133ca10">
 
 
-### Mobile: 
+## Mobile - current secondary navigation designs
 #### General:
 <img width="1115" alt="Screenshot 2023-09-20 at 10 04 04 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/777c6258-3b56-4c28-95bc-d5cbe89578e8">
 
