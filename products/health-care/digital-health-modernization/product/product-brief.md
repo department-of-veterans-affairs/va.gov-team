@@ -49,7 +49,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 **Federal employees** 
 - Portfolio: Lauren Alexanderson
 - Product - Cartography Team: Patrick Bateman
-- Product - Secure Messaing: Janie Carnock
+- Product - Secure Messaging: Janie Tankard Carnock
 - Product - Medical Records, Cerner Integration: Marci McGuire
 - Design: Coulton Bunney
 - Design: Ryan Thurlwell
