@@ -296,4 +296,4 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## Approvals
 - Dave Conlon (PO) on Sept 19, 2023
-- TBD (VA Research Ops) on DATE TBD
+- Shane Strassberg (VA Research Ops) on Sept 20, 2023
