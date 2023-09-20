@@ -91,7 +91,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 
 Ask Perigean to recruit **8 Veterans and 3 family members** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/387). 
 
-### Required criteria 
+### Required criteria (in decreasing order of priority)
 - NONE have ever applied for VA benefits under the PACT Act
 - At least 5 whose service years include *1989 or earlier*
 - At least 3 whose service years include *1990 or later*
