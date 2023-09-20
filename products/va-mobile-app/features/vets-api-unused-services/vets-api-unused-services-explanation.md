@@ -110,7 +110,7 @@ List of services with easy, med, hard, x-hard ratings for integration
   Retrieves information on a veteran's rated disabilities.
   _easy_
 
-**Military Information Services:**
+**Military Information Services (EMIS is going away):**
 
 - **Military Information Service V1:**
   Retrieves various military-related data, such as deployment and service information.
@@ -198,7 +198,7 @@ List of services with easy, med, hard, x-hard ratings for integration
   Allows veterans to reorder medical supplies like hearing aid batteries.
   _x-hard_
 
-- **Preneeds Service:**
+- **Preneeds Burial Service:**
   Manages military cemetery information and pre-need burial applications.
   _med_
 
@@ -213,3 +213,10 @@ List of services with easy, med, hard, x-hard ratings for integration
 - **DHP Fitbit Pilot:**
   Integrates with Fitbit API for digital health tracking.
   _hard_
+
+**BE Recommendation**
+1. Labs and Tests - Medical Records Client
+2. Miscellaneous Services - Preneeds Burial Service
+3. Debts Services - Any/All
+4. Forms / Documents Services - eFolder
+5. Awards/Dependents Services - Any/All
