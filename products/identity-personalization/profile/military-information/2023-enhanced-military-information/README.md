@@ -77,6 +77,8 @@ While [researching military information in early 2023, our findings](https://git
 
 No, we can not give veterans access to ILER or integrate it into the profile. This is because ILER does not have an API.
 
+[ this needs to be updated, there's an API to generate a PDF of the ILER data, but the ILER record itself is not currently in a database that is editable, this has to do with ownership of ILER, ie. ILER is owned by DoD ]
+
 ### What can we do instead?
 
 VA leadership -- which includes Trisha Dang and Melissa Rebstock, among others -- are working together to figure out how we can meet the letter of the law on the legislation without literally integrating ILER into VA.gov, which is not possible. They have determined that the following meets requirements:
