@@ -36,9 +36,11 @@ form 526 flow.
 - We need 100% ITF retention and retriablity
 - Must not affect functionality of ITF outside of 526
 
-### Questions
+### WIP
 
-## Proposal
+- the front end will send a call to check for an ITF.
+  - either way, we send off a create ITF request, however we show an error state.
+
 
 - simplify front end 
   - no more Exists? then Create?.  update to be a Find or Create by flow
