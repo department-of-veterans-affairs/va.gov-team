@@ -64,6 +64,8 @@ An artifact that corresponds to each standard in the [QA Standards](https://depo
 - [ ] Privacy, security, infrastructure readiness review completed
 - [ ] Reviewed the changes with the Contact Center team
 - [ ] Product Guide updated and shared with Contact Center team
+- [ ] Form Flow update requested for addition/removal of new pages, changes in the flow or sigifanct page chagnes.
+- [ ] Anaytics funnel for Completion Rate and Exit Rate requested along with page tracker updated if new Urls are added or removed or if order of flow is impacted
 ---
 ## How to configure this issue
 - [ ] **Attached to a Milestone** (when will this be completed?)
