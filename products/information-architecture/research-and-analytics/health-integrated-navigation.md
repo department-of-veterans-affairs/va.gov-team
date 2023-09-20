@@ -2,17 +2,30 @@
 
 ## Overview:
 
-When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and Medical Records) reach Phase 1, they will be fully integrated into the VA.gov experience. This means they will need to navigate users to to and from the tools to the health portal landing page. As we remove FAQs from the tools themselves and redistribute that content to pages in the Resources & Support section on VA.gov, tool-level landing pages will also be eliminated, requiring some navigation restructuring that needs to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
+When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and Medical Records) reach Phase 1, they will be fully integrated into the VA.gov experience. At that point, we need to design navigation that helps users navigate between the tools and the MHV on VA.gov landing page, so that they experience it as a seamless portal. 
 
-Secondary navigation that will support these tools well, and allow them to be seamlessly integrated will push beyond the limits of existing navigation components on VA.gov. The problems (and needs) posed are articulated for various modalities as follows: 
+**Obstacles:**
+As we enter the "try me" phase and beyond, FAQ content within the tools themselves can be migrated to pages in the Resources & Support section on VA.gov, where most FAQ-type content lives across VA.gov. Without that content, most tool-level landing pages will be bare & less helpful, so they will be eliminated. This will require some navigation restructuring within the tools. Those changes need to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
 
-## Current navigation components
+Secondary navigation that will support these tools well, and allow them to be seamlessly integrated, will push beyond the limits of existing secondary navigation designs on VA.gov. The current designs and the problems they pose are articulated below.
+
+## Current secondary navigation designs
 ### Desktop:
+#### General:
+<img width="1147" alt="Screenshot 2023-09-20 at 10 49 46 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/a7970d62-88d2-4094-b6f1-03e4b182e97d">
 
+#### Facilities template:
+<img width="1153" alt="Screenshot 2023-09-20 at 10 38 19 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/97981bbe-2433-4f52-9f64-16662133ca10">
 
 
 ### Mobile: 
-<img width="1634" alt="Screenshot 2023-09-19 at 9 55 53 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/acaae486-74c3-4694-8b5f-54e5198d4493">
+#### General:
+<img width="1115" alt="Screenshot 2023-09-20 at 10 04 04 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/777c6258-3b56-4c28-95bc-d5cbe89578e8">
+
+#### Facilities template:
+<img width="706" alt="Screenshot 2023-09-20 at 10 27 16 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/aba6c9be-05a6-44f6-971b-0f0a40a4b013">
+
+## Mock-ups of health portal secondary navigation using current designs 
 
 
 
@@ -26,7 +39,10 @@ The existing sidenav component is not fully supported by the Design System, and 
 * Mobile does not show all options persistently (narrows based on user's location), but desktop does
 * 
 
-### Problem 2: Inconsistent with primary mega menu navigation 
+### Problem 2: Inconsistent versions (general vs. facilites template version)
+
+
+### Problem 3: Inconsistent compared to primary mega menu navigation  
 
 ### Problem 3: Research suggests that users aren't finding it on mobile
 
@@ -41,9 +57,11 @@ The existing sidenav component is not fully supported by the Design System, and 
 * A common pattern revealed by the competitive analysis was that many sites do this in the header, allowing navigation components to be more lightweight. 
 
 
-## Needs for secondary navigation
+## Needs for health portal secondary navigation
 * Must allow users to move from one tool to another seamlessly
 * Must be placed consistently on the page (across all modalities), with all health tools persistently available and visible to the user
 * Must be visually louder than primary site navigation
 * Must consider its relationship to the primary site navigation (mega menu)
 * Must be situated in the context of what section of the site the user is in
+
+
