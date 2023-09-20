@@ -38,19 +38,22 @@ form 526 flow.
 
 ### WIP
 
+- old behavior
+  - if an ITF exists, show info about it
+  - if an ITF doesn't exist, create it and show info
+      - if this fails, we end up in an error state
+- new behavior
+  - if an ITF exists, same... show info about it
+  - if an ITF doesn't exist, **enqueue it's creation** and tell the user we ill let them know when it's done, and they are free to continue the form
+      - if ITF creation succeeds, notify the vet from the background worker via email
+      - if ITF creation fails, we can retry
+        - if it keeps failing, we can notify the vet or a dev to get involved
+
 - [Backend spike PR](https://github.com/department-of-veterans-affairs/vets-api/pull/13887)
 - [Frontend spike PR](https://github.com/department-of-veterans-affairs/vets-website/pull/25777)
 
 - the front end will send a call to check for an ITF.
   - either way, we send off a create ITF request, however we show an error state.
 
-
-- simplify front end 
-  - no more Exists? then Create?.  update to be a Find or Create by flow
-- Wrap existing find and create actions (factory) in 'find or create' service that we can offload to sidekiq
-- persist a record of the ITF creation request to track the status of the ITF
-
-
-
-
-
+#### Bonus Stuff
+- I've identified a weird state that is possible but unlikely where a catostrophic failure in the vets-api (**not the underlying services, but the actual vets-api code**) can put a user in a state where they see an error but their ITF was successfully created.  This is not something likely to happen in the wild, but probalby worth considering a fix for.  [This Slack thread](https://dsva.slack.com/archives/C053U7BUT27/p1695228246634029) outlines why this is different from our Catastrophic ITF failure, and how it (theoretically) happens
