@@ -66,7 +66,7 @@ ________________________________________________________________________________
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update Content in the Needs Help Section on All Pre-Check-in and Check-in Pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65477)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65290)      
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65291)      
 - **GOAL: Add Translated Content**
     - [2023 Q4 Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62844)
         - ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [[Product] Send QA Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64625)
