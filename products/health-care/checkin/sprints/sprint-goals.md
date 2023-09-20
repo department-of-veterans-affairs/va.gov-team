@@ -61,9 +61,7 @@ ________________________________________________________________________________
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Create upcoming appointments component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62227)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Upcoming Appointments Progress Loading Indicator](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65614)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Evaluate and update wireframe for no upcoming appts scenario](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65286)
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Messages when there is a MAP VAOS Retrieval Failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65616)
-        - **EPIC: [Unified Check-in: Priority 4 - New Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61745)**
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Add artboards to the Design page in unified check in for pre check in phone and grouped warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65709)- 
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Messages when there is a MAP VAOS Retrieval Failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65616)        
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65290)      
