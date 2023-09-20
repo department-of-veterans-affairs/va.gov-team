@@ -64,17 +64,15 @@ Here is a summary of the change
 
 #### Backend Change
 - Track the transaction.  if Sidekiq goes down, we need to know what Users / Submissions are missing an ITF. Otherwise we risk technical problems and (probably legal problems).
-    - create a model?
-    - handle with logging?
+    - TO do this, i recomend a model and DB table that tracks `itf_transaction` instances with a state machine.  
 - Square this new logic (ITF may not exist) with our existing code.  **This is a potential worm hole!!!**  This requires, theoretically, testing every edge case of every part of the app that uses ITF.
  
 ### TODO
 - this is new UX, and has potential legal ramifications.  We are no longer saying 'yes we created an ITF', we are saying 'we are going to do our best to create an ITF for you'
 - IF we like this new UX, we will need to bolster this implementation on the backend with a few key changes
   - use the 'effective date' as the new timestamp.  This will probably require buy in from VA and changes on their API
-  - find everywhere we interact with ITF and update / check for continuity with the new logic.  We can't assume these ITFs will be created quickly, or at all
+  - find everywhere we interact with ITF and update / check for continuity with the new logic.  We can't assume these ITFs will be created quickly, or at all. 
   - Develop a roll out plan.  We will probably need isolate this on the 526
-  - add a local model to for ITFSubmission with a state machine
 
 #### Bonus Stuff
 - I've identified a weird state that is possible but unlikely where a catostrophic failure in the vets-api (**not the underlying services, but the actual vets-api code**) can put a user in a state where they see an error but their ITF was successfully created.  This is not something likely to happen in the wild, but probalby worth considering a fix for.  [This Slack thread](https://dsva.slack.com/archives/C053U7BUT27/p1695228246634029) outlines why this is different from our Catastrophic ITF failure, and how it (theoretically) happens
