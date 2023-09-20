@@ -34,7 +34,14 @@ The order of operations for migrating an AL1-based application is as follows --
 Link to Diagram
 https://lucid.app/lucidchart/e8eaa8d9-b39b-406e-b4c7-500f458b3ad3/edit?viewport_loc=-851%2C-594%2C2775%2C2779%2C0_0&invitationId=inv_8c416828-b5fd-4d7d-970c-ddb875f1cf28
 
-_Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
+#### Existing
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/52456633/2391c636-0bfe-448b-903d-5e3cbe120d29)
+
+#### Proposed
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/52456633/0ccfd344-e9cc-4b63-b455-87803ceb7150)
+
+#### Future
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/52456633/7e1f5a63-af7b-43c6-ad62-4aa1230a60c4)
 
 ## Specifics
 _Nothing goes here; all the content belongs in the subsections._
