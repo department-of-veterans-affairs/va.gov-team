@@ -13,24 +13,24 @@ Designer: Peter Russo, Ciera Maddox and Melissa Lefevre  <br>
 ### Manual
  * [ ] Color contrast checks (recommend using whocanuse.com for beyond compliance reports)
  * [ ] Color blindness checks
-• [ ] Buttons vs links
-• [ ] Cognitive flow
-• [ ] Design consistency across screens
+ * [ ] Buttons vs links
+ * [ ] Cognitive flow
+ * [ ] Design consistency across screens
  
 ### Screen Reader
  * [ ] Behavior & navigation advice
 
 ## Findings
-_ all findings given in comments directly on Figma file, this is a high level summary._
+_All findings given in comments directly on Figma file, this is a high level summary._
 
-• Add 'state' for all H1's (Confirmed, Upcoming, Past, Cancelled)
-• Review coupled links in status
-      • Adjust placements, and language
-      • persist consistently across all similar screens
-• Add H2 'Appointment details' this will help with rotary navigation, and solve some button junk drawer challenges
-      • move print button near appointment details heading
-• Links vs buttons -- since adding to calendar, getting directions or printing are all actions that first open (go) to another app we recommend making all consistent with icon and link.
-      • understand print and calendar have known behavior as buttons in many UI and are OK left as is or adapting for visual hierachy if you decide to adjust layout with H2.
-• Rotary naviation considerations -- when looking at any 'action' review the design to find the previous heading and ask if this is where you would think to find that action
-      • example: currently print is housed under 'need to make any changes?' on video appointments
-• consider at what point the add to calendar functionality is unnecessary
+• Add 'state' for all H1's (Confirmed, Upcoming, Past, Cancelled) <br>
+• Review coupled links in status <br>
+      • Adjust placements, and language <br>
+      • persist consistently across all similar screens <br>
+• Add H2 'Appointment details' this will help with rotary navigation, and solve some button junk drawer challenges <br>
+      • move print button near appointment details heading <br>
+• Links vs buttons -- since adding to calendar, getting directions or printing are all actions that first open (go) to another app we recommend making all consistent with icon and link. <br>
+      • understand print and calendar have known behavior as buttons in many UI and are OK left as is or adapting for visual hierachy if you decide to adjust layout with H2. <br>
+• Rotary naviation considerations -- when looking at any 'action' review the design to find the previous heading and ask if this is where you would think to find that action <br>
+      • example: currently print is housed under 'need to make any changes?' on video appointments <br>
+• consider at what point the add to calendar functionality is unnecessary <br>
