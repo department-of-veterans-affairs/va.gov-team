@@ -1,4 +1,4 @@
-# WIP - ITF async proposed architecture
+# ITF async proposed architecture and code spike
 
 ## Purpose
 
