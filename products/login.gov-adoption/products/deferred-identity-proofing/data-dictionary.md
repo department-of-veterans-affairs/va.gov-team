@@ -4,10 +4,9 @@ This document contains a data dictionary of the transformed datasets within Domo
 
 **About the Data**
 
-The “Login.gov Adoption Data (all)” DOMO dataset is created by ETL from following sources 
+The “IAM MPI User Credentials - with snapshots” DOMO dataset is created by ETL from following sources 
 
 * IAM MPI - set of all _identity-verified_ credentials, i.e. LOA2/3 or IAL2/3, associated with users tracked in IAM.  Some legacy credentials, e.g. Symantec, were omitted.
-* MHV Primary ID on File report - set of users who did MHV In-Person proofing and have a primary proofing ID on file.
 
 The "ETL - DataDog - Unique Authns Prior [Day/Week/Month] by CSP" is retrieved on recurring schedules from DataDog.
 
@@ -15,9 +14,7 @@ The "ETL - DataDog - Unique Authns Prior [Day/Week/Month] by CSP" is retrieved o
 
 This data set is formatted to facilitate visualizations. Each row represents a user, all the identity-verified credentials that IAM is tracking, and whether they have a Primary ID on file.
 
-Each user credential in IAM has a CSPID, although it may be more apt to refer to it as the User's Credential ID for a couple reasons.  Foremost, this is because it identifies one user's credential versus an ID of the Credential Service Provider (CSP).  The other reason is that the IAM export data focuses more on the credential versus the CSP used to authenticate it, a nuanced distinction that is really only apparent with CAC, which can be authenticated on DS Logon or AccessVA. In other words, records with CSPID containing 200DOD don't guarantee a DS Logon account or usage, although more 97% of applicable 200DOD records do have DS Logon as verified last use.
-
-The CSPIDs have a prefix, a credential identifier code, that identifies the CSP which the CSPID belongs to.  (It would be more appropriate to call just the prefix a "CSP ID" or "Credential Type ID", but since CSPID is already in (arguable mis)use, the term “credential identifier code” will be used in this document instead.)  The credential identifier codes have occasionally changed over time and for various historical reasons, e.g. data cleanup efforts.  The CSPs and their corresponding CSP identifier codes which are included in this dataset are:
+CSPIDs have a prefix, a credential identifier code, that identifies the CSP which the CSPID belongs to.  (Note, that the CSPID in MPI contains the CSP's full identifier for a user.  During the import into Domo, all but the CSP identifier code prefix is stripped.)  The credential identifier codes have occasionally changed over time and for various historical reasons, e.g. data cleanup efforts.  The CSPs and their corresponding CSP identifier codes which are included in this dataset are:
 
 
 <table>
@@ -59,6 +56,7 @@ The CSPIDs have a prefix, a credential identifier code, that identifies the CSP 
   </tr>
 </table>
 
+Note: The credential identifier code identifies the user's credential type versus Credential Service Provider (CSP).  The nuanced distinction is apparent with CAC, which can be used to authenticate on DS Logon or AccessVA. In other words, records with CSPID containing 200DOD don't signify that a DS Logon account exists. Although more 97% of applicable 200DOD records do have DS Logon, as confirmed by the lastUsed field.
 
 In May 2018, IAM MPI began tracking a “CSP Method” parameter which is used to track the methods to authenticate with a CSP.  The IAM export contains the last method used associated with each credential.
 
@@ -164,11 +162,11 @@ In May 2018, IAM MPI began tracking a “CSP Method” parameter which is used t
 </table>
 
 
-It may have been more apt if the “CSP Method” was instead called “Authentication Method”. To highlight the distinction, consider CAC and that users can authenticate with CAC either via DS Logon or AccessVA to create an SSOe session. Both authentication methods will map the user to the same identity within IAM, i.e. usage of a 200DOD credential does not imply DS Logon was used. 
+It may have been more apt if the “CSP Method” was instead called “Authentication Method”. To highlight the distinction, consider again CAC and that users can authenticate with CAC either via DS Logon or AccessVA to create an SSOe session. Both authentication methods will map the user to the same identity within IAM, i.e. usage of a 200DOD credential does not imply DS Logon was used. 
 
-The CSP Methods IDME_MHV, IDME_DSL (and IDME_VETS) are used solely by VA.gov Unified Sign-in Page and is used within an authentication request to instruct SSOe to use ID.me as an MFA wrapper for MHV or DS Logon.  In the case of these CSP Methods, although two CSPs are used for authentication, the credential is tracked with an ID.me credential identifier code. In the case that a user has a ID.me ID-verified credential and also used ID.me as MFA for MHV and/or DS Logon, IAM will track each of these as distinct CSPIDs, all with the _200VIDM_ credential identifier code.
+The CSP Methods IDME_MHV, IDME_DSL (and IDME_VETS) are used solely by VA.gov Unified Sign-in Page and is used within an authentication request to instruct SSOe to use ID.me as an MFA wrapper for MHV or DS Logon.  In the case of these CSP Methods, although two CSPs are used for authentication, the credential is tracked with an ID.me credential identifier code. 
 
-
+Note, users can have either one or distinct ID.me accounts for each: ID-verified ID.me credential and the ID.me credentials used for MFA for MHV and/or DS Logon.  MPI will likewise have one or multiple credential records.  Because of this, it is not possible to determine from the current MPI data export precise credential counts.  The cspMethod in conjunction with _200VIDM_ code will indicate existance of one of ID.me, MHV or DS Logon, but whether the user has either of the other two remains indeterminate.  (ID.me will have to provide this information.)
 
 **The “Login.gov Adoption Data (all)” Dataset Data Dictionary**
 
