@@ -6,7 +6,7 @@ ________________________________________________________________________________
 ## 9/20/2023 - 10/3/2023  ---------------- FUTURE / TENTATIVE ----------------------
 #### SPRINT GOALS
 - **GOAL: Comply with ATO**
-    - **Sub Goal: Gather Evidence for Proving ATO Compliance**
+    - **Sub Goal: Update technical diagrams**
  - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Align with BTSSS**
     - **Sub Goal: File any Claim Type for a Past Appointment - Design & Discovery**
@@ -27,8 +27,7 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Comply with ATO**
-    - **Sub Goal: [Gather Evidence for Proving ATO Compliance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63578)**
-       - What does Ethan need from us next?
+    - **Sub Goal: Update technical diagrams**       
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Update Container Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65816)
        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Add Authenticated Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65907)
 - **GOAL: Make submission of a travel reimbursement claim easier**
