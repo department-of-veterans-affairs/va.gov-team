@@ -1,5 +1,7 @@
 # 2023-09-19 Adopt the Datadog Service Catalog as the source of truth for service/application/team mapping
 
+_This file is being published in Github instead of Confluence pending publishing access issues. It will be synchronized to Confluence once adopted._
+
 ## Status
 Proposed
 
