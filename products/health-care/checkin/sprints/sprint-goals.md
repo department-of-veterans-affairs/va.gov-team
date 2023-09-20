@@ -39,9 +39,7 @@ ________________________________________________________________________________
             - Ask Mark if we wants to include support for filing receipts in this scope of work ([Slack thread](https://dsva.slack.com/archives/C02GXKL8WM6/p1694794466461999))
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Implement Next-of-Kin Feedback**
-        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in: Update Content for Next-of-Kin for In-Person Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65844)
-        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in: Update Content for Next-of-Kin for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65845)
-        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Day-of Check-in: Update Content for Next-of-Kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65846)
+        - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Check-in: Update Content for Next-of-Kin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65844)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65851)
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65852)
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65864)
