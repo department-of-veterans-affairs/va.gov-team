@@ -14,12 +14,12 @@
 ### Manual
  * [ ] Color contrast checks (recommend using whocanuse.com for beyond compliance reports) _not applicable, B&W wireframe_
  * [ ] Color blindness checks _not applicable, B&W wireframe_
- * [ ] Buttons vs links
- * [ ] Cognitive flow
- * [ ] Design consistency across screens
+ * [x] Buttons vs links
+ * [x] Cognitive flow
+ * [ ] Design consistency across screens _not applicable, B&W wireframe_
  
 ### Screen Reader
- * [ ] Behavior & navigation advice
+ * [x] Behavior & navigation advice
 
 ## Findings
 _Advise if finidngs were also given over a call or direcly within a program etc._
