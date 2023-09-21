@@ -19,7 +19,8 @@
 
 ### Results:
 - **Bugs identified / fixed:**
-[Pension and Burial Deactivation UAT Findings Spreadsheet]()
+   - [Burial Deactivation Staging Review Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62889)
+   - [Pension Deactivation Staging Review Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64897)
 
 ## Issues
 
