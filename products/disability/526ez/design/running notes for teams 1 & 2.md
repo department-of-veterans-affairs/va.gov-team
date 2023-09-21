@@ -40,6 +40,12 @@ To Do
 - Team 2: Draft research plan for Shadowing 
 - Find a meeting time to determine our next step as a team
 
+  FYI- Off-sites
+- Friends from the City Offsite Oct 9- 13
+- Coforma Offsite: Oct 23-27
+
+  
+
 
 
 
