@@ -3,9 +3,9 @@
 [DSVA slack channel for contacting product team](https://dsva.slack.com/archives/C05L6HSJLHM)  <br>
 
 ## Product team
-OCTO-DE product owner: Zach Goldfine <br>
-Product manager: Lindsay Li-Smith  <br>
-Designer: Michael Tri (starting 9/25) <br>
+- OCTO-DE product owner: Zach Goldfine <br>
+- Product manager: Lindsay Li-Smith  <br>
+- Designer: Michael Tri (starting 9/25) <br>
 
 ## Auditor(s): Jamie Klenetsky Fay
 
