@@ -5,7 +5,7 @@
 
 **Confounding factors:** While the feature is primarily positioned to facilitate rx refills, it also serves a purpose of medication management. The second task is less defined in terms of in-app users behavior. Because of this, this experiment cannot be designed to definitively consider the impact of default sorting that prioritizes refills over medication management. 
 
-An assumption has been made in designing the test states that medication management favors Active (and active subtype) status medications. Test state 1 would prioritize refills only; Test state 2 attempts to balance refills and medication management. 
+An assumption has been made in designing the test states that medication management favors Active (and active subtype) status medications. Test state 2 would prioritize refills only; Test state 1 attempts to balance refills and medication management. 
 
 **Current state:** Prescription feature landing page defaults to a list that shows all medications. The list is sorted alphabetically.
 
