@@ -207,6 +207,55 @@ You can also call your VA medical center (find a VA location tool) to get help c
 #### URL: /health-care/----/veteran-information/veteran-address
 
 
+------------------------------------------------------------------------------
+## Step 1 Veteran Information - Phone and email address
+------------------------------------------------------------------------------
+
+### Page: Phone and email address - AUTHENTICATED View
+
+#### URL: /health-care/----/veteran-information/veteran-phone-email-address
+
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 1 of 4: Veteran Information
+[end progress bar]
+
+[H3] Phone and email address
+
+[p] Adding your email and phone number is optional. But this information helps us contact you faster if we need to follow up with you about your application. If you don’t add this information, we’ll use your address to contact you by mail.
+
+**Note:** We’ll always mail you a copy of our decision on your application for your records.
+
+[component text input label] Home phone number(*Required)
+
+[component text input label] Mobile phone number
+
+[component text input label] Email address
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+
+
+
 
 
 
