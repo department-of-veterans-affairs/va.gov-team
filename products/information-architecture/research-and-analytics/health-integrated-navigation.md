@@ -55,7 +55,7 @@ The existing sidenav component is not fully supported by the Design System, and 
 ### Problem 7: Secondary navigation carries the weight of displaying the user's sense of place on the site
 * A common pattern revealed by the competitive analysis was that many sites do this in the header, allowing navigation components to be more lightweight.
 
-### Problem 8: Outstanding accessibility issues with these components
+### Problem 8: History of accessibility issues with these components
 
 #### Secondary nav menu being sticky:
 * Ticket [#22824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22824)
