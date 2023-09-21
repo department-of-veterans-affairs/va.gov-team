@@ -245,7 +245,7 @@ What does this page mean to you?
 
 What is unclear or doesn't work well for you?
 
-- *(RECORD all comments, esp. re dates)*
+- *(RECORD all comments, especially about dates)*
 
 Could you tell me what "presumptive conditions" are?
 
