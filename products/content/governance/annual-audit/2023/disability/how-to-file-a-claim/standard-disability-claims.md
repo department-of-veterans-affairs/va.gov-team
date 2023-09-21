@@ -2,7 +2,7 @@
 
 ## Content on page
 
-### OCTO changes
+### OCTO checks, edits, tasks
 - The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.). **Note:** I rewrote this.
 - Relevant terms from page are in content brief and any relevant backlog work is noted.
 - Assess the content in the blue box. **Note:** I moved all content out of the blue box. There's no need for a blue box on this page at all single we don't talk about eligibility.
@@ -10,7 +10,7 @@
 - Added action link directing users to the intro page to the online form and edited that section to align with other disability pages already edited that are eligibility child pages.
 - Reworked "What evidence will VA gather..." section for better logic grouping things in bulleted lists.
 
-### Copy editor checks
+### Copy editor checks, edits, tasks
 - Header levels are hierarchical
 - The page has no broken links
 - Text links have purpose and target
