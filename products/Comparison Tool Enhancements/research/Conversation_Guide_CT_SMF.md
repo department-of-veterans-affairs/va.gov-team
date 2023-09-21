@@ -17,18 +17,15 @@
     - Provide brief participant info.: assistive tech (if used), type of device used
     - <i>"GI Bill Comparison Tool, Specialized Mission Filter Usability Study session #__ begins in x minutes. Please post comments in this thread. @team member(s)."</i>
     - MUTE Slack, Teams, and email notifications
-    - * Refer to Slack for real-time comments/questions from observers
+    - Refer to Slack for real-time comments/questions from observers
+  - <i> Please refrain from sharing the staging link in the chat until you are prepared for the participant to begin.</i>
   
 - 10 min before session, moderator must: 
   - 1. Log into Perigean's Zoom account via Google Chrome
-   <b> Login credentials </b>
-    - Url: zoom.us
-    - Email: dsvazoom@perigeantechnologies.com 
-    - Password: p3rigeaN2020!
+    - Refer to Perigean's Zoom login credentials for login and password if needed
   - 2. Check the following settings:
     - SOUND OFF: Settings > Meeting > In meeting (basic) > Sound notification <i> off </i>
     - SCREEN SHARING PERMISSIONS: Settings > In meeting (basic) > Screen sharing > Who can share > All participants 
-  - 3. Share staging link to Zoom chat: https://staging.va.gov/education/gi-bill-comparison-tool
 
 <!-- - Complete any project-specific setup tasks for this study (list them below)
 - [ ] Step 1: Confirm that the GI Bill Comparison Tool's staging server reflects the new design and positioning of filter elements, and the link to the descriptions of specialized mission filters is working. 
@@ -51,7 +48,7 @@ Slack for real-time feedback from observers.
 ## Intro - 5 minutes
 
 <b> Moderator only </b>
-Thanks for joining us today. My name is Garry Forbes. I'll be your moderator for this session, and my GovCIO colleague Ariana Adili will be taking notes. Other colleagues may be in the Zoom waiting room who would like to observe and take notes as we work through the session.
+Thanks for joining us today. My name is Garry Forbes. I'll be your moderator for this session, and my GovCIO colleague Ariana Adili will be observing and taking notes. Other colleagues may be in the Zoom waiting room who would like to observe and take notes as we work through the session.
 
 The subject of this study is filtering options and capabilities--specifically, the Specialized Mission Filters--that are available in the GI Bill Comparison Tool. We'd like you to try the filters to see how they're applied to educational institution searches, and let us know if you think they'll be useful to you.
 
@@ -67,7 +64,7 @@ The subject of this study is filtering options and capabilities--specifically, t
     - <i>"I understand that these things can be overwhelming. Would you like to take a short break or stop?"</i>
     - <i>"I sense that this may be overwhelming. We sincerely value what you are sharing with us, but you do not have to share anything that you are not comfortable with."</i>
     - <i>"Would you like to reschedule our session, or stop all together?"</i>
-    - <i>"I understand if this seems overwhelming. If you would like to take a few mintues to sit in silence and recollect, that is totally fine."</i>
+    - <i>"I understand if this seems overwhelming. If you would like to take a few minutes to sit in silence and recollect, that is totally fine."</i>
 
   ## Resuming after a break (if taken)
   - <i> "I would be happy to hear more about [topic of conversation]. Are you okay with sharing more, or would you like to move on to the next topic?" </i>
@@ -97,16 +94,18 @@ The subject of this study is filtering options and capabilities--specifically, t
   1. Open Zoom
   2. Join/start a meeting
   3. Tap "Chat"
+<br>
 **To <b>screen share</b> on mobile:**
   1. Open Zoom
   2. Join/start a meeting
   3. Tap "share: > Choose content to share > Tap "Share" 
     - To stop: Tap "Stop share"
-  
+<br> 
 **To <b>chat</b> on desktop:**
   1. Launch Zoom
   2. Join/start a meeting
   3. Click "Chat"
+<br>
 **To <b>screen share</b> on desktop:**
   1. Open Zoom
   2. Join/start a meeting
@@ -136,6 +135,10 @@ The subject of this study is filtering options and capabilities--specifically, t
   - Refer to "screen sharing instructions" if needed.
 
 ## User Tasks
+- Moderator's reminder: Maintain an ongoing practice of asking follow-up questions to each participant. 
+  * If they discover something beneficial, you can ask:     
+    <i>"Could you please share why or how you found this helpful?"</i>
+<br>
 <i>"Now, I'd like to have you try out a few things..."</i>
 * Make sure the participant looks or seems comfortable to move forward
 
@@ -144,11 +147,16 @@ The subject of this study is filtering options and capabilities--specifically, t
   - See <i>Screen Sharing Instructions</i> if needed
 
 ### Task #1: [Initial search]
-<i>"Picture yourself casually exploring institutions to attend or just satisfying your curiosity about available options. Search for an institution or program that piques your interest or curiosity. If you're unsure of specific institution names, that's perfectly fine. You can also enter a location you'd like to explore. Ready to dive in?"</i>
+<i>"Picture yourself casually exploring institutions to attend or just satisfying your curiosity about available options. Search for an institution or program that piques your interest or curiosity. Ready to dive in?"</i>
 
   - 1. <i>"If you were interested in finding a program or institution to attend, what's the first step you'd take?"</i>
   - <i>"I would like to hear your thoughts as you go through this process. Say whatever you are thinking, what you are doing, and feel free to share what you're unsure about."</i>
     - Make notes of their process - what they are doing and saying.
+
+  - 2. Here are questions for when the participant inputs their search criteria and you want them to notice the school card results:
+    - <i>"What is this information telling you?"</i>
+    - <i>"Did you see how to do that?"</i>
+
 
 ### Task #2: [Refine search]
 "<i>Now that you've completed your initial search, let's dive a bit deeper. Think about your specific interests and goals you have in mind for your educational opportunities you're seeking or curious about. Afterward, let's use the comparison tool's filtering features to refine your options and find programs that match your preferences. As you make your selections, please share your reasons behind these choices. This is all about tailoring the search to your liking, so take your time and feel free to explore!"</i>
@@ -164,15 +172,19 @@ The subject of this study is filtering options and capabilities--specifically, t
 
 
 ### Task #3: [Accordion component - definitions]
-<i>"Imagine you want to explore specialized mission types within the GI Bill Comparison Tool, which are unique educational programs designed for specific school types like a HBCU, mens or womens-only college, etc. Your goal is to find the accordion component containing definitions for each mission type, offering brief descriptions for better understanding."</i>
+<i>"Imagine you want to explore specialized mission types within the GI Bill Comparison Tool, which are unique educational programs designed for specific school types like a HBCU, mens or womens-only college, etc."</i>
 
   - 1. If you wanted to know a little more about a specialized mission and what it is, can you show me where you would find that information within the tool?
     - Document notes on what participant is saying and doing
     - Comments about the level of difficulty or ease locating the component/descriptions
-  - 2. Were you able to locate the definitions you were looking for without difficulty?
-  - 3. Did the accordion layout make it clear that it contained definitions for each specialized mission type?
+  - 2. Were you able to locate the information you were looking for without difficulty?
+  
 
-
+### Guidance/actions to follow if participant gets distracted from tasks
+  - 1. <i>"There are still a few more questions related to [the task]. Would it be alright if we revisit that for a moment?"</i>
+  - 2. <i>"We have a bit more to cover regarding [the task]. Would you be comfortable if we go back to it briefly?"</i>
+  - 3. <i>"There are a few more aspects of [the task] we'd like to explore. Is it okay with you if we return to it for a moment?"</i>
+  - 4. <i>"We still have some questions about [the task]. Is it okay if we continue with that for a bit longer?"</i>
 
 
 
