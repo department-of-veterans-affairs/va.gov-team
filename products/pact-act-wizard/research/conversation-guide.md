@@ -213,6 +213,9 @@ Let's suppose that (Google/VA.gov) led you to the web page that I'm going to sho
 - *Intro screen*
   - *especially if p doesn't know what the PACT Act is*
 - *Service years*
+  - *any difficulty selecting an option? Y / N*
+   - *(family members who aren't Veterans should answer based on the service of their Veteran family member)*
+  - *(if p not sure, ask p what they'd do. then advise to select "both")*
 - *Burn Pit questions* 
 - *Agent Orange questions*
 - *Radiation question*
