@@ -1,4 +1,4 @@
-# [Design Review a11y findings]: Accredited Representation Management
+# [Design Review a11y findings]: Accredited Representation Management (September 2023)
 [Prototype link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692888741111/2474c0612887653142ab991d234898b6968dbf0e?sender=u1c2b512a71f68e7b5a5c0324) <br>
 [DSVA slack channel for contacting product team](https://dsva.slack.com/archives/C05L6HSJLHM)  <br>
 
