@@ -1,36 +1,21 @@
 # https://www.va.gov/disability/how-to-file-claim/evidence-needed/standard-claims/
 
-## URL
-- [ ] URL follows VA.gov URL standards
-- [ ] URL correctly represents the placement of the page in the IA of the site
-- [ ] URL includes primary keyword and aligns with the H1
-
-## Breadcrumb
-
-- [ ] The page displays a breadcrumb
-- [ ] The breadcrumb represents the same hierarchy as the URL
-- [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly **Note:** Breadcrumb and H1 don't match exactly - issue added to backlog notes          
-- [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags **Note:** Not applicable right now, but will be soon
-
-## Secondary navigation (where applicable)
-
-- [ ] The page is displayed as an option within the secondary nav
-- [ ] The placement of the option in the secondary nav represents the same hierarchy as the URL
-- [ ] **If the page is translated,** the translated segments of the navigation have appropriate tags **Note:** Not applicable right now, but will be soon
-
-## On this page component
-
-- [ ] The page has an "on this page" component if appropriate **Not needed - more like a landing page**
-
 ## Content on page
 
-- [ ] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
-- [ ] Header levels are hierarchical
-- [ ] The page has no broken links
-- [ ] Text links have purpose and target (only need target if the link takes the user off VA.gov--subsites don't need target)
-- [ ] The content is free of ability-focused language (view, walk, see, hear)
-- [ ] Relevant terms from page are in content brief and any relevant backlog work is noted
-- [ ] Assess the content in the blue box to see if some or all of it can move out of the blue box (possible end result of no blue box on the page)
+### OCTO changes
+- The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.). **Note:** I rewrote this.
+- Relevant terms from page are in content brief and any relevant backlog work is noted.
+- Assess the content in the blue box. **Note:** I moved all content out of the blue box. There's no need for a blue box on this page at all single we don't talk about eligibility.
+- Fixed several lead-ins to bulleted list so they are complete sentences.
+- Added action link directing users to the intro page to the online form and edited that section to align with other disability pages already edited that are eligibility child pages.
+- Reworked "What evidence will VA gather..." section for better logic grouping things in bulleted lists.
+
+### Copy editor checks
+- Header levels are hierarchical
+- The page has no broken links
+- Text links have purpose and target
+- The content is free of ability-focused language (view, walk, see, hear) Note: We allow "show" and "appear" when talking about evidence related to disability compensation.
+- Flesch-Kincaid before and after grade level added to this document
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 
