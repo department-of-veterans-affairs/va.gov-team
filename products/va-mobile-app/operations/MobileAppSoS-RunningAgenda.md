@@ -80,6 +80,62 @@
 <details>
 <Summary>Historical Agendas and Meeting Notes </Summary>
 
+## 9/19/23 Agenda:
+
+## Agenda
+* **Q3 Projects in Progress**
+  * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+     * Removed the table of projects and status updates and moved them to epics on the Kanban board
+     * Able to search on the kanban board project status to see where its at (On Track, Potential Risk, At Risk)   
+  * Yellow projects / Potential Risk
+     * EVSS
+        *   Mobile waiting for fully EVSS transition; once its moved into production and stable then Mobile will switch over
+            * Disability ratings turned on to 100% but had to drop to 50% because of errors
+            * Overall Mobile transition to EVSS is less than 10 points - turn on / monitor the various areas    
+     * Check-In
+        *   No actions for mobile @ this time outside of staying up to date with External teams 
+        *     Conituned blockers from external teams
+        *   Planned Check-In release for today but put on hold because of bugs
+            * Kay working to prioritize the bugs
+        *   Staging tool still blocked as Shane is OOO
+        *   Rachel said she would like a retro with VAOS and Check-In on how we could have done better on this project
+        *   Discussion on prioritizing this project into Q4 given the dependencies
+           * Rachel agreed to the risk and talked about prioritizing work Mobile has more control / less dependencies on    
+
+ 
+* **Standing question for the POs (Adam)**
+  * Any new work we should be on the lookout for?
+     * MHV sign on is being decommissioned on 12/4
+     * Rachel and Ryan are the POs for the Veteran Status for both Mobile and Web  
+  * Any priority shifts or other updates?
+     * None
+  * Other topics
+     * Kelly brought up if there was any additional info on Epic 6721 - Rachel indicated she would know more about 6/21 meeting
+     * Q4 Planning
+        * Monday Kelly is working with POs on defining a list of possible projects; have a meeting planned next week to review with the team
+     * Custom Tab Andoid Login Issue - Rachel asked
+       * Ticket is pending handing to be sized [6736](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6736)
+       * Rachel said to work this bug through standard process when asked if we need to prioritize it in this sprint, Mobile will incorporate into next Sprint (81)
+         
+* **Sprint Planning (Adam)**
+   * No changes from a project standpoint per the POs
+   * Mobile teams to work on leveling out the capacity through standard Sprint Planning process 
+
+* **Monthly Mobile App Review Summary (Liz)**
+   * Liz posted findings in DSVA
+   * Liz asking how to best to use this information moving forward
+      * Rick and only source of sentimental satisfaction
+   * Group discussed adding some kind of feedback throughout the app's feature to learn more specifics
+      * Matt confirmed this is a Sprint 0 Submit Feedback back in April already completed in this ; work has not progressed from here
+      * Clarified this is not In-App recruitment as that focuses on helping Perigean improve their accuracy in selecting people who use the app for research
+   * Liz reviewed the App Store data in [Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/reporting/App-Stores-Reviews)
+   * Discussion on how to include this - maybe monthly dashboard , regular reviews
+   * Dicussion and agreed consensus that a data dictionary / readme would be helpful for people to use to read and understand the data vs making wrong intreprations
+    
+
+* **Action Items**
+
+
 ## 8/22/23 Agenda:
 * **Q3 Projects in Progress**
   * Yellow projects - Check In and Android Custom Tabs
