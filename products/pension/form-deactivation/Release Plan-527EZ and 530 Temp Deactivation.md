@@ -22,10 +22,6 @@
    - [Burial Deactivation Staging Review Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62889)
    - [Pension Deactivation Staging Review Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64897)
 
-## Issues
-
-1.    
-
 ## Phase II: Rollout
 
 ### The Plan
