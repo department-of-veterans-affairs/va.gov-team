@@ -3,7 +3,7 @@
 ---
 
 - [VA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694028488812/91947e4f4f9f8536af5a6609e54fced964d3505f?sender=uadf1ed7fe7c76f0914967329) - 
-- [Sketch wireflows](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/p/E00D429A-2608-489A-BB55-4A53C6FA6317/canvas )
+- [Sketch wireflows](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22)
 
 --- 
 
