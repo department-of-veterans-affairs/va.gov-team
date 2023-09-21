@@ -64,3 +64,5 @@ The “Download your completed form” button should be a link and [look like th
 
 “Where do I submit my completed VA 21-22 form?” should be visible, not in an Additional info component. It should be a heading, at the same level as “What are your next steps?” And the “Online,” “By Mail,” and “In-Person” headings need to actually be headings - they don’t look like headings in the wireframe. If “Where do I submit…” is an H3, “Online” should be an H4.
 - **Reasoning:** most screen reader users navigate through a web page by heading. If those aren’t proper headings, they’ll have a much harder time finding the different submission options.
+
+Under "When can me rep start helping me?", the link "You can view your representative information and form status here" needs to be _descriptive_. Folks navigate web pages by link, and "here" doesn't explain what the link is! You could instead link the phrase "Review your representative information and form status".
