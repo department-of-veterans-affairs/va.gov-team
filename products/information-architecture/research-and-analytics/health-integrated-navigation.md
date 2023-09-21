@@ -53,7 +53,16 @@ The existing sidenav component is not fully supported by the Design System, and 
 ### Problem 6: Mobile behavior narrows what is visible based on how deeply a link is nested
 
 ### Problem 7: Secondary navigation carries the weight of displaying the user's sense of place on the site
-* A common pattern revealed by the competitive analysis was that many sites do this in the header, allowing navigation components to be more lightweight. 
+* A common pattern revealed by the competitive analysis was that many sites do this in the header, allowing navigation components to be more lightweight.
+
+### Problem 8: Outstanding accessibility issues with these components
+#### secondary nav menu being sticky:
+Ticket [#22824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22824)
+Ticket [#19779](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19779)
+Ticket [#19784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19784)
+#### focus management
+Ticket [#22826](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22826)
+
 
 
 ## Needs for health portal secondary navigation
@@ -62,5 +71,8 @@ The existing sidenav component is not fully supported by the Design System, and 
 * Must be visually louder than primary site navigation
 * Must consider its relationship to the primary site navigation (mega menu)
 * Must be situated in the context of what section of the site the user is in
+
+## Resources for navigation accessibility
+* [Gov.uk | Sticky elements: functionality and accessibility testing](https://technology.blog.gov.uk/2018/05/21/sticky-elements-functionality-and-accessibility-testing/)
 
 
