@@ -5,7 +5,7 @@
 Document discovery, open questions, and findings related to the "code yellow" request from VA that we document all of our async services within 526 and their related dashboards, monitors, and alerts.
 
 ## Context
-- [The final deliverable is filling out this ticket]()
+- [The final deliverable is filling out this ticket](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1273)
 
 ## List of Services
 
