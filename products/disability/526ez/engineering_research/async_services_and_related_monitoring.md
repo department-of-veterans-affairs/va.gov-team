@@ -48,3 +48,6 @@ The following are all of our async services within the 526 form flow
 - [526 Backup Submission Errors occurred today](https://vagov.ddog-gov.com/monitors/158396)
   - Tracks count of 526 Backup Submissions (`Sidekiq::Form526BackupSubmissionProcess::Submit`) with a status of `error` per day.  Alert triggers at 100 or more.
     - ALERTS: Slack benefits-ce-dd-notifications
+   
+## WIP additions
+We are in the process of fortifying our monitors with alerts specific to every 3rd party API interaction.  "Document Service API slowdown or outage" listed above was the first of these new monitor / alerts to be added.  [Upcomming additions are documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/KPI_alerting_with_datadog.md)
