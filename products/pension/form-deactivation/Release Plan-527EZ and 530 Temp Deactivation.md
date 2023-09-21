@@ -22,10 +22,6 @@
    - [Burial Deactivation Staging Review Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62889)
    - [Pension Deactivation Staging Review Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64897)
 
-## Issues
-
-1.    
-
 ## Phase II: Rollout
 
 ### The Plan
@@ -36,11 +32,12 @@
 
 The changes will be lauched to 100% of users right away to limit issues with multiple deactivation dates and allow the email notificaiton to quickly follow deactivation.
 
-- Day 1: Launch review pages behind a feature flag. Test with team. (1 day)
-- Day 1: If things go well, we'll launch to 100% of users with in-progress forms. (1 day)
+- Day 1: Launch review pages to 100% of users with in-progress forms. (1 day)
+   - This includes extending the expiration date of all in-progress forms by a year (creation_date + 306 days)
 - Day 1 or 2: CAIA releases updates to "how to apply" page (1 day)
 - Day 1 or 2: CAIA deactivates form entry points and implements redirects to "how to apply page" (1 day)
-- Day 2: Email notification to users with in-progerss forms is triggered (1 day)
+- Day 2 or 2: Email notification to users with in-progerss forms is triggered (1 day)
+- Fast-follow: Generate Intent to File Report (ITF) for VBA Pension/Burial Team ([#64403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64403))
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:** 
 
