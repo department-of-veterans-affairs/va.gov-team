@@ -61,10 +61,16 @@ We will launch the deativation behind a feature flags for burial and pension and
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:** 
 
 - Volume of form use by day of week -- Target deactivation date is Wednesday.
-   - Pension
+   - Pension (1 week of activity)
    - ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/134541644/215eeb37-0b21-4fb1-afef-d0d153ce224f)
-   - Burial
+   - Pension (Wendesday activity)
+   - ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/134541644/cac3101d-8b42-454c-b43e-ae7b15694293)
+
+   - Burial (1 week of activity)
    - ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/134541644/bd96fd1f-41c5-4bdf-bffd-12a7d017ba1e)
+   - Burial (Wednesday activity)
+   - ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/134541644/676345ff-e48b-4ff7-a09b-a77b0f6a9936)
+
 
 ## Go Live!
 
