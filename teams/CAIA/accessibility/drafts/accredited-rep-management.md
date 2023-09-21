@@ -10,10 +10,10 @@
 ## Auditor(s): Jamie Klenetsky Fay
 
 ## Testing Coverage: 
-_This should match what is outlned withing your Github ticket._ **Delete this**
+
 ### Manual
- * [ ] Color contrast checks (recommend using whocanuse.com for beyond compliance reports)
- * [ ] Color blindness checks
+ * [ ] Color contrast checks (recommend using whocanuse.com for beyond compliance reports) _not applicable, B&W wireframe_
+ * [ ] Color blindness checks _not applicable, B&W wireframe_
  * [ ] Buttons vs links
  * [ ] Cognitive flow
  * [ ] Design consistency across screens
