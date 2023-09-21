@@ -53,7 +53,7 @@ The Sprint 0 meeting is a time to do the following:
 
 | Immediate Action | Next Quarter Bucket | Icebox |
 | ----------- | ----------- | ----------- |
-| [Sprint 0: Defining active user base and log-in problems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Defining%20active%20user%20base%20&%20log-in%20problems/Sprint%200:%20Defining%20active%20user%20base%20&%20log-in%20problems.md) <br><br> [Sprint 0: User Endpoint Enhancement - Jayson](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md) |  [Sprint 0: Display Zoom on Android - Brea](https://docs.google.com/document/d/1zJ1efdJNzZx9KutF0i8yC0KnXk4rV8E2JrlR8Xwqar0/edit?usp=sharing) <br><br> [Sprint 0: Submit Feedback - Tim R](https://docs.google.com/document/d/12PejlFxL-OanOAnxJHqMLTawYnvfcNcRavPp2yVI3_w/edit#heading=h.mnq6vtjqteg4) <br><br> [Sprint 0: Error Documentation - Misty](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Error%20Documentation/Error%20documentation%20sprint%200.md) <br><br> [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%3A%20Track%20referring%20URLs.md) (Greta) <br><br>  [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md) | [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)<br><br> [Sprint 0: Pre-Needs Burial Claim - Adam](https://docs.google.com/document/d/1DTio0ekfMld9RuvfqPChfvEhBtxL6qGo2hto46MekG0/edit) |
+| [Sprint 0: Defining active user base and log-in problems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Defining%20active%20user%20base%20&%20log-in%20problems/Sprint%200:%20Defining%20active%20user%20base%20&%20log-in%20problems.md) <br><br> [Sprint 0: User Endpoint Enhancement - Jayson](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md) |  [Sprint 0: Display Zoom on Android - Brea](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Display%20Zoom%20on%20Android/displayZoomOnAndroid.md) <br><br> [Sprint 0: Submit Feedback - Tim R](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Submit%20Feedback/submitFeedback.md) <br><br> [Sprint 0: Error Documentation - Misty](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Error%20Documentation/Error%20documentation%20sprint%200.md) <br><br> [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%3A%20Track%20referring%20URLs.md) (Greta) <br><br>  [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md) | [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)<br><br> [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md) |
 
 
 
@@ -61,7 +61,7 @@ The Sprint 0 meeting is a time to do the following:
 ## Working session notes
 
 ## 9/13/23
-* [Sprint 0: Pre-Needs Burial Claim - Adam](https://docs.google.com/document/d/1DTio0ekfMld9RuvfqPChfvEhBtxL6qGo2hto46MekG0/edit)
+* [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md)
   * Not for Q4, but keep on the list
 
 ## 8/31/23
@@ -122,7 +122,7 @@ The Sprint 0 meeting is a time to do the following:
 
 ## 6/7/23
 
-* [Sprint 0: Submit Feedback](https://docs.google.com/document/d/12PejlFxL-OanOAnxJHqMLTawYnvfcNcRavPp2yVI3_w/edit#heading=h.mnq6vtjqteg4) (Tim R)
+* [Sprint 0: Submit Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Submit%20Feedback/submitFeedback.md) (Tim R)
 * In-app Perigean recruiting (Jen E)
 *  This was approved by the VA POs to proceed with 
 
@@ -143,7 +143,7 @@ The Sprint 0 meeting is a time to do the following:
     * Will change the scope of the Profile Fail error feature to account for capacity if needed
   * Veteran Status Card
     * Ryan will take the lead in Q2 but no capacity is expected from the team for this in Q2
-* [Sprint 0: Display Zoom on Android](https://docs.google.com/document/d/1zJ1efdJNzZx9KutF0i8yC0KnXk4rV8E2JrlR8Xwqar0/edit?usp=sharing)
+* [Sprint 0: Display Zoom on Android](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Display%20Zoom%20on%20Android/displayZoomOnAndroid.md)
 
 
 ## 4/12/23
