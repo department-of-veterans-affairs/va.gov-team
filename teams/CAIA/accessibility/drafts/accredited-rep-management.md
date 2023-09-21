@@ -29,6 +29,14 @@ IN PROGRESS
 Phone numbers in “Need help?” section (at the bottom of most screens) need to be linked (see examples in https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
 
 ### Find a local representative
+Two things for "Select your representative type:"
+- They're styled as checkboxes currently, and I'm not sure if they should be? Should a user be able to select more than 1 answer here?
+- Tooltips are tricky to make accessible. You should do the following with the tooltips:
+ 1. Remove them
+ 2. Put all the definitions together
+ 3. Put that in an [Additional info component](https://design.va.gov/components/additional-info) with the title "What are the different types of representatives?" or similar, below the checkboxes. (Or you can put it directly under the "Select your representative type" label too. Both work, I have a preference for below :) )
+
+#### When someone selects their representative
 H1s and page titles should reflect what’s happening on the page. If someone selects a representative from the “Find a Local Representative” page, the next page should say “Representative Selected” as the H1 (since they aren’t FINDING a rep anymore - they’ve found one!).
 
 ### Step 3 of 6: Claimant Information
