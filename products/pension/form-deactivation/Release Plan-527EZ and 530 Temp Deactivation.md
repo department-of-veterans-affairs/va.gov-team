@@ -5,7 +5,7 @@
 - Deactivation and redirection of entry points (ulrs) for pension and burial forms (CAIA assisting)
 - Email to users with in-progress forms notifying them of temporary deactivation
 
-## Phase I: UAT
+## Phase I: Testing
 
 ### Planning:
 - **Date range or test duration** Estimated: 9/18 - 9/22
@@ -15,8 +15,6 @@
    - 1 test user with an email address within their claim
    - 1 test user without an email address on their claim but a MyVA profile email as an alternative
 - **How you'll conduct the testing:** Testing will be conducted in the VA.gov staging environment using test accounts and through unit testing.
-
-[UAT Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/79d2a7cef66e87523f2433e585f4c55236e3f002/products/pension/UAT%20Plan-527EZ%20abd%20530%20Temp%20Deactivation.md)
 
 
 ### Results:
