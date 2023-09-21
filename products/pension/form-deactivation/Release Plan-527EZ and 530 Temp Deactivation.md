@@ -8,31 +8,16 @@
 ## Phase I: UAT
 
 ### Planning:
-- **Date range or test duration** Estimated: 9/25 - 9/27
+- **Date range or test duration** Estimated: 9/18 - 9/22
 - **Desired number of users:**
    - 1 test user with an in-progress claim (authenticated and non-authenticated)
    - 1 test user without an in-progress claim (authenticated and non-authenticated)
    - 1 test user with an email address within their claim
    - 1 test user without an email address on their claim but a MyVA profile email as an alternative
-- **How you'll recruit the right production test users:** TBD
-- **How you'll conduct the testing:** Testing will be conducted in the VA.gov production environment using test accounts and through unit testing.
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The experience will be hidden behind a feature flag. We'll give test accounts access to this feature by adding their email addresses to a list of users who can see the new profile.
+- **How you'll conduct the testing:** Testing will be conducted in the VA.gov staging environment using test accounts and through unit testing.
 
 [UAT Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/79d2a7cef66e87523f2433e585f4c55236e3f002/products/pension/UAT%20Plan-527EZ%20abd%20530%20Temp%20Deactivation.md)
 
-### Additional notes on UAT
-
-
-#### Design UAT notes
-- ??? will put together the formal research plan and script for UAT.
-- ??? will also conduct these session.
-
-#### Frontend UAT notes
-- Sean Midgley will be responsible for launching the new profile to production behind a feature flag and giving participants access to the feature.
-- They will attend UAT and be responsible for any frontend bugs/fixes.
-
-#### Backend UAT notes
-- The new pension and burial form review page did not require any backend work, as it was primarily a frontend redesign. However, should any backend issues come up, we will be available to fix them before we move into a phased launch.
 
 ### Results:
 - **Bugs identified / fixed:**
@@ -46,11 +31,11 @@
 
 ### The Plan
 
-**Desired date range:** 9/25/23 through 9/29/2023
+**Desired date range:** 9/25/23 through 9/29/2023 (Target deactivation date is a Wednesday based on analytics included below.)
 
 **How will you make the product available in production while limiting the number of users who can access it?** 
 
-We will launch the deativation behind a feature flags for burial and pension and and control what % of users see it using Flipper. 
+The changes will be lauched to 100% of users right away to limit issues with multiple deactivation dates and allow the email notificaiton to quickly follow deactivation.
 
 - Day 1: Launch review pages behind a feature flag. Test with team. (1 day)
 - Day 1: If things go well, we'll launch to 100% of users with in-progress forms. (1 day)
@@ -75,7 +60,7 @@ We will launch the deativation behind a feature flags for burial and pension and
 ## Go Live!
 
 ### Planning:
-- Desired date: September 15, 2023
+- Desired date: September 27, 2023
 - Actual date: 
 
 ### 1-week results:
