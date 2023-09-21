@@ -30,15 +30,15 @@ If a user updates their Home address and it does not match their Mailing address
 - After closing the modal, success alert will display in the relevant sections.
 - [Desktop mock-up, success modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/jgvoJ2z)
 - [Mobile mock-up, success modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/527MKkp)
-- [Desktop mock-up, success alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/L02Y9j3)
-- [Mobile mock-up, success alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/oYO1LOj)
+- [Desktop mock-up, success alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/zx2qQ2e)
+- [Mobile mock-up, success alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/uuid/317C166F-E508-4490-97EF-EC4FA902748A)
 
 ### Save error
 - If the mailing address update can’t be completed, , they’ll see an error message with a close button.
 - After closing the modal, error alert will display in the mailing address section.
 - [Desktop mock-up, error modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/kaZqpZo)
 - [Mobile mock-up, error modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/VrAWEG8)
-- [Desktop mock-up, error alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/Omrvwym)
+- [Desktop mock-up, error alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/1KEOeG8)
 - [Mobile mock-up, error alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/EL7DyKd)
 
 
