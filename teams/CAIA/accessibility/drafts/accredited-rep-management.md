@@ -54,6 +54,11 @@ What happens if the person says NO to authorization? I don’t see anything in t
 ### Step 5 of 6: Authorization for Address Change
 What happens if the person says NO to authorization? I don’t see anything in the flow for that case.
 
+### Step 6 of 6: Review & Submit
+Some cognitive confusion in the title of this page. You aren't "submitting" this form, you're filling it out and generating a filled paper copy. "Submit" implies that they'll be done once they hit that "submit" button.
+
+Maybe the title should be "Review & complete form", and the "submit" button should just say "Next"?
+
 ### Form Ready for Download
 The “Download your completed form” button should be a link and [look like this](https://design.va.gov/components/link/#download)
 
