@@ -1,6 +1,6 @@
 # Claim Statuses in BTSSS for Submitted Claims
 
-Created: September 21, 2023 
+Created: September 21, 2023 <br/>
 Information provided by: Daryl Richardson, BT Management <br/><br/>
 
 | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
