@@ -61,6 +61,7 @@ Expiration date: **06/30/2024**
 
 [button secondary] Privacy Act statement (_popup_)
 
+
 [component form need help, health care] 
 
 [h2] Need help?
@@ -106,10 +107,26 @@ You can also call your VA medical center (find a VA location tool) to get help c
 [END ul]
 
 
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
-[button pair] [<< Back] [Continue >>]
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
 
 ------------------------------------------------------------------------------
 ## Step 1 Veteran Information - Mailing address
@@ -120,15 +137,21 @@ You can also call your VA medical center (find a VA location tool) to get help c
 #### URL: /health-care/----/veteran-information/veteran-address
 
 [component progress bar]
-[h2] Step 1 of 6: Veteran Information
-[p] We’ll save your application on every change.
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 1 of 4: Veteran Information
 [end progress bar]
 
 [prefill alert] [p] We've prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below. [END prefill alert]
 
 [H3] Mailing address
 
-[p] We’ll send any important information about your application to this address. Any updates you make here to your address will apply only to this application.
+[p] We’ll send any important information about your application to this address.
+
+[component checkbox] I live on a U.S. military base outside of the United States.
+
+[Additional info component] Learn more about military base addresses.
+[ul] [p]The United States is automatically chosen as your country if you live on a military base outside of the country. [END ul]
 
 [component select label] Country(*Required)
 
@@ -152,7 +175,43 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 [Yes = continue goes to contact information, No = home address]
 
+
+
+[finish later back-continue component]
+
 [button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+
+------------------------------------------------------------------------------
+## Step 1 Veteran Information - Mailing address (US Military Base address checked)
+------------------------------------------------------------------------------
+
+### Page: Mailing address - AUTHENTICATED View
+
+#### URL: /health-care/----/veteran-information/veteran-address
+
+
+
+
+
+
+
 
 
 --- 
@@ -182,6 +241,9 @@ You can also call your VA medical center (find a VA location tool) to get help c
 [component select label] State(*Required)
 
 [component text input label] Postal code(*Required)
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
 [button pair] [<< Back] [Continue >>]
 
