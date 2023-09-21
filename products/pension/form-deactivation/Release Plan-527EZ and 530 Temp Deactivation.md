@@ -8,15 +8,15 @@
 ## Phase I: UAT
 
 ### Planning:
-- **Date range or test duration** Estimated: 9/11 - 9/15
+- **Date range or test duration** Estimated: 9/25 - 9/27
 - **Desired number of users:**
-   - 1 test user with an in-progress claim
-   - 1 test user without an in-progress claim
+   - 1 test user with an in-progress claim (authenticated and non-authenticated)
+   - 1 test user without an in-progress claim (authenticated and non-authenticated)
    - 1 test user with an email address within their claim
    - 1 test user without an email address on their claim but a MyVA profile email as an alternative
 - **How you'll recruit the right production test users:** TBD
 - **How you'll conduct the testing:** Testing will be conducted in the VA.gov production environment using test accounts and through unit testing.
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have the new profile launched to production but hidden behind a feature flag. We'll give test accounts access to this feature by adding their email addresses to a list of users who can see the new profile.
+- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The experience will be hidden behind a feature flag. We'll give test accounts access to this feature by adding their email addresses to a list of users who can see the new profile.
 
 [UAT Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/79d2a7cef66e87523f2433e585f4c55236e3f002/products/pension/UAT%20Plan-527EZ%20abd%20530%20Temp%20Deactivation.md)
 
@@ -46,25 +46,25 @@
 
 ### The Plan
 
-**Desired date range:** 9/15/23
+**Desired date range:** 9/25/23 through 9/29/2023
 
 **How will you make the product available in production while limiting the number of users who can access it?** 
 
 We will launch the deativation behind a feature flags for burial and pension and and control what % of users see it using Flipper. 
 
-- Launch review pages behind a feature flag. Test with team. (1 day)
-- If things go well, we'll launch to 100% of users with in-progress forms. (1 day)
-- CAIA releases updates to "how to apply" page
-- CAIA deactivates form entry points and implements redirects to "how to apply page"
-- Email notification to users with in-progerss forms is triggered
+- Day 1: Launch review pages behind a feature flag. Test with team. (1 day)
+- Day 1: If things go well, we'll launch to 100% of users with in-progress forms. (1 day)
+- Day 1 or 2: CAIA releases updates to "how to apply" page (1 day)
+- Day 1 or 2: CAIA deactivates form entry points and implements redirects to "how to apply page" (1 day)
+- Day 2: Email notification to users with in-progerss forms is triggered (1 day)
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:** 
 
-- Opened emails
-- Email click-throughs
-- Form PDF downloads
-- Page visits
-- Error counts
+- Volume of form use by day of week -- Target deactivation date is Wednesday.
+   - Pension
+   - ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/134541644/215eeb37-0b21-4fb1-afef-d0d153ce224f)
+   - Burial
+   - ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/134541644/bd96fd1f-41c5-4bdf-bffd-12a7d017ba1e)
 
 ## Go Live!
 
@@ -73,10 +73,18 @@ We will launch the deativation behind a feature flags for burial and pension and
 - Actual date: 
 
 ### 1-week results:
-
+- Opened emails
+- Email click-throughs
+- Form PDF downloads
+- Page visits
+- Error counts
 
 ### 1-month results:
-
+- Opened emails
+- Email click-throughs
+- Form PDF downloads
+- Page visits
+- Error counts
 
 ## Post-launch Questions 
 
