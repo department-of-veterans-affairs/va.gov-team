@@ -75,10 +75,6 @@ Let’s begin.
 
 When you’re on VA.gov, share your screen so I can see what you see.
 
-If needed: 
-[add zoom help?]
-[additional help text around logging in – example?]
-
 ### Task #2: Navigate to the Profile hub
 
 **Now that you’re logged on…**
@@ -97,8 +93,6 @@ If needed:
 
 *Once on Profile hub*
 
-{pause here to ask for a participant’s first impression of hub? good to get initial impression, but feels artificial and may cause someone to look more closely than they otherwise would, effecting time on task for subsequent tasks}
-
 Next, I’d like to ask you some questions that involve imaginary scenarios – situations where I will ask you to pretend you need to update something in your profile, but I won’t ask you to actually change anything. 
 
 ### Task #3: Locate Contact information on hub page
@@ -116,7 +110,7 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 
 ### Task #4: Switch to Direct deposit section
 
-*(4) Primary prompt:* **Let’s pretend you just switched banks, and you need to update where get your payments from VA. Where would you go to do that on this website?**
+*(4) Primary prompt:* **Let’s pretend you just switched banks, and you need to update information so you can still get your VA payment. How would you go to do that on this website?**
 
 - *(4a) Backup prompt (if already covered) – Notification settings:* Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
 	- Is there anything you’d like to change or update here?
@@ -181,6 +175,8 @@ If needed:
 - Where would you expect to be able to list your Emergency Contact and Next of Kin in your Profile?
 - How would you expect VA to use this information? 
 - Do you have health benefits?
+- If this information was only used for health care and not other benefits, how would you expect that information to be handled?
+	- Would you expect NoK/EC to be handled differently or in a different location?
 
 {Include a disclaimer that right now NOK/EC is only for healthcare?}
 
