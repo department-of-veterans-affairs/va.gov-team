@@ -56,13 +56,14 @@ The existing sidenav component is not fully supported by the Design System, and 
 * A common pattern revealed by the competitive analysis was that many sites do this in the header, allowing navigation components to be more lightweight.
 
 ### Problem 8: Outstanding accessibility issues with these components
-#### secondary nav menu being sticky:
-Ticket [#22824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22824)
-Ticket [#19779](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19779)
-Ticket [#19784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19784)
-#### focus management
-Ticket [#22826](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22826)
 
+#### Secondary nav menu being sticky:
+* Ticket [#22824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22824)
+* Ticket [#19779](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19779)
+* Ticket [#19784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19784)
+
+#### Focus management
+* Ticket [#22826](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22826)
 
 
 ## Needs for health portal secondary navigation
