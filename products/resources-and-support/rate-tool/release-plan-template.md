@@ -1,254 +1,134 @@
+# Research Plan for Veterans Support Team, Resources and Support, Rate your experience feedback mechanism.
 
-<!-- markdownlint-disable MD024 -->
-# Release Plan Template
+## Background
+Resources and support (R&S) contains tier 2 content (benefit-adjacent content). The Rate your experience feedback mechanism was introduced to R&S article pages with the option to rate articles as either good or bad. As a part of the Rate your experience product initiative, once a user rates an article as 'bad', we would like to implement a way for users to report the reason why they rated the page poorly. We would also like these issues to be actionable and easily accessible for the content owners so that improvements can be easily made.
 
-So! You're thinking about how you want to launch your product. You know you'll perform usability testing and QA the heck out of it in staging, both critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do.
+We would like to make improvements to the layout of R&S article pages. 
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/article-pages/discovery.md">Discovery: Resources and Support Article Pages</a>
 
-So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how Veterans will actually use it, and what problems it actually might have or create, and then fix/adjust before going live to millions of VA.gov users?**
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/issues/32746#issuecomment-970466533">Resources and Support Roadmap Session Summary</a>
 
-Though issues in production happen, follow this template to minimize the chances and the effects of production issues.
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research">Learning Center Original Research Folder</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">Learning Center Moderated Usability Study</a>
 
-## When to use this release plan
+[See product brief ](https://app.zenhub.com/workspaces/contact-center-62cdd9546ec1530018209672/issues/gh/department-of-veterans-affairs/va.gov-team/65148)
 
-If you answer yes to any of the questions below, you'll need to create a release plan using this template.
+### OCTO Objectives 
+Improving Resources and Support will allow Veterans and those in their support system to find information on utilizing their VA.gov account, gaining supplemental information on benefits, and easily find links to apply for benefits or make changes to their account.
 
-- Does the feature you are working on moderately or significantly affect the Veteran experience of the product?
-- Does the feature you are working on change the structure of the underlying data?
-- Does the feature's backend or downstream interactions change?
-- Is this a brand new experience for a Veteran?
+### Veteran Journey
+Resources and support impacts the Veteran journey from Starting up and all phases thereafter.
 
-The team should develop this plan in parallel with the development of the feature your team is creating.
+## Research Goals and Questions	
 
-## How to use this release plan
+### 1. Validate that users are able to easily use the Rate Feedback mechanism to provide feedback on the article pages and report an appropriate problem.
+- Are users able to find where they can rate and report feedback?
+- What do users expect to see after they submit feedback?
+- In what situation would a user rate this page? Why would they rate it 'good', why would they rate it 'bad'?
+- Does the wording make sense? If not, what should it say?
+- Do the options under "How would you rate your experience' make sense to users?
+- What other types of problems would they expect to report?
+- What do users think about the amount of issues presented to them? Is the amount overwhelming?
+- What are their perceptions on the difference between this feedback tool and Medallia?
+- **Content creator question:** 
+	- What type of feedback is helpful and actionable to them?
+	- How can we make this feedback more accessible to them?
 
-1. Create a release plan using this template in your feature documentation. Optionally, remove the extra text from the template.
-2. Fill out all the details below.
-3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
+### 2. Are users able to easily navigate and discover the rate your experience feedback mechanism on the article pages?
+- Do users utilize rate your experience feedback mechanism on the article pages?
+- Do users utilize the feedback button near the footer on the article pages?
 
----
 
-## Step 1: Development
+### 3. Is the question "How would you rate your experience" a helpful title that tells users what they will find?
+- What do users think of the title, "How would you rate your experience"?
+- If users do not feel like "How would you rate your experience" reflects what they find on the section, what else would they name it?
 
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
 
-List the features toggles here.
+### Outcome
+We will confirm whether:
+- Updates allow users to provide feedback which will inform content editors on changes that can be made to improve R&S articles
+- Updates to R&S article pages improve navigation and discoverability of more R&S articles
+- The name "Resources and support" accurately informs users of what content they will find
 
-| Toggle name | Description |
-| ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
 
-## Step 2: Validation
+### Hypothesis
 
-Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed that day. 
+- Users will not know the purpose of the rate your experience feedback mechanism, 
+- The good/bad buttons that are currently used to track feedback, are not helpful as the data is recorded in Google Analytics. 
+- Users will be more likely to use the feedback button near the footer to leave feedback on the Article page 
 
-Before enabling your feature toggle in production, you'll need to:
+## Method	
+We'll conduct remote usability testing over Zoom using a prototype.
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+### Location
+Zoom
 
-## Step 3: Production rollout
+### Research materials
 
-### Do I need a staged rollout?
+For moderated usability tests: 
+- [Link to conversation guide](https://app.zenhub.com/workspaces/contact-center-62cdd9546ec1530018209672/issues/gh/department-of-veterans-affairs/va.gov-team/65148)
+- [Link to prototype](https://sketch.com/s/dbc369e6-21ae-4717-a169-a5e734934f93)
 
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
+	
+## Recruitment	
 
-- This change does not add substantial new functionality to VA.gov
-- This change does not impact user flows through tasks
-- This change does not affect traffic to backend services
+### Recruitment approach
+We will recruit Veteran participants using a lean maximum variation strategy. We'll leverage Perigean's recruiting services to find our participants.
 
-*Example*: a change to a page's text content **could skip** staged rollout
+### Recruitment criteria
+Schedule 10 Veterans for a minimum of 8 successfully completed sessions.
 
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
+**Primary criteria (must-haves)**
 
-*Example*: adding a new field to an existing form **could skip** staged rollout
+- 50% of participants should be able to participant from a desktop device.
 
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
+- 50% of participants should be able to participate from a mobile phone.
 
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
 
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
 
-#### Exceptions
+**Secondary criteria (nice-to-haves)**
 
-Currently, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
+**Gender**
+- 8 women, 8 men
 
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
+**Inclusion**
+- 3 participants who use assistive technology (e.g. screen reader, magnification)
+- 10 participants who identify as other than white
+- 5 participants who identify as other than straight/heterosexual and cisgender
+- 8 participants age 55+
+- 8 participants who identify as having a cognitive disability
+- 5 participants who do not have a college degree
+- 5 participants who live in a rural area
+
+## Timeline
+Completion of 8 successful research sessions between October 16 - October 23.
+Prepare
+•	Research team will organize pilot.
+## Research Sessions
+•	Planned dates of research: October 16 - October 23
+•	We would like to request that Perigean calls each participant to remind them about the session, in addition to emailing them. And please include the session time in each participant's own time zone (from a screener question).
+Length of Sessions
+•	Session Length:
+o	45 minutes non assistive technology users
+o	60 minutes assistive technology users
+•	Buffer time: 30 minutes between sessions.
+•	Maximum sessions per day: 3
+Availability:
+•	10/16: 12pm - 5pm ET
+•	10/17: 12pm - 5pm ET
+•	10/18: 12pm - 5pm ET
+•	10/19: 12pm - 5pm ET
+•	10/20: 12pm - 5pm ET
+•	10/23: 12pm - 5pm ET
+
+
+## Team Roles	
+
+- Moderator: Camille Green ,404-428-2313,Camille.green@oddball.io
+- Research guide writing and task development: Camille Green
+- Participant recruiting & screening: Perigean	
+- Project point of contact: Camille Green
+- Participant(s) for pilot test: TBD	
+- Note-takers: Perigean, Aubrey Archangel, Sarifa Khalilullah 
+- Observers: chante.lantosswett@va.gov,anita.middleton@oddball.io
 
-DEPO VSP / OCTO leads can approve other exceptions to this requirement.
-
-### Define the Rollback process
-
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
-
-> Example
->
-> - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
-
-[FILL_IN]: create your rollback plan
-
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-
-#### Planning
-
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
-
-#### Results
-
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
-
-### Phase II: Staged Rollout (also known as unmoderated production testing)
-
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
-
-#### Rollout Planning
-
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
-
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
-
-### Stage A: Canary
-
-*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage B: 25% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage C: 50% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage D: 75% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage E: 100% of users
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-## Post Launch metrics
-
-Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal.
-
-### 1-week results
-
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
-- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN]
-
-### 1-month results
-
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
-- Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN]
-
-## Post-launch Questions
-
-*To be completed once you have gathered your initial set of data, as outlined above.*
-
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-1. What qualitative feedback have you gathered from users or other stakeholders?
-1. Which assumptions you listed in your product outline were/were not validated?
-1. How might your product evolve now or in the future based on these results?
-1. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
