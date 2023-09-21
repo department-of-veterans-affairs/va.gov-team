@@ -13,17 +13,8 @@ Document discovery and ideation around KPIs for enhancing our 526 health monitor
 
 This document outlines suggestions that could be applied to each of these KPIs and their logging.
 
-## UPDATE:
 
-much of this logging can be done using our APM http monitors.  There is a good chance that we will not need to rely on these logs, as the AMP metrics are superior in their extremely narrow focus on these http calls.  The logs will still be valuable for debugging context, should something go wrong later.
-
-[Here is an example of such an APM http metric](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api-net-http%20%40http.url%3A%2FVONAPP2%2Fwss-form526-services-web-v2%2Frest%2Fform526%2Fv2%2Fsubmit%20&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&graphType=flamegraph&historicalData=true&messageDisplay=inline&query_translation_version=v0&shouldShowLegend=true&sort=time&spanType=service-entry&spanViewType=metadata&start=1695224015297&end=1695310415297&paused=false)_
-
-# New Version
-
-We are going to wrap every call to an external API inside 526 in an alert for completion percentage.
-
-#### Services
+## Services that make API calls
 - [EVSS::DisabilityCompensationForm::SubmitForm526AllClaim](https://vagov.ddog-gov.com/monitors/160278) submission success rate
 - [EVSS::DisabilityCompensationForm::SubmitUploads](https://vagov.ddog-gov.com/monitors/160279) submission success rate
 - [EVSS::DisabilityCompensationForm::UploadBddInstructions](https://vagov.ddog-gov.com/monitors/160280) run success rate (sems flat, probably ok to remove)
@@ -36,43 +27,18 @@ We are going to wrap every call to an external API inside 526 in an alert for co
 - Percentage of complete failures (both normal and backup)
   - TODO
 
-#### URLS
-- /VONAPP2/wss-form526-services-web-v2/rest/form526/v2/ratedDisabilities
+### Bonus calls we can track
 
-
-# Old version (Logging Based)
-
-All of this is here for posterity, and some of it still applies.  however, consider everything above this section the more correct information.
-
-### Affected Actions
-
-Of the aforementioned KPIs, these are the Class#methods wrapped in logging that would be the most vauable to alert on are the Form 526 Submission sub-actions (3PIs)
-- Form526Submission#submit_uploads
-  - [DONE: completion monitor](https://vagov.ddog-gov.com/monitors/159640)
-    - TODO: update this.  it will not currently work as the rescue clause in the logging wrapper ensures the completion logger will always run
-- Form526Submission#submit_form_0781
-- Form526Submission#submit_form_8940
-- Form526Submission#upload_bdd_instructions
-- Form526Submission#submit_flashes
-- Form526Submission#cleanup
-
-Here is each 3PI's completion log charged:
-
-
-<img width="682" alt="Screenshot 2023-09-12 at 2 08 15 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/0528cfdb-275f-4906-98c7-b9a04bd1f9c5">
-
-
-Additionaly, before final submission it would make sense to monitor these currently logged actions:
 - EVSS::DocumentUpload#pull_file_from_cloud!
 - EVSS::DocumentUpload#perform_document_upload_to_evss
 - EVSS::DisabilityCompensationForm#submit_complete_form
 - V0::UploadSupportingEvidencesController#save_attachment_to_cloud!
 
-
-
 ## Proposals
 
 ### Completion options
+
+**UPDATE:** instead of using `*.end_time` and `*.start_time`, we are now using the more specific and technically correct `*.try` and `*.success` logs.  This is because our `end_time` log will ALWAYS RUN due to a catch and reraise block in the logging wrapper
 
 #### 1. The "stared but didn't stop" check
 
