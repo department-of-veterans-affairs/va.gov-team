@@ -7,6 +7,7 @@ Agenda
 - Moving forward on small research topics from Shannon (What's the plan and can we collaborate)
 - Sprint Updates Team 1 & 2
 - What is Team 2 working on language wise? Condition and disability, but also claim and application?
+- Sitemap walkthrough?
 
 ## 9/13/23
 Attendees: Kate, Julie, Nichole, Lydia, Evelyn, and Rakshinda
