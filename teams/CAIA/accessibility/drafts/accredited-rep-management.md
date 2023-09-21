@@ -29,6 +29,8 @@ IN PROGRESS
 Phone numbers in “Need help?” section (at the bottom of most screens) need to be linked (see examples in https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
 
 ### Find a local representative
+There's no mockup for after someone logs in and their current representative is on screen. Not sure what that'll look like.
+
 Two things for "Select your representative type:"
 - They're styled as checkboxes currently, and I'm not sure if they should be? Should a user be able to select more than 1 answer here?
 - Tooltips are tricky to make accessible. You should do the following with the tooltips:
