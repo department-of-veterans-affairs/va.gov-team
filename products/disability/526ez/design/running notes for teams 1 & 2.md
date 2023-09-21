@@ -11,9 +11,39 @@ Agenda
 
 Notes:
 - Moving forward on small research topics from Shannon (What's the plan and can we collaborate)
-  -Team 2 was excited about the shadowing research because we would have a level of interaction and be able to spend longer sessions with Veterans.  Worried about whether this will help us prioritize our backlog
+- Team 2 was excited about the shadowing research because we would have a level of interaction and be able to spend longer sessions with Veterans.  Worried about whether this will help us prioritize our backlog
 - 4142 feels like an emerging priority for Team 2
-Team 1
+- Team 1
+- 4142 seems like it's a good place to move through the Collaborative Cycle. Likes the idea of doing the shadow research and working together more tightly
+- Other research topics mentioned by Shannon
+- ITF
+- Form Abandonment and Evidence (Shadowing)
+- Team 1 wants to collaborate on shadowing.  
+- Sounds like we have the go head to work as a unit on research 
+- Julie has started to draft the research plan.  Could we do multiple things at once 
+- Team 1 is working on TE and intro pages for design
+- Medailla survey could take about a week
+- Team 1 and 2 (Julie, Everyln, and Nichole) will work on the Research Plan for Shadowing
+- Team 1 meeting with Shannon on 4142 on Friday to get clarity on how to move forward, wireframe, and research and how it relates to other forms.
+- News on reprioritization: There will be a few sprints before it happens or it will happen in November
+- Is there some research that can help inform prioritization because the conversation may lead to passion projects and tech debt
+- Shadowing and Medallia Survey Data to help us prioritization
+- Start with the summary pages and the review and submit page because those might be times when the Veteran is thinking retrospectively 
+- Could also take a smaller chunk of time to look at the survey
+- Not sure if we can do deep on shadowing data
+- Leslie/ Employee Experience was working on shadowing.  Caroline Due was the one who responded
+- Lydia wants to do a Sitemap recording.  
+- Need more time to chat before we talk to Shannon
+
+To Do
+- Team 1: Get more insight for the Employee Experience team about shadowing (if they have done it, where is the research, etc)
+- Team 2: Draft research plan for Shadowing 
+- Find a meeting time to determine our next step as a team
+
+
+
+
+
 
 
 
