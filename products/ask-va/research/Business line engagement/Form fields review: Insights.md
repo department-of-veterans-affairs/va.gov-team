@@ -42,7 +42,7 @@ We are proposing to remove some fields from the Ask VA form. As part of this pro
   - Survivor Benefits
   - DEERS
   - Technical issues
-> **Takeaway: However, we need to confirm whether the Women Veterans business line requires this (for their category and/or for all categories).**
+> **Takeaway: Confirm whether the Women Veterans business line requires this (for their category and/or for all categories).**
 
 ---
 
