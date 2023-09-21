@@ -13,7 +13,7 @@ Pages listed below **10-10EZ PLACEHOLDER, need to update to EZR**
 
 ### Page: Introduction
 
-#### URL: /health-care/apply/application/introduction
+#### URL: /health-care/-----/introduction
 
 
 [h1] Update your VA health benefits information 
@@ -34,24 +34,22 @@ Pages listed below **10-10EZ PLACEHOLDER, need to update to EZR**
 
 We'll use this information to determine if you'll need to pay a copay for non-service-connected care or prescription medicines. We'll also determine if you're eligible for travel pay reimbursement.
 
-[end ul]
+You can also update this information:
 
-[p] [bold] **You can also update this information:**
-
-[ul]
-
-- Your phone number, email address, or mailing address
-- Insurance information for all health insurance companies that cover you. This includes any coverage that you get through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer.
+- [b] **Your personal information.** This includes your phone number, email address, and mailing address.
+- [b] **Insurance information for all health insurance companies that cover you.** This includes coverage that you get through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer.
 
 [END ul]
 
 [component alert info]
 
-[p] **Note:**  Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.
+[p] [b] **Sign in to update your information online**  
+- We can fill in some of your information for you to save you time.
+- You can save your work in process. You’ll have 60 days from when you start or make updates to your form to come back and finish it.
+
+[button primary] Sign in to start your form
 
 [END component alert info]
-
-[button primary] Start your health benefits update form
 
 [component OMB info]
 
@@ -66,156 +64,69 @@ Expiration date: **06/30/2024**
 [component form need help, health care] 
 
 [h2] Need help?
-[p] **If you have trouble using this online application,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
 
-**If you need help to gather your information or fill out your application/form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
 
 **If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 [END component form need help, health care] 
 
 ------------------------------------------------------------------------------
-## Step 1 Veteran Information
+## Step 1 Veteran Information - profile information
 ------------------------------------------------------------------------------
 
 
-### Page: Personal Information - Unauthenticated View
+### Page: Personal Information - Authenticated View
 
-#### URL: /health-care/apply/application/veteran-information/profile-information
+#### URL: /health-care/----/veteran-information/profile-information
 
 [component progress bar]
-[h2] Step 1 of 6: Veteran Information
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 1 of 4: Veteran Information
 [end progress bar]
+
 
 [p] Confirm your information before you continue.
 
-[read only block]
+[read only block component]
 - [p bold] Name
 - Social Security number: xxx-xx-{last 4 of SSN}
-- Date of Birth: Month day, year
+- Date of Birth: Month, day, year
+- Gender: Male/Female
 
+[END read only block component]
+  
+[ul]
+[p] **Note:** If you need to update your personal information, call our VA benefits hotline at 800-827-1000 (TTY: 711), Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
+You can also call your VA medical center (find a VA location tool) to get help changing your name on file with VA. Ask for the eligibility department.
+
+[END ul]
+
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
 [button pair] [<< Back] [Continue >>]
 
+------------------------------------------------------------------------------
+## Step 1 Veteran Information - Mailing address
+------------------------------------------------------------------------------
 
-### Page: Veteran's Profile - AUTHENTICATED View
+### Page: Mailing address - AUTHENTICATED View
+
+#### URL: /health-care/----/veteran-information/veteran-address
 
 [component progress bar]
 [h2] Step 1 of 6: Veteran Information
 [p] We’ll save your application on every change.
 [end progress bar]
 
+[prefill alert] [p] We've prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below. [END prefill alert]
 
-[p] This is the personal information we have on file for you.
-
-[read only block]
-- [p bold] Name
-- Social Security number: xxx-xx-{last 4 of SSN}
-- Date of Birth: Month day, year
-
-[p][bold]Note:[end bold] If you need to update your personal information, call our VA benefits hotline at 800-827-1000 (TTY: 711), Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
-[p] You can also call your VA medical center (find a VA location tool) to get help changing your name on file with VA. Ask for the eligibility department.
-
-
-
-[button pair] [<< Back] [Continue >>]
-
-
-
----
-
-### Page: Place of birth
-
-#### URL: /health-care/apply/application/veteran-information/birth-information
-
-[component progress bar]
-[h2] Step 1 of 6: Veteran Information
-[end progress bar]
-
-[fieldset legend title] Your place of birth
-[p] Enter your place of birth, including city and state, province or region.
-
-[component additional info]
-[label] Why we ask for this information
-[content]
-[p] We ask for place of birth as an identity marker for record keeping. This will not impact your health care eligibility.
-
-[END component additional info]
-
-[component text input label] City
-
-[component select label] State/Province/Region
-
-[button pair] [<< Back] [Continue >>]
-
-
---- 
-### Page: Maiden name
-
-#### URL: /health-care/apply/application/veteran-information/maiden-name-information
-
-[component progress bar]
-[h2] Step 1 of 6: Veteran Information
-[end progress bar]
-
-[component text input label] Mother’s maiden name
-
-[button pair] [<< Back] [Continue >>]
-
---- 
-### Page: Birth sex
-
-#### URL: /health-care/apply/application/veteran-information/birth-sex
-
-[component progress bar]
-[h2] Step 1 of 6: Veteran Information
-[end progress bar]
-
-[component radio select label] What sex were you assigned at birth?(*Required)
-
-[select options: Female, Male]
-
-[button pair] [<< Back] [Continue >>]
-
-
----
-### Page: Demographics
-
-#### URL: /health-care/apply/application/veteran-information/demographic-information
-
-[component progress bar]
-[h2] Step 1 of 6: Veteran Information
-[end progress bar]
-
-[component checkboxes label] What is your race, ethnicity, or origin? (Please check all that apply.)
-
-[hint text] Information is gathered for statistical purposes only.
-
-[checkbox options]
-- American Indian or Alaskan Native
-- Asian
-- Black or African American
-- Hispanic, Latino, or Spanish
-- Native Hawaiian or Other Pacific Islander
-- White
-- Prefer not to answer
-
-[button pair] [<< Back] [Continue >>]
-
-
-
----
-
-### Page: Mailing address
-
-#### URL: /health-care/apply/application/veteran-information/veteran-address
-
-
-[component progress bar]
-[h2] Step 1 of 6: Veteran Information
-[end progress bar]
-
-[fieldset legend title] Mailing address
+[H3] Mailing address
 
 [p] We’ll send any important information about your application to this address. Any updates you make here to your address will apply only to this application.
 
