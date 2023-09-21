@@ -28,6 +28,22 @@ We are proposing to remove some fields from the Ask VA form. As part of this pro
 
 > **Takeaway: _Or_ gather more comprehensive feedback from business lines before we recommend removal.**
 
+### Gender
+- We did not review this field with all business lines. But of the business lines, we asked, none explicitly need to know gender.
+- This includes:
+  - Health care
+  - Pension
+  - Fiduciary
+  - Compensation
+  - VR&E
+  - Housing
+  - VBA-ART
+  - Burials and Memorials
+  - Survivor Benefits
+  - DEERS
+  - Technical issues
+> **Takeaway: However, we need to confirm whether the Women Veterans business line requires this (for their category and/or for all categories).**
+
 ---
 
 Note: There is raw data and more detail [in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695240274364/2cf06cfdc9c4e2e154d97f44223b25ece7840a4c?wid=22-1695242707546).
