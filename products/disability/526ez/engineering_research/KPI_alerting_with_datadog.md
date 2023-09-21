@@ -1,10 +1,5 @@
 # KPI alerting with datadog
 
-## UPDATE:
-
-much of this logging can be done using our APM http monitors.  There is a good chance that we will not need to rely on these logs, as the AMP metrics are superior in their extremely narrow focus on these http calls.  The logs will still be valuable for debugging context, should something go wrong later.
-
-[Here is an example of such an APM http metric](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api-net-http%20%40http.url%3A%2FVONAPP2%2Fwss-form526-services-web-v2%2Frest%2Fform526%2Fv2%2Fsubmit%20&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&graphType=flamegraph&historicalData=true&messageDisplay=inline&query_translation_version=v0&shouldShowLegend=true&sort=time&spanType=service-entry&spanViewType=metadata&start=1695224015297&end=1695310415297&paused=false)_
 
 ## Purpose
 
@@ -18,11 +13,41 @@ Document discovery and ideation around KPIs for enhancing our 526 health monitor
 
 This document outlines suggestions that could be applied to each of these KPIs and their logging.
 
+## UPDATE:
+
+much of this logging can be done using our APM http monitors.  There is a good chance that we will not need to rely on these logs, as the AMP metrics are superior in their extremely narrow focus on these http calls.  The logs will still be valuable for debugging context, should something go wrong later.
+
+[Here is an example of such an APM http metric](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api-net-http%20%40http.url%3A%2FVONAPP2%2Fwss-form526-services-web-v2%2Frest%2Fform526%2Fv2%2Fsubmit%20&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&graphType=flamegraph&historicalData=true&messageDisplay=inline&query_translation_version=v0&shouldShowLegend=true&sort=time&spanType=service-entry&spanViewType=metadata&start=1695224015297&end=1695310415297&paused=false)_
+
+# New Version
+
+We are going to wrap every call to an external API inside 526 in an alert for completion percentage.
+
+#### Services
+- [EVSS::DisabilityCompensationForm::SubmitForm526AllClaim](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20service%3Avets-api-sidekiq%20resource_name%3A%22EVSS%3A%3ADisabilityCompensationForm%3A%3ASubmitForm526AllClaim%22&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&graphType=flamegraph&historicalData=false&messageDisplay=inline&query_translation_version=v0&shouldShowLegend=true&sort=time&spanID=1791546065952901402&spanType=service-entry&spanViewType=metadata&timeHint=1695326331445&trace=21735948997749732733955759380469362079&traceID=2173594899774973273&start=1695325450910&end=1695326350910&paused=false)
+- [EVSS::DisabilityCompensationForm::SubmitUploads](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20service%3Avets-api-sidekiq%20resource_name%3A%22EVSS%3A%3ADisabilityCompensationForm%3A%3ASubmitUploads%22&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&graphType=flamegraph&historicalData=false&messageDisplay=inline&netviz=sent_vol%3A%3A%2Ctcp_r_pct%3A%3A%2Crtt%3A%3A&query_translation_version=v0&shouldShowLegend=true&sort=time&spanID=4573667175093202738&spanType=service-entry&spanViewType=metadata&timeHint=1695326372600&trace=32945782089482382383390664279735256267&traceID=3294578208948238238&start=1695325630909&end=1695326530909&paused=false)
+- [EVSS::DisabilityCompensationForm::UploadBddInstructions](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api-sidekiq%20resource_name%3A%2AUploadBddInstructions%2A&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&graphType=flamegraph&historicalData=true&messageDisplay=inline&query_translation_version=v0&shouldShowLegend=true&sort=time&spanID=3122318481817664512&spanType=service-entry&spanViewType=metadata&timeHint=1695328541454&trace=AgAAAYq5dJsOLP2crwAAAAAAAAAYAAAAAEFZcTVkS0tXQUFBdnExOXlKSjVjeHhRXwAAACQAAAAAMDE4YWI5NzYtNzY2ZC00YWZlLWIxZTUtMWYxZmI2YzE2NGU2&traceID=4545283713099860807&start=1694120002231&end=1695329602231&paused=false)
+- [CentralMail::SubmitForm4142Job](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api-sidekiq%20resource_name%3A%2ASubmitForm4142Job%2A&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&graphType=flamegraph&historicalData=true&messageDisplay=inline&query_translation_version=v0&shouldShowLegend=true&sort=time&spanID=4307896737575819045&spanType=service-entry&spanViewType=metadata&timeHint=1695329407284&trace=AgAAAYq5gdE0U6QJegAAAAAAAAAYAAAAAEFZcTVnZDVHQUFCU3pmcExWOUhxUDFrMgAAACQAAAAAMDE4YWI5ODQtYTg0MS00OTU1LWI0MGEtNmNjZjkzMDRiMmI4&traceID=3916368892844635930&start=1694120002231&end=1695329602231&paused=false)
+- [EVSS::DisabilityCompensationForm::SubmitForm0781](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api-sidekiq%20resource_name%3A%22EVSS%3A%3ADisabilityCompensationForm%3A%3ASubmitForm0781%22&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&graphType=flamegraph&historicalData=false&messageDisplay=inline&query_translation_version=v0&shouldShowLegend=true&sort=time&spanType=service-entry&spanViewType=metadata&start=1695327493379&end=1695328393379&paused=false)
+- EVSS::DisabilityCompensationForm::SubmitForm8940
+  - WTF isn't this shown at all in DD?  do we never run it?
+- [Sidekiq::Form526BackupSubmissionProcess::Submit](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api-net-http%20%40http.url%3A%2FVONAPP2%2Fwss-form526-services-web-v2%2Frest%2Fform526%2Fv2%2Fsubmit%20%40http.status_code%3A200&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&graphType=flamegraph&historicalData=false&messageDisplay=inline&query_translation_version=v0&shouldShowLegend=true&sort=time&spanID=2908977379013637359&spanType=service-entry&spanViewType=metadata&timeHint=1695328251388&trace=28451570105195143232908977379013637359&traceID=2845157010519514323&start=1695327434055&end=1695328334055&paused=false)
+  - /VONAPP2/wss-form526-services-web-v2/rest/form526/v2/submit
+
+#### URLS
+- /VONAPP2/wss-form526-services-web-v2/rest/form526/v2/ratedDisabilities
+
+
+# Old version (Logging Based)
+
+All of this is here for posterity, and some of it still applies.  however, consider everything above this section the more correct information.
+
 ### Affected Actions
 
 Of the aforementioned KPIs, these are the Class#methods wrapped in logging that would be the most vauable to alert on are the Form 526 Submission sub-actions (3PIs)
 - Form526Submission#submit_uploads
   - [DONE: completion monitor](https://vagov.ddog-gov.com/monitors/159640)
+    - TODO: update this.  it will not currently work as the rescue clause in the logging wrapper ensures the completion logger will always run
 - Form526Submission#submit_form_0781
 - Form526Submission#submit_form_8940
 - Form526Submission#upload_bdd_instructions
