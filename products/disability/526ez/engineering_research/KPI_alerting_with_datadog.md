@@ -1,5 +1,11 @@
 # KPI alerting with datadog
 
+## UPDATE:
+
+much of this logging can be done using our APM http monitors.  There is a good chance that we will not need to rely on these logs, as the AMP metrics are superior in their extremely narrow focus on these http calls.  The logs will still be valuable for debugging context, should something go wrong later.
+
+[Here is an example of such an APM http metric](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api-net-http%20%40http.url%3A%2FVONAPP2%2Fwss-form526-services-web-v2%2Frest%2Fform526%2Fv2%2Fsubmit%20&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&graphType=flamegraph&historicalData=true&messageDisplay=inline&query_translation_version=v0&shouldShowLegend=true&sort=time&spanType=service-entry&spanViewType=metadata&start=1695224015297&end=1695310415297&paused=false)_
+
 ## Purpose
 
 Document discovery and ideation around KPIs for enhancing our 526 health monitoring.
