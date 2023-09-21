@@ -91,26 +91,32 @@ The subject of this study is filtering options and capabilities--specifically, t
 - <i> "We'll let you know how you can share your screen with us as you proceed through the study." </i>
 
 **To open <b>chat</b> on mobile:**
-  1. Open Zoom
-  2. Join/start a meeting
-  3. Tap "Chat"
+<ol>
+  <li>Open Zoom</li>
+  <li>Join/start meeting</li>
+  <li>Tap "Chat"</li>
+</ol>
 <br>
-**To <b>screen share</b> on mobile:**
-  1. Open Zoom
-  2. Join/start a meeting
-  3. Tap "share: > Choose content to share > Tap "Share" 
-    - To stop: Tap "Stop share"
+**To open <b>screen share</b> on mobile:**
+<ol>
+  <li>Open Zoom</li>
+  <li>Join/start meeting</li>
+  <li>Tap "Share" > Choose content to share > " Tap "Share"</li>
+ </ol>
 <br> 
 **To <b>chat</b> on desktop:**
-  1. Launch Zoom
-  2. Join/start a meeting
-  3. Click "Chat"
+<ol>
+  <li>Launch Zoom</li>
+  <li>Join/start a meeting</li>
+  <li>Click "Chat"</li>
+</ol>
 <br>
 **To <b>screen share</b> on desktop:**
-  1. Open Zoom
-  2. Join/start a meeting
-  3. Click "Share: > Click content to share > Click "Share" 
-    - To stop: Click "Stop share"
+<ol>
+  <li>Open Zoom</li>
+  <li>Join/start meeting</li>
+  <li>Click "Share" > Click content to share > Click "Share"</li>
+</ol>
 
 ## Warm-up Questions - 3 minutes
 
