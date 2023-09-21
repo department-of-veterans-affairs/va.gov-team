@@ -26,9 +26,9 @@ Updates (decisions):
 Per our working document on [notification definitions and working principles ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/notifications/notification_definitions_and_ux_principles.md), the lightweight dot or badge notification design is a simple indicator that that intends to signal new or unread content in a relevant area on either MyVA or the MHV on VA.gov landing page. This design is being implemented for secure messages, but may not scale to all types of notifications, particularly those that require additional context to make sense (when a dot next to specific link text does not clearly express what the dot is referencing). 
 
 Possible future problems with scaling the lightweight dot notification to all appointment notifications: 
-    * The dot will not support appointment cancellations, which cannot clearly be linked to or indicated with simple link text on the existing MHV to VA.gov landing page. Additional context will be necessary to convey a cancelled appointment, and may need to include CTAs, such as next steps for the Veteran to reschedule the cancelled appointment.
-    * The dot will also not be able to support pending appointments for the same reason - this notification is less straightforward and will require content/context to make sense.
-    * With 3 types of notifications for appointments alone, is it confusing that each has a different notification type? Will users understand which notification type the dot is referencing? How will they tell the difference?
+* The dot will not support appointment cancellations, which cannot clearly be linked to or indicated with simple link text on the existing MHV to VA.gov landing page. Additional context will be necessary to convey a cancelled appointment, and may need to include CTAs, such as next steps for the Veteran to reschedule the cancelled appointment.
+* The dot will also not be able to support pending appointments for the same reason - this notification is less straightforward and will require content/context to make sense.
+* With 3 types of notifications for appointments alone, is it confusing that each has a different notification type? Will users understand which notification type the dot is referencing? How will they tell the difference?
 
 ### 1. Appointment reminders 
 ```Status: In Design Phase```
@@ -36,12 +36,13 @@ Possible future problems with scaling the lightweight dot notification to all ap
 #### UX analysis: 
 We believe that a reminder about an upcoming appointment is very similar to the current implementation of the dot notification to signal a new or unread secure message. This indicator next to specific link text such as "Upcoming Appointments" that indicates exactly what the dot references would be fairly intuitive, and users could likely follow the dot pattern down to that product to see their upcoming appointments. We also know that this notification is technically feasible to deliver to users.
 
-Ben Brasso: Also worth noting, the vast majority of Veterans, today, check in with an MSA at the clinic. Many Veterans arrive for their appts an hour or more ahead of time (either because that's what their provider instructed or because "it's an all day event," e.g., at least a few appts at the same facility).
+**Comments from appointments team members: **
+* Ben Brasso: Also worth noting, the vast majority of Veterans, today, check in with an MSA at the clinic. Many Veterans arrive for their appts an hour or more ahead of time (either because that's what their provider instructed or because "it's an all day event," e.g., at least a few appts at the same facility).
 
-Peter Russo: The day of would definitely be too late. A push notification the day before is a pretty common pattern outside of VA. Since this is more of a passive reminder where you're hoping to catch people when they're managing their health, showing it earlier would be better to increase the chances of doing that.
+* Peter Russo: The day of would definitely be too late. A push notification the day before is a pretty common pattern outside of VA. Since this is more of a passive reminder where you're hoping to catch people when they're managing their health, showing it earlier would be better to increase the chances of doing that.
 But yeah like you said we didn't find a standard pattern when we looked at notifications in that [study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md#scheduling-systems-often-send-excessive-notifications)
 
-Relevant slack threads: 
+**Relevant slack threads: **
 * [Where can I see content for appointment reminders' push notification? when they show up in relation to an appointment?](https://dsva.slack.com/archives/C018V2JCWRJ/p1684422303312129)
 
 
