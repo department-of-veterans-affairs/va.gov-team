@@ -100,10 +100,11 @@ Quotes:
 
 ## Roadmap
 
-- Web is planning to deliver the feature in October; the earliest that mobile should begin implementation would potentially be Nov/Dec.
-- Take the opportunity to learn before build;
-  - review previous research findings
-  - Comparative analysis; how do other patient portal apps present this information
+- Web is planning to deliver the feature in October (recommendation that mobile development should be contigent on web release)
+- Mobile Q4
+   - Discovery/Research learnings/Comparative analysis
+   - Requirement/Design exploration & documentation
+   - Implementation/Development Q1 '24 (Step 3-4)
 
 ## Measuring success
 
