@@ -66,7 +66,7 @@ Zoom
 ### Research materials
 
 For moderated usability tests: 
-- [Link to conversation guide](https://app.zenhub.com/workspaces/contact-center-62cdd9546ec1530018209672/issues/gh/department-of-veterans-affairs/va.gov-team/65148)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/rate-tool/readme.md)
 - [Link to prototype](https://sketch.com/s/dbc369e6-21ae-4717-a169-a5e734934f93)
 
 	
