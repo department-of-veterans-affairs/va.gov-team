@@ -71,7 +71,7 @@ At a high level
   - this subjects them to the oversite of code review
   - de-silos the knowledge
   - removes the danger of monkey patching live production code
-- Start importing CSVs or data from S3
+- Start importing script input data from S3 (e.g. a list of submission ids to process)
   - removes the need to copy / paste this data
   - creates a single source of truth in the case a large, changing pool of 'todo' tasks
 - Start exporting script output to CSV files for persistance and transparency.
