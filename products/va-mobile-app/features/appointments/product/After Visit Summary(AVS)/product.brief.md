@@ -10,9 +10,20 @@ Today, select Veterans and caregivers receive After Visit Summaries following th
 
 **What is an After Visit Summary?** According to [Centers for Medicare & Medicaid Services Meaningful Use guidelines](https://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/Downloads/13_Clinical_Summaries.pdf) , "an after-visit summary...provides a patient with relevant and actionable information and instructions containing the patient name, provider’s office contact information, date and location of visit, an updated medication list, updated vitals, reason(s) for visit, procedures and other instructions based on clinical discussions that took place during the office visit, any updates to a problem list, immunizations or medications administered during visit, summary of topics covered/considered during visit, time and location of next appointment/testing if scheduled, or a recommended appointment time if not scheduled, list of other appointments and tests that the patient needs to schedule with contact information, recommended patient decision aids, laboratory and other diagnostic test orders, test/laboratory results (if received before 24 hours after visit), and symptoms."
 
+
+After Visit Summaries (AVS) serve many purposes*, including:
+
+- Promote patient-center, outpatient care
+- Summarize medications, appointments, tests, patient education material and other instructions
+- Enhance communication
+- Engage patients in their care
+- Improve recall of medical instructions
+- Meet electronic health record Meaningful Use criteria
+
+
 **Desired User Goals**
 
-- As a Veteran or caregiver, I want access to a summary of what was discussed and decided at my appointment.
+- As a Veteran or caregiver, **I want access to a summary of what was discussed and decided at my appointment.**
 - As a Veteran who utilizes assistive technology, such as a screen reader, I am able to easily review my After Visit Summary.
 
 **Web MVP**
@@ -29,7 +40,86 @@ Today, select Veterans and caregivers receive After Visit Summaries following th
 - These AVSs will not follow the rest of MHV on VA.gov notes. It will require future work to create a consistent experience (UX and data continuity) with Cerner and other MHV on VA.gov sections.
 - Community care and Cerner appointments will not have AVSs.
 
-**Resources**
+
+**Web Experience Appointment List View MVP**
+
+1) User Selects Past appointments
+2) Opens an appointment from the list
+3) If available, the user will be presented with an "View after-visit summary" link on the details page if avail
+
+
+![Screenshot 2023-09-22 at 1 46 16 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90273080/35aa9556-bbd3-4b43-969a-ff5f2150eb58)
+<img width="950" alt="Screenshot 2023-09-22 at 1 59 19 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/90273080/c71dd6f7-829d-4b86-8941-1327ab8da6a5">
+
+
+The After Visit Summary 4 expandable categories with information
+
+- Your appointment on {date}
+- Your treament plan from this appointment
+- Your health information as of this appointment
+- More Information 
+
+Link to Figma view [here](https://www.figma.com/file/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?type=design&node-id=2-3&mode=design&t=CkXU8UDyBOdO1LRb-0)
+
+
+## Mobile Opportunity
+
+**Veteran task to be done**
+
+Veterans are able to use the VA: Health and Benefits app, to easilty access a summary of what was discussed and decided at their appointment.
+
+1) Easily access & download After Visit Summary (Findability)
+
+
+**Questions**
+
+1. Decision was made to build an HTML version of the AVS and not giving Veterans access to a PDF; is there an opportunity for an API version to provide a PDF format?
+2. Web MVP AVS will live on the appointments details; with future iteration to include on the Care Summary & Notes section of web.   Does mobile have to follow suit or explore how to best fit this feature on the app (taking into account the amount of information; if the summary can not be in PDF format) 
+
+**Assumptions**
+
+ - AVS API is available and can be consumed by mobile
+ - Appointment team support will be avail; to support mobile
+ - Test account/data will be avail
+ - Veterans will be able to easily navigate and review ASV summary w/out overload
+   
+**Risks**
+
+- The after summary details can be a lot of detail.  Identifying the best way for mobile to present the information that would not be a congnitive overload for Veterans.
+
+**Roadmap**
+
+- Web is planning to deliver the feature in October; the earliest that mobile should begin implementation would potentially be Nov/Dec.
+- Take the opportunity to learn before build
+
+## Measuring success
+- Objective: Ensure users can easily find their After Visit Summary report on the mobile app
+- Objective: Ensure product feature functions properly
+	
+
+## Stakeholders
+
+**Mobile:**
+
+- Rachel Han - Mobile Product Owner
+- Ryan Thurlwell - Mobile Product/Design Lead
+
+
+**Web:** 
+
+- Kay Lawyer - OCTO Product Lead, katherine.lawyer@va.gov
+- Kristen McConnell - OCTO UX Lead, kristen.mcconnell@va.gov
+- Adrian Rollett - OCTO Engineering Lead, adrian.rollett@va.gov
+- Nina Anusavice - UX Designer, Nina.Anusavice@va.gov
+- Jeff Roof - Appointments, Product Manager (Ad Hoc)
+- Leah De La Costa - Appointments, Product Manager (Ad Hoc)
+- Peter Russo (Appointments, Design Lead (Ad Hoc)
+
+## Important Links
+
+<details>
+
+<summary>Resources</summary>
 
 * [Product Brief Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/README.md))
 
@@ -45,56 +135,4 @@ Today, select Veterans and caregivers receive After Visit Summaries following th
 * [Figma- Spec Details page link](https://www.figma.com/file/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?type=design&node-id=2012-34945&mode=design&t=66GNkrlCieU3UUTf-0)
 * [Figma-After-visit summary details page](https://www.figma.com/file/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?type=design&node-id=2-3&mode=design&t=fGbyK9EG5T15NKov-0)
 
-
-## Mobile Intent/Goals
-
-
-**Veteran task to be done**
-
-Veterans are able to use the VA: Health and Benefits app, to easilty access a summary of what was discussed and decided at their appointment.
-
-- Veterans are able to review after summary list for a given appointment in which AVS is available
-
-
-
-**Questions**
-
-
-**Assumptions and Level of Confidence**
-
- 
-**Risks**
-
-
-**Roadmap**
-
-
-**Technical Approach**
-
-
-**Measuring success**
-
-- Objective: Ensure users can easily find their After Visit Summary report on the mobile app
-- Objective: Ensure product feature functions properly
-	
-
-**Stakeholders**
-
-Mobile:
-
-- Rachel Han - Mobile Product Owner
-- Ryan Thurlwell - Mobile Product/Design Lead
-
-
-Web: 
-
-- Kay Lawyer - OCTO Product Lead, katherine.lawyer@va.gov
-- Kristen McConnell - OCTO UX Lead, kristen.mcconnell@va.gov
-- Adrian Rollett - OCTO Engineering Lead, adrian.rollett@va.gov
-- Nina Anusavice - UX Designer, Nina.Anusavice@va.gov
-- Jeff Roof - Appointments, Product Manager (Ad Hoc)
-- Leah De La Costa - Appointments, Product Manager (Ad Hoc)
-- Peter Russo (Appointments, Design Lead (Ad Hoc)
-
-**Important Links**
-
+</details>
