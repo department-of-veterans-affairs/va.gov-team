@@ -50,19 +50,19 @@ Update from October 1, 2020:
 
 **For every example below, "at" is followed by the official location name. Official location names come from legislation, so we may not be able to change things that don't follow VA.gov style.** Example: Veterans' (should not have an apostrophe). 
 
-Facility type  |  Owned by  |  Official name | URL 
- -- | -- | -- | -- 
-_Source:_<br>VAST |   | _Source:_<br>VAST | _Source:_<br>Facilities API
-Regional benefit office | Standalone | Winston-Salem Regional Benefit Office | 
-VR&E office | Standalone | Harrisburg Veteran Readiness and Employment Office |   
-VR&E office | VHA or non-VA | Veteran Readiness and Employment Office at Grand Junction VA Medical Center | 
-Regional office | VHA or non-VA | Regional Office at Samuel S. Stratton Department of Veterans Affairs Medical Center | 
-Outbased office | VHA or non-VA | Regional Benefit Office at New Bedford VA Clinic (If not regional, then Benefit Office at Rochester Calkins VA Clinic.)
-Satellite office | VHA or non-VA | Regional Benefit Office at William S. Middleton Memorial Veterans' Hospital
-Integrated Disability Evaluation System (IDES) Site | VHA or non-VA | Integrated Disability Evaluation System (IDES) Site at Fort Drum
-Intake site | VHA or non-VA | Intake Site at Twentynine Palms
-Seamless Transition Integrated Care Clinic (STICC) | VHA or non-VA | Seamless Transition Integrated Care Clinic (STICC) at Richard L. Roudebush Veterans' Administration Medical Center
-VetSuccess on Campus | non-VA | VetSuccess on Campus at Saint Leo University
+Facility type  |  Owned by  |  Official name | Name pattern | URL 
+ -- | -- | -- | -- | -- 
+_Source:_<br>VAST |   | _Source:_<br>VAST |   | _Source:_<br>Facilities API
+Regional office | Standalone | [Winston-Salem VA Regional Benefit Office](https://www.va.gov/find-locations/facility/vba_318) | [Region name] [Facility type]
+Regional office | VHA or non-VA | [Anchorage VA Regional Benefit Office at Anchorage VA Medical Center](https://www.va.gov/find-locations/facility/vba_463) | [Region name] [Facility type] at [shared location name]
+~~Outbased office~~ | ~~VHA or non-VA~~ | ~~Regional Benefit Office at New Bedford VA Clinic (If not regional, then Benefit Office at Rochester Calkins VA Clinic.)~~ | ~~[Facility type] at [shared location name]~~
+Satellite office | VHA or non-VA | [VA Regional Benefit Satellite Office at New Bedford VA Clinic](https://www.va.gov/find-locations/facility/vba_304n) | [Facility type] at [shared location name]
+VR&E office | Standalone | [Harrisburg Veteran Readiness and Employment Office](https://www.va.gov/find-locations/facility/vba_310g) | [Region name] [Facility type]
+VR&E office | VHA or non-VA | [Veteran Readiness and Employment Office at Peoria Vet Center](https://www.va.gov/find-locations/facility/vba_328c) | [Facility type] at [shared location name]
+Integrated Disability Evaluation System (IDES) Site | VHA or non-VA | [Integrated Disability Evaluation System (IDES) Site at Fort Drum](https://www.va.gov/find-locations/facility/vba_307f) | [Facility type] at [shared location name]
+Pre-Discharge Site | VHA or non-VA | [Pre-Discharge Site at Twentynine Palms Marine Corps Air Ground Combat Center](https://www.va.gov/find-locations/facility/vba_344x) | [Facility type] at [shared location name]
+Seamless Transition Integrated Care Clinic (STICC) | VHA or non-VA | [Seamless Transition Integrated Care Clinic (STICC) at Richard L. Roudebush VA Medical Center](https://www.va.gov/find-locations/facility/vba_326g) | [Facility type] at [shared location name]
+VetSuccess on Campus | non-VA | [VetSuccess On Campus at University of Nevada, Las Vegas (UNLV)](https://www.va.gov/find-locations/facility/vba_354b) | [Facility type] at [shared location name]
 
 
 
