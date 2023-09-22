@@ -1,6 +1,6 @@
 # Initiative outline: Update LOA1 experience on My VA
 
-**Last updated: August 9, 2023 - published**
+**Last updated: September 22, 2023 - published**
 
 ### Communications
 
