@@ -66,36 +66,57 @@ Link to Figma view [here](https://www.figma.com/file/VHHxvo1QA1ndWc0TBhfkNq/Add-
 
 **Veteran task to be done**
 
-Veterans are able to use the VA: Health and Benefits app, to easilty access a summary of what was discussed and decided at their appointment.
+Veterans are able to use the VA: Health and Benefits app, to **review their after visit summary care notes from their physician(s)**
 
-1) Easily access & download After Visit Summary (Findability)
+1) Veteran should be able to easily find and review AVS with EASE on the app
+2) Opportunity to add alerts/Push Notification when an AVS is avail 
 
-
-**Questions**
+## Questions
 
 1. Decision was made to build an HTML version of the AVS and not giving Veterans access to a PDF; is there an opportunity for an API version to provide a PDF format?
-2. Web MVP AVS will live on the appointments details; with future iteration to include on the Care Summary & Notes section of web.   Does mobile have to follow suit or explore how to best fit this feature on the app (taking into account the amount of information; if the summary can not be in PDF format) 
+2. Web MVP AVS will live on the appointments details; with future iteration to include on the Care Summary & Notes section of web.   Does mobile have to follow suit or explore how to best fit this feature on the app (taking into account the amount of information; if the summary can not be in PDF format)
 
-**Assumptions**
+Research finding showed that majority of Veterans prefered to find AVS through MR
+Quotes:
+
+"I'm looking for something that says after-visit summary or doctor's notes."
+"Well, I would go to medical records." (while on VA.gov home)
+
+
+
+## Assumptions
 
  - AVS API is available and can be consumed by mobile
  - Appointment team support will be avail; to support mobile
  - Test account/data will be avail
  - Veterans will be able to easily navigate and review ASV summary w/out overload
    
-**Risks**
+## Risks
 
 - The after summary details can be a lot of detail.  Identifying the best way for mobile to present the information that would not be a congnitive overload for Veterans.
+- Findability; burying the AVS details in past appointmens, Veterans may not discover the information unless they 'know' to look there.
+  
 
-**Roadmap**
+## Roadmap
 
 - Web is planning to deliver the feature in October; the earliest that mobile should begin implementation would potentially be Nov/Dec.
 - Take the opportunity to learn before build
 
 ## Measuring success
-- Objective: Ensure users can easily find their After Visit Summary report on the mobile app
-- Objective: Ensure product feature functions properly
-	
+
+- **Objective:** Ensure users can easily find their After Visit Summary report on the mobile app
+    - 	What % of users completed the task of reviewing AVS w/in X period of time
+    - 	How long does it take for a Veteran to complete the task
+    - % of Veterans that review appointment details on the app are also accessing their AVS
+
+- **Objective:** Veterns have found and are using the feature 
+  - How often are users accessing their AVS (is this a 1 time event, are they reviewing multiple times, etc)
+  - How many times has AVS been successfully retrieved in the past X days (total events)
+
+
+- **Objective:** Ensure product feature functions properly
+	- Service Success rate (% how often user successfully retrieve AVS info w/out a service error)
+        - Service Failure rate (% how often users receive a failed error message when calling the AVS api; and info not returned)  
 
 ## Stakeholders
 
