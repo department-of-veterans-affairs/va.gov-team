@@ -55,8 +55,8 @@ _It is important to include assumptions about what external systems will provide
 _Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
 
 ### Code Location
-Migrated version of SOCKS Proxy build based on AL2 will be (here)[https://github.com/department-of-veterans-affairs/pso-tf-socks-proxy].
-Migrated version of Jumpbox build based on AL2 will be (here)[https://github.com/department-of-veterans-affairs/pso-tf-jumpbox].
+Migrated version of SOCKS Proxy build based on AL2 will be [here](https://github.com/department-of-veterans-affairs/pso-tf-socks-proxy).
+Migrated version of Jumpbox build based on AL2 will be [here](https://github.com/department-of-veterans-affairs/pso-tf-jumpbox).
 
 ### Testing Plan
 We expect to stand up the migrated version of each application side by side with each of the AL1-based application they will replace.
