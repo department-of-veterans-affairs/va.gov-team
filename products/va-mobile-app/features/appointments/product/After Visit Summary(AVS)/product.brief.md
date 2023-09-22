@@ -69,7 +69,8 @@ Link to Figma view [here](https://www.figma.com/file/VHHxvo1QA1ndWc0TBhfkNq/Add-
 Veterans are able to use the VA: Health and Benefits app, to **review their after visit summary care notes from their physician(s)**
 
 1) Veteran should be able to easily find and review AVS with EASE on the app
-2) Opportunity to add alerts/Push Notification when an AVS is avail 
+2) Opportunity to download in an accessible format
+3) Opportunity to incorporate Alert/Push Notification when an AVS is avail 
 
 ## Questions
 
@@ -100,7 +101,9 @@ Quotes:
 ## Roadmap
 
 - Web is planning to deliver the feature in October; the earliest that mobile should begin implementation would potentially be Nov/Dec.
-- Take the opportunity to learn before build
+- Take the opportunity to learn before build;
+  - review previous research findings
+  - Comparative analysis; how do other patient portal apps present this information
 
 ## Measuring success
 
