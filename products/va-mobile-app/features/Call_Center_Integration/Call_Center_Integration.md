@@ -11,7 +11,7 @@ When the Veteran reaches an agent, the agent knows the Veteran has checked the c
 
 1. Prove that a Veteran can move between X and Y channels smoothly 
  
-[Link to Epic]
+[Link to Epic 5795](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5795)
  
 ## Problem Statement
  
