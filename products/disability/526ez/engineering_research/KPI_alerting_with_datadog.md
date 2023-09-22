@@ -36,43 +36,25 @@ This document outlines suggestions that could be applied to each of these KPIs a
 
 ## Proposals
 
-### Completion options
+### 1. Completion Percentage
 
-**UPDATE:** instead of using `*.end_time` and `*.start_time`, we are now using the more specific and technically correct `*.try` and `*.success` logs.  This is because our `end_time` log will ALWAYS RUN due to a catch and reraise block in the logging wrapper
+For each of these Services there is a central API interaction with a third party.  These interactions are tracked with logs tagged `try` and `succeed`.  To generate a completion percentage for each interaction, we count the `succeed` logs and divide by the `try` logs specific to each parent class object.  This gives us a number ~1.  If we dip below .7 (70%) we alert.  
 
-#### 1. The "stared but didn't stop" check
+NOTE: occasionally we will see spikes above 100%.  This is caused by previously failing jobs 'catching up' as they retry.
 
-At the moment we have several methods "wrapped" in logging using a previously developed feature, [outlined here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/implementation/reusable_logging_with_third_party_transaction_logger.md)
-Each of these wrapper logs has a `started_at` and `ended_at` value in the respective log.  If we develop a query that checks for `started_at` logs that do not have an associated `ended_at` value, we should be able to pinpoint third party API failures, and alert if we start seeing a lot in one specific 3PI.
+- [EVSS::DisabilityCompensationForm::SubmitForm526AllClaim](https://vagov.ddog-gov.com/monitors/160278) submission success rate
+- [EVSS::DisabilityCompensationForm::SubmitUploads](https://vagov.ddog-gov.com/monitors/160279) submission success rate
+- [EVSS::DisabilityCompensationForm::UploadBddInstructions](https://vagov.ddog-gov.com/monitors/160280) run success rate (sems flat, probably ok to remove)
+- [CentralMail::SubmitForm4142Job](https://vagov.ddog-gov.com/monitors/160281) submission success rate
+- [EVSS::DisabilityCompensationForm::SubmitForm0781](https://vagov.ddog-gov.com/monitors/160282) success rate
+- EVSS::DisabilityCompensationForm::SubmitForm8940
+  - WTF isn't this shown at all in DD?  do we never run it?
+- Percentage of Backup submissions run relative to total jobs
+  - TODO
+- Percentage of complete failures (both normal and backup)
+  - TODO
 
-**The Query**
-Using the method submit_form_4142 as and example
-```
-a = @payload.wrapped_method:Form526Submission#submit_form_4142 AND @payload.end_time:*
-b = @payload.wrapped_method:Form526Submission#submit_form_4142 AND @payload.start_time:*
-diff = a / b
-```
-
-The value `diff` should almost always be 1.  If we see a variation, we alert that we are having an outage for the endpoint used by this method
-
-<img width="1042" alt="Screenshot 2023-09-11 at 2 32 21 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/50431410-518c-414e-9d2e-2b449fbef66c">
-
-**Alternate implemenation with StatsD**
-
-We could also (probably) add a statsD `start` and `stop` counter for each metric.  This would allow us to simplify the queries, making them faster and more grokable, but would require some coding work.
-
-[Here is a spike PR that should do that work](https://github.com/department-of-veterans-affairs/vets-api/pull/13788)
-
-
-#### 2. The "Completion Percentile" check
-
-This would be a check where we are looking only for `ended_at` logs against each of the existing KPIs (logged possible failure points).  If we knew the average rate at which sub steps were completed relative to the completion of the entire flow, it would be possible to see if the ratios changed.  The benefit of tracking ratios rather than simple count of completion is that we would have a more wholistic view of where users dropped off in form completion irrespective of possible external factors.  For instance, a low number of failures in a 24 hour day might actually be high relative to the number of forms started.
-
-**The Query**
-
-[TODO] implement a query that aggrigates this data
-
-#### 3. Increase in Latency
+### 2. Latancey Threshold
 
 This could be acheived by leveraging the `upload_duration` value included in each of our logging wrappers (although we should probably update this naming convention
 
@@ -82,6 +64,14 @@ For example, checking for `submit_form_4142` actions that take longer than 1 sec
 `@payload.wrapped_method:Form526Submission#submit_form_4142 AND @payload.upload_duration:>1`
 
 <img width="1327" alt="Screenshot 2023-09-12 at 12 02 19 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/0f73e2e3-6b6e-4540-8605-79f54c6e40ca">
+
+
+- [EVSS::DisabilityCompensationForm::SubmitForm526AllClaim]()
+- [EVSS::DisabilityCompensationForm::SubmitUploads]()
+- [EVSS::DisabilityCompensationForm::UploadBddInstructions]()
+- [CentralMail::SubmitForm4142Job]()
+- [EVSS::DisabilityCompensationForm::SubmitForm0781]()
+- EVSS::DisabilityCompensationForm::SubmitForm8940
 
 
 ### Interval based options
@@ -95,7 +85,7 @@ If we have not hit a 3pi for <unit of time> alert.  Queries here are trivial, as
 
 #### 1. Absence in Interval
 
-If we see an absence of traffi we could alert.  E.G we usually have ~1000 submissions a day, today we only had 0
+If we see an absence of traffic we could alert.  E.G we usually have ~1000 submissions a day, today we only had 0
 
 #### 2. Decrease in Interval
 
