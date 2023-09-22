@@ -66,8 +66,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | 2022 Baseline | Jan-Jun 2023 | Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------|-------|-------------- |-------------- |
-|Application Submissions | 59.8% (138,687k)  | 61.4% (63,084) | 65% |20,926|63.8%|
-|Single-session Submissions | 60.5% (83,941) | 62.2% (39,232) | 77%  |15,205|72.6|
+|Application Submissions | 59.8% (138,687k)  | 61.4% (63,084) | 65% |63.8% (20,926) |TBD|
+|Single-session Submissions | 60.5% (83,941) | 62.2% (39,232) | 77%  |72.6% (15,205) |TBD|
 
 
 #### **Key Result #3:** Veterans feel prepared when they begin the Household section
