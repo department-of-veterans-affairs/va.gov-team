@@ -11,11 +11,11 @@ Moreover, we can define a less dangerous workflow for all reusable tasks (not ju
 [For a more thorough breakdown of how this legacy-process came to be, and the steps required to run it, see this document.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/526_failure_batching_and_triage_handoff.md)
 
 ## What's wrong with the way we've been doing it?
-The problems with the current solution are primarily
+The current process is bad because:
 - It requires rails production console access.  This is a well known security concnern, not only because of potential bad actors but because of simple mistakes.
 - It requires copy / pasting code. Introduces overhead for doing the work AND sharing the reusable code.  Introduces the possibility of syntax related bugs.  There is no oversight of the code being run.  Also, ArgoCD (our prefered interface) doesn't like it.
 - It can require monkey patching of live production code for file system maintenance.  : (
-- There lack of transparency and context sharing around the data that is input to / and output from these tasks.  IF someone starts the process, and another person needs to finish it, then we end up in a situation where the starting dev will probably have to hand off a document about the state of the process, e.g. what IDs have been uploaded, error logs, what IDs remain, etc.
+- There is a lack of transparency and context sharing around the data that is input to / and output from these tasks.  IF someone starts the process, and another person needs to finish it, then we end up in a situation where the starting dev will probably have to hand off a document about the state of the process, e.g. what IDs have been uploaded, error logs, what IDs remain, etc.
 - Only one or two people actually know how to do this work!  That makes it dangerous and slow.  
 
 [This slack thread covers the genesis of this idea.](https://dsva.slack.com/archives/C053U7BUT27/p1694192774356649)
@@ -32,6 +32,8 @@ This work can be done in 3 phases.
 - Start exporting script output to CSV files for persistance and transparency.
   - removes danger of loosing valuble data to shell crash or terminal truncation
   - shares output context with team in the case a large, changing pool of 'todo' tasks
+ 
+This is low handing fruit with a clear win.  It requires no decisions about which processes need to be scripted and creates greater context sharing.
  
 To make these changes we need to do a few things
 - get buy in from the ownerss of AWS, as we will probably want to create a new script_import_export bucket (or something similar)
@@ -62,8 +64,48 @@ class AwsFacingScript
 end
 ```
 
-We would then include this functionality in our script or rake task, giving a prerolled interfaced for interacting with this S3 workflow
+We could then include this functionality in our command line script, like so...
 
+```
+>
+>
+> MyContrivedScriptClass < AwsFacingScript
+>   def initialize
+>     @output = { success: [], errors: [] }
+>   end
+>  
+>   def do_the_thing
+>     pull_file_from_s3.parse.each do |id|
+>       MyWorker.perform_now(id)
+>       @output[:success] << id
+>     rescue => e
+>       @output[:errors] << "#{id} failed with message #{e.message}"
+>     end
+>   end
+>
+>   def write_output
+>     write_output_to_s3
+>   end
+> end
+> MyContrivedScriptClass.new('my_bucket').do_the_thing
+> MyContrivedScriptClass.write_output
+```
+
+This still involves copy pasting code, which is not great.  However, we now can guarantee we aren't loosing valuble context to terminal crashes or truncation.  Additionally, if this 
+work is done by Dev 1, Dev 2 can then look at the output to see what IDs were process, what errors might need to be addressed, etc. without being blocked by getting context from Dev 1.
+
+**NOTE** this is just one possible implementation.  There are multiple ways to make this AWS S3 file bucketing available and easy to use for devs doing this sort of manual scripting work.
+
+### Phase 2:
+
+At a high level
+- Start commiting frequently used scripts to the codebase, either as rake tasks or rails scripts
+  - this subjects them to the oversite of code review
+  - de-silos the knowledge
+  - removes the danger of monkey patching live production code
+
+ Elaborating on the contrived example above, we could now commit the following code to our repository to perform a common task, such as enqueuing a batch of jobs.
+ 
 ```ruby
 # script/my_reusable_script.rb
 
@@ -87,17 +129,10 @@ MyResusableScript.call(file_name)
 This sort of script could be run from a production bash terminal with the following command
 `rails runner my_reusable_script my_file.csv`
 
-**NOTE** even though we are still requiring prod access, this is already better because we are not logging into a rails console that would allow us
-to modify data.  There are ways to set permissions on these scripts to prevent data manipulation, if we deem it necessary.  Also, in Phase 3 we will see 
-a way to **completely remove the need for developer production access!**
+Even though we are still requiring prod access, this is already better because we are not logging into a rails console that would allow us
+to modify data.  There are ways to set permissions on these scripts to prevent data manipulation, if we deem it necessary.  
 
-### Phase 2:
-
-At a high level
-- Start commiting frequently used scripts to the codebase, either as rake tasks or rails scripts
-  - this subjects them to the oversite of code review
-  - de-silos the knowledge
-  - removes the danger of monkey patching live production code
+**NOTE** *n Phase 3 we will see a way to completely remove the need for developer production access!
 
 ### Phase 3:
 
