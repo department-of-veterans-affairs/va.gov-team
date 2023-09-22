@@ -54,7 +54,6 @@ This change is being done to allow editors the ability to make more accessible a
 
 ## Contacts
 - Product Owner: Erika Washburn (OCTO-DE)
-- Product Manager: Mike Hollen (Friends From The City)
 - Delivery Manager: Berni Xiong (Agile 6)
 - Engineering: Edmund Dunn (Agile 6), Tony Taylor (CivicActions)
 - Accessibility: Laura Flannery (CivicActions)
