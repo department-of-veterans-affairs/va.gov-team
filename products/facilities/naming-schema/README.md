@@ -52,7 +52,7 @@ Update from October 1, 2020:
 
 Facility type  |  Owned by  |  Official name | Name pattern | URL 
  -- | -- | -- | -- | -- 
-_Source:_<br>VAST |   | _Source:_<br>VAST |   | _Source:_<br>Facilities API
+_Source:_ VAST |   | _Source:_ VAST |   | _Source:_ Facilities API
 Regional office | Standalone | [Winston-Salem VA Regional Benefit Office](https://www.va.gov/find-locations/facility/vba_318) | [Region name] [Facility type]
 Regional office | VHA or non-VA | [Anchorage VA Regional Benefit Office at Anchorage VA Medical Center](https://www.va.gov/find-locations/facility/vba_463) | [Region name] [Facility type] at [shared location name]
 ~~Outbased office~~ | ~~VHA or non-VA~~ | ~~Regional Benefit Office at New Bedford VA Clinic (If not regional, then Benefit Office at Rochester Calkins VA Clinic.)~~ | ~~[Facility type] at [shared location name]~~
