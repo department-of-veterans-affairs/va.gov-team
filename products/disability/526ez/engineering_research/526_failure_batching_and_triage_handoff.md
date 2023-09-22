@@ -78,6 +78,6 @@ At a high level
   - removes danger of loosing valuble data to shell crash or terminal truncation
   - shares output context with team in the case a large, changing pool of 'todo' tasks
 
-[See this design document for a full outline of how we can execute this transition](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/engineering_research)
+[See this design document for a full outline of how we can execute this transition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/process_improvement_proposal_for_scriptable_tasks.md)
 
 
