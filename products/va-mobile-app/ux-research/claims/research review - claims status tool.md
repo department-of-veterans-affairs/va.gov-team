@@ -124,7 +124,7 @@ Veterans trust and want to connect one-on-one with individuals who know the deta
     * **The VA mobile app displays one-size fits all error messages that are sometimes inaccurate when it can’t display claims information due to the profile failing or low connectivity.**
         * Claims: “The app can’t be loaded,”<sub> </sub>Disability rating “You do not have a combined disability on record”<sub>3,10</sub>
 * ##### THEME: DISEMPOWERMENT:
-    * Veterans don’t necessarily know in a timely manner **_<span style="text-decoration:underline;">when something has changed or is needed </span>_**from them with their claim or appeal**.<sub>2,7</sub>
+    * Veterans don’t necessarily know in a timely manner **_<span style="text-decoration:underline;">when something has changed or is needed </span>_** from them with their claim or appeal**.<sub>2,7</sub>
         * Because there are long gaps between signals from VA about the progress of the claim, Veterans check in frequently to ensure things are moving along.<sub>2</sub>
         * Veterans **don’t have a way to quickly see whether an active claim has changed status** (without tapping down into the Claim details each time).
             * **[There is no current method [on VA.gov or in the app] for proactively notifying Veterans of changes to their status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/claim-appeal-status/claims-status/readme.md#has-there-been-any-past-user-research-about-sending-notifications-to-users-when-there-is-a-change-to-the-status-of-a-claim-or-appeal)**.<sub>2,5</sub>
