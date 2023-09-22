@@ -120,6 +120,8 @@ In this section feel free to segment populations based on the trends we see with
 
 > "...it takes 30 minutes. When you're reading you can skip read, but not if it's being read to you." - P19, about the length of TOUs
 
+> "When it is stuff you have to use, you either say yes, or you can’t use any of it. If it is necessary, it doesn’t matter what the terms of use are, or you can’t use it." - P19, on accepting TOUs
+
 > "I like that. Nice to have the option to look more in depth. Usually don't have the choice." - P19, on TOU items chunked by headings into accordions
 
 > "Oh yes, terms of use is like 5,000 words. When you have to listen to it. It is a lot worse. It will speak it for 30 minutes. Usually you can skip read. I can’t really do that with a screen reader, because I might end up off on a different thing. Honestly, I think I trust the VA literally with my life, so most of the time I don’t even read it. I think that is most people when you have pages and pages, either spend five hours or click the accept." - P19, on the length of TOUs and trusting the VA's terms
