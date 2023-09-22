@@ -46,7 +46,10 @@ Some VBA benefits facilities are standalone. Regional benefit offices are an exa
 Update from October 1, 2020:
 * VBA and OFO, the Office of Field Operations, just approved [this naming scheme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/naming-schema/VBA-facilties-name_DRAFT-%20v9.docx). 
 * First we are updating the [names of facilities inside VA facilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/naming-schema/VBA%20Facility%20Names_v4.xlsx). See column E "Inside other official VA Location."
-* Next we will update the names of facilities not located inside VA facilities. 
+* Next we will update the names of facilities not located inside VA facilities.
+
+Update from September 22, 2023:
+* Updated the chart to reflect current naming schema. [See full changelog](https://github.com/department-of-veterans-affairs/va.gov-team/pull/66167)
 
 **For every example below, "at" is followed by the official location name. Official location names come from legislation, so we may not be able to change things that don't follow VA.gov style.** Example: Veterans' (should not have an apostrophe). 
 
