@@ -1,0 +1,505 @@
+{
+	"components": {
+		"examples": {},
+		"headers": {},
+		"parameters": {},
+		"requestBodies": {},
+		"responses": {},
+		"schemas": {
+			"ClaimStatus": {
+				"properties": {
+					"status": {
+						"type": "string"
+					},
+					"lastUpdated": {
+						"type": "string",
+						"format": "date-time"
+					},
+					"appointmentTime": {
+						"type": "string",
+						"format": "date-time"
+					},
+					"facility": {
+						"type": "string"
+					},
+					"facilityId": {
+						"type": "string"
+					},
+					"claimNumber": {
+						"type": "string"
+					}
+				},
+				"required": [
+					"status",
+					"lastUpdated",
+					"appointmentTime",
+					"facility",
+					"facilityId",
+					"claimNumber"
+				],
+				"type": "object",
+				"additionalProperties": {}
+			},
+			"QueryResponse": {
+				"properties": {
+					"claims": {
+						"items": {
+							"$ref": "#/components/schemas/ClaimStatus"
+						},
+						"type": "array"
+					}
+				},
+				"required": [
+					"claims"
+				],
+				"type": "object",
+				"additionalProperties": false
+			},
+			"QueryRequest": {
+				"properties": {
+					"icn": {
+						"type": "string"
+					},
+					"from": {
+						"type": "string",
+						"format": "date-time"
+					},
+					"to": {
+						"type": "string",
+						"format": "date-time"
+					}
+				},
+				"required": [
+					"icn",
+					"from",
+					"to"
+				],
+				"type": "object",
+				"additionalProperties": false
+			},
+			"SubmitResponse": {
+				"properties": {
+					"claimNumber": {
+						"type": "string"
+					},
+					"expectedWaitTime": {
+						"type": "number",
+						"format": "double"
+					}
+				},
+				"required": [
+					"claimNumber"
+				],
+				"type": "object",
+				"additionalProperties": false
+			},
+			"SubmitAsyncResponse": {
+				"properties": {
+					"taskItemId": {
+						"type": "string"
+					},
+					"expectedWaitTime": {
+						"type": "number",
+						"format": "double"
+					}
+				},
+				"required": [
+					"taskItemId",
+					"expectedWaitTime"
+				],
+				"type": "object",
+				"additionalProperties": false
+			},
+			"TaskItemStatus": {
+				"properties": {
+					"status": {
+						"type": "string"
+					},
+					"expectedProcessingTime": {
+						"type": "string",
+						"format": "date-time"
+					}
+				},
+				"required": [
+					"status",
+					"expectedProcessingTime"
+				],
+				"type": "object",
+				"additionalProperties": false
+			},
+			"IdTypes": {
+				"enum": [
+					"icn",
+					"edipi"
+				],
+				"type": "string"
+			},
+			"SubmitRequest": {
+				"properties": {
+					"type": {
+						"$ref": "#/components/schemas/IdTypes"
+					},
+					"veteranId": {
+						"type": "string"
+					},
+					"appointmentTime": {
+						"type": "string",
+						"format": "date-time"
+					},
+					"claimData": {
+						"properties": {
+							"claimNumber": {
+								"type": "string"
+							}
+						},
+						"additionalProperties": {},
+						"required": [
+							"claimNumber"
+						],
+						"type": "object"
+					}
+				},
+				"required": [
+					"type",
+					"veteranId",
+					"appointmentTime",
+					"claimData"
+				],
+				"type": "object",
+				"additionalProperties": false
+			},
+			"EligibilityResponse": {
+				"properties": {
+					"eligible": {
+						"type": "boolean"
+					},
+					"directDepositSetUp": {
+						"type": "boolean"
+					}
+				},
+				"required": [
+					"eligible",
+					"directDepositSetUp"
+				],
+				"type": "object",
+				"additionalProperties": {}
+			}
+		},
+		"securitySchemes": {}
+	},
+	"info": {
+		"title": "test",
+		"version": "1.0.0",
+		"license": {
+			"name": "ISC"
+		},
+		"contact": {}
+	},
+	"openapi": "3.0.0",
+	"paths": {
+		"/api/v0/claims/query": {
+			"post": {
+				"operationId": "Query",
+				"responses": {
+					"200": {
+						"description": "Ok",
+						"content": {
+							"application/json": {
+								"schema": {
+									"$ref": "#/components/schemas/QueryResponse"
+								}
+							}
+						}
+					}
+				},
+				"tags": [
+					"V0 - Current State"
+				],
+				"security": [],
+				"parameters": [],
+				"requestBody": {
+					"required": true,
+					"content": {
+						"application/json": {
+							"schema": {
+								"$ref": "#/components/schemas/QueryRequest"
+							}
+						}
+					}
+				}
+			}
+		},
+		"/api/v0/claims/submit": {
+			"post": {
+				"operationId": "Submit",
+				"responses": {
+					"200": {
+						"description": "Ok",
+						"content": {
+							"application/json": {
+								"schema": {
+									"$ref": "#/components/schemas/SubmitResponse"
+								}
+							}
+						}
+					}
+				},
+				"tags": [
+					"V0 - Current State"
+				],
+				"security": [],
+				"parameters": []
+			}
+		},
+		"/api/v0/claims/submit/async": {
+			"post": {
+				"operationId": "SubmitAsync",
+				"responses": {
+					"200": {
+						"description": "Ok",
+						"content": {
+							"application/json": {
+								"schema": {
+									"$ref": "#/components/schemas/SubmitAsyncResponse"
+								}
+							}
+						}
+					}
+				},
+				"tags": [
+					"V0 - Current State"
+				],
+				"security": [],
+				"parameters": []
+			}
+		},
+		"/api/v0/claims/submit/async/{task-item-id}": {
+			"get": {
+				"operationId": "SubmitAsyncGetStatus",
+				"responses": {
+					"200": {
+						"description": "Ok",
+						"content": {
+							"application/json": {
+								"schema": {
+									"$ref": "#/components/schemas/TaskItemStatus"
+								}
+							}
+						}
+					}
+				},
+				"tags": [
+					"V0 - Current State"
+				],
+				"security": [],
+				"parameters": []
+			}
+		},
+		"/api/v1/claims/query": {
+			"post": {
+				"operationId": "Query",
+				"responses": {
+					"200": {
+						"description": "Ok",
+						"content": {
+							"application/json": {
+								"schema": {
+									"$ref": "#/components/schemas/QueryResponse"
+								}
+							}
+						}
+					}
+				},
+				"description": "Queries for a Veterans Claims, \r\nincluding claims that have been created and not submitted yet",
+				"tags": [
+					"V1 - Desired State"
+				],
+				"security": [],
+				"parameters": [],
+				"requestBody": {
+					"required": true,
+					"content": {
+						"application/json": {
+							"schema": {
+								"$ref": "#/components/schemas/QueryRequest"
+							}
+						}
+					}
+				}
+			}
+		},
+		"/api/v1/claims/{claimNumber}": {
+			"get": {
+				"operationId": "GetClaim",
+				"responses": {
+					"200": {
+						"description": "Ok",
+						"content": {
+							"application/json": {
+								"schema": {
+									"$ref": "#/components/schemas/ClaimStatus"
+								}
+							}
+						}
+					}
+				},
+				"description": "Returns all the details of a claim",
+				"tags": [
+					"V1 - Desired State"
+				],
+				"security": [],
+				"parameters": []
+			}
+		},
+		"/api/v1/claims/submit": {
+			"post": {
+				"operationId": "SubmitAsync",
+				"responses": {
+					"200": {
+						"description": "Ok",
+						"content": {
+							"application/json": {
+								"schema": {
+									"$ref": "#/components/schemas/SubmitResponse"
+								}
+							}
+						}
+					}
+				},
+				"description": "Submits a claim to the system to be processed\r\nIf the Claim number is provided it submits the claim in process to the system\r\nIf the Claim Number is not provided, it creates a new claim and submits it to the system",
+				"tags": [
+					"V1 - Desired State"
+				],
+				"security": [],
+				"parameters": [],
+				"requestBody": {
+					"required": true,
+					"content": {
+						"application/json": {
+							"schema": {
+								"$ref": "#/components/schemas/SubmitRequest"
+							}
+						}
+					}
+				}
+			}
+		},
+		"/api/v1/claims/create": {
+			"post": {
+				"operationId": "CreateClaim",
+				"responses": {
+					"200": {
+						"description": "Ok",
+						"content": {
+							"application/json": {
+								"schema": {
+									"$ref": "#/components/schemas/SubmitResponse"
+								}
+							}
+						}
+					}
+				},
+				"description": "Creates a new claim in the system, but does not submit it\r\nthis allows for updates to happen as the Veteran goes through the UX",
+				"tags": [
+					"V1 - Desired State"
+				],
+				"security": [],
+				"parameters": [],
+				"requestBody": {
+					"required": true,
+					"content": {
+						"application/json": {
+							"schema": {
+								"$ref": "#/components/schemas/SubmitRequest"
+							}
+						}
+					}
+				}
+			}
+		},
+		"/api/v1/claims": {
+			"put": {
+				"operationId": "UpdateClaim",
+				"responses": {
+					"200": {
+						"description": "Ok",
+						"content": {
+							"application/json": {
+								"schema": {
+									"$ref": "#/components/schemas/SubmitResponse"
+								}
+							}
+						}
+					}
+				},
+				"description": "Updates a claim with the new details",
+				"tags": [
+					"V1 - Desired State"
+				],
+				"security": [],
+				"parameters": [],
+				"requestBody": {
+					"required": true,
+					"content": {
+						"application/json": {
+							"schema": {
+								"$ref": "#/components/schemas/SubmitRequest"
+							}
+						}
+					}
+				}
+			}
+		},
+		"/api/v1/claims/files": {
+			"put": {
+				"operationId": "UploadFiles",
+				"responses": {
+					"200": {
+						"description": "Ok",
+						"content": {
+							"application/json": {
+								"schema": {
+									"$ref": "#/components/schemas/SubmitResponse"
+								}
+							}
+						}
+					}
+				},
+				"description": "Allows attachement of receipts to a claim",
+				"tags": [
+					"V1 - Desired State"
+				],
+				"security": [],
+				"parameters": []
+			}
+		},
+		"/api/v1/veteran/eligibility/{icn}": {
+			"get": {
+				"operationId": "GetEligibility",
+				"responses": {
+					"200": {
+						"description": "Ok",
+						"content": {
+							"application/json": {
+								"schema": {
+									"$ref": "#/components/schemas/EligibilityResponse"
+								}
+							}
+						}
+					}
+				},
+				"description": "Returns the eligibility status of a Veteran",
+				"tags": [
+					"V1 - Desired State"
+				],
+				"security": [],
+				"parameters": []
+			}
+		}
+	},
+	"servers": [
+		{
+			"url": "/"
+		}
+	]
+}
