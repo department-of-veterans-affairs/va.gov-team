@@ -22,9 +22,8 @@
  * [x] Behavior & navigation advice
 
 ## Findings
-_Advise if finidngs were also given over a call or direcly within a program etc._
+All major findings are listed here and on the [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692888741111/2474c0612887653142ab991d234898b6968dbf0e?wid=0-1695239947965).
 
-IN PROGRESS
 ### All pages
 Phone numbers in “Need help?” section (at the bottom of most screens) need to be linked (see examples in https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
 
