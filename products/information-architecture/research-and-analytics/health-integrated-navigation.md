@@ -65,6 +65,9 @@ The existing sidenav component is not fully supported by the Design System, and 
 #### Focus management
 * Ticket [#22826](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22826)
 
+#### A11y naming convention for nav menus
+* Ticket [#59760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59760)
+
 
 ## Needs for health portal secondary navigation
 * Must allow users to move from one tool to another seamlessly
