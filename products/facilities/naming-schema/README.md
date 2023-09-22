@@ -50,9 +50,9 @@ Update from October 1, 2020:
 
 **For every example below, "at" is followed by the official location name. Official location names come from legislation, so we may not be able to change things that don't follow VA.gov style.** Example: Veterans' (should not have an apostrophe). 
 
-Facility type  |  Owned by  |  Official name  | Plain-language name | URL 
- -- | -- | -- | -- | -- 
-_Source:_<br>VAST |   | _Source:_<br>VAST | _Source:_<br>Drupal  | _Source:_<br>Facilities API
+Facility type  |  Owned by  |  Official name | URL 
+ -- | -- | -- | -- 
+_Source:_<br>VAST |   | _Source:_<br>VAST | _Source:_<br>Facilities API
 Regional benefit office | Standalone | Winston-Salem Regional Benefit Office | 
 VR&E office | Standalone | Harrisburg Veteran Readiness and Employment Office |   
 VR&E office | VHA or non-VA | Veteran Readiness and Employment Office at Grand Junction VA Medical Center | 
