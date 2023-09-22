@@ -13,7 +13,7 @@ Not applicable - team conducted internal testing.
 ### Planning
 **Launch Go/No-go:** 
 - _Completed mm/dd/yyyy_
-- Launch go/no-go ticket: 
+- Launch go/no-go ticket: [#66187](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66187)
 - Launch readiness checklist
 
 **Desired date range:** _mm/dd/yyyy - mm/dd/yyyy_
@@ -21,9 +21,9 @@ Not applicable - team conducted internal testing.
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
 |-------|-----------|-----------|------|
-| Launch to 10% | 1 week | week of mm/dd/yyyy |[#61318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61318) |
-| Launch to 50% | 1 week | week of mm/dd/yyyy | [#61319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61319)  |
-| Launch to 100% | 1 week | week of mm/dd/yyyy | [#61322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61322)  |
+| Launch to 10% | 1 week | week of mm/dd/yyyy |[#66184](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66184) |
+| Launch to 50% | 1 week | week of mm/dd/yyyy | [#66185](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66185)  |
+| Launch to 100% | 1 week | week of mm/dd/yyyy | [#66186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66186)  |
 
 
 ## Go Live!
