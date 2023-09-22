@@ -62,7 +62,7 @@ The problems with the current solution are primarily
 - copy pasting. Introduces overhead for doing the work AND sharing the reusable code.  Introduces the possibility of syntax related bugs.  There is no oversight of the code being run.  Also, ArgoCD (our prefered interface) doesn't like it.
 - lack of transparency and context sharing around input / output.  IF someone starts the process, and another person needs to finish it, then we end up in a situation where the starting dev will probably have to hand off information about the state of the process, e.g. what IDs have been uploaded, error logs, what IDs remain, etc.
 
-- [This slack thread breaks down my proposal to itterate.](https://dsva.slack.com/archives/C053U7BUT27/p1694192774356649)
+[This slack thread breaks down my proposal to itterate.](https://dsva.slack.com/archives/C053U7BUT27/p1694192774356649)
 
 ### What
 
@@ -77,7 +77,7 @@ At a high level
 - Start exporting script output to CSV files for persistance and transparency.
   - removes danger of loosing valuble data to shell crash or terminal truncation
   - shares output context with team in the case a large, changing pool of 'todo' tasks
- 
+
 [See this design document for a full outline of how we can execute this transition](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/engineering_research)
 
 
