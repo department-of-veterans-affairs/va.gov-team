@@ -52,7 +52,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | 2021| 2022 | Jan-Jun 2023 |Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------|-------|-------------- |-------------- |-------------- |
-|Total Apps started |173,669|346,625 |81,431 |N/A  |TBD |TBD |
+|Total Apps started |173,669|346,625 |81,431 |N/A  |21,353 |TBD |
 |Household section drop-off |14% (23,803)|28% (98,209) |34% (27,715) |10% |TBD |TBD |
 |Financial Disclosure |4% (1,464)|0.3% (477) | 0% (no drop) |no change | TBD |TBD |
 |Annual Income |26.3% (40,791) |30% (75,416) | 24% (12,417) |10% |TBD |TBD |
@@ -66,8 +66,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | 2022 Baseline | Jan-Jun 2023 | Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------|-------|-------------- |-------------- |
-|Application Submissions | 59.8% (138,687k)  | 61.4% (63,084) | 65% |TBD|TBD|
-|Single-session Submissions | 60.5% (83,941) | 62.2% (39,232) | 77%  |TBD|TBD|
+|Application Submissions | 59.8% (138,687k)  | 61.4% (63,084) | 65% |20,926|63.8%|
+|Single-session Submissions | 60.5% (83,941) | 62.2% (39,232) | 77%  |15,205|72.6|
 
 
 #### **Key Result #3:** Veterans feel prepared when they begin the Household section
