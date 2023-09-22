@@ -44,7 +44,6 @@ https://lucid.app/lucidchart/e8eaa8d9-b39b-406e-b4c7-500f458b3ad3/edit?viewport_
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/52456633/7e1f5a63-af7b-43c6-ad62-4aa1230a60c4)
 
 ## Specifics
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Detailed Design
 _Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
@@ -56,10 +55,19 @@ _It is important to include assumptions about what external systems will provide
 _Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
 
 ### Code Location
-_The path of the source code in the repository._
+Migrated version of SOCKS Proxy build based on AL2 will be (here)[https://github.com/department-of-veterans-affairs/pso-tf-socks-proxy].
+Migrated version of Jumpbox build based on AL2 will be (here)[https://github.com/department-of-veterans-affairs/pso-tf-jumpbox].
 
 ### Testing Plan
-_How you will verify the behavior of your system. Once the system is written, this section should be updated to reflect the current state of testing and future aspirations._
+We expect to stand up the migrated version of each application side by side with each of the AL1-based application they will replace.
+1. Stand-up the migrated iteration of the application
+2. Target the AL2-based version of the application with specific traffic
+3. Execute test cases that cover core functionality
+4. Iterate
+5. Announce migration to user group and request feedback through specific communication channels
+6. Introduce the AL2-based version into the pool of possible servers handling application requests
+7. Monitor for issues
+8. Phase out the older AL1-based version of the application
 
 ### Logging
 _What your system will record and how._
@@ -68,10 +76,6 @@ _What your system will record and how._
 _How users can debug interactions with your system. When designing a system it's important to think about what tools you can provide to make debugging problems easier. Sometimes it's unclear whether the problem is in your system at all, so a mechanism for isolating a particular interaction and examining it to see if your system behaved as expected is very valuable. Once a system is in use, this is a great place to put tips and recipes for debugging. If this section grows too large, the mechanisms can be summarized here and individual tips can be moved to another document._
 
 ### Caveats
-_Gotchas, differences between the design and implementation, other potential stumbling blocks for users or maintainers, and their implications and workarounds. Unless something is known to be tricky ahead of time, this section will probably start out empty._
-
-_Rather than deleting it, it's recommended that you keep this section with a simple place holder, since caveats will almost certainly appear down the road._
-
 _To be determined._
 
 ### Security Concerns
