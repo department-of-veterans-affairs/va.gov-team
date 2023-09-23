@@ -22,15 +22,18 @@ Secondary navigation that will support these tools well, and allow them to be se
 <img width="1115" alt="Screenshot 2023-09-20 at 10 04 04 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/777c6258-3b56-4c28-95bc-d5cbe89578e8">
 
 ### Facilities template:
-<img width="706" alt="Screenshot 2023-09-20 at 10 27 16 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/aba6c9be-05a6-44f6-971b-0f0a40a4b013">
-
+<p align="center">
+  <img width="706" alt="Screenshot 2023-09-20 at 10 27 16 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/aba6c9be-05a6-44f6-971b-0f0a40a4b013">
+</p>
 ## Mock-ups of health portal secondary navigation using current designs 
 We mocked-up what the MHV on VA.gov planned secondary navigation structure would look like using the two secondary navigation designs in use on VA.gov. There are some important differences between the two designs. 
 ### Desktop
 <img width="1196" alt="Screenshot 2023-09-22 at 9 12 10 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/4f62c79c-ddc4-4635-993d-f38c7873c942">
 
 ### Mobile
-<img width="598" alt="Screenshot 2023-09-22 at 9 39 53 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/c32c4fec-47f8-4f99-a9db-902aeae34e5f">
+<p align="center">
+  <img width="598" alt="Screenshot 2023-09-22 at 9 39 53 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/c32c4fec-47f8-4f99-a9db-902aeae34e5f">
+</p>
 
 ## Problems with current secondary navigation options
 The existing sidenav component is not fully supported by the Design System, and implementations are likely inconsistent across VA.gov. The component was created to mimic the sidenavigation native to VA.gov's content management system (CMS), Drupal. Most pages across VA.gov display the Drupal version. 
