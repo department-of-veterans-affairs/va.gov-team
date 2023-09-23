@@ -74,7 +74,8 @@ Here is a summary of the change
   - use the 'effective date' as the new timestamp.  This will probably require buy in from VA and changes on their API
   - find everywhere we interact with ITF and update / check for continuity with the new logic.  We can't assume these ITFs will be created quickly, or at all. 
   - Develop a roll out plan.  We will probably need isolate this on the 526
-- Do we need to block submission of the 526 Form until ITFs are created?  seems like a whole new can of worms
+- Do we need to block submission of the 526 Form until ITFs are created?  seems like a whole new can of worms.
+- Check with VA (David Reis) about how this may affect their side of the fence
 
 #### Bonus Stuff
 - I've identified a weird state that is possible but unlikely where a catostrophic failure in the vets-api (**not the underlying services, but the actual vets-api code**) can put a user in a state where they see an error but their ITF was successfully created.  This is not something likely to happen in the wild, but probalby worth considering a fix for.  [This Slack thread](https://dsva.slack.com/archives/C053U7BUT27/p1695228246634029) outlines why this is different from our Catastrophic ITF failure, and how it (theoretically) happens
