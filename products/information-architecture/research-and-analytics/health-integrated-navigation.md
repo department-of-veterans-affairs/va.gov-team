@@ -53,10 +53,13 @@ The existing sidenav component is not fully supported by the Design System, and 
 
 ### Problem 3: Research suggests that users aren't finding it on mobile
 
-### Problem 4: Mobile version is floating in space without context
+### Problem 4: Mobile version placement is "floating in space"
+In both versions of the mobile component, the "in this section" button appears before the page title (H1) which removes its context, and makes it "float in space." The loudest text on the page is the title, and most users would expect to see options beneath or alongside this title text, not above it. 
 
 ### Problem 5: Mobile version adds confusion by conflating other navigation components 
-* Nested breadcrumbs
+The general version of the sidenav mobile component (does not occur in facilities version) nests breadcrumbs inside the navigation menu. While it has not been formally researched (from digging into the research repo), it is likely that users do not understand the distinction between the breadcrumb and nav menu options on display when this component is expanded.
+
+When users do click the nested breadcrumbs, which are hyperlinks, they will navigate to a new page, which will close out the "in this section" component. This could cause confusion or frustration. 
 
 ### Problem 6: Mobile behavior narrows what is visible based on how deeply a link is nested
 
@@ -82,9 +85,8 @@ The existing sidenav component is not fully supported by the Design System, and 
 ## Needs for health portal secondary navigation
 * Must allow users to move from one tool to another seamlessly
 * Must be placed consistently on the page (across all modalities), with all health tools persistently available and visible to the user
-* Must be visually louder than primary site navigation
+* Should be visually louder than primary site navigation
 * Must consider its relationship to the primary site navigation (mega menu)
-* Must be situated in the context of what section of the site the user is in
 
 ## Resources for navigation accessibility
 * [Gov.uk | Sticky elements: functionality and accessibility testing](https://technology.blog.gov.uk/2018/05/21/sticky-elements-functionality-and-accessibility-testing/)
