@@ -25,14 +25,16 @@ Secondary navigation that will support these tools well, and allow them to be se
 <p align="center">
   <img width="706" alt="Screenshot 2023-09-20 at 10 27 16 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/aba6c9be-05a6-44f6-971b-0f0a40a4b013">
 </p>
+
 ## Mock-ups of health portal secondary navigation using current designs 
 We mocked-up what the MHV on VA.gov planned secondary navigation structure would look like using the two secondary navigation designs in use on VA.gov. There are some important differences between the two designs. 
+
 ### Desktop
 <img width="1196" alt="Screenshot 2023-09-22 at 9 12 10 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/4f62c79c-ddc4-4635-993d-f38c7873c942">
 
 ### Mobile
 <p align="center">
-  <img width="598" alt="Screenshot 2023-09-22 at 9 39 53 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/c32c4fec-47f8-4f99-a9db-902aeae34e5f">
+  <img width="765" alt="Screenshot 2023-09-22 at 9 46 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/64f2e2e6-1958-44fb-87c4-d81fa101724b">
 </p>
 
 ## Problems with current secondary navigation options
