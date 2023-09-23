@@ -2,7 +2,7 @@
 
 ## Overview:
 
-When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and Medical Records) reach Phase 1, they will be fully integrated into the VA.gov experience. At that point, we need to design navigation that helps users navigate between the tools and the MHV on VA.gov landing page, so that they experience it as a seamless portal. 
+When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and Medical Records) reach Phase 2, they will be fully integrated into the VA.gov experience. At that point, we need to design navigation that helps users navigate between the tools and the MHV on VA.gov landing page, so that they experience it as a seamless portal. 
 
 **Obstacles:**
 As we enter the "try me" phase and beyond, FAQ content within the tools themselves can be migrated to pages in the Resources & Support section on VA.gov, where most FAQ-type content lives across VA.gov. Without that content, most tool-level landing pages will be bare & less helpful, so they will be eliminated. This will require some navigation restructuring within the tools. Those changes need to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
@@ -10,24 +10,27 @@ As we enter the "try me" phase and beyond, FAQ content within the tools themselv
 Secondary navigation that will support these tools well, and allow them to be seamlessly integrated, will push beyond the limits of existing secondary navigation designs on VA.gov. The current designs and the problems they pose are articulated below.
 
 ## Desktop - current secondary navigation designs
-#### General:
+### General:
 <img width="1147" alt="Screenshot 2023-09-20 at 10 49 46 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/a7970d62-88d2-4094-b6f1-03e4b182e97d">
 
-#### Facilities template:
+### Facilities template:
 <img width="1153" alt="Screenshot 2023-09-20 at 10 38 19 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/97981bbe-2433-4f52-9f64-16662133ca10">
 
 
 ## Mobile - current secondary navigation designs
-#### General:
+### General:
 <img width="1115" alt="Screenshot 2023-09-20 at 10 04 04 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/777c6258-3b56-4c28-95bc-d5cbe89578e8">
 
-#### Facilities template:
+### Facilities template:
 <img width="706" alt="Screenshot 2023-09-20 at 10 27 16 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/aba6c9be-05a6-44f6-971b-0f0a40a4b013">
 
 ## Mock-ups of health portal secondary navigation using current designs 
+We mocked-up what the MHV on VA.gov planned secondary navigation structure would look like using the two secondary navigation designs in use on VA.gov. There are some important differences between the two designs. 
+### Desktop
+<img width="1196" alt="Screenshot 2023-09-22 at 9 12 10 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/4f62c79c-ddc4-4635-993d-f38c7873c942">
 
-
-
+### Mobile
+<img width="598" alt="Screenshot 2023-09-22 at 9 39 53 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/c32c4fec-47f8-4f99-a9db-902aeae34e5f">
 
 ## Problems with current secondary navigation options
 The existing sidenav component is not fully supported by the Design System, and implementations are likely inconsistent across VA.gov. The component was created to mimic the sidenavigation native to VA.gov's content management system (CMS), Drupal. Most pages across VA.gov display the Drupal version. 
@@ -58,17 +61,17 @@ The existing sidenav component is not fully supported by the Design System, and 
 ### Problem 8: History of accessibility issues with these components
 
 #### Secondary nav menu being sticky:
-* Ticket [#22824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22824)
-* Ticket [#19779](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19779)
-* Ticket [#19784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19784)
+* [#22824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22824)
+* [#19779](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19779)
+* [#19784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19784)
 
 #### Focus management
-* Ticket [#22826](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22826)
-* Ticket [#30603](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30603)
+* [#22826](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22826)
+* [#30603](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30603)
 
 #### Lack of context for accessibility
-* Naming convention not unique for this component: Ticket [#59760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59760)
-* Button lacks context to communicate that it will open a menu: Ticket [#28698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28698)
+* Naming convention not unique for this component: [#59760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59760)
+* Button lacks context to communicate that it will open a menu: [#28698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28698)
 
 
 ## Needs for health portal secondary navigation
