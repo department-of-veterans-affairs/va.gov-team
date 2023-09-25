@@ -4,8 +4,8 @@
 - [Product](#product)
 - [Priorities and Backlog](#priorities-and-backlog)
 - [Production Wireframes in VA Sketch Cloud](#production-wireframes-in-va-sketch-cloud)
+- [Other Design Artifcats](#other-design-artifacts)
 - [Content](#content)
-- [Posters](#posters)
 - [Testing](#testing)
 - [Releases](#releases)
 - [Process](#process)
@@ -53,15 +53,17 @@
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
 
 ## Production Wireframes in VA Sketch Cloud
-- [In person Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/D830D75A-3B87-4A5F-9EAF-622D2913AF5D) in Sketch Cloud
-- [In person Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/F5EF96F6-7B82-4D03-95F5-7DAB610B8617) in Sketch Cloud
-- [Telephone Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/EA3E9DDA-30E8-47AB-8335-C31F3A0AFB5C) in Sketch Cloud
+- [In person Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/6559E321-AF82-42D1-837D-75F9DB19DF15/canvas) in Sketch Cloud
+- [Telephone Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/37E0C5B9-D07D-4782-AF6B-6AD947AE0BE2/canvas) in Sketch Cloud
+- [In person Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/0213EBFE-75F9-4C0E-805B-5E77F30A8F04/canvas) in Sketch Cloud
+- [In person Check-in with beneficiary travel reimbursement](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/A6E73D11-A95C-4EC0-A3B7-792CE5799C59/canvas) in Sketch Cloud
+
+## Other Design Artifacts 
+- [Check in posters (for download)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/design/visual-collateral)
+- [Unified check in draft design](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0EC89917-F949-4461-A7B3-32A5201FD2A2/canvas) in Sketch Cloud
 
 ## Content
 - [Text & Error Messages: Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/text-and-error-messages.md)
-
-## Posters
-- [Visual Collateral](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/design/visual-collateral)
 
 ## Testing
 - [Facility Directory](https://www.va.gov/directory/guide/rpt_fac_list.cfm?sort=Sta&list_by=all&oid=all)
