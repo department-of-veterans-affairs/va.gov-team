@@ -171,7 +171,7 @@ If needed:
 - Whether the participant found the links in the auth menu
 - If they found the links, how easy or difficult it was
 
-## Emergency Contact & Next of Kin questions – - 6/8 (AT) minutes
+## Emergency Contact & Next of Kin questions – 6/8 (AT) minutes
 
 - Where would you expect to be able to list your Emergency Contact and Next of Kin in your Profile?
 - How would you expect VA to use this information? 
