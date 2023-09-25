@@ -19,6 +19,7 @@ The current process is bad because:
 - Only one or two people actually know how to do this work!  That makes it dangerous and slow.  
 
 [This slack thread covers the genesis of this idea.](https://dsva.slack.com/archives/C053U7BUT27/p1694192774356649)
+[Slack follow up with Kyle and Sade](https://dsva.slack.com/archives/C05NN997TUM/p1694799856204849)
 
 ## What should we do to improve?
 
