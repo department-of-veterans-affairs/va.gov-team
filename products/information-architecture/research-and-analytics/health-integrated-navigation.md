@@ -75,7 +75,8 @@ The general template dynamically updates and narrows what pages are visible to t
 More than any other problem, this in particular **will not work** for the health portal on VA.gov, which needs all the health tools to be accessible in any solution in order to provide seamless, constant, and consistent navigation to the end-user. For any tool with child pages, such as medical records or secure messaging, the user's sidenav view will dynamically change when they click into a child page, such as "inbox" or "drafts." They will no longer see the wider tools beyond the section they have drilled down into. 
 
 ### Problem 7: Secondary navigation carries the weight of displaying the user's sense of place on the site
-* A common pattern revealed by the competitive analysis was that many sites do this in the header, allowing navigation components to be more lightweight.
+* VA.gov has only the breadcrumb to indicate a user's sense of place. A pattern revealed by the competitive analysis was that many sites use a block header to establish the user's place on the site, allowing navigation components to be more lightweight. Examples below: 
+<img width="835" alt="Screenshot 2023-09-25 at 9 53 14 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/509f1e18-820d-4614-8b5b-3b34896eb747">
 
 ### Problem 8: History of accessibility issues with these components
 
