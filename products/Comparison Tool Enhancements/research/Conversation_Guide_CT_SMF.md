@@ -48,7 +48,7 @@ Slack for real-time feedback from observers.
 ## Intro - 5 minutes
 
 <b> Moderator only </b>
-Thanks for joining us today. My name is Garry Forbes. I'll be your moderator for this session, and my GovCIO colleague Ariana Adili will be observing and taking notes. Other colleagues may be in the Zoom waiting room who would like to observe and take notes as we work through the session.
+Thanks for joining us today. My name is [moderator]. I'll be your moderator for this session, and my colleague [colleague name] will be observing and taking notes. Other colleagues may be in the Zoom waiting room who would like to observe and take notes as we work through the session.
 
 The subject of this study is filtering options and capabilities--specifically, the Specialized Mission Filters--that are available in the GI Bill Comparison Tool. We'd like you to try the filters to see how they're applied to educational institution searches, and let us know if you think they'll be useful to you.
 
