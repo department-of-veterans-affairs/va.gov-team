@@ -64,6 +64,10 @@ Regarding the side navigation menu:
 	- Does it introduce friction for mobile users to scroll the hub page’s section overviews without the benefit of a menu? 
 	- Are there any differences in usability between large and small screens?
 
+If time permits:
+- To what extent would veterans look in their authenticated menu for links to dependents and letters?
+- Where within their profile would veterans expect to find emergency contact and next of kin information?
+
 ### Hypothesis
 
 We hypothesize that the Profile Hub will resolve the structural and organization issues detailed in the background section above by:
