@@ -27,7 +27,7 @@ Example situation that causes this error:
 TL;DR - when a vet selects a disability, leaves their form for a while, then comes back to submit, the downstream data around that disablity has changed, rendering their form stale.
 
 ## Possible Solutions
-There basically 3 ways to solve this:
+There basically 3.5 ways to solve this:
 
 ### The Backup path way
 
