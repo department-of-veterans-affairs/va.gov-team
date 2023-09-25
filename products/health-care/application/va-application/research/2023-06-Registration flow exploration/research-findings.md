@@ -32,7 +32,7 @@ This is a generative study to gain an understanding of the current mental model 
 
 This impacts the Veteran journey during through the phases on starting up to aging. This impacts the key momemet that matters during the starting up phase and selecting health care coverage that meets their specific needs. 
 
-- [See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+- [See the Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
 **Research Goals**
 - Learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them and the process to getting the level the care they want/need.
@@ -72,8 +72,6 @@ The methodolgy used was structured interviews with questions focused on the curr
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
 _Hypothesis statement_
@@ -81,11 +79,22 @@ _Hypothesis statement_
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 
+
+
+We assume that Veterans will not use the term "registration only" when referring to health care benefits, but will be familiar with enrollment and eligibility.
+- **.**
+
+We assume that Veterans will use the term registration when they are talking about choosing their main VA medical facility for care, not applying for benefits.
+- **.**
+  
+We assume adding the term/step of "registration" will add to the confusion around health care benefits.
+- **.**
+  
+We assume not all Veterans can complete the enrollment process in one go, that there are often stops, such as an exam and claims filed in between.
+- **.**
+
+  
 ## Key Findings
-
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
 1. Finding one
 
@@ -185,18 +194,14 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694534503317/64631db1993138149052aa6f858d17e1aab57f5a?sender=uadf1ed7fe7c76f0914967329)
+  
 
-
-## Pages and applications used
-
-Link to prototypes or pages that were tested
 
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
-
+- [Mural with paper form instructions](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690928150976/0ce17c5b63ed3a2fd75736ac481d2d6e31fd927b?sender=uadf1ed7fe7c76f0914967329)
 
 ## Secondary research
 
@@ -209,6 +214,7 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
+
 **Recruitment criteria**
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
@@ -217,7 +223,7 @@ We talked to **x participants.**
 
 Audience segment:
 * Veterans: x 
-* Caregivers: x 
+* Caregivers: 0 
 * Family members of a Veteran: x  
 
 
