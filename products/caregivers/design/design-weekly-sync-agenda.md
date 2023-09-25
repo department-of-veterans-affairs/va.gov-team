@@ -1,5 +1,17 @@
 # Design Weekly Sync Agenda
 
+## 2023-08-21
+
+Attendees: DK, Katelyn, Hieu, Kristen, Alex
+
+A few quick notes from the session, which was mostly about the EZR work:
+
+- We probably don't need the stepper on the form intro page. Check with Matt L. on nixing it.
+- Work on next appointment language could be helpful. Check with that team.
+- Check on application vs. form language with content.
+- What happens when people with account go into form, but aren't enrolled and can't apply? We need an alert for this.
+- Need a ticket for error messages. Look at the EZ for inspiration here.
+
 ## 2023-08-14
 
 Attendees: DK, Katelyn, Hieu, Kristen, Emily, Alex
