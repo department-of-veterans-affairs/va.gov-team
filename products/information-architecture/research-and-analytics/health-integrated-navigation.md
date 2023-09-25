@@ -63,30 +63,30 @@ There are several differences between the two secondary navigation designs on VA
   
 ### Problem 3: Inconsistent compared to primary mega menu navigation  
 
-### Problem 3: Research shows that users aren't finding it on mobile
+### Problem 4: Research shows that users aren't finding it on mobile
 Quantitative data suggests that despite users being mostly split between desktop and mobile/tablet usage, that the usage of the secondary navigation on these devices does not follow that breakdown whatsoever. Compared to desktop engagement with the side navigation menu, only 14% of almost the same number of mobile users are clicking it. 
 <img width="1244" alt="Screenshot 2023-09-25 at 11 18 09 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/9ca36d08-8f2d-4beb-a13c-34099c0c5bcb">
 
-### Problem 4: Mobile version placement is "floating in space"
+### Problem 5: Mobile version placement is "floating in space"
 In both versions of the mobile component, the "in this section" button appears before the page title (H1) which removes its context, and makes it "float in space." The loudest text on the page is the title, and most users would expect to see options beneath or alongside this title text, not above it. 
 
-### Problem 5: Mobile version adds confusion by conflating other navigation components 
+### Problem 6: Mobile version adds confusion by conflating other navigation components 
 The general version of the sidenav mobile component (does not occur in facilities version) nests breadcrumbs inside the navigation menu. While it has not been formally researched (from digging into the research repo), it is likely that users do not understand the distinction between the breadcrumb and nav menu options on display when this component is expanded.
 
 When users do click the nested breadcrumbs, which are hyperlinks, they will navigate to a new page, which will close out the "in this section" component. This could cause confusion or frustration. 
 
-### Problem 6: General template behavior narrows what is visible based on how deeply a link is nested
+### Problem 7: General template behavior narrows what is visible based on how deeply a link is nested
 The general template dynamically updates and narrows what pages are visible to the user as they continue to click more deeply into the site. On both desktop and mobile, the only way to go back to a previous view is to use the breadcrumb to navigate back up the tree. However, on mobile this is a confusing and unexpected experience, as it is much less visually clear that the breadcrumb is a different component than other text within the component. 
 
 More than any other problem, this in particular **will not work** for the health portal on VA.gov, which needs all the health tools to be accessible in any solution in order to provide seamless, constant, and consistent navigation to the end-user. For any tool with child pages, such as medical records or secure messaging, the user's sidenav view will dynamically change when they click into a child page, such as "inbox" or "drafts." They will no longer see the wider tools beyond the section they have drilled down into. 
 
-### Problem 7: Secondary navigation carries the weight of displaying the user's sense of place on the site
+### Problem 8: Secondary navigation carries the weight of displaying the user's sense of place on the site
 * VA.gov has only the breadcrumb to indicate a user's sense of place. A pattern revealed by the competitive analysis was that many sites use a block header to establish the user's place on the site, allowing navigation components to be more lightweight. Examples below:
 <p align="center">
   <img width="828" alt="Screenshot 2023-09-25 at 9 55 47 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/a4e22d32-a03b-4b51-8131-8ed13b49a87d">
 </p>
 
-### Problem 8: History of accessibility issues with these components
+### Problem 9: History of accessibility issues with these components
 Past issue tickets have captured problems with the secondary navigation design. While several of these have been solved, they point fingers to the fact that the component was not design with an a11y-first mindest.
 
 #### Secondary nav menu being sticky:
