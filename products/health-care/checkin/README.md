@@ -40,7 +40,7 @@
 - [Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25) - IA
 
 ## Terminology
-- Pre-Registration: The collection of Demographics, Next of Kin, and possibly Emergency Contact data.
+- Pre-Registration: The verification of up to date insurance, contact information, next of kin, and emergency contact information for VA medical appointments. 
 - Pre-Check In: The application workflow that occurs one to seven days before an appointment to collect Pre-Registration Information.
 - Day-of Check In: The application workflow that occurs within the window that is no more than 45 minutes before and up to 15 minutes after a Veteran's appointment 
 - [Acronyms](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product)
