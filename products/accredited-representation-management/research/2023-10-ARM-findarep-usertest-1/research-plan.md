@@ -42,7 +42,16 @@ What do you intend to learn and measure from this study? Think through these pro
 - Remember to constrain the hypothesis to the goals of your study!
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+- Ask for 25% more participants than wanted
+- Ask for notes help, need to provide convo guide
+- Zoom - request practice session
+- Use percentage breakdowns from here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy
+- 4 - 6 users per group - currently 4 desktop and 4 mobile was thought - open to feedback
+Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.
+- Limit to 2 viewers at a time, videos will be available on Sharepoint, information will be posted in feedback slack and observers are asked to review this beforehand https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md
+- See if someone is open to notetaking: https://depo-platform-documentation.scrollhelp.site/research-design/notetaker-guidelines
+- Set up Zoom transcripts https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-a-transcript
+- Otherwise notes can be taken in shared Mural which will be provided prior: template: https://app.mural.co/template/0e63994b-bce9-4b53-8e37-b5293a2b4dac/20381d25-a5d5-4457-9893-eeb2e9cb6ff4
 
 Examples of common research methods include: 
 - Semi-structured interviews - appropriate for generative research
