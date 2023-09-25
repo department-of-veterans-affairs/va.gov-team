@@ -89,6 +89,7 @@ Facilitated a big meeting or small group? You've helped serve as glue for our co
 - Brittany Iannuzzi
 - Charlotte Cesana
 - Julie Strothman
+- Tyler Gindraux
 
 #### How do I serve as a facilitator?
 1. Volunteer at our next big meeting
