@@ -16,8 +16,10 @@ We posit that a successful solution must do the following:
 * Persistently display all health tools to the user
 * Explore and test whether being visually louder than primary site navigation is more useful to Veterans and VA.gov users
 
-### Obstacles:
-In the "try me" phase and beyond, FAQ content within the tools themselves can be migrated to pages in the Resources & Support section on VA.gov, where most FAQ-type content lives across VA.gov. Without that content, most tool-level landing pages will be bare & less helpful, so they can and should be eliminated. This will require some navigation restructuring within the tools. Those changes need to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
+### Challenges to this work:
+* In the "try me" phase and beyond, FAQ content within the tools themselves can be migrated to pages in the Resources & Support section on VA.gov, where most FAQ-type content lives across VA.gov. Without that content, most tool-level landing pages will be bare & less helpful, so they can and should be eliminated. This will require some navigation restructuring within the tools. Those changes need to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
+* Now that the integration of tools on VA.gov has been delayed to Phase 2, significant pressure will be put on this solution to be successful at launch. While the tools will have phases 0 & 1 to receive and respond to user feedback, all features that will not launch until complete tool integration will go live to large numbers of users well past the "try me" phase. They will be very consequential at launch. Because of this, we need to do significant user testing prior to that date to understand whether these designs are working for our user base. 
+
 
 ## Desktop - current secondary navigation designs
 ### General:
