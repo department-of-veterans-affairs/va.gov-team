@@ -1,13 +1,22 @@
-# Health Portal Integrated Navigation: Secondary Navigation Research Report
+# Health Portal Integrated Navigation
+Secondary Navigation Research Report
 
 ## Overview:
 
-When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and Medical Records) reach Phase 2, they will be fully integrated into the VA.gov experience. At that point, we need to implement navigation that helps users navigate between the tools and the MHV on VA.gov landing page, so that they experience it as a seamless portal. 
+When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and Medical Records) reach Phase 2, they will be fully integrated into the VA.gov experience. At that point, we need to implement a secondary navigation strategy that helps users navigate between the tools and the MHV on VA.gov landing page, so that they experience it as a seamless portal. 
+
+Navigation that will support these tools well and afford for seamless integration will push beyond the limits of existing secondary navigation designs on VA.gov. The current designs and the problems they pose are articulated below.
+
+**We posit that a successful navigation solution must:** 
+* Allow users to move from one tool to another seamlessly
+* Be simple (have subpages minimized so that the menu can stay focused)
+* Be consistently designed and located on **all** pages of the health experience (across all modalities)
+* Be situated in proximity to My HealtheVet labeling for clarity (not above or outside of this context)
+* Persistently display all health tools to the user
+* Should explore and test whether being visually louder than primary site navigation is more useful to Veterans and VA.gov users
 
 **Obstacles:**
 In the "try me" phase and beyond, FAQ content within the tools themselves can be migrated to pages in the Resources & Support section on VA.gov, where most FAQ-type content lives across VA.gov. Without that content, most tool-level landing pages will be bare & less helpful, so they can and should be eliminated. This will require some navigation restructuring within the tools. Those changes need to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
-
-Navigation that will support these tools well and afford for seamless integration will push beyond the limits of existing secondary navigation designs on VA.gov. The current designs and the problems they pose are articulated below.
 
 ## Desktop - current secondary navigation designs
 ### General:
@@ -106,7 +115,6 @@ Past issue tickets have captured problems with the secondary navigation design. 
 * Must allow users to move from one tool to another seamlessly
 * Must be placed consistently on the page (across all modalities), with all health tools persistently available and visible to the user
 * Should be visually louder than primary site navigation
-* Must consider its relationship to the primary site navigation (mega menu)
 
 ## Resources for navigation accessibility
 * [Gov.uk | Sticky elements: functionality and accessibility testing](https://technology.blog.gov.uk/2018/05/21/sticky-elements-functionality-and-accessibility-testing/)
