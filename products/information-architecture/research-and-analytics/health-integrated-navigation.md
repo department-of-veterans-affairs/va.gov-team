@@ -2,12 +2,12 @@
 
 ## Overview:
 
-When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and Medical Records) reach Phase 2, they will be fully integrated into the VA.gov experience. At that point, we need to design navigation that helps users navigate between the tools and the MHV on VA.gov landing page, so that they experience it as a seamless portal. 
+When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and Medical Records) reach Phase 2, they will be fully integrated into the VA.gov experience. At that point, we need to implement navigation that helps users navigate between the tools and the MHV on VA.gov landing page, so that they experience it as a seamless portal. 
 
 **Obstacles:**
-As we enter the "try me" phase and beyond, FAQ content within the tools themselves can be migrated to pages in the Resources & Support section on VA.gov, where most FAQ-type content lives across VA.gov. Without that content, most tool-level landing pages will be bare & less helpful, so they will be eliminated. This will require some navigation restructuring within the tools. Those changes need to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
+In the "try me" phase and beyond, FAQ content within the tools themselves can be migrated to pages in the Resources & Support section on VA.gov, where most FAQ-type content lives across VA.gov. Without that content, most tool-level landing pages will be bare & less helpful, so they can and should be eliminated. This will require some navigation restructuring within the tools. Those changes need to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
 
-Secondary navigation that will support these tools well, and allow them to be seamlessly integrated, will push beyond the limits of existing secondary navigation designs on VA.gov. The current designs and the problems they pose are articulated below.
+Navigation that will support these tools well and afford for seamless integration will push beyond the limits of existing secondary navigation designs on VA.gov. The current designs and the problems they pose are articulated below.
 
 ## Desktop - current secondary navigation designs
 ### General:
@@ -40,14 +40,20 @@ We mocked-up what the MHV on VA.gov planned secondary navigation structure would
 ## Problems with current secondary navigation options
 The existing sidenav component is not fully supported by the Design System, and implementations are likely inconsistent across VA.gov. The component was created to mimic the sidenavigation native to VA.gov's content management system (CMS), Drupal. Most pages across VA.gov display the Drupal version. 
 
+
 ### Problem 1: Inconsistent on mobile v. desktop
-* Color scheme different
-* Open/close interaction
-* Mobile does not show all options persistently (narrows based on user's location), but desktop does
-* 
+On Desktop, the side navigation is persistently visible and available; on mobile these options are collapsed into the "in this section" sidenav component, which is a second menu option (in addition to the primary mega menu). When a user expands the mobile component, they will see a fly-out menu (which varies depending on which template type they see - more in Problem #2 below). Once a selection is made, the user's touch can expand a menu parent page (if applicable) or it can click a link that will close the menu and navigate the user to that page. 
 
 ### Problem 2: Inconsistent versions (general vs. facilites template version)
+There are several differences between the two secondary navigation designs on VA.gov today. 
+* **Design differences:**
+  * Link text: the two templates use different blues
+  * Indicator for current page (& hover page): different colors, different vertical rule thickness, different background color, distinct treatments
+  * Different styling for section name/parent page: unclickable section/heading names in all-caps on facilites template vs. clickable section/heading names that are not in all-caps on general template
+<img width="426" alt="Screenshot 2023-09-24 at 9 24 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/51d80b56-e8cd-4b08-8b92-03a3e06dc087">
 
+  
+* **Layout difference:** facilities template displays all sections and subpages at once, at all times and does not have a way to collapse or expand irrelevant sections. The general template does have functionality to collapse and expand
 
 ### Problem 3: Inconsistent compared to primary mega menu navigation  
 
@@ -61,7 +67,7 @@ The general version of the sidenav mobile component (does not occur in facilitie
 
 When users do click the nested breadcrumbs, which are hyperlinks, they will navigate to a new page, which will close out the "in this section" component. This could cause confusion or frustration. 
 
-### Problem 6: Mobile behavior narrows what is visible based on how deeply a link is nested
+### Problem 6: General template behavior narrows what is visible based on how deeply a link is nested
 
 ### Problem 7: Secondary navigation carries the weight of displaying the user's sense of place on the site
 * A common pattern revealed by the competitive analysis was that many sites do this in the header, allowing navigation components to be more lightweight.
