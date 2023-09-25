@@ -70,6 +70,9 @@ The general version of the sidenav mobile component (does not occur in facilitie
 When users do click the nested breadcrumbs, which are hyperlinks, they will navigate to a new page, which will close out the "in this section" component. This could cause confusion or frustration. 
 
 ### Problem 6: General template behavior narrows what is visible based on how deeply a link is nested
+The general template dynamically updates and narrows what pages are visible to the user as they continue to click more deeply into the site. On both desktop and mobile, the only way to go back to a previous view is to use the breadcrumb to navigate back up the tree. However, on mobile this is a confusing and unexpected experience, as it is much less visually clear that the breadcrumb is a different component than other text within the component. 
+
+More than any other problem, this in particular **will not work** for the health portal on VA.gov, which needs all the health tools to be accessible in any solution in order to provide seamless, constant, and consistent navigation to the end-user. For any tool with child pages, such as medical records or secure messaging, the user's sidenav view will dynamically change when they click into a child page, such as "inbox" or "drafts." They will no longer see the wider tools beyond the section they have drilled down into. 
 
 ### Problem 7: Secondary navigation carries the weight of displaying the user's sense of place on the site
 * A common pattern revealed by the competitive analysis was that many sites do this in the header, allowing navigation components to be more lightweight.
