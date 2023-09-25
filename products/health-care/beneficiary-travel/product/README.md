@@ -29,7 +29,7 @@ This document is a high level snapshot of where we are today and where we want t
 
 Full list of [OKRS](./OKRS.md) and full project description in the [README](../README.md)
 
-- Create a mobile friendly, accessible claims submission tool on va.gov for a fully authenticated user
+- Create a mobile friendly, accessible BT claims submission tool on va.gov for a fully authenticated user
 - Create an integration with the BTSSS system and the Vets-api that can be leveraged for various products on the va.gov ecosystem
 
 ## Team Breakdowns and Key Personal
@@ -51,6 +51,7 @@ This team will focus on iterating and expanding the Claims Ingest API
 ### va.gov team
 
 This team is focused on create the new experience on va.gov and integration vets-api with the Claims Ingest API
+
 
 ## By the end of 2023
 
