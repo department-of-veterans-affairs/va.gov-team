@@ -1,16 +1,18 @@
-<br>**This is a template, PLEASE MAKE A COPY**
 
----
 
-# [Study] Research Findings 
+# Health care applicaiton "registration only" generative mental model study Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ Health Care Application, Health Enrollment Team**
 
-Date: MM/DD/YYYY
+Date: October 2023
 
-[Designer 1] [email], [Designer 2] [email]
+Jessica Stump [jessica.stump@adhocteam.us], [Designer 2] [email]
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+
+- Draft presentation link
+
+- 
 
 **Jump to:**
 
@@ -22,31 +24,48 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+How might we enable Veterans who simply want to "register" for a specific level of care — up to and including the full medical benefits package — do that instead of processing all applications as enrollment applications? The outcomes of this initiative including getting Veterans access to the health care benefits for their needs in a transparent and simple process while asking only for the information required for their circumstance (future "short form" growth)
 
-_Then, describe your goals for this research_
+This is a generative study to gain an understanding of the current mental model of Veterans in regards to different benefit types of health care coverage.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+This impacts the Veteran journey during through the phases on starting up to aging. This impacts the key momemet that matters during the starting up phase and selecting health care coverage that meets their specific needs. 
 
+- [See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+
+**Research Goals**
+- Learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them and the process to getting the level the care they want/need.
+
+- Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care during the health care application process.
+
+- Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they need to provide in that process.
 
 
 ## Research Questions
 
-_Research questions here_
+**Our goal is to learn if Veterans who have recently started receiving health care benefits are aware of the terms and difference between registration and enrollment as it pertains to them.**
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
+- What is the experience of "registering only" today?
+- Are Veterans aware that they registered or just that they declined enrollment?
+- What are the reasons a Veteran would decline to enroll in health care when completing the application?
 
+**Learn more about Veteran's mental model when applying for health care benefits and the terms they use (apply, enroll, register, etc) and how they see levels of care during the health care application process.**
 
-* Question 
-* Question
-* Question
+- Are Veterans aware of the health care differences between enrollment and registration?
+- What terms do Veterans use when describing if they are enrolled or registered for health care benefits?
+- What is the Veteran's mental model of discovering, getting and keeping health care benefits as they go through the application process?
+
+**Learn more about how Veterans would like to go about applying, discovering eligibility and getting the most health care benefits they qualify for and what amount of information they need to provide in that process.**
+
+- What are the Veteran's current pain points with how the health care application impacts the overall benefits journey?
+- What do Veterans expect from the order and process of applying (registering or enrolling) for health care benefits?
+- When does it make sense to Veterans to go through eligibility based questions? (before, during or after application)
+- What other applications/claims/VA services must Veterans interact with that could change their choice from registeration to enrollment in the full medical benefits package?
 
 ## Methodology 
 
-_Brief description of method chosen_
+The methodolgy used was structured interviews with questions focused on the current application experience, understanding of benefits and eligibility, ideal state then getting reactions from an example of current instructions on the 10-10EZ paper form.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+
 
 
 ## Hypotheses and Conclusions
