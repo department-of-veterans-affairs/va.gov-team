@@ -7,7 +7,8 @@ When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and M
 
 Navigation that will support these tools well and afford for seamless integration will push beyond the limits of existing secondary navigation designs on VA.gov. The current designs and the problems they pose are articulated below. 
 
-### We posit that a successful navigation solution must:
+### What does a successful solution need? 
+We posit that a successful solution must do the following: 
 * Allow users to move from one tool to another seamlessly
 * Be simple (have subpages minimized so that the menu can stay focused)
 * Be consistently designed and located on **all** pages of the health experience (across all modalities)
