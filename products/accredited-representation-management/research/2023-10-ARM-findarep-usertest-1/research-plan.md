@@ -9,7 +9,8 @@ The primary goal is to make it easier, safer, and faster for Veterans to assign 
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+- Enhance Veterans’ personalized online experience
+- Fast-track disability claims, starting with PACT Act claims
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 This work touches on various aspects of the Veteran Journey. Whenever a Veteran could potentially need help this feature would be relevant. For many Veterans, this can happen at any point along their life journey.
