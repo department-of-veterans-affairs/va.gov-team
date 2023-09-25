@@ -48,9 +48,10 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Prior user research for Decision Reviews and Claim Status Tool have shown us that Veterans are expecting a way to keep a record of what they submitted.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - This replaces the current CTA to 'Print this page for confirmation'
+  - The risk is if Veterans believe they need to submit the downloaded PDF, but we've included measures (watermark) that clearly states the copy is not for submission. 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
@@ -64,6 +65,9 @@
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
+
+- Scope of this build is for all three decision reviews (Supplemental Claims, Notice of Disagreement/Board Appeal, Higher-Level Review) on the confirmation page only.
+- Lighthouse has created an endpoint that adds a watermark to the PDF package.
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
@@ -135,10 +139,10 @@
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: Benefits Decision Review
+- GitHub Label(s): benefits-team-1, squad-2
+- Slack channel: [benefits-decision-review](https://dsva.slack.com/archives/C5AGLBNRK)
+- Product POCs: Premal Shah, Sade Ragsdale, Eileen Chi
 
 </details>
 
