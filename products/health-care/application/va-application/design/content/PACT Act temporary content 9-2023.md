@@ -1,5 +1,6 @@
 # 9/2023 PACT Act health enrollment period - Content update
 - This content is to be displayed temporarily, during the enrollment period through 9/30/2023.
+- This content was approved by VA leadership and Danielle Thierry - [Original Content document](https://dvagov-my.sharepoint.com/:w:/g/personal/danielle_thierry_va_gov/Efz4gsYoP-RMo-l8crJSZNIBMkRBeWcvDOz6q_z8NOXrSw?e=thNkbo) (must be on VA network to open)
 
 
 ## Error scenario 1: Failures in 10-10 EZ submissions
