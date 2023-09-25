@@ -1,5 +1,16 @@
 # Design Weekly Sync Agenda
 
+## 2023-08-28
+
+Attendees: DK, Katelyn, Hieu, Kristen
+
+A few quick notes from the session, which was mostly about the EZR work:
+
+- Decision: Show statuses on first page and every section.
+- Need to check with engineers about save data to PDF form.
+- In aggreenent to ditch the stepper if possible.
+- [Post MVP Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1693945362104/f2d83704cf9de28206d5cb28e1b188a3f87b96e9?sender=ubf5503bf47b6eb1e92730053) to track future enhancements.
+
 ## 2023-08-21
 
 Attendees: DK, Katelyn, Hieu, Kristen, Alex
