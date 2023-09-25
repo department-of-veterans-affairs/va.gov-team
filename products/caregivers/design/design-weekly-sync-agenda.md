@@ -1,8 +1,24 @@
 # Design Weekly Sync Agenda
 
+## 2023-09-18
+
+Attendees: DK, Katelyn, Jessica, Hieu
+
+Mostly a working session on EZR screens.
+
+## 2023-09-11
+
+Attendees: DK, Katelyn, Jessica, Hieu
+
+Mostly a working session on EZR screens.
+
+## 2023-09-05
+
+Mostly a working session on EZR screens.
+
 ## 2023-08-28
 
-Attendees: DK, Katelyn, Hieu, Kristen
+Attendees: DK, Katelyn, Jessica, Hieu, Kristen
 
 A few quick notes from the session, which was mostly about the EZR work:
 
