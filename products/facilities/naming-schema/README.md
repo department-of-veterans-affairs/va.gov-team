@@ -84,8 +84,10 @@ The example schema below is for a hypothetical Vet Center. It represents an indi
 Facility type |  Official facility name  | Plain-language name |  URL 
 -- | -- | -- | -- 
 _Source:_<br>VAST | _Source:_<br>VAST | _Source:_<br>Drupal |_Source:_<br>Facilities API
-Vet Center | VA Baltimore Vet Center | n/a| www.va.gov/va-baltimore-vet-center 
-
+Vet Center | Baltimore Vet Center | n/a | www.va.gov/baltimore-vet-center/ 
+Outstation | Aberdeen Vet Center Outstation | n/a | www.va.gov/elkton-vet-center/locations/#aberdeen-vet-center-outstation
+Community Access Point | Great Falls Vet Center - MSU Great Falls Veterans Success Center | n/a | www.va.gov/great-falls-vet-center/locations/#great-falls-vet-center---msu-g
+Mobile Vet Center | Baltimore Mobile Vet Center | n/a | https://www.va.gov/baltimore-vet-center/locations/#baltimore-mobile-vet-center
 
 ## NCA cemetery facilities naming schema - DRAFT
 
