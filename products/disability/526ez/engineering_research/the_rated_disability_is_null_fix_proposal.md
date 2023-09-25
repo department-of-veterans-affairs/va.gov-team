@@ -1,6 +1,11 @@
 # The 'ratedDisability is Null' error fix proposal
 
-## The Problem
+## Context
+- [The ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/64394)
+- [The rated disability API endpoint](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/getRatedDisabilities)
+
+
+### The Problem
 
 The following error is one of our most-raised errors in the 526 submission flow:
 
