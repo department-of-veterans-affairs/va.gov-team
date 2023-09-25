@@ -4,9 +4,7 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
-
-Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to download a PDF copy of a submitted appeal, so veterans can store it in their personal records.
+* Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to download a PDF copy of a submitted appeal, so veterans can store it in their personal records.
 
 **Related/Associated product(s)**
 - Request a Board Appeal VA Form 10182 | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement) 
@@ -27,7 +25,6 @@ Today, when Veterans file an appeal on va.gov, there is no way for them to maint
 - As a Veteran, I do not want to mistake the copy of my claim for a paper version that I need to mail, which could cause longer development time due to duplicate filing.
   
 ## Desired Business Outcomes
-
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
@@ -95,9 +92,42 @@ Today, when Veterans file an appeal on va.gov, there is no way for them to maint
 ## Screenshots
 
 ### Before
+<details><summary>Supplemental Claims Current Confirmation</summary>
+  
+![staging va gov_decision-reviews_supplemental-claims-form-20-0995_confirmation](https://github-production-user-asset-6210df.s3.amazonaws.com/111457818/270357118-11fb1e33-3897-41f2-8b25-a6717ac4b32e.png)
+
+</details>
+
+<details><summary>Notice of Disagreement Current Confirmation</summary>
+  
+![staging va gov_decision-reviews_board-appeal_request-board-appeal-form-10182_resume](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/5eed0b84-4b45-4f15-a817-5a48cd576a20)
+
+</details>
+
+<details><summary>Higher-Level Review Current Confirmation</summary>
+  
+![staging va gov_decision-reviews_higher-level-review_request-higher-level-review-form-20-0996_confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/5c1eeeda-5c46-4ecb-8498-d9fc5d34639b)
+
+</details>
 
 ### After
+<details><summary>Supplemental Claims New Confirmation</summary>
+  
+![Confirmation - PDF Downlaod Copy](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/af304309-e547-49a0-bf3f-476e273176bc)
 
+</details>
+
+<details><summary>Notice of Disagreement New Confirmation</summary>
+  
+![PDF Download](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/24630a0a-17c3-4173-a3e2-e2628d3eb5c8)
+
+</details>
+
+<details><summary>Higher-Level Review New Confirmation</summary>
+  
+![PDF Download](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/ebc11110-b2aa-4e07-82de-a6d5219fd9e8)
+
+</details>
 ---
 
 #### Communications
