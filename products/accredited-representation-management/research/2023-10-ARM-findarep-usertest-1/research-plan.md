@@ -43,6 +43,10 @@ What do you intend to learn and measure from this study? Think through these pro
 - Remember to constrain the hypothesis to the goals of your study!
 
 ## Methodology	
+**Part 1: Semi-structured interviews:** The interviewer will ask the Veterans a series of questions to learn about their representative selection process and engagement with their representative.
+
+**Part 2: Usability testing:** Veterans will be asked to engage with a live prototype to test usability, understandability of content, and desireability of features.
+
 - Ask for 25% more participants than wanted
 - Ask for notes help, need to provide convo guide
 - Zoom - request practice session
@@ -53,22 +57,10 @@ Describe the method you’re planning. You should be able to explain why this me
 - See if someone is open to notetaking: https://depo-platform-documentation.scrollhelp.site/research-design/notetaker-guidelines
 - Set up Zoom transcripts https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-a-transcript
 - Otherwise notes can be taken in shared Mural which will be provided prior: template: https://app.mural.co/template/0e63994b-bce9-4b53-8e37-b5293a2b4dac/20381d25-a5d5-4457-9893-eeb2e9cb6ff4
-
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+- Create cheat sheet for help - hotlines, representatives, etc. https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies
+- Things to and not to say, agree, don't thank for service, etc.
+- Don't admit viewers until we get approval from participant - give heads up, each give quick hello and go off camera.
+- Make sure to include: For example: "If for any reason and at any time you want to stop the session, please let me know. You will not lose your stipend or be penalized in any way if we need to stop."
 
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
