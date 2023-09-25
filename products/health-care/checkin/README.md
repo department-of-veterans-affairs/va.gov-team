@@ -85,11 +85,8 @@
 - [Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md)
 
 ## Discovery and Research
-- [Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/accessibility)
-- [In Person](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/in-person-discovery)
-- [Remote](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/remote-discovery)
-- [Staff-Facing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/staff-facing)
-- [Veteran-Facing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing)
+- [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research#all-check-in-research-studies)
+- [Beneficiary travel reimbursement discovery and research findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/discovery/travel-reimbursement)
 
 ## Translations
 - [Main page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/translations)
