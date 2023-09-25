@@ -302,7 +302,7 @@ Form title: NEW APPOINTMENT
 **PAGE HEADER**
 
 ```
-Confirm your contact information
+How should we contact you?
 ```
 
 **PAGE CONTENT**
