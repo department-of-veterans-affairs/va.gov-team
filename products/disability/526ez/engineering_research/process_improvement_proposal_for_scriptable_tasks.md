@@ -4,22 +4,20 @@
 Document discovery, ideation, open questions, and outline a proposal related to migrating our dangerous, obscure, one-off rails console tasks to a sustainable, safe, and transparent process.
 
 ## Context
-The need for this improvement work became apparent while I was learning the existing workflow for batch paper-submitting failed 526 submissions from Kyle Soskin (AdHoc).  This process evolved as a stop gap that was intended to be a one time thing.  However, it's become clear (this has been going on for a year) that we are ALWAYS going to have some failed submissions that we may want to paper submit.  Therefore, it makes sense to make this process reusable.
+The need for this improvment work became apparent while I was working with (learning from) Kyle Soskin on the failed submission [paper-backup batch submission work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/526_failure_batching_and_triage_handoff.md).  The current process for performing this work has evolved chaotically from instances of need, and thus necessarily relies on imperfect processes and stop-gap solutions.  Moreover, it's become clear (this has been going on for a ~year) that we are potentially always going to have some failed 526 submissions that we may want to paper submit.  
 
-Moreover, we can define a less dangerous workflow for all reusable tasks (not just 526 specific).
+Adhoc scripting work such as this tends to be a necessary evil in even the most robust architectures. Fortunately, some dangers and opportunities are trancend use-case. The workflow outlined in this document aims to address those overlaps inorder to provide a more secure, transparent, and faster manual scripting workflow.
 
-[For a more thorough breakdown of how this legacy-process came to be, and the steps required to run it, see this document.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/526_failure_batching_and_triage_handoff.md)
-
-## What's wrong with the way we've been doing it?
-The current process is bad because:
-- It requires rails production console access.  This is a well known security concnern, not only because of potential bad actors but because of simple mistakes.
-- It requires copy / pasting code. Introduces overhead for doing the work AND sharing the reusable code.  Introduces the possibility of syntax related bugs.  There is no oversight of the code being run.  Also, ArgoCD (our prefered interface) doesn't like it.
-- It can require monkey patching of live production code for file system maintenance.  : (
-- There is a lack of transparency and context sharing around the data that is input to / and output from these tasks.  IF someone starts the process, and another person needs to finish it, then we end up in a situation where the starting dev will probably have to hand off a document about the state of the process, e.g. what IDs have been uploaded, error logs, what IDs remain, etc.
-- Only one or two people actually know how to do this work!  That makes it dangerous and slow.  
+## What exactly is wrong with the way we've been doing it?
+The [current process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526-submission-failure-manual-submission.md) is suboptimal because:
+- It requires rails production console access.  This is a well known security concnern, not only because of potential bad actors but because of the potential for innocent human error.
+- It requires copy / pasting code. This introduces overhead for both the performance of the work AND the subsequent sharing and reusable code that may have been produced.  Passing code around introduces the possibility of syntax related bugs.  Additionally, there is no oversight (review)of the code being run. Additionally additionally, Argo CD has copy / paste limitations and stability issues that make this impractical for both data import and result export.
+- It can require monkey patching of live production code for file system maintenance.  'Nuff said.
+- There is a lack of transparency and context sharing around the data that is input to / and output from these tasks.  For example, if one dev starts a process, and another dev needs to finish it, then we end up in a situation where the starting dev will probably have to hand off a document about the state of the process, e.g. what IDs have been uploaded, error logs, what IDs remain, etc.
+- It's a process bottleneck.  Only a handfull of people actually know how to do this work!
 
 [This slack thread covers the genesis of this idea.](https://dsva.slack.com/archives/C053U7BUT27/p1694192774356649)
-[Slack follow up with Kyle and Sade](https://dsva.slack.com/archives/C05NN997TUM/p1694799856204849)
+[Here is a slack follow up with Kyle and Sade about the state of the for](https://dsva.slack.com/archives/C05NN997TUM/p1694799856204849)
 
 ## What should we do to improve?
 
@@ -41,6 +39,8 @@ To make these changes we need to do a few things
   - **QUESTION:** Is Platform team?
 - Code a resuable AWS interface
   - This is relatively trivial. It would look something like this
+
+  
 ```ruby
 class AwsFacingScript
   BUCKET = :my_bucket_name
@@ -68,8 +68,6 @@ end
 We could then include this functionality in our command line script, like so...
 
 ```
->
->
 > MyContrivedScriptClass < AwsFacingScript
 >   def initialize
 >     @output = { success: [], errors: [] }
@@ -92,10 +90,7 @@ We could then include this functionality in our command line script, like so...
 > MyContrivedScriptClass.write_output
 ```
 
-This still involves copy pasting code, which is not great.  However, we now can guarantee we aren't loosing valuble context to terminal crashes or truncation.  Additionally, if this 
-work is done by Dev 1, Dev 2 can then look at the output to see what IDs were process, what errors might need to be addressed, etc. without being blocked by getting context from Dev 1.
-
-**NOTE** this is just one possible implementation.  There are multiple ways to make this AWS S3 file bucketing available and easy to use for devs doing this sort of manual scripting work.
+**NOTE** This is just one possible implementation.  There are multiple ways to make this AWS S3 file bucketing available and easy to use for devs doing this sort of manual scripting work.
 
 ### Phase 2:
 
@@ -131,11 +126,39 @@ This sort of script could be run from a production bash terminal with the follow
 `rails runner my_reusable_script my_file.csv`
 
 Even though we are still requiring prod access, this is already better because we are not logging into a rails console that would allow us
-to modify data.  There are ways to set permissions on these scripts to prevent data manipulation, if we deem it necessary.  
+to modify data.  If we wanted in a future iteration we could even set permissions on these scripts to prevent data manipulation, if we deem it necessary.  
 
-**NOTE** *n Phase 3 we will see a way to completely remove the need for developer production access!
+**NOTE** Phase 3 we will see a way to completely remove the need for developer production access!
 
 ### Phase 3:
 
-Rollout an Admin portal to execute these scripts or tasks with the click of a button, no production terminal access required!
-TODO - add examples with screen shots
+Rollout an Admin portal to execute these scripts or tasks with the click of a button, no production terminal access required!  There are so many ways to do this is almost defies documentation, but one very common example would be something like [the Rails Admin gem](https://github.com/railsadminteam/rails_admin)
+
+This is a strech goal, as it would represent a techtonic shift in the way we think about exposing our data.  We would need buy in from the Platform team and possibly more, as this would probably require PIV controlled access.  The way it would (theoretically work) is
+
+
+## Conclusion
+
+If we implemented the above 3 steps, we could update [this absoultely ghastly workflow](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526-submission-failure-manual-submission.md) to look something like this:
+
+As a product owner I:
+- Identify work, ticket it, assign it to a Dev
+  
+As the executing Dev I:
+- Write my script / task
+- Commit it to the code base (`/script` for scripts, `rakelib` for rake tasks, etc.) via a formal PR and code review, complete with documentation on what this code will do and why we need to do it.
+- Upload any import data I need to an S3 bucket via the AWS web portal (already protected via VA permissions)
+- Login to our admin protal (e.g. va.gov/admin)
+- Authenticate with PIV
+- Navigate to the 'tasks' or 'scripts' page
+- paste the name of my import file into a "run script" form
+- click submit
+- go to AWS S3 to retreive the results of my script
+
+As a subsequent executing Dev I:
+- can look at the code / PR used by my predecessor
+- Look in AWS to see exactly what data was processed, what needs processing, what previous results have looked like
+
+As a Veteran I:
+- Am stoked that my application went through!
+
