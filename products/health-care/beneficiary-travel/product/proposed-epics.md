@@ -86,7 +86,7 @@
 ### Scope & Epic details
 
 - Designed & Architect the new API 
-  - Using [this swagger]() as a guide for functionality
+  - Using [this swagger](https://editor.swagger.io/?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/beneficiary-travel/engineering/assets/ideal-swagger.json) as a guide for functionality
 - Focusing on requirements for 
   - Functionality
   - Stability
