@@ -67,7 +67,7 @@ Let’s begin.
 
 ## Tasks – X minutes
 
-### Task #1: Logging in – X minutes
+### Task #1: Logging in
 
 **Let’s get ready to log into VA.gov with your account credentials.** 
 - **(1) [No recent experience]** ☞ Once you’re logged in, I have some questions I’d like to ask you.
