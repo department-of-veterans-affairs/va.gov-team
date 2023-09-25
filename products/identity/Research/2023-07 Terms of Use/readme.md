@@ -15,6 +15,7 @@
 | AT Pilot | Aug 10 |
 | Sessions | Aug 16th - 28th 2023 |
 | Analysis | Aug 28th - Sept 2023 |
+| Readout - UX practice meeting | Sept 25th |
 
 
 ## Background
