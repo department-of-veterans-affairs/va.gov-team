@@ -1,5 +1,5 @@
 
-## Field Names associated with VA Form 5655 (FSR) Submission 
+## Field Names associated with VA Form 5655 (FSR) Submission  [WIP as of 9/25/2023]
 
 
 
@@ -9,6 +9,7 @@
 |--|--|--|
 | FSR Reason| Indicates type of FSR submission |Automated Approval; Waiver |  
 | Streamlined Waiver| Indicates approval status for submission |True, False |  
+|etc?|
 
 
 
