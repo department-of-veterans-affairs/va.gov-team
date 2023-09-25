@@ -11,25 +11,30 @@ The primary goal is to make it easier, safer, and faster for Veterans to assign 
 
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
-### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
+This work touches on various aspects of the Veteran Journey. Whenever a Veteran could potentially need help this feature would be relevant. For many Veterans, this can happen at any point along their life journey.
 
-## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+## Research Goals
+REVISIT
+1. Investigate veterans' interactions with representatives, including the factors influencing their selection.
+2. Understand usability of the find a representative and 21-22 form flows on both desktop and mobile.
+3. Anyting else?
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+1. Adjustments for usability of find a representative and 21-22 form flows.
+2. Information for future experiences and Veteran needs with managing their representation.
 
 ### Research questions
+REVISIT
+
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 ### Hypothesis
+REVISIT
+
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
