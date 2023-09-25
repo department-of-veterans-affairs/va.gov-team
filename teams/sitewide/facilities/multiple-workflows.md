@@ -9,7 +9,7 @@ Facilities team will be piloting VBA Regional Offices (ROs) modernized web pages
 ## Current State
 In Drupal, we currently have a single Editorial Workflow that governs all content types.
 
-There is an explicit need to prevent editors from archiving valid facility locations. 
+There is an explicit need to prevent editors from archiving valid facility locations. This is a problem because Veterans receive inaccurate information about VA facilities and services. Technically, it creates excess processing for editors, CMS Support staff, and Drupal engineers to correct inaccurate information.
 
 Adding an additional workflow allows restricting of archiving by content type and by admins only. Editors won't be able to erroneously archive a valid facility, which might create inaccurate or misleading information for Veterans.
 
