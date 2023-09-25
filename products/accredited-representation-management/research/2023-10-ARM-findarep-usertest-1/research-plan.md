@@ -5,7 +5,7 @@ The Office of the Chief Technology Officer (OCTO) is seeking to migrate Veteran 
 
 The primary goal is to make it easier, safer, and faster for Veterans to assign and manage Power of Attorney (PoA), and explore new ways that VA.gov can better support Veterans who choose to interact with VA through a representative.
 
-[Link to product brief]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/9c884d56087c31b9422840cc233009d12e870b9b/products/accredited-representation-management/product-outline.md)).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/9c884d56087c31b9422840cc233009d12e870b9b/products/accredited-representation-management/product-outline.md).
 
 ### OCTO Priorities 
 
