@@ -13,7 +13,7 @@ Navigation that will support these tools well and afford for seamless integratio
 * Be consistently designed and located on **all** pages of the health experience (across all modalities)
 * Be situated in proximity to My HealtheVet labeling for clarity (not above or outside of this context)
 * Persistently display all health tools to the user
-* Should explore and test whether being visually louder than primary site navigation is more useful to Veterans and VA.gov users
+* Explore and test whether being visually louder than primary site navigation is more useful to Veterans and VA.gov users
 
 ### Obstacles:
 In the "try me" phase and beyond, FAQ content within the tools themselves can be migrated to pages in the Resources & Support section on VA.gov, where most FAQ-type content lives across VA.gov. Without that content, most tool-level landing pages will be bare & less helpful, so they can and should be eliminated. This will require some navigation restructuring within the tools. Those changes need to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
