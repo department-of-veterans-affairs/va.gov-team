@@ -13,9 +13,8 @@ form 526 flow.
 ## Resources
 - [Slack thread about the continued outages and proposed fix](https://dsva.slack.com/archives/C04KW0B46N5/p1695064685597689?thread_ts=1694440762.541849&cid=C04KW0B46N5)
 - [Slack thread with Micah's review](https://dsva.slack.com/archives/C04U3EDUR3M/p1695256516348859?thread_ts=1695242442.179589&cid=C04U3EDUR3M)
-
-## Notes
-### Acceptance Criteria
+ 
+## Acceptance Criteria for post spike work
 
 - In the case that our ITF provider is in any **non-working state**
   - As an end user with an existing ITF
@@ -31,7 +30,7 @@ form 526 flow.
 - ITF creation is non-blocking
 - A user enter the 526 flow should (almost) never see "We’re sorry. Something went wrong on our end."
 
-### Axioms
+## Axioms
 - We are building this to interact with lighthouse
 - We want the queuing to be on our end (not LH)
 - We need 100% ITF retention and retriablity
@@ -39,9 +38,7 @@ form 526 flow.
 - Sidekiq is not stable enough to be a persistant data source relative to what ITFs NEED to be created
 - We cannot lie to the user (we can no longer say ITF was created)
 
-### WIP
-
-#### User Facing Change
+## A User Facing Change?
 
 For the front end we need to create a new state that shows the user that an ITF is **going to be created**.  We can't use the existing success state, as this implies we have already created the ITF, wich could be a legal can of worms if for some reason we fail.  Given this new state, we will almost certainly:
 - want to notify the user when the ITF is successfully created
@@ -60,22 +57,50 @@ Here is a summary of the change
       - if ITF creation fails, we can retry
         - if it keeps failing, we can notify the vet or a dev to get involved
 
+
+
+### This as a technical lift
+
+Not to hard.  Basiclly add a new form state, A model to record in process ITF submissions, and logic to enqueue the ITF creation.
+
 - [Backend spike PR](https://github.com/department-of-veterans-affairs/vets-api/pull/13887)
 - [Frontend spike PR](https://github.com/department-of-veterans-affairs/vets-website/pull/25777)
 
-#### Backend Change
-- Track the transaction.  if Sidekiq goes down, we need to know what Users / Submissions are missing an ITF. Otherwise we risk technical problems and (probably legal problems).
-    - TO do this, i recomend a model and DB table that tracks `itf_transaction` instances with a state machine.  
+#### Outstanding work from this spike
 - Square this new logic (ITF may not exist) with our existing code.  **This is a potential worm hole!!!**  This requires, theoretically, testing every edge case of every part of the app that uses ITF.
- 
-### TODO
-- this is new UX, and has potential legal ramifications.  We are no longer saying 'yes we created an ITF', we are saying 'we are going to do our best to create an ITF for you'
-- IF we like this new UX, we will need to bolster this implementation on the backend with a few key changes
-  - use the 'effective date' as the new timestamp.  This will probably require buy in from VA and changes on their API
-  - find everywhere we interact with ITF and update / check for continuity with the new logic.  We can't assume these ITFs will be created quickly, or at all. 
-  - Develop a roll out plan.  We will probably need isolate this on the 526
-- Do we need to block submission of the 526 Form until ITFs are created?  seems like a whole new can of worms.
-- Check with VA (David Reis) about how this may affect their side of the fence
+- Test the implementation
 
-#### Bonus Stuff
-- I've identified a weird state that is possible but unlikely where a catostrophic failure in the vets-api (**not the underlying services, but the actual vets-api code**) can put a user in a state where they see an error but their ITF was successfully created.  This is not something likely to happen in the wild, but probalby worth considering a fix for.  [This Slack thread](https://dsva.slack.com/archives/C053U7BUT27/p1695228246634029) outlines why this is different from our Catastrophic ITF failure, and how it (theoretically) happens
+### This as a business decision
+
+This is by far the more complicated side of this work.  A few outstanding questions for management
+
+#### 1. what if ITF creation fails or takes to long?
+- as a user, i pass the ITF creation screen, and complete my form.  As I'm about to submit...
+  - IF the ITF is created  I am able to submit
+  - ELSE the ITF is **still pending**, am I blocked from submitting the form?
+    - IF YES, do I see a spinner?  a message telling me to come back later?
+    - IF NO we need a new state for Form submissions.  This is a deep dark wormhole of downstream interaction
+  - ELSE the ITF submission has **failed**, am I blocked from creating the form?
+    - IF YES, what is my UX
+    - IF NO, how do we go about recreating and syncing the ITF?  This also requires a state for form submissions
+   
+#### 2. What are the UI Implications?
+- If we DO NOT update the UI
+  -This would effectively be "lying" to the vet, telling them that we have created an ITF when we haven't. Legal wormhole?
+- If we DO update the UI
+  - Will the new message confuse them?  how will we asuage fears and follow ups that their form is not *really* submitted?
+
+#### 3. What are the 'effective date' considerations?
+- Does Lighthouse accept a 'crated at' timestamp?
+  - IF YES, cool
+  - IF NO, we would need them to update their code.  This could be a potentially large change, depending on how they interact with this data downstream.
+ 
+#### 4. Is this even legal?
+Seems like, probably yes.  But someone should probably ask a lawyer...
+
+ 
+### Preflight check list
+Once this is built and in place we would need to be certain
+
+- all use cases of ITF to form association have been updated to remove the assumption of a complete ITF
+- we have a rollout / rollback plan that accomodates for this changing data modeling
