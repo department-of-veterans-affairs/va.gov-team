@@ -74,6 +74,11 @@ There are several differences between the two secondary navigation designs on VA
 
 ### Problem 4: Research shows that users aren't finding it on mobile
 Quantitative data suggests that despite users being mostly split between desktop and mobile/tablet usage, that the usage of the secondary navigation on these devices does not follow that breakdown whatsoever. Compared to desktop engagement with the side navigation menu, only 14% of almost the same number of mobile users are clicking it. 
+
+**Google Analytics links: **
+* [Mobile v. desktop interactions with side navigation](https://analytics.google.com/analytics/web/provision/#/provision](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=1000&explorer-table.filter=Navigation%20-%20side&_r.drilldown=analytics.eventCategory:Interactions&_.useg=userK0YBSMouQ2-eI-QjiaViDQ,builtin28))
+* [Overall mobile v. desktop users on Va.gov](https://analytics.google.com/analytics/web/#/report/visitors-mobile-overview/a50123418w177519031p176188361/_.useg=/)
+
 <img width="1244" alt="Screenshot 2023-09-25 at 11 18 09 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/9ca36d08-8f2d-4beb-a13c-34099c0c5bcb">
 
 ### Problem 5: Mobile version placement is "floating in space"
