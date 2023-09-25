@@ -5,7 +5,7 @@ Secondary Navigation Research Report
 
 When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and Medical Records) reach Phase 2, they will be fully integrated into the VA.gov experience. At that point, we need to implement a secondary navigation strategy that helps users navigate between the tools and the MHV on VA.gov landing page, so that they experience it as a seamless portal. 
 
-Navigation that will support these tools well and afford for seamless integration will push beyond the limits of existing secondary navigation designs on VA.gov. The current designs and the problems they pose are articulated below.
+Navigation that will support these tools well and afford for seamless integration will push beyond the limits of existing secondary navigation designs on VA.gov. The current designs and the problems they pose are articulated below. 
 
 ### We posit that a successful navigation solution must:
 * Allow users to move from one tool to another seamlessly
@@ -99,6 +99,7 @@ More than any other problem, this in particular **will not work** for the health
 Past issue tickets have captured problems with the secondary navigation design. While several of these have been solved, they point fingers to the fact that the component was not design with an a11y-first mindest.
 
 #### Secondary nav menu being sticky:
+[Gov.uk | Sticky elements: functionality and accessibility testing](https://technology.blog.gov.uk/2018/05/21/sticky-elements-functionality-and-accessibility-testing/)
 * [#22824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22824)
 * [#19779](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19779)
 * [#19784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19784)
@@ -111,12 +112,6 @@ Past issue tickets have captured problems with the secondary navigation design. 
 * Naming convention not unique for this component: [#59760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59760)
 * Button lacks context to communicate that it will open a menu: [#28698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28698)
 
-## Needs for health portal secondary navigation
-* Must allow users to move from one tool to another seamlessly
-* Must be placed consistently on the page (across all modalities), with all health tools persistently available and visible to the user
-* Should be visually louder than primary site navigation
-
-## Resources for navigation accessibility
-* [Gov.uk | Sticky elements: functionality and accessibility testing](https://technology.blog.gov.uk/2018/05/21/sticky-elements-functionality-and-accessibility-testing/)
-
+## What's Next? 
+Related to this documentation effort, is a [competitive analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694530015144/bb1ff2600f6e417f2c58abe793f158119aaac44a?sender=uf94a77a19aaf687331c09367) on secondary navigation patterns on the larger web. Results of that analysis will inform low-fidelity design explorations for an improved secondary navigation solution. 
 
