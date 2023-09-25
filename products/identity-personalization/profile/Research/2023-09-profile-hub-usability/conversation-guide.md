@@ -15,7 +15,7 @@
 - Check your screensharing setup and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
-## Intro – X minutes
+## Intro – 5/8 (AT) minutes
 
 Thanks for joining us today! My name is Pam and [TBD] is taking notes. There are members from the website team who would like to hear your feedback firsthand during our session. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with observers joining this session?
 
@@ -54,7 +54,7 @@ _Start recording._
 
 _Turn on transcription._
 
-## Task set-up – X minutes
+## Task set-up – 5/8 (AT) minutes
  
 Let’s begin. 
 
@@ -65,9 +65,9 @@ Let’s begin.
 - **[If participant does NOT have any recent experience with VA]** ☞ I have some questions I’d like to ask you that require you logging in to your VA.gov account. 
 - **[If participant clearly stated a profile-related update]** ➢ Would you be willing to log into your account and walk me through what you had to do/update on the website?
 
-## Tasks – X minutes
+## Tasks
 
-### Task #1: Logging in
+### Task #1: Logging in - 5/8 (AT) minutes
 
 **Let’s get ready to log into VA.gov with your account credentials.** 
 - **(1) [No recent experience]** ☞ Once you’re logged in, I have some questions I’d like to ask you.
@@ -75,7 +75,7 @@ Let’s begin.
 
 When you’re on VA.gov, share your screen so I can see what you see.
 
-### Task #2: Navigate to the Profile hub
+### Task #2: Navigate to the Profile hub - 5/8 (AT) minutes
 
 **Now that you’re logged on…**
 - **(2) [Everyone else]** ☞ Let’s pretend you need to update your personal information because something in your life changed, and you need to let VA know about it. Where would you go to do that?
@@ -95,7 +95,7 @@ When you’re on VA.gov, share your screen so I can see what you see.
 
 Next, I’d like to ask you some questions that involve imaginary scenarios – situations where I will ask you to pretend you need to update something in your profile, but I won’t ask you to actually change anything. 
 
-### Task #3: Locate Contact information on hub page
+### Task #3: Locate Contact information on hub page - 5/8 (AT) minutes
 
 *(3) Primary prompt:* **Let’s pretend you recently moved. How would you update your information on VA.gov to make sure letters from VA get delivered to the right place?**
 - Does this information look up-to-date?
@@ -108,7 +108,7 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 - How quickly the participant located the correct section
 - Any struggles or confusion
 
-### Task #4: Switch to Direct deposit section
+### Task #4: Switch to Direct deposit section - 4/7 (AT) minutes
 
 *(4) Primary prompt:* **Let’s pretend you just switched banks, and you need to update information so you can still get your VA payment. How would you go to do that on this website?**
 
@@ -120,7 +120,7 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 - Any remarks regarding the `Profile hub` once they’re on it
 - Any struggles or confusion
 
-### Task #5: Navigate back to the Profile hub
+### Task #5: Navigate back to the Profile hub - 4/8 (AT) minutes
 
 (5) **Let’s say you wanted to get back to that main profile page. How would you do that?**
 
@@ -128,7 +128,7 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 - How easily and quickly they use the breadcrumb link back to `Profile (hub)`
 - Any struggles or confusion
 
-### Task #6: Click on a deep link (like DD214)
+### Task #6: Click on a deep link (like DD214) - 5/7 (AT) minutes
 
 *(6) Primary prompt:* **Let’s say you want to make sure what information VA.gov has about your service history is accurate. How would you go about checking on this on VA.gov?**
 - This link took you to another part of the website – how did that jump feel?
@@ -141,7 +141,7 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 - How easily and quickly they find the deep link
 - Any struggles or confusion
 
-### Task #7: Locate Personal information section
+### Task #7: Locate Personal information section - 6/8 (AT) minutes
 
 *(7) Primary prompt:* **Let’s say you have a new nickname you’d like VA to use when communicating with you. How would you go about updating that information on VA.gov?**
 - Does this information look correct?
@@ -155,7 +155,7 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 - How quickly the participant located the correct section
 - Any struggles or confusion
 
-### Task #8: Find dependents OR letters (auth menu)
+### Task #8: Find dependents OR letters (auth menu) - 6/8 (AT) minutes
 
 *(8) Primary prompt:* **Do you have any dependents who use VA benefits of any kind?**
 - Where on VA.gov would you go to update your dependents’ information? Without clicking on anything, where would you look first? (If they mention Search:) What’s another place you would look?
@@ -171,7 +171,7 @@ If needed:
 - Whether the participant found the links in the auth menu
 - If they found the links, how easy or difficult it was
 
-## Emergency Contact & Next of Kin questions – X minutes
+## Emergency Contact & Next of Kin questions – - 6/8 (AT) minutes
 
 - Where would you expect to be able to list your Emergency Contact and Next of Kin in your Profile?
 - How would you expect VA to use this information? 
@@ -179,7 +179,7 @@ If needed:
 - If this information was only used for health care and not other benefits, how would you expect that information to be handled?
 	- Would you expect NoK/EC to be handled differently or in a different location?
 
-## Wrapping up – X minutes
+## Wrapping up – 4 minutes
 
 ### Final questions
 
