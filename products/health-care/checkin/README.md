@@ -32,6 +32,12 @@
 - Backend Engineers
   - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
   - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
+ 
+### CAIA Key Contacts Supporting Check In 
+
+- [Laura Willwerth](https://dsva.slack.com/team/U03CHM52JBF) - Content
+- [Angela Fowler](https://dsva.slack.com/team/U01MTTZB3PZ) - Accessibility
+- [Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25) - IA
 
 ## Terminology
 - Pre-Registration: The collection of Demographics, Next of Kin, and possibly Emergency Contact data.
