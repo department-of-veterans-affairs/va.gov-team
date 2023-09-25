@@ -361,7 +361,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 
 ------------------------------------------------------------------------------
-## Step 2 Veteran household financial information - Marital status
+## Step 2 Veteran household financial information - spouse information
 ------------------------------------------------------------------------------
 
 ### Page: Spouse information - AUTHENTICATED View
@@ -373,6 +373,8 @@ You can also call your VA medical center (find a VA location tool) to get help c
   [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
   [h2] 2 of 4: Household financial information
 [end progress bar]
+
+[H3] Spouse information
 
 [component text input label] Spouse's first name (*Required)
 
@@ -398,6 +400,474 @@ Month Day Year (dropdowns)
 
 Month Day Year (dropdowns)
 
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+
+
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - spouse additional information 
+------------------------------------------------------------------------------
+
+### Page: Spouse information - AUTHENTICATED View
+
+#### URL: /health-care/----/household-information/spouse-additional-information
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] Spouse's additional information
+
+[Additional information] [label] Why we ask for this information [content] [el] [p] This information helps us determine if your spouse was your dependent in 2022. [End ul]
+
+[component radio select label] Did you live with your spouse for all or part of 2022? [select options]
+
+- Yes
+- No
+
+[component radio select label] Do you currently have the same address as your spouse? (*Required) [select options]
+
+- Yes
+- No
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+
+
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - spouse additional support
+------------------------------------------------------------------------------
+
+### Page: Spouse financial support - AUTHENTICATED View
+
+#### URL: /health-care/----/household-information/spouse-financial-support
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] Spouse's financial support
+
+[Additional information] [label] Why we ask for this information 
+[content] [ul] [p] We consider any payments, even if they aren’t regular or the same amount, to be financial support.  Financial support includes payments for these types of payments:
+  - Monthly spousal support
+  - One-time payment financial support [End ul]
+
+[component radio select label] Did you provide financial support to your spouse in 2022 even though you didn't live together? [select options]
+
+- Yes
+- No
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+
+
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - Review Dependents
+------------------------------------------------------------------------------
+
+### Page: Review Dependents - AUTHENTICATED View
+
+#### URL: /health-care/----/household-information/dependents
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] Review your dependents
+
+[EXPERIMENTAL component card] [p]Dependent’s first and last name [p] Relationship
+
+[action link] Edit >
+
+[EXPERIMENTAL action link] x Remove
+
+[END card]
+
+[component radio select] [label] Do you have another dependent to report? (*Required)
+
+[component additional information] [label] Who we consider a dependent
+
+[content] [p] Here’s who we consider to be a dependent:
+
+[ul]
+
+A spouse (we recognize same-sex and common law marriages)
+An unmarried child (including adopted children or stepchildren)
+[END ul]
+
+[component radio select label] Do you have another dependent to report? (*Required) [select options]
+
+- Yes
+- No
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+
+
+
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - Dependent information
+------------------------------------------------------------------------------
+
+### Page: Dependent information - AUTHENTICATED View
+
+#### URL: /health-care/----/household-information/Dependent information
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] Dependent information
+
+[component text input label] Dependent's first name (*Required)
+
+[component text input label] Dependent's middle name
+
+[component text input label] Dependent's last name (*Required)
+
+[component form text input label] Dependent's suffix (dropdown) Jr. Sr. II III IV
+
+[component dropdown select] What is the dependent’s relationship to you? (*Required) [dropdown options]
+
+- Daughter
+- Son
+- Stepson
+- Stepdaughter
+- Father
+- Mother
+- Spouse
+
+[component text input label] Social Security number(*Required)
+
+[component text input label] Social Security number(*Required)
+
+[label] Dependent's Date of birth (*Required)
+
+[hint text] For example: January 19 2000
+
+Month Day Year (dropdowns)
+
+[label] When did they become your dependent? (*Required)
+
+[hint text] For example: January 19 2000
+
+Month Day Year (dropdowns)
+
+[button secondary] Cancel adding dependent
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+
+
+
+
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - Dependent education expenses
+------------------------------------------------------------------------------
+
+### Page: Dependent education expenses - AUTHENTICATED View
+
+#### URL: /health-care/----/household-information/Dependent-education-expenses
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] [FirstName LastName]’s education expenses
+
+[component radio select label] If your dependent is between 18 and 23 years old, were they enrolled as a full-time or part-time student in 2022? (*Required) [select options]
+
+- Yes
+- No
+
+[component text input label] Enter the total amount of money your dependent paid for college, vocational rehabilitation, or training (like tuition, book, or supplies) (*Required)
+
+[button secondary] Cancel adding dependent
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+
+
+
+
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - Dependent additional information
+------------------------------------------------------------------------------
+
+### Page: Dependent additional information - AUTHENTICATED View
+
+#### URL: /health-care/----/household-information/Dependent-additional-info
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] [FirstName LastName]’s additional
+
+[component radio select label] Is your dependent living with a permanent disability that happened before they turned 18 years old? (*Required) [select options]
+
+- Yes
+- No
+
+[component radio select label] Did your dependent live with you in 2022? (*Required) [select options]
+
+- Yes
+- No
+
+[component radio select label] Did your dependent earn income in 2022? (*Required) [select options]
+
+- Yes
+- No
+
+[button secondary] Cancel adding dependent
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+
+
+
+
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - Dependent financial support
+------------------------------------------------------------------------------
+
+### Page: Dependent financial support- AUTHENTICATED View
+
+#### URL: /health-care/----/household-information/Dependent-financial-support
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] Financial support for [FirstName LastName]
+
+[component additional information] [label] What we consider financial support for a dependent [content]
+
+[p] We consider any payments, even if they aren’t regular or the same amount, to be financial support. [p bold] Financial support includes payments for these types of expenses:
+
+[ul]
+
+Tuition or medical bills
+Monthly child support
+One-time payment financial support
+[END additional info component]
+
+[select options]
+
+- Yes
+- No
+
+[button secondary] Cancel adding dependent
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+
+
+
+
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - Dependent annual income 
+------------------------------------------------------------------------------
+
+### Page: Dependent annual income - AUTHENTICATED View
+
+#### URL: /health-care/----/household-information/Dependent-financial-support
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] Financial support for [FirstName LastName]
+
+[legend title] Gross income from work [p] Gross income is income before taxes and any other deductions are subtracted.
+
+[additional info component] [add info label] What we consider gross annual income [add info content] [p bold] Gross income includes these types of income from a job: [ul]
+
+- Wages
+- Bonuses
+- Tips
+- Severance pay
+[end additional info component]
+
+[component label text input] Enter your dependent's gross annual income from 2022 (*Required)
+
+[legend title] Net income from a farm, property, or business [p] Net income is income after any taxes and other deductions are subtracted. [component label text input] Enter your dependent's net annual income from a farm, property, or business from 2022 (*Required)
+
+[legend title] Other income
+
+[p] Other income is additional income that doesn't come from a job. [additional info component] [add info label] What we consider other annual income [add info content] [p bold] Other income includes things like this: [ul]
+
+- Retirement benefits
+- Unemployment
+- VA benefit compensation
+- Money from the sale of a house
+- Interest from investments.
+
+[component label text input] Enter your dependent's other annual income from 2022 (*Required)
+
+[button secondary] Cancel adding dependent
 
 [finish later back-continue component]
 
