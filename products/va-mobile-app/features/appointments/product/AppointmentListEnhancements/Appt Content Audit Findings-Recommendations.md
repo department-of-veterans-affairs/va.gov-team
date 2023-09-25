@@ -4,8 +4,8 @@ Appointment List & Details Content Audit
 1. Inconsistent  display of data when the info is available (i.e. missing provider name, type of care, reason for visit)
 2. We have an opportunity to provide clarity & guidance on how to join or attend appointments or what actions are needed to complete a task (i.e. cancel or change an appt, provider will call, etc) 
 3. There is an opportunity to modify modality on the list view to align with web 
-4. Make adjustments to Headers and Banners 
-5. Clean up of past appointment view (pending & canceled appts)
+4. Clean up of past appointment view (pending & canceled appts)
+5. Make adjustments to Headers and Banners
 
 High Impact, potentially high effort
 
@@ -18,4 +18,5 @@ High Impact, potentially high effort
 
 **Findings PDF**
 
-- [Appointments Content Audit Findings.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12718256/Appointments.Content.Audit.Findings.pdf)
+- [Appointments Content Audit Findings.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12718635/Appointments.Content.Audit.Findings.pdf)
+
