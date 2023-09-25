@@ -64,8 +64,7 @@ There are several differences between the two secondary navigation designs on VA
 ### Problem 3: Inconsistent compared to primary mega menu navigation  
 
 ### Problem 3: Research shows that users aren't finding it on mobile
-Quantitative data suggests that despite users being mostly split between desktop and mobile/tablet usage, that the usage of the secondary navigation on these devices does not follow that breakdown whatsoever. Only 14% of mobile users engage with the secondary navigation component compared to the engagement on Desktop. This suggests they are missing it completely. 
-
+Quantitative data suggests that despite users being mostly split between desktop and mobile/tablet usage, that the usage of the secondary navigation on these devices does not follow that breakdown whatsoever. Compared to desktop engagement with the side navigation menu, only 14% of almost the same number of mobile users are clicking it. 
 <img width="1244" alt="Screenshot 2023-09-25 at 11 18 09 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/9ca36d08-8f2d-4beb-a13c-34099c0c5bcb">
 
 ### Problem 4: Mobile version placement is "floating in space"
