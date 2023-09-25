@@ -60,6 +60,9 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Working session notes
 
+## 9/26/23
+* [Sprint 0: Push Notification Strategy - Ameet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/Push%20Notification%20Strategy%20-%20Sprint%200.md)
+
 ## 9/13/23
 * [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md)
   * Not for Q4, but keep on the list
