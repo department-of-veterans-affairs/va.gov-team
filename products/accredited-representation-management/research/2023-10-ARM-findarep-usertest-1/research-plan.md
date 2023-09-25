@@ -47,53 +47,17 @@ What do you intend to learn and measure from this study? Think through these pro
 
 **Part 2: Usability testing:** Veterans will be asked to engage with a live prototype to test usability, understandability of content, and desireability of features.
 
-- Ask for 25% more participants than wanted
-- Ask for notes help, need to provide convo guide
-- Zoom - request practice session
-- Use percentage breakdowns from here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy
-- 4 - 6 users per group - currently 4 desktop and 4 mobile was thought - open to feedback
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.
-- Limit to 2 viewers at a time, videos will be available on Sharepoint, information will be posted in feedback slack and observers are asked to review this beforehand https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md
-- See if someone is open to notetaking: https://depo-platform-documentation.scrollhelp.site/research-design/notetaker-guidelines
-- Set up Zoom transcripts https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-a-transcript
-- Otherwise notes can be taken in shared Mural which will be provided prior: template: https://app.mural.co/template/0e63994b-bce9-4b53-8e37-b5293a2b4dac/20381d25-a5d5-4457-9893-eeb2e9cb6ff4
-- Create cheat sheet for help - hotlines, representatives, etc. https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies
-- Things to and not to say, agree, don't thank for service, etc.
-- Don't admit viewers until we get approval from participant - give heads up, each give quick hello and go off camera.
-- Make sure to include: For example: "If for any reason and at any time you want to stop the session, please let me know. You will not lose your stipend or be penalized in any way if we need to stop."
-
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Remote on Zoom
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
+REVISIT
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
-
+Recruit 12
 OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
 
 Before writing your recruitment criteria, be sure to review the following resources. 
