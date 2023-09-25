@@ -2,9 +2,8 @@
 
 Created: September 25, 2023 <br/>
 
-- [General](#general)
+- [General](#general) <br/>
 
-<br/><br/>
 ## General 
 
 | Question &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Answer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
