@@ -50,16 +50,21 @@ There are several differences between the two secondary navigation designs on VA
   * Link text: the two templates use different blues
   * Indicator for current page (& hover page): different colors, different vertical rule thickness, different background color, distinct treatments
   * Different styling for section name/parent page
-<img width="426" alt="Screenshot 2023-09-24 at 9 24 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/51d80b56-e8cd-4b08-8b92-03a3e06dc087">
+<p align="center">
+  <img width="426" alt="Screenshot 2023-09-24 at 9 24 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/51d80b56-e8cd-4b08-8b92-03a3e06dc087">
+</p>
 
 * **Layout difference:** facilities template displays all sections and subpages at once, at all times and does not have a way to collapse or expand irrelevant sections. The general template does have functionality to collapse and expand.
 * **Mobile differences:**
   * Clicking "in this section" button - on facilities template, the component expands under the button, pushing page content further down the screen, and is full-width; in general version, the menu component opens partial-width in front of the "in this section" component from the upper right corner of the screen and can be closed with an "x".
-<img width="609" alt="Screenshot 2023-09-24 at 9 36 05 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/b8254f53-4a07-4253-a5dc-03d2dbeb24c6">
+<p align="center">
+  <img width="609" alt="Screenshot 2023-09-24 at 9 36 05 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/b8254f53-4a07-4253-a5dc-03d2dbeb24c6">
+</p>
   
 ### Problem 3: Inconsistent compared to primary mega menu navigation  
 
 ### Problem 3: Research suggests that users aren't finding it on mobile
+The wayfinding study 
 
 ### Problem 4: Mobile version placement is "floating in space"
 In both versions of the mobile component, the "in this section" button appears before the page title (H1) which removes its context, and makes it "float in space." The loudest text on the page is the title, and most users would expect to see options beneath or alongside this title text, not above it. 
@@ -75,10 +80,13 @@ The general template dynamically updates and narrows what pages are visible to t
 More than any other problem, this in particular **will not work** for the health portal on VA.gov, which needs all the health tools to be accessible in any solution in order to provide seamless, constant, and consistent navigation to the end-user. For any tool with child pages, such as medical records or secure messaging, the user's sidenav view will dynamically change when they click into a child page, such as "inbox" or "drafts." They will no longer see the wider tools beyond the section they have drilled down into. 
 
 ### Problem 7: Secondary navigation carries the weight of displaying the user's sense of place on the site
-* VA.gov has only the breadcrumb to indicate a user's sense of place. A pattern revealed by the competitive analysis was that many sites use a block header to establish the user's place on the site, allowing navigation components to be more lightweight. Examples below: 
-<img width="835" alt="Screenshot 2023-09-25 at 9 53 14 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/509f1e18-820d-4614-8b5b-3b34896eb747">
+* VA.gov has only the breadcrumb to indicate a user's sense of place. A pattern revealed by the competitive analysis was that many sites use a block header to establish the user's place on the site, allowing navigation components to be more lightweight. Examples below:
+<p align="center">
+  <img width="828" alt="Screenshot 2023-09-25 at 9 55 47 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/a4e22d32-a03b-4b51-8131-8ed13b49a87d">
+</p>
 
 ### Problem 8: History of accessibility issues with these components
+Past issue tickets have captured problems with the secondary navigation design. While several of these have been solved, they point fingers to the fact that the component was not design with an a11y-first mindest.
 
 #### Secondary nav menu being sticky:
 * [#22824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22824)
@@ -92,7 +100,6 @@ More than any other problem, this in particular **will not work** for the health
 #### Lack of context for accessibility
 * Naming convention not unique for this component: [#59760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59760)
 * Button lacks context to communicate that it will open a menu: [#28698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28698)
-
 
 ## Needs for health portal secondary navigation
 * Must allow users to move from one tool to another seamlessly
