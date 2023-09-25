@@ -11,7 +11,7 @@ Navigation that will support these tools well and afford for seamless integratio
 We posit that a successful solution MUST:
 * Allow users to move from one tool to another seamlessly
 * Be simple (have subpages minimized so that the menu can stay focused)
-* Display consistent options across all modalities
+* Have a consistent design across all modalities
 * Be accessible
 * Be situated in proximity to My HealtheVet labeling for clarity (not above or outside of this context)
 * Provide access to all health tools to the end-user in a single view, persistently (visibility of tools should not change/disappear when a user drills down to child content)
