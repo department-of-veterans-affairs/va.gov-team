@@ -1,24 +1,20 @@
 # VBA Regional Office MVP editorial workflows proposal
 
 ## Value to Customers
-Veterans receive accurate and timely information about services provided by VBA Regional Offices.
-
-(From Michelle: This is the RO initiative's value to Veterans. How will Veterans benefit from the second workflow experiment?)
+Veterans receive accurate and timely information about VBA facilities and services.
 
 ## Background
-Facilities team will be piloting VBA Regional Offices (ROs) modernized web pages in an MVP with seven ROs. There is an explicit need to prevent VBA editors from publishing an RO’s modernized web page before it has services and an operating status.
+Facilities team will be piloting VBA Regional Offices (ROs) modernized web pages in an MVP with seven ROs.
 
 ## Current State
 In Drupal, we currently have a single Editorial Workflow that governs all content types.
 
-(From Michelle: We should include why the current functionality will not meet the RO initiative needs. This might mean moving the last sentence in the previous paragraph here: There is an explicit need to prevent VBA editors from publishing an RO’s modernized web page before it has services and an operating status, but my understanding is also that we want to prevent them from archiving valid facility locations.)
+There is an explicit need to prevent editors from archiving valid facility locations. 
 
-(From Michelle: May need Steve to shape some of this but.... we can block archiving now using code, rather than workflow which makes it somewhat invisible/ unclear where the block exists. This method would allow us to restrict the ability to archive by content type and by admins only.)
+Adding an additional workflow allows restricting of archiving by content type and by admins only. Editors won't be able to erroneously archive a valid facility, which might create inaccurate or misleading information for Veterans.
 
 ## Proposed Future State
 Facilities is proposing the creation of a second, separate Workflow that would be considered an Experimental Feature, used only for VBA ROs. A second Workflow will provide the ability to have custom code that hides specific workflow functions (e.g. archive) on specific content types. If successful, additional content types could be migrated to the second Workflow later.
-
-(From Michelle: Let's proactively address why a change to roles and/or permissions will not suit RO needs and why the Facilities team thinks the workflow approach is the best option.) 
 
 However, a separate Workflow was attempted in the past, with negative results. The separate Workflow affected the primary Content view filters by Editorial Workflow: https://prod.cms.va.gov/admin/content 
 
@@ -40,5 +36,4 @@ A moderation state has a different machine name depending on the Workflow it’s
 <img width="618" alt="Screenshot 2023-09-13 at 12 26 09 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/73648238/d6115e50-baf5-4644-8276-7e88c8adb580">
 
 ## Measuring Success
-
-(From Michelle: How will we know this experiment is a success? Likely a reduction in inappropriate/inaccurate archives? perhaps measured by the number of issues handled by the Support team?)
+We expect that success may be measured by the reduction in the number of valid facilities that are archived by editors. This data can be captured in CMS Support tickets related to inaccurately archived facilities.
