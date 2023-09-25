@@ -1,7 +1,7 @@
 # Health Portal Integrated Navigation
 Secondary Navigation Research Report
 
-## Overview:
+## Executive Summary:
 
 When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and Medical Records) reach Phase 2, they will be fully integrated into the VA.gov experience. At that point, we need to implement a secondary navigation strategy that helps users navigate between the tools and the MHV on VA.gov landing page, so that they experience it as a seamless portal. 
 
