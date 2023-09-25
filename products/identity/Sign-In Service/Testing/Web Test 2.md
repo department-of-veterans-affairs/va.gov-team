@@ -1,12 +1,12 @@
 # Description
-As part of our rollout strategy for the Sign-in service, we want to test web functionality with a small subset of our active userbase.  In order to do this, we want to temporarily roll our sign-in service out to 30% of our active users (in a typical day, 220,000 users successfully authenticate, so our test should impact 900-1000 users per hour) over a 48 hour service window.
+As part of our rollout strategy for the Sign-in service, we want to test web functionality with a small subset of our active userbase.  In order to do this, we want to temporarily roll our sign in service out to 30% of our active users (in a typical day, 220,000 users successfully authenticate, so our test should impact 900-1000 users per hour) over a 48 hour service window.
 
 We hope to use this test to measure any improvements in sign-in time from our baseline metrics, as well as evaluate how it impacts the user experience through any increase in helpdesk calls or other metrics.  
 
 If at any point during our testing, the login success rate falls below 50%, we intend to pause the test while we evaluate causes.
 
 # Potential Impact on SSOe users
-If a user has a current SSOe session, we will not force the user to sign in with our sign-in service.  Which means that the only impact to the user would be if they initiate a login from VA.gov first, and then go to another SSOe-enabled site.
+If a user has a current SSOe session, we will not force the user to sign in with our sign in service.  Which means that the only impact to the user would be if they initiate a login from VA.gov first, and then go to another SSOe-enabled site.
 
 # Breakpoints 
 

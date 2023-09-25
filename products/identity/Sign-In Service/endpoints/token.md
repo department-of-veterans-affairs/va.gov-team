@@ -1,6 +1,6 @@
 # Token
 
-### Description
+## Description
 
 Used to get the tokens associated with a user's session. These tokens are:
 
@@ -9,11 +9,11 @@ Used to get the tokens associated with a user's session. These tokens are:
 * Anti-CSRF: Prevents cross-site request forgery. Optional feature, currently disabled.
 * Info: Web/cookie authentication only, contains the expiry times for Access & Refresh tokens, enabling vets-website to manage auto-logout.
 
-### Token endpoint
+## Token endpoint
 
 ```jsx
-Staging: https://staging-api.va.gov/v0/sign_in/token
-Production: https://api.va.gov/v0/sign_in/token
+Staging: 'https://staging-api.va.gov/v0/sign_in/token'
+Production: 'https://api.va.gov/v0/sign_in/token'
 ```
 
 | Query parameter | Description |
@@ -22,7 +22,7 @@ Production: https://api.va.gov/v0/sign_in/token
 | `code` | Code passed from vets-api to client after the CSP responds by calling `/callback` at the end of the authentication process.|
 | `code_verifier` | Stored client-side for future `/token` calls, used to generate `code_challenge` that is passed as a param in `/authorize` |
 
-*Sample request*
+## Sample request
 
 ```javascript
 /*
@@ -39,7 +39,7 @@ staging-api.va.gov/v0/sign_in/token
   &code_verifier=1234abc
 ```
 
-*Sample response*
+## Sample response
 
 ```javascript
 {
@@ -50,3 +50,11 @@ staging-api.va.gov/v0/sign_in/token
   }
 }
 ```
+
+### Access Token Attributes
+
+A Sign in Service [`Client Config`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md) can be set to specify the inclusion of the following user attributes, derived from the credential provider, on the returned `access_token`.
+
+* `first_name`
+* `last_name`
+* `email`

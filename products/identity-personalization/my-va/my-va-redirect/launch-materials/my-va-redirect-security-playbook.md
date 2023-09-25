@@ -30,7 +30,7 @@ NOTE:
 Errors with the redirect will result in the user not being redirected to My VA. They will simply land on the VA.gov homepage.
 
 ### Issue investigation steps
-If errors occur with the sign-in service, the Identity team can be reached via slack channel #vsp-identity. The redirect itself is not controlled by My VA.
+If errors occur with the sign in service, the Identity team can be reached via slack channel #vsp-identity. The redirect itself is not controlled by My VA.
 
 ### Flipper Features and Rollback
 Contact the Idenitity team to turn off the feature or to roll back the redirect

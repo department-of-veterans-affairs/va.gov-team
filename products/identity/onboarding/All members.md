@@ -9,9 +9,9 @@ Welcome to the Identity team. This directory contains information needed to Onbo
 ### Current Team Objectives
 
 
-**Sign-in Service Pilot**  
+**Sign in Service Pilot**  
 _Current Status:_ Actively working on this.  Currently working on second phase of work.  
-We are developing a pilot sign-in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
+We are developing a pilot sign in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
 
 **Inherited Proofing**  
 _Current Status:_ Initial research is done.  Next up is accessibility research.
