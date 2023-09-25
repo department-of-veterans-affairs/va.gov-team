@@ -4,7 +4,6 @@
 - [The ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/64394)
 - [The rated disability API endpoint](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/getRatedDisabilities)
 
-
 ### The Problem
 
 The following error is one of our most-raised errors in the 526 submission flow:
@@ -35,8 +34,8 @@ In this version, we attempt to capture these errors or premept them with validat
 reconciled by a human being.
 
 A version of this is already in place.  We are recognizing a subset of errors as 'non-retryable'.  This error falls into that category, and so this "solution" is more of a stop gap.  Ultimatly the paper backup submission path is more expensive to process, so we consider this option suboptimal.
-- TODO: validate that this is true ^^
-- TODO: diagram this flow
+- [TODO]: validate that this is true ^^
+- [TODO]: diagram this flow
 
 ### The pre-submission validation fix (Veteran UX change)
 
@@ -66,6 +65,25 @@ Assuming we identify a mismatch, we will modify the veterans submission using a 
   - We cannot do this with string matching on the name.  We need a hard, solid, static data point to operate on, otherwise we risk submitting the wrong disability, which would be a disaster for the Vet and the VA.
 
 [TODO]: what do we actually store on `inProgressForm`?  Could we change that in a way that would allow us to stay consistant with the underlying source of truth?
+[TODO]: how is a vet's disabilty selection associated to their inprogress form?
+
+**the InProgressForm schema**
+```
+    t.string "user_uuid", null: false
+    t.string "form_id", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.json "metadata"
+    t.datetime "expires_at"
+    t.text "form_data_ciphertext"
+    t.text "encrypted_kms_key"
+    t.date "verified_decryptable_at"
+    t.uuid "user_account_id"
+    t.index ["form_id", "user_uuid"], name: "index_in_progress_forms_on_form_id_and_user_uuid", unique: true
+    t.index ["user_account_id"], name: "index_in_progress_forms_on_user_account_id"
+    t.index ["user_uuid"], name: "index_in_progress_forms_on_user_uuid"
+```
+
 **The rated disability response object**
 ```
 {
@@ -95,7 +113,6 @@ Assuming we identify a mismatch, we will modify the veterans submission using a 
   }
 }
 ```
-[TODO] - diagram this flow
 
 ### The post-submission notifiy the vet of a problem (Veteran facing) fix
 
@@ -104,6 +121,7 @@ This seems slower, more confusing, and no less invasive than the vet-facing form
 
 ## The best option is.... 
 
+[TODO]: answer the 'hard datapoint' question
 - IF there is a hard datapoint we can store in the inProgressForm we can do the **automagical** form update.  To answer this question:
   - deterimine what, if any of the provided datapoints are STATIC
   - determine how we save the disability contention information on this model
