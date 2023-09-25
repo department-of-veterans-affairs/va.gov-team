@@ -7,7 +7,7 @@ When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and M
 
 Navigation that will support these tools well and afford for seamless integration will push beyond the limits of existing secondary navigation designs on VA.gov. The current designs and the problems they pose are articulated below.
 
-**We posit that a successful navigation solution must:** 
+### We posit that a successful navigation solution must:
 * Allow users to move from one tool to another seamlessly
 * Be simple (have subpages minimized so that the menu can stay focused)
 * Be consistently designed and located on **all** pages of the health experience (across all modalities)
@@ -15,7 +15,7 @@ Navigation that will support these tools well and afford for seamless integratio
 * Persistently display all health tools to the user
 * Should explore and test whether being visually louder than primary site navigation is more useful to Veterans and VA.gov users
 
-**Obstacles:**
+### Obstacles:
 In the "try me" phase and beyond, FAQ content within the tools themselves can be migrated to pages in the Resources & Support section on VA.gov, where most FAQ-type content lives across VA.gov. Without that content, most tool-level landing pages will be bare & less helpful, so they can and should be eliminated. This will require some navigation restructuring within the tools. Those changes need to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
 
 ## Desktop - current secondary navigation designs
