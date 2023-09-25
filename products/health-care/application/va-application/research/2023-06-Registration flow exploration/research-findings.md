@@ -10,9 +10,9 @@ Jessica Stump [jessica.stump@adhocteam.us], [Designer 2] [email]
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
-- Draft presentation link
+- [Draft presentation link](https://docs.google.com/presentation/d/1ELs3UkyEeu4JWZRJtpBVpgsKj0kdGtROixH2A1OiZFM/edit#slide=id.g892adcb623_0_141)
 
-- 
+
 
 **Jump to:**
 
