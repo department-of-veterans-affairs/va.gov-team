@@ -8,6 +8,8 @@ The need for this improvment work became apparent while I was working with (lear
 
 Adhoc scripting work such as this tends to be a necessary evil in even the most robust architectures. Fortunately, some dangers and opportunities are trancend use-case. The workflow outlined in this document aims to address those overlaps inorder to provide a more secure, transparent, and faster manual scripting workflow.
 
+([This document is part 3 of this larger series](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/526_failure_batching_and_triage_handoff.md))
+
 ## What exactly is wrong with the way we've been doing it?
 The [current process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526-submission-failure-manual-submission.md) is suboptimal because:
 - It requires rails production console access.  This is a well known security concnern, not only because of potential bad actors but because of the potential for innocent human error.
