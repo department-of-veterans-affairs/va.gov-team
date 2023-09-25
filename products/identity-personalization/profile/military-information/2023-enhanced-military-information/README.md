@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Updated 09/15/2023:** Samara updated problem statements
+**Updated 09/25/2023:** Travis added a link to the Google Doc outline 
 
 ### Communications
 
