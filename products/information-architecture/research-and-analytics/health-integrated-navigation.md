@@ -85,9 +85,9 @@ Quantitative data suggests that despite users being mostly split between desktop
 In both versions of the mobile component, the "in this section" button appears before the page title (H1) which removes its context, and makes it "float in space." The loudest text on the page is the title, and most users would expect to see options beneath or alongside this title text, not above it. 
 
 ### Problem 6: Mobile version adds confusion by conflating other navigation components 
-The general version of the sidenav mobile component (does not occur in facilities version) nests breadcrumbs inside the navigation menu. While it has not been formally researched (from digging into the research repo), it is likely that users do not understand the distinction between the breadcrumb and nav menu options on display when this component is expanded.
+The general version of the sidenav mobile component (does not occur in facilities version) nests breadcrumbs inside the navigation menu. While it has not been formally researched (from digging into the research repo), it is likely that users do not understand the distinction between the breadcrumb and nav menu options on display when this component is expanded. 
 
-When users do click the nested breadcrumbs, which are hyperlinks, they will navigate to a new page, which will close out the "in this section" component. This could cause confusion or frustration. 
+Users may expect that the breadcrumb will help them climb back up the hierarchy _within_ the menu component. However, when users do click the nested breadcrumbs, which are hyperlinks, they will navigate to a new page, which will close out the "in this section" component. This could cause confusion or frustration. 
 
 ### Problem 7: General template behavior narrows what is visible based on how deeply a link is nested
 The general template dynamically updates and narrows what pages are visible to the user as they continue to click more deeply into the site. On both desktop and mobile, the only way to go back to a previous view is to use the breadcrumb to navigate back up the tree. However, on mobile this is a confusing and unexpected experience, as it is much less visually clear that the breadcrumb is a different component than other text within the component. 
