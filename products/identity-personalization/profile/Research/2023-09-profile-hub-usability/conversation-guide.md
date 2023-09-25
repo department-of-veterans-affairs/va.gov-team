@@ -1,4 +1,4 @@
-# Conversation Guide: Profile hub, [Month] 2023
+# Conversation Guide: Profile hub, October(?) 2023
 
 ## Moderator logistics
 
