@@ -131,7 +131,7 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 ### Task #6: Click on a deep link (like DD214)
 
 *(6) Primary prompt:* **Let’s say you want to make sure what information VA.gov has about your service history is accurate. How would you go about checking on this on VA.gov?**
-- This link took you to another page – how did that jump feel?
+- This link took you to another part of the website – how did that jump feel?
 	- How would you get back to your Profile?
 
 - *(6a) Backup prompt (if already covered) – Account security (Update your sign-in info on the [credential] website):* Let’s say you need to double-check what credentials you use to log into your account. 
@@ -151,6 +151,7 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 	- Is there anything you’d like to change or update here?
 
  *Things to note* ✎
+- Which method they use to get back to the hub: breadcrumb navigation, `Auth menu`, or `Search`
 - How quickly the participant located the correct section
 - Any struggles or confusion
 
@@ -177,8 +178,6 @@ If needed:
 - Do you have health benefits?
 - If this information was only used for health care and not other benefits, how would you expect that information to be handled?
 	- Would you expect NoK/EC to be handled differently or in a different location?
-
-{Include a disclaimer that right now NOK/EC is only for healthcare?}
 
 ## Wrapping up – X minutes
 
