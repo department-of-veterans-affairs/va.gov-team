@@ -43,7 +43,8 @@ We’ll also have this error message ready to display starting September 20, 202
 >
 >We’re sorry. Something went wrong on our end. Please try again later.
 >
->If you’re trying to apply by the September 30th special enrollment deadline for certain combat Veterans, you can also apply in other ways: >· Call us at 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+>If you’re trying to apply by the September 30th special enrollment deadline for certain combat Veterans, you can also apply in other ways:
+>· Call us at 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 >
 >· Mail us an application postmarked by September 30, 2023.
 >
