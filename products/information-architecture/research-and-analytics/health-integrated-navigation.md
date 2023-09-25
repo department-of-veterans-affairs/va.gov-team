@@ -49,12 +49,14 @@ There are several differences between the two secondary navigation designs on VA
 * **Design differences:**
   * Link text: the two templates use different blues
   * Indicator for current page (& hover page): different colors, different vertical rule thickness, different background color, distinct treatments
-  * Different styling for section name/parent page: unclickable section/heading names in all-caps on facilites template vs. clickable section/heading names that are not in all-caps on general template
+  * Different styling for section name/parent page
 <img width="426" alt="Screenshot 2023-09-24 at 9 24 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/51d80b56-e8cd-4b08-8b92-03a3e06dc087">
 
+* **Layout difference:** facilities template displays all sections and subpages at once, at all times and does not have a way to collapse or expand irrelevant sections. The general template does have functionality to collapse and expand.
+* **Mobile differences:**
+  * Clicking "in this section" button - on facilities template, the component expands under the button, pushing page content further down the screen, and is full-width; in general version, the menu component opens partial-width in front of the "in this section" component from the upper right corner of the screen and can be closed with an "x".
+<img width="609" alt="Screenshot 2023-09-24 at 9 36 05 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/b8254f53-4a07-4253-a5dc-03d2dbeb24c6">
   
-* **Layout difference:** facilities template displays all sections and subpages at once, at all times and does not have a way to collapse or expand irrelevant sections. The general template does have functionality to collapse and expand
-
 ### Problem 3: Inconsistent compared to primary mega menu navigation  
 
 ### Problem 3: Research suggests that users aren't finding it on mobile
