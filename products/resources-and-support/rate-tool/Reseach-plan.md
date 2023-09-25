@@ -85,7 +85,6 @@ Schedule 10 Veterans for a minimum of 8 successfully completed sessions.
 - 50% of participants should be able to participate from a mobile phone.
 
 
-
 **Secondary criteria (nice-to-haves)**
 
 **Gender**
@@ -102,23 +101,43 @@ Schedule 10 Veterans for a minimum of 8 successfully completed sessions.
 
 ## Timeline
 Completion of 8 successful research sessions between October 16 - October 23.
+
 Prepare
-•	Research team will organize pilot.
+•	Perigean will organize the pilot for October 12.
+
 ## Research Sessions
+
 •	Planned dates of research: October 16 - October 23
 •	We would like to request that Perigean calls each participant to remind them about the session, in addition to emailing them. And please include the session time in each participant's own time zone (from a screener question).
-Length of Sessions
+
+## Length of Sessions
+
 •	Session Length:
+
 o	45 minutes non assistive technology users
+
 o	60 minutes assistive technology users
-•	Buffer time: 30 minutes between sessions.
-•	Maximum sessions per day: 3
-Availability:
+
+•	Buffer time: 
+
+o      30 minutes between sessions.
+
+•	Maximum sessions per day: 
+
+o       3  Sessions per day 
+
+## Availability
+
 •	10/16: 12pm - 5pm ET
+
 •	10/17: 12pm - 5pm ET
+
 •	10/18: 12pm - 5pm ET
+
 •	10/19: 12pm - 5pm ET
+
 •	10/20: 12pm - 5pm ET
+
 •	10/23: 12pm - 5pm ET
 
 
@@ -128,7 +147,7 @@ Availability:
 - Research guide writing and task development: Camille Green
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Camille Green
-- Participant(s) for pilot test: TBD	
-- Note-takers: Perigean, Aubrey Archangel, Sarifa Khalilullah 
+- Participant(s) for pilot test: Perigean
+- Note-takers: Perigean
 - Observers: chante.lantosswett@va.gov,anita.middleton@oddball.io
 
