@@ -52,7 +52,7 @@ We’ll also have this error message ready to display starting September 20, 202
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/f83b2eaf-c26a-4a52-b535-e2f5dbc08b98)
 
-## The email content below is being completed by a separate team
+## The email content below is not being completed by the 10-10 team
 ### Error scenario 2: VA.gov can’t successfully transition the 10-10EZ application to the E&E backend
 
 In this scenario, the Veteran will still get a confirmation message that their application has been submitted at the time of submission. VA.gov will then attempt to send the application to the E&E backend for up to 3 days and 20 hours. When the application goes through, the Veteran will receive an email confirmation.
