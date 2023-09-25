@@ -16,7 +16,7 @@ _Results of audit conducted in Sprint 8 (4/12/23 - 4/25/23)_
 | File | Has Tests? | Ticket to Write Missing Test(s) | In use on My VA (y/n) as of mm/yyyy|
 | -- | -- | -- | --|
 | [CTALink.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/CTALink.jsx) | ✅ | [#57466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57466)|  y - 05/2023  |
-| [ClaimsListItem.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/ClaimsListItem.jsx) | ❌ | [#57468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57468)|  n  |
+| [ClaimsListItem.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/ClaimsListItem.jsx) | ❌ | [#57468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57468)|  n (removed)  |
 | [Dashboard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/Dashboard.jsx) | ❌ | [#57470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57470)|  y  |
 | [DashboardAlert.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/DashboardAlert.jsx) | ✅ |  |  n  |
 | [DashboardWidgetWrapper.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/DashboardWidgetWrapper.jsx) | ❌ | [57470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57470) |  y  |
