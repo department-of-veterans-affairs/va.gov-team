@@ -4,17 +4,15 @@
 - [The ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/64394)
 - [The rated disability API endpoint](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/getRatedDisabilities)
 
-## Axioms
+### Axioms
 In this scenario
 - We have a rateABLE disability list.  a vet selects from this list.
 - A vet has one or more ratED disabilities already associated with thier user by some downstream mechanism
 
-
-
 ### The Error
 the following error: `form526.disabilities[].ratedDisability.isInvalid`, hencforth known as The Error
 
-### What
+## What is happening
 
 - IF a veteran has an existing 'rated Disability', aka a disability that is approved, adjutacated, registered with the VA
   - THEN they submit a suplemental claim (526 requesting a change relative to this 'rated Disability')
@@ -26,7 +24,7 @@ From the outset, it's important to note that if a vet's disability classificatio
 
 More clarity on this is given in each example in the upcomming **Why** section of this document
    
-### Why
+## How is this happening?
 
 The Error is caused by a mismatch between the **rateABLE** disability in the supplemental form and the **ratED** disability in the vet's already-accepted previous submission.  From a purely technical standpoint, here are the ways that data is (could be) getting out of sync.  
 
