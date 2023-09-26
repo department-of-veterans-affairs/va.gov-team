@@ -39,7 +39,8 @@
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-
+- CTA button click for download | N/A |  | Link to Data Source
+- CTA button click for print confirmation page | Baseline: 89 clicks / 564 submissions
 ---
 
 ## Discovery
@@ -66,8 +67,8 @@
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
-- Scope of this build is for all three decision reviews (Supplemental Claims, Notice of Disagreement/Board Appeal, Higher-Level Review) on the confirmation page only.
-- Lighthouse has created an endpoint that adds a watermark to the PDF package.
+- Scope of this build is to make edits for the submission confirmation page for all three decision review forms (Supplemental Claims, Notice of Disagreement/Board Appeal, Higher-Level Review), and link to an already created endpoint that lets users download a print version of the confirmation page and a copy of their completed form.
+- Lighthouse has created an endpoint that adds a watermark to the completed PDF package.
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
