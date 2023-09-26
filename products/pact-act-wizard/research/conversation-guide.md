@@ -197,8 +197,8 @@ If you wanted to learn more about the PACT Act, what would you do?
 ### Task 2: [Open prototype] 
 
 
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to use: **bit.ly/45RtoOR**
-- *(If asked, reassure that this is a legitimate link to what I want you to test)*
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to use: **surveymonkey.com/r/KKVHSFV** (zoom chat) or **bit.ly/45RtoOR** (dictate)
+- *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide a direct link: **surveymonkey.com/r/KKVHSFV**)*
 
 Did you get the link? 
 
