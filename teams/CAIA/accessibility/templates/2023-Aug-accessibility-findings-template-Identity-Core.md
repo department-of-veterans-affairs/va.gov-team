@@ -16,7 +16,7 @@
 
 
 # Accessibility Tools Utilized
-MAGic Screen Magnification Software ([product website](https://support.freedomscientific.com/Products/LowVision/MAGic))
+MAGic Screen Magnification Software ([product website](https://support.freedomscientific.com/Products/LowVision/MAGic)), zoomtext, text-to-speech
 
 ## Coverage
 This research fulfilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
