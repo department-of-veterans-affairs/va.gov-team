@@ -6,7 +6,6 @@
 
 Slack channel:
 - #accountexp-authexp
-- #va-profile
 This is currently managed by the VA.gov profile team.
 
 ## Overview
