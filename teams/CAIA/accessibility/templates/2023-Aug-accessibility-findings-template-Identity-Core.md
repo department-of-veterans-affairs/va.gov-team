@@ -127,6 +127,12 @@ This aligns with experience standard: Content Organization issue 05 “Long or c
 
 This aligns with experience standards: Link and button labels Issue 08 “If your content has multiple CTAs, the CTAs don’t have a unique descriptive label and/or give the user the intended result.” (because “decline” doesn’t imply “log out”); User flows and navigating issue 11, “Link or button is not working as expected or did not navigate to the intended destination.”
 
+### Finding 4
+- Our current recruitment process makes using Figma prototypes difficult. This is because:
+   - We aren't always told by Perigean which assistive technology the user is using (beyond "screen reader"), **and**
+    - Figma prototypes can only be used accessibly by Mac + VoiceOver, Windows + NVDA, and Windows + JAWS.
+    - **Suggestion:** It would be helpful to get more specific information about the technology in use before the test.
+
 ## User Feedback
 
 ### Veterans' Voices: Impactful Quotes 
