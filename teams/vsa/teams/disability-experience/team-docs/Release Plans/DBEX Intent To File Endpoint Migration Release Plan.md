@@ -233,18 +233,12 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage E: High traffic
 #### Planning
-- Date Started:
-- ZH Tracking:
+- Date Started: 9/18
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64589
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 50% 
 #### Results  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies
 - Rollbacks:
 
 <br>
