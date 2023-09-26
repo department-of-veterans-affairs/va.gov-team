@@ -9,7 +9,7 @@ Created: September 25, 2023 <br/>
 
 - Common Veteran-facing or staff-facing FAQs should be documented in the [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides).
 - **Other Product FAQs** should be used to document more nuanced scenarios or code-specific information that comes up on occassion, but might be too in-the-weeds for external communication.
-- Include general application knowledge for internal team members that might be useful.  
+- Include general application, connections to other applications or internal speak knowledge that might be useful for internal team members.  
 
 
 ## General 
