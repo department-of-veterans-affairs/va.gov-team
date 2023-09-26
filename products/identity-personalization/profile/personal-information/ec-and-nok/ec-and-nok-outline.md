@@ -6,7 +6,7 @@
 
 Slack channel:
 - #accountexp-authexp
-This is currently managed by the VA.gov profile team.
+This will be managed by the VA.gov profile team. Work is being developed by the cartography team 
 
 ## Overview
 
