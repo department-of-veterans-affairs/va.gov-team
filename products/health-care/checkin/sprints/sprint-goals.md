@@ -8,7 +8,7 @@ ________________________________________________________________________________
  - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: File any Claim Type for a Past Appointment - Design & Discovery**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
-     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
+     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
      - **Sub Goal: Make the Switch to Version 3 of the Design System** 
@@ -22,7 +22,7 @@ ________________________________________________________________________________
        - TBD
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
-        - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
+        - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update vets-api to Set eCheckInStarted Status when Reminder Link Clicked & Veteran has Authenticated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65834)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Support the Push out a Check-in SMS Message to a Veteran 45-minutes Before an In-person Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63529)
     - **Sub Goal: Analyze current metrics to see what they tell us**
