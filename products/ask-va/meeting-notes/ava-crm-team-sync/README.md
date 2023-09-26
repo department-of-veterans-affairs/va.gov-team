@@ -1,4 +1,4 @@
-## [Meeting Notes](https://docs.google.com/document/d/1HSEAJasf5wF2C9pGvlqhdemShPnSEVH-Huf1qduwruI/edit) for CRM Sync on 9/26/2023
+## Meeting Notes for CRM Sync on 9/26/2023
 
 This was a brief meeting. We'll have more to discuss when Chris is back online.
 
