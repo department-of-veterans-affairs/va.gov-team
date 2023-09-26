@@ -3,8 +3,8 @@ Ensuring accuracy and alignment to VHA decision tree and calculator logic
 
 
 ### Currently identified changes being resolved:
-- Integration of Liquid Cash to calculation GH# TBD
-- Remove Assets from calculation for long forms GH# TBD
+- Integration of Liquid Cash to calculation GH# [66245](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/66245)
+- Remove Assets from calculation for long forms GH# [66245](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/66245)
 - 
 
 
