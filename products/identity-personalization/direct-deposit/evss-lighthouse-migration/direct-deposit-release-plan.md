@@ -140,7 +140,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| no  |
 |Types of errors logged:| documented our errors [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65736)  |
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| we're working with lighthouse and BGS to figure out next steps and maintaining our rate at 10%   |
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| we're working with lighthouse and BGS to figure out next steps and maintaining our rate at 10%; after several weeks at 10% LH is now on par or better than EVSS according to our [new dashboard](https://vagov.ddog-gov.com/dashboard/gra-npe-h52/authenticated-experience-cp-direct-deposit?refresh_mode=sliding&from_ts=1695131443208&to_ts=1695736243208&live=true)  |
 
 ---
 ### Stage C: 25% of users
