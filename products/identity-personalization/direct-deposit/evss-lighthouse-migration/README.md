@@ -124,6 +124,7 @@ As a person that receives payments from VA, I want to be able to easily view and
 - Late August 2023: Reduced launch back to 5% while we investigated a sudden increase in timeouts
 - September 6, 2023: Lighthouse production increase in Gateway timeout changed from 10s to 20s, resulting in a drop in timeout errors
 - September 12, 2023: Launch increased to 10% of users
+- September 26, 2023: Launch increased to 25% of users
 
 ### Launch issues
 
