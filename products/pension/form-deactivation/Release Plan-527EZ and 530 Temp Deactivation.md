@@ -54,10 +54,20 @@ The changes will be lauched to 100% of users right away to limit issues with mul
 
 
 ## Go Live!
-
-### Planning:
 - Desired date: September 27, 2023
 - Actual date: 
+
+### Day 1 Post-Launch
+- User Experience
+   - User with an in-progress claim (authenticated)
+      - Receives [burial](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64680) or [pension](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64679) email notifying them that the online claim form is not working right now and they need to submit their claim via paper form.
+      - When the log in to VA.gov to view their in-progress claim, they see a form summary page with all of the info entered into their saved form.
+   - User with an in-progress claim (un-authenticated)
+      - When they visit VA.gov they are notified by text on the "how to apply page" that the online claim form is not working and they can submit via paper form.
+   - User without an in-progress claim (Un-authenticated)
+      - When they visit VA.gov they are notified by text on the "how to apply page" that the online claim form is not working and they can submit via paper form.
+   - User without an in-progress claim (authenticated and non-authenticated)
+      - When they visit VA.gov they are notified by text on the "how to apply page" that the online claim form is not working and they can submit via paper form.
 
 ### 1-week results:
 - Opened emails
