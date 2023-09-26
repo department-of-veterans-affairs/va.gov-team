@@ -1,7 +1,7 @@
 # Research Plan for Identity, Manage Devices, 2023-9
 
 ## Background
-Currently, users are logged out of 30 minutes of inactivity on the VA.gov website on the desktop browser.  When using a mobile device, a user's session is maintained for 45 days.  With the current setup, the risks associated with being logged into multiple devices is minimal.  However, once SiS is pushed to production, a user's session on the desktop will also be maintained for 45 days significantly increasing the security concerns e.g. phishing, malware, and other threats.
+Currently, users are logged out after 30 minutes of inactivity on the VA.gov website on the desktop browser.  When using a mobile device, a user's session is maintained for 45 days.  With the current setup, the risks associated with being logged into multiple devices is minimal.  However, once SiS is pushed to production, a user's session on the desktop will also be maintained for 45 days, significantly increasing the security concerns e.g. phishing, malware, and other threats.
 
 
 ### OCTO Objectives 
@@ -13,7 +13,7 @@ Currently, users are logged out of 30 minutes of inactivity on the VA.gov websit
 
 ### Veteran Journey
 
-Securely accessing VA online services can happen at any stage in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf). The updated Terms of Use will apply to every who signs into VA online and uses the authenticated experience.
+Securely accessing VA online services can happen at any stage in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf). The option to log out of all devices will apply to every who signs into VA online and uses the authenticated experience.
 
 ## Research Goals	
 
