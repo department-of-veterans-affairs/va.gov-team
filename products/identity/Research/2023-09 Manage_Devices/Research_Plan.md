@@ -1,8 +1,7 @@
 # Research Plan for Identity, Manage Devices, 2023-9
 
 ## Background
-VA would like everyone utilizing VA.gov and it's surrounding sites and services to be presented with a unified version of the Terms and Conditions that they will have to agree to in order to continue utilizing the authenticated experience
-- [product info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/terms%20and%20conditions)
+Currently, users are logged out of 30 minutes of inactivity on the desktop browser.  When using a mobile device, a user's session is maintained for 45 days.  With the current setup, the risks associated with being logged into multiple devices is minimal.  However, once SiS is pushed to production, a user's session on the desktop will also be maintained for 45 days significantly increasing the security concerns e.g. phishing, malware, and other threats.
 
 
 ### OCTO Objectives 
