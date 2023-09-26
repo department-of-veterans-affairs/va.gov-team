@@ -9,7 +9,7 @@
 - 9/7/23 - Edits (JM)
 - 9/18/23 - Edits (JM)
 
-**Team:** Form digitization team
+**Team:** Veteran forms team
 
 **IA Request:** [Link to Sitewide Content and IA intake request](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/60579)
 
