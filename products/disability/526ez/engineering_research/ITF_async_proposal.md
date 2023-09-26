@@ -98,6 +98,13 @@ This is by far the more complicated side of this work.  A few outstanding questi
 #### 4. Is this even legal?
 Seems like, probably yes.  But someone should probably ask a lawyer...
 
+#### 5. Is the juice worth the squeeze?
+It's worth noting that if we build this feature, we are doing what is colquially known as 'building to the bug', where in this case the 'bug' is a performance bottle neck in our down stream services.
+
+It's a bit like putting a parking lot next to a highway offramp that tends to get clogged, rather than improving the offramp.
+
+The problem on our end was a timeout.  That was corrected, and now we are simply engineering to a 'what if' scenario where we are anticipating latency and possible outages of a downstream system. 
+
  
 ### Preflight check list
 Once this is built and in place we would need to be certain
