@@ -7,7 +7,8 @@
 - Relevant terms from page are in content brief and any relevant backlog work is noted.
 - Assess the content in the blue box. **Note:** I moved all content out of the blue box. There's no need for a blue box on this page at all single we don't talk about eligibility.
 - Fixed several lead-ins to bulleted list so they are complete sentences.
-- Added action link directing users to the intro page to the online form and edited that section to align with other disability pages already edited that are eligibility child pages.
+- Standardized several H2s to enforce consistency between this page and FDC. 
+- Shortened and standardized the "How do I file" content so what's on this page matches FDC page. Both pages currently point the user to the "How to file" page
 - Reworked "What evidence will VA gather..." section for better logic grouping things in bulleted lists.
 
 ### Copy editor checks, edits, tasks
