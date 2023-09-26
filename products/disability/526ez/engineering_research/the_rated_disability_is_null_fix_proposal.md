@@ -35,21 +35,22 @@ The Error is caused by a mismatch between the **rateABLE** disability in the sup
 - 6 months later...
 
 - **Scenario 1**
-- The Vet logs in to submit a suplemental claim.  Purusing the list of **rateABLE** disabilities, they do not see 'Disability X'.  They do however see 'Disability X2' and
-  - IF they deduce the designation has changed and select 'Disability X2'...
-    - Is it legal for them to submit a suplemental request for a Disability designation different than their previously adjudicated one?
-      - IF yes, we can continue the form.
-      - IF NO, we enter the **"Reconciliation Black Box"**, wherein we need to add something to make the form submittable, which could be human intervention
-  - IF they DO NOT deduce the change in designation
-    - We enter the **"Reconciliation Black Box"**, in this instance reconciling their understanding with the new paradigm, possibly by showing a support contact
+  - The Vet logs in to submit a suplemental claim.  Purusing the list of **rateABLE** disabilities, they do not see 'Disability X'.  They do however see 'Disability X2' and
+    - IF they deduce the designation has changed and select 'Disability X2'...
+      - Is it legal for them to submit a suplemental request for a Disability designation different than their previously adjudicated one?
+        - IF yes, we can continue the form.
+        - IF NO, we enter the **"Reconciliation Black Box"**, wherein we need to add something to make the form submittable, which could be human intervention
+    - IF they DO NOT deduce the change in designation
+      - We enter the **"Reconciliation Black Box"**, in this instance reconciling their understanding with the new paradigm, possibly by showing a support contact
 
 
 [TODO] - START HERE and continue the brain dump
 - **Scenario 2**
-- submits a suplemental claim for 'Disaility X2' (the new designation) and gets The Error
-  - This implies that our downstream services for rateABLE and ratED disabilities have been updated and synced, but the ratED disability associated with the vet's previous submission has not been update (i.e. is still listed as 'Disability X')
-    - If this is the case, a backfil is required in the downstream service to reconcile this data, however we need to ask the question "can someone at EVSS legaly change a vet's disability designation?" This puts someone downstream into the '**Reconciliation Black Box**' flow.
- 
+  - submits a suplemental claim for 'Disaility X2' (the new designation) and gets The Error
+    - This implies that our downstream services for rateABLE and ratED disabilities have been updated and synced, but the ratED disability associated with the vet's previous submission has not been update (i.e. is still listed as 'Disability X')
+      - If this is the case, a backfil is required in the downstream service to reconcile this data, however we need to ask the question "can someone at EVSS legaly change a vet's disability designation?" This puts someone downstream into the '**Reconciliation Black Box**' flow.
+
+
   **Scenario 2**
   - 6 months later, the Vet submits a suplemental claim for **Disaility X** and get's The Error
     - This implies
