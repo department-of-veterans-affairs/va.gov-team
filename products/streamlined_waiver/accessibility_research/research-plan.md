@@ -289,7 +289,12 @@ c) No (disqualify)
   a) Yes
   b) No (disqualify)
     
+Follow Up Call: 
+Please follow up by phone with prospective participants with these (3) questions and please let us know what they say. 
 
+1. We want to confirm that you use a screen reader due to low vision or blindness
+2. Are you comfortable joining a Zoom call using your screen reader technology?
+3. We’ll have an accessibility specialist on the call. Are there any other accommodations that would be helpful during this session?
 
 Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
