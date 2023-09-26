@@ -59,6 +59,7 @@ assignees: ''
 - Add your name, practice area, and GH handle under Point of Contact/Reviewers
 - Complete the QA Standards section, making sure to include an "Explanation of failure to meet standard" for every Standard the product does not meet.
 - Link to the Collaboration Cycle Request epic
+- Add epic's milestone
 - Add assignees: 
   - VFS PM
   - Yourself (optional)
