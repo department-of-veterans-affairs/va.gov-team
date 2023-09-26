@@ -49,7 +49,7 @@ The new form will live under the existing details page for Presidential Memorial
 
 
 1. [Presidential Memorial Certificates](https://www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/) - Add
-  - Placement description: Online application CTA should be listed as the first option under section "How do I apply for a Presidential Memorial Certificate?" and the QuickSubmit option removed. Connect with the Content team to confirm formatting for the remaining application opportunities so it aligns with other similar form info pages.
+  - Placement description: Online application CTA should be listed as the first option under section "How do I apply for a Presidential Memorial Certificate?" and the QuickSubmit option removed. Connect with the Content team to confirm formatting for the remaining application opportunities so it aligns with other similar form static pages.
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/request-certificate-form-40-0247/
   - Notes: 
