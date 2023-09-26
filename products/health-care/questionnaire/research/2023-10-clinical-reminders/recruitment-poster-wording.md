@@ -1,8 +1,7 @@
-Title: If you answered questions online to help your provider prepare for you appointment today, we are interested in hearing from you. Get PAID for your feedback!
+Title: Did you answered questions online to help your provider prepare for you appointment today? If so, we are interested in hearing from you. Get PAID for your feedback!
 
 VA Contract Numbers: 36C10B22C0011 & 36C10X18C0061
 
-These questions would have been about eye care, homelessness, food insecurity, tobacco use, sexual orientation, toxic exposure, embedded fragments, or traumatic brain injuries.
 1. Register for a future Veteran Usability Study
 <br/> (takes 5 minutes at [URL for segregated database])
 2. Get a $5 Amazon gift card
