@@ -2,7 +2,14 @@
 
 Created: September 25, 2023 <br/>
 
-- [General](#general) <br/>
+- [Documentation Guidance](#documentation-guidance) <br/>
+- [General](#general) <br/><br/>
+
+## Documentation Guidance 
+
+- Common Veteran-facing or staff-facing FAQs should be documented in the [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides).
+- Other Product FAQs should be used to document more nuanced or code-specific information. 
+
 
 ## General 
 
