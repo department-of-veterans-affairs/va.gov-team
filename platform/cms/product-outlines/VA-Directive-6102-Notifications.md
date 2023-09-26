@@ -53,7 +53,6 @@ I've updated the designs for both the Vet Center and VAMC emails to include the 
 
 ## Contacts
 - Product Owner: Erika Washburn (OCTO-DE)
-- Product Manager: Mike Hollen (Friends From The City)
 - Delivery Manager: Dawn Pruitt (Agile 6)
 - Engineering: CMS Team/Edmund Dunn (Agile 6)
 - Designer/Researcher: Blake Organ (CivicActions)
