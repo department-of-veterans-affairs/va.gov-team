@@ -39,59 +39,29 @@ The Error is caused by a mismatch between the **rateABLE** disability in the sup
     - IF they deduce the designation has changed and select 'Disability X2'...
       - Is it legal for them to submit a suplemental request for a Disability designation different than their previously adjudicated one?
         - IF yes, we can continue the form.
+          - They submit the form with 'Disability X2' and get **The Error**
+            - This implies that their already **ratED disability** has not been updated to reflect the new designation.  This puts our downstream service in the **"Reconciliation Black Box"** where now they need to change the vet's designation, and probably let the vet know.
         - IF NO, we enter the **"Reconciliation Black Box"**, wherein we need to add something to make the form submittable, which could be human intervention
     - IF they DO NOT deduce the change in designation
       - We enter the **"Reconciliation Black Box"**, in this instance reconciling their understanding with the new paradigm, possibly by showing a support contact
 
-
-[TODO] - START HERE and continue the brain dump
 - **Scenario 2**
-  - submits a suplemental claim for 'Disaility X2' (the new designation) and gets The Error
-    - This implies that our downstream services for rateABLE and ratED disabilities have been updated and synced, but the ratED disability associated with the vet's previous submission has not been update (i.e. is still listed as 'Disability X')
-      - If this is the case, a backfil is required in the downstream service to reconcile this data, however we need to ask the question "can someone at EVSS legaly change a vet's disability designation?" This puts someone downstream into the '**Reconciliation Black Box**' flow.
-
-
-  **Scenario 2**
-  - 6 months later, the Vet submits a suplemental claim for **Disaility X** and get's The Error
-    - This implies
-      - IF the rateABLE service has been updated, then we have stale form data.  (i.e. the form saved the designation before it was updated and submitted it after it was updated)
-        - If this is the case, we could (from a technical perspective) validate the form, and ask the vet to choose a different rateABLE disability from the list.  However, this this puts us in the '**Reconciliation Black Box**' flow.
-      - OR if the rateABLE service has **not** been updated, then we are working with bad data and work is required in the downstream service to reconcile this.  (This is unlikely, as implies our Vet's ratED disability was updated but not the rateABLE disability list.
+  - The Vet logs in to complete a supplemental claim they they started 8 months ago (before 'Disability X' was changed to 'Disability X2').  When they started the form, they got past the rateABLE Disability secion, so 'Disabilty X' is already saved on their form submission.  They submit their form and get The Error.
+    - In this case we have stale form data.  We could prevent this by validating the form before submission and asking them to go back and select a valid rateABLE disability.  This puts us back into **Scenario 1**
   
 
 ## The Reconciliation Black Box, part 2
 
-  - Alternatively, if the supplemental claim is submitted with 'Disability X' (the original designation) then there are a few posibilities
-    - **1** The rateable Disability endpoint has not been updated, but the vet's rated disability record has.
-      - If this is the case, then this is a problem that must be address by a backfill in the downstream system
-    - **2** Both the ratable Disability endpoint and the vets rated disability record have been updated, but the form data associated with the veterans submission has grown stale, i.e. they started the form _before_ the change over, and submitted it after
-      - If this is the case, then this is a problem we could address in the 526 flow with a validation / UX update.
-     
-## Critical Take aways
+Now that we understand how we may end up in a scenario where we might have to stop and say "is this legal?", we can identify potential fixes.
 
-If we can get difinitive answers to the two following questions (yes or no, should be simple) then we will know exactly how to proceed.
+### Fix 1: Your form has been flagged for review
+In this version, we allow the vet to submit their form with the mismatched or changed Disability designation.  We put the form into a 'manual review' state where either they need to reach out to the VA adjudicators, or the adjudicators would need to reach out to them.
 
-### Question 1:
+### Fix 2: Your form cannot be submitted, please call support**
+In this version, we validate the form, catch the mismatch, and simply give them a customer support number.  This puts the onus on the Vet to resolve the discrepancy before continuing to submit their form.  (NOTE: this feels mean, i do not like this option)
 
-If a requests comes in with Disability X and Disability X is NOT IN THE EVSS SYSTEM AT ALL, is this the error that will be returned? 
-
-#### What does this tell us?
-
-In this scenario, we know that our form is submitting stale data.  If Disability X is not in the EVSS system at all, then we know that there is no way it could have been presented as an option to the veteran in the ratable disability selection.  If the answer here is yes, we should add the Validation / UX change.
-
-### Question 2:
-
-If a request comes in with Disability Y and Disabilty Y is IN THE SYSTEM BUT NOT A RATED DISABILITY ASSOCIATED WITH THIS VETERAN, is this the error that will be returned?
-
-#### What does this tell us?
-
-In this scenario, we know that either the rateable disability options changed but our vet's rated disability record did not, or vice versa.  This means that the solution is a backfil of EVSS data, and they are the owners of this bug.
-
-### Summary
-
-If our downstream services are changing data but not normalizing it, then there is nothing we can do prevent this error.  We need a universal and static data point to match these disability.  'Guess work' solutions like "knee pain SOUNDS like lower knee pain, so let's submit that instead" would be prohibitively dangerous to attempt.
-
-## If we did want to add validation
+### Fix 3: Everything is legal, we just need to adjust the data
+In this version, there is not **"Reconciliation Black Box"**.  We are simply trusting the Vet to figure out how to select the correct disability from the list and submit it.  If they are confused, they can call the VA.  
 
 When loading the veteran facing review page, we will first validate their ratedDisablity selection.  If their previous selection is no longer a valid option, we will prompt them to return to this step of the form and reselect their disability
 
@@ -107,9 +77,23 @@ This version, while not technically complex, will take a while to get done due t
 
 ![Validation with new UX flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/4ad02e53-a02e-4ecf-af87-e9019242357d)
 
-## Action Items
-- Ask these two questions of EVSS
-  - If a requests comes in with Disability X and Disability X is NOT IN THE EVSS SYSTEM AT ALL, is this the error that will be returned?
-  - If a request comes in with Disability Y and Disabilty Y is IN THE SYSTEM BUT NOT A RATED DISABILITY ASSOCIATED WITH THIS VETERAN, is this the error that will be returned?
+#### Fix 3.1: Thanks for the form, but now we get The Error
+In this sub-version, we have accepted the Vet's good faith best attempt, but run into The Error.  We now have a situation where the data provided to the **rateABLE** disabilities list does not match the vet's existing **ratED** disability.  This means our downstream service needs to reconcile their data
+
+## Questions for Stake Holders
+
+To proceed, we need to know, Assuming a Vet has a **ratED** disability and the **rateABLE** disability list has changed:
+1. Can / should we allow them to select the "new" (updated) disability from our rateABLE disability list?
+- IF yes
+  - Do we go with a **Fix 1** option where we put the application in a new state, allowing a human to reconcile the data discrepancy?
+- IF NO
+  - What do we do?  It feels like we can't let them proceed with the form?
+
+2. Does our downstream service partner (EVSS / LH) have the right to backfill / change the ratED disability for the vet?
+  - IF YES
+    - Have they?
+  - IF NO
+    - They will need some sort of reconciliation system to associated historical ratED disabilities with the new rateABLE supplemental claims.
+
 
 *Micah: The fix we proposed is becoming too narrow as it's based around one specific scenario. Expectations of the number of application errors this will solve are not realistic at this point. In the end, the backup method may be the best solution for the errors related to rated disabilities*
