@@ -36,8 +36,10 @@
 
 ## <a name="nav"></a>Redirects <br>
 
-Current URL for combined form: https://www.va.gov/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346/ and all child pages
-New URL for combined form: https://www.va.gov/health-care/order-hearing-aid-or-cpap-supplies-form/
+| Current URL                                                                                                     | Redirect to                                                             |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| https://www.va.gov/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346/ and all child pages | https://www.va.gov/health-care/order-hearing-aid-or-cpap-supplies-form/ |
+
 Redirect Ticket: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15352
 
 
