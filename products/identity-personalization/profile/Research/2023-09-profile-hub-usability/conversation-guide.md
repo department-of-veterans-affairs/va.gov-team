@@ -105,7 +105,7 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 	- Is there anything you’d like to change or update here?
 
 If needed:
-- I see you clicked within the card/box, but not on the link inside it. what were you expecting to happen?
+- I see you clicked within the card/box, but not on the link inside it. What were you expecting to happen?
 	- Did what happen meet your expectations?
 
 *Things to note* ✎
