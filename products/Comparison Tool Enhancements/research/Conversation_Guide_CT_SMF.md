@@ -13,7 +13,7 @@
 - 15-20 min before session, moderator must:
   - Post observer instructions link to #feedback-backchannel on Slack
     - Link to instructions: (https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html)
-    - @ tag team members (Ariana Adili, Shannon Ford, and any available observers)
+    - @ tag team members 
     - Provide brief participant info.: assistive tech (if used), type of device used
     - <i>"GI Bill Comparison Tool, Specialized Mission Filter Usability Study session #__ begins in x minutes. Please post comments in this thread. @team member(s)."</i>
     - MUTE Slack, Teams, and email notifications
