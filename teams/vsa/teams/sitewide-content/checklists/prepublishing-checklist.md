@@ -28,6 +28,9 @@
 - [ ] If publishing a brand-new page, confirm the left nav and url are set up correclty. (If the page is a child page, the section needs to be the same as the parent page in order for the left nav to show.) [Learn how to set up a url and left nav in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/adding-left-nav-and-url.md)
 - [ ] Check if the page has a new or updated alert. If so, publish the alert separately. 
 
+### Additional checks for translated articles
+- [ ] If we don't have updated translated versions, add the alert that lets users know the translated pages aren't up to date and links to the corresponding English page. 
+
 ### Additional checks for Resources and Support articles
 
 - [ ] Confirm H2s, H3s, and H4s are within the 70-character limit.
