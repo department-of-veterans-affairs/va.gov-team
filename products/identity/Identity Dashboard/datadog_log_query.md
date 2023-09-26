@@ -38,7 +38,7 @@ datadog_api_client:
 
 ### Authentication
 
-Datadog querying routes are protected by standard Identity Dashboard user authentication via Sign-in Service - a valid SiS access token is required to proceed. The necessary token can be obtained either by starting a parallel `vets-api` instance and authenticating with it or by using the [IDD mock cookie route](https://github.com/department-of-veterans-affairs/va-identity-dashboard#mock-authentication-cookie) to create a mocked authentication token for your preferred IDD user.
+Datadog querying routes are protected by standard Identity Dashboard user authentication via Sign in Service - a valid SiS access token is required to proceed. The necessary token can be obtained either by starting a parallel `vets-api` instance and authenticating with it or by using the [IDD mock cookie route](https://github.com/department-of-veterans-affairs/va-identity-dashboard#mock-authentication-cookie) to create a mocked authentication token for your preferred IDD user.
 
 ### Postman Collection
 
