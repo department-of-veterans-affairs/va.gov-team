@@ -98,14 +98,20 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 ### Task #3: Locate Contact information on hub page - 5/8 (AT) minutes
 
 *(3) Primary prompt:* **Let’s pretend you recently moved. How would you update your information on VA.gov to make sure letters from VA get delivered to the right place?**
+- 
 - Does this information look up-to-date?
 - If you’d like to update any of this information while we’re on this call, we’d be happy to learn from your experience.
 
 - *(3a) Backup prompt (if already covered) – Notification settings:* Say you wanted to change what kinds of messages VA sends to your personal mobile device. How would you do that?
 	- Is there anything you’d like to change or update here?
 
+If needed:
+- I see you clicked within the card/box, but not on the link inside it. what were you expecting to happen?
+	- Did what happen meet your expectations?
+
 *Things to note* ✎
 - How quickly the participant located the correct section
+- Whether the participant tried to click within the card, but outside the link itself
 - Any struggles or confusion
 
 ### Task #4: Switch to Direct deposit section - 4/7 (AT) minutes
