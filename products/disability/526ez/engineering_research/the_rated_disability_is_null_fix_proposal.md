@@ -26,6 +26,41 @@ More clarity on this is given in each example in the upcomming **Why** section o
    
 ## How is this happening?
 
+When a veteran submits a suplemental claim, they are presented with a representation of the rated disability they are attempting to supplement.  If, in the time since this disability was rated, the classification of this disability has changed, then we will get The Error when we attempt form submission.  
+
+## How do we fix it
+
+We need to normalize the data.  This could happen in several ways.
+
+### Option 1: Ask the Vet to make the change
+
+When they are filling out the submission form, at the appropriate point in the flow we inform them that the designation has changed and they need to 'select' the disability they are applying in relation to.  This would presumably be a list of 1 option, or even just an aknowledgement check.  In this way, they have 'updated' their classification to match the new paradigm.  When they submit the form, their new designation will either 
+  - match their previously rated Disability because someone at VA has changed it
+  - not match their previously rated Disability and we overwrite it with their new selection
+  - not match their previously rated Disablity and we put their application into a 'needs review' state or something similar.
+
+### Option 2: We Let the VA make the change ahead of time
+
+When rated disability codes, descriptions, or designations change, the Vet's rated Disability is passed on to the VA for updating.  In this way, the onus of making the change falls on the VA.  In this scenario we would presumably want to alert the vet of this change, e.g. via email.  Now, when they are filling out their supplemental claim they see the **new** rated disability, and when they submit their form everything matches.
+
+## Option 3: We automagically make the change when the problem occurs
+
+In this option, we present the vet with their familiar rated disability description, OR, we inform them that by submitting this form they are changing their rated Disability to the new description.  Either way, when they submit the form we would
+  - check for a mismatch
+  - use some sort of 'equivalency service' to switch over their rated disability
+    - this requires discussion of who would own it (probably our downstream partner)
+  - accept the form submission and everything works.
+
+### Option 4: We don't change the rated disability
+
+In this option, we simply prevent the problem by implementing some process by which a veterans existing rated disability remains static and supplemental claims create new rated disabilities.  This is a potentially expensive and labor intensive process.
+
+
+
+# ---------- OLD VERSION -----------------
+
+This was mostly written before I fully understood the problem, but i'm keeping it for posterity
+
 The Error is caused by a mismatch between the **rateABLE** disability in the supplemental form and the **ratED** disability in the vet's already-accepted previous submission.  From a purely technical standpoint, here are the ways that data is (could be) getting out of sync.  
 
 - A Vet submits a claim for 'Disability X', which is accepted, adjudecated, and 'rated'.
@@ -36,6 +71,7 @@ The Error is caused by a mismatch between the **rateABLE** disability in the sup
   - The Vet logs in to submit a suplemental claim.  Purusing the list of **rateABLE** disabilities, they do not see 'Disability X'.  They do however see 'Disability X2' and
     - IF they deduce the designation has changed and select 'Disability X2'...
       - Is it legal for them to submit a suplemental request for a Disability designation different than their previously adjudicated one?
+      -     **If we know this will bork, is it ok to allow them to change it?**
         - IF yes, we can continue the form.
           - They submit the form with 'Disability X2' and get **The Error**
             - This implies that their already **ratED disability** has not been updated to reflect the new designation.  This puts our downstream service in the **"Reconciliation Black Box"** where now they need to change the vet's designation, and probably let the vet know.
