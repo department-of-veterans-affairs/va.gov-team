@@ -97,8 +97,7 @@ Next, I’d like to ask you some questions that involve imaginary scenarios – 
 
 ### Task #3: Locate Contact information on hub page - 5/8 (AT) minutes
 
-*(3) Primary prompt:* **Let’s pretend you recently moved. How would you update your information on VA.gov to make sure letters from VA get delivered to the right place?**
-- 
+*(3) Primary prompt:* **Let’s pretend you recently moved. How would you update your information on VA.gov to make sure letters from VA get delivered to the right place?*
 - Does this information look up-to-date?
 - If you’d like to update any of this information while we’re on this call, we’d be happy to learn from your experience.
 
