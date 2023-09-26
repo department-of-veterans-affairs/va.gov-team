@@ -1,6 +1,15 @@
 ## Testing Streamlined Waiver Submissions
 Ensuring accuracy and alignment to VHA decision tree and calculator logic
 
+
+### Currently identified changes being resolved:
+- Integration of Liquid Cash to calculation GH# TBD
+- Remove Assets from calculation for long forms GH# TBD
+- 
+
+
+
+### Tracking Submission Inquiries
 |Date|Transaction ID  |Initial Findings| VODA initial review comments| Resolution|  Issue Resolved?
 |--|--|--|--|--|--|
 |9/12/23 |8cc935f3-6bec-4bca-938d-920ffec47b6e  |Long form error - It should have been approved based on Veteran's income of $53,418.12 annually, above the $47,250 GMT, which moves it into the "long form", but below 150% of GMT ($70,875) cash on hand ($450) is also below the 6.5% of GMT ($3,071.25), and discretionary income based on expenses of $4,029.96 ($4,451.51 - $4,029.96 = $421.55) is less than Disc. Income of 1.25% of GMT ($590.63).  | VODA including auto assets put them over threshold for long form | Remove Assets from calculation GH #66245 | |
