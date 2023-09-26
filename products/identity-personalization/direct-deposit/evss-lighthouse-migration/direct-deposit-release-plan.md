@@ -139,7 +139,8 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 |Number of unique users:| [5,091](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20230912&_u.date01=20230918/) |
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| no  |
-|Types of errors logged:| documented our errors [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65736)  |
+|Types of errors logged:| documented our errors [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65736) we'
+re working with LH and BGS to determine where the issues continue to stem from using that ticket to document and track each of the error types we're seeing and when possible we're creating tickets to resolve the respective errors. LH is now on par or beating EVSS's response rates |
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| we're working with lighthouse and BGS to figure out next steps and maintaining our rate at 10%; after several weeks at 10% LH is now on par or better than EVSS according to our [new dashboard](https://vagov.ddog-gov.com/dashboard/gra-npe-h52/authenticated-experience-cp-direct-deposit?refresh_mode=sliding&from_ts=1695131443208&to_ts=1695736243208&live=true)  |
 
 ---
