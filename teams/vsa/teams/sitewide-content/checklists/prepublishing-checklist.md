@@ -29,7 +29,7 @@
 - [ ] Check if the page has a new or updated alert. If so, publish the alert separately. 
 
 ### Additional checks for translated articles
-- [ ] If we don't have updated translated versions, add the alert that lets users know the translated pages aren't up to date and links to the corresponding English page. 
+- [ ] If we don't have updated translated versions, add the alert that links to the corresponding English page and lets users know that the translated pages aren't up to date. 
 
 ### Additional checks for Resources and Support articles
 
