@@ -17,12 +17,6 @@ the following error: `form526.disabilities[].ratedDisability.isInvalid`, hencfor
 - IF a veteran has an existing 'rated Disability', aka a disability that is approved, adjutacated, registered with the VA
   - THEN they submit a suplemental claim (526 requesting a change relative to this 'rated Disability')
     - THEN they receive this error
-
-## WAIT! We need to talk about "The Reconciliation Black Box"
-
-From the outset, it's important to note that if a vet's disability classification has been changed, before we can do anything code-wise we need to answer the question "who has the legal right to change this designation, and by what process?"  This problem manifests in multiple ways and with multiple apparent solutions.  For now, we will refer to any instance of this complexity as the **"Reconciliation Black Box"** for simplicity.
-
-More clarity on this is given in each example in the upcomming **Why** section of this document
    
 ## How is this happening?
 
@@ -61,6 +55,15 @@ In this option, we simply prevent the problem by implementing some process by wh
 
 This was mostly written before I fully understood the problem, but i'm keeping it for posterity
 
+## Context
+
+### "The Reconciliation Black Box"
+
+From the outset, it's important to note that if a vet's disability classification has been changed, before we can do anything code-wise we need to answer the question "who has the legal right to change this designation, and by what process?"  This problem manifests in multiple ways and with multiple apparent solutions.  For now, we will refer to any instance of this complexity as the **"Reconciliation Black Box"** for simplicity.
+
+More clarity on this is given in each example in the upcomming **Why** section of this document
+
+### Why is this happenign
 The Error is caused by a mismatch between the **rateABLE** disability in the supplemental form and the **ratED** disability in the vet's already-accepted previous submission.  From a purely technical standpoint, here are the ways that data is (could be) getting out of sync.  
 
 - A Vet submits a claim for 'Disability X', which is accepted, adjudecated, and 'rated'.
@@ -86,7 +89,7 @@ The Error is caused by a mismatch between the **rateABLE** disability in the sup
     - In this case we have stale form data.  We could prevent this by validating the form before submission and asking them to go back and select a valid rateABLE disability.  This puts us back into **Scenario 1**
   
 
-## The Reconciliation Black Box, part 2
+### The Reconciliation Black Box, part 2
 
 Now that we understand how we may end up in a scenario where we might have to stop and say "is this legal?", we can identify potential fixes.
 
