@@ -253,6 +253,16 @@ Could you tell me what "presumptive conditions" are?
 - Could you please take a look now? 
 - *(After they read it...)* What do "presumptive conditions" mean to you?
 
+*RECORD other comments on “You may be eligible for VA benefits” page:*
+
+
+*RECORD comments on “Apply for VA benefits now” page:*
+- *New PACT Act conditions accordion*
+- *Other Gulf War illnesses accordion*
+- *File for disability compensation*
+- *Apply for VA health care*
+
+
 If you saw this page based on the questions you just answered, **how confident are you that you could take action**? I’d like you to rate your confidence level.  
 
 - On a scale from 1 to 7, where 1 is *Not at all confident* and 7 is *Extremely confident*, how confident are you that you could take action based on the information in this page? 
