@@ -74,7 +74,7 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 |-------|-----------|-----------|------|------|
 | Launch to 5% | 1 week | week of 08/7/2023 | 08/07/2023 | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
 | Launch to 10% | 1 week | week of 08/14/2023 | 8/14/2023 (rolled back to 5 8/29); Re-launched 9/12/2023, stayed at 10% through 9/19 | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
-| Launch to 25% | 1 week | week of 08/21/2023 | 9/26/2023 - we now have a [data dog dashboard](https://vagov.ddog-gov.com/dashboard/gra-npe-h52/authenticated-experience-cp-direct-deposit?refresh_mode=sliding&from_ts=1695131443208&to_ts=1695736243208&live=true) | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)|
+| Launch to 25% | 1 week | week of 08/21/2023 | 9/26/2023 - we now have a new [data dog dashboard](https://vagov.ddog-gov.com/dashboard/gra-npe-h52/authenticated-experience-cp-direct-deposit?refresh_mode=sliding&from_ts=1695131443208&to_ts=1695736243208&live=true) | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)|
 | Launch to 50% | 1 week | week of 08/28/2023 |  | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
 | Launch to 100% | 1 week | week of 09/04/2023 | | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
 
