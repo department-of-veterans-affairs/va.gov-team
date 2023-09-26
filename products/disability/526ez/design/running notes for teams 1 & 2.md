@@ -4,6 +4,7 @@
 Agenda
 - Sitemap walkthrough
 - Data Research Plan Update and moving forward
+- Discuss approach to organizing the data (which fields are most important? how are we selecting which pages to include?) 
 
   
 
