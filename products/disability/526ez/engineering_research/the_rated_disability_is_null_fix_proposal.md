@@ -39,6 +39,8 @@ The Error is caused by a mismatch between the **rateABLE** disability in the sup
         - IF yes, we can continue the form.
           - They submit the form with 'Disability X2' and get **The Error**
             - This implies that their already **ratED disability** has not been updated to reflect the new designation.  This puts our downstream service in the **"Reconciliation Black Box"** where now they need to change the vet's designation, and probably let the vet know.
+        - They submit the form with 'Disability X2' and everything works
+          - we are happy!
         - IF NO, we enter the **"Reconciliation Black Box"**, wherein we need to add something to make the form submittable, which could be human intervention
     - IF they DO NOT deduce the change in designation
       - We enter the **"Reconciliation Black Box"**, in this instance reconciling their understanding with the new paradigm, possibly by showing a support contact
