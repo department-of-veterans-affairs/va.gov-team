@@ -13,34 +13,33 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
+![Screenshot 2023-09-26 at 10 16 59 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/e2d32461-0da0-40b9-a08e-b892dd6c4e06)
 
-For some reason I can't upload screenshots right now, but you can see the IA work and decision points by command+F searching for CPAP in this mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1679086662310/cbe41468d45afc03206a3d0a7f6b979517c523d8?wid=0-1689953198747&sender=ua67f17f1c416a96ea04d2476
 
 
 ## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
+![Screenshot 2023-09-26 at 10 26 22 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/facfcf79-5663-4715-9635-601e8ab98258)
 
-For some reason I can't upload screenshots right now, but you can see the page structure by command+F searching for CPAP in this mural sitemap: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1666882559766/ada92d293c76f3d61c71d3f2421c7f160f3648a8?sender=ua67f17f1c416a96ea04d2476
 
 ## <a name="url"></a>URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
-
-
-**1) [Order CPAP Devices] - [New]**
-- URL: va.gov/health-care/[H1 TBD by content]
-- Breadcrumb: Home > Healthcare > [H1 TBD by content]
-- Notes: Let’s use whatever the content team decides for the H1 to match as closely as possible with breadcrumb and url, but it will probably be something like /order-CPAP
-
+**1) [Order CPAP Supplies] - [New]**
+- URL: va.gov/health-care/order-cpap-supplies
+- Breadcrumb: Home > Healthcare > Order CPAP supplies
 
 ## <a name="nav"></a>Entry points <br>
-*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
-
 1. **[Left Nav]** - [Add]
   - Placement description: In ‘Manage Benefits’ between ‘Order hearing aid batteries and accessories’ and ‘Order prosthetic socks’
-  - Link label: [TBD by content]
-  - Link destination: va.gov/health-care/[H1 TBD by content]
-  - Notes: 
+  - Link label: Order CPAP Supplies
+  - Link destination: va.gov/health-care/order-cpap-supplies
+
+![Screenshot 2023-09-26 at 10 25 38 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/21cc134a-38e3-4743-97c1-980fd4609b98)
+
+## <a name="nav"></a>Redirects <br>
+
+Current URL for combined form: https://www.va.gov/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346/ and all child pages
+New URL for combined form: https://www.va.gov/health-care/order-hearing-aid-or-cpap-supplies-form/
+Redirect Ticket: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15352
+
 
 Next IA steps for product team:
 - Add new CPAP page + content
