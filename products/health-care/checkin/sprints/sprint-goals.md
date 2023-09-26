@@ -8,7 +8,7 @@ ________________________________________________________________________________
  - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: File any Claim Type for a Past Appointment - Design & Discovery**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
-     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
+     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
      - **Sub Goal: Make the Switch to Version 3 of the Design System** 
@@ -25,9 +25,16 @@ ________________________________________________________________________________
         - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update vets-api to Set eCheckInStarted Status when Reminder Link Clicked & Veteran has Authenticated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65834)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Support the Push out a Check-in SMS Message to a Veteran 45-minutes Before an In-person Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63529)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update Sequence Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66370)
+        - **EPIC [Unified Check-in: Priority 8 - Changes to Need Help Section & Alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62515)**
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update Content in the Needs Help Section to the Default on All Pre-Check-in and Check-in Pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65479)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change alert on travel pages to additional info component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65480)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/66225)      
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/66225)   - **GOAL: Comply with ATO**
+     - **Sub Goal: Update technical diagrams**
+         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Update Sequence diagrams for check-in scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65817)
+         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Update sequence diagrams for pre check-in scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65818)
 - **GOAL: Address tech & design debt**        
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Current Text Message to Add "When you arrive at the facility....."](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66338)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [DESIGN] Questions to consider for reducing design overhead](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66318)
