@@ -75,11 +75,11 @@ We are reasonably confident in these assumptions because:
 
 ### Risks
 
-**Testing**: Currently, there are no test accounts to test push notifications with 
+**Testing**: Currently, there isn’t a non-technical mechanism for triggering push notifications for testing purposes. 
 
 
 
-* Mitigation: Get access to test accounts and create a QA process for testing push notifications
+* Mitigation: Get access to a push notification testing suite from VANotify(if it exists?) and create a QA process for testing push notifications
 * Version discrepancies: Some app versions may not be able to get notifications 
 * Mitigation: Ensure that there are other ways that Veterans can stay informed about their interactions with VA. For example, using an improved home screen experience that effectively conveys the Veteran’s interactions with VA or communicating with Veterans using other mediums (email, mail, etc.)
 
@@ -111,7 +111,7 @@ The are several tracks that should be pursued for phase 1 of a push notification
 
 
 
-* **(Q4) Document Push Notification Guidelines & Prioritization**
+* **Document Push Notification Guidelines**
     * There are clear guidelines for when a push notification should be sent. These should be applied to existing use cases and future ones. Some potential examples are listed below:
         * Action items
             * Ex. You have # unread messages
@@ -123,22 +123,22 @@ The are several tracks that should be pursued for phase 1 of a push notification
             * New version or critical bug fix
         * Reengagement
             * Determine what notifications would be appropriate to reengage dormant users. 
-* **(Q4) Prioritized List of Push Notification Candidates**
+* **Prioritized List of Push Notification Candidates**
     * Based on the guidelines listed above, document a list of existing use cases for push notifications, in priority order, to be implemented in Q4 (or sometime)
-* **(Q4) Measures of Success**
+* **Measures of Success**
     * There should be clear quantitative and qualitative measures of success that dictate whether push notifications are successful or not. 
         * These should be used to determine whether a poorly performing  notification should be revised or eliminated 
         * These should also be used to determine whether overall push notification guidelines should be revised
-* **(Q4) Testing Process**
+* **Testing Process**
     * There is a testing process established for push notifications that leverages test accounts that can receive notifications
-* **(Q4) External support for push notifications**
+* **External support for push notifications**
     * Determine whether VANotify will continue to support push notifications and, if not, outline a strategy for a new way to send notifications
 
 **V2 and beyond**
 
 
 
-* **(Q4)** **Implement push notifications for all existing cases**, based on guidelines determined in Phase 1
+* **Implement push notifications for all existing cases**, based on guidelines determined in Phase 1
 * **Opt into specific types of notifications**
     * For instance, a Veteran may not use any health features and would want to opt out of health-related notifications.
     * Note that the categorization of notifications is still TBD. 
