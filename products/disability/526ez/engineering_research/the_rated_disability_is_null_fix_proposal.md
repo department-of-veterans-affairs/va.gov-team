@@ -4,11 +4,6 @@
 - [The ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/64394)
 - [The rated disability API endpoint](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/getRatedDisabilities)
 
-### Axioms
-In this scenario
-- We have a rateABLE disability list.  a vet selects from this list.
-- A vet has one or more ratED disabilities already associated with thier user by some downstream mechanism
-
 ### The Error
 the following error: `form526.disabilities[].ratedDisability.isInvalid`, hencforth known as The Error
 
@@ -54,6 +49,13 @@ In this option, we simply prevent the problem by implementing some process by wh
 # ---------- OLD VERSION -----------------
 
 This was mostly written before I fully understood the problem, but i'm keeping it for posterity
+
+
+### Axioms
+In this scenario
+- We have a rateABLE disability list.  a vet selects from this list.  (UPDATE: there is no list, the rated disability is pre-populated, hence the update)
+- A vet has one or more ratED disabilities already associated with thier user by some downstream mechanism
+
 
 ## Context
 
