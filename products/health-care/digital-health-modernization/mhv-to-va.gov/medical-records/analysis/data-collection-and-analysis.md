@@ -18,7 +18,7 @@
 | **Theme** | **Question** | **Metric** |
 | --- | --- | --- |
 | Findability | This is beyond the scope of our project. | N/A |
-| Ease of Use | Do Veterans return to MHV? | Use of 'Go to medical records on the My HealtheVet website' link User segments per page/section |
+| Ease of Use | Do Veterans return to MHV? | Use of 'Go to medical records on the My HealtheVet website' link, User segments per page/section |
 | Ease of Use | Do Veterans provide negative feedback? | Sentiment analysis from qualitative survey feedback, Sentiment analysis from qualitative call center feedback, Sentiment analysis from qualitative feedback emails |
 | Ease of Use | Do Veterans provide positive feedback? | Sentiment analysis from qualitative survey feedback, Sentiment analysis from qualitative call center feedback, Sentiment analysis from qualitative feedback emails |
 | Ease of Use | Do Veterans follow the expected flow? | Funnel % |
@@ -43,8 +43,6 @@
 | Service Completion | Is a Veteran able to access Vitals? | Completion % ('Go to your vitals' CTA, 'Vitals' link in Nav) |
 | Service Completion | Is a Veteran able to view Blood pressure over time? | Funnel % (Blood pressure), Time between actions/steps/pages |
 | Service Completion | Is a Veteran able to print/download their blood pressure over time? | Completion % ('Print or download' CTA \> 'Print this list' / 'Download the PDF of this list' CTA) |
-| Service Completion | Is a Veteran able to view Blood pressure over time? | Funnel % (Blood pressure), Time between actions/steps/pages |
-| Service Completion | Is a Veteran able to print/download their blood pressure over time? | Completion % ('Print or download' CTA \> 'Print this list' / 'Download the PDF of this list' CTA) |
 | Service Completion | Is a Veteran able to view Heart rate over time? | Funnel % (Heart rate), Time between actions/steps/pages |
 | Service Completion | Is a Veteran able to print/download their heart rate over time? | Completion % ('Print or download' CTA \> 'Print this list' / 'Download the PDF of this list' CTA) |
 | Service Completion | Is a Veteran able to view Height over time? | Funnel % (Height), Time between actions/steps/pages |
@@ -64,7 +62,7 @@
 | Service Completion | Is a Veteran able to manage their sharing settings? | Funnel %, Completion % ('Opt out' CTA), Time between actions/steps/pages |
 | Service Completion | Is a Veteran able to manage their notification settings? | Completion % ('Go to your profile on the My HealtheVet website' link) |
 | Service Completion | Is a Veteran able to get information to help them use the medical records tool? | Completion % ('What if I can't find my allergy records?' CTA, 'How can I tell my care team that my health information has changed?' CTA, 'Will VA protect my personal health information?' CTA, 'What if I have more questions?' CTA)Completion % ('Expand all' CTA)Time between actions/steps/pages |
-| Trust | Do Veterans return to MHV? | Use of 'Go back to previous version of secure messaging' link |
+| Trust | Do Veterans return to MHV? | Use of 'Go to medical records on the My HealtheVet website' link|
 | Trust | Do Veterans provide negative feedback? | Sentiment analysis from qualitative survey feedback, Sentiment analysis from qualitative call center feedback, Sentiment analysis from qualitative feedback emails |
 | Trust | Do Veterans provide negative feedback? | Sentiment analysis from qualitative survey feedback, Sentiment analysis from qualitative call center feedback, Sentiment analysis from qualitative feedback emails |
 
