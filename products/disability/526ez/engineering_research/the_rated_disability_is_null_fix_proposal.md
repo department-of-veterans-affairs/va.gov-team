@@ -112,3 +112,4 @@ This version, while not technically complex, will take a while to get done due t
   - If a requests comes in with Disability X and Disability X is NOT IN THE EVSS SYSTEM AT ALL, is this the error that will be returned?
   - If a request comes in with Disability Y and Disabilty Y is IN THE SYSTEM BUT NOT A RATED DISABILITY ASSOCIATED WITH THIS VETERAN, is this the error that will be returned?
 
+* Micah: Perhaps the proposed fix is becoming too narrow as it's based around one specific scenario. Expectations of the number of application errors will solve are low. The backup way may be the best solution for these errors *
