@@ -32,7 +32,7 @@ When they are filling out the submission form, at the appropriate point in the f
 
 When rated disability codes, descriptions, or designations change, the Vet's rated Disability is passed on to the VA for updating.  In this way, the onus of making the change falls on the VA.  In this scenario we would presumably want to alert the vet of this change, e.g. via email.  Now, when they are filling out their supplemental claim they see the **new** rated disability, and when they submit their form everything matches.
 
-## Option 3: We automagically make the change when the problem occurs
+### Option 3: We automagically make the change when the problem occurs
 
 In this option, we present the vet with their familiar rated disability description, OR, we inform them that by submitting this form they are changing their rated Disability to the new description.  Either way, when they submit the form we would
   - check for a mismatch
