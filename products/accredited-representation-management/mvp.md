@@ -16,7 +16,6 @@ The MVP will include desktop & mobile experiences
             1. Default to a radius (e.g. 50 miles)
         1. Select type of rep
             1. Veteran Service Organization (VSO)
-            1. Representative in a Veteran Service Organization
             1. Attorney (Lawyer)
             1. Claims agent
         1. Rep definitions
@@ -70,6 +69,7 @@ The MVP will include desktop & mobile experiences
     1. Rep name
     1. Organization
     2. Remote support
+    3. Representative in a Veteran Service Organization
 1. Submission of 21-22/21-22a
     1. Requires signatures
     2. Investigate/address signature errors
