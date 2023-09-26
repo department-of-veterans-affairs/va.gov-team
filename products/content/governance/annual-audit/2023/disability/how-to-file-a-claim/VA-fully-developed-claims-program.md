@@ -11,6 +11,13 @@
 - Shortened and standardized the "How do I file" content so what's on this page matches Standard claim page. Both pages currently point the user to the "How to file" page.
 - Moved content up from "How do I file" into "When should I turn in my evidence" section for better logic/placement of information in these 2 Q&As.
 
+### Copy editor checks, edits, tasks
+- Header levels are hierarchical
+- The page has no broken links
+- Text links have purpose and target
+- The content is free of ability-focused language (view, walk, see, hear) Note: We allow "show" and "appear" when talking about evidence related to disability compensation.
+- Flesch-Kincaid before and after grade level added to this document
+
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 
 - After edits: 
