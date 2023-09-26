@@ -54,7 +54,7 @@ This should be off: `profile_show_email_notification_settings`
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
 | n/a | While preparing the QA spreadsheet we noticed odd behavior on save if the phone number that was already saved was not change | Desktop | Windows | Chrome | Travis | [#63333](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63333) | Closed | 
 | 9 | Inputting letters into the phone field when adding a phone number will not trigger the modal (this does not happen when updating a phone number) | PC | Windows 11 | Edge, Chrome | Travis, Liz | [#65410](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65410)| Sprint19|
-| 4 | the h1 on the editing page should say "Add your mobile number" instead of "add or update". The h1 should reflect whatever the user is doing; `add` if null, `update` if there is already a value | PC | Windows 11 |  Chrome | Liz | [#65407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65407) | Sprint19 |
+| 4 | the h1 on the editing page should say "Add your mobile number" instead of "add or update". The h1 should reflect whatever the user is doing; `add` if null, `update` if there is already a value | PC | Windows 11 |  Chrome | Liz | [#65407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65407) | Completed |
 
 
 ## Staging Review Prep 
