@@ -70,46 +70,63 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - Put changes in messages, or statement in opening screen or home screen
 - Explains he really likes warning message letting you know he was signed out 
 
+<details>
+    <summary>Jamie's notes</summary>
+        #### Finding 1
+        - Chunking out sections of the TOU into accordions is beneficial for AT users:
+          - Users can choose which sections are read out loud to them, instead of the entire thing being read at once (which can take "30 minutes").
+          - Users can quickly scan sections to see if the contents would interest them.
+        
+        #### Finding 2
+        - There's not enough size differentiation between H3 and paragraph text.
+          - This is important because low-vision users using screen magnification use visual differentiation between objects on a page to determine importance and hierarchy.
+          - Without enough differentiation, the user might not realize something is a heading, versus regular paragraph text.
+         
+        #### Finding 3
+        - Our current recruitment process makes using Figma prototypes difficult. This is because:
+          - We aren't always told by Perigean which assistive technology the user is using (beyond "screen reader"), **and**
+          - Figma prototypes can only be used accessibly by Mac + VoiceOver, Windows + NVDA, and Windows + JAWS.
+        - It would be helpful to get more specific information about the technology in use before the test.
+
+</details>
+
+<details>
+    <summary>SK's notes</summary>
+    #### Finding 1 
+    - Users continuosly have struggled to share screen through zoom
+      - We can possibly include instructions on how to share screen in meeting invite. (Open to discussion)
+     
+    #### Finding 2
+    - User would like to recieve an email if there are updates made to ToU page
+       - If email is sent a plain text version needs to be sent aas well. Some recipients may not be able to access the HTML at all but only the plain text version because of corporate firewall that strips out the HTML, ,or because of a setting in an email client
+</details>
+
+<details>
+    <summary>Sara's notes</summary>
+    [View Sara's notes](https://docs.google.com/document/d/1i-oe6iMS42EyzsXOueuP--Ld4R8zeFXOWhtarH93R38/edit#heading=h.bge1m11x3klh) (Google Doc)
+</details>
+
 ## Key Findings
 Add screenshots, images and videos here.
 
 ### Finding 1
-- Feel free to include bullets
-- They can help add some more info
-
-### Finding 2
-- Feel free to include bullets
-- They can help add some more info
-
-### Finding 3
-- Feel free to include bullets
-- They can help add some more info
-
-### Jamie's draft - feel free to integrate this into the final doc!
-#### Finding 1
-- Chunking out sections of the TOU into accordions is beneficial for AT users:
+- Chunking out sections of the TOU into accordions is beneficial for AT users. **The accordion sections in the ToU prototype worked well.**
   - Users can choose which sections are read out loud to them, instead of the entire thing being read at once (which can take "30 minutes").
   - Users can quickly scan sections to see if the contents would interest them.
 
-#### Finding 2
-- There's not enough size differentiation between H3 and paragraph text.
-  - This is important because low-vision users using screen magnification use visual differentiation between objects on a page to determine importance and hierarchy.
-  - Without enough differentiation, the user might not realize something is a heading, versus regular paragraph text.
- 
-#### Finding 3
-- Our current recruitment process makes using Figma prototypes difficult. This is because:
-  - We aren't always told by Perigean which assistive technology the user is using (beyond "screen reader"), **and**
-  - Figma prototypes can only be used accessibly by Mac + VoiceOver, Windows + NVDA, and Windows + JAWS.
-- It would be helpful to get more specific information about the technology in use before the test.
+This aligns with experience standard: Content Organization issue 05 “Long or complex sections of content are broken up into content chunks or bulleted lists.”
 
-### SK's draft P23 - P15 Rescheduled 
-#### Finding 1 
-- Users continuosly have struggled to share screen through zoom
-  - We can possibly include instructions on how to share screen in meeting invite. (Open to discussion)
- 
-#### Finding 2
-- User would like to recieve an email if there are updates made to ToU page
-   - If email is sent a plain text version needs to be sent aas well. Some recipients may not be able to access the HTML at all but only the plain text version because of corporate firewall that strips out the HTML, ,or because of a setting in an email client
+### Finding 2
+- It's easier for AT users to not have to read through an entire ToU when changes are made, since ToUs are very long and can take up to a half hour to read aloud.
+   - **Suggestion:** User would like to recieve an email if there are updates made to ToU page. If email is sent a plain text version needs to be sent aas well. Some recipients may not be able to access the HTML at all but only the plain text version because of corporate firewall that strips out the HTML, or because of a setting in an email client.
+
+
+### Finding 3
+- Signing the user out automatically after clicking "decline" adds frustration for users.
+   - **Suggestion:** add transparency to this; let the user know that they'll be signed out and won't be able to access their account.
+
+This aligns with experience standards: Link and button labels Issue 08 “If your content has multiple CTAs, the CTAs don’t have a unique descriptive label and/or give the user the intended result.” (because “decline” doesn’t imply “log out”); User flows and navigating issue 11, “Link or button is not working as expected or did not navigate to the intended destination.”
+
 ## User Feedback
 
 ### Veterans' Voices: Impactful Quotes 
