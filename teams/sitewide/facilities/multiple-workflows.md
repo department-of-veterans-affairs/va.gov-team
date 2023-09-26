@@ -42,4 +42,4 @@ We expect that success may be measured by the reduction in the number of valid f
 - [#5248](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5248) = Ticket where CMS team identified implemented a second workflows, encountered the bug with views, and decided to roll back to one workflow.
 - [#14529](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14529) = Ticket where Facilities team successfully patched the multi-workflow bug for views
 - [#12662](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12662) = Ticket where Helpdesk identified a number of Facilities that had been incorrectly archived
-- [#11028](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11028) = Ticket documenting issues with Facilities being incorrectly _un_archived
+- [#11028](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11028) = Ticket documenting issues with Facilities being incorrectly _unarchived_
