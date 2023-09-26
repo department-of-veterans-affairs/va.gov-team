@@ -9,8 +9,8 @@ The primary goal is to make it easier, safer, and faster for Veterans to assign 
 
 ### OCTO Priorities 
 
-- Enhance Veterans’ personalized online experience
-- Fast-track disability claims, starting with PACT Act claims
+- **Enhance Veterans’ personalized online experience:** we will be developing a widget to help authenticated users have clear insight into existing representation. Authenticated users would also have a simplified experience for digitally submitting a request for representation, since we'd have their info on file.
+- **Fast-track disability claims, starting with PACT Act claims:** many Veterans who are applying for disability benefits based on the PACT act are working with representatives; our product will help these Veterans understand and manage their representation on VA.gov.
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 This work touches on various aspects of the Veteran Journey. Whenever a Veteran could potentially need help this feature would be relevant. For many Veterans, this can happen at any point along their life journey.
