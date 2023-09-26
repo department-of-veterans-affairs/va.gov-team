@@ -33,9 +33,9 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 
 ## Overview Checklist
 - [ ] Phase I: Internal Testing and Review
-    - [ ] Internal Testing and Review
-    - [ ] Pre-release Testing
-    - [ ] Review Cases
+    - [x] Internal Testing and Review
+    - [x] Pre-release Testing
+    - [x] Review Cases
     - [ ] Canary
 - [ ] Phase II: Staged Rollout 
     - [ ] Stage A: 1%
@@ -50,34 +50,77 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 ## Phase I: Internal Testing and Review
 
 ### Pre-release Testing
-- [ ] Complete pre-launch tasks: [ticket](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62666)
-    - [ ] Splitting feature flags + consider environment parity b/c LH sandbox might use a different data source from eVSS
-    - [ ] Additional metrics/logging calls in RD controller (InProgressForm swallows errors)
-- [ ] Request production credentials from Lighthouse via their production access form
-- [ ] Complete manual testing with production credentials in Argo
-- [ ] Push credentials to K8 manifest and devops repositories
-- [ ] Create and execute a Testrail test plan
-- [ ] Complete Review
+- [x] Complete pre-launch tasks: [ticket](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62666)
+    - [x] Splitting feature flags + consider environment parity b/c LH sandbox might use a different data source from eVSS
+    - [x] Additional metrics/logging calls in RD controller (InProgressForm swallows errors)
+- [x] Request production credentials from Lighthouse via their production access form
+    - Using shared credentials with Benefits Team 1
+- [x] Complete manual testing with production credentials in Argo
+- [x] Push credentials to K8 manifest and devops repositories
+- [x] Create and execute a Testrail test plan
+- [x] Complete Review
 
 ### Review Cases
-- [ ] Does the existing DataDog monitoring have sufficient coverage?
-- [ ] Has manual testing been completed in Argo with prod credentials?
-- [ ] Have a successful TestRail test plan been executed?
-- [ ] Confirm devops repository has references to correct environment variable paths
-- [ ] Confirm K8 manifest repository has references to correct environment variable paths
-- [ ] Do we have a point of contact on LH to coordinate with?
-- [ ] Has the team reviewed and timeboxed the release intervals?
-- [ ] Have PO(s) been made aware and approved of the plan? 
+- [x] Does the existing DataDog monitoring have sufficient coverage?
+- [x] Has manual testing been completed in Argo with prod credentials?
+- [x] Have a successful TestRail test plan been executed?
+- [x] Confirm devops repository has references to correct environment variable paths
+- [x] Confirm K8 manifest repository has references to correct environment variable paths
+- [x] Do we have a point of contact on LH to coordinate with?
+- [x] Has the team reviewed and timeboxed the release intervals?
+- [x] Have PO(s) been made aware and approved of the plan? 
 
 ### Canary
-- [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63007
+- Links to dashboard showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: Rated Disability]([https://vagov.ddog-gov.com/dashboard/ipg-v6d-c59/benefits---dbex---evss-to-lh-intent-to-file?from_ts=1690907664207&to_ts=1690911264207&live=true](https://vagov.ddog-gov.com/dashboard/rsy-rne-zut/benefits---dbex---evss-to-lh-rated-disability?refresh_mode=sliding&from_ts=1695655345477&to_ts=1695741745477&live=true))
+    - Traffic is redirected to LH through the v0 (EVSS) controller
+    - The expected behavior is that LH traffic should be **proportionate** to v0 traffic
+    - v0 will act as a control as we progress through the rollout phases
+- [x] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles:
-    - John Doe
-- [ ] Schedule a meeting for controlled testing
-- [ ] Set Flipper active for identified internal production users
-- [ ] Ensure qualitatively that the feature works as intended for users
+    - Robin Garrison, @Robin Garrison
+    - Mike Richard @Mike Richard
+    - Rocio De Santiago @Rocio De Santiago - Coforma
+- [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
+    - If opting for a meeting:
+        - [ ] Note the date, start, and end time:
+    - If opting for asynchronous time:
+        - [x] Note individual scheduled dates and times next to each identified user
+        - [x] Note testing steps:
+            1. Login to your va.gov account in prod
+            2. Navigate to `va.gov/disability/file-disability-claim-form-21-526ez/start`
+            3. Answer the questions as follows:
+                "Are you on active duty right now?" > "No"
+                "I'm filing a new claim"
+                
+                Alternatively, skip the form by navigating to the "If you know X form is right, click here"
+            4. On the /introduction screen, select "Start the Disability Compensation Application"
+            5. On the first `/veteran-information` screen, please note for us
+                - The current time, date, and timezone
+                - Whether you have an existing Intent to File (Info block will say "You already have an Intent to File")
+                - The city your browser is making the request from
+              
+            6. Press ‘Continue’
+            7. Under the “Step 1 of 5: Veteran Details” header, there should be a line with your Application ID number
+                - Please note your Application ID for us
+            8. Once the previous step is completed, let us know. We will then toggle the feature flag for your account to then use the Lighthouse API provider
+            9. Close your browser and repeat steps 2-4
+            10. On the first `/veteran-information` screen, please note the current time and date
+        - [x] Record testing steps in TestRail
+        - [x] Share testing steps with each user
+- [x] Ensure that at least a portion of users can run through testing steps before setting Flipper active
+- [x] Ensure at least one user covers the "legacy" case (EVSS generated RD, LH checked)
+- [x] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
+- [x] Ensure qualitatively that the feature works as intended for users
 - [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
-- [ ] Monitor Sentry and DataDog logs for any anomalies
+- [ ] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
+- Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
+    - Note any anomalies here:
+        - 8/17: Discrepancy between LH monitoring (no activity) and our Dashboard. Additionally, activity picked up on our dashboard did not match the expected use case
+            - Our activity picked up submit calls for `form_0966`, while related to ITF, is not necessary to monitor
+            - Determined that v1 controller is not helpful to monitor, dashboard updated
+
+<br>
 
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
