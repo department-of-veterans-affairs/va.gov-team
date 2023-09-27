@@ -41,6 +41,9 @@ This project needs to meet legislative requirements by giving veterans view acce
 
 To start we should focus on **read only** access to those data elements and to ILER. As VBA/VHA/VEO/OGC/DoD progress their conversations around the legislation we can then shift focus to update access for ILER data (ie. Section 803). 
 
+### What are the OCTO Objectives this work relates to? 
+- O1: Increase the accessibility, reliability, and security of Veteran's digital services
+- O2: Reduce the time it takes for Veterans to find, use, and receive VA Services
 
 ### Legislative mandates
 
@@ -54,7 +57,7 @@ TL;DR -- in 2021, Congress mandated that veterans be able to view their ILER rec
 
 [The Individual Longitudinal Exposure Record (ILER)](https://www.publichealth.va.gov/exposures/publications/military-exposures/meyh-1/ILER.asp)
 
-ILER was created following a December 27, 2012, Health Executive Committee (HEC) Joint Incentive Fund Initiative (JIF) proposal, in which the Department of Defense (DoD) and Department of Veterans Affairs would create a complete record of every Service member’s occupational and environmental health exposure. ILER improves the efficiency and effectiveness in claims processing and decision-making by linking a Veteran to military exposures and/or deployments by integrating information from multiple DoD sources. **It is important to note that ILER is not an authoritative data source**, and it does not have an API to allow for integration into VA.gov.
+ILER was created following a December 27, 2012, Health Executive Committee (HEC) Joint Incentive Fund Initiative (JIF) proposal, in which the Department of Defense (DoD) and Department of Veterans Affairs would create a complete record of every Service member’s occupational and environmental health exposure. ILER improves the efficiency and effectiveness in claims processing and decision-making by linking a Veteran to military exposures and/or deployments by integrating information from multiple DoD sources. **It is important to note that ILER is not an authoritative data source**, there is an API for generating text/pdf exports of the data but ILER is owned by DoD not the VA.
 
 While the announcement linked above mentions ILER is not for individual use, in practice, veterans are gaining access to their ILER, oftentimes, by requesting from their physician who can generate a PDF form. 
 
@@ -151,7 +154,7 @@ VA leadership is not clear on how exactly to make this possible and they’re st
 
 
 ### Undesired User Outcomes
-
+- Nobody uses this or knows to look for this information
 
 ## Business Outcomes
 
@@ -160,11 +163,12 @@ VA leadership is not clear on how exactly to make this possible and they’re st
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 -   Providing Veteran’s with a link to their ILER record will help us meet the letter of the law on the legislative requirements outlined above.
--  Veteran records will be more accurate if Veterans are able to update their own information. If veterans are able to update their information, this would reduce errors in their records.
+-  Veteran records will be more accurate if Veterans are able to at a minimum see what the VA has in their systems. Eventually with phase II the hope is they'll be able to update their information or at least initiate some sort of corrective process. If veterans are able to update their information, this would reduce errors in their records.
+- The benefit application process will be more efficient as pre-fill will reduce time spent completing forms.
 
 ### Undesired Business Outcomes
 
-Given the complexity of the data contained in ILER records, it’s not an efficient use or resources to display a copy of each veteran’s ILER data without also adding in additional context. This would be technically challenging and time consuming given the magnitude of variations in veterans records and experiences. 
+Given the complexity of the data contained in ILER, it’s not an efficient use of resources to display a copy of each veteran’s ILER data without also adding in additional context. This would be technically challenging and time consuming given the magnitude of variations in veterans records and experiences. 
 
 We don’t want to spend time and resources developing highly complex support structures around the ILER documentation and instead should focus energy on supplying data that would help veterans gain access to benefits under the PACT act 
 
