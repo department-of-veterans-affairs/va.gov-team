@@ -1,8 +1,8 @@
 ---
-name: Platform Lights Team Issue
+name: Platform Infrastructure Issue
 about: For VA.gov Platform Lights Team
 title: '[Product] Thing to be done'
-labels: platform-lights-team
+labels: platform-lights-team, Infrastructure-Services
 assignees: ''
 
 ---
