@@ -1,41 +1,37 @@
-# Research Plan for Accredited Representative Managment Team, Find a Representative & 21-22 Form Flow, 10/2023
+# Research Plan for [Team, Product, Date]
+*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-The Office of the Chief Technology Officer (OCTO) is seeking to migrate Veteran and Power of Attorney (PoA) experiences from the legacy Stakeholder Enterprise Platform (SEP) product and eBenefits platform to VA.gov.
+Briefly describe the background of your product. Consider:
+- What problem is your product trying to solve?
+- Where is your product situated on VA.gov? (ex: auth vs. unauth)
+- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-The primary goal is to make it easier, safer, and faster for Veterans to assign and manage Power of Attorney (PoA), and explore new ways that VA.gov can better support Veterans who choose to interact with VA through a representative.
-
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/9c884d56087c31b9422840cc233009d12e870b9b/products/accredited-representation-management/product-outline.md).
+[Link to product brief](url goes here).
 
 ### OCTO Priorities 
 
-- **Enhance Veterans’ personalized online experience:** we will be developing a widget to help authenticated users have clear insight into existing representation. Authenticated users would also have a simplified experience for digitally submitting a request for representation, since we'd have their info on file.
-- **Fast-track disability claims, starting with PACT Act claims:** many Veterans who are applying for disability benefits based on the PACT act are working with representatives; our product will help these Veterans understand and manage their representation on VA.gov.
+Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
-### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
-This work touches on various aspects of the Veteran Journey. Whenever a Veteran could potentially need help this feature would be relevant. For many Veterans, this can happen at any point along their life journey.
+### Veteran Journey
+Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+Are there moments that matter? 
 
-## Research Goals
-REVISIT
-1. Investigate veterans' interactions with representatives, including the factors influencing their selection.
-2. Understand usability of the find a representative and 21-22 form flows on both desktop and mobile.
-3. Anyting else?
+## Research Goals	
+What are you trying to learn from this research? 
+
+*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
 ### Outcome
-1. Adjustments for usability of find a representative and 21-22 form flows.
-2. Information for future experiences and Veteran needs with managing their representation.
+How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
 ### Research questions
-REVISIT
-
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 ### Hypothesis
-REVISIT
-
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
@@ -43,21 +39,56 @@ What do you intend to learn and measure from this study? Think through these pro
 - Remember to constrain the hypothesis to the goals of your study!
 
 ## Methodology	
-**Part 1: Semi-structured interviews:** The interviewer will ask the Veterans a series of questions to learn about their representative selection process and engagement with their representative.
+Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-**Part 2: Usability testing:** Veterans will be asked to engage with a live prototype to test usability, understandability of content, and desireability of features.
+Examples of common research methods include: 
+- Semi-structured interviews - appropriate for generative research
+- Contextual inquiry - appropriate for generative research
+- Card sorts - appropriate for generative and evaluative research; depending on the study design 
+- Tree tests - appropriate for evaluative research
+- Usability testing - appropriate for evaluative research
+- User acceptance testing (UAT) - required before product release
+
+Additional resources:
+- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
+- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
+- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
+- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
+- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
+- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Remote on Zoom
+Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
+
+If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
+
+If in person, include:
+- Location
+- Point of contact
+- Equipment used for research
 
 ### Research materials
-REVISIT
+*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
+Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
+
+For moderated interviews:
+- [Link to conversation guide](url goes here) 
+
+For moderated usability tests: 
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
+
+For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
+- [Link to email with instructions](url goes here)
+- [Link to prototype or OptimalSort session for group A](url goes here)
+- [Link to prototype or OptimalSort session for group B](url goes here)
+
+If recruiting outside of Perigean’s participant database:
+- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
-Recruit 12
+
 OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
 
 Before writing your recruitment criteria, be sure to review the following resources. 
