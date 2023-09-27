@@ -88,119 +88,121 @@ We will work with Perigean to handle the recruitment, scheduling, and compensati
 For each survey, we will ask Perigean to recruit 63 people using the cohorts below to get at least 35 completes, which means we need to recruit 189 people in total to get 105 complete results.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
 We will schedule a total of 24 Veterans for an expected completion rate of 18-20 interviews. 
+
+•	All have a computer or mobile device and are willing to use it to complete the activity. 
+•	All must have been to a VA health care facility for medical appointments for themself or a Veteran that they care for in the last 12 months. 
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
 |       189     |         105      |   162  |     0       |    27    |        0      | 
 
 ### Criteria Table
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-|                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|
-|----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-|***SEX***       |            |        |        |        |        |        |        |        |      
-|*Various*       |    16      |        |        |        |        |        |        |        |       
-|Male            |            |        |        |        |        |        |        |        |     
-|Female          |    8       |        |        |        |        |        |        |        |       
-|***LGBTQ+***    |            |        |        |        |        |        |        |        |    
-|*Various*       |            |        |        |        |        |        |        |        |      
-|Gay             |            |        |        |        |        |        |        |        |       
-|Lesbian         |            |        |        |        |        |        |        |        |      
-|Bisexual        |            |        |        |        |        |        |        |        |        |        |         |
-|Asexual         |            |        |        |        |        |        |        |        |        |        |         |
-|Transgender     |            |        |        |        |        |        |        |        |        |        |         |
-|Non-Binary      |            |        |        |        |        |        |        |        |        |        |         |
-|Gender-fluid    |            |        |        |        |        |        |        |        |        |        |         |
-|Queer           |            |        |        |        |        |        |        |        |        |        |         |
-|Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
-|***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       | 24         |        |        |        |        |        |        |        |        |        |         |
-|Black           |            |        |        |        |        |        |        |        |        |        |         |               
-|White           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |            |        |        |        |        |        |        |        |        |        |         |                
-|Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
-|***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |    14      |        |        |        |        |        |        |        |        |        |         |
-|18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |     10     |        |        |        |        |        |        |        |        |        |         |
-|      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
-|Disability      |            |        |        |        |        |        |        |        |        |        |         |
-|Education       |            |        |        |        |        |        |        |        |        |        |         |    
-|Employment      |            |        |        |        |        |        |        |        |        |        |         |
-|Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |    15      |        |        |        |        |        |        |        |        |        |         |
-|Housing         |            |        |        |        |        |        |        |        |        |        |         |
-|Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
-|Memorialization |            |        |        |        |        |        |        |        |        |        |         |
-|Pension         |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |      
-|***BRANCH***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Marine Corps    |            |        |        |        |        |        |        |        |        |        |         |
-|Army            |            |        |        |        |        |        |        |        |        |        |         |
-|Navy            |            |        |        |        |        |        |        |        |        |        |         |
-|Air Force       |            |        |        |        |        |        |        |        |        |        |         |
-|Space Force     |            |        |        |        |        |        |        |        |        |        |         |
-|Coast Guard     |            |        |        |        |        |        |        |        |        |        |         |
-|Nat. Guard      |            |        |        |        |        |        |        |        |        |        |         |
-|Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |    24      |        |        |        |        |        |        |        |        |        |         |
-|Elementary      |            |        |        |        |        |        |        |        |        |        |         |
-|Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
-|GED             |            |        |        |        |        |        |        |        |        |        |         |
-|High School     |            |        |        |        |        |        |        |        |        |        |         |
-|Some College    |            |        |        |        |        |        |        |        |        |        |         |
-|Associate's     |            |        |        |        |        |        |        |        |        |        |         |
-|Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
-|Masters         |            |        |        |        |        |        |        |        |        |        |         |
-|Professional    |            |        |        |        |        |        |        |        |        |        |         |
-|Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |      18    |        |        |        |        |        |        |        |        |        |         |
-|Urban           |            |        |        |        |        |        |        |        |        |        |         |
-|Rural           |      6     |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Desktop         |     12     |        |        |        |        |        |        |        |        |        |         |
-|Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Smartphone      |     12     |        |        |        |        |        |        |        |        |        |         |
-|Tablet          |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |     16     |        |        |        |        |        |        |        |        |        |         |
-|Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
-|ID.me           |            |        |        |        |        |        |        |        |        |        |         |
-|Login.gov       |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***ID PROOF***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|IAL1            |            |        |        |        |        |        |        |        |        |        |         |
-|IAL2            |            |        |        |        |        |        |        |        |        |        |         |
-|IAL3            |            |        |        |        |        |        |        |        |        |        |         |
+
+|                |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|
+|----------------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|***SEX***       |        |        |        |        |        |        |        |           
+|*Various*       |        |        |    9   |     9  |   9    |   9    |   9    |         
+|Male            |        |   9    |        |        |        |        |        |        
+|Female          |    9   |        |        |        |        |        |        |            
+|***LGBTQ+***    |        |        |        |        |        |        |        |      
+|*Various*       |        |        |        |        |        |        |        |            
+|Gay             |        |        |        |        |        |        |        |              
+|Lesbian         |        |        |        |        |        |        |        |           
+|Bisexual        |        |        |        |        |        |        |        |         
+|Asexual         |        |        |        |        |        |        |        |       
+|Transgender     |        |        |        |        |        |        |        |        
+|Non-Binary      |        |        |        |        |        |        |        |       
+|Gender-fluid    |        |        |        |        |        |        |        |       
+|Queer           |        |        |        |        |        |        |        |      
+|Two-Spirit      |        |        |        |        |        |        |        |      
+|       ---      |  ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |       
+|***RACE***      |        |        |        |        |        |        |        |                    
+|*Various*       |  9     |   9    |   9    |   9    |    9   |   9    |  9     |        
+|Black           |        |        |        |        |        |        |        |              
+|White           |        |        |        |        |        |        |        |                   
+|Latinx          |        |        |        |        |        |        |        |                           
+|Asian           |        |        |        |        |        |        |        |                  
+|Native          |        |        |        |        |        |        |        |                   
+|Pacific Islander|        |        |        |        |        |        |        |                  
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |         
+|***AGE***       |        |        |        |        |        |        |        |       
+|*Various*       |    9   |     9  |        |        |        |   9    |    9   |      
+|18-24 yo        |        |        |    4   |        |        |        |        |        
+|25-34 yo        |        |        |    5   |  4     |        |        |        |      
+|35-44 yo        |        |        |        |    5   |        |        |        |       
+|45-54 yo        |        |        |        |        |        |        |        |       
+|55+ yo          |        |        |        |        |     9  |        |        |     
+|      ---       |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   
+|***BENEFITS***  |        |        |        |        |        |        |        |      
+|*Various*       |        |        |        |        |        |        |        |      
+|*No Ben/Ser Exp*|        |        |        |        |        |        |        |        
+|Disability      |        |        |        |        |        |        |        |    
+|Education       |        |        |        |        |        |        |        |        
+|Employment      |        |        |        |        |        |        |        |        
+|Finances        |        |        |        |        |        |        |        |     
+|Healthcare      |    9   |   9    |    9   |   9    |    9   |   9    |   9    |        
+|Housing         |        |        |        |        |        |        |        |     
+|Life Insurance  |        |        |        |        |        |        |        |        
+|Memorialization |        |        |        |        |        |        |        |      
+|Pension         |        |        |        |        |        |        |        |        
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |      
+|***BRANCH***    |        |        |        |        |        |        |        |       
+|*Various*       |        |        |        |        |        |        |        |        
+|Marine Corps    |        |        |        |        |        |        |        |   
+|Army            |        |        |        |        |        |        |        |        
+|Navy            |        |        |        |        |        |        |        |      
+|Air Force       |        |        |        |        |        |        |        |     
+|Space Force     |        |        |        |        |        |        |        |        
+|Coast Guard     |        |        |        |        |        |        |        |       
+|Nat. Guard      |        |        |        |        |        |        |        |    
+|Pub Hlth Corps  |        |        |        |        |        |        |        |        
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***EDUCATION*** |        |        |        |        |        |        |        |      
+|*Various*       |    9   |   9    |    9   |    9   |    9   |    9   |        |       
+|Elementary      |        |        |        |        |        |        |        |        
+|Intermediate    |        |        |        |        |        |        |        | 
+|GED             |        |        |        |        |        |        |        |   
+|High School     |        |        |        |        |        |        |  3     |    
+|Some College    |        |        |        |        |        |        |  3     |        
+|Associate's     |        |        |        |        |        |        |        |      
+|Bachelors       |        |        |        |        |        |        |        |       
+|Masters         |        |        |        |        |        |        |   3    |     
+|Professional    |        |        |        |        |        |        |        |      
+|Doctoral        |        |        |        |        |        |        |        |    
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***RESIDENCE*** |        |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |        |        |        |        |        |        |        |        |        |        |         |
+|Urban           |        |        |        |        |        |        |        |        |        |        |         |
+|Rural           |        |        |        |        |        |        |        |        |        |        |         |
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***HARDWARE***  |        |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |        |        |        |        |        |        |        |        |        |        |         |
+|Desktop         |        |        |        |        |        |        |        |        |        |        |         |
+|Laptop          |        |        |        |        |        |        |        |        |        |        |         |
+|Smartphone      |        |        |        |        |        |        |        |        |        |        |         |
+|Tablet          |        |        |        |        |        |        |        |        |        |        |         |
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***WEBSITE***   |        |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |        |        |        |        |        |        |        |        |        |        |         |
+|VA.gov(has acct)|        |        |        |        |        |        |        |        |        |        |         |
+|VA.gov(no acct) |        |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |   9    |  9     |     9  |   9    |    9   |  9     |  9     |        |        |        |         |
+|Ebenefits       |        |        |        |        |        |        |        |        |        |        |         |
+|       ---      |  ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***LOGIN***     |        |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |        |        |        |        |        |        |        |        |        |        |         |
+|DS Logon        |        |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |    9   |  9     |     9  |   9    |    9   |  9     |  9     |        |        |        |         |
+|ID.me           |        |        |        |        |        |        |        |        |        |        |         |
+|Login.gov       |        |        |        |        |        |        |        |        |        |        |         |
+|       ---      |  ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***ID PROOF***  |        |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |        |        |        |        |        |        |        |        |        |        |         |
+|IAL1            |        |        |        |        |        |        |        |        |        |        |         |
+|IAL2            |        |        |        |        |        |        |        |        |        |        |         |
+|IAL3            |        |        |        |        |        |        |        |        |        |        |         |
 
 
 |                                                             |Participants| 
