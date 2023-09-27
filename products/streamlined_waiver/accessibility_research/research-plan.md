@@ -1,8 +1,6 @@
 
 # Research Plan for [Debt Resolution Team, Streamlined Waiver (eFSR) Accessibility Study, September - October 2023]
 
-Questions about how to set up your research study? Reach out in the #research-ops Slack channel.
-
 ## Background
 
 Briefly describe the background of your product. Consider:
@@ -13,12 +11,11 @@ Briefly describe the background of your product. Consider:
     
 -   What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
     
-
-[https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
-
 #### Participants will log in to a test account on staging.
 
-#### In this exploratory study, we seek to understand how Veterans that use screen readers navigate and fill out the enhanced financial status report form (eFSR). We hope the results from the study will help inform accessibility best practices for our team going forward.
+Staging link: [https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
+
+#### In this exploratory study, we seek to understand how Veterans that use screen readers navigate and fill out the enhanced Financial Status Report form (eFSR). We hope the results from the study will help inform accessibility best practices for our team going forward.
 
 #### We believe it is important to help Veterans using screen readers maximize efficiency, build proficiency, enable auditory scannability, and allow a level of flexibility as they progress through the form.
 
@@ -62,8 +59,6 @@ This research also touches on aging and managing new needs for those that develo
 
 What are you trying to learn from this research?
 
-Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
-
 1.  #### Understand accessibility of the non visual user experience of the eFSR (Streamlined Waiver) forms and what improvements can be made (efficiency, auditory scannability, proficiency, flexibility)
     
 2.  #### Understand how this form compares in contrast to mental models Veterans that use screen readers have with other forms
@@ -78,18 +73,8 @@ How will this research advance your product to the next phase in the design proc
 -   #### We believe the results from the study will help inform accessibility best practices for our team going forward.
     
 
-  
-
 ### Research questions
 
-Consider bucketing research questions under research goals. For each question, think about:
-
--   What will I do with what I learn from this question?
-    
--   Does this question serve the goals of my study?
-    
--   Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
-    
 
 ### GOAL 1: Understand accessibility of the non visual user experience of the eFSR (Streamlined Waiver) forms and what improvements can be made (efficiency, auditory scannability, proficiency, flexibility)
 
@@ -107,7 +92,7 @@ Consider bucketing research questions under research goals. For each question, t
 
 -   How do they experience error states?
     
--   Do participants know how to expand help sections? *
+-   Do participants know how to expand *additional information* sections? 
     
 -   What is difficult to accomplish in this form, if anything?
     
@@ -123,7 +108,6 @@ Consider bucketing research questions under research goals. For each question, t
 -   How clear is the transition from one section to the next of the form?
     
 
-  
 
 ### GOAL 3: Understand Veterans level of satisfaction with the eFSR (Streamlined Waiver) form
 
@@ -132,62 +116,29 @@ Consider bucketing research questions under research goals. For each question, t
 -   How do Veterans that use screen readers feel about filling out the SW form? Does it meet their expectations? How can we improve their experience?
     
 
-  
 
 ### Hypothesis
 
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 
--   What do you already know about this problem space?
-    
--   What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-    
--   Write a generalized statement that combines what you know + what you think will happen during the study.
-    
--   Remember to constrain the hypothesis to the goals of your study!
-    
+1. We hypothesize that the eFSR/Streamlined Waiver form will be usable by Veterans that use screen readers. They will be able to understand it and fill it out.
 
-  
+2. While we think it will be usable, we also believe that minor accessibility issues may take away from the experience.
 
-Hypothesis 1: We hypothesize that the eFSR/streamlined waiver form will be usable by Veterans that use screen readers. They will be able to understand it and fill it out.
+3. We further hypothesize that the accessibility of the form will line up with the mental models that Veterans who use screen readers have about online forms.
 
-Hypothesis 2: While we think it will be usable, we also believe that minor accessibility issues may take away from the experience.
 
-Hypothesis 3: We further hypothesize that the accessibility of the form will line up with the mental models that Veterans who use screen readers have about online forms.
 
 ## Methodology
 
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.
-
-Examples of common research methods include:
 
 -   Accessibility testing with a usability study approach
     
 
-Additional resources:
-
--   Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project.
-    
--   Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support.
-    
--   If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-    
--   If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)
-    
--   If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-    
--   In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-    
 
 ### Location
 
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-
--   Location: Zoom
+-   Location: Remote, Zoom
     
 -   Point of contact: Charlotte Cesana, Megan Gayle
     
@@ -204,101 +155,119 @@ For moderated usability tests:
 
 -   [Link to conversation guide](url goes here)
     
--   [Link to prototype] ([https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction))
+-   [Link to staging URL] ([https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction))
     
 
   
 
 ## Recruitment
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.
 
-Before writing your recruitment criteria, be sure to review the following resources.
-
--   [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research.
-    
--   [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-    
 
 ### Recruitment approach
 
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?
 
-Pro tip:
-
--   For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants.
-    
--   Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups.
-    
--   Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-    
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
-
-Inclusive recruitment prioritizing a full sample of Veterans that use screen readers due to low vision or blindness.
+Inclusive recruitment prioritizing a full sample of **Veterans that use screen readers due to low vision or blindness**.
 
 ### Recruitment criteria
 
 List the total number and type (Veterans, caregivers, etc.) of participants for this study.
 
-6 completed sessions with Veterans that use screen readers
+**6 completed sessions with Veterans that use screen readers, please recruit 12 Veterans**
 
 Primary criteria (must-haves) What demographics, experience, and scenarios do you need participants to meet to effectively run your study?
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question. Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+- All participants must be Veterans
+- All participants must have had an experience of medical copay debt in the last 2 years (resolved or not resolved is ok)
+- Inclusive, diverse sample with respect to race/ethnicity, age, gender, educational attainment, financial status
+- All must be on a computer or mobile device.
+- During the session, be willing to share a web browser window on their device
+- Have a working microphone on their device
+- Have Zoom downloaded to their device prior to the session and know how to share their screen
+  
+**Please collect basic demographic information on participants in addition to the screener questions**
 
-* Please collect basic demographic information on participants in addition to the screener questions * 
-Screener Questions:
-
- 1.  Please select the statement that best applies to you:
-a) I am visually impaired but not blind. 
- b) I am blind. 
- c)  I have normal vision or near normal vision. (disqualify)
+**Screener Questions**:
 
 
- 1.  How long have you been blind or visually impaired?   
-a) In the last 2 years
-b) In the last 2 - 5 years
-c) In the last 5-10 years
-d) 10 + years
+ 1.  **We’re asking these questions because we want to be sure our website works well for visually impaired people and assistive technologies.**  
+**Please select the statement that best applies to you:**  
+ a) I am visually impaired but not blind.  
+ b) I am blind.  
+ c)  I have normal vision or near normal vision. (disqualify)  
+
+
+ 2.  **How long have you been blind or visually impaired?**   
+a) In the last 2 years  
+b) In the last 2 - 5 years  
+c) In the last 5-10 years  
+d) 10 + years  
 e) My entire life
 
-3.  Do you need to use assistive technology to use technology and the internet, such as VoiceOver on an iPhone or a Mac, TalkBack on an Android device, or JAWS on a computer?
-   a)  Yes
-   b) No (disqualify)
+3.  **Do you need to use assistive technology to use technology and the internet, such as VoiceOver on an iPhone or a Mac, TalkBack on an Android device, or JAWS on a Windows computer?**  
+   a)  Yes  
+   b) No (disqualify)  
     
-4.  Please check the statement(s) that best applies to you:
-a) I use assistive technology (VoiceOver, Talkback, JAWS, NVDA are examples)
-b) I use text-to speech software (Speechify or WordTalk are examples) (disqualify if they only select B)
-c) I do not use assistive technology (disqualify)
-d) I do not use text-to speech software
+4.  **Please check the statement(s) that best applies to you:**  
+a) I use assistive technology (VoiceOver, Talkback, JAWS, NVDA are examples)  
+b) I use text-to speech software (Speechify or WordTalk are examples) (disqualify if they only select B)  
+c) I do not use assistive technology (disqualify)  
+d) I do not use text-to speech software  
 
-5.  Are you able to join the Zoom session using this assistive technology?
-a) Yes
-b) Yes, with some help
-c) No (disqualify)
+5.  **Are you able to join the Zoom session using this assistive technology?**  
+a) Yes  
+b) Yes, with some help  
+c) No (disqualify)  
 
-6.  Please list the name of the assistive technology or software you will use during the session. (Fill in)
+6.  **Please list the name of the assistive technology or software you will use during the session. (Fill in)**  
     
-7.  Please check the statement) that best applies to you:
- a) I am very comfortable using screen readers
- b) I am comfortable using screen readers
- c) I am still learning how to use screen readers
+7.  **Please check the statement) that best applies to you:**  
+ a) I am very comfortable using screen readers   
+ b) I am comfortable using screen readers  
+ c) I am still learning how to use screen readers  
 
-8.  Are you comfortable filling out a form with financial information?
-  a) Yes
+8.  **Are you comfortable filling out a form with financial information while screen sharing?**  
+  a) Yes  
   b) No (disqualify)
+
+9. **Please select the statement(s) that apply to you: (Check all that apply)**  
+  a) I am currently experiencing financial hardship.
+  b) I have experienced financial hardship in the past.
+  c) I am not currently experiencing financial hardship.
+
+10. **Please select the statement(s) that apply to you: (Check all that apply)**  
+  a) I have VA medical copay currently or in the past
+  b) I have VA overpayment debt currently or in the past
+  c) I have never had VA medical copay or overpayment debt
     
-Follow Up Call: 
-Please follow up by phone with prospective participants with these (3) questions and please let us know what they say. 
+**Follow Up Call:**
 
-1. We want to confirm that you use a screen reader due to low vision or blindness
-2. Are you comfortable joining a Zoom call using your screen reader technology?
-3. We’ll have an accessibility specialist on the call. Are there any other accommodations that would be helpful during this session?
+Please follow up by phone with prospective participants with these (4) questions and please let us know what they say. 
 
-Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+1. **We want to confirm that you use a screen reader due to low vision or blindness** 
+2. **What is the name of the screenreader technology you are using?**   
+3. **Are you comfortable joining a Zoom call using your screen reader technology?**  
+4. **We’ll have an accessibility specialist on the call. Are there any other accommodations that would be helpful during this session?**  
 
-Secondary criteria (nice-to-haves) What criteria would strengthen your results?
+
+**Secondary criteria (nice-to-haves) What criteria would strengthen your results?**
+Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants who use screenreaders.
+
+At least 40% of people must identify as Black, Hispanic/Latina/Latinx, Asian, or Native
+
+At least 40% of people must identify as having a cognitive consideration
+
+At least 50% of people must identify as other than male
+
+At least 20% of people are without a degree or professional certificate
+
+At least 20% of people are under 35
+
+At least 40% of people are over 55
+
+At least 20% of people must live in a rural area
+
+At least 20% of people are non-native English speakers
 
 ## Timeline
 
@@ -307,8 +276,6 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 Wednesday Oct 18, 2023 - Friday, Oct 27, 2023
 
 ### Prepare
-
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
 
@@ -370,7 +337,7 @@ Please list the people who will be serving in each role. Include the primary pho
     
 -   Participant(s) for pilot test: Angela Fowler
     
--   Accessibility specialist (for sessions where support for assistive technology may be needed): Sara, Sarah Koomson
+-   Accessibility specialist (for sessions where support for assistive technology may be needed): Sara Smith, Sarah Koomson
     
 -   Note-takers: Megan Gayle, Joseph Lee
     
@@ -379,24 +346,30 @@ Please list the people who will be serving in each role. Include the primary pho
 
   
 
--   Charlotte Cesana
+-   [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
     
--   Megan Gayle
+-   [Megan Gayle](mailto:denise.coveyduc@va.gov)
     
--   Joseph Lee
+-   [Joseph Lee](mailto:joseph@cityfriends.tech)
     
--   [Denise Coveyduc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/research/denise.coveyduc@va.gov)
+-   [Denise Coveyduc](mailto:denise.coveyduc@va.gov)
     
--   [Tom Davis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/research/thomas.davis@govcio.com)
+-   [Tom Davis](mailto:thomas.davis@govcio.com)
     
--   [Heather Rienk](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/research/heather.rienks@agile6.com)
+-   [Heather Rienk](mailto:heather.rienks@agile6.com)
     
--   [Andrew Rodiek](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/research/andrew.rodiek@govcio.com)
+-   [Andrew Rodiek](mailto:andrew.rodiek@govcio.com)
     
--   [Brandyn Sullins](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/research/brandyn.sullins@govcio.com)
+-   [Brandyn Sullins](mailto:brandyn.sullins@govcio.com)
     
--   [Aaron Ponce](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/research/aaron.ponce@agile6.com)
+-   [Aaron Ponce](mailto:aaron.ponce@agile6.com)
     
--   [Kevin Suarez](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/research/kevin.suarez@agile6.com)
+-   [Kevin Suarez](mailto:kevin.suarez@agile6.com)
     
--   [Scott James](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/research/scott.james@govcio.com)
+-   [Scott James](mailto:scott.james@govcio.com)
+
+-   [Sarah Koomson](Sarah.Koomson@oddball.io)
+
+-   [Sara Smith](Sara.Smith@oddball.io)
+
+-   [Angela Fowler](angela.fowler@adhocteam.us)
