@@ -54,7 +54,7 @@ Last updated by @tygindraux on September 15, 2023
 |Be able to view replies to inquiries from agents (current functionality)|x|||
 |Be able to separate (and hide) business and personal inquiries|x|||
 |NEW: Be able to view archived inquiries|||x|
-|NEW: Be able to type-forward search (search submitter question)|||x|
+|NEW: Be able to search submitter questions (replies, response)|||x|
 |NEW: Notification in card UI when you have a new reply|x|||
 |NEW: Be able to view conversation (question and replies) on one page|x|||
 
