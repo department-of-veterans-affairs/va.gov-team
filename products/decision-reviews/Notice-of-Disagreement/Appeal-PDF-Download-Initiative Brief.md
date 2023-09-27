@@ -97,15 +97,15 @@
 ## Screenshots
 
 ### Before
-<details><summary>Supplemental Claims Current Confirmation</summary>
-  
-![staging va gov_decision-reviews_supplemental-claims-form-20-0995_confirmation](https://github-production-user-asset-6210df.s3.amazonaws.com/111457818/270357118-11fb1e33-3897-41f2-8b25-a6717ac4b32e.png)
-
-</details>
-
 <details><summary>Notice of Disagreement Current Confirmation</summary>
   
 ![staging va gov_decision-reviews_board-appeal_request-board-appeal-form-10182_resume](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/5eed0b84-4b45-4f15-a817-5a48cd576a20)
+
+</details>
+
+<details><summary>Supplemental Claims Current Confirmation</summary>
+  
+![staging va gov_decision-reviews_supplemental-claims-form-20-0995_confirmation](https://github-production-user-asset-6210df.s3.amazonaws.com/111457818/270357118-11fb1e33-3897-41f2-8b25-a6717ac4b32e.png)
 
 </details>
 
@@ -116,15 +116,15 @@
 </details>
 
 ### After
-<details><summary>Supplemental Claims New Confirmation</summary>
-  
-![Confirmation - PDF Downlaod Copy](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/af304309-e547-49a0-bf3f-476e273176bc)
-
-</details>
-
 <details><summary>Notice of Disagreement New Confirmation</summary>
   
 ![PDF Download](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/24630a0a-17c3-4173-a3e2-e2628d3eb5c8)
+
+</details>
+
+<details><summary>Supplemental Claims New Confirmation</summary>
+  
+![Confirmation - PDF Downlaod Copy](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/af304309-e547-49a0-bf3f-476e273176bc)
 
 </details>
 
