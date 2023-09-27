@@ -16,13 +16,11 @@ Not applicable - team conducted internal testing.
 - Launch go/no-go ticket: [#66187](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66187)
 - [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/LOA1-experience-updates/my-va-loa1-updates-launch-readiness-checklist.md)
 
-**Desired date range:** _mm/dd/yyyy - mm/dd/yyyy_
+**Desired date range:** _10/2/2023 - 10/13/2023_
 
-**Phased rollout:** 
+**Standard Rollout** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
 |-------|-----------|-----------|------|
-| Launch to 10% | 1 week | week of mm/dd/yyyy |[#66184](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66184) |
-| Launch to 50% | 1 week | week of mm/dd/yyyy | [#66185](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66185)  |
 | Launch to 100% | 1 week | week of mm/dd/yyyy | [#66186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66186)  |
 
 
@@ -31,8 +29,6 @@ Not applicable - team conducted internal testing.
 ### Planning:
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 10%  | mm/dd/yyyy | _mm/dd/yyyy_ |
-| Launch to 50%  | mm/dd/yyyy | _mm/dd/yyyy_ |
 | Launch to 100% | mm/dd/yyyy | _mm/dd/yyyy_ |
 
 
