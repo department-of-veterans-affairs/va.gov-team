@@ -193,6 +193,8 @@ Support some kind of edit access/process (ideas that are not finalized by the wo
 
 ### Objective #1: 
 
+(Leave blank for now)
+
 **When filling in data -- update dates to be 1 month pre-launch, one month post launch (to 100%), and the second month post-launch (to 100%) based on actual launch dates.**
 
 
