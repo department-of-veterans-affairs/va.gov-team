@@ -4,13 +4,13 @@
 ## Background
 
     
-#### Participants will log in to a test account on staging.
-
-Staging link: [https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
 
 #### In this exploratory study, we seek to understand how Veterans that use screen readers navigate and fill out the enhanced Financial Status Report form (eFSR). We hope the results from the study will help inform accessibility best practices for our team going forward.
 
 #### We believe it is important to help Veterans using screen readers maximize efficiency, build proficiency, enable auditory scannability, and allow a level of flexibility as they progress through the form.
+
+Participants will log in to a test account on staging.
+Staging link: [https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
 
 ### OCTO Priorities
 
