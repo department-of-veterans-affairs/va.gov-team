@@ -46,7 +46,9 @@ Sessions will take place via Zoom meetings.
 
 ## Recruitment	
 
-10 fulfill Veteran sessions via a combination of the three below methods.
+10 fulfill Veteran sessions via a combination of the three methods explained in the recruitment request ticket.
+
+**Recruitment kickoff meeting is requested for October 4 from 3 - 3:30 p.m. ET (if possible).**
 
 ### Length of sessions
 - Session length: 1 hour 
@@ -54,7 +56,19 @@ Sessions will take place via Zoom meetings.
 - Maximum Sessions per day: 3	 
 
 ### First Method
-Recruit participants via flyers displayed within the pilot site’s waiting rooms and other clinic areas. Work with the pilot sites on exact locations. The participants recruited via flyers will follow OCTO’s existing processes. 
+Recruit participants via two methods, which will follow OCTO's existing processes.
+1. Flyers displayed within the pilot site’s waiting rooms and other clinic areas. Work with the pilot sites on exact locations. The posters will be created by Perigean. Here is [draft content for the posters.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/recruitment-poster-wording.md)
+2. A link at the end of a VSignals survey after completing the questionnaires. We will need a link from Perigean to the segregated database sign up to add to the VSignals survery. The following is the proposed wording to add to VSignals:
+
+Would you like to share more about your experience answering these questions? If so, we are interested in interviewing you. Get paid for your feedback.  
+- Registration takes 5 minutes at [link] 
+- Get a $5 Amazon gift card 
+<br/>(just for registering) 
+- Wait and we will reach out to you in the following days to schedule the interview
+  <br/>(receive an additional payment after the interview) 
+Learn more at [URL]. 
+
+Question for Perigean: can we add more detail on how many days it will take to reach back out to the Veteran in these instances?
 
 #### Recruitment criteria
 5 Veterans at each pilot location (Minneapolis and Butler, PA) for a total of 10 Veterans 
