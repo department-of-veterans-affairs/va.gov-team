@@ -64,8 +64,9 @@ The sessions will be conducted remotely via Zoom.
 
 **Research materials**
 
-[Conversation guide]([https://docs.google.com/document/d/1iu3AF3n5HmcZMgCTXOGqo8GME6HdI_dXEcRDp_09tVs/edit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2023-10-max-CFI-explorations%20/2023-10-max-CFI-explorations-conversation-guide.md))
-[Prototype](https://www.sketch.com/s/bf1a0cd3-1fae-4321-a081-82db48fa3d3a/p/E089E059-6A52-43B0-9D5D-8B3FE35E4667/canvas#About)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2023-10-max-CFI-explorations%20/2023-10-max-CFI-explorations-conversation-guide.md)
+
+- [Prototype](https://www.sketch.com/s/bf1a0cd3-1fae-4321-a081-82db48fa3d3a/p/E089E059-6A52-43B0-9D5D-8B3FE35E4667/canvas#About)
 
 ## Recruitment
 **Recruitment approach**
