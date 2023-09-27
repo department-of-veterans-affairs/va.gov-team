@@ -1,6 +1,6 @@
 
 
-# Health care applicaiton "registration only" generative mental model study Research Findings 
+# Health care application registration generative study - Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ Health Care Application, Health Enrollment Team**
 
@@ -26,7 +26,7 @@ Date: October 2023
 
 
 ## Research Goals
-How might we enable Veterans who simply want to "register" for a specific level of care — up to and including the full medical benefits package — do that instead of processing all applications as enrollment applications? The outcomes of this initiative including getting Veterans access to the health care benefits for their needs in a transparent and simple process while asking only for the information required for their circumstance (future "short form" growth)
+How might we enable Veterans who simply want to register for a specific level of care — up to and including the full medical benefits package — do that instead of processing all applications as enrollment applications? The outcomes of this initiative including getting Veterans access to the health care benefits for their needs in a transparent and simple process while asking only for the information required for their circumstance (future "short form" growth)
 
 This is a generative study to gain an understanding of the current mental model of Veterans in regards to different benefit types of health care coverage.
 
