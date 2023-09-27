@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 9/27/2023
+- Updated content in the eCheck-in travel & confirmation pages Needs Help Section to help Veterans understand where to go for questions about filing a travel reimbursement claim
+    - [Ticket 65477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65477)
+
 ### 9/11/2023
 - Updated cCheck-in to allow a Veteran to submit 1 travel claim per facility per day
     - [Epic 60843](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)
