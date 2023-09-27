@@ -1,4 +1,4 @@
-# Claims Status Tool - E Claims Status - Product Brief
+# Claims Status Tool - Elevating Claims Status - Product Brief
 
 We have the opportunity to examine the current state of the Veteran’s experience when viewing   their individual claims status on the VA mobile application with the goal of reimaging a future state that helps to alleviate both user frustration and Veterans uninstalling the application.
 
