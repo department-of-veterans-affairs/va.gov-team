@@ -25,7 +25,7 @@ One of the outputs of this ticket was to create a diagram of the backup submissi
 
 ### Initial Submission
 Initial 526 submission begins with the front-end posting to the `submit_all_claims` endpoint on vets-api, and a claim is saved to the database from the submitted JSON
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/3965574b-7b20-4323-b56a-46cbb40631eb)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/99f65c83-2e7d-4b6a-a921-514632fccc61)
 
 The claim is passed into the `create_submission` method to begin creating the submission record. Form4142 information is added to the JSON.
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/0c138cd7-0b9c-4ae7-a738-15b463234b7e)
