@@ -67,7 +67,7 @@
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
-- Scope of this build is to make edits for the submission confirmation page for all three decision review forms (Supplemental Claims, Notice of Disagreement/Board Appeal, Higher-Level Review), and link to an already created endpoint that lets users download a print version of the confirmation page and a copy of their completed form.
+- Scope of this build is to make edits for the submission confirmation page for all three decision review forms (Supplemental Claims, Notice of Disagreement/Board Appeal, Higher-Level Review), starting with Board Appeal and link to an already created endpoint that lets users download a print version of the confirmation page and a copy of their completed form.
 - Lighthouse has created an endpoint that adds a watermark to the completed PDF package.
 
 #### Go-to-market 
@@ -143,7 +143,7 @@
 - Team Name: Benefits Decision Review
 - GitHub Label(s): benefits-team-1, squad-2
 - Slack channel: [benefits-decision-review](https://dsva.slack.com/archives/C5AGLBNRK)
-- Product POCs: Premal Shah, Sade Ragsdale, Eileen Chi
+- Product POCs: Premal Shah, Sade Ragsdale
 
 </details>
 
