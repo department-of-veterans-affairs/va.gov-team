@@ -258,7 +258,13 @@ We would like to **request a kick-off meeting with Perigean** to go over the rec
 - Project point of contact: Pam Drouin (pamela.drouin@a1msolutions.com)
 - Participant(s) for pilot test: TBD
 - Accessibility specialist: TBD
-- Note-takers:	TBD
-- Observers: TBD
+- Note-taker: Team
+- Observers/Participants:
+  -  travis.cahill@agile6.com
+  -  adam.whitlock@adhocteam.us
+  -  dorothy.cummings@agile6.com
+  -  liz.lantz@adhocteam.us
+  -  samara.strauss@va.gov
+  -  tom.harrison@adhocteam.us
 
 ***List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side* 
