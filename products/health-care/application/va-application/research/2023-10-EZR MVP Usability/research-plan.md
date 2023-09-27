@@ -1,4 +1,4 @@
-# Research Plan for Health Enrollment (1010) 1010EZR, October, 2023]
+# Research Plan for Health Enrollment (1010) 1010EZR, October, 2023
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
@@ -36,9 +36,14 @@ What are you trying to learn from this research?
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.*
 
+Goal 1: Test the usability of the prefilled form fields to see if Veterans understand the information is prefilled and they can change it.
+Goal 2: Determine if the there are any issues for Veterans who need to change one aspect (updating insuranc provider) of their information vs. many aspects (updating financial information and insurance provider).
+Goal 3: Determine if Veterans understand what they can update after encountering the introduction page of the form.
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+
+These learnings will allow us to evaluate for additional gaps during the rollout of new form to production. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed in future interations.
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
