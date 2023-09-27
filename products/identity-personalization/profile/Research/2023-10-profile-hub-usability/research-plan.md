@@ -123,7 +123,7 @@ We’d like to recruit 12 participants for a total of 8 completed sessions:
 Inclusive representation:
 - 2 people who use screen readers
 - 3 people who use magnification
-- 4 people who are 55+
+- 3 people who are 55+
 - 4 people with identify as having a cognitive consideration
 
 Additionally, all participants:
