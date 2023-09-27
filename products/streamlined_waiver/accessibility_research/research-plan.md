@@ -167,9 +167,8 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 Primary criteria (must-haves) What demographics, experience, and scenarios do you need participants to meet to effectively run your study?
 
 - All participants must be Veterans
-- All participants must have had an experience of medical copay debt in the last 2 years (resolved or not resolved is ok)
 - Inclusive, diverse sample with respect to race/ethnicity, age, gender, educational attainment, financial status
-- All must be on a computer or mobile device.
+- All must be on a computer or mobile device that utilizes screenreader technology
 - During the session, be willing to share a web browser window on their device
 - Have a working microphone on their device
 - Have Zoom downloaded to their device prior to the session and know how to share their screen
