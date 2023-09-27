@@ -82,4 +82,7 @@ Finally, once all the docs have been gathered, they are submitted (one way or an
 
 
 Full diagram as SVG
-![526 Submission Workflow](https://user-images.githubusercontent.com/92405130/268407152-5922ae45-fc78-44f4-b08c-1d5a599fea01.svg)
+![526 Submission Workflow - full](https://user-images.githubusercontent.com/92405130/268407152-5922ae45-fc78-44f4-b08c-1d5a599fea01.svg)
+
+Simplified diagram as SVG
+![526 Submission Workflow - simplified](https://user-images.githubusercontent.com/92405130/271063823-a6e5a374-d685-4623-91d6-75c0fbd29303.svg)
