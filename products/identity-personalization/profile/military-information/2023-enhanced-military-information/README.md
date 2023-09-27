@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Updated 09/25/2023:** Travis added a link to the Google Doc outline 
+**Updated 09/26/2023:**  Travis reworked transfered current GD version to GH 
 
 ### Communications
 
@@ -35,7 +35,12 @@
 
 ## Overview
 
-The VA.gov profile team has been asked to enhance the military history section of the profile to meet legislative requirements around giving veterans access to view and update their Individual Longitudinal Exposure Record (ILER) record.
+The VA.gov profile team has been asked to enhance the military history section of the profile to aid veterans when applying for benefits. 
+
+This project needs to meet legislative requirements by giving veterans view access to their Individual Longitudinal Exposure Record (ILER) record, but it should not stop there. From a veteran’s experience perspective, VEO/VBA/OGC have recommended making [data points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#integrate-the-following-data-into-vagov) from veteran’s military records more accessible online with a focus on data used to apply for benefits. More specifically, VEO/VBA/OGC have arrived at a list of 8 key data elements found within veteran’s military records that, in this project, we are tasked with exposing. 
+
+To start we should focus on **read only** access to those data elements and to ILER. As VBA/VHA/VEO/OGC/DoD progress their conversations around the legislation we can then shift focus to update access for ILER data (ie. Section 803). 
+
 
 ### Legislative mandates
 
@@ -51,7 +56,7 @@ TL;DR -- in 2021, Congress mandated that veterans be able to view their ILER rec
 
 ILER was created following a December 27, 2012, Health Executive Committee (HEC) Joint Incentive Fund Initiative (JIF) proposal, in which the Department of Defense (DoD) and Department of Veterans Affairs would create a complete record of every Service member’s occupational and environmental health exposure. ILER improves the efficiency and effectiveness in claims processing and decision-making by linking a Veteran to military exposures and/or deployments by integrating information from multiple DoD sources. **It is important to note that ILER is not an authoritative data source**, and it does not have an API to allow for integration into VA.gov.
 
-While the announcement linked above mentions ILER is not for individual use, in practice, veterans are gaining access to their ILER, often times, by requesting from their physician who can generate a PDF form. 
+While the announcement linked above mentions ILER is not for individual use, in practice, veterans are gaining access to their ILER, oftentimes, by requesting from their physician who can generate a PDF form. 
 
 #### Example of the data model 
 
@@ -65,23 +70,35 @@ While the announcement linked above mentions ILER is not for individual use, in 
 
 </details> 
 
+### Can we give veterans access to ILER? Are we integrating ILER into the profile?
+
+Yes, we should be able to generate a copy of a veteran’s ILER records. According to VEO stakeholders, VA owns an API that can generate a PDF/text version of a veteran’s ILER record.  
+
+While Congress has mandated read and update access to ILER, the document is complicated and, in most cases, the ILER document alone will not provide sufficient context to a veteran to allow them to interpret the data contained therein. We should not generate a full scale replica of ILER on VA.gov and will focus on granting read access. Once our stakeholders have determined how to progress with Section 803 we will work to incorporate the appropriate update process. 
+
+
+### What are the shortcomings of granting read access to ILER?
+
+VA leadership -- which includes Trisha Dang and Melissa Rebstock, among others -- have expressed concerns around the intelligibility of ILER data. These documents can run into hundreds of pages and interpreting the data within them isn’t a straightforward task. 
+
+While granting veterans access to the ILER record is required by law, we can bolster the user experience by aiding veterans in their benefits application process by supplying them with key data/information from their military record. 
+
 ### How is this different than the DD214?
 
-TL;DR -- ILER is a record of potential toxic exposure experienced in the service; DD214 is a discharge paper that proves a veteran's service.
+TL;DR -- ILER is a record of potential toxic exposure experienced in the service; DD214 is a discharge paper that proves a veteran's service. Veterans seem to be using both to support their benefits application process
 
 To access many benefits veterans often need to provide service history data and adequate documentation to support their request. When a service member separates from their respective branch, they are given a copy of their DD214. This is a point-in-time snapshot at the moment of their separation. Many veterans lose this document or in some cases never received a copy and need to re-request. Currently in the profile we [link to support pages](https://staging.va.gov/records/get-military-service-records/) detailing how to request a copy of one's DD214.
 
-While [researching military information in early 2023, our findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#key-findings) demonstrated the importance this document carries not only in assisting veterans with the application process for benefits, but sometimes serving as a key document for proving their service.
+While [researching military information in early 2023, our findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#key-findings) demonstrated the importance this document carries not only in assisting veterans with the application process for benefits, but sometimes serving as a key document for proving their service. We know from our research that veterans use the DD214 as a memory tool. 
 
-### Can we give veterans access to ILER? Are we integrating ILER into the profile?
+### Should we make the DD214 accessible online? 
 
-No, we can not give veterans access to ILER or integrate it into the profile. This is because ILER does not have an API.
+Making the DD214 available online has been proposed and rejected due to the point-in-time nature of the document. A veteran’s DD214 reflects data at the point of separation from the respective branch of service; it would not be a comprehensive enough solution. [Although a veteran may not _need_ their DD214 it will often facilitate benefits applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#though-they-may-not-need-their-dd214-in-all-cases-to-apply-for-va-benefits-having-a-copy-of-it-facilitates-the-benefit-application-process-and-helps-veterans-access-non-va-privileges-memberships-and-discounts), the focus, based on VEO’s guidance, should be on the 8 key data elements as those should reduce veteran reliance on their separation document. In other words, our focus shouldn’t be on the document per-se but the use case of the document. 
 
-[ this needs to be updated, there's an API to generate a PDF of the ILER data, but the ILER record itself is not currently in a database that is editable, this has to do with ownership of ILER, ie. ILER is owned by DoD ]
+### Where does this leave us? 
 
-### What can we do instead?
+We should use the DD214 and ILER as starting points for this project, but we should not fixate on them. Our current understanding is veterans are using data in these documents to help them in applying for benefits (claims). VEO in conjunction with OGC have highlighted 8 key data elements from the military record that we should expose. As part of this project, we will focus on how to organize those data elements in a way that makes the data most useful to veterans with special attention to how the data can be used when applying for benefits. It will be critical to consider any data elements that may be missing. 
 
-VA leadership -- which includes Trisha Dang and Melissa Rebstock, among others -- are working together to figure out how we can meet the letter of the law on the legislation without literally integrating ILER into VA.gov, which is not possible. They have determined that the following meets requirements:
 
 #### Integrate the following data into VA.gov
 
@@ -94,36 +111,43 @@ The MVP datapoints VA leadership is interested in adding to the VA.gov profile i
 5. training courses
 6. military awards and decorations
 
-Additionally, the following data would eventually be required, but VA leadership is currently determining requirement around this. This would not be MVP.
+
+Additionally, the following data would eventually be required, but VA leadership is currently determining requirements around this. This would not be MVP.
 
 1. non-military deployment data
 2. a registry that verifies participation in a TERA
 
+Per VBA’s analysis, this list is composed of elements that a Veteran will need the ability to view in order to verify a TERA, hazards or presumptions. VA and DoD anticipate Veterans and Service members will most often use ILER to verify their participation in a TERA or hazards to qualify for health care benefits or compensation benefits under PACT, or previously established presumptions for radiation (38 CFR 3.309(d)); herbicides (38 CFR 3.309(e)); contaminated water at Camp LeJeune (38 CFR.3.309(f)); ionizing radiation (38 CFR 3.311); Persian Gulf exposures (38 CFR 3.317); and fine particulate matter (38 CFR 3.320). 
+
+The military information page in the profile should provide read access to the data elements to aid a veteran in their application process. 
+
 #### Link to ILER records
 
-Apparently, we can access a PDF version of someone's ILER record, so linking to this would suffice for MVP.
+We can access a PDF version of someone's ILER record, so linking to this would suffice for MVP solution to Section 9105.
 
 #### Allow people to update their ILER record
 
-VA leadership is not clear on how exactly to make this possible. A lightweight MVP might be giving people a number to call. Ideally, over time, we'd have a better option than that.
+VA leadership is not clear on how exactly to make this possible and they’re still working with their DoD counterparts to satisfactorily answer the legislative imperative in Section 803. A lightweight MVP might be giving veterans a DoD number to call. Ideally, over time, we'd have a better option than that.
 
-### Open questions to discuss with the team 
-- Do we need a phased approach? what would that look like? 
-- What would an MVP product be? 
 
 ## Problem Statement
 
 - As a Veteran, I want to see what information VA has about my military history, and to be able to correct it if it is inaccurate.
-- As a Veteran, I want to know if I served in a area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
+- As a Veteran, I want to know if I served in an area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
 
 ## User Outcomes
 
 ### Desired User Outcomes
 
-- Users should be able to access their military information from the VA.gov profile
+#### Phase 1: Read Access
+- Users should be able to access the 8 key data elements of their military record from the VA.gov profile so they can apply for benefits 
+- Lost DD214s should be less worrisome for veterans and the urgency of locating military information when applying for benefits will be reduced as the data will always be available in the profile. 
+- expanded military information in the VA.gov Profile would be accessible to pre-fill forms on other parts of the VA.gov website
+
+
+#### Phase 2: Edit Access
 - Edits to the source data for ILER should be placed in the hands of veterans and proper documentation for the edits should be captured  
-- Lost DD214s should become irrelevant and the urgency of locating military information when applying for benefits will be reduced as the data will always be available. 
-     - expanded military information in the VA.gov Profile would be accessible to pre-fill forms on other parts of the VA.gov website
+
 
 
 ### Undesired User Outcomes
@@ -135,14 +159,28 @@ VA leadership is not clear on how exactly to make this possible. A lightweight M
 
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
-- Adding this information into the profile will help us meet the letter of the law on the legislative requirements outlined above.
-- If veterans are able to update their information, this would reduce errors in their records.
+-   Providing Veteran’s with a link to their ILER record will help us meet the letter of the law on the legislative requirements outlined above.
+- there should be a desired business outcome related to making the benefit application process more efficient if data is available through pre-fill
+-  Veteran records will be more accurate if Veterans are able to update their own information. If veterans are able to update their information, this would reduce errors in their records.
 
 ### Undesired Business Outcomes
 
+Given the complexity of the data contained in ILER records, it’s not an efficient use or resources to display a copy of each veteran’s ILER data without also adding in additional context. This would be technically challenging and time consuming given the magnitude of variations in veterans records and experiences. 
+
+We don’t want to spend time and resources developing highly complex support structures around the ILER documentation and instead should focus energy on supplying data that would help veterans gain access to benefits under the PACT act 
+
+
 ## Proposed Solution
 
-To be discussed w/the team collaboratively 
+### Phase 1: Read Access 
+This is focused on read access to two things, 1)  ILER and 2) military record data
+Create a button to generate a veteran’s ILER pdf/text file  
+Get veterans read access to as many of the key data elements as possible (currently 6 of 8)
+
+### Phase 2: Edit Access 
+
+This is highly dependent on DoD/VBA conversations around Section 803 and is not ready to be worked
+Support some kind of edit access/process (ideas that are not finalized by the working group: link to respective DoD military record corrections website, create a VA process the electronically delivers a military record correction request to the respective branch of the DoD, update the data through some process where “VA to promulgate a regulation defining the ‘evidence considered necessary.’”) 
 
 
 ## Measuring Success
@@ -165,7 +203,7 @@ To be discussed w/the team collaboratively
 
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)
 - [Mural refinement ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?sender=uaa72d11015d3f7c704a64191)
-- [Project outline google doc for collaboration](https://docs.google.com/document/d/1aiw0drerrscjmgDtRLEaLlwvl58ZvLSdKcE_K0XGLsE/edit)
+- [Google Doc Project Outline](https://docs.google.com/document/d/1aiw0drerrscjmgDtRLEaLlwvl58ZvLSdKcE_K0XGLsE/edit)
 - QA Plan
 - Release plan
 
@@ -187,3 +225,15 @@ To be discussed w/the team collaboratively
 
 
 ## Frontend
+
+
+
+
+
+
+
+
+
+
+
+
