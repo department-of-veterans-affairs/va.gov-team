@@ -60,3 +60,6 @@ I've updated the designs for both the Vet Center and VAMC emails to include the 
 
 ## Revelant Backlog
 [CMS Notifications for VA Directive 6102](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10477)
+
+## Technical Implementation
+- [How it works and how to add new product notifications](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/docroot/modules/custom/va_gov_notifications/README.md)
