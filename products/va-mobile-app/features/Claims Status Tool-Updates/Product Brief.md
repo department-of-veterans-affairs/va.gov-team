@@ -12,7 +12,6 @@ We have observed that some Veterans report spending time returning to their clai
 As a result, Veterans using the claims status tool may experience dissatisfaction with the VA mobile app and with VA, and potentially seek other tools or methods to keep up with their claim. 
 
 ### Desired Outcome - Hypothesis
-
 We believe that surfacing information about claims status beyond the claims detail screen will reduce the burden placed on Veterans to stay informed in regards to their claim and will improve user satisfaction and right-sized engagement with the VA mobile app.
 We will know we’re right when we see:
 * **Leading indicators:**
