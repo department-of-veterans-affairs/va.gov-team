@@ -53,7 +53,7 @@ Update from September 22, 2023:
 
 **For every example below, "at" is followed by the official location name. Official location names come from legislation, so we may not be able to change things that don't follow VA.gov style.** Example: Veterans' (should not have an apostrophe). 
 
-Facility type  |  Owned by  |  Official name | Name pattern | URL 
+Facility type  |  Shared location?  |  Official name | Name pattern | URL 
  -- | -- | -- | -- | -- 
 _Source:_ Sandy's Database |   | _Source:_ Sandy's Database |   | _Source:_
 Regional office | Standalone | [Winston-Salem VA Regional Benefit Office](https://www.va.gov/find-locations/facility/vba_318) | [Region name] [Facility type]
