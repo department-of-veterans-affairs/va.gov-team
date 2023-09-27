@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience Profile: Profile Hub usability study [Date TBD]
+# Research Plan for Authenticated Experience Profile: Profile Hub usability study, October 11-17, 2023
 
 ## Background
 
@@ -223,7 +223,7 @@ We would like to **request a kick-off meeting with Perigean** to go over the rec
 * Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research: Beginning October 11
+* Planned dates of research: October 11 - 17
 
 ### Length of sessions
 
@@ -247,6 +247,8 @@ We would like to **request a kick-off meeting with Perigean** to go over the rec
 | 10/11/2023 | 9am - any time |	
 | 10/12/2023 | 9am - any time |
 | 10/13/2023 | 9am - 3pm |
+| 10/16/2023 | 9am - any time |
+| 10/17/2023 | 9am - 3pm |
  
 ## Team Roles	
 
