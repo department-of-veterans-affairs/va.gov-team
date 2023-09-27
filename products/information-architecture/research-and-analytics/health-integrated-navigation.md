@@ -25,24 +25,22 @@ A successful solution SHOULD:
 * Now that the integration of tools on VA.gov has been delayed to Phase 2, significant pressure will be put on this solution to be successful at launch. While the tools will have phases 0 & 1 to receive and respond to user feedback, all features that will not launch until complete tool integration will go live to large numbers of users well past the "try me" phase. They will be very consequential at launch. Because of this, we need to do significant user testing prior to that date to understand whether these designs are working for our user base. 
 
 
-## Desktop - current secondary navigation designs
-### General:
+## What do current designs look like on VA.gov? 
+### Desktop - general template:
 <img width="1147" alt="Screenshot 2023-09-20 at 10 49 46 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/a7970d62-88d2-4094-b6f1-03e4b182e97d">
 
-### Facilities template:
+### Desktop - facilities template:
 <img width="1153" alt="Screenshot 2023-09-20 at 10 38 19 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/97981bbe-2433-4f52-9f64-16662133ca10">
 
-
-## Mobile - current secondary navigation designs
-### General:
+### Mobile - general template:
 <img width="1115" alt="Screenshot 2023-09-20 at 10 04 04 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/777c6258-3b56-4c28-95bc-d5cbe89578e8">
 
-### Facilities template:
+### Mobile - facilities template:
 <p align="center">
   <img width="706" alt="Screenshot 2023-09-20 at 10 27 16 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/aba6c9be-05a6-44f6-971b-0f0a40a4b013">
 </p>
 
-## Mock-ups of health portal secondary navigation using current designs 
+## What would health portal navigation look like with these designs?
 We mocked-up what the MHV on VA.gov planned secondary navigation structure would look like using the two secondary navigation designs in use on VA.gov. There are some important differences between the two designs. 
 
 ### Desktop
