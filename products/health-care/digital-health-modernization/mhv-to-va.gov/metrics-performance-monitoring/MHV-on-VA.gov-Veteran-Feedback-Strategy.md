@@ -53,7 +53,7 @@ _Default point person:_ A Product Manager or Delivery Manager, in partnership as
 - Medallia: set up and begin collecting data; import data into Domo
 - Datadog & Datadog RUM: (_Optional_) Get access, set up, review regularly to confirm users are successfully able to navigate the product and to quickly surface issues. _Be sure to implement RUM in code. Be sure to implement any application-specific backend monitoring via statsD at the vets-api layer._ 
 
-#### By transition into Phase 1: Tools connected to landing page; Veterans invited to try (“Try me”) 
+#### By transition into Phase 1: Veterans invited to "Try me" from Liferay MHV, not yet connected to MHV on VA.gov landing page
 
 - MHV feedback email no longer promoted
 - Monitor feedback from various sources, adjust processes as appropriate throughout subsequent phases
