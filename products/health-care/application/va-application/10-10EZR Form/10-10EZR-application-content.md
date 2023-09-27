@@ -10,7 +10,7 @@
 Pages listed below **10-10EZ PLACEHOLDER, need to update to EZR**
 
 ------------------------------------------------------------------------------
-
+------------------------------------------------------------------------------
 ### Page: Introduction
 
 #### URL: /health-care/-----/introduction
@@ -74,7 +74,9 @@ Expiration date: **06/30/2024**
 [END component form need help, health care] 
 
 ------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 ## Step 1 Veteran Information - profile information
+------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 
 ### Page: Personal Information - Authenticated View
@@ -315,12 +317,13 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 
 
-
+------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 ## Step 2 Veteran household financial information - Marital status
 ------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
-### Page: Marital status - AUTHENTICATED View
+### Page: Marital status - AUTHENTICATED View (Pre-filled path: Previously reported married with spouse information prefilled)
 
 #### URL: /health-care/----/household-information/marital-status
  
@@ -785,7 +788,9 @@ Month Day Year (dropdowns)
 
 [component additional information] [label] What we consider financial support for a dependent [content]
 
-[p] We consider any payments, even if they aren’t regular or the same amount, to be financial support. [p bold] Financial support includes payments for these types of expenses:
+[p] We consider any payments, even if they aren’t regular or the same amount, to be financial support. 
+
+[p bold] Financial support includes payments for these types of expenses:
 
 [ul]
 
@@ -839,11 +844,14 @@ One-time payment financial support
   [h2] 2 of 4: Household financial information
 [end progress bar]
 
-[H3] Financial support for [FirstName LastName]
+[H3] [FirstName LastName]'s annual income from 2022
 
-[legend title] Gross income from work [p] Gross income is income before taxes and any other deductions are subtracted.
+[legend title] Gross income from work
+ 
+[p] Gross income is income before taxes and any other deductions are subtracted.
 
-[additional info component] [add info label] What we consider gross annual income [add info content] [p bold] Gross income includes these types of income from a job: [ul]
+[additional info component] [add info label] What we consider gross annual income [add info content] 
+[p bold] Gross income includes these types of income from a job: [ul]
 
 - Wages
 - Bonuses
@@ -853,11 +861,16 @@ One-time payment financial support
 
 [component label text input] Enter your dependent's gross annual income from 2022 (*Required)
 
-[legend title] Net income from a farm, property, or business [p] Net income is income after any taxes and other deductions are subtracted. [component label text input] Enter your dependent's net annual income from a farm, property, or business from 2022 (*Required)
+[legend title] Net income from a farm, property, or business 
+[p] Net income is income after any taxes and other deductions are subtracted. [component label text input] 
+
+Enter your dependent's net annual income from a farm, property, or business from 2022 (*Required)
 
 [legend title] Other income
 
-[p] Other income is additional income that doesn't come from a job. [additional info component] [add info label] What we consider other annual income [add info content] [p bold] Other income includes things like this: [ul]
+[p] Other income is additional income that doesn't come from a job.
+[additional info component] [add info label] What we consider other annual income 
+[add info content] [p bold] Other income includes things like this: [ul]
 
 - Retirement benefits
 - Unemployment
@@ -868,6 +881,462 @@ One-time payment financial support
 [component label text input] Enter your dependent's other annual income from 2022 (*Required)
 
 [button secondary] Cancel adding dependent
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - Veteran's annual income 
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+### Page: Veteran's annual income - AUTHENTICATED View (No prefill for income or deductible from previous year)
+
+#### URL: /health-care/----/household-information/veteran-annual-income
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] Your annual income from 2022
+
+[legend title] Gross income from work
+[p] Gross income is income before taxes and any other deductions are subtracted.
+
+[additional info component]
+[add info label] What we consider gross annual income 
+[add info content]
+[p bold] Gross income includes these types of income from a job:
+[ul]
+- Wages 
+- Bonuses 
+- Tips 
+- Severance pay  
+[end additional info component]
+
+[component label text input] Enter your gross annual income from 2022 (*Required)
+
+
+[legend title] Net income from a farm, property, or business
+[p] Net income is income after any taxes and other deductions are subtracted.
+[component label text input] Enter your net annual income from a farm, property, or business from 2022 (*Required)
+
+
+
+[legend title] Other income  
+[p] Other income is additional income that doesn't come from a job.
+[additional info component]
+[add info label] What we consider other annual income 
+[add info content]
+[p bold] Other income includes things like this:
+[ul]
+- Retirement benefits
+- Unemployment
+- VA benefit compensation
+- Money from the sale of a house
+- Interest from investments.  
+
+[component label text input] Enter your other annual income from 2022 (*Required)
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+[END component form need help, health care] 
+
+
+
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - Spouse's annual income 
+------------------------------------------------------------------------------
+
+### Page: Spouse's annual income - AUTHENTICATED View 
+
+#### URL: /health-care/----/household-information/Spouse-annual-income
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] Spouse's annual income from 2022
+
+[legend title] Gross income from work
+[p] Gross income is income before taxes and any other deductions are subtracted.
+[additional info component]
+[add info label] What we consider gross annual income 
+[add info content]
+[p bold] Gross income includes these types of income from a job:
+[ul]
+- Wages 
+- Bonuses 
+- Tips 
+- Severance pay  
+[end additional info component]
+
+[component label text input] Enter your spouse’s gross annual income from 2022 (*Required)
+
+
+[legend title] Net income from a farm, property, or business
+[p] Net income is income after any taxes and other deductions are subtracted.
+[component label text input] Enter your spouse’s net annual income from a farm, property, or business from 2022 (*Required)
+
+
+
+[legend title] Other income  
+[p] Other income is additional income that doesn't come from a job.
+[additional info component]
+[add info label] What we consider other annual income 
+[add info content]
+[p bold] Other income includes things like this:
+[ul]
+- Retirement benefits
+- Unemployment
+- VA benefit compensation
+- Money from the sale of a house
+- Interest from investments.  
+
+[component label text input] Enter your spouse's other annual income from 2022 (*Required)
+
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+
+
+
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - Deductible expenses 
+------------------------------------------------------------------------------
+
+### Page: deductible expenses - AUTHENTICATED View 
+
+#### URL: /health-care/----/household-information/Spouse-annual-income
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] Deductible expenses from 2022
+
+[p] These deductible expenses will lower the amount of money we count as your income.
+
+[legend title] Non-reimbursable medical expenses
+
+[additional info component]
+[add info label] What we consider non-reimbursable medical expenses 
+[add info content]
+[p] Non-reimbursable medical expenses include costs you or your spouse (if you’re married) paid for these types of health care for yourselves, your dependents, or others you have the moral obligation to support:
+[ul]
+- Doctor or dentist appointments
+- Medications
+- Medicare or health insurance
+- Inpatient hospital care
+- Nursing home care 
+
+[p] We only consider expenses non-reimbursable if your health insurance doesn't pay you back for the cost.
+
+[end add info component]
+
+
+[component text input label] Enter the amount you or your spouse (if you’re married) paid in non-reimbursable medical expenses in 2022 (*Required)
+
+
+
+[legend title] College or vocational education expenses
+
+
+[additional info component]
+[add info label] What we consider non-reimbursable medical expenses 
+[add info content]
+[p] College and vocational expenses include payments for these expenses related to your own education: 
+[ul]
+- Tuition
+- Books 
+- Fees 
+- Course materials
+
+[p] Only include expenses for your own education (not your dependents' education).
+
+[end add info component]
+
+
+[component text input label] Enter the amount you paid for your own college or vocational education in 2022 (*Required)
+
+
+[legend title] Funeral and burial expenses for a spouse or dependent child who died 
+[p] Funeral and burial expenses are any payments made by you, like prepaid expenses.
+
+[component text input label] Enter the amount you paid for funeral or burial expenses in 2022 (*Required)
+
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+
+
+
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+## Step 3 Insurance information - Medicaid
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+### Page: Medicaid - AUTHENTICATED View (Pre-filled screens)
+
+#### URL: /health-care/----/insurance-information/Medicaid
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 3 of 4: Insurance information
+[end progress bar]
+
+[prefill alert] [p] We've prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below. [END prefill alert]
+
+[p] Medicaid is a federal health insurance program for adults and families with low income levels and people with disabilities.
+
+[p] **Note:** Some states use different names for their Medicaid programs.
+
+[component radio select]
+
+[label] Are you eligible for Medicaid?(*Required)
+
+[radio select options]
+- Yes
+- No
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+
+
+
+------------------------------------------------------------------------------
+## Step 3 Insurance information - Medicare
+------------------------------------------------------------------------------
+
+
+### Page: Medicare - AUTHENTICATED View (Pre-filled screens)
+
+#### URL: /health-care/----/insurance-information/Medicare
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 3 of 4: Insurance information
+[end progress bar]
+
+
+[p] Medicare is a federal health insurance program providing coverage for people who are 65 years or older or who meet who meet special criteria. Part A insurance covers hospital care, skilled nursing and nursing home care, hospice, and home health services.
+
+[component radio select]
+
+[label] Are you enrolled in Medicare Part A (hospital insurance)?(*Required)
+
+[radio select options]
+- Yes
+- No
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+
+
+
+
+------------------------------------------------------------------------------
+## Step 3 Insurance information - Medicare Effective Date
+------------------------------------------------------------------------------
+
+
+### Page: Medicare Effective Date - AUTHENTICATED View (Pre-filled screens)
+
+#### URL: /health-care/----/insurance-information/medicare-part-a-effective-date
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 3 of 4: Insurance information
+[end progress bar]
+
+
+[component date select]
+
+[label] What is your Medicare Part A effective date?(*Required)
+
+[hint text] You’ll find this date under “coverage starts” on the front of your Medicare card.
+
+[dropdowns for: month, day] [ input for year]
+[end date component]
+
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+
+[component form need help, health care] 
+
+[h2] Need help?
+[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+
+**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+
+**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+
+
+------------------------------------------------------------------------------
+## Step 3 Insurance information - Review Insurance
+------------------------------------------------------------------------------
+
+### Page: Review Dependents - AUTHENTICATED View
+
+#### URL: /health-care/----/household-information/Review-Insurance
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 3 of 4: Insurance information
+[end progress bar]
+
+[p] Health insurance includes any coverage that you get through a spouse or significant other. Health insurance also includes Medicare, private insurance, or insurance from your employer.
+
+[H3] Review your insurance policies
+
+[EXPERIMENTAL component card] 
+[p] [b] Insurance provider 1 
+[p] Policyholder: [First Name Last Name]
+
+[action link] Edit >
+
+[EXPERIMENTAL action link] x Remove
+
+[END card]
+
+[component radio select] [label] Do you have more health insurance coverage to add? (*Required)
+
+[component additional information] [label] Why we ask this information:
+
+[p] We ask for this information for billing purposes only. Your health insurance coverage doesn’t affect the VA health care benefits you can get.
+
+[p] Giving us your health insurance information helps you for these reasons:
+
+[ul]
+
+We must bill your private health insurance provider for any care, supplies, or medicines we provide to treat your non-service-connected conditions. If you have a VA copayment, we may be able to use the payments from your provider to cover some or all of your copayment.
+Your private insurance provider may apply your VA health care charges toward your annual deductible. Your annual deductible is the amount of money you pay toward your care each year before your insurance starts to pay for care.
+
+[end ul]
+
+[END additional info component]
+
+[select options]
+
+- Yes
+- No
 
 [finish later back-continue component]
 
@@ -905,117 +1374,82 @@ One-time payment financial support
 
 
 
-## Step 2 Household information 
-
----
-
-**Section: Introduction/disclose financials**
-
----
-
-#### Page: Financial introduction page
-#### URL: health-care/apply/application/household-information-v2/financial-information-use
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
 
 
-[p] Next we'll ask about your household financial information from 2022. We’ll ask about income and expenses for you, your spouse (if you’re married), and any dependents you may have.
 
-[h3] How we use your household financial information  
 
-[p] It’s your choice whether you want to share your financial information. Before you decide, here’s what to know about how we’ll use your financial information. 
 
-[p]{bold}   We use your financial information to determine these factors: 
+[CONDITIONAL - uses old list-and-loop pattern]
 
-[ul]
-**If you’re eligible for VA health care based on your income.** You may be eligible based on factors other than your income. We call these “enhanced eligibility status” factors. If you don’t have one of these factors, we’ll use your income to decide if you’re eligible. 
-**If you’re eligible for travel pay reimbursement.** Reimbursement means we pay you back for the cost of travel to and from your VA health appointments. 
-**If you’ll need to pay a copay for non-service-connected care or prescription medicines.** This means you may need to pay a fixed amount for some types of care or medications you receive from a VA health care provider or an approved community care provider.
+[component text input label]  Name of insurance provider(*Required)
 
-[/end ul]
+[component text input label] Name of policyholder (the person whose name the policy is in)(*Required)
 
-[p] **Note:** We verify the financial information you provide with the Internal Revenue Service (IRS).  
 
-[component additional info]
+[class="schemaform-block-title schemaform-block-subtitle vads-u-margin-top--6 vads-u-margin-bottom--2 vads-u-color--primary-darkest"  ? ] 
+Provide either your insurance policy number or group code. (*Required)
 
-[label] Learn more about enhanced eligibility status for VA health care
+[additional info component]
 
-[content]
+[label] I have TRICARE. What’s my policy number?
 
-[p] **You may qualify for enhanced eligibility status if you receive any of these benefits:**  
+[content] 
 
-[ul]
-- VA pension 
-- VA service-connected disability compensation 
-- Medicaid benefits
-[END ul]
+[p] You can use your Department of Defense benefits number (DBN) or your Social Security number as your policy number.
 
-[p] **You may also qualify for enhanced eligibility status if you fit one of these descriptions:**
-[ul]
-- You’re a former Prisoner of War (POW)  
-- You received a Purple Heart 
-- You received a Medal of Honor  
-- You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998 
-- You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987. 
+[p] Your DBN is an 11-digit number. You’ll find this number on the back of your military ID card.
 
-[END ul]
-[End Additional Info Component]
+[END additional info component]
+
+
+[component text input label] Policy Number
+[hint text] Either this or the group code is required
+
+[schemaform-block-title schemaform-block-subtitle vads-u-margin-bottom--neg2p5 vads-u-color--primary-darkest] Or
+
+[component text input label] Group Code
+[hint text] Either this or the policy number is required
+
+[button secondary] Add another insurance policy
+[END CONDITIONAL CONTENT]
+
 
 [button pair] [<< Back] [Continue >>]
 
----
-
-
-#### Page: Financial disclosure select
-#### URL: health-care/apply/application/household-information-v2/share-financial-information
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-[component radio select]
-[label] Do you want to share your household financial information? (*Required)
-[select options]
-- Yes
-- No
-[button pair] [<< Back] [Continue >>]
-
-
----
 
 
 
-#### Page: Financial disclosure - YES selected
 
-#### URL: health-care/apply/application/household-information-v2/financial-information-needed
 
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-[h3] Financial information you’ll need
-[p] We’ll ask for income information from 2022 for you, your spouse (if you’re married), and any dependents you may have.  
-[p]**Here’s what income information you’ll need to fill out this section:**
-[ul]
-- Gross annual income from work. Gross income is income before taxes and any other deductions. This includes income from a job like wages, bonuses, tips, and severance pay.  
-- Net income from a farm, property, or business. Net income is your income after taxes and deductions are subtracted. 
-- Other income you received. This includes things like retirement benefits, unemployment, VA benefit compensation, money from the sale of a house, or interest from investments.
-[END ul]
 
-[p] And we’ll ask for you or your spouse’s deductible expenses from 2022.
 
-[p] **Here’s what deductible information you can include in this section:**
 
-[ul]
-- Certain health care or education costs
-- Funeral or burial expenses for a spouse or dependent child
-[END ul]
 
-[p] These deductible expenses will lower the amount of money we count as your income.
 
-[button pair] [<< Back] [Continue >>]
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #### Page: Financial disclosure - NO selected
@@ -1466,7 +1900,7 @@ One-time payment financial support
 
 #### Page: Review dependents
 
-#### URL: health-care/apply/application/household-information-v2/dependents
+#### URL: health-care/----/household-information-v2/dependents
 
 
 [component progress bar]
@@ -1552,360 +1986,9 @@ One-time payment financial support
 
 
 
----
 
-**Section: Financials**
 
----
 
-
-#### Page: Veteran's annual income
-
-#### URL: health-care/apply/application/household-information-v2/veteran-annual-income
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-
-[fieldset legend title] Your annual income from 2022
-
-[legend title] Gross income from work
-[p] Gross income is income before taxes and any other deductions are subtracted.
-
-[additional info component]
-[add info label] What we consider gross annual income 
-[add info content]
-[p bold] Gross income includes these types of income from a job:
-[ul]
-- Wages 
-- Bonuses 
-- Tips 
-- Severance pay  
-[end additional info component]
-
-[component label text input] Enter your gross annual income from 2022 (*Required)
-
-
-[legend title] Net income from a farm, property, or business
-[p] Net income is income after any taxes and other deductions are subtracted.
-[component label text input] Enter your net annual income from a farm, property, or business from 2022 (*Required)
-
-
-
-[legend title] Other income  
-[p] Other income is additional income that doesn't come from a job.
-[additional info component]
-[add info label] What we consider other annual income 
-[add info content]
-[p bold] Other income includes things like this:
-[ul]
-- Retirement benefits
-- Unemployment
-- VA benefit compensation
-- Money from the sale of a house
-- Interest from investments.  
-
-[component label text input] Enter your other annual income from 2022 (*Required)
-
-
-
-[button pair] [<< Back] [Continue >>]
-
-----
-
-
-#### Page: Spouse’s annual income
-
-#### URL: health-care/apply/application/household-information-v2/spouse-annual-income
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-
-[fieldset legend title] Spouse's annual income from 2022
-
-[legend title] Gross income from work
-[p] Gross income is income before taxes and any other deductions are subtracted.
-[additional info component]
-[add info label] What we consider gross annual income 
-[add info content]
-[p bold] Gross income includes these types of income from a job:
-[ul]
-- Wages 
-- Bonuses 
-- Tips 
-- Severance pay  
-[end additional info component]
-
-[component label text input] Enter your spouse’s gross annual income from 2022 (*Required)
-
-
-[legend title] Net income from a farm, property, or business
-[p] Net income is income after any taxes and other deductions are subtracted.
-[component label text input] Enter your spouse’s net annual income from a farm, property, or business from 2022 (*Required)
-
-
-
-[legend title] Other income  
-[p] Other income is additional income that doesn't come from a job.
-[additional info component]
-[add info label] What we consider other annual income 
-[add info content]
-[p bold] Other income includes things like this:
-[ul]
-- Retirement benefits
-- Unemployment
-- VA benefit compensation
-- Money from the sale of a house
-- Interest from investments.  
-
-[component label text input] Enter your spouse's other annual income from 2022 (*Required)
-
-
-
-[button pair] [<< Back] [Continue >>]
-
-----
-
-#### Page: Deductible expenses
-#### URL: health-care/apply/application/household-information-v2/deductible-expenses
-
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-
-[fieldset legend title] Deductible expenses from 2022
-
-[p] These deductible expenses will lower the amount of money we count as your income.
-
-[legend title] Non-reimbursable medical expenses
-
-[additional info component]
-[add info label] What we consider non-reimbursable medical expenses 
-[add info content]
-[p] Non-reimbursable medical expenses include costs you or your spouse (if you’re married) paid for these types of health care for yourselves, your dependents, or others you have the moral obligation to support:
-[ul]
-- Doctor or dentist appointments
-- Medications
-- Medicare or health insurance
-- Inpatient hospital care
-- Nursing home care 
-
-[p] We only consider expenses non-reimbursable if your health insurance doesn't pay you back for the cost.
-
-[end add info component]
-
-
-[component text input label] Enter the amount you or your spouse (if you’re married) paid in non-reimbursable medical expenses in 2022 (*Required)
-
-
-
-[legend title] College or vocational education expenses
-
-
-[additional info component]
-[add info label] What we consider non-reimbursable medical expenses 
-[add info content]
-[p] College and vocational expenses include payments for these expenses related to your own education: 
-[ul]
-- Tuition
-- Books 
-- Fees 
-- Course materials
-
-[p] Only include expenses for your own education (not your dependents' education).
-
-[end add info component]
-
-
-[component text input label] Enter the amount you paid for your own college or vocational education in 2022 (*Required)
-
-
-[legend title] Funeral and burial expenses for a spouse or dependent child who died 
-[p] Funeral and burial expenses are any payments made by you, like prepaid expenses.
-
-[component text input label] Enter the amount you paid for funeral or burial expenses in 2022 (*Required)
-
-
-
-[button pair] [<< Back] [Continue >>]
-
-
-
-
----
-## Step 3 Insurance information
----
-
-### Page: Medicaid 
-
-#### URL: health-care/apply/application/insurance-information/medicaid
-
-[p] Medicaid is a federal health insurance program for adults and families with low income levels and people with disabilities.
-
-[p] **Note:** Some states use different names for their Medicaid programs.
-
-[component radio select]
-
-[label] Are you eligible for Medicaid?(*Required)
-
-[radio select options]
-- Yes
-- No
-
-[button pair] [<< Back] [Continue >>]
-
----
-
-### Page: Medicare 
-
-#### URL: health-care/apply/application/insurance-information/medicare
-
-[p] Medicare is a federal health insurance program providing coverage for people who are 65 years or older or who meet who meet special criteria. Part A insurance covers hospital care, skilled nursing and nursing home care, hospice, and home health services.
-
-[component radio select]
-
-[label] Are you enrolled in Medicare Part A (hospital insurance)?(*Required)
-
-[radio select options]
-- Yes
-- No
-
-[button pair] [<< Back] [Continue >>]
-
----
-
-### Page: Medicare Effective Date
-
-#### URL: health-care/apply/application/insurance-information/medicare-part-a-effective-date
-
-
-[component progress bar]
-[h2] Step 5 of 6: Insurance information
-[end progress bar]
-
-[component date select]
-
-[label] What is your Medicare Part A effective date?(*Required)
-
-[hint text] You’ll find this date under “coverage starts” on the front of your Medicare card.
-
-[dropdowns for: month, day] [ input for year]
-[end date component]
-
-[component number input]
-
-[label] What is your Medicare claim number?(*Required)
-
-[hint text] You’ll find this number on the front of your Medicare card. Enter all 11 numbers and letters.
-
-[additional info component]
-
-[label] Why we ask for this information
-
-[content] 
-
-[p] We use your Medicare claim number to keep track of the health care services that Medicare covers. We use your claim number when we need to create a Medicare explanation of benefits.
-
-[p] We don’t bill Medicare for any services. By law, Medicare can’t pay for our services. But this explanation shows what Medicare would have paid for services if they could.
-
-[p] We may need to bill medicare supplemental insurance or a private insurance provider for certain services. And some providers must have this explanation before they’ll pay the bill.
-
-[p] **Note:** Having Medicare or other health insurance doesn’t affect the VA health care benefits you can get. And you won’t have to pay any unpaid balance that a health insurance provider doesn’t cover.
-
-
-[end additional info component]
-
-[text input]
-
-[error message] Please enter a valid 11-character Medicare claim number
-
-
-[button pair] [<< Back] [Continue >>]
-
-
-
---- 
-
-### Page: Health insurance
-
-#### URL: health-care/apply/application/insurance-information/general
-
-[component progress bar]
-[h2] Step 5 of 6: Insurance information
-[end progress bar]
-
-
-[p] Health insurance includes any coverage that you get through a spouse or significant other. Health insurance also includes Medicare, private insurance, or insurance from your employer.
-
-
-[label] Do you have health insurance coverage?(*Required)
-
-[additional info component]
-
-[title] Why we ask this information
-
-[content]
-
-[p] We ask for this information for billing purposes only. Your health insurance coverage doesn’t affect the VA health care benefits you can get.
-
-[p] Giving us your health insurance information helps you for these reasons:
-
-[ul]
-
-We must bill your private health insurance provider for any care, supplies, or medicines we provide to treat your non-service-connected conditions. If you have a VA copayment, we may be able to use the payments from your provider to cover some or all of your copayment.
-Your private insurance provider may apply your VA health care charges toward your annual deductible. Your annual deductible is the amount of money you pay toward your care each year before your insurance starts to pay for care.
-
-[end ul]
-
-[END additional info component]
-
-
-[radio select options]
-Yes
-No
-
-
-[CONDITIONAL - uses old list-and-loop pattern]
-
-[component text input label]  Name of insurance provider(*Required)
-
-[component text input label] Name of policyholder (the person whose name the policy is in)(*Required)
-
-
-[class="schemaform-block-title schemaform-block-subtitle vads-u-margin-top--6 vads-u-margin-bottom--2 vads-u-color--primary-darkest"  ? ] 
-Provide either your insurance policy number or group code. (*Required)
-
-[additional info component]
-
-[label] I have TRICARE. What’s my policy number?
-
-[content] 
-
-[p] You can use your Department of Defense benefits number (DBN) or your Social Security number as your policy number.
-
-[p] Your DBN is an 11-digit number. You’ll find this number on the back of your military ID card.
-
-[END additional info component]
-
-
-[component text input label] Policy Number
-[hint text] Either this or the group code is required
-
-[schemaform-block-title schemaform-block-subtitle vads-u-margin-bottom--neg2p5 vads-u-color--primary-darkest] Or
-
-[component text input label] Group Code
-[hint text] Either this or the policy number is required
-
-[button secondary] Add another insurance policy
-[END CONDITIONAL CONTENT]
-
-
-[button pair] [<< Back] [Continue >>]
 
 
 --- 
