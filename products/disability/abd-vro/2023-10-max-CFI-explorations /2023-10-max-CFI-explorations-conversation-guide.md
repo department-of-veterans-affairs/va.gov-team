@@ -3,11 +3,6 @@ Moderator logistics
 Zoom setup
 
 Login
-How to login to Zoom 5 
-- Go to https://zoom.us/ and ensure you enter using a Google Chrome Web browser
-- Email address to enter is: dsvazoomfour@perigeantechnologies.com
-- Password to enter is: p3rigeaN2020!
-*Ensure that you are recording to the account cloud*
  
 Access the scheduled session
 - Once logged in you will come to the main account page
