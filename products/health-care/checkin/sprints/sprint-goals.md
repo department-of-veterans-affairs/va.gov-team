@@ -105,6 +105,8 @@ ________________________________________________________________________________
             -  ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Pull out Wireframes into Own Sketch Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65868)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Create Feature Flag 'check-in-experience-45-minute-check-in-reminder'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65836)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Update CHIP to Set eCheckInStarted Status when Reminder Link Clicked & Veteran has Authenticated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65910)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Support the Push out a Check-in SMS Message to a Veteran 45-minutes Before an In-person Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63529)
+                 - Add halfway through the sprint (removed tech debt update dependencies as a result)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Pre-Check-in: Tell Veteran that a Check-in Reminder will be Texted to Them 45-minutes before their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65832)
                 - Blocked by https://github.com/department-of-veterans-affairs/va.gov-team/issues/65868
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65840)
@@ -130,7 +132,8 @@ ________________________________________________________________________________
     - ~![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Remove Cancelled appointment message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59639)~
         - Removed from Sprint, changed to a SPIKE ticket for the next sprint
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Cancelled Appointment Message Change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65962)
-    - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] - Update dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65691)
+    - ~![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] - Update dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65691)~
+         - Removed from Sprint because we pulled in other 45-minute CHIP work
     - **Sub Goal: Implement Product Guide Feedback**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Guides based on Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65298)
     - **Sub Goal: Align with Design System Recommendations**
