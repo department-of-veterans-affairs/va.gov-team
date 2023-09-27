@@ -78,8 +78,8 @@ We are reasonably confident in these assumptions because:
 **Testing**: Currently, there isn’t a non-technical mechanism for triggering push notifications for testing purposes. 
 * Mitigation: Get access to a push notification testing suite from VANotify(if it exists?) and create a QA process for testing push notifications
 
-**Version discrepancies**: Some app versions may not be able to get notifications 
-* Mitigation: Ensure that there are other ways that Veterans can stay informed about their interactions with VA. For example, using an improved home screen experience that effectively conveys the Veteran’s interactions with VA or communicating with Veterans using other mediums (email, mail, etc.)
+**Version discrepancies**: Different versions have different features so behavior after interacting with a push notification could be different  
+* Mitigation: Ensure that version-based edge cases are considered when implementing each notification
 
 **Lack of partner support:** VANotify could stop supporting push notifications for mobile, in addition to web
 * Mitigation: Engaging with VANotify early and often to determine if a contingency plan is needed, if VANotify no longer supports push notifications
