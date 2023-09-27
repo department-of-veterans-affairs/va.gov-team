@@ -214,16 +214,12 @@ c) No (disqualify)
  b) I am comfortable using screen readers  
  c) I am still learning how to use screen readers  
 
-8.  **Are you comfortable filling out a form with financial information while screen sharing?**  
-  a) Yes  
-  b) No (disqualify)
-
-9. **Please select the statement(s) that apply to you: (Check all that apply)**  
+8. **Please select the statement(s) that apply to you: (Check all that apply)**  
   a) I am currently experiencing financial hardship.  
   b) I have experienced financial hardship in the past.  
   c) I am not currently experiencing financial hardship.  
 
-10. **Please select the statement(s) that apply to you: (Check all that apply)**  
+9. **Please select the statement(s) that apply to you: (Check all that apply)**  
   a) I have VA medical copay currently or in the past  
   b) I have VA overpayment debt currently or in the past  
   c) I have never had VA medical copay or overpayment debt  
