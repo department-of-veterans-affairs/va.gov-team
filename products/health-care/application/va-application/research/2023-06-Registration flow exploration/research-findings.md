@@ -185,11 +185,14 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/research-plan-mental-model.md)
 
-[Conversation guide](link here)
+[Conversation guide - cohort 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort2.md)
 
-[Interview transcripts](link here)
+
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/transcripts)
+
+[Team notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/team-notes)
 
 
 ## Tools used for Synthesis
@@ -202,6 +205,7 @@ _If there are demographics that were not included in this study or you discovere
 ## Other supporting documents created
 
 - [Mural with paper form instructions](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690928150976/0ce17c5b63ed3a2fd75736ac481d2d6e31fd927b?sender=uadf1ed7fe7c76f0914967329)
+
 
 ## Secondary research
 
