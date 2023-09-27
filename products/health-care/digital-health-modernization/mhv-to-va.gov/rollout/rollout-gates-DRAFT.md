@@ -59,7 +59,6 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 	- What is "needed" is agreed upon jointly by OCC Product Owner and OCC owners, with support from OCC leadership
 - [ ] Verify - Any major feature improvements have been tested and completed the collaboration cycle
 - [ ] Add a URL path from MHV’s app to the new apartment app: “Hi, we’re building a new version of this application. Try it out! Give us feedback.”
-- [ ] Connect Phase 1 app to MHV on VA.gov Landing page (on flipper)
 - [ ] Review Mural above to ensure all other connections have been made
 - [ ] Check with identity and access teams to review pathways into application are not blocked
 - [ ] Meet with communications, change management, training groups to give demos and to ensure materials are ready.
@@ -106,6 +105,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 - [ ] Delineate and test escalation pathways for triaging downstream issues.
 - [ ] Partner with teams below to ensure they are ready to make any necessary changes:
 	- [ ] Sitewide (VA.gov)
+ 	- [ ] Cartographers (MHV on va.gov landing page)
  	- [ ] Auth Experience (My VA)
   	- [ ] Notify / VEText
   	- [ ] Flagship mobile
