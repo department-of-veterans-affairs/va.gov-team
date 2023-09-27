@@ -10,7 +10,7 @@ Agenda
   -  Design System: Availability Framework
 
 
-- Slides - [[Sprint 80 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12742120/Sprint.80.-.VA.Mobile.App.Demo.Slides.pdf)
+- Slides - [Sprint 80 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12742120/Sprint.80.-.VA.Mobile.App.Demo.Slides.pdf)
 
 
 - Video - (too large to upload)
