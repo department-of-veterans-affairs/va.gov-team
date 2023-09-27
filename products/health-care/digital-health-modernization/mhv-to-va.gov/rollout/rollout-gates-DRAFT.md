@@ -31,7 +31,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 - [ ] Has been reviewed by product owners and they have acknowledged that requirements have been met
 	- Product owners includes the OCC product owner, OCTO product/design/engineering leads 
 - [ ] Has been reviewed by clinical or other SMEs and they have acknowledged that it adheres to legal and/or policy requirements, governance standards
-- [ ] Go/no go team has been established & go-no-go meeting scheduled
+- [ ] Go/no go team has been established & go-no-go meeting scheduled. (Please work with Lauren's EA and OCC's exec team to schedule to ensure that all folks can make it). 
 	- [ ] Go no go agenda prepared ([see example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/Secure%20Messaging%20Go-No-Go%20Updated%20Live%2071723.docx) )
 - [ ] Trusted users have been identified
 - [ ] Go/No Go meeting conducted
