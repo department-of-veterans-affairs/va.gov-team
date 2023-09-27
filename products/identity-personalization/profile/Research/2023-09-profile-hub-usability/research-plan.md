@@ -218,12 +218,12 @@ We would like to **request a kick-off meeting with Perigean** to go over the rec
 
 ### Prepare
 
-- Prototype date finalized on: TBD
+- Prototype date finalized on: October 3
 * Pilot participant email: TBD
 * Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research: TBD
+* Planned dates of research: Beginning October 11
 
 ### Length of sessions
 
@@ -242,7 +242,11 @@ We would like to **request a kick-off meeting with Perigean** to go over the rec
 
 ### Availability
 
-TBD
+| Date       | Times (Eastern) |
+| ---------- | --------------- |
+| 10/11/2023 | 9am - any time |	
+| 10/12/2023 | 9am - any time |
+| 10/13/2023 | 9am - 3pm |
  
 ## Team Roles	
 
