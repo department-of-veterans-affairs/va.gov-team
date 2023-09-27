@@ -80,6 +80,7 @@ Other forms are gathered accordingly...
 Finally, once all the docs have been gathered, they are submitted (one way or another) to the Lighthouse API's PUT `getPDF` endpoint
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/6614071c-f7bf-481a-957a-d1508b8a1162)
 
+### Miscellany 
 
 Full diagram as SVG
 ![526 Submission Workflow - full](https://user-images.githubusercontent.com/92405130/268407152-5922ae45-fc78-44f4-b08c-1d5a599fea01.svg)
