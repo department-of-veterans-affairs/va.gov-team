@@ -160,7 +160,6 @@ VA leadership is not clear on how exactly to make this possible and they’re st
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 -   Providing Veteran’s with a link to their ILER record will help us meet the letter of the law on the legislative requirements outlined above.
-- there should be a desired business outcome related to making the benefit application process more efficient if data is available through pre-fill
 -  Veteran records will be more accurate if Veterans are able to update their own information. If veterans are able to update their information, this would reduce errors in their records.
 
 ### Undesired Business Outcomes
@@ -174,8 +173,9 @@ We don’t want to spend time and resources developing highly complex support st
 
 ### Phase 1: Read Access 
 This is focused on read access to two things, 1)  ILER and 2) military record data
-Create a button to generate a veteran’s ILER pdf/text file  
-Get veterans read access to as many of the key data elements as possible (currently 6 of 8)
+- Give Veterans access to a PDF version of their ILER report
+- Get veterans read access to as many of the key data elements as possible (currently 6 of 8)
+
 
 ### Phase 2: Edit Access 
 
