@@ -1,7 +1,14 @@
 # Health Portal Integrated Navigation
 Secondary Navigation Research Report
 
-## Executive Summary:
+**On this page:**
+- [Executive Summary](#executive-summary)
+- [What do current VA.gov secondary navigation designs look like?](#current-designs)
+- [What would health portal navigation look like with these designs?](#health-designs)
+- [Problems with current secondary navigation options](#problems)
+- [What's next?](#next)
+
+## <a name="executive-summary"></a>Executive Summary<br>
 
 When all MHV on VA.gov tools (Secure Messaging, Appointments, Medications, and Medical Records) reach Phase 2, they will be fully integrated into the VA.gov experience. At that point, we need to implement a secondary navigation strategy that helps users navigate between the tools and the MHV on VA.gov landing page, so that they experience it as a seamless portal. 
 
@@ -24,8 +31,8 @@ A successful solution SHOULD:
 * In the "try me" phase and beyond, FAQ content within the tools themselves can be migrated to pages in the Resources & Support section on VA.gov, where most FAQ-type content lives across VA.gov. Without that content, most tool-level landing pages will be bare & less helpful, so they can and should be eliminated. This will require some navigation restructuring within the tools. Those changes need to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
 * Now that the integration of tools on VA.gov has been delayed to Phase 2, significant pressure will be put on this solution to be successful at launch. While the tools will have phases 0 & 1 to receive and respond to user feedback, all features that will not launch until complete tool integration will go live to large numbers of users well past the "try me" phase. They will be very consequential at launch. Because of this, we need to do significant user testing prior to that date to understand whether these designs are working for our user base. 
 
+## <a name="current-designs"></a>What do current VA.gov secondary navigation designs look like?<br>
 
-## What do current designs look like on VA.gov? 
 ### Desktop - general template:
 <img width="1147" alt="Screenshot 2023-09-20 at 10 49 46 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/a7970d62-88d2-4094-b6f1-03e4b182e97d">
 
@@ -40,7 +47,7 @@ A successful solution SHOULD:
   <img width="706" alt="Screenshot 2023-09-20 at 10 27 16 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/aba6c9be-05a6-44f6-971b-0f0a40a4b013">
 </p>
 
-## What would health portal navigation look like with these designs?
+## <a name="health-designs"></a>What would health portal navigation look like with these designs?<br>
 We mocked-up what the MHV on VA.gov planned secondary navigation structure would look like using the two secondary navigation designs in use on VA.gov. There are some important differences between the two designs. 
 
 ### Desktop
@@ -51,7 +58,7 @@ We mocked-up what the MHV on VA.gov planned secondary navigation structure would
   <img width="765" alt="Screenshot 2023-09-22 at 9 46 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/64f2e2e6-1958-44fb-87c4-d81fa101724b">
 </p>
 
-## Problems with current secondary navigation options
+## <a name="problems"></a>Problems with current secondary navigation options<br>
 The existing sidenav component is not fully supported by the Design System, and implementations are likely inconsistent across VA.gov. The component was created to mimic the sidenavigation native to VA.gov's content management system (CMS), Drupal. Most pages across VA.gov display the Drupal version. 
 
 
@@ -122,6 +129,6 @@ Past issue tickets have captured problems with the secondary navigation design. 
 * Naming convention not unique for this component: [#59760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59760)
 * Button lacks context to communicate that it will open a menu: [#28698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28698)
 
-## What's Next? 
+## <a name="next"></a>What's next?<br>
 Related to this documentation effort, is a [competitive analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694530015144/bb1ff2600f6e417f2c58abe793f158119aaac44a?sender=uf94a77a19aaf687331c09367) on secondary navigation patterns on the larger web. Results of that analysis will inform low-fidelity design explorations for an improved secondary navigation solution. 
 
