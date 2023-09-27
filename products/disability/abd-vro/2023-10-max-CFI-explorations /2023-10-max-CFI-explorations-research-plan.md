@@ -1,4 +1,4 @@
-Research Plan for the Employee Experience Team, Maximum CFIs Explorations, September 26, 2023
+# Research Plan for the Employee Experience Team, Maximum CFIs Explorations, September 26, 2023
 Background
 The VA receives many claims for increase (CFIs) for conditions where a Veteran is already at the maximum rating for that condition. In most cases, the condition will be “confirmed and continued” by a claims processor. We’d like to reduce the amount of time claims processors spend on these contentions by reducing the number of claims for increase Veterans file in this situation.
 
