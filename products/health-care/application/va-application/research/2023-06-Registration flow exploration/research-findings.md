@@ -283,7 +283,7 @@ Race:
 * Native: x
 
 
-Disability and Assistive Technology (AT):
+Disability and Assistive Technology (AT): Unknown - Interview study
 * Cognitive: x
 * AT beginner: x
 * AT advanced user: x
