@@ -23,8 +23,11 @@ My colleagues and I work on VA.gov - making improvements to the site so that Vet
 
 Before we start, I have a few things that I want to go over with you:
 This entire session should take about 60 minutes. I want to be sure that we end on time, so I may occasionally prompt you with the next question or topic.
+
 In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+
 Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+
 I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. Are you okay with a couple of additional observers during this session?
  If no: Use Slack to kindly ask the observers to leave the Zoom.
  If yes: Admit observers.
@@ -45,11 +48,14 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 Warm-up Questions (Optional) - 5 minutes
 Before we look at the website, let’s start with a few background questions.
+
 Talk to me about your past experience using VA.gov?
+
 Could you tell me about the types of benefits you are receiving from the VA at this time? 
  
  If they are getting disability compensation from the VA right now, ask:
 About how many conditions are you receiving benefits for?
+
 If you’re comfortable sharing this information, what are some of those conditions?
 
 Great! Now let’s get into evaluating some prototypes.
@@ -85,12 +91,19 @@ Observe how the participant makes it to the rated disabilities screen…
 
 Screen 3 (View my Rated Disabilities Screen)
 I have a few questions for you on this screen.
+
 What is this screen telling you? What is your initial impression of it?
+
 What can you tell me about the conditions on this screen?
+
 What do you think about your eligibility for more benefits?
+
 Can you tell me about which conditions are already at the maximum rating?
+
 What do you think you would do after reading the message about ratings at the highest level?
+
 What do you think you might do after reviewing this screen?
+
 This is the last screen for this prototype. Before we go to the next one, can you tell me if reading that information would influence your decision to file a claim for increase? 
 
 Things to watch for:
@@ -117,13 +130,20 @@ Talk me through what you would do on this screen.
 
 Screen 5 (Select conditions)
 Thanks for that! I have a few questions for you on this screen before you proceed.
+
 What can you tell me about the conditions on this screen?
+
 What do you think about your eligibility for more benefits?
+
 Can you tell me about the header that mentions maximum ratings - what does that mean to you?
+
 What does the phrase ‘Maximum Possible Rating’ mean to you?
+
 What do you think you would do next?
+
 Encourage participant to open expando if they have not already
 What is this text telling you? What do you think you would do after reading it?
+
 This is the last screen for this prototype. Before we go to the next one, can you tell me if reading that information would influence your decision to file a claim for increase? 
 
 Things to watch for:
@@ -150,15 +170,24 @@ Talk me through what you would do on this screen.
 
 Screen 5 (Select conditions)
 Thanks for that! I have a few questions for you on this screen before you proceed.
+
 What can you tell me about the conditions on this screen?
+
 What do you think about your eligibility for more benefits?
+
 Can you tell me about the messaging for Tinnitus and what you think it means?
+
 What do you think you would do after reading that message about Tinnitus?
+
 Encourage participant to select ‘Tinnitus’ even if they say they wouldn’t.
+
 Can you tell me what this page is about?
 Encourage participant to open expando if they have not already
+
 What is this text telling you? 
+
 What do you think you would do next?
+
 This is the last screen for this prototype. Before we go to the next one, can you tell me if reading that information would influence your decision to file a claim for increase? 
 
 Things to watch for:
@@ -170,14 +199,17 @@ Now that you’ve looked at the two different prototypes, can you tell me about 
 Between these two prototypes, which do you think would be more likely to influence your decision about whether or not to submit a claim for increase on Tinnitus?
 
 Consent to use video clips
+
 I want to circle back and re-confirm that you are comfortable if we were to share a video clip of this session with our VA partners? Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
  If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 Thank-You and Closing - 5 minutes
+
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. I just want to check once more that you are still feeling good about us using your feedback or if you would like to redact anything we discussed today?
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 Thank you so much again, and enjoy the rest of your day!
 
 Emergency Exit
+
 Well, we have covered all of the questions I had for you today. Thank you so much for your time and feedback! 
 [In case the session was activating for the Veteran and they need further immediate support afterwards, instruct them to dial 988 and press 1]
