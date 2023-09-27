@@ -3,13 +3,6 @@
 
 ## Background
 
-Briefly describe the background of your product. Consider:
-
--   What problem is your product trying to solve?
-    
--   Where is your product situated on VA.gov? (ex: auth vs. unauth)
-    
--   What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
     
 #### Participants will log in to a test account on staging.
 
@@ -20,8 +13,6 @@ Staging link: [https://staging.va.gov/manage-va-debt/request-debt-help-form-5655
 #### We believe it is important to help Veterans using screen readers maximize efficiency, build proficiency, enable auditory scannability, and allow a level of flexibility as they progress through the form.
 
 ### OCTO Priorities
-
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
 This research supports OCTO priorities 1, 2, 3, 4, and 5. This research especially supports number 4 for an experience that is usable by Veterans who use screen readers.
 
@@ -67,8 +58,6 @@ What are you trying to learn from this research?
     
 
 ### Outcome
-
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
 -   #### We believe the results from the study will help inform accessibility best practices for our team going forward.
     
@@ -155,7 +144,7 @@ For moderated usability tests:
 
 -   [Link to conversation guide](url goes here)
     
--   [Link to staging URL] ([https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction))
+-   Link to staging URL: [https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
     
 
   
@@ -231,14 +220,14 @@ c) No (disqualify)
   b) No (disqualify)
 
 9. **Please select the statement(s) that apply to you: (Check all that apply)**  
-  a) I am currently experiencing financial hardship.
-  b) I have experienced financial hardship in the past.
-  c) I am not currently experiencing financial hardship.
+  a) I am currently experiencing financial hardship.  
+  b) I have experienced financial hardship in the past.  
+  c) I am not currently experiencing financial hardship.  
 
 10. **Please select the statement(s) that apply to you: (Check all that apply)**  
-  a) I have VA medical copay currently or in the past
-  b) I have VA overpayment debt currently or in the past
-  c) I have never had VA medical copay or overpayment debt
+  a) I have VA medical copay currently or in the past  
+  b) I have VA overpayment debt currently or in the past  
+  c) I have never had VA medical copay or overpayment debt  
     
 **Follow Up Call:**
 
