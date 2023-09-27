@@ -255,7 +255,7 @@ We would like to **request a kick-off meeting with Perigean** to go over the rec
 - Moderator: Pam Drouin
 - Research guide writing and task development: Pam Drouin
 - Participant recruiting & screening:	Perigean
-- Project point of contact: Pam Drouin (pamela.drouin@a1msolutions.com)
+- Project point of contact: Pam Drouin - pamela.drouin@a1msolutions.com
 - Participant(s) for pilot test: TBD
 - Accessibility specialist: TBD
 - Note-taker: Team
