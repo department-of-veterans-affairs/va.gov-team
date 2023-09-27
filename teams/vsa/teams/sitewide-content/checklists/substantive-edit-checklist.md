@@ -38,6 +38,9 @@ These consistencies are recommendations, rather than rules. They outline common 
 + [ ] Introductions end with a statement describing the content on the rest of the page
   + Example: "Learn more about your health care benefits."
 + [ ] Introductions are followed by a call to action link
+### Featured content
++ [ ] Featured content only include eligibility information
++ [ ] Featured content isn't too long
 ### Table of contents
 + [ ] Tables include 3 or more H2s
 + [ ] Tables exclude H2s for sections that link to other webpages
