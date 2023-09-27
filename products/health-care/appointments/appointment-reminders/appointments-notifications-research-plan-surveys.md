@@ -23,29 +23,28 @@ This research fits into these points of a Veteran’s journey:
 The focus of this study is to figure out what notifications Veterans find the most helpful for them when managing their appointments and appointment-related tasks so that our team can prioritize what to build and test first among the list of notifications below.
 
 Here’s a list of appointment notifications that include what exists today and what we expect Veterans might need: 
-
-•	Routine reminders to schedule appointments (e.g., annual physical exam) 
-•	Request submitted
-•	Appointments successfully scheduled confirmation (with dates, time, and location and how to modify)
-•	Referral 
-•	Appointments denied or for some reasons could not be scheduled (with next steps, and why (e.g., community care eligibility requirements)
-•	Unable to contact Veterans to discuss the appointment
-•	Reminder for upcoming appointments
-•	Notify early appointment slot openings
-•	Confirm and fill out pre-check-in and any questionnaires
-•	Cancellation by VA
-•	Cancellation confirmation by Veterans
-•	Any changes about appointments
-•	Reschedule confirmation
-•	Updates on pending appointments
-•	Check-in reminder
-•	Checked in confirmation
-•	Next steps for failed check-in
-•	File for travel reimburse
-•	Travel claims submission confirmation (submission confirmation and failed submission with next steps)
-•	Travel claim approved
-•	AVS ready to view 
-•	Outstanding co-pay bills
+- Routine reminders to schedule appointments (e.g., annual physical exam)
+- Request submitted
+- Appointments successfully scheduled confirmation (with dates, time, and location and how to modify)
+- Referral
+- Appointments denied or for some reason could not be scheduled (with next steps, and why (e.g., community care eligibility requirements)
+- Unable to contact Veterans to discuss the appointment
+- Reminder for upcoming appointments
+- Notify early appointment slot openings
+- Confirm and fill out pre-check-in and any questionnaires
+- Cancellation by VA
+- Cancellation confirmation by Veterans
+- Any changes to appointments
+- Reschedule confirmation
+- Updates on pending appointments
+- Check-in reminder
+- Checked in confirmation
+- Next steps for failed check-in
+- File for travel reimburse
+- Travel claims submission confirmation (submission confirmation and failed submission with next steps)
+- Travel claim approved
+- AVS ready to view
+- Outstanding co-pay bills
 
 The second goal is to find out how Veterans would like to receive notifications, for example, notifications can be sent separately, or notifications can be combined and sent in one email. 
 
@@ -53,19 +52,23 @@ The second goal is to find out how Veterans would like to receive notifications,
 This research will inform updates to the appointment notifications experience and help prioritize what appointment notifications to build first.
 
 ### Research questions
-1.	Which appointment notifications are helpful for Veterans the most and the least? 
-2.	How do Veterans prefer to receive their notifications? 
-3.	What formats (text, email, phone call, or push notifications) do Veterans prefer to receive and for which notifications? 
-4.	How do Veterans feel about receiving appointments and appointment-related notifications?
+1. Which appointment notifications are helpful for Veterans the most and the least?
+2. How do Veterans prefer to receive their notifications?
+3. What formats (text, email, phone call, or push notifications) do Veterans prefer to receive and for which notifications?
+4. How do Veterans feel about receiving appointments and appointment-related notifications?
 
 ### Hypothesis
-•	Some Veterans might not know how to manage their notifications, which causes them to receive no notifications or too many notifications. 
-•	For a straightforward appointment (without canceling or rescheduling or other difficulties), Veterans only need 4 notifications, which are a reminder, check-in, AVS, and money-related (e.g., copay and travel pay) notifications. 
-•	Veterans expect to receive email, text, and phone call notifications. 
-•	Veterans might want to add their caregivers’ emails and phone numbers to receive notifications. 
+- Some Veterans might not know how to manage their notifications, which causes them to receive no notifications or too many notifications.
+- For a straightforward appointment (without canceling or rescheduling or other difficulties), Veterans only need 4 notifications, which are a reminder, check-in, AVS, and money-related (e.g., copay and travel pay) notifications.
+- Veterans expect to receive email, text, and phone call notifications.
+- Veterans might want to add their caregivers’ emails and phone numbers to receive notifications. 
 
 ## Methodology	
+
+#### Survey - Kano Analysis
+
 Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a survey activity that contains, respectively, 20-25 questions  (or less than 15 mins) for Veterans that may experience when getting appointment notifications. 
+
 There are a total of 71 questions, and we will divide them up into 3 surveys due to the length of the questions. So, two of the surveys have 23 questions, and one survey has 25 questions. 
 We would like to get complete responses from at least 35 Veterans for each survey, in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL. 
 
@@ -74,7 +77,7 @@ This will be a survey that participants fill out remotely and asynchronously.
 
 ### Research materials
 
-- [Link to email with instructions](url goes here)
+Cohort links
 - [Link to prototype or OptimalSort session for group A](url goes here)
 - [Link to prototype or OptimalSort session for group B](url goes here)
 	
@@ -82,24 +85,173 @@ This will be a survey that participants fill out remotely and asynchronously.
 We will work with Perigean to handle the recruitment, scheduling, and compensation of Veterans and caregivers. 
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+For each survey, we will ask Perigean to recruit 63 people using the cohorts below to get at least 35 completes, which means we need to recruit 189 people in total to get 105 complete results.
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-**Primary criteria (must-haves)**
+We will schedule a total of 24 Veterans for an expected completion rate of 18-20 interviews. 
 
+|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
+|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
+|       189     |         105      |   162  |     0       |    27    |        0      | 
+
+### Criteria Table
+What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+|                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|
+|----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|***SEX***       |            |        |        |        |        |        |        |        |      
+|*Various*       |    16      |        |        |        |        |        |        |        |       
+|Male            |            |        |        |        |        |        |        |        |     
+|Female          |    8       |        |        |        |        |        |        |        |       
+|***LGBTQ+***    |            |        |        |        |        |        |        |        |    
+|*Various*       |            |        |        |        |        |        |        |        |      
+|Gay             |            |        |        |        |        |        |        |        |       
+|Lesbian         |            |        |        |        |        |        |        |        |      
+|Bisexual        |            |        |        |        |        |        |        |        |        |        |         |
+|Asexual         |            |        |        |        |        |        |        |        |        |        |         |
+|Transgender     |            |        |        |        |        |        |        |        |        |        |         |
+|Non-Binary      |            |        |        |        |        |        |        |        |        |        |         |
+|Gender-fluid    |            |        |        |        |        |        |        |        |        |        |         |
+|Queer           |            |        |        |        |        |        |        |        |        |        |         |
+|Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
+|***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
+|*Various*       | 24         |        |        |        |        |        |        |        |        |        |         |
+|Black           |            |        |        |        |        |        |        |        |        |        |         |               
+|White           |            |        |        |        |        |        |        |        |        |        |         |                 
+|Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
+|Asian           |            |        |        |        |        |        |        |        |        |        |         |                 
+|Native          |            |        |        |        |        |        |        |        |        |        |         |                
+|Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
+|***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |    14      |        |        |        |        |        |        |        |        |        |         |
+|18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |     10     |        |        |        |        |        |        |        |        |        |         |
+|      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
+|Disability      |            |        |        |        |        |        |        |        |        |        |         |
+|Education       |            |        |        |        |        |        |        |        |        |        |         |    
+|Employment      |            |        |        |        |        |        |        |        |        |        |         |
+|Finances        |            |        |        |        |        |        |        |        |        |        |         |
+|Healthcare      |    15      |        |        |        |        |        |        |        |        |        |         |
+|Housing         |            |        |        |        |        |        |        |        |        |        |         |
+|Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
+|Memorialization |            |        |        |        |        |        |        |        |        |        |         |
+|Pension         |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |      
+|***BRANCH***    |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|Marine Corps    |            |        |        |        |        |        |        |        |        |        |         |
+|Army            |            |        |        |        |        |        |        |        |        |        |         |
+|Navy            |            |        |        |        |        |        |        |        |        |        |         |
+|Air Force       |            |        |        |        |        |        |        |        |        |        |         |
+|Space Force     |            |        |        |        |        |        |        |        |        |        |         |
+|Coast Guard     |            |        |        |        |        |        |        |        |        |        |         |
+|Nat. Guard      |            |        |        |        |        |        |        |        |        |        |         |
+|Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |    24      |        |        |        |        |        |        |        |        |        |         |
+|Elementary      |            |        |        |        |        |        |        |        |        |        |         |
+|Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
+|GED             |            |        |        |        |        |        |        |        |        |        |         |
+|High School     |            |        |        |        |        |        |        |        |        |        |         |
+|Some College    |            |        |        |        |        |        |        |        |        |        |         |
+|Associate's     |            |        |        |        |        |        |        |        |        |        |         |
+|Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
+|Masters         |            |        |        |        |        |        |        |        |        |        |         |
+|Professional    |            |        |        |        |        |        |        |        |        |        |         |
+|Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |      18    |        |        |        |        |        |        |        |        |        |         |
+|Urban           |            |        |        |        |        |        |        |        |        |        |         |
+|Rural           |      6     |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|Desktop         |     12     |        |        |        |        |        |        |        |        |        |         |
+|Laptop          |            |        |        |        |        |        |        |        |        |        |         |
+|Smartphone      |     12     |        |        |        |        |        |        |        |        |        |         |
+|Tablet          |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
+|VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |     16     |        |        |        |        |        |        |        |        |        |         |
+|Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
+|ID.me           |            |        |        |        |        |        |        |        |        |        |         |
+|Login.gov       |            |        |        |        |        |        |        |        |        |        |         |
+|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
+|***ID PROOF***  |            |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
+|IAL1            |            |        |        |        |        |        |        |        |        |        |         |
+|IAL2            |            |        |        |        |        |        |        |        |        |        |         |
+|IAL3            |            |        |        |        |        |        |        |        |        |        |         |
+
+
+|                                                             |Participants| 
+|-------------------------------------------------------------|:----------:|
+|***ASSISTIVE TECH***                                         |            | 
+|*Various*                                                    |            |
+|Font resizing/larger                                         |            |
+|Screen reader                                                |            |
+|Braille terminal                                             |            |
+|Speech recognition sftw                                      |            |
+|Speech generating device                                     |            |
+|Speech to text                                               |            |
+|High contrast mode                                           |            |
+|Alternative keyboard                                         |            |
+|Alternative mouse or stylus                                  |            |
+|Keyboard only navigation (no mouse usage)                    |            |
+|Switch access, head pointer, or eye tracking                 |            |
+|Joystick                                                     |            |
+|Teletypewriter or telecommunication device for the deaf (TTY)|            |
+|Closed captions                                              |            |
+|Amplified telephone                                          |            |
+|Hearing aid                                                  |            |
+|Cochlear implant                                             |            |
+|Cane, walker, guide animal, or other walking aid             |            |
+|Wheelchair                                                   |            |
+|Prosthetics                                                  |            |
+|Wearable tech (not prosthetic)                               |            |
+|Augmentive and alternative communication device              |            |
+|Sign language interpreter                                    |            |
+|Speech-to-speech transliterator                              |            |
+|Visual aids                                                  |            |
+|Writing on paper                                             |            |
+|Typing with phone or tablet and showing it to others         |            |
+|Caregiver                                                    |            |
+|                           ---                               |     ---    |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |     9      |
+|*Various*                                                    |            |
+|Traumatic Brain Injury (TBI)                                 |            |
+|Post-Traumatic Stress Disorder (PTSD)                        |            |
+|Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
+|Autism                                                       |            |
+|Vertigo                                                      |            |
+|Aphasia                                                      |            |
+|Dyslexia                                                     |            |
+|Dyscalculia                                                  |            |
+|Distractibility                                              |            |
+|Memory loss                                                  |            |
+|Reading difficulties                                         |            |
+|Low tolerance for cognitive overload                         |            |      
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
-
 - 9/28: Kristen reviews for approval
 - 9/28: Submit to research ops for approval
 - 9/29: Pilot session (scheduled)
