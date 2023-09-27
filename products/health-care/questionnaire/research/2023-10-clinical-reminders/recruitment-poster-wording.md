@@ -1,4 +1,4 @@
-Title: Did you answer questions online to help your provider prepare for you appointment today? If so, we are interested in hearing from you. Get PAID for your feedback!
+Title: Did you answer questions online to help your provider prepare for your appointment today? If so, we are interested in hearing from you. Get PAID for your feedback!
 
 VA Contract Numbers: 36C10B22C0011 & 36C10X18C0061
 
