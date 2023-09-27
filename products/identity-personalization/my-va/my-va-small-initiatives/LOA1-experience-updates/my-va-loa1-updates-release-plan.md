@@ -2,13 +2,13 @@
 
 ### Table of Contents
 - [Phase I: UAT](#Phase-i-uat)
-- [Phase II: Staged Rollout](#Phase-ii-staged-rollout)
+- [Phase II: Standard Rollout](#Phase-ii-rollout)
 - [Go Live!](#Go-Live)
 
 ## Phase I: UAT
 Not applicable - team conducted internal testing.
 
-## Phase II: Staged Rollout
+## Phase II: Rollout
 
 ### Planning
 **Launch Go/No-go:** 
