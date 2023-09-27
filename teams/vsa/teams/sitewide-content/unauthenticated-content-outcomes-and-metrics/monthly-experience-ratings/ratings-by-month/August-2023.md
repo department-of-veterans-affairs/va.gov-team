@@ -34,7 +34,7 @@ All pages have ratings of 2 or below.
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 - [In-state tuition rates under the Veterans Choice Act](www.va.gov/resources/in-state-tuition-rates-under-the-veterans-choice-act/) (100% good out of 29 total responses)
-- [Eligibility for communicty care outside VA](www.va.gov/resources/eligibility-for-community-care-outside-va/) (95% good out of 22 total responses)
+- [Eligibility for community care outside VA](www.va.gov/resources/eligibility-for-community-care-outside-va/) (95% good out of 22 total responses)
 - [Commissary and exchange privileges for Veterans](www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (95% good out of 231 total responses)
 - [What does burial in a VA national cemetery include](www.va.gov/resources/what-does-burial-in-a-va-national-cemetery-include/) (95% good out of 55 total responses)
 - [VEText for VA health care reminders and updates](www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/) (94% good out of 353 total responses)
@@ -51,7 +51,7 @@ All pages have ratings of 2 or below.
 - [The PACT Act and your VA benefits](www.va.gov/resources/the-pact-act-and-your-va-benefits/) (79% good out of 5570 total responses)
 - [Your intent to file a VA claim](www.va.gov/resources/your-intent-to-file-a-va-claim/) (74% good out of 3154 total responses)
 - [How to check in with your smartphone for some VA appointments](www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (89% good out of 1141 total responses)
-- [VEText for VA health care reminders and updates](www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/TOTAL)
+- [VEText for VA health care reminders and updates](www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/TOTAL) (94% good out of 353 total responses)
 - [Commissary and exchange privileges for Veterans](www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (95% good out of 231 total responses)
 
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
@@ -62,3 +62,17 @@ All pages have ratings of 2 or below.
 - [How to file a VA travel reimbursement claim online](www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/) (30% out of a 107 total responses)
 
 ## Analysis
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20August%202023.xlsx?d=w4d97fdf2c0ba4e0fbcb5d10658d565e8&csf=1&web=1&e=92tNQA)
+
+- As a whole, R&S is just under our goal of 75% or higher "good" ratings, with a 73% "good" average rating.
+- Performance isn't as high when broken down to individual pages:
+   - 19% of pages are scoring at 90% or higher "good"
+   - 42% of pages are meeting our goal of 75% or higher "good," while 51% of pages are scoring 70% or higher
+- 25% of pages are scoring at less than 50% "good," with 3% scoring at less than 10% "good"
+- 2 of the top-scoring pages are related to the PACT Act and presumptive conditions (with the presumptive conditions list page getting a 90% "good" score). PACT-related content continues to perform exceptionally well.
+- Health care content is generally among the highest-scoring content in both experience ratings (1-5) and "good"/"bad" ratings, with the exception of travel pay reimbursement.
+- Most of the lowest-scoring pages revolve around these 3 themes, all of which have known issues beyond content. We should still pull Medallia data on these pages to identify any potential content pain points.
+  - Checking your claim status online
+  - Travel pay reimbursement
+  - Sign in and identity (including privacy and security)
+- The helpful phone numbers page continues to be one of our lowest-scoring pages by volume of responses. We need to pull Medallia data and review this page to identify any potential content pain points.
