@@ -16,8 +16,8 @@ Period - 10/11/2023 - 10/24/2023
          - **If unblocked**
             - [ ] Submit error fixes
         - Benefits Claims Service
-         - [ ] Canary launch?
-         - [ ] Start staggered release at .1%
+            - [ ] Canary launch?
+            - [ ] Start staggered release at .1%
        - PPIU - Direct Debit 
             - [ ] Release plan ticket? 
 - **Features**
