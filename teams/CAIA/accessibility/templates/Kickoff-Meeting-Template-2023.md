@@ -1,4 +1,4 @@
-# CAIA Kickoff:Team Name Goes Here
+# CAIA Kickoff: Team Name Goes Here
 ## Meeting Details
 - **Date**: DayoftheWeek, Month Day, Year
 - **Time**: 00:00 – 00:00 a.m./p.m. Timezone
