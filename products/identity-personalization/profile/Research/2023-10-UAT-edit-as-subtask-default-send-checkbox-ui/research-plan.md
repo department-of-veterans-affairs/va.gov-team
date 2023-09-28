@@ -1,4 +1,4 @@
-# Research Plan: Profile multi-feature UAT, September 2023
+# Research Plan: Profile multi-feature UAT, October 2023
 
 ## Background  
 Over the last 3 months, we’ve worked on improvements related to our notification settings feature, and how users update profile information while in the middle of another task.  They’re closely related, and will be part of the same release so we are conducting UAT on all 3 features at once. 
