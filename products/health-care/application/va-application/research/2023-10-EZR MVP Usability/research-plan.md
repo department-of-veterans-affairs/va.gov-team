@@ -49,7 +49,18 @@ These learnings will allow us to evaluate for additional gaps during the rollout
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+
+#### Goal 1: **Predilled information** - Test the usability of the prefilled form fields to see if Veterans understand what information needs to be updated, that the information is prefilled and information can be changed.
+
+- Do participants understand that information is prefilled?
+- Are the alerts about prefilled information at the beginning of each section effective and understandable for participants?
+- Do participants understand that they can change the information that's prefilled?
+- What is the impact on participants who need to update only one section of the form vs. more than one section of the form?
+
+#### Goal 2: **Financial information update** - Test the usability of the Household/financial information section of the form to see if Veterans understand what they need to provide since that section is never prefilled.
+
+#### Goal 3: **Financial information update notification** - Determine how a Veteran knows or would like to know they need to update the household/financial section.
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
