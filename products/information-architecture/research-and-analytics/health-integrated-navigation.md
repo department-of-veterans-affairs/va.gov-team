@@ -5,7 +5,7 @@ Secondary Navigation Research Report
 - [Executive Summary](#executive-summary)
 - [What do current VA.gov secondary navigation designs look like?](#current-designs)
 - [What would health portal navigation look like with these designs?](#health-designs)
-- [Problems with current secondary navigation options](#problems)
+- [Problems with these options](#problems)
 - [What's next?](#next)
 
 ## <a name="executive-summary"></a>Executive Summary<br>
@@ -58,7 +58,7 @@ We mocked-up what the MHV on VA.gov planned secondary navigation structure would
   <img width="765" alt="Screenshot 2023-09-22 at 9 46 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/64f2e2e6-1958-44fb-87c4-d81fa101724b">
 </p>
 
-## <a name="problems"></a>Problems with current secondary navigation options<br>
+## <a name="problems"></a>Problems with these options<br>
 The existing sidenav component is not fully supported by the Design System, and implementations are likely inconsistent across VA.gov. The component was created to mimic the sidenavigation native to VA.gov's content management system (CMS), Drupal. Most pages across VA.gov display the Drupal version. 
 
 
