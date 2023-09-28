@@ -313,7 +313,7 @@ Please list the people who will be serving in each role. Include the primary pho
 
 -   Moderator: Charlotte Cesana
     
--   Research guide writing and task development (usually but not always same as moderator): Charlotte Cesana
+-   Research guide writing and task development (usually but not always same as moderator): Charlotte Cesana, Megan Gayle
     
 -   Participant recruiting & screening: Charlotte Cesana, Megan Gayle
     
