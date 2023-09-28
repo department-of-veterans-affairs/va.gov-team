@@ -39,8 +39,9 @@
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-- CTA button click for NEW download event | N/A | TBD | Link to Data Source
-- CTA button click for CURRENT print confirmation page event | Baseline: 89 clicks out of 564 submissions
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- CTA button click for NEW download event | Baseline: N/A | Target: TBD | Link to Data Source: TBD
+- CTA button click for CURRENT print confirmation page event | Baseline: 89 clicks out of 564 submissions| Link to Data Source: TBD
 ---
 
 ## Discovery
