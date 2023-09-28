@@ -167,13 +167,16 @@ May apply to the scope of this project:
 - **Q4:** Push Notification Strategy (Timing TBD)
 
 ## Measuring success<sub>1</sub> 
-**Right-sizing interaction with Claims** reflects that two opposing types of engagement are currently appearing in app analytics: 1) Some Veterans repeatedly check the same claim when it is in the same step, and 2) Some Veterans don’t see a claim when it has moved into a new step or do not view it until several days after the step change occurred. How these two areas can be measured is elaborated on in the sections below. **User satisfaction** with their ability to keep up with claim progress will be assessed via app store reviews and potential future qualitative research or in-app surveying.
+**Right-sizing interaction** with Claims reflects that two opposing types of engagement patterns are currently appearing in app analytics: 
 
-<sub>1 New analytics went into production on August 1, 2023, that enable more detailed measuring of interaction with the Claims feature. All baseline measures listed here are from August 1 to September 22, 2023. Final baselines for comparison post-implementation of any product changes will be updated at that point.</sub>
+1. **Repeated checking:** Some Veterans repeatedly check the same claim when it is in the same step. 
 
-#### Engagement pattern 1: Some Veterans repeatedly check the same claim when it is in the same step.
+2. **Missed or delayed updates**: Some Veterans don’t see a claim when it has moved into a new step or do not view it until several days after the step change occurred.
 
-When a claim is in progress (Steps 1-4), app users view the same claim in the same step at varying rates depending on what specific step it is in as displayed in the table below. This is a proxy for the level of manual, active effort Veterans must exert to know when the status of their claim has changed via the app. While the median values range from 3-4, the average and distribution 
+How these two areas can be measured is elaborated on in the sections below.  User satisfaction with their ability to keep up with claim progress will be assessed via app store reviews and potential future qualitative research or in-app surveying.
+Engagement pattern 1: Repeated checking
+A repeat check is defined as a claim being viewed multiple times when no change in step has occurred. Repeat check rates vary depending on what specific step it is in as displayed in the table below. The final measure of success and comparison metric will account for step-specific variations and user tenure with the app.
+
 
 <table>
   <tr>
