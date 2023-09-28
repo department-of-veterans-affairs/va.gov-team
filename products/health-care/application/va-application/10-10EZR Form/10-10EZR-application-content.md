@@ -62,16 +62,7 @@ Expiration date: **06/30/2024**
 [button secondary] Privacy Act statement (_popup_)
 
 
-[component form need help, health care] 
 
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
 
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
@@ -115,20 +106,6 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
-
-
-
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
-
 
 
 
@@ -191,19 +168,6 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 
 
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
-
-
-
 
 ------------------------------------------------------------------------------
 ## Step 1 Veteran Information - Veteran Home Address
@@ -253,19 +217,6 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 
 
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
-
-
-
 
 
 ------------------------------------------------------------------------------
@@ -303,18 +254,6 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 
 
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
-
-
 
 
 ------------------------------------------------------------------------------
@@ -348,18 +287,6 @@ You can also call your VA medical center (find a VA location tool) to get help c
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
-
-
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
 
 
 
@@ -413,18 +340,6 @@ Month Day Year (dropdowns)
 
 
 
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
-
-
 
 ------------------------------------------------------------------------------
 ## Step 2 Veteran household financial information - spouse additional information 
@@ -463,18 +378,6 @@ Month Day Year (dropdowns)
 
 
 
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
-
-
 
 ------------------------------------------------------------------------------
 ## Step 2 Veteran household financial information - spouse additional support
@@ -508,19 +411,6 @@ Month Day Year (dropdowns)
 
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
-
-
-
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
 
 
 
@@ -572,18 +462,6 @@ An unmarried child (including adopted children or stepchildren)
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
-
-
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
 
 
 
@@ -649,18 +527,6 @@ Month Day Year (dropdowns)
 
 
 
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
-
-
 
 
 
@@ -696,18 +562,6 @@ Month Day Year (dropdowns)
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
-
-
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
 
 
 
@@ -752,19 +606,6 @@ Month Day Year (dropdowns)
 
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
-
-
-
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
 
 
 
@@ -813,18 +654,6 @@ One-time payment financial support
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
-
-
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
 
 
 
@@ -891,16 +720,6 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 
 
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
 
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
@@ -967,18 +786,6 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 
 
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-[END component form need help, health care] 
-
-
 
 ------------------------------------------------------------------------------
 ## Step 2 Veteran household financial information - Spouse's annual income 
@@ -1040,17 +847,6 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
-
-
-
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 
 
@@ -1131,17 +927,6 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 
 
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-
-
 
 
 ------------------------------------------------------------------------------
@@ -1183,17 +968,6 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 
 
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-
-
 
 ------------------------------------------------------------------------------
 ## Step 3 Insurance information - Medicare
@@ -1227,17 +1001,6 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
-
-
-
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 
 
@@ -1278,14 +1041,6 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 
 
-[component form need help, health care] 
-
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
-
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
-
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 
 ------------------------------------------------------------------------------
@@ -1347,16 +1102,169 @@ Your private insurance provider may apply your VA health care charges toward you
 
 
 
-[component form need help, health care] 
 
-[h2] Need help?
-[p] **If you have trouble using this online form,** call our MyVA411 main information line at 800-698-2411 _(link)_  (TTY: 711) _(link)_. We’re here 24/7.
+------------------------------------------------------------------------------
+## Step 3 Insurance information - Insurance Policy
+------------------------------------------------------------------------------
 
-**If you need help to gather your information or fill out your form,** [contact a local Veterans Service Organization (VSO)](https://www.va.gov/vso/).
+### Page: Insurance Policy - AUTHENTICATED View (CONDITIONAL - New Policy)
 
-**If you have questions about VA health care**, call our Health Eligibility Center at 877-222-8387 _(link)_  (TTY: 711) _(link)_ . We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+#### URL: /health-care/----/household-information/-------
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 3 of 4: Insurance information
+[end progress bar]
 
-[END component form need help, health care] 
+[H3] Insurance policy information
+
+[CONDITIONAL - uses old list-and-loop pattern]
+
+[legend title] Non-reimbursable medical expenses
+
+[component text input label]  Name of insurance provider(*Required)
+
+[component text input label] Name of policyholder (the person whose name the policy is in)(*Required)
+
+[legend title] Provide either your insurance policy number or group code
+
+[additional info component]
+[add info label] I have TRICARE. What’s my policy number?
+
+[content] 
+
+[p] You can use your Department of Defense benefits number (DBN) or your Social Security number as your policy number.
+
+[p] Your DBN is an 11-digit number. You’ll find this number on the back of your military ID card.
+
+[END additional info component]
+
+
+[component text input label] Policy Number
+[hint text] Either this or the group code is required
+
+[b] Or
+
+[component text input label] Group Code
+[hint text] Either this or the policy number is required
+
+[button secondary] Add another insurance policy
+[END CONDITIONAL CONTENT]
+
+[button secondary] Cancel adding dependent
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+------------------------------------------------------------------------------
+## Step 6 Review
+------------------------------------------------------------------------------
+
+URL: health-care/---------review-and-submit
+Page: Review
+
+
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 3 of 4: Insurance information
+[end progress bar]
+
+
+[components accordions aligning with sections completed]
+
+
+[h3] Agreement
+
+[p] By submitting this application, you agree to these statements:
+
+[ul]
+You’ll pay any VA copays for care or services (including urgent care) that may apply, based on your priority group and other factors.
+You agree that we can contact you at the email, home phone number, and mobile phone number you gave us in the application.
+You agree to the assignment of benefits so we can bill your other health insurance or other responsible party for charges of non service-connected VA medical care or services.
+You’ve read and accept our privacy policy.
+[a = https://staging.va.gov/privacy-policy/]Read our privacy policy[/a]
+
+[additional information component]
+
+[label] Read more about the assignment of benefits
+
+[content]
+
+[p] I understand that pursuant to 38 U.S.C. Section 1729 and 42 U.S.C. 2651, the Department of Veterans Affairs (VA) is authorized to recover or collect from my health plan (HP) or any other legally responsible third party for the reasonable charges of nonservice-connected VA medical care or services furnished or provided to me. I hereby authorize payment directly to VA from any HP under which I am covered (including coverage provided under my spouse’s HP) that is responsible for payment of the charges for my medical care, including benefits otherwise payable to me or my spouse. Furthermore, I hereby assign to the VA any claim I may have against any person or entity who is or may be legally responsible for the payment of the cost of medical services provided to me by the VA. I understand that this assignment shall not limit or prejudice my right to recover for my own benefit any amount in excess of the cost of medical services provided to me by the VA or any other amount to which I may be entitled. I hereby appoint the Attorney General of the United States and the Secretary of Veterans' Affairs and their designees as my Attorneys-in-fact to take all necessary and appropriate actions in order to recover and receive all or part of the amount herein assigned. I hereby authorize the VA to disclose, to my attorney and to any third party or administrative agency who may be responsible for payment of the cost of medical services provided to me, information from my medical records as necessary to verify my claim. Further, I hereby authorize any such third party or administrative agency to disclose to the VA any information regarding my claim.
+
+
+[END additional information component] 
+
+[p] **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
+
+[checkbox label] I certify the information above is correct and true to the best of my knowledge and belief. (*Required)
+
+[button pair] [<< Back] [Submit application]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+------------------------------------------------------------------------------
+Confirmation
+------------------------------------------------------------------------------
+### Page: Confirmation
+
+#### URL: health-care/- - - --/confirmation
+
+[h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+
+[component alert success]
+
+[h2] You've submitted your Health Benefits Update Form (VA Form 10-10EZR)
+
+[p] Once we’ve reviewed your submission, we'll update your information and contact you if there are any changes to your current health care benefits.
+[END component alert]
+
+
+[blue background info alert]
+
+[h4] Your application information
+
+[div bold] Who submitted this form [div class] [Veteran’s inputted first and last name]
+
+[div bold] Confirmation number [div class] [confirmation number]
+
+[div bold] Date submitted [div class] [date]
+
+[div bold] Confirmation for your records [div class] [date] 
+You can print this confirmation page for your records.
+
+[button primary] Print this page
+
+
+
+
+[END blue background]
+
+
+[h2] How will I know if my information was updated?
+
+[p] Your information may take up to 5 business days to process.  If the information you provided changes your eligibility for health care benefit, you’ll receive communication form the VA:
+
+[h2] How will I know if my information was updated?
+
+[p] Your information may take up to 5 business days to process.  If the information you provided changes your eligibility for health care benefit, you’ll receive communication form the VA:
+
+
+
+[h2] What to do if you have questions now
+
+[p] Call our Health Eligibility Center at  877-222-8387. We’re here Monday through Friday, 8:00 a.m. until 8:00 p.m. ET.
+
+[Primary Button] Go back to VA.gov
 
 
 
@@ -1412,9 +1320,6 @@ Provide either your insurance policy number or group code. (*Required)
 
 [button secondary] Add another insurance policy
 [END CONDITIONAL CONTENT]
-
-
-[button pair] [<< Back] [Continue >>]
 
 
 
@@ -2038,135 +1943,4 @@ No
 
 [button pair] [<< Back] [Continue >>]
 
----
-
-
-
----
-## Step 6 Review
----
-
-URL: health-care/apply/application/review-and-submit
-Page: Review
-
-
-[component progress bar]
-[h2] Step 6 of 6: Review application
-[end progress bar]
-
-
-
-[components accordions aligning with sections completed]
-
-
-[h3] Agreement
-
-[p] By submitting this application, you agree to these statements:
-
-[ul]
-You’ll pay any VA copays for care or services (including urgent care) that may apply, based on your priority group and other factors.
-You agree that we can contact you at the email, home phone number, and mobile phone number you gave us in the application.
-You agree to the assignment of benefits so we can bill your other health insurance or other responsible party for charges of non service-connected VA medical care or services.
-You’ve read and accept our privacy policy.
-[a = https://staging.va.gov/privacy-policy/]Read our privacy policy[/a]
-
-[additional information component]
-
-[label] Read more about the assignment of benefits
-
-[content]
-
-[p] I understand that pursuant to 38 U.S.C. Section 1729 and 42 U.S.C. 2651, the Department of Veterans Affairs (VA) is authorized to recover or collect from my health plan (HP) or any other legally responsible third party for the reasonable charges of nonservice-connected VA medical care or services furnished or provided to me. I hereby authorize payment directly to VA from any HP under which I am covered (including coverage provided under my spouse’s HP) that is responsible for payment of the charges for my medical care, including benefits otherwise payable to me or my spouse. Furthermore, I hereby assign to the VA any claim I may have against any person or entity who is or may be legally responsible for the payment of the cost of medical services provided to me by the VA. I understand that this assignment shall not limit or prejudice my right to recover for my own benefit any amount in excess of the cost of medical services provided to me by the VA or any other amount to which I may be entitled. I hereby appoint the Attorney General of the United States and the Secretary of Veterans' Affairs and their designees as my Attorneys-in-fact to take all necessary and appropriate actions in order to recover and receive all or part of the amount herein assigned. I hereby authorize the VA to disclose, to my attorney and to any third party or administrative agency who may be responsible for payment of the cost of medical services provided to me, information from my medical records as necessary to verify my claim. Further, I hereby authorize any such third party or administrative agency to disclose to the VA any information regarding my claim.
-
-
-[END additional information component] 
-
-[p] **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
-
-[checkbox label] I certify the information above is correct and true to the best of my knowledge and belief. (*Required)
-
-[button pair] [<< Back] [Submit application]
-
-
-
-
-
-
-
-
-
-
-
---- 
-### Page: Confirmation
-
-#### URL: health-care/apply/application/confirmation
-
-[h1] Apply for VA health care
-
-[subtitle] Form 10-10EZ
-
-[component alert success]
-
-[h2] Thank you for completing your application for health care
-
-[p] Once we’ve successfully received your application, we’ll contact you to tell you what happens next in the application process.
-[END component alert]
-
-
-[blue background info alert]
-
-
-[h2] Your application information
-
-
-[div bold] Veteran’s name
-[div class] [Veteran’s inputted first and last name]
-
-
-[div bold] Date you applied
-[div class] [date]
-
-
-[div bold] Confirmation for your records
-[div class] [date] You can print this confirmation page for your records.
-
-
-[button primary] Print this page
-
-
-[END blue background]
-
-
-[h2] What to do if you have questions now
-
-[p] If we haven’t contact you within a week after you submitted your application, please don’t apply again:
-
-[ul]
-Please call our toll-free hotline at 877-222-8387. We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-[END ul]
-[a = ] Learn more about what happens after you apply[/a].
-
-
-[h2] How can I check the status of my application?
-
-[p] Sign in with one of these verified accounts:
-[ul]
-Login.gov
-ID.me
-Premium My HealtheVet
-Premium DS Logon
-[END ul]
-
-[p] Then go back to the health care application introduction page. You’ll find your application status at the top of the page.
-
-[component action link green] Go to health care application page
-
-[h2] How will I know if I’m enrolled in VA health care?
-
-[p] If enrolled, you’ll receive a Veterans Health Benefits Handbook in the mail within about 10 days.
-
-[p] We’ll also call to welcome you to the VA health care program, help you with scheduling your first appointment, and answer any questions you may have about your health care benefits. 
-
-[a = https://staging.va.gov/health-care/after-you-apply/ ]Learn more about what happens after you apply [/a]
 
