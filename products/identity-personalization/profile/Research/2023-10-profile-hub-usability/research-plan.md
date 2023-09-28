@@ -105,16 +105,16 @@ We’d like to recruit 12 participants for a total of 8 completed sessions:
 
 - Cohort 1: Sighted desktop users who are NOT screen reader users 
 	- recruit 2, complete 1
-	- recruitment request ticket XXXX 
+	- recruitment request ticket for [Cohort 1](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/393)  
 - Cohort 2: Mobile users who are NOT screen reader users 
 	- recruit 3, complete 2
-	- recruitment request ticket XXXX 
+	- recruitment request ticket for [Cohort 2](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/394) 
 - Cohort 3: Screen reader desktop users 
 	- recruit 3, complete 2
-	- recruitment request ticket XXXX 
+	- recruitment request ticket for [Cohort 3](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/395) 
 - Cohort 4: Magnification users (desktop OR mobile) 
 	- recruit 4, complete 3 (2 must be desktop)
-	- recruitment request ticket XXXX 
+	- recruitment request ticket for [Cohort 4](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/396) 
 
 ### Recruitment criteria
 
@@ -139,7 +139,7 @@ Additionally, all participants:
 [Each cohort will have their own recruitment request ticket]
 
 ##### Cohort 1 – Sighted desktop users who are NOT screen reader users
-Recruitment request ticket XXXX (recruit 2, complete 1)
+Recruitment request ticket for [Cohort 1](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/393) (recruit 2, complete 1)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
@@ -151,7 +151,7 @@ Do you find it difficult to remember or learn new things, focus on a task, or ma
 > _Response option: text box (we need a minimum of 3 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
 ##### Cohort 2 – Mobile users who are NOT screen reader users
-Recruitment request ticket XXXX (recruit 3, complete 2)
+Recruitment request ticket for [Cohort 2](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/394) (recruit 3, complete 2)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
@@ -172,7 +172,7 @@ Do you find it difficult to remember or learn new things, focus on a task, or ma
 > _Response option: text box (we need a minimum of 3 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
 ##### Cohort 3 – Screen reader desktop users 
-Recruitment request ticket XXXX (recruit 3, complete 2)
+Recruitment request ticket for [Cohort 3](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/395) (recruit 3, complete 2)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
@@ -196,7 +196,7 @@ Do you find it difficult to remember or learn new things, focus on a task, or ma
 > _Response option: text box (we need a minimum of 3 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
 ##### Cohort 4 –  Magnification users (desktop OR mobile)
-Recruitment request ticket XXXX (recruit 4, complete 3)
+Recruitment request ticket for [Cohort 4](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/396) (recruit 4, complete 3)
 
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
