@@ -55,6 +55,13 @@ Accessibility Team: can help to make sure your product is accessible
 
 
 ## Meet the Teams
+### Accredited Representation Management Team
+- Holden Hinkle - lead engineer
+- Janelle Finnerty - senior UX researcher
+- Lesley - OCTO design research lead
+- Lindsay Li-Smith
+- Steve Albers
+
 ### CAIA Teams
 #### CAIA
 - Terry - Delivery Lead/PM
@@ -103,14 +110,6 @@ Accessibility Team: can help to make sure your product is accessible
 - Kick-off meetings
 - Redirect template
 - Best bets template
-
-## Accredited Representation Management Team
-- Holden Hinkle - lead engineer
-- Janelle Finnerty - senior UX researcher
-- Lesley - OCTO design research lead
-- Lindsay Li-Smith
-- Steve Albers
-
 
 ## Discussion Notes✍️
 
