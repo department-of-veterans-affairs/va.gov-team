@@ -12,7 +12,7 @@
 
 ### Day of the session
 
-#➡️ Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.  
+➡️ Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.  
 ➡️ Mute your Slack notifications.  
 ➡️ Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
@@ -25,7 +25,6 @@
  ➡️ In the Attendees section, make sure everyone except the participant is on mute.  
 ➡️ In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked  
 ➡️ Check your [screen sharing setup] and share permissions for participants.  
-➡️ Turn on captions before letting the participant into the call  
 ➡️ When the participant is ready, admit them from the waiting room and begin the session with the following intro*
 
 
@@ -123,25 +122,56 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 #### Task Overview
 
--   Imagine that you (as a Veteran) have a copay debt that you would like the VA to help with.
+-   Imagine that you (as a Veteran) have a copay debt that you are unable to pay and you would like the VA to help with.
     
 -   You have done some research and learned that you need to fill out the VA Form Financial Status Report Form.
     
 -   We will be asking you to fill out sections of this form where it will ask for things like your address and financial information.
     
--    Please do not use your personal information for these items. Please enter fake information.
+-   If you do not feel comfortable sharing any personal information, you can enter fake information.
     
 
- [Let’s go to that form.](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
+### Participant Tech Setup
+
+Next, I want to get our tech set up.
+
+- **We like to use transcription to improve our notes. However, this Zoom setting turns on Closed Captions in Zoom, which can be a problem for screenreaders. Would it be disruptive do have Closed Captions on?**
+
+- If no, turn on transcription.
+  
+- What device are you using to attend the session today?
+
+- What type of screenreader or other assistive technology are you using? (Voiceover? Something else?)
+
+- Does the device you're using have a screen to share?
+
+You will be interacting with a test account today. I will provide the login that you will need to enter.
+    
+- Now I'm going to have you share your screen so that we can go over it together.
 
 #### Screenshare prompt
 
--   So we can understand how you’re navigating this form, we’d like you to share your screen. Is this something you need help with?
-    
+-   So we can understand how you’re navigating this form, we’d like you to share your screen. 
+- *If participant cannot share their screen, walk them through screen sharing.*
+   - [Screenreader Screen Share Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist)
 
- [iPhone screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)  
+   - [iPhone screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)  
  
-[Android screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
+   - [Android screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
+
+
+
+**Would you prefer that I send the link to Zoom chat, to your email, or by another method?**
+- If another method, confirm their contact number/email address.
+
+
+##  Log in to VA.gov
+
+STARTING POINT:  [https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
+
+PROMPT: I will give you a user email and password that you can use to login.
+
+
 
 ## FSR (Streamlined Waiver) [Tasks - 30-40 minutes]
 
