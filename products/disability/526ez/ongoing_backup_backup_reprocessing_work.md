@@ -23,8 +23,37 @@ TODO - exact text?
 Fixed in Staging, needs testing
 
 ### Reusable test code:
-- endpoint?
-- request?
+
+First, find an example in production
+
+```
+subs = Form526Submission.where(submitted_claim_id: nil).where(backup_submitted_claim_id: nil); nil
+fails = subs.select { |sub| sub.form526_job_statuses.any? { |stat| stat['error_message']&.match?(/militaryPostOfficeTypeCode/) } }; nil
+```
+
+Once you have an example, get the form data and strip out all pii to generate a testable json payload for the next step
+
+```
+prod_example = JSON.parse(fails.first.form)
+```
+
+use your payload to test against the endpoint
+
+```
+# create a testable payload
+json = <whatever json payload you came up with>
+submission = Form526Submission.last
+submission.form_json = json.to_json
+submission.save!
+
+# run the adhoc task that tests this endpoint
+processor = Sidekiq::Form526BackupSubmissionProcess::Processor.new(submission.id, get_upload_location_on_instantiation: false, ignore_expiration: true)
+processor.gather_docs!
+
+# confirm the doc was upload to S3
+processor.docs # get filepath
+Reports::Uploader.get_s3_link(file_path) # get S3 link
+```
 
 
 ### Affected submissions: 142
