@@ -223,49 +223,49 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
-* Veterans: x 
+* Veterans: 10 
 * Caregivers: 0 
-* Family members of a Veteran: x  
+* Family members of a Veteran: 1  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 7 
+* Female: 3 
 
 
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+LGBTQ+: 
+* Transgender: Unknown
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: Unknown
+* Gay, lesbian, or bisexual: Unknown
 
 
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+Devices used during study: Not applicable - interviews
+* Desktop: Unknown 
+* Tablet: Unknown 
+* Smart phone: Unknown 
+* Assistive Technology: Unknown
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 0
+* 35-44: 4
+* 45-54: 2
+* 55-64: 3
+* 65+: 1
+* Unknown: 0
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 3
+* Some college (no degree): 5
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 0
+* Master's degree: 0
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
@@ -275,25 +275,25 @@ Geographic location:
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 2
+* Black: 5
+* Hispanic: 1
+* Biracial: 1
+* Asian: 2
+* Native: 1
 
 
 Disability and Assistive Technology (AT): Unknown - Interview study
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: Unknown
+* AT beginner: Unknown
+* AT advanced user: Unknown
+* Desktop screen reader: Unknown
+* Mobile screen reader: Unknown
+* Magnification/Zoom: Unknown
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: Unknown
+* Hearing aids: Unknown
+* Sighted keyboard: Unknown
+* Captions: Unknown
 
 
 ## Underserved groups we haven’t talked to 
