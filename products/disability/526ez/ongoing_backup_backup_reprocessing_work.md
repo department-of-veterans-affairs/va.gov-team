@@ -26,20 +26,20 @@ Fixed in Staging, needs testing
 
 First, find an example in production
 
-```
+```ruby
 subs = Form526Submission.where(submitted_claim_id: nil).where(backup_submitted_claim_id: nil); nil
 fails = subs.select { |sub| sub.form526_job_statuses.any? { |stat| stat['error_message']&.match?(/militaryPostOfficeTypeCode/) } }; nil
 ```
 
 Once you have an example, get the form data and strip out all pii to generate a testable json payload for the next step
 
-```
+```ruby
 prod_example = JSON.parse(fails.first.form)
 ```
 
 use your payload to test against the endpoint
 
-```
+```ruby
 # create a testable payload
 json = <whatever json payload you came up with>
 submission = Form526Submission.last
@@ -53,6 +53,11 @@ processor.gather_docs!
 # confirm the doc was upload to S3
 processor.docs # get filepath
 Reports::Uploader.get_s3_link(file_path) # get S3 link
+```
+
+If you need a specific peice of info to confirm a resubmission with EVSS or LH, you can get that from the submission headers, e.g.
+```ruby
+JSON.parse(submission.auth_headers["va_eauth_authorization"])['authorizationResponse']['edi'])
 ```
 
 
