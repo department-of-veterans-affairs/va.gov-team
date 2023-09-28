@@ -247,7 +247,7 @@ What does this page mean to you?
 
 What might be unclear to you?
 
-- *(RECORD all comments, especially about the date. Did they notice it? (Y/N)*
+- *(RECORD all comments, especially about the date. Did they notice it? Y/N)*
 
 Could you tell me what "presumptive conditions" are?
 
