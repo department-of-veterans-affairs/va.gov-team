@@ -12,7 +12,7 @@
    - #64807 get information about load testing of Lighthouse endpoints (ITF postmortem)
    - #65824 create unit test for 526ez that checks queued jobs process without error (526 claims submission stopped postmortem)
       - probably a low lift, but no rush to get this in since we have other methods to monitor submissions
-- Bug Triage meeting - move to 526 DatDog/monitoring check in as part of the Monitoring Playbook
+- Bug Triage meeting - move to 526 DataDog/monitoring check in as part of the Monitoring Playbook
    - try it out!
 - Toxic Exposure form data question
    - let's try and map it as close to the paper form as possible and identify any gaps/issues - with the form as is
