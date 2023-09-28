@@ -151,7 +151,7 @@ For moderated usability tests:
 
 ## Recruitment
 
-
+[Link to recruitment request](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/402)
 
 ### Recruitment approach
 
