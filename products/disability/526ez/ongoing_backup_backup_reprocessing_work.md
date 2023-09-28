@@ -7,10 +7,12 @@ Document remaining backup-backup resubmission work for context sharing and trans
 [This work follow this discovery and knowledge transfer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/526_failure_batching_and_triage_handoff.md).  The initial batch of ~40k submissions is down to about 500 at the time of writting this document.  These submissions are blocked by known EVSS validation errors.  As these failures are address, the resubmission and testing of these fixes will be documented here.
 
 ## Existing EVSS failures
-"java.lang.NullPointerException"=>365,
-"form526.submit.establishClaim.serviceError"=>118,
-"form526.veteran.currentMailingAddress.militaryPostOfficeTypeCode.IsNotValid"=>44,
-"form526.serviceInformation.reservesNationalGuardService.title10Activation.anticipatedSeparationDate.IsNotValid"=>15
+- 377 occurrences of - java.lang.NullPointerException
+- 44 occurrences of form526.veteran.currentMailingAddress.militaryPostOfficeTypeCode.IsNotValid (edited) 
+- 2 occurrences of form526.serviceInformation.reservesNationalGuardService.obligationTermOfServiceFromDate.IsNotValid
+- 118 occurrences of form526.submit.establishClaim.serviceError
+- 3 occurrences of gov.va.wss.partner,veteranrecord.ws.client.VeteranRecordWsClientException
+- 2 occurrences of form526.veteran.changeOfAddress,endingDate.IsNotValid
 
 ## WIP
 
