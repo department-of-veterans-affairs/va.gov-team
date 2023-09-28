@@ -60,6 +60,10 @@ Consider bucketing research questions under research goals. For each question, t
 
 #### Goal 2: **Financial information update** - Test the usability of the Household/financial information section of the form to see if Veterans understand what they need to provide since that section is never prefilled.
 
+- Do participants understand that they need to provide updated financial information?
+- Do the participants understand the impact of not providing an update?
+- Do the pariticipants struggle because this section isn't prefilled as opposed to other sections?
+
 #### Goal 3: **Financial information update notification** - Determine how a Veteran knows or would like to know they need to update the household/financial section.
 
 ### Hypothesis
