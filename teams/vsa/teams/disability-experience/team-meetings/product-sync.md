@@ -1,5 +1,19 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Sept 28' 2023       
+### Participants: 
+### Topics Covered:
+- Code Yellow Status - what's next / do we need to create a plan?
+- Priority of submission failure work vs ITF async
+- Priority of postmortem action tickets
+   - #64199 pull list of APIs timeouts (ITF postmortem)
+   - #64807 get information about load testing of Lighthouse endpoints (ITF postmortem)
+   - #65824 create unit test for 526ez that checks queued jobs process without error (526 claims submission stopped postmortem)
+- Bug Triage meeting - move to 526 DatDog/monitoring check in as part of the Monitoring Playbook
+- Toxic Exposure form data question
+- Sprint review for teams 1 & 2 - is it possible to move to Tuesdays to support better workflow for the teams
+
+
 ### Date: Sept 14' 2023       
 ### Participants: Rashinda, Austin, Emily, Shannon, Steve
 ### Topics Covered:
