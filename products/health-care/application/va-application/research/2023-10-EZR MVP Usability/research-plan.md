@@ -36,9 +36,9 @@ What are you trying to learn from this research?
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.*
 
-- Goal 1: Test the usability of the prefilled form fields to see if Veterans understand the information is prefilled and they can change it.
-- Goal 2: Determine if the there are any issues for Veterans who need to change one aspect (updating insuranc provider) of their information vs. many aspects (updating financial information and insurance provider).
-- Goal 3: Determine if Veterans understand what they can update after encountering the introduction page of the form.
+- Goal 1: **Predilled information** - Test the usability of the prefilled form fields to see if Veterans understand what information needs to be updated, that the information is prefilled and information can be changed.
+- Goal 2: **Financial information update** - Test the usability of the Household/financial information section of the form to see if Veterans understand what they need to provide since that section is never prefilled.
+- Goal 3: **Financial information update notification** - Determine how a Veteran knows or would like to know they need to update the household/financial section.
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
