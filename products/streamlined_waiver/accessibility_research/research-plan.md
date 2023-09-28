@@ -311,6 +311,8 @@ Wednesday Oct 18, 2023 - Friday, Oct 27, 2023
 
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
+*Please note: we would like Perigean to take notes on these sessions.* 
+
 -   Moderator: Charlotte Cesana
     
 -   Research guide writing and task development (usually but not always same as moderator): Charlotte Cesana, Megan Gayle
