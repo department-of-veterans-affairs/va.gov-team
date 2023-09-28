@@ -140,7 +140,7 @@ __VA forms stakeholder working group includes:__
 |Swearinger-Smith, Gail T. <Gail.SwearingerSmith@va.gov>|VHA forms admin|
 
 ### Forms DB
-Forms DB is in maintenance mode.
+Forms DB infrastructure is owned by Office of Information Technology (OIT). The Forms DB is in maintenance mode.
 - Reid, Kevin <Kevin.Reid@va.gov> -- Owner
 
 ### Lighthouse API Team
