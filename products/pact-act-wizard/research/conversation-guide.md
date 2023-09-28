@@ -241,11 +241,13 @@ Could you please select "Continue"?
 
 Please tell me about what you see here. 
 
+Why do you think you’re seeing this page? 
+
 What does this page mean to you?
 
-What is unclear or doesn't work well for you?
+What might be unclear to you?
 
-- *(RECORD all comments, especially about dates)*
+- *(RECORD all comments, especially about the date. Did they notice it? (Y/N)*
 
 Could you tell me what "presumptive conditions" are?
 
@@ -254,6 +256,7 @@ Could you tell me what "presumptive conditions" are?
 - *(After they read it...)* What do "presumptive conditions" mean to you?
 
 *RECORD other comments on “You may be eligible for VA benefits” page:*
+- *Any comments about the “Learn what to do next” link*
 
 
 *RECORD comments on “Apply for VA benefits now” page:*
