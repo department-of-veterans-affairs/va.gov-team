@@ -256,7 +256,7 @@ Could you tell me what "presumptive conditions" are?
 - *(After they read it...)* What do "presumptive conditions" mean to you?
 
 *RECORD other comments on “You may be eligible for VA benefits” page:*
-- *Any comments about the “Learn what to do next” link*
+- *“Learn what to do next” link*
 
 
 *RECORD comments on “Apply for VA benefits now” page:*
