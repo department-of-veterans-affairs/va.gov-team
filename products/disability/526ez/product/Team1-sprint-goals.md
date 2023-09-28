@@ -52,7 +52,7 @@ Period - 09/27/2023 - 10/10/2023
       - [ ] Teams 1 & 2 research effort - review medallia survey data
 
 - **Stretch Goals**
-      - [ ] Benefits Claims Release planning
+    - [ ] Benefits Claims Release planning
 
   If there is capacity, pick up:
   - [ ] Submit Dashboard - monitor sidekiq jobs
