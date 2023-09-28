@@ -1,16 +1,16 @@
 
 
 
-# Conversation Guide for [Debt Resolution Team, Streamlined Waiver (eFSR) Accessibility Study, September - October 2023]
+# Conversation Guide for Debt Resolution Team, Streamlined Waiver (eFSR) Accessibility Study, October 2023
 
-# [Moderator logistics](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/research/2023-09-form-header-usability-testing#moderator-logistics)
+# Moderator logistics
 
-### [2-3 days before the session](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/research/2023-09-form-header-usability-testing#2-3-days-before-the-session)
+### 2-3 days before the session
 
 -    Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
     
 
-### [Day of the session](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/research/2023-09-form-header-usability-testing#day-of-the-session)
+### Day of the session
 
 #➡️ Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.  
 ➡️ Mute your Slack notifications.  
@@ -20,7 +20,7 @@
 
 ----------
 
-### [Starting the session](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/research/2023-09-form-header-usability-testing#starting-the-session)
+### Starting the session
 
  ➡️ In the Attendees section, make sure everyone except the participant is on mute.  
 ➡️ In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked  
@@ -28,11 +28,11 @@
 ➡️ Turn on captions before letting the participant into the call  
 ➡️ When the participant is ready, admit them from the waiting room and begin the session with the following intro*
 
-# 
+
 
 ----------
 
-### [Intro - 5 minutes](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/research/2023-09-form-header-usability-testing#intro---5-minutes)
+### Intro - 5 minutes
 
 -   Welcome! Thank you so much for your time today.  
     How are you today?
@@ -65,7 +65,7 @@ Rapport building
 -   What do you like to do with your free time?
     
 
-#### [Observer consent](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/research/2023-09-form-header-usability-testing#observer-consent)
+#### Observer consent
 
 -   Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple of additional observers during this session?
     
@@ -82,20 +82,19 @@ Rapport building
 -    ➡️ admit observers and ask them to briefly introduce themselves
     
 
-#### [Recording consent](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/research/2023-09-form-header-usability-testing#recording-consent)
+#### Recording consent
 
 -   Are you comfortable if I record my screen and audio as we talk today?
     
 -   We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
     
 -   If yes:
-    
 
 -    Once I start recording, I am going to confirm that you are ok with me recording this session once more. ➡️ *Start recording
     
 -   I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-### [Warm-up Questions - 3-5 minutes](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/research/2023-09-form-header-usability-testing#warm-up-questions---3-5-minutes)
+### Warm-up Questions - 3-5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -106,7 +105,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 -   Have you had experience with filling out any online forms with the VA in the past?
     
 
--   If yes
+-   **If yes:**
     
 
 -   Can you tell me a little about the last time you filled out a form with the VA?
@@ -116,13 +115,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 -   Were you able to accomplish your goal?
     
 
--   If no
+-   **If no:**
     
 
 -   Were there any specific barriers?
     
 
-#### [Task Overview](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/research/2023-09-form-header-usability-testing#task-overview)
+#### Task Overview
 
 -   Imagine that you (as a Veteran) have a copay debt that you would like the VA to help with.
     
@@ -133,15 +132,16 @@ Before we look at the website, let’s start with a few warm-up questions.
 -    Please do not use your personal information for these items. Please enter fake information.
     
 
- [Let’s go to that form.](https://staging.va.gov/authorization-to-disclose-alternate/introduction)
+ [Let’s go to that form.](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
 
-#### [Screenshare prompt](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/research/2023-09-form-header-usability-testing#screenshare-prompt)
+#### Screenshare prompt
 
 -   So we can understand how you’re navigating this form, we’d like you to share your screen. Is this something you need help with?
     
 
- [iPhone screen share instructions  
-Android screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+ [iPhone screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)  
+ 
+[Android screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
 
 ## FSR (Streamlined Waiver) [Tasks - 30-40 minutes]
 
@@ -149,27 +149,23 @@ Android screen share instructions](https://depo-platform-documentation.scrollhel
 
 ### [Step 0 ] Introduction Page [Follow these steps to request help]
 
--   Please go ahead and take a look at the page.
     
 -   What would you say is the purpose of this page?
     
--   Please go ahead and start the form [if struggling, say: click "Start your application without signing in"]
+-   Please go ahead and start the form [if struggling, say: select "Start your application without signing in"]
     
 
 #### [Step 1 ] Veteran Information
 
--   Please go ahead and take a look at the page.
     
 -   Is there anything confusing on this page or something you are unsure of?
     
--   Please click continue
+-   Please select continue
     
 
   
 
-Debt Selection
-
-  
+#### Debt Selection
 
 -   What is this page asking you to do?
     
@@ -178,17 +174,17 @@ Debt Selection
 
   
 
-Contact Information
+#### Contact Information
 
   
   
 
-Spouse Information
+#### Spouse Information
 
   
   
 
-Your Spouse Information
+#### Your Spouse Information
 
   
   
@@ -198,7 +194,7 @@ Your Spouse Information
 
   
 
-Your Dependents
+#### Your Dependents
 
   
 
@@ -212,7 +208,7 @@ Your Dependents
   
   
 
-Dependents Ages
+#### Dependents Ages
 
   
 
@@ -233,7 +229,7 @@ Your job at [Name] - Date you started work at this job?
   
   
 
-Monthly income for [Job]
+**Monthly income for [Job]**
 
   
 
@@ -259,12 +255,12 @@ Your work history [summary card]
 
 -   What would you say is the purpose of this page?
     
--   Please click continue
+-   Please select continue
     
 
   
 
-Your VA benefits
+#### Your VA benefits
 
   
 
@@ -273,48 +269,45 @@ Your VA benefits
 
   
 
-Your other income
+#### Your other income
 
   
 
--   Please go ahead and take a look at the page.
     
 -   Is there anything confusing on this page or something you are unsure of?
     
--   Please click continue
+-   Please select continue
     
 
   
 
-Spouse’s work history
+#### Spouse’s work history
 
   
   
 
-Spouse’s VA benefits
+#### Spouse’s VA benefits
 
   
   
 
-Spouse’s Other Income
+#### Spouse’s Other Income
 
   
-
--   Please go ahead and take a look at the page.
     
--   s there anything confusing on this page or something you are unsure of?
+-   Is there anything confusing on this page or something you are unsure of?
     
--   Please click continue
+-   Please select continue
     
 
   
 
-Cash on Hand
+#### Cash on Hand
 
   
   
 
-Cash in Bank
+#### Cash in Bank
 
 #### [Step 3]: Transition Page
 
@@ -323,7 +316,7 @@ Cash in Bank
 -   Is there anything confusing on this page or something you are unsure of?
     
 
-#### [Step 4 ] Review Page
+#### [Step 4] Review Page
 
 -   What is this page asking you to do?
     
@@ -338,7 +331,7 @@ Cash in Bank
     
 -   Is there anything confusing on this page or something you are unsure of?
 
-## [Post-Task Interview - 5 minutes](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/conversation-guide.md#post-task-interview---5-minutes)
+## Post-Task Interview - 5 minutes
 
 -   Overall, how was your experience with the form?
     
@@ -346,13 +339,13 @@ Cash in Bank
     
 -   Were you ever confused about anything on the form?
     
--   If No
+-   **If No:**
     
 
 -   What made you confident?
     
 
--   If Yes
+-   **If Yes:**
     
 
 -   What would have helped make that more clear?
@@ -365,7 +358,7 @@ Cash in Bank
 
 ----------
 
-## [Thank-You and Closing - 2 minutes](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/conversation-guide.md#thank-you-and-closing---2-minutes)
+## Thank-You and Closing - 2 minutes
 
 -   We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
     
@@ -376,11 +369,11 @@ Cash in Bank
 
 ----------
 
-## [🚨 Emergency Exit 🚨](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/conversation-guide.md#-emergency-exit-)
+## 🚨 Emergency Exit 🚨
 
    
 
-#   
+### [Emergency exit flowchart](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1685027756036/00f385287f58fcb8675c155b5638c15e84f61536?sender=u144a57b408dc250f8de06881)  
   
 
 Helpful hints:
