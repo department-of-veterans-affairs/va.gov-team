@@ -110,7 +110,8 @@ ________________________________________________________________________________
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Pre-Check-in: Tell Veteran that a Check-in Reminder will be Texted to Them 45-minutes before their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65832)
                 - Blocked by https://github.com/department-of-veterans-affairs/va.gov-team/issues/65868
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65840)
-            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65841)
+            - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65841)
+                 - Made updte in Check In sketch file, but this is not ready to release yet. Pushed back into product backlog until ready to release.  
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - BACKEND BLOCKED BY OTHER TEAMS
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] - Create upcoming appointments component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62227)
