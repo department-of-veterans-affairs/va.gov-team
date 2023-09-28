@@ -158,11 +158,13 @@ For moderated usability tests:
 
 Inclusive recruitment prioritizing a full sample of **Veterans that use screen readers due to low vision or blindness**.
 
+**We would like to request a Kickoff Call with Perigean. 
+**
 ### Recruitment criteria
 
 List the total number and type (Veterans, caregivers, etc.) of participants for this study.
 
-**6 completed sessions with Veterans that use screen readers, please recruit 12 Veterans**
+**6 completed sessions with Veterans that use screen readers, please recruit 15 Veterans**
 
 Primary criteria (must-haves) What demographics, experience, and scenarios do you need participants to meet to effectively run your study?
 
