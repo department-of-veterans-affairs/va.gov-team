@@ -8,16 +8,16 @@ The appointments team is thinking of ways to better the future appointment notif
 ### OCTO Priorities 
 This research supports:
 
-•	Integrate health portal features into VA.gov
-•	Enhance Veterans' personalized online experience
+- Integrate health portal features into VA.gov
+- Enhance Veterans' personalized online experience
 
 ### Veteran Journey
 This research fits into these points of a Veteran’s journey: 
 
-•	Starting up 
-•	Taking care of myself 
-•	Retiring 
-•	Aging
+- Starting up
+- Taking care of myself
+- Retiring
+- Aging
 
 ## Research Goals	
 The focus of this study is to figure out what notifications Veterans find the most helpful for them when managing their appointments and appointment-related tasks so that our team can prioritize what to build and test first among the list of notifications below.
