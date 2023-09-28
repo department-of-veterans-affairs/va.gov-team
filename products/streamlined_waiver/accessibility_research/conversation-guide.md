@@ -25,7 +25,7 @@
  ➡️ In the Attendees section, make sure everyone except the participant is on mute.  
 ➡️ In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked  
 ➡️ Check your [screen sharing setup] and share permissions for participants.  
-➡️ When the participant is ready, admit them from the waiting room and begin the session with the following intro*
+➡️ When the participant is ready, admit them from the waiting room and begin the session with the following intro
 
 
 
@@ -72,7 +72,7 @@ Rapport building
 -    If no:
     
 
--    ➡️ use Slack to kindly ask the observers to leave the Zoom.*
+-    ➡️ use Slack to kindly ask the observers to leave the Zoom.
     
 
 -    If yes:
@@ -89,7 +89,9 @@ Rapport building
     
 -   If yes:
 
--    Once I start recording, I am going to confirm that you are ok with me recording this session once more. ➡️ *Start recording
+-    Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+  
+-    ➡️ *Start recording
     
 -   I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
@@ -169,7 +171,7 @@ You will be interacting with a test account today. I will provide the login that
 
 STARTING POINT:  [https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
 
-PROMPT: I will give you a user email and password that you can use to login.
+I will give you a user email and password that you can use to login.
 
 
 
