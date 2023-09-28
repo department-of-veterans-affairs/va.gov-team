@@ -1,7 +1,7 @@
-# CAIA Kickoff: Team Name Goes Here
+# CAIA Kickoff: [Team Name Goes Here]
 ## Meeting Details
-- **Date**: DayoftheWeek, Month Day, Year
-- **Time**: 00:00 – 00:00 a.m./p.m. Timezone
+- **Date**: [Day], [Month] [Date], [Year]
+- **Time**: [00:00] – [00:00] [a.m./p.m.] [Timezone]
 - [Zoom Link](x)
 - [Google Doc Version](x) (Access Required)
 - [Microsoft Word Version](x)
@@ -9,13 +9,13 @@
 
 ## About the CAIA Team
 ### Platform Governance Team
-The Platform Governance Team will assist you specifically through the Collaboration Style, to the launch of your product, via design intent, midpoint review and staging review. 
+The Platform Governance Team assists teams specifically through the Collaboration Style, to the launch of a product, via design intent, midpoint review and staging review. **[Remove if not part of the Collaboration Cycle]**
 
 ### Content Accessibility and Information Architecture (CAIA)
-CAIA’s  job is to make sure you are ready for those incremental steps, by partnering with you via our three different disciplines. We can work async or embed depending on the project. 
-Content Team: can help with plain language
-Information Architecture Team: can help it make sense
-Accessibility Team: can help to make sure your product is accessible
+CAIA’s  job is to make sure VFS teams are ready for those incremental steps of the Collaboration Cycle, through a partnership with CAIA's three different disciplines. CAIA can work async or embed with VFS teams, depending on the project. 
+- **Content Team:** can help with plain language
+- **Information Architecture Team:** can help it make sense
+- **Accessibility Team: **can help to make sure your product is accessible
 
 ## Starting the CAIA Process
 ### Process Initiated
@@ -34,8 +34,8 @@ Accessibility Team: can help to make sure your product is accessible
 
 
 ## Resources 🔗
-- **9/15/2023 Opened Collaboration Cycle Ticket: **
-- [ ] Collaboration Cycle Ticket #NumberLinked
+- **[xx/xx/20xx] Opened Collaboration Cycle Ticket: **
+- [ ] Collaboration Cycle Ticket [#NumberLinked] - if applicable
     - [ ] Design Intent ticket (TBD - as of Kickoff Meeting)
     - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
