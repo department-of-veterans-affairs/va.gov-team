@@ -269,9 +269,9 @@ Education:
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 6
+* Rural: 4
+* Unknown: 0
 
 
 Race:
@@ -298,13 +298,15 @@ Disability and Assistive Technology (AT): Unknown - Interview study
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+- [Recruitment checker spreadsheet](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1407998092)
 
+  
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Hispanic
+* Biracial
+* Cognitive Disability (Unknown from screener questions used)
+* LGBTQ+ (Unknown from screener questions used)
+* Other than honorable discharge, expat or living abroad (Unknown from screener questions used)
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+![Screenshot 2023-09-28 at 3 04 31 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/c2b46d1c-a0af-4fac-8592-dc807649e6f7)
