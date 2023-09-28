@@ -218,7 +218,7 @@ We would like to **request a kick-off meeting with Perigean** to go over the rec
 
 Availability:
 - Monday, October 2 between 9-11am Eastern
-- Wednesday, October 4 between 9-11am and 2-4pm Eastern
+- Wednesday, October 4 between 9-11am and 3-5pm Eastern
 
 ### Prepare
 
