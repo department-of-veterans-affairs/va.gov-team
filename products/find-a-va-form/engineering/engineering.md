@@ -4,8 +4,8 @@
 
 High level: 
 * **Forms DB** is the single source of truth for Form PDFs and Forms metadata. [Forms DB Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#va-forms-contacts)
-* Forms data (including URLs to PDF files) is migrated nightly from the Forms DB to Drupal CMS, into the VA Forms content type.
-* VA Forms API in Lighthouse then pulls Forms data from the Drupal CMS nightly.
+* Forms data (including URLs to PDF files) is migrated nightly from the Forms DB to Drupal CMS, into the VA Forms content type, via Drupal migration.
+* VA Forms API in Lighthouse then pulls Forms data from the Drupal CMS nightly, via sidekiq job.
 * [VA.gov Find a Form](https://www.va.gov/find-forms/) makes calls through vets-api to pull form data from the Lighthouse Forms API.
 * VA.gov Form Detail pages (e.g. https://www.va.gov/find-forms/?q=21-0966) display data housed in Drupal CMS.
 
@@ -13,7 +13,7 @@ High level:
 **Forms DB** [Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#va-forms-contacts)
 * Forms DB infrastructure is owned by Office of Information Technology (OIT).
 * Forms DB content is owned by Forms Managers from each VA administration.
-* Form PDFs are stored on servers managed by OIT. Form downloads from VA.gov point to files on OIT servers.
+* Form PDFs are stored on servers managed by OIT. Form downloads from VA.gov point to PDFs on OIT servers.
 
 **[Public Websites team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md#team)** is responsible for:  
 * VA Forms content model in Drupal
@@ -39,14 +39,14 @@ The path for data calls from `Veteran > VA.gov > vets-api > Lighthouse > deliver
 * VA Forms API Documentation: [VA Forms API](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4621) - Documentation for API that indexes data sourced from VA.gov, Lighthouse
 
 #### **API user/key:**
-Find Forms uses the `VAGOV` consumer's API key when routing through vets-api to get Lighthouse data. 
-The VAGOV consumer has access to 4 APIs (as of 9/2023), using 1 key. 
+Find Forms uses an API key that belongs to the `VAGOV` consumer. This key is used when routing through vets-api to get Lighthouse data. 
+The VAGOV consumer has access to 5 APIs (as of 9/2023).
 **This API key is shared** with at least one other product. [Background on shared API keys (Slack)](https://dsva.slack.com/archives/CUB5X5MGF/p1695666665300929)
 
 
 #### **Rate limits**
-Rate limits are applied _per consumer_ to _all APIs_ accessed by that consumer.
-Meaning: if/when we request rate limit changes, that rate limit will be set for all products that use the shared API key, for all APIs accessed by that key. And, other products' rate limit requests may affect the Forms product.
+Rate limits are applied _**per consumer**_ to _**all APIs**_ accessed by that consumer.
+Meaning: if/when we request rate limit changes, that rate limit will be set for all APIs accessed by the `VAGOV` API consumer, even if products are using different API keys. And, other products' rate limit requests may affect the Forms product.
 
 More info on [rate limit changes (Github)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md#request-api-limit-increase).
 
