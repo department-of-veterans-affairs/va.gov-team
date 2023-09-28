@@ -182,8 +182,11 @@ This is focused on read access to two things, 1)  ILER and 2) military record da
 - Give Veterans access to a PDF version of their ILER report
 - Get veterans read access to as many of the key data elements as possible (currently 6 of 8)
 
+### Phase 2:  Read Access (continued)
+Finalize read access by adding in the non-mvp data elements (this is dependent on our stakeholders more concretely defining the scope of these two elements) 
+- Get veterans read access to the final two data elements 
 
-### Phase 2: Edit Access 
+### Phase 3: Edit Access 
 
 This is highly dependent on DoD/VBA conversations around Section 803 and is not ready to be worked
 Support some kind of edit access/process (ideas that are not finalized by the working group: link to respective DoD military record corrections website, create a VA process the electronically delivers a military record correction request to the respective branch of the DoD, update the data through some process where “VA to promulgate a regulation defining the ‘evidence considered necessary.’”) 
