@@ -1,15 +1,15 @@
 # Claims Status Tool - Elevating Claims Status - Product Brief
-
 We have the opportunity to examine the current state of the Veteran’s experience when viewing   their individual claims status on the VA mobile application with the goal of reimaging a future state that helps to alleviate both user frustration and Veterans uninstalling the application.
 
+
 ## Problem Statement
-The claims status tool in the VA mobile app was designed with the intent to help Veterans who have filed claims and/or appeals to track that claim’s progress and inform them when VA needs something in order to keep things moving along.
+The VA Health & Benefits app claims feature is not meeting its intended primary purposes of helping Veterans easily and quickly 1) track progress of claims and appeals and 2) know when they need to take action in order to keep things moving along. As a result, Veterans using the claims status tool may experience dissatisfaction with the app and with VA.
 
-In its current form, the VA mobile app claims tool places the burden of staying informed on Veterans, requiring them to organically tap down into each claim detail to understand what step the claim is in, whether the step has changed, and whether something is needed from them to keep things moving in the right direction. 
+## Evidence of the Problem
+Current app design places the burden of staying informed about claims on Veterans. A Veteran must navigate unprompted into each claim’s detail in order to know a given claim’s status, if the status has changed since they last looked, or if there is action they need to take. This results in lost time & unnecessary effort that product changes could alleviate.
 
-We have observed that some Veterans report spending time returning to their claim frequently (On average, Veterans view the same claim in the same stage over 6 times), resulting in lost time & requiring unnecessary effort. Other Veterans who do not do this repeated checking (and even those who do) often miss updates to their claim status in the app. Preliminary analysis shows that Veterans miss viewing a step in the app on 16% of claims.
+Some Veterans report spending significant time returning to their claim frequently to stay up-to-date with any changes. According to app analytics, Veterans view the same claim in the same stage over 6 times on average. Even when Veterans do this repeated checking, they may miss important updates to their claim status in the app. Preliminary analysis shows that Veterans miss viewing a step change in the app on 84% of claims. On average, Veterans do not view a claim in the app until four days after a change in step occurred and 10% of claims are not viewed until 11 days after the change.
 
-As a result, Veterans using the claims status tool may experience dissatisfaction with the VA mobile app and with VA, and potentially seek other tools or methods to keep up with their claim. 
 
 ### Desired Outcome - Hypothesis
 We believe that surfacing information about claims status beyond the claims detail screen will reduce the burden placed on Veterans to stay informed in regards to their claim and will improve user satisfaction and right-sized engagement with the VA mobile app.
