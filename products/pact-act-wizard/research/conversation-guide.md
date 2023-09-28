@@ -222,8 +222,8 @@ Let's suppose that (Google/VA.gov) led you to the web page that I'm going to sho
 - *Camp Lejeune question*
 
 
-### Task 4: [Results screen--Lejeune or Benefit eligibility]
-*(RECORD which results screen they see: Staging / Lejeune / Benefit eligibility)*
+### Task 4: [Results screen--Lejeune or VA benefit eligibility]
+*(RECORD which results screen they see: Lejeune / VA benefit eligibility / You may be eligible)*
  
 Please tell me about what you see here. 
 
@@ -236,8 +236,8 @@ What would you do now?
 Could you please select "Continue"?
 
   
-### Task 5: [Results screen--R1 on Staging]
-*(If participant is looking at Staging version and notices that the locations don't match what their answers to the questions asked...)* This is a sample page that doesn't correspond to your answers to the questions. I'd like you to pretend that you served in the Middle East.
+### Task 5: [Results screen--You may be eligible]
+*(If participant notices that locations don't match their answers to the questions asked...)* This is a sample page that doesn't correspond to your answers to the questions. I'd like you to pretend that you served in the Middle East.
 
 Please tell me about what you see here. 
 
