@@ -1,4 +1,4 @@
-## VAMC Analytics
+## VAMC Baseline Analytics
 
 This document covers the various metrics which are of interest for the VAMC product and the status of implementation.
 
