@@ -4,7 +4,7 @@ Chris returns. Several topics covered.
 
 ### Attendees: 
 
-* **Integration:** Joe, Jacob, Khoa, Chante, Becky
+* **Integration:** Joe, Jacob, Khoa, Chante
 * **CRM:** Shelby, Joseph Duty, Chris
 * **Note Taker:** Khoa
 
