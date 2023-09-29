@@ -27,6 +27,12 @@ Fixed in Staging, needs testing
 First, find an example in production
 
 ```ruby
+err_msg = 'ratedDisability.isInvalid' # for example.  doesn't need to be the full message, just a substring
+subs = Form526Submission.joins(:form526_job_statuses).where(submitted_claim_id: nil).where(backup_submitted_claim_id: nil).where("form526_job_statuses.error_message LIKE '%#{err_msg}%'"); nil
+```
+
+# OR, the slow version
+
 subs = Form526Submission.where(submitted_claim_id: nil).where(backup_submitted_claim_id: nil); nil
 fails = subs.select { |sub| sub.form526_job_statuses.any? { |stat| stat['error_message']&.match?(/militaryPostOfficeTypeCode/) } }; nil
 ```
