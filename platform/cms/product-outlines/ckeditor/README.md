@@ -52,6 +52,15 @@ On the toolbar on the rich text editors in the CMS, we are adding an abbreviatio
 
 This change is being done to allow editors the ability to make more accessible abbreviations and acronyms. By providing this option within the text editor and adding instructions on how and when to use it within relevant Knowledge Base articles, we are providing a way for editors to make more accessible content.
 
+### Remove button styles from style dropdown on toolbar
+[Related issue](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15154)
+
+Within the CMS, we are removing button styles from the styles dropdown in the rich text editor toolbar.
+
+Editors will no longer be able to style links to visually look like buttons. However, at this time, any existing links that are styled using these buttons styles will continue to use this styling - unless manually and purposefully changed by the editor.
+
+This change is being done to help editors make sure the content they create is inline with the VA Design guidelines and to ensure material honesty within the content. Material honesty means that elements used within content should look like what they are - links should look like links and buttons should look like buttons. These elements have different keyboard interactions and if they look different from what they are, can cause confusion and frustration for some users by not responding to expected keys.
+
 ## Contacts
 - Product Owner: Erika Washburn (OCTO-DE)
 - Delivery Manager: Berni Xiong (Agile 6)
