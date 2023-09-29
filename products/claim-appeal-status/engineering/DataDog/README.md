@@ -33,7 +33,7 @@ TODO
 #### Appeals (Caseflow)
 | Description | Query Text                                                | Link                                                                                                                                                                 |
 | ----------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #index      | `env:eks-prod resource_name:"V0::AppealsController#index` | [Link](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20env%3Aeks-prod%20resource_name%3A%22V0%3A%3AAppealsController%23index%22&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code) |
+| #index      | `env:eks-prod resource_name:"V0::AppealsController#index"` | [Link](https://vagov.ddog-gov.com/apm/traces?query=%40_top_level%3A1%20env%3Aeks-prod%20resource_name%3A%22V0%3A%3AAppealsController%23index%22&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code) |
 
 #### Claims (EVSS)
 | Description       | Query Text                                                              | Link                                                                                                                                                                                                                                                          |
