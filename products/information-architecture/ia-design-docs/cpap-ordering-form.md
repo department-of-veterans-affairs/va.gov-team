@@ -18,7 +18,9 @@
 
 
 ## <a name="map"></a>Page structure<br>
-![Screenshot 2023-09-26 at 10 26 22 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/facfcf79-5663-4715-9635-601e8ab98258)
+![Screenshot 2023-09-29 at 12 41 10 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/73c608c9-9d9b-4c05-be89-1744f0a013bd)
+
+We placed the order form at the same hierarchy as the static pages for CPAP and hearing aids since it's for both types of supply -- it wouldn't make sense to link it under just one or the other.
 
 
 ## <a name="url"></a>URLs and breadcrumbs
