@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Updated 09/29/2023:**  minor copy edits
+**Updated 09/29/2023:**  defining acronyms
 
 ### Communications
 
