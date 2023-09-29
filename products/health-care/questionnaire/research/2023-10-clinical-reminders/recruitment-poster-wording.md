@@ -1,6 +1,6 @@
 Title: We need your feedback
 
-Did you fill out an online health questionnaire before your appointment today? These questions could have been eye care, tobacco use, toxic exposure, or more. We need your feedback—and we’ll pay you for your participation.
+Did you fill out an online health questionnaire before your appointment today? These questionnaires ask about things like eye care, tobacco use, and more. If you did, we need your feedback. And we’ll pay you for your participation.
 
 Here’s how it works:
 1. Register for a future Veteran Usability Study—it only takes 5 minutes. Go to [URL for segregated database]
