@@ -1,6 +1,6 @@
 # WIP - the research plan template will be filled in as we plan 
 
-# Research Plan for [Identity, In Person Support, Date]
+# Research Plan for [Identiy Dashboard, Date]
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
