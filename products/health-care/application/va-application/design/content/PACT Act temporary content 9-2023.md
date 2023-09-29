@@ -3,7 +3,7 @@
 - This content was approved by VA leadership and Danielle Thierry - [Original Content document](https://dvagov-my.sharepoint.com/:w:/g/personal/danielle_thierry_va_gov/Efz4gsYoP-RMo-l8crJSZNIBMkRBeWcvDOz6q_z8NOXrSw?e=thNkbo) (must be on VA network to open)
 
 ## 9/29/2023 Update 2 - HEC Extended hours - CORRECTION
-- HEC Staff will support until 1am ET.  There is concern about what TimeZone should be displayed on the message, it was decided to use Central Time so that we keep the same date, to avoid confusion.
+- HEC Staff will support until 1am ET.  There is concern about what TimeZone should be displayed on the message, it was decided to use Central Time so that we keep the same date, to avoid confusion. (highlighted below for emphasis only)
 - Patrick initiated an OOB deployment for this correction
 
 >If you’re trying to apply by the September 30th special enrollment deadline for certain combat Veterans, you can also apply in other ways. Call us at 877-222-8387. We’re here Friday, September 29, 7:00 a.m. to 9:00 p.m. CT, and Saturday, September 30, 7:00 a.m. to 11:59 p.m. CT. Mail us an application postmarked by September 30, 2023. Or bring your application in person to your nearest VA health facility. Learn more about how to apply by phone, mail, or in person
