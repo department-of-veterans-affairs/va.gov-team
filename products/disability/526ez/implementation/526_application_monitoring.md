@@ -31,6 +31,8 @@ Document the current state of our 526 monitoring.
   - Alerts if we fall below success response threshold (25%) over an hour
 - [526 Submit Uploads success percentage](https://vagov.ddog-gov.com/monitors/160279)
   - Alerts if we fall below success response threshold (25%) over an hour
+- [EVSS General Latency](https://vagov.ddog-gov.com/monitors/161160)
+  - Alerts when request latency averages 45 seconds or more for 30 minutes
  
 ### TODO:  
 - add an alert that checks for retry exhaustion on 526 backup submission
