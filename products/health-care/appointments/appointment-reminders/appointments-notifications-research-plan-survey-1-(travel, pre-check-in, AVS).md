@@ -69,8 +69,7 @@ This research will inform updates to the appointment notifications experience an
 
 Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a survey activity that contains, respectively, 20-25 questions  (or less than 15 mins) for Veterans that may experience when getting appointment notifications. 
 
-There are a total of 71 questions, and we will divide them up into 3 surveys due to the length of the questions. So, two of the surveys have 23 questions, and one survey has 25 questions. 
-We would like to get complete responses from at least 35 Veterans for each survey, in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL. 
+We would like to get complete responses from at least 35 Veterans, in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL. 
 
 ### Location
 This will be a survey that participants fill out remotely and asynchronously. 
@@ -85,7 +84,7 @@ Cohort links
 We will work with Perigean to handle the recruitment, scheduling, and compensation of Veterans and caregivers. 
 
 ### Recruitment approach
-For each survey, we will ask Perigean to recruit 63 people using the cohorts below to get at least 35 completes, which means we need to recruit 189 people in total to get 105 complete results.
+We will ask Perigean to recruit 63 people using the cohorts below to get at least 35 completes.
 
 ### Recruitment criteria
 
@@ -96,7 +95,7 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       189     |         105      |   162  |     0       |    27    |        0      | 
+|       63      |         35       |   26   |     0       |    9     |        0      | 
 
 ### Criteria Table
 
@@ -252,6 +251,22 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 |Memory loss                                                  |            |
 |Reading difficulties                                         |            |
 |Low tolerance for cognitive overload                         |            |      
+
+### Screener questions
+1. Have you been to a VA healthcare facility for a medical appointment in the last 12 months?
+   	- Yes *(go onto question 2)*
+   	- No *(disqualify)*
+2. How often, if at all, have you used My HealtheVet, in the past 6 months?
+   	- Never used it * (disqualify)
+   	- 1-2 times in the past 6 months (disqualify)
+   	- 2-3 times a month in the past 6 months (go onto question 3)
+   	- More than 3 times a month in the past 6 months (go onto question 3)
+3. Do you have a My HealtheVet (MHV) account?
+   	- Yes *(go onto question 4)*
+   	- No *(disqualify)*
+4. Have you ever filed for a travel reimbursement?
+   	- Yes *(qualify)*
+   	- No *(disqualify)*   
 
 ## Timeline
 - 9/28: Kristen reviews for approval
