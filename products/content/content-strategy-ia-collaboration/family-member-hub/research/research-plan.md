@@ -1,21 +1,22 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for the family member hub - October 2023
+
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+The VA.gov family member benefit hub has served as a front door to core benefit information for family members since the 2018 VA.gov redesign. But the deeper benefit information lives scattered amongst the benefit hubs. Research shows that family members are going to the hub for their information and communication efforts across VA are aiming to bring family member information (and specifically survivor information) together to help make it easier for family members to understand and access their benefits.
 
-[Link to product brief](url goes here).
+This effort is to create a single location for family member benefits that will make it easier for family members to find, understand, and use their benefits. By pulling family member benefits out of the Veteran benefit hubs, this effort will also help to streamline the Veteran benefit experience and reduce the cognitive burden of links and content in those hubs.
+
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/family-member-hub/initiative-brief.md).
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? 
+- Refresh VA.gov homepage and IA
+- Enhance Veterans’ personalized online experience
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+
 
 ## Research Goals	
 What are you trying to learn from this research? 
