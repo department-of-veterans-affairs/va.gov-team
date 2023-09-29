@@ -37,6 +37,7 @@ Document the current state of our 526 monitoring.
 ### TODO:  
 - add an alert that checks for retry exhaustion on 526 backup submission
 - add playbooks for each of these
+- Most of these can be answered by the question "what do we do when EVSS is borked?"  what **do** we do?
 
 ## Dashboards
 - [Form 526 Disability Compensation](https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/form-526-disability-compensation?refresh_mode=sliding&from_ts=1695135168409&to_ts=1695307968409&live=true)
