@@ -65,7 +65,7 @@ This research will inform updates to the appointment notifications experience an
 
 ## Methodology	
 
-#### Survey - Kano Analysis
+#### [Survey - Kano Analysis](https://foldingburritos.com/blog/kano-model/)
 
 Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a survey activity that contains, respectively, 20-25 questions  (or less than 15 mins) for Veterans that may experience when getting appointment notifications. 
 
