@@ -262,8 +262,13 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
    	- 2-3 times a month in the past 6 months (go onto question 3)
    	- More than 3 times a month in the past 6 months (go onto question 3)
 3. Do you have a My HealtheVet (MHV) account?
-   	- Yes *(qualify)*
+   	- Yes *(go onto question 4)*
    	- No *(disqualify)*
+4. Have you used VA.gov, in the past 6 months?
+      	- Never used it * (disqualify)
+   	- 1-2 times in the past 6 months (qualify)
+   	- 2-3 times a month in the past 6 months (qualify)
+   	- More than 3 times a month in the past 6 months (qualify)
 
 ## Timeline
 - 9/28: Kristen reviews for approval
