@@ -14,6 +14,7 @@ Document the current state of our 526 monitoring.
 ## Monitors & Alerts
 - [Form 526 Backup Submission Error. Investigate](https://vagov.ddog-gov.com/monitors/110156)
   - Watches for a non-zero number of 526 Backup Submission Errors (via logs)
+  - [playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/backup_submission_error.md)
 - [Document Service API slowdown or outage](https://vagov.ddog-gov.com/monitors/159640)
   - Watches for non-completion of requests to our third party Document Service (EVSS)
 - [526 Completion rate is low](https://vagov.ddog-gov.com/monitors/157864)
