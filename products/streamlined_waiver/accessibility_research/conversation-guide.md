@@ -127,9 +127,7 @@ Today I will be taking you through a form to help with VA debt. First, I’d lik
 What has been your most recent experience with VA copay debt? [establish baseline]
 #### Task Overview
 
--   Imagine that you (as a Veteran) have a copay debt that you are unable to pay and you would like the VA to help with.
-    
--   You have done some research and learned that you need to fill out the VA Form Financial Status Report Form.
+-  Imagine that you have a VA copay debt. Imagine you've been experiencing financial hardship and are having difficulty repaying the copay. Through some research, you find out that you can fill out the VA Financial Status Report Form to request help with this debt.
     
 -   We will be asking you to fill out sections of this form where it will ask for things like your address and financial information.
     
