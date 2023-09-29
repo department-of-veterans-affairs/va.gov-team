@@ -5,6 +5,7 @@
 - [Product overview](#product-overview)
 - [Product approach](#product-approach)
 - [Value Propositions](#value-propositions)
+- [Relevant initiatives](#relevant-initiatives)
 - [Analytics](#analytics)
 - [Roadmap](#roadmap)
 - [Scope](#scope)
@@ -46,6 +47,18 @@ As a Veteran, I need to learn more about my VA medical facility so that I unders
 - Increase the use of VA’s self-service tools
 - Improve the experience Veterans have when interacting with the VA 
 - Improve performance
+
+## Relevant initiatives
+- Lovell Federal health care
+  - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-initiative-brief.md)
+- Community Living Centers
+  - [README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/community-living-centers)
+- Domiciliaries
+  - [README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/domiciliaries)
+- Mobile health clinics
+  - [Feature document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md)
+  - VA health connect and other communication methods
+    - [Feature document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/va-health-connnect-communications.md)
 
 ## Analytics
 - [Baseline data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-baseline-analytics.md)
