@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Updated 09/26/2023:**  Travis reworked transfered current GD version to GH 
+**Updated 09/29/2023:**  minor copy edits
 
 ### Communications
 
