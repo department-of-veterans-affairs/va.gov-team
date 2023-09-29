@@ -1,15 +1,10 @@
-Title: Did you answer questions online to help your provider prepare for your appointment today? If so, we are interested in hearing from you. Get PAID for your feedback!
+Title: We need your feedback
 
-VA Contract Numbers: 36C10B22C0011 & 36C10X18C0061
+Did you fill out an online health questionnaire before your appointment today? These questions could have been eye care, tobacco use, toxic exposure, or more. We need your feedback—and we’ll pay you for your participation.
 
-These questions could have been eye care, tobacco use, toxic exposure, or more.
-
-1. Register for a future Veteran Usability Study
-<br/> (takes 5 minutes at [URL for segregated database])
-2. Get a $5 Amazon gift card
-<br/>(just for registering)
-3. Wait and we will reach out to you in the coming days to schedule an interview
-<br/>(receive $X for participating in the interview)
-
+Here’s how it works:
+1. Register for a future Veteran Usability Study—it only takes 5 minutes. Go to [URL for segregated database]
+2. We’ll send you a $5 Amazon gift card just for registering.
+3. We’ll contact you to schedule an interview—and you'll get paid for participating.
 
 Learn more at [URL for segregated database]
