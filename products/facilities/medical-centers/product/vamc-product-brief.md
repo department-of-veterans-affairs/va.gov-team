@@ -57,8 +57,8 @@ As a Veteran, I need to learn more about my VA medical facility so that I unders
   - [README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/domiciliaries)
 - Mobile health clinics
   - [Feature document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md)
-  - VA health connect and other communication methods
-    - [Feature document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/va-health-connnect-communications.md)
+- VA health connect and other communication methods
+  - [Feature document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/va-health-connnect-communications.md)
 
 ## Analytics
 - [Baseline data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/vamc-baseline-analytics.md)
