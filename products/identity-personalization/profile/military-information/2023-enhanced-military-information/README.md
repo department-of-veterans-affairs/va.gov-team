@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Updated 09/30/2023:**  defining acronyms
+**Updated 09/30/2023:**  fixing formatting, adding UX artifacts
 
 ### Communications
 
@@ -122,7 +122,13 @@ Additionally, the following data would eventually be required, but VA leadership
 1. non-military deployment data
 2. a registry that verifies participation in a Toxic Exposure Risk Activity (TERA) memorandum
 
-Per VBA’s analysis, this list is composed of elements that a Veteran will need the ability to view in order to verify a TERA, hazards or presumptions. VA and DoD anticipate Veterans and Service members will most often use ILER to verify their participation in a TERA or hazards to qualify for health care benefits or compensation benefits under PACT, or previously established presumptions for radiation (38 CFR 3.309(d)); herbicides (38 CFR 3.309(e)); contaminated water at Camp LeJeune (38 CFR.3.309(f)); ionizing radiation (38 CFR 3.311); Persian Gulf exposures (38 CFR 3.317); and fine particulate matter (38 CFR 3.320). 
+Per VBA’s analysis, this list is composed of elements that a Veteran will need the ability to view in order to verify a TERA, hazards or presumptions. VA and DoD anticipate Veterans and Service members will most often use ILER to verify their participation in a TERA or hazards to qualify for health care benefits or compensation benefits under PACT, or previously established presumptions for:
+- radiation (38 CFR 3.309(d))
+- herbicides (38 CFR 3.309(e))
+- contaminated water at Camp LeJeune (38 CFR.3.309(f))
+- ionizing radiation (38 CFR 3.311)
+- Persian Gulf exposures (38 CFR 3.317)
+- fine particulate matter (38 CFR 3.320). 
 
 The military information page in the profile should provide read access to the data elements to aid a veteran in their application process. 
 
@@ -161,8 +167,6 @@ VA leadership is not clear on how exactly to make this possible and they’re st
 ## Business Outcomes
 
 ### Desired Business Outcomes
-
-*Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 -   Providing Veteran’s with a link to their ILER record will help us meet the letter of the law on the legislative requirements outlined above.
 -  Veteran records will be more accurate if Veterans are able to at a minimum see what the VA has in their systems. Eventually with phase II the hope is they'll be able to update their information or at least initiate some sort of corrective process. If veterans are able to update their information, this would reduce errors in their records.
@@ -227,10 +231,11 @@ Support some kind of edit access/process (ideas that are not finalized by the wo
 
 ## Design
 
-- Add link to Sketch files
+[Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
    
 ### Before
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-military-information-sept-2023.png" width="375" alt="screenshot of profile military information section" / >
 
 ### After
 
