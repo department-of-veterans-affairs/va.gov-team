@@ -30,7 +30,7 @@ In this MVP, our goals are to:
      - We’ll need to talk to Veterans about this to really dig in and understand what is most useful in displaying this information.	
    - The MVP wireframes included content in addition to the 8 data points: presumptive conditions and intro content to explain ILER and set expectations regarding value, limitations, and health notifications. 
      *Implication:* We should consider whether or not we need to do this for our UX.
-5. The team (below) that facilitated the research appears to still be around, at least va the VA Outlook directory. They may be available for conversation if needed.
+5. The team (below) that facilitated the research appears to still be around, at least via the VA Outlook directory. They may be available for conversation if needed.
    - Juhi Ghosh, BAH 
    - Meli Steele, BAH 
    - Tony Lee, BAH 
