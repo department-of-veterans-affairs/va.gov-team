@@ -6,7 +6,7 @@ October 2023
 Legislation has been passed that requires us to increase Veteran’s access to their Individual Longitudinal Exposure Record \(ILER\). As VA leadership considered how to comply with the law, they identified an opportunity to improve the Veteran experience of applying for benefits by surfacing key data points about their military service.
 
 In this MVP, our goals are to:
-- Provide Veterans with access to a PDF of their ILER, so they get this PDF anytime they need it.
+- Provide Veterans with access to a PDF of their ILER, so they can get this PDF anytime they need it.
 - Make it easier for Veterans to apply for VA benefits by surfacing military service information that is requested in benefit application forms.
 
 ## Desk research goals
@@ -15,8 +15,9 @@ In this MVP, our goals are to:
 ## Summary
 
 1. 8 key data elements about military service history have been identified by VEO stakeholders (and possibly DoD, VBA) as valuable to surface to help Veterans more easily apply to benefits they’re entitled do as a result of toxic exposures. 
-2. Booz Allen Hamilton (BAH) completed 3 phases of work (pre-discovery, discovery interviews, and MVP designs) related to ILER and this exposure data, but it seems like it was much more focused on digitizing ILER than what we’re being asked to do.  
-3. The BAH work highlighted some important things for us to consider as we approach our MVP:
+2. In theory, adding these data elements to the VA.gov profile will help Veterans because the data will be available for pre-fill on VA.gov forms.
+3. Booz Allen Hamilton (BAH) completed 3 phases of work (pre-discovery, discovery interviews, and MVP designs) related to ILER and this exposure data, but it seems like it was much more focused on digitizing ILER than what we’re being asked to do.  
+4. The BAH work highlighted some important things for us to consider as we approach our MVP:
    - **Veterans vary in their awareness and understanding of the PACT Act, its impacts to their benefits, and of terminology related to exposures.**
      *Implication*: we’ll need to be thoughtful about how we label this information, and also make it consistent with how it’s being asked for in application forms.
    - **Veterans expect to find their exposure record alongside related information, including their existing health records and through the ~Airborne Hazards and Open Burn Pit Registry~ sites. 12 of 15 veterans interviewed stated they expect to find their exposure record alongside their other VA health records.** 
@@ -29,7 +30,7 @@ In this MVP, our goals are to:
      - We’ll need to talk to Veterans about this to really dig in and understand what is most useful in displaying this information.	
    - The MVP wireframes included content in addition to the 8 data points: presumptive conditions and intro content to explain ILER and set expectations regarding value, limitations, and health notifications. 
      *Implication:* We should consider whether or not we need to do this for our UX.
-4. The team (below) that facilitated the research appears to still be around, at least va the VA Outlook directory. They may be available for conversation if needed.
+5. The team (below) that facilitated the research appears to still be around, at least va the VA Outlook directory. They may be available for conversation if needed.
    - Juhi Ghosh, BAH 
    - Meli Steele, BAH 
    - Tony Lee, BAH 
@@ -37,21 +38,24 @@ In this MVP, our goals are to:
 
 ## Outstanding questions
 
-### About those 8 data points
+### Military info data
 1. Stakeholders have a hypothesis that surfacing 8 data points will improve the Veteran experience of applying for benefits. What is driving this hypothesis?
 2. What do we already know about how Veterans are using those 8 data points identified?
 3. How are veterans currently accessing the 8 data points identified when applying for benefits?
-4. How are the data points we’re surfacing being requested in benefit application forms? We probably want to use the same language so it’s easier for Veterans to correlate the information.
-5. If we’re adding these data points to our APIs, can we leverage them in other parts of the site to personalize content and offer guidance on how to maximize benefits based on their exposure record?
-6. The research summary states
+4. Which VA forms ask for the data points we’re surfacing? 
+5. How do the forms ask for this data? 
+6. If we’re adding these data points to our APIs, can we leverage them in other parts of the site (e.g. “Get” benefit pages) to personalize content and offer guidance on how to maximize benefits based on their exposure record?
+7. The research summary states
 > There is more information Veterans expect to see within their record than is currently included in ILER, including their actual exposures and their health information after separating from service. 
 > 
 Is this “more information” the 8 data points we’re surfacing?
 
-7. What other teams may be interested in using this data if we add it to VA Profile?
+8. Are there any other VA.gov teams we should be coordinating with for this work?
 
 ### The BAH Prototypes
-1. How did stakeholders react to these? Why was so much effort put into something that was never intended to be built?
+1. How did stakeholders react to these?
+2. Why was so much effort put into something that was never intended to be built?
+3. What do stakeholders expect as next steps for these prototypes?
 
 ### Other topics
 1. In the research summary, we saw that 12 of 15 Veterans interviewed stated they'd expect to find this information with their health records. How was it decided this should go in the VA.gov profile rather than on My HealtheVet, or MHV on VA.gov?
