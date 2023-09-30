@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Updated 09/29/2023:**  defining acronyms
+**Updated 09/30/2023:**  defining acronyms
 
 ### Communications
 
@@ -120,7 +120,7 @@ The MVP datapoints VA leadership is interested in adding to the VA.gov profile i
 Additionally, the following data would eventually be required, but VA leadership is currently determining requirements around this. This would not be MVP.
 
 1. non-military deployment data
-2. a registry that verifies participation in a TERA
+2. a registry that verifies participation in a Toxic Exposure Risk Activity (TERA) memorandum
 
 Per VBA’s analysis, this list is composed of elements that a Veteran will need the ability to view in order to verify a TERA, hazards or presumptions. VA and DoD anticipate Veterans and Service members will most often use ILER to verify their participation in a TERA or hazards to qualify for health care benefits or compensation benefits under PACT, or previously established presumptions for radiation (38 CFR 3.309(d)); herbicides (38 CFR 3.309(e)); contaminated water at Camp LeJeune (38 CFR.3.309(f)); ionizing radiation (38 CFR 3.311); Persian Gulf exposures (38 CFR 3.317); and fine particulate matter (38 CFR 3.320). 
 
