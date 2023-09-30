@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Updated 09/30/2023:**  fixing formatting, adding UX artifacts
+**Updated 09/30/2023:**  fixing formatting and links, adding UX artifacts
 
 ### Communications
 
@@ -92,7 +92,7 @@ While granting veterans access to the ILER record is required by law, we can bol
 
 TL;DR -- ILER is a record of potential toxic exposure experienced in the service; DD214 is a discharge paper that proves a veteran's service. Veterans seem to be using both to support their benefits application process
 
-To access many benefits veterans often need to provide service history data and adequate documentation to support their request. When a service member separates from their respective branch, they are given a copy of their DD214. This is a point-in-time snapshot at the moment of their separation. Many veterans lose this document or in some cases never received a copy and need to re-request. Currently in the profile we [link to support pages](https://staging.va.gov/records/get-military-service-records/) detailing how to request a copy of one's DD214.
+To access many benefits veterans often need to provide service history data and adequate documentation to support their request. When a service member separates from their respective branch, they are given a copy of their DD214. This is a point-in-time snapshot at the moment of their separation. Many veterans lose this document or in some cases never received a copy and need to re-request. Currently in the profile we [link to support pages](https://va.gov/records/get-military-service-records/) detailing how to request a copy of one's DD214.
 
 While [researching military information in early 2023, our findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#key-findings) demonstrated the importance this document carries not only in assisting veterans with the application process for benefits, but sometimes serving as a key document for proving their service. We know from our research are not able to memorize all the service history information they’d need to apply for many benefits, so they use the DD214 to piece together timelines. 
 
