@@ -13,8 +13,9 @@ Possibly `ratedDisabilityId` or `diagnosticCode`?  EVSS should be able to tell u
 If you look carefully you notice that they send our error twice
 form526.disabilities[0].ratedDisability.isInvalid
 form526.disabilities[1].ratedDisability.isInvalid
-The difference is the number in the square brackets, which implies that these are two actual valid failures, meaning we are failing two validations.  THey do not tell us exactly which key (value name) is failing.  However, since we have two options, and two failures, it follows that both values are being  validated and need to allow for an empty string.
 ```
+
+The difference is the number in the square brackets, which implies that these are two actual valid failures, meaning we are failing two validations.  THey do not tell us exactly which key (value name) is failing.  However, since we have two options, and two failures, it follows that both values are being  validated and need to allow for an empty string.
 
 ## Proposal
 EVSS will remove presence validations on this value
