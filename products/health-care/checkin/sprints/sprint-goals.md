@@ -42,7 +42,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/66225)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
-       - TBD
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Fill out and schedule design intent meeting (but, work with Kristen to see if this should live with our team or Appointments team)
 - **GOAL: Address tech & design debt**        
     - **Sub Goal: Make the Switch to Version 3 of the Design System** 
         - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
