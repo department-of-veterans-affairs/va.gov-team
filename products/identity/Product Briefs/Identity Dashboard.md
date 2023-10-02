@@ -10,7 +10,7 @@ As the Identity Team continues to support various tools and applications to impr
 VA application teams are in need of a centralized location to manage their integrations with Sign in Service, Unified Sign in Page, MPI user lookup, application authentication performance, and insight into the sensitive activities on their application. The Identity team is responsible for providing all of these solutions and requires a secure architecture in order to provide and maintain them. The VA Identity Modernization effort also requires that teams rapidly iterate and integrate with best in class user experience, stable, and reliable authentication services.
 
 ## Relevant Documents:
-(Identity Dashboard) [(https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/Identity_Dashboard.md)]
+[Identity Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/Identity_Dashboard.md)
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
