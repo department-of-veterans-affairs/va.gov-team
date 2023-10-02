@@ -76,9 +76,13 @@ This will be a survey that participants fill out remotely and asynchronously.
 
 ### Research materials
 
-Cohort links
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- [Cohort 1](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-1)
+- [Cohort 2](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-2)
+- [Cohort 3](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-3)
+- [Cohort 4](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-4)
+- [Cohort 5](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-5)
+- [Cohort 6](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-6)
+- [Cohort 7](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-7)
 	
 ## Recruitment	
 We will work with Perigean to handle the recruitment, scheduling, and compensation of Veterans and caregivers. 
