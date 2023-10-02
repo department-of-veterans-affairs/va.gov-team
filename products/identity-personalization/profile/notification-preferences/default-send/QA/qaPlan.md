@@ -12,6 +12,7 @@
 | PM Ticket for Scenarios | [#62606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62606) |
 | QA Testing Ticket | [Team QA Testing #62629](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62629) |
 | QA Plan / Scenarios | [GD Spreadsheet](https://docs.google.com/spreadsheets/d/1-oSUr_kFqyptbSI6jRC3O7wqk3TNDOwaWedmO3eh7FA/edit#gid=1459792507) and Spreadsheet uploaded to GH upon QA Completion|
+|accesible qa test page| [github link](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/default-send/qa-default-send.md) |
 
 
 ## QA Plan 
