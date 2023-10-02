@@ -1,4 +1,4 @@
-# Medallia feedback surveys
+# Medallia feedback surveys: Trigger events and questions
 
 ## Background
 We will include two Medallia surveys in the Ask VA flow, an intercept survey and a feedback button. The intercept survey will interrupt 5% of users based on a triggering event (a step in the flow). 
