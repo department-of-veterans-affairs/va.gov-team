@@ -9,3 +9,6 @@
 | Jun 2023       | Mocked authentication   | 3 remote, moderated usability sessions to find painpoints | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-06%20Mocked%20Authentication/Mocked%20Authentication%20research%20findings.md)
 | Aug 2023        | Unified terms of use    | 13 remote, moderated sessions to test a prototype terms of use page and flow | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-07%20Terms%20of%20Use/2023-08%20Terms%20of%20use%20research%20findings.md)
 | Oct 2023        | Manage signed in devices | in planning | ---
+
+- Past research from this team that relates to login.gov can be found in [the identity folder named 'login.gov'](https://github.com/department-of-veterans-affairs/va.gov-team/tree/5ab5826e440cb5bf2874aaa5b3a4f3d7ed32e875/products/identity/login.gov)
+- Additional research about login.gov and credential migration can be found in the [Login.gov Adoption team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/8f3127aa839f6a14936c3fb94ff5e207abc472bf/products/login.gov-adoption/research)
