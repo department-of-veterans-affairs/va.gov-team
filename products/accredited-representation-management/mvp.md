@@ -20,7 +20,6 @@ The MVP will include desktop & mobile experiences
             1. Claims agent
         1. Rep definitions
             1. Veteran Service Organization (VSO)
-            1. Representative in a Veteran Service Organization
             1. Attorney (Lawyer)
             1. Claims agent
 1. Display search results
@@ -81,3 +80,4 @@ The MVP will include desktop & mobile experiences
 1. Manage rep (can the vet cancel an existing rep)
 1. Link/integrate with other, related experiences
 2. Satisfaction survey to assess the user perceptions of our product experience
+3. Expose relationships between VSOs and VSO Representatives (e.g. VSO American Legion 123 has 4 reps)
