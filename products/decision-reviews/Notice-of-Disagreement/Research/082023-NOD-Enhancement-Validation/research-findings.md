@@ -89,45 +89,61 @@ Moderated interview and concept evaluation of enhanced Board Appeal form clickab
 Gather feedback surrounding the relevance of usability of proposed enhancements
 
 **Context and Expectation-Setting Enhancements**
-
-> - How well are Veterans able to orient and comprehend what's presented in the revised instructional pages?
-> - How well does content line up against Veteran expectations and support Veterans in validating their chosen decision pathway?
+- How well are Veterans able to orient and comprehend what's presented in the revised instructional pages?
+- How well does content line up against Veteran expectations and support Veterans in validating their chosen decision pathway?
 
 **Issue Selection and Disagreement Enhancements**
-
-> - To what extent is access to decision letters and details surrounding contention decisions valuable in facilitating the selection and entry of issues for disagreement?
-> - Are Veterans able to locate where to enter additional context and explanation for their reason for disagreement?
+- To what extent is access to decision letters and details surrounding contention decisions valuable in facilitating the selection and entry of issues for disagreement?
+- Are Veterans able to locate where to enter additional context and explanation for their reason for disagreement?
 
 **Navigational and Task Flow Enhancements**
-
-> - How well are Veterans able to comprehend, orient, and operate enhanced form navigation controls?
-> - What value does the task list and enhanced submission review pages provide Veterans?
+- How well are Veterans able to comprehend, orient, and operate enhanced form navigation controls?
+- What value does the task list and enhanced submission review pages provide Veterans?
 
 **Enhancement User Value and Desirability**
+- Between the various enhancements proposed (revised instructional page, inclusion of issue details, enhanced navigation, and enhanced review page), which enhancements stand to have the greatest impact in bolstering Veteran confidence with their appeal submission? Why?
 
-> - Between the various enhancements proposed (revised instructional page,
->   inclusion of issue details, enhanced navigation, and enhanced review page),
->   which enhancements stand to have the greatest impact in bolstering Veteran
->   confidence with their appeal submission? Why?
+## Hypotheses and Conclusions
 
-## Hypotheses and Assumptions
+### **Context and Expectation-Setting Enhancements**
 
-**Context and Expectation-Setting Enhancements**
+> We believe that providing Veterans information and access points about different DR options in the form instruction page will decrease early drop-offs (false starts). Secondarily, this may increase the relevance of analytics in evaluating form usability.
 
-- We believe that Veterans have inconsistent and incomplete knowledge of decision review pathways prior to pursuing a specific pathway.
-- We believe there is value in providing additional context around decision pathways at the start of the appeals process.
-- We believe the revised instructional page will help facilitate the validation of the selected decision review pathway.
+  **More investigation needed**
+  
+  Information about decision pathways support Learners in validating the chosen decision review path, but more information is needed to sufficiently support this use case.
 
-**Issue Selection and Disagreement Enhancements**
+  Doers preferred the original version. The additional information provided overwhelmed them. It is inconclusive what impact that might have on this segment of Veterans. 
 
-- We believe that not all Veterans know they are able to access decision letters through va.gov.
-- Veterans may need help locating information surrounding specific contention decisions within their decision letters.
-- We believe that Veterans will be able to identify where to provide additional information about their appeal and differentiate those fields from fields relating to reason for disagreement.
+  The additional context surrounding the appeal process steps did not satisfy Learners in providing insight into filing requirements. Many Learners wanted to click through items in the task list to delve more deeply into each step of the submission process.
 
-**Navigational and Task Flow Enhancements**
+### **Issue Selection and Disagreement Enhancements**
 
-- We believe Veterans will find the enhanced navigation comprehensible and usable.
-- We believe Veterans will find the enhanced review page to be comprehensible and usable.
+> We believe that Veterans will be able to identify where to provide additional information about their appeal and differentiate those fields from fields relating to reason for disagreement.
+
+  **Inconclusive**
+
+  The inclusion of contention rating details in the reason for disagreement screens did not stand out much for Veterans, but we also did not evaluate the counterfactual case. It’s unclear how beneficial this information may be. Most of the Veterans we spoke to kept their decision letters in their personal records, negating the benefit of a link to the DLD page. Even so, neither of these enhancements hindered Veterans in the appeals flow.
+
+> We believe that providing Veterans an area in the form to provide additional context surrounding their submission will decrease late form drop off % and increase digital form submission %.
+
+  **True**
+
+  Most Veterans we spoke with expressed the desire to supply additional information for their claim. More work is needed to clarify the intent surrounding reasons for disagreement, additional information, and additional evidence (in cases where additional evidence is relevant).
+
+### **Navigational and Task Flow Enhancements**
+
+> We believe Veterans will find the enhanced navigation comprehensible and usable.
+
+  **Partially True**
+
+  Veterans found the header to be comprehensible. Comprehension of the Task list was mixed. It’s worth noting that the task list we employed did not display the status for each step of the appeals flow. This may have been cause for gaps in Veteran comprehension.
+
+> We believe Veterans will find the enhanced review page to be comprehensible and usable.
+
+  **False**
+
+  The majority of the Veterans were thrown off by being sent back to the beginning of each section and had difficulty navigating to specific prompts to revise. Returning to the review page was also cumbersome.
 
 ## **Key Findings**
 
