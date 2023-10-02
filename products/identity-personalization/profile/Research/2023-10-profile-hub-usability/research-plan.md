@@ -248,11 +248,11 @@ Availability:
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| 10/11/2023 | 9am - any time |	
-| 10/12/2023 | 9am - any time |
-| 10/13/2023 | 9am - 3pm |
-| 10/16/2023 | 9am - any time |
-| 10/17/2023 | 9am - 3pm |
+| 10/11/2023 | 9am - 4pm; 6:30pm - 8pm |	
+| 10/12/2023 | 9am - 5pm; 6pm - 8pm |
+| 10/13/2023 | 9am - 5pm |
+| 10/16/2023 | 9am - 3pm; 6pm - 8pm |
+| 10/17/2023 | 9am - 5pm |
  
 ## Team Roles	
 
