@@ -8,8 +8,9 @@ This module can be used to wrap one or more (class or instance) methods in loggi
 If you have an action that delegates to a third party API, you can / should use this module to wrap that method in applicable logging.
 
 This was created to allow us to log information around third party API interactions
+
     - in a way that is reusable
-    - in a way the prevents coupling and context sharing (now usable in both!).
+    - in a way the prevents coupling and context sharing.
     - In a way the defines a default set of log data that is considered valuable
 
 ### Further Context:
