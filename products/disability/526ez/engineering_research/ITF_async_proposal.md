@@ -75,36 +75,12 @@ Not to hard.  Basiclly add a new form state, A model to record in process ITF su
 This is by far the more complicated side of this work.  A few outstanding questions for management
 
 #### 1. what if ITF creation fails or takes to long?
-- as a user, i pass the ITF creation screen, and complete my form.  As I'm about to submit...
-  - IF the ITF is created  I am able to submit
-  - ELSE the ITF is **still pending**, am I blocked from submitting the form?
-    - IF YES, do I see a spinner?  a message telling me to come back later?
-    - IF NO we need a new state for Form submissions.  This is a deep dark wormhole of downstream interaction
-  - ELSE the ITF submission has **failed**, am I blocked from creating the form?
-    - IF YES, what is my UX
-    - IF NO, how do we go about recreating and syncing the ITF?  This also requires a state for form submissions
+**ANSWER**: Our goal is to allow both ITF and form submission independantly.  If something goes wrong and both ITF and 526 submission take longer than a day (meaning their ITF date will be wrong) then we will have a remediation playbook.
+TODO: figure out what our options are with VBA
    
 #### 2. What are the UI Implications?
-- If we DO NOT update the UI
-  -This would effectively be "lying" to the vet, telling them that we have created an ITF when we haven't. Legal wormhole?
-- If we DO update the UI
-  - Will the new message confuse them?  how will we asuage fears and follow ups that their form is not *really* submitted?
-
-#### 3. What are the 'effective date' considerations?
-- Does Lighthouse accept a 'crated at' timestamp?
-  - IF YES, cool
-  - IF NO, we would need them to update their code.  This could be a potentially large change, depending on how they interact with this data downstream.
- 
-#### 4. Is this even legal?
-Seems like, probably yes.  But someone should probably ask a lawyer...
-
-#### 5. Is the juice worth the squeeze?
-It's worth noting that if we build this feature, we are doing what is colquially known as 'building to the bug', where in this case the 'bug' is a performance bottle neck in our down stream services.
-
-It's a bit like putting a parking lot next to a highway offramp that tends to get clogged, rather than improving the offramp.
-
-The problem on our end was a timeout.  That was corrected, and now we are simply engineering to a 'what if' scenario where we are anticipating latency and possible outages of a downstream system. 
-
+**ANSWER:** We are going to update the UX messaging to more accurately reflect the new process.  
+TODO: get Julie (?) or UX involved.
  
 ### Preflight check list
 Once this is built and in place we would need to be certain
