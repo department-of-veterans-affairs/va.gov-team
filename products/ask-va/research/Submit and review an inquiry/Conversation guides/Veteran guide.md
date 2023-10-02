@@ -1,6 +1,6 @@
 # Conversation guide for Ask VA: Submit and review an inquiry (Veteran guide)
 
-Ask VA Integration Team 2023
+Ask VA Integration Team
 
 Last updated by @tygindraux: October 2, 2023
 
