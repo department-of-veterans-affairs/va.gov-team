@@ -7,7 +7,7 @@
 - [Vision](#vision)
 - [Mission](#mission)
 - [Diagnosis, Guiding Policy, and Solution Approach](#diagnosis-guiding-policy-and-solution-approach)
-- [Roadmap - 30,000 Foot View](#roadmap---30,000-foot-view)
+- [Roadmap - 30,000 Foot View](#roadmap-30,000-foot-view)
 - [Roadmap - Tactical View](#roadmap---tactical-view)
 - [Initiatives](#initiatives)
 - [Epics](#epics)
@@ -30,8 +30,38 @@
 ## Team
 ## Product Strategy
 ## Vision
+**For Veterans seeking the most accessible method of filing an appeal, the Decision Review experience stands as an unparalleled, empowering, and seamless resource, ensuring swift and efficient filing. No hacks or "gotchas".**
+
+Our vision for the future gives way to filing experience that puts Veterans in the driver’s seat of their appeals. No other online experience provides the accessibility and access to claim data that VA.gov offers. By filing appeals online, Veteran’s can:
+- Understand how their claim history effects their appeal 
+- Learn about their appeal options through the lens of their unique service and healthcare history
+- Invite supporters into the experience
+- Trust that their appeal is transmitted securely and reliably
+
 ## Mission
+*"This new process is so harsh. Things have changed so much I need to check what options are available now. You can’t always work with someone with these things." - Veteran Research Participant*
+
+Veterans struggle to connect their use case to the Decision Reviews experience on VA.gov. Below are problem themes related to the current experience:
+
+- Confusing login experience 
+- Page load issues make navigation difficult
+- Forms are not easy to find
+- No singular entry point into the decision review experience
+- User experience blends pathways for learners and doers
+- Lots of content with no connection to why it matters to the Veteran
+- Deadlines and actions are hidden or lost in correspondence letters
+- Service downtime
+- Confusing / missing actionable error messages
+
 ## Diagnosis, Guiding Policy, and Solution Approach
+### SWOT Themes
+|Strengths|Weaknesses|Opportunities|Threats|
+|---|---|---|---|
+|Accessible to a wide audience of Veterans|Login and IA|VRO for building APIs and connecting appeals to PACT data|Product ownership split across teams|
+|Access to claim data|Discoverability|Solutions between 526 and appeals are scalable|No alignment across agencies, POs, or teams|
+|SME approved resources|Actions that delay the claim process (Ex: Duplicate claims, filing claims for a large number of issues)|More VFS resources to support shared outcomes|No centralized logging and monitoring|
+|Task management features|Logging and monitoring|N/A|N/A|
+
 ## Roadmap - 30,000 Foot View
 ## Roadmap - Tactical View
 # Initiatives
