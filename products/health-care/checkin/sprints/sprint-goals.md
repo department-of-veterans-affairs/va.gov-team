@@ -88,7 +88,7 @@ ________________________________________________________________________________
 - **GOAL: Comply with ATO**
     - **Sub Goal: Update technical diagrams**       
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Update Container Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65816)
-       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Add Container and Sequence diagrams for Authenticated check-in flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65907)
+       - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Add Container and Sequence diagrams for Authenticated check-in flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65907)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: Align with BTSSS**
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[FE] Use the Same Facility Identifier that BTSSS Uses to Determine if Veteran has Already Submitted a Travel Claim for a Specific Day and Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65628)
