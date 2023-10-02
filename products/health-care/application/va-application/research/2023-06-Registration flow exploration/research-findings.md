@@ -96,29 +96,25 @@ We assume not all Veterans can complete the enrollment process in one go, that t
 
 2. Finding two - Veterans want more education and explanation around health care benefits
 
-3. Finding three - There is a high learning curve for Veterans using VA services/benefits
+3. Finding three - Veterans see disability and health care benefits as the same process 
 
-4. Finding four - There's a blurry line between disability benefits and health care benefits
+4. Finding four - Veterans are mostly unaware of their Priority Group
 
-5. Finding five - Veterans are unaware of Priority Groups 
+5. Finding five - Veterans want personalized and automatic benefit recommendations
 
-6. Finding six - Veterans want personalized and automatic benefit recommendations
-
-7. Finding seven - The burden of proof often falls upon the Veteran
 
 
 
 ## Details of Findings 
 
 
-**Finding 1 - Veterans are confused about the registration and enrollment options**
+### Finding 1 - Veterans are confused about the registration and enrollment options
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Participants mostly found the paper instructions confusing in some way, either using the terms interchangeably or seeing them as steps in the health care process. 
-
 
 **Finding details**
 - 6 out of 10 find the options confusing or to be the same
@@ -133,38 +129,130 @@ Participants mostly found the paper instructions confusing in some way, either u
 
 
 
-**Finding 2 - **
+### Finding 2 - Veterans want more education and explanation around health care benefits
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Participants expressed wanting more information and resources for them to understand how to use their health care benefits and what they had available to them.
 
-Brief description
+**Finding details**
+- 7 out of 10 reported that there was no explanation given to them and they had to learn on their own as they were using their health care benefits
+- 3 out of 10 mentioned a video pre-recorded or a virtual video call to talk through health benefits
 
-> _Supporting data: Quote here_
+> P18: “I've made more than my fair share of phone calls to get information on benefits.
 
-> _Supporting data: Quote here_
+> P16: "Without that piece of paper my primary gave me, I wouldn't know about my glasses per se I wish there was a section on the dashboard that would say all benefits eligible for,
+
+> P6: There was nothing in there saying 'Hey, this is how it works'
 
 
-**Finding 3**
+### Finding 3 - Veterans see disability and health care benefits as the same process
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Veterans conflated disability benefits and the disability compensation process with health care benefits and the healthcare application process.
 
-Brief description
+**Finding details**
+- 8 out of 10 participants talked about filing disability claims when asked about their health care benefits application process 
+- 7 out of 10 participants talked about their disability rating impacting their health care benefits; they saw the two benefits as being connected in their minds. 
 
-> _Supporting data: Quote here_
+> P16: It was not clear to him during the long disability process that it did not include health care, thought that was part of the process, not separate
 
-> _Supporting data: Quote here_
+> P19: "Well if it was, for the next generation, if it was just plain if you have this percentage or this is what you get right here."
+
+> P12: "So you could be at 50% disability but not yet registered in health care?" ... "There should be automation between claims and health care, not separate processes."
+
+
+
+
+### Finding 4 - Veterans are mostly unaware of their Priority Group
+
+Labels: label 1, label 2 
+
+The term Priority Group was mostly new to participants, those who had heard it before connected it to disability rating tiers. 
+
+**Finding details**
+- 6 out of 10 were not aware of this term and never heard it before
+- 4 out of 10 have, but did not understand why or they associated it with disability rating
+- 2 out of 10 seemed confident they were in Priority Group 1 / the highest priority
+
+> P11: Not familiar with Priority Group, thinks it is based on when and where the Veterans served.
+
+> P8: Not familiar with Priority Group, thinks it is connected to Mental Health.
+
+> P18: “I believe I'm in the highest priority because it was service-connected. It happened overseas in Iraq in a war zone, so I believe it's the highest priority.
+
+
+### Finding 5 - Veterans are mostly unaware of their Priority Group
+
+Labels: label 1, label 2 
+
+Personalized and easy to find lists of what benefits were available to them was a common ideal state expressed by participants - both VA wide and specifically within health care benefits.
+
+**Finding details**
+- 5 out of 10 participants wanted benefit eligibility to be presented to them to choose from 
+- 5 out of 10 participants felt they should be registered for VA health care automatically
+
+> P10: “The VA knows all my info, let me choose my benefits"
+
+> P12: Should be presented with what they are eligible for in a personalized way
+
+> P16: Wants a personalized dashboard list of benefits eligible for
+
+> P19: " I mean it is basically what you have to do if you are a civilian too, but since we have been through the service and had tricare it should have already been there. It should have been automatic."
+
 
 
 
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
+### Secondary Finding 1 - There is a steep learning curve for Veterans when using VA services
+
+Veterans reported the process to be frustrating and intimidating when searching for and understanding benefits and services available and they had to learn as they went.
+
+
+**Finding details**
+- All 10 out of 10 participants said they found the VA processes and applications to be confusing, intimidating or annoying. 
+- 4 out of 10 called out confusing language and terminology when reading about VA benefits
+- 6 out of 10 called out the effort of searching and finding information around VA benefits as being difficult
+- There is often a learning curve with VA terminology and the process to discovering benefits available
+
+> P1: “The applications jargons are gobbledygook, "this stuff looks like Greek to us" and would need someone to translate for something that should be 25 words.
+
+> P16: "So many people don’t want to try because of confusion and frustration." 
+
+> P16: Simplified terms would be better Other than that, once I started to get into it and learn about it Had to get to that point of learning the terminology
+
+> P12: There is a language barrier issue, they may have degrees and everything don't fault any one for that, they don't listen 
+
+
+### Secondary Finding 2 - The burden of proof often falls upon the Veteran
+
+Some participants expressed that the process of applying and getting any benefits from the VA as feeling intimidating and difficult. 
+
+
+**Finding details**
+> 5 out of 10 participants mentioned frustration with having to provide information to the VA for their claims and benefits
+
+> P10: “It was difficult to share the incident/first claim because the VA knows so much, but they didn't have these details".. Why do I always have to prove my information with the VA"
+
+> P18: As far as compensation goes, I had to fight for that. They weren't connecting my cancer with the heart disease I have that came from chemo/radiation. Disabled Veterans Association helped with compensation.
+
+
+### Secondary Finding 3 - Veterans desire for high-touch, personal assistance around benefits
+
+Some participants expressed that having personalized assistance through the benefits process would be beneficial so they could ask specific questions and receive accurate answers. 
+
+**Finding details**
+- 5 out of 10 participants mentioned a person to talk to during the benefits application process would be helpful
+
+> P11: “But nobody was there to guide me. It would be great if they had like a liaison person that someone could call, explain the benefits."
+
+> P10: Likes phone call follow-ups because they feel like people care
+
+> P18: Participant relies on and appreciates the help from Disabled Veterans Association and onsite Patient Advocates, but had to discover these options himself
 
 
 ## Recommendations
