@@ -14,7 +14,7 @@ We need to move AVA to VA.gov. It should be mobile friendly, accessible and easy
 * Review whether submitters can reply to an inquiry
 
 ## Recruitment
-We will recruit Veterans and dependents through Perigean. We will include low vision or blind participants who use screen readers.
+We will recruit Veterans and dependents through Perigean, including low vision or blind participants who use screen readers. We will also recruit 2 School Certifying Officials and 1 Work Study Supervisor independently.
 
 ## Date
 This research will take place in January 2024.
