@@ -1,5 +1,8 @@
 # Process Improvement Proposal for scriptable tasks
 
+## NOTE: This plan is deprecated!
+Turns out, we already have an application layer S3 integration.  That takes care of V1.  We also don't have an immediate need for reusable scripts, so V2 and V3 are being iceboxed.  [Ongoing work (creating documentation) is represented in this ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/66695)
+
 ## Purpose
 Document discovery, ideation, open questions, and outline a proposal related to migrating our dangerous, obscure, one-off rails console tasks to a sustainable, safe, and transparent process.
 
