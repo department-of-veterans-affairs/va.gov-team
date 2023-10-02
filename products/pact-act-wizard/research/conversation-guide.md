@@ -195,7 +195,7 @@ If you wanted to learn more about the PACT Act, what would you do?
 
 
 ### Task 2: [Open prototype] 
-
+Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share **your feedback** while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. 
 
 I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to use: **surveymonkey.com/r/KKVHSFV** (zoom chat) or **bit.ly/45RtoOR** (dictate)
 - *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide a direct link: **surveymonkey.com/r/KKVHSFV**)*
@@ -207,7 +207,7 @@ Did you get the link?
 
 
 ### Task 3: [Go through questions in wizard]
-Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share **your feedback** while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'd like you to talk to me about what you're thinking and what you plan to do BEFORE selecting anything.
+Please try to **talk aloud** about what you're thinking and what you plan to do BEFORE selecting anything.
 
 *(RECORD all feedback on questions:)*
 - *Intro screen*
@@ -255,15 +255,19 @@ Could you tell me what "presumptive conditions" are?
 - Could you please take a look now? 
 - *(After they read it...)* What do "presumptive conditions" mean to you?
 
+Now what? 
+
 *RECORD other comments on “You may be eligible for VA benefits” page:*
 - *“Learn what to do next” link*
 
 
 *RECORD comments on “Apply for VA benefits now” page:*
-- *New PACT Act conditions accordion*
+- *New PACT Act conditions accordion for Burn pit exposure*
 - *Other Gulf War illnesses accordion*
-- *File for disability compensation*
+- *File a disability compensation claim*
+- *File a Supplemental Claim*
 - *Apply for VA health care*
+- *Learn more about health care eligibility*
 
 
 If you saw this page based on the questions you just answered, **how confident are you that you could take action**? I’d like you to rate your confidence level.  
