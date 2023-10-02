@@ -64,7 +64,7 @@ Before we start, I want to go over a few things:
 
 - I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
   
-  - Last thing: One of the ways that we share findings with our partners across VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. I'll also confirm at the end of this session that this is okay with you, so you will get a chance to veto this once you know what we've discussed. 
+  - Last thing: One of the ways that we share findings with our partners across VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image and name. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA online resources. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. I'll also confirm at the end of this session that this is okay with you, so you will get a chance to veto this once you know what we've discussed. 
   - Knowing this, **would you be comfortable if we decided to use a clip of our session** with you to help our partners understand Veteran's experiences?
   - *(If yes:)* Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
@@ -292,7 +292,7 @@ If you saw this page based on the questions you just answered, **how confident a
 
 ## Thank You and Closing - 3 minutes
 
-I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences. 
+I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA online resources. 
 - **Is it OK if we decide to use a recorded clip from our discussion today to share with other VA partners?** *(yes / no)*
 - *(If participant says yes:)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
