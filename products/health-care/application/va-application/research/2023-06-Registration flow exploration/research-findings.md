@@ -183,7 +183,7 @@ The term Priority Group was mostly new to participants, those who had heard it b
 > P18: “I believe I'm in the highest priority because it was service-connected. It happened overseas in Iraq in a war zone, so I believe it's the highest priority.
 
 
-### Finding 5 - Veterans are mostly unaware of their Priority Group
+### Finding 5 - Veterans want personalized and automatic benefit recommendations
 
 Labels: label 1, label 2 
 
