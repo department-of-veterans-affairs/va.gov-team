@@ -110,19 +110,5 @@ An additional module called `Logging::ThirdPartyTransaction::ScopedInstanceMetho
 Here is an example of the logs you might see:
 <img width="1427" alt="Screen Shot 2023-07-17 at 3 07 27 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/bf5b453d-897c-4d8f-954c-612504bc9bda">
 
-## Class level logs
-These are simple values abailable at the time of class definition (not obect instantion), e.g. constants, application context.
-
-## Instance Level logs
-These logs accept a method chain in the form of an array.  When the logging methods are run, these method chains will be called from left to right, each on the result of the former, like this
-```
-method_chain = [:do, :this, :thing]
-# will be called as
-self.do.this.thing
-# from inside the logging methods : )
-```
-
-This is accomplished using `inject`, `send`,  and `respond_to?`.  `inject` returns the value of the loops previous itteration to the next itteration.  
-
 ### Note on Quiet Failures and Private Methods
 We need to allow for quite failures / `nil` returns if a method chain doesn't evaluate.  This could happen due to context, such as inheritence, a change in a data relation, or simple developer error.  The standard way of doing this sort of quiet attempt would be to leverage Rails' `try(:method_name)` syntax, however `.try` does not work on private methods.  In a previous example we mentioned pulling a `uuid` from `current_user`.  `current_user` is actually a private method, so we want to use `send` to access it's value. In order to avoid no method errors we can use `respond_to?(<method>, true)` where true denotes a check against both the public and private scope of logged object context.  
