@@ -48,7 +48,7 @@ Ideally you should wrap as little code as possible.  That means you may want to 
 You can pass parameters to be evaluated at the class or instance level, E.G., the uuid of a current user. 
 
 #### Class level parameters
-Pass these arguments as a hash using the `additional_instance_logs` parameter.
+Pass these arguments as a hash using the `additional_class_logs` parameter.
 
 NOTE: these are very dumb logs and cannot evaluate methods.  For values returned from attributes, associations, or even external objects, use instance level parameters (below)
 
