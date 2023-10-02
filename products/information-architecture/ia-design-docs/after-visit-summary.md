@@ -32,7 +32,7 @@ Users can access the AVS from both the Appointments and Medical records sections
 ## <a name="url"></a>URLs and breadcrumbs
 
 **1) After Visit Summary - New**
-- URL: www.va.gov/my-health/health-history/summaries-and-notes/visit-summary/detail?id=[value]
+- URL: www.va.gov/my-health/medical-records/summaries-and-notes/visit-summary/detail?id=[value]
 - Breadcrumb: The breadcrumbs will behave like mobile breadcrumbs on desktop and mobile. If a user came from an appointment, the breadcrumb will say "< Back to past appointments". If the user came from care notes, the breadcrumb will say "< Back to care summaries and notes". 
 
 
