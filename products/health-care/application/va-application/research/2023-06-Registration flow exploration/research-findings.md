@@ -72,15 +72,6 @@ The methodolgy used was structured interviews with questions focused on the curr
 
 ## Hypotheses and Conclusions
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
-
-
-
 We assume that Veterans will not use the term "registration only" when referring to health care benefits, but will be familiar with enrollment and eligibility.
 - **Definitely true**
 - Zero participants used the term "registration only," and many participants expressed confusion around the difference between registration and enrollment in that they seemed like the same thing. We had another smaller group of participants associate them as steps in the overall process. 
@@ -142,7 +133,7 @@ Participants mostly found the paper instructions confusing in some way, either u
 
 
 
-**Finding 2**
+**Finding 2 - **
 
 Labels: label 1, label 2 
 
