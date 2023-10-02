@@ -15,7 +15,7 @@ ________________________________________________________________________________
      - **Sub Goal: Make the Switch to Version 3 of the Design System** 
 
 #### PLANNED RELEASES 
-- NONE
+- **Implement Next-of-Kin Feedback**
 
 #### SPRINT TICKETS
 - **GOAL: Enable the Travel feature for VISN 6**
@@ -75,8 +75,8 @@ ________________________________________________________________________________
      - **Sub Goal: Make the Switch to Version 3 of the Design System** 
 
 #### PLANNED RELEASES 
-- **Use the Same Facility Identifier that BTSSS Uses to Determine if Veteran has Already Submitted a Travel Claim for a Specific Day and Facility**
-- **Implement Next-of-Kin Feedback**
+- ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) **Use the Same Facility Identifier that BTSSS Uses to Determine if Veteran has Already Submitted a Travel Claim for a Specific Day and Facility**
+- ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) **Implement Next-of-Kin Feedback**
 
 #### SPRINT TICKETS
 - **GOAL: Comply with ATO**
