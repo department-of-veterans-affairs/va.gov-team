@@ -1,6 +1,6 @@
 
 ## QA Artifacts - Default Send/Editing as a Subtask/Checkboxes
-**Last updated:** 9/5/2023
+**Last updated:** 10/02/2023 - updated statuses 
 
 - [Editing as a Subtask Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49319) 
 - [Default Send/Email as a Channel/Checkboxes Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61101)
