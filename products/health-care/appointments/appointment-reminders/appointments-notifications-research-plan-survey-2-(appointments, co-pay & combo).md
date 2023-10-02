@@ -76,13 +76,13 @@ This will be a survey that participants fill out remotely and asynchronously.
 
 ### Research materials
 
-- [Cohort 1](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-1)
-- [Cohort 2](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-2)
-- [Cohort 3](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-3)
-- [Cohort 4](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-4)
-- [Cohort 5](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-5)
-- [Cohort 6](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-6)
-- [Cohort 7](https://dj540s05.optimalworkshop.com/questions/ii698jfg-cohort-7)
+- [Cohort 1](https://dj540s05.optimalworkshop.com/questions/ii698jfg?token=1)
+- [Cohort 2](https://dj540s05.optimalworkshop.com/questions/ii698jfg?token=2)
+- [Cohort 3](https://dj540s05.optimalworkshop.com/questions/ii698jfg?token=3)
+- [Cohort 4](https://dj540s05.optimalworkshop.com/questions/ii698jfg?token=4)
+- [Cohort 5](https://dj540s05.optimalworkshop.com/questions/ii698jfg?token=5)
+- [Cohort 6](https://dj540s05.optimalworkshop.com/questions/ii698jfg?token=6)
+- [Cohort 7](https://dj540s05.optimalworkshop.com/questions/ii698jfg?token=7)
 	
 ## Recruitment	
 We will work with Perigean to handle the recruitment, scheduling, and compensation of Veterans and caregivers. 
