@@ -73,6 +73,7 @@ Review whether submitters can reply to an inquiry:
 7. Most users will prefer to receive email notifications when the status of their ongoing inquiry changes.
 8. Once they receive a response from VA about their inquiry, some users will expect to reply back.
 9. If users aren’t able to reply back to an inquiry, some people will submit a new inquiry to follow up.
+10. Users will find it useful to see the latest thread in the conversation while they type their reply.
 
 ## Methodology
 
@@ -81,27 +82,22 @@ This will be a moderated usability study conducted remotely over Zoom. We will u
 We will test:
 1. Submit an inquiry
 2. View dashboard
-3. Sort dashboard
+3. Sort and filter dashboard
 4. Open an ongoing inquiry
 5. Start a reply
 
-We will not test:
-- Actually replying to an inquiry
-- Viewing a resolved inquiry
-
 ### Research materials
 
-- Conversation guides
-  - [Veteran guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Conversation%20guide%3A%20Veterans.md)
-  - [Veteran (screen reader) guide](url goes here)
-  - [Dependent guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Conversation%20guide%3A%20Dependents.md)
+- [Conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides)
 - [Prototype](url goes here)
 	
 ## Recruitment	
 
 ### Recruitment approach
 
-We’ll use Perigean to recruit participants. **We request a kick-off call with Perigean before recruitment can start.**
+We will work with Perigean to recruit Veteran and dependent participants. **We request a kick-off call with Perigean before recruitment can start.**
+
+Note: We will also recruit 1-3 School Certifying Officials and Work Study Supervisors independently from Perigean.
 
 ### Recruitment criteria
 
@@ -161,11 +157,12 @@ We have a submitted a [Recruitment Request: Cohort 2 - Dependents](url goes here
 * Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet.
   * Yes
   * No
-* Are you able to sign in to your Login.gov or ID.me during the session? This will require you to know and remember your email and password. We strongly encourage you to sign in ahead of your session to ensure you remember your email and password.
+* Are you able to sign in to Login.gov or ID.me during the session? This will require you to have an account setup with Login.gov or ID.me. We strongly encourage you to sign in ahead of your session to ensure you remember your email and password.
   * Yes
   * No
 
 #### People who use screen readers
+
 * Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
    * Yes
    * No
@@ -173,10 +170,10 @@ We have a submitted a [Recruitment Request: Cohort 2 - Dependents](url goes here
    * Yes
    * No
 * Please list the name of the screen reader technology you will use during the session.
-   * Free text box
+   * (Free text box)
 * We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
    * Beginner
-   * Intermediate,
+   * Intermediate
    * Advanced
 
 #### People with cognitive considerations
