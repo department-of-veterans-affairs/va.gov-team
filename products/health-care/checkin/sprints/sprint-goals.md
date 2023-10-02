@@ -15,20 +15,25 @@ ________________________________________________________________________________
      - **Sub Goal: Make the Switch to Version 3 of the Design System** 
 
 #### PLANNED RELEASES 
+- **Enable the Travel feature for VISN 6 (Needs to go out on October 9, verify with Mark before releasing)**
 - **Implement Next-of-Kin Feedback**
 
 #### SPRINT TICKETS
 - **GOAL: Enable the Travel feature for VISN 6**
      - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423)
+          - Needs to go out on October 9, verify with Mark before releasing
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Content] Create Content for 45-minute Error Message when Veteran Needs to Review their Insurance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66404)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update vets-api to Set eCheckInStarted Status when Reminder Link Clicked & Veteran has Authenticated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65834)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Support the Push out a Check-in SMS Message to a Veteran 45-minutes Before an In-person Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63529)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update Sequence Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66370)
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65841)
          - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
               - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] SPIKE: Plan Implementation to Integrate with MAP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66679)
+              - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add aria labels to new appointment list component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66707)
+              - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add refresh timer to upcoming appointments call](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66619)
+              - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Landing Page: Display the Next Task for "What to do next"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62138)
         - **EPIC [Unified Check-in: Priority 8 - Changes to Need Help Section & Alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62515)**
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update Content in the Needs Help Section to the Default on All Pre-Check-in and Check-in Pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65479)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change alert on travel pages to additional info component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65480)
@@ -38,20 +43,21 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
        - TBD
-- **GOAL: Comply with ATO**
-     - **Sub Goal: Update technical diagrams**
-         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Update Sequence diagrams for check-in scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65817)
-         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Update sequence diagrams for pre check-in scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65818)
 - **GOAL: Address tech & design debt**        
-    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] ONGOING: Review, Update, Fix, and Log Offending Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)
-    - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] SPIKE: Understand New Unit Tests Platform Standards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66681)
-    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Current Text Message to Add "When you arrive at the facility....."](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66338)
-    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [DESIGN] Questions to consider for reducing design overhead](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66318)
-    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Sketch spacing and typography clean up](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66233)
     - **Sub Goal: Make the Switch to Version 3 of the Design System** 
         - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #1: Update form components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65490)               
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #4: Update additional info components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65596)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
+    - **Sub Goal: Update Unit Tests**
+         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] SPIKE: Understand New Unit Tests Platform Standards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66681)
+         - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] ONGOING: Review, Update, Fix, and Log Offending Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)
+    - **Miscellaneous**
+         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Current Text Message to Add "When you arrive at the facility....."](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66338)
+         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [DESIGN] Questions to consider for reducing design overhead](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66318)
+         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Sketch spacing and typography clean up](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66233)
+    
 
 -------------- FUTURE / TENTATIVE ----------------------
 __________________________________________________________________________________________________________________________________________________________
@@ -82,7 +88,7 @@ ________________________________________________________________________________
 - **GOAL: Comply with ATO**
     - **Sub Goal: Update technical diagrams**       
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Update Container Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65816)
-       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Add Authenticated Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65907)
+       - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Add Container and Sequence diagrams for Authenticated check-in flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65907)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: Align with BTSSS**
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[FE] Use the Same Facility Identifier that BTSSS Uses to Determine if Veteran has Already Submitted a Travel Claim for a Specific Day and Facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65628)
@@ -106,8 +112,9 @@ ________________________________________________________________________________
             -  ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Pull out Wireframes into Own Sketch Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65868)
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Create Feature Flag 'check-in-experience-45-minute-check-in-reminder'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65836)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Update CHIP to Set eCheckInStarted Status when Reminder Link Clicked & Veteran has Authenticated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65910)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Support the Push out a Check-in SMS Message to a Veteran 45-minutes Before an In-person Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63529)
-                 - Add halfway through the sprint (removed tech debt update dependencies as a result)
+            - Added halfway through sprint
+                 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Support the Push out a Check-in SMS Message to a Veteran 45-minutes Before an In-person Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63529)
+                 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Update Sequence Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66370)            
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)[[FE] Pre-Check-in: Tell Veteran that a Check-in Reminder will be Texted to Them 45-minutes before their Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65832)
                 - Blocked by https://github.com/department-of-veterans-affairs/va.gov-team/issues/65868
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65840)
@@ -126,7 +133,7 @@ ________________________________________________________________________________
                  - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change alert on travel pages to additional info component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65480)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65291)      
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65291)   
 - **GOAL: Add Translated Content**
     - [2023 Q4 Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62844)
         - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![f017c5](https://placehold.co/15x15/f017c5/f017c5.png) [[Product] Send QA Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64625)
@@ -145,7 +152,9 @@ ________________________________________________________________________________
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] DS v3 #4: Update additional info components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65566)
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65567)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #1: Update form components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65490)
+                 - Rolling over
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
+                 - Rolling over 
 
 __________________________________________________________________________________________________________________________________________________________
 ## 9/6/2023 - 9/19/2023 
