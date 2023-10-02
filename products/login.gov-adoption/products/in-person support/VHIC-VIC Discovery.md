@@ -31,9 +31,8 @@ OCTO Data was found on the magnitude of VHIC Cards provided in FY19 and FY20 and
 [FY19: 618,274; FY20 – May 2020: 382,422](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/2)
 
 #### 09/29/2023 VHIC Stakeholder Teams Meeting
-Intros - Tom first
-Modernize sign in process, work with MHV team 
-Working with VA.gov 
+LGA and IPP Overview:
+Modernize sign in process, work with MHV team and VA.gov 
 Team is building a service for IPP, working with Login.gov to do this migration to use Login.gov to log into VA.gov 
 In order for them to do this they need an IAL2 account 
 The verification process for proofing remotely is fraught with issues
