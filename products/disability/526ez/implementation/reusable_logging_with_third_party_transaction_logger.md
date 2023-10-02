@@ -37,11 +37,11 @@ Ideally you should wrap as little code as possible.  That means you may want to 
 <img width="586" alt="Screen Shot 2023-07-17 at 3 03 13 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/409f7608-1d94-44e4-a9eb-231bfdec1590">
 
 2.A the `wrap_with_logging` method will log the following default parameters:
-  a. Puma process id
-  b. a generic description of the action being taken
-  c. The class and method being wrapped
-  d. start time, stop time, duration.
-  e. the arguments passed to the method converted to a string.  NOTE: this is very unrefind and may result in clunky values suche as `<SomeClass instance #123123sdfsdf>` or unlabled values like strings and numbers.  These are only valueble to a debugging dev who can look at the calling code and grok the context.
+- Puma process id
+- a generic description of the action being taken
+- The class and method being wrapped
+- start time, stop time, duration.
+- the arguments passed to the method converted to a string.  NOTE: this is very unrefind and may result in clunky values suche as `<SomeClass instance #123123sdfsdf>` or unlabled values like strings and numbers.  These are only valueble to a debugging dev who can look at the calling code and grok the context.
 
 ### Additional Parameters
 
