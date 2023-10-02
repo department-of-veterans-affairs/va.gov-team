@@ -12,21 +12,21 @@
   
 
 
-## Q3 Projects In Progress 
- - 3rd Quarter projects that are currently being worked on by the mobile team
- - Focus will be on non-green items unless there are questions / specific updates
- - Work is listed in PO's priority order based on SoS Sprint Tab
- - Current Sprint
-    - Sprint 80  9/13 - 9/26
-    - 1 sprints remaining in this quarter
-  
-
 ## Agenda
-* **Q3 Projects in Progress**
-  * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
-  * Yellow projects - Check-In, EVSS
-   
+* **10/3/2023 - focus is on Q4 planning, thus typical agenda will no be followed** 
 
+
+
+
+## Future SoS Agenda
+* **10/17/23 - 1st SoS of Q4**
+
+* **Q4 Projects in Progress**
+  * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+  * Work is listed in PO's priority order based on SoS Sprint Tab
+  * Current Sprint
+    * Sprint 82  (1 of 7 Q4 Sprints) 
+   
  
 * **Standing question for the POs (Adam)**
   * Any new work we should be on the lookout for?
