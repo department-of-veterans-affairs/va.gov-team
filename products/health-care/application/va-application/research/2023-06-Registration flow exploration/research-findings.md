@@ -82,54 +82,64 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 
 We assume that Veterans will not use the term "registration only" when referring to health care benefits, but will be familiar with enrollment and eligibility.
-- **.**
+- **Definitely true**
+- Zero participants used the term "registration only," and many participants expressed confusion around the difference between registration and enrollment in that they seemed like the same thing. We had another smaller group of participants associate them as steps in the overall process. 
 
 We assume that Veterans will use the term registration when they are talking about choosing their main VA medical facility for care, not applying for benefits.
-- **.**
+- **Likely false**
+- Participants who reported being enrolled in health care benefits did not mention anything to do with facilities when asked about the term registration. They mentioned care, filling out an application, getting benefits but not choosing a specific facility. 
   
 We assume adding the term/step of "registration" will add to the confusion around health care benefits.
-- **.**
+- **Definitely true**
+- Only 1 participant out of the 10 found the registration and enrollment benefit option descriptions to be clear and not confusing. 3 participants felt it was more of a step in the process and it should be automatic.
   
 We assume not all Veterans can complete the enrollment process in one go, that there are often stops, such as an exam and claims filed in between.
-- **.**
+- **Likely true**
+- Participants often crossed and mixed disability benefits with health benefits in their answers and mental models.  
+
 
   
 ## Key Findings
 
-1. Finding one
+1. Finding one - Veterans are confused about the registration and enrollment options
 
-2. Finding two
+2. Finding two - Veterans want more education and explanation around health care benefits
 
-3. Finding three
+3. Finding three - There is a high learning curve for Veterans using VA services/benefits
 
-4. Finding four
+4. Finding four - There's a blurry line between disability benefits and health care benefits
 
-5. Finding five
+5. Finding five - Veterans are unaware of Priority Groups 
 
-6. Finding six
+6. Finding six - Veterans want personalized and automatic benefit recommendations
 
-7. Finding seven
+7. Finding seven - The burden of proof often falls upon the Veteran
+
 
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
-**Finding 1**
+**Finding 1 - Veterans are confused about the registration and enrollment options**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+Participants mostly found the paper instructions confusing in some way, either using the terms interchangeably or seeing them as steps in the health care process. 
 
-> _Supporting data: Quote here_
 
-> _Supporting data: Quote here_
+**Finding details**
+- 6 out of 10 find the options confusing or to be the same
+- 3 out of 10 see registration as a step in a process
+- 4 out of 10 reported they would select both options just to be sure
+
+> P12: “To me it doesn't make any sense. What is the difference between medical package and health services?"
+
+> P6: "So I guess with this, I don't understand the difference between enrollment and registration I find this a little bit, not a little bit but quite confusing."
+
+> P20: "What first do you have would have to out enroll in it. Then once I'm enrolled, get registered."
+
 
 
 **Finding 2**
@@ -158,9 +168,12 @@ Brief description
 > _Supporting data: Quote here_
 
 
+
+
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+
 
 
 ## Recommendations
@@ -171,6 +184,7 @@ _Put together initial recommendations here based on your findings along with sup
     * _Supporting evidence_
 * Recommendation 2
     * _Supporting evidence_
+
 
 
 ## Next Steps
@@ -185,14 +199,13 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/research-plan-mental-model.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/research-plan-mental-model.md)
 
-[Conversation guide - cohort 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort2.md)
+- [Conversation guide - cohort 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort2.md)
 
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/transcripts)
 
-[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/transcripts)
-
-[Team notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/team-notes)
+- [Team notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/team-notes)
 
 
 ## Tools used for Synthesis
@@ -207,11 +220,13 @@ _If there are demographics that were not included in this study or you discovere
 - [Mural with paper form instructions](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690928150976/0ce17c5b63ed3a2fd75736ac481d2d6e31fd927b?sender=uadf1ed7fe7c76f0914967329)
 
 
+
 ## Secondary research
 
 Include any secondary research you may have. 
 
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+
 
 
 ## Who we talked to 
