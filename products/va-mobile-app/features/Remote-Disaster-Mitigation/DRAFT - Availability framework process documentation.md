@@ -46,6 +46,16 @@ Solution: We'll show 2 separate red alert boxes. The first alert box communicate
 
 Reasoning: We chose the red alert box due to the flexibility of the component and ability to include several actionable elements. We also chose to show 2 separate messages depending on if we were actively fixing the issue versus if the issue was fixed.
 
+### Process
+
+Who can identify a critical issue?
+What should that person do when they find an issue?
+Who do they tell? Is it an email? A Slack? A phone call?
+When and how do we tell POs?
+Who needs to be involved? Which disciplines (Problem, Content, Eng, UX?)
+Who makes the actual call to pull the switch?
+
+
 
 
 
