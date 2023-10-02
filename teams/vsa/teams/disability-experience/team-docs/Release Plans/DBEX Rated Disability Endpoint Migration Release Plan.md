@@ -120,6 +120,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
             - Confirmed discrepancy was potentially caused by other VA teams redirecting traffic to LH (~50%)
             - Confirmed incorrect (outdated) controller module path from pre-ITF release
         - 9/22: Discrepancy between other teams recorded traffic and traffic from LH (200k vs 100k)
+            - Noting that vets-api does not have a v2 controller corresponding with the LH v2 release. Need to find another mode of recording
         - 9/25: Paused Canary and 1% rollout due to second PACT act deadline
 
 <br>
