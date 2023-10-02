@@ -50,7 +50,7 @@
 
 ## Post-publishing R&S checklist
 
-- [ ] Add the article to the R&S landing page in the correct hub. If there are already more than 5 articles in that hub, you don't need to add it unless you want it to replace another article already on the page.
+- [ ] Add the article to the R&S landing page in the correct hub. If there are already more than 5 articles in that hub, check the analytics of all the listed stories on the landing page. Then determine with Beth and Danielle if the article should replace any of the articles that are currently on the page.
 - [ ] If the article is the sixth one in a hub to be published, add the "Go to all articles" link at the bottom of the hub section on the landing page.
 - [ ] [Add the action link wording to our Github file of action link labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md).
 - [ ] [Add the new article to our Github file of R&S articles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/resources-and-support-article-list.md).
