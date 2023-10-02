@@ -12,7 +12,7 @@
 | PM Ticket for Scenarios | [#62606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62606) |
 | QA Testing Ticket | [Team QA Testing #62629](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62629) |
 | QA Plan / Scenarios | [GoogleDrive Spreadsheet](https://docs.google.com/spreadsheets/d/1-oSUr_kFqyptbSI6jRC3O7wqk3TNDOwaWedmO3eh7FA/edit#gid=1459792507) and [Spreadsheet uploaded to GH upon QA Completion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/QA/qaForDefaultSend-Email%20as%20a%20Channel%20-%20EditingSubtask.xlsx)|
-|accesible qa test page| [github link](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/default-send/qa-default-send.md) |
+|accessible qa test page| [github link](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/default-send/qa-default-send.md) |
 
 
 ## QA Plan 
