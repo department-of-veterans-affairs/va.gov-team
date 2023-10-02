@@ -83,6 +83,8 @@ If we accept Passport, well they have State ID so not getting any value there
 Focus on the underserved population instead
 At some point VEO would take over, where we have one standard ID to rule them all
 When you try to move forward you will run into a lot of roadblocks, long term they want that, but short term lets solve problems with the current programs. 
-We have made changes to support the ID concept, but we need to draw the line somewhere. We will keep the features that we have, but as for new features there is some uncertainty there. 
+We have made changes to support the ID concept, but we need to draw the line somewhere. We will keep the features that we have, but as for new features there is some uncertainty there.
+
+Final outcome: Using VHIC does not seem feasible for the Pilot. Edward is interested in following up on the MVP so we can see if we can use the VHIC as a complementary piece of evidence
 
 
