@@ -36,6 +36,11 @@
 - Tuition Assistance Top-Up
 - Web Automated Verification of Enrollment (WAVE)
 - Work study
+  - Application
+  - General question
+  - Position description
+  - Signed contract
+  - Time card 
 - Educational and career counseling
 - Montgomery GI Bill Active Duty (Chapter 30)
 - Montgomery GI Bill Selected Reserve (Chapter 1606)
