@@ -9,6 +9,6 @@
             If you disagree with this decision, you may seek further review. Your options for seeking further review are attached. You can also find more details at www.va.gov/health/appeals and at www.va.gov/healthbenefits/vtp/beneficiary_travel.asp. 
 - [BTSSS_3.7.0 User Guide (with screenshots) (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/12796040/BTSSS_3.7.0.User.Guide.docx)
      - Section 3 is the what the Veteran sees (The Travel Claims Portal)
-- Claim status definitions that Veterans see in BTSSS (waiting)
+- [Claim status definitions that Veterans see in BTSSS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/submitted-claim-statuses.md#vet-facing-information-in-btsss)
 - [Claim status definitions that are internal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/submitted-claim-statuses.md)
 
