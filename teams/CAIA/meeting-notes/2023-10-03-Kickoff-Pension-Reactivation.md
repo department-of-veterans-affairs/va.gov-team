@@ -4,13 +4,14 @@
 - **Time**: 1 -1:30 p.m. EST
 - [Zoom Link](https://coformaco.zoom.us/j/89980229354?pwd=c0RLL2lWYldjdzdDWlNBekpEZmg0dz09)
 - [Google Doc Version](https://docs.google.com/document/d/1KtRofj42pc4_tNd7yFueonxD0UX0PFg2tGOPevYoKLA/edit?usp=sharing) (Access Required)
-- [Microsoft Word Version - not converted or linked yet](x)
+- [Microsoft Word Version](https://github.com/department-of-veterans-affairs/va.gov-team/files/12796730/2023.10.03.Kickoff.Pension.Reactivation.docx)
 
 
 ## About the CAIA Team
 ### Platform Governance Team
 The Platform Governance Team assists teams specifically through the Collaboration Style, to the launch of a product, via design intent, midpoint review and staging review. 
-[Collaboration Cycle Ticket#65250](https://www.google.com/url?q=https://github.com/department-of-veterans-affairs/va.gov-team/issues/65250&sa=D&source=calendar&ust=1696770625338706&usg=AOvVaw2iQ_QygCj5f5cuyuio2UPx)
+
+[Collaboration Cycle Ticket #65250](https://www.google.com/url?q=https://github.com/department-of-veterans-affairs/va.gov-team/issues/65250&sa=D&source=calendar&ust=1696770625338706&usg=AOvVaw2iQ_QygCj5f5cuyuio2UPx)
 
 ### Content Accessibility and Information Architecture (CAIA)
 CAIA’s  job is to make sure VFS teams are ready for those incremental steps of the Collaboration Cycle, through a partnership with CAIA's three different disciplines. CAIA can work async or embed with VFS teams, depending on the project. 
@@ -27,7 +28,7 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
     - [ ] Accessibility
 
 ## Meeting Action Items 🎬
-- [x] **Flag as high priority item in GitHub Intake Ticket **(Terry)
+- [x] **Flag as high priority item in GitHub Intake Ticket** (Terry)
 - [ ] **CAIA members involved should join the slack channel:** benefits-non-disability
 - [x] **Intake Ticket** - create tasks lists for each discipline area (a11y, content and IA)(Sara)
 - [ ] **Create tasks or issues in each task list:**
@@ -51,8 +52,8 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 
 
 ## Resources 🔗
-- **[xx/xx/20xx] Opened Collaboration Cycle Ticket: **
-- [ ] Collaboration Cycle Ticket [Collaboration Cycle for [Benefits Non-Disability, Pension 527EZ, Form Reactivation] #65250](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65250)
+- **[9/8/2023] Opened Collaboration Cycle Ticket: **
+- [x] Collaboration Cycle Ticket [Collaboration Cycle for [Benefits Non-Disability, Pension 527EZ, Form Reactivation] #65250](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65250)
     - [x] Design Intent ticket (Tuesday, September 26, 2023 at 3:30pm ET)
     - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
@@ -183,6 +184,3 @@ The current online form will be (or has been) deactivated to prevent Veterans fr
 - **Context for this Priority**: The paper form and the form being worked on now is going to be deactivated. So this is a priority item for us right now. The plug hasn’t been pulled, just yet. Any Veteran filling out the online form today, will have to fill out in paper, so that is the time factor.
 - Audit needed for this form, it has never been audited before for accessibility.
 - Research will be done post launch due to time, but notes will be taken during the process to launch for what needs to be done.(Likely 2024).
-
-
-
