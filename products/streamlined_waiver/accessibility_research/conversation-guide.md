@@ -40,7 +40,7 @@
     
 -   This work is meaningful to me because I believe that those who have served have a right to these services. [meaning]
     
--   My goal today is to learn how easy or difficult it is to use the form we have created using a screen reader.I don't use screen reader technology, but my colleague, Angela, uses a screen reader and is on the call to provide assistance if you need it
+-   My goal today is to learn how easy or difficult it is to use the form we have created using a screen reader. I don't use screen reader technology myself, but my colleague, Angela, uses a screen reader and is on the call to provide assistance if you need it
     
 -   Please be honest with your feedback. [topic]
     
@@ -57,7 +57,7 @@
 -   Just want to ensure the next 90 minutes are still good for you today? [time  expectations]
     
 
-I’d love to ask a question to get to know you before we start the interview about your experiences with debt.
+I’d love to ask a question to get to know you before we start the interview.
 
 Rapport building
 
