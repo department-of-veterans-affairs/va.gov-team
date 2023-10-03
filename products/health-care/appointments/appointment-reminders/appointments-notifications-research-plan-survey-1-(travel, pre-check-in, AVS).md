@@ -84,7 +84,9 @@ This will be a survey that participants fill out remotely and asynchronously.
 - [Cohort 5](https://dj540s05.optimalworkshop.com/questions/uam0fum2?token=5)
 - [Cohort 6](https://dj540s05.optimalworkshop.com/questions/uam0fum2?token=6)
 - [Cohort 7](https://dj540s05.optimalworkshop.com/questions/uam0fum2?token=7)
-	
+
+(Kristen: Double check these links once Nina launches.) 
+
 ## Recruitment	
 We will work with Perigean to handle the recruitment, scheduling, and compensation of Veterans and caregivers. 
 
