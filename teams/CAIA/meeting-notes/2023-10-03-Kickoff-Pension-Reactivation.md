@@ -3,7 +3,7 @@
 - **Date**: Tuesday, Oct. 3, 2023
 - **Time**: 1 -1:30 p.m. EST
 - [Zoom Link](https://coformaco.zoom.us/j/89980229354?pwd=c0RLL2lWYldjdzdDWlNBekpEZmg0dz09)
-- [Google Doc Version - not linked yet](x) (Access Required)
+- [Google Doc Version](https://docs.google.com/document/d/1KtRofj42pc4_tNd7yFueonxD0UX0PFg2tGOPevYoKLA/edit?usp=sharing) (Access Required)
 - [Microsoft Word Version - not converted or linked yet](x)
 
 
@@ -20,18 +20,34 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 
 ## Starting the CAIA Process
 ### Process Initiated
-- [x] [Intake Request](https://www.google.com/url?q=https://github.com/department-of-veterans-affairs/va.gov-team/issues/66578&sa=D&source=calendar&ust=1696770625338706&usg=AOvVaw3GRUCTmeaxmyJvTovsyuWj) - this forms the basis of our partnerships with you and becomes an Epic.
-- [ ] We will spin off our tickets within that Epic ticket:
+- [x] [Intake Request](https://www.google.com/url?q=https://github.com/department-of-veterans-affairs/va.gov-team/issues/66578&sa=D&source=calendar&ust=1696770625338706&usg=AOvVaw3GRUCTmeaxmyJvTovsyuWj) - this forms the basis of our partnerships with you and becomes the container for our tasks:
+- **We will spin off our tasks/tickets within that intake ticket:**
     - [ ] Content
     - [ ] IA
     - [ ] Accessibility
 
 ## Meeting Action Items 🎬
-- [ ] Action Item 1
-- [ ] Action Item 2
-- [ ] Action Item 3
-- [ ] Action Item 4
-- [ ] Action Item 5
+- [x] **Flag as high priority item in GitHub Intake Ticket **(Terry)
+- [ ] **CAIA members involved should join the slack channel:** benefits-non-disability
+- [x] **Intake Ticket** - create tasks lists for each discipline area (a11y, content and IA)(Sara)
+- [ ] **Create tasks or issues in each task list:**
+    - [ ] **A11y**
+        - [ ] Accessibility Audit (never been done)
+        - [ ] Midpoint support requested
+        - [ ] Staging support requested
+        - [ ] Research Planning (post launch 2024) (Sara)
+        - [ ] Plus future tickets as needed
+    - [ ] **Content**
+        - [ ] Midpoint support: Content (Lily)
+        - [ ] Staging support: Content (Lily)
+    - [ ] **IA**
+        - [ ] User Flow Review/Entrance Points
+- **Sketch files needed shaed by Project Team (via intake ticket)**
+    - [ ] Sketch File for a11y to review (Fiorella)
+    - [ ] Sktch File with entry points for IA to review (Fiorella)
+- **Collaboration Cycle Phase Support**
+    - [ ] Midpoint (Accessibility)
+    - [ ] Staging (Accessibility)
 
 
 ## Resources 🔗
@@ -42,10 +58,10 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
 
 ## CAIA Tickets 🎟️
-- [ ] [Epic] Name of Epic/Intake Ticket 
-    - [ ] Accessibility Ticket
-    - [ ] IA Ticket
-    - [ ] Content Ticket
+- [x] Intake Ticket 
+    - [ ] Accessibility Ticket (Terry)
+    - [ ] IA Ticket (Kristin)
+    - [ ] Content Ticket (Lily)
 
 ## Assets
 [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/527EZ-reactivation-initiative-brief.md)
@@ -115,16 +131,58 @@ Link to testing accounts (please do not paste them in this ticket): [527EZ test 
 - Best bets template
 
 ## Discussion Notes✍️
+### Agenda
+- Brief introductions from Pension Reactivation team and CAIA team.
+- Team to summarize their project
+    - We'll talk through the approach for updating the pension 527EZ form and relaunching it ASAP.
+    - Our next step is implementing the feedback from Design Intent and finalizing wireframes (10/04/2023).
+    - We expect to launch our product to 100% of users on:ASAP, December 2023 at the latest
+- Team to convey the anticipated support/work they'll need from CAIA
+    - Inquire about research with users of assistive technology.
+    - [Research ticket for a11y assistance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name)
+- **Deadline**: **ASAP**
+- Questions
 
-### Project
-- Notes
-#### Problems
-- Notes
+### Project: Request Summary
+#### Intake Request [#66578](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66578)
+We are updating the 527EZ pension form to align to the most recent version of the paper form. This includes adding missing fields and removing depreciated fields. 
+The current online form will be (or has been) deactivated to prevent Veterans from submitting claims online that cannot be processed without additional development, so there is a sense of urgency in getting the updated version of the form back online.
+
+### Resource Links
+- [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65250)
+- [CAIA Intake Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66578)
+- **Design Intent:** Tuesday, September 26, 2023 at 3:30pm ET
+    - [Design intent recording](https://oddball-io.zoom.us/rec/share/Np4VDM7bFt4aJlcYHdujjZW_t1F0UPr2Ou0c-38E8-IABRENM6dndVs8bP-oGLo8.b-8TjQba_KIaZfyl)
+    - Passcode: H?wQ*2!%
+
+#### Problems/Blockers
+- Limited timeframe to complete work.
+- ASAP - Tagged as High Priority in CAIA Pipeline 
+
 #### CAIA
 - **Content**
-    - Notes
+    -  Collaboration on content if your team does not have a dedicated content writer - assistance requested in the intake
+    -  Midpoint and staging support requested.
+
 - **IA** 
-    - Notes
+    - **User Flows** - assistance requested in the intake
+    - **Entry points** - special Sketch file for this
+
 - **Accessibility**
-  - Notes
+  - Accessibility review of wireframes and/or prototypes - assistance requested in the intake
+  - Review and receive Sketch files from team when received.
+  - No audit ever done before - the team could benefit from an a11y audit.
+  - Research will take place in 2024 post launch, due to timing.
+  - Midpoint support and staging prep support requested
+ 
+## Additional Detail/Notes
+- Entry points to the product need to be reviewed.
+- User flow conversation will be needed early on (Kristin/Jenny)
+- Fiorella Geedi - has Sketch files available - the latest files are in the “proposed” section it is the latest row and would say updated and have a comment.
+- Sketch files to be provided by Fiorella - separate file for user flows, and another for the new designed.
+- **Context for this Priority**: The paper form and the form being worked on now is going to be deactivated. So this is a priority item for us right now. The plug hasn’t been pulled, just yet. Any Veteran filling out the online form today, will have to fill out in paper, so that is the time factor.
+- Audit needed for this form, it has never been audited before for accessibility.
+- Research will be done post launch due to time, but notes will be taken during the process to launch for what needs to be done.(Likely 2024).
+
+
 
