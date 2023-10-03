@@ -6,10 +6,7 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
+- TBD
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -17,57 +14,91 @@ Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
+### Zoom setup
+Login
+* Access the scheduled session
+* Once logged in you will come to the main account page
+* At the top of the page, click meetings
+* select the session which will be taking place
+* When ready to start the session, click start on the right-hand side
 
-
-### Starting the session
-
+Zoom logistics
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
-
-
+- Turn on captions/transcript (select "view full transcript")
 
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, let me tell you about what we will be doing.
 
-Today we're going to talk about [description of your project].
-
+Today we're going to talk about helping Veterans describe a medical condition for a disability claim.
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 60 minutes.** This entire session should take about 60 minutes. I want to be sure to end on time, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+- Feel free to ask any questions you may have at any point, but just know ahead of time that I may not be able to answer them until the end of the session.
+- If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.
+- Perigean did ask for your consent to allow some other folks to listen in, but I want to be sure before we get going. Are you okay with a couple of additional people. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
-*Start recording.*
+*Moderator starts recording.*
 
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
+
+## Warm-up Questions - 10 minutes
+
+Before we look at the website, let’s start with a few background questions.
+* Talk to me about your past experience using VA.gov.
+* Could you tell me about any benefits you are receiving from the VA at this time? 
+  * If they are getting disability compensation from the VA right now, ask:
+    * About how many conditions are you receiving benefits for?
+    * Do you have plans to file additional disability claims in the near future? 
+      * If you are comfortable sharing, are you filing because existing conditions have worsened or because you have new conditions you’d like to file for?
+      * How do you plan to file the claims (online, by mail, with VSO, etc.)?
+* If they are not getting disability compensation from the VA right now, ask:
+  * Have you filed claims that are currently being evaluated?  How did you file the claims (online, by mail, with VSO, etc.)?
+  * Are you in the process of, or considering filing any new disability claims in the near future? 
 
 
-## Warm-up Questions (Optional) - X minutes
+## Transition to prototype - 5 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Great! Now let’s get into evaluating our prototype.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+We’re going to show you a screen that we’re working on.
+* This prototype is not the real website, and it may not function exactly the way you expect. This conversation is to help us make decisions about how to improve the website in the future. 
+* Some areas of the prototype will be clickable and some will not. 
+* And, since it's a demo, none of your actions will affect your actual VA information or benefits.
+  
+We’re going to go through 1 scenario. I’m going to ask you to think of your own situation as you move through and answer the questions. If you don’t want to do that, then I will provide a hypothetical situation instead that you can use to answer. Are you comfortable thinking about your own situation for this exercise? 
 
-## First Task: [TASK NAME] - X minutes
+* [If they have filed previously (but do not have current plans in the near future:] 
+  * You mentioned before that you have filed for a disability claim in the past. I’d like you to go back in time and imagine that you are filling out the form for that disability claim (that you previously claimed). You’ve come to the VA website today and have started filling out the form. You have come to the screen where you are asked to specify the medical condition or conditions that you are filing for.
+    
+* [If they are planning to file a new claim in the near future:]
+  * You mentioned before that you are considering filing a new disability claim in the near future. I’d like you to imagine that you are ready to fill out the new disability claim. You’ve come to the VA website today and have started filling out the form. You have come to the screen where you are asked to specify the medical condition or conditions that you are filing for.
+    
+* [MOCK SCENARIO: If they have not filed in the past and do not have plans to file in the future, or they are uncomfortable speaking about their medical conditions:] 
+  * I’d like you to imagine that you have 3 conditions that you’d like to claim. I’ll give you more details about those conditions as we look at the screens. 
+  * You are ready to start filling out the form for a new disability claim, and you’ve come to the VA website today to get started. You are on the screen where you are asked to specify the medical conditions that you are filing for.
+    
+Before I give you the link to the prototype, please share your screen so we can see what you’re doing. 
 
-- Step 1
-- Step 2
+Wait for screen sharing to work.
+
+Now, I’m going to put a link to the [prototype] (https://codepen.io/Tyler-Spangler-the-reactor/pen/vYvzyBQ) in the Zoom chat. You can click on that link.
+
+## Prototype testing - 15 minutes
+
+I’d like you to walk us through what you would do on this prototype. Please think aloud as much as you can while you are walking us through this process. And we’re not in a hurry, so take as much time as you would if you were actually doing this for yourself. 
+To save time, we are skipping the beginning of the form, including the introduction and the screens in section 1 where you enter your personal information and information about your military service. We’ll start you on the first screen of the second section. 
 
 ### Things to watch for:
 
