@@ -27,7 +27,7 @@ Can you give us an brief overview of your role and where it sits within the VA o
 3. How are veterans currently accessing these 8 data points identified when applying for benefits?
 4. Which VA forms ask for the data points we’re surfacing?
 5. In BAH’s research, Veterans shared that they expected information related to exposures to be available with their other VA records, especially health records. How was it decided that this belongs on the VA.gov profile, rather than the Records or Health section of VA.gov?
-6. *If necessary: *The BAH research summary references Veterans expect “more information” (quote below). Is this “more information” the 8 data points we’re surfacing? 
+6. *If necessary:* The BAH research summary references Veterans expect “more information” (quote below). Is this “more information” the 8 data points we’re surfacing? 
    > There is more information Veterans expect to see within their record than is currently included in ILER, including their actual exposures and their health information after separating from service.
 
 ### Collaboration
