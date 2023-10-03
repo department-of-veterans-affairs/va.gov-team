@@ -19,6 +19,28 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 Are there moments that matter? 
 - This effort is aimed at the family member and caregiver journeys more than the Veteran, but would ideally indirectly improve the Veteran's journey by decluttering their experience. 
 
+**Survivor journey**
+- This work supports survivors during moments throughout their journey - from initial caregiving and preparing for end of life, until continuing on after their death. 
+  - Preparing
+    - Preparing: Caring for their loved one
+  - Moments directly after death
+    - Adjusting: Loved one passes away
+    - Memorializing: Prepares burial and funeral arrangements
+  - Applying for and utilizing benefits
+    - Engaging: Becomes aware of benfits
+    - Engaging: Finds support
+    - Applying: Pursues and applies for benefits
+    - Applying: Waits for decision
+    - Applying: Claim is approved or denied
+  - The new normal
+    - Continuing: Recognizes their own mental health needs
+    - Continuing: Experiences life changing events
+
+**Caregiver journey**
+- This work supports caregivers at moments when they are seeking benefits and services to support them.  
+  - Becoming aware and adjusting phase: Identifies as a caregiver
+  - Shifting priorities and seeking help phase: Contacts support
+
 ## Research Goals	
 
 Determine if moving family and caregiver related content under a single benefit hub for that audience will improve the discoverability and findability of relevant benefit information. 
@@ -30,7 +52,8 @@ Learnings will help refine how we organize and group information within the new 
 
 1. Family members and caregivers will primarily navigate to the family member hub to discover and apply for benefits for themselves
 2. Family members and caregivers will primarily navigate to the family member hub to manage and track their own benefits
-3. 
+3. Survivors will primarily navigate to the section labeled "Survivors" to find information on benefits
+4. Caregivers will primarily navigate to the section labeled "Caregivers" to find information on benefits
 
 ## Methodology	
 
