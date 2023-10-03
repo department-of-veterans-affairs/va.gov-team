@@ -3,6 +3,10 @@
 ## Introduction
 *Give brief intro of facilitor and any observers present*
 
+[If Teams has recording capability] If it's OK with you, I'd like to record the session so I don't miss anything. Would that be alright?
+
+_Start recording_
+
 Can you give us an brief overview of your role and where it sits within the VA organization?
 
 ## Interview questions
