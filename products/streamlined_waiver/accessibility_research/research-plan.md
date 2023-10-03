@@ -111,7 +111,7 @@ What are you trying to learn from this research?
 
 1. We hypothesize that the eFSR/Streamlined Waiver form will be usable by Veterans that use screen readers. They will be able to understand it and fill it out.
 
-2. While we think it will be usable, we also believe that minor accessibility issues may take away from the experience.
+2. While we think it will be usable, we also believe that accessibility issues identified in an internal accessibility audit, may take away from the experience.
 
 3. We further hypothesize that the accessibility of the form will line up with the mental models that Veterans who use screen readers have about online forms.
 
