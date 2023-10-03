@@ -56,6 +56,6 @@
 ## Actions
 
 - [ ] Tyler: Share notes with agreed approach
-- [ ] Tyler: Confirm with VR&E team where VR&E topic will route (which queue)
+- [ ] Tyler: Confirm that `Education benefits and work study` > `VR&E` topic will route based on state of residency
 - [ ] Becky/Ruchi and CRM team: Confirm when adding a VR&E topic can happen (pre- or post-launch)
 - [ ] Becky/Ruchi: Let education/work study team know which category label we will use for launch
