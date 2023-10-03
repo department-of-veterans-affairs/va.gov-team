@@ -64,7 +64,13 @@ Consider bucketing research questions under research goals. For each question, t
 - Do the participants understand the impact of not providing an update?
 - Do the pariticipants struggle because this section isn't prefilled as opposed to other sections?
 
-#### Goal 3: **Financial information update notification** - Determine how a Veteran knows or would like to know they need to update the household/financial section.
+#### Goal 3: **Disability rating and financial updates** - Determine how disability ratings affect a Veteran's understanding of the financial updates section.
+
+- How do participants approach the financial update section when they have a low disability rating (under 10 percent)?
+- How do participants approach the financial update section when they have a high disability rating (above 50 percent)?
+- How do participants want to be notified that they need to update their financial information?
+- Do participants know what they need to do after encoutering the intro page on the form?
+- Can participants find the landing page with more information, if prompted? 
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
