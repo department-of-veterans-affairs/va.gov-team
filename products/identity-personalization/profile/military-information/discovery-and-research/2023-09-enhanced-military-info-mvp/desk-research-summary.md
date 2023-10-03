@@ -20,7 +20,7 @@ In this MVP, our goals are to:
 4. The BAH work highlighted some important things for us to consider as we approach our MVP.  It'll likely be useful to refer to this research throughout our process but a few things stood out for now:
    - **Veterans vary in their awareness and understanding of the PACT Act, its impacts to their benefits, and of terminology related to exposures.**
      *Implication*: we’ll need to be thoughtful about how we label this information, and also make it consistent with how it’s being asked for in application forms.
-   - **Veterans expect to find their exposure record alongside related information, including their existing health records and through the ~Airborne Hazards and Open Burn Pit Registry~ sites. 12 of 15 veterans interviewed stated they expect to find their exposure record alongside their other VA health records.** 
+   - **Veterans expect to find their exposure record alongside related information, including their existing health records and through the Airborne Hazards and Open Burn Pit Registry sites. 12 of 15 veterans interviewed stated they expect to find their exposure record alongside their other VA health records.** 
      *Implication*: VA.gov's profile may not be the right place to surface this information. We need to learn more about that decision, and we should test whether or not it’s intuitive  coordinate with the health team to see if/how they’re thinking about including this info on their side
    - There is more information Veterans expect to see within their record than is currently included in ILER, including their actual exposures and their health information after separating from service.
      *Question:*Is this “more information” the 8 data points we’re surfacing?
