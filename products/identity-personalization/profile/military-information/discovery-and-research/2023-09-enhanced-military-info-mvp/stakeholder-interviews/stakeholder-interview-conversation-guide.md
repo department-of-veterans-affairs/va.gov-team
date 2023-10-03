@@ -23,8 +23,8 @@ Can you give us an brief overview of your role and where it sits within the VA o
 
 ### Military data points
 1. There are 8 data points that have been identified to surface as an MVP for this work, and I understand they were selected because they will improve the Veteran experience of applying for benefits. Can you share me your thoughts on how surfacing these will improve the Veteran experience?
-2. What do we already know about how Veterans are using those 8 data points identified?
-3. How are veterans currently accessing these 8 data points identified when applying for benefits?
+2. What do we already know about how the 8 data points identified are useful to Veterans?
+3. Do we have insights into how Veterans are currently referencing this information when it's requested?
 4. Which VA forms ask for the data points we’re surfacing?
 5. In BAH’s research, Veterans shared that they expected information related to exposures to be available with their other VA records, especially health records. How was it decided that this belongs on the VA.gov profile, rather than the Records or Health section of VA.gov?
 6. *If necessary:* The BAH research summary references Veterans expect “more information” (quote below). Is this “more information” the 8 data points we’re surfacing? 
