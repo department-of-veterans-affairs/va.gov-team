@@ -1,4 +1,4 @@
-# Profile Military information: Enhanced military information MVP - Stakeholder Interview research plan
+# Profile enhanced military information MVP - Stakeholder Interview research plan
 ## Background
 Legislation has been passed that requires us to increase Veteran’s access to their Individual Longitudinal Exposure Record (ILER). As VA leadership considered how to comply with the law, they identified an opportunity to improve the Veteran experience of applying for benefits by surfacing key data points about their military service.
 In this MVP, our goals are to:
