@@ -56,7 +56,6 @@ ________________________________________________________________________________
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #1: Update form components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65490)               
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #4: Update additional info components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65596)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
     - **Sub Goal: Update Unit Tests**
          - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] SPIKE: Understand New Unit Tests Platform Standards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66681)
          - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] ONGOING: Review, Update, Fix, and Log Offending Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)
