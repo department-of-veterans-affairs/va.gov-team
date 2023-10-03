@@ -194,7 +194,7 @@ Finalize read access by adding in the non-mvp data elements (this is dependent o
 
 This is highly dependent on DoD/VBA conversations around Section 803 and is not ready to be worked on. 
 
-We'll support some kind of edit access/process (ideas that are not finalized by the working group: link to respective DoD military record corrections website, create a VA process the electronically delivers a military record correction request to the respective branch of the DoD, update the data through some process where “VA to promulgate a regulation defining the ‘evidence considered necessary.’”) 
+We'll support some kind of edit access/process (ideas that are not finalized by the working group: link to respective DoD military record corrections website, create a VA process that electronically delivers a military record correction request to the respective branch of the DoD, update the data through some process where “VA to promulgate a regulation defining the ‘evidence considered necessary.’”) 
 
 
 ## Measuring Success
