@@ -17,9 +17,12 @@ Please add any potential future topics you would like covered below:
 
 ## Topic Dives
 
-### 8/28/23 - NGrok
+### - NGrok
 - @dsasser
 
+### 10/16/23 - Datadog!
+- Chris Kim & Eli Selkin
+- Datadog is a monitoring tool now available to VFS teams. Recently, Chris & Eli configured monitors and synthetic tests for Public Websites and Facilities use cases, and will share learnings.
 
 ### 6/12/23 - Cerner/KISS
 - Ryan Koch
