@@ -150,18 +150,18 @@ Timeline
 
 ### Prepare
 
-Test materials will be finalized by __________ 2023
+Test materials will be finalized by November 6th, 2023
 
 Pilot participant email: TBD
 Date and time of pilot session: TBD
 
 ### Research sessions
 
-Research session will begin on ar after ________ 2023
+Research session will begin on ar after Nov.6th, 2023
 
 ### Length of sessions
 
-1 hour
+1.5 hours
 
 ### Availability
 
