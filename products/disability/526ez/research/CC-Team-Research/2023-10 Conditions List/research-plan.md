@@ -1,24 +1,30 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for Form 526 Conditions List (Contention Classification Team, 2023-10)
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+The VA receives many disability claims where the claimed conditions (“contentions”) are not described with sufficient clarity. In these situations, claims processors often take additional time reviewing records or calling Veterans to get the clarity they need. If we can improve the quality of contention descriptions, we believe we can eliminate some of these extra efforts and reduce overall processing time. To improve contention descriptions, we are exploring the Veteran experience naming/entering contentions on the digital 21-526EZ form when they submit a disability claim. 
+
+On the form, we have observed inefficiencies with the list of medical conditions that is used in the component where Veterans select or enter a condition to claim (see below for a description of the “autosuggest component”). In this list, many conditions are duplicated, many are vague terms, and many are not actually conditions at all, among other usability problems. We want to update this list (“suggested conditions list”) to make it easier for Veterans to find conditions and to include only conditions that are clear and actionable for claims processors.
+
+For this first redesign, we aim to update the suggested conditions list, while minimizing the impact on the current functionality of the autosuggest component that uses the list. In the future, we anticipate more extensive changes that may include updating the autosuggest component, adding new questions and screens that relate to contention naming, improving in-context copy and guidance, and considering altogether new ways to gather contention information.
+
+**Autosuggest component**: Name of the component in the 526 flow where Veterans can name a medical condition to add to their claim. It functions similarly to a combo-box whereby the user can either select a medical condition from a fixed list of options or enter free text to describe their condition.
 
 [Link to product brief](url goes here).
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+This research supports [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) to enhance Veterans’ personalized online experience and to fast-track disability claims (see #6 and #7 from OCTO 2023 priorities).
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+This work fits into the “Taking care of myself” stage of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf), and within that stage, the “Managing primary care and chronic health issues”phase. 
+Where does your product fit into the ?
 
 ## Research Goals	
-What are you trying to learn from this research? 
+* Goal 1: Learn how Veterans think and talk about what medical conditions to claim.
+* Goal 2: Assess whether a type-ahead field with auto-suggestions is a usable/desirable way for Veterans to name conditions they want to claim.
+* Goal 3: Evaluate the revised conditions list. 
+
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
