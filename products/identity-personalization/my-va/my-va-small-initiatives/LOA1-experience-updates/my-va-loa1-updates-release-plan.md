@@ -29,7 +29,7 @@ Not applicable - team conducted internal testing.
 ### Planning:
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 100% | 10/02/2023 | _10/02/2023_ |
+| Launch to 100% | 10/03/2023 | _10/03/2023_ |
 
 
  
