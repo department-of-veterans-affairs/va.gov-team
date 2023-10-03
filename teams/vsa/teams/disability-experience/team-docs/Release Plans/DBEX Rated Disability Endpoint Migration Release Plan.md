@@ -161,19 +161,20 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage A: Monitoring phase
 #### Planning  
-Date Started: 
+Date Started: 10/2/23
 ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62318
 Length of time: 1 week
 Percentage of Users (and roughly how many users do you expect this to be): 1%
 #### Results:  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies:
+    - No traffic capture on the LH side
+        - Checked with AE team if they experienced similar issues - v2 traffic was not monitored on their end, and v2 doesn't seem to register on ours; figure out what method was used
 - Rollbacks:
+    -     Rollback reason: No traffic capture on the LH side
+            Date: 10/2/23
+            Severity/Impact: Low - metrics only
+            Ticket(s) created to address:
+            - [ ] Has the issue been resolved?
 
 ### Stage B: Moderate ramp up
 #### Planning  
