@@ -42,4 +42,4 @@ This is very much like a staging review, but done in production.
 We can provide training and resources for you and your team on accessibility best practices and methodologies. 
 
 ### Spot checks, general support
-We are always here for more general, off-the-cuff support, too! Never hesitate to reach out to use on the DSVA slack, either in the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.
+We are always here for more general, off-the-cuff support, too! Never hesitate to reach out to use on the DSVA slack in either the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.
