@@ -27,6 +27,23 @@ Information provided by: Daryl Richardson, BT Management <br/><br/>
 | *Claim Life Cycle Ends.* |
 | **16. Payment Canceled** | The fund transfer did not complete per Claimant and the payment has been canceled. |
 
+
+## Vet-facing information in BTSSS
+
+| Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| ------------------- | ----------  | 
+| **1. Incomplete** | A claim that has been created and saved but no expenses have been added. |
+| **2. Saved** | A claim that has been created and saved but not yet submitted. |
+| **3. Claim Submitted** | A submitted claim for an appointment that has been fulfilled. |
+| **4. In Manual Review** | A submitted claim that requires manual review by a Travel Clerk before it can be approved for payment. (All Donor claims will go through the manual review process.) |
+| **5. Approved for Payment** | A submitted claim that has been approved for payment but not yet paid. |
+| **6. Submitted for Payment** | A submitted claim that has been approved for payment and payment request has been submitted to payer. |
+| **7. Claim Paid** | A submitted claim that has been approved for payment and payment has completed. (Reimbursements for claims submitted by a Caregiver on behalf of a Veteran claimant will be sent to the Caregiver's address or deposited in the Caregiver's account). |
+| **8. On Hold** | A submitted claim that is on hold pending additional information or review. New expenses can be added to On Hold claims in TCM and TCP. The edited claim can be resubmitted for processing and will follow the normal lifecycle flow. Any overrides from earlier expenses will be disregarded and all expenses (new and existing) shall be reprocessed. |
+| **9. Denied** | A submitted claim that has been denied by a Travel Clerk. |
+| **10. Payment Canceled** | A submitted and "paid" claim, but the fund transfer did not complete per Claimant and the payment has been canceled. |
+| **11. Fiscal Rescinded** | Fiscal Rescinded is a submitted claim that has resulted in an FSC rejected payment. |
+
 ## Returned from using the Get Status API 
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/521352d1-9d4b-4702-91c7-6a56738f5d44)
