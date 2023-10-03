@@ -3,8 +3,8 @@
 - **Date**: Tuesday, Oct. 3, 2023
 - **Time**: 1 -1:30 p.m. EST
 - [Zoom Link](https://coformaco.zoom.us/j/89980229354?pwd=c0RLL2lWYldjdzdDWlNBekpEZmg0dz09)
-- [Google Doc Version](x) (Access Required)
-- [Microsoft Word Version](x)
+- [Google Doc Version - not linked yet](x) (Access Required)
+- [Microsoft Word Version - not converted or linked yet](x)
 
 
 ## About the CAIA Team
