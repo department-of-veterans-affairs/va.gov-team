@@ -137,6 +137,10 @@ Mobile users:
 ### Screener Questions:
 
 1. Do you have any upcoming appointments listed when you login to VA.gov?
+2. Do you have appointmets only at the facilities listed below?
+  • Spokanne, WA
+  • Columbus, OH
+
 
 
 
