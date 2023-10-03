@@ -82,7 +82,6 @@ This will be a survey that participants fill out remotely and asynchronously.
 - [Cohort 5](https://dj540s05.optimalworkshop.com/questions/uam0fum2?token=5)
 - [Cohort 6](https://dj540s05.optimalworkshop.com/questions/uam0fum2?token=6)
 - [Cohort 7](https://dj540s05.optimalworkshop.com/questions/uam0fum2?token=7)
-(Kristen: Double check that the links are still correct after Nina launches the study.)
 
 ## Recruitment	
 We will work with Perigean to handle the recruitment, scheduling, and compensation of Veterans and caregivers. 
@@ -130,7 +129,7 @@ We will ask Perigean to recruit 63 people using the cohorts below to get at leas
 |Bachelors       |        |        |        |        |        |        |   2     |       
 |Masters         |        |        |        |        |        |        |   2    |     
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
-|***?*** |        |        |        |        |        |        |        |        
+|***Log In*** |        |        |        |        |        |        |        |        
 |MyHealtheVet     |   7     |    7    |    7    |    7    |   7     |        |  7     |    
 
 
@@ -143,10 +142,10 @@ We will ask Perigean to recruit 63 people using the cohorts below to get at leas
    	- No *(disqualify)*   
 
 ## Timeline
-- 9/28: Kristen reviews for approval
-- 9/28: Submit to research ops for approval
-- 9/29: Pilot session (scheduled)
-- 10/13: Kick-off meeting with Perigean
+- 9/29: Pilot session (scheduled and done)
+- 10/3: Kristen reviews for approval (approved)
+- 10/3: Submit to research ops for approval
+- 10/5: Kick-off meeting with Perigean
 
 ### Prepare
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
