@@ -61,7 +61,7 @@ I’d love to ask a question to get to know you before we start the interview ab
 
 Rapport building
 
--   What do you like to do with your free time? OR Where was the best place you visited while in service? 
+-   What do you like to do with your free time? OR Where was the best place you visited while in service? OR Did you got to any international bases? Where were you stationed during your service?
     
 
 #### Observer consent
