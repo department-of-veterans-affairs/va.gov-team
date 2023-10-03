@@ -1,5 +1,4 @@
 # Research Plan for Form 526 Conditions List (Contention Classification Team, 2023-10)
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
 The VA receives many disability claims where the claimed conditions (“contentions”) are not described with sufficient clarity. In these situations, claims processors often take additional time reviewing records or calling Veterans to get the clarity they need. If we can improve the quality of contention descriptions, we believe we can eliminate some of these extra efforts and reduce overall processing time. To improve contention descriptions, we are exploring the Veteran experience naming/entering contentions on the digital 21-526EZ form when they submit a disability claim. 
@@ -25,73 +24,63 @@ Where does your product fit into the ?
 * Goal 2: Assess whether a type-ahead field with auto-suggestions is a usable/desirable way for Veterans to name conditions they want to claim.
 * Goal 3: Evaluate the revised conditions list. 
 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
-
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+The purpose of this research is both evaluative and generative. We want to evaluate the concept of an auto-suggest field for naming a condition and our first iteration on the conditions list. We will use what we learn to make improvements to the conditions list prior to release. 
+
+More broadly, we want to understand how Veterans think and talk about what medical conditions to claim.This understanding will inform future, more wide-ranging design ideas for improving the Veteran experience naming a contention.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+Goal 1: Learn how Veterans think and talk about what medical conditions to claim.
+* How do Veterans decide to file a claim and for what medical conditions? How do they describe their medical condition?
+* How familiar are Veterans with commonly rated disabilities or with resources like the rating schedule?
+* How do they prepare to file a claim and what resources do they use, as they prepare? What people or organizations do they seek assistance from? 
+
+Goal 2: Assess whether a type-ahead field with auto-suggestions is a usable/desirable way for Veterans to name conditions they want to claim.
+* What are Veterans thinking about when they come to the condition field where they are instructed to “Please tell us the new conditions you want to claim”? What does it mean to them?
+* What do the auto-suggestions represent to the Veteran? What are they a list of?
+* Do Veterans understand that they have the option to type in their condition? Did they read and understand the introductory copy?
+
+Goal 3: Evaluate the revised conditions list.
+* Are Veterans able to find their conditions from the auto-suggestions? How do they go about evaluating the auto-suggestions and choosing from multiple options?
+* (if a Veteran selects from the auto-suggestions), do they edit the content or just leave it as it is? Do they feel like they should provide additional information within the field?
+* (If a Veteran understands that free text is an option), how do they decide when to choose from the auto-suggestions and when to type in their condition?
+* If a Veteran can’t find their condition, how does this make them feel?
+* Does selecting from the list give Veterans confidence in what they submitted? Do they think the VA has what it needs to understand what they are claiming?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+Our hypothesis is that the way we write terms for the suggested conditions list can have an impact on findability for Veterans and actionability for claims processors. Some of our strategies include the following:
+* Use common medical terminology rather than medical jargon, and incorporate plain language alternatives (e.g., “tinnitus (ringing in the ears)”)
+* Exclude terms that are overly broad or otherwise unhelpful for claims processor purposes
+* Exclude terms that do not represent potentially ratable conditions (e.g., “aging”). This could be misleading to Veterans and contribute to the creation of contentions that have a low likelihood of resulting in an award. 
+* Make terms mutually exclusive, where possible. We do not want Veterans to wonder whether they should select one condition or another. 
+* Use consistent formatting
+
+What we are using to help us:
+* Frequency data on what terms Veterans select from the current list
+* Data on free-text contentions
+* Input from claims processors and resources used by claims processors (including the rating schedule from the CFR)
+
+What we have learned from prior research:
+* Veterans face challenges in the disability claims process, including insufficient, confusing or misleading guidance and a perceived lack of transparency about the process. 
+* Veterans come to the process having done a range of pre-work and having benefited from varying levels of outside assistance.  
+* Some Veterans do not understand that typing in a condition is an option (in the existing autosuggest component).
+
+What Veterans might think about the type ahead field concept
+* We think Veterans with the most common conditions will be able to find their condition. 
+* We think that Veterans will expect that auto-suggested conditions meet the needs of the VA.
+* We think the amount of prep and type of support Veterans receive in filing a claim will have implications for how usable the concept is for them.
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+We will conduct a concept test, followed by a semi-structured interview. For the concept test, we will ask Veterans to enter conditions based on their actual conditions. We will screen for Veterans who have either filed in the past or who are planning to file for disability in the future. We will have a mock scenario prepared as a back-up, in cases where the Veteran does not have conditions in mind or is uncomfortable using their actual conditions. 
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+We will use a Codepen prototype for the concept test. The prototype will be available on mobile or desktop.The reason for using Codepen is that it allows us to test the type ahead concept that leverages a source list of 200+ items. We cannot feasibly replicate this interaction in Sketch. 
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Session will be conducted remotely during zoom. 
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+* [Conversation Guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/conversation-guide.md)
+* [Prototype] - The Codepen prototype is in draft form. 
 	
 ## Recruitment	
 
