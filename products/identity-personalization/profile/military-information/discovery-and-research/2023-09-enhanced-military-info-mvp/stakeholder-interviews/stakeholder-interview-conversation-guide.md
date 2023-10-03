@@ -18,9 +18,8 @@ Can you give us an brief overview of your role and where it sits within the VA o
 3. How did stakeholders react to the prototype they developed?
 4. Why wasn’t the prototype implemented?
 5. What happened after the prototype conversations?
-6. Why wasn't the prototype implemented?
-7. I understand there is an API available to us that we can leverage to generate an PDF of a Veterans ILER. What can you tell me about that?
-8. Do you have any idea if that PDF generated is accessible (508 compliant)?
+6. I understand there is an API available to us that we can leverage to generate an PDF of a Veterans ILER. What can you tell me about that?
+7. Do you have any idea if that PDF generated is accessible (508 compliant)?
 
 ### Military data points
 1. There are 8 data points that have been identified to surface as an MVP for this work, and I understand they were selected because they will improve the Veteran experience of applying for benefits. Can you share me your thoughts on how surfacing these will improve the Veteran experience?
