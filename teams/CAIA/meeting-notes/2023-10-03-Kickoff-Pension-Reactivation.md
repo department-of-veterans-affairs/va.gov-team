@@ -33,10 +33,10 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 - [x] **Intake Ticket** - create tasks lists for each discipline area (a11y, content and IA)(Sara)
 - [ ] **Create tasks or issues in each task list:**
     - [ ] **A11y**
-        - [ ] Accessibility Audit (never been done)
+        - [x] Accessibility Audit (never been done)#66843
         - [ ] Midpoint support requested
         - [ ] Staging support requested
-        - [ ] Research Planning (post launch 2024) (Sara)
+        - [x] Research Planning (post-launch 2024) #66842 (Sara)
         - [ ] Plus future tickets as needed
     - [ ] **Content**
         - [ ] Midpoint support: Content (Lily)
