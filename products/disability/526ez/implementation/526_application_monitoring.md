@@ -12,9 +12,8 @@ Document the current state of our 526 monitoring.
 ## KPIs, associated Monitors, and playbooks
 
 ### Playbook(s)
-If you've arrived at this document via an alert in Slack or Issue in datadog, you are probably looking for a Playbook.  Eventually, there will be multiple playbooks for groups of alerts, but for now we have one, top level playbook.
+If you've arrived at this document via an alert in Slack or Issue in datadog, you are probably looking for a Playbook. Below each monitor / Alert below find the applicable playbook
 
-[If you are responding to an alert, use this playbook as your guide](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/526-submit-form-0781-success-percentage.md)
    
 ### Monitors & Alerts
 - [Form 526 Backup Submission Error. Investigate](https://vagov.ddog-gov.com/monitors/110156)
