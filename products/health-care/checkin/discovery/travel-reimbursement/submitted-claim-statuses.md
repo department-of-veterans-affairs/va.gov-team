@@ -3,6 +3,8 @@
 Created: September 21, 2023 <br/>
 Information provided by: Daryl Richardson, BT Management <br/><br/>
 
+## Staff-facing definitions
+
 | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | ------------------- | ----------  | 
 | **1. Claim Initiation** | Beneficiary Claimant, Caregiver, Donor, or Travel Clerk starts a travel claim associated with a completed appointment. |
@@ -24,3 +26,7 @@ Information provided by: Daryl Richardson, BT Management <br/><br/>
 | **15. Claim Paid** | The fund transfer has been completed per FMS. |
 | *Claim Life Cycle Ends.* |
 | **16. Payment Canceled** | The fund transfer did not complete per Claimant and the payment has been canceled. |
+
+## Returned from using the Get Status API 
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/521352d1-9d4b-4702-91c7-6a56738f5d44)
