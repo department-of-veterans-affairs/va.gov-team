@@ -79,40 +79,51 @@ We will use a Codepen prototype for the concept test. The prototype will be avai
 Session will be conducted remotely during zoom. 
 
 ### Research materials
-* [Conversation Guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/conversation-guide.md)
-* [Prototype] - The Codepen prototype is in draft form. 
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/conversation-guide.md)
+* [DRAFT Prototype](https://codepen.io/Tyler-Spangler-the-reactor/pen/vYvzyBQ)
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+We are targeting 8 Veterans to participate in this study, with the aim to interview at least 6 Veterans.  
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+We’ll use a lean maximum variation strategy for inclusivity, targeting 2 criteria (age and gender) as primary sample distribution criteria, and race/ethnicity as a secondary sample distribution criteria.
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+Note that in subsequent studies, we will try to include participants with cognitive disabilities and LGBTQ+ participants.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+Participants for this study: 8 Veterans. We would like to request a kickoff call with Perigean. Requested date/time:Tues, Oct 10, 2023 at 11am ET.
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+All participants have used VA.gov (in any capacity, whether to file some kind of claim or to access information). 
+* Experience with disability benefits
+** 4 Veterans (50%) who have never filed for disability, but who intend to within a year. 
+** 4 Veterans (50%) who have filed for disability benefits before on va.gov.
+*Time of service 
+** At least 2 Veterans (target 4 Veterans) who served in 1990 or before.
+** At least 2 Veterans (target 4 Veterans) who served after 1990. 
+* Gender
+**At least 2 but no more than 4 Veterans who identify as a gender other than male
+* Age
+** At least 2 but no more than 4 Veterans over 55 years old. 
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+* Attempt at least 2 but no more than 4 Veterans under 35 years old
+* Attempt at least 2 but no more than 4 Veterans who are not white/Caucasian
+
+**Screener questions**
+* Have you ever used the va.gov website?
+** Yes (qualified)
+** No (not qualified)
+* Have you ever filed a disability claim on va.gov? If no, are you planning on filing a disability claim on va.gov within the year? 
+** Yes, has filed a disability claim on va.gov (quota - recruit 4 Veterans)
+** No, has not filed a disability claim but intends to on va.gov within the year (quota - recruit 4 Veterans)
+** No, has not filed a disability claim and does not intend to within the year (not qualified)
+* When did you serve?
+** 1990 or before (recruit 2-4)
+** After 1990 (recruit 2-4)
+** (Note: It is ok for someone to select both of these time periods.)
+
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
