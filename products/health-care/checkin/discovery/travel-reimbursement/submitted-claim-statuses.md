@@ -30,6 +30,8 @@ Information provided by: Daryl Richardson, BT Management <br/><br/>
 
 ## Vet-facing information in BTSSS
 
+[**What Does My Claim Status Mean?** from BTSSS help section](https://github.com/department-of-veterans-affairs/va.gov-team/files/12796525/KA-01021.BTSSS.pdf)<br/><br/>
+
 | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | ------------------- | ----------  | 
 | **1. Incomplete** | A claim that has been created and saved but no expenses have been added. |
