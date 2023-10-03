@@ -132,7 +132,6 @@ _Why would your business want this to exist?_
 
 |Project|Status|
 |----|----|
-|Remove "notifications" section| In progress|
 |My VA explorations| In progress|
 
 ### Completed projects & enhancements
@@ -143,6 +142,7 @@ _Why would your business want this to exist?_
 
 |Project|Launch/Completion date|
 |----|----|
+|Remove "notifications" section| October 3, 2023|
 |[LOA1 updates to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|October 3, 2023|
 |[Dot indicator experiment + implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md) | September 2023 |
 |[Benefit Application Drafts enhancments (Hiding the "what benefits does VA offer menu")](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509)|September 2023|
