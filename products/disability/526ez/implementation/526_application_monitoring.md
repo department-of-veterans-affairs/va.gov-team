@@ -40,7 +40,10 @@ If you've arrived at this document via an alert in Slack or Issue in datadog, yo
  
 ### TODO:  
 - add an alert that checks for retry exhaustion on 526 backup submission ([PR to add required metric for this is WIP]([url](https://github.com/department-of-veterans-affairs/vets-api/pull/14023)))
-- Add an alert for any instance of a 429 (rate limit reached) from LH
+- [Add an alert for any instance of a 429 (rate limit reached) from LH per Marks suggestion](https://dsva.slack.com/archives/C05URMLM09Z/p1696264159183519?thread_ts=1696264035.396779&cid=C05URMLM09Z)
+- Refine EVSS health monitor to just be our EVSS stuff that we are capturing
+- Document endpoints we are not capturing
+
 
 ## Dashboards
 - [Form 526 Disability Compensation](https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/form-526-disability-compensation?refresh_mode=sliding&from_ts=1695135168409&to_ts=1695307968409&live=true)
