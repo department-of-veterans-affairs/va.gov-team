@@ -53,16 +53,14 @@ This research will inform updates to the appointment notifications experience an
 
 ### Research questions
 1. Which appointment notifications are helpful for Veterans the most and the least?
-2. How do Veterans prefer to receive their notifications? (Kristen: How does this differ to #3?)
-3. What formats (text, email, phone call, or push notifications) do Veterans prefer to receive and for which notifications?
-4. How do Veterans feel about receiving appointments and appointment-related notifications?
+2. What formats (text, email, phone call, or push notifications) do Veterans prefer to receive and for which notifications?
+3. How do Veterans feel about receiving appointments and appointment-related notifications?
 
 ### Hypothesis
-- Some Veterans might not know how to manage their notifications, which causes them to receive no notifications or too many notifications. (Kristen: We aren't going to be able to detect this from this study. Remove this hypothesis.)
+- Veterans will have a clear opinion on the value of each notification.
 - For a straightforward appointment (without canceling, rescheduling or other difficulties), Veterans only need 4 notifications. They include a reminder with pre-check-in questions, check-in, AVS, and money-related (e.g., copay and travel pay) notifications.
 - Veterans expect to receive email, text, and phone call notifications.
   - The modality of communication they prefer will be a personal preference.
-- Veterans might want to add their caregivers’ emails and phone numbers to receive notifications. (Kristen: We don't have anything in the study asking about caregiver emails, so we won't get any feedback about this. Remove from the study.)
 
 ## Methodology	
 
@@ -93,19 +91,20 @@ We will work with Perigean to handle the recruitment, scheduling, and compensati
 We will ask Perigean to recruit 63 people using the cohorts below to get at least 35 completes.
 
 ### Recruitment criteria
+**We want to have a kickoff meeting with Perigean (Jenny to add dates and times).**
 
-We will schedule a total of 24 Veterans for an expected completion rate of 18-20 interviews. (Kristen: This sentence doesn't apply.)
-
+**All participants must have:**
 •	All have a computer or mobile device and are willing to use it to complete the activity. 
 •	All must have been to a VA health care facility for medical appointments for themself or a Veteran that they care for in the last 12 months. 
 •	All must have filed a travel reimbursement claim in the past.
+
 
 
 |Total requested|Completed sessions|
 |:-------------:|:----------------:|
 |       63      |         35       | 
 
-### Criteria Table
+### Cohort Description
 
 |                |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|
 |----------------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
@@ -121,8 +120,8 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 |55+ yo          |        |        |        |        |     9  |        |        |          
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
 |***Role*** |        |        |        |        |        |        |        |        
-|Veteran    |     9   |   9     |     9   |   9     |    9    |    9    |       |    
-|Caregiver    |        |        |        |        |        |        |  9     |      
+|Veteran    |     9   |   9     |     9   |   9     |    9    |        |   9    |    
+|Caregiver    |        |        |        |        |        |    9    |        |      
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
 |***Education*** |        |        |        |        |        |        |        |        
 |High School     |        |        |        |        |        |        |  3     |    
@@ -130,27 +129,18 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 |Associate's     |        |        |        |        |        |        |  1      |      
 |Bachelors       |        |        |        |        |        |        |   2     |       
 |Masters         |        |        |        |        |        |        |   2    |     
-|       ---      |  ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|******COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES******     |        |        |        |        |        |        |        |        |        |        |         |
-|*Various*     |       |       |       |       |       |  9     |      |        |        |        |         |
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***?*** |        |        |        |        |        |        |        |        
+|MyHealtheVet     |   7     |    7    |    7    |    7    |   7     |        |  7     |    
+
 
 ### Screener questions
 1. Have you been to a VA healthcare facility for a medical appointment in the last 12 months?
    	- Yes *(go onto question 2)*
    	- No *(disqualify)*
-2. How often, if at all, have you used My HealtheVet, in the past 6 months? (Kristen: Let's talk about if Question 2 and 3 are required.)
-   	- Never used it * (disqualify)
-   	- 1-2 times in the past 6 months (disqualify)
-   	- 2-3 times a month in the past 6 months (go onto question 3)
-   	- More than 3 times a month in the past 6 months (go onto question 3)
-3. Do you have a My HealtheVet (MHV) account?
-   	- Yes *(go onto question 4)*
-   	- No *(disqualify)*
-4. Have you ever filed for a travel reimbursement?
+2. Have you ever filed for a travel reimbursement?
    	- Yes *(qualify)*
    	- No *(disqualify)*   
-
-(Kristen: Need to add the cognitive impairment screener question that they will use. Also, need to ask for a recruitment kickoff. We want to make sure that Perigean understands the cohorts.)
 
 ## Timeline
 - 9/28: Kristen reviews for approval
