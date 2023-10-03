@@ -3,7 +3,7 @@
 ## Background
 The appointments team is thinking of ways to better the future appointment notifications, which is a crucial part of the authenticated experience for managing their health. We know that Veterans rely on different forms of notifications to be on top of managing their appointments, and staff at VA facilities use different systems to send out notifications. There could be excessive notifications, no notifications, or inconsistent notifications about the same appointment. From past studies, we know that systems are disconnected, and we need to streamline how we send out notifications, which requires additional technical discovery. The focus of this research is to understand Veterans’ preferences on appointment notifications, define the desired future state of appointment notifications, and prioritize what notifications experience the appointment team should build first.
 
-[Link to product brief](url goes here).
+[Link to appointments product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/vaos-product-outline.md).
 
 ### OCTO Priorities 
 This research supports:
@@ -53,15 +53,16 @@ This research will inform updates to the appointment notifications experience an
 
 ### Research questions
 1. Which appointment notifications are helpful for Veterans the most and the least?
-2. How do Veterans prefer to receive their notifications?
+2. How do Veterans prefer to receive their notifications? (Kristen: How does this differ to #3?)
 3. What formats (text, email, phone call, or push notifications) do Veterans prefer to receive and for which notifications?
 4. How do Veterans feel about receiving appointments and appointment-related notifications?
 
 ### Hypothesis
-- Some Veterans might not know how to manage their notifications, which causes them to receive no notifications or too many notifications.
-- For a straightforward appointment (without canceling or rescheduling or other difficulties), Veterans only need 4 notifications, which are a reminder, check-in, AVS, and money-related (e.g., copay and travel pay) notifications.
+- Some Veterans might not know how to manage their notifications, which causes them to receive no notifications or too many notifications. (Kristen: We aren't going to be able to detect this from this study. Remove this hypothesis.)
+- For a straightforward appointment (without canceling, rescheduling or other difficulties), Veterans only need 4 notifications. They include a reminder with pre-check-in questions, check-in, AVS, and money-related (e.g., copay and travel pay) notifications.
 - Veterans expect to receive email, text, and phone call notifications.
-- Veterans might want to add their caregivers’ emails and phone numbers to receive notifications. 
+  - The modality of communication they prefer will be a personal preference.
+- Veterans might want to add their caregivers’ emails and phone numbers to receive notifications. (Kristen: We don't have anything in the study asking about caregiver emails, so we won't get any feedback about this. Remove from the study.)
 
 ## Methodology	
 
@@ -92,10 +93,12 @@ We will ask Perigean to recruit 63 people using the cohorts below to get at leas
 
 ### Recruitment criteria
 
-We will schedule a total of 24 Veterans for an expected completion rate of 18-20 interviews. 
+We will schedule a total of 24 Veterans for an expected completion rate of 18-20 interviews. (Kristen: This sentence doesn't apply.)
 
 •	All have a computer or mobile device and are willing to use it to complete the activity. 
 •	All must have been to a VA health care facility for medical appointments for themself or a Veteran that they care for in the last 12 months. 
+•	All must have filed a travel reimbursement claim in the past.
+
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
@@ -260,7 +263,7 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 1. Have you been to a VA healthcare facility for a medical appointment in the last 12 months?
    	- Yes *(go onto question 2)*
    	- No *(disqualify)*
-2. How often, if at all, have you used My HealtheVet, in the past 6 months?
+2. How often, if at all, have you used My HealtheVet, in the past 6 months? (Kristen: Let's talk about if Question 2 and 3 are required.)
    	- Never used it * (disqualify)
    	- 1-2 times in the past 6 months (disqualify)
    	- 2-3 times a month in the past 6 months (go onto question 3)
@@ -271,6 +274,8 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 4. Have you ever filed for a travel reimbursement?
    	- Yes *(qualify)*
    	- No *(disqualify)*   
+
+(Kristen: Need to add the cognitive impairment screener question that they will use. Also, need to ask for a recruitment kickoff. We want to make sure that Perigean understands the cohorts.)
 
 ## Timeline
 - 9/28: Kristen reviews for approval
