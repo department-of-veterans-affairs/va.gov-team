@@ -1,11 +1,13 @@
 # Project outline: On-site notifications MVP
 
-**Last updated: January 27, 2023 - updated metrics**
+**Last updated: October 3, 2023 - updated key dates**
 
 ### Communications
 
 - **GitHub Label**: vsa-authenticated-exp; notifications
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+- **Development epic:** [#30611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611)
+- **Collaboration Cycle epic:** [#32151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32151)
 
 ### Roles
 
@@ -122,6 +124,7 @@ The following is needed for the MVP build:
 - October 13, 2022: Launch to 25%
 - October 17, 2022: Launch to 50%
 - October 24, 2022: Launch to 100%
+- October 3, 2023: _Feature was removed from production for all users (Hidden behind a feature flag)_
 
 ## Backend
 
