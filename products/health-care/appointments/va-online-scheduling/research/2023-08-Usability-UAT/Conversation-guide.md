@@ -126,7 +126,7 @@ _[iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/re
 
 
 
-#### Task 2: Facility/clinic selection for direct scheduling(10 minutes)
+#### Task 1: Facility/clinic selection for direct scheduling(10 minutes)
 
 
 
@@ -162,7 +162,7 @@ Observe as they navigate. Are the breadcrumbs accurate? Are they using the descr
 * TASK 2: Navigate to a past appointment to do the same thing but again, you do not have to print anything.
 * TASK 2: If you have a pending appointment, go ahead and do the same thing. 
 
-#### Task 4: After visit summary (10 minutes)
+#### Task 5: After visit summary (10 minutes)
 
 
 
