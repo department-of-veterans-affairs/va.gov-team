@@ -20,9 +20,7 @@
 
 ## Key takeaways
 
-- We agreed on this approach:
-  - We will update the education/work study category name to `Education benefits and work study` once the CRM team is able to add a `Veteran Readiness & Employment` topic to this category.
-  - Until we can add this VR&E topic, we will keep the chapter numbers in the education/work study category name.
+- We agreed we will update the education/work study category name to `Education benefits and work study` once the CRM team is able to add a `Veteran Readiness & Employment` topic to this category. Until we can add this VR&E topic, we will keep the chapter numbers in the education/work study category name.
 - We made final edits to topic names, here is the agreed upon list of topic and subtopic labels:
 
 #### Topics and subtopics
