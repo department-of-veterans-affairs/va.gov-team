@@ -1,6 +1,6 @@
 # Initiative outline: Update LOA1 experience on My VA
 
-**Last updated: August 9, 2023 - published**
+**Last updated: October 3, 2023 - key dates and "after" screenshot**
 
 ### Communications
 
@@ -35,7 +35,7 @@ We will be updating the LOA1 state to have 5 sections instead of the existing 2:
 ## Key Dates
 
 - August 2023: Development
-- ...
+- October 2023: Release
    
 ## Screenshots
 
@@ -46,4 +46,4 @@ We will be updating the LOA1 state to have 5 sections instead of the existing 2:
 
 
 ### After
-TK
+![Screenshot 2023-10-03 at 11 40 18 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/0eae5bc3-2783-4650-98bc-252b03f52d18)
