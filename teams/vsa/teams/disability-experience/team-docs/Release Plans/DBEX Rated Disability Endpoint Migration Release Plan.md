@@ -80,6 +80,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - List identified user emails/Slack handles:
     - Robin Garrison, @Robin Garrison
     - Mike Richard @Mike Richard
+        - 9/27
     - Rocio De Santiago @Rocio De Santiago - Coforma
 - [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
