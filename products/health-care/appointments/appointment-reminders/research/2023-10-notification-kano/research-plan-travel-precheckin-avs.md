@@ -108,156 +108,26 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 
 |                |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|
 |----------------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-|***SEX***       |        |        |        |        |        |        |        |           
-|*Various*       |        |        |    9   |     9  |   9    |   9    |   9    |         
+|***SEX***       |        |        |        |        |        |        |        |                 
 |Male            |        |   9    |        |        |        |        |        |        
 |Female          |    9   |        |        |        |        |        |        |            
-|***LGBTQ+***    |        |        |        |        |        |        |        |      
-|*Various*       |        |        |        |        |        |        |        |            
-|Gay             |        |        |        |        |        |        |        |              
-|Lesbian         |        |        |        |        |        |        |        |           
-|Bisexual        |        |        |        |        |        |        |        |         
-|Asexual         |        |        |        |        |        |        |        |       
-|Transgender     |        |        |        |        |        |        |        |        
-|Non-Binary      |        |        |        |        |        |        |        |       
-|Gender-fluid    |        |        |        |        |        |        |        |       
-|Queer           |        |        |        |        |        |        |        |      
-|Two-Spirit      |        |        |        |        |        |        |        |      
-|       ---      |  ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |       
-|***RACE***      |        |        |        |        |        |        |        |                    
-|*Various*       |  9     |   9    |   9    |   9    |    9   |   9    |  9     |        
-|Black           |        |        |        |        |        |        |        |              
-|White           |        |        |        |        |        |        |        |                   
-|Latinx          |        |        |        |        |        |        |        |                           
-|Asian           |        |        |        |        |        |        |        |                  
-|Native          |        |        |        |        |        |        |        |                   
-|Pacific Islander|        |        |        |        |        |        |        |                  
-|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |         
-|***AGE***       |        |        |        |        |        |        |        |       
-|*Various*       |    9   |     9  |        |        |        |   9    |    9   |      
-|18-24 yo        |        |        |    4   |        |        |        |        |        
-|25-34 yo        |        |        |    5   |  4     |        |        |        |      
-|35-44 yo        |        |        |        |    5   |        |        |        |       
-|45-54 yo        |        |        |        |        |        |        |        |       
-|55+ yo          |        |        |        |        |     9  |        |        |     
-|      ---       |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   
-|***BENEFITS***  |        |        |        |        |        |        |        |      
-|*Various*       |        |        |        |        |        |        |        |      
-|*No Ben/Ser Exp*|        |        |        |        |        |        |        |        
-|Disability      |        |        |        |        |        |        |        |    
-|Education       |        |        |        |        |        |        |        |        
-|Employment      |        |        |        |        |        |        |        |        
-|Finances        |        |        |        |        |        |        |        |     
-|Healthcare      |    9   |   9    |    9   |   9    |    9   |   9    |   9    |        
-|Housing         |        |        |        |        |        |        |        |     
-|Life Insurance  |        |        |        |        |        |        |        |        
-|Memorialization |        |        |        |        |        |        |        |      
-|Pension         |        |        |        |        |        |        |        |        
-|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |      
-|***BRANCH***    |        |        |        |        |        |        |        |       
-|*Various*       |        |        |        |        |        |        |        |        
-|Marine Corps    |        |        |        |        |        |        |        |   
-|Army            |        |        |        |        |        |        |        |        
-|Navy            |        |        |        |        |        |        |        |      
-|Air Force       |        |        |        |        |        |        |        |     
-|Space Force     |        |        |        |        |        |        |        |        
-|Coast Guard     |        |        |        |        |        |        |        |       
-|Nat. Guard      |        |        |        |        |        |        |        |    
-|Pub Hlth Corps  |        |        |        |        |        |        |        |        
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
-|***EDUCATION*** |        |        |        |        |        |        |        |      
-|*Various*       |    9   |   9    |    9   |    9   |    9   |    9   |        |       
-|Elementary      |        |        |        |        |        |        |        |        
-|Intermediate    |        |        |        |        |        |        |        | 
-|GED             |        |        |        |        |        |        |        |   
+|***Age***       |        |        |        |        |        |        |        |           
+|18-24 yo        |        |        |    4   |        |        |        |        |        
+|25-34 yo        |        |        |    5   |        |        |        |        |      
+|35-44 yo        |        |        |        |    4   |        |        |        |       
+|45-54 yo        |        |        |        |   5     |        |        |        |       
+|55+ yo          |        |        |        |        |     9  |        |        |          
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***EDUCATION*** |        |        |        |        |        |        |        |        
 |High School     |        |        |        |        |        |        |  3     |    
-|Some College    |        |        |        |        |        |        |  3     |        
-|Associate's     |        |        |        |        |        |        |        |      
-|Bachelors       |        |        |        |        |        |        |        |       
-|Masters         |        |        |        |        |        |        |   3    |     
-|Professional    |        |        |        |        |        |        |        |      
-|Doctoral        |        |        |        |        |        |        |        |    
-|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***RESIDENCE*** |        |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |        |        |        |        |        |        |        |        |        |        |         |
-|Urban           |        |        |        |        |        |        |        |        |        |        |         |
-|Rural           |        |        |        |        |        |        |        |        |        |        |         |
-|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***HARDWARE***  |        |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |        |        |        |        |        |        |        |        |        |        |         |
-|Desktop         |        |        |        |        |        |        |        |        |        |        |         |
-|Laptop          |        |        |        |        |        |        |        |        |        |        |         |
-|Smartphone      |        |        |        |        |        |        |        |        |        |        |         |
-|Tablet          |        |        |        |        |        |        |        |        |        |        |         |
-|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***WEBSITE***   |        |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |        |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(has acct)|        |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(no acct) |        |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |   9    |  9     |     9  |   9    |    9   |  9     |  9     |        |        |        |         |
-|Ebenefits       |        |        |        |        |        |        |        |        |        |        |         |
+|Some College    |        |        |        |        |        |        |  1     |        
+|Associate's     |        |        |        |        |        |        |  1      |      
+|Bachelors       |        |        |        |        |        |        |   2     |       
+|Masters         |        |        |        |        |        |        |   2    |     
 |       ---      |  ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***LOGIN***     |        |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |        |        |        |        |        |        |        |        |        |        |         |
-|DS Logon        |        |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |    9   |  9     |     9  |   9    |    9   |  9     |  9     |        |        |        |         |
-|ID.me           |        |        |        |        |        |        |        |        |        |        |         |
-|Login.gov       |        |        |        |        |        |        |        |        |        |        |         |
-|       ---      |  ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***ID PROOF***  |        |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |        |        |        |        |        |        |        |        |        |        |         |
-|IAL1            |        |        |        |        |        |        |        |        |        |        |         |
-|IAL2            |        |        |        |        |        |        |        |        |        |        |         |
-|IAL3            |        |        |        |        |        |        |        |        |        |        |         |
-
-
-|                                                             |Participants| 
-|-------------------------------------------------------------|:----------:|
-|***ASSISTIVE TECH***                                         |            | 
-|*Various*                                                    |            |
-|Font resizing/larger                                         |            |
-|Screen reader                                                |            |
-|Braille terminal                                             |            |
-|Speech recognition sftw                                      |            |
-|Speech generating device                                     |            |
-|Speech to text                                               |            |
-|High contrast mode                                           |            |
-|Alternative keyboard                                         |            |
-|Alternative mouse or stylus                                  |            |
-|Keyboard only navigation (no mouse usage)                    |            |
-|Switch access, head pointer, or eye tracking                 |            |
-|Joystick                                                     |            |
-|Teletypewriter or telecommunication device for the deaf (TTY)|            |
-|Closed captions                                              |            |
-|Amplified telephone                                          |            |
-|Hearing aid                                                  |            |
-|Cochlear implant                                             |            |
-|Cane, walker, guide animal, or other walking aid             |            |
-|Wheelchair                                                   |            |
-|Prosthetics                                                  |            |
-|Wearable tech (not prosthetic)                               |            |
-|Augmentive and alternative communication device              |            |
-|Sign language interpreter                                    |            |
-|Speech-to-speech transliterator                              |            |
-|Visual aids                                                  |            |
-|Writing on paper                                             |            |
-|Typing with phone or tablet and showing it to others         |            |
-|Caregiver                                                    |            |
-|                           ---                               |     ---    |
-|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |     9      |
-|*Various*                                                    |            |
-|Traumatic Brain Injury (TBI)                                 |            |
-|Post-Traumatic Stress Disorder (PTSD)                        |            |
-|Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
-|Autism                                                       |            |
-|Vertigo                                                      |            |
-|Aphasia                                                      |            |
-|Dyslexia                                                     |            |
-|Dyscalculia                                                  |            |
-|Distractibility                                              |            |
-|Memory loss                                                  |            |
-|Reading difficulties                                         |            |
-|Low tolerance for cognitive overload                         |            |      
+|******COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES******     |        |        |        |        |        |        |        |        |        |        |         |
+|*Various*     |       |       |       |       |       |  9     |      |        |        |        |         |
 
 ### Screener questions
 1. Have you been to a VA healthcare facility for a medical appointment in the last 12 months?
