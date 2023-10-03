@@ -97,15 +97,15 @@ Participants for this study: 8 Veterans. We would like to request a kickoff call
 **Primary criteria (must-haves)**
 All participants have used VA.gov (in any capacity, whether to file some kind of claim or to access information). 
 * Experience with disability benefits
-** 4 Veterans (50%) who have never filed for disability, but who intend to within a year. 
-** 4 Veterans (50%) who have filed for disability benefits before on va.gov.
+  * 4 Veterans (50%) who have never filed for disability, but who intend to within a year. 
+  * 4 Veterans (50%) who have filed for disability benefits before on va.gov.
 *Time of service 
-** At least 2 Veterans (target 4 Veterans) who served in 1990 or before.
-** At least 2 Veterans (target 4 Veterans) who served after 1990. 
+  * At least 2 Veterans (target 4 Veterans) who served in 1990 or before.
+  * At least 2 Veterans (target 4 Veterans) who served after 1990. 
 * Gender
-**At least 2 but no more than 4 Veterans who identify as a gender other than male
+  * At least 2 but no more than 4 Veterans who identify as a gender other than male
 * Age
-** At least 2 but no more than 4 Veterans over 55 years old. 
+  * At least 2 but no more than 4 Veterans over 55 years old. 
 
 **Secondary criteria (nice-to-haves)**
 * Attempt at least 2 but no more than 4 Veterans under 35 years old
@@ -113,49 +113,58 @@ All participants have used VA.gov (in any capacity, whether to file some kind of
 
 **Screener questions**
 * Have you ever used the va.gov website?
-** Yes (qualified)
-** No (not qualified)
+  * Yes (qualified)
+  * No (not qualified)
 * Have you ever filed a disability claim on va.gov? If no, are you planning on filing a disability claim on va.gov within the year? 
-** Yes, has filed a disability claim on va.gov (quota - recruit 4 Veterans)
-** No, has not filed a disability claim but intends to on va.gov within the year (quota - recruit 4 Veterans)
-** No, has not filed a disability claim and does not intend to within the year (not qualified)
+  * Yes, has filed a disability claim on va.gov (quota - recruit 4 Veterans)
+  * No, has not filed a disability claim but intends to on va.gov within the year (quota - recruit 4 Veterans)
+  * No, has not filed a disability claim and does not intend to within the year (not qualified)
 * When did you serve?
-** 1990 or before (recruit 2-4)
-** After 1990 (recruit 2-4)
-** (Note: It is ok for someone to select both of these time periods.)
+  * 1990 or before (recruit 2-4)
+  * After 1990 (recruit 2-4)
+  * (Note: It is ok for someone to select both of these time periods.)
 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+The prototype will be finalized by October 10, 2023. 
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+Pilot session information
+* Pilot participant email: Tyler Spangler, tyler.spangler@agile6.com
+* Date and time of pilot session: Oct 12, 2023, 3pm EST
 
 ### Research sessions
-* Planned dates of research:
+We are planning to conduct research the week of October 16 and Oct 23 (starting October 18).
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: < 1 hour
+* Buffer time between sessions: 30 minutes 
+* Maximum Sessions per day: 3
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
+* Wednesday October 18: 11am-5pm EST (6 slots) 
+* Thursday October 19: 11am-5pm EST (6 slots) 
+* Friday October 20: 11-2pm, 3pm-4pm EST (4 slots)
+* Monday October 23: 11am-5pm EST (6 slots) 
+* Tuesday October 24: 11am-1:00pm EST (2 slots) 
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
-	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+* Moderator: Eva Heintzelman or Sudeepti Bhatnagar 
+* Research guide writing and task development: Eva Heintzelman
+* Participant recruiting & screening: Perigean
+* Project point of contact: Eva Heintzelman and Sudeepti Bhatnagar
+* Participant(s) for pilot test: Tyler Spangler
+* Accessibility specialist (for sessions where support for assistive technology may be needed): n/a
+* Note-takers: Eva Heintzelman, Sudeepti Bhatnagar, Yurena Garcia-Hevia, Lesley Ropp
+* Observers: Jennifer Bertsch, Tyler Spangler, Luke Short, Shannon Ford
+
+Contact Information of the people serving in the roles above
+* Eva Heintzelman: evaheintzelman@navapbc.com, 202-288-8369
+* Sudeepti Bhatnagar: sudeeptibhatnagar@navapbc.com, 734-255-8989
+* Yurena Garcia-Hevia: yurenagarcia@navapbc.com
+* Lesley Ropp: lesley.ropp@va.gov
+* Jennifer Bertsch: Jennifer.Bertsch@va.gov
+* Tyler Spangler: tyler.spangler@agile6.com
+* Luke Short: luke@verdance.co
+* Shannon Ford: shannon.Ford1@va.gov
