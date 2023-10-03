@@ -7,6 +7,12 @@ Document discovery, open questions, and findings related to the "code yellow" re
 ## Context
 - [The final deliverable is filling out this ticket](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1273)
 
+## Playbook(s)
+If you've arrived at this document via an alert in Slack or Issue in datadog, you are probably looking for a Playbook.  Eventually, there will be multiple playbooks for groups of alerts, but for now we have one, top level playbook.
+
+[If you are responding to an alert, use this playbook as your guide](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/526-submit-form-0781-success-percentage.md)
+
+
 ## List of Services
 
 The following are all of our async services within the 526 form flow
