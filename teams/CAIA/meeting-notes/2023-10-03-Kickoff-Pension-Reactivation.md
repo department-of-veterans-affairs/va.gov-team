@@ -36,8 +36,8 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 
 ## Resources 🔗
 - **[xx/xx/20xx] Opened Collaboration Cycle Ticket: **
-- [ ] Collaboration Cycle Ticket [#NumberLinked] - if applicable
-    - [ ] Design Intent ticket (TBD - as of Kickoff Meeting)
+- [ ] Collaboration Cycle Ticket [Collaboration Cycle for [Benefits Non-Disability, Pension 527EZ, Form Reactivation] #65250](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65250)
+    - [x] Design Intent ticket (Tuesday, September 26, 2023 at 3:30pm ET)
     - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
 
@@ -48,20 +48,22 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
     - [ ] Content Ticket
 
 ## Assets
-- [Product outline](x)
-- [User flows](x)
-- [Wireframes](x)
-- [Prototype](x)
-- [Other Items](x)
-
+[Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/527EZ-reactivation-initiative-brief.md)
+User flows:[Mural of user flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695069026901/50b83f710f1cd2f1f7f3bb63553c349ef90d402a?sender=u4e1fb0748c58370c03f33409) | [Mural of form flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683826730324/61b509f935adaa2acf2f7769a5ba911726a7b237?sender=u0e8ac1d6d7681bb7e1b80558)
+Prototype or mockups: [Sketch](https://www.sketch.com/s/75b363db-6be8-4b7e-8655-8f12f1ea5554)
+Content source of truth: [21P-527EZ paper form](https://www.vba.va.gov/pubs/forms/VBA-21P-527EZ-ARE.pdf)
+Research plan: N/A
+Any epics/issues that may be helpful: [Update Pension 527 Online Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63349)
+Link to testing accounts (please do not paste them in this ticket): [527EZ test accounts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/form-deactivation/527EZ-staging-test-accounts-accessible.md)
 
 ## Meet the Teams
 ### Kickoff Team Partner
-- Team member 1
-- Team member 2
-- Team member 3
-- Team member 4
-- Team member 5
+- Laura Steele
+- Fiorella Galvez
+- Julie Pedtke
+- Maya Carroll
+- Vicky Bellissimo
+- Julie Strothman
 
 ### CAIA Teams
 #### CAIA
