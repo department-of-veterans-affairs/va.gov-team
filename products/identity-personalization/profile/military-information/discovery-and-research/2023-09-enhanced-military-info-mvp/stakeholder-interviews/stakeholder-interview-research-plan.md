@@ -20,4 +20,5 @@ This will be a remote interview conducted over Microsoft Teams
 - Observers: [Authenticated Experience profile team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team)
 - Stakeholders to interview
   - Melissa Rebstock
+  - Angela Allen (VADIR SME)
   - Possibly others depending on the outcome of the conversation with Melissa
