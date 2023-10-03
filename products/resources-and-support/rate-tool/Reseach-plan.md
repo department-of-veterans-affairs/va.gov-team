@@ -67,7 +67,7 @@ Zoom
 
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/rate-tool/readme.md)
-- [Link to prototype](https://sketch.com/s/dbc369e6-21ae-4717-a169-a5e734934f93)
+- [Link to prototype](https://www.sketch.com/s/a513ba38-1d26-41d0-9009-92ea729446e2)
 
 	
 ## Recruitment	
