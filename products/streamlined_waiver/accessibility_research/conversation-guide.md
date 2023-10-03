@@ -99,9 +99,13 @@ Rapport building
 
 Before we look at the website, let’s start with a few warm-up questions.
 
--   What device are you using today?
-    
--   How comfortable are you using your device, how long have you been using it?
+- What device are you using today?
+
+- Does the device you're using have a screen to share?
+
+- What type of screenreader or other assistive technology are you using? (Voiceover? Something else?)
+
+-   How comfortable are you using your screenreader, how long have you been using it?
     
 -   Have you had experience with filling out any online forms with the VA in the past?
     
@@ -142,11 +146,6 @@ Next, I want to get our tech set up.
 
 - If no, turn on transcription.
   
-- What device are you using to attend the session today?
-
-- What type of screenreader or other assistive technology are you using? (Voiceover? Something else?)
-
-- Does the device you're using have a screen to share?
 
 You will be interacting with a test account today. I will provide the login that you will need to enter.
     
