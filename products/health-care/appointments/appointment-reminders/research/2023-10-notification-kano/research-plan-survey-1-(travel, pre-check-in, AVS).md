@@ -90,12 +90,12 @@ We will work with Perigean to handle the recruitment, scheduling, and compensati
 We will ask Perigean to recruit 63 people using the cohorts below to get at least 35 completes.
 
 ### Recruitment criteria
-**We want to have a kickoff meeting with Perigean (Jenny to add dates and times).**
+We want to have a kickoff meeting with Perigean on 10/5 (or as soon as the research plan is approved by research ops and Perigean is available to have the kickoff meeting).  
 
 **All participants must have:**
-•	All have a computer or mobile device and are willing to use it to complete the activity. 
-•	All must have been to a VA health care facility for medical appointments for themself or a Veteran that they care for in the last 12 months. 
-•	All must have filed a travel reimbursement claim in the past.
+- All have a computer or mobile device and are willing to use it to complete the activity.
+- All must have been to a VA health care facility for medical appointments for themself or a Veteran that they care for in the last 12 months.
+- All must have filed a travel reimbursement claim in the past.
 
 
 
