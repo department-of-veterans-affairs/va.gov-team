@@ -14,7 +14,7 @@ Note that CAIA can support teams going through the Collaboration Cycle, but **CA
 
 ## Services we offer
 
-What follows is a menu of the services we offer. No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.
+What follows is a menu of the services we offer. **No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.**
 
 ### Research support
 We can help you plan your research sessions, ensuring that they are equitable and accounting for important accessibility factors. When it comes to running research sessions, we can also provide technical support for research participants who rely on assistive tech, like screen readers. 
