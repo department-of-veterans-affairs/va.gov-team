@@ -1,8 +1,8 @@
-# CAIA Kickoff: [Team Name Goes Here]
+# CAIA Kickoff: Pension Reactivation CAIA Kickoff
 ## Meeting Details
-- **Date**: [Day], [Month] [Date], [Year]
-- **Time**: [00:00] – [00:00] [a.m./p.m.] [Timezone]
-- [Zoom Link](x)
+- **Date**: Tuesday, Oct. 3, 2023
+- **Time**: 1 -1:30 p.m. EST
+- [Zoom Link](https://coformaco.zoom.us/j/89980229354?pwd=c0RLL2lWYldjdzdDWlNBekpEZmg0dz09)
 - [Google Doc Version](x) (Access Required)
 - [Microsoft Word Version](x)
 
@@ -10,8 +10,7 @@
 ## About the CAIA Team
 ### Platform Governance Team
 The Platform Governance Team assists teams specifically through the Collaboration Style, to the launch of a product, via design intent, midpoint review and staging review. 
-
-**[^^Remove if not part of the Collaboration Cycle]**
+[Collaboration Cycle Ticket](https://www.google.com/url?q=https://github.com/department-of-veterans-affairs/va.gov-team/issues/65250&sa=D&source=calendar&ust=1696770625338706&usg=AOvVaw2iQ_QygCj5f5cuyuio2UPx)
 
 ### Content Accessibility and Information Architecture (CAIA)
 CAIA’s  job is to make sure VFS teams are ready for those incremental steps of the Collaboration Cycle, through a partnership with CAIA's three different disciplines. CAIA can work async or embed with VFS teams, depending on the project. 
@@ -21,7 +20,7 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 
 ## Starting the CAIA Process
 ### Process Initiated
-- [ ] Intake Request - this forms the basis of our partnerships with you and becomes an Epic.
+- [x] [Intake Request](https://www.google.com/url?q=https://github.com/department-of-veterans-affairs/va.gov-team/issues/66578&sa=D&source=calendar&ust=1696770625338706&usg=AOvVaw3GRUCTmeaxmyJvTovsyuWj) - this forms the basis of our partnerships with you and becomes an Epic.
 - [ ] We will spin off our tickets within that Epic ticket:
     - [ ] Content
     - [ ] IA
