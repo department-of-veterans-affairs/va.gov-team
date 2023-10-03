@@ -1,6 +1,8 @@
 # Project outline: On-site notifications MVP
 
-**Last updated: October 3, 2023 - updated key dates, added note to Overview**
+**Last updated: October 3, 2023 - updated key dates, added note about removing feature**
+
+**NOTE:** On October 3, 2023, the Notifications section on My VA was removed from production. The feature was hidden behind a feature flag (and will eventually be removed from code) after the team and stakeholders determined this feature was not the right solution for elevating personalized updates at this time.
 
 ### Communications
 
@@ -32,8 +34,6 @@
 VA.gov is in the process of implementing a comprehensive communication strategy to support email, text, and in-app (ie. on VA.gov) notifications. Currently, the VANotify team  builds and manages email notification support for VA.gov, and they are working in tandem with VEText to integrate support for text messages into their platform. 
 
 The third and final pillar -- notifications that show to logged-in users on VA.gov -- is finally ready for MVP development by the auth. experience team. For our MVP, we plan to focus on **one** singular notification to start building the infrastructure to manage more robust on-site notification needs in the future.
-
-**NOTE:** On October 3, 2023, the Notifications section on My VA was removed from production. The feature was hidden behind a feature flag (and will eventually be removed from code) after the team and stakeholders determined this feature was not the right solution for elevating personalized updates at this time.
 
 **MVP use case**: We will show an on-site notification when a new debt is added in someone's VA.gov account.
 
