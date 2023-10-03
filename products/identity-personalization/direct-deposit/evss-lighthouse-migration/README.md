@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: September 26, 2023 -- updating launch info**
+**Last Updated: October 3, 2023 -- updating launch info**
 
 ### Communications
 
@@ -125,6 +125,7 @@ As a person that receives payments from VA, I want to be able to easily view and
 - September 6, 2023: Lighthouse production increase in Gateway timeout changed from 10s to 20s, resulting in a drop in timeout errors
 - September 12, 2023: Launch increased to 10% of users
 - September 26, 2023: Launch increased to 25% of users
+- October 3, 2023: Launche increased to 50% of users
 
 ### Launch issues
 
