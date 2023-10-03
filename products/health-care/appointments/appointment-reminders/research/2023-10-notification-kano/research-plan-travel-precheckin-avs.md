@@ -20,7 +20,7 @@ This research fits into these points of a Veteran’s journey:
 - Aging
 
 ## Research Goals	
-The focus of this study is to figure out what notifications Veterans find the most helpful for them when managing their appointments and appointment-related tasks so that our team can prioritize what to build and test first among the list of notifications below.
+The focus of this study is to figure out what notifications Veterans and caregivers find the most helpful for them when managing their appointments and appointment-related tasks so that our team can prioritize what to build and test first among the list of notifications below.
 
 Here’s a list of appointment notifications that include what exists today and what we expect Veterans might need: 
 - Routine reminders to schedule appointments (e.g., annual physical exam)
@@ -68,7 +68,7 @@ This research will inform updates to the appointment notifications experience an
 
 #### [Survey - Kano Analysis](https://foldingburritos.com/blog/kano-model/)
 
-Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a survey activity that contains, respectively, 20-25 questions  (or less than 15 mins) for Veterans that may experience when getting appointment notifications. 
+Using Optimal Workshop, we will conduct an unmoderated Kano analysis study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a survey activity that contains, respectively, 20-25 questions  (or less than 15 mins) for Veterans and caregivers that may experience when getting appointment notifications. 
 
 We would like to get complete responses from at least 35 Veterans, in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL. 
 
@@ -84,7 +84,8 @@ This will be a survey that participants fill out remotely and asynchronously.
 - [Cohort 5](https://dj540s05.optimalworkshop.com/questions/uam0fum2?token=5)
 - [Cohort 6](https://dj540s05.optimalworkshop.com/questions/uam0fum2?token=6)
 - [Cohort 7](https://dj540s05.optimalworkshop.com/questions/uam0fum2?token=7)
-	
+(Kristen: Double check that the links are still correct after Nina launches the study.)
+
 ## Recruitment	
 We will work with Perigean to handle the recruitment, scheduling, and compensation of Veterans and caregivers. 
 
@@ -100,9 +101,9 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 •	All must have filed a travel reimbursement claim in the past.
 
 
-|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
-|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       63      |         35       |   26   |     0       |    9     |        0      | 
+|Total requested|Completed sessions|
+|:-------------:|:----------------:|
+|       63      |         35       | 
 
 ### Criteria Table
 
@@ -119,9 +120,13 @@ We will schedule a total of 24 Veterans for an expected completion rate of 18-20
 |45-54 yo        |        |        |        |   5     |        |        |        |       
 |55+ yo          |        |        |        |        |     9  |        |        |          
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
-|***EDUCATION*** |        |        |        |        |        |        |        |        
+|***Role*** |        |        |        |        |        |        |        |        
+|Veteran    |     9   |   9     |     9   |   9     |    9    |    9    |       |    
+|Caregiver    |        |        |        |        |        |        |  9     |      
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Education*** |        |        |        |        |        |        |        |        
 |High School     |        |        |        |        |        |        |  3     |    
-|Some College    |        |        |        |        |        |        |  1     |        
+|Some College    |        |        |        |        |        |        |  1     |      
 |Associate's     |        |        |        |        |        |        |  1      |      
 |Bachelors       |        |        |        |        |        |        |   2     |       
 |Masters         |        |        |        |        |        |        |   2    |     
