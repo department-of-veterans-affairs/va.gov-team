@@ -1,43 +1,30 @@
 # Prescriptions Initiative Brief
 #### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
+The Office of the CTO (OCTO) and the Office of Connected Care (OCC) joined as the first partnership for the VA Chatbot platform to provide the users accessibility into getting their personalized prescription information in a timely manner. The prescription skill includes an opt-in voice feature, listing of what prescriptions they have on file, prescription details, refill dates, order prescriptions, and track prescription orders.
  </details>
- 
- > 💡 Helpful guidance/tips
  
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+With Rx skill enabalement, the VA Chatbot is better able to support the needs of our veterans in a timely manner, while reducing calls to live agent call centers.
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/product_outline.md#key-decisions
 
-## Problem
-> *Describe the challenge / pain point you seek to address.:*
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+## Problem 
+> What is the problem and who is affected? 
 
-* Veterans have accessibilty to viewing, refilling, and tracking prescriptions in a chatbot experience
-* Veterans experiencing difficulties refilling a prescription can be sent to a live agent for additional support
+Without embedding the Rx skill into the VA Chatbot we will see the call centers continue to rise in number of calls from veterans and caregivers around prescription details. 
+> What evidence do we have of the problem?
+
+Transcript analysis suggest that the VA Chatbot is being asked to handle healthcare topics - medication refill and renewals is part of that.
+> Why do you think the problem is occurring?
+
+Users want to avoid calling the VA and to optimize their use of the VA Chatbot. Likely users also engage with the chatbot for another topic, then direct their questions to their personalized needs, not just general VA.gov topics.
+> How does this initiative help further OCTO-DE's mission and goals?
+
+As part of the One-Bot approach - the VA Chatbot team wanted to collaborate with teams outside of OCTO. VHA Office of Connected Care had previously built an RX refill Alexa skill that they wanted to repurpose as a chatbot experience.
 
 <!--
 ## Desired User Outcomes
