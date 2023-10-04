@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 10/4/2023 - 10/17/2023  -------------- FUTURE / TENTATIVE ----------------------
+## 10/4/2023 - 10/17/2023  
 #### SPRINT GOALS
 - **GOAL: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
@@ -18,11 +18,14 @@ ________________________________________________________________________________
 - **Enable the Travel feature for VISN 6 (Needs to go out on October 9, verify with Mark before releasing)**
 
 #### SPRINT TICKETS
+- [[BE] vets-api Chip Library Error Mapping]()
 - **GOAL: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
      - **Sub Goal: Enable the Travel feature for VISN 6**
           - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Track BT claim submission call responses by station in DataDog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66719)
           - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423) - **Needs to go out on October 9, verify with Mark before releasing**
-- **GOAL: Increase usage of Pre-Check-in & Check-in**
+               - Questions for Mark: Oct 9 is a federal holiday, still release on this date?
+               - Question for Mark: does he need the metrics in place before releasing
+          - **GOAL: Increase usage of Pre-Check-in & Check-in**
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
             - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Content] Create Content for 45-minute Error Message when Veteran Needs to Review their Insurance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66404)
@@ -62,9 +65,7 @@ ________________________________________________________________________________
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Current Text Message to Add "When you arrive at the facility....."](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66338)
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [DESIGN] Questions to consider for reducing design overhead](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66318)
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Sketch spacing and typography clean up](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66233)
-    
 
--------------- FUTURE / TENTATIVE ----------------------
 __________________________________________________________________________________________________________________________________________________________
 
 ## 9/20/2023 - 10/3/2023  
