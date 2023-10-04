@@ -23,61 +23,7 @@ Up until now, the bot has been trained in the following pages for general knowle
 * Decision Letters
 * Sign-in Support
 
-Our current feature in progress is the [Prescriptions Skill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) in partnership with OCC with the goal of allowing Veterans to list, track and refill their prescriptions through the Chatbot. 
-
-## Proposed Solution: (PoV) A Learning Bot
-
-**Proof of Value (PoV): What is the least we can build into a bot that will be valuable to Veterans and allow us to learn more about what users want from a virtual bot?**
-
-The primary goal of this phase is to gather knowledge directly from Veterans (via conversation monitoring, analytics and usability studies) to further finesse the virtual agent’s capabilities moving forward. During this phase, we will build a “Learning Model” virtual agent. Responses will focus primarily on breadth of topics over depth in one area. We understand that the virtual agent cannot answer every possible question Veterans have. To that end, we want to gather feedback on what users want to know the most about so we can continue to train our bot in the right areas.
-
-## Goals for the PoV:
-
-1. Create a conversational tool to help Veterans self-serve through increased awareness of existing website resources. 
-2. To learn if/how the Virtual Agent is valuable to the Veteran. This will help us decide the path forward.
-3. Understand the effort of managing a virtual agent, including skills, team allocation and content management.
-
-**Phase 1: Training the Dialogue Model**
-
-The conversation models need to be trained via two formats:
-
-- Intents and Entities (what the user wants)
-- Responses (what the virtual agent can surface as a response)
-
-For Phase 1 we will look for the following high-topic, and draft high-level (unauthenticated) responses only for the following areas:
-
-- Va.gov Benefits (education, health, etc.)
-- Handling Veteran Crisis scenarios (presenting phone number)
-- Covid Questions
-
-Please Note: We expect many questions to be too complex for a virtual agent to answer. We will surface the best “here is how you can help yourself” response matched to an understood intent.
-
-In Phase 1, the virtual agent will not (always) try to disambiguate a question via extensive conversations with the Veteran. If the virtual agent is not able to answer the Veteran’s question, it will result in a phone number being displayed.
-
-_Virtual Agent Phase 1 Features:_
-
-1. Location TBD, somewhere on va.gov 
-2. Free form chat experience to the users
-a) Greetings & “Chit Chat” dialogues  
-b) Conversations will be logged for analysis 
-c) Handling errors in conversations
-d) System wide technical errors
-e) Understanding user intents
-f) Collecting feedback- embedded feedback survey
-
-3. Handing Veteran Crisis scenarios
-a) Present users the number for Veteran Crisis hotline and disable chatbot if a crisis keyword is used
-
-4. Knowledge Management Content use 
-
-5. Connecting with Covid Chatbot
-a) Allow users to ask questions about Covid and present a link to go to the Covid Chatbot 
-
-_Phase 2 Approach:_
-- Gather and access feedback from live users to refine our roadmap
-- Connect with a live agent from the chat
-- Partner with LOB’s to identify additional use cases for the Virtual Agent
-- Build features to enable users to authenticate and perform tasks (ie. pay bills, process claims)
+Our current feature in progress is the [Prescriptions Skill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) in partnership with OCC with the goal of allowing Veterans to list, track and refill their prescriptions through the Chatbot. This feature is set to have a preliminary launch in October of 2023 and a full Prescriptions platform integration MVP launch by January 2024.
 
 ## Assumptions
 
