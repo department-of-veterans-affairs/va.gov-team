@@ -1,6 +1,6 @@
 # Conversation guide for Ask VA: Submit and review an inquiry (Screen reader guide)
 
-**THIS GUIDE NEEDS TO BE UPDATED. COPY OF VETERAN GUIDE BELOW**
+# NOTE: THIS GUIDE NEEDS TO BE UPDATED. THIS IS STILL JUST A COPY OF THE VETERAN GUIDE.
 
 Ask VA Integration Team
 
