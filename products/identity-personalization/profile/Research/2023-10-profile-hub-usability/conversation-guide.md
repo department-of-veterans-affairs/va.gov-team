@@ -41,7 +41,7 @@ Today we're going to take a look at the VA.gov website and ask you some question
 
 There are a few things additional things I want to mention:
 
-- **This entire session should take about XX/XX for AT minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 60/90 for AT minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. To help us learn from your experience, please share out loud all of your thoughts and feelings.
 - **If for any reason and at any time you want to stop the session, please let me know.**
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
