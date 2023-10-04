@@ -157,7 +157,7 @@ Mobile users:
 1.	Do you have any upcoming appointments listed when you login to VA.gov?
 2.	Do you have a My HealtheVet account?
 3.	Have you recently received a printed after-visit summary of your appointment at a VA healthcare facility?
-4.	Have you had any VA facility healthcare appointments between the dates of XXX and XXX?
+4.	Have you had any VA facility healthcare appointments between the dates of TBD and TBD?
 - If yes to all questions, then recruit.
 - If no **to any one question**, then **do not** recruit.
 
