@@ -80,7 +80,7 @@ Users have trouble finding dependent information and where to download their ben
 
 [Search results can be found on the Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 
-|KPI/metric|Baseline: 1 month pre-launch [9/1-30/2023]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|KPI/metric|Baseline: 1 month pre-launch 9/1-30/2023|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|-------------------|
 |Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|436|||
 |Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|1,026|||
@@ -89,7 +89,7 @@ Users have trouble finding dependent information and where to download their ben
 
 [Search results can be found on the Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|KPI/metric|Baseline: 1 month pre-launch 9/1-30/2023|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|-------------------|
 |Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|7,175|||
 |Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|8,033|||
@@ -99,10 +99,10 @@ Users have trouble finding dependent information and where to download their ben
 - [Bounce rate for Letters page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Frecords~2Fdownload-va-letters~2Fletters~2Fconfirm-address~2F/)
 - [Bounce rate for Dependents page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fview-change-dependents~2Fview~2F/)
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|KPI/metric|Baseline: 1 month pre-launch 9/1-30/2023|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|-------------------|
-|Bounce rate for **Letters** page||||
-|Bounce rate for **Depedents** page||||
+|Bounce rate for **Letters** page|[204,114](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230901&_u.date01=20230930&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Frecords~2Fdownload-va-letters~2Fletters~2Fconfirm-address~2F/)|||
+|Bounce rate for **Depedents** page|[71,116](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230901&_u.date01=20230930&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fview-change-dependents~2Fview~2F/)|||
 
 ### Objective #2: Explore using authenticated menu as a place to elevate links to tools.
 
