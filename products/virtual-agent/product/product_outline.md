@@ -1,7 +1,7 @@
 # VA Chatbot
 
-#### Prescriptions Initiative Brief
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md
+#### Platform Partners
+* Prescriptions Skill Integration with VHA Office of Connect Care: [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md)
 
 ## Problem Statement
 
@@ -13,6 +13,7 @@ The areas we address:
 
 1. Giving the Veteran more direct access to the dense content available at va.gov 
 2. Providing the Veteran with another channel to interact with the VA that is available all day
+3. Providing other VA teams to integrate with our bot
 
 ## Existing Features
 
