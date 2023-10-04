@@ -43,7 +43,7 @@ sequenceDiagram
       end
         c->>+l: save appointments
         l--)-c: documentId
-        alt veteran initiated check-in
+        alt 45 minute reminder
             c->>+va: set status (E-CHECK-IN STARTED)
             va--)-c: status set
         end
