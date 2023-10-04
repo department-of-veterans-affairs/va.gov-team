@@ -7,7 +7,7 @@ The Content, Accessibility, and Information Architecture team, or CAIA, is a cro
 
 This document explains some of the ways that CAIA can help your team with accessibility.
 
-### Collaboration Cycle & Non-Collaboration Cycle Projects
+### How we relate to the Collaboration Cycle
 We've grouped our offerings by how they relate to the touch point meetings in the Collaboration Cycle. We've done this because the Collaboration Cycle is a well-known process for our community, and maps well to how we do work. 
 
 Note that CAIA can support teams going through the Collaboration Cycle, but **CAIA is not involved in the Collaboration Cycle directly**. We are here to help you launch the best products possible, we're not gatekeepers. If we find and flag an issue we can't and won't block you from launching. Teams going through the Collaboration Cycle can work with us, as can teams working outside of it.
