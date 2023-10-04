@@ -230,6 +230,9 @@ Please tell me about what you see here.
 What does this mean to you?
 
 What would you do now?
+- *Learn about Camp Lejeune and VA benefits*
+- *Learn about disability compensation eligibility*
+- *Learn about VA health care eligibility*
 
 *(When all done with feedback on this page...)* Now I'm going to show you a different version of what you might see, which does NOT correspond to your answers to the questions, but I'd like you to take a look at it anyway. 
 
