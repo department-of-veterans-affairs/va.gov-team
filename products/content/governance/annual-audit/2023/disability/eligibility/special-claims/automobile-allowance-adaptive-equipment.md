@@ -3,6 +3,7 @@
 ## Content on page
 
 ### OCTO checks, edits, tasks
+
 - The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.). 
 - Relevant terms from page are in content brief and any relevant backlog work is noted 
 - Assessed the content in the blue box. (Keeping eligibility info in blue box.)
