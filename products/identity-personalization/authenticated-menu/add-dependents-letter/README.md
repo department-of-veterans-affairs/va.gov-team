@@ -1,6 +1,6 @@
 # Project outline: Add links to dependents and letters tools to the authenticated menu
 
-**Last Updated: August 28, 2023 -- Added key dates**
+**Last Updated: October 4, 2023 -- Updated metrics**
 
 ### Communications
 
@@ -80,10 +80,10 @@ Users have trouble finding dependent information and where to download their ben
 
 [Search results can be found on the Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|KPI/metric|Baseline: 1 month pre-launch [9/1-30/2023]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|-------------------|
-|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)||||
-|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)||||
+|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|436|||
+|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|1,026|||
 
 **KPI: See variations on "dependents" and "letters" entirely removed from the top 10 search terms on VA.gov as a whole.**
 
@@ -91,8 +91,8 @@ Users have trouble finding dependent information and where to download their ben
 
 |KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|-------------------|
-|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)||||
-|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)||||
+|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|7,175|||
+|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|8,033|||
 
 **KPI: See no increase in bounce rates from the Dependents and Letters pages (increase in bounce rate = people found the page but not what they were looking for).**
 
