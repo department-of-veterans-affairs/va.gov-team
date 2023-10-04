@@ -23,7 +23,7 @@ Up until now, the bot has been trained in the following pages for general knowle
 * Decision Letters
 * Sign-in Support
 
-Our current feature in progress is the [Prescriptions Skill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) in partnership with OCC with the goal of allowing Veterans to list, track and refill their prescriptions through the Chatbot. This feature is set to have a preliminary launch in October of 2023 and a full Prescriptions platform integration MVP launch by January 2024.
+Our current feature in progress is the [Prescriptions Skill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) in partnership with OCC with the goal of allowing Veterans to list, track and refill their prescriptions through the Chatbot. This feature is set to have a preliminary launch in October of 2023 and a Health Chat MVP launch by January 2024.
 
 ## Assumptions
 
@@ -34,7 +34,7 @@ Our current feature in progress is the [Prescriptions Skill](https://github.com/
 
 ##  Measuring Success
 
-KPIs depend on the roll-out plan. In an ideal scenario, we would release the POV to about 5% of Va.gov users, and measure the following: 
+The VA Chatbot measures KPIs through Google Analytics and our dashboard on DOMO. Some of our most used and/or desired measurements of success include: 
 
 - Engagement rates
   - How many users interact with the new virtual agent?
@@ -104,10 +104,11 @@ _PVA Technical Analysis_
 
 ## Release Plan
 
-Current Launch: June 2021
+PoV Launch: June 2021
+Upcoming releases: 
+- Prescriptions Skill MVP: October 2023
+- Health Chat Integration MVP: January 2024
 
 ## Key Decisions
 
 - Using PVA to build and train our bot
-- Release early in order to monitor/test in June
-- PVA in preview mode in May, fully in GCC by June 
