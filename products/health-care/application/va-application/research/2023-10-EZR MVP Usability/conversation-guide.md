@@ -1,4 +1,4 @@
-# Conversation Guide for health care application usability study for new 10-10EZR form [Health Enrollment Team, 10-10EZR, Month 2023]
+# Conversation Guide for health care application usability study for new 10-10EZR form [Health Enrollment Team, 10-10EZR, November 2023]
 
 ## Moderator logistics
 ### 2-3 days before the session
