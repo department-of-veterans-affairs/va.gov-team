@@ -57,9 +57,9 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ## Go Live
 
 ### Planning 
-|Launch % |Time Frame |Desired Date | _Actual Date_ | 
-|-------|:-:|-----------|-----------|
-| Launch to 100% | 2 days | 9/18/2023 | 10/4/2023 |
+|Launch % |Desired Date | _Actual Date_ | 
+|-------|-----------|-----------|
+| Launch to 100% | 9/18/2023 | 10/4/2023 |
 
 
 ### 1-week results at 100%
