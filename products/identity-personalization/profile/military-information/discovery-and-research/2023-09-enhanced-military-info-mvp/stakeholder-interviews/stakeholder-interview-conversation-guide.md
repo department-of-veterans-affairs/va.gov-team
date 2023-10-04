@@ -34,5 +34,8 @@ Can you give us an brief overview of your role and where it sits within the VA o
 1. Do you have any thoughts on how the integration of these data points might be useful to other VA.gov products or VA business lines?
 2. Is there anyone else you think we should talk to to learn more?
 
+### Timeline
+1. Can you share any expectations you have with regard to timelines for this work?
+
 ## Closing
 That’s everything I wanted to talk about with you today, thank you so much for your time. If we have more questions, would it be OK to reach back out? Do you prefer email, or Teams?
