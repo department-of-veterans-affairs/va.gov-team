@@ -48,12 +48,27 @@ Reasoning: We chose the red alert box due to the flexibility of the component an
 
 ### Process
 
+Questions we need/might need to answer to nail down the process...
+
 Who can identify a critical issue?
+
 What should that person do when they find an issue?
+
 Who do they tell? Is it an email? A Slack? A phone call?
+
 When and how do we tell POs?
-Who needs to be involved? Which disciplines (Problem, Content, Eng, UX?)
+
+What happens immediately after a critical issue is found? Do we call a team meeting?
+
+Who needs to be involved? Which disciplines? Product (which PM?)? Content (yes!)? Eng (yes!)? UX?
+
 Who makes the actual call to pull the switch?
+
+What happens after the first error message is shown? What's going on behind the scenes?
+
+What happens after we have a fix? When do we show the second error message (to update the app), if applicable?
+
+How does the whole issue come to a resolution? How do we know we're done?
 
 
 
