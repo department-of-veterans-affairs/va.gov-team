@@ -18,7 +18,7 @@ AVA on the modernized VA.gov platform will be a digital support channel that wor
 |VA Product Owner|Andrea Schneider|andrea.schneider3@va.gov|
 |Program Manager|Emily Allan|emily@oddball.io|
 |Product Manager|Ruchi Shah|ruchi.shah@thoughtworks.com|
-|Lead engineer|Joseph Hall|joe.hall@thoughtworks.com|
+|Lead Engineer|Joseph Hall|joe.hall@thoughtworks.com|
 |Engineer|Jacob Cheriathundam|jacob@docme360.com|
 |Engineer|Eddie Otero|eddie.otero@oddball.io|
 |Engineer|Khoa Nguyen|khoa.nguyen@oddball.io|
