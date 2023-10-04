@@ -23,7 +23,6 @@
 | 22-1990E  | Application for Family Member to Use Transferred Benefits  | Authenticated and Unauthenticated | Form | June 2023  |
 | 22-1990  | Application for VA Education Benefits through Legacy Path  | Authenticated and Unauthenticated | Form | June 2023  |
 | 22-1995  | Application for Changing Education Benefits | Authenticated and Unauthenticated | Form | June 2023  |
-| 26-1880  | Application for a VA Home Loan Certificate of Eligibility (COE) - In Progress Reminder | Authenticated | ICN (Profile) | May 2023  |
 | 22-5490  | Dependents' Application for VA Education Benefits  |Authenticated and Unauthenticated | Form | February 2023  | 
 | 21P-527EZ  | Application for Veterans Pension  |Authenticated and Unauthenticated | Form | January 2023  |
 | 40-10007  | Application for Pre-Need Determination of Eligibility for Burial in a VA National Cemetery  | Authenticated and Unauthenticated | Form | December 2022 |
