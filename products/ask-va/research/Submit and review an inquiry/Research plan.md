@@ -5,13 +5,13 @@ Ask VA Integration Team
 Last updated by @tygindraux: October 2, 2023
 
 **Jump ahead to:**
-- [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#background)
-- [Research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#research-goals)
-- [Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#methodology)
-- [Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#recruitment)
-- [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#timeline)
-- [Research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#research-sessions)
-- [Team roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md#team-roles)
+- [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Research%20plan.md#background)
+- [Research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Research%20plan.md#research-goals)
+- [Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Research%20plan.md#methodology)
+- [Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Research%20plan.md#recruitment)
+- [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Research%20plan.md#timeline)
+- [Research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Research%20plan.md#research-sessions)
+- [Team roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Research%20plan.md#team-roles)
 
 ## Background
 
