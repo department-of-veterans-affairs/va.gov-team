@@ -126,6 +126,7 @@ Users have trouble finding dependent information and where to download their ben
 - July 2023: Initial discussions; project kickoff
 - August 2023: Design
 - September 2023: Build
+- October 20223: Launch
 
 ## Design
 
