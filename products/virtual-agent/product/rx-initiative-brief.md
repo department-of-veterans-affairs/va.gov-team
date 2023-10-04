@@ -10,7 +10,8 @@ The Office of the CTO (OCTO) and the Office of Connected Care (OCC) joined as th
 With Rx skill enabalement, the VA Chatbot is better able to support the needs of our veterans in a timely manner, while reducing calls to live agent call centers.
 
 **Related/Associated product(s)**
-- ttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/product_outline.md#key-decisions
+
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/product_outline.md#key-decisions)
 
 ## Problem 
 > What is the problem and who is affected? 
