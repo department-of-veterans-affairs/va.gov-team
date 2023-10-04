@@ -16,12 +16,15 @@ With Rx skill enabalement, the VA Chatbot is better able to support the needs of
 > What is the problem and who is affected? 
 
 Without embedding the Rx skill into the VA Chatbot we will see the call centers continue to rise in number of calls from veterans and caregivers around prescription details. 
+
 > What evidence do we have of the problem?
 
 Transcript analysis suggest that the VA Chatbot is being asked to handle healthcare topics - medication refill and renewals is part of that.
+
 > Why do you think the problem is occurring?
 
 Users want to avoid calling the VA and to optimize their use of the VA Chatbot. Likely users also engage with the chatbot for another topic, then direct their questions to their personalized needs, not just general VA.gov topics.
+
 > How does this initiative help further OCTO-DE's mission and goals?
 
 As part of the One-Bot approach - the VA Chatbot team wanted to collaborate with teams outside of OCTO. VHA Office of Connected Care had previously built an RX refill Alexa skill that they wanted to repurpose as a chatbot experience.
@@ -41,13 +44,11 @@ As part of the One-Bot approach - the VA Chatbot team wanted to collaborate with
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- > Why would your business want this to exist?
+This supports cross collaboration between VA teams to best support the needs of our veterans by providing prescription information in a chatbot experience as a more user friendly experience.
+- > With this problem solved, what should your business be able to do/achieve that they couldn't before?
+Provide VA Chatbot users with personalized experience in regards to their presriptions while reducing calls to live agent call centers which meets presendential CX mandates.
 
-* direct ties to a live agent for rx refill troubleshooting
-* reduces time for veteran to reach support
-* meets the requirement of having One VA Bot platform
-* meets presendential CX mandates
 
 ## Undesired Business Outcomes
 
@@ -59,15 +60,15 @@ As part of the One-Bot approach - the VA Chatbot team wanted to collaborate with
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup> *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-* task completion (how many prescriptions get refilled, etc)
-* usage (how many people come to chatbot to use the Rx feature)
-* usage of voice feature (how many people use the voice component)
-* how many people are transferred to live agent
-* task completion time (time spent in Rx Skill)
+- Product KPI, baseline, target, link to data source: GA, Domo
+* **Task completion:** How many prescriptions get refilled, etc.
+* **Usage:** How many people come to chatbot to use the Rx feature?
+* **Usage of voice feature:** How many people use the voice component?
+* **Task completion time:** How much time is spent in Rx Skill?
+  
+* **How many people are transferred to live agent?** (Health chat iteration for MVP launch)
 
 ---
 
@@ -76,18 +77,17 @@ As part of the One-Bot approach - the VA Chatbot team wanted to collaborate with
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
-- **Value Risks** (will people use it): 
-  - will Veterans use the main Rx Skill
-  - will Veterans use the Voice activated Skill
-  - 
-- **Usability Risks** (can people figure out how to use it):
-  - Is accessibility a concern
-  - Voice activation not working
-  - Users cannot transition from skill to skill
-  - No internationalization of the skill; non-English speakers
-  - 
+- **Value Risks**: 
+  - Will Veterans use the main Rx Skill?
+  - Will Veterans use the Voice activated Skill?
+    
+- **Usability Risks**:
+  - Is accessibility a concern?
+  - Does voice activation work consistently?
+  - Potential risk that users cannot transition from skill to skill.
+  - It is designed only for English speakers; there is no internationalization of the skill.
 
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
+- **[Technical] Feasibility Risks**:
   - Clashing of JOVO, Proxy bot and main chatbot
   - API errors
   - Intent mismatches
@@ -98,29 +98,29 @@ As part of the One-Bot approach - the VA Chatbot team wanted to collaborate with
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Yes, usability testing indicates that Veterans are interested in feature 
-  - Yes, examination of chatbot transcripts indicates Veterans are already looking for this information
-  - Yes, already consistent with other channels at the VA
+- **Organizational Viability Risks/Constraints**: Will there be a positive organizational impact?:
+  - Yes, usability testing indicates that Veterans are interested in expansion of Chatbot features. 
+  - Yes, examination of chatbot transcripts indicates Veterans are already looking for their medication information.
+  - Yes, VA Chatbot is already consistent with other channels at the VA.
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
+> *What's in scope for you to build with this initiative? (Describe key features/flows) 
+- Authentication of veteran
+- Viewing, refilling, and tracking prescriptions
+- Entries and exits to the skill
+- Voice activated feature
+
 > *What have you explicitly decided to **not** include and why?*
+- No renewals -- requires provider overview 
+- No prescription history
+- No new prescription requests
+- No secure messaging with healthcare providers
+- No request cancelation option
+- No payment information or exchange of funds
+
 > *How does this solution address your Assumptions & Risks?
+- Maintains transparent to users that this is not provider/healthcare recommendation tool 
 
-* Authentication of Veteran
-* Viewing, refilling and tracking prescriptions 
-* Entries & exits to the skill
-* Voice activated feature
-
-Not included: 
-* no renewels -- requires doctor overview
-* no prescription history
-* no prescription requests
-* no secure messaging with healthcare providers
-* cannot cancel request
-* no payment information; no exchange of funds
-* 
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
@@ -131,21 +131,23 @@ Not included:
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- Kickoff ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/61873
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+1. Rx skill go-live to integrate the proxy bot into VA Chatbot as a first iteration
+2. Accessibility updates including refinement of voice feature
+3. Health chat integration to provide users with a link to connect them to a live agent.
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* WIP: [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
-- *Target Launch Date*
-  - MVP (without Live Agent): October
+- *Target Launch Date:* October 2023
+  - Rx Skill Go-live
       
-- *Actual Launch Date* 
-  - MVP (without Live Agent): proposed end of October
+- *MVP Launch Date:* proposed mid Novemeber 2023
+  - MVP(includes feature updates, accessibility updates, and Health Chat integration) 
 
 ---
    
@@ -160,25 +162,19 @@ Not included:
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
+> *Where will you discuss this initiative?*
 
-<details>
-
-- Team Name: Va.gov Chatbot
-- GitHub Label(s): va-virtual-agent
-- Slack channel: #virtual-agent-public
-- Product POCs: Luciana Morais, Nathalie Rayter
-
-</details>
+- **Team Name: **VA Chatbot
+- **GitHub Label(s):** va-virtual-agent
+- **Slack channel:** #virtual-agent-public
+- **Product POCs:** Luciana Morais, Nathalie Rayter
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
+> *What offices/departments are critical to make this initiative successful?*
   
-- Office/Department: OCC (VHA), OCTO, VES 
-- Contact(s): Hugo Padilla (OCC), Luciana Morais (OCTO), Nathalie Rayter (VES)
+- **Office/Department:** OCC (VHA), OCTO, VES 
+- **Contact(s):** Hugo Padilla (OCC), Luciana Morais (OCTO), Nathalie Rayter (VES)
  
 </details>
 
