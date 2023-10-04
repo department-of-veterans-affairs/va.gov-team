@@ -2,17 +2,28 @@
 
 ## Problem Statement
 
-A well-developed and maintained virtual agent will help users solve problems and complete tasks on their own with little to no human involvement at any time of day. 
+Created in 2021, the VA Chatbot is a well-developed and maintained virtual agent that helps users solve problems and complete tasks on their own with little to no human involvement at any time of day, resulting in decreased time Veterans spend waiting for an outcome, and ultimately decreased call center calls – especially for calls involving simple questions and/or solutions. 
 
-An assumption: This can result in decreased time Veterans spend waiting for an outcome, and ultimately decreased call center calls – especially for calls involving simple questions and/or solutions. 
+Ultimately, the problem we solve with our virtual agent is to help the Veteran self-serve and find information more easily. While the ultimate goal is to reduce call volumes, due to the amount of content that is available and needs to be rewritten in conversational format, the Chatbot began by targetting smaller targetted content.
 
-Ultimately, the problem we want to solve with our virtual agent is to help the Veteran self-serve and find information more easily. While we hope that this may also reduce call volumes, the correlation of the availability of a virtual agent as another channel fielding questions and a reduction in call volumes has not yet been proven to exist. Because of the amount of content that is available and needs to be rewritten in conversational format for the chatbot, we want to target starting with smaller targeted content.
-
-The areas we want to address:
+The areas we address:
 
 1. Giving the Veteran more direct access to the dense content available at va.gov 
 2. Providing the Veteran with another channel to interact with the VA that is available all day
 
+## Existing Features
+
+Up until now, the bot has been trained in the following pages for general knowledge questions: 
+
+* Healthcare
+* Disability
+* PACT
+* Authentication
+* Compensation claims and appeals
+* Decision Letters
+* Sign-in Support
+
+Our current feature in progress is the [Prescriptions Skill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) in partnership with OCC with the goal of allowing Veterans to list, track and refill their prescriptions through the Chatbot. 
 
 ## Proposed Solution: (PoV) A Learning Bot
 
