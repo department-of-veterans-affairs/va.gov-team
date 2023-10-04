@@ -1,6 +1,6 @@
 # Project outline: Add links to dependents and letters tools to the authenticated menu
 
-**Last Updated: October 4, 2023 -- Updated metrics**
+**Last Updated: October 4, 2023 -- Updated metrics; added launch date**
 
 ### Communications
 
@@ -128,7 +128,7 @@ Users have trouble finding dependent information and where to download their ben
 - July 2023: Initial discussions; project kickoff
 - August 2023: Design
 - September 2023: Build
-- October 20223: Launch
+- October 4, 2023: Launched to 100% of users
 
 ## Design
 
