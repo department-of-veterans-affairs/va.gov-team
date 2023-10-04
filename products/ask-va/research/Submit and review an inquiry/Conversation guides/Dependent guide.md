@@ -10,7 +10,7 @@ Last updated by @tygindraux: October 2, 2023
 
 - [ ] Review [VA Platform's Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist)
 - [ ] Review [guidelines for moderating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Guidelines/Guide%20to%20moderating.md)
-- [ ] Review [research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Research%20plan.md)
+- [ ] Review [research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Research%20plan.md#research-goals)
 - [ ] Review prototype
 
 ### Day of the session
@@ -44,7 +44,7 @@ Now before we get started, there are a few other things I want to mention:
 
 * **This session should take about an hour.** I will make sure we don’t spend longer than that, and so I may occasionally move us along to the next question or topic so we can cover everything.
 * **In this session, we want to hear your honest opinions.** We’re not testing your ability. And I want you to know that I’m not going to be offended by any opinions you express, I'm here to get your feedback.
-* **I’m going to share a prototype with you today.** This is like a pretend version of the website, and so it may not function exactly the way you expect. For example, you’ll be able to click some buttons or links, but not all of them. And there’s certain things you’ll read that might not match what you see on the VA’s real website today.
+* **I’m going to share a prototype with you today.** This is like a test version of the website, and so it may not function exactly the way you expect. For example, you’ll be able to click some buttons or links, but not all of them. And there’s certain things you’ll read that might not match what you see on the VA’s real website today.
 * **If for any reason and at any time you want to stop the session, you just have to let me know.** And that might be a pause to get some water or to stop the session completely. You'll be paid even if we don't complete the full session.
 * When they set up this session, Perigean asked if you are okay with a couple of observers joining us. **I want to confirm with you now, are you okay with a couple of observers joining this session?**
     * `IF NO` Use Slack to kindly ask the observers to leave the Zoom.
@@ -64,11 +64,13 @@ Now before we get started, there are a few other things I want to mention:
 
 ## Agenda - 60 minutes
 
-* Warm up - 5 minutes
-* Submit an inquiry - 40 minutes
-* Review an ongoing/past inquiry - 10 minutes
-* Wrap up - 3 minutes
-* Thank you - 2 minutes
+* [Warm up - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Dependent%20guide.md#warm-up---5-minutes)
+* [Submit an inquiry - 25 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Dependent%20guide.md#submit-an-inquiry---25-minutes)
+* [Look for an inquiry - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Dependent%20guide.md#look-for-an-inquiry---10-minutes)
+* [Open an ongoing inquiry - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Dependent%20guide.md#open-an-ongoing-inquiry---10-minutes)
+* [Reply to VA - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Dependent%20guide.md#reply-to-va---5-minutes)
+* [Wrap up - 3 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Dependent%20guide.md#wrap-up---3-minutes)
+* [Thank you - 2 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Dependent%20guide.md#thank-you---2-minutes)
 
 ## Warm up - 5 minutes
 
@@ -93,11 +95,11 @@ I'd like to start by learning more about your experience with the VA and our onl
 * How do they decide which channel to use when they contact the VA?
 * Do they specify the device they use (tablet, mobile, desktop)?
 
-## Submit an inquiry - 35 minutes
+## Submit an inquiry - 25 minutes
 
 Thanks, it’s helpful to learn about some of your experience with the VA.
 
-Next, I’d like to share some ideas with you so we can get your feedback. In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a pretend version of a website.
+Next, I’d like to share some ideas with you so we can get your feedback. In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website.
 
 > Send Sketch link in Zoom chat.
 
@@ -240,7 +242,25 @@ Okay, let's go ahead and click `Continue` now.
 * Do they recognize why they need to choose a topic?
 * Is it straightforward to find the topic?
 
-### 7: Search for your VA Medical Center
+### 7: Question
+
+> Screen: Tell us your question
+
+* Okay, what is this asking you to do?
+  * Do you have any hesitations about typing in your question here?
+* Can you show me how you would answer the next question, `tell us the reason you're contacting us`?
+
+Okay, so now it looks like we've filled these in.
+
+* Do you think you choose more than 1 option for the reason you're contacting the VA?
+
+Alright, next let's click `Continue`.
+
+#### Things to watch for:
+* Are they hesitant about writing their question free-text?
+* Do they seem surprised or frustrated that it's taken a few steps before they type their question?
+
+### 8: Search for your VA Medical Center
 
 > Screen: Search for your VA Medical Center
 
@@ -289,25 +309,7 @@ Okay, let's go ahead and click `Continue`.
 #### Things to watch for:
 * Are they more likely to search for a medical center by name or location?
 * Do they predict any issues with finding their medical center in a list?
-
-### 8: Question
-
-> Screen: Tell us your question
-
-* Okay, what is this asking you to do?
-  * Do you have any hesitations about typing in your question here?
-* Can you show me how you would answer the next question, `tell us the reason you're contacting us`?
-
-Okay, so now it looks like we've filled these in.
-
-* Do you think you choose more than 1 option for the reason you're contacting the VA?
-
-Alright, next let's click `Continue`.
-
-#### Things to watch for:
-* Are they hesitant about writing their question free-text?
-* Do they seem surprised or frustrated that it's taken a few steps before they type their question?
-
+  
 ### 9: Tell us who has a question
 
 > Screen: Tell us who has a question
@@ -423,42 +425,82 @@ Let's go ahead and click `Continue`.
 * This mentions it will send you an email as well. How do you feel about receiving this as an email?
 * Would you expect it to email the Veteran as well as yourself?
 
-Great, thank you. I’m going to ask you to stop sharing your screen now. For the rest of our conversation, we’ll just talk face-to-face.
-
-> Stop screen share.
+Reflecting on the entire process of asking a question...
+* Was it shorter or longer than you would have expected?
+   * Is there anything that could have made it easier?
+* And after you submit an inquiry, what do you expect to happen?
+   * Would you like to receive an email or text message?
+   * When would you expect to receive an `EMAIL or TEXT`?
+   * How often would you expect to get an update?
+* When you get a response to your inquiry, would you expect it to come from?
 
 #### Things to watch for:
 
 * Do they notice anything helpful or missing from this page?
 * Do they mention saving their reference number?
 * Do they mention preferring text notifications over email?
-* Do they expect the Veteran to get notified as well?
-
-## Ongoing or past inquiry - 10 minutes
-
-* Thinking back on the process of asking a question, was it shorter or longer than you would have expected?
-   * Is there anything that could have made it easier?
-* And after you submit an inquiry, what do you expect to happen?
-   * Would you like to receive an email or text message?
-   * When would you expect to receive an `EMAIL or TEXT`?
-   * What information is important to you?
-   * How often would you expect to get an update?
-   * Do you expect the Veteran to get updated too?
-* When you get a response to your inquiry, would you expect it to come from?
-   * Would you be able to reply?
-   * If you couldn’t reply back, but you had a follow up question, what would you do?
-* Let’s say you wanted to go back and look at a question you had submitted a few months ago. What would you be interested in seeing?
-   * For example, would you want to see all the information you submitted? Or would you just like to see certain things?
-   * Anything else?
-
-#### Things to watch for:
-
-* Do they recall being given a reference number?
 * Do they recall stating how they prefer to be contacted, when they filled out the form?
 * How do they expect updates and how often?
 * Do they mention preferring text notifications over email?
-* Do they expect the Veteran to get notified as well?
-* Do they seem likely to go back and review a past inquiry (once it's resolved)?
+
+## Look for an inquiry - 10 minutes
+
+Great. Next we're going to switch gears. We're going to pretend like it's a week later. You submitted your inquiry 1 week ago.
+
+Can you click `Return to dashboard` please?
+
+> Screen: Dashboard
+
+* Can you describe what this page is for? What can you do on this page?
+
+Remember, 1 week ago you submitted a question to the VA about your health care.
+
+* Can you tell me how you would find that question on this page?
+* What information would help you find the question you're looking for?
+* What does status mean?
+* How do you know when the VA has replied to you?
+
+Okay, thanks. Let's click on the most recent inquiry now.
+
+#### Things to watch for:
+
+* Do they notice any helpful or missing elements in the card?
+* Is the most prominent information in the card, the most helpful?
+* Do they notice different ways to sort or filter?
+* Is the purpose of this page (the dashboard) clear?
+* How do they look through inquiries in order to find a particular one?
+* Can they find the most recent inquiry?
+
+## Open an ongoing inquiry - 10 minutes
+
+> Screen: Inquiry
+
+* Can you describe this page to me? Talk me through what's included on this page.
+* Is there any information missing?
+* Has the VA replied to your question yet?
+* What did the VA respond?
+
+#### Things to watch for:
+
+* Do they notice any helpful or missing information on this page?
+* Can they find the most recent reply?
+* Is it clear how to open all the inquiries?
+
+## Reply to VA - 5 minutes
+
+Okay, so now you've read the response from the VA. Let's pretend like their response is not completely clear, and you have another question.
+
+* What would you do if you have a follow-up question for the VA?
+* How would you reply to the VA?
+* If you wrote a reply in this box, who would you guess is going to read it?
+* How long do you think it would take to get another reply?
+* How will you know when you have another response from the VA?
+
+#### Things to watch for:
+
+* Do they expect to be able to reply to the VA on this page, or would they use another route?
+* How long do they expect it to take before the VA replies again?
+* Is it clear how they will be notified when they receive another response from the VA?
 
 ## Wrap up - 3 minutes
 
