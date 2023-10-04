@@ -1,3 +1,36 @@
+## Meeting Notes for CRM Sync on 10/3/2023
+
+Timelines discussed. Analytics considered.
+
+### Attendees:
+
+* **Integration Team:** Joe, Jacob, Khoa, Becky, Tyler, Eddie
+* **CRM Team:** Chris, Shelby, Tina, Bharat, Maria, Jamie, Cheri, Brad, (Joseph Duty last ½), George, Wayne
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+* Medallia meeting with CRM needs to be rescheduled, conflicts with existing meetings for key players on CRM team. Becky is coordinating.
+* We need to incorporate recent feedback from the CRM team into our contract document. For example, the reply_enabled field is a calculated value, sent from CRM when requesting inquiry replies. Many other annotations to incorporate.
+* CRM felt that the summary timeline document needs more granularity before they can officially commit to the work of building the APIs. The contract needs to be solidified before they can estimate the level of effort. Based on initial review by CRM team, December 12th date isn’t achievable. Dates need to align with their release schedule if possible.
+* Medallia survey is dependednt on the upcoming meeting. Need to scope level of effort for this task. May want to group multiple deliverables into a maintenance release. (Maintenance releases are possible, but generally reserved for bug fixes.)
+* Field removal work needs to be a separate meeting to see if any omissions will affect routing or validation. Most of this work is baked into other tasks. Hard to cite a delivery date.
+* Google Analytics date is currently after code freeze. CRM team needs more guidance. Becky will coordinate with the platform team to share the needed info.
+* CRM team suggested a CCB presentation in Fall '23.
+* Joseph Duty: some of the dates are after the contract ends, RISK; Bharat: but VA has an intention to extend the contract.
+
+### Action Items:
+
+1. Integration team to knock out the remaining tasks on the contract document. Need to give an ETA on when this will be done. Then do it. — Joe / Devs
+1. Integration team to deliver a more granular timeline, with milestones/touchpoints for CRM team. (e.g. integration testing complete, launch date, portal maintenance plan). — Joe / Ruchi / Becky
+1. Google Analytics guidance from Becky / Platform team to CRM team. — Becky / Joe(?)
+1. Need working. agreement for new requirements (post-launch), changes, … responsibilities of the two teams. — Ruchi / Becky
+1. Communication plan for stakeholders - banner messages are typical, may be contractual issues where agents been to have a quota of inquiries completed, … — Ruchi / Becky
+1. Google analytics needs to be tested alongside the built-in analytics for Power Apps. Dev environment would be enough to prove stability, and carry the lowest risk. — Joseph Duty (w/ guidance from platform team and Becky)
+
+
+----
+
 ## Meeting Notes for CRM Sync on 9/28/2023
 
 Chris returns. Several topics covered.
