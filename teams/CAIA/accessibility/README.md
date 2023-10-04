@@ -39,7 +39,7 @@ We can review products in staging, testing with assistive technology, reviewing 
 This is very much like a staging review but done in production.
 
 ### Training and education
-We can provide training and resources for you and your team on accessibility best practices and methodologies. 
+We can provide training and resources for you and your team on accessibility best practices and methodologies. Also, don't miss the [accessibility champs program](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs)!
 
 ### Spot checks, general support
 We are always here for more general, off-the-cuff support, too! Never hesitate to reach out to us on the DSVA Slack in either the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.
