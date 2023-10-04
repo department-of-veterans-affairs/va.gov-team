@@ -1,4 +1,4 @@
-# Research Plan for Health Enrollment (1010) 1010EZR, October, 2023
+# Research Plan for Health Enrollment (1010) 1010EZR, October 2023
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
@@ -6,6 +6,8 @@ Briefly describe the background of your product. Consider:
 - What problem is your product trying to solve?
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+
+The 1010-EZR is a new online version of a currently paper-only form. It's used to update personal information for Veterans currently enrolled in health care benefits. Most commonly, this looks like adding or removing a dependent or updating income information. We will be usability testing the MVP version of the new online form to ensure it meets the needs of VA.gov users.
 
 ### What problem is your product trying to solve?
 Veterans who want to provide updates to their personal information for increasing or maintaining their health benefits are burdened with the manual processes of calling VA, mailing in a paper form and/or visiting a facility. This is driven by the lack of an online experience and pathway to provide these updates at a more convenient time and place for the Veteran. For Veterans who must provide these updates annually, the burden is multiplied. More information available in the [product outline - 10-10EZR Health Benefits Update form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/10-10EZR%20Product%20Brief%20(standalone%20form).md)).
@@ -102,12 +104,9 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Link to conversation guide](products/health-care/application/va-application/research/2023-10-EZR MVP Usability/conversation-guide.md)
+- [Link to prototype](url goes here) TBD - either we will test on staging or potentially use a CodePen prototype.
 
 For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
 - [Link to email with instructions](url goes here)
@@ -156,16 +155,16 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: TBD
+* Date and time of pilot session: TBD
 
 ### Research sessions
 * Planned dates of research:
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: < 1 hour
+* Buffer time between sessions: 30 minutes
+* Maximum Sessions per day: 3
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
@@ -174,11 +173,11 @@ Please request enough dates and at ***least double the amount of time slots for 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
+- Moderator: Katelyn Caillouet, Jessica Stump, Hieu Vo	
+- Research guide writing and task development (usually but not always same as moderator): Katelyn Caillouet	
+- Participant recruiting & screening: Perigean	
+- Project point of contact: 	
+- Participant(s) for pilot test: TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
 - Note-takers:	
 - Observers:	
