@@ -55,7 +55,6 @@ ________________________________________________________________________________
     - **Sub Goal: Make the Switch to Version 3 of the Design System** 
         - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Update Production Sketch File for DS v. 3 Components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66871)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #4: Update additional info components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65596)
     - **Sub Goal: Update Unit Tests**
          - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] SPIKE: Understand New Unit Tests Platform Standards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66681)
@@ -159,8 +158,7 @@ ________________________________________________________________________________
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] DS v3 #4: Update additional info components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65566)
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65567)
             - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png)![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #1: Update form components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65490)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
-                 - Rolling over 
+            - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
 
 __________________________________________________________________________________________________________________________________________________________
 ## 9/6/2023 - 9/19/2023 
