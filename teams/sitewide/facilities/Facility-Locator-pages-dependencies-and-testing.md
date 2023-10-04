@@ -62,7 +62,13 @@ No dependencies in content-build
 #### Vets-website
 Vets-website heavily uses vets-api for all facility related data (locator/find-locations/details about various types of facilities). All calls to vets-api from vets-website should be using vets-api’s v1 endpoints.
 
-For facilities such as Vet centers, VA Benefits, VAMC facilities, and VA Cemeteries the vets-website makes a call to `https://api.va.gov/facilities_api/v1/va`. For CCP vets-website makes a call to `https://api.va.gov/facilities_api/v1/ccp/provider`. For Urgent care `https://api.va.gov/facilities_api/v1/ccp/urgent_care`. For Emergency care `https://api.va.gov/facilities_api/v1/va?type=health&services[]=EmergencyCare` and `https://api.va.gov/facilities_api/v1/ccp/provider?specialties` with several (4) specialties. For Pharmacy `https://api.va.gov/facilities_api/v1/ccp/pharmacy`
+| Facility type | endpoint called by vets-website | 
+| --- | --- |
+Vet Centers, VA Benefits, VAMC facilities, and VA Cemeteries |  `https://api.va.gov/facilities_api/v1/va`|
+| Community care providers | `https://api.va.gov/facilities_api/v1/ccp/provider`
+| Urgent care | `https://api.va.gov/facilities_api/v1/ccp/urgent_care`| 
+| Emergency care | `https://api.va.gov/facilities_api/v1/va?type=health&services[]=EmergencyCare` and `https://api.va.gov/facilities_api/v1/ccp/provider?specialties` with several (4) specialties |
+| Pharmacy | `https://api.va.gov/facilities_api/v1/ccp/pharmacy`|
 
 All routes on Vets-api are managed by the Facilities team and monitored in datadog. Facilities team, up to this point, has been managing the routes but ICs on the team had not had access to datadog directly. We recently got access to datadog. 
 
