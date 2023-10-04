@@ -108,6 +108,8 @@ Users have trouble finding dependent information and where to download their ben
 
 **KPI: Establish baseline metrics for "dependents" and "letters" links in the authenticated menu.**
 
+[GA Dashboard for Auth Menu](https://analytics.google.com/analytics/web/#/dashboard/jTwco5hFRBmuXcjZN9YSPA/a50123418w177519031p176188361/_u.date00=20230901&_u.date01=20231004)
+
 |KPI/metric| 1 month post-launch to 100% [add dates]|2 months post-launch to 100% [add dates]|
 |----------|---------------|-------------------|
 |Clicks into "Dependents" from the authenticated menu|||
