@@ -81,10 +81,9 @@ This will be a moderated usability study conducted remotely over Zoom. We will u
 
 We will test:
 1. Submit an inquiry
-2. View dashboard
-3. Sort and filter dashboard
-4. Open an ongoing inquiry
-5. Start a reply
+2. Sort and filter dashboard
+3. Open an ongoing inquiry
+4. Reply to VA
 
 ### Research materials
 
