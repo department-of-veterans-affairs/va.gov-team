@@ -136,7 +136,7 @@ Provide VA Chatbot users with personalized experience in regards to their presri
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-1. Rx skill go-live to integrate the proxy bot into VA Chatbot as a first iteration
+1. Rx skill MVP to integrate the proxy bot into VA Chatbot as a first iteration
 2. Accessibility updates including refinement of voice feature
 3. Health chat integration to provide users with a link to connect them to a live agent.
 
@@ -144,10 +144,10 @@ Provide VA Chatbot users with personalized experience in regards to their presri
 
 #### Initiative Launch Dates
 - *Target Launch Date:* October 2023
-  - Rx Skill Go-live
+  - Rx Skill MVP
       
-- *MVP Launch Date:* proposed mid Novemeber 2023
-  - MVP(includes feature updates, accessibility updates, and Health Chat integration) 
+- *Health Chat MVP Launch Date:* January 2024
+  - Includes feature updates, accessibility updates, and Health Chat integration 
 
 ---
    
@@ -157,14 +157,14 @@ Provide VA Chatbot users with personalized experience in regards to their presri
 * [Usability testing mockups](https://xd.adobe.com/view/c97e3903-3451-4696-9f87-d9cde5d83eaf-9c2d/?fullscreen&hints=on)
 
 ### After
-* sc of prototype - will update end of July 2023
+* [Rx prototype](https://www.sketch.com/s/b5a58a23-6128-421b-9869-50bad5b2686f/prototype/a/E0136A5B-837B-4DF5-AEE6-986C7A365CFB)
 
 ---
 
 #### Communications
 > *Where will you discuss this initiative?*
 
-- **Team Name: **VA Chatbot
+- **Team Name:** VA Chatbot
 - **GitHub Label(s):** va-virtual-agent
 - **Slack channel:** #virtual-agent-public
 - **Product POCs:** Luciana Morais, Nathalie Rayter
