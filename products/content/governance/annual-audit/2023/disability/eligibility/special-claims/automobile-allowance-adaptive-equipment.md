@@ -3,15 +3,15 @@
 ## Content on page
 
 ### OCTO checks, edits, tasks
-The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.). 
-Relevant terms from page are in content brief and any relevant backlog work is noted 
-Assessed the content in the blue box. (Keeping eligibility info in blue box.)
-Removed "Who's covered?" section 
-Assessed "What kind of disability benefits can I get?" section (Keep because this is not a monthly payment and we need to make that clear.)
-Add this Note to the end of the blue box: **Note:** If you get a disability rating, you may also be eligible for VA health care and other benefits.
-Changed the H2 from "How do I get these benefits" to "How do I file a claim for compensation?" / added an action link for the CTA and used the label "File for disability compensation online" / used this text for the link under the action link that should point to the How to file page: "Learn about other ways to file a disability compensation claim"
-Raised the visibility of the content about filing your claim and getting VA approval first before buying a vehicle. Created a new Q&A for this.
-Edits and reorganization to clarify that you need to file a claim (526) as well as submitting an additional form.
+- The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.). 
+- Relevant terms from page are in content brief and any relevant backlog work is noted 
+- Assessed the content in the blue box. (Keeping eligibility info in blue box.)
+- Removed "Who's covered?" section 
+- Assessed "What kind of disability benefits can I get?" section (Keep because this is not a monthly payment and we need to make that clear.)
+- Add this Note to the end of the blue box: **Note:** If you get a disability rating, you may also be eligible for VA health care and other benefits.
+- Changed the H2 from "How do I get these benefits" to "How do I file a claim for compensation?" / added an action link for the CTA and used the label "File for disability compensation online" / used this text for the link under the action link that should point to the How to file page: "Learn about other ways to file a disability compensation claim"
+- Raised the visibility of the content about filing your claim and getting VA approval first before buying a vehicle. Created a new Q&A for this.
+- Edits and reorganization to clarify that you need to file a claim (526) as well as submitting an additional form.
 
 ### Copy editor checks, edits, tasks
 - Header levels are hierarchical
