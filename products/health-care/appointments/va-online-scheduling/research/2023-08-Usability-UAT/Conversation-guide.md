@@ -158,17 +158,31 @@ Observe as they navigate. Are the breadcrumbs accurate? Are they using the descr
 
 * PROMPT: Imagine you want to print the details for an upcming appointment. Without activating anything, where do you think you’d find that?
 * TASK 1: Go ahead and use the website to complete the task but don't actually print it. 
-    * _If not successful: Help them navigate to where they need to go. Note where they have trouble._
+     *_If not successful: Help them navigate to where they need to go. Note where they have trouble._
 * TASK 2: Navigate to a past appointment to do the same thing but again, you do not have to print anything.
 * TASK 2: If you have a pending appointment, go ahead and do the same thing. 
 
 #### Task 5: After visit summary (10 minutes)
 
+* PROMPT: Can you show me how you would get to an after-visit summary of a VA appointment you had with your provider?
+* TASK 1: Go ahead and use the website to navigate to view an appointment’s after-visit summary.
+   * _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
 
+* TASK 2: Can you please scroll down and open the first accordion ”Your appointment on X”. Scroll through the information and please click on any links.
+   * _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
 
-* PROMPT: After your last appointment, you are curious what the doctor's notes and details about the visit were. Where would you go to find that? 
-* TASK: Go ahead and use the website to complete the task.  
-    * _If not successful: Help them navigate to where they need to go. Note where they have trouble._
+* TASK 3: Open the second accordion ”Your treatment plan from this appointment”. Scan the information and please click on any links.
+   * _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
+
+* TASK 4: Open the third accordion ”Your health information as of this appointment”. Scroll through that information and please click on any links.
+   * _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
+  
+* TASK 5: Open the Fourth accordion ”More information”. Scroll through the information and please click on any links.
+    * _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
+
+* TASK 6: Can you please show me how you would get to another After-visit summary from here?
+   * _If not successful: help them navigate. Note if the “Back to” link on top is functioning as expected.
+
 
 ## ** Thank-You and Closing (5 minutes)**
 
