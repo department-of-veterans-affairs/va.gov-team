@@ -17,11 +17,7 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
-* Terms and conditions consolidated approach across VA (Meko)
-    * Trying to create a single set of T&Cs for all tools
-        * Ex: MHV can revoke access to SM based on behavior
-    * Tom Black (OCTO) coordinating
-* Overall strategy for push notifications 
+* After visit summary for appointments (Meko)
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
 * Program level analytics - (Greta)
@@ -31,13 +27,11 @@ The Sprint 0 meeting is a time to do the following:
 * Web and App UI differences
 * List filtering and sorting
 * Onboarding
-* After visit summary for appointments
 * [Revamp Letters](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4076)
 * VHIC
     * Has edipi on it
     * Has photo
     * H623A - eligibility letter for getting on base, doesn’t have a photo so we should look at this for VHIC/VIC
-* [Omni-channel handoffs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Call_Center_Integration/Call_Center_Integration.md) 
 * [External Links - Minimize and Refine](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4077)
 * Personalized Notifications
     * Showing changes of statuses, etc.
@@ -45,20 +39,21 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Ready to Present
 
-* [Sprint 0: Push Notification Strategy - Ameet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/Push%20Notification%20Strategy%20-%20Sprint%200.md)
-* [Sprint 0: Push Notification Announcements - Binny](https://docs.google.com/document/d/1oHUiY6_ZFJgOep0UcRlff8WXk0-YSpl9g2WRC-bBOu4/edit#heading=h.mnq6vtjqteg4)
 * [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
 * [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
 
 
 | Immediate Action | Next Quarter Bucket | Icebox |
 | ----------- | ----------- | ----------- |
-| [Sprint 0: Defining active user base and log-in problems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Defining%20active%20user%20base%20&%20log-in%20problems/Sprint%200:%20Defining%20active%20user%20base%20&%20log-in%20problems.md) <br><br> [Sprint 0: User Endpoint Enhancement - Jayson](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md) |  [Sprint 0: Display Zoom on Android - Brea](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Display%20Zoom%20on%20Android/displayZoomOnAndroid.md) <br><br> [Sprint 0: Submit Feedback - Tim R](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Submit%20Feedback/submitFeedback.md) <br><br> [Sprint 0: Error Documentation - Misty](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Error%20Documentation/Error%20documentation%20sprint%200.md) <br><br> [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%3A%20Track%20referring%20URLs.md) (Greta) <br><br>  [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md) | [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)<br><br> [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md) |
+| [Sprint 0: Defining active user base and log-in problems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Defining%20active%20user%20base%20&%20log-in%20problems/Sprint%200:%20Defining%20active%20user%20base%20&%20log-in%20problems.md) <br><br> [Sprint 0: User Endpoint Enhancement - Jayson](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md) |  [Sprint 0: Display Zoom on Android - Brea](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Display%20Zoom%20on%20Android/displayZoomOnAndroid.md) <br><br> [Sprint 0: Submit Feedback - Tim R](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Submit%20Feedback/submitFeedback.md) <br><br> [Sprint 0: Error Documentation - Misty](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Error%20Documentation/Error%20documentation%20sprint%200.md) <br><br> [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%3A%20Track%20referring%20URLs.md) (Greta) <br><br>  [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md) <br><br> [Sprint 0: Push Notification Strategy - Ameet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/Push%20Notification%20Strategy%20-%20Sprint%200.md) | [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)<br><br> [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md) |
 
 
 
 
 ## Working session notes
+
+## 10/5/23
+*
 
 ## 9/26/23
 * [Sprint 0: Push Notification Strategy - Ameet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/Push%20Notification%20Strategy%20-%20Sprint%200.md)
