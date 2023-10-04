@@ -37,6 +37,7 @@ ________________________________________________________________________________
               - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add refresh timer to upcoming appointments call](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66619)
               - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Landing Page: Display the Next Task for "What to do next"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62138)
         - **EPIC [Unified Check-in: Priority 8 - Changes to Need Help Section & Alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62515)**
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[BUG] Fix content for need help on .../complete pages in check in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66618)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Update Content in the Needs Help Section to the Default on All Pre-Check-in and Check-in Pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65479)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Change alert on travel pages to additional info component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65480)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66782)
@@ -48,12 +49,12 @@ ________________________________________________________________________________
    - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [UX] Fill out and schedule design intent meeting (but, work with Kristen to see if this should live with our team or Appointments team)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65414)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Start CodePen Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65419)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Make Decisions about CodePen Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65419)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Wireframe UI solution for communication of BT claim statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66762)
 - **GOAL: Address tech & design debt**        
     - **Sub Goal: Make the Switch to Version 3 of the Design System** 
         - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
-            - NOTE: WE NEED TO REPOINT BASED ON CHANGES TO METRICS             
+            - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Update Production Sketch File for DS v. 3 Components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66871)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #2: Update accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] DS v3 #4: Update additional info components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65596)
     - **Sub Goal: Update Unit Tests**
