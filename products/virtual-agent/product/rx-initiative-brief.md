@@ -12,6 +12,7 @@ With Rx skill enabalement, the VA Chatbot is better able to support the needs of
 **Related/Associated product(s)**
 
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/product_outline.md#key-decisions)
+- [Voice Health Assistant](https://wiki.mobilehealth.va.gov/display/VVHA/VHA+Voice+Health+Assistant)
 
 ## Problem 
 > What is the problem and who is affected? 
