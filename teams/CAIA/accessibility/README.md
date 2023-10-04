@@ -30,17 +30,16 @@ We can work with you and your team during design discovery to ensure that access
 We can review your static wireframes or interactive prototypes looking for potential accessibility issues. We can also work with you and advise on how to annotate designs to ensure that they are easy to implement in an accessible way.
 
 ### PDF audit
-We can review PDFs documents for accessibility, and help advise on how to remediate any issues found.
+We can review PDF documents for accessibility, and help advise on how to remediate any issues found.
 
 ### Staging audit
 We can review products in staging, testing with assistive technology, reviewing for accessibility best practices, and ensuring that the product meets OCTO-DE accessibility experience standards.
 
 ### Health check audit
-This is very much like a staging review, but done in production.
-
+This is very much like a staging review but done in production.
 
 ### Training and education
 We can provide training and resources for you and your team on accessibility best practices and methodologies. 
 
 ### Spot checks, general support
-We are always here for more general, off-the-cuff support, too! Never hesitate to reach out to use on the DSVA slack in either the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.
+We are always here for more general, off-the-cuff support, too! Never hesitate to reach out to us on the DSVA Slack in either the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.
