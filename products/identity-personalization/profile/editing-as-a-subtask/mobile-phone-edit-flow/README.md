@@ -84,6 +84,8 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 **KPI: Establish baseline metrics for number of saves of the add a mobile number form.**
 
+- [see save / failure metrics on the top right ](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20230806&_u.date01=20230814/)
+
 |KPI/metric|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|
 |Number of saves of the add a mobile number form (success)|||
