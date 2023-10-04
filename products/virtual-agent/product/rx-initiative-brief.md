@@ -1,7 +1,7 @@
 # Prescriptions Initiative Brief
 #### Overview
 
-The Office of the CTO (OCTO) and the Office of Connected Care (OCC) joined as the first partnership for the VA Chatbot platform to provide the users accessibility into getting their personalized prescription information in a timely manner. The prescription skill includes an opt-in voice feature, listing of what prescriptions they have on file, prescription details, refill dates, order prescriptions, and track prescription orders.
+The Office of the CTO (OCTO) and the VHA Office of Connected Care (OCC) joined as the first partnership for the VA Chatbot platform to provide the users accessibility into getting their personalized prescription information in a timely manner. The prescription skill includes an opt-in voice feature, listing of what prescriptions they have on file, prescription details, refill dates, order prescriptions, and track prescription orders.
  </details>
  
 ---
