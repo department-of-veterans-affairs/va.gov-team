@@ -1,7 +1,7 @@
 # VA Chatbot
 
 #### Platform Partners
-* Prescriptions Skill Integration with VHA Office of Connect Care: [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md)
+* Prescriptions Skill Integration with VHA Office of Connect Care(OCC): [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md)
 
 ## Problem Statement
 
@@ -12,7 +12,7 @@ Ultimately, the problem we solve with our virtual agent is to help the Veteran s
 The areas we address:
 
 1. Giving the Veteran more direct access to the dense content available at va.gov 
-2. Providing the Veteran with another channel to interact with the VA that is available all day
+2. Providing the Veteran with another channel to interact with the VA that is available 24 hours 
 3. Providing other VA teams to integrate with our bot
 
 ## Existing Features
@@ -27,7 +27,7 @@ Up until now, the bot has been trained in the following pages for general knowle
 * Decision Letters
 * Sign-in Support
 
-Our current feature in progress is the [Prescriptions Skill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) in partnership with OCC with the goal of allowing Veterans to list, track and refill their prescriptions through the Chatbot. This feature is set to have a preliminary launch in October of 2023 and a Health Chat MVP launch by January 2024.
+Our current feature in progress is the [Prescriptions Skill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) in partnership with OCC with the goal of allowing Veterans to list, track, and refill their prescriptions through the Chatbot. This feature is set to have a preliminary launch in October of 2023 and a Health Chat MVP launch by January 2024.
 
 ## Assumptions
 
@@ -90,28 +90,29 @@ _PVA Technical Analysis_
   - We should invest some dev effort in giving us the ability to roll back / restore from older versions
   - Unit testing is just not possible
 
-    A unit tests are traditionally the most cost-effective testing tool.
+    **A.** unit tests are traditionally the most cost-effective testing tool.
   
-    B May be able to write higher-level / more expensive tests using power automate?
+    **B.** May be able to write higher-level / more expensive tests using power automate?
   
-    C expensive and may require dedicated dev effort
+    **C.** expensive and may require dedicated dev effort
   
-    D Downsides to no/few tests:
+    **D.** Downsides to no/few tests:
   
-    E refactoring becomes very difficult and risky.
+    **E.** refactoring becomes very difficult and risky.
   
-    F "Simple" bugs can leak through.
+    **F.** "Simple" bugs can leak through.
   
-    G We might become reliant on manual testing which is expensive and can slow down release cycles.
+    **G.** We might become reliant on manual testing which is expensive and can slow down release cycles.
   
-    H Chances of regression are high.
+    **H.** Chances of regression are high.
 
 ## Release Plan
 
-PoV Launch: June 2021
 Upcoming releases: 
 - Prescriptions Skill MVP: October 2023
 - Health Chat Integration MVP: January 2024
+
+PoV Launch: June 2021
 
 ## Key Decisions
 
