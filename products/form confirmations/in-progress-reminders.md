@@ -36,6 +36,13 @@
 - 10-10 EZ launched to 100% production
 - 526EZ launched to 25% production
 
+|Form Number  |Form Name |Frequency |Time Frame |Launch Date | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+| 26-1880  | Application for a VA Home Loan Certificate of Eligibility (COE) | Once | 24 hours  | May 2023  |
+| 686c | ------------- | Once | 7 days | ------------- | 
+| 10-10 EZ | ------------- | ------------- | ------------- | ------------- | 
+| 526EZ | ------------- | ------------- | ------------- | ------------- | 
+
 ---
 ## Measuring Success
 
