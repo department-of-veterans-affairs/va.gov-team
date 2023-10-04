@@ -68,9 +68,9 @@ Now before we get started, there are a few other things I want to mention:
 * [Submit an inquiry - 25 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Veteran%20guide.md#submit-an-inquiry---25-minutes)
 * [Look for an inquiry - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Veteran%20guide.md#look-for-an-inquiry---10-minutes)
 * [Open an ongoing inquiry - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Veteran%20guide.md#open-an-ongoing-inquiry---10-minutes)
-* Reply to VA - 5 minutes
-* Wrap up - 3 minutes
-* Thank you - 2 minutes
+* [Reply to VA - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Veteran%20guide.md#reply-to-va---5-minutes)
+* [Wrap up - 3 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Veteran%20guide.md#wrap-up---3-minutes)
+* [Thank you - 2 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry/Conversation%20guides/Veteran%20guide.md#thank-you---2-minutes)
 
 ## Warm up - 5 minutes
 
