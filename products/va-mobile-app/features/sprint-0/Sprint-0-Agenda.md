@@ -53,7 +53,7 @@ The Sprint 0 meeting is a time to do the following:
 ## Working session notes
 
 ## 10/5/23
-*
+* [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
 
 ## 9/26/23
 * [Sprint 0: Push Notification Strategy - Ameet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/Push%20Notification%20Strategy%20-%20Sprint%200.md)
