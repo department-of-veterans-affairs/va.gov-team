@@ -13,7 +13,7 @@ Please log key decisions related to the below practice areas, including date, wh
 
 ### General product design decisions
 | Decision | Reasoning |
-| —————| ——————| 
+|-----------------------------------------------------------------------------------------------|-----------------| 
 | There will be three primary pages: A landing page, a list of entries, details about each entry |       |
 | We will initially launch the product with only one domain, allergies. |     |
 | The product will not have a left navigation bar |  No need for left nav with only one domain available  |
@@ -24,7 +24,7 @@ Please log key decisions related to the below practice areas, including date, wh
 
 ### Allergies specific design decisions
 | Decision | Reasoning |
-| —————| ——————| 
+|-----------------------------------------------------------------------------------------------|-----------------| 
 | The list view page for allergies will be at the URL …/my-health/medical-records/allergies/ |   |
 | A details page for allergies will be at the URL …/my-health/medical-records/allergies/<allergy ID>/ |     |
 | A user can print from the list view. When they do, they receive a print out of all of their allergies |     |
@@ -44,45 +44,14 @@ Please log key decisions related to the below practice areas, including date, wh
 |------|-------------------|-------------------------|-----------|
 | 09/09/2022 | Lauren Alexanderson, Marci McGuire, Coulton Bunney                   |  We will bring engineering and design in earlier than we did with secure messaging                       |  rapid technical feedback will be more important in this application. |
 | 09/22/2022 | Lauren Alexanderson, Marci McGuire, Coulton Bunney      | We will likely start with immunizations first in the Medical Records app.| Should be straightforward compared to other sections        |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
+
 
 ## Functional (How it works)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |    1/12/23  |         Patty Henry          |             Update: We will NOT be moving forward with directly sharing medical records via MHV or VA.gov per the conversation with Patty Henry in today's Jira Backlog Grooming meeting for the following reasons:| Because users own this information, they are free to download/print their records to send to anyone they choose, using their own delivery methods. The Legacy feature, "Send My VA Health Summary" was a pilot feature that has been decommissioned. This feature is owned by Veterans Health Information Exchange (VHIE) program, not MHV.|
 |   2/1/23   |    Coulton Bunney               |         Per the 2/1 Design and Research critique, we’ve decided that, for Phase 0, the list of vaccines will not have any search, sort, filter, or grouping capabilities. The grouping of vaccines will be included in later iterations, pending research.                |    Simplify the MVP, and justify the additional features through future research.        |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
+
 
 ## Consider designing an experience that allows users to view,  print/download, and share immunizations.
 
@@ -106,19 +75,7 @@ Please log key decisions related to the below practice areas, including date, wh
 |    12/21/22  |       Jonathan Nelson            |        Surface Vaccine name and date of vaccine on list view with a link to "view details" -   |  Surfacing the most relevant information will make the list scannable and help Veterans find information quickly and efficiently. Additionally,  this is similar to the Secure Messaging designs  and the Flagship mobile app|
 |   12/21/22   |       Jonathan Nelson            |           The hierarchy and content of the immunization detail page follows the Flagship Mobile App for consistency.   |     Users should have a similar experience (when possible) across the mobile app and website ("dosage" is coming from Lighthouse API - Unknown if we get from doage from PHR API)  |
 |    2/3/22  |     Alexia Wunder, Matt Dingee, Peter Russo, Martha Wilkes, Ryan Thurlwell              |   [Per this Slack conversation](https://dsva.slack.com/archives/C0NGDDXME/p1675212625976139), we will move forward with the print and download action triggers as links with icons instead of buttons.                       |  This decision was approved with the understanding that other teams will test this style going forward to come up with a more permanent structure for this type of trigger, and that we will be sure to test with screen reader users.          |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
+
 
 
 ## Does the immunizations experience need both a print and download feature? 
@@ -167,49 +124,12 @@ However, surfacing action items for users is one of the main takeaways from gene
 
 
 
-## Research (How it tests)
-| Date | Decision Maker(s) | Description of Decision | Rationale |
-|------|-------------------|-------------------------|-----------|
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-
 ## Content & IA
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |  12/21/22    |    Danielle Thierry (OCTO content and translation lead)   |   VA have any stance on the terms Vaccines or Immunizations                       |      we've decided on "vaccines" on modernized pages mainly for simplicity (see bellow for more info) |
 |  12/21/22  |      Jonathan Nelson           |       H1: VA Vaccines  | Follows VA Flagship app - "VA" helps add context for the user (not DoD or self-entered) |
-|      |                 |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
+
 
 ## Does the VA have any stance on the terms Vaccines or Immunizations? 
 
@@ -223,12 +143,10 @@ To date, we've decided on "vaccines" on modernized pages mainly for simplicity. 
 
 Please also see Design intent IA ticket[https://github.com/department-of-veterans-affairs/va.gov-team/issues/51712]
 
-
-
 ## Engineering
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|      |                   |                         |           |
+|      |                   | MHV will FHIR-ize their existing PHR APIS                         | The logic and connections to source data is already there; just needs to be converted to FHIR          |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
