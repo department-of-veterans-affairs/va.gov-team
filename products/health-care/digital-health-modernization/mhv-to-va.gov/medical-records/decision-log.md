@@ -1,6 +1,44 @@
 # Medical Records Decision Log
 Please log key decisions related to the below practice areas, including date, who made the decision, and a description of the decision and any specific rationale behind it.
 
+
+# Medical records design decisions
+
+## Oct 4, 2023
+
+### State of product
+* Phase 0
+* Domains included: Allergies
+* Final designs for Phase 0, Allergy launch
+
+### General product design decisions
+| Decision | Reasoning |
+| —————| ——————| 
+| There will be three primary pages: A landing page, a list of entries, details about each entry |       |
+| We will initially launch the product with only one domain, allergies. |     |
+| The product will not have a left navigation bar |  No need for left nav with only one domain available  |
+| The landing page will be at the URL …/my-health/medical-records/ | | 
+| The landing page will list all available domains, give a short descriptive blurb about each, and provide a link to the list view for each |   |
+| Any printed or downloaded page will include two patient identifiers - name and date of birth |    |
+
+
+### Allergies specific design decisions
+| Decision | Reasoning |
+| —————| ——————| 
+| The list view page for allergies will be at the URL …/my-health/medical-records/allergies/ |   |
+| A details page for allergies will be at the URL …/my-health/medical-records/allergies/<allergy ID>/ |     |
+| A user can print from the list view. When they do, they receive a print out of all of their allergies |     |
+| A user can print from the details view. When they do, they receive a print out of the details for just that allergy |     |
+| A user can download from the list view. When they do, they receive a PDF that includes a list of all of their allergies |   |
+| A user can download from the details view. When they do, they receive a PDF that includes just the details of that allergy |      |
+| A user will be presented information on the consequences of downloading a PDF on a public computer | |
+| The list view will present each allergy in a card format |      |
+| Each card in the list view contains allergy name and date entered by provider into the record | |
+| The H1 of the details view will be the allergy name. Directly underneath the H1 will be date entered information | | 
+| In the details view for an allergy, a user will be shown Allergy name, date entered, location entered, reaction, allergy type, whether it was observed or is historical, and any comments entered by the provider | |
+
+
+
 ## Product
  | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
