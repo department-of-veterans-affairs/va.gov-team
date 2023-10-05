@@ -2,12 +2,13 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
-
-The 1010-EZR is a new online version of a currently paper-only form. It's used to update personal information for Veterans currently enrolled in health care benefits. Most commonly, this looks like adding or removing a dependent or updating income information. We will be usability testing the MVP version of the new online form to ensure it meets the needs of VA.gov users.
+The Health Benefits Update Form (10-10EZR) is a new online version of a currently paper-only form. It's used to update personal, insurance, or financial information for Veterans currently enrolled in health care benefits. Most commonly, this looks like adding or removing a dependent or updating income information. We will be usability testing the MVP version of the new online form to ensure it meets the needs of VA.gov users. The form contains 4 sections, and for MVP, must be completed and submitted in its entirety to be processed.
+The four main sections are:
+- Veteran information
+- Household financial information
+- Insurance information
+- Review
+This MVP effort will go through the collaboration cycle and this study will happen post the midpoint review. 
 
 ### What problem is your product trying to solve?
 Veterans who want to provide updates to their personal information for increasing or maintaining their health benefits are burdened with the manual processes of calling VA, mailing in a paper form and/or visiting a facility. This is driven by the lack of an online experience and pathway to provide these updates at a more convenient time and place for the Veteran. For Veterans who must provide these updates annually, the burden is multiplied. More information available in the [product outline - 10-10EZR Health Benefits Update form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/10-10EZR%20Product%20Brief%20(standalone%20form).md)).
@@ -16,51 +17,44 @@ Veterans who want to provide updates to their personal information for increasin
 The product will live in the My Health section of VA.gov, but also be referenced by other static, informational pages on VA.gov, outside of the My Health section.
 
 ### What is Veterans’ familiarity with this tool?
-This is a new product and form, although the first version of this form will be very similar to the 1010EZ.
+This is a new product and form, although the first version of this form will be very similar to the 10-10EZ.
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+The [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) that this research supports are:
 
+Increase 
+- Completion rate of online transactions
+- Usage of digital, self-service tools
+- Percent of applications submitted online (vs. paper)
 - Enhance Veterans’ personalized online experience
 - Fast-track disability claims, starting with PACT Act claims
 
+
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter?
+This product fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) during the areas:
 
 - Getting out
 - Starting up
 - Taking care of myself
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.*
-
-- Goal 1: **Predilled information** - Test the usability of the prefilled form fields to see if Veterans understand what information needs to be updated, that the information is prefilled and information can be changed.
+- Goal 1: **Pre-filled information** - Test the usability of the prefilled form fields to see if Veterans understand what information needs to be updated, that the information is prefilled and information can be changed.
 - Goal 2: **Financial information update** - Test the usability of the Household/financial information section of the form to see if Veterans understand what they need to provide since that section is never prefilled.
 - Goal 3: **Financial information update notification** - Determine how a Veteran knows or would like to know they need to update the household/financial section.
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-
 These learnings will allow us to evaluate for additional gaps during the rollout of new form to production. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed in future interations.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
-
-#### Goal 1: **Predilled information** - Test the usability of the prefilled form fields to see if Veterans understand what information needs to be updated, that the information is prefilled and information can be changed.
+#### Goal 1: **Pre-filled information** - Test the usability of the prefilled form fields to see if Veterans understand what information needs to be updated, that the information is prefilled and information can be changed.
 
 - Do participants understand that information is prefilled?
-- Are the alerts about prefilled information at the beginning of each section effective and understandable for participants?
-- Do participants understand that they can change the information that's prefilled?
+- Are the alerts about pre-filled information at the beginning of each section effective and understandable for participants?
+- Do participants understand that they can change the information that's pre-filled?
 - What is the impact on participants who need to update only one section of the form vs. more than one section of the form?
 
-#### Goal 2: **Financial information update** - Test the usability of the Household/financial information section of the form to see if Veterans understand what they need to provide since that section is never prefilled.
+#### Goal 2: **Financial information update** - Test the usability of the household/financial information section of the form to see if Veterans understand what they need to provide since that section is never pre-filled.
 
 - Do participants understand that they need to provide updated financial information?
 - Do the participants understand the impact of not providing an update?
@@ -75,12 +69,6 @@ Consider bucketing research questions under research goals. For each question, t
 - Can participants find the landing page with more information, if prompted? 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
-
 - Participants will understand that information is prefilled and be able to update and submit the information.
 - Participants may be frustrated if they want to only update one section of the form vs. multiple sections because they will have to go through the form linearly.
 - Participants will understand they need to update financial information.
@@ -89,48 +77,24 @@ What do you intend to learn and measure from this study? Think through these pro
 - Participants will know what they need to do based on the intro page on the form.
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
 - Usability testing - appropriate for evaluative research
 - User acceptance testing (UAT) - required before product release
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
 - Remote, moderated via Zoom.
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
 For moderated usability tests: 
 - [Link to conversation guide](products/health-care/application/va-application/research/2023-10-EZR MVP Usability/conversation-guide.md)
 - [Link to prototype](url goes here) TBD - either we will test on staging or potentially use a CodePen prototype.
+- [Link to recruitment ticket]() TBD
 
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
-	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+Our intended audience for this research are Veterans and we will be using and leveraging Perigean to recruit participants.
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+**Veterans: Requesting 10**
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
@@ -138,12 +102,21 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+- All must be currently enrolled in VA health care benefits
+- At least 2 are using a mobile device during the session
+- A mix of disability ratings (from 10%-100%)
+- Diverse mix of age ranges
+- No more than 1 participant with a Bachelor's degree or higher
+- At least 2 participants who are Black
+- At least 2 participants who are Hispanic 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+For all:
+- Have you seen a healthcare provider in a VA medical center or other VA healthcare facility in the last 12 months? _Response options: yes or no (Answering yes would qualify the participant.)_
+OR
+- Are you currently enrolled in VA health care benefits? _Response options: yes or no (Answering yes would qualify the participant.)_
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+For recruiting 2 mobile users:
+- Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet.  _Response options: yes or no (Answering yes would qualify the participant.)_
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
@@ -159,26 +132,35 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: **November 6 - November 13**
 
 ### Length of sessions
-* Session length: < 1 hour
-* Buffer time between sessions: 30 minutes
+* Session length: 1 hour
+* Buffer time between sessions: 1 hour
 * Maximum Sessions per day: 3
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
-	
+| **Team Availability** | **Time (ET)** 	|
+| --------------------- | --------------------- |
+| November xx, 2023  	|  11am - 5pm ET 	|
+| November xx, 2023   	|  11am - 5pm ET 	|
+| November xx, 2023   	|  11am - 4pm ET 	|
+| November xx, 2023   	|  10am - 4pm ET 	|
+| November xx, 2023   	|  10am - 4pm ET 	|
+| November xx, 2023  	|  11am - 5pm ET 	|
+| November xx, 2023   	|  11am - 5pm ET 	|
+| November xx, 2023   	|  11am - 4pm ET 	|
+| November xx, 2023   	|  10am - 4pm ET 	|
+| November xx, 2023   	|  10am - 4pm ET 	|
+
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: Katelyn Caillouet, Jessica Stump, Hieu Vo	
-- Research guide writing and task development (usually but not always same as moderator): Katelyn Caillouet	
+- Research guide writing and task development: Katelyn Caillouet (katelyn.caillouet@agile6.com)
 - Participant recruiting & screening: Perigean	
-- Project point of contact: 	
+- Project point of contact: Moderators
+- Note-takers: Perigean, 10-10 Team
 - Participant(s) for pilot test: TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Observers: TBD
