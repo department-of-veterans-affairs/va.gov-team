@@ -5,6 +5,10 @@
 ### Topics Covered:
 - ITF Asyncronous work starting next sprint for Team 2. Question to group: do we want to do an ITF brainstorm for all things ITF after?
 - Toxic Exposure thread with Lighthouse re: data questions
+   - Learned that 1010ez also will be asking TE questions
+   - Lots of data questions to answer, reliant on /submit migration
+   - Keep focus on this & moving it forward, but not feeling as urgent to get the pages out at this point
+- Unemployability flow - prioritization? probably not near term
 
 ### Date: Sept 28' 2023       
 ### Participants: Emily, Steve, Shannon, Austin, Anneliese
