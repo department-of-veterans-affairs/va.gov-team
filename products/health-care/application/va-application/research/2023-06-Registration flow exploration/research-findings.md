@@ -110,9 +110,7 @@ We assume not all Veterans can complete the enrollment process in one go, that t
 
 ### Finding 1 - Veterans are confused about the registration and enrollment options
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Content], [PRDT: Form 10-10 EZ], [VETJNY: Taking care of themselves]
 
 Participants mostly found the paper instructions confusing in some way, either using the terms interchangeably or seeing them as steps in the health care process. 
 
@@ -131,7 +129,7 @@ Participants mostly found the paper instructions confusing in some way, either u
 
 ### Finding 2 - Veterans want more education and explanation around health care benefits
 
-Labels: label 1, label 2 
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Content], [PRDT: Form 10-10 EZ], [VETJNY: Taking care of themselves]
 
 Participants expressed wanting more information and resources for them to understand how to use their health care benefits and what they had available to them.
 
@@ -148,7 +146,7 @@ Participants expressed wanting more information and resources for them to unders
 
 ### Finding 3 - Veterans see disability and health care benefits as the same process
 
-Labels: label 1, label 2 
+Labels: [AUD: Veterans], [BNFT: Healthcare], [BNFT: Disability], [PRDT: Content], [PRDT: Form 10-10 EZ], [VETJNY: Taking care of themselves]
 
 Veterans conflated disability benefits and the disability compensation process with health care benefits and the healthcare application process.
 
@@ -167,7 +165,7 @@ Veterans conflated disability benefits and the disability compensation process w
 
 ### Finding 4 - Veterans are mostly unaware of their Priority Group
 
-Labels: label 1, label 2 
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Content], [PRDT: Form 10-10 EZ], [VETJNY: Taking care of themselves]
 
 The term Priority Group was mostly new to participants, those who had heard it before connected it to disability rating tiers. 
 
@@ -185,7 +183,7 @@ The term Priority Group was mostly new to participants, those who had heard it b
 
 ### Finding 5 - Veterans want personalized and automatic benefit recommendations
 
-Labels: label 1, label 2 
+Labels: [AUD: Veterans], [BNFT: Healthcare], [BNFT: All], [PRDT: Content], [PRDT: Form 10-10 EZ], [VETJNY: Taking care of themselves]
 
 Personalized and easy to find lists of what benefits were available to them was a common ideal state expressed by participants - both VA wide and specifically within health care benefits.
 
