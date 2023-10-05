@@ -15,7 +15,7 @@ Note that CAIA can support teams going through the Collaboration Cycle, but **CA
 ## Services we offer
 What follows is a menu of the services we offer. **No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.**
 
-You can also reach us by attending our weekly office hours on Tuesdays at 4 p.m. EST via [Zoom](https://coformaco.zoom.us/j/83992174780?pwd=Tk1jZ0o3MWxLcHFMWTM1S3ZrcytqUT09).
+You can also reach us by attending our weekly office hours on Tuesdays at 4 PM eastern on [Zoom](https://coformaco.zoom.us/j/83992174780?pwd=Tk1jZ0o3MWxLcHFMWTM1S3ZrcytqUT09).
 
 ### Research support
 We can help you plan your research sessions, ensuring that they are equitable and accounting for important accessibility factors. When it comes to running research sessions, we can also provide technical support for research participants who rely on assistive tech, like screen readers. 
