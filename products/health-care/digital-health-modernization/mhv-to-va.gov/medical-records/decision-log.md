@@ -147,7 +147,7 @@ Please also see Design intent IA ticket[https://github.com/department-of-veteran
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |      |                   | MHV will FHIR-ize their existing PHR APIS                         | The logic and connections to source data is already there; just needs to be converted to FHIR          |
-|      |                   |                         |           |
+|      |                   | We will access Cerner data via DAS SPOE                        | Single point of entry already exists; will prevent us from having to do a brand new ATC          |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
