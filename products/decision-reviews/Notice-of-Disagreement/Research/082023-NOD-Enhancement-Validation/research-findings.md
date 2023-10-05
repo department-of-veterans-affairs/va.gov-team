@@ -148,7 +148,7 @@ Gather feedback surrounding the relevance of usability of proposed enhancements
 ## **Key Findings**
 
 1. Veterans seem to sort cleanly into two groups — learners and doers. For some, more information is more.  For others, the opposite is true.
-2. Veteran comprehension of decision reviews, appeals and vary. Many do not know what is most relevant for their claim.
+2. Veteran comprehension of decision reviews and appeals vary. Many do not know what is most relevant for their claim.
 3. Veterans are unconfident in what they can submit to support their claim.
 4. Veterans demonstrated confusion between reason for disagreement, additional information and additional evidence (where relevant).
 
@@ -169,7 +169,7 @@ Different claimants approach the claim process differently.  Learners are incli
 
 ### **Finding 2**
 
-Veteran comprehension of decision reviews, appeals and vary. Many do not know what is most relevant for their claim.
+Veteran comprehension of decision reviews and appeals vary. Many do not know what is most relevant for their claim.
 
 Claimants vary in their knowledge of decision pathways as well as how claims are adjudicated. More information is needed to sufficiently support Veterans in validating their chosen decision pathway.
 * Veterans want to know how long each decision review and review option will take and the intent of each option
