@@ -42,7 +42,7 @@ I work on making technology easier for Veterans to use in order to get informati
 
 What I *hope to do today* is to get your feedback on something new that we're working on. 
 
-What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may look at things that have caused you frustration, and I want you to know up front that I can't make that better for you right now. I don't have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations because they can help me advocate for improvements to the process in the future.
+What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may look at things that have caused you frustration, and I want you to know up front that I can't make that better for you right now. I do not have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations because they can help me advocate for improvements to the process in the future.
 
 I have a colleague with us in this session who will be taking notes.
 
@@ -64,8 +64,8 @@ Before we start, I want to go over a few things:
 
 - I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
   
-  - Last thing: One of the ways that we share findings with our partners across VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image and name. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA online resources. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. I'll also confirm at the end of this session that this is okay with you, so you will get a chance to veto this once you know what we've discussed. 
-  - Knowing this, **would you be comfortable if we decided to use a clip of our session** with you to help our partners understand Veteran's experiences?
+  - Last thing: One of the ways that we share findings with our partners across VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image and name. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA online resources. These clips will not be shared outside of the VA. We don't know at this point if we will or won't do this, but I'd like to ask ahead of time. I'll also confirm at the end of this session that this is okay with you, so you will get a chance to veto this once you know what we've discussed. 
+  - Knowing this, **would you be comfortable if we decided to use a clip of our session** with you to help our partners understand Veterans' experiences?
   - *(If yes:)* Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 *Select Record, then Record to the cloud.*
