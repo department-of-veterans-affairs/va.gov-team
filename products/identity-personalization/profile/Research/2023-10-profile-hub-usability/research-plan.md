@@ -223,8 +223,8 @@ Availability:
 ### Prepare
 
 - Prototype date finalized on: October 3
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: Angela Fowler
+* Date and time of pilot session: October 5th at 12pm Eastern
 
 ### Research sessions
 * Planned dates of research: October 11 - 17
