@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Updated 09/30/2023:**  fixing formatting and links, adding UX artifacts
+**Updated 10/05/2023:**  adding key decisions table
 
 ### Communications
 
@@ -230,6 +230,13 @@ We'll support some kind of edit access/process (ideas that are not finalized by 
 - September-October 2023: Discovery
 - October 2023: Design
 - November-December 2023: Build
+
+## Key decisions
+|Date|Decisions|Reason|Impacts|
+|---|---|---|---|
+|||||
+|||||
+|||||
 
 ## Design
 
