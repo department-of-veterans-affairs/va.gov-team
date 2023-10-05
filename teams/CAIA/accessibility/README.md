@@ -33,7 +33,9 @@ We can review your static wireframes or interactive prototypes looking for poten
 We can review PDF documents for accessibility, and help advise on how to remediate any issues found.
 
 ### Staging audit
-We can review products in staging, testing with assistive technology, reviewing for accessibility best practices, and ensuring that the product meets OCTO-DE accessibility experience standards. **We can also help you prepare the [required accessibility testing artifact](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#artifact) for the Collaboration Cycle.**
+We can review products in staging, testing with assistive technology, reviewing for accessibility best practices, and ensuring that the product meets OCTO-DE accessibility experience standards. 
+
+**We can also help you prepare the [required accessibility testing artifact](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#artifact) for the Collaboration Cycle.**
 
 ### Health check audit
 This is very much like a staging review but done in production.
