@@ -54,10 +54,7 @@
 { 
     "status": { 
         "code": 404, 
-        "message": "Not Found", 
-        "data": {
-          "message": "Inquiry Not Found"
-        }
+        "message": "Inquiry Not Found"
     }
 }
 ```
