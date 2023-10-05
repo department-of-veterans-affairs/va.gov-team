@@ -1,12 +1,14 @@
 # Emergency Contact and Next of Kin Product Outline
 
+**Last updated:** 10/5/23
+
 ## Table of Contents
 
 ## POCs
+This is a collaboration between the [VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/README.md#team) and the [My HealtheVet on VA.gov Cartography team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization#landing-pagehome-team).
 
-Slack channel:
-- #accountexp-authexp
-This will be managed by the VA.gov profile team. Work is being developed by the cartography team 
+- **Github labels**: `authenticated-experience`, `emergency-contact`, `next-of-kin`, `my-health-CTO-HEALTH-TEAM OCTO`, `my-health-INTEGRATION`
+- **Slack channel:** #accountexp-authexp
 
 ## Overview
 
