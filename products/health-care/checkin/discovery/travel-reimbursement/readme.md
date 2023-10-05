@@ -13,6 +13,13 @@ MVP Targeting Fall/Winter 2022
 - [Running List of Answers to Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/answers-to-questions.md)
 
 ### Research
+
+#### Previous Research 
+- [Final Presentation - 18F - VA Travel Reimbursement PA.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12822170/Final.Presentation.-.18F.-.VA.Travel.Reimbursement.PA.pdf)
+- [Final Report - 18F Path Analysis on Beneficiary Travel Self-Service System (BTSSS).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12822171/Final.Report.-.18F.Path.Analysis.on.Beneficiary.Travel.Self-Service.System.BTSSS.pdf)
+- [18F & VA Travel Reimbursement PA Mid-Point.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12822172/18F.VA.Travel.Reimbursement.PA.Mid-Point.pdf)
+
+#### Primary Research Artifacts
 - [Travel Reimbursement Findings from Interview with VA Bay Pines Healthcare System ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/bay-pines-interview-notes.md)<br>
 - [Research Synthesis from Bay Pines (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531778271/c07cb27bbf026415d07a1fc0ae39b972954ecf5c?sender=u37bb983bd3fc3cc00c7d3286)<br>
 - [Travel Reimbursement Findings from Interview with VA Texas Valley Health Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/tx-valley-interview-notes.md)
