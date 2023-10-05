@@ -34,75 +34,59 @@ We will be sharing our research findings with other VFS teams who are interested
 
 We hypothesize that:
 - There will be a need for more than one type of indicator, i.e. both a badge with a count and a dot, as we've seen in other popular design systems, such as [Material Design](https://m3.material.io/components/badges/overview).
-	- We expect that it won't always make sense to use a count, and conversely, it won't always make sense to use a badge. We expect that for notifications such as the number of unread messages, a count will be most useful, whereas a notification that past appointments may be eligible for travel reimbursement may need a dot to indicate that a user may want to review their past appointments for this benefit.
+	- We expect that it won't always make sense to use a count, and conversely, it won't always make sense to use a dot. For example, we expect that for notifications such as the number of unread messages, a count will be most useful, whereas a notification that past appointments may be eligible for travel reimbursement may need a dot to indicate that a user may want to review their past appointments for this benefit.
 - We expect that we may need to use a dark red color for the indicator to be useful for colorblind and low vision users, but that they will still be able to see and interpret the indicators.
 - We expect that the aria labels we have implemented for dot and badge indicators will deliver as close to the same experience as possible for screen reader users as a sighted user would have.
-	- We expect that there may be interesting findings for when screen reader users would like to be alerted to indicators. We think there may be a better way to announce indicators than waiting until a user navigates to the specific link where the indicator is.
+	- We expect that there may be interesting findings for <b>when</b> screen reader users would like to be alerted to indicators. We think there may be a better way to announce indicators than waiting until a user navigates to the specific link where the indicator is.
 
 ## Methodology	
-We will conduct one-on-one remote usability sessions via Zoom for this study. We need to test with assistive tech users in code but we likely cannot use real user accounts because it would be difficult to find users who meet the specific criteria and won't have dismissed indicators already. Therefore, we plan to use a specific <b>staging account</b> and have users log into it for each session, and for security purposes, we will <b>change the login password after each session</b>. More info about considerations for testing in staging can be found in this [Slack thread](https://dsva.slack.com/archives/C0216PL32HJ/p1696450953956489).
+We will conduct one-on-one remote usability sessions via Zoom for this study. We need to test with assistive tech users in code to answer some of our research questions but we likely cannot use real user accounts because it would be difficult to find users who meet the specific criteria and won't have dismissed indicators already. Therefore, we plan to use a specific <b>staging account</b> and have users log into it for each session, and for security purposes, we will <b>change the login password after each session</b>. More info about considerations for testing in staging can be found in this [Slack thread](https://dsva.slack.com/archives/C0216PL32HJ/p1696450953956489).
 
 ### Research materials
-- [Link to conversation guide](TK) 
-	
-## Recruitment	
-
+- [Link to conversation guide](TK)
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+We will target Veterans who use assistive tech (screen readers and magnification tools) and colorblind users to answer our accessibility research questions. We will use Perigean to recruit them.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+Total Requested: 12
+Completed Sessions Needed: 8
+User type: Veterans only
 
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+[Link to recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/411)
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+Research dates: 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+Please schedule a 15-minute kick-off session between us and Perigean. Potential dates and times for kick-off meeting:
+TBD
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
-
-### Research sessions
-* Planned dates of research:
+Pilot session info:
+* Pilot participant email: TBD
+* Date and time of pilot session: TBD
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: 45 minutes
+	* For the screen reader session, please schedule it for 75 minutes
+* Buffer time between sessions: 30 minutes 
+* Maximum Sessions per day: 4
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+TBD
 	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
+Please list the people who will be serving in each role.
+- Moderator: Angela Agosto (angela.agosto@adhocteam.us, 570-807-0619)
+- Research guide writing and task development: Angela Agosto	
+- Participant recruiting & screening: Perigean
+- Project point of contact: Angela Agosto
+- Participant(s) for pilot test: TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
+- Note-takers: TBD
 - Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+samara.strauss@va.gov
+ana@adhocteam.us
+berni.xiong@agile6.com
+allison@cityfriends.tech
+derrick.ellerbie@agile6.com
