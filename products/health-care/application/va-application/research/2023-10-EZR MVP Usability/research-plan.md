@@ -1,5 +1,4 @@
 # Research Plan for Health Enrollment (1010) 1010EZR, October 2023
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
 The Health Benefits Update Form (10-10EZR) is a new online version of a currently paper-only form. It's used to update personal, insurance, or financial information for Veterans currently enrolled in health care benefits. Most commonly, this looks like adding or removing a dependent or updating income information. We will be usability testing the MVP version of the new online form to ensure it meets the needs of VA.gov users. The form contains 4 sections, and for MVP, must be completed and submitted in its entirety to be processed.
