@@ -384,13 +384,10 @@ Your work history [summary card]
 
 -   What was the easiest part about the form, if anything?
 
-- In the next few questions, I'm going to ask you rate the efficiency, proficiency, scannability, and flexibility of the form based on your experience.
-- On a scale from 1 to 5 with 1 being not efficient at all, and 5 being very efficient, how efficient was your experience filling out this form? Why is that? 
-- On a scale from 1 to 5 with 1 being not at all easy, and 5 being very easy, how much or how little do you feel like the form got easier over time? (proficiency) Why is that? 
-- On a scale from 1 to 5 with 1 being not scannable at all, and 5 being very scannable, how scannable was this form? Why is that? 
-- On a scale from 1 to 5 with 1 being not flexible at all, and 5 being very flexible, how flexible was this form? Why is that? 
-
-
+- In the next few questions, I'm going to ask you to rate different aspects of the form you filled out today.
+- The first is efficiency and how efficiently you were able to fill out the form. Thinking about whether you were able to fill out the form at a speed you were comfortable with. On a scale from 1 to 5 with 1 being not efficient at all, and 5 being very efficient, how efficient was your experience filling out this form? Why?
+- The second is if the form got easier over time as you filled out more sections. On a scale from 1 to 5, with 1 being not easy at all, and 5 being very easy, how easy was it to fill out the form the further you progressed? Why?
+- The third and last, is whether the form was flexible and easy to navigate back and forwards, and recover from errors. On a scale from 1 to 5, with 1 being not flexible at all, and 5 being very flexible, how flexible was this form? Why?
     
 -   Do you have any questions for me?
     
