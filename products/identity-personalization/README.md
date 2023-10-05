@@ -7,7 +7,7 @@
 - GitHub Label: authenticated-experience 
 - Slack channel: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp) 
 
-## [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
+## [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/charter.md)
 
 ## Team
 
