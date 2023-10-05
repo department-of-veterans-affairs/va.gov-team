@@ -1,9 +1,10 @@
 # Benefits Disability Experience - Product sync 
 
 ### Date: Oct 5' 2023       
-### Participants: 
+### Participants: Emily, Steve, Anneliese, Austin
 ### Topics Covered:
 - ITF Asyncronous work starting next sprint for Team 2. Question to group: do we want to do an ITF brainstorm for all things ITF after?
+- Toxic Exposure thread with Lighthouse re: data questions
 
 ### Date: Sept 28' 2023       
 ### Participants: Emily, Steve, Shannon, Austin, Anneliese
