@@ -4,7 +4,7 @@
 
 ## Current team goals
 
-- [FY2024 objectives & initiatives]()
+- [FY2024 objectives & initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/roadmap/FY2024/q1-objectives-initiatives.md)
 
 ## Current and past projects
 
