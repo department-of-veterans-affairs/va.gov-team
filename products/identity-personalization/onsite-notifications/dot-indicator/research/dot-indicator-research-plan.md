@@ -16,12 +16,12 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 
 ## Research Goals and Questions	
 1. Determine the effectiveness of dot and badge indicators to draw attention to important updates and when it's appropriate to use each kind of indicator.
-   - Where on VA.gov do users expect to see these types of notifications?
-   - What do users think a dot means in different use cases? What about a badge?
-   - How do users expect a dot or a badge indicator to disappear?
-   - Are there instances where a dot or a badge introduces confusion rather than being useful?
+ - Where on VA.gov do users expect to see these types of notifications?
+ - What do users think a dot means in different use cases? What about a badge?
+ - How do users expect a dot or a badge indicator to disappear?
+ - Are there instances where a dot or a badge introduces confusion rather than being useful?
 2. Test with assistive tech users and colorblind participants in order to determine the accessibility implications of the dot or badge indicator.
-	- What aria labels would give a screen reader user as close to the same experience as a sighted user? When should aria labels be surfaced in the order of the page?
+ - What aria labels would give a screen reader user as close to the same experience as a sighted user? When should aria labels be surfaced in the order of the page?
  - How do screen reader users experience badges as notifications on other websites? What's an ideal experience and what's not ideal?
  - Does colorblindness prevent users from being able to see and interpret a red dot or badge indicator? What colors are most accessible for them to interpret notifications on other websites and apps?
 
