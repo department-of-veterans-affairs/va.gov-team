@@ -87,6 +87,5 @@ Please list the people who will be serving in each role.
 - Observers:	
 samara.strauss@va.gov
 ana@adhocteam.us
-berni.xiong@agile6.com
 allison@cityfriends.tech
 derrick.ellerbie@agile6.com
