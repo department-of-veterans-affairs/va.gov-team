@@ -1,4 +1,4 @@
-# Emergency Contact and Next of Kin Product Outline
+# Personal health care contacts Product Outline
 
 **Last updated:** 10/5/23
 
@@ -7,12 +7,16 @@
 ## POCs
 This is a collaboration between the [VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/README.md#team) and the [My HealtheVet on VA.gov Cartography team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization#landing-pagehome-team).
 
-- **Github labels**: `authenticated-experience`, `emergency-contact`, `next-of-kin`, `my-health-CTO-HEALTH-TEAM OCTO`, `my-health-INTEGRATION`
+- **Github labels**: `authenticated-experience`, `emergency-contact`, `next-of-kin`, `my-health-CTO-HEALTH-TEAM OCTO`, `my-health-INTEGRATION`, `personal-health-care-contacts`
 - **Slack channel:** #accountexp-authexp
 
 ## Overview
 
-Next-of-kin and emergency contact information provides clinical and administrative staff the information needed to coordinate care in the event the Veteran is unconscious or deceased.  Currently this information is collected on the 10-10EZ PDF form upon enrollment for healthcare, but is not collected on the online form as of September, 2023.  Another touchpoint to collect this data is the online appointment check-in experience, where Veterans are asked to confirm their next-of-kin and emergency contact information.  If the data is incorrect, the Veteran can work with staff at the medical facility to update the information on the day of appointment, or call in to update this information.  This product is intended to introduce a self-service way to view and edit emergency contact and next-of-kin information.
+Next-of-kin and emergency contact information provides clinical and administrative staff the information needed to coordinate care in the event the Veteran is unconscious or deceased.  Currently this information is collected on the 10-10EZ PDF form upon enrollment for healthcare, but is not collected on the online form as of September, 2023.  
+
+Another touchpoint to collect this data is the online appointment check-in experience, where Veterans are asked to confirm their next-of-kin and emergency contact information.  If the data is incorrect, the Veteran can work with staff at the medical facility to update the information on the day of appointment, or call in to update this information.  
+
+This product is intended to introduce a self-service way to review and edit emergency contact and next-of-kin information.
 
 ## Problem Statement
 
