@@ -36,7 +36,11 @@ None
         "data": [
             {
                 "id": "1",
-                "category": "category"
+                "category": "category 1"
+            },
+            {
+                "id": "2",
+                "category": "category 2"
             }
         ] 
     }
