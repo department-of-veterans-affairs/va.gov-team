@@ -271,8 +271,16 @@ _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+This research does not include the perspectives of the following marginalized Veteran groups:
+_List all groups in red from the spreadsheet_
+* Hispanic
+* Biracial
+* Cognitive Disability (Unknown from screener questions used)
+* LGBTQ+ (Unknown from screener questions used)
+* Other than honorable discharge, expat or living abroad (Unknown from screener questions used)
 
+
+  
 
 ## Appendix
 
