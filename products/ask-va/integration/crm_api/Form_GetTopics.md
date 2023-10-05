@@ -12,6 +12,7 @@
 |categoryId|string|the category for which to get topics for|
 
 **Headers**:
+<optional note="these headers will only be included for users that are logged in">
 | Name | Type | Description |
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
