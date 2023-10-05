@@ -12,7 +12,9 @@
 |topicId|string|the topic for which to get subtopics for|
 
 **Headers**:
-<optional note="these headers will only be included for users that are logged in">
+
+**optional:** these headers will only be included for users that are logged in
+
 | Name | Type | Description |
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
