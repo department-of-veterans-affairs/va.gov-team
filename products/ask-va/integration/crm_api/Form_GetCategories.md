@@ -42,21 +42,6 @@ None
 
 </td>
 </tr>
-<tr>
-<td> 403 </td>
-<td>
-
-```json
-{
-    "status": {
-        "code": 403,
-        "message": "Unauthorized."
-    }
-}
-```
-
-</td>
-</tr>
 </table>
 
 ## Notes
