@@ -15,19 +15,19 @@ Note that CAIA can support teams going through the Collaboration Cycle, but **CA
 ## Services we offer
 What follows is a menu of the services we offer. **No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.**
 
-You can also reach us by attending our weekly office hours on Tuesdays at 4 PM eastern on [Zoom](https://coformaco.zoom.us/j/83992174780?pwd=Tk1jZ0o3MWxLcHFMWTM1S3ZrcytqUT09).
+You can also reach us by attending our weekly office hours on Tuesdays at 4 PM Eastern on [Zoom](https://coformaco.zoom.us/j/83992174780?pwd=Tk1jZ0o3MWxLcHFMWTM1S3ZrcytqUT09).
 
 ### Research support
-We can help you plan your research sessions, ensuring that they are equitable and accounting for important accessibility factors. When it comes to running research sessions, we can also provide technical support for research participants who rely on assistive tech, like screen readers. 
+We can help you plan your research sessions, ensuring that they are equitable and account for important accessibility factors. When it comes time to run research sessions we can also provide technical support for research participants who rely on assistive technology, like screen readers. 
 
 ### Accessibility test planning
-We can work with a team to develop an accessibility-focused testing plan so that during design and development you are able to continually ensure that your product is accessible. We can help develop the plan, and walk you through how to run the tests. We have experience creating both automated and manual test plans.
+We can work with a team to develop an accessibility-focused testing plan so that during design and development you are able to continually ensure that your product is accessible. We can help develop the plan, and walk you through how to run the tests. We have experience creating plans for both automated and manual testing.
 
 ### Support design discovery
 We can work with you and your team during design discovery to ensure that accessibility considerations are being taken into account, and help to flag when something may be veering away from the accessible happy path.
 
 ### Review wireframes and prototypes
-We can review your static wireframes or interactive prototypes looking for potential accessibility issues. We can also work with you and advise on how to annotate designs to ensure that they are easy to implement in an accessible way.
+We can review your static wireframes or interactive prototypes looking for potential accessibility issues. **We can also work with you and advise on how to annotate designs to ensure that they are easy to implement in an accessible way.**
 
 ### PDF audit
 We can review PDF documents for accessibility, and help advise on how to remediate any issues found.
@@ -38,7 +38,7 @@ We can review products in staging, testing with assistive technology, reviewing 
 **We can also help you prepare the [required accessibility testing artifact](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#artifact) for the Collaboration Cycle.**
 
 ### Health check audit
-This is very much like a staging review but done in production.
+This is very much like a staging review but done in production! This is useful for older products that were implemented and released before certain standards were put into place.
 
 ### Training and education
 We can provide training and resources for you and your team on accessibility best practices and methodologies above and beyond what Governance offers at onboarding. Also, don't miss the [accessibility champs program](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs)!
