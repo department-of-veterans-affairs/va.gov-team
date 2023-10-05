@@ -16,81 +16,36 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 
 ## Research Goals and Questions	
 1. Determine the effectiveness of dot and badge indicators to draw attention to important updates and when it's appropriate to use each kind of indicator.
-   - 
+   - Where on VA.gov do users expect to see these types of notifications?
+   - What do users think a dot means in different use cases? What about a badge?
+   - How do users expect a dot or a badge indicator to disappear?
+   - Are there instances where a dot or a badge introduces confusion rather than being useful?
 2. Test with assistive tech users and colorblind participants in order to determine the accessibility implications of the dot or badge indicator.
+	- What aria labels would give a screen reader user as close to the same experience as a sighted user? When should aria labels be surfaced in the order of the page?
+ - How do screen reader users experience badges as notifications on other websites? What's an ideal experience and what's not ideal?
+ - Does colorblindness prevent users from being able to see and interpret a red dot or badge indicator? What colors are most accessible for them to interpret notifications on other websites and apps?
 
 ### Outcome
-
-
-### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+We will be sharing our research findings with other VFS teams who are interested in an indicator, such as the cartography team. From there we will decide (collaboratively) if it makes sense to proceed with experimental design to add an indicator to the VA.gov design system.
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+[Past research](expect a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps) for My VA tells us that users want to see timely personalized updates upon logging into VA.gov. They expect a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps.
+
+We hypothesize that:
+- There will be a need for more than one type of indicator, i.e. both a badge with a count and a dot, as we've seen in other popular design systems, such as [Material Design](https://m3.material.io/components/badges/overview).
+	- We expect that it won't always make sense to use a count, and conversely, it won't always make sense to use a badge. We expect that for notifications such as the number of unread messages, a count will be most useful, whereas a notification that past appointments may be eligible for travel reimbursement may need a dot to indicate that a user may want to review their past appointments for this benefit.
+- We expect that we may need to use a dark red color for the indicator to be useful for colorblind and low vision users, but that they will still be able to see and interpret the indicators.
+- We expect that the aria labels we have implemented for dot and badge indicators will deliver as close to the same experience as possible for screen reader users as a sighted user would have.
+	- We expect that there may be interesting findings for when screen reader users would like to be alerted to indicators. We think there may be a better way to announce indicators than waiting until a user navigates to the specific link where the indicator is.
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-
-### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+We will conduct one-on-one remote usability sessions via Zoom for this study. We need to test with assistive tech users in code but we likely cannot use real user accounts because it would be difficult to find users who meet the specific criteria and won't have dismissed indicators already. Therefore, we plan to use a specific <b>staging account</b> and have users log into it for each session, and for security purposes, we will <b>change the login password after each session</b>. More info about considerations for testing in staging can be found in this [Slack thread](https://dsva.slack.com/archives/C0216PL32HJ/p1696450953956489).
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+- [Link to conversation guide](TK) 
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
