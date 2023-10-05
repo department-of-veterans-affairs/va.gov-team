@@ -46,6 +46,7 @@ Before seeing the prototype:
 2. What tasks do Veterans (and others) expect to do at VA regional benefit offices?
 
 From the prototype:
+
 3. Do Veterans (and others) understand which services are available at this location?
 * Categories of services (i.e., Veteran benefits, Family member & caregiver benefits, Service member benefits, Other services)
 * Service offering accordions that have multiple locations inside them
@@ -60,14 +61,15 @@ From the prototype:
 
 5. What feedback do Veterans (and others) have on content, organization, and length of the regional benefit office web page?
 * Do Veterans (and others) interact with any of the Prepare for your visit accordions?
-* Do Veterans (and others) interact with any of the 3 action links near the top of the page? If so, which ones?
+* Do Veterans (and others) interact with any of the 3 Action links near the top of the page? If so, which ones?
 * How do Veterans (and others) react to seeing 2 phone numbers? Which phone number would they use and why? What do they expect when they call?
 
 ## Methodology 
 We conducted **usability testing** on August 28-September 5, 2023 to get feedback from research participants using a click-through prototype over Zoom. Perigean recruited the participants.
 
 **We talked to 8 Veterans** and two Veteran's family members.
--5 of 10 used a smartphone for the session, 4 used a computer, 1 used a tablet
+
+- 5 of 10 used a smartphone for the session, 4 used a computer, 1 used a tablet
 
 For more details, see [Who we talked to](#who-we-talked-to).
 
@@ -77,34 +79,62 @@ For more details, see [Who we talked to](#who-we-talked-to).
     
 * Veterans (and others) will understand how services are delivered at this location from the new web page.
   * **SOMEWHAT TRUE** - About 2/3 of participants were able to identify appointment modalities, only half identified hours of service for specific tasks.
-  * Success rates on these tasks was significantly for certain demographics, including Veterans with cognitive disabilities and those over 55 years old.
     
 * Veterans (and others) will understand how to prepare for a visit to a VA benefit office from the new web page.
-  * **MOSTLY FALSE** - Only half of participants interacted with the Prepare for your visit accordion and located the What to bring section.
+  * **MOSTLY FALSE** - Only half of participants interacted with the Prepare for your visit section and located the What to bring accordion.
   *  Success rates were lower for participants with cognitive disabilities and BIPOC participants.
   *  Participants made liberal use of the three Action links at the top of the page--Make an appointment, Ask a benefit question, and Check claim status--even when these links wouldn't help them complete the task.
     
 * Veterans (and others) will know what to do if they don't find the kind of help they need on the new web page.
-  * **TRUE** - Nearly all participants identified a phone number to call for help.
+  * **TRUE** - Nearly all participants identified a phone number to call for help or would use one of the action links.
 
 ## Key Findings
-1. The organization of services sections matches Veterans' expectations of how the page should be organized.
-2. hhh
-3. hhh
-4. hhhh
-5. 
+### Service offerings
+1. In general, Veterans understood what services were available and navigated to the relevant sections easily. 
+2. Ways to get help are easy to locate.
+3. The more granular the information within an accordion, the less likely Veterans are to find it.
+### Service delivery
+4. Most Veterans were able to determine the appointment options for a given task.
+5. Having multiple sets of office hours on the page is confusing to many Veterans.
+6. Veterans with cognitive disabilities and Veterans over 55 were less likely to identify details on how services are delivered.
+### Content and organization
+7. Veterans have a strong preference for using one of the three Action links to complete tasks.
+8. Some content (eg, What to bring) is hard to locate. 
 
+<br>
 
 
 ## Details of Findings 
-### 1.
-### 2.
-### 3.
-### 4.
-### 5.
+### *Service offerings*
+### 1. In general, Veterans understood what services were available and navigated to the relevant sections easily
+> It had pretty good information as far as phone numbers, the office times, whether you need an appointment or not. - P8
+
+> I appreciate how all veterans' benefits are grouped together in one place. - P9
+### 2. Ways to get help are easy to locate.
+> I couldn't find specific information but noted that there were options to call or schedule an appointment online. - P12
+### 3. The more granular the information within an accordion, the less likely Veterans are to find it.
+> So I'm simply not going to scroll down the veterans benefits and dig into all these pieces here. - P2
+### *Service delivery*
+### 4. Most Veterans were able to determine the appointment options for a given task.
+### 5. Having multiple sets of office hours on the page is confusing to many Veterans.
+### 6. Veterans with cognitive disabilities and Veterans over 55 were less likely to identify details on how services are delivered.
+### *Content and organization*
+### 7. Veterans have a strong preference for using one of the three Action links to complete tasks.
+> I would gather info with Ask a benefit question, then use Make an appointment - P7
+### 8. Some content (eg, What to bring) is hard to locate.
+> Under each specific service there could be links directing people to what documents they need. - P3
 
 ## Additional Insights
-### hhh
+### Many Veterans are skeptical about whether calling or chatting with AVA will yield meaningful insights.
+> I'm scared to death of a phone call because it takes so long to just get a yes or no answer - P7
+
+> I'm not sure if this chat function is live or just messaging - P9
+
+> I wouldn't call the office number because they're working, busy doing other stuff. - P10
+
+### Spotlight boxes cause confusion and frustration.
+Some participants stopped scrolling when they reached the Spotlight boxes, but all of the service accordions were located below the boxes. Some didn't distinguish between the Spotlight content and the rest of the page. One identified information about life insurance from it, another a link to forms they could use. It was evident that they expected this content to be there all the time, which isn't the case. 
+> These three blue boxes really bother me…they're so unnecessary. They make me feel like the web page is essentially over. All the important stuff that I need is still below this. -P2
 
 ## Recommendations
 
