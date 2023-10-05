@@ -3,13 +3,17 @@
 ## Background
 
 The Cartography team is working with the Authenticated Experience team to add Emergency contact (EC) information and Next of kin (NOK)  information to the VA.gov Profile.
+
 There is currently an absence of a digital self-service method that allows Veterans to proactively view, add, or edit their emergency contact and next of kin information. 
 
 The goals of adding emergency contact and next of kin information: 
 
-**Allow proactive management for Veterans.** Veterans should be able to update their emergency contact information proactively, without waiting for a medical appointment or having to call in to make changes.
-**Streamline check-In process.** By proactively managing their emergency contact and next-of-kin information, Veterans can avoid last minute manual data correction methods at the check-in process for medical appointments
-**Data Integrity.** Veterans aim to maintain accurate, up-to-date next-of-kin and emergency contact information to ensure that medical staff can reach the correct individuals in case of an emergency. 
+- **Allow proactive management for Veterans.** Veterans should be able to update their emergency contact information proactively, without waiting for a medical appointment or having to call in to make changes.
+
+- **Streamline check-In process.** By proactively managing their emergency contact and next-of-kin information, Veterans can avoid last minute manual data correction methods at the check-in process for medical appointments
+
+- **Data Integrity.** Veterans aim to maintain accurate, up-to-date next-of-kin and emergency contact information to ensure that medical staff can reach the correct individuals in case of an emergency. 
+
 While veterans won't be able to immediately proactively manage their information in place (for the MVP), the information will now be in a centralized place for Veterans to view and review. The followup work will add the functionality to add/edit emergency contact and next-of-kin information. 
 
 You can read more at [Emergency Contact and Next of Kin Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/ec-and-nok/ec-and-nok-outline.md).
