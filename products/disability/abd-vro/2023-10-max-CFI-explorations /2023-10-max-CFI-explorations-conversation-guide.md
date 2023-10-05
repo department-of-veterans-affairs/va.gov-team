@@ -3,7 +3,13 @@
 **Zoom setup**
 
 **Login**
- 
+How to login to Zoom 5 
+- Go to https://zoom.us/ and ensure you enter using a Google Chrome Web browser
+- Email address to enter is: dsvazoomtwo@perigeantechnologies.com
+- Password to enter is: OCTOZooMtwo!!1
+*Ensure that you are recording to the account cloud*
+- Change name in zoom
+
 **Access the scheduled session**
 - Once logged in you will come to the main account page
 - At the top of the page, click meetings
@@ -19,7 +25,7 @@ When the participant is ready, begin the session with the following intro
 ## Intro - 5 minutes
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, I’ll tell you about myself and what we’re doing today.
 
-My colleagues and I work on VA.gov - making improvements to the site so that Veterans can submit their strongest claims and get benefits as quickly as possible. What I hope to do today is to get a sense of how to best assist Veterans in deciding what claims to file. What I don’t want to do is to add to any frustration you may have had with getting benefits. We may look at things that have caused you frustration in the past, and I want you to know up front that I can’t have an impact on your personal situation. However, I do want to hear about your frustrations with the website in case they are with things that we can improve on in the future.  
+My colleagues and I work on VA.gov - making improvements to the site so that Veterans can submit their strongest claims and get benefits as quickly as possible. What I hope to do today is to get a sense of how to best assist Veterans in deciding what claims to file. We will do that by looking at a prototype with made-up data and having you pretend your are a Veteran named Alex. What I don’t want to do is to add to any frustration you may have had with getting benefits. We may look at things that have caused you frustration in the past, and I want you to know up front that I can’t have an impact on your personal situation. However, I do want to hear about your frustrations with the website in case they are with things that we can improve on in the future.  
 
 Before we start, I have a few things that I want to go over with you:
 - This entire session should take about 60 minutes. I want to be sure that we end on time, so I may occasionally prompt you with the next question or topic.
@@ -35,11 +41,11 @@ Are you comfortable if I record my screen and audio as we talk today? We use the
 - Knowing that, are you comfortable if I record my screen and audio as we talk today?
  - _If yes:_ Once I start recording, I’ll ask again for your confirmation.
  
-_Moderator note: Start recording & start the transcription._
+_Moderator note: Start recording, start the captions then hide the captions._
 
 I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions - 5 minutes
 Before we look at the website, let’s start with a few background questions.
 
 - Talk to me about your past experience using VA.gov?
@@ -65,7 +71,7 @@ Now, I’m going to put a link to the [prototype](https://www.sketch.com/s/bf1a0
 
 ## Scenario 1: Review currently rated conditions - 15 minutes
 
-**If this is the 1st task:**
+**If this is the 1st task:** (add these instructions to chat in zoom)
 Your Tinnitus and Arthritis has gotten worse, so you’re coming to the website to determine what you should do next. You’d like to review what disability benefits you are already receiving. I’d like you to walk us through what you would do on this prototype. Please think aloud as much as you can while you are walking us through this process. And we’re not in a hurry, so take as much time as you would if you were actually doing this for yourself. 
 
 **If this is the 2nd task:** 
@@ -85,7 +91,7 @@ _Observe how the participant makes it to the rated disabilities screen…_
 ### Screen 3 (View my Rated Disabilities Screen)
 I have a few questions for you on this screen.
 - What is this screen telling you? What is your initial impression of it?
-- What can you tell me about the conditions on this screen?
+- What does this screen tell you about your conditions?
 - What do you think about your eligibility for more benefits?
 - Which conditions could you get more compensation for? 
 
@@ -96,10 +102,10 @@ _(1 only)_
   - What can you tell me about this explanation for maximum schedular rating?
 
 _(1A only)_ 
+- What does the phrase ‘highest standard rating’ mean to you?
 - What do you think would happen if you clicked on that triangle symbol?
 - _Instruct participant to expand the caret if they haven’t already_
 - What can you tell me about this explanation of maximum ratings?
-- What does the phrase ‘highest standard rating’ mean to you?
 
 _(Both versions)_
 - What do you think you would do after reading the message about ratings at the highest level?
@@ -133,9 +139,7 @@ Talk me through what you would do on this screen.
 Thanks for that! Go ahead and show me what you would do on this screen, but pause before hitting ‘Continue’ as I will have a few questions for you on this screen.
 - What can you tell me about the conditions on this screen?
 - What do you think about your eligibility for more benefits?
-- Can you tell me about the header that mentions maximum ratings - what does that mean to you?
 - What does the phrase ‘Maximum Possible Rating’ mean to you?
-- What do you think you would do next?
 
 _Moderator note: Encourage participant to open expando if they have not already_
 - What is this text telling you? What do you think you would do after reading it?
@@ -148,7 +152,7 @@ _Moderator note: Encourage participant to open expando if they have not already_
 ## Scenario 3: Request CFI for Tinnitus with Friction - 15 minutes 
 
 **If this is the 1st task:** 
-Your Tinnitus and degenerative arthritis have gotten worse, so you’re planning to ask for more compensation. I’d like you to walk us through what you would do on this prototype. Please think aloud as much as you can while you are walking us through this process. And we’re not in a hurry, so take as much time as you would if you were actually doing this for yourself. Also note that in the prototype, we are starting you in the middle of the claims process just to save time.  
+Your Tinnitus and degenerative arthritis have gotten worse, so you’re planning to ask for more compensation. I’d like you to walk us through what you would do on this prototype. Please think aloud as much as you can while you are walking us through this process. And we’re not in a hurry, so take as much time as you would if you were actually doing this for yourself. 
 
 **If this is the 2nd task:** 
 Similar to the last task, in this scenario your Tinnitus and degenerative arthritis have gotten worse and you’re planning to ask for more compensation. 
@@ -158,7 +162,7 @@ Do you have any questions before you start?
 Go ahead and click Version 3.
 
 ### Screen 2 (Veteran Details screen)
-Go ahead and show me how you would get started.
+As I mentioned before, this is fake data. You can imagine this is your personal information. Go ahead and show me how you would get started.
 
 ### Screen 3 (New or Increase) → Screen 4 (New or Increase)
 Talk me through what you would do on this screen.
