@@ -30,7 +30,7 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 We will be sharing our research findings with other VFS teams who are interested in an indicator, such as the cartography team. From there we will decide (collaboratively) if it makes sense to proceed with experimental design to add an indicator to the VA.gov design system.
 
 ### Hypothesis
-[Past research](expect a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps) for My VA tells us that users want to see timely personalized updates upon logging into VA.gov. They expect a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps.
+[Past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#key-findings) for My VA tells us that users want to see timely personalized updates upon logging into VA.gov. They expect a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps. It is our hope that additions like indicators for unread or unseen things will help to deliver this kind of personalized and streamlined experience that users expect when logging into VA.gov.
 
 We hypothesize that:
 - There will be a need for more than one type of indicator, i.e. both a badge with a count and a dot, as we've seen in other popular design systems, such as [Material Design](https://m3.material.io/components/badges/overview).
