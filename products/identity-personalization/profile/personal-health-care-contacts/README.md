@@ -118,6 +118,11 @@ There are multiple reasons we are leaning towards the current design being a new
 
 ## Current Status
 ## Key Decisions
+|Date|Decisions|Reason|Impacts|
+|---|---|---|---|
+|10/3/2023|Team decided to create a dedicated page for personal health contacts instead of adding to existing page| Improve scalability, clearer UX, increase ability to measure usage| Increased technical scope and IA considersations, adds time to launch|
+|||||
+
 ## Design and UX
 ## Frontend
 ## Backend
