@@ -46,7 +46,7 @@ The new Federal H/F design is addressing this with a standard 19px
 3. Mega Menu IA may not be impacted (out of scope)
 4. Capture current analytics as a baseline measurement for header and footer and especially include VCL as reduction in clicks may result in a stop failure, in design the VCL will be a lower tab order
 5. Must test with screen readers, assistive technology
-  1. Can they locate VCL, MyVA, MHV, etc
+  a. Can they locate VCL, MyVA, MHV, etc
 6. Recruiting for screen readers was difficult during [10-2022 VA.gov Home Page Redesign ROUND 2 Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/184) because they were not able to use their assistive tech on the mobile prototype, participants stating they normally use desktops when they absolutely need to use a screen reader.
-  1. Possible solution: mobile and desktop prototypes for accessible accommodations as done in the [06-2023 Health Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study) study.
+  a. Possible solution: mobile and desktop prototypes for accessible accommodations as done in the [06-2023 Health Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study) study.
 7. How do we measure sentiment on USA logo, VA Seal (missing "VA" lockup), USA and VA Seal lockup in footer?
