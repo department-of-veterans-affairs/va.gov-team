@@ -117,11 +117,6 @@ Users have trouble finding dependent information and where to download their ben
 
 [GA Dashboard for Auth Menu](https://analytics.google.com/analytics/web/#/dashboard/jTwco5hFRBmuXcjZN9YSPA/a50123418w177519031p176188361/_u.date00=20230901&_u.date01=20231004)
 
-|KPI/metric| 1 month post-launch to 100% [add dates]|2 months post-launch to 100% [add dates]|
-|----------|---------------|-------------------|
-|Clicks into "Dependents" from the authenticated menu|||
-|Clicks into "Letters" from the authenticated menu |||
-
 |KPI/metric|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|
 |Clicks into "**Letters**" from the authenticated menu |||||
