@@ -37,9 +37,12 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 
 
 Today we're going to take a look at the VA.gov website and ask you some questions. We’re interested in learning from you what it’s like to navigate and find information on the website.
+
 As part of signing up for the study, you shared that you have a VA.gov or MHV account and are willing to log into that account during the session. Do you have your login information handy?
-If no, and they’re not able to get it, end the session.
-If no, bring up staging account, and pass control via Zoom if the participant is on desktop 
+
+- If no, and they’re not able to get it, end the session.
+- If no, bring up staging account, and pass control via Zoom if the participant is on desktop
+  
 **For screenreader or mobile sessions:** Before we start, I want to confirm a few pieces of information that were shared with me when you signed up for the study:
 
 - **For screenreader sessions:** I understand you use screenreader software to navigate the internet, and that you typically use SOFTWARE NAME.  Are you able to use that during our session today?
