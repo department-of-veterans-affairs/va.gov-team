@@ -39,8 +39,8 @@ This research fits into these points of a Veteran's Journey:
 
 The purpose of this research is to assess users' understanding, reactions, and expectations to the proposed Emergency contact and Next of kin feature within the VA.gov profile. 
 
-Evaluate how easily users are able to find this information. 
-Evaluate if the proposed designs are understandable and useful across participant types (sighted and low/no vision) and screen sizes (mobile and desktop). 
+- Evaluate how easily users are able to find this information. 
+- Evaluate if the proposed designs are understandable and useful across participant types (sighted and low/no vision) and screen sizes (mobile and desktop). 
 
 ### Outcome
 
@@ -52,16 +52,17 @@ This research will inform the direction of this proposed design concept: we will
  
 	- Is it intuitive to find this information within VA.gov profile?
 
-2. What are users' reactions and understanding of the proposed designs? 
+2. What are users' reactions to and understanding of the proposed designs? 
 
 	- Is it clear that the “Personal health care contacts” only pertain to health care? 
 	- Is it clear to users how to update their information? 
 	- Do participants understand what is meant by “Next of kin” information? 
 
-3. What are users expectations for Emergency contact and Next of kin information? 
-
+3. What is the user mental model around Emergency contact and Next of kin information? 
+	- How do veterans define emergency contact and next of kin?
 	- How is the “read only” data useful to Veterans?
-	- How many Emergency contacts and Next of kin contacts do people want/expect to list/see? 
+	- How many Emergency contacts and Next of kin contacts do people want/expect to list/see?'
+	- When or where do people expect to be asked about this information? 	
 	- What type of information for both Emergency contact and Next of kin do users expect to need to provide?
 
 ### Hypotheses
@@ -81,7 +82,7 @@ Data collection will be remote and conducted using Zoom.
 
 ### Research materials
 
-[Conversation guide] TBD
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/2023-10-usability-study/conversation-guide.md)
 
 ## Recruitment
 
@@ -128,12 +129,13 @@ Some participants:
 > _Response option: text box (we need a minimum of 4 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
 3. Are you able to join the session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
-> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for smart phone users. If yes, proceed to 4a.)_
+> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for smart phone users. If yes, proceed to 3a.)_
 
 3a. Have you downloaded the Zoom app to your smartphone, know how to screen share, and have a working microphone on your phone?
-> _Response options: yes or no (Answering `yes` would qualify the participant. If no, proceed to 4b)_
+> _Response options: yes or no (Answering `yes` would qualify the participant. If no, proceed to 3b)_
 
 3b. You’ll need to download Zoom, use a working microphone and be ready to screenshare to participate in this session. Please let us know if you need help doing these things prior to your scheduled start time.
+
 
 4. What device will you use to join the session?
 > _Response option: text box_
@@ -142,8 +144,7 @@ Some participants:
 > _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for screen reader users. If yes, proceed to 5a)_
 
 5a. Are you able to join the Zoom session using this assistive technology?
-Yes (Recruit 4, go onto Screener question 5b)
-No (Disqualify as screenreader participant; can be recruited based on other criteria)
+> _Response options: yes or no (Recruit 4 "yes", go onto Screener question 5b. If no, disqualify as screenreader participant; can be recruited based on other criteria)_
 
 5b. Please list the name of the assistive technology or software you will use during the session.
 > _Response option: text box_
@@ -152,28 +153,23 @@ No (Disqualify as screenreader participant; can be recruited based on other crit
 > _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for 8 health care users. If yes, skip question 7. If no, proceed to question 7)_
 
 7. Do you have a disability rating?
-
  >_(Answering `yes` would qualify the participant to satisfy criteria for 4 participants who do not have health care, but have a disability rating. If no, disqualify)_
 
 ## Timeline
 
 ### Prepare
-- Pilot #1: Week of October 16th 
+- Pilot: Week of October 16th 
 - Pilot participant email: TBD
 - Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research: **October 19 - 26th 
+Planned dates of research: October 19 - 26th 
 
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 30 minutes
 
-### Availability
-
-Team Availability | Time Slots (ET)
-
-### Availability
+### Team Availability
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
