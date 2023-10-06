@@ -1,8 +1,8 @@
-[**Editing in progress. Not complete.**
+**Editing in progress. Not complete.**
 
 **Office of the CTO - Digital Experience (OCTO-DE), VBA facilities, Sitewide Facilities**
 
-Date: 010/04/2023
+Date: 010/06/2023
 
 **Alexis Logsdon** [alexis.logsdon@a1msolutions.com](alexis.logsdon@a1msolutions.com)
 
@@ -103,24 +103,52 @@ For more details, see [Who we talked to](#who-we-talked-to).
 
 <br>
 
-
 ## Details of Findings 
 ### *Service offerings*
-### 1. In general, Veterans understood what services were available and navigated to the relevant sections easily
+
+To add images: ![text](link - add image to github folder and link here with .png)
+### 1. In general, Veterans understood what services were available and navigated to the relevant sections easily.
+| Description | Task # | Success rate |
+| :-- | :---------- | :-- |
+| Locate Disability | 3 | 70% |
+| Locate Home loan | 4 | 89% |
+| Locate What to bring | 5 | 70% |
+| COE status check | 6 | 67% |
+| Locate Education for Veterans | 7 | 88% |
+| Locate Education for dependants | 8 | 90% |
+| Locate Burials in Family member and caregivers | 9  | 90% |
+| Locate direct deposit in Other services | 10 | 80% |
+| Average across all tasks |  | 78% |
+
+ *Note: Not all participants were asked to do every task. The percentages reflect successful completion rates among participants who were asked each question.*
+ Some participants didn't scroll much until they were nudged to do so, but once they did, they understood how the page was organized and navigated to the relevant sections with ease. Rates were somewhat lower for the first task in the prototype (task 3) as participants got comfortable navigating the prototype. They were also slightly lower on tasks 5 and 6. These tasks required participants to navigate away from the Home loan section to the Prepare for your visit section or to scroll farther down in the Home loan accordion, respectively.
+ #### Participant comments
 > It had pretty good information as far as phone numbers, the office times, whether you need an appointment or not. - P8
 
 > I appreciate how all veterans' benefits are grouped together in one place. - P9
 ### 2. Ways to get help are easy to locate.
+90% of participants were able to either locate a phone number to call when they couldn't find a benefit on the page (task 11), or would use the Ask the VA benefits chat.
+ #### Participant comments
 > I couldn't find specific information but noted that there were options to call or schedule an appointment online. - P12
-### 3. The more granular the information within an accordion, the less likely Veterans are to find it.
+### 3. The more granular the information within an accordion, the less likely Veterans were to find it.
+
+While the average success rate on locating service accordions was 78%, participants had more difficulty identifying information inside the service accordions. On average, participants identified appointment types inside a service accordion 66% of the time, office hours 45% of the time, and phone numbers 36% of the time. All of these averages were lower for participants with cognitive disabilities; hours and appointment types rates were both lower for participants over 55. 
+| Content | Average success rate |
+| :------- | :---------- |
+| Appointment type | 66% |
+| Office hours | 45% |
+| Phone numbers | 36% |
 > So I'm simply not going to scroll down the veterans benefits and dig into all these pieces here. - P2
 ### *Service delivery*
 ### 4. Most Veterans were able to determine the appointment options for a given task.
+The majority of participants understood which services required an appointment and which were walk-in only.
 ### 5. Having multiple sets of office hours on the page is confusing to many Veterans.
+
 ### 6. Veterans with cognitive disabilities and Veterans over 55 were less likely to identify details on how services are delivered.
 ### *Content and organization*
 ### 7. Veterans have a strong preference for using one of the three Action links to complete tasks.
-> I would gather info with Ask a benefit question, then use Make an appointment - P7
+
+> I like these because these are probably the main reasons I'd visit this page. - P7
 ### 8. Some content (eg, What to bring) is hard to locate.
 > Under each specific service there could be links directing people to what documents they need. - P3
 
@@ -137,7 +165,7 @@ Some participants stopped scrolling when they reached the Spotlight boxes, but a
 > These three blue boxes really bother me…they're so unnecessary. They make me feel like the web page is essentially over. All the important stuff that I need is still below this. -P2
 
 ## Recommendations
-
+Must
 ## Next Steps
 
 ## Further research needed
@@ -229,4 +257,4 @@ This research does not include the perspectives of the following marginalized Ve
 - Identify as Asian or Transgender
 - Expat (living abroad)
 - Users of Assistive Technology 
-](https://github.com/department-of-veterans-affairs/va.gov-team/commits/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md)https://github.com/department-of-veterans-affairs/va.gov-team/commits/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md
+
