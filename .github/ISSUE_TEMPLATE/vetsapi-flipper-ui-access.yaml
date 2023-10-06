@@ -8,7 +8,7 @@ body:
       value: |
         :warning: **_Prerequisites_**  
 
-        Before being granted access, the individual for whom access is requested (the "target individual") must either be listed in [Atlas](https://dev.va.gov/atlas), have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed in [Atlas](https://dev.va.gov/atlas), or be a Federal User/have an affiliation with OCTO
+        Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster, have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed in [Atlas](https://dev.va.gov/atlas), or be a Federal User/have an affiliation with OCTO
         
         :wave: **_Instructions_**
         1. Change the **Title** to include target individual
