@@ -16,7 +16,6 @@
 ### Table of Contents
 
 - [Overview](#overview)
-- [Measuring Success](#measuring-success)
 - [Key Dates](#key-dates)
 - [Screenshots](#screenshots)
 
@@ -30,7 +29,6 @@ We will be updating the LOA1 state to have 5 sections instead of the existing 2:
 4. Education
 5. Benefit application drafts
 
-## Measuring Success
 
 ## Key Dates
 
