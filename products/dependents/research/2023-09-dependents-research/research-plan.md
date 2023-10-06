@@ -94,16 +94,18 @@ Describe the method you’re planning. You should be able to explain why this me
 
 We will use two distinct interview guides:
 
-- One focused on evaluating perceived trustworthiness and effectiveness of proposed notification
-- One based on learning how the Veteran understands dependent benefits overall.
+- A semi-structured interview focused on learning how the Veteran understands dependent benefits overall.
+- A usability test focused on evaluating perceived trustworthiness and effectiveness of proposed notification MVP.
 
-We will use one interview guide per interview and alternate interviews so that we can gather evaluative and foundational information in parallel. 
+We will use one interview guide per interview and alternate interviews so that we can gather evaluative and generative information in parallel. 
 
-The generative guide will focus on questions around the participant's knowledge of dependent benefits, prior experiences with dependent benefits, and expectations around wayfinding, navigation, and notification. This will inform future improvements and help us prioritize future improvements by need and impact. We'll recruit for participants to fulfill 
+The semi-structured interview guide will focus on questions around the participant's knowledge of dependent benefits, prior experiences with dependent benefits, and expectations around wayfinding, navigation, and notification. This will inform future improvements and help us prioritize future improvements by need and impact. We'll recruit for participants with current dependents claimed on pension and/or benefits and include screener questions aimed at representing a maximum of cohorts of dependent types and experience. 
 
-This will also allow us to be flexible and responsive to the participant if an individual session lends itself better to one or the other (for example, if a Veteran is having technical difficulties viewing the prototype, we can pivot from the evaluative to the generative guide).
+The usability test guide will focus on showing participants a mobile-first prototype of the email notification MVP that includes general messaging encouraging readers to review current dependents. We'll ask questions to uncover particiapnts' comprehension of the message's intent, including who it's for, what it's warning against, and what it's asking of them as well as their expectations of how and where to take action and whether they would take action in response to the notification. We'll recruit for participants with current dependents claimed on pension and/or benefits and include screener questions aimed at representing a maximum of cohorts of dependent types and experience with a focus on those cohorts most impacted by benefit overpayments: Veterans who have claimed spouses, minor children, and school-aged children. 
 
-All interviews will be conducted online on mobile or desktop devices via Zoom.  
+The dual guide approach will also allow us to be flexible and responsive to the participant if an individual session lends itself better to one or the other (for example, if a Veteran is having technical difficulties viewing the prototype, we can pivot from the evaluative to the generative guide).
+
+All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a mobile-first prototype based in sketch. 
 
 
 ### Location
