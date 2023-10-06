@@ -59,9 +59,10 @@ The VA Chatbot measures KPIs through Google Analytics and our dashboard on DOMO.
 
 
 ### Incident Response
-PoC
-Dependent VA backends
-Dahsboards to help identify and debug application issues
+* PoC 
+* Dependent VA backends 
+* Dahsboards to help identify and debug application issues 
+
 
 
 ### Release Plan
