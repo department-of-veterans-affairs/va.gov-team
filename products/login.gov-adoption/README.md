@@ -15,7 +15,7 @@
 
 ### Who we are
 
-#### Implementation team
+#### Implementation Team
 
 August 2023-Present 
 
@@ -49,7 +49,7 @@ December 2022 - July 2023
 |Staff Engineer|Jesse James|jesse.james@themostudio.com|
 |Interaction Designer|Sofia Kirkman|sofia@themostudio.com|
 
-#### Discovery team
+#### Discovery Team
 August - December 2022
 
 |Role|Assigned|Contact|
