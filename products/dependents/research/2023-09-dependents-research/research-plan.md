@@ -62,9 +62,6 @@ What are you trying to learn from this research?
 - What is the right frequency and time of year for notifications (e.g. when school begins, when they’re doing their taxes, etc.)
 - What are opportunities for proactive reminders (eg. when a child reaches a certain age)
 - What information would Veterans want to receive in their notifications?
-- What instances would Veterans prefer a general notification, vs something tailored to their situation? 
-- Which would be more effective at getting folks to take action? 
-- Where might VA not have accurate enough information to make tailored notifications effective?
 
 
 ### Outcome
@@ -114,32 +111,29 @@ All interviews will be conducted online on mobile or desktop devices via Zoom. U
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-- [Moderated interview conversation guide](url goes here)
+- [Moderated interview conversation guide TBD](url goes here)
 
-- [Usability test conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Usability test conversation guide TBD](url goes here)
+- [Link to prototype TBD](url goes here)
 
 	
 ## Recruitment	
 
 ### Recruitment approach
 
-Our intended audience for this research is Veterans with current dependents claimed on benefits and/or pension. We will use Perigean to recruit participants. 
+Our intended audience for this research is Veterans with current dependents claimed on benefits. We will use Perigean to recruit participants. 
+
+We’d like to schedule a kickoff call with Perigean as soon as the research plan is approved, to review the survey and email content that will be sent to participants. 
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+See recruitment ticket: [https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/415]
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
+See recruitment ticket: [https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/415]
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
@@ -147,16 +141,18 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: TBD (Coforma team member)
+* Date and time of pilot session: Week of 10/16
+
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: Research interviews will be conducted for two weeks, from 10/30-11/9, to allow time for alternating between evaluative and foundational interviews. 
+
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+
+Each research session will be 1 hour long with a buffer time of 30 mins between sessions. We’d like a maximum of three sessions per day. 
+
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
