@@ -109,8 +109,8 @@ o	Overview/thoughts on Rate your experience.
 o	Overview thoughts on updated Medallia form. 
 o      Any questions for me? 
 
-1. 	[Verbal Response] Imagine you want to give feedback on the content of the page. Without clicking/typing anything, please describe if the responses on the form reflect the information you would like to share. What information would you want to add or remove from the form and why?  When done, click next. 
-2. 	[[Verbal Response] To return to the results page click the “x” on the top right side of the resume. When done, click next.
+1. 	[Verbal Response]Imagine you want to give feedback on the content of the page. Without clicking/typing anything, please describe if the responses on the form reflect the information you would like to share. What information would you want to add or remove from the form and why?  When done, click next.
+2. 	[[Verbal Response] To return to the home page click the “Thanks for submitting your feedback” on the page. When done, click next.
 
 
 ### Things to watch for:
