@@ -135,24 +135,16 @@ See recruitment ticket: [https://github.com/department-of-veterans-affairs/va.go
 **Secondary criteria (nice-to-haves)**
 See recruitment ticket: [https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/415]
 ## Timeline
-| -------------- | --------------- | --------------- | --------------- | --------------- |
-| 10/9-13 Finalize Conversation Guides | 10/10| Use "benefit overpayment" on first mention and "overpayment" for all subsequent mentions. In spaces with limited character counts, just "overpayments" is okay in all instances. | [VA debt management](https://www.va.gov/resources/va-debt-management/) (Q&A on "Why do I owe VA money?") | Not yet in style guide | 9.30.22 |
-| **balance (used with "debt balance" and "copay bill balance")** | We use this term to describe the remaining amount a Veteran owes on a debt or copay bill. | We use this mainly within the online debt portal itself. |[VA debt management](https://www.va.gov/resources/va-debt-management/) (Q&A on "How do I check my VA debt balance to find out how much I owe?") | Not yet in content style guide | 9.30.22 | 
-| **benefit debt** | At this time, we use this term to describe a debt related to VA benefits and to distinguish it from copay-related debt. |  Note that we need to revisit the use of "benefit debt" vs. "overpayment." We started with "benefit debt," but have since confirmed that we can confidently refer to all benefit-related debts as "overpayments" and this is a less negative term. **Note:** Met with our DMC partner and confirmed that we can retire the "benefit debt" term in favor of "overpayment." | [Manage your VA debt](https://www.va.gov/manage-va-debt/) | Not yet in content style guide | 11.10.22 |
-| **compromise offer** | We use this term to describe this specific debt repayment/relief option. | Compromise offers are an option for both overpayment and copay-related debt. | [VA debt management resources and support page](https://www.va.gov/resources/va-debt-management/) (Q&A on "What debt repayment and relief options does VA offer?") | Not yet in content style guide | 9.30.22 | 
-| **copay / copayment / health care copay** | We use this term to describe the amount some Veterans pay for certain health care services and prescriptions. | We don't yet have a firm rule on when to use which version ("copay/copayment/health care copay"). But we typically use "health care copay" on a first mention in general content where the context of health care is necessary and then "copay" on subsequent mentions. | | Not yet in content style guide  | 9.12.22 | 
-| **copay bill / patient statement / billing statement** | We use these terms to describe the bill/statement that a Veteran receives for their health care copay.| This is a term that we need to refine more. Content will work with VHA partner to refine guidance and document here. | | Not yet in content style guide | 9.12.22 |
-| **debt** | This is the overarching term we use for any money the Veteran owes to VA. "Debt" encompasses money owed for overpayments as well as copays. |  |  | Not yet in content style guide | 9.12.22 |
-| **debt relief** | We use this term to describe help that VA offers Veterans for their debt (such as a waiver, compromise offer, or write off). |  |  | Not yet in content style guide | 9.12.22 |
-| **monthly offset** | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. | Here's how we describe monthly offsets: If you get VA benefit payments, we may keep (or “offset”) part or all of each payment to pay down your debt. This is how we'll collect your debt unless we approve another option.  |  | Not yet in content style guide | 9.12.22 |
-| **outstanding debt** | We use this term to describe a debt that the Veteran currently owes to VA. We currently use this terminology for headers within MyVA and the VA mobile app. |  |  | Not yet in content style guide | 9.12.22 |
-| **overpayment debt** | We use this term to refer to a debt that's because of an overpayment. For example, in MyVA, we use this term to display the number of current overpayment debts a Veteran has to differentiate overpayment debt from copay debt. **Note:** Met with our DMC partner and confirmed that we can just go with "overpayments" (and not add "overpayment debts") in the MyVA instance. | | | Not yet in content style guide | 11.10.22 |
-| **payment / payments / VA payment** | These terms are highly contextual. We typically use **VA payment** to describe a payment that VA makes to the Veteran. However, we do use **payment** (without the **VA**) in the context of **payment history** to describe the display of a historical record of payments VA has made to the Veteran. We also use the plural version of this term (**Payments**) as the top-level category to house debts and payment history in the VA mobile app. The term has tested well in past IA research and we'll continue to test it as a category header moving forward. We also use **payment** in the context of a payment a Veteran can make to pay down a debt. | | | Not yet in content style guide | 9.12.22 |
-| **payment history** | We use for displaying a history of payments VA has made to a Veteran. | | | Not yet in content style guide | 9.12.22 |
-| **pay vs. repay** | We use **pay** to describe paying a copay bill. We use **repay** to describe repaying an overpayment from VA. We use **make a payment** in both contexts. |  |  | Not yet in content style guide | 9.12.22 |
-| **pay down a debt** | We use this phrase to describe how a Veteran makes payments toward paying down a debt over time. |  |  | Not yet in content style guide | 9.13.22 |
-| **repayment plan** / **monthly payment plan** (also **extended monthly payment plan**) | This is 1 of 4 repayment or relief options for paying down a VA debt related to benefit overpayments. A repayment plan is also an option for copays. | Here's how we describe a repayment plan: "If you can’t pay your full debt balance now, you can ask to make smaller monthly payments." <br> Note that an **extended monthly payment plan** refers to a plan to pay down the debt in 5 or more years. As part of COVId-19 relief, Veterans can request plans of less than 5 years online, by phone, or by mail and don't need to submit an FSR. They must fill out an FSR for extended plans of 5 years or more. |  | Not yet in content style guide | 9.12.22 |
-| **waiver** | This is 1 of 4 repayment or relief options for VA debt. A waiver is also a debt relief option for copay debt. | | | Not yet in content style guide | 9.12.22 |
+* 10/6 Submit research ticket, request Perigean kickoff
+* 10/9-13 Finalize conversation guides
+* 10/16-20 Pilot internally / incorporate feedback / buffer
+* 10/23-27 Coforma offsite - Ajia finishes prototypes, sets up notetaking
+* 10/30 interviews begin
+* 11/7 Election Day Holiday
+* 11/9 Interviews end
+* 11/13-21 Synthesis
+* 11/22 research findings readout
+
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
@@ -174,15 +166,27 @@ Each research session will be 1 hour long with a buffer time of 30 mins between 
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+
+The research team will be available to conduct interviews at the following times/days:
+* 10/30 - 9-12:30PM EST, 3-6PM EST
+* 10/31 - 9-12:30PM EST, 3-6PM EST
+* 11/1 - 9-12:30PM EST, 3-6PM EST
+* 11/2 - 9-12:30PM EST, 3-6PM EST
+* 11/3 - 9-12:30PM EST, 3-6PM EST
+* 11/6 - 9-12:30PM EST, 3-6PM EST
+* 11/8 - 9-12:30PM EST, 3-6PM EST
+* 11/9  - 9-12:30PM EST, 3-6PM EST
+
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
+* Moderators: Ajia Wallace ajia.wallace@softrams.com, Nichole Nicholas nichole.nicholas@coforma.io, Julie Pedtke julie.pedtke@coforma.io 
+* Research guide writing and task development (usually but not always same as moderator): Ajia Wallace and Julie Pedtke
+* Participant recruiting & screening: Julie Pedtke and Ajia Wallace
+* Project point of contact: Julie Pedtke
+* Participant(s) for pilot test: Nichole Nicholas or Fiorella Geedi
+* Accessibility specialist (for sessions where support for assistive technology may be needed): TBD
+* Note-takers: Ajia Wallace, Julie Pedtke, Nichole Nicholas, or Fiorella Geedi
+* Observers: The team will manage invites for observers.
+
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
