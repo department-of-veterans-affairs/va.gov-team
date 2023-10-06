@@ -61,5 +61,17 @@ All pages have ratings of 2 or below.
 4. [Signing in to VA.gov](www.va.gov/resources/signing-in-to-vagov/) (35% good out of 310 total responses)
 5. [Helpful VA phone numbers](www.va.gov/resources/helpful-va-phone-numbers/) (40% good out of 91 total responses)
 ## Analysis
-[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/g/personal/danielle_thierry_va_gov/EVNTGWcPkfBDvCuo85rJcAABzTG-oAXqaO8INOnKpwzEIg?e=EiKlz7)
-
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20September%202023.xlsx?d=w9c52c2f9b80646f1bc08a34f645c4cff&csf=1&web=1&e=ivHYmj)
+- As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 77% "good" average rating.
+- Performance isn't as high when broken down to individual pages:
+  - 20% of pages are scoring at 90% or higher "good"
+  - 35% of pages are meeting our goal of 75% or higher "good," while 47% of pages are scoring 70% or higher
+- 26% of pages are scoring at less than 50% "good," with 4% scoring at less than 10% "good" (though all of those were 4 total responses or fewer)
+- PACT-related content has had lower ratings than previous months but continues to perform exceptionally well, showing >80% "good" ratings.
+- Health care content is generally among the highest-scoring content in both experience ratings (1-5) and "good"/"bad" ratings, with the exception of travel pay reimbursement.
+- Most of the lowest-scoring pages revolve around these 3 themes, all of which have known issues beyond content. We should still pull Medallia data on these pages to identify any potential content pain points.
+  - Checking your claim status online
+  - Travel pay reimbursement
+  - Sign in and identity (including privacy and security)
+- The helpful phone numbers page is one of our lowest-scoring pages by volume of responses. We need to pull Medallia data and review this page to identify any potential content pain points.
+ 
