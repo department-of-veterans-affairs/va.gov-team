@@ -63,7 +63,9 @@ There is not currently an experience on VA.gov for Veterans to find a representa
     _How many of our users are looking for replacement representation?_
 
 ### Baseline KPI Values
-1. Number of users completing the search→form download in VA.gov each week/month 
+1. Number of users completing the search→form download in VA.gov each week/month
+
+_If these numbers are growing quickly, we can examine proportional growth instead (% increase of users completing the search→form download this week/month vs. last week/month)_
 
 ### Objectives and Key results (OKRs)
 1. **Objective**: Veterans start moving away from legacy processes for finding a representative, in favor of our solution on VA.gov 
@@ -89,6 +91,7 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 4. Consider notifications for when a representative request is approved/rejected
 5. Explore additional features like managing open requests for representatives and managing existing representative relationships
 6. Integrate with other products or experiences that involve Veterans looking for a representative
+7. Implement a satisfaction survey to assess the user perceptions of our product experience
 
 --- 
 
