@@ -165,7 +165,7 @@ Some participants stopped scrolling when they reached the Spotlight boxes, but a
 > These three blue boxes really bother me…they're so unnecessary. They make me feel like the web page is essentially over. All the important stuff that I need is still below this. -P2
 
 ## Recommendations
-Must
+
 ## Next Steps
 
 ## Further research needed
