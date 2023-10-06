@@ -25,13 +25,18 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 
 ###### URL and breadcrumbs:
 
-1.  Order CPAP Devices - New
+1.  Order CPAP supplies - New
 
--   URL: va.gov/health-care/[H1 TBD by content]
+-   URL: va.gov/health-care/order-cpap-supplies
 
--   Breadcrumb: Home > Healthcare > [H1 TBD by content]
+-   Breadcrumb: Home > Healthcare > Order CPAP supplies  
 
--   Notes: Let's use whatever the content team decides for the H1 to match as closely as possible with breadcrumb and url, but it will probably be something like /order-CPAP
+2.  Order Form (CPAP and hearing aids combined) - Edit
+
+-   Base URL: https://va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form
+
+-   Breadcrumb: Home > Healthcare > Order hearing aid or CPAP supplies
+
 
 ###### Entry points:
 
@@ -39,13 +44,17 @@ Screenshots are from this [mural sandbox](https://app.mural.co/t/departmentofvet
 
 -   Placement description: In 'Manage Benefits' between 'Order hearing aid batteries and accessories' and 'Order prosthetic socks'
 
--   Link label: [TBD by content]
+-   Link label: Order CPAP supplies
 
--   Link destination: va.gov/health-care/[H1 TBD by content]
+-   Link destination: va.gov/health-care/order-cpap-supplies
 
 ###### Redirects:
 
-No redirects, since this is a new page.
+| Current URL                                                  | Redirect to                                                                           | Note                                                                                   |
+|--------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Not sure -- I tried to find in staging, but it wouldn't load | https://.va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form | All of the child pages in this form will have to be redirected to the base URL as well |
+
+
 
 Next IA steps for product team:
 

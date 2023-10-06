@@ -1,7 +1,7 @@
 <h1>Sprint 0: Error documentation</h1>
 
 
-[Link to Epic]
+[Epic #6751](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6751)
 
 <h2>Problem Statement</h2>
 

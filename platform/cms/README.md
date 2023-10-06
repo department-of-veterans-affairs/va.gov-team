@@ -11,7 +11,7 @@ CMS Team work includes:
 - Data Migration for Product teams usng Drupal  
 - CMS Application Architecture & Quality Control
 - CMS Training and User Support
-- Accelerated Publishing Effort (currently on hold as of September 2022)
+- Accelerated Publishing/Next.js 
 - Content Ops: Editorial Workflows, Content Strategy, Modeling, Governance
 - Drupal Product Strategy & Launch Runbooks 
 - User Account & Permissions Governance
@@ -36,9 +36,7 @@ Products owned by Public Websites
 1. The Benefits **Outreach hub** at https://www.va.gov/outreach-and-events/
 1. **Resources and support** www.va.gov/resources
 1. **Campaign Landing Page** 
-
-Products owned by Decisions Tools team
-1. **VA forms** www.va.gov/find-forms (formerly owned by Public Websites) 
+1. **VA forms** www.va.gov/find-forms (formerly owned by Decision Tools Team) 
 
 Content libraries that are shared across products
 1. **Banners and alerts** (owned primarily by Public Websites, but other products can create alert blocks)
@@ -64,14 +62,15 @@ Documentation about the CMS lives in various places
 
 ### CMS Team
 - Erika Washburn, VA Product Owner, Slack `@Erika Washburn`
-- Mike Hollen, Lead Product Manager - Slack `@Mike Hollen`
 - Berni Xiong, Senior Delivery Manager - Slack `@Berni Xiong`
-- Eric Oliver, DevOps Lead - Slack `@Eric Oliver`
 - Nate Douglas, Tech Lead - Slack `@Nathan Douglas`
+- Eric Oliver, DevOps Engineer - Slack `@Eric Oliver`
+- Tolase Akinwale, DevOps Engineer- Slack `@Tolase`
 - Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
 - Blake Organ, Product Designer- Slack `@Blake Organ`
 - Joann Agnitti, Senior Researcher- Slack `@Joann Agnitti`
 - Edmund Dunn, Senior Drupal Developer- Slack `@Edmund Dunn`
+- Tony Taylor, Drupal Developer - Slack `@Tony Taylor`
 - Stefanie Gray, Helpdesk Manager, Slack `@Stefanie Gray`
 - Troy Griffin, Helpdesk and Training Manager, Slack `@Troy Griffin`
 

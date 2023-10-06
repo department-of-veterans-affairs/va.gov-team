@@ -48,7 +48,7 @@ We will also aim to translate some of our core content patterns and error messag
 - [Manage your VA debt for benefit overpayments and copay bills ](https://www.va.gov/manage-va-debt/) (Word count: 649)
 
 ## Forms
-We'll also prioritize translating health care and disability forms as they're the top 10 pdf forms downloaded by people with their browsers set to Spanish. Some of these online forms are currently being reworked in English and others are not yet available. 
+We'll also budget for translating up to 8 new forms. We're basing the budget numbers on prioritizing translating health care and disability forms as they're the top 10 pdf forms downloaded by people with their browsers set to Spanish. However, some of these online forms are currently being reworked in English and others are not yet available. Forms translation work may shift. 
 
 - 526EZ Application for Disability Compensation and Related Compensation Benefits (Word count from PDF for estimate: 4,018)
 - 10-10EZ Instructions and Enrollment Application for Health Benefits (Word count from PDF for estimate: 1,653)

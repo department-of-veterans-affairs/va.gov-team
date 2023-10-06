@@ -59,9 +59,9 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 10% | 08/30/2023 |08/30/2023  |
-| Launch to 25% | 09/06/2023 | |
-| Launch to 50% | 09/13/2023 |  |
+| Launch to 10% | 08/30/2023 |[08/30/2023](https://dsva.slack.com/archives/C04KXPXL4/p1693403074394949)  |
+| Launch to 25% | 09/06/2023 |[ 9/6/2023](https://dsva.slack.com/archives/C909ZG2BB/p1694177868315429?thread_ts=1693489197.759069&cid=C909ZG2BB) |
+| Launch to 50% | 09/13/2023 | [9/12/2023](https://dsva.slack.com/archives/C04KXPXL4/p1694533587958499?thread_ts=1693403074.394949&cid=C04KXPXL4) |
 | Launch to 100% | 09/20/2023 |  |
 
 ## Launch 
@@ -71,11 +71,10 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
-|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
-|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md#measuring-success)|
+|Was any downstream service affected by the change?:| pick one: No |
+|Types of errors logged:| We saw an increase in 403 errors, [Tom worked on ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65067) ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/bb78fae5-233d-44cc-8bef-ab184337c07d)|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [#65067](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65067) resolved some of the extra errors we were seeing |
 
 ---
 ### Stage B: 25% of users
@@ -84,11 +83,10 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
-|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
-|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md#measuring-success)|
+|Was any downstream service affected by the change?:| pick one: No |
+|Types of errors logged:| ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/8a7fd4e7-afd2-415a-b023-3b7b20c5380c)|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| None! |
 
 ---
 ### Stage C: 50% of users
@@ -97,8 +95,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
-|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| pick one: yes/no/N/A |
 |Types of errors logged:| [FILL_IN]|
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
@@ -109,8 +106,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
-|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md#kpimetrics)|
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| pick one: yes/no/N/A |
 |Types of errors logged:| [FILL_IN]|
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
@@ -120,7 +116,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### 1-week results at 100%
 ||Results|
 |---|---|
-|Number of unique users:||
 |Any issues with VA handling/processing?||
 |Types of errors logged:||
 |Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
@@ -130,7 +125,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### 1-month results at 100%
 ||Results|
 |---|---|
-|Number of unique users:||
 |Any issues with VA handling/processing?||
 |Types of errors logged:||
 |Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||

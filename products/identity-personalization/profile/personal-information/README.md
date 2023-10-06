@@ -1,6 +1,6 @@
 # Product outline: Personal information in the VA.gov profile
 
-Last Updated: August 1, 2023
+**Last Updated:** Oct 5, 2023
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ Last Updated: August 1, 2023
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)  
 ### Authenticated experience
 
-- [This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+- [This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/README.md#team).
 
 ### VA Profile
 

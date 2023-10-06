@@ -15,6 +15,11 @@
 |	Emergency care mashup	|	Jul 2021	|	To validate the usability and design of new facility locator search result cards which combine VA emergency care and community emergency care service types.	|	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/emergency-care-mashup/research-findings.md)	|
 | VBA taxonomy research | February 2022 | To evaluate the current VBA taxonomy against the mental models of users: names, scope, and categorization of services | [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
 
+## Related research
+|	Research title	|	Date	|	Research objectives	|	Link to findings	|
+|	-----	|	-----	|	-----	|	-----	|
+| Veteran needs with facility data (API-26765) | September 2023 | To understand the data needs of Veterans (and those who support them) as it relates to discovering, assessing, and visiting VA facilities (health, benefits, Vet Centers, and secondarily, cemeteries) | [Findings](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/353#heading=h.4guj5zubd1py)
+
 
 See also: 
 [How to be a good observer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)

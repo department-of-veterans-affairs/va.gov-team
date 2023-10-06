@@ -8,7 +8,7 @@ Anyone can join, regardless of role, title, or status. There's no "official" way
 - [ ] Join our slack channel at `#trauma-practice`. Don't have access to slack? Reach out to Josh at josh.kim@adhocteam.us for help.
 - [ ] [Read how we work together and our community guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md).
 - [ ] Introduce yourself on slack at `#trauma-practice` or at the next big meeting (this is 100% optional 💙)
-- [ ] [Join our next big meeting (email invite)](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bGZ0djFzdmRhY2s5NGZ1MmY0aDdlOHV1bXZfMjAyMzAyMjBUMjEwMDAwWiBqb3NoLmtpbUBhZGhvY3RlYW0udXM&amp;tmsrc=josh.kim%40adhocteam.us&amp;scp=ALL). Big groups are open to anyone, no sign up needed. You can [check out our agenda or add to it here (google docs)](https://docs.google.com/document/d/1z5OsfMtlnVp-ntPUi3zPUzw__1mwECqR9bMJygN04h0/edit?usp=sharing).
+- [ ] [Join our next big meeting (email invite)](https://calendar.google.com/calendar/u/0/r/eventedit/cGg0aW8xaDhidmxtZWxqYjFtODNidWQ4amlfMjAyMzA5MTFUMjAwMDAwWiBtZWdhbi5ncmFoYW1AYWRob2N0ZWFtLnVz). Big groups are open to anyone, no sign up needed. You can [check out our agenda or add to it here (google docs)](https://docs.google.com/document/d/1z5OsfMtlnVp-ntPUi3zPUzw__1mwECqR9bMJygN04h0/edit?usp=sharing).
 - [ ] When you feel comfortable, [sign up to join one of our small groups (microsoft form)](https://forms.office.com/r/78LyCdd2RH)! Small groups are safer, more intimate spaces to hold conversation and listen to one another. They're typically comprised of around 7 practitioners who meet on a recurring basis.
 - [ ] If you have time, feel free to check out this [introduction to trauma (and resource list)](https://docs.google.com/document/d/11W66cjxCgguF_ulVOxet-CszfJB3aTBl-OxJTEeloGg/edit?usp=sharing) or skim through our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes)
 
@@ -48,7 +48,7 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 - I want to give people agency to show up and share their experience, to be fully present in difficult conversations, and to be a part of a community who is working to create spaces for new ways of working.
 
 **Lydia Hooper**, Designer/Researcher, Benefits Disability Experience 
-- lydia.hooper@agile6.com, [LinkedIn](https://www.linkedin.com/in/lydiahooper)
+- lydiahooper@gmail.com, [LinkedIn](https://www.linkedin.com/in/lydiahooper)
 - I want to be part of mutual care and mutual growth, to contribute to cultivating spaces that reduce harm and foster repair, and to center and uplift the voices and experiences of folks who are most impacted by design outcomes.
 
 **Brittany Iannuzzi**, Researcher, VES Eligibility & Enrollment
@@ -89,6 +89,7 @@ Facilitated a big meeting or small group? You've helped serve as glue for our co
 - Brittany Iannuzzi
 - Charlotte Cesana
 - Julie Strothman
+- Tyler Gindraux
 
 #### How do I serve as a facilitator?
 1. Volunteer at our next big meeting

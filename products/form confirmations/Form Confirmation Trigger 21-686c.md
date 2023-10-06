@@ -5,12 +5,22 @@ When a veteran submits an application for the 21-686c, and the VNP table is upda
 
 ## Trigger Behavior
 
+Sends a confirmation email to the user's email address (associated with their VA profile) when the form is successfully submitted
+
+- see the trigger behavior in the [repo](https://github.com/department-of-veterans-affairs/vets-api/blob/401de75af73d0ab0ff7b7280cfca1422398be00c/app/workers/bgs/submit_form686c_job.rb#L52)
+
+---
+
 ## Trigger Code
+
+- Link to the invocation of the trigger behavior (within the trigger code) [here](https://github.com/department-of-veterans-affairs/vets-api/blob/401de75af73d0ab0ff7b7280cfca1422398be00c/app/workers/bgs/submit_form686c_job.rb#L30)
+
+---
 
 ## Outside of this Scope
 The 21-686c and the 21-674 have a somewhat joined workflow. This trigger is only sending confirmation email requests with the 21-686c is submitted.
 
---- 
+---
 
 ## Launch Dates
 - *Launch Date*: 100% of population as of April 13, 2022

@@ -12,7 +12,9 @@ VA has prioritized investment in adoption of Login.gov. Login.gov currently offe
     - Further, ~27% of applicants abandon the process without even attempting to upload their documents.
 - The draft revision 4 of NIST 800-63 is indicating that an in-person proofing option is required to meet IAL2.
 VA has more intimacy with Veterans and their community compared to CSPs that act as a shared service to the entire US population. VA also has access to information that facilitates identity proofing for Veterans.
-** How might we leverage VA’s intimacy with Veterans to provide simple, secure, and privacy-preserving in-person verification (and support) for Veterans (and their community)?** 
+
+**How might we leverage VA’s intimacy with Veterans to provide simple, secure, and privacy-preserving in-person verification (and support) for Veterans (and their community)?** 
+
 The following product brief outlines an approach for an initial pilot that:
 - Leverages existing data (MPI) and systems (Identity Toolkit) to facilitate identity verification for Veterans;
 - Complements those systems to ensure the IPP process meets upcoming rev 4 standards for IAL2;
@@ -56,7 +58,7 @@ We have a [service blueprint](https://app.mural.co/t/innovationboards1199/m/inno
 Further the service blueprint will allow us to communicate where we are with respect to progress towards launching the IPP pilot. The following sections are represented in the service blueprint.
 
 #### Intake
-When a Veteran opts to verify their identity in person, this intake process serves as a registration for the Veteran. During this step we are registering, or binding, the Veterans (unverified) Login.gov account to the upcoming in-person proofing process. 
+When a Veteran opts to verify their identity in person, this intake process serves as a registration for the Veteran. During this step we are registering, or binding, the Veterans (IAL1/unverified) Login.gov account to the upcoming in-person proofing process. 
 
 This binding is necessary to meet NIST guidelines that state that an IAL2 credential (the credential that will exist after in-person proofing) is tightly bound to an AAL2 authenticator (the Login.gov account). This ensures that the IAL2 credential is adequately protected after creation, i.e. a bad actor cannot take control of the credential because of a weak password without MFA.
 
@@ -71,7 +73,6 @@ From a Veteran applicant’s perspective we need to provide:
 - Requisite reminders (especially as expiration of the Case ID approaches)
   
 While the intake can happen several days before the in-person proofing event, we should allow for intake to occur immediately before / during the in-person proofing event. This allows a Veteran to recover from an expired (or non-existent) Case ID when they begin interacting with the proofing agent in-person.
-To instill motivation for the Veteran to complete the in person proofing event, case ID's will expire after 10 days. Should a Veteran's case ID expire, they will need to restart the Intake process. This can be done remotely or with an in person proofing agent.
 
 To instill motivation for the Veteran to complete the in person proofing event, case ID's will expire after 10 days. Should a Veteran's case ID expire, they will need to restart the Intake process. This can be done remotely or with an in person proofing agent.
 
@@ -146,7 +147,7 @@ By the end of this process, the proofing agent has now validated the identity at
 
 #### Yielding a Login.gov verified account
 
-Login.gov treats validated PII with extreme care: any validated PII is protected by a second level of encryption based on the user’s password (the equivalent of row level encryption for a table), ensuring not even Login.gov operators can see user’s PII. 
+Login.gov treats validated PII with extreme care: any validated PII is protected by a second level of encryption based on the user’s password (the equivalent of row level encryption for a table), ensuring not even Login.gov operators with root level access to their databases can see users' PII. 
 
 Additionally, we want to minimize the amount of time an IAL2 credential will be persisted on VA systems (i.e. the proofing application). The longer PII is persisted, the greater a target it becomes.
 
@@ -155,7 +156,7 @@ There are a couple techniques that can be used to meet Login.gov’s encryption 
 - (Preferred) Login.gov is working on a facility where applications can send PII encrypted protected by that second level of encryption. This would allow our proofing application to immediately send the PII validated during the in-person event to Login.gov, precluding the need for the proofing application to store any PII. This capability is currently in development with Login.gov.
 - Should that capability not be available in time for the pilot, another option is to leverage  OIDC patterns of relying party (RP) and credential service provider (CSP). These can ensure PII is transacted only when the user’s Login.gov password context is present. This allows us to meet Login.gov’s encryption requirement and limit the amount of time the proofing application needs to save information. We would add a step for the proofing agent to ask the Veteran to log back into their account to trigger this exchange within minutes; after which the PII would be removed from the proofing application.
 
-Other options may also exist. We will need a follow on technical discussion with Login.gov to align on the best approach for the pilot.
+Other options may also exist. We will need a follow on technical discussion with Login.gov to align on the best approach for the pilot, should the preferred option above not be available in time for the pilot.
 
 #### Supported document types / proofing evidence
 The document types we will be able to support will be based on the document types MPI can act as an authoritative or issuing source for.
@@ -195,7 +196,7 @@ There are various ways to manage this dependency:
 - Research if there is a wide reaching (blanket) SORN that our proofing application can fall under. Can range anywhere from a VA.gov SORN or a VA SORN.
 - Work with the Privacy office to confirm at what threshold is a SORN required, i.e. for a pilot of a few thousand Veterans, can that be considered small enough where the pilot isn’t considered a system of record.
 
-### VA directive 6150
+### VA directive 6510
 This the VA wide directive dealing with the use of identity and access to services. A new revision is being evaluated and we have an opportunity to codify certain aspects of our pilot into this revision. For example: what document types is MPI an authoritative source for?
 
 ## Risks

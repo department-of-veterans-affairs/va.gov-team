@@ -52,11 +52,11 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | 2021| 2022 | Jan-Jun 2023 |Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------|-------|-------------- |-------------- |-------------- |
-|Total Apps started |173,669|346,625 |81,431 |N/A  |TBD |TBD |
-|Household section drop-off |14% (23,803)|28% (98,209) |34% (27,715) |10% |TBD |TBD |
-|Financial Disclosure |4% (1,464)|0.3% (477) | 0% (no drop) |no change | TBD |TBD |
-|Annual Income |26.3% (40,791) |30% (75,416) | 24% (12,417) |10% |TBD |TBD |
-|Deductible Expenses |6% (9,704)|8% (13,911) | 8% (3,296) |5% |TBD |TBD |
+|Total Apps started |173,669|346,625 |81,431 |N/A  |21,353 |TBD |
+|Household section drop-off |14% (23,803)|28% (98,209) |34% (27,715) |10% |39% (10,346) |TBD |
+|Financial Disclosure |4% (1,464)|0.3% (477) | 0% (no drop) |no change | 20% (4,148) |TBD |
+|Annual Income |26.3% (40,791) |30% (75,416) | 24% (12,417) |10% |23% (3,722) |TBD |
+|Deductible Expenses |6% (9,704)|8% (13,911) | 8% (3,296) |5% |3% (432) |TBD |
 
 
 #### **Key Result #2:** Increase application submissions by 5%, and submissions within a single session by 5%
@@ -66,8 +66,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | 2022 Baseline | Jan-Jun 2023 | Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------|-------|-------------- |-------------- |
-|Application Submissions | 59.8% (138,687k)  | 61.4% (63,084) | 65% |TBD|TBD|
-|Single-session Submissions | 60.5% (83,941) | 62.2% (39,232) | 77%  |TBD|TBD|
+|Application Submissions | 59.8% (138,687k)  | 61.4% (63,084) | 65% |78.6% (20,926) |TBD|
+|Single-session Submissions | 60.5% (83,941) | 62.2% (39,232) | 77%  |72.7% (15,205) |TBD|
 
 
 #### **Key Result #3:** Veterans feel prepared when they begin the Household section
@@ -164,8 +164,8 @@ Data source - Call Center team/TBD
 - Dec 2022: Usability testing kickoff
 - June 2023: Finalize designs, development
 - June 2023: Complete QA
-- Aug 2023: Launched to 25% of users (8/2)
-- Aug 2023: Complete UAT
+- Aug 2023: Launched to 100% of users (8/11)
+- Sept 2023: Complete UAT
 
 ---
    

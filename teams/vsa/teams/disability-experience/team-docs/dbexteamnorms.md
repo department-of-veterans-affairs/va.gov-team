@@ -4,7 +4,7 @@ Last Updated 3/14/23
 ## When & Why We Meet
 We are a cross-functional team spread across multiple time zones. The team is generally available between 11:30a ET and 4p ET Monday-Friday.
 
-- [ ] Standup - Daily (weekdays)
+- [ ] Huddle - Daily (weekdays)
    - [ ] 11:30-11:45a ET (Parking lot 11:45a-12p ET) M-F
 - [ ] Backlog Refinement - Weekly
    - [ ] Wednesday (sprint day 6) 2-4p ET

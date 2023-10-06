@@ -5,6 +5,9 @@
 ## Overview
 Providing the 10-10EZR health benefits update form online experience allows the Veteran to quickly and easily submit updates to their personal information for the purpose of increasing or maintaining their health benefits, without having to call VA, mail in a paper form or visit a facility to provide the updated information.
 
+**MVP**: Build a pre-filled 10-10EZR form online so that a Veteran can review and edit the pre-filled data, submitting successfully.
+Target Delivery: Late November 2023
+
 ## Problem Statement
 
 Veterans who want to provide updates to their personal information for increasing or maintaining their health benefits are burdened with the manual processes of calling VA, mailing in a paper form and/or visiting a facility. This is driven by the lack of an online experience and pathway to provide these updates at a more convenient time and place for the Veteran. For Veterans who must provide these updates annually, the burden is multiplied.
@@ -82,6 +85,7 @@ In future iterations, we plan to review for alternative locations and other syst
 - Pre-fill all available fields with data from Enrollment System
 - Include legal/regulatory verbiage on Review page (similar to 10-10EZ for copays, assignment of benefits, etc)
 - Allow Veterans to print Confirmation page
+- Enrollment system will trigger generic email confirming receipt of the form
 
  
 **Out of scope**:
@@ -103,10 +107,10 @@ In future iterations, we plan to review for alternative locations and other syst
 ### Collaboration Cycle
 
 - Collab Cycle ticket [#63773](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63773)
-     - [ ] Design Intent - 9/18/23 at 3:30p ET
-     - [ ] Content, Accessibility and IA - Kickoff 9/12/23 at 4p ET
-     - [ ] Research
+     - [N/A] Design Intent
+     - [x] Content, Accessibility and IA - Kickoff 9/12/23 at 4p ET
      - [ ] Midpoint
+     - [ ] Research
      - [ ] Contact Center guide
      - [ ] Analytics
      - [ ] Staging
@@ -121,11 +125,12 @@ In future iterations, we plan to review for alternative locations and other syst
 
 ## Launch Dates
 - *Target Launch Date*
-  - 1/22/2023
+  - 11/27/2023
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - Evaluate: End of December 2023
+  - Impact Review: January 2024
 
 ---
 
@@ -133,12 +138,14 @@ In future iterations, we plan to review for alternative locations and other syst
 
 ### Current Status
 - New form being built online
+     - 9/11/2023: In Design and foundational development concurrently
 
 #### Key deliverables
 
 - Design documentation
-   - [Proposed wireflows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/D391CBC5-D341-4B4B-B1D8-566325DDF8A4/canvas)
+   - [Proposed wireflows](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/p/2243222A-201E-413F-8CC2-8A8C237726DC/canvas)
    - [Sketch Design and User Flow](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/v/Mrk8ab/p/A0C657F6-3318-45A0-93CB-246BA8722E37/canvas?posX=-3289.158203125&posY=-10403.73046875&zoom=0.25)
+   - [Content Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/10-10EZR-application-content.md)
 - [Research/Design folder]
 - [Prototype]
 - [Technical documentation folder]
@@ -153,17 +160,30 @@ In future iterations, we plan to review for alternative locations and other syst
 ### Key Decisions
 - 8/15/2023 - After talking with our HEC Stakeholders and the PRA team (Paper Reduction Act) in [July's Stakeholder meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes/2023-07-24%20PRA%20discussion%20on%20EZR%20with%20HEC%20stakeholders.md), and explaining our proposal to incorporate EZR updates within the VA.gov Profile page, it was communicated from PRA team to our PO, Patrick Bateman, that they would like us to stick closer to something like a standalone authenticated workflow.
 - 8/29/2023 - Presentation to PO Patrick Bateman on proposed direction of a standalone form, using existing data from ES to display review pages for each section with a question asking whether the information displayed is up to date, or needs to be changed.  If up to date, the next section of data will be displayed.  If a change is needed, pages with editable fields, prefilled with existing data, will be shown, allowing the Veteran to make the updates as needed.  PO agreed with proposal. Next presentation to HEC Stakeholder team will be 9/13/2023.  In the meantime, we will continue with designs, content creation and frontend development.
+- 9/1/2023 Key Decision Made to pivot our MVP scope that will reduce the timeline for Design and Frontend development.   
+:bangbang: We are now targeting a Late November release :calendar: 
+     - MVP: Build a pre-filled 10-10EZR form online so that a Veteran can review and edit the pre-filled data, submitting successfully.
+     - In-Scope: 
+          - Display all data fields with the applicable pre-filled data, if any
+          - Provide context/alert informing the Veteran that data has been pre-filled for them (existing on EZ)
+          - Veteran name, DOB & SSN information will be displayed as read-only (existing on EZ)
+          - Dependents and Insurance screens will utilize the multiple response pattern (existing in Dependents page on EZ)
+          - Standard Review screen will be displayed at the end of the form (existing on EZ)
+     - Out of Scope:
+          - Read-only/Review-type pages in place of each section (in-line editing)
+          - Read-only/Review-type pages in between each section (yes/no update questions)
+          - Short-form flows (specifically for those with 50% or higher disability rating)
 
 ### Key Dates
 
 - May 2023: Initial discovery
 - August 2023: Kickoff with outline & begin design
-- TBD: Design work ready
-- TBD: Development
-- TBD: Usability testing kickoff
-- TBD: Complete QA
-- TBD: Complete UAT
-- TBD: Launched to ???% of users
+- Sept: Design work ready
+- Oct: Development complete
+- Oct: Usability testing kickoff
+- Nov: Complete QA
+- Nov: Complete UAT
+- End of Nov: Launched to ???% of users
 ---
    
 ## Screenshots

@@ -56,8 +56,7 @@ As a VFS Product Owner / VFS Product Designer,
 - [CMS DS Component / Pattern inventory](https://airtable.com/appKn8xeWg0SkIphM/tblSKI3lIgLugkSy3/viwzzO2oEyrXeevnK?blocks=hide)
 
 ## Contacts
-- Product Owner: Dave Conlon (OCTO-DE)
-- Product Manager: Erika Washburn (Friends From The City)
+- Product Owner: Erika Washburn (OCTO-DE)
 - Delivery Manager: Dawn Pruitt (Agile 6)
 - Design System Design Lead: Blake Organ (CivicActions)
 - Engineering: CMS Team/Edmund Dunn and Tanner Heffner (Agile 6)

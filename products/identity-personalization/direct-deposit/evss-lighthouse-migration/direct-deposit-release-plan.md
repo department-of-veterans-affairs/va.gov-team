@@ -73,8 +73,8 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 |Launch % |Time Frame | Planned Date Range | Actual | Ticket | 
 |-------|-----------|-----------|------|------|
 | Launch to 5% | 1 week | week of 08/7/2023 | 08/07/2023 | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
-| Launch to 10% | 1 week | week of 08/14/2023 | 8/14/2023 (rolle back to 5 8/29) | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
-| Launch to 25% | 1 week | week of 08/21/2023 |  | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)|
+| Launch to 10% | 1 week | week of 08/14/2023 | 8/14/2023 (rolled back to 5 8/29); Re-launched 9/12/2023, stayed at 10% through 9/19 | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
+| Launch to 25% | 1 week | week of 08/21/2023 | 9/26/2023 - we now have a new [data dog dashboard](https://vagov.ddog-gov.com/dashboard/gra-npe-h52/authenticated-experience-cp-direct-deposit?refresh_mode=sliding&from_ts=1695131443208&to_ts=1695736243208&live=true) | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782)|
 | Launch to 50% | 1 week | week of 08/28/2023 |  | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
 | Launch to 100% | 1 week | week of 09/04/2023 | | [#60782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60782) |
 
@@ -108,22 +108,40 @@ PM and PO will monitor analytics (specifics to be documented with story [#61165]
 |---|---|
 |Number of unique users:| [3,939](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230807&_u.date01=20230813&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fdirect-deposit%3Fpostlogin=true)|
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
-|Was any downstream service affected by the change?:| No|
+|Was any downstream service affected by the change?:| No |
 |Types of errors logged:| unknown-title-get-error-api-response	54; <br> cnp.payment.generic.error - No changes were made	33; <br> cnp.payment.routing.number.invalid.checksum 	33;<br> unknown-profile-section-code-unknown-title-unknown-detail-unknown	33; <br> 500 internal error	22; <br> cnp.payment.api.gateway.timeout -Did not receive a timely response from an upstream server-enroll	11; <br> cnp.payment.night.area.number.invalid - No changes were made	11
 |What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [Reviewing 502 Gateway Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63323), the issue seems to be, a downstream system doesn't have an updated address on file which is causing LightHouse to return these 502 errors |
 
 ---
 ### Stage B: 10% of users
 
-#### Results
+<details><summary> First Launch to 10% 8/15-29
+</summary>
+
+#### Results (first launch to 10%)
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
+|Number of unique users:| [4,239](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230815&_u.date01=20230821&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fdirect-deposit%3Fpostlogin=true/)
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
-|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|Was any downstream service affected by the change?:| pick one: Yes |
+|Types of errors logged:| We saw enough of a failure rate in our saves to pause the launch and roll back to 5% while we investigated  |
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| We've coordinated updates with Lighthouse, they've increased the time limits; Sept 6, 2023: Lighthouse production increase in Gateway timeout changed from 10s to 20s, resulting in a drop in timeout errors |
+
+[Slack thread where we agreed to increase again](https://dsva.slack.com/archives/C909ZG2BB/p1694524410823759?thread_ts=1694439401.099159&cid=C909ZG2BB)
+
+</details>
+
+#### Results (re-launch to 10% 9/12)
+
+|Question|Response|
+|---|---|
+|Number of unique users:| [5,091](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20230912&_u.date01=20230918/) |
+|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
+|Was any downstream service affected by the change?:| no  |
+|Types of errors logged:| documented our errors [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65736) we'
+re working with LH and BGS to determine where the issues continue to stem from using that ticket to document and track each of the error types we're seeing and when possible we're creating tickets to resolve the respective errors. LH is now on par or beating EVSS's response rates |
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| we're working with lighthouse and BGS to figure out next steps and maintaining our rate at 10%; after several weeks at 10% LH is now on par or better than EVSS according to our [new dashboard](https://vagov.ddog-gov.com/dashboard/gra-npe-h52/authenticated-experience-cp-direct-deposit?refresh_mode=sliding&from_ts=1695131443208&to_ts=1695736243208&live=true)  |
 
 ---
 ### Stage C: 25% of users

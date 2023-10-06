@@ -108,13 +108,14 @@ In order to be able to add email as a channel, we need to do two things: add the
 - Build the new page for the mobile number
 
 ## Key Deliverables
-|Deliverable|Date completed|
+|Deliverable|notes|
 |-----------|--------------|
 |[Email as a channel epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61101)| |
-|Analytics Dashboard| |
+|[Analytics Dashboard](https://analytics.google.com/analytics/web/?authuser=3#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)|see the Notification Checkbox section|
 |[QA Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send/QA)| |
 | [UAT Go/no-go](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62915) | |
-|UAT results||
+|UAT topline Summary||
+|UAT Synthesis||
 |[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/releasePlan/defaultSendReleasePlan.md)||
 
 ## Key Dates
@@ -123,6 +124,8 @@ In order to be able to add email as a channel, we need to do two things: add the
 - February 2023: Complete discovery; Scope work over the next few months.
 - Spring 2023: Begin/complete build
 - August 2023: QA
+- October 2023: Staging Review
+- October 2023: UAT
 
 ## Backend
 

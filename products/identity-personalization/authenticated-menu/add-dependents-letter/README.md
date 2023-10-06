@@ -1,6 +1,6 @@
 # Project outline: Add links to dependents and letters tools to the authenticated menu
 
-**Last Updated: August 28, 2023 -- Added key dates**
+**Last Updated: October 6, 2023 -- Updated metrics**
 
 ### Communications
 
@@ -80,38 +80,47 @@ Users have trouble finding dependent information and where to download their ben
 
 [Search results can be found on the Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|-------------|---------------|-------------------|
-|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)||||
-|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)||||
+|KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
+|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|#3 (and 6,8)|#2 (and 3,8)|||||
+|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|#1 (and 2,4,9)|#1 (and 4,5,10)|||||
+
+**KPI: See overall reduction in "dependents" and "letters" searches within the profile.**
+
+|KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
+|Raw number of "**letters**” searches in the top 10 profile searches|189|121|||||
+|Raw number of "**dependents**” searches in the top 10 profile searches|426|239|||||
 
 **KPI: See variations on "dependents" and "letters" entirely removed from the top 10 search terms on VA.gov as a whole.**
 
 [Search results can be found on the Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|-------------|---------------|-------------------|
-|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)||||
-|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)||||
+|KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
+|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|#2 (5,9)|#3 (and 5)|||||
+|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|#1|#1|||||
 
 **KPI: See no increase in bounce rates from the Dependents and Letters pages (increase in bounce rate = people found the page but not what they were looking for).**
 
 - [Bounce rate for Letters page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Frecords~2Fdownload-va-letters~2Fletters~2Fconfirm-address~2F/)
 - [Bounce rate for Dependents page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fview-change-dependents~2Fview~2F/)
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|-------------|---------------|-------------------|
-|Bounce rate for **Letters** page||||
-|Bounce rate for **Depedents** page||||
+|KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
+|Bounce rate for "**Letters**” |||||||
+|Bounce rate for "**Dependents**”|||||||
 
 ### Objective #2: Explore using authenticated menu as a place to elevate links to tools.
 
 **KPI: Establish baseline metrics for "dependents" and "letters" links in the authenticated menu.**
 
-|KPI/metric| 1 month post-launch to 100% [add dates]|2 months post-launch to 100% [add dates]|
-|----------|---------------|-------------------|
-|Clicks into "Dependents" from the authenticated menu|||
-|Clicks into "Letters" from the authenticated menu |||
+[GA Dashboard for Auth Menu](https://analytics.google.com/analytics/web/#/dashboard/jTwco5hFRBmuXcjZN9YSPA/a50123418w177519031p176188361/_u.date00=20230901&_u.date01=20231004)
+
+|KPI/metric|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|----------|-------------|---------------|-------------------|-------------------|
+|Clicks into "**Letters**" from the authenticated menu |||||
+|Clicks into "**Dependents**" from the authenticated menu|||||
 
 ## Key deliverables
 
@@ -119,13 +128,14 @@ Users have trouble finding dependent information and where to download their ben
 
 - [EPIC | Profile | Authenticated Menu Modifications #62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)
 - [Sketch files](https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/p/F06226AA-DBC6-482C-A474-E9585FDF7178/canvas)
-- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/releasePlan.md)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/release-plan.md)
 
 ## Key dates
 
 - July 2023: Initial discussions; project kickoff
 - August 2023: Design
 - September 2023: Build
+- October 4, 2023: Launched to 100% of users
 
 ## Design
 
@@ -135,5 +145,6 @@ Users have trouble finding dependent information and where to download their ben
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/76d5cd22-fab0-4c53-a69e-4d80bb82797a)
 
 ### After
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/b3c9247e-2707-49a8-a3c2-73a3fcaa52ba)
 
 ## Frontend

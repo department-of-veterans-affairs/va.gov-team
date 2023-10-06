@@ -1,5 +1,5 @@
 # Description
-This document exists to capture feedback from our initial test of our Sign-in Service on VA.gov. Relevant test details as follows:  
+This document exists to capture feedback from our initial test of our Sign in Service on VA.gov. Relevant test details as follows:  
 **Test Start:** 1200EST  
 **Test End:**  1800EST  
 **Total Users Impacted:**  4,560 (50% of expected)   
@@ -14,11 +14,11 @@ This document exists to capture feedback from our initial test of our Sign-in Se
 
 
 # Test Summary
-At 1200 EST on 8/25, we began directing 10% of VA.gov sign-in attempts to our new Sign-in Service.  During this time, we served 4,560 users, which was about 50% of our anticipated traffic.  For the duration of our test, we had a success rate of 65.58% for sign-in attempts, compared to a normal average of around 70%.  This 65.58% was number was negatively impacted by an issue we identified early on, where we noticed that users without complete CSP data were being prevented from authenticating.  We were able to resolve this issue in less than 2 hours, which is a dramatic increase over our usual resolution time when using SSOe.  
+At 1200 EST on 8/25, we began directing 10% of VA.gov sign-in attempts to our new Sign in Service.  During this time, we served 4,560 users, which was about 50% of our anticipated traffic.  For the duration of our test, we had a success rate of 65.58% for sign-in attempts, compared to a normal average of around 70%.  This 65.58% was number was negatively impacted by an issue we identified early on, where we noticed that users without complete CSP data were being prevented from authenticating.  We were able to resolve this issue in less than 2 hours, which is a dramatic increase over our usual resolution time when using SSOe.  
 
 During the entirety of our test, no critical issues were discovered and our success rate never dropped below 50% (our threshold for stopping the test).  All of our metrics were in-line with or better than the current SSOe implementation.  During our initial testing, we saw reduced login times with certain CSP's.
 
-Of the areas of improvement noted in this test, of significant importance is our ability to quickly identify and resolve issues.  Due to our improved logging tools (DataDog) and capabilities, we can identify issues being experience by users before they are surfaced to Help Desk, implement a fix, and deploy it within 24 hours.  Utilizing our Sign-in Service, we are able to account for 100% of the users within our system, making identifying these issues incredbibly easy.
+Of the areas of improvement noted in this test, of significant importance is our ability to quickly identify and resolve issues.  Due to our improved logging tools (DataDog) and capabilities, we can identify issues being experience by users before they are surfaced to Help Desk, implement a fix, and deploy it within 24 hours.  Utilizing our Sign in Service, we are able to account for 100% of the users within our system, making identifying these issues incredbibly easy.
 
 Our next step is to conduct a 48-hour test in the coming weeks, targeting 30% of VA.gov users.  This will allow us to get closer to a typical load of a fully-implemented service, and properly test reductions in login time.  
 
@@ -50,7 +50,7 @@ Our next step is to conduct a 48-hour test in the coming weeks, targeting 30% of
 **Link to ticket:** [LINK](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/department-of-veterans-affairs/va.gov-team/46258)  
 **Status:**  Closed
 
-**Issue Description**: During our test of sign-in service, we noticed iD.me was not returning attributes we expected. For most users, this had no impact but for some users who, for unknown reasons to us, were not labelled as LOA3.
+**Issue Description**: During our test of sign in service, we noticed iD.me was not returning attributes we expected. For most users, this had no impact but for some users who, for unknown reasons to us, were not labelled as LOA3.
 We suspect this is similar to MHV Premium Users.  
 
 **Link to ticket:** [LINK](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/department-of-veterans-affairs/va.gov-team/46262)  
@@ -58,15 +58,15 @@ We suspect this is similar to MHV Premium Users.
 
 
 ## Next Steps
-A second test is currently being scheduled.  Our goal is 48 hours with 30% of users being directed to the sign-in service.
+A second test is currently being scheduled.  Our goal is 48 hours with 30% of users being directed to the sign in service.
 Resolve open tickets 
 Resolve two issues identified during testing (listed above)
 
-## Supplement: Average Login Times for SSOe and Sign-in Service:
+## Supplement: Average Login Times for SSOe and Sign in Service:
 
 **Login time is negatively impacted by the fact that we have to make two round-trips to ID.me and Login.gov to determine user LOA.  Once these partners implement single round-trip we anticipate a significant reduction in sign-on time.**
 
-While testing our sign-in service, we saw an average reduction in user login time of one second (6%), with some CSP's seeing as much as a 33% reduction in time taken to sign-in.  For Login.gov, average time to sign in was reduced from 11.35 seconds to 8.11 seconds, which was the most dramatic reduction.  The most significant reduction in the sign-in process was from CSP selection to CSP sign-in screen, which was cut in half (4.33 seconds to 2.13 seconds). 
+While testing our sign in service, we saw an average reduction in user login time of one second (6%), with some CSP's seeing as much as a 33% reduction in time taken to sign-in.  For Login.gov, average time to sign in was reduced from 11.35 seconds to 8.11 seconds, which was the most dramatic reduction.  The most significant reduction in the sign-in process was from CSP selection to CSP sign-in screen, which was cut in half (4.33 seconds to 2.13 seconds). 
 
 
 ### Time to log in (SSOe)
@@ -91,7 +91,7 @@ While testing our sign-in service, we saw an average reduction in user login tim
 |Login.gov 3      |2.44             |1.44      |4.47              |8.35      |
 |**Login.gov Average**|**2.71**            |**1.69**    |**6.95**             |**11.35**     |
 
-### Time to log in (Sign-in Service)
+### Time to log in (Sign in Service)
 
 |CSP           |Time (Seconds)   |    |            |    |
 |-----------------|-----------------|----------|------------------|----------|

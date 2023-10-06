@@ -1,5 +1,5 @@
 # Contact Information Use Cases
-**Last updated:** August 1, 2022
+**Last updated:** September 7, 2023
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
@@ -23,6 +23,4 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - [High incidences of address save failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Address%20Save%20Failure%20Codes.md)
 
 ## Flow diagrams
-- [High-level add/edit flow with screenshots](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/573053E0-C66A-4904-B497-C254BCCB59CD/canvas)
-- [Home address updated, mailing address does not match](https://app.mural.co/t/vsa8243/m/vsa8243/1648492872357/ccc5ced279f2062e7336460965ddc8681e6e9722?sender=u28f508d646c449cc1afe4873)
-- [Mailing address is marked as “bad” in VA Profile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/B9130735-D925-4E07-B163-42644176BD5C/canvas)
+- [Mobile page of Sketch file](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/32C331B8-812D-46FE-AF7D-DCA63C881713/canvas) contains user flow, states, and behaviors

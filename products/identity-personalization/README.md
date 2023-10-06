@@ -1,13 +1,13 @@
 # Authenticated experience at a glance
 
-**Last updated: July 28, 2023 -- migrated from old VSA folder**
+**Last updated: October 3, 2023 -- updating team members**
 
 ## Where to find us 
 
 - GitHub Label: authenticated-experience 
 - Slack channel: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp) 
 
-## [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
+## [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/charter.md)
 
 ## Team
 
@@ -16,7 +16,7 @@
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia (AJ) Jakabcin |Product Manager -- My VA & onsite notifications portfolio| ana@adhocteam.us |
 |Travis Cahill|Product Manager -- Profile portfolio|travis.cahill@agile6.com|
-|Adrian Brewster| Delivery manager | adrian.brewster@agile6.com |
+|Dotti Cummings| Delivery manager | dorothy.cummings@agile6.com |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Pam Drouin| Designer | pamela.drouin@a1msolutions.com |
 |Angela Agosto|	Designer|	angela.agosto@adhocteam.us|

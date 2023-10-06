@@ -112,3 +112,6 @@ See also Operating status/facility level alerts (cross-product)
 
 | Product | Feature | Epic | Design/Research repo | Status (Latest feature link) |
 | :--- | :--- | :--- | :--- |:--- |
+
+## Relevant research
+[2023-08 Veteran Needs With Facility Data #353](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/353#heading=h.4guj5zubd1py)

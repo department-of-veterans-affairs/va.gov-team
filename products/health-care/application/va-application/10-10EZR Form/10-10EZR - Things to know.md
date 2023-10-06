@@ -1,4 +1,4 @@
-# Things to know about the 10-10EZ
+# Things to know about the 10-10EZR
 This document contains tidbits, odds & ends, and information about the 10-10EZ form, development, testing and anything else that isn't captured in other documents.
 
 ### Abbreviations
@@ -11,7 +11,7 @@ This document contains tidbits, odds & ends, and information about the 10-10EZ f
 
 Systems used by Application Processing teams
 - VIS - Veteran Information Solution 
-     - Provides consolidated view of comprehensive eligibility from VBA and DoD.  Used to locate combat dates, activation peried, South West Asia (SWA), active duty military service, service-connected disability, pension, amount, etc
+     - Provides consolidated view of comprehensive eligibility from VBA and DoD.  Used to locate combat dates, activation period, South West Asia (SWA), active duty military service, service-connected disability, pension, amount, etc
 - HINQ - Hospital Inquiry System
      - Provides verificatoin information to include active duty periods, active duty for training only, and service-connected disabilities
 - SHARE - 
@@ -29,7 +29,15 @@ Systems used by Application Processing teams
 ### Testing
 - xx/xx/22 Placeholder Text.
 
-### Miscellaneous
-- xx/xx/22 Placeholder Text.
+### Business Processes
+- 9/7/2023 - Confirmation received from Joshua Faulkner
+     - When the Enrollment System receives the submitted EZR, a generic email is triggered and sent to the email address within the form, stating that the submitted form has been received.
+- 9/7/2023 - Confirmation received from Simone Gully and Ambroja Watson
+     - EZR Processing is 5 business days.  Online submission _should_ be same day unless there is an error or inconsistency
+     - Current process:
+          - When the Priority Group (PG) changes, the VA health care handbook is sent with a letter insert on the change
+          - If there is no change, there is no communication sent to the Veteran.
+     - Future process (we will be notified when in place):
+          - Any time the Priority Group (PG) changes or any determination is made regarding Priority Group and/or Copay status, a letter will be sent out notifying the Veteran of the change
  
-
+### Miscellaneous

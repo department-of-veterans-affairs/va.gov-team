@@ -1,4 +1,5 @@
-[Product Brief Link](https://docs.google.com/document/d/1tLRcBUznYkaoz5oAUEM6ui7rr8Gj0qijgqqApwHVnxk/edit)
+[Labs & Tests Product Brief.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12499969/Labs.Tests.Product.Brief.pdf)
+
 
 
 # VA Mobile App Lab & Test Results Product Brief (Sprint 0)  as of 9/2022

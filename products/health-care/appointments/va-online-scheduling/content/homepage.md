@@ -35,9 +35,9 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments`
 ### Upcoming state - empty
 
 ```
-You don't have any upcoming appointments
+{Heading} You don't have any upcoming appointments
 
-You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
+You can schedule an appointment online now, or call your {Link}VA health facility{/Link} to schedule an appointment.
 
 {Link} `Schedule an appointment`
 ```
@@ -113,11 +113,15 @@ These appointment requests have been canceled.
 
 ### Request state - empty
 
-You don't have any appointment requests
+```
 
-You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
+{Heading} You don't have any appointment requests
 
-(Link) `Schedule an appointment`
+If you request an appointment it will show here until staff review and schedule it. You can schedule an appointment online now, or call your {link}VA health facility{/link} to schedule an appointment.
+
+```
+
+{Link} `Schedule an appointment`
 
 
 ### Request alert - Generic message if any of the systems are unavailabe (VSP, VVS and HSRM) 
@@ -183,11 +187,11 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Past appointments`
 ### Past state - empty
 
 ```
-You don't have any past appointments
+{Heading} You don't have any past appointments
 
-You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
+You can schedule an appointment online now, or call your {link}VA health facility{/link} to schedule an appointment.
 
-(Link) `Schedule an appointment`
+{Link} `Schedule an appointment`
 ```
 
 ### Past alert - Generic message if any of the systems are unavailabe (VSP, VVS and HSRM) 

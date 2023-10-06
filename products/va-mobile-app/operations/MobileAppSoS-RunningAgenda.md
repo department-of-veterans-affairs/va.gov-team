@@ -12,49 +12,30 @@
   
 
 
-## Q3 Projects In Progress 
- - 3rd Quarter projects that are currently being worked on by the mobile team
- - Focus will be on non-green items unless there are questions / specific updates
- - Work is listed in PO's priority order based on SoS Sprint Tab
- - Current Sprint
-    - Sprint 78 8/16 - 8/29
-    - 3 sprints remaining in this quarter
-  
-
 ## Agenda
-* **Q3 Projects in Progress**
-  * Yellow projects
+* **10/3/2023 - focus is on Q4 planning, thus typical agenda will no be followed** 
+
+
+
+
+## Future SoS Agenda
+* **10/17/23 - 1st SoS of Q4**
+
+* **Q4 Projects in Progress**
+  * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+  * Work is listed in PO's priority order based on SoS Sprint Tab
+  * Current Sprint
+    * Sprint 82  (1 of 7 Q4 Sprints) 
+   
  
-* **Standing question for the POs**
+* **Standing question for the POs (Adam)**
   * Any new work we should be on the lookout for?
   * Any priority shifts or other updates? 
 
-
 * **Sprint Planning (Adam)**
- * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
+   * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
 
-
-
-   
-|Project | PM | Status | Current Sprint Work | Future Sprint Work | Est Completion Timing |
-| ----------- | ----------- | ----------- |-----------| -------------| ----------|
-|[EVSS Backend Migration](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/2558) | Kelly | GREEN | Complete Documents API in Vets API | Wait for VA.gov to go live with services, then turn them on for Mobile  | Sept '23 | 
-|[Check-In](https://app.zenhub.com/workspaces/va-mobile-blue-team-63483d4e9ff9282a04fef8a3/issues/gh/department-of-veterans-affairs/va-mobile-app/4315) | Meko | YELLOW| PM: Project follow up and sizing| BE integration with final api designs, FE Development | Sept '23 |
-| [Deeplinking](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6037) | Stacy | GREEN |2.10.11 RElease |Implementation Complete | Aug '23| 
-| [Appointment: List & Detail content alignment audit](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5136) | Meko | GREEN | Need to complete read out |  | Aug '23 |
-| [User Endpoint Update](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5815) | Ameet | GREEN |Front end updates to use new endpoints | Front end updates to use new endpoints cont. | Sept '23 | 
-| [Finding Medications-Comparitive Analysis](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/6041) | Meko/Lauren | Green | Need to complete read out   |  | August '23| 
-| [Veteran Status](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4270) | Adam | Green | QA testing, adding Post MVP epic to track post MVP considerations | 9/12 release date | Sept '23 |
-| [OKR and MVP Dashboards](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5704) | Ameet | GREEN | Reviewing SM for gaps in current analytics| Next 2 Dashboard priorities Login Blocked, Letters | All Q3|
-| [General Analytic Request and Needs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6070) | Ameet | GREEN | Working on App Version reporting to stop general stupport and working on a Sprint 0 on how to better track via FB URLs   | | | Ongoing |
-| [Platform Preparation - Design System](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6011) | Kelly, Ameet | GREEN | Began building SegmentedControl compnent; Updating component documenation site; Begin building out automation| Incorporate new SegmentedControl component into the app| All Q3 | 
-| [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | Yellow | Plan for 2.11.0 Release | SIS team Complete| Original-Aug-2.8.0 Release , Roll Back 2.9.0 Release|
-| [Mobile Bug Maintenance & Discipline Tech Debt](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) |Adam | GREEN | Continued work to reduce bugs and tech debt | Total Open Bugs 60 (7 are Sev 2)   | Ongoing | 
-| [Detox UI ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/3728) | Kelly | GREEN | Finish Past Appointments, RX, VA Letters and Docs, Contact Info and Perseonal Info | Next items: Direct Deposit, Veteran Crisis Line, Payments, Settings | All Q3 |
-| VHIC Step 1 | Stacy | Green |Discovery now slated for sprint 80 |Originally Slated Sprint 77 | Aug '23 | 
-| [Personalization](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/3542) | Ameet | Green | First draft of Product Brief & UX Strategy. Also, crafting workshop to determine data for homescreen MVP| Conduct homescreen MVP data exercise and start wireframes| Aug '23 |
-* *Alternate Project
-* **Carryover
+* **Monthly Mobile App Review Summary (Liz)**
 
 ## Q3 Projects Planned Not Yet Started
 
@@ -65,14 +46,8 @@
  
 | Priority |Project | PM | Status | Timing |
 |-------- | ----------- | ----------- | ----------- |-----------| 
-|Planned |RX List and Details Update | Meko | Sprint 80 - 81 Oct '23|
 |Planned | Claims Reimagined Step 1 | Stacy | Sprint 79 Sept '23| 
-|Planned | Remote Disaster | Stacy |Not Started  | Sprint 79 - 81 ; carrying over into Q4 |
-|Planned | Push Noticication Overall Strategy Sprint 0| Ameet | Not Started | Sprint 80 Sept '23 | 
-|Planned | Appeals Decision Letters Sprint 0| Stacy |Not Started | Sprint 80 Sept '23|
-|Planned | Terms of Use Sprint 0 |  |Not Started | Sprint 81 Oct '23 |
-| Alternate | [Secure Messaging - Migrate to Re-Engineered MHV APIs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5562) | Adam | Blocked - MHV SM team - Sept | TBD - awaiting PO prioritization |
-| Alternate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | |  | TBD |
+| Alternate | [In-App Recruitment Step 2](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4353) | Adam | Blocked - Awaiting Prioritization | TBD |
 </details>
 
 
@@ -91,8 +66,12 @@
 | Q3 | [Content Management System Sprint 0](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6071)   | Misty | COMPLETE |
 | Q3 | [Cancel Message Content Auidt**](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2172) |Stacy | Releasing August |
 | Q3| [SM Realignement with MHV](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4718) | Adam | Releasing August| 
-| Q3 | Pre-Needs Burial Claims Sprint 0  | Adam  | Presenting at future Sprint 0 |
-|Q3  [Appointment Refinement: Compensation & Pension](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725)  | Meko | 8/1 App release |
+| Q3 | Pre-Needs Burial Claims Sprint 0  | Adam  | Presented |
+| Q3 | [Appointment Refinement: Compensation & Pension](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4725)  | Meko | 8/1 App release |
+| Q3 | [Deeplinking](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6037) | Stacy | 2.10.11 RElease - Sept |
+| Q3 |[Appointment: List & Detail content alignment audit](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5136) | Meko | Readout completed | Aug '23 |
+| Q3| [Finding Medications-Comparitive Analysis](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/6041) | Meko/Lauren | Readout completed | | August '23| 
+|Q3 | [Android SSO Login Update / Custom Tabs](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5118) | Stacy | 2.11.0 Release Sept 2023 |
 </details>
 
 
@@ -100,6 +79,62 @@
 
 <details>
 <Summary>Historical Agendas and Meeting Notes </Summary>
+
+## 9/19/23 Agenda:
+
+## Agenda
+* **Q3 Projects in Progress**
+  * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+     * Removed the table of projects and status updates and moved them to epics on the Kanban board
+     * Able to search on the kanban board project status to see where its at (On Track, Potential Risk, At Risk)   
+  * Yellow projects / Potential Risk
+     * EVSS
+        *   Mobile waiting for fully EVSS transition; once its moved into production and stable then Mobile will switch over
+            * Disability ratings turned on to 100% but had to drop to 50% because of errors
+            * Overall Mobile transition to EVSS is less than 10 points - turn on / monitor the various areas    
+     * Check-In
+        *   No actions for mobile @ this time outside of staying up to date with External teams 
+        *     Conituned blockers from external teams
+        *   Planned Check-In release for today but put on hold because of bugs
+            * Kay working to prioritize the bugs
+        *   Staging tool still blocked as Shane is OOO
+        *   Rachel said she would like a retro with VAOS and Check-In on how we could have done better on this project
+        *   Discussion on prioritizing this project into Q4 given the dependencies
+           * Rachel agreed to the risk and talked about prioritizing work Mobile has more control / less dependencies on    
+
+ 
+* **Standing question for the POs (Adam)**
+  * Any new work we should be on the lookout for?
+     * MHV sign on is being decommissioned on 12/4
+     * Rachel and Ryan are the POs for the Veteran Status for both Mobile and Web  
+  * Any priority shifts or other updates?
+     * None
+  * Other topics
+     * Kelly brought up if there was any additional info on Epic 6721 - Rachel indicated she would know more about 6/21 meeting
+     * Q4 Planning
+        * Monday Kelly is working with POs on defining a list of possible projects; have a meeting planned next week to review with the team
+     * Custom Tab Andoid Login Issue - Rachel asked
+       * Ticket is pending handing to be sized [6736](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6736)
+       * Rachel said to work this bug through standard process when asked if we need to prioritize it in this sprint, Mobile will incorporate into next Sprint (81)
+         
+* **Sprint Planning (Adam)**
+   * No changes from a project standpoint per the POs
+   * Mobile teams to work on leveling out the capacity through standard Sprint Planning process 
+
+* **Monthly Mobile App Review Summary (Liz)**
+   * Liz posted findings in DSVA
+   * Liz asking how to best to use this information moving forward
+      * Rick and only source of sentimental satisfaction
+   * Group discussed adding some kind of feedback throughout the app's feature to learn more specifics
+      * Matt confirmed this is a Sprint 0 Submit Feedback back in April already completed in this ; work has not progressed from here
+      * Clarified this is not In-App recruitment as that focuses on helping Perigean improve their accuracy in selecting people who use the app for research
+   * Liz reviewed the App Store data in [Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/reporting/App-Stores-Reviews)
+   * Discussion on how to include this - maybe monthly dashboard , regular reviews
+   * Dicussion and agreed consensus that a data dictionary / readme would be helpful for people to use to read and understand the data vs making wrong intreprations
+    
+
+* **Action Items**
+
 
 ## 8/22/23 Agenda:
 * **Q3 Projects in Progress**

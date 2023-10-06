@@ -1,7 +1,7 @@
 
 # Feature Overview: Editing as a Sub-Task 
 
-**Last updated:** August 31, 2023 (added future opportunites to use this feature)
+**Last updated:** 9/1/23 (added links to Sketch)
 
 ## Table of Contents 
 
@@ -97,11 +97,13 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 ## Design & UX
 
-
+### Sketch files
+- [Mobile](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/06F02913-A0E1-4801-9D24-86E8DC71BB17/canvas)
+- [Desktop](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d)
 
 ### Flow diagrams
-
-
+- This user flow can be kicked off from anywhere on VA.gov
+- A visualization of the flow, once kicked off, will live on the [mobile page](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/06F02913-A0E1-4801-9D24-86E8DC71BB17/canvas) of our Sketch files (not yet created as of 9/1/23)
 
 
 

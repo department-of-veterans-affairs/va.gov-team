@@ -5,7 +5,7 @@ Sign in Service is a client authentication service that provides a highly reliab
 The current VA.gov authentication solution is cumbersome and opaque. It provides a less-than-ideal authentication for Veterans, while costing the VA significantly in operation costs. Additionally, it is difficult to understand issues when they do arise, and fixes may take weeks, or even months, to apply.
 The Sign in Service was created to solve these shortcomings, while adding numerous features. It was designed with the idea that Veteran authentication should be as secure and transparent as possible, leveraging modern design and code practices to allow for a service that can be future-facing and effective.
 ## Relevant Documents:
-(Sign in Service (SiS) Read.me) [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/readme.md]
+[Sign in Service (SiS) Read.me](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/readme.md)
 ## What's In Scope: 
 The main scope of Sign in Service is all external facing authentication.
 

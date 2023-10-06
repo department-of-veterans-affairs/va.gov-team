@@ -4,6 +4,11 @@ Veterans would benefit from an easy-to-access official Veteran ID card to use fo
 During work, it was identified that this does not necessarily need to be a card thus removed card from the original project name. 
 
 As a Veteran with internet connectivity and as an authenticated uesr, I can discover & view and use in my VA Flagship App a Veteran Status card. 
+
+Epics:
+   - MVP Epic [4270](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4270)
+   - [Post MVP Considerations](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6547) 
+
 ## Problem Statement
  
 When a Veteran calls a call center, the Veteran needs to go through a call tree, identify themselves, and start every conversation from scratch. Is there a way that the mobile app can reduce the burden on Veterans and improve their customer experience by passing some of this information to the call center?
@@ -13,9 +18,9 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 - MVP was modified after Sprint demo on 8/16 which include Mobile Team, Mobile Team PO, and VIC
    - Identified that photo needs to be removed
       - Rationale - concerns with photo being abused with unncessary pictures being uploaded
+   -  Per VA legal, only Title 38 Veterans are able to see this - thus Mobile must exclude Dishonorably Discharged Veterans (DD Veterans)
    - Other demo notes: 
-        - Need to consider handling of dishonorably discharged and their usage of this feature
-          - Raises a larger questions on how mobile app should handle app wide or at log in
+         - Raises a larger questions on how mobile app should handle app wide or at log in - later resolved ; only applies to this feature
          - Discover work will be added for most-mvp work 
           - There are discussions with the government on removing the photo as a requirement from VIC 
           - Need to enhance UX on when the information is incorrect 
@@ -80,11 +85,11 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
  
 ## Important Links
 - [PO Product Brief ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/VIC/MobileVIC_ProductBrief.md) - this has original info from when ask was replacing VIC; changed with the MVP May 2023 addition to Veteran Status 
-- See[ Sprint 0 doc](https://docs.google.com/document/d/1Rg8dUiw7MtGlpnS5ZwdJUgmBF8Moi2JFC-aEaH-NvrQ/edit)
+- See Sprint 0 Doc [VIC Sprint 0.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12499912/VIC.Sprint.0.pdf)
 - [Reddit Thread ](https://www.reddit.com/r/Veterans/comments/14gbu7g/would_people_actually_believe_this_if_i_presented/)- Would ppl actual believe this is I presented it to them for the sake of a discount 
 - [Law H.R.91 - Veterans Identification Card Act 2015](https://www.congress.gov/bill/114th-congress/house-bill/91)
 - [List of current approved forms of Veteran ID](https://www.va.gov/records/get-veteran-id-cards/)
-- [Product Canvas / Sprint Timeline](https://docs.google.com/presentation/d/1TlzLu1eYixyKLVZ5FeMbB3iJ_HSw0tsYr5gJWGzdstQ/edit)
+- [Veteran Status Mobile Plan 2023.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12499919/Veteran.Status.Plan.2023.pdf)
 - [Discovery Work / Review](https://www.figma.com/file/MxqpGSmpZrG5HlxB9wNoRP/%234270---Veteran-Status-Card?type=whiteboard&node-id=0-1&t=iOacE13OfKZ23BOR-0)
 - [UX Figma File with Mockups](https://www.figma.com/file/Wjq9DkQ3ulXlHhbMrpNHME/%F0%9F%94%8D-Profile-2.0---Working---VAMobile?type=design&node-id=1707-38955&mode=design&t=mFMFasHqvVWdXp9F-0)
 
@@ -97,7 +102,7 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 
 |Prioirty # |Idea  | Rationale | Owner |Status|
 |-------|-------|-------|-------|-------|
-|1|Photo of the user's choice| Reddit feedback (stolen valor) and research on accepting ids for military discount indicate photo is needed. If no photo it may not be accepted or Veteran will need to pull out another photo id to verify |Binny |Reviewed and coded |
+|1|Photo of the user's choice| Reddit feedback (stolen valor) and research on accepting ids for military discount indicate photo is needed. If no photo it may not be accepted or Veteran will need to pull out another photo id to verify. Identified during demo 8/16 that photo to be removed; VIC is once again asking for photo to be removed from VIC regulations; additionally some conncers (minor / accepted) about lewd photos being used |Binny |Reviewed and coded |
 |2|Number of years served| Original ask, but not something we get via APIs so FE would need to calculate. During discussions with PO identified this may not be critical as we could not find data indicating this is needed for a discount|Binny | Not reviewed |
 |3|Export / Print card| Enables ability to access this offline or share the card with a spouse to get the discount when they are not together |Binny / Binny | UX reviewed|
 |4|Unauthenticated experience / access| Ability to access this featurew without having to go through the login hurdles (if they can get through) and get to the card |Brea | Not Reviewed|
@@ -105,6 +110,7 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
 |6|New component| Identified that mobile may need a new component to best facilitate this project which could also includ typography. End of project identified the typography needed but that will be picked up in Personalization project and not in this one |Brea|Not Reviewed|
 |7|VIC blurb regarding how to use it | Provide the Veteran with an understanding on what this is and how to us it. PO deemed not necessary as of now. Has not come up in the 2 reviews as of 8/2 |Adam | Reviewed|
 |8|Integration with VIC | Thought is just to implement an existing digital VIC card vs creating something new. Project was original a digital VIC but was later deemed to facilitate the benefits of VIC but not be VIC. Understanding what integration was not feasible at this time. Ceating a ‘competitor’ to the VIC could anger certain stakeholders. Need to ensure creating an ID card that is not technically the VIC does not interfere with the VIC law. Surfacing current VIC may not be technically possible and the owning group may not have interest in working with us |PO deemed not feasible | Closed|
+|9 |Upon review of card information, sees info on how to revise data if needed | PO identified it can be a post mvp consideration |
 
 
 ### In Scope
@@ -114,9 +120,8 @@ When a Veteran calls a call center, the Veteran needs to go through a call tree,
  - VA Logo
  - Brand of Military
  - Dates of service ((If there were multiple service periods, choose status quo of current experience in mobile/web/va-profile))
- - Upon review of card information, sees info on how to revise data if needed
-- VA can add info to this card in the future if a veteran becomes eligible to access x benefit (e.g. health service)
-- No enrollment; has immmediate success 
+ - No enrollment; has immmediate success
+ - Exclusion of Dishonorably Discharged Veterans (added 8/18 per VA Legal)
 
 ### Risks and Assumptions 
  - Ceating a ‘competitor’ to the VIC could anger certain stakeholders (?)

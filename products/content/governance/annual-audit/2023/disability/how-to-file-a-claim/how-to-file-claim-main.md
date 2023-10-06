@@ -40,7 +40,7 @@ H3: You can also file for disability compensation in any of these ways
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 8.3
-- After edits: tk
+- After edits: 8.3
 
 - [ ] Backlog ticket for further review created if needed
 

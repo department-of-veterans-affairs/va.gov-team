@@ -1,5 +1,96 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 16
+Period - 10/11/2023 - 10/24/2023
+### Sprint goals 
+- **Expedited**
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+        - ITF
+            - [ ] Continue staggered release - timeboxed tickets to monitor the release and fix issues as they occur
+        - Rated Disabilities
+            - [ ] Continue staggered release - timeboxed tickets to monitor the release and fix issues as they occur
+        - Submit
+          - Dashboard for migration release monitoring
+              - [ ] Build DD Dashboard widgets for monitoring sidekiq jobs
+         - **If unblocked**
+            - [ ] Submit error fixes
+        - Benefits Claims Service
+            - [ ] Canary launch?
+            - [ ] Start staggered release at .1%
+       - PPIU - Direct Debit 
+            - [ ] Release plan ticket? 
+- **Features**
+   - 526ez current with paper form
+      - [ ] Toxic Exposure screens - Design updates based on UX research and recommendations
+      - [ ] Toxic Exposure screens - Discovery for work breakdown - Frontend engineering
+      - [ ] Toxic Exposure screens - Page migration - Frontend engineering
+
+- **Stretch Goals**
+- [ ] Design for Wireframes for new military service questions
+
+## Sprint 15
+Period - 09/27/2023 - 10/10/2023
+### Sprint goals 
+- **Expedited**
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+        - ITF
+            - [ ] Move to 100% traffic 10/2/23
+        - Rated Disabilities
+            - [ ] enable 1% traffic            
+       - PPIU - Direct Debit 
+            - [ ] Start migration of PPIU endpoint - started last sprint
+- **Features**
+   - 526ez current with paper form
+      - [ ] Toxic Exposure data mapping discovery 
+      - [ ] Toxic Exposure screens - Discovery for work breakdown - Frontend engineering
+      - [ ] Intro page changes - Discovery for work breakdown - Frontend engineering
+      - [ ] Intro pages change revised designs
+    
+ - **Other**
+      - [ ] Teams 1 & 2 research effort - review medallia survey data
+
+- **Stretch Goals**
+    - [ ] Benefits Claims Release planning
+
+  If there is capacity, pick up:
+  - [ ] Submit Dashboard - monitor sidekiq jobs
+  - [ ] Submit Dashboard - monitor controller activities
+
+## Sprint 14
+Period - 09/13/2023 - 9/26/2023
+### Sprint goals 
+- **Expedited**
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+        - ITF
+            - [x] Continue staggered release - 25%
+            - [ ] Continue staggered release - 50%  - holding off closing at 50% until after 9/30 PACT Act deadline
+        - Rated Disabilities
+            - [x] Start canary launch
+            - [ ] Start staggered release for .1% requests - timeboxed tickets to monitor the release and fix issues as they occur - holding until after 9/30 PACT Act deadline
+        - Submit 
+            - [ ] Monitoring for migration release
+               - [x] Identify controller activities and sidekiq jobs for monitoring
+        - Benefits Claims Service 
+            - [ ] Transform service
+               - [x] Implement call to BenefitsClaims service to submit the 526 to Lighthouse
+               - [ ] Release plan - did not get to
+       - PPIU - Direct Debit 
+            - [ ] Start migration of PPIU endpoint -carrying over to next sprint
+- **Features**
+   - 526ez current with paper form
+      - [x] Toxic Exposure screens - Research Synthesis and Report
+      - [x] Toxic Exposure screens - updated designs
+      - [ ] Intro pages change revised designs - in progress
+- **Other**  
+ - Ongoing improvements:
+      - [x] Sync sort order of Conditions and Disabilities across different pages in 526
+      - [x] Update design components to align with design system
+      - [x] Additional file upload content update
+
+
 ## Sprint 13
 Period - 08/30/2023 - 9/12/2023
 ### Sprint goals 

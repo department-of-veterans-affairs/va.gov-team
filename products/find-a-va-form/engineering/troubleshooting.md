@@ -21,13 +21,15 @@ If vets-api latency is not an issue, the issue may be due to data import from CM
 You can reach the Lighthouse Forms team in #va-forms in DSVA slack. @ Kristen Brown and Matt Kelly who can confirm the Sidekiq job is running correctly and can inspect logs or rerun the job. 
 
 ### Request API limit increase
-If 429 errors occur in Datadog or Sentry, this indicates that traffic is high and we are being throttled by an API rate limit / requests are being rejected. We can request API limit increases for specific endpoints, and the Lighthouse Forms team can help expedite approvals. to do this:
+If 429 errors occur in Datadog or Sentry, this indicates that traffic is high and we are being throttled by an API rate limit / requests are being rejected. We can request API limit increases for specific endpoints, and the Lighthouse Forms team can help expedite approvals. **NOTE: Our API KEY IS SHARED.** Rate limit changes will affect all users of the API key, across used APIs. (Slightly more info on shared key [in Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/engineering.md#api-userkey);  [background in Slack](https://dsva.slack.com/archives/CUB5X5MGF/p1695666665300929).)
+
+To request a rate limit increase:
 1. Ping #va-forms in DSVA slack, and explain the issue / what you're seeing to the Lighthouse Forms team.
 2. LH Forms can provide specifics on what endpoint will need to be increased for limit, and what the current limit is. They can also help suggest the new limit. If you already know this info, skip to 3.
 3. Visit https://developer.va.gov/support/contact-us. Fill out the form with endpoint, limit, and limit increase information/
 4. Share with #va-forms that request is made. Lighthouse team can then help expedite approval.
 
-Typically, we may want to reduce the limit again after traffic spikes end. If that's true, create a ticket to track requesting the lower limit. 
+Typically, we may want to reduce the limit again after traffic spikes end. If that's true, create a ticket to track requesting the lower limit. **Be sure that rate limit changes should not affect other teams using the shared API key.**
 
 --- 
 ## Symptom: Reports of Bad PDF link emails

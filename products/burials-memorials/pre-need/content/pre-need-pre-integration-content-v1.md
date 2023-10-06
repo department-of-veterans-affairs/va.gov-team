@@ -1,9 +1,9 @@
- # VA Form 40-10007: Apply for pre-need eligibility determination - Content Document
+# VA Form 40-10007: Apply for pre-need eligibility determination - Content Document
 
 Tablet/Desktop breadcrumb:
 [Home](https://www.va.gov/) > [Burials and memorials](https://www.va.gov/burials-memorials/) > [Pre-need burial eligibility](https://www.va.gov/burials-memorials/pre-need-eligibility/) > Apply for pre-need eligibility determination  
 
-Mobile breadcrumb:  
+Mobile Breadcrumb:  
 < [Pre-need burial eligibility](https://www.va.gov/burials-memorials/pre-need-eligibility/)
 
 # Form title: Apply for pre-need eligibility determination {h1}

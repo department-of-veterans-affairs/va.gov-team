@@ -3,10 +3,8 @@
 
 The VA.gov family member benefit hub has served as a front door to core benefit information for family members since the 2018 VA.gov redesign. But the deeper benefit information lives scattered amongst the benefit hubs. Research shows that family members are going to the hub for their information and communication efforts across VA are aiming to bring family member information (and specifically survivor information) together to help make it easier for family members to understand and access their benefits.
 
-We're working to bring all family member core benefit content into the family member hub to full streamline and consolidate the benefit experience for this critical audience.
-
 **Goals:**
-- This effort to create a single location for family member benefits will make it easier for family members to find, understand, and use information about their benefits. By pulling family member benefits out of the Veteran benefit hubs, this effort will also help to streamline the Veteran benefit experience and reduce the cognitive burden of links and content in those hubs.
+- This effort is to create a single location for family member benefits that will make it easier for family members to find, understand, and use their benefits. By pulling family member benefits out of the Veteran benefit hubs, this effort will also help to streamline the Veteran benefit experience and reduce the cognitive burden of links and content in those hubs.
 
 
 **Product(s) impacted**
@@ -58,20 +56,12 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 ### Key Performance Indicators (KPIs)
 
-- Same or increased traffic to key family member pages
-- same or increased task completion
-- Performs better than baseline
-- Not detrimenting findability of Veteran content due to similar family member content (i.e. same benefit has content in Veteran hub and family hub)
-- Decreased calls from family members and caregivers
-- VA.gov overall satisfaction - can we even get to this for a specific audience
-- VA.gov experience rating
-- 
-| Product KPI | Baseline as of **DATE** | Target | Link to data source (e.g. GA, Domo) |
-| ----------- |  ----------- |  ----------- |  ----------- | 
-| |   |   |   | 
-| |   |   |   | 
-| |   |   |   | 
-| |   |   |   | 
+- Increased traffic to the family member hub
+  - Baseline: 240,415 avg views/month as of 8/16/23 
+- Same or increased traffic to key family member pages moved from Veteran benefit hubs to the family member hu
+- No detriment to SEO of Veteran content due to similar family member content (i.e. same benefit has content in Veteran hub and family hub)
+- Improved overall satisfaction rating in the feedback survey of the family member hub page
+
 
 
 ---
@@ -98,17 +88,45 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 ### Solution Scope
 
 **In Scope**
-- Moving Drupal content pages from Veteran benefit hub to family member hub and implementing URL changes
-- Moving applications from Veteran benefit hubs to family member hub and implementing URL changes
-- Moving pages and segments of content to Resources and support
+- Moving explore and apply content pages ("get" spoke content) from Veteran benefit hubs to the family member hub and implementing URL changes and redirects
+- Moving pages and segments of pages from benefit hubs into Resources and support and implementing redirects as needed
+- Improving crosslinking from Veteran benefit hubs and resources and support to the family member and caregiver hub
+- UX and technical updates to Resources and support to support the additional content for a new audience
 
 **Not In Scope**
+- We do not intend to move content, forms, or tools that are part of the "Manage" spoke of the hubs.  Those features will remain where they are for at least the initial iteration, and the family member hub will crosslink to them.
 
+  
 ## Approach
 
+1. Review and synthesis of existing research and data
+2. Design new IA
+3. Research with family members and caregivers
+4. Create content
+5. Implement structure
 
 
----
+## Product/Project impacts
+
+This work will have at least some impact to the following products and work efforts.  Continuous communication and collaboration with these teams will be established. 
+
+Benefit hub templates
+- Primary contact(s): Danielle Thierry, Erika Washburn, Mikki Northuis
+- Some changes to the existing benefit hub template have been proposed to better highlight key capabilities (i.e. apply now)
+
+Optimizing benefit hubs
+- Primary contact(s): Danielle Thierry, Mikki Northuis
+- Overview: This project is aimed at streamlining Veteran benefit hub content by implementing the content placement criteria.  This will lead to moving a lot of content from the hubs into Resources and support. 
+
+Resources and support
+- Primary contact(s): Dave Conlon
+- Overview:  This product may need some technical and UX changes to acommodate the increase of content, specifically around a new audience type. There currently is not team actively working on this product.
+
+Service member hub
+- Primary contact(s): Danielle Therry, Mikki Northuis
+- Overview:  There is work planned to look at enhancing the exsiting service member benefit hub.  The family hub work may help to inform the service member hub work.
+
+
    
 ## Screenshots
 
@@ -135,20 +153,24 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 ---
 
-#### Communications
+## Communications
 
-- Team Name: Discovery - OCTO Content and IA; Implementation - Sitewide CAIA
-- GitHub Label(s): sitewide CAIA
+### Team
+
+- Team Name: OCTO Content and IA (Discovery work); Sitewide CAIA (Implementation)
+- GitHub Label(s): sitewide CAIA, Sitewide IA
 - Slack channel: #sitewide-content-accessibility-ia
 - Product POCs:
   - OCTO Content Strategy: Danielle Thierry 
   - OCTO Information Architecture: Mikki Northuis
 
 
-#### Stakeholders
+### Stakeholders
   
 - All program offices that have family member or caregiver benefits
 
+
+### Communication plan
 
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\

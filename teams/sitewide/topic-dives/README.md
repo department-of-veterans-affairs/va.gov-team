@@ -17,9 +17,12 @@ Please add any potential future topics you would like covered below:
 
 ## Topic Dives
 
-### 8/28/23 - NGrok
+### - NGrok
 - @dsasser
 
+### 10/16/23 - Datadog!
+- Chris Kim & Eli Selkin
+- Datadog is a monitoring tool now available to VFS teams. Recently, Chris & Eli configured monitors and synthetic tests for Public Websites and Facilities use cases, and will share learnings.
 
 ### 6/12/23 - Cerner/KISS
 - Ryan Koch
@@ -75,4 +78,70 @@ Please add any potential future topics you would like covered below:
 - Tim Cosgrove
 - [Next-build overview and roadmap video](https://drive.google.com/file/d/18RxKVLKSWoWLH9KcaHF3PcL00huHkaHx/view)
 - [Next-build overview and roadmap slides](https://docs.google.com/presentation/d/1QslO0qdxQm2QFczE0dxKrwCMFjqlRh-_z2xnc5eK83U)
+
+### 07/28/22 - CMS Content Model
+- Lynn Stahl
+- [CMS Content Model video](https://youtu.be/4-EJazw8J_M)
+
+### 6/27/2022 - Mailhog [testing emails locally and on tugboat]
+- Tanner Heffner
+- [Mailhog video](https://youtu.be/cYZgQDf5kdQ)
+
+### 6/13/2022 - Anatomy of a hook_update_n (deploying non-config changes programmatically)
+- Steve Wirt
+- [Anatomy of a hook_update_n video](https://civicactions.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=obwN-SIhCxUp92Q-scehC4nZcqhoV9yQM_XW-ZeqKlt2YNFZt0aTUEe5TCwj4_C-._Kj0gxOMV53_KAVF&originRequestUrl=https%3A%2F%2Fcivicactions.zoom.us%2Frec%2Fshare%2FepwSm0AWFw5zOwKctfIixJT4pXmc-fdIFQd5SczAuNgzV01ShR0gbDWQxPOG_Z0K.idZ5fcrFuNLYOZqZ) passcode %6RrB6uk
+- [Anatomy of a hook_update_n slides](https://docs.google.com/presentation/d/1TRRr5diCno_5HPZ6kBJvsKcg92orbS3jL3c-KOG4wws)
+
+### 4/8/2022 - Spec Tool 1.0
+- Lynn Stahl
+- [Spec Tool 1.0 video](https://youtu.be/keAtfGm8a8U)
+
+### 1/27/2022 - Auto compiling theme assets
+- Tanner Heffner
+- [Auto compling theme assets video](TBD)
+
+### 1/20/2022 - Grafana/Datadog/Sentry
+- Neil Hastings
+- [Grafana/Datadog/Sentry video](TBD)
+
+### 1/6/2022 - Preview button, content release and FE page links
+- Steve Wirt
+- [Preview button, content release and FE page links video](TBD)
+- [CMS Content Workflow Readme](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/cms-content-workflow.md)
+
+### 1/4/2022 - Sections taxonomy and governance
+- Kevin Walsh
+- [Sections taxonomy and governance video](https://youtu.be/dMZm0aeWOp0)
+
+### 10/5/22 - Sections: technical detail for managing
+- Steve Wirt
+- [Sections: technical detail for managing video](TBD)
+
+### 12/21/21 - VA Forms Content Flow
+- Steve Wirt
+- [VA Forms Content Flow video](TBD)
+
+### 12/16/21 - Facility API Push Pull
+- Steve Wirt
+- [Facility API Push Pull video](TBD)
+
+### 12/14/21 - Flow of CMS release and deploy
+- Eric Oliver
+- [Flow of CMS release and deploy video](TBD)
+
+### 12/9/21 - CMS SiteAlerts (shields/notifications)
+- Steve Wirt
+- [CMS SiteAlerts video](TBD)
+
+### 12/7/21 - User Perms Service
+- Ethan Teague
+- [User Perms Service video](TBD)
+
+### 12/2/2021 - Centralized Content
+- Steve Wirt
+- [Centralized Content video](https://www.youtube.com/watch?v=uLUXpbc1DhM)
+
+### 11/30/21 - Broken Links
+- Steve Wirt
+- [Broken Links video](TBD)
   

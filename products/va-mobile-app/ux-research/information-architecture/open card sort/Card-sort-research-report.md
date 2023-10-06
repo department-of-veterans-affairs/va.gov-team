@@ -359,15 +359,15 @@ While we have quality findings and have derived insights to inform decisions aro
 
 ### Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Card-Sort-Research-Plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Conversation-guide.md)
 
 [Interview notes](https://docs.google.com/spreadsheets/d/1gRq4CRESxOhvLCaIderDtCJJtRToy_e214svIGkh5Uw/edit?usp=sharing)
 
-[Card List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Card-sort-card-list.md)
+[Card List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-card-list.md)
 
-Tools used for Synthesis \
+Tools used for Synthesis
 [Mural board](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1634908357710?sender=uff1791dd79ec763420518644&key=2c0c4315-3e3d-46e4-9491-cd937b3f4b59)
 
 [Prototype](https://balsamiq.cloud/s4uw4la/pnnwuqv/r2278?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D)

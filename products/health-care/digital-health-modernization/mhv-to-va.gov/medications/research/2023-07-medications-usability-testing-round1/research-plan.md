@@ -75,7 +75,7 @@ Data collection will be remote. We will use Zoom.
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-07-medications-usability-testing-round1/conversation-guide.md)
 - [Link to mobile prototype](https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/prototype/a/50FD99BB-073F-4646-9059-1F92148A677B)
-- [Link to desktop prorotype](https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/prototype/a/DA32A60E-E74E-4B92-B72E-F189E136F104)
+- [Link to desktop prototype](https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/prototype/a/DA32A60E-E74E-4B92-B72E-F189E136F104)
 
 ## **Recruitment**
 

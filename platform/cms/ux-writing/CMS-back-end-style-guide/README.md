@@ -7,7 +7,7 @@ You might write a button label, some help text, or even a Knowledge Base article
 There’s a lot this guide won’t cover, especially when it comes to more general determinations about style. When encountering a topic not covered here, first follow the VA.gov content style and then fall back on AP style.
 
 **For issues not covered in this guide, default to following:**
-1. [VA.gov content style guide](https://design.va.gov/content-style-guide/index) (front-end style guide)
+1. [VA.gov content style guide](https://design.va.gov/content-style-guide/) (front-end style guide)
 2. AP style
 
 ## Index

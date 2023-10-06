@@ -1,14 +1,15 @@
 # VA Mobile App - Personalization - UX Discovery
-Last updated Aug 2023
 
-### Personalization 2023
+### Personalization (2023-present)
 - [Personalized Data - Discovery & Classification (Figjam)](https://www.figma.com/file/NHnXpvkhBeqvUQ6LIqMGqd/Personalized-Data---Discovery-%26-Classification--VA-Mobile?type=whiteboard&node-id=0%3A1&t=2kSgg4tKMXHSSrVZ-1)
+     * Documents existing mobile app + MyVA data, as well as UX team data concepts. Includes cross-funcitonal impact v effort exercise.
+
 #### Desk Research
 * [VA Mobile Comparative Analysis: Personalized Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
     * Comparative analysis re-examining apps originally included in the earlier Comparative Analysis of Navigation UI Patterns work, this time with a lens examining how apps treat personalized content on their home screens.
    
       
-### Personalization 2022 (May-Jun 2022)
+### Personalization (May-Jun 2022)
   * [UX Discovery Questions: VA App Personalization](https://docs.google.com/document/d/1eB8t02SWEjpiAmoSN_WuRqWYBjS_j-V2/edit)
 
 #### Desk Research
@@ -17,7 +18,7 @@ Last updated Aug 2023
     - [Presentation deck](https://docs.google.com/presentation/d/1J10VcE7PGN9emVT1vtqO4-5XRYc3Jycm5zJ4QJnc19g/edit) | [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/Review%20of%20User%20Research_%20VA%20Mobile%20App%20Personalization%20(Jul%202022).pdf)
 
 #### Concept development
-* [Personalized homescreen: High-level UI wireframes](https://balsamiq.cloud/s4uw4la/pa3zodh/rD7BD)
+* [Personalized homescreen: High-level display logic wireframe explorations](https://balsamiq.cloud/s4uw4la/pa3zodh/rD7BD)
 
 
 ### Earlier exploratory activities (Nov 2021 - Jan 2022) 
@@ -30,7 +31,7 @@ Last updated Aug 2023
   * [VA Mobile Personalization Brainstorm Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-team-brainstorm.md) 
       * Cross-functional brainstorm activity based on [MyVA Redesign research insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-research-review-myva-homepage.md); attended by UX, stakeholders, product, and engineering.  
       * [Impact vs effort on brainstormed concepts](https://docs.google.com/document/d/1dbTZ6HVv5f_R85isIp8XViP4F9yOjnXlcpGD_Ywklk8/edit?usp=drive_link)
-  * [Wireframes - round 1 (Balsamiq)](https://balsamiq.cloud/s4uw4la/pnnwuqv)
+  * [Wireframes - round 1 (Balsamiq)](https://balsamiq.cloud/s4uw4la/pnnwuqv/r76E2)
          * Low-fidelity wireframes the UX team created to explore different concepts of personalization.
      * [Wireframes - round 1 - Team feedback (Mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1639607816698/a3e769fba23b3795d7da80b658f8767dce074b12?sender=u8b3dad1075e36fc8c0246487)  
       * [Wireframes - round 1 - Team feedback summary (GDoc)](https://docs.google.com/document/d/1k58jV5M0MCQ3brhgQ_uYXesszfWn7ovz6BZzsp5UK58/edit)  

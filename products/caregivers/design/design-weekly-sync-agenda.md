@@ -1,5 +1,54 @@
 # Design Weekly Sync Agenda
 
+
+## 2023-10-02
+
+Attendees: DK, Katelyn, Jessica, Kristen
+
+- EZR - insurance section to match ez regarding headlines (h3-ish). We won't introduce new field set legends for mvp.
+- EZR Research Planning - started talking about research goals and who to recruit. Looking towards 2 cohorts with different disability ratings, those over 50% and those under 10%. Talked about starting the convo guide at VA.gov and not on the form intro page so we can learn more about the wayfinding side of it and if there is confusion between the static and intro pages
+- Registration Research Synthesis - went over Mural board and first draft of key findings; going to add in more details and examples around some of the findings like the learning curve, burden of proof and the benefits overlap from the Veteran's perspective. More chats to come on recommendations and next steps
+
+
+## 2023-09-18
+
+Attendees: DK, Katelyn, Jessica, Hieu
+
+Mostly a working session on EZR screens.
+
+## 2023-09-11
+
+Attendees: DK, Katelyn, Jessica, Hieu
+
+Mostly a working session on EZR screens.
+
+## 2023-09-05
+
+Mostly a working session on EZR screens.
+
+## 2023-08-28
+
+Attendees: DK, Katelyn, Jessica, Hieu, Kristen
+
+A few quick notes from the session, which was mostly about the EZR work:
+
+- Decision: Show statuses on first page and every section.
+- Need to check with engineers about save data to PDF form.
+- In aggreenent to ditch the stepper if possible.
+- [Post MVP Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1693945362104/f2d83704cf9de28206d5cb28e1b188a3f87b96e9?sender=ubf5503bf47b6eb1e92730053) to track future enhancements.
+
+## 2023-08-21
+
+Attendees: DK, Katelyn, Hieu, Kristen, Alex
+
+A few quick notes from the session, which was mostly about the EZR work:
+
+- We probably don't need the stepper on the form intro page. Check with Matt L. on nixing it.
+- Work on next appointment language could be helpful. Check with that team.
+- Check on application vs. form language with content.
+- What happens when people with account go into form, but aren't enrolled and can't apply? We need an alert for this.
+- Need a ticket for error messages. Look at the EZ for inspiration here.
+
 ## 2023-08-14
 
 Attendees: DK, Katelyn, Hieu, Kristen, Emily, Alex

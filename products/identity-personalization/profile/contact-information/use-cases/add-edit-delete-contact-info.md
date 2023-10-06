@@ -1,5 +1,5 @@
 # Contact information: User needs to add or update contact information
-Last updated: Feb 9, 2023
+**Last updated:** September 7, 2023
 
 - If a user doesn’t have contact information on file, they’ll see a prompt to add missing information within the relevant section.  
 - They can use the “Edit” button to add or update their contact information in edit mode. This applies to:
@@ -13,14 +13,14 @@ Last updated: Feb 9, 2023
 
 ## UX
 ### Adding information
-- For each section, the user will see the name of the section and prompt that tells them they can edit their profile to add [section information].
+- For each section with a `null` value, the user will see the name of the section and prompt that tells them they can edit their profile to add [section information].
 - Clicking the edit button will put the section into edit mode and reveal the necessary fields.
-- Review mobile phone in [this mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/DPJ0VJJ) to see prompt to add missing information
+- Review the work phone section in [this mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/098x48j) to see prompt to add missing information
 
 ### Editing information
 Clicking the edit button will put the section into edit mode and reveal the necessary fields.
 - [Desktop mock-up, edit mode](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/jgJoPJW)
-- [Mobile mock-up, editing](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/l14rQ4v)
+- [Mobile mock-up, editing example](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/l14rQ4v)
 
 ### Saving information
 - Changes are saved once the user presses the “update” button
@@ -30,7 +30,7 @@ Clicking the edit button will put the section into edit mode and reveal the nece
 
 ### Save error: information can’t be saved
 * If we can’t write to the backend for any reason, a generic error message is displayed above the update button. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/kavrLvD))
-* If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/Omrvwym))
+* If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/EL7DyKd))
 
 ### Removing information
 - Clicking the remove button will trigger a modal prompting the user to confirm they want to remove their information

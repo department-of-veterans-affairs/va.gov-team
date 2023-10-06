@@ -302,7 +302,7 @@ Form title: NEW APPOINTMENT
 **PAGE HEADER**
 
 ```
-Confirm your contact information
+How should we contact you?
 ```
 
 **PAGE CONTENT**
@@ -315,13 +315,21 @@ Want to update your contact information for more VA benefits and services?
 
 Your phone number (*Required)
 {Input field}
+```
 
-What are the best times for us to call you? (*Required)
-{Checkbox} Morning (8:00 a.m. - noon)
-{Checkbox} Afternoon (noon - 4:00 p.m.)
-{Checkbox} Evening (4:00 p.m. - 8:00 p.m.)
+```diff 
+
+- What are the best times for us to call you? (*Required)
+- {Checkbox} Morning (8:00 a.m. - noon)
+- {Checkbox} Afternoon (noon - 4:00 p.m.)
+- {Checkbox} Evening (4:00 p.m. - 8:00 p.m.)
 
 
+@@ GH50990 @@
+
+```
+
+```
 Your email address (*Required)
 {Input field)
 ```
@@ -416,7 +424,15 @@ Prefers provider to speak {Language}
 Your contact details         {link}Edit
 {email address}
 {phone number}
-Call {morning, afternoon, evening}
+
+```
+
+``` diff
+
+- Call {morning, afternoon, evening}
+
+@@ GH50990 @@
+
 ```
 
 **PROGRESS BUTTONS**

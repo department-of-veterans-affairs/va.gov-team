@@ -1,5 +1,5 @@
 # CIE Accounts
-Accounts realted to the VA check-in experience.
+Accounts related to the VA check-in experience.
 For full list of team memebers see [team readme](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin#team-members).
 ## vets-website github (not within ATO boundry)
 The frontend for the patient check-in application and pre-check-in application is located at src/applications/check-in.

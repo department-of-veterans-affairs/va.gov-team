@@ -117,24 +117,23 @@ Gather feedback surrounding the relevance of usability of proposed enhancements
 
 **Context and Expectation-Setting Enhancements**
 
-- We believe Veterans will prefer the revised instructional pages in comparison
-to the existing instructional pages.
-- We believe there may be a desire for additional benefits and decision review
-information not currently provided in instructional pages that Veterans do not
-know where to find.
+- We believe that Veterans have inconsistent and incomplete knowledge of decision review pathways prior to pursuing a specific pathway.
+- We believe there is value in providing additional context around decision pathways at the start of the appeals process.
+- We believe the revised instructional page will help facilitate the validation of the selected decision review pathway.
 
 **Issue Selection and Disagreement Enhancements**
 
-- We believe there may be limited benefit to providing access to decision
-letters. Veterans may not know where to locate information surrounding specific
-contention decisions.
+- We believe that not all Veterans know they are able to access decision letters through va.gov.
+- Veterans may need help locating information surrounding specific
+contention decisions within their decision letters.
 - We believe that Veterans will be able to identify where to provide additional
 information about their appeal and differentiate those fields from fields
-relating to reason for disagreement
+relating to reason for disagreement.
 
 **Navigational and Task Flow Enhancements**
 
-- We believe Veterans will prefer the updated navigation and review pages.
+- We believe Veterans will find the enhanced navigation comprehensible and usable.
+- We believe Veterans will find the enhanced review page to be comprehensible and usable.
 
 ## Methodology
 

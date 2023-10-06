@@ -65,8 +65,8 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 ### ACR Translator
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Invalid ACR for `<csp>`** | The `acr` param is invalid for the CSP type  | Make sure `acr` param is [properly formatted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/11159e3a0730f5fbbb9603ad54126554e1ca8a26/products/identity/Sign-In%20Service/Sign-in-service_Web-OAuth.md#parameters), try again |
-| 400 | **InvalidType value** | The `type` param is invalid | Make sure `type` param is [properly formatted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/11159e3a0730f5fbbb9603ad54126554e1ca8a26/products/identity/Sign-In%20Service/Sign-in-service_Web-OAuth.md#parameters), try again |
+| 400 | **Invalid ACR for `<csp>`** | The `acr` param is invalid for the CSP type  | Make sure `acr` param is [properly formatted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/11159e3a0730f5fbbb9603ad54126554e1ca8a26/products/identity/Sign-In%20Service/auth_flows/web_oauth.md#parameters), try again |
+| 400 | **InvalidType value** | The `type` param is invalid | Make sure `type` param is [properly formatted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/11159e3a0730f5fbbb9603ad54126554e1ca8a26/products/identity/Sign-In%20Service/auth_flows/web_oauth.md#parameters), try again |
 
 ### Credential Info Creator
 | Status Code | Error | Description | Fix |
@@ -109,7 +109,7 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
 | 400 | **Attributes are not valid** | One or more attributes for the `/authorize` call are invalid | Review the [/authorize](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md) endpoint parameters, try again |
-| 400 | **Code Challenge is not valid** | `code_challenge` param is invalid | Make sure `code_challenge` param is [properly formatted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/11159e3a0730f5fbbb9603ad54126554e1ca8a26/products/identity/Sign-In%20Service/Sign-in-service_Web-OAuth.md#parameters), try again |
+| 400 | **Code Challenge is not valid** | `code_challenge` param is invalid | Make sure `code_challenge` param is [properly formatted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/11159e3a0730f5fbbb9603ad54126554e1ca8a26/products/identity/Sign-In%20Service/auth_flows/web_oauth.md#parameters), try again |
 | 400 | **Code Challenge Method is not valid** | `code_challenge_method` is invalid | `code_challenge_method` must be `S256` |
 
 ### State Payload JWT Decoder

@@ -1,6 +1,19 @@
 # Product Outline: Authenticated Menu
 
-**Last Updated: 7/26/2023**
+**Last Updated: October 4, 2023 -- updated launch date for dependents/letters**
+
+### Table of Contents
+
+- [Communications](#communications)
+- [Roles](#roles)
+- [Overview](#overview)
+- [User problem statement](#user-problem-statement)
+- [User Outcomes](#user-outcomes)
+- [Business Outcomes](#business-outcomes)
+- [Analytics](#analytics)
+- [Design](#design)
+- [Frontend](#frontend)
+
 
 ### Communications
 
@@ -13,20 +26,11 @@
 
 [This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
-### Table of Contents
-
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [User Outcomes](#user-outcomes)
-- [Business Outcomes](#business-outcomes)
-- [Analytics](#analytics)
-- [Design](#design)
-- [Frontend](#frontend)
 
 ## Overview
 When logged in, a menu labeled with the user's name appears in the upper-right corner of the screen. This authenticated menu links to three personalized spaces -- My VA, the VA.gov profile, and the MHV landing page. In the 5+ years this menu has been live on VA.gov, we've done very little in the way of exploring how it could better support users.
 
-## Problem statement
+## User problem statement
 
 VA.gov has historically prioritized the unauthenticated experience in its navigation. As a result, users tend to be overly reliant on the homepage and My VA for navigating to personalized tools.
 
@@ -56,13 +60,14 @@ VA.gov has historically prioritized the unauthenticated experience in its naviga
 
 ## Analytics
 
-- TBD where we get analytics on this menu
+- [Domo](https://va-gov.domo.com/page/1834995012?userId=66061986)
+- [GA Dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/jTwco5hFRBmuXcjZN9YSPA/a50123418w177519031p176188361/_u.date00=20230806&_u.date01=20230814/)
 
 ## Projects
 
 |Project/Inititive|Epic|Launch date|
 |---|---|---|
-|Add Letters and Dependents links ([project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter))|[EPIC \| Profile \| Authenticated Menu Modification#62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)| In progress|
+|Add Letters and Dependents links ([project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter))|[EPIC \| Profile \| Authenticated Menu Modification#62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)| Launched October 4, 2023|
 
 ## Design
 

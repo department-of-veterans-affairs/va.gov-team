@@ -7,6 +7,8 @@ The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3
 
 How might we help Veterans or Veterans' representatives (family member, caregiver, other) easily understand if the PACT Act applies to them?
 
+In the future, we intend to explore the potential of further expanding this tool (or one like it) to survivors and to more toxic exposures not covered by the PACT Act.
+
 ## Desired User Outcomes
 
 - As a Veteran, I want to know whether the PACT Act changes apply to me and affect my VA benefits so that, if appropriate, I can apply to receive these increased or new benefits for which I may now be eligible.
@@ -80,6 +82,7 @@ We are going to build a wizard (based on the Subtask pattern) that focuses on PA
 
 ### How we are approaching the solution
 - [PACT Act wizard (content and branching) MURAL version v.0](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1686687282873?sender=uf8ddb00f0c9a241ee4573555&key=51afbaca-4131-4828-a3c3-eced5a256061)
+- [PACT Act Wizard branching logic / flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692989444688/0044b9825c82d8d23920601f68c41a61d047d681?sender=u0b235d03cbd64f7f93673243)
 - [PACT Act and the world of toxic exposure content MURAL](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1664903854802/3876e4204edea5dc0e9b52fbca47e9162f752dad): This is a MURAL that helps to visualize all of the toxic exposure content that's out there, how we want to build connections between this content, and how we can use each entry point strategically to drive to the main goal of file a claim/apply for health care.
 
 ### Initiatives

@@ -18,8 +18,7 @@ At the highest level, the core disability experience team is here to own, from t
 ## Team
 |Name|Role|Email|GH userid|
 |----|----|-----|---------|
-| Emily Theis | OCTO Claimant Experience Crew Chief | emily.theis@va.gov | emilytheis |
-| Jennifer Bertsch | OCTO Product Manager | jennifer.bertsch@va.gov | jenniferbertsch |
+| Emily Theis | OCTO Product Owner | emily.theis@va.gov | emilytheis |
 | Shannon Ford | OCTO Design Lead | shannon.ford1@va.gov | shannonkford |
 | Rakshinda Aslam | Product Manager | rakshinda.aslam@agile6.com | RakshindaAslam |
 | Lydia Hooper | UX Researcher and Designer | lydia.hooper@agile6.com | lydiahooper |
@@ -30,6 +29,7 @@ At the highest level, the core disability experience team is here to own, from t
 | Mark Chae | Engineer | markchae@navapbc.com | mchae-nava |
 | Kate Allbee | UX Designer and Research | kate@verdance.co | kate-allbee |
 | Evelyn Davis | UX Research | evelyn@cityfriends.tech | evelynhilbrichdavis |
+| Tommasina Miller | Engineer | tommasinamiller@navapbc.com | tommasina-va |
 | Austin Price | Product Manager | austin.price@coforma.io | austinjprice |
 | Sarah Shields | Delivery Manager | sarah.shields@coforma.io | sortizsh |
 | Micah Frazier | Engineer | micah.frazier@oddball.io | micahaspyr |

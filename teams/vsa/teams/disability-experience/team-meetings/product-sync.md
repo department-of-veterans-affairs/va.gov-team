@@ -1,5 +1,68 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Oct 5' 2023       
+### Participants: Emily, Steve, Anneliese, Austin
+### Topics Covered:
+- ITF Asyncronous work starting next sprint for Team 2. Question to group: do we want to do an ITF brainstorm for all things ITF after?
+- Toxic Exposure thread with Lighthouse re: data questions
+   - Learned that 1010ez also will be asking TE questions
+   - Lots of data questions to answer, reliant on /submit migration
+   - Keep focus on this & moving it forward, but not feeling as urgent to get the pages out at this point
+- Unemployability flow - prioritization? probably not near term
+
+### Date: Sept 28' 2023       
+### Participants: Emily, Steve, Shannon, Austin, Anneliese
+### Topics Covered:
+- Code Yellow Status - what's next / do we need to create a plan?
+   - Bill is coming to the eng sync on 9/29, will bring up to the group there to see what else may be needed
+- Priority of submission failure work vs ITF async
+   -  stay focused on submission work in current sprint  
+- Priority of postmortem action tickets
+   - #64199 pull list of APIs timeouts (ITF postmortem) - this is almost finished (team 2)
+   - #64807 get information about load testing of Lighthouse endpoints (ITF postmortem)
+   - #65824 create unit test for 526ez that checks queued jobs process without error (526 claims submission stopped postmortem)
+      - probably a low lift, but no rush to get this in since we have other methods to monitor submissions
+- Bug Triage meeting - move to 526 DataDog/monitoring check in as part of the Monitoring Playbook
+   - try it out!
+- Toxic Exposure form data question
+   - let's try and map it as close to the paper form as possible and identify any gaps/issues - with the form as is
+- Sprint review for teams 1 & 2 - is it possible to move to Tuesdays to support better workflow for the teams
+   - follow up on slack with times
+ - 
+
+
+### Date: Sept 14' 2023       
+### Participants: Rashinda, Austin, Emily, Shannon, Steve
+### Topics Covered:
+- Toxic Exposure planning
+   - Idea board
+   - Do we need anything else for a productive discussion? 
+- Update - LH delay with /submit, /getPDF
+   - Check if some page needs to be updated weekly 
+- Timing of larger RICE prioritization effort. Team 2 has research capacity. Team 1 has some as well
+    - UX for DataDog Dashboards - Idea board
+    - Reach out to Shannon for A/C
+    - ITF vs IPF diagram
+    - Evidence - What/Where/How - Content Audit
+    - Form abandonment
+      - Shadowning veterans
+      - Planning the research
+      - Realtistic e2e health check   
+- Access / walk through of Tableau data / is there information we can start gather based on initial thoughts around priorities that can help facilitate the RICE process?
+    - Schedule a walk-through with Emily 
+-  List of Sidekiq jobs - survey for Platform team
+  - Steve has a csv list
+  - Team 1 is identifying all submission sidekiq jobs
+  - Check if Team 2 could pick up all non-submission jobs
+
+### Date: Sept 7' 2023       
+### Participants: Rashinda, Austin, Emily, Jen, Shannon
+### Topics Covered:
+- Review Toxic Exposure plan
+- Do we need any process for multiple teams working on one product(526)?
+   - No processes necessary, let collab cycle manage it
+   - Share production readiness checklist with the the benefits portfolio for non-collab cycle tickets - Rakshinda
+ 
 ### Date: Aug 31' 2023       
 ### Participants: Rashinda, Austin
 ### Topics Covered:

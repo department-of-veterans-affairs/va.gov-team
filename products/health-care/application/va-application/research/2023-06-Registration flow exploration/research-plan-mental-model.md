@@ -1,4 +1,4 @@
-# DRAFT Research Plan for "registration only" use cases mental model study [Health Enrollment Team, 10-10EZ, August 2023]
+# Research Plan for "registration only" generative mental model study [Health Enrollment Team, 10-10EZ, August 2023]
 
 ## Background
 The online health care application today processes all applications as enrollment. With regards to regulation § 17.37 Enrollment not required—provision of hospital and outpatient care to veterans which is being called the "registration only" path. This has a mix of eligibility criteria or scenarios for the Veteran to meet and a mix of what type of benefits they would be receiving - ranging from care for one medical need to the "full medical benefits package". 
@@ -78,11 +78,9 @@ Additional desk research will be conducted to supplement these interviews:
 Remote via Zoom for the interviews
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
 
 - [Link to conversation guide - cohort 1 - declined enrolment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort1.md) 
-- [Link to conversation guide - cohort 2 - recently enrolled](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-cohort2.md) 
+- [Link to conversation guide - cohort 2 - recently enrolled](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration/conversation-guide-mental-model-cohort2.md)
 
 - [Recruitment ticket](url)
 	
@@ -118,7 +116,7 @@ Cohort 1:
 
 
 Cohort 2:
-- Have you applied within the past 5 years and are currently enrolled in and using your health care benefits? [answer should be yes to qualify.]
+- Have you applied within the past 3 years and are currently enrolled in and using your health care benefits? [answer should be yes to qualify.]
 
 
 
@@ -132,9 +130,11 @@ September 13 - September 22, 2023
 * Pilot participant email: 
 * Date and time of pilot session: 
 
+
 ### Research sessions
 * Planned dates of research:
 September 13 - September 22, 2023
+
 
 
 ### Length of sessions
@@ -152,16 +152,16 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 ### Availability
 
-TBD
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | ----------------------|
 | September 13, 2023 	| 12pm ET - 7pm ET |
-| September 14, 2023 	| 12pm ET - 2pm and 3pm ET - 7pm ET 	|
-| September 15, 2023 	| 1pm ET - 2pm and 3pm ET - 4pm ET 	|
-| September 18, 2023 	| 12pm ET - 2pm and 5pm ET - 7pm ET 	|
+| September 14, 2023 	| 12pm ET - 7pm ET |
+| September 15, 2023 	| 1pm ET - 4pm ET 	|
+| September 18, 2023 	| 12pm ET - 7pm ET 	|
 | September 20, 2023 	| 12pm ET - 7pm ET 	|
-| September 21, 2023 	| 12pm ET - 2pm and 3pm ET - 7pm ET 	|
-| September 22, 2023 	| 1pm ET - 2pm and 3pm ET - 4pm ET 	|
+| September 21, 2023 	| 12pm ET - 7pm ET 	|
+| September 22, 2023 	| 1pm ET - 4pm ET 	|
+| September 25, 2023 	| 12pm ET - 7pm ET 	|
 
 
 
@@ -175,7 +175,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant(s) for pilot test: 
 - Accessibility specialist (for sessions where support for assistive technology may be needed):
 - Note-takers:	Perigean and 1010 Health Enrollment Team
-- Observers: [link to sign up post on Slack]
+- Observers: [link to sign up post on Slack](https://dsva.slack.com/docs/T03FECE8V/F05RF4YRU4U)
 
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
@@ -183,4 +183,4 @@ Please list the people who will be serving in each role. **Include the primary p
 
   ## Approvals
 
-
+- Reviewed and approved by Kristen McConnell on September 1, 2023

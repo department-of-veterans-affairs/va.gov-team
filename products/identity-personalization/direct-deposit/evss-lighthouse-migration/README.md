@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: August 15, 2023 -- updated week 1 stats**
+**Last Updated: October 3, 2023 -- updating launch info**
 
 ### Communications
 
@@ -75,7 +75,8 @@ As a person that receives payments from VA, I want to be able to easily view and
 - [Direct deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
 - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?display=daily&environment=production&field=url&field=error.value&field=timestamp&name=Errors+by+URL&query=event.type%3Aerror+url%3Ahttps%3A%2F%2Fapi.va.gov%2Fv0%2Fprofile%2Fdirect_deposits%2Fdisability_compensations&sort=-url&statsPeriod=14d&widths=-1&widths=-1&widths=-1)
 - Data Dog
-     - [Viewing LH Direct Deposit](https://vagov.ddog-gov.com/apm/resource/vets-api/rack.request/e504ea6e07d6848b?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AProfile%3A%3ADirectDeposits%3A%3ADisabilityCompensationsController%23show%22&env=eks-prod&spanType=service-entry&topGraphs=latency%3Alatency%2Chits%3Acount%2Cerrors%3Acount%2CbreakdownAs%3Apercentage&traces=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&start=1690315410527&end=1690920210527&paused=true)
+  - [LH Direct Deposit Logs](https://vagov.ddog-gov.com/logs?query=env%3Aeks-prod%20%40http.url_details.path%3A%2Fv0%2Fprofile%2Fdirect_deposits%2Fdisability_compensations%2A%20&cols=host%2Cservice%2C%40http.status_code%2C%40payload.user_uuid&index=%2A&messageDisplay=inline&sort=time&spanID=336994431213512540&stream_sort=%40payload.user_uuid%2Cdesc&viz=stream&from_ts=1693859845627&to_ts=1693946245627&live=true)
+     - [Viewing LH Direct Deposit APM](https://vagov.ddog-gov.com/apm/resource/vets-api/rack.request/e504ea6e07d6848b?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AProfile%3A%3ADirectDeposits%3A%3ADisabilityCompensationsController%23show%22&env=eks-prod&spanType=service-entry&topGraphs=latency%3Alatency%2Chits%3Acount%2Cerrors%3Acount%2CbreakdownAs%3Apercentage&traces=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&start=1690315410527&end=1690920210527&paused=true)
      - [Updating LH Direct Deposit](https://vagov.ddog-gov.com/apm/resource/vets-api/rack.request/bc1e3cb125eb0125?query=%40_top_level%3A1%20env%3Aeks-prod%20service%3Avets-api%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AProfile%3A%3ADirectDeposits%3A%3ADisabilityCompensationsController%23update%22&env=eks-prod&spanType=service-entry&topGraphs=latency%3Alatency%2Chits%3Acount%2Cerrors%3Acount%2CbreakdownAs%3Apercentage&traces=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&start=1690315475062&end=1690920275062&paused=true)
 
   <p></p>
@@ -88,12 +89,12 @@ As a person that receives payments from VA, I want to be able to easily view and
 - [Launch monitoring from Adam's EVSS > Lighthouse dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)
 - **Success rate** = Failed [retrievals/saves]/Successful [retrievals/saves]
 
-|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)| 2nd week @10% (8/22/23 - 8/28/23)|1 week @25% (8/22/23 - 8/28/23) |1 week @50% (8/29/23 -9/4/23)|1 week @100% (9/5/23 - 9/11/23)| 1 month @100% (9/12/23 - 10/11/23) | 2nd month @100% of users (10/12/23 - 11/11/23)|
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|% of successful retrievals|90%|96%|94%|92%|||||
-|% of failed retrievals|10%|4%|6%|7%|||||
-|% of successful saves|84%|91%|85%|78%|||||
-|% of save failures|16%|9%|15%|22%|||||
+|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)| 2nd week @10% (8/22/23 - 8/28/23)| Re-Launch to 10% (9/12/23 - 9/18/23) | Stayed @ 10% (9/19/23 - 9/26/23) | 1 week @25% ( DATES ) |1 week @50% ( DATES )|1 week @100% ( DATES )| 1 month @100% ( DATES ) | 2nd month @100% of users ( DATES )|
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|% of successful retrievals|90%|96%|94%|92%|94.71%|95%||||
+|% of failed retrievals|10%|4%|6%|7%|5.29%|5%||||
+|% of successful saves|84%|91%|85%|78%|90.45%|94.95%||||
+|% of save failures|16%|9%|15%|22%|9.55%|5.05%||||
 
 
 ## Key deliverables
@@ -120,6 +121,20 @@ As a person that receives payments from VA, I want to be able to easily view and
 - July 2023: QA; Pre-launch activities
 - August 8, 2023: Launch to 5% of users
 - August 15, 2023: Launched to 10% of users
+- Late August 2023: Reduced launch back to 5% while we investigated a sudden increase in timeouts
+- September 6, 2023: Lighthouse production increase in Gateway timeout changed from 10s to 20s, resulting in a drop in timeout errors
+- September 12, 2023: Launch increased to 10% of users
+- September 26, 2023: Launch increased to 25% of users
+- October 3, 2023: Launche increased to 50% of users
+
+### Launch issues
+
+Some time after we launched to 10%, we started to see a huge increase of `PUT` failures due to timeout (`504s`). Unfortunately, it was not clear why these were happening, and Lighthouse was not seeing the same degree of errors that we were seeing in both our Datadog and Google Analytics logs. They were also seeing a weird issue where `PUTs` were coming through as `GETs`, which may have effected their error logs. We made the decision to reduce the launch percentage back to 5% while we investigated these errors before continuing with launch. 
+
+- [Relevant Slack convo #1](https://dsva.slack.com/archives/C02CQP3RFFX/p1693230969286509?thread_ts=1691443341.253769&cid=C02CQP3RFFX)
+- [Relevant Slack convo #2](https://dsva.slack.com/archives/C909ZG2BB/p1693498626192619)
+
+On Sept 6, 2023, Lighthouse production increased the timeout window from 10s to 20s, resulting in a drop in timeout errors.
 
 ## Backend
 

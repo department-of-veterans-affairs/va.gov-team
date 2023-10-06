@@ -1,12 +1,12 @@
 # Refresh
 
-### Description
+## Description
 
 Used to refresh all tokens related to the client's session. This endpoint is called after the Access token has expired, and requires a valid (non-expired) Refresh token. Mobile/API will receive a JSON response with the new tokens, web/cookie will have cookies set to the new token values.
 
 After the refresh is performed the original valid Refresh token will be invalidated - a subsequent `/refresh` call will require the use of the new Refresh token.
 
-### Token endpoint
+## Token endpoint
 
 ```
 Staging: https://staging-api.va.gov/v0/sign_in/refresh
@@ -17,13 +17,13 @@ Production: https://api.va.gov/v0/sign_in/refresh
 | --- | --- |
 | `refresh_token` | Refresh token obtained from a `token` or previous `refresh` call. Must be URI-encoded. |
 
-*Sample request*
+## Sample request
 
 ```javascript
 staging-api.va.gov/v0/sign_in/refresh?refresh_token=v1%3Ainsecure%2Bdata%2BA6ZXlKMWMyVnlY...
 ```
 
-*Sample response*
+## Sample response
 
 ```javascript
 {
@@ -34,3 +34,11 @@ staging-api.va.gov/v0/sign_in/refresh?refresh_token=v1%3Ainsecure%2Bdata%2BA6ZXl
   }
 }
 ```
+
+### Access Token Attributes
+
+A Sign in Service [`Client Config`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md) can be set to specify the inclusion of the following user attributes, derived from the credential provider, on the returned `access_token`.
+
+* `first_name`
+* `last_name`
+* `email`

@@ -1,4 +1,4 @@
-# DRAFT Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, August 2023][Cohort 2 - Currently Enrolled]
+# Conversation Guide for "registration only" mental model study [Health Enrollment Team, 10-10EZ, August 2023][Cohort 2 - Currently Enrolled]
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -9,7 +9,7 @@
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
+- Open [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690928150976/0ce17c5b63ed3a2fd75736ac481d2d6e31fd927b?sender=uadf1ed7fe7c76f0914967329) with benefit applying for instructions
 
 
 ### Starting the session
@@ -26,7 +26,7 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about the health care application process.
+Today we're going to talk about the health care application process and your benefit options.
 
 Before we start, a few things I want to mention:
 
@@ -60,7 +60,6 @@ Let’s start with a few warm-up questions.
 - [If they don't specify] Did you complete this online, in-person or via paper application by yourself?
 - Was there any part of that process that was frustrating or difficult for you?
 - What is your recollection about the amount of information you had to provide?
-- How was it made clear to you as you were applying, what benefits you would qualify for? 
 - When it comes to registering and health care at the VA, what does that mean to you?
 
 

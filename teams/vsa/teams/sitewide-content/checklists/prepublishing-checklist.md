@@ -28,6 +28,9 @@
 - [ ] If publishing a brand-new page, confirm the left nav and url are set up correclty. (If the page is a child page, the section needs to be the same as the parent page in order for the left nav to show.) [Learn how to set up a url and left nav in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/adding-left-nav-and-url.md)
 - [ ] Check if the page has a new or updated alert. If so, publish the alert separately. 
 
+### Additional checks for translated articles
+- [ ] If we don't have updated translated versions, add the alert that links to the corresponding English page and lets users know that the translated pages aren't up to date. 
+
 ### Additional checks for Resources and Support articles
 
 - [ ] Confirm H2s, H3s, and H4s are within the 70-character limit.
@@ -47,7 +50,7 @@
 
 ## Post-publishing R&S checklist
 
-- [ ] Add the article to the R&S landing page in the correct hub. If there are already more than 5 articles in that hub, you don't need to add it unless you want it to replace another article already on the page.
+- [ ] Add the article to the R&S landing page in the correct hub. If there are already more than 5 articles in that hub, check the analytics of all the listed stories on the landing page. Then determine with Beth and Danielle if the article should replace any of the articles that are currently on the page.
 - [ ] If the article is the sixth one in a hub to be published, add the "Go to all articles" link at the bottom of the hub section on the landing page.
 - [ ] [Add the action link wording to our Github file of action link labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md).
 - [ ] [Add the new article to our Github file of R&S articles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/resources-and-support-article-list.md).

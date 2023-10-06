@@ -19,6 +19,7 @@ Up to this point, the app has used a one-size-fits-all approach to the home scre
 
 * Veterans don’t have a way to get a **quick overview of what VA is doing for them now or that something is needed from them** in order to keep things moving.
 * Veteran **expectations and understanding** of what they think they can do in the mobile app are **limited and often inaccurate** (they want something to help them, and to know if the app is that thing).
+* As the app adds more functionality or a Veteran gets more benefits from VA, Veterans have to do more work to complete tasks and find information related to them. 
 
 We believe that these problems are making it more difficult for Veterans to realize how the app can help them which is resulting in **decreased user retention.**
 
@@ -59,7 +60,7 @@ The first version of Personalization will be a personalized home screen that off
 
 * Give Veterans a high-level snapshot of their status within VA (“digital self”).
 * Provide a persistent overview of their current interactions across VA in the app.
-* Make it clear when an important-to-them feature needs their attention.
+* Make it clear when a feature needs their attention.
 * Demonstrate the value of the VA mobile app to Veterans without requiring them to dig into each individual feature.
 
 #### V2 & Beyond
@@ -69,7 +70,7 @@ Subsequent Personalization iterations will _**not**_ be limited to the home scre
 
 
 * **Push notifications** that [surface content and/or proactively notify them about tasks that are timely & relevant to their individual context](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#veterans-want-new-information-to-be-clear-to-them-when-they-log-in-and-expect-to-receive-new-information-through-multiple-channels)
-* **Personalized content on the home screen contains richer data and interactions** than v1 (example: embedding critical actions like “Pay my bill”).
+* **Personalized content on the home screen contains richer data and interactions** than v1 (example: embedding actions like “Pay my bill”).
 * **Personalized onboarding** to instantly guide new users to the features most relevant to them
 * [Ways to help Veterans **discover VA benefits** that they aren’t using yet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#the-logged-in-homepage-needs-to-scale-to-support-every-phase-of-the-veteran-lifecycle)
 * **Allow users to connect with others who know their case** (inside & outside the VA)when they need **support & guidance navigating their benefits.** [(VA Benefit planning, applications, and claims research, pp 37, 53, 74, 97 - Frog, March 2016)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md#:~:text=Benefit%20planning%2C%20applications%2C%20and%20claims%20research%20conducted%20by%20Frog%20in%202016)
@@ -121,7 +122,7 @@ Measures of success are defined by an outcome with associated direct & proxy mea
 
 * Personalized content relating to their interactions with VA is valuable to Veterans and will lead to **higher app adoption**.
 * Veterans will **value personalized content** so highly that they keep **returning** to the app. 
-* Surfacing personalized information at a level above its corresponding feature will make it easier for Veterans to **keep track of their interactions** across the VA and be **made aware of related critical actions**, without having to seek out when their attention is needed.
+* Surfacing personalized information at a level above its corresponding feature will make it easier for Veterans to **keep track of their interactions** across the VA and be **made aware of related actions**, without having to seek out when their attention is needed.
 * App users _want_ to **feel that ‘the app knows me’ and** seeing information related to them on the home screen makes them feel known, supported, and reassured.
 * Personalized content will help to accurately set expectations and **increase understanding of what the app can do** for them.
 
@@ -147,7 +148,7 @@ Measures of success are defined by an outcome with associated direct & proxy mea
 
 ### Important Links
 
-UX: [WIP Design Strategy Worksheet: VA Mobile App - Personalized Home Screen 2023](https://docs.google.com/document/d/1-nAN6VTg2dtKSv4UXIOlMZxdr8pWmA0l/edit)  
+UX: [Design Strategy Worksheet: VA Mobile App - Personalized Home Screen 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/personalization-homescreen-design-strategy-worksheet-2023.md)  
 [Data Project Plan - Personalized Home screen](https://docs.google.com/document/d/1xa5d114xMp6Ls1x2KR904LUoAQ7tDGKZBiijE8MJRKc/edit#heading=h.xc3a0rsasqyo)
 
 MyVA:

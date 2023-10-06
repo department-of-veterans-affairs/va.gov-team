@@ -61,6 +61,7 @@ The profile hub serves as a landing page for the VA.gov Profile. It allows users
 
 ## Analytics
 
+(TBD what to do with analytics based on outcome of usability research)
 - We need new tracking for GA on the profile menu
 - Reduce Search Terms for Profile Items w/in the Profile
 
@@ -72,7 +73,8 @@ The profile hub serves as a landing page for the VA.gov Profile. It allows users
 
 ## Design
 
-- Link to latest sketch files
+- [Desktop](https://www.sketch.com/s/b41a687f-8ab8-4be1-b189-692e5818cffd/p/EFCD1C39-A0C1-4A07-8510-1C0A7713FA1A/canvas)
+- [Mobile/user flow](https://www.sketch.com/s/b41a687f-8ab8-4be1-b189-692e5818cffd)
 - Link to any documentation (needs to be created)
 
 ## Frontend

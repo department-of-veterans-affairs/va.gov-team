@@ -5,6 +5,15 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks for Q3 work
 
+## 9/28/23
+*   Documentation combining with VADS
+
+## 9/14/23
+*   Demo recap
+*   Next component
+     -  AlertBox?
+     -  Having other H&B app devs incorporate into app in Q4
+
 ## 8/30/23
 Agenda
 - Status Update

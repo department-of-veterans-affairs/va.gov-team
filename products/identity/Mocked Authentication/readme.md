@@ -27,7 +27,7 @@ Mocked authentication was created to solve pain points Engineers, Designers, Pro
 
 ## How Mocked Authentication Works
 
-VA.gov mocked authentication interacts with the [Sign-in Service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Sign-In%20Service), playing the role of the CSP in between the `/authorize` & `/callback` calls. Local and development environments for VA.gov already leverage mocked MPI responses to populate user attributes. The mocked authentication flow uses .json files to provide the identifying attributes (first & last name, DOB, SSN, etc.) normally returned by the CSP as arguments. It then uses these mocked identifying attributes to structure a call to the SiS `/callback` route, prompting vets-api to look up the matching data from the mocked MPI response and log the user in.
+VA.gov mocked authentication interacts with the [Sign in Service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Sign-In%20Service), playing the role of the CSP in between the `/authorize` & `/callback` calls. Local and development environments for VA.gov already leverage mocked MPI responses to populate user attributes. The mocked authentication flow uses .json files to provide the identifying attributes (first & last name, DOB, SSN, etc.) normally returned by the CSP as arguments. It then uses these mocked identifying attributes to structure a call to the SiS `/callback` route, prompting vets-api to look up the matching data from the mocked MPI response and log the user in.
 
 ## Client Guide
 
@@ -318,7 +318,7 @@ To invoke the Mocked Authentication Route, you need to use the `state` value ret
 curl 'localhost:3000/mocked_authentication/authorize?credential_info=eyJzdWIiOiJlYmYyZTZlZC01...' -L
 ```
 
-The Mocked Authentication controller processes this information and redirects to the successful Sign-in Service `/callback` function. This results in a redirect to the VA.gov frontend, which provides a code parameter that can be [used to acquire session tokens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/token.md).
+The Mocked Authentication controller processes this information and redirects to the successful Sign in Service `/callback` function. This results in a redirect to the VA.gov frontend, which provides a code parameter that can be [used to acquire session tokens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/token.md).
 
 ## Common Issues and Solutions
 ### Issue: No users appearing in the dropdown
@@ -334,7 +334,7 @@ This is usually due to the fact that you do not have the latest `vets-api-mockda
     cache_dir: ../vets-api-mockdata
   ```
 ### Issue: Receiving an invalid client_id error
-This error could be due to the Sign-in Service client config for Mocked Authentication missing from your database.
+This error could be due to the Sign in Service client config for Mocked Authentication missing from your database.
 
 **Solution:**
 - Make sure you have seeded your database with the following command:
@@ -342,7 +342,7 @@ This error could be due to the Sign-in Service client config for Mocked Authenti
   bundle exec rails db:seed
   ```
 ### Issue: Redirected to id.me or login.gov
-This error could be due to the Sign-in Service client config for Mocked Authentication missing from your database.
+This error could be due to the Sign in Service client config for Mocked Authentication missing from your database.
 
 **Solution:**
 - Make sure you have seeded your database with the following command:

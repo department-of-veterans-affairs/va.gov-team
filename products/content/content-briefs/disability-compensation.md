@@ -19,7 +19,8 @@ Created by the sitewide content and IA team for teams working on products relate
 
 ## Related terminology
 
-- **File a claim:** Always use the phrase "file a claim" rather than "apply" when referring to disability compensation. 
+- **File a claim:** Always use the phrase "file a claim" rather than "apply" when referring to disability compensation.
+- **Claim a condition:** We need to decide and document in the style guide whether it's ok to use "claim" as a verb.
 
 - **Disability benefits vs. disability compensation:** We want to finalize whether we always say "compensation."
 

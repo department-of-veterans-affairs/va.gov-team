@@ -15,7 +15,7 @@
 ## Problem Statement
 Legislation passed in 2022 requires VAMC websites to include data about VA police activity.
 Deadline: One year after the enactment (December 2022), the Secretary shall report to Congress on the implementation of all provisions of amendments to 38 USC 902, which includes the publishing of arrest and ticketing data.
-### Legistlative requirements
+### Legislative requirements
 Cleland Dole Act Sec 405 legislation passed in 2022
 
 > (e) (1) The Secretary shall publish on the internet website of each facility of the Department the following information with respect to the facility:
@@ -106,7 +106,7 @@ A few others have added info about the VA Police to the Prepare for your visit s
 ## Launch Dates
 **Target Launch Date**
 - MVP: Data published 12/2023, in compliance with Cleland Dole Act Sec 405 legislation
-- Spring 2023: access to data via API
+- Spring 2024: access to data via API
 
 **Actual Launch Date**
 TBD
@@ -123,10 +123,17 @@ TBD
 **Business stakeholders**
 - VHA
 - VA Police operate separately but alongside the VA Law Enforcement Training Center (VA LETC) under the umbrella of the [Office of Security and Law Enforcement](https://www.osp.va.gov/Security_and_Law_Enforcement.asp).
-  - Jeffery Steidler [(Police Chief of the Year, 2020)](https://www.va.gov/wilmington-health-care/news-releases/wilmington-veterans-affairs-medical-center-police-officer-receives-top-national-honor/)
+  - Jose  Gonzalez, Deputy Director, Operations & Administration, 10N (Jose.Gonzalez6@va.gov)
+  - Edward Dubois, Investigator (Edward.Dubois2@va.gov)
+  - Jeffery Steidler Special Agent, VISN Security Officer, VHA (jeffrey.steidler@va.gov)
  
  **Partners**
   - Axon (Software services vendor)
-    - Jared Harlow and Sumegh Sodani - Leadership
-    - Antony White and Matthew Burian - Solution architects
-    - Jeff Murdza - Product 
+    - Key POCS:
+       - Matthew Burian (mburian@axon.com) - Solution architect
+       - Jeff Murdza (jmurdza@axon.com) - Product 
+    - Additional team members
+       - Jared Harlow (jharlow@axon.com) and Sumegh Sodani(ssodani@axon.com) - Leadership
+       - Antony White (awhite@axon.com) - Solution architect
+       - Brian Russell (brussell@axon.com) 
+  

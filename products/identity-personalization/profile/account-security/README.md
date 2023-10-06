@@ -49,7 +49,7 @@ As a user I need to:
 ## Backend
 [Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/backend_documentation.md)
 
-There is no singular backend that supports this section. Largely, this section is a frontend that links off to various tools depending on whether the user has verified their identity or set up 2FA, or what sign-in service they use.
+There is no singular backend that supports this section. Largely, this section is a frontend that links off to various tools depending on whether the user has verified their identity or set up 2FA, or what sign in service they use.
 
 ### Services
 

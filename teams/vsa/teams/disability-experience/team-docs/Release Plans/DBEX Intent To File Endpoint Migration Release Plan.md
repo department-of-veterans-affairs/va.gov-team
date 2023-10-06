@@ -30,11 +30,11 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [x] Review Cases
     - [x] Canary
 - [ ] Phase II: Staged Rollout 
-    - [ ] Stage A: 0.5%
-    - [ ] Stage B: 5%
-    - [ ] Stage C: 10%
-    - [ ] Stage D: 25%
-    - [ ] Stage E: 50%
+    - [x] Stage A: 0.5%
+    - [x] Stage B: 5%
+    - [x] Stage C: 10%
+    - [x] Stage D: 25%
+    - [x] Stage E: 50%
     - [ ] Stage F: Go live!
 - [ ] Post-launch questions
 
@@ -173,7 +173,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage A: Monitoring phase 
 #### Planning  
-- Date Started: 
+- Date Started: 8/23
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov--team/62957
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 0.5%
@@ -191,18 +191,12 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage B: Moderate ramp up
 #### Planning  
-- Date Started: 
-- ZH Tracking:
-- Length of time: 
+- Date Started: 8/30
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63660
+- Length of time: 3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 5% 
 #### Results:  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies:
 - Rollbacks:
 
 <br>
@@ -210,18 +204,12 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage C: Another moderate ramp up
 #### Planning
-- Date Started:
-- ZH Tracking:
-- Length of time: 
+- Date Started: 9/5
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64555
+- Length of time: 3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 10% 
 #### Results  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies:
 - Rollbacks:
 
 <br>
@@ -229,18 +217,15 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage D: Final moderate ramp up
 #### Planning  
-- Date Started:
-- ZH Tracking:
-- Length of time:
+- Date Started: 9/8
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64556
+- Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 25% 
 #### Results  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies:
+    - 9/11: Small jump in 500 errors, and small number of 401s noted Saturday evening (9/9). These affected both systems
+        - Confirmed this was due to an outage: https://dsva.slack.com/archives/C04KW0B46N5/p1694455040993379?thread_ts=1694440762.541849&cid=C04KW0B46N5
+        - LH looking into ways to monitor and address in the future
 - Rollbacks:
 
 <br>
@@ -248,18 +233,12 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage E: High traffic
 #### Planning
-- Date Started:
-- ZH Tracking:
+- Date Started: 9/18
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64589
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 50% 
 #### Results  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies
 - Rollbacks:
 
 <br>

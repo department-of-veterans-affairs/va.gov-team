@@ -166,7 +166,7 @@ This includes an office visit for Veterans who already have a hearing aid and ne
 
 ---
 
-## Choose location type
+## Choose VA or CC facility
 
 
 **NAVIGATION**
@@ -187,6 +187,8 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > [Page Header]`
 **PAGE CONTENT**
 
 ```
+You're eligible to see either a VA provider or community care provider for this type of care. (*Required)
+
 {Option} VA medical center or clinic
 Go to a VA medical center or clinic for this appointment
 

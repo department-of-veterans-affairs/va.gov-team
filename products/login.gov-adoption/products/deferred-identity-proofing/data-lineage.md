@@ -115,63 +115,79 @@ Data is provided from IAM in a CSV file in the following format. Each row repres
 </table>
 
 
+**IAM SSOe Dataset**
+
+The set of user credentials based on SSOe authentications using CSP Methods IDME, IDME_DSL or IDME_MHV from the time that that ID.me as MFA was introduced on 7/18/20 (although SSOe transaction data only goes back 2 years).
+
+
+<table>
+  <tr>
+    <td><strong>Column</strong>
+   </td>
+   <td><strong>Datatype</strong>
+   </td>
+   <td><strong>Notes</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>TO_DATE
+   </td>
+   <td>Date
+   </td>
+   <td>Not null. Date that the data was pulled from SSOe
+   </td>
+  </tr>
+  <tr>
+   <td>SECID
+   </td>
+   <td>Text
+   </td>
+   <td>Not null
+   </td>
+  </tr>
+  <tr>
+   <td>CSPMethod
+   </td>
+   <td>Text
+   </td>
+   <td>Not null. One of IDME, IDME_DSL or IDME_MHV
+   </td>
+  </tr>
+  <tr>
+   <td>earliestDate
+   </td>
+   <td>Date
+   </td>
+   <td>Not null.  First authentication date found in SSOe transactions search resultset
+   </td>
+  </tr>
+  <tr>
+   <td>latestDate
+   </td>
+   <td>Date
+   </td>
+   <td>Not null.  Most recent authentication date found in SSOe transactions search resultset
+   </td>
+  </tr>
+</table>
+
 **Preprocess Transformation**
 
 Following preprocessing steps are executed due to requirement that no PII is loaded into VA’s Domo instance:
 
 
+1. Using Domo Workbench, import the MPI CSV.  Domo Workbench is used to load on-prem data to Domo cloud.
+1a. trim the CSPID values starting at the underscore to retain the CSP identifier but remove the quasi-PII
+1b. csv filter on desired Credential identifiers
+Include: DSLogon, 200DOD, 200VIDM, 200VLGN, 200MH, idme 
+Filtered: 200PROV, VACSP, Symantec, 200VSYM, FCCX, 200PIV, 200PUSA, 33
+1c. hash the SECID and ICN fields
+1d. filter fields ton incude: SECID, ICN, CSPID, recordCreatedDate, lastUsedDate, cspMethod
 
-1. filter on desired Credential identifiers
+2. Using Domo Workbench, import the SSOe CSV.
 
-Included: 200PIV, DSLogon, 200DOD, 200VIDM, 200VLGN, 200PUSA, 200MH, 33, idme 
-
-Filtered: 200PROV, VACSP, Symantec, 200VSYM, FCCX
-
-
-
-2. load synthetic ID mapping file
-
-A mapping file is used to map SECID and ICN to a synthetic ID to remove PII.  The mapping file is a CSV containing fields: synthetic ID, SECID and ICN.
-
-Design note: Use of a synthetic ID, also referred to as data tokenization, was selected as a design alternative to hashes. This was in part due to processing time for generating hashes. Downsides of using a synthetic ID is that there is no referential integrity and that the value can’t be validated.  If the map file becomes corrupted, e.g. due to a processing bug, it will have to be regenerated and could impact all data previously loaded.
-
-
-
-3. process the CSV export
-
-The IAM data export is processed to:
-
-
-- aggregate credentials based on user, using secid as the user identifier
-- select fields for the output CSV.  For each credential: lastUsed, recordCreatedDate, and cspMethod
-- IAM MPI has distinct CSP Identifiers for each of: ID.me credentials and DS Logon and MHV credentials which use ID.me for MFA. MPI uses the ID.me credential identifier code for each. The preprocess uses CSP Method to distinguish these and treat them as 3 different credential types.
-
-4. Output aggregated CSV
-
-Refer the <a href="./data-dictionary.md">Data Dictionary</a> and the table with recurring fields in for details of the output format.
-
-**Load**
-
-The CSV is loaded into DOMO and joined with the MHV Primary Id on File dataset. 
-
-
-
-**MHV Premium Credentials Dataset**
-
-The MHV dataset is CSV file containing a MHV ID and ICN.
-
-
-
-**Preprocess Transformation**
-
-Following preprocessing steps are executed due to requirement that no PII is loaded into VA’s Domo instance:
-
-
-1. load/update synthetic ID mapping file
-
-A mapping file is used to map ICN to a synthetic ID to remove PII.  The mapping file is a CSV containing fields: synthetic ID, SECID and ICN.
-
-2. Transform into a CSV with single column containing the ID
-
-3. Load into Domo and join with the MPI dataset
+3. Within DOMO (wee also the <a href="./data-dictionary.md">Data Dictionary</a>), perform ETL to
+- preprocess the MPI dataset and add missing credentials based on SSOe dataset.  No users added. Only missing credentialss
+- aggregate credentials based on user, using hashed secid as the user identifier
+- merge/remove duplicate credentials
 

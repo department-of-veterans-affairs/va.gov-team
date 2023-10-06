@@ -40,7 +40,10 @@ Two statuses need to be deleted:
 - Non-verified
 
 **Action:** MHV backend team, Yeruva, Sirisha V., to confirm that these statuses are no longer available. https://dsva.slack.com/archives/C04PRFEJQTY/p1693235183889379 (Confirmed by Sirisha)
-Next Step: Mobile to create backlog ticket to remove statuses
+
+**Next Step:**
+- Mobile to create backlog ticket to remove statuses
+- Notified Sirisha & Dr. Spahn that mobile will be removing the 2 statuses (see: [decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/medication/Product/Prescription%20List%20View%20Enhancements/Decision%20Log.md) for details)
 
 ## Problem D:
 
@@ -56,3 +59,10 @@ Proposed Solution: Update “Help” content
 - [Post Rx launch research, all artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/6dcb82eb1c0d3e56a45e36bba69265ea5d4b076d/products/va-mobile-app/ux-research/usability-testing/rx-post-launch) 
 
 - [App store review summaries](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/reporting/App-Stores-Reviews)
+
+
+## Team Readout/Findings/Recommendations
+- [Repeat Rx filtering analytics#6650.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12611088/Repeat.Rx.filtering.analytics.6650.pdf)
+
+
+  

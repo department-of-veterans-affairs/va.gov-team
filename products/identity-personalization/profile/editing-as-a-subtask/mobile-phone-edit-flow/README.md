@@ -1,5 +1,5 @@
 # Initiative Brief: Editing as a Sub-Task 
-### Initial Launch with Mobile Phone Update 
+### Initial Launch with Mobile Phone Number Add/Update 
 
 **Last updated: August 31, 2023 -- updated location and added important artifacts**
 
@@ -83,6 +83,8 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 |Ranking of Notification preferences as an entrance page to Contact information||||
 
 **KPI: Establish baseline metrics for number of saves of the add a mobile number form.**
+
+- [see save / failure metrics on the top right ](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20230806&_u.date01=20230814/)
 
 |KPI/metric|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|-------------|---------------|

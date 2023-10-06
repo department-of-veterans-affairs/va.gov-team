@@ -32,9 +32,12 @@
 - Confusion on submission status that leads to more expired applications
 
 ## Forms Currently Handled
-- 686c launched to 100% production
-- 10-10 EZ launched to 100% production
-- 526EZ launched to 25% production
+|Form Number  |Form Name |Frequency |Time Frame |Launch Date | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+| 26-1880  | Application for a VA Home Loan Certificate of Eligibility (COE) | Once | 24 hours  | May 2023  |
+| 526 EZ | Application for Disability Compensation and Related Compensation Benefits | Once | 7 days | November 2022 | 
+| 10-10 EZ | Application for Health Benefits | Once | 7 days | October 2022 | 
+| 686-c | Application Request to Add and/or Remove Dependents | Once | 7 days | April 2022 | 
 
 ---
 ## Measuring Success

@@ -12,12 +12,32 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 10/3/2023
+- Updated Pre-Check-in and eCheck-in pages to add content that clarifies what next-of-kin means in a VA context
+    - [Ticket 65844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65844#issuecomment-1745644284)
+- Updated the last name and date-of-birth form components to use version 3 of the Design System
+    - [Ticket 65490](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65490#issuecomment-1745711758)
+- Updated the accordion components to use version 3 of the Design System
+    - [Ticket 65494](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
+
+### 10/2/2023
+- Updated the logic to check if the Veteran has already submitted a travel claim for a day & facility to use the same facility identifier that BTSSS uses
+    - [Ticket 65628](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65628)
+
+### 9/27/2023
+- Updated content in the eCheck-in travel & confirmation pages Needs Help Section to help Veterans understand where to go for questions about filing a travel reimbursement claim
+    - [Ticket 65477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65477)
+
+### 9/11/2023
+- Updated cCheck-in to allow a Veteran to submit 1 travel claim per facility per day
+    - [Epic 60843](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)
+
 ### 8/31/2023
 - Updated eCheck-in to add new content to the "Would you like to file a travel reimbursement claim now?" question page to give the Veteran some basic travel reimbursement eligibility information so that they can make a decision about whether to file a claim
     - [Epic 63928](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63928)
 
 ### 8/28/2023
-- Updated Pre-Check-in and eCheck-in to add content that clarifies what next-of-kin means in a VA context
+- Updated eCheck-in Travel pages to add content that clarifies what next-of-kin means in a VA context
     - [Ticket 62927](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62927)
 -  Updated eCheck-in to use the same mobile phone number the Veteran used to initiate a check-in to text the Veteran their travel claim submission status; this was done to avoid inconsistent mobile phone number data that may prevent the Veteran from receiving the text
     - [Ticket 62436](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)

@@ -93,11 +93,11 @@ Please log key decisions related to the below practice areas, including date, wh
 ## Content & IA
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
-|      |                   |                         |           |
+| 8/30/23 |  Coulton Bunney, Sara Sterkenburg, Mikki Northuis   |   SM Phase 1 will maintain current URL structure    | Simplifies changes moving into Phase 1 and allows pages to be held together with "Messages" URL slug.  |
+| 8/30/23 |  Coulton Bunney, Sara Sterkenburg, Mikki Northuis | SM Phase 1 will eliminate Messages landing page  | The page has minimal value and requires users to have an extra click every time they try to get into their inbox. Removing it will improve UX.|
+| 8/30/23 | Coulton Bunney, Sara Sterkenburg, Mikki Northuis |  SM Phase 1 will redirect Messages landing page to /inbox |  This is to account for any users who hack their URL up to /messages, so that they will not get an empty directory. |
+| 8/30/23 |  Coulton Bunney, Sara Sterkenburg, Mikki Northuis |  SM Phase 1 side navigation will change due to removal of landing page |  Will use existing sidenav component in DS with "messages" as clickable container that expands/collapses but does not have a page of it's own. All sub-pages (Inbox, Drafts, Sent, Trash, My folders) will fall beneath it.|
+| 8/30/23 | Coulton Bunney, Sara Sterkenburg, Mikki Northuis |  SM phase 1 breadcrumbs will now expose the MHV on VA.gov landing page |  Now that SM is moving into "try me" phase, we will expose breadcrumbs that link users up to the MHV on VA.gov landing page (which must also be at 100% visibility by SM Phase 1 launch). List view pages will have traditional vertical breadcrumbs: i.e. "Home < My HealtheVet < Messages: Inbox" and detailed message view pages will have a simplified horizontal back breadcrumb: i.e. "< Back to Messages: Inbox" |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |

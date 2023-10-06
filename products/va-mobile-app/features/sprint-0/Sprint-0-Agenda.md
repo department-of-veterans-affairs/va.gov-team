@@ -10,20 +10,14 @@ The Sprint 0 meeting is a time to do the following:
 * Review product briefs that we can pull from in a future quarter
 * Allow time with POs to ask questions or seek feedback on Sprint 0s in progress
 
-[View Sprint 0 template](https://docs.google.com/document/d/15_1z4xmZSo7OvD9KvdV-f-P_p3JswH8tNs0jhTP-toc/edit) \
-[New Team Product Flow - Mobile](https://docs.google.com/presentation/d/1IkJRZbHv3tUc8GF0ngO8FdcOZypOpgwvpFF_EasFFnk/edit#slide=id.g33cc3b02a5_0_49) 
+[View Sprint 0 template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/sprint-0/product-brief-template.md) \
 
 
 ## Future Sprint 0s (not yet ready)
 
 
 
-* Terms and conditions consolidated approach across VA (Meko)
-    * Trying to create a single set of T&Cs for all tools
-        * Ex: MHV can revoke access to SM based on behavior
-    * Tom Black (OCTO) coordinating
-* Appeals Claims Letter (Stacy)
-* Overall strategy for push notifications 
+* After visit summary for appointments (Meko)
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
 * Program level analytics - (Greta)
@@ -33,13 +27,11 @@ The Sprint 0 meeting is a time to do the following:
 * Web and App UI differences
 * List filtering and sorting
 * Onboarding
-* After visit summary for appointments
 * [Revamp Letters](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4076)
 * VHIC
     * Has edipi on it
     * Has photo
     * H623A - eligibility letter for getting on base, doesn’t have a photo so we should look at this for VHIC/VIC
-* [Omni-channel handoffs](https://docs.google.com/document/d/1fIqeZ3Ajbn6VBo-nYuVo8fdNLGHAsaqNJLxkICph0gk/edit?usp=share_link) 
 * [External Links - Minimize and Refine](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4077)
 * Personalized Notifications
     * Showing changes of statuses, etc.
@@ -47,24 +39,46 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Ready to Present
 
-* [Sprint 0: Pre-Needs Burial Claim - Adam](https://docs.google.com/document/d/1DTio0ekfMld9RuvfqPChfvEhBtxL6qGo2hto46MekG0/edit)
-* [Sprint 0: Push Notification Announcements - Binny](https://docs.google.com/document/d/1oHUiY6_ZFJgOep0UcRlff8WXk0-YSpl9g2WRC-bBOu4/edit#heading=h.mnq6vtjqteg4)
 * [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
 * [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
 
 
 | Immediate Action | Next Quarter Bucket | Icebox |
 | ----------- | ----------- | ----------- |
-| [Sprint 0: Defining active user base and log-in problems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Defining%20active%20user%20base%20&%20log-in%20problems/Sprint%200:%20Defining%20active%20user%20base%20&%20log-in%20problems.md) <br><br> [Sprint 0: User Endpoint Enhancement - Jayson](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/user-endpoint-enhancement/UEE-Sprint-0.md) |  [Sprint 0: Display Zoom on Android](https://docs.google.com/document/d/1zJ1efdJNzZx9KutF0i8yC0KnXk4rV8E2JrlR8Xwqar0/edit?usp=sharing) <br><br> [Sprint 0: Submit Feedback](https://docs.google.com/document/d/12PejlFxL-OanOAnxJHqMLTawYnvfcNcRavPp2yVI3_w/edit#heading=h.mnq6vtjqteg4) <br><br> [Sprint 0: Error Documentation - Misty](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Error%20Documentation/Error%20documentation%20sprint%200.md) <br><br> [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%3A%20Track%20referring%20URLs.md) (Greta) <br><br>  [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md) | [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty) |
+| <br> |  [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md) | [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)<br><br> [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md) |
 
 
 
 
 ## Working session notes
 
+## 10/5/23
+* [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
+
+## 9/26/23
+* [Sprint 0: Push Notification Strategy - Ameet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/Push%20Notification%20Strategy%20-%20Sprint%200.md)
+
+## 9/13/23
+* [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md)
+  * Not for Q4, but keep on the list
 
 ## 8/31/23
 * Identity Team coming to talk about Terms of Use
+  * Intiative Goal: To have on TOU that Veterans agree to that would give access to everything
+  * Target production rollout early October
+  * Mobile shouldn't have any work, it will be part of the sign in experience
+    * If user accepts they can continue to servicing on the app/web
+    * If user declines they will be logged out and messaging displayed what next
+    * User does have the opportunity to accept TOU if they previously declined 
+* Call outs & Action Items 
+   - Review content on the page that is displayed when user does not accept TOU.  Ensuring there is clarity for the Veteran that not having access to va.gov also means not having access to the app
+   - Is there a need to delete authentication and when does it become enforceable.  May want to consider doing staggered deletion objects
+   - Share w/identity team any links we show on mobile today regarding TOU (i.e. what info do we show in privacy policy).
+   - Will this work for people who are still on version of the app that use IAM
+     - How many people are still on IAM? 
+
+* Question to Rachel/Ryan
+  *   Would we want to give users the ability to link out and review TOUs at a later time? 
 
 ## 8/17/23
 * [Sprint 0: Backend Status Visualization Tool - Andrew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/BE-status-visualization/BE-status-visualization-sprint-0.md)
@@ -106,7 +120,7 @@ The Sprint 0 meeting is a time to do the following:
 
 ## 6/7/23
 
-* [Sprint 0: Submit Feedback](https://docs.google.com/document/d/12PejlFxL-OanOAnxJHqMLTawYnvfcNcRavPp2yVI3_w/edit#heading=h.mnq6vtjqteg4) (Tim R)
+* [Sprint 0: Submit Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Submit%20Feedback/submitFeedback.md) (Tim R)
 * In-app Perigean recruiting (Jen E)
 *  This was approved by the VA POs to proceed with 
 
@@ -127,7 +141,7 @@ The Sprint 0 meeting is a time to do the following:
     * Will change the scope of the Profile Fail error feature to account for capacity if needed
   * Veteran Status Card
     * Ryan will take the lead in Q2 but no capacity is expected from the team for this in Q2
-* [Sprint 0: Display Zoom on Android](https://docs.google.com/document/d/1zJ1efdJNzZx9KutF0i8yC0KnXk4rV8E2JrlR8Xwqar0/edit?usp=sharing)
+* [Sprint 0: Display Zoom on Android](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Display%20Zoom%20on%20Android/displayZoomOnAndroid.md)
 
 
 ## 4/12/23
