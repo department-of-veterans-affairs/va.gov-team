@@ -65,9 +65,10 @@ Excellent. Thanks so much for your answers.
 Imagine you are searching for Resources and Support because you are unable to sign in to your VA.gov account. Before you leave the resources and support page, you want to ensure that you leave feedback to rate your experience, so you expand the rate tool to review the resources and support page in detail. Once you have finished leaving feedback for the resources and support page, you want to return to VA.gov. Today we’ll test a concept for rating your experience when searching for resources and support on VA.gov.
 ## Tasks
 1.	Please read all tasks out loud and remember to share your thoughts (e.g., likes/dislikes, feelings, expectations) as you perform each task. To begin, click Next.
-2.	[Verbal Response] First, please answer a few brief questions about your role: What is your job title? What roles are you currently hiring candidates for? When finished, click Next. 
+2.	[Verbal Response] First, please answer a few brief questions about your role: What branch of the military did you serve ?  When finished, click Next. 
 3.	Now we’ll visit the page we will be testing. Once the page loads, click Next.
-Prototype
+   
+Prototype [https://www.sketch.com/s/a513ba38-1d26-41d0-9009-92ea729446e2]
  
 ## What → Va.gov+ Resources and Support - 30 minutes
 
