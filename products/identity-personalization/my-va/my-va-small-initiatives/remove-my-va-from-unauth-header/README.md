@@ -22,7 +22,17 @@
 ## Overview
 The original purpose of having "My VA" in the unauth header on VA.gov was to let users know that there is personalized content once they log in. But now that we reroute from the homepage to My VA at login, we don't need it, so we're going to remove "My VA" from the unauth header The original purpose of having "My VA" in the unauth header on VA.gov was to let users know that there is personalized content once they log in. But now that we reroute from the homepage to My VA at login, we don't need it, so we're going to remove "My VA" from the unauth header.
 
+We'll first hide the link behind a feature flag and monitor analytics for a few weeks to make sure the change has not had a negative impact on traffic to My VA and then will likely remove it entirely, and clean up the flag code.
+
 ## Measuring Success
+
+### Objective: Streamline the unauthenticated experience on VA.gov by de-cluttering the header
+
+**Key Result: We do not see an overall decline in traffic to My VA**
+
+|KPI/metric|Baseline: <br />1 week pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1  post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch <br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch <br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch <br />(mm/dd/yy - mm/dd/yy)|
+|----------|-------------|---------------|-------------------|----------|-------------|
+|My VA pageviews|    |     |      |      |      |
 
 
 ## Key Dates
