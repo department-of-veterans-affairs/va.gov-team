@@ -3,7 +3,7 @@
 
 ## Background
 
-#### What problem is your product trying to solve?
+### What problem is your product trying to solve?
 The VA mails VA Form 21-0538, a mandatory paper form for dependent verification, to Veterans with dependents only every eight years. The burden is on the Veteran to notify the VA of any changes in dependent status in between these (infrequent!) notifications. This results in significant over and underpayments, costing the VA ~ $250 million per year and burdening Veterans with debt.
 
 ### Where is your product situated on VA.gov? (ex: auth vs. unauth)
@@ -22,66 +22,43 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
--Getting out: Engaging VA to access benefits and services
-
--Putting down roots: Taking care of my family
-
--Retiring: Finding additional sources of income
+- Getting out: Engaging VA to access benefits and services
+- Putting down roots: Taking care of my family
+- Retiring: Finding additional sources of income
 
 
 ## Research Goals	
 What are you trying to learn from this research? 
 
 ### Learn how Veterans understand dependent benefits and risks as they relate to compensation, and how they navigate the process today (Generative sessions)
--Do Veterans know who qualifies as a dependent?
-
--Do Veterans understand that dependents can impact compensation benefits, not just be eligible for other benefits (education, etc.)?
-
--Do Veterans understand the risk of debt / overpayment?
-
--For those newly qualified because of the PACT Act, how do they know their dependents might now be eligible?
-
--What would Veterans like to know about dependent benefits? (e.g. how much will it increase their compensation, how much debt might they accrue?)
-
--How do Veterans find their dependent information currently? Where do they look, who do they go to for help?
-
--Where would Veterans expect to manage their dependent info? On their Profile?
+- Do Veterans know who qualifies as a dependent?
+- Do Veterans understand that dependents can impact compensation benefits, not just be eligible for other benefits (education, etc.)?
+- Do Veterans understand the risk of debt / overpayment?
+- For those newly qualified because of the PACT Act, how do they know their dependents might now be eligible?
+- What would Veterans like to know about dependent benefits? (e.g. how much will it increase their compensation, how much debt might they accrue?)
+- How do Veterans find their dependent information currently? Where do they look, who do they go to for help?
+- Where would Veterans expect to manage their dependent info? On their Profile?
 
 ### Evaluate the perceived trustworthiness and effectiveness of our proposed notification (Evaluative sessions)
--What notification types should we start with to test our approach? Eg prioritize a cohort most at risk of overpayments, prioritize a cohort who will be most responsive, etc?
-
--Will Veterans quickly determine the purpose of notification?
-
--Will they follow/complete the primary CTA?
-
--Are Veterans confident that the notification is coming from VA and is safe to engage with (not spam)?
-
--How could we give them more confidence in taking action (e.g. directing them to sign in without needing to click on a link)
-
--How do their preconceptions about VA play into all of the above? (e.g. they might believe the notification is from VA, but not trust VA generally)
-
--What happens after they take action? Does the first landing page jive with the email content? Do they know what to do next?
-
--Is there a need for a “one stop shop” where they can view and add/remove dependents all in the same flow?
-
--Once on va.gov, are Veterans confident in their data security? 
+- What notification types should we start with to test our approach? Eg prioritize a cohort most at risk of overpayments, prioritize a cohort who will be most responsive, etc?
+- Will Veterans quickly determine the purpose of notification?
+- Will they follow/complete the primary CTA?
+- Are Veterans confident that the notification is coming from VA and is safe to engage with (not spam)?
+- How could we give them more confidence in taking action (e.g. directing them to sign in without needing to click on a link)
+- How do their preconceptions about VA play into all of the above? (e.g. they might believe the notification is from VA, but not trust VA generally)
+- What happens after they take action? Does the first landing page jive with the email content? Do they know what to do next?
+- Is there a need for a “one stop shop” where they can view and add/remove dependents all in the same flow?
+- Once on va.gov, are Veterans confident in their data security? 
 
 ### Learn Veterans’ device and notification preferences (Generative and evaluative sessions)
--What device would they use for various tasks (checking email, viewing dependents, adding or removing a dependent)?
-
--Text vs email vs mail — where do they expect to receive info, what would they prefer, what do they actually read?
-
--What is the right frequency and time of year for notifications (e.g. when school begins, when they’re doing their taxes, etc.)
-
--What are opportunities for proactive reminders (eg. when a child reaches a certain age)
-
--What information would Veterans want to receive in their notifications?
-
--What instances would Veterans prefer a general notification, vs something tailored to their situation? 
-
--Which would be more effective at getting folks to take action? 
-
--Where might VA not have accurate enough information to make tailored notifications effective?
+- What device would they use for various tasks (checking email, viewing dependents, adding or removing a dependent)?
+- Text vs email vs mail — where do they expect to receive info, what would they prefer, what do they actually read?
+- What is the right frequency and time of year for notifications (e.g. when school begins, when they’re doing their taxes, etc.)
+- What are opportunities for proactive reminders (eg. when a child reaches a certain age)
+- What information would Veterans want to receive in their notifications?
+- What instances would Veterans prefer a general notification, vs something tailored to their situation? 
+- Which would be more effective at getting folks to take action? 
+- Where might VA not have accurate enough information to make tailored notifications effective?
 
 
 ### Outcome
