@@ -30,7 +30,7 @@ We'll first hide the link behind a feature flag and monitor analytics for a few 
 
 **Key Result: We do not see an overall decline in traffic to My VA**
 
-|KPI/metric|Baseline: <br />1 week pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1  post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch <br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch <br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch <br />(mm/dd/yy - mm/dd/yy)|
+|KPI|Baseline: <br />1 week pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1  post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch <br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch <br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch <br />(mm/dd/yy - mm/dd/yy)|
 |----------|-------------|---------------|-------------------|----------|-------------|
 |My VA pageviews|    |     |      |      |      |
 
