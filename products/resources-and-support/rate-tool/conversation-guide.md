@@ -62,29 +62,29 @@ Excellent. Thanks so much for your answers.
 
 ## Scenario
 
-Imagine you are searching for Resources and Support because you are unable to sign in to your VA.gov account. Before you leave the resources and support page, you want to ensure that you leave feedback to rate your experience, so you expand the rate tool to review the resources and support page in detail. Once you have finished leaving feedback for the resources and support page, you want to return to VA.gov. Today we’ll test a concept for rating your experience when searching for resources and support on VA.gov.
-## Tasks
-1.	Please read all tasks out loud and remember to share your thoughts (e.g., likes/dislikes, feelings, expectations) as you perform each task. To begin, click Next.
-2.	[Verbal Response] First, please answer a few brief questions about your role: What branch of the military did you serve ?  When finished, click Next. 
-3.	Now we’ll visit the page we will be testing. Once the page loads, click Next.
-   
-Prototype [https://www.sketch.com/s/a513ba38-1d26-41d0-9009-92ea729446e2]
+Imagine you are having trouble logging in to VA.gov, so you searched the website on how to log in and you landed on resource and support. Before you leave the resources and support page, you want to ensure that you leave feedback to rate your experience pn the site today.Today we’ll look at a concept for rating your experience when searching for resources and support on VA.gov.
+
+Prototype [https://www.sketch.com/s/a513ba38-1d26-41d0-9009-92ea729446e2/prototype/F0A919B0-31D5-4C37-B916-99E8F7B10D87/a/F0A919B0-31D5-4C37-B916-99E8F7B10D87
+]
  
-## What → Va.gov+ Resources and Support - 30 minutes
+## What → Va.gov+ Resources and Support -
 
 o	Start on the Home page (VA.gov)
-o	Click on the other search tools.
-o	Open find benefit resources and support. 
+o	Click on the other search tools. (Moderator note)
+o	Open find resources and support. 
 
-Let’s imagine you are searching for information on how to Sign-in to VA.gov for veterans. You see a list of topics on the home page. When done, click next.
-
-1.	[Verbal Response] You want to search for a tool that will help you sign in. Scroll down and click in the area to the left of the home page where it says find benefits resources and support, then click. When done, you can see resources and support on the screen. When done, click next.
-2.	[Verbal Response] Without clicking/typing anything, please describe how you would find information on how to sign in to VA.gov. When done, click next.
-3.	[Verbal Response] I want to direct your attention to the “Browse by topic” title at the top left of the screen. What do you expect to happen when you click the “Signing in to VA.gov” button? When done, click “Signing in to VA.gov”, then click next.
+Show me how you would find more information on how to Sign-in to VA.gov.
 
 ### Things to watch for:
+-[Does the participant use the search field?]
+-[What query does the participant use to search for sign in help?]
+-[Where would you expect to go ?]
 - [Does the participant notice resources and support ?]
 - [How the participant navigates the page to find resources and support ?]
+
+1.	[Verbal Response] You want to search for information to will help you sign in. Scroll down and click in the area of the home page where it says resources and support, then click. When done, you can see resources and support on the screen.  
+2.	[Verbal Response] Without clicking/typing anything, please describe how you would find information on how to sign in to VA.gov. 
+3.	[Verbal Response] I want to direct your attention to the “Browse by topic” title at the top left of the screen. When done, click “Signing in to VA.gov”, then click next.
 
 ## What → Resources and Support + Signing in to VA.gov 
 o	Start with browse topics. 
@@ -93,29 +93,33 @@ o	Scroll down the Signing in to VA.gov.
 o	Click on Rate your experience. 
 o	Select feedback options. 
 
-1. [Verbal Response] You have decided that you are interested in learning more about signing in to VA.gov, so you click on Signing in to VA.gov name underlined in blue on the resources and support page. When done, click next.
-2. [Verbal Response] You want to rate the sign-in to VA .gov page. Without clicking/typing anything, please describe where you would go on the screen to rate this page. When done, click next.
-4. [Verbal Response] I want to direct your attention to the “Rate your experience” feedback mechanism at the bottom of this page. Without clicking/typing anything, please describe what you think will happen if you click the “good” or “bad” button. When done, click next.
-6. [Verbal Response] In what instances would you use the “Good” button? Why? When done, click next.
-8. [Verbal Response] In what instances would you use the “Bad” button? Why? When done, click next. 
-9. [Verbal Response] Imagine you did not find the sign in information you were looking for. Click the “Bad” button. Please describe what the “Bad” response has done on this screen. What does the form look like to you? When done, click next.
+Where would you go to give feedback on your experience about signing in to VA.gov? 
 
 ### Things to watch for:
 - [Does the participant notice the rate your experience feedback  mechanism on the page?]
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 
+1. [Verbal Response] You have decided that you are interested in learning more about signing in to VA.gov, so you click on Signing in to VA.gov name underlined in blue on the resources and support page. 
+2. [Verbal Response] You want to rate the sign-in to VA .gov page. Without clicking/typing anything, please describe where you would go on the screen to rate this page. 
+3. [Verbal Response] I want to direct your attention to the “Rate your experience” feedback mechanism at the bottom of this page. Without clicking/typing anything, please describe what you think will happen if you click the “good” or “bad” button.
+4. [Verbal Response] In what instances would you use the “Good” button? Why? 
+5. [Verbal Response] In what instances would you use the “Bad” button? Why?
+6. [Verbal Response] Imagine you did not find the sign in information you were looking for. Click the “Bad” button. Please describe what the “Bad” response has done on this screen. What does the form look like to you?
 
-##  What→ Bad Response/ Ideal Responses/Enhancements/Hesitation for the feedback mechanism 
+
+##  What→ Bad Response/Ideal Responses/Enhancements/Hesitation for the feedback mechanism 
 o	Overview/thoughts on Rate your experience. 
 o	Overview thoughts on updated Medallia form. 
-o      Any questions for me? 
+o  Any questions for me? 
 
-1. 	[Verbal Response]Imagine you want to give feedback on the content of the page. Without clicking/typing anything, please describe if the responses on the form reflect the information you would like to share. What information would you want to add or remove from the form and why?  When done, click next.
-2. 	[[Verbal Response] To return to the home page click the “Thanks for submitting your feedback” on the page. When done, click next.
-
+Imagine you want to give feedback on the content of the page.
 
 ### Things to watch for:
 - [What does the participant expect after submitting feedback?]
+
+1. 	[Verbal Response] Without clicking/typing anything, please describe if the responses on the form reflect the information you would like to share. What information would you want to add or remove from the form and why?  
+2. 	[Verbal Response]In what instances would you use the  "Written response option? Why? 
+3. 	[Verbal Response] To return to the home page click the “Thanks for submitting your feedback” on the page. When done, click next.
 
 ## Consent to use video clips
 
