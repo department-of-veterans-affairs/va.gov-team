@@ -3,7 +3,7 @@
 
 ## Background
 
-### What problem is your product trying to solve?
+#### What problem is your product trying to solve?
 The VA mails VA Form 21-0538, a mandatory paper form for dependent verification, to Veterans with dependents only every eight years. The burden is on the Veteran to notify the VA of any changes in dependent status in between these (infrequent!) notifications. This results in significant over and underpayments, costing the VA ~ $250 million per year and burdening Veterans with debt.
 
 ### Where is your product situated on VA.gov? (ex: auth vs. unauth)
