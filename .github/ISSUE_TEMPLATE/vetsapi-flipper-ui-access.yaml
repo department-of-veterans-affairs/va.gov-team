@@ -41,10 +41,10 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Please confirm if you are on the VFS Team Roster, Platform Team Roster or are a Federal User
+      label: Please confirm if you are on Atlas, Platform Team Roster or are a Federal User
       description: If you are on neither, please refer to the **Prerequisites** section at the top, and close this request until complete
       options:
-        - label: "[VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
+        - label: "[Atlas](https://dev.va.gov/atlas)"
         - label: "[Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
         - label: "Federal User (Bill Chapman will need to confirm)"
   - type: checkboxes
