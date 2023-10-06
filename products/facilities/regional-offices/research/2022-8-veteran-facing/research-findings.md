@@ -1,261 +1,284 @@
-**Editing in progress. Not complete.**
+# Veteran Facing VBA Research Findings
 
-**Office of the CTO - Digital Experience (OCTO-DE), VBA facilities, Sitewide Facilities**
+Office of the CTO - Digital Experience (OCTO-DE), Facilities
 
-Date: 010/06/2023
+Date: 10/17/2022
 
-**Alexis Logsdon** [alexis.logsdon@a1msolutions.com](alexis.logsdon@a1msolutions.com)
+Aslan French: aslan.french@civicactions.com Dave Pickett: dave.pickett@civicactions.com
 
-[Research readout](link)
+[Research Presentation PDF](./research-readout.pdf)
 
-<br>
+Jump to:
 
-**Jump to:**
+* [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#hypotheses-and-conclusions)
+* [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#key-findings)
+* [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#recommendations)
+* [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#who-we-talked-to)
+* [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md#further-research)
 
-[Research Goals](#research-goals)
+Labels: "AUD: Veterans", "PRDT: Facilities", "RESRCH: Interviews", "RESRCH: Remote"
 
-[Research questions](#research-questions)
+# Research Goals
 
-[Methodology](#methodology)
+## Veteran Journey
 
-[Hypotheses and conclusions](#hypotheses-and-conclusions)
+Benefit Offices touch on the following stages of the Veteran Journey:
 
-[Key findings](#key-findings)
-
-[Recommendations](#recommendations)
-
-[Appendix (including screenshots of prototype)](#appendix)
-
-[Who we talked to](#who-we-talked-to)
-
-<br>
-
-## Research Goals
-The purpose of this research is to get user feedback on the new modernized design for VBA regional office sites.
-
-There are many potential touchpoints between the Veteran and this application throughout the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) when they might want to know whether they may be eligible for VA health care with their current income:
-* Getting out (Engaging VA to access benefits and services)
-* Starting up (Finding something to do, Finding a place to live)
-* Taking care of myself (Managing primary care and chronic health issues > Disability Compensation)
-* Putting down roots (Revisiting housing, Taking care of my family, Saving for my retirement, Engaging VA to access benefits and services)
+* Getting out (engaging VA to access benefits and services)
+* Starting Up (Finding something to do, re-establishing and creating relationships, balancing finances, finding a place to live)
+* Reinventing Myself (Acquiring the appropriate education, new skills, and credentials)
+* Putting Down Roots (Revisiting housing, taking care of my family, saving for my retirement, Engaging VA to access benefits and services)
 * Retiring (Finding additional sources of income)
 
-## Research Questions
-Before seeing the prototype:
-1. What do Veterans (and others) know about VA regional benefit offices?
-2. What tasks do Veterans (and others) expect to do at VA regional benefit offices?
+## Goals
 
-From the prototype:
+The goal of this research is to understand a Veterans' experiences, impressions, and relationships with Benefit Offices.
 
-3. Do Veterans (and others) understand which services are available at this location?
-* Categories of services (i.e., Veteran benefits, Family member & caregiver benefits, Service member benefits, Other services)
-* Service offering accordions that have multiple locations inside them
-* What if they don't find an applicable service on the page?
+# Research Questions
 
-4. Do Veterans (and others) understand how services are delivered at this location?
-* In-person, virtual, or by phone (do people open the appointments accordion unprompted?)
-* With or without appointments (any comments about location of appointments information?)
-* Hours of operation--for the office vs. only for a specific service
-* Hours of operation--2 sets of hours in a single day (i.e., morning and afternoon but closed for lunch hour), comment about one of the days
-* Notice different hours/appointments per service vs. regional office in general?
+1. What benefit-related tasks do Veterans complete at Benefit Offices?
+   * Is visiting a Benefit Office necessary/sufficient to complete the task?
+   * Do Veterans have preferred modalities for doing this task?
+   * If in-person/phone/online were all available, which would they choose?
+   * Do Veterans' mental models of benefit tasks align to the actual processes?
+2. What is the Veteran experience of visiting a Benefit Office?
+   * How do Veterans travel to Benefit Offices?
+   * How do Veterans find their way to appointments within Benefit Office buildings?
+   * What is the reception experience at Benefit Offices? (i.e. check-in, waiting area)
+3. What information do Veterans need when preparing for a visit?
+   * How do Veterans prepare for their visits?
+     * What tasks do they complete? (i.e. directions, paperwork)
+     * What modalities do they use? (i.e. web, phone)
+   * Do Veterans feel prepared before their visits?
+     * Are they actually prepared?
+     * Retrospectively, what would they have needed to be prepared?
+   * Do Veterans understand the different types of Benefit Offices?
+     * If yes, do Veterans understand the relationships between Benefit Offices?
+     * Are these relationships important to Veterans?
+4. To what extent do the answers to questions 1-3 vary by:
+   * Facility type?
+   * Benefit service?
+   * Geography?
+   * Veteran demographics?
 
-5. What feedback do Veterans (and others) have on content, organization, and length of the regional benefit office web page?
-* Do Veterans (and others) interact with any of the Prepare for your visit accordions?
-* Do Veterans (and others) interact with any of the 3 Action links near the top of the page? If so, which ones?
-* How do Veterans (and others) react to seeing 2 phone numbers? Which phone number would they use and why? What do they expect when they call?
+# Methodology
 
-## Methodology 
-We conducted **usability testing** on August 28-September 5, 2023 to get feedback from research participants using a click-through prototype over Zoom. Perigean recruited the participants.
+* Semi-structured interviews - appropriate for generative research
 
-**We talked to 8 Veterans** and two Veteran's family members.
+# Hypotheses and Conclusions
 
-- 5 of 10 used a smartphone for the session, 4 used a computer, 1 used a tablet
+1. What benefit-related tasks do Veterans complete at Benefit Offices?
+   * We expect high variance by facility type and benefit service
+     * NOT ENOUGH INFORMATION: our sample was primarily from one facility type (Regional Benefit Office) and one benefit type (disability) 
+   * We expect moderate variance by Veteran demographics
+     * FALSE: not much variance between demographics
+   * We expect little to no variance by geography
+     * TRUE
 
-For more details, see [Who we talked to](#who-we-talked-to).
+2. What is the Veteran experience of visiting a Benefit Office?
+   * We expect high variance by facility type and geography
+     * FALSE: most people had good experiences with the actual logistics of the visit, such as parking, wayfinding regardless of facility type or geography
+   * We expect moderate variance by benefit service
+     * FALSE: most people had good experiences regardless of benefit service sought
+   * We expect little to no variance by Veteran demographics
+     * TRUE
 
-## Hypotheses and Conclusions
-* Veterans (and others) will understand what they can do at a VA benefit office from the new web page.
-  * **TRUE** - Almost all participants were able to locate the service accordions when prompted.
-    
-* Veterans (and others) will understand how services are delivered at this location from the new web page.
-  * **SOMEWHAT TRUE** - About 2/3 of participants were able to identify appointment modalities, only half identified hours of service for specific tasks.
-    
-* Veterans (and others) will understand how to prepare for a visit to a VA benefit office from the new web page.
-  * **MOSTLY FALSE** - Only half of participants interacted with the Prepare for your visit section and located the What to bring accordion.
-  *  Success rates were lower for participants with cognitive disabilities and BIPOC participants.
-  *  Participants made liberal use of the three Action links at the top of the page--Make an appointment, Ask a benefit question, and Check claim status--even when these links wouldn't help them complete the task.
-    
-* Veterans (and others) will know what to do if they don't find the kind of help they need on the new web page.
-  * **TRUE** - Nearly all participants identified a phone number to call for help or would use one of the action links.
+3. What information do Veterans need when preparing for a visit?
+   * We expect high variance by facility type and benefit service
+     * NOT ENOUGH INFORMATION: our sample was primarily from one facility type (Regional Benefit Office) and one benefit type (disability)
+   * We expect moderate variance by Veteran demographics
+     * FALSE: Most vets did not do much prep for their visit, regardless of demographic
+   * We expect little to no variance by geography
+     * TRUE
 
-## Key Findings
-### Service offerings
-1. In general, Veterans understood what services were available and navigated to the relevant sections easily. 
-2. Ways to get help are easy to locate.
-3. The more granular the information within an accordion, the less likely Veterans are to find it.
-### Service delivery
-4. Most Veterans were able to determine the appointment options for a given task.
-5. Having multiple sets of office hours on the page is confusing to many Veterans.
-6. Veterans with cognitive disabilities and Veterans over 55 were less likely to identify details on how services are delivered.
-### Content and organization
-7. Veterans have a strong preference for using one of the three Action links to complete tasks.
-8. Some content (eg, What to bring) is hard to locate. 
+# Key Findings
 
-<br>
+1. Veterans would like to use the website to complete tasks when the steps are clear
+2. Veterans prefer to speak to a person on-site if they can’t find clear information online
+3. Veterans expect Regional Benefit Offices to be “one-stop shops” for services
+4. Veterans aren’t sure of what tasks they can complete at the various VA offices
+
+# Details of Findings
+
+**Finding #1: Veterans would like to use the website to complete tasks  when the steps  are clear**
+
+* Most Veterans (10 / 12) prefer to complete their tasks online if the information and instructions are clear
+  * Veterans cite convenience as necessary for completing their tasks
+  * No one rated phone as their #1 preferred contact method
+    * 7 / 12 rated phone as their last preference for contact
+* Most Veterans used the website first to get information about their benefits and tasks to be completed
+  * Half of the sample expressed that the information they need is not easily found on the website
+
+> _“If they offer it online, I would do it online. I do everything online. I have done request for records online, and that is way easier because before you had to go to the VA.”_ -p4
+
+>_“I guess I wish that information was easier found out there [the website]. It may be, but I haven’t found it.”_ -p3
+
+>_“Depending on what the task was I would rather do it online if I trusted it would get done properly”_ -p17
+
+**Finding #2: Veterans prefer to speak to a person on site if they cannot  find clear information online first**
+
+* Veterans are more likely to visit the benefits office when they need additional information to complete their tasks
+* Half of the Veterans interviewed attempted to find answers to their questions online first
+* When Veterans couldn’t complete every step in the process themselves, they had confidence that the in-office staff could help them figure out next step(s)
+  * Veterans expressed a high level of trust with the staff at the Benefits Office
+
+> _“I did go to the benefits website and it gave me a little information on what programs are available, but I do like sitting down with someone to get the information.”_ -p14
+
+> _“One-stop shopping is why I picked this one [regional benefits office]. I knew I could do everything in this office. I did some researching, and you could click on a toggle and this one popped up with everything I needed to handle I could do it at this site.”_ -p2
+
+**Finding #3: Veterans expect Regional Benefit Offices to be “one-stop shops” for services**
+
+* Veterans used the website or Google prior to visiting a location to get a baseline understanding of offerings
+* Veterans have a high level of trust in staff at the Regional Benefits Office and most expressed satisfaction with their experience in-person
+* Veterans understood what they could expect at a Regional Benefits Office, but were less familiar with other types of locations
+  * Note: 83% of Veterans sampled had never visited another office
+* 9 / 12 Veterans visited a Regional Benefits Office and had no problems getting information on  the services they needed while there
+
+> _“I think what gives them a 5-star rating is that they are a one stop shop. They can help you with everything that you may need assistance with”_ -p1
+
+> _“There is one [satellite benefits office] that is closer to my house, but I prefer to go to the one I went to initially because I have always had success there.”_ -p1
+
+> _“The thing about going to the regional office is that is where all the information is available.”_ -p9
+
+**Finding #4: Veterans aren’t sure of what tasks they can complete at the various VA offices**
 
 
-## Details of Findings 
-### *Service offerings*
-DELETE when finished 
-For each finding, list details with supporting quotes and images when possible. Please add relevant keywords/labels to your findings selected from the research repository label list. Adding keywords/labels to your findings will help others find research relevant to their work.
-Labels: Accessibility, AUD: Veterans, AUD: Caregivers, AUD: Dependents, BNFT: Disability, BNFT: Disability, BNFT: Education, BNFT: Employment, BNFT: Finances, BNFT: Healthcare, BNFT: Housing, BNFT: Memorialization, DSC: Accordions, DSC: Action link, DSC: On this page jump link, DSP: Content presentation, 
-To add images: ![text](link - add image to github folder and link here with .png)
-### 1. In general, Veterans understood what services were available and navigated to the relevant sections easily.
-| Task # | Description | Success rate |
-| :- | :---------- | :--- |
-| 3 | Locate Disability | 70% |
-| 4 | Locate Home loan | 89% |
-| 5 | Locate What to bring | 70% |
-| 6 | COE status check | 67% |
-| 7 | Locate Education for Veterans | 88% |
-| 8 | Locate Education for dependants | 90% |
-| 9 | Locate Burials in Family member and caregivers | 90% |
-| 10 | Locate direct deposit in Other services | 80% |
-|  | Average across all tasks | 78% |
- *Note: Not all participants were asked to do every task. The percentages reflect successful completion rates among participants who were asked each question.*
- Some participants didn't scroll much until they were nudged to do so, but once they did, they understood how the page was organized and navigated to the relevant sections with ease. Rates were somewhat lower for the first task in the prototype (task 3) as participants got comfortable navigating the prototype. They were also slightly lower on tasks 5 and 6. These tasks required participants to navigate away from the Home loan section to the Prepare for your visit section or to scroll farther down in the Home loan accordion, respectively.
- #### Participant comments
-> It had pretty good information as far as phone numbers, the office times, whether you need an appointment or not. - P8
+* The differences between offices and what Veterans can accomplish at each isn’t obvious
+  * When in doubt, Veterans default to the Regional or Satellite Benefit Offices
+* Veterans were most confident about what they could accomplish at Regional Benefit Offices
 
-> I appreciate how all veterans' benefits are grouped together in one place. - P9
-### 2. Ways to get help are easy to locate.
-90% of participants were able to either locate a phone number to call when they couldn't find a benefit on the page (task 11), or would use the Ask the VA benefits chat.
- #### Participant comments
-> I couldn't find specific information but noted that there were options to call or schedule an appointment online. - P12
-### 3. The more granular the information within an accordion, the less likely Veterans were to find it.
+> _“I would think that the information is pushed from Regional to Satellite and that they would recommend other offices if they thought it would benefit you more”_ -p1
 
-While the average success rate on locating service accordions was 78%, participants had more difficulty identifying information inside the service accordions. On average, participants identified appointment types inside a service accordion 66% of the time, office hours 45% of the time, and phone numbers 36% of the time. All of these averages were lower for participants with cognitive disabilities; hours and appointment types rates were both lower for participants over 55. 
-| Content | Average success rate |
-| :------- | :---------- |
-| Appointment type | 66% |
-| Office hours | 45% |
-| Phone numbers | 36% |
-> So I'm simply not going to scroll down the veterans benefits and dig into all these pieces here. - P2
-### *Service delivery*
-### 4. Most Veterans were able to determine the appointment options for a given task.
-The majority of participants understood which services required an appointment and which were walk-in only.
-### 5. Having multiple sets of office hours on the page is confusing to many Veterans.
+# Additional Insights
 
-### 6. Veterans with cognitive disabilities and Veterans over 55 were less likely to identify details on how services are delivered.
-### *Content and organization*
-### 7. Veterans have a strong preference for using one of the three Action links to complete tasks.
+**Many Veterans cited frustration with phone assistance** 
 
-> I like these because these are probably the main reasons I'd visit this page. - P7
-### 8. Some content (eg, What to bring) is hard to locate.
-> Under each specific service there could be links directing people to what documents they need. - P3
+* 7 / 12 Ranked as their third preference out of receiving assistance via web, in-person, or over the phone
+* Phone trees and directories posed a level of frustration for Veterans, therefore they would rather show up in-person to ask questions about their specific needs
+* Phone assistance often left the Veterans without the answers they need to complete their task
 
-## Additional Insights
-### Many Veterans are skeptical about whether calling or chatting with AVA will yield meaningful insights.
-> I'm scared to death of a phone call because it takes so long to just get a yes or no answer - P7
+> _“I did check the website, and I did try calling and I was on hold forever. I think after 30 minutes of being on hold I gave up.”_ -p13
 
-> I'm not sure if this chat function is live or just messaging - P9
+> _“I haven’t always had good experiences with talking to people on the phone with giving out incorrect information. I just don’t trust that over reading or talking face to face.”_ -p14
 
-> I wouldn't call the office number because they're working, busy doing other stuff. - P10
+> _“When I called to get clarification, I got no answer. You still find yourself trying to get there in person so you can get clarification.”_ - p17
 
-### Spotlight boxes cause confusion and frustration.
-Some participants stopped scrolling when they reached the Spotlight boxes, but all of the service accordions were located below the boxes. Some didn't distinguish between the Spotlight content and the rest of the page. One identified information about life insurance from it, another a link to forms they could use. It was evident that they expected this content to be there all the time, which isn't the case. 
-> These three blue boxes really bother me…they're so unnecessary. They make me feel like the web page is essentially over. All the important stuff that I need is still below this. -P2
 
-## Recommendations
-Must
-## Next Steps
+**Benefit tasks Veterans sought to complete**
 
-## Further research needed
+* Increasing disability rating was the most common in our sample - 9 / 12 participants
+* Seeking VA license plate
+* Seeking guidance with education needs
+* Seeking help getting name change
+* Securing a home loan
+* Seeking education funding
+* Job placement services
+* Forms assistance
+* Determining access to mental healthcare benefits
 
-## Appendix
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-plan.md)
+# Recommendations
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2023-06-veteran-facing/conversation-guide.md)
+1. Create VBA Regional Office pages to follow existing facilities patterns
+   * Most Veterans got preliminary information from VA website or Google
+   * Veterans were comfortable looking up information on facility pages
 
-[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/transcripts)
+2. Implement clearer content when the steps to complete a task are complex or multi-step
+   * Veterans consistently cited a desire to speak someone if they felt their situation was complex
+   * Clearer content about what the requirements are for each benefit could save time and frustration for Veterans
+     * Share insights with Content Team and Benefits Team
+
+3. Follow up with research into the types of services available at each facility
+   * Make further distinctions about what services are available at what facility type
+
+## Further Research
+* Deep dive into what Veterans are visiting facilities for
+  * What do Veterans need to accomplish most often?
+  * What questions are they answering?
+  * Do their websites have the appropriate information for frequently asked questions?
+  * What is the Veteran experience at each facility type?
+* Additional research on how and when Veterans use their peer network for support
+* Forms usability and accessibility discovery
+* Content audit on accuracy and completeness of benefits processes listed on VA website
+
+# Appendix
+
+* [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-plan.md)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/conversation-guide.md)
+* [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2022-8-veteran-facing/session-notes)
 
 ## Tools used for Synthesis
-[Synthesis spreadsheet](https://docs.google.com/spreadsheets/d/1adPKduNfvJTDuNDRzxyyQDw2r24-5_L-ouYOMrVqdeM/edit?usp=sharing)
 
-[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692999071676/faf135ff7c2bb24825ac0529ed16fd4643f59408?sender=u3f35bedf61955cb051f44770)
-
-## Pages and applications used
-
-[Link to Prototype](https://www.figma.com/proto/8RYmYfVGS9CUfZbomH5lBe/VBA-Regional-Office-Prototype?page-id=0%3A1401&node-id=3-10371&starting-point-node-id=3%3A10371&hotspot-hints=0&t=OxYmMLn6Vyri5PSE-1&mode=design)
-
-### Screenshots of the prototype screens
-<details>
-  <summary>Prototype screens (Click to show screenshots)</summary>
-    [insert images here]
-</details>
+* [Mural for affinity board](https://app.mural.co/invitation/mural/vagov6717/1665513824757?sender=u4a3aab4befc428f9f54f8092&key=4bd6b12d-bcfd-4780-a0a9-06a449d84d91)
+* Notes in markdown and github tickets
+  * [link](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10194)
+  * [link](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10195)
 
 ## Who we talked to
 
-**Recruitment criteria**
+[Recruitment Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/recruitment_tracker.pdf)
 
-In order to find research participants
-- XXX
-- XXX
-- XXX
-
-We talked to **10 participants.**
+We talked to 12 participants.
 
 Audience segment:
-* Veterans: 8 
-* Caregivers or family members: 3 
-*
+
+* Veterans: 12
+* Caregivers: 1
+* Family members of a Veteran: 0
 
 Gender:
-* Male: 7
+
+* Male: 9
 * Female: 3
 
 LGBTQ+:
-* LGBTQIA+: 1
 
-
-Devices used during study: 
-* Desktop: 4 
-* Tablet: 1 
-* Smart phone: 5 
-* Assistive Technology: 0
-
+* Transgender: 0
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 0
 
 Age:
-* 18-34: 1
-* 35-54: 6
-* 55+: 3
 
+* 25-34: 1
+* 35-44: 2
+* 45-54: 2
+* 55-64+: 7
 
 Education:
-* No degree: 3
-* Post-HS degree: 7
+
+* No Higher Degree: 1
 
 Geographic location:
-* Urban: 6
-* Rural: 4
-* Continental district: 7
+
+* Northeast District: 2
+* Southeast District: 6
+* Continental District: 0
+* Pacific District: 1
 
 Race:
-* White: 8
-* Black: 2
+
+* Black: 4
 * Hispanic: 1
-* Biracial: 1
 * Asian: 0
 * Native: 1
 
-
 Disability and Assistive Technology (AT):
-* Cognitive: 3
-* AT user: 0
 
-## Underserved groups we haven’t talked to 
+* Cognitive: 3
+
+Benefit Sought:
+
+* Burial: 1
+* Disability: 9
+* Education: 2
+* Home Loan: 1
+
+## Underserved groups we haven’t talked to
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-- Identify as Asian or Transgender
-- Expat (living abroad)
-- Users of Assistive Technology 
+
+* Asian
+* LGBTQ+
+* Continental District
+* Younger than 45
+* Rural
+
