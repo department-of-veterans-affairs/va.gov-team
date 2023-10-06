@@ -95,9 +95,10 @@ Second, what does “Next of kin contact” mean to you?
 
 Thank you for sharing all of that with me! Tell me, how would you check this information in your VA record to be sure it matches what you expect is there?
 
-_ if said, they'd ask someone_if there was no one available to talk to, how would you confirm this information online?
+_if said, they'd ask someone_ If there was no one available to talk to, how would you confirm this information online?
 
 Interesting - let’s start screen sharing so you can show me how you’d do that.
+
 #### Screen sharing instructions
 
 _Instructions for folks NOT using screenreaders:_
@@ -114,17 +115,16 @@ _Instructions for folks using screenreaders on a desktop:_
 
 Great, now I can see your screen! Thank you for your patience in figuring this out.  Now please go ahead and show me how you’d check this information?
 
-Participants may start on Google, VA.gov, or somewhere else. If they go elsewhere, we eventually need to get them to VA.gov. I’d like for you to show me how to find this information on VA.gov?
-
-We expect participants will go to VA.gov and be prompted to log in at some point.
-
-	- _Nudge and probe as appropriate. If get totally lost, help them out. Ultimately, has to go to the Profile section of VA.gov. 
+_Participants may start on Google, VA.gov, or somewhere else. If they go elsewhere, we eventually need to get them to VA.gov._ 
+- I’d like for you to show me how to find this information on VA.gov?
+- _We expect participants will go to VA.gov and be prompted to log in at some point._
+- _Nudge and probe as appropriate. If get totally lost, help them out. Ultimately, has to go to the Profile section of VA.gov._
 
 ## Usability testing 40-50mins 
 
 2. _Once the person arrives on Profile:_
 
-_If had to be directed to Profile_From here, If you wanted to review the information VA has on file for who to contact if you're hospitalized, where would you go?"
+_If had to be directed to Profile_From here_: If you wanted to review the information VA has on file for who to contact if you're hospitalized, where would you go?
 
 Is it clear that the “Personal health care contacts” only pertain to health care?
   
