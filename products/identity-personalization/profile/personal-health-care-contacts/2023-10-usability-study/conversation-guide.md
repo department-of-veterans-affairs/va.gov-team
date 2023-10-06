@@ -91,7 +91,7 @@ Second, what does “Next of kin contact” mean to you?
 
 ## Tasks
 
-### Task #1: Find EC and NoK information
+### Task 1: Find EC and NoK information - X minutes
 
 Thank you for sharing all of that with me! Tell me, how would you check this information in your VA record to be sure it matches what you expect is there?
 
@@ -120,7 +120,7 @@ _Participants may start on Google, VA.gov, or somewhere else. If they go elsewhe
 - _We expect participants will go to VA.gov and be prompted to log in at some point._
 - _Nudge and probe as appropriate. If get totally lost, help them out. Ultimately, has to go to the Profile section of VA.gov._
 
-## Usability testing 40-50mins 
+### Task 2: Review Personal health contacts page - X minutes
 
 2. _Once the person arrives on Profile:_
 
@@ -140,11 +140,10 @@ Let’s pretend you need to update a phone number for your next of kin, how woul
 
 How is this information useful to you? 
 
-Things to note 
-
--Is it clear that the “Personal health care contacts” only pertain to health care? 
--Is it clear to users how to update their information? 
--Any struggles or confusion?
+### Things to note 
+- Is it clear that the “Personal health care contacts” only pertain to health care? 
+- Is it clear to users how to update their information? 
+- Any struggles or confusion?
 
 3. What information for your Emergency contact would you expect/want to see here? Why? 
 How many Emergency contacts do you want/expect to list/see? Why? 
@@ -156,7 +155,7 @@ How many next of kin would you expect/want to see here?
 
 What information would be useful to see here? Why? 
 
-## Post-task interview questions
+## Post-task interview questions - 5 minutes
 
 For participants who don’t currently receive health care: I know you said you don’t currently receive health care at VA. Why do you think you see this information in your profile?
 
