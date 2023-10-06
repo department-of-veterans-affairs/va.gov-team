@@ -1,16 +1,13 @@
 # Secondary Research Synthesis
 
 ## Past Research Studies relative to Header/Footer
-**Secondary Research Synthesis**
 
-**Past Research Studies relative to Header/Footer**
-
-- [06-2023 Health Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study) and [Next Steps documentation](https://dvagov-my.sharepoint.com/:w:/r/personal/robyn_singleton_va_gov/Documents/Docs/2023%20Wayfinding%20research/230821_Health%20Wayfinding%20Research%20Next%20Steps.docx?d=w28e996fbc58748e0963a6a84d34f5011&csf=1&web=1&e=cYFDlf) (Robyn S.)
+- [06-2023 Health Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study) and [Next Steps documentation](https://dvagov-my.sharepoint.com/:w:/r/personal/robyn_singleton_va_gov/Documents/Docs/2023%20Wayfinding%20research/230821_Health%20Wayfinding%20Research%20Next%20Steps.docx?d=w28e996fbc58748e0963a6a84d34f5011&csf=1&web=1&e=cYFDlf)
 - [04-2023 Landing Page User Research Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/2023-04-landing-page-readout.md)
-- [04-2021 Homepage Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding) (Cindy M.)
+- [04-2021 Homepage Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding) 
 - [10-2022 VA.gov Home Page Redesign ROUND 2 Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/184)
 
-**Relative Insights that may impact design:**
+### Relative Insights that may impact design:
 
 1. **Finding:** Both the [Health Wayfinding Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study) and the [Landing Page User Research Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/2023-04-landing-page-readout.md) observed that participants using mobile devices or mobile prototypes struggled or were unable to locate the My Health_e_Vet tab that linked users to the MHV landing page (same on desktop during Landing Page study). In the current experience, the My Health_e_Vet tab and My VA tab are housed in the Authenticated Menu, thereby obscuring them from view unless this dropdown is enabled by users.
  ![](RackMultipart20231006-1-2m4hbw_html_37a8e3b92d4dc28a.jpg)
@@ -37,9 +34,9 @@ The new Federal H/F design is addressing this with a standard 19px
 
 3. In the [10-2022 VA.gov Home Page Redesign ROUND 2 Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/184)a potential accessibility issue was discovered in which  **buttons on the far right side of the home page were missed while using a screen magnifier on a computer**. One participant (using ZoomText on a computer NOT a screen reader) didn't notice the _Veterans Crisis Line_ button at the top right of the home page, as well as the _Feedback_ button on the bottom right of other VA.gov pages. His magnified view showed only the left half of the page, and without any visual indication of more to the right, he assumed there wasn't anything there.
 
- In the new Fed H/F design, placement is in a different location and should be included in usability testing to consider if this is a persistent issue.
+In the new Fed H/F design, placement is in a different location and should be included in usability testing to consider if this is a persistent issue.
 
-**Takeaways to consider for Primary Research:**
+### Takeaways to consider for Primary Research:
 
 1. Follow up for Insight #1, do users still struggle finding MHV and MyVA
 2. Task Flow Analysis of Nav IA
