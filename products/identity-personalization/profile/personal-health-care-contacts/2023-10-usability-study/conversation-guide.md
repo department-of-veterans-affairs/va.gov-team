@@ -1,4 +1,4 @@
-# Conversation Guide: Emergency contact and Next of kin information usability, October 2023
+# Conversation Guide: Personal health care contacts usability, October 2023
 
 ## Moderator logistics
 
@@ -74,9 +74,17 @@ Great, that’ll be helpful to know as we move forward.
 
 There are a couple of terms I’m curious to talk to you about. I’m interested to know what they mean to you.  
 
-First, what does “medical emergency contact” mean to you?  As far as you know, do you have that information in your VA record? How do you know? How do you expect VA to use that information?
+First, what does “medical emergency contact” mean to you?  
+- As far as you know, do you have that information in your VA record?
+- How do you know?
+- How do you expect VA to use that information?
+- Where or when do you expect to be asked about this?
 
-Second, what does “Next of kin contact” mean to you?  As far as you know, do you have that information in your VA record? How do you know? How do you expect VA to use that information?
+Second, what does “Next of kin contact” mean to you?  
+- As far as you know, do you have that information in your VA record?
+- How do you know?
+- How do you expect VA to use that information?
+- Where or when do you expect to be asked about this?
 
 ## Tasks
 
