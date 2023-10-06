@@ -2,12 +2,11 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+### What problem is your product trying to solve?
+The VA mails VA Form 21-0538, a mandatory paper form for dependent verification, to Veterans with dependents only every eight years. The burden is on the Veteran to notify the VA of any changes in dependent status in between these (infrequent!) notifications. This results in significant over and underpayments, costing the VA ~ $250 million per year and burdening Veterans with debt.
+
+
 
 ### OCTO Priorities 
 
