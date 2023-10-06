@@ -1,3 +1,38 @@
+## Meeting Notes for CRM Sync on 10/5/2023
+
+Timelines discussed. Analytics considered.
+
+### Attendees:
+
+* **Integration Team:** Joe, Jacob, Khoa, Eddie
+* **CRM Team:** Chris, Shelby, Tina
+* **Note Taker:** Eddie, Khoa
+
+### Key Takeaways:
+
+* There was a discussion around the implications of not using Dynamics as the system of record. CRM team expressed concerns.
+  * RE: AVA Profile, email address preference is used internally
+  * RE: Education lookups, data can be edited/added by agents
+  * RE: CRM tools, agent can look up history if the email matches, but may not match if comming from VA Profile
+  * How to determine vet versus submitter
+  * How to distinguish between personal and business profile
+* There seems to be confusion on what API will be developed first.
+  * First should be the "ping/pong" endpoint. We need to ensure the plumbing works as intended.
+  * Submitting Inquiry should happen towards the end of the dev work.
+  * Lookups are prime candidates for early implementation, but we need to know which are Dynamics and which will be va.gov APIs. To be settled by the time the 10/10 documentation is wrapped up.
+  * We will discuss this in more detail on 10/6, in a meeting Becky has set up.
+
+### Action Items:
+
+1. - [ ] Joe to send GitHub link to meeting note link to larger email group, incl. Em if not already on the list.
+2. - [ ] Joe and devs to wrap up API documentation by 10/10 for final review and feedback from CRM team after that.
+3. - [ ] Joe (and Ruchi/Becky) to create a granular timeline in a spreadsheet by 10/12 that CRM can review and offer feedback.
+4. - [ ] Joe to schedule a meeting after the documents are reviewed by CRM; agenda to include using or not using Dynamics as the SoR.
+
+
+----
+
+
 ## Meeting Notes for CRM Sync on 10/3/2023
 
 Timelines discussed. Analytics considered.
