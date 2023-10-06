@@ -83,7 +83,7 @@ Data collection will be remote and conducted using Zoom.
 
 ### Research materials
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/2023-10-usability-study/conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/discovery-research/2023-10-personal-health-care-contacts-usability/conversation-guide.md)
 
 ## Recruitment
 
