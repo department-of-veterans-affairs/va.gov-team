@@ -31,13 +31,13 @@ Plan of attack; System of record; Continuous communication.
     * PATSR
     * CORE (?? - confirm with Chris)
     * Difference between Facilities API and the data in Dynamics where agents can add and edit entries?
-  * Level of detail on granular plan on 10/12:
-    * account for the same tasks for all API endpoints
-      * documentation
-      * development
-      * testing
-      * integration / validation
-      * What does "done" look like?
+* Level of detail on granular plan on 10/12:
+  * account for the same tasks for all API endpoints
+    * documentation
+    * development
+    * testing
+    * integration / validation
+    * What does "done" look like?
 
 ### Action Items:
 
