@@ -5,14 +5,14 @@ Ensuring accuracy and alignment to VHA decision tree and calculator logic
 ### Currently identified changes being resolved:
 - Integration of Liquid Cash to calculation GH# [66245](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/66245)
 - Remove Assets from calculation for long forms GH# [66245](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/66245)
-- 
+- Streamlined Waiver with Compromise Options GH# [66940](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/66940)
 
 
 
 ### Tracking Submission Inquiries
 |Date|Transaction ID  |Initial Findings| VODA initial review comments| Resolution|  Issue Resolved?
 |--|--|--|--|--|--|
-|10/03/23|ff8c4801-6398-4388-a193-0e55f71b848a |VHA is seeing "FSR Reason = Compromise, Automatically Approved" They are wondering why that is| VODA initial review comments TBD| Resolution TBD|  |
+|10/03/23|ff8c4801-6398-4388-a193-0e55f71b848a |VHA is seeing "FSR Reason = Compromise, Automatically Approved" They are wondering why that is| VODA discovered an edge case where this Veterans who did qualify for the Streamlined waiver short flow was still able to see and enter a compromise amount| Bug Fix ##66940|  |
 |9/27/23 |87e1f8d1-e0db-439f-9439-d071f5171890 |Identified by reviewer quested non approval status| Submission was determined they may have qualified for the long form but real estate/auto assets put them over the threshold. Was updated on 10/3/23 when asked to take a second look. this particular submission was eligible for streamlined waiver (flag on + only VHA copays selected) but their income puts them over the GMT Threshold but still under the 150% threshold (long path when taking into account assets). GMT Threshold for their zip is $60,700, the Veteran has a net monthly income of $3,136 and their spouse of $2,583; over the course of 12 months that puts them at (3136 + 2583) * 12 = $68,628. So I'm seeing $60,700 < $68,628 < $91,050 which we would then evaluate for the long form path which is where their assets put them over...currently| Removal of Assets from calculation GH#66245|  Issue Resolved?
 |9/12/23 |8cc935f3-6bec-4bca-938d-920ffec47b6e  |Long form error - It should have been approved based on Veteran's income of $53,418.12 annually, above the $47,250 GMT, which moves it into the "long form", but below 150% of GMT ($70,875) cash on hand ($450) is also below the 6.5% of GMT ($3,071.25), and discretionary income based on expenses of $4,029.96 ($4,451.51 - $4,029.96 = $421.55) is less than Disc. Income of 1.25% of GMT ($590.63).  | VODA including auto assets put them over threshold for long form | Remove Assets from calculation GH #66245 | |
 |9/12/23|81975212-29b7-40e9-bb51-045e276b9b95|Short form error - If using income as annual, it should have been approved based on income ($32,665.92) being below $56,350 GMT and Cash on Hand ($0) being less than 6.5% ($3,662.75). |Spouse income is listed ~$33k / month and we don't take into account when inputting annual vs monthly. VODA only collects monthly incomes from the Veteran - not annual| No change needed| Yes|
