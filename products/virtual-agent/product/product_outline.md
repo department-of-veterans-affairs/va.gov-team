@@ -1,9 +1,23 @@
 # VA Chatbot
 
-#### Platform Partners
-* Prescriptions Skill Integration with VHA Office of Connect Care(OCC): [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md)
+### Communications
+* Github Label: va-virtual-agent
+* Slack channel: #va-virtual-agent-public, #va-virtual-agent-platform
 
-## Problem Statement
+### Point of Contacts
+* OCTO-DE Product Lead: Luciana Morais, Nathalie Rayter (VES)
+* Product Manager: Joy Elizabeth
+* Project Manager: Zinal Patel
+* Technical Lead: Karan Krishnani
+* Quality Analyst: Swapna Krishnankutty
+
+#### Platform Partners
+| Team                 | Feature                  | Initiative Brief         | Dates        |
+| :---------           | :---------               | :---------          | :---------    |
+| VHA Office of Connected Care (OCC) | Prescriptions Skill and Health Chat Integration | [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/rx-initiative-brief.md) | April 2023 - January 2024 | 
+|  |  |  |  |
+
+## Overview
 
 Created in 2021, the VA Chatbot is a well-developed and maintained virtual agent that helps users solve problems and complete tasks on their own with little to no human involvement at any time of day, resulting in decreased time Veterans spend waiting for an outcome, and ultimately decreased call center calls – especially for calls involving simple questions and/or solutions. 
 
@@ -15,7 +29,7 @@ The areas we address:
 2. Providing the Veteran with another channel to interact with the VA that is available 24 hours 
 3. Providing other VA teams to integrate with our bot
 
-## Existing Features
+## VA Chatbot Features
 
 Up until now, the bot has been trained in the following pages for general knowledge questions: 
 
@@ -36,32 +50,15 @@ Our current feature in progress is the [Prescriptions Skill](https://github.com/
 - We will launch to a small subset of users for a limited study
 
 
-##  Measuring Success
+##  Analytics
+* [VA Chatbot DOMO Dashboard](https://va-gov.domo.com/page/939649897?userId=111029849)
+* Google Analytics
 
 The VA Chatbot measures KPIs through Google Analytics and our dashboard on DOMO. Some of our most used and/or desired measurements of success include: 
-
 - Engagement rates
-  - How many users interact with the new virtual agent?
-  - How many left without interaction?
-  - How many users ask multiple questions in one session? 
-  - How many ask the same question (in variations)  during one session? 
-
 - Satisfaction rates
-  - How many times was the virtual agent able to answer a question? 
-  - How many times was it not able to answer a question?
-  - How do veterans feel about the interaction?  (feedback)
-  - What could be improved? 
-  - Are they likely to use this again? 
-
 - Perceived human-requirements
-  - How many users directly ask to speak with a human (e.g., phone number) ?
-  - How many still want to speak with a human after an interaction? 
-  - How many posed a crisis-related statement/question? 
-
 - Content requests
-  - What are the most asked about topics by users?
-  - What types of tasks did users ask the bot to do?
-
 
 ## Things we’ve learned
 
