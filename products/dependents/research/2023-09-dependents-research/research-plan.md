@@ -92,7 +92,7 @@ Our topline metric is reducing the average amount of debt accrued by Veterans, a
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-We will use two distinct interview guides:
+We will use two distinct conversation guides:
 
 - A semi-structured interview focused on learning how the Veteran understands dependent benefits overall.
 - A usability test focused on evaluating perceived trustworthiness and effectiveness of proposed notification MVP.
@@ -101,42 +101,24 @@ We will use one interview guide per interview and alternate interviews so that w
 
 The semi-structured interview guide will focus on questions around the participant's knowledge of dependent benefits, prior experiences with dependent benefits, and expectations around wayfinding, navigation, and notification. This will inform future improvements and help us prioritize future improvements by need and impact. We'll recruit for participants with current dependents claimed on pension and/or benefits and include screener questions aimed at representing a maximum of cohorts of dependent types and experience. 
 
-The usability test guide will focus on showing participants a mobile-first prototype of the email notification MVP that includes general messaging encouraging readers to review current dependents. We'll ask questions to uncover particiapnts' comprehension of the message's intent, including who it's for, what it's warning against, and what it's asking of them as well as their expectations of how and where to take action and whether they would take action in response to the notification. We'll recruit for participants with current dependents claimed on pension and/or benefits and include screener questions aimed at representing a maximum of cohorts of dependent types and experience with a focus on those cohorts most impacted by benefit overpayments: Veterans who have claimed spouses, minor children, and school-aged children. 
+The usability test guide will focus on showing participants a mobile-first prototype of the email notification MVP that includes general messaging encouraging readers to review current dependents. We'll ask questions to uncover participants' comprehension of the message's intent, including who it's for, what it's warning against, and what it's asking of them as well as their expectations of how and where to take action and whether they would take action in response to the notification. We'll recruit for participants with current dependents claimed on pension and/or benefits and include screener questions aimed at representing a maximum of cohorts of dependent types and experience with a focus on those cohorts most impacted by benefit overpayments: Veterans who have claimed spouses, minor children, and school-aged children. 
 
 The dual guide approach will also allow us to be flexible and responsive to the participant if an individual session lends itself better to one or the other (for example, if a Veteran is having technical difficulties viewing the prototype, we can pivot from the evaluative to the generative guide).
 
-All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a mobile-first prototype based in sketch. 
-
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a mobile-first prototype based in Sketch. Participants may be asked to share their screen. 
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
+- [Moderated interview conversation guide](url goes here)
 
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
+- [Usability test conversation guide](url goes here)
 - [Link to prototype](url goes here)
 
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
 
