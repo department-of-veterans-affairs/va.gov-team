@@ -1,4 +1,4 @@
-**Editing in progress. Not complete.**
+[**Editing in progress. Not complete.**
 
 **Office of the CTO - Digital Experience (OCTO-DE), VBA facilities, Sitewide Facilities**
 
@@ -229,3 +229,4 @@ This research does not include the perspectives of the following marginalized Ve
 - Identify as Asian or Transgender
 - Expat (living abroad)
 - Users of Assistive Technology 
+](https://github.com/department-of-veterans-affairs/va.gov-team/commits/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md)https://github.com/department-of-veterans-affairs/va.gov-team/commits/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-findings.md
