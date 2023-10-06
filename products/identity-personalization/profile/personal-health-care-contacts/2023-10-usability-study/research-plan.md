@@ -3,7 +3,6 @@
 ## Background
 
 The Cartography team is working with the Authenticated Experience team to add Emergency contact (EC) information and Next of kin (NOK)  information to the VA.gov Profile.
-
 There is currently an absence of a digital self-service method that allows Veterans to proactively view, add, or edit their emergency contact and next of kin information. 
 
 The goals of adding emergency contact and next of kin information: 
@@ -19,6 +18,7 @@ While veterans won't be able to immediately proactively manage their information
 You can read more at [Emergency Contact and Next of Kin Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/ec-and-nok/ec-and-nok-outline.md).
 
 ### OCTO Objectives
+
 This research supports the following OCTO objectives: 
 
 1. Veterans can manage their health services online
@@ -26,7 +26,9 @@ This research supports the following OCTO objectives:
 3. Logged-in users have a personalized experience, with relevant and time-saving features
 
 ### Veteran Journey
+
 This research fits into these points of a Veteran's Journey:
+
 - Starting up
 - Taking care of myself
 - Retiring
@@ -48,19 +50,19 @@ This research will inform the direction of this proposed design concept: we will
 
 1. Are users able to navigate to the Emergency contact and Next of kin information from an unauthenticated state?
  
-Is it intuitive to find this information within VA.gov profile?
+	- Is it intuitive to find this information within VA.gov profile?
 
 2. What are users' reactions and understanding of the proposed designs? 
 
-Is it clear that the “Personal health care contacts” only pertain to health care? 
-Is it clear to users how to update their information? 
-Do participants understand what is meant by “Next of kin” information? 
+	- Is it clear that the “Personal health care contacts” only pertain to health care? 
+	- Is it clear to users how to update their information? 
+	- Do participants understand what is meant by “Next of kin” information? 
 
 3. What are users expectations for Emergency contact and Next of kin information? 
 
-How is the “read only” data useful to Veterans?
-How many Emergency contacts and Next of kin contacts do people want/expect to list/see? 
-What type of information for both Emergency contact and Next of kin do users expect to need to provide?
+	- How is the “read only” data useful to Veterans?
+	- How many Emergency contacts and Next of kin contacts do people want/expect to list/see? 
+	- What type of information for both Emergency contact and Next of kin do users expect to need to provide?
 
 ### Hypotheses
 
@@ -89,58 +91,68 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 
 We’d like to recruit 12 participants for a total of 8 completed sessions:
 
+We would like to request a kick-off meeting with Perigean to go over the recruitment criteria and screener questions.
+**Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes**
+- Wednesday, October 11: 10 - 12pm, 3 - 4:30pm EST 
+- Thursday, October 12:  10 - 12pm, 1 - 2pm, 3 - 4pm EST 
 
 ### Recruitment criteria
 
 All participants:
-Must be veterans
-Must have a computer or mobile phone and be willing to complete their sessions on this device
-Must be willing to share a web browser window on the Zoom call
-Must have a working microphone
-Must have Zoom downloaded to their computer or mobile phone prior to the session and know how to share their screen
-Must have signed into VA.gov or MHV, for any reason and need to know their login information 
+
+- Must be veterans
+- Must have a computer or mobile phone and be willing to complete their sessions on this device
+- Must be willing to share a web browser window on the Zoom call
+- Must have a working microphone
+- Must have Zoom downloaded to their computer or mobile phone prior to the session and know how to share their screen
+- Must have signed into VA.gov or MHV, for any reason and need to know their login information 
+
 Some participants:
-4 people who use screen readers on desktop 
-At least 4 people with identify as having a cognitive considerations
-6 people who can join the session from a smartphone
-At least 3 people who are 55+, but not more than 8
-6 people who identify as a race other than White/Caucasian
-6 people who identify as a gender other than male
-8 people who currently receive health care through VA
-4 people who have not received health care through VA in the last 10 years, but do have a disability rating
+
+- 4 people who use screen readers on desktop 
+- At least 4 people with identify as having a cognitive considerations
+- 6 people who can join the session from a smartphone
+- At least 3 people who are 55+, but not more than 8
+- 6 people who identify as a race other than White/Caucasian
+- 6 people who identify as a gender other than male
+- 8 people who currently receive health care through VA
+- 4 people who have not received health care through VA in the last 10 years, but do have a disability rating
 
 ### Screener questions
 
-
-We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identity-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
+1. We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identity-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
 > _Response options: yes or no (Answering `yes` would qualify the participant.)_
 
 
-Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
+2. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
 > _Response option: text box (we need a minimum of 4 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
-
-Are you able to join the session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
+3. Are you able to join the session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
 > _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for smart phone users. If yes, proceed to 4a.)_
-Have you downloaded the Zoom app to your smartphone, know how to screen share, and have a working microphone on your phone?
+
+3a. Have you downloaded the Zoom app to your smartphone, know how to screen share, and have a working microphone on your phone?
 > _Response options: yes or no (Answering `yes` would qualify the participant. If no, proceed to 4b)_
-You’ll need to download Zoom, use a working microphone and be ready to screenshare to participate in this session. Please let us know if you need help doing these things prior to your scheduled start time.
 
+3b. You’ll need to download Zoom, use a working microphone and be ready to screenshare to participate in this session. Please let us know if you need help doing these things prior to your scheduled start time.
 
-What device will you use to join the session?
+4. What device will you use to join the session?
 > _Response option: text box_
 
-
-Do you need to use screen reader technology to use the internet, such as JAWS on a computer?
+5. Do you need to use screen reader technology to use the internet, such as JAWS on a computer?
 > _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for screen reader users. If yes, proceed to 5a)_
-Are you able to join the Zoom session using this assistive technology?
+
+5a. Are you able to join the Zoom session using this assistive technology?
 Yes (Recruit 4, go onto Screener question 5b)
 No (Disqualify as screenreader participant; can be recruited based on other criteria)
-Please list the name of the assistive technology or software you will use during the session.
-			Response option: textbox
+
+5b. Please list the name of the assistive technology or software you will use during the session.
+> _Response option: text box_
+   
 6. Have you received health care at a VA health facility within the last 10 years?
 > _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for 8 health care users. If yes, skip question 7. If no, proceed to question 7)_
+
 7. Do you have a disability rating?
+
  (Answering `yes` would qualify the participant to satisfy criteria for 4 participants who do not have health care, but have a disability rating. If no, disqualify)_
 
 ## Timeline
@@ -181,8 +193,8 @@ Please list the people who will be serving in each role.
 - Participants for pilot test: TBD
 - Note-takers: Shared amongst team members
 - Observers: 
-  -  liz.lantz@adhocteam.us
-  -  samara.strauss@va.gov
+  - liz.lantz@adhocteam.us
+  - samara.strauss@va.gov
   - pamela.drouin@a1msolutions.com
   - michael.collier@agile6.com
   - patrick.bateman@va.gov 
@@ -190,7 +202,9 @@ Please list the people who will be serving in each role.
 all others to sign up via sign up list. 
 
 ## Approvals
-- Reviewed and approved by 
+- Reviewed and approved by Samara Strauss, Patrick Bateman on 
 - Reviewed and approved by Shane Strassberg on 
+
+
 
 
