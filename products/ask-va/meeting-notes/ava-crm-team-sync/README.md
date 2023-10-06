@@ -1,3 +1,53 @@
+## Meeting Notes for CRM Sync on 10/6/2023 (off-cycle, ad-hoc meeeting)
+
+Plan of attack; System of record; Continuous communication.
+
+### Attendees:
+
+* **Integration Team:** Joe, Jacob, Eddie, Ruchi, Em
+* **CRM Team:** Chris, Shelby, Joseph Duty, Jamie
+* **Note Taker:** Eddie
+
+### Key Takeaways:
+
+* Improved Communication
+  * Meeting notes to follow every CRM sync, posted to GitHub, with link sent to Slack and Email.
+* Plan of Attack
+  * Implement "ping/pong" endpoint first to ensure we can call into Dynamics API servers and get a response.
+  * Implement lookup APIs, since they have a lower complexity.
+  * Implement submit inquiry ennpoint later, since it's dependent on other APIs and has more complexity.
+* System(s) of Record (SoR)
+  * There are two basic, oposing options:
+    1. Treat Dynamics as the system of record, and everything will simply work since the keys and values will match themselves.
+    2. Use the va.gov-directed APIs for lookups and profile data, which carries the risk that values will not match between the form and data in Dynamics' Dataverse.
+  * Scenarios to explore:
+    * Verify that "simple" lookups like State, Province, Military bases, and Diplomatic addresses will work as intended if pulled from Lighthouse.
+    * Email address should match for the CRM agent to pull veterans' history. Can this be made so when calling VA Profile?
+    * Email preference for submitter in AVA should be honored. Will the VA Profile equivalent satisfy this requirement?
+    * How will we determine vet versus submitter versus agent on vet's behalf without Dynamics as SoR?
+    * How will we distinguish between personal and business profile?
+  * Important systems for the Dynamics side include the following. Should we use same if we're not using Dynamics as SoR?
+    * WEAMS
+    * PATSR
+    * CORE (?? - confirm with Chris)
+    * Difference between Facilities API and the data in Dynamics where agents can add and edit entries?
+  * Level of detail on granular plan on 10/12:
+    * account for the same tasks for all API endpoints
+      * documentation
+      * development
+      * testing
+      * integration / validation
+      * What does "done" look like?
+
+### Action Items:
+
+1. - [ ] Joe to send GitHub link of meeting notes to larger email group and #ask-va-public Slack channel, after every CRM Sync.
+1. - [ ] Joe to incorporate the steps for "done" in the granular project timeline.
+
+
+----
+
+
 ## Meeting Notes for CRM Sync on 10/5/2023
 
 Timelines discussed. Analytics considered.
