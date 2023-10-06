@@ -43,8 +43,8 @@ Start the pre-need eligibility application {link - action}
 #### When you apply, be sure to have these on hand: {h4}
 
 * Personal information (including Social Security number and date of birth).
-* Military history or the military history of the Veteran or service member or Veteran who’s sponsoring your application.
-* The name of the VA national cemetery where you’d prefer to be buried.
+* Military history or the military history of the Veteran or service member who’s sponsoring your application.
+* The name of the VA national cemetery preferred for burial.
 [Find a VA national cemetery (opens in a new tab)](https://staging.va.gov/find-locations)
 
 #### To help us process your application faster, you can upload: {h4}
@@ -152,7 +152,7 @@ Are you filling out this application for yourself or for someone else? (*Require
 {additional-info text}
 
 One of these descriptions must be true about the applicant you’re filling out this application for:
-- They have a disability that 	prevents them from making 	decisions for themselves or 	providing the information needed to complete forms, **or**
+- They have a disability that prevents them from making decisions for themselves or providing the information needed to complete forms, **or**
 -  They physically can’t sign the application
 
 {end additional-info text}
@@ -282,8 +282,8 @@ What is your relationship to the Veteran or service member sponsoring your benef
 {additional-info text}
 
 We consider someone an adult dependent child if either of these is true:
-- They became permanently 		physically or mentally disabled and unable to support themselves before the age of 21, **or** 
-- They became permanently 		physically or mentally disabled and unable to support themselves before the age of 23, if they were enrolled full time in a school or training program at the time their disability started 
+- They became permanently physically or mentally disabled and unable to support themselves before the age of 21, **or** 
+- They became permanently physically or mentally disabled and unable to support themselves before the age of 23, if they were enrolled full time in a school or training program at the time their disability started 
 **Note:** Adult dependent children must be unmarried to be eligible for burial in a VA national cemetery.
 
 {end additional-info text}
@@ -333,8 +333,8 @@ What is the applicant’s relationship to the Veteran or service member sponsori
 {additional-info text}
 
 We consider someone an adult dependent child if either of these is true:
-- They became permanently 		physically or mentally disabled and unable to support themselves before the age of 21, **or** 
-- They became permanently 		physically or mentally disabled and unable to support themselves before the age of 23, if they were enrolled full time in a school or training program at the time their disability started 
+- They became permanently physically or mentally disabled and unable to support themselves before the age of 21, **or** 
+- They became permanently physically or mentally disabled and unable to support themselves before the age of 23, if they were enrolled full time in a school or training program at the time their disability started 
 **Note:** Adult dependent children must be unmarried to be eligible for burial in a VA national cemetery.
 
 {end additional-info text}
