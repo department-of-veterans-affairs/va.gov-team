@@ -52,7 +52,7 @@ As part of signing up for the study, you shared that you have a VA.gov or MHV ac
 
 Thank you for confirming these things! Now, I have a few things about today I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45-60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session, or do not want to answer a question, that's no problem. Please let me know. 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -91,7 +91,7 @@ Second, what does “Next of kin contact” mean to you?
 
 ## Tasks
 
-### Task 1: Find EC and NoK information - X minutes
+### Task 1: Find EC and NoK information - 10 minutes/15 minutes AT
 
 Thank you for sharing all of that with me! Tell me, how would you check this information in your VA record to be sure it matches what you expect is there?
 
@@ -120,40 +120,36 @@ _Participants may start on Google, VA.gov, or somewhere else. If they go elsewhe
 - _We expect participants will go to VA.gov and be prompted to log in at some point._
 - _Nudge and probe as appropriate. If get totally lost, help them out. Ultimately, has to go to the Profile section of VA.gov._
 
-### Task 2: Review Personal health contacts page - X minutes
+### Task 2: Review Personal health contacts page - 8 minutes
 
 2. _Once the person arrives on Profile:_
 
 _If had to be directed to Profile_From here_: If you wanted to review the information VA has on file for who to contact if you're hospitalized, where would you go?
-
-Is it clear that the “Personal health care contacts” only pertain to health care?
   
-How do you think VA uses this information?
-  
-If needed, and applicable: You shared that you also have [XYZ] benefits from VA. Is this information related to those benefits too?
 _If arrived in the _Personal health care contacts_ section of Profile_
 
 Why don't you spend a little time getting to know this page. Please think out loud and let me know what your thoughts are about the page, the information here, and how everything is organized. 
 What do you think this page is all about?
-
-Let’s pretend you need to update a phone number for your next of kin, how would you go about doing that? 
-
+If needed, and applicable: You shared that you also have [XYZ] benefits from VA. Is this information related to those benefits too?
 How is this information useful to you? 
+Let’s pretend you need to update a phone number for your next of kin, how would you go about doing that? 
 
 ### Things to note 
 - Is it clear that the “Personal health care contacts” only pertain to health care? 
 - Is it clear to users how to update their information? 
 - Any struggles or confusion?
 
-3. What information for your Emergency contact would you expect/want to see here? Why? 
-How many Emergency contacts do you want/expect to list/see? Why? 
+### Task 3: Get insights on expectations - 5 minutes 
+
+3. What information for your Emergency contact would you expect/want to have here? Why? 
+How many Emergency contacts do you want/expect to list/have? Why? 
 What do you expect to be able to do with this information on this page? 
 
-4. What about next of kin, What information for your next of kin would you expect/want to see here? Why? 
+4. What about next of kin, What information for your next of kin would you expect/want to have here? Why? 
 
-How many next of kin would you expect/want to see here? 
+How many next of kin would you expect/want to have here? 
 
-What information would be useful to see here? Why? 
+What information would be useful to have here? Why? 
 
 ## Post-task interview questions - 5 minutes
 
