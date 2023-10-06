@@ -153,7 +153,7 @@ No (Disqualify as screenreader participant; can be recruited based on other crit
 
 7. Do you have a disability rating?
 
- (Answering `yes` would qualify the participant to satisfy criteria for 4 participants who do not have health care, but have a disability rating. If no, disqualify)_
+ >_(Answering `yes` would qualify the participant to satisfy criteria for 4 participants who do not have health care, but have a disability rating. If no, disqualify)_
 
 ## Timeline
 
