@@ -69,6 +69,7 @@ The MVP will include desktop & mobile experiences
     1. Organization
     2. Remote support
     3. Representative in a Veteran Service Organization
+    4. Expose relationships between VSOs and VSO Representatives (e.g. VSO American Legion 123 has 4 reps)
 1. Submission of 21-22/21-22a
     1. Requires signatures
     2. Investigate/address signature errors
@@ -80,4 +81,3 @@ The MVP will include desktop & mobile experiences
 1. Manage rep (can the vet cancel an existing rep)
 1. Link/integrate with other, related experiences
 2. Satisfaction survey to assess the user perceptions of our product experience
-3. Expose relationships between VSOs and VSO Representatives (e.g. VSO American Legion 123 has 4 reps)
