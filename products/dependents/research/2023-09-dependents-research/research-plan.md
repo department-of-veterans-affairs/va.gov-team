@@ -4,12 +4,15 @@
 ## Background
 
 **What problem is your product trying to solve?**
+
 The VA mails VA Form 21-0538, a mandatory paper form for dependent verification, to Veterans with dependents only every eight years. The burden is on the Veteran to notify the VA of any changes in dependent status in between these (infrequent!) notifications. This results in significant over and underpayments, costing the VA ~ $250 million per year and burdening Veterans with debt.
 
 **Where is your product situated on VA.gov? (ex: auth vs. unauth)**
+
 Our MVP is an email notification that would be sent annually to Veterans with dependents on file with VA. The email would include links to VA.gov for the Veteran to log in and view, add, or remove dependents.
 
 **What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?**
+
 The notification would be new, but the other tools already exist. Veterans would have varying levels of familiarity based on their past dependents and the number of changes they’ve had to report.
 
 
@@ -31,6 +34,7 @@ Are there moments that matter?
 What are you trying to learn from this research? 
 
 **Learn how Veterans understand dependent benefits and risks as they relate to compensation, and how they navigate the process today (Generative sessions)**
+
 - Do Veterans know who qualifies as a dependent?
 - Do Veterans understand that dependents can impact compensation benefits, not just be eligible for other benefits (education, etc.)?
 - Do Veterans understand the risk of debt / overpayment?
@@ -40,6 +44,7 @@ What are you trying to learn from this research?
 - Where would Veterans expect to manage their dependent info? On their Profile?
 
 **Evaluate the perceived trustworthiness and effectiveness of our proposed notification (Evaluative sessions)**
+
 - What notification types should we start with to test our approach? Eg prioritize a cohort most at risk of overpayments, prioritize a cohort who will be most responsive, etc?
 - Will Veterans quickly determine the purpose of notification?
 - Will they follow/complete the primary CTA?
@@ -51,6 +56,7 @@ What are you trying to learn from this research?
 - Once on va.gov, are Veterans confident in their data security? 
 
 **Learn Veterans’ device and notification preferences (Generative and evaluative sessions)**
+
 - What device would they use for various tasks (checking email, viewing dependents, adding or removing a dependent)?
 - Text vs email vs mail — where do they expect to receive info, what would they prefer, what do they actually read?
 - What is the right frequency and time of year for notifications (e.g. when school begins, when they’re doing their taxes, etc.)
@@ -68,35 +74,37 @@ Our topline metric is reducing the average amount of debt accrued by Veterans, a
 
 ### Hypothesis
 **Veterans will have some knowledge of the benefits and risks of claiming dependents through the VA but they may not be aware of the extent to which they can be liable for paying back benefit overpayments.**
+
 - Veterans also may not be aware that parents, spouses, and children over 18 enrolled in school full time can be eligible as dependents. 
 - The majority of Veterans with dependents already on record will be familiar with the process of adding and removing dependents, though fewer may be familiar with the View Dependents page. 
 - We know from the Profile team’s research that dependents are a top search term for Profile search and that VA.gov users will use links in the Profile section when provided. We hypothesize that a majority of participants visiting VA.gov on mobile will use the Profile personalized dropdown menu to navigate to the dependents section.
 
 **The majority of Veterans who need to make updates to their dependents will follow the call to action in the dependents verification notification.**
+
 - They will be able to recognize their own situation in the list of examples provided, and understand if they need to update their dependents. 
 - They’ll do this despite some distrust of the VA and email links in general because the risk of debt mentioned in the notification messaging will be motivating enough to outweigh security concerns. 
 
-**The majority of Veterans will expect email notifications. A significant cohort who previously only used paper forms, phone, or VSO offices will expect mail notifications, and not have an account on VA.gov. A minority will prefer text notifications. Some may want the option to receive notifications via the app.**
+**The majority of Veterans will expect email notifications. A significant cohort who previously only used paper forms, phone, or VSO offices will expect mail notifications, and not have an account on VA.gov. A minority will prefer text notifications.**
+
+- Some may want the option to receive notifications via the app.
 - They would appreciate customized reminders at relevant moments (e.g., when a child reaches a certain age). Some moments that require dependents to be updated will be more sensitive than others (e.g., divorce or death), and may be inappropriate times to send reminders; in these cases, Veterans will want messaging to be more general and less targeted to their situation, and come after some time has passed.
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+We will use two distinct interview guides:
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+- One focused on evaluating perceived trustworthiness and effectiveness of proposed notification
+- One based on learning how the Veteran understands dependent benefits overall.
+
+We will use one interview guide per interview and alternate interviews so that we can gather evaluative and foundational information in parallel. 
+
+The generative guide will focus on questions around the participant's knowledge of dependent benefits, prior experiences with dependent benefits, and expectations around wayfinding, navigation, and notification. This will inform future improvements and help us prioritize future improvements by need and impact. We'll recruit for participants to fulfill 
+
+This will also allow us to be flexible and responsive to the participant if an individual session lends itself better to one or the other (for example, if a Veteran is having technical difficulties viewing the prototype, we can pivot from the evaluative to the generative guide).
+
+All interviews will be conducted online on mobile or desktop devices via Zoom.  
+
 
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
