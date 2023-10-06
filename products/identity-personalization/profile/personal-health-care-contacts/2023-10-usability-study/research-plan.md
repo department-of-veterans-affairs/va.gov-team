@@ -1,8 +1,9 @@
-# Research Plan for Cartography and Authenticated Experience Profile teams: Emergency contact and Next of kin information usability, October 2023
+# Research Plan for Cartography and Authenticated Experience Profile teams: Personal health care contacts usability, October 2023
 
 ## Background
 
-The Cartography team is working with the Authenticated Experience team to add Emergency contact (EC) information and Next of kin (NOK)  information to the VA.gov Profile.
+The Cartography team is working with the Authenticated Experience team to add Emergency contact (EC) information and Next of kin (NOK) information to the VA.gov Profile. This will live in a new section of profile called "Personal health care contacts".
+
 There is currently an absence of a digital self-service method that allows Veterans to proactively view, add, or edit their emergency contact and next of kin information. 
 
 The goals of adding emergency contact and next of kin information: 
@@ -15,7 +16,7 @@ The goals of adding emergency contact and next of kin information:
 
 While veterans won't be able to immediately proactively manage their information in place (for the MVP), the information will now be in a centralized place for Veterans to view and review. The followup work will add the functionality to add/edit emergency contact and next-of-kin information. 
 
-You can read more at [Emergency Contact and Next of Kin Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/ec-and-nok/ec-and-nok-outline.md).
+You can read more details in the [personal health care contacts product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/README.md).
 
 ### OCTO Objectives
 
