@@ -99,7 +99,7 @@ All participants have used VA.gov (in any capacity, whether to file some kind of
 * Experience with disability benefits
   * 4 Veterans (50%) who have never filed for disability, but who intend to within a year. 
   * 4 Veterans (50%) who have filed for disability benefits before on va.gov.
-*Time of service 
+* Time of service 
   * At least 2 Veterans (target 4 Veterans) who served in 1990 or before.
   * At least 2 Veterans (target 4 Veterans) who served after 1990. 
 * Gender
