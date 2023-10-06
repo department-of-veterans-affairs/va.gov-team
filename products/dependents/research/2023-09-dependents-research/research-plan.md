@@ -3,13 +3,13 @@
 
 ## Background
 
-### What problem is your product trying to solve?
+**What problem is your product trying to solve?**
 The VA mails VA Form 21-0538, a mandatory paper form for dependent verification, to Veterans with dependents only every eight years. The burden is on the Veteran to notify the VA of any changes in dependent status in between these (infrequent!) notifications. This results in significant over and underpayments, costing the VA ~ $250 million per year and burdening Veterans with debt.
 
-### Where is your product situated on VA.gov? (ex: auth vs. unauth)
+**Where is your product situated on VA.gov? (ex: auth vs. unauth)**
 Our MVP is an email notification that would be sent annually to Veterans with dependents on file with VA. The email would include links to VA.gov for the Veteran to log in and view, add, or remove dependents.
 
-### What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+**What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?**
 The notification would be new, but the other tools already exist. Veterans would have varying levels of familiarity based on their past dependents and the number of changes they’ve had to report.
 
 
@@ -27,10 +27,10 @@ Are there moments that matter?
 - Retiring: Finding additional sources of income
 
 
-## Research Goals	
+## Research Goals and Questions	
 What are you trying to learn from this research? 
 
-### Learn how Veterans understand dependent benefits and risks as they relate to compensation, and how they navigate the process today (Generative sessions)
+**Learn how Veterans understand dependent benefits and risks as they relate to compensation, and how they navigate the process today (Generative sessions)**
 - Do Veterans know who qualifies as a dependent?
 - Do Veterans understand that dependents can impact compensation benefits, not just be eligible for other benefits (education, etc.)?
 - Do Veterans understand the risk of debt / overpayment?
@@ -39,7 +39,7 @@ What are you trying to learn from this research?
 - How do Veterans find their dependent information currently? Where do they look, who do they go to for help?
 - Where would Veterans expect to manage their dependent info? On their Profile?
 
-### Evaluate the perceived trustworthiness and effectiveness of our proposed notification (Evaluative sessions)
+**Evaluate the perceived trustworthiness and effectiveness of our proposed notification (Evaluative sessions)**
 - What notification types should we start with to test our approach? Eg prioritize a cohort most at risk of overpayments, prioritize a cohort who will be most responsive, etc?
 - Will Veterans quickly determine the purpose of notification?
 - Will they follow/complete the primary CTA?
@@ -50,7 +50,7 @@ What are you trying to learn from this research?
 - Is there a need for a “one stop shop” where they can view and add/remove dependents all in the same flow?
 - Once on va.gov, are Veterans confident in their data security? 
 
-### Learn Veterans’ device and notification preferences (Generative and evaluative sessions)
+**Learn Veterans’ device and notification preferences (Generative and evaluative sessions)**
 - What device would they use for various tasks (checking email, viewing dependents, adding or removing a dependent)?
 - Text vs email vs mail — where do they expect to receive info, what would they prefer, what do they actually read?
 - What is the right frequency and time of year for notifications (e.g. when school begins, when they’re doing their taxes, etc.)
@@ -62,20 +62,22 @@ What are you trying to learn from this research?
 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Evaluative findings will have direct implications for the design and content of our MVP email notification that is set to launch in Q1. More foundational insights will inform future enhancements (such as on-site notifications, changes to the Profile, View Dependents, and 686c pages, or additional notifications for other audiences) and help us prioritize where there is the greatest need and potential for impact.
 
-### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+Our topline metric is reducing the average amount of debt accrued by Veterans, and reducing the $250 million that overpayments cost the VA every year. This would also reduce the burden on VA employees in the field who have to audit Veterans and manage debt. 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+**Veterans will have some knowledge of the benefits and risks of claiming dependents through the VA but they may not be aware of the extent to which they can be liable for paying back benefit overpayments.**
+- Veterans also may not be aware that parents, spouses, and children over 18 enrolled in school full time can be eligible as dependents. 
+- The majority of Veterans with dependents already on record will be familiar with the process of adding and removing dependents, though fewer may be familiar with the View Dependents page. 
+- We know from the Profile team’s research that dependents are a top search term for Profile search and that VA.gov users will use links in the Profile section when provided. We hypothesize that a majority of participants visiting VA.gov on mobile will use the Profile personalized dropdown menu to navigate to the dependents section.
+
+**The majority of Veterans who need to make updates to their dependents will follow the call to action in the dependents verification notification.**
+- They will be able to recognize their own situation in the list of examples provided, and understand if they need to update their dependents. 
+- They’ll do this despite some distrust of the VA and email links in general because the risk of debt mentioned in the notification messaging will be motivating enough to outweigh security concerns. 
+
+**The majority of Veterans will expect email notifications. A significant cohort who previously only used paper forms, phone, or VSO offices will expect mail notifications, and not have an account on VA.gov. A minority will prefer text notifications. Some may want the option to receive notifications via the app.**
+- They would appreciate customized reminders at relevant moments (e.g., when a child reaches a certain age). Some moments that require dependents to be updated will be more sensitive than others (e.g., divorce or death), and may be inappropriate times to send reminders; in these cases, Veterans will want messaging to be more general and less targeted to their situation, and come after some time has passed.
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
