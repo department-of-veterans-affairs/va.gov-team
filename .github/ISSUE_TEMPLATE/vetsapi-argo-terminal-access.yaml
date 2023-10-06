@@ -92,10 +92,10 @@ body:
         - Other - please specify in 'Additional Notes'
   - type: checkboxes
     attributes:
-      label: Please confirm if you are on the VFS Team Roster or Platform Team Roster
+      label: Please confirm if you are on the Atlas or Platform Team Roster
       description: If you are on neither, please refer to the **Prerequisites** section at the top, and close this request until complete
       options:
-        - label: "[VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
+        - labe[Atlas](https://dev.va.gov/atlas)"
         - label: "[Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
   - type: checkboxes
     attributes:
@@ -129,5 +129,5 @@ body:
       label: Additional resources for Support Engineer
       description: Don't fill this part out, please
       options:
-      - label: "For users on a VFS team but not in the VFS Team Roster, they must start the [Platform orientation process](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html)"
+      - label: "For users on a VFS team but not in Atlas, they must start the [Platform orientation process](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html)"
       - label: "Instructions for handling requests [here](https://vfs.atlassian.net/wiki/spaces/PTST/pages/2183037084/Backend+Support+Responsibilities#Handle-vets-api-ArgoCD-terminal-access) - Support Only"

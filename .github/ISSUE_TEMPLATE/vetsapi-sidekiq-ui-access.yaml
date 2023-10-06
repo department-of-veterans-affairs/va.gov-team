@@ -8,7 +8,7 @@ body:
       value: |
         :warning: **_Prerequisites_**  
 
-        Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
+        Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://dev.va.gov/atlas)
         
         :wave: **_Instructions_**
         1. Change the **Title** to include target individual
@@ -68,10 +68,10 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Please confirm if you are on the VFS Team Roster or Platform Team Roster
+      label: Please confirm if you are in Atlas or Platform Team Roster
       description: If you are on neither, please refer to the **Prerequisites** section at the top, and close this request until complete
       options:
-        - label: "[VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
+        - label: "[Atlas](https://dev.va.gov/atlas)"
         - label: "[Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
   - type: checkboxes
     attributes:
