@@ -46,7 +46,7 @@ While sharing their screen in remote (Zoom) interviews, participants will comple
 Remote via Zoom
 
 ### Research materials
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-09-UAT-edit-as-subtask-default-send-checkbox-ui/conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-UAT-edit-as-subtask-default-send-checkbox-ui/conversation-guide.md)
 
 ## Recruitment
 Perigean will perform recruiting for 7 participants for a total of 5 completed sessions. ~
