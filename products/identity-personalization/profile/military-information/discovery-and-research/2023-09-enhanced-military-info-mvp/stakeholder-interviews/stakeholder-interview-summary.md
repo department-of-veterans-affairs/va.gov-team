@@ -18,7 +18,7 @@ Interview conducted by Liz Lantz, Authenicated Experience Profile team
 - Branch chief in the channel strategies and engagement (CSE) division within the multi-channel technology directive in the Veterans Experience Office
 - Within the CSE, her team handles the digital experience and is involved with anything that goes into VA.gov that touches customers 
 - Works a lot with Samara Strauss (Authenticated Experience Product Owner)
-- For the military information initiative, she got involved because it started with ILER.  Knowing that they want to expand beyond ILER. VEO wants to take a broader approach because this is really military exposure information.
+- For the military information initiative, she got involved because it started with ILER (Individual Longitudinal Exposure Record).  Knowing that they want to expand beyond ILER. VEO wants to take a broader approach because this is really military exposure information.
 
 ### Angela Allen
 - Business owner for military information for data coming from DoDC (Department of Defense) into any of our systems at VA
@@ -32,7 +32,7 @@ Interview conducted by Liz Lantz, Authenicated Experience Profile team
 
 ***
 ## Interview summary
-- This work started due to legislature being passed requiring VA to give Veterans access to their ILER.
+- This work started due to legislature being passed requiring VA to give Veterans access to their Individual Longitudinal Exposure Record (ILER).
   - ILER is a complication of approximately 30 different authoritative data sources.  If an update is made to an ILER, it doesn’t necessarily get updated in the authoritative data source or downstream systems.
 - 2 phases of discovery work were done, and a 3rd was planned but not executed because of the focus of the work shifted from the ILER to exposure data.
 - VEO’s focus shifted because it was determined that it is more helpful to the claims process, and therefore to Veterans, to surface their exposure data.
