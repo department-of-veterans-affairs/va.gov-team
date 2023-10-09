@@ -99,8 +99,7 @@ As an end user (veteran)
 
 ## Diagram
 
-<img width="875" alt="Screenshot 2023-10-06 at 5 00 15 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/bf9450c2-1acf-498d-8272-52d95a706903">
-
+![ITF Async (1)](https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/7e36f94a-9f52-44c2-940b-3868b4f01dd9)
 
 # Discovery
 ## Purpose
