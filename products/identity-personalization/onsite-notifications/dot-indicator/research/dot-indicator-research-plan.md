@@ -67,8 +67,8 @@ Pilot session info:
 * Date and time of pilot session: TBD
 
 ### Length of sessions
-* Session length: 45 minutes
-	* For the screen reader session, please schedule it for 75 minutes
+* Session length: 30 minutes
+	* For the screen reader session, please schedule it for 60 minutes
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 4
 
