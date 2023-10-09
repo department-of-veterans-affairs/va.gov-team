@@ -1,4 +1,4 @@
-# Profile enhanced military information MVP - stakeholder interview summary
+# Profile: Enhanced Military Information MVP - Stakeholder Interview Summary
 
 October 6, 2023
 
