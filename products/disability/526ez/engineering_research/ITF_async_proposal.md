@@ -2,6 +2,103 @@
 
 ## Data Flow
 
+### UX
+**note** for the purpose of end user facing UX, we denote ITFs as having two state, **existing** and **not existing**.  Complexity around how these states generated and represented is abstracted away from the user.
+
+As an end user (veteran)
+- I am logged in
+- I arrive at the ITF screen (beginning of form 526 flow)
+- IF I have an ITF that was created within the last year, there is no change to the exiting UX
+- IF I *do not* have an existing ITF, I see a screen informing me that one is being created, with TBD messaging to the effect of "Your intent to file has been recorded and a record is being created.  Today is the ITF date".
+ 
+### Routing Layer
+- No changes to routing / endpoints
+
+### Controller Layer
+**note** there is no external API traffic implied by the following.  The controller simply loads or creates an ITF from our application database for the user.  All async creation / validation is offloaded to model layer / Asnyc engine.
+
+- IF a valid ITF record exists for the user, the controller loads and returns it
+- IF a valid ITF **does not** exist for the user, the controller creates one and returns it
+- All async logic around the external creation of the ITF (e.g. calls to EVSS) is abstracted away from the contorller layer.
+
+### Model Layer
+**note** we *never* check for an ITF against our external source-of-truth in real time.  We trust our local database to be an update cache of valid ITFs.  To this end, we will have two new models (exact names TBD) but the structure here will reflect after our `Form526Submission` / `Form526JobStatus` relationship. We will separate the *ITF* and the *ITF creation* as logical, related chunks of data.  An ITF instance `has_many` ITF creation job records, and an ITF creation job `belongs_to` an ITF instance.
+
+**note** both the ITF and the ITF creation job will have a `status` value.  It may seem redundant to track status on the ITF if we are able to see a success status on the associated job(s), however, even when a Job succeeds, and an ITF is marked as `confirmed`, it is important that we allow the rolling-cache the ability to de-confirm (expire / invalidate) an ITF.  Rolling cache jobs are *not* tracked in the database, therefor ITF's require their own distinct `state`.  
+
+#### the ITF instance model
+- actual name is TBD
+- An ITF record is loaded from our application database by a unique user identifier
+  - Account `has_many` ITFs.  ITF `belongs_to` an Account.
+  - Because ITFs expire, and there is no good reason to delete expired ITFs, we use a one to many relation.
+- IF an ITF record is found in the database, before it is returned it is checked for **validity**.  A **valid** ITF is defined as
+  - Created within the last year (not expired)
+  - Has a transaction state of `confirmed` or `pending`.
+    - a state of `confirmed` indicates that our ITF is successfully represented in our external source of truth.
+    - a state of `pending` indicates that the ITF exists locally but is still in it's async creation cycle, possibly waiting on a retry due to downstream system problems. We **must not** create another ITF record / ITF creation job cycle, as this could register the incorrect effective date, as well as pollute our system with redundant jobs. 
+- IF an ITF record is valid it is returned to the controller.
+- IF an ITF is **not valid**, `nil` is returned.  a **non valid** ITF is the same as a non-existent ITF (from the model layer's perspective)
+  - When a `nil` or non-valid ITF is returned, the controller will `create!` and instance of the ITF model.
+  - This new ITF record will be associated with the user
+  - This new ITF record will be created with an `effective_date` timestamp.
+  - This new ITF record will be created with a status of `pending`
+    - This state will be updated asynchronously
+   
+ ### ITF creation job model
+**note** Logically simliar to our `Form526JobStatus` model.  This model tracks the status of async record creation with context on each subsequent attempt.
+
+- When an ITF instance is created, an asnyc job will be enqueued to track the source-of-truth sync of the new ITF.  This job will represented in our database by this tracking model
+- Instantiated with a status of `try`
+- Failed jobs will be updated with a status of `error`
+  - error responses will be logged and recorded on in the database
+  - When a job failes, we set the job status, record the error, and raise an error, automatically sending the job to the retry queueu where a new JobStatus model will be created.
+- Successfull jobs will updated with a status of `success`
+  - when a job succeeds, the associated ITF will also be updated with a state of `confirmed`. 
+
+### Async Engine
+**note** this is a logical encapsulation of everything required to keep our "cache" (aka local DB record) in sync with the source of truth (e.g. EVSS).  It has two parts, an async (sidekiq) creation job for ITF creation, and a rolling-cache refresh job to ensure that we maintain parity with our external source of truth. The async creation job's purpose is to allow ITF *writes* to be non-blocking, and the rolling-cache refresh is to allow our ITF *reads* to be non-blocking.
+
+#### Async Creation
+**note** there is a likely edge case where a user may perform a subsequent login while their ITF record is still being created.  We **must not** create another ITF record / ITF creation job cycle, as this could register the incorrect effective date, as well as polute our system with redundant jobs.  For this reason, we will treat `pending` as a valid ITF state, as this indicates that it is still in it's retry cycle. 
+
+- When an ITF is created in our database, an `after_create` lifecycle hook enqueues it's external creation via the **Async Engine**
+- This is a Sidekiq job the enqueues the call to our external source of truth (E.G. EVSS)
+  - This job also creates an ITF creation Job record to track itself
+- The job accepts the ID of the newly created local ITF record.  This gives it all the context it will need to load the appropriate models.
+- The job makes a call to our external source of truth
+- IF the call returns as success (e.g. `200`):
+  - we update the ITF creation Job to `success`
+  - we update the local ITF instance state to `confirmed`
+- IF the call returns non-success (e.g. `400`):
+  - we update the ITF creation Job to `error`
+  - we record the error response on the ITF creation Job record
+  - we **do not** modify the ITF record (unless this is an exhaustion event)
+  - we will raise an error, thus enqueuing the failed creation for automatic retry.
+    - These failures will most likely be caused by downstream service outages, and do not necessarily represent cause for alarm.  however, we will want to track these the same way we do other 526 related job failures in Datadog.
+  - IF the worker exhausts it's retries
+    - we update the ITF creation Job to `expired`
+    - we update the ITF record's state to `failed`
+    - we alert that manual remediation is required
+  
+#### Rolling-Cache refresh
+**note** this part is... still under consideration.  There may be a better way to do this, as a rolling cache could be expensive
+
+**note* we do not receive events from our external source of truth if something changes with an ITF. There is no known, apparent reason why our underlying source-of-truth rec ords would change, however we cannot ignore the possiblity that they might.  For this reason, we need to ensure that our local ITF records do not fall out of sync with our source-of-truth.  To accomplish this, we will have a slow rolling cache that refreshes each ITF every X number of days
+
+- TODO: figure out how often this can run
+- This job is always (maybe?) running in the background.
+- It itterates over `confirmed` ITF records that are less than a year old **only**.  Other ITF statuses would imply
+  - `pending`: the job is still in it's asnyc creation cycle, so running a cache check would be redundant
+  - `failed` manual remediation is underway
+- By running on only `confirmed` records that are less than a year old, we ensure our dataset will not grow unmanageably large
+- Runs as a trickle, checking each ITF for parity with the external state
+- IF an ITF is found to be **in sync**, we do nothing
+  - possible alternative would be timestamping as 'last synced at'.  Not sure yet if this is useful.
+- If an ITF is found to be **out of sync** it is updated to state of `broken`.  This is a non-valid state representation that we can use to alert on.
+  - It's important to have a different state for ITFs that were never synced (`failed`) vs ITFs that came out of sync (`broken`) this will probably be an important datapoint if / when we start seeing broken ITFs, as could imply a systemic problem that needs addressing.
+
+## Diagram
+
 <img width="875" alt="Screenshot 2023-10-06 at 5 00 15 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/bf9450c2-1acf-498d-8272-52d95a706903">
 
 
