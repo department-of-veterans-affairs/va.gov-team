@@ -103,6 +103,7 @@ As an end user (veteran)
 
 # Discovery
 ## Purpose
+**NOTE**: everything below this fold is for historical purposes only.  See the above architecture section for a source of truth.
 
 Gather findings, pose questions, and outline executable architecture that will allow us to make ITF creation non-blocking relative to the 
 form 526 flow.
