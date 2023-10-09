@@ -97,7 +97,7 @@ VEO hasn’t talked to Veterans about exposure data yet, so we don’t know much
 
 When a Veteran submits a claim, all they know is that they were exposed.  The onus is not on the Veteran to prove exposure; rather it’s on VBA.
 
-#### What do we know about how VBA uses this exposure data.
+#### What do we know about how VBA uses this exposure data?
 Currently, they pull the ILER record after a claim is submitted to validate the exposure data. The do a TERA memo to see if it’s TERA-related and then they put that in the record.
 
 
