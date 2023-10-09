@@ -2,6 +2,15 @@
 
 October 6, 2023
 
+## Table of contents
+- [Participants](#participants)
+- [Interview summary](#interview-summary)
+- [Interview details](#interview-details)  
+  - [ILER](#iler)
+  - [Military exposure data](#military-exposure-data)
+  - [Other considerations](#other-considerations)
+- [Timelines](#timelines)
+- [Next steps](#next-steps)
 ## Participants
 ### Melissa Rebstock
 - Branch chief in the channel strategies and engagement (CSE) division within the multi-channel technology directive in the Veterans Experience Office
@@ -85,7 +94,7 @@ VEO feels this data would be most useful on VA.gov from a personalization standp
 
 > With deployment information, if you have a deployment area in a Veteran record that you know is part of the PACT act activity, somehow, hint to them somewhere that you were deployed here. Say, “consider filing a claim”. That’s how I see that being related and helpful to a Veteran. If a Veteran doesn’t feel like it’s relevant or helpful, then I would question whether or not we should show it. I still think Veteran feedback needs to drive the information that’s shown. - Melissa Restock
 
-Surfacing this data would also help the front line VBA claims edjudicators because of the research they’re currently having to do to verify a Veterans ILER. If we’re pulling that information in one place it helps a lot to improve the claims process for Veterans and the VBA.
+Surfacing this data would also help the front line VBA claims adjudicators because of the research they’re currently having to do to verify a Veterans ILER. If we’re pulling that information in one place it helps a lot to improve the claims process for Veterans and the VBA.
 
 There are also potential opportunities to improve the health care experience if VA medical professionals have access to the data in an ILER.
 - Could benefit epidemiological research
@@ -100,7 +109,6 @@ When a Veteran submits a claim, all they know is that they were exposed.  The on
 #### What do we know about how VBA uses this exposure data?
 Currently, they pull the ILER record after a claim is submitted to validate the exposure data. The do a TERA memo to see if it’s TERA-related and then they put that in the record.
 
-
 #### Is the VA.gov profile the right place to surface exposure data?
 In BAH’s research, Veterans shared that they expected information related to exposures to be available with their other VA records, especially health records. 
 
@@ -108,7 +116,7 @@ VEO didn’t decide this data should go in the Veteran profile; this is an OCTO 
 
 VEO is open to displaying the data wherever it makes sense, even if it’s not the VA.gov profile.
 
-## Other considerations
+### Other considerations
 #### There’s been some contention between VEO and DHA on how this work is approached. 
 A lot of care has been taken, but the DHA perception is that easiest solution is to simply give Veterans their ILER, and VEO is arguing for something more usable and less confusing.
 > We don’t even understand it [ILER]. DHA has even said ‘We don’t know how we’re going to explain this to them, other than giving them a user guide.’ - Melissa Restock
@@ -124,7 +132,7 @@ We need to be mindful about creating confusion if corrections can’t be complet
 ### Timelines
 Getting Veterans ILER access is the priority from DHA, but there isn’t a hard deadline. We need to let Melissa know what is feasible and she can help navigate that.
 
-## Coming next
+## Next steps
 1. Melissa will look into whether or not the ILER PDF is 508 compliant/accessible.
 2. Melissa is working on POCs for conversations about creating an ILER API with VA Profile, and will loop our team in.
 3. The profile team will regroup to align on their next steps.
