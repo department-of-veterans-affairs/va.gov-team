@@ -76,7 +76,9 @@ _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK infor
 
 ## Method
 
-We will conduct remote usability and interview sessions with Zoom. The interviews will consist of a combination of tasks and direct questions. We will conduct a study on production behind a feature flag assuming API access. If APIs can’t be hooked up successfully, we will conduct a study on the staging environment. 
+We will conduct remote usability and interview sessions with Zoom. The interviews will consist of a combination of tasks and direct questions. We will conduct a study on production behind a feature flag assuming API access, and have two backup plans:
+- If APIs can’t be hooked up successfully, we will conduct the study in the staging environment, with a test user created specifically for the purpose of this study.
+- If a user can't log into their account, we will have them use staging, with a test user created specifically for the purpose of this study. 
 
 ### Location
 Data collection will be remote and conducted using Zoom. 
@@ -118,8 +120,8 @@ Some participants:
 - 6 people who identify as a race other than White/Caucasian
 - 6 people who identify as a gender other than male
 - 8 people who currently receive health care through VA
-- 4 people who have not received health care through VA in the last 10 years, but do have a disability rating
-
+- 4 people who don't currently receive health care through VA, but have other VA benefits.
+  
 ### Screener questions
 
 1. We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identity-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
@@ -150,8 +152,20 @@ Some participants:
 5b. Please list the name of the assistive technology or software you will use during the session.
 > _Response option: text box_
    
-6. Have you received health care at a VA health facility within the last 10 years?
-> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for 8 health care users. If yes, skip question 7. If no, proceed to question 7)_
+6. Which benefits or services do you currently receive through VA?
+> Response options should be a checklist with the options below.
+> - Health care benefits
+> - Education services, such as GI Bill benefits or VR&E benefits
+> - Disability or pension benefits, such as disability compensation
+> - Housing benefits, such as adaptive housing or home loans
+> - Life insurance
+> - Memorial benefits
+> - Other
+> - I'm not sure
+> - I don't receive any benefits or services through VA
+
+> Answering **only** "I do not know" or "I don't receive any benefits or services through VA" disqualifies participants.
+> Please recruit 8 who include "health care benefits" in their response, and 4 that select any combination of options that **does not** include "health care benefits".
 
 7. Do you have a disability rating?
  >_(Answering `yes` would qualify the participant to satisfy criteria for 4 participants who do not have health care, but have a disability rating. If no, disqualify)_
@@ -199,7 +213,8 @@ Please list the people who will be serving in each role.
 all others to sign up via sign up list. 
 
 ## Approvals
-- Reviewed and approved by Samara Strauss, Patrick Bateman on 
+- Reviewed and approved by Samara Strauss on 10/6/23
+- Reviewed and approved by Patrick Bateman on 
 - Reviewed and approved by Shane Strassberg on 
 
 
