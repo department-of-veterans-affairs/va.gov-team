@@ -26,7 +26,7 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is Camille Green and Perigean is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about  Medallia's Feedback Survey Tool that we are interested in utilizing that will allow veterans to rate multiple pages on Resources &Support .
+Today we're going to talk about a rating tool that we are interested in utilizing that will allow veterans to rate multiple pages on Resources & Support .You'll be interacting with a prototype today. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
 
 Before we start, I have a few things that I want to go over with you:
 
