@@ -48,7 +48,7 @@ body:
     id: product-description
     attributes:
       label: Product Description
-      description: Please provide a high level description (one or two sentences) of your product(s).
+      description: Please provide a high-level description (one or two sentences) of your product(s).
       placeholder: 
     validations:
       required: true
@@ -91,7 +91,7 @@ body:
     id: va-email
     attributes:
       label: VA Email Address(es)
-      description: Please provide the VA email address(es) you wish to have the data shared with. Data cannot be shared with a non-VA email address.
+      description: Please provide the VA email address(es) you wish to have the data shared with. Data cannot be shared to a non-VA email address.
       placeholder: johndoe@va.gov
     validations:
       required: true
