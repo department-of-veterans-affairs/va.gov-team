@@ -4,7 +4,6 @@ title: "Request Custom Survey"
 labels: [ "VSP-contact-center", "cc-survey-request" ]
 assignees:
   - ATMiddleton
-body:
   - type: markdown
     attributes:
       value: |
