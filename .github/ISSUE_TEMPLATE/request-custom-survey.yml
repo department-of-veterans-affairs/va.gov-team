@@ -5,7 +5,7 @@ labels: [ "VSP-contact-center", "cc-survey-request" ]
 assignees:
   - ATMiddleton 
 body:
-  -type: markdown
+  - type: markdown
     attributes:
       value: |
           ## What this form is for
