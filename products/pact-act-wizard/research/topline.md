@@ -1,6 +1,6 @@
 # PACT Act Wizard Usability Testing -- Topline Summary
 
-Cindy Merrill, Sitewide Public Websites team, October 11, 2023
+Cindy Merrill, Sitewide Public Websites team, October 10, 2023
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/conversation-guide.md)
@@ -27,11 +27,12 @@ We talked to **9 Veterans**, one of whom was also a Veteran's family member (spo
 1. **Most participants were able to answer most of the wizard questions easily.**
 1. **No comments about too many questions**. Participants were presented with anywhere from 2-10 questions, which varied based on their responses and the branching logic.
 1. All participants **understood *presumptive conditions***, but not from the PACT Act Wizard. Most said that they already knew from talking to other Veterans or looking into the PACT Act already.
+1. Participants generally **understood the results screens** and figured out what  they should do next.
 
 ### Usability Issues
-4. Three participants had **difficulty answering the service years question**.
-1. Two participants **didn't know what a "C-123 plane" was**, but two other participants said, *"If it applied to you, you would know" (p9).*
-1. Some participants had already formed **beliefs about whether they were eligible for benefits under the PACT**, and some of these beliefs were *incorrect*.
+5. Three participants had **difficulty answering the service years question** because they found the options confusing.
+1. Two participants **didn't know what a "C-123 plane" was**. Two other participants said, *"If it applied to you, you would know" (p9).*
+1. Some participants had already formed **beliefs about whether they were eligible for benefits under the PACT Act**, and some of these beliefs were *incorrect*.
 1. Three participants were **confused by the jump links** at the top of the results page on Staging because they interpreted them as CTA's (i.e., *file a disability claim* or *apply for health care* right now).
 
 ## Next Steps
