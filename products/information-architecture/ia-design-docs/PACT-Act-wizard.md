@@ -3,7 +3,7 @@
 
 **Team:** Public Websites - Jill Adams
 
-**IA Request:** **#65776**
+**IA Request:** [65776](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/26?pane=issue&itemId=38934128)
 
 **On this page:**
 - [User/page flows](#flows)
@@ -15,7 +15,7 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-High level user flow can be found at this [mural]([https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696975742113/017abd9b6c2d0e21244cf20d209560af0deb25bc?sender=ua641db233dc545173f8d9816](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696975742113/017abd9b6c2d0e21244cf20d209560af0deb25bc?sender=ua641db233dc545173f8d9816)).
+High level user flow can be found at this [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696975742113/017abd9b6c2d0e21244cf20d209560af0deb25bc?sender=ua67f17f1c416a96ea04d2476)
 
 ## <a name="map"></a>Page structure<br>
 The new wizard will live under ROOT, but the primary way of accessing the tool is from the [R+S PACT Act page](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) and other crosslinking opportunities.
@@ -37,7 +37,7 @@ https://www.va.gov/health-care/income-limits/introduction
 
 
 ## <a name="nav"></a>Entry points <br>
-The only entry point to the wizard is the R+S page. But the full list of entry points in this workflow can be found at this [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696975742113/017abd9b6c2d0e21244cf20d209560af0deb25bc?sender=ua641db233dc545173f8d9816)https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696975742113/017abd9b6c2d0e21244cf20d209560af0deb25bc?sender=ua641db233dc545173f8d9816.
+The only entry point to the wizard is the R+S page. But the full list of entry points in this workflow can be found at this [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696975742113/017abd9b6c2d0e21244cf20d209560af0deb25bc?sender=ua67f17f1c416a96ea04d2476)
 
 
 ## <a name="redirects"></a>Redirects <br>
