@@ -2,7 +2,7 @@
 
 ## Background
 
-As we move My HealtheVet (MHV) to VA.gov, we discover that there are problems with the current VA.gov secondary navigation system. It is not only inaccessible and unintuitive, but also doesn't support complex navigations within all the tools of the MHV. This study aims to give us more context to those problems by investigating the secondary navigational strategies users use when completing health management tasks on MHV on VA.gov, and to improve the secondary navigation. 
+As we move My HealtheVet (MHV) to VA.gov, we discover that there are problems with the current VA.gov secondary navigation system. It is not only inaccessible and unintuitive, but also doesn't support complex navigations within all the tools of the MHV. This study aims to give us more context to those problems by investigating the secondary navigational strategies users use when completing health management tasks on MHV on VA.gov and to improve the secondary navigation. 
 
 
 ### OCTO Objectives
@@ -21,7 +21,7 @@ This research fits into these points of a Veteran's Journey:
 
 ## Research Goals 	
 
-The goal of this study is to help us understand users' reactions and behaviors regarding how they use secondary navigational strategies to complete key health tasks on MHV on VA.gov and whether users can effectively complete them, which informs us on how to iterative the new secondary navigation design. 
+The goal of this study is to help us understand users' reactions and behaviors regarding how they use secondary navigational strategies to complete key health tasks on MHV on VA.gov and whether users can effectively complete them, and to decide on an alternative that is accessible and intuitive. 
 
 ### Outcome
 
@@ -35,12 +35,15 @@ This research will inform us of users' pain points when using the current second
 4. How do participants react to and use the navigational strategies (e.g. use of AT), if at all? 
 5. What alternatives might prove more accessible and intuitive for users with complex barriers? 
 
+### Hypotheses 
+- Users want to be able to navigate every part of MHV on VA.gov easily regardless of where they are.
+- Mobile users struggle with current secondary navigation because "in this section" is not noticeable and it expands to a long list that is hard to scroll. 
+- 
 
 ## Method
 
 ### Interviews
 We will conduct remote interviews with Zoom. These interviews will include questions documenting users’ process of navigating to and within My HealtheVet, the mental models they use to find certain information, and their expectations related to health-specific tasks. The interviews will consist of a combination of tasks and direct questions. 
-
 
 ### Location
 Data collection will be remote and conducted using Zoom. 
