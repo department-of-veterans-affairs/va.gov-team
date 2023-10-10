@@ -70,7 +70,7 @@ body:
     id: data-delivery
     attributes:
       label: File Delivery Format
-      description: Please specify how you would like your data to be delivered.
+      description: Please specify how you would like your data delivered.
       options:
         - All in one file, on one tab
         - One file, different tab for each term/URL
@@ -91,7 +91,7 @@ body:
     id: va-email
     attributes:
       label: VA Email Address(es)
-      description: Please provide the VA email address(es) you wish to have the data shared with. Data cannot be shared to a non-VA email address.
+      description: Please provide the VA email address(es) you wish to have the data shared with. Data cannot be shared to a non-VA.gov email address.
       placeholder: johndoe@va.gov
     validations:
       required: true
