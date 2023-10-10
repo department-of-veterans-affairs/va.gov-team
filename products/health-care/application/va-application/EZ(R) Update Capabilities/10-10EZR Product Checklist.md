@@ -77,7 +77,7 @@
 - [x] Create initital Research Plan and Conversation Guide
 - [x] Conduct research sessions for mental model
 - [x] Finalize synthesis
-- [x] **Submit Collaboration Cycle request ticket**
+- [x] **Submit [Collaboration Cycle request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63773)**
      - [x] **Review Collaboration Cycle site**
      - [x] **Start gathering artifacts (list above)**
      - [x] **Maintain this checklist of artifacts, updating as they are shared**
