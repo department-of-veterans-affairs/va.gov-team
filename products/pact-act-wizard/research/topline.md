@@ -31,8 +31,8 @@ We talked to **9 Veterans**, one of whom was also a Veteran's family member (spo
 
 ### Usability Issues
 5. Three participants had **difficulty answering the service years question** because they found the options confusing.
-1. Two participants **didn't know what a "C-123 plane" was**, which was mentioned in of one of the Agent Orange questions. Two other participants said, *"If it applied to you, you would know" (p9).*
-1. Some participants had already formed **beliefs about whether they were eligible for benefits under the PACT Act**, and some of these beliefs were *incorrect*.
+1. Two participants **didn't know what a "C-123 plane" was**, which was mentioned in one of the Agent Orange questions. Two other participants said, *"If it applied to you, you would know" (p9).*
+1. Some participants had **beliefs about whether they were eligible for benefits under the PACT Act** before trying the PACT Act Wizard, and some of these beliefs were *incorrect* and not addressed by any content in the wizard.
 1. Three participants were **confused by the jump links** at the top of the results page on Staging because they interpreted them as CTA's (i.e., *file a disability claim* or *apply for health care* right now).
 
 ## Next Steps
