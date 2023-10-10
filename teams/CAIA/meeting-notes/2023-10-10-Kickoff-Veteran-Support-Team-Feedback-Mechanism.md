@@ -17,6 +17,7 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 - **Accessibility Team:** can help to make sure your product is accessible
 
 ## Starting the CAIA Process
+
 ### Process Initiated
 - [x] [Intake Request #66872](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66872) - this forms the basis of our partnerships with you and becomes an Parent Ticket.
 - [ ] We will spin off our child tickets within that parent/intake ticket:
@@ -25,15 +26,17 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
     - IA - Not needed; Kristin [confirmed with Camillie 10/10/2023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66872#issuecomment-1756091798)
 
 ## Meeting Action Items 🎬
-- [ ] Action Item 1
-- [ ] Action Item 2
-- [ ] Action Item 3
-- [ ] Action Item 4
-- [ ] Action Item 5
-
+- [ ] User Research starting 10/16/2023: CAIA a11ys can provide Assistive Technology Research Support.
+    - [ ] [Request: Assistive Technology Research Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name)
+        - [ ] First round of research: Desktop and mobile
+        - [ ] Second round of research: Screen readers and assistive technology
+- [ ] Invite Camile to sign-in sync (Aliyah or Laura)
+- [ ] A11y reach out to see what support is needed (Lily)
+- [ ] Set up content ticket (Lily)
+- [ ] **Timeline**: The team is aiming for **November**
 
 ## Resources 🔗
-- **9/11/2023 Opened Collaboration Cycle Ticket: **
+- **Opened Collaboration Cycle Ticket:** 9/11/2023 
 - [x] Collaboration Cycle Ticket [#65297](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65297)
     - [x] Design Intent tickets 10/2/2023 at 3:30 p.m. EST
         - [x] [Design Intent - Accessibility Feedback: 66760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66760)
@@ -60,13 +63,13 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 
 ## Meet the Teams
 ### Kickoff Team Partner
-- Team name: Veterans Support
-- OCTO-DE product owner: @clantosswett
-- Product manager: @ATMiddleton
-- Designer: @UXCamG
-- Accessibility specialist: @briandeconinck
-- Content writer: @starlow00
-- Slack channel:VSP-Contact-Center-Support
+- **Team name:** Veterans Support
+- **OCTO-DE product owner:** @clantosswett
+- **Product manager:** @ATMiddleton
+- **Designer: **@UXCamG - Camille replaced Ian, UX researcher and designer (went to OPM)
+- **Accessibility specialist:** @briandeconinck
+- **Content writer:** @starlow00
+- **Slack channel:**VSP-Contact-Center-Support
 
 ### CAIA Teams
 #### CAIA
@@ -120,9 +123,16 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 ## Discussion Notes✍️
 
 ### Project
-- Notes
+* Tool is staged on the live site: Resource & Support page → sign in to va.gov
+* Call center gets a lot of questions about where/how to log in
+* Laura: other Medallia form has open text box and had to put a note not to include PII, so we’ll need to think about that for this too.
+
 #### Problems
-- Notes
+* **Medallia constraints (Camille):** They have 508 capability but not a11y approved for va.gov (version 2 might have legends and fieldsets).
+* **Engineer on their team asked about unordered list requirements**, since fieldsets and legends aren’t available.
+* **Big concern:** ensure it aligns with prototype. Had trouble with prototype in sketch (using accordion) so moving it to Figma. Walked through it with Naomi and it felt clunky.
+
+
 #### CAIA
 - **Content**
     - Notes
