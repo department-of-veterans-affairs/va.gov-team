@@ -67,15 +67,17 @@ A monitor where any single event is considered alertable, e.g. a catastrophic fa
   - type: traffic
 - [Benefits - IntentToFilesController errors](https://vagov.ddog-gov.com/monitors/153112)
   - type: number of errors
+- [526 Catastrophic submission failure - backup worker exhausted](https://vagov.ddog-gov.com/monitors/164793)
+  - type: One off.  Any instance of this alert requires
+     - Capturing context from the applicable logs 
+     - Logging the failed Submission Information (TODO: link spreadsheet)
+     - Kick off "Emergency Failsafe Process" (TODO: link to this document)
+  - Playbook (TODO - this will overlap with the "Emergency Failsafe Process" which is WIP)
  
 ### TODO:  
-- add an alert that checks for retry exhaustion on 526 backup submission ([PR to add required metric for this is WIP]([url](https://github.com/department-of-veterans-affairs/vets-api/pull/14023)))
+- Add links to "Emergency Failsafe Process"
 - [Add an alert for any instance of a 429 (rate limit reached) from LH per Marks suggestion](https://dsva.slack.com/archives/C05URMLM09Z/p1696264159183519?thread_ts=1696264035.396779&cid=C05URMLM09Z)
-- Refine EVSS health monitor to just be our EVSS stuff that we are capturing
 - Document endpoints we are not capturing
-- solidify a naming convention that represent
-   - team or area of focus
-   - type of alert
 
 
 ## Dashboards
