@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 10/10/2023
+- In order to support piloting features at specific locations, added to Pre-Check-in and Online Check-in the ability to enable features at the facility or clinic level
+    - [Ticket 66778](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66778)
+
 ### 10/3/2023
 - Updated Pre-Check-in and eCheck-in pages to add content that clarifies what next-of-kin means in a VA context
     - [Ticket 65844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65844#issuecomment-1745644284)
