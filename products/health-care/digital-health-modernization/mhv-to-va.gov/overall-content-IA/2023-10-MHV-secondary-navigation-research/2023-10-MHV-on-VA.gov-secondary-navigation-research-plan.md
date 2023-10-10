@@ -38,7 +38,7 @@ This research will inform us of users' pain points when using the current second
 ### Hypotheses 
 - Users want to be able to navigate every part of MHV on VA.gov easily regardless of where they are.
 - Mobile users struggle with current secondary navigation because "in this section" is not noticeable and it expands to a long list that is hard to scroll. 
-- 
+  
 
 ## Method
 
