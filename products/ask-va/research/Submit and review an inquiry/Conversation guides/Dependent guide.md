@@ -85,6 +85,7 @@ I'd like to start by learning more about your experience with the VA and our onl
     * `IF YES`
         * Can you tell me about a time when you contacted the VA?
         * Do you usually contact the VA `OVER THE PHONE OR ONLINE`? Why?
+        * How do you currently contact the VA? Why?
         * `IF ONLINE` Did you use your phone, tablet or computer?
         * How did you find the support you received `OVER THE PHONE OR ONLINE`?
 
