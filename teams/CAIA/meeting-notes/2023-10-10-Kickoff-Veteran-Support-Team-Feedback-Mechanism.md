@@ -26,8 +26,10 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
     - IA - Not needed; Kristin [confirmed with Camillie 10/10/2023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66872#issuecomment-1756091798)
 
 ## Meeting Action Items 🎬
-- [ ] User Research starting 10/16/2023: CAIA a11ys can provide Assistive Technology Research Support.
-    - [ ] [Request: Assistive Technology Research Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name)
+**Goal:** Expanding on the way Veterans are able to provide feedback.
+- [ ] User Research starting 10/16/2023:
+    - [ ] CAIA a11ys can provide Assistive Technology Research Support.
+        - [ ] [Request: Assistive Technology Research Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name)
         - [ ] First round of research: Desktop and mobile
         - [ ] Second round of research: Screen readers and assistive technology
 - [ ] Invite Camile to sign-in sync (Aliyah or Laura)
@@ -36,16 +38,17 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 - [ ] **Timeline**: The team is aiming for **November**
 
 ## Resources 🔗
-- **Opened Collaboration Cycle Ticket:** 9/11/2023 
+- [x] **Opened Collaboration Cycle Ticket:** 9/11/2023 
 - [x] Collaboration Cycle Ticket [#65297](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65297)
-    - [x] Design Intent tickets 10/2/2023 at 3:30 p.m. EST
+    - [x] **Design Intent: **10/2/2023 at 3:30 p.m. EST
         - [x] [Design Intent - Accessibility Feedback: 66760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66760)
         - [x] [Design Intent - IA Feedback: 66747](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66747)
+        - [ ] **Google Doc:** [Design Intent Notes](https://docs.google.com/document/d/1SSHkP4KKRxiMpkrhTZwj-suZQx1tbHSYXwY8-NHbcQg/edit)
         - [x] **Zoom recording obtained:**
             - **Recording link:** https://oddball-io.zoom.us/rec/share/FzxrMO1J-9fyd5lq6lencP_4FEbYFtT-oAN1WsN7JKqgjsXGAV2PHjqBx4zFWb4q.Ivzh7eoWpaVeohEJ
             - **Passcode**: 8h.9GrJ#
-    - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
-    - [ ] Staging Review (TBD - as of Kickoff Meeting)
+    - [ ] **Midpoint Review** (TBD - as of Kickoff Meeting)
+    - [ ] **Staging Review** (TBD - as of Kickoff Meeting)
 
 ## CAIA Tickets 🎟️
 - [ ] [CAIA Intake]: Veteran Support Team: Feedback Mechanism - Rate Your Experience [#66872](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66872)
@@ -67,11 +70,11 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 ### Kickoff Team Partner
 - **Team name:** Veterans Support
 - **OCTO-DE product owner:** @clantosswett
-- **Product manager:** @ATMiddleton
+- **Product manager:** @ATMiddleton Anita Middleton
 - **Designer: **@UXCamG - Camille replaced Ian, UX researcher and designer (went to OPM)
 - **Accessibility specialist:** @briandeconinck
 - **Content writer:** @starlow00
-- **Slack channel:**VSP-Contact-Center-Support
+- **Slack channel:** VSP-Contact-Center-Support
 
 ### CAIA Teams
 #### CAIA
@@ -140,5 +143,6 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 - **IA** 
     - Notes
 - **Accessibility**
-  - Notes
-
+  - **Design Intent - Key take aways**:
+      - Think about impact for when Veterans do the least amount of effort in submitting feedback how will this info be useful?
+      - Understand and communicate third party limitations and ensure a11y is okay for VA standards.
