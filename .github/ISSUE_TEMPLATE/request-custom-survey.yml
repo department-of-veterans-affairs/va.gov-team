@@ -51,7 +51,7 @@ body:
       placeholder: MM-DD-YYYY
     validations:
       required: true
-   - type: textarea
+  - type: textarea
     id: custom-questions
     attributes:
       label: Custom Survey Questions
