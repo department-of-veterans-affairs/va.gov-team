@@ -10,8 +10,10 @@ flowchart TB
     %% Subtask (/start page)
     %% =============================
 
-    BenefitType[Benefit Type] -. compensation .-> ITF
+    BenefitType[Benefit Type] -. compensation .-> Intro
     BenefitType -. other .-> PDF[Fill out paper form]
+
+    Intro[Introduction page] --> ITF
 
     ITF[Intent to file] -. failure .-> END
     ITF -. success .-> VetInfo
