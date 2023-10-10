@@ -21,7 +21,8 @@ This research fits into these points of a Veteran's Journey:
 - Aging
 
 ## Research Goals 	
-Most broadly speaking, the goal of this study is to help us get a sense of how closely the current organizing structures and wayfinding tools within the MHV on VA.gov experience align with users’ expectations and mental models. The purpose of this research is to assess users' reactions to and expectations of the MHV on VA.gov experience and whether the current wayfinding tactics are effective at guiding users through key tasks. More specifically, this study aims to help us understand how users navigate across health tools to non-health tools, and what their understandings and behaviors  are when they are linked to other VA.gov sections or outside of VA.gov. 
+
+The goal of this study is to help us understand and whether users can effectively complete key health tasks, which 
 
 ### Outcome
 
@@ -29,17 +30,17 @@ This research will inform updates to the MHV on VA.gov wayfinding efforts to sup
 
 ### Research questions
 
-1. When users are at the "manage health" stage, where do they look for their health-related services and resources on VA.gov? What health-related information do they seek out?  
-2. How do users navigate from an unauthenticated state to the the My HealtheVet portal?
-3. How easily can users navigate to various tasks within the My HealtheVet portal?
-4. Once deep within My HealtheVet portal tool navigation hierarchy, how do users navigate back out to My HealtheVet portal or wider VA.gov? (e.g., out of health landing page, or specific tool on landing page) What do users do if they get lost?
-5. How do users differentiate between My VA vs. My HealtheVet portal? What resources do they expect to be in each of those two locations?
+1. What are users' reactions to the variations in navigational strategies (side navigation, breadcrumbs, and direct links) across the different products (appointments, secure messages, medications, and medical records) on MHV on VA.gov? 
+2. Do users use different navigational strategies with different products? Why, or why now? 
+3. What, if any, specific aspects of the secondary navigation cause confusion or unintended behaviors amongst participants? 
+4. How do participants react to and use the navigational strategies (e.g. use of AT), if at all? 
+5. What alternatives might prove more accessible and intuitive for users with complex barriers? 
 
 
 ## Method
 
 ### Interviews
-We will conduct remote interviews with Zoom. These interviews will include questions documenting users’ process navigating to and within My HealtheVet, the mental models they use to find certain information, and their expectations related to health-specific tasks. The interviews will consist of a combination of tasks and direct questions. 
+We will conduct remote interviews with Zoom. These interviews will include questions documenting users’ process of navigating to and within My HealtheVet, the mental models they use to find certain information, and their expectations related to health-specific tasks. The interviews will consist of a combination of tasks and direct questions. 
 
 
 ### Location
