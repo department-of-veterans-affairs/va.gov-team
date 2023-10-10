@@ -90,7 +90,7 @@
      - [x] The team can determine the best path, used for research
 - [ ] Complete development
      - [ ] Engineers work with Designers on any questions/clarifications
-- [N/A] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [ ] **Schedule [Midpoint Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67225) - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Schedule research sessions with Perigean
 - [ ] Conduct research sessions
@@ -100,29 +100,29 @@
 - [ ] **Create Use Cases**
      - [ ] **Identify test users**
 - [x] **Create Release Plan**
-- [ ] **Engage downstream system team for End-to-End QA coordination**
+- [ ] **[Engage downstream system team for End-to-End QA coordination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67230)**
      - [ ] **Create E2E use cases and document results**
      - [ ] **Obtain signoff from downstream system team**
-- [ ] **Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket**
-- [ ] Complete QA and Accessibility QA
+- [ ] **Request [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67224) - Refer back to the initial Collaboration Cycle Request ticket**
+- [ ] [Complete QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67228) and [Accessibility QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67229)
      - [ ] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
      - [ ] [Accessbility QA ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
-- [ ] **Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [ ] **Request [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67227) - Refer back to the initial Collaboration Cycle Request ticket**
      - [ ] **Review findings with the team**
      - [ ] **Create tickets for work to be completed before launch**
 - [ ] Complete any Design and/or Development work from Usability/UAT sessions
 - [x] Update Error matrix documentation with any new error states
 - [ ] Update any FE and/or BE Engineering documentation
-- [ ] **Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket**
-- [ ] **Update Contact Center guide**
+- [ ] **Request [Privacy, Security, Infrastructure readiness review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67223) - Refer back to the initial Collaboration Cycle Request ticket**
+- [ ] **Update [Contact Center guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67220)**
 - [ ] **Submit Contact Center guide review ticket**
-- [ ] **Update Release Plan**
+- [ ] **[Update Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67221)**
      - [ ] **Include E2E test results & signoff**
 - [ ] **Schedule or close all remaining tickets**
      - **Some tickets may be backlogged for future work, as they were not required to launch**
 - [ ] **Review this checklist for any missing artifacts**
 - [ ] **Review the [Product Development Checklist](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/product-development-checklist)**
-- [ ] **Conduct Launch Go/No Go with the team**
+- [ ] **Conduct [Launch Go/No Go](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67222) with the team**
      - [ ] **Review this checklist**
      - [ ] **Review Release Plan**
 - [ ] **Launch in a phased manner, according to Release Plan**
