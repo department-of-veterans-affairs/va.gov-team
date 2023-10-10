@@ -1,5 +1,5 @@
-# Household section optimization - Release Plan 
-- Last updated 08/02/2023
+# 10-10EZR Health benefits update form - Release Plan 
+- Last updated: 
 
 
 ## Step 1: Development
@@ -9,22 +9,22 @@ Feature toggle
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| hcaHouseholdV2Enabled | Toggle to enable users to see the newly organized and clarified Household Information section |
+| TBD | Toggle to enable users to see the newly organized and clarified Household Information section |
 
 ## Step 2: Validation
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-  - [x] [Link to Test cases/Test Rail](https://dsvavsp.testrail.io/index.php?/runs/view/4540&group_by=cases:section_id&group_order=asc)
-- [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-   - [x] [Link to validation confirmation ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51641)
-- [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-   - [x] Confirm with Joshua Faulkner and team on End to End testing
-   - [x] [Link to confirmation of successful transmission/processing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Staging%20Review_QA/E-2-E%20testing%20confirmation.md)
-- [x] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [x] review the plan with your DEPO/OCTO representative.
-  - [x] review the release plan with your team.
+- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+  - [ ] [Link to Test cases/Test Rail](https://dsvavsp.testrail.io/index.php?/suites/view/11&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
+- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+   - [ ] Link to validation confirmation
+- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+   - [ ] Confirm with Joshua Faulkner and team on End to End testing
+   - [ ] Link to confirmation of successful transmission/processing
+- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [ ] review the plan with your DEPO/OCTO representative.
+  - [ ] review the release plan with your team.
 
 ## Step 3: Production rollout
 
@@ -37,15 +37,15 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Desired date range or test duration:
-     - 1 weeks - 8/21/2023 - 8/25/2023
+     - X weeks - x/xx/xx - x/xx/xx
 - Desired number of users:
-     - 6 participants
+     - X participants
 - How you'll recruit the right production test users:
      - Perigean recruiting
 - How you'll conduct the testing:
      - Moderated
 - How you'll give the test participants access to the product in production w/o making it live on VA.gov:
-     - Feature Toggle using email address (Authenticated)
+     - Feature Toggle 
 
 #### Results
 
@@ -66,35 +66,28 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Rollout Planning
 
 - Desired date range:
-     - 8/2/2023 - 8/14/2023
+     - x/xx/xx - x/xx/xx
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - Feature Toggle limiting % of traffic to the application
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
 
-### Objective: Update the 10-10EZ, so it is easier for applicants to understand and complete without having to exit the application.
-#### **Key Result #1:** Reduce drop-off/exit rate for the Household section pages by a third.
-
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-- Note: Total Apps started do not include Short Form flow, as those applications do not flow through the section we are monitoring
-
-| Product KPI | 2021| 2022 | Jan-Jun 2023 |Target | End of 25%| End of 50%| End of 75%| Post-Launch 1 month|Post-Launch 3 months|
-|------------- |---------|-------|-------|-------------- |-------------- |-------------- |-------------- |-------------- |-------------- |
-|Total Apps started |173,669|346,625 |81,431 |N/A | 5,482 |TBD |TBD |TBD |TBD |
-|Household section drop-off |14% (23,803)|28% (98,209) |34% (27,715) |10% | 46% (2,553) |TBD |TBD |TBD |TBD |
-|Financial Disclosure |4% (1,464)|0.3% (477) | 0% (no drop) |no change | 20% (746) |TBD |TBD |TBD |TBD |
-|Annual Income |26.3% (40,791) |30% (75,416) | 24% (12,417) |10% |25% (749) |TBD |TBD |TBD |TBD |
-|Deductible Expenses |6% (9,704)|8% (13,911) | 8% (3,296) |5% |7% (161) |TBD |TBD |TBD |TBD |
-
-
-#### **Key Result #2:** Increase application submissions by 5%, and submissions within a single session by 5%
-This is based on a third of current exit rates converting to successful submissions
+### Objective: 
+#### **Key Result #1:
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| Product KPI | 2022 Baseline | Jan-Jun 2023 | Target | End of 25%| End of 50%| End of 75%| Post-Launch 1 month|Post-Launch 3 months|
-|------------- |---------|-------|-------|-------------- |-------------- |-------------- |-------------- |-------------- |
-|Application Submissions | 59.8% (138,687k)  | 61.4% (63,084) | 65% |3,566|65%|TBD |TBD |TBD |
-|Single-session Submissions | 60.5% (83,941) | 62.2% (39,232) | 77%  |2,505|70%|TBD |TBD |TBD |
+
+| Product KPI  |Target | End of 25%| End of 50%| End of 75%| Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------|-------|-------------- |-------------- |-------------- |
+
+#### **Key Result #2:** 
+
+Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+
+| Product KPI | Target | End of 25%| End of 50%| End of 75%| Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------|-------|-------------- |-------------- |-------------- |
+
+
 
 - Links to the dashboard(s) showing "success criteria" metrics:
      - Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
@@ -118,11 +111,11 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 #### Results
 
-- Number of unique users: 25% of authenticated Veterans
-- Metrics at this stage (per your "success criteria"):  a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: | NO |
-- Types of errors logged: None
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None at this time
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
 ### Stage B: 50% of users
 
