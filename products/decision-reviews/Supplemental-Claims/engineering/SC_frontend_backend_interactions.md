@@ -1,8 +1,5 @@
-
 # List of Frontend/Backend Interactions
 
-
-  
 ## Prefill Info 
 
 <details>
