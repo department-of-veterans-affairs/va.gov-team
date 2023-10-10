@@ -42,6 +42,7 @@ ________________________________________________________________________________
     - **Sub Goal: Update Unit Tests**
          - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)
     - **Miscellaneous**
+         - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Add Disclaimer to the Product Guides that they DO NOT Contain any PHI/PII](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67175)
          - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Translation Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67173)
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Move "old" feature pages in unified check in sketch file to {where} (f/u from 66318)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67167)
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Placeholder for other f/u from 66318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67168)
