@@ -3,8 +3,8 @@ description: Use this template to request adding a custom Medallia Survey to you
 title: "Request Custom Survey"
 labels: [ "VSP-contact-center", "cc-survey-request" ]
 assignees:
-  - ATMiddleton
-  body:
+  - ATMiddleton 
+body:
   - type: markdown
     attributes:
       value: |
