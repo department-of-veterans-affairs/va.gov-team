@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 10/18/2023 - 10/31/2023  
+## 10/18/2023 - 10/31/2023  ---------- FUTURE / TENTATIVE --------------
 #### SPRINT GOALS
  - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: File any Claim Type for a Past Appointment - Design & Discovery**
@@ -47,7 +47,7 @@ ________________________________________________________________________________
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Placeholder for other f/u from 66318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67168)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Update sequence diagrams for pre check-in scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65818)
 
-
+ ---------- FUTURE / TENTATIVE --------------
 __________________________________________________________________________________________________________________________________________________________
 
 ## 10/4/2023 - 10/17/2023  
