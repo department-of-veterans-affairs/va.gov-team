@@ -40,7 +40,7 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 ## Resources 🔗
 - [x] **Opened Collaboration Cycle Ticket:** 9/11/2023 
 - [x] Collaboration Cycle Ticket [#65297](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65297)
-    - [x] **Design Intent: **10/2/2023 at 3:30 p.m. EST
+    - [x] **Design Intent:** 10/2/2023 at 3:30 p.m. EST
         - [x] [Design Intent - Accessibility Feedback: 66760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66760)
         - [x] [Design Intent - IA Feedback: 66747](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66747)
         - [ ] **Google Doc:** [Design Intent Notes](https://docs.google.com/document/d/1SSHkP4KKRxiMpkrhTZwj-suZQx1tbHSYXwY8-NHbcQg/edit)
@@ -71,7 +71,7 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 - **Team name:** Veterans Support
 - **OCTO-DE product owner:** @clantosswett
 - **Product manager:** @ATMiddleton Anita Middleton
-- **Designer: **@UXCamG - Camille replaced Ian, UX researcher and designer (went to OPM)
+- **Designer:** @UXCamG - Camille replaced Ian, UX researcher and designer (went to OPM)
 - **Accessibility specialist:** @briandeconinck
 - **Content writer:** @starlow00
 - **Slack channel:** VSP-Contact-Center-Support
@@ -139,9 +139,9 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 
 #### CAIA
 - **Content**
-    - Notes
+    - Laura: other Medallia form has open text box and had to put a note not to include PII, so we’ll need to think about that for this too.
 - **IA** 
-    - Notes
+    - None
 - **Accessibility**
   - **Design Intent - Key take aways**:
       - Think about impact for when Veterans do the least amount of effort in submitting feedback how will this info be useful?
