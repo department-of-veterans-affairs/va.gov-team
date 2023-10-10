@@ -48,6 +48,8 @@ Ultimately, we need to prove out this hypothesis that the military info is helpf
 2. Let’s talk to the claims team. Even if there isn’t actual work for them to do, they should be aware of this work
    - Can they point us toward research or anything that might clarify pieces of this for us?
    - Samara will reach out to Emily as a starting point to facilitate these conversations
+  
+3. Dotti will set up a time with the team to write user stories and create tickets for next sprint.
 
 ## Outstanding questions
 1. What is deal with the PDF in VBMS, could we use that somehow to provide people a link on VA.gov?
