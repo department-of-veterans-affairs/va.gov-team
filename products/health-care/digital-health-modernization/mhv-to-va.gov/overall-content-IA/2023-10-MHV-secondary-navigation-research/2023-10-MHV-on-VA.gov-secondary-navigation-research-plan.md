@@ -62,9 +62,6 @@ We will partner with Perigean to recruit Veterans.
 We request a kickoff meeting with Perigean.
 		
 **Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes**
-- Monday, June 26: Any time after 11 am ET and before 3 pm ET
-- Tuesday, June 27: Any time after 2 pm ET
-- Thursday, June 29: Any time after 11 am ET and before 3 pm ET
 
 We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network. 
 
@@ -73,15 +70,13 @@ We will keep track of participant demographic information (identified gender, ag
 Primary criteria (must-haves)
 - Must currently receive VA healthcare benefits 
 - Must have an active MHV account that they have accessed at least once in the past 12 months
-- Must have self-reported infrequent usage of VA.gov
-
 
 **Desired sample**
-30 total
-15 frequent users of MHV
-15 infrequent users of MHV
-15 mobile users
-Age and education level range throughout, but ideally include at least 10 participants older than 55 and 10 participants with a some college or less as their terminal degree
+- 15 total
+- 7 frequent users of MHV
+- 8 infrequent users of MHV
+- 15 mobile users
+- Age and education level range throughout, but ideally include at least 10 participants older than 55 and 10 participants with some college or less as their terminal degree
 
 ### Screener questions
 
@@ -107,55 +102,36 @@ Age and education level range throughout, but ideally include at least 10 partic
 * e) more than 3 times a month *(Qualify)*
 
 
-
 ## Timeline
 
 ### Prepare
-- Pilot #1: Week of July 3
+- Pilot #1: 
 
 ### Research sessions
-* Planned dates of research: **July 10 - 28**
+* Planned dates of research: 
 
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 30 minutes
 
 ### Availability
-Please only schedule only 10 interviews per week. 
-- July 10-14: 10 interviews
-- July 17-21: 10 interviews
-- July 24-28: 10 interviews
+Please schedule only 10 interviews per week. 
+
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
-July 10, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 -3 pm; 3:30 - 4:30 pm; 5 - 6 pm; 6:30 - 7:30 pm
-July 11, 2023 | 2:30 - 3:30 pm; 4 - 5 pm; 5:30 - 6:30 pm; 7 - 8 pm
-July 13, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 4 - 5 pm; 5:30-6:30 pm; 7 - 8 pm
-July 14, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 -3 pm; 4 - 5 pm; 5:30 - 6:30 pm
-July 17, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm 
-July 18, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
-July 19, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
-July 20, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
-July 21, 2023 | 11 am - 12 pm; 12:30 pm - 1:30 pm; 2 pm - 3 pm; 3:30 pm - 4:30 pm; 5 pm -6 pm  
-July 24, 2023 | 10am - 11am; 11:30am - 12:30pm; 4pm - 5pm; 5:30 - 6:30pm
-July 25, 2023 | 10am - 11am; 11:30am - 12:30pm; 1pm - 2pm; 3 - 4pm; 
-July 26, 2023 | 10am - 11am;  11:30am - 12:30pm; 1pm - 2pm; 3 - 4pm 
-July 27, 2023 | 10am - 11am; 11:30am - 12:30pm; 4 - 5pm; 5:30pm - 6:30pm 
-July 28, 2023 | 10am - 11am; 11:30am - 12:30pm; 1:30 - 2:30pm; 3pm - 4pm
-
-
 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 
-- Alternating Moderators: Robyn Singleton (robyn.singleton@adhocteam.us), Jenny Wang (Yizhen.Wang@va.gov) and Cara Frissell (cara.frissell@adhocteam.us)
-- Research guide writing and task development: Robyn Singleton 
+- Alternating Moderators: Jenny Wang (Yizhen.Wang@va.gov) 
+- Research guide writing and task development: 
 - Participant recruiting & screening: Perigean
-- Project point of contact: Robyn Singleton 
-- Participants for pilot test: TBD
-- Note-takers: Jenny Wang and Cara Frissell
-- Observers: to sign up via sign up list. 
+- Project point of contact: 
+- Participants for the pilot test: 
+- Note-takers: 
+- Observers: to sign up via the sign-up list. 
 
 ## Approvals
-- Reviewed and approved by Robyn Singleton on June 23, 2023
+- Reviewed and approved by  on 2023
