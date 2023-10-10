@@ -67,13 +67,16 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Desired date range: November-December 2023
 - How will you make the product available in production while limiting the number of users who can find/access it: feature flag will be enabled for certain facilities or clinics.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - Number of check-ins completed via the 45-minute reminder
+  - How many Veterans used the 45-minute reminder & completed check-in
+  - How many Veterans used the 45-minute reminder & DID NOT completed check-in
+  - How many Veterans used the text "check in" & completed check-in
+  - How many Veterans used the text "check in" & DID NOT completed check-in
 - Links to the dashboard(s) showing "success criteria" metrics: [eCheck-in Dashboard](https://analytics.google.com/analytics/web/#/dashboard/1iHzB1FJTq6wHfngzN0LQg/a50123418w177519031p176188361/_u.dateOption=last7days&_u.hasComparison=true/)
 - Who is monitoring the dashboard(s)?: Ben Brasso
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
-### Stage A: Canary
+### Stage A: Pilot
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
