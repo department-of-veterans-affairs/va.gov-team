@@ -43,7 +43,7 @@ The following changes, as compared to historical levels, will serve as key perfo
 ### Initiative Rollout
 We will be implementing this initiative using the following Prioritys:
 
-#### 45-minute reminder & associated Pre-Check-in content (Scheduled for ~Q2 2024)
+#### 45-minute reminder & associated Pre-Check-in content (IN PROGRESS)
 - Send out 45-minute Check-in Text Reminder with Check-in Link
 - Add messaging to Pre-Check-in completion page that a text will be sent to the Veteran when it's time to check-in
 
@@ -113,7 +113,7 @@ We will be implementing this initiative using the following Prioritys:
 	- Design tweaks to statuses
        	- Adding the confirm action for pre-check-in
 
-#### Priority 8: Updates to Need help section (TENTATIVE)
+#### Priority 8: Updates to Need help section (IN PROGRESS)
 - Changes to Need Help
 - Change alert on travel pages to additional info component
 
