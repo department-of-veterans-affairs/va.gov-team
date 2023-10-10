@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 10/11/2023
+- Updated content in the Needs Help section on All Pre-Check-in and Check-in Pages to be more clear to the Veterans
+    - [Ticket ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65479)
+
 ### 10/10/2023
 - In order to support piloting features at specific locations, added to Pre-Check-in and Online Check-in the ability to enable features at the facility or clinic level
     - [Ticket 66778](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66778)
