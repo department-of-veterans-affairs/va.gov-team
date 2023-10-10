@@ -42,7 +42,7 @@ ________________________________________________________________________________
     - **Sub Goal: Update Unit Tests**
          - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)
     - **Miscellaneous**
-         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Move "old" feature pages in unified check in sketch file to {where} (f/u from 66318)][https://github.com/department-of-veterans-affairs/va.gov-team/issues/67167]()
+         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Move "old" feature pages in unified check in sketch file to {where} (f/u from 66318)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67167)
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Placeholder for other f/u from 66318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67168)
          - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Update sequence diagrams for pre check-in scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65818)
 
