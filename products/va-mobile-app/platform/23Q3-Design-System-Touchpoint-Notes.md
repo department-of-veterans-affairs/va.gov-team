@@ -5,6 +5,11 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks for Q3 work
 
+## 10/12/23
+*   Review Design System Service Blueprint drafts
+*   Discuss QA process/Release Mgmt strategy
+
+  
 ## 9/28/23
 *   Documentation combining with VADS
 
