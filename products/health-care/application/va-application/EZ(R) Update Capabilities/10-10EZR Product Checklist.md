@@ -46,7 +46,7 @@
 - Technical diagrams (architecture diagram, sequence diagram)
 - Any new publicly-exposed endpoints
 - Any new interactions with dependent VA backends
-- Release plan
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/EZR%20Release%20Plan.md)
 - [Product guide for contact center](https://docs.google.com/document/d/1ZKmQZYKdBe_4tJoGbERlB7ElRYrDNNO4/edit#heading=h.gjdgxs) - **UPDATE THIS LINK WHEN IN GH**
 
 </details>
@@ -73,18 +73,21 @@
      - [x] Presentation and agreement with the team on direction
           - [x] Confirm Frontend and Backend efforts
      - [x] Presentation to Stakeholders and downstream system representatives - **9/13/2023**
+     
+- [x] Create initital Research Plan and Conversation Guide
+- [x] Conduct research sessions for mental model
+- [x] Finalize synthesis
 - [x] **Submit Collaboration Cycle request ticket**
      - [x] **Review Collaboration Cycle site**
      - [x] **Start gathering artifacts (list above)**
      - [x] **Maintain this checklist of artifacts, updating as they are shared**
-- [N/A] **Schedule Design Intent review - 9/18/23 at 3:30p ET**
-     - [ ] Present design and obtain feedback
+- [N/A] **Schedule Design Intent review - skipping this step*
 - [x] **Request CAIA (Content, Accessibility & IA) review - Kickoff 9/12/23 at 4p ET**
 - [x] Finalize design with feedback
      - [x] Present to team, stakeholders and any other interested parties
-- [ ] Create Research Plan and Conversation Guide
+- [ ] Create Usability Research Plan and Conversation Guide
 - [ ] Create working functionality in Staging environment
-     - [ ] The team can determine the best path, used for research
+     - [x] The team can determine the best path, used for research
 - [ ] Complete development
      - [ ] Engineers work with Designers on any questions/clarifications
 - [N/A] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
@@ -96,7 +99,7 @@
      - [ ] Make any necessary tickets/changes for design
 - [ ] **Create Use Cases**
      - [ ] **Identify test users**
-- [ ] **Create Release Plan**
+- [x] **Create Release Plan**
 - [ ] **Engage downstream system team for End-to-End QA coordination**
      - [ ] **Create E2E use cases and document results**
      - [ ] **Obtain signoff from downstream system team**
