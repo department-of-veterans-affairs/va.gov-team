@@ -13,7 +13,7 @@ body:
           Learn more about [Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/contact-center/medallia)
   - type: dropdown
     id: survey-type-requested
-    attributes:
+     attributes:
       label: Survey Type Requested
       options:
         - Feedback
