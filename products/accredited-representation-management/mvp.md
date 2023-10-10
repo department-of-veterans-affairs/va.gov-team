@@ -18,6 +18,10 @@ The MVP will include desktop & mobile experiences
             1. Veteran Service Organization (VSO)
             1. Attorney (Lawyer)
             1. Claims agent
+        1. Search by name
+            1. Organization name 
+            2. Representative first name
+            3. Representative last name
         1. Rep definitions
             1. Veteran Service Organization (VSO)
             1. Attorney (Lawyer)
