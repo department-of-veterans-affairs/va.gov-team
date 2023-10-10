@@ -10,7 +10,6 @@ body:
       value: |
           ## What this form is for
           The Contact Center Team is responsible for Tier II/Tier III support as well as Medallia User Surveys (among other things) along with associated and data and reporting. Please use this form to request qualitative (textual) data for either. While we have quantitative data for these services within DOMO, we are only able to share the qualitative data on the network due to PII/PHI concerns. (The shared data may contain PII/PHI information, we are only able to share the qualitative data on the VA network.) Please be sure to use VA.gov email ONLY. 
-          
           *Please allow 5 business days for delivery.*
   - type: dropdown
     id: data-request-type
@@ -56,7 +55,6 @@ body:
     attributes:
       value: |
           ### Please note:
-          
           If you are requesting user surveys, please provide the desired URLs and/or key terms. If you are requesting support issues, please select from <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/va411-categorizarion.md" target="_blank">this list of case categories or types</a> and/or key terms. VA411 issues do not capture URL.
   - type: textarea
     id: product-urls
@@ -77,16 +75,6 @@ body:
         - One file for each term/URL
     validations:
       required: true
-  - type: dropdown
-    id: Data Type Requested
-    attributes:  
-    label: Word Cloud
-      description: Please specifify if you would like a Word Cloud included with your results.
-      options:
-        - Yes
-        - No
-    validations:
-      required: true
   - type: input
     id: va-email
     attributes:
@@ -95,7 +83,6 @@ body:
       placeholder: johndoe@va.gov
     validations:
       required: true
-      
   - type: textarea
     id: add-assignee-labels
     attributes:
