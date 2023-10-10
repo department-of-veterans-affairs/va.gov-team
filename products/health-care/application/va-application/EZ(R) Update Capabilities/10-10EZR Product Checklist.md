@@ -23,8 +23,8 @@
 
 - Project epic [#57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
 - [10-10EZR Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/10-10EZR%20Product%20Brief%20(standalone%20form).md)
-- [Sketch Wireframes](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/D391CBC5-D341-4B4B-B1D8-566325DDF8A4/canvas)
-- [User flows](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/v/Mrk8ab/p/A0C657F6-3318-45A0-93CB-246BA8722E37/canvas?posX=-3289.158203125&posY=-10403.73046875&zoom=0.25)
+- [Sketch Wireframes](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/p/E00D429A-2608-489A-BB55-4A53C6FA6317/canvas)
+- [User flows](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/p/2243222A-201E-413F-8CC2-8A8C237726DC/canvas)
 - [Initial Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-plan.md) 
 - [Initial Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/conversation-guide.md)
 - Secondary Usability Research Plan
@@ -34,19 +34,20 @@
 - Product URL(s)
      - TBD
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZR-Update-health-care-benefits.md)
-- Finalized design, prototype or mockup
+- [Finalized design](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/p/34F1F294-5E1D-46C1-ADE6-AC6C398E2130/canvas)
 - [CAIA Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64095)
-- Content brief
+- [Content brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/10-10EZR%20Form)
 - Regression test plans
 - TestRail 
-     - Test cases
+     - [Test cases](https://dsvavsp.testrail.io/index.php?/suites/view/11&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
      - Test plans
+     - Test runs
 - Accessibility Testing ticket
 - Technical diagrams (architecture diagram, sequence diagram)
 - Any new publicly-exposed endpoints
 - Any new interactions with dependent VA backends
 - Release plan
-- Product guide for contact center
+- [Product guide for contact center](https://docs.google.com/document/d/1ZKmQZYKdBe_4tJoGbERlB7ElRYrDNNO4/edit#heading=h.gjdgxs) - **UPDATE THIS LINK WHEN IN GH**
 
 </details>
      
@@ -98,7 +99,6 @@
      - [ ] Engineers work with Designers on any questions/clarifications
      - [ ] Present to team for validation
      - [ ] Present to Stakeholders for validation
-- [ ] **Submit QA ticket and schedule with Tze (based on Dev ETA)**
 - [ ] **Engage downstream system team for End-to-End QA coordination**
      - [ ] **Create E2E use cases and document results**
      - [ ] **Obtain signoff from downstream system team**
