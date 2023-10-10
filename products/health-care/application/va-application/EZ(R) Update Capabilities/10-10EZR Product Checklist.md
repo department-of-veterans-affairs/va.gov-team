@@ -68,24 +68,26 @@
 - [x] **Create Epic to identify the problem and solution**
 - [ ] Optional - **Sign up for a Product Review session to present the initiative (~after Design Intent)**
 - [x] Create corresponding stories to align with the work needed (start with this list!)
-- [ ] Initial design
+- [x] Initial design
      - [x] Lo-Fi design ideas
      - [x] Presentation and agreement with the team on direction
           - [x] Confirm Frontend and Backend efforts
-     - [ ] Presentation to Stakeholders and downstream system representatives - **9/13/2023**
+     - [x] Presentation to Stakeholders and downstream system representatives - **9/13/2023**
 - [x] **Submit Collaboration Cycle request ticket**
      - [x] **Review Collaboration Cycle site**
      - [x] **Start gathering artifacts (list above)**
      - [x] **Maintain this checklist of artifacts, updating as they are shared**
-- [ ] **Schedule Design Intent review - 9/18/23 at 3:30p ET**
+- [N/A] **Schedule Design Intent review - 9/18/23 at 3:30p ET**
      - [ ] Present design and obtain feedback
 - [x] **Request CAIA (Content, Accessibility & IA) review - Kickoff 9/12/23 at 4p ET**
-- [ ] Finalize design with feedback
-     - [ ] Present to team, stakeholders and any other interested parties
-- [ ] Create prototype or basic working functionality in environments
-     - [ ] The team can determine the best path, used for research
+- [x] Finalize design with feedback
+     - [x] Present to team, stakeholders and any other interested parties
 - [ ] Create Research Plan and Conversation Guide
-- [ ] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [ ] Create working functionality in Staging environment
+     - [ ] The team can determine the best path, used for research
+- [ ] Complete development
+     - [ ] Engineers work with Designers on any questions/clarifications
+- [N/A] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Schedule research sessions with Perigean
 - [ ] Conduct research sessions
@@ -95,10 +97,6 @@
 - [ ] **Create Use Cases**
      - [ ] **Identify test users**
 - [ ] **Create Release Plan**
-- [ ] Complete development
-     - [ ] Engineers work with Designers on any questions/clarifications
-     - [ ] Present to team for validation
-     - [ ] Present to Stakeholders for validation
 - [ ] **Engage downstream system team for End-to-End QA coordination**
      - [ ] **Create E2E use cases and document results**
      - [ ] **Obtain signoff from downstream system team**
@@ -109,15 +107,8 @@
 - [ ] **Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket**
      - [ ] **Review findings with the team**
      - [ ] **Create tickets for work to be completed before launch**
-- [ ] Create Usability and/or UAT research plan and conversation guide
-- [ ] **Request Research Plan review**
-- [ ] Schedule Usability/UAT sessions with Perigean
-- [ ] Conduct Usability/UAT sessions
-     - [ ] Synthesize research findings, if needed (not usually needed for UAT)
-     - [ ] Review findings with the team
-     - [ ] Make any necessary tickets/changes for design and/or development
 - [ ] Complete any Design and/or Development work from Usability/UAT sessions
-- [ ] Update Error matrix documentation with any new error states
+- [x] Update Error matrix documentation with any new error states
 - [ ] Update any FE and/or BE Engineering documentation
 - [ ] **Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] **Update Contact Center guide**
@@ -133,6 +124,8 @@
      - [ ] **Review Release Plan**
 - [ ] **Launch in a phased manner, according to Release Plan**
 - [ ] **Continuous check-ins with downstream system**
+- [ ] Create Usability and/or UAT research plan and conversation guide
+- [ ] **Request Research Plan review**
 - [ ] Conduct Usability/UAT sessions
      - [ ] Synthesize research findings, if needed (not usually needed for UAT)
      - [ ] Review findings with the team
