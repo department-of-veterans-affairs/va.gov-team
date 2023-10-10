@@ -48,11 +48,9 @@ Data collection will be remote and conducted using Zoom.
 
 ### Research materials
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/51d9beee1bbe325473118685c6f0ea6e46115fb7/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-conversation-guide_AVS.md)
+[Conversation guide](add link here)
 
-All other research documents can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/51d9beee1bbe325473118685c6f0ea6e46115fb7/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study)
-
-[Prototype](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/p/A1AC60CB-64DF-48E4-B335-710A54739F41/canvas)
+[Prototype](add link here)
 
 
 ## Recruitment
