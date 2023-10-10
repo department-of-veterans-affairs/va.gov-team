@@ -63,14 +63,14 @@ body:
     attributes:
       label: Survey URL(s), key term(s), case category or type
       description: Please provide the root directory(ies) for your product(s). If you want ONLY the URL listed, please specifiy. Otherwise, any URLs that live under the path provided will be exported as well. If providing specific terms to search for, please include those terms as well as common alternate spellings.
-      placeholder: "URLs: ONLY va.gov/find-locations, everything under and including va.gov/health-care  Terms: facility, facilities, community care provider"  (The shared data may contain PII/PHI information, we are only able to share the qualitative data on the VA network, VA.gov email ONLY.) 
+      placeholder: "URLs: ONLY va.gov/find-locations, everything under and including va.gov/health-care  Terms: facility, facilities, community care provider  (The shared data may contain PII/PHI information, we are only able to share the qualitative data on the VA network, VA.gov email ONLY.)" 
     validations:
       required: true
   - type: dropdown
     id: data-delivery
     attributes:
       label: File Delivery Format
-      description: Please specifify how you would like your data to be delievered.
+      description: Please specify how you would like your data to be delievered.
       options:
         - All in one file, on one tab
         - One file, different tab for each term/URL
