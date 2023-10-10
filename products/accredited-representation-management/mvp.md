@@ -78,6 +78,7 @@ The MVP will include desktop & mobile experiences
     1. Requires signatures
     2. Investigate/address signature errors
     3. Determine if we can support digital submission for attorneys and claim agents who often require fee agreements before accepting
+    4. Identify how the insurance field impacts Power of Attorney 
 1. Notifications
     1. Representative approved request
     1. Representative rejected request
