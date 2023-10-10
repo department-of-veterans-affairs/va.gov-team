@@ -32,8 +32,14 @@ Measures the traffic to an endpoint or service, indicating that if it's atypical
 **One off**
 A monitor where any single event is considered alertable, e.g. a catastrophic failure to submit through any service or retry.
 
+**Catastrophic**
+If you see this, the application is blowing up
 
 ### Playbooks
+- [Benefits - IntentToFilesController rate limit Error](https://vagov.ddog-gov.com/monitors/153112)
+  - type: **catastrophic**
+  - If this happens, we have hit a rate limit in Lighthouse.  This means all requests to this endpoint will fail for X amount of time
+  - TODO: playbook for this is needed
 - [Form 526 Backup Submission Error. Investigate](https://vagov.ddog-gov.com/monitors/110156)
    - type: One off
    - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/form-526-backup-submission-error.md)
@@ -65,8 +71,6 @@ A monitor where any single event is considered alertable, e.g. a catastrophic fa
   - type: traffic
 - [EVSS ITF traffic is low](https://vagov.ddog-gov.com/monitors/157809)
   - type: traffic
-- [Benefits - IntentToFilesController errors](https://vagov.ddog-gov.com/monitors/153112)
-  - type: number of errors
 - [526 Catastrophic submission failure - backup worker exhausted](https://vagov.ddog-gov.com/monitors/164793)
   - type: One off.  Any instance of this alert requires
      - Capturing context from the applicable logs 
