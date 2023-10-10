@@ -1,15 +1,78 @@
 
-### List of possible Discrete Submission Actions
-Action | Description | [Up/Down]stream System | Transfer Description | Frequency | Consequence of Failure
--- | -- | -- | -- | -- | -- 
-Prefill Info | Get info for the veteran to pre-populate information on the form | Vet360 (mailing address)BGS (file number last 4) | An http call to external service | Always 1 per submission | User cannot begin the form
-Intent to File (check) | Intent to File for veteran | EVSS(Lighthouse soon?) | An http call to external service | Always 1 per submission | User cannot continue with the form. 
-Intent to File (create) | Intent to File for veteran | EVSS(Lighthouse soon?) | An http call to external service | Optional based on check result | User cannot continue with the form. 
-Evidence Upload (before submission) | Putting S3 file in S3 | AWS S3 | An http call to external service | Any number per submission, including 0 (optional) | User sees an error message on the webpage. Evidence is not included in submission or user must reupload on the webpage.
-Get Contestable Issues | Gets a list of contestable issues the veteran can choose from for this claim | Lighthouse | An http call to external service | Always 1 per submission | User is allowed to continue, must enter in their own contentions. May cause confusion if user does not know it, or delay claim if they enter something different that what they requested before.
-Overall Supplemental Claim Submission | The overall submission over the claim | Lighthouse | An http call to external service | Always 1 per submission | User sees an error message on the webpage. Save in progress data is retained. They may attempt later.
-Evidence Upload Retrieval | Pulling down the evidence files to submit | AWS S3 | An http call to external service | Any number per submission, including 0 (optional) | Happens via queued job, user is not aware if this fails. Evidence just does not get to the VA, while the user thinks that it did
-Evidence Uploads | Files provided by the user to support their claim | Lighthouse | An http call to external service | Any number per submission, including 0 (optional) | Happens via queued job, user is not aware if this fails. Evidence just does not get to the VA, while the user thinks that it did
-Form 4142(a) Generation | Generating of form4142 on the filesystem | n/a | Call to pdftk command on server | Optional based on provided info | Happens via queued job, user is not aware if this fails. The 4142 just does not get to the VA, while the user thinks that it did
-Form 4142(a) | Authorization to Disclose Information to the Department of Veterans Affairs, usually medical records from private sources. | Central Mail | An http call to external service | Optional based on provided info | Happens via queued job, user is not aware if this fails. The 4142 just does not get to the VA, while the user thinks that it did
+### List of Frontend/Backend Interactions
+
+# Prefill Info 
+## Description
+  Get info for the veteran to pre-populate information on the form 
+## External System(s)
+  Vet360 (mailing address)
+  BGS (file number last 4) 
+## Number of Occurences per Submission 
+  Always 1 per submission 
+## Possible Responses and action from frontend upon response
+  XXXXX
+
+# Intent to File (check) 
+## Description
+  Check Intent to File for veteran
+## External System(s)
+  EVSS -> Lighthouse
+## Number of Occurences per Submission 
+  Always 1 per submission 
+## Possible Responses and action from frontend upon response
+  XXXXX
+
+
+# Intent to File (create)
+## Description
+  File an Intent to File for veteran
+## External System(s)
+  EVSS -> Lighthouse
+## Number of Occurences per Submission 
+  0-1 per submission 
+## Possible Responses and action from frontend upon response
+  XXXXX
   
+# Evidence Upload (before submission) 
+## Description
+  Putting user uploaded file into S3
+## External System(s)
+  AWS S3
+## Number of Occurences per Submission 
+  Any number per submission, including 0 (optional)
+## Possible Responses and action from frontend upon response
+  XXXXX
+
+# Get Contestable Issues
+## Description
+  Gets a list of contestable issues the veteran can choose from for this claim
+## External System(s)
+  Lighthouse
+## Number of Occurences per Submission 
+  1 per submission
+## Possible Responses and action from frontend upon response
+  XXXXX
+
+
+# Overall Supplemental Claim Submission
+## Description
+  The overall submission over the claim
+## External System(s)
+  Lighthouse
+## Number of Occurences per Submission 
+  1 per submission
+## Possible Responses and action from frontend upon response
+  XXXXX
+
+
+# Save In Progress
+## Description
+  Saving of a users progress through the form
+## External System(s)
+  N/A (only vets-api)
+## Number of Occurences per Submission 
+  Many per submission
+## Possible Responses and action from frontend upon response
+  XXXXX
+
+
