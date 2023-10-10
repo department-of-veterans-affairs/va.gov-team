@@ -91,7 +91,7 @@ body:
     id: va-email
     attributes:
       label: VA Email Address(es)
-      description: Please provide the VA email address(es) you wish to have the data shared with. Data cannot be shared to a non-VA.gov email address.
+      description: Please provide the VA email address(es) you wish to have the data shared with. Data cannot be shared to a non VA.gov email address.
       placeholder: johndoe@va.gov
     validations:
       required: true
