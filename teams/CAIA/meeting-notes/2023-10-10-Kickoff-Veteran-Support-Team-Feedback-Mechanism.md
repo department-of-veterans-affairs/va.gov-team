@@ -1,17 +1,14 @@
-# CAIA Kickoff: [Team Name Goes Here]
+# CAIA Kickoff: Veterans Support Team - Feedback Survey Updates
 ## Meeting Details
-- **Date**: [Day], [Month] [Date], [Year]
-- **Time**: [00:00] – [00:00] [a.m./p.m.] [Timezone]
-- [Zoom Link](x)
-- [Google Doc Version](x) (Access Required)
-- [Microsoft Word Version](x)
+- **Date**: Tues., October 10, 2023
+- **Time**: 3:00 p.m. EST
+- [Zoom Link](https://us02web.zoom.us/j/86284210850?pwd=aTZFU214TmlhRTRMU1IwM0NpWUFQZz09)
+- [Canvas Version](https://govbloomdigital.slack.com/docs/TEMAF4B7E/F060XH4RZPB) (Access Required)
 
 
 ## About the CAIA Team
 ### Platform Governance Team
 The Platform Governance Team assists teams specifically through the Collaboration Style, to the launch of a product, via design intent, midpoint review and staging review. 
-
-**[^^Remove if not part of the Collaboration Cycle]**
 
 ### Content Accessibility and Information Architecture (CAIA)
 CAIA’s  job is to make sure VFS teams are ready for those incremental steps of the Collaboration Cycle, through a partnership with CAIA's three different disciplines. CAIA can work async or embed with VFS teams, depending on the project. 
@@ -21,11 +18,11 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 
 ## Starting the CAIA Process
 ### Process Initiated
-- [ ] Intake Request - this forms the basis of our partnerships with you and becomes an Epic.
-- [ ] We will spin off our tickets within that Epic ticket:
+- [x] [Intake Request #66872](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66872) - this forms the basis of our partnerships with you and becomes an Parent Ticket.
+- [ ] We will spin off our child tickets within that parent/intake ticket:
     - [ ] Content
-    - [ ] IA
     - [ ] Accessibility
+    - IA - Not needed; Kristin [confirmed with Camillie 10/10/2023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66872#issuecomment-1756091798)
 
 ## Meeting Action Items 🎬
 - [ ] Action Item 1
@@ -36,33 +33,40 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 
 
 ## Resources 🔗
-- **[xx/xx/20xx] Opened Collaboration Cycle Ticket: **
-- [ ] Collaboration Cycle Ticket [#NumberLinked] - if applicable
-    - [ ] Design Intent ticket (TBD - as of Kickoff Meeting)
+- **9/11/2023 Opened Collaboration Cycle Ticket: **
+- [x] Collaboration Cycle Ticket [#65297](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65297)
+    - [x] Design Intent tickets 10/2/2023 at 3:30 p.m. EST
+        - [x] [Design Intent - Accessibility Feedback: 66760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66760)
+        - [x] [Design Intent - IA Feedback: 66747](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66747)
+        - [x] **Zoom recording obtained:**
+            - **Recording link:** https://oddball-io.zoom.us/rec/share/FzxrMO1J-9fyd5lq6lencP_4FEbYFtT-oAN1WsN7JKqgjsXGAV2PHjqBx4zFWb4q.Ivzh7eoWpaVeohEJ
+            - **Passcode**: 8h.9GrJ#
     - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
 
 ## CAIA Tickets 🎟️
-- [ ] [Epic] Name of Epic/Intake Ticket 
+- [ ] [CAIA Intake]: Veteran Support Team: Feedback Mechanism - Rate Your Experience [#66872](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66872)
     - [ ] Accessibility Ticket
     - [ ] IA Ticket
     - [ ] Content Ticket
 
 ## Assets
-- [Product outline](x)
-- [User flows](x)
+- [Product outline](https://app.zenhub.com/workspaces/contact-center-62cdd9546ec1530018209672/issues/gh/department-of-veterans-affairs/va.gov-team/65148)
+- [User flows - embed userflow](https://www.sketch.com/s/a513ba38-1d26-41d0-9009-92ea729446e2)
 - [Wireframes](x)
-- [Prototype](x)
-- [Other Items](x)
+- [Prototype - Sketch](https://www.sketch.com/s/a513ba38-1d26-41d0-9009-92ea729446e2)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/rate-tool)
 
 
 ## Meet the Teams
 ### Kickoff Team Partner
-- Team member 1
-- Team member 2
-- Team member 3
-- Team member 4
-- Team member 5
+- Team name: Veterans Support
+- OCTO-DE product owner: @clantosswett
+- Product manager: @ATMiddleton
+- Designer: @UXCamG
+- Accessibility specialist: @briandeconinck
+- Content writer: @starlow00
+- Slack channel:VSP-Contact-Center-Support
 
 ### CAIA Teams
 #### CAIA
