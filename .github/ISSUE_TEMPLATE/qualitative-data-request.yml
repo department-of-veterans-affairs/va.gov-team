@@ -14,7 +14,7 @@ body:
   - type: dropdown
     id: data-request-type
     attributes:
-      label: Data Type Requested
+      label: Data Type Requested 
       description: For MyVA411 call center support data, select \"Support.\" For Medallia survey data, select \"User Surveys.\"
       options:
         - Support
