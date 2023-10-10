@@ -117,6 +117,8 @@ We will be implementing this initiative using the following Prioritys:
        	- Adding the confirm action for pre-check-in
 
 #### Priority 8: Updates to Need help section (IN PROGRESS)
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62515) & [Wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/6ECDF941-DF3B-4C1E-983D-1BA221ACF65C/canvas)
+- [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md#9272023)	
 - Changes to Need Help
 - Change alert on travel pages to additional info component
 
