@@ -1,78 +1,112 @@
 
-### List of Frontend/Backend Interactions
+# List of Frontend/Backend Interactions
 
-# Prefill Info 
-## Description
+
+  
+## Prefill Info 
+
+<details>
+  
+  ### Description
   Get info for the veteran to pre-populate information on the form 
-## External System(s)
+  ### External System(s)
   Vet360 (mailing address)
   BGS (file number last 4) 
-## Number of Occurences per Submission 
+  ### Number of Occurences per Submission 
   Always 1 per submission 
-## Possible Responses and action from frontend upon response
+  ### Possible Responses and action from frontend upon response
   XXXXX
+    
+</details>
 
-# Intent to File (check) 
-## Description
+
+## Intent to File (check) 
+
+<details>
+  
+  ### Description
   Check Intent to File for veteran
-## External System(s)
+  ### External System(s)
   EVSS -> Lighthouse
-## Number of Occurences per Submission 
+  ### Number of Occurences per Submission 
   Always 1 per submission 
-## Possible Responses and action from frontend upon response
+  ### Possible Responses and action from frontend upon response
+  XXXXX
+    
+</details>
+
+## Intent to File (create)
+
+<details>
+  
+  ### Description
+  File an Intent to File for veteran
+  ### External System(s)
+  EVSS -> Lighthouse
+  ### Number of Occurences per Submission 
+  0-1 per submission 
+  ### Possible Responses and action from frontend upon response
   XXXXX
 
+</details>
+  
+## Evidence Upload (before submission) 
 
-# Intent to File (create)
-## Description
-  File an Intent to File for veteran
-## External System(s)
-  EVSS -> Lighthouse
-## Number of Occurences per Submission 
-  0-1 per submission 
-## Possible Responses and action from frontend upon response
+<details>
+  
+  ### Description
+  Putting user uploaded file into S3
+  ### External System(s)
+  AWS S3
+  ### Number of Occurences per Submission 
+  Any number per submission, including 0 (optional)
+  ### Possible Responses and action from frontend upon response
   XXXXX
   
-# Evidence Upload (before submission) 
-## Description
-  Putting user uploaded file into S3
-## External System(s)
-  AWS S3
-## Number of Occurences per Submission 
-  Any number per submission, including 0 (optional)
-## Possible Responses and action from frontend upon response
-  XXXXX
+</details>
 
-# Get Contestable Issues
-## Description
+## Get Contestable Issues
+
+<details>
+
+  ### Description
   Gets a list of contestable issues the veteran can choose from for this claim
-## External System(s)
+  ### External System(s)
   Lighthouse
-## Number of Occurences per Submission 
+  ### Number of Occurences per Submission 
   1 per submission
-## Possible Responses and action from frontend upon response
+  ### Possible Responses and action from frontend upon response
   XXXXX
+</details>
 
+## Overall Supplemental Claim Submission
 
-# Overall Supplemental Claim Submission
-## Description
+<details>
+  
+  ### Description
   The overall submission over the claim
-## External System(s)
+  ### External System(s)
   Lighthouse
-## Number of Occurences per Submission 
+  ### Number of Occurences per Submission 
   1 per submission
-## Possible Responses and action from frontend upon response
+  ### Possible Responses and action from frontend upon response
   XXXXX
+  
+</details>
 
+## Save In Progress
 
-# Save In Progress
-## Description
+<details>
+  
+  ### Description
   Saving of a users progress through the form
-## External System(s)
+  ### External System(s)
   N/A (only vets-api)
-## Number of Occurences per Submission 
+  ### Number of Occurences per Submission 
   Many per submission
-## Possible Responses and action from frontend upon response
+  ### Possible Responses and action from frontend upon response
   XXXXX
+  
+</details>
 
 
