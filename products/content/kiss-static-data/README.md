@@ -47,6 +47,10 @@ KISS provides a way to create arbitrary static data files from Drupal content. T
     - The sync with S3 happens in two passes so that we can ensure that assets will be available when pages that request them are synced. So, these assets are synced first, then the html pages second. We include KISS-generated data files in the first pass.
 
 
+### KISS Endpoints
+- https://www.va.gov/data/cms/vamc-ehr.json
+- https://www.va.gov/data/cms/vamc-facility-supplemental-status.json
+  
 ### Caching
 There are a couple other PRs that implement a caching mechanism that follows the same approach as that used for content-build at large. When `--pull-drupal` is issued, a content build will query Drupal for new data. Otherwise, cached static data files will be used.
 - https://github.com/department-of-veterans-affairs/content-build/pull/1363

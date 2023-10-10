@@ -125,43 +125,63 @@ _[iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/re
 * Now, I am going to give you a series of tasks for you to do on the website. Please talk aloud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
 
 
-#### Task 1: Print appointment details (10 minutes)
+
+#### Task 1: Facility/clinic selection for direct scheduling(10 minutes)
+
+
+
+* PROMPT: You would like to schedule an appointment at a VA facility near you. Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
+* Go ahead and use the website to complete the task. Once you’re there, stop and wait for the next instruction.
+    * _If not successful: Help them navigate to where they need to go. Note where they have trouble._
+
+
+#### Task 2: Provider selection for CC (10 minutes)
+
+
+
+* PROMPT: You need to make a community care appointment. How do you go about making a community care appointment with your provider? Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
+* Go ahead and use the website to complete the task. Once you’re there, stop and wait for the next instruction.
+    * _If not successful: Help them navigate to where they need to go. Note where they have trouble._
+
+
+#### Task 3: Breadcrumb and URL updates/ Descriptive back (10 minutes)
+
+
+* PROMPT: You are curious the last time you visited your provider, where would you go to find out the date of your last appointment?  Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
+* Go ahead and use the website to complete the task. Once you’re there, stop and wait for the next instruction.
+Once they navigate to past appointments ask them to expand one of them. Now ask "how would you go back to your list of upcoming appointments?
+Observe as they navigate. Are the breadcrumbs accurate? Are they using the descriptive back button? Do they mentions using it as they think out loud?"
+
+#### Task 4: Print appointment details (10 minutes)
 
 
 
 * PROMPT: Imagine you want to print the details for an upcming appointment. Without activating anything, where do you think you’d find that?
 * TASK 1: Go ahead and use the website to complete the task but don't actually print it. 
-    * _If not successful: Help them navigate to where they need to go. Note where they have trouble._
+     *_If not successful: Help them navigate to where they need to go. Note where they have trouble._
 * TASK 2: Navigate to a past appointment to do the same thing but again, you do not have to print anything.
 * TASK 2: If you have a pending appointment, go ahead and do the same thing. 
 
+#### Task 5: After visit summary (10 minutes)
 
+* PROMPT: Can you show me how you would get to an after-visit summary of a VA appointment you had with your provider?
+* TASK 1: Go ahead and use the website to navigate to view an appointment’s after-visit summary.
+   * _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
 
-#### Task 2: (10 minutes)
+* TASK 2: Can you please scroll down and open the first accordion ”Your appointment on X”. Scroll through the information and please click on any links.
+   * _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
 
+* TASK 3: Open the second accordion ”Your treatment plan from this appointment”. Scan the information and please click on any links.
+   * _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
 
+* TASK 4: Open the third accordion ”Your health information as of this appointment”. Scroll through that information and please click on any links.
+   * _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
+  
+* TASK 5: Open the Fourth accordion ”More information”. Scroll through the information and please click on any links.
+    * _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
 
-* PROMPT: [Write prompt here] Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
-* Go ahead and use the website to complete the task. Once you’re there, stop and wait for the next instruction.
-    * _If not successful: Help them navigate to where they need to go. Note where they have trouble._
-
-
-#### Task 3: (10 minutes)
-
-
-
-* PROMPT: [Write prompt here] Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
-* Go ahead and use the website to complete the task. Once you’re there, stop and wait for the next instruction.
-    * _If not successful: Help them navigate to where they need to go. Note where they have trouble._
-
-
-#### Task 4: (10 minutes)
-
-
-
-* PROMPT: [Write prompt here] Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
-* Go ahead and use the website to complete the task. Once you’re there, stop and wait for the next instruction.
-    * _If not successful: Help them navigate to where they need to go. Note where they have trouble._
+* TASK 6: Can you please show me how you would get to another After-visit summary from here?
+   * _If not successful: help them navigate. Note if the “Back to” link on top is functioning as expected.
 
 
 ## ** Thank-You and Closing (5 minutes)**

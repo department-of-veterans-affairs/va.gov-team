@@ -103,7 +103,3 @@ Product POCs
 - Product Manager: Jane Xiong 
 - Zenhub label: Facilities, Facility Locator
 - Slack channel: #sitewide-facilities
-
-
-
-

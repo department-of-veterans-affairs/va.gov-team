@@ -27,12 +27,12 @@ Page | URL | Breadcrumb | Notes
 |1. Appointments landing page | https://va.gov/my-health/appointments | VA.gov Home > My HealtheVet > Appointments |
 |2. Past appointments list | https://va.gov/my-health/appointments/past | VA.gov Home > My HealtheVet > Appointments > Past appointments |
 |3. Pending appointments list | https://va.gov/my-health/appointments/pending | VA.gov Home > My HealtheVet > Appointments > Pending appointments  | 
-|4. Confirmed appointment details page | https://va.gov/my-health/appointments/[ID]?confirmMsg=true | < Back to appointments |
+|4. Confirmed upcoming appointment details page | https://va.gov/my-health/appointments/[ID]?confirmMsg=true | < Back to appointments |
 |5. Confirmed request details page | https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true | < Back to pending appointments |
 |6. Upcoming and canceled appointments detail pages | https://va.gov/my-health/appointments/[ID] | < Back to appointments  | 
 |7. Past appointments detail pages | https://va.gov/my-health/appointments/past/[ID] | < Back to past appointments |
 |8. Pending appointments detail pages | https://va.gov/my-health/appointments/pending/[Request-ID] | < Back to pending appointments |
-|9. Root scheduling URL | https://va.gov/my-health/appointments/schedule/[H1-related-title] | VA.gov Home > My HealtheVet > Appointments > [H1 Page Title] |
+|9. Root scheduling URL | https://va.gov/my-health/appointments/schedule/[H1-related-title] | VA.gov Home > My HealtheVet > Appointments > Schedule > [H1 Page Title] |
 
 **Scheduling Flow URLS**
 | Flow                                                   | Internal name                           | H1 Page Title                                  | Current URL                                                                                                           | New URL                                                                       |

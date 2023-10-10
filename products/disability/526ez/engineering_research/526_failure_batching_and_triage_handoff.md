@@ -80,4 +80,8 @@ At a high level
 
 [See this design document for a full outline of how we can execute this transition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/process_improvement_proposal_for_scriptable_tasks.md)
 
+## Ongoing Resubmission work
+
+Now that the knowledge transfer is complete, there are ~500 submissions that still need reprocessing.  [This document tracks that work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/ongoing_backup_backup_reprocessing_work.md)
+
 

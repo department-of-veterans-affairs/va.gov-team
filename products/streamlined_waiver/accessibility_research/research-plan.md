@@ -111,7 +111,7 @@ What are you trying to learn from this research?
 
 1. We hypothesize that the eFSR/Streamlined Waiver form will be usable by Veterans that use screen readers. They will be able to understand it and fill it out.
 
-2. While we think it will be usable, we also believe that minor accessibility issues may take away from the experience.
+2. While we think it will be usable, we also believe that accessibility issues identified in an internal accessibility audit, may take away from the experience.
 
 3. We further hypothesize that the accessibility of the form will line up with the mental models that Veterans who use screen readers have about online forms.
 
@@ -151,18 +151,20 @@ For moderated usability tests:
 
 ## Recruitment
 
-
+[Link to recruitment request](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/402)
 
 ### Recruitment approach
 
 
 Inclusive recruitment prioritizing a full sample of **Veterans that use screen readers due to low vision or blindness**.
 
+**We would like to request a Kickoff Call with Perigean. 
+**
 ### Recruitment criteria
 
 List the total number and type (Veterans, caregivers, etc.) of participants for this study.
 
-**6 completed sessions with Veterans that use screen readers, please recruit 12 Veterans**
+**6 completed sessions with Veterans that use screen readers, please recruit 15 Veterans**
 
 Primary criteria (must-haves) What demographics, experience, and scenarios do you need participants to meet to effectively run your study?
 
@@ -311,9 +313,11 @@ Wednesday Oct 18, 2023 - Friday, Oct 27, 2023
 
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
+*Please note: we would like Perigean to take notes on these sessions.* 
+
 -   Moderator: Charlotte Cesana
     
--   Research guide writing and task development (usually but not always same as moderator): Charlotte Cesana
+-   Research guide writing and task development (usually but not always same as moderator): Charlotte Cesana, Megan Gayle
     
 -   Participant recruiting & screening: Charlotte Cesana, Megan Gayle
     
@@ -323,7 +327,7 @@ Please list the people who will be serving in each role. Include the primary pho
     
 -   Accessibility specialist (for sessions where support for assistive technology may be needed): Sara Smith, Sarah Koomson
     
--   Note-takers: Megan Gayle, Joseph Lee
+-   Note-takers: **Perigean**, Megan Gayle, Joseph Lee
     
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
     

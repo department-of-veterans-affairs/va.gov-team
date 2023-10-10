@@ -76,48 +76,48 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: 5 days (8/17-8/21)
+- Length of time: One week
 - Percentage of Users (and roughly how many users do you expect this to be): 10% 
 
 #### Results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: ≈10
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Was any downstream service affected by the change?: No
+- Types of errors logged: No such file or directory @ rb_sysopen - tmp/pdfs/5655_b119e499-8e61-41ec-8000-69353043cb64_final.pdf
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, issue could not be reproduced reliably.
 
 ### Stage B: 25% of users
 
 #### Planning
 
-- Length of time: 2 days (8/22-8/23)
+- Length of time: 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: ≈10
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Was any downstream service affected by the change?: No
+- Types of errors logged: None
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
 ### Stage C: 50% of users
 
 #### Planning
 
-- Length of time: 7 days - due to a weekend (8/24)
+- Length of time: 1 day
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: ≈5
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Was any downstream service affected by the change?: No
+- Types of errors logged: None
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? No
 
-### Stage D: 100% of users (8/30)
+### Stage D: 100% of users
 
 #### Planning
 
@@ -126,11 +126,11 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: ≈15
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Was any downstream service affected by the change?: No
+- Types of errors logged: None
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? No
 
 ## Post Launch metrics
 
@@ -138,25 +138,25 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-week results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: ≈170
 - Post-launch KPI 1 actual: [FILL_IN]
 - Post-launch KPI 2 actual: [FILL_IN]
 - Post-launch KPI 3 actual: [FILL_IN]
-- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN]
+- Any issues with VA handling/processing?:  Yes
+- Types of errors logged: BackendServiceException: {:source=>"VaNotify::Service", :code=>"VANOTIFY_400"}
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? Yes
+- If yes, what: Minor changes to requests to VaNotify service to prevent client side errors.
 
 ### 1-month results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: ≈3275
 - Post-launch KPI 1 actual: [FILL_IN]
 - Post-launch KPI 2 actual: [FILL_IN]
 - Post-launch KPI 3 actual: [FILL_IN]
-- Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN]
+- Any issues with VA handling/processing?: Yes
+- Types of errors logged: BackendServiceException: {:source=>"VaNotify::Service", :code=>"VANOTIFY_400"}
+- Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? Yes
+- If yes, what: Minor changes to requests to VaNotify service to prevent client side errors.
 
 ## Post-launch Questions
 

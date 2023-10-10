@@ -35,6 +35,7 @@
 - Before edits: 5.9
 - After edits: 5.9
 
+- [ ] Ticket to track work for copy editing - [#59340](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/11?pane=issue&itemId=29590718)
 - [x] Backlog ticket for further review created if needed
 
 ## SME review

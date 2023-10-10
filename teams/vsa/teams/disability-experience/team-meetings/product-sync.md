@@ -1,5 +1,36 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Oct 5' 2023       
+### Participants: Emily, Steve, Anneliese, Austin
+### Topics Covered:
+- ITF Asyncronous work starting next sprint for Team 2. Question to group: do we want to do an ITF brainstorm for all things ITF after?
+- Toxic Exposure thread with Lighthouse re: data questions
+   - Learned that 1010ez also will be asking TE questions
+   - Lots of data questions to answer, reliant on /submit migration
+   - Keep focus on this & moving it forward, but not feeling as urgent to get the pages out at this point
+- Unemployability flow - prioritization? probably not near term
+
+### Date: Sept 28' 2023       
+### Participants: Emily, Steve, Shannon, Austin, Anneliese
+### Topics Covered:
+- Code Yellow Status - what's next / do we need to create a plan?
+   - Bill is coming to the eng sync on 9/29, will bring up to the group there to see what else may be needed
+- Priority of submission failure work vs ITF async
+   -  stay focused on submission work in current sprint  
+- Priority of postmortem action tickets
+   - #64199 pull list of APIs timeouts (ITF postmortem) - this is almost finished (team 2)
+   - #64807 get information about load testing of Lighthouse endpoints (ITF postmortem)
+   - #65824 create unit test for 526ez that checks queued jobs process without error (526 claims submission stopped postmortem)
+      - probably a low lift, but no rush to get this in since we have other methods to monitor submissions
+- Bug Triage meeting - move to 526 DataDog/monitoring check in as part of the Monitoring Playbook
+   - try it out!
+- Toxic Exposure form data question
+   - let's try and map it as close to the paper form as possible and identify any gaps/issues - with the form as is
+- Sprint review for teams 1 & 2 - is it possible to move to Tuesdays to support better workflow for the teams
+   - follow up on slack with times
+ - 
+
+
 ### Date: Sept 14' 2023       
 ### Participants: Rashinda, Austin, Emily, Shannon, Steve
 ### Topics Covered:

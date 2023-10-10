@@ -1,12 +1,14 @@
 # Project outline: Create dot indicator
 
-**Last Updated: September 19, 2023  -- updating week 2 launch stats**
+**Last Updated: September 28, 2023  -- updated communications links**
 
 ### Communications
 
 - **Github labels**: authenticated-experience
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 - **Development Epic:** [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788)
+- **My VA Collaboration Cycle Epic:** [#66544](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66544)
+- **MHV Landing Page Collaboration Cycle Epic:** [#60663](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60663)
 
 ### Roles
 

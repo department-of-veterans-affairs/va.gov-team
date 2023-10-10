@@ -1,5 +1,15 @@
 # Design Weekly Sync Agenda
 
+
+## 2023-10-02
+
+Attendees: DK, Katelyn, Jessica, Kristen
+
+- EZR - insurance section to match ez regarding headlines (h3-ish). We won't introduce new field set legends for mvp.
+- EZR Research Planning - started talking about research goals and who to recruit. Looking towards 2 cohorts with different disability ratings, those over 50% and those under 10%. Talked about starting the convo guide at VA.gov and not on the form intro page so we can learn more about the wayfinding side of it and if there is confusion between the static and intro pages
+- Registration Research Synthesis - went over Mural board and first draft of key findings; going to add in more details and examples around some of the findings like the learning curve, burden of proof and the benefits overlap from the Veteran's perspective. More chats to come on recommendations and next steps
+
+
 ## 2023-09-18
 
 Attendees: DK, Katelyn, Jessica, Hieu

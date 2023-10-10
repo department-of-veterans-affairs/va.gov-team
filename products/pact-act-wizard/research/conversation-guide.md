@@ -42,7 +42,7 @@ I work on making technology easier for Veterans to use in order to get informati
 
 What I *hope to do today* is to get your feedback on something new that we're working on. 
 
-What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may look at things that have caused you frustration, and I want you to know up front that I can't make that better for you right now. I don't have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations because they can help me advocate for improvements to the process in the future.
+What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may look at things that have caused you frustration, and I want you to know up front that I cannot make that better for you right now. I do not have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations because they can help me advocate for improvements to the process in the future.
 
 I have a colleague with us in this session who will be taking notes.
 
@@ -64,18 +64,17 @@ Before we start, I want to go over a few things:
 
 - I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
   
-  - Last thing: One of the ways that we share findings with our partners across VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. I'll also confirm at the end of this session that this is okay with you, so you will get a chance to veto this once you know what we've discussed. 
-  - Knowing this, **would you be comfortable if we decided to use a clip of our session** with you to help our partners understand Veteran's experiences?
+  - Last thing: One of the ways that we share findings with our partners across VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image and name. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA online resources. These clips will not be shared outside of the VA. We don't know at this point if we will or won't do this, but I'd like to ask ahead of time. I'll also confirm at the end of this session that this is okay with you, so you will get a chance to veto this once you know what we've discussed. 
+  - Knowing this, **would you be comfortable if we decided to use a clip of our session** to help our partners understand Veterans' experiences?
   - *(If yes:)* Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 *Select Record, then Record to the cloud.*
 
 *(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session?
 
-*In the bottom toolbar of the Zoom window, click the arrow next to **Show Captions** > **View Full Transcript** > Save.*
+*In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save. (NEED TO DO THIS TO GET TRANSCRIPT)*
 
 ~~Click Live Transcript and **Enable**, or **Show Captions**~~
-
 ~~*Click **Live Transcript > View Full Transcript***~~
 
 - **I have started recording**. I'd like to confirm: 
@@ -195,7 +194,7 @@ If you wanted to learn more about the PACT Act, what would you do?
 
 
 ### Task 2: [Open prototype] 
-
+Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share **your feedback** while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. 
 
 I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to use: **surveymonkey.com/r/KKVHSFV** (zoom chat) or **bit.ly/45RtoOR** (dictate)
 - *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide a direct link: **surveymonkey.com/r/KKVHSFV**)*
@@ -207,7 +206,7 @@ Did you get the link?
 
 
 ### Task 3: [Go through questions in wizard]
-Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share **your feedback** while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'd like you to talk to me about what you're thinking and what you plan to do BEFORE selecting anything.
+Please try to **talk aloud** about what you're thinking and what you plan to do BEFORE selecting anything.
 
 *(RECORD all feedback on questions:)*
 - *Intro screen*
@@ -222,30 +221,35 @@ Let's suppose that (Google/VA.gov) led you to the web page that I'm going to sho
 - *Camp Lejeune question*
 
 
-### Task 4: [Results screen--Lejeune or Benefit eligibility]
-*(RECORD which results screen they see: Staging / Lejeune / Benefit eligibility)*
+### Task 4: [Results screen--Lejeune or VA benefit eligibility]
+*(RECORD which results screen they see: Lejeune / VA benefit eligibility / You may be eligible)*
  
 Please tell me about what you see here. 
 
 What does this mean to you?
 
 What would you do now?
+- *Learn about Camp Lejeune and VA benefits*
+- *Learn about disability compensation eligibility*
+- *Learn about VA health care eligibility*
 
 *(When all done with feedback on this page...)* Now I'm going to show you a different version of what you might see, which does NOT correspond to your answers to the questions, but I'd like you to take a look at it anyway. 
 
 Could you please select "Continue"?
 
   
-### Task 5: [Results screen--R1 on Staging]
-*(If participant is looking at Staging version and notices that the locations don't match what their answers to the questions asked...)* This is a sample page that doesn't correspond to your answers to the questions. I'd like you to pretend that you served in the Middle East.
+### Task 5: [Results screen--You may be eligible]
+*(If participant notices that locations don't match their answers to the questions asked...)* This is a sample page that doesn't correspond to your answers to the questions. I'd like you to pretend that you served in the Middle East.
 
 Please tell me about what you see here. 
 
+Why do you think you’re seeing this page? 
+
 What does this page mean to you?
 
-What is unclear or doesn't work well for you?
+What might be unclear to you?
 
-- *(RECORD all comments, especially about dates)*
+- *(RECORD all comments, especially about the date. Did they notice it? Y/N)*
 
 Could you tell me what "presumptive conditions" are?
 
@@ -253,14 +257,19 @@ Could you tell me what "presumptive conditions" are?
 - Could you please take a look now? 
 - *(After they read it...)* What do "presumptive conditions" mean to you?
 
+Now what? 
+
 *RECORD other comments on “You may be eligible for VA benefits” page:*
+- *“Learn what to do next” link*
 
 
 *RECORD comments on “Apply for VA benefits now” page:*
-- *New PACT Act conditions accordion*
+- *New PACT Act conditions accordion for Burn pit exposure*
 - *Other Gulf War illnesses accordion*
-- *File for disability compensation*
+- *File a disability compensation claim*
+- *File a Supplemental Claim*
 - *Apply for VA health care*
+- *Learn more about health care eligibility*
 
 
 If you saw this page based on the questions you just answered, **how confident are you that you could take action**? I’d like you to rate your confidence level.  
@@ -285,7 +294,7 @@ If you saw this page based on the questions you just answered, **how confident a
 
 ## Thank You and Closing - 3 minutes
 
-I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences. 
+I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA online resources. 
 - **Is it OK if we decide to use a recorded clip from our discussion today to share with other VA partners?** *(yes / no)*
 - *(If participant says yes:)* Is there any part of our discussion that you would NOT want shared in a video clip?
 

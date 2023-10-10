@@ -43,12 +43,15 @@ The following changes, as compared to historical levels, will serve as key perfo
 ### Initiative Rollout
 We will be implementing this initiative using the following Prioritys:
 
-#### 45-minute reminder & associated Pre-Check-in content (Scheduled for ~Q2 2024)
+#### 45-minute reminder & associated Pre-Check-in content (IN PROGRESS)
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390) & [Wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0D0F05D2-2122-4599-9378-E03EEE32DB88/canvas)
+- [Detailed release notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/45-minute-check-in-text.md)
 - Send out 45-minute Check-in Text Reminder with Check-in Link
 - Add messaging to Pre-Check-in completion page that a text will be sent to the Veteran when it's time to check-in
 
 #### Priority 1: New landing page & accompanying content changes (IN PROGRESS)
-- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390) & [Wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/868762F3-8E8F-4E23-B0DA-34C1783F0A03/canvas)
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466) & [Wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/868762F3-8E8F-4E23-B0DA-34C1783F0A03/canvas)
+- [Detailed release notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/unified-check-in-priority-1.md)
 - Pre-Check-in
     - Text Message: new content
     - Login Page: new H1 & body content 
@@ -113,7 +116,9 @@ We will be implementing this initiative using the following Prioritys:
 	- Design tweaks to statuses
        	- Adding the confirm action for pre-check-in
 
-#### Priority 8: Updates to Need help section (TENTATIVE)
+#### Priority 8: Updates to Need help section (IN PROGRESS)
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62515) & [Wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/6ECDF941-DF3B-4C1E-983D-1BA221ACF65C/canvas)
+- [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md#9272023)	
 - Changes to Need Help
 - Change alert on travel pages to additional info component
 

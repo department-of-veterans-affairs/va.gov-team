@@ -15,30 +15,32 @@ FPO diagram:
 ```mermaid
 sequenceDiagram
     actor vet as Veteran
-    participant vam as VA-Mobile-App
+    participant vam as VA Mobile App
     participant va as vets-api
     participant chip as Chip
     participant vista as vista-api/CW/veText
 
-    vet->>vam: Click Check-in button for eligible appointment
-    vam->>va: Get demographics
-    va->>chip: Get demographics
+    vet->>vam: Click check-in for eligible appointment
+    vam->>va: GET /appointments/check-in/demographics
+    va->>chip: GET /authenticated-demographics
     chip->>vista: Fetch demographic/insurance statuses
-    chip->>vista: Fetch demogrpahic data
-    vista->>chip: Return demogrpahic/insurance statuses
-    vista->>chip: Return demogrphics data
-    chip->>va: Return combined demogaphic statuses and data
-    va->>vam: Return combined demogaphic statuses and data
-    vam-->>vet: Present demographic confirmations if needed
-    vet-->>vam: Confirm demographics
-    vam-->>va: Patch demographic status
-    va-->>chip: Patch demographic status
-    chip-->>vista: Patch demographic status
-    vista-->>chip: Demographic status patch response
-    chip-->>va: Demographic status patch response
-    va-->>vam: Demographic status patch response
-    vam->>va: Call authenticated check-in service
-    va->>chip: Call authenticated-check-in
+    chip->>vista: Fetch demographic data
+    vista->>chip: Return demographic/insurance statuses
+    vista->>chip: Return demographics data
+    chip->>va: Return combined demographic statuses and data
+    va->>vam: Return combined demographic statuses and data
+    alt demographic info needs to be confirmed
+        vam-->>vet: Present demographic confirmations screens
+        vet-->>vam: Confirm demographic information
+        vam-->>va: PATCH /appointments/check-in/demographics
+        va-->>chip: POST /authenticated-demographics
+        chip-->>vista: Patch demographic status
+        vista-->>chip: Demographic status patch response
+        chip-->>va: Demographic status patch response
+        va-->>vam: Demographic status patch response
+    end
+    vam->>va: POST /appointments/check-in
+    va->>chip: POST /authenticated-checkin
     chip->>vista: Fetch insurance and demographics statuses for patient
     chip->>vista: Fetch appointment
     chip->>chip: Evaluate demographic/insurance statuses

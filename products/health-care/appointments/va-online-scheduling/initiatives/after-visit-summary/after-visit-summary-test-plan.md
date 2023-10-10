@@ -55,6 +55,9 @@ On the VAOS homepage, the app displays the following for each status:
     - [ ] Past booked VA appointment - in person (at a Facility)
     - [ ] Add any additonal appointment types (delete if needed)
           
+### After-visit Summary MVP Test Cases in TestRails
+-  [X] [TestRails](https://dsvavsp.testrail.io/index.php?/suites/view/2735&group_by=cases:title&group_order=asc&display_deleted_cases=0)
+
 ### User flow (confirm with Ciera and Peter)
 - [X] [Figma file](https://www.figma.com/file/VHHxvo1QA1ndWc0TBhfkNq/Add-After-Visit-Summary?type=design&node-id=2012%3A35639&mode=design&t=TWu7CJ3mbxrLx9YS-1) 
 

@@ -5,7 +5,7 @@ Secondary Navigation Research Report
 - [Executive Summary](#executive-summary)
 - [What do current VA.gov secondary navigation designs look like?](#current-designs)
 - [What would health portal navigation look like with these designs?](#health-designs)
-- [Problems with current secondary navigation options](#problems)
+- [Problems with these options](#problems)
 - [What's next?](#next)
 
 ## <a name="executive-summary"></a>Executive Summary<br>
@@ -29,7 +29,7 @@ A successful solution SHOULD:
 
 ### Challenges to this work:
 * In the "try me" phase and beyond, FAQ content within the tools themselves can be migrated to pages in the Resources & Support section on VA.gov, where most FAQ-type content lives across VA.gov. Without that content, most tool-level landing pages will be bare & less helpful, so they can and should be eliminated. This will require some navigation restructuring within the tools. Those changes need to be considered and factored into the overall integrated secondary navigation design that will tie the tools together.
-* Now that the integration of tools on VA.gov has been delayed to Phase 2, significant pressure will be put on this solution to be successful at launch. While the tools will have phases 0 & 1 to receive and respond to user feedback, all features that will not launch until complete tool integration will go live to large numbers of users well past the "try me" phase. They will be very consequential at launch. Because of this, we need to do significant user testing prior to that date to understand whether these designs are working for our user base. 
+* Now that the integration of tools on VA.gov (with the exception of Appointments, which will integrate earlier) has been delayed to Phase 2, significant pressure will be put on this solution to be successful at launch. While the tools will have phases 0 & 1 to receive and respond to user feedback, all features that will not launch until complete tool integration will go live to large numbers of users well past the "try me" phase. They will be very consequential at launch. Because of this, we need to do significant user testing prior to that date to understand whether these designs are working for our user base. 
 
 ## <a name="current-designs"></a>What do current VA.gov secondary navigation designs look like?<br>
 
@@ -58,7 +58,7 @@ We mocked-up what the MHV on VA.gov planned secondary navigation structure would
   <img width="765" alt="Screenshot 2023-09-22 at 9 46 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/64f2e2e6-1958-44fb-87c4-d81fa101724b">
 </p>
 
-## <a name="problems"></a>Problems with current secondary navigation options<br>
+## <a name="problems"></a>Problems with these options<br>
 The existing sidenav component is not fully supported by the Design System, and implementations are likely inconsistent across VA.gov. The component was created to mimic the sidenavigation native to VA.gov's content management system (CMS), Drupal. Most pages across VA.gov display the Drupal version. 
 
 
@@ -85,6 +85,8 @@ There are several differences between the two secondary navigation designs on VA
 ### Problem 3: Inconsistent compared to primary mega menu navigation  
 
 ### Problem 4: Research shows that users aren't finding it on mobile
+Hidden navigation components like hamburger menus are [known to have findability issues](https://www.nngroup.com/articles/hamburger-menus/) on both desktop and mobile, and typically hurt UX metrics. At the VA, secondary navigation folds down into a hamburger menu on a tablet in portrait mode or on a mobile device.
+
 Quantitative data suggests that despite users being mostly split between desktop and mobile/tablet usage, that the usage of the secondary navigation on these devices does not follow that breakdown whatsoever. Compared to desktop engagement with the side navigation menu, only 14% of almost the same number of mobile users are clicking it. 
 
 **Google Analytics links:**

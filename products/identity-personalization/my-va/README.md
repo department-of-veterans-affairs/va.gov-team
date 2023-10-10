@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: August 29, 2023 - updated completed projects**
+**Last updated: October 3, 2023 - updated completed projects**
 
 ### Communications
 
@@ -132,10 +132,7 @@ _Why would your business want this to exist?_
 
 |Project|Status|
 |----|----|
-|[Benefit Application Drafts enhancments (Hiding the "what benefits does VA offer menu")](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509)|Build|
-|[LOA1 updates to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|Build|
-|[Dot indicator experiment + implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md) | Development |
-|Various updates to notifications| In progress|
+|My VA explorations| In progress|
 
 ### Completed projects & enhancements
 
@@ -145,6 +142,10 @@ _Why would your business want this to exist?_
 
 |Project|Launch/Completion date|
 |----|----|
+|Remove "notifications" section| October 3, 2023|
+|[LOA1 updates to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|October 3, 2023|
+|[Dot indicator experiment + implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md) | September 2023 |
+|[Benefit Application Drafts enhancments (Hiding the "what benefits does VA offer menu")](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509)|September 2023|
 |[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#readme)| August 28, 2023 |
 |[Remove "what benefits does VA offer?" menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/benefit-application-drafts-updates.md) | August 28, 2023| 
 |[Show all sections all the time (aka My VA audit)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#project-outline-my-va-audit-updates-and-documentation)| April 25, 2023 |

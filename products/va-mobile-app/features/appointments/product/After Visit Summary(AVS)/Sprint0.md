@@ -68,21 +68,38 @@ Link to Figma view [here](https://www.figma.com/file/VHHxvo1QA1ndWc0TBhfkNq/Add-
 
 Veterans are able to use the VA: Health and Benefits app, to **review their after visit summary care notes from their physician(s)**
 
+**MVP - Follow web MVP experience**
+
 1) Veteran should be able to easily find and review AVS with EASE on the app
-2) Opportunity to download in an accessible format
-3) Opportunity to incorporate Alert/Push Notification when an AVS is avail 
+  - Add link to past appointments
+    - **Risk** - Veterans may not easily find AVS; Veteran will have to know to look at past appt detail
+  - Selecting link will redirect user to Web AVS page
+    -  **Potential Risk** - Users may need to login again in order to see the AVS screen from the link 
+
+Engineering
+- BackEnd
+  - Exposing the AVS link (API is avail and also part of Vets-API) 
+
+- FrontEnd
+  - UI screen changes to include link on appt past details screen 
+
+- UX/Content/Accessibility
+  -  Handling of link (i.e show/hide as AVS is not avail for all appts) 
+  
+- QA Testing/Validation
+
+**Future State**
+
+3) Add Notes section on the app for Veteran's to easily locate avail AVS on the app
+4) Incorporate Alert/Push Notification
+5) Download/Print PDF
+
 
 ## Questions
 
 1. Decision was made to build an HTML version of the AVS and not giving Veterans access to a PDF; is there an opportunity for an API version to provide a PDF format?
-2. Web MVP AVS will live on the appointments details; with future iteration to include on the Care Summary & Notes section of web.   Does mobile have to follow suit or explore how to best fit this feature on the app (taking into account the amount of information; if the summary can not be in PDF format)
-
-Research finding showed that majority of Veterans prefered to find AVS through MR
-Quotes:
-
-"I'm looking for something that says after-visit summary or doctor's notes."
-"Well, I would go to medical records." (while on VA.gov home)
-
+   Answer:  Web has created a web page to view after visit summary. Web also looked into that (accessible PDF) for web. When evaluating a way to tackle that, we realized that we would be impacting the printed version currently handed out to Veterans too  
+3. Web MVP AVS will live on the appointments details; with future iteration to include on the Care Summary & Notes section of web.   Does mobile have to follow suit or explore how to best fit this feature on the app (taking into account the amount of information; if the summary can not be in PDF format)
 
 
 ## Assumptions
@@ -135,7 +152,6 @@ Quotes:
 - Kay Lawyer - OCTO Product Lead, katherine.lawyer@va.gov
 - Kristen McConnell - OCTO UX Lead, kristen.mcconnell@va.gov
 - Adrian Rollett - OCTO Engineering Lead, adrian.rollett@va.gov
-- Nina Anusavice - UX Designer, Nina.Anusavice@va.gov
 - Jeff Roof - Appointments, Product Manager (Ad Hoc)
 - Leah De La Costa - Appointments, Product Manager (Ad Hoc)
 - Peter Russo (Appointments, Design Lead (Ad Hoc)

@@ -62,7 +62,8 @@ The backend team created a [Reddit scraper](https://reddit-scraper.brinkstermeis
 
 ## Measuring success 
 
-*	???
+*	Track frequency of reddit scraper use across each mobile app feature team and incorprate analytics into our monthly data analysis workstream
+
 
 ## Stakeholders
 

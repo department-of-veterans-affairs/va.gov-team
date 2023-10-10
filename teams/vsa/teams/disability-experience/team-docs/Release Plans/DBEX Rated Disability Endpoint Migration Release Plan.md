@@ -80,6 +80,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - List identified user emails/Slack handles:
     - Robin Garrison, @Robin Garrison
     - Mike Richard @Mike Richard
+        - 9/27
     - Rocio De Santiago @Rocio De Santiago - Coforma
 - [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
@@ -113,12 +114,15 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - [x] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
 - [x] Ensure qualitatively that the feature works as intended for users
 - [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
-- [ ] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
+- [x] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
 - Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
     - Note any anomalies here:
-        - 8/17: Discrepancy between LH monitoring (no activity) and our Dashboard. Additionally, activity picked up on our dashboard did not match the expected use case
-            - Our activity picked up submit calls for `form_0966`, while related to ITF, is not necessary to monitor
-            - Determined that v1 controller is not helpful to monitor, dashboard updated
+        - 9/14: Discrepancy between LH monitoring and our Dashboard. LH was recording ~100k hits a day, while we recorded roughly 20% of that
+            - Confirmed discrepancy was potentially caused by other VA teams redirecting traffic to LH (~50%)
+            - Confirmed incorrect (outdated) controller module path from pre-ITF release
+        - 9/22: Discrepancy between other teams recorded traffic and traffic from LH (200k vs 100k)
+            - Noting that vets-api does not have a v2 controller corresponding with the LH v2 release. Need to find another mode of recording
+        - 9/25: Paused Canary and 1% rollout due to second PACT act deadline
 
 <br>
 
@@ -158,19 +162,20 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage A: Monitoring phase
 #### Planning  
-Date Started: 
+Date Started: 10/2/23
 ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/62318
 Length of time: 1 week
 Percentage of Users (and roughly how many users do you expect this to be): 1%
 #### Results:  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies:
+    - No traffic capture on the LH side
+        - Checked with AE team if they experienced similar issues - v2 traffic was not monitored on their end, and v2 doesn't seem to register on ours; figure out what method was used
 - Rollbacks:
+    -     Rollback reason: No traffic capture on the LH side
+            Date: 10/2/23
+            Severity/Impact: Low - metrics only
+            Ticket(s) created to address:
+            - [ ] Has the issue been resolved?
 
 ### Stage B: Moderate ramp up
 #### Planning  

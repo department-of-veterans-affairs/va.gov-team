@@ -12,23 +12,34 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 **How might we unify this process on VA.gov and provide users with clear instructions and expectations around next steps?**
  
 ## Desired User Outcomes
+#### MVP
+1. Veterans can search for accredited representatives on VA.gov and filter by location and representative type (VSOs, attorneys and claims agents)
+2. Veterans have a clear understanding of the different types of representatives (VSOs, attorneys and claims agents)
+3. Veterans can easily see if they already have an appointed representative on file
+4. Veterans can select a VSO, attorney or claims agents on VA.gov for new representation
+5. Veterans can fill out (but not submit) a 21-22 or 21-22a form on VA.gov
+6. Veterans can download a filled-out 21-22 or 21-22a form (PDF format) from VA.gov
+7. Veterans will be given guidance on next steps, including obtaining a representative signature and submitting their form outside of VA.gov (in person, via mail, through an online tool like QuickSubmit)
 
-1. Veterans can use VA.gov to search for a representative and appoint PoA
-2. Veterans will have a clear understanding of the types of representatives and the process behind granting that representative PoA
-3. Veterans will be able to easily see if they already have an appointed representative on file
-4. On related VA.gov interactions that may benefit from appointing PoA, Veterans can easily transition to searching for a representative and appointing PoA
+#### Post-MVP 
+1. Veterans will be able to submit their 21-22 or 21-22a form digitally on VA.gov
+2. On related VA.gov interactions that may benefit from appointing PoA, Veterans can easily transition to searching for a representative and appointing PoA
 
 ## Undesired User Outcomes
-1. Veterans are unable to easily or successfully appoint PoA
-2. Veterans are unable to easily or successfully manage their PoA (including changing and removing representation)
+1. Veterans are unable to easily or successfully appoint PoA on VA.gov
+2. Veterans are unable to easily or successfully manage their PoA (including changing and removing representation) on VA.gov
+3. Veterans continue to submit 21-22 or 21-22a forms outside of VA.gov (in person, via mail, through an online tool like QuickSubmit)
 
 ## Desired Business Outcomes
 
 1. Increase the functionality of VA.gov to support searching and appointing representatives
-2. Provide Veterans with the necessary tools and understanding to manage PoA on their own
+2. Provide Veterans with an easy, safe and accessible experience for appointing and managing PoA on VA.gov
+3. Reduce the time it takes for Veterans to find and appoint a representative and appoint PoA
+4. Facilitate and support claim automation initiatives and processes aimed at reducing the amount of time it takes to render decisions and deliver benefits
+5. Expedite the deprecation of the legacy eBenefits platform and legacy SEP product by delivering replacement services
 
 ## Undesired Business Outcomes
-1. Users mail in a form to appoint PoA instead of using our system on VA.gov
+1. 
 
 ---
 ## Measuring Success
@@ -52,7 +63,9 @@ There is not currently an experience on VA.gov for Veterans to find a representa
     _How many of our users are looking for replacement representation?_
 
 ### Baseline KPI Values
-1. Number of users completing the search→form download in VA.gov each week/month 
+1. Number of users completing the search→form download in VA.gov each week/month
+
+_If these numbers are growing quickly, we can examine proportional growth instead (% increase of users completing the search→form download this week/month vs. last week/month)_
 
 ### Objectives and Key results (OKRs)
 1. **Objective**: Veterans start moving away from legacy processes for finding a representative, in favor of our solution on VA.gov 
@@ -70,14 +83,15 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 1. Veterans are interested in searching for a representative and appointing PoA on their own, as long as they have a clear understanding of the process
 
 ## Solution Approach
-**Next step:** Our immediate goal is to provide Veterans with functionality that exists today, but on a unified website (VA.gov).  The plan is to kick off with an MVP which will mirror the same functionality on eBenefits, but with a more consistent and intuitive experience that lives directly on VA.gov.  
+**Next step:** Our immediate goal is to provide Veterans with functionality that exists today, but on a unified website (VA.gov).  The plan is to kick off with an MVP which will mirror the same functionality on eBenefits (searching for a representative and digitally filling out a 21-22 or 21-22a form), but with a more consistent and intuitive experience that lives directly on VA.gov.  
 
-**For future:** Our ultimate goal is to allow Veterans to search for a representative AND appoint PoA entirely on VA.gov.  Appointing PoA requires digital submission of a 21-22 or 21-22a form, which we currently do not have supporting API endpoints from Lighthouse to use.  Post-MVP we plan to:
+**For future:** Our ultimate goal is to allow Veterans to search for a representative AND appoint PoA entirely on VA.gov.  Appointing PoA requires digital submission of a 21-22 or 21-22a form, which we currently do not have supporting API endpoints from Lighthouse to use.  To support digital submission, we plan to:
 1. Identify support for these Lighthouse API endpoints
 2. Investigate how to apply signatures from two parties to achieve digital form submission
-3. Consider notifications for when a representative request is approved/rejected
-4. Explore additional features like managing open requests for representatives and managing existing representative relationships
-5. Integrate with other products or experiences that involve Veterans looking for a representative
+4. Consider notifications for when a representative request is approved/rejected
+5. Explore additional features like managing open requests for representatives and managing existing representative relationships
+6. Integrate with other products or experiences that involve Veterans looking for a representative
+7. Implement a satisfaction survey to assess the user perceptions of our product experience
 
 --- 
 
@@ -88,7 +102,8 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+ - MVP: Q1 2024
+ - Post-MVP: No later than Q3 2024
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -118,7 +133,7 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 - **GitHub Label**: accredited-representation-management-team
 - **Slack channel**: #benefits-representation-management
 - Product POCs:
-- Stakeholders: 
+- Stakeholders: Dr. Brandi Taylor (Office of Business Strategy)
 
 #### Team Members
  

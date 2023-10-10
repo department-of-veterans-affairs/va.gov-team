@@ -30,7 +30,7 @@ Updates to the "schedule and manage your appointments" links and our cerner aler
 ## Key Dates
 
 - August 2023: Development (phase 1B)
-- ...
+- September 2023: Released link and cerner updates
    
 ## Screenshots
 

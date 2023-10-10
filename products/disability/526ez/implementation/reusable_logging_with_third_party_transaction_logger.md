@@ -7,10 +7,7 @@ This module can be used to wrap one or more (class or instance) methods in loggi
 ## Why do I need it?
 If you have an action that delegates to a third party API, you can / should use this module to wrap that method in applicable logging.
 
-This was created to allow us to log information around third party API interactions
-    - in a way that is reusable
-    - in a way the prevents coupling and context sharing (now usable in both!).
-    - In a way the defines a default set of log data that is considered valuable
+This was created to allow us to log information around third party API interactions, in a way that is reusable, prevents coupling and context sharing and the defines a default set of log data that is considered valuable
 
 ### Further Context:
 - [Epic](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/60952)
@@ -40,18 +37,18 @@ Ideally you should wrap as little code as possible.  That means you may want to 
 <img width="586" alt="Screen Shot 2023-07-17 at 3 03 13 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/409f7608-1d94-44e4-a9eb-231bfdec1590">
 
 2.A the `wrap_with_logging` method will log the following default parameters:
-  a. Puma process id
-  b. a generic description of the action being taken
-  c. The class and method being wrapped
-  d. start time, stop time, duration.
-  e. the arguments passed to the method converted to a string.  NOTE: this is very unrefind and may result in clunky values suche as `<SomeClass instance #123123sdfsdf>` or unlabled values like strings and numbers.  These are only valueble to a debugging dev who can look at the calling code and grok the context.
+- Puma process id
+- a generic description of the action being taken
+- The class and method being wrapped
+- start time, stop time, duration.
+- the arguments passed to the method converted to a string.  NOTE: this is very unrefind and may result in clunky values suche as `<SomeClass instance #123123sdfsdf>` or unlabled values like strings and numbers.  These are only valueble to a debugging dev who can look at the calling code and grok the context.
 
 ### Additional Parameters
 
 You can pass parameters to be evaluated at the class or instance level, E.G., the uuid of a current user. 
 
 #### Class level parameters
-Pass these arguments as a hash using the `additional_instance_logs` parameter.
+Pass these arguments as a hash using the `additional_class_logs` parameter.
 
 NOTE: these are very dumb logs and cannot evaluate methods.  For values returned from attributes, associations, or even external objects, use instance level parameters (below)
 
@@ -112,20 +109,6 @@ An additional module called `Logging::ThirdPartyTransaction::ScopedInstanceMetho
 
 Here is an example of the logs you might see:
 <img width="1427" alt="Screen Shot 2023-07-17 at 3 07 27 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/bf5b453d-897c-4d8f-954c-612504bc9bda">
-
-## Class level logs
-These are simple values abailable at the time of class definition (not obect instantion), e.g. constants, application context.
-
-## Instance Level logs
-These logs accept a method chain in the form of an array.  When the logging methods are run, these method chains will be called from left to right, each on the result of the former, like this
-```
-method_chain = [:do, :this, :thing]
-# will be called as
-self.do.this.thing
-# from inside the logging methods : )
-```
-
-This is accomplished using `inject`, `send`,  and `respond_to?`.  `inject` returns the value of the loops previous itteration to the next itteration.  
 
 ### Note on Quiet Failures and Private Methods
 We need to allow for quite failures / `nil` returns if a method chain doesn't evaluate.  This could happen due to context, such as inheritence, a change in a data relation, or simple developer error.  The standard way of doing this sort of quiet attempt would be to leverage Rails' `try(:method_name)` syntax, however `.try` does not work on private methods.  In a previous example we mentioned pulling a `uuid` from `current_user`.  `current_user` is actually a private method, so we want to use `send` to access it's value. In order to avoid no method errors we can use `respond_to?(<method>, true)` where true denotes a check against both the public and private scope of logged object context.  

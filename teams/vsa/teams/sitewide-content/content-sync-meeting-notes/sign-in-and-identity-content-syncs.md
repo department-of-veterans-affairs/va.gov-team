@@ -1,5 +1,13 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**September 28, 2023**
+-
+Attendees: meeting cancelled due to a few LGA and CORE team OOO/conflicts
+
+**Notes**
+- Aliyah and Laura used the meeting time to chat about the Verifying your identity on VA.gov page. Changes under one question will also apply to the Creating an account page. Aliyah will add the changes on the Creating an account page to the end of the Sharepoint document.
+
+
 **September 14, 2023**
 -
 Attendees: Aliyah, Joe, Carl, Laura, Nathalie, and Ngozi

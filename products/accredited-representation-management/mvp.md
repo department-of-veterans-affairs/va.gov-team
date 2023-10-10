@@ -18,9 +18,12 @@ The MVP will include desktop & mobile experiences
             1. Veteran Service Organization (VSO)
             1. Attorney (Lawyer)
             1. Claims agent
+        1. Search by name
+            1. Organization name 
+            2. Representative first name
+            3. Representative last name
         1. Rep definitions
             1. Veteran Service Organization (VSO)
-            1. Representative in a Veteran Service Organization
             1. Attorney (Lawyer)
             1. Claims agent
 1. Display search results
@@ -70,10 +73,12 @@ The MVP will include desktop & mobile experiences
     1. Organization
     2. Remote support
     3. Representative in a Veteran Service Organization
+    4. Expose relationships between VSOs and VSO Representatives (e.g. VSO American Legion 123 has 4 reps)
 1. Submission of 21-22/21-22a
     1. Requires signatures
     2. Investigate/address signature errors
     3. Determine if we can support digital submission for attorneys and claim agents who often require fee agreements before accepting
+    4. Identify how the insurance field impacts Power of Attorney 
 1. Notifications
     1. Representative approved request
     1. Representative rejected request

@@ -1,6 +1,6 @@
 # Authenticated Menu - Add Dependents and Letters 
 
-**Updated:** 8/28/2023
+**Updated:** 10/3/2023 modified the tentiative launch dates
 
 ## Table of Contents
 
@@ -57,24 +57,9 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ## Go Live
 
 ### Planning 
-|Launch % |Time Frame |Desired Date | _Actual Date_ | 
-|-------|:-:|-----------|-----------|
-| Launch to 50% | 2 days | 09/18/2023 |  |
-| Launch to 100% | n/a | 09/20/2023 |  |
-
-
-
-### Launch to 50%
-#### Results
-
-|Question|Response|
-|---|---|
-|Number of unique users:| |
-|Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter#measuring-success)|
-|Was any downstream service affected by the change?:|  |
-|Types of errors logged:| |
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?|  |
-
+|Launch % |Desired Date | _Actual Date_ | 
+|-------|-----------|-----------|
+| Launch to 100% | 9/18/2023 | 10/4/2023 |
 
 
 ### 1-week results at 100%

@@ -9,28 +9,80 @@ Document the current state of our 526 monitoring.
 - [Ticket to investigate](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/61907)
 - [Research and Proposal document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/KPI_alerting_with_datadog.md)
 
-## KPIs, associated Monitors, and playbooks
+If you've arrived at this document via an alert in Slack or Issue in datadog, you are probably looking for a Playbook. Below each monitor / Alert below find the applicable playbook
 
-NOTE: these KPIs (key points of interest) represent a mix of litteral service objects and more subjective places / actions that have been deemed monitoring-worthy.  All Items are listed in the following format:
+## Monitors, Alerts, & Playbooks
+### Types
+**Percentage**
+These monitors will track the percentage of successful API interactions with one of our 3rd party services.  They use the formula
+(Number of API calls marked SUCCESS + 1 / Number of API calls marked TRY + 1) *100, or litterally `((a + 1) / (b + 1) * 100)`.  The `+1`s avoid for division errors caused by zero traffic, as 0 / 0 (which is not a number) will register as some sort of panic state in datadog.  The `*100`) is to allow us to use the logical `100` percent, rather than `1`
 
-- KPI
-  - Description:
-  - Monitors:
-    - Relevant Monitor or Dashboard
-      - Playbook for alerts (if applicable
-    - relevant Monitor or Dashboard
+**Throughput**
+[TODO]
+
+**Latency**
+[TODO]
+
+**Traffic**
+Measures the traffic to an endpoint or service, indicating that if it's atypically low, we might have a problem. or if it's atypcially high, we may be in danger of an outage.
+
+**Number of exceptions**
+[TODO]
+
+**One off**
+A monitor where any single event is considered alertable, e.g. a catastrophic failure to submit through any service or retry.
+
+**Catastrophic**
+If you see this, the application is blowing up
+
+### Playbooks
+- [Benefits - IntentToFilesController rate limit Error](https://vagov.ddog-gov.com/monitors/153112)
+  - type: **catastrophic**
+  - If this happens, we have hit a rate limit in Lighthouse.  This means all requests to this endpoint will fail for X amount of time
+  - TODO: playbook for this is needed
+- [Form 526 Backup Submission Error. Investigate](https://vagov.ddog-gov.com/monitors/110156)
+   - type: One off
+   - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/form-526-backup-submission-error.md)
+- [526 Completion rate is low](https://vagov.ddog-gov.com/monitors/157864)
+   - type: Number of completions
+   - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/526-Completion-rate-is-low.md)
+- [526 Backup Submission Errors are high](https://vagov.ddog-gov.com/monitors/158397)
+   - type: Number of exceptions
+   - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/526-Backup-Submission-Errors-are-high.md)
+- [526 Backup Submission Errors occurred today](https://vagov.ddog-gov.com/monitors/158396)
+   - Number: of exceptions
+   - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/526-Backup-Submission-Errors-occurred-today.md)
+- [526 final form submission success rate](https://vagov.ddog-gov.com/monitors/160278)
+   - type: percentage
+   - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/526-final-form-submission-success-rate.md)
+- [526 Submit Form 0781 success percentage](https://vagov.ddog-gov.com/monitors/160282)
+   - type: percentage
+   - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/526-Submit-Form-0781-success-percentage.md)
+- [526 Submit Form 4142 success percentage](https://vagov.ddog-gov.com/monitors/160281)
+   - type: percentage
+   - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/526-Submit-Form-4142-success-percentage.md)
+- [526 Submit Uploads success percentage](https://vagov.ddog-gov.com/monitors/160279)
+   - type: percentage
+   - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/526-Submit-Uploads-success-percentage.md)
+- [EVSS General Latency](https://vagov.ddog-gov.com/monitors/161160)
+   - type: latency
+   - [Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/EVSS-general-latency-watch.md)
+- [LH IntentToFile traffic is low](https://vagov.ddog-gov.com/monitors/157810)
+  - type: traffic
+- [EVSS ITF traffic is low](https://vagov.ddog-gov.com/monitors/157809)
+  - type: traffic
+- [526 Catastrophic submission failure - backup worker exhausted](https://vagov.ddog-gov.com/monitors/164793)
+  - type: One off.  Any instance of this alert requires
+     - Capturing context from the applicable logs 
+     - Logging the failed Submission Information (TODO: link spreadsheet)
+     - Kick off "Emergency Failsafe Process" (TODO: link to this document)
+  - Playbook (TODO - this will overlap with the "Emergency Failsafe Process" which is WIP)
  
-etc.
+### TODO:  
+- Add links to "Emergency Failsafe Process"
+- [Add an alert for any instance of a 429 (rate limit reached) from LH per Marks suggestion](https://dsva.slack.com/archives/C05URMLM09Z/p1696264159183519?thread_ts=1696264035.396779&cid=C05URMLM09Z)
+- Document endpoints we are not capturing
 
-
-- EVSS::DisabilityCompensationForm::SubmitForm526AllClaim
-- EVSS::DisabilityCompensationForm::SubmitUploads
-- EVSS::DisabilityCompensationForm::UploadBddInstructions
-- CentralMail::SubmitForm4142Job
-- EVSS::DisabilityCompensationForm::SubmitForm0781
-- EVSS::DisabilityCompensationForm::SubmitForm8940
-- EVSS::DisabilityCompensationForm::SubmitForm526Cleanup
-- Sidekiq::Form526BackupSubmissionProcess::Submit
 
 ## Dashboards
 - [Form 526 Disability Compensation](https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/form-526-disability-compensation?refresh_mode=sliding&from_ts=1695135168409&to_ts=1695307968409&live=true)
@@ -43,23 +95,4 @@ etc.
 - [Benefits - 526 Backup Submission](https://vagov.ddog-gov.com/dashboard/u9b-62v-t48/benefits---526-backup-submissions?refresh_mode=sliding&from_ts=1695305477278&to_ts=1695309077278&live=true)
   - Tracks enqueuing and dequeuing of backup submission jobs.
     - No explicit information about success or failure
-     
-## Monitors & Alerts
-- [Form 526 Backup Submission Error. Investigate](https://vagov.ddog-gov.com/monitors/110156)
-  - Watches for a non-zero number of 526 Backup Submission Errors (via logs)
-    - ALERTS: kyle.soskin@adhocteam.us, sam.stuckey@oddball.io, Slack benefits-ce-dd-notifications
-- [Document Service API slowdown or outage](https://vagov.ddog-gov.com/monitors/159640)
-  - Watches for non-completion of requests to our third party Document Service (EVSS)
-    - ALERTS: Slack benefits-ce-dd-notifications
-- [526 Completion rate is low](https://vagov.ddog-gov.com/monitors/157864)
-  - Tracks count of 'cleanup' events executed by the 526 flow (`EVSS::DisabilityCompensationForm::SubmitForm526Cleanup`) per hour.  Alert triggers at less than 2.
-    - ALERTS: Slack benefits-ce-dd-notifications
-- [526 Backup Submission Errors are high](https://vagov.ddog-gov.com/monitors/158397)
-  - Tracks count of 526 Backup Submissions (`Sidekiq::Form526BackupSubmissionProcess::Submit`) with a status of `error` per hour.  Alert triggers at 30 or more.
-    - ALERTS: Slack benefits-ce-dd-notifications
-- [526 Backup Submission Errors occurred today](https://vagov.ddog-gov.com/monitors/158396)
-  - Tracks count of 526 Backup Submissions (`Sidekiq::Form526BackupSubmissionProcess::Submit`) with a status of `error` per day.  Alert triggers at 100 or more.
-    - ALERTS: Slack benefits-ce-dd-notifications
-   
-## WIP additions
-We are in the process of fortifying our monitors with alerts specific to every 3rd party API interaction.  "Document Service API slowdown or outage" listed above was the first of these new monitor / alerts to be added.  [Upcomming additions are documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/KPI_alerting_with_datadog.md)
+

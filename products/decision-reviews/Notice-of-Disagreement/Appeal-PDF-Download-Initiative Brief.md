@@ -39,8 +39,9 @@
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-- CTA button click for NEW download event | N/A | TBD | Link to Data Source
-- CTA button click for CURRENT print confirmation page event | Baseline: 89 clicks out of 564 submissions
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- CTA button click for NEW download event | Baseline: N/A | Target: TBD | Link to Data Source: TBD
+- CTA button click for CURRENT print confirmation page event | Baseline: 89 clicks out of 564 submissions| Link to Data Source: TBD
 ---
 
 ## Discovery
@@ -96,7 +97,9 @@
    
 ## Screenshots
 
-### Before
+### Confirmation page
+
+#### Before
 <details><summary>Notice of Disagreement Current Confirmation</summary>
   
 ![staging va gov_decision-reviews_board-appeal_request-board-appeal-form-10182_resume](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/5eed0b84-4b45-4f15-a817-5a48cd576a20)
@@ -115,25 +118,33 @@
 
 </details>
 
-### After
+#### After
 <details><summary>Notice of Disagreement New Confirmation</summary>
   
-![PDF Download](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/24630a0a-17c3-4173-a3e2-e2628d3eb5c8)
+![PDF Download](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/3deb0f69-b70a-409e-8260-9817160e0577)
 
 </details>
 
-<details><summary>Supplemental Claims New Confirmation</summary>
+### Email
+
+#### Before
+
+<details><summary>Notice of Disagreement Current Confirmation Email</summary>
   
-![Confirmation - PDF Downlaod Copy](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/af304309-e547-49a0-bf3f-476e273176bc)
+![Current Notice of Disagreement Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/98904102-ff4c-4d25-850f-b8170451db92)
 
 </details>
 
-<details><summary>Higher-Level Review New Confirmation</summary>
+#### After
+
+<details><summary>Notice of Disagreement New Confirmation Email</summary>
   
-![PDF Download](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/ebc11110-b2aa-4e07-82de-a6d5219fd9e8)
+![New Notice of Disagreement Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/75d2960c-120a-4192-84bd-52824ed92dfe)
 
 </details>
+
 ---
+
 
 #### Communications
 *Where will you discuss this initiative?*

@@ -1,15 +1,15 @@
 # Claims Status Tool - Elevating Claims Status - Product Brief
-
 We have the opportunity to examine the current state of the Veteran’s experience when viewing   their individual claims status on the VA mobile application with the goal of reimaging a future state that helps to alleviate both user frustration and Veterans uninstalling the application.
 
+
 ## Problem Statement
-The claims status tool in the VA mobile app was designed with the intent to help Veterans who have filed claims and/or appeals to track that claim’s progress and inform them when VA needs something in order to keep things moving along.
+**The VA Health & Benefits app claims feature is not meeting its intended primary purposes** of helping Veterans easily and quickly 1) track progress of claims and appeals and 2) know when they need to take action in order to keep things moving along. As a result, Veterans using the claims status tool may experience dissatisfaction with the app and with VA.
 
-In its current form, the VA mobile app claims tool places the burden of staying informed on Veterans, requiring them to organically tap down into each claim detail to understand what step the claim is in, whether the step has changed, and whether something is needed from them to keep things moving in the right direction. 
+## Evidence of the Problem
+Current app design places the burden of staying informed about claims on Veterans. A Veteran must navigate unprompted into each claim’s detail in order to know a given claim’s status, if the status has changed since they last looked, or if there is an action they need to take. This results in lost time & unnecessary effort that product changes could alleviate.
 
-We have observed that some Veterans report spending time returning to their claim frequently (On average, Veterans view the same claim in the same stage over 6 times), resulting in lost time & requiring unnecessary effort. Other Veterans who do not do this repeated checking (and even those who do) often miss updates to their claim status in the app. Preliminary analysis shows that Veterans miss viewing a step in the app on 16% of claims.
+Some Veterans report spending significant time returning to their claim frequently to stay up-to-date with any changes. According to app analytics, Veterans view the same claim in the same stage over 6 times on average. Even when Veterans do this repeated checking, they may miss important updates to their claim status in the app. Preliminary analysis shows that Veterans miss viewing a step change in the app on 84% of claims. On average, Veterans do not view a claim in the app until 4 days after a change in step occurred and 10% of claims are not viewed until 11 days after the change.
 
-As a result, Veterans using the claims status tool may experience dissatisfaction with the VA mobile app and with VA, and potentially seek other tools or methods to keep up with their claim. 
 
 ### Desired Outcome - Hypothesis
 We believe that surfacing information about claims status beyond the claims detail screen will reduce the burden placed on Veterans to stay informed in regards to their claim and will improve user satisfaction and right-sized engagement with the VA mobile app.
@@ -118,15 +118,17 @@ The claims feature in the VA Mobile app is intended to give Veterans the ability
 New Events/Actions: TBD
 
 ### Pain Points
-See the [Review of User Research: VA Mobile App Claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/claims/research%20review%20-%20claims%20status%20tool.md) for details on the specific studies supporting each bullet point.
+- **Veterans don’t necessarily know in a timely manner when something has changed or is needed with their claim or appeal.** <sub>1</sub>
+  - Veterans don’t have a way in the app to **quickly see** whether a claim has **changed status** (without tapping down into the Claim details each time). <sub>1</sub>
+  - Because there are long gaps between signals from VA about the progress of the claim, **some Veterans check in frequently** to ensure things are moving along. <sub>1</sub>
 
-- **Veterans don’t necessarily know in a timely manner when something has changed or is needed with their claim or appeal.**
-  - Veterans don’t have a way in the app to **quickly see** whether a claim has **changed status** (without tapping down into the Claim details each time).
-  - Because there are long gaps between signals from VA about the progress of the claim, **some Veterans check in frequently** to ensure things are moving along.
+* **Veterans are not sure if a claim is truly being worked on.** <sub>1</sub>
+  - Some Veterans have anxiety about the claims process and **check their claim in the app multiple times a day to see if their claim status has changed.** <sub>1</sub>
+  - Veterans **check the status of their claims frequently** and through multiple channels in the hope that they can find better or **more up-to-date information.** <sub>1</sub>
+* ** Veterans are not always **able to tell what a claim is about** based on the information displayed at list level. <sub>2</sub>
 
-* **Veterans are not sure if a claim is truly being worked on.**
-  - Some Veterans have anxiety about the claims process and **check their claim in the app multiple times a day to see if their claim status has changed.**
-  - Veterans **check the status of their claims frequently** and through multiple channels in the hope that they can find better or **more up-to-date information.**
+1. See [Review of User Research: VA Mobile App Claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/claims/research%20review%20-%20claims%20status%20tool.md) for details on the specific studies supporting each bullet point.
+2. [2022-07 VA Health and Benefits mobile app: current experience discovery research part II](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/161)
 
 ## Assumptions and Level of Confidence
 - That we will be able to surface information about claims status earlier/in a different place than the claims detail screen.
@@ -167,13 +169,16 @@ May apply to the scope of this project:
 - **Q4:** Push Notification Strategy (Timing TBD)
 
 ## Measuring success<sub>1</sub> 
-**Right-sizing interaction with Claims** reflects that two opposing types of engagement are currently appearing in app analytics: 1) Some Veterans repeatedly check the same claim when it is in the same step, and 2) Some Veterans don’t see a claim when it has moved into a new step or do not view it until several days after the step change occurred. How these two areas can be measured is elaborated on in the sections below. **User satisfaction** with their ability to keep up with claim progress will be assessed via app store reviews and potential future qualitative research or in-app surveying.
+**Right-sizing interaction** with Claims reflects that two opposing types of engagement patterns are currently appearing in app analytics: 
 
-<sub>1 New analytics went into production on August 1, 2023, that enable more detailed measuring of interaction with the Claims feature. All baseline measures listed here are from August 1 to September 22, 2023. Final baselines for comparison post-implementation of any product changes will be updated at that point.</sub>
+1. **Repeated checking:** Some Veterans repeatedly check the same claim when it is in the same step. 
 
-#### Engagement pattern 1: Some Veterans repeatedly check the same claim when it is in the same step.
+2. **Missed or delayed updates**: Some Veterans don’t see a claim when it has moved into a new step or do not view it until several days after the step change occurred.
 
-When a claim is in progress (Steps 1-4), app users view the same claim in the same step at varying rates depending on what specific step it is in as displayed in the table below. This is a proxy for the level of manual, active effort Veterans must exert to know when the status of their claim has changed via the app. While the median values range from 3-4, the average and distribution 
+How these two areas can be measured is elaborated on in the sections below.  User satisfaction with their ability to keep up with claim progress will be assessed via app store reviews and potential future qualitative research or in-app surveying.
+Engagement pattern 1: Repeated checking
+A repeat check is defined as a claim being viewed multiple times when no change in step has occurred. Repeat check rates vary depending on what specific step it is in as displayed in the table below. The final measure of success and comparison metric will account for step-specific variations and user tenure with the app.
+
 
 <table>
   <tr>

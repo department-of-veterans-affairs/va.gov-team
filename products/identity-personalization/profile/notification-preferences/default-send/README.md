@@ -124,6 +124,8 @@ In order to be able to add email as a channel, we need to do two things: add the
 - February 2023: Complete discovery; Scope work over the next few months.
 - Spring 2023: Begin/complete build
 - August 2023: QA
+- October 2023: Staging Review
+- October 2023: UAT
 
 ## Backend
 
