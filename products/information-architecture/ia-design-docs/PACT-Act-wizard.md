@@ -19,13 +19,9 @@ High level user flow can be found at this [mural](https://app.mural.co/t/departm
 
 ## <a name="map"></a>Page structure<br>
 The new wizard will live under ROOT, but the primary way of accessing the tool is from the [R+S PACT Act page](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) and other crosslinking opportunities.
+
 ![pact-act-eligibility will live under ROOT](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/193320d4-84e8-4f6e-ab7d-3a710c84e31a)
 
-Related examples of benefit-agnostic tools:
-https://www.va.gov/discharge-upgrade-instructions/ 
-- In root because impacts of this change apply to basically all benefits
-https://www.va.gov/health-care/income-limits/introduction
-- Not in root because applies only to healthcare
 
 ## <a name="url"></a>URLs and breadcrumbs
 
