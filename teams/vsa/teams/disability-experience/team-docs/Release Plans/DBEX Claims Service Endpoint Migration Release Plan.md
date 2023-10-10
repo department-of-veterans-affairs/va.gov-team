@@ -25,6 +25,7 @@ The lack of a viable end-to-end testing environment introduces several risks, no
 Lighthouse has been made aware of these risks. Our focus for this test plan will be to raise our baseline confidence as much as we can with thorough testing and mock data in the preparation phase, followed by close monitoring and prompt incident responses during the rollout phase.
 
 ## Overview Checklist
+- Notes
 - [ ] Phase I: Internal Testing and Review
     - [ ] Internal Testing and Review
     - [ ] Pre-release Testing
@@ -39,6 +40,16 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [ ] Stage F: Go live!
 - [ ] Post-launch questions
 
+## Notes
+- There is no discrete controller for this migration; it happens within the submit job
+    - This means that monitoring will be done entirely through sidekiq jobs and logs
+    - We can differentiate traffic to EVSS/LH through Factory-level logs
+- `app/models/concerns/form526_claim_fast_tracking_concern.rb` > flag is in `open_claims`
+    - Makes a call to `BenefitsClaims::Service` `get_claims`
+    - Claims controller exists: `modules/claims_api/app/controllers/claims_api/v2/veterans/claims_controller.rb`
+    - Supposedly EVSS as well? `app/controllers/v0/evss_claims_controller.rb`
+
+<br>
 
 ## Phase I: Internal Testing and Review
 
