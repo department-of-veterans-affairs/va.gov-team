@@ -52,6 +52,8 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
     - [ ] Accessibility Ticket
     - [ ] IA Ticket
     - [ ] Content Ticket
+- [ ] **Connectivity to this CAIA ticket:** [Epic] CAIA support for Medallia modal [#58507](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58507)
+
 
 ## Assets
 - [Product outline](https://app.zenhub.com/workspaces/contact-center-62cdd9546ec1530018209672/issues/gh/department-of-veterans-affairs/va.gov-team/65148)
@@ -123,15 +125,14 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 ## Discussion Notes✍️
 
 ### Project
-* Tool is staged on the live site: Resource & Support page → sign in to va.gov
-* Call center gets a lot of questions about where/how to log in
-* Laura: other Medallia form has open text box and had to put a note not to include PII, so we’ll need to think about that for this too.
+- Tool is staged on the live site: Resource & Support page → sign in to va.gov
+- Call center gets a lot of questions about where/how to log in
+- Laura: other Medallia form has open text box and had to put a note not to include PII, so we’ll need to think about that for this too.
 
 #### Problems
-* **Medallia constraints (Camille):** They have 508 capability but not a11y approved for va.gov (version 2 might have legends and fieldsets).
-* **Engineer on their team asked about unordered list requirements**, since fieldsets and legends aren’t available.
-* **Big concern:** ensure it aligns with prototype. Had trouble with prototype in sketch (using accordion) so moving it to Figma. Walked through it with Naomi and it felt clunky.
-
+- **Medallia constraints (Camille):** They have 508 capability but not a11y approved for va.gov (version 2 might have legends and fieldsets).
+- **Engineer on their team asked about unordered list requirements**, since fieldsets and legends aren’t available.
+- **Big concern:** ensure it aligns with prototype. Had trouble with prototype in sketch (using accordion) so moving it to Figma. Walked through it with Naomi and it felt clunky.
 
 #### CAIA
 - **Content**
