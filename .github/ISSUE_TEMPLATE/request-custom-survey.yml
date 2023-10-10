@@ -25,7 +25,6 @@ body:
     attributes:
       label: Product Name(s)
       description: Please provide the name(s) of your product(s).
-      placeholder: Facilities Locator
     validations:
       required: true
   - type: textarea
