@@ -1,18 +1,21 @@
 # 45-MINUTE ONLINE CHECK-IN TEXT 
 
-## PURPOSE
+- [Description](#description)
+- [New Workflow](#new-workflow)
+- [Changes to On-line Check-in](#changes-to-on-line-check-in)
+- [Changes to Pre-Check-in](#changes-to-pre-check-in)
 
-Proactively send Veterans a text message with their customized check-in link 45-minutes before their health care appointment time. Veterans can now complete online check-in without having to text "check in" to 53079 to receive their check-in link.
+## Description
 
-## DESCRIPTION
+Proactively send Veterans, 45-minutes before their health care appointment time, a text message that contains their customized check-in link. Veterans will now be able to complete online check-in without having to text "check in" to 53079 to receive the check-in link.
 
-### NEW WORKFLOW
+## New Workflow
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/4946ec47-0702-4ad5-8c67-23b28dc235b4)
 
-### CHANGES TO ONLINE CHECK-IN
+## Changes to On-line Check-in
 
-- Veterans will receive a new text message 45-minutes before their health appointment that contains their customized link to complete the check-in process.
+- Veterans will receive the new text message 45-minutes before their health appointment. The text message will contain their customized link to complete the check-in process.
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/151c84d7-6845-4e0c-ac3a-f16024024d11)
 
@@ -21,11 +24,12 @@ Proactively send Veterans a text message with their customized check-in link 45-
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/25f99f90-40c4-436a-a789-1c9466d2cad2)
 
 - NOTES:
+    - Veterans who use the link from their 45-minute text will be marked as having started online check-in when they verify their identity (Veterans who text "check in" to 53079 will be marked when they send the text)
     - Veterans who do NOT have text notifications enabled will NOT receive the new text message
     - Veterans who have a health appointment at a facility where online check-in is NOT enabled will NOT receive the next text message
     - Veterans who have already checked in for their health appointment with staff will NOT receive the new text message 
 
-### CHANGES TO PRE-CHECK-IN
+## Changes to Pre-Check-in
 
 - When Veterans complete the pre-check-in workflow, they will see a message on the confirmation page that tells them that they will be receiving a text 45-minutes before their health appointment that will provide them with their check-in link.
 
