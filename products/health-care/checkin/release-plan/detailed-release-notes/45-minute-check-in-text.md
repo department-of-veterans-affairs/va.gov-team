@@ -6,9 +6,9 @@ Proactively send Veterans a text message with their customized check-in link 45-
 
 ## DESCRIPTION
 
-[Wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0D0F05D2-2122-4599-9378-E03EEE32DB88/canvas)
+### NEW WORKFLOW
 
-[New Workflow](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0F9F62F0-68A0-4C8B-9105-A92D0A6448DB/canvas)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/4946ec47-0702-4ad5-8c67-23b28dc235b4)
 
 ### CHANGES TO ONLINE CHECK-IN
 
