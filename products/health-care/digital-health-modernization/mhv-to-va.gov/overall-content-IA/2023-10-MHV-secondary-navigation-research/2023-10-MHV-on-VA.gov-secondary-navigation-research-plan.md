@@ -2,9 +2,9 @@
 
 ## Background
 
-This study is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information.  This study aims to support this effort by investigating the different wayfinding strategies users use when completing key health management tasks on MHV on VA.gov.  It is part of a broader research effort to align Information Architecture for the MHV to VA.gov integration.  More on this [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/1d786b3abb178f9ae326c821596729b896a65090/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA).
+This study is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information.  As we move My HealtheVet (MHV) to VA.gov, we discover that there are problems with the current VA.gov secondary navigation system. It is not only inaccessible and unintuitive, but also doesn't support complex navigations within all the tools of the MHV. This study aims to support this effort by investigating the secondary navigational strategies users use when completing health management tasks on MHV on VA.gov.  
 
-You can read more about the Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
+
 
 ### OCTO Objectives
 This research supports the following OCTO objectives: 
