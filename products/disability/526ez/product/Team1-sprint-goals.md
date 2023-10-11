@@ -4,19 +4,21 @@
 Period - 10/11/2023 - 10/24/2023
 ### Sprint goals 
 - **Expedited**
+   - Handover from Kyle
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - Rated Disabilities
             - [ ] Continue staggered release - timeboxed tickets to monitor the release and fix issues as they occur
         - Submit
           - [ ] Identify and resurface outstanding migration issues
+          - Benefits Claims Service
+            - [ ] Canary launch?
+            - [ ] Start staggered release at .1%
+          - PPIU 
+            - [ ] Release Plan
           - [ ] Tech Discovery - Military Service Address
           - Dashboard for migration release monitoring
               - [ ] Build DD Dashboard widgets for monitoring controller activities
-        - Benefits Claims Service
-            - [ ] Canary launch?
-            - [ ] Start staggered release at .1%
-
 - **Features**
    - 526ez changes to Intro pages
       - [ ] Intro pages - review flow changes - Design
