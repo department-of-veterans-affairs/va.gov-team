@@ -278,10 +278,10 @@ Disability and Assistive Technology (AT):
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-- Identify as Black, Asian, Native, or Transgender
+- Identify as Biracial, Asian, Native, or LGBTQ+
 - Other than honorable discharge
 - Immigrant origin
 - Expat (living abroad)
 - Users of Assistive Technology 
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/VA-recruitment-checker.png)
+![VA-recruitment-checker](./images/va-recruitment-checker.png)
