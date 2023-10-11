@@ -1,6 +1,18 @@
 # Design Weekly Sync Agenda
 
 
+
+## 2023-10-11
+
+Attendees: Jessica, Katelyn, Hieu, Kristen
+
+
+- Reviewed Registration Flow Exploration and Matrix comparrison work and discussed the pros/cons/differences between each of these
+- Also talked about variations of the flows and what would make sense MVP term and ideal state, what mvp could build up/set the foundation for the ideal state
+- Decided on a flow variation where on the intro page there is a Veteran and non-Veteran split/ action links 
+- Next steps to create wireflow of mvp direction and share back with team
+
+
 ## 2023-10-02
 
 Attendees: DK, Katelyn, Jessica, Kristen
