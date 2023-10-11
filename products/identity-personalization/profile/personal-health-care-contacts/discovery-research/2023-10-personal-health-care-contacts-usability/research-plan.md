@@ -124,35 +124,31 @@ Some participants:
   
 ### Screener questions
 
-1. We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identity-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
-> _Response options: yes or no (Answering `yes` would qualify the participant.)_
-
-
-2. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
 > _Response option: text box (we need a minimum of 4 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
-3. Are you able to join the session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
-> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for smart phone users. If yes, proceed to 3a.)_
+2. Are you able to join the session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
+> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for smart phone users. If yes, proceed to 2a.)_
 
-3a. Have you downloaded the Zoom app to your smartphone, know how to screen share, and have a working microphone on your phone?
-> _Response options: yes or no (Answering `yes` would qualify the participant. If no, proceed to 3b)_
+2a. Have you downloaded the Zoom app to your smartphone, know how to screen share, and have a working microphone on your phone?
+> _Response options: yes or no (Answering `yes` would qualify the participant. If no, proceed to 2b)_
 
-3b. You’ll need to download Zoom, use a working microphone and be ready to screenshare to participate in this session. Please let us know if you need help doing these things prior to your scheduled start time.
+2b. You’ll need to download Zoom, use a working microphone and be ready to screenshare to participate in this session. Please let us know if you need help doing these things prior to your scheduled start time.
 
 
-4. What device will you use to join the session?
+3. What device will you use to join the session?
 > _Response option: text box_
 
-5. Do you need to use screen reader technology to use the internet, such as JAWS on a computer?
-> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for screen reader users. If yes, proceed to 5a)_
+4. Do you need to use screen reader technology to use the internet, such as JAWS on a computer?
+> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for screen reader users. If yes, proceed to 4a)_
 
-5a. Are you able to join the Zoom session using this assistive technology?
-> _Response options: yes or no (Recruit 4 "yes", go onto Screener question 5b. If no, disqualify as screenreader participant; can be recruited based on other criteria)_
+4a. Are you able to join the Zoom session using this assistive technology?
+> _Response options: yes or no (Recruit 4 "yes", go onto Screener question 4b. If no, disqualify as screenreader participant; can be recruited based on other criteria)_
 
-5b. Please list the name of the assistive technology or software you will use during the session.
+4b. Please list the name of the assistive technology or software you will use during the session.
 > _Response option: text box_
    
-6. Which benefits or services do you currently receive through VA?
+5. Which benefits or services do you currently receive through VA?
 > Response options should be a checklist with the options below.
 > - Health care benefits
 > - Education services, such as GI Bill benefits or VR&E benefits
@@ -167,7 +163,7 @@ Some participants:
 > Answering **only** "I do not know" or "I don't receive any benefits or services through VA" disqualifies participants.
 > Please recruit 8 who include "health care benefits" in their response, and 4 that select any combination of options that **does not** include "health care benefits".
 
-7. Do you have a disability rating?
+6. Do you have a disability rating?
  >_(Answering `yes` would qualify the participant to satisfy criteria for 4 participants who do not have health care, but have a disability rating. If no, disqualify)_
 
 ## Timeline
