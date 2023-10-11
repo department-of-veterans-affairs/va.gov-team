@@ -16,7 +16,7 @@ We need to meet with business lines to determine which fields are required in or
 |Burials and memorials|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Burials%20and%20memorials)|
 |Center for Minority Veterans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Center%20for%20Minority%20Veterans)|
 |Debt for benefit overpayments and copay bills|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Debt%20for%20benefit%20overpayments%20and%20copay%20bills)|
-|Decision reviews and appeals|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Board%20Appeals)|
+|Decision reviews and appeals|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Decision%20reviews%20and%20appeals)|
 |DEERS (Defense Enrollment Eligibility Reporting System)|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/DEERS)|
 |Disability compensation|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Compensation)|
 |Education benefits and work study|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Education)|
