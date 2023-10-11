@@ -83,7 +83,7 @@ Tools for Veterans to schedule or request appointments.
 | CC request | Choose a provider |
 | CC request | Choose a preferred language |
 | CC request | Reason for appointment |
-| CC request | Confirm contact information |
+| CC request | [Confirm contact information](./schedule-flow/confirm-contact-information-CC.md) |
 | CC request | Review and submit |
 
 
