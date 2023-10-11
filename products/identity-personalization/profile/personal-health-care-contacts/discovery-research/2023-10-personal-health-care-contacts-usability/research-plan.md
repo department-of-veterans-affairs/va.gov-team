@@ -76,8 +76,9 @@ _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK infor
 
 ## Method
 
-We will conduct remote usability and interview sessions with Zoom. The interviews will consist of a combination of tasks and direct questions. We will conduct a study on production behind a feature flag assuming API access, and have two backup plans:
-- We will conduct the study in the staging environment, with a test user created specifically for the purpose of this study.
+We will conduct remote usability and interview sessions with Zoom. The interviews will consist of a combination of tasks and direct questions. 
+
+We will conduct the study in the staging environment, with a test user created specifically for the purpose of this study.
 
 ### Location
 Data collection will be remote and conducted using Zoom. 
