@@ -1,4 +1,4 @@
-# Review and ubmit - VA Direct Schedule Flow
+# Review and submit - VA Direct Schedule Flow
 
 ## Overview
 Veterans are asked to review the appointment details and submit. 
