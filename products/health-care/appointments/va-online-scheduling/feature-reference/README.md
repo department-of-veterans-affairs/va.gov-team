@@ -69,7 +69,7 @@ Tools for Veterans to schedule or request appointments.
 | VA direct-schedule | [Choose a location](./schedule-flow/va-direct--choose-location.md) | 
 | VA direct-schedule | [Cerner location redirect](./schedule-flow/Cerner-location-redirect.md) |
 | VA direct-schedule | [Choose a clinic](./schedule-flow/choose-a-VA-clinic.md) |
-| VA direct-schedule | Choose a preferred date |
+| VA direct-schedule | [Choose a preferred date](./schedule-flow/choose-a-preferred-date.md) |
 | VA direct-schedule | Reason for appointment |
 | VA direct-schedule | Confirm contact information |
 | VA direct-schedule | Review and submit |
