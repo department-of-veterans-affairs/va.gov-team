@@ -158,20 +158,19 @@ None at this time
 
 ## Tools used for Synthesis
 
-[Synthesis spreadsheet]()
+[Synthesis spreadsheet TBD]()
 
-[Mural board]()
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695248543925/d04d52d1f06a9edb2217447cc526a2b7cef4b613?sender=uff8fa85716c1796ccf022668)
 
 
 ## Pages and applications used
+[Wizard branching logic flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692989444688/0044b9825c82d8d23920601f68c41a61d047d681?sender=uff8fa85716c1796ccf022668)
 
-[Content document]()
-
-[Wizard interaction flow]()
+[Content document](https://dvagov-my.sharepoint.com/:w:/r/personal/danielle_thierry_va_gov/Documents/PACT%20Act%20wizard%20content%20for%20usability%20testing.docx?d=wfee483299a674f38ac4ec198c9cca463&csf=1&web=1&e=yCdUBN)
 
 [Link to Prototype](https://www.surveymonkey.com/r/KKVHSFV)
 
-### Screenshots of the prototype screens
+### Screenshots of the prototype screens--TBD
 <details>
   <summary>Landing page (Click to show screenshots)</summary>
 
@@ -209,69 +208,71 @@ None at this time
 
 **Recruitment criteria**
 
-In order to find research participants for whom the income limits app would be relevant, we talked only with Veterans who 
-- Do NOT have VA health care
-- Do NOT get VA disability compensation for a service-connected disability rating of 50% or higher
-- Do NOT get a pension from the VA
+In order to find research participants for whom the PACT Act Wizard would be relevant, we wanted to talk only with Veterans who had NOT applied for VA benefits under the PACT Act. 
 
-We talked to **8 participants.**
+We talked to **9 participants.**
 
 Audience segment:
-* Veterans: 8 
-* Caregivers: 0 
+* Veterans: 9 
 * Family members of a Veteran: 1 (also a Veteran)  
 
+Applied for VA benefits under the PACT Act?
+* No: 8
+* Yes: 1 (applied the week before the session)
+
+VA benefit usage:
+* Don't use VA health care: 1 
+* Don't have VA disability compensation: 3
+
+Service years:
+* Included 1989 or earlier: 4
+* Included 1990 or later:   2 
+* Included both *before and after* 1990: 3 
 
 Gender:
-* Male: 6 
-* Female: 1
-* Non-binary: 1 
+* Male: 7 
+* Female: 2
 
 
-LGBTQ+:
-* Transgender: 0 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
-* Gay, lesbian, or bisexual: 2
+LGBTQ+: 0
 
 
 Devices used during study: 
-* Desktop: 2 
-* Tablet: 0 
-* Smart phone: 6 
-* Assistive Technology: 0
+* Desktop: 8 
+* Smart phone: 1 
 
 
 Age:
-* 25-34: 1
-* 35-44: 2
-* 45-54: 1
-* 55-64: 2
-* 65+: 2
+* 25-34: 
+* 35-44: 1
+* 45-54: 2
+* 55-64: 3
+* 65+: 3
 
 
 Education:
-* High school degree or equivalent: 0
-* Some college (no degree): 2
-* Associate's degree, trade certificate or vocational training: 2
-* Bachelor's degree: 0
-* Master's degree: 4
-* Doctorate degree: 0
+* High school degree or equivalent: 0 
+* Some college (no degree): 0
+* Associate's degree, trade certificate or vocational training: 3
+* Bachelor's degree: 1
+* Master's degree: 5
+* Doctorate degree: 
 
 Geographic location:
-* Urban: 7
-* Rural: 1
+* Urban: 4
+* Rural: 5
 
 Race:
-* White: 8
-* Black: 0
+* White: 7
+* Black: 1
 * Hispanic: 1
-* Biracial: 1
+* Biracial: 0
 * Asian: 0
 * Native: 0
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: 4
+* Cognitive: 2
 * AT user: 0
 
 ## Underserved groups we haven’t talked to 
