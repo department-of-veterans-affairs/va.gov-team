@@ -13,8 +13,6 @@ Benefits issues outside the U.S., which includes:
 |:--|:--|
 |Tammy Hurley|Education|
 |Dawn Arnold|Education|
-|Jacqueline Mikoley|Education: Buffalo|
-|Lisa Eaton|Education: Muskogee|
 |Matthew Ziolkowski|Education|
 |Michael Napper|Education|
 |Eddie Keefe|Education|
@@ -22,6 +20,8 @@ Benefits issues outside the U.S., which includes:
 |Louiseza Sanderson|Education|
 |Terry Warren|Education|
 |John Welstead|Education|
+|Jacqueline Mikoley|Education: Buffalo|
+|Lisa Eaton|Education: Muskogee|
 |Kendra Stewart|Work Study|
 |Kevin White|Work Study|
 |Scott Hadley|NCC (National Call Center)|
