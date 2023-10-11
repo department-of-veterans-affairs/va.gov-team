@@ -179,11 +179,13 @@ Percentage of Users (and roughly how many users do you expect this to be): 1%
     - No traffic capture on the LH side
         - Checked with AE team if they experienced similar issues - v2 traffic was not monitored on their end, and v2 doesn't seem to register on ours; figure out what method was used
     - 10/10 - Secondary rollout from 0.1% to 1%
-        - 11am progressed both RD flags to 0.1%
-            - 11:42am noted a spike in 502 and 503 errors
+        - 11am - progressed both RD flags to 0.1%
+            - 11:42am - noted a spike in 502 and 503 errors
             - Rolled back to 0
             - Errors persisted until 12:08pm, total volume ~1400
             - 500* spike may be coincidental, will run again shortly to confirm
+            - 12:55pm - Foreground flag running at 0.1% with no errors
+            - 1:35 - Background flag running at 0.1% with no erros
 - Rollbacks:
     -     Rollback reason: No traffic capture on the LH side
             Date: 10/2/23
