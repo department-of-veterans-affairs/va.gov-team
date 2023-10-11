@@ -149,8 +149,11 @@ Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
 
 ## Further research needed
 
-- We would like to get feedback from Veterans who use screen readers, which we were unable to do this time because our prototype wasn't accessible.
-- We would like to get feedback from people who are family members of Veterans but not Veterans themselves so that we can find out if they know enough about their family member's service to answer the questions in this wizard.
+- We would like to get feedback from **Veterans who use screen readers**, which we were unable to do this time because our prototype wasn't accessible.
+- We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so that we can find out if they know enough about their family member's service to answer the questions in this wizard.
+- When **additional questions about medical conditions** get added to this wizard, it would be helpful to usability test that content before launch.
+
+
 
 
 ## Appendix
