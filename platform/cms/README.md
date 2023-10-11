@@ -77,7 +77,7 @@ Documentation about the CMS lives in various places
 - Troy Griffin, Helpdesk and Training Manager, Slack `@Troy Griffin`
 
 ### Shared resource from Sitewide team:
-- Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
+- Laura Flannery, Web Accessibility Lead - Slack `@Laura Flannery`
 
 ### Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
