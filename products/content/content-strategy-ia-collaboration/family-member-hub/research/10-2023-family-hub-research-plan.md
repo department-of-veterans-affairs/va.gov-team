@@ -20,7 +20,7 @@ Are there moments that matter?
 - This effort is aimed at the family member and caregiver journeys more than the Veteran, but would ideally indirectly improve the Veteran's journey by decluttering their experience. 
 
 **Survivor journey**
-- This work supports survivors during moments throughout their journey - from initial caregiving and preparing for end of life, until continuing on after their death. 
+- This work supports survivors during moments throughout their journey - from initial caregiving and preparing for end of life, until continuing on after the death of the Veteran in their life. 
   - Preparing
     - Preparing: Caring for their loved one
   - Moments directly after death
