@@ -12,3 +12,8 @@ These are the number of pageviews for any page that appears in the top 250 pages
 |#124|[Disability claim form: Review your military history](www.va.gov/disability/file-disability-claim-form-21-526ez/review-veteran-details/military-service-history/)|1,115,678|
 |#180|[Disability claim form: Military service history - Reserves/National Guard](www.va.gov/disability/file-disability-claim-form-21-526ez/review-veteran-details/military-service-history/reserves-national-guard/)|719,992|
 |#217|[VA.gov profile: Military history](www.va.gov/profile/military-information/)|586,497|
+
+### What we can extrapolate from this
+
+- The primary goal around military history is to obtain a copy of the DD214 or similar separation papers.
+- In terms of forms, the claims form is the form with the highest amount of traffic to its `military history` section. 
