@@ -30,7 +30,7 @@
   XXXXX
 </details>
 
-## Overall Supplemental Claim Submission
+## Overall HLR Claim Submission
 
 <details>
   
