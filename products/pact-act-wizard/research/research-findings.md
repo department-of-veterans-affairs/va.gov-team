@@ -34,7 +34,7 @@ There are many potential touchpoints between the Veteran and this application th
 - Retiring (Taking care of my health)
 - Aging (Managing my declining health)
 
-The purpose of this research is to find out whether we’ve met these goals: 
+The purpose of this research is to **get feedback on the content** in the PACT Act Wizard by finding out whether we’ve met these goals: 
 
 - The **questions drafted for the PACT Act Wizard are clear and easy** enough for Veterans (or family members seeking information on behalf of a Veteran) to understand and confidently answer. 
 
@@ -61,15 +61,15 @@ Learnings will help refine questions and the presentation of results in the wiza
 1. If the tool says that they're eligible, what do they say they would **do next**?
 
 ## Methodology 
-We conducted **remote usability testing** over Zoom on October 2-6, 2023 to get feedback from research participants using a working prototype that presents the questions and results screens in the PACT Act Wizard. The prototype was not a high-fidelity design prototype but instead an **online survey (in Survey Monkey) that presents questions** and branches appropriately to subsequent questions and relevant results screens. In this way, we **tested the *content* of the PACT Act Wizard**—the text and flow of the questions and the logical branching—but *not* the UI design. 
+We conducted **remote usability testing** over Zoom on October 2-6, 2023 to get feedback from research participants using a prototype that presents the questions and results screens in the PACT Act Wizard. The prototype was not a high-fidelity design prototype but instead an **online survey (in Survey Monkey) that presented questions** and branches appropriately to subsequent questions and relevant results screens. In this way, we **tested the *content* of the PACT Act Wizard**—the text and flow of the questions and the logical branching—but *not* the UI design. 
 
 Perigean recruited the participants.
 
-**We talked to 9 Veterans**, one of whom was also a Veteran's family member.
-- 6 of 8 used a smartphone for the session, and 2 used a computer
-- NONE use VA health care
-- NONE receive a pension from the VA
-- NONE get VA disability compensation for a service-connected disability rating of 50% or higher
+**We talked to 9 Veterans**, one of whom was also a Veteran's family member (spouse).
+-  *Most (8 of 9) had NOT applied for VA benefits under the PACT Act*. The one who did had applied just the week before.
+- 4 served in *1989 or earlier*, 2 served in *1990 or later*, and 3 served *during both* periods of time.
+- *Most (8 of 9) used a computer* during the session; only 1 used a smartphone.
+
 
 For more details, see [Who we talked to](#who-we-talked-to).
 
@@ -107,6 +107,19 @@ Participants were asked about the following:
 ## Details of Findings 
 
 ### 1. All participants understood...
+
+### Usability Successes
+1. **Most participants were able to answer most of the wizard questions easily.**
+1. **No comments about too many questions**. Participants were presented with anywhere from 2-10 questions, which varied based on their responses and the branching logic.
+1. All participants **understood *presumptive conditions***, but not from the PACT Act Wizard. Most said that they already knew from talking to other Veterans or looking into the PACT Act already.
+1. Participants generally **understood the results screens** and figured out what  they should do next.
+
+### Usability Issues
+5. Three participants had **difficulty answering the service years question** because they found the options confusing.
+1. Two participants brought up (unprompted) that they **didn't know what a "C-123 plane" was**, which was mentioned in one of the Agent Orange questions. Two other participants said, *"If it applied to you, you would know" (p9).*
+1. Some participants had **beliefs about whether they were eligible for benefits under the PACT Act** before trying the PACT Act Wizard, and some of these beliefs were *incorrect* and not addressed by any content in the wizard.
+1. Three participants were **confused by the jump links** at the top of the results page on Staging because they interpreted them as CTA's (i.e., *file a disability claim* or *apply for health care* right now).
+
 
 ## Additional Insights
 
