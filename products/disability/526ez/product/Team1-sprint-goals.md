@@ -36,23 +36,23 @@ Period - 09/27/2023 - 10/10/2023
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - ITF
-            - [ ] Move to 100% traffic 10/2/23
+            - [x] Move to 100% traffic 10/2/23
         - Rated Disabilities
             - [ ] enable 1% traffic            
        - PPIU - Direct Debit 
-            - [ ] Start migration of PPIU endpoint - started last sprint
+            - [x] Start migration of PPIU endpoint - started last sprint
 - **Features**
    - 526ez current with paper form
-      - [ ] Toxic Exposure data mapping discovery 
-      - [ ] Toxic Exposure screens - Discovery for work breakdown - Frontend engineering
-      - [ ] Intro page changes - Discovery for work breakdown - Frontend engineering
-      - [ ] Intro pages change revised designs
+      - [x] Toxic Exposure data mapping discovery 
+      - [x] Toxic Exposure screens - Discovery for work breakdown - Frontend engineering
+      - [x] Intro page changes - Discovery for work breakdown - Frontend engineering
+      - [x] Intro pages change revised designs
     
  - **Other**
-      - [ ] Teams 1 & 2 research effort - review medallia survey data
+      - [ ] Teams 1 & 2 research effort - review medallia survey data - still in progress
 
 - **Stretch Goals**
-    - [ ] Benefits Claims Release planning
+    - [x] Benefits Claims Release planning
 
   If there is capacity, pick up:
   - [ ] Submit Dashboard - monitor sidekiq jobs
