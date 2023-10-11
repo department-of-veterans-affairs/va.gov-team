@@ -25,7 +25,7 @@ Benefits issues outside the U.S., which includes:
 |John Welstead|GI Bill|
 |Scott Hadley|NCC|
 |Robert Eakman|VBA-OTED|
-|Breon Johnson|VBA-ART|
+|Breon Johnson|VBA-ART (Veterans Benefits Administration All Response Team)|
 
 ### Engagements
 
