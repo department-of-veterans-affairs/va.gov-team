@@ -4,8 +4,8 @@
 
 Benefits issues outside the U.S., which includes:
 
-- Education benefits and work study
-- Disability compensation
+- [Education benefits and work study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Education%20benefits%20and%20work%20study)
+- [Disability compensation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Disability%20compensation)
 
 ### Key stakeholders
 
