@@ -183,6 +183,7 @@ Percentage of Users (and roughly how many users do you expect this to be): 1%
             - 11:42am noted a spike in 502 and 503 errors
             - Rolled back to 0
             - Errors persisted until 12:08pm, total volume ~1400
+            - 500* spike may be coincidental, will run again shortly to confirm
 - Rollbacks:
     -     Rollback reason: No traffic capture on the LH side
             Date: 10/2/23
