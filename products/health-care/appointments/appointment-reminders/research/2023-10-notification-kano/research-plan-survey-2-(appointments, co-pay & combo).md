@@ -89,6 +89,11 @@ We will work with Perigean to handle the recruitment, scheduling, and compensati
 ### Recruitment approach
 We will ask Perigean to recruit 63 people using the cohorts below to get at least 35 completes.
 
+We would like to request a kick-off meeting with Perigean to go over the recruitment criteria and screener questions.  Anticipate the KO meeting lasting no more than 30 minutes. Tentative dates proposed (we're flexible with the time, whenever works for Perigean):
+  	- 10/13
+  	- 10/16
+  	- 10/17
+
 ### Recruitment criteria
 **All participants must have:**
 - All have a computer or mobile device and are willing to use it to complete the activity.
@@ -138,10 +143,7 @@ We will ask Perigean to recruit 63 people using the cohorts below to get at leas
 - 9/29: Pilot session (scheduled and done)
 - 10/11: Kristen reviews for approval (approved)
 - 10/1: Submit to research ops for approval
-- Kickoff meeting with Perigean request - Tentative dates proposed (we're flexible with the time, whenever works for Perigean):
-  	- 10/13
-  	- 10/16
-  	- 10/17
+- Kickoff meeting with Perigean request 
 
 ### Prepare
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
