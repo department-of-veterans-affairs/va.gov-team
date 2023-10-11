@@ -41,9 +41,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - [ ] Post-launch questions
 
 ## Notes
-- There is no discrete controller for this migration; it happens within the submit job
-    - This means that monitoring will be done entirely through sidekiq jobs and logs
-    - We can differentiate traffic to EVSS/LH through Factory-level logs
+- We can differentiate traffic to EVSS/LH through Factory-level logs, in case controller activity is not usable 
 - `app/models/concerns/form526_claim_fast_tracking_concern.rb` > flag is in `open_claims`
     - Makes a call to `BenefitsClaims::Service` `get_claims`
     - Claims controller exists: `modules/claims_api/app/controllers/claims_api/v2/veterans/claims_controller.rb`
