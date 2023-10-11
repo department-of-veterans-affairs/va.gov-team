@@ -43,8 +43,8 @@ Are there moments that matter?
 
 ## Research Goals	
 
-Determine if moving family and caregiver related content under a single benefit hub for that audience will improve the discoverability and findability of relevant benefit information. 
-Determine if highlighting caregiver and survivor benefits helps improve discoverability and findability of those specific benefits. 
+- Determine if moving family and caregiver related content under a single benefit hub for that audience will improve the discoverability and findability of relevant benefit information. 
+- Determine if highlighting caregiver and survivor benefits helps improve discoverability and findability of those specific benefits. 
 
 ### Outcome
 Learnings will help refine how we organize and group information within the new family and caregiver hub. 
