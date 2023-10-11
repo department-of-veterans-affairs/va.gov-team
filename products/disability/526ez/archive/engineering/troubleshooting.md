@@ -66,8 +66,6 @@ if we see an identiy related error like `Error calling external service to estab
 acct = Account.where(idme_uuid: ipf.user_uuid).first
 # OR acct = Account.find_by("idme_uuid = ? OR sec_id = ? OR logingov_uuid = ?", uuid, uuid, uuid)
 response = MPI::Service.new.find_profile_by_edipi(edipi: acct.edipi).profile
-user_identity =  OpenStruct.new(mhv_icn: acct.icn, dslogon_edipi: acct.edipi)
-response = MPI::Service.new.find_profile(user_identity).profile
 ````
 
 More details about form526_job_statuses error messages in  [the 526: Reduce form526 Submission Errors, Technical Debt, and Improvements epic ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9903)
