@@ -69,16 +69,16 @@ Tools for Veterans to schedule or request appointments.
 | VA direct-schedule | [Choose a location](./schedule-flow/va-direct--choose-location.md) | 
 | VA direct-schedule | [Cerner location redirect](./schedule-flow/Cerner-location-redirect.md) |
 | VA direct-schedule | [Choose a clinic](./schedule-flow/choose-a-VA-clinic.md) |
-| VA direct-schedule | [Choose a preferred date](./schedule-flow/choose-a-preferred-date.md) |
+| VA direct-schedule | [Choose a date](./schedule-flow/choose-a-date.md) |
 | VA direct-schedule | [Reason for appointment](./schedule-flow/reason-for-appointment.md) |
 | VA direct-schedule | [Confirm contact information](./schedule-flow/confirm-contact-information.md) |
 | VA direct-schedule | [Review and submit](./schedule-flow/review-and-submit-VA-direct-schedule.md) |
-| VA request | [Choose a day and time]() |
+| VA request | [Preferred date](./schedule-flow/preferred-date-VA-request.md) |
 | VA request | [Reason for appointment]() |
 | VA request | [Method of attendance]() |
 | VA request | [Confirm contact information](./schedule-flow/confirm-contact-information-request.md) |
 | VA request | [Review and submit](./schedule-flow/review-and-submit-VA-request.md) |
-| CC request | Choose a day and time |
+| CC request | [Preferred date](./schedule-flow/preferred-date-CC.md) |
 | CC request | Closest city |
 | CC request | Choose a provider |
 | CC request | Choose a preferred language |
