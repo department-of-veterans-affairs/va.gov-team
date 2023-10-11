@@ -22,7 +22,7 @@ We need to meet with business lines to determine which fields are required in or
 |Education benefits and work study|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Education%20benefits%20and%20work%20study)|
 |Guardianship, custodianship, or fiduciary issues|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Guardianship%2C%20custodianship%2C%20or%20fiduciary%20issues)|
 |Health care|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Health%20care)|
-|Housing assistance and home loans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Housing%20issues)|
+|Housing assistance and home loans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Housing%20assistance%20and%20home%20loans)|
 |Life insurance|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Life%20insurance)|
 |Pension|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Pension)|
 |Resources for Women Veterans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Women%20Veterans)|
