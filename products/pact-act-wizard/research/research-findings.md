@@ -284,4 +284,4 @@ This research does not include the perspectives of the following marginalized Ve
 - Expat (living abroad)
 - Users of Assistive Technology 
 
-![VA-recruitment-checker](./images/va-recruitment-checker.png)
+![VA-recruitment-checker](./images/VA-recruitment-checker.png)
