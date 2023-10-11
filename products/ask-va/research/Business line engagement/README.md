@@ -18,7 +18,7 @@ We need to meet with business lines to determine which fields are required in or
 |Debt for benefit overpayments and copay bills|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Debt%20for%20benefit%20overpayments%20and%20copay%20bills)|
 |Decision reviews and appeals|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Decision%20reviews%20and%20appeals)|
 |DEERS (Defense Enrollment Eligibility Reporting System)|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/DEERS%20(Defense%20Enrollment%20Eligibility%20Reporting%20System))|
-|Disability compensation|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Compensation)|
+|Disability compensation|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Disability%20compensation)|
 |Education benefits and work study|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Education)|
 |Guardianship, custodianship, or fiduciary issues|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Fiduciary%20program)|
 |Health care|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Health%20care)|
