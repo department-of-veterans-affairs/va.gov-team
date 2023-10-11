@@ -2,6 +2,8 @@
 ## Our goal
 Our goal is to empower teams to deliver the most accessible products possible for Veterans. We do this by providing teams with insights, training, and support as accessibility subject matter experts.
 
+**We are here to partner with you and provide guidance on how to achieve accessible outcomes.**
+
 ## How CAIA can help your team with accessibility
 The Content, Accessibility, and Information Architecture team, or CAIA, is a cross-functional team of folks here to help your team deliver the highest quality product possible to Veterans. 
 
