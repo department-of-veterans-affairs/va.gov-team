@@ -12,7 +12,7 @@ This document explains some of the ways that CAIA can help your team with access
 ### How we relate to the Collaboration Cycle
 We've grouped our offerings by how they relate to the [touch point meetings in the Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/). We've done this because the Collaboration Cycle is a well-known process for our community, and maps well to how we do work. 
 
-Note that CAIA can support teams going through the Collaboration Cycle, but **CAIA is not involved in the Collaboration Cycle directly**. We are here to help you launch the best products possible, we're not gatekeepers. If we find and flag an issue we can't and won't block you from launching. Teams going through the Collaboration Cycle can work with us, as can teams working outside of it.
+Note that CAIA can assist teams going through the Collaboration Cycle, but **CAIA is not involved in the Collaboration Cycle directly**. We are here to help you launch the best products possible, we're not gatekeepers. If we find and flag an issue we can't and won't block you from launching. Teams going through the Collaboration Cycle can work with us, as can teams working outside of it.
 
 ## Services we offer
 What follows is a menu of the services we offer. **No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.**
