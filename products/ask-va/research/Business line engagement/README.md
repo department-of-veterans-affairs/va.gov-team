@@ -25,7 +25,7 @@ We need to meet with business lines to determine which fields are required in or
 |Housing assistance and home loans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Housing%20assistance%20and%20home%20loans)|
 |Life insurance|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Life%20insurance)|
 |Pension|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Pension)|
-|Resources for Women Veterans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Women%20Veterans)|
+|Resources for Women Veterans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Resources%20for%20Women%20Veterans)|
 |Sign in and technical issues|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Sign%20in%20and%20technical%20issues)|
 |Survivor benefits|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Survivor%20benefits)|
 |Veteran ID Card (VIC)|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Veteran%20ID%20Card%20(VIC))|
