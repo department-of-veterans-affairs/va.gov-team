@@ -1,38 +1,38 @@
 ## In-Person Proofing Pilot Proposal
 ### Table of Contents	
-Problem statement	2
-Pilot Goals	3
-Objectives	3
-Approach	4
-Stakeholders	6
-Infrastructure and Environment	6
-Testing Methodologies and Procedures	7
-Data Collection and Analysis	9
-User Training and Support	10
-Feedback Mechanisms	10
-Communication Plan	11
-Risk Assessment	11
-Exit Criteria	11
-Timeline (Subject to change based on VA PO input)	12
-Appendix	12
-### IPP Product Brief	12
-### Problem statement	12
-The players	13
-The flow	14
-Intake	14
-In-person proofing process	15
-Validating a proofing agent	15
-Resolution	16
-Validation	17
-Verification	18
-Address confirmation	19
-Yielding a Login.gov verified account	19
-Supported document types / proofing evidence	20
-Pilot considerations	20
-Volunteer proofing agents	20
-Locations	20
-Canary	20
-Pilot	20
+Problem statement	2  
+Pilot Goals	3  
+Objectives	3  
+Approach	4  
+Stakeholders	6  
+Infrastructure and Environment	6  
+Testing Methodologies and Procedures	7  
+Data Collection and Analysis	9  
+User Training and Support	10  
+Feedback Mechanisms	10  
+Communication Plan	11  
+Risk Assessment	11  
+Exit Criteria	11  
+Timeline (Subject to change based on VA PO input)	12  
+Appendix	12  
+IPP Product Brief	12  
+Problem statement	12  
+The players	13  
+The flow	14  
+Intake	14  
+In-person proofing process	15  
+Validating a proofing agent	15  
+Resolution	16  
+Validation	17  
+Verification	18  
+Address confirmation	19  
+Yielding a Login.gov verified account	19  
+Supported document types / proofing evidence	20  
+Pilot considerations	20  
+Volunteer proofing agents	20  
+Locations	20  
+Canary	20  
+Pilot	20  
 
 ### Problem statement
 The VA has prioritized investment in the adoption of Login.gov as the primary sign-in method for Veterans accessing their benefits, because it is built on secure, modern technology and integrates easily with other government applications, requiring only one set of login credentials to be used across many sites. Login.gov currently offers remote identity verification along with an in-person option at United States Post Offices, however, these sites are not always prepared to accommodate the needs of Veterans. Consider that:
@@ -215,57 +215,57 @@ Prior to pilot launch, the following testing will be conducted:
 
 IPP Pilot Phases:
 
-I. Usability Test with Veterans 
+I. Usability Test with Veterans  
 
-- A. Recruited Veterans will attend a 1 hour virtual session, during which they will:
+ A. Recruited Veterans will attend a 1 hour virtual session, during which they will:
     1. Join a virtual meeting with Login.gov Adoption Team member
     2. Agree to recording (they do not need to have a camera on)
     3. Screenshare the following steps:
     4. Sign in to or create a Login.gov account
     5. Initiate identity verification using a Figma prototype to navigate
     6. Talk through their thinking as they go through the steps to select in-person proofing
-    7. Answer questions at the end of the session (post-survey)
-- B. Consent will be obtained to record session
-- C. During this session, the Veteran will be provided background information on the IPP pilot and the usability test goals
-- D. The Veteran will be provided a Figma prototype to navigate
-- E. The Veteran will be encouraged to use a Think Aloud technique to capture reactions, questions and reflections as they interact with the tool
-- F. The tester will ask follow up questions to gain information on the Veteran experience as they use the prototype and their receptivity and perception of feasibility of using the application.
-- G. Once completing the initial stage of verification, the Veteran will be introduced to a role play of the proofing agent experience in person
-- H. The tester will act as the Proofing Agent, talking through with the Veteran the steps that would occur during in-person verification. 
-- I. Throughout this role play, Veterans will be asked follow up questions, assessing comfort, receptivity, satisfaction, expectations, desirable identification documents, questions and other feedback. 
+    7. Answer questions at the end of the session (post-survey)  
+ B. Consent will be obtained to record session  
+ C. During this session, the Veteran will be provided background information on the IPP pilot and the usability test goals  
+ D. The Veteran will be provided a Figma prototype to navigate  
+ E. The Veteran will be encouraged to use a Think Aloud technique to capture reactions, questions and reflections as they interact with the tool  
+ F. The tester will ask follow up questions to gain information on the Veteran experience as they use the prototype and their receptivity and perception of feasibility of using the application.  
+ G. Once completing the initial stage of verification, the Veteran will be introduced to a role play of the proofing agent experience in person  
+ H. The tester will act as the Proofing Agent, talking through with the Veteran the steps that would occur during in-person verification.   
+ I. Throughout this role play, Veterans will be asked follow up questions, assessing comfort, receptivity, satisfaction, expectations, desirable identification documents, questions and other feedback. 
 
-II. Usability Test with Proofing Agents
+II. Usability Test with Proofing Agents  
 
-- A. Recruited proofing agents will attend a 1 hour virtual session, during which they will:
+A. Recruited proofing agents will attend a 1 hour virtual session, during which they will:
  1. Join a virtual meeting with Login.gov Adoption Team member
  2.  Agree to recording (they do not need to have a camera on)
  3.  Screenshare the following steps:
  4.  Open the Figma link
  5.  Initiate Proofing Agent flow using Figma prototype to navigate
  6.  Talk through their thinking as they go through the steps to verify a Veteran’s identity
- 7.  Answer questions at the end of the session (post-survey)
+ 7.  Answer questions at the end of the session (post-survey)  
+B. Consent will be obtained to record session
+C. During this session, the proofing agent will be provided background information on the IPP pilot and the usability test goals  
+D. The proofing agent will be provided a Figma prototype to navigate
+E. The proofing agent will be encouraged to use a Think Aloud technique to capture reactions, questions and reflections as they interact with the tool
+F. The tester will ask follow up questions to gain information on the proofing agent experience as they use the prototype and their receptivity and perception of feasibility of using the application. The tester will also ask questions specifying unique use cases, e.g. Veteran without a case number showing up in person.
+G. Following the usability test with Proofing Agents, the input will be used to edit the role play script for the Veteran Usability Test and Pilot.
 
-- B. Consent will be obtained to record session
-- C. During this session, the proofing agent will be provided background information on the IPP pilot and the usability test goals
-- D. The proofing agent will be provided a Figma prototype to navigate
-- E. The proofing agent will be encouraged to use a Think Aloud technique to capture reactions, questions and reflections as they interact with the tool
-- F. The tester will ask follow up questions to gain information on the proofing agent experience as they use the prototype and their receptivity and perception of feasibility of using the application. The tester will also ask questions specifying unique use cases, e.g. Veteran without a case number showing up in person. 
-- G. Following the usability test with Proofing Agents, the input will be used to edit the role play script for the Veteran Usability Test and Pilot.
+III. Onsite Pilot at Proofing Site  
 
-III. Onsite Pilot at Proofing Site
-
-- A. Prior to Pilot:
+A. Prior to Pilot:
   1. Participating site will reserve space, inclusive of a computer, that we can use for testing (see requirements in Infrastructure and Environment section above)
   2. Participating site will notify site staff of Pilot
   3. Proofing Agent will be contacted to reserve time for testing period and confirm attendance
-- B. Day of Pilot (during duration of onsite pilot phase):
+B. Day of Pilot (during duration of onsite pilot phase):
   1. Proofing Agent will arrive and meet with researcher to take a survey at the start of each day to evaluate level of comfort and confidence in in-person proofing.
   2. Researcher will get Proofing Agent set up in workstation and ensure that they know how to open the applications when the Veteran arrives.
   3. Proofing Agents and Researchers will greet Veterans as they arrive for in-person identity verification, answering any questions.
   4. Researcher will conduct a brief pre-survey with Veterans.
-  5. Proofing Agent will walk through the steps in the IPP application as the recruited Veterans arrive  during  the onsite pilot phase and will conduct verification in the reserved room/area. Researchers  will observe verification throughout the study.
-  6. Proofing Agent will take a survey at the end of each day evaluating level of comfort and confidence in in-person proofing.
-  7. Researchers will be onsite to troubleshoot any technical roadblocks Proofing Agents or Veterans experience during the pilot.
+  5. Proofing Agent will walk through the steps in the IPP application as the recruited Veterans arrive  during  the onsite pilot phase and will conduct verification in the reserved room/area
+  6. Researchers  will observe verification throughout the study.
+  7. Proofing Agent will take a survey at the end of each day evaluating level of comfort and confidence in in-person proofing.
+  8. Researchers will be onsite to troubleshoot any technical roadblocks Proofing Agents or Veterans experience during the pilot.
 
 ### Data Collection and Analysis
 
