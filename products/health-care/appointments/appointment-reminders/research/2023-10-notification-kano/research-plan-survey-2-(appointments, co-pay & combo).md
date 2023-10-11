@@ -89,10 +89,10 @@ We will work with Perigean to handle the recruitment, scheduling, and compensati
 ### Recruitment approach
 We will ask Perigean to recruit 63 people using the cohorts below to get at least 35 completes.
 
-We would like to request a kick-off meeting with Perigean to go over the recruitment criteria and screener questions.  Anticipate the KO meeting lasting no more than 30 minutes. Tentative dates proposed (we're flexible with the time, whenever works for Perigean):
-  	- 10/13
-  	- 10/16
-  	- 10/17
+We would like to **request a kick-off meeting with Perigean** to go over the recruitment criteria and screener questions.  Anticipate the KO meeting lasting no more than 30 minutes. Tentative dates proposed (we're flexible with the time, whenever works for Perigean):
+- 10/13
+- 10/16
+- 10/17
 
 ### Recruitment criteria
 **All participants must have:**
