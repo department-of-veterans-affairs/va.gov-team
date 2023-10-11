@@ -2,7 +2,7 @@
 
 ### Business line
 
-Debt
+Debt for benefit overpayments and copay bills
 
 ### Key stakeholders
 
