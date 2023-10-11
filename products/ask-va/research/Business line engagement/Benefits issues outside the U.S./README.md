@@ -11,20 +11,21 @@ Benefits issues outside the U.S., which includes:
 
 |Stakeholder|Business area|
 |:--|:--|
-|Dawn Arnold|GI Bill|
-|Jacqueline Mikoley|GI Bill|
-|Kendra Stewart|GI Bill|
-|Lisa Eaton|GI Bill|
-|Matthew Ziolkowski|GI Bill|
-|Michael Napper|GI Bill|
-|Tammy Hurley|GI Bill|
-|Eddie Keefe|GI Bill|
-|Preston Sanders|GI Bill|
-|Louiseza Sanderson|GI Bill|
-|Terry Warren|GI Bill|
-|John Welstead|GI Bill|
-|Scott Hadley|NCC|
-|Robert Eakman|VBA-OTED|
+|Tammy Hurley|Education|
+|Dawn Arnold|Education|
+|Jacqueline Mikoley|Education: Buffalo|
+|Lisa Eaton|Education: Muskogee|
+|Matthew Ziolkowski|Education|
+|Michael Napper|Education|
+|Eddie Keefe|Education|
+|Preston Sanders|Education|
+|Louiseza Sanderson|Education|
+|Terry Warren|Education|
+|John Welstead|Education|
+|Kendra Stewart|Work Study|
+|Kevin White|Work Study|
+|Scott Hadley|NCC (National Call Center)|
+|Robert Eakman|VBA-OTED (Office of Transition & Economic Development)|
 |Breon Johnson|VBA-ART (Veterans Benefits Administration All Response Team)|
 
 ### Engagements
