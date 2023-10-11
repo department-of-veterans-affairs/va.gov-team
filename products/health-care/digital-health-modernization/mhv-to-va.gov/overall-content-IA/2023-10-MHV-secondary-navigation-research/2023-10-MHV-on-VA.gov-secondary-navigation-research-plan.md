@@ -92,11 +92,11 @@ Primary criteria (must-haves)
 	- No *(Disqualify)*
 
 3. How often, if at all, do you use MyHealtheVet?
-* a) Never used it *(Disqualify)*
-* b) Once a year *(Disqualify)*
-* c) Once a month *(Qualify)*
-* d) 2-3 times a month *(Qualify)*
-* e) more than 3 times a month *(Qualify)*
+* Never used it *(Disqualify)*
+* Once a year *(Disqualify)*
+* Once a month *(Qualify)*
+* 2-3 times a month *(Qualify)*
+* more than 3 times a month *(Qualify)*
 
 
 ## Timeline
