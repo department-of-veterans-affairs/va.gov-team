@@ -149,11 +149,11 @@ None at this time
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/research-plan.md)
+[Research plan](./research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/conversation-guide.md)
+[Conversation guide](./conversation-guide.md)
 
-[Interview notes]()
+[Interview notes](./notes)
 
 
 ## Tools used for Synthesis
