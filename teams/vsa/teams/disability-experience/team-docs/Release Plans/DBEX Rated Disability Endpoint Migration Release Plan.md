@@ -46,6 +46,10 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [ ] Stage F: Go live!
 - [ ] Post-launch questions
 
+## Notes
+- This migration will make use of two flags: `disability_compensation_lighthouse_rated_disabilities_provider_background` and `disability_compensation_lighthouse_rated_disabilities_provider_foreground`
+    - Representing the RD call in the submit flow and form flow, respectively
+- LH v2 does not have a controller mapped on the vets-api side, will have to monitor the RD job instead
 
 ## Phase I: Internal Testing and Review
 
@@ -82,6 +86,11 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - Mike Richard @Mike Richard
         - 9/27
     - Rocio De Santiago @Rocio De Santiago - Coforma
+    - 10/10 - Secondary rollout from 0.1% to 1%
+        - 11am progressed both RD flags to 0.1%
+            - 11:42am noted a spike in 502 and 503 errors
+            - Rolled back to 0
+            - Errors persisted until 12:08pm, total volume ~1400
 - [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
         - [ ] Note the date, start, and end time:
