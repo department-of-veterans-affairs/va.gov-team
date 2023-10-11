@@ -17,12 +17,12 @@ We need to meet with business lines to determine which fields are required in or
 |Burials and memorials|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Burials%20and%20memorials)|
 |Disability compensation|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Compensation)|
 |Debt for benefit overpayments and copay bills|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Debt)|
-|DEERS|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/DEERS)|
+|DEERS (Defense Enrollment Eligibility Reporting System)|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/DEERS)|
 |Center for Minority Veterans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Center%20for%20Minority%20Veterans)|
 |Education benefits and work study|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Education)|
 |Guardianship, custodianship, or fiduciary issues|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Fiduciary%20program)|
 |Health care|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Health%20care)|
-|Housing issues|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Housing%20issues)|
+|Housing assistance and home loans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Housing%20issues)|
 |Life insurance|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Life%20insurance)|
 |Pension|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Pension)|
 |Sign in and technical issues|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Sign%20in%20and%20technical%20issues)|
