@@ -1,3 +1,32 @@
+## Meeting Notes for CRM Sync on 10/10/2023
+
+Update on API Doc status; Medallia meeting; Google Analytics; MSFT Teams housekeeping.
+
+### Attendees:
+
+* **Integration Team:** Khoa, Joe, Ruchi, Becky, Eddie
+* **CRM Team:** Shelby, Chris, Joseph Duty, Jamie, James, Maria
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+* API Docs will need a bit more time to mature. Working on sorting endpoints into Lighthouse and Dynamics APIs buckets, cleaning up the gray areas.
+* Medallia meeting rescheduled to 10/11 at 4:30pm ET.
+* Analytics may require ATO review. JD and Ruchi are working to see if the App Insights data would serve the same purpose.
+* Discussed Teams permissions, and culling the membership for those not involved in the project. Ruchi/Becky to follow up on VA/PO side.
+* Relayed Shelby's response to Becky that stories in upcoming sprints don't affect CRM Team's work.
+
+### Action Items:
+
+- [X] Ruchi - Send the KPI questions on analytics to Joseph Duty to see if they have this data available to capture the current state on the two KPIs.
+- [ ] Becky - Check Teams members with Andrea. (Teams housekeeping)
+- [ ] Joe - Present API Docs and granular project plan to this meeting next Tuesday (10/17).
+- [ ] Joe to incorporate the steps for "done" in the granular project timeline.
+
+
+----
+
+
 ## Meeting Notes for CRM Sync on 10/6/2023 (off-cycle, ad-hoc meeeting)
 
 Plan of attack; System of record; Continuous communication.
@@ -41,7 +70,7 @@ Plan of attack; System of record; Continuous communication.
 
 ### Action Items:
 
-1. - [ ] Joe to send GitHub link of meeting notes to larger email group and #ask-va-public Slack channel, after every CRM Sync.
+1. - [X] Joe to send GitHub link of meeting notes to larger email group and #ask-va-public Slack channel, after every CRM Sync.
 1. - [ ] Joe to incorporate the steps for "done" in the granular project timeline.
 
 
