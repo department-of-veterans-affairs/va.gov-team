@@ -303,9 +303,9 @@ Please request enough dates and at least double the amount of time slots for the
 
 Wednesday Oct 18, 2023 - Friday, Oct 27, 2023
 
-9am PT - 2pm PT: Tuesday, Wednesday, Friday
+9am PT - 2pm PT: Tuesday, Wednesday
 
-10am PT - 2pm PT: Monday, Thursday
+10am PT - 2pm PT: Monday, Thursday, Friday
 
 2 max per day
 
