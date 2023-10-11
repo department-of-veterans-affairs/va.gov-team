@@ -24,8 +24,8 @@ Benefits issues outside the U.S., which includes:
 |Terry Warren|GI Bill|
 |John Welstead|GI Bill|
 |Scott Hadley|NCC|
-|Robert Eakman|VBA-Outreach, Transition & Economic Development (OTED)|
-|Breon Johnson|VBA ART|
+|Robert Eakman|VBA-OTED|
+|Breon Johnson|VBA-ART|
 
 ### Engagements
 
