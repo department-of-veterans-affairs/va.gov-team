@@ -1,5 +1,5 @@
 
-# Research Plan for [Debt Resolution Team, Streamlined Waiver (eFSR) Accessibility Study, September - October 2023]
+# Research Plan for [Debt Resolution Team, Streamlined Waiver (eFSR) Accessibility Study, October 2023]
 
 ## Background
 
