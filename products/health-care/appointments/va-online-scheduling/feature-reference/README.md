@@ -76,7 +76,7 @@ Tools for Veterans to schedule or request appointments.
 | VA request | [Choose a day and time]() |
 | VA request | [Reason for appointment]() |
 | VA request | [Method of attendance]() |
-| VA request | [Confirm contact information]() |
+| VA request | [Confirm contact information](./schedule-flow/confirm-contact-information-request.md) |
 | VA request | Review and submit |
 | CC request | Choose a day and time |
 | CC request | Closest city |
