@@ -76,26 +76,22 @@ Primary criteria (must-haves)
 - 15 total
 - 7 frequent users of MHV
 - 8 infrequent users of MHV
-- 15 mobile users
+- All mobile users
 - Age and education level range throughout, but ideally include at least 10 participants older than 55 and 10 participants with some college or less as their terminal degree
 
 ### Screener questions
 
-1. Have you been to a VA healthcare facility for a medical appointment in the last 12 months?
-	- Yes *(go onto Screener question 2)*
-	- No *(Disqualify)*
-
-2. How often, if at all, have you used VA.gov in the past 6 months?
+1. How often, if at all, have you used VA.gov in the past 6 months?
 * Never used it *(go onto Screener question 3)*
 * 1-2 times in the past 6 months *(go onto Screener question 3)*
 * 2-3 times a month in the past 6 months *(Disqualify)*
 * More than 3 times a month in the past 6 months *(Disqualify)*
 
-3. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
+2. Do you have a My HealtheVet (MHV) account? 
 	- Yes *(go onto Screener question 4)*
 	- No *(Disqualify)*
 
-4. How often, if at all, do you use MyHealtheVet?
+3. How often, if at all, do you use MyHealtheVet?
 * a) Never used it *(Disqualify)*
 * b) Once a year *(Disqualify)*
 * c) Once a month *(Qualify)*
