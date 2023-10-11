@@ -1,3 +1,11 @@
+**Jump to:**
+
+[Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-19)
+
+[Errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#error)
+
+[Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#email)
+
 # Board Appeals (Notice of Disagreement) Content Source of Truth
 
 ***SIGNED OUT***
@@ -759,20 +767,20 @@ VA Form 10182 (Notice of Disagreement)
 
 Success alert:
 
-## You’ve successfully submitted your request
+## We’ve received your Board Appeal application
 
-We’ll review your request. We may contact you for more information or other documents.  print this page for your records.
+After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
 
-### Request a Board Appeal (Form 10182)
+### Your information for Board Appeal
 
 #### Your NAME
 Veteran Name 
 
-#### Date submitted
+#### Date you filed your claim
 
 Month Day, Year
 
-#### Issue(s) submitted
+#### Issue(s) for review
 
 • My Issue
 
@@ -780,19 +788,27 @@ Month Day, Year
 
 Button: **Print this for your records**
 
-### After you request a decision review
+### What to expect next
 
-When we've completed your review, we'll mail you a decision packet that includes details about our decision. [Learn more about what happens after you request a review]().
+You will receive a confirmation email with a link to a copy of your completed form. These documents are for your records only. We ask that you don’t send us another copy. 
 
-### What should I do while I wait?
+If we need more information, we'll contact you to tell you what other information you'll need to submit. We’ll also tell you if we need to schedule an exam or hearing for you.
 
-You don't need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them.
+### How to contact us if you have questions
 
-If you requested an appeal and haven't heard back from us yet,  don't request another appeal. Call us at 800-827-1000.
+You can ask us a question online through Ask VA.
 
-Button: [Check the status of your appeal]
+[Contact us online through Ask VA.](#)
 
-**Note:**  allow some time for your appeal to process through our system. It could take 7 to 10 days for it to show up in our claim status tool.
+Or call us at 1-800-827-1000 (TTY:711).
+
+**If you don’t hear back from us about your Board Appeal**, don’t file another claim or request another type of decision review. Contact us online or call us instead. 
+
+**Note:** You can request a hearing at any time during the decision review process. 
+
+Button: [Track the status of your appeal]
+
+**Note:** Please allow some time for your appeal to process through our system. It could take 7 to 10 days for it to show up in our claim status tool.
 
 ---
 ## Error
@@ -887,3 +903,38 @@ User tries to submit with missing/invalid information:
 ### Review
 
   `You must accept the privacy policy before continuing`
+  
+## Email
+
+Dear ((first_name)),
+
+We’ve received your Board Appeal application (VA 10182 Notice of Disagreement).
+
+To check your appeal status, go to https://www.va.gov/claim-or-appeal-status/ to sign in to our claim status tool. Please allow at least 7-10 days for your Board Appeal to show up there.
+
+**Your Appeal details are below:**
+
+Board Appeal 
+
+**Date Submitted:**
+
+((date_submitted))
+
+[Download a copy of your Board Appeal (PDF)](#)
+
+**Note:** You will need to sign in to access to this PDF. This link will remain active for 10 days.
+
+These documents are for your records only. We ask that you don’t send us another copy. 
+
+If we have questions or need more information, we may contact you. We’ll notify you once we have processed your Board Appeal. If you need to contact us please visit https://va.gov or by phone: 1-800-827-1000.
+
+Thank you for your service, 
+
+VA
+
+You are receiving this email because you filed a Board Appeal with VA.
+
+Please do not reply to this email.
+
+
+
