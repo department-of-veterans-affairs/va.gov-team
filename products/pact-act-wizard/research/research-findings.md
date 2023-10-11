@@ -1,6 +1,6 @@
 # PACT Act Wizard Usability Testing -- Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Income Limits, Sitewide Public Websites**
+**Office of the CTO - Digital Experience (OCTO-DE), PACT Act Wizard, Sitewide Public Websites**
 
 Date: 10/20/2023
 
@@ -34,7 +34,7 @@ There are many potential touchpoints between the Veteran and this application th
 - Retiring (Taking care of my health)
 - Aging (Managing my declining health)
 
-The purpose of this research is to **get feedback on the content** in the PACT Act Wizard by finding out whether we’ve met these goals: 
+The purpose of this research is to **get feedback on the content** in the PACT Act Wizard and find out whether we’ve met these goals: 
 
 - The **questions drafted for the PACT Act Wizard are clear and easy** enough for Veterans (or family members seeking information on behalf of a Veteran) to understand and confidently answer. 
 
@@ -45,17 +45,20 @@ The purpose of this research is to **get feedback on the content** in the PACT A
 Learnings will help refine questions and the presentation of results in the wizard.
 
 ## Research Questions
-1. What feedback do Veterans (and others) have on **individual questions**? 
+1. What feedback do Veterans (and others) have on **individual questions**?
+
+     1.
 1. What feedback do Veterans (and others) have on the **entire set of questions**?
-    - Total number of questions 
-    - Similar structure of the questions
+
+     1. 
 
 1. Do Veterans (and others) **know enough about their military service to answer the questions**? If not, what do they need to answer them?
+    
+     1.
 
 1. What feedback do Veterans (and others) have on the **results**?
-     - Date/range
-     - "Presumptive conditions"
-     - Next steps
+    
+     1.
      
 
 1. If the tool says that they're eligible, what do they say they would **do next**?
@@ -86,8 +89,10 @@ Participants were asked about the following:
 
 ## Hypotheses and Conclusions
 1. Veterans (and others) will find the questions to be clear and easy to understand and answer.
+     1. LIKELY TRUE: Participants...
+     
 2. Veterans (and others) will find the number and content of the questions to be relevant to their understanding of the PACT Act and how it applies to them (or the Veteran). 
-
+     1. MAYBE TRUE: Participants...
 1. Veterans (and others) won't find the number and content of the questions to be overly burdensome. 
 
 1. The results are simple enough for Veterans (and others) to understand and are not misleading. 
@@ -95,8 +100,7 @@ Participants were asked about the following:
 1. Veterans (and others) will understand what "presumptive conditions" mean after reading the plain language description in the results flow. 
 
     
-     1. LIKELY TRUE: Participants...
-     1. MAYBE TRUE: Participants...
+
 
 
 ## Key Findings
@@ -115,9 +119,10 @@ Participants were asked about the following:
 1. Participants generally **understood the results screens** and figured out what  they should do next.
 
 ### Usability Issues
-5. Three participants had **difficulty answering the service years question** because they found the options confusing.
+5. Three participants had **difficulty answering the service years question** because they found the options confusing. *ADD DETAILS AND QUOTES*
 1. Two participants brought up (unprompted) that they **didn't know what a "C-123 plane" was**, which was mentioned in one of the Agent Orange questions. Two other participants said, *"If it applied to you, you would know" (p9).*
 1. Some participants had **beliefs about whether they were eligible for benefits under the PACT Act** before trying the PACT Act Wizard, and some of these beliefs were *incorrect* and not addressed by any content in the wizard.
+  RECOMMENDATION: Consider adding more content to the main PACT Act page, and link from there to this wizard.
 1. Three participants were **confused by the jump links** at the top of the results page on Staging because they interpreted them as CTA's (i.e., *file a disability claim* or *apply for health care* right now).
 
 
@@ -144,7 +149,8 @@ Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
 
 ## Further research needed
 
-None at this time
+- We would like to get feedback from Veterans who use screen readers, which we were unable to do this time because our prototype wasn't accessible.
+- We would like to get feedback from people who are family members of Veterans but not Veterans themselves so that we can find out if they know enough about their family member's service to answer the questions in this wizard.
 
 
 ## Appendix
@@ -171,14 +177,6 @@ None at this time
 [Link to Prototype](https://www.surveymonkey.com/r/KKVHSFV)
 
 ### Screenshots of the prototype screens--TBD
-<details>
-  <summary>Landing page (Click to show screenshots)</summary>
-
-  ![landing-pg]()
-  ![landing-pg]()
-       
-</details>
-
 <details>
   <summary>Intro page (Click to show screenshot)</summary>
 
@@ -278,10 +276,11 @@ Disability and Assistive Technology (AT):
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
+- Users of Assistive Technology 
 - Identify as Biracial, Asian, Native, or LGBTQ+
 - Other than honorable discharge
 - Immigrant origin
 - Expat (living abroad)
-- Users of Assistive Technology 
+
 
 ![VA-recruitment-checker](./images/VA-recruitment-checker.png)
