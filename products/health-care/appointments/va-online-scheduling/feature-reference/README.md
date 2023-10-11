@@ -71,12 +71,12 @@ Tools for Veterans to schedule or request appointments.
 | VA direct-schedule | [Choose a clinic](./schedule-flow/choose-a-VA-clinic.md) |
 | VA direct-schedule | [Choose a preferred date](./schedule-flow/choose-a-preferred-date.md) |
 | VA direct-schedule | [Reason for appointment](./schedule-flow/reason-for-appointment.md) |
-| VA direct-schedule | Confirm contact information |
-| VA direct-schedule | Review and submit |
-| VA request | Choose a day and time |
-| VA request | Reason for appointment |
-| VA request | Method of attendance |
-| VA request | Confirm contact information |
+| VA direct-schedule | [Confirm contact information](./schedule-flow/confirm-contact-information.md) |
+| VA direct-schedule | [Review and submit]() |
+| VA request | [Choose a day and time]() |
+| VA request | [Reason for appointment]() |
+| VA request | [Method of attendance]() |
+| VA request | [Confirm contact information]() |
 | VA request | Review and submit |
 | CC request | Choose a day and time |
 | CC request | Closest city |
