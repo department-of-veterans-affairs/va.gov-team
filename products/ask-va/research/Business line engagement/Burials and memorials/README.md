@@ -9,7 +9,7 @@ Burials and memorials
 |Stakeholder|Business area|
 |:--|:--|
 |Jennifer Kelly|NCA (National Cemetery Administration)|
-|Breon Johnson|VBA ART (Veterans Benefits Administration All Response Team)|
+|Breon Johnson|VBA-ART|
 
 ### Engagements
 
