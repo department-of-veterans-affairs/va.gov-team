@@ -72,7 +72,7 @@ Tools for Veterans to schedule or request appointments.
 | VA direct-schedule | [Choose a preferred date](./schedule-flow/choose-a-preferred-date.md) |
 | VA direct-schedule | [Reason for appointment](./schedule-flow/reason-for-appointment.md) |
 | VA direct-schedule | [Confirm contact information](./schedule-flow/confirm-contact-information.md) |
-| VA direct-schedule | [Review and submit]() |
+| VA direct-schedule | [Review and submit](./schedule-flow/review-and-submit-VA-direct-schedule.md) |
 | VA request | [Choose a day and time]() |
 | VA request | [Reason for appointment]() |
 | VA request | [Method of attendance]() |
