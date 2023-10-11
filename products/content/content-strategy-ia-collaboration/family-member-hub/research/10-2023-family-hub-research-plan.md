@@ -3,7 +3,7 @@
 
 ## Background
 
-Family and caregiver benefit content, applications, and tasks are distributed across the Veteran benefit hubs. Furthermore, tools related to managing health care and benefits are mostly framed up for the Veteran, but often also intended for family members and caregivers to use for their own benefits. Past research and data shows that family members are going to the hub for their information and communication efforts across VA are aiming to bring family member information (and specifically survivor information) together to help make it easier for family members to understand and access their benefits. In addition, we are looking for ways to streamline the Veteran benefit hubs by simplifying structure and content to improve their experience - removing the family and caregiver content would be one way to potentially help that initiative.
+Family and caregiver benefit content, applications, and tasks are distributed across the Veteran benefit hubs. Furthermore, tools related to managing health care and benefits are mostly framed up for the Veteran, but often also intended for family members and caregivers to use for their own benefits. Past research and data shows that family members are going to the hub for their information and communication efforts across VA are aiming to bring family member information (and specifically survivor information) together to help make it easier for family members to understand and access their benefits. In addition, we are looking for ways to streamline the Veteran benefit hubs by simplifying structure and content to improve their experience - moving the family and caregiver content out of those sections would be one way to potentially help that initiative.
 
 We want to evaluate the approach of bringing all family and caregiver core benefit content into the family member hub to determine if it helps improve findability and overall experience for this audience. 
 
@@ -44,6 +44,7 @@ Are there moments that matter?
 ## Research Goals	
 
 Determine if moving family and caregiver related content under a single benefit hub for that audience will improve the discoverability and findability of relevant benefit information. 
+Determine if highlighting caregiver and survivor benefits helps improve discoverability and findability of those specific benefits. 
 
 ### Outcome
 Learnings will help refine how we organize and group information within the new family and caregiver hub. 
