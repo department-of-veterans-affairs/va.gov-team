@@ -109,7 +109,7 @@ All participants:
 - Must be willing to share a web browser window on the Zoom call
 - Must have a working microphone
 - Must have Zoom downloaded to their computer or mobile phone prior to the session and know how to share their screen
-- Must have signed into VA.gov or MHV, for any reason and need to know their login information 
+- Must have signed into VA.gov or My HealtheVet, for any reason and need to know their login information 
 
 Some participants:
 
