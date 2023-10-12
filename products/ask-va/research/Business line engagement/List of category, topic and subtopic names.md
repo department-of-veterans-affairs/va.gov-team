@@ -180,12 +180,12 @@ This list has been discussed and agreed upon by all business lines ([review list
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
-|`Topic`|Advanced Planning for Veterans, Spouses, and Dependents in a National Cemetery|Pre-need eligibility for burial|
-|`Topic`|Burial Benefits – Survivors’ Benefits and Funeral Expenses Reimbursement|Burial allowance|
+|`Topic`|Advanced Planning for Veterans, Spouses, and <br> Dependents in a National Cemetery|Pre-need eligibility for burial|
+|`Topic`|Burial Benefits – Survivors’ Benefits and Funeral <br> Expenses Reimbursement|Burial allowance|
 |`Topic`|(New)|Burial allowance for unclaimed Veteran remains|
 |`Topic`|Burial in National Cemetery|Burial in a VA national cemetery|
 |`Topic`|VA Grant Funded Cemetery|Burial in a VA grant-funded state or tribal cemetery|
-|`Topic`|Memorial Products – Headstones, Markers, and Medallions for non-national cemeteries, Urns and Plaque|Memorial items|
+|`Topic`|Memorial Products – Headstones, Markers, and Medallions <br> for non-national cemeteries, Urns and Plaque|Memorial items|
 |`Topic`|National Cemetery Administration - General|Other|
 
 `Topic`: Memorial items
