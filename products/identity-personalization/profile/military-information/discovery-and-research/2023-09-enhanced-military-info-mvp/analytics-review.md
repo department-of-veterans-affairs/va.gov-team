@@ -31,5 +31,12 @@ From this report, we can extrapolate the following:
 - The primary things people want to do from this page are get official copies of their DD214 or other discharge papers, and get their health records.
 - Similar to the referral sources, none of the next-pages received a high volume of traffic if we look at raw numbers.
 
-![Navigation summary for 4.11.23 - 10.10.23 image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/images/Navigation%20summary_get%20your%20military%20service%20records%20content%20page.jpeg)
+![Navigation summary for military service record content page 4.11.23 - 10.10.23](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/images/Navigation%20summary_get%20your%20military%20service%20records%20content%20page.jpeg)
 
+### [Disability claim form: Review your military history](www.va.gov/disability/file-disability-claim-form-21-526ez/review-veteran-details/military-service-history/)
+
+Navigation summary for 4.11.23 - 10.10.23](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230411&_u.date01=20231010&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fdisability~2Ffile-disability-claim-form-21-526ez~2Freview-veteran-details~2Fmilitary-service-history~2F&_r.tabId=navigationsummary/)
+
+- No real surprises here -- all the previous/next pages are within the 526EZ. Note people aren't going to their profile to look for military history while filling out this form, and why would they? We don't have any information that's not already supported by prefill, and there's no link from the 526EZ to the profile (nor should there be).
+
+![Navigation summary for 526EZ review military service 4.11.23 - 10.10.23](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/images/Navigation%20summary_526EZ%20military%20history.jpeg)
