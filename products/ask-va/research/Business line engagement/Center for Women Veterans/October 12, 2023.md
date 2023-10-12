@@ -1,4 +1,4 @@
-# October 12, 2023: Center for Women Veterans business line review
+# October 12, 2023: Meeting with the Center for Women Veterans and VA.gov content
 
 *Ask VA Integration Team*
 
