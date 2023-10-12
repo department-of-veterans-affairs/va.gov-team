@@ -6,9 +6,11 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] **Assign and confirm note-takers:** This should include a member of your team but could include others. Ask your notetaker(s) to review guidance on taking notes. If you can’t find someone to take notes, Perigean is available to assist. Learn how to prepare for Perigean to take notes.
+- [ ] **Assign and confirm note-takers:** This should include a member of your team but could include others. Ask your notetaker(s) to review [guidance on taking notes](https://depo-platform-documentation.scrollhelp.site/research-design/notetaker-guidelines). If you can’t find someone to take notes, Perigean is available to assist. [Learn how to prepare for Perigean to take notes](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-prepare-for-perigean-to-take-notes).
 - [ ] **Prepare for note-taking:** Create a “session-notes” folder within your research study Github folder and store each session as a .md document. Copy the conversation guide over to your .md file before each session so that you have a structured way to capture your notes.
-- [ ] Step 3
+- [ ] **Invite observers:** Invite your team and stakeholders to sessions. [Limit your observers](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#creating-a-safe-space-for-participants) to 3-4 per session so participants aren’t overwhelmed. You should empower participants by allowing them to decide if they are comfortable having observers. Ask observers to review information about [observer guidelines and attendance etiquette](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html).
+- [ ] **Prepare as a moderator:** Be familiar with the conversation guide, study implement(s), and prototype(s). Review [tips on moderating, guidelines for recording sessions](https://depo-platform-documentation.scrollhelp.site/research-design/Recording-User-Research-Sessions.2050949305.html),and guidance on [participant and researcher safety and exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+- [ ] If we have access to participant communications or reconfirm with Perigean that the participant has been informed of technology requirements.
 
 
 ### Day of the session
@@ -38,7 +40,7 @@ Today we're going to talk about [description of your project].
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 60 minutes.** We're scheduled for 60 minutes and I want to respect your time, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
