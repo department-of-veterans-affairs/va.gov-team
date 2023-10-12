@@ -772,7 +772,7 @@ Success alert:
 
 ### Your information for Board Appeal
 
-#### Your NAME
+#### Your name
 Veteran Name 
 
 #### Date you filed your claim
@@ -789,7 +789,7 @@ Button: **Print this for your records**
 
 ### What to expect next
 
-You will receive a confirmation email with a link to a copy of your completed form. These documents are for your records only. We ask that you don’t send us another copy. 
+You'll receive a confirmation email with a link to a copy of your completed form. These documents are for your records only. We ask that you don’t send us another copy of your form. 
 
 If we need more information, we'll contact you to tell you what other information you'll need to submit. We’ll also tell you if we need to schedule an exam or hearing for you.
 
@@ -807,7 +807,7 @@ Or call us at 1-800-827-1000 (TTY:711).
 
 Button: [Track the status of your appeal]
 
-**Note:** Please allow some time for your appeal to process through our system. It could take 7 to 10 days for it to show up in our claim status tool.
+**Note:** Please allow some time for your appeal to process through our system. It could take 7 to 10 days before it's listed in our claim status tool.
 
 ---
 ## Error
@@ -907,9 +907,9 @@ User tries to submit with missing/invalid information:
 
 Dear ((first_name)),
 
-We’ve received your Board Appeal application (VA 10182 Notice of Disagreement).
+We’ve received your request for a Board Appeal (VA 10182).
 
-To check your appeal status, go to https://www.va.gov/claim-or-appeal-status/ to sign in to our claim status tool. Please allow at least 7-10 days for your Board Appeal to show up there.
+To check your appeal status, go to https://www.va.gov/claim-or-appeal-status/ to sign in to our claim status tool. Please allow some time for your appeal to process through our system. It could take 7 to 10 days before it’s listed in our claim status tool.
 
 **Your Appeal details are below:**
 
@@ -921,11 +921,11 @@ Board Appeal
 
 [Download a copy of your Board Appeal (PDF)](#)
 
-**Note:** You will need to sign in to access to this PDF. This link will remain active for 10 days.
+**Note:** You'll need to sign in to access to this PDF. This link will remain active for 10 days.
 
 These documents are for your records only. We ask that you don’t send us another copy. 
 
-If we have questions or need more information, we may contact you. We’ll notify you once we have processed your Board Appeal. If you need to contact us please visit https://va.gov or by phone: 1-800-827-1000.
+If we have questions or need more information, we may contact you. We’ll notify you once we have processed your Board Appeal. If you need to contact us, visit https://va.gov or by phone: 1-800-827-1000.
 
 Thank you for your service, 
 
