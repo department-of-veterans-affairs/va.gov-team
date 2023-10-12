@@ -11,8 +11,8 @@ This is listed in the order we propose the categories be in when we move to VA.g
 |Veteran Readiness and Employment|Veteran Readiness and Employment|
 |Pension (Non-Service-Connected Bens)|Pension|
 |Home Loan Guaranty/All VA Mortgage Issues|Housing assistance and home loans|
-|Life Insurance|Life Insurance|
-|Burial & Memorial|Benefits (NCA)	Burials and memorials|
+|Life Insurance|Life insurance|
+|Burial & Memorial Benefits (NCA)|Burials and memorials|
 |Survivor Benefits|Survivor benefits|
 |Technical, Password and Access Problems|Sign in and technical issues|
 |Appeals of Denied Claims|Decision reviews and appeals|
