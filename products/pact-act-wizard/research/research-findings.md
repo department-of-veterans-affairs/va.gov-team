@@ -168,14 +168,14 @@ Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
 [Interview notes](./notes)
 
 
-## Tools used for Synthesis
+### Tools used for synthesis
 
 [Synthesis spreadsheet TBD]()
 
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695248543925/d04d52d1f06a9edb2217447cc526a2b7cef4b613?sender=uff8fa85716c1796ccf022668)
 
 
-## Pages and applications used
+### Content references
 [Wizard branching logic flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692989444688/0044b9825c82d8d23920601f68c41a61d047d681?sender=uff8fa85716c1796ccf022668)
 
 [Content document](https://dvagov-my.sharepoint.com/:w:/r/personal/danielle_thierry_va_gov/Documents/PACT%20Act%20wizard%20content%20for%20usability%20testing.docx?d=wfee483299a674f38ac4ec198c9cca463&csf=1&web=1&e=yCdUBN)
