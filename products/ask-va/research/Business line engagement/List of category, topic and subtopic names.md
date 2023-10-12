@@ -207,3 +207,39 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Topic`|Guardianship or Custodianship Issues|Guardianship, custodianship, or fiduciary issues|
 |`Topic`|Issues/Questions about Benefits received|Issue with benefit payment|
 |`Topic`|Status of a Pending Claim|Checking claim status|
+
+## Sign in and technical issues
+
+**PENDING APPROVAL**
+
+`Category`: Sign in and technical issues
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Life Insurance Password/Access Problem|Signing in to VA life insurance portal|
+|`Topic`|VA Dept Website Tech Issues (va.gov)|Technical issues on VA.gov|
+|`Topic`|VA.gov Account Technical Issue|Signing in to VA.gov|
+|`Topic`|(New)|igning in to other websites (like milConnect, AccessVA, or My HealtheVet)|
+
+`Topic`: Technical issues on VA.gov
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|Can I get a link on VA site to my site|Request for VA.gov to link to another website|
+|`Subtopic`|Correction to posted information needed|Report incorrect information on VA.gov|
+|`Subtopic`|eBenefits Technical Support|Help with eBenefits|
+|`Subtopic`|May I link to www.va.gov|Request to link to VA.gov from another website|
+|`Subtopic`|Report Broken Links (provide link inform)|Report a broken link on VA.gov|
+|`Subtopic`|Unable to access web page|Help accessing a page on VA.gov|
+|`Subtopic`|Use of images on VA websites|Use of images on VA websites|
+|`Subtopic`|Use of VA logo or VA seal|Use of VA logo or VA seal|
+|`Subtopic`|All other Web related technical issues|Other|
+
+`Topic`: Signing in to VA.gov
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|Address Issue|Changing address in VA.gov profile|
+|`Subtopic`|Cannot Login|Signing in to VA.gov|
+|`Subtopic`|Claim Access Issue|Checking claim status or accessing saved claim|
+|`Subtopic`|Other Technical Issue|Other|
