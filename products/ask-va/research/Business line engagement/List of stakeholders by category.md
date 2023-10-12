@@ -16,8 +16,8 @@
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Kendra Stewart|Work study|
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Kevin White|Work study|
 |`Disability compensation` <br> `Benefits issues outside the U.S.`|Scott Hadley|NCC (National Call Center)|
-|`Disability compensation` <br> `Benefits issues outside the U.S.`|Robert Eakman|VBA-OTED (Office of Transition & Economic Development)|
-|`Disability compensation` <br> `Benefits issues outside the U.S.` <br> `Burials and memorials` <br> `Debt` <br> `Decisions reviews and appeals`|Breon Johnson|VBA-ART (Veterans Benefits Administration All Response Team)|
+|`Disability compensation` <br> `Benefits issues outside the U.S.`|Robert Eakman|VBA-OTED|
+|`Disability compensation` <br> `Benefits issues outside the U.S.` <br> `Burials and memorials` <br> `Debt` <br> `Decisions reviews and appeals` <br> `Guardianship, custodianship, or fiduciary issues`|Breon Johnson|VBA-ART|
 |`Burials and memorials`|Jennifer Kelly|NCA (National Cemetery Administration)|
 |`Center for Minority  Veterans`|Carl McPherson|CMV (Center for Minority Veterans)|
 |`Center for Minority  Veterans`|Dennis May|CMV (Center for Minority Veterans)|
@@ -31,3 +31,5 @@
 |`Decisions reviews and appeals`|Amanda Baker|BVA (Board of Veterans' Appeals)|
 |`Decisions reviews and appeals`|Keturah Harley|BVA (Board of Veterans' Appeals)|
 |`Decisions reviews and appeals`|Katherine Forde|BVA (Board of Veterans' Appeals)|
+|`Guardianship, custodianship, or fiduciary issues`|Jennifer Feuer|P&F (Pension & Fiduciary)|
+|`Guardianship, custodianship, or fiduciary issues`|Angelita Taylor|P&F (Pension & Fiduciary)|
