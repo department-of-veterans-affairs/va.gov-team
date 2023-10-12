@@ -6,7 +6,7 @@ Agenda:
 *   Discuss progress and risks for Q3 work
 
 ## 10/12/23
-*   Review Design System Service Blueprint drafts
+*   Discuss Review/Feedback process (based on Service Blueprint work)
 *   Discuss QA process/Release Mgmt strategy
 
   
