@@ -35,7 +35,7 @@ From this report, we can extrapolate the following:
 
 ### [Disability claim form: Review your military history](www.va.gov/disability/file-disability-claim-form-21-526ez/review-veteran-details/military-service-history/)
 
-Navigation summary for 4.11.23 - 10.10.23](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230411&_u.date01=20231010&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fdisability~2Ffile-disability-claim-form-21-526ez~2Freview-veteran-details~2Fmilitary-service-history~2F&_r.tabId=navigationsummary/)
+[Navigation summary for 4.11.23 - 10.10.23](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230411&_u.date01=20231010&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fdisability~2Ffile-disability-claim-form-21-526ez~2Freview-veteran-details~2Fmilitary-service-history~2F&_r.tabId=navigationsummary/)
 
 - No real surprises here -- all the previous/next pages are within the 526EZ. Note people aren't going to their profile to look for military history while filling out this form, and why would they? We don't have any information that's not already supported by prefill, and there's no link from the 526EZ to the profile (nor should there be).
 
