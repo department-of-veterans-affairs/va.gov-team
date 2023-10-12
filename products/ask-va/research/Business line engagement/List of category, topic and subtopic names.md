@@ -13,7 +13,7 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Category`|Education (Ch.30, 33, 35, 1606, etc. & Work Study)|[Education benefits and work study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#education-benefits-and-work-study)|
 |`Category`|Veteran Readiness and Employment|[Veteran Readiness and Employment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#veteran-readiness-and-employment)|
 |`Category`|Pension (Non-Service-Connected Bens)|[Pension](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#pension)|
-|`Category`|Home Loan Guaranty/All VA Mortgage Issues|Housing assistance and home loans|
+|`Category`|Home Loan Guaranty/All VA Mortgage Issues|[Housing assistance and home loans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#housing-assistance-and-home-loans)|
 |`Category`|Life Insurance|Life insurance|
 |`Category`|Burial & Memorial Benefits (NCA)|Burials and memorials|
 |`Category`|Survivor Benefits|Survivor benefits|
@@ -139,3 +139,18 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Topic`|Guardianship or Custodianship Issues|Guardianship, custodianship, or fiduciary issues|
 |`Topic`|Issues/Questions about pension received|Issue with payment|
 
+## Housing assistance and home loans
+
+`Category`: Housing assistance and home loans
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Appraisals|Appraisals|
+|`Topic`|Home Loan funding fee refund|Funding fee refund|
+|`Topic`|Home Loan/Mortgage Certificates of Eligibility|Home Loan Certificate of Eligibility (COE) or Restoration of Entitlement (ROE)|
+|`Topic`|Mortgage Payment Assistance/Foreclosure|Help to avoid foreclosure|
+|`Topic`|Native American Direct Loan|Native American Direct Loan (NADL)|
+|`Topic`|Specially Adapted Housing grant|Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants|
+|`Topic`|VA Home Loan benefit|Home loan benefits|
+|`Topic`|VA Property Management - Homes for Sale/VA Real Estate Owned Properties|Homes for sale by VA|
+|`Topic`|VA Property Management Oversight Unit - Title and Tax Issues|Property titles and taxes for homes sold by VA|
