@@ -11,7 +11,7 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Category`|VA Health Care|[Health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#health-care)|
 |`Category`|Compensation (Service-Connected Bens)|[Disability compensation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#disability-compensation)|
 |`Category`|Education (Ch.30, 33, 35, 1606, etc. & Work Study)|[Education benefits and work study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#education-benefits-and-work-study)|
-|`Category`|Veteran Readiness and Employment|Veteran Readiness and Employment|
+|`Category`|Veteran Readiness and Employment|[Veteran Readiness and Employment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#veteran-readiness-and-employment)|
 |`Category`|Pension (Non-Service-Connected Bens)|Pension|
 |`Category`|Home Loan Guaranty/All VA Mortgage Issues|Housing assistance and home loans|
 |`Category`|Life Insurance|Life insurance|
