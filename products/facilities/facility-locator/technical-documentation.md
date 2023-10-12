@@ -15,6 +15,8 @@
  
 
 ### Links to dashboards that help identify and debug application issues
+#### Datadog Dashbaord
+ - [Facilities Alerting Dashboard including Facility-Locator API resources](https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/sitewide-facilities)
 #### Grafana Dashboards
  - [VSP/Forward Proxy](http://grafana.vfs.va.gov/d/000000032/forward-proxy?orgId=1)
  - [Facility Locator(PPMS)](http://grafana.vfs.va.gov/d/000000048/facility-locator-ppms?orgId=1)
@@ -74,6 +76,23 @@ Used for searches in which Facility type =
 **/facilities_api/v1/ccp/urgent_care** 
 Used for searches in which Facility type =
 - Urgent care + Service type = Community urgent care (in VA’s network)
+
+### Monitors for Facility-Locator and Facilities pages
+**/v1/facilities/va and /facilities_api/v1/ccp/*** 
+- [Joins CCP and Facility lookup because they both use the same consumer](https://vagov.ddog-gov.com/monitors/161751)
+- Warning currently set at 400 req/minute and alert at 450 req/minute
+- Warnings and Alerts sent to #facilities-monitoring on DSVA slack.
+**/v1/facilities/va**
+- [Facility lookup 500 Errors](https://vagov.ddog-gov.com/monitors/164800)
+- This determines if errors on the endpoint are above 5/minute for a warning and 15 for an alert.
+- Warnings and Alerts sent to #facilities-monitoring on DSVA slack.
+**/facilities_api/v1/ccp/**
+- [CCP lookup 500 Errors](https://vagov.ddog-gov.com/monitors/168062)
+- This determines if errors on the endpoint are above 5/minute for a warning and 15 for an alert.
+- Warnings and Alerts sent to #facilities-monitoring on DSVA slack.
+
+**Why /v1/facilities/va and not /facilities_api/v1/va**
+In Datadog, /facilities_api/v1/va yields the same data /v1/facilities/va does. The endpoint we use in the app is /v1/facilities/va and so for clarity's sake, this metric source was used.
 
 ### Interactions with dependent VA backends
 
