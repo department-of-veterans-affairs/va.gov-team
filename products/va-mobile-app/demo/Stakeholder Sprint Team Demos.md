@@ -16,7 +16,7 @@ Agenda
 [Travel-Reimbursement.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12882995/Travel-Reimbursement.pdf)
 
 
-- Video - [](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/demo)
+- Video - [(https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/demo)]
   
 ---  
 **Demo Sprint 80 9/27/23** 
