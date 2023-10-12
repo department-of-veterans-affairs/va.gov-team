@@ -128,6 +128,16 @@ All 9 participants had an overall positive experience using the PACT Act Wizard.
 
 > *"It follows a logical pattern--if/then. There's a clear button to take me to the next question...There's not a lot of choices. It flows smartly. And if I need to go back a page, that page is available. It doesn't take me someplace else." (p9)*
 
+The prototype showed between 2 and 10 questions to each participant, based on their responses. If you answered "yes" to one of the burn pit or Agent Orange questions, you would skip the other questions in that section and might get a followup question. Below is a table showing the range and average number of questions seen by all participants and also broken down by service year category.
+
+Service years | # p's | # Q's seen | Avg # Q's seen 
+------------------|---------------------------------
+All  | 9 | 2-10 | 6
+1990 or later | 2 | 2 | 2
+1989 or earlier | 4 | 5-7 | 6
+Both | 3 | 8-10 | 8.7
+
+
 
 ### Usability Successes
 1. **Most participants were able to answer most of the wizard questions easily.**
