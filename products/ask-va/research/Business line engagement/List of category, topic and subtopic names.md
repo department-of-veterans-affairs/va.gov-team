@@ -15,7 +15,7 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Category`|Pension (Non-Service-Connected Bens)|[Pension](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#pension)|
 |`Category`|Home Loan Guaranty/All VA Mortgage Issues|[Housing assistance and home loans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#housing-assistance-and-home-loans)|
 |`Category`|Life Insurance|[Life insurance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#life-insurance)|
-|`Category`|Burial & Memorial Benefits (NCA)|Burials and memorials|
+|`Category`|Burial & Memorial Benefits (NCA)|[Burials and memorials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#burials-and-memorials)|
 |`Category`|Survivor Benefits|Survivor benefits|
 |`Category`|Technical, Password and Access Problems|Sign in and technical issues|
 |`Category`|Appeals of Denied Claims|Decision reviews and appeals|
@@ -173,3 +173,25 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Topic`|Veterans’ Mortgage Life Insurance|Veterans’ Mortgage Life Insurance (VMLI)|
 |`Topic`|(New)|Veterans Affairs Life Insurance (VALife)|
 |`Topic`|Other Issue|Other|
+
+## Burials and memorials
+
+`Category`: Burials and memorials
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Advanced Planning for Veterans, Spouses, and Dependents in a National Cemetery|Pre-need eligibility for burial|
+|`Topic`|Burial Benefits – Survivors’ Benefits and Funeral Expenses Reimbursement|Burial allowance|
+|`Topic`|(New)|Burial allowance for unclaimed Veteran remains|
+|`Topic`|Burial in National Cemetery|Burial in a VA national cemetery|
+|`Topic`|VA Grant Funded Cemetery|Burial in a VA grant-funded state or tribal cemetery|
+|`Topic`|Memorial Products – Headstones, Markers, and Medallions for non-national cemeteries, Urns and Plaque|Memorial items|
+|`Topic`|National Cemetery Administration - General|Other|
+
+`Topic`: Memorial items
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|(New)|Headstones, markers, medallions, and Presidential Memorial Certificates|
+|`Subtopic`|(New)|Burial flags|
+
