@@ -1,0 +1,40 @@
+# October 12, 2023: Women Veterans business line review
+
+*Ask VA Integration Team*
+
+## Agenda
+
+- Introductions
+- Confirm topic names
+- Discuss gender field
+- Confirm contact options
+- Confirm military service fields
+
+## Attendees
+
+- Our team: Tyler, Ruchi, Becky
+- Center for Women Veterans: Ana Claudio, Michelle Terry, Shannon Middleton, Liz Harrington
+- CRM team: Jaime, Shelby, Wayne, Maria
+- Not present: Missina Schallus
+
+## Key takeaways
+
+- We discussed the category and topic names at length, and the Center for Women Veterans (CWV)'s purpose as a policy office.
+  - Similar to the `Center for Minority Veterans` category and topic names, we have decided to try out a shorter topic list for the CWV.
+  - Category name: `Center for Women Veterans`
+     - Topic name: `Programs and policies`
+     - Topic name: `General question`
+  - We think this approach will ensure that Veterans can still come to the CWV when they prefer, but they aren't confused between choosing the CWV or another category due to the same topic name. This will also ensure we don't send the wrong message to Veterans, that only women need support with issues because they're only included in the CWV category, for example, `LGBTQ`. 
+- CWV confirmed we will not ask submitter's for their contact preference, instead we will let them know they should expect a reply via email. This means the CWV will reply, by default, through Ask VA (Dynamics), not their personal email. We will still always collect submitter's phone number too. But mailing address will not be collected.
+- CWV confirmed that military service information fields should match what VBA needs, in case they re-route an inquiry to them.
+
+## Actions
+
+- [ ] Becky: Review congressional mandate re: Gender
+- [ ] Tyler: Update military service information needs to match VBA
+
+## References
+
+- [Category, topic and subtopic proposed names spreadsheet](https://docs.google.com/spreadsheets/d/1AlUqvwn49ah2gHniTwx3x0afOPliKgURo575e73OH40/edit#gid=1192783561) we reviewed in Google Sheets.
+- [Contact options](https://dvagov.sharepoint.com/:x:/s/AskVA/EXmBT1ZIKIlBpzYSCR4SZNABPvjp04fE1HTVp7IvSMcHRQ?e=yVm5fm)
+- [Military service fields](https://dvagov.sharepoint.com/:x:/s/AskVA/EQ2g5jWBMeJMmMaENFHgqhEBPuAapzq3uxnTdpswe4uYGg?e=aS6Wob)
