@@ -1,4 +1,4 @@
-# Initiative Brief
+# Verify Your Enrollment Initiative Brief
 #### Overview
 
 <details>
