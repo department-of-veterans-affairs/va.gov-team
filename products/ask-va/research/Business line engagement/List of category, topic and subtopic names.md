@@ -12,7 +12,7 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Category`|Compensation (Service-Connected Bens)|[Disability compensation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#disability-compensation)|
 |`Category`|Education (Ch.30, 33, 35, 1606, etc. & Work Study)|[Education benefits and work study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#education-benefits-and-work-study)|
 |`Category`|Veteran Readiness and Employment|[Veteran Readiness and Employment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#veteran-readiness-and-employment)|
-|`Category`|Pension (Non-Service-Connected Bens)|Pension|
+|`Category`|Pension (Non-Service-Connected Bens)|[Pension](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#pension)|
 |`Category`|Home Loan Guaranty/All VA Mortgage Issues|Housing assistance and home loans|
 |`Category`|Life Insurance|Life insurance|
 |`Category`|Burial & Memorial Benefits (NCA)|Burials and memorials|
@@ -126,3 +126,16 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Topic`|How to Apply|How to apply|
 |`Topic`|Requesting Follow Up / Contact|Follow up on application or contact counselor|
 |`Topic`|General Information|Other|
+
+## Pension
+
+`Category`: Pension
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Aid and Attendance Benefits|Aid and Attendance or Housebound benefits|
+|`Topic`|Direct Deposit or Payment related inquiry|Direct deposit|
+|`Topic`|Filing for pension benefits|How to apply for pension benefits|
+|`Topic`|Guardianship or Custodianship Issues|Guardianship, custodianship, or fiduciary issues|
+|`Topic`|Issues/Questions about pension received|Issues with payments|
+
