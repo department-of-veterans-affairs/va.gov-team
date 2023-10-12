@@ -314,3 +314,50 @@ This list has been discussed and agreed upon by all business lines ([review list
 |:--|:--|:--|
 |`Topic`|Add requests|Adding requests|
 |`Topic`|Update DEERS|Updating DEERS records|
+
+## Center for Women Veterans
+
+`Category`: Center for Women Veterans
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|(New)|Programs and policies|
+|`Topic`|(New)|General question|
+
+## Center for Minority Veterans
+
+`Category`: Center for Minority Veterans
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|(New)|Programs and policies|
+
+## Veteran ID Card (VIC)
+
+`Category`: Veteran ID Card (VIC)
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Veteran ID (Retailer Discount)|Veteran ID Card (VIC) for discounts|
+|`Topic`|Veteran Health ID (VHIC – Facility Access/Check-In)|Veteran Health Identification Card (VHIC) for health appointments|
+
+`Topic`: Veteran ID Card (VIC) for discounts
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|Application Status|Checking application status|
+|`Subtopic`|Eligibility|Eligibility|
+|`Subtopic`|Login Error/Records not found|Sign in issue or records not found|
+|`Subtopic`|Other ways to apply|How to apply|
+|`Subtopic`|Replacement Request|Replacement card|
+|`Subtopic`|Unable to submit application|Trouble submitting application|
+|`Subtopic`|Unable to upload picture/service documents|Trouble uploading photos or documents|
+|`Subtopic`|Other|Other|
+
+`Topic`: Veteran Health Identification Card (VHIC) for health appointments
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|Military Base Access|Military base access|
+|`Subtopic`|Replacement Card|Replacement card|
+|`Subtopic`|Other|Other|
