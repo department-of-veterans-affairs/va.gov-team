@@ -33,7 +33,8 @@
 ## Actions
 
 - [ ] Becky: Review congressional mandate re: Gender
-- [ ] Tyler: Update military service information needs to match VBA
+- [ ] Tyler: Update contact options spreadsheet to `ENABLE` email and `DISABLE` phone/US Mail
+- [ ] Tyler: Update military service information spreadsheet to match VBA
 
 ## References
 
