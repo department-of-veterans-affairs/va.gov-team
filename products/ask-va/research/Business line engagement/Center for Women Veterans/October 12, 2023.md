@@ -12,7 +12,7 @@
 
 ## Attendees
 
-- Our team: Tyler Gindraux, Ruchi Shah, Becky Phung
+- Ask VA Integration team: Tyler Gindraux, Ruchi Shah, Becky Phung
 - VA.gov content: Laura Willwerth
 - Center for Women Veterans: Ana Claudio, Michelle Terry, Shannon Middleton, Liz Harrington
 - CRM team: Jaime Rocha, Shelby Carl, Wayne Eberly, Maria King
