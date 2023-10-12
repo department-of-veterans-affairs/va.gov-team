@@ -1,21 +1,5 @@
 # List of Frontend/Backend Interactions
 
-## Prefill Info 
-
-<details>
-  
-  ### Description
-  Get info for the veteran to pre-populate information on the form 
-  ### External System(s)
-  Vet360 (mailing address)
-  BGS (file number last 4) 
-  ### Number of Occurences per Submission 
-  Always 1 per submission 
-  ### Possible Responses and action from frontend upon response
-  XXXXX
-    
-</details>
-
 ## Get Contestable Issues
 
 <details>
