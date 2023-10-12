@@ -1,3 +1,55 @@
+## Meeting Notes for CRM Sync on 10/12/2023
+
+Analytics; Refactoring Categories/Topics/Subtopics
+
+### Attendees:
+
+* **Integration Team:** Ruchi, Khoa, Joe, Becky
+* **CRM Team:** Chris, Joseph Duty, Shelby, Tina
+* **Note Taker:** Ruchi
+
+### Key Takeaways:
+
+**The two pieces of information for the KPIs of the current AVA application:**
+
+1. The time it takes for a submitter to submit an inquiry
+  * If an inquiry  was submitted, how long did it take from the start of a session to the end of the session?
+  * For submitters that submitted an inquiry, what is the average time that it took them from the time that they landed on the ask.va.gov page to the time that they clicked submit?
+  * For submitters that submitted an inquiry, what is the average time that it took them from the time the NEXT button is clicked in "Tell us about your question" page to the time that they clicked submit?
+> >  _Data collected should include the submitter's device and whether they were authenticated or not._
+2. The percentage of users that complete the journey to submit their inquiry
+  * What percentage of submitters completed the user journey once beginning the session?
+  * Numerator: Submitters that completed the journey (the submission confirmation page).
+  * Denominator: Total number of submitters that click the NEXT button on “Tell us about your question” page. (This shows intent to submit an inquiry.)
+> >  _Data collected should include the submitter's device and whether they were authenticated or not._
+
+**Four levels of changes identified so far:**
+
+* Minimal: Name change only. No impact to routing.
+* Low-mid: Name changes on situations where it impacts rules on other fields.
+* Low-Mid: Remove topic or subtopic. Need to figure out if archival is needed or transferred. 
+* Low-mid: Add-Topic or subtopic. Impact to routing.
+* High-Mid: Remove or add topic or subtopic. Existing queue needs to be added.
+* Most: Remove or add topic or subtopic. An entirely new queue needs to be created.
+> To mitigate instances where a name change might affect routing, the Dynamics APIs will track a new column (e.g. 'name_on_portal') with the va.gov UI's expected name for the selection. When that column has a NULL, the query will coallese back to the legacy name. The Dynamics APIs will handle mapping those values back to the originating row.
+> 
+> JOE: In this scenario, we could just pass the key back in. No need for the mapping in Dynamics APIs since this isn't a piece of data that conflicts with the va.gov sources &mdash; it only lives in Dynamics. We WILL need that new column for the name on portal, though.
+
+**Where does the source of truth live?**
+
+* Dynamics &mdash; We need to collaborate on each situation to make sure that we understand the ins and outs of each change.
+> JOE: There are some data items that **MUST** be pulled from Dynamics. But, there are several pieces of data that we plan to pull from the va.gov APIs. That distinction will be documented in the API Contract documentation next week.
+
+### Action Items:
+
+- [ ] JD and the va.gov AVA integration team will look for folks with KQL (Kusto Query Language) experiennce to help massage the data needed for KPIs.
+- [ ] Joe - Present API Docs and granular project plan to this meeting next Tuesday (10/17), Thursday at the latest.
+- [ ] Joe - Incorporate the steps for "done" in the granular project timeline.
+
+
+----
+
+
 ## Meeting Notes for CRM Sync on 10/10/2023
 
 Update on API Doc status; Medallia meeting; Google Analytics; MSFT Teams housekeeping.
