@@ -767,9 +767,8 @@ VA Form 10182 (Notice of Disagreement)
 
 Success alert:
 
-## We’ve received your Board Appeal application
-
-After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
+    Header: We’ve received your Board Appeal application
+    Body: After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
 
 ### Your information for Board Appeal
 
