@@ -26,8 +26,10 @@ These are the number of pageviews for any page that appears in the top 250 pages
 
 From this report, we can extrapolate the following:
 
-- The profile is a major referral source for this page. This isn't surprising, as we directly link to it for people looking for their DD214 and other discharge papers.
-- The primary things people want to do from this page are get official copies of their DD214 or other discharge papers, and get their health records. 
+- The profile is the second-most common referral source for this page. This isn't surprising, as we directly link to it for people looking for their DD214 and other discharge papers.
+- However, given that the total pageviews for this page was over 1.5MM in the time period we are looking at, no single referral source drove a large amount of volume to this page in terms of raw numbers. This is interesting, because it lessens the strength of the relationship between this page and any of its referral sources.
+- The primary things people want to do from this page are get official copies of their DD214 or other discharge papers, and get their health records.
+- Similar to the referral sources, none of the next-pages received a high volume of traffic if we look at raw numbers.
 
 ![Navigation summary for 4.11.23 - 10.10.23 image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/images/Navigation%20summary_get%20your%20military%20service%20records%20content%20page.jpeg)
 
