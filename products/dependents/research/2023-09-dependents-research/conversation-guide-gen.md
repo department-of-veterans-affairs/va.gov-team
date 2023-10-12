@@ -6,8 +6,8 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] **Assign and confirm note-takers:** This should include a member of your team but could include others. Ask your notetaker(s) to review guidance on taking notes. If you can’t find someone to take notes, Perigean is available to assist. Learn how to prepare for Perigean to take notes.
+- [ ] **Prepare for note-taking:** Create a “session-notes” folder within your research study Github folder and store each session as a .md document. Copy the conversation guide over to your .md file before each session so that you have a structured way to capture your notes.
 - [ ] Step 3
 
 
