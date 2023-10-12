@@ -115,3 +115,14 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Subtopic`|Position Description|Position description|
 |`Subtopic`|Signed Contracts|Signed contract|
 |`Subtopic`|Time Cards|Time card|
+
+## Veteran Readiness and Employment
+
+`Category`: Veteran Readiness and Employment
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Financial Issues|Financial issues|
+|`Topic`|How to Apply|How to apply|
+|`Topic`|Requesting Follow Up / Contact|Follow up on application or contact counselor|
+|`Topic`|General Information|Other|
