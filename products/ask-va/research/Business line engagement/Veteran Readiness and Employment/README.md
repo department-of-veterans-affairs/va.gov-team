@@ -10,7 +10,7 @@ Veteran Readiness and Employment
 |:--|:--|
 |David Smith|VR&E (Veteran Readiness and Employment)|
 |Krystal Connor|VR&E (Veteran Readiness and Employment)|
-|Robert Eakman|VR&E (Veteran Readiness and Employment)|
+|Robert Eakman|VBA-OTED (Office of Transition & Economic Development)|
 |Breon Johson|VBA-ART (Veterans Benefits Administration All Response Team)|
 
 ### Engagements
