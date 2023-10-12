@@ -9,7 +9,10 @@ Attendees: Jessica, Katelyn, Hieu, Kristen
 
 - Reviewed Registration Flow Exploration and Matrix comparrison work and discussed the pros/cons/differences between each of these
 - Also talked about variations of the flows and what would make sense MVP term and ideal state, what mvp could build up/set the foundation for the ideal state
-- Decided on a flow variation where on the intro page there is a Veteran and non-Veteran split/ action links 
+- Decided on a flow variation where on the intro page there is a Veteran and non-Veteran split/ action links, followed by a prioritization wizard.
+  - Followed by a prioritization wizard
+  - Consider the short-form as part of the MVP
+- The business logic (unauthenticated) flow is the backup.
 - Next steps to create wireflow of mvp direction and share back with team
 
 
