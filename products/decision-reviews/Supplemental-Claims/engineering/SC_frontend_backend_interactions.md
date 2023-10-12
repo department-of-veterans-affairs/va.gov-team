@@ -1,21 +1,25 @@
 # List of Frontend/Backend Interactions
 
-## Prefill Info 
-<details>
-  
-  ### Description
-  (possibly does not belong on this list,  this action happens entirely in the backend, there is not call for this I dont think? Have to talk to Robin)
+## Get Contestable Issues
 
-  Get info for the veteran to pre-populate information on the form 
+<details>
+
+  ### Description
+  Gets a list of contestable issues the veteran can choose from for this claim
   ### External System(s)
-  Vet360 (mailing address)
-  BGS (file number last 4) 
+  Lighthouse
   ### Number of Occurences per Submission 
-  Always 1 per submission 
+  1 per submission
   ### Possible Responses and action from frontend upon response
-  XXXXX
-    
+  
+  #### 200 Success 
+  Shows list of contestable issues
+
+  #### Any other response
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/cf41503b-68a3-40e9-8096-fb15f24f4b32)
+
 </details>
+
 
 
 ## Intent to File (check) 
@@ -89,25 +93,7 @@
   
 </details>
 
-## Get Contestable Issues
 
-<details>
-
-  ### Description
-  Gets a list of contestable issues the veteran can choose from for this claim
-  ### External System(s)
-  Lighthouse
-  ### Number of Occurences per Submission 
-  1 per submission
-  ### Possible Responses and action from frontend upon response
-  
-  #### 200 Success 
-  Shows list of contestable issues
-
-  #### Any other response
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/cf41503b-68a3-40e9-8096-fb15f24f4b32)
-
-</details>
 
 ## Overall Supplemental Claim Submission
 
@@ -146,6 +132,7 @@
   ### Number of Occurences per Submission 
   Many per submission
   ### Possible Responses and action from frontend upon response
+
 
   #### 200 Success
   ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/7f56ad4e-27f2-42f0-a4b3-ed6824125380)
