@@ -9,7 +9,7 @@ Disability compensation
 
 |Stakeholder|Business area|
 |:--|:--|
-|Robert Eakman|NCC (National Call Center)|
+|Robert Eakman|VBA-OTED (Office of Transition & Economic Development)|
 |Breon Johnson|VBA-ART (Veterans Benefits Administration All Response Team)|
 
 ### Engagements
