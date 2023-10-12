@@ -1,4 +1,4 @@
-# Reason for appointment - VA Direct Schedule Flow
+# Reason for appointment - Community Care Request Flow
 
 ## Overview
 Veterans are asked the reason for their appointment. 
@@ -34,7 +34,7 @@ Veterans are asked the reason for their appointment.
 
 [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=0-3241&mode=design) 
 
-[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-va.md#reason-for-appointment)
+[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/request-cc.md#reason-for-appointment)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
