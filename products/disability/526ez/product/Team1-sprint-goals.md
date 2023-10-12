@@ -12,13 +12,8 @@ Period - 10/11/2023 - 10/24/2023
         - Submit
           - [ ] Identify and resurface outstanding migration issues
           - Benefits Claims Service
-            - [ ] Canary launch?
-            - [ ] Start staggered release at .1%
-          - PPIU 
-            - [ ] Release Plan
+            - [ ] DD Dashboard
           - [ ] Tech Discovery - Military Service Address
-          - Dashboard for migration release monitoring
-              - [ ] Build DD Dashboard widgets for monitoring controller activities
 - **Features**
    - 526ez changes to Intro pages
       - [ ] Intro pages - review flow changes - Design
@@ -26,7 +21,6 @@ Period - 10/11/2023 - 10/24/2023
 
    - 526ez sync with paper version 
        - [ ] Design for Wireframes for new military service questions
-       - [ ] Audit of all changes as part of this sync
          
 - **Stretch Goals**
   - Engineering
@@ -34,7 +28,7 @@ Period - 10/11/2023 - 10/24/2023
        - [ ] Release plan
   - Research
      - Teams 1 & 2 research effort - Review medallia survey data - still in progress    
-
+     - Audit of all changes as part of paper sync
 
 ## Sprint 15
 Period - 09/27/2023 - 10/10/2023
