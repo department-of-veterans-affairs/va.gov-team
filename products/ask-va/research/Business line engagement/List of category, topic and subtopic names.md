@@ -210,7 +210,7 @@ This list has been discussed and agreed upon by all business lines ([review list
 
 ## Sign in and technical issues
 
-**PENDING APPROVAL**
+**THIS IS STILL PENDING APPROVAL**
 
 `Category`: Sign in and technical issues
 
@@ -243,3 +243,19 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Subtopic`|Cannot Login|Signing in to VA.gov|
 |`Subtopic`|Claim Access Issue|Checking claim status or accessing saved claim|
 |`Subtopic`|Other Technical Issue|Other|
+
+## Decision reviews and appeals
+
+`Category`: Decision reviews and appeals
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Appeal located at a regional office|Higher-Level Reviews or Supplemental Claims|
+|`Topic`|Appeal located specifically at BVA (DC)|Board Appeals|
+
+`Topic`: Board Appeals
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|Question about My Hearing|Questions about my hearing|
+|`Subtopic`|All other Questions|Other|
