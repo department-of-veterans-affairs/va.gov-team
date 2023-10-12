@@ -295,3 +295,22 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Subtopic`|School Officials ONLY|School Certifying Officials (SCOs)|
 |`Subtopic`|Work Study|Work study|
 |`Subtopic`|All Other|Other|
+
+## Guardianship, custodianship, or fiduciary issues
+
+`Category`: Guardianship, custodianship, or fiduciary issues
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Accounting Issues|Accounting issue|
+|`Topic`|Field Examination (Investigations)|Investigations and field examinations|
+|`Topic`|General Fiduciary Program Information|About the program|
+
+## DEERS (Defense Enrollment Eligibility Reporting System)
+
+`Category`: DEERS (Defense Enrollment Eligibility Reporting System)
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Add requests|Adding requests|
+|`Topic`|Update DEERS|Updating DEERS records|
