@@ -1,7 +1,7 @@
 # List of category, topic and subtopic names
 
 ## Categories
-This is listed in the order we propose the categories be in when we move to VA.gov/contact-us/ask-va.
+This is listed in the sequence we propose, when we move to VA.gov/contact-us/ask-va.
 
 |Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|
