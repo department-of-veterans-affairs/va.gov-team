@@ -29,7 +29,7 @@ We need to meet with business lines to determine which fields are required in or
 |Sign in and technical issues|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Sign%20in%20and%20technical%20issues)|
 |Survivor benefits|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Survivor%20benefits)|
 |Veteran ID Card (VIC)|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Veteran%20ID%20Card%20(VIC))|
-|Veteran Readiness and Employment|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/VR%26E)|
+|Veteran Readiness and Employment|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Veteran%20Readiness%20and%20Employment)|
 
 ## Research goals
 * Understand which fields are necessary in order for agents to deliver the service
