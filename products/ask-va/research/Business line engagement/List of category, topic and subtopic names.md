@@ -14,7 +14,7 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Category`|Veteran Readiness and Employment|[Veteran Readiness and Employment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#veteran-readiness-and-employment)|
 |`Category`|Pension (Non-Service-Connected Bens)|[Pension](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#pension)|
 |`Category`|Home Loan Guaranty/All VA Mortgage Issues|[Housing assistance and home loans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#housing-assistance-and-home-loans)|
-|`Category`|Life Insurance|Life insurance|
+|`Category`|Life Insurance|[Life insurance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#life-insurance)|
 |`Category`|Burial & Memorial Benefits (NCA)|Burials and memorials|
 |`Category`|Survivor Benefits|Survivor benefits|
 |`Category`|Technical, Password and Access Problems|Sign in and technical issues|
@@ -154,3 +154,22 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Topic`|VA Home Loan benefit|Home loan benefits|
 |`Topic`|VA Property Management - Homes for Sale/VA Real Estate Owned Properties|Homes for sale by VA|
 |`Topic`|VA Property Management Oversight Unit - Title and Tax Issues|Property titles and taxes for homes sold by VA|
+
+## Life insurance
+
+`Category`: Life insurance
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Insurance Claims|Insurance claims|
+|`Topic`|Insurance Premiums|Insurance premiums|
+|`Topic`|Insurance Web Site Technical Issues|Insurance website issues|
+|`Topic`|Online Policy Access Issues|Accessing your policy online|
+|`Topic`|Policy Loan|Policy loans|
+|`Topic`|Service Disabled Veterans’ Life Insurance|Service-Disabled Veterans Life Insurance (S-DVI)|
+|`Topic`|Servicemembers Group Life Ins (SGLI)|Servicemembers’ Group Life Insurance (SGLI)|
+|`Topic`|SGLI Family Coverage|Family Servicemembers’ Group Life Insurance (FSGLI)|
+|`Topic`|Veterans’ Group Life Insurance (VGLI)|Veterans’ Group Life Insurance (VGLI)|
+|`Topic`|Veterans’ Mortgage Life Insurance|Veterans’ Mortgage Life Insurance (VMLI)|
+|`Topic`|(New)|Veterans Affairs Life Insurance (VALife)|
+|`Topic`|Other Issue|Other|
