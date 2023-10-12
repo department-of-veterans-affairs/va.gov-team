@@ -137,5 +137,5 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Topic`|Direct Deposit or Payment related inquiry|Direct deposit|
 |`Topic`|Filing for pension benefits|How to apply for pension benefits|
 |`Topic`|Guardianship or Custodianship Issues|Guardianship, custodianship, or fiduciary issues|
-|`Topic`|Issues/Questions about pension received|Issues with payments|
+|`Topic`|Issues/Questions about pension received|Issue with payment|
 
