@@ -28,7 +28,17 @@
   ### Number of Occurences per Submission 
   Always 1 per submission 
   ### Possible Responses and action from frontend upon response
-  XXXXX
+  
+  #### Message shown for 200 response with no active ITFs
+  TODO
+  
+  #### Message shown for 200 response with existing active ITF
+  ![Message shown for 200 response with existing active ITF](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/d9a1953d-5cef-4d02-bd3c-1b4143976880)
+
+  
+  #### Error shown for responses other than 200 
+  ![Error shown for responses other than 200](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/ba037938-7092-4e84-8722-001aebaf069d)
+
     
 </details>
 
