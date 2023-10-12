@@ -74,7 +74,7 @@ Tools for Veterans to schedule or request appointments.
 | VA direct-schedule | [Confirm contact information](./schedule-flow/confirm-contact-information.md) |
 | VA direct-schedule | [Review and submit](./schedule-flow/review-and-submit-VA-direct-schedule.md) |
 | VA request | [Preferred date](./schedule-flow/preferred-date-VA-request.md) |
-| VA request | [Reason for appointment]() |
+| VA request | [Reason for appointment](./schedule-flow/reason-for-appointment-VA-request.md) |
 | VA request | [Method of attendance]() |
 | VA request | [Confirm contact information](./schedule-flow/confirm-contact-information-request.md) |
 | VA request | [Review and submit](./schedule-flow/review-and-submit-VA-request.md) |
@@ -82,7 +82,7 @@ Tools for Veterans to schedule or request appointments.
 | CC request | Closest city |
 | CC request | Choose a provider |
 | CC request | Choose a preferred language |
-| CC request | Reason for appointment |
+| CC request | [Reason for appointment](./schedule-flow/reason-for-appointment-CC.md) |
 | CC request | [Confirm contact information](./schedule-flow/confirm-contact-information-CC.md) |
 | CC request | [Review and submit](products/health-care/appointments/va-online-scheduling/feature-reference/schedule-flow/review-and-submit-CC.md) |
 
