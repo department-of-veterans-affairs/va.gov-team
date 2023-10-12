@@ -80,42 +80,39 @@ For more details, see [Who we talked to](#who-we-talked-to).
 * Veterans (and others) will understand what they can do at a VA benefit office from the new web page.
 
   **TRUE**
-  - Almost all participants were able to locate the service accordions when prompted.
+  - Participants were able to locate the service accordions when prompted.
 
     
 * Veterans (and others) will understand how services are delivered at this location from the new web page.
 
   **SOMEWHAT TRUE**
-  - About 2/3 of participants were able to identify appointment modalities.
-  - Half could identify hours of service for specific tasks.
+  - Participants had mixed results when asked to identify appointment modalities and hours of service.
 
     
 * Veterans (and others) will understand how to prepare for a visit to a VA benefit office from the new web page.
 
    **MOSTLY FALSE**
-  - Only half of participants interacted with the Prepare for your visit section and located the What to bring accordion.
-  - Success rates were lower for participants with cognitive disabilities and BIPOC participants.
-  - Participants made liberal use of the three Action links at the top of the page--Make an appointment, Ask a benefit question, and Check claim status--even when these links wouldn't help them complete the task.
+  - Participants had mixed results when asked to locate information on what to bring to their visit. Success rates were lower for participants with cognitive disabilities and BIPOC participants.
     
 * Veterans (and others) will know what to do if they don't find the kind of help they need on the new web page.
 
   **TRUE**
-  - Nearly all participants identified a phone number to call for help or would use one of the action links.
+  - Participants identified a phone number to call for help or would use one of the action links.
 
 ## Key Findings
 ### Service offerings
-1. Veterans understood what services were available and navigated to the relevant sections easily. 
-2. Ways to get help are easy to locate.
-3. The more granular the information within an accordion, the less likely Veterans were to find it.
+1. Veterans understood what services were available and navigated to the relevant sections easily.
+2. Ways to get help were  easy to locate.
+3. The farther down information was in an accordion, the less likely Veterans were to find it.
 
 ### Service delivery
-4. Most Veterans were able to determine the appointment options for a given task.
-5. Having multiple sets of office hours on the page was confusing to many Veterans.
-6. Veterans with cognitive disabilities and Veterans over 55 were less likely to identify details on how services are delivered.
+4. Veterans were able to determine the appointment options, with some variation depending on the task.
+5. 	Veterans had mixed results with identifying whether an appointment was required for a given task.
+6.	Veterans with cognitive disabilities and Veterans over 55 were less likely to identify how services were delivered.
 
 ### Content and organization
 7. Veterans had a strong preference for using one of the three Action links to complete tasks.
-8. Some content (eg, What to bring) was hard to locate. 
+8. 	Some content was hard to locate. 
 
 <br>
 
@@ -144,13 +141,12 @@ Some participants didn't scroll much until they were nudged to do so, but once t
 
 
 ### 2. Ways to get help are easy to locate.
-90% of participants either located a number to call when they couldn't find a benefit on the page or would use the Ask the VA benefits chat.
+9 out of 10 of participants either located a number to call when they couldn't find a benefit on the page or would use the Ask the VA benefits chat.
 
  #### Participant comments
 > I couldn't find specific information but noted that there were options to call or schedule an appointment online. - P12
 
-
-### 3. The more granular the information within an accordion, the less likely Veterans were to find it.
+### 3. The farther down information was in an accordion, the less likely Veterans were to find it.
 
 | Content | Average success rate |
 | :------- | :---------- |
@@ -166,10 +162,10 @@ Some participants didn't scroll much until they were nudged to do so, but once t
 > So I'm simply not going to scroll down the veterans benefits and dig into all these pieces here. - P2
 
 ### *Service delivery*
-### 4. Most Veterans were able to determine the appointment options for a given task.
-The majority of participants understood which services required an appointment and which were walk-in only.
+### 4. Veterans were able to determine the appointment options, with some variation depending on the task.
+The majority of participants understood which services required an appointment and which were walk-in only. 
 
-### 5. Having multiple sets of office hours on the page is confusing to many Veterans.
+### 5. Veterans had mixed results with identifying whether an appointment was required for a given task.
 - Some participants assumed the hours inside the accordion were the same as the main office hours.
 - In the Home loan accordion, some only noted the walk-in hours, not the phone appointment hours for checking the status of their COE
 
@@ -177,22 +173,22 @@ The majority of participants understood which services required an appointment a
 >I like that this pulls up the hours too so that way you don't have to like go back up to the other section. - P7
 *Note* This observation was not accurate: the hours for the service were different from the ones for the facility.
 
-### 6. Veterans with cognitive disabilities and Veterans over 55 were less likely to identify details on how services are delivered.
+### 6. Veterans with cognitive disabilities and Veterans over 55 were less likely to identify how services were delivered.
 - Success rates for all tasks and subtasks were lower for those with cognitive disabilities
 - Finding hours and appointment information was significantly more challenging for those over 55.
   INSERT LINK TO CHART HERE
   
 ### *Content and organization*
-### 7. Veterans have a strong preference for using one of the three Action links to complete tasks.
+### 7. Veterans had a strong preference for using one of the three Action links to complete tasks.
 - This was true even for tasks where using the Action links was a less direct route to getting answers.
 
  #### Participant comments  
 > I like these because these are probably the main reasons I'd visit this page. - P7
 
-### 8. Some content (eg, What to bring) is hard to locate.
-- 50% of the participants found the What to bring accordion in the Prepare for your visit section
-- 30% found the hours for Burials
-- 22% found the phone number for Home loans
+### 8. Some content is hard to locate.
+- 50% (3 out of 6) found the What to bring accordion in the Prepare for your visit section
+- 30% (3 out of 10) found the hours for Burials
+- 22% (2 out of 9) found the phone number for Home loans
 
  #### Participant comments  
 > Under each specific service there could be links directing people to what documents they need. - P3
@@ -212,7 +208,6 @@ The majority of participants understood which services required an appointment a
 - Some participants stopped scrolling when they reached the Spotlight boxes, but all of the service accordions were located below the boxes.
 - Some didn't distinguish between the Spotlight content and the rest of the page.
 - One identified information about life insurance from it, another a link to forms they could use.
-- Some expected this content to be there all the time, which isn't the case. 
 
 #### Participant comments 
 > These three blue boxes really bother me…they're so unnecessary. They make me feel like the web page is essentially over. All the important stuff that I need is still below this. -P2
@@ -222,7 +217,7 @@ The majority of participants understood which services required an appointment a
 ### Most could identify at least one service offered at ROs
 - Most commonly identified service: general help with benefits/status updates
 
-### Most interpreted Benefits to mean Disability
+### Most used the term Benefits interchangeably with Disability
 
 ### Participants thought some services should be categorized differently
 - Direct deposit: Financial services, What to bring (with more specific information about what direct deposit info was needed), connected to a specific benefit, or something they would need to do in person
@@ -231,6 +226,9 @@ The majority of participants understood which services required an appointment a
 
 
 ## Recommendations
+### Explore ways to make essential appointment and contact information easier to locate.
+### Explore options for increasing findability of What to bring content.
+### Consider coordinating with Action link product teams to sync on services-related content delivery.
 
 ## Next Steps
 
