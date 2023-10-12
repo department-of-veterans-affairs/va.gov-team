@@ -69,8 +69,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - I saw from the information you provided when you signed up for the session that you have your (spouse and children - review coordinator info) as dependents on your benefits. If you think back, can you remember how you added them (for example, online, through a paper form, or with a representative)?
 - We realize that some changes in dependents status can come from difficult circumstances, so let me know if you’d prefer to skip any questions. Have you ever had to remove a dependent from your benefits? 
--- (IF YES) Can you tell me a bit about that experience?
--- (Cover what life event prompted the change, how they knew what action to take, where they found information, any pain points throughout the process…)
+   - (IF YES) Can you tell me a bit about that experience?
+   - (Cover what life event prompted the change, how they knew what action to take, where they found information, any pain points throughout the process…)
 
 
 ## First Task: [TASK NAME] - X minutes
