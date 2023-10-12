@@ -25,7 +25,7 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Category`|Defense Enrollment Eligibility Reporting System (DEERS)|[DEERS (Defense Enrollment Eligibility Reporting System)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#deers-defense-enrollment-eligibility-reporting-system)|
 |`Category`|Women Veterans' Issues|[Center for Women Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#center-for-women-veterans)|
 |`Category`|VA Center for Minority Veterans|[Center for Minority Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#center-for-minority-veterans)|
-|`Category`|Veteran Identification Card (VIC)|[Veteran ID Card (VIC)]()|
+|`Category`|Veteran Identification Card (VIC)|[Veteran ID Card (VIC)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category%2C%20topic%20and%20subtopic%20names.md#veteran-id-card-vic)|
 
 ## Health care
 
