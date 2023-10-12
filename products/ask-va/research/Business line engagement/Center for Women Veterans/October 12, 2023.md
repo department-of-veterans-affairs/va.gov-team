@@ -12,9 +12,10 @@
 
 ## Attendees
 
-- Our team: Tyler, Ruchi, Becky
+- Our team: Tyler Gindraux, Ruchi Shah, Becky Phung
+- VA.gov content: Laura Willwerth
 - Center for Women Veterans: Ana Claudio, Michelle Terry, Shannon Middleton, Liz Harrington
-- CRM team: Jaime, Shelby, Wayne, Maria
+- CRM team: Jaime Rocha, Shelby Carl, Wayne Eberly, Maria King
 - Not present: Missina Schallus
 
 ## Key takeaways
