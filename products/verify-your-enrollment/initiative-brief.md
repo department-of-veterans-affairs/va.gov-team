@@ -25,7 +25,7 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* . Take the non-compliant legacy system Web Automated Verification of Enrollment (WAVE) on PITC (a local server) and move it Verify Your Enrollment (VYE) on VA.gov. 
+* Take the non-compliant legacy system Web Automated Verification of Enrollment (WAVE) on PITC (a local server) and move it Verify Your Enrollment (VYE) on VA.gov. 
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
@@ -38,16 +38,19 @@
 
 ---
 ## Desired User Outcomes
+> *Describe the desired user outcomes:*
 * *Why would a user want to use this?* A veteran would want to use this because the streamlined application allows them more quicker and easier access to their Chapter 33 education benefits. 
 * *With this problem solved, what should users be able to do/achieve that they couldn't before?* In VYE users should be able to confirm their enrollment information without having to wade through unnecessary information pages, like the one that asks for change of address or change of login information, that already live on other parts of VA.gov. This will allow users a streamlined experience that excludes unnecessary questions. 
 
 ## Undesired User Outcomes
+> *Describe the undesired user outcomes:* 
 * Increased hardship to access benefits for veterans.
 * Lack of accessability for disabled veterans.
 * Lack of access to data analytics information for the EDU Team at the VA.
 * Inability to confirm enrollment.
 ## Desired Business Outcomes
-- 
+> *Describe the desired business outcomes:*
+* 
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
@@ -62,7 +65,7 @@
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- WAVE does not have KPIs | Baseline | Target | VYE Team plans to leverage Google Analytics and Domo through VA.gov to capture data.
 
 ---
 
@@ -102,16 +105,16 @@
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-> > August 07, 2023 Project start
-> > September 29, 2023 Complete OCTO onboarding
-> > October 2023 Intiiate Collaboration Cycle kickoff
-> > March 13, 2024 Complete development
-> > May 13, 2024 Complete testing
-> > June 2024 Launch prep
-> > June 2024 Conduct staging review\
-> > June 2024 Deploy to Prod
-> > July 12, 2024 Complete collaboration with OCTO
-> > July 13, 2024 Project end 
+* August 07, 2023 Project start
+* September 29, 2023 Complete OCTO onboarding
+* October 2023 Intiiate Collaboration Cycle kickoff
+* March 13, 2024 Complete development
+* May 13, 2024 Complete testing
+* June 2024 Launch prep
+* June 2024 Conduct staging review\
+* June 2024 Deploy to Prod
+* July 12, 2024 Complete collaboration with OCTO
+* July 13, 2024 Project end 
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
