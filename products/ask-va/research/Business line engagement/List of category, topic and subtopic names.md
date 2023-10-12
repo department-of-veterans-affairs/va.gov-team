@@ -1,5 +1,7 @@
 # List of category, topic and subtopic names
 
+Last updated by @tygindraux: October 12, 2023
+
 This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)) and Laura Willwerth, Managing Editor of Sitewide CAIA for VA.gov.
 
 ## Categories
