@@ -1,10 +1,11 @@
 # List of Frontend/Backend Interactions
 
 ## Prefill Info 
-
 <details>
   
   ### Description
+  (possibly does not belong on this list,  this action happens entirely in the backend, there is not call for this I dont think? Have to talk to Robin)
+
   Get info for the veteran to pre-populate information on the form 
   ### External System(s)
   Vet360 (mailing address)
@@ -99,7 +100,13 @@
   ### Number of Occurences per Submission 
   1 per submission
   ### Possible Responses and action from frontend upon response
-  XXXXX
+  
+  #### 200 Success 
+  Shows list of contestable issues
+
+  #### Any other response
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/cf41503b-68a3-40e9-8096-fb15f24f4b32)
+
 </details>
 
 ## Overall Supplemental Claim Submission
@@ -113,7 +120,18 @@
   ### Number of Occurences per Submission 
   1 per submission
   ### Possible Responses and action from frontend upon response
-  XXXXX
+  
+  #### 200 Success, Redirrect to confirmation page
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/6533bb0f-37ef-42d8-a493-d6eb6e200cd4)
+
+
+  ### 403 Forbidden
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/00945ee3-7a2d-4919-9403-5dfa3fa15859)
+
+
+  #### Any other response
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/2fec9183-8f91-4497-bf27-eeb598b96bad)
+
   
 </details>
 
@@ -128,8 +146,13 @@
   ### Number of Occurences per Submission 
   Many per submission
   ### Possible Responses and action from frontend upon response
-  XXXXX
-  
+
+  #### 200 Success
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/7f56ad4e-27f2-42f0-a4b3-ed6824125380)
+
+  #### Any other response
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/2f1003f9-f390-4d80-bb4d-e3e7a2911407)
+
 </details>
 
 
