@@ -76,15 +76,18 @@ Perigean recruited the participants.
 
 For more details, see [Who we talked to](#who-we-talked-to).
 
-Participants were asked about the following:
-1. Wayfinding--Find out if you're eligible for VA health care with your current income, with no guidance for where to start
-2. The landing page in the prototype, which you can use to get to the income limits app (Note: The landing page is a screenshot of the [Your health care costs page](https://www.va.gov/health-care/about-va-health-benefits/cost-of-care/) page on VA.gov)
-3. The intro page in the app
-4. The question pages in the app
-5. The results page in the app
-6. What they would do next after seeing the results
-7. How to check whether they entered their location correctly
-8. How to see the income limits for a previous year
+In the wizard, participants were first **asked when they served, and their answer determined which questions were presented** next. Then based on their answers to the questions, a results screen was shown. Below is a high-level summary of the interaction flow (more details can be found in the Wizard branching logic flow in the [Appendix](#appendix)).
+- Ask service years question
+  - If served *1990 or later*, ask Burn pit questions
+  - If served *1989 or earlier*, ask Agent Orange, Radiation, and Camp Lejeune questions
+  - If served *during both time periods*, ask ALL of the above questions
+- Based on responses to the above questions, show one of the following results screens:
+  - *VA benefit eligibility* (can't tell if you're eligible)
+  - *Camp Lejeune* (may be eligible but not under PACT Act)
+  - *You may be eligible* (may be eligible under PACT Act)
+
+Any participants who didn't see the *You may be eligible* results screen were then shown it, even though it didn't apply to their situation (which was explained by the moderator).
+
 
 
 ## Hypotheses and Conclusions
