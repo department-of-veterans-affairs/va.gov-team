@@ -12,9 +12,7 @@
    -   BDD Flow - Missing address and service dates - We had identified this as a VBMS issue
    -   New question on current va.gov functionality
       -  If an applicant indicates an ambiguous condition such as “joint pain,” will the va.gov interviewer prompt the applicant to clarify/specify?
- 
 
-If an applicant indicates an ambiguous condition such as “joint pain,” will the va.gov interviewer prompt the applicant to clarify/specify?
 
 ### Date: Oct 5' 2023       
 ### Participants: Emily, Steve, Anneliese, Austin
