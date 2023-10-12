@@ -39,6 +39,7 @@ If you see this, the application is blowing up
 - [Benefits - IntentToFilesController rate limit Error](https://vagov.ddog-gov.com/monitors/153112)
   - type: **catastrophic**
   - If this happens, we have hit a rate limit in Lighthouse.  This means all requests to this endpoint will fail for X amount of time
+  - [Playbook]]([asdf](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/downstream_timeout.md))
   - TODO: playbook for this is needed
 - [Form 526 Backup Submission Error. Investigate](https://vagov.ddog-gov.com/monitors/110156)
    - type: One off
@@ -81,6 +82,16 @@ If you see this, the application is blowing up
 ### TODO:  
 - Add links to "Emergency Failsafe Process"
 - [Add an alert for any instance of a 429 (rate limit reached) from LH per Marks suggestion](https://dsva.slack.com/archives/C05URMLM09Z/p1696264159183519?thread_ts=1696264035.396779&cid=C05URMLM09Z)
+  - per mark:
+```
+Email api@va.gov with your va.gov email (historically how we resolved these)
+Attach a screenshot of the error
+Include a brief contextual explanation and a request to increase the rate limit
+Make sure this is with your va.gov email
+Ping the relevant LH PO in #vfs-evss-service-migration
+For example, this was Kayla Watanabe for ITF
+Janet Coutinho for general increase/not sure which one
+```
 - Document endpoints we are not capturing
 
 
