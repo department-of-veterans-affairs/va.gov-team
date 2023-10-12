@@ -29,9 +29,10 @@ This list has been discussed and agreed upon by all business lines ([review list
 
 ## Health care
 
+`Category`: Health care
+
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
-|`Category`|VA Health Care|Health care|
 |`Topic`|Health and Medical Programs for Family Members|Family health benefits|
 |`Topic`|Health Eligibility/Enrollment (Veterans)|Eligibility and how to apply|
 |`Topic`|Medical Care Concerns at a VA Medical Facility|Getting care at a local VA medical center|
@@ -43,10 +44,24 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Topic`|Women Veterans Health Care|Women's health services|
 |`Topic`|FMP- Foreign Medical Programs <br> (Medical Care for Vets Traveling/Living Abroad)|Foreign Medical Program|
 
+`Topic`: Family health benefits
+
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
-|`Topic`|Health and Medical Programs for Family Members|Family health benefits|
-|`Subtopic`|Health and Medical Programs for Family Members|Family health benefits|
-|`Subtopic`|Health and Medical Programs for Family Members|Family health benefits|
-|`Subtopic`|Health and Medical Programs for Family Members|Family health benefits|
-|`Subtopic`|Health and Medical Programs for Family Members|Family health benefits|
+|`Subtopic`|CHAMPVA CITI (Family Member VA Care)|CHAMPVA In-House Treatment Initiative (CITI)|
+|`Subtopic`|CHAMPVA- Family Member Health & Medical Programs|CHAMPVA benefits|
+|`Subtopic`|Spina Bifida Program for Children of Vet|Spina Bifida Health Care Benefits Program|
+
+`Topic`: Caregiver support program
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|Program of Comprehensive Assistance for Family Caregiver|Program of Comprehensive Assistance for Family Caregivers (PCAFC)|
+|`Subtopic`|Program of General Caregiver Support Services|Program of General Caregiver Support Services (PGCSS)|
+
+`Topic`: Prosthetics
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|(New)|Eligibility for special benefits related to prosthetics|
+|`Subtopic`|(New)|Special benefits application status|
