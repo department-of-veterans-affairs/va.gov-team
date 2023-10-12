@@ -39,5 +39,5 @@
 ## References
 
 - [Category, topic and subtopic proposed names spreadsheet](https://docs.google.com/spreadsheets/d/1AlUqvwn49ah2gHniTwx3x0afOPliKgURo575e73OH40/edit#gid=1192783561) we reviewed in Google Sheets.
-- [Contact options](https://dvagov.sharepoint.com/:x:/s/AskVA/EXmBT1ZIKIlBpzYSCR4SZNABPvjp04fE1HTVp7IvSMcHRQ?e=yVm5fm)
-- [Military service fields](https://dvagov.sharepoint.com/:x:/s/AskVA/EQ2g5jWBMeJMmMaENFHgqhEBPuAapzq3uxnTdpswe4uYGg?e=aS6Wob)
+- [Contact options](https://dvagov.sharepoint.com/:x:/s/AskVA/EXmBT1ZIKIlBpzYSCR4SZNABPvjp04fE1HTVp7IvSMcHRQ?e=yVm5fm) available in MS Teams.
+- [Military service fields](https://dvagov.sharepoint.com/:x:/s/AskVA/EQ2g5jWBMeJMmMaENFHgqhEBPuAapzq3uxnTdpswe4uYGg?e=aS6Wob) available in MS Teams.
