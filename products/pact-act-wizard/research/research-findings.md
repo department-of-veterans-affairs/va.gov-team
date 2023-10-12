@@ -128,16 +128,16 @@ Participants called out the following specific features as working well:
 
 > *"It follows a logical pattern--if/then. There's a clear button to take me to the next question...There's not a lot of choices. It flows smartly. And if I need to go back a page, that page is available. It doesn't take me someplace else." (p9)*
 
-The prototype showed between 2 and 10 questions to each participant, based on their responses. If you answered "yes" to one of the burn pit or Agent Orange questions, you would skip the other questions in that section and might get a followup question. Below is a table showing the range and average number of questions seen by all participants and also broken down by service year category.
+Participants' positivity towards the PACT Act Wizard wasn't affected by the number of questions that they saw. The **prototype showed between 2 and 10 questions to each participant, based on their responses**. If you answered "yes" to one of the burn pit or Agent Orange questions, you would skip the other questions in that section and might get a followup question. Below is a table showing the range and average number of questions seen by all participants and also broken down by service year category. 
 
-Service years | # p's | # Q's seen | Avg # Q's seen 
-------------------|---------------|----|-----------
-All  | 9 | 2-10 | 6
-1990 or later | 2 | 2 | 2
-1989 or earlier | 4 | 5-7 | 6
-Both | 3 | 8-10 | 8.7
+Service year group | # Participants | Range of # Q's seen | Avg # Q's seen | Maximum # of Q's 
+------------------|---------------|----|----------- | -----
+All  | 9 | 2-10 | 6 | 10
+1990 or later | 2 | 2 | 2 | 4
+1989 or earlier | 4 | 5-7 | 6 | 7
+Both | 3 | 8-10 | 8.7 | 10
 
-
+Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
 ### Usability Successes
 1. **Most participants were able to answer most of the wizard questions easily.**
