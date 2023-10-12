@@ -6,9 +6,8 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Set-up Notetaking Board
+- [ ] Check Prototype
 
 
 ### Day of the session
@@ -33,12 +32,12 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about [description of your project].
+Today we're going to talk about Managing the Devices with which you log into VA.gov.
 
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -62,12 +61,13 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+- When logging into VA.gov, what devices do you use?  (If participate hesitates, give them time to answer without providing examples.  If they are unable to answer, ask them which device they used the last time they logged into VA.gov.  Follow that up with "Do you ever log into VA.gov with anything other than your _______?"
+- Have you ever connected any other devices to your VA.gov account e.g. an apple watch or FitBit?
 
-## First Task: [TASK NAME] - X minutes
+## First Task: Logging into VA.gov - X minutes (Understanding PW management)
 
-- Step 1
-- Step 2
+- How do you normally log into VA.gov?  Can you share your screen with me and walk me through that process?
+- Do you ever log out when you're on _______ device?  If so, can you show me how?  Do you ever log back in after logging out?  
 
 ### Things to watch for:
 

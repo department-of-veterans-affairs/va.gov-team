@@ -32,11 +32,11 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 
 
 ## Overview Checklist
-- [ ] Phase I: Internal Testing and Review
+- [x] Phase I: Internal Testing and Review
     - [x] Internal Testing and Review
     - [x] Pre-release Testing
     - [x] Review Cases
-    - [ ] Canary
+    - [x] Canary
 - [ ] Phase II: Staged Rollout 
     - [ ] Stage A: 1%
     - [ ] Stage B: 5%
@@ -46,6 +46,14 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [ ] Stage F: Go live!
 - [ ] Post-launch questions
 
+< br >
+
+## Notes
+- This migration will make use of two flags: `disability_compensation_lighthouse_rated_disabilities_provider_background` and `disability_compensation_lighthouse_rated_disabilities_provider_foreground`
+    - Representing the RD call in the submit flow and form flow, respectively
+- LH v2 does not have a controller mapped on the vets-api side, will have to monitor the RD job instead
+
+< br >
 
 ## Phase I: Internal Testing and Review
 
@@ -113,7 +121,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - [x] Ensure at least one user covers the "legacy" case (EVSS generated RD, LH checked)
 - [x] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
 - [x] Ensure qualitatively that the feature works as intended for users
-- [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
+- [x] Ensure that the user activity is noticed and captured in the DataDog dashboard
 - [x] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
 - Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
     - Note any anomalies here:
@@ -170,12 +178,21 @@ Percentage of Users (and roughly how many users do you expect this to be): 1%
 - Anomalies:
     - No traffic capture on the LH side
         - Checked with AE team if they experienced similar issues - v2 traffic was not monitored on their end, and v2 doesn't seem to register on ours; figure out what method was used
+    - 10/10 - Secondary rollout from 0.1% to 1%
+        - 11am - progressed both RD flags to 0.1%
+            - 11:42am - noted a spike in 502 and 503 errors
+            - Rolled back to 0
+            - Errors persisted until 12:08pm, total volume ~1400
+            - 500* spike may be coincidental, will run again shortly to confirm
+            - 12:55pm - Foreground flag running at 0.1% with no errors
+            - 1:35 - Background flag running at 0.1% with no erros
 - Rollbacks:
     -     Rollback reason: No traffic capture on the LH side
             Date: 10/2/23
             Severity/Impact: Low - metrics only
-            Ticket(s) created to address:
-            - [ ] Has the issue been resolved?
+            Ticket(s) created to address: N/A
+            - [x] Has the issue been resolved?
+              - Fixed on LH side
 
 ### Stage B: Moderate ramp up
 #### Planning  

@@ -40,7 +40,7 @@ For the Disability Experience team, we are looking at these next steps in our di
 This list excludes any other endpoints to eVSS that are found during the discovery process.
 
 ## Important links
-- [Biweekly Lighthouse touchpoint notes and agenda](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Lighthouse+-+VA.gov+Touchpoint+Topics)
+- [Biweekly Lighthouse touchpoint notes and agenda](https://confluence.devops.va.gov/login.action?os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DVAExternal%26title%3DVA.gov%2BConsumer%2BAPI%2BIntegration%2Bto%2BLighthouse%2BAPI%2BStatus%2BTracking%2B-%2BEVSS%2BModernization&permissionViolation=true)
 - [EVSS consumer endpoint usage mapping](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1675893977361/c1aa4c861ea967e12296f72bcbec3307b35f5eb1?wid=0-1677011908528) - This mapping does not include the PDF endpoint because that was since added to EVSS. It also does not include the Ch. 33 services, Benefits Reference Data, or Letters services, because of where evss was in the process when they started this discovery work.
 - [Lighthouse teams info](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2023-05-EVSS-Playbooks-Draft/Draft%20EVSS%20Playbook%20Template.md#api---specific-information)
   

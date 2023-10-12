@@ -66,7 +66,7 @@ Documentation about the CMS lives in various places
 - TBD, Product Manager
 - Nate Douglas, Tech Lead - Slack `@Nathan Douglas`
 - John Luo, Software Quality Architect
-- Ari Perez, DevOps Engineer (Currently backfilling for Eric Oliver)
+- Ari Perez, DevOps Engineer (Currently backfilling for Eric Oliver through 11/10/2023)
 - Eric Oliver, DevOps Engineer - Slack `@Eric Oliver` (Currently on parental leave through 10/26/2023)
 - Tolase Akinwale, DevOps Engineer- Slack `@Tolase`
 - Blake Organ, Product Designer- Slack `@Blake Organ`
@@ -77,7 +77,7 @@ Documentation about the CMS lives in various places
 - Troy Griffin, Helpdesk and Training Manager, Slack `@Troy Griffin`
 
 ### Shared resource from Sitewide team:
-- Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
+- Laura Flannery, Web Accessibility Lead - Slack `@Laura Flannery`
 
 ### Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 

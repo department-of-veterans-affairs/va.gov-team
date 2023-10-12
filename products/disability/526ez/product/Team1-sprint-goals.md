@@ -4,30 +4,31 @@
 Period - 10/11/2023 - 10/24/2023
 ### Sprint goals 
 - **Expedited**
+   - Handover from Kyle
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
-        - ITF
-            - [ ] Continue staggered release - timeboxed tickets to monitor the release and fix issues as they occur
         - Rated Disabilities
             - [ ] Continue staggered release - timeboxed tickets to monitor the release and fix issues as they occur
         - Submit
-          - Dashboard for migration release monitoring
-              - [ ] Build DD Dashboard widgets for monitoring sidekiq jobs
-         - **If unblocked**
-            - [ ] Submit error fixes
-        - Benefits Claims Service
-            - [ ] Canary launch?
-            - [ ] Start staggered release at .1%
-       - PPIU - Direct Debit 
-            - [ ] Release plan ticket? 
+          - [ ] Identify and resurface outstanding migration issues
+          - Benefits Claims Service
+            - [ ] DD Dashboard
+          - [ ] Tech Discovery - Military Service Address
 - **Features**
-   - 526ez current with paper form
-      - [ ] Toxic Exposure screens - Design updates based on UX research and recommendations
-      - [ ] Toxic Exposure screens - Discovery for work breakdown - Frontend engineering
-      - [ ] Toxic Exposure screens - Page migration - Frontend engineering
+   - 526ez changes to Intro pages
+      - [ ] Intro pages - review flow changes - Design
+      - [ ] Start Implementation of Intro pages changes - Frontend Engineering
 
+   - 526ez sync with paper version 
+       - [ ] Design for Wireframes for new military service questions
+         
 - **Stretch Goals**
-- [ ] Design for Wireframes for new military service questions
+  - Engineering
+     - PPIU - Direct Debit 
+       - [ ] Release plan
+  - Research
+     - Teams 1 & 2 research effort - Review medallia survey data - still in progress    
+     - Audit of all changes as part of paper sync
 
 ## Sprint 15
 Period - 09/27/2023 - 10/10/2023

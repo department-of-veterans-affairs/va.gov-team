@@ -1,35 +1,35 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for Research Plan for ARM Team, Find a Representative & 21-22 Form Flow, 10/2023
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+The Office of the Chief Technology Officer (OCTO) is seeking to migrate Veteran and Power of Attorney (PoA) experiences from the legacy Stakeholder Enterprise Platform (SEP) product and eBenefits platform to VA.gov.
 
-[Link to product brief](url goes here).
+The primary goal is to make it easier, safer, and faster for Veterans to assign and manage Power of Attorney (PoA), and explore new ways that VA.gov can better support Veterans who choose to interact with VA through a representative.
 
-### OCTO Priorities 
+[Link to product brief.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/9c884d56087c31b9422840cc233009d12e870b9b/products/accredited-representation-management/product-outline.md)
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+### [OCTO Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md)
 
-### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+- **Enhance Veterans’ personalized online experience:** team is developing a widget to provide authenticated Veterans clear insight into existing representation as well as a simplified experience for digitally submitting a request for representation using their information on file.
+- **Fast-track disability claims, starting with PACT Act claims:** many Veterans who are applying for disability benefits are working with representatives; our product will help these Veterans understand and manage their representation on VA.gov.
+
+### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
+
+This work touches on various aspects of the Veteran Journey. Whenever a Veteran could potentially need help from a representative this feature would be relevant. For many Veterans, this can happen at any point along their life journey.
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+Understand usability of the find a representative and 21-22 form flows on both desktop and mobile devices.
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+User testing will inform adjustments to the MVP flows to improve usability.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+Please refer to the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/99e396f84cce0e30ea6ad38e0735c84327dbeada/products/accredited-representation-management/research/2023-10-ARM-MVP-usertest/conversation-guide.md) for all participant questions.
+1. When would Veterans’ engage with the find a representative experience?
+2. Where would they expect to find this experience on VA.gov?
+3. Do Veterans’ understand the information shown? Is there any information missing?
+4. What are Veterans’ expectations of the experience?
+5. Are there any challenges with using the experience?
+6. Are the next steps clear and actionable?
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
