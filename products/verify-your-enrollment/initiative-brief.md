@@ -36,7 +36,7 @@
 * *Why do you think the problem is occurring? Other reasons why this might be occurring?* The problem occurs because WAVE has not been updated - coding, the look and feel of the website, functions of the website, etc. - in nearly 10 years, meaning the system is archaic and can be difficult or confusing to use. Usage difficulties are problematic because they act as a barrier for veterans seeking to access their education benefits, especially for veterans with disabilities who require modern technological assistance. 
 * *How does this initiative help further OCTO-DE's mission and goals?* Modernizing WAVE and moving it to VA.gov aligns with OCTO-DE's mission to update VA applications, create the best experience for all veterans by streamlining the process to receive education benefits, and provide a seamless veteran experience through the delivery of state-of-the-art technology by improving the functionality and experience of the application.
 
-<!--
+---
 ## Desired User Outcomes
 * *Why would a user want to use this?* A veteran would want to use this because the streamlined application allows them more quicker and easier access to their Chapter 33 education benefits. 
 * *With this problem solved, what should users be able to do/achieve that they couldn't before?* In VYE users should be able to confirm their enrollment information without having to wade through unnecessary information pages, like the one that asks for change of address or change of login information, that already live on other parts of VA.gov. This will allow users a streamlined experience that excludes unnecessary questions. 
