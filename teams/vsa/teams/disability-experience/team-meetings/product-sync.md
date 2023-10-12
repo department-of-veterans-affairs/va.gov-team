@@ -1,5 +1,11 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Oct 12' 2023       
+### Participants: Rakshinda, Austin, 
+### Topics Covered:
+- Prod access
+- 
+
 ### Date: Oct 5' 2023       
 ### Participants: Emily, Steve, Anneliese, Austin
 ### Topics Covered:
