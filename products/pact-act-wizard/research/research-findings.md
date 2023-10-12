@@ -115,6 +115,19 @@ Any participants who didn't see the *You may be eligible* results screen were th
 
 ### 1. All participants understood...
 
+All 9 participants had an overall positive experience using the PACT Act Wizard. Specific features highlighted by different participants are listed below:
+- **Questions**, which were simple, straightforward, and flowed well (5 participants)
+- **Information provided** concisely that's easy to understand with links for more on intro page and results (5)
+- Continue and Back buttons (1)
+
+
+> *"I really like the way that they broke down the PACT Act to #1 time and #2 the places" (p4)*
+
+> *"It's pretty concise. There's not a lot of words. It's got a lot of hot links." (p11).*
+
+> *"I find it logical. It follows a logical pattern--if/then. There's a clear button to take me to the next question. It seems like it's very logical. There's not a lot of choices. It flows smartly. And if I need to go back a page, that page is available. It doesn't take me someplace else." (p9)*
+
+
 ### Usability Successes
 1. **Most participants were able to answer most of the wizard questions easily.**
 1. **No comments about too many questions**. Participants were presented with anywhere from 2-10 questions, which varied based on their responses and the branching logic.
