@@ -15,4 +15,4 @@ The 526EZ is the form veterans fill out to apply for disability compensation.
 
 There is actually only one page of the 526EZ that asks for military history, and it's very brief. It asks for what we already have in the profile -- branch of service and related dates.
 
-![526 military history](department-of-veterans-affairs/va.gov-team/blob/master/products)
+![526 military history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/images/526EZ_military%20service%20history%201.jpeg)
