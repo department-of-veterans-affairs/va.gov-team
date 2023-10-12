@@ -1,7 +1,7 @@
 # Reason for appointment - VA Direct Schedule Flow
 
 ## Overview
-Veterans are asked to choose a preferred date for when they'd like to receive care. 
+Veterans are asked the reason for their appointment. 
 
 ## User stories
 
