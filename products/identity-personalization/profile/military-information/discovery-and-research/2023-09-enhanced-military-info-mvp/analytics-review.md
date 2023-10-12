@@ -57,3 +57,11 @@ From this report, we can extrapolate the following:
 - A noteworthy amount of traffice also goes to the [Request your military service records (including DD214)](www.va.gov/records/get-military-service-records/) page because we send people there who are looking for their DD214.
 
 ![Navigation summary for military history in profile 4.11.23 - 10.10.23](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/images/Navigation%20summary_Profile%20military%20history.jpeg)
+
+## Search results
+
+I couldn't find any relationship between the 526EZ and the military information section of the profile based on search terms alone. In the 526EZ, searches around the `PACT Act` were common. In the VA.gov profile, people are primarily searching for `letters` and `dependents` information, even from the military information section.
+
+- [VA.gov profile search terms from 4.11.23 - 10.10.23](https://va-gov.domo.com/page/1834995012?userId=66061986)
+- [VA.gov profile military history page search terms from 4.11.23 - 10.10.23](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20230411&_u.date01=20231010&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fprofile~2Fmilitary-information~2F/)
+- [526EZ searches](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20230411&_u.date01=20231010&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fdisability~2Ffile-disability-claim-form-21-526ez~2Fstart~2F/)

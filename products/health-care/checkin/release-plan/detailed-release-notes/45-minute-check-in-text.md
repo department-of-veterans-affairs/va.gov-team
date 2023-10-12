@@ -2,6 +2,7 @@
 
 - [Description](#description)
 - [New Workflow](#new-workflow)
+- [New Service Blueprint](#new-service-blueprint)
 - [Changes to On-line Check-in](#changes-to-on-line-check-in)
 - [Changes to Pre-Check-in](#changes-to-pre-check-in)
 
@@ -12,6 +13,10 @@ Proactively send Veterans, 45-minutes before their health care appointment time,
 ## New Workflow
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/4946ec47-0702-4ad5-8c67-23b28dc235b4)
+
+## New Service Blueprint
+
+[PCI Service Blueprint with 45 min reminder_2023-10-10.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12886027/PCI.Service.Blueprint.with.45.min.reminder_2023-10-10.pdf)
 
 ## Changes to On-line Check-in
 
