@@ -17,17 +17,17 @@
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Kevin White|Work study|
 |`Disability compensation` <br> `Benefits issues outside the U.S.`|Scott Hadley|NCC (National Call Center)|
 |`Disability compensation` <br> `Benefits issues outside the U.S.`|Robert Eakman|VBA-OTED|
-|`Disability compensation` <br> `Benefits issues outside the U.S.` <br> `Burials and memorials` <br> `Debt` <br> `Decisions reviews and appeals` <br> `Guardianship, custodianship, or fiduciary issues`|Breon Johnson|VBA-ART|
+|`Disability compensation` <br> `Benefits issues outside the U.S.` <br> `Burials and memorials` <br> `Debt for benefit overpayments and copay bills` <br> `Decisions reviews and appeals` <br> `Guardianship, custodianship, or fiduciary issues`|Breon Johnson|VBA-ART|
 |`Burials and memorials`|Jennifer Kelly|NCA (National Cemetery Administration)|
 |`Center for Minority  Veterans`|Carl McPherson|CMV (Center for Minority Veterans)|
 |`Center for Minority  Veterans`|Dennis May|CMV (Center for Minority Veterans)|
 |`Center for Minority  Veterans`|Dwayne Campbell|CMV (Center for Minority Veterans)|
 |`DEERS`|Jeremy Haas|EVSS (Enterprise Veterans Self Service)|
-|`Debt`|Julie Lawrence|DMC (Debt Management Center)|
-|`Debt`|Jason Hoge|DMC (Debt Management Center)|
-|`Debt`|Tamara Dorle|DMC (Debt Management Center)|
-|`Debt`|Robert Vitt|DMC (Debt Management Center)|
-|`Debt`|Nicole Haselberger|DMC (Debt Management Center)|
+|`Debt for benefit overpayments and copay bills`|Julie Lawrence|DMC (Debt Management Center)|
+|`Debt for benefit overpayments and copay bills`|Jason Hoge|DMC (Debt Management Center)|
+|`Debt for benefit overpayments and copay bills`|Tamara Dorle|DMC (Debt Management Center)|
+|`Debt for benefit overpayments and copay bills`|Robert Vitt|DMC (Debt Management Center)|
+|`Debt for benefit overpayments and copay bills`|Nicole Haselberger|DMC (Debt Management Center)|
 |`Decisions reviews and appeals`|Amanda Baker|BVA (Board of Veterans' Appeals)|
 |`Decisions reviews and appeals`|Keturah Harley|BVA (Board of Veterans' Appeals)|
 |`Decisions reviews and appeals`|Katherine Forde|BVA (Board of Veterans' Appeals)|
