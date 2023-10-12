@@ -35,8 +35,7 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to explore some new notification designs.
-
+Today we're going to talk about the experience of having dependents on your benefits and keeping them up-to-date.
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -65,6 +64,14 @@ Before we start, I have a few things that I want to go over with you:
 Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+
+Before we look at the website, let’s start with a few warm-up questions.
+
+- I saw from the information you provided when you signed up for the session that you have your (spouse and children - review coordinator info) as dependents on your benefits. If you think back, can you remember how you added them (for example, online, through a paper form, or with a representative)?
+- We realize that some changes in dependents status can come from difficult circumstances, so let me know if you’d prefer to skip any questions. Have you ever had to remove a dependent from your benefits? 
+-- (IF YES) Can you tell me a bit about that experience?
+-- (Cover what life event prompted the change, how they knew what action to take, where they found information, any pain points throughout the process…)
+
 
 ## First Task: [TASK NAME] - X minutes
 
