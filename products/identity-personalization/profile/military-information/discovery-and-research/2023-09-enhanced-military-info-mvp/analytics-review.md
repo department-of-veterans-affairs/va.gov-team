@@ -48,3 +48,12 @@ From this report, we can extrapolate the following:
 - Same as above: this page is part of the 526EZ, so most previous/next pages are within the 526EZ.
 
 ![Navigation summary for 526EZ review military service_reserves and national guard 4.11.23 - 10.10.23](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/images/Navigation%20summary_526EZ%20military%20history_reserves%20national%20guard.jpeg)
+
+### [VA.gov profile: Military history](www.va.gov/profile/military-information/)
+
+[Navigation summary for 4.11.23 - 10.10.23](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230411&_u.date01=20231010&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fmilitary-information~2F&_r.tabId=navigationsummary/)
+
+- Naturally, most previous and next pages go to other sections of the profile.
+- A noteworthy amount of traffice also goes to the [Request your military service records (including DD214)](www.va.gov/records/get-military-service-records/) page because we send people there who are looking for their DD214.
+
+![Navigation summary for military history in profile 4.11.23 - 10.10.23](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/images/Navigation%20summary_Profile%20military%20history.jpeg)
