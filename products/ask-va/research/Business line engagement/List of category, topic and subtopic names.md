@@ -78,3 +78,40 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Topic`|Guardianship or Custodianship Issues|Guardianship, custodianship, or fiduciary issues|
 |`Topic`|Issues/Questions about compensation received|Issue with compensation received|
 |`Topic`|Status of a pending claim|Checking claim status|
+
+## Education benefits and work study
+
+`Category`: Education benefits and work study
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Colmery Section 110|Transferring benefits after a death|
+|`Topic`|Compliance Surveys|Compliance surveys|
+|`Topic`|On-The-Job Training (OJT) / Apprenticeship|On-the-job training and apprenticeships|
+|`Topic`|Post-9/11 GI Bill|Post-9/11 GI Bill|
+|`Topic`|School Officials ONLY|School Certifying Officials (SCOs)|
+|`Topic`|Survivors & Dependents|Benefits for survivors and dependents|
+|`Topic`|Transfer of Benefits to Dependents (TEB)|Transferred education benefits for family members|
+|`Topic`|Tuition Assistance Top-Up|Tuition Assistance Top-Up|
+|`Topic`|WAVE|Web Automated Verification of Enrollment (WAVE)|
+|`Topic`|Work Study|Work study|
+|`Topic`|Counseling|Educational and career counseling|
+|`Topic`|MGIB - Active Duty (Ch 30)|Montgomery GI Bill Active Duty (Chapter 30)|
+|`Topic`|MGIB - Selected Reserve (Ch 1606)|Montgomery GI Bill Selected Reserve (Chapter 1606)|
+|`Topic`|Reserve Ed Asst Prog (Ch 1607) (REAP)|Reserve Educational Assistance Program (Chapter 1607)|
+|`Topic`|VEAP (Ch 32)|Veterans’ Educational Assistance Program (Chapter 32)|
+|`Topic`|(New)|Veteran Readiness and Employment (Chapter 31)|
+|`Topic`|(New)|Verify school enrollment|
+|`Topic`|(New)|Request Certificate of Eligibility (COE) or Statement of Benefits|
+|`Topic`|(New)|Licensing and testing fees|
+|`Topic`|(New)|Upload documents|
+
+`Topic`: Work study
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|Application|Application|
+|`Subtopic`|Inquiries (VAI)|General question|
+|`Subtopic`|Position Description|Position description|
+|`Subtopic`|Signed Contracts|Signed contract|
+|`Subtopic`|Time Cards|Time card|
