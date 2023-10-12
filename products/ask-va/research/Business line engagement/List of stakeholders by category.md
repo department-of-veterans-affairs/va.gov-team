@@ -16,13 +16,13 @@
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Kendra Stewart|Work study|
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Kevin White|Work study|
 |`Disability compensation` <br> `Benefits issues outside the U.S.`|Scott Hadley|NCC (National Call Center)|
-|`Disability compensation` <br> `Benefits issues outside the U.S.`|Robert Eakman|VBA-OTED|
-|`Disability compensation` <br> `Benefits issues outside the U.S.` <br> `Burials and memorials` <br> `Debt for benefit overpayments and copay bills` <br> `Decisions reviews and appeals` <br> `Guardianship, custodianship, or fiduciary issues`|Breon Johnson|VBA-ART|
+|`Disability compensation` <br> `Benefits issues outside the U.S.` <br> `Veteran Readiness and Employment`|Robert Eakman|VBA-OTED|
+|`Disability compensation` <br> `Benefits issues outside the U.S.` <br> `Burials and memorials` <br> `Debt for benefit overpayments and copay bills` <br> `Decisions reviews and appeals` <br> `Guardianship, custodianship, or fiduciary issues` <br> `Pension` <br> `Survivor benefits` <br> `Veteran Readiness and Employment`|Breon Johnson|VBA-ART|
 |`Burials and memorials`|Jennifer Kelly|NCA (National Cemetery Administration)|
 |`Center for Minority  Veterans`|Carl McPherson|CMV (Center for Minority Veterans)|
 |`Center for Minority  Veterans`|Dennis May|CMV (Center for Minority Veterans)|
 |`Center for Minority  Veterans`|Dwayne Campbell|CMV (Center for Minority Veterans)|
-|`DEERS`|Jeremy Haas|EVSS (Enterprise Veterans Self Service)|
+|`DEERS` <br> `Sign in and technical issues`|Jeremy Haas|EVSS (Enterprise Veterans Self Service)|
 |`Debt for benefit overpayments and copay bills`|Julie Lawrence|DMC (Debt Management Center)|
 |`Debt for benefit overpayments and copay bills`|Jason Hoge|DMC (Debt Management Center)|
 |`Debt for benefit overpayments and copay bills`|Tamara Dorle|DMC (Debt Management Center)|
@@ -31,5 +31,28 @@
 |`Decisions reviews and appeals`|Amanda Baker|BVA (Board of Veterans' Appeals)|
 |`Decisions reviews and appeals`|Keturah Harley|BVA (Board of Veterans' Appeals)|
 |`Decisions reviews and appeals`|Katherine Forde|BVA (Board of Veterans' Appeals)|
-|`Guardianship, custodianship, or fiduciary issues`|Jennifer Feuer|P&F (Pension & Fiduciary)|
-|`Guardianship, custodianship, or fiduciary issues`|Angelita Taylor|P&F (Pension & Fiduciary)|
+|`Guardianship, custodianship, or fiduciary issues` <br> `Pension`|Jennifer Feuer|P&F (Pension & Fiduciary)|
+|`Guardianship, custodianship, or fiduciary issues` <br> `Pension`|Angelita Taylor|P&F (Pension & Fiduciary)|
+|`Health care`|Jennifer Mcalinden|VHA Caregiver Support|
+|`Health care`|Mary Ewers|VHA Caregiver Support|
+|`Health care`|Amanda Scully|VHA ECM (Enrollment Case Management)|
+|`Health care`|Michael Bingham|VHA HAC (Health Administration Center)|
+|`Health care`|Benjamin Davis|VHA Women Veterans Health Care|
+|`Health care`|Nicole Deleon|VHA Women Veterans Health Care|
+|`Health care`|Joshua Paulsen|VHA Audiology|
+|`Health care`|Mauree Collins|VHA Prosthetics|
+|`Health care`|Trevor Brown|VHA Prosthetics|
+|`Housing assistance and home loans`|Laura Rodriguez|LGY (Loan Guaranty Service)|
+|`Life insurance`|Cherronda Jeffcoat|Life insurance|
+|`Life insurance`|Erica Muncrief|Life insurance|
+|`Resources for Women Veterans`|Ana Claudio|CWV (Center for Women Veterans)|
+|`Resources for Women Veterans`|Elizabeth Estabrooks|CWV (Center for Women Veterans)|
+|`Resources for Women Veterans`|Elizabeth Harrington|CWV (Center for Women Veterans)|
+|`Resources for Women Veterans`|Michelle Terry|CWV (Center for Women Veterans)|
+|`Resources for Women Veterans`|Missina Schallus|CWV (Center for Women Veterans)|
+|`Resources for Women Veterans`|Shannon Middleton|CWV (Center for Women Veterans)|
+|`Veteran ID Card (VIC)`|Molly Burlage|Veteran Identification Card (VIC)|
+|`Veteran ID Card (VIC)`|Reginald Martin|Veteran Identification Card (VIC)|
+|`Veteran ID Card (VIC)`|Melissa Rebstock|VBA|
+|`Veteran Readiness and Employment`|David Smith|VR&E (Veteran Readiness and Employment)|
+|`Veteran Readiness and Employment`|Krystal Connor|VR&E (Veteran Readiness and Employment)|
