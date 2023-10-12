@@ -44,12 +44,12 @@
 |`Health care`|Trevor Brown|VHA Prosthetics|
 |`Housing assistance and home loans`|Laura Rodriguez|LGY (Loan Guaranty Service)|
 |`Life insurance`|Cherronda Jeffcoat|Life insurance|
-|`Resources for Women Veterans`|Ana Claudio|CWV (Center for Women Veterans)|
-|`Resources for Women Veterans`|Elizabeth Estabrooks|CWV (Center for Women Veterans)|
-|`Resources for Women Veterans`|Elizabeth Harrington|CWV (Center for Women Veterans)|
-|`Resources for Women Veterans`|Michelle Terry|CWV (Center for Women Veterans)|
-|`Resources for Women Veterans`|Missina Schallus|CWV (Center for Women Veterans)|
-|`Resources for Women Veterans`|Shannon Middleton|CWV (Center for Women Veterans)|
+|`Center for Women Veterans`|Ana Claudio|CWV (Center for Women Veterans)|
+|`Center for Women Veterans`|Elizabeth Estabrooks|CWV (Center for Women Veterans)|
+|`Center for Women Veterans`|Elizabeth Harrington|CWV (Center for Women Veterans)|
+|`Center for Women Veterans`|Michelle Terry|CWV (Center for Women Veterans)|
+|`Center for Women Veterans`|Missina Schallus|CWV (Center for Women Veterans)|
+|`Center for Women Veterans`|Shannon Middleton|CWV (Center for Women Veterans)|
 |`Veteran ID Card (VIC)`|Molly Burlage|Veteran Identification Card (VIC)|
 |`Veteran ID Card (VIC)`|Reginald Martin|Veteran Identification Card (VIC)|
 |`Veteran ID Card (VIC)`|Melissa Rebstock|VBA|
