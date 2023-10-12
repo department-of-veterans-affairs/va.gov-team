@@ -1,6 +1,6 @@
 # List of category, topic and subtopic names
 
-This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)) as well as Managing Editor of VA.gov's Sitewide Content team, Laura Willwerth.
+This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)) and Laura Willwerth, Managing Editor of Sitewide CAIA for VA.gov.
 
 ## Categories
 
