@@ -1,5 +1,7 @@
 # List of business line stakeholders by category
 
+Last updated by @tygindraux: October 12, 2023
+
 |Category|Stakeholder|Business area|
 |:--|:--|:--|
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Tammy Hurley|Education|
