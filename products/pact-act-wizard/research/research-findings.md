@@ -139,6 +139,17 @@ Both time periods | 3 | 8-10 | 8.7 | 10
 
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
+### Something about results...
+6 of 9 participants were taken to the "You may be eligible" results page. The other 3 participants were shown that page after they first looked at the page relevant to their responses to the questions. Here is a table showing how many participants landed on each of the results screens.
+
+Results screen | # of Participants
+------------------|---------------
+*You may be eligible* (under PACT Act) | 6 
+*VA benefit eligibility* (can't tell if you're eligible)| 2
+*Camp Lejeune* (may be eligible but not under PACT Act) | 1
+
+
+
 ### Usability Successes
 1. **Most participants were able to answer most of the wizard questions easily.**
 1. **No comments about too many questions**. Participants were presented with anywhere from 2-10 questions, which varied based on their responses and the branching logic.
