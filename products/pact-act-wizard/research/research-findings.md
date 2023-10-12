@@ -115,10 +115,12 @@ Any participants who didn't see the *You may be eligible* results screen were th
 
 ### 1. All participants understood...
 
-All 9 participants had an overall positive experience using the PACT Act Wizard. Specific features highlighted by different participants are listed below:
+All 9 participants had an overall positive experience using the PACT Act Wizard. Specific features called out by participants are listed below:
 - **Questions**, which were simple, straightforward, and flowed well (5 participants)
 - **Information provided** concisely that's easy to understand with links for more on intro page and results (5)
-- Continue and Back buttons (1)
+- **Continue and Back buttons** (1)
+- **Links to apply** for benefits (1)
+- **Accordions on results page** so don't have to go to another page or site (1)
 
 
 > *"I really like the way that they broke down the PACT Act to #1 time and #2 the places" (p4)*
