@@ -113,9 +113,9 @@ Any participants who didn't see the *You may be eligible* results screen were th
 
 ## Details of Findings 
 
-### 1. All participants understood...
+### 1. All 9 participants had an overall positive experience using the PACT Act Wizard
 
-All 9 participants had an overall positive experience using the PACT Act Wizard. Specific features called out by participants are listed below:
+Participants called out the following specific features as working well:
 - **Questions**, which were simple, straightforward, and flowed well (5 participants)
 - **Information provided** concisely that's easy to understand with links for more on intro page and results (5)
 - **Accordions on results page** so don't have to go to another page or site (1)
@@ -131,7 +131,7 @@ All 9 participants had an overall positive experience using the PACT Act Wizard.
 The prototype showed between 2 and 10 questions to each participant, based on their responses. If you answered "yes" to one of the burn pit or Agent Orange questions, you would skip the other questions in that section and might get a followup question. Below is a table showing the range and average number of questions seen by all participants and also broken down by service year category.
 
 Service years | # p's | # Q's seen | Avg # Q's seen 
-------------------|---------------------------------
+------------------|---------------|----|-----------
 All  | 9 | 2-10 | 6
 1990 or later | 2 | 2 | 2
 1989 or earlier | 4 | 5-7 | 6
