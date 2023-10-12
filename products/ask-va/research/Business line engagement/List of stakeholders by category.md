@@ -44,7 +44,6 @@
 |`Health care`|Trevor Brown|VHA Prosthetics|
 |`Housing assistance and home loans`|Laura Rodriguez|LGY (Loan Guaranty Service)|
 |`Life insurance`|Cherronda Jeffcoat|Life insurance|
-|`Life insurance`|Erica Muncrief|Life insurance|
 |`Resources for Women Veterans`|Ana Claudio|CWV (Center for Women Veterans)|
 |`Resources for Women Veterans`|Elizabeth Estabrooks|CWV (Center for Women Veterans)|
 |`Resources for Women Veterans`|Elizabeth Harrington|CWV (Center for Women Veterans)|

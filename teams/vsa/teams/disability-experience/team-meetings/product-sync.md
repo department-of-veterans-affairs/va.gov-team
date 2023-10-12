@@ -7,14 +7,24 @@
   - Is prod access (such as to argo) intended to be limited again? (Unsubstantiated, but heard this around the grapevine)
             - If so, curious where the initiatives/research for tooling that would remove our dependency on prod access are?
             - This included things like preview environments, administrative endpoints, fetch applications, db interfaces with obfuscated data, etc.
-            - Prod access is pretty essential for our day-to-day 
+            - Prod access is pretty essential for our day-to-day
+            - Not sure if there is an official change in acess policy
+            - Steve A offered to pair when needed
+            - Continue requesting access as today until we find otherwise
 - Follow-up from David Kesselman
-   -   BDD Flow - Missing address and service dates - We had identified this as a VBMS issue
+   -   BDD Flow - Missing address and service dates - Not sure but we might have identified this as a VBMS issue
    -   New question on current va.gov functionality
       -  If an applicant indicates an ambiguous condition such as “joint pain,” will the va.gov interviewer prompt the applicant to clarify/specify?
- 
-
-If an applicant indicates an ambiguous condition such as “joint pain,” will the va.gov interviewer prompt the applicant to clarify/specify?
+- Follow up on Rated Disabilities fix, working with EVSS and LH for fixing validations issues, and cost of “back up path”
+     - 429 throttling error from LH
+     - Logging bug - BGS sent a non-retriable error that we kept trying for 13 days. This was a valid request and should not have been rejected.
+     - How much effort do we want to put in for not sending these to MAS?
+        - Similar issue with Dependency application - these happen due to lack of FE validations
+        - Need to audit all these errors and put in FE validations as needed
+           - Is high in priority and open to deprioritize other items - Emily
+           - Put all these in a list for follow-up
+           - Starting with Thomas's list - https://dvagov-my.sharepoint.com/:x:/r/personal/thomas_blackwell2_va_gov/Documents/Microsoft%20Teams%20Chat%20Files/686SubmissionFailures.xlsx?d=w343bd41ae7d1468298026391989f2082&csf=1&web=1&e=2zV4V2
+           - 
 
 ### Date: Oct 5' 2023       
 ### Participants: Emily, Steve, Anneliese, Austin
