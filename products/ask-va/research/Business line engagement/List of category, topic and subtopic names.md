@@ -65,3 +65,16 @@ This list has been discussed and agreed upon by all business lines ([review list
 |:--|:--|:--|
 |`Subtopic`|(New)|Eligibility for special benefits related to prosthetics|
 |`Subtopic`|(New)|Special benefits application status|
+
+## Disability compensation
+
+`Category`: Disability compensation
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Aid & Attendance Benefits|Aid and Attendance or Housebound benefits|
+|`Topic`|Direct deposit inquiries|Direct deposit|
+|`Topic`|Filing for compensation benefits|How to file a disability claim|
+|`Topic`|Guardianship or Custodianship Issues|Guardianship, custodianship, or fiduciary issues|
+|`Topic`|Issues/Questions about compensation received|Issue with compensation received|
+|`Topic`|Status of a pending claim|Checking claim status|
