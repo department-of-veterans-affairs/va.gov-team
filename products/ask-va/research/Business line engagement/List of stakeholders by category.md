@@ -15,6 +15,7 @@
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Lisa Eaton|Education: Muskogee|
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Kendra Stewart|Work study|
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Kevin White|Work study|
-|`Disability compensation` <br> `Benefits issues outside the U.S.`|Scott Hadley|NCC|
-|`Disability compensation` <br> `Benefits issues outside the U.S.`|Robert Eakman|VBA-OTED|
-|`Disability compensation` <br> `Benefits issues outside the U.S.`|Breon Johnson|VBA-ART|
+|`Disability compensation` <br> `Benefits issues outside the U.S.`|Scott Hadley|NCC (National Call Center)|
+|`Disability compensation` <br> `Benefits issues outside the U.S.`|Robert Eakman|VBA-OTED (Office of Transition & Economic Development)|
+|`Disability compensation` <br> `Benefits issues outside the U.S.` <br> `Burials and memorials`|Breon Johnson|VBA-ART (Veterans Benefits Administration All Response Team)|
+|`Burials and memorials`|Jennifer Kelly|NCA (National Cemetery Administration)|
