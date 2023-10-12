@@ -9,7 +9,6 @@ Life insurance
 |Stakeholder|Business area|
 |:--|:--|
 |Cherronda Jeffcoat|Life insurance|
-|Erica Muncrief|Life insurance|
 
 ### Engagements
 
