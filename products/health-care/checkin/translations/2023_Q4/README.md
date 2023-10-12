@@ -19,5 +19,6 @@
 
 ## Final QA from the State Department
 - [LS-2022-0118394-LQA-REVIEWED_Tagalog_Q4_2023_2023-09-20_19-38-33.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12857912/LS-2022-0118394-LQA-REVIEWED_Tagalog_Q4_2023_2023-09-20_19-38-33.pdf)
+- [LS-2022-0118394-LQA-ST_Spanish_Q4_2023_2023-09-20_19-39-01.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12883460/LS-2022-0118394-LQA-ST_Spanish_Q4_2023_2023-09-20_19-39-01.pdf)
 
 
