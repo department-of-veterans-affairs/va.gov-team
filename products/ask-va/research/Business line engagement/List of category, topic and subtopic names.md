@@ -259,3 +259,22 @@ This list has been discussed and agreed upon by all business lines ([review list
 |:--|:--|:--|
 |`Subtopic`|Question about My Hearing|Questions about my hearing|
 |`Subtopic`|All other Questions|Other|
+
+## Debt for benefit overpayments and copay bills
+
+`Category`: Debt for benefit overpayments and copay bills
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|A School Official|School Certifying Officials (SCOs) or other school officials|
+|`Topic`|Cemetery Debt|Cemetery debt|
+|`Topic`|Compensation Debt|Disability compensation overpayment|
+|`Topic`|Dispute Debt|Disputing a debt|
+|`Topic`|Drill Pay Debt|Drill pay debt|
+|`Topic`|Education Debt|Education benefit overpayment|
+|`Topic`|Home Loan Debt|Home loan debt|
+|`Topic`|Medical Care Debt|Copay debt|
+|`Topic`|Pension Debt|Pension benefit overpayment|
+|`Topic`|Separation Debt|Separation debt|
+|`Topic`|Severance Pay Debt|Severance pay debt|
+|`Topic`|Veteran Readiness and Employment Debt|Veteran Readiness and Employment debt|
