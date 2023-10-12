@@ -139,7 +139,7 @@
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - March 2024
 - *Actual Launch Date* 
   - tbd
 
@@ -148,6 +148,10 @@
 ## Screenshots
 
 ### Before
+![02f75274-0026-49a5-b0bb-ed0353d6176a](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/b19c9b41-97bc-4d97-8e68-dada303ea0cf)
+![d25b2567-0862-4ab8-a94b-5a0b6eb573ac](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/f238776e-70b3-4fef-b8ac-67b87dd8cca6)
+![71359376-3d1f-450f-a0c6-5e1625c41cc8](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/c06b3ef7-0917-49a4-9ab0-c540dd3720d7)
+
 
 ### After
 
