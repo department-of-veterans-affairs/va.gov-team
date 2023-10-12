@@ -278,3 +278,20 @@ This list has been discussed and agreed upon by all business lines ([review list
 |`Topic`|Separation Debt|Separation debt|
 |`Topic`|Severance Pay Debt|Severance pay debt|
 |`Topic`|Veteran Readiness and Employment Debt|Veteran Readiness and Employment debt|
+
+## Benefits issues outside the U.S.
+
+`Category`: Benefits issues outside the U.S.
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Compensation|Disability compensation|
+|`Topic`|Education (Ch.30, 33, 35, 1606, etc. & Work Study)|Education benefits and work study|
+
+`Topic`: Education benefits and work study
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|School Officials ONLY|School Certifying Officials (SCOs)|
+|`Subtopic`|Work Study|Work study|
+|`Subtopic`|All Other|Other|
