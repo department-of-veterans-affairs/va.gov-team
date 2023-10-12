@@ -923,7 +923,7 @@ Board Appeal
 
 **Note:** You'll need to sign in to access to this PDF. This link will remain active for 10 days.
 
-These documents are for your records only. We ask that you don’t send us another copy. 
+These documents are for your records only. We ask that you don’t send us another copy of your form. 
 
 If we have questions or need more information, we may contact you. We’ll notify you once we have processed your Board Appeal. If you need to contact us, visit https://va.gov or by phone: 1-800-827-1000.
 
