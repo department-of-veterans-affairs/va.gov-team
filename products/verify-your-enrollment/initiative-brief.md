@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Initiative Brief
 #### Overview
 
 <details>
