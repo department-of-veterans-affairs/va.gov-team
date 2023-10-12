@@ -23,7 +23,8 @@ We are proposing to remove some fields from the Ask VA form. As part of this pro
 > **Takeaway: Create a new ticket to verify contact options with all business lines.**
 
 ### Veteran service information fields
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Images/Screen%20Shot%202023-09-21%20at%203.13.42%20PM.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Screen%20Shot%202023-09-21%20at%203.13.42%20PM.png)
+
 > **Takeaway: Continue with recommendation to remove most fields apart from SSN and DOB.**
 
 > **Takeaway: _Or_ gather more comprehensive feedback from business lines before we recommend removal.**
