@@ -139,8 +139,8 @@ Both time periods | 3 | 8-10 | 8.7 | 10
 
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
-### Some participants found a few of the questions confusing
-#### 3 participants found the options confusing in the service years question
+### Some of the questions were confusing to a few participants
+#### 3 participants had difficulty with the service years question
 ![q-service-years](./images/q-service-years.png)
 
 One participant **thought that none of the options applied** to him. He said, *"This is one of those frustrating times when there's not an appropriate answer for me" (p10)/* When prompted to try again, he blamed it on his tendency *"to read through stuff quicker than I should."* He thought that rewording the radio button options to "1990 to present" and "Prior to 1989" might be clearer.
@@ -155,17 +155,28 @@ POTENTIAL RECOMMENDATIONS:
 1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
 1. Consider adding a "Not sure" option that would result in all questions being asked (like the current "Both time periods" option).
 
-#### Agent Orange question about C-123 planes
+#### 2 participants didn't know what C-123 planes were in the Agent Orange question
 ![q-C-123-plane-Agent-Orange](./images/q-C-123-plane-Agent-Orange.png)
-When they saw the above question, 2 participants brought up (unprompted) that they **didn't know what "C-123 airplanes" are**. Both of them answered "I'm not sure" to the question. 
 
-Two different participants mentioned that they're familiar with C-123's but others may not be. One said, *"If it applied to you, you would know...service members know their equipment" (p9).* The other said something very similar and also that an explanation might be helpful.
+When they saw the above question, 2 participants said (unprompted) that they **didn't know what "C-123 airplanes" are**. Both of them answered "I'm not sure" to the question. 
+
+Two other participants mentioned that they're familiar with C-123's but others may not be. One of them said, *"If it applied to you, you would know...service members know their equipment" (p9).* The other said something similar and also that an explanation might be helpful.
 
 POTENTIAL RECOMMENDATION: 
 1. Consider adding a brief description or link to information about C-123 planes.
 
-#### Agent Orange question about DMZ
+#### 1 participant had questions about another Agent Orange question 
 ![q-DMZ-Agent-Orange](./images/q-DMZ-Agent-Orange.png)
+
+One participant had questions about the Agent Orange question they saw. The first one was about **what the word "serve" means**: "in country" on the ground, or does it also include on a ship nearby or in the airspace above? 
+
+> *"The military is precise. We don't like a lot of gray area" (p1).*
+
+The same participant was also unsure about **what is considered to be "near" the DMZ**. He served in Korea at Osan but not at the DMZ, so he answered "no".
+
+POTENTIAL RECOMMENDATIONS:
+1. If applicable, consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
+1. If possible, consider revising the content to disambiguate the word "near" in the DMZ option.
 
 #### Burn pit question about neutral zone 
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
