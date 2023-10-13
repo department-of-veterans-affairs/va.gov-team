@@ -43,7 +43,8 @@ Because these fields received consistent feedback from all business lines, we sh
 
 **Include these fields as required for all categories:**
 
-- First/last name
+- First name
+- Last name
 - Date of Birth
 
 **Remove these fields from the form:**
