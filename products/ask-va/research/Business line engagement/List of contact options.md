@@ -10,8 +10,15 @@ This list is alphabetized by category name.
 
 |Category|Topic|Email|Phone|US Mail|
 |:--|:--|:--|:--|:--|
-|Benefits issues outside the U.S.|Topic|Email|Phone|US Mail|
-|Burials and memorials|Topic|Email|Phone|US Mail|
+|`Benefits issues outside the U.S.`|Disability compensation|Email|Phone|US Mail|
+|`Benefits issues outside the U.S.`|Education benefits and work study|`ENABLED`|`DISABLED`|`DISABLED`|
+|`Burials and memorials`|Pre-need eligibility for burial|Email|Phone|US Mail|
+|`Burials and memorials`|Burial allowance|Email|Phone|US Mail|
+|`Burials and memorials`|Burial allowance for unclaimed Veteran remains|Email|Phone|US Mail|
+|`Burials and memorials`|Burial in a VA national cemetery|Email|Phone|US Mail|
+|`Burials and memorials`|Burial in a VA grant-funded state or tribal cemetery|Email|Phone|US Mail|
+|`Burials and memorials`|Memorial items|Email|Phone|US Mail|
+|`Burials and memorials`|Other|Email|Phone|US Mail|
 |Center for Minority Veterans|Topic|Email|Phone|US Mail|
 |Center for Women Veterans|Topic|Email|Phone|US Mail|
 |Debt for benefit overpayments and copay bills|Topic|Email|Phone|US Mail|
