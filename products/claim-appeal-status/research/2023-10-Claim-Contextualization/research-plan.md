@@ -1,4 +1,4 @@
-# [WIP] Research Plan: Claim Contextualization Concept Testing
+# Research Plan: Claim Contextualization Concept Testing
 
 Benefits Management Tools · October 2023
 
