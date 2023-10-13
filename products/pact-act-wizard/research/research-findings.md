@@ -140,25 +140,29 @@ Both time periods | 3 | 8-10 | 8.7 | 10
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
 ### Some participants found a few of the questions confusing
-#### Service years question
+#### 3 participants found the options confusing in the service years question
 ![q-service-years](./images/q-service-years.png)
-
-Three participants had **difficulty answering the service years question** because they found the options confusing. *ADD DETAILS AND QUOTES*
 
 One participant **thought that none of the options applied** to him. He said, *"This is one of those frustrating times when there's not an appropriate answer for me" (p10)/* When prompted to try again, he blamed it on his tendency *"to read through stuff quicker than I should."* He thought that rewording the radio button options to "1990 to present" and "Prior to 1989" might be clearer.
 
-A different participant was thinking about the campaigns she served in and not the years, and was **wondering whether toxic exposures for 1990 were similar to those that she might have experienced 12 years later** in the 2000's. She suggested instead having checkbox options with the different options and thought this might be easier for answering questions on behalf of family members, too. She suggested the following list of options: Operation Iraqi Freedom, Operation Enduring Freedom, Desert Storm, Vietnam, Gulf War, Cold War. 
+A different participant was thinking about the campaigns she served in and not the years, and was **wondering whether toxic exposures for 1990 were similar to those that she might have experienced 12 years later** in the 2000's. She suggested instead having checkbox options with the different options and thought this might be easier for answering questions on behalf of family members, too. She suggested the following list of options: Operation Iraqi Freedom, Operation Enduring Freedom, Desert Storm, Vietnam, Gulf War, Cold War. (Seems like this list could get really long and require updating.)
 
 A third participant didn't select "both time periods" until his second time through the survey. He seemed to think that the word **"serve" meant instead "started" or "joined" because he asked whether it includes his training**. The reason is that he joined in Aug 1989 and did basic training and tech training but didn't actually start serving until 1990. And *"you're really not in the military until after training" (p4).*
 
-RECOMMENDATIONS: 
+POTENTIAL RECOMMENDATIONS: 
 1. **Consider instead asking what year the Veteran joined the service and what year they left** (as in Perigean's recruitment survey). This might be more straightforward than the cognitive load of A/B/both radio button options, and also would eliminate questions about whether one's service is close enough to 1989 or 1990 and the implications. 
 1. Alternatively, consider making the options into 2 checkboxes instead of 3 radio buttons.
 1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
+1. Consider adding a "Not sure" option that would result in all questions being asked (like the current "Both time periods" option).
 
 #### Agent Orange question about C-123 planes
 ![q-C-123-plane-Agent-Orange](./images/q-C-123-plane-Agent-Orange.png)
-1. Two participants brought up (unprompted) that they **didn't know what a "C-123 plane" was**, which was mentioned in one of the Agent Orange questions. Two other participants said, *"If it applied to you, you would know" (p9).*
+When they saw the above question, 2 participants brought up (unprompted) that they **didn't know what "C-123 airplanes" are**. Both of them answered "I'm not sure" to the question. 
+
+Two different participants mentioned that they're familiar with C-123's but others may not be. One said, *"If it applied to you, you would know...service members know their equipment" (p9).* The other said something very similar and also that an explanation might be helpful.
+
+POTENTIAL RECOMMENDATION: 
+1. Consider adding a brief description or link to information about C-123 planes.
 
 #### Agent Orange question about DMZ
 ![q-DMZ-Agent-Orange](./images/q-DMZ-Agent-Orange.png)
