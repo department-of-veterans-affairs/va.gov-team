@@ -185,7 +185,9 @@ Percentage of Users (and roughly how many users do you expect this to be): 1%
             - Errors persisted until 12:08pm, total volume ~1400
             - 500* spike may be coincidental, will run again shortly to confirm
             - 12:55pm - Foreground flag running at 0.1% with no errors
-            - 1:35 - Background flag running at 0.1% with no erros
+            - 1:35pm - Background flag running at 0.1% with no erros
+            - 2:05pm - 0.5% running on both flags with no errors
+            - 3:00pm - 1% running, will update LH-side of dashboard
 - Rollbacks:
     -     Rollback reason: No traffic capture on the LH side
             Date: 10/2/23
