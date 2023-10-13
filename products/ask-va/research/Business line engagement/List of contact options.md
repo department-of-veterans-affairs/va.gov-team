@@ -31,6 +31,16 @@ This list is alphabetized by category name.
 |`Veteran ID Card (VIC)`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Veteran Readiness and Employment`|Email, phone and US Mail are always `ENABLED`|
 
+## How this pattern works
+
+When a submitter can choose between ≥ 2 contact options, we need to include a question that captures their contact preference. Here's an example from [Ask VA - Sketch - Health care](https://sketch.com/s/6a75d0a2-e484-4f1e-8675-ad5747a1a871). You can also reference this [pattern in the VA.gov design system](https://design.va.gov/patterns/ask-users-for/contact-preferences).
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Contact-preference.png)
+
+When a submitter cannot choose between ≥ 2 contact options, for example, only email is `ENABLED`, this question is omitted from the form. In this case, we need to update the submission page to let a submitter know how they can expect to be contacted. Here's an example from [Ask VA - Sketch - Education](https://sketch.com/s/7e494761-be10-4aef-a268-a45a02fbc5c3).
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Submission-response-email.png)
+
 ## Contact rules by topic
 
 This list is alphabetized by category name. Subtopics will follow the same contact rules as their parent topic.
