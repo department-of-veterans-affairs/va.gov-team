@@ -82,32 +82,20 @@ Our target audience are 12 Veterans (with expectations of speaking to 8) who are
 Generated using VA [maximum variation sampling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#Lean-MVS-Strategy) method.
 
 **Screener questions**
-1. These upcoming interviews will be to gather feedback on a new VA.gov experience to ensure that it’s meeting Veterans needs and expectations. During the interview we will ask you to share your phone or computer screen while you use new VA.gov tools to gather your feedback. Do you wish to continue? (Single Select)
-	- Yes
-	- No (DO NOT RECRUIT)
+1. The following statements will be referring to your engagement with representatives, which includes VSOs, attorneys, and claims agents. Select the option that best describes your current situation.
+	- I am currently looking for a representative to support me with a VA benefit, such as education, pension, or disability
+	- I have been getting support from a representative with a VA benefit, such as education, pension, or disability, for the last 3 - 6 months
+	- I received support from a representative with a VA benefit, such as education, pension, or disability, in the past
+	- I have never worked with a representative and am not currently looking for representation
 
-2. Are you willing and able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet. (Single Select)
-	- Yes (Recruit exactly 6 participants for primary mobile users)
-	- No
-
-3. Are you willing and able to join the Zoom session from a desktop or laptop computer that connects to the internet? (Single Select)
-	- Yes (Recruit exactly 6 participants for primary desktop users)
-	- No (IF Veterans answer NO to both Q1 and Q2 DO NOT RECRUIT)
-
-4. The following statements will be referring to your engagement with representatives, which includes VSOs, attorneys, and claims agents. Select the option that best describes your current situation. (Single Select)
-	- I am currently looking for a representative to support me with a VA benefit, such as education, pension, or disability (Recruit exactly 6 Veterans actively searching for a representative to support with benefits or claims)
-	- I have been getting support from a representative with a VA benefit, such as education, pension, or disability, for the last 3 - 6 months (Recruit exactly 6 for Veterans with a representative supporting them with benefits or claims, that they began working with within the last 3 - 6 months)
-	- I received support from a representative with a VA benefit, such as education, pension, or disability, in the past (DO NOT RECRUIT)
-	- I have never worked with a representative and am not currently looking for representation (DO NOT RECRUIT)
-
-5. What type of representative are you looking for support from and/or are currently getting support from with your VA benefit? (Single Select)
+2. What type of representative are you looking for support from and/or are currently getting support from with your VA benefit?
 	- Veteran Service Organization (VSO)
-	- Attorney (Recruit at least 2 Veterans with attorney representative)
-	- Claims Agent (Recruit at least 1 Veterans with claims agent representative)
-	- None of the above (DO NOT RECRUIT)
-	- I’m not sure (DO NOT RECRUIT)
+	- Attorney
+	- Claims Agent
+	- None of the above
+	- I’m not sure
 
-6. What type of VA benefit are you looking for support for and/or are currently getting support for from a representative? (Multi Select)(Only allow up to 4 Veterans with Disability selected.)
+3. What type of VA benefit are you looking for support for and/or are currently getting support for from a representative?
 	- Burial and memorials
 	- Careers and employment
 	- Disability
@@ -116,7 +104,7 @@ Generated using VA [maximum variation sampling](https://github.com/department-of
 	- Housing assistance
 	- Life insurance
 	- Pension
-	- Other (DO NOT RECRUIT)
+	- Other
 
 [Sample screener questions.](https://depo-platform-documentation.scrollhelp.site/research-design/successful-screener-questions)
 
