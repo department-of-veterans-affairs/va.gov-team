@@ -39,7 +39,7 @@ This list is alphabetized by category name.
 
 ## How we should use their feedback to inform our designs
 
-- Include these fields as required for all categories, because all business lines agreed:
+- Include these fields as required for all categories, because all business lines agree:
   - `First name`
   - `Last name`
   - `Date of Birth`
