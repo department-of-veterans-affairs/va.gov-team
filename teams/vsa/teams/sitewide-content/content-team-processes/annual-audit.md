@@ -1,4 +1,4 @@
-# Annual content, IA, and accessibility audit for Drupal static content pages
+# Ongoing content audit for Drupal static content pages
 
 ## Process
 
@@ -34,35 +34,21 @@ SMEs to review all identified content for the following:
 
 The OCTO audit will identify and create tickets to fix issues with these items for each content page:
 
-### URL
-- [ ] URL follows VA.gov URL standards
-- [ ] URL correctly represents the placement of the page in the IA of the site
-- [ ] URL includes primary keyword and aligns with the H1
+### OCTO content lead checks and tasks
 
-### Breadcrumb
+- The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.).
+- Assess the content in the blue box and remove content that isn't related to eligibility. Move non-eligiblity content to Q&As under the featured content blue box or incorporate as appropriate otherwise on the page.
+- Add standards checks as appropriate for each hub (will vary by hub)
+- Relevant terms from page are in content brief
+- Backlog work is captured in a backlog ticket
+- Record of the audit for each webpage is in the github folder for that calendar year within the audit folder.
 
-- [ ] The page displays a breadcrumb
-- [ ] The breadcrumb represents the same hierarchy as the URL
-- [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly
-- [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags
+### Copyeditor checks and tasks, in addition to editing OCTO edits
 
-### Secondary navigation (where applicable)
-
-- [ ] The page is displayed as an option within the secondary nav
-- [ ] The placement of the option in the secondary nav represents the same hierarchy as the URL
-- [ ] **If the page is translated,** the translated segments of the navigation have appropriate tags
-
-### On this page component
-
-- [ ] The page has an "on this page" component if appropriate
-
-### Content on page
-
-- [ ] Header levels are hierarchical
-- [ ] The page has no broken links
-- [ ] Link labels are clear with target (for external sites) and purpose
-- [ ] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
-- [ ] The content is free of ability-focused language
-- [ ] Terms are consistent and content aligns with relevant content brief (create or update brief as needed)
+- Header levels are hierarchical
+- The page has no broken links
+- Text links have purpose and target
+- The content is free of ability-focused language (view, walk, see, hear) Note: We allow "show" and "appear" when talking about evidence related to disability compensation.
+- Flesch-Kincaid before and after grade level (add to record of audit for each webpage)
 
 **Note:** Run and record grade level checks of each page for documentation. Flag any pages with higher than 8th grade scores (with no content prep) and put in backlog for further review.
