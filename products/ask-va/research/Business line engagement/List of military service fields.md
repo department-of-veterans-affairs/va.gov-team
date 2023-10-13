@@ -39,19 +39,14 @@ This list is alphabetized by category name.
 
 ## How we should use their feedback to inform our designs
 
-Some fields are consistent across all business lines: 
+Because feedback about these fields is consistent across all business lines, we can:
 
-- First/last name: Always `NEED`
-- Date of Birth: Always `NEED`
-- Service start date: Always `**DON'T NEED**`
-- Service end date: Always `**DON'T NEED**`
-
-We should include these fields as required in all flows:
+Include these fields as required for all categories:
 
 - First/last name: Always `NEED`
 - Date of Birth: Always `NEED`
 
-We should remove these fields from the form:
+Remove these fields from the form:
 
 - Service start date: Always `**DON'T NEED**`
 - Service end date: Always `**DON'T NEED**`
