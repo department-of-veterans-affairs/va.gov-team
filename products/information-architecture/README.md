@@ -53,22 +53,7 @@ In addition, well-organized content that utilizes clear and relevant labeling al
   - [Facilities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1674779377050/04377db23cd64177d3e90e2c216a5d9bc14c8878?wid=24-1676064961383)
 
 
-## Current IA strategic initiatives
 
-**Content placement criteria** <br>
-- In collaboration with content strategy
-- [Initiative folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/content-strategy-ia-collaboration/content-placement-criteria)
-
-**Family member benefit hub** <br>
-- In collaboration with content strategy
-- [Initiative folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/content-strategy-ia-collaboration/family-member-hub)
-
-**Benefit hub optimization** <br>
-- In collaboration with content strategy
-- [Initiative folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/content-strategy-ia-collaboration/optimize-benefit-hubs)
-
-**Authenticated experience IA** <br>
-- In collaboration with authenticated experience
 
 ## Contacts us 
 
