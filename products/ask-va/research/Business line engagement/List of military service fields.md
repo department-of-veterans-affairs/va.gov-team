@@ -10,7 +10,7 @@ This is when business lines have stated they need or don't need particular milit
 
 This list is alphabetized by category name. 
 
-|Category|Business line|First/last name|Branch of service|Service number|SSN|DoD/EDIPI|Service start date|Service end date|DOB|Claim number|
+|Category|BL|First/last name|Branch of service|Service number|SSN|DoD/EDIPI|Service start date|Service end date|DOB|Claim number|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |`Benefit issues outside the U.S.`|Education|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
 |`Benefit issues outside the U.S.`|VBA|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
