@@ -143,7 +143,7 @@ Participants who served in both time periods saw the greatest number of question
 #### Service years question
 ![q-service-years](./images/q-service-years.png)
 
-5. Three participants had **difficulty answering the service years question** because they found the options confusing. *ADD DETAILS AND QUOTES*
+Three participants had **difficulty answering the service years question** because they found the options confusing. *ADD DETAILS AND QUOTES*
 
 #### Agent Orange question about C-123 planes
 ![q-C-123-plane-Agent-Orange](./images/q-C-123-plane-Agent-Orange.png)
