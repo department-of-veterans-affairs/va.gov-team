@@ -55,8 +55,9 @@
 - [Google Analytics Events](https://docs.google.com/spreadsheets/d/1BPOlI6vzH-tMTswvUrci3Q0NkBmfIIfo8Cgj_nM10gk/edit#gid=0)
 - [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprintdemo/readme.md)
 - [Product FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
+- [PCI Service Blueprint with 45 min reminder_2023-10-13.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12897797/PCI.Service.Blueprint.with.45.min.reminder_2023-10-13_19-15-05.pdf)
+- [Mural version](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286)
 - [VSE for Clinical Staff User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/files/12824914/vsecs_user_guide.pdf)
-
 
 ## Priorities & Backlog
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531667299/7e7c858244db550198c2f8f29f6e2919eec44d9e?sender=uc584f7fcc9a5090000259578)
