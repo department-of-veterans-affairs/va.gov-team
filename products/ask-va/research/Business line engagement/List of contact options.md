@@ -7,7 +7,7 @@ This list has been discussed and agreed upon by all business lines ([review list
 ## When to enable or disable contact options
 
 If `Category` = `Benefits issues outside the U.S.`
-Then contact options vary by topic ([see contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic))
+<br> Then contact options vary by topic ([see contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic))
 
 ## Contact rules by topic
 
