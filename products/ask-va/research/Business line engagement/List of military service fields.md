@@ -12,7 +12,7 @@ Jump to:
 
 This is when business lines have stated they need or don't need particular military service information in Ask VA.
 
-This list is alphabetized by category name. 
+This list is alphabetized by category name. This can also be viewed as a screenshot, at the end of this document.
 
 |Category|First/last name|Branch of service|Service number|SSN|DoD/EDIPI|Service start date|Service end date|DOB|Claim number|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
@@ -55,3 +55,7 @@ This list is alphabetized by category name.
   - `DoD/EDIPI number` is needed by around 50% of business lines, and not needed by around 50% of business lines
 
 This document should be updated once there is a clear decision for how we will handle each field.
+
+## Appendix
+
+![image: screenshot of military service information spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/AVA-military-service-fields.png)
