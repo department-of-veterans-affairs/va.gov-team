@@ -53,3 +53,5 @@ This list is alphabetized by category name.
   - Do VBA and `Veteran ID Card (VIC)` need `Branch of Service`, if all other business lines do not?
 - Discuss how to handle this field, which varies greatly between categories:
   - `DoD/EDIPI number` is needed by around 50% of business lines, and not needed by around 50% of business lines
+
+This document should be updated once there is a clear decision for how we will handle each field.
