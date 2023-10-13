@@ -9,9 +9,16 @@ Information architecture focuses on organization, labeling, and navigation of in
 **Contacts:** 
 
 - OCTO Lead Information Architect: Mikki Northuis (michelle.northuis@va.gov)
-- Sitewide Information Architects:
-  - Kristin Ouellette Muskat 
-  - Jenny Mayo 
+
+- Sitewide IA
+  - Kristin Ouellette Muskat, Jenny Mayo
+  - Slack: #sitewide-content-ia
+- Health portal IA:
+  - Sara Sterkenberg
+  - Slack: #mhv-on-vagov-cartography-team
+- Governance IA
+  - Erin White
+  - Slack: #vfs-platform-support
 
 
  **Slack:** #sitewide-content-ia <br>
@@ -52,7 +59,7 @@ In addition, well-organized content that utilizes clear and relevant labeling al
 
 [Standards and general documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/standards)
 
-**Site maps**
+**Site maps for the modernized VA.gov experience**
 - Visual Site Maps - A visual diagram representing the high level IA and structure of VA.gov (goes to Mural)
   - [Root level](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1672351995789/71a5b7ba07995735d458df39e07a696f48a9be48?wid=7-1676676077721)
   - [Health care hub](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1666882559766/ada92d293c76f3d61c71d3f2421c7f160f3648a8?wid=0-1675291071517&sender=u2aba00c97ab77c6ec1573123)
@@ -68,7 +75,22 @@ In addition, well-organized content that utilizes clear and relevant labeling al
   - [Facilities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1674779377050/04377db23cd64177d3e90e2c216a5d9bc14c8878?wid=24-1676064961383)
 
 
+## Current IA strategic initiatives
 
+**Content placement criteria** <br>
+- In collaboration with content strategy
+- [Initiative folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/content-strategy-ia-collaboration/content-placement-criteria)
+
+**Family member benefit hub** <br>
+- In collaboration with content strategy
+- [Initiative folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/content-strategy-ia-collaboration/family-member-hub)
+
+**Benefit hub optimization** <br>
+- In collaboration with content strategy
+- [Initiative folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/content-strategy-ia-collaboration/optimize-benefit-hubs)
+
+**Authenticated experience IA** <br>
+- In collaboration with authenticated experience
 
 
 
