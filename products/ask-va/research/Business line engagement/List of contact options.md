@@ -5,9 +5,9 @@ Last updated by @tygindraux: October 13, 2023
 This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)).
 
 Jump to:
-- When to enable or disable contact options
-- How this pattern works
-- Contact rules by topic
+- [When to enable or disable contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#when-to-enable-or-disable-contact-options)
+- [How this pattern works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#how-this-patterns-works)
+- [Contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic)
 
 ## When to enable or disable contact options
 
