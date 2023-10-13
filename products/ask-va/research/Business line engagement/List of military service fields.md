@@ -12,21 +12,21 @@ This list is alphabetized by category name.
 
 |Category|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|`Benefits issues outside the U.S.`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Burials and memorials`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Center for Minority Veterans`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Center for Women Veterans`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Debt for benefit overpayments and copay bills`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Decision reviews and appeals`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`DEERS (Defense Enrollment Eligibility Reporting System)`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Disability compensation`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Education benefits and work study`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Guardianship, custodianship, or fiduciary issues`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Health care`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Housing assistance and home loans`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Life insurance`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Pension`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Sign in and technical issues`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Survivor benefits`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Veteran ID Card (VIC)`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Veteran Readiness and Employment`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Benefits issues outside the U.S.|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Burials and memorials|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Center for Minority Veterans|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Center for Women Veterans|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Debt for benefit overpayments and copay bills|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Decision reviews and appeals|`NEED`|**`DON'T NEED`**|**`DON'T NEED`**|`NEED`|`NEED`|**`DON'T NEED`**|**`DON'T NEED`**|`NEED`|`NEED`|
+|DEERS (Defense Enrollment Eligibility Reporting System)|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Disability compensation|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Education benefits and work study|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Guardianship, custodianship, or fiduciary issues|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Health care|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Housing assistance and home loans|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Life insurance|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Pension|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Sign in and technical issues|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Survivor benefits|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Veteran ID Card (VIC)|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Veteran Readiness and Employment|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
