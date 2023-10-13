@@ -157,5 +157,8 @@ Please list the people who will be serving in each role. **Include the primary p
 - PUMPKIN Participant(s) for pilot test: TBD
 - *Accessibility specialist (for sessions where support for assistive technology may be needed): N/A
 - *Notetakers:
+	- Holden Hinkle, Holden.Hinkle@oddball.io
+	- Lesley Ropp, lesley.ropp@va.gov
+	- Lindsay Li-Smith, lindsay.li-smith@oddball.io
 	- Michael Tri, michael.tri@adhocteam.us
 - *Observers: Janelle will forward invites based on sign-up sheet.
