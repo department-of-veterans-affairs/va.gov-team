@@ -10,7 +10,8 @@ The following are releases planned by the Modernized Check-in Team. Click on the
 
 | Planned Release    | Estimated Release | Short Description |
 | :----------------- | :--------- | :--------------  |
-| [Unified Check-in Experience: Priority 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/unified-check-in-experience.md) | TBD | New landing page & associated content changes<br>[Epic 61390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390) |
+| [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/45-minute-check-in-text.md) | TBD | New landing page & associated content changes<br>[Epic 63466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466) |
+| [Unified Check-in Experience: Priority 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/unified-check-in-priority-1.md) | TBD | New landing page & associated content changes<br>[Epic 61390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390) |
 | Unified Check-in Experience: Priority 2 | TBD | Minor updates to Details page |
 | Unified Check-in Experience: Priority 3 | TBD | New completion page format & updates to demographics pages |
 | Unified Check-in Experience: Priority 4 | TBD | New message and error page formats |
