@@ -1,8 +1,8 @@
 `VERSION: THE FOLLOWING IS A COPY OF TICKET #67376 AS OF 10/11/2023`
 
-**ACCESS TICKET** [#67376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67376)
-
 # Audit Findings: Chatbot MHV Prescriptions Skill 
+
+**ACCESS TICKET** [#67376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67376)
 
 **External consideration:** We realize that some of the issues identified with the chatbot may be specific to Microsoft, beyond the scope and ability of the VA to remediate, and that tickets may need to be drawn up with Microsoft. This audit was completed to bring attention to all issues, regardless of owner, for a comprehensive accessibility review of the chatbot for the end user. 
 
