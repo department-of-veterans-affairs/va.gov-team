@@ -39,17 +39,17 @@ This list is alphabetized by category name.
 
 ## How we should use their feedback to inform our designs
 
-Because feedback about these fields is consistent across all business lines, we can:
+Because these fields received consistent feedback from all business lines, we should:
 
-Include these fields as required for all categories:
+**Include these fields as required for all categories:**
 
-- First/last name: Always `NEED`
-- Date of Birth: Always `NEED`
+- First/last name
+- Date of Birth
 
-Remove these fields from the form:
+**Remove these fields from the form:**
 
-- Service start date: Always `**DON'T NEED**`
-- Service end date: Always `**DON'T NEED**`
+- Service start date
+- Service end date
 
 Other fields are needed by some business lines, but not by others:
 
