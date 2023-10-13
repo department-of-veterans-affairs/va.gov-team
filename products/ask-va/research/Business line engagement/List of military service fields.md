@@ -18,20 +18,20 @@ This list is alphabetized by category name.
 |`Burials and memorials`: VBA|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
 |`Center for Minority Veterans`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
 |`Center for Women Veterans`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
-|`Debt for benefit overpayments and copay bills`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
+|`Debt for benefit overpayments and copay bills`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
 |`Decision reviews and appeals`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|
-|`DEERS (Defense Enrollment Eligibility Reporting System)`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Disability compensation`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Education benefits and work study`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Guardianship, custodianship, or fiduciary issues`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Health care`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Housing assistance and home loans`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Life insurance`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Pension`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Sign in and technical issues`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Survivor benefits`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Veteran ID Card (VIC)`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Veteran Readiness and Employment`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
+|`DEERS (Defense Enrollment Eligibility Reporting System)`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Disability compensation`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Education benefits and work study`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Guardianship, custodianship, or fiduciary issues`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Health care`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Housing assistance and home loans`|`NEED`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Life insurance`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Pension`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Sign in and technical issues`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Survivor benefits`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Veteran ID Card (VIC)`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Veteran Readiness and Employment`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
 
 ### Analysis
 
