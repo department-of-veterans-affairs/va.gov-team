@@ -117,7 +117,9 @@ This list is alphabetized by category name.
 |`Veteran Readiness and Employment`|Follow up on application or contact counselor|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Veteran Readiness and Employment`|Other|`ENABLED`|`ENABLED`|`ENABLED`|
 
+<style>table{width:100%}</style>
+
 ## When to enable or disable contact options by category rules
 
 If `Category` = `Benefits issues outside the U.S.`
-Then contact options vary by topic (see topics)
+<br> Then contact options vary by topic (see topics)
