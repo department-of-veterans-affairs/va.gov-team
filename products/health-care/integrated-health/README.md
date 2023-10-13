@@ -10,6 +10,9 @@ The Office of Integrated Veteran Care (IVC) is responsible for implementing a br
 - VA & Community care Appointments
 - and more
 
+## Vision for this effort 
+This is truly a digital modernization project that spans the digital experience, health, and benefits portfolios. We have a real opportunity here to break down the silos of the organization, and deliver consistent experiences for Veterans and their family members. There are aspects of this work, such as decision reviews or financial management, that may be more health care focused, but we already have a near identical experience built under the benefits space. Instead of building a siloed health care experience, our vision is to weave the health care use cases into the existing products. Anyone working on this project should be asking themselves: Does this experience already exist on VA.gov? Can I augment what already exists? 
+
 ### History
 This effort began several years ago when the Mission Act came out, which spelled out that Veterans were required to have a patient portal for community care. Dr. Kameron Matthews (former VHA CMIO) decided that it was foolish to create a NEW patient portal outside of VA.gov, and indicated that it should be built on VA.gov instead. 
 
@@ -17,16 +20,16 @@ A team outside of OCTO was hired to research and design the features for this co
 
 Separately, the IDEA Act came out, which required VA to digitize all user-facing forms. A team under OCTO started the process of digitizing these forms. Congress is particularly interested in a suite of forms that would enable Veterans in the foreign medical program, as well as Veterans' family members to be able to apply for and manage certain benefits online. 
 
-All of the requirements for the community care portal and the VFMP focus were batched into one giant requiements document, which became, eventually, the **Integrated Helath Veteran & Family Member Modernization Project**. 
+All of the requirements for the community care portal and the VFMP focus were batched into [one giant requiements document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/RTM%20Report%2001062023.xlsx), which became, eventually, the **Integrated Helath Veteran & Family Member Modernization Project**. 
 
 OCTO reviewed the list of requirements and determined that:
 - some % of the features requested already existed on VA.gov (i.e. the 1010ez)
 - some % were net new features (such as the CHAMP VA form)
 - some should be integrated into existing VA.gov products (decision reviews, debt management, facility locator)
 - some are not technically feasible or advisable.
-(See original document breaking down the work)
+[See OCTO's original document breaking down the work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/Community%20Care%20Portal%20Write-up%20updated%2032723.docx)
 
-OCTO proposed an organization of IVC's requirements that breaks the work into chunks:
+OCTO proposed an organization of IVC's requirements that [breaks the work into chunks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/IVC%20Patient%20Portal%20Intake%20and%20work%20to%20be%20done.docx):
 - Digitizing forms
 - Letters
 - Community care appointments and scheduling
@@ -37,12 +40,146 @@ OCTO proposed an organization of IVC's requirements that breaks the work into ch
 - Contact Center/Help/Chat/Feedback 
 - Content
 
-In Fall 2023, a team was hired to start on the **Digitizing forms** part of the work. 
+## Digitizing Forms
+In Fall 2023, a CEDAR team was hired to [digitize 15 forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/IVC%20Portal%20Forms%20Work.docx) 
+1.	CHAMPVA Application Form – VA Form 1010D
+  - Latest PDF: [About VA Form 10-10d](https://www.va.gov/find-forms/about-form-10-10d/)
+  - Expiration: 10/31/2024
+2.	CHAMPVA Beneficiary Claims Submission – VA Form 10-7959A
+a.	Latest PDF: About VA Form 10-7959A, download: vha-10-7959a-fill.pdf (va.gov)
+b.	Expiration: 10/31/2024
+3.	OHI Form – VA Form 10-7959C
+a.	Latest PDF: About VA Form 10-7959C , download: VA-10-7959c-fill.pdf
+b.	Expiration: 10/31/2024
+4.	FMP Registration Form – VA Form 10-7959-1
+a.	Latest PDF: Download VA Form 10-7959f-1 (PDF)
+b.	Expiration: 01/31/2024
+5.	Foreign Medical Program Claim Cover Sheet – VA Form 10-7959f-2
+a.	Latest PDF:  Download VA Form 10-7959f-2 (PDF)
+b.	Expiration: 01/31/2024
+6.	Power of Attorney form – VA Form 10-0137
+a.	Latest PDF: Download VA Form 10-0137 (PDF)
+b.	Expiration: 04/30/2024
+7.	Release of Information (ROI) form – VA Form 10-5345
+a.	Latest PDF:  Download VA Form 10-5345 (PDF)
+b.	Expiration: Not shown
+8.	SB Claim Form for Miscellaneous Expense – VA Form 10-7959E
+a.	Latest PDF:  Download VA Form 10-7959E (PDF)
+b.	Expiration: Not shown
+9.	Decision Review Request Board Appeal (Notice of Disagreement)  - VA Form 10182
+a.	Latest PDF: Download VA Form VA10182 (PDF)
+b.	Expiration: 03/31/2025
+10.	Decision Review Request Higher-Level review - VA Form 20-0996
+a.	Latest PDF: Download VA Form 20-0996 (PDF)
+b.	Expiration: 04/30/2024
+11.	Decision Review Request Supplemental Claim VA Form 20-0995
+a.	Latest PDF:  Download VA Form 20-0995 (PDF)
+b.	Expiration: 04/30/2024
+12.	Camp Lejeune Application Form – VA Form 10-10068
+a.	Latest PDF: VA Form_10-10068-fill.pdf
+b.	Expiration: 8/31/2025
+13.	Camp Lejeune Treating Physician Report – VA Form 10-10068b
+a.	Latest PDF: VA Form_10-10068b-fill.pdf
+b.	Expiration: 8/31/2025
+14.	CLFMP information Update Form – VA Form 10-10068c
+a.	Latest PDF: VA_Form_10-10068c-fill.pdf
+b.	Expiration: 8/31/2025
+15.	CLFMP Claim Form – VA Form 10-10068a
+a.	Latest PDF: VA Form_10-10068a-fill.pdf
+b.	Expiration: 08/31/2025
 
-Who are the users and what do we know about them
-What is the problem they are having and why are they having it?
-What business outcomes are trying to be achieved by solving for that problem?
-With who do we expect the team will need to collaborate with but inside and out of OCTO to solve the problem?
-What unique factors exist like legislative pressures or constraints?
-What commitments have already been made, to whom, and at what level of fidelity?
-What are the biggest known risks?
+
+
+## Who are the users and what do we know about them? 
+The users for this work include:
+- Veterans who use community care services: We know a fair bit about Veterans who are users of community care. These are Veterans who either live very far from a VA Medical Center,  require specialty services that their VA Medical Center may not offer (not every VAMC offers all services), or would have to wait too long to get their appointment at the VA. Veterans who use community care also still get care from the VA, and VA is intended to serve as a care coordinator. 
+
+- Veterans eligible for SpinaBifida or Camp Lejeune services: These are Veterans who are eligible for specialty benefits and health programs as a result of where they served. 
+
+- Veterans who live abroad but are eligible for VA Health Care services through the Foreign Medical Program: These are Veterans who may be eligible for VA Health Care but live overseas. VA clinicians are  not legally allowed to provide health care to these Veterans while they are overseas, so VA needs to reimburse Veterans for health care costs incurred.
+  
+- Spouses, dependents, and Family members who are eligible for CHAMPVA, Camp LeJeune, and other services [see more in the family member hub](https://www.va.gov/health-care/family-caregiver-benefits/)
+
+## What is the problem they are having and why are they having it?
+General problems include:
+- Being able to take an action online that I previously had to do via mail
+- Access to my data and information online, in one common place
+- A clear way to get help
+
+- See this file for more detail: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/IVC%20Patient%20Portal%20Intake%20and%20work%20to%20be%20done.docx](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/IVC%20Patient%20Portal%20Intake%20and%20work%20to%20be%20done.docx)
+
+## What business outcomes are trying to be achieved by solving for that problem?
+- Business wants to be able to show Congress that they have digitized the manual processes (thus speeding up access to the benefit)
+- Business wants to be able to show Congress that they have satisfied the requirements of a law.
+- Business wants to stop having to answer Congressionals or other Veteran and family / caregiver complaints. 
+
+## With whom do we expect the team will need to collaborate with but inside and out of OCTO to solve the problem?
+
+### OCTO POCs
+  - Premal Shah - Product Owner 
+  - Chris Johnston - Digital Experience Portfolio Lead
+  - Lauren Alexanderson - Health Portfolio Lead, main POC for anything to do with patient portal/medical records 
+  - Matt Dingee - Forms System & Design System
+  - Danielle Thierry - CAIA Lead (for all things content, community care, decision review and family member hubs, etc.) 
+  - Kay Lawyer - Product lead for Unified Appointment Experience (including consults, authorizations, etc.) & Medications
+  - Denise Coveyduc - Product lead for debt mgmt product 
+  - Beverly Nelson - Product lead for VA Notify
+  - Chante Lantos-Swett - Contact Centers, Helpdesks, etc.
+  - Michelle Middaugh - Facility websites, Facility Locator
+  - Patrick Bateman - Medical equipment ordering 
+  - Zach Goldfine/Emily Theis - Decision Reviews
+  - Samara Strauss - VA Profile
+  - Dave Conlon/Danielle Theirry - Sitewide search
+  - Rachel Han - Mobile app
+  - Luciana Morais - Chatbot 
+    
+### VHA - IVC:
+  - Rich Holmes has been designated as the lead for this project in IVC. 
+  - Additional names include:
+    - Hillary Peabody (senior POC in IVC)
+    - Dave Fennell
+    - Doug Katason
+    - Paul Abamonte
+    - Mia Powers-Higgins
+    - Jakki May (SP?)
+### VHA - Decision Reviews see **Chris Johnston for POC**
+### VHA - Office of Connected Care - Dr. Meredith JOsephs & Theresa Hancock for medical record / patient portal part 
+### OIT - BIOS: Responsible for coordination on OIT side
+  - Howard Green & Malek Crawford are main POCs
+  - Alan Greilsamer is the lead of BIOS
+### OIT-VES:
+  - Thani Boskailo - will be leading the charge to update the E&E system to be able to receive these forms
+  - Kim Pugh would be POC for any SaaS integrations needed 
+### OIT-SPM-Scheduling
+  - Emily Qiu - leads the product line
+  - Grace Palino - Project lead for scheduling
+  - BJ Thompson - Eng lead for scheduling
+### OIT-SPM-Community Care
+  - Robert Miller leads the product line
+  - George Brittingham works on community care, would be POC for PEGA/Box (if used)
+### VEO
+  - Trish Deng
+  - Melissa Rebstock 
+
+## What unique factors exist like legislative pressures or constraints?
+- Mission Act requires a community care patient portal, by yesterday
+- Congress is requiring the VFMP forms and processes be digitized within 2024. 
+- IDEA Act requires forms be digitized
+- MHV on VA.gov is underway now; teams cannot take on any of the medical records / SM / meds integrations before 2025.
+- E&E system is updating - will be in progress from FY 24-26 - this is the backend of several forms 
+- SPM Scheduling is in the process of several high profile efforts to modernize, including integrating community care data
+- VHA has separately started a process for decision reviews / appeals / claims - need to tap into that
+- We do not currently have a way for multiple users to complete the same form on VA.gov 
+
+## What commitments have already been made, to whom, and at what level of fidelity?
+- We have a contract in place to digitize 15 forms this year.
+- E&E has a contract in place to update the E&E system to be able to accept many of those forms.
+  
+## What are the biggest known risks?
+- Even though this is an IVC project, this has so many different groups involved, and it will be difficult to keep on top of all of it.
+- Trying to think holistically, from the lens of the users, versus from the perspective of the office that wants all this work done.
+- Not everything on that list of things to do are feasible. keep the focus on what can be delivered incrementally.
+- Keep the priority on reuse wherever possible, minor augmentations to existing flows, wherever possible. 
+
+In Fall 2023, a team was hired to start on the [Digitizing forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/IVC%20Portal%20Forms%20Work.docx) part of the work. There are 15 forms.
+
