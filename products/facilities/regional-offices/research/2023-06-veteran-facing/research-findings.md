@@ -12,21 +12,19 @@ Date: 010/06/2023
 
 **Jump to:**
 
-[Research Goals](#research-goals)
+[Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#research-goals)
 
-[Research questions](#research-questions)
+[Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#methodology)
 
-[Methodology](#methodology)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#hypotheses-and-conclusions)
 
-[Hypotheses and conclusions](#hypotheses-and-conclusions)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#key-findings)
 
-[Key findings](#key-findings)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#recommendations)
 
-[Recommendations](#recommendations)
+[Appendix (including screenshots of prototype)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#appendix)
 
-[Appendix (including screenshots of prototype)](#appendix)
-
-[Who we talked to](#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#who-we-talked-to)
 
 <br>
 
@@ -253,7 +251,16 @@ The majority of participants understood which services required an appointment a
 ### Screenshots of the prototype screens
 <details>
   <summary>Prototype screens (Click to show screenshots)</summary>
-    [insert images here]
+ ! [file name](image url) 
+ ! [0-VBAprototype](./images/0-VBAprototype.jpg)
+ ! [1-VBAprototype](./images/1-VBAprototype.jpg)
+ ! [2-VBAprototype](./images/2-VBAprototype.jpg)
+ ! [3-VBAprototype](./images/3-VBAprototype.jpg)
+ ! [4-VBAprototype](./images/4-VBAprototype.jpg)
+ ! [5-VBAprototype](./images/5-VBAprototype.jpg)
+ ! [6-VBAprototype](./images/6-VBAprototype.jpg)
+
+
 </details>
 
 ## Who we talked to
