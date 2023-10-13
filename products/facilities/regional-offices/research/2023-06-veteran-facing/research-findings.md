@@ -4,9 +4,9 @@
 
 Date: 010/13/2023
 
-**Alexis Logsdon** [alexis.logsdon@a1msolutions.com](alexis.logsdon@a1msolutions.com)
+**Alexis Logsdon**, [alexis.logsdon@a1msolutions.com](alexis.logsdon@a1msolutions.com)
 
-[Research readout](link)
+[Research readout (must be logged in to VA system to view)](https://dvagov.sharepoint.com/b:/r/sites/SitewideFacilitiesTeam/Shared%20Documents/General/VBA/20231012%20VBA%20Regional%200ffices%20Usability%20Research%20Readout.pdf)
 
 <br>
 
@@ -39,11 +39,11 @@ There are many potential touchpoints between the Veteran and this application th
 * Retiring (Finding additional sources of income)
 
 ## Research Questions
-Before seeing the prototype:
+**Before seeing the prototype:**
 1. What do Veterans (and others) know about VA regional benefit offices?
 2. What tasks do Veterans (and others) expect to do at VA regional benefit offices?
 
-From the prototype:
+**From the prototype:**
 
 3. Do Veterans (and others) understand which services are available at this location?
 * Categories of services (i.e., Veteran benefits, Family member & caregiver benefits, Service member benefits, Other services)
@@ -258,7 +258,10 @@ The majority of participants understood which services required an appointment a
 ## Tools used for Synthesis
 [Synthesis spreadsheet](https://docs.google.com/spreadsheets/d/1adPKduNfvJTDuNDRzxyyQDw2r24-5_L-ouYOMrVqdeM/edit?usp=sharing)
 
-[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692999071676/faf135ff7c2bb24825ac0529ed16fd4643f59408?sender=u3f35bedf61955cb051f44770)
+[Task completion tally spreadsheet (must be logged in to VA system to view)](https://dvagov.sharepoint.com/:x:/s/SitewideFacilitiesTeam/EZgjwsrisRRPsM9ZZSPjsX4BFY9J00hBmc9FrM9MTsMM3g?e=cYpxUG))
+
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/169299907167
+6/faf135ff7c2bb24825ac0529ed16fd4643f59408?sender=u3f35bedf61955cb051f44770)
 
 ## Pages and applications used
 
@@ -340,6 +343,16 @@ Disability and Assistive Technology (AT):
 * Cognitive: 3
 * AT user: 0
 
+  
+<details>
+  <summary>Charts and images (Click to show screenshots)</summary>
+ 
+![Device used in session](./images/Device%20used%20in%20session.png) 
+
+![Recruitment checker screenshot.png](./images/Recruitment%20checker%20screenshot.png) 
+
+</details> 
+
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
@@ -347,10 +360,4 @@ This research does not include the perspectives of the following marginalized Ve
 - Expat (living abroad)
 - Users of Assistive Technology 
 
-<details>
-  <summary>Charts and images (Click to show screenshots)</summary>
-![Device used in session](./images/Device%20used%20in%20session.png) 
 
-![Recruitment checker screenshot.png](./images/Recruitment%20checker%20screenshot.png) 
-
-</details> 
