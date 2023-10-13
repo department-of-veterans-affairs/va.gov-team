@@ -114,7 +114,7 @@ This list is alphabetized by category name.
 |`Health care`|Vet Centers and readjustment counseling|`ENABLED`|`**DISABLED**`|`ENABLED`|
 |`Health care`|Audiology and hearing aids|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
 |`Health care`|Prosthetics|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
-|`Health care`|Women's health services|TBD|TBD|TBD|
+|`Health care`|Women's health services|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Health care`|Foreign Medical Program|TBD|TBD|TBD|
 |`Housing assistance and home loans`|Appraisals|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Housing assistance and home loans`|Funding fee refund|`ENABLED`|`ENABLED`|`ENABLED`|
