@@ -7,9 +7,9 @@ This list has been discussed and agreed upon by all business lines ([review list
 ## When to enable or disable contact options
 
 If `Category` = `Benefits issues outside the U.S.`
-Then contact rules vary by topic (see topics)
+Then contact options vary by topic ([see contact rules by topic]())
 
-## When to enable or disable contact options by topic
+## Contact rules by topic
 
 This list is alphabetized by category name.
 
