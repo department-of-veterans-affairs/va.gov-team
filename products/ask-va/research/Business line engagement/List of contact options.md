@@ -34,9 +34,18 @@ This list is alphabetized by category name.
 |`Debt for benefit overpayments and copay bills`|Separation debt|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Debt for benefit overpayments and copay bills`|Severance pay debt|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Debt for benefit overpayments and copay bills`|Veteran Readiness and Employment debt|`ENABLED`|`ENABLED`|`ENABLED`|
-|Decision reviews and appeals|Topic|Email|Phone|US Mail|
-|DEERS (Defense Enrollment Eligibility Reporting System)|Topic|Email|Phone|US Mail|
-|Disability compensation|Topic|Email|Phone|US Mail|
+|`Decision reviews and appeals`|Higher-Level Reviews or Supplemental Claims|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Decision reviews and appeals`|Board Appeals|`ENABLED`|`ENABLED`|`ENABLED`|
+|`DEERS (Defense Enrollment Eligibility Reporting System)`|Adding requests|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`DEERS (Defense Enrollment Eligibility Reporting System)`|Updating DEERS records|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Disability compensation`|Aid and Attendance or Housebound benefits|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Disability compensation`|Direct deposit|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Disability compensation`|How to file a disability claim|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Disability compensation`|Guardianship, custodianship, or fiduciary issues|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Disability compensation`|Issue with compensation received|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Disability compensation`|Checking claim status|`ENABLED`|`ENABLED`|`ENABLED`|
+
+
 |Education benefits and work study|Topic|Email|Phone|US Mail|
 |Guardianship, custodianship, or fiduciary issues|Topic|Email|Phone|US Mail|
 |Health care|Topic|Email|Phone|US Mail|
