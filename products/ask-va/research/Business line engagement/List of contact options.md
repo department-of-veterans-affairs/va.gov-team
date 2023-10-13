@@ -6,12 +6,34 @@ This list has been discussed and agreed upon by all business lines ([review list
 
 ## When to enable or disable contact options
 
-If `Category` = `Benefits issues outside the U.S.`
-<br> Then contact options vary by topic ([see contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic))
+This is a summary of when to enable or disable contact options in Ask VA. For a complete list, jump to [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic).
+
+This list is alphabetized by category name. 
+
+|Category|Rule|
+|:--|:--|
+|`Benefits issues outside the U.S.`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic))|
+|`Burials and memorials`|Email, phone and US Mail are always `ENABLED`|
+|`Center for Minority Veterans`|Email, phone and US Mail are always `ENABLED`|
+|`Center for Women Veterans`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
+|`Debt for benefit overpayments and copay bills`|Email, phone and US Mail are always `ENABLED`|
+|`Decision reviews and appeals`|Email, phone and US Mail are always `ENABLED`|
+|`DEERS (Defense Enrollment Eligibility Reporting System)`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
+|`Disability compensation`|Email, phone and US Mail are always `ENABLED`|
+|`Education benefits and work study`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic))|
+|`Guardianship, custodianship, or fiduciary issues`|Email, phone and US Mail are always `ENABLED`|
+|`Health care`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic))|
+|`Housing assistance and home loans`|Email, phone and US Mail are always `ENABLED`|
+|`Life insurance`|Email, phone and US Mail are always `ENABLED`|
+|`Pension`|Email, phone and US Mail are always `ENABLED`|
+|`Sign in and technical issues`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
+|`Survivor benefits`|Email, phone and US Mail are always `ENABLED`|
+|`Veteran ID Card (VIC)`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
+|`Veteran Readiness and Employment`|Email, phone and US Mail are always `ENABLED`|
 
 ## Contact rules by topic
 
-This list is alphabetized by category name.
+This list is alphabetized by category name. Subtopics will follow the same contact rules as their parent topic.
 
 |Category|Topic|Email|Phone|US Mail|
 |:--|:--|:--|:--|:--|
