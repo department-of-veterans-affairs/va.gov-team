@@ -6,7 +6,7 @@ This list has been sourced from all business lines ([review list of stakeholders
 
 Jump to:
 - [When business lines say they need or don't need military service information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information)
-- How we should use their feedback to inform our designs
+- [How we should use their feedback to inform our designs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#how-we-should-use-their-feedback-to-inform-our-designs)
 
 ## When business lines say they need or don't need military service information
 
