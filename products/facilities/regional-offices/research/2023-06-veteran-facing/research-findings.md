@@ -1,5 +1,3 @@
-**Editing in progress. Not complete.**
-
 **Office of the CTO - Digital Experience (OCTO-DE), VBA facilities, Sitewide Facilities**
 
 Date: 010/13/2023
@@ -260,8 +258,8 @@ The majority of participants understood which services required an appointment a
 
 [Task completion tally spreadsheet (must be logged in to VA system to view)](https://dvagov.sharepoint.com/:x:/s/SitewideFacilitiesTeam/EZgjwsrisRRPsM9ZZSPjsX4BFY9J00hBmc9FrM9MTsMM3g?e=cYpxUG))
 
-[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/169299907167
-6/faf135ff7c2bb24825ac0529ed16fd4643f59408?sender=u3f35bedf61955cb051f44770)
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692999071676/faf135ff7c2bb24825ac0529ed16fd4643f59408?sender=u3f35bedf61955cb051f44770)
+
 
 ## Pages and applications used
 
