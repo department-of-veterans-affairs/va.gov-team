@@ -4,7 +4,7 @@ _Formally known as "Find a Representative"_
 
 The MVP will include desktop & mobile experiences
 
-## MVP
+## MVP: Appoint a Representative
 
 #### Find a Representative
 1. Search
