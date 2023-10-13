@@ -4,7 +4,11 @@ Last updated by @tygindraux: October 13, 2023
 
 This list has been sourced from all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)). This is based on their needs, however, we still need to discuss how we design and build these fields. As examples, we could decide to keep them consistent across all categories but only make certain fields required, or, we could decide to remove/add fields depending on a business line's needs.
 
-## When business lines need or don't need military service information
+Jump to:
+- When business lines say they need or don't need military service information
+- How we should use their feedback to inform our designs
+
+## When business lines say they need or don't need military service information
 
 This is when business lines have stated they need or don't need particular military service information in Ask VA.
 
@@ -33,12 +37,22 @@ This list is alphabetized by category name.
 |`Veteran ID Card (VIC)`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
 |`Veteran Readiness and Employment`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
 
-### Analysis
+## How we should use their feedback to inform our designs
 
-Some fields are consistent across all categories:
+Some fields are consistent across all business lines: 
 
 - First/last name: Always `NEED`
 - Date of Birth: Always `NEED`
+- Service start date: Always `**DON'T NEED**`
+- Service end date: Always `**DON'T NEED**`
+
+We should include these fields as required in all flows:
+
+- First/last name: Always `NEED`
+- Date of Birth: Always `NEED`
+
+We should remove these fields from the form:
+
 - Service start date: Always `**DON'T NEED**`
 - Service end date: Always `**DON'T NEED**`
 
