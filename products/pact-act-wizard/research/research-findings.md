@@ -178,8 +178,10 @@ POTENTIAL RECOMMENDATIONS:
 1. If applicable, consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
 1. If possible, consider revising the content to disambiguate the word "near" in the DMZ option.
 
-#### Burn pit question about neutral zone 
+#### 1 participant wasn't sure what the "neutral zone" 
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
+
+
 
 
 ### Something about results...
