@@ -1,7 +1,6 @@
 # 45-MINUTE ONLINE CHECK-IN TEXT 
 
 - [Description](#description)
-- [New Workflow](#new-workflow)
 - [New Service Blueprint](#new-service-blueprint)
 - [Changes to On-line Check-in](#changes-to-on-line-check-in)
 - [Changes to Pre-Check-in](#changes-to-pre-check-in)
