@@ -12,7 +12,8 @@ Jump to:
 
 This is when business lines have stated they need or don't need particular military service information in Ask VA.
 
-This list is alphabetized by category name.
+This list is alphabetized by category name. There is also a screenshot of the spreadsheet we used to collect this information in the [appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#appendix).
+
 
 |Category|First/last name|Branch of service|Service number|SSN|DoD/EDIPI|Service start date|Service end date|DOB|Claim number|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
@@ -36,8 +37,6 @@ This list is alphabetized by category name.
 |`Survivor benefits`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
 |`Veteran ID Card (VIC)`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
 |`Veteran Readiness and Employment`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
-
-This can also be viewed as a screenshot of the spreadsheet we used to collect feedback from business lines in the [appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#appendix).
 
 ## How we should use their feedback to inform our designs
 
