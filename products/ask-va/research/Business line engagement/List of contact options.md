@@ -44,15 +44,75 @@ This list is alphabetized by category name.
 |`Disability compensation`|Guardianship, custodianship, or fiduciary issues|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Disability compensation`|Issue with compensation received|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Disability compensation`|Checking claim status|`ENABLED`|`ENABLED`|`ENABLED`|
-
-
-|Education benefits and work study|Topic|Email|Phone|US Mail|
-|Guardianship, custodianship, or fiduciary issues|Topic|Email|Phone|US Mail|
-|Health care|Topic|Email|Phone|US Mail|
-|Housing assistance and home loans|Topic|Email|Phone|US Mail|
-|Life insurance|Topic|Email|Phone|US Mail|
-|Pension|Topic|Email|Phone|US Mail|
-|Sign in and technical issues|Topic|Email|Phone|US Mail|
-|Survivor benefits|Topic|Email|Phone|US Mail|
-|Veteran ID Card (VIC)|Topic|Email|Phone|US Mail|
-|Veteran Readiness and Employment|Topic|Email|Phone|US Mail|
+|`Education benefits and work study`|Transferring benefits after a death|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Compliance surveys|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|On-the-job training and apprenticeships|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Post-9/11 GI Bill|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|School Certifying Officials (SCOs)|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Benefits for survivors and dependents|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Transferred education benefits for family members|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Tuition Assistance Top-Up|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Web Automated Verification of Enrollment (WAVE)|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Work study|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Educational and career counseling|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Montgomery GI Bill Active Duty (Chapter 30)|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Montgomery GI Bill Selected Reserve (Chapter 1606)|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Reserve Educational Assistance Program (Chapter 1607)|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Veterans’ Educational Assistance Program (Chapter 32)|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Veteran Readiness and Employment (Chapter 31)|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Education benefits and work study`|Verify school enrollment|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Request Certificate of Eligibility (COE) or Statement of Benefits|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Licensing and testing fees|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Education benefits and work study`|Upload documents|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Guardianship, custodianship, or fiduciary issues`|Accounting issue|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Guardianship, custodianship, or fiduciary issues`|Investigations and field examinations|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Guardianship, custodianship, or fiduciary issues`|About the program|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Health care`|Family health benefits|TBD|TBD|TBD|
+|`Health care`|Eligibility and how to apply|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Health care`|Getting care at a local VA medical center|TBD|TBD|TBD|
+|`Health care`|Career opportunities at VA health facilities|TBD|TBD|TBD|
+|`Health care`|Caregiver support program|`ENABLED`|`ENABLED`|`**DISABLED**`|
+|`Health care`|Vet Centers and readjustment counseling|`ENABLED`|`**DISABLED**`|`ENABLED`|
+|`Health care`|Audiology and hearing aids|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Health care`|Prosthetics|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Health care`|Women's health services|TBD|TBD|TBD|
+|`Health care`|Foreign Medical Program|TBD|TBD|TBD|
+|`Housing assistance and home loans`|Appraisals|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Housing assistance and home loans`|Funding fee refund|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Housing assistance and home loans`|Home Loan Certificate of Eligibility (COE) or Restoration of Entitlement (ROE)|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Housing assistance and home loans`|Help to avoid foreclosure|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Housing assistance and home loans`|Native American Direct Loan (NADL)|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Housing assistance and home loans`|Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Housing assistance and home loans`|Home loan benefits|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Housing assistance and home loans`|Homes for sale by VA|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Housing assistance and home loans`|Property titles and taxes for homes sold by VA|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Insurance claims|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Insurance premiums|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Insurance website issues|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Accessing your policy online|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Policy loans|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Service-Disabled Veterans Life Insurance (S-DVI)|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Servicemembers’ Group Life Insurance (SGLI)|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Family Servicemembers’ Group Life Insurance (FSGLI)|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Veterans’ Group Life Insurance (VGLI)|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Veterans’ Mortgage Life Insurance (VMLI)|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Veterans Affairs Life Insurance (VALife)|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Life insurance`|Other|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Pension`|Aid and Attendance or Housebound benefits|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Pension`|Direct deposit|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Pension`|How to apply for pension benefits|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Pension`|Guardianship, custodianship, or fiduciary issues|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Pension`|Issue with payment|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Sign in and technical issues`|(Topics: TBD)|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Survivor benefits`|Aid and Attendance or Housebound benefits|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Survivor benefits`|Direct deposit|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Survivor benefits`|How to apply for benefits|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Survivor benefits`|Guardianship, custodianship, or fiduciary issues|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Survivor benefits`|Issue with benefit payment|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Survivor benefits`|Checking claim status|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Veteran ID Card (VIC)`|Veteran ID Card (VIC) for discounts|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Veteran ID Card (VIC)`|Veteran Health Identification Card (VHIC) for health appointments|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Veteran Readiness and Employment`|Financial issues|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Veteran Readiness and Employment`|How to apply|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Veteran Readiness and Employment`|Follow up on application or contact counselor|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Veteran Readiness and Employment`|Other|`ENABLED`|`ENABLED`|`ENABLED`|
