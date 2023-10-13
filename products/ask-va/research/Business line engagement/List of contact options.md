@@ -43,7 +43,9 @@ When a submitter cannot choose between ≥ 2 contact options, for example, only 
 
 ## Contact rules by topic
 
-This list is alphabetized by category name. Subtopics will follow the same contact rules as their parent topic.
+**Important:** Subtopics will follow the same contact rules as their parent topic.
+
+This list is alphabetized by category name. 
 
 |Category|Topic|Email|Phone|US Mail|
 |:--|:--|:--|:--|:--|
