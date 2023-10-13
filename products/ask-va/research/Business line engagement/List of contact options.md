@@ -4,6 +4,11 @@ Last updated by @tygindraux: October 12, 2023
 
 This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)).
 
+## When to enable or disable contact options
+
+If `Category` = `Benefits issues outside the U.S.`
+Then contact rules vary by topic (see topics)
+
 ## When to enable or disable contact options by topic
 
 This list is alphabetized by category name.
@@ -116,10 +121,3 @@ This list is alphabetized by category name.
 |`Veteran Readiness and Employment`|How to apply|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Veteran Readiness and Employment`|Follow up on application or contact counselor|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Veteran Readiness and Employment`|Other|`ENABLED`|`ENABLED`|`ENABLED`|
-
-<style>table{width:100%}</style>
-
-## When to enable or disable contact options by category rules
-
-If `Category` = `Benefits issues outside the U.S.`
-<br> Then contact options vary by topic (see topics)
