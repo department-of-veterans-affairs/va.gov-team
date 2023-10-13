@@ -46,29 +46,32 @@ In Fall 2023, a CEDAR team was hired to [digitize 15 forms](https://github.com/d
   - Latest PDF: [About VA Form 10-10d](https://www.va.gov/find-forms/about-form-10-10d/)
   - Expiration: 10/31/2024
 2.	CHAMPVA Beneficiary Claims Submission – VA Form 10-7959A
-a.	Latest PDF: About VA Form 10-7959A, download: vha-10-7959a-fill.pdf (va.gov)
-b.	Expiration: 10/31/2024
+  a.	Latest PDF: [About VA Form 10-7959A](https://www.va.gov/find-forms/about-form-10-7959a/), download: vha-10-7959a-fill.pdf (va.gov)
+  b.	Expiration: 10/31/2024
 3.	OHI Form – VA Form 10-7959C
-a.	Latest PDF: About VA Form 10-7959C , download: VA-10-7959c-fill.pdf
-b.	Expiration: 10/31/2024
+  a.	Latest PDF: [About VA Form 10-7959C](https://www.va.gov/find-forms/about-form-10-7959c/), download: VA-10-7959c-fill.pdf
+  b.	Expiration: 10/31/2024
 4.	FMP Registration Form – VA Form 10-7959-1
-a.	Latest PDF: Download VA Form 10-7959f-1 (PDF)
-b.	Expiration: 01/31/2024
+  a.	Latest PDF: [Download VA Form 10-7959f-1](https://www.va.gov/vaforms/medical/pdf/vha-10-7959f-1%20(1).pdf) (PDF)
+  b.	Expiration: 01/31/2024
 5.	Foreign Medical Program Claim Cover Sheet – VA Form 10-7959f-2
-a.	Latest PDF:  Download VA Form 10-7959f-2 (PDF)
-b.	Expiration: 01/31/2024
-6.	Power of Attorney form – VA Form 10-0137
-a.	Latest PDF: Download VA Form 10-0137 (PDF)
-b.	Expiration: 04/30/2024
+  a.	Latest PDF:  [Download VA Form 10-7959f-2](https://www.va.gov/vaforms/medical/pdf/vha-10-7959f-2.pdf) (PDF)
+  b.	Expiration: 01/31/2024
+6.	*Power of Attorney form – VA Form 10-0137*
+  a.	Latest PDF: [Download VA Form 10-0137](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-0137_FILL.pdf) (PDF)
+  b.	Expiration: 04/30/2024
+  c. *This one requires special handling*
 7.	Release of Information (ROI) form – VA Form 10-5345
-a.	Latest PDF:  Download VA Form 10-5345 (PDF)
-b.	Expiration: Not shown
+  a.	Latest PDF:  [About form 10-5345](https://www.va.gov/find-forms/about-form-10-5345/)
+  b.	Expiration: Not shown
+  c. *this one also requires special handling*
 8.	SB Claim Form for Miscellaneous Expense – VA Form 10-7959E
-a.	Latest PDF:  Download VA Form 10-7959E (PDF)
-b.	Expiration: Not shown
-9.	Decision Review Request Board Appeal (Notice of Disagreement)  - VA Form 10182
-a.	Latest PDF: Download VA Form VA10182 (PDF)
-b.	Expiration: 03/31/2025
+  a.	Latest PDF:  [Download VA Form 10-7959E](https://www.va.gov/vaforms/medical/pdf/vha-10-7959e-fill.pdf) (PDF)
+  b.	Expiration: Not shown
+9.	*Decision Review Request Board Appeal (Notice of Disagreement)  - VA Form 10182*
+  a.	[Notice of disagreement on VA.gov](https://www.va.gov/find-forms/about-form-10182/) (benefits only, so far)
+  b.	Expiration: 03/31/2025
+  c. THis form exists today on va.gov, but only has a pathway for benefits NODs to be filed. We would propose to update this flow and how/where we submit the data to allow for health care NODs to be filed as well. 
 10.	Decision Review Request Higher-Level review - VA Form 20-0996
 a.	Latest PDF: Download VA Form 20-0996 (PDF)
 b.	Expiration: 04/30/2024
