@@ -14,8 +14,8 @@ This list is alphabetized by category name.
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |`Benefit issues outside the U.S.`: Education|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
 |`Benefit issues outside the U.S.`: VBA|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
-|`Burials and memorials`: NCA|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
-|`Burials and memorials`: VBA|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
+|`Burials and memorials`: NCA|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Burials and memorials`: VBA|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
 |`Center for Minority Veterans`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
 |`Center for Women Veterans`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
 |`Debt for benefit overpayments and copay bills`|`NEED`|Branch of service|Service number|SSN|DoD/EDIPI Number|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Claim number|
