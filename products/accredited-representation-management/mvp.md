@@ -6,7 +6,7 @@ The MVP will include desktop & mobile experiences
 
 ## MVP
 
-#### Finding an Accredited Representative
+#### Find a Representative
 1. Search
     1. If authenticated and if veteran has an existing rep, display existing rep and how to change the rep
     1. Required fields
@@ -32,6 +32,8 @@ The MVP will include desktop & mobile experiences
     1. If authenticated and if veteran has an existing rep, display existing rep
 1. Selection
     1. Search results will have a button to 'Select' the representative
+  
+#### Request a Representative
 1. Form 21-22/21-22a
     1. Pre-fill the form for PDF download
         1. Authenticated: both rep and personal information
@@ -59,12 +61,11 @@ The MVP will include desktop & mobile experiences
     1. Present option to download pre-filled PDF form (without signatures)
     1. Set expectations and guide to next steps
     1. Download to PDF desktop (do not open PDF in browser)
-1. Feedback page
-    1. Update profile to display selected representative (pending request with link to next steps)
 
-#### Profile Updates
+#### Representative Status Widget
 
 1. If the user is logged in and has an existing representative, surface the status and the representative information
+2. Update profile to display selected representative (pending request with link to next steps)
 
 ## Post-MVP
 
