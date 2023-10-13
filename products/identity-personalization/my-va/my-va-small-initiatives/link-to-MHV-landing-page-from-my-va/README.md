@@ -43,9 +43,6 @@ Specifically for the health care section, once we add this link, we'll monitor t
 ## Screenshots
 
 ### Before
-![Screenshot 2023-10-06 at 11 16 29 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/41ddb029-a011-4b49-85b6-5a275c61c62d)
-
-
 
 ### After
 
