@@ -108,7 +108,7 @@ Any participants who didn't see the *You may be eligible* results screen were th
 
 ## Key Findings
 
-1. All participants understood 
+1. All...
 
 
 ## Details of Findings 
@@ -139,6 +139,19 @@ Both time periods | 3 | 8-10 | 8.7 | 10
 
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
+### Some participants found a few of the questions confusing
+#### Service years question
+![q-service-years](./images/q-service-years.png)
+
+#### Agent Orange question about C-123 planes
+#### Agent Orange question about DMZ
+#### Burn pit question about neutral zone 
+
+
+
+5. Three participants had **difficulty answering the service years question** because they found the options confusing. *ADD DETAILS AND QUOTES*
+1. Two participants brought up (unprompted) that they **didn't know what a "C-123 plane" was**, which was mentioned in one of the Agent Orange questions. Two other participants said, *"If it applied to you, you would know" (p9).*
+
 ### Something about results...
 Based on their responses to the questions, 6 of 9 participants were taken to the "You may be eligible" results page. This page in the prototype contained burn pit content and so wasn't applicable to all of the participants (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service.
 
@@ -157,8 +170,7 @@ Results screen | # of Participants
 1. Participants generally **understood the results screens** and figured out what  they should do next.
 
 ### Usability Issues
-5. Three participants had **difficulty answering the service years question** because they found the options confusing. *ADD DETAILS AND QUOTES*
-1. Two participants brought up (unprompted) that they **didn't know what a "C-123 plane" was**, which was mentioned in one of the Agent Orange questions. Two other participants said, *"If it applied to you, you would know" (p9).*
+
 1. Some participants had **beliefs about whether they were eligible for benefits under the PACT Act** before trying the PACT Act Wizard, and some of these beliefs were *incorrect* and not addressed by any content in the wizard.
   RECOMMENDATION: Consider adding more content to the main PACT Act page, and link from there to this wizard.
 1. Three participants were **confused by the jump links** at the top of the results page on Staging because they interpreted them as CTA's (i.e., *file a disability claim* or *apply for health care* right now).
