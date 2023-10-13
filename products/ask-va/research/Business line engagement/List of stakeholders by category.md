@@ -40,7 +40,7 @@ Last updated by @tygindraux: October 12, 2023
 |`Health care`|Amanda Scully|VHA ECM (Enrollment Case Management)|
 |`Health care`|Michael Bingham|VHA HAC (Health Administration Center)|
 |`Health care`|Benjamin Davis|VHA Women Veterans Health Care|
-|`Health care`|Nicole Deleon|VHA Women Veterans Health Care|
+|`Health care`|Taylor Weidman|VHA Women Veterans Health Care|
 |`Health care`|Joshua Paulsen|VHA Audiology|
 |`Health care`|Mauree Collins|VHA Prosthetics|
 |`Health care`|Trevor Brown|VHA Prosthetics|
