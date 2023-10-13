@@ -39,23 +39,17 @@ This list is alphabetized by category name.
 
 ## How we should use their feedback to inform our designs
 
-Because these fields received consistent feedback from all business lines, we should:
-
-**Include these fields as required for all categories:**
-
-- First name
-- Last name
-- Date of Birth
-
-**Remove these fields from the form:**
-
-- Service start date
-- Service end date
-
-Other fields are needed by some business lines, but not by others:
-
-- Branch of service:
-- Service number:
-- SSN:
-- DoD/EDIPI number:
-- Claim number:
+- Include these fields as required for all categories, because all business lines agreed:
+  - `First name`
+  - `Last name`
+  - `Date of Birth`
+  - `SSN`
+- Remove these fields from the form, because all business lines agree:
+  - `Service start date`
+  - `Service end date`
+- Where there was 1-2 outlier, go back to the 1-2 business line(s) to re-confirm:
+  - Does `Housing assistance and home loans` need `Service number`, if all other business lines do not?
+  - Does `Decision reviews and appeals` need `Claim number`, if all other business lines do not?
+  - Do VBA and `Veteran ID Card (VIC)` need `Branch of Service`, if all other business lines do not?
+- Discuss how to handle this field, which varies greatly between categories:
+  - `DoD/EDIPI number` is needed by around 50% of business lines, and not needed by around 50% of business lines
