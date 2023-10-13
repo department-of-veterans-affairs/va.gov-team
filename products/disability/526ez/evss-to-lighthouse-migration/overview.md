@@ -52,10 +52,10 @@ This list excludes any other endpoints to eVSS that are found during the discove
 |Claims Service|Work in progress - ETA Oct 2023|Testing in Sandbox||
 |/getpdf|Delayed - ETA TBD|Not started||
 |/rateddisabilities|ETA August 2023|Started staggered roll-out||
-|PPIU||In Development||
-|PCIU||Not started||
+|PPIU|In Production|In Development||
+|PCIU|Migrate to VA Profile, not to LH|Not started||
 |Document Service||In Development|Team 2|
-| Benefits Reference Data(BRD) API|In production|| No work is left for migraion effort? <br>Work has been completed for military branch of service|ToDo - Check if any work is remaining|
+| Benefits Reference Data(BRD) API|In production|In Production| Work has been completed for military branch of service|Service to LH is done. Migrate separation_locations from EVSS to Lighthouse|
 |Common API <br>wss-common-services-web-11.6/rest/ratingInfoService/11.6/findRatingInfoPID<br> wss-form526-services-web-v2/rest/form526/v2/ratedDisabilities|Is not being migrated. [Details in this slack thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1676574262007819). Potential replacement service is production.||ToDo - Check with Kyle on what's expected. <br> Possible changes - Change the form526 wizard to use the Lighthouse veteran_verification/v1/disability_rating|
 
 ## Tech Discovery
