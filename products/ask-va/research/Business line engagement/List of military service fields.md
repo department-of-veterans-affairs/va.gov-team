@@ -10,7 +10,7 @@ This is when business lines have stated they need or don't need particular milit
 
 This list is alphabetized by category name. 
 
-|Category|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|Category|First/last name|Branch of service|Service number|SSN|DoD/EDIPI|Service start date|Service end date|DOB|Claim number|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |Benefits issues outside the U.S.|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
 |Burials and memorials|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
