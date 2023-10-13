@@ -140,7 +140,7 @@ Both time periods | 3 | 8-10 | 8.7 | 10
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
 ### Something about results...
-6 of 9 participants were taken to the "You may be eligible" results page. The other 3 participants were shown that page after they first looked at the page relevant to their responses to the questions. Here is a table showing how many participants landed on each of the results screens.
+Based on their responses to the questions, 6 of 9 participants were taken to the "You may be eligible" results page. This page in the prototype contained burn pit content and so wasn't applicable to all of the participants (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Below is a table showing how many participants landed on each of the results screens initially.
 
 Results screen | # of Participants
 ------------------|---------------
