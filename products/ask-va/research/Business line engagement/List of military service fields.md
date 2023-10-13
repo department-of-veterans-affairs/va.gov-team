@@ -59,4 +59,5 @@ This document should be updated once there is a clear decision for how we will h
 
 ## Appendix
 
+Screenshot of military service information spreadsheet, contributed to by all business lines:
 ![image: screenshot of military service information spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/AVA-military-service-fields.png)
