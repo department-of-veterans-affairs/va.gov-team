@@ -12,19 +12,19 @@ Date: 010/06/2023
 
 **Jump to:**
 
-[Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#research-goals)
+[Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#research-goals)
 
-[Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#methodology)
+[Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#methodology)
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#key-findings)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#recommendations)
 
-[Appendix (including screenshots of prototype)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#appendix)
+[Appendix (including screenshots of prototype)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#appendix)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facingresearch-findings.md#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#who-we-talked-to)
 
 <br>
 
