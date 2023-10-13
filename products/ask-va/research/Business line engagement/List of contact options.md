@@ -11,8 +11,8 @@ This list is alphabetized by category name.
 |Category|Topic|Email|Phone|US Mail|
 |:--|:--|:--|:--|:--|
 |`Benefits issues outside the U.S.`|Disability compensation|`ENABLED`|`ENABLED`|`ENABLED`|
-|`Benefits issues outside the U.S.`|Education benefits and work study|`ENABLED`|`DISABLED`|`DISABLED`|
-|`Burials and memorials`|Pre-need eligibility for burial|Email|Phone|US Mail|
+|`Benefits issues outside the U.S.`|Education benefits and work study|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Burials and memorials`|Pre-need eligibility for burial|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Burials and memorials`|Burial allowance|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Burials and memorials`|Burial allowance for unclaimed Veteran remains|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Burials and memorials`|Burial in a VA national cemetery|`ENABLED`|`ENABLED`|`ENABLED`|
@@ -20,8 +20,8 @@ This list is alphabetized by category name.
 |`Burials and memorials`|Memorial items|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Burials and memorials`|Other|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Center for Minority Veterans`|Programs and policies|`ENABLED`|`ENABLED`|`ENABLED`|
-|`Center for Women Veterans`|Programs and policies|`ENABLED`|`DISABLED`|`DISABLED`|
-|`Center for Women Veterans`|General question|`ENABLED`|`DISABLED`|`DISABLED`|
+|`Center for Women Veterans`|Programs and policies|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
+|`Center for Women Veterans`|General question|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
 |`Debt for benefit overpayments and copay bills`|School Certifying Officials (SCOs) or other school officials|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Debt for benefit overpayments and copay bills`|Cemetery debt|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Debt for benefit overpayments and copay bills`|Disability compensation overpayment|`ENABLED`|`ENABLED`|`ENABLED`|
