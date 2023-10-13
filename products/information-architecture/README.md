@@ -5,26 +5,6 @@ Information architecture focuses on organization, labeling, and navigation of in
 - Understand where they are and where they can go
 - Successfully complete intended tasks
 
-
-**Contacts:** 
-
-- OCTO Lead Information Architect: Mikki Northuis (michelle.northuis@va.gov)
-
-- Sitewide IA
-  - Kristin Ouellette Muskat, Jenny Mayo
-  - Slack: #sitewide-content-ia
-- Health portal IA:
-  - Sara Sterkenberg
-  - Slack: #mhv-on-vagov-cartography-team
-- Governance IA
-  - Erin White
-  - Slack: #vfs-platform-support
-
-
- **Slack:** #sitewide-content-ia <br>
-**Github label:** Sitewide IA
-
-
 ## Mission of IA at VA
 
 To ensure Veterans and their family members can easily and quickly find the right information they need to successfully complete their tasks with the least amount of friction.
@@ -35,8 +15,6 @@ We will accomplish this by:
 - Establishing a navigation system that intuitively helps users get to and through features of the site
 
 *Information Architecture works in strong partnership with content, design, accessibility, engineering, and product in the design, development, and implementation of the above.*
-
-
 
 ## How IA helps 
 
@@ -91,6 +69,24 @@ In addition, well-organized content that utilizes clear and relevant labeling al
 
 **Authenticated experience IA** <br>
 - In collaboration with authenticated experience
+
+## Contacts us 
+
+- OCTO Lead Information Architect: Mikki Northuis (michelle.northuis@va.gov)
+
+- Sitewide IA
+  - Kristin Ouellette Muskat, Jenny Mayo
+  - Slack: #sitewide-content-ia
+- Health portal IA:
+  - Sara Sterkenberg
+  - Slack: #mhv-on-vagov-cartography-team
+- Governance IA
+  - Erin White
+  - Slack: #vfs-platform-support
+
+
+ **Slack:** #sitewide-content-ia <br>
+**Github label:** Sitewide IA
 
 
 
