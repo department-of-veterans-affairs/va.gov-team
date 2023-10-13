@@ -131,7 +131,7 @@ Measures of success are defined by an outcome with associated direct & proxy mea
 #### Risks: 
 
 * We’re not sure that users will find value or greater convenience in surfacing personalized information outside the existing features.
-* We’re not sure which pieces of personalized information will be most valuable for users to see on the home screen.
+* We’re not sure which pieces of personalized information (or what level of detail) will be most valuable for users to see on the home screen.
 * Displaying personalized information from too many APIs in one place might cause app performance to suffer.
 * The home screen becomes overgrown & a dumping ground over time without proper guidelines and governance.
 
