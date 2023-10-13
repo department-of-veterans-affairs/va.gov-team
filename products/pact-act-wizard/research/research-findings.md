@@ -143,14 +143,18 @@ Participants who served in both time periods saw the greatest number of question
 #### Service years question
 ![q-service-years](./images/q-service-years.png)
 
-#### Agent Orange question about C-123 planes
-#### Agent Orange question about DMZ
-#### Burn pit question about neutral zone 
-
-
-
 5. Three participants had **difficulty answering the service years question** because they found the options confusing. *ADD DETAILS AND QUOTES*
+
+#### Agent Orange question about C-123 planes
+![q-C-123-plane-Agent-Orange](./images/q-C-123-plane-Agent-Orange.png)
 1. Two participants brought up (unprompted) that they **didn't know what a "C-123 plane" was**, which was mentioned in one of the Agent Orange questions. Two other participants said, *"If it applied to you, you would know" (p9).*
+
+#### Agent Orange question about DMZ
+![q-DMZ-Agent-Orange](./images/q-DMZ-Agent-Orange.png)
+
+#### Burn pit question about neutral zone 
+![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
+
 
 ### Something about results...
 Based on their responses to the questions, 6 of 9 participants were taken to the "You may be eligible" results page. This page in the prototype contained burn pit content and so wasn't applicable to all of the participants (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service.
