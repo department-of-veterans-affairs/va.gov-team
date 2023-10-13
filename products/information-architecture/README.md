@@ -85,8 +85,6 @@ In addition, well-organized content that utilizes clear and relevant labeling al
   - Slack: #vfs-platform-support
 
 
- **Slack:** #sitewide-content-ia <br>
-**Github label:** Sitewide IA
 
 
 
