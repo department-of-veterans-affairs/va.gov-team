@@ -1,4 +1,4 @@
-# Choose a provider
+# Request a provider
 
 ## Overview
 Users are given an option to choose from a list of providers
@@ -27,7 +27,7 @@ Users are given an option to choose from a list of providers
 
 ## User interface design
 
-[User flow](Add link) 
+[User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2916-5463&t=8LrybrXbHG0xrSfN-4) 
 
 [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=0-2428&mode=design)
 
