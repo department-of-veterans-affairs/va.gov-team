@@ -81,7 +81,7 @@ Tools for Veterans to schedule or request appointments.
 | CC request | [Preferred date](./schedule-flow/preferred-date-CC.md) |
 | CC request | [Nearest city](./schedule-flow/nearest-city-CC.md) |
 | CC request | [Request a provider](./schedule-flow/Request-a-provider.md) |
-| CC request | Choose a preferred language |
+| CC request | [Choose a language](./schedule-flow/Choose-a-language.md) |
 | CC request | [Reason for appointment](./schedule-flow/reason-for-appointment-CC.md) |
 | CC request | [Confirm contact information](./schedule-flow/confirm-contact-information-CC.md) |
 | CC request | [Review and submit](products/health-care/appointments/va-online-scheduling/feature-reference/schedule-flow/review-and-submit-CC.md) |
