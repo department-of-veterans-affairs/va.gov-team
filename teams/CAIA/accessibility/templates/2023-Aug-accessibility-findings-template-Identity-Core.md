@@ -16,14 +16,16 @@
 
 
 # Accessibility Tools Utilized
-MAGic Screen Magnification Software ([product website](https://support.freedomscientific.com/Products/LowVision/MAGic)), zoomtext, text-to-speech
+- [x] MAGic Screen Magnification Software ([product website](https://support.freedomscientific.com/Products/LowVision/MAGic))
+- [x] Zoomtext
+- [x] Text-to-speech
 
 ## Coverage
-This research fulfilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
+This research fulfilled 60% (3/5) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
 
-**Original study request: ##**
+**Original study request: 5**
 
-> xx participants should use a screenreader on a desktop or mobile device
+> 5 participants should use a screenreader on a desktop or mobile device ([review the original Research Plan for the Core Identity Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6e36ba79ed1a1af687a7ace47246e54bf8271e70/products/identity/Research/2023-07%20Terms%20of%20Use/2023-08%20Terms%20of%20Use%20research%20plan.md).
 
 ## Participants
 To best serve the users of VA.gov, we will need to collect the following information during each a11y research session:
@@ -31,19 +33,14 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - **Operating System:** Mac or Windows
 - **Assistive Technology being used:** Jaws, NVDA, ZoomText, Dragon, etc.
 - **Internet Browser:** Chrome, Firefox, etc.
-- **Note**: In the table below, the first row is an example of P54
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
 | _P12_                   | 8/18/2023         | Originally recruited as an AT user, but didn't have access to AT on his desktop. This participant was partially sighted and completed the test w/o AT on his desktop, but verbalized feedback related to AT.             | Advanced 5/5      |  Windows    | Chrome      | Laptop (Asus) |
 | _P19_                       | 8/23/2023                  | Uses MAGic magnifier + screen reader. Figma prototypes aren't compatible with MAGic, so only used magnifier for this session.                    | Intermediate to advanced 4/5                 | Windows                      |  Firefox           |   Laptop (Dell)          |
-| _P23 (P15 Rescheduled)_ | 8/24/023 | User using zoomtext (Not a regular screen reader user) Participant doesn't normally use a Screen Reader but utilizes a voice to text| Advanced | Windows | Chrome | Laptop and Android                |                  |                    |                 |                      |             |         |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
+| _P23 (P15 Rescheduled)_ | 8/24/023 | User using zoomtext (Not a regular screen reader user) Participant doesn't normally use a Screen Reader but utilizes a voice to text.| Advanced | Windows | Chrome | Laptop and Android                |                  |                    |                 |                      |             |         |
 
-**Participants who successfully completed sessions: XX**
+**Participants who successfully completed sessions: 3**
 ## Initial Notes
 ### P12
 - Rarely uses AT on desktop; uses it all the time on iOS. 
@@ -63,58 +60,21 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - **Figma prototypes are not compatible with MAGic.**
 
 ### P23 
-- Has full sight only in one eye, injured when he was a child
-- Prefers to use the laptop because its easier and is attached to the printer
-- Started using VA in 1999. in 2003 is when user started using VA for everything, weight chart, vitals etc.
+- Has full sight only in one eye, injured when he was a child.
+- Prefers to use the laptop because its easier and is attached to the printer.
+- Started using VA in 1999. In 2003 is when the user started using VA for everything, weight chart, vitals, etc.
 - He would try to click on the changes and see what happens.
-- Put changes in messages, or statement in opening screen or home screen
-- Explains he really likes warning message letting you know he was signed out 
-
-<details>
-    <summary>Jamie's notes</summary>
-        #### Finding 1
-        - Chunking out sections of the TOU into accordions is beneficial for AT users:
-          - Users can choose which sections are read out loud to them, instead of the entire thing being read at once (which can take "30 minutes").
-          - Users can quickly scan sections to see if the contents would interest them.
-        
-        #### Finding 2
-        - There's not enough size differentiation between H3 and paragraph text.
-          - This is important because low-vision users using screen magnification use visual differentiation between objects on a page to determine importance and hierarchy.
-          - Without enough differentiation, the user might not realize something is a heading, versus regular paragraph text.
-         
-        #### Finding 3
-        - Our current recruitment process makes using Figma prototypes difficult. This is because:
-          - We aren't always told by Perigean which assistive technology the user is using (beyond "screen reader"), **and**
-          - Figma prototypes can only be used accessibly by Mac + VoiceOver, Windows + NVDA, and Windows + JAWS.
-        - It would be helpful to get more specific information about the technology in use before the test.
-
-</details>
-
-<details>
-    <summary>SK's notes</summary>
-    #### Finding 1 
-    - Users continuosly have struggled to share screen through zoom
-      - We can possibly include instructions on how to share screen in meeting invite. (Open to discussion)
-     
-    #### Finding 2
-    - User would like to recieve an email if there are updates made to ToU page
-       - If email is sent a plain text version needs to be sent aas well. Some recipients may not be able to access the HTML at all but only the plain text version because of corporate firewall that strips out the HTML, ,or because of a setting in an email client
-</details>
-
-<details>
-    <summary>Sara's notes</summary>
-    [View Sara's notes](https://docs.google.com/document/d/1i-oe6iMS42EyzsXOueuP--Ld4R8zeFXOWhtarH93R38/edit#heading=h.bge1m11x3klh) (Google Doc)
-</details>
+- Would like changes put in messages, or statement in opening screen or home screen
+- Explained he really likes warning message letting you know he was signed out 
 
 ## Key Findings
-Add screenshots, images and videos here.
 
 ### Finding 1
 - Chunking out sections of the TOU into accordions is beneficial for AT users. **The accordion sections in the ToU prototype worked well.**
   - Users can choose which sections are read out loud to them, instead of the entire thing being read at once (which can take "30 minutes").
   - Users can quickly scan sections to see if the contents would interest them.
 
-This aligns with experience standard: Content Organization issue 05 “Long or complex sections of content are broken up into content chunks or bulleted lists.”
+**This aligns with experience standard:** _Content Organization issue 05 “Long or complex sections of content are broken up into content chunks or bulleted lists._”
 
 ### Finding 2
 - It's easier for AT users to not have to read through an entire ToU when changes are made, since ToUs are very long and can take up to a half hour to read aloud.
@@ -136,24 +96,31 @@ This aligns with experience standards: Link and button labels Issue 08 “If you
 ## User Feedback
 
 ### Veterans' Voices: Impactful Quotes 
-This section is for quotes. ⚠️ Participants should be referenced by number only, please.
-In this section feel free to segment populations based on the trends we see with certain user types.
 
-> "I'd rather just hear it read to me." - P12, who is partially sighted, speaking about AT and accordions
+
+#### General Feedback
+
+> Our current recruitment process makes using Figma prototypes difficult.
+> "MHV is my lifeline to the VA. I get all my meds, my messages, I can talk to my doctor. This is my first video experience. I have seen it change a lot over the years. It always gets a little bit better, a little more user friendly." - P23, on MHV and improvements at the VA 
+
+#### Length, Collapsed Sections & Duration
 
 > "...it takes 30 minutes. When you're reading you can skip read, but not if it's being read to you." - P19, about the length of TOUs
 
+> "I'd rather just hear it read to me." - P12, who is partially sighted, speaking about AT and accordions
+
+> "Oh yes, terms of use is like 5,000 words. When you have to listen to it. It is a lot worse. It will speak it for 30 minutes. Usually you can skip read. I can’t really do that with a screen reader, because I might end up off on a different thing. Honestly, I think I trust the VA literally with my life, so most of the time I don’t even read it. I think that is most people when you have pages and pages, either spend five hours or click the accept." - P19, on the length of TOUs and trusting the VA's terms
+
+#### No Choice
 > "When it is stuff you have to use, you either say yes, or you can’t use any of it. If it is necessary, it doesn’t matter what the terms of use are, or you can’t use it." - P19, on accepting TOUs
 
 > "I like that. Nice to have the option to look more in depth. Usually don't have the choice." - P19, on TOU items chunked by headings into accordions
 
-> "Oh yes, terms of use is like 5,000 words. When you have to listen to it. It is a lot worse. It will speak it for 30 minutes. Usually you can skip read. I can’t really do that with a screen reader, because I might end up off on a different thing. Honestly, I think I trust the VA literally with my life, so most of the time I don’t even read it. I think that is most people when you have pages and pages, either spend five hours or click the accept." - P19, on the length of TOUs and trusting the VA's terms
-
 > "I don’t read very much of it. It is just right because it is my government and it is my VA, so I don’t need to know the terms of use. It just feels good for me to do. I think most of us feel the same way." - P23, on trusting the VA and not reading the Terms of Use
 
+#### Signed Out
+`Related to Finding 3`
 > "I have been signed out. Wow! I didn’t expect that. I figured I would get at least one more chance. This makes a lot of sense." - P23, on being signed out after clicking "Decline"
-
-> "MHV is my lifeline to the VA. I get all my meds, my messages, I can talk to my doctor. This is my first video experience. I have seen it change a lot over the years. It always gets a little bit better, a little more user friendly." - P23, on MHV and improvements at the VA 
 
 ## a11y Recommendations
 Overview summary goes here. 
