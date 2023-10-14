@@ -4,16 +4,15 @@
 
 ### OCTO checks, edits, tasks
 
-- The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.). **Rewrote this.**
+- The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.). **Rewrote this and moved description of spina bifida to the blue box section about spina bifida.**
 - Assessed the content in the blue box. (Keeping eligibility info in blue box.)
 - Removed "Who's covered?" section 
-- Assessed "What kind of disability benefits can I get?" section (Keep because this is not a monthly payment and we need to make that clear.)
+- Assessed "What kind of disability benefits can I get?" section **(Keep to emphasize health care and to mention VR&E.)**
 - Add this Note to the end of the blue box: **Note:** If you get a disability rating, you may also be eligible for VA health care and other benefits.
-- Changed the H2 from "How do I get these benefits" to "How do I file a claim for compensation?" / added an action link for the CTA and used the label "File for disability compensation online" / used this text for the link under the action link that should point to the How to file page: "Learn about other ways to file a disability compensation claim"
-- Raised the visibility of the content about filing your claim and getting VA approval first before buying a vehicle. Created a new Q&A for this.
-- Edits and reorganization to clarify that you need to file a claim (526) as well as submitting an additional form.
+- Changed the H2 from "How do I get these benefits" to "How do I file a claim for compensation for my child?" 
+- Created a new Q&A to house the evidence info that's already on the page but was buried. 
 - Relevant terms from page are in content brief and any relevant backlog work is noted.
-- Backlog ticket for further review created if needed
+- Backlog ticket for further review created if needed.
 
 ### Copy editor checks, edits, tasks
 - Header levels are hierarchical
@@ -33,10 +32,9 @@
 - **SME** Name goes here
 - **Date response received:**
 
-### Callouts for the SME (when we ask for a review)
+### Question for the SME (when we ask for a review)
 
-- We created a new Q&A to raise the visibility of the guidance around filing a claim and getting VA approval before buying a vehicle or adaptive equipment. The question is: "Can I buy a vehicle or adaptive equipment first, then file my claim?" You'll see on the page that the answer contains the same content currently on the live site.
-- We added a link that will take users directly to the online form. In that section, we also presented the information about additional forms in a different way to try to clarify that when you file your 526 claim, you also need to submit additional forms.
+- In the "How do I file a claim for compensation for my child?" section, ask whether it's correct that the process is to fill out this one form. In other words, the Veteran doesn't also need to have filled out a 526. I just want to double check this.
 
 
 ### Responses
