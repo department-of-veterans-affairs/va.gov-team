@@ -73,19 +73,16 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - Chunking out sections of the TOU into accordions is beneficial for AT users. **The accordion sections in the ToU prototype worked well.**
   - Users can choose which sections are read out loud to them, instead of the entire thing being read at once (which can take "30 minutes").
   - Users can quickly scan sections to see if the contents would interest them.
-
-**This aligns with experience standard:** _Content Organization issue 05 “Long or complex sections of content are broken up into content chunks or bulleted lists._”
+- **This aligns with experience standard:** _Content Organization issue 05 “Long or complex sections of content are broken up into content chunks or bulleted lists._”
 
 ### Finding 2
 - It's easier for AT users to not have to read through an entire ToU when changes are made, since ToUs are very long and can take up to a half hour to read aloud.
    - **Suggestion:** User would like to recieve an email if there are updates made to ToU page. If email is sent a plain text version needs to be sent aas well. Some recipients may not be able to access the HTML at all but only the plain text version because of corporate firewall that strips out the HTML, or because of a setting in an email client.
 
-
 ### Finding 3
 - Signing the user out automatically after clicking "decline" adds frustration for users.
    - **Suggestion:** add transparency to this; let the user know that they'll be signed out and won't be able to access their account.
-
-This aligns with experience standards: Link and button labels Issue 08 “If your content has multiple CTAs, the CTAs don’t have a unique descriptive label and/or give the user the intended result.” (because “decline” doesn’t imply “log out”); User flows and navigating issue 11, “Link or button is not working as expected or did not navigate to the intended destination.”
+- **This aligns with experience standards:** Link and button labels Issue 08 “If your content has multiple CTAs, the CTAs don’t have a unique descriptive label and/or give the user the intended result.” (because “decline” doesn’t imply “log out”); User flows and navigating issue 11, “Link or button is not working as expected or did not navigate to the intended destination.”
 
 ### Finding 4
 - Our current recruitment process makes using Figma prototypes difficult. This is because:
@@ -129,14 +126,30 @@ Overview summary goes here.
 Point out the gaps
 
 ## Next Steps
-A list of actionable findings, based on time-sensitive, priority needs. Images, videos, links, screenshots and notes provided as deemed approprite. 
+A list of actionable findings, based on time-sensitive, priority needs. 
 
 ### Complete Now
-- x
+- Add transparency for the user and set expectations. Let the user know that they'll be signed out and won't be able to access their account.
+    - **Experience Standard:** **Category** **4**; **Issue** **1**: All components of the navigation system (i.e. URL, breadcrumb, left nav) within your content or feature must accurately and consistently represent the location of the page within the IA.
+    - **Severity**: a11y-defect-2, Launch Blocking
+    - **Impacts**: A11y and IA
+    - **Appears on**: Experience Standards, Common Accessibility Issues and WCAG 2.1
+    - **WCAG 2.1 (2.4.4):** Every link’s purpose is clear from its context.
+- **Experience Standard: Category 3; Issue 11:** User flows and navigating: Link or button is not working as expected or did not navigate to the intended destination. (ex. Decline and logging out)
+    - **Severity**: x
+    - **Impacts**: x
+    - **Appears on**: x
+    - **WCAGx
+
 ### Complete Soon
-- x
+- **Prep/Recruitment**: It would be helpful to get more specific information about the technology in use before the test.
 ### Complete Later
-- x
+- **Experience Standard: Category 2; Issue 5:** Content Organization: Long or complex sections of content are broken up into content chunks or bulleted lists.
+    - **Severity**: Not Launch Blocking
+    - **Appears on:** Experience Standards and WCAG SC 3.1
+    - **WCAG SC 3.1**: Make text content readable and understandable.
+- **Experience Standard: Category 8; Issue 1:** If your content has multiple CTAs, the CTAs don’t have a unique descriptive label and/or give the user the intended result. (In this instance because “decline” doesn’t imply “log out”.)
+- It would be helpful to get more specific information about the technology in use before the test.
 
 ## Other considerations and findings 
 
