@@ -1,15 +1,20 @@
 # Choose a language
 
 ## Overview
-[How Veterans use this feature]
+A user can choose the preferred language of their provider
 
 ## User stories
 
-- As a <user type> I want <goal> so that <reason>
+- As a Veteran I want to choose my preferred language of my provider.
 - As a <user type> I want <goal> so that <reason>
 
 ## Requirements
 
+### Community care language page
+
+- A user can choose the preferred language of their provider
+- After choosing a language, the user is sent to the reason for appointment page
+  
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 - [Functional requirement]
@@ -17,9 +22,9 @@
 
 ## User interface design
 
-[User flow](Add link) 
+[User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2916-5527&t=8LrybrXbHG0xrSfN-4) 
 
-[Page template](Add link)
+[Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=1466-25907&mode=design)
 
 [Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/request-cc.md#:~:text=CONTINUE-,Choose%20a%20language,-NAVIGATION)
 
