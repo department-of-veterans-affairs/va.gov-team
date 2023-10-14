@@ -1,4 +1,4 @@
-# Choose a preferred language
+# Choose a language
 
 ## Overview
 [How Veterans use this feature]
@@ -21,7 +21,7 @@
 
 [Page template](Add link)
 
-[Page content](Add link)
+[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/request-cc.md#:~:text=CONTINUE-,Choose%20a%20language,-NAVIGATION)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
