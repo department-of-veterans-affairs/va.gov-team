@@ -33,7 +33,7 @@
 - **SME** Name goes here
 - **Date response received:**
 
-### Callouts for the SME (when we ask for a review)
+### No callouts for the SME
 
 - No callouts. I'm pulling back from mentioning when we reorganize content if there aren't really substantive changes, but rather we've merely moved content out of one H2 section and created a new Q&A.
 
