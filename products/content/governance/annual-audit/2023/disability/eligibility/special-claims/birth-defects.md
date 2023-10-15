@@ -7,7 +7,7 @@
 - The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.). **Rewrote this and moved description of spina bifida to the blue box section about spina bifida.**
 - Assessed the content in the blue box. (Keeping eligibility info in blue box.)
 - Removed "Who's covered?" section 
-- Assessed "What kind of disability benefits can I get?" section **(Keep to emphasize health care and to mention VR&E.)**
+- Assessed "What kind of benefits can I get?" section (we're not saying "disability benefits" here because we're listing benefits more broadly for this specific audience and situation) **(Keep to emphasize health care and to mention VR&E.)**
 - Add this Note to the end of the blue box: **Note:** If you get a disability rating, you may also be eligible for VA health care and other benefits.
 - Changed the H2 from "How do I get these benefits" to "How do I file a claim for compensation for my child?" 
 - Created a new Q&A to house the evidence info that's already on the page but was buried. 
