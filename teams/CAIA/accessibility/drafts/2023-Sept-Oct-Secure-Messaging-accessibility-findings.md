@@ -46,9 +46,8 @@ To best serve the users of VA.gov, we will need to collect the following informa
 ## Key Findings
 Add screenshots, images and videos here.
 
-### Finding 1
-- Feel free to include bullets
-- They can help add some more info
+### Participants had trouble determining if there were attachments.
+- In the inbox, attachments are noted by an icon (what looks to be a paper clip emoji) that comes after a message title. This icon isn't read aloud by screen readers.
 
 ### Finding 2
 - Feel free to include bullets
@@ -65,10 +64,16 @@ Add screenshots, images and videos here.
 This section is for quotes. ⚠️ Participants should be referenced by number only, please.
 In this section feel free to segment populations based on the trends we see with certain user types.
 
-> "Quote goes here." - P54
+> "“Even though it is saved I don’t know where it is saved to.” - P1, on saving messages
+
+> “I know there’s an emphasis on that, and we should be reminded of it as often as possible...We can’t hear it enough, to tell you the truth." - P3, on the Crisis Line message
+
+> “This seems redundant. Category and subject could be seen as the same thing. I’m going to put the same thing (in the subject line).” - P3, on the "Category" and "subjects" inputs
+
+> “When I go back to a message, normally it would say a file was attached and list the file name...It should tell you right there.” - P3, on reviewing a message for attachments
 
 ## a11y Recommendations
-Overview summary goes here. 
+- Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment").
 
 ### If we don't have enough data or research to know...
 Point out the gaps
