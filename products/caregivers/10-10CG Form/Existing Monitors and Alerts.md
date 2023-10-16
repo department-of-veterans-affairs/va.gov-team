@@ -7,21 +7,15 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 
 
 ## Monitor: 10-10CG anomaly monitor
-### No data: 1010CG anomaly monitor
+### Triggered: 1010CG anomaly monitor
 #### Alert Reason:
-- There have not been any applications submitted in the last two hours.
+- There have been less than 25 submissions in the last 12 hours
 #### Action:
 - 10-10 Health Apps team will determine if there have been any failures that is causing the low volume of submissions
 - If any errors/failures are found, this information will be communicated on the **#vecms-carma_vadotgov_development_external** Slack channel
-### Triggered: 1010CG anomaly monitor
-#### Alert Reason:
-- Over the last 15 minutes, the volume of submissions has been more than 2 times below the predicted values for the time of day
-#### Action:
-- 10-10 Health Apps team will ensure there have not been any failures that is causing the low volume of submissions
-- If any errors/failures are found, this information will be communicated on the **#vecms-carma_vadotgov_development_external** Slack channel.
 ### Recovered: 1010CG anomaly monitor
 #### Alert Reason
-- The volume of submissions has reached at or above the predicted values for the time of day
+- The volume of submissions has reached at or above 25 submissions over the last 12 hours
 #### Action:
 - No Action needed, this alert is letting us know that volumes are back to normal
 ## Monitor: 1010CG submission job has failed retries
