@@ -7,14 +7,14 @@ Attendees: Jessica, Katelyn, Hieu, Kristen
 
 - Talked about EZ intro page for those who are already enrolled and the adjustments needed once the EZR goes live
   - Next steps: 
-  - Consider changes to the content around updates to benefits, the two headline section could be combined
+  - Consider changes to the content around updates to benefits, the two headline sections could be combined
   - Look at both primary and secondary action links in the design system
-  - Consider the only call to action on the page be the 
+  - Consider the only call to action on the page to be the "update benefit" button.
 
 - Talked about the Registration updates late last week and how to re-approach the problem
   - Next steps:
   - Working sessions for research questions and research goals
-  - Once those are refined; beging thinking through research methods/logistics
+  - Once those are refined; begin thinking through research methods/logistics
 
 ## 2023-10-11
 
