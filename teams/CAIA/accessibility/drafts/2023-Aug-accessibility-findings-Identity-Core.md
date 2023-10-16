@@ -116,30 +116,26 @@ To best serve the users of VA.gov, we will need to collect the following informa
 > "I don’t read very much of it. It is just right because it is my government and it is my VA, so I don’t need to know the terms of use. It just feels good for me to do. I think most of us feel the same way." - P23, on trusting the VA and not reading the Terms of Use
 
 #### Signed Out
-`Related to Finding 3`
 > "I have been signed out. Wow! I didn’t expect that. I figured I would get at least one more chance. This makes a lot of sense." - P23, on being signed out after clicking "Decline"
 
 ## a11y Recommendations
-Overview summary goes here. 
-
-### If we don't have enough data or research to know...
-Point out the gaps
+While this study had minimal AT participants three (3), with two (2) of which who used their technology, CAIA was able to capture valuable feedback, which was shared in the Mural for this project. Please find this deliverable template we are testing out, which dives deeper into the findings we shared in the Mural. 
 
 ## Next Steps
 A list of actionable findings, based on time-sensitive, priority needs. 
 
-### Complete Now
+### Complete Now (recommendation)
+_While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help faciliate a smooth process through the Collaboration Cycle._
 - Add transparency for the user and set expectations. Let the user know that they'll be signed out and won't be able to access their account.
     - **Experience Standard:** **Category** **4**; **Issue** **1**: All components of the navigation system (i.e. URL, breadcrumb, left nav) within your content or feature must accurately and consistently represent the location of the page within the IA.
     - **Severity**: a11y-defect-2, Launch Blocking
     - **Impacts**: A11y and IA
     - **Appears on**: Experience Standards, Common Accessibility Issues and WCAG 2.1
     - **WCAG 2.1 (2.4.4):** Every link’s purpose is clear from its context.
-- **Experience Standard: Category 3; Issue 11:** User flows and navigating: Link or button is not working as expected or did not navigate to the intended destination. (ex. Decline and logging out)
-    - **Severity**: x
-    - **Impacts**: x
-    - **Appears on**: x
-    - **WCAGx
+- **Experience Standard: Category 3; Issue 11:** User flows and navigating: Link or button is not working as expected or did not navigate to the intended destination. (ex. Decline and logging out). [Reference button component accessibility considerations](https://design.va.gov/components/button/#accessibility-considerations )
+    - **Severity**: Launch Blocking 
+    - **Impacts**: A11y, Content, design and IA
+    - **Appears on**: Experience Standards
 
 ### Complete Soon
 - **Prep/Recruitment**: It would be helpful to get more specific information about the technology in use before the test.
@@ -150,22 +146,3 @@ A list of actionable findings, based on time-sensitive, priority needs.
     - **WCAG SC 3.1**: Make text content readable and understandable.
 - **Experience Standard: Category 8; Issue 1:** If your content has multiple CTAs, the CTAs don’t have a unique descriptive label and/or give the user the intended result. (In this instance because “decline” doesn’t imply “log out”.)
 - It would be helpful to get more specific information about the technology in use before the test.
-
-## Other considerations and findings 
-
-_A finding that may not be relevant to the study, but worth talking about. Include images as needed._
-
-### List of caught defects and issues
-
-#### Relevant to this team
-- [ ] Description of issue and how to replicate
-
-#### Belongs to other teams
-- [ ] Description of issue and how to replicate
-
-#### Design system
-- [ ] Description of issue and how to replicate
-
-## References
-<a id="1">[1]</a> 
-Citations if needed 
