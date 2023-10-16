@@ -36,7 +36,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 
-**Participants who successfully completed sessions: XX**
+**Participants who successfully completed sessions: 4**
 
 **Examples below:**
 - [1 desktop JAWS user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p2.md)
