@@ -206,3 +206,11 @@ General problems include:
 
 In Fall 2023, a team was hired to start on the [Digitizing forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/IVC%20Portal%20Forms%20Work.docx) part of the work. There are 15 forms.
 
+## Related content and IA work for reference
+
+The content/accessibility/information architecture (CAIA) team has 2 ongoing initiatives that will impact where the digitized forms live on VA.gov and content related to those forms:
+
+- Content migration of content re: CHAMPVA, the Foreign Medical Program, and the Spina Bifida Health Care Program from the legacy TeamSite environment (community care website) to the modernized VA.gov environment
+- Expansion of the VA.gov family member benefits hub to build a more cohesive experience for family members
+
+[Read more in this document on related content information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/related-content-information.md)
