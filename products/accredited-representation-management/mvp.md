@@ -32,7 +32,7 @@ The MVP will include desktop & mobile experiences
 1. Selection
     1. Search results will have a button to 'Select' the representative
   
-#### Request a Representative
+#### Appoint a Representative
 Digital form fill of 21-22/21-22a 
 1. Chapter 1: Veteran Personal Information
    1. Unauth: Enter Veteran’s Name and Date of Birth
