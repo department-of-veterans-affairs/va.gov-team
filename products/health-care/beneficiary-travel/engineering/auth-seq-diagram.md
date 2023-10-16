@@ -11,14 +11,20 @@ sequenceDiagram
 
   v->>vweb: Login
   activate vweb
+    vweb->>vapi: Kick off auth
+    activate vapi
     vapi->>uauth: authenticate via Identity Provider (IdP)
 
     activate uauth
       uauth-->>vapi: access token
     deactivate uauth
-
+    vapi-->>vweb: Redirect to dashboard
+    deactivate vapi
     vweb-->>v: Veteran dashboard
+    deactivate vweb
+
     v->>vweb: Travel Pay
+    activate vweb
     vweb->>vapi: /travel-pay
     activate vapi
 
