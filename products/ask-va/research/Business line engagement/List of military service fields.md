@@ -38,6 +38,8 @@ This list is alphabetized by category name. There is also a screenshot of the sp
 
 ## How we should use their feedback to inform our designs
 
+### Consistent across all categories
+
 - Include these fields as required for all categories, because all business lines agree:
   - `First name`
   - `Last name`
@@ -46,6 +48,8 @@ This list is alphabetized by category name. There is also a screenshot of the sp
 - Remove these fields from the form, because all business lines agree:
   - `Service start date`
   - `Service end date`
+
+### Depends on the category
 - We confirmed again that VBA-ART and `Veteran ID Card (VIC)` need `Branch of Service` as part of their ID protocol requirements, so we need to require `Branch of Service` for at least these categories:
   - `Veteran ID Card (VIC)`
   - `Disability compensation`
