@@ -142,7 +142,7 @@ Provide a link to any materials you need to run your study, including any materi
 
 For moderated usability tests:
 
--   [Link to conversation guide](url goes here)
+-   [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/conversation-guide.md)
     
 -   Link to staging URL: [https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
     
