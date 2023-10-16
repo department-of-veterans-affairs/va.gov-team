@@ -95,6 +95,7 @@ Before we look at the website, let’s start with a few warm-up questions.
             - For today, we'll navigate to the "Manage Devices" portion on this page.
    - Manage Devices
       - Can you walk me through what you're seeing here?  What would you do next?
+      - TO BE UPDATED (Warning Indicator): Can you talk me through what you're seeing here?  What are your thoughts on this?
 
 ### Things to watch for:
 
