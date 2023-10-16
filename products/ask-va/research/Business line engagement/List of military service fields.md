@@ -68,8 +68,8 @@ This list is alphabetized by category name. There is also a screenshot of the sp
   - `Sign in and technical issues`
   - `DEERS (Defense Enrollment Eligibility Reporting System)`
 - We are still confirming whether:
-  - `Housing assistance and home loans` needs `Service number`, if all other business lines do not?
-  - `Decision reviews and appeals` needs `Claim number`, if all other business lines do not?
+  - `Housing assistance and home loans` needs `Service number` (all other business lines do not)
+  - `Decision reviews and appeals` needs `Claim number` (all other business lines do not)
 
 **This document is still being updated, as we confirm the above.**
 
