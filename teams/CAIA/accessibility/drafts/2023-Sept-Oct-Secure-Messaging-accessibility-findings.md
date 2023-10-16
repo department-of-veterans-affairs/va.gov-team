@@ -10,7 +10,7 @@
 - **Ticket Links:** Research Support Ticket [#65457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65457#issuecomment-1733718767)
 
 # Accessibility Tools Utilized
-`iOS VoiceOver` `JAWs`
+`iOS VoiceOver` `MacOS VoiceOver` `JAWS`
 
 ## Coverage
 This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
