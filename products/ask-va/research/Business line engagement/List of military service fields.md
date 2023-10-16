@@ -64,7 +64,7 @@ This list is alphabetized by category name. There is also a screenshot of the sp
   - `Decisions reviews and appeals`
   - `Life insurance`
   - `Burials and memorials`
-  - `Health care` (depends on the topic)
+  - `Health care`
   - `Veteran ID Card (VIC)`
   - `Veteran Readiness and Employment`
   - `Sign in and technical issues`
