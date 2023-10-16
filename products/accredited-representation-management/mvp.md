@@ -33,33 +33,30 @@ The MVP will include desktop & mobile experiences
     1. Search results will have a button to 'Select' the representative
   
 #### Request a Representative
-1. Form 21-22/21-22a
-    1. Pre-fill the form for PDF download
-        1. Authenticated: both rep and personal information
-        1. Unauthenticated: rep information, no personal information
-    1. Present missing form fields to the user
-        1. Authenticated: Capture additional authorization information
-            1. Section 19: Authorization for representative’s access to records protected by Section 7332, Title 38, U.S.C. _(checkbox)_
-            1. Section 20: Limitation of consent _(checkboxes)_
-                1. Drug abuse
-                1. Alcoholism or alcohol use problems
-                1. Human immunodeficiency virus
-                1. Sickle cell anemia
-            1. Section 21: Authorization to change claimant’s address _(checkbox)_
-        1. Unauthenticated: Capture personal information and additional authorization information 
-            1. Section I: Veteran’s information (9 fields)
-            1. Section II: (If other than veteran) Claimants information (5 fields)
-            1. Authorization (same as sections 19-21 listed above):
-            1. Section 19: Authorization for representative’s access to records protected by Section 7332, Title 38, U.S.C. _(checkbox)_
-            1. Section 20: Limitation of consent _(checkboxes)_
-                1. Drug abuse
-                1. Alcoholism or alcohol use problems
-                1. Human immunodeficiency virus
-                1. Sickle cell anemia
-            1. Section 21: Authorization to change claimant’s address _(checkbox)_
-    1. Present option to download pre-filled PDF form (without signatures)
-    1. Set expectations and guide to next steps
-    1. Download to PDF desktop (do not open PDF in browser)
+Digital form fill of 21-22/21-22a 
+1. Chapter 1: Veteran Personal Information
+   1. Unauth: Enter Veteran’s Name and Date of Birth
+   2. Unauth: Enter Veteran’s Identification Information
+   3. Auth: Review information on file
+2. Chapter 2: Veteran Contact and Insurance Information
+   1. Unauth: Enter Veteran’s Contact Information (phone and email)
+   2. Unauth: Enter Veteran’s Mailing Address
+   3. Auth: Review (w option to Edit) Veteran’s Contact Information
+   4. Auth: Edit Veteran’s Contact Information with option to save
+3. Chapter 3: Claimant Information (pages are the same for both unauth/auth)
+   1. Are you the Veteran who the claim is being submitted for?
+   2. [claimant = no] Claimant Personal Information
+   3. [claimant = no] Claimant Contact Information
+   4. [claimant = no] Claimant Mailing Address
+4. Chapter 4: Authorization for Record Access (pages are the same for both unauth/auth)
+   1. Authorization for Representative’s Access to Records Protected by Section….
+5. Chapter 5: Authorization for Address Change (pages are the same for both unauth/auth)
+   1. Authorization to Change Claimant’s Address
+6. Chapter 6: Review and Complete (pages are the same for both unauth/auth)
+   1. Sections are collapsed
+   2. Sections are expanded with option to edit
+   3. Sections are expanded with editing and option to save
+7. Download page (pages are the same for both unauth/auth) (edited) 
 
 #### Representative Status Widget
 
