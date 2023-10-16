@@ -1,29 +1,48 @@
 ```mermaid
 sequenceDiagram
   actor v as Veteran
-  participant vagov as VA.gov
-  participant blp as Big Login Process
-  participant iam as IAM (possibly SiS?)
+  box VA.gov
+    participant vweb as vets-website
+    participant vapi as vets-api
+  end
+  participant uauth as <User Authentication>
   participant tpapi as Travel Pay API
+  participant sis as Sign-In Service
 
-  v->>vagov: Login
-  activate vagov
-  vagov->>blp: authenticate via Identity Provider (IdP)
-  activate blp
-  blp-->>vagov: access token
-  deactivate blp
+  v->>vweb: Login
+  activate vweb
+    vapi->>uauth: authenticate via Identity Provider (IdP)
 
-  activate tpapi
-  vagov->>tpapi: /token
-  tpapi->>iam: /introspect
-  iam-->>tpapi: session response
-  tpapi-->>vagov: oauth access token
-  deactivate tpapi
+    activate uauth
+      uauth-->>vapi: access token
+    deactivate uauth
 
-  vagov->>tpapi: /example-endpoint with Bearer token
-  activate tpapi
-  tpapi-->>vagov: endpoint response
-  deactivate tpapi
-  vagov->>v: Veteran data
-  deactivate vagov
+    vweb-->>v: Veteran dashboard
+    v->>vweb: Travel Pay
+    vweb->>vapi: /travel-pay
+    activate vapi
+
+    activate tpapi
+      vapi->>tpapi: {endpoint: '/token', headers: {auth: <signed bearer token>}}
+
+      tpapi-->>vapi: oauth access token
+    deactivate tpapi
+
+    vapi->>tpapi: {endpoint: '/example-endpoint',<br/>headers: {auth: <Travel Pay access token as bearer>,<br/>veteran_auth:<Veteran access token>}}
+
+    activate tpapi
+      tpapi->>tpapi: validate token
+
+      tpapi->>sis: {endpoint: '/introspect',<br/>headers: {auth: <Veteran's access token as bearer>}}
+      activate sis
+        sis-->>tpapi: Veteran info response
+      deactivate sis
+
+      tpapi-->>vapi: endpoint response
+    deactivate tpapi
+    
+    vapi-->>vweb: Veteran data
+    deactivate vapi
+    vweb->>v: travel pay UX
+  deactivate vweb
 ```
