@@ -38,7 +38,7 @@ Learn how to effectively communicate to the Veterans the need for device managem
 ### Hypothesis
 
 - Veterans will be split on their understanding of a rationale for logging out of all devices.
-- Once security concerns are explained to the Veteran, they will understand why such an option exists.
+- Veterans will need an explanation of the implications of signing out of all their devices in order to make an informed decision to proceed.
 - Veterans will expect the platform to take accountability for their security e.g. if there are suspected instances of malware, phishing scams, etc. the VA.gov website will automatically end all user sessions and inform the Veteran.
 - Veterans are willing to sacrifice security for convenience of not having to log back into their devices.
 
