@@ -94,7 +94,7 @@ Before we look at the website, let’s start with a few warm-up questions.
             - What do you think the term "Manage Devices" means on this page?
             - For today, we'll navigate to the "Manage Devices" portion on this page.
    - Manage Devices
-      - 
+      - Can you walk me through what you're seeing here?  What would you do next?
 
 ### Things to watch for:
 
@@ -105,8 +105,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
+- Is there any additional feedback you have for me at this point?
 - Any questions for me? 
 
 ## Consent to use video clips
