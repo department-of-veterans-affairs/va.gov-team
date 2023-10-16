@@ -139,7 +139,7 @@ Both time periods | 3 | 8-10 | 8.7 | 10
 
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
-### Some of the questions were confusing to a few participants
+### 2. Some of the questions were confusing to a few participants
 #### 3 participants had difficulty with the service years question
 ![q-service-years](./images/q-service-years.png)
 
@@ -178,7 +178,7 @@ RECOMMENDATIONS:
 1. If applicable, consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
 1. If possible, consider revising the content to disambiguate the word "near" in the DMZ option.
 
-#### 1 participant wasn't sure what "neutral zone" means
+#### 1 participant was unclear about "neutral zone"
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
 
 One participant asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations with the FOB (Forward Operating Base) names on it for the places she lived, transported supplies to, had a day pass to, etc. Without this information, she answered "not sure" to the question.
@@ -191,7 +191,18 @@ RECOMMENDATIONS:
 1. In the questions, try to mirror the language that Veterans heard during their service (e.g., FOB names, "green zone" and not "neutral zone"?).
 1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
 
+### 3. Some participants had **beliefs about whether they were eligible for benefits under the PACT Act** before trying the wizard, and some of these beliefs were *incorrect* and not addressed by anything in the wizard.
 
+Below is a list of reasons why some participants said that they were NOT eligible for benefits under the PACT Act:
+1. 100% disabled already 
+
+1. Wasn't in one of the locations at the right time (i.e., never saw combat in Vietnam, or arrived in Korea after they stopped using Agent Orange)--2 participants
+
+> *"I know I'm not eligible so I don't want to waste anybody's time, including my own" (p10).*
+
+
+  RECOMMENDATIONS: 
+  1. Consider adding more content to the main PACT Act page, and link from there to this wizard.
 
 ### Something about results...
 Based on their responses to the questions, 6 of 9 participants were taken to the "You may be eligible" results page. This page in the prototype contained burn pit content and so wasn't applicable to all of the participants (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service.
@@ -212,8 +223,7 @@ Results screen | # of Participants
 
 ### Usability Issues
 
-1. Some participants had **beliefs about whether they were eligible for benefits under the PACT Act** before trying the PACT Act Wizard, and some of these beliefs were *incorrect* and not addressed by any content in the wizard.
-  RECOMMENDATION: Consider adding more content to the main PACT Act page, and link from there to this wizard.
+
 1. Three participants were **confused by the jump links** at the top of the results page on Staging because they interpreted them as CTA's (i.e., *file a disability claim* or *apply for health care* right now).
 
 
