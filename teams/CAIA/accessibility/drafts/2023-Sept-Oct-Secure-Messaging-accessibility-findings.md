@@ -1,13 +1,16 @@
 # About this Research Study
-- **Study Name:** Project Name (ex. MHV Authenticated Experience)
-- **Study Dates:** (can be month study was held or specific)
-- **Study Research Lead:**
-- **A11y Collaborators:**
-- **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
-- **Ticket Links:** EPIC and/or CAIA research assistance request ticket
+- **Study Name:** MHV Secure Messaging
+- **Study Dates:** September and October 2023
+    - [Detail can be found via the sesions comment in #65457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65457#issuecomment-1733718767)
+- **Study Research Lead:** Ade Ajayi and Anne Costello 
+- **A11y Collaborators:** Sara, SK and Jamie
+- **Related Docs:**
+    - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-09-usability-round3-phase0/research-plan.md)
+    - [Research conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-09-usability-round3-phase0/conversation-guide.md)
+- **Ticket Links:** Research Support Ticket [#65457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65457#issuecomment-1733718767)
 
 # Accessibility Tools Utilized
-`ZoomText` `JAWs` `iOS-VO` (List types of AT covered here)
+`iOS VoiceOver` `JAWs`
 
 ## Coverage
 This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
