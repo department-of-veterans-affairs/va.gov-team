@@ -48,6 +48,8 @@ This list is alphabetized by category name. There is also a screenshot of the sp
 - Remove these fields from the form, because all business lines agree:
   - `Service start date`
   - `Service end date`
+  - `Service number`
+  - `Claim number`
 
 ### Depends on the category
 - We confirmed again that VBA-ART and `Veteran ID Card (VIC)` need `Branch of Service` as part of their ID protocol requirements, so we need to require `Branch of Service` for at least these categories:
@@ -67,11 +69,6 @@ This list is alphabetized by category name. There is also a screenshot of the sp
   - `Veteran Readiness and Employment`
   - `Sign in and technical issues`
   - `DEERS (Defense Enrollment Eligibility Reporting System)`
-- We are still confirming whether:
-  - `Housing assistance and home loans` needs `Service number` (all other business lines do not)
-  - `Decision reviews and appeals` needs `Claim number` (all other business lines do not)
-
-**This document is still being updated, as we confirm the above.**
 
 ## Appendix
 
