@@ -2,15 +2,13 @@
 
 Last updated by @tygindraux: October 13, 2023
 
-This list has been sourced from all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)). This is based on their needs, however, we still need to discuss how we design and build these fields. As examples, we could decide to keep them consistent across all categories but only make certain fields required, or, we could decide to remove/add fields depending on a business line's needs.
-
 Jump to:
 - [When business lines say they need or don't need military service information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information)
 - [How we should use their feedback to inform our designs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#how-we-should-use-their-feedback-to-inform-our-designs)
 
 ## When business lines say they need or don't need military service information
 
-This is when business lines have stated they need or don't need particular military service information in Ask VA.
+This is when business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)) have stated they need or don't need particular military service information in Ask VA.
 
 This list is alphabetized by category name. There is also a screenshot of the spreadsheet we used to collect this information in the [appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#appendix).
 
