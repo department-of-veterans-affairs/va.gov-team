@@ -41,7 +41,7 @@ This will be a change to both the LOA1 and LOA3 states on My VA.
 |Are searches for "**health care**” ("myhealthevet") in the top 50 search terms on My VA?| #154<br/> 99 instances<br/> 0.10%  | #148<br/> 85 instances<br/> 0.10%    |   |
 |Are searches for "**education and training**” ("education") in the top 50 search terms on My VA?| #71<br/> 259 instances<br/> 0.25%  | #66<br/> 217 instances<br/> 0.26%  | |
 |Are searches for "**disability compensation**” ("disability compensation") in the top 50 search terms on My VA?| #392<br/> 29 instances<br/> 0.03) |#404<br/> 22 instances<br/> 0.03% | |
-|Are searches for "**careers and employment**” ("careers") in the top 50 search terms on My VA?| #159<br/> 93 instances<br/> 0.09% | #142<br/> 92 instances<br/> 0.11)| |
+|Are searches for "**careers and employment**” ("careers") in the top 50 search terms on My VA?| #159<br/> 93 instances<br/> 0.09% | #142<br/> 92 instances<br/> 0.11| |
 |Are searches for "**pension**” ("pension") in the top 50 search terms on My VA?| #527<br/> 19 instances<br/> 0.02% | #626<br/> 13 instances<br/> 0.02% | |
 |Are searches for "**house assistance**” ("housing assistance") in the top 50 search terms on My VA?|#370<br/> 31 instances<br/> 0.03% | #359<br/> 26 instances<br/> 0.03% | |
 |Are searches for "**burials and memorials**” ("burial application") in the top 50 search terms on My VA?|#455<br/> 24 instances<br/> 0.02% |#569<br/> 14 instances<br/> 0.02% | |
