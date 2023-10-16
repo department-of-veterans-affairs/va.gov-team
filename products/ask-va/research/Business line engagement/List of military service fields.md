@@ -46,14 +46,28 @@ This list is alphabetized by category name. There is also a screenshot of the sp
 - Remove these fields from the form, because all business lines agree:
   - `Service start date`
   - `Service end date`
-- Where there was 1-2 outlier, go back to the 1-2 business line(s) to re-confirm:
-  - Does `Housing assistance and home loans` need `Service number`, if all other business lines do not?
-  - Does `Decision reviews and appeals` need `Claim number`, if all other business lines do not?
-  - Do VBA and `Veteran ID Card (VIC)` need `Branch of Service`, if all other business lines do not?
-- Discuss how to handle this field, which varies greatly between categories:
-  - `DoD/EDIPI number` is needed by around 50% of business lines, and not needed by around 50% of business lines
+- We confirmed again that VBA-ART and `Veteran ID Card (VIC)` need `Branch of Service` as part of their ID protocol requirements, so we need to require `Branch of Service` for at least these categories:
+  - `Veteran ID Card (VIC)`
+  - `Disability compensation`
+  - `Survivor benefits`
+  - `Burials and memorials`
+  - `Center for Women Veterans`
+  - `Benefits issues outside the U.S.`
+- `DoD/EDIPI number` is needed by around 50% of business lines, so we need to require `DoD/EDIPI number' for at least these categories:
+  - `Center for Minority Veterans`
+  - `Decisions reviews and appeals`
+  - `Life insurance`
+  - `Burials and memorials`
+  - `Health care` (depends on the topic)
+  - `Veteran ID Card (VIC)`
+  - `Veteran Readiness and Employment`
+  - `Sign in and technical issues`
+  - `DEERS (Defense Enrollment Eligibility Reporting System)`
+- We are still confirming whether:
+  - `Housing assistance and home loans` needs `Service number`, if all other business lines do not?
+  - `Decision reviews and appeals` needs `Claim number`, if all other business lines do not?
 
-**This document should be updated once there is a clear decision for how we will handle each field.**
+**This document is still being updated, as we confirm the above.**
 
 ## Appendix
 
