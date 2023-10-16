@@ -5,13 +5,14 @@
 ### OCTO checks, edits, tasks
 
 - The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.).
-- Assessed the content in the blue box. (Keeping eligibility info in blue box.)
+- Assessed the content in the blue box. Added H3s to help chunk the content for both visual and screen-reader scanning. Also reworked the bulleted lists to eliminate sub-bullets.
 - Removed "Who's covered?" section 
-- Assessed "What kind of disability benefits can I get?" section (Keep because this is not a monthly payment and we need to make that clear.)
-- Add this Note to the end of the blue box: **Note:** If you get a disability rating, you may also be eligible for VA health care and other benefits.
+- Assessed "What kind of disability benefits can I get?" section. Kept this to call out that the benefit is "added payments" in addition to the regular monthly disability benefit. Removed health care since that's not a disability benefit and we now mention it at the end of the blue box. Also removed "Temporary 100% disability rating since that's not a benefit, but rather the added payments are contingent on this temporary rating.
+- Added this Note to the end of the blue box: **Note:** If you get a disability rating, you may also be eligible for VA health care and other benefits.
+- Created a new Q&A that comes before "How do I file..." in order to slim down "How do I file" and to specifically call out this detail. We may need to shorten the question, but for now it's "To get added compensation, do I need a temporary disability rating of 100%?"
 - Changed the H2 from "How do I get these benefits" to "How do I file a claim for compensation?" / added an action link for the CTA and used the label "File for disability compensation online" / used this text for the link under the action link that should point to the How to file page: "Learn about other ways to file a disability compensation claim"
-- Relevant terms from page are in content brief and any relevant backlog work is noted.
-- Backlog ticket for further review created if needed.
+- Relevant terms from page are in content brief.
+- Backlog ticket for further review created--to assess whether we should keep the example.
 
 ### Copy editor checks, edits, tasks
 - Header levels are hierarchical
@@ -31,9 +32,7 @@
 - **SME** Name goes here
 - **Date response received:**
 
-### Callouts for the SME (when we ask for a review)
-
-- 
+### No callouts for the SME 
 
 ### Responses
 
