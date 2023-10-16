@@ -259,7 +259,7 @@ At least 20% of people are non-native English speakers
 
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
-Wednesday Oct 18, 2023 - Friday, Oct 27, 2023
+Tuesday Oct 24, 2023 - Friday, November 3, 2023
 
 ### Prepare
 
@@ -272,7 +272,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 
--   Planned dates of research: Wednesday Oct 18, 2023 - Friday, Oct 27, 2023
+-   Planned dates of research: Tuesday Oct 24, 2023 - Friday, November 3, 2023
     
 
 ### Length of sessions
@@ -301,7 +301,7 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 
 Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-Wednesday Oct 18, 2023 - Friday, Oct 27, 2023
+Tuesday Oct 24, 2023 - Friday, November 3, 2023
 
 9am PT - 2pm PT: Tuesday, Wednesday
 
