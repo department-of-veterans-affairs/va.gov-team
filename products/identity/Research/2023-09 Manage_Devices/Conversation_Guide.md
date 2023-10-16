@@ -61,42 +61,47 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-- When logging into VA.gov, what devices do you use?  (If participate hesitates, give them time to answer without providing examples.  If they are unable to answer, ask them which device they used the last time they logged into VA.gov.  Follow that up with "Do you ever log into VA.gov with anything other than your _______?"
-- Have you ever connected any other devices to your VA.gov account e.g. an apple watch or FitBit?
+- When logging into VA.gov, what devices do you use?  (If participant hesitates, give them time to answer without providing examples.  If they are unable to answer, ask them which device they used the last time they logged into VA.gov.
+   - Follow that up with "Do you ever log into VA.gov with anything other than your _______?"
+- Have you ever connected any other devices to your VA.gov account e.g. an apple watch or FitBit?  Can you walk me through how you've done that?
 
-## First Task: Logging into VA.gov - X minutes (Understanding PW management)
+## First Task: Logging into VA.gov - X minutes (Understanding password management)
 
-- How do you normally log into VA.gov?  Can you share your screen with me and walk me through that process?
-- Do you ever log out when you're on _______ device?  If so, can you show me how?  Do you ever log back in after logging out?  
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- How do you normally access VA.gov?  Can you share your screen with me and walk me through that process?
+   - MOBILE DEVICE: [ If they are able to access VA.gov without logging in... ] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with logging in? 
+- Do you ever log out when from _____ device?  If so, can you show me how?
+  - Do you ever log back in after logging out?  Can you describe that for me?
+- How do you keep track of your passwords for logging into your account?
+   - Have you ever had to reset your password?  Can you describe that process for me?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Since we're working with users who may be using a desktop browser or a mobile device and each has their own session lengths, we'd like to understand what pain points might arise if they log out of their devices so the questions on this section are purposely kept more open ended and generative.  Where possible, ask follow-up questions and allow the Veteran to express potential pain points without leading them.
 
-## Third Task: [TASK NAME] - X minutes
+## Second Task: Prototype Walk-Through - X minutes
 
-- Step 1
-- Step 2
+- Have you ever had the need to log out of sign out of all your devices?  If so, can you recall why you did so?
+- I'm now going to show you a prototype and would like for you to share your screen and walk me through how you would complete the following steps.
+   - If you were prompted to log out of all of your devices, can you show me where you would start?  Why would you start there?
+   - Username
+      - [SUCCESS] (clicks on username) Allow them to continue walking you through.
+      - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
+   - Profile
+      - Can you tell me what you would be looking for on this page at this point?  Does anything stand out to you to help you commplete your task?
+         - [SUCCESS] (sees the "Manage Devices" option) Allow them to continue walking you through.
+         - [FAIL] (if they don't call out "Manage Devices") Ask them to read through the page again; if they are unable to point out "Manage Devices", gently guide them.
+            - What word or phrase would you be looking for in order to complete the task of signing out of all your devices.
+            - What do you think the term "Manage Devices" means on this page?
+            - For today, we'll navigate to the "Manage Devices" portion on this page.
+   - Manage Devices
+      - 
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
+- [Does the participant understand meaning of logging out of all of their devices?]
+- [Does the participant notice the warning indicator?]
 - [Etc]
+
 
 ## Post-Task Interview - X minutes
 
