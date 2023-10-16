@@ -27,6 +27,7 @@ Please add any potential future topics you would like covered below:
 ### 10/16/23 - Datadog!
 - Chris Kim & Eli Selkin
 - Datadog is a monitoring tool now available to VFS teams. Recently, Chris & Eli configured monitors and synthetic tests for Public Websites and Facilities use cases, and will share learnings.
+- [Zoom video](https://civicactions.zoom.us/rec/share/LBftc12KS6mU7Iz7I7moKOARVp7MmXjNNCOuA7ra7I41hHlmdVlRHftdEhYHQrwr.g2v3yWg4s9tej94a?startTime=1697479170000) Passcode: 0HK%Kc2K
 
 ### 6/12/23 - Cerner/KISS
 - Ryan Koch
