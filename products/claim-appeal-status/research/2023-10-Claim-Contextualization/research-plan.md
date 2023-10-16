@@ -23,13 +23,13 @@ This work supports a Veteran whenever they are filing a disability compensation 
 - Assess whether Veterans understand the steps that are available to them to increase the likelihood of a favorable claim outcome. 
 
 ### Outcome
-With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov.
+With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov. Which aspects specifically do Veterans find useful?
 
 ### Research questions
 
-- How do Veterans react to this content? Do they find it useful? 
+- How do Veterans react to this content? Do they find it useful?
 - Does this new design set better expectations for how the claim will move between stages? Do Veterans understand why and how the claim might move back and forth between certain stages?
-- After seeing this design, do Veterans understand their responsibilities at each step of the process?
+- After seeing this design, do Veterans understand actions available to them at each step in the process that might help strengthen their claim?
 
 ### Hypotheses
 - The new design will set better expectations about the claim process, demonstrating to Veterans that it is not always linear. 
