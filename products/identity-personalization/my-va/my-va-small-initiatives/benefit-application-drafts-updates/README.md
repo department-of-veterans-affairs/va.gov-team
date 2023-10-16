@@ -1,6 +1,6 @@
 # Initiative outline: Remove "What benefits does VA offer?"
 
-**Last updated: August 29, 2023 - dates in measuring success table, key dates, "after" screenshots**
+**Last updated: October 16, 2023 - measuring success**
 
 ### Communications
 
@@ -37,14 +37,14 @@ This will be a change to both the LOA1 and LOA3 states on My VA.
  
 |KPI|Baseline: <br />1 month pre-launch <br />(07/27/2023 - 08/28/2023)|1 month post-launch <br />(08/29/2023 - 09/28/2023)| 2 months post-launch <br />(09/29/2023 - 10/28/2023)|
 |----------|-------------|---------------|-------------------|
-|Are searches for "**health care**” (or similar -- whichever comes first) in the top 50 search terms on My VA?|   |   |   |
-|Are searches for "**education and training**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
-|Are searches for "**disability compensation**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
-|Are searches for "**careers and employment**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
-|Are searches for "**pension**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
-|Are searches for "**house assistance**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
-|Are searches for "**burials and memorials**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
-|Are searches for "**life insurance**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
+|Are searches for "**health care**” ("myhealthevet") in the top 50 search terms on My VA?| #154<br/> (99 instances, 0.10%)  | #148<br/> (85 instances, 0.10%)   |   |
+|Are searches for "**education and training**” ("education") in the top 50 search terms on My VA?| #71<br/> (259 instances, 0.25%)  | #66<br/> (217 instances, 0.26%) | |
+|Are searches for "**disability compensation**” ("disability compensation") in the top 50 search terms on My VA?| #392<br/> (29 instances, 0.03%) |#404<br/> (22 instances, 0.03%) | |
+|Are searches for "**careers and employment**” ("careers") in the top 50 search terms on My VA?| #159<br/> (93 instances, 0.09%) | #142<br/> (92 instances, 0.11%)| |
+|Are searches for "**pension**” ("pension") in the top 50 search terms on My VA?| #527<br/> (19 instances, 0.02%) | #626<br/> (13 instances, 0.02%) | |
+|Are searches for "**house assistance**” ("housing assistance") in the top 50 search terms on My VA?|#370<br/> (31 instances, 0.03%) | #359<br/> (26 instances, 0.03%) | |
+|Are searches for "**burials and memorials**” ("burial application") in the top 50 search terms on My VA?|#455<br/> (24 instances, 0.02%) |#569<br/> (14 instances, 0.02%) | |
+|Are searches for "**life insurance**” ("life insurance") in the top 50 search terms on My VA?|#50<br/> (339 instances, 0.33%) |#25<br/> (409 instances, 0.50%) | |
 |Are searches for "**service member benefits**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
 |Are searches for "**family member benefits**” (or similar -- whichever comes first) in the top 50 search terms on My VA?| | | |
 
