@@ -28,9 +28,12 @@ ________________________________________________________________________________
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
             - Who do we want to pilot with?
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Put 45-minute Content behind Pilot Feature](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67255)
          - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Update aria labels in appt list for details link in Priority 1 Sketch page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67169)
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Create wireframe for pre-check-in too late that includes "we'll send you a text" (existing message)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67171)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] create dismissable alert for pre-check-in what to do next](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67418)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add api calls for new pre-check-in logic flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67417)
             - What BE tickets do we need?
             - What are we prepared to do next? 
     - **Sub Goal: Analyze current metrics to see what they tell us**
