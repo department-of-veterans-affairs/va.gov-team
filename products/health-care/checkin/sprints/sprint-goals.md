@@ -19,6 +19,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Make Decisions about CodePen Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65419)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65418)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Create Card Sort Activity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67163)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Complete Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67164)
