@@ -149,7 +149,7 @@ A different participant was thinking about the campaigns she served in and not t
 
 A third participant didn't select "both time periods" until his second time through the survey. He seemed to think that the word **"serve" meant instead "started" or "joined" because he asked whether it includes his training**. The reason is that he joined in Aug 1989 and did basic training and tech training but didn't actually start serving until 1990. And *"you're really not in the military until after training" (p4).*
 
-POTENTIAL RECOMMENDATIONS: 
+RECOMMENDATIONS: 
 1. **Consider instead asking what year the Veteran joined the service and what year they left** (as in Perigean's recruitment survey). This might be more straightforward than the cognitive load of A/B/both radio button options, and also would eliminate questions about whether one's service is close enough to 1989 or 1990 and the implications. 
 1. Alternatively, consider making the options into 2 checkboxes instead of 3 radio buttons.
 1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
@@ -162,7 +162,7 @@ When they saw the above question, 2 participants said (unprompted) that they **d
 
 Two other participants mentioned that they're familiar with C-123's but others may not be. One of them said, *"If it applied to you, you would know...service members know their equipment" (p9).* The other said something similar and also that an explanation might be helpful.
 
-POTENTIAL RECOMMENDATION: 
+RECOMMENDATION: 
 1. Consider adding a brief description or link to information about C-123 planes.
 
 #### 1 participant had questions about another Agent Orange question 
@@ -174,18 +174,22 @@ One participant had questions about the Agent Orange question they saw. The firs
 
 The same participant was also unsure about **what is considered to be "near" the DMZ**. He served in Korea at Osan but not at the DMZ, so he answered "no".
 
-POTENTIAL RECOMMENDATIONS:
+RECOMMENDATIONS:
 1. If applicable, consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
 1. If possible, consider revising the content to disambiguate the word "near" in the DMZ option.
 
 #### 1 participant wasn't sure what "neutral zone" means
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
 
-One participant asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations and the FOB (Forward Operating Base) names on it for the places they . Without that, she answered "not sure" to the question.
+One participant asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations with the FOB (Forward Operating Base) names on it for the places she lived, transported supplies to, had a day pass to, etc. Without this information, she answered "not sure" to the question.
 
 > *"I know I was in Iraq, but I don't know where in Iraq [they are referring to]...I know some of the FOBs where I was. I didn't know the cities I was close to...I really didn't pay attention to knowing exactly where I was, besides the fact that I was in Iraq...I know they said one time I was in the green zone" (p8).*
 
+Another participant also wanted to see a map that showed the geographical areas of the locations listed in the question.
 
+RECOMMENDATIONS: 
+1. In the questions, try to mirror the language that Veterans heard during their service (e.g., FOB names, "green zone" and not "neutral zone"?).
+1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
 
 
 
