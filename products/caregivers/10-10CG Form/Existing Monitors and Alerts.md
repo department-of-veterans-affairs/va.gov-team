@@ -48,7 +48,7 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 - Errors being captured exceed 10% of total submissions over the last 1 day (24 hours).
 #### Action:
 - 10-10 Health Apps team will review the errors and va.gov monitors to determine if the root cause is on the form or sitewide
-- If the errors are found to origination from the form processes, this information will be communicated on the #vecms-carma_vadotgov_development_external channel
+- If the errors are found to origination from the form processes, this information will be communicated on the **#vecms-carma_vadotgov_development_external** Slack channel
 - If the errors originate outside the form, the team will work with other VA.gov teams to triage, if needed.
 ### Recovered: 1010CG controller error rate is above 10%
 #### Alert Reason
