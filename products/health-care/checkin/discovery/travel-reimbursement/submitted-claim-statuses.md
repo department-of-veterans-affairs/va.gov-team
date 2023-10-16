@@ -30,7 +30,9 @@ Information provided by: Daryl Richardson, BT Management <br/><br/>
 
 ## Vet-facing information in BTSSS
 
-[**What Does My Claim Status Mean?** from BTSSS help section](https://github.com/department-of-veterans-affairs/va.gov-team/files/12796525/KA-01021.BTSSS.pdf)<br/><br/>
+[**What Does My Claim Status Mean?** from BTSSS help section](https://github.com/department-of-veterans-affairs/va.gov-team/files/12796525/KA-01021.BTSSS.pdf)<br/>
+[**VA Form 10-0998 Your Rights to Appeal Our Decision Letter**](https://github.com/department-of-veterans-affairs/va.gov-team/files/12917778/VA.Form.10-0998.Your.Rights.to.Appeal.Our.Decision.2.pdf)<br/><br/>
+
 
 | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | ------------------- | ----------  | 
