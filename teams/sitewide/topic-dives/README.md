@@ -103,11 +103,11 @@ Please add any potential future topics you would like covered below:
 
 ### 1/27/2022 - Auto compiling theme assets
 - Tanner Heffner
-- [Auto compling theme assets video](TBD)
+- [Auto compling theme assets video](https://youtu.be/n8YtE7eWPzI)
 
 ### 1/20/2022 - Grafana/Datadog/Sentry
 - Neil Hastings
-- [Grafana/Datadog/Sentry video](TBD)
+- [Grafana/Datadog/Sentry video](https://youtu.be/Co_jieBKsZ0)
 
 ### 1/6/2022 - Preview button, content release and FE page links
 - Steve Wirt
@@ -124,23 +124,23 @@ Please add any potential future topics you would like covered below:
 
 ### 12/21/21 - VA Forms Content Flow
 - Steve Wirt
-- [VA Forms Content Flow video](TBD)
+- [VA Forms Content Flow video](https://youtu.be/CuPI8DB7aR0)
 
 ### 12/16/21 - Facility API Push Pull
 - Steve Wirt
-- [Facility API Push Pull video](TBD)
+- [Facility API Push Pull video](https://youtu.be/3PNbOqQXh9s)
 
 ### 12/14/21 - Flow of CMS release and deploy
 - Eric Oliver
-- [Flow of CMS release and deploy video](TBD)
+- [Flow of CMS release and deploy video](https://youtu.be/274NSfbva8o)
 
 ### 12/9/21 - CMS SiteAlerts (shields/notifications)
 - Steve Wirt
-- [CMS SiteAlerts video](TBD)
+- [CMS SiteAlerts video](https://youtu.be/XBIVcBAl6MY)
 
 ### 12/7/21 - User Perms Service
 - Ethan Teague
-- [User Perms Service video](TBD)
+- [User Perms Service video](https://youtu.be/CFQM2dSKAvI)
 
 ### 12/2/2021 - Centralized Content
 - Steve Wirt
@@ -148,5 +148,5 @@ Please add any potential future topics you would like covered below:
 
 ### 11/30/21 - Broken Links
 - Steve Wirt
-- [Broken Links video](TBD)
+- [Broken Links video](https://youtu.be/JmlCGlQxRtE)
   
