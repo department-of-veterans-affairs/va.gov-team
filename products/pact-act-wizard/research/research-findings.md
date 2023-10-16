@@ -178,8 +178,13 @@ POTENTIAL RECOMMENDATIONS:
 1. If applicable, consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
 1. If possible, consider revising the content to disambiguate the word "near" in the DMZ option.
 
-#### 1 participant wasn't sure what the "neutral zone" 
+#### 1 participant wasn't sure what "neutral zone" means
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
+
+One participant asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations and the FOB (Forward Operating Base) names on it for the places they . Without that, she answered "not sure" to the question.
+
+> *"I know I was in Iraq, but I don't know where in Iraq [they are referring to]...I know some of the FOBs where I was. I didn't know the cities I was close to...I really didn't pay attention to knowing exactly where I was, besides the fact that I was in Iraq...I know they said one time I was in the green zone" (p8).*
+
 
 
 
