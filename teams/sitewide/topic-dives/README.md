@@ -120,7 +120,7 @@ Please add any potential future topics you would like covered below:
 
 ### 10/5/22 - Sections: technical detail for managing
 - Steve Wirt
-- [Sections: technical detail for managing video](TBD)
+- [Sections: technical detail for managing video](https://youtu.be/dMZm0aeWOp0)
 
 ### 12/21/21 - VA Forms Content Flow
 - Steve Wirt
