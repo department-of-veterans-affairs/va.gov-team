@@ -1,5 +1,6 @@
 ```mermaid
 sequenceDiagram
+autonumber
   actor v as Veteran
   box VA.gov
     participant vweb as vets-website
