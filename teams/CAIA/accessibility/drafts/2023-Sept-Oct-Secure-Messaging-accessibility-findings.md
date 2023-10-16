@@ -25,14 +25,13 @@ To best serve the users of VA.gov, we will need to collect the following informa
 - **Operating System:** Mac or Windows
 - **Assistive Technology being used:** Jaws, NVDA, Zoomtext, Dragon, etc.
 - **Internet Browser:** Chrome, Firefox, etc.
-- **Note**: In the table below, the first row is an example for P54
-
+  
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
+| P1                   | 9/25/2023         | VoiceOver             | Advanced      | iOS            | Safari    | Mobile (iPhone 14 Pro)      |
+| P3                       | 9/25/23                 | VoiceOver                   | Intermediate                | MacOS                     | Safari            | Desktop            |
+| P6                       | 9/26/23                 |  JAWS                  | Intermediate                |  Windows                    |  Chrome           | Desktop            |
+| P9                       | 9/29/23                 |  VoiceOver                  |  Advanced               |   MacOS                   |  Safari           |  Desktop           |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
