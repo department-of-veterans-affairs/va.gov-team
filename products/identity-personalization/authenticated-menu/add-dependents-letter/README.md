@@ -89,8 +89,8 @@ Users have trouble finding dependent information and where to download their ben
 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Raw number of "**letters**” searches in the top 10 profile searches|189|121|63||||
-|Raw number of "**dependents**” searches in the top 10 profile searches|426|239|55||||
+|Raw number of "**letters**” searches in the top 10 profile searches|189|121|63 (-48% from 1-week pre-launch)||||
+|Raw number of "**dependents**” searches in the top 10 profile searches|426|239|55 (-77% from 1-week pre-launch)||||
 
 **KPI: See variations on "dependents" and "letters" entirely removed from the top 10 search terms on VA.gov as a whole.**
 
@@ -105,8 +105,8 @@ Users have trouble finding dependent information and where to download their ben
 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Raw number of "**letters**” searches in the top 10 VA.gov searches|3,549|2,665|1,653||||
-|Raw number of "**dependents**” searches in the top 10 VA.gov searches|1,929|1,762|957||||
+|Raw number of "**letters**” searches in the top 10 VA.gov searches|3,549|2,665|1,653 (-38% from 1-week pre-launch)||||
+|Raw number of "**dependents**” searches in the top 10 VA.gov searches|1,929|1,762|957 (-46% from 1-week pre-launch)||||
 
 **KPI: See no increase in bounce rates from the Dependents and Letters pages (increase in bounce rate = people found the page but not what they were looking for).**
 
