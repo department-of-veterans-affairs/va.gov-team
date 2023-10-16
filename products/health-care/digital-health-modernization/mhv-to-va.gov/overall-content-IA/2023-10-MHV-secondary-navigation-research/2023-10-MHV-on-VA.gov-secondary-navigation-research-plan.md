@@ -2,8 +2,7 @@
 
 ## Background
 
-As we move My HealtheVet (MHV) to VA.gov, we discover that there are problems with the current VA.gov secondary navigation system. It is not only inaccessible and unintuitive, but also doesn't support complex navigations within all the tools of the MHV. This study aims to give us more context to those problems by investigating the secondary navigational strategies users use when completing health management tasks on MHV on VA.gov and to improve the secondary navigation. 
-
+As we move My HealtheVet (MHV) to VA.gov, we discover that there are problems with the current VA.gov secondary navigation system. It is not only inaccessible and unintuitive but also doesn't support complex navigations within all the tools of the MHV on VA.gov. This study aims to give us more context to those problems from Veterans' perspectives and understand what aspects of primary and secondary navigations are confusing to Veterans by looking at how they use tools within MHV on VA.gov when completing health management tasks. 
 
 ### OCTO Objectives
 This research supports the following OCTO objectives: 
@@ -21,24 +20,21 @@ This research fits into these points of a Veteran's Journey:
 
 ## Research Goals 	
 
-The goal of this study is to help us understand users' reactions and behaviors regarding how they use secondary navigational strategies to complete key health tasks on MHV on VA.gov and whether users can effectively complete them, and to decide on an alternative that is accessible and intuitive. 
+The goal of this study is to help us understand how Veterans use two different types of secondary navigations to complete key health tasks on MHV on VA.gov and what they struggle with each. One is an [existing secondary navigation](https://www.va.gov/health-care/covid-19-vaccine/about-covid-19-vaccine/), and the second one is a new design that shows all the health tools and has a different MHV header. 
 
 ### Outcome
 
-This research will inform us of users' pain points when using the current secondary navigational strategies, which give us ideas on how to improve the side navigation and iterate on the new design. 
+This research will inform us of users' pain points when using the current and the new secondary navigation, which give us ideas on how to improve and iterate on the new design so the secondary navigation can be ready when all the tools are available on MHV on VA.gov in Phase 2. 
 
 ### Research questions
 
-1. What are users' reactions to the variations in navigational strategies (side navigation, breadcrumbs, and direct links) across the different products (appointments, secure messages, medications, and medical records) on MHV on VA.gov? 
-2. Do users use different navigational strategies with different products? Why, or why now? 
-3. What, if any, specific aspects of the secondary navigation cause confusion or unintended behaviors amongst participants? 
-4. How do participants react to and use the navigational strategies (e.g. use of AT), if at all? 
-5. What alternatives might prove more accessible and intuitive for users with complex barriers? 
+1. How do participants navigate - within one tool vs. among multiple tools? 
+2. What are participants confused about with primary and secondary navigation, if they are? 
 
 ### Hypotheses 
 - Users want to be able to navigate every part of MHV on VA.gov easily regardless of where they are.
-- Mobile users struggle with current secondary navigation because "in this section" is not noticeable and it expands to a long list that is hard to scroll. 
-  
+- Mobile users struggle with current secondary navigation because "in this section" is not noticeable and it expands to a long list that is hard to scroll.
+- Mobile users don't know the differences between primary and secondary navigation.   
 
 ## Method
 
