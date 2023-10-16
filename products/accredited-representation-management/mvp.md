@@ -27,7 +27,6 @@ The MVP will include desktop & mobile experiences
             1. Attorney (Lawyer)
             1. Claims agent
 1. Display search results
-    1. Map display
     1. List display 
     1. If authenticated and if veteran has an existing rep, display existing rep
 1. Selection
