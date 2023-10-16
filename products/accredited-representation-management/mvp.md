@@ -33,7 +33,7 @@ The MVP will include desktop & mobile experiences
 1. Selection
     1. Search results will have a button to 'Select' the representative
   
-#### Request a Representative
+#### Appoint a Representative
 1. Form 21-22/21-22a
     1. Pre-fill the form for PDF download
         1. Authenticated: both rep and personal information
