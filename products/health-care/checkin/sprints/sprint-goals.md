@@ -34,8 +34,9 @@ ________________________________________________________________________________
             - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Create wireframe for pre-check-in too late that includes "we'll send you a text" (existing message)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67171)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] create dismissable alert for pre-check-in what to do next](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67418)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add api calls for new pre-check-in logic flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67417)
-            - What BE tickets do we need?
-            - What are we prepared to do next? 
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [JWT token endpoint access (after token registered)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67717)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Create service request for on-behalf-of token request using our JWT key](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67716)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Contact Mike Ferraro and register key and functionality for MAP service (RSA key required first)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67715)
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png)![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE]SPIKE: How can we Measure & Report How Long it Takes to Complete Check-in (w/ and w/o travel)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67177)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
