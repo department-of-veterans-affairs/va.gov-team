@@ -1,6 +1,6 @@
 # Project outline: Add links to dependents and letters tools to the authenticated menu
 
-**Last Updated: October 11, 2023 -- partial update to week 1 launch stats**
+**Last Updated: October 16, 2023 -- update to week 1 launch stats**
 
 ### Communications
 
