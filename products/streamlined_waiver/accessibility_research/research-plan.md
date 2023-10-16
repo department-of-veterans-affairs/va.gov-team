@@ -334,30 +334,30 @@ Please list the people who will be serving in each role. Include the primary pho
 
   
 
--   [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
+-   charlotte@cityfriends.tech
     
--   [Megan Gayle](mailto:denise.coveyduc@va.gov)
+-   megan.gayle@govcio.com
     
--   [Joseph Lee](mailto:joseph@cityfriends.tech)
+-   joseph@cityfriends.tech
     
--   [Denise Coveyduc](mailto:denise.coveyduc@va.gov)
+-   denise.coveyduc@va.gov
     
--   [Tom Davis](mailto:thomas.davis@govcio.com)
+-   thomas.davis@govcio.com
     
--   [Heather Rienk](mailto:heather.rienks@agile6.com)
+-   heather.rienks@agile6.com
     
--   [Andrew Rodiek](mailto:andrew.rodiek@govcio.com)
+-   andrew.rodiek@govcio.com
     
--   [Brandyn Sullins](mailto:brandyn.sullins@govcio.com)
+-   brandyn.sullins@govcio.com
     
--   [Aaron Ponce](mailto:aaron.ponce@agile6.com)
+-   aaron.ponce@agile6.com
     
--   [Kevin Suarez](mailto:kevin.suarez@agile6.com)
+-   kevin.suarez@agile6.com
     
--   [Scott James](mailto:scott.james@govcio.com)
+-   scott.james@govcio.com
 
--   [Sarah Koomson](Sarah.Koomson@oddball.io)
+-   sarah.koomson@oddball.io
 
--   [Sara Smith](Sara.Smith@oddball.io)
+-   sara.smith@oddball.io
 
--   [Angela Fowler](angela.fowler@adhocteam.us)
+-   angela.fowler@adhocteam.us
