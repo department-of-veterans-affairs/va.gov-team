@@ -143,7 +143,7 @@ Please add any potential future topics you would like covered below:
 
 ### 12/2/2021 - Centralized Content
 - Steve Wirt
-- [Centralized Content video](https://www.youtube.com/watch?v=uLUXpbc1DhM)
+- [Centralized Content video(https://www.youtube.com/watch?v=uLUXpbc1DhM)
 
 ### 11/30/21 - Broken Links
 - Steve Wirt
