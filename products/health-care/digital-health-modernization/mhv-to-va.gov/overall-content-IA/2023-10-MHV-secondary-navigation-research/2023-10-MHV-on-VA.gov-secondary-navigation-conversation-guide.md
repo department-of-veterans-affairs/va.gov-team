@@ -59,7 +59,7 @@ Let’s start with a few questions...
 
 1. What benefits other than healthcare, if any, do you receive from the VA? 
 
-2. 
+2. Do you normally use your phone or desktop to do things on VA.gov?
 
 **Screen sharing instructions**
 
@@ -76,7 +76,7 @@ _Instructions for folks NOT using screenreaders:_
 Thanks for your patience in figuring that out. 
 
 - *Backup plan if they cannot figure out how to share screen:*
-  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
+  - Okay, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 
 ## Interview - 50 minutes 
 
@@ -86,19 +86,18 @@ Just as a reminder, this is a prototype, which means that it will behave differe
 
 _Send link to prototype:
 
-**_Task 1 - _**  It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+**_Task 1 - (Start from MHV landing page and already signed in) You are going on a long overseas trip soon. You need to download your medical records and your recent lab results that prove you have hepatitis A.**  It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
 - (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
 - What do you think should happen if you (_do something_)?
-- (_If participant gets stuck because they navigate to a spot where they will be unable to find the AVS_) It looks like you're not finding the information around what was decided for the next steps in your care. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
+- (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the information around what was decided for the next steps in your care. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
 - (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_signing in/ clicking on My HealtheVet tab_)?
-- (_Once participant is on My HealtheVet landing page_) Where would you find information about the next steps in your care from here?
-- (_If participant still cannot find AVS, direct them to either Appts or MR and continue with interview._) 
+- (_If participant still cannot find AVS, direct them to either MR and continue with the interview._) 
 
 
-**_Task 2 - _** 
+**_Task 2 - (from where they last off) ** 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
