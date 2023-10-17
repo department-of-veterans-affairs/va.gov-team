@@ -8,12 +8,13 @@
 
 ## Problem Statement
 Funeral Homes, Veterans, family members, and personal representatives lack a way to initiate a request for burial of a deceased person through VA.gov to get their case started with the National Cemetery Scheduling Office (NCSO). Currently they need to call the NCSO in order to receive this benefit.  As a result it can extend Funeral Home processing times as well as make the process lengthier and more difficult for Veterans, family members, and personal representatives in their time of grief. 
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
  
 ## Desired User Outcomes
 
 - *Why would a user want to use this?*
+ - Funeral Homes can submit requests more effectively and efficiently; in turn providing better service to their clients in a difficult time.
+ - Veterans, family members, and personal representatives, in their time of grief,  can have an easy, stress-free, and user-friendly to request a burial in their time of need by applying on VA.gov, thereby ensuring that they can bury their loved ones and receive their benefits in a timely manner.
+
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 ## Undesired User Outcomes
