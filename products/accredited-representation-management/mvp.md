@@ -6,30 +6,35 @@ The MVP will include desktop & mobile experiences
 
 ## MVP: Appoint a Representative
 
+#### Intro Page
+1. Set expectations for the steps below
+2. Provide an option for users to download a blank 21-22/21-22a and complete offline
+
 #### Find a Representative
 1. Search
     1. If authenticated and if veteran has an existing rep, display existing rep and how to change the rep
-    1. Required fields
+    2. Required fields
         1. Location 
             1. Single consolidated field that accepts address 1, city, state, zip code
-            1. 'use my location' feature to populate this location field
-            1. Default to a radius (e.g. 50 miles)
-        1. Select type of rep
+            2. 'use my location' feature to populate this location field
+            3. Default to a radius (e.g. 50 miles)
+        2. Select type of rep
             1. Veteran Service Organization (VSO)
-            1. Attorney (Lawyer)
-            1. Claims agent
-        1. Search by name
+            2. Attorney (Lawyer)
+            3. Claims agent
+        3. Search by name
             1. Organization name 
             2. Representative first name
             3. Representative last name
-        1. Rep definitions
+        4. Rep definitions
             1. Veteran Service Organization (VSO)
-            1. Attorney (Lawyer)
-            1. Claims agent
-1. Display search results
-    1. List display 
+            2. Attorney (Lawyer)
+            3. Claims agent
+2. Display search results
     1. If authenticated and if veteran has an existing rep, display existing rep
-1. Selection
+    2. List display
+    3. Option to sort results by different parameters
+3. Selection
     1. Search results will have a button to 'Select' the representative
   
 #### Appoint a Representative
@@ -60,8 +65,12 @@ Digital form fill of 21-22/21-22a
 
 #### Representative Status Widget
 
-1. If the user is logged in and has an existing representative, surface the status and the representative information
-2. Update profile to display selected representative (pending request with link to next steps)
+1. Widget States
+   1. User is logged in and has an existing representative (surface the status and the representative information)
+   2. User is logged in and does not have an existing representative (include information on how to find a representative)
+   3. User is not logged in (include copy on how signing in can assist with the appointing a representative process)
+   4. Error state / system is down (show a message that the system is unavailable and to try again later)  
+2. Include widget in the profile to display selected representative (pending request with link to next steps)
 
 ## Post-MVP
 
