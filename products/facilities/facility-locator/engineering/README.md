@@ -1,19 +1,24 @@
-# README
+# Facility Locator Engineering README 
 
-## Index of links to key resources
+## Key resources
 
-### [Facility Locator engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering)
+**Basic architecture**
+- [Facility Locator technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/technical-documentation.md)
+- [Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/technical-documentation.md#incident-response)
+- [Backend Documentation (below)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/engineering/README.md#backend-documentation---nov-2019)
+- [API data (below)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/engineering/README.md#api-data)
+- [PPMS troubleshooting (below)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/engineering/README.md#ppms-troubleshooting)
 
-- [Facility Locator issue response and technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
-- [PPMS troubleshooting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PPMS%20Troubleshooting.md)
-- [Creating vcr tapes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PPMS%20Troubleshooting.md)
+**Feature functionality**
+- [Predictive Geolocation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PredictiveGeolocation.md)
+
+**Integrations**
 - [Integration with Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/facility-locator-integration-with-lighthouse.md)
-- [Using feature flags](https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-feature-toggles-to-progressively-release-changes.590938137.html)
-- [PPMS forum](https://dvagov.sharepoint.com/sites/OITDSOSPMPPMSDWS)
 
 
-### [Platform Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
-- Platform documentation about infrastructure, integrations, testing, monitoring, and releasing as well as engineering processes, best practices, and standards.
+### Platform Developer docs
+- [Platform Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/) - Platform documentation about infrastructure, integrations, testing, monitoring, and releasing as well as engineering processes, best practices, and standards.
+- [Vets-website feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide)
 
 
 

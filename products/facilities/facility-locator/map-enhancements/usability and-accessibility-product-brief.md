@@ -108,7 +108,7 @@ _How will the solution / approach evolve after this initial build (knowing that 
 ### Current Status
 
 ### Incident Response
-[Link to technical documentation and incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
+[Link to technical documentation and incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/technical-documentation.md#incident-response)
 
 ### Key Decisions
 
