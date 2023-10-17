@@ -128,7 +128,8 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_if participant click on something on main menu_) Where are you now, and can you get back to where you were? 
 
 
-- **I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
+
+**I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
 - _If the participant says yes:_ Is there any part of our discussion that you would NOT want to be shared in a video clip? 
 
 ## Thank You and Closing - 1 minute
