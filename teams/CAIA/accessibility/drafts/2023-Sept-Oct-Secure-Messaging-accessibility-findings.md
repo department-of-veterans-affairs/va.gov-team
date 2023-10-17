@@ -16,8 +16,9 @@
 ## Coverage
 This research fufilled 66% (4/6) of its original request. Given the **limited** amount and **lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
 
-**Original study request: 10 scheduled with the expectation of 6 completing the study**
-**Actual study performance: 4 completed**
+**Original study request:** 10 scheduled with the expectation of 6 completing the study
+
+**Actual study performance:** 4 completed
 
 > For screen reader users, we will schedule a total of 10 Veterans for an expected completion rate of 6 usability sessions.
 
