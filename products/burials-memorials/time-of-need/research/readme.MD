@@ -70,10 +70,11 @@ Funeral Homes, Veterans, family members, and personal representatives lack a way
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+  - TBD (Work with MBMS to get some baseline data for current performance with cases called in for relational comparison. Note this will not be a one to one since the MBMS side experience will involve an NCSO agent and the Self-Service side for ToN on VA.gov will not.)
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
-
+  - TBD (Work with MBMS to gather some base metrics AND review current avg form metrics for VA.gov)
 - Objective:
   - Key result: 
   - Key result: 
@@ -82,14 +83,27 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- To ensure user greater user adoption of the new ToN SS (Time of Need Self Servicer form) funeral homes will need to be able to populate their information in the form without manual entry if pre-existing in the system. 
+- The NCSO office needs to set a new business model in place to be able to intake these requests and finalize the cases before they are sent to the cemeteries.  Initial GoLive of this product will likely be limited to a percentage and slowly increase with time to ensure Scheduling agents are comfortable with the new process.
+
 
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
+  - ToN SS form capabilities for a Veteran, family member, personal representative, or funeral home to request interment/services at a National Cemetery when an individual has passed away.
+  - Ability to select a general day or date and time range for the requested service. 
+  - Ability for funeral home information to populate in the form without manual entry if pre-existing in the system.
+  - Ability for funeral homes to specify specific interment details around measurements for casket and urn options.
 - *Why this solution / approach over other solutions / approaches?*
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
+  - The below items involve integration with a highly complex scheduling system and will take an immense amount of time and testing to ensure proper functionality.  Additionally we can get value to the Veterans, their family members, and Funeral Homes sooner if we hold on the below until a later iteration.
+      - Ability to select a specific date and time for a cemetery to reserve the time slot for services.
+      - Verifying types of services offered by the chosen cemetery compared to what the user has chosen.
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+  - How the funeral home functionality is implemented and if a separate application may need to be built out for them, along with the form.  Also determining if that separate application on va.gov would be a future initiative or part of the MVP.
+  - Email notification specifications for case status and progress.
+  - Terminology and flow may update based on feedback to ensure the most intuitive design for our users that is also consistent with platform standards.
+
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
