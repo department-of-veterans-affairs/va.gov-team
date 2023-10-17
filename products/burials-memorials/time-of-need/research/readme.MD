@@ -109,15 +109,18 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
 - Initiative | [Link to Initiative Brief](#)
+ - TBD
 
 --- 
 
 ## Launch Strategy
+ - TBD (Need to cycle with NCA/BTRS on this)
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch Dates
+ - TBD
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
@@ -130,14 +133,21 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Narrative
 
 ### Current Status
+- Early Discovery and buildout of baseline mockups and prototypes.
+  - Gap analysis refinement
 
 ### Key Decisions
+- Refine the scope of MVP for Phase 1 of the ToN SS effort.
+- Expand on what the timeline may look like and when we want to increase visibility of the form to a larger percentage of the public.
+- Determine what the strategy will be to make the public aware of this new capability and its benefits.
+
 
 ---
    
 ## Screenshots
 
 ### Before
+ - Existing Paper form, not currently available to the general public dipicted below.
 
 ### After
 
