@@ -12,6 +12,9 @@ This is when business lines ([review list of stakeholders](https://github.com/de
 
 This list is alphabetized by category name. There is also a screenshot of the spreadsheet we used to collect this information in the [appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#appendix).
 
+- `NEED` - Business lines need this information to answer an inquiry. It is a required field.
+- `**DON'T NEED**` - Business lines don't need this information to answer an inquiry. It is hidden from the form, but the field still exists in the back-end. 
+- "Optional" - When given a choice between `NEED` and `**DON'T NEED**`, business lines entered "Optional." This indicates they don't need the information, but it might be nice to have. Because we want to limit the amount of unnecessary data we collect from submitters, we've counted "Optional" answers as `**DON'T NEED**`
 
 |Category|First/last name|Branch of service|Service number|SSN|DoD/EDIPI|Service start date|Service end date|DOB|Claim number|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
