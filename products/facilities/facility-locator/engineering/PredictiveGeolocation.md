@@ -10,16 +10,21 @@ LAST UPDATED: March 2022
 ## Current Solution
 As of March 2022: 
 
+![alt_text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/Find_VA_Locations___Veterans_Affairs.png)
+
+
 The Facility Locator page currently operates as follows:
 
 *   A single text field in which the user is prompted to “Search by city, state or postal Code”
 *   When the page is loaded, we try to find the user's location using the [browser’s native geolocation support](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/geolocation). On the first visit to VA.gov, the browser prompts the user to grant permission to our application, like so:
+![alt_text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/native_geolocation_prompt.png)
     *   This location is used as a fallback if no MapBox-geocoded locations are found.
 *   There is no auto-completion of the user input. Input is not evaluated at all until the form is submitted.
 *   The function that performs the geocoding is [genBBoxFromAddress](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/facility-locator/actions/index.js#L208). It calls the MapBox Javascript API’s [forwardGeocode](https://docs.mapbox.com/api/search/#forward-geocoding) function, which “allows you to look up a single location by name and returns its geographic coordinates” - a bounding box array in the form [minX,minY,maxX,maxY]. These coordinates are passed to the search API and used to filter the matching facilities that fit inside the coordinates.
 *   We are using the @mapbox/mapbox-sdk npm package, v. 0.10.0, which supports predictive/interactive geolocation. This was released 3 months ago. It appears we are keeping this up to date via [dependabot](https://dependabot.com/). We should be vigilant about automated updates to this package, but it seems very unlikely that MapBox will introduce breaking changes to this core functionality.
 *   There is currently no opportunity for the user to interact with the geocoding results from MapBox and make a selection. The location string is sent to MapBox "behind the scenes", and we just take the first match. 
 
+![alt_text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/mapbox_autocomplete.png)
 
 
 MapBox returns a maximum of 10 locations. This limit can be adjusted lower if needed.
@@ -60,7 +65,7 @@ Google Maps API is a widely used competitor of MapBox, but has been deemed too e
 
 ## Proposed Predictive Location Search Implementation
 
-![alt_text](images/predictive_geo_activity_diagram.png)
+![alt_text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/predictive_geo_activity_diagram.png)
 
 ## Test Scenarios
 

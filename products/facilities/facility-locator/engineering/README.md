@@ -10,7 +10,6 @@
 - [PPMS troubleshooting (below)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/engineering/README.md#ppms-troubleshooting)
 
 **Feature functionality**
-- [Predictive Geolocation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PredictiveGeolocation.md)
 
 **Integrations**
 - [Integration with Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/facility-locator-integration-with-lighthouse.md)
@@ -127,6 +126,12 @@ Last update: March 2022
 
 XML service in http://www.[location].va.gov/services - example http://www.miami.va.gov/services
 
+
+## Mapbox implementation 
+
+
+### Previous initiatives
+- [March 2022: Mapbox Predictive Search Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PredictiveGeolocation.md)
 
 ## PPMS troubleshooting
 
