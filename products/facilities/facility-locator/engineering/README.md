@@ -131,7 +131,7 @@ XML service in http://www.[location].va.gov/services - example http://www.miami.
 
 
 ### Previous initiatives
-- [March 2022: Mapbox Predictive Search Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PredictiveGeolocation.md)
+- [March 2022: Mapbox Predictive Search Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/discovery/predictive-geolocation-discovery.md)
 
 ## PPMS troubleshooting
 
