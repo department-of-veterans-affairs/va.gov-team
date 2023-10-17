@@ -157,11 +157,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: BAH-MBS-SelfServ
+- GitHub Label: TBD
+- Slack channel: va-gov-mbs
+- Product POCs: Kenny Santiago, Cat Hughes, Michelle Dieudonne Yenyo, Cindy Cruz-Granados
 
 </details>
 
@@ -169,10 +168,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Matt Self
+ - PM: Hughes, Catherine (Cat) M. (BAH) Catherine.Hughes2@va.gov
+ - Engineering: Santiago, Kenneth (Booz Allen Hamilton) Kenneth.Santiago@va.gov
+ - Research/Design: Cruz Granados, Cindy A. (Booz Allen Hamilton) Cindy.CruzGranados@va.gov
  
 </details>
 
@@ -182,5 +181,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
  
 _What offices/departments are critical to make this initiative successful?_
- 
+- Office/Department:
+ - OIT and NCA/BTRS and NCSO
+- Contact(s):
+ - OIT
+  - Kadiresan, Sathish K. Sathish.Kadiresan@va.gov
+ - NCA/BTRS
+  - Wilson, Ginger Ginger.Wilson@va.gov
+  - Jones, Rhonda M. Rhonda.Jones1@va.gov
+ - NCA/NCSO
+  - Dalrymple, Jay Jay.Dalrymple@va.gov
+  - Ridgeway, Kevin Kevin.Ridgeway@va.gov
+
 </details>
