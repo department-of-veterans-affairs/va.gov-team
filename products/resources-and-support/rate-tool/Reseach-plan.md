@@ -67,7 +67,7 @@ Zoom
 
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/rate-tool/readme.md)
-- [Link to prototype](https://www.sketch.com/s/a513ba38-1d26-41d0-9009-92ea729446e2)
+- [Link to prototype](https://www.figma.com/file/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=0%3A1&mode=design&t=Vy1omWZinzzn4niv-1)
 
 	
 ## Recruitment	
@@ -100,14 +100,14 @@ Schedule 10 Veterans for a minimum of 8 successfully completed sessions.
 - 5 participants who live in a rural area
 
 ## Timeline
-Completion of 8 successful research sessions between October 16 - October 23.
+Completion of 8 successful research sessions between November 6 - November 13.
 
 Prepare
-•	Perigean will organize the pilot for October 12.
+•	Perigean will organize the pilot for October 30.
 
 ## Research Sessions
 
-•	Planned dates of research: October 16 - October 23
+•	Planned dates of research: November 6 - November 13
 •	We would like to request that Perigean calls each participant to remind them about the session, in addition to emailing them. And please include the session time in each participant's own time zone (from a screener question).
 
 ## Length of Sessions
@@ -128,17 +128,17 @@ o       3  Sessions per day
 
 ## Availability
 
-•	10/16: 12pm - 5pm ET
+•	11/06: 12pm - 5pm ET
 
-•	10/17: 12pm - 5pm ET
+•	11/07: 12pm - 5pm ET
 
-•	10/18: 12pm - 5pm ET
+•	11/08: 12pm - 5pm ET
 
-•	10/19: 12pm - 5pm ET
+•	11/09: 12pm - 5pm ET
 
-•	10/20: 12pm - 5pm ET
+•	11/10: 12pm - 5pm ET
 
-•	10/23: 12pm - 5pm ET
+•	11/13: 12pm - 5pm ET
 
 
 ## Team Roles	
