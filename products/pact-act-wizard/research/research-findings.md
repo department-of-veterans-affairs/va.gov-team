@@ -219,19 +219,24 @@ Another participant heard that they **could be eligible for PACT Act benefits by
      1. Burn pit registry is not connected to PACT Act eligibility, and so you should apply for PACT Act benefits.
 1. Consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits.
 
-### 4. Participants shared feedback and questions about how to apply for PACT Act benefits participants 
-The following is feedback on the PACT Act application process that we received from individual participants. 
+### 4. Participants shared feedback and questions about how and when to apply for PACT Act benefits  
+The following is feedback that we received from individual participants about applying for PACT Act benefits. 
 
 One participant said that there **shouldn't be a deadline to apply**, which he heard about in a radio ad (Sept 30). He didn't understand that this deadline was for a special enrollment period for certain combat Veterans.
 
 > *"I can understand that it's about trying to get people to apply, but you should be able to apply anytime" (p9).*
 
-A participant who's had a 100% disability rating for almost 10 years said that a regional office advised her to **wait to apply until it's been 10 years so VA can't change disability rating** because after 10 years, your rating is permanent and VA can't decrease the rating.
+A participant said that they would encourage others to apply even if your condition isn't on the list because it might be added in the future. 
+
+A participant who's had a 100% disability rating for almost 10 years said that a Regional Office advised her to **wait to apply until it's been 10 years so VA can't change disability rating** because after 10 years, your rating is permanent and VA can't decrease the rating.
 
 Another participant is **waiting to apply until they hear about how to manage that with Combat-Related Special Compensation** (CRSC) because they don't want to file one claim and then have to submit another. He said that he realizes the impact of not applying right away, but that doesn't impact him a lot.
 
 > *"I'm just waiting. I'm not in a hurry...I've just got everything ready. I'm just waiting for for them to get guidance from Congress" (p2).*
 
+One participant would have tried to convince his dad to apply for benefits under the PACT Act, but he died 3 years ago.
+
+< *"If Dad were still alive today, I would have tried to convince him to have gone through this...We all know that when those guys came back [from Vietnam], they were treated like dirt...and he didn't want anything to do with the military...The VA today and the way the PACT Act is worded, I think if he was alive today, he would have been convinced after a lot of talking to apply...Thank goodness that today we are recognizing what those guys went through" (p4).*
 
 #### RECOMMENDATIONS:
 1. Danielle will share feedback about the Sept 30 deadline to OPIA for their continued outreach work.
@@ -352,7 +357,7 @@ We talked to **9 participants.**
 
 Audience segment:
 * Veterans: 9 
-* Family members of a Veteran: 1 (also a Veteran)  
+* Family members of a Veteran: 2 (also a Veteran)  
 
 Applied for VA benefits under the PACT Act?
 * No: 8
