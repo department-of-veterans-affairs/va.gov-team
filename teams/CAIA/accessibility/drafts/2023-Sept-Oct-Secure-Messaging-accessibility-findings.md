@@ -13,11 +13,11 @@
 `iOS VoiceOver` `MacOS VoiceOver` `JAWS`
 
 ## Coverage
-This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
+This research fufilled 66% (4/6) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
 
-**Original study request: ##**
+**Original study request: 10 scheduled, 6 completed**
 
-> xx participants should use a screenreader on a desktop or mobile device
+> For screen reader users, we will schedule a total of 10 Veterans for an expected completion rate of 6 usability sessions.
 
 ## Participants
 To best serve the users of VA.gov, we will need to collect the following information during each a11y research session:
