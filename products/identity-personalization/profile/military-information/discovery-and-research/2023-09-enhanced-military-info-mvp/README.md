@@ -7,7 +7,7 @@ The VA.gov profile team has been asked to enhance the military history section o
 
 ## Relevant artifacts
 - [Stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/stakeholder-interviews/stakeholder-interview-research-plan.md)
-- [Brief review of relevent sections of 526EZ](hhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/526EZ-review.md)
+- [Brief review of relevent sections of 526EZ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp/526EZ-review.md)
   - [Mural board with questions about the screenshots in this review](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697125319596/c13810c02c96a58a4b6b72288c6b9a8d617f711a?sender=ub868d471cfdb1c56cc0b4512)
 - [526EZ claim flow Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792?invited=true&sender=ub868d471cfdb1c56cc0b4512)
   
