@@ -196,7 +196,7 @@ RECOMMENDATIONS:
 Below is a list of reasons why some participants said that they were NOT eligible for benefits under the PACT Act:
 1. 100% disabled already 
 
-1. Wasn't in one of the locations at the right time (i.e., never saw combat in Vietnam, or arrived in Korea after they stopped using Agent Orange)--2 participants
+1. Wasn't in one of the locations at the right time (i.e., wasn't in Vietnam, arrived in Korea after Agent Orange was being used)--2 participants
 
 > *"I know I'm not eligible so I don't want to waste anybody's time, including my own" (p10).*
 
