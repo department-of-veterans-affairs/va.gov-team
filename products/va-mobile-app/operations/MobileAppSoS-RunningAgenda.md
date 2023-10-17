@@ -24,6 +24,9 @@
   * Current Sprint
     * Sprint 82  (1 of 7 Q4 Sprints) 
    
+* **Project Status Updates**
+  * Review yellow projects 
+  * Any PO questions on existing projects?  
  
 * **Standing question for the POs (Adam)**
   * Any new work we should be on the lookout for?
