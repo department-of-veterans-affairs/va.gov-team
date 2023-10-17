@@ -1,0 +1,36 @@
+# Cerner Deployment to Federal Enclave
+In August 2023, along with Cerner's Block 9 release, Clinical Decision Support Collaborative (CDSC) deployed two applications: 
+- [Covid-19 Patient Manager (CPM)](https://github.com/department-of-veterans-affairs/covid-patient-manager/wiki)
+- [Lung Cancer Screening v2 (LCSv2)](https://github.com/department-of-veterans-affairs/lung-cancer-screen-and-track/wiki)
+
+## Block Release Approval Teams
+
+### T&E (Test & Evaluation) Team 
+- provide testing use cases
+- performed testing with them in a recorded meeting
+- Main contact(s): Robin Davis
+### OFC (Office of Functional Champions) - communications and ppts
+- Documentation imbedded into the Block 9 Release Communication slide deck (link)
+- Meetings to answer ad hoc questions regarding applications, functionality, integration points, etc.
+- Main contact(s): Siobhan
+### Training Team
+- Provide training materials, user guides, etc.
+- Meeting with the training team to review
+- Update for accessibility and additional redaction
+- The training team attaches to the Change Request in Jazz as required documentation
+- Main contact(s): 
+### Cutover Planning
+- Complete cutover document
+- Complete support tracker document
+- Set up bridge lines
+- Participate in meetings: cutover readthroughs, release management review
+- Main contact(s): Larry Thorne, Ben Wall
+### Federal Change Control Board (FCCB) - this is the joint DoD / VA change management
+- Meet with Cerner to discuss change control process
+- Complete change control request form
+- Meetings: Vendor Change Management meeting and FCCB meeting for approvals
+- Provide whatever they ask in between submission and approval
+- Main contact(s): ?
+
+
+last updated: 10/17/2023
