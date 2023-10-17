@@ -1,10 +1,7 @@
 # Mapbox Geocoding Research
+LAST UPDATED: March 2022
 
-Michael Pelz-Sherman
-
-Sr. Front-end Engineer
-
-GovernmentCIO
+Michael Pelz-Sherman, Sr. Front-end Engineer, GovernmentCIO
 
 
 ## [Issue 9410: [Discovery] "Did you mean" search parameters](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9410)
