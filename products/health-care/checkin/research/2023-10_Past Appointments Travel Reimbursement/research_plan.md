@@ -39,15 +39,15 @@ Research Questions
 2. From a full auth experience via an email notification, how easy or difficult is it for Veterans to navigate to the travel reimbursement screens?
   - LIKELY TRUE - Veterans will think it’s very easy to navigate through the userflow from the email.
 3. How helpful are task cards in helping Veterans locate the travel reimbursement task they are expecting to file?
-  - MAYBE TRUE - Veterans will 
-4. How easy or difficult is it to understand the status (and associated next steps) of a travel reimbursement claim (whether filed or not) on the details pages and appointment list pages?
-  - LIKELY TRUE - Veterans will 
-5. How easy or difficult is it to understand the status (and associated next steps) of a travel reimbursement claim (whether filed or not) on the confirmation pages and appointment list pages?
-  - LIKELY TRUE - Veterans will 
+  - MAYBE TRUE - Veterans will notice the task card but may have questions around which appointment the card is referring to.
+4. How easy or difficult is it to understand the status (and associated next steps) of a travel reimbursement claim (whether filed or not) on the details pages?
+  - LIKELY TRUE - Veterans will easily understand the travel reimburesment claims.
+5. How easy or difficult is it to understand the status (and associated next steps) of a travel reimbursement claim (whether filed or not) on the confirmation pages?
+  - LIKELY TRUE - Veterans will understand that they have either successfully submitted their claim, or that their claim has failed to submit.
 6. Do Veterans understand that only one travel claim can be filed at a time for multiple appointments in one day at the same facility, but that multiple statuses could update simultaneously? 
-  - LIKELY FALSE - Veterans will 
+  - LIKELY FALSE - Veterans will not realize that they can only file one claim at a time due to multiple CTAs being present.
 7. What would Veterans change or add, if anything, to improve filing a travel reimbursement claim for a past appointment? E.g., edit the address, upload receipts, etc.
-  - MAYBE TRUE - Veterans will 
+  - MAYBE TRUE - Veterans will have suggestions for improvements, such as editing their address or uploading receipts for other types of claims. 
 
 ### Secondary questions (already partially addressed in earlier research):
 1. How easy or difficult is it for Veterans to find notifications on MyVA (or MHV) and how helpful are these notifications in getting Veterans into the travel reimbursement flow? 
