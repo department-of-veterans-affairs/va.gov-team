@@ -247,7 +247,7 @@ Note: this document does not include research history for Appeals projects, whic
 *VSA Facilities, Lead Researchers: Christian Valla + Laurel Lawrence(Ad Hoc)*
 
 - Number of participants: TBD
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/mobile-experience)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/initiatives/mobile-experience)
 - Mobile, facility, locations
 
 #### Feb 9 - 12:  Comparison Tool Redesign Research
