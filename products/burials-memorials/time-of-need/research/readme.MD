@@ -184,10 +184,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
    - OIT and NCA/BTRS and NCSO
  - Contact(s): 
    - OIT
-    - Kadiresan, Sathish K. Sathish.Kadiresan@va.gov
+     - Kadiresan, Sathish K. Sathish.Kadiresan@va.gov
    - NCA/BTRS
-    - Wilson, Ginger Ginger.Wilson@va.gov
-    - Jones, Rhonda M. Rhonda.Jones1@va.gov
+     - Wilson, Ginger Ginger.Wilson@va.gov
+     - Jones, Rhonda M. Rhonda.Jones1@va.gov
    - NCA/NCSO
      - Dalrymple, Jay Jay.Dalrymple@va.gov
      - Ridgeway, Kevin Kevin.Ridgeway@va.gov
