@@ -1,5 +1,5 @@
 # Cerner Deployment to Federal Enclave
-In August 2023, along with Cerner's Block 9 release, Clinical Decision Support Collaborative (CDSC) deployed two applications: 
+In August 2023, along with Cerner's Block 9 release, Clinical Decision Support Collaborative (CDSC) deployed two applications to P0630: 
 - [Covid-19 Patient Manager (CPM)](https://github.com/department-of-veterans-affairs/covid-patient-manager/wiki)
 - [Lung Cancer Screening v2 (LCSv2)](https://github.com/department-of-veterans-affairs/lung-cancer-screen-and-track/wiki)
 
