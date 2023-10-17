@@ -64,27 +64,8 @@ Excellent. Thanks so much for your answers.
 
 Imagine you are having trouble logging in to VA.gov, so you searched the website on how to log in and you landed on resource and support. Before you leave the resources and support page, you want to ensure that you leave feedback to rate your experience pn the site today.Today we’ll look at a concept for rating your experience when searching for resources and support on VA.gov.
 
-Prototype [https://www.sketch.com/s/a513ba38-1d26-41d0-9009-92ea729446e2/prototype/F0A919B0-31D5-4C37-B916-99E8F7B10D87/a/F0A919B0-31D5-4C37-B916-99E8F7B10D87
-]
+Prototype [https://www.figma.com/file/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=23%3A2842&mode=design&t=4CJrjiVbW90jWh1M-1]
  
-## What → Va.gov+ Resources and Support -
-
-o	Start on the Home page (VA.gov)
-o	Click on the other search tools. (Moderator note)
-o	Open find resources and support. 
-
-Show me how you would find more information on how to Sign-in to VA.gov.
-
-### Things to watch for:
--[Does the participant use the search field?]
--[What query does the participant use to search for sign in help?]
--[Where would you expect to go ?]
-- [Does the participant notice resources and support ?]
-- [How the participant navigates the page to find resources and support ?]
-
-1.	[Verbal Response] You want to search for information to will help you sign in. Scroll down and click in the area of the home page where it says resources and support, then click. When done, you can see resources and support on the screen.  
-2.	[Verbal Response] Without clicking/typing anything, please describe how you would find information on how to sign in to VA.gov. 
-3.	[Verbal Response] I want to direct your attention to the “Browse by topic” title at the top left of the screen. When done, click “Signing in to VA.gov”, then click next.
 
 ## What → Resources and Support + Signing in to VA.gov 
 o	Start with browse topics. 
