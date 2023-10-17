@@ -31,7 +31,7 @@ This list is alphabetized by category name.
 |`Education benefits and work study`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
 |`Guardianship, custodianship, or fiduciary issues`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
 |`Health care`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`Housing assistance and home loans`|NEED|`**DON'T NEED**`|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
+|`Housing assistance and home loans`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
 |`Life insurance`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
 |`Pension`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
 |`Sign in and technical issues`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
