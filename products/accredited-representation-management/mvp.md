@@ -47,7 +47,7 @@ Digital form fill of 21-22/21-22a
    1. Unauth: Enter Veteran’s Contact Information (phone and email)
    2. Unauth: Enter Veteran’s Mailing Address
    3. Auth: Review (w option to Edit) Veteran’s Contact Information -- the `Edit` view
-   4. Auth: Edit Veteran’s Contact Information with option to save -- the `Enter` view
+   4. Auth: Edit Veteran’s Contact Information with option to save (i.e. Enter) changes -- the `Enter` view
 3. Chapter 3: Claimant Information (pages are the same for both unauth/auth)
    1. Claimant Ask (Are you the Veteran who the claim is being submitted for?)
    2. [claimant = no] Claimant Personal Information
