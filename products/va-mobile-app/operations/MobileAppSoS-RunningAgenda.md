@@ -14,7 +14,7 @@
 
 ## Agenda
 
-## 10/17/23
+## 10/31/23 Halloween Speical
 
 
 * **Q4 Projects in Progress**
@@ -22,18 +22,23 @@
   * Work is listed in PO's priority order based on SoS Sprint Tab
   * PM owner - transitioning to Ameet 
   * Current Sprint
-    * Sprint 82  (1 of 7 Q4 Sprints) 
+    * Sprint 83  (2 of 7 Q4 Sprints) 
    
 * **Project Status Updates**
-  * Review yellow projects 
-  * Any PO questions on existing projects?  
- 
+  * Review yellow projects
+  * Any PO questions on existing projects?
+    
 * **Standing question for the POs (Adam)**
   * Any new work we should be on the lookout for?
-  * Any priority shifts or other updates? 
+  * Any priority shifts or other updates?
+
 
 * **Sprint Planning (Adam)**
    * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
+
+    
+* **Other topics**
+
 
 
 
@@ -66,6 +71,58 @@
 
 <details>
 <Summary>Historical Agendas and Meeting Notes </Summary>
+
+## 10/17/23
+
+
+* **Q4 Projects in Progress**
+  * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+  * Work is listed in PO's priority order based on SoS Sprint Tab
+  * PM owner - transitioning to Ameet 
+  * Current Sprint
+    * Sprint 82  (1 of 7 Q4 Sprints) 
+   
+* **Project Status Updates**
+  * Review yellow projects
+     * No yellow projects   
+  * Any PO questions on existing projects?
+     * Meko leaving / transition - Rachel offered her and Ryan as an assistance for and after the transition
+     * Meko provided an update on exisiting work
+        * Appointments
+           * Identified a bug that MHV is looking into - Mobile showing video when its in person
+           * Possibility this is a staging data issue
+           * Ticket created - thread in MHV Slack channel
+        * RX
+           * Continuing to follow-up
+           * Working on a recommendation that will be shared on mobile design channel
+              * Recommending going the Sort route 
+           * Unplanned work
+              * Raquel reached out asking if mobile could smoke test a change they are implementing (mobile not involved with the change)
+              * Mobile does not have production accounts thus cannot smoke test
+              * Uncertain how we can help ; example of unplanned Q4 work that other areas are contacting mobile for       
+ 
+* **Standing question for the POs (Adam)**
+  * Any new work we should be on the lookout for?
+     *  Terms of Use expected to continue
+        * Meko indicated testing has begun on Mobile
+        * Mobile found a bug when redirecting - communicated and shared that with TOU team - they are working on it   
+  * Any priority shifts or other updates?
+     * Travel Reimbursement ending this sprint vs continuing a couple more 
+     * No other changes 
+
+* **Sprint Planning (Adam)**
+   * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
+      * No concerns with the top projects or the projects currently slated
+      * All areas have extra capacity which will be looked at during planning
+    
+* **Other topics**
+   * Liz - [Sept 23 App Store Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/reporting/App-Stores-Reviews/Sept23.md)
+       * Process has been done for 8 months
+       * Looking at 20 key words
+       * 150 - 200 reviews a month with comments
+       * Discussion on how best to integrate app store data with dashboard data - Greta, Liz, and Ameet working on it - Rachel support
+       * Liz encouraged to continue to review during SoS if she wants 
+
 
 ## 10/3/23 Agenda
  * Repurposed for Q3 planning
