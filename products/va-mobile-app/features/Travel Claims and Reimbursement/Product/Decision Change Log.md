@@ -1,5 +1,8 @@
 ### Change Log
+- Purpose is to track changes to the original scope of the project and decisions made throughout the project
+- Additional information may be found in DSVA #Travel-Pay slack channel
 
+### Running List of Changes and Decisions
 
 | Change | Rationale | Date Change |
 |-------|------- | -------- | 
