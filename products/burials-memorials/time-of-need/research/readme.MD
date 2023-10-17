@@ -12,8 +12,8 @@ Funeral Homes, Veterans, family members, and personal representatives lack a way
 ## Desired User Outcomes
 
 - *Why would a user want to use this?*
- - Funeral Homes can submit requests more effectively and efficiently; in turn providing better service to their clients in a difficult time.
- - Veterans, family members, and personal representatives, in their time of grief,  can have an easy, stress-free, and user-friendly to request a burial in their time of need by applying on VA.gov, thereby ensuring that they can bury their loved ones and receive their benefits in a timely manner.
+  - Funeral Homes can submit requests more effectively and efficiently; in turn providing better service to their clients in a difficult time.
+   - Veterans, family members, and personal representatives, in their time of grief,  can have an easy, stress-free, and user-friendly to request a burial in their time of need by applying on VA.gov, thereby ensuring that they can bury their loved ones and receive their benefits in a timely manner.
 
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
