@@ -16,7 +16,8 @@
 - [Research Repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1) 
 - [10-10EZ Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/key-findings.md)
 - [Mural 1010 Room](https://app.mural.co/invitation/room/1670613238628?code=a67c337f0cd645d18b1b99d77f3743e1&sender=uadf1ed7fe7c76f0914967329)
-
+- [Template - Research Synthesis Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696943969535/ebeb7ce2f9bb547e6652d68ee6dd2e8b8f3fb55e?sender=ubf5503bf47b6eb1e92730053)
+- [Reference - Research Landscape Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697039977149/b8a5ea90748703093cdcb405b84463e515cfea2a?sender=ubf5503bf47b6eb1e92730053)
 
 
 
