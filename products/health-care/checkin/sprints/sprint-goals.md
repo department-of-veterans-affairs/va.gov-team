@@ -14,7 +14,6 @@ ________________________________________________________________________________
      - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
-     - **Sub Goal: Make the Switch to Version 3 of the Design System**
      - **Sub Goal: Miscenallenous debt**
 
 #### PLANNED RELEASES 
@@ -58,10 +57,9 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
 - **GOAL: Address tech & design debt**        
-    - **Sub Goal: Miscenallenous debt**
-         - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] - Update dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65691)
-         - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Add Disclaimer to the Product Guides that they DO NOT Contain any PHI/PII](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67175)+
-         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Move "old" feature pages in unified check in sketch file to {where} (f/u from 66318)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67167)
+    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] - Update dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65691)
+    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Add Disclaimer to the Product Guides that they DO NOT Contain any PHI/PII](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67175)+
+    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Move "old" feature pages in unified check in sketch file to {where} (f/u from 66318)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67167)
 
  ---------- FUTURE / TENTATIVE --------------
 __________________________________________________________________________________________________________________________________________________________
