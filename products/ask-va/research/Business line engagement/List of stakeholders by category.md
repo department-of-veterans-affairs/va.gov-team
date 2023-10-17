@@ -1,6 +1,6 @@
 # List of business line stakeholders by category
 
-Last updated by @tygindraux: October 12, 2023
+Last updated by @tygindraux: October 16, 2023
 
 |Category|Stakeholder|Business area|
 |:--|:--|:--|
