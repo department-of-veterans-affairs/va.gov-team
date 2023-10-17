@@ -49,7 +49,7 @@ Digital form fill of 21-22/21-22a
    3. Auth: Review (w option to Edit) Veteran’s Contact Information
    4. Auth: Edit Veteran’s Contact Information with option to save
 3. Chapter 3: Claimant Information (pages are the same for both unauth/auth)
-   1. Are you the Veteran who the claim is being submitted for?
+   1. Claimant Ask (Are you the Veteran who the claim is being submitted for?)
    2. [claimant = no] Claimant Personal Information
    3. [claimant = no] Claimant Contact Information
    4. [claimant = no] Claimant Mailing Address
