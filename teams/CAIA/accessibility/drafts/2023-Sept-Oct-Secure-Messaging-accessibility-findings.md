@@ -41,7 +41,13 @@ To best serve the users of VA.gov, we will need to collect the following informa
 Add screenshots, images and videos here.
 
 ### Participants had trouble determining if there were attachments.
-- In the inbox, attachments are noted by an icon (what looks to be a paper clip emoji) that comes after a message title. This icon isn't read aloud by screen readers.
+- The conversation threads are in accordions. 
+- In the inbox, attachments are noted by an icon (what looks to be a paper clip emoji) that comes after the date and time, prior to the user's name.
+- This icon isn't read aloud by screen readers.
+- The attachment isn't known by the user until the message was expanded.
+- This can pose to be an issue if there are multiple messages.
+
+<img width="194" alt="Messages in this conversation (not expanded yet). There is a button to expand all and a plus sign on the far right of each of the four messages to expand them. The accordion headers are the date, followed by the sender." src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/124186314/fe022d99-42e1-473b-858a-ccc42e0925cc">
 
 ### Having a "save draft" button _and_ auto-saving lead to confusion. And some participants weren't sure where their draft saved.
 - When typing their draft messages, users weren't aware that they would auto-save.
