@@ -24,7 +24,9 @@ A tool for Veterans to schedule and manage their appointments online
 
 **Survey URL(s), key term(s), case category or type**
 
-Everything under [https://www.va.gov/health-care/schedule-view-va-appointments/](https://www.va.gov/health-care/schedule-view-va-appointments/)
+All comments under these URLS: 
+* [https://www.va.gov/health-care/schedule-view-va-appointments/](https://www.va.gov/health-care/schedule-view-va-appointments/)
+* [https://www.va.gov/my-health/appointments](https://www.va.gov/my-health/appointments)
 
 **File delivery format**
 
