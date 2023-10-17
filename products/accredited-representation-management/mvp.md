@@ -40,14 +40,14 @@ The MVP will include desktop & mobile experiences
 #### Appoint a Representative
 Digital form fill of 21-22/21-22a 
 1. Chapter 1: Veteran Personal Information
-   1. Unauth: Enter Veteran’s Name and Date of Birth
-   2. Unauth: Enter Veteran’s Identification Information
-   3. Auth: Review information on file
+   1. Unauth: Enter Veteran Name and Date of Birth
+   2. Unauth: Enter Veteran Identification Information
+   3. Auth: Review Veteran Personal information on file (cannot update on VA.gov, need to call to update)
 2. Chapter 2: Veteran Contact and Insurance Information
-   1. Unauth: Enter Veteran’s Contact Information (phone and email)
-   2. Unauth: Enter Veteran’s Mailing Address
-   3. Auth: Review (w option to Edit) Veteran’s Contact Information -- the `Edit` view
-   4. Auth: Edit Veteran’s Contact Information with option to save (i.e. Enter) changes -- the `Enter` view
+   1. Unauth: Enter Veteran Contact Information (phone and email)
+   2. Unauth: Enter Veteran Mailing Address
+   3. Auth: Review (w option to Edit) Veteran Contact Information -- the `Edit` view
+   4. Auth: Edit Veteran Contact Information with option to save (i.e. Enter) changes -- the `Enter` view
 3. Chapter 3: Claimant Information (pages are the same for both unauth/auth)
    1. Claimant Ask (Are you the Veteran who the claim is being submitted for?)
    2. [claimant = no] Claimant Personal Information
