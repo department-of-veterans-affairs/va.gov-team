@@ -1,6 +1,6 @@
 # List of business line stakeholders by category
 
-Last updated by @tygindraux: October 12, 2023
+Last updated by @tygindraux: October 16, 2023
 
 |Category|Stakeholder|Business area|
 |:--|:--|:--|
@@ -38,12 +38,17 @@ Last updated by @tygindraux: October 12, 2023
 |`Health care`|Jennifer Mcalinden|VHA Caregiver Support|
 |`Health care`|Mary Ewers|VHA Caregiver Support|
 |`Health care`|Amanda Scully|VHA ECM (Enrollment Case Management)|
-|`Health care`|Michael Bingham|VHA HAC (Health Administration Center)|
+|`Health care`|Brian Guenther|VHA HAC (Health Administration Center)|
 |`Health care`|Benjamin Davis|VHA Women Veterans Health Care|
 |`Health care`|Taylor Weidman|VHA Women Veterans Health Care|
 |`Health care`|Joshua Paulsen|VHA Audiology|
 |`Health care`|Mauree Collins|VHA Prosthetics|
 |`Health care`|Trevor Brown|VHA Prosthetics|
+|`Health care`|D'Rondrell Hamner|VHA PATSR|
+|`Health care`|Todd Brunson|VHA RCS|
+|`Health care`|Kristin Brown|VHA RCS|
+|`Health care`|Gary Jarrell|VHA RCS|
+|`Health care`|Orlando Austin|VHA NRS|
 |`Housing assistance and home loans`|Laura Rodriguez|LGY (Loan Guaranty Service)|
 |`Life insurance`|Cherronda Jeffcoat|Life insurance|
 |`Center for Women Veterans`|Ana Claudio|CWV (Center for Women Veterans)|

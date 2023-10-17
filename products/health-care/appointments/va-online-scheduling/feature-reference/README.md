@@ -75,13 +75,13 @@ Tools for Veterans to schedule or request appointments.
 | VA direct-schedule | [Review and submit](./schedule-flow/review-and-submit-VA-direct-schedule.md) |
 | VA request | [Preferred date](./schedule-flow/preferred-date-VA-request.md) |
 | VA request | [Reason for appointment](./schedule-flow/reason-for-appointment-VA-request.md) |
-| VA request | [Method of attendance]() |
+| VA request | [Preferred modality](./schedule-flow/preferred-modality.md) |
 | VA request | [Confirm contact information](./schedule-flow/confirm-contact-information-request.md) |
 | VA request | [Review and submit](./schedule-flow/review-and-submit-VA-request.md) |
 | CC request | [Preferred date](./schedule-flow/preferred-date-CC.md) |
 | CC request | [Nearest city](./schedule-flow/nearest-city-CC.md) |
-| CC request | Choose a provider |
-| CC request | Choose a preferred language |
+| CC request | [Request a provider](./schedule-flow/Request-a-provider.md) |
+| CC request | [Choose a language](./schedule-flow/Choose-a-language.md) |
 | CC request | [Reason for appointment](./schedule-flow/reason-for-appointment-CC.md) |
 | CC request | [Confirm contact information](./schedule-flow/confirm-contact-information-CC.md) |
 | CC request | [Review and submit](products/health-care/appointments/va-online-scheduling/feature-reference/schedule-flow/review-and-submit-CC.md) |

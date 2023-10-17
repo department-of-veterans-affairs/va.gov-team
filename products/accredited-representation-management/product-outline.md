@@ -63,9 +63,8 @@ There is not currently an experience on VA.gov for Veterans to find a representa
     _How many of our users are looking for replacement representation?_
 
 ### Baseline KPI Values
-1. Number of users completing the search→form download in VA.gov each week/month
-
-_If these numbers are growing quickly, we can examine proportional growth instead (% increase of users completing the search→form download this week/month vs. last week/month)_
+1. **Number of users completing the search→form download in VA.gov each week/month** _measuring growth_
+2. **% increase of users completing the search→form download this week/month vs. last week/month** _measuring proportional growth_
 
 ### Objectives and Key results (OKRs)
 1. **Objective**: Veterans start moving away from legacy processes for finding a representative, in favor of our solution on VA.gov 

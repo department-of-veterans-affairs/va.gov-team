@@ -4,67 +4,73 @@ _Formally known as "Find a Representative"_
 
 The MVP will include desktop & mobile experiences
 
-## MVP
+## MVP: Appoint a Representative
 
-#### Finding an Accredited Representative
+#### Intro Page
+1. Set expectations for the steps below
+2. Provide an option for users to download a blank 21-22/21-22a and complete offline
+
+#### Find a Representative
 1. Search
     1. If authenticated and if veteran has an existing rep, display existing rep and how to change the rep
-    1. Required fields
+    2. Required fields
         1. Location 
             1. Single consolidated field that accepts address 1, city, state, zip code
-            1. 'use my location' feature to populate this location field
-            1. Default to a radius (e.g. 50 miles)
-        1. Select type of rep
+            2. 'use my location' feature to populate this location field
+            3. Default to a radius (e.g. 50 miles)
+        2. Select type of rep
             1. Veteran Service Organization (VSO)
-            1. Attorney (Lawyer)
-            1. Claims agent
-        1. Search by name
+            2. Attorney (Lawyer)
+            3. Claims agent
+        3. Search by name
             1. Organization name 
             2. Representative first name
             3. Representative last name
-        1. Rep definitions
+        4. Rep definitions
             1. Veteran Service Organization (VSO)
-            1. Attorney (Lawyer)
-            1. Claims agent
-1. Display search results
-    1. Map display
-    1. List display 
+            2. Attorney (Lawyer)
+            3. Claims agent
+2. Display search results
     1. If authenticated and if veteran has an existing rep, display existing rep
-1. Selection
+    2. List display
+    3. Option to sort results by different parameters
+3. Selection
     1. Search results will have a button to 'Select' the representative
-1. Form 21-22/21-22a
-    1. Pre-fill the form for PDF download
-        1. Authenticated: both rep and personal information
-        1. Unauthenticated: rep information, no personal information
-    1. Present missing form fields to the user
-        1. Authenticated: Capture additional authorization information
-            1. Section 19: Authorization for representative’s access to records protected by Section 7332, Title 38, U.S.C. _(checkbox)_
-            1. Section 20: Limitation of consent _(checkboxes)_
-                1. Drug abuse
-                1. Alcoholism or alcohol use problems
-                1. Human immunodeficiency virus
-                1. Sickle cell anemia
-            1. Section 21: Authorization to change claimant’s address _(checkbox)_
-        1. Unauthenticated: Capture personal information and additional authorization information 
-            1. Section I: Veteran’s information (9 fields)
-            1. Section II: (If other than veteran) Claimants information (5 fields)
-            1. Authorization (same as sections 19-21 listed above):
-            1. Section 19: Authorization for representative’s access to records protected by Section 7332, Title 38, U.S.C. _(checkbox)_
-            1. Section 20: Limitation of consent _(checkboxes)_
-                1. Drug abuse
-                1. Alcoholism or alcohol use problems
-                1. Human immunodeficiency virus
-                1. Sickle cell anemia
-            1. Section 21: Authorization to change claimant’s address _(checkbox)_
-    1. Present option to download pre-filled PDF form (without signatures)
-    1. Set expectations and guide to next steps
-    1. Download to PDF desktop (do not open PDF in browser)
-1. Feedback page
-    1. Update profile to display selected representative (pending request with link to next steps)
+  
+#### Appoint a Representative
+Digital form fill of 21-22/21-22a 
+1. Chapter 1: Veteran Personal Information
+   1. Unauth: Enter Veteran Name and Date of Birth
+   2. Unauth: Enter Veteran Identification Information
+   3. Auth: Review Veteran Personal information on file (cannot update on VA.gov, need to call to update)
+2. Chapter 2: Veteran Contact and Insurance Information
+   1. Unauth: Enter Veteran Contact Information (phone and email)
+   2. Unauth: Enter Veteran Mailing Address
+   3. Auth: Review (w option to Edit) Veteran Contact Information -- the `Edit` view
+   4. Auth: Edit Veteran Contact Information with option to save (i.e. Enter) changes -- the `Enter` view
+3. Chapter 3: Claimant Information (pages are the same for both unauth/auth)
+   1. Claimant Ask (Are you the Veteran who the claim is being submitted for?)
+   2. [claimant = no] Claimant Personal Information
+   3. [claimant = no] Claimant Contact Information
+   4. [claimant = no] Claimant Mailing Address
+4. Chapter 4: Authorization for Record Access (pages are the same for both unauth/auth)
+   1. Authorization for Representative’s Access to Records Protected by Section….
+5. Chapter 5: Authorization for Address Change (pages are the same for both unauth/auth)
+   1. Authorization to Change Claimant’s Address
+6. Chapter 6: Review and Complete (pages are the same for both unauth/auth)
+   1. Sections are collapsed
+   2. Sections are expanded with option to edit
+   3. Sections are expanded with editing and option to save
+7. Download page (pages are the same for both unauth/auth) (edited) 
 
-#### Profile Updates
+#### Representative Status Widget
 
-1. If the user is logged in and has an existing representative, surface the status and the representative information
+1. Widget States
+   1. User is logged in and has an existing representative (surface the status and the representative information)
+   2. User is logged in and does not have an existing representative (include information on how to find a representative)
+   3. User is not logged in (include copy on how signing in can assist with the appointing a representative process)
+   4. Error state / system is down (show a message that the system is unavailable and to try again later)  
+2. Include widget in the profile to display selected representative (pending request with link to next steps)
 
 ## Post-MVP
 

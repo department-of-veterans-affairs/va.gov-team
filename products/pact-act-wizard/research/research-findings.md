@@ -108,7 +108,7 @@ Any participants who didn't see the *You may be eligible* results screen were th
 
 ## Key Findings
 
-1. All participants understood 
+1. All...
 
 
 ## Details of Findings 
@@ -139,8 +139,73 @@ Both time periods | 3 | 8-10 | 8.7 | 10
 
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
+### 2. Some of the questions were confusing to a few participants
+#### 3 participants had difficulty with the service years question
+![q-service-years](./images/q-service-years.png)
+
+One participant **thought that none of the options applied** to him. He said, *"This is one of those frustrating times when there's not an appropriate answer for me" (p10)/* When prompted to try again, he blamed it on his tendency *"to read through stuff quicker than I should."* He thought that rewording the radio button options to "1990 to present" and "Prior to 1989" might be clearer.
+
+A different participant was thinking about the campaigns she served in and not the years, and was **wondering whether toxic exposures for 1990 were similar to those that she might have experienced 12 years later** in the 2000's. She suggested instead having checkbox options with the different options and thought this might be easier for answering questions on behalf of family members, too. She suggested the following list of options: Operation Iraqi Freedom, Operation Enduring Freedom, Desert Storm, Vietnam, Gulf War, Cold War. (Seems like this list could get really long and require updating.)
+
+A third participant didn't select "both time periods" until his second time through the survey. He seemed to think that the word **"serve" meant instead "started" or "joined" because he asked whether it includes his training**. The reason is that he joined in Aug 1989 and did basic training and tech training but didn't actually start serving until 1990. And *"you're really not in the military until after training" (p4).*
+
+RECOMMENDATIONS: 
+1. **Consider instead asking what year the Veteran joined the service and what year they left** (as in Perigean's recruitment survey). This might be more straightforward than the cognitive load of A/B/both radio button options, and also would eliminate questions about whether one's service is close enough to 1989 or 1990 and the implications. 
+1. Alternatively, consider making the options into 2 checkboxes instead of 3 radio buttons.
+1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
+1. Consider adding a "Not sure" option that would result in all questions being asked (like the current "Both time periods" option).
+
+#### 2 participants didn't know what C-123 planes were in the Agent Orange question
+![q-C-123-plane-Agent-Orange](./images/q-C-123-plane-Agent-Orange.png)
+
+When they saw the above question, 2 participants said (unprompted) that they **didn't know what "C-123 airplanes" are**. Both of them answered "I'm not sure" to the question. 
+
+Two other participants mentioned that they're familiar with C-123's but others may not be. One of them said, *"If it applied to you, you would know...service members know their equipment" (p9).* The other said something similar and also that an explanation might be helpful.
+
+RECOMMENDATION: 
+1. Consider adding a brief description or link to information about C-123 planes.
+
+#### 1 participant had questions about another Agent Orange question 
+![q-DMZ-Agent-Orange](./images/q-DMZ-Agent-Orange.png)
+
+One participant had questions about the Agent Orange question they saw. The first one was about **what the word "serve" means**: "in country" on the ground, or does it also include on a ship nearby or in the airspace above? 
+
+> *"The military is precise. We don't like a lot of gray area" (p1).*
+
+The same participant was also unsure about **what is considered to be "near" the DMZ**. He served in Korea at Osan but not at the DMZ, so he answered "no".
+
+RECOMMENDATIONS:
+1. If applicable, consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
+1. If possible, consider revising the content to disambiguate the word "near" in the DMZ option.
+
+#### 1 participant was unclear about "neutral zone"
+![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
+
+One participant asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations with the FOB (Forward Operating Base) names on it for the places she lived, transported supplies to, had a day pass to, etc. Without this information, she answered "not sure" to the question.
+
+> *"I know I was in Iraq, but I don't know where in Iraq [they are referring to]...I know some of the FOBs where I was. I didn't know the cities I was close to...I really didn't pay attention to knowing exactly where I was, besides the fact that I was in Iraq...I know they said one time I was in the green zone" (p8).*
+
+Another participant also wanted to see a map that showed the geographical areas of the locations listed in the question.
+
+RECOMMENDATIONS: 
+1. In the questions, try to mirror the language that Veterans heard during their service (e.g., FOB names, "green zone" and not "neutral zone"?).
+1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
+
+### 3. Some participants had **beliefs about whether they were eligible for benefits under the PACT Act** before trying the wizard, and some of these beliefs were *incorrect* and not addressed by anything in the wizard.
+
+Below is a list of reasons why some participants said that they were NOT eligible for benefits under the PACT Act:
+1. 100% disabled already 
+
+1. Wasn't in one of the locations at the right time (i.e., wasn't in Vietnam, arrived in Korea after Agent Orange was being used)--2 participants
+
+> *"I know I'm not eligible so I don't want to waste anybody's time, including my own" (p10).*
+
+
+  RECOMMENDATIONS: 
+  1. Consider adding more content to the main PACT Act page, and link from there to this wizard.
+
 ### Something about results...
-Based on their responses to the questions, 6 of 9 participants were taken to the "You may be eligible" results page. This page in the prototype contained burn pit content and so wasn't applicable to all of the participants (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Below is a table showing how many participants landed on each of the results screens initially.
+Based on their responses to the questions, 6 of 9 participants were taken to the "You may be eligible" results page. This page in the prototype contained burn pit content and so wasn't applicable to all of the participants (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service.
 
 Results screen | # of Participants
 ------------------|---------------
@@ -157,10 +222,8 @@ Results screen | # of Participants
 1. Participants generally **understood the results screens** and figured out what  they should do next.
 
 ### Usability Issues
-5. Three participants had **difficulty answering the service years question** because they found the options confusing. *ADD DETAILS AND QUOTES*
-1. Two participants brought up (unprompted) that they **didn't know what a "C-123 plane" was**, which was mentioned in one of the Agent Orange questions. Two other participants said, *"If it applied to you, you would know" (p9).*
-1. Some participants had **beliefs about whether they were eligible for benefits under the PACT Act** before trying the PACT Act Wizard, and some of these beliefs were *incorrect* and not addressed by any content in the wizard.
-  RECOMMENDATION: Consider adding more content to the main PACT Act page, and link from there to this wizard.
+
+
 1. Three participants were **confused by the jump links** at the top of the results page on Staging because they interpreted them as CTA's (i.e., *file a disability claim* or *apply for health care* right now).
 
 

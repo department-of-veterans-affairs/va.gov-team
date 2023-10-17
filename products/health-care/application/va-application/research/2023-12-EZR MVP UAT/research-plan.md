@@ -51,7 +51,7 @@ These learnings will allow us to evaluate for additional gaps during the rollout
 - Are participants able to find their way to the 10-10EZR?
 - Is the wayfinding, such as the breadcrumbs and the form placement, clear to participants?
 
-#### Goal 2: 2. **Intro page content** - Evaluate effectiveness of intro page content to see: is it clear to Veterans which form to fill out, the 10-10EZ vs. 10-10EZR?
+#### Goal 2: **Intro page content** - Evaluate effectiveness of intro page content to see: is it clear to Veterans which form to fill out, the 10-10EZ vs. 10-10EZR?
 
 - Do participants understand that they need to fill out a form to update their information?
 - Is any of the content unclear or does it confuse participants, rather than make them more comfortable with starting the form?

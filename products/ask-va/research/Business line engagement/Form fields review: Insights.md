@@ -22,12 +22,14 @@ We are proposing to remove some fields from the Ask VA form. As part of this pro
 
 > **Takeaway: Create a new ticket to verify contact options with all business lines.**
 
+> **Update 10/13: We verified contact options with all business lines, see [list of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md).**
+
 ### Veteran service information fields
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Screen%20Shot%202023-09-21%20at%203.13.42%20PM.png)
 
-> **Takeaway: Continue with recommendation to remove most fields apart from SSN and DOB.**
+> **Takeaway: Gather more comprehensive feedback from business lines before we recommend removal.**
 
-> **Takeaway: _Or_ gather more comprehensive feedback from business lines before we recommend removal.**
+> **Update 10/13: We gathered more comprehensive feedback from all business lines, see [list of military service fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md).**
 
 ### Gender
 - We did not review this field with all business lines. But of the business lines, we asked, none explicitly need to know gender.
@@ -44,6 +46,8 @@ We are proposing to remove some fields from the Ask VA form. As part of this pro
   - DEERS
   - Technical issues
 > **Takeaway: Confirm whether the Women Veterans business line requires this (for their category and/or for all categories).**
+
+> **Update 10/13: We confirmed that there is a Congressional Mandate which states the requirement to collect data on Gender. This field will remain.**
 
 ---
 

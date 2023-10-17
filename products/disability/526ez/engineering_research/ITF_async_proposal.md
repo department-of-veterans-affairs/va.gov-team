@@ -1,7 +1,10 @@
 # Architecture Proposal
 
+
 ## The big question:
 if a vet logs in, do we need to show them information about an existing ITF.  This will massively impact the solution flow.  If YES, then we need asny READ and WRITE of ITFs.  If NO, then we only need async WRITES, which allows us to maintain a single source of truth.  The following proposals break down the implementation in each case:
+
+[We answer this question in this meeting](https://drive.google.com/drive/folders/1A2W1aeS3ppD33kRo_tWAuORpjFdaOdt-)
 
 ## YES, WE NEED ASYNC READ AND WRITE:
 

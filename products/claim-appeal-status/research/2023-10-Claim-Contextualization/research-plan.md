@@ -23,13 +23,13 @@ This work supports a Veteran whenever they are filing a disability compensation 
 - Assess whether Veterans understand the steps that are available to them to increase the likelihood of a favorable claim outcome. 
 
 ### Outcome
-With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov.
+With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov. Which aspects specifically do Veterans find useful?
 
 ### Research questions
 
-- How do Veterans react to this content? Do they find it useful? 
+- How do Veterans react to this content? Do they find it useful?
 - Does this new design set better expectations for how the claim will move between stages? Do Veterans understand why and how the claim might move back and forth between certain stages?
-- After seeing this design, do Veterans understand their responsibilities at each step of the process?
+- After seeing this design, do Veterans understand actions available to them at each step in the process that might help strengthen their claim?
 
 ### Hypotheses
 - The new design will set better expectations about the claim process, demonstrating to Veterans that it is not always linear. 
@@ -75,6 +75,7 @@ The intended audiences is Veterans who at some point filed a disability compensa
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
 
 Pilot participant email: rocio@coforma.io
+
 Date and time of pilot session: TBD
 
 ### Research sessions
@@ -87,4 +88,10 @@ Dates TBD
 8 AM - 6 PM ET
 	
 ## Team Roles	
-TBD
+- Moderator: Skyler Schain (skyler@coforma.io)	
+- Research guide writing and task development (usually but not always same as moderator): Skyler Schain	(skyler@coforma.io)
+- Participant recruiting & screening: Perigean
+- Project point of contact: Skyler Schain (skyler@coforma.io)
+- Participant(s) for pilot test: Rocio De Santiago (rocio@coforma.io)
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	Josh Kim (josh.kim@adhocteam.us)
+- Observers: Gary Homidas (gary.homidas@adhocteam.us), Lauren Sinreich (lauren.sinreich@coforma.io), Julie Strothman (julie.strothman@va.gov), Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Heather Widmont (heather.widmont@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us)

@@ -1,32 +1,28 @@
-**Editing in progress. Not complete.**
-
 **Office of the CTO - Digital Experience (OCTO-DE), VBA facilities, Sitewide Facilities**
 
-Date: 010/06/2023
+Date: 010/13/2023
 
-**Alexis Logsdon** [alexis.logsdon@a1msolutions.com](alexis.logsdon@a1msolutions.com)
+**Alexis Logsdon**, [alexis.logsdon@a1msolutions.com](alexis.logsdon@a1msolutions.com)
 
-[Research readout](link)
+[Research readout (must be logged in to VA system to view)](https://dvagov.sharepoint.com/b:/r/sites/SitewideFacilitiesTeam/Shared%20Documents/General/VBA/20231012%20VBA%20Regional%200ffices%20Usability%20Research%20Readout.pdf)
 
 <br>
 
 **Jump to:**
 
-[Research Goals](#research-goals)
+[Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#research-goals)
 
-[Research questions](#research-questions)
+[Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#methodology)
 
-[Methodology](#methodology)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#hypotheses-and-conclusions)
 
-[Hypotheses and conclusions](#hypotheses-and-conclusions)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#key-findings)
 
-[Key findings](#key-findings)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#recommendations)
 
-[Recommendations](#recommendations)
+[Appendix (including screenshots of prototype)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#appendix)
 
-[Appendix (including screenshots of prototype)](#appendix)
-
-[Who we talked to](#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#who-we-talked-to)
 
 <br>
 
@@ -41,11 +37,11 @@ There are many potential touchpoints between the Veteran and this application th
 * Retiring (Finding additional sources of income)
 
 ## Research Questions
-Before seeing the prototype:
+**Before seeing the prototype:**
 1. What do Veterans (and others) know about VA regional benefit offices?
 2. What tasks do Veterans (and others) expect to do at VA regional benefit offices?
 
-From the prototype:
+**From the prototype:**
 
 3. Do Veterans (and others) understand which services are available at this location?
 * Categories of services (i.e., Veteran benefits, Family member & caregiver benefits, Service member benefits, Other services)
@@ -74,7 +70,7 @@ We conducted **usability testing** on August 28-September 5, 2023 to get feedbac
 - 3 of 10 had visited within the past 6 months
 - 5 of 10 visited more than 6 months ago
 
-For more details, see [Who we talked to](#who-we-talked-to).
+For more details, see [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-findings.md#who-we-talked-to).
 
 ## Hypotheses and Conclusions
 * Veterans (and others) will understand what they can do at a VA benefit office from the new web page.
@@ -107,30 +103,32 @@ For more details, see [Who we talked to](#who-we-talked-to).
 
 ### Service delivery
 4. Veterans were able to determine the appointment options, with some variation depending on the task.
-5. 	Veterans had mixed results with identifying whether an appointment was required for a given task.
+5. Veterans had mixed results with identifying whether an appointment was required for a given task.
 6.	Veterans with cognitive disabilities and Veterans over 55 were less likely to identify how services were delivered.
 
 ### Content and organization
 7. Veterans had a strong preference for using one of the three Action links to complete tasks.
-8. 	Some content was hard to locate. 
+8. Some content was hard to locate. 
 
 <br>
 
 ## Details of Findings 
 ### *Service offerings*
 
-To add images: ![text](link - add image to github folder and link here with .png)
 ### 1. Veterans understood what services were available and navigated to the relevant sections easily.
-| Service located | Task # | Success rate |
-| :-- | :---------- | :-- |
-| Home loan, Education for dependants, Burials - Family and caregiver section | 4, 8, 9 | 90% |
-| Education for Veterans | 7 | 88% |
-| Direct deposit | 10 | 80% |
-| Disability, What to bring | 3, 5 | 70% |
-| COE status check | 6 | 67% |
-| Average across all tasks |  | 78% |
+| Service located | Task # | Success rate | Raw numbers |
+| :-- | :---------- | :-- | :-- |
+| Home loan | 4 | 90% | 9 out of 10 |
+| Education for dependants | 8 | 90% | 9 out of 10 |
+| Burials - Family and caregiver section | 9 | 90% | 9 out of 10 |
+| Education for Veterans | 7 | 88% | 7 out of 8 |
+| Direct deposit | 10 | 80% | 8 out of 10 |
+| Disability | 3 | 70% | 7 out of 10 |
+| What to bring | 5 | 70% | 7 out of 10 |
+| COE status check | 6 | 67% | 6 out of 9 |
+| Average across all tasks |  | 78% | |
 
- *Note: Not all participants were asked to do every task. The percentages reflect successful completion rates among participants who were asked each question.*
+ *Note: due to Veteran/caregiver status and time constraints, not every participant was asked to complete every task. This accounts for the varied number of participants for each task.*
 
 Some participants didn't scroll much until they were nudged to do so, but once they did, they understood how the page was organized and navigated to the relevant sections with ease. Rates were somewhat lower for the first task in the prototype (task 3) as participants got comfortable navigating the prototype. They were also slightly lower on tasks 5 and 6. These tasks required participants to navigate away from the Home loan section to the Prepare for your visit section or to scroll farther down in the Home loan accordion, respectively.
 
@@ -157,7 +155,7 @@ Some participants didn't scroll much until they were nudged to do so, but once t
 - Participants struggled to locate content inside the service accordions.
 - Averages were lower for participants with cognitive disabilities
 - Hours and appointment type rates were both lower for participants over 55.
-
+*Note: Success rates are averaged across 3 tasks (3, 4, and 9) where participants were asked about appointment type, hours, and phone numbers.*
  #### Participant comments
 > So I'm simply not going to scroll down the veterans benefits and dig into all these pieces here. - P2
 
@@ -165,9 +163,21 @@ Some participants didn't scroll much until they were nudged to do so, but once t
 ### 4. Veterans were able to determine the appointment options, with some variation depending on the task.
 The majority of participants understood which services required an appointment and which were walk-in only. 
 
+| Task| Success rate | Raw numbers |
+| :-- | :---------- | :-- | 
+| 3: Disability | 50% | 5 out of 10 |
+| 4: Home loan | 90% | 9 out of 10 |
+| 9: Burials - Family and caregiver section | 60% | 6 out of 10 |
+
 ### 5. Veterans had mixed results with identifying whether an appointment was required for a given task.
 - Some participants assumed the hours inside the accordion were the same as the main office hours.
 - In the Home loan accordion, some only noted the walk-in hours, not the phone appointment hours for checking the status of their COE
+
+| Task| Success rate | Raw numbers |
+| :-- | :---------- | :-- | 
+| 3: Disability | 50% | 5 out of 10 |
+| 4: Home loan | 50% | 5 out of 10 |
+| 9: Burials - Family and caregiver section | 30% | 3 out of 10 |
 
  #### Participant comments
 >I like that this pulls up the hours too so that way you don't have to like go back up to the other section. - P7
@@ -176,7 +186,11 @@ The majority of participants understood which services required an appointment a
 ### 6. Veterans with cognitive disabilities and Veterans over 55 were less likely to identify how services were delivered.
 - Success rates for all tasks and subtasks were lower for those with cognitive disabilities
 - Finding hours and appointment information was significantly more challenging for those over 55.
-  INSERT LINK TO CHART HERE
+<details>
+  <summary>Chart showing success by demographic (Click to show screenshots)</summary>
+ ! [Task success by demographic.jpg](./images/Task%20success%20by%20demographic.jpg)
+
+  </details>
   
 ### *Content and organization*
 ### 7. Veterans had a strong preference for using one of the three Action links to complete tasks.
@@ -194,8 +208,8 @@ The majority of participants understood which services required an appointment a
 > Under each specific service there could be links directing people to what documents they need. - P3
 
 ## Additional Insights
-### Many Veterans are skeptical about whether calling or chatting with AVA will yield meaningful insights.
 
+### Many Veterans are skeptical about whether calling or chatting with AVA will yield meaningful insights.
 
 #### Participant comments 
 > I'm scared to death of a phone call because it takes so long to just get a yes or no answer - P7
@@ -226,13 +240,11 @@ The majority of participants understood which services required an appointment a
 
 
 ## Recommendations
-### Explore ways to make essential appointment and contact information easier to locate.
-### Explore options for increasing findability of What to bring content.
-### Consider coordinating with Action link product teams to sync on services-related content delivery.
 
-## Next Steps
+- Explore ways to make essential appointment and contact information easier to locate.
+- Explore options for increasing findability of What to bring content.
+- Consider coordinating with Action link product teams to sync on services-related content delivery.
 
-## Further research needed
 
 ## Appendix
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2023-06-veteran-facing/research-plan.md)
@@ -244,7 +256,10 @@ The majority of participants understood which services required an appointment a
 ## Tools used for Synthesis
 [Synthesis spreadsheet](https://docs.google.com/spreadsheets/d/1adPKduNfvJTDuNDRzxyyQDw2r24-5_L-ouYOMrVqdeM/edit?usp=sharing)
 
+[Task completion tally spreadsheet (must be logged in to VA system to view)](https://dvagov.sharepoint.com/:x:/s/SitewideFacilitiesTeam/EZgjwsrisRRPsM9ZZSPjsX4BFY9J00hBmc9FrM9MTsMM3g?e=cYpxUG))
+
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692999071676/faf135ff7c2bb24825ac0529ed16fd4643f59408?sender=u3f35bedf61955cb051f44770)
+
 
 ## Pages and applications used
 
@@ -253,24 +268,35 @@ The majority of participants understood which services required an appointment a
 ### Screenshots of the prototype screens
 <details>
   <summary>Prototype screens (Click to show screenshots)</summary>
-    [insert images here]
+ 
+ ![0-VBAprototype](./images/0-VBAprototype.jpg)
+ 
+ ![1-VBAprototype](./images/1-VBAprototype.jpg)
+ 
+ ![2-VBAprototype](./images/2-VBAprototype.jpg)
+ 
+ ![3-VBAprototype](./images/3-VBAprototype.jpg)
+ 
+ ![4-VBAprototype](./images/4-VBAprototype.jpg)
+ 
+ ![5-VBAprototype](./images/5-VBAprototype.jpg)
+ 
+ ![6-VBAprototype](./images/6-VBAprototype.jpg)
+
+
 </details>
 
 ## Who we talked to
 
 **Recruitment criteria**
 
-In order to find research participants
-- XXX
-- XXX
-- XXX
-
 We talked to **10 participants.**
 
 Audience segment:
 * Veterans: 8 
-* Caregivers or family members: 3 
-*
+* Caregivers or family members: 3
+
+  1 participant was both a caregiver and a Veteran.
 
 Gender:
 * Male: 7
@@ -315,10 +341,21 @@ Disability and Assistive Technology (AT):
 * Cognitive: 3
 * AT user: 0
 
+  
+<details>
+  <summary>Charts and images (Click to show screenshots)</summary>
+ 
+![Device used in session](./images/Device%20used%20in%20session.png) 
+
+![Recruitment checker screenshot.png](./images/Recruitment%20checker%20screenshot.png) 
+
+</details> 
+
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 - Identify as Asian or Transgender
 - Expat (living abroad)
 - Users of Assistive Technology 
+
 

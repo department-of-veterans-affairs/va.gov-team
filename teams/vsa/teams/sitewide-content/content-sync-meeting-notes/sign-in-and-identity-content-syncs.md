@@ -1,5 +1,17 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**October 12, 2023**
+-
+Attendess: Aliyah, Lauren, Laura, Clayton, Carl, Sophia, Nathalie, Ngozi
+- Camille (Veteran Support team) is planing research on the **Signing in to VA.gov page.** She'll join the next meeting to chat more about her research plans and we can discuss how this may overlap with research done by the CORE identity team (Clayton).
+- **Audit:** We discussed that we'll need to do a comprehensive audit (unauthenticated and authenticated experiences) for mentions of sign in options. 
+  - Audit of authenticated experience would involve public websites
+  - This audit may need to happen in several phases
+  - Any changes to widgets on forms/applications/tools would need a lot of lead time to begin updating. Aliyah and Laura can change widget content on static pages, but we'll need to coordinate with product teams for widgets that may appear inside forms/applications/tools.
+  - Nathalie (chatbot team) mentioned that they'll need to do an audit and make manual updates. She'll chat more with her designers and developers. If their team has content from us, it may not be a huge lift on their part.
+  - Sophia suggested looping in PMs on this call. Laura and Aliyah to chat more with Danielle about this audit and timing.
+  - **We'll continue the discussion in our next meeting**
+
 **September 28, 2023**
 -
 Attendees: meeting cancelled due to a few LGA and CORE team OOO/conflicts

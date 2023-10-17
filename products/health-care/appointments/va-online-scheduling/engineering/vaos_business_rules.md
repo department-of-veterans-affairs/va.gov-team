@@ -190,7 +190,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
     - For community care requests or the direct path, they're sent to the contact info page
     - For VA requests, they're sent to the visit type page
 
-### Visit type page (request path)
+### Preferred modality (request path)
 
 - Users must choose the type of visit they'd like to have
     - Office visit

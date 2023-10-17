@@ -1,32 +1,76 @@
 # List of military service fields
 
-Last updated by @tygindraux: October 13, 2023
+Last updated by @tygindraux: October 16, 2023
 
-This list has been sourced from all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)). This is based on their needs, however, we still need to discuss how we design and build these fields. As examples, we could decide to keep them consistent across all categories but only make certain fields required, or, we could decide to remove/add fields depending on a business line's needs.
+Jump to:
+- [When business lines say they need or don't need military service information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information)
+- [How we should use their feedback to inform our designs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#how-we-should-use-their-feedback-to-inform-our-designs)
 
-## When business lines need or don't need military service information
+## When business lines say they need or don't need military service information
 
-This is when business lines have stated they need or don't need particular military service information in Ask VA.
+This is when business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)) have stated they need or don't need particular military service information in Ask VA.
 
-This list is alphabetized by category name. 
+This list is alphabetized by category name. There is also a screenshot of the spreadsheet we used to collect this information in the [appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#appendix).
 
-|Category|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+
+|Category|First/last name|Branch of service|Service number|SSN|DoD/EDIPI|Service start date|Service end date|DOB|Claim number|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|`Benefits issues outside the U.S.`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Burials and memorials`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Center for Minority Veterans`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Center for Women Veterans`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Debt for benefit overpayments and copay bills`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Decision reviews and appeals`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`DEERS (Defense Enrollment Eligibility Reporting System)`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Disability compensation`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Education benefits and work study`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Guardianship, custodianship, or fiduciary issues`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Health care`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Housing assistance and home loans`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Life insurance`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Pension`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Sign in and technical issues`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Survivor benefits`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Veteran ID Card (VIC)`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
-|`Veteran Readiness and Employment`|First and last name|Branch of service|Service number|SSN|DoD/EDIPI Number|Service start date|Service end date|Date of birth|Claim number|
+|`Benefit issues outside the U.S.`: Education|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Benefit issues outside the U.S.`: VBA|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Burials and memorials`: NCA|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Burials and memorials`: VBA|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Center for Minority Veterans`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Center for Women Veterans`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Debt for benefit overpayments and copay bills`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Decision reviews and appeals`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|Updated: `**DON'T NEED**`|
+|`DEERS (Defense Enrollment Eligibility Reporting System)`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Disability compensation`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Education benefits and work study`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Guardianship, custodianship, or fiduciary issues`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Health care`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Housing assistance and home loans`|`NEED`|`**DON'T NEED**`|Updated: `**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Life insurance`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Pension`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Sign in and technical issues`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Survivor benefits`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|"Optional"|
+|`Veteran ID Card (VIC)`|`NEED`|`NEED`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+|`Veteran Readiness and Employment`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`NEED`|`**DON'T NEED**`|`**DON'T NEED**`|`NEED`|`**DON'T NEED**`|
+
+## How we should use their feedback to inform our designs
+
+### Consistent across all categories
+
+- Include these fields as required for all categories, because all business lines agree:
+  - `First name`
+  - `Last name`
+  - `Date of Birth`
+  - `SSN`
+- Remove these fields from the form, because all business lines agree:
+  - `Service start date`
+  - `Service end date`
+  - `Service number`
+  - `Claim number`
+
+### Depends on the category
+- We confirmed again that VBA-ART and `Veteran ID Card (VIC)` need `Branch of Service` as part of their ID protocol requirements, so we need to require `Branch of Service` for at least these categories:
+  - `Veteran ID Card (VIC)`
+  - `Disability compensation`
+  - `Survivor benefits`
+  - `Burials and memorials`
+  - `Center for Women Veterans`
+  - `Benefits issues outside the U.S.`
+- `DoD/EDIPI number` is needed by around 50% of business lines, so we need to require `DoD/EDIPI number' for at least these categories:
+  - `Center for Minority Veterans`
+  - `Decisions reviews and appeals`
+  - `Life insurance`
+  - `Burials and memorials`
+  - `Health care`
+  - `Veteran ID Card (VIC)`
+  - `Veteran Readiness and Employment`
+  - `Sign in and technical issues`
+  - `DEERS (Defense Enrollment Eligibility Reporting System)`
+
+## Appendix
+
+Screenshot of military service information spreadsheet, contributed to by all business lines:
+![image: screenshot of military service information spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/AVA-military-service-fields.png)

@@ -16,7 +16,7 @@ Use this ticket template to request an update to your existing KPI dashboard. To
 
 ### Expected delivery timelines
 
-Once you’ve submitted this ticket template, your KPI dashboard update request will be pulled into the Analytics team’s workflow the following Wednesday during Platform Sprint Planning or Refinement. We expect to deliver your completed dashboard within the next sprint. 
+The Analytics team will notify you once this ticket has been pulled into a sprint. 
 
 
 ## Instructions for the VFS team

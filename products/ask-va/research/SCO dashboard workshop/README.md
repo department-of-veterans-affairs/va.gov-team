@@ -8,6 +8,8 @@ Ask VA (AVA) is an online portal that allows Veterans, caregivers, and supportin
 
 In addition to updating the Ask VA form, we also need to update the Ask VA dashboard. We met with School Certifying Officials (SCOs) to understand how they currently use the Ask VA dashboard and what updates or features would be most beneficial to them. We engaged with SCOs because they are users who typically have a large volume of Ask VA inquiries, which means their dashboard is more "full" and used more frequently.
 
+View the [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694439082995/b37a804f76e3eae53b295792c422244fef6bda9f) where we took notes during this workshop.
+
 ## Research goals
 * Understand the information you need to see when you log into Ask VA
 * Understand when & why you need to filter and sort inquiries

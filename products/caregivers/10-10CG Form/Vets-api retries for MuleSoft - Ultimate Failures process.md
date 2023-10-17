@@ -84,9 +84,7 @@ In the summer of 2022, the 10-10 Health Apps team is implementing the retry capa
           - Patrick Bateman
           - Heather Justice
           - Lihan Li
-          - Lisa Zapson
           - Matt Long
-          - Nick Osmanski
           - VACARMAOperationsTeam@va.gov
           - DTCMulesoftSupport@va.gov
      - Once the coordination begins, the teams can determine whether to start the process of retrieving failed PDF documents to send via an encrypted email to **vha12cspcarmaehr@va.gov** for manual processing

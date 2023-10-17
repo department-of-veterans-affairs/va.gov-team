@@ -16,7 +16,6 @@ Use this template to request access to Google Analytics and/or Domo. Please comp
 Please check the analytics tool(s) you need access to:
 - [ ] Google Analytics
 - [ ] Domo
-- [ ] (Platform Teams only) BigQuery
 
 ## 2. User Email Address to Receive Access 
 **Due to privacy concerns, please do not put your email in this ticket.** Instead please use `/support` on the DSVA Slack channel [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support), select `Analytics` in the "I need help from" dropdown, and then add in the `Summary of request` section: 
@@ -36,4 +35,3 @@ _Once you receive access, you should receive a confirmation email directly from 
 
 ### Definition of Done
 - [ ] Provide access to user
-- [ ] Ensure user received email confirmation

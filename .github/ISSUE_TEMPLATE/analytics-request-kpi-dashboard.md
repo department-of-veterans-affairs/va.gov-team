@@ -21,7 +21,7 @@ If your VA.gov product is not eligible for a standardized dashboard, you may be 
 
 ### Expected delivery timelines
 
-Once you’ve submitted this ticket template, your KPI dashboard request will be pulled into the Analytics team’s workflow the following Wednesday during Platform Sprint Planning or Refinement. We expect to deliver your completed dashboard within **2-4 business** days from this time. 
+The Analytics team will notify you once this ticket has been pulled into a sprint. 
 
 ## Instructions for the VFS team
 In order to pull the correct data for your product, we need your help to define what pages and events to include, in addition to basic product info. We’ll need a filled out [KPI request template](https://docs.google.com/spreadsheets/d/1gipo-h3GCeVPsw6t6tEHJM5dtJMvotVm0LUgbpAeqZY/edit#gid=981224988) before we can pull this ticket into our sprint.

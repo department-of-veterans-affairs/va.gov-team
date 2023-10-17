@@ -195,6 +195,11 @@ Percentage of Users (and roughly how many users do you expect this to be): 1%
             Ticket(s) created to address: N/A
             - [x] Has the issue been resolved?
               - Fixed on LH side
+      -     Rollback reason: Discrepancy between EVSS and LH decision text display
+            Date: 10/16/23
+            Severity/Impact: Low - known issue, non-blocking
+            Ticket(s) created to address: N/A
+            - [] Has the issue been resolved?
 
 ### Stage B: Moderate ramp up
 #### Planning  
