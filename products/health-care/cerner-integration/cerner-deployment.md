@@ -4,6 +4,7 @@ In August 2023, along with Cerner's Block 9 release, Clinical Decision Support C
 - [Lung Cancer Screening v2 (LCSv2)](https://github.com/department-of-veterans-affairs/lung-cancer-screen-and-track/wiki)
 
 ## Block Release Approval Teams
+Once our EHRM PM Rick Ross had us slated for the Block 9 Release, we worked with an assigned Cutover Specialist Larry Thorne who connected us to the approval teams.
 
 ### 1. T&E (Test & Evaluation) Team 
 - provide testing use cases
@@ -28,7 +29,7 @@ In August 2023, along with Cerner's Block 9 release, Clinical Decision Support C
 - Main contact(s): Larry Thorne, Ben Wall
 ### 5. Federal Change Control Board (FCCB) - this is the joint DoD / VA change management
 - Meet with Cerner to discuss change control process
-- Complete change control request form
+- Complete change control request form - this led to that team creating a CR in Jazz 
 - Meetings: Vendor Change Management meeting and FCCB meeting for approvals
 - Provide whatever they ask in between submission and approval
 - Main contact(s): ?
