@@ -80,7 +80,7 @@ Thanks for your patience in figuring that out.
 
 ## Interview - 50 minutes 
 
-Great, now that we have done the hardest part of the interview. I'd like you to know that I will share two prototype links with you during our chat today. So, now I will share with you the first link. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
+Great, now the fun part begins. I'd like you to know that I will share two prototype links with you during our chat today. So, now I will share with you the first link. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
 
 Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
 
