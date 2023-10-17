@@ -148,7 +148,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Before
  - Existing Paper form, not currently available to the general public dipicted below.
-file:///C:/Users/vhaisbhughec/Desktop/Picture1.png
+
 ### After
 
 ---
