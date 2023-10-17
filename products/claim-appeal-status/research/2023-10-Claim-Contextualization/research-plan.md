@@ -75,6 +75,7 @@ The intended audiences is Veterans who at some point filed a disability compensa
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
 
 Pilot participant email: rocio@coforma.io
+
 Date and time of pilot session: TBD
 
 ### Research sessions
@@ -87,4 +88,10 @@ Dates TBD
 8 AM - 6 PM ET
 	
 ## Team Roles	
-TBD
+- Moderator: Skyler Schain (skyler@coforma.io)	
+- Research guide writing and task development (usually but not always same as moderator): Skyler Schain	(skyler@coforma.io)
+- Participant recruiting & screening: Perigean
+- Project point of contact: Skyler Schain (skyler@coforma.io)
+- Participant(s) for pilot test: Rocio De Santiago (rocio@coforma.io)
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	Josh Kim (josh.kim@adhocteam.us)
+- Observers: Gary Homidas (gary.homidas@adhocteam.us), Lauren Sinreich (lauren.sinreich@coforma.io), Julie Strothman (julie.strothman@va.gov), Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Heather Widmont (heather.widmont@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us)
