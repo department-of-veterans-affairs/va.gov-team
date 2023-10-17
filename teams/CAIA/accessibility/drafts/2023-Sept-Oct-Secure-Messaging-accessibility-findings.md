@@ -31,9 +31,9 @@ To best serve the users of VA.gov, we will need to collect the following informa
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
 | P1                   | 9/25/2023         | VoiceOver             | Advanced      | iOS            | Safari    | Mobile (iPhone 14 Pro)      |
-| P3                       | 9/25/23                 | VoiceOver                   | Intermediate                | MacOS                     | Safari            | Desktop            |
-| P6                       | 9/26/23                 |  JAWS                  | Intermediate                |  Windows                    |  Chrome           | Desktop            |
-| P9                       | 9/29/23                 |  VoiceOver                  |  Advanced               |   MacOS                   |  Safari           |  Desktop           |
+| P3                       | 9/25/2023                 | VoiceOver                   | Intermediate                | MacOS                     | Safari            | Desktop            |
+| P6                       | 9/26/2023                 |  JAWS                  | Intermediate                |  Windows                    |  Chrome           | Desktop            |
+| P9                       | 9/29/2023                 |  VoiceOver                  |  Advanced               |   MacOS                   |  Safari           |  Desktop           |
 
 **Participants who successfully completed sessions: 4**
 
