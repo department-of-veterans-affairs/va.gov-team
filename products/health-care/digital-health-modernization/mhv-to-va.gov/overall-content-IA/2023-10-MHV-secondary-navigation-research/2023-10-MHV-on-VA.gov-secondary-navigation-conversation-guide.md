@@ -80,55 +80,52 @@ Thanks for your patience in figuring that out.
 
 ## Interview - 50 minutes 
 
-Now I need to share with you a link to the prototype. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
+Great, now that we have done the hardest part of the interview. I'd like you to know that I will share two prototype links with you during our chat today. So, now I will share with you the first link. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
 
 Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
 
-_Send link to prototype:
+_Send link to prototype:_
 
-**_Task 1 - (Start from MHV landing page and already signed in) You are going on a long overseas trip soon. You need to download your medical records and your recent lab results that prove you have hepatitis A.**  It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+### Flat prototype (new design)
+
+**Task 1 - (Start from the signed-in MHV landing page) You are going on a long overseas trip soon. You need to download your medical records and your recent lab results that prove you have hepatitis A.**  It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+- (_If use search functionality_): Please tell me why you searched for that term. What information were you hoping it would bring up?
 - What do you think should happen if you (_do something_)?
 - (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the information around what was decided for the next steps in your care. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
-- (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_signing in/ clicking on My HealtheVet tab_)?
-- (_If participant still cannot find AVS, direct them to either MR and continue with the interview._) 
+- (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on the second menu_)?
+- (_If participant still cannot find it, direct them to it and continue with the interview._)
+- (_Observe_) Does participant know to scroll on the menu?
+- (_Observe_) Where does participant click first, and why?
+- (_Observe_) Does participant click on medical records on the menu, or does participant click the sub-category when navigating from download to lab results? 
 
 
-**_Task 2 - (from where they last off) ** 
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
-- What are you thinking as you (_go somewhere, do something_)? 
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-- What do you think should happen if you (_do something_)? 
-
-
-
-**_Task 3a - _** 
+**Task 2 - (from where they last off) Then, you want to check your new doctor's full name for your recent appointment because you don't remember.** 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
-- Why did you (_do that, go there, try that_)? 
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-- What do you think should happen if you (_do something_)? 
+- What do you think should happen if you (_do something_)?
 
-**_Task 3b - _**  Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
+Ask: 
+- (_If participant looks for past appointments in the secondary nav._) Do you think you'd find past appointments in the menu, and why?
+- (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments? 
 
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
-- What are you thinking as you (_go somewhere, do something_)? 
-- Why did you (_do that, go there, try that_)? 
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-- What do you think should happen if you (_do something_)? 
 
-**_Task 4 - _** 
+### Tool-only prototype (current)
+
+**Task 3 - (Start from MHV landing page) Imagine you need to regularly manage your health regularly due to a chronic condition. Today is the time to do that, and there are a couple of things you need to do. You need to check which medications need to be renewed soon, then you want to ask your doctor how to renew them.** 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
 - Why did you (_do that, go there, try that_)? 
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
 - What do you think should happen if you (_do something_)? 
+
+**If participant clicks on mega menu during any task, don't let them go further, but ask:**
+- What do you expect to find there?
+- What do you think the differences are between the main and secondary menus (pointing them out)?
+- (_if participant click on something on main menu_) Where are you now, and can you get back to where you were? 
 
 
 - **I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
