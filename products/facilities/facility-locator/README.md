@@ -29,7 +29,7 @@ Search results connect to modernized websites for VAMCs and Vet Centers or legac
 ## Engineering
 - [Engineering Index](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md)
 - [Technical Documentation and Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/technical-documentation.md)
-- [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/error_states.md)
+- [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/error_states.md)
 - [Process for reporting inaccurate data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md)
 
 ## UX

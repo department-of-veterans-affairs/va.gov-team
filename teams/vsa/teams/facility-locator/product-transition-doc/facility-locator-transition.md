@@ -1,5 +1,7 @@
 # VSA Facility Locator product transition document | March 2022
 
+NO LONGER MAINTAINED
+
 <br>
 
 > The purpose of this transition document is to outline the current state of VA.gov's Facility Locator. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
@@ -39,7 +41,7 @@ It is the newer version of [VA's Legacy directory](https://www.va.gov/directory/
 - [Legacy DOMO dashboard](https://va-gov.domo.com/page/1129885232)
 - [Mission Act DOMO Dashboard](https://va-gov.domo.com/page/1865233622?userId=1405356294) also contains community care search data from the Facility Locator
 - [Mapbox](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/mapbox)
-- [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/error_states.md#error-states-and-steps-for-resolution)
+- [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/error_states.md#error-states-and-steps-for-resolution)
 - [Issue response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/technical-documentation.md#incident-response)
 - [Process for reporting inaccurate data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md)
 - [PPMS forum](https://dvagov.sharepoint.com/sites/OITDSOSPMPPMSDWS)
