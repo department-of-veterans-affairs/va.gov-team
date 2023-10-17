@@ -203,11 +203,20 @@ Below is a list of reasons why **some participants said that they were NOT eligi
 
 > *"I know I'm not eligible so I don't want to waste anybody's time, including my own" (p10).*
 
+A different participant who's 100% disabled said that they **planned to file for PACT Act benefits in order to add more service-related disabilities to their record**. They knew that they couldn't get any more disability money, but they wanted the potential for extra DIC (Dependency and Indemnity Compensation) death benefits to their next of kin if they died of a service-related disability.
+
+Another participant heard that they **could be eligible for PACT Act benefits by serving in a specific region--even if you don't have any medical conditions--because of presumed exposure.** One of the pilot participants also thought this might be the case because of the "presumption of exposure" content on the *You may be eligible* results page.
+
+> *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
 
 RECOMMENDATIONS: 
 1. Consider adding more information to the main PACT Act page, and link from there to this wizard:
-       1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add a Q&A about this on the PACT page]*
-       1. Burn pit registry is not connected to PACT Act eligibility, and so you should apply for PACT Act benefits.
+     
+     1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add a Q&A about this on the PACT page]*
+
+     1. You must have a disability in order to get compensation, but not necessarily a presumptive condition. Just being in a specific location and getting exposed to toxic substances isn't enough. 
+       
+     1. Burn pit registry is not connected to PACT Act eligibility, and so you should apply for PACT Act benefits.
 1. Consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits.
 
 ### Something about results...
