@@ -62,7 +62,7 @@ Excellent. Thanks so much for your answers.
 
 ## Scenario
 
-Imagine you are having trouble logging in to VA.gov, so you searched the website on how to log in and you landed on resource and support. Before you leave the resources and support page, you want to ensure that you leave feedback to rate your experience pn the site today.Today we’ll look at a concept for rating your experience when searching for resources and support on VA.gov.
+Imagine you are having trouble logging in to VA.gov, so you searched the website on how to sign in and you landed on signing in to VA. gov on a resources and support page.Now let's imagine that you are unable to find the sign in information you were looking for. Before you leave the page, you want to ensure that you rate your experience for signing in to VA. gov on a resources and support page .Today, we’ll look at a concept for rating your experience when on a resources and support page for signing in on VA.gov.
 
 Prototype [https://www.figma.com/file/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=23%3A2842&mode=design&t=4CJrjiVbW90jWh1M-1]
  
@@ -80,12 +80,11 @@ Where would you go to give feedback on your experience about signing in to VA.go
 - [Does the participant notice the rate your experience feedback  mechanism on the page?]
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 
-1. [Verbal Response] You have decided that you are interested in learning more about signing in to VA.gov, so you click on Signing in to VA.gov name underlined in blue on the resources and support page. 
-2. [Verbal Response] You want to rate the sign-in to VA .gov page. Without clicking/typing anything, please describe where you would go on the screen to rate this page. 
-3. [Verbal Response] I want to direct your attention to the “Rate your experience” feedback mechanism at the bottom of this page. Without clicking/typing anything, please describe what you think will happen if you click the “good” or “bad” button.
-4. [Verbal Response] In what instances would you use the “Good” button? Why? 
-5. [Verbal Response] In what instances would you use the “Bad” button? Why?
-6. [Verbal Response] Imagine you did not find the sign in information you were looking for. Click the “Bad” button. Please describe what the “Bad” response has done on this screen. What does the form look like to you?
+1. [Verbal Response] You want to rate the sign-in to VA .gov page. Without clicking/typing anything, please describe where you would go on the screen to rate this page. 
+2. [Verbal Response] I want to direct your attention to the “Rate your experience” feedback mechanism at the bottom of this page. Without clicking/typing anything, please describe what you think will happen if you click the “good” or “bad” button.
+3. [Verbal Response] In what instances would you use the “Good” button? Why? 
+4. [Verbal Response] In what instances would you use the “Bad” button? Why?
+
 
 
 ##  What→ Bad Response/Ideal Responses/Enhancements/Hesitation for the feedback mechanism 
