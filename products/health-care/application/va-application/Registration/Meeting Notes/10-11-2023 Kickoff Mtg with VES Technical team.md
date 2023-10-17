@@ -1,10 +1,11 @@
 ## Oct 11, 2023 | CR# VES-24470 - Create Registration Only Form on va.gov
 
-### Notes
+### VES Team
 - Shawn Edwards - Biz Analyst lead
 - Ashuntus Frye BA
 - Kevin Palmer - PO
 
+### Notes
 - Different from enrollment
 - Will be a different service call, VES is creating a Registration service call
 - Requires only a small set of fields, compared to EZ
