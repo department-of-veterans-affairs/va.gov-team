@@ -59,11 +59,14 @@ Before we start, I have a few things that I want to go over with you:
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+1. Do you have a service-connected disability at VA?
+- If yes: what is your disability rating?
+- If no, skip to question 2.
+2. 
 
 ## First Task: [TASK NAME] - X minutes
 
