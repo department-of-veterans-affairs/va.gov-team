@@ -25,12 +25,16 @@ ________________________________________________________________________________
    - **Sub Goals: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
        - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) [[FE] Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423)
    - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65414)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Wireframe UI solution for communication of BT claim statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66762)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Make Decisions about CodePen Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65419)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65418)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Create Card Sort Activity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67163)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Complete Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67164)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Content] Create Content for Claim Status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67165)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Content] Write action link text for file a BT claim for appts list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67737)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Create content and wireframe for Completion page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67736)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Create content and wireframe for Review Your Travel Claim page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67735)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Content] cCreate content for filing a claim for a specific appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67734)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**   
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
@@ -54,16 +58,10 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
 - **GOAL: Address tech & design debt**        
-    - **Sub Goal: Make the Switch to Version 3 of the Design System** 
-        - **EPIC: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64071)**
-            - TBD
-    - **Sub Goal: Transition Wireframes to Figma**
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Develop a Plan to Transition to Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67767)
     - **Sub Goal: Miscenallenous debt**
          - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] - Update dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65691)
          - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Add Disclaimer to the Product Guides that they DO NOT Contain any PHI/PII](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67175)+
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Move "old" feature pages in unified check in sketch file to {where} (f/u from 66318)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67167)
-         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Placeholder for other f/u from 66318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67168)
 
  ---------- FUTURE / TENTATIVE --------------
 __________________________________________________________________________________________________________________________________________________________
