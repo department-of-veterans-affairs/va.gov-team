@@ -181,16 +181,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
  
 _What offices/departments are critical to make this initiative successful?_
-- Office/Department: 
-        - OIT and NCA/BTRS and NCSO
-- Contact(s):
-         - OIT
-  - Kadiresan, Sathish K. Sathish.Kadiresan@va.gov
-         - NCA/BTRS
-                  - Wilson, Ginger Ginger.Wilson@va.gov
-                  - Jones, Rhonda M. Rhonda.Jones1@va.gov
-         - NCA/NCSO
-                  - Dalrymple, Jay Jay.Dalrymple@va.gov
-                  - Ridgeway, Kevin Kevin.Ridgeway@va.gov
+        - Office/Department: 
+                - OIT and NCA/BTRS and NCSO
+        - Contact(s): 
+                - OIT
+                        - Kadiresan, Sathish K. Sathish.Kadiresan@va.gov
+                 - NCA/BTRS
+                          - Wilson, Ginger Ginger.Wilson@va.gov
+                          - Jones, Rhonda M. Rhonda.Jones1@va.gov
+                 - NCA/NCSO
+                          - Dalrymple, Jay Jay.Dalrymple@va.gov
+                          - Ridgeway, Kevin Kevin.Ridgeway@va.gov
 
 </details>
