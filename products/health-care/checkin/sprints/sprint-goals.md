@@ -120,6 +120,9 @@ ________________________________________________________________________________
          - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE][TECH DEBT] - Increase function coverage in unit tests](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67398)
             - Pulled in half-way through sprint
     - **Miscellaneous**
+         - Added half-way through sprint
+             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Tagalog Translation Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67173)
+             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Spanish Translation Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67423)- 
          - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Wireframe for Current Text Message to Add "When you arrive at the facility....."](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66338)
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [DESIGN] Questions to consider for reducing design overhead](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66318)
          - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Sketch spacing and typography clean up](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66233)
