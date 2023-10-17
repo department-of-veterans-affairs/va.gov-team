@@ -1,6 +1,6 @@
 # List of military service fields
 
-Last updated by @tygindraux: October 16, 2023
+Last updated by @tygindraux: October 17, 2023
 
 Jump to:
 - [When business lines say they need or don't need military service information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information)
@@ -10,7 +10,7 @@ Jump to:
 
 This is when business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)) have stated they need or don't need particular military service information in Ask VA.
 
-This list is alphabetized by category name.
+This list is alphabetized by category name. Each field is marked as:
 
 - NEED - Business lines need this information to answer an inquiry. It is a required field.
 - DON'T NEED - Business lines don't need this information to answer an inquiry. It is hidden from the form, but the field still exists in the back-end. 
