@@ -31,63 +31,9 @@ Categories are listed in order of `rank field`. This means that the most used ca
 |`Category`|Women Veterans' Issues|[Center for Women Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#center-for-women-veterans)|
 |`Category`|VA Center for Minority Veterans|[Center for Minority Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#center-for-minority-veterans)|
 
-## Health care
-
-Topics are listed in alphabetical order.
-
-`Category`: Health care
-
-|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
-|:--|:--|:--|
-|`Topic`|VHA Audiology & Hearing Aids|Audiology and hearing aids|
-|`Topic`|National Recruitment Services (NRS)|Career opportunities at VA health facilities|
-|`Topic`|VA Caregiver Support Program|Caregiver support program|
-|`Topic`|Health Eligibility/Enrollment (Veterans)|Eligibility and how to apply|
-|`Topic`|Health and Medical Programs for Family Members|Family health benefits|
-|`Topic`|FMP- Foreign Medical Programs <br> (Medical Care for Vets Traveling/Living Abroad)|Foreign Medical Program|
-|`Topic`|Medical Care Concerns at a VA Medical Facility|Getting care at a local VA medical center|
-|`Topic`|VHA Prosthetics|Prosthetics|
-|`Topic`|Vet Center / Readjustment Counseling Service (RCS)|Vet Centers and readjustment counseling|
-|`Topic`|Women Veterans Health Care|Women's health services|
-
-Subtopics are listed in alphabetical order.
-
-`Topic`: Family health benefits
-
-|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
-|:--|:--|:--|
-|`Subtopic`|CHAMPVA- Family Member Health & Medical Programs|CHAMPVA benefits|
-|`Subtopic`|CHAMPVA CITI (Family Member VA Care)|CHAMPVA In-House Treatment Initiative (CITI)|
-|`Subtopic`|Spina Bifida Program for Children of Vet|Spina Bifida Health Care Benefits Program|
-
-`Topic`: Caregiver support program
-
-|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
-|:--|:--|:--|
-|`Subtopic`|Program of Comprehensive Assistance for Family Caregiver|Program of Comprehensive Assistance for Family Caregivers (PCAFC)|
-|`Subtopic`|Program of General Caregiver Support Services|Program of General Caregiver Support Services (PGCSS)|
-
-`Topic`: Prosthetics
-
-|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
-|:--|:--|:--|
-|`Subtopic`|(New)|Eligibility for special benefits related to prosthetics|
-|`Subtopic`|(New)|Special benefits application status|
-
-## Disability compensation
-
-`Category`: Disability compensation
-
-|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
-|:--|:--|:--|
-|`Topic`|Aid & Attendance Benefits|Aid and Attendance or Housebound benefits|
-|`Topic`|Direct deposit inquiries|Direct deposit|
-|`Topic`|Filing for compensation benefits|How to file a disability claim|
-|`Topic`|Guardianship or Custodianship Issues|Guardianship, custodianship, or fiduciary issues|
-|`Topic`|Issues/Questions about compensation received|Issue with compensation received|
-|`Topic`|Status of a pending claim|Checking claim status|
-
 ## Education benefits and work study
+
+Topics are listed in `alphabetical` order.
 
 `Category`: Education benefits and work study
 
@@ -114,6 +60,8 @@ Subtopics are listed in alphabetical order.
 |`Topic`|(New)|Licensing and testing fees|
 |`Topic`|(New)|Upload documents|
 
+Subtopics are listed in `alphabetical` order.
+
 `Topic`: Work study
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
@@ -123,6 +71,64 @@ Subtopics are listed in alphabetical order.
 |`Subtopic`|Position Description|Position description|
 |`Subtopic`|Signed Contracts|Signed contract|
 |`Subtopic`|Time Cards|Time card|
+
+## Disability compensation
+
+Topics are listed in `alphabetical` order.
+
+`Category`: Disability compensation
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|Aid & Attendance Benefits|Aid and Attendance or Housebound benefits|
+|`Topic`|Direct deposit inquiries|Direct deposit|
+|`Topic`|Filing for compensation benefits|How to file a disability claim|
+|`Topic`|Guardianship or Custodianship Issues|Guardianship, custodianship, or fiduciary issues|
+|`Topic`|Issues/Questions about compensation received|Issue with compensation received|
+|`Topic`|Status of a pending claim|Checking claim status|
+
+## Health care
+
+Topics are listed in `alphabetical` order.
+
+`Category`: Health care
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Topic`|VHA Audiology & Hearing Aids|Audiology and hearing aids|
+|`Topic`|National Recruitment Services (NRS)|Career opportunities at VA health facilities|
+|`Topic`|VA Caregiver Support Program|Caregiver support program|
+|`Topic`|Health Eligibility/Enrollment (Veterans)|Eligibility and how to apply|
+|`Topic`|Health and Medical Programs for Family Members|Family health benefits|
+|`Topic`|FMP- Foreign Medical Programs <br> (Medical Care for Vets Traveling/Living Abroad)|Foreign Medical Program|
+|`Topic`|Medical Care Concerns at a VA Medical Facility|Getting care at a local VA medical center|
+|`Topic`|VHA Prosthetics|Prosthetics|
+|`Topic`|Vet Center / Readjustment Counseling Service (RCS)|Vet Centers and readjustment counseling|
+|`Topic`|Women Veterans Health Care|Women's health services|
+
+Subtopics are listed in `alphabetical` order.
+
+`Topic`: Family health benefits
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|CHAMPVA- Family Member Health & Medical Programs|CHAMPVA benefits|
+|`Subtopic`|CHAMPVA CITI (Family Member VA Care)|CHAMPVA In-House Treatment Initiative (CITI)|
+|`Subtopic`|Spina Bifida Program for Children of Vet|Spina Bifida Health Care Benefits Program|
+
+`Topic`: Caregiver support program
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|Program of Comprehensive Assistance for Family Caregiver|Program of Comprehensive Assistance for Family Caregivers (PCAFC)|
+|`Subtopic`|Program of General Caregiver Support Services|Program of General Caregiver Support Services (PGCSS)|
+
+`Topic`: Prosthetics
+
+|Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
+|:--|:--|:--|
+|`Subtopic`|(New)|Eligibility for special benefits related to prosthetics|
+|`Subtopic`|(New)|Special benefits application status|
 
 ## Veteran Readiness and Employment
 
