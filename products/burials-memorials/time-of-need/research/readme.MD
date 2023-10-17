@@ -21,15 +21,22 @@ Funeral Homes, Veterans, family members, and personal representatives lack a way
     - Veterans, family members, and personal representatives will be able to submit interment requests on their own time (24-7) and have a less emotionally draining experience, answering potentially sensitive questions over the phone, in their time of grief.
 
 ## Undesired User Outcomes
-
+- Longer time to create interment requests.
+-	Inability to use the form without calling the NCSO.
 
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
+ - The NSCO wants to provide the best experience possible to Funeral Homes, Veterans, family members, and personal representatives in their most difficult and trying time.
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+ - The NCSO will be able to process ToN internment requests more effectively and efficiently because cases will be populated with critical information needed to determine eligibility for burial, desired date/time of interment/services, and contact information of key individuals on ingestion.
+ - Greater data accuracy for the NCSO due to the reduction of manual data entry.
+ - Reduction of hold times for callers to the NCSO; because the ToN Self-Service form will be available on VA.gov, in turn improving the overall experience.
+
 
 ## Undesired Business Outcomes
-
+- Increased processing times for interment requests.
+- Decreased satisfaction for interment/service requests with the NCSO.
 
 ---
 ## Measuring Success
@@ -37,9 +44,24 @@ Funeral Homes, Veterans, family members, and personal representatives lack a way
 
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+ - User feedback ratings on ToN Self Service form
+ - Processing time to submit the form
+ - Submitted and failed submission metrics
+ - Sessions to complete
+ - Open form metrics
+ - Failed submission errors to determine root the cause
+ - Surveys with user feedback on the NCSO side
+ - Comparative processing times for ToN cases with the NCSO created in CaMEO MBMS vs. created in VA.gov
 * _What are the most important metrics that track with this product/initiative's success?_
+ - User feedback ratings on ToN Self Service form
+ - Processing time to submit the form
+ - Submitted and failed submission metrics
+ - Open form metrics
+ - Failed submission errors to determine root the cause
 * _Include links to Domo or Google Analytics Dashboards/Reports_
+- TBD
 * _**Limit 5-6 KPIs per product**__
+- TBD
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
