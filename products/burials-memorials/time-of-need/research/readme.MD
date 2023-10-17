@@ -59,9 +59,9 @@ Funeral Homes, Veterans, family members, and personal representatives lack a way
   - Open form metrics
   - Failed submission errors to determine root the cause
 * _Include links to Domo or Google Analytics Dashboards/Reports_
- - TBD
+  - TBD
 * _**Limit 5-6 KPIs per product**__
- - TBD
+  - TBD
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
