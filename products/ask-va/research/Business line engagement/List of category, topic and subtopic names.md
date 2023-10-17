@@ -33,20 +33,22 @@ Categories are listed in order of `rank field`. This means that the most used ca
 
 ## Health care
 
+Topics are listed in alphabetical order.
+
 `Category`: Health care
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
-|`Topic`|Health and Medical Programs for Family Members|Family health benefits|
-|`Topic`|Health Eligibility/Enrollment (Veterans)|Eligibility and how to apply|
-|`Topic`|Medical Care Concerns at a VA Medical Facility|Getting care at a local VA medical center|
+|`Topic`|VHA Audiology & Hearing Aids|Audiology and hearing aids|
 |`Topic`|National Recruitment Services (NRS)|Career opportunities at VA health facilities|
 |`Topic`|VA Caregiver Support Program|Caregiver support program|
-|`Topic`|Vet Center / Readjustment Counseling Service (RCS)|Vet Centers and readjustment counseling|
-|`Topic`|VHA Audiology & Hearing Aids|Audiology and hearing aids|
-|`Topic`|VHA Prosthetics|Prosthetics|
-|`Topic`|Women Veterans Health Care|Women's health services|
+|`Topic`|Health Eligibility/Enrollment (Veterans)|Eligibility and how to apply|
+|`Topic`|Health and Medical Programs for Family Members|Family health benefits|
 |`Topic`|FMP- Foreign Medical Programs <br> (Medical Care for Vets Traveling/Living Abroad)|Foreign Medical Program|
+|`Topic`|Medical Care Concerns at a VA Medical Facility|Getting care at a local VA medical center|
+|`Topic`|VHA Prosthetics|Prosthetics|
+|`Topic`|Vet Center / Readjustment Counseling Service (RCS)|Vet Centers and readjustment counseling|
+|`Topic`|Women Veterans Health Care|Women's health services|
 
 `Topic`: Family health benefits
 
