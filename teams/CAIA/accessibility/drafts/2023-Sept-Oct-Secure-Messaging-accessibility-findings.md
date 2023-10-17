@@ -83,11 +83,11 @@ In this section feel free to segment populations based on the trends we see with
 > "Auto save and save are two different things and it might be somewhat confusing, especially based on the sequential order it is occurring, where I would almost have to say I prefer the save draft, delete draft and send in that order, otherwise you go to send and you think that is it. Send is usually the last option and once you made it there that is it." - P9, on saving messages and the location of the 'Send' button
 
 ## a11y Recommendations
-- Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment").
+- Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment"). **Experience standards:** `Category 11` `Issue 11` ("Pages don't require sensory characteristics to be understood or operable.")
 - Users should be made aware right away that their messages will be auto-saved, and where those messages are saved to. And you may want to remove the "save draft" button entirely to reduce confusion?
 - It can take a long time for screen reader users to have page content read to them, so redundant/repeated text can be cumbersome to get through. When it comes to the liability and crisis line messages:
-  - You might want to consider removing one instance of them.
-  - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first.
+  - You might want to consider removing one instance of them. **Experience standards:** `Category 03` `Issue 04` ("A user flow doesn't have repetitive or redundant steps.")
+  - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first. **Experience standards:** `Category 09` `Issue 03` ("Button and link language is descriptive and/or their purpose is clear.")
 
 ### If we don't have enough data or research to know...
 Point out the gaps
