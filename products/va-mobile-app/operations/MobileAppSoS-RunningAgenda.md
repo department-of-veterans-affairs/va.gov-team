@@ -64,7 +64,9 @@
 <details>
 <Summary>Historical Agendas and Meeting Notes </Summary>
 
-## Old Agendas
+## 10/3/23 Agenda
+ * Repurposed for Q3 planning
+ * Contact Kelly Lein / Matt Hall for planning materials, decisions
 
 ## 9/19/23 Agenda:
 
