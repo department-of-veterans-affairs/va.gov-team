@@ -15,7 +15,7 @@ Start here ---> [VA.gov Facilities and Services Product Portfolio README](https:
 
 #### Product Documentation
 Start here ---> [Facility Locator README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)
-- [Technical documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/technical-documentation.md)
+- [Technical documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/technical-documentation.md)
 - [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/error_states.md)
 - [Process for reporting inaccurate data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md)
 - [Facility Locator Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/contact-center.md) | March 2022

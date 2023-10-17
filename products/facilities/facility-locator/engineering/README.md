@@ -3,8 +3,8 @@
 ## Key resources
 
 **Basic architecture**
-- [Facility Locator technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/technical-documentation.md)
-- [Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/technical-documentation.md#incident-response)
+- [Facility Locator technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/technical-documentation.md)
+- [Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/technical-documentation.md#incident-response)
 - [Backend Documentation (below)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/engineering/README.md#backend-documentation---nov-2019)
 - [API data (below)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/engineering/README.md#api-data)
 - [PPMS troubleshooting (below)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/engineering/README.md#ppms-troubleshooting)
