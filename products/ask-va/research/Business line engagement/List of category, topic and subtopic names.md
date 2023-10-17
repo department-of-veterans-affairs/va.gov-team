@@ -50,12 +50,14 @@ Topics are listed in alphabetical order.
 |`Topic`|Vet Center / Readjustment Counseling Service (RCS)|Vet Centers and readjustment counseling|
 |`Topic`|Women Veterans Health Care|Women's health services|
 
+Subtopics are listed in alphabetical order.
+
 `Topic`: Family health benefits
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
-|`Subtopic`|CHAMPVA CITI (Family Member VA Care)|CHAMPVA In-House Treatment Initiative (CITI)|
 |`Subtopic`|CHAMPVA- Family Member Health & Medical Programs|CHAMPVA benefits|
+|`Subtopic`|CHAMPVA CITI (Family Member VA Care)|CHAMPVA In-House Treatment Initiative (CITI)|
 |`Subtopic`|Spina Bifida Program for Children of Vet|Spina Bifida Health Care Benefits Program|
 
 `Topic`: Caregiver support program
