@@ -27,9 +27,9 @@ Funeral Homes, Veterans, family members, and personal representatives lack a way
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
- - The NSCO wants to provide the best experience possible to Funeral Homes, Veterans, family members, and personal representatives in their most difficult and trying time.
+     - The NSCO wants to provide the best experience possible to Funeral Homes, Veterans, family members, and personal representatives in their most difficult and trying time.
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
- - The NCSO will be able to process ToN internment requests more effectively and efficiently because cases will be populated with critical information needed to determine eligibility for burial, desired date/time of interment/services, and contact information of key individuals on ingestion.
+     - The NCSO will be able to process ToN internment requests more effectively and efficiently because cases will be populated with critical information needed to determine eligibility for burial, desired date/time of interment/services, and contact information of key individuals on ingestion.
  - Greater data accuracy for the NCSO due to the reduction of manual data entry.
  - Reduction of hold times for callers to the NCSO; because the ToN Self-Service form will be available on VA.gov, in turn improving the overall experience.
 
