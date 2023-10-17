@@ -62,45 +62,48 @@ Excellent. Thanks so much for your answers.
 
 ## Scenario
 
-Imagine you are having trouble logging in to VA.gov, so you searched the website on how to log in and you landed on resource and support. Before you leave the resources and support page, you want to ensure that you leave feedback to rate your experience pn the site today.Today we’ll look at a concept for rating your experience when searching for resources and support on VA.gov.
+Imagine you are having trouble logging in to VA.gov, so you searched the website on how to sign in and you landed on signing in to VA. gov on a resources and support page.Now let's imagine that you are unable to find the sign in information you were looking for. Before you leave the page, you want to ensure that you rate your experience for signing in to VA. gov on a resources and support page .Today, we’ll look at a concept for rating your experience when on a resources and support page for signing in on VA.gov.
 
 Prototype [https://www.figma.com/file/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=23%3A2842&mode=design&t=4CJrjiVbW90jWh1M-1]
  
 
 ## What → Resources and Support + Signing in to VA.gov 
-o	Start with browse topics. 
-o	Click on Signing in to VA.gov.
-o	Scroll down the Signing in to VA.gov. 
-o	Click on Rate your experience. 
-o	Select feedback options. 
+o	Scroll down the Signing in to VA.gov. page
 
-Where would you go to give feedback on your experience about signing in to VA.gov? 
+o	View the Rate your experience feedback mechanism
+
+o	Select feedback options and explain.
+
+Where would you go to give feedback on your experience of signing in to VA.gov? 
 
 ### Things to watch for:
 - [Does the participant notice the rate your experience feedback  mechanism on the page?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 
-1. [Verbal Response] You have decided that you are interested in learning more about signing in to VA.gov, so you click on Signing in to VA.gov name underlined in blue on the resources and support page. 
-2. [Verbal Response] You want to rate the sign-in to VA .gov page. Without clicking/typing anything, please describe where you would go on the screen to rate this page. 
-3. [Verbal Response] I want to direct your attention to the “Rate your experience” feedback mechanism at the bottom of this page. Without clicking/typing anything, please describe what you think will happen if you click the “good” or “bad” button.
-4. [Verbal Response] In what instances would you use the “Good” button? Why? 
-5. [Verbal Response] In what instances would you use the “Bad” button? Why?
-6. [Verbal Response] Imagine you did not find the sign in information you were looking for. Click the “Bad” button. Please describe what the “Bad” response has done on this screen. What does the form look like to you?
+1. You want to rate the sign-in to VA.gov page. Without clicking/typing anything, please describe where you would go on the screen to rate this page. 
+2. I want to direct your attention to the “Rate your experience” feedback mechanism at the bottom of this page. Without clicking/typing anything, please describe what you think will happen if you click the “good” or “bad” button.
+3.  In what instances would you use the “Good” button? Why? 
+4.  In what instances would you use the “Bad” button? Why?
+5.  In what instances might you report a problem on the page? Why?
+
 
 
 ##  What→ Bad Response/Ideal Responses/Enhancements/Hesitation for the feedback mechanism 
 o	Overview/thoughts on Rate your experience. 
+
 o	Overview thoughts on updated Medallia form. 
+
 o  Any questions for me? 
 
-Imagine you want to give feedback on the content of the page.
+Imagine you want to provide more details about your experience on the page. In what instances might you want to share more details , and why? 
 
 ### Things to watch for:
+
 - [What does the participant expect after submitting feedback?]
 
-1. 	[Verbal Response] Without clicking/typing anything, please describe if the responses on the form reflect the information you would like to share. What information would you want to add or remove from the form and why?  
-2. 	[Verbal Response]In what instances would you use the  "Written response option? Why? 
-3. 	[Verbal Response] To return to the home page click the “Thanks for submitting your feedback” on the page. When done, click next.
+1. 	Please describe if the responses on the form reflect the information you would like to share. What information would you want to add or remove from the form and why?
+   
+2. 	In what instances would you use the  "Written response option? Why? 
+
 
 ## Consent to use video clips
 

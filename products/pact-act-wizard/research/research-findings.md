@@ -69,7 +69,7 @@ We conducted **remote usability testing** over Zoom on October 2-6, 2023 to get 
 Perigean recruited the participants.
 
 **We talked to 9 Veterans**, one of whom was also a Veteran's family member (spouse).
--  *Most (8 of 9) had NOT applied for VA benefits under the PACT Act*. The one who did had applied just the week before.
+-  *Most (8 of 9) had NOT applied for VA benefits under the PACT Act*. The one who did had applied just the week before through the American Legion.
 - 4 served in *1989 or earlier*, 2 served in *1990 or later*, and 3 served *during both* periods of time.
 - *Most (8 of 9) used a computer* during the session; only 1 used a smartphone.
 
@@ -149,7 +149,7 @@ A different participant was thinking about the campaigns she served in and not t
 
 A third participant didn't select "both time periods" until his second time through the survey. He seemed to think that the word **"serve" meant instead "started" or "joined" because he asked whether it includes his training**. The reason is that he joined in Aug 1989 and did basic training and tech training but didn't actually start serving until 1990. And *"you're really not in the military until after training" (p4).*
 
-RECOMMENDATIONS: 
+#### RECOMMENDATIONS: 
 1. **Consider instead asking what year the Veteran joined the service and what year they left** (as in Perigean's recruitment survey). This might be more straightforward than the cognitive load of A/B/both radio button options, and also would eliminate questions about whether one's service is close enough to 1989 or 1990 and the implications. 
 1. Alternatively, consider making the options into 2 checkboxes instead of 3 radio buttons.
 1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
@@ -162,7 +162,7 @@ When they saw the above question, 2 participants said (unprompted) that they **d
 
 Two other participants mentioned that they're familiar with C-123's but others may not be. One of them said, *"If it applied to you, you would know...service members know their equipment" (p9).* The other said something similar and also that an explanation might be helpful.
 
-RECOMMENDATION: 
+#### RECOMMENDATION: 
 1. Consider adding a brief description or link to information about C-123 planes.
 
 #### 1 participant had questions about another Agent Orange question 
@@ -174,7 +174,7 @@ One participant had questions about the Agent Orange question they saw. The firs
 
 The same participant was also unsure about **what is considered to be "near" the DMZ**. He served in Korea at Osan but not at the DMZ, so he answered "no".
 
-RECOMMENDATIONS:
+#### RECOMMENDATIONS:
 1. If applicable, consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
 1. If possible, consider revising the content to disambiguate the word "near" in the DMZ option.
 
@@ -187,11 +187,11 @@ One participant asked whether "neutral zone" in the question refers to what was 
 
 Another participant also wanted to see a map that showed the geographical areas of the locations listed in the question.
 
-RECOMMENDATIONS: 
+#### RECOMMENDATIONS: 
 1. In the questions, try to mirror the language that Veterans heard during their service (e.g., FOB names, "green zone" and not "neutral zone"?).
 1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
 
-### 3. Some participants had **beliefs about whether they were eligible for benefits under the PACT Act** before trying the wizard, and some of these beliefs were *incorrect* and not addressed by anything in the wizard.
+### 3. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect* and not addressed by anything in the wizard.
 
 Below is a list of reasons why **some participants said that they were NOT eligible** for benefits under the PACT Act:
 1. **Wasn't in one of the locations at the right time** (3 participants) for one of the reasons listed below.
@@ -203,14 +203,33 @@ Below is a list of reasons why **some participants said that they were NOT eligi
 
 > *"I know I'm not eligible so I don't want to waste anybody's time, including my own" (p10).*
 
+A different participant who's 100% disabled said that they **planned to file for PACT Act benefits in order to add more service-related disabilities to their record**. They knew that they couldn't get any more disability money, but they wanted the potential for extra DIC (Dependency and Indemnity Compensation) death benefits to their next of kin if they died of a service-related disability.
 
-RECOMMENDATIONS: 
+Another participant heard that they **could be eligible for PACT Act benefits by serving in a specific region--even if you don't have any medical conditions--because of presumed exposure.** One of the pilot participants also thought this might be the case because of the "presumption of exposure" content on the *You may be eligible* results page.
+
+> *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
+
+#### RECOMMENDATIONS: 
 1. Consider adding more information to the main PACT Act page, and link from there to this wizard:
-       1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add a Q&A about this on the PACT page]*
-       1. Burn pit registry is not connected to PACT Act eligibility, and so you should apply for PACT Act benefits.
+     
+     1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add a Q&A about this on the PACT page]*
+
+     1. You must have a disability in order to get compensation, but not necessarily a presumptive condition. Just being in a specific location and getting exposed to toxic substances isn't enough. 
+       
+     1. Burn pit registry is not connected to PACT Act eligibility, and so you should apply for PACT Act benefits.
 1. Consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits.
 
-### Something about results...
+### 4. Participants shared feedback and questions about how to apply for PACT Act benefits participants 
+The following is feedback on the PACT Act application process that we received from individual participants. 
+
+One participant said that there shouldn't be a deadline to apply, which he heard about in a radio ad (Sept 30). He didn't understand that this deadline was for a special enrollment period for certain Veterans.
+
+> *"I can understand that it's about trying to get people to apply, but you should be able to apply anytime" (p9).*
+
+#### RECOMMENDATIONS:
+1. Danielle will share feedback about the Sept 30 deadline to OPIA for their continued outreach work.
+
+### TBD findings re results...
 Based on their responses to the questions, 6 of 9 participants were taken to the "You may be eligible" results page. This page in the prototype contained burn pit content and so wasn't applicable to all of the participants (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service.
 
 Results screen | # of Participants

@@ -10,14 +10,16 @@
 - **Ticket Links:** Research Support Ticket [#65457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65457#issuecomment-1733718767)
 
 # Accessibility Tools Utilized
-`iOS VoiceOver` `MacOS VoiceOver` `JAWS`
+`iOS VoiceOver` `MacOS VoiceOver` `JAWS` 
+`No Beginning Users`
 
 ## Coverage
-This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
+This research fufilled 66% (4/6) of its original request. Given the **limited** amount and **lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
 
-**Original study request: ##**
+- **Original study request:** 10 scheduled with the expectation of 6 completing the study
+- **Actual study performance:** 4 completed
 
-> xx participants should use a screenreader on a desktop or mobile device
+> For screen reader users, we will schedule a total of 10 Veterans for an expected completion rate of 6 usability sessions.
 
 ## Participants
 To best serve the users of VA.gov, we will need to collect the following information during each a11y research session:
@@ -29,25 +31,23 @@ To best serve the users of VA.gov, we will need to collect the following informa
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
 | P1                   | 9/25/2023         | VoiceOver             | Advanced      | iOS            | Safari    | Mobile (iPhone 14 Pro)      |
-| P3                       | 9/25/23                 | VoiceOver                   | Intermediate                | MacOS                     | Safari            | Desktop            |
-| P6                       | 9/26/23                 |  JAWS                  | Intermediate                |  Windows                    |  Chrome           | Desktop            |
-| P9                       | 9/29/23                 |  VoiceOver                  |  Advanced               |   MacOS                   |  Safari           |  Desktop           |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
+| P3                       | 9/25/2023                 | VoiceOver                   | Intermediate                | MacOS                     | Safari            | Desktop            |
+| P6                       | 9/26/2023                 |  JAWS                  | Intermediate                |  Windows                    |  Chrome           | Desktop            |
+| P9                       | 9/29/2023                 |  VoiceOver                  |  Advanced               |   MacOS                   |  Safari           |  Desktop           |
 
 **Participants who successfully completed sessions: 4**
-
-**Examples below:**
-- [1 desktop JAWS user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p2.md)
-- [1 iOS VoiceOver user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p15.md)
-- [1 desktop zoom text reader user (magnification, screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p1.md)
 
 ## Key Findings
 Add screenshots, images and videos here.
 
 ### Participants had trouble determining if there were attachments.
-- In the inbox, attachments are noted by an icon (what looks to be a paper clip emoji) that comes after a message title. This icon isn't read aloud by screen readers.
+- The conversation threads are in accordions. 
+- In the inbox, attachments are noted by an icon (what looks to be a paper clip emoji) that comes after the date and time, prior to the user's name.
+- This icon isn't read aloud by screen readers.
+- The attachment isn't known by the user until the message was expanded.
+- This can pose to be an issue if there are multiple messages.
+
+<img width="194" alt="Messages in this conversation (not expanded yet). There is a button to expand all and a plus sign on the far right of each of the four messages to expand them. The accordion headers are the date, followed by the sender." src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/124186314/fe022d99-42e1-473b-858a-ccc42e0925cc">
 
 ### Having a "save draft" button _and_ auto-saving lead to confusion. And some participants weren't sure where their draft saved.
 - When typing their draft messages, users weren't aware that they would auto-save.
@@ -83,11 +83,11 @@ In this section feel free to segment populations based on the trends we see with
 > "Auto save and save are two different things and it might be somewhat confusing, especially based on the sequential order it is occurring, where I would almost have to say I prefer the save draft, delete draft and send in that order, otherwise you go to send and you think that is it. Send is usually the last option and once you made it there that is it." - P9, on saving messages and the location of the 'Send' button
 
 ## a11y Recommendations
-- Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment").
-- Users should be made aware right away that their messages will be auto-saved, and where those messages are saved to. And you may want to remove the "save draft" button entirely to reduce confusion?
+- Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment"). **Experience standards:** `Category 11` `Issue 11` ("Pages don't require sensory characteristics to be understood or operable.")
+- Users should be made aware right away that their messages will be auto-saved, and where those messages are saved to. And you may want to remove the "save draft" button entirely to reduce confusion? **Experience standards:** `Category 03` `Issue 02` ("A user flow provides content or navigation to help users understand where to go or what to do next.)
 - It can take a long time for screen reader users to have page content read to them, so redundant/repeated text can be cumbersome to get through. When it comes to the liability and crisis line messages:
-  - You might want to consider removing one instance of them.
-  - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first.
+  - You might want to consider removing one instance of them. **Experience standards:** `Category 03` `Issue 04` ("A user flow doesn't have repetitive or redundant steps.")
+  - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first. **Experience standards:** `Category 09` `Issue 03` ("Button and link language is descriptive and/or their purpose is clear.")
 
 ### If we don't have enough data or research to know...
 Point out the gaps

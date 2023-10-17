@@ -1,31 +1,35 @@
 # List of category, topic and subtopic names
 
-Last updated by @tygindraux: October 12, 2023
+Last updated by @tygindraux: October 17, 2023
 
 This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)) and Laura Willwerth, Managing Editor of Sitewide CAIA for VA.gov.
 
+If you're on the Ask VA Integration team or have access, you can also see this [list in Google Sheets](https://docs.google.com/spreadsheets/d/1qRpAwE-OmISFzYsg4w3n8VlBsxJxkBAFZL21AWDXFKc/edit#gid=0) too.
+
 ## All categories
+
+Categories are listed in order of `rank field`. This means that the most used category will show first, following in sequential order of most to least used.
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
-|`Category`|VA Health Care|[Health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#health-care)|
-|`Category`|Compensation (Service-Connected Bens)|[Disability compensation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#disability-compensation)|
 |`Category`|Education (Ch.30, 33, 35, 1606, etc. & Work Study)|[Education benefits and work study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#education-benefits-and-work-study)|
-|`Category`|Veteran Readiness and Employment|[Veteran Readiness and Employment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#veteran-readiness-and-employment)|
-|`Category`|Pension (Non-Service-Connected Bens)|[Pension](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#pension)|
-|`Category`|Home Loan Guaranty/All VA Mortgage Issues|[Housing assistance and home loans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#housing-assistance-and-home-loans)|
-|`Category`|Life Insurance|[Life insurance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#life-insurance)|
-|`Category`|Burial & Memorial Benefits (NCA)|[Burials and memorials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#burials-and-memorials)|
-|`Category`|Survivor Benefits|[Survivor benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#survivor-benefits)|
-|`Category`|Technical, Password and Access Problems|[Sign in and technical issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#sign-in-and-technical-issues)|
-|`Category`|Appeals of Denied Claims|[Decision reviews and appeals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#decision-reviews-and-appeals)|
+|`Category`|Compensation (Service-Connected Bens)|[Disability compensation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#disability-compensation)|
+|`Category`|VA Health Care|[Health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#health-care)|
 |`Category`|Veteran Affairs - Debt|[Debt for benefit overpayments and copay bills](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#debt-for-benefit-overpayments-and-copay-bills)|
+|`Category`|Appeals of Denied Claims|[Decision reviews and appeals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#decision-reviews-and-appeals)|
+|`Category`|Technical, Password and Access Problems|[Sign in and technical issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#sign-in-and-technical-issues)|
+|`Category`|Home Loan Guaranty/All VA Mortgage Issues|[Housing assistance and home loans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#housing-assistance-and-home-loans)|
+|`Category`|Veteran Readiness and Employment|[Veteran Readiness and Employment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#veteran-readiness-and-employment)|
+|`Category`|Survivor Benefits|[Survivor benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#survivor-benefits)|
+|`Category`|Burial & Memorial Benefits (NCA)|[Burials and memorials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#burials-and-memorials)|
+|`Category`|Pension (Non-Service-Connected Bens)|[Pension](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#pension)|
+|`Category`|Veteran Identification Card (VIC)|[Veteran ID Card (VIC)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category%2C%20topic%20and%20subtopic%20names.md#veteran-id-card-vic)|
 |`Category`|Benefits Issues Outside the US|[Benefits issues outside the U.S.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#benefits-issues-outside-the-us)|
-|`Category`|Fiduciary Program (Guardians/Custodians)|[Guardianship, custodianship, or fiduciary issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#guardianship-custodianship-or-fiduciary-issues)|
+|`Category`|Life Insurance|[Life insurance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#life-insurance)|
 |`Category`|Defense Enrollment Eligibility Reporting System (DEERS)|[DEERS (Defense Enrollment Eligibility Reporting System)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#deers-defense-enrollment-eligibility-reporting-system)|
+|`Category`|Fiduciary Program (Guardians/Custodians)|[Guardianship, custodianship, or fiduciary issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#guardianship-custodianship-or-fiduciary-issues)|
 |`Category`|Women Veterans' Issues|[Center for Women Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#center-for-women-veterans)|
 |`Category`|VA Center for Minority Veterans|[Center for Minority Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category,%20topic%20and%20subtopic%20names.md#center-for-minority-veterans)|
-|`Category`|Veteran Identification Card (VIC)|[Veteran ID Card (VIC)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20category%2C%20topic%20and%20subtopic%20names.md#veteran-id-card-vic)|
 
 ## Health care
 

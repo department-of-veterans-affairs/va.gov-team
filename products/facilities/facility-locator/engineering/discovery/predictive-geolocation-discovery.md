@@ -1,7 +1,6 @@
 # Mapbox Geocoding: Predictive Search SPIKE & findings
 LAST UPDATED: March 2022
 
-
 ## Mapbox resources
 *   [https://docs.mapbox.com/api/search/#geocoding](https://docs.mapbox.com/api/search/#geocoding)
 *   Mapbox Geocoding Playground: [https://docs.mapbox.com/search-playground/](https://docs.mapbox.com/search-playground/)

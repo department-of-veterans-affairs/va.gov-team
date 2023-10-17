@@ -18,6 +18,11 @@ The Sprint 0 meeting is a time to do the following:
 
 
 * After visit summary for appointments (Meko)
+* Easier demo mode access 
+    * I anticipate increase usage of demo mode at VA
+    * As a VA employee, I need to demo the app to other VA employees
+    * In a veteran-facing role, I need to quickly pull up the app to then answer veterans' questions about the app
+    * (Awhile back Binny pitched an idea for making sure that demo mode is updated, did that ever become a sprint 0?)
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
 * Program level analytics - (Greta)
