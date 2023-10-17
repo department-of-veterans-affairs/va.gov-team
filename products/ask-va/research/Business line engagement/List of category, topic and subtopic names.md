@@ -8,7 +8,7 @@ If you're on the Ask VA Integration team or have access, you can also see this [
 
 ## All categories
 
-Categories are listed in order of `rank field`. This means that the most used category will show first in the list, in sequential order, ending with lease used category last.
+Categories are listed in order of `rank field`. This means that the most used category will show first, following in sequential order of most to least used.
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
