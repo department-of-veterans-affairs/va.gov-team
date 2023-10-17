@@ -193,16 +193,22 @@ RECOMMENDATIONS:
 
 ### 3. Some participants had **beliefs about whether they were eligible for benefits under the PACT Act** before trying the wizard, and some of these beliefs were *incorrect* and not addressed by anything in the wizard.
 
-Below is a list of reasons why some participants said that they were NOT eligible for benefits under the PACT Act:
-1. 100% disabled already 
-
-1. Wasn't in one of the locations at the right time (i.e., wasn't in Vietnam, arrived in Korea after Agent Orange was being used)--2 participants
+Below is a list of reasons why **some participants said that they were NOT eligible** for benefits under the PACT Act:
+1. **Wasn't in one of the locations at the right time** (3 participants) for one of the reasons listed below.
+     1. Navy ship didn't go to Vietnam, even though it did later after he was off.
+     1. Arrived in Korea only *after* Agent Orange was used.
+     1. Has a disability that falls under PACT Act but doesn't qualify for that condition because didn't serve in a covered location. Might be because he was exposed to toxic chemicals while serving in Turkey, or possibly because his father was exposed to Agent Orange during Vietnam.
+1. **100% disabled and assume can't get anything more** (2 participants)
+1. **Hasn't heard anything from VA since signed up for the burn pit registry**, so assumed that the PACT Act doesn't apply to her (1 participant)
 
 > *"I know I'm not eligible so I don't want to waste anybody's time, including my own" (p10).*
 
 
-  RECOMMENDATIONS: 
-  1. Consider adding more content to the main PACT Act page, and link from there to this wizard.
+RECOMMENDATIONS: 
+1. Consider adding more information to the main PACT Act page, and link from there to this wizard:
+       1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add a Q&A about this on the PACT page]*
+       1. Burn pit registry is not connected to PACT Act eligibility, and so you should apply for PACT Act benefits.
+1. Consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits.
 
 ### Something about results...
 Based on their responses to the questions, 6 of 9 participants were taken to the "You may be eligible" results page. This page in the prototype contained burn pit content and so wasn't applicable to all of the participants (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service.
