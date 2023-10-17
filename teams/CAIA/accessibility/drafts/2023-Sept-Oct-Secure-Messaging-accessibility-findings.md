@@ -54,6 +54,11 @@ Add screenshots, images and videos here.
 - Initially, users didn't expect their drafts to auto-save because there was a "save draft" button. One participant said "If it has a button telling me to save, then...it's not automatically saved."
 - Upon saving (whether by auto-save or by saving manually), some participants weren't sure how to access their draft email (what folder it was located in).
 
+### The crisis line disclaimer was appreciated, but may be present in too many places across the app. 
+- There's a disclaimer page before entering the app. Then the message appears again on the 'Compose' page. One user felt that having this in multiple places was redundant, and that having liability and disclaimer pages before sending a message was a lot to navigate through.
+- There's no warning that the user is going to a liability or disclaimer page before entering the app.
+
+
 ### Finding 3
 - Feel free to include bullets
 - They can help add some more info
@@ -80,6 +85,9 @@ In this section feel free to segment populations based on the trends we see with
 ## a11y Recommendations
 - Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment").
 - Users should be made aware right away that their messages will be auto-saved, and where those messages are saved to. And you may want to remove the "save draft" button entirely to reduce confusion?
+- It can take a long time for screen reader users to have page content read to them, so redundant/repeated text can be cumbersome to get through. When it comes to the liability and crisis line messages:
+  - You might want to consider removing one instance of them.
+  - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first.
 
 ### If we don't have enough data or research to know...
 Point out the gaps
