@@ -181,7 +181,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
 
  - Office/Department: 
-  - OIT and NCA/BTRS and NCSO
+   - OIT and NCA/BTRS and NCSO
 - Contact(s): 
  - OIT
   - Kadiresan, Sathish K. Sathish.Kadiresan@va.gov
