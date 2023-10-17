@@ -49,9 +49,10 @@ Add screenshots, images and videos here.
 ### Participants had trouble determining if there were attachments.
 - In the inbox, attachments are noted by an icon (what looks to be a paper clip emoji) that comes after a message title. This icon isn't read aloud by screen readers.
 
-### Finding 2
-- Feel free to include bullets
-- They can help add some more info
+### Having a "save draft" button _and_ auto-saving lead to confusion. And some participants weren't sure where their draft saved.
+- When typing their draft messages, users weren't aware that they would auto-save.
+- Initially, users didn't expect their drafts to auto-save because there was a "save draft" button. One participant said "If it has a button telling me to save, then...it's not automatically saved."
+- Upon saving (whether by auto-save or by saving manually), some participants weren't sure how to access their draft email (what folder it was located in).
 
 ### Finding 3
 - Feel free to include bullets
@@ -68,12 +69,17 @@ In this section feel free to segment populations based on the trends we see with
 
 > “I know there’s an emphasis on that, and we should be reminded of it as often as possible...We can’t hear it enough, to tell you the truth." - P3, on the Crisis Line message
 
+> "Oh, so it doesn’t automatically save. If it has a button telling me to save, then … it’s not automatically saved." - P3, on saving draft emails
+
 > “This seems redundant. Category and subject could be seen as the same thing. I’m going to put the same thing (in the subject line).” - P3, on the "Category" and "subjects" inputs
 
 > “When I go back to a message, normally it would say a file was attached and list the file name...It should tell you right there.” - P3, on reviewing a message for attachments
 
+> "Auto save and save are two different things and it might be somewhat confusing, especially based on the sequential order it is occurring, where I would almost have to say I prefer the save draft, delete draft and send in that order, otherwise you go to send and you think that is it. Send is usually the last option and once you made it there that is it." - P9, on saving messages and the location of the 'Send' button
+
 ## a11y Recommendations
 - Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment").
+- Users should be made aware right away that their messages will be auto-saved, and where those messages are saved to. And you may want to remove the "save draft" button entirely to reduce confusion?
 
 ### If we don't have enough data or research to know...
 Point out the gaps
