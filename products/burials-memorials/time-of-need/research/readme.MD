@@ -1,6 +1,5 @@
 
 # Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
 ---
 
@@ -8,7 +7,7 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Funeral Homes, Veterans, family members, and personal representatives lack a way to initiate a request for burial of a deceased person through VA.gov to get their case started with the National Cemetery Scheduling Office (NCSO). Currently they need to call the NCSO in order to receive this benefit.  As a result it can extend Funeral Home processing times as well as make the process lengthier and more difficult for Veterans, family members, and personal representatives in their time of grief. 
 
 *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
  
