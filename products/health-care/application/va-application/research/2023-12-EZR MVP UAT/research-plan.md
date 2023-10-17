@@ -1,7 +1,8 @@
 # Research Plan for UAT of the new Health Enrollment Update Form (10-10EZR), November 2023
 
 ## Background
-The Health Benefits Update Form (10-10EZR) is a new online version of a currently paper-only form. It's used to update personal, insurance, or financial information for Veterans currently enrolled in health care benefits. Most commonly, this looks like adding or removing a dependent or updating income information. We will be usability testing the MVP version of the new online form to ensure it meets the needs of VA.gov users. The form contains 4 sections, and for MVP, must be completed and submitted in its entirety to be processed.
+The Health Benefits Update Form (10-10EZR) is a new online version of a currently paper-only form. It's used to update personal, insurance, or financial information for Veterans currently enrolled in health care benefits. Most commonly, this looks like adding or removing a dependent or updating income information. Before deciding to build this form, the team ran a generative research study, digging into one of the most common use cases for making an update to health care information (changing financial info). We learned in this study that most Veterans associated financial information with themselves and would expect to make updates to that information in either their VA profile or the MyHealth hub. While it would be preferable to only collect the information that has changed, per the Paperwork Reduction Act (PRA), we will collect all information together in one form submission. That means the MVP of the digital form will not differ much from the paper form, however, we plan to iterate on this approach in future versions.
+We'll usability test the MVP version of the new digital form to ensure it meets the needs of VA.gov users. The form contains 4 sections, and for MVP, must be completed and submitted in its entirety to be processed.
 The four main sections are:
 - Veteran information
 - Household financial information
@@ -116,7 +117,10 @@ For recruiting 2 mobile users:
 What criteria would strengthen your results? 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+November 2023
+
+* Kickoff call requested
+* Preferred date/time: November xx, 2023 at xx AM/PM EST.
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
