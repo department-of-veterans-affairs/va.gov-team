@@ -69,7 +69,7 @@ We conducted **remote usability testing** over Zoom on October 2-6, 2023 to get 
 Perigean recruited the participants.
 
 **We talked to 9 Veterans**, one of whom was also a Veteran's family member (spouse).
--  *Most (8 of 9) had NOT applied for VA benefits under the PACT Act*. The one who did had applied just the week before.
+-  *Most (8 of 9) had NOT applied for VA benefits under the PACT Act*. The one who did had applied just the week before through the American Legion.
 - 4 served in *1989 or earlier*, 2 served in *1990 or later*, and 3 served *during both* periods of time.
 - *Most (8 of 9) used a computer* during the session; only 1 used a smartphone.
 
@@ -191,7 +191,7 @@ RECOMMENDATIONS:
 1. In the questions, try to mirror the language that Veterans heard during their service (e.g., FOB names, "green zone" and not "neutral zone"?).
 1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
 
-### 3. Some participants had **beliefs about whether they were eligible for benefits under the PACT Act** before trying the wizard, and some of these beliefs were *incorrect* and not addressed by anything in the wizard.
+### 3. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect* and not addressed by anything in the wizard.
 
 Below is a list of reasons why **some participants said that they were NOT eligible** for benefits under the PACT Act:
 1. **Wasn't in one of the locations at the right time** (3 participants) for one of the reasons listed below.
@@ -219,7 +219,11 @@ RECOMMENDATIONS:
      1. Burn pit registry is not connected to PACT Act eligibility, and so you should apply for PACT Act benefits.
 1. Consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits.
 
-### Something about results...
+### 4. Participants shared feedback and questions about how to apply for PACT Act benefits participants 
+
+
+
+### TBD findings re results...
 Based on their responses to the questions, 6 of 9 participants were taken to the "You may be eligible" results page. This page in the prototype contained burn pit content and so wasn't applicable to all of the participants (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service.
 
 Results screen | # of Participants
