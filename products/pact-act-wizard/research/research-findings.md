@@ -149,7 +149,7 @@ A different participant was thinking about the campaigns she served in and not t
 
 A third participant didn't select "both time periods" until his second time through the survey. He seemed to think that the word **"serve" meant instead "started" or "joined" because he asked whether it includes his training**. The reason is that he joined in Aug 1989 and did basic training and tech training but didn't actually start serving until 1990. And *"you're really not in the military until after training" (p4).*
 
-RECOMMENDATIONS: 
+#### RECOMMENDATIONS: 
 1. **Consider instead asking what year the Veteran joined the service and what year they left** (as in Perigean's recruitment survey). This might be more straightforward than the cognitive load of A/B/both radio button options, and also would eliminate questions about whether one's service is close enough to 1989 or 1990 and the implications. 
 1. Alternatively, consider making the options into 2 checkboxes instead of 3 radio buttons.
 1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
@@ -162,7 +162,7 @@ When they saw the above question, 2 participants said (unprompted) that they **d
 
 Two other participants mentioned that they're familiar with C-123's but others may not be. One of them said, *"If it applied to you, you would know...service members know their equipment" (p9).* The other said something similar and also that an explanation might be helpful.
 
-RECOMMENDATION: 
+#### RECOMMENDATION: 
 1. Consider adding a brief description or link to information about C-123 planes.
 
 #### 1 participant had questions about another Agent Orange question 
@@ -174,7 +174,7 @@ One participant had questions about the Agent Orange question they saw. The firs
 
 The same participant was also unsure about **what is considered to be "near" the DMZ**. He served in Korea at Osan but not at the DMZ, so he answered "no".
 
-RECOMMENDATIONS:
+#### RECOMMENDATIONS:
 1. If applicable, consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
 1. If possible, consider revising the content to disambiguate the word "near" in the DMZ option.
 
@@ -187,7 +187,7 @@ One participant asked whether "neutral zone" in the question refers to what was 
 
 Another participant also wanted to see a map that showed the geographical areas of the locations listed in the question.
 
-RECOMMENDATIONS: 
+#### RECOMMENDATIONS: 
 1. In the questions, try to mirror the language that Veterans heard during their service (e.g., FOB names, "green zone" and not "neutral zone"?).
 1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
 
@@ -209,7 +209,7 @@ Another participant heard that they **could be eligible for PACT Act benefits by
 
 > *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
 
-RECOMMENDATIONS: 
+#### RECOMMENDATIONS: 
 1. Consider adding more information to the main PACT Act page, and link from there to this wizard:
      
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add a Q&A about this on the PACT page]*
@@ -220,8 +220,14 @@ RECOMMENDATIONS:
 1. Consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits.
 
 ### 4. Participants shared feedback and questions about how to apply for PACT Act benefits participants 
+The following is feedback on the PACT Act application process that we received from individual participants. 
 
+One participant said that there shouldn't be a deadline to apply, which he heard about in a radio ad (Sept 30). He didn't understand that this deadline was for a special enrollment period for certain Veterans.
 
+> *"I can understand that it's about trying to get people to apply, but you should be able to apply anytime" (p9).*
+
+#### RECOMMENDATIONS:
+1. Danielle will share feedback about the Sept 30 deadline to OPIA for their continued outreach work.
 
 ### TBD findings re results...
 Based on their responses to the questions, 6 of 9 participants were taken to the "You may be eligible" results page. This page in the prototype contained burn pit content and so wasn't applicable to all of the participants (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service.
