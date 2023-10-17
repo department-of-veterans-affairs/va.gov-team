@@ -94,9 +94,9 @@ Last update: March 2022
 - When a map view is populated by a facility search, it only needs a subset of facility information to populate the map markers. The facility search endpoint can return a smaller record for each facility to cut down on traffic. However, there might be a benefit to returning the full record - the frontend could optimistically use that info for display in a detailed facility view without incurring another round trip. We will assess the relative sizes of the full and reduced records to decide what to do here.
 -VA and Choice Act provider datasets have different lists of provider specialty services. If we want to provide a unified filtering mechansim we need an internal mapping between the service types.
   
-[Facility Locator Schema](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/data/fl-schema.md)
+[Facility Locator Schema](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/data/fl-schema.md)
 
-[Sample Objects returned from the VA Health Facility endpoint and the Choice Act Provider endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/data/data-sources/facility-data-samples.md)
+[Sample Objects returned from the VA Health Facility endpoint and the Choice Act Provider endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/data/data-sources/facility-data-samples.md)
 -VA endpoint returns facilities with all the services available at that facility. The Choice Act endpoint returns providers, i.e. individual doctors/physician's assistants/etc; specifically each record identifies a single specialty of an individual provider at a single location. These individual records will need to be merged to create a useful record for map display.
  
 **VA Health Facility (VHA) Object**
