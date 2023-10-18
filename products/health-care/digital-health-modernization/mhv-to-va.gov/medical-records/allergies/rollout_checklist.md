@@ -8,29 +8,32 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 ## To enter Phase 0 (Trusted Users)
 - [X]  Collab cycle successfully completed and all critical and major defects addressed
 - [X]  Minor and cosmetic defects have been prioritized and added to backlog
-- [ ] Product documentation is up to date
-	- Discovery
-	- Research
-	- System Architecture
-	- Data Architecture
-	- UI/UX
-	- User documentation
+- [X] Product documentation is up to date
+	- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/requirements/requirements.md#allergies)
+	- [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research)
+	- [System Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Architecture%20Diagram.png)
+	- [Data Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Sequence%20Diagram.png)
+	- [UI/UX]
+	- [User documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/MR%20on%20VA.gov_Product%20Guide_Draft.docx)
 - [ ] Monitoring has been set up (Analytics/Datadog)
-- [ ] Product guide created and shared with support personnel
+- [X] Product guide created and shared with support personnel
 - [ ] Support/issue reporting process and R&R has been defined
 - [ ] Goals and exit criteria have been established for phase 0 and agreed upon with product owner
-	- Each application will have a specific target that it is looking to hit (i.e. 250 messages sent, or # interactions or transactions completed)
+	-
+ - 	We will move Allergies to Phase 0 in concert with the other Medical Records domains once they have met their own Phase 0 criteria.
 - [ ] Communications working group has prepared (and had approved)
 	- [ ] all necessary communication materials have been drafted & reviewed by OCC and OCTO leadership
 - [ ] Change management and comms have been notified
 - [ ] Mobile app team has been notified / coordinated with to try to sync changes.
-- [ ] Schedule and complete user acceptance testing with development team, OCTO team, Product Owner, and other necessary technical personnel
+- [X] Schedule and complete user acceptance testing with development team, OCTO team, Product Owner, and other necessary technical personnel
 	- All use cases tested and validated in production, starting from sign-in at all entry points.
+		- No defects identified 
 	- Any risks are captured for go-no-go
+		- No risks identified 
  	- Any risks reviewed with OCC Product Owner and OCTO team to determine if they are launch blocking.
-- [ ] Has been reviewed by product owners and they have acknowledged that requirements have been met
+- [X] Has been reviewed by product owners and they have acknowledged that requirements have been met
 	- Product owners includes the OCC product owner, OCTO product/design/engineering leads 
-- [ ] Has been reviewed by clinical or other SMEs and they have acknowledged that it adheres to legal and/or policy requirements, governance standards
+- [X] Has been reviewed by clinical or other SMEs and they have acknowledged that it adheres to legal and/or policy requirements, governance standards
 - [ ] Go/no go team has been established & go-no-go meeting scheduled. (Please work with Lauren's EA and OCC's exec team to schedule to ensure that all folks can make it). 
 	- [ ] Go no go agenda prepared ([see example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/Secure%20Messaging%20Go-No-Go%20Updated%20Live%2071723.docx) )
 - [X] Trusted users have been identified
