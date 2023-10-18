@@ -84,7 +84,8 @@ Original redirect request to have a 302 code has been rescinded as of 8/31/23.
 ## <a name="searcg"></a>Best bets <br>
 We previously routed best bets searches to the [About VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/) page so that folks wouldn't get search results to the form flow. We are updating best bets so that search results direct to the [online form](https://www.va.gov/pension/application/527EZ/introduction) again.
 
+
 <hr>
-<hr>
+
 
 ## <a name="notes"></a>Meetings notes and background info
