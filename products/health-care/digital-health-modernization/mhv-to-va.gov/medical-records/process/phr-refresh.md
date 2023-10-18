@@ -13,7 +13,7 @@ Currently, the refresh [is initiated](https://github.com/department-of-veterans-
 The session is created when the user attemptes to access an MHV FHIR resource and does not have a session token currently stored in the redis cache. Once a session is created, the JWT is stored in redis for one-hour.
 
 There are two consequences of this:
-1. The PHR refresh will never be called more than once in any given 60 minute-period.
+1. The PHR refresh will never be called more than once in any given 60-minute period.
 1. The PHR refresh will not kick off until essentially the same moment a FHIR request is made, meaning that initial request will pull potentially out-of-date information.
 
 ## Desired Flow ##
