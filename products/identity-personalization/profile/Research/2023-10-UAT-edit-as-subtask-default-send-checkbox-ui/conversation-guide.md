@@ -9,7 +9,7 @@
 ## Introduction - 2 minutes
 Thanks for joining us today! My name is Liz. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily. 
 
-We’ve invited you to participate today to get your help in testing some technical changes we’ve made to the website. The changes we have made aren’t something anyone can see on the screen, but with your help we will be able to check whether we’ve set everything up correctly.
+We’ve invited you to participate today to get your help in testing some changes we’ll be making to the website. I'm giving you access to the changes for today's session, and will remove them once we're done. If you come back to these parts of the website later today, they'll be different than what you see in this session.
 
 Before we start, I wanted to go over a few details:
 - **This session should take 30 minutes of your time or less.** It involves me asking you to complete a few small tasks. Because I want to make sure we don’t keep you beyond half an hour, I may prompt you with the next question to keep things moving.
