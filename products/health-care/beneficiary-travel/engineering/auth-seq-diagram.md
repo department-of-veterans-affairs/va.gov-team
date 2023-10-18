@@ -29,8 +29,12 @@ autonumber
     vweb->>vapi: /travel-pay
     activate vapi
 
-    activate tpapi
       vapi->>tpapi: {endpoint: '/token', headers: {auth: <signed bearer token>}}
+      activate tpapi
+      tpapi->>sis: {endpoint: '/introspect',<br/>headers: {auth: <Veteran's access token as bearer>}}
+      activate sis
+        sis-->>tpapi: Veteran info response
+      deactivate sis
 
       tpapi-->>vapi: oauth access token
     deactivate tpapi
@@ -39,11 +43,6 @@ autonumber
 
     activate tpapi
       tpapi->>tpapi: validate token
-
-      tpapi->>sis: {endpoint: '/introspect',<br/>headers: {auth: <Veteran's access token as bearer>}}
-      activate sis
-        sis-->>tpapi: Veteran info response
-      deactivate sis
 
       tpapi-->>vapi: endpoint response
     deactivate tpapi
