@@ -2,7 +2,7 @@
 name: Integrated Health Epic Template
 about: For filing Epics
 title: ''
-labels: ''
+labels: 'champva-vfmp-forms'
 assignees: ''
 
 ---
