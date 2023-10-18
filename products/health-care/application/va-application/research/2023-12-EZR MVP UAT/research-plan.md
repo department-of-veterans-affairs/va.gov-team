@@ -99,7 +99,6 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 **Primary criteria (must-haves)**
 - All must be currently enrolled in VA health care benefits
 - At least 2 are using a mobile device during the session
-- A mix of disability ratings (from 10%-100%)
 - Diverse mix of age ranges
 - No more than 1 participant with a Bachelor's degree or higher
 - At least 2 participants who are Black
@@ -120,7 +119,7 @@ What criteria would strengthen your results?
 November 2023
 
 * Kickoff call requested
-* Preferred date/time: November xx, 2023 at xx AM/PM EST.
+* Preferred date/time: October 31, 2023 at xx AM/PM EST.
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
