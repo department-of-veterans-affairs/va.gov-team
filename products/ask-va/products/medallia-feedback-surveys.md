@@ -29,7 +29,7 @@ See example:
 ### Intercept survey questions
 |Question|Answer choices|
 |:---|:---|
-|How was your experience contacting VA today?|Very good<br>Somewhat good<br>Neither good nor bad<br>Somewhat bad<br>Very bad|
+|How was your experience contacting VA today?|Very bad<br>Somewhat bad<br>Neither good nor bad<br>Somewhat good<br>Very good|
 |Why did you select that rating?|Please don't enter personal information into the text box. This includes your name, address, Social Security Number, medical information or anything else that someone could use to identify you.|
 |Please rate how understandable this site's information is.|Difficult to understand<br>Somewhat difficult to understand<br>Some is easy, some is difficult<br>Somewhat easy to understand<br>Easy to understand|
 |How did this interaction change your trust in Veterans Affairs?|Decreased my trust<br>Somewhat decreased my trust<br>Neither increased nor decreased my trust<br>Somewhat increased my trust<br>Increased my trust|
@@ -41,5 +41,5 @@ See example:
 ### Feedback survey questions
 |Question|Answer choices|
 |:---|:---|
-|How was your experience contacting VA today?|Very good<br>Somewhat good<br>Neither good nor bad<br>Somewhat bad<br>Very bad|
+|How was your experience contacting VA today?|Very bad<br>Somewhat bad<br>Neither good nor bad<br>Somewhat good<br>Very good|
 |Please tell us what would make it easier to contact VA.|*Text area*|
