@@ -53,6 +53,7 @@ For user groups that work at a facility such as a VAMC or a Vet Center (which ma
 Sections are set up in a hierarchical structure. If an admin assigns a user to a top level section, that user will also have access to edit all of the individual sections that are a part of the top level section. If a user is assigned a bottom level section (for example an individual VAMC Facility, Vet Center, or Benefit Office) that user will only have access to edit their individual section and no other sections that are higher in the hierarchy.
 
 **Analogy: Telescope**
+
 With the current analogy, think of assigning a user a section as providing them with a telescope. While there are lots of different constellations and parts of the sky that a user can look at, they can only point their telescope at one constellation based on their role.
 
 In the current implementation of the CMS, if we have a user assigned to multiple sections, they are currently only able to have the same roles assigned to both sections. Users need to be able have different roles for each of their sections.
