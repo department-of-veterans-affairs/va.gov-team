@@ -1,3 +1,30 @@
+## Meeting Notes for CRM Sync on 10/17/2023
+
+Admin; Data Analysis; User Identifiers; Surveys; Field Removal
+
+### Attendees:
+
+* **Integration Team:** Ruchi, Khoa, Joe, Becky
+* **CRM Team:** Chris, Joseph Duty, Shelby, Tina
+* **Note Taker:** Ruchi
+
+### Key Takeaways:
+
+1. Ruchi let the team know that we'll be using MS Teams for future meetings, and that invitations will be sent to everyone's VA.gov email. Bharat requested that we include the CRM team's group email, which will send the invite to both their VA emails and their contractor emails.
+2. Joe requested that we get a copy of the raw data for running analysis and generating reports and graphs, rather than the planned aggregated data. An action item was added for Joe to send a list of the data (columns) that we'll need.
+3. Joe brought up a concern that  was expressed by one of the members of the Identity team surrounding the use of `sec_id`. Per Trevor, "Not everyone who authenticates on VA.gov will have a sec_id, so it’s possible there are other identifiers that are more appropriate to use (again, I can help describe which ones you may prefer using, depending on your requirements)." One alternative mentioned in the sync was to send the method of authentication and the key that the authentication provider uses. This could have broad implications for the existing AVA application too.  Joe has an action item to arrange a meeting with the key players to discuss, to include the CRM team's trused identity resource, Damien.
+4. Becky brought up the task to implement Medallia surveys in the current AVA application. Timelines were discussed, including the upcoming code freezes and production releases for the CRM team. It was stated that design and API discussions could continue, but development wouldn't be possible since they'll have switched into stability mode, focusing on any bug fixes that may need to be made. Shelby and Becky agreed to having a placeholder ticket put into the CRM team's backlog for this task, but that it would be blocked until the survey questions are finalized. Tina explaine that since this is uncharted territory for them, they would need to implement in a lower environment to judge the level of effort.
+5. The "removal" of unused military fields was discussed. The LOBs have indicated that they're not needed, but their removal has the potential to affect routing and rerouting. The CRM team has the comms channels established for the LOBs, and the communication of the removal will be annouced jointly with the integration teeam on those channels.
+
+### Action Items:
+
+- [ ] JD and the va.gov AVA integration team will look for folks with KQL (Kusto Query Language) experiennce to help massage the data needed for KPIs.
+- [ ] Joe - Present API Docs and granular project plan to this meeting on Thursday (10/19).
+- [ ] Joe - Incorporate the steps for "done" in the granular project timeline.
+
+
+----
+
 ## Meeting Notes for CRM Sync on 10/12/2023
 
 Analytics; Refactoring Categories/Topics/Subtopics
