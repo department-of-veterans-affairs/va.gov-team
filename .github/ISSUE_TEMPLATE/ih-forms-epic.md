@@ -1,5 +1,5 @@
 ---
-name: Epic Template
+name: Integrated Health Epic Template
 about: For filing Epics
 title: ''
 labels: ''
