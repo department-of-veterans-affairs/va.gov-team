@@ -11,7 +11,7 @@
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
 - [Redirects](#redirects)
-- [Best bets] (#search)
+- [Best bets](#search)
 - [Meeting notes](#notes)
 
 
