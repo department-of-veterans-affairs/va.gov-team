@@ -41,7 +41,7 @@
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
-The team laid out their proposed entry points in [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695069026901/50b83f710f1cd2f1f7f3bb63553c349ef90d402a?sender=u79ee90295fdb006d7f463212)
+The team laid out their proposed entry points in [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695069026901/50b83f710f1cd2f1f7f3bb63553c349ef90d402a?sender=u79ee90295fdb006d7f463212) and so we are finalizing these in the IA spec.
 
 1. [Page URL or component name] - [Add/Modify/Remove]
   - Placement description: 
