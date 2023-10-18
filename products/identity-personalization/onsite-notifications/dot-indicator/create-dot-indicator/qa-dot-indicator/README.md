@@ -23,7 +23,7 @@ For QA of the dot indicator on My VA we will be performing QA manually using a s
 
 ### Overview of Devices, Operating Systems & Browser
 
-We need to test all n test cases across the devices, operating systems, and browsers  outlined below. 
+We need to test 2 test cases across the devices, operating systems, and browsers outlined below. 
 
 #### General Version-coverage Strategy
 - **Hardware:** cover 2nd-latest models [1 yr back from latest available]
