@@ -20,7 +20,7 @@ We have 2 in-progress efforts that will change the content landscape for CHAMPVA
 
 ### Current state
 
-We currently house CHAMPVA content within the modernized VA.gov health care hub. The page is titled "[CHAMPVA benefits[(https://www.va.gov/health-care/family-caregiver-benefits/champva/)." Additional CHAMPVA content currently lives within the legacy TeamSite community care website [CHAMPVA section](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/index.asp).
+We currently house CHAMPVA content within the modernized VA.gov health care hub. The page is titled "[CHAMPVA benefits](https://www.va.gov/health-care/family-caregiver-benefits/champva/)." Additional CHAMPVA content currently lives within the legacy TeamSite community care website [CHAMPVA section](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/index.asp).
 
 ### Future state
 
