@@ -16,6 +16,11 @@ There are two consequences of this:
 1. The PHR refresh will never be called more than once in any given 60-minute period.
 1. The PHR refresh will not kick off until essentially the same moment a FHIR request is made, meaning that initial request will pull potentially out-of-date information.
 
+## Backend ##
+
+For information on what happens in the backend when PHR refresh is initiated, see [this document](https://department-of-veterans-affairs.github.io/mhv-fhir-phr-mapping/background.html#general-processing-of-clinical-resources).
+
+
 ## Desired Flow ##
 
 We would like to move the refresh to the VA.gov login process, so that information is updated before a user ever gets to the Medical Records application. [Here is the PR](https://github.com/department-of-veterans-affairs/vets-api/pull/13693) for this work. This would represent a major change to the login process. See the following Slack threads pertaining to that discussion:
