@@ -88,7 +88,7 @@ Schedule 10 Veterans for a minimum of 8 successfully completed sessions.
 **Secondary criteria (nice-to-haves)**
 
 **Gender**
-- 8 women, 8 men
+- 5 women, 5 men
 
 **Inclusion**
 - 3 participants who use assistive technology (e.g. screen reader, magnification)
