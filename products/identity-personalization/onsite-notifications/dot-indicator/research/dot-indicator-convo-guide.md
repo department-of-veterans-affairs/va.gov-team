@@ -4,6 +4,8 @@
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
 - [ ] Turn on closed captioning in order to use Zoom transcription
 
+- [Link to Sketch prototype](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/P1WQemr) - use if there are any issues with staging
+
 ## Starting the session
 - _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to participant when they are admitted to the session._
 - _Check your screensharing setup and share permissions for participants._
@@ -29,70 +31,25 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Task goal: Confirm they qualify for the study, learn what they use VA.gov for if at all, and how it's meeting their needs as of now. - 5 minutes
+## Task goal: Determine the effectiveness of dot and badge indicators to draw attention to important updates and when it's appropriate to use each kind of indicator. - 15 minutes
 
-Before we look at the website, I'd like to get a little background information from you:
+Now I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov and then share your screen with me. Let me know if you need any help doing that.
 
-1. First, can you tell me what benefits you currently have through VA, if any?
-  
-2. What online or manual tools do you currently use to manage these benefits? *(VA.gov, MHV, eBenefits, phone, email, etc.)* Which of these tools or methods is the most useful to you and why?
+Okay great, I can see your screen. Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in in the chat. 
 
-3. Let's talk about the website - how do you use VA.gov? *If they use it:* Do you ever visit My VA when you are logged in?
-
-## Task goal: Determine if the updated information architecture of My VA still aligns with Veterans' mental model. - 10-15 minutes
-
-Now I'm going to ask you to open a new tab in your chosen browser and go to VA.gov. Once you're there and before you log in, please share your screen with me. Let me know if you need any help doing that. 
-
-*Once they are sharing their screen* Okay great, thank you! I'm going to pause the recording while you log in. *Pause the recordinng* You can go ahead and log in now.
-
-*Once they are past the login screen, restart the recording.*
-
-- Okay so I'm going to ask you to think out loud while the next page loads. Any thoughts you're having would be helpful to hear.
-- *Once the full page has loaded* You said you go online to check X. Tell me how you'd go about doing/looking into X from here.
-- *If they mention education benefits in the intro questions* Let's scroll down to the education and training section. Are any of the links in this section of interest to you? Is there anything else about education benefits that you would want to look up that you're not seeing here?
-- *If the user has had debt in the past or currently has debt, ask:* Taking a look at the outstanding debts section here, take a moment to review what it says. Would you expect to see a link to your past debt letters here? Is that something you might reference once a debt is paid off?
-- Let's scroll down to the saved applications section. What do you think this section is for? What does "saved applications" mean to you?
-- If you filled out an application and submitted it to VA, would you expect to see that application here or somewhere else?
-
-### Things to watch for:
-
-- Are certain sections taking a long time to load? How do veterans react to loading times? If there are any errors, how do veterans react to those?
-- Are veterans able to find their top tasks easily? Can they act on them or get the info they're interested in?
-- Is there anything veterans are looking for specifically that's not on My VA?
-- How do veterans who use education benefits react to the education section? What about veterans who do not use education benefits, and those who are not interested?
-- Is it clear that saved applications have not been submitted or do we need additional context or content changes in this section to convey that?
-
-## Task goal: Determine if showing all sections all the time on My VA has made the page more, less, or equally usable compared to its current state. - 10 minutes
-
-- Let's take a look at a section that's empty. *Have them scroll to a section that doesn't apply to them*
-- What do you think about seeing this section when you log in even though it doesn't apply to you?
-- Are there any VA benefits you're not currently using that you might be interested in? *If yes* How would you find information about those benefits?
-- *For users who have empty sections* Now let's click the link under this empty section and take a look at the page it takes you to. If this what you would expect? Do you want to know additional information before taking action? What additional information would you be looking for?
-- Is there anything you're expecting to see on My VA that you don't see?
-
-### Things to watch for:
-
-- How do veterans react to seeing empty sections on My VA? 
-- Are empty sections getting in the way of veterans finding what they would come to VA.gov to do?
-- Are the CTA links bringing attention to benefits that veterans might be interested in?
-- Are the pages we're linking to from My VA's empty sections useful to veterans?
-- Are there any top tasks still missing from My VA?
-
-## Post Task Interview - 3 minutes
-
-Now that we've walked through this page a bit, let's talk about your thoughts on the overall experience.
-
-1. How important is the information that we looked at today to you?
-2. What did you expect to see that you didn't?
-3. Was there anything we looked at on My VA today that you didn't want or need to see on that page?
-4. If you could change one thing about the page we just looked at together, what would it be?
+- *Once the full page has loaded* Now that you've logged in, what's standing out to you first?
+- *If they don't mention the indicators* Did you notice the red dot or the red notification badge with the number in it?
+- *If the participant is colorblind* Do you have any trouble seeing the dot or the badge with the number in it? What color does it appear to be to you?
+- *For colorblind participants* How do you experience notifications on other websites and on your phone? Are there some types of notifications that are difficult or impossible for you to interpret? Is there any website or app that does it particularly well from a colorblihndness standpoint? 
+- What do you think each of these red indicators mean?
+- How do you think each of these red dots would disappear? What about the badge with the number in it?
+- What would you expect to see if you clicked link that says "Request travel reimbursement" and it has a red dot next to it?
+- What would you expect to see if you clicked "Get your VA medical records and lab and test results" and it has a red dot next to it?
+- Is there anywhere on this view of the website that we're looking a now where you expect to see a red notification like this but you don't?
 
 ## Thanks and Closing - 2 minutes
 
 Great, thank you so much. This has been really helpful for our team, and we appreciate you taking the time to share your thoughts with us today. 
-
-Do you know of any other veterans who might be interested in signing up to participate in research studies like this?
-*If yes* Great, then I will have someone email you a link to share with them so they can sign up too.
 
 Do you have any questions or last thoughts for me before we end the session?
 
