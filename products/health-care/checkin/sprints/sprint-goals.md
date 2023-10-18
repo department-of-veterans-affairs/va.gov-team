@@ -54,9 +54,10 @@ ________________________________________________________________________________
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] New Appointment Disclaimer Accordion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [FE] Pre-Check-in & Day-of Details Page: Add for Pre-Check-in & Update Content for Primary Button](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62102)
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Completion Page: Content & Link Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62111)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Contact Mike Ferraro and register key and functionality for MAP service (RSA key required first)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67715)
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [Create service request for on-behalf-of token request using our JWT key](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67716)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Validate that our public key works](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67715)
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create Configuration to Connect to MAP Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67845)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [JWT token endpoint access (after token registered)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67717)
+             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Get Appointment List (Create service request for on-behalf-of token request using our JWT key)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67716) 
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png)![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE]SPIKE: How can we Measure & Report How Long it Takes to Complete Check-in (w/ and w/o travel)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67177)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
