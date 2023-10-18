@@ -7,7 +7,7 @@ Three intersecting governance systems for the basis of content governance in VA.
 All CMS editors are assigned a mix of these three things (with the exception of Content admins, to whom none of these rules apply).
 
 ## Plain Language Overview Of Permissions, Roles, and Sections in the CMS
-The complexity of the Drupal CMS and Workbench Access Module can make it difficult to understand how our current-state functions. This overview attemps to provide 
+The complexity of the Drupal CMS and Workbench Access Module can make it difficult to understand how our current-state functions. This overview provides a plain language version of configuration of Drupal CMS Content Governance. 
 
 ### Permissions
 
