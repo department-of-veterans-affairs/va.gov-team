@@ -3,8 +3,8 @@
 ## Test Scenarios
 QA was performed manually by team members. 
 * [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-dot-indicator-on-my-va-healthcare.md) (Github)
-* Test cases - A11y format (Github)
-*  (updated 6/28 to add reset test users)
+* [Test cases - A11y format](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-dot-indicator-on-my-va-healthcare-a11y.md) (Github)
+* 
 
 
 ## Defect report
