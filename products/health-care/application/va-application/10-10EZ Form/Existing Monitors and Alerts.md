@@ -6,46 +6,67 @@ This document lists the various monitors and alerts in place for the 10-10CG.
 All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 
 
-## Monitor: 10-10CG anomaly monitor
-### Triggered: 1010CG anomaly monitor
+## Monitor: 10-10EZ anomaly monitor
+### Warn: 1010EZ anomaly monitor
 #### Alert Reason:
-- There have been less than 25 submissions in the last 12 hours
-#### Action:
+- Within a four hour period, 25% of total submissions has been more than two times lower than the usual volume for at least 15 minutes.
+#### Team Actions:
 - 10-10 Health Apps team will determine if there have been any failures that is causing the low volume of submissions
-- If any errors/failures are found, this information will be communicated on the **#vecms-carma_vadotgov_development_external** Slack channel
-### Recovered: 1010CG anomaly monitor
+- If any errors/failures are found, the team will
+     - Communicate the issue to the Product Owner
+     - Determine if a maintenance banner needs to be in place to stop further failures
+     - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
+     - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
+### Recovered: 1010EZ anomaly monitor
 #### Alert Reason
 - The volume of submissions has reached at or above 25 submissions over the last 12 hours
-#### Action:
+#### Team Actions:
 - No Action needed, this alert is letting us know that volumes are back to normal
-## Monitor: 1010CG submission job has failed retries
-### Triggered: 1010CG submission job has failed ten retries
+
+## Monitor: 1010EZ submission job has failed retries
+### Triggered: 1010EZ submission job has failed with no retries left
 #### Alert Reason
-- At least one application submission has been retried 10 times, and has failed.  The submission will retry 4 more times before failing completely
-#### Action
-- We have a [Catastrophic failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) process outlining that the 10-10 Health Apps team will 
-- Review the failures
-- Determine if a maintenance banner needs to be in place to stop further failures, 
-- Communicate on the **#vecms-carma_vadotgov_development_external** Slack channel
-### Triggered: 1010CG submission job has failed with no retries left
-#### Alert Reason
-- At least one application submission has been retried 14 times over the course of 24 hours, has failed and will not be retried again.
-#### Action
-- We have a [Catastrophic failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) process outlining that the 10-10 Health Apps team will 
-- Retrieve the PDF application file from the Production environment
-- Send the PDF application file via an encrypted email to vha12cspcarmaehr@va.gov, including the timestamp of the submission from VA.gov.
-- Determine if a maintenance banner needs to be in place to stop further failures, 
-- Communicate on the **#vecms-carma_vadotgov_development_external** Slack channel about the alert being received, PDF being sent, setting the maintenance banner, and assisting with triage
-## Monitor: 1010CG controller error rate is above 10%
-### Triggered: 1010CG controller error rate is above 10%
+- At least one application submission has been retried 24 times, has failed and will not be retried again.
+#### Team Actions
+- Communicate the issue to the Product Owner
+- Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
+- Determine if a maintenance banner needs to be in place to stop further failures
+- Obtain Veteran contact information (Name, Phone number, Email address)
+- Send the Veteran contact information via secure, encrypted email (from va.gov email address) to Amanda Scully and Antonio Presley (Confirm these names with PO)
+     - Explain what has happened (submission failure) and provide the Veteran contact info.
+     - Copy PO (Patrick Bateman) and Crew lead (Lauren Alexanderson)
+- Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
+- Continue communications on triage progress, fix implementation timelines, and any other pertinent details
+
+## Monitor: 1010EZ submission alert for failed mailer
+### Triggered: 1010EZ submission alert for failed mailer
 #### Alert Reason:
-- Errors being captured exceed 10% of total submissions over the last 1 day (24 hours).
-#### Action:
+- At least one application submission has failed all retries, and an email was triggered to be sent to the Veteran, however the mailer service has failed
+#### Team Actions:
+- 10-10 Health Apps team should have communicated the Veteran contact info to the HEC points of contact, mentioned in the "Failed with no retries" steps
+- Communicate the mailer failure to the PO
+- Obtain Veteran contact information (Name, Phone number, Email address)
+- Send the Veteran contact information via secure, encrypted email (from va.gov email address) to Amanda Scully and Antonio Presley (Confirm these names with PO)
+     - Explain what has happened (submission failure) and provide the Veteran contact info.
+     - Copy PO (Patrick Bateman) and Crew lead (Lauren Alexanderson)
+- Determine if the failure is occuring on our form only, or is sitewide
+- If the failures originate outside the form, the team will work with other VA.gov teams to triage, if needed.
+### Recovered: 1010EZ submission alert for failed mailer
+#### Alert Reason
+- There have not been any further failures on the mailer service in the last 4 hours.
+#### Team Actions:
+- No Action needed, this alert is letting us know that the error rate is back to zero
+
+## Monitor: 1010EZ controller error rate is above 5%
+### Triggered: 1010EZ controller error rate is above 5%
+#### Alert Reason:
+- Errors being captured exceed 5% of total submissions over the last 4 hours.
+#### Team Actions:
 - 10-10 Health Apps team will review the errors and va.gov monitors to determine if the root cause is on the form or sitewide
 - If the errors are found to origination from the form processes, this information will be communicated on the **#vecms-carma_vadotgov_development_external** Slack channel
 - If the errors originate outside the form, the team will work with other VA.gov teams to triage, if needed.
-### Recovered: 1010CG controller error rate is above 10%
+### Recovered: 1010EZ controller error rate is above 5%
 #### Alert Reason
-- Errors being captured are now below 10% of total submissions over the last 1 day (24 hours).
-#### Action:
+- Errors being captured are now below 5% of total submissions over the last 4 hours
+#### Team Actions:
 - No Action needed, this alert is letting us know that the error rate is back to normal
