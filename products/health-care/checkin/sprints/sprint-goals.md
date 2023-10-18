@@ -57,8 +57,6 @@ ________________________________________________________________________________
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add aria labels to new appointment list componen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66707) ROLLOVER
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add refresh timer to upcoming appointments call](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66619) ROLLOVER
             - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Add api calls for new pre-check-in logic flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67417)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] New Appointment Disclaimer Accordion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
-            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] Pre-Check-in & Day-of Details Page: Add for Pre-Check-in & Update Content for Primary Button](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62102)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Validate that our public key works](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67715)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE] Create Configuration to Connect to MAP Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67845)
             - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [JWT token endpoint access (after token registered)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67717)
