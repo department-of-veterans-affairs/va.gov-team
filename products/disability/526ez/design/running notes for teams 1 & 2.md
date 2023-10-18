@@ -1,5 +1,8 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
 
+## 10/18/23
+Agenda
+- 
 ## 9/27/23
 Agenda
 - Sitemap walkthrough
