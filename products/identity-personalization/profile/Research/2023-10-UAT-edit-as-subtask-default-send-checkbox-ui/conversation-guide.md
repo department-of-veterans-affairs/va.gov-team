@@ -43,8 +43,8 @@ Some of these next things may feel a little tedious but this will help us be sur
    *Should take user back to notification settings page with alert*
 3. Now click the link again, and this time, hit save without entering any data.
    *Should trigger field validation error message*
-4. Enter 123456789 to the field. (This is an invalid phone number)
-   *Should trigger field validation for 9 digit number*
+4. Enter 123456789 to the field and hit save. (This is an invalid phone number)
+   *Should update field validation to include "at least 10 digits"*
 5. Perfect, now delete that, and enter a valid phone number into the field, and then press cancel. 
    *Should trigger modal*
 6. Press `yes, cancel changes` in the modal.
