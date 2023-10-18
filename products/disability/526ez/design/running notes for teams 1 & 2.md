@@ -1,9 +1,7 @@
 # Running Notes for Design & Research Teams 1 & 2 (T-Rex & Carbs)
 
 ## 10/18/23
-Attendees:
-
-Agenda
+NOTE: Running notes has been moved to this document: https://docs.google.com/document/d/1Z9syIZoV8ndQ8eBIIDYA8Vl3-ZyfMLnLnBYqKISpOs8/edit
 
 
 ## 9/27/23
