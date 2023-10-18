@@ -4,9 +4,9 @@ Admin; Data Analysis; User Identifiers; Surveys; Field Removal
 
 ### Attendees:
 
-* **Integration Team:** Ruchi, Khoa, Joe, Becky
-* **CRM Team:** Chris, Joseph Duty, Shelby, Tina
-* **Note Taker:** Ruchi
+* **Integration Team:** Khoa, Joe, Becky, Ruchi, Em
+* **CRM Team:** Jaime, Maria, Shelby, Bharat, Kathleen, Tina, Natalie, Chris
+* **Note Taker:** Khoa
 
 ### Key Takeaways:
 
@@ -17,6 +17,16 @@ Admin; Data Analysis; User Identifiers; Surveys; Field Removal
 5. The "removal" of unused military fields was discussed. The LOBs have indicated that they're not needed, but their removal has the potential to affect routing and rerouting. The CRM team has the comms channels established for the LOBs, and the communication of the removal will be annouced jointly with the integration teeam on those channels.
 
 ### Action Items:
+
+- [ ] Joe - Get list of fields to collect from App Insights data to CRM team ASAP - target of 10/19's sync.
+- [ ] Joe - Coordinate discussion of the use of `sec_id` in the current and new AVA applications.
+- [ ] Bharat - Send an email to the group on mandatory meetings that the AVA CRM team has so that we can know availability since the calendars on the va email side might not be updated.
+- [ ] Kathleen - Create new placeholder task in JIRA for the Medallia survey work. Send effort, acceptance criteria, dependencies & finalized survey questions to Shelby.
+- [ ] Becky - Ask Medallia team about experience on other sites.
+- [ ] Becky - Touch base with Kathleen on military information fields this week. Check that fields won’t affect routing. Draft email.
+- [ ] Becky/Kathleen - [Hold after convo with Kathleen] Communicate to business teams about military information. Notify on CCB in October 27th. Send out email in tandem (Kathleen and Becky) to AVA distribution email.
+
+Carryover action items:
 
 - [ ] JD and the va.gov AVA integration team will look for folks with KQL (Kusto Query Language) experiennce to help massage the data needed for KPIs.
 - [ ] Joe - Present API Docs and granular project plan to this meeting on Thursday (10/19).
