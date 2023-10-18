@@ -1,7 +1,10 @@
 # Conversation Guide: Profile multi-feature UAT, October 2023
 
 ### Project-specific setup
-- Add participant to feature flipper
+- Add participant to feature flipper:
+ -  `profile_use_field_editing_page`
+ -  `profile_use_notification_settings_checkboxes`
+ -  `profile_use_hub_page`
 
 ## Introduction - 2 minutes
 Thanks for joining us today! My name is Liz. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily. 
