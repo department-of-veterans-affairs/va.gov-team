@@ -51,7 +51,7 @@ The team laid out the entry points in [this Mural](https://app.mural.co/t/depart
  **4. Left Nav - Pension**
   - Link label: Apply now
   - Link destination: https://www.va.gov/pension/application/527EZ/introduction
- <img width="200" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/6c965276-427c-4735-8cfe-aea73043a1a0">
+ <img width="250" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/6c965276-427c-4735-8cfe-aea73043a1a0">
 
  **5. [Pension hub page](https://www.va.gov/pension/)**
   - Link label: Apply for a Veterans Pension online (VA Form 21P-527EZ)
@@ -62,7 +62,7 @@ The team laid out the entry points in [this Mural](https://app.mural.co/t/depart
 **6. [About VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/)**
   - Link label:
   - Link destination: www.va.gov/pension/application/527EZ/introduction
- <img width="450" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/bd814a5a-528d-4a96-a6c4-1b208de52ffc">
+ <img width="400" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/bd814a5a-528d-4a96-a6c4-1b208de52ffc">
 
     
 **7. [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/)**
