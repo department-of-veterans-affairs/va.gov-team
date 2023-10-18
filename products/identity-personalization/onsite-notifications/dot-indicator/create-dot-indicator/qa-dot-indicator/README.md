@@ -4,7 +4,8 @@
 QA was performed manually by team members. 
 * [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-dot-indicator-on-my-va-healthcare.md) (Github)
 * [Test cases - A11y format](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-dot-indicator-on-my-va-healthcare-a11y.md) (Github)
-* 
+* [Test Cases_ My VA Health Care section - Dot Indicator on Unread Health Care Messages.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/13031535/Test.Cases_.My.VA.Health.Care.section.-.Dot.Indicator.on.Unread.Health.Care.Messages.xlsx)
+
 
 
 ## Defect report
