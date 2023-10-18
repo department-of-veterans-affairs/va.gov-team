@@ -144,11 +144,13 @@ Point out the gaps
 A list of actionable findings, based on time-sensitive, priority needs. Images, videos, links, screenshots and notes provided as deemed approprite. 
 
 ### Complete Now
-- x
+-  Radio buttons in a “Category” radio group after starting a “New Message” are not announcing "X of Y", where X is the current position in the group and Y is the total number of radio buttons. Currently announcing 2 of 2, 1 of 1 and so on. 
 ### Complete Soon
-- x
+- Success Alert was not called out 
+
+"Success Alert" was not called out to screen reader user after successfully sending a message to provider.
 ### Complete Later
-- x
+- Adding <aria-label>(s) for Message ID(s)
 
 ## Other considerations and findings 
 
