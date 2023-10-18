@@ -35,35 +35,40 @@ No changes to URL or breadcrumbs.
 
 The team laid out the entry points in [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695069026901/50b83f710f1cd2f1f7f3bb63553c349ef90d402a?sender=u79ee90295fdb006d7f463212) and so we are finalizing these in the IA spec. These are pages where the link to the form are being reinstated.
 
-1. [How to apply for a VA pension as a Veteran](https://www.va.gov/pension/how-to-apply/) - Modify
-  - Link label: 
-  - Link destination: https://www.va.gov/pension/application/527EZ/introduction
+**1. [How to apply for a VA pension as a Veteran](https://www.va.gov/pension/how-to-apply/)**
+  - Link destination: www.va.gov/pension/application/527EZ/introduction
+<img width="450" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/9ad3fbe3-99a3-4b4a-9133-1c714e6c70af">
 
-2. [Eligibility for Veterans Pension](https://www.va.gov/pension/eligibility/) - Modify
-  - Link label:
-  - Link destination: https://www.va.gov/pension/application/527EZ/introduction
+**2. [Eligibility for Veterans Pension](https://www.va.gov/pension/eligibility/)**
+  - Link destination: www.va.gov/pension/application/527EZ/introduction
+<img width="450" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/9ffb1a87-cd86-475c-857d-b40e4a2c2928">
 
- 3. Main Nav - Pension - Modify
-  - Link label:
-  - Link destination: https://www.va.gov/pension/application/527EZ/introduction
-  
- 4. Left Nav - Pension - Modify
-  - Link label:
-  - Link destination: https://www.va.gov/pension/application/527EZ/introduction
- 
- 5. [Pension hub page](https://www.va.gov/pension/) - Modify
-  - Link label:
-  - Link destination: https://www.va.gov/pension/application/527EZ/introduction
- 
+ **3. Main Nav - Pension**
+  - Link label: Apply now for a Veterans Pension
+  - Link destination: www.va.gov/pension/application/527EZ/introduction
+  <img width="450" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/a49756f3-dacb-49c2-b89f-fc5b880b2889)">
 
-6. [About VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/) - Modify
-  - Link label:
+ **4. Left Nav - Pension**
+  - Link label: Apply now
   - Link destination: https://www.va.gov/pension/application/527EZ/introduction
- 
+ <img width="200" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/6c965276-427c-4735-8cfe-aea73043a1a0">
+
+ **5. [Pension hub page](https://www.va.gov/pension/)**
+  - Link label: Apply for a Veterans Pension online (VA Form 21P-527EZ)
+  - Link destination: www.va.gov/pension/application/527EZ/introduction
+ <img width="450" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/bdbfbe86-70de-404c-b947-a146e8a01af1">
+
+
+**6. [About VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/)**
+  - Link label:
+  - Link destination: www.va.gov/pension/application/527EZ/introduction
+ <img width="450" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/bd814a5a-528d-4a96-a6c4-1b208de52ffc">
+
     
-7. [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/) - Modify
+**7. [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/)**
   - Link label:
-  - Link destination: https://www.va.gov/pension/application/527EZ/introduction
+  - Link destination: www.va.gov/pension/application/527EZ/introduction
+<img width="450" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/4e7add42-ae54-40ed-97bf-d772fe1fb3f1">
 
 
 ## <a name="redirects"></a>Redirects <br>
@@ -77,6 +82,7 @@ Current URL | Redirect to | Notes
 Original redirect request to have a 302 code has been rescinded as of 8/31/23. 
 
 ## <a name="searcg"></a>Best bets <br>
+We previously routed best bets searches to the [About VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/) page so that folks wouldn't get search results to the form flow. We are updating best bets so that search results direct to the [online form](https://www.va.gov/pension/application/527EZ/introduction) again.
 
 <hr>
 <hr>
