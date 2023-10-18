@@ -174,6 +174,8 @@ One participant had questions about the Agent Orange question they saw. The firs
 
 The same participant was also unsure about **what is considered to be "near" the DMZ**. He served in Korea at Osan but not at the DMZ, so he answered "no".
 
+This participant also asked **if there is a minimum duration for the time that you must have served there**, and if it must be continuous service for a period of time. 
+
 #### RECOMMENDATIONS:
 1. If applicable, consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
 1. If possible, consider revising the content to disambiguate the word "near" in the DMZ option.
