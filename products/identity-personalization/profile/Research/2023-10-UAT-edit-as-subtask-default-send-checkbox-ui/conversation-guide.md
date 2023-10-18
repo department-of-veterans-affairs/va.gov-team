@@ -1,10 +1,10 @@
 # Conversation Guide: Profile multi-feature UAT, October 2023
 
-### Project-specific setup
+## Project-specific setup
 - Add participant to feature flipper:
- -  `profile_use_field_editing_page`
- -  `profile_use_notification_settings_checkboxes`
- -  `profile_use_hub_page`
+  -  `profile_use_field_editing_page`
+  -  `profile_use_notification_settings_checkboxes`
+  -  `profile_use_hub_page`
 
 ## Introduction - 2 minutes
 Thanks for joining us today! My name is Liz. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily. 
@@ -133,3 +133,9 @@ Okay, that's everything we were hoping to cover today. Thank you for taking the 
 Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
+
+## Post-session task
+- Remove participant from feature flipper:
+  -  `profile_use_field_editing_page`
+  -  `profile_use_notification_settings_checkboxes`
+  -  `profile_use_hub_page`
