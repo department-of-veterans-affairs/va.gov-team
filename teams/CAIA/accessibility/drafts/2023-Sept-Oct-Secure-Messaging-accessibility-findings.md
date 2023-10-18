@@ -63,10 +63,41 @@ Add screenshots, images and videos here.
 - As a result, when a user tabs to a read message, they won't be able to tell if it's actually been read already or not.
 
 
-### Finding 3
-- Feel free to include bullets
-- They can help add some more info
+### Radio Buttons not announcing total number of radio buttons
+Radio buttons in a “Category” radio group after starting a “New Message” are not announcing "X of Y", where X is the current position in the group and Y is the total number of radio buttons. Currently announcing 2 of 2, 1 of 1 and so on. 
+![58D84B29-4E27-44DB-84E9-BC0D02BA13CF_4_5005_c](https://github.com/department-of-veterans-affairs/va.gov-team/assets/102324990/57f82c91-3696-4978-b1fd-d18f2ae773cb)
 
+If the screen reader isn’t not announcing the total number of radio buttons in a group, it may indicate an accessibility issue that needs to be addressed. Here are some steps to ensure that the total number of radio buttons is announced correctly:
+
+* **Use a Fieldset and Legend**: Make sure you have a `<fieldset>` element surrounding the radio buttons with a descriptive `<legend>` to group and label them. This helps in providing context to screen readers.
+
+* **Proper Labeling**: Each radio button should have a clear and concise label using the `<label>` element. Ensure that the labels are associated with the respective radio buttons using the `for` attribute or by wrapping the input element within the label.
+
+* **Use `aria-describedby`**: You can use the `aria-describedby` attribute to provide additional information about the group. For example, you can include a visually hidden span with the total number of radio buttons and reference it in the `aria-describedby` attribute of the fieldset.
+
+### Message ID being read out incorrectly 
+Filter Messages
+
+Message ID: 30012340  needs <aria label> to read out ID correctly. VO calls out “three million …” 
+Message ID’s may need aria labels to be read out correctly 
+
+### Success Alert was not called out 
+
+"Success Alert" was not called out to screen reader user after successfully sending a message to provider. (Voiceover) -P9 
+
+To provide a "success alert" that is read out to screen reader users after they successfully send a message to their provider, you can use ARIA live regions or ARIA alerts. Here's how to do it:
+
+
+**ARIA Live Region**:
+Add a hidden live region in your HTML to contain the success message.
+Use the `aria-live` attribute to specify how the content should be announced. For success messages, you can use `aria-live="polite"`, which will wait for screen readers to finish their current announcements before reading the message.
+Update the content of the live region with the success message dynamically when the message is successfully sent.
+
+Example HTML:
+```html
+<div aria-live="polite" aria-atomic="true" class="sr-only" id="success-alert"></div>
+```
+Make sure that you update the content of the live region or alert element dynamically when the message is successfully sent. This ensures that screen reader users receive the success message as soon as it's available.
 
 ## User Feedback
 
@@ -88,6 +119,15 @@ In this section feel free to segment populations based on the trends we see with
 
 > "Telling you right off the bat that it’s unread, that’s what I’m used to. It’s ideal if it tells you if the message is read or unread." - P3, on read and unread messages
 
+> "My assumption after reading “starting a new message” would take me to a text field to actually start a new message.  however it took me to a disclaimer page. I would warn users that you are going to a disclaimer page before being able to compose a new message. ” - P9
+
+> "Message thread would be helpful as a data table instead of a list, I prefer linear and vertical navigation" - P9
+
+> "Disclaimer page with crisis information prior to is redundant because there is a notification accordion containing the same exact information" - P9
+
+> Likes “your care team might take up to x business days”  message because he knows most people get frustrated when users do not know when pcp may respond. - P9
+
+> 
 ## a11y Recommendations
 - Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment"). **Experience standards:** `Category 11` `Issue 11` ("Pages don't require sensory characteristics to be understood or operable.")
 - Users should be made aware right away that their messages will be auto-saved, and where those messages are saved to. And you may want to remove the "save draft" button entirely to reduce confusion? **Experience standards:** `Category 03` `Issue 02` ("A user flow provides content or navigation to help users understand where to go or what to do next.)
