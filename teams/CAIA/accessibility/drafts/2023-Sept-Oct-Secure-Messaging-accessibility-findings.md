@@ -58,6 +58,10 @@ Add screenshots, images and videos here.
 - There's a disclaimer page before entering the app. Then the message appears again on the 'Compose' page. One user felt that having this in multiple places was redundant, and that having liability and disclaimer pages before sending a message was a lot to navigate through.
 - There's no warning that the user is going to a liability or disclaimer page before entering the app.
 
+### Only unread messages announce themselves as such. A message that's aleady been read doesn't have an auditary indicator, only a visual one.
+- A screen reader reads out that a message is unread. But there's no screen reader-friendly indication that a message has been read already.
+- As a result, when a user tabs to a read message, they won't be able to tell if it's actually been read already or not.
+
 
 ### Finding 3
 - Feel free to include bullets
@@ -82,12 +86,16 @@ In this section feel free to segment populations based on the trends we see with
 
 > "Auto save and save are two different things and it might be somewhat confusing, especially based on the sequential order it is occurring, where I would almost have to say I prefer the save draft, delete draft and send in that order, otherwise you go to send and you think that is it. Send is usually the last option and once you made it there that is it." - P9, on saving messages and the location of the 'Send' button
 
+> "Telling you right off the bat that it’s unread, that’s what I’m used to. It’s ideal if it tells you if the message is read or unread." - P3, on read and unread messages
+
 ## a11y Recommendations
 - Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment"). **Experience standards:** `Category 11` `Issue 11` ("Pages don't require sensory characteristics to be understood or operable.")
 - Users should be made aware right away that their messages will be auto-saved, and where those messages are saved to. And you may want to remove the "save draft" button entirely to reduce confusion? **Experience standards:** `Category 03` `Issue 02` ("A user flow provides content or navigation to help users understand where to go or what to do next.)
 - It can take a long time for screen reader users to have page content read to them, so redundant/repeated text can be cumbersome to get through. When it comes to the liability and crisis line messages:
   - You might want to consider removing one instance of them. **Experience standards:** `Category 03` `Issue 04` ("A user flow doesn't have repetitive or redundant steps.")
   - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first. **Experience standards:** `Category 09` `Issue 03` ("Button and link language is descriptive and/or their purpose is clear.")
+- Have some sort of indicator that a screen reader will pick up that a message is unread. This could be screen reader-only text, for the sake of the visual design. **Experience standards:** `Category 11` `Issue 11` ("Pages don't require sensory characteristics to be understood or operable.")
+
 
 ### If we don't have enough data or research to know...
 Point out the gaps
