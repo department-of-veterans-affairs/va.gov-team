@@ -272,13 +272,16 @@ This same participant advised against telling the doctor that you're "fine" when
 A different participant said that he was advised to **go to the American Legion, VFW, or a Veteran advocates group that would understand how to fill out the disability application forms**, rather than trying to do it on your own. He went to the American Legion to apply, and they helped request his medical records. To get his military records, he had to apply 3 times--online, calling, and then writing a letter--and wait 18 months. By that time, the American Legion had already submitted his disability application, so they did a Supplemental Claim to add his military records.
 
 ### TBD findings re results...
-Based on their responses to the questions, 6 of 9 participants were taken to the "You may be eligible" results page. This page in the prototype contained burn pit content and so wasn't applicable to all of the participants (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service.
+Based on their responses to the questions, 6 of 9 participants were taken to the "**You may be eligible" results page**. This page in the prototype contained **burn pit content and so wasn't applicable to all participants** (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Two of the 9 participants seemed to have minimal interest in interacting with the "You may be eligible" results because it  didn't apply to them (i.e., wrong war and toxic subtances), though all the other participants interacted fully with the pages--either because the content applied to them or because they were more willing to pretend that the specifics were different. (It would have been helpful if we had created the second version of the "You may be eligible" results page with Vietnam and Agent Orange content as we originally planned because that would have made more sense to the Vietnam-era Veterans in this study.)
+
+Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service.
 
 Results screen | # of Participants
 ------------------|---------------
 *You may be eligible* (under PACT Act) | 6 
 *VA benefit eligibility* (can't tell if you're eligible)| 2
 *Camp Lejeune* (may be eligible but not under PACT Act) | 1
+
 
 
 
