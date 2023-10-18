@@ -1,7 +1,8 @@
-# Monitors and Alerts for the 10-10EZ application - WORK IN PROGRESS, FORMAT COPIED FROM CG FILE
-- Last Edit date: TBD 
+# Monitors and Alerts for the 10-10EZ application
+- Last Edit date: 10/18/2023
+- By Heather Justice (@hdjustice)
 
-This document lists the various monitors and alerts in place for the 10-10CG.
+This document lists the various monitors and alerts in place for the 10-10EZ.
 
 All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 
@@ -9,14 +10,16 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 ## Monitor: 10-10EZ anomaly monitor
 ### Warn: 1010EZ anomaly monitor
 #### Alert Reason:
-- Within a four hour period, 25% of total submissions has been more than two times lower than the usual volume for at least 15 minutes.
+- Within a four hour period, 25% of total submissions have been more than two times lower than the usual volume for at least 15 minutes.
 #### Team Actions:
-- 10-10 Health Apps team will determine if there have been any failures that is causing the low volume of submissions
-- If any errors/failures are found, the team will
-     - Communicate the issue to the Product Owner
+- Determine if there have been any failures that is causing the low volume of submissions
+- Communicate the issue to the Product Owner
+- If any errors/failures are found within the form, the team will
      - Determine if a maintenance banner needs to be in place to stop further failures
      - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
      - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
+- If the failures originate outside the form, the team will work with other VA.gov teams to triage, if needed.
+
 ### Recovered: 1010EZ anomaly monitor
 #### Alert Reason
 - The volume of submissions has reached at or above 25 submissions over the last 12 hours
@@ -37,6 +40,7 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
      - Copy PO (Patrick Bateman) and Crew lead (Lauren Alexanderson)
 - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
 - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
+- If the failures originate outside the form, the team will work with other VA.gov teams to triage, if needed.
 
 ## Monitor: 1010EZ submission alert for failed mailer
 ### Triggered: 1010EZ submission alert for failed mailer
@@ -45,12 +49,7 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 #### Team Actions:
 - 10-10 Health Apps team should have communicated the Veteran contact info to the HEC points of contact, mentioned in the "Failed with no retries" steps
 - Communicate the mailer failure to the PO
-- Obtain Veteran contact information (Name, Phone number, Email address)
-- Send the Veteran contact information via secure, encrypted email (from va.gov email address) to Amanda Scully and Antonio Presley (Confirm these names with PO)
-     - Explain what has happened (submission failure) and provide the Veteran contact info.
-     - Copy PO (Patrick Bateman) and Crew lead (Lauren Alexanderson)
-- Determine if the failure is occuring on our form only, or is sitewide
-- If the failures originate outside the form, the team will work with other VA.gov teams to triage, if needed.
+- Work with other VA.gov teams to triage
 ### Recovered: 1010EZ submission alert for failed mailer
 #### Alert Reason
 - There have not been any further failures on the mailer service in the last 4 hours.
@@ -62,9 +61,13 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 #### Alert Reason:
 - Errors being captured exceed 5% of total submissions over the last 4 hours.
 #### Team Actions:
-- 10-10 Health Apps team will review the errors and va.gov monitors to determine if the root cause is on the form or sitewide
-- If the errors are found to origination from the form processes, this information will be communicated on the **#vecms-carma_vadotgov_development_external** Slack channel
-- If the errors originate outside the form, the team will work with other VA.gov teams to triage, if needed.
+- Review the errors and VA.gov monitors to determine if the root cause is on the form or sitewide
+- Communicate the issue to the Product Owner
+- If any errors/failures are found within the form, the team will
+     - Determine if a maintenance banner needs to be in place to stop further failures
+     - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
+     - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
+- If the failures originate outside the form, the team will work with other VA.gov teams to triage, if needed.
 ### Recovered: 1010EZ controller error rate is above 5%
 #### Alert Reason
 - Errors being captured are now below 5% of total submissions over the last 4 hours
