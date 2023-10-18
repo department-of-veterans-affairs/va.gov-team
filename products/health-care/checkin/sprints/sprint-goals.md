@@ -22,7 +22,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goals: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
-       - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) [[FE] Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423)
+       - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)  [[FE] Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423)
    - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
        - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Wireframe UI solution for communication of BT claim statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66762) ROLLOVER
        - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Content] Create Content for Claim Status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67165)
