@@ -6,6 +6,8 @@ The feedback button will show a feedback survey (2 questions) when a user clicks
 
 We will add these surveys to ask.va.gov (to establish a baseline) and Ask VA on VA.gov.
 
+When Ask VA moves to VA.gov, the surveys will be added to va.gov/contact-us/ask-va. 
+
 ## Intercept survey
 5% of users will see the pop-up modal.
 
