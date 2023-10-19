@@ -80,7 +80,7 @@ Actual Launch Date
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/21-686C-military-base-outside-the-US-address-issues/686c%20address%20issues%20before.png
 
 ### After
-
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/21-686C-military-base-outside-the-US-address-issues/after-screenshots
 
 #### Communications
 Where will you discuss this initiative?
