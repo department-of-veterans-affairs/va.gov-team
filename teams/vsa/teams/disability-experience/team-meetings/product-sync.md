@@ -3,7 +3,7 @@
 ### Date: Oct 19' 2023       
 ### Participants: Rakshinda, Austin, Shannon, Emily, Steve 
 ### Topics Covered:
-- Tech Debt - Do we want to allocate capacity every sprint to address tech debt proactively
+- Tech Debt - Do we want to allocate capacity every sprint to address tech debt proactively - work with Austin to priortize across the two teams for tech debt tickets
 - Coforma offsite Oct 23rd - Oct 27th
   - Austin, Nathan, Thomas, Nichole, Julie out (Austin will monitor slack and Sam will be available for escalations)  
 - Team 2 priorities (quick recap to make sure we are still aligned)
@@ -18,8 +18,14 @@
     - 3. Downstream system outages (playbook / maitenance windows / ux improvements)
 - Team 1 priorities
   - Continue LH migration
+     -  Check for EVSS changes in LH migration - add to A/C
+     -  Get the list from Austin/Emily/EVSS of all the changes being made for fixing failures 
   - Intro pages - looking at epic break-down, outstanding questions, risks and blockers as outcome of technical discovery
   - Toxic Exposure - reset on outstanding questions
+     -  Per contention
+     -  Other questions
+     -  Paper form
+  - Schedule BDD overview with David  
   
 
   
