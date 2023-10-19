@@ -1,0 +1,100 @@
+name: Taxonomy - Add Term
+description: Use this template when adding terms to the Service or Benefit taxonomy.
+title: [ADD] (Term name) to (taxonomy name)
+  Repository
+labels: Content, Content governance
+assignees: ''
+
+body:
+
+  - type: dropdown
+    id: which-taxonomy
+    attributes:
+      label:  Which Taxonomy is this term for?
+      multiple: false
+      options:
+        - VA benefit taxonomy
+        - VA service taxonomy
+        - Other
+     validations:
+      required: true
+  - type: input
+    id: term-name
+    attributes:
+      label: Proposed term name/label
+      description: e.g. Veterans Pension
+    validations:
+      required: true
+  - type: input
+    id: machine-name
+    attributes:
+      label: Proposed machine name/ API ID
+      description: va_service_veterans_pension
+    validations:
+      required: false 
+  - type: dropdown
+    id: overlap
+    attributes:
+      label: Does this overlap with any existing term in the taxonomy?
+      multiple: false
+      options:
+        - Yes
+        - No
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale for adding this term
+      description: Write a short explanation of why this term is needed. Include links to any relevant issues, research findings, etc.
+    validations:
+      required: true 
+  - type: dropdown
+    id: products
+    attributes:
+      label: Which products will this term impact?
+      multiple: true
+      options:
+        - VAMCs
+        - Vet Centers
+        - VBA Regional Office
+        - Benefit hubs
+        - Other
+    validations:
+      required: false 
+  - type: dropdown
+    id: stakeholders
+    attributes:
+      label: Have stakeholders from impacted products been consulted?
+      multiple: false
+      options:
+        - Yes
+        - No
+    validations:
+      required: true  
+  - type: dropdown
+    id: subfields
+    attributes:
+      label: Have you drafted content for all the relevant subfields?
+      multiple: false
+      options:
+        - Yes
+        - No
+    validations:
+      required: true   
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional notes
+      description: 
+    validations:
+      required: false
+
+
+## Acceptance Criteria
+- [ ] Term is reviewed by relevant taxonomy governance body
+- [ ] Term is either approved for addition, or denied with an explanation
+- [ ] If approved, a Drupal admin from Product team may add the term to the taxonomy
+- [ ] Content for subfields is drafted in Drupal by Product team(s)
+- [ ] (List any necessary review and approval steps here)
+- [ ] Term is published
