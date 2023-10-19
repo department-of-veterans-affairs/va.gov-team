@@ -144,6 +144,7 @@ General problems include:
   - Lauren Alexanderson - Health Portfolio Lead, main POC for anything to do with patient portal/medical records 
   - Matt Dingee - Forms System & Design System
   - Danielle Thierry - CAIA Lead (for all things content, community care, decision review and family member hubs, etc.) 
+  - Mikki Northuis -Information architecture
   - Kay Lawyer - Product lead for Unified Appointment Experience (including consults, authorizations, etc.) & Medications
   - Denise Coveyduc - Product lead for debt mgmt product 
   - Beverly Nelson - Product lead for VA Notify
