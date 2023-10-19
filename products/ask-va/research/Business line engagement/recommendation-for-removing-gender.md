@@ -13,7 +13,7 @@ We also reviewed this field with many Ask VA business lines to understand how th
 
 > "**We don't use [gender] at all.** Especially if someone has pronouns. Most of our responses are auto-generated. We don't pull reports about this or anything like that. We don't use it." - Ask VA agent from VBA
 
-The Center for Women Veterans (CWV) business line did share a [Federal law](https://www.govinfo.gov/app/details/PLAW-116publ315) with their understanding of why we must collect `Gender` information from submitters. However, after reviewing the law, we find that it only mandates collection of gender information when gender information is available in the dataset:
+The Center for Women Veterans (CWV) did share a [Federal law](https://www.govinfo.gov/app/details/PLAW-116publ315) with their understanding of why we must collect `Gender` information from submitters. However, after reviewing the law, we find that it only mandates collection of gender information when gender information is available in the dataset:
 > "...disaggregate such data by gender, race, and ethnicity, **when the data lends itself to such disaggregation."**
 
 When Ask VA migrates to VA.gov, we will continue to ask for preferred `Pronouns`. Pronouns more accurately describe how to address the submitter and/or refer to the person who an inquiry is about.
