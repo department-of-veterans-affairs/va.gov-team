@@ -45,7 +45,7 @@ The Sprint 0 meeting is a time to do the following:
 
 | Immediate Action | Next Quarter Bucket | Icebox |
 | ----------- | ----------- | ----------- |
-| <br> |  [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md) | [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)<br><br> [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md) |
+| <br> |  [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md) <br><br> [Demo Mode Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Demo%20Mode%20Access/demoModeAccess.md)| [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)<br><br> [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md) |
 
 
 
