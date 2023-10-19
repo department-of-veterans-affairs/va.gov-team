@@ -1,6 +1,6 @@
 # Benefits Disability Experience - Product sync 
 
-### Date: Oct 12' 2023       
+### Date: Oct 19' 2023       
 ### Participants: Rakshinda, Austin, Shannon, Emily, Steve 
 ### Topics Covered:
 - Tech Debt - Do we want to allocate capacity every sprint to bring in one ticket?
