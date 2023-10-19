@@ -31,7 +31,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Task goal: Determine the effectiveness of dot and badge indicators to draw attention to important updates and when it's appropriate to use each kind of indicator. - 15 minutes
+## Research goal: Determine the effectiveness of dot and badge indicators to draw attention to important updates and when it's appropriate to use each kind of indicator. - 15-20 minutes
 
 Now I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov and then share your screen with me. Let me know if you need any help doing that.
 
