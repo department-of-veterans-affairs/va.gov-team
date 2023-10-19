@@ -283,15 +283,21 @@ Results screen | # of Participants
 
 Based on their responses to the questions, 6 of 9 participants were taken to the "**You may be eligible" results page**. This page in the prototype contained **burn pit content only and so wasn't applicable to all participants** (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Two of the 9 participants seemed to have minimal interest in interacting with the "You may be eligible" results because it didn't apply to them (i.e., wrong war and toxic subtances), though all the other participants interacted fully with the pages--either because the content applied to them or because they were more willing to pretend that the specifics were different. (Note: It would have been helpful if we had created the second version of the "You may be eligible" results page with Vietnam/Agent Orange content as we originally planned because that would have made more sense to the Vietnam-era Veterans in this study.)
 
+
 #### User feedback on the R1-1 "You may be eligible" results page
 
-All 9 participants understood what presumptive conditions are, but most said that they knew from before this research session. One commented that the explanation on the page was easy to understand, but a more useful assessment would be by people who weren't already familiar with presumptive conditions before seeing the explanation.
+**All 9 participants understood *presumptive conditions***, but most said that they **knew before this research session**. One commented that the explanation on the page was easy to understand, but a more useful assessment would be by people who weren't already familiar with presumptive conditions before seeing the explanation.
 
 > *"I honestly I think the VA or whoever's doing this for the VA has made it more clear...it's making it easier" (p2).*
 
-One participant wanted to see what the specific presumptive conditions are, which aren't on the page.
+One participant **expected to be asked when and where he served**, but that's not what the page does. Most people didn't comment on the "August 2, 1990" date. One participant said that their entire service was after 1990, so that date definitely applies. Another said they understood the August 2 date as *"when Desert Storm or Desert Shield kicked off. That's when we deployed to Kuwait" (p4).*
 
-#### User feedback on the R1-2 "You may be eligible" results page
+One participant **wanted to see what the specific presumptive conditions are**, which aren't on the page. More specifically, they wanted to know what conditions are covered for which location(s) in what timeframe.
+
+#### RECOMMENDATIONS:
+1. In or near the description of presumptive conditions on the R1-1 page, consider adding a note or link about where to find a list of specific conditions (on the R1-2 page) so that users will know where to find them.
+
+#### User feedback on the R1-2 "Apply for VA benefits now" results page
 
 
 #### User feedback on the "VA benefit eligibility" (can't tell if you're eligible) results page
