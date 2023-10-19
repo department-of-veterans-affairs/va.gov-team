@@ -20,4 +20,4 @@ Homepage consists of several sections, driven by different technical mechanisms.
 
 Homepage permissions: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11160
 
-![Screenshot 2023-10-19 at 9 31 10 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/85581471/efdcc68f-a54e-46c4-af82-7dcef6ad2399)
+![screencapture-va-gov-2023-10-19-12_49_28](https://github.com/department-of-veterans-affairs/va.gov-team/assets/85581471/42266146-6a82-4404-8289-c6ff9a475696)
