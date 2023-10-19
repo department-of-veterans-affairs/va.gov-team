@@ -40,12 +40,6 @@ These release notes highlight the significant changes to Pre-Check-in and Online
 
   ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/ca870ba9-75fa-4443-8f43-4b424a873e91)
 
-
-- Hiding the first accorion when the Veteran has indicated that all of their information is up-to-date
-
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/ad580a67-ca6a-46a4-9a29-ade30f7d3b02)
-
-
 ## Changes to On-line Check-in
 
 - New content for the text message when Veteran texts "check in" to 53079
