@@ -10,9 +10,9 @@
 * The current process for accessing Demo Mode in the app is to tap the VA logo 21 times until the password prompt is displayed.  Once the correct password is entered, the user enters the app as a test user named Kimberley Washington.  Mock data for Kimberley Washington is used throughout most features of the app to show how the app works and what a user can expect to see.
     * [Feedback from stakeholders](https://dsva.slack.com/archives/C018V2JCWRJ/p1697223230666639?thread_ts=1697219620.972579&cid=C018V2JCWRJ) that this process is not simple enough
     * Use Cases:
-    * Demo mode is used by VA employees to show functionality to other VA employees (ex: Rachel showing functionality to other VA stakeholders)
-    * Demo mode can also be used by VA employees in veteran-facing roles using Demo Mode to show Veterans how the app works. (ex: VA employee showing a veteran where to find their claims status in the app) - **Do we know any more about this use case?  Can we talk with VA employees that do this?**
-    * Demo mode could be utilized by Veterans themselves to help them determine if the app has the functionality they need prior to setting up login credentials since this can be time consuming. - **Do we know if this ever happens now? [Example of industry app with a user-facing Demo Mode.](https://www.youtube.com/watch?v=m5Z6lpT629A)**
+        * Demo mode is used by VA employees to show functionality to other VA employees (ex: Rachel showing functionality to other VA stakeholders)
+        * Demo mode can also be used by VA employees in veteran-facing roles using Demo Mode to show Veterans how the app works. (ex: VA employee showing a veteran where to find their claims status in the app) - **Do we know any more about this use case?  Can we talk with VA employees that do this?**
+        * Demo mode could be utilized by Veterans themselves to help them determine if the app has the functionality they need prior to setting up login credentials since this can be time consuming. - **Do we know if this ever happens now? [Example of industry app with a user-facing Demo Mode.](https://www.youtube.com/watch?v=m5Z6lpT629A)**
 * How could we test/confirm our hypothesis that this is a problem?
   
 ### Desired Outcomes ###
