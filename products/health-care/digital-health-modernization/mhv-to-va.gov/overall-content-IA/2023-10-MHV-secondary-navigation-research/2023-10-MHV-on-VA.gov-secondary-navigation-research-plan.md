@@ -20,7 +20,7 @@ This research fits into these points of a Veteran's Journey:
 
 ## Research Goals 	
 
-The goal of this study is to help us understand how Veterans use two different types of secondary navigations to complete key health tasks on MHV on VA.gov and what they struggle with each. One is an [existing secondary navigation](https://www.va.gov/health-care/covid-19-vaccine/about-covid-19-vaccine/), and the second one is a new design that shows all the health tools and has a different MHV header. 
+The goal of this study is to help us understand how Veterans navigate among tools on MHV on VA.gov and how the current secondary navigational strategies align with their expectations and mental models. The purpose is to access Veterans' reactions and expectations of MHV on the VA.gov experience and get a better sense of what the most effective secondary navigation could be for guiding users through key health tasks. 
 
 ### Outcome
 
