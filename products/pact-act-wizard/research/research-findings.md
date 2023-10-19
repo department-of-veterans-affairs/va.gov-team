@@ -212,14 +212,14 @@ Another participant heard that they **could be eligible for PACT Act benefits by
 > *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
 
 #### RECOMMENDATIONS: 
-1. The Content team could evaluate and consider adding more information to the PACT Act page and/or the wizard:
+1. Consider adding more information to the PACT Act page and/or the wizard to address participants' questions and concerns:
      
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
 
      1. You must have a disability in order to get compensation, but not necessarily a presumptive condition. Just being in a specific location and getting exposed to toxic substances isn't enough. 
        
      1. Burn pit registry is not connected to PACT Act eligibility, and so you should apply for PACT Act benefits.
-1. Consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits.
+1. VA could consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits, to support the belief that they would hear back if they should apply.
 
 ### 4. Participants shared feedback and questions about how and when to apply for PACT Act benefits  
 The following is feedback that we received from individual participants about applying for PACT Act benefits. 
@@ -254,12 +254,12 @@ One participant **would have tried to convince his dad to apply** for benefits u
 
 #### RECOMMENDATIONS:
 1. Danielle plans to share participant feedback about the Sept 30 deadline to OPIA for their continued outreach work.
-1. The Content team could evaluate and consider adding more information to the PACT Act page and/or the wizard:
+1. Consider adding more information to the PACT Act page and/or the wizard to address participants' questions and concerns:
+     1. PACT Act expands eligibility for existing disability compensation benefits   
+     1. This is the current list of presumptive conditions and others might be added in the future. (Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?)
      1. The significance of having your disability rating for at least 10 years before applying for additional disability compensation (if that's accurate information and reasonable advice).
      1. Any guidance on how to handle CRSC and PACT benefits together
-     1. PACT Act expands eligibility for existing disability compensation benefits
-     1. This is the current list of presumptive conditions and others might be added in the future. (Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?)
-
+ 
 
 ### 5. Participants shared feedback about the VA disability claims process in general
 One participant (and also one pilot participant) described negative experiences in the past with **VA not believing that medical conditions are linked to their service**. 
@@ -271,10 +271,9 @@ This same participant advised against telling the doctor that you're "fine" when
 
 A different participant said that he was advised to **go to the American Legion, VFW, or a Veteran advocates group that would understand how to fill out the disability application forms**, rather than trying to do it on your own. He went to the American Legion to apply, and they helped request his medical records. To get his military records, he had to apply 3 times--online, calling, and then writing a letter--and wait 18 months. By that time, the American Legion had already submitted his disability application, so they did a Supplemental Claim to add his military records.
 
-### TBD findings re results...
-Based on their responses to the questions, 6 of 9 participants were taken to the "**You may be eligible" results page**. This page in the prototype contained **burn pit content and so wasn't applicable to all participants** (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Two of the 9 participants seemed to have minimal interest in interacting with the "You may be eligible" results because it  didn't apply to them (i.e., wrong war and toxic subtances), though all the other participants interacted fully with the pages--either because the content applied to them or because they were more willing to pretend that the specifics were different. (It would have been helpful if we had created the second version of the "You may be eligible" results page with Vietnam and Agent Orange content as we originally planned because that would have made more sense to the Vietnam-era Veterans in this study.)
+### Participants had feedback on the results pages *(need to organize...)*
 
-Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service.
+Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service. 
 
 Results screen | # of Participants
 ------------------|---------------
@@ -282,6 +281,20 @@ Results screen | # of Participants
 *VA benefit eligibility* (can't tell if you're eligible)| 2
 *Camp Lejeune* (may be eligible but not under PACT Act) | 1
 
+Based on their responses to the questions, 6 of 9 participants were taken to the "**You may be eligible" results page**. This page in the prototype contained **burn pit content only and so wasn't applicable to all participants** (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Two of the 9 participants seemed to have minimal interest in interacting with the "You may be eligible" results because it didn't apply to them (i.e., wrong war and toxic subtances), though all the other participants interacted fully with the pages--either because the content applied to them or because they were more willing to pretend that the specifics were different. (Note: It would have been helpful if we had created the second version of the "You may be eligible" results page with Vietnam/Agent Orange content as we originally planned because that would have made more sense to the Vietnam-era Veterans in this study.)
+
+#### User feedback on the R1-1 "You may be eligible" results page
+
+All 9 participants understood what presumptive conditions are, but most said that they knew from before this research session. One commented that the explanation on the page was easy to understand, but a more useful assessment would be by people who weren't already familiar with presumptive conditions before seeing the explanation.
+
+> *"I honestly I think the VA or whoever's doing this for the VA has made it more clear...it's making it easier" (p2).*
+
+One participant wanted to see what the specific presumptive conditions are, which aren't on the page.
+
+#### User feedback on the R1-2 "You may be eligible" results page
+
+
+#### User feedback on the "VA benefit eligibility" (can't tell if you're eligible) results page
 
 
 
