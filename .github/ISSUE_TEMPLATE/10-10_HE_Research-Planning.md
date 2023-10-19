@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Issue Description
-- Create needed documents to prepare for research studies on the MVP release of the 10-10EZR health benefits update form. 
+- Create needed documents to prepare for research studies.
 - Download templates needed from the [Platform site](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va)
 - Work with team to determine research goals and questions.
 
