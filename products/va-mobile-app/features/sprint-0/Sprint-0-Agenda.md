@@ -55,6 +55,9 @@ The Sprint 0 meeting is a time to do the following:
 
 ## 10/19/23
 * [Demo Mode Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Demo%20Mode%20Access/demoModeAccess.md) (Kelly)
+    * Recording:https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/c5a65b75-68ae-4cec-b24a-fffcd0e0a8ba
+
+
 
 ## 10/5/23
 * [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
