@@ -797,7 +797,7 @@ If we need more information, we'll contact you to tell you what other informatio
 
 You can ask us a question online through Ask VA.
 
-[Contact us online through Ask VA.](#)
+[Contact us online through Ask VA.](ask.va.gov)
 
 Or call us at 1-800-827-1000 (TTY:711).
 
@@ -805,9 +805,9 @@ Or call us at 1-800-827-1000 (TTY:711).
 
 **Note:** You can request a hearing at any time during the decision review process. 
 
-Button: [Track the status of your appeal]
+Button: [Check your Board Appeal Status online](#)
 
-**Note:** Please allow some time for your appeal to process through our system. It could take 7 to 10 days before it's listed in our claim status tool.
+**Note:** It may take 7 to 10 days for your Board Appeal request to appear online.
 
 ---
 ## Error
@@ -909,31 +909,35 @@ Dear ((first_name)),
 
 We’ve received your request for a Board Appeal (VA 10182).
 
-To check your appeal status, go to https://www.va.gov/claim-or-appeal-status/ to sign in to our claim status tool. Please allow some time for your appeal to process through our system. It could take 7 to 10 days before it’s listed in our claim status tool.
+To check the status of your Board Appeal online.
 
-**Your Appeal details are below:**
+[Check your Board Appeal status online](https://www.va.gov/claim-or-appeal-status/) 
 
-Board Appeal 
+**Note:** It could take 7 to 10 days for your Board Appeal request to appear online.
+
+**Your Board Appeal details**
 
 **Date Submitted:**
 
 ((date_submitted))
 
-[Download a copy of your Board Appeal (PDF)](#)
+[Download a copy of your completed Board Appeal request (PDF)](#)
 
-**Note:** You'll need to sign in to access to this PDF. This link will remain active for 10 days.
+**Note:** You'll need to sign in to access to this PDF. You can use this link for the next 10 days.
 
 These documents are for your records only. We ask that you don’t send us another copy of your form. 
 
-If we have questions or need more information, we may contact you. We’ll notify you once we have processed your Board Appeal. If you need to contact us, visit https://va.gov or by phone: 1-800-827-1000.
+If we need more information, we'll contact you. We’ll notify you once we've processed your Board Appeal. 
+
+If you have questions, you can contact us online through [Ask VA](ask.va.gov)
+
+Or call us at 1-800-827-1000 (TTY:711).
 
 Thank you for your service, 
 
-VA
+VA.gov
 
-You are receiving this email because you filed a Board Appeal with VA.
-
-Please do not reply to this email.
+You're receiving this email because you filed a Board Appeal with VA. Don't reply to this email.
 
 
 
