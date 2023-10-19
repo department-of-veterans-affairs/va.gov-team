@@ -1,4 +1,4 @@
-# Research Plan for Research Plan for ARM Team, Find a Representative & 21-22 Form Flow, 10/2023
+# Research Plan for ARM Team, Find a Representative User Test, 11/2023
 
 ## Background
 The Office of the Chief Technology Officer (OCTO) is seeking to migrate Veteran and Power of Attorney (PoA) experiences from the legacy Stakeholder Enterprise Platform (SEP) product and eBenefits platform to VA.gov.
@@ -15,10 +15,10 @@ The primary goal is to make it easier, safer, and faster for Veterans to assign 
 This work touches on various aspects of the Veteran Journey. Whenever a Veteran could potentially need help from a representative this feature would be relevant. For many Veterans, this can happen at any point along their life journey.
 
 ## Research Goals	
-Understand usability of the find a representative and 21-22 form flows on both desktop and mobile devices.
+Understand how users navigate to and use the find a representative tool on both desktop and mobile devices.
 
 ### Outcome
-User testing will inform adjustments to the MVP flows to improve usability.
+User testing will inform navigation to and usability of the find a representative tool.
 
 ### Research questions
 Please refer to the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/99e396f84cce0e30ea6ad38e0735c84327dbeada/products/accredited-representation-management/research/2023-10-ARM-MVP-usertest/conversation-guide.md) for all participant questions.
@@ -30,15 +30,13 @@ Please refer to the [conversation guide](https://github.com/department-of-vetera
 6. Are the next steps clear and actionable?
 
 ### Hypothesis
-1. By providing information in plain language, Veterans’ will understand representatives, and the processes to manage them.
-2. Veterans associate representatives with the claims process since the process is complicated and they frequently need support.
+1. Veterans will associate finding a representative with the benefit they’re wanting support with.
+2. By providing information in plain language, Veterans’ will understand representatives, and the processes to manage them.
 3. A representative's location is important to Veterans so they can easily see their representative in person.
-4. Veterans will prefer to sign-in to simplify the form experience and save their progress.
-5. Veterans will want to provide full access to their information to their representatives so they can better support them.
-6. Veterans will prefer to use the online form to fill out the 21-22(a) in order to reduce error, rather than downloading and filling out on their own.
+4. Veterans will prefer to sign-in to see their current representative.
 
 ## Methodology	
-**Usability testing** / Veterans will be asked to engage with a live prototype to test usability, understandability of content, and desirability of features.
+**Usability testing** / Veterans will be asked to engage with VA.gov and a prototype to test usability, understandability of content, and desirability of features.
 
 ### Location
 Remote on Zoom
@@ -73,23 +71,32 @@ Our target audience are 12 Veterans (with expectations of speaking to 8) who are
 	- **Exactly 6** / primarily mobile users
 
 **Secondary criteria (nice-to-haves)**
+- **No more than 6 (50%)** / participants in a representative role
 - **At least 3, no more than 6 (50%)** / aged 55-64+
 - **At least 2, no more than 4 (30%)** / people of color
 - **At least 1, no more than 3 (25%)** / in a rural area
 - **At least 1, no more than 3 (25%)** / without a degree
-- **At least 1** / (10%) women
+- **At least 1 (10%)** / women
 
 Generated using VA [maximum variation sampling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#Lean-MVS-Strategy) method.
 
 **Screener questions**
-1. The following statements will be referring to your engagement with representatives, which includes VSOs, attorneys, and claims agents. Select the option that best describes your current situation.
+1. Do you currently help Veterans with their benefits in any of the following roles?
+	- I work or volunteer at a Veteran Service Organization (VSO)
+	- I’m a Veteran Service Officer
+	- I’m an attorney
+	- I’m a claims agent
+	- None of the above
+
+2. The following statements will be referring to your engagement with representatives, which includes VSOs, attorneys, and claims agents. Select the option that best describes your current situation.
 	- I am currently looking for a representative to support me with a VA benefit, such as education, pension, or disability
-	- I have been getting support from a representative with a VA benefit, such as education, pension, or disability, for the last 3 - 6 months
-	- I received support from a representative with a VA benefit, such as education, pension, or disability, in the past
+	- For the last 3 - 6 months I have been getting support from a representative with a VA benefit, such as education, pension, or disability
+	- More than 6 months ago I received support from a representative with a VA benefit, such as education, pension, or disability
 	- I have never worked with a representative and am not currently looking for representation
 
 2. What type of representative are you looking for support from and/or are currently getting support from with your VA benefit?
 	- Veteran Service Organization (VSO)
+ 	- Veteran Service Officer
 	- Attorney
 	- Claims Agent
 	- None of the above
@@ -114,6 +121,7 @@ Generated using VA [maximum variation sampling](https://github.com/department-of
 - 09/29 - 10/06 / Team to review research documentation
 - 10/09 - 10/13 / Update documentation based on feedback
 - 10/26 / Prototype complete with midpoint review
+- 10/27 / Update documentation to reflect MVP changes
 - 10/27 / Submit for [collaboration cycle research review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/research-review)
 - 10/31 / Collaboration cycle research review done, update to reflect feedback
 - 11/01 / Start recruitment with Perigean
