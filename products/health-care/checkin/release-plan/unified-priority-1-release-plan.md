@@ -61,8 +61,10 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Desired date range: January-December 2024
 - How will you make the product available in production while limiting the number of users who can find/access it: feature flag will be enabled for certain facilities or clinics.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - Change in how many Veterans completed Pre-Check-in  
-  - Change in how many Veterans completed eCheck-in
+    - Number of users who have completed Pre-Check-in: [FILL_IN]
+    - Number of users who have completed eCheck-in: [FILL_IN]
+    - Change in number of users who have completed Pre-Check-in: [FILL_IN]
+    - Change in number of users who have completed eCheck-in: [FILL_IN]
 - Links to the dashboard(s) showing "success criteria" metrics: 
   - [Power BI: Pre-Check-in Dashboard](https://app.powerbigov.us/groups/me/apps/741625e9-a049-4f8e-a424-d13c7a723da7/reports/3dd5c5a9-2f91-4330-b04c-0182e7f8129e/ReportSection0d9e69581e79924c6fbb)
   - [Power BI: eCheck-in Dashboard](https://app.powerbigov.us/groups/me/apps/741625e9-a049-4f8e-a424-d13c7a723da7/reports/3dd5c5a9-2f91-4330-b04c-0182e7f8129e/ReportSection)
