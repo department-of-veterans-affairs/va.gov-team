@@ -297,6 +297,8 @@ One participant **wanted to see what the specific presumptive conditions are**, 
 1. In or near the description of presumptive conditions on the R1-1 page, consider adding a note or link about where to find a list of specific conditions (on the R1-2 page) so that users will know where to find them. Nothing on the R1-1 page implies that you will be able to find them after you click the "Learn what to do next" link.
 
 #### User feedback on the R1-2 "Apply for VA benefits now" results page
+One participant got stuck after clicking on the "Learn more about after clicking on the "Learn more about health care eligibility" link. He couldn't figure out how to get back to results page because he didn't realize the content was in a new browser tab. He wasn't very tech savvy.
+
 One of the pilot participants had **difficulty figuring out which of the two disability links *(File a disability compensation claim vs. File a Supplemental Claim)* to use**. He already gets VA disability compensation and doesn't want to mess up his current rating. He thinks he would file a Supplemental Claim since he already has disability, but the descriptive paragraph says to only do that if you've been denied before *for this condition*. The long quote below is from this pilot participant as he takes a while figuring out when to use which link.
 
 > *"My situation...I don't feel like it falls into any of these categories...because I have a claim on file. But...it says, if you haven't yet filed a claim for your condition, and I haven't for that condition, but I do have another one. I have a disability percentage, so I would wonder if this is the right option for me or if it's going to mess up my other claim. I would be cautious about this first option.*
@@ -308,6 +310,7 @@ One of the pilot participants had **difficulty figuring out which of the two dis
 > *When I read the paragraphs, the first link is what I would use if I have never claimed *this particular condition*, and the second link is only if I got it denied" (pilot 1).*
 
 #### RECOMMENDATIONS:
+1. Share with Laura Flannery the user difficulty in going back after clicking on a link and landing in a new browser tab.
 1. Consider adding another link/header for those who already have VA disability because "if you haven't filed a claim" and "if we denied your claim" don't make sense.
 
 #### User feedback on the "VA benefit eligibility" (can't tell if you're eligible) results page
@@ -349,11 +352,12 @@ Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
 
 ## Further research needed
 
+- We would like to get feedback from more **Veterans using smartphones**. In this study, we had several such people recruited but only one showed up for the sessions. 
 - We would like to get feedback from **Veterans who use screen readers**, which we were unable to do this time because our prototype wasn't accessible.
-- We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so that we can find out if they know enough about their family member's service to answer the questions in this wizard.
+- We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so that we can find out if they know enough about their family member's service to be able to answer the questions in this wizard.
 - When **additional questions about medical conditions** get added to this wizard, it would be helpful to usability test that content before launch.
 
-
+*(CHECK IF OTHER RECRUITMENT CRITERIA NOT MET)*
 
 
 ## Appendix
