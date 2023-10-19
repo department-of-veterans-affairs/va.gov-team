@@ -35,12 +35,13 @@ The Sprint 0 meeting is a time to do the following:
 * [External Links - Minimize and Refine](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4077)
 * Personalized Notifications
     * Showing changes of statuses, etc.
+* [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
 
 
 ## Ready to Present
 
-* [Demo Mode Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Demo%20Mode%20Access/demoModeAccess.md) (Kelly)
-* [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
+* 
+
 
 
 | Immediate Action | Next Quarter Bucket | Icebox |
