@@ -61,7 +61,7 @@ This list is alphabetized by category name. Each field is marked as:
   - `Survivor benefits`
   - `Burials and memorials`
   - `Center for Women Veterans`
-  - `Benefits issues outside the U.S.`
+  - `Benefits issues outside the U.S.` (Topic: Disability compensation)
 - `DoD/EDIPI number` is needed by around 50% of business lines, so we need to require `DoD/EDIPI number' for at least these categories:
   - `Center for Minority Veterans`
   - `Decisions reviews and appeals`
