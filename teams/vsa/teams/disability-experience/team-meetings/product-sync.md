@@ -4,6 +4,10 @@
 ### Participants: Rakshinda, Austin, Shannon, Emily, Steve 
 ### Topics Covered:
 - Tech Debt - Do we want to allocate capacity every sprint to bring in one ticket?
+- Coforma offsite Oct 23rd - Oct 27th
+- Team 2 priorities (quick recap to make sure we are still aligned)
+-- Now:
+  sf
 
   
 ### Date: Oct 12' 2023       
