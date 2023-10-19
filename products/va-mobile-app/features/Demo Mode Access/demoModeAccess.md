@@ -8,7 +8,7 @@
 
 * [Demo Mode Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Mobile%20Demo%20Mode)
 * The current process for accessing Demo Mode in the app is to tap the VA logo 21 times until the password prompt is displayed.  Once the correct password is entered, the user enters the app as a test user named Kimberley Washington.  Mock data for Kimberley Washington is used throughout most features of the app to show how the app works and what a user can expect to see.
-    * [Feedback from stakeholders](https://dsva.slack.com/archives/C018V2JCWRJ/p1697223230666639?thread_ts=1697219620.972579&cid=C018V2JCWRJ) that this process is not simple enough
+    * [Feedback from PO](https://dsva.slack.com/archives/C018V2JCWRJ/p1697223230666639?thread_ts=1697219620.972579&cid=C018V2JCWRJ) that this process could be quicker
     * Use Cases:
         * Demo mode is used by VA employees to show functionality to other VA employees (ex: Rachel showing functionality to other VA stakeholders)
         * Demo mode can also be used by VA employees in veteran-facing roles using Demo Mode to show Veterans how the app works. (ex: VA employee showing a veteran where to find their claims status in the app) - **Do we know any more about this use case?  Can we talk with VA employees that do this?**
