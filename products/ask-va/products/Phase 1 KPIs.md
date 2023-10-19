@@ -5,7 +5,16 @@
 
 ##### KPIs (Pick max 3-5):
 
-- Time it takes to submit an inquiry
+- Time it takes to submit an inquiry.
+More info: If an inquiry was submitted, how long did it take from the start of a session to the end of the session?
+- a. For the submitters that submitted an inquiry, what is the average time that it took them from the time that they landed on the ask.va.gov to the time that they clicked submit. 
+- b. For the submitters that submitted an inquiry, what is the average time that it took them from the time the NEXT button is clicked in the “Tell us about your question” page to the time that they clicked submit. 
+
+We do want the data to show authenticated vs. unauthenticated, and type of device. 
+
+
+  -
+  -
   - Currently, it takes ___ 
   - If we introduce a google analytics ticket on the current Ask VA, we can independently capture the current metrics. 
   - Reduce this by X%
