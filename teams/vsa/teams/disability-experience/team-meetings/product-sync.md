@@ -16,7 +16,10 @@
     - 1. Knowledege transfer / shared responsibility around monitoring playbook and failures
     - 2. ITF async implementation (pending ux discussion)
     - 3. Downstream system outages (playbook / maitenance windows / ux improvements)
-
+- Team 1 priorities
+  - Continue LH migration
+  - Intro pages - looking at epic break-down, outstanding questions, risks and blockers as outcome of technical discovery
+  - Toxic Exposure - reset on outstanding questions
   
 
   
