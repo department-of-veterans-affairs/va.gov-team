@@ -1,7 +1,13 @@
 # Benefits Disability Experience - Product sync 
 
 ### Date: Oct 12' 2023       
-### Participants: Rakshinda, Austin, 
+### Participants: Rakshinda, Austin, Shannon, Emily, Steve 
+### Topics Covered:
+- Tech Debt - Do we want to allocate capacity every sprint to bring in one ticket?
+
+  
+### Date: Oct 12' 2023       
+### Participants: Rakshinda, Austin, Shannon, Emily, Steve 
 ### Topics Covered:
 - Prod access
   - Is prod access (such as to argo) intended to be limited again? (Unsubstantiated, but heard this around the grapevine)
