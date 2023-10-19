@@ -61,8 +61,7 @@ Identify risks related to usability, value to users, feasibility/implementation,
 ## Launch Planning
 ### Collaboration Cycle
 💡 Use for any Collab Cycle tracking, questions.
-- Kickoff ticket
-  - This document is attached to it
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68019)
 
 ### Timeline
 *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
