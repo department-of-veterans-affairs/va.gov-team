@@ -5,16 +5,17 @@
 ### Topics Covered:
 - Tech Debt - Do we want to allocate capacity every sprint to bring in one ticket?
 - Coforma offsite Oct 23rd - Oct 27th
+  - Austin, Nathan, Thomas, Nichole, Julie out (Austin will monitor slack and Sam will be available for escalations)  
 - Team 2 priorities (quick recap to make sure we are still aligned)
--- Now:
---- 1. Fix back up path failures and solidify Emeregency Fail Safe process
---- 2. Happy path failures that dont currently fail back up path
---- 3. Doc upload LH migration (tentative rollout starting Nov 8th)
---- 4. Begin UX work on ITF Aync option 2
--- Next / Later (needs prioritization)
---- 1. Knowledege transfer / shared responsibility around monitoring playbook and failures
---- 2. ITF async implementation (pending ux discussion)
---- 3. Downstream system outages (playbook / maitenance windows / ux improvements)
+  - Now:
+    - 1. Fix back up path failures and solidify Emeregency Fail Safe process
+    - 2. Happy path failures that dont currently fail back up path
+    - 3. Doc upload LH migration (tentative rollout starting Nov 8th)
+    - 4. Begin UX work on ITF Aync option 2
+  - Next / Later (needs prioritization)
+    - 1. Knowledege transfer / shared responsibility around monitoring playbook and failures
+    - 2. ITF async implementation (pending ux discussion)
+    - 3. Downstream system outages (playbook / maitenance windows / ux improvements)
 
   
 
