@@ -1,5 +1,5 @@
 
-# Initiative Brief Template
+# Initiative Brief for Benefits and Claims - Dependent Experience Team, Dependency Claims, VA Form 21-686C Military Base Outside the U.S. Address Issues
 
 ## Outcome Summary
 
