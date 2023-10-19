@@ -184,17 +184,7 @@ re working with LH and BGS to determine where the issues continue to stem from u
 
 ## Post Launch metrics
 
-Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal.
-
-### 1-week results
-
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
-- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN]
+Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. 
 
 ### 1-month results
 
