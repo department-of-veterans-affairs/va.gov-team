@@ -40,11 +40,18 @@
 **V1**
 
 * What scope would be included in the v1/MVP?
-* Story to change how Demo Mode is accessed: https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6999  
+* Story to change how Demo Mode is accessed: https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6999
+   * long press on the logo?
+   * since the app doesn't control authentication, using a special password probably won't work
+   * simpler password
+   * remove password entirely?
+   * Developer Tools are still accessible in Demo Mode so that is the only way bad things can be done
+  
 
 **V2 and beyond**
 
-* What would we save for later iterations?
+* Flesh out Demo mode to ensure everything is usable that we want to be
+* Open it up to more public audiences
 
 ## Technical Approach
 
