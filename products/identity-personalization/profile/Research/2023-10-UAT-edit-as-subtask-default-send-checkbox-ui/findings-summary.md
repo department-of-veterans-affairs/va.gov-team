@@ -1,5 +1,7 @@
 # Profile multi-feature UAT findings summary
+
 `draft`
+
 October 2023
 
 ## Who we talked to
@@ -11,38 +13,40 @@ October 2023
 * X participated on a desktop device, X participated on a mobile device
 
 ## UAT Tasks and Outcomes
-1. Task: Add mobile number
+### Add mobile number
 
-2. Task: Update mobile number
-   * 
-3. Task: Update notification settings
-   - 
+### Update mobile number
+      
+### Update notification settings 
+
 ### Bugs
 * 
 
 ## Bonus tasks
-1. Review the authenticated menu: we asked participants to share where they expected each item in the menu to take them   
-   - For the most part, all items were clear to participants. One participant was unclear about the difference between My VA and My HealtheVet.
-   - X of X participant’s expectations for the dependents and letters links in the authenticated menu aligned with what they found when they landed on the page.
-   - 2 participants referred to My VA as the VA.gov homepage.
+### Review the authenticated menu
+We asked participants to share where they expected each item in the menu to take them   
+- For the most part, all items were clear to participants. One participant was unclear about the difference between My VA and My HealtheVet.
+- X of X participant’s expectations for the dependents and letters links in the authenticated menu aligned with what they found when they landed on the page.
+- 2 participants referred to My VA as the VA.gov homepage.
 
-2. Review military information page: we asked participants to share how the information on the page was helpful, and if there was anything missing that would be helpful for them to see on the page
-   - X out of X participants couldn’t think of any other data off the top of their head that would be useful to surface on their military information page. 
-   - We reviewed the list of data points we’re considering for military information with 2 participants:
-     - Units with which the Veteran or Service member served
-       - unsure how they would use it
-     * Deployment locations and start and end dates of deployments 
-       * Could see utility in this for toxic exposure data
-     * Military occupational specialties 
-       * “I know these by heart, that wouldn’t be useful.”
-     * Training courses
-       * “I’m not sure how I would use that.”
-     * Military awards and decorations
-       * That would be valuable, to not have to go through records and have it all in one place
-     * Non-military deployment data
-       * Not useful for me personally, but maybe others
-     * A registry that verifies participation in a Toxic Exposure Risk Activity (TERA) memorandum 
-       * I have been asked if I was part of this, it’d be helpful to be able to verify
+### Review military information page 
+We asked participants to share how the information on the page was helpful, and if there was anything missing that would be helpful for them to see on the page
+- X out of X participants couldn’t think of any other data off the top of their head that would be useful to surface on their military information page. 
+- We reviewed the list of data points we’re considering for military information with 2 participants:
+  - Units with which the Veteran or Service member served
+    - unsure how they would use it
+  * Deployment locations and start and end dates of deployments 
+    * Could see utility in this for toxic exposure data
+  * Military occupational specialties 
+    * “I know these by heart, that wouldn’t be useful.”
+  * Training courses
+    * “I’m not sure how I would use that.”
+  * Military awards and decorations
+    * That would be valuable, to not have to go through records and have it all in one place
+  * Non-military deployment data
+    * Not useful for me personally, but maybe others
+  * A registry that verifies participation in a Toxic Exposure Risk Activity (TERA) memorandum 
+    * I have been asked if I was part of this, it’d be helpful to be able to verify
 - 2 out of X participants commented that the ability to download their DD214 from this page would be helpful
 - 1 out of X participants wanted to see the duty status listed with their period of service, e.g. “active duty” or “inactive duty reserves”
 - 2 participants commented that the dates listed were incorrect. Since one was only off by a day, they weren’t concerned. The other participant stated it didn’t matter because that was for their time in inactive reserves.
