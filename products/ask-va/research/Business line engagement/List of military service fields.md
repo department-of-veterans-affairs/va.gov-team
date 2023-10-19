@@ -68,7 +68,7 @@ This list is alphabetized by category name. Each field is marked as:
   - `Burials and memorials`
   - `Health care`
   - `Veteran ID Card (VIC)`
-  - `Veteran Readiness and Employment` (including when `Veteran Readiness and Employment` is a topic under `Education)
+  - `Veteran Readiness and Employment` (including when `Veteran Readiness and Employment` is a topic under `Education`)
   - `Sign in and technical issues`
   - `DEERS (Defense Enrollment Eligibility Reporting System)`
 
