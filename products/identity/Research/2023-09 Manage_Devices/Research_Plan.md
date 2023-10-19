@@ -1,7 +1,7 @@
 # Research Plan for Identity, Manage Devices, 2023-9
 
 ## Background
-Currently, users are logged out after 30 minutes of inactivity on the VA.gov website on the desktop browser.  When using a mobile device, a user's session is maintained for 45 days.  With the current setup, the risks associated with being logged into multiple devices is minimal.  However, once SiS is pushed to production, a user's session on the desktop will also be maintained for 45 days, significantly increasing the security concerns e.g. phishing, malware, and other threats.
+Currently, users are signed out after 30 minutes of inactivity on the VA.gov website on the desktop browser. When using the VA mobile app, a user's session is maintained for 45 days. With the current setup, the risks associated with being signed into multiple devices is minimal. However, once SiS is pushed to production, a user's session on the desktop will also be maintained for 45 days, significantly increasing the security concerns e.g. phishing, malware, and other threats.
 
 
 ### OCTO Objectives 
@@ -19,16 +19,16 @@ Securely accessing VA online services can happen at any stage in the [Veteran jo
 
 - Explore Veterans' knowledge of personal device management as well as management of concurrent sessions on multiple devices.
 - Explore Veterans' understanding of the use cases for device management and the security implications of multiple active sessions on various devices. 
-- Test the user flow for how a Veteran would access device management and logging out of multiple devices at once.
+- Test the user flow for how a Veteran would access device management and signing out of multiple devices at once.
 
 ### Outcome
 
-Learn how to effectively communicate to the Veterans the need for device management as well as to uncover how to improve the user experience with various audiences as they navigate through the flow for managing their devices and active logged in sessions.
+Learn how to effectively communicate to the Veterans the need for device management as well as to uncover how to improve the user experience with various audiences as they navigate through the flow for managing their devices and active signing in sessions.
 
 ### Research questions
 
 - What information (copy versions) would allow users to make an informed choice to leverage the sign out of all devices option?
-- Are there any potential concerns about ending sessions and logging people out of their accounts on all devices? (Review previous research on stickiness of sessions).
+- Are there any potential concerns about ending sessions and signing people out of their accounts on all devices? (Review previous research on stickiness of sessions).
 - Are there a additional language and design options that should be taken into consideration?
 - Does the prototype allow users to successfully navigate to and utilize the proposed user flow for managing their devices?
 - What updates to the user flow could we incorporate to make it more intuitive for Veterans?
@@ -37,11 +37,11 @@ Learn how to effectively communicate to the Veterans the need for device managem
 
 ### Hypothesis
 
-- Veterans will be split on their understanding of a rationale for logging out of all devices.
+- Veterans will be split on their understanding of a rationale for signing out of all devices.
 - Most Veterans will never have used the option of signing out of all of their devices on other websites.
 - Veterans will need an explanation of the implications of signing out of all their devices in order to make an informed decision to proceed.
 - Veterans will expect the platform to take accountability for their security e.g. if there are suspected instances of malware, phishing scams, etc. the VA.gov website will automatically end all user sessions and inform the Veteran.
-- Veterans are willing to sacrifice security for convenience of not having to log back into their devices.
+- Veterans are willing to sacrifice security for convenience of not having to sign back into their devices.
 
 ## Methodology	
 
