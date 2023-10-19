@@ -57,11 +57,10 @@ This list is alphabetized by category name. Each field is marked as:
 ### Depends on the category
 - We confirmed again that VBA-ART and `Veteran ID Card (VIC)` need `Branch of Service` as part of their ID protocol requirements, so we need to require `Branch of Service` for at least these categories:
   - `Veteran ID Card (VIC)`
-  - `Disability compensation`
+  - `Disability compensation` (including when `Disability compensation` is a topic under `Benefits issues outside the U.S.`)
   - `Survivor benefits`
   - `Burials and memorials`
   - `Center for Women Veterans`
-  - `Benefits issues outside the U.S.` (Topic: Disability compensation)
 - `DoD/EDIPI number` is needed by around 50% of business lines, so we need to require `DoD/EDIPI number' for at least these categories:
   - `Center for Minority Veterans`
   - `Decisions reviews and appeals`
@@ -69,7 +68,7 @@ This list is alphabetized by category name. Each field is marked as:
   - `Burials and memorials`
   - `Health care`
   - `Veteran ID Card (VIC)`
-  - `Veteran Readiness and Employment`
+  - `Veteran Readiness and Employment` (including when `Veteran Readiness and Employment` is a topic under `Education)
   - `Sign in and technical issues`
   - `DEERS (Defense Enrollment Eligibility Reporting System)`
 
