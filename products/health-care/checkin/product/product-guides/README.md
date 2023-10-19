@@ -1,6 +1,6 @@
 # Product Guides
 
-## Day of Check-In (or Patient Check-In)
+## Check-In (or eCheck-in)
 
 Last uploaded: October 19, 2023
 
