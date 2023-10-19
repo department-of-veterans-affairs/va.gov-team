@@ -4,9 +4,9 @@
 
 Last uploaded: October 19, 2023
 
-- [PATIENT.CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/13045924/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
+- [E.CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/13045924/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
 
-- [PATIENT.CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/13045932/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
+- [E.CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/13045932/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
 
 
 
