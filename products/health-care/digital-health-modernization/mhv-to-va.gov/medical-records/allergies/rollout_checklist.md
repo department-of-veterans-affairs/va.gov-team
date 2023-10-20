@@ -25,7 +25,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 	- [ ] Key team members have access to the feedback mailbox
  		- [ ] Marci McGuire
    		- [ ] 
-- [ ] Goals and exit criteria have been established for phase 0 and agreed upon with product owner
+- [X] Goals and exit criteria have been established for phase 0 and agreed upon with product owner
 	- Goals:
 		- Real users have had an opportunity to use the application in a Production environment
   		- Users have provided feedback on any challenges or issues they encounter
@@ -63,7 +63,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 - [X] Go/no go team has been established & go-no-go meeting scheduled. (Please work with Lauren's EA and OCC's exec team to schedule to ensure that all folks can make it). 
 	- [ ] Go no go agenda prepared ([see example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/Secure%20Messaging%20Go-No-Go%20Updated%20Live%2071723.docx) )
 - [X] Trusted users have been identified
-- [ ] Go/No Go meeting conducted
+- [ ] Go/No Go meeting conducted - scheduled for 10/23/2023
 	- [ ] Outcomes of go-no-go documented 
 - [ ] Communication has gone out to trusted users
 - [ ] Communication goes out to other key audiences
