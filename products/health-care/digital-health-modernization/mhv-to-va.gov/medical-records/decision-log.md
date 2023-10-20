@@ -20,6 +20,7 @@ Please log key decisions related to the below practice areas, including date, wh
 | The landing page will be at the URL …/my-health/medical-records/ | | 
 | The landing page will list all available domains, give a short descriptive blurb about each, and provide a link to the list view for each |   |
 | Any printed or downloaded page will include two patient identifiers - name and date of birth |    |
+| For Phase 0, we will only make downloads available as PDF. Downloading a TXT version will be a fast follow once all domains are in Phase 0. | Given the web version is fully 508 compliant, it will be the view that we recommend for all users to primarily access, including those who would need a TXT download rather than a PDF download  |
 
 
 ### Allergies specific design decisions
