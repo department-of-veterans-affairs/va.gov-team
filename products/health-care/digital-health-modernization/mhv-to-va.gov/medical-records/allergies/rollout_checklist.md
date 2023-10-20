@@ -22,13 +22,30 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
        - https://mhv-pr-api.myhealth.va.gov/fhir/metadata?_summary=true
 - [X] Product guide created and shared with support personnel
 - [ ] Support/issue reporting process and R&R has been defined
+	- [ ] Key team members have access to the feedback mailbox
+ 		- [ ] Marci McGuire
+   		- [ ] 
 - [ ] Goals and exit criteria have been established for phase 0 and agreed upon with product owner
-	-
- - 	We will move Allergies to Phase 0 in concert with the other Medical Records domains once they have met their own Phase 0 criteria.
-- [ ] Communications working group has prepared (and had approved)
-	- [ ] all necessary communication materials have been drafted & reviewed by OCC and OCTO leadership
-- [ ] Change management and comms have been notified
-- [ ] Mobile app team has been notified / coordinated with to try to sync changes.
+	 - Exit criteria:
+		- At least 25 trusted users have logged into the Allergies page from the email-provided link
+		- At least 10 trusted users have viewed their list of allergies
+  		- At least 10 trusted users have viewed an allergy detail page
+  		- At least 10 users have requested a PDF of their allergies list
+    		- At least 10 users have requestd a PDF of their detailed allergies
+      		- Any issues identified in the logs (timeouts, errors, etc) have been researched and documented
+        	- Errors related to primary events are caught, have user-friendly error message in the UI, and generate Slack alerts in the appropriate channel
+    			-  Server availability
+         		-  Application availability
+         		-  Service availability
+           		-  Data refresh
+             		-  Request for allergies list, allergy details, or PDF
+      		- Any show-stopper issues have been remediated
+        	- All non-show-stopper issues have been prioritized and added to the backlog
+		- All other Medical Records domains have met their own Phase 0 criteria
+- [X] Communications working group has prepared (and had approved)
+	- [X] all necessary communication materials have been drafted & reviewed by OCC and OCTO leadership
+- [X] Change management and comms have been notified
+- [X] Mobile app team has been notified / coordinated with to try to sync changes.
 - [X] Schedule and complete user acceptance testing with development team, OCTO team, Product Owner, and other necessary technical personnel
 	- All use cases tested and validated in production, starting from sign-in at all entry points.
 		- No defects identified 
@@ -38,7 +55,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 - [X] Has been reviewed by product owners and they have acknowledged that requirements have been met
 	- Product owners includes the OCC product owner, OCTO product/design/engineering leads 
 - [X] Has been reviewed by clinical or other SMEs and they have acknowledged that it adheres to legal and/or policy requirements, governance standards
-- [ ] Go/no go team has been established & go-no-go meeting scheduled. (Please work with Lauren's EA and OCC's exec team to schedule to ensure that all folks can make it). 
+- [X] Go/no go team has been established & go-no-go meeting scheduled. (Please work with Lauren's EA and OCC's exec team to schedule to ensure that all folks can make it). 
 	- [ ] Go no go agenda prepared ([see example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/Secure%20Messaging%20Go-No-Go%20Updated%20Live%2071723.docx) )
 - [X] Trusted users have been identified
 - [ ] Go/No Go meeting conducted
