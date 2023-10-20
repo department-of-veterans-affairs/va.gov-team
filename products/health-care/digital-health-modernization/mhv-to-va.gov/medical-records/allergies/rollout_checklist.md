@@ -26,7 +26,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
  		- [X] Marci McGuire		
   		- [X] Bryan Riley
    		- [X] Lichelle Bain
-       - [ ] A monthly rotation will be established for monitoring the mailbox.  Where possible, rotation assignments should align with rotations on other mailboxes; in other words, if someone is monitoring the mailbox for SM in November, and is also part of the Medical Records rotation, they should be assigned on the month to minimize rotation frequency.
+       - [X] A monthly rotation will be established for monitoring the mailbox.  Where possible, rotation assignments should align with rotations on other mailboxes; in other words, if someone is monitoring the mailbox for SM in November, and is also part of the Medical Records rotation, they should be assigned on the month to minimize rotation frequency.
        		- [X] October/November: Marci
          	- [ ] December:
          	- [ ] January:
