@@ -342,7 +342,22 @@ One participant wouldn't answer any of the Burn pit questions because he said th
 > *"I have not been read out of being able to say yes or no...I cannot confirm or deny...I'm still under classification...I can't even tell my wife" (p4).*
 
 
-### VA benefits...
+### Many Veterans don't know that they could or should apply for VA benefits
+Two participants said that they **hadn't heard anything about the VA when they left the military**. Years after one of them was discharged in 1972, his brother-in-law mentioned VA to him by chance and encouraged him to apply for benefits, which he did in 2004.
+
+> *"Here's your last check, give me your ID card, get off the base" [discharged in 1972] (p7).* 
+
+> *"I support the Air Force now, and the officers I work with seem to be much more aware of using the VA than I ever was...When I retired [in 2006], I had no idea that you had to transfer your GI Bill benefits to your dependents to use them...wasn't able to use the GI Bill" (p9).*
+
+Another participant said that they **weren't going to apply for disability compensation until their transition briefing**, which changed his mind.
+
+> *" 'Don't do it for you, but do it for your family and for their sacrifices they've made'...That statement made me change my mind...I wasn't going to apply for disability, and when he said that and I thought about my family and the sacrifices they went through with me being deployed to places where I couldn't even call them and talk to them, tell them how I was...and they were always wondering from day to day was I live or not. That's the sacrifices my family made...what made me apply for disability" (p4).*
+
+One regular participant and one pilot participant said that they feel **undeserving of benefits from the VA** compared to other Veterans who have it much worse. Many people have encouraged him to get VA health care, and he just applied in the last month.
+
+> *"I thought you had to be wounded [to go to the VA]...I felt that I had all my limbs and I was upright and that I really didn't need to go to the VA...I have a lot of things that were wrong when I retired and they're getting worse. And I realized that help was there. I just didn't ask for it" (p9).*
+
+
 
 
 
