@@ -2,12 +2,12 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+The paper form allows for Veterans to self-select the health care benefit type they want to apply for -Enrollment or Registration. On the backend in VES (Veteran Enrollment System), each person has a status and some can be Registration Only with a registration reason.
+
+
+
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration).
 
 ### OCTO Priorities 
 
