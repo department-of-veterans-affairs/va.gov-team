@@ -4,35 +4,29 @@ Developed by the Accredited Representation Management team, the Appoint a Repres
 
 The MVP will include desktop & mobile experiences
 
-**Chapter 1**: Veteran Personal Information
-1. Unauth: Enter Veteran Name and Date of Birth
-2. Unauth: Enter Veteran Identification Information
-3. Auth: Review Veteran Personal information on file (cannot update on VA.gov, need to call to update)
-
-**Chapter 2**: Veteran Contact and Insurance Information
-1. Unauth: Enter Veteran Contact Information (phone and email)
-2. Unauth: Enter Veteran Mailing Address
-3. Auth: Review (w option to Edit) Veteran Contact Information -- the `Edit` view
-4. Auth: Edit Veteran Contact Information with option to save (i.e. Enter) changes -- the `Enter` view
-
-**Chapter 3**: Claimant Information (pages are the same for both unauth/auth)
-1. Claimant Ask (Are you the Veteran who the claim is being submitted for?)
-2. [claimant = no] Claimant Personal Information
-3. [claimant = no] Claimant Contact Information
-4. [claimant = no] Claimant Mailing Address
-
-**Chapter 4**: Authorization for Record Access (pages are the same for both unauth/auth)
-1. Authorization for Representative’s Access to Records Protected by Section….
-
-**Chapter 5**: Authorization for Address Change (pages are the same for both unauth/auth)
-1. Authorization to Change Claimant’s Address
-
-**Chapter 6**: Review and Complete (pages are the same for both unauth/auth)
-1. Sections are collapsed
-2. Sections are expanded with option to edit
-3. Sections are expanded with editing and option to save
-
-**Download page (pages are the same for both unauth/auth)**
+1. **Chapter 1**: Veteran Personal Information
+   1. Unauth: Enter Veteran Name and Date of Birth
+   2. Unauth: Enter Veteran Identification Information
+   3. Auth: Review Veteran Personal information on file (cannot update on VA.gov, need to call to update)
+2. **Chapter 2**: Veteran Contact and Insurance Information
+   1. Unauth: Enter Veteran Contact Information (phone and email)
+   2. Unauth: Enter Veteran Mailing Address
+   3. Auth: Review (w option to Edit) Veteran Contact Information -- the `Edit` view
+   4. Auth: Edit Veteran Contact Information with option to save (i.e. Enter) changes -- the `Enter` view
+3. **Chapter 3**: Claimant Information (pages are the same for both unauth/auth)
+   1. Claimant Ask (Are you the Veteran who the claim is being submitted for?)
+   2. [claimant = no] Claimant Personal Information
+   3. [claimant = no] Claimant Contact Information
+   4. [claimant = no] Claimant Mailing Address
+4. **Chapter 4**: Authorization for Record Access (pages are the same for both unauth/auth)
+   1. Authorization for Representative’s Access to Records Protected by Section….
+5. **Chapter 5**: Authorization for Address Change (pages are the same for both unauth/auth)
+   1. Authorization to Change Claimant’s Address
+6. **Chapter 6**: Review and Complete (pages are the same for both unauth/auth)
+   1. Sections are collapsed
+   2. Sections are expanded with option to edit
+   3. Sections are expanded with editing and option to save
+7. **Download page (pages are the same for both unauth/auth)**
 
 ## Post-MVP
 
