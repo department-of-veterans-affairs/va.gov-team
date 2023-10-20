@@ -11,7 +11,7 @@ The concept of registration and enrollment, if they are steps in the process or 
 Looking at this from the perspective of registration reasons as scenarios Veterans may have when applying for health care benefits and completing a 10-10EZ, we want to learn the paths taken within VA.gov and if the Veteran reports going to the existing application or another location on the website.
 
 
-- [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration).
+- [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration)
 
 
 ### OCTO Priorities 
@@ -19,10 +19,13 @@ Looking at this from the perspective of registration reasons as scenarios Vetera
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
-
-
+[Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
+- Getting out
+- Starting up
+	- Moment that matters: selecting health care coverage according to their individual set of needs
+- Taking care of myself
+- Retiring
+  
 
 
 ## Research Goals	
@@ -102,11 +105,8 @@ We will use Perigean to recruit participants into cohrots needed for unmoderated
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-
 **Total requested 72 / 35 total completed**
-
-8 cohorts total / 9 participants per each cohort
-
+- 8 cohorts total / 9 participants per each cohort
 
 
 **Primary criteria (must-haves)**
