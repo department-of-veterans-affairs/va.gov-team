@@ -2,13 +2,9 @@
 
 ## Moderator logistics
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
+- [ ] Confirm additional notetakers and supply notes template and guidelines.
 
 
 ### Day of the session
@@ -91,19 +87,28 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Third Task: [Intro page] - X minutes
 
-- Step 1
+- You have arrive at this page. Please explain what the content on the page means to you and what should do next.
 - Step 2
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Quotes from participants about any content on the intro page that makes them feel uneasy, confused or not prepared to complete the application.]
+- [Comments about time and/or actions to gather information mentioned on intro page.]
 
-## Post-Task Interview - X minutes
+## Fourth Task: [The Form] - 10 minutes
 
-- Question 1
-- Question 2
+- For this next task, we are going to have you go through the form as if you were prompted to update your information. While this form is a prototype, it is connected to the VA system so please do not submit the form if we get to the end.
+- As you go through the form, could you please talk aloud about what you would need to do as you go.
+
+### Things to watch for:
+
+- [Does the participant notice the pre-fill alerts?]
+- [Does the participant notice that the pre-filled information can be edited? ]
+- [Does the participant notice that the household financial information is not pre-filled? ]
+
+## Post-Task Interview - 2 minutes
+
+- Is there anything else you would like to add about what we talked about today?
 - Any questions for me? 
 
 ## Consent to use video clips
@@ -112,7 +117,7 @@ Before we look at the website, let’s start with a few warm-up questions.
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 3 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
