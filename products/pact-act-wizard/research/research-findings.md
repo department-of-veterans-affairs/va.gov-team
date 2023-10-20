@@ -359,6 +359,10 @@ One regular participant and one pilot participant said that they feel **undeserv
 
 A different participant said that it's frustrating that he **doesn't know  whether he's eligible for VA health care as a non-disabled Veteran**.
 
+### VA pages on Desktop display narrow so requires a lot of scrolling
+One participant said that with the way that VA web pages display on her computer desktop, they're narrow blank space on both sides, so you have to scroll a lot [Edge for Business Browser, 116.0.1938.69 (Official build) (64-bit)].
+
+> *"I'm assuming because it's designed to be mobile friendly, but I'm not sure why it's only taking roughly a third of the page for display. So you end up scrolling down a whole lot more...There's a lot of white space" (p6).*
 
 ## Recommendations
 Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
