@@ -1,6 +1,6 @@
 # Initiative outline: Link to MHV from My VA
 
-**Last updated: October 13, 2023 - published**
+**Last updated: October 20, 2023 - measuring success details added**
 
 ### Communications
 
