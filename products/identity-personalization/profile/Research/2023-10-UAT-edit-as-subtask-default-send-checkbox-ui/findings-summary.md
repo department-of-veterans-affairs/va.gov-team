@@ -1,33 +1,38 @@
-# Profile multi-feature UAT findings summary
+# Profile: Multi-feature UAT and generative research findings summary
 
 `draft`
 
-October 2023
+October 23, 2023
+## Background
+Over the last 3 months, we’ve worked on improvements related to our notification settings feature, and how users update profile information while in the middle of another task. They’re closely related, and will be part of the same release so we conducted UAT on all 3 features at once.[The specific features we tested are outlined in our research plan.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-UAT-edit-as-subtask-default-send-checkbox-ui/research-plan.md#features-to-be-tested)
 
-## Who we talked to
-* All participants are Veterans
-* X identified as Caucasian
-* X identified as *other race or ethnicity*
-* X identified as female, X identified as male
-* Age range between X - XX
-* X participated on a desktop device, X participated on a mobile device
-
+In case a session went smoothly and we had extra time, we prepared some additional questions to ask participants about two other profile initiatives we haven’t had a chance to talk to Veterans about yet:
+1. The `Dependents` and `Letters` links that were recently added to the authenticated menu ([project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu#product-outline-authenticated-menu)).
+   **Goal:** Gather impressions of the items in the menu, and evaluate whether or not the pages the links point to align with expectations.
+2. Enhancing our military information page by adding additional data points related to service history ([project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md))
+   **Goal:** Understand how Veterans use the current information on the page, and how they might use additional data about their service history.
 ## UAT Tasks and Outcomes
 ### Add mobile number
+All participants were able to successfully add their mobile number through the sub-task flow, and all validation messages and the confirmation modal functioned as expected.
 
+Additionally, the phone number and success alerts displayed as expected on the notification settings page.
 ### Update mobile number
-      
+All participants were able to successfully update their mobile number through the sub-task flow.
 ### Update notification settings 
-
+All notification setting options behaved as expected.
 ### Bugs
-* 
+None found
 
-## Bonus tasks
+## Generative research
 ### Review the authenticated menu
 We asked participants to share where they expected each item in the menu to take them   
-- For the most part, all items were clear to participants. One participant was unclear about the difference between My VA and My HealtheVet.
-- X of X participant’s expectations for the dependents and letters links in the authenticated menu aligned with what they found when they landed on the page.
-- 2 participants referred to My VA as the VA.gov homepage.
+- All items were clear to all but one participant; one participant was unclear about the difference between My VA and My HealtheVet.
+- 6 of 6 participant’s expectations for letters links in the authenticated menu aligned with what they found when they landed on the page.  
+  - Interestingly, the pilot participant (whose data is not included in this report outside of this note) stated the page did not contain the letters they expected. They expected to find their Certificate of Eligibility, and “basically every letter the VA mailed to me”.
+- 3 of 4 participant’s expectations for the dependents page aligned with what they found on the page.
+  - 1 expected to see contact information for each dependent, since they are beneficiaries that would need to be contacted in the event of an emergency.
+  - 2 participants didn’t have dependents and were not asked to review the page.
+- 3 of 6 participants referred to My VA as the VA.gov homepage.
 
 ### Review military information page 
 We asked participants to share how the information on the page was helpful, and if there was anything missing that would be helpful for them to see on the page
@@ -70,3 +75,11 @@ We asked participants to share how the information on the page was helpful, and 
 ### Other parts of the site
 * 
 * 
+## Who we talked to
+* 6 Veterans
+* 4 identified as Caucasian
+* 1 identified as Black
+* 1 identified as American Indian or Alaska Native
+* 2 identified as female, 4 identified as male
+* Age range between 40 - 75
+* 3 participated on a desktop device, 1 participated on a tablet, 2 participated on a smartphone
