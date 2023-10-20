@@ -1,7 +1,7 @@
 ---
-name: Forms 12. phased-production-rollout
+name: 'Forms 12. phased-production-rollout'
 about: Describe this issue template's purpose here.
-title: 12. Slow rollout of form to production
+title: '[form name] Phased Production Rollout'
 labels: forms-audit-digitize
 assignees: ''
 
