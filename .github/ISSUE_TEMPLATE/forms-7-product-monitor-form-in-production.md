@@ -1,7 +1,7 @@
 ---
-name: Forms 7. Product - Monitor form in production
+name: Forms 7. Monitor form in production
 about: Describe this issue template's purpose here.
-title: 7. Product - Monitor form in production
+title: '[form number] Monitor form in production'
 labels: ''
 assignees: ''
 
