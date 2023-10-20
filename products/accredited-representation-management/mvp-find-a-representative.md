@@ -6,13 +6,13 @@ The MVP will include desktop & mobile experiences
 
 #### Find a Representative
 1. Search
-    1. If authenticated and if veteran has an existing rep, display existing rep and how to change the rep
+    1. Link to eBenefits to allow Veterans to see existing representative?
     2. Required fields
         1. Location 
             1. Single consolidated field that accepts address 1, city, state, zip code
             2. 'use my location' feature to populate this location field
             3. Default to a radius (e.g. 50 miles)
-        2. Select type of rep
+        2. Select type of rep (single select)
             1. Veteran Service Organization (VSO)
             2. Attorney (Lawyer)
             3. Claims agent
