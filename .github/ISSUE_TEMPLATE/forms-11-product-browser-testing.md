@@ -1,7 +1,7 @@
 ---
-name: Forms 11. Product - Browser Testing
+name: Forms 11. Browser Testing
 about: Describe this issue template's purpose here.
-title: Browser Testing
+title: [form number] Browser Testing
 labels: ''
 assignees: ''
 
