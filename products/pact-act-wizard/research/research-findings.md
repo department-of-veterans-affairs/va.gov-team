@@ -357,8 +357,7 @@ One regular participant and one pilot participant said that they feel **undeserv
 
 > *"I thought you had to be wounded [to go to the VA]...I felt that I had all my limbs and I was upright and that I really didn't need to go to the VA...I have a lot of things that were wrong when I retired and they're getting worse. And I realized that help was there. I just didn't ask for it" (p9).*
 
-
-
+A different participant said that it's frustrating that he **doesn't know  whether he's eligible for VA health care as a non-disabled Veteran**.
 
 
 ## Recommendations
