@@ -1,13 +1,18 @@
 # Research Plan for [Health Enrollment Team, 10-10EZ Registration Reasons Tree Test, November 2023]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
 
-The paper form allows for Veterans to self-select the health care benefit type they want to apply for -Enrollment or Registration. On the backend in VES (Veteran Enrollment System), each person has a status and some can be Registration Only with a registration reason.
+The paper form allows for Veterans to self-select the health care benefit type they want to apply for - Enrollment or Registration. On the backend in VES (Veteran Enrollment System), each person has a status and some can be Registration Only with a registration reason. 
+
+The concept of registration and enrollment, if they are steps in the process or the same thing, was found to be confusing during the intial generative research with Veterans. Choosing between these labels did not align with the Veteran's mental model of going about health care eligibility process.
+
+- [Link to generative mental model study folder]()
+
+Looking at this from the perspective of registration reasons are scenarios Veterans may have when applying for health care benefits. 
 
 
+- [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration).
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration).
 
 ### OCTO Priorities 
 
@@ -17,19 +22,37 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
-## Research Goals	
-What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+## Research Goals	
+
+- Learn more about **WHERE** on VA.gov do Veterans expect to complete tasks related to registration reasons.
+- Discover **WHAT** actions Veterans take prior to seeking care for registration reasons.
+- Learn more about the Veteran's mental model of what they are getting when they sign up for their registration reason vs enrolling in VA health care. 
+
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+- We want to know if Veterans expect to access these scenarios through different areas on VA.gov or if for all reasons they go to the same starting point/application.
+- Knowing this will guide the path on how to update the content of the 10-10EZ introduction page and knowing if other introduction pages/paths need to be accounted for registration mvp. 
+
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+**Learn more about WHERE on VA.gov do Veterans expect to complete tasks related to registration reasons.**
+- Do Veterans navigate to the 10-10EZ for registration reasons?
+- If somebody is looking to sign up  for [registration reason scenario] from VA, how would they do that?
+- How easy is it for the Veterans to navigate to the [registration scenario] starting point?
+
+**Discover WHAT actions Veterans take prior to seeking care for registration reasons.**
+
+
+
+**Learn more about the Veteran's mental model of what they are getting when they sign up for their registration reason vs enrolling in VA health care.**
+
+
+
+
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -39,11 +62,9 @@ What do you intend to learn and measure from this study? Think through these pro
 - Remember to constrain the hypothesis to the goals of your study!
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
 
 - Tree tests - appropriate for evaluative research
-
+- Unmoderated 
 
 
 Additional resources:
@@ -55,31 +76,27 @@ Additional resources:
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
+- Unmoderated
+- Optimal Workshop Tree Test link with before/after questions
 
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
 
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
 - [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- [Link to prototype or OptimalSort session for group 1](url goes here)
+- [Link to prototype or OptimalSort session for group 2](url goes here)
+- [Link to prototype or OptimalSort session for group 3](url goes here)
+- [Link to prototype or OptimalSort session for group 4](url goes here)
+- [Link to prototype or OptimalSort session for group 5](url goes here)
+- [Link to prototype or OptimalSort session for group 6](url goes here)
+- [Link to prototype or OptimalSort session for group 7](url goes here)
+- [Link to prototype or OptimalSort session for group 8](url goes here)
+
+
+
 
 If recruiting outside of Perigean’s participant database:
 - [Link to recruitment flyer](url goes here)
