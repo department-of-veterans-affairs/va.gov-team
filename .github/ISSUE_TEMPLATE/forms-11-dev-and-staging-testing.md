@@ -1,7 +1,7 @@
 ---
-name: Forms 11. Verify everything works in Staging
+name: Forms 11. Dev and Staging Testing
 about: Describe this issue template's purpose here.
-title: 11. Verify everything works in Staging
+title: [form number] Dev and Staging Testing
 labels: forms-audit-digitize
 assignees: ''
 
