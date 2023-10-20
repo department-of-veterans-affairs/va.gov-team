@@ -70,40 +70,27 @@ As an authenticated submitter
 
 ## Solution Approach
 
-Phase 1 MVP:
-1. Stand up a page on VA.gov
->- Create a SPIKE to validate the instructions from the VA’s developer docs for adding a new application to the va.gov site.
-2. Bring Ask VA up to VA.gov design standards
->- Narrow down scope of use cases; including authenticated vs. unauthenticated.
->- We need to see if the full scope can be implemented in the MVP after understanding use cases, taxonomy and routing rules.
->- Write topics and categories based on content style guide (without changing form functionality and output).
->- Write form questions based on content style guide (without changing form functionality and output).
->- Update UI to reflect the VA Design System.
->- Make it mobile-friendly.
->- Do iterative submitter research to test usability of new form design and content updates.
->- Make it 508 Compliant.
->- Complete necessary PRA updates.
-3. Implement form on VA.gov
->- Understand current routing rules
->- Review existing Ask VA front-end and back-end code to see how it works
->- When Inquiry data is collected on VA.gov, it is sent to the Dynamics CRM for the agents to work through
->- Releasing this new form to a page on VA.gov
->- Build GitHub Actions workflows for deploying to DEV/STAGiNG/PROD, with automated tests and linting as the gatekeepers to those environments.
->- Understand how Dataverse and CxDW(?) play into this process.
->- Ensure devs have proper tools and permissions to build the legacy app, and work on the prototype code.
->- Ensure devs have proper access to resources in all environments.
->- Ensure devs/qa/pm have access to error logs.
->- Ensure devs/qa/pm/ux have access to analytics and reporting.
-Add tools to build pipeline to run static analysis for 508 and mobile-friendly issues.
->- Understand auth and unauth access patterns. Be ready for oauth changes in the coming months from platform/identity team.
+Bring Ask VA up to VA.gov design standards (Front-End Updates)
+- Update topics and categories based on content style guide (without changing form functionality and output).
+- Update form questions based on content style guide (without changing form functionality and output).
+- Update UI to reflect the VA Design System.
+- Make it mobile-friendly.
+- Do iterative submitter research to test usability of new form design and content updates.
+- Make it 508 Compliant.
 
-Below two dependent on spikes.\
-4. Integrate with My VA Dashboard for 
->- Status on inquiries
->- Need more information/research with Ask AVA CRM team
-5. VA Notify integration
->- MyVA is creating a notification center, and strategically wants to integrate there for authenticated submitters.
->- Spike on notifications on where it stands and how we would move it to VA gov, and how VA.gov will trigger the notifications.
+Implement form on VA.gov
+- Understand current routing rules
+- When Inquiry data is collected on VA.gov, the implementation will send this data to Dynamics CRM for the agents to answer the questions.
+- Releasing this new form to a page on VA.gov
+- Update the dashboard front-end to VA.gov design and content standards
+
+More Detail can be found here: 
+1. [Must Have/Nice to have features for Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md)
+2. High Level Plan
+- Discovery Spikes
+- **Create Prototype** (Current Status)
+- Usability Testing
+- Launch Phase 1
 
 Our first MVP will have brought the current Ask VA up to VA.gov design standards, made the form and dashboard accessible, and updated the content to make it more intuitive for our submitters. 
 
