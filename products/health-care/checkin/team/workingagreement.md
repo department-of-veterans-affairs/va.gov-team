@@ -22,7 +22,7 @@
 - We conduct structured team demos at the end of the sprint, including a brief agenda and review of the sprint goals. We will post our demo recording and materials for others to access.
 
 ## Importance of Keeping User Stories Updated
-Maintaining up-to-date user stories with status and comments is crucial. It provides better transparency and visibility to the team, and also ensures continuity in the face of unforeseen circumstances (e.g. unexpected life events), so that the next person can seamlessly pick up where the previous owner left off.
+We understand that maintaining up-to-date user stories with status and comments is crucial. It provides better transparency and visibility to the team, and also ensures continuity in the face of unforeseen circumstances (e.g. unexpected life events), so that the next person can seamlessly pick up where the previous owner left off.
 
 ## Sprint Closure
 Sprint closure occurs every other Tuesday at the close of business (COB), designating Tuesday as the cut-off day. We agree to close our stories by this time. For stories in progress rolling over to the next sprint, we agree to:
