@@ -1,7 +1,7 @@
 ---
-name: Forms 2.  [Design] %%Form Number%% Accessibility Annotations
-about: "[Design] - %%Form Number%% Accessibility Annotations"
-title: ''
+name: Forms 2. Design - Accessibility Annotations
+about: Accessibility Annotations
+title: 'Design [Form Number] Accessibility Annotations'
 labels: ''
 assignees: ''
 
