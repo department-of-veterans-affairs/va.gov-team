@@ -32,23 +32,23 @@ Specifically for the health care section, once we add this link, we'll monitor t
 
 #### Hypothesis 1: Users prefer to execute health care related tasks and action items from the MHV landing page versus the links provided on My VA.
 
-**Key Result: We see a decline in engagement on the health care secondary links on My VA** (_outside 10% margin month to month_?) 
+**Key Result: We see a decline in engagement on the health care secondary links on My VA** (_within margin as determined by average fluctuation prior to launch_) 
 
-|KPI|Baseline: <br />1 month pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1  post-launch<br />(mm/dd/yy - mm/dd/yy)| Month 1 post-launch <br />(mm/dd/yy - mm/dd/yy)| Month 2 post-launch <br />(mm/dd/yy - mm/dd/yy)|
-|------------------------------------------------------------------------------|-------------------|---------------|---------------|-------------|
-| Engagement with "Go to your inbox" link                                      |                   |               |               |             |     
-| Engagement with "Schedule and manage your appointments" link                 |                   |               |               |             |   
-| Engagement with "Refill and track your prescriptions" link                   |                   |               |               |             |
-| Engagement with "Request travel reimbursement" link                          |                   |               |               |             |    
-| Engagement with "Get your VA medical records and lab and test results" link  |                   |               |               |             |   
+|KPI|Baseline: <br />4 weeks pre-launch <br />(mm/dd/yy - mm/dd/yy)| Baseline: <br />3 weeks pre-launch <br />(mm/dd/yy - mm/dd/yy)| Baseline: <br />2 weeks pre-launch <br />(mm/dd/yy - mm/dd/yy)| Baseline: <br />1 week pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch<br />(mm/dd/yy - mm/dd/yy)|
+|------------------------------------------------------------------------------|------------------|---------------|---------------|-------------|---|---|---|---|
+| Engagement with "Go to your inbox" link                                      |                  |               |               |             |   |   |   |   |      
+| Engagement with "Schedule and manage your appointments" link                 |                  |               |               |             |   |   |   |   |   
+| Engagement with "Refill and track your prescriptions" link                   |                  |               |               |             |   |   |   |   |
+| Engagement with "Request travel reimbursement" link                          |                  |               |               |             |   |   |   |   |    
+| Engagement with "Get your VA medical records and lab and test results" link  |                  |               |               |             |   |   |   |   |   
 
 #### Hypothesis 2: We will initially see significant engagement with the new link to MHV
 
 **Key Result: ...tk...**
 
-|KPI|Baseline: <br />1 month pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1  post-launch<br />(mm/dd/yy - mm/dd/yy)| Month 1 post-launch <br />(mm/dd/yy - mm/dd/yy)| Month 2 post-launch <br />(mm/dd/yy - mm/dd/yy)|
-|--------------------------|-------------------|---------------|---------------|-------------|
-| Engagement with MHV link |                   |               |               |             |     
+|KPI|Baseline: <br />1 month pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch<br />(mm/dd/yy - mm/dd/yy)|
+|--------------------------|-------------------|---------------|---------------|-------------|-------------|
+| Engagement with MHV link |                   |               |               |             |             |    
 
 #### Hypothesis 3: tk...
 
