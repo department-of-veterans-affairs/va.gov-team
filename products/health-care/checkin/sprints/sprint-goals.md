@@ -28,7 +28,7 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
        - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)  [[FE] Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423)
-   - **Sub Goal: Add Travel Claim Terms of Agreement**
+   - **Sub Goal: [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [SPIKE: Determine Impacts to Current User Flow & Functionality](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68081)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create New User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68083)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68084)
