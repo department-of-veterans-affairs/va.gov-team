@@ -25,10 +25,10 @@ The MVP will include desktop & mobile experiences
             2. Attorney (Lawyer)
             3. Claims agent
 2. Display search results
-    2. List display
-    3. Filter results by
-       4. Distance
-       5. Representative Name / Organization Name
+   1. List display
+   2. Filter results by
+      4. Distance
+      5. Representative Name / Organization Name
     
 
 ## Post-MVP
