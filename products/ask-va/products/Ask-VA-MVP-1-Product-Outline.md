@@ -65,7 +65,8 @@ As an authenticated submitter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Improving the front-end of Ask VA will reduce the time it takes to submit an inquiry, increase the percentage of submitters that complete asking a question, and increase user satisfaction of the application.
+- Transitioning Ask VA front-end to VA.gov design and content standards will improve user experience, and bring more cohesiveness with the other services that the VA offers.
 
 ## Solution Approach
 
