@@ -8,7 +8,7 @@ The concept of registration and enrollment, if they are steps in the process or 
 
 - [Link to generative mental model study folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration)
 
-Looking at this from the perspective of registration reasons are scenarios Veterans may have when applying for health care benefits. 
+Looking at this from the perspective of registration reasons as scenarios Veterans may have when applying for health care benefits and completing a 10-10EZ, we want to learn the paths taken within VA.gov and if the Veteran reports going to the existing application or another location on the website.
 
 
 - [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration).
@@ -43,36 +43,29 @@ How will this research advance your product to the next phase in the design proc
 **Learn more about WHERE on VA.gov do Veterans expect to complete tasks related to registration reasons.**
 - Do Veterans navigate to the 10-10EZ for registration reasons?
 - If somebody is looking to sign up  for [registration reason scenario] from VA, how would they do that?
-- How easy is it for the Veterans to navigate to the [registration scenario] starting point?
+- How easy is it for the Veterans to navigate to the [registration reason scenario] starting point?
 
 **Discover WHAT actions Veterans take prior to seeking care for registration reasons.**
-- 
+- Do Veterans mention offline channels as the preferred method of "registering" for these reasons?
+- What do Veterans expect to happen next when registering for [registration reason scenario]?
+- Do Veterans expect to have to take action (if needed) to enroll after registering?
 
 
 **Learn more about the Veteran's mental model of what they are getting when they sign up for their registration reason vs enrolling in VA health care.**
-- 
-
+- Do the registration reasons align with the Veterans' mental model of signing up for health care from the VA?
+- Do Veterans expect to get only the [registration reason] they signed up for or more health care benefits in their application? 
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- We think for the appointment registration scenarios - like a C&P or toxic exposure exam - Veteran's will navigate to the disability claims or locations hubs.
-- We think for service connected care, Veteran's will navigate to the health care hub and the apply for benefits page.
-- 
+- Hypothesis that for the appointment registration scenarios - like a C&P or toxic exposure exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
+- Hypothesis that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
+- We hypotheis that their expectation is getting the most the can due to their disability rating and that they are applying for the most they are eligible for.
+
 
 ## Methodology	
 
 - Tree tests - appropriate for evaluative research
 - Unmoderated 
-
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
 - Unmoderated
@@ -99,19 +92,11 @@ Additional resources:
 	
 ## Recruitment	
 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+We will use Perigean to recruit participants into cohrots needed for unmoderated tree test study.
+
 - 7 cohorts are only Veterans
-- 1 cohort is Active Duty/Service Memeber
-
-
-Pro tip:
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+- 1 cohort is Active Duty/Service Member
 
 
 ### Recruitment criteria
@@ -127,16 +112,47 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+- Mix of demographics (no more than 3 per category on race, age range) - per each cohort
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+
+
+Cohort 1
+- What is your service connected disability rating? (must be over 50% to qualify)
+
+
+Cohort 2
+- What is your service connected disability rating? (must be between 30-40% to qualify)
+
+
+Cohort 3
+- What is your service connected disability rating? (must be between 0-20% to qualify)
+
+
+Cohort 4
+- Do you have a service connected disability? (must be NO to qualify, 0% rating)
+
+
+Cohort 5
+- 
+
+
+Cohort 6
+- 
+
+
+Cohort 7
+-
+
+
+Cohort 8
+- Current Active Duty / Service Member
+- Discharge date in less than 365 days
+
+
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+November ## - ##, 2023
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
@@ -146,7 +162,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: N/A
 
 ### Research sessions
-* Planned dates of research: TBD
+* Planned dates of research: November ##-## 2023
 
 ### Length of sessions
 * Session length: Unmoderated, 30 minutes or less
