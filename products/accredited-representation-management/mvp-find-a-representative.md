@@ -25,17 +25,13 @@ The MVP will include desktop & mobile experiences
             2. Attorney (Lawyer)
             3. Claims agent
 2. Display search results
-    1. If authenticated and if veteran has an existing rep, display existing rep
     2. List display
-    3. Option to sort results by different parameters
-3. Selection
-    1. Search results will have a button to 'Select' the representative
+    3. Filter results by
+       4. Distance
+       5. Representative Name / Organization Name
+    
 
 ## Post-MVP
 
-1. Submission of 21-22/21-22a
-    1. Requires signatures
-    2. Investigate/address signature errors
-    3. Determine if we can support digital submission for attorneys and claim agents who often require fee agreements before accepting
-    4. Identify how the insurance field impacts Power of Attorney 
+1. Consider including VSO Representative rep type
 2. Satisfaction survey to assess the user perceptions of our product experience
