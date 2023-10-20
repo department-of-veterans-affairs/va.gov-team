@@ -1,7 +1,7 @@
 ---
-name:Forms 3. [Product] Write Browser testing in Test Rails - 2 points
+name: 'Forms 3. Write Browser testing in Test Rails'
 about: Describe this issue template's purpose here.
-title: 3. Write Browser tests in Test Rails
+title: '[form number] Write Browser tests in Test Rails'
 labels: ''
 assignees: ''
 
