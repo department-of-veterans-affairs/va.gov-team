@@ -336,10 +336,13 @@ I've heard horror stories, people trying to get claims and the time investment t
 
 ## Additional Insights
 
-### Topic
+### Classified information kept one participant from answering location questions
+One participant wouldn't answer any of the Burn pit questions because he said that **it's classified, so he can't answer whether he served in those locations**. He answered "no" to all three of the questions. When asked if would feel comfortable answering the questions if he were on his own and not being observed or recorded, he said still no. I wonder if there's any way that this person would be able to apply for disability benefits under the PACT Act.
+
+> *"I have not been read out of being able to say yes or no...I cannot confirm or deny...I'm still under classification...I can't even tell my wife" (p4).*
 
 
-### Topic
+### VA benefits...
 
 
 
