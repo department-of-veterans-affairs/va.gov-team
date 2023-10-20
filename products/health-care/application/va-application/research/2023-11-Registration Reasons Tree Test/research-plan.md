@@ -6,7 +6,7 @@ The paper form allows for Veterans to self-select the health care benefit type t
 
 The concept of registration and enrollment, if they are steps in the process or the same thing, was found to be confusing during the intial generative research with Veterans. Choosing between these labels did not align with the Veteran's mental model of going about health care eligibility process.
 
-- [Link to generative mental model study folder]()
+- [Link to generative mental model study folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration)
 
 Looking at this from the perspective of registration reasons are scenarios Veterans may have when applying for health care benefits. 
 
@@ -46,22 +46,19 @@ How will this research advance your product to the next phase in the design proc
 - How easy is it for the Veterans to navigate to the [registration scenario] starting point?
 
 **Discover WHAT actions Veterans take prior to seeking care for registration reasons.**
-
+- 
 
 
 **Learn more about the Veteran's mental model of what they are getting when they sign up for their registration reason vs enrolling in VA health care.**
-
-
-
+- 
 
 
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+- We think for the appointment registration scenarios - like a C&P or toxic exposure exam - Veteran's will navigate to the disability claims or locations hubs.
+- We think for service connected care, Veteran's will navigate to the health care hub and the apply for benefits page.
+- 
 
 ## Methodology	
 
@@ -102,7 +99,6 @@ Additional resources:
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
 
 Before writing your recruitment criteria, be sure to review the following resources. 
 - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
@@ -110,10 +106,11 @@ Before writing your recruitment criteria, be sure to review the following resour
 
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+- 7 cohorts are only Veterans
+- 1 cohort is Active Duty/Service Memeber
+
 
 Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
 - Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
 
 
@@ -121,10 +118,9 @@ Pro tip:
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
 
-Total requested 72 / 35 total completed
+**Total requested 72 / 35 total completed**
 
-8 participants / cohort total
- 
+8 cohorts total / 9 participants per each cohort
 
 
 
@@ -147,7 +143,7 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: 
-* Date and time of pilot session: 
+* Date and time of pilot session: N/A
 
 ### Research sessions
 * Planned dates of research: TBD
