@@ -36,7 +36,7 @@ The Sprint 0 meeting is a time to do the following:
 * Personalized Notifications
     * Showing changes of statuses, etc.
 * [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
-
+* App and OS version support (Therese)
 
 ## Ready to Present
 
