@@ -28,13 +28,38 @@ Specifically for the health care section, once we add this link, we'll monitor t
 
 ## Measuring Success
 
-### Objective: ...
+### Objective: Streamline a user's navigation from My VA to the new MHV landing page from within the health care section on My VA
 
-**Key Result: ...
+#### Hypothesis 1: Users prefer to execute health care related tasks and action items from the MHV landing page versus the links provided on My VA.
 
-|KPI|Baseline: <br />1 week pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1  post-launch<br />(mm/dd/yy - mm/dd/yy)| Month 1 post-launch <br />(mm/dd/yy - mm/dd/yy)| Month 2 post-launch <br />(mm/dd/yy - mm/dd/yy)|
-|----------|-------------|---------------|-------------------|----------|
-|          |    |     |      |      |     
+**Key Result: We see a decline in engagement on the health care secondary links on My VA** (_outside 10% margin month to month_?) 
+
+|KPI|Baseline: <br />1 month pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1  post-launch<br />(mm/dd/yy - mm/dd/yy)| Month 1 post-launch <br />(mm/dd/yy - mm/dd/yy)| Month 2 post-launch <br />(mm/dd/yy - mm/dd/yy)|
+|------------------------------------------------------------------------------|-------------------|---------------|---------------|-------------|
+| Engagement with "Go to your inbox" link                                      |                   |               |               |             |     
+| Engagement with "Schedule and manage your appointments" link                 |                   |               |               |             |   
+| Engagement with "Refill and track your prescriptions" link                   |                   |               |               |             |
+| Engagement with "Request travel reimbursement" link                          |                   |               |               |             |    
+| Engagement with "Get your VA medical records and lab and test results" link  |                   |               |               |             |   
+
+#### Hypothesis 2: We will initially see significant engagement with the new link to MHV**
+
+**Key Result: ...tk...**
+
+|KPI|Baseline: <br />1 month pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1  post-launch<br />(mm/dd/yy - mm/dd/yy)| Month 1 post-launch <br />(mm/dd/yy - mm/dd/yy)| Month 2 post-launch <br />(mm/dd/yy - mm/dd/yy)|
+|--------------------------|-------------------|---------------|---------------|-------------|
+| Engagement with MHV link |                   |               |               |             |     
+
+#### Hypothesis 3: tk...
+
+**Key Result: Task completion/initiation from MHV landing page increases after navigating to MHV landing page from My VA**
+
+TBD how best to capture and display this as a KPI but we'll need to create a funnel or next page report to track the following paths:
+- My VA > MHV landing page from new My VA link > Inbox > start/complete a task
+- My VA > MHV landing page from new My VA link > Appointments tool > start/complete a task
+- My VA > MHV landing page from new My VA link > Prescriptions tool > start/complete a task
+- My VA > MHV landing page from new My VA link > Travel reimbursement tool > start/complete a task
+- My VA > MHV landing page from new My VA link > Medical records, lab/test results > start/complete a task
 
 
 ## Key Dates
