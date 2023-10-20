@@ -34,7 +34,6 @@ Please log key decisions related to the below practice areas, including date, wh
 | A user can download from the details view. When they do, they receive a PDF that includes just the details of that allergy |      |
 | A user will be presented information on the consequences of downloading a PDF on a public computer | |
 | The list view will present each allergy in a card format. That card will include both the allergy logged and the date it was entered into the EHR by a provider. | Allergies may not be deduplicated across VistA sites. In order to make sure each card in the list view is unique and therefore accessible, we must include a second identifier. We chose date entered as that second identifier.    |
-| Each card in the list view contains allergy name and date entered by provider into the record | |
 | The H1 of the details view will be the allergy name. Directly underneath the H1 will be date entered information | | 
 | In the details view for an allergy, a user will be shown Allergy name, date entered, location entered, reaction, allergy type, whether it was observed or is historical, and any comments entered by the provider | |
 
