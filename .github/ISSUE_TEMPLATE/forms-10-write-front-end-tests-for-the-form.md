@@ -1,7 +1,7 @@
 ---
-name: Forms 10. Write front end tests for the form
+name: Forms 10. Write front end tests
 about: Describe this issue template's purpose here.
-title: ''
+title: '[form number]' Write front end tests
 labels: forms-audit-digitize
 assignees: ''
 
