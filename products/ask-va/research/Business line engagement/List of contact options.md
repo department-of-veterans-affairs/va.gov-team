@@ -111,16 +111,16 @@ This list is alphabetized by category name.
 |`Guardianship, custodianship, or fiduciary issues`|Accounting issue|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Guardianship, custodianship, or fiduciary issues`|Investigations and field examinations|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Guardianship, custodianship, or fiduciary issues`|About the program|`ENABLED`|`ENABLED`|`ENABLED`|
-|`Health care`|Family health benefits|TBD|TBD|TBD|
+|`Health care`|Family health benefits|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Health care`|Eligibility and how to apply|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
-|`Health care`|Getting care at a local VA medical center|TBD|TBD|TBD|
-|`Health care`|Career opportunities at VA health facilities|TBD|TBD|TBD|
+|`Health care`|Getting care at a local VA medical center|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Health care`|Career opportunities at VA health facilities|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Health care`|Caregiver support program|`ENABLED`|`ENABLED`|`**DISABLED**`|
 |`Health care`|Vet Centers and readjustment counseling|`ENABLED`|`**DISABLED**`|`ENABLED`|
 |`Health care`|Audiology and hearing aids|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
 |`Health care`|Prosthetics|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
 |`Health care`|Women's health services|`ENABLED`|`ENABLED`|`ENABLED`|
-|`Health care`|Foreign Medical Program|TBD|TBD|TBD|
+|`Health care`|Foreign Medical Program|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Housing assistance and home loans`|Appraisals|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Housing assistance and home loans`|Funding fee refund|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Housing assistance and home loans`|Home Loan Certificate of Eligibility (COE) or Restoration of Entitlement (ROE)|`ENABLED`|`ENABLED`|`ENABLED`|
