@@ -14,3 +14,4 @@ The MVP will include desktop & mobile experiences
 ## Post-MVP
 1. Link/integrate with other, related experiences
 2. Satisfaction survey to assess the user perceptions of our product experience
+3. Consider scenarios where a Veteran may have multiple representatives, each appointed to assist with different responsibilities
