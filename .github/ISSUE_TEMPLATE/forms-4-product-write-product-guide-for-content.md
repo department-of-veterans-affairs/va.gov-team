@@ -1,7 +1,7 @@
 ---
-name: Forms 4. [Product] Write Product Guide for Content - 3 Point
+name: 'Forms 4. Product - Write Product Guide for Content'
 about: Describe this issue template's purpose here.
-title: 4. Write Product Guide for Content
+title: '[form number] Write Product Guide for Content'
 labels: ''
 assignees: ''
 
