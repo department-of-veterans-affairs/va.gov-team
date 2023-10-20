@@ -47,21 +47,24 @@ Learnings will help refine questions and the presentation of results in the wiza
 ## Research Questions
 1. What feedback do Veterans (and others) have on **individual questions**?
 
-     1.
+    - There was some confusion with the service years question, as well as some of the wording in other questions (e.g., *C-123 plane*, *neutral zone*). The details are documented later in this report.
 1. What feedback do Veterans (and others) have on the **entire set of questions**?
 
-     1. 
+     - Participants were presented with anywhere from 2-10 questions, which varied based on their responses and the branching logic. There were no comments about there being too many questions. One pilot participant (who saw only 2 questions) said that he expected more questions--to be asked about the specifics of his job, whether he was in or around burn pits, and about his medical conditions.
 
 1. Do Veterans (and others) **know enough about their military service to answer the questions**? If not, what do they need to answer them?
     
-     1.
+     - Yes for all the Veteran participants. We didn't have any Veteran family members who answered the questions for someone other than themselves.
 
 1. What feedback do Veterans (and others) have on the **results**?
     
-     1.
+    - There were some questions and interaction issues that arose on the R1 results pages, which are documented later in this report. 
      
 
 1. If the tool says that they're eligible, what do they say they would **do next**?
+
+    - Apply for VA disability, apply for VA health care, or do nothing (if they believe they're not eligible)
+
 
 ## Methodology 
 We conducted **remote usability testing** over Zoom on October 2-6, 2023 to get feedback from research participants using a prototype that presents the questions and results screens in the PACT Act Wizard. The prototype was not a high-fidelity design prototype but instead an **online survey (in Survey Monkey) that presented questions** and branches appropriately to subsequent questions and relevant results screens. In this way, we **tested the *content* of the PACT Act Wizard**—the text and flow of the questions and the logical branching—but *not* the UI design. 
@@ -92,18 +95,19 @@ Any participants who didn't see the *You may be eligible* results screen were th
 
 ## Hypotheses and Conclusions
 1. Veterans (and others) will find the questions to be clear and easy to understand and answer.
-     1. LIKELY TRUE: Participants...
+    - MOSTLY TRUE: Participants found the questions overall to be simple and straightforward, but some found a few questions to be confusing.
      
 2. Veterans (and others) will find the number and content of the questions to be relevant to their understanding of the PACT Act and how it applies to them (or the Veteran). 
-     1. MAYBE TRUE: Participants...
+    - TRUE: Participants didn't say that any of the questions were irrelevant. They understood what they were asking about and said that the questions flowed well.
 1. Veterans (and others) won't find the number and content of the questions to be overly burdensome. 
+    - TRUE: There were no complaints about the number or content of the questions. 
 
 1. The results are simple enough for Veterans (and others) to understand and are not misleading. 
+    - MOSTLY TRUE: Participants understood the general idea of whichever results screen(s) they saw. Their ratings of confidence level about their next steps averaged 5.7 on a scale from 1-7 where 1 is *Not at all confident* and 7 is *Extremely confident*. The lower ratings came from participants who already believed that they weren't eligible for benefits under the PACT Act or who were shown the "You may be eligible for VA benefits" screen that didn't apply to them.
 
 1. Veterans (and others) will understand what "presumptive conditions" mean after reading the plain language description in the results flow. 
 
-    
-
+    - UNKNOWN: All 9 participants in this study already understood what *presumptive condition* were *before* they read the description in the wizard.
 
 
 ## Key Findings
