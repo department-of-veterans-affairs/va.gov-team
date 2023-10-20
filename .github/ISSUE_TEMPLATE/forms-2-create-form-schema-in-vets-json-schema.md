@@ -1,7 +1,7 @@
 ---
-name: Forms 2.  Create form schema in vets-json-schema
+name: 'Forms 2.  Create form schema in vets-json-schema'
 about: Describe this issue template's purpose here.
-title: ''
+title: '[form name] Create form schema in vets-json-schema'
 labels: ''
 assignees: ''
 
