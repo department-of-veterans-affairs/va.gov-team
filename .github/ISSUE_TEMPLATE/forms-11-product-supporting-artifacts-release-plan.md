@@ -2,7 +2,7 @@
 
 name: 'Forms 11. Product-Supporting Artifacts & Release Plan'
 about: Describe this issue template's purpose here.
-title: '[form name] Supporting Artifacts & Release Plan in preparation to go live'
+title: '[form number] Supporting Artifacts & Release Plan in preparation to go live'
 labels: ''
 assignees: ''
 
