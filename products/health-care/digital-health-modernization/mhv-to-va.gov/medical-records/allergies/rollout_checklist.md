@@ -26,7 +26,12 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
  		- [ ] Marci McGuire
    		- [ ] 
 - [ ] Goals and exit criteria have been established for phase 0 and agreed upon with product owner
-	 - Exit criteria:
+	- Goals:
+		- Real users have had an opportunity to use the application in a Production environment
+  		- Users have provided feedback on any challenges or issues they encounter
+    		- The delivery team has had the opportunity to monitor logs and identify any issues that were not detected during early testing
+      		- The delivery team has had the opportunity to remediate show-stopper issues before we make the application available to a wider audience
+  	- Exit criteria:
 		- At least 25 trusted users have logged into the Allergies page from the email-provided link
 		- At least 10 trusted users have viewed their list of allergies
   		- At least 10 trusted users have viewed an allergy detail page
