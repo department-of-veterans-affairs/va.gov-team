@@ -4,6 +4,55 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
+## 11/1/2023 - 11/14/2023  -------------- FUTURE / TENTATIVE ---------------
+#### SPRINT GOALS
+ - **GOAL: Ongoing Production Support**
+ - **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goals: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
+    - **Sub Goal: Add Travel Claim Terms of Agreement** 
+    - **Sub Goal: File any Claim Type for a Past Appointment - Design & Discovery**
+- **GOAL: Increase usage of Pre-Check-in & Check-in**
+     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
+     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
+     - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Address tech & design debt**
+     - **Sub Goal: Miscenallenous debt**
+
+#### PLANNED RELEASES 
+- NONE
+
+#### SPRINT TICKETS
+- **GOAL: Ongoing Production Support**
+     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
+     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680) 
+- **GOAL: Make submission of a travel reimbursement claim easier**
+   - **Sub Goal: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
+       - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)  [[FE] Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423)
+   - **Sub Goal: Add Travel Claim Terms of Agreement**
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [SPIKE: Determine Impacts to Current User Flow & Functionality](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68081)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create New User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68083)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68084)
+   - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
+      - TBD
+- **GOAL: Increase usage of Pre-Check-in & Check-in**   
+    - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
+        - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
+            - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) Blocked: waiting on test users to do integration testing
+    - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
+        - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
+            - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) BLOCKED [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65842)
+         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+            - TBD
+    - **Sub Goal: Analyze current metrics to see what they tell us**
+       - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png)![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[BE]SPIKE: How can we Measure & Report How Long it Takes to Complete Check-in (w/ and w/o travel)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67177)
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68086)
+- **GOAL: Address tech & design debt**        
+    - TBD
+
+-------------- END FUTURE / TENTATIVE ---------------
+__________________________________________________________________________________________________________________________________________________________
+
 ## 10/18/2023 - 10/31/2023  
 #### SPRINT GOALS
  - **GOAL: Ongoing Production Support**
