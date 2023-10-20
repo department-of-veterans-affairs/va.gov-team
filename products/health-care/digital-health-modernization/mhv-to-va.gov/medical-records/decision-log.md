@@ -26,6 +26,7 @@ Please log key decisions related to the below practice areas, including date, wh
 ### Allergies specific design decisions
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------| 
+| The Allergies domain name was updated to Allergies and reactions. | This was a recommendation based on SME feedback. Allergies and reactions captures the full breadth of the data entered into this section of information. Reactions refers to information such as an adverse drug reaction. |
 | The list view page for allergies will be at the URL …/my-health/medical-records/allergies/ |   |
 | A details page for allergies will be at the URL …/my-health/medical-records/allergies/allergy_ID/ |     |
 | A user can print from the list view. When they do, they receive a print out of all of their allergies |     |
@@ -36,6 +37,7 @@ Please log key decisions related to the below practice areas, including date, wh
 | The list view will present each allergy in a card format. That card will include both the allergy logged and the date it was entered into the EHR by a provider. | Allergies may not be deduplicated across VistA sites. In order to make sure each card in the list view is unique and therefore accessible, we must include a second identifier. We chose date entered as that second identifier.    |
 | The H1 of the details view will be the allergy name. Directly underneath the H1 will be date entered information | | 
 | In the details view for an allergy, a user will be shown Allergy name, date entered, location entered, reaction, allergy type, whether it was observed or is historical, and any comments entered by the provider | |
+| The field formerly called reaction was updated to be called Signs and symptoms. | This was based on feedback from SMEs. Signs and symptoms is the terminology for this field used in the After Visit Summary. It also differentiates this field from the title of this entire section - Allergies and reactions |
 
 
 
