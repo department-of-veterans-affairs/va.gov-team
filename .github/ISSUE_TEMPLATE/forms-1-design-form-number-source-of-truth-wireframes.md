@@ -1,7 +1,7 @@
 ---
-name: Forms 1.  [Design] - %%Form Number%% Source of Truth & Wireframes
+name: Forms 1. Design - Source of Truth & Wireframes
 about: Before Design Intent
-title: ''
+title: 'Design - [form number] Source of Truth & Wireframes'
 labels: forms-audit-digitize
 assignees: ''
 
