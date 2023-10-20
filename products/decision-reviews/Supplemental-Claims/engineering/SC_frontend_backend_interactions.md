@@ -55,19 +55,4 @@
 | External System(s)   | # of occurences           | Responses                    | Outcome / Message
 | -------------------- | ------------------------- | ---------------------------- | --------- 
 | N/A (only vets-api)  | Many per submission       | 200                          | Slim success alert. <br> We've saved your application. We saved it on `Date`, at `time`. Your application ID number is `ID number` [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/7f56ad4e-27f2-42f0-a4b3-ed6824125380)
-|                      |                           | Any other                    | Error alert. <br> Header: We're sorry. Something went wrong on our end. <br> Body: We're sorry. Your Intent to File request didn't go through because something went wrong on our end. For help creating an Intent to File a Claim for Compensation, please call Veterans Benefits Assistance at 800-827, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET. Or, you can fill out a VA Form 21-0996 and submit to: Department of Veterans Affairs Claims Intake Center PO Box 4444 Janesville, WI 53547-4444 [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/ba037938-7092-4e84-8722-001aebaf069d)
-
-  ### External System(s)
-  N/A (only vets-api)
-  ### Number of Occurences per Submission 
-  Many per submission
-  ### Possible Responses and action from frontend upon response
-
-
-  #### 200 Success
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/7f56ad4e-27f2-42f0-a4b3-ed6824125380)
-
-  #### Any other response
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/2f1003f9-f390-4d80-bb4d-e3e7a2911407)
-
-
+|                      |                           | Any other                    | Slim error alert. <br> We're sorry. We're unable to connect to VA.gov. Please check that you're connected to the Internet, so we can save your application in progress. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/2f1003f9-f390-4d80-bb4d-e3e7a2911407)
