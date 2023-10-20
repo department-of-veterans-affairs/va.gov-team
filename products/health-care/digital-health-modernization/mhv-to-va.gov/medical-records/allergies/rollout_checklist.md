@@ -13,7 +13,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 	- [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research)
 	- [System Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Architecture%20Diagram.png)
 	- [Data Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Sequence%20Diagram.png)
-	- [UI/UX]
+	- [UI/UX](https://www.sketch.com/s/a7c188da-3716-494d-a11b-8b570ce78e8a)
 	- [User documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/MR%20on%20VA.gov_Product%20Guide_Draft.docx)
 - [X] Required account activity logging (AAL) has been set up, tested, and approved by stakeholders.
 - [X] Monitoring has been set up (Analytics/Datadog)
