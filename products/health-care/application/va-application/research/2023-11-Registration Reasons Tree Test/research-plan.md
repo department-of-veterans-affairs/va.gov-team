@@ -120,29 +120,31 @@ What demographics, experience, and scenarios do you need participants to meet to
 Cohort 1
 - What is your service connected disability rating? (must be over 50% to qualify)
 
-
 Cohort 2
 - What is your service connected disability rating? (must be between 30-40% to qualify)
-
+- Not enrolled in VA health care
 
 Cohort 3
-- What is your service connected disability rating? (must be between 0-20% to qualify)
-
-
+- What is your service connected disability rating? (must be between 30-40% to qualify)
+- Enrolled in VA health care
+  
 Cohort 4
-- Do you have a service connected disability? (must be NO to qualify, 0% rating)
-
+- What is your service connected disability rating? (must be between 0-20% to qualify)
+- Not enrolled in VA health care
 
 Cohort 5
-- 
+- What is your service connected disability rating? (must be between 0-20% to qualify)
+- Enrolled in VA health care
 
 
 Cohort 6
-- 
+- Do you have a service connected disability? (must be NO to qualify, 0% rating)
+- Not enrolled in VA health care
 
 
-Cohort 7
--
+Cohort 6
+- Do you have a service connected disability? (must be NO to qualify, 0% rating)
+- Enrolled in VA health care
 
 
 Cohort 8
