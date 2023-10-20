@@ -28,8 +28,12 @@ As a Veteran
 
 Integrate with VA Profile
 As a Veteran
-> If I am authenticated, Information is pre-filled for me if it's available on VA Profile
-> If I authenticated, I am able to edit personal information on VA Profile and then come back to my inquiry form to finish asking my question on Ask VA.
+>If I am authenticated, Information is pre-filled for me if it's available on VA Profile.\
+>If I am authenticated, I am able to edit personal information on VA Profile and then come back to my inquiry form to finish asking my question on Ask VA.
+
+AVA Dashboard
+As an authenticated submitter
+>I am able to see the status of my submitted inquires and manage my replies
 
 ## Undesired Submitter Outcomes
 
@@ -38,17 +42,18 @@ As a Veteran
 >I cannot find Ask VA on VA.gov.\
 >It's not accessible for me.
 
-Integrate with VANotify and myVA
->Waiting for spike
+Integrate with VA Profile
+As a Veteran
+>If I am authenticated, my information is not pre-filled if available on VA Profile.\
+>If I am authenticated, I am not able to go to VA Profile to edit my info and then return to the form.
 
-Secure Messaging (SM) on VA.gov
->Waiting for spike
+AVA Dashboard
+As an authenticated submitter
+>I am not able to see the status of my submitted inquiries and manage my replies.\
 
 ## Desired Business Objectives
 
-- Streamline the process for submitters to receive answers to their questions
-- Create a modernized mobile friendly, accessible online support experience aligned with VA Design standards
-- Increase submitter Satisfaction
+- Our Phase 1 MVP will have brought the current Ask VA up to VA.gov design and accessibility standards, updated the content to make it more intuitive for our submitters, and sunset the existing front-end portal of AVA.
 
 ---
 ## Measuring Success
@@ -56,9 +61,7 @@ Secure Messaging (SM) on VA.gov
 
 ### Key Performance Indicators (KPIs)
 
-- 70% of submitters are satisfied with their experience
-- Rerouted cases are reduced by 50%
-- Accessibility issues are eliminated
+- [KPI Measurement doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20KPIs.md)
 ---
 
 ## Assumptions
