@@ -3,23 +3,18 @@
 ---
 
 ## Overview
-AVA is an online portal that allows Veterans, caregivers, and supporting personnel in education, debt, loans, etc. to submit questions to VA and receive a secure message response.
-
-Currently, Ask VA (AVA) resides within a stand-alone Microsoft portal that is inconsistent with the VA design standards, is not mobile-friendly, and has accessibility issues. 
-
-AVA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystem to quickly and accurately answer submitters' questions. Submitterss should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and submitter-centered approach to support.
+AVA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystems to quickly and accurately answer submitters' questions. Submitters should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and submitter-centered approach to support.
 
 
 ## Problem Statement
 
 Submitter should easily and intuitively be able to ask a question through Ask VA on VA.gov.
    - **Who**: The submitter - This could be the Veteran, their caregiver, their supporting personnel, or their dependents (authenticated or un-authenticated).
-   - **What**: The current form design and content is not up to VA.gov design standards, mobile-friendly, and accessible for the submitter. The submitter wants to ask a question, submit documents, provide updates.
-   - **Why**: This will empower more Veterans to seek access to VA benefits and services by letting them get answers to their questions.
-   - **Where**: The form needs to reside in VA.gov so that it is easily locatable and can potentially integrate with other applications on the platform.
-   - **How**: Contact the submitter via email, phone, or mail and dashboard.
+   - **What**: The current form design and content needs to better align with VA.gov design and accessibility standards for the submitter. 
+   - **Why**: This will empower more Veterans to seek access to VA benefits and services.
+   - **Where**: The form needs to reside in VA.gov so that it is easily locatable and can potentially integrate with other VA.gov applications (ex. Chatbot).
 
-**How might we** create an inquiry form that is easier for the Veterans to ask a question online?
+**How might we** create an inquiry form that is easier for Veterans and other users to ask VA a question online?
 
  
 ## Desired Submitter Outcomes
@@ -31,11 +26,10 @@ As a Veteran
 >It's easy for me to find Ask VA on VA.gov.\
 >It's accessible for me.
 
-Integrate with VANotify and myVA
->Waiting for spike
-
-Secure Messaging (SM) on VA.gov
->Waiting for spike
+Integrate with VA Profile
+As a Veteran
+> If I am authenticated, Information is pre-filled for me if it's available on VA Profile
+> If I authenticated, I am able to edit personal information on VA Profile and then come back to my inquiry form to finish asking my question on Ask VA.
 
 ## Undesired Submitter Outcomes
 
