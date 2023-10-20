@@ -15,7 +15,11 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 	- [Data Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Sequence%20Diagram.png)
 	- [UI/UX]
 	- [User documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/MR%20on%20VA.gov_Product%20Guide_Draft.docx)
-- [ ] Monitoring has been set up (Analytics/Datadog)
+- [X] Required account activity logging (AAL) has been set up, tested, and approved by stakeholders.
+- [X] Monitoring has been set up (Analytics/Datadog)
+    - Basic health checks have been set up for the MHV API and the FHIR API
+       - https://mhv-pr-api.myhealth.va.gov/mhvapi/v2/phrmgr/heartbeat/isalive
+       - https://mhv-pr-api.myhealth.va.gov/fhir/metadata?_summary=true
 - [X] Product guide created and shared with support personnel
 - [ ] Support/issue reporting process and R&R has been defined
 - [ ] Goals and exit criteria have been established for phase 0 and agreed upon with product owner
