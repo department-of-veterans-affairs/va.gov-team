@@ -33,7 +33,11 @@ The MVP will include desktop & mobile experiences
 
 ## Post-MVP
 
-1. Consider including VSO Representative rep type
-2. Satisfaction survey to assess the user perceptions of our product experience
-3. Consider adding [Representative Status Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/mvp-representative-status-widget.md) to the experience
-4. Integrate with OGC APIs for direct access to accredited representative data
+1. Consider additional search parameters
+   1. VSO Representative rep type
+   2. Email
+   3. Remote support
+   4. Gender
+3. Satisfaction survey to assess the user perceptions of our product experience
+4. Consider adding [Representative Status Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/mvp-representative-status-widget.md) to the experience
+5. Integrate with OGC APIs for direct access to accredited representative data
