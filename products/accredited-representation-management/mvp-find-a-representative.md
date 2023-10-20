@@ -1,6 +1,6 @@
 # Find a Representative MVP
 
-Developed by the Accredited Representation Management team
+Developed by the Accredited Representation Management team, the Find a Representative product will allow Veterans to search for an accredited representative on VA.gov.
 
 The MVP will include desktop & mobile experiences
 
