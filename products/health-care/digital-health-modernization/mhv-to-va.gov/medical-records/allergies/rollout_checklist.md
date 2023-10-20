@@ -23,8 +23,20 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 - [X] Product guide created and shared with support personnel
 - [ ] Support/issue reporting process and R&R has been defined
 	- [ ] Key team members have access to the feedback mailbox
- 		- [ ] Marci McGuire
-   		- [ ] 
+ 		- [X] Marci McGuire		
+  		- [X] Bryan Riley
+   		- [X] Lichelle Bain
+       - [ ] A monthly rotation will be established for monitoring the mailbox.  Where possible, rotation assignments should align with rotations on other mailboxes; in other words, if someone is monitoring the mailbox for SM in November, and is also part of the Medical Records rotation, they should be assigned on the month to minimize rotation frequency.
+	- [ ] Roles and Responsibilities
+		- It is the mailbox monitor's responsiblity to ensure coverage during planned time off
+  		- If the mailbox monitor is unexpectedly out of the office, the remaining members of the mailbox rotation will share responsiblity for monitoring
+  		-  Mailbox monitor will acknowledge emails the same day they are received, or on the first business day
+		-  Mailbox monitor will escalate issues related to the new Allergies experience to the ByLight delivery team so they can be investigated and entered as a ticket.   No PII should be shared unless absolutely necessary to research the issue.  In that case, the information should be sent via encrypted email to a VA email address only.
+  		-  Mailbox monitor will relay issues related to the classic MHV experience to the appropriate MHV team.   No PII should be shared unless absolutely necessary to research the issue.  In that case, the information should be sent via encrypted email to a VA email address only.
+  		-  Appropriate delivery team member(s) (front-end, back-end, UI/UX, accessibility) will investigate issues and determine root cause
+    		-  ByLight PM will enter a Jira ticket for issues as needed
+    		-  Product team will document root cause and resolution of confirmed issues
+      		-  Product team will respond to the end user with a resolution if applicable
 - [X] Goals and exit criteria have been established for phase 0 and agreed upon with product owner
 	- Goals:
 		- Real users have had an opportunity to use the application in a Production environment
