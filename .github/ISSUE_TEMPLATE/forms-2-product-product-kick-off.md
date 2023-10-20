@@ -1,7 +1,7 @@
 ---
-name: Forms 2. [Product] Product Kick Off 1 point
+name: 'Forms 2. [Product] Product Kick Off 1 point'
 about: Describe this issue template's purpose here.
-title: 2. Product Kick off
+title: '[form name] Product Kick off'
 labels: ''
 assignees: ''
 
