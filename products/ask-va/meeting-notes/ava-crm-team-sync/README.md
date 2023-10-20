@@ -1,3 +1,50 @@
+## Meeting Notes for CRM Sync on 10/19/2023
+
+App Insights; Project Plan; Medallia; Field Removal; Teams for Syncs; sec_id Usage; AVA CRM Lower Environments
+
+### Attendees:
+
+* **AVA FE Team:** Khoa, Joe, Becky, Ruchi, Jacob
+* **AVA CRM Team:** JD, Natalie, Tina
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+1. Getting a dump of the App Insights data was discussed. Joe sent an email to the key players to narrow the scope and better define what the AVA FE team is looking for.
+2. The potential issues around `sec_id` were discussed. Joe shared Trevor's (from Identity Team) initial comment and response to Joe's follow up questions. Baseed on Trevor's response, and the AVA CRM team's experience in PROD, I believe this is a non issue. It's likely only an issue for people who have only ever logged in on the mobile app, bypassing the SSOe gateway.
+3. Medallia was discussed in the context of Power Pages. It looks like the AVA CRM team will be blazing a new trail. Becky to send effort, acceptance criteria adependencies and filalized survey questions to Shelby.
+4. Removing (rather hiding) fields was discussed. Chris emphasized the point that "required" might be interpreted by the CRM agents as "really nice to have", and described possible pitfalls around inquiry rerouting. Becky will meet with Kathleen to verifyy that the hidden fields won't affect routing, then plan a joint announcement from both teams to the LOBs as a draft email to the channels that Kathleen already has established for AVA CRM communications.
+5. The move to MSFT Teams was mentioned again. Joe needs to remove the Zoom invite for the Thursday syncs and resend as Teams invite.
+6. The project plan was discussed. The dates will need to be examined and tweaked. Natalie to create a MSFT Project file to replace the current spreadsheet.
+7. Bharat et.al. mentioned the lower environments for the AVA CRM team. Bharat to send an email, briefing them.
+
+### Action Items:
+
+- [ ] ~Joe - Get list of fields to collect from App Insights data to CRM team ASAP - target of 10/19's sync.~
+- [ ] ~Joe - Coordinate discussion of the use of `sec_id` in the current and new AVA applications.~
+- [ ] Natalie - convert the API Project plan from Excel -> MS Project by 10/31.
+- [ ] Ruchi and Becky - add the other dependencies in the Project plan by next thursday 10/26.
+- [ ] Joe - add Natalie to the Teams folder.
+- [ ] AVA CRM and AVA FE teams - annotate the projedct plan spreadsheet with concerns, dates, questions, ..
+- [ ] Bharat - send out email brieffing of lower environments.
+- [ ] JD - see if it's possible to export all the App Insights data.
+- [ ] Becky and Kathleen - check that hiding military information fields won't affect routing / system. Draft email to Lobs.
+- [ ] Kathleen - send effort, acceptance criteria, dependencies, finaliized survey questions to Shelby.
+
+- [ ] Kathleen - Create new placeholder task in JIRA for the Medallia survey work. Send effort, acceptance criteria, dependencies & finalized survey questions to Shelby.
+- [ ] Becky - Ask Medallia team about experience on other sites.
+- [ ] Becky - Touch base with Kathleen on military information fields this week. Check that fields won’t affect routing. Draft email.
+- [ ] Becky/Kathleen - [Hold after convo with Kathleen] Communicate to business teams about military information. Notify on CCB in October 27th. Send out email in tandem (Kathleen and Becky) to AVA distribution email.
+
+Carryover action items:
+
+- [ ] ~JD and the va.gov AVA integration team will look for folks with KQL (Kusto Query Language) experiennce to help massage the data needed for KPIs.~
+- [x] Joe - Present API Docs and granular project plan to this meeting on Thursday (10/19).
+- [ ] Joe - Incorporate the steps for "done" in the granular project timeline.
+
+
+----
+
 ## Meeting Notes for CRM Sync on 10/17/2023
 
 Admin; Data Analysis; User Identifiers; Surveys; Field Removal
