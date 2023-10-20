@@ -26,7 +26,7 @@ Please log key decisions related to the below practice areas, including date, wh
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------| 
 | The list view page for allergies will be at the URL …/my-health/medical-records/allergies/ |   |
-| A details page for allergies will be at the URL …/my-health/medical-records/allergies/<allergy ID>/ |     |
+| A details page for allergies will be at the URL …/my-health/medical-records/allergies/allergy_ID/ |     |
 | A user can print from the list view. When they do, they receive a print out of all of their allergies |     |
 | A user can print from the details view. When they do, they receive a print out of the details for just that allergy |     |
 | A user can download from the list view. When they do, they receive a PDF that includes a list of all of their allergies |   |
