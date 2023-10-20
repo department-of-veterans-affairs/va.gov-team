@@ -301,22 +301,25 @@ One participant **wanted to see what the specific presumptive conditions are**, 
 
 One participant got **stuck after clicking on the "Learn more about health care eligibility (opens in a new tab)" link**. He couldn't figure out how to get back to the results page because he didn't realize the content was in a new browser tab and the "Back" button didn't do anything. He wasn't very tech savvy. After looking through the page, this participant said that he could want to confirm with someone at the VA that he should apply for benefits.
 
-One of the pilot participants had **difficulty figuring out which of the two disability links *(File a disability compensation claim vs. File a Supplemental Claim)* to use**. He already gets VA disability compensation and doesn't want to mess up his current rating. He thinks he would file a Supplemental Claim since he already has disability, but the descriptive paragraph says to only do that if you've been denied before *for this condition*. The long quote below is from this pilot participant as he takes a while figuring out when to use which link.
+One of the pilot participants had **difficulty figuring out which of the two disability links *(File a disability compensation claim vs. File a Supplemental Claim)* to use**. He already gets VA disability compensation and doesn't want to mess up his current rating. He thinks he would file a Supplemental Claim since he already has disability, but the descriptive paragraph says to only do that if you've been denied before *for this condition*. The long quote below is from this pilot participant as he takes a while figuring out which link to use.
 
 > *"My situation...I don't feel like it falls into any of these categories...because I have a claim on file. But...it says, if you haven't yet filed a claim for your condition, and I haven't for that condition, but I do have another one. I have a disability percentage, so I would wonder if this is the right option for me or if it's going to mess up my other claim. I would be cautious about this first option.*
 
 > *"This next one [File a Supplemental Claim] doesn't apply to me because I have not submitted a claim for [specific condition name] before...If I had been previously denied a claim, then now I can get...the VA to reconsider...*
 
-> *"**For the headers and...the links themselves, I feel like the supplemental claim is right because I have something [disability] and I would feel like I'm filing a supplement to what I already have**. And so that's a little confusing to me. Because...being called a supplemental claim, but according to the paragraph, it is if I've been denied before, so I'm resubmitting my claim. So if I'm not reading the paragraphs, I'm thinking that the **first link is only for somebody who doesn't have disability yet**.*
+> *"**For the headers and...the links themselves, I feel like the supplemental claim is right because I have something [disability] and I would feel like I'm filing a supplement to what I already have**. And so that's a little confusing to me. Because...being called a supplemental claim, **but according to the paragraph, it is if I've been denied before, so I'm resubmitting my claim**. So if I'm not reading the paragraphs, I'm thinking that the first link is only for somebody who doesn't have disability yet.*
 
-> *When I read the paragraphs, the first link is what I would use if I have never claimed *this particular condition*, and the second link is only if I got it denied" (pilot 1).*
+> *"When I read the paragraphs, the first link is what I would use if I have never claimed *this particular condition*, and the second link is only if I got it denied" (pilot 1).*
+
+The other pilot participant had feedback about the information provided in the "Other Gulf War illnesses presumptive conditions" accordion. He found the list of conditions to be short and vague. He then clicked on the "Learn more about Gulf War illnesses..." link and went through the detailed list of presumptive conditions on that page, which didn't include the specific medical condition for which he has a diagnosis. He then said that it **doesn't seem worth the trouble of applying for disability and having to prove that symptoms exist**. If he saw his condition listed, he said he might file a claim because it would be less of a fight to get the claim approved. 
+
+> *"Just the whole reason why I haven't filed the claim...it's not worth it to me to go through the hassle of the time to file a claim.
+I've heard horror stories, people trying to get claims and the time investment to go through that process. I don't have it right now. And it's not like I'm debilitated so I can't do stuff...but my wife always tells me to file a claim...but..not worth it. The process would give me PTSD...I personally think it would be very frustrating to file a claim" (pilot 2).*
+
 
 #### RECOMMENDATIONS:
-1. Share with Laura Flannery the user difficulty in going back after clicking on a link and landing in a new browser tab.
+1. Share with Laura Flannery the user difficulty in going back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard of this feedback from anyone else, but it's a new approach that hasn't been tested before.]*
 1. Consider adding another link/header for those who already have VA disability because "if you haven't filed a claim" and "if we denied your claim" don't make sense.
-
-#### User feedback on the "VA benefit eligibility" (can't tell if you're eligible) results page
-
 
 
 ### Usability Successes
