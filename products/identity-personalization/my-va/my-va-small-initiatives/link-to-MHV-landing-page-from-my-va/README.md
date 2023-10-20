@@ -42,7 +42,7 @@ Specifically for the health care section, once we add this link, we'll monitor t
 | Engagement with "Request travel reimbursement" link                          |                   |               |               |             |    
 | Engagement with "Get your VA medical records and lab and test results" link  |                   |               |               |             |   
 
-#### Hypothesis 2: We will initially see significant engagement with the new link to MHV**
+#### Hypothesis 2: We will initially see significant engagement with the new link to MHV
 
 **Key Result: ...tk...**
 
