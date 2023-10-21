@@ -43,9 +43,9 @@ Okay great, I can see your screen. Now please click the "sign in" button in the 
 - *For colorblind participants* How do you experience notifications on other websites and on your phone? Are there some types of notifications that are difficult or impossible for you to interpret? Is there any website or app that does it particularly well from a colorblihndness standpoint? 
 - What do you think each of these red indicators mean?
 - How do you think each of these red dots would disappear? What about the badge with the number in it?
-- What would you expect to see if you clicked link that says "Request travel reimbursement" and it has a red dot next to it?
+- What would you expect to see if you clicked the link that says "Request travel reimbursement" and it has a red dot next to it?
 - What would you expect to see if you clicked "Get your VA medical records and lab and test results" and it has a red dot next to it?
-- Is there anywhere on this view of the website that we're looking a now where you expect to see a red notification like this but you don't?
+- Is there anywhere on this view of the website that we're looking at now where you expect to see a red notification like this but you don't?
 
 ## Thanks and Closing - 2 minutes
 
