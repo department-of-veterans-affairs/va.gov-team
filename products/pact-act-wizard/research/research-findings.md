@@ -50,7 +50,7 @@ Learnings will help refine questions and the presentation of results in the wiza
     - There was some confusion with the service years question, as well as some of the wording in other questions (e.g., *C-123 plane*, *neutral zone*). The details are documented later in this report.
 1. What feedback do Veterans (and others) have on the **entire set of questions**?
 
-     - Participants were presented with anywhere from 2-10 questions, which varied based on their responses and the branching logic. There were no comments about there being too many questions. One pilot participant (who saw only 2 questions) said that he expected more questions--to be asked about the specifics of his job, whether he was in or around burn pits, and about his medical conditions.
+     - Participants were presented with anywhere from 2-10 questions (average of 6), which varied based on their responses and the branching logic. There were no comments about there being too many questions. One pilot participant (who saw only 2 questions) said that he expected more questions--to be asked about the specifics of his job, whether he was in or around burn pits, and about his medical conditions.
 
 1. Do Veterans (and others) **know enough about their military service to answer the questions**? If not, what do they need to answer them?
     
@@ -301,7 +301,7 @@ One participant **wanted to see what the specific presumptive conditions are**, 
 1. In or near the description of presumptive conditions on the R1-1 page, consider adding a note or link about where to find a list of specific conditions (on the R1-2 page) so that users will know where to find them. Nothing on the R1-1 page implies that you will be able to find them after you click the "Learn what to do next" link.
 
 #### User feedback on the R1-2 "Apply for VA benefits now" results page
-**Three participants read the 3 jump links at the top of the page as CTAs** (calls to action) and puzzled over which one to select because there wasn't much explanatory text around them. One of the 3 people scrolled down the page and noticed that they matched the headers on the page, and so guessed that they were jump links to the headers. The other 2 people figured it out when they clicked on one of them and remained on the same page.
+**Three participants read the 3 jump links at the top of the page as CTA's** (calls to action) and puzzled over which one to select because there wasn't much explanatory text around them. The links said *File a  claim for disability compensation* and *Apply for health care*. One of the 3 people scrolled down the page and noticed that they matched the headers on the page, and so guessed that they were jump links to the headers. The other 2 people figured it out when they clicked on one of them and remained on the same page.
 
 One participant got **stuck after clicking on the "Learn more about health care eligibility (opens in a new tab)" link**. He couldn't figure out how to get back to the results page because he didn't realize the content was in a new browser tab and the "Back" button didn't do anything. He wasn't very tech savvy. After looking through the page, this participant said that he could want to confirm with someone at the VA that he should apply for benefits.
 
@@ -324,18 +324,6 @@ I've heard horror stories, people trying to get claims and the time investment t
 #### RECOMMENDATIONS:
 1. Share with Laura Flannery the user difficulty in going back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard of this feedback from anyone else, but it's a new approach that hasn't been tested before.]*
 1. Consider adding another link/header for those who already have VA disability because "if you haven't filed a claim" and "if we denied your claim" don't make sense.
-
-
-### Usability Successes
-1. **Most participants were able to answer most of the wizard questions easily.**
-1. **No comments about too many questions**. Participants were presented with anywhere from 2-10 questions, which varied based on their responses and the branching logic.
-1. All participants **understood *presumptive conditions***, but not from the PACT Act Wizard. Most said that they already knew from talking to other Veterans or looking into the PACT Act already.
-1. Participants generally **understood the results screens** and figured out what  they should do next.
-
-### Usability Issues
-
-
-1. Three participants were **confused by the jump links** at the top of the results page on Staging because they interpreted them as CTA's (i.e., *file a disability claim* or *apply for health care* right now).
 
 
 ## Additional Insights
