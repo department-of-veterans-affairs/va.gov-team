@@ -1,4 +1,7 @@
 # Version management
+**Note:** This document is not intended to be a replacement for [the platform docs](https://depo-platform-documentation.scrollhelp.site/getting-started/setting-up-va-gov-locally), but as a supplement to help simplify dealing with version management for Ruby and Node.js.
+
+## Motivations
 * The docs mention using `nvm` for node version management and `rvm` for managing your ruby version
 * I would suggest using `asdf` to manage both. At the very least, I would avoid using `rvm` and pick `rbenv` instead, as whenever the supported version of ruby has changed for `vets-api` in the past, I've had to manually compile the new ruby version.
 * **Note:** The instructions below assume that you chose to use `asdf`. Refer back to [the platform docs](https://depo-platform-documentation.scrollhelp.site/getting-started/setting-up-va-gov-locally) if you chose other version management packages
