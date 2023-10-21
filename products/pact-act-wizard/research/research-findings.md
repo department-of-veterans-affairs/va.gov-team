@@ -117,6 +117,8 @@ Any participants who didn't see the *You may be eligible* results screen were th
 
 ## Details of Findings 
 
+Because this study was testing the *content* of the PACT Act Wizard and *not* the overall user experience, the user feedback varies more across participants than usually happens in a usability test. In this way, the number of participants noted for each piece of feedback is small.
+
 ### 1. All 9 participants had an overall positive experience using the PACT Act Wizard
 
 Participants called out the following specific features as working well:
@@ -358,6 +360,10 @@ One participant said that with the way that VA web pages display on her computer
 
 The VA content looks the way it does because it's formatted with a maximum width that gets centered in wider windows because longer lines of text are considered harder to read. In addition, there's usually a left sidebar that would fill up some of the blank space on the left, but this wasn't present in the prototype results screen.
 
+### Wayfinding: Most participants were able to find VA information on the PACT Act
+7 of 9 participants used a search engine in their web browser. 6 of 7 selected a VA.gov link to open, whereas one clicked a non-VA commercial link. 
+
+The other 2 participants went to the VA.gov home page. One typed into the search box, and the other found the PACT Act article at the top of the page.
 
 ## Recommendations
 Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
@@ -377,8 +383,6 @@ Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
 - We would like to get feedback from **Veterans who use screen readers**, which we were unable to do this time because our prototype wasn't accessible.
 - We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so that we can find out if they know enough about their family member's service to be able to answer the questions in this wizard.
 - When **additional questions about medical conditions** get added to this wizard, it would be helpful to usability test that content before launch.
-
-*(CHECK IF OTHER RECRUITMENT CRITERIA NOT MET)*
 
 
 ## Appendix
@@ -425,7 +429,7 @@ Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
   <summary>Results page (Click to show screenshots)</summary>
 
   ![results]()
-  ![results](results2.png)
+  ![results]()
    
 </details>
 
@@ -505,6 +509,7 @@ Disability and Assistive Technology (AT):
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 - Users of Assistive Technology 
+- No degree after high school
 - Identify as Biracial, Asian, Native, or LGBTQ+
 - Other than honorable discharge
 - Immigrant origin
