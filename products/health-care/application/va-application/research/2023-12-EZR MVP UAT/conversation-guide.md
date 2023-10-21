@@ -34,15 +34,16 @@ Today we're going to talk about making updates to health care information.
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+- **If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.**
+- Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
+- **You'll be interacting with a beta version of the website today.** This tool has not been released and it may not function exactly the way you expect. Since it is linked to the VA system, it will show you your real information. Towards the end, I will remind you not to submit anything.
+
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
 - **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
@@ -55,14 +56,14 @@ Before we start, I have a few things that I want to go over with you:
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
-## Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions - 3 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Let’s start with a few warm-up questions.
 
 1. Do you have a service-connected disability at VA?
 - If yes: what is your disability rating?
 - If no, skip to question 2.
-2. When is the last time you visited a VA medical facility?
+2. When was the last time you visited a VA medical facility?
 
 ## First Task: [Wayfinding] - 5 minutes
 
@@ -75,6 +76,22 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [What's the participant's mental model around updating their health care information?]
 
 
+## Second Task: [Static Page] - 5 minutes
+
+- Are you comfortable sharing your screen and walking through how you might update your health care benefits information?
+- Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
+- [Share link to https://VA.gov ---- in Zoom chat]
+- You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
+
+**Participant questions** 
+- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the form you are about to begin? - Why did you give it that rating?
+
+### Things to watch for:
+
+- [Quotes from participants about any content on the static page that makes them feel uneasy, confused, or not prepared to complete the application.]
+- [Comments about the terms used on the static page.]
+
+
 ## Second Task: [Signing In] - X minutes
 
 - Are you comfortable sharing your screen and walking through how you might update your health care benefits information?
@@ -85,9 +102,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - [Does the navigational placement of the new form make sense to the Veteran?]
 
-## Third Task: [Intro page] - X minutes
+## Third Task: [Intro page] - 5 minutes
 
-- You have arrive at this page. Please explain what the content on the page means to you and what should do next.
+- Step 1
 - Step 2
 
 ### Things to watch for:
