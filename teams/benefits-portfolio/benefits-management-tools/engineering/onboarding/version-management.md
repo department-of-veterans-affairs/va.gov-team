@@ -7,13 +7,15 @@
 * **Note:** The instructions below assume that you chose to use `asdf`. Refer back to [the platform docs](https://depo-platform-documentation.scrollhelp.site/getting-started/setting-up-va-gov-locally) if you chose other version management packages
 
 ## Setting up asdf
+[asdf documentation](https://asdf-vm.com)
+
 If you decide to go the `asdf` route, the below should help:
 
 ### Installing asdf
 #### Prerequisites
 **Note:** I would highly recommend installing Homebrew and the Xode Command Line Tools before proceeding
 
-[asdf Docs](https://asdf-vm.com/guide/getting-started.html#community-supported-download-methods)
+[asdf installatino docs](https://asdf-vm.com/guide/getting-started.html#community-supported-download-methods)
 
 If you have done the above, you can run `brew install asdf` to install `asdf`.
 
