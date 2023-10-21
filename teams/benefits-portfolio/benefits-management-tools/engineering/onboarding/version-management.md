@@ -70,3 +70,24 @@ asdf install <plugin> <version>
 
 asdf global <plugin> <version>
 ```
+
+### Other helpful `asdf` commands
+#### Get list of versions for all packages
+```sh
+asdf list
+```
+
+#### Get list of versions of a specific plugin
+```sh
+asdf list <plugin>
+```
+
+#### List installed plugins
+```sh
+asdf plugin list
+```
+
+#### Uninstall a version of a plugin
+```sh
+asdf uninstall <plugin> <version>
+```
