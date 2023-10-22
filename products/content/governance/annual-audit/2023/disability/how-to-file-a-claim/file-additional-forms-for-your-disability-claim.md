@@ -31,11 +31,8 @@
 - **SME** Name goes here
 - **Date response received:**
 
-### Questions for product team to verify
-- We don't currently have clothing allowance on this page, and we think it may have been an oversight. We'd like to verify that it makes sense to included it here.
-
 ### Questions for SME 
-- 
+- We don't currently have clothing allowance on this page on the live site, and we think it may have been an oversight. We've added it to this reworked page. We'd like to verify that it makes sense to include it here. 
 
 ### Responses
 
