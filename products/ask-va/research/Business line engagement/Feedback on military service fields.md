@@ -18,7 +18,7 @@ This list is alphabetized by category name. Each field is marked as:
 
 |Category|First/last name|Branch of service|Service number|SSN|DoD/EDIPI|Service start date|Service end date|DOB|Claim number|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|`Benefit issues outside the U.S.` > Education|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
+|`Benefit issues outside the U.S.` > Education|need|don't need|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
 |`Benefit issues outside the U.S.` > VBA|NEED|NEED|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
 |`Burials and memorials` > NCA|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
 |`Burials and memorials` > VBA|NEED|NEED|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
