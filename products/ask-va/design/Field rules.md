@@ -2,7 +2,7 @@
 
 Last updated by @tygindraux: October 23, 2023
 
-This document is for our design team to communicate field rules with another and our engineering and product counterparts.
+This document is for our design team to communicate field rules to our engineering and product folks.
 
 **Jump to:**
 - [Gender identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#gender-identity)
