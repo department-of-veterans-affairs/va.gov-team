@@ -278,12 +278,9 @@ Another participant heard that you **could be eligible for PACT Act benefits by 
 > *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
 
 #### RECOMMENDATIONS: 
-1. Consider adding more information to the PACT Act page and/or the wizard to address participants' questions and concerns:
-     
+1. Consider adding more information to the PACT Act page and/or the wizard to address participants' questions and concerns:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
-
      1. You must have a disability in order to get compensation, but not necessarily a presumptive condition. Just being in a specific location and getting exposed to toxic substances isn't enough. 
-       
      1. Burn pit registry is not connected to PACT Act eligibility, and so you should still apply for PACT Act benefits.
 1. VA could consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits, to support one participant's belief that they would hear back if they should apply.
 
@@ -348,7 +345,17 @@ The VA content looks the way it does because it's formatted with a maximum width
 
 The other 2 participants went to the VA.gov home page. One typed into the search box, and the other found the PACT Act article at the top of the page.
 
-### D. Many Veterans don't know that they could or should apply for VA benefits
+### D. Participants shared feedback about the VA disability claims process in general
+One participant (and also one pilot participant) described negative experiences in the past with **VA not believing that medical conditions are linked to their service**. 
+
+> *"Initially, the first 2 exams I had back in 2011 and 2012. They were telling me no, you're fine, you don't fall under this. As the years went by...I knew I did. But I had to go back multiple times. I think that was the more frustrating part...They were saying no no no, and then I had to go back just for them to say okay, yeah we were wrong: You do fall under that...It was over a decade of symptoms and finally they said, oops, yeah, we found [a] correlation" (p2).*
+
+This same participant advised against telling the doctor that you're "fine" when a doctor asks how you're doing.
+> *"You walk in the doctor's office, 'How you doing?' 'Fine.' That doesn't mean you're fine. You just, you say those words. They're documenting it, and sometimes those same words are being used against you. So it's a shame that we...have to walk in there and list off all everything and not say 'fine'" (p2).*
+
+A different participant said that he was advised to **go to the American Legion, VFW, or a Veteran advocates group that would understand how to fill out the disability application forms**, rather than trying to do it on his own. He went to the American Legion to apply, and they helped request his medical records. To get his military records, he had to apply 3 times--online, calling, and then writing a letter--and wait *18 months*. By that time, the American Legion had already submitted his disability application, so they did a Supplemental Claim to add his military records.
+
+### E. Many Veterans don't know that they could or should apply for VA benefits
 Two participants said that they **hadn't heard anything about the VA when they left the military**. Years after one of them was discharged in 1972, his brother-in-law mentioned VA to him by chance and encouraged him to apply for benefits, which he did in 2004.
 
 > *"Here's your last check, give me your ID card, get off the base" [discharged in 1972] (p7).* 
@@ -364,16 +371,6 @@ One regular participant and one pilot participant said that they feel **undeserv
 > *"I thought you had to be wounded [to go to the VA]...I felt that I had all my limbs and I was upright and that I really didn't need to go to the VA...I have a lot of things that were wrong when I retired and they're getting worse. And I realized that help was there. I just didn't ask for it" (p9).*
 
 A different participant said that it's frustrating that he **doesn't know  whether he's eligible for VA health care as a non-disabled Veteran**.
-
-### E. Participants shared feedback about the VA disability claims process in general
-One participant (and also one pilot participant) described negative experiences in the past with **VA not believing that medical conditions are linked to their service**. 
-
-> *"Initially, the first 2 exams I had back in 2011 and 2012. They were telling me no, you're fine, you don't fall under this. As the years went by...I knew I did. But I had to go back multiple times. I think that was the more frustrating part...They were saying no no no, and then I had to go back just for them to say okay, yeah we were wrong: You do fall under that...It was over a decade of symptoms and finally they said, oops, yeah, we found [a] correlation" (p2).*
-
-This same participant advised against telling the doctor that you're "fine" when a doctor asks how you're doing.
-> *"You walk in the doctor's office, 'How you doing?' 'Fine.' That doesn't mean you're fine. You just, you say those words. They're documenting it, and sometimes those same words are being used against you. So it's a shame that we...have to walk in there and list off all everything and not say 'fine'" (p2).*
-
-A different participant said that he was advised to **go to the American Legion, VFW, or a Veteran advocates group that would understand how to fill out the disability application forms**, rather than trying to do it on his own. He went to the American Legion to apply, and they helped request his medical records. To get his military records, he had to apply 3 times--online, calling, and then writing a letter--and wait *18 months*. By that time, the American Legion had already submitted his disability application, so they did a Supplemental Claim to add his military records.
 
 
 ## Research methodology learnings
