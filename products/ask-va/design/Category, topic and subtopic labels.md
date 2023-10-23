@@ -1,4 +1,4 @@
-# List of category, topic and subtopic names
+# List of category, topic and subtopic labels
 
 Last updated by @tygindraux: October 17, 2023
 
