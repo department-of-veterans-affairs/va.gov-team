@@ -20,7 +20,7 @@ This research fits into these points of a Veteran's Journey:
 
 ## Research Goals 	
 
-The goal of this study is to help us understand how Veterans navigate among tools on MHV on VA.gov and how the current secondary navigational strategies align with their expectations and mental models. The purpose is to access Veterans' reactions and expectations of MHV on the VA.gov experience and get a better sense of what the most effective secondary navigation could be for guiding users through key health tasks. 
+The goal of this study is to help us better understand how Veterans expect to be able to navigate MHV on VA.gov. This understanding will help us develop the most effective navigational strategy for the product.
 
 ### Outcome
 
@@ -28,13 +28,15 @@ This research will inform us of users' pain points when using the current and th
 
 ### Research questions
 
-1. How do participants navigate - within one tool vs. among multiple tools? 
-2. What are participants confused about with primary and secondary navigation, if they are? 
+* How does the current secondary navigational pattern used across VA.gov align with a users’ expectations? 
+* In what situations might a user want to navigate back to the MHV on VA.gov landing page? 
+* In what situations might a user want to jump directly from one tool to another? 
 
 ### Hypotheses 
-- Users want to be able to navigate every part of MHV on VA.gov easily regardless of where they are.
-- Mobile users struggle with current secondary navigation because "in this section" is not noticeable and it expands to a long list that is hard to scroll.
-- Mobile users don't know the differences between primary and secondary navigation.   
+* Users want to be able to jump from any part of MHV on VA.gov back to the MHV on the VA.gov landing page. They will do this by clicking on the VA logo in the top left of the website. 
+* Users expect to be able to directly navigate from a page 2+ levels down in the IA (Allergies) to a page 2+ levels down in the IA in a different section of the tool (Inbox). 
+* Mobile users will default to using the "menu" button in the primary navigation bar when trying to navigate from one part of MHV on VA.gov to another.
+* Mobile users will rarely use breadcrumbs to navigate. 
 
 ## Method
 
