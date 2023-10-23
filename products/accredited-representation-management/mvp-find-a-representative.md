@@ -27,8 +27,8 @@ The MVP will include desktop & mobile experiences
 2. Display search results
    1. List display
    3. Filter results by
-       4. Distance
-       5. Representative Name / Organization Name
+      1. Distance
+      2. Representative Name / Organization Name
     
 
 ## Post-MVP
