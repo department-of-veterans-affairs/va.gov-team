@@ -201,7 +201,7 @@ Another participant also wanted to see a map that showed the geographical areas 
 1. In the questions, try to mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone").
 1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
 
-### 3. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect* and not addressed by anything in the wizard.
+### 3. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect*
 
 Below is a list of reasons why **some participants said that they were NOT eligible** for benefits under the PACT Act:
 1. **Wasn't in one of the locations at the right time** (3 participants) for one of the reasons listed below.
@@ -215,7 +215,7 @@ Below is a list of reasons why **some participants said that they were NOT eligi
 
 A different participant who's 100% disabled said that they **planned to file for PACT Act benefits in order to add more service-related disabilities to their record**. They knew that they couldn't get any more disability money, but they wanted the potential for extra DIC (Dependency and Indemnity Compensation) death benefits to their next of kin if they died of a service-related disability.
 
-Another participant heard that they **could be eligible for PACT Act benefits by serving in a specific region--even if you don't have any medical conditions--because of presumed exposure.** One of the pilot participants also thought this might be the case because of the "presumption of exposure" content on the *You may be eligible* results page. This is actually incorrect becuase you must have a disability to get compensation. Just being in a specific location and getting exposed to toxic substances isn't enough.
+Another participant heard that you **could be eligible for PACT Act benefits by having served in a specific region--even if you don't have any medical conditions--because of presumed exposure.** One of the pilot participants also thought this might be the case because of the "presumption of exposure" content on the *You may be eligible* results page. This is actually incorrect because you must have a disability to get compensation. Just being in a specific location and getting exposed to toxic substances isn't enough.
 
 > *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
 
@@ -226,8 +226,8 @@ Another participant heard that they **could be eligible for PACT Act benefits by
 
      1. You must have a disability in order to get compensation, but not necessarily a presumptive condition. Just being in a specific location and getting exposed to toxic substances isn't enough. 
        
-     1. Burn pit registry is not connected to PACT Act eligibility, and so you should apply for PACT Act benefits.
-1. VA could consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits, to support the belief that they would hear back if they should apply.
+     1. Burn pit registry is not connected to PACT Act eligibility, and so you should still apply for PACT Act benefits.
+1. VA could consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits, to support one participant's belief that they would hear back if they should apply.
 
 ### 4. Participants shared feedback and questions about how and when to apply for PACT Act benefits  
 The following is feedback that we received from individual participants about applying for PACT Act benefits. 
@@ -238,21 +238,21 @@ One participant said that there **shouldn't be a deadline to apply**, which he h
 
 One participant was concerned about applying for PACT Act benefits because of a **presumptive condition that she was diagnosed for but that she doesn't remember seeing in her current problem list**. 
 
-> *"I have been told by one of my primary care doctors...diagnosed with fibromyalgia, but I don't see it in my problem list...So it might be somewhere in my medical records that he said I had it...If they didn't actually comb through the records and look for it...you can't just search by typing a word, I may get denied saying that there's no medical record that this is something you have" (p8).*
+> *"I have been told by one of my primary care doctors...diagnosed with fibromyalgia, but I don't see it in my problem list...So it might be somewhere in my medical records that he said I had it...If they didn't actually comb through the records and look for it...you can't just search by typing a word. I may get denied saying that there's no medical record that this is something you have" (p8).*
 
-A participant said that they would **encourage others to apply even if your condition isn't on the list** because it might be added in the future. The VA does look at trends of medical conditions reported by Veterans and periodically revises the rules and/or presumptive conditions.
+A participant said that they would **encourage others to apply even if your condition isn't on the list** because it might be added in the future. The VA does look at trends of medical conditions reported by Veterans and periodically revises the rules and/or presumptive conditions, as it did with the PACT Act.
 
 > *"We look at this right now and we compare it to our uncles who were in Vietnam who did not get the benefits until after they died. 20-30 years later, now the families did [get benefits]" (p1).*
 
 One participant **wondered if the PACT Act benefits are any different from regular VA disability compensation**. The answer is "no"; the PACT Act just expands eligibility for existing benefits.
 
-One participant was **concerned about filing a supplemental claim because they might lose their current disability rating and compensation** because the VA looks at everything again. One participant had this same concern.
+One participant was **concerned about filing a Supplemental Claim because they might lose their current disability rating and compensation** because the VA looks at everything again. One participant had this same concern.
 
-> *"Fears if you submit a supplemental claim, they look at everything and potentially lose benefits...have to...fight again for some of the things you have...That's always a fear for veterans. You file a supplemental claim, and all of a sudden they take away. And you feel like you're starting all over again. That's really what you're doing when you file a claim. I know there are better plenty of veterans that are afraid to file a supplemental claim" (p2).*
+> *"Fears if you submit a Supplemental Claim, they look at everything and potentially lose benefits...have to...fight again for some of the things you have...That's always a fear for veterans. You file a Supplemental Claim, and all of a sudden they take away. And you feel like you're starting all over again. That's really what you're doing when you file a claim. I know there are better plenty of Veterans that are afraid to file a Supplemental Claim" (p2).*
 
-A different participant who's had a 100% disability rating for almost 10 years said that a Regional Office advised her to **wait to apply until it's been 10 years so VA can't change their disability rating** because after 10 years, your rating is permanent and VA can't decrease the rating.
+A different participant who's had a 100% disability rating for almost 10 years said that a Regional Office advised her to **wait to apply until it's been 10 years so VA can't change their disability rating** because after 10 years, your rating is permanent and VA can't decrease it.
 
-Another participant is **waiting to apply until they hear about how to manage that with Combat-Related Special Compensation** (CRSC) because they don't want to file one claim and then have to submit another. He said that he realizes the impact of not applying right away, but that doesn't impact him a lot.
+Another participant is **waiting to apply until they hear about how to manage that with Combat-Related Special Compensation** (CRSC) because they don't want to file one claim and then have to submit another later. He said that he realizes the impact of not applying right away, but that doesn't affect him a lot.
 
 > *"I'm just waiting. I'm not in a hurry...I've just got everything ready. I'm just waiting for for them to get guidance from Congress" (p2).*
 
@@ -261,25 +261,25 @@ One participant **would have tried to convince his dad to apply** for benefits u
 > *"If Dad were still alive today, I would have tried to convince him to have gone through this...We all know that when those guys came back [from Vietnam], they were treated like dirt...and he didn't want anything to do with the military...The VA today and the way the PACT Act is worded, I think if he was alive today, he would have been convinced after a lot of talking to apply...Thank goodness that today we are recognizing what those guys went through" (p4).*
 
 #### RECOMMENDATIONS:
-1. Danielle plans to share participant feedback about the Sept 30 deadline to OPIA for their continued outreach work.
+1. Danielle plans to share participant feedback about the Sept 30 deadline misunderstanding to OPIA for their continued outreach work.
 1. Consider adding more information to the PACT Act page and/or the wizard to address participants' questions and concerns:
-     1. PACT Act expands eligibility for existing disability compensation benefits   
+     1. PACT Act expands eligibility for existing disability compensation benefits.   
      1. This is the current list of presumptive conditions and others might be added in the future. (Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?)
      1. The significance of having your disability rating for at least 10 years before applying for additional disability compensation (if that's accurate information and reasonable advice).
-     1. Any guidance on how to handle CRSC and PACT benefits together
+     1. Any guidance on how to handle CRSC and PACT benefits together.
  
 
 ### 5. Participants shared feedback about the VA disability claims process in general
 One participant (and also one pilot participant) described negative experiences in the past with **VA not believing that medical conditions are linked to their service**. 
 
-> *"Initially, the first 2 exams I had back in 2011 and 2012. They were telling me no, you're fine, you don't fall under this. As the years went by I realized...I knew I did. But I had to go back multiple times. I think that was the more frustrating part...They were saying no no no, and then I had to go back just for them to say okay yeah we were wrong: You do fall under that...It was over a decade of symptoms and finally they said, oops, yeah, we found [a] correlation" (p2).*
+> *"Initially, the first 2 exams I had back in 2011 and 2012. They were telling me no, you're fine, you don't fall under this. As the years went by...I knew I did. But I had to go back multiple times. I think that was the more frustrating part...They were saying no no no, and then I had to go back just for them to say okay, yeah we were wrong: You do fall under that...It was over a decade of symptoms and finally they said, oops, yeah, we found [a] correlation" (p2).*
 
 This same participant advised against telling the doctor that you're "fine" when a doctor asks how you're doing.
-> *"You walk in the doctor's office, how you doing? 'Fine.' That doesn't mean you're fine. You just, you say those words. They're documenting it, and sometimes those same words are being used against you. So it's a shame that we...have to walk in there and list off all everything and not say fine" (p2).*
+> *"You walk in the doctor's office, 'How you doing?' 'Fine.' That doesn't mean you're fine. You just, you say those words. They're documenting it, and sometimes those same words are being used against you. So it's a shame that we...have to walk in there and list off all everything and not say 'fine'" (p2).*
 
-A different participant said that he was advised to **go to the American Legion, VFW, or a Veteran advocates group that would understand how to fill out the disability application forms**, rather than trying to do it on your own. He went to the American Legion to apply, and they helped request his medical records. To get his military records, he had to apply 3 times--online, calling, and then writing a letter--and wait 18 months. By that time, the American Legion had already submitted his disability application, so they did a Supplemental Claim to add his military records.
+A different participant said that he was advised to **go to the American Legion, VFW, or a Veteran advocates group that would understand how to fill out the disability application forms**, rather than trying to do it on his own. He went to the American Legion to apply, and they helped request his medical records. To get his military records, he had to apply 3 times--online, calling, and then writing a letter--and wait *18 months*. By that time, the American Legion had already submitted his disability application, so they did a Supplemental Claim to add his military records.
 
-### Participants had feedback on the results pages *(need to organize...)*
+### 6. Participants had feedback on the results pages *(need to organize...)*
 
 Below is a table showing how many participants landed on each of the results pages based on their answers to the questions about their service. 
 
@@ -315,7 +315,7 @@ One of the pilot participants had **difficulty figuring out which of the two dis
 
 > *"This next one [File a Supplemental Claim] doesn't apply to me because I have not submitted a claim for [specific condition name] before...If I had been previously denied a claim, then now I can get...the VA to reconsider...*
 
-> *"**For the headers and...the links themselves, I feel like the supplemental claim is right because I have something [disability] and I would feel like I'm filing a supplement to what I already have**. And so that's a little confusing to me. Because...being called a supplemental claim, **but according to the paragraph, it is if I've been denied before, so I'm resubmitting my claim**. So if I'm not reading the paragraphs, I'm thinking that the first link is only for somebody who doesn't have disability yet.*
+> *"**For the headers and...the links themselves, I feel like the Supplemental Claim is right because I have something [disability] and I would feel like I'm filing a supplement to what I already have**. And so that's a little confusing to me. Because...being called a Supplemental Claim, **but according to the paragraph, it is if I've been denied before, so I'm resubmitting my claim**. So if I'm not reading the paragraphs, I'm thinking that the first link is only for somebody who doesn't have disability yet.*
 
 > *"When I read the paragraphs, the first link is what I would use if I have never claimed *this particular condition*, and the second link is only if I got it denied" (pilot 1).*
 
