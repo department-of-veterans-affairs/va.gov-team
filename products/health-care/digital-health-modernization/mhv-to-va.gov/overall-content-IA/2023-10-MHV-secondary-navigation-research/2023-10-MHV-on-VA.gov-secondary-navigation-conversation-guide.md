@@ -86,9 +86,7 @@ Just as a reminder, this is a prototype, which means that it will behave differe
 
 _Send link to prototype:_
 
-### Flat prototype (new design)
-
-**Task 1 - (Start from the signed-in MHV landing page) You are going on a long overseas trip soon. You need to download your medical records and your recent lab results that prove you have hepatitis A.**  It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+**Task 1 - (Start from the signed-in MHV landing page) You want to check your lab result from your recent visit and make a follow-up appointment per your provider's instruction.**  It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -97,12 +95,13 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the information around what was decided for the next steps in your care. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
 - (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on the second menu_)?
 - (_If participant still cannot find it, direct them to it and continue with the interview._)
-- (_Observe_) Does participant know to scroll on the menu?
-- (_Observe_) Where does participant click first, and why?
-- (_Observe_) Does participant click on medical records on the menu, or does participant click the sub-category when navigating from download to lab results? 
+
+**Must do:**
+- (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
+- (_Pay attention to_) Where does participant click first, and why?
 
 
-**Task 2 - (from where they last off) Then, you want to check your new doctor's full name for your recent appointment because you don't remember.** 
+**Task 2 - (from where they last off) Imagine that you have taken some medications for a while. You want to check which medications need to be renewed, and ask your healthcare team to renew them.** 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -110,10 +109,12 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 
 Ask: 
 - (_If participant looks for past appointments in the secondary nav._) Do you think you'd find past appointments in the menu, and why?
-- (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments? 
+- (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
 
-
-### Tool-only prototype (current)
+**Must do:**
+- (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page?
+- (_Pay attention to_) Did they use breadcrumbs?
+- 
 
 **Task 3 - (Start from MHV landing page) Imagine you need to regularly manage your health regularly due to a chronic condition. Today is the time to do that, and there are a couple of things you need to do. You need to check which medications need to be renewed soon, then you want to ask your doctor how to renew them.** 
 
