@@ -125,10 +125,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 -   Were there any specific barriers?
     
-- #### Optional Question - If they have experience with VA copay debt
+- #### Optional Question - If they have experience with VA copay or overpayment debt
 Today I will be taking you through a form to help with VA debt. First, I’d like to briefly hear about your experiences with VA debt.
 
-What has been your most recent experience with VA copay debt? [establish baseline]
+What has been your most recent experience with VA copay or overpayment debt? [establish baseline]
 #### Task Overview
 
 -  Imagine that you have a VA copay debt. Imagine you've been experiencing financial hardship and are having difficulty repaying the copay. Through some research, you find out that you can fill out the VA Financial Status Report Form to request help with this debt.
