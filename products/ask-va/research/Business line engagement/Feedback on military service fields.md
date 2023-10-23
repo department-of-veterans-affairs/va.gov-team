@@ -58,7 +58,7 @@ This list is alphabetized by category name. Each field is marked as:
 - `Who are you asking a question for?` = `A general question`
 - and/or `Category` or `topic` = `Education benefits and work study`
 
-But although `Social security number` is required, we will let submitters opt out if they or their Veteran do not have a `Social security number`. In that case, we will ask for their `Service number`. This will remain optional, in case they do not have either.
+However, if the Veteran does not have a `Social security number`, we will ask for their `Service number`. This will remain optional, in case they do not have either.
 
 #### `Service start date` and `Service end date`
 
