@@ -107,7 +107,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |-------|-----------|-----------|
 | Launch to 25% |  |  |
 | Launch to 50% |  |  |
-| Launch to 75% |  | |
 | Launch to 100% |  |  |
 
 ### 1-week results at 100%
