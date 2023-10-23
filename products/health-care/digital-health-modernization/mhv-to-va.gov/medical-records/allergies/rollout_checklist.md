@@ -21,16 +21,16 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
        - https://mhv-pr-api.myhealth.va.gov/mhvapi/v2/phrmgr/heartbeat/isalive
        - https://mhv-pr-api.myhealth.va.gov/fhir/metadata?_summary=true
 - [X] Product guide created and shared with support personnel
-- [ ] Support/issue reporting process and R&R has been defined
+- [X] Support/issue reporting process and R&R has been defined
 	- [X] Key team members have access to the feedback mailbox
  		- [X] Marci McGuire		
   		- [X] Bryan Riley
    		- [X] Lichelle Bain
        - [X] A monthly rotation will be established for monitoring the mailbox.  Where possible, rotation assignments should align with rotations on other mailboxes; in other words, if someone is monitoring the mailbox for SM in November, and is also part of the Medical Records rotation, they should be assigned on the month to minimize rotation frequency.
        		- [X] October/November: Marci
-         	- [ ] December:
+         	- [ ] December: 
          	- [ ] January:
-	- [ ] Roles and Responsibilities
+	- [X] Roles and Responsibilities
 		- We will follow the strategy documented in [MHV on VA.gov Veteran Feedback: Triaging feedback and strategizing response](products/health-care/digital-health-modernization/mhv-to-va.gov/metrics-performance-monitoring/Triaging-Veteran-feedback-guidance.md)
   - The mailbox rotation (TBD) will also be documented in the DSVA [#mhv-medical-records](https://dsva.slack.com/archives/C03Q2UQL1AS) Slack channel.
   - Phase 0 issues and feedback will be recorded in [a log on SharePoint](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/rollout/Phase%200/MR%20to%20VA.gov%20Feedback%20for%20Phase%200.xlsx?d=w2342617057e54407991f447e3315c1ae&csf=1&web=1&e=g7YRAE).
