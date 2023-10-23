@@ -9,6 +9,4 @@
 |[SCO dashboard workshop](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/SCO%20dashboard%20workshop)|Focus group|September 2023||
 |[Submit and review an inquiry](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Submit%20and%20review%20an%20inquiry)|Usability testing|January 2024||
 
-<br>
-
-Reach out on DSVA Slack `#ask-va-public` or contact Tyler Gindraux (tyler@bluetiger.digital) about this research.
+Reach out on [#ask-va-public](https://dsva.slack.com/archives/C05A2F6DEAE) or contact Tyler Gindraux (tyler@bluetiger.digital) about this research.
