@@ -41,17 +41,17 @@ This list is alphabetized by category name. Each field is marked as:
 
 ## Final recommendations on military service fields
 
-#### `First name` and `Last name` 
+### First and last name
 
 **These fields will not change.** They will be required.
 
-#### `Date of birth`
+### Date of birth
 
 **This field will not change.** It will be required, **unless**:
 - `Who are you asking a question for?` = `A general question`
 - and/or `Category` or `topic` = `Education benefits and work study`
 
-#### `Social security number` and `Service number`
+### Social security number and service number
 
 **These fields will change to accommodate Veterans without a social security number.** Social security number will be required, **unless**:
 
@@ -60,19 +60,19 @@ This list is alphabetized by category name. Each field is marked as:
 
 However, if the Veteran does not have a `Social security number`, we will ask for their `Service number`. This will remain optional, in case they do not have either.
 
-#### `Service start date` and `Service end date`
+### Service start and end dates
 
 **These fields will be removed.** These fields were [indicated as unnecessary by business lines]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information)).
 
-#### `Claim number`
+### Claim number
 
 **This field will be removed.** This field was [indicated as unnecessary by business lines]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information)).
 
-#### `DoD/EDIPI number`
+### DoD/EDIPI number
 
 Although business lines had differing needs for `DoD/EDIPI`, we think this field should be **removed** because agents can look this up in MPI using a Veteran's first and last name, DOB and SSN, which will be required.
 
-#### `Branch of service`
+### Branch of service
 
 **This field will change.** Previously, when military fields were present, `Branch of service` was always optional.
 
