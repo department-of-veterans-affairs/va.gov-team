@@ -33,6 +33,8 @@ Last updated by @tygindraux: October 23, 2023
 |[all categories]|Display text input for `Social Security Number` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|
 
 * **Unless** `Who are you asking a question for?` = `A general question`
+* **Update 10/23:** We've learned that some Veterans do not have a social security number, and instead use a service number. We need to consider what this means for both fields.
+* **Update 10/23:** Currently, SSN and DOB are not required for Category = `Education benefits and work study`. We need to confirm whether SSN can be required for all education inquiries, or just some (for example, personal inquiries).
 
 ## `Date of birth`
 |If|Then|
@@ -40,6 +42,7 @@ Last updated by @tygindraux: October 23, 2023
 |[all categories]|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|
 
 * **Unless** `Who are you asking a question for?` = `A general question`
+* **Update 10/23:** Currently, SSN and DOB are not required for Category = `Education benefits and work study`. We need to confirm whether DOB can be required for all education inquiries, or just some (for example, personal inquiries).
 
 ## `Branch of service`
 |If|Then|
@@ -47,6 +50,7 @@ Last updated by @tygindraux: October 23, 2023
 |Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Display select menu for `Branch of Service` (**Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|
 
 * **Unless** `Who are you asking a question for?` = `A general question`
+* **Update 10/23:** We would like to do research to confirm that submitters will always know their or their Veteran's branch of service.
 
 ## `DoD/EDIPI number`
 * **Update 10/23:** This field will be removed from the form because it can be looked up in MPI using name, DOB and SSN.
