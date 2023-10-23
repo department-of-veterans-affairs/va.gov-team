@@ -2,7 +2,7 @@
 
 October 23, 2023
 ## Background
-Over the last 3 months, we’ve worked on improvements related to our notification settings feature, and how users update profile information while in the middle of another task. They’re closely related, and will be part of the same release so we conducted UAT on all 3 features at once.[The specific features we tested are outlined in our research plan.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-UAT-edit-as-subtask-default-send-checkbox-ui/research-plan.md#features-to-be-tested)
+Over the last 3 months, we’ve worked on improvements related to our notification settings feature, and how users update profile information while in the middle of another task. They’re closely related, and will be part of the same release so we conducted UAT on all 3 features at once. [The specific features we tested are outlined in our research plan.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-UAT-edit-as-subtask-default-send-checkbox-ui/research-plan.md#features-to-be-tested)
 
 In case a session went smoothly and we had extra time, we prepared some additional questions to ask participants about two other profile initiatives we haven’t had a chance to talk to Veterans about yet:
 1. The `Dependents` and `Letters` links that were recently added to the authenticated menu ([project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu#product-outline-authenticated-menu)).
