@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), PACT Act Wizard, Sitewide Public Websites**
 
-Date: 10/20/2023
+Date: 10/23/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
@@ -50,7 +50,7 @@ Learnings will help refine questions and the presentation of results in the wiza
     - There was some confusion with the service years question, as well as some of the wording in other questions (e.g., *C-123 plane*, *neutral zone*). The details are documented later in this report.
 1. What feedback do Veterans (and others) have on the **entire set of questions**?
 
-     - Participants were presented with anywhere from 2-10 questions (average of 6), which varied based on their responses and the branching logic. There were no comments about there being too many questions. One pilot participant (who saw only 2 questions) said that he expected more questions--to be asked about the specifics of his job, whether he was in or around burn pits, and about his medical conditions.
+     - Participants were presented with anywhere from 2-10 questions (average of 6), which varied based on their responses and the branching logic. There were no comments about there being too many questions. One pilot participant (who saw only 2 questions) said that he expected more questions--to be asked about the specifics of his job, whether he was in or around burn pits, and his medical conditions.
 
 1. Do Veterans (and others) **know enough about their military service to answer the questions**? If not, what do they need to answer them?
     
@@ -63,34 +63,32 @@ Learnings will help refine questions and the presentation of results in the wiza
 
 1. If the tool says that they're eligible, what do they say they would **do next**?
 
-    - Apply for VA disability, apply for VA health care, or do nothing (if they believe they're not eligible)
+    - Apply for VA disability, apply for VA health care, or do nothing (if they believe they're not eligible for benefits)
 
 
 ## Methodology 
-We conducted **remote usability testing** over Zoom on October 2-6, 2023 to get feedback from research participants using a prototype that presents the questions and results screens in the PACT Act Wizard. The prototype was not a high-fidelity design prototype but instead an **online survey (in Survey Monkey) that presented questions** and branches appropriately to subsequent questions and relevant results screens. In this way, we **tested the *content* of the PACT Act Wizard**—the text and flow of the questions and the logical branching—but *not* the UI design. 
+We conducted **remote usability testing** over Zoom on October 2-6, 2023 to get feedback from research participants using a prototype that presented the questions and results pages in the PACT Act Wizard. The prototype was not a high-fidelity design prototype but instead an **online survey (in Survey Monkey) that presented questions** and branched appropriately to subsequent questions and relevant results pages. In this way, we **tested the *content* of the PACT Act Wizard**—the text and flow of the questions and the logical branching—but *not* the UI design. 
 
-Perigean recruited the participants.
-
-**We talked to 9 Veterans**, one of whom was also a Veteran's family member (spouse).
--  *Most (8 of 9) had NOT applied for VA benefits under the PACT Act*. The one who did had applied just the week before through the American Legion.
-- 4 served in *1989 or earlier*, 2 served in *1990 or later*, and 3 served *during both* periods of time.
-- *Most (8 of 9) used a computer* during the session; only 1 used a smartphone.
+Perigean recruited the participants. **We talked to 9 Veterans**, one of whom was also a Veteran's family member (spouse).
+-  **Most (8 of 9) had NOT applied for VA benefits under the PACT Act**. The one who did had applied just the week before through the American Legion.
+- 4 served *1989 or earlier*, 2 served *1990 or later*, and 3 served *during both* periods of time.
+- **Most (8 of 9) used a computer** during the session; only 1 used a smartphone.
 
 
 For more details, see [Who we talked to](#who-we-talked-to).
 
-In the wizard, participants were first **asked when they served, and their answer determined which questions were presented** next. Then based on their answers to the questions, a results screen was shown. Below is a high-level summary of the interaction flow (more details can be found in the Wizard branching logic flow in the [Appendix](#appendix)).
+In the wizard, participants were first **asked when they served, and their answer determined which questions were presented**. Then based on their answers to the questions, a results page was shown. Below is a high-level summary of the interaction flow (more details can be found in the Wizard branching logic flow in the [Appendix](#appendix)).
 - Ask service years question
   - If served *1990 or later*, ask Burn pit questions
   - If served *1989 or earlier*, ask Agent Orange, Radiation, and Camp Lejeune questions
   - If served *during both time periods*, ask ALL of the above questions
-- Based on responses to the above questions, show one of the following results screens:
+- If answer "yes" to a Burn pit question, skip the rest of the Burn pit questions. Similarily, if answer "yes" to an Agent Orange question, skip the other Agent Orange questions. 
+- Based on responses to the above questions, show one of the following results pages:
   - *VA benefit eligibility* (can't tell if you're eligible)
   - *Camp Lejeune* (may be eligible but not under PACT Act)
   - *You may be eligible* (may be eligible under PACT Act)
 
-Any participants who didn't see the *You may be eligible* results screen were then shown it, even though it didn't apply to their situation (which was explained by the moderator).
-
+Any participants whose responses didn't yield the *You may be eligible* results page were shown it afterwards, even though it didn't apply to their situation (which was explained by the moderator).
 
 
 ## Hypotheses and Conclusions
@@ -103,7 +101,7 @@ Any participants who didn't see the *You may be eligible* results screen were th
     - TRUE: There were no complaints about the number or content of the questions. 
 
 1. The results are simple enough for Veterans (and others) to understand and are not misleading. 
-    - MOSTLY TRUE: Participants understood the general idea of whichever results screen(s) they saw. Their ratings of confidence level about their next steps averaged 5.7 on a scale from 1-7 where 1 is *Not at all confident* and 7 is *Extremely confident*. The lower ratings came from participants who already believed that they weren't eligible for benefits under the PACT Act or who were shown the "You may be eligible for VA benefits" screen that didn't apply to them.
+    - MOSTLY TRUE: Participants understood the general idea of whichever results page(s) they saw. Their ratings of confidence level about their next steps averaged 5.7 on a scale from 1-7 where 1 is *Not at all confident* and 7 is *Extremely confident*. The lower ratings came from participants who already believed that they weren't eligible for benefits under the PACT Act or who were shown the "You may be eligible for VA benefits" page that didn't apply to them.
 
 1. Veterans (and others) will understand what "presumptive conditions" mean after reading the plain language description in the results flow. 
 
@@ -279,9 +277,9 @@ A different participant said that he was advised to **go to the American Legion,
 
 ### Participants had feedback on the results pages *(need to organize...)*
 
-Below is a table showing how many participants landed on each of the results screens based on their answers to the questions about their service. 
+Below is a table showing how many participants landed on each of the results pages based on their answers to the questions about their service. 
 
-Results screen | # of Participants
+Results page | # of Participants
 ------------------|---------------
 *You may be eligible* (under PACT Act) | 6 
 *VA benefit eligibility* (can't tell if you're eligible)| 2
@@ -358,7 +356,7 @@ One participant said that with the way that VA web pages display on her computer
 
 > *"I'm assuming because it's designed to be mobile friendly, but I'm not sure why it's only taking roughly a third of the page for display. So you end up scrolling down a whole lot more...There's a lot of white space" (p6).*
 
-The VA content looks the way it does because it's formatted with a maximum width that gets centered in wider windows because longer lines of text are considered harder to read. In addition, there's usually a left sidebar that would fill up some of the blank space on the left, but this wasn't present in the prototype results screen.
+The VA content looks the way it does because it's formatted with a maximum width that gets centered in wider windows because longer lines of text are considered harder to read. In addition, there's usually a left sidebar that would fill up some of the blank space on the left, but this wasn't present in the prototype results page.
 
 ### Wayfinding: Most participants were able to find VA information on the PACT Act
 7 of 9 participants used a search engine in their web browser. 6 of 7 selected a VA.gov link to open, whereas one clicked a non-VA commercial link. 
