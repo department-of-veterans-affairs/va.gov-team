@@ -93,6 +93,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
   
 ## To move from Phase 0 to Phase 1: "Try Me"
 - [ ] Verify Phase 0 targets reached
+- [ ] Verify that the historical vs. observed field provides value to Veterans via targeted research.
 - [ ] Verify Needed feature improvements have been made
 	- What is "needed" is agreed upon jointly by OCC Product Owner and OCC owners, with support from OCC leadership
 - [ ] Verify - Any major feature improvements have been tested and completed the collaboration cycle
