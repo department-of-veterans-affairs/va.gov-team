@@ -24,7 +24,7 @@ None found
 ## Generative research
 ### Review the authenticated menu
 We asked participants to share where they expected each item in the menu to take them   
-- All items were clear to all but one participant; one participant was unclear about the difference between My VA and My HealtheVet.
+- All items were clear to all but one participant; one participant wasn't sure about the difference between My VA and My HealtheVet.
 - 6 of 6 participant’s expectations for letters links in the authenticated menu aligned with what they found when they landed on the page.  
   - Interestingly, the pilot participant (whose data is not included in this report outside of this note) stated the page did not contain the letters they expected. They expected to find their Certificate of Eligibility, and “basically every letter the VA mailed to me”.
 - 3 of 4 participant’s expectations for the dependents page aligned with what they found on the page.
