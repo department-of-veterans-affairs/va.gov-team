@@ -1,4 +1,4 @@
-# List of military service fields
+# Feedback on military service fields
 
 Last updated by @tygindraux: October 17, 2023
 
