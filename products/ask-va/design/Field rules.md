@@ -59,4 +59,4 @@ This document is for our design team to communicate field rules to our engineeri
 * **Update 10/23:** This field will be removed from the form because it can be looked up in MPI using name, DOB and SSN.
 
 ## When contact options are enabled/disabled
-* Review [List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md)
+* Review [List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)
