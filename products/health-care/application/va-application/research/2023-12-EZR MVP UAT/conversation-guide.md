@@ -67,6 +67,7 @@ Let’s start with a few warm-up questions.
 
 ## First Task: [Wayfinding] - 5 minutes
 
+- Have you previously received any notification or prompt to update your health care information? If yes, can you describe how the process went?
 - Imagine you've been notified to update your financial information in order to maintain your co-pay and health care benefits. How might you go about doing that?
 - Describe your preferred method of notification to update your health care information.
 - How would you expect to update your information online? What steps would you take?
@@ -84,7 +85,10 @@ Let’s start with a few warm-up questions.
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
 
 **Participant questions** 
+- How would you want to normally navigate to this page?
+- Did you have any questions about the information listed?
 - On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the form you are about to begin? - Why did you give it that rating?
+- Do you have any suggestions or feedback for making the page and update process better?
 
 ### Things to watch for:
 
@@ -98,6 +102,11 @@ Let’s start with a few warm-up questions.
 - [Share link to https://VA.gov ---- in Zoom chat]
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
 
+**Participant questions** 
+- Are you able to identify the key points to know before starting the form?
+- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the form you are about to begin? - Why did you give it that rating?
+- Do you have any suggestions or feedback for making the page and update process better?
+
 ### Things to watch for:
 
 - [Quotes from participants about any content on the intro page that makes them feel uneasy, confused or not prepared to complete the application.]
@@ -108,6 +117,9 @@ Let’s start with a few warm-up questions.
 
 - For this next task, we are going to have you go through the form as if you were prompted to update your information. While this form is a prototype, it is connected to the VA system so please do not submit the form if we get to the end.
 - As you go through the form, could you please talk aloud about what you would need to do as you go.
+
+**Participant questions** 
+- What are your expectations regarding the prefilling feature?
 
 ### Things to watch for:
 
