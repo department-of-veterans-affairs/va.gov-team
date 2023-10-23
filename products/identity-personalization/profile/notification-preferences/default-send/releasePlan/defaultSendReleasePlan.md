@@ -1,6 +1,6 @@
 # Default Send 
 
-**Updated:** 8/11/2023
+**Updated:** 10/23/2023
 
 ## Table of Contents
 
@@ -79,9 +79,9 @@ The toggles used for this:
 ### Results 
 |UAT|Result|
 |---|---|
-|Number of Users||
-|Number of Bugs Identified/Fixed||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
+|Number of Users| 6 + pilot participant |
+|Number of Bugs Identified/Fixed| 0 bugs found |
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?| No changes |
 
 
 ## Phase II - Staged Rollout 
