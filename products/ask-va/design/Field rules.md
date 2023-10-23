@@ -53,10 +53,10 @@ This document is for our design team to communicate field rules to our engineeri
 
 * **Unless** `Who are you asking a question for?` = `A general question`
 * Agents are not able to look this up using the current MPI search tool in CRM, but this data **is** apparently in MPI.
-* **Update 10/23:** We will do additional research with submitters to confirm they always know their or their Veteran's `Branch of Service`
+* We will do additional research with submitters to confirm they always know their or their Veteran's `Branch of Service`.
 
 ## `DoD/EDIPI number`
-* **Update 10/23:** This field will be removed from the form because it can be looked up in MPI using name, DOB and SSN.
+* This field will be removed from the form because agents can look this up in MPI using first and last name, DOB and SSN – all of which will be required.
 
 ## When contact options are enabled/disabled
 * Review [List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)
