@@ -375,9 +375,9 @@ A different participant said that it's frustrating that he **doesn't know  wheth
 
 ## Research methodology learnings
 1. Having Survey Monkey handle the complex branching in the prototype to questions and results pages was super helpful and enabled the moderator to focus on observing and conversing with the participant (*vs.* figuring out on-the-fly which question or results page to show next).
-1. We should have built a second version of the *You may be eligible* results page in order to show presumptive conditions for Vietnam/Agent Orange because that would have been easier for all Vietnam-era participants to understand.
-1. The single date in the R1-1 results page *(on or after August 2, 1990)* wasn't mentioned by most participants. Perhaps it would have been easier to have had a conversation around dates if the sample results page had a date range instead of a single date as some of the content does *(e.g., between January 9, 1962, and May 7, 1975).*
-1. Asking participants to rate their confidence at knowing what to do next was problematic when the page they were looking at may not have been relevant to their specific situation.
+1. We should have built a second version of the *You may be eligible* results page in order to show presumptive conditions for Vietnam/Agent Orange because that would have been easier for the Vietnam-era participants to understand.
+1. The single date in the R1-1 results page *(on or after August 2, 1990)* wasn't mentioned by most participants. Perhaps it would have been more natural to have had a conversation around dates if the sample results page had a date range instead of a single date as some of the content does *(e.g., between January 9, 1962, and May 7, 1975).*
+1. Asking participants to rate their confidence at knowing what to do next was problematic when the results page they were looking at was not relevant to their specific situation.
 
 ## Recommendations
 Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
