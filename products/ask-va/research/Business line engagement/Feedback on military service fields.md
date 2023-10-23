@@ -13,7 +13,7 @@ This is when business lines ([review list of stakeholders](https://github.com/de
 This list is alphabetized by category name. Each field is marked as:
 
 - ✅ = Business lines **need** this information to answer an inquiry. It is a required field.
-- ✖️ = Business lines **don't need** this information to answer an inquiry.  (It is hidden from the form, but the field still exists in the back-end.)
+- ✖️ = Business lines **don't need** this information to answer an inquiry.  (It is hidden from the form, although the field exists in the back-end.)
 - 🟡 = When given a choice between **need** and **don't need**, some business lines entered "Optional." This indicates they don't need the information, but it might be nice to have. Because we want don't want to collect unnecessary data from submitters, we considered "Optional" answers as [DON'T NEED].
 
 |Category|First/last name|Branch of service|Service number|SSN|DoD/EDIPI|Service start date|Service end date|DOB|Claim number|
