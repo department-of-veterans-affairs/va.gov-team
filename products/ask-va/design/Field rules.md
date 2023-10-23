@@ -50,6 +50,7 @@ Last updated by @tygindraux: October 23, 2023
 |Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Display select menu for `Branch of Service` (**Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|
 
 * **Unless** `Who are you asking a question for?` = `A general question`
+* Agents are not able to look this up using the current MPI search tool in CRM, but this data **is** apparently in MPI.
 * **Update 10/23:** We would like to do research to confirm that submitters will always know their or their Veteran's branch of service.
 
 ## `DoD/EDIPI number`
