@@ -101,7 +101,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_Pay attention to_) Where does participant click first, and why?
 
 
-**Task 2 - (from where they last off) Imagine that you have taken some medications for a while. You want to check which medications need to be renewed, and ask your healthcare team to renew them.** 
+**Task 2 - (from where they left off) Imagine that you have taken some medications for a while. You want to check which medications need to be renewed, and ask your healthcare team to renew them.** 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -116,7 +116,7 @@ Ask:
 - (_Pay attention to_) Did they use breadcrumbs?
 - 
 
-**Task 3 - (Start from MHV landing page) Imagine you need to regularly manage your health regularly due to a chronic condition. Today is the time to do that, and there are a couple of things you need to do. You need to check which medications need to be renewed soon, then you want to ask your doctor how to renew them.** 
+**Task 3 - (from where they left off) You're assigned to a new doctor recently, but you don't remember their name. You want to check your provider's name from the recent appointment.** 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -128,6 +128,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - What do you think the differences are between the main and secondary menus (pointing them out)?
 - (_if participant click on something on main menu_) Where are you now, and can you get back to where you were? 
 
+**Task 4 - (from where they left off) Imagine you're going on an overseas trip, and you need to download all your medical records. Where would you go to do that?** 
 
 
 **I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
