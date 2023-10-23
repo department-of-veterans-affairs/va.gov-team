@@ -129,8 +129,8 @@ In this section feel free to segment populations based on the trends we see with
 
 > 
 ## a11y Recommendations
-- Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment"). **Experience standards:** `Category 11` `Issue 11` ("Pages don't require sensory characteristics to be understood or operable.")
-- Users should be made aware right away that their messages will be auto-saved, and where those messages are saved to. And you may want to remove the "save draft" button entirely to reduce confusion? **Experience standards:** `Category 03` `Issue 02` ("A user flow provides content or navigation to help users understand where to go or what to do next.)
+- Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment"). 
+- Users should be made aware right away that their messages will be auto-saved, and where those messages are saved to. And you may want to remove the "save draft" button entirely to reduce confusion? 
 - It can take a long time for screen reader users to have page content read to them, so redundant/repeated text can be cumbersome to get through. When it comes to the liability and crisis line messages:
   - You might want to consider removing one instance of them. **Experience standards:** `Category 03` `Issue 04` ("A user flow doesn't have repetitive or redundant steps.")
   - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first. **Experience standards:** `Category 09` `Issue 03` ("Button and link language is descriptive and/or their purpose is clear.")
@@ -141,15 +141,50 @@ In this section feel free to segment populations based on the trends we see with
 Point out the gaps
 
 ## Next Steps
-A list of actionable findings, based on time-sensitive, priority needs. Images, videos, links, screenshots and notes provided as deemed approprite. 
+A list of actionable findings, based on time-sensitive, priority needs.
 
-### Complete Now
+### Complete Now (Recommendation)
+_While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help faciliate a smooth process through the Collaboration Cycle._
+
+- Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment").
+    - **Experience standards:** [Category Number 11, Issue Number 11](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html): Pages don't require sensory characteristics to be understood or operable.
+    - **Severity**: `Launch Blocking`
+    - **Defect**: a11y-defect-1
+    - **Impacts**: A11y and Content
+    - **Appears on**: Experience Standards, A11y, Common Accessibility Issues and WCAG
+    - **WCAG**: [WCAG SC 1.3.3_A](https://www.w3.org/WAI/WCAG21/quickref/#sensory-characteristics)
+
+- Users should be made aware right away that their messages will be auto-saved, and where those messages are saved to. And you may want to remove the "save draft" button entirely to reduce confusion? 
+    - **Experience standards:** [Category Number 03, Issue Number 02](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html): A user flow provides content or navigation to help users understand where to go or what to do next.
+    - **Defect** `Launch Blocking`
+    - **Impact**:Content and IA
+    - **Appears on**: Experience Standards
+    - **WCAG**: NA
+
+- It can take a long time for screen reader users to have page content read to them, so redundant/repeated text can be cumbersome to get through. When it comes to the liability and crisis line messages:
+  - You might want to consider removing one instance of them.
+      - **Experience standards:** `Category 03` `Issue 04`: A user flow doesn't have repetitive or redundant steps.
+      - **Defect**:
+      - **Impact**:
+      - **Appears on**:
+      - **WCAG**:
+
+ 
+  - 
 -  Radio buttons in a “Category” radio group after starting a “New Message” are not announcing "X of Y", where X is the current position in the group and Y is the total number of radio buttons. Currently announcing 2 of 2, 1 of 1 and so on. 
 ### Complete Soon
 - Success Alert was not called out 
 
 "Success Alert" was not called out to screen reader user after successfully sending a message to provider.
 ### Complete Later
+ - It can take a long time for screen reader users to have page content read to them, so redundant/repeated text can be cumbersome to get through. When it comes to the liability and crisis line messages:
+  - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first.
+      - **Experience standards:** `Category 08` `Issue 03`: Button and link language is descriptive and/or their purpose is clear.
+      - **Defect**: `Depends`
+      - **Impact**: A11y, Content and IA
+      - **Appears on**: Experience Standards
+      - **WCAG**: [WCAG SC 2.4.4_A](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
+
 - Adding <aria-label>(s) for Message ID(s)
 
 ## Other considerations and findings 
