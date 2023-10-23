@@ -44,7 +44,7 @@ If the remaining work on a story is minimal and the story can be demoed the next
 - <b>Early notification (when possible):</b> We agree to provide advance notice to the team regarding our out-of-office plans, including dates and the expected duration of our absence. However, we understand that in necessary or personal situations, we may not have enough time to give advance notice to the rest of the team.
 - <b>Story updates:</b> Before our absence, we agree to update status of our respective stories, and add detailed comments
 - <b>Story handover:</b> For stories in progress, we agree to designate a backup and ensure that he/she understands the story details, tasks and current progress in order to complete the story. 
-- <b>CIE Calendar updates:</b> We agree to add the event to the CIE Calendar (⚠ 🟠 don't set 'out of office' as it will auto-decline other events): 
+- <b>CIE Calendar updates:</b> We agree to add the <b>'event'</b> to the CIE Calendar (⚠ 🟠 don't set 'out of office' as it will auto-decline other events): 
   - Subject: Joe - ooo - 5/15-5/25 (or for example 9am-12pm) 
   - Set dates
   - Set All day event
