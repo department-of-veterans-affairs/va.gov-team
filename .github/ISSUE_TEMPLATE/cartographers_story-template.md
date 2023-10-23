@@ -1,0 +1,19 @@
+---
+name: (Cartographers) User story template
+about: Use this template for user stories for the Cartographers team (MHV-on-VAgov).
+title: ''
+labels: my-health, my-health-INTEGRATION, my-health-OCTO-HEALTH-TEAM
+assignees: ''
+
+---
+
+## Description
+
+### User story
+> _Describe the audience/user and value / outcome desired._
+
+
+
+## Acceptance criteria
+
+- 
