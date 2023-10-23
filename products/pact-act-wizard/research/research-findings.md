@@ -79,10 +79,10 @@ For more details, see [Who we talked to](#who-we-talked-to).
 
 In the wizard, participants were first **asked when they served, and their answer determined which questions were presented**. Then based on their answers to the questions, a results page was shown. Below is a high-level summary of the interaction flow (more details can be found in the Wizard branching logic flow in the [Appendix](#appendix)).
 - Ask service years question
-  - If served *1990 or later*, ask Burn pit questions
+  - If served *1990 or later*, ask burn pit questions
   - If served *1989 or earlier*, ask Agent Orange, Radiation, and Camp Lejeune questions
   - If served *during both time periods*, ask ALL of the above questions
-- If answered "yes" to a Burn pit question, skip the rest of the Burn pit questions. Similarily, if answered "yes" to an Agent Orange question, skip the other Agent Orange questions. 
+- If answered "yes" to a burn pit question, skip the rest of the burn pit questions. Similarily, if answered "yes" to an Agent Orange question, skip the other Agent Orange questions. 
 - Based on responses to the above questions, show one of the following results pages:
   - *VA benefit eligibility* (can't tell if you're eligible)
   - *Camp Lejeune* (may be eligible but not under PACT Act)
@@ -246,7 +246,7 @@ A participant said that they would **encourage others to apply even if your cond
 
 One participant **wondered if the PACT Act benefits are any different from regular VA disability compensation**. The answer is "no"; the PACT Act just expands eligibility for existing benefits.
 
-One participant was **concerned about filing a Supplemental Claim because they might lose their current disability rating and compensation** because the VA looks at everything again. One participant had this same concern.
+One participant was **concerned about filing a Supplemental Claim because they might lose their current disability rating and compensation** because the VA looks at everything again. One pilot participant also had this same concern.
 
 > *"Fears if you submit a Supplemental Claim, they look at everything and potentially lose benefits...have to...fight again for some of the things you have...That's always a fear for veterans. You file a Supplemental Claim, and all of a sudden they take away. And you feel like you're starting all over again. That's really what you're doing when you file a claim. I know there are better plenty of Veterans that are afraid to file a Supplemental Claim" (p2).*
 
@@ -279,7 +279,9 @@ This same participant advised against telling the doctor that you're "fine" when
 
 A different participant said that he was advised to **go to the American Legion, VFW, or a Veteran advocates group that would understand how to fill out the disability application forms**, rather than trying to do it on his own. He went to the American Legion to apply, and they helped request his medical records. To get his military records, he had to apply 3 times--online, calling, and then writing a letter--and wait *18 months*. By that time, the American Legion had already submitted his disability application, so they did a Supplemental Claim to add his military records.
 
-### 6. Participants had feedback on the results pages *(need to organize...)*
+### 6. Participants had feedback on the R1 results pages *(need to organize...plus maybe MOVE UP)*
+
+#### Who saw which results pages
 
 Below is a table showing how many participants landed on each of the results pages based on their answers to the questions about their service. 
 
@@ -293,21 +295,21 @@ Based on their responses to the questions, 6 of 9 participants were taken to the
 
 #### User feedback on the R1-1 "You may be eligible" results page
 
-**All 9 participants understood *presumptive conditions***, but most said that they **knew before this research session**. One commented that the explanation on the page was easy to understand, but a more useful assessment would be by people who weren't already familiar with presumptive conditions before seeing the explanation.
+**All 9 participants understood *presumptive conditions***, but most said that they **knew this before the research session**. One commented that the explanation on the page was easy to understand, but a more useful assessment would be to show the description to people who weren't already familiar with presumptive conditions.
 
-> *"I honestly I think the VA or whoever's doing this for the VA has made it more clear...it's making it easier" (p2).*
+> *"I honestly think the VA or whoever's doing this for the VA has made it more clear...it's making it easier" (p2).*
 
 One participant **expected to be asked when and where he served**, but that's not what the page does. **Most people didn't comment on the "August 2, 1990" date**. One participant said that their entire service was after 1990, so that date definitely applies. Another said they understood the August 2 date as *"when Desert Storm or Desert Shield kicked off. That's when we deployed to Kuwait" (p4).*
 
 One participant **wanted to see what the specific presumptive conditions are**, which aren't on the page. More specifically, they wanted to know what conditions are covered for which location(s) in what timeframe.
 
 #### RECOMMENDATIONS:
-1. In or near the description of presumptive conditions on the R1-1 page, consider adding a note or link about where to find a list of specific conditions (on the R1-2 page) so that users will know where to find them. Nothing on the R1-1 page implies that you will be able to find them after you click the "Learn what to do next" link.
+1. In or near the description of presumptive conditions on the R1-1 page, consider adding a note or link about where to find a list of specific conditions (on the R1-2 page) so that users will know where to find them. Nothing on the current R1-1 page indicates that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
 
 #### User feedback on the R1-2 "Apply for VA benefits now" results page
-**Three participants read the 3 jump links at the top of the page as CTA's** (calls to action) and puzzled over which one to select because there wasn't much explanatory text around them. The links said *File a  claim for disability compensation* and *Apply for health care*. One of the 3 people scrolled down the page and noticed that they matched the headers on the page, and so guessed that they were jump links to the headers. The other 2 people figured it out when they clicked on one of them and remained on the same page.
+**Three participants read the 3 jump links at the top of the page as CTA's** (calls to action) and puzzled over which one to select because there wasn't any explanatory text around them. The links said *File a  claim for disability compensation* and *Apply for VA health care*. One of the 3 people scrolled down the page and noticed that they matched the headers on the page, and so guessed that they were jump links to the headers. The other 2 people figured it out when they clicked on one of them and remained on the same page.
 
-One participant got **stuck after clicking on the "Learn more about health care eligibility (opens in a new tab)" link**. He couldn't figure out how to get back to the results page because he didn't realize the content was in a new browser tab and the "Back" button didn't do anything. He wasn't very tech savvy. After looking through the page, this participant said that he could want to confirm with someone at the VA that he should apply for benefits.
+One participant got **stuck after clicking on the "Learn more about health care eligibility (opens in a new tab)" link**. He couldn't figure out how to get back to the results page because he didn't realize the content was in a new browser tab and so the "Back" button didn't do anything. He wasn't very tech savvy. After looking through the page, this participant said that he could want to confirm with someone at the VA that he should apply for benefits.
 
 One of the pilot participants had **difficulty figuring out which of the two disability links *(File a disability compensation claim vs. File a Supplemental Claim)* to use**. He already gets VA disability compensation and doesn't want to mess up his current rating. He thinks he would file a Supplemental Claim since he already has disability, but the descriptive paragraph says to only do that if you've been denied before *for this condition*. The long quote below is from this pilot participant as he takes a while figuring out which link to use.
 
@@ -326,14 +328,15 @@ I've heard horror stories, people trying to get claims and the time investment t
 
 
 #### RECOMMENDATIONS:
-1. Share with Laura Flannery the user difficulty in going back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard of this feedback from anyone else, but it's a new approach that hasn't been tested before.]*
-1. Consider adding another link/header for those who already have VA disability because "if you haven't filed a claim" and "if we denied your claim" don't make sense.
+1. Share with the Design System team (or someone else?) the feedback of 3 participants reading the jump links at the top of the results page as CTA's.
+1. Share with Laura Flannery the user difficulty in going back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard of this feedback before, but it's a new approach that hasn't been tested before.]*
+1. Consider adding more content/link/header for those who already have VA disability because "if you haven't filed a claim" and "if we denied your claim" don't seem to apply.
 
 
 ## Additional Insights
 
 ### Classified information kept one participant from answering location questions
-One participant wouldn't answer any of the Burn pit questions because he said that **it's classified, so he can't answer whether he served in those locations**. He answered "no" to all three of the questions. When asked if would feel comfortable answering the questions if he were on his own and not being observed or recorded, he said still no. I wonder if there's any way that this person would be able to apply for disability benefits under the PACT Act.
+One participant wouldn't answer any of the burn pit questions because he said that **it's classified, so he can't answer whether he served in those locations**. He answered "no" to all three of the questions. When asked if would feel comfortable answering the questions if he were on his own and not being observed or recorded, he said still no. I wonder if there's any way that this person would be able to apply for disability benefits under the PACT Act.
 
 > *"I have not been read out of being able to say yes or no...I cannot confirm or deny...I'm still under classification...I can't even tell my wife" (p4).*
 
@@ -367,6 +370,12 @@ The VA content looks the way it does because it's formatted with a maximum width
 
 The other 2 participants went to the VA.gov home page. One typed into the search box, and the other found the PACT Act article at the top of the page.
 
+## Research methodology learnings
+1. Having Survey Monkey handle the complex branching in the prototype to questions and results pages was super helpful and enabled the moderator to focus on observing and conversing with the participant (*vs.* figuring out on-the-fly which question or results to show next).
+1. We should have built a second version of the *You may be eligible* results page in order to show presumptive conditions for Vietnam/Agent Orange because that would have been easier for all Vietnam-era participants to use and understand.
+1. The single date in the R1-1 results page *(on or after August 2, 1990)* wasn't mentioned by most participants. Perhaps it would have been easier to have had a conversation around dates if the sample results page had a date range instead of a single date as some of the pages do *(e.g., between January 9, 1962, and May 7, 1975).*
+1. Asking participants to rate their confidence at knowing what to do next was problematic when the page they were looking at may not have been relevant to their specific situation.
+
 ## Recommendations
 Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
 ### For the app design and functionality
@@ -381,10 +390,11 @@ Recommendations are listed below, with team decisions noted in *ITALIC CAPS*.
 
 ## Further research needed
 
-- We would like to get feedback from more **Veterans using smartphones**. In this study, we had several such people recruited but only one showed up for the sessions. 
-- We would like to get feedback from **Veterans who use screen readers**, which we were unable to do this time because our prototype wasn't accessible.
-- We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so that we can find out if they know enough about their family member's service to be able to answer the questions in this wizard.
-- When **additional questions about medical conditions** get added to this wizard, it would be helpful to usability test that content before launch.
+1. When **additional questions about medical conditions** get added to this wizard, it would be helpful to usability test that content before launch.
+1. Consider testing with **people who don't know what presumptive conditions are** in order to evaluate the explanation provided in the wizard.
+1. We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so that we can find out if they know enough about their family member's service to be able to answer the questions in this wizard.
+1. We would like to get feedback from more **Veterans using smartphones**. In this study, we had several such people recruited but only one showed up for the sessions. 
+1. We would like to get feedback from **Veterans who use screen readers**, which we were unable to do this time because our prototype wasn't accessible.
 
 
 ## Appendix
