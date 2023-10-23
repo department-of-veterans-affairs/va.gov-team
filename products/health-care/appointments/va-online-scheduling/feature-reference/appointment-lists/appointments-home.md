@@ -60,7 +60,7 @@ Starting page to schedule or manage appointments.
 
 [User flow](Add link) 
 
-[Page template](Add link)
+[Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2287-43222&mode=design&t=iXQLoUr7rK9TPy7w-4)
 
 [Page content](Add link)
 
