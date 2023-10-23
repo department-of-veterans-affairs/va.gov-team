@@ -25,13 +25,7 @@ The MVP will include desktop & mobile experiences
             2. Attorney (Lawyer)
             3. Claims agent
 2. Display search results
-   1. List display, including the following information for each search result:
-      1. representative_id (registration number)
-      2. first_name
-      3. last_name
-      4. phone
-      5. poa_codes
-      6. middle_initial
+   1. List display
    3. Filter results by
       4. Distance
       5. Representative Name / Organization Name
