@@ -3,13 +3,13 @@
 Last updated by @tygindraux: October 23, 2023
 
 **Jump to:**
-- [Gender identity](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#gender-identity)
-- [Pronouns](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#pronouns)
-- [Social security number](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#social-security-number)
-- [Date of birth](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#date-of-birth)
-- [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#branch-of-service)
-- [DoD/EDIPI number](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#dodedipi-number)
-- [Contact options](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#when-contact-options-are-enableddisabled)
+- [Gender identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#gender-identity)
+- [Pronouns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#pronouns)
+- [Social security number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#social-security-number)
+- [Date of birth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#date-of-birth)
+- [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)
+- [DoD/EDIPI number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#dodedipi-number)
+- [Contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#when-contact-options-are-enableddisabled)
 
 ## `Gender identity`
 |If|Then|
