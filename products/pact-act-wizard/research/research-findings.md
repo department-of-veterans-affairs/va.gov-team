@@ -115,8 +115,6 @@ Any participants whose responses didn't yield the *You may be eligible* results 
 1. Some participants had interaction challenges on the R1 results pages.
 1. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect*.
 1. Participants shared their feedback and questions about how and when to apply for PACT Act benefits.
-1. Participants shared feedback about the VA disability claims process in general. -- MOVE to ADDITIONAL INSIGHTS??
-
 
 
 ## Details of Findings 
@@ -329,27 +327,28 @@ One participant **would have tried to convince his dad to apply** for benefits u
      1. Any guidance on how to handle CRSC and PACT benefits together.
  
 
-### 6. Participants shared feedback about the VA disability claims process in general
-One participant (and also one pilot participant) described negative experiences in the past with **VA not believing that medical conditions are linked to their service**. 
-
-> *"Initially, the first 2 exams I had back in 2011 and 2012. They were telling me no, you're fine, you don't fall under this. As the years went by...I knew I did. But I had to go back multiple times. I think that was the more frustrating part...They were saying no no no, and then I had to go back just for them to say okay, yeah we were wrong: You do fall under that...It was over a decade of symptoms and finally they said, oops, yeah, we found [a] correlation" (p2).*
-
-This same participant advised against telling the doctor that you're "fine" when a doctor asks how you're doing.
-> *"You walk in the doctor's office, 'How you doing?' 'Fine.' That doesn't mean you're fine. You just, you say those words. They're documenting it, and sometimes those same words are being used against you. So it's a shame that we...have to walk in there and list off all everything and not say 'fine'" (p2).*
-
-A different participant said that he was advised to **go to the American Legion, VFW, or a Veteran advocates group that would understand how to fill out the disability application forms**, rather than trying to do it on his own. He went to the American Legion to apply, and they helped request his medical records. To get his military records, he had to apply 3 times--online, calling, and then writing a letter--and wait *18 months*. By that time, the American Legion had already submitted his disability application, so they did a Supplemental Claim to add his military records.
-
 
 
 ## Additional Insights
 
-### Classified information kept one participant from answering location questions
+### A. Classified information kept one participant from answering location questions
 One participant wouldn't answer any of the burn pit questions because he said that **it's classified, so he can't say whether he served in those locations**. He answered "no" to all three of the questions. When asked if would feel comfortable answering the questions if he were on his own and not being observed or recorded, he still said no. I wonder if there's any way that this person would be able to apply for disability benefits under the PACT Act.
 
 > *"I have not been read out of being able to say yes or no...I cannot confirm or deny...I'm still under classification...I can't even tell my wife" (p4).*
 
+### B. Prototype pages on Desktop display narrow so require a lot of scrolling
+One participant said that with the way that VA web pages display on her computer desktop, they're **narrow with blank white space on both sides, so you have to scroll a lot** [Edge for Business Browser, 116.0.1938.69 (Official build) (64-bit)]. The participant would prefer a wider display of text to decrease the need for scrolling. 
 
-### Many Veterans don't know that they could or should apply for VA benefits
+> *"I'm assuming because it's designed to be mobile friendly, but I'm not sure why it's only taking roughly a third of the page for display. So you end up scrolling down a whole lot more...There's a lot of white space" (p6).*
+
+The VA content looks the way it does because it's formatted with a maximum width that gets centered in wider windows because longer lines of text are considered harder to read. In addition, there's usually a left sidebar that would fill up some of the blank space on the left, but this wasn't present in the prototype results page.
+
+### C. Wayfinding: Most participants were able to find VA information on the PACT Act
+7 of 9 participants used a search engine in their web browser. 6 of 7 selected a VA.gov link to open, whereas one clicked a non-VA link. 
+
+The other 2 participants went to the VA.gov home page. One typed into the search box, and the other found the PACT Act article at the top of the page.
+
+### D. Many Veterans don't know that they could or should apply for VA benefits
 Two participants said that they **hadn't heard anything about the VA when they left the military**. Years after one of them was discharged in 1972, his brother-in-law mentioned VA to him by chance and encouraged him to apply for benefits, which he did in 2004.
 
 > *"Here's your last check, give me your ID card, get off the base" [discharged in 1972] (p7).* 
@@ -366,17 +365,16 @@ One regular participant and one pilot participant said that they feel **undeserv
 
 A different participant said that it's frustrating that he **doesn't know  whether he's eligible for VA health care as a non-disabled Veteran**.
 
-### VA pages on Desktop display narrow so require a lot of scrolling
-One participant said that with the way that VA web pages display on her computer desktop, they're **narrow with blank white space on both sides, so you have to scroll a lot** [Edge for Business Browser, 116.0.1938.69 (Official build) (64-bit)]. The participant would prefer a wider display of text to decrease the need for scrolling. 
+### E. Participants shared feedback about the VA disability claims process in general
+One participant (and also one pilot participant) described negative experiences in the past with **VA not believing that medical conditions are linked to their service**. 
 
-> *"I'm assuming because it's designed to be mobile friendly, but I'm not sure why it's only taking roughly a third of the page for display. So you end up scrolling down a whole lot more...There's a lot of white space" (p6).*
+> *"Initially, the first 2 exams I had back in 2011 and 2012. They were telling me no, you're fine, you don't fall under this. As the years went by...I knew I did. But I had to go back multiple times. I think that was the more frustrating part...They were saying no no no, and then I had to go back just for them to say okay, yeah we were wrong: You do fall under that...It was over a decade of symptoms and finally they said, oops, yeah, we found [a] correlation" (p2).*
 
-The VA content looks the way it does because it's formatted with a maximum width that gets centered in wider windows because longer lines of text are considered harder to read. In addition, there's usually a left sidebar that would fill up some of the blank space on the left, but this wasn't present in the prototype results page.
+This same participant advised against telling the doctor that you're "fine" when a doctor asks how you're doing.
+> *"You walk in the doctor's office, 'How you doing?' 'Fine.' That doesn't mean you're fine. You just, you say those words. They're documenting it, and sometimes those same words are being used against you. So it's a shame that we...have to walk in there and list off all everything and not say 'fine'" (p2).*
 
-### Wayfinding: Most participants were able to find VA information on the PACT Act
-7 of 9 participants used a search engine in their web browser. 6 of 7 selected a VA.gov link to open, whereas one clicked a non-VA link. 
+A different participant said that he was advised to **go to the American Legion, VFW, or a Veteran advocates group that would understand how to fill out the disability application forms**, rather than trying to do it on his own. He went to the American Legion to apply, and they helped request his medical records. To get his military records, he had to apply 3 times--online, calling, and then writing a letter--and wait *18 months*. By that time, the American Legion had already submitted his disability application, so they did a Supplemental Claim to add his military records.
 
-The other 2 participants went to the VA.gov home page. One typed into the search box, and the other found the PACT Act article at the top of the page.
 
 ## Research methodology learnings
 1. Having Survey Monkey handle the complex branching in the prototype to questions and results pages was super helpful and enabled the moderator to focus on observing and conversing with the participant (*vs.* figuring out on-the-fly which question or results page to show next).
