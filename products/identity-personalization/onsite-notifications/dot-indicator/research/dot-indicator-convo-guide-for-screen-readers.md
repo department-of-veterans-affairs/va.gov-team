@@ -39,7 +39,7 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 Now I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov and then share your screen with me. Let me know if you need any help doing that.
 
-Okay great, I can see your screen. Now please navigate to the "sign in" button in the top right corner and I'll tell you the credentials you should type to log in.
+Okay great, I can see your screen. Now please navigate to the "sign in" button and I'll tell you the credentials you should type to log in.
 
 - *Once they have logged in and the full page has loaded* Now that you've logged in, how would you typically go about navigating the page?
 - *Let them navigate down the page however they prefer. If they come across the links with indicators, ask:* What are the screen reader cues telling you about these links? How are you interpreting each of them? *Gauge whether the cues are stopping them in their tracks and seem important or are being ignored*
@@ -48,8 +48,8 @@ Okay great, I can see your screen. Now please navigate to the "sign in" button i
  	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have past medical appointments that are eligible for travel reimbursement?  
 - How do you experience notifications on other websites and on your phone? Is there any website or app that does it particularly well from a screen reader standpoint and/or any experiences that have been particularly bad for you?
 - How do you think each of these notifications that are being read to you would no longer be there and it would just be a plain link?
-- What would you expect to see if you selected the link for "Request travel reimbursement" and it says you have **Review eligible appointments**? *Need to decide what the aria label should be if we end up including a dot for this link* 
-- What would you expect to see if you selected the link for "Get your VA medical records and lab and test results" and it says **You have new medical records or test results** *Need to decide what the aria label should be if we end up including a dot for this link* 
+- What would you expect to happen if you selected the link for "Request travel reimbursement" and it says you have **Review eligible appointments**? *Need to decide what the aria label should be if we end up including a dot for this link* 
+- What would you expect to happen if you selected the link for "Get your VA medical records and lab and test results" and it says **You have new medical records or test results** *Need to decide what the aria label should be if we end up including a dot for this link* 
 - Do you have any suggestions on how to make this screen reader experience as close to a sighted experience as possible? Would you want to hear these notifications sooner or in some other order?
 
 ## Thanks and Closing - 2 minutes
