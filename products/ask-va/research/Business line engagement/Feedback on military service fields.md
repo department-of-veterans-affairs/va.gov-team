@@ -53,12 +53,12 @@ This list is alphabetized by category name. Each field is marked as:
 
 #### `Social security number` and `Service number`
 
-**For the most part, these fields will not change.** Social security number will still be required, **unless**:
+**These fields will change to accommodate Veterans without a social security number.** Social security number will be required, **unless**:
 
 - `Who are you asking a question for?` = `A general question`
 - and/or `Category` or `topic` = `Education benefits and work study`
 
-When `Social security number` is required, we will let submitters opt out if they or their Veteran do not have a `Social security number`. In that case, we will ask for their `Service number`. This will remain optional, in case they do not have either.
+But although `Social security number` is required, we will let submitters opt out if they or their Veteran do not have a `Social security number`. In that case, we will ask for their `Service number`. This will remain optional, in case they do not have either.
 
 #### `Service start date` and `Service end date`
 
