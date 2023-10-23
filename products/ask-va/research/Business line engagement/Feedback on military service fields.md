@@ -1,6 +1,6 @@
 # Feedback on military service fields
 
-Last updated by @tygindraux: October 17, 2023
+Last updated by @tygindraux: October 23, 2023
 
 **Jump to:**
 - [When business lines say they need or don't need military service information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Feedback%20on%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information)
