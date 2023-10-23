@@ -143,18 +143,22 @@ Both time periods | 3 | 8-10 | 8.7 | 10
 
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
-### 2. Some of the questions were confusing to a few participants
+### 2. Some of the questions were confusing to some participants
 #### 3 participants had difficulty with the service years question
 ![q-service-years](./images/q-service-years.png)
 
-One participant **thought that none of the options applied** to him. He said, *"This is one of those frustrating times when there's not an appropriate answer for me" (p10)/* When prompted to try again, he blamed it on his tendency *"to read through stuff quicker than I should."* He thought that rewording the radio button options to "1990 to present" and "Prior to 1989" might be clearer.
+One participant **thought that none of the options applied** to him. When prompted to try again, he blamed it on his tendency *"to read through stuff quicker than I should."* He thought that rewording the radio button options to "1990 to present" and "Prior to 1989" might be clearer.
+
+> *"This is one of those frustrating times when there's not an appropriate answer for me" (p10).*
 
 A different participant was thinking about the campaigns she served in and not the years, and was **wondering whether toxic exposures for 1990 were similar to those that she might have experienced 12 years later** in the 2000's. She suggested instead having checkbox options with the different options and thought this might be easier for answering questions on behalf of family members, too. She suggested the following list of options: Operation Iraqi Freedom, Operation Enduring Freedom, Desert Storm, Vietnam, Gulf War, Cold War. (Seems like this list could get really long and require updating.)
 
-A third participant didn't select "both time periods" until his second time through the survey. He seemed to think that the word **"serve" meant instead "started" or "joined" because he asked whether it includes his training**. The reason is that he joined in Aug 1989 and did basic training and tech training but didn't actually start serving until 1990. And *"you're really not in the military until after training" (p4).*
+A third participant didn't select "both time periods" until his second time through the survey. He seemed to think that the word **"serve" meant instead "started" or "joined" because he asked whether it includes his training**. The reason is that he joined in Aug 1989 and did basic training and tech training, but he didn't actually start serving until 1990. 
+
+> *"You're really not in the military until after training" (p4).*
 
 #### RECOMMENDATIONS: 
-1. **Consider instead asking what year the Veteran joined the service and what year they left** (as in Perigean's recruitment survey). This might be more straightforward than the cognitive load of A/B/both radio button options, and also would eliminate questions about whether one's service is close enough to 1989 or 1990 and the implications. 
+1. **Consider instead asking what year the Veteran joined the service and what year they left** (as in Perigean's recruitment survey from the VA). This might be more straightforward than the cognitive load of *A/B/both* radio button options, and also would eliminate questions about whether one's service is close enough to 1989 or 1990 and the implications. 
 1. Alternatively, consider making the options into 2 checkboxes instead of 3 radio buttons.
 1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
 1. Consider adding a "Not sure" option that would result in all questions being asked (like the current "Both time periods" option).
@@ -167,12 +171,12 @@ When they saw the above question, 2 participants said (unprompted) that they **d
 Two other participants mentioned that they're familiar with C-123's but others may not be. One of them said, *"If it applied to you, you would know...service members know their equipment" (p9).* The other said something similar and also that an explanation might be helpful.
 
 #### RECOMMENDATION: 
-1. Consider adding a brief description or link to information about C-123 planes.
+1. Consider adding a brief description or link to information about C-123 planes so that people won't stop and wonder what they are.
 
 #### 1 participant had questions about another Agent Orange question 
 ![q-DMZ-Agent-Orange](./images/q-DMZ-Agent-Orange.png)
 
-One participant had questions about the Agent Orange question they saw. The first one was about **what the word "serve" means**: "in country" on the ground, or does it also include on a ship nearby or in the airspace above? 
+One participant asked **what the word "serve" means**--"in country" (on the ground), or does it also include on a ship nearby or in the airspace above? 
 
 > *"The military is precise. We don't like a lot of gray area" (p1).*
 
@@ -182,9 +186,9 @@ This participant also asked **if there is a minimum duration for the time that y
 
 #### RECOMMENDATIONS:
 1. If applicable, consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
-1. If possible, consider revising the content to disambiguate the word "near" in the DMZ option.
+1. If possible, consider revising the content to clarify what is meant by the word "near" in the DMZ option.
 
-#### 1 participant was unclear about "neutral zone"
+#### 1 participant was unclear about what "neutral zone" means
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
 
 One participant asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations with the FOB (Forward Operating Base) names on it for the places she lived, transported supplies to, had a day pass to, etc. Without this information, she answered "not sure" to the question.
@@ -194,7 +198,7 @@ One participant asked whether "neutral zone" in the question refers to what was 
 Another participant also wanted to see a map that showed the geographical areas of the locations listed in the question.
 
 #### RECOMMENDATIONS: 
-1. In the questions, try to mirror the language that Veterans heard during their service (e.g., FOB names, "green zone" and not "neutral zone"?).
+1. In the questions, try to mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone").
 1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
 
 ### 3. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect* and not addressed by anything in the wizard.
