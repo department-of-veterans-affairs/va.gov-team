@@ -16,7 +16,7 @@ Date: 10/24/2023
 
 [Key findings](#key-findings)
 
-[Recommendations](#recommendations)
+[Recommendations](#all-recommendations)
 
 [Appendix (including screenshots of prototype)](#appendix)
 
@@ -376,7 +376,7 @@ A different participant said that it's frustrating that he **doesn't know  wheth
 1. The single date in the R1-1 results page *(on or after August 2, 1990)* wasn't mentioned by most participants. Perhaps it would have been more natural to have had a conversation around dates if the sample results page had a date range instead of a single date as some of the content does *(e.g., between January 9, 1962, and May 7, 1975).*
 1. Asking participants to rate their confidence at knowing what to do next was problematic when the results page they were looking at was not relevant to their specific situation.
 
-## Recommendations
+## All Recommendations
 Preliminary ideas for recommendations are listed below as input to discussion with the team and stakeholders.
 
 ### For content in the PACT Act wizard
