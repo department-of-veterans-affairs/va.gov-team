@@ -41,26 +41,17 @@ This list is alphabetized by category name. Each field is marked as:
 
 ## Final recommendations on military service fields
 
-Jump to:
-- 1-2. First name and last name
-- 3. Date of birth
-- 4-5. Social security number and service number
-- 6-7. Service start date and service end date
-- 8. Claim number
-- 9. DoD/EDIPI number
-- 10. Branch of service
-
-### 1-2. `First name` and `Last name` 
+#### `First name` and `Last name` 
 
 **These fields will not change.** They will be required.
 
-### 3. `Date of birth`
+#### `Date of birth`
 
 **This field will not change.** It will be required, **unless**:
 - `Who are you asking a question for?` = `A general question`
 - and/or `Category` or `topic` = `Education benefits and work study`
 
-### 4-5. `Social security number` and `Service number`
+#### `Social security number` and `Service number`
 
 **For the most part, these fields will not change.** Social security number will still be required, **unless**:
 
@@ -69,19 +60,19 @@ Jump to:
 
 When `Social security number` is required, we will let submitters opt out if they or their Veteran do not have a `Social security number`. In that case, we will ask for their `Service number`. This will remain optional, in case they do not have either.
 
-### 6-7. `Service start date` and `Service end date`
+#### `Service start date` and `Service end date`
 
 **These fields will be removed.** These fields were [indicated as unnecessary by business lines]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information)).
 
-### 8. `Claim number`
+#### `Claim number`
 
 **This field will be removed.** This field was [indicated as unnecessary by business lines]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information)).
 
-### 9. `DoD/EDIPI number`
+#### `DoD/EDIPI number`
 
 Although business lines had differing needs for `DoD/EDIPI`, we think this field should be **removed** because agents can look this up in MPI using a Veteran's first and last name, DOB and SSN, which will be required.
 
-### 10. `Branch of service`
+#### `Branch of service`
 
 **This field will change.** Previously, when military fields were present, `Branch of service` was always optional.
 
