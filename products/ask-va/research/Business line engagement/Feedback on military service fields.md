@@ -41,6 +41,15 @@ This list is alphabetized by category name. Each field is marked as:
 
 ## Final recommendations on military service fields
 
+Jump to:
+- 1-2. First name and last name
+- 3. Date of birth
+- 4-5. Social security number and service number
+- 6-7. Service start date and service end date
+- 8. Claim number
+- 9. DoD/EDIPI number
+- 10. Branch of service
+
 ### 1-2. `First name` and `Last name` 
 
 **These fields will not change.** They will be required.
