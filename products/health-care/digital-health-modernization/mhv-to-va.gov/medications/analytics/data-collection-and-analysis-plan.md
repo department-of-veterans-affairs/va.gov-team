@@ -110,7 +110,7 @@
 <tr class="even">
 <td>Service Completion</td>
 <td>Is a Veteran able to track their shipment?</td>
-<td>Completion % ([TRACKING NUMBER] link)</td>
+<td>Completion % ('Track your package with UPS' link)</td>
 </tr>
 <tr class="odd">
 <td>Service Completion</td>
