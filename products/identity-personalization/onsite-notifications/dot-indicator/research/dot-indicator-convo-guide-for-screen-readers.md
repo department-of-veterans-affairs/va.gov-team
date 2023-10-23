@@ -15,7 +15,11 @@
 
 Thanks for joining us today! My name is Angela. Today we're going to be reviewing some new features being considered for VA.gov.
 
-Before we start, a few things I want to mention:
+Before we dive into it, could you please verify if you'll be using a screen reader for the session?
+- *If no, switch to [sighted user conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/dot-indicator-convo-guide.md).
+- *If yes, ask:* Okay, what kind of screen reader is it?
+
+Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 - **I have a few other colleagues in the waiting room who would like to observe and take notes.** Are you okay with letting them in for this session?
 	- _If participant does not consent, ask the observers to kindly leave the Zoom via Slack._
