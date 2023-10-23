@@ -3,7 +3,7 @@ VSA, Facilities Team<br>
 
 Laurel Lawrence, Christian Valla, Shawna Hein 02/23/2021
 
-View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-plan.md).
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/mobile-experience/research-plan.md).
 ## Research Goals 
 - Understand how Veterans expectations for Find a VA Location search results differ for mobile vs desktop users
 - Understand how industry standards impact Veteran expectations for the Facility Locator search experience
@@ -122,7 +122,7 @@ For participants who went to the map view, We saw them for the most part underst
 
 
 ## Appendix
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/conversation-guide-v2.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/mobile-experience/conversation-guide-v2.md)
 
 ### Interview transcripts
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/Notes%20-%202021-02%20Facility%20Locator-Mobile%20Experience.zip
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/mobile-experience/Notes%20-%202021-02%20Facility%20Locator-Mobile%20Experience.zip
