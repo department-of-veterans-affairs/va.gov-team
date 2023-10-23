@@ -1,3 +1,45 @@
+## Meeting Notes for CRM Sync on 10/23/2023
+
+`sec_id` potential issues; AVA data questions
+
+### Attendees:
+
+* **AVA FE Team:** Khoa, Joe, Jacob, Eddie
+* **AVA CRM Team:** JD, Chris
+* **Note Taker:** Jacob
+
+### Key Takeaways:
+
+1. User Auth: `sec_id` may stop being a reliable key to track users in the next 6-9 months. Identity team recommends using other fields.
+   * Current SSOe solution leverages expensive, quirky hardware from IBM. Trying to move away from that.
+   * Possible alternative is the credential_UUID, plus originating login provider.
+   * There is a mapping table used by Identity team that maps sec_id / EDIPI / ICN.
+   * When using one of the 4 identity providers, verified users have an MPI record. (Regardless of whether they're a vet or not.)
+2. Ed Facilities: CRM agents edit/add facilities when a facility does not exist in the list, as reported by a submitter.
+   * This is an optional field.
+   * If submitter can't find the school code, they can leave it blank and pick the state (with optional feedback).
+   * The code is used to find the state, so having just the state is enough for routing.
+3. VA Facility: This is a mostly-static list from PATS-R.
+   * If there's a discrepency, someone internal would raise it.
+   * This list doesn't change much.
+   * VA Facilities are hospitals.
+   * This is a required field.
+   * If not found, the submitter can just pick another facility, and include feedback with their selection.
+4. AVA Profile / VA Profile:
+   * Used for pre-fill.
+   * Backend uses the pre-filled values, so those fields still need to be included with the inquiry that gets submitted.
+   * Jacob to compare with the data dictionary to see which fields may be missing.
+   * Need to have a business email and a persoanl email to split the dashboard into personal / buisiness tabs.
+
+### Action Items:
+
+- [ ] Jacob to compare with the AVA Profile data dictionary to the VA Profile fields to see which fields may be missing.
+- [ ] Chris believes that the sec_id may be a substring of the ICN. Needs to verify using the data that they have.
+
+
+-----
+
+
 ## Meeting Notes for CRM Sync on 10/19/2023
 
 App Insights; Project Plan; Medallia; Field Removal; Teams for Syncs; sec_id Usage; AVA CRM Lower Environments
