@@ -16,7 +16,7 @@ The goals of this user research are to:
     - Can users easily enter their details, as information is collected for up to four people/roles in the form (applicant, sponsor, preparer, previous decedents), and is it simple for them to determine in which sections of the form they need to provide these details?
     - Which areas of the pre-need application are potentially confusing for users, particularly in determining whose details they need to enter throughout?
     - Do they understand the difference between an Applicant, a Sponsor, a Previous Decedent, and a Preparer? 
-* For additional integration enhancements, determine what's working well and what isn't
+* For additional integration enhancements, determine what's working well and what isn't.
     - Are there additional opportunities to simplify the user experience, particularly since Integration will require the inclusion of new fields?
    - Are there any enhancements to address Corey Shea Act applicants that would be helpful?
 
