@@ -11,7 +11,7 @@ Starting page to schedule or manage appointments.
 
 ## Requirements
 
-**Functional**
+### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 - A Veteran can start the process for scheduling an appointment online.
