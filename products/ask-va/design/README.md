@@ -9,5 +9,5 @@ Most of our design work lives in Sketch and Mural. You can also reach out to us 
 We also keep additional documentation, mostly for our engineers to reference, in this Github folder.
 |Document|Description|Last updated|
 |:--|:--|:--|
-|[Field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)|Describes when to apply certain fields based on their rules|October 23, 2023|
 |List of contact options|Describes when to disable or enable contact options by category and topic|October 13, 2023|
+|[Field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)|Describes when to apply certain fields based on their rules|October 23, 2023|
