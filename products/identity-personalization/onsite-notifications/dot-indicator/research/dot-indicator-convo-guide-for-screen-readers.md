@@ -13,7 +13,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Angela. Today we're going to be reviewing a feature on VA.gov that helps Veterans identify personalized action items after logging into the website.
+Thanks for joining us today! My name is Angela. Today we're going to be reviewing some new features being considered for VA.gov.
 
 Before we start, a few things I want to mention:
 
