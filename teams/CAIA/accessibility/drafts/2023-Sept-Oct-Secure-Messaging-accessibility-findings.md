@@ -160,16 +160,6 @@ _While CAIA cannot require you to complete any updates to your product, we can p
     - **Impact**:Content and IA
     - **Appears on**: Experience Standards
     - **WCAG**: NA
-
-- It can take a long time for screen reader users to have page content read to them, so redundant/repeated text can be cumbersome to get through. When it comes to the liability and crisis line messages:
-  - You might want to consider removing one instance of them.
-      - **Experience standards:** `Category 03` `Issue 04`: A user flow doesn't have repetitive or redundant steps.
-      - **Defect**:
-      - **Impact**:
-      - **Appears on**:
-      - **WCAG**:
-
- 
   - 
 -  Radio buttons in a “Category” radio group after starting a “New Message” are not announcing "X of Y", where X is the current position in the group and Y is the total number of radio buttons. Currently announcing 2 of 2, 1 of 1 and so on. 
 ### Complete Soon
@@ -184,7 +174,12 @@ _While CAIA cannot require you to complete any updates to your product, we can p
       - **Impact**: A11y, Content and IA
       - **Appears on**: Experience Standards
       - **WCAG**: [WCAG SC 2.4.4_A](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
-
+  - You might want to consider removing one instance of them.
+      - **Experience standards:** `Category 03` `Issue 04`: A user flow doesn't have repetitive or redundant steps.
+      - **Defect**:`Not Launch Blocking`
+      - **Impact**: Content and IA
+      - **Appears on**: Experience Standards
+      - **WCAG**: NA
 - Adding <aria-label>(s) for Message ID(s)
 
 ## Other considerations and findings 
