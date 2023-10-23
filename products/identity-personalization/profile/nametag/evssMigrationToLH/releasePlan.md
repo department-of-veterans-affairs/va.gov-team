@@ -86,7 +86,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| pick one: No |
 |Types of errors logged:| ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/8a7fd4e7-afd2-415a-b023-3b7b20c5380c)|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| None! |
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| None |
 
 ---
 ### Stage C: 50% of users
@@ -99,7 +99,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |Was any downstream service affected by the change?:| pick one: yes/no/N/A |
 |Types of errors logged:| ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/a09a16d3-c542-4c6c-bec5-21627a469cf5)
 |
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| None|
 
 ### Stage D: 100% of users
 
