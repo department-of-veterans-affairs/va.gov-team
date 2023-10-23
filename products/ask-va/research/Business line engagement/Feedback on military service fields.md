@@ -43,36 +43,28 @@ This list is alphabetized by category name. Each field is marked as:
 
 ### Consistent across all categories
 
-- Include these fields as required for all categories, because all business lines agree:
+We think these fields should be treated consistently across all categories, because all business lines have reached an agreement.
+
+- Required for all categories:
   - `First name`
   - `Last name`
   - `Date of Birth`
   - `SSN`
-- Remove these fields from the form, because all business lines agree:
+- Remove these fields from the form:
   - `Service start date`
   - `Service end date`
   - `Service number`
   - `Claim number`
+ 
+Although business lines had differing needs for `DoD/EDIPI`, we think this field should be **removed** because agents can look this up in MPI using a Veteran's first and last name, DOB and SSN, which will be required.
 
 ### Depends on the category
+
+We think these fields need to be treated differently per category, because in some cases they are needed and in other cases they are not.
+
 - We confirmed again that VBA-ART and `Veteran ID Card (VIC)` need `Branch of Service` as part of their ID protocol requirements, so we need to require `Branch of Service` for at least these categories:
   - `Veteran ID Card (VIC)`
   - `Disability compensation` (including when `Disability compensation` is a topic under `Benefits issues outside the U.S.`)
   - `Survivor benefits`
   - `Burials and memorials`
   - `Center for Women Veterans`
-- `DoD/EDIPI number` is needed by around 50% of business lines, so we need to require `DoD/EDIPI number' for at least these categories:
-  - `Center for Minority Veterans`
-  - `Decisions reviews and appeals`
-  - `Life insurance`
-  - `Burials and memorials`
-  - `Health care`
-  - `Veteran ID Card (VIC)`
-  - `Veteran Readiness and Employment` (including when `Veteran Readiness and Employment` is a topic under `Education`)
-  - `Sign in and technical issues`
-  - `DEERS (Defense Enrollment Eligibility Reporting System)`
-
-## Appendix
-
-Screenshot of military service information spreadsheet, contributed to by all business lines:
-![image: screenshot of military service information spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/AVA-military-service-fields.png)
