@@ -111,5 +111,5 @@ One participant shared frustration that they’ve never been able to successfull
      * User contacts member services for Tier 1.
      * If unable to assist member services contacts BTSSS production support (a small contract team with BAH)
      * If needed, that team brings in other parties, often Identity Access Management (IAM)
-- ([Slack thread](https://dsva.slack.com/archives/CE4304QPK/p1697722503292559?thread_ts=1697646505.735719&cid=CE4304QPK))
+     * ([Slack thread](https://dsva.slack.com/archives/CE4304QPK/p1697722503292559?thread_ts=1697646505.735719&cid=CE4304QPK)) with more details
 3. We created a ticket ([\#68144](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68144)) to explore whether or not the name tag can support capitalization for multiple middle initials. 
