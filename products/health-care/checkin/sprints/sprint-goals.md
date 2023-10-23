@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Ongoing Production Support**
-     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Resolve Pen Test Issues Identified Related to the CIE/PCI ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68145)
+     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Resolve Pen Test Issues Identified Related to the CIE/PCI ATO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68145)
      - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
      - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680) 
 - **GOAL: Make submission of a travel reimbursement claim easier**
