@@ -115,7 +115,7 @@ Any participants whose responses didn't yield the *You may be eligible* results 
 
 ## Details of Findings 
 
-Because this study was testing the *content* of the PACT Act Wizard and *not* the overall user experience, the user feedback varies more across participants than usually happens in a usability test. In this way, the number of participants noted for each piece of feedback is small.
+Because this study was testing the *content* of the PACT Act Wizard and *not* the overall user experience, the user feedback varies more across participants than usually happens in a usability test. In this research on content, the number of participants who experienced or mentioned each point of feedback is small.
 
 ### 1. All 9 participants had an overall positive experience using the PACT Act Wizard
 
