@@ -5,14 +5,23 @@ Starting page to schedule or manage appointments.
 
 ## User stories
 
-- As a Veteran I want a starting point for all of my appointment scheduling and management tasks
+- As a Veteran, I want a starting point for my appointment scheduling and management tasks.
+- As a Veteran, I want to be able to schedule appointments online.
+- As a Veteran, I want to be able to find my upcoming appointments.
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- If user/Veteran is ineligible to use VAOS because they are not registered at a VA facility. In that case, the [alert that user is not registered at a VA facility](#alert-that-user-is-not-registered-at-a-va-facility) displays
+- If user/Veteran is ineligible to use VAOS because they are not registered at a VA facility. In that case, the [alert that user is not registered at a VA facility](#alert-that-user-is-not-registered-at-a-va-facility) displays.
+- Veteran can start the process for scheduling an appointment online.
+- Veteran can navigate to their past appointments and requests
+- Display a summary of 13 months of future booked appointments, including:
+    - VA appointments from VistA and Cerner facilities
+    - Community care appointments
+    - Canceled appointments
+
 
 
 ## User interface design
