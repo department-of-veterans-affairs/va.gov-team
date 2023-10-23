@@ -115,26 +115,26 @@ Any participants whose responses didn't yield the *You may be eligible* results 
 
 ## Details of Findings 
 
-Because this study was testing the *content* of the PACT Act Wizard and *not* the overall user experience, the user feedback varies more across participants than usually happens in a usability test. In this research on content, the number of participants who experienced or mentioned each point of feedback is small.
+Because this study was testing the *content* of the PACT Act Wizard and not the overall user experience, the user feedback varies more across participants than usually happens in a usability test. In this research on content, the number of participants who experienced or mentioned each point of feedback was often small.
 
 ### 1. All 9 participants had an overall positive experience using the PACT Act Wizard
 
 Participants called out the following specific features as working well:
-- **Questions**, which were simple, straightforward, and flowed well (5 participants)
-- **Information provided** concisely that's easy to understand with links for more on intro page and results (5)
+- **Questions** were simple, straightforward, and flowed well (5 participants)
+- **Information provided** concisely that's easy to understand with links for more info on intro page and results (5)
 - **Accordions on results page** so don't have to go to another page or site (1)
 - **Links to apply** for benefits (1)
 - **Continue and Back buttons** (1)
 
 > *"I really like the way that they broke down the PACT Act to #1 time and #2 the places" (p4).*
 
-> *"It's pretty concise. There's not a lot of words. It's got a lot of hot links." (p11).*
+> *"It's pretty concise. There's not a lot of words. It's got a lot of hot links" (p11).*
 
-> *"It follows a logical pattern--if/then. There's a clear button to take me to the next question...There's not a lot of choices. It flows smartly. And if I need to go back a page, that page is available. It doesn't take me someplace else." (p9)*
+> *"It follows a logical pattern--if/then. There's a clear button to take me to the next question...There's not a lot of choices. It flows smartly. And if I need to go back a page, that page is available. It doesn't take me someplace else" (p9).*
 
-Participants' positivity towards the PACT Act Wizard wasn't affected by the number of questions that they saw. The **prototype showed between 2 and 10 questions to each participant, based on their responses**. If you answered "yes" to one of the burn pit or Agent Orange questions, you would skip the other questions in that section and might get a followup question. Below is a table showing the range and average number of questions seen by all participants and by service year category. 
+Participants' positivity towards the PACT Act Wizard wasn't affected by the number of questions that they saw. The **prototype showed between 2 and 10 questions to each participant, based on their responses**. If someone answered "yes" to one of the burn pit or Agent Orange questions, they would skip the other questions in that section and might get a followup question. Below is a table showing the range and average number of questions seen by all participants and also separated by service year group. 
 
-Service year group | # of Participants | Range of # Q's seen | Avg # Q's seen | Maximum # of Q's 
+Service year group | # of Participants | Range of # Q's seen | Avg # Q's seen | Maximum possible # of Q's 
 ------------------|---------------|----|----------- | -----
 All groups | 9 | 2-10 | 6 | 10
 1990 or later | 2 | 2 | 2 | 4
