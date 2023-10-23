@@ -7,7 +7,7 @@
 
 High level questions this research was trying to answer:
 
--Briefly summarize the high level questions your research was trying to answer.
+Briefly summarize the high level questions your research was trying to answer.
 
 The goals of this user research are to: 
  - Learn how users experience applying for pre-need as it relates to the addition of new fields for Integration, and determine what's working well and if pain points exist.
