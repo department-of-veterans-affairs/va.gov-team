@@ -1,6 +1,7 @@
 # Profile: Multi-feature UAT and generative research findings summary
 
 October 23, 2023
+
 ## Background
 Over the last 3 months, we’ve worked on improvements related to our notification settings feature, and how users update profile information while in the middle of another task. They’re closely related, and will be part of the same release so we conducted UAT on all 3 features at once. [The specific features we tested are outlined in our research plan.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-UAT-edit-as-subtask-default-send-checkbox-ui/research-plan.md#features-to-be-tested)
 
@@ -50,10 +51,12 @@ All 3 participants felt this information would be useful in helping Veterans ver
 > It would be really helpful to have it automatically part of my record, and then government would already know so I don't have to explain it.  That would be all I need to put to corroborate what I'm saying on the national hazmat registry. - P8
 
 ##### Military occupational specialties (MOS)
-The responses we received in our sessions suggest that the longer a Veteran served, and the more MOS they had, the more helpful it would be to see this information in their profile.  
+2 of 3 participants stated MOS wouldn’t be useful to them:
 > I know these by heart, that wouldn’t be useful. - P7
 
 > My MOS was my MOS the entire time I was in the army. So I wouldn't need that. - P9
+
+The third participant had mixed feelings about how helpful this would be to them. They stated they’re retired, so it wouldn’t really matter to them and “that’s what the DD214 is for.” They then went on to say they could see how this information would be useful for younger Veterans building resumes.
 
 ##### Training courses
 2 of 3 participants could see this being useful, but both stated it would be need to be quite detailed to be more valuable than documents they already have access to (transcripts and ATRSS, an Army record management system)
