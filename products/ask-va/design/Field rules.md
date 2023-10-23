@@ -17,6 +17,7 @@ Last updated by @tygindraux: October 23, 2023
 |[all categories]|Display `Gender identity` component (*Required) for `Submitter` in `Chapter 4 of 5: Personal information`|
 
 - Submitter can be the Veteran, dependent, or a third party, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
+- **Update 10/23: **We are recommending that this field is removed. We still need confirmation on whether this is approved or needs to be taken to the CCB.
 
 ## `Pronouns`
 |If|Then|
@@ -48,7 +49,7 @@ Last updated by @tygindraux: October 23, 2023
 * **Unless** `Who are you asking a question for?` = `A general question`
 
 ## `DoD/EDIPI number`
-* Update 10/23: This field will be removed from the form because it can be looked up in MPI using name, DOB and SSN.
+* **Update 10/23: ** This field will be removed from the form because it can be looked up in MPI using name, DOB and SSN.
 
 ## When contact options are enabled/disabled
 * Review [List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md)
