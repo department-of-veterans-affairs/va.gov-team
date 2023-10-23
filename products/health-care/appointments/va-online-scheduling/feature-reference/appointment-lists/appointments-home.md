@@ -37,7 +37,7 @@ Starting page to schedule or manage appointments.
 - All upcoming video visit appointments from Virtual Care Manager (VCM) within the next 395 days must display.  (Note: cancelled upcoming VCM appointments do NOT display).
 
 **Icons**
--  A modality icon must display for each appointment:
+- A modality icon must display for each appointment:
     - A telephone icon must display for a telephone appointment.   
         - A telephone appointment is an appointment in a clinic with telephone secondary stop on the IVC list.   (See IVC telephone stop code list:  https://issues.mobilehealth.va.gov/browse/EAS-1425)  
     - An in-person person/building icon must display if any of the following are true:
@@ -50,10 +50,10 @@ Starting page to schedule or manage appointments.
         - The appointment is a VA appointment made in a clinic with a video visit secondary stop code of defined by IVC as telehealth/video must display.  See Kay Lawyer for the list of stop codes.  
     -  In lieu of a modality icon ‘Community care’ must display for Community Care appointments.
  
-  **Type of care** 
-    - The type of care for Community Care appointments must display “Community Care appointment with [ABC] provider”.  Note, Front End receives the HSRM "Service Requested" data in the serviceType for community care.  HSRM "Service Requested" maps to CPRS/CTB Standard Episode of Care field which would be too cryptic for the veteran so for now Type of Care is not being displayed for CC appointments and instead provider name is displaying.   .
-    - The type of care for VA appointments must be set to the serviceType if serviceType is returned by backend else set to VA appointment.  Note, Backend sets the serviceType when the stop codes from the remote procedure call match CCM stop codes.
-    - The type of care may not be available for phone appointments, video appointments from Virtual Care Manager (VCM) and Telehealth Management Platform.
+**Type of care** 
+- The type of care for Community Care appointments must display “Community Care appointment with [ABC] provider”.  Note, Front End receives the HSRM "Service Requested" data in the serviceType for community care.  HSRM "Service Requested" maps to CPRS/CTB Standard Episode of Care field which would be too cryptic for the veteran so for now Type of Care is not being displayed for CC appointments and instead provider name is displaying.
+- The type of care for VA appointments must be set to the serviceType if serviceType is returned by backend else set to VA appointment.  Note, Backend sets the serviceType when the stop codes from the remote procedure call match CCM stop codes.
+- The type of care may not be available for phone appointments, video appointments from Virtual Care Manager (VCM) and Telehealth Management Platform.
 - A VistA appointment with an APPOINTMENT TYPE = Compensation and Pension must display in VAOS with type of care = Claim exam.
 
 ## User interface design
