@@ -92,25 +92,17 @@ Let’s start with a few warm-up questions.
 - [Comments about the terms used on the static page.]
 
 
-## Second Task: [Signing In] - X minutes
-
-- Are you comfortable sharing your screen and walking through how you might update your health care benefits information?
-- Could you please sign into your VA.gov account the typical way you would do so?
-- Now that we're on VA.gov, where might you go to make an update to your health care information?
-
-### Things to watch for:
-
-- [Does the navigational placement of the new form make sense to the Veteran?]
-
 ## Third Task: [Intro page] - 5 minutes
 
-- Step 1
-- Step 2
+- Could you please sign into your VA.gov account the typical way you would do so?
+- [Share link to https://VA.gov ---- in Zoom chat]
+- You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
 
 ### Things to watch for:
 
 - [Quotes from participants about any content on the intro page that makes them feel uneasy, confused or not prepared to complete the application.]
 - [Comments about time and/or actions to gather information mentioned on intro page.]
+- [Does the navigational placement of the new form make sense to the Veteran?]
 
 ## Fourth Task: [The Form] - 10 minutes
 
@@ -136,7 +128,7 @@ Let’s start with a few warm-up questions.
 
 ## Thank-You and Closing - 3 minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
@@ -146,7 +138,7 @@ Thank you so much again, and enjoy the rest of your day!
 
 ## Emergency Exit
 
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it's easy to find during a session. Take some time to practice so it feels more comfortable.]
 
 ## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
 
