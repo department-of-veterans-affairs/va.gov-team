@@ -110,7 +110,13 @@ Any participants whose responses didn't yield the *You may be eligible* results 
 
 ## Key Findings
 
-1. All...
+1. All 9 participants had an overall positive experience using the PACT Act Wizard.
+1. Some of the wizard questions were confusing to some participants.
+1. Some participants had interaction challenges on the R1 results pages.
+1. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect*.
+1. Participants shared their feedback and questions about how and when to apply for PACT Act benefits.
+1. Participants shared feedback about the VA disability claims process in general. -- MOVE to ADDITIONAL INSIGHTS??
+
 
 
 ## Details of Findings 
@@ -143,7 +149,7 @@ Both time periods | 3 | 8-10 | 8.7 | 10
 
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
-### 2. Some of the questions were confusing to some participants
+### 2. Some of the wizard questions were confusing to some participants
 #### 3 participants had difficulty with the service years question
 ![q-service-years](./images/q-service-years.png)
 
@@ -201,7 +207,7 @@ Another participant also wanted to see a map that showed the geographical areas 
 1. In the questions, try to mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone").
 1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
 
-### 3. Participants had feedback on the R1 results pages 
+### 3. Some participants had interaction challenges on the R1 results pages 
 
 #### Who saw which results pages
 
@@ -283,7 +289,7 @@ Another participant heard that you **could be eligible for PACT Act benefits by 
      1. Burn pit registry is not connected to PACT Act eligibility, and so you should still apply for PACT Act benefits.
 1. VA could consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits, to support one participant's belief that they would hear back if they should apply.
 
-### 5. Participants shared feedback and questions about how and when to apply for PACT Act benefits  
+### 5. Participants shared their feedback and questions about how and when to apply for PACT Act benefits  
 The following is feedback that we received from individual participants about applying for PACT Act benefits. 
 
 One participant said that there **shouldn't be a deadline to apply**, which he heard about in a radio ad (Sept 30). He didn't understand that this deadline was for a special enrollment period for certain combat Veterans.
