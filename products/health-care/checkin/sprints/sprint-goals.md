@@ -45,7 +45,9 @@ ________________________________________________________________________________
             - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) Blocked: waiting on test users to do integration testing
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
-            - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) BLOCKED [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65842)
+            - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Enable the 45-Minute Check-in Text Reminder for Facilities with Parent Station 657](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68176)
+            - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65842)
+               - Let's wait until we release to all facilities to do this
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - TBD
     - **Sub Goal: Analyze current metrics to see what they tell us**
