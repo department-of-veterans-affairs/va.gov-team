@@ -82,7 +82,7 @@ In the wizard, participants were first **asked when they served, and their answe
   - If served *1990 or later*, ask Burn pit questions
   - If served *1989 or earlier*, ask Agent Orange, Radiation, and Camp Lejeune questions
   - If served *during both time periods*, ask ALL of the above questions
-- If answer "yes" to a Burn pit question, skip the rest of the Burn pit questions. Similarily, if answer "yes" to an Agent Orange question, skip the other Agent Orange questions. 
+- If answered "yes" to a Burn pit question, skip the rest of the Burn pit questions. Similarily, if answered "yes" to an Agent Orange question, skip the other Agent Orange questions. 
 - Based on responses to the above questions, show one of the following results pages:
   - *VA benefit eligibility* (can't tell if you're eligible)
   - *Camp Lejeune* (may be eligible but not under PACT Act)
@@ -96,7 +96,7 @@ Any participants whose responses didn't yield the *You may be eligible* results 
     - MOSTLY TRUE: Participants found the questions overall to be simple and straightforward, but some found a few questions to be confusing.
      
 2. Veterans (and others) will find the number and content of the questions to be relevant to their understanding of the PACT Act and how it applies to them (or the Veteran). 
-    - TRUE: Participants didn't say that any of the questions were irrelevant. They understood what they were asking about and said that the questions flowed well.
+    - TRUE: Participants didn't say that any of the questions were irrelevant. They understood what the questions were asking about and said that the questions flowed well.
 1. Veterans (and others) won't find the number and content of the questions to be overly burdensome. 
     - TRUE: There were no complaints about the number or content of the questions. 
 
@@ -105,7 +105,7 @@ Any participants whose responses didn't yield the *You may be eligible* results 
 
 1. Veterans (and others) will understand what "presumptive conditions" mean after reading the plain language description in the results flow. 
 
-    - UNKNOWN: All 9 participants in this study already understood what *presumptive condition* were *before* they read the description in the wizard.
+    - UNKNOWN: All 9 participants in this study already understood what *presumptive conditions* were *before* they read the description in the wizard.
 
 
 ## Key Findings
