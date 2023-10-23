@@ -28,8 +28,8 @@ This research will inform us of users' pain points when using the current and th
 
 ### Research questions
 
-* How does the current secondary navigational pattern used across VA.gov align with a users’ expectations? 
-* In what situations might a user want to navigate back to the MHV on VA.gov landing page? 
+* How does the current secondary navigational pattern used across VA.gov align with users’ expectations? 
+* In what situations might a user want to navigate back to the MHV on the VA.gov landing page? 
 * In what situations might a user want to jump directly from one tool to another? 
 
 ### Hypotheses 
@@ -81,12 +81,11 @@ Primary criteria (must-haves)
 
 1. How often, if at all, have you used VA.gov in the past 6 months?
 * Never used it *(go onto Screener question 3)*
-* 1-2 times in the past 6 months *(go onto Screener question 3)*
-* 2-3 times a month in the past 6 months *(Disqualify)*
+* 1-3 times in the past 6 months *(go onto Screener question 3)*
 * More than 3 times a month in the past 6 months *(Disqualify)*
 
 2. Do you have a My HealtheVet (MHV) account? 
-	- Yes *(go onto Screener question 4)*
+	- Yes *(go onto Screener question 3)*
 	- No *(Disqualify)*
 
 3. How often, if at all, do you use MyHealtheVet?
@@ -98,6 +97,10 @@ Primary criteria (must-haves)
 
 
 ## Timeline
+- Submit for approval 10/30
+- Kick-off 11/1
+- Interview week 11/1 - 11/10
+- Synthesize and analysis week 11/13 - 11/17 (If, for any reason, it's delayed, the latest to get this study done is the last week of November.)
 
 ### Prepare
 - Pilot #1: 
