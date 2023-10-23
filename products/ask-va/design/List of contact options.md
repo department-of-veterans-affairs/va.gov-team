@@ -5,19 +5,19 @@ Last updated by @tygindraux: October 13, 2023
 This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)).
 
 Jump to:
-- [When to enable or disable contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#when-to-enable-or-disable-contact-options)
-- [How this pattern works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#how-this-patterns-works)
-- [Contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic)
+- [When to enable or disable contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#when-to-enable-or-disable-contact-options)
+- [How this pattern works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#how-this-patterns-works)
+- [Contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#contact-rules-by-topic)
 
 ## When to enable or disable contact options
 
-This is a summary of when to enable or disable contact options in Ask VA. For a complete list, jump to [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic).
+This is a summary of when to enable or disable contact options in Ask VA. For a complete list, jump to [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#contact-rules-by-topic).
 
 This list is alphabetized by category name. 
 
 |Category|Rule|
 |:--|:--|
-|`Benefits issues outside the U.S.`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic))|
+|`Benefits issues outside the U.S.`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#contact-rules-by-topic))|
 |`Burials and memorials`|Email, phone and US Mail are always `ENABLED`|
 |`Center for Minority Veterans`|Email, phone and US Mail are always `ENABLED`|
 |`Center for Women Veterans`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
@@ -25,9 +25,9 @@ This list is alphabetized by category name.
 |`Decision reviews and appeals`|Email, phone and US Mail are always `ENABLED`|
 |`DEERS (Defense Enrollment Eligibility Reporting System)`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Disability compensation`|Email, phone and US Mail are always `ENABLED`|
-|`Education benefits and work study`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic))|
+|`Education benefits and work study`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#contact-rules-by-topic))|
 |`Guardianship, custodianship, or fiduciary issues`|Email, phone and US Mail are always `ENABLED`|
-|`Health care`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md#contact-rules-by-topic))|
+|`Health care`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#contact-rules-by-topic))|
 |`Housing assistance and home loans`|Email, phone and US Mail are always `ENABLED`|
 |`Life insurance`|Email, phone and US Mail are always `ENABLED`|
 |`Pension`|Email, phone and US Mail are always `ENABLED`|
