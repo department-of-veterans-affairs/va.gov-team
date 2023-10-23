@@ -1,0 +1,54 @@
+# Field rules
+
+Last updated by @tygindraux: October 23, 2023
+
+**Jump to:**
+- [Gender identity](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#gender-identity)
+- [Pronouns](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#pronouns)
+- [Social security number](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#social-security-number)
+- [Date of birth](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#date-of-birth)
+- [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#branch-of-service)
+- [DoD/EDIPI number](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#dodedipi-number)
+- [Contact options](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ask-va/design#when-contact-options-are-enableddisabled)
+
+## `Gender identity`
+|If|Then|
+|:--|:--|
+|[all categories]|Display `Gender identity` component (*Required) for `Submitter` in `Chapter 4 of 5: Personal information`|
+
+- Submitter can be the Veteran, dependent, or a third party, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
+
+## `Pronouns`
+|If|Then|
+|:--|:--|
+|[all categories]|Display `Pronouns` component (*Required) for `Submitter` **and** `Who the inquiry is about` in `Chapter 4 of 5: Personal information`|
+
+* Submitter can be the Veteran, dependent, or a third party, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
+* Who the inquiry is about can be the Veteran or dependent, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
+
+## `Social security number`
+|If|Then|
+|:--|:--|
+|[all categories]|Display text input for `Social Security Number` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|
+
+* **Unless** `Who are you asking a question for?` = `A general question`
+
+## `Date of birth`
+|If|Then|
+|:--|:--|
+|[all categories]|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|
+
+* **Unless** `Who are you asking a question for?` = `A general question`
+
+## `Branch of service`
+|If|Then|
+|:--|:--|
+|Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Display select menu for `Branch of Service` (**Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|
+
+* **Unless** `Who are you asking a question for?` = `A general question`
+
+## `DoD/EDIPI number`
+* Update 10/23: This field will be removed from the form because it can be looked up in MPI using name, DOB and SSN.
+
+## When contact options are enabled/disabled
+* Review [List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20contact%20options.md)
