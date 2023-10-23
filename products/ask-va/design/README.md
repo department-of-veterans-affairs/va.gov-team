@@ -10,8 +10,8 @@ We also keep additional design documentation for our engineers to reference, [in
 
 |Document|Description|Last updated|
 |:--|:--|:--|
-|[List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|Describes when to disable or enable contact options by category and topic|October 13, 2023|
 |[Field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)|Describes when to apply certain fields based on their rules|October 23, 2023|
+|[List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|Describes when to disable or enable contact options by category and topic|October 13, 2023|
 |[Category, topic and subtopic labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md)|Lists the agreed names of the categories, topic and subtopics for MVP|October 17, 2023|
 
 ### Get in touch
