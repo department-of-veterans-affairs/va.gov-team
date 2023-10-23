@@ -12,32 +12,32 @@ This is when business lines ([review list of stakeholders](https://github.com/de
 
 This list is alphabetized by category name. Each field is marked as:
 
-- NEED - Business lines need this information to answer an inquiry. It is a required field.
-- DON'T NEED - Business lines don't need this information to answer an inquiry.  It is hidden from the form, but the field still exists in the back-end.
-- "Optional" - When given a choice between NEED and [DON'T NEED], business lines entered "Optional." This indicates they don't need the information, but it might be nice to have. Because we want don't want to collect unnecessary data from submitters, we considered "Optional" answers as [DON'T NEED].
+- ✅ = Business lines **need** this information to answer an inquiry. It is a required field.
+- ✖️ = Business lines **don't need** this information to answer an inquiry.  (It is hidden from the form, but the field still exists in the back-end.)
+- 🟡 = When given a choice between **need** and **don't need**, some business lines entered "Optional." This indicates they don't need the information, but it might be nice to have. Because we want don't want to collect unnecessary data from submitters, we considered "Optional" answers as [DON'T NEED].
 
 |Category|First/last name|Branch of service|Service number|SSN|DoD/EDIPI|Service start date|Service end date|DOB|Claim number|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|`Benefit issues outside the U.S.` > Education|need|don't need|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`Benefit issues outside the U.S.` > VBA|NEED|NEED|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
-|`Burials and memorials` > NCA|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`Burials and memorials` > VBA|NEED|NEED|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
-|`Center for Minority Veterans`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`Center for Women Veterans`|NEED|NEED|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
-|`Debt for benefit overpayments and copay bills`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`Decision reviews and appeals`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`DEERS (Defense Enrollment Eligibility Reporting System)`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`Disability compensation`|NEED|NEED|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
-|`Education benefits and work study`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`Guardianship, custodianship, or fiduciary issues`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
-|`Health care`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`Housing assistance and home loans`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
-|`Life insurance`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`Pension`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
-|`Sign in and technical issues`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`Survivor benefits`|NEED|NEED|[DON'T NEED]|NEED|[DON'T NEED]|[DON'T NEED]|[DON'T NEED]|NEED|"Optional"|
-|`Veteran ID Card (VIC)`|NEED|NEED|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
-|`Veteran Readiness and Employment`|NEED|[DON'T NEED]|[DON'T NEED]|NEED|NEED|[DON'T NEED]|[DON'T NEED]|NEED|[DON'T NEED]|
+|`Benefit issues outside the U.S.` > Education|✅|✖️|✖️|✅|✖️|✖️|✖️|✅|✖️|
+|`Benefit issues outside the U.S.` > VBA|✅|✅|✖️|✅|✖️|✖️|✖️|✅|🟡|
+|`Burials and memorials` > NCA|✅|✖️|✖️|✅|✅|✖️|✖️|✅|✖️|
+|`Burials and memorials` > VBA|✅|✅|✖️|✅|✖️|✖️|✖️|✅|🟡|
+|`Center for Minority Veterans`|✅|✖️|✖️|✅|✅|✖️|✖️|✅|✖️|
+|`Center for Women Veterans`|✅|✅|✖️|✅|✖️|✖️|✖️|✅|🟡|
+|`Debt for benefit overpayments and copay bills`|✅|✖️|✖️|✅|✖️|✖️|✖️|✅|✖️|
+|`Decision reviews and appeals`|✅|✖️|✖️|✅|✅|✖️|✖️|✅|✖️|
+|`DEERS (Defense Enrollment Eligibility Reporting System)`|✅|✖️|✖️|✅|✅|✖️|✖️|✅|[DON'T NEED]|
+|`Disability compensation`|✅|✅|✖️|✅|✖️|✖️|✖️|✅|🟡|
+|`Education benefits and work study`|✅|✖️|✖️|✅|✖️|✖️|✖️|✅|✖️|
+|`Guardianship, custodianship, or fiduciary issues`|✅|✖️|✖️|✅|🟡|✖️|✖️|✅|🟡|
+|`Health care`|✅|✖️|✖️|✅|✅|✖️|✖️|✅|✖️|
+|`Housing assistance and home loans`|✅|✖️|✖️|✅|✖️|✖️|✖️|✅|🟡|
+|`Life insurance`|✅|✖️|✖️|✅|✅|✖️|✖️|✅|✖️|
+|`Pension`|NEED|✖️|✖️|✅|🟡|✖️|✖️|✅|🟡|
+|`Sign in and technical issues`|✅|✖️|✖️|✅|✅|✖️|✖️|✅|✖️|
+|`Survivor benefits`|✅|✅|✖️|✅|✖️|✖️|✖️|✅|🟡|
+|`Veteran ID Card (VIC)`|✅|✅|✖️|✅|✅|✖️|✖️|✅|✖️|
+|`Veteran Readiness and Employment`|✅|✖️|✖️|✅|✅|✖️|✖️|✅|✖️|
 
 ## Final recommendations on military service fields
 
