@@ -109,27 +109,30 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |---|---|
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|Types of errors logged:| ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/488d038e-2386-4870-bcc9-151bc52ba8d2)
+|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| None |
 
 
 ## Post Launch Metrics 
 ### 1-week results at 100%
 ||Results|
 |---|---|
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
+|Any issues with VA handling/processing?|No|
+|Types of errors logged:|![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/08720c88-e88b-485a-a804-5c7c35843b33)
+|
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?|No|
 |If yes, what:||
 
 
 ### 1-month results at 100%
 ||Results|
 |---|---|
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
-|If yes, what:||
+|Any issues with VA handling/processing?|No|
+|Types of errors logged:|![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/49697f47-93b6-4e94-8ed3-9a2c4a7ed056)
+|
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?| No|
+|If yes, what:|We're going to explore [#65019](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65019) as a way to reduce unecessary traffice to the BE, right now we check for a disability rating on ALL users when, in some cases we know even before sending the query to the BE the user will not have a rating (eg. LOA1, non-veteran users etc), we can reduce noise/traffic and lower the number of false positive errors|
 
 ## Post-launch Questions 
 
