@@ -38,8 +38,8 @@ Now I'm going to ask you to open a new tab in your chosen browser and go to stag
 Okay great, I can see your screen. Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in in the chat. 
 
 - *Once the full page has loaded* Now that you've logged in, what's standing out to you first?
-- *If they don't mention the indicators* Did you notice the red dot or the red notification badge with the number in it?
-- *If the participant is colorblind* Do you have any trouble seeing the dot or the badge with the number in it? What color does it appear to be to you?
+- *If they don't mention the indicators* Did you notice the dot or the notification badge with the number in it that are in the Health care section?
+- *For colorblind participants* Do you have any trouble seeing the dot or the badge with the number in it? What color do they appear to be to you?
 - *For colorblind participants* How do you experience notifications on other websites and on your phone? Are there some types of notifications that are difficult or impossible for you to interpret? Is there any website or app that does it particularly well from a colorblihndness standpoint? 
 - What do you think each of these red indicators mean?
 - How do you think each of these red dots would disappear? What about the badge with the number in it?
