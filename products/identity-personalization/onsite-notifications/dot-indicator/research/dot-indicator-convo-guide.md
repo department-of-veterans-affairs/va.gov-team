@@ -1,4 +1,4 @@
-# Conversation Guide for Authenticated Experience team - Dot Indicator, October 2023
+# Conversation Guide for Authenticated Experience My VA team - Dot Indicator, October 2023
 
 - [ ] Make sure password has been changed from previous session for staging account
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
