@@ -46,6 +46,7 @@ We're simply changing the endpoint we're using to read the Disability rating whi
 - Launch to 10%: August 30, 2023
 - Launch to 25%: September 6, 2023
 - Launch to 50%: September 12, 2023
+- Launch to 100%: September 19,2023
 
 ### Communications
 
