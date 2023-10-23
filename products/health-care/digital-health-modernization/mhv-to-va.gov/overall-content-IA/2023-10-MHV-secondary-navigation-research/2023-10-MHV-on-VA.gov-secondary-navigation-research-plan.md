@@ -33,8 +33,8 @@ This research will inform us of users' pain points when using the current and th
 * In what situations might a user want to jump directly from one tool to another? 
 
 ### Hypotheses 
-* Users want to be able to jump from any part of MHV on VA.gov back to the MHV on the VA.gov landing page. They will do this by clicking on the VA logo in the top left of the website. 
-* Users expect to be able to directly navigate from a page 2+ levels down in the IA (Allergies) to a page 2+ levels down in the IA in a different section of the tool (Inbox). 
+* Users want to be able to jump from any part of MHV on VA.gov back to the MHV on the VA.gov landing page. They will do this by clicking on the VA logo at the top left of the website. 
+* Users expect to be able to directly navigate from a child (or sub-tool, e.g. Sent of Secure messages) of a tool to a child of another tool.
 * Mobile users will default to using the "menu" button in the primary navigation bar when trying to navigate from one part of MHV on VA.gov to another.
 * Mobile users will rarely use breadcrumbs to navigate. 
 
