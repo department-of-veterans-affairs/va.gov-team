@@ -1,10 +1,8 @@
-# Pending appointment requests
+# Pending appointments
 
 ## Overview
 
 Veterans use this list to get a quick understanding appointments they have requested that haven't been scheduled. 
-
-**Staging URL:** staging.va.gov/health-care/schedule-view-va-appointments/appointments/pending
 
 ## User stories
 
@@ -13,9 +11,25 @@ As a Veteran, I want an overview of appointments I've requested to see if they h
 ## Requirements
 
 **Functional**
-- Display all supported request types
+
 - Display canceled requests that are up to 120 days old
 - Order requests by date/time the request was created. Most recent requests appear at the top of the list.
+
+- Pending and canceled requests from VistA must display in VAOS if all the following are true:
+  - VistA Type Request Type = VETERAN AND 
+  - Create Date is  <= 120 days.   
+- Pending and canceled requests from HSRM must display in VAOS if the Create Date is  <= 120 days.   
+- All pending requests must be cancellable.
+
+## Technical notes
+- If a CC request is canceled, the HSRM Comments field must be updated to CANCELLED_BY_PATIENT.” This is an indication to the staff to cancel the task. 
+- The VistA system (SDEC Appointment Request file 409.85) must be updated with the following data if a VA request is cancelled:
+  - CURRENT STATUS: CLOSED    
+  - DATE DISPOSITIONED: current date      
+  - DISPOSITIONED BY: SDESOITEAS,SRV
+  - DISPOSITION: VET SELF-CANCEL        
+
+
 
 ## User interface design
 
