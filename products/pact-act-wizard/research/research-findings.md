@@ -2,11 +2,10 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), PACT Act Wizard, Sitewide Public Websites**
 
-Date: 10/24/2023
+Date: 10/23/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
-[Research readout TBD]()
 
 <br>
 
@@ -148,7 +147,7 @@ Both time periods | 3 | 8-10 | 8.7 | 10
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
 ### 2. Some of the wizard questions were confusing to some participants
-#### 3 participants had difficulty with the service years question
+#### Three participants had difficulty with the service years question
 ![q-service-years](./images/q-service-years.png)
 
 One participant **thought that none of the options applied** to him. When prompted to try again, he blamed it on his tendency *"to read through stuff quicker than I should."* He thought that rewording the radio button options to "1990 to present" and "Prior to 1989" might be clearer.
@@ -167,7 +166,7 @@ A third participant didn't select "both time periods" until his second time thro
      1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
 1. Consider adding a "Not sure" option that would result in ALL questions being asked (like the current "Both time periods" option).
 
-#### 2 participants didn't know what C-123 planes were in the Agent Orange question
+#### Two participants didn't know what C-123 planes were in the Agent Orange question
 ![q-C-123-plane-Agent-Orange](./images/q-C-123-plane-Agent-Orange.png)
 
 When they saw the above question, 2 participants said (unprompted) that they **didn't know what "C-123 airplanes" are**. Both of them answered "I'm not sure" to the question. 
@@ -177,7 +176,7 @@ Two other participants mentioned that they're familiar with C-123's but others m
 #### RECOMMENDATION: 
 1. Consider adding a brief description or link to **information about C-123 planes** so that people won't stop and wonder what they are.
 
-#### 1 participant had questions about another Agent Orange question 
+#### One participant had questions about another Agent Orange question 
 ![q-DMZ-Agent-Orange](./images/q-DMZ-Agent-Orange.png)
 
 One participant asked **what the word "serve" means**--"in country" (on the ground), or does it also include on a ship nearby or in the airspace above? 
@@ -192,7 +191,7 @@ This participant also asked **if there is a minimum duration for the time that y
 1. Consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
 1. Consider revising the content to clarify what is meant by the word "near" in the DMZ option.
 
-#### 1 participant was unclear about what "neutral zone" means
+#### One participant was unclear about what "neutral zone" means
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
 
 One participant asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations with the FOB (Forward Operating Base) names on it for the places she lived, transported supplies to, had a day pass to, etc. Without this information, she answered "not sure" to the question.
@@ -449,23 +448,23 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 <details>
   <summary>Intro page (Click to show screenshot)</summary>
 
-  ![intro-pg]()
+  ![intro-pg](./images/intro-pg.png)
   
 </details>
 
 <details>
   <summary>Questions in the wizard (Click to show screenshots)</summary>
 
-  ![q1]()
-  ![q2]()
-  ![q3]()
-  ![q4]()
-  ![q5]()
-  ![q6]()
-  ![q7]()
-  ![q8]()
-  ![q9]()
-  ![q10]()
+  ![q1](./images/q1.png)
+  ![q2](./images/q2.png)
+  ![q3](./images/q3.png)
+  ![q4](./images/q4.png)
+  ![q5](./images/q5.png)
+  ![q6](./images/q6.png)
+  ![q7](./images/q7.png)
+  ![q8](./images/q8.png)
+  ![q9](./images/q9.png)
+  ![q10](./images/q10.png)
   
 </details>
 
@@ -473,20 +472,32 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 <details>
   <summary>Static results pages (Click to show screenshots)</summary>
 
-  ![results--benefit-eligibility]()
-  ![results--lejeune]()
+  ![results--benefit-eligibility](./images/results--benefit-eligibility.png)
+  ![results--lejeune](./images/results--lejeune.png)
      
 </details>
 
 <details>
-  <summary>Interactive R1 results pages (Click to show screenshots)</summary>
+  <summary>Interactive R1-1 results page (Click to show screenshots)</summary>
 
-  ![Results-R1-1-top]()
-  ![Results-R1-1-bottom]()
-  ![Results-R1-2-top]()
-  ![Results-R1-2-mid]()
-  ![Results-R1-2-bottom]()
-  ![Results-R1-2-GulfWar-accordion-open]()
+  ![Results-R1-1-top](./images/Results-R1-1-top.png)
+  ![Results-R1-1-bottom](./images/Results-R1-1-bottom.png)
+     
+</details>
+
+<details>
+  <summary>Interactive R1-2 results page (Click to show screenshots)</summary>
+
+  ![Results-R1-2-top](./images/Results-R1-2-top.png)
+  ![Results-R1-2-mid](./images/Results-R1-2-mid.png)
+  ![Results-R1-2-bottom](./images/Results-R1-2-bottom.png)
+     
+</details>
+
+<details>
+  <summary>Interactive R1-2 results page with Gulf War conditions open (Click to show screenshots)</summary>
+
+  ![Results-R1-2-GulfWar-accordion-open](./images/Results-R1-2-GulfWar-accordion-open.png)
      
 </details>
 
