@@ -1,6 +1,6 @@
 # Project outline: Enhanced Military Information
 
-**Updated 10/05/2023:**  adding key decisions table
+**Updated 10/24/2023: Added links to 526EZ**
 
 ### Communications
 
