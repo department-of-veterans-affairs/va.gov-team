@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: October 23, 2023
+Last updated by @tygindraux: October 24, 2023
 
 This document is for our design team to communicate field rules to our engineering and product folks.
 
