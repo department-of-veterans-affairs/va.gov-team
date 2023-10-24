@@ -27,14 +27,14 @@ Team Name - Cartographers
 - [ ] Lauren Alexanderson (OCTO Product Sponsor) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule meetings.
 - [ ] Patrick Bateman (OCTO Product Lead)
 - [ ] Lynne Johnson (Delivery Manager)
-- [ ] Tom Anderson (Product Manager)
-- [ ] Cara Frissell (Research Lead)
+- [ ] Wes Rowe (Product Manager)
 - [ ] Florence McCafferty (Design Lead)
 - [ ] Jonathan Nelson (Designer)
 - [ ] Keith Cheung (Designer)
 - [ ] Carlos Felix (Technical Architect)
 - [ ] Jim Zaccardo (Full stack developer)
 - [ ] Richard Davis (Full stack developer)
+- [ ] Daniel Cloud (Full stack developer)
 - [ ] Angela Fowler (Accessibilty Specialist)
 - [ ] Sara Sterkenberg (Information Architect)
 
@@ -44,16 +44,15 @@ Team Name - Cartographers
 
 ### Workflow + Cadence
  - 2 week sprints (start every other Tuesday)
- - Quarterly plans broken down into sprint plans
-  
+   
 #### Stand-up
-- Check in on people and product progress
-- 3 Question Format: What I did yesterday? What will I do today? Any blockers?
+- Check in on people and sprint goal progress
+- 3 Question Format: What I accomplished yesterday? What will I accomplish today? Any impediments?
 
 ##### Zoom Stand-up 
 - Daily @ 12:00 PM ET
-- 15 min, with parking lot after if needed. Folks can drop off after stand up.
-- We sometimes opt to have a Slack-up if most of the team unavailable
+- 15 minutes with parking lot after if needed. Folks can drop off after stand up.
+- We sometimes opt to have a Slack-up if most of the team unavailable.
 - Parking lot immediately following to discuss non-stand up topics, problem solve, etc.
 
 <br/>
