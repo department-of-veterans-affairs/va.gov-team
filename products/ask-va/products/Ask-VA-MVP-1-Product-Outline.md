@@ -134,7 +134,11 @@ Communication Plan:
 
 ### Current Status
 
-- Drafting product ouline and conducting discoveries/spikes
+- 1. Discovery Spikes
+- 2. **Create Prototype** (Current Status)
+- 3. Usability Testing
+- 4. Updates to product after usability testing
+- 5. Launch Phase 1
 
 ### Key Decisions
 
