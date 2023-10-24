@@ -111,7 +111,7 @@ This list is alphabetized by category name.
 |`Guardianship, custodianship, or fiduciary issues`|Accounting issue|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Guardianship, custodianship, or fiduciary issues`|Investigations and field examinations|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Guardianship, custodianship, or fiduciary issues`|About the program|`ENABLED`|`ENABLED`|`ENABLED`|
-|`Health care`|Family health benefits|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Health care`|Family health benefits|`ENABLED`|`ENABLED`|`**DISABLED**`|
 |`Health care`|Eligibility and how to apply|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
 |`Health care`|Getting care at a local VA medical center|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Health care`|Career opportunities at VA health facilities|`ENABLED`|`ENABLED`|`ENABLED`|
@@ -120,7 +120,7 @@ This list is alphabetized by category name.
 |`Health care`|Audiology and hearing aids|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
 |`Health care`|Prosthetics|`ENABLED`|`**DISABLED**`|`**DISABLED**`|
 |`Health care`|Women's health services|`ENABLED`|`ENABLED`|`ENABLED`|
-|`Health care`|Foreign Medical Program|`ENABLED`|`ENABLED`|`ENABLED`|
+|`Health care`|Foreign Medical Program|`ENABLED`|`ENABLED`|`**DISABLED**`|
 |`Housing assistance and home loans`|Appraisals|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Housing assistance and home loans`|Funding fee refund|`ENABLED`|`ENABLED`|`ENABLED`|
 |`Housing assistance and home loans`|Home Loan Certificate of Eligibility (COE) or Restoration of Entitlement (ROE)|`ENABLED`|`ENABLED`|`ENABLED`|
