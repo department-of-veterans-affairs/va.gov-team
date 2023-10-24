@@ -72,7 +72,7 @@ Throughout this endeavor, it will be crucial that we collaborate closely with ou
 
 We should use every interaction with our business partners as an opportunity to demonstrate our expertise and commitment to helping them succeed in getting this work across the finish line.  We want to earn their trust by reinforcing that we are on the same team, and are partnering _with_ them, versus actively trying to replace them.  At the end of this initiative, the expectation is that OCC and their respective product teams will continue to own and maintain their products long-term.
 
-Refer to the [Collaborating Teams page] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/cto-health-team/Collaborating-Teams.md) for a high level list of the teams and POCs we may interact with. 
+Refer to the [Collaborating Teams page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/cto-health-team/Collaborating-Teams.md) for a high level list of the teams and POCs we may interact with. 
 
 ### Review documentation and project information
 
