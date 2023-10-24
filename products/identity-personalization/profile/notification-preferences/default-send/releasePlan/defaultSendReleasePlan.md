@@ -1,6 +1,6 @@
 # Default Send 
 
-**Updated:** 10/23/2023
+**Updated: 10/24/2023** Launch Dates!
 
 ## Table of Contents
 
