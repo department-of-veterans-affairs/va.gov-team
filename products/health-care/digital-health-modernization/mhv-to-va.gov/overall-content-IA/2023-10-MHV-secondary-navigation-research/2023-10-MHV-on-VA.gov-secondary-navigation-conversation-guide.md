@@ -100,6 +100,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
 - (_Pay attention to_) Where does participant click first, and ask why?
 - (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
+- (_If participant didn't click or didn't see the direct link to ask a question_) Do you expect to be able to directly get to secure message from here?
 
 
 **_Task 2 - Medications and SM_** (from where they left off) Imagine that you have taken some medications for a while. You want to check which medications need to be renewed, and ask your healthcare team how to renew them. 
