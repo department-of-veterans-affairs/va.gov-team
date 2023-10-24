@@ -2,7 +2,7 @@
 
 Last updated by @tygindraux: October 23, 2023
 
-This document summarizes the design of the Ask VA form. We've organized and documented the design requirements for Ask VA by category.
+This document summarizes the design of the Ask VA form. It describes similarities (and differences) between categories in order to make it easier for our engineers to see the patterns.
 
 ## Model categories
 
