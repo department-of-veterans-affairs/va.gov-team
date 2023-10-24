@@ -291,7 +291,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 
 ------------------------------------------------------------------------------
-## Step 2 Veteran household financial information - spouse information
+## Step 2 Veteran household financial information - spouse information - Spouse Info PREFILLED
 ------------------------------------------------------------------------------
 
 ### Page: Spouse information - AUTHENTICATED View
