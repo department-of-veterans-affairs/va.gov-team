@@ -53,7 +53,7 @@ This list is alphabetized by category name. Each field is marked as:
 
 **These fields will change to accommodate Veterans who are known by their `Service number`, not their `Social security number`.**
 
-The submitter will need to input at least one of the following:
+The submitter will be required to input at least one of the following, except in special circumstances (see [Field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)).:
 - Veteran's `Social security number`
 - Veteran's 'Service number`
 
