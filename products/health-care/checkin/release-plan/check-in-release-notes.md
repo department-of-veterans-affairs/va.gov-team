@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 10/12/2023
+- Updated Check-in travel pages to use the additional info component for alerts to reduce confusion for Veterans
+    - [Ticket 65480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65480)
+
 ### 10/11/2023
 - Updated content in the Needs Help section on All Pre-Check-in and Check-in Pages to be more clear to the Veterans
     - [Ticket 65479](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65479)

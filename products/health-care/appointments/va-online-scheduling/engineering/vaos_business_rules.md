@@ -154,7 +154,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
     - For community care requests, they're sent to the community care preferences page
     - For VA requests, they're sent to the reason for visit page
 
-### Community care closest city page
+### Nearest city page
 
 - If a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to
 
@@ -190,7 +190,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
     - For community care requests or the direct path, they're sent to the contact info page
     - For VA requests, they're sent to the visit type page
 
-### Visit type page (request path)
+### Preferred modality (request path)
 
 - Users must choose the type of visit they'd like to have
     - Office visit

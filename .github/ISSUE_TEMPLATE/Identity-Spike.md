@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-###Description of Spike
+### Description of Spike
 
 **In order to** GOAL,
 <!-- What do we want to accomplish in this spike? -->

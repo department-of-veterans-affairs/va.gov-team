@@ -16,7 +16,7 @@
 Slack for real-time feedback from observers.
 - [ ] Mute your Slack notifications.
 - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-- [ ] Send out the link to the observer Mural board (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1688057183385/892e08ae73c1a90432e0f8bb6cd8a620ee8bf2dc?sender=ub0f383fafad4c2df7fc53935) to observers in the thread
+- [ ] Send out the link to the observer Mural board (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1698174629881/36840450414ec97af58c80e6426b04f043c2c2a7?sender=ueeece9e244394145c84e5173) to observers in the thread
 - [ ] Sign into the Zoom website via Google as Perigean w/the credentials provided and start the Zoom meeting 5-10 minutes before 
 
 
@@ -59,7 +59,7 @@ Let’s start with a few questions...
 
 1. What benefits other than healthcare, if any, do you receive from the VA? 
 
-2. 
+2. Do you normally use your phone or desktop to do things on VA.gov?
 
 **Screen sharing instructions**
 
@@ -76,63 +76,82 @@ _Instructions for folks NOT using screenreaders:_
 Thanks for your patience in figuring that out. 
 
 - *Backup plan if they cannot figure out how to share screen:*
-  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
+  - Okay, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 
 ## Interview - 50 minutes 
 
-Now I need to share with you a link to the prototype. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
+Great, now the fun part begins. I'd like you to know that I will share two prototype links with you during our chat today. So, now I will share with you the first link. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
 
 Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
 
-_Send link to prototype:
+_Send link to prototype:_
 
-**_Task 1 - _**  It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+**_Task 1 - MR and SM_**(Start from the signed-in MHV landing page) You want to check your lab result from your recent visit and ask a question about your lab result. It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
+- (_If use search functionality_): Please tell me why you searched for that term. What information were you hoping it would bring up?
+- What do you think should happen if you (_do something_)?
+- (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the information around what was decided for the next steps in your care. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
+- (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on the second menu_)?
+- (_If participant still cannot find it, direct them to it and continue with the interview._)
+
+**Must ask:**
+- (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
+- (_Pay attention to_) Where does participant click first, and ask why?
+- (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
+- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
+- (_If participant didn't click or didn't see the direct link to ask a question_) Do you expect to be able to directly get to secure message from here?
+
+
+**_Task 2 - Medications and SM_** (from where they left off) Imagine that you have taken some medications for a while. You want to check which medications need to be renewed, and ask your healthcare team how to renew them. 
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
+- What are you thinking as you (_go somewhere, do something_)? 
+- What do you think should happen if you (_do something_)?
+
+**Must ask:**
+- (_If participant goes back to MHV landing page for medications_) Why did you go back to the MHV landing page?
+- (_Pay attention to_) Did they use breadcrumbs?
+- (_If participant clicks on mega menu, stop them from continuing_) Why did you click there, and what do you expect to find there?
+- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
+
+
+**_Task 3 - Appointments_** (from where they left off) You've been assigned to a new doctor recently, but you don't remember their name. You want to check your provider's name from your recent appointment visit.
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
+- What are you thinking as you (_go somewhere, do something_)? 
+- Why did you (_do that, go there, try that_)? 
+- What do you think should happen if you (_do something_)?
+
+**Must ask:**
+- (_If participant looks for past appointments in the secondary nav._) Do you think you'd find past appointments in the menu, and why?
+- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
+- (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
+
+**If participant clicks on the mega menu during any task, don't let them go further, but ask:**
+- What do you expect to find there?
+- What do you think the differences are between the main and secondary menus (pointing them out)?
+
+
+**_Task 4 - MR_** (from where they left off) Imagine you're going on an overseas trip, and you need to download all your medical records. Where would you go to do that?
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
+- What are you thinking as you (_go somewhere, do something_)? 
+- Why did you (_do that, go there, try that_)? 
 - (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
 - What do you think should happen if you (_do something_)?
-- (_If participant gets stuck because they navigate to a spot where they will be unable to find the AVS_) It looks like you're not finding the information around what was decided for the next steps in your care. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
-- (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_signing in/ clicking on My HealtheVet tab_)?
-- (_Once participant is on My HealtheVet landing page_) Where would you find information about the next steps in your care from here?
-- (_If participant still cannot find AVS, direct them to either Appts or MR and continue with interview._) 
+- (_If participant can't find it_) Where would you expect to find that? (If still struggle, tell me it's under medical records.)
 
-
-**_Task 2 - _** 
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
-- What are you thinking as you (_go somewhere, do something_)? 
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-- What do you think should happen if you (_do something_)? 
+**Must ask:**
+- (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
+- (_Pay attention to_) Where does participant click first, and ask why?
+- (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
+- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 
 
 
-**_Task 3a - _** 
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
-- What are you thinking as you (_go somewhere, do something_)? 
-- Why did you (_do that, go there, try that_)? 
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-- What do you think should happen if you (_do something_)? 
-
-**_Task 3b - _**  Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
-- What are you thinking as you (_go somewhere, do something_)? 
-- Why did you (_do that, go there, try that_)? 
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-- What do you think should happen if you (_do something_)? 
-
-**_Task 4 - _** 
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
-- What are you thinking as you (_go somewhere, do something_)? 
-- Why did you (_do that, go there, try that_)? 
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-- What do you think should happen if you (_do something_)? 
-
-
-- **I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
+**I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
 - _If the participant says yes:_ Is there any part of our discussion that you would NOT want to be shared in a video clip? 
 
 ## Thank You and Closing - 1 minute

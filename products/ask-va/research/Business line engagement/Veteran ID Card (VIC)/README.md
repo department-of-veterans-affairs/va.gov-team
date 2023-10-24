@@ -2,7 +2,7 @@
 
 ### Business line
 
-Veteran Identification Card (VIC)
+Veteran ID Card (VIC)
 
 ### Key stakeholders
 

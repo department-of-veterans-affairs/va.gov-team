@@ -56,6 +56,8 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 ## Go Live
 
+[See our measuring success section here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter#measuring-success)
+
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|

@@ -59,23 +59,23 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 
 **Contractors (Agile Six)**
 - Delivery Manager: Lynne Johnson
+- Product Manager: Wes Rowe
 - Technical Architect: Carlos Felix
 - Team Coach: Mike Collier
 - Delivery Coach: Stephen Smythe
 - Design Lead: Florence McCafferty
-- Product Manager: TBD
 - Designer: Keith Cheung
 - Full Stack Engineer: Richard Davis
 
 **Contractors (Ad Hoc)** 
 - Design: Jonathan Nelson
-- Research Lead: Cara Frissell
+- Engineering: Daniel Cloud
 - Engineering: Jim Zaccardo
 - Accessibility: Angela Fowler
 - Information Architect: Sara Sterkenberg
+- QA (shared with Health Enrollment): Fletcher Bonds
 
-**Contractors (Oddball)
-- 508 Accessibility Specialist: Sara Smith
+
 
 ## Business Partners
 

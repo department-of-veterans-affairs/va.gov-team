@@ -111,10 +111,11 @@ All interviews will be conducted online on mobile or desktop devices via Zoom. U
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-- [Moderated interview conversation guide TBD](url goes here)
+- [Moderated interview conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/conversation-guide-gen.md)
 
-- [Usability test conversation guide TBD](url goes here)
-- [Link to prototype TBD](url goes here)
+- [Usability test conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/conversation-guide-eval.md)
+- [Link to prototype PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/Dependents%20Research%20Mobile%20Prototype.zip)
+- [Link to prototype Sketch file](https://www.sketch.com/s/149b2ccf-af21-4c71-9ca8-2ef2ae8af9fc)
 
 	
 ## Recruitment	

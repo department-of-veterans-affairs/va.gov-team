@@ -1,3 +1,210 @@
+## Meeting Notes for CRM Sync on 10/23/2023
+
+`sec_id` potential issues; AVA data questions
+
+### Attendees:
+
+* **AVA FE Team:** Khoa, Joe, Jacob, Eddie
+* **AVA CRM Team:** JD, Chris
+* **Note Taker:** Jacob
+
+### Key Takeaways:
+
+1. User Auth: `sec_id` may stop being a reliable key to track users in the next 6-9 months. Identity team recommends using other fields.
+   * Current SSOe solution leverages expensive, quirky hardware from IBM. Trying to move away from that.
+   * Possible alternative is the credential_UUID, plus originating login provider.
+   * There is a mapping table used by Identity team that maps sec_id / EDIPI / ICN.
+   * When using one of the 4 identity providers, verified users have an MPI record. (Regardless of whether they're a vet or not.)
+2. Ed Facilities: CRM agents edit/add facilities when a facility does not exist in the list, as reported by a submitter.
+   * This is an optional field.
+   * If submitter can't find the school code, they can leave it blank and pick the state (with optional feedback).
+   * The code is used to find the state, so having just the state is enough for routing.
+3. VA Facility: This is a mostly-static list from PATS-R.
+   * If there's a discrepency, someone internal would raise it.
+   * This list doesn't change much.
+   * VA Facilities are hospitals.
+   * This is a required field.
+   * If not found, the submitter can just pick another facility, and include feedback with their selection.
+4. AVA Profile / VA Profile:
+   * Used for pre-fill.
+   * Backend uses the pre-filled values, so those fields still need to be included with the inquiry that gets submitted.
+   * Jacob to compare with the data dictionary to see which fields may be missing.
+   * Need to have a business email and a personal email to split the dashboard into personal / business tabs.
+
+### Action Items:
+
+- [ ] Jacob to compare with the AVA Profile data dictionary to the VA Profile fields to see which fields may be missing.
+- [ ] Chris believes that the sec_id may be a substring of the ICN. Needs to verify using the data that they have.
+
+
+-----
+
+
+## Meeting Notes for CRM Sync on 10/19/2023
+
+App Insights; Project Plan; Medallia; Field Removal; Teams for Syncs; sec_id Usage; AVA CRM Lower Environments
+
+### Attendees:
+
+* **AVA FE Team:** Khoa, Joe, Becky, Ruchi, Jacob
+* **AVA CRM Team:** JD, Natalie, Tina
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+1. Getting a dump of the App Insights data was discussed. Joe sent an email to the key players to narrow the scope and better define what the AVA FE team is looking for.
+2. The potential issues around `sec_id` were discussed. Joe shared Trevor's (from Identity Team) initial comment and response to Joe's follow up questions. Baseed on Trevor's response, and the AVA CRM team's experience in PROD, I believe this is a non issue. It's likely only an issue for people who have only ever logged in on the mobile app, bypassing the SSOe gateway.
+3. Medallia was discussed in the context of Power Pages. It looks like the AVA CRM team will be blazing a new trail. Becky to send effort, acceptance criteria adependencies and filalized survey questions to Shelby.
+4. Removing (rather hiding) fields was discussed. Chris emphasized the point that "required" might be interpreted by the CRM agents as "really nice to have", and described possible pitfalls around inquiry rerouting. Becky will meet with Kathleen to verifyy that the hidden fields won't affect routing, then plan a joint announcement from both teams to the LOBs as a draft email to the channels that Kathleen already has established for AVA CRM communications.
+5. The move to MSFT Teams was mentioned again. Joe needs to remove the Zoom invite for the Thursday syncs and resend as Teams invite.
+6. The project plan was discussed. The dates will need to be examined and tweaked. Natalie to create a MSFT Project file to replace the current spreadsheet.
+7. Bharat et.al. mentioned the lower environments for the AVA CRM team. Bharat to send an email, briefing them.
+
+### Action Items:
+
+- [ ] ~Joe - Get list of fields to collect from App Insights data to CRM team ASAP - target of 10/19's sync.~
+- [ ] ~Joe - Coordinate discussion of the use of `sec_id` in the current and new AVA applications.~
+- [ ] Natalie - convert the API Project plan from Excel -> MS Project by 10/31.
+- [ ] Ruchi and Becky - add the other dependencies in the Project plan by next thursday 10/26.
+- [ ] Joe - add Natalie to the Teams folder.
+- [ ] AVA CRM and AVA FE teams - annotate the projedct plan spreadsheet with concerns, dates, questions, ..
+- [ ] Bharat - send out email brieffing of lower environments.
+- [ ] JD - see if it's possible to export all the App Insights data.
+- [ ] Becky and Kathleen - check that hiding military information fields won't affect routing / system. Draft email to Lobs.
+- [ ] Kathleen - send effort, acceptance criteria, dependencies, finaliized survey questions to Shelby.
+
+- [ ] Kathleen - Create new placeholder task in JIRA for the Medallia survey work. Send effort, acceptance criteria, dependencies & finalized survey questions to Shelby.
+- [ ] Becky - Ask Medallia team about experience on other sites.
+- [ ] Becky - Touch base with Kathleen on military information fields this week. Check that fields won’t affect routing. Draft email.
+- [ ] Becky/Kathleen - [Hold after convo with Kathleen] Communicate to business teams about military information. Notify on CCB in October 27th. Send out email in tandem (Kathleen and Becky) to AVA distribution email.
+
+Carryover action items:
+
+- [ ] ~JD and the va.gov AVA integration team will look for folks with KQL (Kusto Query Language) experiennce to help massage the data needed for KPIs.~
+- [x] Joe - Present API Docs and granular project plan to this meeting on Thursday (10/19).
+- [ ] Joe - Incorporate the steps for "done" in the granular project timeline.
+
+
+----
+
+## Meeting Notes for CRM Sync on 10/17/2023
+
+Admin; Data Analysis; User Identifiers; Surveys; Field Removal
+
+### Attendees:
+
+* **Integration Team:** Khoa, Joe, Becky, Ruchi, Em
+* **CRM Team:** Jaime, Maria, Shelby, Bharat, Kathleen, Tina, Natalie, Chris
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+1. Ruchi let the team know that we'll be using MS Teams for future meetings, and that invitations will be sent to everyone's VA.gov email. Bharat requested that we include the CRM team's group email, which will send the invite to both their VA emails and their contractor emails.
+2. Joe requested that we get a copy of the raw data for running analysis and generating reports and graphs, rather than the planned aggregated data. An action item was added for Joe to send a list of the data (columns) that we'll need.
+3. Joe brought up a concern that  was expressed by one of the members of the Identity team surrounding the use of `sec_id`. Per Trevor, "Not everyone who authenticates on VA.gov will have a sec_id, so it’s possible there are other identifiers that are more appropriate to use (again, I can help describe which ones you may prefer using, depending on your requirements)." One alternative mentioned in the sync was to send the method of authentication and the key that the authentication provider uses. This could have broad implications for the existing AVA application too.  Joe has an action item to arrange a meeting with the key players to discuss, to include the CRM team's trused identity resource, Damien.
+4. Becky brought up the task to implement Medallia surveys in the current AVA application. Timelines were discussed, including the upcoming code freezes and production releases for the CRM team. It was stated that design and API discussions could continue, but development wouldn't be possible since they'll have switched into stability mode, focusing on any bug fixes that may need to be made. Shelby and Becky agreed to having a placeholder ticket put into the CRM team's backlog for this task, but that it would be blocked until the survey questions are finalized. Tina explaine that since this is uncharted territory for them, they would need to implement in a lower environment to judge the level of effort.
+5. The "removal" of unused military fields was discussed. The LOBs have indicated that they're not needed, but their removal has the potential to affect routing and rerouting. The CRM team has the comms channels established for the LOBs, and the communication of the removal will be annouced jointly with the integration teeam on those channels.
+
+### Action Items:
+
+- [ ] Joe - Get list of fields to collect from App Insights data to CRM team ASAP - target of 10/19's sync.
+- [ ] Joe - Coordinate discussion of the use of `sec_id` in the current and new AVA applications.
+- [ ] Bharat - Send an email to the group on mandatory meetings that the AVA CRM team has so that we can know availability since the calendars on the va email side might not be updated.
+- [ ] Kathleen - Create new placeholder task in JIRA for the Medallia survey work. Send effort, acceptance criteria, dependencies & finalized survey questions to Shelby.
+- [ ] Becky - Ask Medallia team about experience on other sites.
+- [ ] Becky - Touch base with Kathleen on military information fields this week. Check that fields won’t affect routing. Draft email.
+- [ ] Becky/Kathleen - [Hold after convo with Kathleen] Communicate to business teams about military information. Notify on CCB in October 27th. Send out email in tandem (Kathleen and Becky) to AVA distribution email.
+
+Carryover action items:
+
+- [ ] JD and the va.gov AVA integration team will look for folks with KQL (Kusto Query Language) experiennce to help massage the data needed for KPIs.
+- [ ] Joe - Present API Docs and granular project plan to this meeting on Thursday (10/19).
+- [ ] Joe - Incorporate the steps for "done" in the granular project timeline.
+
+
+----
+
+## Meeting Notes for CRM Sync on 10/12/2023
+
+Analytics; Refactoring Categories/Topics/Subtopics
+
+### Attendees:
+
+* **Integration Team:** Ruchi, Khoa, Joe, Becky
+* **CRM Team:** Chris, Joseph Duty, Shelby, Tina
+* **Note Taker:** Ruchi
+
+### Key Takeaways:
+
+**The two pieces of information for the KPIs of the current AVA application:**
+
+1. The time it takes for a submitter to submit an inquiry
+  * If an inquiry  was submitted, how long did it take from the start of a session to the end of the session?
+  * For submitters that submitted an inquiry, what is the average time that it took them from the time that they landed on the ask.va.gov page to the time that they clicked submit?
+  * For submitters that submitted an inquiry, what is the average time that it took them from the time the NEXT button is clicked in "Tell us about your question" page to the time that they clicked submit?
+> >  _Data collected should include the submitter's device and whether they were authenticated or not._
+2. The percentage of users that complete the journey to submit their inquiry
+  * What percentage of submitters completed the user journey once beginning the session?
+  * Numerator: Submitters that completed the journey (the submission confirmation page).
+  * Denominator: Total number of submitters that click the NEXT button on “Tell us about your question” page. (This shows intent to submit an inquiry.)
+> >  _Data collected should include the submitter's device and whether they were authenticated or not._
+
+**Four levels of changes identified so far:**
+
+* Minimal: Name change only. No impact to routing.
+* Low-mid: Name changes on situations where it impacts rules on other fields.
+* Low-Mid: Remove topic or subtopic. Need to figure out if archival is needed or transferred. 
+* Low-mid: Add-Topic or subtopic. Impact to routing.
+* High-Mid: Remove or add topic or subtopic. Existing queue needs to be added.
+* Most: Remove or add topic or subtopic. An entirely new queue needs to be created.
+> To mitigate instances where a name change might affect routing, the Dynamics APIs will track a new column (e.g. 'name_on_portal') with the va.gov UI's expected name for the selection. When that column has a NULL, the query will coallese back to the legacy name. The Dynamics APIs will handle mapping those values back to the originating row.
+> 
+> JOE: In this scenario, we could just pass the key back in. No need for the mapping in Dynamics APIs since this isn't a piece of data that conflicts with the va.gov sources &mdash; it only lives in Dynamics. We WILL need that new column for the name on portal, though.
+
+**Where does the source of truth live?**
+
+* Dynamics &mdash; We need to collaborate on each situation to make sure that we understand the ins and outs of each change.
+> JOE: There are some data items that **MUST** be pulled from Dynamics. But, there are several pieces of data that we plan to pull from the va.gov APIs. That distinction will be documented in the API Contract documentation next week.
+
+### Action Items:
+
+- [ ] JD and the va.gov AVA integration team will look for folks with KQL (Kusto Query Language) experiennce to help massage the data needed for KPIs.
+- [ ] Joe - Present API Docs and granular project plan to this meeting next Tuesday (10/17), Thursday at the latest.
+- [ ] Joe - Incorporate the steps for "done" in the granular project timeline.
+
+
+----
+
+
+## Meeting Notes for CRM Sync on 10/10/2023
+
+Update on API Doc status; Medallia meeting; Google Analytics; MSFT Teams housekeeping.
+
+### Attendees:
+
+* **Integration Team:** Khoa, Joe, Ruchi, Becky, Eddie
+* **CRM Team:** Shelby, Chris, Joseph Duty, Jamie, James, Maria
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+* API Docs will need a bit more time to mature. Working on sorting endpoints into Lighthouse and Dynamics APIs buckets, cleaning up the gray areas.
+* Medallia meeting rescheduled to 10/11 at 4:30pm ET.
+* Analytics may require ATO review. JD and Ruchi are working to see if the App Insights data would serve the same purpose.
+* Discussed Teams permissions, and culling the membership for those not involved in the project. Ruchi/Becky to follow up on VA/PO side.
+* Relayed Shelby's response to Becky that stories in upcoming sprints don't affect CRM Team's work.
+
+### Action Items:
+
+- [X] Ruchi - Send the KPI questions on analytics to Joseph Duty to see if they have this data available to capture the current state on the two KPIs.
+- [ ] Becky - Check Teams members with Andrea. (Teams housekeeping)
+- [ ] Joe - Present API Docs and granular project plan to this meeting next Tuesday (10/17).
+- [ ] Joe to incorporate the steps for "done" in the granular project timeline.
+
+
+----
+
+
 ## Meeting Notes for CRM Sync on 10/6/2023 (off-cycle, ad-hoc meeeting)
 
 Plan of attack; System of record; Continuous communication.
@@ -41,7 +248,7 @@ Plan of attack; System of record; Continuous communication.
 
 ### Action Items:
 
-1. - [ ] Joe to send GitHub link of meeting notes to larger email group and #ask-va-public Slack channel, after every CRM Sync.
+1. - [X] Joe to send GitHub link of meeting notes to larger email group and #ask-va-public Slack channel, after every CRM Sync.
 1. - [ ] Joe to incorporate the steps for "done" in the granular project timeline.
 
 

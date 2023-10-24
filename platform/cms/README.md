@@ -63,10 +63,12 @@ Documentation about the CMS lives in various places
 ### CMS Team
 - Erika Washburn, VA Product Owner, Slack `@Erika Washburn`
 - Berni Xiong, Senior Delivery Manager - Slack `@Berni Xiong`
+- TBD, Product Manager
 - Nate Douglas, Tech Lead - Slack `@Nathan Douglas`
-- Eric Oliver, DevOps Engineer - Slack `@Eric Oliver`
+- John Luo, Software Quality Architect
+- Ari Perez, DevOps Engineer (Currently backfilling for Eric Oliver through 11/10/2023)
+- Eric Oliver, DevOps Engineer - Slack `@Eric Oliver` (Currently on parental leave through 10/26/2023)
 - Tolase Akinwale, DevOps Engineer- Slack `@Tolase`
-- Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
 - Blake Organ, Product Designer- Slack `@Blake Organ`
 - Joann Agnitti, Senior Researcher- Slack `@Joann Agnitti`
 - Edmund Dunn, Senior Drupal Developer- Slack `@Edmund Dunn`
@@ -74,14 +76,12 @@ Documentation about the CMS lives in various places
 - Stefanie Gray, Helpdesk Manager, Slack `@Stefanie Gray`
 - Troy Griffin, Helpdesk and Training Manager, Slack `@Troy Griffin`
 
+### Shared resource from Sitewide team:
+- Laura Flannery, Web Accessibility Lead - Slack `@Laura Flannery`
 
-~~Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/811171875/Both+Teams+Scrum+Notes+May+26+2021+-).~~
-
-Slack channels:
+### Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
 - [#sitewide-cms-platform](https://dsva.slack.com/channels/cms-team)
-
-
 
 ## Table of contents
 

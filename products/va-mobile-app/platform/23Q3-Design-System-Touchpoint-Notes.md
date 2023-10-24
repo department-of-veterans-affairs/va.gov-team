@@ -6,8 +6,21 @@ Agenda:
 *   Discuss progress and risks for Q3 work
 
 ## 10/12/23
-*   Review Design System Service Blueprint drafts
+*   Discuss Review/Feedback process (based on Service Blueprint work)
+     -  How and where and who do we want to have a review/approval process?
+     -  Use Cases that could differ:
+        -   Non-flagship VA team adding functionality to the Flagship app
+            -   Flagship Product group, Ryan would review (smallest number possible)
+        -   Non-flagship VA team building a new app
+            -   Less governance needed
+     -   We definitely want some sort of review
 *   Discuss QA process/Release Mgmt strategy
+    -   non-flagship VA teams submitting PRs for QA testing
+        -   size of the PR not equivalent to QA effort
+        -   How can we effectively set expectations for QA time?
+        -   Could/should non-flagship teams write their own tests not maintained by the Flagship team?
+            -  Yes please.  Definitely unit tests, ideally E2E tests as well.  We would want them to watch if their merge breaks tests not related to their functionality as well.
+        -   Non-flagship teams should do their own QA, but also the Shared Services QA team would need to sign off prior to merging their feature branches
 
   
 ## 9/28/23

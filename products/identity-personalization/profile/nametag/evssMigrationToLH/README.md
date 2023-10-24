@@ -1,6 +1,6 @@
 # Initiative Brief - EVSS to LightHouse > Disabilities Rating API Update
 
-**Last updated: September 12, 2023 -- updated launch dates**
+**Last updated: October 23, 2023 -- updated statistics and dates**
 
 #### Overview
 
@@ -25,8 +25,8 @@ EVSS is being sunset and will no longer be supported. We need to leverage the ne
 
 | KPI                        | Rate (%) 1 month pre-launch (7/30/2023-8/29/2023) | Release 1 @10% (8/30/23 - 9/7/23) | Release 2 @25% (9/7/23 - 9/12/23) | 1 week @50% (9/13/23 - 9/19/23) | 1 week @100% (9/20/23 - 9/26/23) | 1 month @100% (9/20/23 - 10/19/23) | 2nd month @100% of users (10/20/23 - 11/19/23) |
 | -------------------------- | :-----------------------------------------------: | :-------------------------------: | :-------------------------------: | :-----------------------------: | :------------------------------: | :--------------------------------: | :--------------------------------------------: |
-| % of successful retrievals |                      96.04%                       |              93.46%               |              95.82%               |                                 |                                  |                                    |                                                |
-| % of failed retrievals     |                       3.96%                       |               6.54%               |               4.18%               |                                 |                                  |                                    |                                                |
+| % of successful retrievals |                      96.04%                       |              93.46%               |              95.82%               |             93.59%              |              95.74%              |               95.94%               |                                                |
+| % of failed retrievals     |                       3.96%                       |               6.54%               |               4.18%               |              6.4%               |               4.26%              |                4.06%               |                                                |
 
 
 ## Discovery
@@ -46,6 +46,7 @@ We're simply changing the endpoint we're using to read the Disability rating whi
 - Launch to 10%: August 30, 2023
 - Launch to 25%: September 6, 2023
 - Launch to 50%: September 12, 2023
+- Launch to 100%: September 19,2023
 
 ### Communications
 

@@ -27,14 +27,14 @@ Team Name - Cartographers
 - [ ] Lauren Alexanderson (OCTO Product Sponsor) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule meetings.
 - [ ] Patrick Bateman (OCTO Product Lead)
 - [ ] Lynne Johnson (Delivery Manager)
-- [ ] Tom Anderson (Product Manager)
-- [ ] Cara Frissell (Research Lead)
+- [ ] Wes Rowe (Product Manager)
 - [ ] Florence McCafferty (Design Lead)
 - [ ] Jonathan Nelson (Designer)
 - [ ] Keith Cheung (Designer)
 - [ ] Carlos Felix (Technical Architect)
 - [ ] Jim Zaccardo (Full stack developer)
 - [ ] Richard Davis (Full stack developer)
+- [ ] Daniel Cloud (Full stack developer)
 - [ ] Angela Fowler (Accessibilty Specialist)
 - [ ] Sara Sterkenberg (Information Architect)
 
@@ -44,16 +44,15 @@ Team Name - Cartographers
 
 ### Workflow + Cadence
  - 2 week sprints (start every other Tuesday)
- - Quarterly plans broken down into sprint plans
-  
+   
 #### Stand-up
-- Check in on people and product progress
-- 3 Question Format: What I did yesterday? What will I do today? Any blockers?
+- Check in on people and sprint goal progress
+- 3 Question Format: What I accomplished yesterday? What will I accomplish today? Any impediments?
 
 ##### Zoom Stand-up 
-- M/W/F @ 12:00 PM ET
-- 15 min, with parking lot after if needed. Folks can drop off after stand up.
-- We sometimes opt to have a Slack-up if most of the team unavailable
+- Daily @ 12:00 PM ET
+- 15 minutes with parking lot after if needed. Folks can drop off after stand up.
+- We sometimes opt to have a Slack-up if most of the team unavailable.
 - Parking lot immediately following to discuss non-stand up topics, problem solve, etc.
 
 <br/>
@@ -77,7 +76,7 @@ As of 4/4/2023, the current columns on our sprint board columns are:
 <br/>
 
 #### Program Increment Planning
-Since our work is closely realted, we may attend PI planning with the My HealtheVet National Portal teams doing work for OCC.  These are 3.5 day sessions typically held in March, June, September, and December.  The organizer for that activity will send out invitations several weeks prior.  As our team members shift, the PO or PM should let the organizer know to add/remove people.
+Since our work is closely related, we may attend PI planning with the My HealtheVet National Portal teams doing work for OCC.  These are 3.5 day sessions typically held in March, June, September, and December.  The organizer for that activity will send out invitations several weeks prior.  As our team members shift, the PO or PM should let the organizer know to add/remove people.
 
 We have created a [PI Planning board in ZenHub](https://app.zenhub.com/workspaces/mhv-to-vagov-cto-team-pi-10-integration-planning-board-63a31dce3fe3310026840f42/board) on which we list each person's capacity for a given sprint, then use it to plan work out for the PI.  This board can filtered by assignee to compare assigned work to their capacity.  This board can be re-used for each new PI by updating the PI number, dates, sprint numbers, team members, and their capacity (typically calculated as 8 points per sprint minus one point for each day of planned time off).
 
@@ -85,13 +84,13 @@ We have created a [PI Planning board in ZenHub](https://app.zenhub.com/workspace
 Outline work to be done this sprint in order to accomplish the team's goals.
 
 - Monday before the start of each sprint @ 2PM ET
-- 1 hour 
+- 1.25 hours 
 
 #### Backlog Refinement
 Assess and update workload for remainder of sprint
 
 - 1st Monday of every sprint @ 2 PM ET
-- 1 hour
+- 1.25 hours
 - [Zenhub: MHV on VA.gov Top-Level View](https://app.zenhub.com/workspaces/mhv-on-vagov-top-level-view-62619a987d74510018ecc546/board?repos=133843125)
 
 ##### Refinement Process

@@ -2,6 +2,8 @@
 ## Our goal
 Our goal is to empower teams to deliver the most accessible products possible for Veterans. We do this by providing teams with insights, training, and support as accessibility subject matter experts.
 
+**We are here to partner with you and provide guidance on how to achieve accessible outcomes.**
+
 ## How CAIA can help your team with accessibility
 The Content, Accessibility, and Information Architecture team, or CAIA, is a cross-functional team of folks here to help your team deliver the highest quality product possible to Veterans. 
 
@@ -10,7 +12,7 @@ This document explains some of the ways that CAIA can help your team with access
 ### How we relate to the Collaboration Cycle
 We've grouped our offerings by how they relate to the [touch point meetings in the Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/). We've done this because the Collaboration Cycle is a well-known process for our community, and maps well to how we do work. 
 
-Note that CAIA can support teams going through the Collaboration Cycle, but **CAIA is not involved in the Collaboration Cycle directly**. We are here to help you launch the best products possible, we're not gatekeepers. If we find and flag an issue we can't and won't block you from launching. Teams going through the Collaboration Cycle can work with us, as can teams working outside of it.
+Note that CAIA can assist teams going through the Collaboration Cycle, but **CAIA is not involved in the Collaboration Cycle directly**. We are here to help you launch the best products possible, we're not gatekeepers. If we find and flag an issue we can't and won't block you from launching. Teams going through the Collaboration Cycle can work with us, as can teams working outside of it.
 
 ## Services we offer
 What follows is a menu of the services we offer. **No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.**
@@ -43,5 +45,5 @@ This is very much like a staging review but done in production! This is useful f
 ### Training and education
 We can provide training and resources for you and your team on accessibility best practices and methodologies above and beyond what Governance offers at onboarding. Also, don't miss the [accessibility champs program](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs)!
 
-### Spot checks, general support
-We are always here for more general, off-the-cuff support, too! Never hesitate to reach out to us on the DSVA Slack in either the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.
+### Spot checks, general guidance
+We are always here for more general, off-the-cuff questions! Never hesitate to reach out to us on the DSVA Slack in either the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.

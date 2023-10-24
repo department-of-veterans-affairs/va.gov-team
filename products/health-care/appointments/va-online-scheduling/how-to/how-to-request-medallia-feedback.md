@@ -24,7 +24,9 @@ A tool for Veterans to schedule and manage their appointments online
 
 **Survey URL(s), key term(s), case category or type**
 
-Everything under [https://www.va.gov/health-care/schedule-view-va-appointments/](https://www.va.gov/health-care/schedule-view-va-appointments/)
+All comments under these URLS: 
+* [https://www.va.gov/health-care/schedule-view-va-appointments/](https://www.va.gov/health-care/schedule-view-va-appointments/)
+* [https://www.va.gov/my-health/appointments](https://www.va.gov/my-health/appointments)
 
 **File delivery format**
 
@@ -49,8 +51,8 @@ All in one file, on one tab
 | Week 38 September 18th - 24th        | Melissa Lefevre  | ✅ [66220](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66220) |
 | Week 39 September 25th - October 1st | Melissa Lefevre  | ✅ [66687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66687) |
 | Week 40 October 2nd - 8th            | Melissa Lefevre  | ✅ [67104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67104) |
-| Week 41 October 9th - 15th           | Melissa Lefevre  |  |
-| Week 42 October 16th - 22nd          | Peter Russo      |  |
+| Week 41 October 9th - 15th           | Melissa Lefevre  | ✅ [67704](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67704)|
+| Week 42 October 16th - 22nd          | Peter Russo      | [67831](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67831) |
 | Week 43 October 23rd - 29th          | Peter Russo      |  |
 | Week 44 October 30th - November 5th  | Peter Russo      |  |
 | Week 45 November 6th - 12th          |                  |  |

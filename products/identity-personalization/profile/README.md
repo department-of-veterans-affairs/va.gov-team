@@ -101,7 +101,7 @@ We don’t want the profile to become such a de facto place for Veteran informat
 |Project|Status|
 |----|----|
 |[Notification preferences: Default send & adding email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send#readme)|Pre-launch|
-|[Notification preferences: Editing as a subtask](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/mobile-phone-edit-flow/README.md)|Pre-launch|
+|[Notification preferences: Editing as a subtask](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask)|Pre-launch|
 |[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md)|Testing|
 
 ### Completed projects & enhancements

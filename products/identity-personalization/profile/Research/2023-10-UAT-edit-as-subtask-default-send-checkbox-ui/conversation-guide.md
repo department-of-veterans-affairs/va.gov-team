@@ -1,18 +1,21 @@
-# Conversation Guide: Profile multi-feature UAT, September 2023
+# Conversation Guide: Profile multi-feature UAT, October 2023
 
-### Project-specific setup
-- Add participant to feature flipper
+## Project-specific setup
+- Add participant to feature flipper:
+  -  `profile_use_field_editing_page`
+  -  `profile_use_notification_settings_checkboxes`
+  -  `profile_use_hub_page`
 
 ## Introduction - 2 minutes
 Thanks for joining us today! My name is Liz. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily. 
 
-We’ve invited you to participate today to get your help in testing some technical changes we’ve made to the website. The changes we have made aren’t something anyone can see on the screen, but with your help we will be able to check whether we’ve set everything up correctly.
+We’ve invited you to participate today to get your help in testing some changes we’ll be making to the website. I'm giving you access to the changes for today's session, and will remove them once we're done. If you come back to these parts of the website later today, they'll be different than what you see in this session.
 
 Before we start, I wanted to go over a few details:
 - **This session should take 30 minutes of your time or less.** It involves me asking you to complete a few small tasks. Because I want to make sure we don’t keep you beyond half an hour, I may prompt you with the next question to keep things moving.
 - **We need you to log into your VA.gov account today.** Can you confirm with me you have your login information available and are able to log in?
 - **We will be able to see your real information today.** This may include some healthcare information and some claims information. However, you have the choice to stop screensharing any time, and start again when you feel comfortable. 
-- **I’ll be asking you to make some updates to settings in your VA.gov profile.** We can will things back to the way they were at the start of the session if you don’t want to save any of the changes permanently.
+- **I’ll be asking you to make some updates to your mobile phone number and notification settings in your VA.gov profile.** We can set things back to the way they were at the start of the session if you don’t want to save any of the changes permanently.  You should get some email confirmations about the changes made to your mobile number.
 - **You may end the session at any time, for any reason.** Just let me know.
 
 I have some teammates who would like to observe our session and take notes for me, but only if you're comfortable with that. They'll be muted and off camera and you won't have to interact with them. Would you be okay with that, or do you prefer to keep the session just the two of us?
@@ -39,9 +42,9 @@ Some of these next things may feel a little tedious but this will help us be sur
 2. Alright, don’t enter anything, and please hit cancel.
    *Should take user back to notification settings page with alert*
 3. Now click the link again, and this time, hit save without entering any data.
-   *Should trigger error message*
-4. Enter 123456789 to the field. (This is an invalid phone number)
-   *Should trigger field validation*
+   *Should trigger field validation error message*
+4. Enter 123456789 to the field and hit save. (This is an invalid phone number)
+   *Should update field validation to include "at least 10 digits"*
 5. Perfect, now delete that, and enter a valid phone number into the field, and then press cancel. 
    *Should trigger modal*
 6. Press `yes, cancel changes` in the modal.
@@ -71,7 +74,9 @@ Let’s look at this page, is that what you entered? Great, thank you! This has 
 
 1. Please go ahead and click the link to update your mobile phone number.
    *Should take user to sub-task page*
-2. Add an actual mobile number, and then save it. 
+2. Now I'm going to have you update the number to `1234567890` and press save.
+   *Should trigger non-US area code slim alert message*
+3. Thank you. Now add your actual mobile number, and then save it. 
    *Should take user back to notification settings page with success alert*
 
 Does the page correctly show the change you made?
@@ -81,6 +86,7 @@ Do you want to keep this number in your profile? If not, let’s remove it.
 **Facilitator note:** *Take user through steps of removing the number from contact info page if needed, and then get them back to the notification settings page*
 
 - [ ] **UAT TASK:** Confirm update link takes user to sub-task page
+- [ ] **UAT TASK:** Confirm non-US area code displayed as expected
 - [ ] **UAT TASK:** Confirm phone number is correctly displayed on the notification settings page after saving
 - [ ] **Usability notes:** Does the participant mention anything about removing the mobile number from the sub-task page?
 
@@ -127,3 +133,9 @@ Okay, that's everything we were hoping to cover today. Thank you for taking the 
 Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
+
+## Post-session task
+- Remove participant from feature flipper:
+  -  `profile_use_field_editing_page`
+  -  `profile_use_notification_settings_checkboxes`
+  -  `profile_use_hub_page`

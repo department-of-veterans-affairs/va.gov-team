@@ -2,8 +2,7 @@
 
 ## Background
 
-As we move My HealtheVet (MHV) to VA.gov, we discover that there are problems with the current VA.gov secondary navigation system. It is not only inaccessible and unintuitive, but also doesn't support complex navigations within all the tools of the MHV. This study aims to give us more context to those problems by investigating the secondary navigational strategies users use when completing health management tasks on MHV on VA.gov and to improve the secondary navigation. 
-
+As we move My HealtheVet (MHV) to VA.gov, we discover that there are problems with the current VA.gov secondary navigation system. It is not only inaccessible and unintuitive but also doesn't support complex navigations within all the tools of the MHV on VA.gov. This study aims to give us more context to those problems from Veterans' perspectives and understand what aspects of primary and secondary navigations are confusing to Veterans by looking at how they use tools within MHV on VA.gov when completing health management tasks. 
 
 ### OCTO Objectives
 This research supports the following OCTO objectives: 
@@ -21,24 +20,23 @@ This research fits into these points of a Veteran's Journey:
 
 ## Research Goals 	
 
-The goal of this study is to help us understand users' reactions and behaviors regarding how they use secondary navigational strategies to complete key health tasks on MHV on VA.gov and whether users can effectively complete them, and to decide on an alternative that is accessible and intuitive. 
+The goal of this study is to help us better understand how Veterans expect to be able to navigate MHV on VA.gov. This understanding will help us develop the most effective navigational strategy for the product.
 
 ### Outcome
 
-This research will inform us of users' pain points when using the current secondary navigational strategies, which give us ideas on how to improve the side navigation and iterate on the new design. 
+This research will inform us of users' pain points when using the current and the new secondary navigation, which give us ideas on how to improve and iterate on the new design so the secondary navigation can be ready when all the tools are available on MHV on VA.gov in Phase 2. 
 
 ### Research questions
 
-1. What are users' reactions to the variations in navigational strategies (side navigation, breadcrumbs, and direct links) across the different products (appointments, secure messages, medications, and medical records) on MHV on VA.gov? 
-2. Do users use different navigational strategies with different products? Why, or why now? 
-3. What, if any, specific aspects of the secondary navigation cause confusion or unintended behaviors amongst participants? 
-4. How do participants react to and use the navigational strategies (e.g. use of AT), if at all? 
-5. What alternatives might prove more accessible and intuitive for users with complex barriers? 
+* How does the current secondary navigational pattern used across VA.gov align with users’ expectations? 
+* In what situations might a user want to navigate back to the MHV on the VA.gov landing page? 
+* In what situations might a user want to jump directly from one tool to another? 
 
 ### Hypotheses 
-- Users want to be able to navigate every part of MHV on VA.gov easily regardless of where they are.
-- Mobile users struggle with current secondary navigation because "in this section" is not noticeable and it expands to a long list that is hard to scroll. 
-  
+* Users want to be able to jump from any part of MHV on VA.gov back to the MHV on the VA.gov landing page. They will do this by clicking on the VA logo at the top left of the website. 
+* Users expect to be able to directly navigate from a child (or sub-tool, e.g. Sent of Secure messages) of a tool to a child of another tool.
+* Mobile users will default to using the "menu" button in the primary navigation bar when trying to navigate from one part of MHV on VA.gov to another.
+* Mobile users will rarely use breadcrumbs to navigate. 
 
 ## Method
 
@@ -76,34 +74,33 @@ Primary criteria (must-haves)
 - 15 total
 - 7 frequent users of MHV
 - 8 infrequent users of MHV
-- 15 mobile users
+- All mobile users
 - Age and education level range throughout, but ideally include at least 10 participants older than 55 and 10 participants with some college or less as their terminal degree
 
 ### Screener questions
 
-1. Have you been to a VA healthcare facility for a medical appointment in the last 12 months?
-	- Yes *(go onto Screener question 2)*
-	- No *(Disqualify)*
-
-2. How often, if at all, have you used VA.gov in the past 6 months?
+1. How often, if at all, have you used VA.gov in the past 6 months?
 * Never used it *(go onto Screener question 3)*
-* 1-2 times in the past 6 months *(go onto Screener question 3)*
-* 2-3 times a month in the past 6 months *(Disqualify)*
+* 1-3 times in the past 6 months *(go onto Screener question 3)*
 * More than 3 times a month in the past 6 months *(Disqualify)*
 
-3. Do you or the Veteran you support have a My HealtheVet (MHV) account? 
-	- Yes *(go onto Screener question 4)*
+2. Do you have a My HealtheVet (MHV) account? 
+	- Yes *(go onto Screener question 3)*
 	- No *(Disqualify)*
 
-4. How often, if at all, do you use MyHealtheVet?
-* a) Never used it *(Disqualify)*
-* b) Once a year *(Disqualify)*
-* c) Once a month *(Qualify)*
-* d) 2-3 times a month *(Qualify)*
-* e) more than 3 times a month *(Qualify)*
+3. How often, if at all, do you use MyHealtheVet?
+* Never used it *(Disqualify)*
+* Once a year *(Disqualify)*
+* Once a month *(Qualify)*
+* 2-3 times a month *(Qualify)*
+* more than 3 times a month *(Qualify)*
 
 
 ## Timeline
+- Submit for approval 10/30
+- Kick-off 11/1
+- Interview week 11/1 - 11/10
+- Synthesize and analysis week 11/13 - 11/17 (If, for any reason, it's delayed, the latest to get this study done is the last week of November.)
 
 ### Prepare
 - Pilot #1: 

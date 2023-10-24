@@ -1,10 +1,10 @@
 # Project outline: Notifications Settings - Default Send Functionality
 
-**Last Updated: August 15, 2023 -- Added key dates**
+**Last Updated:** 10/23/23, added link to UAT findings
 
 ### Communications
 
-- **Github labels**: authenticated-exp; notification-settings; profile
+- **Github labels**: `authenticated-exp`; `notification-settings`; `profile`
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
 
 ### Roles
@@ -74,10 +74,10 @@ In order to be able to add email as a channel, we need to do two things: add the
 
 [Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|-------------|---------------|-------------------|
-|Percentage of successful retrievals||||
-|Percentage of successful saves||||
+|KPI/metric|Baseline: 1 month pre-launch [add dates]| 25% | 50% | 100% |1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|:-:|:-:|:-:|:-:|:-:|:-:|
+|Percentage of successful retrievals|||||||
+|Percentage of successful saves|||||||
 
 **Additional things to consider**
 
@@ -114,8 +114,7 @@ In order to be able to add email as a channel, we need to do two things: add the
 |[Analytics Dashboard](https://analytics.google.com/analytics/web/?authuser=3#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)|see the Notification Checkbox section|
 |[QA Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send/QA)| |
 | [UAT Go/no-go](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62915) | |
-|UAT topline Summary||
-|UAT Synthesis||
+|[UAT Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-UAT-edit-as-subtask-default-send-checkbox-ui/findings-summary.md)||
 |[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/releasePlan/defaultSendReleasePlan.md)||
 
 ## Key Dates

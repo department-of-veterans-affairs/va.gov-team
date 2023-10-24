@@ -1,7 +1,7 @@
 # 45-MINUTE ONLINE CHECK-IN TEXT 
 
 - [Description](#description)
-- [New Workflow](#new-workflow)
+- [New Service Blueprint](#new-service-blueprint)
 - [Changes to On-line Check-in](#changes-to-on-line-check-in)
 - [Changes to Pre-Check-in](#changes-to-pre-check-in)
 
@@ -9,9 +9,10 @@
 
 Proactively send Veterans, 45-minutes before their health care appointment time, a text message that contains their customized check-in link. Veterans will now be able to complete online check-in without having to text "check in" to 53079 to receive the check-in link.
 
-## New Workflow
+## New Service Blueprint
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/4946ec47-0702-4ad5-8c67-23b28dc235b4)
+- [PCI Service Blueprint with 45 min reminder_2023-10-13.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12897797/PCI.Service.Blueprint.with.45.min.reminder_2023-10-13_19-15-05.pdf)
+- [Mural version](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286)
 
 ## Changes to On-line Check-in
 

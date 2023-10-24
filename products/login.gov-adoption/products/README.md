@@ -27,7 +27,7 @@ For more on our product vision and mission, see the [team charter](https://githu
 ## [#2 - In-person proofing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/in-person%20support/product-brief.md)
 
 ### [Pro-active login.gov adoption](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/login.gov)
-Currently there are multiple ways to sign on and access VA services. These login options do not all meet required security standards and also create user frustration and confusion. The Login.gov adoption team aims to consolidate the pathways to sign-in to VA.gov and provide Login.gov as a credential option while eliminating duplicative and non-compliant legacy credentials. 
+The Login.gov adoption team aims to consolidate the pathways to sign-in to VA.gov and provide Login.gov as a credential option while eliminating duplicative and non-compliant legacy credentials. Veterans will be informed of the Login.gov credential option as well as educated through multi-channel communication on how to create a Login.gov credential. The consolidation of login credential options ensures a more secure process for Veterans, as well as reduces roadblocks and pain points for Veterans trying to access their benefits and services. 
 
 ### Vision
 - One sign-on to access all products and services. Veteran choice of “public” or “private” credential option for VA.gov (Login.gov or ID.me).

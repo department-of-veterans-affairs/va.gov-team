@@ -1,5 +1,17 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**October 12, 2023**
+-
+Attendess: Aliyah, Lauren, Laura, Clayton, Carl, Sophia, Nathalie, Ngozi
+- Camille (Veteran Support team) is planing research on the **Signing in to VA.gov page.** She'll join the next meeting to chat more about her research plans and we can discuss how this may overlap with research done by the CORE identity team (Clayton).
+- **Audit:** We discussed that we'll need to do a comprehensive audit (unauthenticated and authenticated experiences) for mentions of sign in options. 
+  - Audit of authenticated experience would involve public websites
+  - This audit may need to happen in several phases
+  - Any changes to widgets on forms/applications/tools would need a lot of lead time to begin updating. Aliyah and Laura can change widget content on static pages, but we'll need to coordinate with product teams for widgets that may appear inside forms/applications/tools.
+  - Nathalie (chatbot team) mentioned that they'll need to do an audit and make manual updates. She'll chat more with her designers and developers. If their team has content from us, it may not be a huge lift on their part.
+  - Sophia suggested looping in PMs on this call. Laura and Aliyah to chat more with Danielle about this audit and timing.
+  - **We'll continue the discussion in our next meeting**
+
 **September 28, 2023**
 -
 Attendees: meeting cancelled due to a few LGA and CORE team OOO/conflicts
@@ -24,7 +36,7 @@ Attendees: Aliyah, Laura, Tinu, Lauren, Carl, Sophia, and Nathalie
 **Notes**
 - Lauren (PM on LGA team) and Nathalie (from chatbot team) joined the call.
 - We did a refresher, for new folks on the call, about the purpose of the meeting and clarified the purpose amidst new changes to the content/comms review proccess for any work related to the sign in changes.
-     - Purpose of meeting is to review and discuss any content (on static pages, sign in modals, or alerts on VA.gov) that relates to the upcoming sign in changes on VA.gov. We also use the time to discuss or consider how other intiatives overlap with this work.
+     - Purpose of meeting is to review and discuss any content (on static pages, sign in modals, or alerts on VA.gov) that relates to the upcoming sign in changes on VA.gov. We also use the time to discuss or consider how other initiatives overlap with this work.
      - Sophia shared a visual (for internal use) of the review proccess flow, given the new MHV-VA.gov-Identity Communications Group review process.
      - We clarified that if there are changes that the LGA team is making to the sign in modal or content for an interstitial page, Laura and Aliyah will review that work with you them and the LGA team will be responsible for putting those items through the new review process.
 - Nathalie joined and Aliyah summarized some past work with the chatbot team related to sign in and identity. [This is a ticket with that past work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49815). Laura asked if updates to the chatbot are manual or dynamic - Nathalie said that it's both. Nathalie will join future meetings and provide more clarity on how this group/sitewide content will need to be involved in chatbot content that aligns with how we're currently discussing signing in to VA.gov.

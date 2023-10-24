@@ -23,6 +23,8 @@ Everyone across these 4 areas has a clear understanding of their roles and respo
 - Leads or participates in presentations and speaking engagements as needed
 - Keeps roadmap up to date for each product
 
+**Note:** The VA.gov content/accessibility/information architecture (CAIA) team is part of the VA.gov design practice and is separate from the unified MHV on VA.gov/Sign-in communications group. CAIA works directly with designers and product teams on the UX product content and manages the unauthenticated content on VA.gov. 
+
 ### Change management
 
 #### Primary responsibility for these tasks

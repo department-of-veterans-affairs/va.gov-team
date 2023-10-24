@@ -13,7 +13,7 @@ Health care (VHA)
 |Amanda Scully|VHA ECM (Enrollment Case Management)|
 |Michael Bingham|VHA HAC (Health Administration Center)|
 |Benjamin Davis|VHA Women Veterans Health Care|
-|Nicole Deleon|VHA Women Veterans Health Care|
+|Taylor Weidman|VHA Women Veterans Health Care|
 |Joshua Paulsen|VHA Audiology|
 |Mauree Collins|VHA Prosthetics|
 |Trevor Brown|VHA Prosthetics|

@@ -1,5 +1,34 @@
 # Design Weekly Sync Agenda
 
+## 2023-10-16
+
+Attendees: Jessica, Katelyn, Hieu, Kristen
+
+
+- Talked about EZ intro page for those who are already enrolled and the adjustments needed once the EZR goes live
+  - Next steps: 
+  - Consider changes to the content around updates to benefits, the two headline sections could be combined
+  - Look at both primary and secondary action links in the design system
+  - Consider the only call to action on the page to be the "update benefit" button.
+
+- Talked about the Registration updates late last week and how to re-approach the problem
+  - Next steps:
+  - Working sessions for research questions and research goals
+  - Once those are refined; begin thinking through research methods/logistics
+
+## 2023-10-11
+
+Attendees: Jessica, Katelyn, Hieu, Kristen
+
+
+- Reviewed Registration Flow Exploration and Matrix comparrison work and discussed the pros/cons/differences between each of these
+- Also talked about variations of the flows and what would make sense MVP term and ideal state, what mvp could build up/set the foundation for the ideal state
+- Decided on a flow variation where on the intro page there is a Veteran and non-Veteran split/ action links, followed by a prioritization wizard.
+  - Followed by a prioritization wizard
+  - Consider the short-form as part of the MVP
+- The business logic (unauthenticated) flow is the backup.
+- Next steps to create wireflow of mvp direction and share back with team
+
 
 ## 2023-10-02
 

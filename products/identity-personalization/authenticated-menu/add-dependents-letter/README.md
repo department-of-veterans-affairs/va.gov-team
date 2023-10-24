@@ -1,6 +1,6 @@
 # Project outline: Add links to dependents and letters tools to the authenticated menu
 
-**Last Updated: October 6, 2023 -- Updated metrics**
+**Last Updated: October 16, 2023 -- update to week 1 launch stats**
 
 ### Communications
 
@@ -82,15 +82,15 @@ Users have trouble finding dependent information and where to download their ben
 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|#3 (and 6,8)|#2 (and 3,8)|||||
-|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|#1 (and 2,4,9)|#1 (and 4,5,10)|||||
+|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|#3 (and 6,8)|#2 (and 3,8)|#3 (and #10)||||
+|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|#1 (and 2,4,9)|#1 (and 4,5,10)|#1||||
 
 **KPI: See overall reduction in "dependents" and "letters" searches within the profile.**
 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Raw number of "**letters**” searches in the top 10 profile searches|189|121|||||
-|Raw number of "**dependents**” searches in the top 10 profile searches|426|239|||||
+|Raw number of "**letters**” searches in the top 10 profile searches|189|121|63 (-48% from 1-week pre-launch)||||
+|Raw number of "**dependents**” searches in the top 10 profile searches|426|239|55 (-77% from 1-week pre-launch)||||
 
 **KPI: See variations on "dependents" and "letters" entirely removed from the top 10 search terms on VA.gov as a whole.**
 
@@ -98,8 +98,15 @@ Users have trouble finding dependent information and where to download their ben
 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|#2 (5,9)|#3 (and 5)|||||
-|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|#1|#1|||||
+|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|#2 (5,9)|#3 (and 5)|#2 (and 10)||||
+|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|#1|#1|#3||||
+
+**KPI: See overall reduction in "dependents" and "letters" searches on VA.gov as a whole.**
+
+|KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
+|Raw number of "**letters**” searches in the top 10 VA.gov searches|3,549|2,665|1,653 (-38% from 1-week pre-launch)||||
+|Raw number of "**dependents**” searches in the top 10 VA.gov searches|1,929|1,762|957 (-46% from 1-week pre-launch)||||
 
 **KPI: See no increase in bounce rates from the Dependents and Letters pages (increase in bounce rate = people found the page but not what they were looking for).**
 
@@ -108,8 +115,8 @@ Users have trouble finding dependent information and where to download their ben
 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Bounce rate for "**Letters**” |||||||
-|Bounce rate for "**Dependents**”|||||||
+|Bounce rate for "**Letters**” |1.98%|2.23%|0.96%||||
+|Bounce rate for "**Dependents**”|0.55%|0.27%|0.89%||||
 
 ### Objective #2: Explore using authenticated menu as a place to elevate links to tools.
 
@@ -119,8 +126,8 @@ Users have trouble finding dependent information and where to download their ben
 
 |KPI/metric|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|
-|Clicks into "**Letters**" from the authenticated menu |||||
-|Clicks into "**Dependents**" from the authenticated menu|||||
+|Clicks into "**Letters**" from the authenticated menu |44,825||||
+|Clicks into "**Dependents**" from the authenticated menu|23,204||||
 
 ## Key deliverables
 

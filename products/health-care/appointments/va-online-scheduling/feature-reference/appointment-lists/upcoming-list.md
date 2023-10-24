@@ -26,6 +26,14 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 
 [Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/homepage.md#upcoming-appointments)
 
+## Alerts and conditional states
+<!-- Any alerts that could display for this feature and what triggers them. -->
+
+**Alert UI**
+- [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=3281-3294&t=rlUNz5oWE30aEgSO-4)
+- [State template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2418-51946&mode=design)
+- [State content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/homepage.md#upcoming-alert---generic-message-if-any-of-the-systems-are-unavailable-vsp-vvs-and-hsrm)
+- 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
 

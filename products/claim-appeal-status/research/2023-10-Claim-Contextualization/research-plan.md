@@ -1,4 +1,4 @@
-# [WIP] Research Plan: Claim Contextualization Concept Testing
+# Research Plan: Claim Contextualization Concept Testing
 
 Benefits Management Tools · October 2023
 
@@ -20,57 +20,78 @@ This work supports a Veteran whenever they are filing a disability compensation 
 ## Research Goals
 
 - Assess how well Veterans understand what is happening at each step of the claim adjudication process.
-- Assess how well Veterans understand the overall process of claim adjudication after interacting with the design.
+- Assess whether Veterans understand the steps that are available to them to increase the likelihood of a favorable claim outcome. 
 
 ### Outcome
-With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov.
+With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov. Which aspects specifically do Veterans find useful?
 
 ### Research questions
 
-- How do Veterans react to this content? Do they find it useful? 
+- How do Veterans react to this content? Do they find it useful?
 - Does this new design set better expectations for how the claim will move between stages? Do Veterans understand why and how the claim might move back and forth between certain stages?
-- After seeing this design, do Veterans understand their responsibilities at each step of the process?
+- After seeing this design, do Veterans understand actions available to them at each step in the process that might help strengthen their claim?
 
-### Hypothesis
-
+### Hypotheses
+- The new design will set better expectations about the claim process, demonstrating to Veterans that it is not always linear. 
+- Veterans will feel more informed overall about how the claims process works, and what's going on behind the scenes.
+- Veterans will feel more informed by this information, and will better understand what they might do in order to improve the likelihood of a favorable outcome for their claim.
 
 ## Methodology	
-
+Semi-structured interviews
 
 ### Location
-
+Remote on Zoom
 
 ### Research materials
+[Conversation guide] TBD
 
+[Research prototype] TBD
 	
 ## Recruitment	
 
-
 ### Recruitment approach
 
+The intended audiences is Veterans who at some point filed a disability compensation claim with the VA in the last 10 years.
 
 ### Recruitment criteria
 
-
 **Screener question**
-
+> Have you filed a disability compensation claim with the VA in the last 10 years? [Answer should be yes to qualify.]
 
 **Primary criteria (must-haves)**
 
+20 total participants:
+
+- 10 mobile users
+- 10 desktop users
+- Race: 5 Black Veterans, 5 Hispanic Veterans, 10 Veterans of any other race
+- 10 women Veterans
 
 ## Timeline
 
 
 ### Prepare
 
+A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
+
+Pilot participant email: rocio@coforma.io
+
+Date and time of pilot session: TBD
 
 ### Research sessions
-
+Dates TBD
 
 ### Length of sessions
-
+1 hour
 
 ### Availability
 8 AM - 6 PM ET
 	
 ## Team Roles	
+- Moderator: Skyler Schain (skyler@coforma.io)	
+- Research guide writing and task development (usually but not always same as moderator): Skyler Schain	(skyler@coforma.io)
+- Participant recruiting & screening: Perigean
+- Project point of contact: Skyler Schain (skyler@coforma.io)
+- Participant(s) for pilot test: Rocio De Santiago (rocio@coforma.io)
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	Josh Kim (josh.kim@adhocteam.us)
+- Observers: Gary Homidas (gary.homidas@adhocteam.us), Lauren Sinreich (lauren.sinreich@coforma.io), Julie Strothman (julie.strothman@va.gov), Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Heather Widmont (heather.widmont@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us)
