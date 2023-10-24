@@ -70,7 +70,7 @@ However, if the Veteran does not have a `Social security number`, we will ask fo
 
 ### DoD/EDIPI number
 
-**This field will be removed.** Although [business lines had differing needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information) for `DoD/EDIPI`, we think this field should be **removed** because agents can look this up in MPI using a Veteran's first and last name, DOB and SSN, which will be required.
+**This field will be removed.** Although [business lines had differing needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information) for `DoD/EDIPI`, we think this field should be **removed** because agents can look this up in MPI using a Veteran's first and last name and DOB or SSN, which will be required.
 
 ### Branch of service
 
