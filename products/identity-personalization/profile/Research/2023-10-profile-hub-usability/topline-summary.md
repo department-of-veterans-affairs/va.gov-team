@@ -4,8 +4,6 @@
 - [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/conversation-guide.md)
 - [interview transcripts]() (EnjoyHQ link?)
 
-_This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered._
-
 **The goal of this document is:**
 
  - To make sure everyone who observed the study is in alignment with the perceived findings
@@ -19,9 +17,6 @@ _This topline summary is a high level, top of mind summary of trends found in th
 **Finding #1**
 
 Participants tended to navigate to their Profile either by their authenticated menu or the the My VA link
-
-> Quote (if relevant)
-
 
 **Finding #2**
 
