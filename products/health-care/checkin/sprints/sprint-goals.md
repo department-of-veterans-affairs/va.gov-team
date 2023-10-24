@@ -7,6 +7,7 @@ ________________________________________________________________________________
 ## 11/1/2023 - 11/14/2023  -------------- FUTURE / TENTATIVE ---------------
 #### SPRINT GOALS
  - **GOAL: Ongoing Production Support**
+ - **GOAL: Support CERNER Integration**
  - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
     - **Sub Goal: Add Travel Claim Terms of Agreement** 
@@ -32,6 +33,9 @@ ________________________________________________________________________________
          - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Resolve Pen Test Issue #4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68169) 
      - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png)![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png)![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680) 
+- **GOAL: [Support CERNER Integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68271)**
+    - **Sub Goal: Identify Necessary CHIP Work**
+        - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Identify Necessary CHIP Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68275)
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66721)**
        - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)  [[FE] Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423)
