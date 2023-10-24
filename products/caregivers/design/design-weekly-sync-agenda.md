@@ -1,5 +1,17 @@
 # Design Weekly Sync Agenda
 
+## 2023-10-23
+
+Attendees: Jessica, Hieu, Kristen, Alex
+
+
+- Went over registration presentation deck
+- Talked about reframing the deck outline to be focused on the scenarios and remove the other slides
+- Use examples and Sketch wireframes within the scenario examples instead of at the end of the presentation
+- Talked about cohorts for registration tree test; focusing on most being unenrolled but a cohort or two of enrolled with disability ratings. 
+
+
+
 ## 2023-10-16
 
 Attendees: Jessica, Katelyn, Hieu, Kristen
