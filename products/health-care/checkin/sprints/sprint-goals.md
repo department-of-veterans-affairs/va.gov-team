@@ -22,7 +22,7 @@ ________________________________________________________________________________
      - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**  
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
-      - **Sub Goal: Switch Components to Design System v. 3
+     - **Sub Goal: Switch Components to Design System v. 3**
      - **Sub Goal: Miscenallenous debt**
 
 #### PLANNED RELEASES 
@@ -54,22 +54,19 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create New User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68083)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create New Content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68146)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68084)
-   - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create wireframe w/ content for 'claim already filed' error page (wireframe for echeck-in, not full auth exp) [bene travel past appts]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68278)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create wireframe w/ content for 'something went wrong' error page (wireframe for echeck-in, not full auth exp) [bene travel past appts]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68279)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create wireframes to replicate error states, e.g., AVS not available, something went wrong, etc. (wireframe for echeck-in, not full auth exp) (stick to in-person and telephone for now) [bene travel past appts]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68282)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create and update wireframes in Design page for switch order of month and day in appts list (Slack thread) (ask Lori what Priority it should be) [unified check in design and discovery]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68280)
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] SPPIKE: Determine if/when we need to account for canceled appts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68281)
+           - Has not been pointed
+   - **Sub Goal: [File a Mileage-only Claim for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Create research review ticket
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Create a CAIA review ticket
 - **GOAL: Increase usage of Pre-Check-in & Check-in**   
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
             - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) Blocked: waiting on test users to do integration testing
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Content] Create Content to Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67897)
-        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68244)
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
-            - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65842) Waiting until full release 
+            - [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65842) Waiting until full release 
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - TBD
     - **Sub Goal: Analyze current metrics to see what they tell us**       
