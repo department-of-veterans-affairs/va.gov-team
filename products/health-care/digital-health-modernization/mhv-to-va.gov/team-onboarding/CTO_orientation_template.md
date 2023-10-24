@@ -66,11 +66,13 @@ Following the [instructions listed on the Platform](https://depo-platform-docume
 -  [US Congress' Timeline - VA's Electronic Health Record History](https://www.congress.gov/116/meeting/house/110555/documents/HHRG-116-AP18-20200227-SD001.pdf)
 
 ### Team Dynamics
-We are working very closely with the very same Office of Connected Care (OCC) stakeholders who were instrumental in designing and building "classic" My HealtheVet in 2003.  Their product teams have been responsible for maintaining and enhancing it over the last 20 years and have a very close working relationship with OCC. OCC and their product teams are all extremely knowledgeable in their respective areas, understand the dependencies between their teams and products, and like us, are thoroughly vested in doing what's best for our Veterans.
+We are working very closely with the same Office of Connected Care (OCC) stakeholders who were instrumental in designing and building "classic" My HealtheVet in 2003.  Their product teams have been responsible for maintaining and enhancing it over the last 20 years and have a very close working relationship with OCC. OCC and their product teams are all extremely knowledgeable in their respective areas, understand the dependencies between their teams and products, and like us, are thoroughly vested in doing what's best for our Veterans.
 
 Throughout this endeavor, it will be crucial that we collaborate closely with our OCC partners and maintain a professional, mutually respectful rapport. In years past, a different team external to OCC came in and said they were going to take over and shut down MHV.  Understandably, that approach generated a great deal of angst and eroded trust between OCC stakeholders and external organizations.  With that history in mind, it is important that our team be aware of those sensitivities in our daily interactions.
 
 We should use every interaction with our business partners as an opportunity to demonstrate our expertise and commitment to helping them succeed in getting this work across the finish line.  We want to earn their trust by reinforcing that we are on the same team, and are partnering _with_ them, versus actively trying to replace them.  At the end of this initiative, the expectation is that OCC and their respective product teams will continue to own and maintain their products long-term.
+
+Refer to the Collaborating Teams page for a high level list of the teams and POCs we may interact with. 
 
 ### Review documentation and project information
 
