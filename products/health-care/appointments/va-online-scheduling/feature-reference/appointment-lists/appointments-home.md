@@ -78,11 +78,11 @@ Starting page to schedule or manage appointments.
 
 ## User interface design
 
-[User flow](Add link) 
+[User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=155-30914&t=yAEq20yFBh0j4lyj-4) 
 
 [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2287-43222&mode=design&t=iXQLoUr7rK9TPy7w-4)
 
-[Page content](Add link)
+[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/homepage.md#upcoming-appointments)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
