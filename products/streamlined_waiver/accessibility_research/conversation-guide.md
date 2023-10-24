@@ -33,10 +33,10 @@
 
 ### Intro - 5 minutes
 
--   Welcome! Thank you so much for your time today.  
+-   Welcome! Thank you so much for your time today.  My name is Charlotte - it's great to meet you! 
     How are you today?
     
--   My name is Charlotte and I work at VA.gov to help improve access to benefits and services for Veterans like you. [purpose]
+-   I want to share a little bit about me: I work at VA.gov to help improve access to benefits and services for Veterans like you. [purpose]
     
 -   This work is meaningful to me because I believe that those who have served have a right to these services. [meaning]
     
