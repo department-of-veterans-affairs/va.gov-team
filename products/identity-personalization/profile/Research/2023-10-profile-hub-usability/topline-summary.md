@@ -1,8 +1,8 @@
-# Profile Hub Topline Summary TEMPLATE
+# Profile Hub Topline Summary
 
 - [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/research-plan.md)
 - [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/conversation-guide.md)
-- [interview transcripts]() (EnjoyHQ link?)
+- [interview transcripts] () (EnjoyHQ link?)
 
 **The goal of this document is:**
 
@@ -16,15 +16,15 @@
 
 **Finding #1**
 
-Participants tended to navigate to their Profile either by their authenticated menu or the the My VA link
+Participants tended to navigate to their Profile either by their authenticated menu or the the My VA link.
 
 **Finding #2**
 
-Participants used a variety of methods for switching from one Profile section to another (mostly side navigation links, but also breadcrumbs and the auth menu Profile link)
+Participants used a variety of methods for switching from one Profile section to another (mostly side navigation links, but also breadcrumbs and the auth menu Profile link).
 
 **Finding #3**
 
-Participants also used a variety of methods to navigate from a given section back to the Profile hub. While a few participants used the breadcrumbs, a few used the back button, authenticated menu Profile link, and a keyboard shortcut to the previous page.
+Participants also used a variety of methods to navigate from a given section back to the Profile hub. While a few participants used the breadcrumbs, a few used the back button, authenticated menu Profile link, or a keyboard shortcut to the previous page.
 
 **Finding #4**
 
