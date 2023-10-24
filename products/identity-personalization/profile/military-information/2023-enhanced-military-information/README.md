@@ -35,7 +35,7 @@
 
 ## Overview
 
-The VA.gov profile team has been asked to enhance the military history section of the profile to aid veterans when applying for benefits. 
+The VA.gov profile team has been asked to enhance the military history section of the profile to aid veterans when applying for benefits, with specific emphasis on disability claims. 
 
 This project needs to meet legislative requirements by giving veterans view access to their Individual Longitudinal Exposure Record (ILER) record, but it should not stop there. From a veteran’s experience perspective, the Veteran Experience Office (VEO), the Vetern Benefits Administration (VBA), and the Office of General Counsel (OGC) have recommended making [data points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#integrate-the-following-data-into-vagov) from veteran’s military records more accessible online with a focus on data used to apply for benefits. More specifically, VEO/VBA/OGC have arrived at a list of 8 key data elements found within veteran’s military records that, in this project, we are tasked with exposing. 
 
@@ -44,6 +44,12 @@ To start we should focus on **read only** access to those data elements and to I
 ### What are the OCTO Objectives this work relates to? 
 - O1: Increase the accessibility, reliability, and security of Veteran's digital services
 - O2: Reduce the time it takes for Veterans to find, use, and receive VA Services
+
+### Disability claim (526EZ)
+
+- [Paper form](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
+- [Form on VA.gov staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
+  - Access with user 15 or 68
 
 ### Legislative mandates
 
