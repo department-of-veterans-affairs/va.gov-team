@@ -161,7 +161,7 @@ Communication Plan:
 - Team Name: Ask VA Integration
 - GitHub Label: https://github.com/department-of-veterans-affairs/ask-va
 - Slack channel: #ask-va-public
-- Product POCs: Chante Lantos-Swett, Andrea Schneider, Ruchi Shah
+- Product POCs: Becky Phung, Chante Lantos-Swett, Andrea Schneider, Ruchi Shah
 - Stakeholders: Link: https://docs.google.com/spreadsheets/d/1HlKmuuKAwiz6VnJIBNjI2t8Tet1Bc5tm6_fNLscDouw/edit#gid=0 
 
 </details>
@@ -170,7 +170,7 @@ Communication Plan:
 
 <details>
  
- - DEPO Lead: Chante Lantos-Swett, Andrea Schneider
+ - DEPO Lead: Chante Lantos-Swett, Andrea Schneider, Becky Phung, Natalie Morales
  - PM: Ruchi Shah
  - Engineering: Joe Hall, Eddie Otero, Jacob Cheriathundam, Khoa Nguyen
  - Research/Design: Tyler Gindraux, Thomas Michaud, Becky Phung
@@ -182,8 +182,6 @@ Communication Plan:
 #### Stakeholders
 
 <details>
- 
-- [Business Line Stakeholders](https://docs.google.com/spreadsheets/d/1HlKmuuKAwiz6VnJIBNjI2t8Tet1Bc5tm6_fNLscDouw/edit#gid=0)
 
 - [Leadership and Partner Teams Stakeholders](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696976895933/4f5410b3e8770441f4101cbabd565aa0cd13dac7?sender=u2d812b371596fee265408413)
 
