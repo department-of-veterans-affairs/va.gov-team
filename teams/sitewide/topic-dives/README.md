@@ -50,7 +50,7 @@ Please add any potential future topics you would like covered below:
 ### 5/15/23 - CMS User Permission Model (Roles, Permissions, Workflows & Sections)
 - Dave Pickett
 - [CMS User Permission Model video](https://drive.google.com/file/d/1kM_WClSL15z3JX1EAHJ5f-QG8f0n_lyL/view)
-- [CMS User Permission Model slides](https://docs.google.com/presentation/d/1Kkjmx7rBprudAHXN8uFuxNp7D0nPD2oSj9-9-Jirxr8)
+- [CMS User Permission Model slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-governance/CMS-user-permission-model.pdf)
 
 ### 4/17/2023 - Diagrams in Github / Markdown with Mermaid
 - Steve Wirt
@@ -61,7 +61,7 @@ Please add any potential future topics you would like covered below:
   - [Engineer workflow](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/workflow.md#module-removal--uninstall)
   - [Quarterly planning](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13286)
 
-### 2/6/23 - Drupal and internalization
+### 2/6/23 - Drupal and internationalization
 - Tim Cosgrove
 - [Drupal and internalization video](https://drive.google.com/file/d/1pdnSGqbVopl92ORVFIxuQE5yKexM4n4Z/view)
 
