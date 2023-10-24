@@ -100,6 +100,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
 - (_Pay attention to_) Where does participant click first, and ask why?
 - (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
+- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 - (_If participant didn't click or didn't see the direct link to ask a question_) Do you expect to be able to directly get to secure message from here?
 
 
@@ -112,7 +113,8 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 **Must ask:**
 - (_If participant goes back to MHV landing page for medications_) Why did you go back to the MHV landing page?
 - (_Pay attention to_) Did they use breadcrumbs?
-- (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
+- (_If participant clicks on mega menu, stop them from continuing_) Why did you click there, and what do you expect to find there?
+- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 
 
 **_Task 3 - Appointments_** (from where they left off) You've been assigned to a new doctor recently, but you don't remember their name. You want to check your provider's name from your recent appointment visit.
@@ -124,6 +126,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 
 **Must ask:**
 - (_If participant looks for past appointments in the secondary nav._) Do you think you'd find past appointments in the menu, and why?
+- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 - (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
 
 **If participant clicks on the mega menu during any task, don't let them go further, but ask:**
@@ -144,7 +147,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
 - (_Pay attention to_) Where does participant click first, and ask why?
 - (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
-- 
+- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 
 
 
