@@ -93,7 +93,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 **Launch Go/No-go:** 
 - [Launch go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62928)
 
-**Desired date range:** _TBD_
+**Desired date range:** 10/25/2023
 - [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
@@ -105,7 +105,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% |  |  |
+| Launch to 25% | 10/25/2023 | 10/25/2023 |
 | Launch to 50% |  |  |
 | Launch to 100% |  |  |
 
