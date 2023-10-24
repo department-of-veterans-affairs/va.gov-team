@@ -43,9 +43,6 @@ This document is for our design team to communicate field rules to our engineeri
 |Category = `Education benefits and work study` and topic ≠ `VR&E`|Display text input for `Date of Birth` (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
 |Category ≠ `Education benefits and work study`|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
 
-* **Unless** `Who are you asking a question for?` = `A general question`
-* **Update 10/23:** We are still confirming whether this field should be excluded from the education category. This document will be updated once the decision is final.
-
 ## `Branch of service`
 |If|Then|
 |:--|:--|
