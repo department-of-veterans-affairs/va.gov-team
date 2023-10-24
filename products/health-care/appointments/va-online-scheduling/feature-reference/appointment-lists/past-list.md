@@ -4,8 +4,6 @@
 
 Veterans use this list to get a quick understanding of their appointment history.
 
-**Staging URL:** staging.va.gov/health-care/schedule-view-va-appointments/appointments/past
-
 ## User stories
 
 As a Veteran, I want an overview of my appointment history so I can plan future appointments.
@@ -13,9 +11,10 @@ As a Veteran, I want an overview of my appointment history so I can plan future 
 ## Requirements
 
 **Functional**
-- Display all supported appointment types [LINK TBD].
-- Cancelled appointments of any type do not display on the past appointments page.
-- Display 2 years of past appointments.
+- Past appointments for the past two years must display.
+  - The display of past appointments in VAOS must follow the same display business rules noted in upcoming appointments (except for past cancelled appointments which are not displayed in VAOS).
+- VAOS must allow filtering of past appointments by certain time periods.  
+- Cancelled appointments of any type must not display on the past appointments page. 
 
 ## User interface desig
 
