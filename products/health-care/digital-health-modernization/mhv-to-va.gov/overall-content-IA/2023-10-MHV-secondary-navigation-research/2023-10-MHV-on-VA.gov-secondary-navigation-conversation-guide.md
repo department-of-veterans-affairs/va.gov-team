@@ -16,7 +16,7 @@
 Slack for real-time feedback from observers.
 - [ ] Mute your Slack notifications.
 - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-- [ ] Send out the link to the observer Mural board (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1688057183385/892e08ae73c1a90432e0f8bb6cd8a620ee8bf2dc?sender=ub0f383fafad4c2df7fc53935) to observers in the thread
+- [ ] Send out the link to the observer Mural board (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1698174629881/36840450414ec97af58c80e6426b04f043c2c2a7?sender=ueeece9e244394145c84e5173) to observers in the thread
 - [ ] Sign into the Zoom website via Google as Perigean w/the credentials provided and start the Zoom meeting 5-10 minutes before 
 
 
