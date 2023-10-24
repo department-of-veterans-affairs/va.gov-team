@@ -2,7 +2,7 @@
 
 Last updated by @tygindraux: October 23, 2023
 
-This document summarizes the design of the Ask VA form. It describes similarities (and differences) between categories to describe patterns to our engineers.
+This document summarizes patterns in the designs of the Ask VA form by calling out similarities (and differences) between categories.
 
 ## Model categories
 
