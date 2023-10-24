@@ -100,8 +100,7 @@ Our first MVP will have brought the current Ask VA up to VA.gov design standards
 >- Explore use of NLU/free text
 >- AVA placement/integrations with chatbot and resources
 >- Updated existing routing rules to smart routing
-
-
+>- VA Notify integration
 
 ### Initiatives
 
@@ -111,12 +110,11 @@ Link to Initiative Brief on the overall project: https://github.com/department-o
 
 ## Launch Strategy
 
-Launch MVP once all the categories are redesigned.
-
-
+>- Launch MVP once all the categories are redesigned and developed on the new front-end.
+>- Sunset the existing front-end of AVA (which is on the stand alone Microsoft portal) after ~6 months.
+>- Tentatively, planning to go live in the second half of 2024.
 
 Communication Plan:
-
 
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
@@ -124,11 +122,11 @@ Communication Plan:
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - TBD until further conversation with dependent teams
 - *Actual Launch Date* 
-  - tbd
+  - TBD
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - TBD
 
 ---
 
