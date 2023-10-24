@@ -105,52 +105,52 @@ We will use Perigean to recruit participants into cohrots needed for unmoderated
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-**Total requested 72 / 35 total completed**
-- 8 cohorts total / 9 participants per each cohort
+
+**All participants must have:**
+- All have a computer or mobile device and are willing to use it to complete the activity.
 
 
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+|Total requested|Completed sessions|
+|:-------------:|:----------------:|
+|       72      |         35       | 
 
 
-- Mix of demographics (no more than 3 per category on race, age range) - per each cohort
+### Cohort Description
+|                |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|
+|----------------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|***SEX***       |        |        |        |        |        |        |        |        |                
+|Male            |        |   9    |        |        |        |        |        |   5    |   
+|Female          |    9   |        |        |        |        |        |        |   4    |    
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  | 
+|***Age***       |        |        |        |        |        |        |        |        |          
+|18-24 yo        |        |        |    4   |        |        |        |        |        
+|25-34 yo        |        |        |    5   |        |        |        |        |      
+|35-44 yo        |        |        |        |    4   |        |        |        |       
+|45-54 yo        |        |        |        |   5     |        |        |        |       |       
+|55+ yo          |        |        |        |        |     9  |        |   ---  |    ---  |        
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Role***	 |        |        |        |        |        |        |        |         |        
+|Veteran    	 |     9  |   9    |     9  |   9    |    9   |   9    |        |    9    |   
+|Active Duty    |      	  |        |        |        |        |        |     9  |      
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Education*** |        |        |        |        |        |        |        |        
+|High School     |        |        |        |        |        |        |  3     |    
+|Some College    |        |        |        |        |        |        |  1     |      
+|Associate's     |        |        |        |        |        |        |  1      |      
+|Bachelors       |        |        |        |        |        |        |   2     |       
+|Masters         |        |        |        |        |        |        |   2    |     
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |    
 
 
+### Screener question cohort 1-7
+1. Are you currently enrolled in VA health care benefits?
+   	- Yes *disqualify*
+   	- No *(see if fit in cohort 1-7 criteria)*
 
-Cohort 1
-- What is your service connected disability rating? (must be over 50% to qualify)
-
-Cohort 2
-- What is your service connected disability rating? (must be between 30-40% to qualify)
-- Not enrolled in VA health care
-
-Cohort 3
-- What is your service connected disability rating? (must be between 30-40% to qualify)
-- Enrolled in VA health care
-  
-Cohort 4
-- What is your service connected disability rating? (must be between 0-20% to qualify)
-- Not enrolled in VA health care
-
-Cohort 5
-- What is your service connected disability rating? (must be between 0-20% to qualify)
-- Enrolled in VA health care
-
-
-Cohort 6
-- Do you have a service connected disability? (must be NO to qualify, 0% rating)
-- Not enrolled in VA health care
-
-
-Cohort 6
-- Do you have a service connected disability? (must be NO to qualify, 0% rating)
-- Enrolled in VA health care
-
-
-Cohort 8
-- Current Active Duty / Service Member
-- Discharge date in less than 365 days
-
+### Screener question cohort 8
+1. Are you currently enrolled in VA health care benefits?
+   	- Yes *(Qualified for cohort 8)*
+   	- No *(disqualify)*
 
 
 ## Timeline
@@ -176,12 +176,16 @@ Not applicable - unmoderated
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
+- Moderator: Unmoderated tree test
 - Research guide writing and task development (usually but not always same as moderator): Jessica Stump (jessica.stump@adhocteam.us)
-- Participant recruiting & screening:	
-- Project point of contact:	
+- Participant recruiting & screening: Perigean
+- Project point of contact: Jessica Stump (jessica.stump@adhocteam.us)	
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
 - Note-takers:	
-- Observers:	
+- Observers: N/A	
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+
+
+## Approvals
+- 
