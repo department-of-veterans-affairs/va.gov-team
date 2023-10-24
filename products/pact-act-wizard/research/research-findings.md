@@ -444,7 +444,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 
 [Link to Prototype](https://www.surveymonkey.com/r/KKVHSFV)
 
-### Screenshots of the prototype screens--TBD
+### Screenshots of the prototype
 <details>
   <summary>Intro page (Click to show screenshot)</summary>
 
@@ -495,7 +495,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 </details>
 
 <details>
-  <summary>Interactive R1-2 results page with Gulf War conditions open (Click to show screenshots)</summary>
+  <summary>R1-2 results: Gulf War conditions open (Click to show screenshots)</summary>
 
   ![Results-R1-2-GulfWar-accordion-open](./images/Results-R1-2-GulfWar-accordion-open.png)
      
