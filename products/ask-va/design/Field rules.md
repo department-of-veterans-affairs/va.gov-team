@@ -56,7 +56,7 @@ This document is for our design team to communicate field rules to our engineeri
 * We will do additional research with submitters to confirm they always know their or their Veteran's `Branch of Service`.
 
 ## `DoD/EDIPI number`
-* This field will be removed from the form because agents can look this up in MPI using first and last name, DOB and SSN – all of which will be required.
+* This field will be removed from the form because agents can look this up in MPI using first and last name, and DOB or SSN – all of which will be required.
 
 ## When contact options are enabled/disabled
 * Review [List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)
