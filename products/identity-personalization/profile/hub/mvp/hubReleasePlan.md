@@ -1,1 +1,115 @@
+# Hub MVP Release Plan
+
+**Updated:** 10/24/2023 draft
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Important Artifcats](#important-artifacts)
+- [Phase I - UAT](#phase-i---uat)
+- [Phase II - Staged Rollout](#phase-ii---staged-rollout)
+- [Go Live](#go-live)
+- [Post Launch Questions](#post-launch-questions)
+
+
+## Overview 
+
+
+**<details><summary>Related Toggles</summary>**
+<p>
+
+- `add the toggle name`
+  - addthe toggle description
+  - 
+</p>
+</details> 
+
+## Important Artifacts 
+
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/readme.md)
+- [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2023-09-profile-hub-usability) 
+- [Analytics Dashboard
+- [QA Testing Ticket
+- [QA Spreadsheet
+
+
+
+## Phase I - UAT 
+
+### Planning
+
+|Planning Item/Question|Response|
+|---|---|
+|UAT Go/No-go Convo|[Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68248)|
+|Desired Date Range or Test Duration|1 week|
+|Desired Number of Users| |
+|How you'll recruit the right production test users|We will recruit users via Perigean|
+|How you'll conduct the testing|We will conduct UAT over Zoom to ensure the different features work correctly|
+|How you'll give the test users access to the product in production w/o making it live on VA.gov|The feature will be behind a feature flag|
+|Link to Research plan for UAT||
+
+
+### Results 
+|UAT|Result|
+|---|---|
+|Number of Users|  |
+|Number of Bugs Identified/Fixed| |
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?| |
+
+
+## Phase II - Staged Rollout 
+
+### Rollback Plan:
+PM and PO will monitor analytics. If the team notices a spike in errors, they will contact the engineering team to get the FE engineer to disable the toggle(s) previously mentioned. 
+
+### Planning
+**Launch Go/No-go:** 
+- [Launch go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68249)
+
+**Desired date range:** _TBD_
+- [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
+
+**What metrics-based criteria will you look at before advancing rollout to the next stage?:**
+- [Success metrics on project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/hub/mvp#measuring-success)
+
+
+## Go Live
+
+For metrics see the product outline as each phase has metrics tracked there. 
+
+### Planning 
+|Launch % |Desired Date | _Actual Date_ | 
+|-------|-----------|-----------|
+| Launch to 25% |  |  |
+| Launch to 50% |  |  |
+| Launch to 100% |  |  |
+
+### 1-week results at 100%
+||Results|
+|---|---|
+|Number of unique users:||
+|Any issues with VA handling/processing?||
+|Types of errors logged:||
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
+|If yes, what:||
+
+
+### 1-month results at 100%
+||Results|
+|---|---|
+|Number of unique users:||
+|Any issues with VA handling/processing?||
+|Types of errors logged:||
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
+|If yes, what:||
+
+## Post-launch Questions 
+
+_To be completed once you have gathered your initial set of data, as outlined above._ 
+
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+2. What qualitative feedback have you gathered from users or other stakeholders, if any?
+3. Which of the assumptions you listed in your product outline were/were not validated? 
+4. How might your product evolve now or in the future based on these results?
+
 
