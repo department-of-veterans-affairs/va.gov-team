@@ -433,7 +433,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 
 ### Tools used for synthesis
 
-[Synthesis spreadsheet TBD]()
+[Synthesis spreadsheet]()
 
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695248543925/d04d52d1f06a9edb2217447cc526a2b7cef4b613?sender=uff8fa85716c1796ccf022668)
 
@@ -454,20 +454,40 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 </details>
 
 <details>
-  <summary>Questions (Click to show screenshots)</summary>
+  <summary>Questions in the wizard (Click to show screenshots)</summary>
 
-  ![question-pg]()
- 
+  ![q1]()
+  ![q2]()
+  ![q3]()
+  ![q4]()
+  ![q5]()
+  ![q6]()
+  ![q7]()
+  ![q8]()
+  ![q9]()
+  ![q10]()
   
 </details>
 
 
 <details>
-  <summary>Results page (Click to show screenshots)</summary>
+  <summary>Static results pages (Click to show screenshots)</summary>
 
-  ![results]()
-  ![results]()
-   
+  ![results--benefit-eligibility]()
+  ![results--lejeune]()
+     
+</details>
+
+<details>
+  <summary>Interactive R1 results pages (Click to show screenshots)</summary>
+
+  ![Results-R1-1-top]()
+  ![Results-R1-1-bottom]()
+  ![Results-R1-2-top]()
+  ![Results-R1-2-mid]()
+  ![Results-R1-2-bottom]()
+  ![Results-R1-2-GulfWar-accordion-open]()
+     
 </details>
 
 
