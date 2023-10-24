@@ -86,7 +86,7 @@ Just as a reminder, this is a prototype, which means that it will behave differe
 
 _Send link to prototype:_
 
-**Task 1 - (Start from the signed-in MHV landing page) You want to check your lab result from your recent visit and make a follow-up appointment per your provider's instruction.**  It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+**Task 1 - (Start from the signed-in MHV landing page) You want to check your lab result from your recent visit and ask a question about your lab result.**  It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -96,39 +96,55 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on the second menu_)?
 - (_If participant still cannot find it, direct them to it and continue with the interview._)
 
-**Must do:**
+**Must ask:**
 - (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
-- (_Pay attention to_) Where does participant click first, and why?
+- (_Pay attention to_) Where does participant click first, and ask why?
+- (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
 
 
-**Task 2 - (from where they left off) Imagine that you have taken some medications for a while. You want to check which medications need to be renewed, and ask your healthcare team to renew them.** 
+**Task 2 - (from where they left off) Imagine that you have taken some medications for a while. You want to check which medications need to be renewed, and ask your healthcare team how to renew them.** 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
 - What do you think should happen if you (_do something_)?
 
-Ask: 
-- (_If participant looks for past appointments in the secondary nav._) Do you think you'd find past appointments in the menu, and why?
-- (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
-
-**Must do:**
-- (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page?
+**Must ask:**
+- (_If participant goes back to MHV landing page for medications_) Why did you go back to the MHV landing page?
 - (_Pay attention to_) Did they use breadcrumbs?
-- 
+- (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
 
-**Task 3 - (from where they left off) You're assigned to a new doctor recently, but you don't remember their name. You want to check your provider's name from the recent appointment.** 
+
+**Task 3 - (from where they left off) You're assigned to a new doctor recently, but you don't remember their name. You want to check your provider's name from your recent appointment visit.** 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
 - Why did you (_do that, go there, try that_)? 
-- What do you think should happen if you (_do something_)? 
+- What do you think should happen if you (_do something_)?
 
-**If participant clicks on mega menu during any task, don't let them go further, but ask:**
+**Must ask:**
+- (_If participant looks for past appointments in the secondary nav._) Do you think you'd find past appointments in the menu, and why?
+- (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
+
+**If participant clicks on the mega menu during any task, don't let them go further, but ask:**
 - What do you expect to find there?
 - What do you think the differences are between the main and secondary menus (pointing them out)?
-- (_if participant click on something on main menu_) Where are you now, and can you get back to where you were? 
+
 
 **Task 4 - (from where they left off) Imagine you're going on an overseas trip, and you need to download all your medical records. Where would you go to do that?** 
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
+- What are you thinking as you (_go somewhere, do something_)? 
+- Why did you (_do that, go there, try that_)? 
+- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
+- What do you think should happen if you (_do something_)?
+- (_If participant can't find it_) Where would you expect to find that? (If still struggle, tell me it's under medical records.)
+
+**Must ask:**
+- (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
+- (_Pay attention to_) Where does participant click first, and ask why?
+- (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
+- 
+
 
 
 **I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
