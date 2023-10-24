@@ -1,13 +1,13 @@
 # About this Research Study
-- **Study Name:** Project Name (ex. MHV Authenticated Experience)
-- **Study Dates:** (can be month study was held or specific)
-- **Study Research Lead:**
-- **A11y Collaborators:**
-- **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
-- **Ticket Links:** EPIC and/or CAIA research assistance request ticket
+- **Study Name:** Project Name Debt Resolution: Streamlined Waiver
+- **Study Dates:** October 24 - November 3, 2023
+- **Study Research Lead:** Charlotte Cesana
+- **A11y Collaborators:** Sara and SK
+- **Related Docs:** Link to [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/research-plan.md) and [communication guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/conversation-guide.md)
+- **Ticket Links:** EPIC and/or [CAIA research assistance request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62881)
 
 # Accessibility Tools Utilized
-`ZoomText` `JAWs` `iOS-VO` (List types of AT covered here)
+**EXAMPLES**: `ZoomText` `JAWs` `iOS-VO` **(List types of AT covered here)**
 
 ## Coverage
 This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
@@ -27,19 +27,24 @@ To best serve the users of VA.gov, we will need to collect the following informa
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
 | _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
+|      P1                  |  10/24/2023                |                    |                 |                      |             |             | 
+|  P2                      |           10/24/2023       |                    |                 |                      |             |             |
+|    P3                    |     10/25/2023             |                    |                 |                      |             |             |
+|    P4                    |          10/25/2023        |                    |                 |                      |             |             |
+|   P5                     |     10/26/2023             |                    |                 |                      |             |             |
+|    P6                    |        10/27/2023          |                    |                 |                      |             |             |
+|       P7                 |            10/30/2023      |                    |                 |                      |             |             |
+|   P8                     |          10/31/2023        |                    |                 |                      |             |             |
+|   P9                     |              11/1/2023    |                    |                 |                      |             |             |
+|       P10                 |                 11/3/2023 |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
+
 
 **Participants who successfully completed sessions: XX**
 
-**Examples below:**
-- [1 desktop JAWS user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p2.md)
-- [1 iOS VoiceOver user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p15.md)
-- [1 desktop zoom text reader user (magnification, screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p1.md)
+## Transcripts
+[Transcripts Folder for Debt Resolution Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/c312723a9f11ddde0199374b6720dfd784883b25/products/streamlined_waiver/accessibility_research/transcripts)
 
 ## Key Findings
 Add screenshots, images and videos here.
