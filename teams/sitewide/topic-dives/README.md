@@ -24,6 +24,7 @@ Please add any potential future topics you would like covered below:
 - Dave Pickett
 - The [VA Service Taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/va-service-taxonomy) is a confusing part of the Facilities product portfolio. It is simultaneuously the simplest of our products (very little dedicated code, mostly powered by out of the box Drupal functionality, content updates are infrequent, no dedicated front end to maintain, etc.) and the most complex (source of truth for fields on lots of other content types, governance spans all our stakeholders, small changes can have large downstream impacts, etc.). Tune in to learn about how the VA Service Taxonomy works and how it is key to the long-term vision of the Facilities team.
 - [Slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/va-service-taxonomy/VA-Service-Taxonomy-presentation.pdf)
+- [Short and sweet slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/va-service-taxonomy/VA-Service-Taxonomy-presentation-short.pdf)
 - [Video](https://civicactions.zoom.us/rec/share/-GLIWsuKf2InesjrbmkXDDVvLR0bUS8eFPlSZ8PQ0AFrafNOqTIhF1ke5sM75qce.Yt_ecWRSRFoDjuHb) Passcode: 3wb@c&dA
 
 ### 10/16/23 - Datadog!
