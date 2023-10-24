@@ -30,13 +30,10 @@ This document is for our design team to communicate field rules to our engineeri
 * Who the inquiry is about can be the Veteran or dependent, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
 
 ## `Social security number`
-|If|Then|
-|:--|:--|
-|[all categories except Education]|Display text input for `Social Security Number` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|
-
-* **Unless** `Who are you asking a question for?` = `A general question`
-* **Update 10/23:** We are still confirming how this field should work, given information that some Veterans do not have a SSN and use a `Service number` instead. This document will be updated once the decision is final.
-* **Update 10/23:** We are still confirming whether this field should be excluded from the education category. This document will be updated once the decision is final.
+|If|Then|Unless|
+|:--|:--|:--|
+|[all categories] except `Education benefits and work study`|Display `Social Security Number or Service Number` component (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
+|`Education benefits and work study`|Display text input for `Social Security Number or Service Number` component (*Required) in `Contact information` in `Chapter 4 of 5: Personal information`|`Relationship to the Veteran` = `Business relationship`|
 
 ## `Date of birth`
 |If|Then|
