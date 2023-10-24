@@ -33,18 +33,18 @@ This document is for our design team to communicate field rules to our engineeri
 |If|Then|Unless|
 |:--|:--|:--|
 |Category = `Education benefits and work study` and topic ≠ `VR&E`|Display `Social Security Number or Service Number` component (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
-|Category = `Education benefits and work study` and topic = `VR&E`|Follows same rules as all other categories|||
+|Category = `Education benefits and work study` and topic = `VR&E`|Follow same rules as all other categories|||
 |Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Display `Social Security Number or Service Number` component (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
-|Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Follows same rules as all other categories|||
+|Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Follow same rules as all other categories|||
 |All other categories|Display `Social Security Number or Service Number` component (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
 
 ## `Date of birth`
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Education benefits and work study` and topic = `VR&E`|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
 |Category = `Education benefits and work study` and topic ≠ `VR&E`|Display text input for `Date of Birth` (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
+|Category = `Education benefits and work study` and topic = `VR&E`|Follow same rules as all other categories|||
 |Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Display text input for `Date of Birth` (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
-|Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
+|Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Follow same rules as all other categories|||
 |All other categories|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
 
 ## `Branch of service`
