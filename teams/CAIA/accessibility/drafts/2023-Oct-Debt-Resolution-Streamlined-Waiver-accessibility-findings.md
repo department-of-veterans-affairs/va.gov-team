@@ -1,5 +1,5 @@
 # About this Research Study
-- **Study Name:** Project Name Debt Resolution: Streamlined Waiver
+- **Study Name:** Debt Resolution: Streamlined Waiver
 - **Study Dates:** October 24 - November 3, 2023
 - **Study Research Lead:** Charlotte Cesana
 - **A11y Collaborators:** Sara and SK
