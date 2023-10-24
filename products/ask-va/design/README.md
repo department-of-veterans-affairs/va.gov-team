@@ -13,6 +13,7 @@ We also keep additional design documentation for our engineers to reference, [in
 |[Field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)|Describes when to apply certain fields based on their rules|October 23, 2023|
 |[List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|Describes when to disable or enable contact options by category and topic|October 13, 2023|
 |[Category, topic and subtopic labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md)|Lists the agreed names of the categories, topic and subtopics for MVP|October 17, 2023|
+|[Similarities and differences between categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md)|Describes similarities (and differences) between categories to describe patterns in the design of the Ask VA form.|October 23, 2023|
 
 ### Get in touch
 Reach out on [#ask-va-public](https://dsva.slack.com/archives/C05A2F6DEAE) or contact Thomas Michaud (thomas.michaud@oddball.io) or Tyler Gindraux (tyler@bluetiger.digital) about these designs.
