@@ -16,7 +16,7 @@ This document is for our design team to communicate field rules to our engineeri
 ## `Gender identity`
 |If|Then|Unless|
 |:--|:--|:--|
-|[all categories]|Display `Gender identity` component (*Required) for `Submitter` in `Chapter 4 of 5: Personal information`||
+|All categories|Display `Gender identity` component (*Required) for `Submitter` in `Chapter 4 of 5: Personal information`||
 
 - Submitter can be the Veteran, dependent, or a third party, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
 - **Update 10/23:** We recommend that this field is removed. This document will be updated once the decision is final.
@@ -24,7 +24,7 @@ This document is for our design team to communicate field rules to our engineeri
 ## `Pronouns`
 |If|Then|Unless|
 |:--|:--|:--|
-|[all categories]|Display `Pronouns` component (*Required) for `Submitter` **and** `Who the inquiry is about` in `Chapter 4 of 5: Personal information`||
+|All categories|Display `Pronouns` component (*Required) for `Submitter` **and** `Who the inquiry is about` in `Chapter 4 of 5: Personal information`||
 
 * Submitter can be the Veteran, dependent, or a third party, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
 * Who the inquiry is about can be the Veteran or dependent, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
@@ -32,16 +32,16 @@ This document is for our design team to communicate field rules to our engineeri
 ## `Social security number`
 |If|Then|Unless|
 |:--|:--|:--|
-|`Education benefits and work study` and topic = `VR&E`|Display `Social Security Number or Service Number` component (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
-|All other topics in `Education benefits and work study`|Display `Social Security Number or Service Number` component (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
-|All other topics|Display `Social Security Number or Service Number` component (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
+|Category = `Education benefits and work study` and topic = `VR&E`|Display `Social Security Number or Service Number` component (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
+|Category = `Education benefits and work study` and topic ≠ `VR&E`|Display `Social Security Number or Service Number` component (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
+|Category ≠ `Education benefits and work study`|Display `Social Security Number or Service Number` component (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
 
 ## `Date of birth`
 |If|Then|Unless|
 |:--|:--|:--|
-|`Education benefits and work study` and topic = `VR&E`|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
-|All other topics in `Education benefits and work study`|Display text input for `Date of Birth` (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
-|All other topics|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
+|Category = `Education benefits and work study` and topic = `VR&E`|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
+|Category = `Education benefits and work study` and topic ≠ `VR&E`|Display text input for `Date of Birth` (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
+|Category ≠ `Education benefits and work study`|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
 
 * **Unless** `Who are you asking a question for?` = `A general question`
 * **Update 10/23:** We are still confirming whether this field should be excluded from the education category. This document will be updated once the decision is final.
