@@ -46,7 +46,7 @@ This document is for our design team to communicate field rules to our engineeri
 ## `Branch of service`
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Display select menu for `Branch of Service` (**Required) in `Veteran information` in `Chapter 4 of 5: Personal information`||`Who are you asking a question for?` = `A general question`|
+|Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Display select menu for `Branch of Service` (**Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
 
 * While agents are not able to look this up using their MPI search tool in the CRM, this data **is** in MPI.
 
