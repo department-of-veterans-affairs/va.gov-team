@@ -67,7 +67,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 - [Launch go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68249)
 
 **Desired date range:** _TBD_
-- [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
+- [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68251) 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 - [Success metrics on project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/hub/mvp#measuring-success)
