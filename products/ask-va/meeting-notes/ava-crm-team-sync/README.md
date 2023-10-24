@@ -29,7 +29,7 @@
    * Used for pre-fill.
    * Backend uses the pre-filled values, so those fields still need to be included with the inquiry that gets submitted.
    * Jacob to compare with the data dictionary to see which fields may be missing.
-   * Need to have a business email and a persoanl email to split the dashboard into personal / buisiness tabs.
+   * Need to have a business email and a personal email to split the dashboard into personal / business tabs.
 
 ### Action Items:
 
