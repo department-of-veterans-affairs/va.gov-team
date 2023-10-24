@@ -132,14 +132,16 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 |***Role***	 |        |        |        |        |        |        |        |         |        
 |Veteran    	 |     9  |   9    |     9  |   9    |    9   |   9    |        |    9    |   
 |Active Duty    |      	  |        |        |        |        |        |     9  |      
-|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
-|***Education*** |        |        |        |        |        |        |        |        
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Education*** |        |        |        |        |        |        |        |         |        
 |High School     |        |        |        |        |        |        |  3     |    
 |Some College    |        |        |        |        |        |        |  1     |      
 |Associate's     |        |        |        |        |        |        |  1      |      
 |Bachelors       |        |        |        |        |        |        |   2     |       
 |Masters         |        |        |        |        |        |        |   2    |     
-|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |    
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Benefits***  |        |        |        |        |        |        |        |        |      
+|Health care     |  0     |   0    |        |        |        |        |        |  9     |    
 
 
 ### Screener question cohort 1-7
