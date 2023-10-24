@@ -8,7 +8,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
  - **GOAL: Ongoing Production Support**
  - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goals: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
+    - **Sub Goal: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
     - **Sub Goal: Add Travel Claim Terms of Agreement** 
     - **Sub Goal: File any Claim Type for a Past Appointment - Design & Discovery**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
@@ -62,7 +62,8 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68086)
 - **GOAL: Address tech & design debt**        
-    - TBD
+    - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)
+       - TBD
 
 -------------- END FUTURE / TENTATIVE ---------------
 __________________________________________________________________________________________________________________________________________________________
