@@ -1,18 +1,20 @@
 # Similarities and differences between categories
 
-Last updated by @tygindraux: October 23, 2023
+Last updated by @tygindraux: October 24, 2023
 
-This document summarizes patterns in the designs of the Ask VA form by calling out similarities (and differences) between categories. It is intended to be helpful for our engineers as they start building.
+This document summarizes patterns in the design of the Ask VA form by calling out similarities (and differences) between categories. It's intended to be helpful for our engineers as they start building.
 
 ## Model categories
 
 There are a certain categories which we think are a good example of a "type" of category, or a model. These can be used as a reference when building categories similar to it.
 
-### Model A: `Disability compensation`
+### `Disability compensation` aka The Vanilla Flow 🍦
 
-### Model B: `Health care`
+The `Disability compensation` category is a good example of what we've referred to as "a vanilla flow." It's straightforward, with few conditionals, and many other categories mimic it exactly (apart, from obviously, the category, topic and subtopic labels).
 
-### Model C: `Education benefits and work study`
+### `Health care` aka Spaghetti and Meatballs 🍝
+
+### `Education benefits and work study` aka "I'm Different" 👽
 
 The `Education benefits and work study` category is unique because:
 - For most topics (besides `Veteran Readiness and Employment`) in this category, there is no
