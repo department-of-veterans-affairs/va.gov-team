@@ -32,7 +32,6 @@ We talked to **4 participants**, each of whom had a considerable amount of exper
 1. Improved search functionality 
 
     As a KB user, I want the search functionality to be improved so that I can receive more relevant results and efficiently find the information I need. 
-<br>
 
 2. Knowledge Base jumping off points 
 
@@ -42,7 +41,7 @@ We talked to **4 participants**, each of whom had a considerable amount of exper
 3. Improved navigation experience 
 
     As a KB user, I want the layout of the left navigation menu within the knowledge base to be improved so that I can easily locate the articles and information I need.  
-<br>
+
 4. Relevant content for different needs 
 
     As an editor with specific needs, I want the landing page of the knowledge base to display articles that are immediately relevant to my focus areas so I can quickly find pertinent information, boosting my confidence in the KB’s usefulness.  
@@ -51,7 +50,7 @@ We talked to **4 participants**, each of whom had a considerable amount of exper
 
 5. Enriching articles with visuals
     As a KB article author, I want to add images and media to knowledge base articles so that I can enhance the understanding of complex or unfamiliar language and concepts (e.g., by incorporating screenshots) to improve the clarity and usability of instructions and explanations.
-<br>
+
 6. Article style consistency 
 
     As a KB article reader, I want the lack of consistency in article formatting, content, and adherence to a specific style guide to be addressed, so that all articles can provide the same level of information, clarity, and usability. 
@@ -61,7 +60,7 @@ We talked to **4 participants**, each of whom had a considerable amount of exper
 7. Improved language and terminology 
 
      As a KB article reader, I want articles to be written in a straightforward, easy-to-understand manner, with clear terminology, so that people new to Drupal can quickly grasp the content without confusion. 
-<br>
+
 8. Clarity and recency of instructions 
 
     As a KB article reader, I want articles to be both up-to-date and clear, to ensure that I, and fellow editors, can trust the accuracy and easily follow the guidance provided in the articles. 
