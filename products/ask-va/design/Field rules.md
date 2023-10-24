@@ -44,13 +44,11 @@ This document is for our design team to communicate field rules to our engineeri
 |Category ≠ `Education benefits and work study`|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
 
 ## `Branch of service`
-|If|Then|
-|:--|:--|
-|Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Display select menu for `Branch of Service` (**Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|
+|If|Then|Unless|
+|:--|:--|:--|
+|Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Display select menu for `Branch of Service` (**Required) in `Veteran information` in `Chapter 4 of 5: Personal information`||`Who are you asking a question for?` = `A general question`|
 
-* **Unless** `Who are you asking a question for?` = `A general question`
-* Agents are not able to look this up using the current MPI search tool in CRM, but this data **is** apparently in MPI.
-* We will do additional research with submitters to confirm they always know their or their Veteran's `Branch of Service`.
+* While agents are not able to look this up using their MPI search tool in the CRM, this data **is** in MPI.
 
 ## `DoD/EDIPI number`
 * This field will be removed from the form because agents can look this up in MPI using first and last name, and DOB or SSN – all of which will be required.
