@@ -18,8 +18,10 @@ You can review the [Design requirements: Life insurance](https://app.mural.co/t/
 
 #### Which categories are similar to `Life insurance`?
 - `Center for Minority Veterans`
+- `Decision reviews and appeals`
 - `Burials and memorials`, but it includes the `Branch of Service` field (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md))
 - `Disability compensation`, but it includes the `Branch of Service` field (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md))
+- `Sign in and technical issues`, but since email is the only contact option, the contact preference is removed, we never collect address and the submission text is different
 - `Debt`, but it requires authentication and sometimes includes the VA Medical Center search facility component
 
 ### `Health care` aka Spaghetti and Meatballs 🍝
@@ -28,28 +30,3 @@ You can review the [Design requirements: Life insurance](https://app.mural.co/t/
 
 The `Education benefits and work study` category is unique because:
 - For most topics (besides `Veteran Readiness and Employment`) in this category, there is no
-
-## List of similar categories
-
-This list is alphabetized by category name. 
-
-|Category|Rule|
-|:--|:--|
-|`Benefits issues outside the U.S.`|This category forks and is then identical to `Disability compensation` and `Education benefits and work study`.|
-|`Burials and memorials`|This category is identical to `Disability compensation`.|
-|`Center for Minority Veterans`|This category is identical to `Disability compensation`, but excludes the `Branch of Service field.|
-|`Center for Women Veterans`||
-|`Debt for benefit overpayments and copay bills`||
-|`Decision reviews and appeals`||
-|`DEERS (Defense Enrollment Eligibility Reporting System)`||
-|`Disability compensation`||
-|`Education benefits and work study`||
-|`Guardianship, custodianship, or fiduciary issues`||
-|`Health care`||
-|`Housing assistance and home loans`||
-|`Life insurance`||
-|`Pension`||
-|`Sign in and technical issues`||
-|`Survivor benefits`||
-|`Veteran ID Card (VIC)`||
-|`Veteran Readiness and Employment`||
