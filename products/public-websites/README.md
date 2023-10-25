@@ -13,11 +13,20 @@ VA Product Owner = Dave Conlon (@davidconlon)
 - [va.gov-cms Sprint board](https://github.com/department-of-veterans-affairs/va.gov-cms/#workspaces/public-websites-6171bf4bf43742001af18cc5/board)  (install Zenhub browser plugin)
 - Team label: `Public Websites`
 
+### Monitoring
+[Public Websites Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard?refresh_mode=sliding&from_ts=1698247139212&to_ts=1698250739212&live=true)
+Monitors for each product are described within product folders. e.g. 
+* Find a Form
+* VA.gov homepage
+* Header (incl megamenu) and Footer, and injected sites
+* VA.gov search
+TODO: create monitoring notes in each product and link them here
 
 # Products we support
 
-[Sitewide Public Websites purview mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1658961045082/cedcb1c5c42489e47be37733c73890ef890070ae?sender=4546ef8b-a453-424d-a34c-01d90db04d5f)
+[Sitewide Public Websites purview mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1646745279937/9a5570c420939d84e875e8334fd73073e3a3971b?fromVisitorModal=true&sender=u0b235d03cbd64f7f93673243)
 
+## 
 
 | [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
 | ------------- | ------------- | ------------- |
