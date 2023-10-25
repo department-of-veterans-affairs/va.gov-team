@@ -8,6 +8,9 @@ A user is considered "LOA1" when they log in to VA.gov and they have not verifie
 - [Desktop mock-up](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/529RArL)
 - [Mobile mock-up](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/zxLrdol)
 
+## Common use cases
+- [LOA1 user does not have any saved applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases/LOA1-without-saved-applications.md)
+- [LOA1 user has saved application(s)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases/LOA1-with-saved-applications.md)
 
 ## Flow diagrams
 - [User flow for LOA1 user on My VA](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/3oDRx5D)
