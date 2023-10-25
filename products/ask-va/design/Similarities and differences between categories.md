@@ -76,7 +76,7 @@ The `Education benefits and work study` category requires authentication. It als
 - if `Topic` ≠ `Veteran Readiness and Employment` 
 
 #### If Topic = Veteran Readiness and Employment
-It will follow the same pattern as `Category` = `Veteran Readiness and Employment` ([see above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-)), apart from requiring authentication because it sits within the `Education benefits and work study` category, in this case.
+It will follow the same pattern as `Category` = `Veteran Readiness and Employment` ([see above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-)). But, because it sits within the `Education benefits and work study` category in this case, it does require authentication.
 
 #### If Topic ≠ Veteran Readiness and Employment
 For all other `Topics` in `Education benefits and work study` it follows a unique structure, aka **"I'm Different"**:
