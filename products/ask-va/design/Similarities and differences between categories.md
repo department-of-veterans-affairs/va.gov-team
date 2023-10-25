@@ -36,8 +36,8 @@ You can review the [Design requirements: Life insurance](https://app.mural.co/t/
 - `DEERS (Defense Enrollment Eligibility Reporting System)` is similar, but because email is the only contact option: the contact preference question is removed, we never collect address and the submission body copy changes
 - `Veteran ID Card (VIC)` is similar, but it includes [Branch of Service] (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)) and because email is the only contact option: the contact preference question is removed, we never collect address and the submission body copy changes
 - `Debt` is similar, but it requires authentication and for one topic it includes [VA Medical Center search facility]
-- `Health care` includes too many differences to call it similar, jump to [`Health care`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-)
-- `Education` includes too many differences to call it similar, jump to [`Education benefits and work study`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-)
+- `Health care` includes too many differences to call it similar, jump ahead to [`Health care`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-)
+- `Education` includes too many differences to call it similar, jump ahead to [`Education benefits and work study`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#education-benefits-and-work-study-aka-im-different-)
 
 ---
 
