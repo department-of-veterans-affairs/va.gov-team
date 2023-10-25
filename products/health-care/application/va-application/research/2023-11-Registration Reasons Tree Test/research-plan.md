@@ -64,13 +64,14 @@ How will this research advance your product to the next phase in the design proc
 ### Hypothesis
 - Hypothesis that for the appointment registration scenarios - like a C&P or toxic exposure exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
 - Hypothesis that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
-- We hypotheis that their expectation is getting the most the can due to their disability rating and that they are applying for the most they are eligible for.
-
+- We hypothesise that their expectation is getting the most the can due to their disability rating and that they are applying for the most they are eligible for.
+- We hypothesise that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking.
 
 ## Methodology	
 
 - Tree tests - appropriate for evaluative research
 - Unmoderated 
+
 
 ### Location
 - Unmoderated
@@ -186,12 +187,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Moderator: Unmoderated tree test
 - Research guide writing and task development (usually but not always same as moderator): Jessica Stump (jessica.stump@adhocteam.us)
 - Participant recruiting & screening: Perigean
-- Project point of contact: Jessica Stump (jessica.stump@adhocteam.us)	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers: N/A	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Participant(s) for pilot test: 
 
 
 ## Approvals
