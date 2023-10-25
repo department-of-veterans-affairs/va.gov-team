@@ -69,16 +69,16 @@ At least one of the following, `Social security number` or `Service number`, wil
 
 ### Branch of service
 
-**This field will change.** Previously, when military fields were present, `Branch of service` was always optional.
-
-However, there are certain business lines that need to know `Branch of service` for their category:
+**This field will change.** This field will be required for these categories:
   - `Veteran ID Card (VIC)`
   - `Disability compensation` (including when `Disability compensation` is a topic under `Benefits issues outside the U.S.`)
   - `Survivor benefits`
   - `Burials and memorials`
   - `Center for Women Veterans`
 
-By making this field required when business lines say they need it, our hypothesis is that agents will more often have the information they need to reply to a submitter in the first instance. And by removing this field when business lines say they don’t need it, we minimize the need for submitters to enter unnecessary information.
+For any other category, it will not be included in the form.
+
+Previously, when military fields were present, `Branch of service` was always optional. By making this field required when business lines say they need it, our hypothesis is that agents will more often have the information they need to reply to a submitter in the first instance. And by removing this field when business lines say they don’t need it, we minimize the need for submitters to enter unnecessary information.
 
 If an inquiry is re-routed to one of these business lines from a business line that does not include `Branch of service`, they will be missing this information. But, we don’t believe that including this field as optional solves the problem. There’s still a likelihood that submitters:
 - do not fill out the field, when it’s needed
