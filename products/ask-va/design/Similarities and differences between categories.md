@@ -12,7 +12,7 @@ Note: If we say that a category is the "same" as another, an exception to their 
 
 **Jump to:**
 - [Life insurance aka The Vanilla Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-) 🍦
-- [Health care aka All-Day Lasagna](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-) 🍝
+- [Health care aka All-Day Lasagna](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-all-day-lasagna-) 🍝
 - [Education benefits and work study aka "I'm Different"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#education-benefits-and-work-study-aka-im-different-) 👽
 
 ---
