@@ -52,7 +52,7 @@ Tools Veterans can use to manage their appointments and requests.
 
 | Feature | Description | 
 |---|---|
-| Cancel appointment/request | | 
+| [Cancel appointment/request](./tools/tool-cancel.md) | | 
 | Add to calendar | | 
 | Print | | 
 

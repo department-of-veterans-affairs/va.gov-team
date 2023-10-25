@@ -13,6 +13,10 @@ A scheduled in-person appointment at a VA facility.
 
 **Functional**
 
+- User can review data to understand their appointment (see table below).
+- User can complete tasks related to their appointment (see table below).
+- [Requirements for canceled appointments](../tools/tool-cancel.md#requirements) are followed.
+
 | Display this data                                  | For Active Appts  | For Canceled Appts |
 | -------------------------------------------------- | ----------------- | ------------------ |
 | Appointment Date and Time (including Month, Day, Day of Week, Time and Time zone)                                                | ✅                 | ✅                  |
@@ -25,12 +29,8 @@ A scheduled in-person appointment at a VA facility.
 | -------------------------------------------------- | ----------------- | ------------------ |
 | Add to Calendar Action                             | ✅                 |                   |
 | Print Action                                       | ✅                 |                   |
-| Cancel Action                                      | ✅                 |                   |
+| [Cancel Action](../tools/tool-cancel.md)                                      | ✅                 |                   |
 
-**Canceled Appointments**
-
-- Cancelled VA appointments with VistA Status = `CANCELLED BY PATIENT` (VSE GUI Expand Entry for appointment) status must display text indicating that the veteran cancelled the appointment.  
-- Cancelled VA appointments with VistA Status = `CANCELLED BY CLINIC` (VSE GUI Expand Entry for appointment) status must display text indicating that the facility cancelled the appointment.  
 
 
 
