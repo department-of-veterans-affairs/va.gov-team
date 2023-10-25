@@ -42,8 +42,8 @@ Review this category here:
 |`Veteran Readiness and Employment`|Similar but it includes a [VR&E information] section which you can review in [Sketch: VR&E](https://sketch.com/s/d5ab371b-3b77-4fef-a616-aa1345675f7c)|
 |`Debt`|Similar but it requires authentication and for one topic it includes [VAMC search facility] which you can review in [Sketch: Search Facility](https://sketch.com/s/9a9968fd-01c9-4f51-b7be-076b25a3b019)|
 |`Benefits issues outside the U.S.`|If `Topic` = `Disability compensation` then it's the same as `Category` = `Disability compensation`; if `Topic` = `Education` then it's the same as `Category` = `Education`|
-|`Health care`|Similar but more complex, jump ahead to [`Health care`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-)|
-|`Education benefits and work study`|Similar if `Topic` = `Veteran Readiness and Employment` and different for all other topics, jump ahead to [`Education benefits and work study`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#education-benefits-and-work-study-aka-im-different-)|
+|`Health care`|Similar but more complex; jump ahead to [`Health care`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-)|
+|`Education benefits and work study`|If `Topic` = `Veteran Readiness and Employment` then it's the same as `Category` = `Veteran Readiness and Employment` and different for all other topics; jump ahead to [`Education benefits and work study`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#education-benefits-and-work-study-aka-im-different-)|
 
 ---
 
@@ -65,13 +65,17 @@ Review this category here:
 
 ### `Education benefits and work study` aka "I'm Different" 👽
 
-The `Education benefits and work study` category is the most unique. **The Vanilla Flow** forks into four sections, based on whether a submitter is asking:
+The `Education benefits and work study` category is the most unique. First off, it forks depending on whether `Topic` = `Veteran Readiness and Employment` or `Topic` = [all other topics].
+
+If `Topic` = `Veteran Readiness and Employment`, then it will  
+
+**The Vanilla Flow** forks into four sections, based on whether a submitter is asking:
 - a general question
 - about me, the Veteran
 - for the dependent of a Veteran
 - on behalf of a Veteran
 
-But the `Education benefits and work study` category does not follow this pattern. Instead, it asks 
+But the `Education benefits and work study` category does not follow this pattern. Instead, it asks the submitters relationship to the Veteran in order to determine whether it's a business or personal relationship.
 - For most topics (besides `Veteran Readiness and Employment`) in this category, there is no
 
 Review this category here:
