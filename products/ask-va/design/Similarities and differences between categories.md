@@ -10,6 +10,8 @@ There are a certain categories which we think are a good example of a "type" of 
 
 If we say that a category is the "same" as another, an exception to their sameness will always be the names of the category, topic and subtopics (review [label names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md).
 
+---
+
 ### `Life insurance` aka The Vanilla Flow 🍦
 
 The `Life insurance` category is a good example of what we've referred to as "a vanilla flow." It's a good base because it's straightforward, with few conditionals, and many other categories mimic it exactly. This category always has the same contact options available (email, phone and US Mail are all always `ENABLED`) which also makes the contact information section simple.
@@ -24,7 +26,11 @@ You can review the [Design requirements: Life insurance](https://app.mural.co/t/
 - `Sign in and technical issues`, but since email is the only contact option, the contact preference is removed, we never collect address and the submission text is different
 - `Debt`, but it requires authentication and sometimes includes the VA Medical Center search facility component
 
+---
+
 ### `Health care` aka Spaghetti and Meatballs 🍝
+
+---
 
 ### `Education benefits and work study` aka "I'm Different" 👽
 
