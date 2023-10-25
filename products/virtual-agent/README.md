@@ -5,8 +5,8 @@ This repository contains research, documentation and diagrams for the virtual ag
 In case of a DDOS attack or inaprropriate use of the Virtual Agent, disable the `virtual_agent_token` toggle in flipper/features to block new connections to webchat. When the endpoint is healthy again, you can enable the `virtual_agent_token` toggle.
 
 ## Team ##
-- Product Owner: Nathalie Raytor
-- Product Advisor: Luciana Moraise
+- Product Owner (VES): Nathalie Raytor
+- Product Owner (OCTO-DE): Luciana Morais
 - Tech Lead: Karan Krishnani
 - Project Manager: Zinal Patel
 - Product Manager: Joy Elizabeth
