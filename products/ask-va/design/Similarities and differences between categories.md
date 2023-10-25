@@ -75,10 +75,10 @@ Review this category here:
 
 The `Education benefits and work study` category forks depending on:
 - if `Topic` = `Veteran Readiness and Employment`
-- if `Topic` ≠ `Veteran Readiness and Employment`. 
+- if `Topic` ≠ `Veteran Readiness and Employment` 
 
 #### If `Topic` = `Veteran Readiness and Employment`
-In this case, it follows the same pattern as `Category` = `Veteran Readiness and Employment` ([see above]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-))).
+It will follow the same pattern as `Category` = `Veteran Readiness and Employment` ([see above]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-))).
 
 #### If `Topic` ≠ `Veteran Readiness and Employment`
 For all other `Topics` in `Education benefits and work study` it follows a unique structure:
