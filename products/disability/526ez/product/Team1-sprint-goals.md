@@ -23,7 +23,6 @@ Period - 10/25/2023 - 11/07/2023
    - 526ez sync with paper version 
        - [ ] New military service questions - kick-off collab cycle
        - [ ] Toxic Exposure design changes 
-
          
 - **Other**
 - - [ ] Shadow Research plan
