@@ -81,7 +81,7 @@ The `Education benefits and work study` category requires authentication. It als
 It will follow the same pattern as `Category` = `Veteran Readiness and Employment` ([see above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-)), apart from requiring authentication because it sits within the `Education benefits and work study` category, in this case.
 
 #### If `Topic` ≠ `Veteran Readiness and Employment`
-For all other `Topics` in `Education benefits and work study` it follows a unique structure:
+For all other `Topics` in `Education benefits and work study` it follows a unique structure, aka **"I'm Different"**:
 - it does not fork into the same four sections as **The Vanilla Flow**
 - it asks the submitter's relationship to the Veteran in order to determine whether it's a **business or personal relationship**
 - it includes [Select: State of school]
