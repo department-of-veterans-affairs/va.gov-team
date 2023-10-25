@@ -7,7 +7,7 @@ Sections in this Product Outline include:
 - [Solution Approach](#solution-approach)
 - [Launch Strategy](#launch-strategy)
 - [Screenshots of Drafted Design Updates](#screenshots-of-drafted-design-updates)
-- [Team and stakeholders](#team-and-stakeholders)
+- [Team and Stakeholders](#team-and-stakeholders)
 
 ## Overview
 AVA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystems to quickly and accurately answer submitters' questions. Submitters should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and submitter-centered approach to support.
@@ -133,7 +133,7 @@ Transitioning the Ask VA front-end to VA.gov design, content, and accessibility 
 
 ![Screenshot 2023-10-25 at 1 46 06 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135031740/0cf35d27-5e39-4757-bc7c-d45f2000f525)
 
-## Team and stakeholders
+## Team and Stakeholders
 ### Communications
 
 <details>
