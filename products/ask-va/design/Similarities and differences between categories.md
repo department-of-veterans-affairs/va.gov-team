@@ -8,7 +8,7 @@ This document summarizes patterns in the design of the Ask VA form by calling ou
 
 There are a certain categories which we think are a good example of a "type" of category. These can be used as a reference when building categories the same or similar to it.
 
-When we say that a category is the "same" as another, an exception is always the names of the category, topic and subtopics (review [label names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md).
+If we say that a category is the "same" as another, an exception to their sameness will always be the names of the category, topic and subtopics (review [label names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md).
 
 ### `Life insurance` aka The Vanilla Flow 🍦
 
@@ -16,12 +16,11 @@ The `Life insurance` category is a good example of what we've referred to as "a 
 
 You can review the [Design requirements: Life insurance](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545) in Mural.
 
-#### Which categories are the same as `Life insurance`?
+#### Which categories are similar to `Life insurance`?
 - `Center for Minority Veterans`
 - `Burials and memorials`, but it includes the `Branch of Service` field (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md))
 - `Disability compensation`, but it includes the `Branch of Service` field (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md))
 - `Debt`, but it requires authentication and sometimes includes the VA Medical Center search facility component
-- 
 
 ### `Health care` aka Spaghetti and Meatballs 🍝
 
