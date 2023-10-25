@@ -1,45 +1,48 @@
-## Ask VA MVP 1- Product Outline
-
----
+# Ask VA Phase 1 - Product Outline
+In this Product Outline: 
+- Overview
+- Problem Statement
+- Outcomes and Objectives
+- Measuring Success
+- Solution Approach
 
 ## Overview
 AVA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystems to quickly and accurately answer submitters' questions. Submitters should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and submitter-centered approach to support.
 
-
 ## Problem Statement
-
 Submitter should easily and intuitively be able to ask a question through Ask VA on VA.gov.
    - **Who**: The submitter - This could be the Veteran, their caregiver, their supporting personnel, or their dependents (authenticated or un-authenticated).
-   - **What**: The current form design and content needs to better align with VA.gov design and accessibility standards for the submitter. 
-   - **Why**: This will empower more Veterans to seek access to VA benefits and services.
+   - **What**: The current form design and content needs to better align with VA.gov design, content, and accessibility standards for the submitter. 
+   - **Why**: The submitter will have a more cohesive and consistent experience with accessing VA support, benefits, and services on VA.gov.
    - **Where**: The form needs to reside in VA.gov so that it is easily locatable and can potentially integrate with other VA.gov applications (ex. Chatbot).
 
 **How might we** create an inquiry form that is easier for Veterans and other users to ask VA a question online?
 
- 
-## Desired Submitter Outcomes
+## Outcomes and Objectives  
 
-Form Design, and Content, Mobile-Friendly Experience, 508 Compliance
+### Desired Submitter Outcomes
+
+Form Design, Content, Mobile-Friendly Experience, 508 Compliance
 
 As a Veteran
->I can ask my questions quickly through my phone or computer.\
+>I can ask my questions or review my inquiries quickly through my phone or computer.\
 >It's easy for me to find Ask VA on VA.gov.\
 >It's accessible for me.
 
 Integrate with VA Profile
 As a Veteran
->If I am authenticated, Information is pre-filled for me if it's available on VA Profile.\
->If I am authenticated, I am able to edit personal information on VA Profile and then come back to my inquiry form to finish asking my question on Ask VA.
+>If I am authenticated, I don't have to input additional information if it's available in VA Profile.\
+>If I am authenticated, I can edit personal information on VA Profile and then come back to my inquiry form to finish asking my question on Ask VA.
 
 AVA Dashboard
 As an authenticated submitter
->I am able to see the status of my submitted inquires and manage my replies
+>I can see the status of my submitted inquires and manage my replies.
 
-## Undesired Submitter Outcomes
+### Undesired Submitter Outcomes
 
 As a Veteran
->I stop asking questions because AVA is difficult to use on my phone or computer\
->I cannot find Ask VA on VA.gov.\
+>I stop asking questions because the Ask VA form and dashboard are difficult to use on my phone or computer.\
+>I can't find Ask VA on VA.gov.\
 >It's not accessible for me.
 
 Integrate with VA Profile
@@ -51,62 +54,56 @@ AVA Dashboard
 As an authenticated submitter
 >I am not able to see the status of my submitted inquiries and manage my replies.\
 
-## Desired Business Objectives
+### Desired Business Objectives
+Our updates for Phase 1 will bring the current Ask VA up to VA.gov design, content, and accessibility standards and sunset the existing front-end portal of AVA after a sufficient transition period.
 
-- Our Phase 1 MVP will have brought the current Ask VA up to VA.gov design and accessibility standards, updated the content to make it more intuitive for our submitters, and sunset the existing front-end portal of AVA.
-
----
 ## Measuring Success
 
-
 ### Key Performance Indicators (KPIs)
+You can view our KPIs in this [KPI Measurement doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20KPIs.md)
 
-- [KPI Measurement doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20KPIs.md)
----
-
-## Assumptions
-- Improving the front-end of Ask VA will reduce the time it takes to submit an inquiry, increase the percentage of submitters that complete asking a question, and increase user satisfaction of the application.
-- Transitioning Ask VA front-end to VA.gov design and content standards will improve user experience, and bring more cohesiveness with the other services that the VA offers.
+### Assumptions
+Improving the front-end of Ask VA will:
+- Reduce the time it takes to submit an inquiry
+- Increase the percentage of submitters that complete asking a question
+- Increase user satisfaction of the application
+  
+Transitioning the Ask VA front-end to VA.gov design, content, and accessibility standards will improve user experience and bring more cohesiveness with the other services that the VA offers.
 
 ## Solution Approach
 
-Bring Ask VA up to VA.gov design standards (Front-End Updates)
-- Update topics and categories based on content style guide (without changing form functionality and output).
-- Update form questions based on content style guide (without changing form functionality and output).
-- Update UI to reflect the VA Design System.
-- Make it mobile-friendly.
-- Do iterative submitter research to test usability of new form design and content updates.
-- Make it 508 Compliant.
+### Bring Ask VA up to VA.gov design standards (Front-End Updates)
+- Update topics and categories based on content style guide (without changing form functionality and output)
+- Update form questions based on content style guide (without changing form functionality and output)
+- Update UI to reflect the VA Design System
+- Make it mobile-friendly
+- Do iterative submitter research to test usability of new form design and content updates
+- Make it 508 Compliant
 
-Implement form on VA.gov
+### Implement form on VA.gov
 - Understand current routing rules
-- When Inquiry data is collected on VA.gov, the implementation will send this data to Dynamics CRM for the agents to answer the questions.
-- Releasing this new form to a page on VA.gov
-- Update the dashboard front-end to VA.gov design and content standards
+- When submitters complete the Ask VA form on VA.gov, the implementation will send this data to the Dynamics CRM for the agents to process submitter questions
+- Releasing this new form to a new page on VA.gov (va.gov/contact-us/ask-va)
+- Update the Ask VA dashboard  to VA.gov design, content, and accessibiltiy standards
 
-More Detail can be found here: 
-1. [Must Have/Nice to have features for Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md)
-2. High Level Plan
-- Discovery Spikes
-- **Create Prototype** (Current Status)
-- Usability Testing
-- Launch Phase 1
+### Potential future features
+- Surface resources using existing knowledge base
+- Inbox/secure messaging
+- Explore use of NLU/free text
+- AVA placement/integrations with chatbot and resources
+- Updated existing routing rules to smart routing
+- Integration with VA Notify
 
-Our first MVP will have brought the current Ask VA up to VA.gov design standards, made the form and dashboard accessible, and updated the content to make it more intuitive for our submitters. 
+See the complete scope of Phase 1 in this GitHub doc, [including Must Have/Nice to have features for Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md)
 
-**Not included in the first MVP but will be in scope for future MVP:**
->- Surface resources using existing knowledge base
->- Inbox/secure messaging
->- Explore use of NLU/free text
->- AVA placement/integrations with chatbot and resources
->- Updated existing routing rules to smart routing
->- VA Notify integration
-
-### Initiatives
-
-Link to Initiative Brief on the overall project: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/AVA%20-%20Initiative%20Brief%20v2.docx
-
---- 
+### Our High Level Plan in Four Phases
+1. Discovery Spikes - Conducted quick, timeboxed explorations to determine effort for potential features
+2. **Create Prototype** (Current Status) - Develop coded prototype on staging.va.gov for usability test
+3. Usability Testing - Conduct usability tests with Veterans and dependents 
+4. Launch Phase 1 - Launch the Ask VA front-end form and dashboard on VA.gov
+  
+## Initiatives
+Download the [Initiative Brief on the overall project here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/AVA%20-%20Initiative%20Brief%20v2.docx)
 
 ## Launch Strategy
 
