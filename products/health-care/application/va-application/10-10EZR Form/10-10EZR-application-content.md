@@ -11,7 +11,7 @@ Pages listed below **10-10EZ PLACEHOLDER, need to update to EZR**
 
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
-### Page: Introduction
+### Page: Introduction (Unauthenticated)
 
 #### URL: /health-care/-----/introduction
 
@@ -61,8 +61,58 @@ Expiration date: **06/30/2024**
 
 [button secondary] Privacy Act statement (_popup_)
 
+------------------------------------------------------------------------------
+For UNAUTHETHICATED: 
 
+[component alert info]
 
+[p] [b] **Sign in to update your information online**  
+- We can fill in some of your information for you to save you time.
+- You can save your work in process. You’ll have 60 days from when you start or make updates to your form to come back and finish it.
+
+[button primary] Sign in to start your form
+
+------------------------------------------------------------------------------
+For AUTHETHICATED, ENROLLED STATUS: 
+
+[component alert info]
+
+[p]
+Note: Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.
+
+[primary action link] Start your health benefits update form
+
+[END component alert info]
+
+------------------------------------------------------------------------------
+For NOT ENROLLED STATUS: 
+
+[component alert info]
+
+[p] [b] **Our records show that you're not enrolled in VA health care**  
+You can only use this form to update your health benefits information if you're enrolled in VA health care. If you want to apply for VA health care, you can apply online now. 
+
+[primary action link] Apply for VA health care
+
+[END component alert info]
+
+------------------------------------------------------------------------------
+
+For SAVED PROGRESS: 
+
+[component alert info]
+
+[p] [b] **Your health benefits updates form has been saved**  
+
+Last saved on: [Date and time stamp]
+
+Your saved application will expire on [Month day, year].
+
+If you are on a public computer, sign out of your account so your information stays secure. 
+
+[primary action link] Continue your form
+
+[END component alert info]
 
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
