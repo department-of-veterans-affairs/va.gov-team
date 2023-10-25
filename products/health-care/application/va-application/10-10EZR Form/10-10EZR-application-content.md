@@ -11,7 +11,7 @@ Pages listed below **10-10EZ PLACEHOLDER, need to update to EZR**
 
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
-### Page: Introduction (Unauthenticated)
+### Page: Introduction - UNAUTHENTICATED VIEW, other status component below
 
 #### URL: /health-care/-----/introduction
 
