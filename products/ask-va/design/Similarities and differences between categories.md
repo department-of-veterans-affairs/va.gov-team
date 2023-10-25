@@ -8,7 +8,7 @@ This document summarizes patterns in the design of the Ask VA form by calling ou
 
 There are a certain categories which we think are a good example of a "type" of category. These can be used as a reference when building categories the same or similar to it.
 
-If we say that a category is the "same" as another, an exception to their sameness will always be the names of the category, topic and subtopics (review [label names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md). It is always worth double checking the contact options, too, as these differ between categories and sometimes topics (review [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)).
+If we say that a category is the "same" as another, an exception to their sameness will always be the names of the category, topic and subtopics (review [label names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md)). It is also always worth double checking the contact options, as these differ between categories and sometimes topics (review [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)).
 
 ---
 
