@@ -18,7 +18,8 @@ VA Product Owner = Dave Conlon (@davidconlon)
 Monitors for each product are described within product folders. e.g. 
 * [Find a Form monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md)
 * VA.gov homepage
-* Header (incl megamenu) and Footer, and injected sites
+* Header (incl megamenu) and Footer, and
+* [Injected Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/engineering/monitoring.md)
 * VA.gov search
 TODO: create monitoring notes in each product and link them here
 
