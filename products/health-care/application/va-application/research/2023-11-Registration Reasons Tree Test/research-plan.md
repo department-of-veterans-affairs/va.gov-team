@@ -4,7 +4,7 @@
 
 The paper form allows for Veterans to self-select the health care benefit type they want to apply for - Enrollment or Registration. On the backend in VES (Veteran Enrollment System), each person has a status and some can be Registration Only with a registration reason. 
 
-The concept of registration and enrollment, if they are steps in the process or the same thing, was found to be confusing during the intial generative research with Veterans. Choosing between these labels did not align with the Veteran's mental model of going about health care eligibility process.
+The concept of registration and enrollment, if they are steps in the process or the same thing, was found to be confusing during the intial generative research with Veterans. Choosing between these labels did not align with the Veteran's mental model of going about health care eligibility and application process.
 
 - [Link to generative mental model study folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration)
 
@@ -17,6 +17,8 @@ Looking at this from the perspective of registration reasons as scenarios Vetera
 ### OCTO Priorities 
 
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+
+
 
 ### Veteran Journey
 [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
@@ -37,7 +39,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-- We want to know if Veterans expect to access these scenarios through different areas on VA.gov or if for all reasons they go to the same starting point/application.
+- We want to know if Veterans expect to access these scenarios through different areas on VA.gov or through the health care benefits hub and specifically application page. 
 - Knowing this will guide the path on how to update the content of the 10-10EZ introduction page and knowing if other introduction pages/paths need to be accounted for registration mvp. 
 
 
@@ -72,7 +74,7 @@ How will this research advance your product to the next phase in the design proc
 
 ### Location
 - Unmoderated
-- Optimal Workshop Tree Test link with before/after questions
+- Optimal Workshop Tree Test link with task questions per scenario
 
 
 
@@ -96,15 +98,9 @@ How will this research advance your product to the next phase in the design proc
 ## Recruitment	
 
 ### Recruitment approach
-We will use Perigean to recruit participants into cohrots needed for unmoderated tree test study.
-
-- 7 cohorts are only Veterans
-- 1 cohort is Active Duty/Service Member
-
+We will use Perigean to recruit participants into cohorts needed for an unmoderated tree test study.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
-
 
 **All participants must have:**
 - All have a computer or mobile device and are willing to use it to complete the activity.
@@ -116,38 +112,47 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 
 
 ### Cohort Description
-|                |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|
-|----------------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-|***SEX***       |        |        |        |        |        |        |        |        |                
-|Male            |        |   9    |        |        |        |        |        |   5    |   
-|Female          |    9   |        |        |        |        |        |        |   4    |    
-|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  | 
-|***Age***       |        |        |        |        |        |        |        |        |          
-|18-24 yo        |        |        |    4   |        |        |        |        |        
-|25-34 yo        |        |        |    5   |        |        |        |        |      
-|35-44 yo        |        |        |        |    4   |        |        |        |       
-|45-54 yo        |        |        |        |   5     |        |        |        |       |       
-|55+ yo          |        |        |        |        |     9  |        |   ---  |    ---  |        
-|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|                |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8 |
+|----------------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------: |
+|***SEX***       |        |        |        |        |        |        |        |         |                
+|Male            |        |   9    |        |        |        |        |        |   5     |   
+|Female          |    9   |        |        |        |        |        |        |   4     |    
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---   | 
+|***Age***       |        |        |        |        |        |        |        |         |          
+|18-24 yo        |        |        |    4   |        |        |        |        |         |       
+|25-34 yo        |        |        |    5   |        |        |        |        |         |      
+|35-44 yo        |        |        |        |    4   |        |        |        |         |       
+|45-54 yo        |        |        |        |   5    |        |        |        |         |       
+|55+ yo          |        |        |        |        |     9  |        |        |         |        
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---   |  
 |***Role***	 |        |        |        |        |        |        |        |         |        
 |Veteran    	 |     9  |   9    |     9  |   9    |    9   |   9    |        |    9    |   
-|Active Duty    |      	  |        |        |        |        |        |     9  |      
-|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
-|***Education*** |        |        |        |        |        |        |        |         |        
-|High School     |        |        |        |        |        |        |  3     |    
-|Some College    |        |        |        |        |        |        |  1     |      
-|Associate's     |        |        |        |        |        |        |  1      |      
-|Bachelors       |        |        |        |        |        |        |   2     |       
-|Masters         |        |        |        |        |        |        |   2    |     
+|Active Duty    |      	  |        |        |        |        |        |     9  |         |       
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
 |***Benefits***  |        |        |        |        |        |        |        |        |      
-|Health care     |  0     |   0    |        |        |        |        |        |  9     |    
+|Health care     |  0     |   0    |    0   |    0   |      0 |    0   |   0    |  9     |    
+|Disability      |  0     |   0    |    0   |    0   |   0    |     0  |   0    |  9     |    
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Cognitive Impairment and/or Functional Disabilities***  |        |        |        |        |        |        |        |        |      
+| Traumatic Brain Injury (TBI)                                 |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Post-Traumatic Stress Disorder (PTSD)                        |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Attention-Deficit/Hyperactivity Disorder (ADHD)              |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Autism                                                       |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Vertigo                                                      |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Aphasia                                                      |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Dyslexia                                                     |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Dyscalculia                                                  |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Distractibility                                              |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Memory loss                                                  |  0     |   0    |    0   |    0   |      0 |    3   |   0    |  0     |
+| Reading difficulties                                         |  0     |   0    |    0   |    0   |      0 |    3   |   0    |  0     |
+| Low tolerance for cognitive overload                         |  0     |   0    |    0   |    0   |      0 |    3   |   0    |  0     |
 
 
 ### Screener question cohort 1-7
 1. Are you currently enrolled in VA health care benefits?
    	- Yes *disqualify*
    	- No *(see if fit in cohort 1-7 criteria)*
+
 
 ### Screener question cohort 8
 1. Are you currently enrolled in VA health care benefits?
@@ -156,7 +161,7 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 
 
 ## Timeline
-November ## - ##, 2023
+November November TBD, 2023
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
