@@ -73,7 +73,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68086)
 - **GOAL: Address tech & design debt**
-    - [[CHIP] Configure CodeQL](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68253)     
+    - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Configure CodeQL](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68253)     
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
        - TBD
 
