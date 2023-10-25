@@ -11,8 +11,8 @@ There are a certain categories which we think are a good example of a "type" of 
 If we say that a category is the "same" as another, an exception to their sameness will always be the names of the category, topic and subtopics (review [label names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md)).
 
 **Jump to:**
-- [`Life insurance` aka The Vanilla Flow 🍦](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-)
-- `Health care` aka Spaghetti and Meatballs 🍝
+- [`Life insurance` aka The Vanilla Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-) 🍦
+- [`Health care` aka Spaghetti and Meatballs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-) 🍝
 - `Education benefits and work study` aka "I'm Different" 👽
 
 ---
