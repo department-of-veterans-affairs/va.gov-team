@@ -23,8 +23,12 @@ Period - 10/25/2023 - 11/07/2023
    - 526ez sync with paper version 
        - [ ] New military service questions - kick-off collab cycle
        - [ ] Toxic Exposure design changes 
+
          
-- **Stretch Goals**
+- **Other**
+- - [ ] Shadow Research plan
+      
+- - **Stretch Goals**
   - Engineering
      - PPIU - Direct Debit 
        - [ ] Release plan
