@@ -76,7 +76,7 @@ The `Education benefits and work study` category requires authentication. It als
 - if `Topic` ≠ `Veteran Readiness and Employment` 
 
 #### If Topic = Veteran Readiness and Employment
-It will follow the same pattern as `Category` = `Veteran Readiness and Employment` ([see above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-)). But, because it sits within the `Education benefits and work study` category in this case, it does require authentication.
+It will follow the same pattern as `Category` = `Veteran Readiness and Employment`. But, because it sits within the `Education benefits and work study` category in this case, it does require authentication.
 
 #### If Topic ≠ Veteran Readiness and Employment
 All other `Topics` in `Education benefits and work study` will follow a different structure. This makes it unique, like having **[Salad for Breakfast](https://www.google.com/search?sca_esv=576631001&q=Is+it+OK+to+have+salad+for+breakfast%3F&sa=X&ved=2ahUKEwjhj9qjoZKCAxXfI0QIHUSdCsIQzmd6BAgZEAY&biw=1803&bih=851&dpr=1)**:
@@ -92,4 +92,5 @@ All other `Topics` in `Education benefits and work study` will follow a differen
 **Review this category here:**
 - [Design requirements: Education](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695420804280/52101311ba374dec5e60aa33de63a2fe7f16102b?sender=u65f0a75fc7c68f2a5a2a9545)
 - [Sketch: Education](https://sketch.com/s/7e494761-be10-4aef-a268-a45a02fbc5c3)
+- [Sketch: Veteran Readiness and Employment](https://sketch.com/s/d5ab371b-3b77-4fef-a616-aa1345675f7c)
 - [Sketch: Search Facility](https://sketch.com/s/9a9968fd-01c9-4f51-b7be-076b25a3b019)
