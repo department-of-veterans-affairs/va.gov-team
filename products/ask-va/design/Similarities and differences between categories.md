@@ -58,7 +58,7 @@ Review this category here:
 ### `Health care` aka Spaghetti and Meatballs 🍝
 
 The `Health care` category builds on the **The Vanilla Flow**, but it's much more complex because:
-- it includes the [Search Facility: VA Medical Center]
+- it includes [Search Facility: VA Medical Center]
 - it's [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) vary greatly depending on the topic
 - sometimes it includes the Veteran's [Zip code], even if the submitter isn't being contacted by US Mail
 
@@ -73,14 +73,17 @@ Review this category here:
 
 ### `Education benefits and work study` aka "I'm Different" 👽
 
-The `Education benefits and work study` category is forks depending if `Topic` = `Veteran Readiness and Employment` or `Topic` = [all other topics]. 
+The `Education benefits and work study` category forks depending on whether `Topic` = `Veteran Readiness and Employment` or `Topic` = [all other topics]. 
 
-If `Topic` = `Veteran Readiness and Employment`, then it follows the same pattern as `Category` = `Veteran Readiness and Employment`.
+If `Topic` = `Veteran Readiness and Employment`, then it follows the same pattern as `Category` = `Veteran Readiness and Employment` ([see above]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-))).
 
-But if `Topic` ≠ `Veteran Readiness and Employment`, then it follows a pattern that's unique to `Education`.
-
-But the `Education benefits and work study` category does not follow this pattern. Instead, it asks the submitters relationship to the Veteran in order to determine whether it's a business or personal relationship.
-- For most topics (besides `Veteran Readiness and Employment`) in this category, there is no
+But if `Topic` ≠ `Veteran Readiness and Employment`, then it's structure is unique to `Education`, and:
+- it does not fork into the same four sections as **The Vanilla Flow**
+- it asks the submitter's relationship to the Veteran in order to determine whether it's a **business or personal relationship**
+- it includes [Select: State of school]
+- if it's a personal relationship, it includes [Select: State of residency]
+- if it's a business relationship, it includes [Search Facility: VA Medical Center]
+- 
 
 Review this category here:
 - [Design requirements: Education](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695420804280/52101311ba374dec5e60aa33de63a2fe7f16102b?sender=u65f0a75fc7c68f2a5a2a9545)
