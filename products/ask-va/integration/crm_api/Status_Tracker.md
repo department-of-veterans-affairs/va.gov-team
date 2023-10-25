@@ -11,6 +11,7 @@
 
 | Artifact | Endpoint | Source | AVA Status | CRM Status | Comments | Documentation |
 |---|---|---|:---:|:---:|---|:---:|
+Status | Ping | Dynamics |⬜  | ⬜  |  | [link](Status_Ping.md) |
 Dashboard | Create Profile | VA Profile |⬜  | ⬜  | Offloading to VA Profile  | [link](Dashboard_CreateMyProfile.md) |
 Dashboard | Read My Profile | VA Profile | ⬜  | ⬜  | Offloading to VA Profile | [link](Dashboard_ReadMyProfile.md) |
 Dashboard | Update Profile | VA Profile |⬜  | ⬜  | Offloading to VA Profile | [link](Dashboard_UpdateMyProfile.md) |
