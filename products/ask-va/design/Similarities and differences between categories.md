@@ -19,7 +19,7 @@ Note: If we say that a category is the "same" as another, an exception to their 
 
 ### Life insurance aka The Vanilla Flow 🍦
 
-The `Life insurance` category is a good example of what we've referred to as "a vanilla flow." It's straightforward, with few conditionals, and many other categories mimic (or build on) it. Also, all [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) are enabled consistently.
+The `Life insurance` category is a good base, just like [Vanilla](https://cooking.nytimes.com/recipes/1016605-the-only-ice-cream-recipe-youll-ever-need). It's straightforward, with few conditionals, and many other categories mimic (or build on) it. Also, all [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) are enabled consistently.
 
 **The Vanilla Flow** forks into four sections, based on whether a submitter is asking:
 - a general question
@@ -60,7 +60,7 @@ The `Health care` category builds on the **The Vanilla Flow**. At first glance, 
 - it's [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) vary greatly depending on the topic
 - sometimes it includes the Veteran's [Zip code], even if the submitter isn't being contacted by US Mail
 
-Because this category is more complex, aka **[All-Day Lasagna](https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta)**, we've chosen to test this flow with users (submitters). While this category **does not** require authentication, for testing we will include this as a requirement so we can test the most risky path.
+Because this category is deceptively complex, like an **[All-Day Lasagna](https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta)**, we've chosen to test this flow with users (submitters). While this category **does not** require authentication, for testing we will include this as a requirement so we can test the most risky path.
 
 **Review this category here:**
 - [Design requirements: Health care](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545)
