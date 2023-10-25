@@ -55,12 +55,12 @@ The `Life insurance` category is a good example of what we've referred to as "a 
 
 ### Health care aka All-Day Lasagna 🍝
 
-The `Health care` category builds on the **The Vanilla Flow**. At first glance, it looks simple (like lasagna) but it's much more complex because:
+The `Health care` category builds on the **The Vanilla Flow**. At first glance, it looks simple (like a lasagna should be) but it's much more complex because:
 - it includes [Search Facility: VA Medical Center]
 - it's [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) vary greatly depending on the topic
 - sometimes it includes the Veteran's [Zip code], even if the submitter isn't being contacted by US Mail
 
-Because this category is more complex, aka **[All-Day Lasagna](https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta)** we've chosen to test this flow with users (submitters). While this category **does not** require authentication, for testing we will include this as a requirement so we can test the most risky path.
+Because this category is more complex, aka **[All-Day Lasagna](https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta)**, we've chosen to test this flow with users (submitters). While this category **does not** require authentication, for testing we will include this as a requirement so we can test the most risky path.
 
 **Review this category here:**
 - [Design requirements: Health care](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545)
