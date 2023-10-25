@@ -505,6 +505,27 @@ An unmarried child (including adopted children or stepchildren)
 
 ------------------------------------------------------------------------------
 
+
+[REMOVE MODAL]
+[h3] Remove this dependent?
+[p] This will remove **[First Name Last Name]** and all their information from your list of dependents.
+[button primary] Yes, remove dependent
+[button secondary] No, cancel
+
+[END MODAL]
+
+
+
+[CANCEL EDITING MODAL]
+[h3] Cancel editing this dependent?
+[p] If you cancel editing this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents. 
+[button primary] Yes, cancel editing
+[button secondary] No, continue editing
+
+
+
+[END MODAL]
+
 [MODAL cancel adding]
 [component modal alert]
 
@@ -517,27 +538,6 @@ An unmarried child (including adopted children or stepchildren)
 
 [END MODAL]
 
-
-[REMOVE MODAL]
-[h3] Remove this dependent?
-[p] This will remove **[First Name Last Name]** and all their information from your list of dependents.
-[button primary] Yes, remove dependent
-[button secondary] No, cancel
-
-[END MODAL]
-
-
-[CANCEL EDITING MODAL]
-[h3] Cancel editing this dependent?
-[p] If you cancel editing this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents. 
-[button primary] Yes, cancel editing
-[button secondary] No, continue editing
-
-[END MODAL]
-
-
-
----
 
 ------------------------------------------------------------------------------
 ## Step 2 Veteran household financial information - Dependent information
@@ -1076,6 +1076,38 @@ Enter your dependent's net annual income from a farm, property, or business from
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
 
+------------------------------------------------------------------------------
+
+[REMOVE MODAL]
+[h3] Remove this insurance policy?
+[p] This will remove **[Insurance provider 1]** and all its information from your list of insurance policies.
+[button primary] Yes, remove policy
+[button secondary] No, cancel
+
+[END MODAL]
+
+
+[CANCEL EDITING MODAL]
+[h3] Cancel editing this insurance policy?
+[p] If you cancel editing this insurance policy, we won’t save its information. You’ll return to a screen where you can add or remove dependents. 
+[button primary] Yes, cancel editing
+[button secondary] No, continue editing
+
+[END MODAL]
+
+
+
+[MODAL cancel adding]
+[component modal alert]
+
+[h3] Cancel adding this insurance policy?
+
+[p] If you cancel adding this insurance policy, we won’t save its information. You’ll return to a screen where you can add or remove policies.
+
+[button primary] Yes, cancel adding
+[button secondary] No, continue adding
+
+[END MODAL]
 
 
 
