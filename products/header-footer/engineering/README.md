@@ -1,5 +1,8 @@
 # Header / Footer engineering notes
 
+## Monitoring
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/engineering/monitoring.md
+
 ## Data
 
 ### Header
