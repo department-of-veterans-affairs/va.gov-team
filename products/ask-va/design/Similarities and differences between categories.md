@@ -8,11 +8,11 @@ This document summarizes patterns in the design of the Ask VA form by calling ou
 
 There are a certain categories which we think are a good example of a "type" of category. These can be used as a reference when building categories the same or similar to it.
 
-When we say that a category is the "same" as another, an exception is always the names of the category, topic and subtopic labels (review [label names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md).
+When we say that a category is the "same" as another, an exception is always the names of the category, topic and subtopics (review [label names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md).
 
 ### `Life insurance` aka The Vanilla Flow 🍦
 
-The `Life insurance` category is a good example of what we've referred to as "a vanilla flow." It's a good base because it's straightforward, with few conditionals, and many other categories mimic it exactly.
+The `Life insurance` category is a good example of what we've referred to as "a vanilla flow." It's a good base because it's straightforward, with few conditionals, and many other categories mimic it exactly. This category always has the same contact options available (email, phone and US Mail are all always `ENABLED`) which also makes the contact information section simple.
 
 You can review the [Design requirements: Life insurance](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545) in Mural.
 
@@ -20,6 +20,8 @@ You can review the [Design requirements: Life insurance](https://app.mural.co/t/
 - `Center for Minority Veterans`
 - `Burials and memorials`, but it includes the `Branch of Service` field (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md))
 - `Disability compensation`, but it includes the `Branch of Service` field (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md))
+- `Debt`, but it requires authentication and sometimes includes the VA Medical Center search facility component
+- 
 
 ### `Health care` aka Spaghetti and Meatballs 🍝
 
