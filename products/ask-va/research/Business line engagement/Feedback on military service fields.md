@@ -53,7 +53,7 @@ This list is alphabetized by category name. Each field is marked as:
 
 **These fields will change to accommodate Veterans who are known by their `Service number`, not their `Social security number`.**
 
-At least one of the following, `Social security number` or `Service number`, will be required, except in special circumstances (see [Field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)). Submitters will be able to input both if they choose to do so.
+At least one of the following, `Social security number` or `Service number`, will be required, except in special circumstances (see [Field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)). Submitters can input both if they choose.
 
 ### Service start and end dates
 
