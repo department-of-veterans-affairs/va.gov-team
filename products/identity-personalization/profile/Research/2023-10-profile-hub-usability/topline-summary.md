@@ -2,7 +2,7 @@
 
 - [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/research-plan.md)
 - [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/conversation-guide.md)
-- [interview transcripts] () (EnjoyHQ link?)
+- [interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/session-notes)
 
 **The goal of this document is:**
 
