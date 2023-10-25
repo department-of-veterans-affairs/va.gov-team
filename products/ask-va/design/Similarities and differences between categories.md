@@ -10,7 +10,7 @@ There are a certain categories which we think are a good example of a "type" of 
 
 ### `Disability compensation` aka The Vanilla Flow 🍦
 
-The `Disability compensation` category is a good example of what we've referred to as "a vanilla flow." It's straightforward, with few conditionals, and many other categories mimic it exactly.
+The `Disability compensation` category is a good example of what we've referred to as "a vanilla flow." It's a good base because it's straightforward, with few conditionals, and many other categories mimic it exactly.
 
 You can review the [Design requirements: Disability compensation](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695421580785/3d4402af0e54171e6a0e1d960af8541a03a72a6a?sender=u65f0a75fc7c68f2a5a2a9545) in Mural.
 
