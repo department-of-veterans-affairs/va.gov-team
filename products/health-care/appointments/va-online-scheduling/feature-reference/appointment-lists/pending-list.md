@@ -12,13 +12,12 @@ As a Veteran, I want an overview of appointments I've requested to see if they h
 
 **Functional**
 
-- Display canceled requests that are up to 120 days old
-- Order requests by date/time the request was created. Most recent requests appear at the top of the list.
-
 - Pending and canceled requests from VistA must display in VAOS if all the following are true:
   - VistA Type Request Type = VETERAN AND 
-  - Create Date is  <= 120 days.   
+  - `Create Date` is  <= 120 days.   
 - Pending and canceled requests from HSRM must display in VAOS if the Create Date is  <= 120 days.   
+- Order requests by date/time the request was created. 
+  - Most recent requests appear at the top of the list.
 - All pending requests must be cancellable.
 
 ## Technical notes
@@ -28,8 +27,6 @@ As a Veteran, I want an overview of appointments I've requested to see if they h
   - DATE DISPOSITIONED: current date      
   - DISPOSITIONED BY: SDESOITEAS,SRV
   - DISPOSITION: VET SELF-CANCEL        
-
-
 
 ## User interface design
 

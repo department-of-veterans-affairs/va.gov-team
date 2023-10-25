@@ -12,9 +12,27 @@ A scheduled in-person appointment at a VA facility.
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 **Functional**
-- User can cancel through VAOS
-- User can print details using a print button
-- User can add to their calendar via an .ics file
+
+| Display this data                                  | For Active Appts  | For Canceled Appts |
+| -------------------------------------------------- | ----------------- | ------------------ |
+| Appointment Date and Time (including Month, Day, Day of Week, Time and Time zone)                                                | ✅                 | ✅                  |
+| Canceled status                                    |                    | ✅                  |
+| Type of Care                                       | ✅                 | ✅                  |
+| Location Address  (including directions link)      | ✅                 | ✅                  |
+| Location Phone Number                              | ✅                 | ✅                  |
+
+| Include these actions                              | For Active Appts  | For Canceled appts |
+| -------------------------------------------------- | ----------------- | ------------------ |
+| Add to Calendar Action                             | ✅                 |                   |
+| Print Action                                       | ✅                 |                   |
+| Cancel Action                                      | ✅                 |                   |
+
+**Canceled Appointments**
+
+- Cancelled VA appointments with VistA Status = `CANCELLED BY PATIENT` (VSE GUI Expand Entry for appointment) status must display text indicating that the veteran cancelled the appointment.  
+- Cancelled VA appointments with VistA Status = `CANCELLED BY CLINIC` (VSE GUI Expand Entry for appointment) status must display text indicating that the facility cancelled the appointment.  
+
+
 
 ## User interface design
 
