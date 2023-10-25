@@ -2,23 +2,48 @@
 
 ## Overview
 
-A scheduled telehealth appointment at a VA facility that the Veteran attends through VA Video Care.
+A scheduled telehealth appointment that the Veteran attends through VA Video Care on the device of their choice.
 
 ## User stories
 
 - As a Veteran, I want to join my telehealth appointments
 - As a Veteran, I want to manage my telehealth appointments.
 
-
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- User can join telehealth appointments via a link to VA Video Care 30 minutes ahead of the meeting
-- User cannot cancel through VAOS
-    - Note: Video care appointments can't currently be canceled online due to a technical issue.
-- User can print details using a print button
-- User can add to their calendar via an .ics file
+
+- User can review data to understand their appointment (see table below).
+- User can complete tasks related to their appointment (see table below).
+- [Requirements for canceling appointments](../tools/tool-cancel.md#requirements) are followed.
+- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md) are followed.
+- [Requirements for printing appointments](../tools/tool-print.md) are followed.
+
+- Video Visit appointments must display a link to join the appointment  
+  - Video Visit appointments (kind = telehealth) without telehealth links must display additional instructions to the veteran regarding the missing links
+  - The video visit link must display as active for 30 minutes prior to the appointment and for 4 hours after.  
+  - Video visit instructions from Virtual Care Manager (VCM)instructions must be suppressed if the instructions are any of the following:
+    - `Message sent in MyHealtheVet`
+    - `Resources Mailed to Patient`
+    - `Signup for My HealtheVet  Message`
+
+| Display this data                                    | For Active Appts  | For Canceled Appts |
+| ---------------------------------------------------- | ----------------- | ------------------ |
+| Appointment Date and Time (including Month, Day, Day of Week, Time and Time zone)                                                  |  ✅               |  ✅                 |
+| Canceled status                                      |                   |  ✅                 |
+| Joining Instructions                                 |  ✅               |                     |
+| Link to join appointment                             |  ✅               |                     |
+| Type of Care                                         |  ✅               |  ✅                 |
+| Provider                                             |  ✅               |  ✅                 |
+| Location address                                     |  ✅               |  ✅                 |
+| Location Phone Number                                |  ✅               |  ✅                 |
+| Prepare for video visit instructions                 |  ✅               |                     |
+
+| Include these actions                                      | For Active Appts  | For Canceled appts |
+| ---------------------------------------------------------- | ----------------- | ------------------ |
+| [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅                 |                   |
+| [Print Action](../tools/tool-print.md)                     | ✅                 |                   |
 
 ## User interface design
 

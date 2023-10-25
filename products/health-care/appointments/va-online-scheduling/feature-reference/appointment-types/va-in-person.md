@@ -22,19 +22,19 @@ A scheduled in-person appointment at a VA facility.
 - [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md) are followed.
 - [Requirements for printing appointments](../tools/tool-print.md) are followed.
 
-| Display this data                                  | For Active Appts  | For Canceled Appts |
-| -------------------------------------------------- | ----------------- | ------------------ |
-| Appointment Date and Time (including Month, Day, Day of Week, Time and Time zone)                                                | ✅                 | ✅                  |
-| Canceled status                                    |                    | ✅                  |
-| Type of Care                                       | ✅                 | ✅                  |
-| Location Address  (including directions link)      | ✅                 | ✅                  |
-| Location Phone Number                              | ✅                 | ✅                  |
+| Display this data                                    | For Active Appts  | For Canceled Appts |
+| ---------------------------------------------------- | ----------------- | ------------------ |
+| Appointment Date and Time (including Month, Day, Day of Week, Time and Time zone)                                                  |  ✅               |  ✅                 |
+| Canceled status                                      |                   |  ✅                 |
+| Type of Care                                         |  ✅               |  ✅                 |
+| Location Address  (including directions link)        |  ✅               |  ✅                 |
+| Location Phone Number                                |  ✅               |  ✅                 |
 
-| Include these actions                              | For Active Appts  | For Canceled appts |
-| -------------------------------------------------- | ----------------- | ------------------ |
-| [Add to Calendar Action](../tools/tool-add-to-calendar.md)                             | ✅                 |                   |
-| [Print Action](../tools/tool-print.md)                                       | ✅                 |                   |
-| [Cancel Action](../tools/tool-cancel.md)                                      | ✅                 |                   |
+| Include these actions                                      | For Active Appts  | For Canceled appts |
+| ---------------------------------------------------------- | ----------------- | ------------------ |
+| [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅                 |                   |
+| [Print Action](../tools/tool-print.md)                     | ✅                 |                   |
+| [Cancel Action](../tools/tool-cancel.md)                   | ✅                 |                   |
 
 ## User interface design
 
