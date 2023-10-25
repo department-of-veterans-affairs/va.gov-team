@@ -16,7 +16,7 @@ If we say that a category is the "same" as another, an exception to their samene
 
 The `Life insurance` category is a good example of what we've referred to as "a vanilla flow." It's straightforward, with few conditionals, and many other categories mimic (or build on) it. This category has consistent [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) (email, phone and US Mail are all always `ENABLED`) which makes the contact information section simple.
 
-You can see how this category works here:
+Review this category here:
 - [Design requirements: Life insurance](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545).
 
 #### How do other categories compare to `Life insurance`?
@@ -51,7 +51,7 @@ The `Health care` category builds on the **The Vanilla Flow** but it's the most 
 
 Because this category is more complex, we've chosen to test this flow with users (submitters). While this category **does not** require authentication, for testing we will include this as a requirement so we can test the most risky path.
 
-You can see how this category works here:
+Review this category here:
 - [Design requirements: Health care](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545)
 - [Sketch: Health care](https://sketch.com/s/6a75d0a2-e484-4f1e-8675-ad5747a1a871)
 - [Sketch: Search Facility](https://sketch.com/s/9a9968fd-01c9-4f51-b7be-076b25a3b019)
@@ -68,3 +68,8 @@ The `Education benefits and work study` category is the most unique. **The Vanil
 
 But the `Education benefits and work study` category does not follow this pattern. Instead, it asks 
 - For most topics (besides `Veteran Readiness and Employment`) in this category, there is no
+
+Review this category here:
+- [Design requirements: Education](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695420804280/52101311ba374dec5e60aa33de63a2fe7f16102b?sender=u65f0a75fc7c68f2a5a2a9545)
+- [Sketch: Education](https://sketch.com/s/7e494761-be10-4aef-a268-a45a02fbc5c3)
+- [Sketch: Search Facility](https://sketch.com/s/9a9968fd-01c9-4f51-b7be-076b25a3b019)
