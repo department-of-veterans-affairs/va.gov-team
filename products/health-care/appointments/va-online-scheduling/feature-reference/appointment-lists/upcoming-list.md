@@ -14,6 +14,11 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 ## Requirements
 
 **Functional**
+
+- User can review a summary of their upcoming appointments.
+- User can navigate to the details for all appointments in the summary.
+- User can print the summary list.
+
 **Alerts**
 - A message must display to the user informing them that they have no upcoming appointment when the veteran has no upcoming appointments.  
 - A message must display to the user informing them that not all appointments can be displayed if any of the backend services fails to retrieve appointments (VSP for VistA, HSRM for community care appointments and VVS for video appointments).
