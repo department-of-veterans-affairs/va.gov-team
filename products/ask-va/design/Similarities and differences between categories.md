@@ -25,20 +25,20 @@ You can see how this category works here:
 |`Center for Minority Veterans`|Same|
 |`Decision reviews and appeals`|Same|
 |`Pension`|Same|
-|`Burials and memorials`|Similar, but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
-|`Center for Women Veterans`|Similar, but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
-|`Survivor benefits`|Similar, but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
-|`Disability compensation`|Similar, but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
-|`Sign in and technical issues`|Similar, but email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|
-|`DEERS (Defense Enrollment Eligibility Reporting System)`|Similar, but email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|
-|`Veteran ID Card (VIC)`|Similar, but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service); and email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|
-|`Housing assistance and home loans`|Similar, but for certain topics it includes [Select: State/Province/Region]|
-|`Guardianship, custodianship or fiduciary issues`|Similar, but it includes [Select: Location of residence] and sometimes [Zip code]|
-|`Veteran Readiness and Employment`|Similar, but it includes a [VR&E information] section which you can review in [Sketch: VR&E](https://sketch.com/s/d5ab371b-3b77-4fef-a616-aa1345675f7c)|
-|`Debt`|Similar, but it requires authentication and for one topic it includes [VAMC search facility] which you can review in [Sketch: Search Facility](https://sketch.com/s/9a9968fd-01c9-4f51-b7be-076b25a3b019)|
+|`Burials and memorials`|Similar but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
+|`Center for Women Veterans`|Similar but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
+|`Survivor benefits`|Similar but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
+|`Disability compensation`|Similar but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
+|`Sign in and technical issues`|Similar but email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|
+|`DEERS (Defense Enrollment Eligibility Reporting System)`|Similar but email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|
+|`Veteran ID Card (VIC)`|Similar but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service); and email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|
+|`Housing assistance and home loans`|Similar but for certain topics it includes [Select: State/Province/Region]|
+|`Guardianship, custodianship or fiduciary issues`|Similar but it includes [Select: Location of residence] and sometimes [Zip code]|
+|`Veteran Readiness and Employment`|Similar but it includes a [VR&E information] section which you can review in [Sketch: VR&E](https://sketch.com/s/d5ab371b-3b77-4fef-a616-aa1345675f7c)|
+|`Debt`|Similar but it requires authentication and for one topic it includes [VAMC search facility] which you can review in [Sketch: Search Facility](https://sketch.com/s/9a9968fd-01c9-4f51-b7be-076b25a3b019)|
 |`Benefits issues outside the U.S.`|If `Topic` = `Disability compensation` then it's the same as `Category` = `Disability compensation`; if `Topic` = `Education` then it's the same as `Category` = `Education`|
-|`Health care`|Similar, but more complex, jump ahead to [`Health care`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-)|
-|`Education benefits and work study`|Different, jump ahead to [`Education benefits and work study`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#education-benefits-and-work-study-aka-im-different-)|
+|`Health care`|Similar but more complex, jump ahead to [`Health care`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-)|
+|`Education benefits and work study`|Similar if `Topic` = `Veteran Readiness and Employment` and different for all other topics, jump ahead to [`Education benefits and work study`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#education-benefits-and-work-study-aka-im-different-)|
 
 ---
 
@@ -49,6 +49,8 @@ The `Health care` category builds on the **The Vanilla Flow** but it's the most 
 - it's [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) vary greatly depending on the topic
 - sometimes it includes the Veteran's [Zip code], even if the submitter isn't being contacted by US Mail
 
+Because this category is more complex, we've chosen to test this flow with users (submitters). While this category **does not** require authentication, for testing we will include this as a requirement so we can test the most risky path.
+
 You can see how this category works here:
 - [Design requirements: Health care](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545)
 - [Sketch: Health care](https://sketch.com/s/6a75d0a2-e484-4f1e-8675-ad5747a1a871)
@@ -58,5 +60,11 @@ You can see how this category works here:
 
 ### `Education benefits and work study` aka "I'm Different" 👽
 
-The `Education benefits and work study` category is unique because:
+The `Education benefits and work study` category is the most unique. **The Vanilla Flow** forks into four sections, based on whether a submitter is asking:
+- a general question
+- about me, the Veteran
+- for the dependent of a Veteran
+- on behalf of a Veteran
+
+But the `Education benefits and work study` category does not follow this pattern. Instead, it asks 
 - For most topics (besides `Veteran Readiness and Employment`) in this category, there is no
