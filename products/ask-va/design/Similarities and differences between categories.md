@@ -49,7 +49,7 @@ Review this category here:
 
 ### `Health care` aka Spaghetti and Meatballs 🍝
 
-The `Health care` category builds on the **The Vanilla Flow** but it's the most complex of all categories. It's complex because:
+The `Health care` category builds on the **The Vanilla Flow**, but it's much more complex because:
 - it includes the [Search Facility: VA Medical Center]
 - it's [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) vary greatly depending on the topic
 - sometimes it includes the Veteran's [Zip code], even if the submitter isn't being contacted by US Mail
