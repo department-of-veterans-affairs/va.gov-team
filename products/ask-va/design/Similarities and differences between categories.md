@@ -14,7 +14,7 @@ If we say that a category is the "same" as another, an exception to their samene
 
 ### `Life insurance` aka The Vanilla Flow 🍦
 
-The `Life insurance` category is a good example of what we've referred to as "a vanilla flow." It's a good base because it's straightforward, with few conditionals, and many other categories mimic it exactly. This category always has the same contact options available (email, phone and US Mail are all always `ENABLED`) which also makes the contact information section simple.
+The `Life insurance` category is a good example of what we've referred to as "a vanilla flow." It's straightforward, with few conditionals, and many other categories mimic (or build on) it. This category always has the same contact options available (email, phone and US Mail are all always `ENABLED`) which also makes the contact information section simple.
 
 You can review the [Design requirements: Life insurance](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545) in Mural.
 
