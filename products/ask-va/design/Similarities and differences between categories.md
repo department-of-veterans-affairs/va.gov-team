@@ -4,7 +4,7 @@ Last updated by @tygindraux: October 24, 2023
 
 This document summarizes patterns in the design of the Ask VA form by calling out similarities (and differences) between categories. It's intended to be helpful for our engineers as they start building.
 
-## Model categories
+## Key categories to reference
 
 There are a certain categories which we think are a good example of a "type" of category, or a model. These can be used as a reference when building categories similar to it.
 
