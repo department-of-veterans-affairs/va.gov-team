@@ -291,7 +291,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 
 ------------------------------------------------------------------------------
-## Step 2 Veteran household financial information - spouse information - Spouse Info PREFILLED
+## Step 2 Veteran household financial information - spouse information
 ------------------------------------------------------------------------------
 
 ### Page: Spouse information - AUTHENTICATED View
@@ -383,7 +383,7 @@ Month Day Year (dropdowns)
 ## Step 2 Veteran household financial information - spouse additional support
 ------------------------------------------------------------------------------
 
-### Page: Spouse financial support - AUTHENTICATED View
+### Page: Spouse financial support - AUTHENTICATED View (CONDITIONAL - No on living with and sharing address with spouse)
 
 #### URL: /health-care/----/household-information/spouse-financial-support
  
@@ -412,6 +412,46 @@ Month Day Year (dropdowns)
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
+
+
+------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - spouse's address and phone number
+------------------------------------------------------------------------------
+
+### Page: Spouse address and phone number - AUTHENTICATED View (CONDITIONAL - No on living with and sharing address with spouse)
+
+#### URL: /health-care/----/household-information/spouse-contact-information
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] Spouse's address and phone number
+
+[component select label] Country(*Required)
+
+[component text input label] Street address(*Required)
+
+[component text input label] Street address line 2
+
+[component text input label] Street address line 3
+
+[component text input label] City(*Required)
+
+[component select label] State(*Required)
+
+[component text input label] Postal code(*Required)
+
+[component text input label] Phone Number
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
 
 ------------------------------------------------------------------------------
@@ -463,8 +503,41 @@ An unmarried child (including adopted children or stepchildren)
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
 
+------------------------------------------------------------------------------
+
+[MODAL cancel adding]
+[component modal alert]
+
+[h3] Cancel adding this dependent?
+
+[p] If you cancel adding this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents.
+
+[button primary] Yes, cancel adding
+[button secondary] No, continue adding
+
+[END MODAL]
 
 
+[REMOVE MODAL]
+[h3] Remove this dependent?
+[p] This will remove **[First Name Last Name]** and all their information from your list of dependents.
+[button primary] Yes, remove dependent
+[button secondary] No, cancel
+
+[END MODAL]
+
+
+[CANCEL EDITING MODAL]
+[h3] Cancel editing this dependent?
+[p] If you cancel editing this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents. 
+[button primary] Yes, cancel editing
+[button secondary] No, continue editing
+
+[END MODAL]
+
+
+
+---
 
 ------------------------------------------------------------------------------
 ## Step 2 Veteran household financial information - Dependent information
