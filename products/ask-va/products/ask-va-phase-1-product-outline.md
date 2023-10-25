@@ -1,13 +1,13 @@
 # Ask VA Phase 1 - Product Outline
 Sections in this Product Outline include: 
 - [Overview](#overview)
-- Problem Statement
-- Outcomes and Objectives
-- Measuring Success
-- Solution Approach
-- Launch Strategy
-- Screenshots of Drafted Design Updates
-- Team and stakeholders
+- [Problem Statement](#problem-statement)
+- [Outcomes and Objectives](#outcomes-and-objectives)
+- [Measuring Success](#measuring-success)
+- [Solution Approach](#solution-approach)
+- [Launch Strategy](#launch-strategy)
+- [Screenshots of Drafted Design Updates](#screenshots-of-drafted-design-updates)
+- [Team and stakeholders](#team-and-stakeholders)
 
 ## Overview
 AVA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystems to quickly and accurately answer submitters' questions. Submitters should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and submitter-centered approach to support.
