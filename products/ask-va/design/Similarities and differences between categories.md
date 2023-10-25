@@ -16,7 +16,8 @@ If we say that a category is the "same" as another, an exception to their samene
 
 The `Life insurance` category is a good example of what we've referred to as "a vanilla flow." It's straightforward, with few conditionals, and many other categories mimic (or build on) it. This category has consistent [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) (email, phone and US Mail are all always `ENABLED`) which makes the contact information section simple.
 
-You can review the [Design requirements: Life insurance](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545) in Mural.
+You can see how this category works here:
+- [Design requirements: Life insurance](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545).
 
 #### How do other categories compare to `Life insurance`?
 |Category|How it compares to `Life insurance`|
@@ -33,7 +34,7 @@ You can review the [Design requirements: Life insurance](https://app.mural.co/t/
 |`Veteran ID Card (VIC)`|Similar, but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service); and email is the only contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|
 |`Housing assistance and home loans`|Similar, but for certain topics it includes [Select: State/Province/Region]|
 |`Guardianship, custodianship or fiduciary issues`|Similar, but it includes [Select: Location of residence] and sometimes [Zip code]|
-|`Veteran Readiness and Employment`|Similar, but it includes a [Veteran Readiness and Employment information] section|
+|`Veteran Readiness and Employment`|Similar, but it includes a [Veteran Readiness and Employment information] section which you can review in [Sketch: VR&E](https://sketch.com/s/d5ab371b-3b77-4fef-a616-aa1345675f7c)|
 |`Debt`|Similar, but it requires authentication and for one topic it includes [VA Medical Center search facility]|
 |`Benefits issues outside the U.S.`|If `Topic` = `Disability compensation` then it mimics `Category` = `Disability compensation`; if `Topic` = `Education benefits and work study` then it mimics `Category` = `Education benefits and work study`|
 |`Health care`|Includes too many differences to call it similar, jump ahead to [`Health care`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-)|
@@ -42,6 +43,17 @@ You can review the [Design requirements: Life insurance](https://app.mural.co/t/
 ---
 
 ### `Health care` aka Spaghetti and Meatballs 🍝
+
+At first glance, the `Health care` category looks similar to The Vanilla Flow. But it contains many differences, such as:
+- asd
+
+You can see how this category works here:
+- [Design requirements: Health care](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545)
+- [Sketch: Health care](https://sketch.com/s/6a75d0a2-e484-4f1e-8675-ad5747a1a871)
+
+#### How do other categories compare to `Life insurance`?
+|Category|How it compares to `Life insurance`|
+|:--|:--|
 
 ---
 
