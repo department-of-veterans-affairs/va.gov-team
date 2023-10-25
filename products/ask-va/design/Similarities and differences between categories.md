@@ -19,19 +19,21 @@ The `Life insurance` category is a good example of what we've referred to as "a 
 You can review the [Design requirements: Life insurance](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545) in Mural.
 
 #### Which categories are the SAME as `Life insurance`?
+- `Center for Minority Veterans`
 - `Decision reviews and appeals`
 - `Pension`
-- `Center for Minority Veterans`
 
 #### How do other categories compare to `Life insurance`?
-- `Survivor Benefits` is similar, but it includes [Branch of Service] (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md))
-- `Burials and memorials`is similar, but it includes [Branch of Service] (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md))
-- `Center for Women Veterans` is similar, but it includes [Branch of Service] (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md))
-- `Disability compensation`is similar, but it includes [Branch of Service] (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md))
-- `Benefits issues outside the U.S.` is similar, but this category "forks" so, if `Topic` = `Disability compensation` then it will mimic the `Disability compensation` category and include [Branch of Service] (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md))
-- `Housing assistance and home loans` is similar, but for certain topics it includes [Select: State/Province/Region]
-- `Guardianship, custodianship or fiduciary issues` is similar, but it includes [Select: Location of residence] and sometimes [Zip code]
-- `Veteran Readiness and Employment` is similar, but it includes a [Veteran Readiness and Employment information] section
+|Category|How it compares to `Life insurance`|
+|:--|:--|
+|`Burials and memorials`|Similar, but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
+|`Center for Women Veterans`|Similar, but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
+|`Survivor benefits`|Similar, but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
+|`Disability compensation`|Similar, but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
+|`Benefits issues outside the U.S.`|This category forks. If `Topic` = `Disability compensation` then it mimics `Category` = `Disability compensation`; if `Topic` = `Education benefits and work study` then it mimics `Category` = `Education benefits and work study`|
+|`Housing assistance and home loans`|Similar, but for certain topics it includes [Select: State/Province/Region]|
+|`Guardianship, custodianship or fiduciary issues`|Similar, but it includes [Select: Location of residence] and sometimes [Zip code]|
+|`Veteran Readiness and Employment` is similar, but it includes a [Veteran Readiness and Employment information] section
 - `Sign in and technical issues` is similar, but because email is the only contact option: the contact preference question is removed, we never collect address and the submission body copy changes
 - `DEERS (Defense Enrollment Eligibility Reporting System)` is similar, but because email is the only contact option: the contact preference question is removed, we never collect address and the submission body copy changes (review [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md))
 - `Veteran ID Card (VIC)` is similar, but it includes [Branch of Service] (review [field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)) and because email is the only contact option: the contact preference question is removed, we never collect address and the submission body copy changes (review [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md))
