@@ -31,7 +31,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
          	- [ ] December: 
          	- [ ] January:
 	- [X] Roles and Responsibilities
-		- We will follow the strategy documented in [MHV on VA.gov Veteran Feedback: Triaging feedback and strategizing response](products/health-care/digital-health-modernization/mhv-to-va.gov/metrics-performance-monitoring/Triaging-Veteran-feedback-guidance.md)
+		- We will follow the strategy documented in [MHV on VA.gov Veteran Feedback: Triaging feedback and strategizing response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/93b59fbf6afdbeb85bcedb92a4945e8c30dad478/products/health-care/digital-health-modernization/mhv-to-va.gov/metrics-performance-monitoring/Triaging-Veteran-feedback-guidance.md)
   - The mailbox rotation (TBD) will also be documented in the DSVA [#mhv-medical-records](https://dsva.slack.com/archives/C03Q2UQL1AS) Slack channel.
   - Phase 0 issues and feedback will be recorded in [a log on SharePoint](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/rollout/Phase%200/MR%20to%20VA.gov%20Feedback%20for%20Phase%200.xlsx?d=w2342617057e54407991f447e3315c1ae&csf=1&web=1&e=g7YRAE).
 - [X] Goals and exit criteria have been established for phase 0 and agreed upon with product owner
