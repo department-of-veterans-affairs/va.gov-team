@@ -31,7 +31,7 @@ We talked to **4 participants**, each of whom had a considerable amount of exper
 
 1. Improved search functionality 
 
-    As a KB user, I want the search functionality to be improved so that I can receive more relevant results and efficiently find the information I need. 
+    As a KB user, I want the search functionality to be improved so that I can receive more relevant results and efficiently find the information I need. ([related ticket #9373](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9373))
 
 2. Knowledge Base jumping off points 
 
