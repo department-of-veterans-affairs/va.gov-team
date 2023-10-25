@@ -1,33 +1,36 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
 ## Sprint 16
-Period - 10/11/2023 - 10/24/2023
+Period - 10/25/2023 - 11/07/2023
 ### Sprint goals 
 - **Expedited**
-   - Handover from Kyle
+
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
         - Rated Disabilities
             - [ ] Continue staggered release - timeboxed tickets to monitor the release and fix issues as they occur
         - Submit
           - [ ] Identify and resurface outstanding migration issues
+          - [ ] Military Service Address Implementation
+          - [ ] DD Dashboard for Sidekiq jobs
           - Benefits Claims Service
             - [ ] DD Dashboard
-          - [ ] Tech Discovery - Military Service Address
 - **Features**
    - 526ez changes to Intro pages
       - [ ] Intro pages - review flow changes - Design
-      - [ ] Start Implementation of Intro pages changes - Frontend Engineering
+      - Continue Implementation of unblocked Intro pages changes - Frontend Engineering
+         - [ ] Copy changes
 
    - 526ez sync with paper version 
-       - [ ] Design for Wireframes for new military service questions
+       - [ ] New military service questions - kick-off collab cycle
+       - [ ] Toxic Exposure design changes 
          
 - **Stretch Goals**
   - Engineering
      - PPIU - Direct Debit 
        - [ ] Release plan
   - Research
-     - Teams 1 & 2 research effort - Review medallia survey data - still in progress    
+     - Teams 1 & 2 research effort - Review medallia survey data - Report    
      - Audit of all changes as part of paper sync
 
 ## Sprint 15
