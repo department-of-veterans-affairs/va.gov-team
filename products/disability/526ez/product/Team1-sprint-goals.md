@@ -4,13 +4,12 @@
 Period - 10/25/2023 - 11/07/2023
 ### Sprint goals 
 - **Expedited**
-
+   - [ ] Unit tests coverage to 80% for unblocking future code shipment
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
-        - Rated Disabilities
-            - [ ] Continue staggered release - timeboxed tickets to monitor the release and fix issues as they occur
         - Submit
           - [ ] Identify and resurface outstanding migration issues
+          - [ ] Fix unblocked issues with /submit implementation
           - [ ] Military Service Address Implementation
           - [ ] DD Dashboard for Sidekiq jobs
           - Benefits Claims Service
