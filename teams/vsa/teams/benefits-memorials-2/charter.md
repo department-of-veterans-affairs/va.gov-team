@@ -1,5 +1,5 @@
 # **Benefits: Debt Resolution Team Charter** 
-Last Updated: January 27,2023
+Last Updated: October 25,2023
 
 ### **Table of Contents:**
 
@@ -45,7 +45,7 @@ Last Updated: January 27,2023
 |DSVA Product Manager   |Denise Coveyduc                          |
 |Sr. Product Manager    |Tom Davis                    |
 |Delivery Manager       |Heather Rienks                     |
-|Lead Back End Engineer  |Scott James                         |
+|Lead Back End Engineer  |Open position                         |
 |Back End Engineer      |Kevin Suarez                                |
 |Lead Front End Engineer |Andrew Rodiek                       |
 |Sr. Front End Engineer |Brandyn Sullins                     |
