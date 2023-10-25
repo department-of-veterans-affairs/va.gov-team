@@ -73,12 +73,12 @@ Review this category here:
 
 ### `Education benefits and work study` aka "I'm Different" 👽
 
-The `Education benefits and work study` category forks depending on:
+The `Education benefits and work study` category requires authentication. It also forks depending on:
 - if `Topic` = `Veteran Readiness and Employment`
 - if `Topic` ≠ `Veteran Readiness and Employment` 
 
 #### If `Topic` = `Veteran Readiness and Employment`
-It will follow the same pattern as `Category` = `Veteran Readiness and Employment` ([see above]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-))).
+It will follow the same pattern as `Category` = `Veteran Readiness and Employment` ([see above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-)), apart from requiring authentication because it sits within the `Education benefits and work study` category, in this case.
 
 #### If `Topic` ≠ `Veteran Readiness and Employment`
 For all other `Topics` in `Education benefits and work study` it follows a unique structure:
@@ -87,7 +87,8 @@ For all other `Topics` in `Education benefits and work study` it follows a uniqu
 - it includes [Select: State of school]
 - if it's a personal relationship, it includes [Select: State of residency]
 - if it's a business relationship, it includes [Search Facility: VA Medical Center]
-- 
+- there is always only one contact section (the submitter)
+- it only asks for [Social security number or service number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#social-security-number-or-service-number) and [Date of birth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#date-of-birth) if it's a personal inquiry
 
 Review this category here:
 - [Design requirements: Education](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695420804280/52101311ba374dec5e60aa33de63a2fe7f16102b?sender=u65f0a75fc7c68f2a5a2a9545)
