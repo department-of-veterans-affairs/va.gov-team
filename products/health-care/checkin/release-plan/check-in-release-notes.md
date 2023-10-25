@@ -12,6 +12,9 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 10/25/2023
+- CHIP v3.4.0: Enables Veterans to use the 45-minute reminder to begin their check-in user flow
+
 ### 10/12/2023
 - Updated Check-in travel pages to use the additional info component for alerts to reduce confusion for Veterans
     - [Ticket 65480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65480)
