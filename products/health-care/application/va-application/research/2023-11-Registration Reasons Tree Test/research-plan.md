@@ -16,15 +16,18 @@ Looking at this from the perspective of registration reasons as scenarios Vetera
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? 
+
+- Enhance Veterans’ personalized online experience
 
 
 
 ### Veteran Journey
 [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
+
 - Getting out
 - Starting up
-	- Moment that matters: selecting health care coverage according to their individual set of needs
+	- **Moment that matters**: selecting health care coverage according to their individual set of needs
 - Taking care of myself
 - Retiring
   
@@ -38,7 +41,6 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 - We want to know if Veterans expect to access these scenarios through different areas on VA.gov or through the health care benefits hub and specifically application page. 
 - Knowing this will guide the path on how to update the content of the 10-10EZ introduction page and knowing if other introduction pages/paths need to be accounted for registration mvp. 
 
@@ -165,7 +167,6 @@ We will use Perigean to recruit participants into cohorts needed for an unmodera
 November November TBD, 2023
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: 
