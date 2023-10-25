@@ -143,17 +143,20 @@ Communication Plan:
 ### Key Decisions
 
 - Release all categories together when we go live.
-- [Must Have/Nice to Have Features](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md)_
+- [Must Have/Nice to Have Features](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md)
   
 ---
    
-## Screenshots
+## Screenshots of Design Updates
 
-### Before
+![Screenshot 2023-10-25 at 1 45 53 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135031740/35191692-b186-48d3-ae37-f8f13a097bff)
 
-### After
+![Screenshot 2023-10-25 at 1 46 00 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135031740/6b7c8a1d-716a-4776-91f6-3f2e3d919051)
 
----
+
+![Screenshot 2023-10-25 at 1 46 06 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135031740/0cf35d27-5e39-4757-bc7c-d45f2000f525)
+
+
 
 #### Communications
 
