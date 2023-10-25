@@ -12,6 +12,29 @@
 
 - - - 
 
+## [Research questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/research-plan.md#research-questions)
+
+Regarding overall structure:
+
+- How effective is the structure and hierarchy of the hub page?
+    - *Generally, the page was scannable/consumable by sighted and AT participants, however one screen reader participant had issues with figuring out which part of the card was the link (see finding #6 below).*
+- How effective are the section overviews in giving users the gist of what’s within each one?
+    - *We observed no issues with people understanding the gist of what was within each section.*
+
+Regarding the side navigation menu:
+
+- How well does the proposed navigation concept perform across all users and screen sizes (i.e., a menu-less hub page with navigable sections)?
+    - *It didn’t seem disorienting to sighted and/or AT participants to go from an overview-style page with no nav menu to an individual section with side navigation menu. However, at least one screen reader participant skipped over the side navigation altogether once within a section.* 
+    - *We observed no friction for mobile users to scroll the hub page’s section overviews without the benefit of a menu.*
+    - *We didn’t observe differences in usability between large and small screens*.
+
+If time permitted:
+
+- To what extent would veterans look in their authenticated menu for links to dependents and letters?
+	- *Participants who were aware of their auth menu were more likely to use it when looking for dependents and/or letters. Participants who weren’t aware or didn’t use their auth menu (until prompted) had a harder time finding links to dependents/letters.*
+- Where within their profile would veterans expect to find emergency contact and next of kin information?
+	- *Generally, participants expected this information to be within their profile, somewhere within the realm of Personal Information and Contact Information.*
+
 ## Initial Findings
 
 **Finding #1**
