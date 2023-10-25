@@ -1,10 +1,13 @@
 # Ask VA Phase 1 - Product Outline
-In this Product Outline: 
+Sections in this Product Outline include: 
 - Overview
 - Problem Statement
 - Outcomes and Objectives
 - Measuring Success
 - Solution Approach
+- Launch Strategy
+- Screenshots of Drafted Design Updates
+- Team and stakeholders
 
 ## Overview
 AVA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystems to quickly and accurately answer submitters' questions. Submitters should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and submitter-centered approach to support.
@@ -55,7 +58,7 @@ As an authenticated submitter
 >I am not able to see the status of my submitted inquiries and manage my replies.\
 
 ### Desired Business Objectives
-Our updates for Phase 1 will bring the current Ask VA up to VA.gov design, content, and accessibility standards and sunset the existing front-end portal of AVA after a sufficient transition period.
+Our updates for Phase 1 will bring the current Ask VA up to VA.gov design, content, and accessibility standards and sunset the existing front-end portal of AVA after a sufficient transition period of around 6 months.
 
 ## Measuring Success
 
@@ -94,68 +97,44 @@ Transitioning the Ask VA front-end to VA.gov design, content, and accessibility 
 - Updated existing routing rules to smart routing
 - Integration with VA Notify
 
-See the complete scope of Phase 1 in this GitHub doc, [including Must Have/Nice to have features for Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md)
-
 ### Our High Level Plan in Four Phases
 1. Discovery Spikes - Conducted quick, timeboxed explorations to determine effort for potential features
 2. **Create Prototype** (Current Status) - Develop coded prototype on staging.va.gov for usability test
 3. Usability Testing - Conduct usability tests with Veterans and dependents 
 4. Launch Phase 1 - Launch the Ask VA front-end form and dashboard on VA.gov
   
-## Initiatives
-Download the [Initiative Brief on the overall project here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/AVA%20-%20Initiative%20Brief%20v2.docx)
+### Additional references
+- See the complete scope of Phase 1 in this GitHub doc, [including Must Have/Nice to have features for Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md)
+- Download the [Initiative Brief on the overall project here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/AVA%20-%20Initiative%20Brief%20v2.docx)
 
 ## Launch Strategy
+- Launch Phase 1 after redesigning and developing form flows for each category, topic, and subtopic combination on VA.gov.
+- Sunset the existing front-end of AVA (ask.va.gov on on the stand alone Microsoft portal) after ~6 months.
+- Tentatively, go live in the second half of 2024.
 
->- Launch MVP once all the categories are redesigned and developed on the new front-end.
->- Sunset the existing front-end of AVA (which is on the stand alone Microsoft portal) after ~6 months.
->- Tentatively, planning to go live in the second half of 2024.
+### Communication Plan
+- How are Veterans and others using this product going to know it exists?
+- What marketing, outreach, or communications are necessary for this product to be successful?*
+- [View a Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/maste/platform/product-management/release-plan-template.md)
 
-Communication Plan:
-
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-## Launch Dates
+### Launch Dates
 - *Target Launch Date*
   - TBD until further conversation with dependent teams
 - *Actual Launch Date* 
   - TBD
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - TBD
-
----
-
-## Solution Narrative
-
-### Current Status
-
-1. Discovery Spikes
-2. **Create Prototype** (Current Status)
-3. Usability Testing
-4. Updates to product after usability testing
-5. Launch Phase 1
-
-### Key Decisions
-
-- Release all categories together when we go live.
-- [Must Have/Nice to Have Features](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md)
-  
----
    
-## Screenshots of Design Updates
+## Screenshots of Drafted Design Updates
 
 ![Screenshot 2023-10-25 at 1 45 53 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135031740/35191692-b186-48d3-ae37-f8f13a097bff)
 
 ![Screenshot 2023-10-25 at 1 46 00 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135031740/6b7c8a1d-716a-4776-91f6-3f2e3d919051)
 
-
 ![Screenshot 2023-10-25 at 1 46 06 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135031740/0cf35d27-5e39-4757-bc7c-d45f2000f525)
 
-
-
-#### Communications
+## Team and stakeholders
+### Communications
 
 <details>
 
@@ -167,7 +146,7 @@ Communication Plan:
 
 </details>
 
-#### Team Members
+### Team Members
 
 <details>
  
@@ -179,12 +158,10 @@ Communication Plan:
  
 </details>
 
-
-#### Stakeholders
+### Stakeholders
 
 <details>
 
-- [Leadership and Partner Teams Stakeholders](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696976895933/4f5410b3e8770441f4101cbabd565aa0cd13dac7?sender=u2d812b371596fee265408413)
+- [View VA Leadership and Partner Team Stakeholders in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696976895933/4f5410b3e8770441f4101cbabd565aa0cd13dac7?sender=u2d812b371596fee265408413)
 
 </details>
-
