@@ -33,11 +33,8 @@ A scheduled in-person appointment at a VA facility.
 | Include these actions                              | For Active Appts  | For Canceled appts |
 | -------------------------------------------------- | ----------------- | ------------------ |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md)                             | ✅                 |                   |
-| Print Action                                       | ✅                 |                   |
+| [Print Action](../tools/tool-print.md)                                       | ✅                 |                   |
 | [Cancel Action](../tools/tool-cancel.md)                                      | ✅                 |                   |
-
-
-
 
 ## User interface design
 
