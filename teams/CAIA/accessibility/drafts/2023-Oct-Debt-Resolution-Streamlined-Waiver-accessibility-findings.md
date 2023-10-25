@@ -26,11 +26,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
-|      P1                  |  10/24/2023                |                    |                 |                      |             |             | 
-|  P2                      |           10/24/2023       |                    |                 |                      |             |             |
-|    P3                    |     10/25/2023             |                    |                 |                      |             |             |
-|    P4                    |          10/25/2023        |                    |                 |                      |             |             |
+|    P4                    |          10/25/2023        |     Dolphin               |     Intermediate            |     Windows                 |    Chrome         |     Desktop        |
 |   P5                     |     10/26/2023             |                    |                 |                      |             |             |
 |    P6                    |        10/27/2023          |                    |                 |                      |             |             |
 |       P7                 |            10/30/2023      |                    |                 |                      |             |             |
