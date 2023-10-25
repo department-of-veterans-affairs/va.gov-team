@@ -73,11 +73,15 @@ Review this category here:
 
 ### `Education benefits and work study` aka "I'm Different" 👽
 
-The `Education benefits and work study` category forks depending on whether `Topic` = `Veteran Readiness and Employment` or `Topic` ≠ `Veteran Readiness and Employment`. 
+The `Education benefits and work study` category forks depending on:
+- if `Topic` = `Veteran Readiness and Employment`
+- if `Topic` ≠ `Veteran Readiness and Employment`. 
 
-If `Topic` = `Veteran Readiness and Employment`, then it follows the same pattern as `Category` = `Veteran Readiness and Employment` ([see above]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-))).
+#### If `Topic` = `Veteran Readiness and Employment`
+In this case, it follows the same pattern as `Category` = `Veteran Readiness and Employment` ([see above]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#life-insurance-aka-the-vanilla-flow-))).
 
-But if `Topic` ≠ `Veteran Readiness and Employment`, then it's structure is unique to `Education`, and:
+#### If `Topic` ≠ `Veteran Readiness and Employment`
+For all other `Topics` in `Education benefits and work study` it follows a unique structure:
 - it does not fork into the same four sections as **The Vanilla Flow**
 - it asks the submitter's relationship to the Veteran in order to determine whether it's a **business or personal relationship**
 - it includes [Select: State of school]
