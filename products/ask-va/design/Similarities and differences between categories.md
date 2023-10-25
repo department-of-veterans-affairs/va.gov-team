@@ -19,7 +19,15 @@ If we say that a category is the "same" as another, an exception to their samene
 
 ### `Life insurance` aka The Vanilla Flow 🍦
 
-The `Life insurance` category is a good example of what we've referred to as "a vanilla flow." It's straightforward, with few conditionals, and many other categories mimic (or build on) it. This category has consistent [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) (email, phone and US Mail are all always `ENABLED`) which makes the contact information section simple.
+The `Life insurance` category is a good example of what we've referred to as "a vanilla flow." It's straightforward, with few conditionals, and many other categories mimic (or build on) it.
+
+**The Vanilla Flow** forks into four sections, based on whether a submitter is asking:
+- a general question
+- about me, the Veteran
+- for the dependent of a Veteran
+- on behalf of a Veteran
+
+And the `Life insurance` category, in particular, has consistent [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) (email, phone and US Mail are all always `ENABLED`) which makes the contact information section simple.
 
 Review this category here:
 - [Design requirements: Life insurance](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545).
@@ -65,15 +73,11 @@ Review this category here:
 
 ### `Education benefits and work study` aka "I'm Different" 👽
 
-The `Education benefits and work study` category is the most unique. First off, it forks depending on whether `Topic` = `Veteran Readiness and Employment` or `Topic` = [all other topics].
+The `Education benefits and work study` category is forks depending if `Topic` = `Veteran Readiness and Employment` or `Topic` = [all other topics]. 
 
-If `Topic` = `Veteran Readiness and Employment`, then it will  
+If `Topic` = `Veteran Readiness and Employment`, then it follows the same pattern as `Category` = `Veteran Readiness and Employment`.
 
-**The Vanilla Flow** forks into four sections, based on whether a submitter is asking:
-- a general question
-- about me, the Veteran
-- for the dependent of a Veteran
-- on behalf of a Veteran
+But if `Topic` ≠ `Veteran Readiness and Employment`, then it follows a pattern that's unique to `Education`.
 
 But the `Education benefits and work study` category does not follow this pattern. Instead, it asks the submitters relationship to the Veteran in order to determine whether it's a business or personal relationship.
 - For most topics (besides `Veteran Readiness and Employment`) in this category, there is no
