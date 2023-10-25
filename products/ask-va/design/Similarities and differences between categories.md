@@ -21,7 +21,7 @@ You can review the [Design requirements: Life insurance](https://app.mural.co/t/
 #### How do other categories compare to `Life insurance`?
 |Category|How it compares to `Life insurance`|
 |:--|:--|
-|- `Center for Minority Veterans`|Identical|
+|`Center for Minority Veterans`|Identical|
 |`Decision reviews and appeals`|Identical|
 |`Pension`|Identical|
 |`Burials and memorials`|Similar, but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
