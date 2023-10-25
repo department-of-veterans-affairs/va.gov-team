@@ -142,7 +142,8 @@ Communication Plan:
 
 ### Key Decisions
 
-- Release all categories at one time
+- Release all categories together when we go live.
+- [Must Have/Nice to Have Features](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md)_
   
 ---
    
