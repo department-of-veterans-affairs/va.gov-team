@@ -28,9 +28,9 @@ The `Life insurance` category is a good example of what we've referred to as "a 
 - on behalf of a Veteran
 
 **Review this category here:**
-- [Design requirements: Life insurance](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545).
+- [Design requirements: Life insurance](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545)
 
-#### How do other categories compare to `Life insurance`?
+#### How do other categories compare to Life insurance?
 |Category|How it compares to `Life insurance`|
 |:--|:--|
 |`Center for Minority Veterans`|Same|
