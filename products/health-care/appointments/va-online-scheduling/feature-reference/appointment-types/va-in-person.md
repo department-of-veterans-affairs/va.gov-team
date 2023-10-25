@@ -6,7 +6,10 @@ A scheduled in-person appointment at a VA facility.
 
 ## User stories
 
-- As a Veteran, I want to manage my scheduled VA appointments.
+- As a Veteran, I want to review my confirmed VA appointments.
+    - As a Veteran, I want to easily understand if an appointment is upcoming, in the past, or canceled.
+- As a Veteran, I want to add my confirmed VA appointments to my calendar.
+- As a Veteran, I want to cancel my confirmed, upcoming VA appointments.
 
 ## Requirements
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
@@ -16,6 +19,8 @@ A scheduled in-person appointment at a VA facility.
 - User can review data to understand their appointment (see table below).
 - User can complete tasks related to their appointment (see table below).
 - [Requirements for canceled appointments](../tools/tool-cancel.md#requirements) are followed.
+- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md) are followed.
+- [Requirements for printing appointments](../tools/tool-print.md) are followed.
 
 | Display this data                                  | For Active Appts  | For Canceled Appts |
 | -------------------------------------------------- | ----------------- | ------------------ |
@@ -27,7 +32,7 @@ A scheduled in-person appointment at a VA facility.
 
 | Include these actions                              | For Active Appts  | For Canceled appts |
 | -------------------------------------------------- | ----------------- | ------------------ |
-| Add to Calendar Action                             | ✅                 |                   |
+| [Add to Calendar Action](../tools/tool-add-to-calendar.md)                             | ✅                 |                   |
 | Print Action                                       | ✅                 |                   |
 | [Cancel Action](../tools/tool-cancel.md)                                      | ✅                 |                   |
 

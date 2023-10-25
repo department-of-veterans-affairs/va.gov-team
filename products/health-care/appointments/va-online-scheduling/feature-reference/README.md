@@ -52,9 +52,9 @@ Tools Veterans can use to manage their appointments and requests.
 
 | Feature | Description | 
 |---|---|
-| [Cancel appointment/request](./tools/tool-cancel.md) | | 
-| Add to calendar | | 
-| Print | | 
+| [Cancel appointment/request](./tools/tool-cancel.md) | Veterans can cancel some appointments online. | 
+| [Add to calendar](./tools/tool-add-to-calendar.md) | Veterans can download a file that will let them add an appointment to their calendar | 
+| [Print](./tools/tool-print.md) | Veterans can print details for appointments | 
 
 ## Schedule appointments
 Tools for Veterans to schedule or request appointments.
