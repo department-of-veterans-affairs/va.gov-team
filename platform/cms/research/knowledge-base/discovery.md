@@ -49,6 +49,7 @@ We talked to **4 participants**, each of whom had a considerable amount of exper
 **Medium priority**
 
 5. Enriching articles with visuals
+    
     As a KB article author, I want to add images and media to knowledge base articles so that I can enhance the understanding of complex or unfamiliar language and concepts (e.g., by incorporating screenshots) to improve the clarity and usability of instructions and explanations.
 
 6. Article style consistency 
