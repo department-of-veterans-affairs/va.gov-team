@@ -16,7 +16,6 @@ The benefit of tools that integrate into browsers is that they give you the capa
   * [ArcToolkit](https://www.tpgi.com/) - a set of accessibility tools that aids developers in identifying accessibility problems and features for WCAG 2, EN 301 549, and Section 508
   * [WAVE](https://wave.webaim.org/) - a web accessibility evaluation tool developed by WebAIM.org. It provides visual feedback about the accessibility of your web content
   * [IBM Equal Access Accessibility Checker](https://www.ibm.com/able/) - an open-source tool for web developers and auditors that utilizes IBM's accessibility rule engine, which detects accessibility issues for web pages and web applications.
-  * [What has focus](https://codepen.io/svinkle/pen/WgYRxq) - a bookmarklet that helps determine what element currently has active focus.
   * [Accessibility insights for web](https://accessibilityinsights.io/docs/web/overview/) - a tool, similar to Axe and WAVE, that evaluates a page's semantic elements and styling
 
 ## Manual Testing Tools
@@ -45,6 +44,7 @@ Website features should be navigable solely via the keyboard. Keyboard users typ
 While automated testing may catch issues with semantics, it is a good idea to do a bit of manual checking. For example, verifying that labels are associated correctly with form field elements, verifying that radio button groups are within a proper fieldset element, ensuring that images have appropriate alt text, etc.
 * [headingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi) - this extension audits the heading structure of a web page and generates a document map of headings.
 * [Web Developer](https://chrispederick.com/work/web-developer/) - a browser extension that adds various web developer tools that allow you to turn off images, turn off styling (CSS), disable JavaScript, and other actions to help test for accessibility.
+* [What has focus](https://codepen.io/svinkle/pen/WgYRxq) - a bookmarklet that helps determine what element currently has active focus.
 
 ### Screen Readers
 These can help to convey content to blind people, and partially-sighted users and can even be helpful for people with reading disorders. Testing with these can aid in the evaluation of plain language and the overall experience of screen reader users.
