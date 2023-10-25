@@ -39,7 +39,7 @@ Participants mentioned a few things that would be helpful in enhancing their Mil
 
 **Finding #5**
 
-Participants that used their auth menu for navigation seemed to have more success in finding links to dependents and/or letters than participants who weren't aware of their auth menu until promptedby the moderator.
+Participants that used their auth menu for navigation seemed to have more success in finding links to dependents and/or letters than participants who weren't aware of their auth menu until prompted by the moderator.
 
 P3 said they would not have expected to look in the auth menu for letters, and that the things the moderator asked P3 about earlier are [on the Letters page], when P3 thought they'd be right under the profile.
 
