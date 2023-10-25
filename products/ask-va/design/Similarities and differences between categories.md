@@ -55,7 +55,7 @@ Almost all categories will follow the same pattern as `Life insurance`, which fo
 
 ### Health care aka All-Day Lasagna 🍝
 
-The `Health care` category builds on the **The Vanilla Flow**. At first glance, it looks simple but it's actually much more complex - like an **[All-Day Lasagna](https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta)** – because:
+The `Health care` category builds on the **The Vanilla Flow**. At first glance, it looks simple but it's actually pretty complex - like an **[All-Day Lasagna](https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta)** – because:
 - it includes [Search Facility: VA Medical Center]
 - it's [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) vary greatly depending on the topic
 - sometimes it includes the Veteran's [Zip code], even if the submitter isn't being contacted by US Mail
