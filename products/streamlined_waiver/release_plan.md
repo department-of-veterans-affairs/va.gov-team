@@ -146,24 +146,18 @@ _Test a larger population of users to make sure there are no issues exposed by l
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: ~899
+- Any issues with VA handling/processing?:  Yes
+- Types of errors logged: BackendServiceException: {:status=>500, :detail=>nil, :code=>"VA900", :source=>nil}
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? No
+- If yes, what: N/A
 
 ### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: ~3800
+- Any issues with VA handling/processing?: Yes
+- Types of errors logged: BackendServiceException: {:status=>500, :detail=>nil, :code=>"VA900", :source=>nil} - BackendServiceException: {:source=>"VaNotify::Service", :code=>"VANOTIFY_400"}
+- Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? No
+- If yes, what: N/A
 
 ## Post-launch Questions 
 
