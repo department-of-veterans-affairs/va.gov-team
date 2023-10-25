@@ -36,24 +36,23 @@ You can see how this category works here:
 |`Guardianship, custodianship or fiduciary issues`|Similar, but it includes [Select: Location of residence] and sometimes [Zip code]|
 |`Veteran Readiness and Employment`|Similar, but it includes a [VR&E information] section which you can review in [Sketch: VR&E](https://sketch.com/s/d5ab371b-3b77-4fef-a616-aa1345675f7c)|
 |`Debt`|Similar, but it requires authentication and for one topic it includes [VAMC search facility] which you can review in [Sketch: Search Facility](https://sketch.com/s/9a9968fd-01c9-4f51-b7be-076b25a3b019)|
-|`Benefits issues outside the U.S.`|If `Topic` = `Disability compensation` then it mimics `Category` = `Disability compensation`; if `Topic` = `Education benefits and work study` then it mimics `Category` = `Education benefits and work study`|
-|`Health care`|Includes too many differences to call it similar, jump ahead to [`Health care`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-)|
-|`Education`|Includes too many differences to call it similar, jump ahead to [`Education benefits and work study`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#education-benefits-and-work-study-aka-im-different-)|
+|`Benefits issues outside the U.S.`|If `Topic` = `Disability compensation` then it's the same as `Category` = `Disability compensation`; if `Topic` = `Education` then it's the same as `Category` = `Education`|
+|`Health care`|Similar, but more complex, jump ahead to [`Health care`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-)|
+|`Education benefits and work study`|Includes too many differences to call it similar, jump ahead to [`Education benefits and work study`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#education-benefits-and-work-study-aka-im-different-)|
 
 ---
 
 ### `Health care` aka Spaghetti and Meatballs 🍝
 
-At first glance, the `Health care` category looks similar to The Vanilla Flow. But it contains many differences, such as:
-- asd
+The `Health care` category at it's core is similar to The Vanilla Flow, but it's much more complex. Some of the added complexity includes:
+- it includes the [Search Facility: VA Medical Center]
+- it's [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) differ greatly by topic
+- sometimes it includes the Veteran's [Zip code], even if the submitter isn't being contacted by US Mail
 
 You can see how this category works here:
 - [Design requirements: Health care](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545)
 - [Sketch: Health care](https://sketch.com/s/6a75d0a2-e484-4f1e-8675-ad5747a1a871)
-
-#### How do other categories compare to `Life insurance`?
-|Category|How it compares to `Life insurance`|
-|:--|:--|
+- [Sketch: Search Facility](https://sketch.com/s/9a9968fd-01c9-4f51-b7be-076b25a3b019)
 
 ---
 
