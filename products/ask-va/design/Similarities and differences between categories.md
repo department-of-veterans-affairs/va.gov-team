@@ -43,7 +43,7 @@ Review this category here:
 |`Survivor benefits`|Similar but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
 |`Disability compensation`|Similar but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)|
 |`Sign in and technical issues`|Similar but email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|
-|`DEERS (Defense Enrollment Eligibility Reporting System)`|Similar but email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|
+|`DEERS`|Similar but email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|
 |`Veteran ID Card (VIC)`|Similar but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service); and email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|
 |`Housing assistance and home loans`|Similar but for certain topics it includes [Select: State/Province/Region] independent of selecting US Mail|
 |`Guardianship, custodianship or fiduciary issues`|Similar but it includes [Select: Location of residence] and sometimes [Zip code] independent of selecting US Mail|
