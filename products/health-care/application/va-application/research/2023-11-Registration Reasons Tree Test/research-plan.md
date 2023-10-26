@@ -138,17 +138,17 @@ We will use Perigean to recruit participants into cohorts needed for an unmodera
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
 |***Cognitive Impairment and/or Functional Disabilities***  |        |        |        |        |        |        |        |        |      
 | Traumatic Brain Injury (TBI)                                 |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
-| Post-Traumatic Stress Disorder (PTSD)                        |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
-| Attention-Deficit/Hyperactivity Disorder (ADHD)              |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Post-Traumatic Stress Disorder (PTSD)                        |  0     |   0    |    0   |    0   |      0 |    1   |   0    |  0     |
+| Attention-Deficit/Hyperactivity Disorder (ADHD)              |  0     |   0    |    0   |    0   |      0 |    2   |   0    |  0     |
 | Autism                                                       |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
 | Vertigo                                                      |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
 | Aphasia                                                      |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
 | Dyslexia                                                     |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
 | Dyscalculia                                                  |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
-| Distractibility                                              |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
-| Memory loss                                                  |  0     |   0    |    0   |    0   |      0 |    3   |   0    |  0     |
-| Reading difficulties                                         |  0     |   0    |    0   |    0   |      0 |    3   |   0    |  0     |
-| Low tolerance for cognitive overload                         |  0     |   0    |    0   |    0   |      0 |    3   |   0    |  0     |
+| Distractibility                                              |  0     |   0    |    0   |    0   |      0 |    1   |   0    |  0     |
+| Memory loss                                                  |  0     |   0    |    0   |    0   |      0 |    2   |   0    |  0     |
+| Reading difficulties                                         |  0     |   0    |    0   |    0   |      0 |    1   |   0    |  0     |
+| Low tolerance for cognitive overload                         |  0     |   0    |    0   |    0   |      0 |    2   |   0    |  0     |
 
 
 ### Screener question cohort 1-7
