@@ -48,7 +48,7 @@ Data collection will be remote and conducted using Zoom.
 
 ### Research materials
 
-[Conversation guide](add link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research/2023-10-MHV-on-VA.gov-secondary-navigation-conversation-guide.md)
 
 [Prototype](add link here)
 
@@ -71,11 +71,11 @@ Primary criteria (must-haves)
 - Must have an active MHV account that they have accessed at least once in the past 12 months
 
 **Desired sample**
-- 15 total
-- 7 frequent users of MHV
-- 8 infrequent users of MHV
+- 8 total
+- 4 frequent users of MHV
+- 4 infrequent users of MHV
 - All mobile users
-- Age and education level range throughout, but ideally include at least 10 participants older than 55 and 10 participants with some college or less as their terminal degree
+- Age and education level range throughout, but ideally include at least 6 participants older than 55 and 6 participants with some college or less as their terminal degree.
 
 ### Screener questions
 
