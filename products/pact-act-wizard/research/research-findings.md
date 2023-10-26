@@ -160,7 +160,7 @@ A third participant didn't select "both time periods" until his second time thro
 
 > *"You're really not in the military until after training" (p4).*
 
-#### RECOMMENDATIONS: 
+#### RECOMMENDATION: 
 1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options. A few potential ideas:
      -  Ask what year the Veteran joined the service and what year they left (as in Perigean's recruitment survey from the VA) 
      - Use 2 checkboxes instead of 3 radio buttons
@@ -229,7 +229,7 @@ One participant **expected to be asked when and where he served**, but that's no
 
 One participant **wanted to see what the specific presumptive conditions are**, which aren't on the page. More specifically, they wanted to know what conditions are covered for which location(s) in what timeframe.
 
-#### RECOMMENDATIONS:
+#### RECOMMENDATION:
 7. Consider how we might indicate where to find the list of presumptive conditions while  reading the definition presumptive conditions on the R1-1 page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
 
 #### User feedback on the R1-2 "Apply for VA benefits now" results page
