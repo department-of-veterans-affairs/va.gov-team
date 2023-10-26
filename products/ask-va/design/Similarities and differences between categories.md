@@ -21,7 +21,7 @@ Note: If we say that a category is the "same" as another, an exception to their 
 
 The `Life insurance` category is a good base, just like [**Vanilla**](https://cooking.nytimes.com/recipes/1016605-the-only-ice-cream-recipe-youll-ever-need). It's straightforward, with few conditionals, and many other categories mimic (or build on) it. Also, all [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) are enabled consistently.
 
-Almost all categories will follow the same pattern as `Life insurance`, which forks into four sections depending on whether a submitter is asking:
+Almost all categories will follow the same pattern as `Life insurance`, which forks into four sections in Chapter 3, depending on whether a submitter is asking:
 - a general question
 - about me, the Veteran
 - for the dependent of a Veteran
@@ -44,9 +44,9 @@ Almost all categories will follow the same pattern as `Life insurance`, which fo
 |`DEERS`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423457665/307c32dd808585f1a301cbd1e592779bcade1298?sender=u65f0a75fc7c68f2a5a2a9545)|Similar but email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) which changes the contact flow and submission page|
 |`Veteran ID Card (VIC)`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423186242/9e017ae2dcf868895ee55de0001a2be63c4fe6ee?sender=u65f0a75fc7c68f2a5a2a9545)|Similar but it includes [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service) in Chapter 4 under Veteran's information; and email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) which changes the contact flow and submission page|
 |`Housing assistance and home loans`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695421473196/3b66f71634f1852f5b04ff1f3568a59c4e3b03c8?sender=u65f0a75fc7c68f2a5a2a9545)|Similar but for certain topics it includes [Select: State/Province/Region] in Chapter 1|
-|`Guardianship, custodianship or fiduciary issues`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423629959/3ae0c6dbf7987b3112ec342979bc435587a7d7d7?sender=u65f0a75fc7c68f2a5a2a9545)|Similar but it includes [Select: Location of residence] and sometimes [Zip code] independent of selecting US Mail|
-|`Veteran Readiness and Employment`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695422106245/fd54c37370c6791b0ce61a8b520c18d854822ad5?sender=u65f0a75fc7c68f2a5a2a9545), [Sketch](https://sketch.com/s/d5ab371b-3b77-4fef-a616-aa1345675f7c)|Similar but it includes a [VR&E information] section|
-|`Debt`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695421760239/250859298bf4b9df29cb4b83d795fdef9357d752?sender=u65f0a75fc7c68f2a5a2a9545)|Similar but it requires authentication and one topic includes [VAMC search facility]|
+|`Guardianship, custodianship or fiduciary issues`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423629959/3ae0c6dbf7987b3112ec342979bc435587a7d7d7?sender=u65f0a75fc7c68f2a5a2a9545)|Similar but it includes [Select: Location of residence] and sometimes [Zip code] in Chapter 3|
+|`Veteran Readiness and Employment`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695422106245/fd54c37370c6791b0ce61a8b520c18d854822ad5?sender=u65f0a75fc7c68f2a5a2a9545), [Sketch](https://sketch.com/s/d5ab371b-3b77-4fef-a616-aa1345675f7c)|Similar but it includes a [VR&E information] section in Chapter 3|
+|`Debt`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695421760239/250859298bf4b9df29cb4b83d795fdef9357d752?sender=u65f0a75fc7c68f2a5a2a9545)|Similar but it requires authentication and one topic includes [VAMC search facility] in Chapter 3|
 |`Benefits issues outside the U.S.`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695420964179/a81eb6245b84bc4d9af46933d2f212055b9a061b?sender=u65f0a75fc7c68f2a5a2a9545)|If `Topic` = `Disability compensation` then see `Category` = `Disability compensation`; if `Topic` = `Education` then see `Category` = [Education](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#education-benefits-and-work-study-aka-im-different-)|
 |`Health care`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695420621139/974c12030d0214f2d550329fd820f7aebe9c08fb?sender=u65f0a75fc7c68f2a5a2a9545), [Sketch](https://sketch.com/s/6a75d0a2-e484-4f1e-8675-ad5747a1a871)|Similar but more complex; jump ahead to [Health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#health-care-aka-spaghetti-and-meatballs-)|
 |`Education benefits and work study`|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695420804280/52101311ba374dec5e60aa33de63a2fe7f16102b?sender=u65f0a75fc7c68f2a5a2a9545), [Sketch](https://sketch.com/s/7e494761-be10-4aef-a268-a45a02fbc5c3)|It requires authentication; if `Topic` = `VR&E` then it's the same as `Category` = `VR&E` but for all other topics it follow a unique structure; jump ahead to [Education benefits and work study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md#education-benefits-and-work-study-aka-im-different-)|
@@ -56,9 +56,9 @@ Almost all categories will follow the same pattern as `Life insurance`, which fo
 ### Health care aka All-Day Lasagna 🍝
 
 The `Health care` category builds on the **The Vanilla Flow**. At first glance, it looks simple but it's actually pretty complex - like an **[All-Day Lasagna](https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta)** – because:
-- it includes [Search Facility: VA Medical Center]
-- it's [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) vary greatly depending on the topic
-- sometimes it includes the Veteran's [Zip code], even if the submitter isn't being contacted by US Mail
+- sometimes it includes [Search Facility: VA Medical Center] in Chapter 3
+- it's [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) vary greatly depending on the topic which changes the contact flow and submission page
+- sometimes it includes the Veteran's [Zip code] in Chapter 4, even if the submitter isn't being contacted by US Mail
 
 We've chosen this flow to test with users first, because it's complex. While this category **does not** require authentication, for testing we will include this as a requirement so we can test the most risky path.
 
@@ -80,14 +80,16 @@ It will follow the same pattern as `Category` = `Veteran Readiness and Employmen
 
 #### If Topic ≠ Veteran Readiness and Employment
 All other `Topics` in `Education benefits and work study` will follow a different structure. This makes it unique, like having **[Salad for Breakfast](https://www.google.com/search?sca_esv=576631001&q=Is+it+OK+to+have+salad+for+breakfast%3F&sa=X&ved=2ahUKEwjhj9qjoZKCAxXfI0QIHUSdCsIQzmd6BAgZEAY&biw=1803&bih=851&dpr=1)**:
-- it does not fork into the same four sections as **The Vanilla Flow**
-- it asks the submitter's relationship to the Veteran in order to determine whether it's a **business or personal relationship**
-- it includes [Select: State of school]
-- if it's a personal relationship, it includes [Select: State of residency]
-- if it's a business relationship, it includes [Search Facility: School Facility]
-- there is always only one contact section (the submitter)
-- it only asks for [Social security number or service number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#social-security-number-or-service-number) and [Date of birth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#date-of-birth) if it's a personal inquiry
-- email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)
+- in Chapter 3:
+  - it does not fork into the same four sections as **The Vanilla Flow**
+  - it asks the submitter's relationship to the Veteran in order to determine whether it's a **business or personal relationship**
+  - it includes [Select: State of school]
+  - if it's a personal relationship, it includes [Select: State of residency]
+  - if it's a business relationship, it includes [Search Facility: School Facility]
+- in Chapter 4:
+  - there is always only one contact section (the submitter)
+  - it only asks for [Social security number or service number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#social-security-number-or-service-number) and [Date of birth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#date-of-birth) if it's a personal inquiry
+  - email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) which changes the contact flow and submission page
 
 **Review this category here:**
 - [Design requirements: Education](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695420804280/52101311ba374dec5e60aa33de63a2fe7f16102b?sender=u65f0a75fc7c68f2a5a2a9545)
