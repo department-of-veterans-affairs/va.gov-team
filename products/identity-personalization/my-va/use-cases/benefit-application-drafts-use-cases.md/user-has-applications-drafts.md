@@ -6,8 +6,6 @@ For LOA3 users who sign in and have a benefit application draft saved (or multip
 
 ## UX
 - Any logged in LOA3 user can see the Benefit application drafts section on My VA.
-- Below the Benefit application drafts header, the user will see an expandable dropdown that says “What benefits does VA offer?” 
-	- If the user expands this dropdown, they will see a list of links for all VA benefits which link to the same landing pages as the main navigation: Health care, Education and training, Disability compensation, Careers and employment, Pension, Housing assistance, Burials and memorials, Life insurance, Service member benefits, and Family member benefits.
 - When a user has a benefit application draft saved in progress, they will see a card in this section that tells them the form code, application type, an expiration date for the application, the date that they last opened it, and a link to continue the application.
 	- Conditions in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) for saving forms in progress and changes in User Profile code must be met in order for a form that is saved to show up in this section of My VA.
 - This card is always displayed on the left hand side of the page on desktop when there is only one card to show.
@@ -20,5 +18,4 @@ For LOA3 users who sign in and have a benefit application draft saved (or multip
 - Find a staging user who has a benefit application draft in the [benefit application drafts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#saved-applications-section).
 - Log into staging.va.gov with a test user who has a saved benefit application draft.
 - Once logged in, you will be redirected to My VA.
-- Verify that you see the dropdown for VA benefits below the section header.
 - Verify that you see a card for the saved application in this section and that it links to the page where the user can continue the application.
