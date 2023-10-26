@@ -320,7 +320,7 @@ One participant **would have tried to convince his dad to apply** for benefits u
      1. Are PACT Act benefits different from regular disability compensation?   
      1. Should I include conditions that aren't presumptive? 
      1. Might the list of presumptive conditions change in the future? 
-     1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Is there a reason to wait before applying? (i.e., until you've had your disability rating for at least 10 years, if that's accurate information and reasonable advice).
+     1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying (i.e., until you've had your disability rating for at least 10 years, if that's accurate information and reasonable advice)?
      1. How to handle CRSC and PACT benefits together
 1. Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?
  
@@ -382,34 +382,38 @@ A different participant said that it's frustrating that he **doesn't know  wheth
 Preliminary ideas for recommendations are listed below as input to discussion with the team and stakeholders.
 
 ### For content in the PACT Act wizard
-1. Consider instead asking what year the Veteran joined the service and what year they left (as in Perigean's recruitment survey from the VA). This might be more straightforward than the cognitive load of *A/B/both* radio button options, and also would eliminate questions about whether one's service is close enough to 1989 or 1990 and the implications. 
-     1. Alternatively, consider making the options into 2 checkboxes instead of 3 radio buttons.
-     1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
-     1. Consider adding a "Not sure" option that would result in ALL questions being asked (like the current "Both time periods" option).
-1. Consider adding a brief description or link to information about C-123 planes so that people won't stop and wonder what they are.
-1. Consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
-1. Consider revising the content to clarify what is meant by the word "near" in the DMZ option.
-1. In the questions, consider trying to more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone").
-1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
-1. In or near the description of presumptive conditions on the R1-1 page, consider adding a note or link about where to find a list of specific conditions (on the R1-2 page). Nothing on the current R1-1 page indicates that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
-1. Consider adding more content/link/header for those who already have VA disability because "if you haven't filed a claim" and "if we denied your claim" may not seem to apply.
-1. Consider adding more information to the PACT Act page and/or the wizard to address participants' questions and concerns:  
+1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options. A few potential ideas:
+     -  Ask what year the Veteran joined the service and what year they left (as in Perigean's recruitment survey from the VA) 
+     - Use 2 checkboxes instead of 3 radio buttons
+     - Reword the options so they don't start with numbers that look similar (e.g., "1990 to present" and "Before 1989")
+     - Add a "Not sure" option that would result in ALL questions being asked (like the current "Both time periods" option)
+1. Consider whether to provide information about C-123 planes since some in the research sessions said they didn't know what they were.
+1. Consider how might we clarify whether being on a ship nearby or in the airspace above counts as having served in the location.
+1. Consider whether to clarify what is meant by the word "near" in the DMZ option.
+1. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to understand better.
+1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, such as "neutral zone".
+1. Consider how we might indicate where to find the list of presumptive conditions while  reading the definition presumptive conditions on the R1-1 page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
+1. Consider how we might better support people who already have VA disability and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
+1. Consider how we might address participants' questions and concerns about eligibility for benefits under the PACT Act:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
-     1. You must have a disability in order to get compensation, but not necessarily a presumptive condition. Just being in a specific location and getting exposed to toxic substances isn't enough. 
-     1. Burn pit registry is not connected to PACT Act eligibility, and so you should still apply for PACT Act benefits.
-1. Consider adding more information to the PACT Act page and/or the wizard to address participants' questions and concerns:
-     1. PACT Act expands eligibility for existing disability compensation benefits.   
-     1. This is the current list of presumptive conditions and others might be added in the future. (Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?)
-     1. The significance of having your disability rating for at least 10 years before applying for additional disability compensation (IF that's accurate information and reasonable advice).
-     1. Any guidance on how to handle CRSC and PACT benefits together.
+     1. Whether you must have a disability in order to get compensation *vs.* were just in a specific location
+     1. Whether the burn pit registry notifies you about PACT Act eligibility
+1. Consider how we might address participants' questions and concerns about applying for benefits under the PACT Act:
+     1. Are PACT Act benefits different from regular disability compensation?   
+     1. Should I include conditions that aren't presumptive? 
+     1. Might the list of presumptive conditions change in the future? 
+     1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying (i.e., until you've had your disability rating for at least 10 years, if that's accurate information and reasonable advice)?
+     1. How to handle CRSC and PACT benefits together
 
 ### For the wizard design and functionality
-1. Share with the Design System team (and CAIA?) the feedback of 3 participants reading the jump links at the top of the results page as CTA's.
-1. Share with Laura Flannery the user's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard of this feedback before, but it's a new approach that hasn't been tested before.]*
+11. Share with the Design System team the feedback of 3 participants reading the jump links at the top of the results page as CTA's.
+1. Share with Laura Flannery a participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard this feedback before, but it's a new approach that hasn't been tested before.]*
 
 ### For VA
-1. Danielle said she plans to share participant feedback about the Sept 30 PACT Act deadline misunderstanding to OPIA for their continued outreach work.
-1. VA could consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits. This would address one participant's assumption that not hearing from VA means they aren't eligible. Might other Veterans share this belief, too?
+13. Consider whether to reach out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits. This would address one participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible. 
+1. Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?
+1. Consider how we might address participant feedback about misunderstanding the Sept 30 deadline. *(Danielle plans to share with OPIA for their outreach work.)*
+
 
 ## Next Steps
 
