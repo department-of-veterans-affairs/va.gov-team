@@ -1,4 +1,4 @@
-# Ask VA statuses
+# Ask VA statuses and triggers
 
 Last updated by @tygindraux @t-michaud: October 26, 2023
 
