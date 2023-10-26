@@ -6,7 +6,7 @@ This documents describes different Ask VA inquiry statuses and when they are ass
 
 **Jump to:**
 - [Statuses and when they are displayed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses.md#statuses-and-when-they-are-displayed)
-- [Future features](
+- [Future features](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses.md#future-features)
 - Legacy statuses for reference
 
 ## Statuses and when they are displayed
@@ -25,7 +25,7 @@ We'll display these statuses and descriptive text in Ask VA when it moves to VA.
 ## Future features
 
 - The _submitter_ indicates "my question has been solved" or "I accept the answer to my question".
-- 
+- `In progress` is more descriptive of where the question
 
 ## Legacy statuses for reference
 
