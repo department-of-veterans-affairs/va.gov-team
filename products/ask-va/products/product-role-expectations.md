@@ -1,9 +1,9 @@
 # Overview
-Last updated by @beckyphung: October 24, 2023
+Last updated by @beckyphung: October 26, 2023
 
 **This is a draft.**
 
-This document is set expectations for the `Product Owner/Business Stakeholder` role because it's missing from the current OCTO product expectations doc 
+This document sets expectations for the `Product Owner/Business Stakeholder` role because it's missing from the current OCTO product expectations doc 
 [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/octo/product/Product%20Expectations.md).
 
 ## Roles 
@@ -19,11 +19,17 @@ This document is set expectations for the `Product Owner/Business Stakeholder` r
   
 ### Prioritization
 - Share and provide timely guidance on priorities, goals, objectives, and desired outcomes from VES perspective
-- Communicate ...
+- Communicate OCTO priorities
   
 ### Managing up, stakeholders
-
+- Resolve or escalate blockers that impede the success of the team, involving (or deferring) the team as needed
+- Defend product decisions using evidence gained from research or analysis
+- Lead stakeholder relationship strategy and cultivate key relationships
+- Explain technical concepts to both technical and non-technical audience
+- Influence without authority
 
 ### Team leadership
+- Reduce or eliminate unnecessary government bureaucracy to create a healthy and productive environment for teams to focus on shipping products over processes
 
 ### Contract Management
+- 
