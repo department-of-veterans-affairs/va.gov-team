@@ -4,7 +4,7 @@
 
 The paper form allows for Veterans to self-select the health care benefit type they want to apply for - Enrollment or Registration. On the backend in VES (Veteran Enrollment System), each person has a status and some can be Registration Only with a registration reason. 
 
-The concept of registration and enrollment, if they are steps in the process or the same thing, was found to be confusing during the intial generative research with Veterans. Choosing between these labels did not align with the Veteran's mental model of going about health care eligibility and application process.
+The concept of registration and enrollment, if they are steps in the process or the same thing, was found to be confusing during the initial generative research with Veterans. Choosing between these labels did not align with the Veteran's mental model of going about health care eligibility and application process.
 
 - [Link to generative mental model study folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration)
 
@@ -66,8 +66,8 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 ### Hypothesis
 - Hypothesis that for the appointment registration scenarios - like a C&P or toxic exposure exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
 - Hypothesis that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
-- We hypothesise that their expectation is getting the most the can due to their disability rating and that they are applying for the most they are eligible for.
-- We hypothesise that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking.
+- We hypothesize that their expectation is getting the most the can due to their disability rating and that they are applying for the most they are eligible for.
+- We hypothesize that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking.
 
 ## Methodology	
 
