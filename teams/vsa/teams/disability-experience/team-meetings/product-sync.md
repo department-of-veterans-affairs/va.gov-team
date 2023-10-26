@@ -3,6 +3,12 @@
 ### Date: Oct 19' 2023       
 ### Participants: Rakshinda, Austin, Shannon, Emily, Steve 
 ### Topics Covered:
+- Emily's concern regarding potential validation errors related to rated disabilities discrepancies between EVSS and LH enpoints
+- Toxic Exposure deep dive
+  
+### Date: Oct 19' 2023       
+### Participants: Rakshinda, Austin, Shannon, Emily, Steve 
+### Topics Covered:
 - Tech Debt - Do we want to allocate capacity every sprint to address tech debt proactively - work with Austin to priortize across the two teams for tech debt tickets
 - Coforma offsite Oct 23rd - Oct 27th
   - Austin, Nathan, Thomas, Nichole, Julie out (Austin will monitor slack and Sam will be available for escalations)  
