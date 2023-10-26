@@ -7,18 +7,22 @@
 **Path**: /ping
 
 **Parameters**:
-ex: ?organizationName=[env]
-
-One of: dvagov-iris-dev; dvagov-iris-int; dvagov-veft-qa; dvagov-veft-preprod; dvagov-veft
+* ?organizationName=[env]
+    * Environments:  
+        * dvagov-iris-dev
+        * dvagov-iris-int
+        * dvagov-veft-qa
+        * dvagov-veft-preprod
+        * dvagov-veft
 
 **Headers**:
 
 **optional:** these headers will only be included for users that are logged in
 
-| Name | Type | Description |
-|---|---|---|
-|Authorization|2 parts|Tokens for access to the CRM API|
-|ICN|string|User security identifier|
+| Name | Type | Description | Required |
+|---|---|---|---|
+|Authorization|2 parts|Tokens for access to the CRM API| Yes |
+|ICN|string|User security identifier| Only for Authenticated Users |
 
 ## Response
 
@@ -34,7 +38,7 @@ One of: dvagov-iris-dev; dvagov-iris-int; dvagov-veft-qa; dvagov-veft-preprod; d
 { 
     "status": { 
         "code": 200, 
-        "message": "OK"
+        "data": "OK"
     }
 }
 ```
@@ -47,6 +51,6 @@ One of: dvagov-iris-dev; dvagov-iris-int; dvagov-veft-qa; dvagov-veft-preprod; d
 
 The `/ping` endpoint takes no parameters, and returns the static message, "pong". This is the simplest endpoint for the Dymanics APIs. It will allow us to make sure that our AWS services can call out to the Azure services and get a response across the cloud boundaries.
 
-* [Wide Open Ping]()
-* [Secured Ping]()
+* [Wide Open Ping](dev.integration.d365.va.gov/veis/vagov.lob.ava/api/ping)
+* [Secured Ping](dev.integration.d365.va.gov/veis/vagov.lob.ava.avtest/api/ping)
 
