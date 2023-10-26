@@ -24,7 +24,7 @@ We'll display these statuses and descriptive text in Ask VA when it moves to VA.
 
 ## Legacy statuses for reference
 
-This is the text that is currently displayed on ask.va.gov.
+This is the text that is currently displayed on ask.va.gov. This descriptive text will be retired when we move to VA.gov, but the triggers and statuses will remain the same.
 
 |Status|Descriptive text|Trigger event|
 |:--|:--|:--|
