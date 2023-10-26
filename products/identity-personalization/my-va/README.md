@@ -222,7 +222,7 @@ _Why would your business want this to exist?_
 - [My VA 2.0 Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/Technical-diagrams/My-VA-architectural-diagram.md)
 
 ## Security
-
+Latest security playbook: [My VA Health Care section - Dot Indicator on Unread Health Care Messages Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/launch-materials/dot-indicator-on-my-va-security-playbook.md)
 
 ## How to Access and Test
 
