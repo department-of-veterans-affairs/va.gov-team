@@ -1,6 +1,6 @@
 # Project outline: Notifications Settings - Default Send Functionality
 
-**Last Updated:** 10/23/23, added link to UAT findings
+**Last Updated:** 10/26/23, launch dates and pre-launch stats
 
 ### Communications
 
