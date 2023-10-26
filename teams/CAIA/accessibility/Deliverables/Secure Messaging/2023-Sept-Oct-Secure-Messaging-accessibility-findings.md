@@ -179,7 +179,7 @@ An overview summary of CAIA a11y recommendations, as it relates to the findings 
 A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
 
 ### IMPORTANT NOTE ABOUT CAIA
-_**While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help faciliate a smooth process for your project through the Collaboration Cycle or outside of the Collaboration Cycle.**_
+_**While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help facilitate a smooth process for your project through the Collaboration Cycle or outside of the Collaboration Cycle.**_
 
 
 <details><summary>Toggle to read more about what should be completed now and what can be completed later. </summary>
