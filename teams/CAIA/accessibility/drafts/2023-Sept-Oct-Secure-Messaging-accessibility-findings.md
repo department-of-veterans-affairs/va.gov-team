@@ -14,15 +14,14 @@
 `No Beginning Users`
 
 ## Coverage
-This research fufilled 66% (4/6) of its original request. Given the **limited** amount and **lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
+This research fufilled `66%` (`4`/`6`) of its original request. Despite the **limited** amount and **lack of variety** of types of screen readers, a conclusive behavioral pattern **can** be determined locally in this study. We **can** also draw future research considerations and document based on the identified accessibility issues.
 
-- **Original study request:** 10 scheduled with the expectation of 6 completing the study
-- **Actual study performance:** 4 completed
+- **Original study request:** `10` scheduled with the expectation of `6` completing the study
+- **Actual study performance:** `4` completed
 
-> For screen reader users, we will schedule a total of 10 Veterans for an expected completion rate of 6 usability sessions.
+> For screen reader users, we will schedule a total of `10` Veterans for an expected completion rate of `6` usability sessions.
 
 ## Participants
-To best serve the users of VA.gov, we will need to collect the following information during each a11y research session: skill level of user,operating system, assistive technology being used, internet browser and device type.
   
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
@@ -31,9 +30,9 @@ To best serve the users of VA.gov, we will need to collect the following informa
 | P6                       | 9/26/2023                 |  JAWS                  | Intermediate                |  Windows                    |  Chrome           | Desktop            |
 | P9                       | 9/29/2023                 |  VoiceOver                  |  Advanced               |   MacOS                   |  Safari           |  Desktop           |
 
-**Participants who successfully completed sessions: 4**
+**Participants who successfully completed sessions: `4`**
 
-## Key Findings (7)
+## Key Findings (`7`)
 1. Participants had trouble determining if there were attachments
 2. Having a "save draft" button and auto-saving lead to confusion. And some participants weren't sure where their draft saved.
 3. The crisis line disclaimer was appreciated, but may be present in too many places across the app.
@@ -42,7 +41,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 6. Message ID being read out incorrectly
 7. Success Alert was not called out
 
-<details><summary>Toggle to read more about CAIA's 7 key findings.</summary>
+<details><summary>Toggle to read more about CAIA's `7` key findings.</summary>
     
 ### Participants had trouble determining if there were attachments.
 - The conversation threads are in accordions. 
@@ -107,7 +106,7 @@ Make sure that you update the content of the live region or alert element dynami
 
 ## User Feedback
 
-<details><summary>Toggle to read 11 impactful quotes from veterans participating in this study.</summary>
+<details><summary>Toggle to read `11` impactful quotes from veterans participating in this study.</summary>
     
 ### Veterans' Voices: Impactful Quotes 
 
@@ -138,7 +137,7 @@ Make sure that you update the content of the live region or alert element dynami
 
 ## a11y Recommendations
 
-<details><summary>Toggle to view a11y Recommendations.</summary>
+<details><summary>Toggle to view CAIA a11y Recommendations.</summary>
 
 - **Attachments**:
     - Whether a message has attachments needs to be read aloud by assistive technology.
