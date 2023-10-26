@@ -41,7 +41,7 @@ This research fufilled `66%` (`4`/`6`) of its original request. Despite the **li
 6. Message ID being read out incorrectly
 7. Success Alert was not called out
 
-<details><summary>Toggle to read more about CAIA's `7` key findings.</summary>
+<details><summary>Toggle to read more about CAIA's key findings.</summary>
     
 ### Participants had trouble determining if there were attachments.
 - The conversation threads are in accordions. 
@@ -106,7 +106,9 @@ Make sure that you update the content of the live region or alert element dynami
 
 ## User Feedback
 
-<details><summary>Toggle to read `11` impactful quotes from veterans participating in this study.</summary>
+Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the`11` quotes that were selected for inclusion, in this report. 
+
+<details><summary>Toggle to read the impactful quotes from veterans participating in this study.</summary>
     
 ### Veterans' Voices: Impactful Quotes 
 
@@ -136,6 +138,8 @@ Make sure that you update the content of the live region or alert element dynami
 </details>
 
 ## a11y Recommendations
+
+An overview summary of CAIA a11y recommendations, as it relates to the findings in this report. Please also see the Next Steps section, which outlines these recommendations further, with respect to prioritization. 
 
 <details><summary>Toggle to view CAIA a11y Recommendations.</summary>
 
@@ -174,11 +178,14 @@ Make sure that you update the content of the live region or alert element dynami
 ## Next Steps
 A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
 
+_**While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help faciliate a smooth process through the Collaboration Cycle.**_
+
+
 <details><summary>Toggle to read more about what should be completed now and what can be completed later. </summary>
 
 
 ### Complete Now (Recommendation)
-_While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help faciliate a smooth process through the Collaboration Cycle._
+
 #### Unread Messages
 - Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment").
     - **Experience standards:** [Category Number 11, Issue Number 11](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html): Pages don't require sensory characteristics to be understood or operable.
