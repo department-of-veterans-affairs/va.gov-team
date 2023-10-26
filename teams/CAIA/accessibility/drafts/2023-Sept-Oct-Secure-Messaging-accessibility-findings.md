@@ -159,7 +159,7 @@ A list of actionable findings, based on time-sensitive, priority needs.
 
 ### Complete Now (Recommendation)
 _While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help faciliate a smooth process through the Collaboration Cycle._
-
+#### Unread Messages
 - Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment").
     - **Experience standards:** [Category Number 11, Issue Number 11](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html): Pages don't require sensory characteristics to be understood or operable.
     - **Severity**: `Launch Blocking`
@@ -176,10 +176,15 @@ _While CAIA cannot require you to complete any updates to your product, we can p
     - **WCAG**: NA
   - 
 ### Complete Soon
-- Success Alert was not called out 
-
+#### Success Alert
 "Success Alert" was not called out to screen reader user after successfully sending a message to provider.
+  - **Experience standards:** `Category xx` `Issue xx`:
+      - **Defect**:`xx`
+      - **Impact**: xx
+      - **Appears on**: xx xx
+      - **WCAG**:xx
 ### Complete Later
+#### Repetition
  - It can take a long time for screen reader users to have page content read to them, so redundant/repeated text can be cumbersome to get through. When it comes to the liability and crisis line messages:
   - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first.
       - **Experience standards:** `Category 08` `Issue 03`: Button and link language is descriptive and/or their purpose is clear.
@@ -193,15 +198,20 @@ _While CAIA cannot require you to complete any updates to your product, we can p
       - **Impact**: Content and IA
       - **Appears on**: Experience Standards
       - **WCAG**:NA
--  Radio buttons in a “Category” radio group after starting a “New Message” are not announcing "X of Y", where X is the current position in the group and Y is the total number of radio buttons. Currently announcing 2 of 2, 1 of 1 and so on.
+#### Radio Buttons
+-  Radio buttons in a “Category” radio group after starting a “New Message” should be announcing "X of Y", where X is the current position in the group and Y is the total number of radio buttons. 
   - **Experience standards:** `Category 09` `Issue 01`:HTML markup isn't valid.
       - **Defect**:`Depends`
       - **Impact**: A11y
       - **Appears on**: Experience Standards, A11y, Common Accessibility Issue and WCAG
       - **WCAG**:  [WCAG SC 1.3.1 A](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
-
+#### Message IDs
 - Adding <aria-label>(s) for Message ID(s)
-- 
+  - **Experience standards:** `Category 04` `Issue 06`:
+      - **Defect**:`Not Launch Blocking`
+      - **Impact**: A11y, Content and Design
+      - **Appears on**: Experience Standard and WCAG
+      - **WCAG**:2.5.3
 
 ## Other considerations and findings 
 
