@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), PACT Act Wizard, Sitewide Public Websites**
 
-Date: 10/23/2023
+Date: 10/25/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
@@ -118,7 +118,7 @@ Any participants whose responses didn't yield the *You may be eligible* results 
 
 ## Details of Findings 
 
-Because this study was testing the *content* of the PACT Act Wizard and not the overall user experience, the user feedback varies more across participants than usually happens in a usability test. In this research on content, the number of participants who experienced or mentioned each point of feedback was often small.
+Because this study was focused on the *content* of the PACT Act Wizard and not the user interface, the feedback varied more across participants than we usually see in usability tests. In this research study, the number of participants who experienced or mentioned each point of feedback was often small, and sometimes that was because a question in the wizard was seen by only a few participants (due to the wizard branching logic).
 
 ### 1. All 9 participants had an overall positive experience using the PACT Act Wizard
 
@@ -135,19 +135,19 @@ Participants called out the following specific features as working well:
 
 > *"It follows a logical pattern--if/then. There's a clear button to take me to the next question...There's not a lot of choices. It flows smartly. And if I need to go back a page, that page is available. It doesn't take me someplace else" (p9).*
 
-Participants' positivity towards the PACT Act Wizard wasn't affected by the number of questions that they saw. The **prototype showed between 2 and 10 questions to each participant, based on their responses**. If someone answered "yes" to one of the burn pit or Agent Orange questions, they would skip the other questions in that section and might get a followup question. Below is a table showing the range and average number of questions seen by all participants and also separated by service year group. 
+Participants' positivity towards the PACT Act Wizard wasn't affected by the number of questions that they saw. The **prototype showed between 2 and 11 questions to each participant, based on their responses**. If someone answered "yes" to one of the burn pit or Agent Orange questions, they would skip the other questions in that section and might get a followup question. Below is a table showing the range and average number of questions seen by all participants and also separated by service year group. 
 
 Service year group | # of Participants | Range of # Q's seen | Avg # Q's seen | Maximum possible # of Q's 
 ------------------|---------------|----|----------- | -----
-All groups | 9 | 2-10 | 6 | 10
+All groups | 9 | 2-10 | 6 | 11
 1990 or later | 2 | 2 | 2 | 4
 1989 or earlier | 4 | 5-7 | 6 | 7
-Both time periods | 3 | 8-10 | 8.7 | 10
+Both time periods | 3 | 8-10 | 8.7 | 11
 
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
 ### 2. Some of the wizard questions were confusing to some participants
-#### Three participants had difficulty with the service years question
+#### Three of 9 participants (33%) had difficulty with the service years question
 ![q-service-years](./images/q-service-years.png)
 
 One participant **thought that none of the options applied** to him. When prompted to try again, he blamed it on his tendency *"to read through stuff quicker than I should."* He thought that rewording the radio button options to "1990 to present" and "Prior to 1989" might be clearer.
@@ -166,7 +166,7 @@ A third participant didn't select "both time periods" until his second time thro
      1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
 1. Consider adding a "Not sure" option that would result in ALL questions being asked (like the current "Both time periods" option).
 
-#### Two participants didn't know what C-123 planes were in the Agent Orange question
+#### Two of 5 participants (40%) didn't know what C-123 planes were in the Agent Orange question
 ![q-C-123-plane-Agent-Orange](./images/q-C-123-plane-Agent-Orange.png)
 
 When they saw the above question, 2 participants said (unprompted) that they **didn't know what "C-123 airplanes" are**. Both of them answered "I'm not sure" to the question. 
@@ -176,7 +176,7 @@ Two other participants mentioned that they're familiar with C-123's but others m
 #### RECOMMENDATION: 
 1. Consider adding a brief description or link to **information about C-123 planes** so that people won't stop and wonder what they are.
 
-#### One participant had questions about another Agent Orange question 
+#### One of 7 participants (14%) had questions about another Agent Orange question 
 ![q-DMZ-Agent-Orange](./images/q-DMZ-Agent-Orange.png)
 
 One participant asked **what the word "serve" means**--"in country" (on the ground), or does it also include on a ship nearby or in the airspace above? 
@@ -191,7 +191,7 @@ This participant also asked **if there is a minimum duration for the time that y
 1. Consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
 1. Consider revising the content to clarify what is meant by the word "near" in the DMZ option.
 
-#### One participant was unclear about what "neutral zone" means
+#### One of 1 participant (100%) was unclear about what "neutral zone" means
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
 
 One participant asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations with the FOB (Forward Operating Base) names on it for the places she lived, transported supplies to, had a day pass to, etc. Without this information, she answered "not sure" to the question.
