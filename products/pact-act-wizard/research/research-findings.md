@@ -161,10 +161,11 @@ A third participant didn't select "both time periods" until his second time thro
 > *"You're really not in the military until after training" (p4).*
 
 #### RECOMMENDATIONS: 
-1. **Consider instead asking what year the Veteran joined the service and what year they left** (as in Perigean's recruitment survey from the VA). This might be more straightforward than the cognitive load of *A/B/both* radio button options, and also would eliminate questions about whether one's service is close enough to 1989 or 1990 and the implications. 
-     1. Alternatively, consider making the options into 2 checkboxes instead of 3 radio buttons.
-     1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
-1. Consider adding a "Not sure" option that would result in ALL questions being asked (like the current "Both time periods" option).
+1. Consider how we might **ask for the Veteran’s service years with decreased cognitive load** around *X/Y/both* options, training *vs.* service, 1989 *vs.* 1990. A few possible ideas:
+     -  Ask what year the Veteran joined the service and what year they left (as in Perigean's recruitment survey from the VA) 
+     - Use 2 checkboxes instead of 3 radio buttons
+     - Reword the options so they don't start with numbers that look similar (e.g., "1990 to present" and "Before 1989")
+     - Add a "Not sure" option that would result in ALL questions being asked (like the current "Both time periods" option)
 
 #### Two of 5 participants (40%) didn't know what C-123 planes were in the Agent Orange question
 ![q-C-123-plane-Agent-Orange](./images/q-C-123-plane-Agent-Orange.png)
