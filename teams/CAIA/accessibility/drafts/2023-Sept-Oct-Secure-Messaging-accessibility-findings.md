@@ -175,7 +175,6 @@ _While CAIA cannot require you to complete any updates to your product, we can p
     - **Appears on**: Experience Standards
     - **WCAG**: NA
   - 
--  Radio buttons in a “Category” radio group after starting a “New Message” are not announcing "X of Y", where X is the current position in the group and Y is the total number of radio buttons. Currently announcing 2 of 2, 1 of 1 and so on. 
 ### Complete Soon
 - Success Alert was not called out 
 
@@ -193,8 +192,16 @@ _While CAIA cannot require you to complete any updates to your product, we can p
       - **Defect**:`Not Launch Blocking`
       - **Impact**: Content and IA
       - **Appears on**: Experience Standards
-      - **WCAG**: NA
+      - **WCAG**:NA
+-  Radio buttons in a “Category” radio group after starting a “New Message” are not announcing "X of Y", where X is the current position in the group and Y is the total number of radio buttons. Currently announcing 2 of 2, 1 of 1 and so on.
+  - **Experience standards:** `Category 09` `Issue 01`:HTML markup isn't valid.
+      - **Defect**:`Depends`
+      - **Impact**: A11y
+      - **Appears on**: Experience Standards, A11y, Common Accessibility Issue and WCAG
+      - **WCAG**:  [WCAG SC 1.3.1 A](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
+
 - Adding <aria-label>(s) for Message ID(s)
+- 
 
 ## Other considerations and findings 
 
