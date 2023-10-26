@@ -33,16 +33,16 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 **Participants who successfully completed sessions: 4**
 
-## Key Findings
-- [x] Participants had trouble determining if there were attachments
-- [x] Having a "save draft" button and auto-saving lead to confusion. And some participants weren't sure where their draft saved.
-- [x] The crisis line disclaimer was appreciated, but may be present in too many places across the app.
-- [x] Only unread messages announce themselves as such. A message that's aleady been read doesn't have an auditary indicator, only a visual one.
-- [x] Radio Buttons not announcing total number of radio buttons
-- [x] Message ID being read out incorrectly
-- [x] Success Alert was not called out
+## Key Findings (7)
+1. Participants had trouble determining if there were attachments
+2. Having a "save draft" button and auto-saving lead to confusion. And some participants weren't sure where their draft saved.
+3. The crisis line disclaimer was appreciated, but may be present in too many places across the app.
+4. Only unread messages announce themselves as such. A message that's aleady been read doesn't have an auditary indicator, only a visual one.
+5. Radio Buttons not announcing total number of radio buttons
+6. Message ID being read out incorrectly
+7. Success Alert was not called out
 
-<details><summary>Toggle to read more about CAIA's key findings.</summary>
+<details><summary>Toggle to read more about CAIA's 7 key findings.</summary>
     
 ### Participants had trouble determining if there were attachments.
 - The conversation threads are in accordions. 
@@ -107,6 +107,8 @@ Make sure that you update the content of the live region or alert element dynami
 
 ## User Feedback
 
+<details><summary>Toggle to read 11 impactful quotes from veterans participating in this study.</summary>
+    
 ### Veterans' Voices: Impactful Quotes 
 
 > "“Even though it is saved I don’t know where it is saved to.” - P1, on saving messages
@@ -131,8 +133,13 @@ Make sure that you update the content of the live region or alert element dynami
 
 > Likes “your care team might take up to x business days”  message because he knows most people get frustrated when users do not know when pcp may respond. - P9
 
-> 
+
+</details>
+
 ## a11y Recommendations
+
+<details><summary>Toggle to view a11y Recommendations.</summary>
+
 - **Attachments**:
     - Whether a message has attachments needs to be read aloud by assistive technology.
     - The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment"). 
@@ -144,13 +151,9 @@ Make sure that you update the content of the live region or alert element dynami
     - So, redundant/repeated text can be cumbersome to get through.
     - **When it comes to the liability and crisis line messages:**
       - You might want to consider removing one instance of them.
-          - **Experience standards:** `Category 03` `Issue 04` ("A user flow doesn't have repetitive or redundant steps.")
       - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first.
-          - **Experience standards:** `Category 09` `Issue 03` ("Button and link language is descriptive and/or their purpose is clear.")
-- **Unread Messages:**
     - Have some sort of indicator that a screen reader will pick up that a message is unread.
     - This could be screen reader-only text, for the sake of the visual design.
-    - **Experience standards:** `Category 11` `Issue 11` ("Pages don't require sensory characteristics to be understood or operable.")
 - **Radio Buttons:**
     - Category radio buttons in a new message need to announce "x of y," where x is the current position and y is the total number of radio buttons.
         - Use a field set and legend `<fieldset>`and `<legend>`
@@ -162,11 +165,18 @@ Make sure that you update the content of the live region or alert element dynami
             - Using `aria-labelledby` will overwrite the default text read by the screen reader, so it is important to include all relevant information.
         - **VoiceOver on OS X offers partial support for** `aria-describedby`.
             - There's full support for conveying description on text inputs, partial support for description changes when the text input is in focus, and no support for role="alert".
-            - Visit a11ysupport.io to view the full status of support. 
-    
+            - Visit a11ysupport.io to view the full status of support.
+- **Message ID:**
+   - Message ID’s may need aria labels to be read out correctly
+- **Success Alert:**
+    - To provide a "success alert" that is read out to screen reader users after they successfully send a message to their provider, you can use ARIA live regions or ARIA alerts.
+</details>    
 
 ## Next Steps
-A list of actionable findings, based on time-sensitive, priority needs.
+A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
+
+<details><summary>Toggle to read more about what should be completed now and what can be completed later. </summary>
+
 
 ### Complete Now (Recommendation)
 _While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help faciliate a smooth process through the Collaboration Cycle._
@@ -223,22 +233,4 @@ _While CAIA cannot require you to complete any updates to your product, we can p
       - **Impact**: A11y, Content and Design
       - **Appears on**: Experience Standard and WCAG
       - **WCAG**:2.5.3
-
-## Other considerations and findings 
-
-_A finding that may not be relevant to the study, but worth talking about. Include images as needed._
-
-### List of caught defects and issues
-
-#### Relevant to this team
-- [ ] Description of issue and how to replicate
-
-#### Belongs to other teams
-- [ ] Description of issue and how to replicate
-
-#### Design system
-- [ ] Description of issue and how to replicate
-
-## References
-<a id="1">[1]</a> 
-Citations if needed 
+</details>
