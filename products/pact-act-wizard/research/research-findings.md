@@ -161,7 +161,7 @@ A third participant didn't select "both time periods" until his second time thro
 > *"You're really not in the military until after training" (p4).*
 
 #### RECOMMENDATIONS: 
-1. Consider how we might **ask for the Veteran’s service years with decreased cognitive load** around *X/Y/both* options, training *vs.* service, 1989 *vs.* 1990. A few possible ideas:
+1. Consider how we might **ask for the Veteran’s service years with decreased cognitive load** around *X/Y/both* options, training *vs.* service, 1989 *vs.* 1990. A few potential ideas:
      -  Ask what year the Veteran joined the service and what year they left (as in Perigean's recruitment survey from the VA) 
      - Use 2 checkboxes instead of 3 radio buttons
      - Reword the options so they don't start with numbers that look similar (e.g., "1990 to present" and "Before 1989")
@@ -175,7 +175,7 @@ When they saw the above question, 2 participants said (unprompted) that they **d
 Two other participants mentioned that they're familiar with C-123's but others may not be. One of them said, *"If it applied to you, you would know...service members know their equipment" (p9).* The other said something similar and also that an explanation might be helpful.
 
 #### RECOMMENDATION: 
-1. Consider adding a brief description or link to **information about C-123 planes** so that people won't stop and wonder what they are.
+2. Consider whether to provide information about C-123 planes since some in the research sessions said they didn't know what they were.
 
 #### One of 7 participants (14%) had questions about another Agent Orange question 
 ![q-DMZ-Agent-Orange](./images/q-DMZ-Agent-Orange.png)
@@ -189,8 +189,8 @@ The same participant was also unsure about **what is considered to be "near" the
 This participant also asked **if there is a minimum duration for the time that you must have served there**, and if it must be continuous service for a period of time. 
 
 #### RECOMMENDATIONS:
-1. Consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
-1. Consider revising the content to clarify what is meant by the word "near" in the DMZ option.
+3. Consider whether to provide information about whether being on a ship nearby or in the airspace above counts as having served in the location.
+1. Consider whether to clarify what is meant by the word "near" in the DMZ option.
 
 #### One of 1 participant (100%) was unclear about what "neutral zone" means
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
@@ -202,8 +202,8 @@ One participant asked whether "neutral zone" in the question refers to what was 
 Another participant also wanted to see a map that showed the geographical areas of the locations listed in the question.
 
 #### RECOMMENDATIONS: 
-1. In the questions, consider trying to more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone").
-1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
+5. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone").
+1. Consider whether to show a map with questions that mention locations that Veterans may find confusing or ambiguous, such as "neutral zone".
 
 ### 3. Some participants had interaction challenges on the R1 results pages 
 
