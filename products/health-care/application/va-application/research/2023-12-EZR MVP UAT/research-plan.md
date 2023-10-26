@@ -11,7 +11,7 @@ The four main sections are:
 This MVP effort will go through the collaboration cycle and this study will happen post the midpoint review. 
 
 ### What problem is your product trying to solve?
-Veterans who want to provide updates to their personal information for increasing or maintaining their health benefits are burdened with the manual processes of calling VA, mailing in a paper form and/or visiting a facility. This is driven by the lack of an online experience and pathway to provide these updates at a more convenient time and place for the Veteran. For Veterans who must provide these updates annually, the burden is multiplied. More information available in the [product outline - 10-10EZR Health Benefits Update form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/10-10EZR%20Product%20Brief%20(standalone%20form).md)).
+Veterans who want to provide updates to their personal information for increasing or maintaining their health benefits are burdened with the manual processes of calling VA, mailing in a paper form and/or visiting a facility. This is driven by the lack of an online experience and pathway to provide these updates at a more convenient time and place for the Veteran. For Veterans who must provide these updates annually, the burden is multiplied. More information available in the [product outline - 10-10EZR Health Benefits Update form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/10-10EZR%20Product%20Brief%20(standalone%20form).md).
 
 ### Where is your product situated on VA.gov?
 The product will live in the My Health section of VA.gov, but also be referenced by other static, informational pages on VA.gov, outside of the My Health section.
@@ -44,7 +44,7 @@ This product fits into the [Veteran journey](https://github.com/department-of-ve
 3. **Small usability tweaks** - Capture any issues through UAT of the form for any small tweaks needed before launch. Determine if Veterans are able to successfully fill out the form.
 
 ### Outcome
-These learnings will allow us to evaluate for additional gaps during the rollout of new form to production. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed in future interations.
+These learnings will allow us to evaluate for additional gaps during the rollout of new form to production. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed in future iterations.
 
 ### Research questions
 #### Goal 1: **Wayfinding** - Determine ease of wayfinding to the new 10-10EZR form. Test the path to entering the new 10-10EZR form to see if Veterans understand how to update their information
@@ -81,7 +81,7 @@ These learnings will allow us to evaluate for additional gaps during the rollout
 ### Research materials
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-12-EZR%20MVP%20UAT/conversation-guide.md)
-- [Link to prototype](url goes here) TBD - either we will test on staging or potentially use a CodePen prototype.
+- [Link to production](url goes here) - will test with form behind feature flag via participants email
 - [Link to recruitment ticket]() TBD
 
 ## Recruitment	
@@ -90,8 +90,6 @@ For moderated usability tests:
 Our intended audience for this research are Veterans and we will be using and leveraging Perigean to recruit participants.
 
 **Veterans: Requesting 10**
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
@@ -161,3 +159,6 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant(s) for pilot test: TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
 - Observers: TBD
+
+  ## Approvals
+  
