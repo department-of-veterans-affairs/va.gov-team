@@ -23,7 +23,7 @@
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 
-During the [useability study to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), we noticed that users were struggling with the current update flow for updating email or mobile phone when attempting to view the notification settings. We will re-engineer the workflow for updating a user's contact information from the notifications setting page in order to reduce confusion for users.
+During the [usability study to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), we noticed that users were struggling with the current update flow for updating email or mobile phone when attempting to view the notification settings. We will re-engineer the workflow for updating a user's contact information from the notifications setting page in order to reduce confusion for users.
 
 **Related/Associated product(s)**
 
