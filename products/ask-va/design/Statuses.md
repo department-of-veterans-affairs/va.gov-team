@@ -4,7 +4,7 @@ Last updated by @tygindraux: October 26, 2023
 
 This documents describes different Ask VA inquiry statuses and when they are assigned.
 
-Jump to:
+**Jump to:**
 - Statuses and when they are displayed
 - Future features
 - Legacy statuses for reference
