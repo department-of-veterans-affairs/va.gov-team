@@ -2,7 +2,7 @@
 name: New VFS Team
 about: For orienting new VFS teams to Platform policies/practices
 title: New VFS Team [Insert team name here]
-labels: analytics-insights, governance-team, platform-orientation
+labels: analytics-insights, governance-team, platform-orientation, new-vfs-team
 assignees: ''
 
 ---
@@ -75,8 +75,7 @@ In addition to providing information to Platform and completing necessary tasks 
 - [ ] If an edit to your team's product page needs to be made, see the [user guide](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory-user-guide)
 
 ## ATO (Authorization to Operate) orientation
-- [ ] Reach out to Faith Arthur on Slack
-- [ ] Request and schedule an ATO team orientation
+- [ ] Post in the #platform-security Slack channel to request and schedule an ATO team orientation
 - [ ] Confirm that the orientation has been completed
 
 
