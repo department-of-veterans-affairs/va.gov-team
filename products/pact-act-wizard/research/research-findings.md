@@ -254,9 +254,9 @@ I've heard horror stories, people trying to get claims and the time investment t
 
 
 #### RECOMMENDATIONS:
-8. Share with the Design System team the feedback of 3 participants reading the jump links at the top of the results page as CTA's.
-1. Share with Laura Flannery a participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard this feedback before, but it's a new approach that hasn't been tested before.]*
-1. Consider how we might better support people who already have VA disability and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
+11. Share with the Design System team the feedback of 3 participants reading the jump links at the top of the results page as CTA's.
+12. Share with Laura Flannery a participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard this feedback before, but it's a new approach that hasn't been tested before.]*
+8. Consider how we might better support people who already have VA disability and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
 
 ### 4. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect*
 
@@ -277,11 +277,11 @@ Another participant heard that you **could be eligible for PACT Act benefits by 
 > *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
 
 #### RECOMMENDATIONS: 
-11. Consider how we might address participants' questions and concerns about eligibility for benefits under the PACT Act:  
+9. Consider how we might address participants' questions and concerns about eligibility for benefits under the PACT Act:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
      1. Whether you must have a disability in order to get compensation *vs.* were just in a specific location
      1. Whether the burn pit registry notifies you about PACT Act eligibility
-1. Consider whether to reach out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits. This would address one participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible. 
+13. Consider whether to reach out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits. This would address one participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible. 
 
 ### 5. Participants shared their feedback and questions about how and when to apply for PACT Act benefits  
 The following is feedback that we received from individual participants about applying for PACT Act benefits. 
@@ -315,14 +315,14 @@ One participant **would have tried to convince his dad to apply** for benefits u
 > *"If Dad were still alive today, I would have tried to convince him to have gone through this...We all know that when those guys came back [from Vietnam], they were treated like dirt...and he didn't want anything to do with the military...The VA today and the way the PACT Act is worded, I think if he was alive today, he would have been convinced after a lot of talking to apply...Thank goodness that today we are recognizing what those guys went through" (p4).*
 
 #### RECOMMENDATIONS:
-1. Consider how we might address participant feedback about misunderstanding the Sept 30 deadline. *(Danielle plans to share with OPIA for their outreach work.)*
-1. Consider how we might address participants' questions and concerns about PACT Act eligibility:
+15. Consider how we might address participant feedback about misunderstanding the Sept 30 deadline. *(Danielle plans to share with OPIA for their outreach work.)*
+9. Consider how we might address participants' questions and concerns about PACT Act eligibility:
      1. Are PACT Act benefits different from regular disability compensation?   
      1. Should I include conditions that aren't presumptive? 
      1. Might the list of presumptive conditions change in the future? 
      1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying (i.e., until you've had your disability rating for at least 10 years, if that's accurate information and reasonable advice)?
      1. How to handle CRSC and PACT benefits together
-1. Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?
+14. Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?
  
 
 ## Additional Insights
