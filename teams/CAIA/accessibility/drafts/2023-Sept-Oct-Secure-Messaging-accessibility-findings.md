@@ -34,7 +34,16 @@ To best serve the users of VA.gov, we will need to collect the following informa
 **Participants who successfully completed sessions: 4**
 
 ## Key Findings
+- [x] Participants had trouble determining if there were attachments
+- [x] Having a "save draft" button and auto-saving lead to confusion. And some participants weren't sure where their draft saved.
+- [x] The crisis line disclaimer was appreciated, but may be present in too many places across the app.
+- [x] Only unread messages announce themselves as such. A message that's aleady been read doesn't have an auditary indicator, only a visual one.
+- [x] Radio Buttons not announcing total number of radio buttons
+- [x] Message ID being read out incorrectly
+- [x] Success Alert was not called out
 
+<details><summary>Toggle to read more about CAIA's key findings.</summary>
+    
 ### Participants had trouble determining if there were attachments.
 - The conversation threads are in accordions. 
 - In the inbox, attachments are noted by an icon (what looks to be a paper clip emoji) that comes after the date and time, prior to the user's name.
@@ -93,6 +102,8 @@ Example HTML:
 <div aria-live="polite" aria-atomic="true" class="sr-only" id="success-alert"></div>
 ```
 Make sure that you update the content of the live region or alert element dynamically when the message is successfully sent. This ensures that screen reader users receive the success message as soon as it's available.
+
+</details>
 
 ## User Feedback
 
