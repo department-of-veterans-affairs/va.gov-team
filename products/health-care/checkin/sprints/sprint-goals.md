@@ -61,6 +61,7 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**   
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] [BE] POST mobile_check_ins_demographics accepts invalid key in demographic_confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65015)
             - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) Blocked: waiting on test users to do integration testing
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Content] Create Content to Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67897)
