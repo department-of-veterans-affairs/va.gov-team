@@ -1,5 +1,7 @@
 # Ask VA Phase 1 - Product Outline
-Sections in this Product Outline include: 
+Last updated by @beckyphung: October 26, 2023
+
+**Jump to:**
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Outcomes and Objectives](#outcomes-and-objectives)
