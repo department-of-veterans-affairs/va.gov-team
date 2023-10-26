@@ -189,7 +189,7 @@ The same participant was also unsure about **what is considered to be "near" the
 This participant also asked **if there is a minimum duration for the time that you must have served there**, and if it must be continuous service for a period of time. 
 
 #### RECOMMENDATIONS:
-3. Consider whether to provide information about whether being on a ship nearby or in the airspace above counts as having served in the location.
+3. Consider how might we clarify whether being on a ship nearby or in the airspace above counts as having served in the location.
 1. Consider whether to clarify what is meant by the word "near" in the DMZ option.
 
 #### One of 1 participant (100%) was unclear about what "neutral zone" means
@@ -202,8 +202,8 @@ One participant asked whether "neutral zone" in the question refers to what was 
 Another participant also wanted to see a map that showed the geographical areas of the locations listed in the question.
 
 #### RECOMMENDATIONS: 
-5. Consider whether we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to understand better.
-1. Consider whether to show a map with questions that mention locations that Veterans may find confusing or ambiguous, such as "neutral zone".
+5. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to understand better.
+1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, such as "neutral zone".
 
 ### 3. Some participants had interaction challenges on the R1 results pages 
 
@@ -254,9 +254,9 @@ I've heard horror stories, people trying to get claims and the time investment t
 
 
 #### RECOMMENDATIONS:
-8. Share the feedback of 3 participants reading the jump links at the top of the results page as CTA's with the Design System team.
-1. Share with Laura Flannery the user's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard this feedback before, but it's a new approach that hasn't been tested before.]*
-1. Consider how we might better support people who already have VA disability and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant to them.
+8. Share with the Design System team the feedback of 3 participants reading the jump links at the top of the results page as CTA's.
+1. Share with Laura Flannery a participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard this feedback before, but it's a new approach that hasn't been tested before.]*
+1. Consider how we might better support people who already have VA disability and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
 
 ### 4. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect*
 
@@ -270,17 +270,17 @@ Below is a list of reasons why **some participants said that they were NOT eligi
 
 > *"I know I'm not eligible so I don't want to waste anybody's time, including my own" (p10).*
 
-A different participant who's 100% disabled said that they **planned to file for PACT Act benefits in order to add more service-related disabilities to their record**. They knew that they couldn't get any more disability money, but they wanted the potential for extra DIC (Dependency and Indemnity Compensation) death benefits to their next of kin if they died of a service-related disability.
+A third participant who's 100% disabled said that they **planned to file for PACT Act benefits in order to add more service-related disabilities to their record**. They knew that they couldn't get any more disability money, but they wanted the potential for extra DIC (Dependency and Indemnity Compensation) death benefits to their next of kin if they died of a service-related disability.
 
 Another participant heard that you **could be eligible for PACT Act benefits by having served in a specific region--even if you don't have any medical conditions--because of presumed exposure.** One of the pilot participants also thought this might be the case because of the "presumption of exposure" content on the *You may be eligible* results page. This is actually incorrect because you must have a disability to get compensation. Just being in a specific location and getting exposed to toxic substances isn't enough.
 
 > *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
 
 #### RECOMMENDATIONS: 
-11. Consider whether to address participants' questions and concerns:  
+11. Consider how we might address participants' questions and concerns about eligibility for benefits under the PACT Act:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
-     1. Whether you must have a disability in order to get compensation *vs.* just being in a specific location and getting exposed to toxic substances
-     1. Whether burn pit registry affects PACT Act eligibility
+     1. Whether you must have a disability in order to get compensation *vs.* were in a specific location and exposed to toxic substances
+     1. Whether burn pit registry notifies about PACT Act eligibility
 1. Consider whether to reach out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits. This would address one participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible. 
 
 ### 5. Participants shared their feedback and questions about how and when to apply for PACT Act benefits  
@@ -373,9 +373,9 @@ A different participant said that it's frustrating that he **doesn't know  wheth
 
 ## Research methodology learnings
 1. Having Survey Monkey handle the complex branching in the prototype to questions and results pages was super helpful and enabled the moderator to focus on observing and conversing with the participant (*vs.* figuring out on-the-fly which question or results page to show next).
-1. We should have built a second version of the *You may be eligible* results page in order to show presumptive conditions for Vietnam/Agent Orange because that would have been easier for the Vietnam-era participants to understand.
+1. We should have built a second version of the *You may be eligible* results page in order to show presumptive conditions for Vietnam/Agent Orange because that would have been easier for the Vietnam-era participants to relate to.
 1. The single date in the R1-1 results page *(on or after August 2, 1990)* wasn't mentioned by most participants. Perhaps it would have been more natural to have had a conversation around dates if the sample results page had a date range instead of a single date as some of the content does *(e.g., between January 9, 1962, and May 7, 1975).*
-1. Asking participants to rate their confidence at knowing what to do next was problematic when the results page they were looking at was not relevant to their specific situation.
+1. Asking participants to rate their confidence about knowing what to do next was problematic when the results page they were looking at was not relevant to their specific situation.
 
 ## All Recommendations
 Preliminary ideas for recommendations are listed below as input to discussion with the team and stakeholders.
