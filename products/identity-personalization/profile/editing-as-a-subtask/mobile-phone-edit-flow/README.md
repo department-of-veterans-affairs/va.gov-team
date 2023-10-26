@@ -78,7 +78,7 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 - [Contact information entrance page report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fcontact-information~2F&_r.tabId=navigationsummary/)
 
-|KPI/metric|Baseline: 1 month pre-launch 9/26/-10/25/2023| 25% | 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|KPI/metric|Baseline: 1 month pre-launch 9/26/-10/25/2023| 25% 10/25-10/31/2023 | 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|
 |Ranking of Notification preferences as an entrance page to Contact information||||||||
 
@@ -87,7 +87,7 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 - [see save / failure metrics on the top right ](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20230806&_u.date01=20230814/)
 
 No pre-launch stats as this didn't exist prior. 
-|KPI/metric| 25% | 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|KPI/metric| 25% 10/25-10/31/2023| 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|:-:|:-:|:-:|:-:|:-:|
 |Number of saves of the add a mobile number form (success)||||||
 |Number of saves of the add a mobile number form (failures)||||||
