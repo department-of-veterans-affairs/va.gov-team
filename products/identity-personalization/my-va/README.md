@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: October 3, 2023 - updated completed projects**
+**Last updated: October 26, 2023 - added security section**
 
 ### Communications
 
@@ -25,6 +25,7 @@
 - [Design](#Design)
 - [Frontend](#Front-End)
 - [Backend](#Back-End)
+- [Security](#Security)
 - [How to Access and Test](#How-to-Access-and-Test)
 
 
@@ -219,6 +220,9 @@ _Why would your business want this to exist?_
 - [My VA Backend Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/backend_documentation.md#my-va-backend-documentation)
 - [Platform Documentation on backend systems](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations)
 - [My VA 2.0 Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/Technical-diagrams/My-VA-architectural-diagram.md)
+
+## Security
+
 
 ## How to Access and Test
 
