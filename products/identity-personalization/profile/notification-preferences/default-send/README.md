@@ -74,6 +74,8 @@ In order to be able to add email as a channel, we need to do two things: add the
 
 [Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 [Metrics workbook](https://docs.google.com/spreadsheets/d/1ts0vX2Nzu3UQp1q1nNz20ZKS_iPUkXmDRi-nPSQrT_s/edit?usp=sharing)
+[Original GA Dashboard from notification settings launch](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/)
+["Adam's GA Sandbox" with some notification setting info](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20230926&_u.date01=20231024)
 
 |KPI/metric|Baseline: 1 month pre-launch 9/26-10/24/2023| 25% 10/25-10/31/2023 | 50% | 100% |1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|
