@@ -1,6 +1,6 @@
 # Ask VA statuses
 
-Last updated by @tygindraux: October 26, 2023
+Last updated by @tygindraux @t-michaud: October 26, 2023
 
 This documents describes different Ask VA inquiry statuses and when they are assigned.
 
