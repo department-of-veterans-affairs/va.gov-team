@@ -22,11 +22,7 @@ This research fufilled 66% (4/6) of its original request. Given the **limited** 
 > For screen reader users, we will schedule a total of 10 Veterans for an expected completion rate of 6 usability sessions.
 
 ## Participants
-To best serve the users of VA.gov, we will need to collect the following information during each a11y research session:
-- **Skill level of user:** Novice, Intermediate or Advanced
-- **Operating System:** Mac or Windows
-- **Assistive Technology being used:** Jaws, NVDA, Zoomtext, Dragon, etc.
-- **Internet Browser:** Chrome, Firefox, etc.
+To best serve the users of VA.gov, we will need to collect the following information during each a11y research session: skill level of user,operating system, assistive technology being used, internet browser and device type.
   
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
@@ -38,7 +34,6 @@ To best serve the users of VA.gov, we will need to collect the following informa
 **Participants who successfully completed sessions: 4**
 
 ## Key Findings
-Add screenshots, images and videos here.
 
 ### Participants had trouble determining if there were attachments.
 - The conversation threads are in accordions. 
@@ -102,8 +97,6 @@ Make sure that you update the content of the live region or alert element dynami
 ## User Feedback
 
 ### Veterans' Voices: Impactful Quotes 
-This section is for quotes. ⚠️ Participants should be referenced by number only, please.
-In this section feel free to segment populations based on the trends we see with certain user types.
 
 > "“Even though it is saved I don’t know where it is saved to.” - P1, on saving messages
 
