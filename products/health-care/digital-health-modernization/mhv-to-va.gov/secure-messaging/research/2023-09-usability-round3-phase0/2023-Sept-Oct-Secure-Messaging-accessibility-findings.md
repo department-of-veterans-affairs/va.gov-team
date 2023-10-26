@@ -1,4 +1,6 @@
-# About this Research Study
+# CAIA A11y Deliverable: Assistive Technology User Research
+
+## About this Research Study
 - **Study Name:** MHV Secure Messaging
 - **Study Dates:** September and October 2023
     - [Detail can be found via the sesions comment in #65457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65457#issuecomment-1733718767)
@@ -9,7 +11,7 @@
     - [Research conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-09-usability-round3-phase0/conversation-guide.md)
 - **Ticket Links:** Research Support Ticket [#65457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65457#issuecomment-1733718767)
 
-# Accessibility Tools Utilized
+## Accessibility Tools Utilized
 `iOS VoiceOver` `MacOS VoiceOver` `JAWS` 
 `No Beginning Users`
 
