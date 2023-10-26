@@ -1,6 +1,6 @@
 # Benefits Disability Experience - Product sync 
 
-### Date: Oct 19' 2023       
+### Date: Oct 16' 2023       
 ### Participants: Rakshinda, Austin, Shannon, Emily, Steve 
 ### Topics Covered:
 - Emily's concern regarding potential validation errors related to rated disabilities discrepancies between EVSS and LH enpoints
