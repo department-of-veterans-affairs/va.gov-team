@@ -5,8 +5,8 @@ Last updated by @tygindraux: October 26, 2023
 This documents describes different Ask VA inquiry statuses and when they are assigned.
 
 **Jump to:**
-- Statuses and when they are displayed
-- Future features
+- [Statuses and when they are displayed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses.md#statuses-and-when-they-are-displayed)
+- [Future features](
 - Legacy statuses for reference
 
 ## Statuses and when they are displayed
