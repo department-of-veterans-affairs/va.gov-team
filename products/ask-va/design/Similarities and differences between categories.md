@@ -1,6 +1,6 @@
 # Similarities and differences between categories
 
-Last updated by @tygindraux: October 25, 2023
+Last updated by @tygindraux: October 26, 2023
 
 This document summarizes patterns in the design of the Ask VA form by calling out similarities and differences between categories. It's intended to be helpful for our engineers as they start building.
 
@@ -84,7 +84,7 @@ All other `Topics` in `Education benefits and work study` will follow a differen
 - it asks the submitter's relationship to the Veteran in order to determine whether it's a **business or personal relationship**
 - it includes [Select: State of school]
 - if it's a personal relationship, it includes [Select: State of residency]
-- if it's a business relationship, it includes [Search Facility: VA Medical Center]
+- if it's a business relationship, it includes [Search Facility: School Facility]
 - there is always only one contact section (the submitter)
 - it only asks for [Social security number or service number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#social-security-number-or-service-number) and [Date of birth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#date-of-birth) if it's a personal inquiry
 - email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)
