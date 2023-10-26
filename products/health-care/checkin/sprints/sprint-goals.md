@@ -55,7 +55,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create New Content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68146)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68084)
            - Has not been pointed
-   - **Sub Goal: [File a Mileage-only Claim for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
+   - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Create research review ticket
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Create a CAIA review ticket
 - **GOAL: Increase usage of Pre-Check-in & Check-in**   
