@@ -86,7 +86,7 @@ Just as a reminder, this is a prototype, which means that it will behave differe
 
 _Send link to prototype:_
 
-**_Task 1 - MR and SM_**(Start from the signed-in MHV landing page) You want to check your lab result from your recent visit and ask a question about your lab result. It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+**_Task 1 - MR and SM_**(Start from the signed-in MHV landing page) You want to check your recent blood test result and ask a question about your result. It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
