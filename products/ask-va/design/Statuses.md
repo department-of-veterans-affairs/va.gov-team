@@ -10,11 +10,11 @@ We'll display these statuses and descriptive text in Ask VA when it moves to VA.
 
 |Status|Descriptive text|Trigger event|
 |:--|:--|:--|
-|`New`|We've received your question. We’ll review it soon.|The systems automatically sets the status to `New` when a question is submitted.|
+|`New`|We received your question. We’ll review it soon.|The systems automatically sets the status to `New` when a question is submitted.|
 |`In progress`|We're currently reviewing your question.|The system automatically sets the status to `In progress` **after an agent has responded.***|
 |`Solved`|We answered your question. If you have an additional question, please submit a new question.|An agent manually changes the status to `Solved` when an inquiry: has been resolved, is a duplicate, or has insufficient details.|
 |`Reopened`|We received your reply. We'll respond soon.|The system automatically sets the status to `Reopened` when a submitter replies to a `Solved` inquiry.|
-|`Closed`|We closed your question due to inactivity.|The system automatically updates the status of `Solved` inquiries to `Closed` after 60 days of no activity.|
+|`Closed`|We closed your question because it's been 60 days since we solved it.|The system automatically updates the status of `Solved` inquiries to `Closed` after 60 days of no activity.|
 |Reference number not found|We didn't find any results for "A-20230710-306466”. Try checking your reference number again to make sure it’s correct.<br><br>If you receive this message again, you can submit a new inquiry with your original question. Include your original reference number and we'll work to get your question answered.|A submitter searches for an reference number that is not found in the system.|
 
 ***The difference between `In progress` and `Solved` could be confusing:**
