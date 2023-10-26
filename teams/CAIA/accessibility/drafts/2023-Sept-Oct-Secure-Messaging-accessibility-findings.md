@@ -21,7 +21,7 @@ This research fufilled `66%` (`4`/`6`) of its original request. Despite the **li
 
 > For screen reader users, we will schedule a total of `10` Veterans for an expected completion rate of `6` usability sessions.
 
-## Participants
+## Participants (`4`)
   
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
@@ -178,7 +178,8 @@ An overview summary of CAIA a11y recommendations, as it relates to the findings 
 ## Next Steps
 A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
 
-_**While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help faciliate a smooth process through the Collaboration Cycle.**_
+### IMPORTANT NOTE ABOUT CAIA
+_**While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help faciliate a smooth process for your project through the Collaboration Cycle or outside of the Collaboration Cycle.**_
 
 
 <details><summary>Toggle to read more about what should be completed now and what can be completed later. </summary>
@@ -201,15 +202,14 @@ _**While CAIA cannot require you to complete any updates to your product, we can
     - **Impact**:Content and IA
     - **Appears on**: Experience Standards
     - **WCAG**: NA
-  - 
 ### Complete Soon
-#### Success Alert
-"Success Alert" was not called out to screen reader user after successfully sending a message to provider.
-  - **Experience standards:** `Category xx` `Issue xx`:
-      - **Defect**:`xx`
-      - **Impact**: xx
-      - **Appears on**: xx xx
-      - **WCAG**:xx
+#### Radio Buttons
+-  Radio buttons in a “Category” radio group after starting a “New Message” should be announcing "X of Y", where X is the current position in the group and Y is the total number of radio buttons. 
+  - **Experience standards:** `Category 09` `Issue 01`:HTML markup isn't valid.
+      - **Defect**:`Depends`
+      - **Impact**: A11y
+      - **Appears on**: Experience Standards, A11y, Common Accessibility Issue and WCAG
+      - **WCAG**:  [WCAG SC 1.3.1 A](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
 ### Complete Later
 #### Repetition
  - It can take a long time for screen reader users to have page content read to them, so redundant/repeated text can be cumbersome to get through. When it comes to the liability and crisis line messages:
@@ -225,18 +225,18 @@ _**While CAIA cannot require you to complete any updates to your product, we can
       - **Impact**: Content and IA
       - **Appears on**: Experience Standards
       - **WCAG**:NA
-#### Radio Buttons
--  Radio buttons in a “Category” radio group after starting a “New Message” should be announcing "X of Y", where X is the current position in the group and Y is the total number of radio buttons. 
-  - **Experience standards:** `Category 09` `Issue 01`:HTML markup isn't valid.
-      - **Defect**:`Depends`
+#### Success Alert
+"Success Alert" was not called out to screen reader user after successfully sending a message to provider.
+  - **Experience standards:** `Category 22` `Issue 11`:
+      - **Defect**:`Not Launch Blocking`
       - **Impact**: A11y
-      - **Appears on**: Experience Standards, A11y, Common Accessibility Issue and WCAG
-      - **WCAG**:  [WCAG SC 1.3.1 A](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
+      - **Appears on**: Experience Standards and WCAG 2.1
+      - **WCAG**:[4.1.3 AA](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
 #### Message IDs
 - Adding <aria-label>(s) for Message ID(s)
   - **Experience standards:** `Category 04` `Issue 06`:
       - **Defect**:`Not Launch Blocking`
       - **Impact**: A11y, Content and Design
       - **Appears on**: Experience Standard and WCAG
-      - **WCAG**:2.5.3
+      - **WCAG**:[2.5.3 A](https://www.w3.org/WAI/WCAG21/quickref/#label-in-name)
 </details>
