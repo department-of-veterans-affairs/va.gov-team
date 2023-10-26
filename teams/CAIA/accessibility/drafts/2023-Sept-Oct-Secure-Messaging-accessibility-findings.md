@@ -122,16 +122,37 @@ Make sure that you update the content of the live region or alert element dynami
 
 > 
 ## a11y Recommendations
-- Whether a message has attachments needs to be read aloud by assistive technology. The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment"). 
-- Users should be made aware right away that their messages will be auto-saved, and where those messages are saved to. And you may want to remove the "save draft" button entirely to reduce confusion? 
-- It can take a long time for screen reader users to have page content read to them, so redundant/repeated text can be cumbersome to get through. When it comes to the liability and crisis line messages:
-  - You might want to consider removing one instance of them. **Experience standards:** `Category 03` `Issue 04` ("A user flow doesn't have repetitive or redundant steps.")
-  - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first. **Experience standards:** `Category 09` `Issue 03` ("Button and link language is descriptive and/or their purpose is clear.")
-- Have some sort of indicator that a screen reader will pick up that a message is unread. This could be screen reader-only text, for the sake of the visual design. **Experience standards:** `Category 11` `Issue 11` ("Pages don't require sensory characteristics to be understood or operable.")
-
-
-### If we don't have enough data or research to know...
-Point out the gaps
+- **Attachments**:
+    - Whether a message has attachments needs to be read aloud by assistive technology.
+    - The paper clip icon should come **before** the message title, not after, and have some accessible text that can be read aloud (think "Has attachment"). 
+- **Saving Messages:**
+  - Users **should be made aware right away** that their messages will be auto-saved, **and where** those messages are saved to.
+  - And you may want to _remove the "save draft"_ button entirely to reduce confusion. 
+- **Repetition**:
+    - It can take a long time for screen reader users to have page content read to them.
+    - So, redundant/repeated text can be cumbersome to get through.
+    - **When it comes to the liability and crisis line messages:**
+      - You might want to consider removing one instance of them.
+          - **Experience standards:** `Category 03` `Issue 04` ("A user flow doesn't have repetitive or redundant steps.")
+      - Wherever they end up, it should be clear to the user that by clicking on this link, you'll be taken to a disclaimer/liability/crisis line message first.
+          - **Experience standards:** `Category 09` `Issue 03` ("Button and link language is descriptive and/or their purpose is clear.")
+- **Unread Messages:**
+    - Have some sort of indicator that a screen reader will pick up that a message is unread.
+    - This could be screen reader-only text, for the sake of the visual design.
+    - **Experience standards:** `Category 11` `Issue 11` ("Pages don't require sensory characteristics to be understood or operable.")
+- **Radio Buttons:**
+    - Category radio buttons in a new message need to announce "x of y," where x is the current position and y is the total number of radio buttons.
+        - Use a field set and legend `<fieldset>`and `<legend>`
+        - Use proper labeling `<label>`
+        - Use `aria-describedby`
+    - **Consideration**: [According to the USWDS, there are known issues with screen readers](https://designsystem.digital.gov/components/form/#:~:text=label%20or%20symbol.-,Known%20issues%20with%20screen%20readers,.%20Visit%20a11ysupport.io%20to%20view%20the%20full%20status%20of%20support.,-Note%3A%20These):
+        - **VoiceOver on iOS currently does not support fieldset and legend elements for forms**.
+            - You can address this issue by using `aria-labelledby="for-attribute-of-label` `id-of-legend id-of-additional-info`on each input in the fieldset.
+            - Using `aria-labelledby` will overwrite the default text read by the screen reader, so it is important to include all relevant information.
+        - **VoiceOver on OS X offers partial support for** `aria-describedby`.
+            - There's full support for conveying description on text inputs, partial support for description changes when the text input is in focus, and no support for role="alert".
+            - Visit a11ysupport.io to view the full status of support. 
+    
 
 ## Next Steps
 A list of actionable findings, based on time-sensitive, priority needs.
