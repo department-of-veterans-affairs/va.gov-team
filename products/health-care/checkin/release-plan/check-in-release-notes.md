@@ -12,6 +12,9 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 10/26/2023
+- CHIP v3.4.1: Adds updated dependencies
+
 ### 10/25/2023
 - CHIP v3.4.0: Enables Veterans to use the 45-minute reminder to begin their check-in user flow
 
