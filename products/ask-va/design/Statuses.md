@@ -6,8 +6,8 @@ This documents describes different Ask VA inquiry statuses and when they are ass
 
 **Jump to:**
 - [Statuses and when they are displayed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses.md#statuses-and-when-they-are-displayed)
-- [Future features](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses.md#future-features)
-- Legacy statuses for reference
+- [Future work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses.md#future-work)
+- [Legacy statuses for reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses.md#legacy-statuses-for-reference)
 
 ## Statuses and when they are displayed
 
@@ -22,10 +22,10 @@ We'll display these statuses and descriptive text in Ask VA when it moves to VA.
 |`Closed`|We closed your question after 60 days.|The system automatically updates the status of `Solved` inquiries to `Closed` after 60 days of no activity.|
 |Reference number not found|We didn't find any results for "A-20230710-306466”. Try checking your reference number again to make sure it’s correct.<br><br>If you receive this message again, you can submit a new inquiry with your original question. Include your original reference number and we'll work to get your question answered.|A submitter searches for an reference number that is not found in the system.|
 
-## Future features
+## Future work
 
-- The _submitter_ indicates "my question has been solved" or "I accept the answer to my question".
-- `In progress` is more descriptive of where the question
+- Review statuses and their descriptions with Veterans and other submitters.
+- Test a feature that allows the _submitter_ to indicate when their question has been solved, instead of the agent.
 
 ## Legacy statuses for reference
 
