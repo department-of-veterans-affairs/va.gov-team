@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), PACT Act Wizard, Sitewide Public Websites**
 
-Date: 10/25/2023
+Date: 10/26/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
@@ -161,7 +161,7 @@ A third participant didn't select "both time periods" until his second time thro
 > *"You're really not in the military until after training" (p4).*
 
 #### RECOMMENDATIONS: 
-1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options, training *vs.* service, and 1989 *vs.* 1990. A few potential ideas:
+1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options. A few potential ideas:
      -  Ask what year the Veteran joined the service and what year they left (as in Perigean's recruitment survey from the VA) 
      - Use 2 checkboxes instead of 3 radio buttons
      - Reword the options so they don't start with numbers that look similar (e.g., "1990 to present" and "Before 1989")
@@ -230,7 +230,7 @@ One participant **expected to be asked when and where he served**, but that's no
 One participant **wanted to see what the specific presumptive conditions are**, which aren't on the page. More specifically, they wanted to know what conditions are covered for which location(s) in what timeframe.
 
 #### RECOMMENDATIONS:
-7. Consider how we might indicate where to find the list of presumptive conditions while people are reading the definition presumptive conditions on the R1-1 page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
+7. Consider how we might indicate where to find the list of presumptive conditions while  reading the definition presumptive conditions on the R1-1 page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
 
 #### User feedback on the R1-2 "Apply for VA benefits now" results page
 **Three participants read the 3 jump links at the top of the page as CTA's** (calls to action) and puzzled over which one to select because there wasn't any explanatory text around them. The links said *File a  claim for disability compensation* and *Apply for VA health care*. One of the 3 people scrolled down the page and noticed that they matched the headers on the page, and so guessed that they were jump links to the headers. The other 2 people figured it out when they clicked on one of them and remained on the same page.
@@ -279,8 +279,8 @@ Another participant heard that you **could be eligible for PACT Act benefits by 
 #### RECOMMENDATIONS: 
 11. Consider how we might address participants' questions and concerns about eligibility for benefits under the PACT Act:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
-     1. Whether you must have a disability in order to get compensation *vs.* were in a specific location and exposed to toxic substances
-     1. Whether burn pit registry notifies about PACT Act eligibility
+     1. Whether you must have a disability in order to get compensation *vs.* were just in a specific location
+     1. Whether the burn pit registry notifies you about PACT Act eligibility
 1. Consider whether to reach out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits. This would address one participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible. 
 
 ### 5. Participants shared their feedback and questions about how and when to apply for PACT Act benefits  
@@ -318,8 +318,9 @@ One participant **would have tried to convince his dad to apply** for benefits u
 1. Consider how we might address participant feedback about misunderstanding the Sept 30 deadline. *(Danielle plans to share with OPIA for their outreach work.)*
 1. Consider how we might address participants' questions and concerns about PACT Act eligibility:
      1. Are PACT Act benefits different from regular disability compensation?   
+     1. Should I include conditions that aren't presumptive? 
      1. Might the list of presumptive conditions change in the future? 
-     1. The significance of having your disability rating for at least 10 years before applying for additional disability compensation (IF that's accurate information and reasonable advice).
+     1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Is there a reason to wait before applying? (i.e., until you've had your disability rating for at least 10 years, if that's accurate information and reasonable advice).
      1. How to handle CRSC and PACT benefits together
 1. Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?
  
