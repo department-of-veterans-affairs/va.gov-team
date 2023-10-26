@@ -82,7 +82,7 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 |KPI/metric|Baseline: 1 month pre-launch 9/26/-10/25/2023| 25% 10/25-10/31/2023 | 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|
-|Ranking of Notification preferences as an entrance page to Contact information|[(6,503)12.78%](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230926&_u.date01=20231024&_.advseg=&_.useg=&_.sectionId=&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.previousPagePath%22,%22PT%22,%22www.va.gov~2Fprofile~2Fnotifications%22,0%5D%5D&explorer-table.rowCount=500)|||||||
+|Ranking of Notification preferences as an entrance page to Contact information|[Ranked 2nd (6,503 Clicks ) 12.78% entered Contact Information from Notification Settings](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230926&_u.date01=20231024&_.advseg=&_.useg=&_.sectionId=&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.previousPagePath%22,%22PT%22,%22www.va.gov~2Fprofile~2Fnotifications%22,0%5D%5D&explorer-table.rowCount=500)|||||||
 
 **KPI: Establish baseline metrics for number of saves of the add a mobile number form.**
 
