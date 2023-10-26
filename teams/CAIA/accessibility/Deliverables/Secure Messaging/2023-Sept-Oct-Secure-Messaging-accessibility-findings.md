@@ -1,3 +1,5 @@
+`PATH: A copy can be found in products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research`
+
 # About this Research Study
 - **Study Name:** MHV Secure Messaging
 - **Study Dates:** September and October 2023
