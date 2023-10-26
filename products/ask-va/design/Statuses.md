@@ -17,10 +17,10 @@ We'll display these statuses and descriptive text in Ask VA when it moves to VA.
 |`Closed`|We closed your question after 60 days.|The system automatically updates the status of `Solved` inquiries to `Closed` after 60 days of no activity.|
 |Reference number not found|We didn't find any results for "A-20230710-306466”. Try checking your reference number again to make sure it’s correct.<br><br>If you receive this message again, you can submit a new inquiry with your original question. Include your original reference number and we'll work to get your question answered.|A submitter searches for an reference number that is not found in the system.|
 
-***The difference between `In progress` and `Solved` could be confusing:**
-- Both statuses happen **after** an agent has responded
-- But `In progress` might imply that the agent is **working** on a reply (especially given the description, see legacy description: Your inquiry is currently being reviewed by an agent.)
-- How much time elapses between `In progress` and `Solved`? `In progress` is automatic but `Solved` is manual. Does an agent change the status right away?
+## Future features
+
+- The _submitter_ indicates "my question has been solved" or "I accept the answer to my question".
+- 
 
 ## Legacy statuses for reference
 
