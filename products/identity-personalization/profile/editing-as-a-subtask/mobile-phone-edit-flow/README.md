@@ -72,6 +72,8 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 ---
 ## Measuring Success
 
+[Metrics workbook](https://docs.google.com/spreadsheets/d/1ts0vX2Nzu3UQp1q1nNz20ZKS_iPUkXmDRi-nPSQrT_s/edit?usp=sharing)
+
 ### Objective #1: Streamline flow to add contact information from the Notifcations preferences page.
 
 **KPI: See a decrease in ranking for referrals to Contact information from Notification preferences.**
