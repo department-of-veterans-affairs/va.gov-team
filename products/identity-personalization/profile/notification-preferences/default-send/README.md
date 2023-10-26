@@ -76,8 +76,8 @@ In order to be able to add email as a channel, we need to do two things: add the
 
 |KPI/metric|Baseline: 1 month pre-launch 9/26-10/24/2023| 25% 10/25-10/31/2023 | 50% | 100% |1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|
-|Percentage of successful retrievals|||||||
-|Percentage of successful saves|99.94%||||||
+|Percentage of successful retrievals|99.66%||||||
+|Percentage of successful saves|99.95%||||||
 
 **Additional things to consider**
 
