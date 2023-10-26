@@ -19,7 +19,7 @@ Search results connect to modernized websites for VAMCs and Vet Centers or legac
 
 
 ## Product
-- [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
+- [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
 - [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
   - [Link to Product Guide Word version](https://dvagov-my.sharepoint.com/:f:/r/personal/suzanne_middaugh_va_gov/Documents/Facility%20Locator?csf=1&web=1&e=3BaPie) _requires VA network connection_
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product)
@@ -42,7 +42,7 @@ Search results connect to modernized websites for VAMCs and Vet Centers or legac
 The following were last updated in March 2022
 - [VSA Facilities Team transition folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) 
 - [VSA Facilities Team Research and Design Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) 
-- [VSA Facility Locator product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) 
+- [VSA Facility Locator product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) 
 
 ---
 
