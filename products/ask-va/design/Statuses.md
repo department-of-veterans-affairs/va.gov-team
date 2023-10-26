@@ -21,11 +21,11 @@ We'll display these statuses and descriptive text in Ask VA when it moves to VA.
 
 This is the text that is currently displayed on ask.va.gov.
 
-|Status|Descriptive text|
-|:--|:--|
-|`New`|Your inquiry is currently in queue to be reviewed.|
-|`In progress`|Your inquiry is currently being reviewed by an agent.|
-|`Solved`|Your inquiry has been closed. If you have additional questions please open a new inquiry.|
-|`Reopened`|Your reply to this inquiry has been received, and the inquiry is currently being reviewed by an agent.|
-|`Closed`|Closed|
-|Reference number not found|No Results found. We could not locate an inquiry that matches your ID.  Please check the number and re-enter.  If you receive this message again, you can submit a new inquiry with your original question.  Include your old inquiry number for reference and we'll work to get your question fully answered.|
+|Status|Descriptive text|Trigger event|
+|:--|:--|:--|
+|`New`|Your inquiry is currently in queue to be reviewed.|The systems automatically sets the status to `New` when a question is submitted.|
+|`In progress`|Your inquiry is currently being reviewed by an agent.|The system automatically sets the status to `In progress` after an agent has responded.|
+|`Solved`|Your inquiry has been closed. If you have additional questions please open a new inquiry.|An agent manually changes the status to `Solved` when an inquiry: has been resolved, is a duplicate, or has insufficient details.|
+|`Reopened`|Your reply to this inquiry has been received, and the inquiry is currently being reviewed by an agent.|The system automatically sets the status to `Reopened` when a submitter replies to a `Solved` inquiry.|
+|`Closed`|Closed|The system automatically updates the status of `Solved` inquiries to `Closed` after 60 days of no activity.|
+|Reference number not found|No Results found. We could not locate an inquiry that matches your ID.  Please check the number and re-enter.  If you receive this message again, you can submit a new inquiry with your original question.  Include your old inquiry number for reference and we'll work to get your question fully answered.|A submitter searches for an reference number that is not found in the system.|
