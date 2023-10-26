@@ -73,6 +73,7 @@ In order to be able to add email as a channel, we need to do two things: add the
 **KPI: See no reduction in the percentage of successful retrievals and saves for notification preferences.**
 
 [Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
+[Metrics workbook](https://docs.google.com/spreadsheets/d/1ts0vX2Nzu3UQp1q1nNz20ZKS_iPUkXmDRi-nPSQrT_s/edit?usp=sharing)
 
 |KPI/metric|Baseline: 1 month pre-launch 9/26-10/24/2023| 25% 10/25-10/31/2023 | 50% | 100% |1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|
