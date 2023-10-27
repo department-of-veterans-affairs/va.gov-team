@@ -63,6 +63,15 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 - Do Veterans expect to get only the [registration reason] they signed up for or more health care benefits in their application? 
 
 
+**Registration reasons scenarios for this test**
+- Service Connected Only
+- Health benefits when over 50% service connected disability care
+- C&P Disability Benefits Exam
+- Mental health care (Other)
+- Marriage/Family counseling
+- ART/IVF
+
+
 ### Hypothesis
 - Hypothesis that for the appointment registration scenarios - like a C&P or toxic exposure exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
 - Hypothesis that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
