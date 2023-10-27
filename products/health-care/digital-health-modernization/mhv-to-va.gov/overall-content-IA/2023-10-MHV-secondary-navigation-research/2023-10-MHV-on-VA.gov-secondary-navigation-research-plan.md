@@ -33,10 +33,12 @@ This research will inform us how Veterans navigate health tools on MHV on VA.gov
 * In what situations might a Veteran want to jump directly from one tool to another? 
 
 ### Hypotheses 
-* Users want to be able to jump from any part of MHV on VA.gov back to the MHV on the VA.gov landing page. 
-* Users expect to be able to directly navigate from a child (or sub-tool, e.g. Sent of Secure messages) of a tool to a child of another tool.
-* Mobile users will default to using the "menu" button in the primary navigation bar when trying to navigate from one part of MHV on VA.gov to another.
-* Mobile users will rarely use breadcrumbs to navigate. 
+
+* Users want to be able to navigate every part of MHV on VA.gov easily regardless of where they are.
+* Mobile users will likely struggle with current secondary navigation because "in this section" is not noticeable.
+* It might be hard to differentiate primary from secondary navigation.
+* Users might want to click on "VA.gov" home when they want to get back to the MHV landing page because the MHV landing page link is hidden.
+* Users might only rely on secondary (section) navigation and overlook breadcrumbs and direct links on the pages that take them to other tools. 
 
 ## Method
 
@@ -74,7 +76,7 @@ Primary criteria (must-haves)
 - 8 total
 - 4 frequent users of MHV
 - 4 infrequent users of MHV
-- All mobile users
+- 4 mobile users and 4 desktop users 
 - Age and education level range throughout, but ideally include at least 5 participants older than 55 and 5 participants with some college or less as their terminal degree.
 
 ### Screener questions
