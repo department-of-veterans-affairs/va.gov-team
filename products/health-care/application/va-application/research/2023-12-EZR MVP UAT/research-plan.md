@@ -69,7 +69,7 @@ These learnings will allow us to evaluate for additional gaps during the rollout
 ### Hypothesis
 - Participants will understand that some information is prefilled and will be able to update and submit the information.
 - Participants may be frustrated if they want to only update one section of the form vs. multiple sections because they will have to go through the form linearly.
-- Participants will understand they need to updated information.
+- Participants will understand they need to update information.
 - Participants will know what they need to do based on the intro page on the form.
 
 ## Methodology	
