@@ -189,8 +189,8 @@ The same participant was also unsure about **what is considered to be "near" the
 This participant also asked **if there is a minimum duration for the time that you must have served there**, and if it must be continuous service for a period of time. 
 
 #### RECOMMENDATIONS:
-3. Consider how might we clarify whether being on a ship nearby or in the airspace above counts as having served in the location.
-1. Consider whether to clarify what is meant by the word "near" in the DMZ option.
+3. Consider how might we clarify the meaning of "serve" so Veterans will better understand how to answer (i.e., does being on a ship nearby or in the airspace above count as having served in the location).
+1. Consider how we might clarify the meaning of "near" in the DMZ option so Veterans will better understand how to answer.
 
 #### One of 1 participant (100%) was unclear about what "neutral zone" means
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
@@ -202,7 +202,7 @@ One participant asked whether "neutral zone" in the question refers to what was 
 Another participant also wanted to see a map that showed the geographical areas of the locations listed in the question.
 
 #### RECOMMENDATIONS: 
-5. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to understand better.
+5. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to better understand how to answer.
 1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, such as "neutral zone".
 
 ### 3. Some participants had interaction challenges on the R1 results pages 
@@ -254,9 +254,9 @@ I've heard horror stories, people trying to get claims and the time investment t
 
 
 #### RECOMMENDATIONS:
-11. Share with the Design System team the feedback of 3 participants reading the jump links at the top of the results page as CTA's.
-1. Share with Laura Flannery a participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard this feedback before, but it's a new approach that hasn't been tested before.]*
-8. *(actually #8)* Consider how we might better support people who already have VA disability and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
+11. Consider where share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
+1. Consider where to share this finding *(Laura Flannery? other accessibility specialists?*): One participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[Laura hasn't heard this feedback before, but this is a new approach that hasn't been tested before.]*
+8. *(#8 in the Recommendations section)* Consider how we might better support people who already have VA disability and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
 
 ### 4. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect*
 
@@ -281,7 +281,7 @@ Another participant heard that you **could be eligible for PACT Act benefits by 
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
      1. Whether you must have a disability in order to get compensation *vs.* were just in a specific location
      1. Whether the burn pit registry notifies you about PACT Act eligibility
-13. *(actually #13)* Consider whether to reach out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits. This would address one participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible. 
+13. *(#13 in the Recommendations section)* Consider whether/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits. 
 
 ### 5. Participants shared their feedback and questions about how and when to apply for PACT Act benefits  
 The following is feedback that we received from individual participants about applying for PACT Act benefits. 
@@ -316,13 +316,13 @@ One participant **would have tried to convince his dad to apply** for benefits u
 
 #### RECOMMENDATIONS:
 15. Consider how we might address participant feedback about misunderstanding the Sept 30 deadline. *(Danielle plans to share with OPIA for their outreach work.)*
-9. *(actually #10)* Consider how we might address participants' questions and concerns about applying for benefits under the PACT Act:
+9. *(#10 in the Recommendations section)* Consider how we might address participants' questions and concerns about applying for benefits under the PACT Act:
      1. Are PACT Act benefits different from regular disability compensation?   
      1. Should I include conditions that aren't presumptive? 
      1. Might the list of presumptive conditions change in the future? 
      1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying (i.e., until you've had your disability rating for at least 10 years, if that's accurate information and reasonable advice)?
      1. How to handle CRSC and PACT benefits together
-14. *(actually #14)* Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?
+14. *(#14 in the Recommendations section)* Consider whether/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
  
 
 ## Additional Insights
