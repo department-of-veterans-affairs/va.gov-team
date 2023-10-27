@@ -18,7 +18,6 @@ Looking at this from the perspective of registration reasons as scenarios Vetera
 - ART/IVF
 
 
-
 - [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration)
 
 
