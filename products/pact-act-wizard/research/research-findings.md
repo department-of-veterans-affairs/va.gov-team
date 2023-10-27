@@ -254,7 +254,7 @@ I've heard horror stories, people trying to get claims and the time investment t
 
 
 #### RECOMMENDATIONS:
-11. Consider where share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
+11. Consider where to share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
 1. Consider where to share this finding *(Laura Flannery? other accessibility specialists?*): One participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[Laura hasn't heard this feedback before, but this is a new approach that hasn't been tested before.]*
 8. *(#8 in the Recommendations section)* Consider how we might better support people who already have VA disability and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
 
@@ -286,7 +286,7 @@ Another participant heard that you **could be eligible for PACT Act benefits by 
 ### 5. Participants shared their feedback and questions about how and when to apply for PACT Act benefits  
 The following is feedback that we received from individual participants about applying for PACT Act benefits. 
 
-One participant said that there **shouldn't be a deadline to apply**, which he heard about in a radio ad (Sept 30). He didn't understand that this deadline was for a special enrollment period for certain combat Veterans.
+One participant said that there **shouldn't be a deadline to apply**, which he heard about in a radio ad (Sept. 30). He didn't understand that this deadline was for a special enrollment period for certain combat Veterans.
 
 > *"I can understand that it's about trying to get people to apply, but you should be able to apply anytime" (p9).*
 
@@ -315,7 +315,7 @@ One participant **would have tried to convince his dad to apply** for benefits u
 > *"If Dad were still alive today, I would have tried to convince him to have gone through this...We all know that when those guys came back [from Vietnam], they were treated like dirt...and he didn't want anything to do with the military...The VA today and the way the PACT Act is worded, I think if he was alive today, he would have been convinced after a lot of talking to apply...Thank goodness that today we are recognizing what those guys went through" (p4).*
 
 #### RECOMMENDATIONS:
-15. Consider how we might address participant feedback about misunderstanding the Sept 30 deadline. *(Danielle plans to share with OPIA for their outreach work.)*
+15. Consider how we might address participant feedback about misunderstanding the Sept. 30 deadline. *(Danielle plans to share with OPIA for their outreach work.)*
 9. *(#10 in the Recommendations section)* Consider how we might address participants' questions and concerns about applying for benefits under the PACT Act:
      1. Are PACT Act benefits different from regular disability compensation?   
      1. Should I include conditions that aren't presumptive? 
@@ -388,9 +388,9 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
      - Reword the options so they don't start with numbers that look similar (e.g., "1990 to present" and "Before 1989")
      - Add a "Not sure" option that would result in ALL questions being asked (like the current "Both time periods" option)
 1. Consider whether to provide information about C-123 planes since some in the research sessions said they didn't know what they were.
-1. Consider how might we clarify whether being on a ship nearby or in the airspace above counts as having served in the location.
-1. Consider whether to clarify what is meant by the word "near" in the DMZ option.
-1. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to understand better.
+1. Consider how might we clarify the meaning of "serve" so Veterans will better understand how to answer (i.e., does being on a ship nearby or in the airspace above count as having served in the location).
+1. Consider how we might clarify the meaning of "near" in the DMZ option so Veterans will better understand how to answer.
+1. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to better understand how to answer.
 1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, such as "neutral zone".
 1. Consider how we might indicate where to find the list of presumptive conditions while  reading the definition presumptive conditions on the R1-1 page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
 1. Consider how we might better support people who already have VA disability and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
@@ -406,13 +406,14 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
      1. How to handle CRSC and PACT benefits together
 
 ### For the wizard design and functionality
-11. Share with the Design System team the feedback of 3 participants reading the jump links at the top of the results page as CTA's.
-1. Share with Laura Flannery a participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard this feedback before, but it's a new approach that hasn't been tested before.]*
+11. Consider where to share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
+1. Consider where to share this finding *(Laura Flannery? other accessibility specialists?*): One participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[Laura hasn't heard this feedback before, but this is a new approach that hasn't been tested before.]*
+
 
 ### For VA
-13. Consider whether to reach out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits. This would address one participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible. 
-1. Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?
-1. Consider how we might address participant feedback about misunderstanding the Sept 30 deadline. *(Danielle plans to share with OPIA for their outreach work.)*
+13. Consider whether/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits.
+1. Consider whether/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
+1. Consider how we might address participant feedback about misunderstanding the Sept. 30 deadline. *[Danielle plans to share with OPIA for their outreach work.]*
 
 
 ## Next Steps
