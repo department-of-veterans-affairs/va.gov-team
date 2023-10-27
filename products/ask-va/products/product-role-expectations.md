@@ -1,19 +1,20 @@
 # Overview
-Last updated by @beckyphung: October 26, 2023
+Last updated by @beckyphung: October 27, 2023
 
 **This is a draft.**
 
-This document sets expectations for the `Product Owner/Business Stakeholder` role because it's missing from the current OCTO product expectations doc 
-[in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/octo/product/Product%20Expectations.md).
+This document sets expectations for Product Owners outside of OCTO we work closely with because it's incomplete in the [current OCTO product expectations doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/octo/product/Product%20Expectations.md).
 
 ## Roles 
 |Role|Name|
 |:--|:--|
 |Product Lead|Becky Phung until Feb 2024, Chante Lantos-Swett back in Feb 2024|
 |Product Manager|Ruchi Shah|
-|Product Owner/Business Stakeholder| Natalie Morales and Andrea Schneider|
+|Product Owner (VES)| Natalie Morales and Andrea Schneider|
 
-## Product Owner/Business Stakeholder
+## Product Owner (VES)
+Product Owners from the Veteran Experience Services (VES) team manage products in different product lines similarly to OCTO POs.   
+
 ### Vision, strategy
 - Share product direction and goals from VES perspective
   
