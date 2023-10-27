@@ -62,7 +62,7 @@ We will partner with Perigean to recruit Veterans.
 
 We request a kickoff meeting with Perigean.
 		
-**Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes**
+**Kickoff meeting times with Perigean depend on their availability from 10/30 to 11/2. Anticipate KO meeting lasting 30 minutes**
 
 We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network. 
 
