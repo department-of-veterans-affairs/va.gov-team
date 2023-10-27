@@ -143,7 +143,7 @@ We will use Perigean to recruit participants into cohorts needed for an unmodera
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
 |***Benefits***  |        |        |        |        |        |        |        |        |      
 |Health care     |  0     |   0    |    0   |    0   |      0 |    0   |   0    |  9     |    
-|Disability      |  0     |   0    |    0   |    0   |   0    |     0  |   0    |  5     |    
+|Disability      |  0     |   0    |    0   |    0   |   4   |    0   |   0    |  9     |    
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
 |***Cognitive Impairment and/or Functional Disabilities***  |        |        |        |        |        |        |        |        |      
 | Traumatic Brain Injury (TBI)                                 |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
