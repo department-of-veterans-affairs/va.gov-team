@@ -2,7 +2,7 @@
 
 ## **North Star Metric**
 
-Engagement rate / Bounce rate
+**Engagement rate / Bounce rate**
 
 Definitions from Google:
 
@@ -14,7 +14,7 @@ Definitions from Google:
 ### **Objectives**
 
 - Increase Veterans' involvement in managing their healthcare.
-- Increase Veterans' adoption of Secure Messaging on VA.gov
+- Increase Veterans' adoption of Secure Messaging on VA.gov.
 
 ### **Key Results**
 
@@ -37,13 +37,15 @@ Definitions from Google:
 - va.gov/my-health/secure-messages/thread/1234567
 - va.gov/my-health/secure-messages/reply/1234567
 
-\*_Inbox use cases can cause ambiguity so triangulation with funnel data will be needed_
+\*_Inbox use cases can cause ambiguity so triangulation with funnel data will be needed._
 
-_\*\*Will need to calculate as inverse of bounce rate until VA.gov is on GA4_
+_\*\*Will need to calculate as inverse of bounce rate until VA.gov is on GA4._
 
 ## **Hypothesis**
 
-If we have designed a strong user experience for Phase 1 Secure Messaging, then we will see a high engagement rate (low bounce rate), suggesting that users understand and are able to use the new version.
+**If we have designed a strong user experience for Phase 1 Secure Messaging, then we will see a high engagement rate (low bounce rate), suggesting that users understand and are able to use the new version.**
+
+![Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics/phase1-north-star-graphic.png)
 
 ## **Secondary Metrics**
 
@@ -52,7 +54,7 @@ If we have designed a strong user experience for Phase 1 Secure Messaging, then 
 - Datadog: Top Actions, Heatmaps, Funnel analysis
 - Google Analytics: Click events
 
-**Use of 'Try me' link on myhealth.va.gov      **
+**Use of 'Try me' link on myhealth.va.gov**
 
 - Google Analytics MHV: Click events
 - Google Analytics VA: User Acquisition, Traffic Acquisition, first\_open or first\_visit event
@@ -63,6 +65,8 @@ If we have designed a strong user experience for Phase 1 Secure Messaging, then 
 - MyVA411: Salesforce phone data
 - Helpdesk: Tier II/Tier III Salesforce data
 - VSignals: Survey response data
+
+
 
 ## **Performance Metrics**
 
@@ -99,9 +103,9 @@ If we have designed a strong user experience for Phase 1 Secure Messaging, then 
   - _Is a Veteran able to extend a session?_
 
   - _Is a Veteran able to print messages?_
-
+ 
 ## **Data Collection, Analysis, and Reporting**
-_Data will be updated in [THIS DOCUMENT] on GitHub as it is collected_
+_Data will be updated in [THIS DOCUMENT] on GitHub as it is collected._
 
 | **Metric** | **Collection Cadence** | **Collection Format** | **Reporting Cadence** | **Reporting Format** | **Audience** |
 | --- | --- | --- | --- | --- | --- |
@@ -112,3 +116,15 @@ _Data will be updated in [THIS DOCUMENT] on GitHub as it is collected_
 | Sentiment analysis of qualitative feedback data | Daily | Excel Spreadsheet | As patterns develop | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
 | Dropoff/Page Exits | Weekly | Datadog Dashboard | End of each sprint | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
 | Conversion Events | Weekly | Datadog Dashboard, Google Analytics Dashboard | End of each sprint | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
+
+ ## **Data Collection Tools**
+| **Tool** | **Data Type** | **Access** | **Status** | 
+| --- | --- | --- | --- | 
+| Datadog | Web traffic / User behavior | [Datadog SM Dashboard] | Waiting on resolution of 'Send' tracking issue, need to set up dashboard |
+| Domo | Dashboard to aggregate various sources | N/A | Analytics team cannot have ready in time, Medallia and Salesforce will only be current to end of previous month |
+| Google Analytics | Web traffic / User behavior | [GA 360 SM Dashboard](https://analytics.google.com/analytics/web/#/dashboard/5-w3IUKDSi6jYJtdXv3a-A/a50123418w177519031p176188361/) | GA4 expected to be set up by end of calendar year |
+| Medallia | Veteran feedback from Intercept and Feedback surveys, My411 data, Tier II and Tier III data | Daily emails sent to jane.carnock@va.gov, anne.costello@va.gov | Set to begin 11/3/2023 |
+| MHV feedback email | Trusted user feedback | Lichelle Bain processes, Anne Kennedy has access | Running |
+| VSignals data | Veteran survey feedback | TBD | Email sent to Ed Liebing 10/26 asking how to obtain access |
+
+ 
