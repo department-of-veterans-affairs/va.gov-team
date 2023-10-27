@@ -19,22 +19,28 @@ A scheduled in-person appointment at a VA facility.
 - User can review data to understand their appointment (see table below).
 - User can complete tasks related to their appointment (see table below).
 - [Requirements for canceled appointments](../tools/tool-cancel.md#requirements) are followed.
-- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md) are followed.
-- [Requirements for printing appointments](../tools/tool-print.md) are followed.
+- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
+- [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
 
-| Display this data                                    | For Active Appts  | For Canceled Appts |
-| ---------------------------------------------------- | ----------------- | ------------------ |
-| Appointment Date and Time (including Month, Day, Day of Week, Time and Time zone)                                                  |  ✅               |  ✅                 |
-| Canceled status                                      |                   |  ✅                 |
-| Type of Care                                         |  ✅               |  ✅                 |
-| Location Address  (including directions link)        |  ✅               |  ✅                 |
-| Location Phone Number                                |  ✅               |  ✅                 |
+Data requirements table:
 
-| Include these actions                                      | For Active Appts  | For Canceled appts |
-| ---------------------------------------------------------- | ----------------- | ------------------ |
-| [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅                 |                   |
-| [Print Action](../tools/tool-print.md)                     | ✅                 |                   |
-| [Cancel Action](../tools/tool-cancel.md)                   | ✅                 |                   |
+| VA In Person                                               |           |          |      |          |
+| ---------------------------------------------------------- | --------- | -------- | ---- | -------- |
+| Data and actions                                           | Confirmed | Upcoming | Past | Canceled |
+| Appointment Date and Time                                  | ✅         | ✅        | ✅    | ✅        |
+| Status: Confirmed                                          | ✅         |          |      |          |
+| Status: Past                                               |           |          | ✅    |          |
+| Status: Canceled                                           |           |          |      | ✅        |
+| Type of Care                                               | ✅         | ✅        | ✅    | ✅        |
+| Facility Name                                              | ✅         | ✅        | ✅    | ✅        |
+| Facility Address                                           | ✅         | ✅        | ✅    | ✅        |
+| Directions Link                                            | ✅         | ✅        | ✅    | ✅        |
+| Clinic Name                                                | ✅         | ✅        | ✅    | ✅        |
+| Facility Phone Number                                      | ✅         | ✅        | ✅    | ✅        |
+| Reason For Appointment                                     | ✅         | ✅        | ✅    | ✅        |
+| [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅         | ✅        |      |          |
+| [Print Action](../tools/tool-print.md)                     | ✅         | ✅        | ✅    | ✅        |
+| [Cancel Action](../tools/tool-cancel.md)                   | ✅         | ✅        |      |
 
 ## User interface design
 

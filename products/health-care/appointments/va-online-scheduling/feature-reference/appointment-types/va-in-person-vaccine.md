@@ -12,9 +12,28 @@ A scheduled in-person appointment at a VA facility to receive a COVID-19 vaccina
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- User can cancel through VAOS
-- User can print details using a print button
-- User can add to their calendar via an .ics file
+- User can review data to understand their appointment (see table below).
+- User can complete tasks related to their appointment (see table below).
+- [Requirements for canceled appointments](../tools/tool-cancel.md#requirements) are followed.
+- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
+- [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
+
+| Data and actions                                           | Confirmed | Upcoming | Past | Canceled |
+| ---------------------------------------------------------- | --------- | -------- | ---- | -------- |
+| Appointment Date and Time                                  | ✅         | ✅        | ✅    | ✅        |
+| Status: Confirmed                                          | ✅         |          |      |          |
+| Status: Past                                               |           |          | ✅    |          |
+| Status: Canceled                                           |           |          |      | ✅        |
+| Type of Care                                               | ✅         | ✅        | ✅    | ✅        |
+| Facility Name                                              | ✅         | ✅        | ✅    | ✅        |
+| Facility Address                                           | ✅         | ✅        | ✅    | ✅        |
+| Directions Link                                            | ✅         | ✅        | ✅    | ✅        |
+| Clinic Name                                                | ✅         | ✅        | ✅    | ✅        |
+| Location Phone Number                                      | ✅         | ✅        | ✅    | ✅        |
+| [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅         | ✅        |      |          |
+| [Print Action](../tools/tool-print.md)                     | ✅         | ✅        | ✅   | ✅        |
+| [Cancel Action](../tools/tool-cancel.md)                   | ?         | ?        |      |          |
+| Call to Reschedule Alert                                   | ?         | ?        |      |          |
 
 ## User interface design
 

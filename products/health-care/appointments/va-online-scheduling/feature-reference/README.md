@@ -33,7 +33,7 @@ Booked appointments through VA or CC facilities.
 | [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine | Yes |
 | [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | Scheduled telehealth appointments over VA Video Care | Yes |
 | [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility | Yes | 
-| VA Video Care on GFE |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility | Yes |
+| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility | Yes |
 | VA Video Care at an ATLAS location |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  | Yes |
 | VA Phone |  Scheduled telehealth appointments that a Veteran joins over the phone. | Yes |
 | Community Care |  Scheduled appointment that a Veteran joins at a community care provider | Yes | 

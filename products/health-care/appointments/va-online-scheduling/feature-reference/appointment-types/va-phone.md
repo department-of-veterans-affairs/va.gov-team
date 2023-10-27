@@ -1,8 +1,8 @@
-# VA Video Care at home appointment
+# VA phone appointment
 
 ## Overview
 
-A scheduled telehealth appointment that the Veteran attends through VA Video Care on the device of their choice.
+A scheduled telehealth appointment that the Veteran joins over the phone.
 
 ## User stories
 
@@ -20,15 +20,6 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 - [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
 - [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
 
-- Video Visit appointments must display a link to join the appointment  
-  - The video visit link must display as active for 30 minutes prior to the appointment and for 4 hours after.
-  - Video Visit appointments (`kind = telehealth`) without telehealth links must display additional instructions to the veteran regarding the missing links
-    
-- Video visit instructions from Virtual Care Manager (VCM) instructions must be suppressed if the instructions are any of the following:
-  - `Message sent in MyHealtheVet`
-  - `Resources Mailed to Patient`
-  - `Signup for My HealtheVet  Message`
-
 | Data and actions                                           | Upcoming | Past | Canceled |
 | ---------------------------------------------------------- | -------- | ---- | -------- |
 | Appointment Date and Time                                  | ✅        | ✅    | ✅        |
@@ -37,20 +28,29 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 | Type of Care                                               | ✅        | ✅    | ✅        |
 | Modality                                                   | ✅        | ✅    | ✅        |
 | Joining Instructions                                       | ✅        |      |          |
-| Link to Join                                               | ✅        |      |          |
-| Provider Name                                              | ✅        | ✅    | ✅        |
-| Prepare for video visit instructions                       | ✅        |      |          |
-| Call to Reschedule Alert                                   | ✅        |      |          |
+| Facility Name                                              | ✅        | ✅    | ✅        |
+| Facility Address                                           | ✅        | ✅    | ✅        |
+| Directions Link                                            | ✅        | ✅    | ✅        |
+| Clinic Name                                                | ✅        | ✅    | ✅        |
+| Phone Number                                               | ✅        | ✅    | ✅        |
+| Reason                                                     | ✅        | ✅    | ✅        |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
+| [Cancel Action](../tools/tool-cancel.md)                   | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 
 ## User interface design
 
 [User flow](Add link) 
 
-[Page template](Add link)
+Page template:
+- [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26648&mode=design&t=bs8m3MnTZ56hExUO-4)
+- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26681&mode=design&t=bs8m3MnTZ56hExUO-4)
+- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26711&mode=design&t=bs8m3MnTZ56hExUO-4)
 
-[Page content](Add link)
+Page content:
+- [Upcoming](../../content/appointment-details.md#va-vvc-gfe-appointment---upcoming)
+- [Past](../../content/appointment-details.md#va-vvc-gfe-appointment---past)
+- [Canceled](../../content/appointment-details.md#va-vvc-gfe-appointment---canceled)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
