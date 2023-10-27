@@ -1,15 +1,26 @@
 name: Create Completed Ticket for Colaboration Cycle Touchpoint
 
 on:
-  issues:
-    types: [labeled]
+  # issues:
+  #   types: [labeled]
+  pull_request:
 
 jobs:
   ticket-creation:
     name: Create Completed Ticket
     runs-on: ubuntu-latest
     steps:
-      - name: check for labels
-        if: ${{ github.event.label.name == 'staging-review' && contains(github.event.issue.labels.*.name, 'CC-Request')  }}
-        run: |
-          echo "kickoff label added to cc request ticket"
+      # - name: check for labels
+      #   if: ${{ github.event.label.name == 'staging-review' && contains(github.event.issue.labels.*.name, 'CC-Request')  }}
+      #   run: |
+      #     echo "kickoff label added to cc request ticket"
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Run  script
+        run: node ../../scripts/github-actions/create-cc-completed-ticket.js
