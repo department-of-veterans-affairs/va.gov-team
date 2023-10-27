@@ -27,7 +27,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
 |    P4 `Reschedule`                   |          10/25/2023        |     Dolphin               |     Intermediate            |     Windows                 |    Chrome         |     Desktop        |
-|    P6                    |        10/27/2023          |        JAWS            |         Intermediate        |           Windows           |             | Desktop            |
+|    P5                    |        10/27/2023          |        JAWS            |         Intermediate        |           Windows           |             | Desktop            |
 |       P7                 |            10/30/2023      |                    |                 |                      |             |             |
 |   P8                     |          10/31/2023        |                    |                 |                      |             |             |
 |   P9                     |              11/1/2023    |                    |                 |                      |             |             |
