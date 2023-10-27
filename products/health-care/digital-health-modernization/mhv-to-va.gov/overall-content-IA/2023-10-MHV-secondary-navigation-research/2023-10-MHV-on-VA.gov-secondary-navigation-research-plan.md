@@ -75,7 +75,7 @@ Primary criteria (must-haves)
 - 4 frequent users of MHV
 - 4 infrequent users of MHV
 - All mobile users
-- Age and education level range throughout, but ideally include at least 6 participants older than 55 and 6 participants with some college or less as their terminal degree.
+- Age and education level range throughout, but ideally include at least 5 participants older than 55 and 5 participants with some college or less as their terminal degree.
 
 ### Screener questions
 
