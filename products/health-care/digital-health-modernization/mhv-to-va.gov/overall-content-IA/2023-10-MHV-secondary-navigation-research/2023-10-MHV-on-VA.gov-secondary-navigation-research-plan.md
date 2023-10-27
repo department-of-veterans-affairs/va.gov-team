@@ -50,7 +50,7 @@ Data collection will be remote and conducted using Zoom.
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research/2023-10-MHV-on-VA.gov-secondary-navigation-conversation-guide.md)
 
-[Prototype](add link here)
+[Prototype](https://sketch.com/s/02430c9f-e4cb-4945-b7bb-6ec2f81a0bd7/a/g1ELlLr/play)
 
 
 ## Recruitment
@@ -95,7 +95,6 @@ Primary criteria (must-haves)
 * 2-3 times a month *(Qualify)*
 * more than 3 times a month *(Qualify)*
 
-
 ## Timeline
 - Submit for approval 10/30
 - Kick-off 11/1
@@ -106,30 +105,35 @@ Primary criteria (must-haves)
 - Pilot #1: 
 
 ### Research sessions
-* Planned dates of research: 
+* Planned dates of research: 11/20/2023, 11/21/2023, 11/22/2023, 11/24/2023
+* Due to Thanksgiving week, if you can't fill all interviews on those dates, we will take interviews on 11/27/2023. 
 
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 30 minutes
 
 ### Availability
-Please schedule only 10 interviews per week. 
-
+Please schedule no more than 3 interviews per day. 
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
-
+11/20/2023        | 10:30AM - 12:30AM, 3:00PM - 6:00PM
+11/21/2023        | 10:30AM - 5:00PM
+11/22/2023        | 10:30AM - 5:00PM
+11/24/2023        | 10:30AM - 5:00PM
+11/27/2023        | 10:30AM - 5:00PM
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 
 - Alternating Moderators: Jenny Wang (Yizhen.Wang@va.gov) 
-- Research guide writing and task development: 
+- Research guide writing and task development: Jenny Wang (Yizhen.Wang@va.gov) 
 - Participant recruiting & screening: Perigean
-- Project point of contact: 
+- Project point of contact: Jenny Wang (Yizhen.Wang@va.gov), Lois Lewis (no VA email yet), Coulton Bunney (coulton.bunney@va.gov)
 - Participants for the pilot test: 
 - Note-takers: 
 - Observers: to sign up via the sign-up list. 
 
 ## Approvals
-- Reviewed and approved by  on 2023
+- Reviewed and approved by Lois Lewis on
+- 
