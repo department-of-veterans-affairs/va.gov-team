@@ -122,14 +122,14 @@ Generated using VA [maximum variation sampling](https://github.com/department-of
 - 10/09 - 10/13 / Update documentation based on feedback
 - 10/26 / Prototype complete with midpoint review
 - 10/27 / Update documentation to reflect MVP changes
-- 10/27 / Submit for [collaboration cycle research review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/research-review)
-- 10/31 / Collaboration cycle research review done, update to reflect feedback
-- 11/01 / Start recruitment with Perigean
-- 11/02 / Perigean kick-off call
-- 11/03 / Complete pilot session
-- 11/08 - 11/16 / Conduct interviews
-- 11/15 - 12/05 / Analysis and reporting
-- 12/06 / Final presentation
+- 10/30 / Submit for [collaboration cycle research review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/research-review)
+- 11/01 / Collaboration cycle research review done, update to reflect feedback
+- 11/02 / Start recruitment with Perigean
+- 11/03 / Perigean kick-off call
+- 11/06 / Complete pilot session
+- 11/09 - 11/17 / Conduct interviews
+- 11/20 - 12/06 / Analysis and reporting
+- 12/08 / Final presentation
 
 Timeline is an estimation and will be updated as dependencies clear. Some dependencies that can impact this timeline include:
 - Prototype completion
