@@ -1,34 +1,17 @@
 # Login.gov Organic Adoption Product Outline
 ---
 
-## Overview
-The solution aims to consolidate user authentication across all VA products and services by adopting Login.gov as the primary Credential Service Provider (CSP).
-
 ## Problem Statement
 
-VA users face a fragmented authentication process across different services, leading to confusion and a cumbersome login experience. Additionally, using multiple login systems presents security risks and challenges for maintaining robust security measures. How might we streamline the authentication process for VA services to improve user experience, enhance security, and simplify access?
+The Login.gov adoption team aims to consolidate the pathways to sign-in to VA.gov and prioritize Login.gov as the preferred credential option while eliminating duplicative and non-compliant legacy credentials. Veterans will be informed of the Login.gov credential option as well as educated through multi-channel communication on how to create a Login.gov credential. The consolidation of login credential options ensures a more secure process for Veterans, as well as reduces roadblocks and pain points for Veterans trying to access their benefits and services. 
 
-## Proposed Solution
-
-The adoption of Login.gov as a primary Credential Service Provider (CSP) for accessing all VA products and services aims to improve the user experience and reduce the burden on users. This solution will enable users to securely access all VA services with a single set of credentials, eliminating the need for multiple logins and associated complexities. This adoption will also improve security measures and protect users' information, by consolidating the login process and simplifying the process of accessing VA products and services.
-
-## User Groups
-* Users of VA digital tools
-
-## Key Features
-* Implementation of Login.gov (CSP) as a centralized single sign-on solution for accessing all VA products and services
-* Integration with existing VA digital tools
-* Streamlined login process for users
-* Enhanced security measures to protect users' information
+## Vision
+* One sign-in to access all products and services through either a “public” (Login.gov) or “private” (ID.me) credential option for VA.gov.
+* All users will migrate from legacy MHV and DS Logon credentials to Login.gov and/or ID.me credentials.
+* Veterans will be informed and empowered to create either a Login.gov and/or ID.me credential through a multi-channel communication campaign with in-person options to create an account.
 
 ## Desired User Outcomes
-- A unified and streamlined login experience across all VA services
-- Reduced confusion and frustration related to multiple login credentials
-- Enhanced security and trust in the VA's authentication process
-
-## Undesired User Outcomes
-- Users facing technical difficulties or barriers during the transition to the new CSP
-- Negative impact on user experience due to potential system outages or issues
+A Veteran user will have more seamless and secure access to VA services as well as other government agencies that use Login.gov. Their accounts and experience will be more secure and will help them accomplish their tasks more efficiently.
 
 ## Desired Business Outcomes
 - Increase the speed of implementation of the CX EO, “the deprecation of outdated and duplicative credentials” represented by MHV and DS Logon. 
@@ -38,8 +21,31 @@ The adoption of Login.gov as a primary Credential Service Provider (CSP) for acc
 - Improved security measures across all VA products and services
 - Increased user satisfaction and trust in the VA's digital platforms
 
-## Undesired Business Outcomes
-- Resistance or pushback from internal stakeholders during the adoption process
+## Use Cases
+- As a person who accesses VA.gov, I want to use modern and secure Credential Service Providers (CSPs) so that I can ensure that my information is safe when accessing VA services.
+- As a person who accesses VA.gov, I want an easy and seamless experience when using a Credential Service Provider so that I can access my information and VA services. 
+- As a person who accesses VA.gov, I want to be informed and educated about the need to change my credentials or start using Login.gov credentials so I understand why I have to switch.
+- As a VA.gov user, I want to know who I can go to for help in order to answer questions or create a Login.gov credential so I can complete the task with minimal frustration.
+
+## Standards of Practice
+Ensure adherence to the following directives and guidelines for identity verification:
+ [VA’s 6510 directive](https://www.va.gov/vapubs/viewPublication.asp?Pub_ID=824&FType=2)
+[NIST 800-63](https://csrc.nist.gov/pubs/sp/800/63/4/ipd)
+
+- Our work will be guided by our [vision, mission, and north star objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision).
+- Our work will put Veterans first.
+- Our work will consider the full Veteran experience — from logged out to logged in, from online to offline.
+- When we know information concerning Veterans, we'll elevate it and present it to them in a way that helps them understand their experience and complete tasks.
+- Our work will employ user experience research, human-centered design, a trauma-informed approach, and risk management procedures to ensure all Veterans are supported in the digital migration.
+- We will work to grow the design system so it better accommodates authenticated tools, flows, and use cases.
+
+
+## Potential Solutions
+- Outreach through multiple channels to existing Login.gov users that they’ll need to use Login.gov as their primary account.
+- Outreach through multiple channels to existing legacy credential users that they’ll need to create and start using Login.gov as their primary credential.
+- Veterans visiting VAMCs will be able to complete sign up and verification for a Login.gov account.
+- Identity verifiers and proofing agents, such as MHV coordinators or VHIC Associates, will be able to verify a Veteran’s identity through an in-person visit.
+
 
 ---
 ## Measuring Success
