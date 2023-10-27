@@ -8,10 +8,10 @@
     * The cartography team solicits feedback / reaches out to identify if any changes should be made as tools progress into further phases.
 * Additional links (3 columns at bottom of page)
   *  My VA health benefits
-    * This is primarily static content that will not change much - it points to community care resources and benefits that don't fall require or fall under healthcare coverage explicitly (i.e. Mental health, Dental care)
+     * This is primarily static content that will not change much - it points to community care resources and benefits that don't fall require or fall under healthcare coverage explicitly (i.e. Mental health, Dental care)
   * More resources and support
-    * Unsure of history of these links or likelihood of change to this list 
+    * _Unsure of history of these links or likelihood of change to this list_
   * Spotlight links
-    * Right now, update requests to our spotlight links come via email request to PO Patrick Bateman and are pushed into the team's backlog as tech debt.
-    * Seems to happen on quarterly basis
     * These links are populated via an engineer or technical-minded person editing mhv/landing-page/utilities/data/index.js, where the landing page links are defined. Back in March 2023, there was no identified method to gather these automatically (the content is not created via RSS), hence the manual update process.
+    * Right now, update requests to our spotlight links on the VA.gov health portal landing page come via email request to PO Patrick Bateman and are pushed into the team's backlog as tech debt from there.
+    * Frequency: seems to happen on quarterly basis
