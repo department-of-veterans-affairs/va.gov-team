@@ -2,7 +2,7 @@
 - **Study Name:** Debt Resolution: Streamlined Waiver
 - **Study Dates:** October 24 - November 3, 2023
 - **Study Research Lead:** Charlotte Cesana
-- **A11y Collaborators:** Sara and SK
+- **A11y Collaborators:** Sara and SK (along with Angela from MHV)
 - **Related Docs:** Link to [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/research-plan.md) and [communication guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/conversation-guide.md)
 - **Ticket Links:** EPIC and/or [CAIA research assistance request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62881)
 
