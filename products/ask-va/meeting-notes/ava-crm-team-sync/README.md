@@ -1,3 +1,36 @@
+## Meeting Notes for CRM Sync on 10/26/2023
+
+Focused on `/ping`; Baseline analytics strategy
+
+### Attendees:
+
+* **AVA FE Team:** Khoa, Joe, Jacob, Eddie, Ruchi
+* **AVA CRM Team:** JD, Chris, Jamie, Bharat, 
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+1. The `/ping` endpoint will be the focus to make sure that we can get our calls from va.gov to ask.va.gov and back.
+2. Rather than dump tons of data from the App Insights log, Joe and Jacob will request access to querythe data directly.
+
+### Action Items:
+
+- [X] ~Joe to update Thursday meetings to use Teams moving forward.~
+- [ ] Joe to document the `sec_id` -> `ICN` decision in a GitHub issue.
+- [ ] Becky to touch base with Kathleen on military information fields this week.\
+   Check that fields won’t affect routing / system.\
+   Draft email.
+- [X] ~Bharat - send out a briefing of the lower environment~
+- [ ] Joe and Jacob to request zero tokens and access to the appropriate Azure resources.\
+   They will follow up with the support team and JD as needed for information on the resources to get access.
+- [X] ~Joseph Duty to send API credentials via secure VA email.~
+- [X] ~Joseph Duty to send code snippet on calling out to the APIs.~
+- [ ] [Hold after convo with Kathleen] Communicate to business teams about military information.\
+   Send out email in tandem (Kathleen and Becky) to AVA distribution email
+
+
+---
+
 ## Meeting Notes for CRM Sync on 10/23/2023
 
 `sec_id` potential issues; AVA data questions
