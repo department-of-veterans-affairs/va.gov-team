@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), PACT Act Wizard, Sitewide Public Websites**
 
-Date: 10/26/2023
+Date: 10/27/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
