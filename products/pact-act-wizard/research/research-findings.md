@@ -346,7 +346,7 @@ The other 2 participants went to the VA.gov home page. One typed into the search
 
 ### D. Participants shared feedback about the VA disability claims process in general
 One participant (and also one pilot participant) described negative experiences in the past with **VA not believing that medical conditions are linked to their service**. 
-
+ 
 > *"Initially, the first 2 exams I had back in 2011 and 2012. They were telling me no, you're fine, you don't fall under this. As the years went by...I knew I did. But I had to go back multiple times. I think that was the more frustrating part...They were saying no no no, and then I had to go back just for them to say okay, yeah we were wrong: You do fall under that...It was over a decade of symptoms and finally they said, oops, yeah, we found [a] correlation" (p2).*
 
 This same participant advised against telling the doctor that you're "fine" when a doctor asks how you're doing.
