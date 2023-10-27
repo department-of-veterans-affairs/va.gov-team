@@ -104,7 +104,7 @@ Primary criteria (must-haves)
 - Synthesize and analysis week 11/27 - 12/1
 
 ### Prepare
-- Pilot #1: 
+- Pilot #1: Haven't rescheduled yet, but it'll probably be during the week of 11/6. 
 
 ### Research sessions
 * Planned dates of research: 11/20/2023, 11/21/2023, 11/22/2023, 11/24/2023
@@ -128,12 +128,12 @@ Team Availability | Time Slots (ET)
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 
-- Alternating Moderators: Jenny Wang (Yizhen.Wang@va.gov) 
+- Alternating Moderators: Jenny Wang (Yizhen.Wang@va.gov), Lois Lewis
 - Research guide writing and task development: Jenny Wang (Yizhen.Wang@va.gov) 
 - Participant recruiting & screening: Perigean
 - Project point of contact: Jenny Wang (Yizhen.Wang@va.gov), Lois Lewis (no VA email yet), Coulton Bunney (coulton.bunney@va.gov)
 - Participants for the pilot test: 
-- Note-takers: 
+- Note-takers: Jenny Wang (Yizhen.Wang@va.gov), Lois Lewis
 - Observers: to sign up via the sign-up list. 
 
 ## Approvals
