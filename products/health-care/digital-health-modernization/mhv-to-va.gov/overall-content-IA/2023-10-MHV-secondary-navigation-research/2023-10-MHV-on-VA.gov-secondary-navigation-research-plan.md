@@ -36,7 +36,7 @@ This research will inform us how Veterans navigate health tools on MHV on VA.gov
 
 * Users want to be able to navigate every part of MHV on VA.gov easily regardless of where they are.
 * Mobile users will likely struggle with current secondary navigation because "in this section" is not noticeable.
-* It might be hard to differentiate primary from secondary navigation.
+* Users might have trouble differentiating the primary menu from the secondary menu.
 * Users might want to click on "VA.gov" home when they want to get back to the MHV landing page because the MHV landing page link is hidden.
 * Users might only rely on secondary (section) navigation and overlook breadcrumbs and direct links on the pages that take them to other tools. 
 
