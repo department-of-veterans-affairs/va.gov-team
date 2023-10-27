@@ -143,7 +143,7 @@ We will use Perigean to recruit participants into cohorts needed for an unmodera
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
 |***Benefits***  |        |        |        |        |        |        |        |        |      
 |Health care     |  0     |   0    |    0   |    0   |      0 |    0   |   0    |  9     |    
-|Disability      |  0     |   0    |    0   |    0   |   0    |     0  |   0    |  9     |    
+|Disability      |  0     |   0    |    0   |    0   |   0    |     0  |   0    |  5     |    
 |       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
 |***Cognitive Impairment and/or Functional Disabilities***  |        |        |        |        |        |        |        |        |      
 | Traumatic Brain Injury (TBI)                                 |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
@@ -162,7 +162,7 @@ We will use Perigean to recruit participants into cohorts needed for an unmodera
 
 ### Screener question cohort 1-7
 1. Are you currently enrolled in VA health care benefits?
-   	- Yes *disqualify*
+   	- Yes *(disqualify)*
    	- No *(see if fit in cohort 1-7 criteria)*
 
 
