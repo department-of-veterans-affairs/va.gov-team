@@ -1,3 +1,5 @@
+Final Project Name - Proof of Veteran Status 
+
 Veterans would benefit from an easy-to-access official Veteran ID card to use for receiving discounts and other private-sector benefits. There is currently no simple way to attain an ID like this. The current processes are cumbersome and long and not well known by Veterans. A widely accepted Veteran ID within the mobile app could prove a very useful feature for Veterans and greatly increase usage of the app.
 
 During work, it was identified that this does not necessarily need to be a card thus removed card from the original project name. 
