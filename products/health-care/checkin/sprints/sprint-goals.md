@@ -116,7 +116,7 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65418)
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Create Card Sort Activity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67163)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Complete Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67164)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Content] Write action link text for file a BT claim for appts list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67737)
+       - ~![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Content] Write action link text for file a BT claim for appts list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67737)~
             - No longer needed 
        - ![check3](https://user-images.githubusercontent.com/86678742/233169091-a2f98cfb-4500-4524-b367-9a9e53e89223.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Content] Create content for filing a claim for a specific appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67734)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**   
