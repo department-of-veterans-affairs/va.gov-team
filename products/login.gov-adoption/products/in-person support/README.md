@@ -11,4 +11,10 @@ The draft revision 4 of NIST 800-63 is indicating that an in-person proofing opt
 
 How might we meet Veterans where they are and create a means for Veterans to complete identity verification in person?
 
+## Current Status
+
+We are building an application from the ground up that supports Login.gov users to opt into in person proofing after they are prompted to verify. For our pilot, our target population include veterans who have had a Login.gov account but who have not yet verified their accounts. In addition to the veteran facing application, we are also building screens so that proofing agents may take Veterans through all verifications steps needed to upgrade to an IAL2 account. 
+
+We have created a prototype of our application in Figma using USWDS and Login.gov components since long term this will be a proofing solution for all Login.gov users. We are planning out usability studies in advance of pilot implementation and an observational onsite study.
+
 
