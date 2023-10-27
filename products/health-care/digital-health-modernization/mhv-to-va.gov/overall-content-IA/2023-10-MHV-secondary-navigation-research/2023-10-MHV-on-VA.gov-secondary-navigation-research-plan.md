@@ -2,7 +2,7 @@
 
 ## Background
 
-As we move My HealtheVet (MHV) to VA.gov, we discover that there are problems with the current VA.gov secondary navigation system. It is not only inaccessible and unintuitive but also doesn't support complex navigations within all the tools of the MHV on VA.gov. This study aims to give us more context to those problems from Veterans' perspectives and understand what aspects of primary and secondary navigations are confusing to Veterans by looking at how they use tools within MHV on VA.gov when completing health management tasks. 
+As we move My HealtheVet (MHV) to VA.gov, we want to know if the current VA.gov secondary navigation and breadcrumbs work on MHV on VA.gov and how we could improve navigational strategies if they don't work. This study aims to give us more context as to how Veterans would use the current secondary navigation and breadcrumbs within the MHV on VA.gov when completing health management tasks. 
 
 ### OCTO Objectives
 This research supports the following OCTO objectives: 
@@ -33,7 +33,7 @@ This research will inform us of users' pain points when using the current and th
 * In what situations might a user want to jump directly from one tool to another? 
 
 ### Hypotheses 
-* Users want to be able to jump from any part of MHV on VA.gov back to the MHV on the VA.gov landing page. They will do this by clicking on the VA logo at the top left of the website. 
+* Users want to be able to jump from any part of MHV on VA.gov back to the MHV on the VA.gov landing page. 
 * Users expect to be able to directly navigate from a child (or sub-tool, e.g. Sent of Secure messages) of a tool to a child of another tool.
 * Mobile users will default to using the "menu" button in the primary navigation bar when trying to navigate from one part of MHV on VA.gov to another.
 * Mobile users will rarely use breadcrumbs to navigate. 
