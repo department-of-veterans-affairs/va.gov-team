@@ -8,6 +8,7 @@ The four main sections are:
 - Household financial information
 - Insurance information
 - Review
+
 This MVP effort will go through the collaboration cycle and this study will happen post the midpoint review. 
 
 ### What problem is your product trying to solve?
