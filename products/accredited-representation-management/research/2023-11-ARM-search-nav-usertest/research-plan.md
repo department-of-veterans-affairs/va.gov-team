@@ -139,7 +139,7 @@ Timeline is an estimation and will be updated as dependencies clear. Some depend
 
 ### Prepare
 When will the thing you are testing be finalized? 10/26/2023
-Required 1 week prior to testing and have [midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/research-review) completed.
+- Required 1 week prior to testing and have [midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/research-review) completed.
 
 Required: please indicate the date and name of a mock participant for a pilot session.
 - PUMPKIN Pilot participant email: TBD
