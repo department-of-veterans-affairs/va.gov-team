@@ -81,7 +81,7 @@ In the wizard, participants were first **asked when they served, and their answe
   - If served *1990 or later*, ask burn pit questions
   - If served *1989 or earlier*, ask Agent Orange, Radiation, and Camp Lejeune questions
   - If served *during both time periods*, ask ALL of the above questions
-- If answered "yes" to a burn pit question, skip the rest of the burn pit questions. Similarily, if answered "yes" to an Agent Orange question, skip the other Agent Orange questions. 
+- If answer "yes" to a burn pit question, skip the rest of the burn pit questions. Similarily, if answer "yes" to an Agent Orange question, skip the other Agent Orange questions. 
 - Based on responses to the above questions, show one of the following results pages:
   - *VA benefit eligibility* (can't tell if you're eligible)
   - *Camp Lejeune* (may be eligible but not under PACT Act)
@@ -256,7 +256,7 @@ I've heard horror stories, people trying to get claims and the time investment t
 #### RECOMMENDATIONS:
 11. Consider where to share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
 1. Consider where to share this finding *(Laura Flannery? other accessibility specialists?*): One participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[Laura hasn't heard this feedback before, but this is a new approach that hasn't been tested before.]*
-8. *(#8 in the Recommendations section)* Consider how we might better support people who already have VA disability and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
+8. *(#8 in the Recommendations section)* Consider how we might better support people who already get VA disability compensation and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
 
 ### 4. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect*
 
@@ -315,7 +315,7 @@ One participant **would have tried to convince his dad to apply** for benefits u
 > *"If Dad were still alive today, I would have tried to convince him to have gone through this...We all know that when those guys came back [from Vietnam], they were treated like dirt...and he didn't want anything to do with the military...The VA today and the way the PACT Act is worded, I think if he was alive today, he would have been convinced after a lot of talking to apply...Thank goodness that today we are recognizing what those guys went through" (p4).*
 
 #### RECOMMENDATIONS:
-15. Consider how we might address participant feedback about misunderstanding the Sept. 30 deadline. *(Danielle plans to share with OPIA for their outreach work.)*
+15. Consider how we might address participant feedback about misunderstanding the Sept. 30 deadline. *[Danielle plans to share with OPIA for their outreach work.]*
 9. *(#10 in the Recommendations section)* Consider how we might address participants' questions and concerns about applying for benefits under the PACT Act:
      1. Are PACT Act benefits different from regular disability compensation?   
      1. Should I include conditions that aren't presumptive? 
@@ -393,7 +393,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 1. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to better understand how to answer.
 1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, such as "neutral zone".
 1. Consider how we might indicate where to find the list of presumptive conditions while  reading the definition presumptive conditions on the R1-1 page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
-1. Consider how we might better support people who already have VA disability and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
+1. Consider how we might better support people who already get VA disability compensation and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
 1. Consider how we might address participants' questions and concerns about eligibility for benefits under the PACT Act:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
      1. Whether you must have a disability in order to get compensation *vs.* were just in a specific location
