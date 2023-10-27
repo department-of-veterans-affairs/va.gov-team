@@ -103,16 +103,18 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 - At least 2 participants who are Black
 - At least 2 participants who are Hispanic 
 
+
 For all:
-- Have you seen a healthcare provider in a VA medical center or other VA healthcare facility in the last 12 months? _Response options: yes or no (Answering yes would qualify the participant.)_
-OR
-- Are you currently enrolled in VA health care benefits? _Response options: yes or no (Answering yes would qualify the participant.)_
+1. Are you currently enrolled in VA health care benefits?
+   	- Yes *(Qualify)*
+   	- No *(Disqualify)*
+
 
 For recruiting 2 mobile users:
-- Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet.  _Response options: yes or no (Answering yes would qualify the participant.)_
+1.  Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet.          - Yes *(Qualify)*
+    - No *(Disqualify)*
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+
 
 ## Timeline
 November 2023
