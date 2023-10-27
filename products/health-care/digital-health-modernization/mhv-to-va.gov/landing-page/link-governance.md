@@ -8,7 +8,9 @@
     * The cartography team solicits feedback / reaches out to identify if any changes should be made as tools progress into further phases.
 * Additional links (3 columns at bottom of page)
   *  My VA health benefits
+    * This is primarily static content that will not change much - it points to community care resources and benefits that don't fall require or fall under healthcare coverage explicitly (i.e. Mental health, Dental care)
   * More resources and support
+    * Unsure of history of these links or likelihood of change to this list 
   * Spotlight links
     * Right now, update requests to our spotlight links come via email request to PO Patrick Bateman and are pushed into the team's backlog as tech debt.
     * Seems to happen on quarterly basis
