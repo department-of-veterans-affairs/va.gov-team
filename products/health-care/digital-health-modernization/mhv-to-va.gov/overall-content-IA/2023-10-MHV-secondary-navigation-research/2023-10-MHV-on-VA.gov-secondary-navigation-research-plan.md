@@ -98,8 +98,8 @@ Primary criteria (must-haves)
 ## Timeline
 - Submit for approval 10/30
 - Kick-off 11/1
-- Interview week 11/1 - 11/10
-- Synthesize and analysis week 11/13 - 11/17 (If, for any reason, it's delayed, the latest to get this study done is the last week of November.)
+- Interview week 11/20 - 11/24
+- Synthesize and analysis week 11/27 - 12/1
 
 ### Prepare
 - Pilot #1: 
