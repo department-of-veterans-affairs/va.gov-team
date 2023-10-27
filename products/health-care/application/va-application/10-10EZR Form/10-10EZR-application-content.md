@@ -24,7 +24,7 @@ Pages listed below **Need to include URL**
 
 [h2] What to know before you fill out this form
 
-[p] [bold] **You can update this household financial information:**
+[p] You can update this household financial information:
 
 [ul]
 - Your marital status
@@ -73,7 +73,7 @@ For UNAUTHETHICATED:
 [button primary] Sign in to start your form
 
 ------------------------------------------------------------------------------
-For AUTHETHICATED, ENROLLED STATUS: 
+For AUTHENTICATED, ENROLLED STATUS: 
 
 [component alert info]
 
