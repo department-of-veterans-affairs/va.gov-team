@@ -10,6 +10,14 @@ The concept of registration and enrollment, if they are steps in the process or 
 
 Looking at this from the perspective of registration reasons as scenarios Veterans may have when applying for health care benefits and completing a 10-10EZ, we want to learn the paths taken within VA.gov and if the Veteran reports going to the existing application or another location on the website.
 
+**Registration reasons scenarios for this test**
+- Service Connected Only
+- C&P Disability Benefits Exam
+- Mental health care (Other)
+- Marriage/Family counseling
+- ART/IVF
+
+
 
 - [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration)
 
@@ -63,13 +71,6 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 - Do Veterans expect to get only the [registration reason] they signed up for or more health care benefits in their application? 
 
 
-**Registration reasons scenarios for this test**
-- Service Connected Only
-- Health benefits when over 50% service connected disability care
-- C&P Disability Benefits Exam
-- Mental health care (Other)
-- Marriage/Family counseling
-- ART/IVF
 
 
 ### Hypothesis
