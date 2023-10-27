@@ -22,5 +22,12 @@ jobs:
         with:
           node-version: '14'
 
-      - name: Run  script
+      - name: Setup Yarn
+        shell: bash
+        run: npm i -g yarn
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Run script
         run: node ./scripts/github-actions/create-cc-completed-ticket.js
