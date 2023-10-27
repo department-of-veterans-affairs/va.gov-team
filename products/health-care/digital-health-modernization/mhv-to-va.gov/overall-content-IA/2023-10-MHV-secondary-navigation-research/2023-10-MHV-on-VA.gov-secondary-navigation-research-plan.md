@@ -24,13 +24,13 @@ The goal of this study is to help us better understand how Veterans expect to be
 
 ### Outcome
 
-This research will inform us of users' pain points when using the current and the new secondary navigation, which give us ideas on how to improve and iterate on the new design so the secondary navigation can be ready when all the tools are available on MHV on VA.gov in Phase 2. 
+This research will inform us how Veterans navigate health tools on MHV on VA.gov to complete health tasks, which give us a better sense of what works and what doesn't with the current secondary navigational strategies (section navigation and breadcrumbs). For what doesn't work, we are able to use the feedback to help us make improvements to the secondary navigational strategies. 
 
 ### Research questions
 
-* How does the current secondary navigational pattern used across VA.gov align with users’ expectations? 
-* In what situations might a user want to navigate back to the MHV on the VA.gov landing page? 
-* In what situations might a user want to jump directly from one tool to another? 
+* How does the current VA.gov secondary navigational pattern align with Veterans’ expectations for MHV on VA.gov? 
+* In what situations might a Veteran want to navigate back to the MHV on the VA.gov landing page, if they want to go back to the landing page? 
+* In what situations might a Veteran want to jump directly from one tool to another? 
 
 ### Hypotheses 
 * Users want to be able to jump from any part of MHV on VA.gov back to the MHV on the VA.gov landing page. 
