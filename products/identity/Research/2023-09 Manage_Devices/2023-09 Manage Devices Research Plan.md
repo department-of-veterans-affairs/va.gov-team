@@ -3,6 +3,7 @@
 ## Background
 Currently, users are signed out after 30 minutes of inactivity on the VA.gov website on the desktop browser. When using the VA mobile app, a user's session is maintained for 45 days. With the current setup, the risks associated with being signed into multiple devices is minimal. However, once SiS is pushed to production, a user's session on the desktop will also be maintained for 45 days, significantly increasing the security concerns e.g. phishing, malware, and other threats.
 
+[product info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/30ab41e6c605715935e19f185ba3d6530dc55b81/products/identity/Product%20Briefs/Sign%20in%20Service.md)
 
 ### OCTO Objectives 
 
@@ -50,7 +51,9 @@ Remote usability testing will evaluate the prototype with participants. We’ll 
 
 ### Research materials 
 
-- 
+- [prototype](https://www.figma.com/file/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=0-1&mode=design&t=qruKbF1Z413n4Hlt-0)
+- [conversation guide]()
+
 ## Recruitment	
 
 ### Recruitment approach
@@ -74,7 +77,6 @@ All participants:
 - In addition our primary product criteria includes:
    - Must be Veterans
    - Must have signed into VA.gov in the last 6 months, for any reason
-   - 
 
 
 Our primary diversity and inclusion criteria:
@@ -85,17 +87,17 @@ Our primary diversity and inclusion criteria:
 - 2 cognitive disabilities
 
 We've split these into 3 cohorts
-- [Cohort 1: sighted desktop](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/356)
+- [Cohort 1: sighted desktop]()
    - 5 computer (desktop or laptop) users of VA.gov
    - 5 who will join the session on desktop or laptop
    - 1 cognitive disability
    - 1 who self-identifies race as other than white
-- [Cohort 2: sighted mobile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/357)
+- [Cohort 2: sighted mobile]()
    - 5 mobile users of VA.gov
    - 5 who will join the session on mobile
    - 1 cognitive disability
    - 1 who self-identifies race as other than white
-- [Cohort 3: screen reader desktop](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/358)
+- [Cohort 3: screen reader desktop]()
    - 3 screen reader participants
       - at least 1 who is less experienced using screen reader
       - at least 1 who is more experienced using screen reader 
@@ -129,8 +131,7 @@ Screen reader practice session:
 
   
 ### Availability
-- ** **
-- please hold Aug 24th/25th in case of needed make ups sessions, to the extent possible.
+to be finalized
 
 Team Availability | Time (EST)
 ------------------|--------------
@@ -151,11 +152,10 @@ Pilot Session | Time (EST)
 - Project point of contact: Charlye Tran
 - Participant(s) for pilot test: 
 - Accessibility specialist (for sessions where support for assistive technology may be needed): tbd
-- Note-takers: Clayton Zook, Charlye Tran
-- Observers: Tom Black, Mike King 
+- Note-takers: Clayton Zook, Charlye Tran, Josh Matulonis
+- Observers: Tom Black
 - Team member emails:
 clayton.zook@oddball.io
-ajohnson@clarityinnovates.com
 charlye@bluetiger.digital
+josh.matulonis@oddball.io
 thomas.black2@va.gov
-Mike.King@oddball.io
