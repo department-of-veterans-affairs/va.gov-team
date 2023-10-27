@@ -20,6 +20,10 @@ Please add any potential future topics you would like covered below:
 ### - NGrok
 - @dsasser
 
+### 10/30/23 - How to make your Content Model Documentation ride with your code.
+   - Steve Wirt
+   - This is primarily for developers.  Prior to now, Content Model Documents had to be created on prod **AFTER** the code adding a new field/paragraph/content-type/taxon made it to prod.  This is to cover a new process to have it ride with the code. 
+
 ### 10/23/23 - VA Service Taxonomy
 - Dave Pickett
 - The [VA Service Taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/va-service-taxonomy) is a confusing part of the Facilities product portfolio. It is simultaneuously the simplest of our products (very little dedicated code, mostly powered by out of the box Drupal functionality, content updates are infrequent, no dedicated front end to maintain, etc.) and the most complex (source of truth for fields on lots of other content types, governance spans all our stakeholders, small changes can have large downstream impacts, etc.). Tune in to learn about how the VA Service Taxonomy works and how it is key to the long-term vision of the Facilities team.
