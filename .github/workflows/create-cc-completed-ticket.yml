@@ -23,4 +23,4 @@ jobs:
           node-version: '14'
 
       - name: Run  script
-        run: node ../../scripts/github-actions/create-cc-completed-ticket.js
+        run: node ./scripts/github-actions/create-cc-completed-ticket.js
