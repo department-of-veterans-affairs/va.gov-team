@@ -1,12 +1,21 @@
 # List of Frontend/Backend Interactions
 
+## Start Board Appeal Form
+
+  Gets a list of Veteran contact information from the VA profile
+
+| External System(s)   | # of occurences    | Responses  | Outcome / Message
+| -------------------- | ------------------ | ---------- | --------- 
+| -                    | -                  | -          | Starts form. Shows Veteran information
+|                      |                    | Any other  | -
+
 ## Get Veteran Contact Information
 
   Gets a list of Veteran contact information from the VA profile
 
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
-| -                    | 1 per submission   | 200        | Shows Veteran contact information
+| -                    | -                  | 200        | Shows Veteran contact information
 |                      |                    | Any other  | -
 
 ## Get Contestable Issues
