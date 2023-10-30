@@ -46,7 +46,7 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 **Everyone should be able to use Ask VA.** We’ll make all design decisions with accessibility front of mind. For example, we'll avoid designing conditionals or updates that are made to the form *while* the user is still on the page. When we do research we’ll seek to include disabled Veterans, people who use assistive technology, Veterans and dependents, and people who submit a question on behalf of someone else.
 
-**People should be able to use Ask VA on their mobile devices, in addition to their laptop or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context. This is one reason we'll start by asking one thing per page in the form [5](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page). It's also why we'll make it easy to see your messages and responses on one page, avoiding modals or pop-ups.
+**People should be able to use Ask VA on their mobile devices, in addition to their laptop or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context. This is one reason we'll start by asking one thing per page in the form [[5](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)]. It's also why we should make it easy to see messages and responses on one page, and avoid modals or pop-ups.
 
 #### Simple
 
@@ -62,7 +62,7 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 #### Impact
 
-**Everyone has a right to the same experience.** Whether it’s on a different device, browser or using assistive technology, we’ll design a consistent and cohesive user experience for Ask VA.
+**Everyone has a right to the same experience.** Whether it’s on a different device, browser or using assistive technology, we’ll design a consistent and cohesive user experience for Ask VA. Many of our design decisions, like avoiding modals and conditionals that change the page while you're still on it, contribute to building a cohesive and fair experience.
 
 **People should be able to find Ask VA, when they need it.** We'll make sure that existing links to Ask VA transition seamlessly when Ask VA moves to VA.gov. In addition, by moving Ask VA to the contact hub on VA.gov, we'll aim to improve how easy it is to find.
 
