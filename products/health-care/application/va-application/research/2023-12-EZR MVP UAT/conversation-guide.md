@@ -104,7 +104,7 @@ Let’s start with a few warm-up questions.
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
 
 **Participant questions** 
-- Are you able to identify the key points to know before starting the form?
+- Please summarize the most important information you found on the page to prepare for the form.
 - On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the form you are about to begin? - Why did you give it that rating?
 - Do you have any suggestions or feedback for making the page and update process better?
 
