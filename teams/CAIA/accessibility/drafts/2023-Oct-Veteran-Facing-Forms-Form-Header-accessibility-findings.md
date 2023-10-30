@@ -17,7 +17,7 @@
 ## Coverage
 This research fufilled `90`% (`9`/`10`) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
 
-**Original study request: ##**
+**Original study request:#**
 > The purpose of this research was to explore the usability of a simplified form header design for Veterans - particularly those using screen readers
 
 > `50` (`10`) [participants in this study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/research-plan.md#:~:text=Assistive%20Technology%20(AT)) should use a screenreader on a desktop or mobile device
