@@ -1,7 +1,11 @@
 # Research Plan for usability study on 10-10EZR form (Updates to health benefits information), Health Enrollment Team, December 2023
 
 ## Background
-The Health Benefits Update Form (10-10EZR) is a new online version of a currently paper-only form. It's used to update personal, insurance, or financial information for Veterans currently enrolled in health care benefits. Most commonly, this looks like adding or removing a dependent or updating income information. We will be usability testing the MVP version of the new online form to ensure it meets the needs of VA.gov users. The form contains 4 sections, and for MVP, must be completed and submitted in its entirety to be processed.
+The Health Benefits Update Form (10-10EZR) is a new online version of a currently paper-only form. It's used to update personal, insurance, or financial information for Veterans currently enrolled in health care benefits. Most commonly, this includes annual updates for removing a dependent or updating income information for those Veterans who are placed in a Priority Group that requires this. 
+
+We will be usability testing the MVP version of the new online form to ensure it meets the needs of VA.gov users. The form contains 4 sections, and for MVP, must be completed and submitted in its entirety to be processed.
+
+This study will look at the form from the perspective of two cohorts - those with disability ratings over 30% and those without - as we hypothesize these two groups will have very different experiences with this form.
 
 The four main sections are:
 - Veteran information
