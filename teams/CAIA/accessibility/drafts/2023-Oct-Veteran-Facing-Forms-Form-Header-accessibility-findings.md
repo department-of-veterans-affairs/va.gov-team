@@ -1,13 +1,18 @@
 # About this Research Study
-- **Study Name:** Project Name (ex. MHV Authenticated Experience)
-- **Study Dates:** (can be month study was held or specific)
-- **Study Research Lead:**
-- **A11y Collaborators:**
+- **Study Name:** Veteran Facing Forms - Form Header
+- **Study Dates:** October 2023
+- **Study Research Lead:** Rachel Shearer
+- **A11y Collaborators:** Sara, Jamie and SK
 - **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
-- **Ticket Links:** EPIC and/or CAIA research assistance request ticket
+- **Ticket Links:** [Research Support Request #65316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65316)
+    - [Product outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/Product%20Outline.md)
+    - [User flows](https://staging.va.gov/authorization-to-disclose-alternate/introduction)
+    - [Prototype or mockups](https://staging.va.gov/authorization-to-disclose-alternate/introduction)
+    - [Research plan](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/research-plan.md)
+    - [Research conversation guide](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/conversation-guide.md)
 
 # Accessibility Tools Utilized
-`ZoomText` `JAWs` `iOS-VO` (List types of AT covered here)
+`ZoomText` `JAWs` `iOS-VO` `VoiceOver` `SR Microsoft Extension` `TalkBack` `Fusion` 
 
 ## Coverage
 This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
@@ -27,12 +32,15 @@ To best serve the users of VA.gov, we will need to collect the following informa
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
 | _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
+| P10                        |                  |                    SR Microsoft Extension|                 |                      |             |             |
+| P12                       |                  |                 JAWS   |                 |                      |             |             |
+| P13/17                       |                  |        Fusion            |                 |                      |             |             |
+| P19A                        |                  |               VoiceOver     |                 |                      |             |             |
+| P19B                        |                  |       TalkBack             |                 |                      |             |             |
+| P20                       |     10/10/2023             |         ZoomText           |       Advanced          |     Windows                   |        Edge     |     Desktop        |
+| P23                       |   10/12/2023               |         iOS-VO           |         Beginner        |           iOS           |       Safari      |  iPad           |
+| P24                       |  10/12/2023                 |         iOS-VO           |          Advanced       |   iOS                   |     Safari        |        Tablet     |
+| P26                       |     10/16/2023             |         ZoomText           |     Advanced            |       Windows               |    Chrome         | Desktop            |
 
 **Participants who successfully completed sessions: XX**
 
