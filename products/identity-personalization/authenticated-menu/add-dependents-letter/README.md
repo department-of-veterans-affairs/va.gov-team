@@ -115,8 +115,8 @@ Users have trouble finding dependent information and where to download their ben
 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Bounce rate for "**Letters**” |1.98%|2.23%|0.96%||||
-|Bounce rate for "**Dependents**”|0.55%|0.27%|0.89%||||
+|Bounce rate for "**Letters**” |1.98%|2.23%|0.96%|1.33%|0.57%||
+|Bounce rate for "**Dependents**”|0.55%|0.27%|0.89%|0.24%|||
 
 ### Objective #2: Explore using authenticated menu as a place to elevate links to tools.
 
