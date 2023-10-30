@@ -80,7 +80,7 @@ At a high-level, we will:
 #### References
 
 [1] [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/ask-va-phase-1-product-outline.md)
-[2] [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20KPIs.md)
-[3] [VA.gov design system](https://design.va.gov/)
-[4] [VA.gov design principles](https://design.va.gov/about/principles)
-[5] [Notional timeline](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/)
+<br>[2] [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20KPIs.md)
+<br>[3] [VA.gov design system](https://design.va.gov/)
+<br>[4] [VA.gov design principles](https://design.va.gov/about/principles)
+<br>[5] [Notional timeline](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/)
