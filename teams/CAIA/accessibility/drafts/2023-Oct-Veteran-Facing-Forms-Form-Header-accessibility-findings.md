@@ -50,6 +50,7 @@ Add screenshots, images and videos here.
 ### Finding 2: Stepper Confusion & Stage in the Process
 - Feel free to include bullets
 - They can help add some more info
+> “Not sure how many pages I have left because it says 2 of 4, but I was on 2 of 4 already. Basically I have four pages, but I could be on 10 or 3. This would frustrate me. I think I am getting close to the end and these forms are tedious already. That would just annoy me more. I would be thinking I was thoroughly progressing but I am not.  I can't tell if I am in the beginning, middle or end, now. If I go back it will say 2 of 2.” - P10
 
 ### Finding 3: Informing the User: Identifying Progress Completed
 - Feel free to include bullets
