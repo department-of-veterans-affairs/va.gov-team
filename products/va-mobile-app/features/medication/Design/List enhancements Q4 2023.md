@@ -2,7 +2,7 @@
 
 ### Prototype instructions
 
-https://www.figma.com/proto/Si4LF4t8VOv8emdCovv3U3/%F0%9F%94%8D-Prescriptions-2.0---Working---VAMobile?page-id=1499%3A15245&type=design&node-id=1499-15407&viewport=812%2C486%2C0.31&t=gjAhJIZN0xMTxh98-1&scaling=min-zoom&starting-point-node-id=1499%3A15407
+[Figma prototype link for prescription list enhancements] https://www.figma.com/proto/Si4LF4t8VOv8emdCovv3U3/%F0%9F%94%8D-Prescriptions-2.0---Working---VAMobile?page-id=1499%3A15245&type=design&node-id=1499-15407&viewport=812%2C486%2C0.31&t=gjAhJIZN0xMTxh98-1&scaling=min-zoom&starting-point-node-id=1499%3A15407
 
 _In the VA: Health & Benefits mobile app, users have navigated to the Health section. They have selected the Prescriptions feature within the Health section._
 
@@ -35,10 +35,10 @@ When users are in the filter/sort full panel, select the Active filter option, a
 When users are in the filter/sort full panel, select the Pending filter option, and tap the Apply button, they're shown an updated prescriptions list with only those prescriptions that formerly were shown on the Pending tab.
 
 - The list header becomes "Pending refills" with an updated count of prescriptions.
-- The body copy/disclaimer text changes to what was previously shown on the Pending tab (i.e., This list shows refill requests that you have submitted. It also shows refills that the VA pharmacy is processing.).
+- The body copy/disclaimer text changes to what was previously shown on the Pending tab ("This list shows refill requests that you have submitted. It also shows refills that the VA pharmacy is processing.").
 
 #### 5. Users filter by Tracking
 When users are in the filter/sort full panel, select the Tracking filter option, and tap the Apply button, they're shown an updated prescriptions list with only those prescriptions that formerly were shown on the Tracking tab.
 
 - The list header becomes "Refills with tracking" with an updated count of prescriptions.
-- The body copy/disclaimer text changes to what was previously shown on the Pending tab (i.e., This list shows refills with current tracking information available.).
+- The body copy/disclaimer text changes to what was previously shown on the Pending tab ("This list shows refills with current tracking information available.").
