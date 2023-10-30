@@ -226,7 +226,7 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 #### Other Painpoints: Tabbing
 - **Issue Description:** Tabbing with Screen Readers; Users Miss Valuable Content
 - **Desired Outcome:** To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.
-- **Experience standards:** `Category 11` `Issue 22` [link to standard](xxxx)
+- **Experience standards:** `Category 11` `Issue 22` [link to standard]([xxxx](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=22-,WCAG%20SC%204.1.3_AA,-x))
     - Alert and status messages aren't announced without receiving focus.
 - **Defect:** `Not Blocking`
 - **Impact Area:** `A11y`
