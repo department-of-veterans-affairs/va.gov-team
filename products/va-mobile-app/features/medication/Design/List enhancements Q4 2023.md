@@ -14,7 +14,7 @@ When users nagivate to the Prescriptions feature, the mobile app shows their ful
 - We removed the 3 tabs (All, Pending, Tracking).
 
 The default filtering and sorting of the prescriptions list is filtered by All prescriptions and sorted by Status (A to Z). 
-- This ensures that active prescriptions are bubbled up to the top.
+- Sorting by status alphabetically ensures that active prescriptions are bubbled up to the top.
 
 #### 2. Users interacts with new filter/sort
 When users tap on the new combined filter and sort functionality, the mobile app displays a full panel.
