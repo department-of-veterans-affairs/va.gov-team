@@ -133,6 +133,7 @@ Our intended audience for this research are Veterans and we will be using and le
 - Please list the name of the screen reader technology you will use during the session.
     - Response option: text box
 
+
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
@@ -144,7 +145,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research: **November 6 - November 13**
+* Planned dates of research: **December 7 - December 14**
 
 ### Length of sessions
 * Session length: 1 hour
@@ -155,11 +156,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
-| December xx, 2023  	|  11am - 5pm ET 	|
-| December xx, 2023   	|  11am - 5pm ET 	|
-| December xx, 2023   	|  11am - 4pm ET 	|
-| December xx, 2023   	|  10am - 4pm ET 	|
-| December xx, 2023   	|  10am - 4pm ET 	|
+| December 7, 2023    	|  11am - 6pm ET 	|
+| December 8, 2023   	|  11am - 6pm ET 	|
+| December 9, 2023   	|  11am - 6pm ET 	|
+| December 10, 2023   	|  10am - 6pm ET 	|
+| December 13, 2023   	|  10am - 6pm ET 	|
+| December 14, 2023   	|  11am - 6pm ET 	|
 
 
 ## Team Roles	
