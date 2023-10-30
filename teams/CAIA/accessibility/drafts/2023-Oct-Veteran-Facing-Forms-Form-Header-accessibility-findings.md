@@ -15,11 +15,11 @@
 `ZoomText` `JAWs` `iOS-VO` `VoiceOver` `SR Microsoft Extension` `TalkBack` `Fusion` 
 
 ## Coverage
-This research fufilled 90% (9/10) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
+This research fufilled `90`% (`9`/`10`) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
 
 **Original study request: ##**
 
-> 50% (10) [participants in this study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/research-plan.md#:~:text=Assistive%20Technology%20(AT)) should use a screenreader on a desktop or mobile device
+> `50` (`10`) [participants in this study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/research-plan.md#:~:text=Assistive%20Technology%20(AT)) should use a screenreader on a desktop or mobile device
 
 ## Participants
 
@@ -35,13 +35,12 @@ This research fufilled 90% (9/10) of its original request. Given the **limited/a
 | P24                       |  10/12/2023                 |         iOS-VO           |          Advanced       |   iOS                   |     Safari        |        Tablet     |
 | P26                       |     10/16/2023             |         ZoomText           |     Advanced            |       Windows               |    Chrome         | Desktop            |
 
-**Participants who successfully completed sessions: 9/11**
+**Participants who successfully completed sessions:** `9`/`10`
 
-**Examples below:**
-
-
-## Key Findings
+## Key Findings (A11Y Segment)
 Add screenshots, images and videos here.
+
+<details><summary>Toggle to read accessibility-related key findings</summary>
 
 ### Finding 1
 - Feel free to include bullets
@@ -55,6 +54,35 @@ Add screenshots, images and videos here.
 - Feel free to include bullets
 - They can help add some more info
 
+### Finding 4
+- Feel free to include bullets
+- They can help add some more info
+
+### Finding 5
+- Feel free to include bullets
+- They can help add some more info
+
+### Finding 6
+- Feel free to include bullets
+- They can help add some more info
+
+### Finding 7
+- Feel free to include bullets
+- They can help add some more info
+
+### Finding 8
+- Feel free to include bullets
+- They can help add some more info
+
+### Finding 9
+- Feel free to include bullets
+- They can help add some more info
+
+### Finding 10
+- Feel free to include bullets
+- They can help add some more info
+
+</details>
 
 ## User Feedback
 
@@ -88,37 +116,40 @@ Impactful quotes were collected during this study to provide user-specific feedb
 
 </details>
 
-## a11y Recommendations
-Overview summary goes here. 
+## Next Steps: A11Y Recommendations/Considerations
+A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
 
-### If we don't have enough data or research to know...
-Point out the gaps
+### IMPORTANT NOTE ABOUT CAIA
+While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help facilitate a smooth process for your project through the Collaboration Cycle or outside of the Collaboration Cycle.
 
-## Next Steps
-A list of actionable findings, based on time-sensitive, priority needs. Images, videos, links, screenshots and notes provided as deemed approprite. 
+<details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
 
 ### Complete Now
-- x
+#### ISSUE ITEM NAME GOES HERE
+- Issue Description: 
+- Desired Outcome:
+- Experience standard:`Category #` `Issue #`
+- Defect:`Launch Blocking`
+- Impact Area: `A11y` `Content` and/or `IA`
+- Appears on: `Experience Standards` `WCAG` `Common Issues`
+- WCAG: `#.# Link to WCAG`
 ### Complete Soon
-- x
+#### ISSUE ITEM NAME GOES HERE
+- Issue Description: 
+- Desired Outcome:
+- Experience standard:`Category #` `Issue #`
+- Defect:`Depends`
+- Impact Area: `A11y` `Content` and/or `IA`
+- Appears on: `Experience Standards` `WCAG` `Common Issues`
+- WCAG: `#.# Link to WCAG`
 ### Complete Later
-- x
+#### ISSUE ITEM NAME GOES HERE
+- Issue Description: 
+- Desired Outcome:
+- Experience standard:`Category #` `Issue #`
+- Defect:`Not Blocking`
+- Impact Area: `A11y` `Content` and/or `IA`
+- Appears on: `Experience Standards` `WCAG` `Common Issues`
+- WCAG: `#.# Link to WCAG`
 
-## Other considerations and findings 
-
-_A finding that may not be relevant to the study, but worth talking about. Include images as needed._
-
-### List of caught defects and issues
-
-#### Relevant to this team
-- [ ] Description of issue and how to replicate
-
-#### Belongs to other teams
-- [ ] Description of issue and how to replicate
-
-#### Design system
-- [ ] Description of issue and how to replicate
-
-## References
-<a id="1">[1]</a> 
-Citations if needed 
+</details>
