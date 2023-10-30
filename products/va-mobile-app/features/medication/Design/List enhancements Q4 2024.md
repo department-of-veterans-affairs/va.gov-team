@@ -13,14 +13,15 @@ When users nagivate to the Prescriptions feature, the mobile app shows their ful
 - We've combined the filter and sort action into a single tapable tag and placed it below (and therefore closer to) the list header. The placement of this tag closer to the list header becomes important when a user starts interacting with it.
 - We removed the 3 tabs (All, Pending, Tracking).
 
-The default filtering and sorting of the prescriptions list is filtered All prescriptions with the list sorted by Status (A to Z). 
+The default filtering and sorting of the prescriptions list is filtered by All prescriptions with the list sorted by Status (A to Z). 
 - This ensures that active prescriptions are bubbled up to the top.
 
 #### 2. Users interacts with new filter/sort
 When users tap on the new combined filter and sort functionality, the mobile app displays a full panel.
 - This full panel has 2 sections: Filter by and Sort by.
-- The filter options include all prescription/refill statuses (with active statuses grouped together as one option) as well as new pending and tracking options, which were previously shown as tabs on the main screen.
-- The filter options also now include a prescription count in parenthesis next to the filter label. This way a user has an easy way to access how many are in each selection.
+- The filter options include all prescription/refill statuses (with active statuses grouped together as 1 option).
+- The filter options have new pending and tracking options, which were previously shown as tabs on the main screen. We included helper -- taken from previously approved copy -- to exlaim what is included in these options.
+- The filter options also now include a prescription count in parenthesis next to the filter label. This way a user has 1 place to access how many are in each grouping or selection.
 - We added a new sort option: Status (A to Z). We removed the ability to sort by facility name.
 
 #### 3. Users filter by Active
@@ -28,6 +29,7 @@ When users are in the filter/sort full panel, select the Active filter option, a
 
 - The list header becomes dynamic and now says, "Active prescriptions" with an updated count of prescriptions.
 - The body copy/disclaimer text remains the same.
+- Note: The list header will dynamically change based on which filter users choose, with the exception of the Pending and Tracking options.
 
 #### 4. Users filter by Pending
 When users are in the filter/sort full panel, select the Pending filter option, and tap the Apply button, they're shown an updated prescriptions list with only those prescriptions that formerly were shown on the Pending tab.
