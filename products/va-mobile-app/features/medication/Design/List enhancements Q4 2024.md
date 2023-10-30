@@ -20,14 +20,23 @@ The default filtering and sorting of the prescriptions list is filtered All pres
 When users tap on the new combined filter and sort functionality, the mobile app displays a full panel.
 - This full panel has 2 sections: Filter by and Sort by.
 - The filter options include all prescription/refill statuses (with active statuses grouped together as one option) as well as new pending and tracking options, which were previously shown as tabs on the main screen.
+- The filter options also now include a prescription count in parenthesis next to the filter label. This way a user has an easy way to access how many are in each selection.
 - We added a new sort option: Status (A to Z). We removed the ability to sort by facility name.
 
 #### 3. Users filter by Active
-When users are in the filter/sort full panel, select the Active filter option, and tap the Apply button, they'll be shown an updated prescriptions list.
-- 
+When users are in the filter/sort full panel, select the Active filter option, and tap the Apply button, they're shown an updated prescriptions list with only those prescriptions with an active status.
+
+- The list header becomes dynamic and now says, "Active prescriptions" with an updated count of prescriptions.
+- The body copy/disclaimer text remains the same.
 
 #### 4. Users filter by Pending
+When users are in the filter/sort full panel, select the Pending filter option, and tap the Apply button, they're shown an updated prescriptions list with only those prescriptions that formerly were shown on the Pending tab.
 
-
+- The list header becomes "Pending refills" with an updated count of prescriptions.
+- The body copy/disclaimer text changes to what was previously shown on the Pending tab (i.e., This list shows refill requests that you have submitted. It also shows refills that the VA pharmacy is processing.).
 
 #### 5. Users filter by Tracking
+When users are in the filter/sort full panel, select the Tracking filter option, and tap the Apply button, they're shown an updated prescriptions list with only those prescriptions that formerly were shown on the Tracking tab.
+
+- The list header becomes "Refills with tracking" with an updated count of prescriptions.
+- The body copy/disclaimer text changes to what was previously shown on the Pending tab (i.e., This list shows refills with current tracking information available.).
