@@ -100,25 +100,43 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
+At least 12 completed sessions, all Veterans
+
+
 **Primary criteria (must-haves)**
-- All must be currently enrolled in VA health care benefits
-- At least 2 are using a mobile device during the session
-- A mix of disability ratings (from 10%-100%)
-- Diverse mix of age ranges
-- No more than 1 participant with a Bachelor's degree or higher
-- At least 2 participants who are Black
-- At least 2 participants who are Hispanic 
 
-For all:
-- Have you seen a healthcare provider in a VA medical center or other VA healthcare facility in the last 12 months? _Response options: yes or no (Answering yes would qualify the participant.)_
-OR
-- Are you currently enrolled in VA health care benefits? _Response options: yes or no (Answering yes would qualify the participant.)_
+- Enrolled in VA health care
+- At least 3 are using a mobile device during the session
+- At least 2 are using assistive technology
+- A mix of disability ratings (from 0%-100%)
+- At least 2 participants who are biracial
+- At least 2 participants who identify at LGBTQ+
 
-For recruiting 2 mobile users:
-- Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet.  _Response options: yes or no (Answering yes would qualify the participant.)_
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+**Screener Questions for all:**
+- Are you currently enrolled in VA health care benefits?
+   	- Yes *(Qualify)*
+   	- No *(Disqualify)*
+
+**Screener questions for recruiting 3 mobile users:**
+- Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. 
+   	- Yes *(Qualify)*
+   	- No *(Disqualify)*
+  
+**Screener questions for recruiting 2 assistive technology:**
+- Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
+    - Yes *(Qualify)*
+   	- No *(Disqualify)*
+
+- We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
+  - Response options: Beginner, Intermediate, Advanced
+ 
+- Are you willing to join the Zoom session using this assistive technology?
+    - Yes *(Qualify)*
+   	- No *(Disqualify)*
+
+- Please list the name of the screen reader technology you will use during the session.
+    - Response option: text box
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
@@ -142,16 +160,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
-| November xx, 2023  	|  11am - 5pm ET 	|
-| November xx, 2023   	|  11am - 5pm ET 	|
-| November xx, 2023   	|  11am - 4pm ET 	|
-| November xx, 2023   	|  10am - 4pm ET 	|
-| November xx, 2023   	|  10am - 4pm ET 	|
-| November xx, 2023  	|  11am - 5pm ET 	|
-| November xx, 2023   	|  11am - 5pm ET 	|
-| November xx, 2023   	|  11am - 4pm ET 	|
-| November xx, 2023   	|  10am - 4pm ET 	|
-| November xx, 2023   	|  10am - 4pm ET 	|
+| December xx, 2023  	|  11am - 5pm ET 	|
+| December xx, 2023   	|  11am - 5pm ET 	|
+| December xx, 2023   	|  11am - 4pm ET 	|
+| December xx, 2023   	|  10am - 4pm ET 	|
+| December xx, 2023   	|  10am - 4pm ET 	|
+
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
