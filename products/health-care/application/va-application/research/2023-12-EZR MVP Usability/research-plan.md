@@ -23,7 +23,7 @@ Veterans who want to provide updates to their personal information for increasin
 The product will live in the My Health section of VA.gov, but also be referenced by other static, informational pages on VA.gov, outside of the My Health section.
 
 ### What is Veterans’ familiarity with this tool?
-This is a new product and form, although the first version of this form will be very similar to the 10-10EZ in terms of questions asked and content.
+The EZR is a new online form. Veterans are most likely familary with the 10-10EZ in terms of questions asked and content, however the 10-10EZR is very similar but for updating after enrollment. 
 
 ### OCTO Priorities 
 
@@ -45,8 +45,8 @@ This product fits into the [Veteran journey](https://github.com/department-of-ve
 
 ## Research Goals	
 - Goal 1: **Pre-filled information** - Test the usability of the prefilled form fields to see if Veterans understand what information needs to be updated, that the information is prefilled and information can be changed.
-- Goal 2: **Financial information update** - Test the usability of the Household/financial information section of the form to see if Veterans understand what they need to provide since that section is never prefilled.
-- Goal 3: **Financial information update notification** - Determine how a Veteran knows or would like to know they need to update the household/financial section.
+- Goal 2: **Financial information update** - Test the usability of the household financial information section of the form to see if Veterans understand what they need to provide since that section is never prefilled. 
+- Goal 3: **Financial information update notification** - Determine how a Veteran knows or would like to know they need to update the household financial section.
 
 ### Outcome
 These learnings will allow us to evaluate for additional gaps during the rollout of new form to production. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed in future interations.
@@ -98,12 +98,15 @@ For moderated usability tests:
 ### Recruitment approach
 Our intended audience for this research are Veterans and we will be using and leveraging Perigean to recruit participants.
 
-**Veterans: Requesting 12**
+**Veterans: Requesting 24 / completed 14**
+
+Cohort 1: Requested 12 / completed 7
+Cohort 2: Requdested 12 / completd 7
+
 
 ### Recruitment criteria
 
 **Primary criteria (must-haves)**
-
 - Enrolled in VA health care
 - At least 3 are using a mobile device during the session
 - At least 2 are using assistive technology
@@ -112,17 +115,17 @@ Our intended audience for this research are Veterans and we will be using and le
 - At least 2 participants who identify at LGBTQ+
 
 
-**Screener Questions for all:**
+**Screener questions for all participants / both cohorts:**
 - Are you currently enrolled in VA health care benefits?
    	- Yes *(Qualify)*
    	- No *(Disqualify)*
 
-**Screener questions for recruiting 3 mobile users:**
+**Screener questions for recruiting 3 mobile users - either cohort:**
 - Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. 
    	- Yes *(Qualify)*
    	- No *(Disqualify)*
   
-**Screener questions for recruiting 2 assistive technology:**
+**Screener questions for recruiting 2 assistive technology - either cohort:**
 - Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
     - Yes *(Qualify)*
    	- No *(Disqualify)*
@@ -138,6 +141,20 @@ Our intended audience for this research are Veterans and we will be using and le
     - Response option: text box
 
 
+Cohort 1:
+**All participants**
+- Do you have a VA service-connected disability rating of 30% or higher?
+    - Yes *(Qualify)*
+    - No *(Disqualify)*
+
+
+Cohort 2:
+**All participants**
+- Do you get VA disability compensation for a service-connected disability rating?
+    - Yes *(Disqualify)*
+    - No *(Qualify)*
+
+
 ## Timeline
 
 ### Prepare
@@ -148,7 +165,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research: **TBD - December 7 - December 14**
+* Planned dates of research: **TBD - December 7 - December 19**
 
 ### Length of sessions
 * Session length: 1 hour
@@ -165,6 +182,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 | December 10, 2023   	|  10am - 6pm ET 	|
 | December 13, 2023   	|  10am - 6pm ET 	|
 | December 14, 2023   	|  11am - 6pm ET 	|
+| December 15, 2023   	|  11am - 6pm ET 	|
+| December 18, 2023   	|  11am - 6pm ET 	|
+| December 19, 2023   	|  11am - 6pm ET 	|
 
 
 ## Team Roles	
