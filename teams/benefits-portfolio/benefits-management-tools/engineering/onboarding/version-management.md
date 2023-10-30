@@ -23,10 +23,10 @@ If you have done the above, you can run `brew install asdf` to install `asdf`.
 `asdf` relies on a plugin system, so adding compatibility for new languages is as simple as adding a new plugin. We will need the `nodejs` and `ruby` plugins
 ```sh
 # nodejs
-asdf add nodejs
+asdf plugin add nodejs
 
 # ruby
-asdf add ruby
+asdf plugin add ruby
 ```
 
 ### Installing the required `nodejs` version
