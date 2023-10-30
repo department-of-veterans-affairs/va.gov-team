@@ -181,7 +181,7 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 
 `These need added to the below section.`
 
-- To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.
+- ~To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.~
 - "Chapter" was confusing. Consider testing "section" or "part" for clarity. Consider using percentages as well.
 - Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
 - Many users assumed that their data would be saved unless we informed them otherwise.
@@ -222,6 +222,14 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - **Defect:** `Not Blocking`
 - **Impact Area:** `A11y`
 - **Appears on:** `Experience Standards` `WCAG`
-- **WCAG:** `3.2.2` `4.1.3?`
-
+- **WCAG:** `3.2.2` 
+#### Other Painpoints: Tabbing
+- **Issue Description:** Tabbing with Screen Readers; Users Miss Valuable Content
+- **Desired Outcome:** To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.
+- **Experience standards:** `Category 11` `Issue 22` [link to standard](xxxx)
+    - Alert and status messages aren't announced without receiving focus.
+- **Defect:** `Not Blocking`
+- **Impact Area:** `A11y`
+- **Appears on:** `Experience Standards` `WCAG`
+- **WCAG:** `4.1.3` [WCAG 4.1.3](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
 </details>
