@@ -63,9 +63,7 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
     - > "I saw the blue line change. There were two grays, dark blue and light blue and now there are light blue and gray." - P10
     - > "Dark bar has been completed, blue bar means it’s not completed yet. Gray bar is more forms to fill out." - P19B
     - P20 noted that it might be useful to change the progress bar colors to be more distinct from each other.
- 
-      
-**According to the USWDS:** A [step indicator](https://designsystem.digital.gov/components/step-indicator/) updates users on their progress through a multi-step process.
+- **According to the USWDS:** A [step indicator](https://designsystem.digital.gov/components/step-indicator/) updates users on their progress through a multi-step process.
  - Place a heading directly below the step indicator. Each step needs an explicit heading. The step indicator segments (even with labels and counters) are not sufficient as a heading for a page or screen.
  - [Access additional details on this component](https://designsystem.digital.gov/components/step-indicator/#accessibility:~:text=the%20overall%20process.-,Accessibility,-Use%20semantic%20heading)
     - Use semantic heading levels. Though our default code uses an `<h4>`, use the correct heading level in your own implementation.
@@ -129,20 +127,33 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
     - > "3 input fields are easier than one long input field for social security. Long input field I forget how many numbers I type, also-  if I type in a long input field I would have to delete the whole number and start over again." - P20
 
 ### Other pain points (not limited to this form)
+#### Lack of Consistency Between Sites
 - Lack of consistency between VA.gov and MyHealtheVet, and other federal gov web platforms, causes confusion for AT users, who have to “re-learn” on each new site.
-    - > "These are all government websites. I know you’re looking for different things on different government websites, but they should at least be able to make certain parts of it standard so you don’t have to try to guess." - P26 
+    - > "These are all government websites. I know you’re looking for different things on different government websites, but they should at least be able to make certain parts of it standard so you don’t have to try to guess." - P26
+      
+#### Completion Time Not Inclusive
 -  On intro page, time to completion is for able, sighted users, and doesn’t given an approximation for AT users.
     - > "Says it’ll take 5 minutes (for sighted users); would be 15 or 20 minutes for me. I can get through it, but that’s because the questions are really easy." - P13
+#### Tabbing with Screen Readers; Users Miss Valuable Content
 - Beginner and intermediate screen reader users tend to be “tabbers” - using tab to navigate between interactive elements. This has the effect of lots of text NOT being read out loud, when text isn't focusable (think paragraphs, unlinked headings, etc.)
     - > "My reader stops. Why did my reader just stop? If I hit tab, it takes me to the next session, so I miss the whole rest of it." - P13
-- 2FA adds a lot of interactions that an AT users has to go through. It can be difficult for them. And the authentication process is cumbersome for Vets who don’t have the required IDs.
-    - > "Sometimes I get stuck with logging in. I’ve noticed that the login process for VA.gov and eBenefits has more (requirements)...it takes longer to get in. It can be kind of a hassle." - P19
-    - > "I bet most vets aren’t using VA.gov, because you have to upload (documents) and the verification process. If you could come up with another process to verify rather than text..." - P20  
+#### Two-Factor Authentication Interactions for AT Users
+- **2FA adds a lot of interactions that an AT users has to go through.**
+    - It can be difficult for them. And the authentication process is cumbersome for Vets who don’t have the required IDs.
+        - > "Sometimes I get stuck with logging in. I’ve noticed that the login process for VA.gov and eBenefits has more (requirements)...it takes longer to get in. It can be kind of a hassle." - P19
+        - > "I bet most vets aren’t using VA.gov, because you have to upload (documents) and the verification process. If you could come up with another process to verify rather than text..." - P20  
 
 </details>
 
 ## Next Steps: A11Y Recommendations/Considerations
 A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
+
+### IMPORTANT NOTE ABOUT CAIA
+_While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help facilitate a smooth process for your project through the Collaboration Cycle or outside of the Collaboration Cycle._
+<br>
+<details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
+<br>
+`These need added to the below section.`
 
 - To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.
 - "Chapter" was confusing. Consider testing "section" or "part" for clarity. Consider using percentages as well.
@@ -151,14 +162,13 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
     - For unauthenticated users, make sure it's clear that the data isn't being saved. An alert upon exit, alert box on the unauth intro page, or similar.
     - We didn't get to see the authenticated experience, but users expected a "Save" button or a "Save and continue" button below the form fields. We recommend using a pattern like that.
 
+ `These need added to the below section.`
+
 **Recommendations for the DST:**
 - The date field is really hard for AT users to get through. This field needs to be revised so that the input types are consistent. Would need testing, but I’m guessing that a single input field would be easiest.
-- For the social security field, perhaps we can improve on the validation? Is there a way that the user could enter their SSN and have it submit, even if the dash groupings are incorrect (instead of XXX-XX-XXXX, they type XXX-XXX-XXX)? Or would having 3 input fields (1 per grouping) be more usable? One user suggested it would be, but would need to test. 
+- For the social security field, perhaps we can improve on the validation? Is there a way that the user could enter their SSN and have it submit, even if the dash groupings are incorrect (instead of XXX-XX-XXXX, they type XXX-XXX-XXX)? Or would having 3 input fields (1 per grouping) be more usable? One user suggested it would be, but would need to test.
 
-### IMPORTANT NOTE ABOUT CAIA
-While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help facilitate a smooth process for your project through the Collaboration Cycle or outside of the Collaboration Cycle.
-
-<details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
+<hr>
 
 ### Complete Now
 #### ISSUE ITEM NAME GOES HERE
