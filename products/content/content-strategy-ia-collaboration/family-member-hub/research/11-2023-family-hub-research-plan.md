@@ -113,13 +113,12 @@ Benefit enrollments
 
 
 ### Proposed cohorts
-
-Cohort 1 - Family member + enrolled in at least 1 VA benefit + Female
-Cohort 2 - Family member + not enrolledin any VA benefits + Female
-Cohort 3 - Family member + Male
-Cohort 4 - Caregiver + enrolled in at least 1 VA benefit + Female
-Cohort 5 - Caregiver + not enrolledin any VA benefits + Female
-Cohort 6 - Caregiver + Male
+- Cohort 1 - Family member + enrolled in at least 1 VA benefit + Female
+- Cohort 2 - Family member + not enrolledin any VA benefits + Female
+- Cohort 3 - Family member + Male
+- Cohort 4 - Caregiver + enrolled in at least 1 VA benefit + Female
+- Cohort 5 - Caregiver + not enrolledin any VA benefits + Female
+- Cohort 6 - Caregiver + Male
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
