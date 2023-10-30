@@ -59,10 +59,34 @@ Add screenshots, images and videos here.
 ## User Feedback
 
 ### Veterans' Voices: Impactful Quotes 
-This section is for quotes. ⚠️ Participants should be referenced by number only, please.
-In this section feel free to segment populations based on the trends we see with certain user types.
+Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the `##` quotes that were selected for inclusion, in this report.
 
-> "Quote goes here." - P54
+<details><summary>Toggle to read the impactful quotes from veterans participating in this study.</summary>
+<br> 
+
+> "Quote goes here." - P10
+>
+
+> "Quote goes here." - P12
+
+> "Quote goes here." - P13/17
+
+
+> "Quote goes here." - P19A
+
+
+> "Quote goes here." - P19B
+
+> "Quote goes here." - P20
+
+> "Quote goes here." - P23
+
+> "Quote goes here." - P24
+
+> "Quote goes here." - P26
+
+
+</details>
 
 ## a11y Recommendations
 Overview summary goes here. 
