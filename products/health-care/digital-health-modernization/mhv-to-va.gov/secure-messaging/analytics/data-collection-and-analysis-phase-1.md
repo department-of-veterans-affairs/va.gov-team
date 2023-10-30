@@ -47,7 +47,9 @@ _3 Interstitial and compose pages have the same URL, so rates will be conflated.
 
 **If we have designed a strong user experience for Phase 1 Secure Messaging, then we will see a high engagement rate (low bounce rate), suggesting that users understand and are able to use the new version.**
 
-![Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics/phase1-north-star-graphic.png)
+
+![Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics/images/phase1-north-star-graphic.png)
+
 
 ## **Secondary Metrics**
 
@@ -128,5 +130,8 @@ _Data will be updated in [THIS DOCUMENT] on GitHub as it is collected._
 | Medallia | Veteran feedback from Intercept and Feedback surveys, My411 data, Tier II and Tier III data | Daily emails sent to jane.carnock@va.gov, anne.costello@va.gov | Set to begin 11/3/2023 |
 | MHV feedback email | Trusted user feedback | Lichelle Bain processes, Anne Kennedy has access | Running |
 | VSignals data | Veteran survey feedback | TBD | Email sent to Ed Liebing 10/26 asking how to obtain access |
+
+### **Collection and Analysis Reporting Plan**
+![Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics/images/phase1-reporting-detail-graphic.png)
 
  
