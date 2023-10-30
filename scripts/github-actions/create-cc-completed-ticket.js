@@ -3,7 +3,7 @@ const { Octokit } = require('@octokit/rest');
 const {
   GITHUB_REPOSITORY,
   // BOT_GITHUB_TOKEN: auth,
-  VA_VSP_BOT_GITHUB_TOKEN: auth
+  GITHUB_TOKEN: auth
 } = process.env;
 
 const octokit = new Octokit({ auth });
