@@ -3,11 +3,9 @@
 ## Moderator logistics
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
 - Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Set-up Notetaking Board
-- [ ] Check Prototype
+   - Set-up Notetaking Board
+   - Check Prototype
 
 
 ### Day of the session
@@ -61,28 +59,28 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-- When logging into VA.gov, what devices do you use?  (If participant hesitates, give them time to answer without providing examples.  If they are unable to answer, ask them which device they used the last time they logged into VA.gov.
-   - Follow that up with "Do you ever log into VA.gov with anything other than your _______?"
+- When signing into VA.gov, what devices do you use?  (If participant hesitates, give them time to answer without providing examples.  If they are unable to answer, ask them which device they used the last time they signed into VA.gov.
+   - Follow that up with "Do you ever sign into VA.gov with anything other than your _______?"
 - Have you ever connected any other devices to your VA.gov account e.g. an apple watch or FitBit?  Can you walk me through how you've done that?
 
-## First Task: Logging into VA.gov - X minutes (Understanding password management)
+## First Task: Signing into VA.gov - X minutes (Understanding password management)
 
 - How do you normally access VA.gov?  Can you share your screen with me and walk me through that process?
-   - MOBILE DEVICE: [ If they are able to access VA.gov without logging in... ] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with logging in? 
-- Do you ever log out when from _____ device?  If so, can you show me how?
-  - Do you ever log back in after logging out?  Can you describe that for me?
-- How do you keep track of your passwords for logging into your account?
+   - MOBILE DEVICE: [ If they are able to access VA.gov without signing in... ] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with signing in? 
+- Do you ever sign out when from _____ device?  If so, can you show me how?
+  - Do you ever sign back in after signing out?  Can you describe that for me?
+- How do you keep track of your passwords for signing into your account?
    - Have you ever had to reset your password?  Can you describe that process for me?
 
 ### Things to watch for:
 
-- Since we're working with users who may be using a desktop browser or a mobile device and each has their own session lengths, we'd like to understand what pain points might arise if they log out of their devices so the questions on this section are purposely kept more open ended and generative.  Where possible, ask follow-up questions and allow the Veteran to express potential pain points without leading them.
+- Since we're working with users who may be using a desktop browser or a mobile device and each has their own session lengths, we'd like to understand what pain points might arise if they sign out of their devices so the questions on this section are purposely kept more open ended and generative.  Where possible, ask follow-up questions and allow the Veteran to express potential pain points without leading them.
 
 ## Second Task: Prototype Walk-Through - X minutes
 
-- Have you ever had the need to log out of sign out of all your devices?  If so, can you recall why you did so?
+- Have you ever had the need to sign out of all your devices? This could be on any service, not just VA. If so, can you recall why you did so?
 - I'm now going to show you a prototype and would like for you to share your screen and walk me through how you would complete the following steps.
-   - If you were prompted to log out of all of your devices, can you show me where you would start?  Why would you start there?
+   - If you were prompted to sign out of all of your devices, can you show me where you would start?  Why would you start there?
    - Username
       - [SUCCESS] (clicks on username) Allow them to continue walking you through.
       - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
@@ -99,7 +97,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of logging out of all of their devices?]
+- [Does the participant understand meaning of signing out of all of their devices?]
 - [Does the participant notice the warning indicator?]
 - [Etc]
 
