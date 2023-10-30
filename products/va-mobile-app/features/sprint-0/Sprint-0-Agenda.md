@@ -54,6 +54,9 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Working session notes
 
+## 11/2/12
+* [QA for analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/QA%20for%20analytics/Sprint%200%3A%20QA%20for%20analytics.md)  (Greta/Therese)
+
 ## 10/19/23
 * [Demo Mode Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Demo%20Mode%20Access/demoModeAccess.md) (Kelly)
     * Recording:https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/c5a65b75-68ae-4cec-b24a-fffcd0e0a8ba
