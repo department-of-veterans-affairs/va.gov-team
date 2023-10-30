@@ -1,8 +1,6 @@
 # Recommendation for removing `Gender` collection from Ask VA
 
-*Ask VA Integration team*
-
-Last updated: October 18, 2023
+Last updated by @beckyphung: October 30, 2023
 
 We recommend not collecting `Gender` once we migrate Ask VA to VA.gov.
 
