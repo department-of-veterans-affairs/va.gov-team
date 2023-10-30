@@ -126,7 +126,7 @@ To get started:
 - Heads up, this is not a real website, which means some parts of the experience won’t work as expected. If you try to do something on the site and it doesn’t work, just let me know what you would expect to happen instead.
 - Keep in mind, we want to hear your thoughts, so say anything top of mind as you go.
 
-### Screenshare Prompt & Tech Support PUMPKIN
+### Screenshare Prompt & Tech Support
 
 - Mobile Prototype/ https://www.sketch.com/s/dfb0333d-65db-41f9-807e-6b25d6c5396e/prototype/91C5F671-4BC5-4CE9-B9EA-2D384B20C83A/a/91C5F671-4BC5-4CE9-B9EA-2D384B20C83A
    - In the lower right corner of the screen, select the percentage, and from there please select ‘Fit Canvas Width’.
@@ -160,14 +160,14 @@ _Search - Results_
 19. Click the ‘City, state or postal code’ box then ‘Search’, which will show search results for VSOs. From the table of options, how would you decide which representative to go forward with?
 20. Is there any information missing you’d like to see?
    - _*Note: If you’d like to see attorney options to compare feel free to click the ‘attorney’ option up top._
-21. PUMPKIN What are your thoughts on the sort options? Are there any other ways you’d like to sort the information shown?
+21. What are your thoughts on the sort options? Are there any other ways you’d like to sort the information shown?
 22. Any other thoughts on this page?
 
 
 
 _Current Representative_
 
-23. PUMPKIN Click the VA logo on the top to go back to the homepage.
+23. Click the ‘Next Prototype’ button in the top right to go back to the homepage.
 24. Imagine you have a current representative and could see that information on VA.gov. Where would you expect to see your current representative information?
 
 ### Things to watch for:
