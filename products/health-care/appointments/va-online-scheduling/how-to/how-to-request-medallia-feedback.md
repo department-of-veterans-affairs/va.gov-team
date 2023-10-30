@@ -2,11 +2,7 @@
 
 ## How to Request
 
-1. Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. The feedback should be emailed to a VA.gov email address since it may contain PHI/PII information. 
-2. Open the Excel file they send back on the network and scrub PII
-3. Look for names, SSNs, other identifying numbers, and replace with asterisks or number symbols
-4. Once the file is scrubbed, move a copy to the Teams folder on the network
-5. Share the file with the leads using their VA.gov email addresses - Simi, Jeff, Leah, Kay, Peter, Melissa, Ciera
+Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. The feedback should be emailed to a VA.gov email address since it may contain PHI/PII information. 
 
 Template: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley2019%2C+ATMiddleton%2C+newworld2616%2C+aubreyarcangel&labels=VSP-contact-center%2Ccc-data-request&projects=&template=qualitative-data-request.yml&title=Qualitative+Data+Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley2019%2C+ATMiddleton%2C+newworld2616%2C+aubreyarcangel&labels=VSP-contact-center%2Ccc-data-request&projects=&template=qualitative-data-request.yml&title=Qualitative+Data+Request)
 
@@ -83,15 +79,18 @@ For example: VAOS Medallia 2023 Q4 Week 44 Oct 30-Nov 5
 
 This make the feedback sortable by date in the appropriate folder.
 
-4. Scrub the feedback of PII/PHI. Read through every user comment and remove or obfuscate personal information.
+4. Scrub the feedback of PII/PHI. Read through every user comment and replace personal information with asterisks or number symbols.
 Look for:
 - Email addresses
 - Names
 - Social security numbers
 - Phone numbers
+- Other identifying numbers
 
 5. Note any issues that may be new or indicate that something is broken. 
 
 6. Upload file to the Teams folder. Check that it is named so that it can be sorted by date.
 
-7. Share the file to the VA email addresses of the VAOS Product and UX team.
+7. Share the file, including flags of any potential issues to  Simi, Jeff, Leah, Kay, Peter, Melissa, Ciera (using their VA email addresses)
+
+8. Note any potential new broken behavior in the #appointments-fe-meetup channel.
