@@ -3,13 +3,13 @@
 - **Study Dates:** October 2023
 - **Study Research Lead:** Rachel Shearer & Jeana Clark
 - **A11y Collaborators:** Sara, Jamie and SK
-- **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
-- **Ticket Links:** [Research Support Request #65316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65316)
+- **Related Docs:**
     - [Product outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/Product%20Outline.md)
     - [User flows](https://staging.va.gov/authorization-to-disclose-alternate/introduction)
     - [Prototype or mockups](https://staging.va.gov/authorization-to-disclose-alternate/introduction)
     - [Research plan](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/research-plan.md)
     - [Research conversation guide](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/conversation-guide.md)
+- **Ticket Links:** [Research Support Request #65316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65316)
 
 # Accessibility Tools Utilized
 `ZoomText` `JAWs` `iOS-VO` `VoiceOver` `SR Microsoft Extension` `TalkBack` `Fusion` 
@@ -153,6 +153,9 @@ _While CAIA cannot require you to complete any updates to your product, we can p
 <br>
 <details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
 <br>
+
+<hr>
+
 `These need added to the below section.`
 
 - To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.
@@ -162,7 +165,7 @@ _While CAIA cannot require you to complete any updates to your product, we can p
     - For unauthenticated users, make sure it's clear that the data isn't being saved. An alert upon exit, alert box on the unauth intro page, or similar.
     - We didn't get to see the authenticated experience, but users expected a "Save" button or a "Save and continue" button below the form fields. We recommend using a pattern like that.
 
- `These need added to the below section.`
+`These need added to the below section.`
 
 **Recommendations for the DST:**
 - The date field is really hard for AT users to get through. This field needs to be revised so that the input types are consistent. Would need testing, but I’m guessing that a single input field would be easiest.
