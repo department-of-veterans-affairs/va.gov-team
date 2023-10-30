@@ -99,7 +99,7 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 - All must be currently enrolled in VA health care benefits
 - At least 2 are using a mobile device during the session
 - Diverse mix of age ranges
-- No more than 1 participant with a Bachelor's degree or higher
+- At least 2 participants with Cognitive disabilities
 - At least 2 participants who are Black
 - At least 2 participants who are Hispanic 
 
