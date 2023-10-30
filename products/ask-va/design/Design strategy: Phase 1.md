@@ -1,0 +1,86 @@
+# Design strategy: Phase 1
+*Ask VA Integration*
+
+Last updated by @tygindraux on October 30, 2023 
+
+## Product background
+
+### Problem statement
+
+Veterans, dependents, or other submitters need to be able to easily and intuitively ask the Department of Veterans Affairs a question online [[1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/ask-va-phase-1-product-outline.md)].
+
+### Desired outcomes
+
+At the end of Phase 1, submitters should be able to:
+- ask a question on their phone or computer efficiently
+- easily find Ask VA on VA.gov
+- use Ask VA, including with assistive technology
+- save time by having their information filled in, when they authenticate
+- edit their VA Profile while asking a question, when they authenticate
+- track their submitted inquiries, when they authenticate
+
+### KPIs
+
+These KPIs will guide our decisions and help us measure success [[2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20KPIs.md)]:
+1. Reduce the time it takes to submit a question
+2. Increase the percentage of submitters that successfully ask a question
+3. Meet the target VA.gov user satisfaction score
+
+## Design strategy
+
+### VA.gov design system
+
+We will use VA.gov’s design system to design content, components and patterns in Ask VA [[3](https://design.va.gov/)]. 
+
+At a strategic level, our approach will be based on the VA.gov design principles [[4](https://design.va.gov/about/principles)]. These are summarized as:
+- Usable by everyone
+- Simple
+- Veteran first
+- Impact
+
+### Our vision
+
+We used the VA.gov design principles to frame our vision. Through following this vision, we believe we’ll make design decisions that drive towards our desired outcomes and KPIs.
+
+#### Usable by everyone
+
+**Everyone should be able to use Ask VA.** We’ll make all design decisions with accessibility front of mind. In addition, when we do research we’ll seek to include disabled Veterans, people who use assistive technology, Veterans and dependents, and people who submit a question on behalf of someone else.
+
+**People should be able to use Ask VA on their mobile devices, in addition to their laptop or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context.
+
+#### Simple
+
+**People’s focus should be on asking a question to VA.** We’ll prioritize steps in the form that help a user complete their primary task of asking a question, and remove unnecessary steps. In addition, we’ll avoid asking users for the same information more than once, and when it’s possible, we’ll pull in their information to save them time.
+
+**People should feel like Ask VA is familiar.** Firstly, we will use familiar, plain language. We’ll also draw on other content and patterns used across VA.gov so Ask VA feels familiar to other experiences on VA.gov. In addition, we’ll aim for consistency within Ask VA itself. So, if a Veteran asks a question about life insurance or debt, the experience should feel as consistent as possible.
+
+#### Veteran first
+
+**Veterans should help design Ask VA.** We’ll prioritize making important decisions based on what we learn from Veterans through user research. When we do research, we’ll include Veterans from a range of perspectives in order to reduce bias and test our assumptions.
+
+**Veterans come first, over what “looks good” or works in another context.** We understand that Veterans are unique and their experience using VA applications impacts how they will experience Ask VA. We’ll make decisions based on what we learn from user research, over our assumptions or what we think works best “in principle.”
+
+#### Impact
+
+**Everyone has a right to the same experience.** Whether it’s on a different device, browser or using assistive technology, we’ll design a consistent and cohesive user experience for Ask VA.
+
+**People should be able to find Ask VA, when they need it.** We'll make sure that existing links to Ask VA transition seamlessly when Ask VA moves to VA.gov. In addition, by moving Ask VA to the contact hub on VA.gov, we'll aim to improve how easy it is to find.
+
+### Our approach
+
+We've defined our notional timeline for Phase 1 in detail [[5](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/)].
+
+At a high-level, we will:
+- Scope the design work by exploring the current system, past research and potential new features
+- Design Ask VA in collaboration with key stakeholders, CAIA, the Platform team and business lines
+- Test Ask VA with Veterans, dependents and other submitters
+- Make updates based on insights from usability testing
+- Launch Phase 1
+
+#### References
+
+[1] [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/ask-va-phase-1-product-outline.md)
+[2] [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20KPIs.md)
+[3] [VA.gov design system](https://design.va.gov/)
+[4] [VA.gov design principles](https://design.va.gov/about/principles)
+[5] [Notional timeline](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/)
