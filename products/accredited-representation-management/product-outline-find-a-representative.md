@@ -1,4 +1,3 @@
-
 # Product Outline: Find a Representative
 Team: Accredited Representation Management
 
