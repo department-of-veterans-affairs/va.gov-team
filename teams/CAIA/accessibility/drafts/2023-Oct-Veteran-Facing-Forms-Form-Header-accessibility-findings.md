@@ -44,36 +44,13 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 
 <details><summary>Toggle to read accessibility-related key findings</summary>
 
-### Finding 1: Stepper Confusion & Stage in the Process
+### Finding 1: Stepper confusion & stage in the process
 - Users are confused as to where they are in the process, when they are still on the same [step #] of [#steps].
-- > “Not sure how many pages I have left because it says 2 of 4, but I was on 2 of 4 already. Basically I have four pages, but I could be on 10 or 3. This would frustrate me. I think I am getting close to the end and these forms are tedious already. That would just annoy me more. I would be thinking I was thoroughly progressing but I am not.  I can't tell if I am in the beginning, middle or end, now. If I go back it will say 2 of 2.” - P10
-- <img width="381" alt="Step 2 of 4 Your Information" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/124186314/1d790878-2e2a-4084-a289-0bbd5d3b8cca">
-- > "We’re in chapter 2 (but not how many chapters there are). It doesn’t say how long this is going to take. The last page said ‘2 of 4,’ but this one didn’t." - P13
-- > "It was my understanding initially that there was one page per (chapter). Apparently there are multiple (pages) per chapter." - P20
-- > "I don’t have a clue." - P26, upon being asked _What if you wanted to see how many pages are in front of you?_ 
-
-- **According to the USWDS:** A [step indicator](https://designsystem.digital.gov/components/step-indicator/) updates users on their progress through a multi-step process.
-    - Place a heading directly below the step indicator. Each step needs an explicit heading. The step indicator segments (even with labels and counters) are not sufficient as a heading for a page or screen.
-    - [Access additional details on this component](https://designsystem.digital.gov/components/step-indicator/#accessibility:~:text=the%20overall%20process.-,Accessibility,-Use%20semantic%20heading)
-        - Use semantic heading levels. Though our default code uses an `<h4>`, use the correct heading level in your own implementation.
-        - Use `aria-label=”progress”`. Placing this `aria-label` on the element with the class `usa-step-indicator` helps provide important context to screen readers.
-        - Use visually hidden text on labels. Use visually hidden text make the completion status of each step explicit.
-        - Indicate the current step. When using labeled segments, use `aria-current="true"` on the list item representing the current step.
-        - Hide unlabeled segments. There is no content inside the segments when labels aren’t used, so it is safe to add `aria-hidden="true` to the element with the class name `usa-step-indicator__segments`.
-    - [Review the Component in the VA.gov Design System](https://design.va.gov/components/form/progress-bar-segmented)
-
-
-### Finding 2: Form Title
-- If the user can access the form title/number, they clearly understand what form they're on.
-- Users appreciated having the form title and number available to them.
-   - > "(using ctrl+Home)...gave me the title of the form" - P12
-   - > "I really like that. You don’t always know the form number." - P13
-    - > "I would go back to the previous page and double check the form number to confirm I am on the correct form." - P23
-- One screen reader user was unable to find/read the form title.
-   - P26 used the URL to try to figure out what form he was on. He navigated the page by tabbing, and was unable to access the form header by doing so.
-   - When asked _If you had a magic wand, what would you page?_, he said he’d have the name and number of the form at the top of the page.
-
-### Finding 3: Informing the User: Identifying Progress Completed
+    - > “Not sure how many pages I have left because it says 2 of 4, but I was on 2 of 4 already. Basically I have four pages, but I could be on 10 or 3. This would frustrate me. I think I am getting close to the end and these forms are tedious already. That would just annoy me more. I would be thinking I was thoroughly progressing but I am not.  I can't tell if I am in the beginning, middle or end, now. If I go back it will say 2 of 2.” - P10
+    - <img width="381" alt="Step 2 of 4 Your Information" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/124186314/1d790878-2e2a-4084-a289-0bbd5d3b8cca">
+    - > "We’re in chapter 2 (but not how many chapters there are). It doesn’t say how long this is going to take. The last page said ‘2 of 4,’ but this one didn’t." - P13
+    - > "It was my understanding initially that there was one page per (chapter). Apparently there are multiple (pages) per chapter." - P20
+    - > "I don’t have a clue." - P26, upon being asked _What if you wanted to see how many pages are in front of you?_ 
 - The progress bar wasn’t immediately findable/navigable by screen reader users.
     - > "No…some forms give a percentage of how far along you are, but not any government forms." - P12, upon being asked _Any idea how you'd track your progress?_
     -  > "I just noticed that, there’s a progress bar on top." - P20
@@ -85,7 +62,41 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 - Sighted users generally understood what the colors indicated, but felt that there could be more distinction between them.
     - > "I saw the blue line change. There were two grays, dark blue and light blue and now there are light blue and gray." - P10
     - > "Dark bar has been completed, blue bar means it’s not completed yet. Gray bar is more forms to fill out." - P19B
-    - P20 noted that it might be useful to change the progress bar colors to be more distinct from each other.  
+    - P20 noted that it might be useful to change the progress bar colors to be more distinct from each other.
+ 
+      
+**According to the USWDS:** A [step indicator](https://designsystem.digital.gov/components/step-indicator/) updates users on their progress through a multi-step process.
+ - Place a heading directly below the step indicator. Each step needs an explicit heading. The step indicator segments (even with labels and counters) are not sufficient as a heading for a page or screen.
+ - [Access additional details on this component](https://designsystem.digital.gov/components/step-indicator/#accessibility:~:text=the%20overall%20process.-,Accessibility,-Use%20semantic%20heading)
+    - Use semantic heading levels. Though our default code uses an `<h4>`, use the correct heading level in your own implementation.
+    - Use `aria-label=”progress”`. Placing this `aria-label` on the element with the class `usa-step-indicator` helps provide important context to screen readers.
+    - Use visually hidden text on labels. Use visually hidden text make the completion status of each step explicit.
+    - Indicate the current step. When using labeled segments, use `aria-current="true"` on the list item representing the current step.
+    - Hide unlabeled segments. There is no content inside the segments when labels aren’t used, so it is safe to add `aria-hidden="true` to the element with the class name `usa-step-indicator__segments`.
+    - [Review the Component in the VA.gov Design System](https://design.va.gov/components/form/progress-bar-segmented)
+
+
+### Finding 2: Form title and number helpful, when the user found it
+- If the user can access the form title/number, they clearly understand what form they're on.
+- Users appreciated having the form title and number available to them.
+   - > "(using ctrl+Home)...gave me the title of the form" - P12
+   - > "I really like that. You don’t always know the form number." - P13
+    - > "I would go back to the previous page and double check the form number to confirm I am on the correct form." - P23
+- One screen reader user was unable to find/read the form title.
+   - P26 used the URL to try to figure out what form he was on. He navigated the page by tabbing, and was unable to access the form header by doing so.
+   - When asked _If you had a magic wand, what would you page?_, he said he’d have the name and number of the form at the top of the page.
+
+### Finding 3: "Back" link wasn't easy to find; the "Continue" button worked well
+-  Up-top “back” link wasn’t obvious to users, and required a lot of tabbing/swiping to access from the bottom of the form.
+    - > "I don’t see a (back button) here, I’d probably hit shift+tab." - P12
+    - P19A, who used an iPad, swiped up until she got to the in-form “Back” button, and tapped on it.
+    - > "I assume I’d just fix it in the form…I don’t see an option to make a change..." he scrolls up, and sees the Back link. "Or I could use the back button." - P20
+-  Some users expected to see a “back” button below the question, next to “continue”.
+    - > "When you get to the bottom of the page, (it should have) “next page” and “previous page”. It’d be easier to navigate…rather than jumping around and hoping to find (the right spot)." - P12
+- Users said that the placement of the "Continue" button made sense.
+    - > "Continue (button) worked great" - P13
+    - P24 mentioned that the continue button being right underneath the radio buttons was very helpful.
+- Some users used their browser's 'back' button to navigate through the form instead of the "Back" link.
 
 ### Finding 4
 - Feel free to include bullets
