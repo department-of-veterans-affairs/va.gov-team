@@ -15,7 +15,7 @@ If you decide to go the `asdf` route, the below should help:
 #### Prerequisites
 **Note:** I would highly recommend installing Homebrew and the Xode Command Line Tools before proceeding
 
-[asdf installatino docs](https://asdf-vm.com/guide/getting-started.html#community-supported-download-methods)
+[asdf installation docs](https://asdf-vm.com/guide/getting-started.html#community-supported-download-methods)
 
 If you have done the above, you can run `brew install asdf` to install `asdf`.
 
