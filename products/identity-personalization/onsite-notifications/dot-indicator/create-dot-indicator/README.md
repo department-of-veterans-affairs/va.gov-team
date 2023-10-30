@@ -1,4 +1,4 @@
-# Project outline: Create dot indicator
+# Project outline: Create dot indicator on unread health care messages
 
 **Last Updated: September 28, 2023  -- updated communications links**
 
