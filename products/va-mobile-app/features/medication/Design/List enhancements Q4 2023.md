@@ -17,7 +17,7 @@ The default filtering and sorting of the prescriptions list is filtered by All p
 - Sorting by status alphabetically ensures that active prescriptions are bubbled up to the top.
 
 #### 2. Users interacts with new filter/sort
-When users tap on the new combined filter and sort functionality, the mobile app displays a full panel.
+When users tap on the new combined filter and sort functionality, the mobile app displays a scrollable full panel.
 - This full panel has 2 sections: Filter by and Sort by.
 - The filter options include all prescription/refill statuses (with active statuses grouped together as 1 option).
 - The filter options have new pending and tracking options, which were previously shown as tabs on the main screen. We included helper copy -- taken from previously approved copy -- to exlaim what is included in these options.
@@ -25,20 +25,20 @@ When users tap on the new combined filter and sort functionality, the mobile app
 - We added a new sort option: Status (A to Z). We removed the ability to sort by facility name.
 
 #### 3. Users filter by Active
-When users are in the filter/sort full panel, select the Active filter option, and tap the Apply button, they're shown an updated prescriptions list with only those prescriptions with an active status.
+When users are in the filter/sort full panel, select the Active filter option, and scroll and tap the Apply button, they're shown an updated prescriptions list with only those prescriptions with an active status.
 
 - The list header becomes dynamic and now says, "Active prescriptions" with an updated count of prescriptions.
 - The body copy/disclaimer text remains the same.
 - Note: The list header will dynamically change based on which filter users choose, with the exception of the Pending and Tracking options.
 
 #### 4. Users filter by Pending
-When users are in the filter/sort full panel, select the Pending filter option, and tap the Apply button, they're shown an updated prescriptions list with only those prescriptions that formerly were shown on the Pending tab.
+When users are in the filter/sort full panel, select the Pending filter option, and scroll and tap  the Apply button, they're shown an updated prescriptions list with only those prescriptions that formerly were shown on the Pending tab.
 
 - The list header becomes "Pending refills" with an updated count of prescriptions.
 - The body copy/disclaimer text changes to what was previously shown on the Pending tab ("This list shows refill requests that you have submitted. It also shows refills that the VA pharmacy is processing.").
 
 #### 5. Users filter by Tracking
-When users are in the filter/sort full panel, select the Tracking filter option, and tap the Apply button, they're shown an updated prescriptions list with only those prescriptions that formerly were shown on the Tracking tab.
+When users are in the filter/sort full panel, select the Tracking filter option, and scroll and tap the Apply button, they're shown an updated prescriptions list with only those prescriptions that formerly were shown on the Tracking tab.
 
 - The list header becomes "Refills with tracking" with an updated count of prescriptions.
 - The body copy/disclaimer text changes to what was previously shown on the Pending tab ("This list shows refills with current tracking information available.").
