@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: August 25, 2023
+Last updated: October 30, 2023
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -56,7 +56,9 @@ Location
 
 - Next appointment: Static text that appears this way for every appointment card
 - Date: Date of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
+  - Note: Follow formatting in Sketch file (i.e. Tuesday, June 1, 2022)  
 - Time: Time of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
+  - Note: Follow formatting in Sketch file (i.e. Time: 9:00 a.m. ET)
 - Location: Location of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
 
 ---
