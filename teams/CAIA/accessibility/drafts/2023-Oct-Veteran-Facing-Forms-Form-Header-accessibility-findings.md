@@ -134,13 +134,13 @@ While CAIA cannot require you to complete any updates to your product, we can pr
 - Appears on: `Experience Standards` `WCAG` `Common Issues`
 - WCAG: `#.# Link to WCAG`
 ### Complete Later
-#### ISSUE ITEM NAME GOES HERE
-- Issue Description: UI components do not initiate a change of context when they receive user input. The form screen changes, but the users sees they are on step 2 of 4, regardless.
-- Desired Outcome: Communicate progress to the user in a predictable and understandable nature.
-- Experience standard:`Category 11` `Issue 13`
-- Defect:`Not Blocking`
-- Impact Area: `A11y` `Content` and/or `IA`
-- Appears on: `Experience Standards` `WCAG`
-- WCAG: `3.2.2` 
+#### Finding 1
+- **Issue Description:** UI components do not initiate a change of context when they receive user input. The form screen changes, but the users sees they are on step 2 of 4, regardless.
+- **Desired Outcome:** Communicate progress to the user in a predictable and understandable nature.
+- **Experience standards:** `Category 11` `Issue 13` [link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
+- **Defect:** `Not Blocking`
+- **Impact Area:** `A11y` `Content` and/or `IA`
+- **Appears on:** `Experience Standards` `WCAG`
+- **WCAG:** `3.2.2` `4.1.3?`
 
 </details>
