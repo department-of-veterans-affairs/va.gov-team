@@ -45,64 +45,76 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 <details><summary>Toggle to read accessibility-related key findings</summary>
 
 ### Finding 1: Stepper confusion & stage in the process
-- Users are confused as to where they are in the process, when they are still on the same [step #] of [#steps].
+- **Users are confused as to where they are in the process, when they are still on the same [step #] of [#steps].**
     - > “Not sure how many pages I have left because it says 2 of 4, but I was on 2 of 4 already. Basically I have four pages, but I could be on 10 or 3. This would frustrate me. I think I am getting close to the end and these forms are tedious already. That would just annoy me more. I would be thinking I was thoroughly progressing but I am not.  I can't tell if I am in the beginning, middle or end, now. If I go back it will say 2 of 2.” - P10
     - <img width="381" alt="Step 2 of 4 Your Information" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/124186314/1d790878-2e2a-4084-a289-0bbd5d3b8cca">
     - > "We’re in chapter 2 (but not how many chapters there are). It doesn’t say how long this is going to take. The last page said ‘2 of 4,’ but this one didn’t." - P13
     - > "It was my understanding initially that there was one page per (chapter). Apparently there are multiple (pages) per chapter." - P20
     - > "I don’t have a clue." - P26, upon being asked _What if you wanted to see how many pages are in front of you?_ 
-- The progress bar wasn’t immediately findable/navigable by screen reader users.
+- **The progress bar wasn’t immediately findable/navigable by screen reader users.**
     - > "No…some forms give a percentage of how far along you are, but not any government forms." - P12, upon being asked _Any idea how you'd track your progress?_
     -  > "I just noticed that, there’s a progress bar on top." - P20
     -  > "Older VA forms had a percent bar that told me how far along I am. I don’t know if this form has a bar. If it does, I don’t know how to get to it." - P26
-       - Note: This user used the Heading List to navigate through the form by heading. The progress bar does not appear in this list.
-- Its placement at the top made it difficult for keyboard-only users to refer to when further down the page.
+       - **Note**: This user used the Heading List to navigate through the form by heading. The progress bar does not appear in this list.
+- **Its placement at the top made it difficult for keyboard-only users to refer to when further down the page.**
     - > "When you wanted me to see where I was in the form, I like where on the bottom, it’ll have a ‘meter’ - you’re 50% through. I don’t have to go all the way to the top to figure out ‘how far along am I?’ The meter is super-nice.” “Tabbing to the top to see where I am on the form (was frustrating)." - P13
-- The visual indicator was missing in high-contrast mode.
-- Sighted users generally understood what the colors indicated, but felt that there could be more distinction between them.
+- **The visual indicator was missing in high-contrast mode.**
+- **Sighted users generally understood what the colors indicated, but felt that there could be more distinction between them.**
     - > "I saw the blue line change. There were two grays, dark blue and light blue and now there are light blue and gray." - P10
     - > "Dark bar has been completed, blue bar means it’s not completed yet. Gray bar is more forms to fill out." - P19B
     - P20 noted that it might be useful to change the progress bar colors to be more distinct from each other.
 - **According to the USWDS:** A [step indicator](https://designsystem.digital.gov/components/step-indicator/) updates users on their progress through a multi-step process.
  - Place a heading directly below the step indicator. Each step needs an explicit heading. The step indicator segments (even with labels and counters) are not sufficient as a heading for a page or screen.
  - [Access additional details on this component](https://designsystem.digital.gov/components/step-indicator/#accessibility:~:text=the%20overall%20process.-,Accessibility,-Use%20semantic%20heading)
-    - Use semantic heading levels. Though our default code uses an `<h4>`, use the correct heading level in your own implementation.
-    - Use `aria-label=”progress”`. Placing this `aria-label` on the element with the class `usa-step-indicator` helps provide important context to screen readers.
-    - Use visually hidden text on labels. Use visually hidden text make the completion status of each step explicit.
-    - Indicate the current step. When using labeled segments, use `aria-current="true"` on the list item representing the current step.
-    - Hide unlabeled segments. There is no content inside the segments when labels aren’t used, so it is safe to add `aria-hidden="true` to the element with the class name `usa-step-indicator__segments`.
+    - **Use semantic heading levels.** Though our default code uses an `<h4>`, use the correct heading level in your own implementation.
+    - **Use `aria-label=”progress”`.** Placing this `aria-label` on the element with the class `usa-step-indicator` helps provide important context to screen readers.
+    - **Use visually hidden text on labels.** Use visually hidden text make the completion status of each step explicit.
+    - **Indicate the current step.** When using labeled segments, use `aria-current="true"` on the list item representing the current step.
+    - **Hide unlabeled segments.** There is no content inside the segments when labels aren’t used, so it is safe to add `aria-hidden="true` to the element with the class name `usa-step-indicator__segments`.
     - [Review the Component in the VA.gov Design System](https://design.va.gov/components/form/progress-bar-segmented)
 
+<hr>
 
 ### Finding 2: Form title and number helpful, when the user found it
-- If the user can access the form title/number, they clearly understand what form they're on.
-- Users appreciated having the form title and number available to them.
+- **If the user can access the form title/number, they clearly understand what form they're on.**
+- **Users appreciated having the form title and number available to them.**
    - > "(using ctrl+Home)...gave me the title of the form" - P12
    - > "I really like that. You don’t always know the form number." - P13
     - > "I would go back to the previous page and double check the form number to confirm I am on the correct form." - P23
-- One screen reader user was unable to find/read the form title.
+- **One screen reader user was unable to find/read the form title.**
    - P26 used the URL to try to figure out what form he was on. He navigated the page by tabbing, and was unable to access the form header by doing so.
    - When asked _If you had a magic wand, what would you page?_, he said he’d have the name and number of the form at the top of the page.
 
+
+<hr>
+
+
 ### Finding 3: "Back" link wasn't easy to find; the "Continue" button worked well
--  Up-top “back” link wasn’t obvious to users, and required a lot of tabbing/swiping to access from the bottom of the form.
+-  **Up-top “back” link wasn’t obvious to users, and required a lot of tabbing/swiping to access from the bottom of the form.**
     - > "I don’t see a (back button) here, I’d probably hit shift+tab." - P12
     - P19A, who used an iPad, swiped up until she got to the in-form “Back” button, and tapped on it.
     - > "I assume I’d just fix it in the form…I don’t see an option to make a change..." he scrolls up, and sees the Back link. "Or I could use the back button." - P20
--  Some users expected to see a “back” button below the question, next to “continue”.
+-  **Some users expected to see a “back” button below the question, next to “continue”.**
     - > "When you get to the bottom of the page, (it should have) “next page” and “previous page”. It’d be easier to navigate…rather than jumping around and hoping to find (the right spot)." - P12
-- Users said that the placement of the "Continue" button made sense.
+- **Users said that the placement of the "Continue" button made sense.**
     - > "Continue (button) worked great" - P13
     - P24 mentioned that the continue button being right underneath the radio buttons was very helpful.
-- Some users used their browser's 'back' button to navigate through the form instead of the "Back" link.
+- **Some users used their browser's 'back' button to navigate through the form instead of the "Back" link.**
+
+
+<hr>
+
 
 ### Finding 4: Users expected to be able to save their progress upon exiting the form.
-- Many users expected a “save” button to accompany the exit process. Most looked for a “save and continue” button, and felt frustrated when they couldn’t find one. We had to explain that it was unauthenticated.
+- **Many users expected a “save” button to accompany the exit process. Most looked for a “save and continue” button, and felt frustrated when they couldn’t find one. We had to explain that it was unauthenticated.**
     - >  "I want it to tell me to save it. Most of the forms on the VA, you can’t save them…and have to start over." - P13, after tabbing to the "Exit" link
     - > "You’d scroll to the top and click 'save'...hmm, I don’t see a ‘save’. If you just exit you’ll lose all your information. I don’t see a tab that says ‘save and continue later." - P19B 
     - > "Well, it doesn’t suggest that I can save it, so I’d click on ‘Exit form'" - P20
      - > "At this point, this is where I would call my daughter or health advocate." - P23, when asked to exit the form and trying to find a “Save” button. 
      - > "I need to go to ‘Save and Continue,’ there’s usually a button at the bottom like that." - P26, who also noted that using a screen reader takes time and he "gets tired, sometimes wants to take a break." 
+
+<hr>
+
 
 ### Finding 5: Users wanted to know if the form was being saved or not.
 - > "Oh, just like Word." - P13, when we explained that the form would auto-save
@@ -111,10 +123,16 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 - > "Yes, at the bottom…You’re already trying to listen as a visually impaired section. As long as you can get to the end and save, it’s fine (each time before you hit continue)." - P19, when asked if they want to hear an "information saved" message
 - > "Having a visual save option would help. Text that says ‘save’. I have a feeling you guys will probably (add that). And looking at the top of this page, you could put ‘save’ next to the ‘back’ and ‘exit’ buttons, and maybe make that a bit larger font." - P20
 
+<hr>
+
+
 ### Finding 6: Some users ignored the "Exit" link completely.
-- Some users preferred to manually close the tab (alt + F4) to exit, rather than looking for an exit link.
+- **Some users preferred to manually close the tab (alt + F4) to exit, rather than looking for an exit link.**
     - > What would you do to end this process? “Alt + F4.” What would that do? “Cancel it all out, get rid of it.” - P12
     - P26 said he’d leave the window open and open a new Chrome tab, then use alt+tab to go between the tabs. He’d also consider bookmarking the page to return to it later. 
+
+<hr>
+
 
 ### Finding 7: The date of birth and social security number fields were challenging for some users.
 - **Date of birth:**
@@ -126,20 +144,23 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
     - P13 had an issue entering. They entered 9 numbers, but the didn’t group them by dashes properly, and got an error. 
     - > "3 input fields are easier than one long input field for social security. Long input field I forget how many numbers I type, also-  if I type in a long input field I would have to delete the whole number and start over again." - P20
 
+<hr>
+
+
 ### Other pain points (not limited to this form)
 #### Lack of Consistency Between Sites
-- Lack of consistency between VA.gov and MyHealtheVet, and other federal gov web platforms, causes confusion for AT users, who have to “re-learn” on each new site.
+- **Lack of consistency between VA.gov and MyHealtheVet, and other federal gov web platforms, causes confusion for AT users, who have to “re-learn” on each new site.**
     - > "These are all government websites. I know you’re looking for different things on different government websites, but they should at least be able to make certain parts of it standard so you don’t have to try to guess." - P26
       
 #### Completion Time Not Inclusive
--  On intro page, time to completion is for able, sighted users, and doesn’t given an approximation for AT users.
+-  **On intro page, time to completion is for able, sighted users, and doesn’t given an approximation for AT users.**
     - > "Says it’ll take 5 minutes (for sighted users); would be 15 or 20 minutes for me. I can get through it, but that’s because the questions are really easy." - P13
 #### Tabbing with Screen Readers; Users Miss Valuable Content
-- Beginner and intermediate screen reader users tend to be “tabbers” - using tab to navigate between interactive elements. This has the effect of lots of text NOT being read out loud, when text isn't focusable (think paragraphs, unlinked headings, etc.)
+- **Beginner and intermediate screen reader users tend to be “tabbers” - using tab to navigate between interactive elements. This has the effect of lots of text NOT being read out loud, when text isn't focusable (think paragraphs, unlinked headings, etc.)**
     - > "My reader stops. Why did my reader just stop? If I hit tab, it takes me to the next session, so I miss the whole rest of it." - P13
 #### Two-Factor Authentication Interactions for AT Users
 - **2FA adds a lot of interactions that an AT users has to go through.**
-    - It can be difficult for them. And the authentication process is cumbersome for Vets who don’t have the required IDs.
+    - **It can be difficult for them. And the authentication process is cumbersome for Vets who don’t have the required IDs.**
         - > "Sometimes I get stuck with logging in. I’ve noticed that the login process for VA.gov and eBenefits has more (requirements)...it takes longer to get in. It can be kind of a hassle." - P19
         - > "I bet most vets aren’t using VA.gov, because you have to upload (documents) and the verification process. If you could come up with another process to verify rather than text..." - P20  
 
