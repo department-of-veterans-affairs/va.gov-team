@@ -1,6 +1,6 @@
 # List of Frontend/Backend Interactions
 
-## Start HLR Form
+## Start Higher Level Review Form
 
 Start HLR form
 
@@ -46,7 +46,7 @@ Get info for the veteran to pre-populate information on the form
 |                      |                                            | 422 Locked PDF w/ wrong password | Inline error. <br> We can't unlock your PDF. Save your file without a password and try uploading it again. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/af4371a1-9b09-4865-96c2-da453646e613)
 |                      |                                            | Any other                        | Inline error. <br> Header: We're sorry. We had a connection problem. Please try again. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/1dd28c24-eddb-49a4-86ae-36ced237047c)
 
-## Overall Board Appeal Submission
+## Overall Higher Level Review Submission
 
   The overall submission over the claim
 
