@@ -52,7 +52,8 @@ We would like to prompt veterans to review the app after a number of meaningful 
 1. In-app review pop-ups are perceived by some users as annoying. Putting them into newer features could cause those users to be less happy with their VA app experience.
 
 ## Business Goals
-* Which OCTO and Program goals does this tie to?
+* Mobile app objective 1: Veterans will use authenticated services that are highly personalized and valuable. Key Result: Satisfaction: maintain at least 4.8 app store ratings
+
 
 ## Roadmap
 
