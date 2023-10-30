@@ -1,4 +1,4 @@
-# Research Plan for Health Enrollment (1010) 1010EZR, December 2023
+# Research Plan for usability study on 10-10EZR form (Updates to health benefits information), Health Enrollment Team, December 2023
 
 ## Background
 The Health Benefits Update Form (10-10EZR) is a new online version of a currently paper-only form. It's used to update personal, insurance, or financial information for Veterans currently enrolled in health care benefits. Most commonly, this looks like adding or removing a dependent or updating income information. We will be usability testing the MVP version of the new online form to ensure it meets the needs of VA.gov users. The form contains 4 sections, and for MVP, must be completed and submitted in its entirety to be processed.
@@ -13,13 +13,13 @@ The four main sections are:
 
 
 ### What problem is your product trying to solve?
-Veterans who want to provide updates to their personal information for increasing or maintaining their health benefits are burdened with the manual processes of calling VA, mailing in a paper form and/or visiting a facility. This is driven by the lack of an online experience and pathway to provide these updates at a more convenient time and place for the Veteran. For Veterans who must provide these updates annually, the burden is multiplied. More information available in the [product outline - 10-10EZR Health Benefits Update form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/10-10EZR%20Product%20Brief%20(standalone%20form).md)).
+Veterans who want to provide updates to their personal information for increasing or maintaining their health benefits are burdened with the manual processes of calling VA, mailing in a paper form and/or visiting a facility. This is driven by the lack of an online experience and pathway to provide these updates at a more convenient time and place for the Veteran. For Veterans who must provide these updates annually, the burden is multiplied. More information available in the [product outline - 10-10EZR Health Benefits Update form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/10-10EZR%20Product%20Brief%20(standalone%20form).md).
 
 ### Where is your product situated on VA.gov?
 The product will live in the My Health section of VA.gov, but also be referenced by other static, informational pages on VA.gov, outside of the My Health section.
 
 ### What is Veterans’ familiarity with this tool?
-This is a new product and form, although the first version of this form will be very similar to the 10-10EZ.
+This is a new product and form, although the first version of this form will be very similar to the 10-10EZ in terms of questions asked and content.
 
 ### OCTO Priorities 
 
@@ -30,7 +30,6 @@ Increase
 - Usage of digital, self-service tools
 - Percent of applications submitted online (vs. paper)
 - Enhance Veterans’ personalized online experience
-- Fast-track disability claims, starting with PACT Act claims
 
 
 ### Veteran Journey
@@ -80,15 +79,14 @@ These learnings will allow us to evaluate for additional gaps during the rollout
 
 ## Methodology	
 - Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
 
 ### Location
 - Remote, moderated via Zoom.
 
 ### Research materials
 For moderated usability tests: 
-- [Link to conversation guide](products/health-care/application/va-application/research/2023-10-EZR MVP Usability/conversation-guide.md)
-- [Link to prototype](url goes here) TBD - either we will test on staging or potentially use a CodePen prototype.
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-12-EZR%20MVP%20Usability/conversation-guide.md)
+- [Link to staging](https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
 - [Link to recruitment ticket]() TBD
 
 ## Recruitment	
@@ -97,7 +95,6 @@ For moderated usability tests:
 Our intended audience for this research are Veterans and we will be using and leveraging Perigean to recruit participants.
 
 **Veterans: Requesting 12**
-
 
 ### Recruitment criteria
 
@@ -138,7 +135,6 @@ Our intended audience for this research are Veterans and we will be using and le
 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
@@ -148,7 +144,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research: **December 7 - December 14**
+* Planned dates of research: **TBD - December 7 - December 14**
 
 ### Length of sessions
 * Session length: 1 hour
