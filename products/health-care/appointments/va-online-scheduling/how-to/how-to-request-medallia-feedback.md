@@ -1,4 +1,6 @@
-# **How to Request Medallia Feedback**
+# **How to Request and Process Medallia Feedback**
+
+## How to Request
 
 1. Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. The feedback should be emailed to a VA.gov email address since it may contain PHI/PII information. 
 2. Open the Excel file they send back on the network and scrub PII
@@ -8,7 +10,7 @@
 
 Template: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley2019%2C+ATMiddleton%2C+newworld2616%2C+aubreyarcangel&labels=VSP-contact-center%2Ccc-data-request&projects=&template=qualitative-data-request.yml&title=Qualitative+Data+Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley2019%2C+ATMiddleton%2C+newworld2616%2C+aubreyarcangel&labels=VSP-contact-center%2Ccc-data-request&projects=&template=qualitative-data-request.yml&title=Qualitative+Data+Request)
 
-## How to fill in the fields
+### How to fill in the fields
 
 **Data Type Requested**
 
@@ -36,7 +38,7 @@ All in one file, on one tab
 
 [Your VA email address]
 
-## Medallia Feedback Requests - Q3 2023
+### Medallia Feedback Requests - Q3 2023
 
 | Dates                                | Submitted by     | Status       |
 |--------------------------------------|------------------|--------------|
@@ -68,3 +70,28 @@ All in one file, on one tab
 | Week 55 January 15th - 21st          |                  |  |
 | Week 56 January 22nd - 28th          |                  |  |
 | Week 57 January 29th - February 4th  |                  |  |
+
+## How to Process Feedback
+
+1. Contact Center will email the feedback to the address you provided.
+
+2. Download the spreadsheet to your machine on the VA network. 
+
+3. Rename the spreadsheet in the following format:
+`VAOS Medallia [YYYY] Q[#] Week[##] [Month] [DD]-[Month] [DD]` 
+For example: VAOS Medallia 2023 Q4 Week 44 Oct 30-Nov 5
+
+This make the feedback sortable by date in the appropriate folder.
+
+4. Scrub the feedback of PII/PHI. Read through every user comment and remove or obfuscate personal information.
+Look for:
+- Email addresses
+- Names
+- Social security numbers
+- Phone numbers
+
+5. Note any issues that may be new or indicate that something is broken. 
+
+6. Upload file to the Teams folder. Check that it is named so that it can be sorted by date.
+
+7. Share the file to the VA email addresses of the VAOS Product and UX team.
