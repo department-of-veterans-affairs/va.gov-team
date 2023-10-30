@@ -111,9 +111,14 @@ For all:
 
 
 For recruiting 2 mobile users:
-1.  Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet.          - Yes *(Qualify)*
+1.  Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet.
+    - Yes *(Qualify)*
     - No *(Disqualify)*
 
+For recruiting 2 users with cognitive disabilityes:
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+   	- Yes *(Qualify)*
+   	- No *(Disqualify)*
 
 
 ## Timeline
