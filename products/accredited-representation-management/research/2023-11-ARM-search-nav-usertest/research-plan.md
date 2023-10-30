@@ -143,7 +143,7 @@ When will the thing you are testing be finalized? 10/27/2023
 - Required 1 week prior to testing and have [midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/research-review) completed.
 
 Required: please indicate the date and name of a mock participant for a pilot session.
-- Pilot participant email: TBD PUMPKIN
+- Pilot participant email: jonathan.vancourt@adhocteam.us
 - Date and time of pilot session: 11/07/2023 at 3 PM EST
 
 ### Research sessions
@@ -163,7 +163,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development: Janelle Finnerty
 - Participant recruiting & screening: Perigean
 - Project point of contact: Janelle Finnerty
-- Participant(s) for pilot test: TBD PUMPKIN
+- Participant(s) for pilot test: Jonathan VanCourt
 - *Accessibility specialist (for sessions where support for assistive technology may be needed): N/A
 - *Notetakers:
 	- Holden Hinkle, Holden.Hinkle@oddball.io
