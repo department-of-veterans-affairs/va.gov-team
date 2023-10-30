@@ -58,15 +58,20 @@ The team laid out the entry points in [this Mural](https://app.mural.co/t/depart
   - Link destination: www.va.gov/pension/application/527EZ/introduction
  <img width="450" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/bdbfbe86-70de-404c-b947-a146e8a01af1">
 
-
 **6. [About VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/)**
-  - Link label:
   - Link destination: www.va.gov/pension/application/527EZ/introduction
  <img width="400" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/bd814a5a-528d-4a96-a6c4-1b208de52ffc">
 
-    
-**7. [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/)**
-  - Link label:
+**7. [Find a Form search results](https://www.va.gov/find-forms/?q=527EZ)**
+  - Link destination: www.va.gov/pension/application/527EZ/introduction
+<img width="550" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/0eb1a5d6-451f-41d6-8b90-8c5548b36dd2">
+
+**8. [Fully developed claim for a VA pension](https://www.va.gov/pension/how-to-apply/fully-developed-claim/)**
+  - Link label: Apply for pension benefits online
+  - Link destination: www.va.gov/pension/application/527EZ/introduction
+<img width="750" alt= "Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/09802a01-8920-44e2-956c-46d46a0073f7">
+
+**9. [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/)**
   - Link destination: www.va.gov/pension/application/527EZ/introduction
 <img width="450" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/4e7add42-ae54-40ed-97bf-d772fe1fb3f1">
 
