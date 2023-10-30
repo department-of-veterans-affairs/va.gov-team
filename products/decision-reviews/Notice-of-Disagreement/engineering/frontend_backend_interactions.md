@@ -1,5 +1,14 @@
 # List of Frontend/Backend Interactions
 
+## Get Veteran Contact Information
+
+  Gets a list of Veteran contact information from the VA profile
+
+| External System(s)   | # of occurences    | Responses  | Outcome / Message
+| -------------------- | ------------------ | ---------- | --------- 
+| -                    | 1 per submission   | 200        | Shows Veteran contact information
+|                      |                    | Any other  | -
+
 ## Get Contestable Issues
 
   Gets a list of contestable issues the veteran can choose from for this claim
