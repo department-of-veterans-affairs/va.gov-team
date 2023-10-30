@@ -31,12 +31,11 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
-| P10                        |                  |                    SR Microsoft Extension|                 |                      |             |             |
-| P12                       |                  |                 JAWS   |                 |                      |             |             |
-| P13/17                       |                  |        Fusion            |                 |                      |             |             |
-| P19A                        |                  |               VoiceOver     |                 |                      |             |             |
-| P19B                        |                  |       TalkBack             |                 |                      |             |             |
+| P10                        |        10/2/2034          |                    SR Microsoft Extension|    Intermediate             |        Windows              |     Edge        |          Desktop   |
+| P12                       |         10/3/2023         |                 JAWS   |         Intermediate        |     Windows              |     Chrome        |          Desktop                  |             |             |
+| P13/17                       |      10/3/2023 `P13` and 10/4/2023 `P17`          |        Fusion            |           Intermediate      |       iOS               |    Safari         |    iPad         |
+| P19`A`                        |     10/6/2023             |               iOS-VO     |         Intermediate        |     iOS                 |         Safari    |      iPhone       |
+| P19`B`                        |       10/10/2023           |       TalkBack             |    Advanced             |       Android`?`               |     Chrome        |    Mobile         |
 | P20                       |     10/10/2023             |         ZoomText           |       Advanced          |     Windows                   |        Edge     |     Desktop        |
 | P23                       |   10/12/2023               |         iOS-VO           |         Beginner        |           iOS           |       Safari      |  iPad           |
 | P24                       |  10/12/2023                 |         iOS-VO           |          Advanced       |   iOS                   |     Safari        |        Tablet     |
