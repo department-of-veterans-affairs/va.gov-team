@@ -144,10 +144,10 @@ When will the thing you are testing be finalized? 10/27/2023
 
 Required: please indicate the date and name of a mock participant for a pilot session.
 - Pilot participant email: TBD PUMPKIN
-- Date and time of pilot session: 11/07 at 3 PM EST
+- Date and time of pilot session: 11/07/2023 at 3 PM EST
 
 ### Research sessions
-- Planned dates of research: 11/13 - 11/20
+- Planned dates of research: 11/13/2023 - 11/20/2023
 
 ### Length of sessions
 - Session length: 1 hour
