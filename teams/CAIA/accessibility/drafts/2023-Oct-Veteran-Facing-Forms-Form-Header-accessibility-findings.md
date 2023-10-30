@@ -47,11 +47,11 @@ Add screenshots, images and videos here.
 - Feel free to include bullets
 - They can help add some more info
 
-### Finding 2: Stepper Confusion & Process Stage
+### Finding 2: Stepper Confusion & Stage in the Process
 - Feel free to include bullets
 - They can help add some more info
 
-### Finding 3
+### Finding 3: Informing the User: Identifying Progress Completed
 - Feel free to include bullets
 - They can help add some more info
 
