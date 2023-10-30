@@ -139,7 +139,7 @@ While CAIA cannot require you to complete any updates to your product, we can pr
 - **Desired Outcome:** Communicate progress to the user in a predictable and understandable nature.
 - **Experience standards:** `Category 11` `Issue 13` [link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
 - **Defect:** `Not Blocking`
-- **Impact Area:** `A11y` `Content` and/or `IA`
+- **Impact Area:** `A11y`
 - **Appears on:** `Experience Standards` `WCAG`
 - **WCAG:** `3.2.2` `4.1.3?`
 
