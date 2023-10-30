@@ -2,7 +2,7 @@
 
 ### Prototype instructions
 
-[Figma prototype link for prescription list enhancements] https://www.figma.com/proto/Si4LF4t8VOv8emdCovv3U3/%F0%9F%94%8D-Prescriptions-2.0---Working---VAMobile?page-id=1499%3A15245&type=design&node-id=1499-15407&viewport=812%2C486%2C0.31&t=gjAhJIZN0xMTxh98-1&scaling=min-zoom&starting-point-node-id=1499%3A15407
+[Figma prototype link for prescription list enhancements](https://www.figma.com/proto/Si4LF4t8VOv8emdCovv3U3/%F0%9F%94%8D-Prescriptions-2.0---Working---VAMobile?page-id=1499%3A15245&type=design&node-id=1499-15407&viewport=812%2C486%2C0.31&t=gjAhJIZN0xMTxh98-1&scaling=min-zoom&starting-point-node-id=1499%3A15407)
 
 _In the VA: Health & Benefits mobile app, users have navigated to the Health section. They have selected the Prescriptions feature within the Health section._
 
