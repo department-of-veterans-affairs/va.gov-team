@@ -135,12 +135,12 @@ While CAIA cannot require you to complete any updates to your product, we can pr
 - WCAG: `#.# Link to WCAG`
 ### Complete Later
 #### ISSUE ITEM NAME GOES HERE
-- Issue Description: 
-- Desired Outcome:
-- Experience standard:`Category #` `Issue #`
+- Issue Description: UI components do not initiate a change of context when they receive user input. The form screen changes, but the users sees they are on step 2 of 4, regardless.
+- Desired Outcome: Communicate progress to the user in a predictable and understandable nature.
+- Experience standard:`Category 11` `Issue 13`
 - Defect:`Not Blocking`
 - Impact Area: `A11y` `Content` and/or `IA`
-- Appears on: `Experience Standards` `WCAG` `Common Issues`
-- WCAG: `#.# Link to WCAG`
+- Appears on: `Experience Standards` `WCAG`
+- WCAG: `3.2.2` 
 
 </details>
