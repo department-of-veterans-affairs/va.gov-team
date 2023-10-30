@@ -25,21 +25,23 @@ Definitions from Google:
 
 **Bounce Rate on specific URLs**
 
-- va.gov/my-health/secure-messages/new-message/
-- va.gov/my-health/secure-messages/inbox/\*
+- va.gov/my-health/secure-messages/new-message/<sup>3
+- va.gov/my-health/secure-messages/inbox/<sup>1
 - va.gov/my-health/secure-messages/thread/1234567
 - va.gov/my-health/secure-messages/reply/1234567
 
-**Engagement Rate on specific URLs\*\***
+**Engagement Rate on specific URLs<sup>2***
 
-- va.gov/my-health/secure-messages/new-message/
-- va.gov/my-health/secure-messages/inbox/\*
+- va.gov/my-health/secure-messages/new-message/<sup>3
+- va.gov/my-health/secure-messages/inbox/<sup>1
 - va.gov/my-health/secure-messages/thread/1234567
 - va.gov/my-health/secure-messages/reply/1234567
 
-\*_Inbox use cases can cause ambiguity so triangulation with funnel data will be needed._
+_1 Inbox use cases can cause ambiguity so triangulation with funnel data will be needed._
 
-_\*\*Will need to calculate as inverse of bounce rate until VA.gov is on GA4._
+_2 Will need to calculate as inverse of bounce rate until VA.gov is on GA4._
+
+_3 Interstitial and compose pages have the same URL, so rates will be conflated._
 
 ## **Hypothesis**
 
