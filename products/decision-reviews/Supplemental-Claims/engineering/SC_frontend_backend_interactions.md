@@ -48,6 +48,24 @@
 |                      |                           | 403 Forbidden | Error alert. <br> Header: Your decision review request didn't go through <br> Body: We're sorry. We're working to fix the problem, but it may take us a while. Please try again tomorrow. <br> If you're still having trouble submitting your request, call us at 800-698-2411 (TTY:711). We're here 24/7. Your in-progress ID is `ID number`. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/00945ee3-7a2d-4919-9403-5dfa3fa15859)
 |                      |                           | Any other     | Error alert. <br> Header: We're sorry, there was an error connecting to VA.gov. <br> Body: Please check your internet connection and try again. [Screnshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/2fec9183-8f91-4497-bf27-eeb598b96bad)
 
+## Evidence Uploads 
+  
+  Files provided by the user to support their claim	
+
+| External System(s)   | # of occurences           | Responses                    | Outcome / Message
+| -------------------- | ------------------------- | ---------------------------- | --------- 
+| Lighthouse           | 0-Many per submission     | 200                          | Happens via queued job after submission, user is not aware if this succeeds.
+|                      |                           | Any other                    | Happens via queued job, user is not aware if this fails. Uploaded evidence does not get to the VA, while the user thinks that it did.
+
+## Form 4142(a) 
+  
+Authorization to Disclose Information to the Department of Veterans Affairs, usually medical records from private sources.	
+
+| External System(s)   | # of occurences           | Responses                    | Outcome / Message
+| -------------------- | ------------------------- | ---------------------------- | --------- 
+| Central Mail         | 0-1 per submission        | 200                          | Happens via queued job after submission, user is not aware if this succeeds.
+|                      |                           | Any other                    | Happens via queued job, user is not aware if this fails. The 4142 just does not get to the VA, while the user thinks that it did
+
 ## Save In Progress
 
   Saving of a users progress through the form
