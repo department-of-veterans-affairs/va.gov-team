@@ -65,21 +65,22 @@ Let’s start with a few warm-up questions.
 - If no, skip to question 2.
 2. When was the last time you visited a VA medical facility?
 
-## First Task: [Wayfinding] - 5 minutes
+## First Task: [Notifications and Awareness] - 5 minutes
 
-- Have you previously received any notification or prompt to update your health care information? If yes, can you describe how the process went?
+- Can you share any past experiences regarding updates to your health benefits information?
 - Imagine you've been notified to update your financial information in order to maintain your co-pay and health care benefits. How might you go about doing that?
 - Describe your preferred method of notification to update your health care information.
-- How would you expect to update your information online? What steps would you take?
+- How would you expect to update your information online? What specific steps would you take?
 
 ### Things to watch for:
 
 - [What's the participant's mental model around updating their health care information?]
+- [If they have updated their health care benefits information before, was it in person, by phone, or by mail?]
 
 
-## Second Task: [Static Page] - 5 minutes
+## Second Task: [Wayfinding - Static Page] - 5 minutes
 
-- Are you comfortable sharing your screen and walking through how you might update your health care benefits information?
+- For this next scenario, you recently moved and realized you'll need to update your mailing address. So you jump on Google to see where you can update your information. Google takes you to this page on VA.gov you're about to see. For this scenario, are you comfortable with sharing your screen and talking through your thought process?
 - Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
 - [Share link to https://VA.gov ---- in Zoom chat]
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
@@ -115,7 +116,7 @@ Let’s start with a few warm-up questions.
 
 ## Fourth Task: [The Form] - 10 minutes
 
-- For this next task, we are going to have you go through the form as if you were prompted to update your information. While this form is a prototype, it is connected to the VA system so please do not submit the form if we get to the end.
+- For this next task, we are going to have you go through the form as if you were prompted to update your information. This is a special beta version of the form, accessible via the email you provided before its official release. Please be careful not to submit unless you intend to update your health benefits information for real.
 - As you go through the form, could you please talk aloud about what you would need to do as you go.
 
 **Participant questions** 
@@ -126,6 +127,7 @@ Let’s start with a few warm-up questions.
 - [Does the participant notice the pre-fill alerts?]
 - [Does the participant notice that the pre-filled information can be edited? ]
 - [Does the participant notice that the household financial information is not pre-filled? ]
+- [Is there any struggle with the household and insurance's multiple-responses pattern?] 
 
 ## Post-Task Interview - 2 minutes
 
