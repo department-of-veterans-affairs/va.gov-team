@@ -80,7 +80,7 @@ Let’s start with a few warm-up questions.
 
 ## Second Task: [Wayfinding - Static Page] - 5 minutes
 
-- For this next scenario, you recently moved and realized you'll need to update your mailing address. So you jump on Google to see where you can update your information. Google takes you to this page on VA.gov you're about to see. For this scenario, are you comfortable with sharing your screen and talking through your thought process?
+- For this next scenario, imagine you just started a new job and your health insurance has changed because of it. Now, you've realized that you need to update your insurance details for your VA health care benefit. To do that, you decided to search on Google to find out how and where you can update your information. Google takes you to this page on VA.gov you're about to see. For this scenario, are you comfortable with sharing your screen and talking through your thought process?
 - Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
 - [Share link to https://VA.gov ---- in Zoom chat]
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
