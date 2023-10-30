@@ -6,13 +6,13 @@ This document outlines the scope of category, topic, and subtopic changes for Ph
 These changes are documented in [this spreadsheet](https://docs.google.com/spreadsheets/d/1qRpAwE-OmISFzYsg4w3n8VlBsxJxkBAFZL21AWDXFKc/edit#gid=0).
 
 **Jump to**
-- [Must have updates for Phase 1](#must-have-updates-for-phase-1)
-- [Nice to have updates for Phase 1](#nice-to-have-updates-for-phase-1)
+- ["Must Have" updates for Phase 1](#must-have-updates-for-phase-1)
+- ["Nice to Have" updates for Phase 1](#nice-to-have-updates-for-phase-1)
 
-## Must have updates for Phase 1
+## "Must Have" updates for Phase 1
 - Changes to category, topic and subtopic names only
 
-## Nice to have updates for Phase 1
+## "Nice to Have" updates for Phase 1
 - Adding new topic or subtopic
 - Removing current topic or subtopic
 - Adding routing queues for new topics and subtopics
