@@ -33,7 +33,7 @@
 
 | External System(s)   | # of occurences                            | Responses                        | Outcome / Message
 | -------------------- | -------------------------------------------| -------------------------------- | --------- 
-| AWS S3               | Any per submission, including 0 (optional  | 200                              | Prompt for document type [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/e7ab26df-9bf2-47d7-8727-f00c5667e99c)
+| AWS S3               | 0-Many per submssion (optional)            | 200                              | Prompt for document type [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/e7ab26df-9bf2-47d7-8727-f00c5667e99c)
 |                      |                                            | 422 Locked PDF w/ wrong password | Inline error. <br> We can't unlock your PDF. Save your file without a password and try uploading it again. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/af4371a1-9b09-4865-96c2-da453646e613)
 |                      |                                            | Any other                        | Inline error. <br> Header: We're sorry. We had a connection problem. Please try again. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/1dd28c24-eddb-49a4-86ae-36ced237047c)
 
@@ -46,6 +46,15 @@
 | Lighthouse           | 1 per submission          | 200           | Redirect to confirmation page. <br> Success alert. <br> Header: Thank you for filing a Board Appeal <br> Body: When we've completed our review, we'll mail you a decision packet with the details of our decision. 
 |                      |                           | 403 Forbidden | Error alert. <br> Header: Your decision review request didn't go through <br> Body: We're sorry. We're working to fix the problem, but it may take us a while. Please try again tomorrow. <br> If you're still having trouble submitting your request, call us at 800-698-2411 (TTY:711). We're here 24/7. Your in-progress ID is `ID number`. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/00945ee3-7a2d-4919-9403-5dfa3fa15859)
 |                      |                           | Any other     | Error alert. <br> Header: We're sorry, there was an error connecting to VA.gov. <br> Body: Please check your internet connection and try again. [Screnshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/2fec9183-8f91-4497-bf27-eeb598b96bad)
+
+## Evidence Uploads (after submission)
+  
+  Files provided by the user to support their claim	
+
+| External System(s)   | # of occurences           | Responses                    | Outcome / Message
+| -------------------- | ------------------------- | ---------------------------- | --------- 
+| Lighthouse           | 0-Many per submission     | 200                          | Happens via queued job after submission, user is not aware if this succeeds.
+|                      |                           | Any other                    | Happens via queued job, user is not aware if this fails. Uploaded evidence does not get to the VA, while the user thinks that it did.
 
 ## Save In Progress
 
