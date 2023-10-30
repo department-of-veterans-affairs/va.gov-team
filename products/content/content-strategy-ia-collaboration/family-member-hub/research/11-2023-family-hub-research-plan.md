@@ -51,34 +51,42 @@ Learnings will help refine how we organize and group information within the new 
 
 ### Hypothesis
 
-1. Family members and caregivers will primarily navigate to the family member hub to discover and apply for benefits for themselves
-2. Family members and caregivers will primarily navigate to the family member hub to manage and track their own benefits
-3. Survivors will primarily navigate to the section labeled "Survivors" to find information on benefits
-4. Caregivers will primarily navigate to the section labeled "Caregivers" to find information on benefits
+1. Family members and caregivers will primarily navigate to the family member hub for information on benefits for themselves
+2. Family members and caregivers will primarily navigate to the family member hub to complete tasks related to managing and tracking their own benefits
+3. Survivors will navigate to the section labeled "Survivors" in the family member hub to find information on benefits
+4. Caregivers will navigate to the section labeled "Caregivers" in the family member hub to find information on benefits
 
 ## Methodology	
 
 ### IA Tree Test (remote, unmoderated)
 Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains XX tasks. For each task, the participant will be asked to locate in the menu tree where they believe a specific task can be completed.
 
-### Location
-Data collection will be remote and conducted using Optimal Workshop.
-
-###Research Materials
+### Research Materials
 
 For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
 - [Link to email with instructions](url goes here)
 
 **Tree test links**
 
-Cohort 1 - 
-Cohort 2 - 
-Cohort 3 - 
-Cohort 4 - 
-Cohort 5 - 
-Cohort 6 - 
+- Cohort 1 - 
+- Cohort 2 - 
+- Cohort 3 - 
+- Cohort 4 - 
+- Cohort 5 - 
+- Cohort 6 - 
 
-	
+**Tasks**
+1. You're a family member who takes care of a Veteran full time. You want to apply to get health care for yourself through VA.
+2. You are the surviving spouse of a Veteran. You want to find out if you're eligible for monetary benefits from VA. 
+3. You are the surviving child of a Veteran whose disability claim VA approved after the Veteran's death. You want to apply to receive the benefits that VA owes for this claim.
+4. Your parent is a Veteran who recently transferred their GI Bill benefits to you. You now need to apply to use those benefits to pay for college.
+5. You want to know what types of services and support you can get for your own mental health needs as you support the Veteran in your family.
+6. You're the family member of a Veteran. You need to download the Veteran's military discharge record, also known as their DD-214. 
+7. You drove the Veteran in your family to a VA primary care appointment at VA and want to get paid back for the cost of gas.
+8. You are the surviving spouse of a Veteran who receives monthly payments from VA. You want to check the amount of your most recent payments.
+9. You're enrolled in a VA health care program that lets you order medications by mail through VA. You want to request a refill for a medication.
+10. The Veteran in your life can no longer manage their own finances. They've asked you to find out if you can get approved to manage their VA benefit payments for them. 
+ 
 ## Recruitment	
 
 OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
@@ -103,6 +111,15 @@ Benefit enrollments
 - Is enrolled in at least 1 VA benefit 
 - Is not enrolled in any VA benefits
 
+
+### Proposed cohorts
+
+Cohort 1 - Family member + enrolled in at least 1 VA benefit + Female
+Cohort 2 - Family member + not enrolledin any VA benefits + Female
+Cohort 3 - Family member + Male
+Cohort 4 - Caregiver + enrolled in at least 1 VA benefit + Female
+Cohort 5 - Caregiver + not enrolledin any VA benefits + Female
+Cohort 6 - Caregiver + Male
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
