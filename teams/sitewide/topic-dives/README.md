@@ -22,7 +22,9 @@ Please add any potential future topics you would like covered below:
 
 ### 10/30/23 - How to make your Content Model Documentation ride with your code.
    - Steve Wirt
-   - This is primarily for developers.  Prior to now, Content Model Documents had to be created on prod **AFTER** the code adding a new field/paragraph/content-type/taxon made it to prod.  This is to cover a new process to have it ride with the code. 
+   - This is primarily for developers.  Prior to now, Content Model Documents had to be created on prod **AFTER** the code adding a new field/paragraph/content-type/taxon made it to prod.  This is to cover a new process to have it ride with the code.
+   - [Video](https://civicactions.zoom.us/rec/share/Bnw7JnpF-7NWJDXGo4K7KXeY01QStkVDn8f9sLWBm21i4BsNjBuWe5Tv6QRO3jhX.PHNKPgnTQuOjbovg?startTime=1698688832000)  passcode: JQh=8TSR
+   - Documentation of process (not on prod yet).
 
 ### 10/23/23 - VA Service Taxonomy
 - Dave Pickett
