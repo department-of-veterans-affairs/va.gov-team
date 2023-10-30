@@ -52,6 +52,10 @@ Add screenshots, images and videos here.
 - They can help add some more info
 > “Not sure how many pages I have left because it says 2 of 4, but I was on 2 of 4 already. Basically I have four pages, but I could be on 10 or 3. This would frustrate me. I think I am getting close to the end and these forms are tedious already. That would just annoy me more. I would be thinking I was thoroughly progressing but I am not.  I can't tell if I am in the beginning, middle or end, now. If I go back it will say 2 of 2.” - P10
 
+<img width="381" alt="Step 2 of 4 Your Information" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/124186314/1d790878-2e2a-4084-a289-0bbd5d3b8cca">
+
+
+
 ### Finding 3: Informing the User: Identifying Progress Completed
 - Feel free to include bullets
 - They can help add some more info
