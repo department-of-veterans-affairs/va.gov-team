@@ -93,15 +93,10 @@ For moderated usability tests:
 ### Recruitment approach
 Our intended audience for this research are Veterans and we will be using and leveraging Perigean to recruit participants.
 
-**Veterans: Requesting 10**
+**Veterans: Requesting 12**
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
-
-At least 12 completed sessions, all Veterans
-
 
 **Primary criteria (must-haves)**
 
