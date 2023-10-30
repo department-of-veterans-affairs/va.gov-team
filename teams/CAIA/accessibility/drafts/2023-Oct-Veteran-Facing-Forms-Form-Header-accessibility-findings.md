@@ -44,21 +44,25 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 
 <details><summary>Toggle to read accessibility-related key findings</summary>
 
-### Finding 1: Page Heirarchy & User Location
-- Feel free to include bullets
-- They can help add some more info
+### Finding 1: Stepper Confusion & Stage in the Process
+- Users are confused as to where they are in the process, when they are still on the same [step #] of [#steps].
+- > “Not sure how many pages I have left because it says 2 of 4, but I was on 2 of 4 already. Basically I have four pages, but I could be on 10 or 3. This would frustrate me. I think I am getting close to the end and these forms are tedious already. That would just annoy me more. I would be thinking I was thoroughly progressing but I am not.  I can't tell if I am in the beginning, middle or end, now. If I go back it will say 2 of 2.” - P10
+- <img width="381" alt="Step 2 of 4 Your Information" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/124186314/1d790878-2e2a-4084-a289-0bbd5d3b8cca">
 
-### Finding 2: Stepper Confusion & Stage in the Process
-- Users are confused as to where they are in the process, when they are still on the same [step #] of [#steps]. 
 - **According to the USWDS:** A [step indicator](https://designsystem.digital.gov/components/step-indicator/) updates users on their progress through a multi-step process.
     - Place a heading directly below the step indicator. Each step needs an explicit heading. The step indicator segments (even with labels and counters) are not sufficient as a heading for a page or screen.
     - [Access additional details on this component](https://designsystem.digital.gov/components/step-indicator/#accessibility:~:text=the%20overall%20process.-,Accessibility,-Use%20semantic%20heading)
+        - Use semantic heading levels. Though our default code uses an `<h4>`, use the correct heading level in your own implementation.
+        - Use `aria-label=”progress”`. Placing this `aria-label` on the element with the class `usa-step-indicator` helps provide important context to screen readers.
+        - Use visually hidden text on labels. Use visually hidden text make the completion status of each step explicit.
+        - Indicate the current step. When using labeled segments, use `aria-current="true"` on the list item representing the current step.
+        - Hide unlabeled segments. There is no content inside the segments when labels aren’t used, so it is safe to add `aria-hidden="true` to the element with the class name `usa-step-indicator__segments`.
     - [Review the Component in the VA.gov Design System](https://design.va.gov/components/form/progress-bar-segmented)
-> “Not sure how many pages I have left because it says 2 of 4, but I was on 2 of 4 already. Basically I have four pages, but I could be on 10 or 3. This would frustrate me. I think I am getting close to the end and these forms are tedious already. That would just annoy me more. I would be thinking I was thoroughly progressing but I am not.  I can't tell if I am in the beginning, middle or end, now. If I go back it will say 2 of 2.” - P10
-
-<img width="381" alt="Step 2 of 4 Your Information" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/124186314/1d790878-2e2a-4084-a289-0bbd5d3b8cca">
 
 
+### Finding 2: Page Heirarchy & User Location
+- Feel free to include bullets
+- They can help add some more info
 
 ### Finding 3: Informing the User: Identifying Progress Completed
 - Feel free to include bullets
