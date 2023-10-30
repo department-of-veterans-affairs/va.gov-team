@@ -49,7 +49,8 @@ This product fits into the [Veteran journey](https://github.com/department-of-ve
 - Goal 3: **Financial information update notification** - Determine how a Veteran knows or would like to know they need to update the household financial section.
 
 ### Outcome
-These learnings will allow us to evaluate for additional gaps during the rollout of new form to production. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed in future interations.
+These learnings will allow us to evaluate for additional gaps to address in future iterations of the form. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed by priority and impact.
+
 
 ### Research questions
 #### Goal 1: **Pre-filled information** - Test the usability of the prefilled form fields to see if Veterans understand what information needs to be updated, that the information is prefilled and information can be changed.
@@ -90,8 +91,8 @@ These learnings will allow us to evaluate for additional gaps during the rollout
 ### Research materials
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-12-EZR%20MVP%20Usability/conversation-guide.md)
-- [Link to staging](https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
-- [Link to recruitment ticket]() TBD
+- [Link to production](https://va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
+- [Link to recruitment ticket]() 
 
 ## Recruitment	
 
@@ -100,8 +101,8 @@ Our intended audience for this research are Veterans and we will be using and le
 
 **Veterans: Requesting 24 / completed 14**
 
-Cohort 1: Requested 12 / completed 7
-Cohort 2: Requdested 12 / completd 7
+- Cohort 1: Requested 12 / completed 7
+- Cohort 2: Requdested 12 / completd 7
 
 
 ### Recruitment criteria
@@ -110,7 +111,6 @@ Cohort 2: Requdested 12 / completd 7
 - Enrolled in VA health care
 - At least 3 are using a mobile device during the session
 - At least 2 are using assistive technology
-- A mix of disability ratings (from 0%-100%)
 - At least 2 participants who are biracial
 - At least 2 participants who identify at LGBTQ+
 
@@ -141,14 +141,14 @@ Cohort 2: Requdested 12 / completd 7
     - Response option: text box
 
 
-Cohort 1:
+### Cohort 1:
 **All participants**
 - Do you have a VA service-connected disability rating of 30% or higher?
     - Yes *(Qualify)*
     - No *(Disqualify)*
 
 
-Cohort 2:
+### Cohort 2:
 **All participants**
 - Do you get VA disability compensation for a service-connected disability rating?
     - Yes *(Disqualify)*
