@@ -21,7 +21,7 @@ When users tap on the new combined filter and sort functionality, the mobile app
 - This full panel has 2 sections: Filter by and Sort by.
 - The filter options include all prescription/refill statuses (with active statuses grouped together as 1 option).
 - The filter options have new pending and tracking options, which were previously shown as tabs on the main screen. We included helper copy -- taken from previously approved copy -- to exlaim what is included in these options.
-- The filter options also now include a prescription count in parenthesis next to the filter label. This way a user has 1 place to access how many are in each grouping or selection.
+- The filter options also now include a prescription count in parentheses next to the filter label. This way a user has 1 place to access how many are in each grouping or selection.
 - We added a new sort option: Status (A to Z). We removed the ability to sort by facility name.
 
 #### 3. Users filter by Active
