@@ -98,40 +98,46 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
     - P24 mentioned that the continue button being right underneath the radio buttons was very helpful.
 - Some users used their browser's 'back' button to navigate through the form instead of the "Back" link.
 
-### Finding 4
-- Feel free to include bullets
-- They can help add some more info
-> "Quote goes here." - Pxx
+### Finding 4: Users expected to be able to save their progress upon exiting the form.
+- Many users expected a “save” button to accompany the exit process. Most looked for a “save and continue” button, and felt frustrated when they couldn’t find one. We had to explain that it was unauthenticated.
+    - >  "I want it to tell me to save it. Most of the forms on the VA, you can’t save them…and have to start over." - P13, after tabbing to the "Exit" link
+    - > "You’d scroll to the top and click 'save'...hmm, I don’t see a ‘save’. If you just exit you’ll lose all your information. I don’t see a tab that says ‘save and continue later." - P19B 
+    - > "Well, it doesn’t suggest that I can save it, so I’d click on ‘Exit form'" - P20
+     - > "At this point, this is where I would call my daughter or health advocate." - P23, when asked to exit the form and trying to find a “Save” button. 
+     - > "I need to go to ‘Save and Continue,’ there’s usually a button at the bottom like that." - P26, who also noted that using a screen reader takes time and he "gets tired, sometimes wants to take a break." 
 
-### Finding 5
-- Feel free to include bullets
-- They can help add some more info
-> "Quote goes here." - Pxx
+### Finding 5: Users wanted to know if the form was being saved or not.
+- > "Oh, just like Word." - P13, when we explained that the form would auto-save
+- > "I don’t know if this form could be saved. I’ve never seen a form on the VA portal (that lets me save). Maybe it’s there and I didn’t see it." - P13
+- > "I wouldn’t think the form was saved because there isn’t an information is saved alert." - P19
+- > "Yes, at the bottom…You’re already trying to listen as a visually impaired section. As long as you can get to the end and save, it’s fine (each time before you hit continue)." - P19, when asked if they want to hear an "information saved" message
+- > "Having a visual save option would help. Text that says ‘save’. I have a feeling you guys will probably (add that). And looking at the top of this page, you could put ‘save’ next to the ‘back’ and ‘exit’ buttons, and maybe make that a bit larger font." - P20
 
-### Finding 6
-- Feel free to include bullets
-- They can help add some more info
-> "Quote goes here." - Pxx
+### Finding 6: Some users ignored the "Exit" link completely.
+- Some users preferred to manually close the tab (alt + F4) to exit, rather than looking for an exit link.
+    - > What would you do to end this process? “Alt + F4.” What would that do? “Cancel it all out, get rid of it.” - P12
+    - P26 said he’d leave the window open and open a new Chrome tab, then use alt+tab to go between the tabs. He’d also consider bookmarking the page to return to it later. 
 
-### Finding 7
-- Feel free to include bullets
-- They can help add some more info
-> "Quote goes here." - Pxx
+### Finding 7: The date of birth and social security number fields were challenging for some users.
+- **Date of birth:**
+    - > "I hate these things where you have to pick the month, but have to type the day and year…I expect the same thing (in each field)...it’s be much easier if you could just type in ‘05’ (for month), it’s simpler that way. I’m old and get confused easy…In MyHealtheVet, its numerical dates. It’d be much easier if it was the same all the way through." - P12
+     - > "I don’t hear a number in my day. I hear month, and then day, but no numbers are going in. In the day I am trying to get a number in there." - P13
+     - P23 mentioned that having to manually type in birthday was difficult and expected a drop down like how the month is.
+     - P24: “Day” field was not announced after selecting a month. After typing in Day it automatically places focus to year input field. 
+- **Social security number:**
+    - P13 had an issue entering. They entered 9 numbers, but the didn’t group them by dashes properly, and got an error. 
+    - > "3 input fields are easier than one long input field for social security. Long input field I forget how many numbers I type, also-  if I type in a long input field I would have to delete the whole number and start over again." - P20
 
-### Finding 8
-- Feel free to include bullets
-- They can help add some more info
-> "Quote goes here." - Pxx
-
-### Finding 9
-- Feel free to include bullets
-- They can help add some more info
-> "Quote goes here." - Pxx
-
-### Finding 10
-- Feel free to include bullets
-- They can help add some more info
-> "Quote goes here." - Pxx
+### Other pain points (not limited to this form)
+- Lack of consistency between VA.gov and MyHealtheVet, and other federal gov web platforms, causes confusion for AT users, who have to “re-learn” on each new site.
+    - > "These are all government websites. I know you’re looking for different things on different government websites, but they should at least be able to make certain parts of it standard so you don’t have to try to guess." - P26 
+-  On intro page, time to completion is for able, sighted users, and doesn’t given an approximation for AT users.
+    - > "Says it’ll take 5 minutes (for sighted users); would be 15 or 20 minutes for me. I can get through it, but that’s because the questions are really easy." - P13
+- Beginner and intermediate screen reader users tend to be “tabbers” - using tab to navigate between interactive elements. This has the effect of lots of text NOT being read out loud, when text isn't focusable (think paragraphs, unlinked headings, etc.)
+    - > "My reader stops. Why did my reader just stop? If I hit tab, it takes me to the next session, so I miss the whole rest of it." - P13
+- 2FA adds a lot of interactions that an AT users has to go through. It can be difficult for them. And the authentication process is cumbersome for Vets who don’t have the required IDs.
+    - > "Sometimes I get stuck with logging in. I’ve noticed that the login process for VA.gov and eBenefits has more (requirements)...it takes longer to get in. It can be kind of a hassle." - P19
+    - > "I bet most vets aren’t using VA.gov, because you have to upload (documents) and the verification process. If you could come up with another process to verify rather than text..." - P20  
 
 </details>
 
