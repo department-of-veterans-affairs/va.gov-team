@@ -40,7 +40,7 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Ready to Present
 
-* [QA for App Analytics](https://docs.google.com/document/d/1_TdadjctMROFXhbxJk8UwUe4c7WGxbqJiYD1pW0brPk/edit#heading=h.qulbhnvoupr4) (Greta)
+* [QA for App Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/QA%20for%20analytics/Sprint%200%3A%20QA%20for%20analytics.md) (Greta)
 * [In-app review updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/In-App%20Review%20Updates/InAppReviewUpdates.md) (Therese)
 
 
