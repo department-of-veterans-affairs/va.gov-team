@@ -38,8 +38,9 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 
 **Participants who successfully completed sessions:** `9`/`10`
 
-## Key Findings (A11Y Segment)
-Add screenshots, images and videos here.
+## Key Findings & User Feedback (A11Y Segment)
+
+**Veterans' Voices:** Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the `##` quotes that were selected for inclusion, in this report.
 
 <details><summary>Toggle to read accessibility-related key findings</summary>
 
@@ -60,66 +61,43 @@ Add screenshots, images and videos here.
 ### Finding 3: Informing the User: Identifying Progress Completed
 - Feel free to include bullets
 - They can help add some more info
+> "Quote goes here." - Pxx
+
 
 ### Finding 4
 - Feel free to include bullets
 - They can help add some more info
+> "Quote goes here." - Pxx
 
 ### Finding 5
 - Feel free to include bullets
 - They can help add some more info
+> "Quote goes here." - Pxx
 
 ### Finding 6
 - Feel free to include bullets
 - They can help add some more info
+> "Quote goes here." - Pxx
 
 ### Finding 7
 - Feel free to include bullets
 - They can help add some more info
+> "Quote goes here." - Pxx
 
 ### Finding 8
 - Feel free to include bullets
 - They can help add some more info
+> "Quote goes here." - Pxx
 
 ### Finding 9
 - Feel free to include bullets
 - They can help add some more info
+> "Quote goes here." - Pxx
 
 ### Finding 10
 - Feel free to include bullets
 - They can help add some more info
-
-</details>
-
-## User Feedback
-
-### Veterans' Voices: Impactful Quotes 
-Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the `##` quotes that were selected for inclusion, in this report.
-
-<details><summary>Toggle to read the impactful quotes from veterans participating in this study.</summary>
-<br> 
-
-> "Quote goes here." - P10
->
-
-> "Quote goes here." - P12
-
-> "Quote goes here." - P13/17
-
-
-> "Quote goes here." - P19A
-
-
-> "Quote goes here." - P19B
-
-> "Quote goes here." - P20
-
-> "Quote goes here." - P23
-
-> "Quote goes here." - P24
-
-> "Quote goes here." - P26
-
+> "Quote goes here." - Pxx
 
 </details>
 
