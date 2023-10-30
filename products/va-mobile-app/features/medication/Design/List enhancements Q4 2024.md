@@ -2,9 +2,32 @@
 
 ### Prototype instructions
 
-INSERT PROTOTYPE LINK HERE
 
-_In the VA: Health & Benefits mobile app, the user has navigated to the Health section. They have selected the Prescriptions feature within the Health section._
 
-#### 1. Default prescription list
+_In the VA: Health & Benefits mobile app, users have navigated to the Health section. They have selected the Prescriptions feature within the Health section._
 
+#### 1. Users on default prescription list
+When users nagivate to the Prescriptions feature, the mobile app shows their full list of VA prescriptions.
+- The list header tells users we're displaying all their prescriptions and the count of those prescriptions.
+- We include body copy/disclaimer text that notes that this list only includes prescriptions filled by VA pharmacies and may not include all their medications.
+- We've combined the filter and sort action into a single tapable tag and placed it below (and therefore closer to) the list header. The placement of this tag closer to the list header becomes important when a user starts interacting with it.
+- We removed the 3 tabs (All, Pending, Tracking).
+
+The default filtering and sorting of the prescriptions list is filtered All prescriptions with the list sorted by Status (A to Z). 
+- This ensures that active prescriptions are bubbled up to the top.
+
+#### 2. Users interacts with new filter/sort
+When users tap on the new combined filter and sort functionality, the mobile app displays a full panel.
+- This full panel has 2 sections: Filter by and Sort by.
+- The filter options include all prescription/refill statuses (with active statuses grouped together as one option) as well as new pending and tracking options, which were previously shown as tabs on the main screen.
+- We added a new sort option: Status (A to Z). We removed the ability to sort by facility name.
+
+#### 3. Users filter by Active
+When users are in the filter/sort full panel, select the Active filter option, and tap the Apply button, they'll be shown an updated prescriptions list.
+- 
+
+#### 4. Users filter by Pending
+
+
+
+#### 5. Users filter by Tracking
