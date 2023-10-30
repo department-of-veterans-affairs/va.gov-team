@@ -60,6 +60,14 @@ Learnings will help refine how we organize and group information within the new 
 
 ### IA Tree Test (remote, unmoderated)
 Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains XX tasks. For each task, the participant will be asked to locate in the menu tree where they believe a specific task can be completed.
+**Test logistics**
+- Participant will be required to enter their unique code at the beginning and end of the activity
+- Tasks will be randomized to reduce order bias
+- Max 10 tasks will included to reduce learning of tree
+- Participants will be allowed to skip tasks to reduce forced anwers
+- Participants who skip 100% of tasks will be asked to repeat the activity thoroughly before receiving compensation
+- Only participants that have a valid code will be compe
+
 
 ### Research Materials
 
@@ -68,12 +76,20 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 
 **Tree test links**
 
-- Cohort 1 - 
-- Cohort 2 - 
-- Cohort 3 - 
-- Cohort 4 - 
-- Cohort 5 - 
-- Cohort 6 - 
+- Pilot - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=0
+- Cohort 1 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=1
+- Cohort 2 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=2
+- Cohort 3 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=3
+- Cohort 4 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=4
+- Cohort 5 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=5
+- Cohort 6 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=6
+
+**Pre-activity questions**
+1. Which option most accurately describes your relationship to the Veteran in your life?
+  - Spouse, child, or parent of a living Veteran
+  - Surviving spouse, child, or parent of a Veteran
+  - Family caregiver of a Veteran
+  - Non-family caregiver of a Veteran
 
 **Tasks**
 1. You're a family member who takes care of a Veteran full time. You want to apply to get health care for yourself through VA.
@@ -175,6 +191,6 @@ We won't share any information or feedback linked to your name or other personal
 
 Here's your participant code: [Add code]
 
-You'll need to enter this at the start of the activity, and after you've completed the last task to receive compensation.
+You'll need to enter this at the start of the activity and after you've completed the last task to receive compensation.
 
 [link] Start the activity now
