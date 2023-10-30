@@ -48,6 +48,9 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 - Users are confused as to where they are in the process, when they are still on the same [step #] of [#steps].
 - > “Not sure how many pages I have left because it says 2 of 4, but I was on 2 of 4 already. Basically I have four pages, but I could be on 10 or 3. This would frustrate me. I think I am getting close to the end and these forms are tedious already. That would just annoy me more. I would be thinking I was thoroughly progressing but I am not.  I can't tell if I am in the beginning, middle or end, now. If I go back it will say 2 of 2.” - P10
 - <img width="381" alt="Step 2 of 4 Your Information" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/124186314/1d790878-2e2a-4084-a289-0bbd5d3b8cca">
+- > "We’re in chapter 2 (but not how many chapters there are). It doesn’t say how long this is going to take. The last page said ‘2 of 4,’ but this one didn’t." - P13
+- > "It was my understanding initially that there was one page per (chapter). Apparently there are multiple (pages) per chapter." - P20
+- > "I don’t have a clue." - P26, upon being asked _What if you wanted to see how many pages are in front of you?_ 
 
 - **According to the USWDS:** A [step indicator](https://designsystem.digital.gov/components/step-indicator/) updates users on their progress through a multi-step process.
     - Place a heading directly below the step indicator. Each step needs an explicit heading. The step indicator segments (even with labels and counters) are not sufficient as a heading for a page or screen.
@@ -60,15 +63,29 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
     - [Review the Component in the VA.gov Design System](https://design.va.gov/components/form/progress-bar-segmented)
 
 
-### Finding 2: Page Heirarchy & User Location
-- Feel free to include bullets
-- They can help add some more info
+### Finding 2: Form Title
+- If the user can access the form title/number, they clearly understand what form they're on.
+- Users appreciated having the form title and number available to them.
+   - > "(using ctrl+Home)...gave me the title of the form" - P12
+   - > "I really like that. You don’t always know the form number." - P13
+    - > "I would go back to the previous page and double check the form number to confirm I am on the correct form." - P23
+- One screen reader user was unable to find/read the form title.
+   - P26 used the URL to try to figure out what form he was on. He navigated the page by tabbing, and was unable to access the form header by doing so.
+   - When asked _If you had a magic wand, what would you page?_, he said he’d have the name and number of the form at the top of the page.
 
 ### Finding 3: Informing the User: Identifying Progress Completed
-- Feel free to include bullets
-- They can help add some more info
-> "Quote goes here." - Pxx
-
+- The progress bar wasn’t immediately findable/navigable by screen reader users.
+    - > "No…some forms give a percentage of how far along you are, but not any government forms." - P12, upon being asked _Any idea how you'd track your progress?_
+    -  > "I just noticed that, there’s a progress bar on top." - P20
+    -  > "Older VA forms had a percent bar that told me how far along I am. I don’t know if this form has a bar. If it does, I don’t know how to get to it." - P26
+       - Note: This user used the Heading List to navigate through the form by heading. The progress bar does not appear in this list.
+- Its placement at the top made it difficult for keyboard-only users to refer to when further down the page.
+    - > "When you wanted me to see where I was in the form, I like where on the bottom, it’ll have a ‘meter’ - you’re 50% through. I don’t have to go all the way to the top to figure out ‘how far along am I?’ The meter is super-nice.” “Tabbing to the top to see where I am on the form (was frustrating)." - P13
+- The visual indicator was missing in high-contrast mode.
+- Sighted users generally understood what the colors indicated, but felt that there could be more distinction between them.
+    - > "I saw the blue line change. There were two grays, dark blue and light blue and now there are light blue and gray." - P10
+    - > "Dark bar has been completed, blue bar means it’s not completed yet. Gray bar is more forms to fill out." - P19B
+    - P20 noted that it might be useful to change the progress bar colors to be more distinct from each other.  
 
 ### Finding 4
 - Feel free to include bullets
