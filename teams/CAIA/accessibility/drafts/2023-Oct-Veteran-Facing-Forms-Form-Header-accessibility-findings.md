@@ -43,11 +43,11 @@ Add screenshots, images and videos here.
 
 <details><summary>Toggle to read accessibility-related key findings</summary>
 
-### Finding 1 Page Heirarchy & User Location
+### Finding 1: Page Heirarchy & User Location
 - Feel free to include bullets
 - They can help add some more info
 
-### Finding 2
+### Finding 2: Stepper Confusion & Process Stage
 - Feel free to include bullets
 - They can help add some more info
 
