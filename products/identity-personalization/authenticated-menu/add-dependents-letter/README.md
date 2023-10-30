@@ -139,7 +139,7 @@ Note: Increaseing pageviews was not originally part of our goals. We decided to 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
 |Pageviews for "**Letters**” |48,255|48,396|89,967 (+86% from 1-week pre-launch)|97,549 (+102% from 1-week pre-launch)|99,070 (+105% from 1-week pre-launch)||
-|Pageviews for "**Dependents**”|||||||
+|Pageviews for "**Dependents**”|16,937|16,295|37,349 (+129% from 1-week pre-launch)|41,045 (+152% from 1-week pre-launch)|43,103 (+165% from 1-week pre-launch)||
 
 ## Key deliverables
 
