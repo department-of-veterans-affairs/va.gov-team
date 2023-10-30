@@ -38,6 +38,11 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 
 **Participants who successfully completed sessions:** `9`/`10`
 
+# CAIA Findings
+_While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help facilitate a smooth process for your project through the Collaboration Cycle or outside of the Collaboration Cycle._
+
+_Toggle the sections below to expand and reveal details._
+
 ## Key Findings & User Feedback (A11Y Segment)
 
 **Veterans' Voices:** Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the `##` quotes that were selected for inclusion, in this report.
@@ -169,9 +174,6 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 ## Next Steps: A11Y Recommendations/Considerations
 A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
 
-### IMPORTANT NOTE ABOUT CAIA
-_While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help facilitate a smooth process for your project through the Collaboration Cycle or outside of the Collaboration Cycle._
-<br>
 <details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
 <br>
 
