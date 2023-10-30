@@ -12,13 +12,13 @@ const [owner, repo] = GITHUB_REPOSITORY.split('/');
 async function createTicket() {
   console.log('creating issue...');
   try {
-    const r = await octokit.issues.create({
+    const resp = await octokit.request({
       owner,
       repo,
-      title: 'this is a test',
-      body: 'this is only a test.'
-    }); 
-    console.log(r);
+      issue_number: '68645'
+
+    })
+    console.log(resp);
   } catch (error) {
     console.log('ticket failed to create:', error);
   }
