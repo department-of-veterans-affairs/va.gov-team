@@ -44,13 +44,13 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 #### Usable by everyone
 
-**Everyone should be able to use Ask VA.** We’ll make all design decisions with accessibility front of mind. In addition, when we do research we’ll seek to include disabled Veterans, people who use assistive technology, Veterans and dependents, and people who submit a question on behalf of someone else.
+**Everyone should be able to use Ask VA.** We’ll make all design decisions with accessibility front of mind. For example, we'll avoid designing conditionals or updates that are made to the form *while* the user is still on the page. When we do research we’ll seek to include disabled Veterans, people who use assistive technology, Veterans and dependents, and people who submit a question on behalf of someone else.
 
-**People should be able to use Ask VA on their mobile devices, in addition to their laptop or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context.
+**People should be able to use Ask VA on their mobile devices, in addition to their laptop or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context. This is one reason we'll start by asking one thing per page in the form [5](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page). It's also why we'll make it easy to see your messages and responses on one page, avoiding modals or pop-ups.
 
 #### Simple
 
-**People’s focus should be on asking a question to VA.** We’ll prioritize steps in the form that help a user complete their primary task of asking a question, and remove unnecessary steps. In addition, we’ll avoid asking users for the same information more than once, and when it’s possible, we’ll pull in their information to save them time.
+**People’s focus should be on asking a question to VA.** We’ll prioritize steps in the form that help a user complete their primary task of asking a question, and remove unnecessary steps. As mentioned, we’ll aim to ask one thing per page. We'll also avoid asking users for the same information more than once, and when it’s possible, we’ll pull in their information to save them time. When they're reviewing a question they submitted, we'll focus on highlighting the most recent message, so the most important thing comes first.
 
 **People should feel like Ask VA is familiar.** Firstly, we will use familiar, plain language. We’ll also draw on other content and patterns used across VA.gov so Ask VA feels familiar to other experiences on VA.gov. In addition, we’ll aim for consistency within Ask VA itself. So, if a Veteran asks a question about life insurance or debt, the experience should feel as consistent as possible.
 
@@ -68,7 +68,7 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 ### Our approach
 
-We've defined our notional timeline for Phase 1 in detail [[5](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/)].
+We've defined our notional timeline for Phase 1 in detail [[6](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/)].
 
 At a high-level, we will:
 - Scope the design work by exploring the current system, past research and potential new features
@@ -83,4 +83,5 @@ At a high-level, we will:
 <br>[2] [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20KPIs.md)
 <br>[3] [VA.gov design system](https://design.va.gov/)
 <br>[4] [VA.gov design principles](https://design.va.gov/about/principles)
-<br>[5] [Notional timeline](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/)
+<br>[5] [One thing per page](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)
+<br>[6] [Notional timeline](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/)
