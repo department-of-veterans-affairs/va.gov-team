@@ -32,7 +32,7 @@ There is not currently an experience on VA.gov for Veterans to find a representa
         2. Unique page views
         3. % of unique views 
         4. Bounce rate _What percent of users land on this page and immediately leave VA.gov without any interaction?_
-        5. Entrance rate _What percent of users enter the VA.gov site on this page? _
+        5. Entrance rate _What percent of users enter the VA.gov site on this page?_
         6. Exit rate _What percent of users first interact with or view other pages on VA.gov, before viewing this page and then leaving VA.gov?_
         7. Top previous pages by % _What pages are users coming from?_
         8. Top next pages by % _What pages are users visiting next?_
