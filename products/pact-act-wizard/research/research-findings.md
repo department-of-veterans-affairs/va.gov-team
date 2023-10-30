@@ -68,7 +68,7 @@ Learnings will help refine questions and the presentation of results in the wiza
 ## Methodology 
 We conducted **remote usability testing** over Zoom on October 2-6, 2023 to get feedback from research participants using a prototype that presented the questions and results pages in the PACT Act Wizard. The prototype was not a high-fidelity design prototype but instead an **online survey (in Survey Monkey) that presented questions** and branched appropriately to subsequent questions and relevant results pages. In this way, we **tested the *content* of the PACT Act Wizard**—the text and flow of the questions and the logical branching—but *not* the UI design. 
 
-Perigean recruited the participants. **We talked to 9 Veterans**, two of whom were also a Veteran's family member.
+Perigean recruited the participants. **We talked to 9 Veterans**, two of whom were also Veterans' family members.
 -  **Most (8 of 9) had NOT applied for VA benefits under the PACT Act**. The one who did had applied just the week before through the American Legion.
 - 4 served *1989 or earlier*, 2 served *1990 or later*, and 3 served *during both* periods of time.
 - **Most (8 of 9) used a computer** during the session; only 1 used a smartphone.
