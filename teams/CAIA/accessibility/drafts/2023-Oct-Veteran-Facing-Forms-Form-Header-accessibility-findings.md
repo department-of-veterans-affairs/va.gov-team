@@ -1,7 +1,7 @@
 # About this Research Study
 - **Study Name:** Veteran Facing Forms - Form Header
 - **Study Dates:** October 2023
-- **Study Research Lead:** Rachel Shearer
+- **Study Research Lead:** Rachel Shearer & Jeana Clark
 - **A11y Collaborators:** Sara, Jamie and SK
 - **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
 - **Ticket Links:** [Research Support Request #65316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65316)
@@ -15,19 +15,13 @@
 `ZoomText` `JAWs` `iOS-VO` `VoiceOver` `SR Microsoft Extension` `TalkBack` `Fusion` 
 
 ## Coverage
-This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
+This research fufilled 90% (9/10) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
 
 **Original study request: ##**
 
-> xx participants should use a screenreader on a desktop or mobile device
+> 50% (10) [participants in this study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/research-plan.md#:~:text=Assistive%20Technology%20(AT)) should use a screenreader on a desktop or mobile device
 
 ## Participants
-To best serve the users of VA.gov, we will need to collect the following information during each a11y research session:
-- **Skill level of user:** Novice, Intermediate or Advanced
-- **Operating System:** Mac or Windows
-- **Assistive Technology being used:** Jaws, NVDA, Zoomtext, Dragon, etc.
-- **Internet Browser:** Chrome, Firefox, etc.
-- **Note**: In the table below, the first row is an example for P54
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
@@ -41,12 +35,10 @@ To best serve the users of VA.gov, we will need to collect the following informa
 | P24                       |  10/12/2023                 |         iOS-VO           |          Advanced       |   iOS                   |     Safari        |        Tablet     |
 | P26                       |     10/16/2023             |         ZoomText           |     Advanced            |       Windows               |    Chrome         | Desktop            |
 
-**Participants who successfully completed sessions: XX**
+**Participants who successfully completed sessions: 9/11**
 
 **Examples below:**
-- [1 desktop JAWS user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p2.md)
-- [1 iOS VoiceOver user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p15.md)
-- [1 desktop zoom text reader user (magnification, screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p1.md)
+
 
 ## Key Findings
 Add screenshots, images and videos here.
