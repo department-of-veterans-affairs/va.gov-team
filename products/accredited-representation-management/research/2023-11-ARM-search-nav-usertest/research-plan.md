@@ -43,7 +43,8 @@ Remote on Zoom
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/99e396f84cce0e30ea6ad38e0735c84327dbeada/products/accredited-representation-management/research/2023-10-ARM-MVP-usertest/conversation-guide.md)
-- PUMPKIN [Link to prototype](url goes here)
+- [Link to mobile prototype](https://www.sketch.com/s/dfb0333d-65db-41f9-807e-6b25d6c5396e/prototype/91C5F671-4BC5-4CE9-B9EA-2D384B20C83A/a/91C5F671-4BC5-4CE9-B9EA-2D384B20C83A)
+- [Link to desktop prototype](https://www.sketch.com/s/dfb0333d-65db-41f9-807e-6b25d6c5396e/prototype/100C57E4-87B4-417E-BC4C-F24D85F39C91/a/100C57E4-87B4-417E-BC4C-F24D85F39C91)
 - [Link to research kick-off](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695048973902/e0d3a50f8566e744ae0e07c606b254064a3e8c05?sender=u1d7fe27ad03a782e135e8404) 
 	
 ## Recruitment	
@@ -53,7 +54,7 @@ Our target audience are 12 Veterans (with expectations of speaking to 8) who are
 
 ### Recruitment criteria
 **Requesting a kick-off call**
-- PUMPKIN XX anytime from 9 AM - 4 PM EST
+- 11/03/2023 anytime from 9 AM - 4 PM EST
 - Would like to confirm screener and recruitment options prior to study
 
 **Primary criteria (must-haves)**
@@ -115,7 +116,7 @@ Generated using VA [maximum variation sampling](https://github.com/department-of
 
 [Sample screener questions.](https://depo-platform-documentation.scrollhelp.site/research-design/successful-screener-questions)
 
-## Timeline PUMPKIN
+## Timeline
 - 09/25 / Research kick-off
 - 09/26 - 09/29 / Create research plan and conversation guide
 - 09/29 - 10/06 / Team to review research documentation
@@ -123,12 +124,12 @@ Generated using VA [maximum variation sampling](https://github.com/department-of
 - 10/26 / Prototype complete with midpoint review
 - 10/27 / Update documentation to reflect MVP changes
 - 10/30 / Submit for [collaboration cycle research review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/research-review)
-- 11/01 / Collaboration cycle research review done, update to reflect feedback
-- 11/02 / Start recruitment with Perigean
+- 11/02 / Collaboration cycle research review done, update to reflect feedback
 - 11/03 / Perigean kick-off call
-- 11/06 / Complete pilot session
-- 11/09 - 11/17 / Conduct interviews
-- 11/20 - 12/06 / Analysis and reporting
+- 11/06 / Start recruitment with Perigean
+- 11/07 / Complete pilot session
+- 11/13 - 11/20 / Conduct interviews
+- 11/21 - 12/07 / Analysis and reporting
 - 12/08 / Final presentation
 
 Timeline is an estimation and will be updated as dependencies clear. Some dependencies that can impact this timeline include:
@@ -138,15 +139,15 @@ Timeline is an estimation and will be updated as dependencies clear. Some depend
 - Onboarding to new process
 
 ### Prepare
-When will the thing you are testing be finalized? 10/26/2023
+When will the thing you are testing be finalized? 10/27/2023
 - Required 1 week prior to testing and have [midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/research-review) completed.
 
 Required: please indicate the date and name of a mock participant for a pilot session.
-- PUMPKIN Pilot participant email: TBD
-- PUMPKIN Date and time of pilot session: XX at XX AM/PM EST
+- Pilot participant email: TBD PUMPKIN
+- Date and time of pilot session: 11/07 at 3 PM EST
 
 ### Research sessions
-- PUMPKIN Planned dates of research: XX
+- Planned dates of research: 11/13 - 11/20
 
 ### Length of sessions
 - Session length: 1 hour
@@ -162,7 +163,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development: Janelle Finnerty
 - Participant recruiting & screening: Perigean
 - Project point of contact: Janelle Finnerty
-- PUMPKIN Participant(s) for pilot test: TBD
+- Participant(s) for pilot test: TBD PUMPKIN
 - *Accessibility specialist (for sessions where support for assistive technology may be needed): N/A
 - *Notetakers:
 	- Holden Hinkle, Holden.Hinkle@oddball.io
