@@ -13,7 +13,7 @@ When users nagivate to the Prescriptions feature, the mobile app shows their ful
 - We've combined the filter and sort action into a single tapable tag and placed it below (and therefore closer to) the list header. The placement of this tag closer to the list header becomes important when a user starts interacting with it.
 - We removed the 3 tabs (All, Pending, Tracking).
 
-The default filtering and sorting of the prescriptions list is filtered by All prescriptions with the list sorted by Status (A to Z). 
+The default filtering and sorting of the prescriptions list is filtered by All prescriptions and sorted by Status (A to Z). 
 - This ensures that active prescriptions are bubbled up to the top.
 
 #### 2. Users interacts with new filter/sort
