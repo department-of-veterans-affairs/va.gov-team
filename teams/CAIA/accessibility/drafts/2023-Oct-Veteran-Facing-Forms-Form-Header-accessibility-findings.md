@@ -144,6 +144,17 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 ## Next Steps: A11Y Recommendations/Considerations
 A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
 
+- To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.
+- "Chapter" was confusing. Consider testing "section" or "part" for clarity. Consider using percentages as well.
+- Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
+- Many users assumed that their data would be saved unless we informed them otherwise.
+    - For unauthenticated users, make sure it's clear that the data isn't being saved. An alert upon exit, alert box on the unauth intro page, or similar.
+    - We didn't get to see the authenticated experience, but users expected a "Save" button or a "Save and continue" button below the form fields. We recommend using a pattern like that.
+
+**Recommendations for the DST:**
+- The date field is really hard for AT users to get through. This field needs to be revised so that the input types are consistent. Would need testing, but I’m guessing that a single input field would be easiest.
+- For the social security field, perhaps we can improve on the validation? Is there a way that the user could enter their SSN and have it submit, even if the dash groupings are incorrect (instead of XXX-XX-XXXX, they type XXX-XXX-XXX)? Or would having 3 input fields (1 per grouping) be more usable? One user suggested it would be, but would need to test. 
+
 ### IMPORTANT NOTE ABOUT CAIA
 While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help facilitate a smooth process for your project through the Collaboration Cycle or outside of the Collaboration Cycle.
 
