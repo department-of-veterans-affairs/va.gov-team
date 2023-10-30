@@ -41,7 +41,7 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 # CAIA Findings
 _While CAIA cannot require you to complete any updates to your product, we can provide your team with recommendations to help facilitate a smooth process for your project through the Collaboration Cycle or outside of the Collaboration Cycle._
 
-_Toggle the sections below to expand and reveal details._
+_**Be sure to toggle and reveal the details in the sections below.**_
 
 ## Key Findings & User Feedback (A11Y Segment)
 
