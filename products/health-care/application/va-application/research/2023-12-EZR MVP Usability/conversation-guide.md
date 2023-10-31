@@ -2,20 +2,20 @@
 
 ## Moderator logistics
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
+
 
 ### Day of the session
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
-Slack for real-time feedback from observers.
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-- Open a new window and login into the [test user account](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) (262) for backup 
-
+- Send out link to notes and Mural link using for the study 
 
 ### Starting the session
 
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+- Make sure to start transcription
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 
@@ -60,7 +60,6 @@ Let’s start with a few warm-up questions.
 ## First Task: [Notifications and Awareness] - 5 minutes
 
 - Have you had to make updates to your personal information for health care purposes? Could you describe the process you went through?
-
 - Imagine you've been notified to update your financial information in order to maintain your co-pay and health care benefits. How might you go about doing that?
 - Describe your preferred method of notification to update your health care information.
 - How would you expect to update your information online? What specific steps would you take?
@@ -71,28 +70,14 @@ Let’s start with a few warm-up questions.
 - [If they have updated their health care benefits information before, was it in person, by phone, or by mail?]
 
 
-## Second Task: [Wayfinding - Static Page] - 5 minutes
-
-- For this next scenario, imagine you just started a new job and your health insurance has changed because of it. Now, you've realized that you need to update your insurance details for your VA health care benefit. To do that, you decided to search on Google to find out how and where you can update your information. Google takes you to this page on VA.gov you're about to see. For this scenario, are you comfortable with sharing your screen and talking through your thought process?
-- Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
-- [Share link to https://VA.gov ---- in Zoom chat]
-- You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
-
-**Participant questions** 
-- Did you have any questions about the information listed?
-- Do you have any suggestions or feedback for making the page and update process better?
-
-### Things to watch for:
-
-- [Quotes from participants about any content on the static page that makes them feel uneasy, confused, or not prepared to complete the application.]
-- [Comments about the terms used on the static page.]
-
-
-## Third Task: [Intro page] - 5 minutes
+## Second Task: [Intro page] - 5 minutes
+- For this next scenario, imagine you just started a new job and your health insurance has changed because of it. Now, you've realized that you need to update your insurance details for your VA health care benefit. To do that, you decided to search on Google to find out how and where you can update your information. Google takes you to this page on VA.gov you're about to see.
+- For this scenario, are you comfortable with sharing your screen and talking through your thought process?
 
 - Could you please sign into your VA.gov account the typical way you would do so?
-- [Share link to https://VA.gov ---- in Zoom chat]
+- [Share link to https://VA.gov/my-health/update-benefits-information-form-10-10ezr in Zoom chat]
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
+
 
 **Participant questions** 
 - Please summarize the most important information you found on the page to prepare for the form.
