@@ -1,21 +1,21 @@
 # List of Frontend/Backend Interactions
 
-## Start Board Appeal Form
+## Prefill Veteran Information
 
-  Gets a list of Veteran contact information from the VA profile
-
-| External System(s)   | # of occurences    | Responses  | Outcome / Message
-| -------------------- | ------------------ | ---------- | --------- 
-| -                    | -                  | -          | Starts form. Shows Veteran information
-|                      |                    | Any other  | -
-
-## Get Veteran Contact Information
-
-  Gets a list of Veteran contact information from the VA profile
+  Prefill a list of Veteran account details
 
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
-| -                    | -                  | 200        | Shows Veteran contact information
+| BGS                  | -                  | -          | Starts form. Shows Veteran details
+|                      |                    | Any other  | Starts form. Shows Veteran details without SSN or VA file number
+
+## Prefill Veteran Contact Information
+
+  Prefill a list of Veteran contact information from the VA profile
+
+| External System(s)   | # of occurences    | Responses  | Outcome / Message
+| -------------------- | ------------------ | ---------- | --------- 
+| Vet360               | -                  | 200        | Shows Veteran contact information
 |                      |                    | Any other  | -
 
 ## Get Contestable Issues
@@ -25,7 +25,8 @@
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
 | Lighthouse           | 1 per submission   | 200        | Shows list of contestable issues
-|                      |                    | Any other  | Error alert. <br> Header: We can't load your issues right now <br> Body: You can come back later, or if you'd like to add your issue manually, you can select "Add a new issue" to get started. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/cf41503b-68a3-40e9-8096-fb15f24f4b32)
+|                      |                    | Any other  | Error alert. <br> Header: We can't load your issues right now <br> Body: You can come back later, or if you'd like to add your issue manually, you can select "Add a new issue" to get started. [Screenshot 2023-10-31 at 9 15 43 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/51d7d945-f75a-4305-a4ad-8e6eca06abf8)
+
 
 ## Evidence Upload (before submission) 
 
@@ -43,7 +44,7 @@
 
 | External System(s)   | # of occurences           | Responses     | Outcome / Message
 | -------------------- | ------------------------- | --------------| --------- 
-| Lighthouse           | 1 per submission          | 200           | Redirect to confirmation page. <br> Success alert. <br> Header: Thank you for filing a Board Appeal <br> Body: When we've completed our review, we'll mail you a decision packet with the details of our decision. 
+| Lighthouse           | 1 per submission          | 200           | Redirect to confirmation page. <br> No alert. <br> Header: Your request has been submitted <br> Body: We may contact you for more information or documents.
 |                      |                           | 403 Forbidden | Error alert. <br> Header: Your decision review request didn't go through <br> Body: We're sorry. We're working to fix the problem, but it may take us a while. Please try again tomorrow. <br> If you're still having trouble submitting your request, call us at 800-698-2411 (TTY:711). We're here 24/7. Your in-progress ID is `ID number`. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/00945ee3-7a2d-4919-9403-5dfa3fa15859)
 |                      |                           | Any other     | Error alert. <br> Header: We're sorry, there was an error connecting to VA.gov. <br> Body: Please check your internet connection and try again. [Screnshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/2fec9183-8f91-4497-bf27-eeb598b96bad)
 
