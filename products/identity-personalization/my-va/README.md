@@ -133,7 +133,7 @@ _Why would your business want this to exist?_
 
 |Project|Epic|Status|
 |----|----|---|
-| [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/link-to-MHV-landing-page-from-my-va) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | Ready for development | 
+| [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#linking-to-mhv-from-my-va--simplifying-the-cerner-experience) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | Ready for development | 
 |[White card component implementation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component) | [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | In development |
 |My VA explorations| [#50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758), [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Research & design exploration|
 
@@ -147,6 +147,7 @@ _Why would your business want this to exist?_
 |----|----|----|
 |Remove "notifications" section| | October 3, 2023|
 |[LOA1 updates to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/LOA1-experience-updates)| [#63424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|October 3, 2023|
+|[Updates to appointments links + Cerner alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#updates-to-appointment-links-and-cerner-alert) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | September 2023 |
 |[Dot indicator experiment + implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md) | [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788) | September 2023 |
 |[Benefit Application Drafts enhancments (Hiding the "what benefits does VA offer menu")](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/benefit-application-drafts-updates)| [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509)|September 2023|
 |[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#readme)| [#54403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54403) | August 28, 2023 |
