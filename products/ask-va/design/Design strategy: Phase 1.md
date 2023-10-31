@@ -46,7 +46,7 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 **Everyone should be able to use Ask VA.** We’ll make all design decisions with accessibility front of mind. For example, we'll avoid designing conditionals or updates that are made to the form *while* the user is still on the page. When we do research we’ll seek to include disabled Veterans, people who use assistive technology, Veterans and dependents, and people who submit a question on behalf of someone else.
 
-**People should be able to use Ask VA on their mobile devices, in addition to their laptop or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context. This is one reason we'll start by asking one thing per page in the form [[5](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)]. It's also why we should make it easy to see messages and responses on one page, and avoid modals or pop-ups.
+**People should be able to use Ask VA on their mobile devices, in addition to their laptop or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context. This is one reason we'll start by asking one thing per page in the form [[5](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)]. It's also why we will avoid modals or pop-ups.
 
 #### Simple
 
@@ -56,7 +56,7 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 #### Veteran first
 
-**Veterans should help design Ask VA.** We’ll prioritize making important decisions based on what we learn from Veterans through user research. When we do research, we’ll include Veterans from a range of perspectives in order to reduce bias and test our assumptions.
+**Veterans should help design Ask VA.** We’ll prioritize making important decisions based on what we learn from Veterans through user research. When we do research, we’ll include Veterans from a range of perspectives in order to reduce bias and test our assumptions. Through doing research with submitters, we learned that they need to see messages and responses on the same page so they don't lose context. We used this insight to design the secure messaging 'inbox' in Ask VA.
 
 **Veterans come first, over what “looks good” or works in another context.** We understand that Veterans are unique and their experience using VA applications impacts how they will experience Ask VA. We’ll make decisions based on what we learn from user research, over our assumptions or what we think works best “in principle.”
 
