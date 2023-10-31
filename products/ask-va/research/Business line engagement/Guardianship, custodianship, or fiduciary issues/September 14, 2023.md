@@ -4,9 +4,7 @@
 
 ## Agenda
 
-- Guardianship or Custodianship
-- Difference between compensation and pension
-- Board Appeals legacy system
+- Fiduciary program category name
 
 ## Attendees
 
