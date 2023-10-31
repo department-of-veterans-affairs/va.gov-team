@@ -87,7 +87,7 @@ Current URL | Redirect to | Notes
 Original [redirect request](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15012) for 302 code has been rescinded as of 8/31/23. 
 
 ## <a name="search"></a>Best bets <br>
-We previously routed best bets searches to the [About VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/) page so that folks wouldn't get search results to the form flow. We recommend updating best bets so that search results direct to the [online form](https://www.va.gov/pension/application/527EZ/introduction) again. Once form is reactivated, feel free to submit a [best bet ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/Best%20Bet%20Request.md) or ping me Slack and we can create the ticket and implement the best bet updates.
+We previously routed best bets searches to the [About VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/) page so that folks wouldn't get search results to the form flow. We recommend updating best bets so that search results direct to the [online form](https://www.va.gov/pension/application/527EZ/introduction) again. Once form is reactivated, feel free to submit a [best bet ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/Best%20Bet%20Request.md) or ping me in Slack and we can create the ticket and implement the best bet updates.
 
 
 <hr>
