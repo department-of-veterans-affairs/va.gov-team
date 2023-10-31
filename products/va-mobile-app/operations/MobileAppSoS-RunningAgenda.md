@@ -27,7 +27,7 @@
   * Review yellow projects
   * Any PO questions on existing projects?
  
-**Yellow: Deep Linking Appointments**- Currently Blocked Status (Yellow trending Green)
+**Yellow: Deep Linking Appointments**- Currently Blocked Status
   Summary: 2 Blockers, Resolve in progress
 
 **Blocker 1**
