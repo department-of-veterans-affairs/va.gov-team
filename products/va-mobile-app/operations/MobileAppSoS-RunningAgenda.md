@@ -19,8 +19,7 @@
 
 * **Q4 Projects in Progress**
   * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
-  * Work is listed in PO's priority order based on SoS Sprint Tab
-  * PM owner - transitioning to Ameet 
+  * Work is listed in PO's priority order based on SoS Sprint Tab 
   * Current Sprint
     * Sprint 83  (2 of 7 Q4 Sprints) 
    
