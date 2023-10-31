@@ -76,7 +76,7 @@ At a high-level, we will:
 - Test Ask VA with Veterans, dependents and other submitters
 - Make updates based on insights from usability testing
 
-By the end of Phase 1, submitters should be able to reach all their desired outcomes.
+By the end of Phase 1, submitters should be able to reach all their [desired outcomes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Design%20strategy:%20Phase%201.md#desired-outcomes).
 
 We recognize the work will be iterative along the way.
 
