@@ -76,7 +76,8 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Research] Analyze GA Metrics
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68086)
 - **GOAL: Address tech & design debt**
-    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Travel MSA & Veteran FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68701)
+    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Create a Poster Version that Includes Information about Submitting a Travel Claim During Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68734)
+    - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Travel MSA & Veteran FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68701)
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Update & Add Questions to Answer to LoROTA GitHub Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68702)
     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Configure CodeQL](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68253)
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Move "old" feature pages in unified check in sketch file to {where} (f/u from 66318)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67167)
