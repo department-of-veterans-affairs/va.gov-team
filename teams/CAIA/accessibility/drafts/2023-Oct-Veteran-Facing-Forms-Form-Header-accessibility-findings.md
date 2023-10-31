@@ -146,7 +146,7 @@ _**Be sure to toggle and reveal the details in the sections below.**_
      - P23 mentioned that having to manually type in birthday was difficult and expected a drop down like how the month is.
      - P24: “Day” field was not announced after selecting a month. After typing in Day it automatically places focus to year input field. 
 - **Social security number:**
-    - P13 had an issue entering. They entered 9 numbers, but the didn’t group them by dashes properly, and got an error. 
+    - P13 had an issue entering. They entered 9 numbers, but the didn’t group them by dashes properly, and got an error. (**Note**: CAIA was not able to duplicate this issue.)
     - > "3 input fields are easier than one long input field for social security. Long input field I forget how many numbers I type, also-  if I type in a long input field I would have to delete the whole number and start over again." - P20
 
 <hr>
@@ -184,15 +184,14 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - [x] `Added to Complete Later` ~To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.~
 - [ ] `Needs Added Below` "Chapter" was confusing. Consider testing "section" or "part" for clarity. Consider using percentages as well.
 - [ ] `Needs Added Below`Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
-- [ ] `Needs Added Below`Many users assumed that their data would be saved unless we informed them otherwise.
-- [ ] `Needs Added Below`For unauthenticated users, make sure it's clear that the data isn't being saved. An alert upon exit, alert box on the unauth intro page, or similar.
+- [ ] `Needs Added Below`Many users assumed that their data would be saved unless we informed them otherwise. For unauthenticated users, make sure it's clear that the data isn't being saved. An alert upon exit, alert box on the unauth intro page, or similar.
 - [ ] `Needs Added Below`We didn't get to see the authenticated experience, but users expected a "Save" button or a "Save and continue" button below the form fields. We recommend using a pattern like that.
 
 `These need added to the below section.`
 
 **Recommendations for the DST:**
 - [x] `Added to Complete Later`The date field is really hard for AT users to get through. This field needs to be revised so that the input types are consistent. Would need testing, but I’m guessing that a single input field would be easiest.
-- [ ] `Needs Added Below`For the social security field, perhaps we can improve on the validation? Is there a way that the user could enter their SSN and have it submit, even if the dash groupings are incorrect (instead of XXX-XX-XXXX, they type XXX-XXX-XXX)? Or would having 3 input fields (1 per grouping) be more usable? One user suggested it would be, but would need to test.
+- [x] `Added to Complete Later` For the social security field: ~~perhaps we can improve on the validation? Is there a way that the user could enter their SSN and have it submit, even if the dash groupings are incorrect (instead of XXX-XX-XXXX, they type XXX-XXX-XXX)?~~ (I just tried it on my own and it worked. This must be an edge case, I can't duplicate it.) Would having 3 input fields (1 per grouping) be more usable? One user suggested it would be, but would need to test. 
 
 <hr>
 
@@ -234,9 +233,16 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - **WCAG:** `4.1.3` [WCAG 4.1.3](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
 
 ### Future Items to Consider
+
 #### Date field group
 - **Issue Description:** While the date picker meets [USWDS standards](https://designsystem.digital.gov/components/memorable-date/), in this study, we found that the date field was hard for users to use due to the inconsistency between the types of fields within the date group (a dropdown and two text inputs). One user suggested having a single text input; another suggested all dropdowns.
 - **Desired Outcome:** We would like to confirm that this field group is optimal for assistive tech users via user testing. Please put this on your radar.
+- **Defect:** `Not Blocking`
+- **Impact Area:** `A11y`
+
+#### Social security number field
+- **Issue Description:** While the SSN field meets [VADS standards](https://design.va.gov/patterns/ask-users-for/social-security-number)), in this study, a user with cognitive impairment found that it was difficult to remember how many numbers he'd entered in. He suggested that the field be broken up into 3 separate inputs (XXX - XX - XXXX), which he thought would help him keep track of what he'd entered.
+- **Desired Outcome:** We would like to confirm that this field is optimal for assistive tech users via user testing. Please put this on your radar.
 - **Defect:** `Not Blocking`
 - **Impact Area:** `A11y`
 
