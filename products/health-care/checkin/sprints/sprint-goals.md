@@ -49,12 +49,12 @@ ________________________________________________________________________________
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [SPIKE: Determine Impacts to Current User Flow & Functionality](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68081)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create New User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68083)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create New Content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68146)
-       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68084)
-           - Has not been pointed
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] [Design] Create wireframe for scenario when checkbox isn't selected](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68746)
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Create research review ticket
       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Create a CAIA review ticket
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65418)
+      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Design] Complete Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67164)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**   
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
@@ -79,9 +79,8 @@ ________________________________________________________________________________
     - ![priority](https://user-images.githubusercontent.com/86678742/235682809-331d7c9d-a297-4aa2-b352-222e93df11f6.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Update Travel MSA & Veteran FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68701)
     - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Update & Add Questions to Answer to LoROTA GitHub Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68702)
     - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] Configure CodeQL](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68253)
-    - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [Move "old" feature pages in unified check in sketch file to {where} (f/u from 66318)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67167)
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
-       - TBD
+       - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[SPIKE] [UX] Determine if we're ready to update font styles, icons and color palette](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68602)
 
 -------------- END FUTURE / TENTATIVE ---------------
 __________________________________________________________________________________________________________________________________________________________
