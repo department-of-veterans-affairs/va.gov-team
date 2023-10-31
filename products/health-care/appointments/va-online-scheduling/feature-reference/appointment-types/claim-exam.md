@@ -1,14 +1,14 @@
-# Community care appointment
+# Claim exam appointment
 
 ## Overview
 
-A scheduled appointment with a community care provider.
+A scheduled examination as part of filing a disability claim.
 
 ## User stories
 
-- As a Veteran, I want to review my community care appointments.
+- As a Veteran, I want to review my claim exam appointments.
     - As a Veteran, I want to easily understand if an appointment is upcoming, in the past, or canceled.
-- As a Veteran, I want to add my confirmed VA appointments to my calendar.
+- As a Veteran, I want to add my confirmed appointments to my calendar.
 - As a Veteran, I want to cancel my confirmed, upcoming appointments.
 
 ## Requirements
