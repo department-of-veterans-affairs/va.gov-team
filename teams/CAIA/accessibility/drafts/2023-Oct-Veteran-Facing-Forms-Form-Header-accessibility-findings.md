@@ -111,7 +111,7 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 
 
 ### Finding 4: Users expected to be able to save their progress upon exiting the form.
-- **Many users expected a “save” button to accompany the exit process. Most looked for a “save and continue” button, and felt frustrated when they couldn’t find one. We had to explain that it was unauthenticated.**
+- Many users expected a “save” button to accompany the exit process. Most looked for a “save and continue” button, and felt frustrated when they couldn’t find one. We had to explain that it was unauthenticated.
     - >  "I want it to tell me to save it. Most of the forms on the VA, you can’t save them…and have to start over." - P13, after tabbing to the "Exit" link
     - > "You’d scroll to the top and click 'save'...hmm, I don’t see a ‘save’. If you just exit you’ll lose all your information. I don’t see a tab that says ‘save and continue later." - P19B 
     - > "Well, it doesn’t suggest that I can save it, so I’d click on ‘Exit form'" - P20
@@ -184,8 +184,8 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - [x] `Added to Complete Later` ~To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.~
 - [ ] `Needs Added Below` "Chapter" was confusing. Consider testing "section" or "part" for clarity. Consider using percentages as well.
 - [ ] `Needs Added Below`Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
-- [ ] `Needs Added Below`Many users assumed that their data would be saved unless we informed them otherwise. For unauthenticated users, make sure it's clear that the data isn't being saved. An alert upon exit, alert box on the unauth intro page, or similar.
-- [ ] `Needs Added Below`We didn't get to see the authenticated experience, but users expected a "Save" button or a "Save and continue" button below the form fields. We recommend using a pattern like that.
+- [x] `Added to Complete Now`Many users assumed that their data would be saved unless we informed them otherwise. For unauthenticated users, make sure it's clear that the data isn't being saved. An alert upon exit, alert box on the unauth intro page, or similar.
+- [x] `Added to Complete Now`We didn't get to see the authenticated experience, but users expected a "Save" button or a "Save and continue" button below the form fields. We recommend using a pattern like that.
 
 `These need added to the below section.`
 
@@ -196,14 +196,26 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 <hr>
 
 ### Complete Now
-#### ISSUE ITEM NAME GOES HERE
-- Issue Description: 
-- Desired Outcome:
-- Experience standard:`Category #` `Issue #`
+#### Finding 4: Users expected to be able to save their progress upon exiting the form.
+- Issue Description: Many users expected a “save” button to accompany the exit process. They gave suggestions such as "Save" and "Save and Continue" buttons. While this study tested the unauthenticated version of the form, the lack of a save button was frustrating for users.
+- Desired Outcome: Authenticated users are aware that a) the form can be saved b) can press X button to save it. If the form saves automatically, they need to be made aware of that on form exit.
+- Experience standard:`Category 03` `Issue 02`
 - Defect:`Launch Blocking`
-- Impact Area: `A11y` `Content` and/or `IA`
-- Appears on: `Experience Standards` `WCAG` `Common Issues`
-- WCAG: `#.# Link to WCAG`
+- Impact Area: `IA`
+- Appears on: `Experience Standards`
+- WCAG: n/a
+
+
+#### Finding 5: Users wanted to know if the form was being saved or not.
+- Issue Description: Many users assumed that their data would be saved unless we informed them otherwise. For unauthenticated users, make sure it's clear that the data isn't being saved. Use an alert upon form exit, an alert box on the unauth intro page, or similar.
+- Desired Outcome: Unauthenticated users are aware that their data won't be saved if they exit the form before completing/submitting.
+- Experience standard:`Category 03` `Issue 02`
+- Defect:`Launch Blocking`
+- Impact Area: `IA`
+- Appears on: `Experience Standards`
+- WCAG: n/a
+
+
 ### Complete Soon
 #### ISSUE ITEM NAME GOES HERE
 - Issue Description: 
