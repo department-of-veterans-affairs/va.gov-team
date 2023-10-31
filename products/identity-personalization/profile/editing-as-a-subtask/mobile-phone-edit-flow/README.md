@@ -1,7 +1,7 @@
 # Initiative Brief: Editing as a Sub-Task 
 ### Initial Launch with Mobile Phone Number Add/Update 
 
-**Last updated: October 26, 2023 --** Updated metrics
+**Last updated: October 31, 2023 --** Updated metrics
 
 #### Overview
 
@@ -91,8 +91,9 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 No pre-launch stats as this didn't exist prior. 
 |KPI/metric| 25% 10/25-10/31/2023| 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|:-:|:-:|:-:|:-:|:-:|
-|Number of saves of the add a mobile number form (success)||||||
-|Number of saves of the add a mobile number form (failures)||||||
+|Number of saves of the add a mobile number form (success)|177|||||
+|Number of saves of the add a mobile number form (failures)|1|||||
+|Save success as a %| 99.45% |||||
 
 ---
 
