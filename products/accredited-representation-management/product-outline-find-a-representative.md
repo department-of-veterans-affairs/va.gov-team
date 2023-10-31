@@ -4,7 +4,7 @@ Team: Accredited Representation Management
 ---
 
 ## Overview
-Create a user-friendly, accessible tool for Veterans to search for an accredited representative on VA.gov. This experience is intended to mirror the search functionality of older, external tools: [OGC]([url](https://www.va.gov/ogc/apps/accreditation/index.asp)) and [eBenefits]([url](https://www.ebenefits.va.gov/ebenefits/vso-search)).
+Create a user-friendly, accessible tool for Veterans to search for an accredited representative on VA.gov. This experience is intended to mirror the search functionality of older, external tools: [OGC](https://www.va.gov/ogc/apps/accreditation/index.asp) and [eBenefits](https://www.ebenefits.va.gov/ebenefits/vso-search).
 
 ## Problem Statement
 There is not currently an experience on VA.gov for Veterans to find a representative. The current experience happens either in person (referrals) or on older systems (eBenefits, OGC) which do not provide a great user experience: confusing errors, dead ends, and inconsistent user flows.
