@@ -174,7 +174,7 @@ VA: We need to do work to fully implement routed queries.
 - Understood on the technical issues with routed queries - for our awareness, can you share what's blocking the search from loading on the VA side? If you set up a routed query for a unique-enough search term, we can see what API requests we're getting on our end and investigate in case there's something else going on. Let us know how we can help!
 
 **VA.gov: As we continue to think through ways to improve the Type Ahead suggestions: It would help us to have a data dump of the VA.gov Type Ahead suggestions – can you provide?  This will help us pinpoint where improved/”canned” suggestions are needed.**
--  Uploaded [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/assets-docs/VA.gov%20-%20SAYT%20Suggestions%20Export.csv)
+-  Uploaded [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/archives/VA.gov%20-%20SAYT%20Suggestions%20Export.csv)
 
 **VA.gov: We plan to implement “Did you mean” suggestions for misspellings.  This will help us reduce any need for “blacklisting” certain terms that we see in our search keyword data – e.g. “ebenfits”, “ goverment”.  That said: Can you give us a sense of what’s on the global keyword blacklist for Search.gov?**
 -  With respect to the misspellings in the typeahead suggestions, we have two separate concepts that might help - we have a blacklist of "bad" words (typically profanity, but also blocking unhelpful terms like specific people's names), and a misspellings list (that can map the "bad" version of a spelling to the good one). As a note, both of these are global & impact site search across experiences.
@@ -185,4 +185,4 @@ VA: We need to do work to fully implement routed queries.
 - Here's a link to the API documentation that references Module Code as a parameter (https://open.gsa.gov/api/searchgov-clicks/) and here's the list of Module Codes: https://search.gov/manual/module-codes.html. 
 
 **VA.gov: Could we get an Excel download of our current Best Bets??**
--  Uploaded [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/assets-docs/VA.gov%20-%20Best%20Bets%20Export.csv)
+-  Uploaded [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/best_bet/VA.gov%20-%20Best%20Bets%20Export.csv)

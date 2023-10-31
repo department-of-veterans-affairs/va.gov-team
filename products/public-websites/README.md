@@ -20,7 +20,7 @@ Monitors for each product are described within product folders. e.g.
 * [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/engineering)
 * Header (incl megamenu) and Footer, and
 * [Injected Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/engineering/monitoring.md)
-* [VA.gov search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/technical/monitoring.md)
+* [VA.gov search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/engineering/monitoring.md)
 
 # Products we support
 
