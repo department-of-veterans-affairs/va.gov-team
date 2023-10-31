@@ -26,18 +26,18 @@ In support of the MHV on VA.gov migration, we'll need to make updates to the Hea
 
 <details>  <summary>Project Details</summary> 
 
-#### Overview   
+### Overview   
    Updates to the "schedule and manage your appointments" links and the Cerner alert are in support of phase 1B of the migration specifically around appointment handling. More about this phase 1B in development epic: #[57666](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57666).
 
-#### Key Dates
+### Key Dates
    - August 2023: Development (phase 1B)
    - September 2023: Released link and cerner updates
 
-#### Screenshots
-   ### Before
+### Screenshots
+   #### Before
       ![Health care cerner alert figure 39](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/804516d1-37b2-48ea-a81b-19192c9e0f29)
 
-   ### After
+   #### After
       ![Screenshot 2023-10-31 at 1 13 05 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/c20d9495-67ef-42af-ba57-a3047c233427)
 
       
@@ -47,18 +47,18 @@ In support of the MHV on VA.gov migration, we'll need to make updates to the Hea
 
 <details>  <summary>Project Details</summary>
  
-#### Overview
+### Overview
 The health wayfinding study from earlier in 2023 showed that some folks had a hard time finding/navigating to the new MHV landing page from My VA, and therefore had a hard time finding additional health information not shown on My VA.
 
 We'll be adding some form of a "view all" link (content and mechanism tbd) to the Health Care section on My VA which will navigate users to the new MHV landing page on va.gov. We'll also be exploring this concept of "view all/more" acroess the other benefits on My VA to make sure we are making the experience as consistent as possible. 
 
 Specifically for the health care section, once we add this link, we'll monitor the existing secondary links we currently display on My VA to see if engagement on those declines. This would indicate that they aren't needed and users are finding what they need from the link that navigates them to the MHV landing page. Additionally, as part of if this effort, we'll be simplyfing the Cerner user experience by eliminating the "Cerner alert" and instead encouraging those users to visit the MHV landing page and health tools from there.
 
-#### Measuring Success
+### Measuring Success
 
-##### Objective: Streamline a user's navigation from My VA to the new MHV landing page from within the health care section on My VA
+#### Objective: Streamline a user's navigation from My VA to the new MHV landing page from within the health care section on My VA
 
-##### Hypothesis 1: Users prefer to execute health care related tasks and action items from the MHV landing page versus the links provided on My VA.
+#### Hypothesis 1: Users prefer to execute health care related tasks and action items from the MHV landing page versus the links provided on My VA.
 
 **Key Result: We see a decline in engagement on the health care secondary links on My VA** (_within margin as determined by average fluctuation prior to launch_) 
 
@@ -70,7 +70,7 @@ Specifically for the health care section, once we add this link, we'll monitor t
 | Engagement with "Request travel reimbursement" link                          |                  |               |               |             |   |   |   |   |    
 | Engagement with "Get your VA medical records and lab and test results" link  |                  |               |               |             |   |   |   |   |   
 
-##### Hypothesis 2: We will initially see significant engagement with the new link to MHV
+#### Hypothesis 2: We will initially see significant engagement with the new link to MHV
 
 **Key Result: ...tk...**
 
@@ -78,7 +78,7 @@ Specifically for the health care section, once we add this link, we'll monitor t
 |--------------------------|-------------------|---------------|---------------|-------------|-------------|
 | Engagement with MHV link |                   |               |               |             |             |    
 
-##### Hypothesis 3: tk...
+#### Hypothesis 3: tk...
 
 **Key Result: Task completion/initiation from MHV landing page increases after navigating to MHV landing page from My VA**
 
@@ -89,11 +89,11 @@ TBD how best to capture and display this as a KPI but we'll need to create a fun
 - My VA > MHV landing page from new My VA link > Travel reimbursement tool > start/complete a task
 - My VA > MHV landing page from new My VA link > Medical records, lab/test results > start/complete a task
 
-#### Key Dates
+### Key Dates
 - November 2023: Development
 - October 2023: Kickoff & Design
 
-#### Screenshots
+### Screenshots
    ### Before (Cerner handling)
       ![Screenshot 2023-10-31 at 1 13 05 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/f69667f8-806b-4ae0-b048-4ebdef57d1d6)
 
