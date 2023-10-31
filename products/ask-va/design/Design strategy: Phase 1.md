@@ -77,6 +77,8 @@ At a high-level, we will:
 - Make updates based on insights from usability testing
 - Help launch Phase 1: Ask VA
 
+We recognize the work will be iterative along the way.
+
 #### References
 
 [1] [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/ask-va-phase-1-product-outline.md)
