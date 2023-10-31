@@ -26,7 +26,7 @@ In support of the MHV on VA.gov migration, we'll need to make updates to the Hea
 
 ### Updates to appointment links and cerner alert
 
-<details>  <summary>Project-Details</summary> 
+<details>  <summary>Project Details</summary> 
 
 #### Overview   
    Updates to the "schedule and manage your appointments" links and our cerner alert are in support of phase 1B of the migration. More about this phase 1B in development epic: #[57666](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57666).
@@ -39,7 +39,7 @@ In support of the MHV on VA.gov migration, we'll need to make updates to the Hea
 
 ### Linking to MHV from My VA + simplifying the Cerner experience
 
-<details>  <summary>Project-Details</summary>
+<details>  <summary>Project Details</summary>
  
 #### Overview
 The health wayfinding study from earlier in 2023 showed that some folks had a hard time finding/navigating to the new MHV landing page from My VA, and therefore had a hard time finding additional health information not shown on My VA.
