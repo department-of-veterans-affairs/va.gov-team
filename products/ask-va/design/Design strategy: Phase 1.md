@@ -58,7 +58,7 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 **Veterans should help design Ask VA.** We’ll prioritize making important decisions based on what we learn from Veterans through user research. When we do research, we’ll include Veterans from a range of perspectives in order to reduce bias and test our assumptions. As one example of how research informs our designs, through research we learned that submitters need to see messages and responses on the same page so they don't lose context. We used this insight to design an inbox that lets a submitters see everything on one page.
 
-**Veterans come first, over what “looks good” or works in another context.** We understand that Veterans are unique and their experience using VA applications impacts how they will experience Ask VA. We’ll make decisions based on what we learn from user research, over our assumptions or what we think works best “in principle.”
+**Veterans come first, over what “looks good” or works in another context.** We understand that Veterans are unique, from other users and from one another. We also know their experience using all sorts of VA applications impact how they experience Ask VA. We’ll make decisions based on what we learn from our user research, over assumptions or what we think works best “in principle" or even what might work best in another context.
 
 #### Impact
 
