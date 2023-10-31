@@ -233,7 +233,8 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - **Appears on:** `Experience Standards` `WCAG`
 - **WCAG:** `4.1.3` [WCAG 4.1.3](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
 
-### Other Painpoints: Date field group
+### Future Items to Consider
+#### Date field group
 - **Issue Description:** While the date picker meets [USWDS standards](https://designsystem.digital.gov/components/memorable-date/), in this study, we found that the date field was hard for users to use due to the inconsistency between the types of fields within the date group (a dropdown and two text inputs). One user suggested having a single text input; another suggested all dropdowns.
 - **Desired Outcome:** We would like to confirm that this field group is optimal for assistive tech users via user testing. Please put this on your radar.
 - **Defect:** `Not Blocking`
