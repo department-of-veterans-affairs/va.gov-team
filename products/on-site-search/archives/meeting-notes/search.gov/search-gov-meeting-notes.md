@@ -185,4 +185,4 @@ VA: We need to do work to fully implement routed queries.
 - Here's a link to the API documentation that references Module Code as a parameter (https://open.gsa.gov/api/searchgov-clicks/) and here's the list of Module Codes: https://search.gov/manual/module-codes.html. 
 
 **VA.gov: Could we get an Excel download of our current Best Bets??**
--  Uploaded [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/assets-docs/VA.gov%20-%20Best%20Bets%20Export.csv)
+-  Uploaded [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/best_bet/VA.gov%20-%20Best%20Bets%20Export.csv)
