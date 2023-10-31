@@ -1,5 +1,5 @@
-# Description
-The following is a list of search events and the variables being supplied along with them.
+# Search analytics
+The following is a list of search analytics events and the variables being supplied along with them.
 
 ### Search Initiated
 - Event Name: "view_search_results"
@@ -18,7 +18,7 @@ The following is a list of search events and the variables being supplied along 
 ### Search Result Clicked
 - Event Name: "onsite-search-results-click"
 
-#### Data Providded
+#### Data Provided
 - 'search-page-path'{GA}: url of the page where the result was clicked
 - 'search-query': the user query that landed them on the results page
 - 'search-result-chosen-page-url'{GA}: the url of the link they clicked on
