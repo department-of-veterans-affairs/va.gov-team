@@ -2,58 +2,61 @@
 
 #### Overview
 
-The VA.gov 
+The current IA of the modernized VA.gov benefit experience revolves around the benefit type first, then organizes content, tools, and forms within those benefits. For exploring and applying for benefits, this organizational structure generally meets the mental model of our visitors.  However, forms and tools that Veterans and family members utilize to complete tasks related to managing their benefits don't always fit within a single benefit type (i.e. claim status), and some aren't related to benefits at all (i.e. update contact information). Data and research have identified a number of challenges for visitors trying to find authenticated tools to complete their intended tasks. 
 
 **Goals:**
-- This effort is to create 
+- This effort is to evaluate a revised organizational structure (IA) for the authenticated tools within the Veteran and family member benefit experience that will allow visitors to more easily find the tools and succesfully complete their tasks.
 
 **Product(s) impacted**
-- Benefit hubs
+- Benefit hub landing pages
+- Authenticated benefits tools
+- My VA
+- Profile
+- MHV on VA.gov
 - Resources and support
 
 ## Problems to solve
 
 **Problem Defined:**
-... content, applications, and tasks are distributed across the Veteran benefit hubs.  Furthermore, tools related to managing health care and benefits are mostly framed up for the Veteran, but often also intended for family members and caregivers to use.
+Tools, forms, and content related to managing benefits are distributed across the Veteran benefit hubs or placed at the root level of VA.gov making them hard to find, and challenging to navigate to and between tasks. 
   
 **Evidence to support Problem:**
 
+Research and analytics on the[ logged-in IA andnavigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/comprehensive-research-summary.md) completed in FY23 identified a number of challenges with the current organization, or, lack of a cohesive authenticated experience:
+- People have a hard time navigating to things when they don’t cleanly fall into one category or topic area (e.g downloading benefit letters). 
+- People get frustrated, or feel like they’re on a generic website, when personalized content isn’t surfaced while trying to complete a task
+- People called out redundancies and complexities in navigation options when logged in 
+- Visitors less familiar with VA.gov - i.e. My HealtheVet users or non-Veterans - have a hard time finding anything that’s not linked from the homepage or My VA. 
+- People expect personalized links and content to be surfaced throughout the VA website if they are logged in
+- People find it helpful, and have an increased sense of personalization, when they have access to all their tasks in one place, especially immediately after logging in.  
 
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
- - Content is currently organized by Veteran benefit and is not necessarily optimized for different audiences
   
 * How does this initiative help further OCTO-DE's mission and goals?
   - Streamline the IA
  
 
 ## Desired User Outcomes
-- As a Veteran, I can easily
-
-  - access tools to manage my health care and benefits I am receiving through VA
+- As a Veteran or family member of a Veteran, I can easily
+  - find tools to manage my benefits I am receiving through VA
 
 ## Undesired User Outcomes
-- Veterans
-  - are unable to find the tools that allow them to manage their health care and benefits they receive through VA
+- Veterans and family members are unable to find the tools that allow them to manage their benefits they receive through VA
   - 
 
 ## Desired Business Outcomes
-- Increased enrollment and use of family member benefits and services
-- Reduced calls from family members and caregivers unable to find benefit content and tasks
+- Increased usage of authenticated tools
+- Reduced calls from visitors unable to find benefit tools
 
 
 ## Undesired Business Outcomes
-- Increased calls from family members and caregivers unable to find benefit content and tasks
+- Increased calls from visitors unable to find benefit tools
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
 
-- Increased traffic to the family member hub
-  - Baseline: 240,415 avg views/month as of 8/16/23 
-- Same or increased traffic to key family member pages moved from Veteran benefit hubs to the family member hu
-- No detriment to SEO of Veteran content due to similar family member content (i.e. same benefit has content in Veteran hub and family hub)
-- Improved overall satisfaction rating in the feedback survey of the family member hub page
+- 
 
 
 
@@ -67,36 +70,35 @@ The VA.gov
 
 
 **Risks**
-- Family members will continue to look for benefits information in the Veteran hubs more the family member hub (this is the current state)
-- Family members will get lost once sent into the Veteran hubs for certain tasks and applications
-- Organization of the family member hub may make it difficult to find benefits that pertain to the visitor (i.e. benefits specific to parents or survivors)
+- Development issues and broken links due to URL changes
 - Loss of SEO with changes in placement, titles, and URLs
 - Potential 404s
-- Resources and support only allows selecting one audience type - Veteran or family member - and some content will be for both audiences
-- Loss of trust from family members and caregivers if the findability of benefit information becomes more difficult
-- Stakeholders disagree or block the changes needed
+- Loss of trust from visitors if the findability of benefit information becomes more difficult
+- VFS teams are unable to make changes in a timely manner creating navigational challenges with scattered tools
 - Development work needed from teams outside Sitewide to support moving applications and tools
 
 
 ### Solution Scope
 
 **In Scope**
-- Moving explore and apply content pages ("get" spoke content) from Veteran benefit hubs to the family member hub and implementing URL changes and redirects
+- Assessing purpose and need of the tool static landing pages
+- Changes to global navigation to support changes in structure and/or new authenticated space on VA.gov
+- Changing the URLs and entry points of authenticated tools
 - Moving pages and segments of pages from benefit hubs into Resources and support and implementing redirects as needed
-- Improving crosslinking from Veteran benefit hubs and resources and support to the family member and caregiver hub
-- UX and technical updates to Resources and support to support the additional content for a new audience
+
 
 **Not In Scope**
-- We do not intend to move content, forms, or tools that are part of the "Manage" spoke of the hubs.  Those features will remain where they are for at least the initial iteration, and the family member hub will crosslink to them.
+- 
 
   
 ## Approach
 
 1. Review and synthesis of existing research and data
 2. Design new IA
-3. Research with family members and caregivers
-4. Create content
-5. Implement structure
+3. Research - TBD
+4. Approach impact analysis and communication with teams
+6. Implementation plan
+7. Implementation
 
 
 ## Product/Project impacts
@@ -111,13 +113,17 @@ Optimizing benefit hubs
 - Primary contact(s): Danielle Thierry, Mikki Northuis
 - Overview: This project is aimed at streamlining Veteran benefit hub content by implementing the content placement criteria.  This will lead to moving a lot of content from the hubs into Resources and support. 
 
-Resources and support
-- Primary contact(s): Dave Conlon
-- Overview:  This product may need some technical and UX changes to acommodate the increase of content, specifically around a new audience type. There currently is not team actively working on this product.
+Benefit tools
+- Primary contact(s):
+- Changes in entry points and URLs of benefit tools
 
-Service member hub
-- Primary contact(s): Danielle Therry, Mikki Northuis
-- Overview:  There is work planned to look at enhancing the exsiting service member benefit hub.  The family hub work may help to inform the service member hub work.
+Health tools
+- Primary contact(s): Lauren Alexanderson, Coulton Bunney, Patrick Bateman
+- Changes in entry points to health tools, changes in URLs of benefit tools
+
+Authenticated experience
+- Primary contacts(s): Samara Strauss
+- Potential changes to profile and My VA, build-out of an auth experience, etc
 
 
    
