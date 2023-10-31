@@ -1,7 +1,7 @@
 # Design strategy: Phase 1
 *Ask VA Integration*
 
-Last updated by @tygindraux on October 30, 2023 
+Last updated by @tygindraux on October 31, 2023 
 
 ## Product background
 
@@ -17,7 +17,7 @@ At the end of Phase 1, submitters should be able to:
 - use Ask VA, including with assistive technology
 - save time by having their information filled in, when they authenticate
 - edit their VA Profile while asking a question, when they authenticate
-- track their submitted inquiries, when they authenticate
+- track their submitted inquiries online, when they authenticate
 
 ### KPIs
 
@@ -30,9 +30,9 @@ These KPIs will guide our decisions and help us measure success [[2](https://git
 
 ### VA.gov design system
 
-We will use VA.gov’s design system to design content, components and patterns in Ask VA [[3](https://design.va.gov/)]. 
+We will use VA.gov’s design system to design content, components and patterns in Ask VA [[3](https://design.va.gov/)]. As is recommended by the Design System Team, VA.gov is moving towards USWDS v3. So some of our designs will use USWDS components that differ from VA.gov's current design system, when appropriate.
 
-At a strategic level, our approach will be based on the VA.gov design principles [[4](https://design.va.gov/about/principles)]. These are summarized as:
+At a strategic level, our vision is based on the VA.gov design principles [[4](https://design.va.gov/about/principles)]. These are summarized as:
 - Usable by everyone
 - Simple
 - Veteran first
@@ -75,7 +75,8 @@ At a high-level, we will:
 - Design Ask VA in collaboration with key stakeholders, CAIA, the Platform team and business lines
 - Test Ask VA with Veterans, dependents and other submitters
 - Make updates based on insights from usability testing
-- Help launch Phase 1: Ask VA
+
+By the end of Phase 1, submitters should be able to reach all their desired outcomes.
 
 We recognize the work will be iterative along the way.
 
