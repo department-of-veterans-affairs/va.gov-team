@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: October 26, 2023 - added security section**
+**Last updated: October 31, 2023 - updates to Projects section**
 
 ### Communications
 
@@ -145,7 +145,7 @@ _Why would your business want this to exist?_
 
 |Project|Epic|Launch/Completion date|
 |----|----|----|
-|Remove "notifications" section| | October 3, 2023|
+|[Remove "notifications" section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#project-outline-on-site-notifications-mvp)|[#30611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611) | October 3, 2023|
 |[LOA1 updates to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/LOA1-experience-updates)| [#63424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|October 3, 2023|
 |[Updates to appointments links + Cerner alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#updates-to-appointment-links-and-cerner-alert) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | September 2023 |
 |[Dot indicator experiment + implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md) | [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788) | September 2023 |
