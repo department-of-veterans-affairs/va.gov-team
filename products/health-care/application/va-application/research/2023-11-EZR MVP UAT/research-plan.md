@@ -125,7 +125,7 @@ For recruiting 2 users with cognitive disabilityes:
 November 2023
 
 * Kickoff call requested
-* Preferred date/time: October 31, 2023 at xx AM/PM EST.
+* Preferred date/time: Novmeber 2, 2023 2pm ET / 11am PT 
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
@@ -135,7 +135,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research: **November 13 - November 17**
+* Planned dates of research: **November 15 - November 22**
 
 ### Length of sessions
 * Session length: 1 hour
@@ -146,16 +146,14 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
-| November xx, 2023  	|  11am - 5pm ET 	|
-| November xx, 2023   	|  11am - 5pm ET 	|
-| November xx, 2023   	|  11am - 4pm ET 	|
-| November xx, 2023   	|  10am - 4pm ET 	|
-| November xx, 2023   	|  10am - 4pm ET 	|
-| November xx, 2023  	|  11am - 5pm ET 	|
-| November xx, 2023   	|  11am - 5pm ET 	|
-| November xx, 2023   	|  11am - 4pm ET 	|
-| November xx, 2023   	|  10am - 4pm ET 	|
-| November xx, 2023   	|  10am - 4pm ET 	|
+| November 15, 2023  	|  11am - 6pm ET 	|
+| November 16, 2023   	|  10am - 6pm ET 	|
+| November 17, 2023   	|  11am - 4pm ET 	|
+| November 20, 2023   	|  10am - 6pm ET 	|
+| November 21, 2023   	|  11am - 6pm ET 	|
+| November 22, 2023  	|  10am - 5pm ET 	|
+
+
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -169,4 +167,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - Observers: TBD
 
   ## Approvals
-  
+  - 
