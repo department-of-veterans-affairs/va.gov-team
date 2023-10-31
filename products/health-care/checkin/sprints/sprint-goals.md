@@ -60,7 +60,7 @@ ________________________________________________________________________________
             - 🟦[[CHIP] [BE] POST mobile_check_ins_demographics accepts invalid key in demographic_confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65015)            
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
-            - 🟩 🟥🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65842)
+            - 🟩🟥🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65842)
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - 🟦[JWT token endpoint access (after token registered)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67717)
             - 🟦[[BE] Create Configuration to Connect to MAP Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67845) ROLLOVER
@@ -127,8 +127,8 @@ ________________________________________________________________________________
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
             - ✔️❗ 🟦[[BE] Update vets-api to Set eCheckInStarted Status when Reminder Link Clicked & Veteran has Authenticated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65834) ROLLOVER
             - ✔️❗ 🟦[SPIKE: Investigate on stale setECheckInCalled status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67840)            
-            - ✅❗ 🟩 [[FE] Put 45-minute Content behind Pilot Feature](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67255)
-            - ✅❗ 🟦[[BE] Log in DataDog Metrics for 45-minute Reminder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66786) ROLLOVER
+            - ✔️❗ 🟩 [[FE] Put 45-minute Content behind Pilot Feature](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67255)
+            - ✔️❗ 🟦[[BE] Log in DataDog Metrics for 45-minute Reminder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66786) ROLLOVER
             - ❗ 🟦[[BE] Update DataDog vets-api dashboard to include metrics for 45-minute reminder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66835) ROLLOVER
             - ⛔ BLOCKED [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65842)
             - ❗ 🟦[[BE] Cache setECheckInCalled to log metrics for 45-minute Text reminder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68333)
@@ -136,11 +136,11 @@ ________________________________________________________________________________
       - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
           - ✔️ 🟥[[UX][Design] Update aria labels in appt list for details link in Priority 1 Sketch page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67169)
           - ✔️ 🟥[[UX][Design] Create wireframe for pre-check-in too late that includes "we'll send you a text" (existing message)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67171)
-          - ✅ 🟩 [[FE] Pre-Check-in & Day-of Landing Page: Display the Next Task for "What to do next"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62138) ROLLOVER
-          - ✅🟩 [[FE] Add aria labels to new appointment list componen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66707) ROLLOVER
-          - ✅🟩 [[FE] Add refresh timer to upcoming appointments call](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66619) ROLLOVER
+          - ✔️ 🟩 [[FE] Pre-Check-in & Day-of Landing Page: Display the Next Task for "What to do next"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62138) ROLLOVER
+          - ✔️ 🟩 [[FE] Add aria labels to new appointment list componen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66707) ROLLOVER
+          - ✔️ 🟩 [[FE] Add refresh timer to upcoming appointments call](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66619) ROLLOVER
           - 🟩 [[FE] Add api calls for new pre-check-in logic flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67417)
-          - 🟦 🟦[[BE] Validate that our public key works](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67715)
+          - 🟦[[BE] Validate that our public key works](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67715)
           - 🟦[[BE] Create Configuration to Connect to MAP Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67845)
           - 🟦[JWT token endpoint access (after token registered)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67717)
     - **Sub Goal: Analyze current metrics to see what they tell us**
@@ -149,7 +149,7 @@ ________________________________________________________________________________
        - 🟥[[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
 - **GOAL: Address tech & design debt**        
     - ✔️❗ 🟦[[CHIP] - Update dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65691)
-    - ✔️ ❗ 🟥 🟥[[UX] Add Disclaimer to the Product Guides that they DO NOT Contain any PHI/PII](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67175)
+    - ✔️ ❗ 🟥[[UX] Add Disclaimer to the Product Guides that they DO NOT Contain any PHI/PII](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67175)
     - 🟥[Move "old" feature pages in unified check in sketch file to {where} (f/u from 66318)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67167)
        - Pulled in at end of sprint
   
