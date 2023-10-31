@@ -1,4 +1,4 @@
-# Conversation Guide for Health Questionnaires, Clinical Reminders Pilot - Staff Interviews, October 2023 
+# Conversation Guide for Health Questionnaires, Clinical Reminders Pilot - Staff Interviews, November 2023 
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -18,7 +18,7 @@ Before we start, I want to mention a couple things:
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We just use the recordings to confirm that we have captured your opinions accurately. None of your comments will be attributed to you directly. If we want to quote you directly, we take away any identifying information. Knowing that, are you comfortable if I record my screen and audio as we talk today?
 
-## Questions for Providers
+## Questions for Providers (including Nursing Staff)
 
 ### Learning the tool - 7 minutes 
 - On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to learn how to use [BHL or eScreening]?
@@ -26,7 +26,7 @@ Before we start, I want to mention a couple things:
 - Can you summarize the training that was provided to you?
 - If you could change one thing about the training that you received, what would it be?
 
-### Utilizing the tool - 10 minutes
+### Utilizing the tool - 15 minutes
 - Can you walk me through your final process for sending, receiving, and reviewing these questionnaires?
 - On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult is it to use [BHL or eScreening]?
 - Has the quality of the time you spend with patients improved or worsen due to this process? Why?
@@ -39,14 +39,6 @@ Before we start, I want to mention a couple things:
 - How could [BHL or eScreening] tools be improved or changed?
 - If you could change one thing about this digital clinical reminder process, what would it be?
 
-## Questions for Nursing Staff
-
-### Learning the tool - 7 minutes 
-- On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to learn how to use [BHL or eScreening]?
-- How long did it take you to learn to use the tool?
-- Can you summarize the training that was provided to you?
-- If you could change one thing about the training that you received, what would it be?
-
 ## Questions for Healthcare System Technical Administrator (HSTA) and/or Clinical Application Coordinator (CAC)
 
 ### Learning the tool - 7 minutes 
@@ -54,6 +46,13 @@ Before we start, I want to mention a couple things:
 - How long did it take you learn to configure the tool?
 - Can you summarize the training that was provided to you?
 - If you could change one thing about the training that you received, what would it be?
+
+### Configuring the tool - 10 minutes
+- Can you summarize the steps you had to take to configure the tool?
+- What steps were easy?
+- What challenges did you run into?
+- Has the addition of this tool affected your role either positively or negatively? How?
+- If you could change one thing about setting up [BHL or eScreening], what would it be?
   
 ## Questions for Toxic Exposure Screening (TES) Navigator
 - 
