@@ -1,4 +1,4 @@
-# August 29, 2023: Burials and memorials business line review
+# September 29, 2023: Burials and memorials business line review
 *Ask VA Integration Team*
 
 ## Agenda
