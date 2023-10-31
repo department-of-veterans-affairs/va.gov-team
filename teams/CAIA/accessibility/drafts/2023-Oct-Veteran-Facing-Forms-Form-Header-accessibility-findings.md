@@ -199,7 +199,7 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 #### Finding 4: Users expected to be able to save their progress upon exiting the form.
 - Issue Description: Many users expected a “save” button to accompany the exit process. They gave suggestions such as "Save" and "Save and Continue" buttons. While this study tested the unauthenticated version of the form, the lack of a save button was frustrating for users.
 - Desired Outcome: Authenticated users are aware that a) the form can be saved b) can press X button to save it. If the form saves automatically, they need to be made aware of that on form exit.
-- Experience standard:`Category 03` `Issue 02`
+- Experience standard:`Category 03` `Issue 02` [Link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=A%20user%20flow%20provides%20content%20or%20navigation%20to%20help%20users%20understand%20where%20to%20go%20or%20what%20to%20do%20next.)
 - Defect:`Launch Blocking`
 - Impact Area: `IA`
 - Appears on: `Experience Standards`
@@ -209,7 +209,7 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 #### Finding 5: Users wanted to know if the form was being saved or not.
 - Issue Description: Many users assumed that their data would be saved unless we informed them otherwise. For unauthenticated users, make sure it's clear that the data isn't being saved. Use an alert upon form exit, an alert box on the unauth intro page, or similar.
 - Desired Outcome: Unauthenticated users are aware that their data won't be saved if they exit the form before completing/submitting.
-- Experience standard:`Category 03` `Issue 02`
+- Experience standard:`Category 03` `Issue 02` [Link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=A%20user%20flow%20provides%20content%20or%20navigation%20to%20help%20users%20understand%20where%20to%20go%20or%20what%20to%20do%20next.)
 - Defect:`Launch Blocking`
 - Impact Area: `IA`
 - Appears on: `Experience Standards`
