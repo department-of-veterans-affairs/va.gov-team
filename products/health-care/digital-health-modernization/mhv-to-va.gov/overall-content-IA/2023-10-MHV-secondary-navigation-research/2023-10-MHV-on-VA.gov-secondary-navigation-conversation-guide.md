@@ -126,7 +126,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 - (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
   
-**_Task 3 - Medications_** (from where they left off) Imagine that you have taken some medications for a while. You want to find information on how you can renew medications. How do you go about doing that from here? 
+**_Task 3 - Medications_** (from where they left off) Imagine that you have taken some medications for a while. You want to find information on how you can renew medications, and you want to check the expiration date for ordering refills for TACROLIMUS. How do you go about doing that from here? 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
