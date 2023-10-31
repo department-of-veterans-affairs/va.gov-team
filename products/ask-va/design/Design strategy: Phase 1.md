@@ -75,7 +75,7 @@ At a high-level, we will:
 - Design Ask VA in collaboration with key stakeholders, CAIA, the Platform team and business lines
 - Test Ask VA with Veterans, dependents and other submitters
 - Make updates based on insights from usability testing
-- Launch Phase 1
+- Help launch Phase 1: Ask VA
 
 #### References
 
