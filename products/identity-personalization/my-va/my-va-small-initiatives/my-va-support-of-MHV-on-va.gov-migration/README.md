@@ -34,12 +34,6 @@ In support of the MHV on VA.gov migration, we'll need to make updates to the Hea
 #### Key Dates
    - August 2023: Development (phase 1B)
    - September 2023: Released link and cerner updates
-   
-#### Screenshots
-   ### Before
-      NA
-   ### After
-      NA
       
  </details>  
 
