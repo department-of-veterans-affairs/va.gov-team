@@ -4,95 +4,73 @@ Team: Accredited Representation Management
 ---
 
 ## Overview
-Create a user-friendly, accessible tool for Veterans to search for an accredited representative on VA.gov. This experience is intended to mirror the search functionality of older, external tools: [OGC]([url](https://www.va.gov/ogc/apps/accreditation/index.asp)) and [eBenefits]([url](https://www.ebenefits.va.gov/ebenefits/vso-search)).
+Create a user-friendly, accessible widget on VA.gov that reflects a Veteran’s current representative status.  
 
 ## Problem Statement
-There is not currently an experience on VA.gov for Veterans to find a representative. The current experience happens either in person (referrals) or on older systems (eBenefits, OGC) which do not provide a great user experience: confusing errors, dead ends, and inconsistent user flows.
+There is not currently an experience on VA.gov for Veterans to understand their current representative status. Without insight into existing representation a Veteran may accidentally remove a representative that is actively assisting with a claim and delay their already lengthy claims process. Additionally, when appointing a representative for the first time, there are no feedback mechanisms in place for Veterans to review their pending appointment request as they await approval. Without this feedback, a Veteran may try to appoint additional representation which can cause confusion and delay appointment overall.
 
-**How might we enable Veterans to find an accredited representative on VA.gov?**
+**How might we provide Veterans with insight into their current representative status on VA.gov?**
  
 ## Desired User Outcomes
-1. Veterans can search for accredited representatives on VA.gov and filter by location and representative type (VSOs, attorneys and claims agents)
-2. Veterans have a clear understanding of the different types of representatives (VSOs, attorneys and claims agents)
+1. Veterans can easily see if they have existing representation when interacting with the Find a Representative tool
+2. Veterans can easily see if they have existing representation when interacting with the Appoint a Representative tool
+3. Veterans can easily see their representative status in the Account Profile
 
 ## Desired Business Outcomes 
-1. Increase the functionality of VA.gov to support searching for accredited representatives
-2. Reduce the time it takes for Veterans to find an accredited representative
-3. Expedite the deprecation of the legacy eBenefits platform by delivering replacement services
+1. Increase the functionality of VA.gov to support Veteran’s insight into current representation 
 
 ---
 ## Measuring Success
 
 
 ### Key Performance Indicators (KPIs)
-1. SEO insights for...
-    1. Landing page for representatives 
-        1. Page views
-        2. Unique page views
-        3. % of unique views 
-        4. Bounce rate _What percent of users land on this page and immediately leave VA.gov without any interaction?_
-        5. Entrance rate _What percent of users enter the VA.gov site on this page?_
-        6. Exit rate _What percent of users first interact with or view other pages on VA.gov, before viewing this page and then leaving VA.gov?_
-        7. Top previous pages by % _What pages are users coming from?_
-        8. Top next pages by % _What pages are users visiting next?_
-    2. Find a Representative tool
-        1. Same data points as 1a above
-2. Average number of searches per user _Do users feel the need to search multiple times?_
-3. % of searches by representative type (VSO, Attorney, Claims Agent) _What representative types are users most interested in?_
-4. % of searches with a specified organization/representative name _Are users searching with a particular organization or representative in mind?_ 
-5. % of searches by existing representative status (has representation, pending representation, no representation) _Are veterans searching for new representation?_
+1. % of user logins after widget prompt _Is our widget providing a compelling reason for users to login?_
+    1. Broken out by page _Are users more compelled to login to the widget on certain pages/contexts?_
+2. % users with representation who complete a search using our Find a Representative tool _What % of users with appointed or pending representation are interested in new representation?_
+    1. Broken out by appointed vs. pending statuses _Are users interested in replacing existing representation or re-applying for different representation?_
+3. % users with current representation who download a form using our Appoint a Representative tool _What % of users with appointed or pending representation are interested in new representation?_
+    1. Broken out by appointed vs. pending statuses _Are users interested in replacing existing representation or re-applying for different representation?_
 
 ### Baseline KPI Values
-1. Number of searches per week _measuring growth_
-    1. Pre-launch: through the eBenefits or OGC tools
-    2. Post-launch: through the VA.gov Find a Representative tool
-2. % increase of searches this week vs. last week _measuring proportional growth_
+1. Number of user logins after widget prompt per week/month _measuring growth_
+2. % increase of user logins after widget prompt this week/month vs. last week/month _measuring proportional growth_
 
 ### Objectives and Key results (OKRs)
-1. **Objective**: Veterans start moving away from legacy processes for finding a representative, in favor of our solution on VA.gov
-    1. **Key Result**: Increase in representative searches on VA.gov (Baseline KPIs #1 and #2)
-2. Objective: Veterans are able to successfully find a representative through our Find a Representative tool
-    1. **Key Result**: Minimize the average number of searches per user (KPI #2)
+1. **Objective**: The widget provides unauthenticated users with a compelling reason to sign in and view their representative status
+    1. **Key Result**: Increase in sign-ins based on a widget prompt (KPI #1)
+2. **Objective**: The widget helps authenticated users understand if they have pre-existing representation that they can go to for support
+    1. **Key Result**: We see a high bounce and/or exit rate on Find a Representative for authenticated users with existing representation
+    2. **Key Result**: We see a high bounce and/or exit rate on Appoint a Representative for authenticated users with existing representation
+3. **Objective**: The widget helps authenticated users avoid replacing a current representative or re-applying for an appointment that is already in progress
+    1. **Key Result**: Reduced usage of Find a Representative for users that already have existing representation (KPI #2)
+    2. **Key Result**: Reduced usage of Appoint a Representative for users that already have existing representation (KPI #3)
 
 ---
 
 ## Assumptions
-1. Veterans are interesting in searching for a representative on VA.gov
-2. Veterans are more likely to appoint VSOs, Attorneys and Claims Agents
-3. Only a small percentage of Veterans are interested in appointing individual representatives in a VSO
+1. Many Veterans are unaware that they have a current representative appointed
+2. Veterans would like to see the status of their representative appointment request
 
 ## Solution Approach
-Our immediate goal for the Find a Representative MVP is to mirror the representative search functionality on eBenefits, but with a more consistent and intuitive experience that lives directly on VA.gov.  
+Our immediate goal for the Representative Status Widget MVP is to provide Veterans with insight into any existing representation on VA.gov.  
 
-We will be conducting a usability test on the Find a Representative MVP and a month after launch, we will iterate on this tool for a v2 that incorporates findings from user research findings and navigation/traffic analytics. The v2 could include:
-1. Additional search parameters, including individual representatives in Veteran Service Organizations
-2. Satisfaction survey to assess the user perceptions of our product experience
-3. Integration with OGC APIs for direct access to accredited representative data
-4. Adjustment/addition of entry points to the Find a Representative tool
+As we work towards this MVP, we will also be considering how this widget may support additional experiences on VA.gov. A future iteration could include:
 
-
+1. Add the representative status widget to any related VA.gov pages where Veterans would benefit from seeing their representative status in context
+2. Consider scenarios where a Veteran may have multiple representatives, each appointed to assist with different responsibilities
 
 --- 
 
 ## Launch Strategy
 ### MVP Launch 
-1. Any VA.gov links to eBenefits or OGC that set expectations around searching for a representative will be re-routed to the Find a Representative tool
-    1. Note: Any links on VA.gov that set expectations around appointing a representative will be re-routed to Appoint a Representative when that MVP launches
-2. A landing page for "Find and appoint a VA accredited representative" (rooted in the Resources and Support section of VA.gov) will include a link to the Find a Representative tool
-    1. TBD: There will be multiple entry points into the landing page, stemming from the main navigation as well as in-context with related benefits pages
-  
-### v2 Launch
-Based on user research findings and navigation/traffic analytics, consider:
-1. Adjusting/adding entry points
-2. Enhancements to the Find a Representative experience 
+1. The Find a Representative tool will include the Representative Status Widget, encouraging Veterans to sign in and view any current or pending representation
+2. The Appoint a Representative tool will include the Representative Status Widget, encouraging Veterans to sign in and view any current or pending representation
+3. The Profile page will include the Representative Status Widget, enabling Veterans to see any current or pending representation
+4. Make the Representative Status Widget code available to other teams, so they can embed this widget in their products if the context makes sense
 
 ## Launch Dates
-1. MVP target launch date: December 2023
-    1. MVP launch will mirror the rep search functionality on eBenefits
-
-2. v2 target launch date: February 2024
-    1. v2 launch will include updates based on user research findings and navigation/traffic analytics
-
+1. MVP target launch date: June 2024
+   
 ---
 
 ## Solution Narrative
