@@ -135,7 +135,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research: **November 15 - November 22**
+* Planned dates of research: **November 13 - November 22**
 
 ### Length of sessions
 * Session length: 1 hour
