@@ -6,8 +6,9 @@
 
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
-| BGS                  | -                  | 200        | Starts form. Shows Veteran details
-|                      |                    | Any other  | Starts form. Shows Veteran details without SSN or VA file number
+| BGS                  | -                  | 200        | Starts form. Shows Veteran details [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/bc348c63-6670-4a26-bca8-0efd77cdb7b3)
+|                      |                    | Any other  | Starts form. Shows Veteran details without SSN or VA file number [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/366f09ee-8121-43c6-a017-5d2a23d13317)
+
 
 ## Prefill Veteran Contact Information
 
@@ -25,7 +26,7 @@
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
 | Lighthouse           | 1 per submission   | 200        | Shows list of contestable issues
-|                      |                    | Any other  | Error alert. <br> Header: We can't load your issues right now <br> Body: You can come back later, or if you'd like to add your issue manually, you can select "Add a new issue" to get started. [Screenshot 2023-10-31 at 9 15 43 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/51d7d945-f75a-4305-a4ad-8e6eca06abf8)
+|                      |                    | Any other  | Error alert. <br> Header: We can't load your issues right now <br> Body: You can come back later, or if you'd like to add your issue manually, you can select "Add a new issue" to get started. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/51d7d945-f75a-4305-a4ad-8e6eca06abf8)
 
 
 ## Evidence Upload (before submission) 
