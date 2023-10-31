@@ -42,12 +42,12 @@
 **Risk:** Blocker 2 is with the appts team. The PO on that team will be informed when items are in production from our team and then will let us know when they are able to test.
 The risk here is time. If timing for that team extends, we may need to make a decision how long do we wait vs. rolling out without testing.
 
-* **Standing question for the POs (Adam)**
+* **Standing question for the POs**
   * Any new work we should be on the lookout for?
   * Any priority shifts or other updates?
 
 
-* **Sprint Planning (Adam)**
+* **Sprint Planning**
    * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
 
     
