@@ -100,7 +100,7 @@ Let’s start with a few warm-up questions.
 ## Third Task: [Intro page] - 5 minutes
 
 - Could you please sign into your VA.gov account the typical way you would do so?
-- [Share link to https://VA.gov ---- in Zoom chat]
+- [Share link to https://VA.gov/my-health/update-benefits-information-form-10-10ezr in Zoom chat]
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
 
 **Participant questions** 
