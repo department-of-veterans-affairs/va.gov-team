@@ -39,7 +39,7 @@ Moderated semi-structured interviews with providers.
 Sessions will take place via Microsoft Team meetings.
 
 ### Research materials
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-11-clinical-reminders-staff/conversation-guide.md)
 
 	
 ## Recruitment	
