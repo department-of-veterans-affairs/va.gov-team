@@ -191,7 +191,7 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 `These need added to the below section.`
 
 **Recommendations for the DST:**
-- [ ] `Needs Added Below`The date field is really hard for AT users to get through. This field needs to be revised so that the input types are consistent. Would need testing, but I’m guessing that a single input field would be easiest.
+- [x] `Added to Complete Later`The date field is really hard for AT users to get through. This field needs to be revised so that the input types are consistent. Would need testing, but I’m guessing that a single input field would be easiest.
 - [ ] `Needs Added Below`For the social security field, perhaps we can improve on the validation? Is there a way that the user could enter their SSN and have it submit, even if the dash groupings are incorrect (instead of XXX-XX-XXXX, they type XXX-XXX-XXX)? Or would having 3 input fields (1 per grouping) be more usable? One user suggested it would be, but would need to test.
 
 <hr>
@@ -232,4 +232,11 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - **Impact Area:** `A11y`
 - **Appears on:** `Experience Standards` `WCAG`
 - **WCAG:** `4.1.3` [WCAG 4.1.3](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
+
+### Other Painpoints: Date field group
+- **Issue Description:** While the date picker meets [USWDS standards](https://designsystem.digital.gov/components/memorable-date/), in this study, we found that the date field was hard for users to use due to the inconsistency between the types of fields within the date group (a dropdown and two text inputs). One user suggested having a single text input; another suggested all dropdowns.
+- **Desired Outcome:** We would like to confirm that this field group is optimal for assistive tech users via user testing. Please put this on your radar.
+- **Defect:** `Not Blocking`
+- **Impact Area:** `A11y`
+
 </details>
