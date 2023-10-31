@@ -22,21 +22,21 @@ A scheduled examination as part of filing a disability claim.
 - [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
 - [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
 
-| Data and actions                                           | Upcoming | Past | Canceled |
-| ---------------------------------------------------------- | -------- | ---- | -------- |
-| Appointment Date and Time                                  | ✅        | ✅    | ✅        |
-| Status: Past                                               |          | ✅    |          |
-| Status: Canceled                                           |          |      | ✅        |
-| Type of Care                                               | ✅        | ✅    | ✅        |
-| Provider Name                                              | ✅        | ✅    | ✅        |
-| Treatment Specialty                                        | ✅        | ✅    | ✅        |
-| Provider Address                                           | ✅        | ✅    | ✅        |
-| Directions Link                                            | ✅        | ✅    | ✅        |
-| Provider Phone Number                                      | ✅        | ✅    | ✅        |
-| Reason                                                     | ✅        | ✅    | ✅        |
-| Call to Reschedule Alert                                   | ✅        |      |          |
-| [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
-| [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
+| Data and actions                                           | Confirmed | Past | Canceled |
+| ---------------------------------------------------------- | --------- | ---- | -------- |
+| Appointment Date and Time                                  | ✅         | ✅    | ✅        |
+| Status: Past                                               |           | ✅    |          |
+| Status: Canceled                                           |           |      | ✅        |
+| Appointment Instructions                                   | ✅         |      |          |
+| Type of Care                                               | ✅         | ✅    | ✅        |
+| Facility Name                                              | ✅         | ✅    | ✅        |
+| Facility Address                                           | ✅         | ✅    | ✅        |
+| Directions Link                                            | ✅         | ✅    | ✅        |
+| Clinic Name                                                | ✅         | ✅    | ✅        |
+| Facility Phone Number                                      | ✅         | ✅    | ✅        |
+| Call to Reschedule Alert                                   | ✅         | ✅    | ✅        |
+| [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅         |      |          |
+| [Print Action](../tools/tool-print.md)                     | ✅         | ✅    | ✅        |
 
 ## User interface design
 

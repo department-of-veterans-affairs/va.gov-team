@@ -709,7 +709,7 @@ Main phone: {phone number} (TTY: 711)
 
 ---
 
-### Compensation and Pension Booked - Canceled
+### Claim Exam Booked - Canceled
 
 **NAVIGATION**
 
