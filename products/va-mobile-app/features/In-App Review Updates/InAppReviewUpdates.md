@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-Our in-app review code hasn't been updated to reflect new features added to the app, so our users are only being prompted to review the app based off of using from Aug 2021.
+Our in-app review code hasn't been updated to reflect new features added to the app, so our users are only being prompted to review the app based off of using features released Aug 2021 or earlier.
 
 ### Current Experience ###
 
@@ -24,8 +24,8 @@ Letters
 - Editing or adding a mailing address in letters
 
 Secure Messaging
-- Successfully viewing a Secure Message
-- Successfully sending a Secure Message
+- Successfully viewing a message
+- Successfully sending a message
 - Successfully saving a draft
 
 Claims
