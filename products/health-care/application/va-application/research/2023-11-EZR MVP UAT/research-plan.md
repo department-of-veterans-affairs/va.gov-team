@@ -90,7 +90,7 @@ For moderated usability tests:
 ### Recruitment approach
 Our intended audience for this research are Veterans and we will be using and leveraging Perigean to recruit participants.
 
-**Veterans: Requesting 10**
+**Veterans: Requesting 10 / Need to complete 5**
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
