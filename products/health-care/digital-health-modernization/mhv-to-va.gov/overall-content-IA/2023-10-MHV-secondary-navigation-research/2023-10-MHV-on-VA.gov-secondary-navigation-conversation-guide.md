@@ -86,7 +86,11 @@ Just as a reminder, this is a prototype, which means that it will behave differe
 
 _Send link to prototype:_
 
-**_Task 1 - MR and SM_**(Start from the signed-in MHV landing page) YImagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests? Then, say you're confused about the results and not sure what they mean and you want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+**So, let's say that you have a chronic condition that requires you to manage regularly, which needs you to navigate MHV on VA.gov. Today is the day to do that, and here are list of things you need to do:** 
+
+I will give you a list of activities, and please use this prototype to walk me through how you'd complete the activities.
+
+**_Task 1a - MR and SM_** (Start from the signed-in MHV landing page) Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -97,14 +101,32 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant still cannot find it, direct them to it and continue with the interview._)
 
 **Must ask:**
-- (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
 - (_Pay attention to_) Where does participant click first, and ask why?
 - (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 - (_If participant didn't click or didn't see the direct link to ask a question_) Do you expect to be able to directly get to secure message from here?
 
+**_Task 1b - MR and SM_** Then, say you're confused about the results and not sure what they mean and you want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
-**_Task 2 - Medications and SM_** (from where they left off) Imagine that you have taken some medications for a while. You want to check which medications need to be renewed and ask your healthcare team how to renew them. How do you go about doing that from here? 
+**Must ask:**
+- (_Pay attention to_) Where does participant click first, and ask why?
+- (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
+- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
+- (_If participant didn't click or didn't see the direct link to ask a question_) Do you expect to be able to directly get to secure message from here?
+
+**_Task 2 - Appointments_** (from where they left off) You need to make a new appointment with your new doctor, but you don't remember their name. You can check their name from your recent appointment visit. How would you find their name from your recent appointment visit on this website?
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
+- What are you thinking as you (_go somewhere, do something_)? 
+- Why did you (_do that, go there, try that_)? 
+- What do you think should happen if you (_do something_)?
+
+**Must ask:**
+- (_If participant looks for past appointments in the secondary nav._) Do you think you'd find past appointments in the menu, and why?
+- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
+- (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
+  
+**_Task 3 - Medications_** (from where they left off) Imagine that you have taken some medications for a while. You want to find information on how you can renew medications. How do you go about doing that from here? 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -116,24 +138,11 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant clicks on mega menu, stop them from continuing_) Why did you click there, and what do you expect to find there?
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 
-
-**_Task 3 - Appointments_** (from where they left off) You need to make a new appointment with your new doctor, but you don't remember their name. You can check their name from your recent appointment visit. How would you find their name from your recent appointment visit on this website?
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
-- What are you thinking as you (_go somewhere, do something_)? 
-- Why did you (_do that, go there, try that_)? 
-- What do you think should happen if you (_do something_)?
-
-**Must ask:**
-- (_If participant looks for past appointments in the secondary nav._) Do you think you'd find past appointments in the menu, and why?
-- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
-- (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
-
 **If participant clicks on the mega menu during any task, don't let them go further, but ask:**
 - What do you expect to find there?
 - What do you think the differences are between the main and secondary menus (pointing them out)?
 
-**_Task 4 - MR_** (from where they left off) Imagine you're going on an overseas trip soon, and you need to download all your vaccines to prove that you're safe to travel. Where would you go to do that?
+**_Task 4 - MR_** (from where they left off) Imagine you have an overseas trip coming up, and you need to download all your vaccines to prove that you're safe to travel. Where would you go to do that?
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -147,7 +156,6 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_Pay attention to_) Where does participant click first, and ask why?
 - (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
-
 
 
 **I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
