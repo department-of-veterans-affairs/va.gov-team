@@ -158,7 +158,7 @@ _Why would your business want this to exist?_
 |[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#mvp-adding-payments-and-debts-to-my-va-october-2021---may-2022-1)| [#43337](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43337) | Launch completed May 2022|
 |[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)| [#25886](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25886) | Completed August 2021|
 |[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | [#6326](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6326) | Launch completed July 2021 |
-|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
+|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | | Launch completed Spring 2018 |
 
 </details>
 
