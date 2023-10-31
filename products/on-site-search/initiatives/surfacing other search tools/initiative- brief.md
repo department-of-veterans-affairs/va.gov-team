@@ -126,7 +126,7 @@ We are considering a test of up to three approaches to solve this problem.
 
 **1) Test a left-hand nav in the Search results page which links users to a primary and secondary set of other popular Veteran-facing search tools.**
 
-[Link to mockup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/search-leftnav.png)
+[Link to mockup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/search-leftnav.png)
    - This left-hand navigation would be nested on the other primary-only search tool pages to provide a consistent, unified navigation schema.
    - There will be a primary set of other search tool links and a secondary set of search tool links.  
      - The primary links are Find a Location, Find a Form and Resources & Support
@@ -143,7 +143,7 @@ We are considering a test of up to three approaches to solve this problem.
 
 **2) Test an "expanded Search" drawer navigation (Ryan's concept)**
 
-[Link to mockup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/search-dropdown-nav.png)
+[Link to mockup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/search-dropdown-nav.png)
 
 - When a user clicks on the Search link in the global header navigation, that will trigger a Search-centric "drawer" with the Search input field, links to other search tools and a list of VA.gov Most Popular searches.
 
