@@ -80,7 +80,7 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 - [Contact information entrance page report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fcontact-information~2F&_r.tabId=navigationsummary/)
 
-|KPI/metric|Baseline: 1 month pre-launch 9/26/-10/25/2023| 25% 10/25-10/31/2023 | 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|KPI/metric|Baseline: 1 month pre-launch 9/26/-10/25/2023| 25% 10/25-10/30/2023 | 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|
 |Ranking of Notification preferences as an entrance page to Contact information|[Ranked 2nd (6,503 Clicks ) 12.78% entered Contact Information from Notification Settings](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230926&_u.date01=20231024&_.advseg=&_.useg=&_.sectionId=&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.previousPagePath%22,%22PT%22,%22www.va.gov~2Fprofile~2Fnotifications%22,0%5D%5D&explorer-table.rowCount=500)| [Still ranked 2nd 967 at 10.31%](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20231025&_u.date01=20231030&_.advseg=&_.useg=&_.sectionId=&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.previousPagePath%22,%22PT%22,%22www.va.gov~2Fprofile~2Fnotifications%22,0%5D%5D&explorer-table.rowCount=500/) |||||| 
 
@@ -89,7 +89,7 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 - [see save / failure metrics on the top right ](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20230806&_u.date01=20230814/)
 
 No pre-launch stats as this didn't exist prior. 
-|KPI/metric| 25% 10/25-10/31/2023| 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|KPI/metric| 25% 10/25-10/30/2023| 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|:-:|:-:|:-:|:-:|:-:|
 |Number of saves of the add a mobile number form (success)|177|||||
 |Number of saves of the add a mobile number form (failures)|1|||||
