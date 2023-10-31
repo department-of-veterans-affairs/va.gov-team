@@ -18,8 +18,8 @@ Definitions from Google:
 
 ### **Key Results**
 
-- Engagement rate of at least 90% on new-message, reply, and thread pages.
-- Bounce rate of no more than 10% on new-message, reply, and thread pages.
+- Engagement rate of at least 80% on new-message, reply, and thread pages.
+- Bounce rate of no more than 20% on new-message, reply, and thread pages.
 
 ## **Key Performance Indicators (KPIs)**
 
