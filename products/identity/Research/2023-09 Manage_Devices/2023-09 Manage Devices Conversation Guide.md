@@ -55,7 +55,7 @@ Before we start, I have a few things that I want to go over with you:
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -63,7 +63,7 @@ Before we look at the website, let’s start with a few warm-up questions.
    - Follow that up with "Do you ever sign into VA.gov with anything other than your _______?"
 - Have you ever connected any other devices to your VA.gov account e.g. an apple watch or FitBit?  Can you walk me through how you've done that?
 
-## First Task: Signing into VA.gov - X minutes (Understanding password management)
+## First Task: Signing into VA.gov - 5 minutes (Understanding password management)
 
 - How do you normally access VA.gov?  Can you share your screen with me and walk me through that process?
    - MOBILE DEVICE: [ If they are able to access VA.gov without signing in... ] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with signing in? 
@@ -76,26 +76,26 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Since we're working with users who may be using a desktop browser or a mobile device and each has their own session lengths, we'd like to understand what pain points might arise if they sign out of their devices so the questions on this section are purposely kept more open ended and generative.  Where possible, ask follow-up questions and allow the Veteran to express potential pain points without leading them.
 
-## Second Task: Prototype Walk-Through - X minutes
+## Second Task: Prototype Walk-Through - 10 minutes
 
 - Have you ever had the need to sign out of all your devices? This could be on any service, not just VA. If so, can you recall why you did so?
 - I'm now going to show you a prototype and would like for you to share your screen and walk me through how you would complete the following steps.
    - If you were prompted to sign out of all of your devices, can you show me where you would start?  Why would you start there?
-   - Username
+   - **Username** page
       - [SUCCESS] (selects username > profile OR "go to your profile") Allow them to continue walking you through.
       - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
-   - Profile
+   - **Profile** page
       - Can you tell me what you would be looking for on this page at this point?  Does anything stand out to you to help you commplete your task?
          - [SUCCESS] (sees the "Account Security" option) Allow them to continue walking you through.
          - [FAIL] (if they don't call out "Account Security") Ask them to read through the page again; if they are unable to point out "Manage Devices", gently guide them.
             - What word or phrase would you be looking for in order to complete the task of signing out of all your devices.
             - What do you think the term "Account Security" means on this page?
             - For today, we'll navigate to the "Account Security" portion on this page.
-   - Manage Devices
+   - **Manage Devices** page
       - Can you walk me through what you're seeing here?
       - What would you do next?
       - What do you think about when seeing the button "sign out of device"? what about "sign out of all devices"?
-      - Have you ever done this on another app or website?
+      - Have you ever done this or something simlar on another app or website? Can you tell me about that?
       - TO BE UPDATED (Warning Indicator): Can you talk me through what you're seeing here?  What are your thoughts on this?
 
 ### Things to watch for:
