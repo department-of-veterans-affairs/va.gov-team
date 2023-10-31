@@ -1,5 +1,5 @@
 ## 10/31/2023
-Roles: Per Christian, Editors won't be able to do what they really need to if they don't have the "Content Publisher" role assigned. The "Content Creator - VBA" role only gives a user the ability to create a VBA Facility Service. Given this, when Pilot MVP editors are bulk uploaded into Drupal, they should have content creator and content publisher roles. Initial editor readiness and review could be controlled through process rather than role assignments.
+Roles: When Pilot MVP editors are bulk uploaded into Drupal, they could have content creator and either content editor or content publisher roles. As was done with Vet Centers, readiness and review could be controlled through role elevation. Alternately, editor readiness and review could be controlled through process rather than role assignments.
 
 Editors: Per Michelle's discussion with VBA national, the editors will be the same folks currently editing in Teamsite.
 
