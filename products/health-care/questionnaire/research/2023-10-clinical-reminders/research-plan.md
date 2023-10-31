@@ -1,4 +1,4 @@
-# Research Plan for Health Questionnaires, Clinical Reminders Pilot, October 2023
+# Research Plan for Health Questionnaires, Clinical Reminders Pilot - Veteran Interviews, October 2023
 
 ## Background
 “The Clinical Reminder system helps caregivers deliver higher quality care to patients for both preventive health care and management of chronic conditions, and helps ensure that timely clinical interventions are initiated.  
