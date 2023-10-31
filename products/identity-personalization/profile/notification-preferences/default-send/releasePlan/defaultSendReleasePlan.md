@@ -106,7 +106,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
 | Launch to 25% | 10/25/2023 | 10/25/2023 |
-| Launch to 50% | 11/1/2023 |  |
+| Launch to 50% | 11/1/2023 | 10/31/2023 |
 | Launch to 100% | 11/8/2023 |  |
 
 ### 1-week results at 100%
