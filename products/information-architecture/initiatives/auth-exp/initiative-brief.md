@@ -38,10 +38,11 @@ Research and analytics on the[ logged-in IA andnavigation](https://github.com/de
 ## Desired User Outcomes
 - As a Veteran or family member of a Veteran, I can easily
   - find tools to manage my benefits I am receiving through VA
+  - navigated to tools once signed in
 
 ## Undesired User Outcomes
 - Veterans and family members are unable to find the tools that allow them to manage their benefits they receive through VA
-  - 
+
 
 ## Desired Business Outcomes
 - Increased usage of authenticated tools
@@ -105,17 +106,14 @@ Research and analytics on the[ logged-in IA andnavigation](https://github.com/de
 
 This work will have at least some impact to the following products and work efforts.  Continuous communication and collaboration with these teams will be established. 
 
-Benefit hub templates
-- Primary contact(s): Danielle Thierry, Erika Washburn, Mikki Northuis
-- Some changes to the existing benefit hub template have been proposed to better highlight key capabilities (i.e. apply now)
-
-Optimizing benefit hubs
+Benefit hubs
 - Primary contact(s): Danielle Thierry, Mikki Northuis
-- Overview: This project is aimed at streamlining Veteran benefit hub content by implementing the content placement criteria.  This will lead to moving a lot of content from the hubs into Resources and support. 
+- Some changes to the existing benefit hub template have been proposed to better highlight key capabilities (i.e. apply now)
+- Changes to user flows from static landing pages to auth tools
 
 Benefit tools
 - Primary contact(s):
-- Changes in entry points and URLs of benefit tools
+- Changes in entry points and URLs of benefit tools, changes to user flows from static landing pages to tools
 
 Health tools
 - Primary contact(s): Lauren Alexanderson, Coulton Bunney, Patrick Bateman
@@ -132,21 +130,12 @@ Authenticated experience
 ### Before (starting state)
 
 <details>
-<summary> IA of Family member hub on VA.gov as of 8/1/2023 </summary>
+<summary> IA of ... </summary>
   
-![Family member hub IA structure]()
+
 </details>
 
 <details>
-<summary> Family member hub on VA.gov as of 8/1/2023 - Desktop screenshot </summary>
-  
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/1ab37733-3df8-4526-bdad-127039feea80" width="500">
-</details>
-
-<details>
-<summary> Family member hub on VA.gov as of 8/1/2023 - Mobile screenshot </summary>
-  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/f0bf67a2-be7a-4bc7-a9cd-050356467269" width="250">
-</details>
 
 ### After 
 
@@ -165,7 +154,7 @@ Authenticated experience
 
 ### Stakeholders
   
-- All...
+- ...
 
 
 ### Communication plan
