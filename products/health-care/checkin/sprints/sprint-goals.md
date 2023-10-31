@@ -13,7 +13,7 @@ ________________________________________________________________________________
      - **Sub Goal: Identify Necessary CHIP Work** 
  - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
-    - **Sub Goal: Add Travel Claim Terms of Agreeme
+    - **Sub Goal: Add Travel Claim Terms of Agreement**
     - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
      - **Sub Goal: Explain to the Veteran why we Keep Asking them to Verify their Information**
@@ -60,10 +60,11 @@ ________________________________________________________________________________
             - 🟦[[CHIP] [BE] POST mobile_check_ins_demographics accepts invalid key in demographic_confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65015)            
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
-            - 🟩🟥🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65842)
+            - 🟥 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65842)
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-            - 🟦[JWT token endpoint access (after token registered)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67717)
-            - 🟦[[BE] Create Configuration to Connect to MAP Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67845) ROLLOVER
+            - 🟦 [JWT token endpoint access (after token registered)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67717) ROLLOVER
+            - 🟦 [[BE] Create Configuration to Connect to MAP Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67845) ROLLOVER
+            - 🟩 [[FE] - Unified e2e test - define paths](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68683)
             - 🟩 [[FE] Pre-Check-in & Day-of Completion Page: Content & Link Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62111)
             - 🟩 [[FE] New Appointment Disclaimer Accordion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
