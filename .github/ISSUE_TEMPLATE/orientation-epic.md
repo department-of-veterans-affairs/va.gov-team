@@ -88,7 +88,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 #### Product Managers & Delivery Managers
 - [ ] Request PM intro with @ Shira Goodman in Slack
-- [ ] If your team is new, please complete the [New VFS Team ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=analytics-insights%2C+governance-team%2C+platform-orientation&projects=&template=new-vfs-team.md&title=New+VFS+Team+%5BInsert+team+name+here%5D). If you're joining an existing team, you can skip this step. 
+- [ ] If your team is new, please complete the [New VFS Team ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSteams). If you're joining an existing team, you can skip this step. 
 - [ ]  For [Analytics orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 - [ ] For [Accessibiliy orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 - [ ] For [QA orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
