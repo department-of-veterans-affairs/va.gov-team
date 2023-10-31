@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 10/30/2023
-- Proactively send Veterans, 45-minutes before their health care appointment time, a text message that contains their customized check-in link. Veterans will now be able to complete online check-in without having to text "check in" to 53079 to receive the check-in link.
+- We now proactively send Veterans 45-minutes before their health care appointment a text message that contains their customized check-in link. Veterans will now be able to complete online check-in without having to text "check in" to 53079 to receive the check-in link. NOTE: the feature is currently only enabled for station 657 faciltiies.
     - [Epic 63466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)
 
 ### 10/26/2023
