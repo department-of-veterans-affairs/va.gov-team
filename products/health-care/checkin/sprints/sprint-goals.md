@@ -15,15 +15,13 @@ ________________________________________________________________________________
  - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
     - **Sub Goal: Add Travel Claim Terms of Agreement** 
-    - **Sub Goal: File any Claim Type for a Past Appointment - Design & Discovery**
+    - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
-     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
      - **Sub Goal: Explain to the Veteran why we Keep Asking them to Verify their Information**
      - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**  
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
      - **Sub Goal: Switch Components to Design System v. 3**
-     - **Sub Goal: Miscenallenous debt**
 
 #### PLANNED RELEASES 
 - NONE
@@ -47,8 +45,6 @@ ________________________________________________________________________________
     - **Sub Goal: Identify Necessary CHIP Work**
         - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) [Identify Necessary CHIP Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68275)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-   - **Sub Goal: [Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66721)**
-       - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)  [[FE] Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423)
    - **Sub Goal: [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)**
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [SPIKE: Determine Impacts to Current User Flow & Functionality](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68081)
        - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX] Create New User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68083)
@@ -61,8 +57,7 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**   
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
-            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] [BE] POST mobile_check_ins_demographics accepts invalid key in demographic_confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65015)
-            - ![9777887-not-allowed-sign](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1ed935a7-dce1-4ef7-898e-63c3209c10e2) Blocked: waiting on test users to do integration testing
+            - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) [[CHIP] [BE] POST mobile_check_ins_demographics accepts invalid key in demographic_confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65015)            
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
         - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) [[UX][Content] Create Content to Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67897)
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
