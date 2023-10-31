@@ -35,7 +35,7 @@ Staff travel clerks often have to take manual steps to fix, validate and process
 
 ### VA.gov
 - Kevin Duensing, Engineering Lead
-- Micah Taylor, UX
+- Micah Taylor, UX Design
 - Cara Frissell, Research
 
 ### BTSSS API
