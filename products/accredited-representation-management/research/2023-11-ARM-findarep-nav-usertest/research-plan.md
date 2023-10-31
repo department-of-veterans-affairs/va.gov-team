@@ -21,7 +21,7 @@ Understand how users navigate to and use the find a representative tool on both 
 User testing will inform navigation to and usability of the find a representative tool.
 
 ### Research questions
-Please refer to the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/99e396f84cce0e30ea6ad38e0735c84327dbeada/products/accredited-representation-management/research/2023-10-ARM-MVP-usertest/conversation-guide.md) for all participant questions.
+Please refer to the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-11-ARM-findarep-nav-usertest/conversation-guide.md) for all participant questions.
 1. When would Veterans’ engage with the find a representative experience?
 2. Where would they expect to find this experience on VA.gov?
 3. Do Veterans’ understand the information shown? Is there any information missing?
@@ -42,7 +42,7 @@ Please refer to the [conversation guide](https://github.com/department-of-vetera
 Remote on Zoom
 
 ### Research materials
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/99e396f84cce0e30ea6ad38e0735c84327dbeada/products/accredited-representation-management/research/2023-10-ARM-MVP-usertest/conversation-guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-11-ARM-findarep-nav-usertest/conversation-guide.md)
 - [Link to mobile prototype](https://www.sketch.com/s/dfb0333d-65db-41f9-807e-6b25d6c5396e/prototype/91C5F671-4BC5-4CE9-B9EA-2D384B20C83A/a/91C5F671-4BC5-4CE9-B9EA-2D384B20C83A)
 - [Link to desktop prototype](https://www.sketch.com/s/dfb0333d-65db-41f9-807e-6b25d6c5396e/prototype/100C57E4-87B4-417E-BC4C-F24D85F39C91/a/100C57E4-87B4-417E-BC4C-F24D85F39C91)
 - [Link to research kick-off](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695048973902/e0d3a50f8566e744ae0e07c606b254064a3e8c05?sender=u1d7fe27ad03a782e135e8404) 
