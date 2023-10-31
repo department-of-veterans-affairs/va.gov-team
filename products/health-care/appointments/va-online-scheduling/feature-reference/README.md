@@ -34,18 +34,18 @@ Booked appointments through VA or CC facilities.
 | [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | Scheduled telehealth appointments over VA Video Care | Yes |
 | [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility | Yes | 
 | [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility | Yes |
-| VA Video Care at an ATLAS location |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  | Yes |
-| VA Phone |  Scheduled telehealth appointments that a Veteran joins over the phone. | Yes |
-| Community Care |  Scheduled appointment that a Veteran joins at a community care provider | Yes | 
-| Compensation and Pension appointment | Scheduled appointment for a Compensation and Pension exam | Yes |
+| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  | Yes |
+| [VA Phone](./appointment-types/va-phone.md) |  Scheduled telehealth appointments that a Veteran joins over the phone. | Yes |
+| [Community care](./appointment-types/community-care.md) |  Scheduled appointment that a Veteran joins at a community care provider | Yes | 
+| [Claim exam appointment]() | Scheduled appointment for a claim exam | Yes |
 
 ### Request details views
 Appointments that Veterans have requested but VA has not booked.
 
 | Feature | Description | Supported |
 |---|---|---|
-| VA Appointment Request  | Request for a VA appointment | |
-| Community Care Appointment request | Request for a community care appointment | |
+| VA appointment Request  | Request for a VA appointment | |
+| Community care appointment request | Request for a community care appointment | |
 
 ### Appointment management tools
 Tools Veterans can use to manage their appointments and requests.
