@@ -131,9 +131,11 @@ _Why would your business want this to exist?_
 
 ### Current projects
 
-|Project|Status|
-|----|----|
-|My VA explorations| In progress|
+|Project|Epic|Status|
+|----|----|---|
+| [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/link-to-MHV-landing-page-from-my-va) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | Ready for development | 
+|[White card component implementation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component) | [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | In development |
+|My VA explorations| [#50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758), [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Research & design exploration|
 
 ### Completed projects & enhancements
 
@@ -141,22 +143,21 @@ _Why would your business want this to exist?_
 
 <summary>Completed projects & enhancements</summary>
 
-|Project|Launch/Completion date|
-|----|----|
-|Remove "notifications" section| October 3, 2023|
-|[LOA1 updates to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|October 3, 2023|
-|[Dot indicator experiment + implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md) | September 2023 |
-|[Benefit Application Drafts enhancments (Hiding the "what benefits does VA offer menu")](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509)|September 2023|
-|[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#readme)| August 28, 2023 |
-|[Remove "what benefits does VA offer?" menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/benefit-application-drafts-updates.md) | August 28, 2023| 
-|[Show all sections all the time (aka My VA audit)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#project-outline-my-va-audit-updates-and-documentation)| April 25, 2023 |
-|[Launch VAOS v2 integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41202)|December 19, 2022|
-|[Update Cerner module to be powered by Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47956)| Launched December 13, 2022|
-|[Payments and debts V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed December 12, 2022|
-|[My VA redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect#readme)| Completed September 12, 2022|
-|[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| Launch completed May 2022|
-|[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)|Completed August 2021|
-|[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Launch completed July 2021 |
+|Project|Epic|Launch/Completion date|
+|----|----|----|
+|Remove "notifications" section| | October 3, 2023|
+|[LOA1 updates to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/LOA1-experience-updates)| [#63424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|October 3, 2023|
+|[Dot indicator experiment + implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md) | [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788) | September 2023 |
+|[Benefit Application Drafts enhancments (Hiding the "what benefits does VA offer menu")](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/benefit-application-drafts-updates)| [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509)|September 2023|
+|[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#readme)| [#54403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54403) | August 28, 2023 |
+|[Show all sections all the time (aka My VA audit)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#project-outline-my-va-audit-updates-and-documentation)| [#41934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41934) | April 25, 2023 |
+|Launch VAOS v2 integration | [#41202](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41202)|December 19, 2022|
+|Update Cerner module to be powered by Drupal | [#47956](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47956)| Launched December 13, 2022|
+|[Payments and debts V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---december-2022)| [#43332](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43337) | Launch completed December 12, 2022|
+|[My VA redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect#readme)| [#41223](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41223) | Completed September 12, 2022|
+|[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#mvp-adding-payments-and-debts-to-my-va-october-2021---may-2022-1)| [#43337](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43337) | Launch completed May 2022|
+|[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)| [#25886](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25886) | Completed August 2021|
+|[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | [#6326](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6326) | Launch completed July 2021 |
 |[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
 
 </details>
