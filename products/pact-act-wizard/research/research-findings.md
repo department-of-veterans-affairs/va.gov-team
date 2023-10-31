@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), PACT Act Wizard, Sitewide Public Websites**
 
-Date: 10/30/2023
+Date: 10/31/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
@@ -154,18 +154,14 @@ One participant **thought that none of the options applied** to him. When prompt
 
 > *"This is one of those frustrating times when there's not an appropriate answer for me" (p10).*
 
-A different participant was thinking about the campaigns she served in and not the years, and was **wondering whether toxic exposures for 1990 were similar to those that she might have experienced 12 years later** in the 2000's. She suggested instead having checkbox options with the different options and thought this might be easier for answering questions on behalf of family members, too. She suggested the following list of options: Operation Iraqi Freedom, Operation Enduring Freedom, Desert Storm, Vietnam, Gulf War, Cold War. (Seems like this list could get really long and require updating.)
+A different participant was thinking about the campaigns she served in and not the years, and was **wondering whether toxic exposures for 1990 were similar to those that she might have experienced 12 years later** in the 2000's. She suggested instead having checkbox options with different wars/campaigns and thought this might be easier for answering questions on behalf of family members, too. She suggested the following list: Operation Iraqi Freedom, Operation Enduring Freedom, Desert Storm, Vietnam, Gulf War, Cold War. (Seems like this list could get really long and require updating.)
 
 A third participant didn't select "both time periods" until his second time through the survey. He seemed to think that the word **"serve" meant instead "started" or "joined" because he asked whether it includes his training**. The reason is that he joined in Aug 1989 and did basic training and tech training, but he didn't actually start serving until 1990. 
 
 > *"You're really not in the military until after training" (p4).*
 
 #### RECOMMENDATION: 
-1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options. A few potential ideas:
-     -  Ask what year the Veteran joined the service and what year they left (as in Perigean's recruitment survey from the VA) 
-     - Use 2 checkboxes instead of 3 radio buttons
-     - Reword the options so they don't start with numbers that look similar (e.g., "1990 to present" and "Before 1989")
-     - Add a "Not sure" option that would result in ALL questions being asked (like the current "Both time periods" option)
+1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options. Some participants were confused about whether any of the 3 options applied, the similar wording of the options starting with "1990" and "1989", whether toxic exposures in 1990 were at all similar to those 12 years later, and whether "served" meant the year they started basic training or their first assignment. 
 
 #### Two of 5 participants (40%) didn't know what C-123 planes were in the Agent Orange question
 ![q-C-123-plane-Agent-Orange](./images/q-C-123-plane-Agent-Orange.png)
@@ -382,12 +378,7 @@ A different participant said that it's frustrating that he **doesn't know  wheth
 Preliminary ideas for recommendations are listed below as input to discussion with the team and stakeholders.
 
 ### For content in the PACT Act wizard
-1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options. A few potential ideas:
-     -  Ask what year the Veteran joined the service and what year they left (as in Perigean's recruitment survey from the VA) 
-     - Use 2 checkboxes instead of 3 radio buttons
-     - Reword the options so they don't start with numbers that look similar (e.g., "1990 to present" and "Before 1989")
-     - Add a "Not sure" option that would result in ALL questions being asked (like the current "Both time periods" option)
-1. Consider whether to provide information about C-123 planes since some in the research sessions said they didn't know what they were.
+1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options. Some participants were confused about whether any of the 3 options applied, the similar wording of the options starting with "1990" and "1989", whether toxic exposures in 1990 were at all similar to those 12 years later, and whether "served" meant the year they started basic training or their first assignment. 
 1. Consider how might we clarify the meaning of "serve" so Veterans will better understand how to answer (i.e., does being on a ship nearby or in the airspace above count as having served in the location).
 1. Consider how we might clarify the meaning of "near" in the DMZ option so Veterans will better understand how to answer.
 1. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to better understand how to answer.
