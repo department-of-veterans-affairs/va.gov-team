@@ -170,7 +170,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 1 hour
-* Maximum Sessions per day: 3
+* Maximum Sessions per day: 2
 
 ### Availability
 
