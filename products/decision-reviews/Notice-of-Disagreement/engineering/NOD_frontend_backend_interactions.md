@@ -6,7 +6,7 @@
 
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
-| BGS                  | -                  | -          | Starts form. Shows Veteran details
+| BGS                  | -                  | 200        | Starts form. Shows Veteran details
 |                      |                    | Any other  | Starts form. Shows Veteran details without SSN or VA file number
 
 ## Prefill Veteran Contact Information
