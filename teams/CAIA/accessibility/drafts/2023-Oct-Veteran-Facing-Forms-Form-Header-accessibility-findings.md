@@ -251,6 +251,7 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - **Desired Outcome:** We would like to confirm that this field group is optimal for assistive tech users via user testing. Please put this on your radar.
 - **Defect:** `Not Blocking`
 - **Impact Area:** `A11y`
+- [DSVA Slack thread](https://dsva.slack.com/archives/C01DBGX4P45/p1698773791664629)
 
 #### Social security number field
 - **Issue Description:** While the SSN field meets [VADS standards](https://design.va.gov/patterns/ask-users-for/social-security-number)), in this study, a user with cognitive impairment found that it was difficult to remember how many numbers he'd entered in. He suggested that the field be broken up into 3 separate inputs (XXX - XX - XXXX), which he thought would help him keep track of what he'd entered.
