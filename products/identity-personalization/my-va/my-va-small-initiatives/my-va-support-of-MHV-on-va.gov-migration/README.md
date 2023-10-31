@@ -29,6 +29,9 @@ In support of the MHV on VA.gov migration, we'll need to make updates to the Hea
 ### Overview   
    Updates to the "schedule and manage your appointments" links and the Cerner alert are in support of phase 1B of the migration specifically around appointment handling. More about this phase 1B in development epic: #[57666](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57666).
 
+### Documentation
+- [Frontend documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration/FE-documentation/my-va-phase-1b-FE-documentation.md)
+
 ### Key Dates
    - August 2023: Development (phase 1B)
    - September 2023: Released link and cerner updates
