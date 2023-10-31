@@ -1,3 +1,34 @@
+## Meeting Notes for CRM Sync on 10/31/2023
+
+Focused on `/ping`; Future discussions
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Khoa, Jacob, Eddie
+* **AVA CRM Team:** JD, Chris, Shelby, Stephanie, Wayne, Tina, 
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+1. The `/ping` endpoint is still the focus to make sure that we can get our calls from va.gov to ask.va.gov and back.
+   * AVA FE team is working through some connectivity and deployment issues.
+   * AVA CRM is at the ready to answer any questions we may have.
+   * In a nutshell, we're trying to hit the `/ping` endpoint that JD provided from our development machines using the SOCKS proxy. Otherwise, our development process will be frustratingly slow. But our fallback is to push every change to DEV servers for validation and testing. It's a 20-minute-per-edit difference that can make our iterations on ideas flow much more quickly. But we are timeboxing this effort to the next day (Wednesday).
+2. Natalie gave the teams a heads up that she'll be facilitating a discussion during the next all-hands sync on the LOE for changes to categories/topics/subtopics that might possibly impact routing.
+
+### Action Items:
+
+- [x] ~Joe to document the `sec_id` -> `ICN` decision in a GitHub issue.~
+- [ ] Becky to touch base with Kathleen on military information fields this week.\
+   Check that fields won’t affect routing / system.\
+   Draft email.
+- [ ] Joe and Jacob to request zero tokens and access to the appropriate Azure resources.\
+   They will follow up with the support team and JD as needed for information on the resources to get access.
+- [ ] [Hold after convo with Kathleen] Communicate to business teams about military information.\
+   Send out email in tandem (Kathleen and Becky) to AVA distribution email
+
+---
+
 ## Meeting Notes for CRM Sync on 10/26/2023
 
 Focused on `/ping`; Baseline analytics strategy
