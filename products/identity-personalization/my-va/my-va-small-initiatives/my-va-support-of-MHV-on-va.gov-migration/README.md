@@ -35,10 +35,10 @@ In support of the MHV on VA.gov migration, we'll need to make updates to the Hea
 
 ### Screenshots
    #### Before
-      ![Health care cerner alert figure 39](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/804516d1-37b2-48ea-a81b-19192c9e0f29)
+   ![Health care cerner alert figure 39](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/804516d1-37b2-48ea-a81b-19192c9e0f29)
 
    #### After
-      ![Screenshot 2023-10-31 at 1 13 05 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/c20d9495-67ef-42af-ba57-a3047c233427)
+   ![Screenshot 2023-10-31 at 1 13 05 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/c20d9495-67ef-42af-ba57-a3047c233427)
 
       
  </details>  
@@ -95,14 +95,14 @@ TBD how best to capture and display this as a KPI but we'll need to create a fun
 
 ### Screenshots
    ### Before (Cerner handling)
-      ![Screenshot 2023-10-31 at 1 13 05 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/f69667f8-806b-4ae0-b048-4ebdef57d1d6)
+   ![Screenshot 2023-10-31 at 1 13 05 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/f69667f8-806b-4ae0-b048-4ebdef57d1d6)
 
       
    ### After (Cerner handling)
       TK
 
    ### Before (MHV navigation)
-      ![Screenshot 2023-10-31 at 1 20 54 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/803c62a5-80f7-4213-a074-239de112e4d1)
+   ![Screenshot 2023-10-31 at 1 20 54 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/803c62a5-80f7-4213-a074-239de112e4d1)
 
 
    ### After (MHV navigation)
