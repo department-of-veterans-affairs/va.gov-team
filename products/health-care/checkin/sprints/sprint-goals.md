@@ -136,7 +136,7 @@ ________________________________________________________________________________
       - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
           - ✔️ 🟥[[UX][Design] Update aria labels in appt list for details link in Priority 1 Sketch page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67169)
           - ✔️ 🟥[[UX][Design] Create wireframe for pre-check-in too late that includes "we'll send you a text" (existing message)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67171)
-          - ✅ 🟩🟩 [[FE] Pre-Check-in & Day-of Landing Page: Display the Next Task for "What to do next"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62138) ROLLOVER
+          - ✅ 🟩 [[FE] Pre-Check-in & Day-of Landing Page: Display the Next Task for "What to do next"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62138) ROLLOVER
           - ✅🟩 [[FE] Add aria labels to new appointment list componen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66707) ROLLOVER
           - ✅🟩 [[FE] Add refresh timer to upcoming appointments call](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66619) ROLLOVER
           - 🟩 [[FE] Add api calls for new pre-check-in logic flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67417)
