@@ -16,24 +16,30 @@
 
 - [Overview](#overview)
 - [Projects](#projects)
-- [Key Dates](#key-dates)
-- [Screenshots](#screenshots)
 
 ## Overview
-In support of the MHV on VA.gov migration, we'll need to make updates to the Health Care section on My VA. This work will come in phases in alignment with the phases outlined by the MHV migration initiative.
+In support of the MHV on VA.gov migration, we'll need to make updates to the Health Care section on My VA. This work will come in phases and various iterations and released in alignment with the phases outlined by the MHV migration initiative.
 
 ## Projects
 
-### Updates to appointment links and cerner alert
+### Updates to appointment links and Cerner alert
 
 <details>  <summary>Project Details</summary> 
 
 #### Overview   
-   Updates to the "schedule and manage your appointments" links and our cerner alert are in support of phase 1B of the migration. More about this phase 1B in development epic: #[57666](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57666).
+   Updates to the "schedule and manage your appointments" links and the Cerner alert are in support of phase 1B of the migration specifically around appointment handling. More about this phase 1B in development epic: #[57666](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57666).
 
 #### Key Dates
    - August 2023: Development (phase 1B)
    - September 2023: Released link and cerner updates
+
+#### Screenshots
+   ### Before
+      ![Health care cerner alert figure 39](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/804516d1-37b2-48ea-a81b-19192c9e0f29)
+
+   ### After
+      ![Screenshot 2023-10-31 at 1 13 05 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/c20d9495-67ef-42af-ba57-a3047c233427)
+
       
  </details>  
 
@@ -88,8 +94,16 @@ TBD how best to capture and display this as a KPI but we'll need to create a fun
 - October 2023: Kickoff & Design
 
 #### Screenshots
-   ### Before
+   ### Before (Cerner handling)
+      ![Screenshot 2023-10-31 at 1 13 05 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/f69667f8-806b-4ae0-b048-4ebdef57d1d6)
 
       
-   ### After
+   ### After (Cerner handling)
+      TK
+
+   ### Before (MHV navigation)
+      ![Screenshot 2023-10-31 at 1 20 54 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/803c62a5-80f7-4213-a074-239de112e4d1)
+
+
+   ### After (MHV navigation)
       TK
