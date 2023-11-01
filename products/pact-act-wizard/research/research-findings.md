@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), PACT Act Wizard, Sitewide Public Websites**
 
-Date: 10/31/2023
+Date: 11/1/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
@@ -104,7 +104,7 @@ Any participants whose responses didn't yield the *You may be eligible* results 
 
 1. Veterans (and others) will understand what "presumptive conditions" mean after reading the plain language description in the results flow. 
 
-    - UNKNOWN: All 9 participants in this study already understood what *presumptive conditions* were *before* they read the description in the wizard.
+    - UNKNOWN: All 9 participants in this study already understood what *presumptive conditions* were *before* they read the description in the wizard. These were all Veterans, and we don't know whether non-Veterans would already know what *presumptive conditions* are or be able to understand from the description in the results page.
 
 
 ## Key Findings
@@ -112,7 +112,7 @@ Any participants whose responses didn't yield the *You may be eligible* results 
 1. All 9 participants had an overall positive experience using the PACT Act Wizard.
 1. Some of the wizard questions were confusing to some participants.
 1. Some participants had interaction challenges on the R1 results pages.
-1. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect*.
+1. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which may be *incorrect*.
 1. Participants shared their feedback and questions about how and when to apply for PACT Act benefits.
 
 
@@ -217,7 +217,7 @@ Based on their responses to the questions, 6 of 9 participants were taken to the
 
 #### User feedback on the R1-1 "You may be eligible" results page
 
-**All 9 participants understood *presumptive conditions***, but most said that they **knew this before the research session**. One commented that the explanation on the page was easy to understand, but a more useful assessment would be to show the description to people who weren't already familiar with presumptive conditions.
+**All 9 participants understood *presumptive conditions***, but most said that they **knew this before the research session**. One commented that the explanation on the page was easy to understand, but a more useful assessment would be to show the description to people who weren't already familiar with presumptive conditions. Note that these participants were all Veterans, and so we don't know whether non-Veterans would understand presumptive conditions.
 
 > *"I honestly think the VA or whoever's doing this for the VA has made it more clear...it's making it easier" (p2).*
 
@@ -254,7 +254,7 @@ I've heard horror stories, people trying to get claims and the time investment t
 1. Consider where to share this finding *(Laura Flannery? other accessibility specialists?*): One participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[Laura hasn't heard this feedback before, but this is a new approach that hasn't been tested before.]*
 8. *(#8 in the Recommendations section)* Consider how we might better support people who already get VA disability compensation and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
 
-### 4. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect*
+### 4. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which may be *incorrect*
 
 Below is a list of reasons why **some participants said that they were NOT eligible** for benefits under the PACT Act:
 1. **Wasn't in one of the locations at the right time** (3 participants) for one of the reasons listed below.
@@ -268,7 +268,7 @@ Below is a list of reasons why **some participants said that they were NOT eligi
 
 A third participant who's 100% disabled said that they **planned to file for PACT Act benefits in order to add more service-related disabilities to their record**. They knew that they couldn't get any more disability money, but they wanted the potential for extra DIC (Dependency and Indemnity Compensation) death benefits to their next of kin if they died of a service-related disability.
 
-Another participant heard that you **could be eligible for PACT Act benefits by having served in a specific region--even if you don't have any medical conditions--because of presumed exposure.** One of the pilot participants also thought this might be the case because of the "presumption of exposure" content on the *You may be eligible* results page. This is actually incorrect because you must have a disability to get compensation. Just being in a specific location and getting exposed to toxic substances isn't enough.
+Another participant heard that you **could be eligible for PACT Act benefits by having served in a specific region--even if you don't have any medical conditions--because of presumed exposure.** One of the pilot participants also thought this might be the case because of the "presumption of exposure" content on the *You may be eligible* results page. This may be incorrect because you must have a disability to get compensation. Just being in a specific location and getting exposed to toxic substances isn't enough.
 
 > *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
 
@@ -373,6 +373,7 @@ A different participant said that it's frustrating that he **doesn't know  wheth
 1. We should have built a second version of the *You may be eligible* results page in order to show presumptive conditions for Vietnam/Agent Orange because that would have been easier for the Vietnam-era participants to relate to.
 1. The single date in the R1-1 results page *(on or after August 2, 1990)* wasn't mentioned by most participants. Perhaps it would have been more natural to have had a conversation around dates if the sample results page had a date range instead of a single date as some of the content does *(e.g., between January 9, 1962, and May 7, 1975).*
 1. Asking participants to rate their confidence about knowing what to do next was problematic when the results page they were looking at was not relevant to their specific situation.
+1. We could have asked the two participants who were family members of a Veteran to go through the PACT Act Wizard on behalf of their Veteran family member to see if they knew enough about their family member's military service to answer the questions. 
 
 ## All Recommendations
 Preliminary ideas for recommendations are listed below as input to discussion with the team and stakeholders.
@@ -415,7 +416,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 
 1. When **additional questions about medical conditions** get added to this wizard, it would be helpful to usability test that content before launch.
 1. Consider testing with **people who don't know what presumptive conditions are** in order to evaluate the explanation provided in the wizard.
-1. We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so that we can find out if they know enough about their family member's service to be able to answer the questions in this wizard.
+1. We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so we can find out if they know enough about their family member's service to be able to answer the questions in this wizard. In this research, the two Veteran family members who were also Veterans interacted with the PACT Act Wizard for their own military service, not for their Veteran family member. If we're unable to recruit enough non-Veterans, asking Veterans who have a Veteran family member to use the PACT Act Wizard for their family member's service would be helpful. 
 1. We would like to get feedback from more **Veterans using smartphones**. In this study, we had several such people recruited but only one showed up for the sessions. 
 1. We would like to get feedback from **Veterans who use screen readers**, which we were unable to do this time because our prototype wasn't accessible.
 
