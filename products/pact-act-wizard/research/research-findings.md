@@ -380,6 +380,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 
 ### For content in the PACT Act wizard
 1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options. Some participants were confused about whether any of the 3 options applied, the similar wording of the options starting with "1990" and "1989", whether toxic exposures in 1990 were at all similar to those 12 years later, and whether "served" meant the year they started basic training or their first assignment. 
+1. Consider whether to provide information about C-123 planes since some in the research sessions said they didn't know what they were.
 1. Consider how might we clarify the meaning of "serve" so Veterans will better understand how to answer (i.e., does being on a ship nearby or in the airspace above count as having served in the location).
 1. Consider how we might clarify the meaning of "near" in the DMZ option so Veterans will better understand how to answer.
 1. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to better understand how to answer.
