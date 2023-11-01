@@ -33,7 +33,7 @@ jobs:
       
       - name: testing
         run: |
-          echo ${{ steps.get_team_info.outputs.titleInfo }}
+          echo "${{ steps.get_team_info.outputs.titleInfo }}""
 
       # - name: Create issue using REST API
       #   run: |
