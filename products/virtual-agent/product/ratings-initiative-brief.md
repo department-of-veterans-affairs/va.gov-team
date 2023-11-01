@@ -18,7 +18,7 @@ With the ability to return disability ratings, the VA Chatbot is better able to 
 ## Problem 
 > What is the problem and who is affected? 
 
-Without enabling the VA chatbot to respond to disability rating inquiries, we are leaving veterans without answers to one of the most pertinent aspects of the claims process. Veterans track their ratings to maintain a complete picture of their disability profile. The chatbot should have the same capabilities in this area as other tools on the VA platform. The chatbot responding to some claims-related topics and not others ultimately harms user's confidence in the bot over the long term.  
+Without enabling the VA chatbot to respond to disability rating inquiries, we are leaving veterans without answers to one of the most pertinent aspects of the claims process. Veterans track their ratings to maintain a complete picture of their disability profile. The chatbot should have the same capabilities in this area as other tools on the VA platform. Responding to some claims-related topics and not others ultimately harms user's confidence in the bot over the long term.  
 
 > What evidence do we have of the problem?
 
