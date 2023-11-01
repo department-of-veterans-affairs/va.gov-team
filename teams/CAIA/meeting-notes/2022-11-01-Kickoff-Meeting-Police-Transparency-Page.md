@@ -1,17 +1,15 @@
-# CAIA Kickoff: [Team Name Goes Here]
+# CAIA Kickoff: VA Police Transparency Page - Sitewide Facilties
 ## Meeting Details
-- **Date**: [Day], [Month] [Date], [Year]
-- **Time**: [00:00] – [00:00] [a.m./p.m.] [Timezone]
-- [Zoom Link](x)
-- [Google Doc Version](x) (Access Required)
-- [Microsoft Word Version](x)
+- **Date**: Wednesday, Nov. 1, 2023 
+- **Time**: 12:30 p.m. Eastern
+- [Zoom Link](https://coformaco.zoom.us/j/85176281046?pwd=WWxhYXQ4L05zTGFLMFRnZ3JrMmczdz09)
 
 ## Starting the CAIA Process
 ### Process Initiated
-- [ ] Intake Request - this forms the basis of our partnerships with you and becomes an Epic.
+- [x] [Intake Request #67055](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67055) - this forms the basis of our partnerships with you and becomes an Epic.
 - [ ] We will spin off our tickets within that Epic ticket:
-    - [ ] Content
-    - [ ] IA
+    - [ ] Content **Requested**
+    - [ ] IA **Requested**
     - [ ] Accessibility
 
 ## Meeting Action Items 🎬
@@ -23,33 +21,39 @@
 
 
 ## Resources 🔗
-- **[xx/xx/20xx] Opened Collaboration Cycle Ticket: **
-- [ ] Collaboration Cycle Ticket [#NumberLinked] - if applicable
+- **9/6/2023: Opened Collaboration Cycle Ticket: **
+- [x] Collaboration Cycle Ticket [#65082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65082) - if applicable
     - [ ] Design Intent ticket (TBD - as of Kickoff Meeting)
     - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
 
 ## CAIA Tickets 🎟️
-- [ ] [Epic] Name of Epic/Intake Ticket 
+- [ ] [Sitewide CAIA intake request: VA Police transparency page placement within VAMCs from Sitewide Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67055)
     - [ ] Accessibility Ticket
-    - [ ] IA Ticket
-    - [ ] Content Ticket
+    - [ ] IA Ticket **Requesting in Intake**
+    - [ ] Content Ticket  **Requesting in Intake**
 
 ## Assets
-- [Product outline](x)
-- [User flows](x)
-- [Wireframes](x)
-- [Prototype](x)
-- [Other Items](x)
+- **Product outline**: [VAMC Medical Centers product brief on Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-product-brief.md)
+- **User flows**: [Sketch file](https://sketch.com/s/b48c905c-7c7f-46fb-9ae5-6020ff0e5174)
+- **Prototype or mockups**:  [Sketch file](https://sketch.com/s/b48c905c-7c7f-46fb-9ae5-6020ff0e5174)
+- **If this is in Sketch, which version or specific page should we focus on?** Design Intent
+- **Content source of truth**: Police activity vendor Axon
+- **Research plan:**
+- **Any epics/issues that may be helpful**:
+  - [Initiative brief on Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/police/readme.md#initiative-brief-va-police-transparency-wip)
+  - [Sitewide Facilities epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14327)
 
 
 ## Meet the Teams
 ### Kickoff Team Partner
-- Team member 1
-- Team member 2
-- Team member 3
-- Team member 4
-- Team member 5
+- Team name: Sitewide Facilities
+- OCTO-DE product owner: Michelle Middaugh
+- Product manager: Jane Xiong
+- Designer: Jordan Wood
+- Accessibility specialist: Laura Flannery
+- Content writer: Dave Picket
+- Slack channel: #sitewide-facilities
 
 ### CAIA Teams
 #### CAIA
