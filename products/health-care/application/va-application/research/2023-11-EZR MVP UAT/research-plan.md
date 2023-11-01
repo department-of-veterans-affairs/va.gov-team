@@ -125,7 +125,7 @@ For recruiting 2 users with cognitive disabilityes:
 November 2023
 
 * Kickoff call requested
-* Preferred date/time: Novmeber 2, 2023 2pm ET / 11am PT 
+* Preferred date/time: November 6, 2023 2pm ET / 11am PT 
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
@@ -164,9 +164,9 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Moderators
 - Note-takers: Perigean, 10-10 Team
-- Participant(s) for pilot test: TBD
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Observers: TBD
+- Participant(s) for pilot test: Steven Straily
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	NA
+- Observers: Kristen McConnell (kristen.mcconnell@va.gov)
 
   ## Approvals
-  - 
+  - Kristen McConnell (kristen.mcconnell@va.gov) on November 1, 2023
