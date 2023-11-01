@@ -416,8 +416,8 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 ## Further research needed
 
 1. When **additional questions about medical conditions** get added to this wizard, it would be helpful to usability test that content before launch.
-1. Consider testing with **people who don't know what presumptive conditions are** in order to evaluate the explanation provided in the wizard.
-1. We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so we can find out if they know enough about their family member's service to be able to answer the questions in this wizard. In this research, the two Veteran family members who were also Veterans interacted with the PACT Act Wizard for their own military service, not for their Veteran family member. If we're unable to recruit enough non-Veterans, asking Veterans who have a Veteran family member to use the PACT Act Wizard for their family member's service would be helpful. 
+1. Consider testing with **people who don't know what presumptive conditions are**, perhaps family members of Veterans who aren't Veterans, in order to evaluate the explanation provided in the wizard.
+1. We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so we can find out if they know enough about their family member's service to be able to answer the questions in this wizard. In this research, the two Veteran family members who were also Veterans interacted with the PACT Act Wizard for their own military service, not for their Veteran family member. If we're unable to recruit enough non-Veterans, asking Veterans who have a Veteran family member to try the PACT Act Wizard for their family member's service would be helpful. 
 1. We would like to get feedback from more **Veterans using smartphones**. In this study, we had several such people recruited but only one showed up for the sessions. 
 1. We would like to get feedback from **Veterans who use screen readers**, which we were unable to do this time because our prototype wasn't accessible.
 
