@@ -127,11 +127,12 @@ Provide VA Chatbot users with personalized experience in regards to their presri
 ## Launch Planning
 ### Collaboration Cycle
 
-- Kickoff ticket: 
+- Kickoff ticket: [Link](https://app.zenhub.com/workspaces/va-virtual-agent-6011826e423fcf000eb231cb/issues/gh/department-of-veterans-affairs/va-virtual-agent/1154)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-1. 
+1. Sep-Oct: Discovery Research / Design (Mock-ups, conversation flows)
+2. Oct-Nov: Technical discovery/spike, usability testing
 
 <!--
 * WIP: [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
