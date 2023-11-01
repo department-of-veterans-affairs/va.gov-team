@@ -5,7 +5,7 @@
 ## Overview
 Providing the 10-10EZR health benefits update form online experience allows the Veteran to quickly and easily submit updates to their personal information for the purpose of increasing or maintaining their health benefits, without having to call VA, mail in a paper form or visit a facility to provide the updated information.
 
-**MVP**: Build a pre-filled 10-10EZR form online so that a Veteran can review and edit the pre-filled data, submitting successfully.
+[**MVP** Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/MVP%2010-10EZR%20Standalone%20form%20-%20Initiative%20Brief.md): Build a pre-filled 10-10EZR form online so that a Veteran can review and edit the pre-filled data, submitting successfully.
 Target Delivery: Late November 2023
 
 ## Problem Statement
@@ -98,7 +98,7 @@ In future iterations, we plan to review for alternative locations and other syst
 - [EZR online epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
 - Preceding page URL to the new 10-10EZR landing page
      - https://staging.va.gov/health-care/update-health-information/
-- [Original EZR Update Capabilities Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/ReadMe.md) 
+- [Original EZR Update Capabilities Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/MVP%2010-10EZR%20Standalone%20form%20-%20Initiative%20Brief.md) 
 --- 
 
 ## Launch Strategy
