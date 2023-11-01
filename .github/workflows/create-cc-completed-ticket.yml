@@ -22,7 +22,7 @@ jobs:
 
       - name: Install node-fetch
         shell: bash
-        run: npm i node-fetch
+        run: npm i node-fetch@2
 
       - name: Run script
         id: get_team_info
