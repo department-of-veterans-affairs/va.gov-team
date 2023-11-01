@@ -23,6 +23,10 @@ function parse(issue) {
   return { teamName, productName, featureName };
 }
 
+function removeParens(title) {
+  return title.replace(/\(/g, '[').replace(/\)/g, ']');
+}
+
 async function getTeamInfo() {
   try {
     const response = await fetch(ENDPOINT);
@@ -32,8 +36,8 @@ async function getTeamInfo() {
     if (productName !== featureName && featureName) {
       titleInfo = `${titleInfo}/${featureName}`
     }
-    titleInfo = '[aa(aa)/bbbb-ccc]';
-    fs.writeFileSync("issue_title.txt", titleInfo)
+
+    fs.writeFileSync("issue_title.txt", removeParens(titleInfo));
   } catch (error) {
     process.exitCode = 1;
   }
