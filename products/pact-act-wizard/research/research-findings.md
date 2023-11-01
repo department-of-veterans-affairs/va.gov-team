@@ -315,8 +315,8 @@ One participant **would have tried to convince his dad to apply** for benefits u
      1. Should I include conditions that aren't presumptive? 
      1. Might the list of presumptive conditions change in the future? 
      1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying?
-     1. How to handle CRSC and PACT benefits together
-1. *(#124 in the Recommendations section)* Consider if/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
+     1. How to handle CRSC and PACT benefits together?
+1. *(#12 in the Recommendations section)* Consider if/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
  
 
 ## Additional Insights
@@ -392,7 +392,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
      1. Should I include conditions that aren't presumptive? 
      1. Might the list of presumptive conditions change in the future? 
      1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying?
-     1. How to handle CRSC and PACT benefits together
+     1. How to handle CRSC and PACT benefits together?
 
 ### For the wizard design and functionality
 9. Consider where to share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
