@@ -55,14 +55,13 @@ Let’s start with a few warm-up questions.
 
 - Are you enrolled in health care through the VA?
 - How long have you been enrolled in health care?
+
 - Do you have a disability rating? If so, are you comfortable sharing it?
 
-## First Task: [Notifications and Awareness] - 5 minutes
+## First Task: [Awareness] - 2 minutes
 
 - Have you had to make updates to your personal information for health care purposes? Could you describe the process you went through?
-- Imagine you've been notified to update your financial information in order to maintain your co-pay and health care benefits. How might you go about doing that?
 - Describe your preferred method of notification to update your health care information.
-- How would you expect to update your information online? What specific steps would you take?
 
 ### Things to watch for:
 
@@ -76,7 +75,7 @@ Let’s start with a few warm-up questions.
 
 - Could you please sign into your VA.gov account the typical way you would do so?
 - [Share link to https://VA.gov/my-health/update-benefits-information-form-10-10ezr in Zoom chat]
-- You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
+- You arrive at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
 
 
 **Participant questions** 
@@ -108,6 +107,17 @@ Let’s start with a few warm-up questions.
 - [Does the participant notice that the pre-filled information can be edited? ]
 - [Does the participant notice that the household financial information is not pre-filled? ]
 - [Is there any struggle with the household and insurance's multiple-responses pattern?] 
+
+
+## Fifth Task: [The Confirmation Page] - 5 minutes
+
+- [Moderator bring up Confirmation page in CodePen]
+- We don't want you to submit this form unless you want to update for real, but I would like to share a new link with you in the chat for you to open instead of submitting.
+- This link goes to a prototype of what the end screen looks like if you would have submitted the form.
+- Can you please talk aloud and tell me your thoughts on this page?
+
+
+
 
 ## Post-Task Interview - 2 minutes
 
