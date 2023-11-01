@@ -4,8 +4,6 @@
 ## Outcome Summary - 
 
 Ability for a Veteran to update some of their information online – specifically contact, demographic, financial, dependent, and health insurance.
-- Emergency Contact/Next of Kin will be in V2
-- Prefill of Dependent info will be in V2
 
 
 **Related/Associated product(s)**
