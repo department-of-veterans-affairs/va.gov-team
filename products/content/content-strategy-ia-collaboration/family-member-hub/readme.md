@@ -9,11 +9,11 @@ This folder contains informaton around the creation, testing, and evolution of t
 ## Background
 
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/family-member-hub/initiative-brief.md)
-- [Family member benefit program enrollments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/family-member-hub/program-priorities.md)
 
-## Discovery and research 
+## Discovery 
 
 - [Family member content audit](https://dvagov-my.sharepoint.com/:x:/g/personal/michelle_northuis_va_gov/EeZRzAwnmuZMgL7yQR07bG8BKUim7ari4Tpg5RdGGhY2RA?email=KRISTIN.OUELLETTEMUSKAT%40va.gov&e=nHZTyD)
+- [Family member benefit program enrollments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/family-member-hub/program-priorities.md)
 - External resources
   - [Survivors journey map](https://www.va.gov/SURVIVORS/docs/survivor_jm_survivorfacing_v92.pdf)
   - [Caregiver journey map](https://caregiverjourney.elizabethdolefoundation.org/about/)
