@@ -118,6 +118,8 @@ We should use the DD214 and ILER as starting points for this project, but we sho
 
 </details>
 
+Our MVP expansion of the military information available on VA.gov will focus on the following:
+
 #### Integrate the following data into VA.gov
 
 The MVP datapoints VA leadership is interested in adding to the VA.gov profile include the following:
