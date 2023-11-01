@@ -183,9 +183,9 @@ For screen reader users, we will schedule a total of 12 Veterans for an expected
 
 **Criteria for sighted participants (12)**
 
-- At least 6 participants use screen magnification technology.
+- At least 4 participants use screen magnification technology.
 - At least 8 participants must regularly use MHV
-- At least 6 participants with cognitive disabilities – mild to severe (see screener)
+- At least 8 participants with cognitive disabilities – mild to severe (see screener)
 - At least 6 participants who are mobile users
 - At least 6 participants who are desktop users.
 
@@ -238,7 +238,7 @@ For screen reader users, we will schedule a total of 12 Veterans for an expected
 4. Have you been diagnosed with (formally or informally) a cognitive disability? This may include any intellectual disability, ADHD, Autism Spectrum Disorder, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
 
     1. _Yes (Recruit)_
-    2. _No (Recruit \<6)_
+    2. _No (Recruit \<4)_
 
 5. Based on your response to the previous question, how would you rate the severity of your cognitive disability? (Recruit all answers)
 
