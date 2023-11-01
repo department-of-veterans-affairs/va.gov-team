@@ -2,6 +2,7 @@ const fs = require("fs");
 const fetch = require('node-fetch');
 
 const {
+  GITHUB_TOKEN,
   GITHUB_REPOSITORY,
 } = process.env;
 
@@ -36,6 +37,20 @@ async function getTeamInfo() {
     if (productName !== featureName && featureName) {
       titleInfo = `${titleInfo}/${featureName}`
     }
+
+    const response2 = await fetch(ENDPOINT, {
+      method: 'post',
+      body: {
+        title: titleInfo,
+        body: 'this is a test'
+      },
+      headers: {
+        'authorization': `Bearer ${GITHUB_TOKEN}`,
+        'Content-Type': 'application/json'
+      }
+    });
+    const r2 = await response2.json();
+    console.log('r2 is....', r2);
 
     fs.writeFileSync("issue_title.txt", removeParens(titleInfo));
   } catch (error) {
