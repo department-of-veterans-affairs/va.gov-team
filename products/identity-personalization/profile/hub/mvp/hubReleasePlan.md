@@ -1,6 +1,6 @@
 # Hub MVP Release Plan
 
-**Updated:** 10/24/2023 draft
+**Updated:** 11/1/2023 draft
 
 ## Table of Contents
 
@@ -18,9 +18,9 @@
 **<details><summary>Related Toggles</summary>**
 <p>
 
-- `add the toggle name`
-  - addthe toggle description
-  - 
+- `profile_use_hub_page`
+  - Use a hub style page as the root page for the profile application
+
 </p>
 </details> 
 
