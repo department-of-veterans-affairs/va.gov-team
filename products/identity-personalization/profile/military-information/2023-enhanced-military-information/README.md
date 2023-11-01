@@ -24,7 +24,7 @@
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
-- [Product Goals](#product-goals)
+- [Product Goals](#product/initiative-goals)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
@@ -161,7 +161,20 @@ VA leadership is not clear on how exactly to make this possible and they’re st
 - As a Veteran, I want to see what information VA has about my military history, and to be able to correct it if it is inaccurate.
 - As a Veteran, I want to know if I served in an area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
 
-## Product Goals 
+## Product/Initiative Goals 
+
+If we are thinking of the entire expanded military effort, the product goal is:
+
+- To meet the congressional mandates around elevating toxic exposure data in a way that is holistic and matches veterans' mental models.
+
+If we are thinking of this MVP portion of this effort, the product goal is:
+
+- To holistically support the addition of toxic exposure fields into the 526.  
+
+For the MVP, our work does this by:
+
+- Making it easier for a 526 developer to incorporate these fields into prefill because we will have completed the original integration of this data into `vets-api`.
+- Giving this data a permanent place on [VA.gov](http://va.gov/), so veterans can easily review this information.
 
 
 
