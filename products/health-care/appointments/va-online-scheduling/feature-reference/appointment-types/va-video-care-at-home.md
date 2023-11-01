@@ -7,20 +7,18 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 ## User stories
 
 - As a Veteran, I want to join my telehealth appointments.
-- As a Veteran, I want to manage my telehealth appointments.
+- See [user stories for booked appointments](./all-appointment-types.md#booked-appointment-user-stories).
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- User can review data to understand their appointment (see table below).
-- User can complete tasks related to their appointment (see table below).
-- [Requirements for canceling appointments](../tools/tool-cancel.md#requirements) are followed.
-- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
-- [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
+- Follows [requirements for canceling appointments](../tools/tool-cancel.md#requirements).
+- Follows [requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements).
+- Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
 
-- Video Visit appointments must display a link to join the appointment  
+- Video Visit at home appointments must display a link to join the appointment  
   - The video visit link must display as active for 30 minutes prior to the appointment and for 4 hours after.
   - Video Visit appointments (`kind = telehealth`) without telehealth links must display additional instructions to the veteran regarding the missing links
     
@@ -28,6 +26,8 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
   - `Message sent in MyHealtheVet`
   - `Resources Mailed to Patient`
   - `Signup for My HealtheVet  Message`
+
+  - User can review data and complete actions noted in the following table:
 
 | Data and actions                                           | Upcoming | Past | Canceled |
 | ---------------------------------------------------------- | -------- | ---- | -------- |
@@ -46,11 +46,19 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 
 ## User interface design
 
-[User flow](Add link) 
+**User flows**
+- [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
+- [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
 
-[Page template](Add link)
+**UI design specs**
+- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
 
-[Page content](Add link)
+**Page content**
+- [Upcoming](../../content/appointment-details.md#va-vvc-at-home-appointment---upcoming)
+- [Past](../../content/appointment-details.md#va-vvc-at-home-appointment---past)
+- [Canceled](../../content/appointment-details.md#va-vvc-at-home-appointment---canceled)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->

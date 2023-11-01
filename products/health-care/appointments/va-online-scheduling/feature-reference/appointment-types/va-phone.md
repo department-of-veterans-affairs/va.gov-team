@@ -7,19 +7,17 @@ A scheduled telehealth appointment that the Veteran joins over the phone.
 ## User stories
 
 - As a Veteran, I want to join my telehealth appointments.
-- As a Veteran, I want to manage my telehealth appointments.
+- See [user stories for booked appointments](./all-appointment-types.md#booked-appointment-user-stories).
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- User can review data to understand their appointment (see table below).
-- User can complete tasks related to their appointment (see table below).
-- [Requirements for canceling appointments](../tools/tool-cancel.md#requirements) are followed.
-- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
-- [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
-
+- Follows [requirements for canceling appointments](../tools/tool-cancel.md#requirements).
+- Follows [requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements).
+- Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
+- User can review data and complete actions noted in the following table:
 | Data and actions                                           | Upcoming | Past | Canceled |
 | ---------------------------------------------------------- | -------- | ---- | -------- |
 | Appointment Date and Time                                  | ✅        | ✅    | ✅        |
@@ -40,17 +38,19 @@ A scheduled telehealth appointment that the Veteran joins over the phone.
 
 ## User interface design
 
-[User flow](Add link) 
+**User flows**
+- [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
+- [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
 
-Page template:
-- [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26648&mode=design&t=bs8m3MnTZ56hExUO-4)
-- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26681&mode=design&t=bs8m3MnTZ56hExUO-4)
-- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26711&mode=design&t=bs8m3MnTZ56hExUO-4)
+**UI design specs**
+- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
 
-Page content:
-- [Upcoming](../../content/appointment-details.md#va-vvc-gfe-appointment---upcoming)
-- [Past](../../content/appointment-details.md#va-vvc-gfe-appointment---past)
-- [Canceled](../../content/appointment-details.md#va-vvc-gfe-appointment---canceled)
+**Page content**
+- [Upcoming](../../content/appointment-details.md#va-phone-appointment---upcoming)
+- [Past](../../content/appointment-details.md#va-phone-appointment---past)
+- [Canceled](../../content/appointment-details.md#va-phone-appointment---canceled)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->

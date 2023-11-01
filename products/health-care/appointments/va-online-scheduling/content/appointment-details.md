@@ -957,7 +957,7 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 ---
 
-### VA VVC VA Appointment - Past
+### VA VVC at VA Appointment - Past
 
 **NAVIGATION**
 
@@ -1007,7 +1007,7 @@ You'll be meeting with
 
 ---
 
-### VA VVC VA Appointment - Canceled
+### VA VVC at VA Appointment - Canceled
 
 **NAVIGATION**
 

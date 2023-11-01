@@ -1,24 +1,26 @@
-# VA Video Care at ATLAS location appointment
+# VA Video Care at an ATLAS location appointment
 
 ## Overview
 
-A scheduled telehealth appointment that the Veteran joins from an ATLAS location.
+A scheduled telehealth appointment that the Veteran joins from an ATLAS (Accessing Telehealth through Local Area Stations) location.
+
+See [Connected Care: VA and ATLAS](https://connectedcare.va.gov/partners/atlas)
 
 ## User stories
 
 - As a Veteran, I want to join my telehealth appointments.
-- As a Veteran, I want to manage my telehealth appointments.
+- See [user stories for booked appointments](./all-appointment-types.md#booked-appointment-user-stories).
+
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- User can review data to understand their appointment (see table below).
-- User can complete tasks related to their appointment (see table below).
-- [Requirements for canceling appointments](../tools/tool-cancel.md#requirements) are followed.
-- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
-- [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
+- Follows [requirements for canceling appointments](../tools/tool-cancel.md#requirements).
+- Follows [requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements).
+- Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
+- User can review data and complete actions noted in the following table:
 
 | Data and actions                                           | Upcoming | Past | Canceled |
 | ---------------------------------------------------------- | -------- | ---- | -------- |
@@ -39,17 +41,20 @@ A scheduled telehealth appointment that the Veteran joins from an ATLAS location
 
 ## User interface design
 
-[User flow](Add link) 
+**User flows**
+- [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
+- [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
 
-Page template:
-- [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26648&mode=design&t=bs8m3MnTZ56hExUO-4)
-- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26681&mode=design&t=bs8m3MnTZ56hExUO-4)
-- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26711&mode=design&t=bs8m3MnTZ56hExUO-4)
 
-Page content:
-- [Upcoming](../../content/appointment-details.md#va-vvc-gfe-appointment---upcoming)
-- [Past](../../content/appointment-details.md#va-vvc-gfe-appointment---past)
-- [Canceled](../../content/appointment-details.md#va-vvc-gfe-appointment---canceled)
+**UI design specs**
+- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+
+**Page content**
+- [Upcoming](../../content/appointment-details.md#va-vvc-atlas-appointment---upcoming)
+- [Past](../../content/appointment-details.md#va-vvc-atlas-appointment---past)
+- [Canceled](../../content/appointment-details.md#va-vvc-atlas-appointment---canceled)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->

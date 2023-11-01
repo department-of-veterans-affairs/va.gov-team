@@ -6,17 +6,16 @@ A scheduled in-person appointment at a VA facility to receive a COVID-19 vaccina
 
 ## User stories
 
-- As a Veteran, I want to manage my scheduled VA COVID-19 vaccination appointments.
+See [user stories for booked appointments](./all-appointment-types.md#booked-appointment-user-stories).
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- User can review data to understand their appointment (see table below).
-- User can complete tasks related to their appointment (see table below).
-- [Requirements for canceled appointments](../tools/tool-cancel.md#requirements) are followed.
-- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
-- [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
+- Follows [requirements for canceling appointments](../tools/tool-cancel.md#requirements).
+- Follows [requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements).
+- Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
+- User can review data and complete actions noted in the following table:
 
 | Data and actions                                           | Confirmed | Upcoming | Past | Canceled |
 | ---------------------------------------------------------- | --------- | -------- | ---- | -------- |
@@ -35,13 +34,23 @@ A scheduled in-person appointment at a VA facility to receive a COVID-19 vaccina
 | [Cancel Action](../tools/tool-cancel.md)                   | ?         | ?        |      |          |
 | Call to Reschedule Alert                                   | ?         | ?        |      |          |
 
-## User interface design
+## Specifications
 
-[User flow](Add link) 
+**User flows**
+- [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
+- [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
 
-[Page template](Add link)
+**UI design specs**
+- [Confirmed](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
 
-[Page content](Add link)
+**Page content**
+- [Confirmed](../../content/appointment-details.md#va-in-person-vaccine-appointment---confirmed)
+- [Upcoming](../../content/appointment-details.md#va-in-person-vaccine-appointment)
+- [Past](../../content/appointment-details.md#va-in-person-vaccine-appointment---past)
+- [Canceled](../../content/appointment-details.md#va-in-person-vaccine-appointment---canceled)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
