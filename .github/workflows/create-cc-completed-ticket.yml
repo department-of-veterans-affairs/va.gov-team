@@ -37,7 +37,7 @@ jobs:
 
       - name: testing2
         run: |
-          echo ${{env.TITLE}}
+          echo ${{ env.TITLE }}
 
       # - name: Create issue using REST API
       #   run: |
