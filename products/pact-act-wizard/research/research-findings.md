@@ -184,22 +184,20 @@ The same participant was also unsure about **what is considered to be "near" the
 
 This participant also asked **if there is a minimum duration for the time that you must have served there**, and if it must be continuous service for a period of time. 
 
-#### RECOMMENDATIONS:
-3. Consider how might we clarify the meaning of "serve" so Veterans will better understand how to answer (i.e., does being on a ship nearby or in the airspace above count as having served in the location).
-1. Consider how we might clarify the meaning of "near" in the DMZ option so Veterans will better understand how to answer.
+#### RECOMMENDATION:
+3. Consider how we might continue to learn about any confusion around the meanings of “serve” and “near the DMZ” (from 1 of 7 research participants) and if content adjustments for clarity are needed.
 
-#### One of 1 participant (100%) was unclear about what "neutral zone" means
+#### Two participants were unclear about locations in various questions and wanted to see a map
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
 
-One participant asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations with the FOB (Forward Operating Base) names on it for the places she lived, transported supplies to, had a day pass to, etc. Without this information, she answered "not sure" to the question.
+The only participant who saw the question above (so 100% of those who saw it) asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations with the FOB (Forward Operating Base) names on it for the places she lived, transported supplies to, had a day pass to, etc. Without this information, she answered "not sure" to the question.
 
 > *"I know I was in Iraq, but I don't know where in Iraq [they are referring to]...I know some of the FOBs where I was. I didn't know the cities I was close to...I really didn't pay attention to knowing exactly where I was, besides the fact that I was in Iraq...I know they said one time I was in the green zone" (p8).*
 
 Another participant also wanted to see a map that showed the geographical areas of the locations listed in the question.
 
-#### RECOMMENDATIONS: 
-5. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to better understand how to answer.
-1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, which 2 participants requested.
+#### RECOMMENDATION: 
+5. Consider how we might continue to learn about any confusion or ambiguity around locations in questions and if adjustments for clarity are needed.
 
 ### 3. Some participants had interaction challenges on the *You may be eligible* results pages 
 
@@ -268,12 +266,12 @@ Below is a list of reasons why **some participants said that they were NOT eligi
 
 A third participant who's 100% disabled said that they **planned to file for PACT Act benefits in order to add more service-related disabilities to their record**. They knew that they couldn't get any more disability money, but they wanted the potential for extra DIC (Dependency and Indemnity Compensation) death benefits to their next of kin if they died of a service-related disability.
 
-Another participant heard that you **could be eligible for PACT Act benefits by having served in a specific region--even if you don't have any medical conditions--because of presumed exposure.** One of the pilot participants also thought this might be the case because of the "presumption of exposure" content on the *You may be eligible* results page. This may be incorrect because you must have a disability to get compensation. Just being in a specific location and getting exposed to toxic substances isn't enough.
+Another participant heard that you **could be eligible for PACT Act benefits by having served in a specific region--even if you don't have any medical conditions--because of presumed exposure.** One of the pilot participants also thought this might be the case because of the "presumption of exposure" content on the *You may be eligible* results page. 
 
 > *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
 
 #### RECOMMENDATIONS: 
-9. Consider how we might address participants' questions and concerns about eligibility for benefits under the PACT Act:  
+9. Consider if and how we might address participants' questions and concerns about eligibility for benefits under the PACT Act, including sharing our findings with communications, outreach, and burn pit registry colleagues:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
      1. Whether you must have a disability in order to get compensation *vs.* were just in a specific location
      1. Whether the burn pit registry notifies you about PACT Act eligibility
@@ -290,11 +288,11 @@ One participant was concerned about applying for PACT Act benefits because of a 
 
 > *"I have been told by one of my primary care doctors...diagnosed with fibromyalgia, but I don't see it in my problem list...So it might be somewhere in my medical records that he said I had it...If they didn't actually comb through the records and look for it...you can't just search by typing a word. I may get denied saying that there's no medical record that this is something you have" (p8).*
 
-A participant said that they would **encourage others to apply even if your condition isn't on the list** because it might be added in the future. The VA may look at trends of medical conditions reported by Veterans and periodically revise the rules and/or presumptive conditions, as it did with the PACT Act.
+A participant said that they would **encourage others to apply even if your condition isn't on the list** because it might be added in the future. 
 
 > *"We look at this right now and we compare it to our uncles who were in Vietnam who did not get the benefits until after they died. 20-30 years later, now the families did [get benefits]" (p1).*
 
-One participant **wondered if the PACT Act benefits are any different from regular VA disability compensation**. The answer is "no"; the PACT Act expands eligibility for existing benefits.
+One participant **wondered if the PACT Act benefits are any different from regular VA disability compensation**. 
 
 One participant was **concerned about filing a Supplemental Claim because they might lose their current disability rating and compensation** because the VA looks at everything again. One pilot participant also had this same concern.
 
@@ -316,7 +314,7 @@ One participant **would have tried to convince his dad to apply** for benefits u
      1. Are PACT Act benefits different from regular disability compensation?   
      1. Should I include conditions that aren't presumptive? 
      1. Might the list of presumptive conditions change in the future? 
-     1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying (i.e., until you've had your disability rating for at least 10 years, if that's accurate information and reasonable advice)?
+     1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying?
      1. How to handle CRSC and PACT benefits together
 14. *(#14 in the Recommendations section)* Consider if/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
  
@@ -381,13 +379,11 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 ### For content in the PACT Act wizard
 1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options. Some participants were confused about whether any of the 3 options applied, the similar wording of the options starting with "1990" and "1989", whether toxic exposures in 1990 were at all similar to those 12 years later, and whether "served" meant the year they started basic training or their first assignment. 
 1. Consider whether to provide information about C-123 planes since some in the research sessions said they didn't know what they were.
-1. Consider how might we clarify the meaning of "serve" so Veterans will better understand how to answer (i.e., does being on a ship nearby or in the airspace above count as having served in the location).
-1. Consider how we might clarify the meaning of "near" in the DMZ option so Veterans will better understand how to answer.
-1. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to better understand how to answer.
-1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, which 2 participants requested.
+1. Consider how we might continue to learn about any confusion around the meanings of “serve” and “near the DMZ” (from 1 of 7 research participants) and if content adjustments for clarity are needed.
+1. Consider how we might continue to learn about any confusion or ambiguity around locations in questions and if adjustments for clarity are needed.
 1. Consider how we might indicate where to find the list of presumptive conditions while reading the definition presumptive conditions on the *You may be eligible* results page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
 1. Consider how we might better support people who already get VA disability compensation and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
-1. Consider how we might address participants' questions and concerns about eligibility for benefits under the PACT Act:  
+1. Consider if and how we might address participants' questions and concerns about eligibility for benefits under the PACT Act, including sharing our findings with communications, outreach, and burn pit registry colleagues:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
      1. Whether you must have a disability in order to get compensation *vs.* were just in a specific location
      1. Whether the burn pit registry notifies you about PACT Act eligibility
@@ -395,16 +391,16 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
      1. Are PACT Act benefits different from regular disability compensation?   
      1. Should I include conditions that aren't presumptive? 
      1. Might the list of presumptive conditions change in the future? 
-     1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying (i.e., until you've had your disability rating for at least 10 years, if that's accurate information and reasonable advice)?
+     1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying?
      1. How to handle CRSC and PACT benefits together
 
 ### For the wizard design and functionality
-11. Consider where to share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
+9. Consider where to share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
 1. Consider where to share this finding *(Laura Flannery? other accessibility specialists?*): One participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[Laura hasn't heard this feedback before, but this is a new approach that hasn't been tested before.]*
 
 
 ### For VA
-13. Consider if/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits.
+11. Consider if/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits.
 1. Consider if/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
 1. Consider if/how we might communicate about future deadlines, given that one participant thought they wouldn't be able to apply for benefits at all after the Sept. 30 deadline. 
 
