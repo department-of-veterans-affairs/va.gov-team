@@ -199,7 +199,7 @@ Another participant also wanted to see a map that showed the geographical areas 
 
 #### RECOMMENDATIONS: 
 5. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to better understand how to answer.
-1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, such as "neutral zone".
+1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, which 2 participants requested.
 
 ### 3. Some participants had interaction challenges on the *You may be eligible* results pages 
 
@@ -277,7 +277,7 @@ Another participant heard that you **could be eligible for PACT Act benefits by 
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
      1. Whether you must have a disability in order to get compensation *vs.* were just in a specific location
      1. Whether the burn pit registry notifies you about PACT Act eligibility
-13. *(#13 in the Recommendations section)* Consider whether/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits. 
+13. *(#13 in the Recommendations section)* Consider if/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits. 
 
 ### 5. Participants shared their feedback and questions about how and when to apply for PACT Act benefits  
 The following is feedback that we received from individual participants about applying for PACT Act benefits. 
@@ -290,11 +290,11 @@ One participant was concerned about applying for PACT Act benefits because of a 
 
 > *"I have been told by one of my primary care doctors...diagnosed with fibromyalgia, but I don't see it in my problem list...So it might be somewhere in my medical records that he said I had it...If they didn't actually comb through the records and look for it...you can't just search by typing a word. I may get denied saying that there's no medical record that this is something you have" (p8).*
 
-A participant said that they would **encourage others to apply even if your condition isn't on the list** because it might be added in the future. The VA does look at trends of medical conditions reported by Veterans and periodically revises the rules and/or presumptive conditions, as it did with the PACT Act.
+A participant said that they would **encourage others to apply even if your condition isn't on the list** because it might be added in the future. The VA may look at trends of medical conditions reported by Veterans and periodically revise the rules and/or presumptive conditions, as it did with the PACT Act.
 
 > *"We look at this right now and we compare it to our uncles who were in Vietnam who did not get the benefits until after they died. 20-30 years later, now the families did [get benefits]" (p1).*
 
-One participant **wondered if the PACT Act benefits are any different from regular VA disability compensation**. The answer is "no"; the PACT Act just expands eligibility for existing benefits.
+One participant **wondered if the PACT Act benefits are any different from regular VA disability compensation**. The answer is "no"; the PACT Act expands eligibility for existing benefits.
 
 One participant was **concerned about filing a Supplemental Claim because they might lose their current disability rating and compensation** because the VA looks at everything again. One pilot participant also had this same concern.
 
@@ -311,14 +311,14 @@ One participant **would have tried to convince his dad to apply** for benefits u
 > *"If Dad were still alive today, I would have tried to convince him to have gone through this...We all know that when those guys came back [from Vietnam], they were treated like dirt...and he didn't want anything to do with the military...The VA today and the way the PACT Act is worded, I think if he was alive today, he would have been convinced after a lot of talking to apply...Thank goodness that today we are recognizing what those guys went through" (p4).*
 
 #### RECOMMENDATIONS:
-15. Consider how we might address participant feedback about misunderstanding the Sept. 30 deadline. *[Danielle plans to share with OPIA for their outreach work.]*
+15. Consider if/how we might communicate about future deadlines, given that one participant thought they wouldn't be able to apply for benefits at all after the Sept. 30 deadline. 
 9. *(#10 in the Recommendations section)* Consider how we might address participants' questions and concerns about applying for benefits under the PACT Act:
      1. Are PACT Act benefits different from regular disability compensation?   
      1. Should I include conditions that aren't presumptive? 
      1. Might the list of presumptive conditions change in the future? 
      1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying (i.e., until you've had your disability rating for at least 10 years, if that's accurate information and reasonable advice)?
      1. How to handle CRSC and PACT benefits together
-14. *(#14 in the Recommendations section)* Consider whether/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
+14. *(#14 in the Recommendations section)* Consider if/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
  
 
 ## Additional Insights
@@ -383,7 +383,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 1. Consider how might we clarify the meaning of "serve" so Veterans will better understand how to answer (i.e., does being on a ship nearby or in the airspace above count as having served in the location).
 1. Consider how we might clarify the meaning of "near" in the DMZ option so Veterans will better understand how to answer.
 1. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to better understand how to answer.
-1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, such as "neutral zone".
+1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, which 2 participants requested.
 1. Consider how we might indicate where to find the list of presumptive conditions while reading the definition presumptive conditions on the *You may be eligible* results page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
 1. Consider how we might better support people who already get VA disability compensation and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
 1. Consider how we might address participants' questions and concerns about eligibility for benefits under the PACT Act:  
@@ -403,9 +403,9 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 
 
 ### For VA
-13. Consider whether/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits.
-1. Consider whether/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
-1. Consider how we might address participant feedback about misunderstanding the Sept. 30 deadline. *[Danielle plans to share with OPIA for their outreach work.]*
+13. Consider if/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits.
+1. Consider if/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
+1. Consider if/how we might communicate about future deadlines, given that one participant thought they wouldn't be able to apply for benefits at all after the Sept. 30 deadline. 
 
 
 ## Next Steps
