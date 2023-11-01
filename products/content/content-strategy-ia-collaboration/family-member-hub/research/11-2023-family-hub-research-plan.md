@@ -111,6 +111,7 @@ OCTO works with Perigean, a small business, to handle the [recruitment](https://
 
 We will partner with Perigean to recruit Veteran family members and caregivers. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in a [folder on the sensitive repo](set up and link). We want to have a meeting with Perigean before recruitment begins to make sure there is no confusion with criteria table and screener questions.
 
+Will recruit 6 cohorts of 9 for a total of 54 recruits.  The goal will be to reach at least 40 completes.  The test will remain open for at least 2-3 days after the last invite goes out to give all invited participants a chance to complete the activity. 
 
 ### Recruitment criteria 
 
@@ -144,7 +145,7 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 - We will finalize the key tasks and test set up on Optimal Workshop by OCTOBER XX, 2023
 
 **Research sessions:**  
-- Planned dates of research: 10/XX - 10/XX - or whenever we receive roughtly 40 completed tests
+- Planned dates of research: 11/8/23 start until whenever we receive roughly 40 completed tests
 - Participants will be able to complete the online activity anytime after receiving the invitation email
 - Reminders will be sent as needed
 - Recruiting may continue throughout testing period to ensure we meet minimum participant numbers
