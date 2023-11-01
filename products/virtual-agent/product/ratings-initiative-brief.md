@@ -7,9 +7,11 @@ Veterans are able to view and track disability ratings information through myVA 
 ## Outcome Summary
 With the ability to return disability ratings, the VA Chatbot is better able to support the needs of our veterans during the claims process. 
 
-**Related/Associated product(s)**
+**Related/Associated Resources**
 
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/product_outline.md#key-decisions)
+- [Research and Planning Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692714662160/65cd0e029557557cac7611e19e9f49072e4e6e93?sender=u128ace76076cef940d047429)
+- [Sketch File w/ Mockups](https://www.sketch.com/s/b5a58a23-6128-421b-9869-50bad5b2686f)
 
 ## Problem 
 > What is the problem and who is affected? 
