@@ -31,8 +31,8 @@ async function getTeamInfo() {
     if (productName !== featureName && featureName) {
       titleInfo = `${titleInfo}/${featureName}`
     }
-    console.log(`titleInfo=${titleInfo} >> $GITHUB_OUTPUT`);
-    // console.log(`::set-output name=titleInfo::${titleInfo}`)
+    // console.log(`titleInfo=${titleInfo} >> $GITHUB_OUTPUT`);
+    console.log(`::set-output name=titleInfo::${titleInfo}`);
   } catch (error) {
     process.exitCode = 1;
   }
