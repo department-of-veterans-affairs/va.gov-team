@@ -46,7 +46,8 @@ async function getTeamInfo() {
       },
       headers: {
         'authorization': `Bearer ${GITHUB_TOKEN}`,
-        'Content-Type': 'application/json'
+        'Accept': 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28'
       }
     });
     const r2 = await response2.json();

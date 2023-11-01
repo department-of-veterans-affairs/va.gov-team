@@ -35,18 +35,18 @@ jobs:
         run: |
           echo "TITLE=$(cat issue_title.txt)" >> $GITHUB_ENV
 
-      - name: testing2
-        run: |
-          echo ${{ env.TITLE }}
-
-      # - name: Create issue using REST API
+      # - name: testing2
       #   run: |
-      #     curl --request POST \
-      #     --url https://api.github.com/repos/${{ github.repository }}/issues \
-      #     --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-      #     --header 'content-type: application/json' \
-      #     --data '{
-      #       "title": "Completed: Kickoff - ${{ steps.get_team_info.outputs.titleInfo }}",
-      #       "body": "This is a test."
-      #       }' \
-      #     --fail
+      #     echo ${{ env.TITLE }}
+
+      - name: Create issue using REST API
+        run: |
+          curl --request POST \
+          --url https://api.github.com/repos/${{ github.repository }}/issues \
+          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+          --header 'content-type: application/json' \
+          --data '{
+            "title": ${{ env.TITLE }},
+            "body": "This is a test."
+            }' \
+          --fail
