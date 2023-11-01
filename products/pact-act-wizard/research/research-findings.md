@@ -57,7 +57,7 @@ Learnings will help refine questions and the presentation of results in the wiza
 
 1. What feedback do Veterans (and others) have on the **results**?
     
-    - There were some questions and interaction issues that arose on the R1 results pages, which are documented later in this report. 
+    - There were some questions and interaction issues that arose on the *You may be eligible* results pages, which are documented later in this report. 
      
 
 1. If the tool says that they're eligible, what do they say they would **do next**?
@@ -85,7 +85,7 @@ In the wizard, participants were first **asked when they served, and their answe
 - Based on responses to the above questions, show one of the following results pages:
   - *VA benefit eligibility* (can't tell if you're eligible)
   - *Camp Lejeune* (may be eligible but not under PACT Act)
-  - *You may be eligible* (may be eligible under PACT Act)
+  - *You may be eligible* (may be eligible under PACT Act), which links to the *Apply for VA benefits now* page  
 
 Any participants whose responses didn't yield the *You may be eligible* results page were shown it afterwards, even though it didn't apply to their situation (which was explained by the moderator).
 
@@ -111,7 +111,7 @@ Any participants whose responses didn't yield the *You may be eligible* results 
 
 1. All 9 participants had an overall positive experience using the PACT Act Wizard.
 1. Some of the wizard questions were confusing to some participants.
-1. Some participants had interaction challenges on the R1 results pages.
+1. Some participants had interaction challenges on the *You may be eligible* results pages.
 1. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which may be *incorrect*.
 1. Participants shared their feedback and questions about how and when to apply for PACT Act benefits.
 
@@ -201,7 +201,7 @@ Another participant also wanted to see a map that showed the geographical areas 
 5. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to better understand how to answer.
 1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, such as "neutral zone".
 
-### 3. Some participants had interaction challenges on the R1 results pages 
+### 3. Some participants had interaction challenges on the *You may be eligible* results pages 
 
 #### Who saw which results pages
 
@@ -215,7 +215,7 @@ Results page | # of Participants
 
 Based on their responses to the questions, 6 of 9 participants were taken to the "**You may be eligible" results page**. This page in the prototype contained **burn pit content only and so wasn't applicable to all participants** (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Two of the 9 participants seemed to have minimal interest in interacting with the "You may be eligible" results because it didn't apply to them (i.e., wrong war and toxic subtances), though all the other participants interacted fully with the pages--either because the content applied to them or because they were more willing to pretend that the specifics were different. (Note: It would have been helpful if we had created the second version of the "You may be eligible" results page with Vietnam/Agent Orange content as we originally planned because that would have made more sense to the Vietnam-era Veterans in this study.)
 
-#### User feedback on the R1-1 "You may be eligible" results page
+#### User feedback on the "You may be eligible" results page
 
 **All 9 participants understood *presumptive conditions***, but most said that they **knew this before the research session**. One commented that the explanation on the page was easy to understand, but a more useful assessment would be to show the description to people who weren't already familiar with presumptive conditions. Note that these participants were all Veterans, and so we don't know whether non-Veterans would understand presumptive conditions.
 
@@ -226,9 +226,9 @@ One participant **expected to be asked when and where he served**, but that's no
 One participant **wanted to see what the specific presumptive conditions are**, which aren't on the page. More specifically, they wanted to know what conditions are covered for which location(s) in what timeframe.
 
 #### RECOMMENDATION:
-7. Consider how we might indicate where to find the list of presumptive conditions while  reading the definition presumptive conditions on the R1-1 page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
+7. Consider how we might indicate where to find the list of presumptive conditions while reading the definition presumptive conditions on the *You may be eligible* results page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
 
-#### User feedback on the R1-2 "Apply for VA benefits now" results page
+#### User feedback on the "Apply for VA benefits now" results page
 **Three participants read the 2 jump links at the top of the page as CTA's** (calls to action) and puzzled over which one to select because there wasn't any explanatory text around them. The links said *File a  claim for disability compensation* and *Apply for VA health care*. One of the 3 people scrolled down the page and noticed that they matched the headers on the page, and so guessed that they were jump links to the headers. The other 2 people figured it out when they clicked on one of them and remained on the same page.
 
 One participant got **stuck after clicking on the "Learn more about health care eligibility (opens in a new tab)" link**. He couldn't figure out how to get back to the results page because he didn't realize the content was in a new browser tab and so the "Back" button didn't do anything. He wasn't very tech savvy. After looking through the page, this participant said that he could want to confirm with someone at the VA that he should apply for benefits.
@@ -371,7 +371,7 @@ A different participant said that it's frustrating that he **doesn't know  wheth
 ## Research methodology learnings
 1. Having Survey Monkey handle the complex branching in the prototype to questions and results pages was super helpful and enabled the moderator to focus on observing and conversing with the participant (*vs.* figuring out on-the-fly which question or results page to show next).
 1. We should have built a second version of the *You may be eligible* results page in order to show presumptive conditions for Vietnam/Agent Orange because that would have been easier for the Vietnam-era participants to relate to.
-1. The single date in the R1-1 results page *(on or after August 2, 1990)* wasn't mentioned by most participants. Perhaps it would have been more natural to have had a conversation around dates if the sample results page had a date range instead of a single date as some of the content does *(e.g., between January 9, 1962, and May 7, 1975).*
+1. The single date in the *You may be eligible* results page *(on or after August 2, 1990)* wasn't mentioned by most participants. Perhaps it would have been more natural to have had a conversation around dates if the sample results page had a date range instead of a single date as some of the content does *(e.g., between January 9, 1962, and May 7, 1975).*
 1. Asking participants to rate their confidence about knowing what to do next was problematic when the results page they were looking at was not relevant to their specific situation.
 1. We could have asked the two participants who were family members of a Veteran to go through the PACT Act Wizard on behalf of their Veteran family member to see if they knew enough about their family member's military service to answer the questions. 
 
@@ -384,7 +384,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 1. Consider how we might clarify the meaning of "near" in the DMZ option so Veterans will better understand how to answer.
 1. Consider how we might more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone") in questions about locations in order for Veterans to better understand how to answer.
 1. Consider whether to show a map for questions that mention locations that Veterans may find confusing or ambiguous, such as "neutral zone".
-1. Consider how we might indicate where to find the list of presumptive conditions while  reading the definition presumptive conditions on the R1-1 page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
+1. Consider how we might indicate where to find the list of presumptive conditions while reading the definition presumptive conditions on the *You may be eligible* results page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
 1. Consider how we might better support people who already get VA disability compensation and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
 1. Consider how we might address participants' questions and concerns about eligibility for benefits under the PACT Act:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
@@ -478,7 +478,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 </details>
 
 <details>
-  <summary>Interactive R1-1 results page (Click to show screenshots)</summary>
+  <summary>Interactive "You may be eligible" results page (Click to show screenshots)</summary>
 
   ![Results-R1-1-top](./images/Results-R1-1-top.png)
   ![Results-R1-1-bottom](./images/Results-R1-1-bottom.png)
@@ -486,7 +486,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 </details>
 
 <details>
-  <summary>Interactive R1-2 results page (Click to show screenshots)</summary>
+  <summary>Interactive "Apply for VA benefits now" results page (Click to show screenshots)</summary>
 
   ![Results-R1-2-top](./images/Results-R1-2-top.png)
   ![Results-R1-2-mid](./images/Results-R1-2-mid.png)
@@ -495,7 +495,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 </details>
 
 <details>
-  <summary>R1-2 results: Gulf War conditions open (Click to show screenshots)</summary>
+  <summary>"Apply for VA benefits now" results: Gulf War conditions open (Click to show screenshots)</summary>
 
   ![Results-R1-2-GulfWar-accordion-open](./images/Results-R1-2-GulfWar-accordion-open.png)
      
