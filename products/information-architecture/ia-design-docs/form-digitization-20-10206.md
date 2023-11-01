@@ -21,6 +21,7 @@ Team has created user flows in [this Mural](https://app.mural.co/t/departmentofv
 
 | Category | Standard | This product |
 | ---- | ---- | ---- | 
+User flows | A user flow has valid or appropriate closure, and doesn't result in a dead end where a user can't complete a task due to a functional issue (i.e. blank page, missing field or CTA, 404 error). | Flagged with Content to ensure there’s info here on what one can expect after submitting |
 User flows | A user flow provides content or navigation to help users understand where to go or what to do next. | Include content on the intro page for verifying identity to 1) let folks know they are going to a new page and 2) how to return to this page
 User flows | A user flow includes a prominently placed CTA that doesn't lead the user out of the primary flow without notifying them or providing a clear way for them to return to the original flow. | Same as above, include content on the intro page for verifying identity to 1) let folks know they are going to a new page and 2) how to return to this page. I’m curious about what happens if the verification process isn’t successful. What can be done to support this flow? |
 User flows | Error messages include a path to resolution and follow guidance in the error messages dictionary and error messages style guide. | I think this is addressed with the intro page to verify identity if they haven't yet. |
