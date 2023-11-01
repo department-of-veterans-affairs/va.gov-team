@@ -42,12 +42,12 @@
 |Planning Item/Question|Response|
 |---|---|
 |UAT Go/No-go Convo|[Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68248)|
-|Desired Date Range or Test Duration|1 week|
-|Desired Number of Users| |
-|How you'll recruit the right production test users|We will recruit users via Perigean|
-|How you'll conduct the testing|We will conduct UAT over Zoom to ensure the different features work correctly|
+|Desired Date Range or Test Duration|1 day|
+|Desired Number of Users| internal UAT |
+|How you'll recruit the right production test users| Since its FE UI we can test internally |
+|How you'll conduct the testing| We'll run through our QA testing for UAT |
 |How you'll give the test users access to the product in production w/o making it live on VA.gov|The feature will be behind a feature flag|
-|Link to Research plan for UAT||
+|Link to Research plan for UAT|n/a we're running internal UAT reusing our QA testing|
 
 
 ### Results 
