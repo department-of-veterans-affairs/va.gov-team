@@ -73,10 +73,9 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 
 ### Hypothesis
-- Hypothesis that for the appointment registration scenarios - like a C&P or toxic exposure exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
+- Hypothesis that for the appointment registration scenarios - like a C&P exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
 - Hypothesis that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
-- We hypothesize that their expectation is getting the most the can due to their disability rating and that they are applying for the most they are eligible for.
-- We hypothesize that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking.
+- We hypothesize that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking, such as mental health or counseling care.
 
 ## Methodology	
 
