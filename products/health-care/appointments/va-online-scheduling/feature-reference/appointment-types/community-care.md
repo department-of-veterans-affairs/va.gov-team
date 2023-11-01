@@ -6,14 +6,17 @@ Details for a scheduled appointment with a community care provider.
 
 ## User stories
 
-See [user stories for all appointment types](./all-appointment-types#user-stories.md).
+See [user stories for booked appointments](./all-appointment-types.md#booked-appointment-user-stories).
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-User can review data and complete actions noted in the following table:
+- Follows [requirements for canceling appointments](../tools/tool-cancel.md#requirements).
+- Follows [requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements).
+- Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
+- User can review data and complete actions noted in the following table:
 
 | Data and actions                                           | Upcoming | Past | Canceled |
 | ---------------------------------------------------------- | -------- | ---- | -------- |
@@ -30,10 +33,6 @@ User can review data and complete actions noted in the following table:
 | Call to Reschedule Alert                                   | ✅        |      |          |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
-
-- Follows [requirements for canceling appointments](../tools/tool-cancel.md#requirements).
-- Follows [requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements).
-- Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
 
 ## Specifications
 

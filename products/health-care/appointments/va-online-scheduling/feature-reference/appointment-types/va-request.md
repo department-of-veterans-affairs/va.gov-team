@@ -6,21 +6,17 @@ A request for an appointment at a VA facility.
 
 ## User stories
 
-- As a Veteran, I want to review my confirmed VA appointments.
-    - As a Veteran, I want to easily understand if an appointment is upcoming, in the past, or canceled.
-- As a Veteran, I want to add my confirmed VA appointments to my calendar.
-- As a Veteran, I want to cancel my confirmed, upcoming VA appointments.
+- See [user stories for appointment requests](./all-appointment-types.md#request-user-stories).
+- As a Veteran, I want to easily understand the modality I requested.
 
 ## Requirements
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 **Functional**
 
-- User can review data to understand their appointment (see table below).
-- User can complete tasks related to their appointment (see table below).
-- [Requirements for canceled appointments](../tools/tool-cancel.md#requirements) are followed.
-- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
-- [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
+- Follows [requirements for canceling appointments](../tools/tool-cancel.md#requirements).
+- Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
+- User can review data and complete actions noted in the following table:
 
 Data requirements table:
 
@@ -41,36 +37,97 @@ Data requirements table:
 | [Cancel Action](../tools/tool-cancel.md) | ✅         | ✅       |          |
 | [Print Action](../tools/tool-print.md)   | ✅         | ✅       | ✅        |
 
-## User interface design
+## Specifications
 
 **User flows**
-- [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
-- [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
+[Pending appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=127-22894&t=TKn58SI6OYX7Zdu3-4)
 
-**Page templates**
-- [List section](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=0-50)
-- [Details page](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=867-26334&t=vycMTsKnfBPu5MKo-4)
+**UI design specs:**
+- [Confirmed](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-27744&mode=design&t=XoWmwKDNFveoItRx-4)
+- [Pending](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26355&mode=design&t=XoWmwKDNFveoItRx-4)
+- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
 
-[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#appointment-list-cards)
-
-## Technical design
-
-[FE architecture choices specific to this page]
+**Page content:**
+- [Confirmed](../../content/appointment-details.md#va-request---confirmed)
+- [Pending](../../content/appointment-details.md#va-request---pending)
+- [Canceled](../../content/appointment-details.md#va-request---canceled)
 
 ## Metrics
+<!--Goals for this feature, and how we track them through analytics-->
 
-[Goals we track, and how we track them through analytics]
+- Goal 1
+- Goal 2
 
-## Dependencies
+**Events tracked**
+<!-- Descriptions of events tracked on this page to meet those goals -->
 
-- [VA Facilities API](https://developer.va.gov/explore/facilities/docs/facilities?version=current)
+- Event 1
+- Event 2
 
-[Systems that can trigger different states, like alerts, and how we handle them]
+[All events VAOS tracks](Link TBD)
 
-Facilities API:
-- Address information
+## Alerts and conditional states
+<!-- Any alerts that could display for this feature and what triggers them. -->
 
-## Testing
+### [Alert description]
+<!-- Add a new section for each alert -->
 
-[Testing specific to this page]
+**Alert trigger**
+[Description of what causes this alert to display]
+
+**Alert UI**
+- [User flow](Add link)
+- [State template](Add link)
+- [State content](Add link)
+
+## Technical design
+<!-- Endpoints and sample responses -->
+
+**Staging URL:** [Add staging URL]
+
+**Staging base URL:** https://staging-api.va.gov/
+
+**Prod base URL:** https://api.va.gov/
+
+**Endpoints**
+`replace-with-endpoint-1`
+
+`replace-with-endpoint-2`
+
+To see the current api responses:
+- Navigate to the [vets-api swagger](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/)
+- Search for `https://api.va.gov/vaos/v2/apidocs`
+
+<details>
+  <summary>Sample response</summary>
+
+```json
+[Add sample response]
+```
+
+</details>
+
+## Development testing
+<!-- Unit tests, API tests -->
+
+### [Call name] call
+
+[How to use the VCR test framework](https://www.rubydoc.info/gems/vcr/VCR)
+  
+<details>
+  <summary><b>VCR cassette</b></summary>
+
+```
+[Add VCR cassette]
+
+```
+</details>
+
+<details>
+  <summary><b>Example test for "[Call name]" that corresponds to the above VCR cassette.</b></summary>
+
+```
+[Add example test]
+```
+</details>
 

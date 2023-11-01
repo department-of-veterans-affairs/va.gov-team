@@ -2,25 +2,21 @@
 
 ## Overview
 
-A scheduled examination as part of filing a disability claim.
+A scheduled examination that is scheduled as part of filing a disability claim.
 
 ## User stories
 
-- As a Veteran, I want to review my claim exam appointments.
-    - As a Veteran, I want to easily understand if an appointment is upcoming, in the past, or canceled.
-- As a Veteran, I want to add my confirmed appointments to my calendar.
-- As a Veteran, I want to cancel my confirmed, upcoming appointments.
+See [user stories for all appointment types](./all-appointment-types#user-stories.md).
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- User can review data to understand their appointment (see table below).
-- User can complete tasks related to their appointment (see table below).
 - [Requirements for canceling appointments](../tools/tool-cancel.md#requirements) are followed.
 - [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
 - [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
+- User can review data and complete actions noted in the following table:
 
 | Data and actions                                           | Confirmed | Past | Canceled |
 | ---------------------------------------------------------- | --------- | ---- | -------- |
@@ -40,17 +36,19 @@ A scheduled examination as part of filing a disability claim.
 
 ## User interface design
 
-[User flow](Add link) 
+**User flows:**
+- [Upcoming](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2019-19997&t=lDUJykyhV8NRJ2zc-4)
+[Past](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=127-22836&t=lDUJykyhV8NRJ2zc-4)
 
-Page template:
-- [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26648&mode=design&t=bs8m3MnTZ56hExUO-4)
-- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26681&mode=design&t=bs8m3MnTZ56hExUO-4)
-- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26711&mode=design&t=bs8m3MnTZ56hExUO-4)
+**UI design specs:**
+- Upcoming (TBD)
+- Past (TBD)
+- Canceled (TBD)
 
-Page content:
-- [Upcoming](../../content/appointment-details.md#va-vvc-gfe-appointment---upcoming)
-- [Past](../../content/appointment-details.md#va-vvc-gfe-appointment---past)
-- [Canceled](../../content/appointment-details.md#va-vvc-gfe-appointment---canceled)
+**Page content:**
+- [Upcoming](../../content/appointment-details.md#claim-exam-booked---upcoming)
+- [Past](../../content/appointment-details.md#claim-exam-booked---past)
+- [Canceled](../../content/appointment-details.md#claim-exam-booked---canceled)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
