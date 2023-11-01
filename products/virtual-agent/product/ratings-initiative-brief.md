@@ -109,7 +109,7 @@ Provide VA Chatbot users with personalized experience in regards to their presri
 - Viewing combined and individual disability ratings (associated condition, service connected, effective date)
 - Response to user if no disability rating associated with profile 
 
-#### MVP 2
+#### MVP 2 (Goal)
 - Authentication of veteran
 - Viewing combined and individual disability ratings (associated condition, service connected, effective date)
 - Response to user with no disability rating, route to claims status (or other similarly relevant feature - pending usability testing outcome)
