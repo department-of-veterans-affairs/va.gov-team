@@ -98,7 +98,7 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 **Primary criteria (must-haves)**
 - All must be currently enrolled in VA health care benefits
 - At least 2 are using a mobile device during the session
-- Diverse mix of age ranges
+- Diverse mix of age ranges, no more than 2 per age group
 - At least 2 participants with Cognitive disabilities
 - At least 2 participants who are Black
 - At least 2 participants who are Hispanic 
@@ -115,7 +115,7 @@ For recruiting 2 mobile users:
     - Yes *(Qualify)*
     - No *(Disqualify)*
 
-For recruiting 2 users with cognitive disabilityes:
+For recruiting 2 users with cognitive disabilities:
 1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
    	- Yes *(Qualify)*
    	- No *(Disqualify)*
