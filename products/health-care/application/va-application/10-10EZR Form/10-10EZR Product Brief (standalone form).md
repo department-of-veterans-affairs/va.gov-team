@@ -97,22 +97,24 @@ In future iterations, we plan to review for alternative locations and other syst
 ### Initiatives
 - [EZR online epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
 - Preceding page URL to the new 10-10EZR landing page
-     - https://staging.va.gov/health-care/update-health-information/
-- [Original EZR Update Capabilities Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/MVP%2010-10EZR%20Standalone%20form%20-%20Initiative%20Brief.md) 
+     - https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction
+- [EZR - V2 form Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66837)
+- [Original EZR Update Capabilities Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/MVP%2010-10EZR%20Standalone%20form%20-%20Initiative%20Brief.md)
+
 --- 
 
 ## Launch Strategy
-- TBD [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/EZR%20Release%20Plan.md)
 
 ### Collaboration Cycle
 
 - Collab Cycle ticket [#63773](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63773)
      - [N/A] Design Intent
      - [x] Content, Accessibility and IA - Kickoff 9/12/23 at 4p ET
-     - [ ] Midpoint
+     - [x] Midpoint - Scheduled 10/27/2023
      - [ ] Research
      - [ ] Contact Center guide
-     - [ ] Analytics
+     - [x] Analytics
      - [ ] Staging
      - [ ] Privacy & Security
 
@@ -120,8 +122,12 @@ In future iterations, we plan to review for alternative locations and other syst
 - The 1010EZR form is a new form on VA.gov
 - Full form flow
 - Dependent Backend systems - TBD
-- 1010EZR - Dashboard TBD
-- Contacts: TBD
+- [1010EZR - Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr)
+- Contacts:
+     - Product Manager - Alex Seelig (alex.seelig@agile6.com)
+     - Product Owner - Patrick Bateman (patrick.bateman@va.gov)
+     - Lihan Li (lihan@adhocteam.us)
+     - Matt Long (matt.long@adhocteam.us)
 
 ## Launch Dates
 - *Target Launch Date*
@@ -130,7 +136,7 @@ In future iterations, we plan to review for alternative locations and other syst
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - Evaluate: End of December 2023
-  - Impact Review: January 2024
+  - Impact Review: January/February 2024
 
 ---
 
@@ -146,15 +152,14 @@ In future iterations, we plan to review for alternative locations and other syst
    - [Proposed wireflows](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/p/2243222A-201E-413F-8CC2-8A8C237726DC/canvas)
    - [Sketch Design and User Flow](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/v/Mrk8ab/p/A0C657F6-3318-45A0-93CB-246BA8722E37/canvas?posX=-3289.158203125&posY=-10403.73046875&zoom=0.25)
    - [Content Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/10-10EZR-application-content.md)
-- [Research/Design folder]
-- [Prototype]
+- [Research/Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research)
 - [Technical documentation folder]
 - How to access and test
-    - Staging env
+    - [Staging env](https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
     - Testing documentation - TestRail
     - [Test/Use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZR-Update-health-care-benefits.md)
     - A11y test case documentation
-- Release plan
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/EZR%20Release%20Plan.md)
 - Production env
 
 ### Key Decisions
@@ -164,6 +169,7 @@ In future iterations, we plan to review for alternative locations and other syst
 :bangbang: We are now targeting a Late November release :calendar: 
      - MVP: Build a pre-filled 10-10EZR form online so that a Veteran can review and edit the pre-filled data, submitting successfully.
      - In-Scope: 
+          - Authenticated flow
           - Display all data fields with the applicable pre-filled data, if any
           - Provide context/alert informing the Veteran that data has been pre-filled for them (existing on EZ)
           - Veteran name, DOB & SSN information will be displayed as read-only (existing on EZ)
@@ -173,6 +179,7 @@ In future iterations, we plan to review for alternative locations and other syst
           - Read-only/Review-type pages in place of each section (in-line editing)
           - Read-only/Review-type pages in between each section (yes/no update questions)
           - Short-form flows (specifically for those with 50% or higher disability rating)
+          - Unauthenticated flow
 
 ### Key Dates
 
