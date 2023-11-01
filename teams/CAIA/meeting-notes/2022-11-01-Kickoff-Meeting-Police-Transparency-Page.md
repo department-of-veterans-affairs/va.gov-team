@@ -4,6 +4,19 @@
 - **Time**: 12:30 p.m. Eastern
 - [Zoom Link](https://coformaco.zoom.us/j/85176281046?pwd=WWxhYXQ4L05zTGFLMFRnZ3JrMmczdz09)
 
+## Quick Snapshot
+- Related to a legislative requirement. Data related to police interactions.
+- **Content**: A good way to make sure we are presenting this in a clear presentable way to Veterans with explainations and plain language.
+    - Michelle is reaching out to gather content to send through to CAIA content.
+- **IA**: Have identified where it needs to go. Has a few questions about breadcrumbs and IA.
+- **Midpoint** will be coming up next (finished Midpoint): would like to get content prior to Midpoint.
+- **Research**: No current research plans.
+- **A11y:** Laura Flannery
+- **Content:** No individual on the team
+- **IA:** 
+- **Timeline**: Needs to be completed by the end of the year. 
+
+
 ## Starting the CAIA Process
 ### Process Initiated
 - [x] [Intake Request #67055](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67055) - this forms the basis of our partnerships with you and becomes an Epic.
