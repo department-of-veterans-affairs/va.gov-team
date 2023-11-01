@@ -1,4 +1,4 @@
-# Project outline: Enhanced Military Information
+# Initiative outline: Enhanced Military Information
 
 **Updated 10/24/2023: Added links to 526EZ**
 
