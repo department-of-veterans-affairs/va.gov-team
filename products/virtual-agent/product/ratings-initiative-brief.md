@@ -131,6 +131,7 @@ Provide VA Chatbot users with personalized experience in regards to their presri
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+
 **1. Sep-Oct:** Discovery Research / Design (Mock-ups, conversation flows)
 **2. Oct-Nov:** Technical discovery/spike, usability testing
 **3. Late Nov-Dec:** Refine MVP & launch planning
