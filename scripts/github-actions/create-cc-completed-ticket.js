@@ -32,7 +32,7 @@ async function getTeamInfo() {
     if (productName !== featureName && featureName) {
       titleInfo = `${titleInfo}/${featureName}`
     }
-    titleInfo = '[aaaa/bbbb-ccc]';
+    titleInfo = '[aa(aa)/bbbb-ccc]';
     fs.writeFileSync("issue_title.txt", titleInfo)
   } catch (error) {
     process.exitCode = 1;
