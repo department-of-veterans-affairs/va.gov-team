@@ -46,11 +46,6 @@ To start we should focus on **read only** access to those data elements and to I
 - O1: Increase the accessibility, reliability, and security of Veteran's digital services
 - O2: Reduce the time it takes for Veterans to find, use, and receive VA Services
 
-### Disability claim (526EZ)
-
-- [Paper form](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
-- [Form on VA.gov staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
-  - Access with user 15 or 68
 
 ## Background Details 
 
@@ -118,7 +113,11 @@ We should use the DD214 and ILER as starting points for this project, but we sho
 
 </details>
 
-Our MVP expansion of the military information available on VA.gov will focus on the following:
+### Where do we start?  
+Broadly, expansion of the military information available on VA.gov will focus on the broad items below:
+- Integrating additional military data into VA.gov
+- Linking to ILER Records
+- Allowing for edits/updates to ILER records
 
 #### Integrate the following data into VA.gov
 
@@ -155,6 +154,16 @@ We can access a PDF version of someone's ILER record, so linking to this would s
 
 VA leadership is not clear on how exactly to make this possible and they’re still working with their DoD counterparts to satisfactorily answer the legislative imperative in Section 803. A lightweight MVP might be giving veterans a DoD number to call. Ideally, over time, we'd have a better option than that.
 
+### MVP Slice
+The scope of those three things is expansive. With that in mind we're using the 526EZ form to inform our initial focus to the items that will most likely assist veterans when completing the 526EZ. The 526EZ electronic form is expanding to incorporate additional questions. The military information we're adding to the Profile should help veterans when completing those questions. 
+
+With that in mind we'll start by adding units, deployment locations/dates, and military occupation.
+
+#### Disability claim (526EZ)
+
+- [Paper form](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
+- [Form on VA.gov staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
+  - Access with user 15 or 68
 
 ## Problem Statement
 
