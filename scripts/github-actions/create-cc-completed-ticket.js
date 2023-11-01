@@ -1,10 +1,10 @@
+const fetch = require('fetch');
+
 const {
   GITHUB_REPOSITORY,
 } = process.env;
 
 const [owner, repo] = GITHUB_REPOSITORY.split('/');
-
-import fetch from 'node-fetch';
 
 const ENDPOINT = `https://api.github.com/repos/${owner}/${repo}/issues/65064`;
 
