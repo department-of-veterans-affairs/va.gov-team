@@ -1,9 +1,11 @@
-# Initiative Brief - EZ(R) Update Capabilities
-- [EZ(R) update capabilities epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
+# Initiative Brief - 10-10EZR - MVP - building the form online
+- [10-10EZR MVP epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
 
 ## Outcome Summary - 
 
-Ability for a Veteran to update some of their information online – namely contact, demographic, financial, dependent, and health insurance.
+Ability for a Veteran to update some of their information online – specifically contact, demographic, financial, dependent, and health insurance.
+- Emergency Contact/Next of Kin will be in V2
+- Prefill of Dependent info will be in V2
 
 
 **Related/Associated product(s)**
