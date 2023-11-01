@@ -54,10 +54,8 @@ To start we should focus on **read only** access to those data elements and to I
 
 ## Background Details 
 
-This section contains a lot of information that provides context to the broader initiative
-
 <details>
-     <summary>Details for additional context</summary>
+     <summary>Expand this section for additional context and details that we've uncovered as we've progressed through the project</summary>
 
 ### Legislative mandates
 
