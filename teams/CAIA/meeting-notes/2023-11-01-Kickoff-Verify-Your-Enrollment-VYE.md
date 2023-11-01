@@ -3,8 +3,6 @@
 - **Date**: Wednesday, Nov. 1, 2023
 - **Time**: 12:15 p.m. Eastern
 - [Zoom Link](https://us02web.zoom.us/j/85299406660?pwd=SURPbzNOeE84WEt3RElibFRQSWxmZz09)
-- [Google Doc Version](x) (Access Required)
-- [Microsoft Word Version](x)
 
 ## Starting the CAIA Process
 ### Process Initiated
@@ -30,10 +28,11 @@
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
 
 ## CAIA Tickets 🎟️
-- [ ] [Epic] Name of Epic/Intake Ticket 
-    - [ ] Accessibility Ticket
-    - [ ] IA Ticket
-    - [ ] Content Ticket
+- [ ] [<CAIA Intake Request> from <VYE Team>
+#68205](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68205)
+    - [ ] Accessibility Ticket **Needed**
+    - [ ] IA Ticket **Needed**
+    - [ ] Content Ticket **Needed**
 
 ## Assets
 - [Product outline](x)
@@ -46,11 +45,9 @@
 
 ## Meet the Teams
 ### Kickoff Team Partner
-- Team member 1
-- Team member 2
-- Team member 3
-- Team member 4
-- Team member 5
+- OCTO-DE product owner: Emily Theis
+- Product manager: Jason Wolf and Cassidy Beach
+- Designer: Ryan Gray
 
 ### CAIA Teams
 #### CAIA
