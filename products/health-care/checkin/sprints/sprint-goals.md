@@ -139,8 +139,8 @@ ________________________________________________________________________________
           - ✔️ 🟩 [[FE] Add api calls for new pre-check-in logic flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67417)
           - 🟦[[BE] Validate that our public key works](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67715)
               - Will rollover
-          - 🟦~[[BE] Create Configuration to Connect to MAP Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67845)~
-          - 🟦~[JWT token endpoint access (after token registered)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67717)~
+          - 🟦 ~[[BE] Create Configuration to Connect to MAP Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67845)~
+          - 🟦 ~[JWT token endpoint access (after token registered)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67717)~
     - **Sub Goal: Analyze current metrics to see what they tell us**
        - ✔️ ❗🟦[[BE]SPIKE: How can we Measure & Report How Long it Takes to Complete Check-in (w/ and w/o travel)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67177)
        - 🟥[Research] Analyze GA Metrics
