@@ -6,23 +6,14 @@ A scheduled in-person appointment at a VA facility.
 
 ## User stories
 
-- As a Veteran, I want to review my confirmed VA appointments.
-    - As a Veteran, I want to easily understand if an appointment is upcoming, in the past, or canceled.
-- As a Veteran, I want to add my confirmed VA appointments to my calendar.
-- As a Veteran, I want to cancel my confirmed, upcoming VA appointments.
+See [user stories for all appointment types](./all-appointment-types.md#user-stories).
 
 ## Requirements
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 **Functional**
 
-- User can review data to understand their appointment (see table below).
-- User can complete tasks related to their appointment (see table below).
-- [Requirements for canceled appointments](../tools/tool-cancel.md#requirements) are followed.
-- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
-- [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
-
-Data requirements table:
+User can review data and complete actions noted in the following table:
 
 | VA In Person                                               |           |          |      |          |
 | ---------------------------------------------------------- | --------- | -------- | ---- | -------- |
@@ -42,17 +33,23 @@ Data requirements table:
 | [Print Action](../tools/tool-print.md)                     | ✅         | ✅        | ✅    | ✅        |
 | [Cancel Action](../tools/tool-cancel.md)                   | ✅         | ✅        |      |
 
-## User interface design
+## Specifications
 
 **User flows**
 - [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
 - [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
 
-**Page templates**
-- [List section](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=0-50)
-- [Details page](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=867-26334&t=vycMTsKnfBPu5MKo-4)
+**UI design specs**
+- [Confirmed](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26448&mode=design&t=zfYBrRPZirDqa8uW-4)
+- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26544&mode=design&t=zfYBrRPZirDqa8uW-4)
+- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26527&mode=design&t=zfYBrRPZirDqa8uW-4)
+- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26536&mode=design&t=zfYBrRPZirDqa8uW-4)
 
-[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md#appointment-list-cards)
+**Page content**
+- [Confirmed](../../content/appointment-details.md#va-in-person---confirmed)
+- [Upcoming](../../content/appointment-details.md#va-in-person)
+- [Past](../../content/appointment-details.md#va-in-person---past)
+- [Canceled](../../content/appointment-details#va-in-person---canceled)
 
 ## Technical design
 

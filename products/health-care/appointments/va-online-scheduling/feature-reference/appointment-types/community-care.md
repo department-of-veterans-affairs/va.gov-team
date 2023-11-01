@@ -2,25 +2,18 @@
 
 ## Overview
 
-A scheduled appointment with a community care provider.
+Details for a scheduled appointment with a community care provider.
 
 ## User stories
 
-- As a Veteran, I want to review my community care appointments.
-    - As a Veteran, I want to easily understand if an appointment is upcoming, in the past, or canceled.
-- As a Veteran, I want to add my confirmed VA appointments to my calendar.
-- As a Veteran, I want to cancel my confirmed, upcoming appointments.
+See [user stories for all appointment types](./all-appointment-types#user-stories.md).
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- User can review data to understand their appointment (see table below).
-- User can complete tasks related to their appointment (see table below).
-- [Requirements for canceling appointments](../tools/tool-cancel.md#requirements) are followed.
-- [Requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements) are followed.
-- [Requirements for printing appointments](../tools/tool-print.md#requirements) are followed.
+User can review data and complete actions noted in the following table:
 
 | Data and actions                                           | Upcoming | Past | Canceled |
 | ---------------------------------------------------------- | -------- | ---- | -------- |
@@ -38,19 +31,25 @@ A scheduled appointment with a community care provider.
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 
-## User interface design
+- Follows [requirements for canceling appointments](../tools/tool-cancel.md#requirements).
+- Follows [requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements).
+- Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
 
-[User flow](Add link) 
+## Specifications
 
-Page template:
-- [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26648&mode=design&t=bs8m3MnTZ56hExUO-4)
-- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26681&mode=design&t=bs8m3MnTZ56hExUO-4)
-- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26711&mode=design&t=bs8m3MnTZ56hExUO-4)
+**User flows:**
+- [Upcoming](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2019-19997&t=lDUJykyhV8NRJ2zc-4)
+[Past](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=127-22836&t=lDUJykyhV8NRJ2zc-4)
 
-Page content:
-- [Upcoming](../../content/appointment-details.md#va-vvc-gfe-appointment---upcoming)
-- [Past](../../content/appointment-details.md#va-vvc-gfe-appointment---past)
-- [Canceled](../../content/appointment-details.md#va-vvc-gfe-appointment---canceled)
+**UI design specs:**
+- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-27418&mode=design&t=wI89URYZ1M74WWRP-4)
+- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-27430&mode=design&t=wI89URYZ1M74WWRP-4)
+- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-27442&mode=design&t=wI89URYZ1M74WWRP-4)
+
+**Page content:**
+- [Upcoming](../../content/appointment-details.md#cc-appointment---upcoming)
+- [Past](../../content/appointment-details.md#cc-appointment---past)
+- [Canceled](../../content/appointment-details.md#cc-appointment---canceled)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->

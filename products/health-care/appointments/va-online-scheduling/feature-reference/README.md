@@ -44,8 +44,8 @@ Appointments that Veterans have requested but VA has not booked.
 
 | Feature | Description | Supported |
 |---|---|---|
-| VA appointment Request  | Request for a VA appointment | |
-| Community care appointment request | Request for a community care appointment | |
+| [VA appointment request](./appointment-types/va-request.md)  | Request for a VA appointment | Yes |
+| [Community care appointment request](./appointment-types/community-care-request.md) | Request for a community care appointment | Yes |
 
 ### Appointment management tools
 Tools Veterans can use to manage their appointments and requests.
