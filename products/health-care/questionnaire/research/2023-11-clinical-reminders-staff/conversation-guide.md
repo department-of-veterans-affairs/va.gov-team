@@ -23,8 +23,9 @@ Before we start, I want to mention a couple things:
 ### Learning the tool - 7 minutes 
 - On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to learn how to use [BHL or eScreening]?
 - How long did it take you to learn to use the tool?
+- Can you describe your onboarding process?
 - Can you summarize the training that was provided to you?
-- If you could change one thing about the training that you received, what would it be?
+- If you could change one thing about onboarding or the training that you received, what would it be?
 
 ### Utilizing the tool - 15 minutes
 - Can you walk me through your final process for sending, receiving, and reviewing these questionnaires?
@@ -44,8 +45,9 @@ Before we start, I want to mention a couple things:
 ### Learning the tool - 7 minutes 
 - On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to learn how to configure [BHL or eScreening]?
 - How long did it take you learn to configure the tool?
+- Can you describe your onboarding process?
 - Can you summarize the training that was provided to you?
-- If you could change one thing about the training that you received, what would it be?
+- If you could change one thing about onboarding or the training that you received, what would it be?
 
 ### Configuring the tool - 10 minutes
 - Can you summarize the steps you had to take to configure the tool?
