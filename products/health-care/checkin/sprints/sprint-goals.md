@@ -64,7 +64,6 @@ ________________________________________________________________________________
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - 🟦 [[BE] Validate that our public key works](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67715) ROLLOVER 
             - 🟦 [JWT token endpoint access (after token registered)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67717) ROLLOVER
-            - 🟦 [[BE] Create Configuration to Connect to MAP Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67845) ROLLOVER
             - 🟩 [[FE] - Unified e2e test - define paths](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68683)
             - 🟩 [[FE] Create a utility function that determines if demographics are up to date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68802)
             - 🟩 [[FE] Landing Page: Add api calls for new pre-check-in logic flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67417) ROLLOVER 
