@@ -33,7 +33,7 @@ jobs:
       
       - name: testing
         run: |
-          echo $TITLE_INFO
+          echo "$TITLE_INFO"
 
       # - name: Create issue using REST API
       #   run: |
