@@ -4,6 +4,12 @@
 - **Time**: 12:15 p.m. Eastern
 - [Zoom Link](https://us02web.zoom.us/j/85299406660?pwd=SURPbzNOeE84WEt3RElibFRQSWxmZz09)
 
+## Quick Snapshot
+- **Objective**: Taking a non-compliant legacy system. Moving it to VA.gov under Verify Your Enrollment.
+- **Backend Development:** Current Status as of 11/1/2023.
+- **Testing Environment**: Developing the framework, should be done by next month (December). 
+- **Future Research:** CAIA A11ys can help support with creating test plans, AT support during sessions and an AT research deliverable for your team. 
+ 
 ## Starting the CAIA Process
 ### Process Initiated
 - [x] [Intake Request #68205](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68205) - this forms the basis of our partnerships with you and becomes an Epic.
@@ -21,7 +27,7 @@
 
 
 ## Resources 🔗
-- **[10/12/2023] Opened Collaboration Cycle Ticket: **
+- **10/12/2023 Opened Collaboration Cycle Ticket: **
 - [x] Collaboration Cycle Ticket [#67530](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67530) - if applicable
     - [x] Design Intent ticket (10/19/2023)
     - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
@@ -41,13 +47,15 @@
 - [Prototype V1 VYE Wireframe](https://www.sketch.com/s/0c023f07-db31-4bba-9c92-1f70343f060f)
 - Other Items:
     - Content source of truth: VYE Team and EDU Business Line (VRE)
-    - Research plan: TBD
+    - Research plan: TBD - testing framework to be set up by December, will be doing AT testing (as of 11/1/2023)
 
 ## Meet the Teams
 ### Kickoff Team Partner
 - OCTO-DE product owner: Emily Theis
 - Product manager: Jason Wolf and Cassidy Beach
 - Designer: Ryan Gray
+- No content
+- No A11y
 
 ### CAIA Teams
 #### CAIA
