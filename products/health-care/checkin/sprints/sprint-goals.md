@@ -54,6 +54,7 @@ ________________________________________________________________________________
       - 🟥Create a CAIA review ticket
       - 🟥[[UX][Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65418)
       - 🟥[[UX][Design] Complete Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67164)
+      - 🟥[[Content] [UX] Draft email template for file a BT claim notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68851)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**   
     - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
         - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
