@@ -1,27 +1,40 @@
-const { Octokit } = require('@octokit/rest');
-
 const {
-  // GITHUB_REPOSITORY,
-  // BOT_GITHUB_TOKEN: auth,
-  GITHUB_TOKEN: auth
+  GITHUB_REPOSITORY,
 } = process.env;
 
-const octokit = new Octokit({ auth });
-// const [owner, repo] = GITHUB_REPOSITORY.split('/');
+const [owner, repo] = GITHUB_REPOSITORY.split('/');
 
-async function createTicket() {
-  console.log('creating issue...');
+import fetch from 'node-fetch';
+
+const ENDPOINT = `https://api.github.com/repos/${owner}/${repo}/issues/65064`;
+
+function extract(first, last, issue) {
+  const [_, _name] = issue.split(first);
+  const [name] = _name.split(last);
+  const target = name.replace(/[\n\r]/g, '');
+  return target;
+}
+
+function parse(issue) {
+  const teamName = extract('### VFS team name', '### Product name', issue);
+  const productName = extract('### Product name', '### Feature name', issue);
+  const featureName = extract('### Feature name', '### GitHub label for product', issue);
+  return { teamName, productName, featureName };
+}
+
+async function getTeamInfo() {
   try {
-    const resp = await octokit.issues.create({
-      owner: 'department-of-veterans-affairs',
-      repo: 'va.gov-team',
-      title: 'this is a test',
-      body: 'this is a test'
-    })
-    console.log(resp);
+    const response = await fetch(ENDPOINT);
+    const { body } = await response.json();
+    const { teamName, productName, featureName } = parse(body);
+    let titleInfo = `Completed: Kickoff - ${teamName} - ${productName}`;
+    if (productName !== featureName && featureName) {
+      titleInfo = `${titleInfo}/${featureName}`
+    }
+    console.log(`echo "{titleInfo}=${titleInfo}" >> $GITHUB_OUTPUT`);
   } catch (error) {
-    console.log('ticket failed to create:', error);
+    process.exitCode = 1;
   }
 }
 
-createTicket();
+getTeamInfo();
