@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 11/1/2023 - 11/14/2023  -------------- FUTURE / TENTATIVE ---------------
+## 11/1/2023 - 11/14/2023  
 #### SPRINT GOALS
  - **GOAL: Ongoing Production Support**
  - **GOAL: Comply with the ATO**
@@ -76,7 +76,6 @@ ________________________________________________________________________________
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
        - 🟥[[SPIKE] [UX] Determine if we're ready to update font styles, icons and color palette](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68602)
 
--------------- END FUTURE / TENTATIVE ---------------
 __________________________________________________________________________________________________________________________________________________________
 
 ## 10/18/2023 - 10/31/2023  
