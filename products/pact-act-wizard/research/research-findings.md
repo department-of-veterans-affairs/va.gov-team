@@ -469,11 +469,16 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
   
 </details>
 
-
 <details>
-  <summary>Static results pages (Click to show screenshots)</summary>
+  <summary>Static "VA benefit eligibility" results page (Click to show screenshot)</summary>
 
   ![results--benefit-eligibility](./images/results--benefit-eligibility.png)
+      
+</details>
+
+<details>
+  <summary>Static "Camp Lejeune" results page (Click to show screenshot)</summary>
+
   ![results--lejeune](./images/results--lejeune.png)
      
 </details>
