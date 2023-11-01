@@ -22,21 +22,26 @@
 <details>
 
 - Project epic [#57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
-- [10-10EZR Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/10-10EZR%20Product%20Brief%20(standalone%20form).md)
+- [10-10EZR Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
 - [Sketch Wireframes](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/p/E00D429A-2608-489A-BB55-4A53C6FA6317/canvas)
 - [User flows](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/p/2243222A-201E-413F-8CC2-8A8C237726DC/canvas)
 - [Initial Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-plan.md) 
 - [Initial Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/conversation-guide.md)
-- Secondary Usability Research Plan
-- Secondary Usability Conversation Guide
-- [North Star and KPIs for the product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities#measuring-success)
+- [Pre-launch Usability Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-11-EZR%20MVP%20UAT/research-plan.md)
+- [Pre-launch Usability Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-11-EZR%20MVP%20UAT/conversation-guide.md)
+- [Post-launch Usability Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-12-EZR%20MVP%20Usability/research-plan.md)
+- [Post-launch Usability Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-12-EZR%20MVP%20Usability/conversation-guide.md)
+- [North Star and KPIs for the product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/10-10EZR%20Product%20Brief%20(standalone%20form).md#measuring-success)
 - Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
-     - TBD
+     - [EZR Intro page](https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
+     - [List of all URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/10-10EZR%20URLs%20for%20MVP.md)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZR-Update-health-care-benefits.md)
-- [Finalized design](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/p/34F1F294-5E1D-46C1-ADE6-AC6C398E2130/canvas)
+- [Finalized design](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22)
 - [CAIA Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64095)
 - [Content brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/10-10EZR%20Form)
+- [IA tracker ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65919)
+- [IA Design document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/10-10ezr-online-form.md)
 - Regression test plans
 - TestRail 
      - [Test cases](https://dsvavsp.testrail.io/index.php?/suites/view/11&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
@@ -46,7 +51,7 @@
 - Technical diagrams (architecture diagram, sequence diagram)
 - Any new publicly-exposed endpoints
 - Any new interactions with dependent VA backends
-- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/EZ(R)%20Update%20Capabilities/EZR%20Release%20Plan.md)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/EZR%20Release%20Plan.md)
 - [Product guide for contact center](https://docs.google.com/document/d/1ZKmQZYKdBe_4tJoGbERlB7ElRYrDNNO4/edit#heading=h.gjdgxs) - **UPDATE THIS LINK WHEN IN GH**
 
 </details>
@@ -85,25 +90,25 @@
 - [x] **Request CAIA (Content, Accessibility & IA) review - Kickoff 9/12/23 at 4p ET**
 - [x] Finalize design with feedback
      - [x] Present to team, stakeholders and any other interested parties
-- [ ] Create Usability Research Plan and Conversation Guide
-- [ ] Create working functionality in Staging environment
+- [x] Create Usability Research Plan and Conversation Guide
+- [x] Create working functionality in Staging environment
      - [x] The team can determine the best path, used for research
-- [ ] Complete development
-     - [ ] Engineers work with Designers on any questions/clarifications
-- [ ] **Schedule [Midpoint Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67225) - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] Complete development
+     - [x] Engineers work with Designers on any questions/clarifications
+- [x] **Schedule [Midpoint Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67225) - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Schedule research sessions with Perigean
 - [ ] Conduct research sessions
      - [ ] Synthesize research findings
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets/changes for design
-- [ ] **Create Use Cases**
-     - [ ] **Identify test users**
+- [x] **Create Use Cases**
+     - [x] **Identify test users**
 - [x] **Create Release Plan**
 - [ ] **[Engage downstream system team for End-to-End QA coordination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67230)**
      - [ ] **Create E2E use cases and document results**
      - [ ] **Obtain signoff from downstream system team**
-- [ ] **Request [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67224) - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] **Request [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67224) - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] [Complete QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67228) and [Accessibility QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67229)
      - [ ] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
      - [ ] [Accessbility QA ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
