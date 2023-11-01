@@ -37,7 +37,7 @@ jobs:
 
       - name: testing2
         run: |
-          echo ${{ env.TITLE }}
+          echo "${{ runner.workspace }}/.github/workflows/issue_title.txt"
 
       # - name: Create issue using REST API
       #   run: |
