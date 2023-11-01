@@ -13,7 +13,7 @@ With the ability to return disability ratings, the VA Chatbot is better able to 
 - [Research and Planning Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692714662160/65cd0e029557557cac7611e19e9f49072e4e6e93?sender=u128ace76076cef940d047429)
 - [Sketch File w/ Mockups](https://www.sketch.com/s/b5a58a23-6128-421b-9869-50bad5b2686f)
 - [Kickoff Slide Deck](https://dvagov.sharepoint.com/:p:/r/sites/OmnichannelExperience/_layouts/15/Doc.aspx?sourcedoc=%7B117CB9B9-E779-431D-89CD-6ED685E1D6A4%7D&file=Disability%20Ratings%20Kickoff.pptx&action=edit&mobileredirect=true)
-- [Tech Spike Card](https://app.zenhub.com/workspaces/va-virtual-agent-6011826e423fcf000eb231cb/issues/gh/department-of-veterans-affairs/va-virtual-agent/1154)
+- [Tech Spike Github Card](https://app.zenhub.com/workspaces/va-virtual-agent-6011826e423fcf000eb231cb/issues/gh/department-of-veterans-affairs/va-virtual-agent/1154)
 
 ## Problem 
 > What is the problem and who is affected? 
