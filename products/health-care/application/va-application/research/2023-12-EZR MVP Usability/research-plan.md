@@ -156,9 +156,12 @@ Our intended audience for this research are Veterans and we will be using and le
 
 
 ## Timeline
+December
+
+Perigean kickoff requested
+Preferred date/time: TBD 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: TBD
@@ -166,6 +169,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 * Planned dates of research: **TBD - December 7 - December 19**
+
+
+
 
 ### Length of sessions
 * Session length: 1 hour
