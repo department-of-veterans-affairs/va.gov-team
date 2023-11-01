@@ -16,7 +16,7 @@
 - [ ] We will spin off our tickets within that Epic ticket:
     - [ ] Content
     - [ ] IA
-    - [ ] Accessibility
+    - [ ] Accessibility - **Research with AT will take place Dec. 2023 or Jan.2024**
 
 ## Meeting Action Items 🎬
 - [ ] Action Item 1
