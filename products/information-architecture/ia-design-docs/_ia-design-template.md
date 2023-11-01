@@ -64,10 +64,10 @@ Current URL | Redirect to | Notes
  |  | 
  
 
-
+## <a name="bestbets"></a>Best Bets <br>
+*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.*
 
 
 <hr>
 <hr>
 
-## <a name="bestbets"></a>Best Bets
