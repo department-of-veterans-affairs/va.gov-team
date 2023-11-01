@@ -82,7 +82,7 @@ These learnings will allow us to evaluate for additional gaps during the rollout
 ### Research materials
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-12-EZR%20MVP%20UAT/conversation-guide.md)
-- [Link to production](url goes here) - will test with form behind feature flag via participants email
+- [Link to production form intro page](https://va.gov/my-health/update-benefits-information-form-10-10ezr) - will test in production behind feature flag via participants email
 - [Link to recruitment ticket]() TBD
 
 ## Recruitment	
