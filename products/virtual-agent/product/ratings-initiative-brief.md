@@ -98,9 +98,9 @@ Provide VA Chatbot users with personalized experience in regards to their presri
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints**: Will there be a positive organizational impact?:
-  - Yes, usability testing indicates that Veterans are interested in expansion of Chatbot features. 
-  - Yes, examination of chatbot transcripts indicates Veterans are looking for ratings information. 
-  - Yes, VA Chatbot is already consistent with other channels at the VA.
+  - Usability testing indicates that Veterans are interested in expansion of Chatbot features. 
+  - Examination of chatbot transcripts indicates Veterans are looking for ratings information. 
+  - VA Chatbot is already consistent with other channels at the VA.
 
 ### What're you building
 > *What's in scope for you to build with this initiative? (Describe key features/flows) 
