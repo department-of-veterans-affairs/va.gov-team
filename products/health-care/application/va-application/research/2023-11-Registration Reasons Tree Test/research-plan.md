@@ -4,7 +4,7 @@
 
 The paper form allows for Veterans to self-select the health care benefit type they want to apply for - Enrollment or Registration. On the backend in VES (Veteran Enrollment System), each person has a status and some can be Registration Only with a registration reason. 
 
-The concept of registration and enrollment, if they are steps in the process or the same thing, was found to be confusing during the initial generative research with Veterans. Choosing between these labels did not align with the Veteran's mental model of going about health care eligibility and application process.
+The concept of registration and enrollment, if they are steps in the process or the same thing, was found to be confusing during the initial generative research with Veterans. Choosing between these labels did not align with the Veteran's mental model of going about health care eligibility and the application process.
 
 - [Link to generative mental model study folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration)
 
