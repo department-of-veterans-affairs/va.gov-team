@@ -1,4 +1,4 @@
-# Initiative Brief - 10-10EZR - MVP - building the form online
+# Initiative Brief - 10-10EZR - MVP - Standalone form
 - [10-10EZR MVP epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
 
 ## Outcome Summary - 
