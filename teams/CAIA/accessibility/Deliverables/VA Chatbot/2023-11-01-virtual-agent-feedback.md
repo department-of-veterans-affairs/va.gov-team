@@ -20,6 +20,8 @@ Martha Wilkes, VA PO adds:
 
 We're worried about gaps on mobile. CAIA isn't currently able to test on mobile, but Martha feels that the prescription skill of the chatbot has a high enough impact that we need to understand how it works on mobile before launch.
 
+Per the Blinded Veterans Association, many Veterans are given iPhones and/or iPads to use as their primary devices.
+
 ## Skipping messages
 
 We will divide this feedback into multiple parts: 
