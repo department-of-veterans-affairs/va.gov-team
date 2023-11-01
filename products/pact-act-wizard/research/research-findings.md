@@ -197,7 +197,7 @@ The only participant who saw the question above (so 100% of those who saw it) as
 Another participant also wanted to see a map that showed the geographical areas of the locations listed in the question.
 
 #### RECOMMENDATION: 
-5. Consider how we might continue to learn about any confusion or ambiguity around locations in questions and if adjustments for clarity are needed.
+4. Consider how we might continue to learn about any confusion or ambiguity around locations in questions and if adjustments for clarity are needed.
 
 ### 3. Some participants had interaction challenges on the *You may be eligible* results pages 
 
@@ -224,7 +224,7 @@ One participant **expected to be asked when and where he served**, but that's no
 One participant **wanted to see what the specific presumptive conditions are**, which aren't on the page. More specifically, they wanted to know what conditions are covered for which location(s) in what timeframe.
 
 #### RECOMMENDATION:
-7. Consider how we might indicate where to find the list of presumptive conditions while reading the definition presumptive conditions on the *You may be eligible* results page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
+5. Consider how we might indicate where to find the list of presumptive conditions while reading the definition presumptive conditions on the *You may be eligible* results page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
 
 #### User feedback on the "Apply for VA benefits now" results page
 **Three participants read the 2 jump links at the top of the page as CTA's** (calls to action) and puzzled over which one to select because there wasn't any explanatory text around them. The links said *File a  claim for disability compensation* and *Apply for VA health care*. One of the 3 people scrolled down the page and noticed that they matched the headers on the page, and so guessed that they were jump links to the headers. The other 2 people figured it out when they clicked on one of them and remained on the same page.
@@ -248,9 +248,9 @@ I've heard horror stories, people trying to get claims and the time investment t
 
 
 #### RECOMMENDATIONS:
-11. Consider where to share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
+9. Consider where to share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
 1. Consider where to share this finding *(Laura Flannery? other accessibility specialists?*): One participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[Laura hasn't heard this feedback before, but this is a new approach that hasn't been tested before.]*
-8. *(#8 in the Recommendations section)* Consider how we might better support people who already get VA disability compensation and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
+1. *(#6 in the Recommendations section)* Consider how we might better support people who already get VA disability compensation and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
 
 ### 4. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which may be *incorrect*
 
@@ -271,11 +271,11 @@ Another participant heard that you **could be eligible for PACT Act benefits by 
 > *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
 
 #### RECOMMENDATIONS: 
-9. Consider if and how we might address participants' questions and concerns about eligibility for benefits under the PACT Act, including sharing our findings with communications, outreach, and burn pit registry colleagues:  
+7. Consider if and how we might address participants' questions and concerns about eligibility for benefits under the PACT Act, including sharing our findings with communications, outreach, and burn pit registry colleagues:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
      1. Whether you must have a disability in order to get compensation *vs.* were just in a specific location
      1. Whether the burn pit registry notifies you about PACT Act eligibility
-13. *(#13 in the Recommendations section)* Consider if/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits. 
+13. *(#11 in the Recommendations section)* Consider if/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits. 
 
 ### 5. Participants shared their feedback and questions about how and when to apply for PACT Act benefits  
 The following is feedback that we received from individual participants about applying for PACT Act benefits. 
@@ -309,14 +309,14 @@ One participant **would have tried to convince his dad to apply** for benefits u
 > *"If Dad were still alive today, I would have tried to convince him to have gone through this...We all know that when those guys came back [from Vietnam], they were treated like dirt...and he didn't want anything to do with the military...The VA today and the way the PACT Act is worded, I think if he was alive today, he would have been convinced after a lot of talking to apply...Thank goodness that today we are recognizing what those guys went through" (p4).*
 
 #### RECOMMENDATIONS:
-15. Consider if/how we might communicate about future deadlines, given that one participant thought they wouldn't be able to apply for benefits at all after the Sept. 30 deadline. 
-9. *(#10 in the Recommendations section)* Consider how we might address participants' questions and concerns about applying for benefits under the PACT Act:
+13. Consider if/how we might communicate about future deadlines, given that one participant thought they wouldn't be able to apply for benefits at all after the Sept. 30 deadline. 
+1. *(#8 in the Recommendations section)* Consider how we might address participants' questions and concerns about applying for benefits under the PACT Act:
      1. Are PACT Act benefits different from regular disability compensation?   
      1. Should I include conditions that aren't presumptive? 
      1. Might the list of presumptive conditions change in the future? 
      1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying?
      1. How to handle CRSC and PACT benefits together
-14. *(#14 in the Recommendations section)* Consider if/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
+1. *(#124 in the Recommendations section)* Consider if/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
  
 
 ## Additional Insights
