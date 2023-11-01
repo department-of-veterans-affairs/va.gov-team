@@ -1,3 +1,4 @@
+const fs = require("fs");
 const fetch = require('node-fetch');
 
 const {
@@ -31,7 +32,7 @@ async function getTeamInfo() {
     if (productName !== featureName && featureName) {
       titleInfo = `${titleInfo}/${featureName}`
     }
-    console.log(`TITLE_INFO=${titleInfo} >> $GITHUB_ENV`);
+    fs.writeFileSync("issue_title.txt", titleInfo)
   } catch (error) {
     process.exitCode = 1;
   }

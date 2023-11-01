@@ -33,7 +33,11 @@ jobs:
       
       - name: testing
         run: |
-          echo "$TITLE_INFO"
+          echo "TITLE=$(cat issue_title.txt)" >> $GITHUB_ENV
+
+      - name: testing2
+        run: |
+          echo ${{env.TITLE}}
 
       # - name: Create issue using REST API
       #   run: |
