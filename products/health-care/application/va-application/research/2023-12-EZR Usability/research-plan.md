@@ -143,7 +143,7 @@ Our intended audience for this research are Veterans and we will be using and le
 
 ### Cohort 1:
 **All participants**
-- Do you have a VA service-connected disability rating of 30% or higher?
+- Do you have a VA service-connected disability rating of 50% or higher?
     - Yes *(Qualify)*
     - No *(Disqualify)*
 
@@ -156,7 +156,7 @@ Our intended audience for this research are Veterans and we will be using and le
 
 
 ## Timeline
-December
+December or January
 
 Perigean kickoff requested
 Preferred date/time: TBD 
@@ -168,7 +168,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research: **TBD - December 7 - December 19**
+* Planned dates of research: **TBD**
 
 
 
@@ -182,15 +182,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
-| December 7, 2023    	|  11am - 6pm ET 	|
-| December 8, 2023   	|  11am - 6pm ET 	|
-| December 9, 2023   	|  11am - 6pm ET 	|
-| December 10, 2023   	|  10am - 6pm ET 	|
-| December 13, 2023   	|  10am - 6pm ET 	|
-| December 14, 2023   	|  11am - 6pm ET 	|
-| December 15, 2023   	|  11am - 6pm ET 	|
-| December 18, 2023   	|  11am - 6pm ET 	|
-| December 19, 2023   	|  11am - 6pm ET 	|
+| TBD   	|  11am - 6pm ET 	|
+
 
 
 ## Team Roles	
