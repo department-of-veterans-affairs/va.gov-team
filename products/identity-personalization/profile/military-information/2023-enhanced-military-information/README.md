@@ -114,7 +114,7 @@ We should use the DD214 and ILER as starting points for this project, but we sho
 </details>
 
 ### Where do we start?  
-Broadly, expansion of the military information available on VA.gov will focus on the broad items below:
+Expansion of the military information available on VA.gov will focus on the categories below:
 - Integrating additional military data into VA.gov
 - Linking to ILER Records
 - Allowing for edits/updates to ILER records
