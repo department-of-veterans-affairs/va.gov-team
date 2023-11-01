@@ -24,6 +24,7 @@
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
+- [Product Goals](#product-goals)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
@@ -37,7 +38,7 @@
 
 The VA.gov profile team has been asked to enhance the military history section of the profile to aid veterans when applying for benefits, with specific emphasis on disability claims. 
 
-This project needs to meet legislative requirements by giving veterans view access to their Individual Longitudinal Exposure Record (ILER) record, but it should not stop there. From a veteran’s experience perspective, the Veteran Experience Office (VEO), the Vetern Benefits Administration (VBA), and the Office of General Counsel (OGC) have recommended making [data points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#integrate-the-following-data-into-vagov) from veteran’s military records more accessible online with a focus on data used to apply for benefits. More specifically, VEO/VBA/OGC have arrived at a list of 8 key data elements found within veteran’s military records that, in this project, we are tasked with exposing. 
+This initiative needs to meet legislative requirements by giving veterans view access to their Individual Longitudinal Exposure Record (ILER) record, but it should not stop there. From a veteran’s experience perspective, the Veteran Experience Office (VEO), the Vetern Benefits Administration (VBA), and the Office of General Counsel (OGC) have recommended making [data points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#integrate-the-following-data-into-vagov) from veteran’s military records more accessible online with a focus on data used to apply for benefits. More specifically, VEO/VBA/OGC have arrived at a list of 8 key data elements found within veteran’s military records that, in this project, we are tasked with exposing. 
 
 To start we should focus on **read only** access to those data elements and to ILER. As VBA/VHA/VEO/OGC/DoD progress their conversations around the legislation we can then shift focus to update access for ILER data (ie. Section 803). 
 
@@ -50,6 +51,13 @@ To start we should focus on **read only** access to those data elements and to I
 - [Paper form](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
 - [Form on VA.gov staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
   - Access with user 15 or 68
+
+## Background Details 
+
+This section contains a lot of information that provides context to the broader initiative
+
+<details>
+     <summary>Details</summary>
 
 ### Legislative mandates
 
@@ -110,6 +118,7 @@ Making the DD214 available online has been proposed and rejected due to the poin
 
 We should use the DD214 and ILER as starting points for this project, but we should not fixate on them. Our current understanding is veterans are using data in these documents to help them in applying for benefits (claims). VEO in conjunction with OGC have highlighted 8 key data elements from the military record that we should expose. As part of this project, we will focus on how to organize those data elements in a way that makes the data most useful to veterans with special attention to how the data can be used when applying for benefits. It will be critical to consider any data elements that may be missing. 
 
+</details>
 
 #### Integrate the following data into VA.gov
 
@@ -151,6 +160,10 @@ VA leadership is not clear on how exactly to make this possible and they’re st
 
 - As a Veteran, I want to see what information VA has about my military history, and to be able to correct it if it is inaccurate.
 - As a Veteran, I want to know if I served in an area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
+
+## Product Goals 
+
+
 
 ## User Outcomes
 
