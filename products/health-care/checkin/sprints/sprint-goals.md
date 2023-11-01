@@ -55,10 +55,7 @@ ________________________________________________________________________________
       - 🟥[[UX][Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65418) ROLLOVER
       - 🟥[[UX][Design] Complete Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67164) ROLLOVER
       - 🟥[[Content] [UX] Draft email template for file a BT claim notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68851)
-- **GOAL: Increase usage of Pre-Check-in & Check-in**   
-    - **Sub Goal: Allow Veterans to Check-in from the Mobile App**
-        - **EPIC: [Check-in from Mobile App: Phase 1 - API Work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56424)**            
-            - 🟦[[CHIP] [BE] POST mobile_check_ins_demographics accepts invalid key in demographic_confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65015)            
+- **GOAL: Increase usage of Pre-Check-in & Check-in**         
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
             - ❗ 🟦 [[BE] Cache setECheckInCalled to log metrics for 45-minute Text reminder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68333) ROLLOVER
