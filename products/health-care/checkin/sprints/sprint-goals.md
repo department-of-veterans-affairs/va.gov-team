@@ -104,6 +104,7 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goals: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
        - ⛔ 🟩  [[FE] Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423)
+       - Enabled 657GB GA + some of 657 
    - **Sub Goal: [File any Claim Type for a Past Appointment - Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
        - ✔️ ❗🟥[[UX] Wireframe UI solution for communication of BT claim statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66762) ROLLOVER
        - ✔️ ❗🟥[[UX][Content] Create Content for Claim Status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67165)
