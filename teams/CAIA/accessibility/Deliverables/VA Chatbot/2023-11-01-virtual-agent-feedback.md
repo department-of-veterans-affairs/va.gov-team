@@ -14,7 +14,7 @@ From the W3C page:
 
 > There may be support gaps in some browser and assistive technology combinations, especially for mobile/touch devices. Testing code based on this example with assistive technologies is essential before considering use in production systems.
 
-If you do decide to move forward following the layout grid pattern we are curious to know more about why this necessitates unique keyboard controls, different than the defaults in the browser? We aren't saying that you shouldn't do this, but we would like to understand why this choice has been made since it pretty significantly deviates from user expectations.
+If you do decide to move forward following the layout grid pattern we are curious to know more about why this necessitates unique keyboard controls, different than the defaults in the browser. We aren't saying that you shouldn't do this, but we would like to understand why this choice has been made since it pretty significantly deviates from user expectations.
 
 Martha Wilkes, VA PO adds: 
 
