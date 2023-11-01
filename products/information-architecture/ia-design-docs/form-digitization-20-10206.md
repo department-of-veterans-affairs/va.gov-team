@@ -81,7 +81,7 @@ User flows | Your content or feature supports all necessary user flows and scena
   - Link destination: 
   - Notes:
 
-7. **[VA claim exam (C&P exam)](https://www.va.gov/disability/va-claim-exam/)**
+7. **[VA claim exam (C&P exam)](https://www.va.gov/disability/va-claim-exam/)** - Add
   - Placement description: 
   - Link label: TBD by Sitewide Content
   - Link destination: 
