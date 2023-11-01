@@ -47,4 +47,4 @@ This update has introduced a few items we'd like to flag:
 
 ## Next steps
 
-CAIA is happy to continue to support ya'll as you see fit. If you would like, 1 or more CAIA accessibility specialists are available to embed briefly with your team for more direct feedback.
+CAIA is happy to continue to support ya'll as you see fit. We recommend that 1 or more CAIA accessibility specialists embed with your team for a short time to provide more direct assistance with tasks like testing and design feedback.
