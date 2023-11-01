@@ -1,14 +1,14 @@
-# CAIA Kickoff: [Team Name Goes Here]
+# CAIA Kickoff: Verify Your Emrollment VYE
 ## Meeting Details
-- **Date**: [Day], [Month] [Date], [Year]
-- **Time**: [00:00] – [00:00] [a.m./p.m.] [Timezone]
-- [Zoom Link](x)
+- **Date**: Wednesday, Nov. 1, 2023
+- **Time**: 12:15 p.m. Eastern
+- [Zoom Link](https://us02web.zoom.us/j/85299406660?pwd=SURPbzNOeE84WEt3RElibFRQSWxmZz09)
 - [Google Doc Version](x) (Access Required)
 - [Microsoft Word Version](x)
 
 ## Starting the CAIA Process
 ### Process Initiated
-- [ ] Intake Request - this forms the basis of our partnerships with you and becomes an Epic.
+- [x] [Intake Request #68205](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68205) - this forms the basis of our partnerships with you and becomes an Epic.
 - [ ] We will spin off our tickets within that Epic ticket:
     - [ ] Content
     - [ ] IA
@@ -23,9 +23,9 @@
 
 
 ## Resources 🔗
-- **[xx/xx/20xx] Opened Collaboration Cycle Ticket: **
-- [ ] Collaboration Cycle Ticket [#NumberLinked] - if applicable
-    - [ ] Design Intent ticket (TBD - as of Kickoff Meeting)
+- **[10/12/2023] Opened Collaboration Cycle Ticket: **
+- [x] Collaboration Cycle Ticket [#67530](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67530) - if applicable
+    - [x] Design Intent ticket (10/19/2023)
     - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
 
@@ -37,11 +37,12 @@
 
 ## Assets
 - [Product outline](x)
-- [User flows](x)
+- User flows: There is only one page.
 - [Wireframes](x)
-- [Prototype](x)
-- [Other Items](x)
-
+- [Prototype V1 VYE Wireframe](https://www.sketch.com/s/0c023f07-db31-4bba-9c92-1f70343f060f)
+- Other Items:
+    - Content source of truth: VYE Team and EDU Business Line (VRE)
+    - Research plan: TBD
 
 ## Meet the Teams
 ### Kickoff Team Partner
