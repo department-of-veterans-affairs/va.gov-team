@@ -173,7 +173,11 @@ We will use Perigean to recruit participants into cohorts needed for an unmodera
 
 
 ## Timeline
-November November TBD, 2023
+November November, 2023
+
+Kickoff call requested
+Preferred date/time: TBD
+
 
 ### Prepare
 
@@ -185,7 +189,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Planned dates of research: November ##-## 2023
 
 ### Length of sessions
-* Session length: Unmoderated, 30 minutes or less
+* Session length: Unmoderated, 30 minutes
 * Buffer time between sessions: N/A 
 * Maximum Sessions per day: N/A
 
