@@ -25,11 +25,11 @@ This research fits into these points of a Veteran's Journey:
 
 ## **Research Goals**
 
-1. Understand if design updates made to the following areas improves Veterans' experience with managing their medications:
+1. Understand if design updates made to the following areas improve Veterans' experience with managing their medications:
     1. Fill/refill medications
     2. Status of medications
     3. Medication management
-  4. Other content updates
+    4. Other content updates
 2. Identify any usability issues Veterans may experience with managing their medications.
 3. Identify any barriers that may prevent Veterans who use screen-readers and text-magnifiers from completing their Medication management goals.
 4. Identify any barriers that may prevent Veterans who have mild to severe Cognitive Disabilities from completing their Medication management goals.
