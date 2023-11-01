@@ -37,7 +37,7 @@ Booked appointments through VA or CC facilities.
 | [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  | Yes |
 | [VA Phone](./appointment-types/va-phone.md) |  Scheduled telehealth appointments that a Veteran joins over the phone. | Yes |
 | [Community care](./appointment-types/community-care.md) |  Scheduled appointment that a Veteran joins at a community care provider | Yes | 
-| [Claim exam appointment]() | Scheduled appointment for a claim exam | Yes |
+| [Claim exam appointment](./appointment-types/claim-exam.md) | Scheduled appointment for a claim exam | Yes |
 
 ### Request details views
 Appointments that Veterans have requested but VA has not booked.

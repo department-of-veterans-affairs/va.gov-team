@@ -18,6 +18,7 @@ A scheduled telehealth appointment that the Veteran joins over the phone.
 - Follows [requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements).
 - Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
 - User can review data and complete actions noted in the following table:
+
 | Data and actions                                           | Upcoming | Past | Canceled |
 | ---------------------------------------------------------- | -------- | ---- | -------- |
 | Appointment Date and Time                                  | ✅        | ✅    | ✅        |

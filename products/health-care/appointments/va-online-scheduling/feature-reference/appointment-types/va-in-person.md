@@ -18,9 +18,8 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 - Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
 - User can review data and complete actions noted in the following table:
 
-| VA In Person                                               |           |          |      |          |
-| ---------------------------------------------------------- | --------- | -------- | ---- | -------- |
 | Data and actions                                           | Confirmed | Upcoming | Past | Canceled |
+| ---------------------------------------------------------- | --------- | -------- | ---- | -------- |
 | Appointment Date and Time                                  | ✅         | ✅        | ✅    | ✅        |
 | Status: Confirmed                                          | ✅         |          |      |          |
 | Status: Past                                               |           |          | ✅    |          |

@@ -27,7 +27,7 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
   - `Resources Mailed to Patient`
   - `Signup for My HealtheVet  Message`
 
-  - User can review data and complete actions noted in the following table:
+- User can review data and complete actions noted in the following table:
 
 | Data and actions                                           | Upcoming | Past | Canceled |
 | ---------------------------------------------------------- | -------- | ---- | -------- |
