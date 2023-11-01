@@ -24,7 +24,7 @@ Date: 11/1/2023
 <br>
 
 ## Research Goals
-The PACT Act Wizard is an i**nteractive question-and-answer flow to help Veterans understand how the PACT Act may apply to them**. 
+The PACT Act Wizard is an **interactive question-and-answer flow to help Veterans understand how the PACT Act may apply to them**. 
 
 There are many potential touchpoints between the Veteran and this application throughout the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
 - Getting out (Engaging VA to access benefits and services)
