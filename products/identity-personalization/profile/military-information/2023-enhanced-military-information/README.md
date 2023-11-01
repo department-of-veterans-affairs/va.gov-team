@@ -24,7 +24,7 @@
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
-- [Product Goals](#product/initiative-goals)
+- [Product/Initiative Goals](#productinitiative-goals)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
