@@ -75,17 +75,22 @@ o	View the Rate your experience feedback mechanism
 
 o	Select feedback options and explain.
 
+Can you walk us through how you are actually using the feedback mechanism and your daily experience? [Probe: Would you say that the process resulted in a positive, negative, or neutral experience? Can you elaborate?] 
+ 
+
 Where would you go to give feedback on your experience of signing in to VA.gov? 
 
 ### Things to watch for:
 - [Does the participant notice the rate your experience feedback  mechanism on the page?]
 
 1. You want to rate the sign-in to VA.gov page. Without clicking/typing anything, please describe where you would go on the screen to rate this page. 
-2. I want to direct your attention to the “Rate your experience” feedback mechanism at the bottom of this page. Without clicking/typing anything, please describe what you think will happen if you click the “good” or “bad” button.
-3.  In what instances would you use the “Good” button? Why? 
-4.  In what instances would you use the “Bad” button? Why?
-5.  In what instances might you report a problem on the page? Why?
+2. I want to direct your attention to the “Rate your experience” feedback mechanism near the bottom of this page. Without clicking/typing anything, please describe what you think will happen if you click the "Yes, it was helpful” or “No, it was not helpful” button.
+3.  In what instances would you use the “Yes, it was helpful” button? Why? 
+4.  In what instances would you use the “No, it was not helpful” button? Why?
+5.  In what instances might you want to add more information about your experience on the page on the page? Why?
+6.  When asked if you want to add more information what do you expect to see? Why?
 
+ 
 
 
 ##  What→ Bad Response/Ideal Responses/Enhancements/Hesitation for the feedback mechanism 
@@ -99,11 +104,19 @@ Imagine you want to provide more details about your experience on the page. In w
 
 ### Things to watch for:
 
-- [What does the participant expect after submitting feedback?]
+- [What does the participant expect after submitting that the problem is on the page ?]
 
-1. 	Please describe if the responses on the form reflect the information you would like to share. What information would you want to add or remove from the form and why?
-   
-2. 	In what instances would you use the  "Written response option? Why? 
+1.  How do you imagine sharing more details? Why?
+2.  When you see the success what do you expect next?Are you onfused looking at the success message on this screen? if so,  why ?
+3.  If the problem is not on the page itself, why would you or would you not continue to provide feedback. Why? 
+4. 	Please describe if the responses on the form reflect the information you would like to share. What information would you want to add or remove from the form and why?
+5. 	In what instances would you expect to use a  "Written response option? Why?
+6. 	In general, how do you feel about the rate tool is working for you?   Do you feel that the rate tool is serving its purpose?  Can you elaborate on your thoughts regarding the rate tool? [Probe: What worked well and what did not? What process or issue changed their userflow? What would make it better?]
+7. 	How frequent or infrequent would you engage with and use this feedback mechanism?  what in the process causes you use it or engage with it, and why?
+8. 	 Do you think providing this type of feedback is effective? If so, why or why not?
+9. 	 On average how long will you spend providing feedback? 
+
+
 
 
 ## Consent to use video clips
