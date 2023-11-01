@@ -31,7 +31,7 @@ We will divide this feedback into multiple parts:
 
 Cursory testing shows that this issue is potentially limited to VoiceOver. That being said, we feel it should still be addressed since VoiceOver users make up a substantial population of assistive tech users who will interact with this feature and product.
 
-We also haven't able to test this on mobile, but it is worth asking what Android TalkBack does here, too.
+We also haven't been able to test this on mobile, but it is worth asking what Android TalkBack does here, too.
 
 ### Delayed message update
 
