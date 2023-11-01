@@ -1,5 +1,5 @@
 # IA Design for Privacy Act Form 20-10206
-**STATUS: [In progress/In review/Complete]**
+**STATUS: In progress**
 
 **Team:** Veteran facing forms
 
