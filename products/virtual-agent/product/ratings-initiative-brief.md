@@ -164,7 +164,8 @@ Provide VA Chatbot users with personalized experience in regards to their presri
 - **Team Name:** VA Chatbot
 - **GitHub Label(s):** va-virtual-agent
 - **Slack channel:** #virtual-agent-public
-- **Product POCs:** Ryan Powers, Nathalie Rayter
+- **Product POCs:** Nathalie Rayter, Joy Elizabeth
+- **Initiative POC:** Ryan Powers
 
 
 #### Stakeholders
