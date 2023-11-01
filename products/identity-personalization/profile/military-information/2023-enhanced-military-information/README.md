@@ -269,7 +269,7 @@ We'll support some kind of edit access/process (ideas that are not finalized by 
 
 - September 2023: Initial discussions; project kickoff
 - September-October 2023: Discovery
-- October 2023: Design
+- October 2023: Started collaborating with the 526 team; Decided on our MVP approach; Produced initial designs
 - November-December 2023: Build
 
 ## Key decisions
