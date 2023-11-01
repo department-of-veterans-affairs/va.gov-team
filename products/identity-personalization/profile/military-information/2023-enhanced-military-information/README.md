@@ -1,6 +1,6 @@
 # Initiative outline: Enhanced Military Information
 
-**Updated 10/24/2023: Added links to 526EZ**
+**Updated 11/1/2023: Added product/initiative goals and restructured/collapsed some sections to reduce the length**
 
 ### Communications
 
