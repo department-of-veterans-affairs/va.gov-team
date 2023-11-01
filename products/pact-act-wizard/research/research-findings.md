@@ -479,7 +479,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 </details>
 
 <details>
-  <summary>Interactive "You may be eligible" results page (Click to show screenshots)</summary>
+  <summary>Interactive "You may be eligible" results page (Click to show screenshot)</summary>
 
   ![Results-R1-1-top](./images/Results-R1-1-top.png)
   ![Results-R1-1-bottom](./images/Results-R1-1-bottom.png)
@@ -487,7 +487,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 </details>
 
 <details>
-  <summary>Interactive "Apply for VA benefits now" results page (Click to show screenshots)</summary>
+  <summary>Interactive "Apply for VA benefits now" results page (Click to show screenshot)</summary>
 
   ![Results-R1-2-top](./images/Results-R1-2-top.png)
   ![Results-R1-2-mid](./images/Results-R1-2-mid.png)
@@ -496,7 +496,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 </details>
 
 <details>
-  <summary>"Apply for VA benefits now" results: Gulf War conditions open (Click to show screenshots)</summary>
+  <summary>"Apply for VA benefits now" results with Gulf War conditions open (Click to show screenshot)</summary>
 
   ![Results-R1-2-GulfWar-accordion-open](./images/Results-R1-2-GulfWar-accordion-open.png)
      
