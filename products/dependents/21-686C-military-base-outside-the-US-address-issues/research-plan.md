@@ -11,7 +11,7 @@ Briefly describe the background of your product. Consider:
 - Where is your product situated on VA.gov? Within 686c form flow to add or change dependents - specifically, any mailing address form that allows the Veteran to select the option of living outside of the U.S. on a military base.
 - This is an iteration of an existing tool.
 
-[Link to product brief]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/21-686C-military-base-outside-the-US-address-issues/initiative-brief.md).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/21-686C-military-base-outside-the-US-address-issues/initiative-brief.md).
 
 ### OCTO Priorities 
 
