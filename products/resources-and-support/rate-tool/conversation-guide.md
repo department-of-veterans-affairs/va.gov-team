@@ -64,8 +64,8 @@ Excellent. Thanks so much for your answers.
 
 Imagine you are having trouble logging in to VA.gov, so you searched the website on how to sign in and you landed on signing in to VA. gov on a resources and support page.Now let's imagine that you are unable to find the sign in information you were looking for. Before you leave the page, you want to ensure that you rate your experience for signing in to VA. gov on a resources and support page .Today, we’ll look at a concept for rating your experience when on a resources and support page for signing in on VA.gov.
 
-[Desktop](https://www.figma.com/file/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=23%3A2842&mode=design&t=4CJrjiVbW90jWh1M-1)
-[Mobile](https://www.figma.com/proto/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?page-id=83%3A1743&type=design&node-id=182-5100&viewport=1097%2C286%2C0.03&t=nqbxGBXKNBTo5igg-1&scaling=scale-down&starting-point-node-id=182%3A5100)
+[Desktop](https://www.figma.com/proto/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=589-2533&t=JSNRAMDtEta5JYwA-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=589%3A2533&show-proto-sidebar=1&mode=design)
+[Mobile](https://www.figma.com/proto/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=589-5247&t=v2HY1b4FQj85b0WG-1&scaling=scale-down&page-id=83%3A1743&starting-point-node-id=589%3A5247&show-proto-sidebar=1&mode=design)
  
 
 ## What → Resources and Support + Signing in to VA.gov 
