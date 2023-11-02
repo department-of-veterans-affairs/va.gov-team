@@ -217,14 +217,15 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 
 
 ### Complete Soon
-#### ISSUE ITEM NAME GOES HERE
-- Issue Description: 
-- Desired Outcome:
+#### WCAG 3.1 - make sure content is understandable
+- Issue Description: The word "Chapter" is decribing a step indicator. Because this is a step indicator users may not know what Chapter 2 of 4 may mean on.  "Chapter" was confusing. 
+- Desired Outcome: Consider testing "section" or "part" for clarity. Consider using percentages as well.
 - Experience standard:`Category #` `Issue #`
 - Defect:`Depends`
-- Impact Area: `A11y` `Content` and/or `IA`
+- Impact Area: A11y
 - Appears on: `Experience Standards` `WCAG` `Common Issues`
-- WCAG: `#.# Link to WCAG`
+- WCAG: 3.1
+ 
 ### Complete Later
 #### Finding 1: Stepper confusion & stage in the process
 - **Issue Description:** UI components do not initiate a change of context when they receive user input. The form screen changes, but the users sees they are on step 2 of 4, regardless.
