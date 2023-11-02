@@ -60,4 +60,5 @@ jobs:
 
       - name: Check output
         run: |
-          echo ${{ steps.create-completed-ticket.outputs.CREATED_TICKET }} | jq
+          number=$(echo ${{ steps.create-completed-ticket.outputs.CREATED_TICKET }} | jq '.number')
+          echo "-----> $number"
