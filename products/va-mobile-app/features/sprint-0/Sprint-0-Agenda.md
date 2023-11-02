@@ -17,6 +17,12 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
+* Screenshot Restriction
+    * prevent users from taking screenshots of sensitive info (personal info, banking info, health data)
+    * what are industry standards?
+    * where would we want to implement it in our app
+    * alternatives to screenshots - Print, generate PDF
+    * can it be turned off in OS settings?
 * After visit summary for appointments (Meko)
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
