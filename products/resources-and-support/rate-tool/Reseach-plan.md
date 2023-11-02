@@ -67,8 +67,8 @@ Zoom
 
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/rate-tool/conversation-guide.md)
-- [Desktop](https://www.figma.com/proto/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?page-id=0%3A1&type=design&node-id=121-1632&viewport=-131%2C1063%2C0.23&t=BQJ9kRzugzISzh2Q-1&scaling=min-zoom&starting-point-node-id=121%3A1632&show-proto-sidebar=1)
-  [Mobile](https://www.figma.com/proto/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?page-id=83%3A1743&type=design&node-id=182-5100&viewport=1097%2C286%2C0.03&t=nqbxGBXKNBTo5igg-1&scaling=scale-down&starting-point-node-id=182%3A5100&show-proto-sidebar=1)
+- [Desktop](https://www.figma.com/proto/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=589-2533&t=HssBUjXUpopiXDX7-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=589%3A2533&show-proto-sidebar=1&mode=design)
+  [Mobile](https://www.figma.com/proto/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=589-5247&t=v2HY1b4FQj85b0WG-1&scaling=scale-down&page-id=83%3A1743&starting-point-node-id=589%3A5247&show-proto-sidebar=1&mode=design)
 	
 ## Recruitment	
 
