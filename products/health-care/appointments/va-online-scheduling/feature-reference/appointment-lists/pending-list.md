@@ -28,7 +28,7 @@ As a Veteran, I want an overview of appointments I've requested to see if they h
   - DISPOSITIONED BY: SDESOITEAS,SRV
   - DISPOSITION: VET SELF-CANCEL        
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22894&t=jIup4zOCLhBYNOvO-4)
 

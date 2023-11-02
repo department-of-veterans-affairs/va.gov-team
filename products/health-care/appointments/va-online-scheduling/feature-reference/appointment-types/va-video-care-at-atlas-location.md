@@ -39,7 +39,7 @@ See [Connected Care: VA and ATLAS](https://connectedcare.va.gov/partners/atlas)
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 | Call to Reschedule Alert                                   | ✅        |      |
 
-## User interface design
+## Specifications
 
 **User flows**
 - [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)

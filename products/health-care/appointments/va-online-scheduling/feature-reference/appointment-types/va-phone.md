@@ -37,7 +37,7 @@ A scheduled telehealth appointment that the Veteran joins over the phone.
 | [Cancel Action](../tools/tool-cancel.md)                   | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 
-## User interface design
+## Specifications
 
 **User flows**
 - [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)

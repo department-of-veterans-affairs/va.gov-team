@@ -37,7 +37,7 @@ A scheduled telehealth appointment at a VA facility that the Veteran attends at 
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 | Call to Reschedule Alert                                   | ✅        |      |
 
-## User interface design
+## Specifications
 
 **User flows**
 - [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)

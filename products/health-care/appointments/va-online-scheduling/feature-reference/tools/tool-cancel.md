@@ -28,7 +28,7 @@ Veterans can cancel appointments through VAOS.
   - The original appointment request must be reopened in the VistA system if a VA appointment is cancelled in VAOS.  
 
 
-## User interface design
+## Specifications
 
 [User flow](Add link) 
 

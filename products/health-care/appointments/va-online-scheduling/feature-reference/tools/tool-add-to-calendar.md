@@ -14,7 +14,7 @@ Veterans can download an ICS file that lets them add an appointment to their cal
 - Each appointment must have a downloadable calendar invite.
 
 
-## User interface design
+## Specifications
 
 [User flow](Add link) 
 

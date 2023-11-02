@@ -32,8 +32,12 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 | Facility Phone Number                                      | ✅         | ✅        | ✅    | ✅        |
 | Reason For Appointment                                     | ✅         | ✅        | ✅    | ✅        |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅         | ✅        |      |          |
-| [Print Action](../tools/tool-print.md)                     | ✅         | ✅        | ✅    | ✅        |
+| [Print Action](../tools/tool-print.md)                     | ✅         | ✅        | ✅    | 1        |
 | [Cancel Action](../tools/tool-cancel.md)                   | ✅         | ✅        |      |
+
+
+**Notes:**
+1. Requirement not yet met - print action doesn't show in this state
 
 ## Specifications
 

@@ -34,7 +34,7 @@ See [user stories for all appointment types](./all-appointment-types#user-storie
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅         |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅         | ✅    | ✅        |
 
-## User interface design
+## Specifications
 
 **User flows:**
 - [Upcoming](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2019-19997&t=lDUJykyhV8NRJ2zc-4)

@@ -14,7 +14,7 @@ Veterans can print the details for their appointments.
 - Appointment details include an option to print the page. This opens the browser's print dialogue.
 
 
-## User interface design
+## Specifications
 
 [User flow](Add link) 
 

@@ -74,7 +74,7 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
     - To create Video Visits in VistA clinic must have credit stop code (aka, secondary stop code)= 679, 179 or 648. You can customize this in your test VistA instance using the SDEC SETTINGS>VS GUI NATIONAL file—that is where the stop codes that cause the VSE Video Visit question pop-up are set. If the pop-up does NOT display in VSE GUI, check the SDEC settings file to the get stop codes. Then edit the clinic's credit stop code in Hospital Location file #44 to be one of those stop codes.  Tele-mental health visits require appropriate location-based secondary codes: 690 (originating patient station); 692 (provider station – same STA3); 693 (provider station – different STA3)
 
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4) 
 

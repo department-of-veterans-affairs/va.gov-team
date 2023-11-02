@@ -17,7 +17,7 @@ This question sends Veterans down either the path of finding care at a VA facili
 - Users are sent to the calendar page if they chose to make a community care request
     - This is not true if the user has chosen audiology, in which case they are first sent to a page to choose the specific type of audiology appointment they need
 
-## User interface design
+## Specifications
 
 [User flow](Add link) 
 

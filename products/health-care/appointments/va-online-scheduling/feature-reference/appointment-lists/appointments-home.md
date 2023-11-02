@@ -23,7 +23,7 @@ Starting page to schedule or manage appointments.
 - All messages to the user must provide an explanation of the issue and guidance for resolving the issue.  
 - If user is ineligible to use VAOS because they are not registered at a VA facility the [alert that user is not registered at a VA facility](#alert-that-user-is-not-registered-at-a-va-facility) displays.
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=155-30914&t=yAEq20yFBh0j4lyj-4) 
 

@@ -16,7 +16,7 @@ As a Veteran, I want an overview of my appointment history so I can plan future 
 - User can filter past appointments by certain time periods.  
 - Cancelled appointments of any type must not display on the past appointments page. 
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
 
