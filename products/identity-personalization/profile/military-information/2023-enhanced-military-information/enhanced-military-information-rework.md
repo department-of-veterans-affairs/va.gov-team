@@ -1,6 +1,11 @@
 # Initiative Brief 
 
+`DRAFT`
 
+**Last Updated: 11/2/2023**
+
+
+## Table of Contents 
 
 
 ## Overview
@@ -150,26 +155,3 @@ Giving this data a permanent place on VA.gov, so veterans can easily review this
 
 [Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
    
-### Before
-
-<details>
-<summary>Before Image</summary>
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-military-information-sept-2023.png" width="375" alt="screenshot of profile military information section" />
-
-</details> 
-
-### After
-
-
-## Frontend
-
-
-
-
-
-
-
-
-
-
-
