@@ -2,6 +2,8 @@
 
 The online burial 530EZ form and the pension 527EZ form were developed and released together. See [this readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/2019%20files/README.md).
 
+VA Form 21P-530 (Application for Burial Benefits) enables eligible individuals to apply for compensation to help cover burial, funeral, and transportation costs.
+
 ## Communications
 - GitHub Label: umbrella, burial
 - Slack channel: benefits-non-disability
