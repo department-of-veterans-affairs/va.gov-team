@@ -26,31 +26,32 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 
 ### Key Performance Indicators (KPIs)
 1. SEO insights for...
-    1. Landing page for representatives 
-        1. Page views
-        2. Unique page views
-        3. % of unique views 
-        4. Bounce rate _What percent of users land on this page and immediately leave VA.gov without any interaction?_
-        5. Entrance rate _What percent of users enter the VA.gov site on this page?_
-        6. Exit rate _What percent of users first interact with or view other pages on VA.gov, before viewing this page and then leaving VA.gov?_
-        7. Top previous pages by % _What pages are users coming from?_
-        8. Top next pages by % _What pages are users visiting next?_
-    2. Find a Representative tool
+    1. **Landing page for representatives** 
+        1. **Page views**
+        2. **Unique page views**
+        3. **% of unique views** 
+        4. **Bounce rate** _What percent of users land on this page and immediately leave VA.gov without any interaction?_
+        5. **Entrance rate** _What percent of users enter the VA.gov site on this page?_
+        6. **Exit rate** _What percent of users first interact with or view other pages on VA.gov, before viewing this page and then leaving VA.gov?_
+        7. **Top previous pages by %** _What pages are users coming from?_
+        8. **Top next pages by %** _What pages are users visiting next?_
+    2. **Find a Representative tool**
         1. Same data points as 1a above
-2. Average number of searches per user _Do users feel the need to search multiple times?_
-3. % of searches by representative type (VSO, Attorney, Claims Agent) _What representative types are users most interested in?_
-4. % of searches with a specified organization/representative name _Are users searching with a particular organization or representative in mind?_ 
-5. % of searches by existing representative status (has representation, pending representation, no representation) _Are veterans searching for new representation?_
+2. **Average number of searches per user** _Do users feel the need to search multiple times?_
+3. **% of searches by representative type** (VSO, Attorney, Claims Agent) _What representative types are users most interested in?_
+4. **% of searches with a specified organization/representative name** _Are users searching with a particular organization or representative in mind?_ 
+5. **% of searches by existing representative status** (has representation, pending representation, no representation) _Are veterans searching for new representation?_
 
 ### Baseline KPI Values
-1. Number of searches per week _measuring growth_
+1. **Number of searches per week** _measuring growth_
     1. Pre-launch: through the eBenefits or OGC tools
     2. Post-launch: through the VA.gov Find a Representative tool
-2. % increase of searches this week vs. last week _measuring proportional growth_
+2. **% increase of searches this week vs. last week** _measuring proportional growth_
 
 ### Objectives and Key results (OKRs)
 1. **Objective**: Veterans start moving away from legacy processes for finding a representative, in favor of our solution on VA.gov
-    1. **Key Result**: Increase in representative searches on VA.gov (Baseline KPIs #1 and #2)
+    1. **Key Result**: Increase in representative searches on VA.gov (Baseline KPI #1b)
+    2. **Key Result**: Decrease in representative searches on eBenefits or OGC (Baseline KPI #1a)
 2. Objective: Veterans are able to successfully find a representative through our Find a Representative tool
     1. **Key Result**: Minimize the average number of searches per user (KPI #2)
 
