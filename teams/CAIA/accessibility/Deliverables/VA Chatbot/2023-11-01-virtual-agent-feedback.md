@@ -2,11 +2,14 @@
 - **Date of Office Hours:** 10/31/2023 ([Notes from Office Hours](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67376#issuecomment-1788187746))
 - **CAIA A11y Sync and Feedback:** 11/1/2023 ([Shared via Slack](https://dsva.slack.com/archives/C01KTS3F493/p1698868772911999))
 - **Next Meeting:** `TBD`
-- **Related A11y Ticket(s):**
-    - [[CAIA Intake] [a11y Support] Ongoing screen reader testing with Chatbot MHV Prescription Skill team #68026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68026)
-    - [[a11y deliverable] Audit: Chatbot MHV Prescriptions Skill - Findings #67376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67376)
-    - [[a11y support] Segment Audit: Chatbot MHV Prescription Skill Feature #66754](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66754#issuecomment-1753263632)
-    - [[a11y audit] Finding: Chatbot MHV Prescription Skill 4.2.16: Set expectations #67315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67315)
+
+<details><summary>Toggle to view related a11y tickets</summary>
+    
+- [[CAIA Intake] [a11y Support] Ongoing screen reader testing with Chatbot MHV Prescription Skill team #68026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68026)
+- [[a11y deliverable] Audit: Chatbot MHV Prescriptions Skill - Findings #67376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67376)
+- [[a11y support] Segment Audit: Chatbot MHV Prescription Skill Feature #66754](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66754#issuecomment-1753263632)
+- [[a11y audit] Finding: Chatbot MHV Prescription Skill 4.2.16: Set expectations #67315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67315)
+</details>
   
 ## CAIA Reviewers
 - Eli 
