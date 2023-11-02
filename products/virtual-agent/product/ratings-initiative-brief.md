@@ -86,6 +86,7 @@ Provide VA Chatbot users with personalized experience in regards to their presri
   - Is accessibility a concern?
   - Does the feature work well with screen readers?
   - It is designed only for English speakers; there is no internationalization of the skill.
+  - New user utterances that fail to trigger the feature. 
 
 - **[Technical] Feasibility Risks**:
   - API errors
