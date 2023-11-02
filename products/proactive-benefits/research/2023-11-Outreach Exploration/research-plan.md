@@ -115,8 +115,8 @@ Research materials for moderated interviews:
 
 - Conversation stimuli (outreach letter)
 
-  - [Original letter](https://docs.google.com/document/d/1D4VBbEYy3zOX5QCT0dJeRitBRIYYazsnacIfvR93QsY/edit)
-  - [Modified letter](https://docs.google.com/document/d/1DiAuN-pPS-iAsxsWyC32hzYjyu-JEaBwi82WwuOrlIA/edit?usp=sharing)
+  - Original letter
+  - Modified letter
 
 
 ## Recruitment
