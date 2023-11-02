@@ -1,6 +1,6 @@
 # Project outline: Add links to dependents and letters tools to the authenticated menu
 
-**Last Updated: October 30, 2023 -- updating post-launch stats**
+**Last Updated: November 2, 2023 -- updating post-launch stats**
 
 ### Communications
 
@@ -115,8 +115,8 @@ Users have trouble finding dependent information and where to download their ben
 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Bounce rate for "**Letters**” |1.98%|2.23%|0.96%|1.33%|0.57%||
-|Bounce rate for "**Dependents**”|0.55%|0.27%|0.89%|0.24%|0.52%||
+|Bounce rate for "**Letters**” |1.98%|2.23%|0.96%|1.33%|0.57%|1.13%|
+|Bounce rate for "**Dependents**”|0.55%|0.27%|0.89%|0.24%|0.52%|0.89%|
 
 ### Objective #2: Explore using authenticated menu as a place to elevate links to tools.
 
@@ -138,8 +138,8 @@ Note: Increaseing pageviews was not originally part of our goals. We decided to 
 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Pageviews for "**Letters**” |48,255|48,396|89,967 (+86% from 1-week pre-launch)|97,549 (+102% from 1-week pre-launch)|99,070 (+105% from 1-week pre-launch)||
-|Pageviews for "**Dependents**”|16,937|16,295|37,349 (+129% from 1-week pre-launch)|41,045 (+152% from 1-week pre-launch)|43,103 (+165% from 1-week pre-launch)||
+|Pageviews for "**Letters**” |48,255|48,396|89,967 (+86% from 1-week pre-launch)|97,549 (+102% from 1-week pre-launch)|99,070 (+105% from 1-week pre-launch)|95,496 (+97% from 1-week pre-launch)|
+|Pageviews for "**Dependents**”|16,937|16,295|37,349 (+129% from 1-week pre-launch)|41,045 (+152% from 1-week pre-launch)|43,103 (+165% from 1-week pre-launch)|41,638 (+155% from 1-week pre-launch)|
 
 ## Key deliverables
 
