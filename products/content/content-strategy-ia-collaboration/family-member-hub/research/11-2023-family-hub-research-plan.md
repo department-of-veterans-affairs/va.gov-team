@@ -76,13 +76,13 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 
 **Tree test links**
 
-- Pilot - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=0
-- Cohort 1 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=1
-- Cohort 2 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=2
-- Cohort 3 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=3
-- Cohort 4 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=4
-- Cohort 5 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=5
-- Cohort 6 - https://dj540s05.optimalworkshop.com/treejack/familystudy?token=6
+- Pilot - https://dj540s05.optimalworkshop.com/treejack/family-members?token=0
+- Cohort 1 - https://dj540s05.optimalworkshop.com/treejack/family-members?token=1
+- Cohort 2 - https://dj540s05.optimalworkshop.com/treejack/family-members?token=2
+- Cohort 3 - https://dj540s05.optimalworkshop.com/treejack/family-members?token=3
+- Cohort 4 - https://dj540s05.optimalworkshop.com/treejack/family-members?token=4
+- Cohort 5 - https://dj540s05.optimalworkshop.com/treejack/family-members?token=5
+- Cohort 6 - https://dj540s05.optimalworkshop.com/treejack/family-members?token=6
 
 **Pre-activity questions**
 1. Which option most accurately describes your relationship to the Veteran in your life?
