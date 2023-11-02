@@ -14,6 +14,7 @@ Expansion of the military information available on VA.gov will focus on the cate
 
 <details>
 <summary>MOVE THIS TO THE RESPECTIVE PHASES</summary>
+  
 ### Integrate the following data into VA.gov
 
 The MVP datapoints VA leadership is interested in adding to the VA.gov profile include the following:
@@ -47,6 +48,7 @@ We can access a PDF version of someone's ILER record, so linking to this would s
 ### Allow people to update their ILER record
 
 VA leadership is not clear on how exactly to make this possible and they’re still working with their DoD counterparts to satisfactorily answer the legislative imperative in Section 803. A lightweight MVP might be giving veterans a DoD number to call. Ideally, over time, we'd have a better option than that.
+
 </details>
 
 ## MVP 
