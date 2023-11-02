@@ -6,9 +6,7 @@
 
 Definitions from Google:
 
-- An engaged session is a session that lasts longer than 10 seconds, has a conversion event, or has at least 2 pageviews or screenviews.
-  - For this metric, a conversion event would be clicking the 'send' button
-  - Since we will be looking at engagement / bounce rates on individual pages, the 2 pageviews or screenviews will not be considered.
+- An engaged session is a session that lasts longer than 10 seconds, has a conversion event (ie click 'Send'), or has at least 2 pageviews or screenviews.
 - The engagement rate is the  **percentage of engaged sessions**  on your website or mobile app. The bounce rate is the opposite of the engagement rate. The bounce rate is the  **percentage of sessions that were not engaged**.
 
 ## **Objectives and Key Results (OKRs)**
@@ -20,37 +18,21 @@ Definitions from Google:
 
 ### **Key Results**
 
-- Engagement rate of at least 80% on new-message, reply, and thread pages.
-- Bounce rate of no more than 20% on new-message, reply, and thread pages.
+- Engagement rate of at least 80% 
+- Bounce rate of no more than 20% 
 
 ## **Key Performance Indicators (KPIs)**
 
-**Bounce Rate on specific URLs**
+ - **Bounce Rate**
 
-- va.gov/my-health/secure-messages/new-message/<sup>3
-- va.gov/my-health/secure-messages/inbox/<sup>1
-- va.gov/my-health/secure-messages/thread/1234567
-- va.gov/my-health/secure-messages/reply/1234567
-
-**Engagement Rate on specific URLs<sup>2***
-
-- va.gov/my-health/secure-messages/new-message/<sup>3
-- va.gov/my-health/secure-messages/inbox/<sup>1
-- va.gov/my-health/secure-messages/thread/1234567
-- va.gov/my-health/secure-messages/reply/1234567
-
-_1 Inbox use cases can cause ambiguity so triangulation with funnel data will be needed._
-
-_2 Will need to calculate as inverse of bounce rate until VA.gov is on GA4._
-
-_3 Interstitial and compose pages have the same URL, so rates will be conflated._
+ - **Engagement Rate**
 
 ## **Hypothesis**
 
 **If we have designed a strong user experience for Phase 1 Secure Messaging, then we will see a high engagement rate (low bounce rate), suggesting that users understand and are able to use the new version.**
 
 
-![Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics/images/phase1-north-star-graphic.png)
+![Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics/images/sm-phase1-graphic.png)
 
 
 ## **Secondary Metrics**
@@ -133,6 +115,4 @@ _Data will be updated in the [phase1-data](https://github.com/department-of-vete
 | MHV feedback email | Trusted user feedback | Lichelle Bain processes, Anne Kennedy has access | Running |
 
 ### **Collection and Analysis Reporting Plan**
-![Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics/images/phase1-reporting-detail-graphic.png)
-
- 
+![Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics/images/sm-phase1-reporting-plan.png)
