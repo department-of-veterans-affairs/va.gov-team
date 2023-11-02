@@ -26,7 +26,7 @@ Transcript analysis suggest that the VA Chatbot is being asked to handle an incr
 
 > Why do you think the problem is occurring?
 
-Veterans have multiple avenues to track ratings and other aspects of the claims and appeals process. If they are hearing about the new VA chatbot, they likely assume that it has the same information as myVA or the mobile app. 
+Veterans have multiple avenues to track ratings and other aspects of the claims and appeals process. If they are hearing about the VA chatbot, they likely assume that it has the same information as myVA or the mobile app. 
 
 > How does this initiative help further OCTO-DE's mission and goals?
 
