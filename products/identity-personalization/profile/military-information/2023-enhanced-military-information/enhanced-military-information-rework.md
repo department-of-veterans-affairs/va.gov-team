@@ -65,7 +65,7 @@ We know veterans use various documents to piece together their military history 
 - As a Veteran, I want to know if I served in an area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
 
 
-## Product Goal
+## Product Goals
 
 ### Overall 
 If we are thinking of the entire expanded military effort, the product goal is:
@@ -81,38 +81,6 @@ For the MVP, our work does this by:
 Making it easier for a 526 developer to incorporate these fields into prefill because we will have completed the original integration of this data into vets-api.
 Giving this data a permanent place on VA.gov, so veterans can easily review this information.
 
-
-## User Outcomes
-
-### Desired User Outcomes
-
-#### Phase 1: Read Access
-- Users should be able to access the 8 key data elements of their military record from the VA.gov profile so they can apply for benefits 
-- Lost DD214s should be less worrisome for veterans and the urgency of locating military information when applying for benefits will be reduced as the data will always be available in the profile. 
-- expanded military information in the VA.gov Profile would be accessible to pre-fill forms on other parts of the VA.gov website
-
-
-#### Phase 2: Edit Access
-- Edits to the source data for ILER should be placed in the hands of veterans and proper documentation for the edits should be captured  
-
-
-
-### Undesired User Outcomes
-- Nobody uses this or knows to look for this information
-
-## Business Outcomes
-
-### Desired Business Outcomes
-
--   Providing Veteran’s with a link to their ILER record will help us meet the letter of the law on the legislative requirements outlined above.
--  Veteran records will be more accurate if Veterans are able to at a minimum see what the VA has in their systems. Eventually with phase II the hope is they'll be able to update their information or at least initiate some sort of corrective process. If veterans are able to update their information, this would reduce errors in their records.
-- The benefit application process will be more efficient as pre-fill will reduce time spent completing forms.
-
-### Undesired Business Outcomes
-
-Given the complexity of the data contained in ILER, it’s not an efficient use of resources to display a copy of each veteran’s ILER data without also adding in additional context. This would be technically challenging and time consuming given the magnitude of variations in veterans records and experiences. 
-
-We don’t want to spend time and resources developing highly complex support structures around the ILER documentation and instead should focus energy on supplying data that would help veterans gain access to benefits under the PACT act 
 
 
 ## Proposed Solution
@@ -180,7 +148,11 @@ We'll support some kind of edit access/process (ideas that are not finalized by 
    
 ### Before
 
+<details>
+<summary>Before Image</summary>
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-military-information-sept-2023.png" width="375" alt="screenshot of profile military information section" />
+
+</details> 
 
 ### After
 
