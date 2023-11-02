@@ -97,6 +97,13 @@ Giving this data a permanent place on VA.gov, so veterans can easily review this
 
 [insert a chart here and link off to each phase]
 
+|Phase|Short Description (w/link)|Details|
+|:-:|---|---|
+|1 / MVP|Read Access for 526EZ Data Elements||
+|2 |Read Access for Additional Data Elements||
+|3 |ILER Read Access||
+|4 |ILER Edit/Update Flow|Thinking of this as not updating ILER but a link to a form for initiating an DoD data correction|
+
 ### Phase 1: Read Access (MVP)
 This is focused on read access to two things, 1)  ILER and 2) military record data
 - Give Veterans access to a PDF version of their ILER report
