@@ -195,10 +195,11 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: Unmoderated tree test
-- Research guide writing and task development (usually but not always same as moderator): Jessica Stump (jessica.stump@adhocteam.us)
+- Research guide writing and task development (usually but not always same as moderator): Jessica Stump (jessica.stump@adhocteam.us) and Katelyn Caillouet (katelyn.caillouet@agile6.com)
 - Participant recruiting & screening: Perigean
 - Participant(s) for pilot test: 
 
 
 ## Approvals
-- 
+- Kristen McConnell (kristen.mcconnell@va.gov) on November 2, 2023
+
