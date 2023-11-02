@@ -15,57 +15,72 @@ jobs:
       #   run: |
       #     echo "kickoff label added to cc request ticket"
 
-      - name: Checkout
-        uses: actions/checkout@v3
+      # - name: Checkout
+      #   uses: actions/checkout@v3
 
       - name: Install jq
         run: |
           sudo apt-get update
           sudo apt-get install jq -y
 
-      - name: Install Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '18'
+      # - name: Install Node.js
+      #   uses: actions/setup-node@v2
+      #   with:
+      #     node-version: '18'
 
-      - name: Install node-fetch
-        shell: bash
-        run: npm i node-fetch@2
+      # - name: Install node-fetch
+      #   shell: bash
+      #   run: npm i node-fetch@2
 
-      - name: Run script
-        id: get_team_info
-        run: node ./scripts/github-actions/create-cc-completed-ticket.js
+      # - name: Run script
+      #   id: get_team_info
+      #   run: node ./scripts/github-actions/create-cc-completed-ticket.js
       
-      - name: testing
-        run: |
-          echo "TITLE=$(cat issue_title.txt)" >> $GITHUB_ENV
+      # - name: testing
+      #   run: |
+      #     echo "TITLE=$(cat issue_title.txt)" >> $GITHUB_ENV
 
-      - name: testing2
-        run: |
-          echo ${{ env.TITLE }}
+      # - name: testing2
+      #   run: |
+      #     echo ${{ env.TITLE }}
 
-      - name: Create completed ticket
-        id: create-completed-ticket
+      # - name: Create completed ticket
+      #   id: create-completed-ticket
+        # run: |
+        #   response=$(curl --request POST \
+        #   --url https://api.github.com/repos/${{ github.repository }}/issues \
+        #   --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+        #   --header 'content-type: application/json' \
+        #   --data '{
+        #     "title": "${{ env.TITLE }}",
+        #     "body": "This is a test."
+        #     }' \
+        #   --fail)
+        #   echo CREATED_TICKET=${response} >> $GITHUB_OUTPUT
+
+      # - name: Close ticket
+      #   run: |
+      #     number=$(echo "${{ steps.create-completed-ticket.outputs.CREATED_TICKET }}" | tr -d '"' | jq '.number')
+      #     curl --request PATCH \
+      #     --url https://api.github.com/repos/${{ github.repository }}/issues/${$number} \
+      #     --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+      #     --header 'content-type: application/json' \
+      #     --data '{
+      #       "state": "closed",
+      #       }' \
+      #     --fail
+
+      - name: get ticket
+        id: get-ticket
         run: |
-          response=$(curl --request POST \
-          --url https://api.github.com/repos/${{ github.repository }}/issues \
+          response=$(curl --request GET \
+          --url https://api.github.com/repos/${{ github.repository }}/issues/65064 \
           --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
           --header 'content-type: application/json' \
-          --data '{
-            "title": "${{ env.TITLE }}",
-            "body": "This is a test."
-            }' \
           --fail)
-          echo CREATED_TICKET=${response} >> $GITHUB_OUTPUT
+          echo THE_TICKET=${response} >> $GITHUB_OUTPUT
 
-      - name: Close ticket
+      - name: check ticket
         run: |
-          number=$(echo "${{ steps.create-completed-ticket.outputs.CREATED_TICKET }}" | tr -d '"' | jq '.number')
-          curl --request PATCH \
-          --url https://api.github.com/repos/${{ github.repository }}/issues/${$number} \
-          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-          --header 'content-type: application/json' \
-          --data '{
-            "state": "closed",
-            }' \
-          --fail
+          THE_TICKET="${{ steps.get-ticket.outputs.THE_TICKET }}"
+          number=$(echo "$THE_TICKET" | jq '.number')
