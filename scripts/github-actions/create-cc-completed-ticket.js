@@ -38,12 +38,14 @@ async function getTeamInfo() {
       titleInfo = `${titleInfo}/${featureName}`
     }
 
+    const data = JSON.stringify({
+      title: 'this is the title',
+      body: 'this is a test'
+    });
+
     const response2 = await fetch(ENDPOINT, {
       method: 'post',
-      body: {
-        title: titleInfo,
-        body: 'this is a test'
-      },
+      body: data,
       headers: {
         'authorization': `Bearer ${GITHUB_TOKEN}`,
         'Accept': 'application/vnd.github+json',
