@@ -29,7 +29,7 @@ _If not too distracting, CHECK SLACK for real-time feedback and questions from o
 
 ## **Intro - 5 minutes**
 
-Thanks for joining us today! My name is [NAME]. I'm a usability researcher, and I work as part of a team that is improving the VA's websites and other resources for Veterans. We reach out to Veterans as we design these resources to get their input so we can help make sure we meet their needs.
+Thanks for joining us today! My name is Ade. I'm a usability researcher, and I work as part of a team that is improving the VA's websites and other resources for Veterans. We reach out to Veterans as we design these resources to get their input so we can help make sure we meet their needs.
 
 Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session, or do not want to answer a question, that's no problem. Please let me know.
 
@@ -45,18 +45,18 @@ I have one teammate who will be taking notes to make sure that we accurately rep
 
 **AT USERS**
 
-Our accessibility specialist is in the waiting room. Before I let her in, I want to let you know that she will be here to help us navigate any accessibility troubles we might have. She will also help us with any screen-reader troubleshooting we may need to do during this time. I'm going to let her into the session and have her introduce herself to you.
+Our accessibility specialist, Angela, is in the waiting room. Before I let her in, I want to let you know that she will be here to help us navigate any accessibility troubles we might have. She will also help us with any screen-reader troubleshooting we may need to do during this time. I'm going to let her into the session and have her introduce herself to you.
 
-(_Let \_\_in)_
+(_Let Angela in)_
 
-\_\_\_\_\_, do you mind (turning on your camera) and introducing yourself to [PARTICIPANT]?
+Angela, do you mind introducing yourself to [PARTICIPANT]?
 
 Thank you.
 
 There are a few of my teammates who would like to observe this session and help take notes so that we can accurately represent your feedback. We won't link any notes to your name or other personal information. The others are just here to observe. Do I have your permission to let them into the session?
 
 - _(If yes, let them in. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")_
-- _(NOTETAKER & OBSERVERS JOIN)_ We have a few people from the team listening in today: there's [NAME] Please turn on your camera and introduce yourself to [PARTICIPANT]
+- _(NOTETAKER & OBSERVERS JOIN)_ We have a few people from the team listening in today: there's [NAME] Please turn on your camera and introduce yourself to [PARTICIPANT].
 - Could the notetaker and observers please turn their cameras off now to save bandwidth? _(and leave their real names instead of "Observer")_
 
 Before we start, a few things I want to mention:
@@ -71,19 +71,24 @@ Before we start, a few things I want to mention:
 
 ## **Warm-up Questions - 5-10 minutes**
 
-- Do you use My Health_e_Vet?
+- Do you use My HealtheVet?
 
 _[If yes]_
 
 - How often?
-- Do you use it to refill your prescriptions?  _[If yes]_ How often?
+- Do you use it to refill your medications?
+  - _[If yes]_ How often?
+  - Do you fill multiple medications at a time?
+  - _[If yes]_ Can you describe how you do that?
+  - How do you feel about that process?
+  - Would you change anything about it?
+
+  - Tell me about experience with reviewing your medication details in the past.
+    - Was there anything that didn't meet your expectation?
+    - Was there anything that hindered or helped you from better understanding your medication?
 
 - Besides refilling your prescriptions, what else do you do on that page?
 - What other goals, if any, do you wish you could complete on your medications page?
-- Tell me about your experience with submitting refill requests in the past.
-
-- Was there anything that met or didn't meet your expectations?
-- Was there anything that hindered or helped you to complete the task successfully?
 
 - What type of device are you using today?
 
@@ -93,32 +98,32 @@ Have you ever shared your screen on Zoom before?
 
 _(If yes – proceed to share link)_
 
-_(If no): Have A11Y walk the participant through screen-sharing_
+_(If no): Have A11Y walk the participant through screen-sharing._
 
 Our Accessibility specialist will help walk you through how to do this. Do you mind unmuting and walking [PARTICIPANT] through this, Angela/A11Y specialist?
 
 - In the Zoom application on your computer, there's a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer).
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
-  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+  - (If you have more than one screen, the row of buttons may be on the screen that's being shared.)
 - Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
 - iPad: Broadcast screen
 - I just sent you the link to access the platform in our chat. If you don't mind clicking that link to open up the page.
 
-(_Help users navigate to chat when needed – Have A11Y specialist help the participant navigate this if needed)_
+_(Help users navigate to chat when needed – Have A11Y specialist help the participant navigate this if needed)_
 
-- Getting to chat is a similar process as earlier. In the bottom (top in iPad) of your screen, there is a row of bottoms, one of the options should say 'chat', you may need to click on the 3 dots (on smaller screens) to bring up more options.
+- Getting to chat is a similar process as earlier. In the bottom (top in iPad) of your screen, there is a row of bottoms, one of the options should say 'chat,' you may need to click on the 3 dots (on smaller screens) to bring up more options.
 
 _(Once link has been opened)_
 
 - Since this is a live website, we are going to need to log into the account. I am going to walk you through how to do this by providing the username (which is an email) and a password.
-- As you are probably aware, there are a few ways to log into your My HealtheVet website, for this sake of this study, please select the option "ID.me" to proceed.
+- As you are probably aware, there are a few ways to log into your My HealtheVet website, for the sake of this study, please select the option "ID.me" to proceed.
 - Whenever you are ready, I will present that login information to you.
 
 _When ready, share the email and password using the military alphabet._
 
 - Go ahead and click sign-in.
-- It is going to ask for a 2-step authorization, but we have gone ahead to fill this out for you, so please click continue
+- It is going to ask for a 2-step authorization, but we have gone ahead to fill this out for you, so please click continue.
 - _On code page –_ Please proceed by clicking continue once again.
 
 _(Have A11Y specialist help the participant share audio from screen reader)_
@@ -133,9 +138,9 @@ _(Have A11Y specialist help the participant share audio from screen reader)_
 
 Today we are trying to learn how a Veteran might use this product if they were on their own. Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can't see your screen.
 
-_[for MHV users]_ This is going to look slightly familiar, but please remember that this is a new design we are testing and some elements you might expect to be there will not and some you don't expect will.
+_[for MHV users]_ This is going to look familiar, but please remember that this is a new design we are testing and some elements you might expect to be there will not and some you don't expect will.
 
-Since we are trying to make this experience as realistic as possible, you may notice that at the top right the name Jamie. If this were your page, it would be your name, but for today you will notice Jamie at the top of your screen.
+Since we are trying to make this experience as realistic as possible, you may notice that the name at the top right is Jamie. If this were your page, it would be your name, but for today you will notice Jamie at the top of your screen.
 
 Are you ready to get started?
 
@@ -172,7 +177,7 @@ _[If they don't expect to receive a notification following up on their refill re
 
 - How do you expect to know the status change on your submission?
 
-Earlier, you told me about your experience with submitting refill requests in the past. I would like to ask you the same questions about the refill you just submitted.
+Earlier, you told me about your experience with submitting refill requests in the past. I would like to ask you some questions about the refill you just submitted.
 
 - Was there anything that met or didn't meet your expectations?
 - Was there anything that hindered or helped you to complete the task successfully?
@@ -185,7 +190,7 @@ Earlier, you told me about your experience with submitting refill requests in th
 - Do Veterans using AT encounter any usability problems in completing this task?
 - Do Veterans with Cognitive Disabilities encounter any usability problems in completing this task?
 
-## **Task 2: Statuses & Never filled – 10 minutes**
+## **Task 2: Statuses & Never Filled – 10 minutes**
 
 For this next task, I would like you to find a medication on this list. I want you to think out loud as you look. When you are ready, I'll give you the name of that medication as well as the first few letters of its spelling. Please let me know when you are ready to find it.
 
@@ -223,20 +228,20 @@ Thank you for that.
 For this next task, I would like you to tell me if there are any medications on your list that have never been filled.
   - What tells you that?
 
-- **SR USERS** – Talk me through your experience with these statuses in the past. _[If MHV user]_ [or] statuses of your medications in the past _[if not MHV user]_
-  - Was there anything that met or didn't meet your expectations here?
+- **SR USERS** – Tell me about your experience with these statuses in the past. _[If MHV user]_ [or] statuses of your medications in the past _[if not MHV user]_
+  - Was there anything that didn't meet your expectations here?
   - Was there anything that hindered or helped you to complete this task successfully?
 
 **Things to watch for:**
 
-- Does the Veteran understand the different statuses of their prescriptions?
-- Do Veterans understand the difference between "discontinued" and "expired" prescriptions?
-- Do Veterans notice the "never filled" prescriptions?
-- How do Veterans go about finding a prescription?
+- Does the Veteran understand the different statuses of their medications?
+- Do Veterans understand the difference between "discontinued" and "expired" medications?
+- Do Veterans notice the "never filled" medications?
+- How do Veterans go about finding a medications?
 - Do Veterans using AT encounter any usability problems in completing this task?
 - Do Veterans with Cognitive Disabilities encounter any usability problems in completing this task?
 
-## **Task 3: Prescription Details – 5 minutes**
+## **Task 3: Medication Details – 5 minutes**
 
 Thank you for getting through those tasks. For this next one, I'd like you to find a medication. When you are ready, I'll give you the name of that medication as well as the first few letters of its spelling. Please let me know when you are ready to find it.
 
@@ -246,7 +251,7 @@ _[When found]_
 
 - Please click on the medication.
 
-- Please talk me through what you are noticing about this medication.
+- Please tell me what you are noticing about this medication.
 
 _[Do they notice the tracking information and delivery details?]_
 
@@ -254,14 +259,15 @@ _[If they don't already, ask..]_
 
 - How would you go about finding more information about this medication?
 - How do you expect to use the information presented here?
-- How does the information presented here meet or does not meet your expectations?
+- How does the information presented here meet or not meet your expectations?
 
 _[SR - Watch out for voiceover/talkback behavior here. How the Dr's name is pronounced, med # and tracking #]_
 
-- **SR USERS** – Talk me through your experience with medication details in the past.
+- **SR USERS** – Earlier, you told me about your experience with medication details in the past. I would like to ask you similar questions about your experience completing this task in this version.
 
-  - Was there anything here that met or didn't meet your expectation?
+  - Was there anything here that didn't meet your expectation?
   - Was there anything here that hindered or helped you to complete this task successfully?
+
 
 **Things to watch for:**
 
@@ -275,6 +281,7 @@ For this next task, I would like you to find a medication. If you are comfortabl
 
 _**[If they are okay with it]**_
 
+- What is the name of the medication?
 - I would like you to walk me through how you would find that medication on this list. Let me know when you are ready to start.
 
 _**[If they are not okay with it, ask]**_
@@ -308,12 +315,12 @@ Experience with finding/not finding the RX.
 - **Screenreader participants:** _[continue with task on staging]_
 
 For this task, I would like you to walk me through how you would refill multiple medications on this page.
-  - How does this meet or not meet your expectations?
 - Please go ahead and show me how you refill your available active medications.
-- How often do you have to refill more than 1 medication at a time?
+   - Did this meet your expectations? How so?
 
 **Things to watch for:**
-
+- Do Veterans look for a 'submit' button?
+- Do Veterans mention a 'refill all' option?
 - Do Veterans using AT encounter any usability problems in completing this task?
 - Do Veterans with Cognitive Disabilities encounter any usability problems in completing this task?
 
@@ -335,17 +342,18 @@ This is regarding a response you gave us upon your submission to be a part of th
 
 _When confirmed:_
 
-- In your screener, you answered yes when asked about a cognitive disability. With or without sharing what that diagnosis is, could you confirm if this is correct information?
+- In your screener, you answered yes when asked about a cognitive disability. Could you confirm if this is correct information?
 
 _If yes_
 
-- To make sure we best represent our feedback, would you mind sharing with us what the Cognitive disability is? This is completely optional.
-
+- Would you mind sharing a little about how your cognitive disability affects your use of My HealtheVet or other websites?
+  - _[possible follow up]_ Can you share an example of a time when you struggled with My HealtheVet because of your disability?
+    
 ## **Thank You and Closing - 2 minutes**
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-_For AT Users_
+_For SR Users_
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
 
