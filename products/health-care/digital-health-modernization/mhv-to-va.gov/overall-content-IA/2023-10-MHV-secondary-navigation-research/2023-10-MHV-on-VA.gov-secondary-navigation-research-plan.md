@@ -62,7 +62,7 @@ We will partner with Perigean to recruit Veterans.
 
 We request a kickoff meeting with Perigean.
 		
-**Kickoff meeting times with Perigean depend on their availability from 10/30 to 11/2. Anticipate KO meeting lasting 30 minutes**
+**Kickoff meeting times with Perigean: 12-1 pm on 11/6, 12-1 pm on 11/7, 12-1 pm on 11/8, 9 am - 11 am on 11/9. Anticipate KO meeting lasting 30 minutes**
 
 We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network. 
 
@@ -76,7 +76,7 @@ Primary criteria (must-haves)
 - 8 total
 - 4 frequent users of MHV
 - 4 infrequent users of MHV
-- 4 mobile users and 4 desktop users 
+- 8 mobile users
 - Age and education level range throughout, but ideally include at least 5 participants older than 55 and 5 participants with some college or less as their terminal degree.
 
 ### Screener questions
