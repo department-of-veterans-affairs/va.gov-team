@@ -265,9 +265,17 @@ Related to this, we’re thinking about sending the letter that we shared with y
 
 As a reminder, you don’t have to answer this question if you’d prefer not to.
 
-- What questions might you have had?
-- How might this outreach impact your perception of the VA?
-- How might you feel knowing that you received this outreach based on your medical records?
+- If you wanted to take action on the claim, what might you have done?
+  - Probe: Would the ITF and wait to file appeal to you more? Or would you prefer to file a claim right away? Why?
+  - Probe \[if not previously addressed]: Who do you expect will be involved in this process other than yourself?
+
+- Probe \[if not previously addressed]: What questions might you have had?
+- Probe \[if not previously addressed]: How might this outreach impact your perception of the VA?
+- Probe \[if not previously addressed]: How might you feel knowing that you received this outreach based on your medical records?
+
+<!---->
+
+- Do you have any advice for us, or any thoughts you’d like to share, about how we can approach reaching out to others experiencing cancer diagnosis and treatment?
 
 <!---->
 
