@@ -84,9 +84,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Second Task: Prototype Walk-Through - 10 minutes
 
 - I'm now going to show you a prototype. This is a website design that we are thinking about using. It may look like the real VA.gov but it is not real, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
+   - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=fmuY0h4DhYNhuRKR-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88&show-proto-sidebar=1)
+   - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=fmuY0h4DhYNhuRKR-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54&show-proto-sidebar=1)
 - I would like for you to share your screen now and walk me through how you would complete the following steps.
-   - [[Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)]
-   - [[Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)]
+   - [Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+   - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
 - Let's pretend that you got a notification from the VA of a sign-in to your account, and that you don't recognize it, or you don't think it was you signing in.
     - Would you do anything with this information?
        - If you wouldn't take any action based on this notification, what might you expct to happen?
