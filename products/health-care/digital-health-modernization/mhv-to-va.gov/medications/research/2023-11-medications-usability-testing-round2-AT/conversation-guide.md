@@ -87,7 +87,7 @@ _[If yes]_
     - Was there anything that didn't meet your expectation?
     - Was there anything that hindered or helped you from better understanding your medication?
 
-- Besides refilling your prescriptions, what else do you do on that page?
+- Besides refilling your medications, what else do you do on that page?
 - What other goals, if any, do you wish you could complete on your medications page?
 
 - What type of device are you using today?
