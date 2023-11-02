@@ -182,8 +182,8 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 `These need added to the below section.`
 
 - [x] `Added to Complete Later` ~To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.~
-- [ ] `Needs Added Below` "Chapter" was confusing. Consider testing "section" or "part" for clarity. Consider using percentages as well.
-- [ ] `Needs Added Below`Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
+- [x] `Needs Added Below` "Chapter" was confusing. Consider testing "section" or "part" for clarity. Consider using percentages as well.
+- [x] `Needs Added Below`Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
 - [x] `Added to Complete Now`Many users assumed that their data would be saved unless we informed them otherwise. For unauthenticated users, make sure it's clear that the data isn't being saved. An alert upon exit, alert box on the unauth intro page, or similar.
 - [x] `Added to Complete Now`We didn't get to see the authenticated experience, but users expected a "Save" button or a "Save and continue" button below the form fields. We recommend using a pattern like that.
 
@@ -217,15 +217,25 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 
 
 ### Complete Soon
-#### WCAG 3.1 - make sure content is understandable
+#### Finding: Make sure content is understandable
 - Issue Description: The word "Chapter" is decribing a step indicator. Because this is a step indicator users may not know what Chapter 2 of 4 may mean on.  "Chapter" was confusing. 
 - Desired Outcome: Consider testing "section" or "part" for clarity. Consider using percentages as well.
-- Experience standard:`Category #` `Issue #`
+- Experience standard:`Category 05` - The content is written in plain language and doesn't contain excess words or modifiers.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
 - Defect:`Depends`
 - Impact Area: A11y
-- Appears on: `Experience Standards` `WCAG` `Common Issues`
+- Appears on: Content style guide 05 
 - WCAG: 3.1
  
+
+ ### Complete Soon
+#### Finding: Consistent Navigation  
+- Issue Description: Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
+- Desired Outcome:  Consider going back to the two-button pattern.
+- Experience standard:`Category 01 - Overall User Experience` - Design component or pattern in use is considered a best practice.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
+- Defect: `Not Blocking`
+- Impact Area: A11y
+- Appears on: Content style guide 05 - The content is written in plain language and doesn't contain excess words or modifiers.
+- WCAG: Can fall under 3.2.3 Consistent Navigation Level AA
 ### Complete Later
 #### Finding 1: Stepper confusion & stage in the process
 - **Issue Description:** UI components do not initiate a change of context when they receive user input. The form screen changes, but the users sees they are on step 2 of 4, regardless.
