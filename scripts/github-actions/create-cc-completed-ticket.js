@@ -40,9 +40,9 @@ async function getTitleInfo() {
       method: 'get',
       headers: HEADERS
     });
-    const { body } = await response.json();
-    console.log('---->', body);
-    const { teamName, productName, featureName } = parse(body);
+    const data = await response.json();
+    console.log('---->', data);
+    const { teamName, productName, featureName } = parse(data.body);
     let titleInfo = `Completed: Kickoff - ${teamName} - ${productName}`;
     if (productName !== featureName && featureName) {
       titleInfo = `${titleInfo}/${featureName}`
