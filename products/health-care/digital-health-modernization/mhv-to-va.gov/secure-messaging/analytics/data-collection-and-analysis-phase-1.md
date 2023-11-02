@@ -109,24 +109,24 @@ _3 Interstitial and compose pages have the same URL, so rates will be conflated.
   - _Is a Veteran able to print messages?_
  
 ## **Data Collection, Analysis, and Reporting**
-_Data will be updated in [THIS DOCUMENT] on GitHub as it is collected._
+_Data will be updated in the [phase1-data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics/phase1-data.md) document on GitHub as it is collected._
 
 | **Metric** | **Collection Cadence** | **Collection Format** | **Reporting Cadence** | **Reporting Format** | **Audience** |
 | --- | --- | --- | --- | --- | --- |
-| Bounce Rate | Weekly | Datadog Dashboard, Google Analytics Dashboard | End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
-| Engagement Rate | Weekly | Datadog Dashboard, Google Analytics Dashboard| End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
-| Use of 'Go back to previous version of secure messaging' link | Weekly | Datadog Dashboard, Google Analytics Dashboard |  End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
-| Use of 'Try me' link on myhealth.va.gov | Weekly | Datadog Dashboard, Google Analytics Dashboard | End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
+| Bounce Rate | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450), [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/) | End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
+| Engagement Rate | Weekly |[Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450), [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/) | End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
+| Use of 'Go back to previous version of secure messaging' link | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450), [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/) |  End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
+| Use of 'Try me' link on myhealth.va.gov | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450), [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/)  | End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
 | Sentiment analysis of qualitative feedback data | Daily | Excel Spreadsheet | As patterns develop | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
-| Dropoff/Page Exits | Weekly | Datadog Dashboard | End of each sprint | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
-| Conversion Events | Weekly | Datadog Dashboard, Google Analytics Dashboard | End of each sprint | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
+| Dropoff/Page Exits | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450) | End of each sprint | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
+| Conversion Events | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450), [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/) | End of each sprint | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
 
  ## **Data Collection Tools**
 | **Tool** | **Data Type** | **Access** | **Status** | 
 | --- | --- | --- | --- | 
-| Datadog | Web traffic / User behavior | [Datadog SM Dashboard] | Waiting on resolution of 'Send' tracking issue, need to set up dashboard |
+| Datadog | Web traffic / User behavior | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450) | Waiting on resolution of 'Send' tracking issue, need to set up dashboard |
 | Domo | Dashboard to aggregate various sources | N/A | Analytics team cannot have ready in time, Medallia and Salesforce will only be current to end of previous month |
-| Google Analytics | Web traffic / User behavior | [GA 360 SM Dashboard](https://analytics.google.com/analytics/web/#/dashboard/5-w3IUKDSi6jYJtdXv3a-A/a50123418w177519031p176188361/) | GA4 expected to be set up by end of calendar year |
+| Google Analytics | Web traffic / User behavior | [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/) | GA4 expected to be set up by end of calendar year |
 | Medallia | Veteran feedback from Intercept and Feedback surveys, My411 data, Tier II and Tier III data | Daily emails sent to jane.carnock@va.gov, anne.costello@va.gov | Set to begin 11/3/2023 |
 | MHV feedback email | Trusted user feedback | Lichelle Bain processes, Anne Kennedy has access | Running |
 
