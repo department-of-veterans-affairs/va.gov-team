@@ -1,7 +1,7 @@
 # Research Plan for Identity, Manage Devices, 2023-9
 
 ## Background
-Currently, users are signed out after 30 minutes of inactivity on the VA.gov website on the desktop browser. When using the VA mobile app, a user's session is maintained for 45 days. With the current setup, the risks associated with being signed into multiple devices is minimal. However, once SiS is pushed to production, a user's session on the desktop will also be maintained for 45 days, significantly increasing the security concerns e.g. phishing, malware, and other threats.
+Currently, users are signed out after 30 minutes of inactivity on the VA.gov website on the desktop browser, which use SSOe as a sign in mediator. When using the VA mobile app, which uses SiS as the mediator, a user's session is maintained for 45 days. With the current setup, the risks associated with being signed into multiple devices is minimal. However, once SiS is pushed to production on VA.gov, a user's session on the desktop will also be maintained for 45 days. While this increase the user experience, it also increasing security concerns, especially around if a user signs in using a shared device or a bad actor is able to gain access to the account. Adding a sign out of devices buttons allows the user to better control their account.
 
 [product info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/30ab41e6c605715935e19f185ba3d6530dc55b81/products/identity/Product%20Briefs/Sign%20in%20Service.md)
 
@@ -60,7 +60,6 @@ Remote usability testing will evaluate the prototype with participants. We’ll 
 
 We will use Perigean to recruit Veterans for this moderated study. We are looking to include as participants some historically under represented groups for this:
 
-- Assistive Tech users (screen zoom, and screen reader in particular)
 - Mobile users
 - Cognitive disabilities
 
@@ -74,35 +73,15 @@ All participants:
 - Must be willing to share a web browser window on the Zoom call
 - Must have a working microphone
 - Must have Zoom downloaded to their computer prior to the session and know how to share their screen
-- In addition our primary product criteria includes:
+- In addition, our primary product criteria includes:
    - Must be Veterans
    - Must have signed into VA.gov in the last 6 months, for any reason
 
 
 Our primary diversity and inclusion criteria:
-- 5 mobile users (none of these can be screen reader users)
-- 8 total desktop users which includes
-   - 5 sighted desktop users
-   - 3 screen reader users
+- 6 mobile users (none of these can be screen reader users)
 - 2 cognitive disabilities
-
-We've split these into 3 cohorts
-- [Cohort 1: sighted desktop]()
-   - 5 computer (desktop or laptop) users of VA.gov
-   - 5 who will join the session on desktop or laptop
-   - 1 cognitive disability
-   - 1 who self-identifies race as other than white
-- [Cohort 2: sighted mobile]()
-   - 5 mobile users of VA.gov
-   - 5 who will join the session on mobile
-   - 1 cognitive disability
-   - 1 who self-identifies race as other than white
-- [Cohort 3: screen reader desktop]()
-   - 3 screen reader participants
-      - at least 1 who is less experienced using screen reader
-      - at least 1 who is more experienced using screen reader 
-   - 3 (all) joining session on desktop
-
+- 
 
 ### Screener Questions
 
@@ -120,14 +99,9 @@ Screen reader practice session:
 - Date and time of SR practice session: 
 
 ### Length of sessions
-- Cohort 1 and 2: sighted participants
-   - Session length: **60-minute** sessions 
-   - Session buffer: **60-minute breaks** in between
-   - Max sessions per day: 4
-- Cohort 3: screen reader participants
-   - Session length: **90-minute** sessions 
-   - Session buffer: **60-minute breaks** in between
-   - Max sessions per day: 2
+- Session length: **60-minute** sessions 
+- Session buffer: **60-minute breaks** in between
+- Max sessions per day: 4
 
   
 ### Availability
