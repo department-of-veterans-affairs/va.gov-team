@@ -78,9 +78,9 @@ An adjustment was made to delay incoming messages to ensure that the full conten
 - it doesn't provide feedback that something is happening behind the scenes, or that another message may appear
 
 ##### User Expectations
-This is similar to [another issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67315), where no clear expectation was being set for the user. This is different, but we think related because the long delay with no clear indication of what is happening leaves people wondering what to do and what is happening.
+**Related Issue:** This is similar to [another issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67315), where no clear expectation was being set for the user. This is different, but we think related because the long delay with no clear indication of what is happening leaves people wondering what to do and what is happening.
 
 
 ## Next steps
 
-CAIA is happy to continue to support ya'll as you see fit. We recommend that 1 or more CAIA accessibility specialists embed with your team for a short time to provide more direct assistance with tasks like testing and design feedback.
+CAIA is happy to continue to support ya'll as you see fit. OCTO c/o Martha and CAIA is recommending that one or more CAIA accessibility specialists embed with your team for a short time to provide more direct assistance with tasks like testing and design feedback.
