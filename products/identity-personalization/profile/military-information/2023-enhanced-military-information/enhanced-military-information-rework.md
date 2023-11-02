@@ -83,9 +83,11 @@ Giving this data a permanent place on VA.gov, so veterans can easily review this
 
 
 
-## Proposed Solution
+## Proposed Solution/Phases
 
-### Phase 1: Read Access 
+[insert a chart here and link off to each phase]
+
+### Phase 1: Read Access (MVP)
 This is focused on read access to two things, 1)  ILER and 2) military record data
 - Give Veterans access to a PDF version of their ILER report
 - Get veterans read access to as many of the key data elements as possible (currently 6 of 8)
