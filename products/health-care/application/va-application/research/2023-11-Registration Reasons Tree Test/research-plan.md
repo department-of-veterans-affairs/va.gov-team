@@ -175,7 +175,7 @@ We will use Perigean to recruit participants into cohorts needed for an unmodera
 November November 2023
 
 Kickoff call requested
-Preferred date/time: Novmeber TBD, 2023
+Preferred date/time: Novmeber 8, 2023 at 4pm ET / 1pm PT
 
 
 ### Prepare
@@ -185,8 +185,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: N/A
 
 ### Research sessions
-* Planned dates of research: November ##-## 2023
-* Study will be open for 2 weeks, with the starting date (as soon as Perigean sends out emails).
+* Planned dates of research: November 20 - December 5, 2023
+* Study will be open for about 2 weeks, with the starting date (as soon as Perigean sends out emails).
 
 ### Length of sessions
 * Session length: Unmoderated, 30 minutes
