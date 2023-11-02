@@ -1,16 +1,18 @@
 # [Design Review a11y findings]: Product team 
-[Prototype link](link) <br>
-[DSVA slack channel for contacting product team](link)  <br>
+- [Prototype link](link) 
+- [DSVA slack channel for contacting product team](link)  
 
 ## Product team
-OCTO-DE product owner: Person <br>
-Product manager: Person  <br>
-Designer: Person <br>
+- OCTO-DE product owner:  
+- Product manager: 
+- Designer: 
 
-## Auditor(s): Your name :) 
+## Auditor(s)
+- CAIA Team Member
+- CAIA Team Member 2 (optional)
 
 ## Testing Coverage: 
-_This should match what is outlned withing your Github ticket._ **Delete this**
+ ⚠️ _This should match what is outlined within your [Github ticket tasks, which are based off of this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/templates/design-review.md)_ ✋🛑 **Delete This Note Please**
 ### Manual
  * [ ] Color contrast checks (recommend using whocanuse.com for beyond compliance reports)
  * [ ] Color blindness checks
