@@ -57,6 +57,7 @@ Currently, we cannot test our analytics outside of production. This has led to m
 
 * Spike to determine best technical approach
     * Main option to investigate: simulator testing
+    * Could it be automated?
 * Implement by testing existing analytics
 
 **V2 and beyond**
