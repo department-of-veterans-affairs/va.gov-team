@@ -3,12 +3,13 @@ const fetch = require('node-fetch');
 
 const {
   GITHUB_TOKEN,
-  GITHUB_REPOSITORY,
+  // GITHUB_REPOSITORY,
 } = process.env;
 
-const [owner, repo] = GITHUB_REPOSITORY.split('/');
+// const [owner, repo] = GITHUB_REPOSITORY.split('/');
 
-const ENDPOINT = `https://api.github.com/repos/${owner}/${repo}/issues/65064`;
+// const ENDPOINT = `https://api.github.com/repos/${owner}/${repo}/issues/65064`;
+const ENDPOINT = `https://api.github.com/repos/department-of-veterans-affairs/va.gov-team/issues/65064`;
 
 const HEADERS = {
   'Authorization': `Bearer ${GITHUB_TOKEN}`,
