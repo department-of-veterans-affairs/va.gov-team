@@ -61,7 +61,9 @@ ________________________________________________________________________________
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
             - 🟦 [[BE] Validate that our public key works](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67715) ROLLOVER
             - 🟩 [[FE] Pre-Check-in & Day-of Completion Page: Content & Link Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62111)
-            - 🟩 [[FE] Create a utility function that determines if demographics are up to date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68802)             
+            - 🟩 [[FE] Create a utility function that determines if demographics are up to date](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68802)
+            - 🟦 [[BE] Discovery Work for MAP API and Appointments Service #68980](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68980)
+            - Added during the sprint (11/2); team was reminded to focus on high priority items            
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
         - 🟥[[UX][Content] Create Content to Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67897)
     - **Sub Goal: Handle Missing Appointment Information**
