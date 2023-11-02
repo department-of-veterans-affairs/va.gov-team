@@ -113,7 +113,7 @@ Research materials for moderated interviews:
 
 - Conversation guide
 
-- Conversation stimuli (outreach letter)
+- Conversation stimuli: See zip file in research folder to view the following:
 
   - Original letter
   - Modified letter
