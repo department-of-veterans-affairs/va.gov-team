@@ -6,7 +6,7 @@
 
 Definitions from Google:
 
-- An engaged session is a session that lasts longer than 10 seconds, has a conversion event (ie click 'Send'), or has at least 2 pageviews or screenviews.
+- An engaged session is a session that lasts longer than 10 seconds, has a conversion event (i.e., click 'Send'), or has at least 2 pageviews or screenviews.
 - The engagement rate is the  **percentage of engaged sessions**  on your website or mobile app. The bounce rate is the opposite of the engagement rate. The bounce rate is the  **percentage of sessions that were not engaged**.
 
 ## **Objectives and Key Results (OKRs)**
