@@ -187,9 +187,9 @@ Please make sure that ALL participants are willing to complete their interview *
     4. I prefer not to answer
     5. Not applicable
 
-### **Recruitment criteria – Sighted Users**
+### **Recruitment criteria – Sighted Participants**
 
-**For sighted users, we will schedule a total of 12 Veterans for an expected completion rate of 8 usability sessions.**
+**For sighted participants, we will schedule a total of 12 Veterans for an expected completion rate of 8 usability sessions.**
 
 **Criteria for sighted participants (12)**
 
@@ -260,7 +260,7 @@ Please make sure that ALL participants are willing to complete their interview *
 
 Note: For recruitment purposes, users can use either a Desktop or Laptop interchangeably, as long as they have a camera on it.
 
-## **Timeline – Sighted Users**
+## **Timeline – Sighted Participants**
 
 ### **Prepare**
 
@@ -275,7 +275,7 @@ Note: For recruitment purposes, users can use either a Desktop or Laptop interch
 - Session length: 1 hour with sighted users
 - Buffer time between sessions: 30 minutes
 
-### **Availability for Sighted Users**
+### **Availability for Sighted Participants**
 
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
