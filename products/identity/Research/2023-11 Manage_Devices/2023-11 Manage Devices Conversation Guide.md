@@ -66,11 +66,16 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## First Task: Signing into VA.gov - 5 minutes (Understanding password management)
 
 - How do you normally access VA.gov?  Can you share your screen with me and walk me through that process?
-   - MOBILE DEVICE: [ If they are able to access VA.gov without signing in... ] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with signing in? 
-- Do you ever sign out when from _____ device?  If so, can you show me how?
-  - Do you ever sign back in after signing out?  Can you describe that for me?
-- How do you keep track of your passwords for signing into your account?
-   - Have you ever had to reset your password?  Can you describe that process for me?
+   - MOBILE DEVICE: [If they are able to access VA.gov without signing in...] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with signing in? 
+- Do you ever selection a sign out option?  If so, can you show me how?
+  - Do you ever sign back in after signing out? Can you describe that for me?
+- How do you keep track of your password for signing into your VA account?
+   - Have you ever had to reset your password? Can you describe that process for me?
+- Some services online register where you sign in from and let you know if your account has been signed in from a device or even a location that is unusual for you. Have you ever gotten a notice like this, from any service?
+   - If so, what did you think? What did you do?
+- Have you ever had the need to sign out a device when you didn't have access to it? This could be on any service, not just VA, and for any reason. If so, can you recall why you did? Can you describe the steps you took?
+   - In the past have you used an option to sign out a single device? What about an option to sign out of all devices that are currently signed in?
+   - Do you feel like there is a difference in these two options or how you've used them in the past?
 
 ### Things to watch for:
 
@@ -78,25 +83,31 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Second Task: Prototype Walk-Through - 10 minutes
 
-- Have you ever had the need to sign out of all your devices? This could be on any service, not just VA. If so, can you recall why you did so?
-- I'm now going to show you a prototype and would like for you to share your screen and walk me through how you would complete the following steps.
-   - If you were prompted to sign out of all of your devices, can you show me where you would start?  Why would you start there?
-   - **Username** page
-      - [SUCCESS] (selects username > profile OR "go to your profile") Allow them to continue walking you through.
-      - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
-   - **Profile** page
-      - Can you tell me what you would be looking for on this page at this point?  Does anything stand out to you to help you commplete your task?
-         - [SUCCESS] (sees the "Account Security" option) Allow them to continue walking you through.
-         - [FAIL] (if they don't call out "Account Security") Ask them to read through the page again; if they are unable to point out "Manage Devices", gently guide them.
-            - What word or phrase would you be looking for in order to complete the task of signing out of all your devices.
-            - What do you think the term "Account Security" means on this page?
-            - For today, we'll navigate to the "Account Security" portion on this page.
-   - **Manage Devices** page
-      - Can you walk me through what you're seeing here?
-      - What would you do next?
-      - What do you think about when seeing the button "sign out of device"? what about "sign out of all devices"?
-      - Have you ever done this or something simlar on another app or website? Can you tell me about that?
-      - TO BE UPDATED (Warning Indicator): Can you talk me through what you're seeing here?  What are your thoughts on this?
+- I'm now going to show you a prototype. This is a website design that we are thinking about using. It may look like the real VA.gov but it is not real, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
+- I would like for you to share your screen now and walk me through how you would complete the following steps.
+   - [[Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)]
+   - [[Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)]
+- Let's pretend that you got a notification from the VA of a sign-in to your account, and that you don't recognize it, or you don't think it was you signing in.
+    - Would you do anything with this information?
+       - If you wouldn't take any action based on this notification, what might you expct to happen?
+    - If you decided to take action, what would you do? [prompt] Would you go to VA.gov to sign into to your acount?
+    - Can you show me where you might go once signed into the VA to sign out of the device you didn't recognize?  Why would you start there?
+- **Username** page
+   - [SUCCESS] (selects username > profile OR "go to your profile") Allow them to continue walking you through.
+   - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
+- **Profile** page
+  - Can you tell me what you would be looking for on this page at this point?  Does anything stand out to you to help you commplete your task?
+  - [SUCCESS] (sees the "Account Security" option) Allow them to continue walking you through.
+  - [FAIL] (if they don't call out "Account Security") Ask them to read through the page again; if they are unable to point out "Manage Devices", gently guide them.
+      - What word or phrase would you be looking for in order to complete the task of signing out of all your devices.
+      - What do you think the term "Account Security" means on this page?
+      - For today, we'll navigate to the "Account Security" portion on this page.
+- **Manage Devices** page
+   - Can you walk me through what you're seeing here?
+   - What would you do next?
+   - What do you think about when seeing the button "sign out of device"? what about "sign out of all devices"?
+   - Have you ever done this or something simlar on another app or website? Can you tell me about that?
+   - TO BE UPDATED (Warning Indicator): Can you talk me through what you're seeing here?  What are your thoughts on this?
 
 ### Things to watch for:
 
@@ -107,6 +118,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Post-Task Interview - X minutes
 
+- Sometimes it takes a while to develop and code changes that we want to make. If we could quickly put up the "sign out all" button while we work on the rest of what we showed you today, would you find that useful?
 - Is there any additional feedback you have for me at this point?
 - Any questions for me? 
 
