@@ -109,6 +109,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 **_Task 1b - MR and SM_** Then, say you're confused about the results and not sure what they mean and you want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 **Must ask:**
+- What would you normally do? 
 - (_Pay attention to_) Where does participant click first, and ask why?
 - (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
@@ -122,6 +123,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - What do you think should happen if you (_do something_)?
 
 **Must ask:**
+- What would you normally do? 
 - (_If participant looks for past appointments in the secondary nav._) Do you think you'd find past appointments in the menu, and why?
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 - (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
@@ -133,6 +135,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - What do you think should happen if you (_do something_)?
 
 **Must ask:**
+- What would you normally do? 
 - (_If participant goes back to MHV landing page for medications_) Why did you go back to the MHV landing page?
 - (_Pay attention to_) Did they use breadcrumbs?
 - (_If participant clicks on mega menu, stop them from continuing_) Why did you click there, and what do you expect to find there?
@@ -152,6 +155,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant can't find it_) Where would you expect to find that? (If still struggle, tell me it's under medical records.)
 
 **Must ask:**
+- What would you normally do? 
 - (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
 - (_Pay attention to_) Where does participant click first, and ask why?
 - (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
