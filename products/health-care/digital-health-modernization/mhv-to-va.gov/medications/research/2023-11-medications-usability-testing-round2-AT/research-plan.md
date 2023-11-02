@@ -26,17 +26,17 @@ This research fits into these points of a Veteran's Journey:
 ## **Research Goals**
 
 1. Understand if design updates made to the following areas improve Veterans' experience with managing their medications:
-    1. Fill/refill medications
+    1. Fill / refill medications
     2. Status of medications
     3. Medication management
     4. Other content updates
 2. Identify any usability issues Veterans may experience with managing their medications.
-3. Identify any barriers that may prevent Veterans who use screen-readers and text-magnifiers from completing their Medication management goals.
-4. Identify any barriers that may prevent Veterans who have mild to severe Cognitive Disabilities from completing their Medication management goals.
+3. Identify any barriers that may prevent Veterans who use screen-readers and text-magnifiers from completing their medication management goals.
+4. Identify any barriers that may prevent Veterans who have mild to severe Cognitive Disabilities from completing their medication management goals.
 
 ## **Outcome**
 
-The results of this study will help us determine if our updated designs provide the best user experience for Veterans to manage and view their medications. This will inform any further iterations of the design before launch.
+The results of this study will help us determine if our updated designs provide the best user experience for Veterans to manage and view their medications. This will inform any further iterations of the design before the Phase 1 launch.
 
 ## **Research questions**
 
@@ -52,29 +52,29 @@ The results of this study will help us determine if our updated designs provide 
     2. Are Veterans able to identify which medication has never been filled?
 4. Are Veterans able to find the information they need to manage and understand their prescriptions?
     1. Do Veterans understand the information provided on tracking a shipped medication?
-5. Do Veterans use the 'sort' feature to find a prescription not readily on their list.
+5. Do Veterans use the 'sort' feature to find a medication not readily on their list.
     1. How do Veterans expect to find a medication if they do not recall the name?
-    2. What are Veterans' attitudes towards finding a prescription?
+    2. What are Veterans' attitudes towards finding a medication?
 6. Do Veterans understand how they can request multiple refills on this page?
-    1. How do Veterans expect to fill multiple prescriptions?
+    1. How do Veterans expect to fill multiple medications?
 
 ## **Hypothesis**
 
-_Hypothesis 1:_ Most Veterans will be able to find the information they need to fill/refill their prescriptions.
+_Hypothesis 1:_ Most Veterans will be able to find the information they need to fill/refill their medications.
 
 _Hypothesis 2:_ Most Veterans will understand the statuses of their medications.
 
 _Hypothesis 3:_  Most Veterans will be able to find the information they need to manage and understand their medications.
 
-_Hypothesis 4: Most_ Veterans will find never-filled prescriptions.
+_Hypothesis 4: Most_ Veterans will find never-filled medications.
 
-_Hypothesis 5: Most_ Veterans will use the 'sort' feature to quickly find prescriptions and will express positive feedback towards it.
+_Hypothesis 5: Most_ Veterans will use the 'sort' feature to quickly find medications and will express positive feedback towards it.
 
-_Hypothesis 6_: Some Veterans will prefer a "checkbox" option for refilling multiple prescriptions.
+_Hypothesis 6_: Some Veterans will prefer a "checkbox" option for refilling multiple medications.
 
 ## **Methodology**
 
-We will conduct moderated usability testing sessions in which we will ask users to navigate the live website while we observe their behavior, and ask follow-up prompts as needed.
+We will conduct moderated usability testing sessions in which we will ask participants to navigate the live website while we observe their behavior, and ask follow-up prompts as needed. We will use a prototype for one task with our sighted participants.
 
 ### **Location**
 
@@ -82,9 +82,11 @@ Data collection will be remote. We will use Zoom.
 
 ### **Research materials**
 
-Link to conversation guide
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-11-medications-usability-testing-round2-AT/conversation-guide.md)
 
 [Link to staging website](https://staging.va.gov/my-health/about-medications/)
+
+[Link to Prototype]
 
 ## **Recruitment**
 
@@ -92,7 +94,7 @@ Link to conversation guide
 
 We will partner with Perigean to recruit Veterans.
 
-We will schedule a total of 24 Veterans for an expected completion rate of 18 usability tests.
+We will schedule a total of 24 Veterans for an expected completion rate of 14 usability tests.
 
 ### **Recruitment criteria – Screen Reader Users**
 
@@ -139,30 +141,36 @@ For screen reader users, we will schedule a total of 12 Veterans for an expected
 
 ### **Screener for screen reader users**
 
-1. Please make sure that ALL participants are willing to complete their interview **on the device they specified when recruited** and:
+Please make sure that ALL participants are willing to complete their interview **on the device they specified when recruited** and:
 
 - During the session, are willing to share their screen and audio
 - Have a working microphone and camera on their device
 - Depend on screen readers to access ALL digital content
 
-2. Do you need to use screen reader technology to use the internet, such as Voiceover on a Mac, iPhone or iPad, Talkback on an Android device, or NVDA JAWS on a Windows computer?
+1. Do you need to use screen reader technology to use the internet, such as Voiceover on a Mac, iPhone or iPad, Talkback on an Android device, or NVDA or JAWS on a Windows computer?
 
-    1. _Yes (Proceed to 3)_
+    1. _Yes (Proceed to 2)_
     2. _No (Unqualified)_
 
-3. Which screen reader would you be using for the session?
-    1. NVDA
-    2. JAWS
-    3. Voiceover
-    4. Talkback
-    5. Other – please specify
-
-4. Are you blind or visually impaired and rely on a screen reader for accessing ALL digital content?
+2. Are you blind or visually impaired and rely on a screen reader for accessing ALL digital content?
 
     1. Yes – I need a screen reader to access ALL digital content _(Recruit)_
     2. Some – I need a screen reader to access SOME digital content, or I only use Screen reader optionally _(Unqualified)_
     3. No – I do not need a screen reader to access digital content. _(Unqualified)_
 
+3. Which screen reader will you be using for the session?
+    1. NVDA
+    2. JAWS
+    3. Voiceover
+    4. Talkback
+    5. Other – please specify
+       
+4. How long have you been using a screenreader?
+    1. Less than 1 year
+    2. 1 - 2 years
+    3. 3 - 5 years
+    4. 5 - 10 years
+    5. More than 10 years 
 
 5. Have you been diagnosed with (formally or informally) a cognitive disability? This includes any intellectual disability, ADHD, Autism Spectrum Disorder, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
 
@@ -315,7 +323,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Ade Ajayi
 - Participant recruiting & screening: Perigean
 - Project point of contact: Ade Ajayi & Anne Costello ([anne.costello@bylight.com](mailto:anne.costello@bylight.com))
-- Accessibility specialist: Angela Fowler ([Angela.fowler@va.gov](mailto:Angela.fowler@va.gov)) and Bobby Bailey (robert.m.bailey@bylight.com)
+- Accessibility specialist: Angela Fowler ([Angela.fowler@va.gov](mailto:Angela.fowler@va.gov)) 
 - Participants for pilot test: TBD – we will do this ourselves, thank you.
 - Note-takers: Harrison Amelang ([Harrison.amelang@bylight.com](mailto:Harrison.amelang@bylight.com))
-- Observers: Coulton Bunney ([Coulton.bunney@va.gov](mailto:Coulton.bunney@va.gov)), Lois Lewis ([lois.j.lewis@omb.eop.gov](mailto:lois.j.lewis@omb.eop.gov)) Kay Lawyer ([katherine.lawyer@va.gov](mailto:katherine.lawyer@va.gov))
+- Observers: Coulton Bunney ([Coulton.bunney@va.gov](mailto:Coulton.bunney@va.gov)), Lois Lewis ([lois.j.lewis@omb.eop.gov](mailto:lois.j.lewis@omb.eop.gov)) and Bobby Bailey (robert.m.bailey@bylight.com)
