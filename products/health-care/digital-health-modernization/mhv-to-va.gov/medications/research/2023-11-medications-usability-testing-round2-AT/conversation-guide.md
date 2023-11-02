@@ -290,6 +290,12 @@ _**[If they are not okay with it, ask]**_
 
 _[Observe how the Veterans gets to this medication, do they scroll or use sort feature?]_
 
+_[If they use the sort]_
+
+I noticed you used the sort feature.
+- Did it meet your expectations?
+- Is there anything you would change about it?
+
 Experience with finding/not finding the RX.
 
 - _**[If they do not find their medication not on the list]**_ Tell me about your experience in the past with finding medications.
@@ -304,6 +310,7 @@ Experience with finding/not finding the RX.
 
 - How does the Veteran find a prescription not readily on the page?
 - Does the Veteran interact with the sort feature?
+- Does the Veteran expect the sort function to be bidirectional?
 - Do Veterans using AT encounter any usability problems in completing this task?
 - Do Veterans with Cognitive Disabilities encounter any usability problems in completing this task?
 
