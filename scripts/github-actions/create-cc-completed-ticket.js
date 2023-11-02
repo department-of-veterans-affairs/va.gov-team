@@ -48,8 +48,8 @@ async function getTeamInfo() {
       },
       headers: {
         Accept: 'application/vnd.github+json',
-        'User-Agent': 'it-harrison',
-        Authorization: `Bearer ${TOKEN}`,
+        // 'User-Agent': 'it-harrison',
+        Authorization: `Bearer ${GITHUB_TOKEN}`,
         'X-GitHub-Api-Version': '2022-11-28'
       },
     });
