@@ -97,8 +97,8 @@ We’d like to recruit 12 participants for a total of 8 completed sessions:
 
 We would like to request a kick-off meeting with Perigean to go over the recruitment criteria and screener questions.
 **Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes**
-- Wednesday, October 11: 10 - 12pm, 3 - 4:30pm EST 
-- Thursday, October 12:  10 - 12pm, 1 - 2pm, 3 - 4pm EST 
+- Monday, November 6: 10 - 12pm, 3 - 4:30pm EST 
+- Tuesday, November 7:  10 - 12pm, 1 - 3pm EST
 
 ### Recruitment criteria
 
@@ -169,12 +169,12 @@ Some participants:
 ## Timeline
 
 ### Prepare
-- Pilot: Week of October 16th 
+- Pilot: Week of October 6  
 - Pilot participant email: TBD
 - Date and time of pilot session: TBD
 
 ### Research sessions
-Planned dates of research: October 19 - 26th 
+Planned dates of research: November 14 - 21st
 
 ### Length of sessions
 * Session length: 1 hour
@@ -184,12 +184,12 @@ Planned dates of research: October 19 - 26th
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| 10/19/2023 | 9am - 4pm; 5:30pm - 7pm |	
-| 10/20/2023 | 9am - 5pm |
-| 10/23/2023 | 9am - 5pm; 5:30pm - 7pm |
-| 10/24/2023 | 9am - 5pm | 
-| 10/25/2023 | 9am - 5pm; 5:30pm - 7pm |
-| 10/26/2023 | 9am - 5pm | 
+| 11/14/2023 | 9am - 4pm; 5:30pm - 7pm |	
+| 11/15/2023 | 9am - 5pm |
+| 11/16/2023 | 9am - 5pm; 5:30pm - 7pm |
+| 11/20/2023 | 9am - 5pm | 
+| 11/21/2023 | 9am - 5pm; 5:30pm - 7pm |
+| 11/22/2023 | 9am - 5pm | 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
@@ -210,7 +210,7 @@ all others to sign up via sign up list.
 
 ## Approvals
 - Reviewed and approved by Samara Strauss on 10/6/23
-- Reviewed and approved by Patrick Bateman on 
+- Reviewed and approved by Patrick Bateman on 10/10/23
 - Reviewed and approved by Shane Strassberg on 
 
 
