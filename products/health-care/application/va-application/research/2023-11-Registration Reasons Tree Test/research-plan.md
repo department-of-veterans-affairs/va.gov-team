@@ -185,7 +185,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: N/A
 
 ### Research sessions
-* Planned dates of research: November 27 - December 8, 2023
+* Planned dates of research: November 27 - December 8, 2023 (TBD, adjusting around holiday weekend, will discuss in kickoff call)
 * Study will be open for about 2 weeks, with the starting date (as soon as Perigean sends out emails).
 
 ### Length of sessions
