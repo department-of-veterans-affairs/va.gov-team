@@ -196,7 +196,7 @@ Please list the people who will be serving in each role.
 - Moderator: Jonathan Nelson (jonathanj.nelson@adhocteam.us)
 - Research guide writing and task development: Jonathan Nelson
 - Participant recruiting & screening: Perigean
-- Project point of contact: Jonathan Nelson (jonathanj.nelson@adhocteam.us)
+- Project point of contact: Jonathan Nelson (jonathan.nelson@adhocteam.us)
 - Participants for pilot test: TBD
 - Note-takers: Shared amongst team members
 - Observers: 
