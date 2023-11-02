@@ -1,6 +1,6 @@
 # About this Research
 
-- [Research Repo Ticket - TBD]()
+- [Research Repo Ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/432)
 - [Mural board for note taking - TBD]()
 - [Recruitment diversity checker spreadsheet - TBD]()
 
