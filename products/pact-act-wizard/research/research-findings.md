@@ -371,7 +371,7 @@ A different participant said that it's frustrating that he **doesn't know  wheth
 1. We should have built a second version of the *You may be eligible* results page in order to show presumptive conditions for Vietnam/Agent Orange because that would have been easier for the Vietnam-era participants to relate to.
 1. The single date in the *You may be eligible* results page *(on or after August 2, 1990)* wasn't mentioned by most participants. Perhaps it would have been more natural to have had a conversation around dates if the sample results page had a date range instead of a single date as some of the content does *(e.g., between January 9, 1962, and May 7, 1975).*
 1. Asking participants to rate their confidence about knowing what to do next was problematic when the results page they were looking at was not relevant to their specific situation.
-1. We could have asked the two participants who were family members of a Veteran to go through the PACT Act Wizard on behalf of their Veteran family member to see if they knew enough about their family member's military service to answer the questions. 
+1. We could have asked the two participants who were family members of a Veteran to go through the PACT Act Wizard on behalf of their Veteran family member to see if they knew enough about their family members' military service to answer the questions. 
 
 ## All Recommendations
 Preliminary ideas for recommendations are listed below as input to discussion with the team and stakeholders.
