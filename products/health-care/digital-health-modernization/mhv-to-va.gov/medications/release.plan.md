@@ -1,9 +1,8 @@
 
 # MHV on va.gov Medications- Release Plan
-## Guidance
+## Release Context
 
-_This Release Plan Template is intended to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes._
-* _With the Secure Messaging release (and other subsequent features from MyHealtheVet) we are following the phase 0-4 approach as determined by the VA.gov leadership team.  The below summarizes the various phases and our plans to release_
+* _With the Medications release (and other subsequent features from MyHealtheVet) we are following the phase 0-4 approach as determined by the VA.gov leadership team.  The below summarizes the various phases and our plans to release_
 * _In Phase 0 "Trusted Users", the application will be in a published state, but can only be found by knowing the URL.  In addition, users must be whitelisted to allow authentication.  Users that are not whitelisted will be redirected back to the MHV experience.  The invited users (a few hundred or less) will be provided an email address to direct feedback to.  There will be no changes to existing links or experiences on either VA.gov or MHV.
 * _In Phase 1 "Try Me", a url path with be provided from MHV to the new application on VA.gov.  Users will no longer be invited/whitelisted to try the new experience.  They can also continue to use the MHV application.  Users will be asked to use the feedback feature (unlikely to provide just an email address).
 * _In Phase 2 "VA.gov transitions", links will be added to both MHV and VA.gov to allow users to experience the new application.  New users from each site will be direction to this new application first.
@@ -12,10 +11,8 @@ _This Release Plan Template is intended to help ensure your new VSP product or f
 
 Throughout the phases, a rollout phase checklist is being completed and maintained by the leadership team. https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.planner/_djb2_msteams_prefix_3042355925?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3A9d84a8f4d82445d6b7c9bf2fccfed313%40thread.tacv2%22%7D&groupId=72671e06-8480-4618-8a83-071bbc4e7ea3&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&allowXTenantAccess=false
 
-
 **Planning** sections will be filled out prior to each phase, and the **Results** sections as we complete each phase. 
 ---
-
 ## Phase 0: Trusted Users
 
 ### Planning:
