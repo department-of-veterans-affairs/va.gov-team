@@ -225,9 +225,7 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - Impact Area: A11y
 - Appears on: Content style guide 05 
 - WCAG: 3.1
- 
-
- ### Complete Soon
+- 
 #### Finding: Consistent Navigation  
 - Issue Description: Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
 - Desired Outcome:  Consider going back to the two-button pattern.
