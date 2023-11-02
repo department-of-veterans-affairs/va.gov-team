@@ -1,0 +1,182 @@
+# Initiative Brief 
+
+
+
+
+## Overview
+
+Expansion of the military information available on VA.gov will focus on the categories below:
+- Integrating additional military data into VA.gov
+- Linking to ILER Records
+- Allowing for edits/updates to ILER records
+
+Given the broad 
+
+### Integrate the following data into VA.gov
+
+The MVP datapoints VA leadership is interested in adding to the VA.gov profile include the following:
+
+1. dates of, and branches of, service (already supported)
+2. units with which the Veteran or Service member served
+3. deployment locations and start and end dates of deployments
+4. military occupational specialties
+5. training courses
+6. military awards and decorations
+
+Additionally, the following data would eventually be required, but VA leadership is currently determining requirements around this. This would not be MVP.
+
+1. non-military deployment data
+2. a registry that verifies participation in a Toxic Exposure Risk Activity (TERA) memorandum
+
+Per VBA’s analysis, this list is composed of elements that a Veteran will need the ability to view in order to verify a TERA, hazards or presumptions. VA and DoD anticipate Veterans and Service members will most often use ILER to verify their participation in a TERA or hazards to qualify for health care benefits or compensation benefits under PACT, or previously established presumptions for:
+- radiation (38 CFR 3.309(d))
+- herbicides (38 CFR 3.309(e))
+- contaminated water at Camp LeJeune (38 CFR.3.309(f))
+- ionizing radiation (38 CFR 3.311)
+- Persian Gulf exposures (38 CFR 3.317)
+- fine particulate matter (38 CFR 3.320). 
+
+The military information page in the profile should provide read access to the data elements to aid a veteran in their application process. 
+
+### Link to ILER records
+
+We can access a PDF version of someone's ILER record, so linking to this would suffice for MVP solution to Section 9105.
+
+### Allow people to update their ILER record
+
+VA leadership is not clear on how exactly to make this possible and they’re still working with their DoD counterparts to satisfactorily answer the legislative imperative in Section 803. A lightweight MVP might be giving veterans a DoD number to call. Ideally, over time, we'd have a better option than that.
+
+## MVP 
+The scope of those three things is expansive. With that in mind we're using the 526EZ form to inform our initial focus to the items that will most likely assist veterans when completing the 526EZ. The 526EZ electronic form is expanding to incorporate additional questions. The military information we're adding to the Profile should help veterans when completing those questions. 
+
+With that in mind we'll start by adding units, deployment locations/dates, and military occupation.
+
+### Disability claim (526EZ)
+
+- [Paper form](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
+- [Form on VA.gov staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
+  - Access with user 15 or 68
+
+## Problem Statement
+
+We know veterans use various documents to piece together their military history when applying for benefits. Many use a copy of their DD214, but not all data required is available. Some use a PDF printout of their ILER record. Again, this isn't without issues as the data can be confusing and isn't organized in teh b
+
+- As a Veteran, I want to see what information VA has about my military history, and to be able to correct it if it is inaccurate.
+- As a Veteran, I want to know if I served in an area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
+
+
+## User Outcomes
+
+### Desired User Outcomes
+
+#### Phase 1: Read Access
+- Users should be able to access the 8 key data elements of their military record from the VA.gov profile so they can apply for benefits 
+- Lost DD214s should be less worrisome for veterans and the urgency of locating military information when applying for benefits will be reduced as the data will always be available in the profile. 
+- expanded military information in the VA.gov Profile would be accessible to pre-fill forms on other parts of the VA.gov website
+
+
+#### Phase 2: Edit Access
+- Edits to the source data for ILER should be placed in the hands of veterans and proper documentation for the edits should be captured  
+
+
+
+### Undesired User Outcomes
+- Nobody uses this or knows to look for this information
+
+## Business Outcomes
+
+### Desired Business Outcomes
+
+-   Providing Veteran’s with a link to their ILER record will help us meet the letter of the law on the legislative requirements outlined above.
+-  Veteran records will be more accurate if Veterans are able to at a minimum see what the VA has in their systems. Eventually with phase II the hope is they'll be able to update their information or at least initiate some sort of corrective process. If veterans are able to update their information, this would reduce errors in their records.
+- The benefit application process will be more efficient as pre-fill will reduce time spent completing forms.
+
+### Undesired Business Outcomes
+
+Given the complexity of the data contained in ILER, it’s not an efficient use of resources to display a copy of each veteran’s ILER data without also adding in additional context. This would be technically challenging and time consuming given the magnitude of variations in veterans records and experiences. 
+
+We don’t want to spend time and resources developing highly complex support structures around the ILER documentation and instead should focus energy on supplying data that would help veterans gain access to benefits under the PACT act 
+
+
+## Proposed Solution
+
+### Phase 1: Read Access 
+This is focused on read access to two things, 1)  ILER and 2) military record data
+- Give Veterans access to a PDF version of their ILER report
+- Get veterans read access to as many of the key data elements as possible (currently 6 of 8)
+
+### Phase 2:  Read Access (continued)
+Finalize read access by adding in the non-mvp data elements (this is dependent on our stakeholders more concretely defining the scope of these two elements) 
+- Get veterans read access to the final two data elements 
+
+### Phase 3: Edit Access 
+
+This is highly dependent on DoD/VBA conversations around Section 803 and is not ready to be worked on. 
+
+We'll support some kind of edit access/process (ideas that are not finalized by the working group: link to respective DoD military record corrections website, create a VA process that electronically delivers a military record correction request to the respective branch of the DoD, update the data through some process where “VA to promulgate a regulation defining the ‘evidence considered necessary.’”) 
+
+
+## Measuring Success
+
+- [Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986) 
+
+### Objective #1: 
+
+(Leave blank for now)
+
+**When filling in data -- update dates to be 1 month pre-launch, one month post launch (to 100%), and the second month post-launch (to 100%) based on actual launch dates.**
+
+
+|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|-------------|---------------|-------------------|
+|||||
+
+
+## Key deliverables / artifacts
+
+(This is just a starting list. Feel free to add whatever is relevant here.)
+
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)
+- [Mural refinement ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?sender=uaa72d11015d3f7c704a64191)
+- [Google Doc Project Outline](https://docs.google.com/document/d/1aiw0drerrscjmgDtRLEaLlwvl58ZvLSdKcE_K0XGLsE/edit)
+- [sensitive repo directory (contains stakeholder artifacts)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/profile/military_info/2023-enhanced-military-information)
+- QA Plan
+- Release plan
+
+## Key dates
+
+- September 2023: Initial discussions; project kickoff
+- September-October 2023: Discovery
+- October 2023: Started collaborating with the 526 team; Decided on our MVP approach; Produced initial designs
+- November-December 2023: Build
+
+## Key decisions
+|Date|Decisions|Reason|Impacts|
+|---|---|---|---|
+|||||
+|||||
+|||||
+
+## Design
+
+[Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+   
+### Before
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-military-information-sept-2023.png" width="375" alt="screenshot of profile military information section" />
+
+### After
+
+
+## Frontend
+
+
+
+
+
+
+
+
+
+
+
