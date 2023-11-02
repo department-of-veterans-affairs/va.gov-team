@@ -6,7 +6,7 @@ The online burial 530EZ form and the pension 527EZ form were developed and relea
 - GitHub Label: umbrella, burial
 - Slack channel: benefits-non-disability
 - Product POCs: Laura Steele (Coforma)
-- Stakeholders: Emily Theise (OCTO), Julie Strotham (OCTO), Henne, Eric J., VBAVACO; Minyard, Terrence, VBAVACO; Carlin, Chelsey M., VBAVACO; Domzalski, Maureen, VBAVACO; Feuer, Jennifer, VBAVACO; Uttley, Derek, VBAVACO
+- Stakeholders: Emily Theise (OCTO), Julie Strothman (OCTO), Henne, Eric J., VBAVACO; Minyard, Terrence, VBAVACO; Carlin, Chelsey M., VBAVACO; Domzalski, Maureen, VBAVACO; Feuer, Jennifer, VBAVACO; Uttley, Derek, VBAVACO
 
 ## The Problem
 
