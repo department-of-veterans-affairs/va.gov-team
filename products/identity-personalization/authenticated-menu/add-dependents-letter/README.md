@@ -126,8 +126,8 @@ Users have trouble finding dependent information and where to download their ben
 
 |KPI/metric|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|
-|Clicks into "**Letters**" from the authenticated menu |44,825|50,170|52,545||
-|Clicks into "**Dependents**" from the authenticated menu|23,204|25,611|27,597||
+|Clicks into "**Letters**" from the authenticated menu |44,825|50,170|52,545|50,681|
+|Clicks into "**Dependents**" from the authenticated menu|23,204|25,611|27,597|26,397|
 
 **KPI: Track what kind of impact adding Letters and Dependents to the auth menu has on pageviews.**
 
