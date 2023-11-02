@@ -100,9 +100,9 @@ Note: We will also recruit 1-3 School Certifying Officials and Work Study Superv
 
 ### Recruitment criteria
 
-We need to recruit 10 Veterans and 6 dependents for a total of 8-10 completed sessions.
+We need to recruit 14 Veterans and 6 dependents for a total of 10-12 completed sessions.
 
-#### Cohort 1: 10 Veterans
+#### Cohort 1: 14 Veterans
 
 |# of participants|Criteria|
 |:--|:--|
@@ -114,8 +114,9 @@ We need to recruit 10 Veterans and 6 dependents for a total of 8-10 completed se
 |Exactly 5|Are willing to join from a desktop device|
 |At least 4|Are over 55 years old|
 |At least 4|Identify as Black, Hispanic or Native|
+|Exactly 4|Have a cognitive disability or consideration|
 |Exactly 3|Require screenreader software to use a desktop computer|
-|Exactly 3|Have a cognitive disability or consideration|
+|Exactly 3|Require screenreader software to use a mobile phone|
 |At least 2|Identify as a gender other than male|
 
 We have a submitted a [Recruitment Request: Cohort 1 - Veterans](url goes here).
