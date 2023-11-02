@@ -54,16 +54,16 @@ async function main() {
   try {
     const title = await getTitleInfo();
 
-    const response2 = await fetch(ENDPOINT, {
-      method: 'post',
-      body: JSON.stringify({
-        title,
-        body: 'this is a test'
-      }),
-      // headers: HEADERS
-    });
-    const r2 = await response2.json();
-    console.log('r2 is....', r2);
+    // const response2 = await fetch(ENDPOINT, {
+    //   method: 'post',
+    //   body: JSON.stringify({
+    //     title,
+    //     body: 'this is a test'
+    //   }),
+    //   headers: HEADERS
+    // });
+    // const r2 = await response2.json();
+    // console.log('r2 is....', r2);
 
     fs.writeFileSync("issue_title.txt", title);
   } catch (error) {
