@@ -70,6 +70,7 @@ async function getTeamInfo() {
 
     fs.writeFileSync("issue_title.txt", removeParens(titleInfo));
   } catch (error) {
+    console.log(error);
     process.exitCode = 1;
   }
 }
