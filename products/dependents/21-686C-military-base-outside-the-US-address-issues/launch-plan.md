@@ -1,5 +1,5 @@
-# Research Plan for Benefits and Claims - Dependent Experience Team, Dependency Claims, VA Form 21-686C Military Base Outside the U.S. Address Issues November 2023
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Launch Plan for Benefits and Claims - Dependent Experience Team, Dependency Claims, VA Form 21-686C Military Base Outside the U.S. Address Issues November 2023
+*Plans for launch of changes to 686c ZIP validations and error messaging.* 
 
 ## Background
 Briefly describe the background of your product. Consider:
