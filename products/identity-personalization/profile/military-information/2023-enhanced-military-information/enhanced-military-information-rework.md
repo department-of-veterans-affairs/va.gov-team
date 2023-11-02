@@ -5,12 +5,12 @@
 
 ## Overview
 
+This initiative will be comprised of several phases. When considering the entirety of this effort, our goal is to meet the congressional mandates around elevating toxic exposure data in a way that is holistic and matches veterans' mental models.
+
 Expansion of the military information available on VA.gov will focus on the categories below:
 - Integrating additional military data into VA.gov
 - Linking to ILER Records
 - Allowing for edits/updates to ILER records
-
-Given the broad 
 
 ### Integrate the following data into VA.gov
 
@@ -47,9 +47,9 @@ We can access a PDF version of someone's ILER record, so linking to this would s
 VA leadership is not clear on how exactly to make this possible and they’re still working with their DoD counterparts to satisfactorily answer the legislative imperative in Section 803. A lightweight MVP might be giving veterans a DoD number to call. Ideally, over time, we'd have a better option than that.
 
 ## MVP 
-The scope of those three things is expansive. With that in mind we're using the 526EZ form to inform our initial focus to the items that will most likely assist veterans when completing the 526EZ. The 526EZ electronic form is expanding to incorporate additional questions. The military information we're adding to the Profile should help veterans when completing those questions. 
+The scope of those three things is expansive. With that in mind we're using the 526EZ form to inform our initial focus to the items that will most likely assist veterans when completing the 526EZ. 
 
-With that in mind we'll start by adding units, deployment locations/dates, and military occupation.
+The 526EZ electronic form is expanding to incorporate additional questions related to toxic exposure. When answering those questions, it's helpful for veterans to have military information on-hand. We're adding adding _units, deployment locations/dates, and military occupation_ which aligns with the questions within the form. 
 
 ### Disability claim (526EZ)
 
@@ -63,6 +63,23 @@ We know veterans use various documents to piece together their military history 
 
 - As a Veteran, I want to see what information VA has about my military history, and to be able to correct it if it is inaccurate.
 - As a Veteran, I want to know if I served in an area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
+
+
+## Product Goal
+
+### Overall 
+If we are thinking of the entire expanded military effort, the product goal is:
+
+To meet the congressional mandates around elevating toxic exposure data in a way that is holistic and matches veterans' mental models.
+
+### MVP 
+If we are thinking of this MVP portion of this effort, the product goal is:
+
+To holistically support the addition of toxic exposure fields into the 526.
+For the MVP, our work does this by:
+
+Making it easier for a 526 developer to incorporate these fields into prefill because we will have completed the original integration of this data into vets-api.
+Giving this data a permanent place on VA.gov, so veterans can easily review this information.
 
 
 ## User Outcomes
