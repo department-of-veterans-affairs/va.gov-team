@@ -20,5 +20,4 @@ jobs:
       - name: check ticket
         run: |
           THE_TICKET="${{ steps.get-ticket.outputs.THE_TICKET }}"
-          number=$(echo "$THE_TICKET" | jq '.number')
-          echo "Issue Number: $number"
+          echo "THE_TICKET"
