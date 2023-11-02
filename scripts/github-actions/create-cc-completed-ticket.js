@@ -1,5 +1,6 @@
 const fs = require("fs");
 const fetch = require('node-fetch');
+const axios = require('axios');
 
 const {
   GITHUB_TOKEN,
@@ -38,22 +39,34 @@ async function getTeamInfo() {
       titleInfo = `${titleInfo}/${featureName}`
     }
 
-    const data = JSON.stringify({
-      title: 'this is the title',
-      body: 'this is a test'
+    const resps = await axios({
+      method: 'post',
+      url: ENDPOINT,
+      data: {
+        title: 'this is a test',
+        body: 'this is a test'
+      },
+      headers: {
+        Accept: 'application/vnd.github+json',
+        'User-Agent': 'it-harrison',
+        Authorization: `Bearer ${TOKEN}`,
+        'X-GitHub-Api-Version': '2022-11-28'
+      },
     });
 
-    const response2 = await fetch(ENDPOINT, {
-      method: 'post',
-      body: data,
-      headers: {
-        'authorization': `Bearer ${GITHUB_TOKEN}`,
-        'Accept': 'application/vnd.github+json',
-        'X-GitHub-Api-Version': '2022-11-28'
-      }
-    });
-    const r2 = await response2.json();
-    console.log('r2 is....', r2);
+    console.log('---->', resps);
+
+    // const response2 = await fetch(ENDPOINT, {
+    //   method: 'post',
+    //   body: data,
+    //   headers: {
+    //     'authorization': `Bearer ${GITHUB_TOKEN}`,
+    //     'Accept': 'application/vnd.github+json',
+    //     'X-GitHub-Api-Version': '2022-11-28'
+    //   }
+    // });
+    // const r2 = await response2.json();
+    // console.log('r2 is....', r2);
 
     fs.writeFileSync("issue_title.txt", removeParens(titleInfo));
   } catch (error) {
