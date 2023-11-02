@@ -36,13 +36,9 @@ function removeParens(title) {
 
 async function getTitleInfo() {
   try {
-    const response = await fetch(ENDPOINT, {
-      method: 'get',
-      headers: HEADERS
-    });
-    const data = await response.json();
-    console.log('---->', data);
-    const { teamName, productName, featureName } = parse(data.body);
+    const response = await fetch(ENDPOINT);
+    const { body } = await response.json();
+    const { teamName, productName, featureName } = parse(body);
     let titleInfo = `Completed: Kickoff - ${teamName} - ${productName}`;
     if (productName !== featureName && featureName) {
       titleInfo = `${titleInfo}/${featureName}`
@@ -64,7 +60,7 @@ async function main() {
         title,
         body: 'this is a test'
       }),
-      headers: Headers
+      headers: HEADERS
     });
     const r2 = await response2.json();
     console.log('r2 is....', r2);
