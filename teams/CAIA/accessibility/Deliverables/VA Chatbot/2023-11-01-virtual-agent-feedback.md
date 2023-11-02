@@ -87,3 +87,7 @@ An adjustment was made to delay incoming messages to ensure that the full conten
 ## Next steps
 
 CAIA is happy to continue to support ya'll as you see fit. OCTO c/o Martha and CAIA is recommending that one or more CAIA accessibility specialists embed with your team for a short time to provide more direct assistance with tasks like testing and design feedback.
+
+### Update 11/2/2023
+- Eli will be the primary embedded CAIA team member.
+- SK, Sara and Jamie will be rotating support. 
