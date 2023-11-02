@@ -19,5 +19,4 @@ jobs:
 
       - name: check ticket
         run: |
-          THE_TICKET="${{ steps.get-ticket.outputs.THE_TICKET }}"
-          echo "THE_TICKET"
+          curl -s https://api.github.com/repos/department-of-veterans-affairs/va.gov-team/issues/65064 | jq '.number'
