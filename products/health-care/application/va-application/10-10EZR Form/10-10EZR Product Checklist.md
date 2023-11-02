@@ -42,9 +42,9 @@
 - [Content brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/10-10EZR%20Form)
 - [IA tracker ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65919)
 - [IA Design document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/10-10ezr-online-form.md)
-- Regression test plans
+- [Regression test plans](https://dsvavsp.testrail.io/index.php?/plans/view/4964)
 - TestRail 
-     - [Test cases](https://dsvavsp.testrail.io/index.php?/suites/view/11&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
+     - [Test cases](https://dsvavsp.testrail.****io/index.php?/suites/view/11&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
      - Test plans
      - Test runs
 - Accessibility Testing ticket
