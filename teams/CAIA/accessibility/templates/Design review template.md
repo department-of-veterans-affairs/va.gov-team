@@ -24,8 +24,18 @@
  * [ ] Behavior & navigation advice
 
 ## Findings
-_Advise if finidngs were also given over a call or direcly within a program etc._
+_Advise if findings were also given over a call or direcly within a program etc._
+- [ ] Findings Identified: `The review has not been completed. `
+    - [ ] Major (defects 0-2): `The review has not been completed. `
+    - [ ] Minor (defect 4): `The review has not been completed. `
+- [ ] No Findings Identified
 
-* findings
-* more findings
-* other additional findings
+<details><summary>Toggle to Reveal Defect Findings from CAIA A11ys</summary>
+
+### Major (defects 0-2)
+`The review has not been completed. `
+
+### Minor (defect 4)
+`The review has not been completed. `
+
+</details>
