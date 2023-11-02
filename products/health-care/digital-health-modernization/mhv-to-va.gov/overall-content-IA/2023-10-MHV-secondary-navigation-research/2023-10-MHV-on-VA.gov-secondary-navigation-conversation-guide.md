@@ -60,6 +60,8 @@ Let’s start with a few questions...
 1. What benefits other than healthcare, if any, do you receive from the VA? 
 
 2. Do you normally use your phone or desktop to do things on VA.gov?
+   
+3. What do you normally  
 
 **Screen sharing instructions**
 
