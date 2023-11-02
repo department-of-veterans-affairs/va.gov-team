@@ -27,10 +27,6 @@ jobs:
         shell: bash
         run: npm i node-fetch@2
 
-      - name: Install axios
-        shell: bash
-        run: npm i axios
-
       - name: Run script
         id: get_team_info
         run: node ./scripts/github-actions/create-cc-completed-ticket.js

@@ -1,6 +1,5 @@
 const fs = require("fs");
 const fetch = require('node-fetch');
-const axios = require('axios');
 
 const {
   GITHUB_TOKEN,
@@ -10,6 +9,12 @@ const {
 const [owner, repo] = GITHUB_REPOSITORY.split('/');
 
 const ENDPOINT = `https://api.github.com/repos/${owner}/${repo}/issues/65064`;
+
+const HEADERS = {
+  'Authorization': `Bearer ${GITHUB_TOKEN}`,
+  'Content-Type': 'application/json',
+  'Accept': 'application/vnd.github.v3+json',
+}
 
 function extract(first, last, issue) {
   const [_, _name] = issue.split(first);
@@ -29,50 +34,45 @@ function removeParens(title) {
   return title.replace(/\(/g, '[').replace(/\)/g, ']');
 }
 
-async function getTeamInfo() {
+async function getTitleInfo() {
   try {
-    const response = await fetch(ENDPOINT);
+    const response = await fetch(ENDPOINT, {
+      method: 'get',
+      headers: HEADERS
+    });
     const { body } = await response.json();
     const { teamName, productName, featureName } = parse(body);
     let titleInfo = `Completed: Kickoff - ${teamName} - ${productName}`;
     if (productName !== featureName && featureName) {
       titleInfo = `${titleInfo}/${featureName}`
     }
-
-    const resps = await axios({
-      method: 'post',
-      url: ENDPOINT,
-      data: {
-        title: 'this is a test',
-        body: 'this is a test'
-      },
-      headers: {
-        Accept: 'application/vnd.github+json',
-        // 'User-Agent': 'it-harrison',
-        Authorization: `Bearer ${GITHUB_TOKEN}`,
-        'X-GitHub-Api-Version': '2022-11-28'
-      },
-    });
-
-    console.log('---->', resps);
-
-    // const response2 = await fetch(ENDPOINT, {
-    //   method: 'post',
-    //   body: data,
-    //   headers: {
-    //     'authorization': `Bearer ${GITHUB_TOKEN}`,
-    //     'Accept': 'application/vnd.github+json',
-    //     'X-GitHub-Api-Version': '2022-11-28'
-    //   }
-    // });
-    // const r2 = await response2.json();
-    // console.log('r2 is....', r2);
-
-    fs.writeFileSync("issue_title.txt", removeParens(titleInfo));
+    return removeParens(titleInfo);
   } catch (error) {
     console.log(error);
     process.exitCode = 1;
   }
 }
 
-getTeamInfo();
+async function main() {
+  try {
+    const title = await getTitleInfo();
+
+    const response2 = await fetch(ENDPOINT, {
+      method: 'post',
+      body: JSON.stringify({
+        title,
+        body: 'this is a test'
+      }),
+      headers: Headers
+    });
+    const r2 = await response2.json();
+    console.log('r2 is....', r2);
+
+    fs.writeFileSync("issue_title.txt", title);
+  } catch (error) {
+    console.log(error);
+    process.exitCode = 1;
+  }
+}
+
+main();
