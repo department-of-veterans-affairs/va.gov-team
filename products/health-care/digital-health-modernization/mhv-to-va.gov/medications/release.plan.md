@@ -1,6 +1,5 @@
-# --DRAFT--
 
-# Release Plan
+# MHV on va.gov Medications- Release Plan
 ## Guidance
 
 _This Release Plan Template is intended to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes._
