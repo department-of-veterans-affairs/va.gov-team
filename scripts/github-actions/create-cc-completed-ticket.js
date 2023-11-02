@@ -60,7 +60,7 @@ async function main() {
         title,
         body: 'this is a test'
       }),
-      headers: HEADERS
+      // headers: HEADERS
     });
     const r2 = await response2.json();
     console.log('r2 is....', r2);
