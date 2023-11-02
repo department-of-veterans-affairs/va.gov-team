@@ -284,7 +284,7 @@ One participant said that there **shouldn't be a deadline to apply**, which he h
 
 > *"I can understand that it's about trying to get people to apply, but you should be able to apply anytime" (p9).*
 
-One participant was concerned about applying for PACT Act benefits because of a **presumptive condition that she was diagnosed for but that she doesn't remember seeing in her current problem list**. 
+One participant was concerned about applying for PACT Act benefits because of a **presumptive condition that she was diagnosed with but that she doesn't remember seeing in her current problem list**. 
 
 > *"I have been told by one of my primary care doctors...diagnosed with fibromyalgia, but I don't see it in my problem list...So it might be somewhere in my medical records that he said I had it...If they didn't actually comb through the records and look for it...you can't just search by typing a word. I may get denied saying that there's no medical record that this is something you have" (p8).*
 
