@@ -82,9 +82,10 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 - Tree tests - appropriate for evaluative research
 - Unmoderated 
 
+Using Optimal Workshop, we will create a tree test of VA.gov to see where online Veterans would expect to sign up for a registration reason related to health care. We will include a few pre (4 questions) and post test (2 questions) and a couple 5 scenarios with post-task questions (1-2 per task) to evaluate. 
 
 ### Location
-- Unmoderated
+- Unmoderated - Participants can complete remotely and asynchronously.
 - Optimal Workshop Tree Test link with task questions per scenario
 
 
@@ -93,15 +94,14 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group 1](url goes here)
-- [Link to prototype or OptimalSort session for group 2](url goes here)
-- [Link to prototype or OptimalSort session for group 3](url goes here)
-- [Link to prototype or OptimalSort session for group 4](url goes here)
-- [Link to prototype or OptimalSort session for group 5](url goes here)
-- [Link to prototype or OptimalSort session for group 6](url goes here)
-- [Link to prototype or OptimalSort session for group 7](url goes here)
-- [Link to prototype or OptimalSort session for group 8](url goes here)
+- [Link to prototype or OptimalSort session for group 1](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=1)
+- [Link to prototype or OptimalSort session for group 2](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=2)
+- [Link to prototype or OptimalSort session for group 3](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=3)
+- [Link to prototype or OptimalSort session for group 4](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=4)
+- [Link to prototype or OptimalSort session for group 5](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=5)
+- [Link to prototype or OptimalSort session for group 6](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=6)
+- [Link to prototype or OptimalSort session for group 7](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=7)
+- [Link to prototype or OptimalSort session for group 8](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=8)
 
 
 
@@ -172,10 +172,10 @@ We will use Perigean to recruit participants into cohorts needed for an unmodera
 
 
 ## Timeline
-November November, 2023
+November November 2023
 
 Kickoff call requested
-Preferred date/time: TBD
+Preferred date/time: Novmeber TBD, 2023
 
 
 ### Prepare
@@ -186,14 +186,11 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 * Planned dates of research: November ##-## 2023
+* Study will be open for 2 weeks, with the starting date (as soon as Perigean sends out emails).
 
 ### Length of sessions
 * Session length: Unmoderated, 30 minutes
-* Buffer time between sessions: N/A 
-* Maximum Sessions per day: N/A
 
-### Availability
-Not applicable - unmoderated
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
