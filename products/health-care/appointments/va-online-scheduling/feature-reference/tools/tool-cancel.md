@@ -16,16 +16,18 @@ Veterans can cancel appointments through VAOS.
   - Community Care appointment
   - COVID appointment 
   - Compensation and Pension exam appointment
-  - Video Visit appointment.  
-- Canceled VA appointments with VistA Status = `CANCELLED BY PATIENT` (VSE GUI Expand Entry for appointment) status must display text indicating that the veteran cancelled the appointment.  
-- Canceled VA appointments with VistA Status = `CANCELLED BY CLINIC` (VSE GUI Expand Entry for appointment) status must display text indicating that the facility cancelled the appointment.  
+  - Video Visit appointment.
 - A VA appointment may only be cancelled if either of the following is true:
   - Clinic has Prohibit Access = NO/NULL (VistA Hospital Location file #44)   OR
   - Clinic has  Prohibit Access = YES and VIAB proxy user is IN the privileged user list (VistA Hospital Location file #44).
-- A message must display to the veteran if the system fails to cancel the appointment.  
-- The VistA system must be updated when an appointment is cancelled.  
+- The VistA system must be updated when an appointment is cancelled:  
   -  A VAOS initiated cancelled appointment must file in VistA with status = `CANCELLED BY PATIENT` (VSE GUI Expand Entry for appointment) and VistA Cancel Reason = `UNABLE TO KEEP APPOINTMENT`
   - The original appointment request must be reopened in the VistA system if a VA appointment is cancelled in VAOS.  
+ 
+**Alerts**  
+- Canceled VA appointments with VistA Status = `CANCELLED BY PATIENT` (VSE GUI Expand Entry for appointment) status must display text indicating that the veteran cancelled the appointment.  
+- Canceled VA appointments with VistA Status = `CANCELLED BY CLINIC` (VSE GUI Expand Entry for appointment) status must display text indicating that the facility cancelled the appointment.  
+- A message must display to the veteran if the system fails to cancel the appointment.  
 
 
 ## Specifications
