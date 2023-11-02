@@ -45,7 +45,7 @@
 - [Regression test plans](https://dsvavsp.testrail.io/index.php?/plans/view/4964)
 - TestRail 
      - [Test cases](https://dsvavsp.testrail.****io/index.php?/suites/view/11&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
-     - Test plans
+     - [Test plans](https://dsvavsp.testrail.io/index.php?/runs/view/4963&group_by=cases:section_id&group_order=asc)
      - Test runs
 - Accessibility Testing ticket
 - Technical diagrams (architecture diagram, sequence diagram)
