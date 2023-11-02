@@ -86,7 +86,9 @@ Data collection will be remote. We will use Zoom.
 
 [Link to staging website](https://staging.va.gov/my-health/about-medications/)
 
-[Link to Prototype]
+[Link to desktop prototype](https://www.figma.com/proto/fD29ndCxAF8bW71ViflHnC/VA.gov-Design-System?type=design&node-id=2689-8491&t=5WklVXextXYm4tbV-1&scaling=min-zoom&page-id=2689%3A8490)
+
+[Link to mobile prototype](https://www.figma.com/proto/fD29ndCxAF8bW71ViflHnC/VA.gov-Design-System?type=design&node-id=2670-3473&t=z80mxPboqZHXAipm-1&scaling=min-zoom&page-id=2657%3A3065)
 
 ## **Recruitment**
 
