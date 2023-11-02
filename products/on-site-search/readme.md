@@ -21,3 +21,4 @@ VA.gov is utilizing Search.gov's API in order to more fully customize the look a
   -  Analytics
   -  Monitoring information
 - [Getting Search.gov access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md#getting-access)
+- [Previous initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/initiatives)
