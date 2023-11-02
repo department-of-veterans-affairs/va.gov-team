@@ -58,6 +58,7 @@ Currently, we cannot test our analytics outside of production. This has led to m
 * Spike to determine best technical approach
     * Main option to investigate: simulator testing
     * Could it be automated?
+    * What level of access is required?  Could someone other than Data implement/check this?
 * Implement by testing existing analytics
 
 **V2 and beyond**
