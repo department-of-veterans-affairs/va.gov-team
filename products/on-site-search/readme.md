@@ -5,6 +5,16 @@
 | Onsite Search | [Onsite Search Outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)|You are here|
 | Offsite Search|[Off-site Search Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)|[Off-site Search project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/off-site-search)|
 
+### Background
+
+VA.gov search is powered by Search.gov, a service of the General Services Administration, supporting the search boxes on over 2,000 websites, across 30% of federal domains.  
+
+The technology core of Search.gov's engine is [Elasticsearch](https://www.elastic.co/elasticsearch/).   
+
+VA.gov is utilizing Search.gov's API in order to more fully customize the look and feel of the search results pages in harmony with the site's brand design pattern.
+
+
+
 ## The Problem
 
 Since the release of the modernized VA.gov in November 2018, there has been no dedicated focus to optimize VA.gov's search experience -- both off-site (organic) and on-site -- to the benefit of our unique users.  And yet, search is a primary utility/tool for the modernized VA.gov's users-- e.g., more than 40% of daily site visitors (*validate) are referred by search engines and more than 10% of daily visitors (*validate) use site search.  
