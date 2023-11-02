@@ -18,7 +18,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
+      - name: Install jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install jq -y
+
+      - name: Install Node.js
         uses: actions/setup-node@v2
         with:
           node-version: '18'
@@ -55,5 +60,4 @@ jobs:
 
       - name: Check output
         run: |
-          the_response_is="${{ steps.create-completed-ticket.outputs.CREATED_TICKET }}"
-          echo "----->: $the_response_is" 
+          echo ${{ steps.create-completed-ticket.outputs.CREATED_TICKET }} | jq
