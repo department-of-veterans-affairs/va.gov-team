@@ -5,14 +5,6 @@
 
 Product, business, and technical documentation of [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling) features.
 
-<!-- 
-See also:
-- [Business rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#vaos-product-and-business-rules)
-- [User flows](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=267-19369&t=jIup4zOCLhBYNOvO-4)
-- [Copy docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/content)
-- [Page templates](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=0-2&t=vycMTsKnfBPu5MKo-4)
--->
-
 ## Manage appointments
 
 ### Accessing Appointments
@@ -33,25 +25,26 @@ See also:
 ### Appointment details views
 Booked appointments through VA or CC facilities.
 
-| Feature | Description | Supported |
-|---|---|---|
-| [VA In-person](./appointment-types/va-in-person.md)  | Scheduled, in person appointments at a VA facility | Yes |
+| Feature | Description |
+|---|---|
+| [Data definitions](data-definitions.md) | Explanations of the data VAOS displays in appointment types |
+| [VA In-person](./appointment-types/va-in-person.md)  | Scheduled, in person appointments at a VA facility |
 | [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine | Yes |
-| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | Scheduled telehealth appointments over VA Video Care | Yes |
-| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility | Yes | 
+| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | Scheduled telehealth appointments over VA Video Care |
+| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility |
 | [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility | Yes |
-| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  | Yes |
-| [VA Phone](./appointment-types/va-phone.md) |  Scheduled telehealth appointments that a Veteran joins over the phone. | Yes |
-| [Community care](./appointment-types/community-care.md) |  Scheduled appointment that a Veteran joins at a community care provider | Yes | 
-| [Claim exam appointment](./appointment-types/claim-exam.md) | Scheduled appointment for a claim exam | Yes |
+| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  |
+| [VA Phone](./appointment-types/va-phone.md) |  Scheduled telehealth appointments that a Veteran joins over the phone. |
+| [Community care](./appointment-types/community-care.md) |  Scheduled appointment that a Veteran joins at a community care provider |
+| [Claim exam appointment](./appointment-types/claim-exam.md) | Scheduled appointment for a claim exam |
 
 ### Request details views
 Appointments that Veterans have requested but VA has not booked.
 
-| Feature | Description | Supported |
-|---|---|---|
-| [VA appointment request](./appointment-types/va-request.md)  | Request for a VA appointment | Yes |
-| [Community care appointment request](./appointment-types/community-care-request.md) | Request for a community care appointment | Yes |
+| Feature | Description |
+|---|---|
+| [VA appointment request](./appointment-types/va-request.md)  | Request for a VA appointment |
+| [Community care appointment request](./appointment-types/community-care-request.md) | Request for a community care appointment |
 
 ### Appointment management tools
 Tools Veterans can use to manage their appointments and requests.
