@@ -191,11 +191,11 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 
  **Timing for Recommendations/Considerations** | **Count**|**Impact Areas**|
 |------------------------|------------------|------------------|
-| Complete Now | 2 | `IA`
-| Complete Soon | 2 | `A11y`
+| Complete Now | 2 | `IA` `Content`
+| Complete Soon | 2 | `A11y` `Content`
 | Complete Later | 2 | `A11y`
 | Future Items to Consider | 4 | `A11y`
-| **Total** | **10** | `A11y (8)` `IA(2)`
+| **Total** | **10** | `A11y (7)` `IA(2)` `Content(3)`
 
 <details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
 <br>
@@ -206,19 +206,19 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 #### Finding 4: Users expected to be able to save their progress upon exiting the form.
 - Issue Description: Many users expected a “save” button to accompany the exit process. They gave suggestions such as "Save" and "Save and Continue" buttons. While this study tested the unauthenticated version of the form, the lack of a save button was frustrating for users.
 - Desired Outcome: Authenticated users are aware that a) the form can be saved b) can press X button to save it. If the form saves automatically, they need to be made aware of that on form exit.
-- Experience standard:`Category 03` `Issue 02` [Link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=A%20user%20flow%20provides%20content%20or%20navigation%20to%20help%20users%20understand%20where%20to%20go%20or%20what%20to%20do%20next.)
+- Experience standard:`Category 03` `Issue 02` `User Flows and Navigating` [Link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=A%20user%20flow%20provides%20content%20or%20navigation%20to%20help%20users%20understand%20where%20to%20go%20or%20what%20to%20do%20next.)
 - Defect:`Launch Blocking`
-- Impact Area: `IA`
-- Appears on: `Experience Standards`
+- Impact Area: `IA` `Content`
+- Appears on: `Experience Standards` 
 - WCAG: n/a
 
 
 #### Finding 5: Users wanted to know if the form was being saved or not.
 - Issue Description: Many users assumed that their data would be saved unless we informed them otherwise. For unauthenticated users, make sure it's clear that the data isn't being saved. Use an alert upon form exit, an alert box on the unauth intro page, or similar.
 - Desired Outcome: Unauthenticated users are aware that their data won't be saved if they exit the form before completing/submitting.
-- Experience standard:`Category 03` `Issue 02` [Link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=A%20user%20flow%20provides%20content%20or%20navigation%20to%20help%20users%20understand%20where%20to%20go%20or%20what%20to%20do%20next.)
+- Experience standard:`Category 03` `Issue 02` `User Flows and Navigating` [Link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=A%20user%20flow%20provides%20content%20or%20navigation%20to%20help%20users%20understand%20where%20to%20go%20or%20what%20to%20do%20next.)
 - Defect:`Launch Blocking`
-- Impact Area: `IA`
+- Impact Area: `IA` `Content`
 - Appears on: `Experience Standards`
 - WCAG: n/a
 
@@ -227,10 +227,10 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 #### Finding 1: Make sure content is understandable
 - Issue Description: The word "Chapter" is decribing a step indicator. Because this is a step indicator users may not know what Chapter 2 of 4 may mean on.  "Chapter" was confusing. 
 - Desired Outcome: Consider testing "section" or "part" for clarity. Consider using percentages as well.
-- Experience standard:`Category 05` - The content is written in plain language and doesn't contain excess words or modifiers.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
+- Experience standard:`Category 05` `Issue 05` - The content is written in plain language and doesn't contain excess words or modifiers.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
 - Defect:`Depends`
-- Impact Area: `A11y`
-- Appears on: Content style guide 05 
+- Impact Area: `Content`
+- Appears on: `Content Style Guide`
 - WCAG: 3.1
 - 
 #### Finding 3: Consistent Navigation  
