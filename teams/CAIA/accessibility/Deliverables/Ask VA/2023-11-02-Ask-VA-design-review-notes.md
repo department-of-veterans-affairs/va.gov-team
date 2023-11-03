@@ -2,7 +2,7 @@
 
 # 2023-11-02 Ask VA feedback
 
-REMINDER: Ask about search result pattern, why radio buttons?
+**NOTE:** Because of the limited time available to CAIA accessibility specialists, this review wasn't able to thoroughly examine all aspects of the provided [sketch file](https://www.sketch.com/s/6a75d0a2-e484-4f1e-8675-ad5747a1a871/p/4E7790A9-059D-4A3B-A184-45F1E9434CDB/canvas#Comment). If you have any further questions about anything we've reviewed or missed, please don't hesitate to reach out.
 
 ## General considerations
 
@@ -32,12 +32,20 @@ REMINDER: Ask about search result pattern, why radio buttons?
 	⁃ "Need help?" `H2`
 ```
 
-- Question: are the cards in the card view using filler content, or will they all have identical titles? For these to be easily navigable we suggest giving each card a unique title
 - Questions: 
+	- Are the cards in the card view using filler content, or will they all have identical titles? For these to be easily navigable we suggest giving each card a unique title
 	- In the list view on the authenticated dashboard what is the distinction between "business" and "personal?" 
 	- Is there an existing tabbed component?
 	- If there isn't an existing tabbed pattern within the VA design system or USWDS would headers for each section work instead, combining the info to a single page?
 	- The "list" view appears to be using an interactive table. The [existing table component](https://design.va.gov/components/table) is not well set up for interactive content as your design suggests. We caution you from proceeding here without further research. Tables, generally, aren't used across VA.gov like this. If you do proceed with a table, we suggest that you test it with VERY long question text, as that may help to highlight any issues on mobile and with screenreaders
+
+### Chapter 01
+
+- Our assumption is that the backend of the Ask VA system requires that you ask a number of conditional questions to help properly answer a question -- it may be helpful to provide an explanation for why information, especially personal information, is being requested before allowing someone to enter a question
+
+
+### Chapter 03 
+
 - 
 
 ## Next steps
