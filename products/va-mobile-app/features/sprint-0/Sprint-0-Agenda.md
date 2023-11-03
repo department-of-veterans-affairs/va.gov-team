@@ -42,12 +42,12 @@ The Sprint 0 meeting is a time to do the following:
 * Personalized Notifications
     * Showing changes of statuses, etc.
 * [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
-* App and OS version support (Therese)
+* OS version support (Therese)
 
 ## Ready to Present
 
-* [QA for App Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/QA%20for%20analytics/Sprint%200%3A%20QA%20for%20analytics.md) (Greta)
 * [In-app review updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/In-App%20Review%20Updates/InAppReviewUpdates.md) (Therese)
+* [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese)
 
 
 
