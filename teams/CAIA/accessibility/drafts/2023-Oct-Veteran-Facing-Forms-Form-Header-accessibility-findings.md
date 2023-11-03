@@ -11,7 +11,7 @@
     - [Research conversation guide](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/conversation-guide.md)
 - **Ticket Links:** [Research Support Request #65316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65316)
 
-# Accessibility Tools Utilized (7)
+# Accessibility Tools Utilized
 `ZoomText` `JAWs` `iOS-VO` `VoiceOver` `SR Microsoft Extension` `TalkBack` `Fusion` 
 
 ## Coverage
