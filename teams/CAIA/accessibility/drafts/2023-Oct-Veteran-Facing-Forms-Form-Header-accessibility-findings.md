@@ -11,7 +11,7 @@
     - [Research conversation guide](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/conversation-guide.md)
 - **Ticket Links:** [Research Support Request #65316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65316)
 
-# Accessibility Tools Utilized
+# Accessibility Tools Utilized (7)
 `ZoomText` `JAWs` `iOS-VO` `VoiceOver` `SR Microsoft Extension` `TalkBack` `Fusion` 
 
 ## Coverage
@@ -22,7 +22,7 @@ This research fufilled `90`% (`9`/`10`) of its original request. Given the **lim
 
 > `50` (`10`) [participants in this study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/research-plan.md#:~:text=Assistive%20Technology%20(AT)) should use a screenreader on a desktop or mobile device
 
-## Participants
+## Participants (9)
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
@@ -47,8 +47,6 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 
 **Veterans' Voices:** Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the quotes that were selected for inclusion, in this report.
 
-<details><summary>Toggle to read accessibility-related key findings</summary>
-
 ### Overview
  **Finding or Pain Point** | **Detail** | **Timing of Next Steps** |
 |------------------------|------------------|--------------------|
@@ -64,6 +62,7 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 | Pain Point 3 | Tabbing with Screen Readers; Users Miss Valuable Content | Complete Later|  
 | Pain Point 4 | Two-Factor Authentication Interactions for AT Users | Not Listed|  
 
+<details><summary>Toggle to read accessibility-related key findings</summary>
 
 ### Finding 1: Stepper confusion & stage in the process
 - **Users are confused as to where they are in the process, when they are still on the same [step #] of [#steps].**
