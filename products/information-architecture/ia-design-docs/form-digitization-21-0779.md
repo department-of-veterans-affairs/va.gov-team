@@ -1,5 +1,5 @@
 # IA Design for Form 21-0779
-**STATUS: In progress**
+**STATUS: Draft**
 
 **Team:** Veteran facing forms
 
