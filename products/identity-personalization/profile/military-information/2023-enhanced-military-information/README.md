@@ -83,16 +83,6 @@ The scope of those three things is expansive. With that in mind we're using the 
 
 The 526EZ electronic form is expanding to incorporate additional questions related to toxic exposure. When answering those questions, it's helpful for veterans to have military information on-hand. We're adding adding _units, deployment locations/dates, and military occupation_ which aligns with the questions within the form. 
 
-<details>
-<summary>MOVE THIS TO THE RESPECTIVE PHASE</summary>
-
-  ### Disability claim (526EZ)
-
-- [Paper form](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
-- [Form on VA.gov staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
-  - Access with user 15 or 68
-
-</details>
 
 ## Problem Statement
 
@@ -165,12 +155,6 @@ Giving this data a permanent place on VA.gov, so veterans can easily review this
 - November-December 2023: Build
 - November 2023: Created phase specific project outline for MVP work
 
-## Key decisions
-|Date|Decisions|Reason|Impacts|
-|---|---|---|---|
-|||||
-|||||
-|||||
 
 ## Design
 
