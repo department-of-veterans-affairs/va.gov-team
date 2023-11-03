@@ -15,14 +15,27 @@
 `ZoomText` `JAWs` `iOS-VO` `VoiceOver` `SR Microsoft Extension` `TalkBack` `Fusion` 
 
 ## Coverage
-This research fufilled `90`% (`9`/`10`) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
+This research fufilled `90`% (`9`/`10`) of its original request. Given the amount and variety of types of screen readers, a conclusive behavioral patterns can be determined locally in this study. We can draw future research considerations and document caught accessibility issues.
 
-**Original study request:#**
+### Devices Tested
+- Desktop was the most tested device at 44.44% (4 users)
+- iPad/Tablet followed at 33.33% (3 users)
+- Mobile was 22.22% (2 users)
+
+### Skill Levels
+- The majority of users in this study were non-beginners, they were advanced or intermediate at 88.88% (8 users). 
+- Beginners only accounted for one user (11.11%)
+
+### Assistive Technology
+- iOS-VO was the top assistive technology 33.33% (3 users)
+- ZoomText was second with 22.22% (2 users)
+
+## Original Study Request: `10` 
 > The purpose of this research was to explore the usability of a simplified form header design for Veterans - particularly those using screen readers
 
 > `50` (`10`) [participants in this study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/research-plan.md#:~:text=Assistive%20Technology%20(AT)) should use a screenreader on a desktop or mobile device
 
-## Participants (9)
+### Participant Breakdown
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
