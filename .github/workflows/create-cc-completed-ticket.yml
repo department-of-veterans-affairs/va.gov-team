@@ -46,7 +46,7 @@ jobs:
           --data '{
             "state": "closed",
             }' \
-          --fail)
+          )
           echo "${response}" > closeResponse.json
 
       - name: debug
