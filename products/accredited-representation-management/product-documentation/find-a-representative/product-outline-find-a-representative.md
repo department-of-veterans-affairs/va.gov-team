@@ -48,7 +48,7 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 5. **% of searches where the user is logged in**
 
 ### Baseline KPI Values
-1. **Number of searches per week** _measuring growth_
+1. **Number of searches** _measuring growth_
     1. Pre-launch: through the eBenefits or OGC tools
     2. Post-launch: through the VA.gov Find a Representative tool
 2. **% increase of searches this week vs. last week** _measuring proportional growth_
@@ -90,7 +90,7 @@ We will be conducting a usability test on the Find a Representative MVP and a mo
 ### v2 Launch
 Based on user research findings and navigation/traffic analytics, consider:
 1. Adjusting/adding entry points
-2. Enhancements to the Find a Representative experience 
+2. Enhancements to the Find a Representative experience
 
 ## Launch Dates
 1. MVP target launch date: December 2023
