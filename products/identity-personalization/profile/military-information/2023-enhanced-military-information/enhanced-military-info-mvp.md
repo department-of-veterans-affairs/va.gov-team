@@ -37,3 +37,21 @@ The online version of this form is being refreshed to match the paper version wh
 - [Paper form](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
 - [Form on VA.gov staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
   - Access with user 15 or 68
+
+
+## Key decisions
+|Date|Decisions|Reason|Impacts|
+|---|---|---|---|
+|||||
+|||||
+|||||
+
+## Design
+
+[Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+
+### Before
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-military-information-sept-2023.png" width="375" alt="screenshot of profile military information section" />
+
+### After
