@@ -1,3 +1,49 @@
+## Meeting Notes for CRM Sync on 11/02/2023
+
+Focused on `/ping`; Cat/Topic/Sub; 01/02 Remainder
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Khoa, Eddie, Natalie
+* **AVA CRM Team:** JD, Chris, Shelby, Jamie, Tina, Bharat
+* **Note Taker:** Joe
+
+### Key Takeaways:
+
+1. The `/ping` endpoint is still the focus to make sure that we can get our calls from va.gov to ask.va.gov and back.
+   * AVA FE team has abandoned the attempts to get calls to work from development machines, falling back to ...
+   * The development process will be frustratingly slow. But our fallback is to push every change to DEV servers for validation and testing. It's a 20-minute-per-edit difference, but ...
+   * We will keep looking for a resolution to localhost development as a low-priority, background task.
+2. JD recommended that we consolidate the `/category`, `/topic`, and `/subtopic` API endpoints into a single endpoint that specifies an optional parent identifier
+   * Call the endpoint without an id to get a list of categories
+   * Call the endpoint with a category id to get a list of topics
+   * Call the endpoint with a topic id to get a list of subtopics (or empty list)
+3. JD mentioned that a good bit of the topic config can be passed back as well, so that the API can help us make the UI more data-driven.
+   * Many of the show/hide annotations of fields by topic is included in the tables
+   * Not all scenarios are included, so can't be 100% data-driven.
+4. Bharat (rightly) reminded us of the fast-approaching 01/02 date, and let us know that his team would help us in any way needed to help move things along faster.
+5. Spoke briefly about data mappings between AVA/VA.
+   * Verified with the CRM team that medical facility field is 3 digits in the source VA data, which helped us to later complete the mappings between the two sources.
+   * Natalie reviewed the VA Profile process again and offered to help in the process if we need to add any fields (i.e. intake form, ...), asked to be included in any related meetings.
+   * Eddie reminded the devs that we have a very thorough document between his SPIKE findings and Becky's related document.
+
+### Action Items:
+
+- [ ] Joe to tweak the API endpoint documentation for Cat/Topic/Sub, as described by JD.
+- [ ] Joe and Eddie to reach out to see what metadata is available from the unified Cat/Topic/Sub endpoint.
+- [ ] Khoa to wrap up `/ping` endpoint from DEV/STAGING server, to include the locked-down version of the endpoint.
+- [ ] Joe to queue up the next non-ping endpoints for discussion soon, possibly for Tuesday if `/ping` has been validated in DEV.\
+      ---
+- [ ] Becky to touch base with Kathleen on military information fields this week.\
+   Check that fields won’t affect routing / system.\
+   Draft email.
+- [ ] Joe and Jacob to request zero tokens and access to the appropriate Azure resources.\
+   They will follow up with the support team and JD as needed for information on the resources to get access.
+- [ ] [Hold after convo with Kathleen] Communicate to business teams about military information.\
+   Send out email in tandem (Kathleen and Becky) to AVA distribution email
+
+---
+
 ## Meeting Notes for CRM Sync on 10/31/2023
 
 Focused on `/ping`; Future discussions
