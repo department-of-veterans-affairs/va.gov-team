@@ -1,4 +1,4 @@
-# Conversation Guide 
+# Conversation Guide for Manage Signed-in Devices
 
 ## Moderator logistics
 ### 2-3 days before the session
