@@ -14,7 +14,7 @@
 # Accessibility Tools Utilized
 `ZoomText` `JAWs` `iOS-VO` `VoiceOver` `SR Microsoft Extension` `TalkBack` `Fusion` 
 
-## Coverage
+## AT Coverage
 This research fufilled `90`% (`9`/`10`) of its original request. Given the amount and variety of types of screen readers, a conclusive behavioral patterns can be determined locally in this study. We can draw future research considerations and document caught accessibility issues.
 
 ### Devices Tested
@@ -58,7 +58,7 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 
 ## Overview of Key Findings & User Feedback (A11Y Segment)
 
-### Summary: Findings
+### Summary: Findings & Pain Points
  **Finding or Pain Point** | **Detail** | **Timing of Next Steps** |
 |------------------------|------------------|--------------------|
 | Finding 1 | Stepper confusion & stage in the process | Complete Later|    
@@ -73,7 +73,7 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 | Pain Point 3 | Tabbing with Screen Readers; Users Miss Valuable Content | Complete Later|  
 | Pain Point 4 | Two-Factor Authentication Interactions for AT Users | Future Item|  
 
-### Detailed Key Findings (A11Y Segment)
+### Detailed Key Findings and Pain Points (A11Y Segment)
 **Veterans' Voices:** Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the quotes that were selected for inclusion, in this report.
 
 <details><summary>Toggle to read accessibility-related key findings</summary>
