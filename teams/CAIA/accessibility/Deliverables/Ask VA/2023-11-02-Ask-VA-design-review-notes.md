@@ -9,7 +9,7 @@ REMINDER: Ask about search result pattern, why radio buttons?
 - Whenever possible lean on existing components and patterns from the design system
 - Consider focus management: when someone navigates from one step to the next what new element will be in focus? If possible, include this information in your designs
 - Page headings must always decrease by single steps, e.g. don't jump from `h1` to `h3`
-	- This may difficult with the "need help?" Section heading. Note that the form system may be updated soon to alleviate this issue. This will be worth our keeping in mind moving forward
+	- This may be difficult with the "need help?" Section heading. Note that the form system may be updated soon to alleviate this issue. This will be worth our keeping in mind moving forward
 
 ## Specific feedback and questions
 
@@ -21,7 +21,7 @@ REMINDER: Ask about search result pattern, why radio buttons?
 
 ### Authenticated dashboard
 
-- The "create new question" button is far outside of the "stack," this may be difficult for some folks to find, and will make it more complicated to ensure that the button is easily reachable from the keyboard/by a screenreader. Suggest moving that button into the "stack," e.g. directly above or below the "questions" heading
+- The "create new question" button is far outside of the "stack," this may be difficult for some folks to find, and will make it more complicated to ensure that the button is easily reachable from the keyboard/by a screen reader. Suggest moving that button into the "stack," e.g. directly above or below the "questions" heading
 - A suggested page hierarchy for the card view
 
 ```
@@ -39,3 +39,7 @@ REMINDER: Ask about search result pattern, why radio buttons?
 	- If there isn't an existing tabbed pattern within the VA design system or USWDS would headers for each section work instead, combining the info to a single page?
 	- The "list" view appears to be using an interactive table. The [existing table component](https://design.va.gov/components/table) is not well set up for interactive content as your design suggests. We caution you from proceeding here without further research. Tables, generally, aren't used across VA.gov like this. If you do proceed with a table, we suggest that you test it with VERY long question text, as that may help to highlight any issues on mobile and with screenreaders
 - 
+
+## Next steps
+
+CAIA is happy to continue to support ya'll as you see fit. We are available to briefly embed or consult with your team to provide more direct assistance with tasks like testing and design feedback. [Here is more info on how we can help](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/README.md).
