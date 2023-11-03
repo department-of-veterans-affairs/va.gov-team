@@ -21,7 +21,7 @@ REMINDER: Ask about search result pattern, why radio buttons?
 
 ### Authenticated dashboard
 
-- The "create new question" button is far outside of the "stack," this may be difficult for some folks to find, and will make it more complicated to ensure that the button is easily reachable from keyboard/by screenreader. Suggest moving that button into the "stack," e.g. directly above or below the "questions" heading
+- The "create new question" button is far outside of the "stack," this may be difficult for some folks to find, and will make it more complicated to ensure that the button is easily reachable from the keyboard/by a screenreader. Suggest moving that button into the "stack," e.g. directly above or below the "questions" heading
 - A suggested page hierarchy for the card view
 
 ```
@@ -33,8 +33,9 @@ REMINDER: Ask about search result pattern, why radio buttons?
 ```
 
 - Question: are the cards in the card view using filler content, or will they all have identical titles? For these to be easily navigable we suggest giving each card a unique title
-- Question: in the list view on the authenticated dashboard what is the distinction between "business" and "personal?" 
+- Questions: 
+	- In the list view on the authenticated dashboard what is the distinction between "business" and "personal?" 
 	- Is there an existing tabbed component?
 	- If there isn't an existing tabbed pattern within the VA design system or USWDS would headers for each section work instead, combining the info to a single page?
-	- The [existing table component](https://design.va.gov/components/table) is not well set up for interactive content as your design suggests. We caution you from proceeding here without further research
-	- If you do proceed with a table, we suggest that you test it with VERY long question text, as that may help to highlight any issues on mobile and with screenreaders
+	- The "list" view appears to be using an interactive table. The [existing table component](https://design.va.gov/components/table) is not well set up for interactive content as your design suggests. We caution you from proceeding here without further research. Tables, generally, aren't used across VA.gov like this. If you do proceed with a table, we suggest that you test it with VERY long question text, as that may help to highlight any issues on mobile and with screenreaders
+- 
