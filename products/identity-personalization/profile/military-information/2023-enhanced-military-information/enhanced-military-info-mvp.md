@@ -10,7 +10,9 @@
 
 
 ## Overview
+We've been tasked with expanding the military information that is available to veterans in their VA.gov Profile. We're using the 526EZ form to inform our initial focus on the items that will most assist veterans when completing the 526EZ. 
 
+The 526EZ electronic form is expanding to incorporate additional questions related to toxic exposure. When answering those questions, it's helpful for veterans to have military information on-hand. We're adding adding _units, deployment locations/dates, and military occupation_ which aligns with the questions within the form. 
 
 ## MVP Goal
 
