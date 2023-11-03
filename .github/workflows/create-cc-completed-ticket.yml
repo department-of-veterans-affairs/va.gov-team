@@ -44,7 +44,7 @@ jobs:
           --header 'content-type: application/json' \
           --header 'X-GitHub-Api-Version: 2022-11-28' \
           --data '{
-            "state": "closed",
+            "state": "closed"
             }' \
           )
           echo "${response}" > closeResponse.json
