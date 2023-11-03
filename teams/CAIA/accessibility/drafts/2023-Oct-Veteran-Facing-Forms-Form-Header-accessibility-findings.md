@@ -52,7 +52,7 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 |------------------------|------------------|--------------------|
 | Finding 1 | Stepper confusion & stage in the process | Complete Later|    
 | Finding 2 | Form title and number helpful, when the user found it | Complete Later|    
-| Finding 3 | "Back" link wasn't easy to find; the "Continue" button worked well | Complete Soon|    
+| Finding 3 | "Back" link wasn't easy to find; the "Continue" button worked well | Complete Now|    
 | Finding 4 | Users expected to be able to save their progress upon exiting the form. | Complete Now|    
 | Finding 5 | Users wanted to know if the form was being saved or not. | Complete Now|    
 | Finding 6 | Some users ignored the "Exit" link completely. | Future Item|    
@@ -191,11 +191,11 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 
  **Timing for Recommendations/Considerations** | **Count**|**Impact Areas**|
 |------------------------|------------------|------------------|
-| Complete Now | 2 | `IA` `Content`
-| Complete Soon | 2 | `A11y` `Content`
+| Complete Now | 3 | `A11y` `IA` `Content` `Design`
+| Complete Soon | 1 | `A11y` `Content`
 | Complete Later | 2 | `A11y`
 | Future Items to Consider | 4 | `A11y`
-| **Total** | **10** | `A11y (7)` `IA(2)` `Content(3)`
+| **Total** | **10** | `A11y (8)` `IA(3)` `Content(4)` `Design(1)`
 
 <details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
 <br>
@@ -222,6 +222,14 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - Appears on: `Experience Standards`
 - WCAG: n/a
 
+#### Finding 3: Consistent Navigation  
+- Issue Description: Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
+- Desired Outcome:  Consider going back to the two-button pattern.
+- Experience standard:`Category 01 - Overall User Experience` - Design component or pattern in use is considered a best practice.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x) `Category 04` `Issue 10`[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=Navigation%20mechanisms%20aren%27t%20consistent%20across%20pages.)
+- Defect: `Launch Blocking`
+- Impact Area: `A11y` `Content` `Design` `IA`
+- Appears on: Content style guide 05 - The content is written in plain language and doesn't contain excess words or modifiers.
+- WCAG: Can fall under 3.2.3 Consistent Navigation Level AA
 
 ### Complete Soon
 #### Finding 1: Make sure content is understandable
@@ -232,15 +240,6 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - Impact Area: `Content`
 - Appears on: `Content Style Guide`
 - WCAG: 3.1
-- 
-#### Finding 3: Consistent Navigation  
-- Issue Description: Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
-- Desired Outcome:  Consider going back to the two-button pattern.
-- Experience standard:`Category 01 - Overall User Experience` - Design component or pattern in use is considered a best practice.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
-- Defect: `Not Blocking`
-- Impact Area: `A11y`
-- Appears on: Content style guide 05 - The content is written in plain language and doesn't contain excess words or modifiers.
-- WCAG: Can fall under 3.2.3 Consistent Navigation Level AA
 
 ### Complete Later
 #### Finding 1: Stepper confusion & stage in the process
