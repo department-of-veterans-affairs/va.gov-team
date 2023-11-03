@@ -73,7 +73,7 @@ Tools for Veterans to schedule or request appointments.
 | All flows | [Choose VA or CC facility](./schedule-flow/choose-VA-or-CC-facility.md) |
 | All flows | [Choose a type of audiology care](./schedule-flow/choose-a-type-of-audiology-care.md) |
 | VA direct-schedule | [Choose a location](./schedule-flow/va-direct--choose-location.md) | 
-| VA direct-schedule | [Cerner location redirect](./schedule-flow/Cerner-location-redirect.md) |
+| VA direct-schedule | [Cerner location redirect](./schedule-flow/cerner-location-redirect.md) |
 | VA direct-schedule | [Choose a clinic](./schedule-flow/choose-a-VA-clinic.md) |
 | VA direct-schedule | [Choose a date](./schedule-flow/choose-a-date.md) |
 | VA direct-schedule | [Reason for appointment](./schedule-flow/reason-for-appointment.md) |
@@ -86,11 +86,11 @@ Tools for Veterans to schedule or request appointments.
 | VA request | [Review and submit](./schedule-flow/review-and-submit-VA-request.md) |
 | CC request | [Preferred date](./schedule-flow/preferred-date-CC.md) |
 | CC request | [Nearest city](./schedule-flow/nearest-city-CC.md) |
-| CC request | [Request a provider](./schedule-flow/Request-a-provider.md) |
-| CC request | [Choose a language](./schedule-flow/Choose-a-language.md) |
+| CC request | [Request a provider](./schedule-flow/request-a-provider.md) |
+| CC request | [Choose a language](./schedule-flow/choose-a-language.md) |
 | CC request | [Reason for appointment](./schedule-flow/reason-for-appointment-CC.md) |
 | CC request | [Confirm contact information](./schedule-flow/confirm-contact-information-CC.md) |
-| CC request | [Review and submit](products/health-care/appointments/va-online-scheduling/feature-reference/schedule-flow/review-and-submit-CC.md) |
+| CC request | [Review and submit](./schedule-flow/review-and-submit-CC.md) |
 
 
 
