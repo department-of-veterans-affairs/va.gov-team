@@ -27,7 +27,12 @@
 
 ## Overview
 
-This initiative will be comprised of several phases. When considering the entirety of this effort, our goal is to meet the congressional mandates around elevating toxic exposure data in a way that is holistic and matches veterans' mental models.
+The VA.gov profile team has been asked to enhance the military history section of the profile to aid veterans when applying for benefits, with specific emphasis on disability claims. 
+
+This initiative needs to meet legislative requirements by giving veterans view access to their Individual Longitudinal Exposure Record (ILER) record, but it should not stop there. From a veteran’s experience perspective, the Veteran Experience Office (VEO), the Veteran Benefits Administration (VBA), and the Office of General Counsel (OGC) have recommended making [data points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#integrate-the-following-data-into-vagov) from veteran’s military records more accessible online with a focus on data used to apply for benefits. More specifically, VEO/VBA/OGC have arrived at a list of 8 key data elements found within veteran’s military records that, in this project, we are tasked with exposing. 
+
+
+This initiative will be comprised of several phases. To start we should focus on **read only** access to those data elements and to ILER. As VBA/VHA/VEO/OGC/DoD progress their conversations around the legislation we can then shift focus to update access for ILER data (ie. Section 803). 
 
 Expansion of the military information available on VA.gov will focus on the categories below:
 - Integrating additional military data into VA.gov
