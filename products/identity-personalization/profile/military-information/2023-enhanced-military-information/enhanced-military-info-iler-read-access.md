@@ -1,7 +1,7 @@
 
 
 
-# Phase 2 - Enhanced Military Information - Read Access to ILER Record
+# Phase 3 - Enhanced Military Information - Read Access to ILER Record
 
 **Last Updated: 11/3/2023 - Initial Drafting**
 
