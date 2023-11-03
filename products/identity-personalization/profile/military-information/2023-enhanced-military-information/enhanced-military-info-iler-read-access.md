@@ -15,24 +15,83 @@
 ## Overview
 
 
+## Background Details 
+
+### Legislative mandates
+
+TL;DR -- in 2021, Congress mandated that veterans be able to view their ILER record. In 2022, as part of the PACT Act, Congress mandated that veterans be able to update this record.
+
+- Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.  
+- Congress enacted Section 803 on August 10, 2022, as part of the PACT Act. Section 803(a) provides: “The Secretary of Veterans Affairs [VA] shall coordinate with the Secretary of Defense [DoD] to provide a means for Veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or Veteran in the [ILER].”
+- Section 803(b)(1) provides that to update a record under subsection (a), a Veteran shall provide such evidence as VA considers necessary. Section 803(b)(2) requires VA to promulgate a regulation defining the “evidence considered necessary.”
+
+### What is ILER?
+
+[The Individual Longitudinal Exposure Record (ILER)](https://www.publichealth.va.gov/exposures/publications/military-exposures/meyh-1/ILER.asp)
+
+ILER was created following a December 27, 2012, Health Executive Committee (HEC) Joint Incentive Fund Initiative (JIF) proposal, in which the Department of Defense (DoD) and Department of Veterans Affairs would create a complete record of every Service member’s occupational and environmental health exposure. ILER improves the efficiency and effectiveness in claims processing and decision-making by linking a Veteran to military exposures and/or deployments by integrating information from multiple DoD sources. **It is important to note that ILER is not an authoritative data source**, while there is an API for generating text/pdf exports of the data it may not be a fully comprehensive of all military history for a user. 
+
+ILER is owned by DoD not the VA.
+
+While the announcement linked above mentions ILER is not for individual use, in practice, veterans are gaining access to their ILER, oftentimes, by requesting from their physician who can generate a PDF form. 
+
+#### Example of the data model 
+
+<details>
+     <summary>Details</summary>
+<br>
+     
+- [**DHA ILER presentation from 2020**](https://www.dhaj7-cepo.com/sites/default/files/DHA_J7_CEPO_CCSS_Sept_S02.pdf)
+     
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/8ed1c2f3-7154-4ccb-84e6-92b8a2750bd0)
+
+</details> 
+
+### Can we give veterans access to ILER? Are we integrating ILER into the profile?
+
+Yes, we should be able to generate a copy of a veteran’s ILER records. According to VEO stakeholders, VA owns an API that can generate a PDF/text version of a veteran’s ILER record.  
+
+While Congress has mandated read and update access to ILER, the document is complicated and, in most cases, the ILER document alone will not provide sufficient context to a veteran to allow them to interpret the data contained therein. We should not generate a full scale replica of ILER on VA.gov and will focus on granting read access. Once our stakeholders have determined how to progress with Section 803 we will work to incorporate the appropriate update process. 
+
+
+### What are the shortcomings of granting read access to ILER?
+
+VA leadership -- which includes Trisha Dang and Melissa Rebstock, among others -- have expressed concerns around the intelligibility of ILER data. These documents can run into hundreds of pages and interpreting the data within them isn’t a straightforward task. 
+
+While granting veterans access to the ILER record is required by law, we can bolster the user experience by aiding veterans in their benefits application process by supplying them with key data/information from their military record. 
+
+### How is this different than the DD214?
+
+TL;DR -- ILER is a record of potential toxic exposure experienced in the service; DD214 is a discharge paper that proves a veteran's service. Veterans seem to be using both to support their benefits application process
+
+To access many benefits veterans often need to provide service history data and adequate documentation to support their request. When a service member separates from their respective branch, they are given a copy of their DD214. This is a point-in-time snapshot at the moment of their separation. Many veterans lose this document or in some cases never received a copy and need to re-request. Currently in the profile we [link to support pages](https://va.gov/records/get-military-service-records/) detailing how to request a copy of one's DD214.
+
+While [researching military information in early 2023, our findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#key-findings) demonstrated the importance this document carries not only in assisting veterans with the application process for benefits, but sometimes serving as a key document for proving their service. We know from our research are not able to memorize all the service history information they’d need to apply for many benefits, so they use the DD214 to piece together timelines. 
+
+### Should we make the DD214 accessible online? 
+
+Making the DD214 available online has been proposed and rejected due to the point-in-time nature of the document. A veteran’s DD214 reflects data at the point of separation from the respective branch of service; it would not be a comprehensive enough solution. [Although a veteran may not _need_ their DD214 it will often facilitate benefits applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md#though-they-may-not-need-their-dd214-in-all-cases-to-apply-for-va-benefits-having-a-copy-of-it-facilitates-the-benefit-application-process-and-helps-veterans-access-non-va-privileges-memberships-and-discounts), the focus, based on VEO’s guidance, should be on the 8 key data elements as those should reduce veteran reliance on their separation document. In other words, our focus shouldn’t be on the document per-se but the use case of the document. 
+
+### Where does this leave us? 
+
+To meet the letter of the law, this phase of the project will focus on getting Veterans read access to ILER. 
+
 ## Project Goal
 
-
+- Provide Veterans with read only access to ILER by providing a download button for their ILER PDF. 
 
 ## Outcomes 
 ### Desired User Outcomes 
-- Users should be able to access additional data elements from their military record from the VA.gov profile so they can apply for benefits
-- Lost DD214s should be less worrisome for veterans and the urgency of locating military information when applying for benefits will be reduced as the data will always be available in the profile.
-- Expanded military information in the VA.gov Profile would be accessible to pre-fill forms on other parts of the VA.gov website
+- Users should be able to access their ILER PDF
   
 ### Undesired User Outcomes 
 - Nobody uses this or knows to look for this information
 
 ### Desired Business Outcomes
-- Veteran 526 submissions will be more accurate if Veterans are able to at a minimum see what the VA has in their systems.
+- We meet the legislative mandate
   
 ### Undesired Business Outcomes
-
+- While meeting the mandate we sow confusion for Veterans resulting in increased call volumns with Veterans seeking additional context and information around the ILER PDF. 
 
 ## Measuring Success
 
@@ -54,9 +113,8 @@
 
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
-- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)
+- [Epic
 - [Mural refinement ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?sender=uaa72d11015d3f7c704a64191)
-- [Google Doc Project Outline](https://docs.google.com/document/d/1aiw0drerrscjmgDtRLEaLlwvl58ZvLSdKcE_K0XGLsE/edit)
 - [sensitive repo directory (contains stakeholder artifacts)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/profile/military_info/2023-enhanced-military-information)
 - QA Plan
 - Release plan
@@ -76,12 +134,7 @@
 
 ### Before
 
-<details>
-  <summary>Before Image</summary>
-  
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-military-information-sept-2023.png" width="375" alt="screenshot of profile military information section" />
 
-</details>
 
 ### After
 
