@@ -76,7 +76,9 @@ Before we start, a few things I want to mention:
 
 
 - How were you notified, such as a text or email, that your provider wanted you to answer some questions prior to your appointment?
-  - You should have been sent [text or email] by Perigean for today's session. Please bring up the [text or email], then share your screen. [**Moderator Note:** Help participant open the link and screen share if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.] [Mobile screen sharing instructions](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions) 
+  - Share screen with example they shared:
+    - [eScreening email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening%20Email.png)
+    - [BHL email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Email.png)
 
 - How far in advance of your appointment did you receive this notification? 
 
