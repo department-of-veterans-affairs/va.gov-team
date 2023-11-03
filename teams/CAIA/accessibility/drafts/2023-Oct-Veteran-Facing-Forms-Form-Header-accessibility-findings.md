@@ -49,6 +49,17 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 
 <details><summary>Toggle to read accessibility-related key findings</summary>
 
+### Overview
+ **Finding** | **Detail** | **Timing of Next Steps** |
+|------------------------|------------------|--------------------|
+| Finding 1 | Stepper confusion & stage in the process | Complete Later|    
+| Finding 2 | Form title and number helpful, when the user found it | Complete Later|    
+| Finding 3 | "Back" link wasn't easy to find; the "Continue" button worked well | Complete Soon|    
+| Finding 4 | Users expected to be able to save their progress upon exiting the form. | Complete Now|    
+| Finding 5 | Users wanted to know if the form was being saved or not. | Complete Now|    
+| Finding 6 | Some users ignored the "Exit" link completely. | **Not Listed**|    
+| Finding 7 | The date of birth and social security number fields were challenging for some users. | Future Item to Consider|    
+
 ### Finding 1: Stepper confusion & stage in the process
 - **Users are confused as to where they are in the process, when they are still on the same [step #] of [#steps].**
     - > “Not sure how many pages I have left because it says 2 of 4, but I was on 2 of 4 already. Basically I have four pages, but I could be on 10 or 3. This would frustrate me. I think I am getting close to the end and these forms are tedious already. That would just annoy me more. I would be thinking I was thoroughly progressing but I am not.  I can't tell if I am in the beginning, middle or end, now. If I go back it will say 2 of 2.” - P10
@@ -210,7 +221,7 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - Appears on: Content style guide 05 
 - WCAG: 3.1
 - 
-#### Finding: Consistent Navigation  
+#### Finding 3: Consistent Navigation  
 - Issue Description: Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
 - Desired Outcome:  Consider going back to the two-button pattern.
 - Experience standard:`Category 01 - Overall User Experience` - Design component or pattern in use is considered a best practice.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
