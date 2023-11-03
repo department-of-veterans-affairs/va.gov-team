@@ -163,6 +163,7 @@ Giving this data a permanent place on VA.gov, so veterans can easily review this
 - September-October 2023: Discovery
 - October 2023: Started collaborating with the 526 team; Decided on our MVP approach; Produced initial designs
 - November-December 2023: Build
+- November 2023: Created phase specific project outline for MVP work
 
 ## Key decisions
 |Date|Decisions|Reason|Impacts|
