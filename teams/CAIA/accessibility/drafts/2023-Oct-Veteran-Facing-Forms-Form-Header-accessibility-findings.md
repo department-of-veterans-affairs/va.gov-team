@@ -59,10 +59,10 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 | Finding 5 | Users wanted to know if the form was being saved or not. | Complete Now|    
 | Finding 6 | Some users ignored the "Exit" link completely. | **Not Listed**|    
 | Finding 7 | The date of birth and social security number fields were challenging for some users. | Future Item to Consider| 
-| Pain Point 1 | Lack of Consistency Between Sites | xxx|  
-| Pain Point 2 | Completion Time Not Inclusive | xxx|  
-| Pain Point 3 | Tabbing with Screen Readers; Users Miss Valuable Content | xxx|  
-| Pain Point 4 | Two-Factor Authentication Interactions for AT Users | xxx|  
+| Pain Point 1 | Lack of Consistency Between Sites | Complete Soon|  
+| Pain Point 2 | Completion Time Not Inclusive | **Not Listed**|  
+| Pain Point 3 | Tabbing with Screen Readers; Users Miss Valuable Content | Complete Later|  
+| Pain Point 4 | Two-Factor Authentication Interactions for AT Users | Not Listed|  
 
 
 ### Finding 1: Stepper confusion & stage in the process
@@ -217,7 +217,7 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 
 
 ### Complete Soon
-#### Finding: Make sure content is understandable
+#### Finding 1: Make sure content is understandable
 - Issue Description: The word "Chapter" is decribing a step indicator. Because this is a step indicator users may not know what Chapter 2 of 4 may mean on.  "Chapter" was confusing. 
 - Desired Outcome: Consider testing "section" or "part" for clarity. Consider using percentages as well.
 - Experience standard:`Category 05` - The content is written in plain language and doesn't contain excess words or modifiers.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
