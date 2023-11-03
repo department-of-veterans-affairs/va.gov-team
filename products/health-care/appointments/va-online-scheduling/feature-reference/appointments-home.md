@@ -17,7 +17,7 @@ Starting page to schedule or manage appointments.
 - User can start the process for scheduling an appointment online.
 - User can navigate to their past appointments.
 - User can navigate to their pending appointments.
-- User can review a summary list of their [upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/feature-reference/appointment-lists/upcoming-list.md).
+- User can review a summary list of their [upcoming appointments](./appointment-lists/upcoming-list.md).
 
 **Alerts**
 - All messages to the user must provide an explanation of the issue and guidance for resolving the issue.  

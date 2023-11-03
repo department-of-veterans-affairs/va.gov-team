@@ -29,10 +29,10 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 | Directions Link                                            | ✅         | ✅        | ✅    | ✅        |
 | Clinic Name                                                | ✅         | ✅        | ✅    | ✅        |
 | Location Phone Number                                      | ✅         | ✅        | ✅    | ✅        |
+| Call to Reschedule Alert                                   | ✅         | ✅       |      |          |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅         | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅         | ✅        | ✅   | ✅        |
-| [Cancel Action](../tools/tool-cancel.md)                   | ?         | ?        |      |          |
-| Call to Reschedule Alert                                   | ?         | ?        |      |          |
+
 
 ## Specifications
 
