@@ -111,9 +111,9 @@ These research sessions will be conducted remotely via Zoom.
 
 Research materials for moderated interviews:
 
-- Conversation guide
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/proactive-benefits/research/2023-11-Outreach%20Exploration/discussion-guide.md)
 
-- Conversation stimuli: See zip file in research folder to view the following:
+- Conversation stimuli: See [zip file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/proactive-benefits/research/2023-11-Outreach%20Exploration/letters%20for%20proactive%20outreach%20research.zip) in research folder to view the following:
 
   - Original letter
   - Modified letter
