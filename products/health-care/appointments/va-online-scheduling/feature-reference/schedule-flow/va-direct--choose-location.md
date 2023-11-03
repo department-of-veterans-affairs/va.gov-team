@@ -56,7 +56,7 @@ Veterans are asked to choose where they'd like to receive the type of care they 
 - If a user can direct schedule, they're sent to the clinic choice page
 - If a user can only make a request, they're sent to the request calendar page
 
-## User interface design
+## Specifications
 
 [User flow](Add link) 
 

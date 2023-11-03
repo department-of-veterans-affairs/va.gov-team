@@ -12,7 +12,7 @@ Veterans choose the type of sleep care they need
 **Functional**
  Sleep care is a sub-type of care, which a user can choose from on the page after "type of care"
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=458-19107&t=h7voOZsnZQC7y70u-4) 
 

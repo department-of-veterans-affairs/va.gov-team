@@ -20,7 +20,7 @@ A user can choose the preferred language of their provider
 - [Functional requirement]
 - [Functional requirement]
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2916-5527&t=8LrybrXbHG0xrSfN-4) 
 

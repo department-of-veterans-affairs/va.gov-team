@@ -1,14 +1,12 @@
-# **How to Request Medallia Feedback**
+# **How to Request and Process Medallia Feedback**
 
-1. Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. The feedback should be emailed to a VA.gov email address since it may contain PHI/PII information. 
-2. Open the Excel file they send back on the network and scrub PII
-3. Look for names, SSNs, other identifying numbers, and replace with asterisks or number symbols
-4. Once the file is scrubbed, move a copy to the Teams folder on the network
-5. Share the file with the leads using their VA.gov email addresses - Simi, Jeff, Leah, Kay, Peter, Melissa, Ciera
+## How to Request
+
+Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. The feedback should be emailed to a VA.gov email address since it may contain PHI/PII information. 
 
 Template: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley2019%2C+ATMiddleton%2C+newworld2616%2C+aubreyarcangel&labels=VSP-contact-center%2Ccc-data-request&projects=&template=qualitative-data-request.yml&title=Qualitative+Data+Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley2019%2C+ATMiddleton%2C+newworld2616%2C+aubreyarcangel&labels=VSP-contact-center%2Ccc-data-request&projects=&template=qualitative-data-request.yml&title=Qualitative+Data+Request)
 
-## How to fill in the fields
+### How to fill in the fields
 
 **Data Type Requested**
 
@@ -24,7 +22,9 @@ A tool for Veterans to schedule and manage their appointments online
 
 **Survey URL(s), key term(s), case category or type**
 
-Everything under [https://www.va.gov/health-care/schedule-view-va-appointments/](https://www.va.gov/health-care/schedule-view-va-appointments/)
+All comments under these URLS: 
+* [https://www.va.gov/health-care/schedule-view-va-appointments/](https://www.va.gov/health-care/schedule-view-va-appointments/)
+* [https://www.va.gov/my-health/appointments](https://www.va.gov/my-health/appointments)
 
 **File delivery format**
 
@@ -34,7 +34,7 @@ All in one file, on one tab
 
 [Your VA email address]
 
-## Medallia Feedback Requests - Q3 2023
+### Medallia Feedback Requests - Q3 2023
 
 | Dates                                | Submitted by     | Status       |
 |--------------------------------------|------------------|--------------|
@@ -50,8 +50,8 @@ All in one file, on one tab
 | Week 39 September 25th - October 1st | Melissa Lefevre  | ✅ [66687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66687) |
 | Week 40 October 2nd - 8th            | Melissa Lefevre  | ✅ [67104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67104) |
 | Week 41 October 9th - 15th           | Melissa Lefevre  | ✅ [67704](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67704)|
-| Week 42 October 16th - 22nd          | Peter Russo      |  |
-| Week 43 October 23rd - 29th          | Peter Russo      |  |
+| Week 42 October 16th - 22nd          | Peter Russo      | ✅ [67831](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67831) |
+| Week 43 October 23rd - 29th          | Peter Russo      | ✅ [68596](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68596) |
 | Week 44 October 30th - November 5th  | Peter Russo      |  |
 | Week 45 November 6th - 12th          |                  |  |
 | Week 46 November 13th - 19th         |                  |  |
@@ -66,3 +66,31 @@ All in one file, on one tab
 | Week 55 January 15th - 21st          |                  |  |
 | Week 56 January 22nd - 28th          |                  |  |
 | Week 57 January 29th - February 4th  |                  |  |
+
+## How to Process Feedback
+
+1. Contact Center will email the feedback to the address you provided.
+
+2. Download the spreadsheet to your machine on the VA network. 
+
+3. Rename the spreadsheet in the following format:
+`VAOS Medallia [YYYY] Q[#] Week[##] [Month] [DD]-[Month] [DD]` 
+For example: VAOS Medallia 2023 Q4 Week 44 Oct 30-Nov 5
+
+This make the feedback sortable by date in the appropriate folder.
+
+4. Scrub the feedback of PII/PHI. Read through every user comment and replace personal information with asterisks or number symbols.
+Look for:
+- Email addresses
+- Names
+- Social security numbers
+- Phone numbers
+- Other identifying numbers
+
+5. Note any issues that may be new or indicate that something is broken. 
+
+6. Upload file to the Teams folder. Check that it is named so that it can be sorted by date.
+
+7. Share the file, including flags of any potential issues to  Simi, Jeff, Leah, Kay, Peter, Melissa, Ciera (using their VA email addresses)
+
+8. Note any potential new broken behavior in the #appointments-fe-meetup channel.

@@ -1,6 +1,6 @@
 # Default Send 
 
-**Updated:** 8/11/2023
+**Updated: 10/26/2023** Launch Dates!
 
 ## Table of Contents
 
@@ -79,9 +79,9 @@ The toggles used for this:
 ### Results 
 |UAT|Result|
 |---|---|
-|Number of Users||
-|Number of Bugs Identified/Fixed||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
+|Number of Users| 6 + pilot participant |
+|Number of Bugs Identified/Fixed| 0 bugs found |
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?| No changes |
 
 
 ## Phase II - Staged Rollout 
@@ -93,22 +93,21 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 **Launch Go/No-go:** 
 - [Launch go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62928)
 
-**Desired date range:** _TBD_
+**Desired date range:** 10/25/2023
 - [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62921) 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 - [Success metrics on Default Send project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/default-send/README.md#measuring-success)
-- [Success metrics on editing-as-subtask inititive brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/mobile-phone-edit-flow/README.md#key-performance-indicators-kpis)
+- [Success metrics on editing-as-subtask inititive brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask/mobile-phone-edit-flow)
 
 ## Go Live
 
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% |  |  |
-| Launch to 50% |  |  |
-| Launch to 75% |  | |
-| Launch to 100% |  |  |
+| Launch to 25% | 10/25/2023 | 10/25/2023 |
+| Launch to 50% | 11/1/2023 | 10/31/2023 |
+| Launch to 100% | 11/8/2023 |  |
 
 ### 1-week results at 100%
 ||Results|

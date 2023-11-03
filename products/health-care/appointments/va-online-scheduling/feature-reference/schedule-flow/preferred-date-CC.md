@@ -27,7 +27,7 @@ Veterans are asked to choose a preferred date for when they'd like to receive ca
 
 
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=160-36382&t=rlUNz5oWE30aEgSO-4) 
 

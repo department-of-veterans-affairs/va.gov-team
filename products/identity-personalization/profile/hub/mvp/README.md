@@ -81,10 +81,10 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 [Domo dashboard for profile searches by search term](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|-------------|---------------|-------------------|
-|dd214||||
-|direct deposit||||
+|KPI/metric|Baseline: 1 month pre-launch [add dates]| 25% | 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|:-:|:-:|:-:|:-:|:-:|:-:|
+|dd214|||||||
+|direct deposit|||||||
 
 
 ## Key deliverables

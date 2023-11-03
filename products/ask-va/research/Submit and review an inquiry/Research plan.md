@@ -100,22 +100,22 @@ Note: We will also recruit 1-3 School Certifying Officials and Work Study Superv
 
 ### Recruitment criteria
 
-We need to recruit 10 Veterans and 6 dependents for a total of 8-10 completed sessions.
+We need to recruit 14 Veterans and 6 dependents for a total of 10-12 completed sessions.
 
-#### Cohort 1: 10 Veterans
+#### Cohort 1: 14 Veterans
 
 |# of participants|Criteria|
 |:--|:--|
-|Exactly 10|Are Veterans|
-|Exactly 10|Have contacted VA online or over the phone in the past year|
-|Exactly 10|Have signed into VA.gov in the past year|
-|Exactly 10|Are willing and able to sign in to their personal Login.gov or ID.me account during the session|
-|Exactly 5|Are willing to join from a mobile device|
-|Exactly 5|Are willing to join from a desktop device|
-|At least 4|Are over 55 years old|
-|At least 4|Identify as Black, Hispanic or Native|
-|Exactly 3|Require screenreader software to use a desktop computer|
-|Exactly 3|Have a cognitive disability or consideration|
+|Exactly 14|Are Veterans|
+|Exactly 14|Have contacted VA online or over the phone in the past year|
+|Exactly 14|Have signed into VA.gov in the past year|
+|Exactly 14|Are willing and able to sign in to their personal Login.gov or ID.me account during the session|
+|Exactly 7|Are willing to join from a mobile device, including 3 screen reader users|
+|Exactly 7|Are willing to join from a desktop device, including 3 screen reader users|
+|Exactly 7|Have a cognitive disability or consideration|
+|Exactly 6|Require screen reader software to use a mobile device or desktop computer|
+|At least 5|Are over 55 years old|
+|At least 5|Identify as Black, Hispanic or Native|
 |At least 2|Identify as a gender other than male|
 
 We have a submitted a [Recruitment Request: Cohort 1 - Veterans](url goes here).

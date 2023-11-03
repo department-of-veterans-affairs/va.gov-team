@@ -1,4 +1,4 @@
-# Project outline: Create dot indicator
+# Project outline: Create dot indicator on unread health care messages
 
 **Last Updated: September 28, 2023  -- updated communications links**
 
@@ -132,11 +132,14 @@ So we can see some of the other health-related tools saw a big bump, but nothing
 
 ## Design
 
-- Add link to Sketch files
-   
 ### Before
+![Screenshot 2023-10-30 at 2 39 12 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/aa9443aa-a92f-4793-bdd1-816f1d4d6ac9)
+
 
 ### After
+![Screenshot 2023-10-30 at 2 38 51 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/cf395ee7-db9c-442b-a119-0da40ed33881)
+
+
 
 ## Frontend
 

@@ -37,11 +37,6 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 
 
 Today we're going to take a look at the VA.gov website and ask you some questions. We’re interested in learning from you what it’s like to navigate and find information on the website.
-
-As part of signing up for the study, you shared that you have a VA.gov or MHV account and are willing to log into that account during the session. Do you have your login information handy?
-
-- If no, and they’re not able to get it, end the session.
-- If no, bring up staging account, and pass control via Zoom if the participant is on desktop
   
 **For screenreader or mobile sessions:** Before we start, I want to confirm a few pieces of information that were shared with me when you signed up for the study:
 
@@ -115,10 +110,19 @@ _Instructions for folks using screenreaders on a desktop:_
 
 Great, now I can see your screen! Thank you for your patience in figuring this out.  Now please go ahead and show me how you’d check this information?
 
-_Participants may start on Google, VA.gov, or somewhere else. If they go elsewhere, we eventually need to get them to VA.gov._ 
-- I’d like for you to show me how to find this information on VA.gov?
+_Participants may start on Google, VA.gov, or somewhere else.
 - _We expect participants will go to VA.gov and be prompted to log in at some point._
+- _We eventually need to get them to staging.va.gov_
+- I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov. Let me know if you need any help doing that.
+- Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in in the chat.
+- Great, I’d like for you to show me how to find this information from this page (VA.gov)?
 - _Nudge and probe as appropriate. If get totally lost, help them out. Ultimately, has to go to the Profile section of VA.gov._
+
+_Instructions for folks using screenreaders on a desktop:_
+
+- Now I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov.
+- Let me know if you need any help doing that.
+- Okay great, I can see your screen. Now please navigate to the "sign in" button and I'll tell you the credentials you should type to log in.
 
 ### Task 2: Review Personal health contacts page - 8 minutes
 

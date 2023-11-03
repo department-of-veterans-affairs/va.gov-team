@@ -1,6 +1,6 @@
 # Debt Documentation + FAQs
 The purpose of this document is to capture necessary knowledge needed to understand  Debt related products and the overall landscape of the debt with Veterans Affairs. Typical uses include reference, onboarding and general knowledge transfer for interested parties.  It serves as a "front door" to ALL documentation and resources collected during the course of product design and development and may included links to more specific resources/references.
-**Last Updated : June 2022**
+**Last Updated : October 2023**
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ The purpose of this document is to capture necessary knowledge needed to underst
 > - [Combined  FSR [cFSR]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#combined-fsr-cfsr-product-documentation)
 > - [Streamlined Waiver [SW]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#streamlined-waiver-sw-product-documentation)
 
-♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎
+♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎
 
 <br>
 
@@ -38,7 +38,7 @@ The Debt Resolution team is focused on making VA.gov the "go-to" resource for Ve
 _"Resources for product team developing these products"_
 - [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/charter.md)
 - [Products Master page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
-- [Zenhub Scrum Board](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-benefits-2&notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
+- [Zenhub Scrum Board](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/board)
 - [Team GitHub Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2)
 - [Staging Users by Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
 - [Sprint Planning](https://salientcrgt.sharepoint.com/:w:/r/sites/VSATeam/_layouts/15/doc.aspx?sourcedoc=%7B501c1a33-c7ad-40be-9778-5e8df64b5ccd%7D&action=edit)

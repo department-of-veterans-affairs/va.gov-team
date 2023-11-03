@@ -20,7 +20,7 @@ A team outside of OCTO was hired to research and design the features for this co
 
 Separately, the IDEA Act came out, which required VA to digitize all user-facing forms. A team under OCTO started the process of digitizing these forms. Congress is particularly interested in a suite of forms that would enable Veterans in the foreign medical program, as well as Veterans' family members to be able to apply for and manage certain benefits online. 
 
-All of the requirements for the community care portal and the VFMP focus were batched into [one giant requiements document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/RTM%20Report%2001062023.xlsx), which became, eventually, the **Integrated Helath Veteran & Family Member Modernization Project**. 
+All of the requirements for the community care portal and the VFMP focus were batched into [one giant requiements document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/integrated-health/big-picture/RTM%20Report%2001062023.xlsx), which became, eventually, the **Integrated Health Veteran & Family Member Modernization Project**. 
 
 OCTO reviewed the list of requirements and determined that:
 - some % of the features requested already existed on VA.gov (i.e. the 1010ez)
@@ -144,6 +144,7 @@ General problems include:
   - Lauren Alexanderson - Health Portfolio Lead, main POC for anything to do with patient portal/medical records 
   - Matt Dingee - Forms System & Design System
   - Danielle Thierry - CAIA Lead (for all things content, community care, decision review and family member hubs, etc.) 
+  - Mikki Northuis -Information architecture
   - Kay Lawyer - Product lead for Unified Appointment Experience (including consults, authorizations, etc.) & Medications
   - Denise Coveyduc - Product lead for debt mgmt product 
   - Beverly Nelson - Product lead for VA Notify

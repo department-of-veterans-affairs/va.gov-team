@@ -21,7 +21,7 @@ Veterans are asked to review the appointment details and submit.
         - A confirmation message is shown on the detail page
     - If an appointment was made successfully, the appointment confirmation page is shown
 
-## User interface design
+## Specifications
 
 [User Flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2916-5657&t=rlUNz5oWE30aEgSO-4)
 

@@ -52,7 +52,7 @@ Veterans are asked what type of care they'd like to receive.
 - If a user is community care eligible for the type of care they chose, then they will see a facility type page where they can choose between making a request for a VA appointment or for a community care provider.
 
 
-## User interface design
+## Specifications
 
 [User flow](Add link) 
 

@@ -13,9 +13,9 @@
 |Form Number  |Form Name |User State |Email Used |Launch Date | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 21-0845 | Authorize VA to release your information to a third party source | Authenticated and Unauthenticated | Form | In Progress | 
-| 21-0972 | Sign VA claim forms as an alternate signer | Authenticated and Unauthenticated | Form | In Progress | 
-| 22-10203 | Apply for the Rogers STEM Scholarship | Authenticated and Unauthenticated | Form | In Progress | 
-| 21P-0847 | Request to be a substitute claimant for a deceased claimant | Authenticated and Unauthenticated | Form | In Progress | 
+| 21-0972 | Sign VA claim forms as an alternate signer | Authenticated and Unauthenticated | Form | October 2023 | 
+| 22-10203 | Apply for the Rogers STEM Scholarship | Authenticated and Unauthenticated | Form | October 2023 | 
+| 21P-0847 | Request to be a substitute claimant for a deceased claimant | Authenticated and Unauthenticated | Form | October 2023 | 
 | 21-10210 | Application to Submit a Lay Witness Statement to Support a VA Claim | Authenticated and Unauthenticated | Form | October 2023 |
 | 22-0994 | Application for VET TEC | Authenticated | Form | September 2023 | 
 | 21-4142 and 21-4142a | Application to Disclose Information and General Release for Medical Provider Information to VA | Authenticated and Unauthenticated | Form | August 2023 | 

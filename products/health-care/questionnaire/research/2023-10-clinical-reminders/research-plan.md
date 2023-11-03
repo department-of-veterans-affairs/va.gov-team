@@ -1,4 +1,4 @@
-# Research Plan for Health Questionnaires, Clinical Reminders Pilot, October 2023
+# Research Plan for Health Questionnaires, Clinical Reminders Pilot - Veteran Interviews, October 2023
 
 ## Background
 “The Clinical Reminder system helps caregivers deliver higher quality care to patients for both preventive health care and management of chronic conditions, and helps ensure that timely clinical interventions are initiated.  
@@ -54,6 +54,17 @@ Sessions will take place via Zoom meetings.
 - Session length: 1 hour 
 - Buffer time between sessions: 30 minutes 
 - Maximum Sessions per day: 3	 
+
+### Research sessions
+- Planned dates of research:
+  - Nov. 9 from 9 - Noon ET and 3:30 - 5 ET
+  - Nov. 17 from 9 to 3 ET
+  - Nov. 20 from 9 to 5 ET
+  - Nov. 27 from 9 to 5 ET
+  - Nov. 28 from 9:30 to 3 ET
+  - Nov. 29 from 9:30 to 5 ET
+  - Nov. 30 from 9 to 5 ET
+  - Dec. 1 from 9:30 to 3 ET
 
 #### Recruitment criteria
 [Link to recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/398)

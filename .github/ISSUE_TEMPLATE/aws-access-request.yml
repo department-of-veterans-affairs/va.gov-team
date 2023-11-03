@@ -109,8 +109,8 @@ body:
   - type: textarea
     attributes:
       label: E-QIP Transmittal Confirmation
-      description: Attach a screenshot of your confirmation by clicking this area to highlight and dragging the file in.
-      placeholder: Drag your transmittal confirmation screenshot here
+      description: Attach a screenshot of your transmittal confirmation email by clicking this area to highlight and dragging the file in.
+      placeholder: Drag your transmittal confirmation email screenshot here
     validations:
       required: true
   - type: textarea

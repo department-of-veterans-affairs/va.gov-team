@@ -1,5 +1,5 @@
 # Contact information: Mailing address is flagged as “bad” in VA profile
-**Last updated:** September 21, 2023
+**Last updated:** October 26, 2023
 
 When mail is sent to a Veteran and then returned to the VA, the address is flagged as “bad” in VA Profile. When a user’s address has this flag, they will be prompted to review and update their mailing address on the personal information and contact information pages in profile. Mailing address must be kept updated as it may be where Veterans receive VA bills, notices, and prescriptions.  
 
@@ -7,7 +7,7 @@ When mail is sent to a Veteran and then returned to the VA, the address is flagg
 - [Discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/discovery/documentation.md) 
 
 ## UX
-- Review state `S-1` in the [user flow](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/32C331B8-812D-46FE-AF7D-DCA63C881713/canvas)
+- Review behavior `B-1` in the [user flow](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/32C331B8-812D-46FE-AF7D-DCA63C881713/canvas)
 
 ### Personal information page
 - Displays an [alert](https://design.va.gov/components/alert#warning-alert)  (VA design system component) directing user to review their mailing address

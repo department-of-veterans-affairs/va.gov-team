@@ -20,7 +20,7 @@ Veterans are asked to confirm their contact informarion.
 - After contact information is entered, the user is sent to the review page
 
 
-## User interface design
+## Specifications
 
 [User Flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2899-14277&t=rlUNz5oWE30aEgSO-4)
 

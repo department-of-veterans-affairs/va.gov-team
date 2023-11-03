@@ -89,12 +89,12 @@ As a person that receives payments from VA, I want to be able to easily view and
 - [Launch monitoring from Adam's EVSS > Lighthouse dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)
 - **Success rate** = Failed [retrievals/saves]/Successful [retrievals/saves]
 
-|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)| 2nd week @10% (8/22/23 - 8/28/23)| Re-Launch to 10% (9/12/23 - 9/18/23) | Stayed @ 10% (9/19/23 - 9/26/23) | 1 week @25% ( DATES ) |1 week @50% ( DATES )|1 week @100% ( DATES )| 1 month @100% ( DATES ) | 2nd month @100% of users ( DATES )|
+|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)| 2nd week @10% (8/22/23 - 8/28/23)| Re-Launch to 10% (9/12/23 - 9/18/23) | Stayed @ 10% (9/19/23 - 9/26/23) | 1 week @25% ( 9/26-10/10/2023 ) |1 week @50% ( 10/3-10/10/2023 )|1 week @100% ( 10/10-10/17/2023 )| 1 month @100% ( DATES ) | 2nd month @100% of users ( DATES )|
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|% of successful retrievals|90%|96%|94%|92%|94.71%|95%||||
-|% of failed retrievals|10%|4%|6%|7%|5.29%|5%||||
-|% of successful saves|84%|91%|85%|78%|90.45%|94.95%||||
-|% of save failures|16%|9%|15%|22%|9.55%|5.05%||||
+|% of successful retrievals|90%|96%|94%|92%|94.71%|95%|96.65%|96.8%|94.61%|||
+|% of failed retrievals|10%|4%|6%|7%|5.29%|5%|3.35%|3.18%|5.39%|||
+|% of successful saves|84%|91%|85%|78%|90.45%|94.95%|93.11%|94.22%|93.05%|||
+|% of save failures|16%|9%|15%|22%|9.55%|5.05%|6.89%|5.78%|6.95%|||
 
 
 ## Key deliverables

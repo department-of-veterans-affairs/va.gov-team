@@ -66,9 +66,9 @@ Zoom
 ### Research materials
 
 For moderated usability tests: 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/rate-tool/readme.md)
-- [Link to prototype](https://www.figma.com/file/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=0%3A1&mode=design&t=Vy1omWZinzzn4niv-1)
-
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/rate-tool/conversation-guide.md)
+- [Desktop](https://www.figma.com/proto/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=589-2533&t=HssBUjXUpopiXDX7-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=589%3A2533&show-proto-sidebar=1&mode=design)
+  [Mobile](https://www.figma.com/proto/s9aAXodKPxFE8ffYO8vg0T/Rate-tool?type=design&node-id=589-5247&t=v2HY1b4FQj85b0WG-1&scaling=scale-down&page-id=83%3A1743&starting-point-node-id=589%3A5247&show-proto-sidebar=1&mode=design)
 	
 ## Recruitment	
 
@@ -88,7 +88,7 @@ Schedule 10 Veterans for a minimum of 8 successfully completed sessions.
 **Secondary criteria (nice-to-haves)**
 
 **Gender**
-- 8 women, 8 men
+- 5 women, 5 men
 
 **Inclusion**
 - 3 participants who use assistive technology (e.g. screen reader, magnification)

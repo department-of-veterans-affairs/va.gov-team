@@ -4,7 +4,7 @@
 We will include two Medallia surveys in the Ask VA flow, an intercept survey and a feedback button. The intercept survey will interrupt 5% of users based on a triggering event (a step in the flow). 
 The feedback button will show a feedback survey (2 questions) when a user clicks on the feedback button, which will be available on all pages. Both surveys are shown in modals.
 
-We will add these surveys to ask.va.gov (to establish a baseline) and Ask VA on VA.gov.
+We will add these surveys to ask.va.gov (to establish a baseline) and Ask VA on VA.gov at va.gov/contact-us/ask-va.
 
 ## Intercept survey
 5% of users will see the pop-up modal.
@@ -29,7 +29,7 @@ See example:
 ### Intercept survey questions
 |Question|Answer choices|
 |:---|:---|
-|How was your experience contacting VA today?|Very good<br>Somewhat good<br>Neither good nor bad<br>Somewhat bad<br>Very bad|
+|How was your experience contacting VA today?|Very bad<br>Somewhat bad<br>Neither good nor bad<br>Somewhat good<br>Very good|
 |Why did you select that rating?|Please don't enter personal information into the text box. This includes your name, address, Social Security Number, medical information or anything else that someone could use to identify you.|
 |Please rate how understandable this site's information is.|Difficult to understand<br>Somewhat difficult to understand<br>Some is easy, some is difficult<br>Somewhat easy to understand<br>Easy to understand|
 |How did this interaction change your trust in Veterans Affairs?|Decreased my trust<br>Somewhat decreased my trust<br>Neither increased nor decreased my trust<br>Somewhat increased my trust<br>Increased my trust|
@@ -41,5 +41,5 @@ See example:
 ### Feedback survey questions
 |Question|Answer choices|
 |:---|:---|
-|How was your experience contacting VA today?|Very good<br>Somewhat good<br>Neither good nor bad<br>Somewhat bad<br>Very bad|
+|How was your experience contacting VA today?|Very bad<br>Somewhat bad<br>Neither good nor bad<br>Somewhat good<br>Very good|
 |Please tell us what would make it easier to contact VA.|*Text area*|

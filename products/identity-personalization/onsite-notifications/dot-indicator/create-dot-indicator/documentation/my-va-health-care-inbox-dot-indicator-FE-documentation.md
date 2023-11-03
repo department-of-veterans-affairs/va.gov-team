@@ -35,8 +35,9 @@ Use font awesome icon `comments` for icon
 
 [Accessibility annotation](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/y9ylJ8y)
 
-- There should be an aria label associated with the inbox link **when there are unread messages**. If there are no unread messages, there does not need to be an additional aria label.
-  - When a user has unread messages and therefore the dot shows, the aria label should say "Unread messages." and then read the title of the link after that: "Go to your inbox."
+- There should be an aria label associated with the inbox link **when there are unread messages**. If there are no unread messages, there does not need to be any aria label.
+  - When a user has unread messages and therefore the dot shows, the aria label should say "Unread messages. Go to your inbox."
+    - Note: An aria label replaces the link text so the link text must be included in the aria label that's applied when there are unread messages. [This feedback from CAIA during staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68258#issuecomment-1779982201) outlines this guidance and provides the recommended code.
   - [Slack thread for context on this decision](https://dsva.slack.com/archives/C909ZG2BB/p1692732654397699)  
 
 **Positioning**

@@ -105,6 +105,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Before
 
 ### After
+- Staging: https://staging.va.gov/view-change-dependents
+- Backup Protoype: https://xd.adobe.com/view/2ac2e549-4997-4870-8115-17f62703bb0f-7f91/?fullscreen
 
 ---
 

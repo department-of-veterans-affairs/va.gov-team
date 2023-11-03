@@ -1,5 +1,39 @@
 # Design Weekly Sync Agenda
 
+## 2023-10-30
+
+Attendees: Jessica, Hieu, Katelyn, Kristen, Alex, Heather, Emily
+
+
+- EZR MVP Research
+    - Went over conversation guide:
+    - How should the participant get to the static page? The team thinks it is a better scenario to have the Veteran update their Insurance.
+    - UX should ask the developer for update, and staging links since we want to submit research ASAP.
+
+- Midpoint Review
+    - UX should have Assistive Tech user for Usability Research (in December)
+    - A MUST-change (launch blocking) for the Review Page, wording on the Agreement. Team must confirm with HEC SME.
+    - Design MUST: Reviewers wants the Additional Info to be shorter, more in line with the Guidelines. While lengthy, the content in the household is needed. The team feels the need to push back.
+
+- Registration Tree-Test:
+    - Waiting for HEC to respond.
+    - Mural Presentation, we had (2) questions that needed answer.
+
+- Team wants to hold Registration since EZR takes priority.
+
+
+## 2023-10-23
+
+Attendees: Jessica, Hieu, Kristen, Alex
+
+
+- Went over registration presentation deck
+- Talked about reframing the deck outline to be focused on the scenarios and remove the other slides
+- Use examples and Sketch wireframes within the scenario examples instead of at the end of the presentation
+- Talked about cohorts for registration tree test; focusing on most being unenrolled but a cohort or two of enrolled with disability ratings. 
+
+
+
 ## 2023-10-16
 
 Attendees: Jessica, Katelyn, Hieu, Kristen

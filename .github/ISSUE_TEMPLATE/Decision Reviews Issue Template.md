@@ -1,10 +1,13 @@
 ## Value Statement
-**_As a_**
-**_I want to_**
-**_So that_** 
+**_As a_** user type
+**_I want to_** job to be done
+**_So that_** desired outcome(s)
 
 ---
 ## Background Context
+- Add here
+
+## Outcome, Success Measure, KPI(S), and Tracking Link
 - Add here
 
 ## Acceptance Criteria

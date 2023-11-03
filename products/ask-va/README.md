@@ -1,4 +1,4 @@
-# Ask VA Integration team
+# Ask VA Front-End Team
 
 AVA is an online portal that allows Veterans, caregivers, and supporting personnel in education, debt, loans, etc. to submit questions to VA and receive a secure message response. Currently, Ask VA (AVA) resides within a stand-alone Microsoft portal that is inconsistent with the VA design standards, is not mobile-friendly, and has accessibility issues.
 

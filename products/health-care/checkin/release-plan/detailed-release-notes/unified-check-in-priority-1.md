@@ -32,18 +32,13 @@ These release notes highlight the significant changes to Pre-Check-in and Online
     - The Veteran's list of upcoming appointments (those that are available via the MAP service)
     - Ability to see the details for any of their upcoming appointments
 
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/a90c0cba-6152-48ce-84f9-6ab7aab28caf)      ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/8a244a4e-d128-4f9a-bb61-380aa7e0eb73)    
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/a90c0cba-6152-48ce-84f9-6ab7aab28caf)
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/8a244a4e-d128-4f9a-bb61-380aa7e0eb73)    
 
 
 - New title on the completion page
 
   ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/ca870ba9-75fa-4443-8f43-4b424a873e91)
-
-
-- Hiding the first accorion when the Veteran has indicated that all of their information is up-to-date
-
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/ad580a67-ca6a-46a4-9a29-ade30f7d3b02)
-
 
 ## Changes to On-line Check-in
 

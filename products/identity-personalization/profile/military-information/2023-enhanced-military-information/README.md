@@ -1,6 +1,6 @@
-# Project outline: Enhanced Military Information
+# Initiative outline: Enhanced Military Information
 
-**Updated 10/05/2023:**  adding key decisions table
+**Updated 11/1/2023: Added product/initiative goals and restructured/collapsed some sections to reduce the length**
 
 ### Communications
 
@@ -24,6 +24,7 @@
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
+- [Product/Initiative Goals](#productinitiative-goals)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
@@ -35,15 +36,21 @@
 
 ## Overview
 
-The VA.gov profile team has been asked to enhance the military history section of the profile to aid veterans when applying for benefits. 
+The VA.gov profile team has been asked to enhance the military history section of the profile to aid veterans when applying for benefits, with specific emphasis on disability claims. 
 
-This project needs to meet legislative requirements by giving veterans view access to their Individual Longitudinal Exposure Record (ILER) record, but it should not stop there. From a veteran’s experience perspective, the Veteran Experience Office (VEO), the Vetern Benefits Administration (VBA), and the Office of General Counsel (OGC) have recommended making [data points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#integrate-the-following-data-into-vagov) from veteran’s military records more accessible online with a focus on data used to apply for benefits. More specifically, VEO/VBA/OGC have arrived at a list of 8 key data elements found within veteran’s military records that, in this project, we are tasked with exposing. 
+This initiative needs to meet legislative requirements by giving veterans view access to their Individual Longitudinal Exposure Record (ILER) record, but it should not stop there. From a veteran’s experience perspective, the Veteran Experience Office (VEO), the Veteran Benefits Administration (VBA), and the Office of General Counsel (OGC) have recommended making [data points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#integrate-the-following-data-into-vagov) from veteran’s military records more accessible online with a focus on data used to apply for benefits. More specifically, VEO/VBA/OGC have arrived at a list of 8 key data elements found within veteran’s military records that, in this project, we are tasked with exposing. 
 
 To start we should focus on **read only** access to those data elements and to ILER. As VBA/VHA/VEO/OGC/DoD progress their conversations around the legislation we can then shift focus to update access for ILER data (ie. Section 803). 
 
 ### What are the OCTO Objectives this work relates to? 
 - O1: Increase the accessibility, reliability, and security of Veteran's digital services
 - O2: Reduce the time it takes for Veterans to find, use, and receive VA Services
+
+
+## Background Details 
+
+<details>
+     <summary>Expand this section for additional context and details that we've uncovered as we've progressed through the project</summary>
 
 ### Legislative mandates
 
@@ -104,6 +111,13 @@ Making the DD214 available online has been proposed and rejected due to the poin
 
 We should use the DD214 and ILER as starting points for this project, but we should not fixate on them. Our current understanding is veterans are using data in these documents to help them in applying for benefits (claims). VEO in conjunction with OGC have highlighted 8 key data elements from the military record that we should expose. As part of this project, we will focus on how to organize those data elements in a way that makes the data most useful to veterans with special attention to how the data can be used when applying for benefits. It will be critical to consider any data elements that may be missing. 
 
+</details>
+
+### Where do we start?  
+Expansion of the military information available on VA.gov will focus on the categories below:
+- Integrating additional military data into VA.gov
+- Linking to ILER Records
+- Allowing for edits/updates to ILER records
 
 #### Integrate the following data into VA.gov
 
@@ -140,11 +154,38 @@ We can access a PDF version of someone's ILER record, so linking to this would s
 
 VA leadership is not clear on how exactly to make this possible and they’re still working with their DoD counterparts to satisfactorily answer the legislative imperative in Section 803. A lightweight MVP might be giving veterans a DoD number to call. Ideally, over time, we'd have a better option than that.
 
+### MVP Slice
+The scope of those three things is expansive. With that in mind we're using the 526EZ form to inform our initial focus to the items that will most likely assist veterans when completing the 526EZ. The 526EZ electronic form is expanding to incorporate additional questions. The military information we're adding to the Profile should help veterans when completing those questions. 
+
+With that in mind we'll start by adding units, deployment locations/dates, and military occupation.
+
+#### Disability claim (526EZ)
+
+- [Paper form](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
+- [Form on VA.gov staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
+  - Access with user 15 or 68
 
 ## Problem Statement
 
 - As a Veteran, I want to see what information VA has about my military history, and to be able to correct it if it is inaccurate.
 - As a Veteran, I want to know if I served in an area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
+
+## Product/Initiative Goals 
+
+If we are thinking of the entire expanded military effort, the product goal is:
+
+- To meet the congressional mandates around elevating toxic exposure data in a way that is holistic and matches veterans' mental models.
+
+If we are thinking of this MVP portion of this effort, the product goal is:
+
+- To holistically support the addition of toxic exposure fields into the 526.  
+
+For the MVP, our work does this by:
+
+- Making it easier for a 526 developer to incorporate these fields into prefill because we will have completed the original integration of this data into `vets-api`.
+- Giving this data a permanent place on [VA.gov](http://va.gov/), so veterans can easily review this information.
+
+
 
 ## User Outcomes
 
@@ -228,7 +269,7 @@ We'll support some kind of edit access/process (ideas that are not finalized by 
 
 - September 2023: Initial discussions; project kickoff
 - September-October 2023: Discovery
-- October 2023: Design
+- October 2023: Started collaborating with the 526 team; Decided on our MVP approach; Produced initial designs
 - November-December 2023: Build
 
 ## Key decisions

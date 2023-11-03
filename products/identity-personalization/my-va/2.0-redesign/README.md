@@ -6,6 +6,7 @@ Last updated June 2023 - updated team roles
 
 - **GitHub Label**: vsa-authenticated-exp; personalization-2.0; my-va-dashboard
 - **Slack channel**: vsa-authd-exp
+- **Development epic:** [#6326](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6326)
 
 ### Roles
 [Please see the My VA product outline for the current My VA team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles).

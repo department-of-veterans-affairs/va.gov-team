@@ -1,7 +1,49 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Oct 26' 2023       
+### Participants: Rakshinda, Shannon, Emily, Steve 
+### Topics Covered:
+- Emily's concern regarding potential validation errors related to rated disabilities discrepancies between EVSS and LH enpoints
+  -  Ongoing discrepancies with mobile
+     -  LH is working with BGS to resolve that
+  -  EVSS is to take out validation for this field
+    - Need to confirm that LH is also removing the validation - **TREX to check for /submit migration**
+- Toxic Exposure 
+  - VSRs are currently checking for service connecting for PACT Act so veterans are not blocked from submitting claims for PACT Act
+-  Monitoring with Sam / Steve / Mark
+  - WatchTower tag for Octo level visibility
+    
+### Date: Oct 19' 2023       
+### Participants: Rakshinda, Austin, Shannon, Emily, Steve 
+### Topics Covered:
+- Tech Debt - Do we want to allocate capacity every sprint to address tech debt proactively - work with Austin to priortize across the two teams for tech debt tickets
+- Coforma offsite Oct 23rd - Oct 27th
+  - Austin, Nathan, Thomas, Nichole, Julie out (Austin will monitor slack and Sam will be available for escalations)  
+- Team 2 priorities (quick recap to make sure we are still aligned)
+  - Now:
+    - 1. Fix back up path failures and solidify Emeregency Fail Safe process
+    - 2. Happy path failures that dont currently fail back up path
+    - 3. Doc upload LH migration (tentative rollout starting Nov 8th)
+    - 4. Begin UX work on ITF Aync option 2
+  - Next / Later (needs prioritization)
+    - 1. Knowledege transfer / shared responsibility around monitoring playbook and failures
+    - 2. ITF async implementation (pending ux discussion)
+    - 3. Downstream system outages (playbook / maitenance windows / ux improvements)
+- Team 1 priorities
+  - Continue LH migration
+     -  Check for EVSS changes in LH migration - add to A/C
+     -  Get the list from Austin/Emily/EVSS of all the changes being made for fixing failures 
+  - Intro pages - looking at epic break-down, outstanding questions, risks and blockers as outcome of technical discovery
+  - Toxic Exposure - reset on outstanding questions
+     -  Per contention
+     -  Other questions
+     -  Paper form
+  - Schedule BDD overview with David  
+  
+
+  
 ### Date: Oct 12' 2023       
-### Participants: Rakshinda, Austin, 
+### Participants: Rakshinda, Austin, Shannon, Emily, Steve 
 ### Topics Covered:
 - Prod access
   - Is prod access (such as to argo) intended to be limited again? (Unsubstantiated, but heard this around the grapevine)

@@ -62,7 +62,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 | Launch to 10% | 08/30/2023 |[08/30/2023](https://dsva.slack.com/archives/C04KXPXL4/p1693403074394949)  |
 | Launch to 25% | 09/06/2023 |[ 9/6/2023](https://dsva.slack.com/archives/C909ZG2BB/p1694177868315429?thread_ts=1693489197.759069&cid=C909ZG2BB) |
 | Launch to 50% | 09/13/2023 | [9/12/2023](https://dsva.slack.com/archives/C04KXPXL4/p1694533587958499?thread_ts=1693403074.394949&cid=C04KXPXL4) |
-| Launch to 100% | 09/20/2023 |  |
+| Launch to 100% | 09/20/2023 | [9/19/2023](https://dsva.slack.com/archives/C909ZG2BB/p1695134367780099?thread_ts=1695134342.109399&cid=C909ZG2BB) |
 
 ## Launch 
 ### Stage A: 10% of users
@@ -86,7 +86,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| pick one: No |
 |Types of errors logged:| ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/8a7fd4e7-afd2-415a-b023-3b7b20c5380c)|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| None! |
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| None |
 
 ---
 ### Stage C: 50% of users
@@ -97,8 +97,9 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |---|---|
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|Types of errors logged:| ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/a09a16d3-c542-4c6c-bec5-21627a469cf5)
+|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| None|
 
 ### Stage D: 100% of users
 
@@ -108,27 +109,29 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |---|---|
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md#measuring-success)|
 |Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|Types of errors logged:| ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/488d038e-2386-4870-bcc9-151bc52ba8d2)
+|
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| None |
 
 
 ## Post Launch Metrics 
 ### 1-week results at 100%
 ||Results|
 |---|---|
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
+|Any issues with VA handling/processing?|No|
+|Types of errors logged:|![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/08720c88-e88b-485a-a804-5c7c35843b33)
+|
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?|No|
 |If yes, what:||
 
 
 ### 1-month results at 100%
 ||Results|
 |---|---|
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
-|If yes, what:||
+|Any issues with VA handling/processing?|No|
+|Types of errors logged:|![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/49697f47-93b6-4e94-8ed3-9a2c4a7ed056)|
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?| No|
+|If yes, what:| While not a UX change per-se we're going to explore [#65019](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65019) as a way to reduce unecessary traffic to the BE, right now we check for a disability rating on ALL users when, in some cases we know even before sending the query to the BE the user will not have a rating (eg. LOA1, non-veteran users etc), we can reduce noise/traffic and lower the number of false positive errors |
 
 ## Post-launch Questions 
 

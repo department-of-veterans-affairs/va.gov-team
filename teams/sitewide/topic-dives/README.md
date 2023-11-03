@@ -20,9 +20,18 @@ Please add any potential future topics you would like covered below:
 ### - NGrok
 - @dsasser
 
+### 10/30/23 - How to make your Content Model Documentation ride with your code.
+   - Steve Wirt
+   - This is primarily for developers.  Prior to now, Content Model Documents had to be created on prod **AFTER** the code adding a new field/paragraph/content-type/taxon made it to prod.  This is to cover a new process to have it ride with the code.
+   - [Video](https://civicactions.zoom.us/rec/share/Bnw7JnpF-7NWJDXGo4K7KXeY01QStkVDn8f9sLWBm21i4BsNjBuWe5Tv6QRO3jhX.PHNKPgnTQuOjbovg?startTime=1698688832000)  passcode: JQh=8TSR
+   - Documentation of process (not on prod yet).
+
 ### 10/23/23 - VA Service Taxonomy
 - Dave Pickett
 - The [VA Service Taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/va-service-taxonomy) is a confusing part of the Facilities product portfolio. It is simultaneuously the simplest of our products (very little dedicated code, mostly powered by out of the box Drupal functionality, content updates are infrequent, no dedicated front end to maintain, etc.) and the most complex (source of truth for fields on lots of other content types, governance spans all our stakeholders, small changes can have large downstream impacts, etc.). Tune in to learn about how the VA Service Taxonomy works and how it is key to the long-term vision of the Facilities team.
+- [Slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/va-service-taxonomy/VA-Service-Taxonomy-presentation.pdf)
+- [Short and sweet slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/va-service-taxonomy/VA-Service-Taxonomy-presentation-short.pdf)
+- [Video](https://civicactions.zoom.us/rec/share/-GLIWsuKf2InesjrbmkXDDVvLR0bUS8eFPlSZ8PQ0AFrafNOqTIhF1ke5sM75qce.Yt_ecWRSRFoDjuHb) Passcode: 3wb@c&dA
 
 ### 10/16/23 - Datadog!
 - Chris Kim & Eli Selkin
@@ -49,7 +58,7 @@ Please add any potential future topics you would like covered below:
 ### 5/15/23 - CMS User Permission Model (Roles, Permissions, Workflows & Sections)
 - Dave Pickett
 - [CMS User Permission Model video](https://drive.google.com/file/d/1kM_WClSL15z3JX1EAHJ5f-QG8f0n_lyL/view)
-- [CMS User Permission Model slides](https://docs.google.com/presentation/d/1Kkjmx7rBprudAHXN8uFuxNp7D0nPD2oSj9-9-Jirxr8)
+- [CMS User Permission Model slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-governance/CMS-user-permission-model.pdf)
 
 ### 4/17/2023 - Diagrams in Github / Markdown with Mermaid
 - Steve Wirt
@@ -60,7 +69,7 @@ Please add any potential future topics you would like covered below:
   - [Engineer workflow](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/workflow.md#module-removal--uninstall)
   - [Quarterly planning](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13286)
 
-### 2/6/23 - Drupal and internalization
+### 2/6/23 - Drupal and internationalization
 - Tim Cosgrove
 - [Drupal and internalization video](https://drive.google.com/file/d/1pdnSGqbVopl92ORVFIxuQE5yKexM4n4Z/view)
 

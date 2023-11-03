@@ -20,22 +20,24 @@ Please log key decisions related to the below practice areas, including date, wh
 | The landing page will be at the URL …/my-health/medical-records/ | | 
 | The landing page will list all available domains, give a short descriptive blurb about each, and provide a link to the list view for each |   |
 | Any printed or downloaded page will include two patient identifiers - name and date of birth |    |
+| For Phase 0, we will only make downloads available as PDF. Downloading a TXT version will be a fast follow once all domains are in Phase 0. | Given the web version is fully 508 compliant, it will be the view that we recommend for all users to primarily access, including those who would need a TXT download rather than a PDF download  |
 
 
 ### Allergies specific design decisions
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------| 
+| The Allergies domain name was updated to Allergies and reactions. | This was a recommendation based on SME feedback. Allergies and reactions captures the full breadth of the data entered into this section of information. Reactions refers to information such as an adverse drug reaction. |
 | The list view page for allergies will be at the URL …/my-health/medical-records/allergies/ |   |
-| A details page for allergies will be at the URL …/my-health/medical-records/allergies/<allergy ID>/ |     |
+| A details page for allergies will be at the URL …/my-health/medical-records/allergies/allergy_ID/ |     |
 | A user can print from the list view. When they do, they receive a print out of all of their allergies |     |
 | A user can print from the details view. When they do, they receive a print out of the details for just that allergy |     |
 | A user can download from the list view. When they do, they receive a PDF that includes a list of all of their allergies |   |
 | A user can download from the details view. When they do, they receive a PDF that includes just the details of that allergy |      |
 | A user will be presented information on the consequences of downloading a PDF on a public computer | |
-| The list view will present each allergy in a card format |      |
-| Each card in the list view contains allergy name and date entered by provider into the record | |
+| The list view will present each allergy in a card format. That card will include both the allergy logged and the date it was entered into the EHR by a provider. | Allergies may not be deduplicated across VistA sites. In order to make sure each card in the list view is unique and therefore accessible, we must include a second identifier. We chose date entered as that second identifier.    |
 | The H1 of the details view will be the allergy name. Directly underneath the H1 will be date entered information | | 
 | In the details view for an allergy, a user will be shown Allergy name, date entered, location entered, reaction, allergy type, whether it was observed or is historical, and any comments entered by the provider | |
+| The field formerly called reaction was updated to be called Signs and symptoms. | This was based on feedback from SMEs. Signs and symptoms is the terminology for this field used in the After Visit Summary. It also differentiates this field from the title of this entire section - Allergies and reactions |
 
 
 

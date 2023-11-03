@@ -22,7 +22,7 @@ Users must choose how they would like to be seen for this appointment.
 - [Functional requirement]
 - [Functional requirement]
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=160-36591&t=8LrybrXbHG0xrSfN-4) 
 

@@ -12,6 +12,19 @@ Document the current state of our 526 monitoring.
 If you've arrived at this document via an alert in Slack or Issue in datadog, you are probably looking for a Playbook. Below each monitor / Alert below find the applicable playbook
 
 ## Monitors, Alerts, & Playbooks
+
+## StatsD is expensive
+**note** when possible, use a log.  StatsD is expensive
+
+Use cases for logging
+- need context from the application
+- one off event occurances
+
+Use cases for StatsD
+- need a cumulative number for metrics.  [
+
+If you aren't sure, [read the docs](https://docs.datadoghq.com/developers/dogstatsd/?tab=hostagent) for check with your lead
+
 ### Types
 **Percentage**
 These monitors will track the percentage of successful API interactions with one of our 3rd party services.  They use the formula

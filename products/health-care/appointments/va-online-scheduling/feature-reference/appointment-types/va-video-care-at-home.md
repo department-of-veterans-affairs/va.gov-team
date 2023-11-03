@@ -2,31 +2,63 @@
 
 ## Overview
 
-A scheduled telehealth appointment at a VA facility that the Veteran attends through VA Video Care.
+A scheduled telehealth appointment that the Veteran attends through VA Video Care on the device of their choice.
 
 ## User stories
 
-- As a Veteran, I want to join my telehealth appointments
-- As a Veteran, I want to manage my telehealth appointments.
-
+- As a Veteran, I want to join my telehealth appointments.
+- See [user stories for booked appointments](./all-appointment-types.md#booked-appointment-user-stories).
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- User can join telehealth appointments via a link to VA Video Care 30 minutes ahead of the meeting
-- User cannot cancel through VAOS
-    - Note: Video care appointments can't currently be canceled online due to a technical issue.
-- User can print details using a print button
-- User can add to their calendar via an .ics file
 
-## User interface design
+- Follows [requirements for canceling appointments](../tools/tool-cancel.md#requirements).
+- Follows [requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements).
+- Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
 
-[User flow](Add link) 
+- Video Visit at home appointments must display a link to join the appointment  
+  - The video visit link must display as active for 30 minutes prior to the appointment and for 4 hours after.
+  - Video Visit appointments (`kind = telehealth`) without telehealth links must display additional instructions to the veteran regarding the missing links
+    
+- Video visit instructions from Virtual Care Manager (VCM) instructions must be suppressed if the instructions are any of the following:
+  - `Message sent in MyHealtheVet`
+  - `Resources Mailed to Patient`
+  - `Signup for My HealtheVet  Message`
 
-[Page template](Add link)
+- User can review data and complete actions noted in the following table:
 
-[Page content](Add link)
+| Data and actions                                           | Upcoming | Past | Canceled |
+| ---------------------------------------------------------- | -------- | ---- | -------- |
+| Appointment Date and Time                                  | ✅        | ✅    | ✅        |
+| Status: Past                                               |          | ✅    |          |
+| Status: Canceled                                           |          |      | ✅        |
+| Type of Care                                               | ✅        | ✅    | ✅        |
+| Modality                                                   | ✅        | ✅    | ✅        |
+| Joining Instructions                                       | ✅        |      |          |
+| Link to Join                                               | ✅        |      |          |
+| Provider Name                                              | ✅        | ✅    | ✅        |
+| Prepare for video visit instructions                       | ✅        |      |          |
+| Call to Reschedule Alert                                   | ✅        |      |          |
+| [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
+| [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
+
+## Specifications
+
+**User flows**
+- [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
+- [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
+
+**UI design specs**
+- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
+
+**Page content**
+- [Upcoming](../../content/appointment-details.md#va-vvc-at-home-appointment---upcoming)
+- [Past](../../content/appointment-details.md#va-vvc-at-home-appointment---past)
+- [Canceled](../../content/appointment-details.md#va-vvc-at-home-appointment---canceled)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->

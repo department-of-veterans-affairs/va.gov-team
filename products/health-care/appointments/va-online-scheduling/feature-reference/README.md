@@ -15,14 +15,20 @@ See also:
 
 ## Manage appointments
 
+### Accessing Appointments
+
+| Feature | Usage | 
+|---|---|
+| [Login and access](./login-and-access.md) | Authentication and access rules. |
+| [Appointments portal](./appointments-home.md) | Starting page to schedule or manage appointments |
+
 ### Appointment summary views
 
 | Feature | Usage | 
 |---|---|
-| [Appointments home](./appointment-lists/appointments-home.md) | Starting page to schedule or manage appointments |
 | [Upcoming appointments](./appointment-lists/upcoming-list.md) | View all future and in progress appointments |
 | [Past appointments](./appointment-lists/past-list.md) | View all appointments from the last two years |  
-| [Pending appointments](./appointment-lists/upcoming-list.md) | View all pending and canceled requests | 
+| [Pending appointments](./appointment-lists/pending-list.md) | View all pending and canceled requests | 
 
 ### Appointment details views
 Booked appointments through VA or CC facilities.
@@ -33,28 +39,28 @@ Booked appointments through VA or CC facilities.
 | [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine | Yes |
 | [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | Scheduled telehealth appointments over VA Video Care | Yes |
 | [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility | Yes | 
-| VA Video Care on GFE |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility | Yes |
-| VA Video Care at an ATLAS location |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  | Yes |
-| VA Phone |  Scheduled telehealth appointments that a Veteran joins over the phone. | Yes |
-| Community Care |  Scheduled appointment that a Veteran joins at a community care provider | Yes | 
-| Compensation and Pension appointment | Scheduled appointment for a Compensation and Pension exam | Yes |
+| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility | Yes |
+| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  | Yes |
+| [VA Phone](./appointment-types/va-phone.md) |  Scheduled telehealth appointments that a Veteran joins over the phone. | Yes |
+| [Community care](./appointment-types/community-care.md) |  Scheduled appointment that a Veteran joins at a community care provider | Yes | 
+| [Claim exam appointment](./appointment-types/claim-exam.md) | Scheduled appointment for a claim exam | Yes |
 
 ### Request details views
 Appointments that Veterans have requested but VA has not booked.
 
 | Feature | Description | Supported |
 |---|---|---|
-| VA Appointment Request  | Request for a VA appointment | |
-| Community Care Appointment request | Request for a community care appointment | |
+| [VA appointment request](./appointment-types/va-request.md)  | Request for a VA appointment | Yes |
+| [Community care appointment request](./appointment-types/community-care-request.md) | Request for a community care appointment | Yes |
 
 ### Appointment management tools
 Tools Veterans can use to manage their appointments and requests.
 
 | Feature | Description | 
 |---|---|
-| Cancel appointment/request | | 
-| Add to calendar | | 
-| Print | | 
+| [Cancel appointment/request](./tools/tool-cancel.md) | Veterans can cancel some appointments online. | 
+| [Add to calendar](./tools/tool-add-to-calendar.md) | Veterans can download a file that will let them add an appointment to their calendar | 
+| [Print](./tools/tool-print.md) | Veterans can print details for appointments | 
 
 ## Schedule appointments
 Tools for Veterans to schedule or request appointments.

@@ -20,7 +20,7 @@ We have 2 in-progress efforts that will change the content landscape for CHAMPVA
 
 ### Current state
 
-We currently house CHAMPVA content within the modernized VA.gov health care hub. The page is titled "[CHAMPVA benefits[(https://www.va.gov/health-care/family-caregiver-benefits/champva/)." Additional CHAMPVA content currently lives within the legacy TeamSite community care website [CHAMPVA section](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/index.asp).
+We currently house CHAMPVA content within the modernized VA.gov health care hub. The page is titled "[CHAMPVA benefits](https://www.va.gov/health-care/family-caregiver-benefits/champva/)." Additional CHAMPVA content currently lives within the legacy TeamSite community care website [CHAMPVA section](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/index.asp).
 
 ### Future state
 
@@ -53,7 +53,9 @@ Our VA.gov decision reviews hub is very VBA focused at this time.
 
 ### Future state
 
-We are currently working with the VHA appeals modernization team, in collaboration with VBA and BVA, to bring more health care information into the hub.
+#### Phase 1 of health care information into decision reviews hub
+
+We are currently working with the VHA appeals modernization team, in collaboration with VBA and BVA, to bring more health care information into the hub. This is very intentionally a phased approach to simply bring in missing information and update content at this time, with the goal to do deeper work and discovery in partnership with relevant teams and partners in the future. 
 
 These 2 new pages are currently in review:
 - [Clinical Appeals of medical treatment decisions](http://preview-prod.vfs.va.gov/preview?nodeId=57215)
@@ -63,6 +65,10 @@ We're also working on reviewing this resources and support page:
 - [Choosing a decision review option](http://preview-prod.vfs.va.gov/preview?nodeId=23290)
 
 And we've audited pages throughout the Decision reviews hub to identify where we need to add or update information to accomodate health care.
+
+#### Phase 2 of decision reviews hub
+
+This hub needs a reassessment as a whole. Content/accessibility/information architecture team will partner with relevant OCTO teams and VA partners to relook at this hub's organization more holistically in the future.
 
 ## Spina bifida
 

@@ -6,7 +6,7 @@ Resources and Support (R&S), originally called “Learning Center”, was create
  <Summary>Examples:</Summary>
  
  - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
+   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
  - *Product: VA.gov Profile*
    - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
  - *Product: Disability Claims*
@@ -30,7 +30,7 @@ Resources and Support (R&S), originally called “Learning Center”, was create
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
    - R&S article pages are not optimized for the best user experience for veterans, 
-<a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/resources-and-support/discovery.md">analytics and user research</a> confirms this problem. <br>
+<a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/archives/resources-and-support/discovery.md">analytics and user research</a> confirms this problem. <br>
 The Content Team does not have enough bandwidth to continue adding additional R&S articles. There is currently not a workflow to allow for more editors to add additional articles to R&S.
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
@@ -61,7 +61,7 @@ The Content Team does not have enough bandwidth to continue adding additional R&
 ---
 
 ## Discovery
-<a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/resources-and-support/discovery.md">Link to Discovery document</a>
+<a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/archives/resources-and-support/discovery.md">Link to Discovery document</a>
 --- 
 
 ## Launch Planning

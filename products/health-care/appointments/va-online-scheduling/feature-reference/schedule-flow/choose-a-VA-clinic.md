@@ -21,7 +21,7 @@ Veterans are asked to choose the VA clinic where they'd like to receive the type
 - If the user doesn't recognize any of these clinics, there's an option to choose a different clinic, which will put the user in the request path (on the request calendar page)
 - After selecting a clinic, the user is sent to the preferred date page
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2899-14214&t=Rk531E1jSdxJnizH-4) 
 

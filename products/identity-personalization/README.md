@@ -22,7 +22,7 @@
 |Angela Agosto|	Designer|	angela.agosto@adhocteam.us|
 |Allison Lu | FE Engineer| allison@cityfriends.tech |
 |Adam Whitlock | FE Engineer |adam.whitlock@adhocteam.us|
-|Derrick Ellerbie| Full Stack Engineer|Derrick.ellerbie@Agile6.com|
+|Daniel Miller| Full Stack Engineer|...|
 |Tom Harrison| BE Engineer | tom.harrison@adhocteam.us|
 
 ## Our products

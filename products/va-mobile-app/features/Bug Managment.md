@@ -6,7 +6,7 @@
 | 1.0 | Adam Kasmier | 4/13/23 | Initial Creation  |
 | 1.1 | Adam Kasmier | 5/12/23 | Details on engineering handling of 1 pt bug tickets; Inclusion of non-engineering in the process  |
 | 1.2 | Adam Kasmier | 9/7/23 | Update details on how other teams are included to define solution prior to engineering fixing the bug |
-
+| 1.3 | Adam Kasmier | 10/27/23 | Upcoming Org changes, 3rd Party Bugs, QA process change to move the tickets to Backlog Ready to Work |
 
 ### Overview:
 
@@ -30,6 +30,11 @@ Intent is to have a single place to track, monitor, and prioritize bug tickets w
   - A separate bug ticket just for UX will be spun up with "UX Review" in title and tagged with Bug and UX - Example ticket [6490](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6490)
   - Capping initial look for UX at 3 points per convo with UX Discipline Lead
   - [Board with filter to find these ticket ](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board?labels=bug,ux)
+- Note that Engineering Manager may bypass this process has their discretion - doing so then will be managed by engineering manager not not Bug PM
+
+
+### Upcoming Changes
+ - As Mobile modifies its organizational structure with dedicated focused teams, bug work will then be managed by each individual team and not just a single person
 
 
 ### Roles and Responsibilities
@@ -56,6 +61,9 @@ Steps
 **2.) QA scrubs the bug ticket (adds labels, ensures it includes applicable info (test user, steps to repeat, etc)**
 - If bug ticket needs more information QA may assign the ticket to the ticket creator to get more details before it can progress 
 - Scrubbed, once scrubbed adds estimate of 1 (amount of time engineering will spend on it initially)
+- If its a third party bug ticket (bug ticket that has been opened with another team - label will be bug but not tied to the bug epic and managed exclusive by engineering ex [7109](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7109)
+
+
 
 **3.) QA adds scrubbed bug tickets to this [epic](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) and moves it to Backlog Ready to Work column**
 - Bug tickets that are associated with an ongoing and in development project will be linked to the project Epic and the Bug Epic 

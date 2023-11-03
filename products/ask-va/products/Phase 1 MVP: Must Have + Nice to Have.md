@@ -1,6 +1,6 @@
 # Phase 1 MVP - Front-End Redesign
 
-Last updated by @tygindraux on September 15, 2023
+Last updated by @beckyphung on October 30, 2023
 
 **Jump to:**
 - [Inquiry form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#inquiry-form)
@@ -16,7 +16,7 @@ Last updated by @tygindraux on September 15, 2023
 |:--|:--:|:--:|:--:|
 |Bring AVA inquiry form to a page on VA.gov|x|||
 |Bring AVA up to VA.gov design standards (front-end updates)|x|||
-|Update topics and categories based on content style guide (without changing functionality and output)|x|||
+|Update topics and categories based on content style guide (without changing functionality and output). See detailed scope [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/category-topic-subtopic-scope-for-phase-1.md).|x|||
 |Update form questions based on content style guide (without changing functionality and output)|x|||
 |Update UI to reflect the VA Design System|x|||
 |Make it mobile-friendly|x|||

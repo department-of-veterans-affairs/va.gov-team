@@ -31,7 +31,7 @@ Veterans are asked to choose where they'd like to receive their care between a V
 - Users are sent to the calendar page if they chose to make a community care request
     - This is not true if the user has chosen audiology, in which case they are first sent to a page to choose the specific type of audiology appointment they need
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=160-31731&t=Rk531E1jSdxJnizH-4) 
 

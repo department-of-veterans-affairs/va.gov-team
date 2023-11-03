@@ -2,8 +2,8 @@ Welcome to the Platform Contact Center Folder!
 
 ## VFS Contact Center POCs
 - DEPO POC: Chante Lantos-Swett (chante.lantosswett@va.gov)
-- VSP POC: Kimberley Daniels (kimberley.daniels@adhocteam.us) (kimberley.daniels@va.gov)
-
+- VSP POC: Anita Middleton (anita.middleton@oddball.io) (anita.middleton@va.gov)
+- VSP POC: Kimberley Monroe-Daniels (kimberley.monroe-daniels@oddball.io)  
 ## Process Documents
 - [Contact Center Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md) 
   * This document outlines the process for requesting a contact center team review for any new or significantly updated tool/feature. This process allows the contact center team to update contact centers on changes to VA.gov so that contact center agents can get trained to answer user issues and questions.  

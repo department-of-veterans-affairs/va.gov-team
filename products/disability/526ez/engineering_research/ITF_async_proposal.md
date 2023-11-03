@@ -6,7 +6,10 @@ if a vet logs in, do we need to show them information about an existing ITF.  Th
 
 [We answer this question in this meeting](https://drive.google.com/drive/folders/1A2W1aeS3ppD33kRo_tWAuORpjFdaOdt-)
 
-## YES, WE NEED ASYNC READ AND WRITE:
+### The answer: YES, WE NEED ASYNC READ AND WRITE
+
+at a high level, we have agreed on option #2 from below.  
+
 
 ### UX
 **note** for the purpose of end user facing UX, we denote ITFs as having two state, **existing** and **not existing**.  Complexity around how these states generated and represented is abstracted away from the user.

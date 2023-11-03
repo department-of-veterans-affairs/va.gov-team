@@ -118,7 +118,7 @@ We're using Informational Alerts from the design system component `<va-alert>`.
 - Team Name: Sitewide Public Websites
 - GitHub Label(s): 
 - Slack channel: #sitewide-public-websites
-- Product POCs: Wesley Rowe (@wesrowe)
+- Product POCs: Fran Cross (@FranECross)
 
 </details>
 
