@@ -19,14 +19,14 @@ _WTD = Week to Date, LTD = Launch to Date_
 
 ## **Secondary Metrics**
 
-| **Date** | **Use of 'Go back to previous version of secure messaging'** || **Use of 'Try me' link** |
-| --- | --- | --- | --- |
-| Phase 0 | ||N/A|
-| 11/13/23 ||||
-| 11/20/23 ||||
-| 11/27/23 ||||
-| 12/04/23 ||||
-| 12/11/23 ||||
+| **Date** | **Use of 'Go back to previous version of secure messaging'** | **Use of 'Try me' link** |
+| --- | --- | --- |
+| Phase 0 | 0 |N/A|
+| 11/13/23 |||
+| 11/20/23 |||
+| 11/27/23 |||
+| 12/04/23 |||
+| 12/11/23 |||
 
 ## **Performance Metrics**
 _WTD = Week to Date, LTD = Launch to Date_
@@ -42,11 +42,11 @@ _WTD = Week to Date, LTD = Launch to Date_
 | 12/04/23 ||||||
 | 12/11/23 ||||||
 
-**Conversion Events**
+**Conversion Events Count**
 
 | **Date** | **Send WTD** | **Send LTD** || **Print WTD** | **Print LTD** || **Sort WTD** | **Sort LTD** || **Filter WTD** | **Filter LTD** || **Move WTD**  | **Move LTD** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| Phase 0  |||||||||||||||
+| Phase 0  | - | N/A || - | 175 || - | 134 || - | 182 || - | 51 |
 | 11/13/23 |||||||||||||||
 | 11/20/23 |||||||||||||||
 | 11/27/23 |||||||||||||||
