@@ -30,11 +30,15 @@ jobs:
           --fail)
           echo "${response}" > response.json
 
+      - name: set number
+        id: set-number
+        run: |
+          echo NUMOUT=$(cat response.json | jq -r '.number') >> $GITHUB_OUTPUT
+
       - name: Close ticket
         run: |
-          number=$(cat response.json | jq -r '.number')
           curl --request PATCH \
-          --url https://api.github.com/repos/${{ github.repository }}/issues/$number \
+          --url https://api.github.com/repos/${{ github.repository }}/issues/${{ steps.set-number.outputs.NUMOUT }} \
           --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
           --header 'content-type: application/json' \
           --data '{
