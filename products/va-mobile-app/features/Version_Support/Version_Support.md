@@ -21,7 +21,7 @@ Veteran-facing:
 
 Internal:
 * Lack of clarity and communication around our OS version support has led us to test across a wider spectrum of OSes than we potentially want to support, with the pros/cons listed in the problem statement above.
-* Similarly, lack of clarity and communication means we also are *not* testing on OS versions that veterans do use.
+* Similarly, lack of clarity and communication means we also are *not* testing on OS versions that veterans do use ([App team devices list, currently in Google Doc](https://docs.google.com/spreadsheets/d/152XBxp-PfsJCyuzLCHy7WPwgnQiOdVkPjpgpEWZ96bE/edit#gid=945617554)).
 * Looking forward, that I know of (Engineers, pipe up?), we don't have a mechanism enforcing our OS version support, so veterans on unsupported-VA-mobile OS versions can continue to use the app in an untested OS unless we put guardrails in place.
 
 ### Desired Outcomes ###
