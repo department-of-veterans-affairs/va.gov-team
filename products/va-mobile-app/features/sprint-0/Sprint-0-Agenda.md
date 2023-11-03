@@ -60,6 +60,9 @@ The Sprint 0 meeting is a time to do the following:
 ## Working session notes
 
 ## 11/2/12
+* [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese)
+
+## 11/2/12
 * [QA for analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/QA%20for%20analytics/Sprint%200%3A%20QA%20for%20analytics.md)  (Greta/Therese)
 
 ## 10/19/23
