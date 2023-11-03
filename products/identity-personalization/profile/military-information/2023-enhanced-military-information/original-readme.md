@@ -49,8 +49,6 @@ To start we should focus on **read only** access to those data elements and to I
 
 ## Background Details 
 
-<details>
-     <summary>Expand this section for additional context and details that we've uncovered as we've progressed through the project</summary>
 
 ### Legislative mandates
 
@@ -111,7 +109,7 @@ Making the DD214 available online has been proposed and rejected due to the poin
 
 We should use the DD214 and ILER as starting points for this project, but we should not fixate on them. Our current understanding is veterans are using data in these documents to help them in applying for benefits (claims). VEO in conjunction with OGC have highlighted 8 key data elements from the military record that we should expose. As part of this project, we will focus on how to organize those data elements in a way that makes the data most useful to veterans with special attention to how the data can be used when applying for benefits. It will be critical to consider any data elements that may be missing. 
 
-</details>
+
 
 ### Where do we start?  
 Expansion of the military information available on VA.gov will focus on the categories below:
