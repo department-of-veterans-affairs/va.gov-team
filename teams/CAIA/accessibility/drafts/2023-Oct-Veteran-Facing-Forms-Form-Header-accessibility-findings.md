@@ -189,13 +189,13 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 ## Next Steps: A11Y Recommendations/Considerations
 A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
 
- **Timing for Recommendations/Considerations** | **Count**|
-|------------------------|------------------|
-| Complete Now | 2 | 
-| Complete Soon | 2 | 
-| Complete Later | 2 | 
-| Future Items to Consider | 4 | 
-| **Total** | **10** | 
+ **Timing for Recommendations/Considerations** | **Count**|**Impact Areas**|
+|------------------------|------------------|------------------|
+| Complete Now | 2 | `IA`
+| Complete Soon | 2 | `A11y`
+| Complete Later | 2 | `A11y`
+| Future Items to Consider | 4 | `A11y`
+| **Total** | **10** | `A11y (8)` `IA(2)`
 
 <details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
 <br>
@@ -229,7 +229,7 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - Desired Outcome: Consider testing "section" or "part" for clarity. Consider using percentages as well.
 - Experience standard:`Category 05` - The content is written in plain language and doesn't contain excess words or modifiers.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
 - Defect:`Depends`
-- Impact Area: A11y
+- Impact Area: `A11y`
 - Appears on: Content style guide 05 
 - WCAG: 3.1
 - 
@@ -238,9 +238,10 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - Desired Outcome:  Consider going back to the two-button pattern.
 - Experience standard:`Category 01 - Overall User Experience` - Design component or pattern in use is considered a best practice.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
 - Defect: `Not Blocking`
-- Impact Area: A11y
+- Impact Area: `A11y`
 - Appears on: Content style guide 05 - The content is written in plain language and doesn't contain excess words or modifiers.
 - WCAG: Can fall under 3.2.3 Consistent Navigation Level AA
+
 ### Complete Later
 #### Finding 1: Stepper confusion & stage in the process
 - **Issue Description:** UI components do not initiate a change of context when they receive user input. The form screen changes, but the users sees they are on step 2 of 4, regardless.
