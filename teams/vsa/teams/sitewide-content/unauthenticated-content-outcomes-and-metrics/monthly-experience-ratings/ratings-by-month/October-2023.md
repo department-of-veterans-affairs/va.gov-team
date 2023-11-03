@@ -31,7 +31,12 @@ All pages have ratings of 2 or below.
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 
-1. 
+1. [How to report the death of a Veteran to VA](www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va/) (100% "good" out of 33 total responses)
+2. [Will I have to pay back the GI Bill benefits I used if I fail a class](www.va.gov/resources/will-i-have-to-pay-back-the-gi-bill-benefits-i-used-if-i-fail-a-class/) (100% good out of 16 total responses
+3. [What does burial in a VA national cemetery include](www.va.gov/resources/what-does-burial-in-a-va-national-cemetery-include/) (98% good out of 50 total responses
+4. [Comissary and exchange privileges for Veterans](www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (93% good out of 195 total responses)
+5. [Montgomery GI Bill funds](www.va.gov/resources/montgomery-gi-bill-refunds/) (93% good out of 14 total responses)
+   
 ### 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
 
 1. 
