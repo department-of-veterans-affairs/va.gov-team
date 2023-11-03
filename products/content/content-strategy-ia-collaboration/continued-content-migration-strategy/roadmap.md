@@ -65,7 +65,7 @@ Working to migrate these top 1,000 pages as well as planning for other pages wit
 - benefits.va.gov/compensation/types-compensation.asp
 - benefits.va.gov/insurance/choose.asp
 - benefits.va.gov/benefits/banking.asp
-- ~benefits.va.gov/gibill/comparison_chart.asp~ DONE
+~benefits.va.gov/gibill/comparison_chart.asp~ DONE
 - benefits.va.gov/gibill/docs/wavechart.asp
 - benefits.va.gov/compensation/mailingaddresses.asp
 
