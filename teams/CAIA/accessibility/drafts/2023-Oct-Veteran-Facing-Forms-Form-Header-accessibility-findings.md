@@ -50,7 +50,7 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 <details><summary>Toggle to read accessibility-related key findings</summary>
 
 ### Overview
- **Finding** | **Detail** | **Timing of Next Steps** |
+ **Finding or Pain Point** | **Detail** | **Timing of Next Steps** |
 |------------------------|------------------|--------------------|
 | Finding 1 | Stepper confusion & stage in the process | Complete Later|    
 | Finding 2 | Form title and number helpful, when the user found it | Complete Later|    
@@ -58,7 +58,12 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 | Finding 4 | Users expected to be able to save their progress upon exiting the form. | Complete Now|    
 | Finding 5 | Users wanted to know if the form was being saved or not. | Complete Now|    
 | Finding 6 | Some users ignored the "Exit" link completely. | **Not Listed**|    
-| Finding 7 | The date of birth and social security number fields were challenging for some users. | Future Item to Consider|    
+| Finding 7 | The date of birth and social security number fields were challenging for some users. | Future Item to Consider| 
+| Pain Point 1 | Lack of Consistency Between Sites | xxx|  
+| Pain Point 2 | Completion Time Not Inclusive | xxx|  
+| Pain Point 3 | Tabbing with Screen Readers; Users Miss Valuable Content | xxx|  
+| Pain Point 4 | Two-Factor Authentication Interactions for AT Users | xxx|  
+
 
 ### Finding 1: Stepper confusion & stage in the process
 - **Users are confused as to where they are in the process, when they are still on the same [step #] of [#steps].**
