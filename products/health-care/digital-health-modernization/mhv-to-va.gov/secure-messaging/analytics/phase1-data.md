@@ -27,3 +27,28 @@ _WTD = Week to Date, LTD = Launch to Date_
 | 11/27/23 ||||
 | 12/04/23 ||||
 | 12/11/23 ||||
+
+## **Performance Metrics**
+_WTD = Week to Date, LTD = Launch to Date_
+
+**Dropoff/Page Exits LTD**
+
+| **Date** | **Messages** | **Inbox** | **Interstitial** | **New Message** | **Thread** | **Reply** |
+| --- | --- | --- | --- | --- | --- | --- | 
+| Phase 0  ||||||||||||
+| 11/13/23 ||||||||||||
+| 11/20/23 ||||||||||||
+| 11/27/23 ||||||||||||
+| 12/04/23 ||||||||||||
+| 12/11/23 ||||||||||||
+
+**Conversion Events**
+
+| **Date** | **Send WTD** | **Send LTD** || **Print WTD** | **Print LTD** || **Sort WTD** | **Sort LTD** || **Filter WTD** | **Filter LTD** || **Move WTD**  | **Move LTD** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| Phase 0  |||||||||||||||
+| 11/13/23 |||||||||||||||
+| 11/20/23 |||||||||||||||
+| 11/27/23 |||||||||||||||
+| 12/04/23 |||||||||||||||
+| 12/11/23 |||||||||||||||
