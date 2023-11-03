@@ -15,7 +15,7 @@ jobs:
             --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
             --header 'content-type: application/json')
           echo "${response}" > ccTicket.json
-      
+
       - name: Create completed ticket
         id: create-completed-ticket
         run: |
@@ -30,7 +30,7 @@ jobs:
           --fail)
           echo "${response}" > response.json
 
-        - name: Close ticket
+      - name: Close ticket
         run: |
           number=$(cat response.json | jq -r '.number')
           curl --request PATCH \
