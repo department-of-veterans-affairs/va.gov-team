@@ -45,7 +45,7 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 
 ## Key Findings & User Feedback (A11Y Segment)
 
-**Veterans' Voices:** Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the `##` quotes that were selected for inclusion, in this report.
+**Veterans' Voices:** Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the quotes that were selected for inclusion, in this report.
 
 <details><summary>Toggle to read accessibility-related key findings</summary>
 
@@ -176,22 +176,6 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 
 <details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
 <br>
-
-<hr>
-
-`These need added to the below section.`
-
-- [x] `Added to Complete Later` ~To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.~
-- [x] `Needs Added Below` "Chapter" was confusing. Consider testing "section" or "part" for clarity. Consider using percentages as well.
-- [x] `Needs Added Below`Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
-- [x] `Added to Complete Now`Many users assumed that their data would be saved unless we informed them otherwise. For unauthenticated users, make sure it's clear that the data isn't being saved. An alert upon exit, alert box on the unauth intro page, or similar.
-- [x] `Added to Complete Now`We didn't get to see the authenticated experience, but users expected a "Save" button or a "Save and continue" button below the form fields. We recommend using a pattern like that.
-
-`These need added to the below section.`
-
-**Recommendations for the DST:**
-- [x] `Added to Complete Later`The date field is really hard for AT users to get through. This field needs to be revised so that the input types are consistent. Would need testing, but I’m guessing that a single input field would be easiest.
-- [x] `Added to Complete Later` For the social security field: ~~perhaps we can improve on the validation? Is there a way that the user could enter their SSN and have it submit, even if the dash groupings are incorrect (instead of XXX-XX-XXXX, they type XXX-XXX-XXX)?~~ (I just tried it on my own and it worked. This must be an edge case, I can't duplicate it.) Would having 3 input fields (1 per grouping) be more usable? One user suggested it would be, but would need to test. 
 
 <hr>
 
