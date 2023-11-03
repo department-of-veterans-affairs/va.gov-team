@@ -34,7 +34,7 @@ jobs:
         run: |
           number=$(cat response.json | jq -r '.number')
           curl --request PATCH \
-          --url https://api.github.com/repos/${{ github.repository }}/issues/${{number}} \
+          --url https://api.github.com/repos/${{ github.repository }}/issues/$number \
           --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
           --header 'content-type: application/json' \
           --data '{
