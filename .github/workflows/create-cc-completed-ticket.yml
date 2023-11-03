@@ -38,7 +38,7 @@ jobs:
 
       - name: Close ticket
         run: |
-          curl --request PATCH \
+          response=$(curl --request PATCH \
           --url https://api.github.com/repos/${{ github.repository }}/issues/69077 \
           --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
           --header 'content-type: application/json' \
@@ -46,4 +46,10 @@ jobs:
           --data '{
             "state": "closed",
             }' \
-          --fail
+          --fail)
+          echo "${response}" > closeResponse.json
+
+      - name: debug
+        run: |
+          logdata=$(cat closeResponse.json)
+          echo "Resp: $logdata"
