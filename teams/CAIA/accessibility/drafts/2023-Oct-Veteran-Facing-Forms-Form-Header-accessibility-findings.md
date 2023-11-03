@@ -55,12 +55,12 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 | Finding 3 | "Back" link wasn't easy to find; the "Continue" button worked well | Complete Soon|    
 | Finding 4 | Users expected to be able to save their progress upon exiting the form. | Complete Now|    
 | Finding 5 | Users wanted to know if the form was being saved or not. | Complete Now|    
-| Finding 6 | Some users ignored the "Exit" link completely. | **Not Listed**|    
-| Finding 7 | The date of birth and social security number fields were challenging for some users. | Future Item to Consider| 
+| Finding 6 | Some users ignored the "Exit" link completely. | Future Item|    
+| Finding 7 | The date of birth and social security number fields were challenging for some users. | Future Item | 
 | Pain Point 1 | Lack of Consistency Between Sites | Complete Soon|  
-| Pain Point 2 | Completion Time Not Inclusive | **Not Listed**|  
+| Pain Point 2 | Completion Time Not Inclusive | Future Item |  
 | Pain Point 3 | Tabbing with Screen Readers; Users Miss Valuable Content | Complete Later|  
-| Pain Point 4 | Two-Factor Authentication Interactions for AT Users | Not Listed|  
+| Pain Point 4 | Two-Factor Authentication Interactions for AT Users | Future Item|  
 
 <details><summary>Toggle to read accessibility-related key findings</summary>
 
@@ -189,18 +189,16 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 ## Next Steps: A11Y Recommendations/Considerations
 A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
 
-<details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
-<br>
-
  **Timing for Recommendations/Considerations** | **Count**|
 |------------------------|------------------|
 | Complete Now | 2 | 
 | Complete Soon | 2 | 
 | Complete Later | 2 | 
-| Future Items to Consider | 2 | 
-| **Total** | **8** | 
+| Future Items to Consider | 4 | 
+| **Total** | **10** | 
 
-
+<details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
+<br>
 
 <hr>
 
@@ -277,4 +275,16 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - **Defect:** `Not Blocking`
 - **Impact Area:** `A11y`
 
-</details>
+#### Completion Time Not Inclusive
+-  **On intro page, time to completion is for able, sighted users, and doesn’t given an approximation for AT users.**
+- **Desired Outcome:**  Please put this on your radar.
+- **Defect:** `Not Blocking`
+- **Impact Area:** `A11y`
+
+#### Two-Factor Authentication Interactions for AT Users
+- **2FA adds a lot of interactions that an AT users has to go through.**
+    - **It can be difficult for them. And the authentication process is cumbersome for Vets who don’t have the required IDs.**
+- **Desired Outcome:**  Please put this on your radar.
+- **Defect:** `Not Blocking`
+- **Impact Area:** `A11y`
+      </details>
