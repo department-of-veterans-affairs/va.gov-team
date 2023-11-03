@@ -1,4 +1,4 @@
-## Pilot Paticipant
+## Pilot Participant
 # Conversation Guide for Health Questionnaires, Clinical Reminders Pilot, October 2023 
 
   
