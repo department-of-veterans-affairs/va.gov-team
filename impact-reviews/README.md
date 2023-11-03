@@ -12,7 +12,7 @@ If you're interested in presenting reach out to Anastasia Jakabcin via DM in the
 
 |    Team      | Presenter | Initiative | Launch Date | Impact Review Date|
 |----|----|----|----|----|
-| Benefits Team 1 - Squad 2 | Sade Ragsdale | Supplemental Claims - A means of appealling a disability claims decision by requesting VA review new and relevant evidence| April 28, 2023 | December 7, 2023 |
+| Benefits Team 1 - Squad 2 (Decision Reviews & CST) | Sade Ragsdale | Supplemental Claims - A means of appealling a disability claims decision by requesting VA review new and relevant evidence| April 28, 2023 | December 7, 2023 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | December 7, 2023 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | January 11, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | January 11, 2024 |
