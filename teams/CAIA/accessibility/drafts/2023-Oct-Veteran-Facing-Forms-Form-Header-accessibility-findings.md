@@ -193,6 +193,16 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 <details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
 <br>
 
+ **Timing for Recommendations/Considerations** | **Count**|
+|------------------------|------------------|
+| Complete Now | 2 | 
+| Complete Soon | 2 | 
+| Complete Later | 2 | 
+| Future Items to Consider | 2 | 
+| **Total** | **8** | 
+
+
+
 <hr>
 
 ### Complete Now
