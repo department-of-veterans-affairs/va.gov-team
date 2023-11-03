@@ -1,9 +1,0 @@
-# Research checklist
-This checklist will guide you through all the tasks associated with conducting research on VFS products
-
-## Planning for research
-*3-4 weeks before research begins
-
-### Planning your study 
-- [ ] **Prepare your prototype or mock-up** Have the thing you're testing ready! The Collaboration Cycle[https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/] should conduct a Midpoint Review a week (minimum) before you start your research. They make sure it meets VA.gov quality standatds before putting it in front of Veterans.
-- [ ] **Make your research inclusive and accessible** Consider ways to make your research more inclusive and accesible. Some ideas are to set inclusitivy requests for recruitment, like using the MVS sampling method[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#maximum-variation-sampling]; include mobile or have a separate stude for mobile usibility testing; and even if you won't have a coded version, there are still assistive technology users you can recruit to test your design. Learn more about conducting research with assistive technology users[https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users]
