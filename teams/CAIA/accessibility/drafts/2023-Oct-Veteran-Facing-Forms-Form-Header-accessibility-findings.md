@@ -56,11 +56,9 @@ _While CAIA cannot require you to complete any updates to your product, we can p
 
 _**Be sure to toggle and reveal the details in the sections below.**_
 
-## Key Findings & User Feedback (A11Y Segment)
+## Overview of Key Findings & User Feedback (A11Y Segment)
 
-**Veterans' Voices:** Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the quotes that were selected for inclusion, in this report.
-
-### Overview
+### Summary: Findings
  **Finding or Pain Point** | **Detail** | **Timing of Next Steps** |
 |------------------------|------------------|--------------------|
 | Finding 1 | Stepper confusion & stage in the process | Complete Later|    
@@ -74,6 +72,9 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 | Pain Point 2 | Completion Time Not Inclusive | Future Item |  
 | Pain Point 3 | Tabbing with Screen Readers; Users Miss Valuable Content | Complete Later|  
 | Pain Point 4 | Two-Factor Authentication Interactions for AT Users | Future Item|  
+
+### Detailed Key Findings (A11Y Segment)
+**Veterans' Voices:** Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the quotes that were selected for inclusion, in this report.
 
 <details><summary>Toggle to read accessibility-related key findings</summary>
 
@@ -199,9 +200,9 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 
 </details>
 
-## Next Steps: A11Y Recommendations/Considerations
-A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
+## Overview of Next Steps: A11Y Recommendations/Considerations
 
+### Summary: Timing
  **Timing for Recommendations/Considerations** | **Count**|**Impact Areas**|
 |------------------------|------------------|------------------|
 | Complete Now | 3 | `A11y` `IA` `Content` `Design`
@@ -209,6 +210,9 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 | Complete Later | 2 | `A11y`
 | Future Items to Consider | 4 | `A11y`
 | **Total** | **10** | `A11y (8)` `IA(3)` `Content(4)` `Design(1)`
+
+### Detailed Next Steps (A11Y Segment)
+A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
 
 <details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
 <br>
