@@ -8,38 +8,38 @@ jobs:
     name: Create Completed Ticket
     runs-on: ubuntu-latest
     steps:
-      - name: get ticket
-        id: get-ticket
-        run: |
-          response=$(curl -s https://api.github.com/repos/${{ github.repository }}/issues/65064 \
-            --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-            --header 'content-type: application/json')
-          echo "${response}" > ccTicket.json
+      # - name: get ticket
+      #   id: get-ticket
+      #   run: |
+      #     response=$(curl -s https://api.github.com/repos/${{ github.repository }}/issues/65064 \
+      #       --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+      #       --header 'content-type: application/json')
+      #     echo "${response}" > ccTicket.json
 
-      - name: Create completed ticket
-        id: create-completed-ticket
-        run: |
-          response=$(curl --request POST \
-          --url https://api.github.com/repos/${{ github.repository }}/issues \
-          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-          --header 'content-type: application/json' \
-          --header "X-GitHub-Api-Version: 2022-11-28" \
-          --data '{
-            "title": "This is a test",
-            "body": "This is a test."
-            }' \
-          --fail)
-          echo "${response}" > response.json
+      # - name: Create completed ticket
+      #   id: create-completed-ticket
+      #   run: |
+      #     response=$(curl --request POST \
+      #     --url https://api.github.com/repos/${{ github.repository }}/issues \
+      #     --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+      #     --header 'content-type: application/json' \
+      #     --header "X-GitHub-Api-Version: 2022-11-28" \
+      #     --data '{
+      #       "title": "This is a test",
+      #       "body": "This is a test."
+      #       }' \
+      #     --fail)
+      #     echo "${response}" > response.json
 
-      - name: set number
-        id: set-number
-        run: |
-          echo NUMOUT=$(cat response.json | jq -r '.number') >> $GITHUB_OUTPUT
+      # - name: set number
+      #   id: set-number
+      #   run: |
+      #     echo NUMOUT=$(cat response.json | jq -r '.number') >> $GITHUB_OUTPUT
 
       - name: Close ticket
         run: |
           curl --request PATCH \
-          --url https://api.github.com/repos/${{ github.repository }}/issues/${{ steps.set-number.outputs.NUMOUT }} \
+          --url https://api.github.com/repos/${{ github.repository }}/issues/69077 \
           --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
           --header 'content-type: application/json' \
           --header "X-GitHub-Api-Version: 2022-11-28" \
