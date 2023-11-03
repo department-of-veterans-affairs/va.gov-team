@@ -90,6 +90,7 @@ Before we look at the website, let’s start with a few warm-up questions.
    - [Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
    - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
 - Let's pretend that you got a notification from the VA of a sign-in to your account, and that you don't recognize it, or you don't think it was you signing in.
+    - How would you expect to recieve a notification like this? [email, text, multiple ways?]
     - Would you do anything with this information?
        - If you wouldn't take any action based on this notification, what might you expct to happen?
     - If you decided to take action, what would you do? [prompt] Would you go to VA.gov to sign into to your acount?
