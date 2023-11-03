@@ -7,6 +7,23 @@
 
 ## Table of Contents 
 
+## Communications
+
+- **Github labels**: authenticated-experience, military-info
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+
+## Roles
+
+### OCTO team
+
+[This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+
+#### Partners
+
+|Name|Role|
+|----|----|
+| Melissa Rebstock |Branch Chief, Digital Experience/VEO|
+| Trish Dang |Deputy Director within VBA/VACO| 
 
 ## Overview
 
