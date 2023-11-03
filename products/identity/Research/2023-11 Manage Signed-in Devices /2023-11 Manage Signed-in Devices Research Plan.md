@@ -83,11 +83,12 @@ All participants:
 Our primary diversity and inclusion criteria:
 - 6 mobile users (none of these can be screen reader users)
 - 2 cognitive disabilities
-- 
+
 
 ### Screener Questions
 
-- These are noted in each recruitment request ticket per cohort
+- Do you often have trouble remembering things, learning new things, concentrating, or making decisions? [YES, NO] Note: We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+- We're looking for at least 2 "YES" for this study
 
 ## Timeline
 
@@ -96,9 +97,6 @@ Our primary diversity and inclusion criteria:
 - Pilot participant email:
 - Date and time of pilot session:
 
-Screen reader practice session:
-- Accessibility specialist email:
-- Date and time of SR practice session: 
 
 ### Length of sessions
 - Session length: **60-minute** sessions 
@@ -107,7 +105,7 @@ Screen reader practice session:
 
   
 ### Availability
-to be finalized
+November 13 - 21, 2023
 
 Team Availability | Time (EST)
 ------------------|--------------
@@ -119,7 +117,7 @@ Fri | 9am - Noon, 1 - 5 pm
 
 Pilot Session | Time (EST)
 --------------|----------
-
+tbd | tbd
 	
 ## Team Roles	
 - Moderators: Clayton Zook, Charlye Tran
