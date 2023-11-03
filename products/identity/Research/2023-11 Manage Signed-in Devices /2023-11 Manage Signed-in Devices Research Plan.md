@@ -1,6 +1,8 @@
-# Research Plan for Identity, Manage Devices, 2023-9
+# Research Plan for Identity, Manage Signed-in Devices, 2011-11
 
 ## Background
+This research will test an MVP of a "sign out of all devices" button, as well as projected future state that will include information about each device signed in and controls to sign out of each single device.
+
 Currently, users are signed out after 30 minutes of inactivity on the VA.gov website on the desktop browser, which use SSOe as a sign in mediator. When using the VA mobile app, which uses SiS as the mediator, a user's session is maintained for 45 days. With the current setup, the risks associated with being signed into multiple devices is minimal. However, once SiS is pushed to production on VA.gov, a user's session on the desktop will also be maintained for 45 days. While this increase the user experience, it also increasing security concerns, especially around if a user signs in using a shared device or a bad actor is able to gain access to the account. Adding a sign out of devices buttons allows the user to better control their account.
 
 [product info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/30ab41e6c605715935e19f185ba3d6530dc55b81/products/identity/Product%20Briefs/Sign%20in%20Service.md)
