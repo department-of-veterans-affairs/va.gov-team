@@ -15,8 +15,7 @@ jobs:
             --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
             --header 'content-type: application/json')
           echo "${response}" > response.json
-          jq '.number' < response.json
 
       - name: display response
         run: |
-          cat response.json
+          cat response.json | jq -r '.number'
