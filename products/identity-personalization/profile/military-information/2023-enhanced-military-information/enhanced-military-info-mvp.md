@@ -52,6 +52,11 @@ The online version of this form is being refreshed to match the paper version wh
 
 ### Before
 
+<details>
+  <summary>Before Image</summary>
+  
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/profile-military-information-sept-2023.png" width="375" alt="screenshot of profile military information section" />
+
+</details>
 
 ### After
