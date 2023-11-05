@@ -46,6 +46,6 @@ jobs:
           --data '{
             "state": "closed"
             }' \
-          --fail)
+          --fail
         
 
