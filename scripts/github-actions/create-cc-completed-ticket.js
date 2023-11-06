@@ -85,7 +85,7 @@ async function getSprintId() {
         workspaceId: GOV_TEAM_BOARD_ID
       }
     });
-    console.log('----->', resp);
+    console.log('----->', resp.data.errors);
     // const sprints = data.data.workspace.sprints.nodes;
     // const id = findSprint(sprints);
     // return id;
