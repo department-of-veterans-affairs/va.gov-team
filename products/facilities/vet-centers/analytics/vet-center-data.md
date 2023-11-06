@@ -18,9 +18,9 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456
 
 | Metric | Baseline measured 9.19.23 | November 2023 | December 2023 | 1Q 2024 | 2Q 2024|
 |---|---|---|---|---|---|
-| Total # of editors | 497 |---|---|---|---|
-| % which have never logged in | 11% (54) |---|---|---|---|
-| % which logged in during the 30 days prior | 16% (78) |---|---|---|---|
+| Total # of editors | 497 |582|---|---|---|
+| % which have never logged in | 11% (54) |9% |---|---|---|
+| % which logged in during the 30 days prior | 16% (78) | 40% |---|---|---|
 
 ## Roll-out phase
 
