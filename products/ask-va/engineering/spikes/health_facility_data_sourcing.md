@@ -34,8 +34,7 @@ The recommendation would be to use the Lighthouse API for HealthCare facilities.
 Any health facilities that we allow for selection in the form that are not currently used by the CRM team, will get defaulted to the 101 VHACO facility id.  
 
 For the NCHCS use case, we can either:
-  * Replace the 14 medical centers that belong to NCHCS from the pick list on the form and only show NCHCS
-  * Show the 14 medical centers and remove NCHCS as an option.
-    *  In order to avoid any impact to the routing rules on the back end, our form would convert the facility id's returned by selecting one of these 14 facilities to the current NCHCS facility id of "612"  
+  1. Replace the 14 medical centers that belong to NCHCS from the pick list on the form and only show NCHCS
+  2. Show the 14 medical centers and remove NCHCS as an option.  **Note:**  In order to avoid any impact to the routing rules on the back end, our form would convert the facility id's returned by selecting one of these 14 facilities to the current NCHCS facility id of "612"
 
-For NCHCS, we would use the facilities that CRM Team uses today.  
+For the NCHCS use case, my recommendation is option 1. 
