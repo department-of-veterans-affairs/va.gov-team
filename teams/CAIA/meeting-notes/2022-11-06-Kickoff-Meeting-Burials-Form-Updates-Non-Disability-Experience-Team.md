@@ -139,7 +139,7 @@ Fixing the 530 form is a high-priority for OCTO and the VBA.
     - There was some talk around how much these pages get into eligibility, how much info do they want to provide on eligibility to include on static pages.
     - This form is never being deactivated so these entry points will be up permanently
 - **Accessibility**
-  - Notes
+  - Requires review of Sketch files - Terry Will create a ticket
 
 **Timeline**
 Pension painpoint is more accute, Laura Steele confirmed with Emily this should be priority
