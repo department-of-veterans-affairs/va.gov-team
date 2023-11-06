@@ -115,8 +115,6 @@ We also assumed the following:
 
 [NOTE TO SELF: ADD LABELS]
 
-_To add images:_ `![text](link - add image to github folder and link here with .png)`
-
 **Finding 1**
 
 Labels: label 1, label 2 
@@ -234,7 +232,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 P4 didn’t use the authenticated menu to complete any tasks, but upon being directed to interact with it to look for dependents, he shared his impression that some of the links were redundant. When he opened the authenticated menu, it opens right over the navigation links for My VA and My HealtheVet. He moused over the My HealtheVet authentication link and then the My HealtheVet navigation bar, then did the same for My VA:
 
-[NOTE TO SELF: ADD GIF]
+![links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/session-notes/repetitive-auth-nav-links.gif)
 
 > And then seeing like, we're clicking on here [the authenticated menu], it's kind of, those are right there, but the VA and health are both right here and here … [it’s] kind of redundant because it's literally right there. Almost like extra steps for no reason. (P4)
 
@@ -242,7 +240,7 @@ P4 didn’t use the authenticated menu to complete any tasks, but upon being dir
 
 When navigating away from the profile hub to the records page, P2 recommended that the "`home` in the breadcrumbs be changed from the VA.gov homepage to My VA. 
 
-[NOTE TO SELF: ADD GIF]
+![breadcrumbs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/session-notes/breadcrumb-link-suggestion.gif)
 
 > Now if I were to make a suggestion, I guess this is appropriate time to do it. I'd argue that like my first inclination is that my home would take me back to My VA, but that's probably not right. Right. It's probably the home where it put me originally – this stuff [the VA.gov home page]. Right. 'cause it's the VA homepage. So if anything, I'd maybe say like an addition that could be adding an extra breadcrumb section, just saying My VA in that section there or whatever. Because that could make it seem more obvious for so for folk to even pay attention to that. Some don't even do that. (P2)
 
