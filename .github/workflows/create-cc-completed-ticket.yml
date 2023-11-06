@@ -3,9 +3,6 @@ name: Create Completed Ticket for Colaboration Cycle Touchpoint
 on:
   pull_request:
 
-env:
-  ZENHUB_API_KEY: ${{ secrets.ZENHUB_API_KEY }}
-
 jobs:
   ticket-creation:
     name: Create Completed Ticket
@@ -16,16 +13,6 @@ jobs:
     #   ISSUE_NUMBER: ${{ github.event.issue.number }}
     #   EVENT_LABEL: ${{ github.event.label.name }}
     steps:
-      # - name: Get va.gov-team Repository ID
-      #   run: |
-      #     ZENHUB_API_KEY="${{ secrets.ZENHUB_API_KEY }}"
-      #     QUERY='{
-      #       "query": "query { viewer { id searchWorkspaces(query: \"Platform Governance Team\") { nodes { id name repositoriesConnection { nodes { id name } } } } } }"
-      #     }'
-
-      #     RESPONSE=$(curl -s -X POST "https://api.zenhub.com/public/graphql" -H "Authorization: Bearer ${{ secrets.ZENHUB_API_KEY }}" -d "$QUERY")
-
-      #     echo "ZenHub API Response: $RESPONSE"
 
       - name: Checkout
         uses: actions/checkout@v3
@@ -41,6 +28,3 @@ jobs:
 
       - name: Run  script
         run: node ./scripts/github-actions/create-cc-completed-ticket.js
-
-
-      

@@ -3,7 +3,8 @@ const axios = require('axios');
 const {
   GITHUB_TOKEN,
   GITHUB_REPOSITORY,
-  ZENHUB_API_KEY
+  ZENHUB_API_KEY,
+  ISSUE_NUMBER
 } = process.env;
 
 const GOV_TEAM_BOARD_ID = '5f85b91c14d8df0018fac414';
@@ -46,6 +47,31 @@ async function getVaGovTeamRepoId() {
   }
 }
 
+async function createIssue(title, repoId) {
+  const query = `mutation createIssue {
+    createIssue(input: {
+        title: "${title}",
+        repositoryId: "${repoId}",
+        labels: ["governance-team"],
+        assignees: ["it-harrison"]
+    }) {
+        issue {
+            id
+            title
+        }
+    }
+  }`
+  try {
+    const {data} = await axiosInstance.post('', {
+      query,
+    });
+    return data.data.createIssue.issue.id;
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
+}
+
 function isWithinSprint(start, end) {
   const today = (new Date(Date.now())).setHours(0,0,0,0);
   const _start = new Date(start);
@@ -70,8 +96,8 @@ function findSprint(sprints) {
 }
 
 async function getSprintId() {
-  const query = `query {
-    workspace(id: "${GOV_TEAM_BOARD_ID}") {
+  const query = `query GetSprints($workspaceId: ID!) {
+    workspace(id: $workspaceId) {
       sprints (first: 100) {
         nodes {
           id
@@ -79,24 +105,211 @@ async function getSprintId() {
         }
     }
   }}`
-  console.log(query);
   try {
-    const { data }  = await axiosInstance.post('', {
-      query
+    const { data } = await axiosInstance.post('', {
+      query,
+      variables: {
+        workspaceId: GOV_TEAM_BOARD_ID
+      }
     });
     const sprints = data.data.workspace.sprints.nodes;
     const id = findSprint(sprints);
     return id;
   } catch (error) {
     console.log(error);
+    process.exit(1);
+  }
+}
+
+async function addIssueToCurrentSprint(id) {
+  const query = `mutation AddIssuesToSprints($input: AddIssuesToSprintsInput!) {
+    addIssuesToSprints(input: $input) {
+        clientMutationId
+    }
+  }`;
+  try {
+    const sprintId = await getSprintId();
+    await axiosInstance.post('', {
+      query,
+      variables: {
+        input: {
+          issueIds: [id],
+          sprintIds: [sprintId]
+        }
+      }
+    })
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
+}
+
+async function getPipelineId(pipeline) {
+  const query = `query GetPipelinesWorkspace($workspaceId: ID!) {
+       workspace(id: $workspaceId) {
+         pipelines {
+     			name
+           id
+        }
+     }}`
+  try {
+    const { data } = await axiosInstance.post('', {
+      query,
+      variables: {
+        workspaceId: GOV_TEAM_BOARD_ID
+      }
+    });
+    const [{ id }] = data.data.workspace.pipelines.filter(_pipeline => _pipeline.name === pipeline);
+    return id;
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
+}
+
+async function getIssueId(pipelineId, issueTitle) {
+  const query = `query {
+    searchIssuesByPipeline(
+        pipelineId: "${pipelineId}",
+        query: "${issueTitle}"
+        filters: {}
+    ) {
+      nodes {
+          id
+          number
+          title
+      }
+    }
+    }
+  `
+  try {
+    const { data } = await axiosInstance.post('', {
+      query,
+    });
+    const [{ id }] = data.data.searchIssuesByPipeline.nodes
+    return id;
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
+}
+
+async function getEpicId(epicTitle) {
+  const query = `query epicsFromWorkspace($workspaceId: ID!, $epicTitle: String!) {
+    workspace(id: $workspaceId) {
+      epics (first: 1, query: $epicTitle) {
+        nodes {
+          id
+          issue {
+            title
+            number
+          }
+        }
+      }
+    }
+  }`
+  try {
+    const { data } = await axiosInstance.post('', {
+      query,
+      variables: {
+        workspaceId: GOV_TEAM_BOARD_ID,
+        epicTitle
+      }
+    });
+    const [{ id }] = data.data.workspace.epics.nodes;
+    return id;
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
+}
+
+async function addIssueToEpic(issueId, epicId, ccEpicId) {
+  const query = `mutation AddIssuesToEpics($input: AddIssuesToEpicsInput!) {
+    addIssuesToEpics(input: $input) {
+        clientMutationId
+    }
+  }`;
+  try {
+    await axiosInstance.post('', {
+      query,
+      variables: {
+        input: {
+          issueIds: [issueId],
+          epicIds: [epicId, ccEpicId]
+        }
+      }
+    });
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
+}
+
+async function setEstimate(issueId, value) {
+  const query = `mutation SetEstimate($input: SetEstimateInput!) {
+    setEstimate(input: $input) {
+        clientMutationId
+    }
+  }`;
+
+  try {
+    await axiosInstance.post('', {
+      query,
+      variables: {
+        input: {
+          issueId,
+          value
+        }
+      }
+    })
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
+}
+
+async function moveIssue(issueId, pipelineId) {
+  const query = `mutation MoveIssue($input: MoveIssueInput!) {
+    moveIssue(input: $input) {
+        clientMutationId
+    }
+  }`;
+  try {
+    axiosInstance.post('', {
+      query,
+      variables: {
+        input: {
+          pipelineId,
+          issueId
+        }
+      }
+    })
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
   }
 }
 
 async function main() {
+  let title = await getTitleInfo(67119);
+  title = `TEST: ${title}`;
+  //create issue
   const repoId = await getVaGovTeamRepoId();
-  const sprintId = await getSprintId();
-  console.log('repoId', repoId);
-  console.log('sprintId', sprintId);
+  const newTicketId = await createIssue(title, repoId);
+
+  //get id of epics
+  const epicId = await getEpicId('Collaboration Cycle for [10-10 Health Apps, 10-10EZ, Registration Only]')
+  const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
+  
+  //update ticket
+  await addIssueToEpic(newTicketId, epicId, ccEpicId);
+  await setEstimate(newTicketId, 3);
+  await addIssueToCurrentSprint(newTicketId);
+
+  //move to closed pipeline
+  const closedId = await getPipelineId('Review/QA');
+  await moveIssue(newTicketId, closedId);
 }
 
 main();
