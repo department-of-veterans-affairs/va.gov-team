@@ -24,11 +24,11 @@
 
 
 ## Resources 🔗
-- **[09/08/2023 Opened Collab Cycle Ticket**
+- **09/08/2023 Opened Collab Cycle Ticket**
 - [ ] [Collaboration Cycle Ticket 65251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65251)
     - [x] Design Intent ticket - done
-    - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
-    - [ ] Staging Review (TBD - as of Kickoff Meeting)
+    - [ ] Midpoint Review (TBD - as of Kickoff Meeting) **- support requested for content, IA and a11y**
+    - [ ] Staging Review (TBD - as of Kickoff Meeting) **- support requested for content, IA and a11y**
 
 ## CAIA Tickets 🎟️
 - [x] [Epic/Intake #68984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68984)
