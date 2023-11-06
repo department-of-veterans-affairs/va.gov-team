@@ -76,9 +76,13 @@ o	View the Rate Your Experience feedback mechanism.
 o	Select feedback options and explain.
 
 Can you walk us through how you are actually using the feedback mechanism and your daily experience? [Probe: Would you say that the process resulted in a positive, negative, or neutral experience? Can you elaborate?] 
- 
+
 
 Where would you go to give feedback on your experience with signing in to VA.gov? 
+
+ What does “Feedback” " mean to you?
+
+From your perspective, how are these feedback mechanisms different, if at all? What makes you think that?
 
 ### Things to watch for:
 - [Does the participant notice the Rate Your Experience feedback mechanism on the page?]
