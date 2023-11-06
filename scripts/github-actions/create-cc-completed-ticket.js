@@ -3,9 +3,10 @@ const axios = require('axios');
 const {
   GITHUB_TOKEN,
   GITHUB_REPOSITORY,
-  GOV_TEAM_BOARD_ID,
   ZENHUB_API_KEY
 } = process.env;
+
+const GOV_TEAM_BOARD_ID = '5f85b91c14d8df0018fac414';
 
 const axiosInstance = axios.create({
   baseURL: 'https://api.zenhub.com/public/graphql',
@@ -93,11 +94,10 @@ async function getSprintId() {
 }
 
 async function main() {
-  console.log('---->', GOV_TEAM_BOARD_ID);
-  // const repoId = await getVaGovTeamRepoId();
-  // const sprintId = await getSprintId();
-  // console.log('repoId', repoId);
-  // console.log('sprintId', sprintId);
+  const repoId = await getVaGovTeamRepoId();
+  const sprintId = await getSprintId();
+  console.log('repoId', repoId);
+  console.log('sprintId', sprintId);
 }
 
 main();
