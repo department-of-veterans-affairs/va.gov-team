@@ -7,7 +7,7 @@ Last updated by @beckyphung on November 6, 2023
 
 ### Problem statement
 
-Veterans, dependents, or other submitters need to be able to easily and intuitively ask the Department of Veterans Affairs a question online [[1]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/ask-va-phase-1-product-outline.md#problem-statement).
+Veterans, dependents, or other submitters need to be able to easily and intuitively ask the Department of Veterans Affairs a question online [[1]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/ask-va-phase-1-product-outline.md).
 
 ### Desired outcomes
 
@@ -52,24 +52,39 @@ We used the VA.gov design principles to frame our vision. Through following this
 **People should be able to use Ask VA on their mobile devices, in addition to their laptop, tablet, or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context. This looks like: 
 - Asking one thing per page in the form [[5](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)].
 - It's also why we will avoid modals or pop-ups.
+<br>
 
 #### Simple
 
-**People’s focus should be on asking a question to VA.** We’ll prioritize steps in the form that help a user complete their primary task of asking a question, and remove unnecessary steps. As mentioned, we’ll aim to ask one thing per page. We'll also avoid asking users for the same information more than once, and when it’s possible, we’ll pull in their information to save them time. When they're reviewing a question they submitted, we'll focus on highlighting the most recent message, so the most important thing comes first.
+**People’s focus should be on asking a question to VA.** We’ll prioritize steps in the form that help a user complete their primary task of asking a question and remove unnecessary steps. This looks like: 
+- As mentioned, we’ll aim to ask one thing per page.
+- We'll also avoid asking users for the same information more than once.
+- When it’s possible, we’ll pull in their information to save them time.
+- When they're reviewing a question they submitted, we'll focus on highlighting the most recent message, so the most important thing comes first.
+<br>
 
-**People should feel like Ask VA is familiar.** Firstly, we will use familiar, plain language. We’ll also draw on other content and patterns used across VA.gov so Ask VA feels familiar to other experiences on VA.gov. In addition, we’ll aim for consistency within Ask VA itself. So, if a Veteran asks a question about life insurance or debt, the experience should feel as consistent as possible.
+**People should feel like Ask VA is familiar.** This looks like: 
+- Using familiar, plain language.
+- We’ll also draw on other content and patterns used across VA.gov, so Ask VA feels familiar to other experiences on VA.gov.
+- In addition, we’ll aim for consistency within Ask VA itself. So, if a Veteran asks a question about life insurance or debt, the experience should feel as consistent as possible.
 
 #### Veteran first
 
-**Veterans should help design Ask VA.** We’ll prioritize making important decisions based on what we learn from Veterans through user research. When we do research, we’ll include Veterans from a range of perspectives in order to reduce bias and test our assumptions. As one example of how research informs our designs, through research we learned that submitters need to see messages and responses on the same page so they don't lose context. We used this insight to design an inbox that lets a submitters see everything on one page.
+**Veterans should help design Ask VA.** We’ll prioritize making important decisions based on what we learn from Veterans through user research. This looks like: 
+- When we do research, we’ll include Veterans from a range of perspectives in order to reduce bias and test our assumptions.
+   - As one example of how research informs our designs, through research we learned that submitters need to see messages and responses on the same page, so they don't lose context. We used this insight to design an inbox that lets submitters see everything on one page.
 
-**Veterans come first, over what “looks good” or works in another context.** We understand that Veterans are unique, from other users and from one another. We also know their experience using all sorts of VA applications impact how they experience Ask VA. We’ll make decisions based on what we learn from our user research, over assumptions or what we think works best “in principle" or even what might work best in another context.
+**Veterans come first, over what “looks good” or works in another context.** We understand that Veterans are unique, from other users and from one another. We also know their experience using all sorts of VA applications impact how they experience Ask VA. This looks like: 
+- Making decisions based on what we learn from our user research, over assumptions or what we think works best “in principle" or even what might work best in another context.
 
 #### Impact
 
-**Everyone has a right to the same experience.** Whether it’s on a different device, browser or using assistive technology, we’ll design a consistent and cohesive user experience for Ask VA. Many of our design decisions, like avoiding modals and conditionals that change the page while you're still on it, contribute to building a cohesive and fair experience.
+**Everyone has a right to the same experience.** Whether it’s on a different device, browser or using assistive technology, we’ll design a consistent and cohesive user experience for Ask VA. This looks like: 
+- Many of our design decisions, like avoiding modals and conditionals that change the page while you're still on it, contribute to building a cohesive and fair experience.
 
-**People should be able to find Ask VA, when they need it.** We'll make sure that existing links to Ask VA transition seamlessly when Ask VA moves to VA.gov. In addition, by moving Ask VA to the contact hub on VA.gov, we'll aim to improve how easy it is to find.
+**People should be able to find Ask VA, when they need it.** This looks like: 
+- Ensuring existing links to Ask VA transition seamlessly when Ask VA moves to VA.gov.
+- In addition, by moving Ask VA to the contact hub on VA.gov, we'll aim to improve how easy it is to find.
 
 ### Our approach
 
