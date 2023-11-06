@@ -53,7 +53,6 @@ We used the VA.gov design principles to frame our vision. Through following this
 - Ask one thing per page in the form [[6](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)].
 - Display questions primarily as cards for authenticated users in their dashboard view.
 - Avoid modals or pop-ups unless absolutely necessary.
-<br>
 
 #### Simple
 
@@ -67,7 +66,6 @@ We used the VA.gov design principles to frame our vision. Through following this
 - Use familiar, plain language.
 - Draw on other content and patterns used across VA.gov, so Ask VA feels familiar to other experiences on VA.gov.
 - Aim for consistency within Ask VA itself – if a Veteran asks a question about life insurance or debt, the experience should feel as consistent as possible.
-<br>
 
 #### Veteran first
 
@@ -76,7 +74,6 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 **Veterans come first, over what “looks good” or works in another context.** We understand that Veterans are unique, from other users and from one another. We also know their experience using all sorts of VA applications impact how they experience Ask VA. For example, we will: 
 - Make decisions based on what we learn from our user research, over assumptions, what we think works best “in principle," or even what might work best in another context.
-<br>
 
 #### Impact
 
@@ -86,7 +83,6 @@ We used the VA.gov design principles to frame our vision. Through following this
 **People should be able to find Ask VA, when they need it.** We'll optimize the navigation pathways to Ask VA for Veterans and other submitters. This looks like: 
 - Ensuring existing links to Ask VA transition seamlessly when Ask VA moves to VA.gov.
 - In addition, by moving Ask VA to the contact hub on VA.gov, we aim to improve how easy it is to find.
-<br>
 
 ### Our approach
 
