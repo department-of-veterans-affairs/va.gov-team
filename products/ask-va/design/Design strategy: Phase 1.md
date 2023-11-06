@@ -1,7 +1,7 @@
 # Design strategy: Phase 1
 *Ask VA Front-End*
 
-Last updated by @beckyphung on November 6, 2023 
+Last updated by @tygindraux on November 6, 2023 
 
 ## Product background
 
@@ -25,6 +25,8 @@ These KPIs will guide our decisions and help us measure success [[2](https://git
 2. Increase the percentage of submitters that successfully ask a question
 3. Meet the target VA.gov user satisfaction score
 
+Note: We will update this document to replaced KPIs with OKRs, once our PM and PO have agreed on these.
+
 ## Design strategy
 
 ### VA.gov design system
@@ -43,38 +45,37 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 #### Usable by everyone
 
-**Everyone should be able to use Ask VA.** We’ll make all design decisions with accessibility front of mind. This looks like: 
-- Avoiding designing conditionals or updates that are made to the form *while* the user is still on the page.
-- When we do research, including disabled Veterans, Veterans from underserved communities, people who use assistive technology, dependents, and people who submit a question on behalf of someone else.
+**Everyone should be able to use Ask VA.** We’ll make all design decisions with accessibility front of mind. For example, we will:
+- Avoid designing conditionals or updates that are made to the form *while* the user is still on the page.
+- Include disabled Veterans, Veterans from underserved communities, people who use assistive technology, dependents, and people who submit a question on behalf of someone else when we do research.
 
-**People should be able to use Ask VA on their mobile devices, in addition to their laptop, tablet, or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context. This looks like: 
-- Asking one thing per page in the form [[6](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)].
-- Displaying questions primarily as cards for authenticated users in their dashboard view.
-- It's also why we will avoid modals or pop-ups.
+**People should be able to use Ask VA on their mobile devices, in addition to their laptop, tablet, or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context. For example, we will:
+- Ask one thing per page in the form [[6](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)].
+- Display questions primarily as cards for authenticated users in their dashboard view.
+- Avoid modals or pop-ups unless absolutely necessary.
 <br>
 
 #### Simple
 
-**People’s focus should be on asking a question to VA.** We’ll prioritize steps in the form that help a user complete their primary task of asking a question and remove unnecessary steps. This looks like: 
-- Aiming to ask one thing per page, as mentioned above.
-- We'll also avoid asking users for the same information more than once.
-- When it’s possible, we’ll pull in information to save authenticated users time.
-- When they're reviewing a question they submitted, we'll focus on highlighting the most recent message, so the most important thing comes first.
+**People’s focus should be on asking a question to VA.** We’ll prioritize steps in the form that help a user complete their primary task of asking a question and remove unnecessary steps. For example, we will:
+- Aim to ask one thing per page, as mentioned above.
+- Avoid asking users for the same information more than once.
+- Pull in information to save authenticated users time, when it's possible.
+- Highlight the most recent message in a user's "inbox".
 
-**People should feel like Ask VA is familiar.** We'll prioritize consistency to create a familar experience on VA.gov. This looks like: 
-- Using familiar, plain language.
-- Drawing on other content and patterns used across VA.gov, so Ask VA feels familiar to other experiences on VA.gov.
-- In addition, we’ll aim for consistency within Ask VA itself. So, if a Veteran asks a question about life insurance or debt, the experience should feel as consistent as possible.
+**People should feel like Ask VA is familiar.** We'll prioritize consistency to create a familar experience on VA.gov. For example, we will:
+- Use familiar, plain language.
+- Draw on other content and patterns used across VA.gov, so Ask VA feels familiar to other experiences on VA.gov.
+- Aim for consistency within Ask VA itself – if a Veteran asks a question about life insurance or debt, the experience should feel as consistent as possible.
 <br>
 
 #### Veteran first
 
-**Veterans should help design Ask VA.** We’ll prioritize making important decisions based on what we learn from Veterans through user research. This looks like: 
-- When we do research, including Veterans from a range of perspectives in order to reduce bias and test our assumptions.
-   - As one example of how research informs our designs, through research we learned that authenticated submitters need to see messages and responses on the same page, so they don't lose context. We used this insight to design an inbox that lets submitters see everything on one page.
+**Veterans should help design Ask VA.** We’ll prioritize making important decisions based on what we learn from Veterans through user research. For example, we will: 
+- Include Veterans from a range of perspectives in order to reduce bias and test our assumptions when we do research.
 
-**Veterans come first, over what “looks good” or works in another context.** We understand that Veterans are unique, from other users and from one another. We also know their experience using all sorts of VA applications impact how they experience Ask VA. This looks like: 
-- Making decisions based on what we learn from our user research, over assumptions, what we think works best “in principle," or even what might work best in another context.
+**Veterans come first, over what “looks good” or works in another context.** We understand that Veterans are unique, from other users and from one another. We also know their experience using all sorts of VA applications impact how they experience Ask VA. For example, we will: 
+- Make decisions based on what we learn from our user research, over assumptions, what we think works best “in principle," or even what might work best in another context.
 <br>
 
 #### Impact
