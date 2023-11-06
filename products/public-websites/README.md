@@ -30,24 +30,27 @@ Monitors for each product are described within product folders. e.g.
 
 | [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
 | ------------- | ------------- | ------------- |
-| [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Breadcrumbs](#breadcrumbs) | [Appeal Modernization Process](#appeal-modernization-process) |
+| [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Discharge update wizard](#discharge-update-wizard) | [Appeal Modernization Process](#appeal-modernization-process) |
 | [Benefits Detail Page](#benefits-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | [Disability rating calculator](#disability-rating-calculator) |
-| [Campaign Landing Pages](#campaign-landing-pages-clp) | [Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Discharge update wizard](#discharge-update-wizard) |
-| [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging)|
-| [Event](#event-detail-page) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
-| [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
-| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
-| [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | [React widgets governance](#react-widgets-governance)|
-| [VA.gov Homepage](#vagov-homepage) | [Shadow / dark launches of content](#shadow--dark-launches-of-content) | [Yellow-ribbon tool](#yellow-ribbon-tool) |
-| [Promo Banner](#promo-banner) |  [Unauthed React widgets](#unauthed-react-widgets) |  .  |
+| [Campaign Landing Pages](#campaign-landing-pages-clp) | [Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Downtime messaging](#downtime-messaging) |
+| [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Harassment Reporting Tool](#harassment-reporting-tool) |
+| [Event](#event-detail-page) | [Income limits web application](#income-limits-web-application) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
+| [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
+| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [React widgets use within CMS](#react-widgets-governance) |
+| [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | . |
+| [VA.gov Homepage](#vagov-homepage) | [Unauthed React healthcare widgets](#unauthed-react-widgets) | . |
+| [Promo Banner](#promo-banner) |  [Veterans Crisis Line modal](#veterans-crisis-line-modal) |  .  |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
-| [Q&A - single](#qa---single) |  [Veterans Crisis Line modal](#veterans-crisis-line-modal) | . |
-| [Resources & Support detail page](#resources-and-support-detail-page) | . | .  |
+| [Resources & Support detail page](#resources-and-support-detail-page) |  . | . |
+| [Reusable Q&A](#reusable-qa) | . | .  |
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
 
+## Changelog
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md) - previous doc of tools that were moved from Decision Tools > Search & Discovery and are now under Public Websites purview
-
+* 11/2023: [Breadcrumbs](#breadcrumbs) - Transitioned to CMS team as of Q4 2024, as a result of Accelerated Publishing work to manage Breadcrumbs for CMS-related content fully within the CMS
+* 11/2023: [Shadow / dark launches of content](#shadow--dark-launches-of-content) - Transitioned to CMS team for long term ownership. Docs will be removed from this page, TBD a new future home for CMS product docs.
+* 11/2023: [Yellow-ribbon tool](#yellow-ribbon-tool) moved to new IIR team. New docs home TBD.
 
 ---
 
@@ -344,7 +347,9 @@ You can read more about these promo types in the [VA Design System](https://desi
 
 **What is:**
 Currently there is one Publication Listing Page, the Outreach Library, where all Publications appear.
-Not modified since launch
+Not modified since launch.
+
+As of Aug 2023, there is intent to deprecate the Outreach Materials Library: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14835. A new product is being built by OPIA / VEO platform (tentative name: Discover). When that product launches, O&M Library will be removed.
 
 **Example content:**
 * URL: [https://www.va.gov/outreach-and-events/outreach-materials/](https://www.va.gov/outreach-and-events/outreach-materials/) 
@@ -352,28 +357,6 @@ Not modified since launch
 
 **Governance / Editor guidance:**
 * Primary editors: Sitewide Content team
-
-
-## Q&A - single
-
-**What is:**
-
-A Question / Answer node type. Prior to the creation of this node type, Q&A data could be / was entered in Drupal “paragraphs”, but was not reusable (with edge case exceptions). Q&A nodes, on the other hand, can be referenced on additional node types such as Resources & Support or FAQ pages, making them reusable.
-
-Q&As may be used on Resources & Support pages, or FAQ pages, as an entity reference. They may also have a standalone Resources and support page. (Not typical.)
-
-**Example content:**
-* URL: [https://www.va.gov/resources/gi-bill-and-other-va-education-benefit-payments-faqs/#:~:text=When%20will%20I%20get%20my,way%20to%20receive%20your%20payment](https://www.va.gov/resources/gi-bill-and-other-va-education-benefit-payments-faqs/#:~:text=When%20will%20I%20get%20my,way%20to%20receive%20your%20payment) – Q&A appears on FAQ page
-* CMS: 
-  * Q&A node: [https://staging.cms.va.gov/resources/when-will-i-get-my-first-gi-bill-payment](https://staging.cms.va.gov/resources/when-will-i-get-my-first-gi-bill-payment) 
-  * FAQ where Q&A is added as entity reference, under Q&A groups: [https://staging.cms.va.gov/node/15640/edit](https://staging.cms.va.gov/node/15640/edit) 
-
-
-**Governance / Editor guidance:**
-* Primary editors: Sitewide Content team
-
-**More info:**
-* **Q3 2022 project**: adding reusable Q&As to Resources & Support content type: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
 
 
 ## Resources and support Detail Page
@@ -394,6 +377,33 @@ A page that contains in-depth information about a single resource available to V
 * [Resources and Support product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md)
 * 2022 Sitewide Content research project around clarity of this content and how Editors in other areas might have challenges / need support: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot) 
 * [VFS Product Directory: Resources & Support](https://depo-platform-documentation.scrollhelp.site/getting-started/resources-support)
+
+## Reusable Q&A
+
+**What is:**
+
+A Question / Answer node type. Prior to the creation of this node type, Q&A data could be / was entered in Drupal “paragraphs”, but was not reusable (with edge case exceptions). Q&A nodes, on the other hand, can be referenced on additional node types such as Resources & Support or FAQ pages, making them reusable.
+
+Q&As may be used as an entity reference on:
+* Campaign Landing Pages
+* Benefits Detail Pages
+* FAQ page
+* Resources & Support pages
+
+They may also have a standalone Resources and Support page (/resources/). (Not typical.)
+
+**Example content:**
+* URL: [https://www.va.gov/resources/gi-bill-and-other-va-education-benefit-payments-faqs/#:~:text=When%20will%20I%20get%20my,way%20to%20receive%20your%20payment](https://www.va.gov/resources/gi-bill-and-other-va-education-benefit-payments-faqs/#:~:text=When%20will%20I%20get%20my,way%20to%20receive%20your%20payment) – Q&A appears on FAQ page
+* CMS: 
+  * Q&A node: [https://staging.cms.va.gov/resources/when-will-i-get-my-first-gi-bill-payment](https://staging.cms.va.gov/resources/when-will-i-get-my-first-gi-bill-payment) 
+  * FAQ where Q&A is added as entity reference, under Q&A groups: [https://staging.cms.va.gov/node/15640/edit](https://staging.cms.va.gov/node/15640/edit) 
+
+
+**Governance / Editor guidance:**
+* Primary editors: Sitewide Content team
+
+**More info:**
+* **Q3 2022 project**: adding reusable Q&As to Resources & Support content type: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
 
 
 ## Translations
@@ -423,11 +433,6 @@ Q3 2022, only a set of COVID- and PACT-act-related pages on VA.gov are translate
 ---
 
 # Non-CMS content / products
-
-## Breadcrumbs
-
-[https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10308](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10308) 
-
 
 ## Shadow / dark launches of content
 
@@ -630,11 +635,11 @@ Facilities team can handle redirects for Facility URLs / content.
 * [RevProxy deploy job info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/infrastructure/reverse_proxy.md)
 * [Proxy-rewrite info](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md) - relevant for client-side redirects from TeamSite pages
 
-## Unauthed React widgets
+## Unauthed React Healthcare widgets
 
 **What is:**
 
-Public Websites manages 5 React widgets related to Veteran benefits:
+Public Websites manages the unauthed version of 5 React Healthcare widgets related to Veteran benefits:
 
 * refill prescription
 * make appointment
@@ -642,7 +647,12 @@ Public Websites manages 5 React widgets related to Veteran benefits:
 * send secure message
 * view lab or test results
 
-Calls to action on these widgets point users to the Electronic Healthcare Records (EHR) system used by their primary healthcare facility. The VA historically has used an EHR provider called VistA. In 2020, the VA began migrating facilities to a new EHR provider called Cerner. As each facility migrates, calls to action must point to locations within the Cerner system, rather than the VistA system. 
+Calls to action on these widgets point users to the Electronic Healthcare Records (EHR) system used by their primary healthcare facility. Three flavors of EHR: 
+* MyHealtheVet - Digital platform of the VistA healthcare provider. CTAs that point to MHV, once a user logs in, will take users out to MHV's platform.
+* Cerner - New EHR provider as of 2020, used at some VAMC systems/facilities. Systems were migrating to Cerner through 2022; migrations on pause as of July 2022. For Veterans who have patient records at a Cerner facility, CTAs that point to Cerner will also appear and take those users out to Cerner's digital platform.
+* MyHealtheVet on VA.gov - An in-house digital platform built by the VA. CTAs that point to MHV on VA.gov will take users to a VA.gov dashboard, where both MHV and Cerner data is pulled in via APIs.
+
+As other Health care teams are updating these CTAs, Public Websites may be called up on as code reviewers to review changes and ensure that the unauthed experience for these 5 widgets behaves as expected. 
 
 **Governance / Content:**
 
@@ -790,7 +800,7 @@ More info:
 * [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards) 
 
 
-## React widgets governance
+## React widgets use within CMS
 
 [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2919)
 
