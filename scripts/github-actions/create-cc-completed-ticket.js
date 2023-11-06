@@ -79,16 +79,16 @@ async function getSprintId() {
     }
   }}`
   try {
-    const { data } = await axiosInstance.post('', {
+    const  resp  = await axiosInstance.post('', {
       query,
       variables: {
         workspaceId: GOV_TEAM_BOARD_ID
       }
     });
-    console.log(data.data.workspace);
+    console.log('----->', resp);
     // const sprints = data.data.workspace.sprints.nodes;
-    const id = findSprint(sprints);
-    return id;
+    // const id = findSprint(sprints);
+    // return id;
   } catch (error) {
     console.log(error);
   }
