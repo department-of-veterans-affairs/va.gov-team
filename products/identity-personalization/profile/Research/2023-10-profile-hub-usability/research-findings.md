@@ -362,13 +362,20 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Veterans with no degrees
+* Discharge that's other than honorable
+* Immigrant origin
+* Expats
+* Biracial, Asian, or Native veterans
+* LGBTQ+ veterans
+* Mobile Screen reader
+* Speech Input Tech
+* Hearing Aids
+* Sighted Keyboard
+* Captions
+* Switch Device
+* Braille Reader
 
-_[insert screenshot of completed recruitment checker]_
-`![VA-recruitment-checker](link - add image to github folder and link here with .png)`
+![recruitment-tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/session-notes/recruitment-tracker.png)

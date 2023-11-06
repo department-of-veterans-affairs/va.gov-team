@@ -82,15 +82,15 @@ Users have trouble finding dependent information and where to download their ben
 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|#3 (and 6,8)|#2 (and 3,8)|#3 (and #10)|#4 (and 6,9,10)|#5||
-|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|#1 (and 2,4,9)|#1 (and 4,5,10)|#1|#2|#3||
+|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|#3 (and 6,8)|#2 (and 3,8)|#3 (and #10)|#4 (and 6,9,10)|#5|#5|
+|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|#1 (and 2,4,9)|#1 (and 4,5,10)|#1|#2|#3|#1|
 
 **KPI: See overall reduction in "dependents" and "letters" searches within the profile.**
 
 |KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Raw number of "**letters**” searches in the top 10 profile searches|189|121|63 (-48% from 1-week pre-launch)|111 (-9% from 1-week pre-launch: +76% from 1-week post-launch)|27 (-78% from 1-week pre-launch)||
-|Raw number of "**dependents**” searches in the top 10 profile searches|426|239|55 (-77% from 1-week pre-launch)|41 (-83% from 1-week pre-launch)|33 (-86% from 1-week pre-laumch)||
+|Raw number of "**letters**” searches in the top 10 profile searches|189|121|63 (-48% from 1-week pre-launch)|111 (-9% from 1-week pre-launch: +76% from 1-week post-launch)|27 (-78% from 1-week pre-launch)|33 (-73% from 1-week pre-launch) |
+|Raw number of "**dependents**” searches in the top 10 profile searches|426|239|55 (-77% from 1-week pre-launch)|41 (-83% from 1-week pre-launch)|33 (-86% from 1-week pre-laumch)|51 (-79% from 1-week pre-launch)|
 
 **KPI: See variations on "dependents" and "letters" entirely removed from the top 10 search terms on VA.gov as a whole.**
 
