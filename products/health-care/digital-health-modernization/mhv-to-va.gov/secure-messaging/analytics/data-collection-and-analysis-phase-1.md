@@ -37,7 +37,7 @@ Definitions from Google:
 
 ## **Secondary Metrics**
 
-**Use of 'Go back to previous version of secure messaging' link**
+**Use of 'Go back to previous version of secure messaging' link, or My HealtheVet link or VA link in header**
 
 - Datadog: Top Actions, Heatmaps, Funnel analysis
 - Google Analytics: Click events
