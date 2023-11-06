@@ -104,7 +104,7 @@ We would like to request a kick-off meeting with Perigean to go over the recruit
 
 All participants:
 
-- Must be veterans
+- Must be veterans or caregivers 
 - Must have a computer or mobile phone and be willing to complete their sessions on this device
 - Must be willing to share a web browser window on the Zoom call
 - Must have a working microphone
