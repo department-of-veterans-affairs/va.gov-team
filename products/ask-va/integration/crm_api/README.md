@@ -20,12 +20,12 @@ Dashboard | GET /profile | VA Profile | ⬜ | ⬜ | Offloading to VA Profile | [
 Dashboard | POST /profile | VA Profile | ⬜ | ⬜ | Offloading to VA Profile | [link](Dashboard_UpdateMyProfile.md) |
 Dashboard | GET /reply | Dynamics | ⬜ | ⬜ | | [link](Dashboard_RetrieveCorrespondence.md) |
 Dashboard | ~GET /inquiry~ | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_RetrieveInquiries.md) |
-Dashboard | PUT /reply/new | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_SubmitAReply.md) |
-Dashboard | PUT /attachment/new | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_UploadFile.md) |
-Form | GET /topics?[id] | Dynamics | ⬜ | ⬜ |  | [link](get-topics.md) |
+Dashboard | PUT /reply?[id] | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_SubmitAReply.md) |
+Dashboard | PUT /attachment?[id] | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_UploadFile.md) |
+Form | GET /topics?[id] | Dynamics | ⬜ | ⬜ |  | [link](form-get-topics.md) |
 Form | GET /inquiry?[id] | Dynamics | ⬜ | ⬜ |  | [link](Form_RetrieveInquiryStatus.md) |
 Form | PUT /inquiry/new | Dynamics | ⬜ | ⬜ |  | [link](Form_SubmitInquiry.md) |
-Form | ~PUT /attachment/new~ | Dynamics | ⬜ | ⬜  |  | [link](Form_UploadFile.md) |
+Form | ~PUT /attachment?[id]~ | Dynamics | ⬜ | ⬜  |  | [link](Form_UploadFile.md) |
 Form | GET /alerts | Dynamics | ⬜ | ⬜ |  | [link](Form_RetrieveBannerMessage.md) |
 Form | Medical Facilities | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link](Form_MedicalFacilities.md) |
 Form | School Facility Codes | WEAMS(?)/Dynamics | ⬜ | ⬜ |  | [link](Form_SchoolFacilityCodes.md) |
