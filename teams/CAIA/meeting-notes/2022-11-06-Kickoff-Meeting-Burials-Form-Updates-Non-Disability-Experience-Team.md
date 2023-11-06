@@ -29,7 +29,7 @@
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
 
 ## CAIA Tickets 🎟️
-- [x] [Epic] Name of Epic/Intake Ticket 68984
+- [x] [Epic/Intake #68984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68984)
     - [ ] Accessibility Ticket **- requesting support**
     - [ ] IA Ticket **- requesting support**
     - [ ] Content Ticket **- requesting support**
