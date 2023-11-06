@@ -116,11 +116,13 @@ Text Resizer allows you to precisely understand how the design of your digital c
 
 <hr> 
 
+### Informational Sources
+
 #### Ticket References
 - [User Research with Figma Ref. Ticket #62359](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62359#issuecomment-1652769970) 
 - [Evaluate Figma's accessibility features per request of the design leads #57911](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57911)
 
-#### References Used
+#### Sources Used
 - https://www.digitala11y.com/accessibility-tools-and-resources-for-designers/#accessibility-tools-for-figma 
 - https://www.sketch.com/vs/figma/ 
 - https://medium.com/leboncoin-engineering-blog/sketch-vs-figma-874d8242fa55# 
