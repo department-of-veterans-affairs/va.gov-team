@@ -8,7 +8,7 @@
 
 ## Starting the CAIA Process
 ### Process Initiated
-- [x] Intake Request - this forms the basis of our partnerships with you and becomes an Epic. [Review Burial Form Updates> from <Benefits and Claims Non-Disability Experience Team #68984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68984)
+- [x] Intake Request - this forms the basis of our partnerships with you and becomes an Epic. [Review Burial Form Updates from Benefits and Claims Non-Disability Experience Team #68984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68984)
 - [ ] We will spin off our tickets within that Epic ticket:
     - [ ] Content
     - [ ] IA
