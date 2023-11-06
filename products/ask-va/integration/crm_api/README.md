@@ -18,11 +18,12 @@ Status | GET /ping | Dynamics | 🟩 | 🟨 |  | [link](Status_Ping.md) |
 Form | GET /topics?[id] | Dynamics | ⬜ | ⬜ |  | [link](form-get-topics.md) |
 Form | PUT /inquiry/new | Dynamics | ⬜ | ⬜ |  | [link](Form_SubmitInquiry.md) |
 Form | GET /alerts | Dynamics | ⬜ | ⬜ |  | [link](Form_RetrieveBannerMessage.md) |
-Dashboard | GET /inquiry?[num] | Dynamics | ⬜ | ⬜ | dahsboard / find by inquiry number | [link](Dashboard_RetrieveInquiries.md) |
+Dashboard | GET /inquiries?[num] | Dynamics | ⬜ | ⬜ | dahsboard / find by inquiry number | [link](Dashboard_RetrieveInquiries.md) |
 Dashboard | GET /search?[text] | Dynamics | ⬜ | ⬜ |  | link |
-Dashboard | GET /correspondence | Dynamics | ⬜ | ⬜ | | [link](Dashboard_RetrieveCorrespondence.md) |
-Dashboard | PUT /correspondence?[id] | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_SubmitAReply.md) |
+Dashboard | GET /replies | Dynamics | ⬜ | ⬜ | | [link](Dashboard_RetrieveCorrespondence.md) |
+Dashboard | PUT /reply?[id] | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_SubmitAReply.md) |
 Dashboard | PUT /attachment?[id] | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_UploadFile.md) |
+Dashboard | GET /attachment?id | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_DownloadFile.md) |
 Dashboard | PUT /profile/new | VA Profile | ⬜ | ⬜ | Offloading to VA Profile  | [link](Dashboard_CreateMyProfile.md) |
 Dashboard | GET /profile | VA Profile | ⬜ | ⬜ | Offloading to VA Profile | [link](Dashboard_ReadMyProfile.md) |
 Dashboard | POST /profile | VA Profile | ⬜ | ⬜ | Offloading to VA Profile | [link](Dashboard_UpdateMyProfile.md) |
