@@ -92,6 +92,11 @@ Used for searches in which Facility type =
 - This determines if errors on the endpoint are above 5/minute for a warning and 15 for an alert.
 - Warnings and Alerts sent to #facilities-monitoring on DSVA slack.
 
+### Monitor for 401s on Vets-API requested by Facilities Source
+- [Monitor of 401s](https://vagov.ddog-gov.com/monitors/174791)
+- This is the only source of 401s monitored for facilities related data on Vets-API.
+- This was added after [a slack thread](https://dsva.slack.com/archives/CJ162GDDJ/p1699018711640869) was monitoring 401s noted several spikes.
+
 **Why /v1/facilities/va and not /facilities_api/v1/va**
 In Datadog, /facilities_api/v1/va yields the same data /v1/facilities/va does. The endpoint we use in the app is /v1/facilities/va and so for clarity's sake, this metric source was used.
 
