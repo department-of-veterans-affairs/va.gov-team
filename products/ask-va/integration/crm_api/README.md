@@ -9,13 +9,12 @@ Overview of APIs goes here.
 |---|---|
 ⬜ | Not Started |
 🟨 | In Progress |
-🟦 | Done but not Integrated |
-🟩 | Done and Integrated |
-🟥 | Exception / Blocked |
+🟩 | Done |
+🟥 | Blocked |
 
-| Artifact | Endpoint | Source | AVA Status | CRM Status | Comments | Documentation |
+| Artifact | Endpoint | Source | API Status | Integration | Notes | Docs |
 |---|---|---|:---:|:---:|---|:---:|
-Status | Ping | Dynamics |⬜  | ⬜  |  | [link](Status_Ping.md) |
+Status | /ping | Dynamics | 🟩 | 🟨  |  | [link](Status_Ping.md) |
 Dashboard | Create Profile | VA Profile |⬜  | ⬜  | Offloading to VA Profile  | [link](Dashboard_CreateMyProfile.md) |
 Dashboard | Read My Profile | VA Profile | ⬜  | ⬜  | Offloading to VA Profile | [link](Dashboard_ReadMyProfile.md) |
 Dashboard | Update Profile | VA Profile |⬜  | ⬜  | Offloading to VA Profile | [link](Dashboard_UpdateMyProfile.md) |
