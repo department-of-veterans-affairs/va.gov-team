@@ -45,10 +45,59 @@ async function getVaGovTeamRepoId() {
   }
 }
 
+function isWithinSprint(start, end) {
+  const today = (new Date(Date.now())).setHours(0,0,0,0);
+  const _start = new Date(start);
+  const _end = new Date(end);
+  return (today >= _start && today <= _end);
+}
+
+function checkSprint(sprint) {
+  let [start, end] = sprint.replace('Sprint: ', '').split(' - ');
+  const [year] = end.split(' ').reverse();
+  start = `${start}, ${year}`;
+  return isWithinSprint(start, end);
+}
+
+function findSprint(sprints) {
+  for (const sprint of sprints) {
+    if (checkSprint(sprint.name)) {
+      return sprint.id;
+    }
+  }
+  return null;
+}
+
+async function getSprintId() {
+  const query = `query GetSprints($workspaceId: ID!) {
+    workspace(id: $workspaceId) {
+      sprints (first: 100) {
+        nodes {
+          id
+          name
+        }
+    }
+  }}`
+  try {
+    const { data } = await axiosInstance.post('', {
+      query,
+      variables: {
+        workspaceId: GOV_TEAM_BOARD_ID
+      }
+    });
+    const sprints = data.data.workspace.sprints.nodes;
+    const id = findSprint(sprints);
+    return id;
+  } catch (error) {
+    console.log(error);
+  }
+}
+
 async function main() {
-  console.log("length is", ZENHUB_API_KEY.length);
   const repoId = await getVaGovTeamRepoId();
+  const sprintId = await getSprintId();
   console.log('repoId', repoId);
+  console.log('sprintId', sprintId);
 }
 
 main();
