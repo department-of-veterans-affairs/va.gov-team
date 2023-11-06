@@ -16,6 +16,10 @@ The day and time of the appointment. May be in the future or the past.
 
 The name of the clinic where the appointment has been scheduled.
 
+##### Patient-friendly Clinic Name
+
+The same as clinic name but written so that it will make sense to the patient.
+
 
 #### Facility Phone Number
 
