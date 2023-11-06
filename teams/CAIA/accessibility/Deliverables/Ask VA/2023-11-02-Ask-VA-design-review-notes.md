@@ -1,12 +1,15 @@
-`[WIP]`
-
 # 2023-11-02 Ask VA feedback
 
 ## CAIA Reviewers
-- Eli, @eli-oat
+- Eli
 - Jamie
 
+## Ticket reference
+- [#60696](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60696)
+
 **NOTE:** Because of the limited time available to CAIA accessibility specialists, this review wasn't able to thoroughly examine all aspects of the provided [sketch file](https://www.sketch.com/s/6a75d0a2-e484-4f1e-8675-ad5747a1a871/p/4E7790A9-059D-4A3B-A184-45F1E9434CDB/canvas#Comment). If you have any further questions about anything we've reviewed or missed, please don't hesitate to reach out.
+
+Also, because this is an initial design review, where we've only had access to a Sketch file consider this feedback preliminary. 
 
 ## General considerations
 
@@ -46,11 +49,6 @@
 ### Chapter 01
 
 - Our assumption is that the backend of the Ask VA system requires that you ask a number of conditional questions to help properly answer a question -- it may be helpful to provide an explanation for why information, especially personal information, is being requested before allowing someone to enter a question
-
-
-### Chapter 03 
-
-- 
 
 ## Next steps
 
