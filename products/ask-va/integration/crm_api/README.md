@@ -1,6 +1,11 @@
 ## README.md
 
-Overview of APIs goes here.
+This is the list of APIs that the va.gov UI will consume, in priority order. The priority was determined by:
+
+1. Ping endpoint first, as the simplest test of the plumbing.
+2. Form APIs before Dashboard APIs (since we'll be working on Forms first).
+3. APIs that can only be fed by Dynamics APIs (data that only lives in Dynamics).
+4. All other endpoints, in the general order that we plan to attack them.
 
 
 # API Integration Status
