@@ -23,9 +23,9 @@ jobs:
             "query": "query { viewer { id searchWorkspaces(query: \"Platform Governance Team\") { nodes { id name repositoriesConnection { nodes { id name } } } } } }"
           }'
 
-          REPO_ID=$(curl -s -X POST "https://api.zenhub.com/public/graphql" -H "Authorization: Bearer $ZENHUB_API_KEY" -d "$QUERY" | jq -r '.data.viewer.searchWorkspaces.nodes[0].repositoriesConnection.nodes[] | select(.name == "va.gov-team") | .id')
+          RESPONSE=$(curl -s -X POST "https://api.zenhub.com/public/graphql" -H "Authorization: Bearer ${{ secrets.ZENHUB_API_KEY }}" -d "$QUERY")
 
-          echo "va.gov-team Repository ID: $REPO_ID"
+          echo "ZenHub API Response: $RESPONSE"
 
       # - name: Checkout
       #   uses: actions/checkout@v3
