@@ -21,6 +21,10 @@ The name of the clinic where the appointment has been scheduled.
 The same as clinic name but written so that it will make sense to the patient.
 
 
+#### Clinic Location
+
+They physical location of the clinic at the facility; for example, the building, floor, and room number.
+
 #### Facility Phone Number
 
 The main phone number for the facility where the appointment has been scheduled.
