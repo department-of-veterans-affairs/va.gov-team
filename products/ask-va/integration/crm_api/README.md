@@ -14,23 +14,22 @@ Overview of APIs goes here.
 
 | Artifact | Endpoint | Source | API Status | Integration | Notes | Docs |
 |---|---|---|:---:|:---:|---|:---:|
-Status | /ping | Dynamics | 🟩 | 🟨  |  | [link](Status_Ping.md) |
-Dashboard | Create Profile | VA Profile |⬜  | ⬜  | Offloading to VA Profile  | [link](Dashboard_CreateMyProfile.md) |
-Dashboard | Read My Profile | VA Profile | ⬜  | ⬜  | Offloading to VA Profile | [link](Dashboard_ReadMyProfile.md) |
-Dashboard | Update Profile | VA Profile |⬜  | ⬜  | Offloading to VA Profile | [link](Dashboard_UpdateMyProfile.md) |
-Dashboard | Retrieve Correspondence | Dynamics |⬜  | ⬜  | | [link](Dashboard_RetrieveCorrespondence.md) |
-Dashboard | Retrieve Inquiries | Dynamics | ⬜  | ⬜  |  | [link](Dashboard_RetrieveInquiries.md) |
-Dashboard | Submit Reply | Dynamics | ⬜  | ⬜  |  | [link](Dashboard_SubmitAReply.md) |
-Dashboard | Upload File | Dynamics | ⬜  | ⬜  |  | [link](Dashboard_UploadFile.md) |
-Form | Get Categories | Dynamics | ⬜  | ⬜  |  | [link](Form_GetCategories.md) |
-Form | Get Topics | Dynamics | ⬜  | ⬜  |  | [link](Form_GetTopics.md) |
-Form | Get SubTopics | Dynamics | ⬜  | ⬜  |  | [link](Form_GetSubTopics.md) |
-Form | Retrieve Inquiry Status | Dynamics |⬜  | ⬜  |  | [link](Form_RetrieveInquiryStatus.md) |
-Form | Submit Inquiry | Dynamics | ⬜  | ⬜  |  | [link](Form_SubmitInquiry.md) |
-Form | Upload File | Dynamics | ⬜  | ⬜  |  | [link](Form_UploadFile.md) |
-Form | Retrieve Banner Message | Dynamics | ⬜  | ⬜  |  | [link](Form_RetrieveBannerMessage.md) |
-Form | Medical Facilities | Lighthouse/Dynamics | ⬜  | ⬜  |  | [link](Form_MedicalFacilities.md) |
-Form | School Facility Codes | Dynamics | ⬜  | ⬜  |  | [link](Form_SchoolFacilityCodes.md) |
-Form | States | Dynamics | ⬜  | ⬜  |  | [link](Form_States.md) |
-Form | Zip Codes | Dynamics | ⬜  | ⬜  |  | [link](Form_ZipCodes.md) |
-Form | Canadian Provinces | Dynamics |⬜  | ⬜  |  | [link](Form_CanadianProvinces.md) |
+Status | GET /ping | Dynamics | 🟩 | 🟨 |  | [link](Status_Ping.md) |
+Dashboard | PUT /profile/new | VA Profile | ⬜ | ⬜ | Offloading to VA Profile  | [link](Dashboard_CreateMyProfile.md) |
+Dashboard | GET /profile | VA Profile | ⬜ | ⬜ | Offloading to VA Profile | [link](Dashboard_ReadMyProfile.md) |
+Dashboard | POST /profile | VA Profile | ⬜ | ⬜ | Offloading to VA Profile | [link](Dashboard_UpdateMyProfile.md) |
+Dashboard | GET /reply | Dynamics | ⬜ | ⬜ | | [link](Dashboard_RetrieveCorrespondence.md) |
+Dashboard | ~GET /inquiry~ | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_RetrieveInquiries.md) |
+Dashboard | PUT /reply/new | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_SubmitAReply.md) |
+Dashboard | PUT /attachment/new | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_UploadFile.md) |
+Form | GET /topics?[id] | Dynamics | ⬜ | ⬜ |  | [link](get-topics.md) |
+Form | GET /inquiry?[id] | Dynamics | ⬜ | ⬜ |  | [link](Form_RetrieveInquiryStatus.md) |
+Form | PUT /inquiry/new | Dynamics | ⬜ | ⬜ |  | [link](Form_SubmitInquiry.md) |
+Form | ~PUT /attachment/new~ | Dynamics | ⬜ | ⬜  |  | [link](Form_UploadFile.md) |
+Form | GET /alerts | Dynamics | ⬜ | ⬜ |  | [link](Form_RetrieveBannerMessage.md) |
+Form | Medical Facilities | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link](Form_MedicalFacilities.md) |
+Form | School Facility Codes | WEAMS(?)/Dynamics | ⬜ | ⬜ |  | [link](Form_SchoolFacilityCodes.md) |
+Form | GET /states | Dynamics | ⬜ | ⬜ |  | [link](Form_States.md) |
+Form | GET /zipcodes?[prefix] | Dynamics | ⬜ | ⬜ |  | [link](Form_ZipCodes.md) |
+Form | GET /provinces | Dynamics | ⬜ | ⬜ |  | [link](Form_CanadianProvinces.md) |
+Form | GET /search?[text] | Dynamics | ⬜ | ⬜ |  | link |
