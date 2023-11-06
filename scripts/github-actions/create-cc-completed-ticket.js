@@ -93,10 +93,11 @@ async function getSprintId() {
 }
 
 async function main() {
-  const repoId = await getVaGovTeamRepoId();
-  const sprintId = await getSprintId();
-  console.log('repoId', repoId);
-  console.log('sprintId', sprintId);
+  console.log('---->', GOV_TEAM_BOARD_ID);
+  // const repoId = await getVaGovTeamRepoId();
+  // const sprintId = await getSprintId();
+  // console.log('repoId', repoId);
+  // console.log('sprintId', sprintId);
 }
 
 main();
