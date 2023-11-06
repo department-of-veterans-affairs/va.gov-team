@@ -70,7 +70,7 @@ function findSprint(sprints) {
 
 async function getSprintId() {
   const query = `query {
-    workspace(id: ${GOV_TEAM_BOARD_ID}) {
+    workspace(id: \"${GOV_TEAM_BOARD_ID}\") {
       sprints (first: 100) {
         nodes {
           id
