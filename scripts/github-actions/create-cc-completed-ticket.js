@@ -78,6 +78,7 @@ async function getSprintId() {
         }
     }
   }}`
+  console.log(query);
   try {
     const  resp  = await axiosInstance.post('', {
       query
