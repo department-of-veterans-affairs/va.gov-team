@@ -10,7 +10,7 @@ We also keep additional design documentation [in this Github folder](https://git
 
 |Document|Description|Last updated|
 |:--|:--|:--|
-|[Design strategy: Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Design%20strategy%3A%20Phase%201.md)|Describes our vision and design approach|Oct 30, 2023|
+|[Design strategy: Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Design%20strategy%3A%20Phase%201.md)|Describes our vision and design approach|Nov 6, 2023|
 |[Field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)|Describes when to apply certain fields based on their rules|Oct 24, 2023|
 |[List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)|Describes when to disable or enable contact options by category and topic|Oct 13, 2023|
 |[Category, topic and subtopic labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md)|Lists the agreed names of the categories, topic and subtopics|Oct 17, 2023|
