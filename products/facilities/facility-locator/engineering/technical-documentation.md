@@ -96,6 +96,8 @@ Used for searches in which Facility type =
 - [Monitor of 401s](https://vagov.ddog-gov.com/monitors/174791)
 - This is the only source of 401s monitored for facilities related data on Vets-API.
 - This was added after [a slack thread](https://dsva.slack.com/archives/CJ162GDDJ/p1699018711640869) was monitoring 401s noted several spikes.
+- The rollup count per hour is still in flux for alerting because the historical preview is not equal to the alerting real-time values.
+- Right now there is a warning level of 105/hour and alert at 115/hour, but this will change.
 
 **Why /v1/facilities/va and not /facilities_api/v1/va**
 In Datadog, /facilities_api/v1/va yields the same data /v1/facilities/va does. The endpoint we use in the app is /v1/facilities/va and so for clarity's sake, this metric source was used.
