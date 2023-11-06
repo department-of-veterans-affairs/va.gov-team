@@ -2,6 +2,10 @@
 
 # 2023-11-02 Ask VA feedback
 
+## CAIA Reviewers
+- Eli, @eli-oat
+- Jamie
+
 **NOTE:** Because of the limited time available to CAIA accessibility specialists, this review wasn't able to thoroughly examine all aspects of the provided [sketch file](https://www.sketch.com/s/6a75d0a2-e484-4f1e-8675-ad5747a1a871/p/4E7790A9-059D-4A3B-A184-45F1E9434CDB/canvas#Comment). If you have any further questions about anything we've reviewed or missed, please don't hesitate to reach out.
 
 ## General considerations
