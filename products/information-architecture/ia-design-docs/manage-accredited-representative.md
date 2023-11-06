@@ -27,54 +27,63 @@ Up-to-date user flow found in mural here: https://app.mural.co/t/departmentofvet
 Google analytics SEO Info:
 ![SEO Info](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/c65f8312-3f34-441b-a17a-e9fece13e797)
 
-Also available here as a [google doc](https://docs.google.com/spreadsheets/d/1Kdn9S7UvAzhGUylHzffDCVVAj3j_bLz-PTKsqaj8Is8/edit#gid=0) -- need to request access, sorry! And shared with the team as an excel file in their slack channel.
+Analytics available here as a [google doc](https://docs.google.com/spreadsheets/d/1Kdn9S7UvAzhGUylHzffDCVVAj3j_bLz-PTKsqaj8Is8/edit#gid=0) -- need to request access, sorry! And shared with the team as an excel file in their slack channel.
 
 ## <a name="map"></a>Page structure<br>
-![Page structure from mural](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/c5f8fbc3-513e-4c33-805b-c425f5e7f12e)
+![Accredited rep page structure](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/7b581f3c-5941-404c-b16a-ae39f356e214)
+
 The up-to-date page structure can be viewed in [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692888741111/2474c0612887653142ab991d234898b6968dbf0e?wid=0-1697145057961).
 
 The new tool will live under ROOT since it supports all benefit types. 
-- It will have a tool landing page with it’s own URL (va.gov/manage-accredited-rep/ above, though that URL is TBD and may change based on content recs. See URL stuff below for final version). 
-- It will also have a base URL for the tool itself, starting from the search screen (va.gov/manage-accredited-rep/find-and-appoint-a-representative/ above, though same not. That may change. We’re hoping the structure itself wont change).
+- It will have a tool landing page with it’s own URL - va.gov/**get-help-from-accredited-representative**
+- The 'find a rep' tool will have it's own URL under the landing page - va.gov/get-help-from-accredited-representative/**find-rep**
 - The pages within the flow (blue stickies above) may change depending on what steps the team decides to include. The team can change those ‘step’ urls themselves, but try to make them plain language!
-- Rationale: This 2-url structure is how other tools are structured on va.gov. Ex: claim status tool. 
+- The MVP will only include the 'find a rep' tool, but once we add the 'appoint a rep' tool, it will live as a separate url under the landing page. Ex: va.gov/get-help-from-accredited-representative/**appoint-rep**
 
 
 ## <a name="url"></a>URLs and breadcrumbs
 **1) R+S Page - MOVE**
 - URL: TBD depending on H1 that content lands on.
 - Breadcrumb: Home > Resources and support > [H1 TBD by content]
-- Notes:  We will migrate an existing disability page (va.gov/disability/get-help-filing-claim) to resources and support, because it applied to all benefits, not just disability. The entry point in the disability left nav and hub pages will remain, they will just need to be edited in Drupal to point to the new R+S url.
+- Notes:  We will migrate the existing disability page (va.gov/disability/get-help-filing-claim) to resources and support, because it applies to all benefits, not just disability. The entry points in the disability left nav and hub pages will remain, they will just need to be edited in Drupal to point to the new landing page url (instead of the new R+S url)
 
-**2) Tool Landing Page - NEW**
-- URL: TBD based on H1, but potential option just to illustrate the point is va.gov/**manage-accredited-representative**
-- Breadcrumb: Home > [H1 TBD by content]
+**2) Accredited Rep Landing Page - NEW**
+- URL: va.gov/**get-help-from-accredited-representative**
+- Breadcrumb: Home > [Match H1 exactly]
 - Notes: This is the unauth landing page for the tool, similar to this one for claim status tool: https://www.va.gov/claim-or-appeal-status/
 
-**3) Tool Base URL - NEW**
-- URL: TBD based on H1, but potential option just to illustrate the point is va.gov/manage-accredited-representative/**find-and-appoint-a-representative/search**
-- Breadcrumb:  Home > [H1 of unauth tool landing page TBD by content] > [H1 TBD by content]
-- Notes: Note that the ‘find-and-appoint-a-representative’ slug is an empty directory, but this is how the other tools work, so this is what we’re going with. So when implementing, devs will need to redirect /find-and-appoint-a-rep to /find-and-appoint-a-rep/search
+**3) Find a rep Base URL - NEW**
+- URL: va.gov/get-help-from-accredited-representative/**find-rep**
+- Breadcrumb:  Home > [H1 of accredted rep landing page] > [H1 of find a rep tool]
+
 
 ## <a name="nav"></a>Entry points <br>
-- The main entry point to the tool is the R+S landing page
-- Aside from that, there are MANY crosslinking opportunities across va.gov. These opportunities are fleshed out in this [mural here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692888741111/2474c0612887653142ab991d234898b6968dbf0e?wid=3-1696370591178). All of these different entry points will point to the R+S page, which explains more about what accredited reps are and when to use them. The R+S page will point to the tool landing page, which describes how to use the tool. And then the tool is the tool!
+- For the MVP, the main entry points of the tool are: the existing left nav/hub links from disability and decision reviews.
+- Aside from that, there are MANY crosslinking opportunities across va.gov. These opportunities are fleshed out in this [mural here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692888741111/2474c0612887653142ab991d234898b6968dbf0e?wid=3-1696370591178). All of these different entry points will point to the accredited rep landing page.
 - Closer to implementation, the content team will work to update the relevant entry points with updated link labels and urls.  
 
-![user journey with multiple entry points circled](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/1ea147ae-8b2e-4ab8-9b46-8b7926559611)
+![lots of entry points](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/97e06e7c-abff-4192-89c0-05873ef50615)
 
 Additionally, we identified a need for entry points potentially in the Profile (where a veteran may go to view current rep), and MyVA (where they might see an application for appointing a rep in progress). 
 
 ![User journey with 'view my current rep' task](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/f146286a-70ae-4baf-af60-bb45097684d4)
 
+Note: the accredited rep team thinks that the current entry point plan wont provide enough access for veterans due to 2 factors: 1) 70% of claims are submitted w/ accredited rep support, which is an overwhelming majority that might need this tool [Source](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/claims-with-representatives-analytics.xlsx) and 2) In a previous study that relied on existing navigation, only 1/10 veterans were able to find the accredited rep info [Source](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md). Given the demonstrated need and the nav study failure, they think we should bump these pages up. 
+
+Here was our IA response:
+1.The main menu and homepage are super political pages — there’s a lot of stakeholder review that we have to go through to add anything to those, so in general we want to be 100% sure that it belongs there.
+2.The typical process for new tools is to wait 3-6 months after launch to 100% of users to evaluate traffic and then determine whether the page needs to be bumped up in nav hierarchy, which we can totally do.
+3.One way to think about the navs, is that the left nav contains all of the pages in a hub. The hub page contains the top 10 pages by traffic in each spoke (get, manage, and more). And then the mega menu contains the top 5 pages in ‘get’ and ‘manage’.
+4.The fact that users are failing the nav research is important, but if 70% of claims have an accredited rep, it also means users are finding those capabilities successfully.
+5.So in summary, **we think we should go with the above entry point plan, and then in the 3-6 months reevaluate traffic to determine if we want to move the pages up**.
 
 ## <a name="redirects"></a>Redirects <br>
 | Current URL                                                             | Redirect to                                       | Notes                                                                   |   |   |
 |-------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------------------------------------|---|---|
-| https://www.va.gov/ogc/apps/accreditation/index.asp and all child pages | Tool landing page, url TBD                        | The ‘current URL’ is the existing find a rep tool in eBenefits. We will |   |   |
-| https://benefits.va.gov/vso/index.asp                                   | Relocated accredit rep info page in R+S (url TBD) | Not sure if we want this redirect or not, need to check with content    |   |   |
-| https://www.va.gov/disability/get-help-filing-claim/                    | Relocated accredit rep info page in R+S (url TBD) |                                                                         |   |   |
-| All existing entry points in drupal and product pages                   | Relocated accredit rep info page in R+S (url TBD) |                                                                         |   |   |
+| https://www.va.gov/ogc/apps/accreditation/index.asp and all child pages | va.gov/get-help-from-accredited-representative                       | The ‘current URL’ is the existing find a rep tool in eBenefits. Do we actually want to redirect this? What's happening to the old tool? |   |   |
+| https://benefits.va.gov/vso/index.asp                                   | va.gov/get-help-from-accredited-representative   | Not sure if we want this redirect or not, need to check with content    |   |   |
+| https://www.va.gov/disability/get-help-filing-claim/                    | va.gov/get-help-from-accredited-representative   |                                                                         |   |   |
+| All existing entry points in drupal and product pages                   | va.gov/get-help-from-accredited-representative   |                                                                         |   |   |
 
 **PRODUCT TEAM!**! You need to submit a [redirect ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+jilladams%2C+RLHecht&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) once go-live approaches. Follow the instructions here. Basically the process is I check that they're accurate, and then pass over to the public websites team to actually implement the redirect. This is a frequent sticking point in the process, so pls ask if you're confused!
 
@@ -85,7 +94,7 @@ There are currently 4 best bets set up around this project
 
 | Best Bet                                             | Changes needed?                                                              | What changes                                                                   |   |   |
 |------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---|---|
-| https://benefits.va.gov/vso/index.asp                | Yes                                                                          | Remove this best bet and set up an identical one for the new tool landing page |   |   |
+| https://benefits.va.gov/vso/index.asp                | Yes                                                                          | Remove this best bet and set up an identical one for the new landing page |   |   |
 | https://www.va.gov/disability/get-help-filing-claim/ | Yes                                                                          | Remove this best bet and set up an identical one for the new R+S page          |   |   |
 | va.gov/find-forms/about-form-21-22/                  | No - the form isn’t changing with the MVP, so no need to change the best bet | NA                                                                             |   |   |
 | va.gov/find-forms/about-form-21-22a/                 | No - the form isn’t changing with the MVP, so no need to change the best bet | NA                                                                             |   |   |
