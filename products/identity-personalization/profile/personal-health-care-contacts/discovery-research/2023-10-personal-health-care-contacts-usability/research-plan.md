@@ -163,9 +163,6 @@ Some participants:
 > Answering **only** "I do not know" or "I don't receive any benefits or services through VA" disqualifies participants.
 > Please recruit 8 who include "health care benefits" in their response, and 4 that select any combination of options that **does not** include "health care benefits".
 
-6. Do you have a disability rating?
- >_(Answering `yes` would qualify the participant to satisfy criteria for 4 participants who do not have health care, but have a disability rating. If no, disqualify)_
-
 ## Timeline
 
 ### Prepare
