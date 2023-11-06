@@ -15,8 +15,8 @@
 
 ## Meeting Action Items 🎬
 - [ ] Steps needed in form (**scope**)
-- [ ] Action Item 2
-- [ ] Action Item 3
+- [ ] Set up Teask Areas (Terry)
+- [ ] a11y sketch file reviews (SK?)
 - [ ] Action Item 4
 - [ ] Action Item 5
 
