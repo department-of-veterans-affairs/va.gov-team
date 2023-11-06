@@ -113,11 +113,9 @@ We also assumed the following:
 
 ## Details of Findings 
 
-[NOTE TO SELF: ADD LABELS]
-
 **Finding 1**
 
-Labels: label 1, label 2 
+Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
 The vast majority of participants were able to complete tasks effectively using the Profile Hub and had positive things to share about their experience with it.
 
@@ -133,7 +131,7 @@ The vast majority of participants were able to complete tasks effectively using 
 
 **Finding 2**
 
-Labels: label 1, label 2 
+Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
 **Participants were effectively split in how they chose to navigate to their Profile**. 4 participants used the authenticated menu, and 5 participants used the profile link on My VA. While’ My VA’s profile link treatment is very simple, it is very effective. 
 
@@ -143,7 +141,7 @@ Labels: label 1, label 2
 
 **Finding 3**
 
-Labels: label 1, label 2 
+Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
 **Participants used a variety of methods for switching from one Profile section to another and navigating back to the Profile hub page**. While a few participants used the breadcrumbs, a few used the back button, authenticated menu Profile link, or a keyboard shortcut to the previous page.
 
@@ -155,7 +153,7 @@ Labels: label 1, label 2
 
 **Finding 4**
 
-Labels: label 1, label 2 
+Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
 Deep links, such as the `Learn how to request your DD214 and other military records` link are useful.  The original question the moderator asked participants did not include the term “DD214”, so most reactions to this question involved navigating to the Military information section. Wanting to pull the focus back to deep links on the hub page, the moderator pivoted a few sessions into the study, and switched to asking directly how they’d go about requesting their DD214. Participants used the Profile hub deep link right away.
 
@@ -171,7 +169,7 @@ Once on their Military information section, participants were prompted to think 
 
 **Finding 5**
 
-Labels: label 1, label 2 
+Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
 Participants that used their authenticated menu for navigation had more success in finding links to dependents and/or letters than participants who weren't aware of their authenticated menu until prompted by the moderator.
 
@@ -182,7 +180,7 @@ When participants were asked questions around dependents and letters to see whet
 
 **Finding 6**
 
-Labels: label 1, label 2 
+Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
 Both dependents and letters were associated with a veteran’s profile.
 
@@ -200,7 +198,7 @@ Not all participants had dependents, but when asked where P4 would expect to add
 
 **Finding 7**
 
-Labels: label 1, label 2 
+Labels: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile); [AST: Screen readers](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/AST%3A%20Screen%20readers); [SFTW: Screenreader](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/SFTW%3A%20Screenreader)
 
 One screen reader participant (P13) encountered difficulty with the body and link text within the cards, the result of a combination of screen reader issues and repetitive word choices. Using ‘manage’ at the beginning of the description gives the impression that it might be a link, and when navigating to the next item (the link) sounds like a repetition. In addition, P13 did not always hear VoiceOver say “link” after the link text.
 
@@ -210,7 +208,7 @@ One screen reader participant (P13) encountered difficulty with the body and lin
 
 **Finding 8**
 
-Labels: label 1, label 2 
+Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
 8/9 expected their emergency contact and next of kin information to be in their Profile (1/9 ran out of time). Participants said it would make sense in personal or contact information, or a special section. 
 - Participants listed a number of reasons why they would expect VA to reach out: primarily for medical reasons, although one participant mentioned he would expect VA to reach out if compensation deposits were being rejected by his bank. 
