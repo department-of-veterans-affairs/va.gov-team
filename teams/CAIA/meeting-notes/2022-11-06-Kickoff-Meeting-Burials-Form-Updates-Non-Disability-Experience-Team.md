@@ -1,21 +1,21 @@
-# CAIA Kickoff: [Team Name Goes Here]
+# CAIA Kickoff: Benefits and Claims | Lifestage Benefits Crew | Non-Disability Experience
 ## Meeting Details
-- **Date**: [Day], [Month] [Date], [Year]
-- **Time**: [00:00] – [00:00] [a.m./p.m.] [Timezone]
+- **Date**: Monday, Nov. 6, 2023 
+- **Time**: 4:30 p.m. Eastern
 - [Zoom Link](x)
 - [Google Doc Version](x) (Access Required)
 - [Microsoft Word Version](x)
 
 ## Starting the CAIA Process
 ### Process Initiated
-- [ ] Intake Request - this forms the basis of our partnerships with you and becomes an Epic.
+- [x] Intake Request - this forms the basis of our partnerships with you and becomes an Epic. [Review Burial Form Updates> from <Benefits and Claims Non-Disability Experience Team #68984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68984)
 - [ ] We will spin off our tickets within that Epic ticket:
     - [ ] Content
     - [ ] IA
     - [ ] Accessibility
 
 ## Meeting Action Items 🎬
-- [ ] Action Item 1
+- [ ] Steps needed in form (scope)
 - [ ] Action Item 2
 - [ ] Action Item 3
 - [ ] Action Item 4
@@ -23,33 +23,38 @@
 
 
 ## Resources 🔗
-- **[xx/xx/20xx] Opened Collaboration Cycle Ticket: **
-- [ ] Collaboration Cycle Ticket [#NumberLinked] - if applicable
-    - [ ] Design Intent ticket (TBD - as of Kickoff Meeting)
+- **[09/08/2023 Opened Collab Cycle Ticket**
+- [ ] [Collaboration Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65251)
+    - [x] Design Intent ticket
     - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
 
 ## CAIA Tickets 🎟️
-- [ ] [Epic] Name of Epic/Intake Ticket 
-    - [ ] Accessibility Ticket
-    - [ ] IA Ticket
-    - [ ] Content Ticket
+- [x] [Epic] Name of Epic/Intake Ticket 68984
+    - [ ] Accessibility Ticket **- requesting support**
+    - [ ] IA Ticket **- requesting support**
+    - [ ] Content Ticket **- requesting support**
 
 ## Assets
-- [Product outline](x)
-- [User flows](x)
-- [Wireframes](x)
-- [Prototype](x)
-- [Other Items](x)
+- Product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/2019%20files/README.md
+- User flows: https://sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7
+- Prototype or mockups: https://sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7
+- If this is in Sketch, which version or specific page should we focus on? Within each section, provide feedback on the "proposed" version of the screens.
+- Content source of truth: Within Sketch file.
+-Research plan: DNA
+- Any epics/issues that may be helpful: Update Burial 530 Online Form
+- Link to testing accounts (please do not paste them in this ticket): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-staging-test-accounts.md
 
 
 ## Meet the Teams
 ### Kickoff Team Partner
-- Team member 1
-- Team member 2
-- Team member 3
-- Team member 4
-- Team member 5
+- Team name: Benefits and Claims | Lifestage Benefits Crew | Non-Disability Experience
+- OCTO-DE product owner: Emily Theis
+- Product manager: Laura Steele
+- Designer: Fiorella Glavez
+- Accessibility specialist: none
+- Content writer: none
+- Slack channel: benefits-non-disability
 
 ### CAIA Teams
 #### CAIA
@@ -101,6 +106,19 @@
 - Best bets template
 
 ## Discussion Notes✍️
+
+Describe what you need in a few sentences:
+
+We would like CAIA to review the critical updates we are making to the 530EZ burial form, so it can be successfully processed.
+
+We ask that the scope of CAIA's review be limited to the form pages we are touching, so we can quickly release a working MVP version of the updated form. Future work will focus on taking a more comprehensive look at the form to determine additional enhancements, replace depreciated design components, and address accessibility issues.
+
+We intend to fix defect-0 and defect-1 level A11y errors, but we would like to limit those fixes to the pages we are touching with these field updates.
+The current online form is missing critical fields that were added to the paper form over the last 2 years. These missing fields are causing significant processing delays and putting additional burden on Veterans.
+
+The changes include adding missing fields and removing depreciated fields.
+
+Fixing the 530 form is a high-priority for OCTO and the VBA.
 
 ### Project
 - Notes
