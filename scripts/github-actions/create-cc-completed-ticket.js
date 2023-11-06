@@ -69,8 +69,8 @@ function findSprint(sprints) {
 }
 
 async function getSprintId() {
-  const query = `query GetSprints($workspaceId: ID!) {
-    workspace(id: $workspaceId) {
+  const query = `query {
+    workspace(id: "${GOV_TEAM_BOARD_ID}") {
       sprints (first: 100) {
         nodes {
           id
@@ -80,10 +80,7 @@ async function getSprintId() {
   }}`
   try {
     const { data } = await axiosInstance.post('', {
-      query,
-      variables: {
-        workspaceId: GOV_TEAM_BOARD_ID
-      }
+      query
     });
     const sprints = data.data.workspace.sprints.nodes;
     const id = findSprint(sprints);
