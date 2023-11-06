@@ -65,7 +65,7 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 - Laura O'Shea, Office of Policy Overview at VBA (laura.oshea@va.gov)
 - Jamie Statton, Office of Policy Overview at VBA (jamie.statton@va.gov)
 
-### Pilot MVP editors
+### **Pilot MVP editors:**
 as of 11/6/2023 from Tanekwa to Michelle
 
 #### Albuquerque
