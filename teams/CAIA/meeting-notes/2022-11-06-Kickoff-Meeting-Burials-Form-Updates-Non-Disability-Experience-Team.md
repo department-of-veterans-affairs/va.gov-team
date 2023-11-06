@@ -37,14 +37,13 @@
     - [ ] Content Ticket **- requesting support**
 
 ## Assets
-- Product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/2019%20files/README.md
-- User flows: https://sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7
-- Prototype or mockups: https://sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7
-- If this is in Sketch, which version or specific page should we focus on? Within each section, provide feedback on the "proposed" version of the screens.
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/2019%20files/README.md)
+- [User flows](https://sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7)
+- [Prototype or mockups](https://sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7)
 - Content source of truth: Within Sketch file.
--Research plan: DNA
-- Any epics/issues that may be helpful: Update Burial 530 Online Form
-- Link to testing accounts (please do not paste them in this ticket): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-staging-test-accounts.md
+- Research plan: DNA
+- **Any epics/issues that may be helpful:** [Update Burial 530 Online Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63351)
+- [Link to testing accounts (please do not paste them in this ticket)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-staging-test-accounts.md)
 
 
 ## Meet the Teams
