@@ -16,6 +16,39 @@ const axiosInstance = axios.create({
   }
 });
 
+function extract(first, last, issue) {
+  const [_, _name] = issue.split(first);
+  const [name] = _name.split(last);
+  const target = name.replace(/[\n\r]/g, '');
+  return target;
+}
+
+function parse(issue) {
+  const teamName = extract('### VFS team name', '### Product name', issue);
+  const productName = extract('### Product name', '### Feature name', issue);
+  const featureName = extract('### Feature name', '### GitHub label for product', issue);
+  return { teamName, productName, featureName };
+}
+
+async function getTitleInfo(number) {
+  try {
+    const URL = `${ENDPOINT}${number}`
+    const {data} = await axios.get(URL, {
+      headers: HEADERS
+    });
+
+    const { teamName, productName, featureName } = parse(data.body);
+    let titleInfo = `Completed: Kickoff - ${teamName} - ${productName}`;
+    if (productName !== featureName && featureName) {
+      titleInfo = `${titleInfo}/${featureName}`
+    }
+    return titleInfo;
+  } catch (error) {
+    console.log(error);
+    process.exitCode = 1;
+  }
+}
+
 async function getVaGovTeamRepoId() {
   const query = `query {
     viewer {
