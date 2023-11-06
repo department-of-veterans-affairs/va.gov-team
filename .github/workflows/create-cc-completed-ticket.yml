@@ -27,8 +27,8 @@ jobs:
 
       #     echo "ZenHub API Response: $RESPONSE"
 
-      # - name: Checkout
-      #   uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
