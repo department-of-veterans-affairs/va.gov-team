@@ -81,13 +81,12 @@ async function getSprintId() {
   }}`
   console.log(query);
   try {
-    const  resp  = await axiosInstance.post('', {
+    const { data }  = await axiosInstance.post('', {
       query
     });
-    console.log('----->', resp.data.errors);
-    // const sprints = data.data.workspace.sprints.nodes;
-    // const id = findSprint(sprints);
-    // return id;
+    const sprints = data.data.workspace.sprints.nodes;
+    const id = findSprint(sprints);
+    return id;
   } catch (error) {
     console.log(error);
   }
