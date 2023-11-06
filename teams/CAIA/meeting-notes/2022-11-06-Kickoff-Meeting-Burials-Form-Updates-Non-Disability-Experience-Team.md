@@ -15,7 +15,7 @@
     - [ ] Accessibility
 
 ## Meeting Action Items 🎬
-- [ ] Steps needed in form (scope)
+- [ ] Steps needed in form (**scope**)
 - [ ] Action Item 2
 - [ ] Action Item 3
 - [ ] Action Item 4
@@ -24,8 +24,8 @@
 
 ## Resources 🔗
 - **[09/08/2023 Opened Collab Cycle Ticket**
-- [ ] [Collaboration Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65251)
-    - [x] Design Intent ticket
+- [ ] [Collaboration Cycle Ticket 65251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65251)
+    - [x] Design Intent ticket - done
     - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
 
@@ -104,6 +104,8 @@
 - Kick-off meetings
 - Redirect template
 - Best bets template
+
+<hr>
 
 ## Discussion Notes✍️
 
