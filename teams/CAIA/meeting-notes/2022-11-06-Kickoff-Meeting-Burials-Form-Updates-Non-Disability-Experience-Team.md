@@ -20,6 +20,8 @@
 - [ ] Action Item 4
 - [ ] Action Item 5
 
+🔗[Jump to the bottom to take notes in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/meeting-notes/2022-11-06-Kickoff-Meeting-Burials-Form-Updates-Non-Disability-Experience-Team.md#discussion-notes%EF%B8%8F)
+
 
 ## Resources 🔗
 - **[09/08/2023 Opened Collab Cycle Ticket**
