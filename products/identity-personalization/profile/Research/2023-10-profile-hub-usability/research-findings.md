@@ -100,16 +100,16 @@ We also assumed the following:
 
 ## Key Findings
 
-- 1) Nearly all participants were able to complete tasks effectively using the Profile Hub. 
-- 2) Participants were effectively split in how they navigated to their Profile. 4/9 participants used the authenticated menu, and 5/9 participants used the profile link on My VA. 
-- 3) Participants used a variety of methods for switching from one Profile section to another and navigating back to the Profile hub page. 
+1. Nearly all participants were able to complete tasks effectively using the Profile Hub. 
+2. Participants were effectively split in how they navigated to their Profile. 4/9 participants used the authenticated menu, and 5/9 participants used the profile link on My VA. 
+3. Participants used a variety of methods for switching from one Profile section to another and navigating back to the Profile hub page. 
 	- They switched from one Profile section to another using mostly side navigation links, but also breadcrumbs and even the authenticated menu profile link. 
 	- They navigated back to the Profile hub from a given section back with  breadcrumbs, the back button, the authenticated menu profile link, or a keyboard shortcut to the previous page.
-- 4) Deep links like the DD214 link are useful. Participants also mentioned a few things that would be helpful in enhancing their Military information. Duty stations, duty status (active, reserves), and deployment locations – ultimately anything that’s asked for on a claim form should be here.
-- 5) Participants that used their authenticated menu for navigation had more success in finding links to dependents and/or letters than participants who weren't aware of their authenticated menu until prompted by the moderator.
-- 6) Participants associated dependents and letters with their profile. 5/9 participants thought letters belonged in their profile, since letters are associated with them, and while not all participants had dependents, at least one participant expected to see that information in their profile.
-- 7) One screen reader participant encountered difficulty with the body and link text within the cards, the result of a combination of screen reader issues and repetitive word choices.
-- 8) Participants expected their emergency contact and next of kin information to be in their profile.
+4. Deep links like the DD214 link are useful. Participants also mentioned a few things that would be helpful in enhancing their Military information. Duty stations, duty status (active, reserves), and deployment locations – ultimately anything that’s asked for on a claim form should be here.
+5. Participants that used their authenticated menu for navigation had more success in finding links to dependents and/or letters than participants who weren't aware of their authenticated menu until prompted by the moderator.
+6. Participants associated dependents and letters with their profile. 5/9 participants thought letters belonged in their profile, since letters are associated with them, and while not all participants had dependents, at least one participant expected to see that information in their profile.
+7. One screen reader participant encountered difficulty with the body and link text within the cards, the result of a combination of screen reader issues and repetitive word choices.
+8. Participants expected their emergency contact and next of kin information to be in their profile.
 
 ## Details of Findings 
 
