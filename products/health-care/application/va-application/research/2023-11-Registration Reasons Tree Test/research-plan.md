@@ -177,6 +177,13 @@ November November 2023
 Kickoff call requested
 Preferred date/time: Novmeber 9, 2023 at 4pm ET / 1pm PT
 
+Kikcoff call participants:
+- Jessica Stump (jessica.stump@adhocteam.us)
+- Katelyn Caillouet (katelyn.caillouet@agile6.com)
+- Hieu Vo (hieu.vo@agile6.com)
+- Angela Agosto (angela.agosto@adhocteam.us)
+- Kristen McConnell (kristen.mcconnell@va.gov)
+
 
 ### Prepare
 
