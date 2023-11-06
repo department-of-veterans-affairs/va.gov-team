@@ -16,31 +16,31 @@ jobs:
     #   ISSUE_NUMBER: ${{ github.event.issue.number }}
     #   EVENT_LABEL: ${{ github.event.label.name }}
     steps:
-      - name: Get va.gov-team Repository ID
-        run: |
-          ZENHUB_API_KEY="${{ secrets.ZENHUB_API_KEY }}"
-          QUERY='{
-            "query": "query { viewer { id searchWorkspaces(query: \"Platform Governance Team\") { nodes { id name repositoriesConnection { nodes { id name } } } } } }"
-          }'
-
-          RESPONSE=$(curl -s -X POST "https://api.zenhub.com/public/graphql" -H "Authorization: Bearer ${{ secrets.ZENHUB_API_KEY }}" -d "$QUERY")
-
-          echo "ZenHub API Response: $RESPONSE"
-
-      # - name: Checkout
-      #   uses: actions/checkout@v3
-
-      # - name: Set up Node.js
-      #   uses: actions/setup-node@v2
-      #   with:
-      #     node-version: '18'
-
-      # - name: Install axios
+      # - name: Get va.gov-team Repository ID
       #   run: |
-      #     npm i axios
+      #     ZENHUB_API_KEY="${{ secrets.ZENHUB_API_KEY }}"
+      #     QUERY='{
+      #       "query": "query { viewer { id searchWorkspaces(query: \"Platform Governance Team\") { nodes { id name repositoriesConnection { nodes { id name } } } } } }"
+      #     }'
 
-      # - name: Run  script
-      #   run: node ./scripts/github-actions/create-cc-completed-ticket.js
+      #     RESPONSE=$(curl -s -X POST "https://api.zenhub.com/public/graphql" -H "Authorization: Bearer ${{ secrets.ZENHUB_API_KEY }}" -d "$QUERY")
+
+      #     echo "ZenHub API Response: $RESPONSE"
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+
+      - name: Install axios
+        run: |
+          npm i axios
+
+      - name: Run  script
+        run: node ./scripts/github-actions/create-cc-completed-ticket.js
 
 
       

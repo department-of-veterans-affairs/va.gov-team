@@ -46,6 +46,7 @@ async function getVaGovTeamRepoId() {
 }
 
 async function main() {
+  console.log("length is", ZENHUB_API_KEY.length);
   const repoId = await getVaGovTeamRepoId();
   console.log('repoId', repoId);
 }
