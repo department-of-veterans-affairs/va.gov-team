@@ -28,8 +28,8 @@ Dashboard | GET /profile | VA Profile | ⬜ | ⬜ | Offloading to VA Profile | [
 Dashboard | POST /profile | VA Profile | ⬜ | ⬜ | Offloading to VA Profile | [link](Dashboard_UpdateMyProfile.md) |
 Form | Medical Facilities | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link](Form_MedicalFacilities.md) |
 Form | School Facility Codes | WEAMS(?)/Dynamics | ⬜ | ⬜ |  | [link](Form_SchoolFacilityCodes.md) |
-Form | GET /states | Dynamics | ⬜ | ⬜ |  | [link](Form_States.md) |
-Form | GET /zipcodes?[prefix] | Dynamics | ⬜ | ⬜ |  | [link](Form_ZipCodes.md) |
-Form | GET /provinces | Dynamics | ⬜ | ⬜ |  | [link](Form_CanadianProvinces.md) |
+Form | GET /states | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link](Form_States.md) |
+Form | GET /zipcodes?[prefix] | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link](Form_ZipCodes.md) |
+Form | GET /provinces | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link](Form_CanadianProvinces.md) |
 Dashboard | ~GET /inquiry~ | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_RetrieveInquiries.md) |
 Form | ~PUT /attachment?[id]~ | Dynamics | ⬜ | ⬜  |  | [link](Form_UploadFile.md) |
