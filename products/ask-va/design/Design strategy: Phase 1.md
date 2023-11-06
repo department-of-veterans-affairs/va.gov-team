@@ -7,7 +7,7 @@ Last updated by @beckyphung on November 6, 2023
 
 ### Problem statement
 
-Veterans, dependents, or other submitters need to be able to easily and intuitively ask the Department of Veterans Affairs a question online [[1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/ask-va-phase-1-product-outline.md)].
+Veterans, dependents, or other submitters need to be able to easily and intuitively ask the Department of Veterans Affairs a question online [[1]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/ask-va-phase-1-product-outline.md#problem-statement).
 
 ### Desired outcomes
 
