@@ -42,10 +42,10 @@ The new tool will live under ROOT since it supports all benefit types.
 
 
 ## <a name="url"></a>URLs and breadcrumbs
-**1) R+S Page - MOVE**
+**1) R+S Page - New**
 - URL: TBD depending on H1 that content lands on.
 - Breadcrumb: Home > Resources and support > [H1 TBD by content]
-- Notes:  We will migrate the existing disability page (va.gov/disability/get-help-filing-claim) to resources and support, because it applies to all benefits, not just disability. The entry points in the disability left nav and hub pages will remain, they will just need to be edited in Drupal to point to the new landing page url (instead of the new R+S url)
+- Notes:  We will migrate the existing disability page content (found on va.gov/disability/get-help-filing-claim) to resources and support, because the information applies to all benefits, not just disability. The entry points in the disability left nav and hub pages will remain, they will just need to be edited in Drupal to point to the new landing page url (instead of the new R+S url).
 
 **2) Accredited Rep Landing Page - NEW**
 - URL: va.gov/**get-help-from-accredited-representative**
