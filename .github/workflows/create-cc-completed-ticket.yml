@@ -7,11 +7,11 @@ jobs:
   ticket-creation:
     name: Create Completed Ticket
     runs-on: ubuntu-latest
-    if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && (github.event.label.name == 'kickoff' || github.event.label.name === 'design-intent' || github.event.label.name === 'midpoint-review' || github.event.label.name === 'staging-review')}}
-    env:
-      ISSUE_TITLE: ${{ github.event.issue.title }}
-      ISSUE_NUMBER: ${{ github.event.issue.number }}
-      EVENT_LABEL: ${{ github.event.label.name }}
+    # if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && (github.event.label.name == 'kickoff' || github.event.label.name == 'design-intent' || github.event.label.name == 'midpoint-review' || github.event.label.name == 'staging-review')}}
+    # env:
+    #   ISSUE_TITLE: ${{ github.event.issue.title }}
+    #   ISSUE_NUMBER: ${{ github.event.issue.number }}
+    #   EVENT_LABEL: ${{ github.event.label.name }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
