@@ -44,9 +44,14 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 #### Usable by everyone
 
-**Everyone should be able to use Ask VA.** We’ll make all design decisions with accessibility front of mind. For example, we'll avoid designing conditionals or updates that are made to the form *while* the user is still on the page. When we do research we’ll seek to include disabled Veterans, people who use assistive technology, Veterans and dependents, and people who submit a question on behalf of someone else.
+**Everyone should be able to use Ask VA.** We’ll make all design decisions with accessibility front of mind. This looks like: 
+- Avoiding designing conditionals or updates that are made to the form *while* the user is still on the page.
+- When we do research, we’ll seek to include disabled Veterans, people who use assistive technology, Veterans and dependents, and people who submit a question on behalf of someone else.
+<br>
 
-**People should be able to use Ask VA on their mobile devices, in addition to their laptop or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context. This is one reason we'll start by asking one thing per page in the form [[5](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)]. It's also why we will avoid modals or pop-ups.
+**People should be able to use Ask VA on their mobile devices, in addition to their laptop, tablet, or desktop.** We’ll use a mobile-first approach to designing Ask VA, which will require us to make decisions about what information and choices are most critical, given a smaller and more constrained context. This looks like: 
+- Asking one thing per page in the form [[5](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)].
+- It's also why we will avoid modals or pop-ups.
 
 #### Simple
 
