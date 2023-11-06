@@ -1,6 +1,6 @@
 # Comparing profile fields
 
-Last updated by @tygindraux on October 31, 2023
+Last updated by @beckyphung on November 6, 2023
 
 This document outlines the data in VA Profile (interface) compared to the Ask VA (AVA) profile data stored in the CRM. 
 
@@ -18,7 +18,7 @@ This document outlines the data in VA Profile (interface) compared to the Ask VA
 |VA Profile fields|Ask VA Profile fields|
 |:--|:--|
 |Legal name|First Name, Middle Name, Last Name|
-|Date of birth||
+|Date of birth|Veteran's Date of Birth (MM/DD/YYYY)|
 |Preferred name|Preferred Name|
 |Gender identity|Gender|
 |Disability rating|
