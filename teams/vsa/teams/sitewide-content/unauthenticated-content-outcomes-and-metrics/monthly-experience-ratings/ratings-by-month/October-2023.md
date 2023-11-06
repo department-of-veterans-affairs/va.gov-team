@@ -39,7 +39,12 @@ All pages have ratings of 2 or below.
    
 ### 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
 
-1. 
+1. [How to get your medical records from your VA health facility](www.va.gov/resources/how-to-get-your-medical-records-from-your-va-health-facility/) ()% good out of 11 total responses)
+2. [Can I get a replacement GI Bill certificate of eligibility?](www.va.gov/resources/can-i-get-a-replacement-gi-bill-benefit-certificate-of-eligibility/) (19% good out of 37 total responses)
+3. [How to file a VA travel reimbursement claim online](www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/) (20% good out of 75 total responses)
+4. [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (22% good out of 176 total responses)
+5. [DS Logon FAQs](www.va.gov/resources/ds-logon-faqs/) (23% good out of 29 total responses)
+   
 ### 5 resources and support pages with the highest volume of total responses and >75% "good" rating
 
 1. 
