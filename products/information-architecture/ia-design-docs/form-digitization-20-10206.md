@@ -44,6 +44,7 @@ User flows | Your content or feature supports all necessary user flows and scena
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
+This is a list of proposed entry points. We recommend checking page performance after the online application has been 100% launched and then submitting a ticket to have IA reeavuluate entry points if needed.
 
 1. **[Records hub page](https://www.va.gov/records/)** - Add
   - Placement description: Under “Get your records and documents”, 4th option down. Below the records options that are currently available on the modernized site.

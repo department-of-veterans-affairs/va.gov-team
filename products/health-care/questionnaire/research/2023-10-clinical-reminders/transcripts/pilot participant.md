@@ -1,3 +1,4 @@
+## Pilot Participant
 # Conversation Guide for Health Questionnaires, Clinical Reminders Pilot, October 2023 
 
   
@@ -12,9 +13,10 @@
 
 
 ### Day of the session
-- Use teams channels for real-time feedback from observers.
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
+Slack for real-time feedback from observers.
 - Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers.
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 
 
@@ -71,15 +73,14 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
+**(2:11 p.m.)**
 ## First Task: Notifications - 10 minutes 
 
 
 - How were you notified, such as a text or email, that your provider wanted you to answer some questions prior to your appointment?
-  - Share your screen with the example that they mentioned. This is also determine what prototype you share with them.:
-    - [eScreening email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening%20Email.png)
-    - [BHL email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Email.png)
+  - You should have been sent [text or email] by Perigean for today's session. Please bring up the [text or email], then share your screen. [**Moderator Note:** Help participant open the link and screen share if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.] [Mobile screen sharing instructions](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions) 
 
-- How far in advance of your appointment did you receive this notification? 
+- How far in advance of your appointment did you receive this notification? **(2:13 p.m.)**
 
   - Do you feel that you were given enough time or not enough time to answer the questions prior to your appointment? 
 
@@ -89,11 +90,12 @@ Before we start, a few things I want to mention:
 
   - [**Notetaker:** Note any observations about the following things: What do they comment on as confusing or valuable without prompting?] 
 
-  - Was there anything about the notification that is unclear? 
+  - Was there anything about the notification that is unclear?
+  - **(2:15 p.m.)**
 
   - Would you add, delete, or change about the content within the notification? 
 
-- How much time do you estimate it took you to complete the questions after clicking on the [text or email]? 
+- How much time do you estimate it took you to complete the questions after clicking on the [text or email]? **(2:16 p.m.)**
 
  
 
@@ -101,22 +103,42 @@ Before we start, a few things I want to mention:
 
   
 
-- Next, pretend that you are answering the pre-appointment questions again. We also call these clinical reminders, so you may hear me refer to them as such. Some of the questions will be familiar to you as you answered them before your appointment, while others may not. Please think a loud as you review the screens. I’ll ask you a few questions as you move though too.
+- Next, pretend that you are answering the pre-appointment questions again. We also call these clinical reminders, so you may hear me refer to them as such. Some of the questions will be familiar to you as you answered them before your appointment, while others may not. Please think a loud as you review the screens. I’ll ask you a few questions as you move though too.**(2:17 p.m.)**
   - [eScreening link](https://escreening.va.gov/but/assessment/home)  
 
 - [**Notetaker:** Note which questionnaire branching logic they follow and if the clinical reminders end in a positive or negative result. Write down any comments shared without prompting from the Moderator.] 
 
-- [On each screen] Are there any terms that seem unfamiliar or confusing to you? 
+- [On each screen] Are there any terms that seem unfamiliar or confusing to you? **(2:18 p.m.)**
 
-- [At the end of each clinical reminder] On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about [clinical reminder topic]? 
+- [At the end of each clinical reminder] On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about [clinical reminder topic]? **(2:20 p.m.)**
 
 - [At the end of all the clinical reminders] 
+**Toxic exposure v3 (2:24)
+- 30% (2:25)
+- 40% words confusing (2:26)
+- Do you have follow-up questions? 45% (2:26) doesn’t make sense for participant, doesn’t know what “registry” is.
+- 49%  how easy to answer questions (2:27)
+- 51% (2:28)
+- 57% participant asked to go back to last page. (2:29)
+- 51%  (2:29) post 9/11 operations.*
+- 60% (2:30) TBI-not everyone knows what that stand for.
+- 74% (2:31) A 2 because everyone doesn’t know what is TBI; it is unclear.
+- Embedded fragment screening (2:32) question was pretty clear.
+- 77% the question is clear.
+- 81% blast explosion (2:33)
+- 85% vehicle explosion (2:33) Have social worker join for these sessions.
+- This slide: Were you in or on a vehicle at the time of the blast explosion?
+(2:37) It is too many questions.
+- 87% (2:38)
+- Shrapnel – participant asked to go back to previous page cause unsure.
+How difficult these questions 2 (2:39)
 
-  - What do you expect to happen next, since you answered these questions? 
+  - What do you expect to happen next, since you answered these questions? **(2:39)** 
 
     - Does that match what actually happened next at your appointment with your provider knowing that they reviewed your answers? Why or why not? 
 
-  - If you could change one thing about this question experience, what would that be? 
+  - If you could change one thing about this question experience, what would that be?
+  -  **Participant found a few of those questions were unclear.**
 
   
 
@@ -126,7 +148,7 @@ Before we start, a few things I want to mention:
 
 - Now, I’m going to ask you a series of questions about your experience answering these questions at home (or wherever you previously chose) and not what we reviewed here today.  
 
-- On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult, how easy or difficult was it to answer these questions? 
+- On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult, how easy or difficult was it to answer these questions? **(2:39)They were about a 2.**
 
 - Did answering these questions online prior to your appointment impact the quality of your appointment with your provider in any way? If so, how? 
 
@@ -139,16 +161,16 @@ Before we start, a few things I want to mention:
   - Not enough 
 
   - Just right 
+**(2:42) Not too many questions.**
+- What would you estimate the ideal number of minutes or question sets to complete at one time prior to one appointment? **10 or 15 minutes is appropriate.**
 
-- What would you estimate the ideal number of minutes or question sets to complete at one time prior to one appointment? 
-
-- And lastly, do you have any questions for me? 
+- And lastly, do you have any questions for me?  **(2:43 p.m.)**
 
 - Okay, great! That is all the questions I have for you today. 
 
-  
+**Participants suggests to make it more clear that they will be going through  all the reminders.**
 
-## Thank-You and Closing - 3 minutes 
+## Thank-You and Closing - 3 minutes  **(2:44 p.m.)**
 
   
 

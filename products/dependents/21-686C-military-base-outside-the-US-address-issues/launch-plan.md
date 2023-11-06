@@ -11,6 +11,8 @@ Briefly describe the background of your product. Consider:
 - Where is your product situated on VA.gov? Within 686c form flow to add or change dependents - specifically, any mailing address form that allows the Veteran to select the option of living outside of the U.S. on a military base.
 - This is an iteration of an existing tool.
 
+**Note: Ryan Thurlwell is working on a more holistic, long-term solution to the address component - this work is only intended as a short-term fix to limit the number of null claims we're seeing from this issue**
+
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/21-686C-military-base-outside-the-US-address-issues/initiative-brief.md).
 
 ### OCTO Priorities 
@@ -25,18 +27,13 @@ Getting out: Engaging VA to access benefits and services
 Putting down roots: Taking care of my family
 Retiring: Finding additional sources of income
 
-## Research Goals	
+## Launch Goals	
 - Discover whether the updates to ZIP code validation helping move our null claims numbers closer to 0?
 - Discover whether the updates to error message language helping Veterans complete 686c claims successfully?
 
 ### Outcome
 - Research will help validate hypothesese around changes
 - We'll share findings with teams working on more holistic, long-term solutions to address components.
-
-### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- How are null claims numbers affected by changes to ZIP code validation updates?
-- How are 686c form completion numbers affected by changes to error messages in mailing address sections?
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -45,12 +42,9 @@ What do you intend to learn and measure from this study? Think through these pro
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-- A/B test
-- Limited launch of updated ZIP code validation and error message updates.
+- Typical ramped launch
 - Track zipCode errors from BIS and hopefully see the number reduce to near zero here: [http://sentry.vfs.va.gov/organizations/vsp/discover/results/?environment=production&[…]+zipcode%22&sort=-message&statsPeriod=7d&widths=-1&widths=-1](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?environment=production&field=message&field=error.value&name=Top+Errors&project=3&query=%28+controller_name%3Adependents_applications+OR+SubmitForm686cJob+OR+SubmitForm674Job+OR+job%3ABGS%3A%3ASubmitForm686cJob+OR+job%3ABGS%3A%3ASubmitForm674+%29+level%3Aerror+message%3A%22%28ns0%3AServer%29+insertBenefitClaim%3A+Invalid+zipcode+Savon%3A%3ASOAPFault+lib%2Fbgs%2Fservice.rb+insert_benefit_claim+Sidekiq%2FBGS%3A%3ASubmitForm686cJob%22+error.value%3A%22%28ns0%3AServer%29+insertBenefitClaim%3A+Invalid+zipcode%22&sort=-message&statsPeriod=7d&widths=-1&widths=-1)
-	- Compare against null claims numbers for existing designs
-- Track successful 686c form completions for new designs
-	- Compare against numbers for existing designs
+	- Compare against null claims numbers for week-long increments prior to launch
 
 
 

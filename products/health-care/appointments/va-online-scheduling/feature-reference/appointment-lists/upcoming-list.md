@@ -15,7 +15,18 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 
 **Functional**
 
-- User can review a summary of their upcoming appointments.
+- User can review a summary of their upcoming appointments that includes the data in the following table:
+
+|                                         | VA upcoming/past | CC upcoming/past |
+| --------------------------------------- | ---------------- | ---------------- |
+| Appointment Date and Time               | ✅                | ✅                |
+| Type of Care                            | ✅                | ✅                |
+| Provider Name                           | ✅                | ✅                |
+| Mode of Attendance                      | ✅                |                  |
+| Facility Name or ATLAS Facility Address | ✅                |                  |
+| Link to Details                         | ✅                |                  |
+
+
 - User can navigate to the details for all appointments in the summary.
 - User can print the summary list.
 
@@ -24,7 +35,7 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 - A message must display to the user informing them that not all appointments can be displayed if any of the backend services fails to retrieve appointments (VSP for VistA, HSRM for community care appointments and VVS for video appointments).
 
 **Appointments displayed**
-- All Community Care upcoming and cancelled upcoming appointments from the Health Systems Referral Manager (HRSM) within the next 395 days must display.
+- All Community Care upcoming and canceled upcoming appointments from the Health Systems Referral Manager (HRSM) within the next 395 days must display.
 - All VA/VistA upcoming and cancelled upcoming appointments for the user from any veteran-registered VistA system within the next 395 days display except if the clinic has  any of the following:   
     - The clinic name matches a community care clinic name regular expression that is part of the MAS configuration: `"((COM CARE-.)|(NON VA CARE .))`  https://issues.mobilehealth.va.gov/browse/CKM-1181
     - Clinic's stop code in on the Office of Integrated Veteran Care's stop code exclusion list
@@ -34,6 +45,14 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
     - Clinic's `DISPLAY CLIN APPT TO PATIENTS? = NULL` in the VistA site's Hospital Location file #44
 - All upcoming and cancelled video visit appointments from Telehealth Management Platform (TMP) within the next 395 days must display.  
 - All upcoming video visit appointments from Virtual Care Manager (VCM) within the next 395 days must display.  (Note: cancelled upcoming VCM appointments do NOT display).
+
+**Type of care** 
+- The type of care for Community Care appointments must display “Community Care appointment with `[Provider Name]` provider”.
+    - Note: Front End receives the HSRM "Service Requested" data in the `serviceType` for community care.  HSRM "Service Requested" maps to CPRS/CTB Standard Episode of Care field which would be too cryptic for the user. So for now Type of Care is not being displayed for CC appointments and instead provider name is displaying.
+- The type of care for VA appointments must be set to the `serviceType` if `serviceType` is returned by backend. Otherwise set to `VA appointment`.
+    - Note, Backend sets the `serviceType` when the stop codes from the remote procedure call match CCM stop codes.
+- The type of care may not be available for phone appointments, video appointments from Virtual Care Manager (VCM) and Telehealth Management Platform.
+- A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must display in VAOS with the type of care "Claim exam".
 
 **Modality indicators**
 - A modality icon must display for each appointment:
@@ -49,13 +68,7 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
         - The appointment is a VA appointment made in a clinic with a video visit secondary stop code of defined by IVC as telehealth/video must display.  See Kay Lawyer for the list of stop codes.  
     -  In lieu of a modality icon `Community care` must display for Community Care appointments.
  
-**Type of care** 
-- The type of care for Community Care appointments must display “Community Care appointment with `[Provider Name]` provider”.
-    - Note: Front End receives the HSRM "Service Requested" data in the `serviceType` for community care.  HSRM "Service Requested" maps to CPRS/CTB Standard Episode of Care field which would be too cryptic for the user. So for now Type of Care is not being displayed for CC appointments and instead provider name is displaying.
-- The type of care for VA appointments must be set to the `serviceType` if `serviceType` is returned by backend. Otherwise set to `VA appointment`.
-    - Note, Backend sets the `serviceType` when the stop codes from the remote procedure call match CCM stop codes.
-- The type of care may not be available for phone appointments, video appointments from Virtual Care Manager (VCM) and Telehealth Management Platform.
-- A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must display in VAOS with the type of care "Claim exam".
+
 
 ### Technical notes
 

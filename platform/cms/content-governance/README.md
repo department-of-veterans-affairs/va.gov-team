@@ -7,11 +7,11 @@ Three intersecting governance systems for the basis of content governance in VA.
 All CMS editors are assigned a mix of these three things (with the exception of Content admins, to whom none of these rules apply).
 
 ## Plain Language Overview Of Permissions, Roles, and Sections in the CMS
-The complexity of the Drupal CMS and Workbench Access Module can make it difficult to understand how our current-state functions. This overview provides a plain language version of configuration of Drupal CMS Content Governance. 
+The complexity of the Drupal CMS and Workbench Access Module can make it difficult to understand how our current-state functions. This overview provides a plain language version of configuration of Drupal CMS Content Governance.
 
 ### Permissions
 
-This is the most granular piece of the puzzle. There are currently 1541 individual permissions that enable the CMS to provide all of its functionality. Permissions are added to the CMS through Modules and each permission is tied to a specific module that was installed. Permissions are NOT the same thing as roles, although they are closely related.
+This is the most granular piece of the puzzle. There are currently over 1500 individual permissions that enable the CMS to provide all of its functionality. Permissions are added to the CMS through Modules and each permission is tied to a specific module that was installed. Permissions are NOT the same thing as roles, although they are closely related.
 
 **Analogy: Stars**
 
@@ -21,7 +21,7 @@ Think of permissions as all of the stars in the sky that make up the Drupal Univ
 
 In the simplest terms, Roles are groupings of Permissions that are created by an Administrator. Each role contains a set of permissions based on the different needs of the user groups that can access CMS. While some roles have access to more permissions than other roles, all roles must be assigned to each user by an Administrator based on the needs of that individual user.
 
-In the CMS, we have 15 different roles that can be assigned to a user.
+In the CMS, we have 16 different roles that can be assigned to a user.
 
 1. Content API Consumer: Used by GraphQL to access content via Content API. Should not be given to humans.
 2. Content creator - Benefits hubs: Can create benefits hub content (hub landing pages and detail pages).
@@ -29,16 +29,17 @@ Users with this role should also be editors, reviewers, or publishers.
 3. Content creator - Resources and support: Can create content types related to resources and support products
 4. Content creator - Outreach Hub: Can create content types related to Outreach Hub
 5. Content creator - VAMC: Can create content types related to VAMC (except for the parent "VAMC" and "VAMC Operating Status" content types, which are created by content admins). Users with this role should also be editors, reviewers, or publishers.
-6. Content creator: Vet Center: Can create Vet Center Health Services and CAPs.
-7. Content editor: Can create and edit content, but can't review or publish it.
-8. Content reviewer: Can approve content changes for publishing, but can't publish it.
-9. Content publisher: Can publish content.
-10. Content admin: For members of the Global UX team, and other content users who have permissions beyond those of Content Publisher.
-11. Redirect admin: Can create and edit redirects.
-12. CMS account admin: Can create and manage users, roles, and access to sections of content.
-13. Administrator: Has all permissions.
-14. Homepage Manager: Can create home page related components (news and benefit promo blocks; news spotlight and hero entityqueues).
-15. Translation manager
+6. Content creator - VBA: Can create VBA Facility Services.
+7. Content creator - Vet Center: Can create Vet Center Health Services and CAPs.
+8. Content editor: Can create and edit content, but can't review or publish it.
+9. Content reviewer: Can approve content changes for publishing, but can't publish it.
+10. Content publisher: Can publish content.
+11. Content admin: For members of the Global UX team, and other content users who have permissions beyond those of Content Publisher.
+12. Redirect admin: Can create and edit redirects.
+13. CMS account admin: Can create and manage users, roles, and access to sections of content.
+14. Administrator: Has all permissions.
+15. Homepage Manager: Can create home page related components (news and benefit promo blocks; news spotlight and hero entityqueues).
+16. Translation manager
 
 **Analogy: Constellations**
 
@@ -85,6 +86,8 @@ The structure of sections is as follows:
 - Northeast (20 Individual Facilities)
 - Pacific (13 Individual Facilities)
 - Southeast (13 Individual Facilities)
+- VBA Facility Services
+- Service Regions
 - VBA Resources and support
 - VBA Benefits Hubs
 - Decision reviews

@@ -14,15 +14,28 @@
 # Accessibility Tools Utilized
 `ZoomText` `JAWs` `iOS-VO` `VoiceOver` `SR Microsoft Extension` `TalkBack` `Fusion` 
 
-## Coverage
-This research fufilled `90`% (`9`/`10`) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
+## AT Coverage
+This research fufilled `90`% (`9`/`10`) of its original request. Given the amount and variety of types of screen readers, a conclusive behavioral patterns can be determined locally in this study. We can draw future research considerations and document caught accessibility issues.
 
-**Original study request:#**
+### Devices Tested
+- Desktop was the most tested device at 44.44% (4 users)
+- iPad/Tablet followed at 33.33% (3 users)
+- Mobile was 22.22% (2 users)
+
+### Skill Levels
+- The majority of users in this study were non-beginners, they were advanced or intermediate at 88.88% (8 users). 
+- Beginners only accounted for one user (11.11%)
+
+### Assistive Technology
+- iOS-VO was the top assistive technology 33.33% (3 users)
+- ZoomText was second with 22.22% (2 users)
+
+## Original Study Request: `10` 
 > The purpose of this research was to explore the usability of a simplified form header design for Veterans - particularly those using screen readers
 
 > `50` (`10`) [participants in this study](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2023-09-form-header-usability-testing/research-plan.md#:~:text=Assistive%20Technology%20(AT)) should use a screenreader on a desktop or mobile device
 
-## Participants
+### Participant Breakdown
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
@@ -43,9 +56,25 @@ _While CAIA cannot require you to complete any updates to your product, we can p
 
 _**Be sure to toggle and reveal the details in the sections below.**_
 
-## Key Findings & User Feedback (A11Y Segment)
+## Overview of Key Findings & User Feedback (A11Y Segment)
 
-**Veterans' Voices:** Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the `##` quotes that were selected for inclusion, in this report.
+### Summary: Findings & Pain Points
+ **Finding or Pain Point** | **Detail** | **Timing of Next Steps** |
+|------------------------|------------------|--------------------|
+| Finding 1 | Stepper confusion & stage in the process | Complete Later|    
+| Finding 2 | Form title and number helpful, when the user found it | Complete Later|    
+| Finding 3 | "Back" link wasn't easy to find; the "Continue" button worked well | Complete Now|    
+| Finding 4 | Users expected to be able to save their progress upon exiting the form. | Complete Now|    
+| Finding 5 | Users wanted to know if the form was being saved or not. | Complete Now|    
+| Finding 6 | Some users ignored the "Exit" link completely. | Future Item|    
+| Finding 7 | The date of birth and social security number fields were challenging for some users. | Future Item | 
+| Pain Point 1 | Lack of Consistency Between Sites | Complete Soon|  
+| Pain Point 2 | Completion Time Not Inclusive | Future Item |  
+| Pain Point 3 | Tabbing with Screen Readers; Users Miss Valuable Content | Complete Later|  
+| Pain Point 4 | Two-Factor Authentication Interactions for AT Users | Future Item|  
+
+### Detailed Key Findings and Pain Points (A11Y Segment)
+**Veterans' Voices:** Impactful quotes were collected during this study to provide user-specific feedback, related to the findings. Hear what veterans have to say in the quotes that were selected for inclusion, in this report.
 
 <details><summary>Toggle to read accessibility-related key findings</summary>
 
@@ -171,7 +200,18 @@ _**Be sure to toggle and reveal the details in the sections below.**_
 
 </details>
 
-## Next Steps: A11Y Recommendations/Considerations
+## Overview of Next Steps: A11Y Recommendations/Considerations
+
+### Summary: Timing
+ **Timing for Recommendations/Considerations** | **Count**|**Impact Areas**|
+|------------------------|------------------|------------------|
+| Complete Now | 3 | `A11y` `IA` `Content` `Design`
+| Complete Soon | 1 | `A11y` `Content`
+| Complete Later | 2 | `A11y`
+| Future Items to Consider | 4 | `A11y`
+| **Total** | **10** | `A11y (8)` `IA(3)` `Content(4)` `Design(1)`
+
+### Detailed Next Steps (A11Y Segment)
 A list of actionable findings, based on time-sensitive and priority needs, as they relate to the VA experience standards, severity rubric and WCAG.
 
 <details><summary>Toggle to read more about what should be completed now and what can be completed later.</summary>
@@ -179,61 +219,45 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 
 <hr>
 
-`These need added to the below section.`
-
-- [x] `Added to Complete Later` ~To account for "tabbers," or people who only use tab to navigate through a page, you might want to give focus to the form title/number and the progress bar.~
-- [x] `Needs Added Below` "Chapter" was confusing. Consider testing "section" or "part" for clarity. Consider using percentages as well.
-- [x] `Needs Added Below`Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
-- [x] `Added to Complete Now`Many users assumed that their data would be saved unless we informed them otherwise. For unauthenticated users, make sure it's clear that the data isn't being saved. An alert upon exit, alert box on the unauth intro page, or similar.
-- [x] `Added to Complete Now`We didn't get to see the authenticated experience, but users expected a "Save" button or a "Save and continue" button below the form fields. We recommend using a pattern like that.
-
-`These need added to the below section.`
-
-**Recommendations for the DST:**
-- [x] `Added to Complete Later`The date field is really hard for AT users to get through. This field needs to be revised so that the input types are consistent. Would need testing, but I’m guessing that a single input field would be easiest.
-- [x] `Added to Complete Later` For the social security field: ~~perhaps we can improve on the validation? Is there a way that the user could enter their SSN and have it submit, even if the dash groupings are incorrect (instead of XXX-XX-XXXX, they type XXX-XXX-XXX)?~~ (I just tried it on my own and it worked. This must be an edge case, I can't duplicate it.) Would having 3 input fields (1 per grouping) be more usable? One user suggested it would be, but would need to test. 
-
-<hr>
-
 ### Complete Now
 #### Finding 4: Users expected to be able to save their progress upon exiting the form.
 - Issue Description: Many users expected a “save” button to accompany the exit process. They gave suggestions such as "Save" and "Save and Continue" buttons. While this study tested the unauthenticated version of the form, the lack of a save button was frustrating for users.
 - Desired Outcome: Authenticated users are aware that a) the form can be saved b) can press X button to save it. If the form saves automatically, they need to be made aware of that on form exit.
-- Experience standard:`Category 03` `Issue 02` [Link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=A%20user%20flow%20provides%20content%20or%20navigation%20to%20help%20users%20understand%20where%20to%20go%20or%20what%20to%20do%20next.)
+- Experience standard:`Category 03` `Issue 02` `User Flows and Navigating` [Link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=A%20user%20flow%20provides%20content%20or%20navigation%20to%20help%20users%20understand%20where%20to%20go%20or%20what%20to%20do%20next.)
 - Defect:`Launch Blocking`
-- Impact Area: `IA`
-- Appears on: `Experience Standards`
+- Impact Area: `IA` `Content`
+- Appears on: `Experience Standards` 
 - WCAG: n/a
 
 
 #### Finding 5: Users wanted to know if the form was being saved or not.
 - Issue Description: Many users assumed that their data would be saved unless we informed them otherwise. For unauthenticated users, make sure it's clear that the data isn't being saved. Use an alert upon form exit, an alert box on the unauth intro page, or similar.
 - Desired Outcome: Unauthenticated users are aware that their data won't be saved if they exit the form before completing/submitting.
-- Experience standard:`Category 03` `Issue 02` [Link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=A%20user%20flow%20provides%20content%20or%20navigation%20to%20help%20users%20understand%20where%20to%20go%20or%20what%20to%20do%20next.)
+- Experience standard:`Category 03` `Issue 02` `User Flows and Navigating` [Link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=A%20user%20flow%20provides%20content%20or%20navigation%20to%20help%20users%20understand%20where%20to%20go%20or%20what%20to%20do%20next.)
 - Defect:`Launch Blocking`
-- Impact Area: `IA`
+- Impact Area: `IA` `Content`
 - Appears on: `Experience Standards`
 - WCAG: n/a
 
-
-### Complete Soon
-#### Finding: Make sure content is understandable
-- Issue Description: The word "Chapter" is decribing a step indicator. Because this is a step indicator users may not know what Chapter 2 of 4 may mean on.  "Chapter" was confusing. 
-- Desired Outcome: Consider testing "section" or "part" for clarity. Consider using percentages as well.
-- Experience standard:`Category 05` - The content is written in plain language and doesn't contain excess words or modifiers.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
-- Defect:`Depends`
-- Impact Area: A11y
-- Appears on: Content style guide 05 
-- WCAG: 3.1
-- 
-#### Finding: Consistent Navigation  
+#### Finding 3: Consistent Navigation  
 - Issue Description: Most users expected to find a "back / continue" button pattern below the form field. The "back" link on top wasn't easily found. Consider going back to the two-button pattern.
 - Desired Outcome:  Consider going back to the two-button pattern.
-- Experience standard:`Category 01 - Overall User Experience` - Design component or pattern in use is considered a best practice.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
-- Defect: `Not Blocking`
-- Impact Area: A11y
+- Experience standard:`Category 01 - Overall User Experience` - Design component or pattern in use is considered a best practice.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x) `Category 04` `Issue 10`[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=Navigation%20mechanisms%20aren%27t%20consistent%20across%20pages.)
+- Defect: `Launch Blocking`
+- Impact Area: `A11y` `Content` `Design` `IA`
 - Appears on: Content style guide 05 - The content is written in plain language and doesn't contain excess words or modifiers.
 - WCAG: Can fall under 3.2.3 Consistent Navigation Level AA
+
+### Complete Soon
+#### Finding 1: Make sure content is understandable
+- Issue Description: The word "Chapter" is decribing a step indicator. Because this is a step indicator users may not know what Chapter 2 of 4 may mean on.  "Chapter" was confusing. 
+- Desired Outcome: Consider testing "section" or "part" for clarity. Consider using percentages as well.
+- Experience standard:`Category 05` `Issue 05` - The content is written in plain language and doesn't contain excess words or modifiers.[link to standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards#:~:text=13-,WCAG%20SC%203.2.2_A,-x)
+- Defect:`Depends`
+- Impact Area: `Content`
+- Appears on: `Content Style Guide`
+- WCAG: 3.1
+
 ### Complete Later
 #### Finding 1: Stepper confusion & stage in the process
 - **Issue Description:** UI components do not initiate a change of context when they receive user input. The form screen changes, but the users sees they are on step 2 of 4, regardless.
@@ -268,4 +292,16 @@ A list of actionable findings, based on time-sensitive and priority needs, as th
 - **Defect:** `Not Blocking`
 - **Impact Area:** `A11y`
 
-</details>
+#### Completion Time Not Inclusive
+-  **On intro page, time to completion is for able, sighted users, and doesn’t given an approximation for AT users.**
+- **Desired Outcome:**  Please put this on your radar.
+- **Defect:** `Not Blocking`
+- **Impact Area:** `A11y`
+
+#### Two-Factor Authentication Interactions for AT Users
+- **2FA adds a lot of interactions that an AT users has to go through.**
+    - **It can be difficult for them. And the authentication process is cumbersome for Vets who don’t have the required IDs.**
+- **Desired Outcome:**  Please put this on your radar.
+- **Defect:** `Not Blocking`
+- **Impact Area:** `A11y`
+      </details>

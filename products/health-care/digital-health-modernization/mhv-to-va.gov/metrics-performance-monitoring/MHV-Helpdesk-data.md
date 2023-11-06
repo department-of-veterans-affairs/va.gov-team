@@ -18,7 +18,7 @@ Kophie manages this in an excel spreadsheet, which he also uses to funnel data i
 Microsoft Teams site for coordinators to collaborate together. I've told them ahead of time I may take snippets of their conversations.
 
 ### Gather Help Desk info from MHV Analytics Dashboard
-The Help Desk publishes they're most common call topics once a month. It's usually sign-in related. Kophie looks at most common, but also any trends out of the ordinary and then try to identify what is going on.
+The Help Desk publishes their most common call topics once a month. It's usually sign-in related. Kophie looks at most common, but also any trends out of the ordinary and then try to identify what is going on.
 
 ### Other sources
 For example, Google Analytics

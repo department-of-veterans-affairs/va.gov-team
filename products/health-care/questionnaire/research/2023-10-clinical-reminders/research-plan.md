@@ -57,7 +57,6 @@ Sessions will take place via Zoom meetings.
 
 ### Research sessions
 - Planned dates of research:
-  - Nov. 9 from 9 - Noon ET and 3:30 - 5 ET
   - Nov. 17 from 9 to 3 ET
   - Nov. 20 from 9 to 5 ET
   - Nov. 27 from 9 to 5 ET

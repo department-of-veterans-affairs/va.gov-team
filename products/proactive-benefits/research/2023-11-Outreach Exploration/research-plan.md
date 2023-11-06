@@ -111,9 +111,9 @@ These research sessions will be conducted remotely via Zoom.
 
 Research materials for moderated interviews:
 
-- Conversation guide
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/proactive-benefits/research/2023-11-Outreach%20Exploration/discussion-guide.md)
 
-- Conversation stimuli: See zip file in research folder to view the following:
+- Conversation stimuli: See [zip file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/proactive-benefits/research/2023-11-Outreach%20Exploration/letters%20for%20proactive%20outreach%20research.zip) in research folder to view the following:
 
   - Original letter
   - Modified letter
@@ -222,7 +222,7 @@ Maximum Sessions per day: 4
 | Date             | Time          | Notes |
 | Tuesday, 11/14   | 10:30-5:30 ET |       |
 | Wednesday, 11/15 | 10:30-5:30 ET |       |
-| Thursday, 11/16  | 10:30-5:30 ET |       |
+| Thursday, 11/16  | 10:30-11:30, 3-5:30 ET |       |
 | Friday, 11/17    | 10:30-5:30 ET |       |
 | Monday, 11/20    | 10:30-5:30 ET |       |
 | Tuesday, 11/21   | 10:30-5:30 ET |       |

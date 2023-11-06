@@ -12,6 +12,15 @@ As a Veteran, I want an overview of appointments I've requested to see if they h
 
 **Functional**
 
+- User can review a summary of their pending appointments that includes the data in the following table:
+
+|                                         | Pending VA       | Pending CC       |
+| --------------------------------------- | ---------------- | ---------------- |
+| Type of Care                            | ✅                | ✅                |
+| Requested Modality                      | ✅                |                  |
+| Requested VA Location                   | ✅                |                  |
+| Requested Provider                      |                  | ✅                |
+
 - Pending and canceled requests from VistA must display in VAOS if all the following are true:
   - VistA Type Request Type = VETERAN AND 
   - `Create Date` is  <= 120 days.   
