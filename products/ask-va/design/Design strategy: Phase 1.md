@@ -1,7 +1,7 @@
 # Design strategy: Phase 1
-*Ask VA Integration*
+*Ask VA Front-End*
 
-Last updated by @tygindraux on October 31, 2023 
+Last updated by @beckyphung on November 6, 2023 
 
 ## Product background
 
