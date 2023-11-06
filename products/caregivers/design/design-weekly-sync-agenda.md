@@ -1,5 +1,24 @@
 # Design Weekly Sync Agenda
 
+## 2023-11-06
+
+Attendees: Angela, Jessica, Hieu, Katelyn, Kristen, Alex, Heather, Emily
+
+- Team discussed the submission dependent error (applies to all Mutilple Response components and how to approach it.
+- Short-term approach for the Contradictory alerts and contents:
+    - Staging is using the v1 Stepper Component that contains the “We’ll save your application on every change. Your application ID number is ####.” message.” This is part of the forms library, it cannot be changed.
+    - The Sketch mockup uses v3, which does have the message. Once the form library is updated, dev can update the Stepper to v3.
+    - The solution: remove the “Finish this application later” function for the Multiple Response section and add a warning stating they must complete the required field in this section.
+
+- We discussed how discovery works needs to be done on the multiple components.
+    - Why doesn’t pre-fill work on this component? 
+    - If “query’ requires each page to have a unique URL, can we have multiple URLs? How does this work with multiple dependents? 
+    - How are other teams approaching this? Tabs you can edit? Task-list, sub-task? 
+- Can we incorporate a generative study? 
+    - UAT, upcoming Nov 13-22: leave as is.
+    - Usability Study in the middle of January: maybe
+- We discuss how this work also revolves around EZR V2, Review & Confirm flow. And it would be good to jump-start it.
+
 ## 2023-10-30
 
 Attendees: Jessica, Hieu, Katelyn, Kristen, Alex, Heather, Emily
