@@ -54,7 +54,7 @@
 - Designer: Fiorella Glavez
 - Accessibility specialist: none
 - Content writer: none
-- Slack channel: benefits-non-disability
+- Slack channel: benefits-non-disability 
 
 ### CAIA Teams
 #### CAIA
@@ -123,14 +123,25 @@ The changes include adding missing fields and removing depreciated fields.
 Fixing the 530 form is a high-priority for OCTO and the VBA.
 
 ### Project
-- Notes
+- Sounds like they want to keep this round of CAIA support very scoped. How many screens or questions is this? Any tricky pieces to flag?
+- Trying to get MVP out fast with future enhancements. Just want us to look at added fields here.
+- Mostly just adding fields, removing deprecated fields. May be other edits including splitting/combining questions.
+- New fields added in Steps 1 and 2, a few in Step 3, new page in Step 4 for transportation allowance. No major changes to Step 5 or 6. Fiorella has set up current and proposed flows in sketch, annotated anywhere there's a change. Some changes are pending with VBA stakeholders and need confirmation from SMEs.
 #### Problems
-- Notes
+- One change on Step 3, previously required to include service history. Now adding question about discharge papers, so some people can skip service history questions. Have an archived version where they set it up to allow veterans to upload discharge papers on that Step 3 page, so curious about our thoughts on that.
+- Question about previous names: got feedback that people might have difficulty remembering services rendered under previous name, they're clarifying with SMEs what to do with this (is there a plain language version of this question,what does "services rendered" mean, what information do they really need to receive on this question).
+- 
 #### CAIA
 - **Content**
-    - Notes
+- in pre-need eligibility form, there's lots of use cases. For this, it could be possible a veteran's spouse might also be a veteran, but any information like service history would just be for the veteran. So we should flag anywhere that headers/pronouns are confusing or aren't referencing the veteran.
 - **IA** 
-    - Notes
+    - Entry points: Fiorella suggested changes for those in a section of the sketch file
+    - There was some talk around how much these pages get into eligibility, how much info do they want to provide on eligibility to include on static pages.
+    - This form is never being deactivated so these entry points will be up permanently
 - **Accessibility**
   - Notes
 
+**Timeline**
+Pension painpoint is more accute, Laura Steele confirmed with Emily this should be priority
+Burial forms are at least being processed, but looking to update.
+Sketch screens are ready for review, except for the questions they flagged for SMEs, Julie can let us know about any of those.
