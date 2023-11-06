@@ -7,45 +7,26 @@ jobs:
   ticket-creation:
     name: Create Completed Ticket
     runs-on: ubuntu-latest
+    if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && (github.event.label.name == 'kickoff' || github.event.label.name === 'design-intent' || github.event.label.name === 'midpoint-review' || github.event.label.name === 'staging-review')}}
+    env:
+      ISSUE_TITLE: ${{ github.event.issue.title }}
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+      EVENT_LABEL: ${{ github.event.label.name }}
     steps:
-      # - name: get ticket
-      #   id: get-ticket
-      #   run: |
-      #     response=$(curl -s https://api.github.com/repos/${{ github.repository }}/issues/65064 \
-      #       --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-      #       --header 'content-type: application/json')
-      #     echo "${response}" > ccTicket.json
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Create completed ticket
-        id: create-completed-ticket
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+
+      - name: Install axios
         run: |
-          response=$(curl --request POST \
-          --url https://api.github.com/repos/${{ github.repository }}/issues \
-          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-          --header 'content-type: application/json' \
-          --header "X-GitHub-Api-Version: 2022-11-28" \
-          --data '{
-            "title": "This is a test",
-            "body": "This is a test."
-            }' \
-          --fail)
-          echo "${response}" > response.json
+          npm i axios
 
-      - name: set number
-        id: set-number
-        run: |
-          echo COMPLETED_TICKET_NUMBER=$(cat response.json | jq -r '.number') >> $GITHUB_OUTPUT
+      - name: Run  script
+        run: node ./scripts/github-actions/create-cc-completed-ticket.js
 
-      - name: Close ticket
-        run: |
-          curl --request PATCH \
-          --url https://api.github.com/repos/${{ github.repository }}/issues/${{ steps.set-number.outputs.COMPLETED_TICKET_NUMBER }} \
-          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-          --header 'content-type: application/json' \
-          --header 'X-GitHub-Api-Version: 2022-11-28' \
-          --data '{
-            "state": "closed"
-            }' \
-          --fail
-        
 
+      
