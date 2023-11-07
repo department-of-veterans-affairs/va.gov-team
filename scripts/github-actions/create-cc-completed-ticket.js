@@ -8,7 +8,9 @@ const {
   ISSUE_NUMBER
 } = process.env;
 
-// const GOV_TEAM_BOARD_ID = '5f85b91c14d8df0018fac414';
+const CUSTOMER_SUPPORT_EPIC_NAME = 'Governance Team Collaboration Cycle Customer Support';
+
+
 const [owner, repo] = GITHUB_REPOSITORY.split('/');
 
 const axiosInstanceZH = axios.create({
