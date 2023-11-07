@@ -347,4 +347,7 @@ async function main() {
   }
 }
 
-main();
+// main();
+console.log('The label is...', EVENT_LABEL)
+
+console.log('The issue is...', ISSUE_NUMBER);
