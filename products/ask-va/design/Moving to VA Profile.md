@@ -38,8 +38,6 @@ In Step 4, when we pull from VA Profile, there are certain fields that don't exi
 
 - Suffix
 - Pronouns
-- Business phone (there will only be one phone input in the new front-end)
-- Business email (there will only be one email input in the new front-end)
 - School State
 - School Facility
 - Service Number (they'll be able to provide this or their SSN)
