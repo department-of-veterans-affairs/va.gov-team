@@ -30,12 +30,10 @@ Learn how to effectively communicate to the Veterans the need for device managem
 
 ### Research questions
 
-- What information (copy versions) would allow users to make an informed choice to leverage the sign out of all devices option?
 - Are there any potential concerns about ending sessions and signing people out of their accounts on all devices? (Review previous research on stickiness of sessions).
-- Are there a additional language and design options that should be taken into consideration?
 - Does the prototype allow users to successfully navigate to and utilize the proposed user flow for managing their devices?
 - What updates to the user flow could we incorporate to make it more intuitive for Veterans?
-- Is there any confusion regarding connected applications, connected devices and device management?
+- Is there any confusion regarding connected applications and device management?
 
 
 ### Hypothesis
