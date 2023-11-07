@@ -8,11 +8,21 @@ const {
 } = process.env;
 
 const GOV_TEAM_BOARD_ID = '5f85b91c14d8df0018fac414';
+const [owner, repo] = GITHUB_REPOSITORY.split('/');
 
-const axiosInstance = axios.create({
+const axiosInstanceZH = axios.create({
   baseURL: 'https://api.zenhub.com/public/graphql',
   headers: {
     Authorization: `Bearer ${ZENHUB_API_KEY}`,
+  }
+});
+
+const axiosInstanceGH = axios.create({
+  baseURL: `https://api.github.com/repos/${owner}/${repo}/`,
+  headers: {
+    'Authorization': `Bearer ${GITHUB_TOKEN}`,
+    'Content-Type': 'application/json',
+    'Accept': 'application/vnd.github.v3+json',
   }
 });
 
@@ -32,10 +42,8 @@ function parse(issue) {
 
 async function getTitleInfo(number) {
   try {
-    const URL = `${ENDPOINT}${number}`
-    const {data} = await axios.get(URL, {
-      headers: HEADERS
-    });
+    const URL = `issues/${number}`
+    const {data} = await axiosInstanceGH.get(URL);
 
     const { teamName, productName, featureName } = parse(data.body);
     let titleInfo = `Completed: Kickoff - ${teamName} - ${productName}`;
@@ -68,7 +76,7 @@ async function getVaGovTeamRepoId() {
     }
     }`;
   try {
-    const {data} = await axiosInstance.post('', {
+    const {data} = await axiosInstanceZH.post('', {
       query
     });
     const repos = data.data.viewer.searchWorkspaces.nodes[0].repositoriesConnection.nodes;
@@ -95,7 +103,7 @@ async function createIssue(title, repoId) {
     }
   }`
   try {
-    const {data} = await axiosInstance.post('', {
+    const {data} = await axiosInstanceZH.post('', {
       query,
     });
     return data.data.createIssue.issue.id;
@@ -139,7 +147,7 @@ async function getSprintId() {
     }
   }}`
   try {
-    const { data } = await axiosInstance.post('', {
+    const { data } = await axiosInstanceZH.post('', {
       query,
       variables: {
         workspaceId: GOV_TEAM_BOARD_ID
@@ -162,7 +170,7 @@ async function addIssueToCurrentSprint(id) {
   }`;
   try {
     const sprintId = await getSprintId();
-    await axiosInstance.post('', {
+    await axiosInstanceZH.post('', {
       query,
       variables: {
         input: {
@@ -186,7 +194,7 @@ async function getPipelineId(pipeline) {
         }
      }}`
   try {
-    const { data } = await axiosInstance.post('', {
+    const { data } = await axiosInstanceZH.post('', {
       query,
       variables: {
         workspaceId: GOV_TEAM_BOARD_ID
@@ -216,7 +224,7 @@ async function getIssueId(pipelineId, issueTitle) {
     }
   `
   try {
-    const { data } = await axiosInstance.post('', {
+    const { data } = await axiosInstanceZH.post('', {
       query,
     });
     const [{ id }] = data.data.searchIssuesByPipeline.nodes
@@ -242,7 +250,7 @@ async function getEpicId(epicTitle) {
     }
   }`
   try {
-    const { data } = await axiosInstance.post('', {
+    const { data } = await axiosInstanceZH.post('', {
       query,
       variables: {
         workspaceId: GOV_TEAM_BOARD_ID,
@@ -264,7 +272,7 @@ async function addIssueToEpic(issueId, epicId, ccEpicId) {
     }
   }`;
   try {
-    await axiosInstance.post('', {
+    await axiosInstanceZH.post('', {
       query,
       variables: {
         input: {
@@ -287,7 +295,7 @@ async function setEstimate(issueId, value) {
   }`;
 
   try {
-    await axiosInstance.post('', {
+    await axiosInstanceZH.post('', {
       query,
       variables: {
         input: {
@@ -309,7 +317,7 @@ async function moveIssue(issueId, pipelineId) {
     }
   }`;
   try {
-    axiosInstance.post('', {
+    axiosInstanceZH.post('', {
       query,
       variables: {
         input: {
