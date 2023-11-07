@@ -41,8 +41,8 @@ In Step 4, when we pull from VA Profile there are certain fields that don't exis
 - Business phone (there will only be one phone input in the new front-end)
 - Business email (there will only be one phone input in the new front-end)
 - School State
-- School Facility Code
-- Service Number
+- School Facility
+- Service Number (they'll be able to provide this or their SSN)
 
 ## Comparison of fields in VA Profile and AVA Profile
 
