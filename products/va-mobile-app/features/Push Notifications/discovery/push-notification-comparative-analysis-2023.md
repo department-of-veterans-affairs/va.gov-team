@@ -2,8 +2,6 @@
 
 Nov 2023
 
-[Push Notification Strategy - Sprint 0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/Push%20Notification%20Strategy%20-%20Sprint%200.md) 
-
 [Figjam with all the screenshots](https://www.figma.com/file/cPH4ZieO1Fvl0qGfBnLwpS/Notifications---Discovery---VA-Mobile?type=whiteboard&node-id=0%3A1&t=aVR74DJoAJ6Zm1gx-1), [comparison/synthesis spreadsheet](https://docs.google.com/spreadsheets/d/1psKb64wdgQ5OHBG39D-ZrF416c98DjUYm8s7hhAkPSM/edit#gid=1388101938)
 
 
