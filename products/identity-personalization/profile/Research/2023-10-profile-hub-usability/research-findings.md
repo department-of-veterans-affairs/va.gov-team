@@ -78,7 +78,7 @@ For more details, see see [Who we talked to](#who-we-talked-to)
 | **P11 desktop; mag; tech issues**         | Fail    | Pass   | Pass       | Pass       | Pass        | Pass         | Pass             | Pass                  |
 | **P13 desktop; VO keyboard; tech issues** | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Skipped          | Pass                  |
 
-- See [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/conversation-guide.md) for task details.
+- _See [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/conversation-guide.md) for task details._
 
 We hypothesized that the Profile Hub will resolve the structural and organization issues detailed in the background section in the following ways:
 
@@ -181,7 +181,7 @@ Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/
 
 Participants that used their authenticated menu for navigation had more success in finding links to dependents and/or letters than participants who weren't aware of their authenticated menu until prompted by the moderator.
 
-When participants were asked questions around dependents and letters to see whether they looked in the authenticated menu: 
+We asked participants questions around dependents and letters to see whether they looked in the authenticated menu: 
 - 2/9 participants went to the authenticated menu to look for those links – both of these participants had previously used the authenticated menu to navigate to their profile at the beginning of the session 
 - 5/9 participants needed their attention directed by the moderator to interact with the authenticated menu
 - 1/9 participants used VoiceOver’s Item Chooser 
@@ -192,7 +192,7 @@ Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/
 
 Both dependents and letters were associated with a veteran’s profile.
 
-Not all participants had dependents, but when asked where P4 would expect to add their forthcoming spouse as their dependent, they initially said they didn’t know, but when probed, they said their profile, since:
+Not all participants had dependents, but when asked where P4 would expect to add their forthcoming spouse as their dependent, they initially said they didn’t know. When the moderator probed a little more, they said their profile, since:
 
 > I would assume since everything else is kind of on here… because I'm sure other people have children and wives and husbands and whatnot and wanna add or subtract or whatever. Because it [Profile] has my disability rating and stuff on here. (P4)
 
