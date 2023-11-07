@@ -87,32 +87,34 @@ Before we look at the website, let’s start with a few warm-up questions.
 - I'm now going to show you a prototype. This is a website design that we are thinking about using. It may look like the real VA.gov but it is not real, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
    - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=fmuY0h4DhYNhuRKR-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88&show-proto-sidebar=1)
    - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=fmuY0h4DhYNhuRKR-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54&show-proto-sidebar=1)
-- I would like for you to share your screen now and walk me through how you would complete the following steps.
-   - [Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
-   - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
 - Let's pretend that you got a notification from the VA of a sign-in to your account, and that you don't recognize it, or you don't think it was you signing in.
     - How would you expect to recieve a notification like this? [email, text, multiple ways?]
     - Would you do anything with this information?
        - If you wouldn't take any action based on this notification, what might you expct to happen?
     - If you decided to take action, what would you do? [pause]
        - [If they don't respond with VA.gov]... Would you go to VA.gov to sign into to your acount?
-- Can you show me where you might go once signed into the VA to sign out of the device you didn't recognize?  Why would you start there?
+- I would like for you to share your screen now and walk me through how you would complete the following steps.  I'm going to share with you a prototype that you can use to walk me through so that you are not having to share your actual information.
+   - [Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+   - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
+- Can you show me what you would do once signed into VA.gov after the receiving the notification?  Why would you start there?
    - **Username** page
       - [SUCCESS] (selects username > profile OR "go to your profile") Allow them to continue walking you through.
       - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
    - **Profile** page
      - Can you tell me what you would be looking for on this page at this point?  Does anything stand out to you to help you commplete your task?
      - [SUCCESS] (sees the "Account Security" option) Allow them to continue walking you through.
-     - [FAIL] (if they don't call out "Account Security") Ask them to read through the page again; if they are unable to point out "Manage Devices", gently guide them.
+     - [FAIL] (if they don't call out "Account Security") ask them to read through the page again; if they are unable to point out "Manage Devices", prompt them for what they're looking for.
          - What word or phrase would you be looking for in order to complete the task of signing out of all your devices.
          - What do you think the term "Account Security" means on this page?
          - For today, we'll navigate to the "Account Security" portion on this page.
    - **Manage Devices** page
       - Can you walk me through what you're seeing here?
       - What would you do next?
-      - What do you think about when seeing the button "sign out of device"? what about "sign out of all devices"?
+      - What do you think about when seeing the button "sign out" next to each device? What would happen if you clicked, "sign out of all devices"?
+         -  [Does the Veteran understand the implication of having to sign back into their account the next time?] 
       - Have you ever done this or something simlar on another app or website? Can you tell me about that?
-      - TO BE UPDATED (Warning Indicator): Can you talk me through what you're seeing here?  What are your thoughts on this?
+   - **Connected Apps**
+      - What do you think this phrase means? 
 
 ### Things to watch for:
 
