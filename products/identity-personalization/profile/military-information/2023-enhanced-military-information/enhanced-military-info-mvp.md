@@ -90,7 +90,7 @@ The online version of this form is being refreshed to match the paper version wh
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)
-- [Mural refinement ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?sender=uaa72d11015d3f7c704a64191)
+- [Mural for initial refinement](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?sender=uaa72d11015d3f7c704a64191)
 - [Google Doc Project Outline](https://docs.google.com/document/d/1aiw0drerrscjmgDtRLEaLlwvl58ZvLSdKcE_K0XGLsE/edit)
 - [sensitive repo directory (contains stakeholder artifacts)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/profile/military_info/2023-enhanced-military-information)
 - QA Plan
@@ -114,6 +114,7 @@ The online version of this form is being refreshed to match the paper version wh
 ## Design
 
 [Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+[mural for sensemaking / initial lo-fi mocks]
 
 ### Before
 
