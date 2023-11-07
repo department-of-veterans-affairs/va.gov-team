@@ -339,6 +339,7 @@ async function moveIssue(issueId, pipelineId) {
 async function main() {
   // generate title for created ticket
   const data = await getGHIssue(67119);
+  console.log(data.body);
   let title = getTitleInfo(data.body);
   title = `TEST: ${title}`;
   console.log(title);
