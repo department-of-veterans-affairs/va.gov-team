@@ -27,13 +27,13 @@ Dashboard | GET /inquiries?[num] | Dynamics | ⬜ | ⬜ | dahsboard / find by in
 Dashboard | GET /search?[text] | Dynamics | ⬜ | ⬜ |  | link |
 Dashboard | GET /replies | Dynamics | ⬜ | ⬜ | | [link](Dashboard_RetrieveCorrespondence.md) |
 Dashboard | PUT /reply?[id] | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_SubmitAReply.md) |
-Dashboard | PUT /attachment?[id] | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_UploadFile.md) |
+Dashboard | PUT /attachment/new | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_UploadFile.md) |
 Dashboard | GET /attachment?id | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_DownloadFile.md) |
-Dashboard | PUT /profile/new | VA Profile | ⬜ | ⬜ | Offloading to VA Profile  | [link](Dashboard_CreateMyProfile.md) |
-Dashboard | GET /profile | VA Profile | ⬜ | ⬜ | Offloading to VA Profile | [link](Dashboard_ReadMyProfile.md) |
-Dashboard | POST /profile | VA Profile | ⬜ | ⬜ | Offloading to VA Profile | [link](Dashboard_UpdateMyProfile.md) |
-Form | Medical Facilities | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link](Form_MedicalFacilities.md) |
-Form | School Facility Codes | WEAMS(?)/Dynamics | ⬜ | ⬜ |  | [link](Form_SchoolFacilityCodes.md) |
+Dashboard | PUT /profile/new | VA Profile | ⬜ | ⬜ | VA Profile  | [link](Dashboard_CreateMyProfile.md) |
+Dashboard | GET /profile | VA Profile | ⬜ | ⬜ | VA Profile | [link](Dashboard_ReadMyProfile.md) |
+Dashboard | POST /profile | VA Profile | ⬜ | ⬜ | VA Profile | [link](Dashboard_UpdateMyProfile.md) |
+Form | Medical Facilities | Lighthouse/Dynamics | ⬜ | ⬜ | Likely pulled from Lighthouse | [link](Form_MedicalFacilities.md) |
+Form | School Facility Codes | WEAMS(?)/Dynamics | ⬜ | ⬜ | Likely pulled from Dynamics | [link](Form_SchoolFacilityCodes.md) |
 Form | GET /states | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link](Form_States.md) |
 Form | GET /zipcodes?[prefix] | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link](Form_ZipCodes.md) |
 Form | GET /provinces | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link](Form_CanadianProvinces.md) |
