@@ -49,8 +49,17 @@ function parse(issue) {
 
 // generate the title of the "created" ticket
 function getTitleInfo(issueBody) {
+  const labelMap = {
+    'cc-kickoff': 'Kickoff',
+    'design-intent': 'Design Intent',
+    'midpoint-review': 'Midpoint Review',
+    'staging-review': 'Staging Review'
+  }
+
+  const touchpoint = labelMap[EVENT_LABEL];
+
   const { teamName, productName, featureName } = parse(issueBody);
-  let titleInfo = `Completed: ${EVENT_LABEL} - ${teamName} - ${productName}`;
+  let titleInfo = `Completed: ${touchpoint} - ${teamName} - ${productName}`;
   if (productName !== featureName && featureName) {
     titleInfo = `${titleInfo}/${featureName}`
   }
@@ -107,7 +116,8 @@ async function createIssue(title, repoId) {
         title: "${title}",
         repositoryId: "${repoId}",
         labels: ["governance-team"],
-        assignees: ["it-harrison"]
+        assignees: ["shiragoodman"],
+        body: "This ticket is for Platform tracking purposes only. There is no VFS action needed."
     }) {
         issue {
             id
