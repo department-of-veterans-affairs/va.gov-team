@@ -8,6 +8,8 @@
 
 ## Table of Contents 
 
+[Overview](#overview)
+
 
 ## Overview
 We've been tasked with expanding the military information that is available to veterans in their VA.gov Profile. We're using the 526EZ form to direct our focus to items that will assist veterans when completing the 526EZ. 
