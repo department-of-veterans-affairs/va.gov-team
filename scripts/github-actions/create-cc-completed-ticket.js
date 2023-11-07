@@ -41,7 +41,7 @@ function parse(issue) {
   return { teamName, productName, featureName };
 }
 
-async function getTitleInfo(issueBody) {
+function getTitleInfo(issueBody) {
   const { teamName, productName, featureName } = parse(issueBody);
   let titleInfo = `Completed: Kickoff - ${teamName} - ${productName}`;
   if (productName !== featureName && featureName) {
@@ -55,6 +55,18 @@ async function getGHIssue(number) {
     const URL = `issues/${number}`
     const {data} = await axiosInstanceGH.get(URL);
     return data; 
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
+}
+
+async function addMilestone(number, milestone) {
+  try {
+    const URL = `issues/${number}`
+    await axiosInstanceGH.patch(URL, {
+      milestone
+    });
   } catch (error) {
     console.log(error);
     process.exit(1);
@@ -103,6 +115,7 @@ async function createIssue(title, repoId) {
         issue {
             id
             title
+            number
         }
     }
   }`
@@ -110,7 +123,8 @@ async function createIssue(title, repoId) {
     const {data} = await axiosInstanceZH.post('', {
       query,
     });
-    return data.data.createIssue.issue.id;
+    const { id, number } = data.data.createIssue.issue;
+    return { id, number }
   } catch (error) {
     console.log(error);
     process.exit(1);
@@ -339,28 +353,28 @@ async function moveIssue(issueId, pipelineId) {
 async function main() {
   // generate title for created ticket
   const data = await getGHIssue(67119);
-  console.log(data.body);
   let title = getTitleInfo(data.body);
   title = `TEST: ${title}`;
-  console.log(title);
-  console.log(data.title);
 
-  //create issue
-  // const repoId = await getVaGovTeamRepoId();
-  // const newTicketId = await createIssue(title, repoId);
-
-  // //get id of epics
-  // const epicId = await getEpicId(data.title);
-  // const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
+  // create issue
+  const repoId = await getVaGovTeamRepoId();
+  const { id: newTicketId, number: newTicketNumber } = await createIssue(title, repoId);
   
-  // //update ticket
-  // await addIssueToEpic(newTicketId, epicId, ccEpicId);
-  // await setEstimate(newTicketId, 3);
-  // await addIssueToCurrentSprint(newTicketId);
+  // add milestone to new ticket
+  await addMilestone(newTicketNumber, data.milestone.number);
 
-  // //move to closed pipeline
-  // const closedId = await getPipelineId('Review/QA');
-  // await moveIssue(newTicketId, closedId);
+  //get id of epics
+  const epicId = await getEpicId(data.title);
+  const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
+  
+  //update ticket
+  await addIssueToEpic(newTicketId, epicId, ccEpicId);
+  await setEstimate(newTicketId, 3);
+  await addIssueToCurrentSprint(newTicketId);
+
+  //move to closed pipeline
+  const closedId = await getPipelineId('Review/QA');
+  await moveIssue(newTicketId, closedId);
 }
 
 main();
