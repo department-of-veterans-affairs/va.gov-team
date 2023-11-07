@@ -335,7 +335,7 @@ async function main() {
   
     //update ticket
     await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
-    await setEstimate(newTicketId, 3);
+    await setEstimate(newTicketId);
     await addIssueToCurrentSprint(newTicketId);
 
     //move to closed pipeline
@@ -347,7 +347,4 @@ async function main() {
   }
 }
 
-// main();
-console.log('The label is...', EVENT_LABEL)
-
-console.log('The issue is...', ISSUE_NUMBER);
+main();
