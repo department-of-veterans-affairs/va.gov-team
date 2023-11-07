@@ -8,6 +8,7 @@
      -  LH is working with BGS to resolve that
   -  EVSS is to take out validation for this field
     - Need to confirm that LH is also removing the validation - **TREX to check for /submit migration**
+      - Confirmed with Kayla that LH has updated 526 v2 service to treat ratedDisabilityId and diagnosticCode as optional and allow null values
 - Toxic Exposure 
   - VSRs are currently checking for service connecting for PACT Act so veterans are not blocked from submitting claims for PACT Act
 -  Monitoring with Sam / Steve / Mark
