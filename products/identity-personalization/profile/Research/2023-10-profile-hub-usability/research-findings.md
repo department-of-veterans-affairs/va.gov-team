@@ -277,7 +277,6 @@ P11 expressed a desire to have everything in one place to make it simpler and ea
 * **Recommendation 3**: Do further research into incorporating dependents and letters in some fashion into veteran profiles beyond the existing links to those pages.
 	- 5/9 participants thought letters belonged in their profile, and of the participants we were able to ask about dependents, one participant thought that information should be in their profile.
 	- _See finding 6 for all supporting evidence_
-* **Recommendation 4**: Discuss as a team whether the sidebar navigation is still necessary. Participants found it very easy to get back to the profile hub through a variety of techniques (breadcrumbs, authenticated menu profile link, back button). Of the two screen reader participants we had, only one interacted once with the sidebar navigation. The other screen reader participant skipped over it during every task. It still poses some accessibility issues regardless, as well.
 
 ## Next Steps
 
