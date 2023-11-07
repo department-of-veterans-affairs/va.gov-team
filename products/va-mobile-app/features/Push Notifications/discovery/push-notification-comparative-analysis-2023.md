@@ -59,10 +59,10 @@ To help discuss push notifications in a way that better highlights their relevan
 * **Transactional & operational messages:**
 * **Inform/reminder messages:** alerts users to a new piece of information being available that’s not tied to an in-flight task—like news, a new account message, an update to a policy, account changes.
 * **In-flight task messages:** keep users up-to-date during in-flight tasks of varying lengths:
-* **Short**(minutes - hours): Food delivery/pickup orders, airline flight status (day of travel), health/medical appointments (day of appointment) 
-* **Medium** (hours - days): Retail pickup orders, parking reservations, pharmacy pickup orders
-* **Long** (weeks - months): Banking/credit card bills, insurance bills, health/medical appointments, retail shipping orders, travel reservations, event tickets
-* **Very long** (months +): insurance claims 
+   * **Short**(minutes - hours): Food delivery/pickup orders, airline flight status (day of travel), health/medical appointments (day of appointment) 
+   * **Medium** (hours - days): Retail pickup orders, parking reservations, pharmacy pickup orders
+   * **Long** (weeks - months): Banking/credit card bills, insurance bills, health/medical appointments, retail shipping orders, travel reservations, event tickets
+   * **Very long** (months +): insurance claims 
 
 
 <table>
