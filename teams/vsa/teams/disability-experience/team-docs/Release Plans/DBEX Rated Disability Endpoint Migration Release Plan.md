@@ -196,11 +196,6 @@ Percentage of Users (and roughly how many users do you expect this to be): 1%
             Ticket(s) created to address: N/A
             - [x] Has the issue been resolved?
               - Fixed on LH side
-      -     Rollback reason: Discrepancy between EVSS and LH decision text display
-            Date: 10/16/23
-            Severity/Impact: Low - known issue, non-blocking
-            Ticket(s) created to address: N/A
-            - [] Has the issue been resolved?
 
 ### Stage B: Moderate ramp up
 #### Planning  
@@ -217,6 +212,12 @@ Percentage of Users (and roughly how many users do you expect this to be): 5%
 - New 499 Errors: 
 - Highest Latency:
 - Rollbacks:
+  -     Rollback reason: Discrepancy between EVSS and LH decision text display
+            Date: 10/16/23
+            Severity/Impact: Low - known issue, non-blocking
+            Ticket(s) created to address: N/A
+            - [] Has the issue been resolved?
+    - 11/7 - LH will be making a change to the service their API calls, thus we will have to redo some tests
 
 ### Stage C: Another moderate ramp up
 #### Planning
