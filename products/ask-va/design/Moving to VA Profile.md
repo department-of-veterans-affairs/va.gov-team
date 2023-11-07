@@ -42,10 +42,10 @@ In Step 4, when we pull from VA Profile, there are certain fields that don't exi
   - This does not pre-fill, so they will manually fill it in.
 - Business phone
   - There is no field in the form for business phone, there's just one field for phone number.
-  - We'll pull their personal phone number from their VA Profile, so if they want to change this to their business phone number, they will need to edit their personal phone number in VA.gov profile.
+  - We'll pull their personal phone number from their VA Profile, so if they want to change this to their business phone number, they will need to edit their personal phone number in their VA.gov profile.
 - Business email
   - There is no field in the form for business email, there's just one field for email.
-  - We'll pull their personal email from their VA Profile, so if they want to change this to their business email, they will need to edit their personal email in VA.gov profile.
+  - We'll pull their personal email from their VA Profile, so if they want to change this to their business email, they will need to edit their personal email in their VA.gov profile.
 - School State
   - This does not pre-fill, so they will manually fill it in.
 - School Facility
