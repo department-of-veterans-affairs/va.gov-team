@@ -77,10 +77,10 @@ In order to be able to add email as a channel, we need to do two things: add the
 - [Original GA Dashboard from notification settings launch](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/)
 - ["Adam's GA Sandbox" with some notification setting info](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20230926&_u.date01=20231024)
 
-|KPI/metric|Baseline: 1 month pre-launch 9/26-10/24/2023| 25% 10/25-10/30/2023 | 50% | 100% |1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|KPI/metric|Baseline: 1 month pre-launch 9/26-10/24/2023| 25% 10/25-10/30/2023 | 50% 10/31-11/6/2023 | 100% |1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|
-|Percentage of successful retrievals|99.66%|99.43%|||||
-|Percentage of successful saves|99.95%|99.93%|||||
+|Percentage of successful retrievals|99.66%|99.43%|99.67%||||
+|Percentage of successful saves|99.95%|99.93%|100%||||
 
 **Additional things to consider**
 
