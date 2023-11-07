@@ -38,7 +38,7 @@ One participant stated they thought the "cancel" button would cancel the whole f
 
 
 **3. VoiceOver is not reading transition pages**
-
+This is an issue with Focus attribute and has been documented previously.
 
 
 **4. The level of difficulty was unique to each individual depending on the screen reader they use, the device (mobile vs desktop), and their personal preferences (the way they like to navigate)**
@@ -49,4 +49,4 @@ One participant had an unconventional way of navigating the page by having the s
 
 
 **5. We found that users of screen readers were extraordinarily patient**
-
+Although the login process was time consuming and frustrating, participants were in good spirits and eager to continue to complete tasks until our 90 minutes ran out.
