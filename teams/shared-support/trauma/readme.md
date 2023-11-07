@@ -5,7 +5,7 @@ For more on our purpose, check out our [shared learnings from our big meeting in
 
 ## How do I join?
 Anyone can join, regardless of role, title, or status. There's no "official" way of joining, but we usually recommend to:
-- [ ] Join our slack channel at `#trauma-practice`. Don't have access to slack? Reach out to Josh at megan.graham@adhocteam.us for help.
+- [ ] Join our slack channel at `#trauma-practice`. Don't have access to slack? Reach out to Megan at megan.graham@adhocteam.us for help.
 - [ ] [Read how we work together and our community guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md).
 - [ ] Introduce yourself on slack at `#trauma-practice` or at the next big meeting (this is 100% optional 💙)
 - [ ] [Join our next big meeting (email invite)](https://calendar.google.com/calendar/u/0/r/eventedit/cGg0aW8xaDhidmxtZWxqYjFtODNidWQ4amlfMjAyMzA5MTFUMjAwMDAwWiBtZWdhbi5ncmFoYW1AYWRob2N0ZWFtLnVz). Big groups are open to anyone, no sign up needed. You can [check out our agenda or add to it here (google docs)](https://docs.google.com/document/d/1z5OsfMtlnVp-ntPUi3zPUzw__1mwECqR9bMJygN04h0/edit?usp=sharing).
