@@ -4,7 +4,7 @@
 - **Time**: 4:30 p.m. Eastern
 - [Zoom Link](https://coformaco.zoom.us/j/81312165916?pwd=QyszOEpFNERKQ1hneXZiUDFzZnBKUT09)
 - Sharepoint Link (Lily?)
-- Recording Link (Laura to add)
+- Recording Link (Laura Steele to provide to Terry to add)
 
 ## Starting the CAIA Process
 ### Process Initiated
@@ -16,7 +16,7 @@
 
 ## Meeting Action Items 🎬
 - [ ] Steps needed in form (**scope**)
-- [ ] Add recording link to the top of this deliverable, when available (Laura or Terry)
+- [ ] Add recording link to the top of this deliverable, when available (Laura S. c/o Terry)
 - [x] Set up Task Areas (Terry)
 - [x] a11y ticket created for sketch file review (SS)
 - [ ] a11y sketch file reviews (SK/SS) 
