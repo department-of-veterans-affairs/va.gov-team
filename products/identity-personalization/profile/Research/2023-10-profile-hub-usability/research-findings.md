@@ -66,6 +66,7 @@ For more details, see see [Who we talked to](#who-we-talked-to)
 
 ## Hypotheses and Conclusions
 
+See [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/conversation-guide.md) for task details.
 
 | **P#**                                    | T1 auth | T2 Nav | T3 Contact | T4 Switch | T5 Nav back | T6 Deep link | T7 Pers. info | T8 Depts/Letters |
 | ----------------------------------------- | ------- | ------ | ---------- | --------- | ----------- | ------------ | ---------------- | --------------------- |
