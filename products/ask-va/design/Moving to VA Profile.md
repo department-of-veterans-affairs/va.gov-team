@@ -14,7 +14,7 @@ Learn more [about VA Profile and how it differs from AVA Profile](https://github
 
 ## How will the move to VA Profile impact submitters?
 
-When we move to VA.gov, we'll start using VA Profile instead of AVA Profile. This change will have no impact on agents. This will have a very minor impact on submitters, in the case that a field used to pre-fill from AVA Profile, but does not exist in VA Profile and therefore they need to manually fill it in themselves.
+When we move to VA.gov, we'll start using VA Profile instead of AVA Profile. This change will have no impact on agents. This will have a very minor impact on submitters: If a field does not exist in VA Profile (but used to exist in AVA Profile), they will now need to manually fill it in.
 
 These examples demonstrate the similarity, from the submitter's perspective.
 
