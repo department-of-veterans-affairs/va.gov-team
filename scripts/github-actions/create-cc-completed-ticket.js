@@ -4,10 +4,11 @@ const {
   GITHUB_TOKEN,
   GITHUB_REPOSITORY,
   ZENHUB_API_KEY,
+  GOV_TEAM_BOARD_ID,
   ISSUE_NUMBER
 } = process.env;
 
-const GOV_TEAM_BOARD_ID = '5f85b91c14d8df0018fac414';
+// const GOV_TEAM_BOARD_ID = '5f85b91c14d8df0018fac414';
 const [owner, repo] = GITHUB_REPOSITORY.split('/');
 
 const axiosInstanceZH = axios.create({
@@ -336,9 +337,10 @@ async function main() {
   // let title = await getTitleInfo(67119);
   // title = `TEST: ${title}`;
   //create issue
-  console.log('---->', ZENHUB_API_KEY.length);
-  const repoId = await getVaGovTeamRepoId();
-  console.log(repoId);
+  console.log('----> ZH', ZENHUB_API_KEY.length);
+  console.log('----> GOV TEAM', GOV_TEAM_BOARD_ID.length);
+  // const repoId = await getVaGovTeamRepoId();
+  // console.log(repoId);
   // const newTicketId = await createIssue(title, repoId);
 
   //get id of epics
