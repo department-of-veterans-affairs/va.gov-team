@@ -51,7 +51,7 @@ In Step 4, when we pull from VA Profile, there are certain fields that don't exi
 - School Facility
   - This does not pre-fill from VA Profile, so they will manually fill it in.
 - Service Number
-  - This does not pre-fill from VA Profile, so they will manually fill it in, or, they can input their Social Security Number instead (either or).
+  - This does not pre-fill from VA Profile, so they will manually fill it in, or, they can input their Social Security Number instead.
 
 ## Comparison of fields in VA Profile and AVA Profile
 
