@@ -49,4 +49,5 @@ One participant had an unconventional way of navigating the page by having the s
 
 
 **5. We found that users of screen readers were extraordinarily patient**
+
 Although the login process was time consuming and frustrating, participants were in good spirits and eager to continue to complete tasks until our 90 minutes ran out.
