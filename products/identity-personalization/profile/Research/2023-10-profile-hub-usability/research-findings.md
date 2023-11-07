@@ -157,7 +157,7 @@ Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/
 - Participants switched **from one Profile section to another** using mostly side navigation links, but also breadcrumbs and even the authenticated menu profile link.
 - Participants navigated **back to the Profile hub from a given section** with breadcrumbs, the back button, the authenticated menu profile link, or a keyboard shortcut to the previous page.
 
-Given the usage of breadcrumbs and the authenticated menu's profile link, it's possible that the sidebar navigation is not needed.
+Given the usage of breadcrumbs and the authenticated menu's profile link, is it possible that the sidebar navigation is not needed?
 
 > I usually don't use the back button, because a lot of times it can get you logged out. (P1)
 
