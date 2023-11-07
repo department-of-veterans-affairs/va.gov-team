@@ -38,6 +38,7 @@ One participant stated they thought the "cancel" button would cancel the whole f
 
 
 **3. VoiceOver is not reading transition pages**
+
 This is an issue with Focus attribute and has been documented previously.
 
 
