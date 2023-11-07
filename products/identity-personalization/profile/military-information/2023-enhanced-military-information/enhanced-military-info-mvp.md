@@ -8,7 +8,16 @@
 
 ## Table of Contents 
 
-[Overview](#overview)
+- [Overview](#overview)
+- [MVP Goal](#mvp-goal)
+     - [MVP Data Elements](#mvp-data-elements)
+          - [Disability claim form (526EZ)](#disability-claim-526ez)
+- [Outcomes](#outcomes)
+- [Measuring Success](#measuring-success)
+- [Key deliverables / artifacts](#key-deliverables--artifacts)
+- [Key dates](#key-dates)
+- [Key decisions](#key-decisions)
+- [Design](#design)
 
 
 ## Overview
@@ -37,7 +46,7 @@ The MVP data points we're focusing on are tightly linked with the 526EZ applicat
 3. deployment locations and start and end dates of deployments
 4. military occupational specialties
 
-#### Disability claim (526EZ)
+#### Disability claim form (526EZ)
 The online version of this form is being refreshed to match the paper version which asks additional questions around military information. With that in mind we're using this form to help prioritize the addition of data elements into the Profile that align with this form/application process. 
 
 - [Paper form](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
