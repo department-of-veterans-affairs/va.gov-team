@@ -152,10 +152,12 @@ Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/
 
 Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
-**Participants used a variety of methods for switching from one Profile section to another and navigating back to the Profile hub page**. While a few participants used the breadcrumbs, a few used the back button, authenticated menu Profile link, or a keyboard shortcut to the previous page.
+**Participants used a variety of methods for switching from one Profile section to another and navigating back to the Profile hub page**.
 
-	- They switched from one Profile section to another using mostly side navigation links, but also breadcrumbs and even the authenticated menu profile link. 
-	- They navigated back to the Profile hub from a given section back with  breadcrumbs, the back button, the authenticated menu profile link, or a keyboard shortcut to the previous page.
+- Participants switched **from one Profile section to another** using mostly side navigation links, but also breadcrumbs and even the authenticated menu profile link.
+- Participants navigated **back to the Profile hub from a given section** with breadcrumbs, the back button, the authenticated menu profile link, or a keyboard shortcut to the previous page.
+
+Given the usage of breadcrumbs and the authenticated menu's profile link, it's possible that the sidebar navigation is not needed.
 
 > I usually don't use the back button, because a lot of times it can get you logged out. (P1)
 
@@ -275,6 +277,7 @@ P11 expressed a desire to have everything in one place to make it simpler and ea
 * **Recommendation 3**: Do further research into incorporating dependents and letters in some fashion into veteran profiles beyond the existing links to those pages.
 	- 5/9 participants thought letters belonged in their profile, and of the participants we were able to ask about dependents, one participant thought that information should be in their profile.
 	- _See finding 6 for all supporting evidence_
+* **Recommendation 4**: Discuss as a team whether the sidebar navigation is still necessary. [add more]
 
 ## Next Steps
 
