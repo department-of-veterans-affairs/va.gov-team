@@ -169,7 +169,7 @@ Given the usage of breadcrumbs and the authenticated menu's profile link, it's p
 
 Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
-Deep links, such as the `Learn how to request your DD214 and other military records` link are useful. The original question the moderator asked participants did not include the term “DD214”, so most reactions to this question involved navigating to the Military information section. Wanting to pull the focus back to deep links on the hub page, the moderator pivoted a few sessions into the study, and switched to asking directly how they’d go about requesting their DD214. Participants used the Profile hub deep link right away.
+Deep links, such as the `Learn how to request your DD214 and other military records` link are useful. The original question the moderator asked participants did not include the term “DD214”, so most reactions to this question involved navigating to the Military information section. Wanting to pull the focus back to deep links on the hub page, the moderator pivoted a few sessions into the study, and switched to asking directly how they’d go about requesting their DD214. Participants used the Profile hub deep link right away. None of the participants who returned to the profile hub after clicking on the DD214 deep link were confused.
 
 ### Finding 5
 
