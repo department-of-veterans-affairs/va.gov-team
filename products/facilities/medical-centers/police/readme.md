@@ -116,7 +116,6 @@ TBD
 
 ## Solution Narrative
 
-## Key Decisions
 ## Screenshots
 
 ## Stakeholders
