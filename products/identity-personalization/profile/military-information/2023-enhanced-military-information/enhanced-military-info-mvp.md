@@ -113,8 +113,8 @@ The online version of this form is being refreshed to match the paper version wh
 
 ## Design
 
-[Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
-[mural for sensemaking / initial lo-fi mocks]
+- [Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+- [mural for sensemaking / initial lo-fi mocks](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697125319596/c13810c02c96a58a4b6b72288c6b9a8d617f711a?sender=uaa72d11015d3f7c704a64191)
 
 ### Before
 
