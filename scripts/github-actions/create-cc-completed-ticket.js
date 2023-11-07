@@ -81,6 +81,14 @@ async function addMilestone(number, milestone) {
   });
 }
 
+// close the completed ticket
+async function closeIssue(number) {
+  const URL = `issues/${number}`;
+  await axiosInstanceGH.patch(URL, {
+    state: "closed"
+  });
+}
+
 // get the va.gov-team's repo id
 async function getVaGovTeamRepoId() {
   const query = `query {
@@ -203,26 +211,6 @@ async function addIssueToCurrentSprint(id) {
   }
 }
 
-// get the id for a pipeline on the Gov Team board
-async function getPipelineId(pipeline) {
-  const query = `query GetPipelinesWorkspace($workspaceId: ID!) {
-       workspace(id: $workspaceId) {
-         pipelines {
-     			name
-           id
-        }
-     }}`
-
-  const { data } = await axiosInstanceZH.post('', {
-    query,
-    variables: {
-      workspaceId: GOV_TEAM_BOARD_ID
-    }
-  });
-  const [{ id }] = data.data.workspace.pipelines.filter(_pipeline => _pipeline.name === pipeline);
-  return id;
-}
-
 // get the id of an epic based upon title of a ZenHub issue
 async function getEpicId(epicTitle) {
   const query = `query epicsFromWorkspace($workspaceId: ID!, $epicTitle: String!) {
@@ -298,31 +286,13 @@ async function setEstimate(issueId) {
   });
 }
 
-// move issue to new pipeline
-async function moveIssue(issueId, pipelineId) {
-  const query = `mutation MoveIssue($input: MoveIssueInput!) {
-    moveIssue(input: $input) {
-        clientMutationId
-    }
-  }`;
-  axiosInstanceZH.post('', {
-    query,
-    variables: {
-      input: {
-        pipelineId,
-        issueId
-      }
-    }
-  });
-}
-
 async function main() {
   try {
     // generate title for created ticket
     const data = await getGHIssue(ISSUE_NUMBER);
     const title = getTitleInfo(data.body);
 
-    // create issue
+    // create completed ticket
     const repoId = await getVaGovTeamRepoId();
     const { id: newTicketId, number: newTicketNumber } = await createIssue(title, repoId);
   
@@ -333,14 +303,13 @@ async function main() {
     const epicId = await getEpicId(data.title);
     const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
   
-    //update ticket
+    //update completed ticket
     await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
     await setEstimate(newTicketId);
     await addIssueToCurrentSprint(newTicketId);
 
-    //move to closed pipeline
-    const closedId = await getPipelineId('Closed');
-    await moveIssue(newTicketId, closedId);
+    //close the completed ticket
+    await closeIssue(newTicketNumber);
   } catch (error) {
     console.log(error);
     process.exit(1);
