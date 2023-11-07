@@ -1,7 +1,7 @@
 # Design strategy: Phase 1
 *Ask VA Front-End*
 
-Last updated by @tygindraux on November 6, 2023 
+Last updated by @beckyphung on November 7, 2023 
 
 ## Product background
 
@@ -77,11 +77,11 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 #### Impact
 
-**Everyone has a right to the same experience.** Regardless of the device used, level of familiarity with VA.gov tools, or cognitive ability, we’ll design a consistent and cohesive user experience for Ask VA that anyone can use. This looks like: 
-- Ensuring our design decisions, like avoiding modals and conditionals that change the page while you're still on it, contribute to building a cohesive and fair experience.
+**Everyone has a right to the same experience.** Regardless of the device used, level of familiarity with VA.gov tools, or cognitive ability, we’ll design a consistent and cohesive user experience for Ask VA that anyone can use. For example, we will:
+- Ensure our design decisions, like avoiding modals and conditionals that change the page while you're still on it, contribute to building a cohesive and fair experience.
 
-**People should be able to find Ask VA, when they need it.** We'll optimize the navigation pathways to Ask VA for Veterans and other submitters. This looks like: 
-- Ensuring existing links to Ask VA transition seamlessly when Ask VA moves to VA.gov.
+**People should be able to find Ask VA, when they need it.** We'll optimize the navigation pathways to Ask VA for Veterans and other submitters. For example, we will:
+- Ensure existing links to Ask VA transition seamlessly when Ask VA moves to VA.gov.
 - In addition, by moving Ask VA to the contact hub on VA.gov, we aim to improve how easy it is to find.
 
 ### Our approach
