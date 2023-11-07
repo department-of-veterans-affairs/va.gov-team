@@ -12,14 +12,16 @@
 - [ ] We will spin off our tickets within that Epic ticket:
     - [ ] Content
     - [ ] IA
-    - [ ] Accessibility
+    - [x] Accessibility: [Ticket #69302 Review of Sketch Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69302) 
 
 ## Meeting Action Items 🎬
 - [ ] Steps needed in form (**scope**)
 - [x] Set up Task Areas (Terry)
-- [ ] a11y sketch file reviews (SK?)
+- [x] a11y ticket created for sketch file review (SS)
+- [ ] a11y sketch file reviews (SK/SS) 
 - [ ] MVP goal with future enhancements (plan future tasks)
 - [ ] VBA stakeholder changes and SME confirmation needed.
+- [x] Meeting Deliverable Completed
 
 🔗[Jump to the bottom to take notes in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/meeting-notes/2022-11-06-Kickoff-Meeting-Burials-Form-Updates-Non-Disability-Experience-Team.md#discussion-notes%EF%B8%8F)
 
