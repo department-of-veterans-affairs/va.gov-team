@@ -51,8 +51,9 @@ Additionally, as time permitted:
 - What, if any, additional information might be helpful to add to veterans' military information section?
 	- This will help inform the [enhanced military info project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md).
 - To what extent would veterans look in their authenticated menu for links to dependents and letters?
+	- This will help inform the [project that added links to dependents and letters within the authenticated menu](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter).
 - Where within their profile would veterans expect to find emergency contact and next of kin information?
-	- This will help inform the  [personal health care contacts project](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-health-care-contacts).
+	- This will help inform the [personal health care contacts project](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-health-care-contacts).
 
 
 ## Methodology 
