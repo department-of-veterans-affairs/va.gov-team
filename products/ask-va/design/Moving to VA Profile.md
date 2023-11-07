@@ -14,7 +14,7 @@ Learn more [about VA Profile and how it differs from AVA Profile](https://github
 
 ## How will the move to VA Profile impact submitters?
 
-When we move to VA.gov, we'll start using VA Profile instead of AVA Profile. This change will have no impact on agents. This will have a very minor impact on submitters: If a field does not exist in VA Profile (but used to exist in AVA Profile), they will now need to manually fill it in.
+When we move to VA.gov, we'll start using VA Profile instead of AVA Profile. This change will have no impact on agents. This will have a very minor impact on submitters: If a field does not exist in VA Profile (but used to exist in AVA Profile), they will now need to manually fill it in or edit their VA.gov profile.
 
 These examples demonstrate the similarity, from the submitter's perspective.
 
@@ -34,15 +34,24 @@ These examples demonstrate the similarity, from the submitter's perspective.
 4. Submitter fills in fields that were not pre-filled.
 5. Submitter sends inquiry.
 
-In Step 4, when we pull from VA Profile, there are certain fields that don't exist in VA Profile and do exist in AVA Profile. This means they used to be pre-filled for a submitter (when Ask VA was on ask.va.gov) but they no longer are. In these cases, a submitter will have to manually fill in their information:
+In Step 4, when we pull from VA Profile, there are certain fields that don't exist in VA Profile and do exist in AVA Profile. This means they used to be pre-filled for a submitter (when Ask VA was on ask.va.gov) but they no longer are. In these cases, a submitter will have to manually fill in their information or edit their VA.gov profile:
 
 - Suffix
+  - This does not pre-fill, so they will manually fill it in.
 - Pronouns
-- Business phone (There will only be one phone input in the new front-end. The phone input will prefill with the submitter's personal phone. If you're a business submitter and would like to include your business phone, you'll need to manually update this field.)
-- Business email (There will only be one email input in the new front-end. The email input will prefill with the submitter's personal email. If you're a business submitter and would like to include your business email, you'll need to manually update this field.)
+  - This does not pre-fill, so they will manually fill it in.
+- Business phone
+  - There is no field in the form for business phone, there's just one field for phone number.
+  - We'll pull their personal phone number from their VA Profile, so if they want to change this to their business phone number, they will need to edit their personal phone number in VA.gov profile.
+- Business email
+  - There is no field in the form for business email, there's just one field for email.
+  - We'll pull their personal email from their VA Profile, so if they want to change this to their business email, they will need to edit their personal email in VA.gov profile.
 - School State
+  - This does not pre-fill, so they will manually fill it in.
 - School Facility
-- Service Number (they'll be able to provide this or their SSN)
+  - This does not pre-fill, so they will manually fill it in.
+- Service Number
+  - This does not pre-fill, so they will manually fill it in, or, they can input their Social Security Number instead (either or).
 
 ## Comparison of fields in VA Profile and AVA Profile
 
