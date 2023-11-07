@@ -57,7 +57,7 @@ Period - 10/25/2023 - 11/07/2023
 - **Features**
    - 526ez sync with paper version 
        - [ ] New military service questions - kick-off collab cycle
-       - [ ] Toxic Exposure - potential design suggestions 
+       - [ ] Toxic Exposure - potential design suggestions, copy updates and update to the content document with all post research reccomendations
        - [ ] Toxic Exposure end to end mapping and identifying open questions
          
 - **Other**
