@@ -333,24 +333,25 @@ async function moveIssue(issueId, pipelineId) {
 }
 
 async function main() {
-  let title = await getTitleInfo(67119);
-  title = `TEST: ${title}`;
+  // let title = await getTitleInfo(67119);
+  // title = `TEST: ${title}`;
   //create issue
   const repoId = await getVaGovTeamRepoId();
-  const newTicketId = await createIssue(title, repoId);
+  console.log(repoId);
+  // const newTicketId = await createIssue(title, repoId);
 
   //get id of epics
-  const epicId = await getEpicId('Collaboration Cycle for [10-10 Health Apps, 10-10EZ, Registration Only]')
-  const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
+  // const epicId = await getEpicId('Collaboration Cycle for [10-10 Health Apps, 10-10EZ, Registration Only]')
+  // const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
   
   //update ticket
-  await addIssueToEpic(newTicketId, epicId, ccEpicId);
-  await setEstimate(newTicketId, 3);
-  await addIssueToCurrentSprint(newTicketId);
+  // await addIssueToEpic(newTicketId, epicId, ccEpicId);
+  // await setEstimate(newTicketId, 3);
+  // await addIssueToCurrentSprint(newTicketId);
 
   //move to closed pipeline
-  const closedId = await getPipelineId('Review/QA');
-  await moveIssue(newTicketId, closedId);
+  // const closedId = await getPipelineId('Review/QA');
+  // await moveIssue(newTicketId, closedId);
 }
 
 main();
