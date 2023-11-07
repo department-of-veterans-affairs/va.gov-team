@@ -16,8 +16,8 @@ We also keep additional design documentation [in this Github folder](https://git
 |[Category, topic and subtopic labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Category%2C%20topic%20and%20subtopic%20labels.md)|Lists the agreed names of the categories, topic and subtopics|Oct 17, 2023|
 |[Similarities and differences between categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md)|Describes patterns in the design of the Ask VA form|Oct 26, 2023|
 |[Statuses and triggers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses%20and%20triggers.md)|Describes inquiry statuses and when they are assigned|Nov 6, 2023|
-|[Comparing profile fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Comparing%20profile%20fields.md)|Describes how the move to VA Profile will impact submitters|Oct 31, 2023|
+|[Moving to VA Profile]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Comparing%20profile%20fields.md)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Moving%20to%20VA%20Profile.md)|Describes how the move to VA Profile will impact submitters|Oct 31, 2023|
 
 ### Get in touch
-Reach out on [#ask-va-public](https://dsva.slack.com/archives/C05A2F6DEAE) or contact Thomas Michaud (thomas.michaud@oddball.io), Tyler Gindraux (tyler@bluetiger.digital), or Becky Phung (becky.phung@va.gov) about these designs.
+Reach out on [#ask-va-public](https:/)/dsva.slack.com/archives/C05A2F6DEAE) or contact Thomas Michaud (thomas.michaud@oddball.io), Tyler Gindraux (tyler@bluetiger.digital), or Becky Phung (becky.phung@va.gov) about these designs.
 
