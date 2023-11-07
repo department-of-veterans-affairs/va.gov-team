@@ -15,25 +15,20 @@ Period - 10/25/2023 - 11/07/2023
           - Benefits Claims Service
             - [ ] DD Dashboard
 - **Features**
-   - 526ez changes to Intro pages
-      - [ ] Intro pages - review flow changes - Design
-      - Continue Implementation of unblocked Intro pages changes - Frontend Engineering
-         - [ ] Copy changes
-
    - 526ez sync with paper version 
        - [ ] New military service questions - kick-off collab cycle
-       - [ ] Toxic Exposure design changes 
+       - [ ] Toxic Exposure design changes and copy updates
+       - [ ] Toxic Exposure end to end mapping and identifying open questions
          
 - **Other**
-- - [ ] Shadow Research plan
+  - [ ] Shadow Research plan
+  - [ ] Teams 1 & 2 research effort - Review medallia survey data - Report   
       
-- - **Stretch Goals**
+- **Stretch Goals**
   - Engineering
+     - Discovery for EMIS Migration testing
      - PPIU - Direct Debit 
        - [ ] Release plan
-  - Research
-     - Teams 1 & 2 research effort - Review medallia survey data - Report    
-     - Audit of all changes as part of paper sync
    
 ## Sprint 16
 Period - 10/11/2023 - 10/24/2023
