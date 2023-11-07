@@ -94,8 +94,9 @@ Before we look at the website, let’s start with a few warm-up questions.
     - How would you expect to recieve a notification like this? [email, text, multiple ways?]
     - Would you do anything with this information?
        - If you wouldn't take any action based on this notification, what might you expct to happen?
-    - If you decided to take action, what would you do? [prompt] Would you go to VA.gov to sign into to your acount?
-    - Can you show me where you might go once signed into the VA to sign out of the device you didn't recognize?  Why would you start there?
+    - If you decided to take action, what would you do? [pause]
+       - [If they don't respond with VA.gov]... Would you go to VA.gov to sign into to your acount?
+          - Can you show me where you might go once signed into the VA to sign out of the device you didn't recognize?  Why would you start there?
 - **Username** page
    - [SUCCESS] (selects username > profile OR "go to your profile") Allow them to continue walking you through.
    - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
