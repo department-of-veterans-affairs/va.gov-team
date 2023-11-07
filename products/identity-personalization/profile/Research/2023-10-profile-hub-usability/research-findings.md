@@ -66,8 +66,6 @@ For more details, see see [Who we talked to](#who-we-talked-to)
 
 ## Hypotheses and Conclusions
 
-See [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/conversation-guide.md) for task details.
-
 | **P#**                                    | T1 auth | T2 Nav | T3 Contact | T4 Switch | T5 Nav back | T6 Deep link | T7 Pers. info | T8 Depts/Letters |
 | ----------------------------------------- | ------- | ------ | ---------- | --------- | ----------- | ------------ | ---------------- | --------------------- |
 | **P1 desktop**                            | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Pass                  |
@@ -80,6 +78,7 @@ See [Conversation Guide](https://github.com/department-of-veterans-affairs/va.go
 | **P11 desktop; mag; tech issues**         | Fail    | Pass   | Pass       | Pass       | Pass        | Pass         | Pass             | Pass                  |
 | **P13 desktop; VO keyboard; tech issues** | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Skipped          | Pass                  |
 
+- See [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/conversation-guide.md) for task details.
 
 We hypothesized that the Profile Hub will resolve the structural and organization issues detailed in the background section in the following ways:
 
@@ -162,7 +161,7 @@ Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/
 
 Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
-Deep links, such as the `Learn how to request your DD214 and other military records` link are useful.  The original question the moderator asked participants did not include the term “DD214”, so most reactions to this question involved navigating to the Military information section. Wanting to pull the focus back to deep links on the hub page, the moderator pivoted a few sessions into the study, and switched to asking directly how they’d go about requesting their DD214. Participants used the Profile hub deep link right away.
+Deep links, such as the `Learn how to request your DD214 and other military records` link are useful. The original question the moderator asked participants did not include the term “DD214”, so most reactions to this question involved navigating to the Military information section. Wanting to pull the focus back to deep links on the hub page, the moderator pivoted a few sessions into the study, and switched to asking directly how they’d go about requesting their DD214. Participants used the Profile hub deep link right away.
 
 ### Finding 5
 
