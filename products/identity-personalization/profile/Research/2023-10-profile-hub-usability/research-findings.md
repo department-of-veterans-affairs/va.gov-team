@@ -173,7 +173,7 @@ Deep links, such as the `Learn how to request your DD214 and other military reco
 
 ### Finding 5
 
-Once on their Military information section, participants were prompted to think of things that would be useful to include on this page, and a few items emerged: duty stations, duty status, deployment locations – ultimately, anything that’s asked on a claim form should be here.
+Once on their Military information section, participants were prompted to think of things that would be useful to include on this page, and a few items emerged: **duty stations, duty status, deployment locations – ultimately, anything that’s asked on a claim form should be here**.
 
 > **Any information, any military information that's asked on the claims form – they should have in here, that kind of stuff.** That kind of military information, like your dates of service, which they have here, your duties, you know, your duty stations, things like that. (P1)
 
