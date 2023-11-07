@@ -52,6 +52,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - This migration will make use of two flags: `disability_compensation_lighthouse_rated_disabilities_provider_background` and `disability_compensation_lighthouse_rated_disabilities_provider_foreground`
     - Representing the RD call in the submit flow and form flow, respectively
 - LH v2 does not have a controller mapped on the vets-api side, will have to monitor the RD job instead
+- 11/7 - LH will be making a change to the service their API calls, thus we will have to redo some tests
 
 < br >
 
