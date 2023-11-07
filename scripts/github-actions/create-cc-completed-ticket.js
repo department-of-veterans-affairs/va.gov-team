@@ -336,6 +336,7 @@ async function main() {
   // let title = await getTitleInfo(67119);
   // title = `TEST: ${title}`;
   //create issue
+  console.log('---->', ZENHUB_API_KEY.length);
   const repoId = await getVaGovTeamRepoId();
   console.log(repoId);
   // const newTicketId = await createIssue(title, repoId);
