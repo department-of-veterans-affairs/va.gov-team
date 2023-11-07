@@ -16,6 +16,7 @@
 
 ## Meeting Action Items 🎬
 - [ ] Steps needed in form (**scope**)
+- [ ] Add recording link to the top of this deliverable, when available (Laura or Terry)
 - [x] Set up Task Areas (Terry)
 - [x] a11y ticket created for sketch file review (SS)
 - [ ] a11y sketch file reviews (SK/SS) 
