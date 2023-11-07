@@ -13,11 +13,12 @@ These changes are documented in [this spreadsheet](https://docs.google.com/sprea
 
 ## "Must Have" updates for Phase 1
 - Changes to category, topic and subtopic names only
-
-## "Nice to Have" updates for Phase 1
 - Adding new topic or subtopic with an existing routing queue
 - Adding new topic or subtopic with a completely new routing queue
 - Removing current topic or subtopic
+
+## "Nice to Have" updates for Phase 1
+
 - Moving 'Other' topic or subtopic to the bottom of the list
 
 ### Evidence
