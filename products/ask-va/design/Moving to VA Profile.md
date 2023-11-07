@@ -38,6 +38,8 @@ In Step 4, when we pull from VA Profile, there are certain fields that don't exi
 
 - Suffix
 - Pronouns
+- Business phone (There will only be one phone input in the new front-end. The phone input will prefill with the submitter's personal phone. If you're a business submitter and would like to include your business phone, you'll need to manually update this field.)
+- Business email (There will only be one email input in the new front-end. The email input will prefill with the submitter's personal email. If you're a business submitter and would like to include your business email, you'll need to manually update this field.)
 - School State
 - School Facility
 - Service Number (they'll be able to provide this or their SSN)
