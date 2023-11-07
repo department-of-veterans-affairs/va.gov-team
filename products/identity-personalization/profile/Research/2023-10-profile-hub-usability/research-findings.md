@@ -70,7 +70,6 @@ For more details, see see [Who we talked to](#who-we-talked-to)
 
 ## Hypotheses and Conclusions
 
-### Task success
 We hypothesized that the Profile Hub will resolve the structural and organization issues detailed in the background section in the following ways:
 
 - Providing short overviews (accompanied by key deep links) of each section will reduce the need for people to search from any profile section for content that lives within their Profile.
