@@ -112,6 +112,7 @@ Before we look at the website, let’s start with a few warm-up questions.
          - For today, we'll navigate to the "Account Security" portion on this page.
    - **Manage Devices** page
       - Can you walk me through what you're seeing here?
+         - What does "Windows 11" indicate?  What type of device do you think that is?
       - What would you do next?
       - What do you think about when seeing the button "sign out" next to each device? What would happen if you clicked, "sign out of all devices"?
          -  [Does the Veteran understand the implication of having to sign back into their account the next time?] 
