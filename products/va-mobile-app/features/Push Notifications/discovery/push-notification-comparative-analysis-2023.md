@@ -195,15 +195,13 @@ To help discuss push notifications in a way that better highlights their relevan
     * We did not have enough examples of push notifications sent by apps tracking **long and very long in-flight tasks** to define content patterns, but the two examples we saw included push notifications **containing specific, critical details** **about the task within the body** (the date and amount of a scheduled insurance premium payment) as well as push notifications **referring more generally to the subject of the notification** (an upcoming preventative care event—this is due to HIPAA). 
     * All apps deep-linked directly to content within the app (as opposed to a notification/message center).
 
- <img src="screenshots/starbucks%20push%20notification.PNG" width="250" alt="Starbucks push notifications - general subject in body"> <img src="screenshots/mynw%20push%20notification.PNG" width="250" alt="MyNM push notification - general subject in body"><img src="screenshots/spothero%20push%20notification.PNG" width="250" alt="SpotHero push notification - specific details in body"> <img src="screenshots/statefarm%20push%20notification.PNG" width="250" alt="StateFarm push notification - specific details in body">
+ <img src="screenshots/starbucks%20push%20notification.PNG" width="200" alt="Starbucks push notifications - general subject in body"> <img src="screenshots/mynw%20push%20notification.PNG" width="200" alt="MyNM push notification - general subject in body"> <img src="screenshots/spothero%20push%20notification.PNG" width="200" alt="SpotHero push notification - specific details in body"> <img src="screenshots/statefarm%20push%20notification.PNG" width="200" alt="StateFarm push notification - specific details in body">
 
 
 ###### L-R: Starbucks and MyNM(MyChart) display general subjects in the notification body, SpotHero and State Farm display specific details about an in-flight task.
 
 
 ### Do apps contain a **notification/message center**? If so, what types of notifications are in it? 
-
-
 
 * 8 apps **contained a notification/message center**, 4 did not. 
     * Of the apps that **had a notification/message center, the content within did not seem to correspond to push notifications** the app had sent.
@@ -214,7 +212,7 @@ To help discuss push notifications in a way that better highlights their relevan
     * Some apps that **did NOT have a notification/message center** did have historical record lists documenting completed in-flight tasks (completed orders, completed appointments, paid bills, etc).
         * **_Hypothesis: Once a task is not in flight, the receipt/historical record list has the relevant information—while a list of time-sensitive information about an in-flight status is outdated and not relevant after the task ends._**
 
-<img src="screenshots/venmo%20notification%20center.PNG" width="250" alt="Venmo - notification center"><img src="screenshots/starbucks%20notificaiton%20center.PNG" width="250" alt="Starbucks - notification center"><img src="screenshots/walmart%20notification%20center.PNG" width="250" alt="Walmart - notification center"><img src="screenshots/mynm%20notification%20center.PNG" width="250" alt="MyNW - notification center">
+<img src="screenshots/venmo%20notification%20center.PNG" width="200" alt="Venmo - notification center">  <img src="screenshots/starbucks%20notificaiton%20center.PNG" width="200" alt="Starbucks - notification center">  <img src="screenshots/walmart%20notification%20center.PNG" width="200" alt="Walmart - notification center">  <img src="screenshots/mynm%20notification%20center.PNG" width="200" alt="MyNW - notification center">
 
 ###### L-R: Venmo & Starbucks notification centers with marketing messages, Walmart and MyNM (MyChart) with empty notification centers.
 
@@ -226,22 +224,8 @@ To help discuss push notifications in a way that better highlights their relevan
     * Badging may appear at app icon level and/or within the app itself. External app icon badges contain a number. Internal badges may contain a number, but also were sometimes represented as a dot.
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+ <img src="screenshots/app%20icon%20badges.PNG" width="200" alt="Bank of America and Venmo app icons with badges"> <img src="screenshots/bofa%20inapp%20badges.png" width="200" alt="Bank of America inbox and alerts icons with badges"> <img src="screenshots/venmo%20inapp%20badge.PNG" width="200" alt="Venmo alerts icon with badge"> 
 
-
-![alt_text](images/image9.png "image_tooltip")
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
 
 ###### L-R: Bank of America and Venmo apps with icon badge, badging inside app
 * It’s possible to turn off badging within device settings.
@@ -251,46 +235,16 @@ To help discuss push notifications in a way that better highlights their relevan
 * **All** of the apps contained a **screen for push notification management** (typically within an “Account” or “Communications” section).
     * For half of the apps, push notifications were one of several communication channels that a user could manage from within the app (also included were SMS and email). 
 
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
-
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image13.png "image_tooltip")
+ <img src="screenshots/statefarm%20notification%20settings.PNG" width="200" alt="State Farm commnunications settings">  <img src="screenshots/walgreens%20notification%20settings.PNG" width="200" alt="Walgreens commnunications settings"> 
 
 ###### L-R: State Farm and Walgreens allow management of multiple communication channels. 
 
 * Nearly all of the apps **allow the user to choose the notification types** they’d like to receive (displaying separate toggles next to each notification category or feature). 
     * Several did not offer the option to toggle _task_ notifications off individually (but did allow marketing messages to be turned off). 
 
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image14.png "image_tooltip")
+<img src="screenshots/postmates%20notification%20settings.PNG" width="200" alt="Postmates notifications settings"> <img src="screenshots/starbucks%20notification%20settings.PNG" width="200" alt="Starbucks notifications settings"> <img src="screenshots/walmart%20notification%20settings.PNG" width="200" alt="Walmart notifications settings"> <img src="screenshots/mynw%20notification%20settings.PNG" width="200" alt="MyNW notifications settings">
 
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image15.png "image_tooltip")
-
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.png "image_tooltip")
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image17.png "image_tooltip")
 
 ###### L-R: Postmates allows management of marketing push notifications only, Starbucks displays toggles next to push notification categories, Walmart displays toggles next to features, MyNM (MyChart) displays a single toggle for all notifications (despite sending several categories)..
 
@@ -299,38 +253,9 @@ To help discuss push notifications in a way that better highlights their relevan
 
 7 apps provided some kind of **specific context about how they’ll use push notifications** before presenting the standard “enable push notifications” modal alert. This context was typically provided as a part of onboarding.
 
+<img src="screenshots/Walgreens%20enable%20notificaitons.png" width="200" alt="Walgreens - enable push notifications - onboarding"> <img src="screenshots/target%20enable%20notifications.png" width="200" alt="Target - enable push notifications - onboarding"><img src="screenshots/spothero%20enable%20notifications1.PNG" width="200" alt="SpotHero - enable push notifications - organic step 1"><img src="screenshots/spothero%20enable%20notifications2.PNG" width="200" alt="SpotHero - enable push notifications - organic step 2"><img src="screenshots/statefarm%20contextual%20enable%20notifications.PNG" width="200" alt="State Farm - enable push notifications - contextual">
 
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image18.png "image_tooltip")
-
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image19.png "image_tooltip")
-
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image20.png "image_tooltip")
-    
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image21.png "image_tooltip")
-
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image22.png "image_tooltip")
-
-###### L-R: State Farm and Walgreens give specific examples of situations when they’ll send a push notification, Target and Spot Hero give general context around how they use push notifications.
+###### L-R: Walgreens and Target give specific examples of situations when they’ll send a push notification within onboarding, Spot Hero and State Farm promote turning push notifications on organically and contextually within a claim.
 
 
 ### How do apps approach push notification permissions management **within device settings**?
