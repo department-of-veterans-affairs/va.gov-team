@@ -5,7 +5,8 @@ const {
   GITHUB_REPOSITORY,
   ZENHUB_API_KEY,
   GOV_TEAM_BOARD_ID,
-  ISSUE_NUMBER
+  ISSUE_NUMBER,
+  EVENT_LABEL
 } = process.env;
 
 const CUSTOMER_SUPPORT_EPIC_NAME = 'Governance Team Collaboration Cycle Customer Support';
@@ -354,7 +355,7 @@ async function moveIssue(issueId, pipelineId) {
 
 async function main() {
   // generate title for created ticket
-  const data = await getGHIssue(67119);
+  const data = await getGHIssue(64694);
   let title = getTitleInfo(data.body);
   title = `TEST: ${title}`;
 
@@ -375,7 +376,7 @@ async function main() {
   await addIssueToCurrentSprint(newTicketId);
 
   //move to closed pipeline
-  const closedId = await getPipelineId('Review/QA');
+  const closedId = await getPipelineId('Closed');
   await moveIssue(newTicketId, closedId);
 }
 
