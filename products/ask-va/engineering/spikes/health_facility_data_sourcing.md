@@ -29,7 +29,7 @@ For the 2 that didn't match on id or name:
   * VHACO is a CRM only facility (not used in Portal).  It is a default routing location if the AVA agent cant determine what facility to send a request to
 
 ## Recommendation
-The recommendation would be to use the Lighthouse API for HealthCare facilities. The data from there should be the most up to date information available and would remove any need for a manual updating of the list availble. 
+The recommendation would be to use the Lighthouse API for HealthCare facilities but to limit the results to only those facilities that have routing rules specified for them (the 140 listed in the comparison document). The data from there should be the most up to date information available and would remove any need for a manual updating of the list availble. 
 
 Any health facilities that we allow for selection in the form that are not currently used by the CRM team, will get defaulted to the 101 VHACO facility id.  
 
