@@ -71,6 +71,9 @@ Before we look at the website, let’s start with a few warm-up questions.
   - Do you ever sign back in after signing out? Can you describe that for me?
 - How do you keep track of your password for signing into your VA account?
    - Have you ever had to reset your password? Can you describe that process for me?
+- Have you ever logged into a website like your bank or Facebook from both your phone and computer or another device at the same time?
+   - Are there any security concerns with this?
+   - [If yes] What do you think those concerns might be?
 - Some services online register where you sign in from and let you know if your account has been signed in from a device or even a location that is unusual for you. Have you ever gotten a notice like this, from any service?
    - If so, what did you think? What did you do (if anything)?
 - Have you ever had the need to sign out a device when you didn't have access to it? This could be on any service, not just VA, and for any reason. If so, can you recall why you did? Can you describe the steps you took?
