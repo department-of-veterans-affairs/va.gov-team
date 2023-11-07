@@ -1,6 +1,6 @@
 # VA Mobile App - Comparative Analysis: Push Notifications
 
-
+Nov 2023
 
 [Push Notification Strategy - Sprint 0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/Push%20Notification%20Strategy%20-%20Sprint%200.md) 
 
