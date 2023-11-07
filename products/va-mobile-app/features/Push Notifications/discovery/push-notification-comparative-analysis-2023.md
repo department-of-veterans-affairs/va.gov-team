@@ -30,7 +30,7 @@ _*This work is limited to what’s happening in the mobile apps in terms of deli
 _Note: This work is part of the [VA Mobile App - Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization)_. _Addresses #[7113](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7113)_
 
 
-## Apps Reviewed (12)
+### Apps Reviewed (12)
 
 The comparative analysis included apps that share similar task structures as current and potential future features in the VA mobile app that also send push notifications. Apps marked with an asterisk* also appeared in the [Comparative Analysis: Personalized & contextual Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md). 
 
