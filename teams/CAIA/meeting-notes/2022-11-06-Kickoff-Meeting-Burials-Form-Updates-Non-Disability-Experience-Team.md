@@ -125,12 +125,17 @@ Fixing the 530 form is a high-priority for OCTO and the VBA.
 
 ### Project
 - Sounds like they want to keep this round of CAIA support very scoped. How many screens or questions is this? Any tricky pieces to flag?
-- Trying to get MVP out fast with future enhancements. Just want us to look at added fields here.
+- Trying to get MVP out **fast** _with future enhancements_.
+- **Just want us to look at added fields here.**
 - Mostly just adding fields, removing deprecated fields. May be other edits including splitting/combining questions.
-- New fields added in Steps 1 and 2, a few in Step 3, new page in Step 4 for transportation allowance. No major changes to Step 5 or 6. Fiorella has set up current and proposed flows in sketch, annotated anywhere there's a change. Some changes are pending with VBA stakeholders and need confirmation from SMEs.
+- New fields added in Steps [1](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/350AC352-727B-4D99-B72B-D466886BE199/canvas) and [2](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/4871EF16-DFC9-460E-AA1B-7ED24E33B188/canvas), a few in Step [3](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/99FEF874-74D9-41F1-BD5E-AE7E7E1D768C/canvas), new page in Step [4](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/B7F2215E-001C-41F3-B803-9DFD96E7B129/canvas) for transportation allowance. No major changes to Step [5](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/E1B6C12E-B2F8-4A50-9CC1-1F44853FA3C6/canvas) or [6](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/28963E25-18C3-4CDA-A356-BF4FD6A7A5A6/canvas). Fiorella has set up current and proposed flows in sketch, annotated anywhere there's a change. Some changes are pending with VBA stakeholders and need confirmation from SMEs.
+
 #### Problems
-- One change on Step 3, previously required to include service history. Now adding question about discharge papers, so some people can skip service history questions. Have an archived version where they set it up to allow veterans to upload discharge papers on that Step 3 page, so curious about our thoughts on that.
-- Question about previous names: got feedback that people might have difficulty remembering services rendered under previous name, they're clarifying with SMEs what to do with this (is there a plain language version of this question,what does "services rendered" mean, what information do they really need to receive on this question).
+- One change on Step [3](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/99FEF874-74D9-41F1-BD5E-AE7E7E1D768C/canvas).
+    - **Previously** required to include service history.
+    - **Now** adding question about discharge papers, so some people can skip service history questions.
+    - Have an archived version where they set it up to allow veterans to upload discharge papers on that Step 3 page, so curious about our thoughts on that.
+- **Question about previous names:** Received feedback that people might have difficulty remembering services rendered under previous name, they're clarifying with SMEs what to do with this (is there a plain language version of this question,what does "services rendered" mean, what information do they really need to receive on this question).
 - 
 #### CAIA
 - **Content**
@@ -146,3 +151,5 @@ Fixing the 530 form is a high-priority for OCTO and the VBA.
 Pension painpoint is more accute, Laura Steele confirmed with Emily this should be priority
 Burial forms are at least being processed, but looking to update.
 Sketch screens are ready for review, except for the questions they flagged for SMEs, Julie can let us know about any of those.
+Trying to get MVP out **fast** _with future enhancements_.
+**Just want us to look at added fields here.**
