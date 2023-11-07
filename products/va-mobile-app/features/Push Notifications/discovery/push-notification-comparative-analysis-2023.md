@@ -56,13 +56,13 @@ The comparative analysis included apps that share similar task structures as cur
 To help discuss push notifications in a way that better highlights their relevance to the VA mobile app, we devised a system of classifying push notification content types and mobile app task structures:
 
 * **Promotional messages**: announcing sales & promotions, new app features, new programs
-* **Transactional & operational messages:**
-* **Inform/reminder messages:** alerts users to a new piece of information being available that’s not tied to an in-flight task—like news, a new account message, an update to a policy, account changes.
-* **In-flight task messages:** keep users up-to-date during in-flight tasks of varying lengths:
-   * **Short**(minutes - hours): Food delivery/pickup orders, airline flight status (day of travel), health/medical appointments (day of appointment) 
-   * **Medium** (hours - days): Retail pickup orders, parking reservations, pharmacy pickup orders
-   * **Long** (weeks - months): Banking/credit card bills, insurance bills, health/medical appointments, retail shipping orders, travel reservations, event tickets
-   * **Very long** (months +): insurance claims 
+   * **Transactional & operational messages:**
+   * **Inform/reminder messages:** alerts users to a new piece of information being available that’s not tied to an in-flight task—like news, a new account message, an update to a policy, account changes.
+   * **In-flight task messages:** keep users up-to-date during in-flight tasks of varying lengths:
+      * **Short**(minutes - hours): Food delivery/pickup orders, airline flight status (day of travel), health/medical appointments (day of appointment) 
+      * **Medium** (hours - days): Retail pickup orders, parking reservations, pharmacy pickup orders
+      * **Long** (weeks - months): Banking/credit card bills, insurance bills, health/medical appointments, retail shipping orders, travel reservations, event tickets
+      * **Very long** (months +): insurance claims 
 
 
 <table>
