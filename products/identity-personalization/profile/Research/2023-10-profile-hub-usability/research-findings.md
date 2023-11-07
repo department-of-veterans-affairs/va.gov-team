@@ -20,6 +20,8 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 The Profile hub is a new page in a veteran’s profile account that gives veterans an overview of each profile section, addressing a longstanding [“hubless spoke”](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41697) issue. This work applies to any life stage in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from `Starting Up` through `Aging`. 
 
+![profile-hub-desktop](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/session-notes/profile-hub-desktop.png)
+
 The purpose of this research is to get feedback on the structure and navigability of the hub by:
 
 - Evaluating the effectiveness of the Profile Hub page in helping people complete common tasks.
@@ -105,15 +107,16 @@ We also assumed the following:
 3. Participants used a variety of methods for switching from one Profile section to another and navigating back to the Profile hub page. 
 	- They switched from one Profile section to another using mostly side navigation links, but also breadcrumbs and even the authenticated menu profile link. 
 	- They navigated back to the Profile hub from a given section back with  breadcrumbs, the back button, the authenticated menu profile link, or a keyboard shortcut to the previous page.
-4. Deep links like the DD214 link are useful. Participants also mentioned a few things that would be helpful in enhancing their Military information. Duty stations, duty status (active, reserves), and deployment locations – ultimately anything that’s asked for on a claim form should be here.
-5. Participants that used their authenticated menu for navigation had more success in finding links to dependents and/or letters than participants who weren't aware of their authenticated menu until prompted by the moderator.
-6. Participants associated dependents and letters with their profile. 5/9 participants thought letters belonged in their profile, since letters are associated with them, and while not all participants had dependents, at least one participant expected to see that information in their profile.
-7. One screen reader participant encountered difficulty with the body and link text within the cards, the result of a combination of screen reader issues and repetitive word choices.
-8. Participants expected their emergency contact and next of kin information to be in their profile.
+4. Deep links such as the DD214 link are useful. 
+5. Participants also mentioned a few things that would be helpful in enhancing their Military information. Duty stations, duty status (active, reserves), and deployment locations – ultimately anything that’s asked for on a claim form should be here.
+6. (used to be 5) Participants that used their authenticated menu for navigation had more success in finding links to dependents and/or letters than participants who weren't aware of their authenticated menu until prompted by the moderator.
+7. (used to be 6) Participants associated dependents and letters with their profile. 5/9 participants thought letters belonged in their profile, since letters are associated with them, and while not all participants had dependents, at least one participant expected to see that information in their profile.
+8. (used to be 7) One screen reader participant encountered difficulty with the body and link text within the cards, the result of a combination of screen reader issues and repetitive word choices.
+9. (used to be 8) Participants expected their emergency contact and next of kin information to be in their profile.
 
 ## Details of Findings 
 
-**Finding 1**
+### Finding 1
 
 Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
@@ -129,17 +132,19 @@ The vast majority of participants were able to complete tasks effectively using 
 
 > I would say it's just a matter of – it's good to kind of navigate, because it's very repetitive in motion. So once you figure out where everything is, you kind of go to it. But in the beginning, it can be a little bit tricky to figure where things are. But once you get the hang of it, then as long as things don't change, you know where everything is. (P7)
 
-**Finding 2**
+### Finding 2
 
 Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
 **Participants were effectively split in how they chose to navigate to their Profile**. 4 participants used the authenticated menu, and 5 participants used the profile link on My VA. While’ My VA’s profile link treatment is very simple, it is very effective. 
 
+![profile-link-options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/session-notes/profile-link-options.png)
+
 >I think what helps that one is because [My VA’s Profile link is] right dead center of the screen. It's dead center of where you're looking. Yeah. Right. So, and we're naturally inclined to look at things in the center of anything. (P2)
 
 > So I would probably go to my name and click the arrow down, because in my experience, that's where most of your account, your personal information is stored at. Yep, so I would select profile. Now that's seems more logical to me. (P6)
 
-**Finding 3**
+### Finding 3
 
 Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
@@ -151,11 +156,13 @@ Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/
 
 > It's just a matter of like habit and where I know things are, if that makes sense. If I click where the, where the, my profile is, [where, auth menu?] it just seems like those links are for some reason a little bit stronger where if I click on these [bread]crumbs, they may or may not work. (P7)
 
-**Finding 4**
+### Finding 4
 
 Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
 Deep links, such as the `Learn how to request your DD214 and other military records` link are useful.  The original question the moderator asked participants did not include the term “DD214”, so most reactions to this question involved navigating to the Military information section. Wanting to pull the focus back to deep links on the hub page, the moderator pivoted a few sessions into the study, and switched to asking directly how they’d go about requesting their DD214. Participants used the Profile hub deep link right away.
+
+### Finding 5
 
 Once on their Military information section, participants were prompted to think of things that would be useful to include on this page, and a few items emerged: duty stations, duty status, deployment locations – ultimately, anything that’s asked on a claim form should be here.
 
@@ -167,7 +174,7 @@ Once on their Military information section, participants were prompted to think 
 
 > Military information kind of goes hand in hand with a statement of service letter, and maybe even your disability rating letter, your dates, type of discharge… Statement of service letter would be good here, and there may be any disability rating letter that you actually have. Which I know these things are on this site. **It’s just military information to means kind of a little bit more than just my period of service**. (P6)
 
-**Finding 5**
+### Finding 6
 
 Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
@@ -178,7 +185,7 @@ When participants were asked questions around dependents and letters to see whet
 - 5/9 participants needed their attention directed by the moderator to interact with the authenticated menu
 - 1/9 participants used VoiceOver’s Item Chooser 
 
-**Finding 6**
+### Finding 7
 
 Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
@@ -196,7 +203,7 @@ Not all participants had dependents, but when asked where P4 would expect to add
 
 > [Participant wanted to look in profile because] those types of things [letters] are associated with me specifically. To me it's kind of like military information – the showing your percentage percentages and, and you know, the breakdown of things. To me, that's kind of profile-driven in my mind. (P5)
 
-**Finding 7**
+### Finding 8
 
 Labels: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile); [AST: Screen readers](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/AST%3A%20Screen%20readers); [SFTW: Screenreader](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/SFTW%3A%20Screenreader)
 
@@ -206,7 +213,7 @@ One screen reader participant (P13) encountered difficulty with the body and lin
 
 > The same word for two different things is a bit confusing. (P13)
 
-**Finding 8**
+### Finding 9
 
 Label: [PRDT: VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/PRDT%3A%20VA.gov%20Profile)
 
