@@ -30,7 +30,7 @@ These examples demonstrate the similarity, from the submitter's perspective.
 
 1. Submitter signs in.
 2. Submitter's information is pre-filled in the form when possible (pulling from VA Profile).
-3. Submitter makes any changes to information that was pre-filled (for example, they have a new phone number).
+3. Submitter goes to their VA.gov profile to makes any changes to information that was pre-filled (for example, they have a new phone number), saves them and returns to the form.
 4. Submitter fills in fields that were not pre-filled.
 5. Submitter sends inquiry.
 
