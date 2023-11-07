@@ -195,30 +195,7 @@ To help discuss push notifications in a way that better highlights their relevan
     * We did not have enough examples of push notifications sent by apps tracking **long and very long in-flight tasks** to define content patterns, but the two examples we saw included push notifications **containing specific, critical details** **about the task within the body** (the date and amount of a scheduled insurance premium payment) as well as push notifications **referring more generally to the subject of the notification** (an upcoming preventative care event—this is due to HIPAA). 
     * All apps deep-linked directly to content within the app (as opposed to a notification/message center).
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+ <img src="screenshots/starbucks%20push%20notification.PNG" width="250" alt="Starbucks push notifications - general subject in body"> <img src="screenshots/mynw%20push%20notification.PNG" width="250" alt="MyNM push notification - general subject in body"><img src="screenshots/spothero%20push%20notification.PNG" width="250" alt="SpotHero push notification - specific details in body"> <img src="screenshots/statefarm%20push%20notification.PNG" width="250" alt="StateFarm push notification - specific details in body">
 
 
 ###### L-R: Starbucks and MyNM(MyChart) display general subjects in the notification body, SpotHero and State Farm display specific details about an in-flight task.
@@ -237,30 +214,7 @@ To help discuss push notifications in a way that better highlights their relevan
     * Some apps that **did NOT have a notification/message center** did have historical record lists documenting completed in-flight tasks (completed orders, completed appointments, paid bills, etc).
         * **_Hypothesis: Once a task is not in flight, the receipt/historical record list has the relevant information—while a list of time-sensitive information about an in-flight status is outdated and not relevant after the task ends._**
 
-    
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
+<img src="screenshots/venmo%20notification%20center.PNG" width="250" alt="Venmo - notification center"><img src="screenshots/starbucks%20notificaiton%20center.PNG" width="250" alt="Starbucks - notification center"><img src="screenshots/walmart%20notification%20center.PNG" width="250" alt="Walmart - notification center"><img src="screenshots/mynm%20notification%20center.PNG" width="250" alt="MyNW - notification center">
 
 ###### L-R: Venmo & Starbucks notification centers with marketing messages, Walmart and MyNM (MyChart) with empty notification centers.
 
