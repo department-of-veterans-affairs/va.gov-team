@@ -96,23 +96,23 @@ Before we look at the website, let’s start with a few warm-up questions.
        - If you wouldn't take any action based on this notification, what might you expct to happen?
     - If you decided to take action, what would you do? [pause]
        - [If they don't respond with VA.gov]... Would you go to VA.gov to sign into to your acount?
-          - Can you show me where you might go once signed into the VA to sign out of the device you didn't recognize?  Why would you start there?
-- **Username** page
-   - [SUCCESS] (selects username > profile OR "go to your profile") Allow them to continue walking you through.
-   - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
-- **Profile** page
-  - Can you tell me what you would be looking for on this page at this point?  Does anything stand out to you to help you commplete your task?
-  - [SUCCESS] (sees the "Account Security" option) Allow them to continue walking you through.
-  - [FAIL] (if they don't call out "Account Security") Ask them to read through the page again; if they are unable to point out "Manage Devices", gently guide them.
-      - What word or phrase would you be looking for in order to complete the task of signing out of all your devices.
-      - What do you think the term "Account Security" means on this page?
-      - For today, we'll navigate to the "Account Security" portion on this page.
-- **Manage Devices** page
-   - Can you walk me through what you're seeing here?
-   - What would you do next?
-   - What do you think about when seeing the button "sign out of device"? what about "sign out of all devices"?
-   - Have you ever done this or something simlar on another app or website? Can you tell me about that?
-   - TO BE UPDATED (Warning Indicator): Can you talk me through what you're seeing here?  What are your thoughts on this?
+- Can you show me where you might go once signed into the VA to sign out of the device you didn't recognize?  Why would you start there?
+   - **Username** page
+      - [SUCCESS] (selects username > profile OR "go to your profile") Allow them to continue walking you through.
+      - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
+   - **Profile** page
+     - Can you tell me what you would be looking for on this page at this point?  Does anything stand out to you to help you commplete your task?
+     - [SUCCESS] (sees the "Account Security" option) Allow them to continue walking you through.
+     - [FAIL] (if they don't call out "Account Security") Ask them to read through the page again; if they are unable to point out "Manage Devices", gently guide them.
+         - What word or phrase would you be looking for in order to complete the task of signing out of all your devices.
+         - What do you think the term "Account Security" means on this page?
+         - For today, we'll navigate to the "Account Security" portion on this page.
+   - **Manage Devices** page
+      - Can you walk me through what you're seeing here?
+      - What would you do next?
+      - What do you think about when seeing the button "sign out of device"? what about "sign out of all devices"?
+      - Have you ever done this or something simlar on another app or website? Can you tell me about that?
+      - TO BE UPDATED (Warning Indicator): Can you talk me through what you're seeing here?  What are your thoughts on this?
 
 ### Things to watch for:
 
