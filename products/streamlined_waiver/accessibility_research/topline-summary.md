@@ -43,7 +43,7 @@ One participant stated they thought the "cancel" button would cancel the whole f
 
 **4. The level of difficulty was unique to each individual depending on the screen reader they use, the device (mobile vs desktop), and their personal preferences (the way they like to navigate)**
 
-One participant had an unconventional way of navigating the page by having the screen reader read all of the links on the page. This overemphasized the header and footer of the page rather than the content on the form pages.
+One participant had an unconventional way of navigating the page by having the screen reader read all of the links on the page. This overemphasized the header and footer of the page rather than the content on the form pages. Another participant could not share his screen because he was using Dolphin Guide which did not allow multitasking.
 
 > "When I navigate through the page, because I'm an impatient person, I use H for headings all the time. But I was just using my arrow key to go down the screen." 
 
