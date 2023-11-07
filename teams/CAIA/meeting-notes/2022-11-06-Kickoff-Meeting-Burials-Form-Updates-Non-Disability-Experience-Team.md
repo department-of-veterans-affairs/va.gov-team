@@ -16,28 +16,31 @@
 
 ## Meeting Action Items 🎬
 - [ ] Steps needed in form (**scope**)
-- [x] Set up Teask Areas (Terry)
+- [x] Set up Task Areas (Terry)
 - [ ] a11y sketch file reviews (SK?)
-- [ ] Action Item 4
-- [ ] Action Item 5
+- [ ] MVP goal with future enhancements (plan future tasks)
+- [ ] VBA stakeholder changes and SME confirmation needed.
 
 🔗[Jump to the bottom to take notes in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/meeting-notes/2022-11-06-Kickoff-Meeting-Burials-Form-Updates-Non-Disability-Experience-Team.md#discussion-notes%EF%B8%8F)
 
 
 ## Resources 🔗
-- **09/08/2023 Opened Collab Cycle Ticket**
+
+<details><summary>Toggle to view resources</summary>
+    
+### **09/08/2023 Opened Collab Cycle Ticket**
 - [ ] [Collaboration Cycle Ticket 65251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65251)
     - [x] Design Intent ticket - done
     - [ ] Midpoint Review (TBD - as of Kickoff Meeting) **- support requested for content, IA and a11y**
     - [ ] Staging Review (TBD - as of Kickoff Meeting) **- support requested for content, IA and a11y**
 
-## CAIA Tickets 🎟️
+### CAIA Tickets 🎟️
 - [x] [Epic/Intake #68984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68984)
     - [ ] Accessibility Ticket **- requesting support**
     - [ ] IA Ticket **- requesting support**
     - [ ] Content Ticket **- requesting support**
 
-## Assets
+### Assets
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/2019%20files/README.md)
 - [User flows](https://sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7)
 - [Prototype or mockups](https://sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7)
@@ -46,8 +49,12 @@
 - **Any epics/issues that may be helpful:** [Update Burial 530 Online Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63351)
 - [Link to testing accounts (please do not paste them in this ticket)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-staging-test-accounts.md)
 
+</details>
 
 ## Meet the Teams
+
+<details><summary>Toggle to meet the teams involved in this project</summary>
+
 ### Kickoff Team Partner
 - Team name: Benefits and Claims | Lifestage Benefits Crew | Non-Disability Experience
 - OCTO-DE product owner: Emily Theis
@@ -106,40 +113,55 @@
 - Redirect template
 - Best bets template
 
+</details>
+
 <hr>
 
 ## Discussion Notes✍️
 
-Describe what you need in a few sentences:
+<details><summary>Toggle to review the original support request to CAIA from the Intake Ticket</summary>
 
-We would like CAIA to review the critical updates we are making to the 530EZ burial form, so it can be successfully processed.
+### CAIA Intake Ticket Request Description
 
-We ask that the scope of CAIA's review be limited to the form pages we are touching, so we can quickly release a working MVP version of the updated form. Future work will focus on taking a more comprehensive look at the form to determine additional enhancements, replace depreciated design components, and address accessibility issues.
+> We would like CAIA to review the critical updates we are making to the 530EZ burial form, so it can be successfully processed.
 
-We intend to fix defect-0 and defect-1 level A11y errors, but we would like to limit those fixes to the pages we are touching with these field updates.
+> We ask that the scope of CAIA's review be limited to the form pages we are touching, so we can quickly release a working MVP version of the updated form. Future work will focus on taking a more comprehensive look at the form to determine additional enhancements, replace depreciated design components, and address accessibility issues.
+
+> We intend to fix defect-0 and defect-1 level A11y errors, but we would like to limit those fixes to the pages we are touching with these field updates.
 The current online form is missing critical fields that were added to the paper form over the last 2 years. These missing fields are causing significant processing delays and putting additional burden on Veterans.
 
-The changes include adding missing fields and removing depreciated fields.
+> The changes include adding missing fields and removing depreciated fields.
 
-Fixing the 530 form is a high-priority for OCTO and the VBA.
+>Fixing the 530 form is a high-priority for OCTO and the VBA.
 
-### Project
+</details>
+
+### Scope
 - Sounds like they want to keep this round of CAIA support very scoped. How many screens or questions is this? Any tricky pieces to flag?
 - Trying to get MVP out **fast** _with future enhancements_.
 - **Just want us to look at added fields here.**
-- Mostly just adding fields, removing deprecated fields. May be other edits including splitting/combining questions.
-- New fields added in Steps [1](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/350AC352-727B-4D99-B72B-D466886BE199/canvas) and [2](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/4871EF16-DFC9-460E-AA1B-7ED24E33B188/canvas), a few in Step [3](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/99FEF874-74D9-41F1-BD5E-AE7E7E1D768C/canvas), new page in Step [4](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/B7F2215E-001C-41F3-B803-9DFD96E7B129/canvas) for transportation allowance. No major changes to Step [5](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/E1B6C12E-B2F8-4A50-9CC1-1F44853FA3C6/canvas) or [6](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/28963E25-18C3-4CDA-A356-BF4FD6A7A5A6/canvas). Fiorella has set up current and proposed flows in sketch, annotated anywhere there's a change. Some changes are pending with VBA stakeholders and need confirmation from SMEs.
+    - Mostly just adding fields, removing deprecated fields.
+    - - May be other edits including splitting/combining questions.
+### Fields
+- **New fields added** in Steps [1](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/350AC352-727B-4D99-B72B-D466886BE199/canvas) and [2](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/4871EF16-DFC9-460E-AA1B-7ED24E33B188/canvas), a few in Step [3](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/99FEF874-74D9-41F1-BD5E-AE7E7E1D768C/canvas).
+- **New page**:Step [4](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/B7F2215E-001C-41F3-B803-9DFD96E7B129/canvas) for transportation allowance.
+- **No major changes** to Step [5](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/E1B6C12E-B2F8-4A50-9CC1-1F44853FA3C6/canvas) or [6](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/28963E25-18C3-4CDA-A356-BF4FD6A7A5A6/canvas).
+- **Changes pending**
+    - **Fiorella** has set up current and proposed flows in sketch, annotated anywhere there's a change.
+    - Some changes are pending with VBA stakeholders and need confirmation from SMEs.
 
-#### Problems
-- One change on Step [3](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/99FEF874-74D9-41F1-BD5E-AE7E7E1D768C/canvas).
-    - **Previously** required to include service history.
-    - **Now** adding question about discharge papers, so some people can skip service history questions.
-    - Have an archived version where they set it up to allow veterans to upload discharge papers on that Step 3 page, so curious about our thoughts on that.
-- **Question about previous names:** Received feedback that people might have difficulty remembering services rendered under previous name, they're clarifying with SMEs what to do with this (is there a plain language version of this question,what does "services rendered" mean, what information do they really need to receive on this question).
-- 
-#### CAIA
+### Problems ⚠️
+- **One change** on Step [3](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/99FEF874-74D9-41F1-BD5E-AE7E7E1D768C/canvas).
+    - **Previously:** Required to include service history.
+    - **Now:** Adding question about discharge papers, so some people can skip service history questions.
+    - **Archived Version:** Have an archived version where they set it up to allow veterans to upload discharge papers on that Step 3 page, so curious about our thoughts on that.
+- **Question about previous names:**
+    - Received feedback that people might have difficulty remembering services rendered under previous name, they're clarifying with SMEs what to do with this (is there a plain language version of this question,what does "services rendered" mean, what information do they really need to receive on this question).
+
+### CAIA Notes
 - **Content**
-- in pre-need eligibility form, there's lots of use cases. For this, it could be possible a veteran's spouse might also be a veteran, but any information like service history would just be for the veteran. So we should flag anywhere that headers/pronouns are confusing or aren't referencing the veteran.
+    - In pre-need eligibility form, there's lots of use cases. For this, it could be possible a veteran's spouse might also be a veteran, but any information like service history would just be for the veteran.
+    - So we should flag anywhere that headers/pronouns are confusing or aren't referencing the veteran.
 - **IA** 
     - Entry points: Fiorella suggested changes for those in a section of the sketch file
     - There was some talk around how much these pages get into eligibility, how much info do they want to provide on eligibility to include on static pages.
@@ -147,9 +169,10 @@ Fixing the 530 form is a high-priority for OCTO and the VBA.
 - **Accessibility**
   - Requires review of Sketch files - Terry Will create a ticket
 
-**Timeline**
-Pension painpoint is more accute, Laura Steele confirmed with Emily this should be priority
-Burial forms are at least being processed, but looking to update.
-Sketch screens are ready for review, except for the questions they flagged for SMEs, Julie can let us know about any of those.
-Trying to get MVP out **fast** _with future enhancements_.
-**Just want us to look at added fields here.**
+## Timeline ⏲️
+- **Pension painpoint is more accute**, Laura Steele confirmed with Emily this should be priority
+    - _Burial forms are at least being processed, but looking to update._
+    - **Intake Ticket Note:** Fixing the 530 form is a high-priority for OCTO and the VBA.
+- **Sketch screens are ready for review**, except for the questions they flagged for SMEs, Julie can let us know about any of those.
+- **Trying to get MVP out fast** _with future enhancements_.
+- **Just want us to look at added fields here.**
