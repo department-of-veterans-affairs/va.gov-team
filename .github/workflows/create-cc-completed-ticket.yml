@@ -30,4 +30,5 @@ jobs:
         env:
           ZENHUB_API_KEY: ${{ secrets.ZENHUB_API_KEY }}
           GOV_TEAM_BOARD_ID: ${{ secrets.GOV_TEAM_BOARD_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node ./scripts/github-actions/create-cc-completed-ticket.js

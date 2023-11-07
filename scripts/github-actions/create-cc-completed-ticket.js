@@ -41,20 +41,23 @@ function parse(issue) {
   return { teamName, productName, featureName };
 }
 
-async function getTitleInfo(number) {
+async function getTitleInfo(issueBody) {
+  const { teamName, productName, featureName } = parse(issueBody);
+  let titleInfo = `Completed: Kickoff - ${teamName} - ${productName}`;
+  if (productName !== featureName && featureName) {
+    titleInfo = `${titleInfo}/${featureName}`
+  }
+  return titleInfo;
+}
+
+async function getGHIssue(number) {
   try {
     const URL = `issues/${number}`
     const {data} = await axiosInstanceGH.get(URL);
-
-    const { teamName, productName, featureName } = parse(data.body);
-    let titleInfo = `Completed: Kickoff - ${teamName} - ${productName}`;
-    if (productName !== featureName && featureName) {
-      titleInfo = `${titleInfo}/${featureName}`
-    }
-    return titleInfo;
+    return data; 
   } catch (error) {
     console.log(error);
-    process.exitCode = 1;
+    process.exit(1);
   }
 }
 
@@ -334,25 +337,27 @@ async function moveIssue(issueId, pipelineId) {
 }
 
 async function main() {
-  // let title = await getTitleInfo(67119);
-  // title = `TEST: ${title}`;
+  // generate title for created ticket
+  const { data } = await getGHIssue(67119);
+  let title = getTitleInfo(data.body);
+  title = `TEST: ${title}`;
+  console.log(title);
+  console.log(data.title);
+
   //create issue
-  console.log('----> ZH', ZENHUB_API_KEY.length);
-  console.log('----> GOV TEAM', GOV_TEAM_BOARD_ID.length);
   // const repoId = await getVaGovTeamRepoId();
-  // console.log(repoId);
   // const newTicketId = await createIssue(title, repoId);
 
-  //get id of epics
-  // const epicId = await getEpicId('Collaboration Cycle for [10-10 Health Apps, 10-10EZ, Registration Only]')
+  // //get id of epics
+  // const epicId = await getEpicId(data.title);
   // const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
   
-  //update ticket
+  // //update ticket
   // await addIssueToEpic(newTicketId, epicId, ccEpicId);
   // await setEstimate(newTicketId, 3);
   // await addIssueToCurrentSprint(newTicketId);
 
-  //move to closed pipeline
+  // //move to closed pipeline
   // const closedId = await getPipelineId('Review/QA');
   // await moveIssue(newTicketId, closedId);
 }
