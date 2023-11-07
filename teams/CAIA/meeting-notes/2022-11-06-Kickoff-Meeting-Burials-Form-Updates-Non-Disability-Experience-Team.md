@@ -4,7 +4,7 @@
 - **Time**: 4:30 p.m. Eastern
 - [Zoom Link](https://coformaco.zoom.us/j/81312165916?pwd=QyszOEpFNERKQ1hneXZiUDFzZnBKUT09)
 - Sharepoint Link (Lily?)
-- Recording Link
+- Recording Link (Laura to add)
 
 ## Starting the CAIA Process
 ### Process Initiated
