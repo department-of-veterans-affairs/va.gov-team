@@ -19,5 +19,5 @@ We also keep additional design documentation [in this Github folder](https://git
 |[Moving to VA Profile]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Comparing%20profile%20fields.md)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Moving%20to%20VA%20Profile.md)|Describes how the move to VA Profile will impact submitters|Oct 31, 2023|
 
 ### Get in touch
-Reach out on [#ask-va-public](https:/)/dsva.slack.com/archives/C05A2F6DEAE) or contact Thomas Michaud (thomas.michaud@oddball.io), Tyler Gindraux (tyler@bluetiger.digital), or Becky Phung (becky.phung@va.gov) about these designs.
+Reach out on [#ask-va-public](https:/dsva.slack.com/archives/C05A2F6DEAE) about this work.
 
