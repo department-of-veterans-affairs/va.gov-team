@@ -46,10 +46,14 @@ Regarding the side navigation menu:
     - Does it introduce friction for mobile users to scroll the hub page’s section overviews without the benefit of a menu?
     - Are there any differences in usability between large and small screens?
 
-If time permits:
+Additionally, as time permitted:
 
+- What, if any, additional information might be helpful to add to veterans' military information section?
+	- This will help inform the [enhanced military info project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md).
 - To what extent would veterans look in their authenticated menu for links to dependents and letters?
 - Where within their profile would veterans expect to find emergency contact and next of kin information?
+	- This will help inform the  [personal health care contacts project](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-health-care-contacts).
+
 
 ## Methodology 
 
