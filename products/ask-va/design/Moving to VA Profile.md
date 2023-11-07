@@ -34,12 +34,12 @@ These examples demonstrate the similarity, from the submitter's perspective.
 4. Submitter fills in fields that were not pre-filled.
 5. Submitter sends inquiry.
 
-In Step 4, when we pull from VA Profile there are certain fields that don't exist in VA Profile and do exist in AVA Profile. This means they used to be pre-filled for a submitter (when Ask VA was on ask.va.gov) but they no longer are. In these cases, a submitter will have to manually fill in their information:
+In Step 4, when we pull from VA Profile, there are certain fields that don't exist in VA Profile and do exist in AVA Profile. This means they used to be pre-filled for a submitter (when Ask VA was on ask.va.gov) but they no longer are. In these cases, a submitter will have to manually fill in their information:
 
 - Suffix
 - Pronouns
 - Business phone (there will only be one phone input in the new front-end)
-- Business email (there will only be one phone input in the new front-end)
+- Business email (there will only be one email input in the new front-end)
 - School State
 - School Facility
 - Service Number (they'll be able to provide this or their SSN)
