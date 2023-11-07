@@ -26,41 +26,25 @@ This topline summary is a high level, top of mind summary of trends found in the
 _Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
 
-**Finding #1**
+**1. Login process was time consuming and led to many participants running out of time to interact with form.**
 
-- More details on Finding #1
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+Front end team is exploring options for creating an unauthenticated form for future usability studies.
 
 
-**Finding #2**
 
-- More details on Finding #2
-- These details could be key words, actions, or test outcomes
+**2. Two participants were confused by the button on the Work History List Loop**
 
-> Quote (if relevant)
+One participant stated they thought the "cancel" button would cancel the whole form.
 
 
-**Finding #3**
-
-- More details on Finding #3
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+**3. VoiceOver is not reading transition pages**
 
 
-**Finding #4**
 
-- More details on Finding #4
-- These details could be key words, actions, or test outcomes
+**4. The level of difficulty was unique to each individual depending on the screen reader they use, the device (mobile vs desktop), and their personal preferences (the way they like to navigate)**
 
-> Quote (if relevant)
+> "When I navigate through the page because I'm an impatient person I use H for headings all the time. But I was just using my arrow key to go down the screen." 
 
 
-**Finding #5**
+**5. We found that users of screen readers were extraordinarily patient**
 
-- More details on Finding #5
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
