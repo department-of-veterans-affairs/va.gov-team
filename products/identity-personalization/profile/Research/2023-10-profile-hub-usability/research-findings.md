@@ -70,20 +70,7 @@ For more details, see see [Who we talked to](#who-we-talked-to)
 
 ## Hypotheses and Conclusions
 
-| **P#**                                    | T1 auth | T2 Nav | T3 Contact | T4 Switch | T5 Nav back | T6 Deep link | T7 Pers. info | T8 Depts/Letters |
-| ----------------------------------------- | ------- | ------ | ---------- | --------- | ----------- | ------------ | ---------------- | --------------------- |
-| **P1 desktop**                            | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Pass                  |
-| **P2 desktop**                            | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Redirected            |
-| **P3 desktop; mag**                       | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Redirected            |
-| **P4 desktop**                            | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Redirected            |
-| **P5 mobile**                             | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Redirected            |
-| **P6 mobile**                             | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Redirected            |
-| **P7 desktop; NVDA mouse-over**           | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Skipped          | Redirected            | 
-| **P11 desktop; mag; tech issues**         | Fail    | Pass   | Pass       | Pass       | Pass        | Pass         | Pass             | Pass                  |
-| **P13 desktop; VO keyboard; tech issues** | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Skipped          | Pass                  |
-
-- _See [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/conversation-guide.md) for task details._
-
+### Task success
 We hypothesized that the Profile Hub will resolve the structural and organization issues detailed in the background section in the following ways:
 
 - Providing short overviews (accompanied by key deep links) of each section will reduce the need for people to search from any profile section for content that lives within their Profile.
@@ -103,6 +90,21 @@ We also assumed the following:
 		- P13 understood the card’s contents, but found the card description and link text repetitive and confusing.
 - Participants using a mobile device will not find it inconvenient to scroll in order to see the hub’s overviews of each section.
 	- LIKELY TRUE – Participants who tested with their mobile devices had no issues with the amount of scrolling required to complete tasks.
+
+### Task success
+- _See [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability/conversation-guide.md) for task details._
+  
+| **P#**                                    | T1 auth | T2 Nav | T3 Contact | T4 Switch | T5 Nav back | T6 Deep link | T7 Pers. info | T8 Depts/Letters |
+| ----------------------------------------- | ------- | ------ | ---------- | --------- | ----------- | ------------ | ---------------- | --------------------- |
+| **P1 desktop**                            | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Pass                  |
+| **P2 desktop**                            | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Redirected            |
+| **P3 desktop; mag**                       | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Redirected            |
+| **P4 desktop**                            | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Redirected            |
+| **P5 mobile**                             | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Redirected            |
+| **P6 mobile**                             | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Pass             | Redirected            |
+| **P7 desktop; NVDA mouse-over**           | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Skipped          | Redirected            | 
+| **P11 desktop; mag; tech issues**         | Fail    | Pass   | Pass       | Pass       | Pass        | Pass         | Pass             | Pass                  |
+| **P13 desktop; VO keyboard; tech issues** | Pass    | Pass   | Pass       | Pass      | Pass        | Pass         | Skipped          | Pass                  |
 
 ## Key Findings
 
