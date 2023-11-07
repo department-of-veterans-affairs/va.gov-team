@@ -39,10 +39,6 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 - [1 sentence on what brings you to this community]
 -->
 
-**Josh Kim**, Accessibility Lead on Benefits
-- joshkimux@gmail.com, [LinkedIn](https://www.linkedin.com/in/joshkimux/)
-- I want to help make our work more sustainable, our impacts more just, our practice a little kinder, and folks from marginalized communities less excluded.
-
 **Liz Straghalis**, Researcher on VA Health and Benefits Mobile App
 - elizabeth.straghalis@gmail.com, [LinkedIn](https://www.linkedin.com/in/elizabeth-tutella-straghalis-b302343/)
 - I want to give people agency to show up and share their experience, to be fully present in difficult conversations, and to be a part of a community who is working to create spaces for new ways of working.
@@ -82,9 +78,9 @@ Facilitated a big meeting or small group? You've helped serve as glue for our co
 
 - Rachael Dietkus
 - Martha Wilkes
+- Megan Graham
 - Lydia Hooper
 - Liz Straghalis
-- Josh Kim
 - Cindy Merrill
 - Brittany Iannuzzi
 - Charlotte Cesana
