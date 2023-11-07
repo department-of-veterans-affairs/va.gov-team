@@ -1,5 +1,45 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 18
+Period - 11/08/2023 - 11/21/2023
+### Sprint goals 
+- **Expedited**
+   - [ ] Unit tests coverage to 80% for unblocking future code shipment
+   - [ ] Discovery for EMIS Migration testing
+   - [ ] EMIS Migration testing
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+       - PPIU - Direct Debit 
+         - [ ] Release plan
+       - Submit
+          - [ ] DD Dashboard for Sidekiq jobs
+          - Benefits Claims Service
+            - [ ] DD Dashboard
+            - [ ] Release plan
+- **Features**
+   - 526ez sync with paper version 
+       - Toxic Exoposure - unblocked work
+           - [ ] Design changes
+           - [ ] Copy updates
+           - [ ] Collab cycle mid-point
+           - [ ] Unblocked engineering work - if any
+       - [ ]  New military service questions - kick-off collab cycle
+         
+- **Other**
+  - Shadow Research
+    - [ ] Discussion Guide
+    - [ ] Recruitment 
+      
+- **Stretch Goals**
+  - Engineering
+     - [ ] 
+  - Design
+     - [ ]
+  - Research
+     - [ ]
+
+             
+
 ## Sprint 17
 Period - 10/25/2023 - 11/07/2023
 ### Sprint goals 
@@ -17,7 +57,7 @@ Period - 10/25/2023 - 11/07/2023
 - **Features**
    - 526ez sync with paper version 
        - [ ] New military service questions - kick-off collab cycle
-       - [ ] Toxic Exposure design changes and copy updates
+       - [ ] Toxic Exposure - potential design suggestions 
        - [ ] Toxic Exposure end to end mapping and identifying open questions
          
 - **Other**
@@ -29,7 +69,8 @@ Period - 10/25/2023 - 11/07/2023
      - Discovery for EMIS Migration testing
      - PPIU - Direct Debit 
        - [ ] Release plan
-   
+   - Design
+      - Toxic Exposure copy updates
 ## Sprint 16
 Period - 10/11/2023 - 10/24/2023
 
