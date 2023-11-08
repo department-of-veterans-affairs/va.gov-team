@@ -128,7 +128,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
      - At least 2 people 35 or under 
      - At least 2 people don't have any degree or vocational training after high school 
      - At least 2 people live in a rural or remote area 
-     - At least 4 people have a cognitive disability (e.g., TBI) 
+     - At least 2 people have a cognitive disability (e.g., TBI) 
      - At least 3 people of color 
      - At least 2 women 
      - At least 2 people are LGBTQ+ 
