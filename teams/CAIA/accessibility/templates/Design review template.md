@@ -57,7 +57,7 @@ Visual users may potentially think they can interact with this.
 ![A164DBE0-EF63-4F0D-B208-B09B509579D0](https://github.com/department-of-veterans-affairs/va.gov-team/assets/102324990/9fcb13c3-f3a2-47cb-8a01-90c51a36c586)
 
 
-To ensure that the alert component is not skipped by screen reader users after tabbing out of the date input field, you can set focus to the alert programmatically using JavaScript. Here's an example of how you can achieve this:
+Not sure where focus would go after tabbing out of "year" input field. To ensure that the alert component is not skipped by screen reader users after tabbing out of the date input field, we can set focus to the alert using JavaScript. 
 
 * Add an `id` to your alert component to make it easier to target with JavaScript, e.g., `<div id="alertComponent" role="alert">Your alert message</div>`.
 
