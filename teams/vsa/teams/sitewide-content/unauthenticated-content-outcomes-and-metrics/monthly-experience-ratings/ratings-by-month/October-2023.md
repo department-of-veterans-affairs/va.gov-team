@@ -2,7 +2,7 @@
 
 ## Related overall scores
 - **Total customer satsifaction score:** 53.7% (0% change from last period)
-- **Average resources and support good/bad experience score:** X% "good" experience rating overall (XXXX out of XXXX total)
+- **Average resources and support good/bad experience score:** 76 "good" experience rating overall (5,843 out of 7,731 total)
 
 ## Experience ratings (1 to 5 scale)
 
