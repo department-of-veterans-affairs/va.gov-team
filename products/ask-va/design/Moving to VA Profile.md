@@ -54,9 +54,9 @@ In Step 4, when we pull from VA Profile, there are certain fields that don't exi
 - Service Number
   - This does not pre-fill from VA Profile, so they will manually fill it in, or, they can input their Social Security Number instead.
 
-## Comparison of fields in VA Profile and AVA Profile
+## Comparison of all fields in VA Profile and AVA Profile
 
-|VA Profile fields|Ask VA Profile fields|
+|VA Profile fields|AVA Profile fields|
 |:--|:--|
 |Legal name|First Name, Middle Name, Last Name|
 |Date of birth|Veteran's Date of Birth (MM/DD/YYYY)|
