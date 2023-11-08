@@ -16,10 +16,10 @@ Period - 11/08/2023 - 11/21/2023
 - **Features**
    - 526ez sync with paper version 
        - Toxic Exoposure - unblocked work
-           - [ ] New mocks for timeframe location capture
+           - [ ] New mocks for timeframe location capture - TBD
            - [ ] Copy updates from research and CAIA feedback
            - [ ] Unblocked engineering work - if any
-       - [ ]  New military service questions - kick-off collab cycle
+       - [ ]  New military service questions - kick-off collab cycle - TBD
        - [ ]  Implementation - Make homelessnessContact fields optional
        - [ ]  Audit for 526ez for all paper to digital form changes - Discovery
          
