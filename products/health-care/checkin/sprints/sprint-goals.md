@@ -23,8 +23,8 @@ ________________________________________________________________________________
      - **Sub Goal: Switch Components to Design System v. 3**
  
  #### PLANNED RELEASES 
--  - ❗ 🟦 Production release 11/28 - 45-minute
-   - ❗ 🟦 Production release 11/28 - Travel pay
+-  - ❗ 🟦🟩 Production release 11/28 - 45-minute
+   - ❗ 🟦🟩 Production release 11/28 - Travel pay
 
 #### SPRINT TICKETS
 - **GOAL: Ongoing Production Support**     
@@ -44,8 +44,11 @@ ________________________________________________________________________________
        - ✔️ 🟥 
 
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
-      - 🟥 Conduct research 
-    
+      - 🟥 Conduct research
+      - 
+   - **Sub Goals: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
+       -  🟩  [[FE] Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423)
+           - Production release 11/28 ViSN tbd
 - **GOAL: Increase usage of Pre-Check-in & Check-in**         
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
