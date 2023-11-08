@@ -1,4 +1,4 @@
-# Conversation Guide for Proactive Benefits, November 2023**
+# Conversation Guide for Proactive Benefits, November 2023
 
 This is the general guide containing all possible questions for participating Veterans. Not all of these questions will be asked, and “probe” questions are listed as optional ways to dig deeper into the overarching question. Researchers may copy and customize this guide to each participant by bolding applicable/priority questions in a separate document.
 
@@ -8,7 +8,7 @@ This is the general guide containing all possible questions for participating Ve
 - Build on our current understanding of Veteran’s communication preferences. 
 - Deepen our understanding of the experience of this cohort of Veterans and find out how they might respond to this outreach.
 
-### Moderator Logistics** 
+### Moderator Logistics
 
 - **2-3 days before the session**
 
