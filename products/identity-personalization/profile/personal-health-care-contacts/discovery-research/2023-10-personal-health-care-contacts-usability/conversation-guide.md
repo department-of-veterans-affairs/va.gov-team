@@ -134,11 +134,11 @@ _If had to be directed to Profile_From here_: If you wanted to review the inform
   
 _If arrived in the _Personal health care contacts_ section of Profile_
 
-Why don't you spend a little time getting to know this page. Please think out loud and let me know what your thoughts are about the page, the information here, and how everything is organized. 
-What do you think this page is all about?
-If needed, and applicable: You shared that you also have [XYZ] benefits from VA. Is this information related to those benefits too?
-How is this information useful to you? 
-Let’s pretend you need to update a phone number for your next of kin, how would you go about doing that? 
+- Why don't you spend a little time getting to know this page. Please think out loud and let me know what your thoughts are about the page, the information here, and how everything is organized. 
+- What do you think this page is all about?
+- If needed, and applicable: You shared that you also have [XYZ] benefits from VA. Is this information related to those benefits too?
+- How is this information useful to you? 
+- Let’s pretend you need to update a phone number for your next of kin, how would you go about doing that? 
 
 ### Things to note 
 - Is it clear that the “Personal health care contacts” only pertain to health care? 
@@ -147,15 +147,13 @@ Let’s pretend you need to update a phone number for your next of kin, how woul
 
 ### Task 3: Get insights on expectations - 5 minutes 
 
-3. What information for your Emergency contact would you expect/want to have here? Why? 
-How many Emergency contacts do you want/expect to list/have? Why? 
-What do you expect to be able to do with this information on this page? 
+- What information for your Emergency contact would you expect/want to have here? Why? 
+   - How many Emergency contacts do you want/expect to list/have? Why? 
+   - What do you expect to be able to do with this information on this page? 
 
-4. What about next of kin, What information for your next of kin would you expect/want to have here? Why? 
-
-How many next of kin would you expect/want to have here? 
-
-What information would be useful to have here? Why? 
+- What about next of kin, What information for your next of kin would you expect/want to have here? Why? 
+   - How many next of kin would you expect/want to have here? 
+   - What information would be useful to have here? Why? 
 
 ## Post-task interview questions - 5 minutes
 
