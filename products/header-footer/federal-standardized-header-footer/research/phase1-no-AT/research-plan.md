@@ -190,8 +190,8 @@ We would like to request that **Perigean calls each participant** to remind them
 
 ### Length of sessions
 * Session length: 
-  - Phase 1: **60 minutes** non assistive technology users 
-  - Phase 2: **90 minutes** assistive technology users 
+  - Phase 1: **60 minutes** (non-assistive tech users)
+  - Phase 2: **90 minutes** (assistive tech users)
 * Buffer time between sessions: 1 hour
 * Maximum sessions per day: 3
 
