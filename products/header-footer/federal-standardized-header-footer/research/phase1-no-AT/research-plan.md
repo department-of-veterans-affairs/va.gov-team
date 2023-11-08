@@ -93,7 +93,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
   -  Perigean to Recruit **10 Veterans and 4 caregivers or family members** of Veterans who meet the below criteria in order to get a minimum of **10 completed sessions**, preferably evenly represented between mobile and desktop. Criteria are also in this [recruitment intake ticket TBD](). 
 
 - **Phase 2: Assistive technology users** 
- -  Perigean to Recruit **14 Veterans, caregivers, and family members** of Veterans who meet the below criteria in order to get a minimum of **8 completed sessions**. Criteria are also in this [recruitment intake ticket TBD]().
+  -  Perigean to Recruit **14 Veterans, caregivers, and family members** of Veterans who meet the below criteria in order to get a minimum of **8 completed sessions**. Criteria are also in this [recruitment intake ticket TBD]().
  
 
 ### Required criteria (in decreasing order of priority)
