@@ -82,17 +82,20 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Second Task: Prototype Walk-Through - 10 minutes
 
+
+- Have you ever manually signed out of your account?  If so, can you walk me through how?
+
 - I'm now going to show you a prototype. This is a website design that we are thinking about using. It may look like the real VA.gov but it is not real, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
    - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=4dbsIvuJfCFPcesT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88)
    - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=M8JIqmZjKIytXcZz-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54)
-- Have you ever manually signed out of your account?  If so, can you show me how?
-- Let's pretend that you logged into your VA.gov account from your friend's computer, but you forgot to logout before you left.
-    - If you decided to take action, what would you do? [pause]
-       - [If they don't respond with VA.gov]... Would you go to VA.gov to sign into to your acount?
-- I would like for you to share your screen now and walk me through how you would complete the following steps.  I'm going to share with you a prototype that you can use to walk me through so that you are not having to share your actual information.
+- Can you share your screen now and walk me through how you would complete the following steps.
+[If participant is unable to pull up the prototype]
+- I'm going to share with you a prototype that you can use to walk me through so that you are not having to share your actual information.
    - [Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
    - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
-- Can you show me what you would do once signed into VA.gov after the receiving the notification?  Why would you start there?
+- Let's pretend that you logged into your VA.gov account from your friend's computer, but you forgot to logout before you left.
+    - If you wanted to log out of your friend's device, what would you do? [pause]
+       - [If they don't respond with VA.gov]... Would you go to VA.gov to sign into to your acount? Can you show me what you would do once signed into VA.gov?  Why would you start there?
    - **Username** page
       - [SUCCESS] (selects username > profile OR "go to your profile") Allow them to continue walking you through.
       - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
