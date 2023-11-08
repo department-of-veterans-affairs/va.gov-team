@@ -88,11 +88,13 @@ Thank you. What does “Next of kin contact” mean to you?
 
 ### Task 1: Find EC and NoK information - 10 minutes/15 minutes AT
 
-Thank you for sharing all of that with me! Tell me, how would you check this information in your VA record to be sure it matches what you expect is there?
+Thank you for sharing all of that with me! Tell me, how would you check this information in your VA record to be sure it matches what you expect is there/on file?
 
 _if said, they'd ask someone_ If there was no one available to talk to, how would you confirm this information online?
 
 Interesting - let’s start screen sharing so you can show me how you’d do that.
+
+Are you familiar with how to share your screen with Zoom? 
 
 #### Screen sharing instructions
 
@@ -108,13 +110,13 @@ _Instructions for folks using screenreaders on a desktop:_
 - Tab once more - make sure "share sound" is checked. 
 - Tab 4 times over to "share screen" - click activate. 
 
-Great, now I can see your screen! Thank you for your patience in figuring this out.  Now please go ahead and show me how you’d check this information?
+Great, now I can see your screen! Thank you for your patience in figuring this out.  Now please go ahead and show me how you’d check this information? If you wanted to check the “medical emergency contact” and "next of kin contact" information how would you do that? 
 
 _Participants may start on Google, VA.gov, or somewhere else.
 - _We expect participants will go to VA.gov and be prompted to log in at some point._
 - _We eventually need to get them to staging.va.gov_
 - I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov. Let me know if you need any help doing that.
-- Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in in the chat.
+- Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in the chat.
 - Great, I’d like for you to show me how to find this information from this page (VA.gov)?
 - _Nudge and probe as appropriate. If get totally lost, help them out. Ultimately, has to go to the Profile section of VA.gov._
 
