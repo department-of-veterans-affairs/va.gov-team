@@ -75,7 +75,7 @@ There are a couple of terms I’m curious to talk to you about. I’m interested
 First, what does “medical emergency contact” mean to you?  
 - As far as you know, do you have that information in your VA record?
 - How do you know?
-- How do you expect VA to use that information?
+- How do you expect the VA to use that information?
 - Where or when do you expect to be asked about this?
 
 Second, what does “Next of kin contact” mean to you?  
