@@ -6,17 +6,17 @@ Right now, our heading use is not consistent throughout the app, and many of the
 
 
 ### Current Experience
-Pretend that the only thing you could see when you landed on a page were the headings. Could you figure out 1) what information was on the page (is the thing I'm looking for on this page?) and 2) the fastest way to get to that information (to find X, I will look at the stuff under Y heading) - an example slideshow
+Pretend that the only thing you could see when you landed on a page were the headings. Could you figure out 1) what information was on the page (is the thing I'm looking for on this page?) and 2) the fastest way to get to that information (to find X, I will look at the stuff under Y heading) - an example slideshow (currently in Google Docs for Ad Hoc as Github will not upload a PDF) 
 
 ### Pain Points
 See above current experience. 
 Assumptions and Level of Confidence
 - Headings matter for screen reader users. There’s a lot of literature on this, including several WCAG success criterion and various web postings:
-   -  From WCAG: Descriptive headings are especially helpful for users who have disabilities that make reading slow and for people with limited short-term memory. These people benefit when section titles make it possible to predict what each section contains.
-   -  From an A11y Project post (about websites, the principles apply to mobile): Headings are the backbone of the content of a page. A visitor should be able to scan the webpage using headings to get a good impression of its content. Heading levels have meaning, especially for screen reader users .... headings [represent] the page content similar to the index of a book: easily scannable and semantic. 
+   -  From [WCAG](https://www.w3.org/WAI/WCAG22/Understanding/headings-and-labels.html): Descriptive headings are especially helpful for users who have disabilities that make reading slow and for people with limited short-term memory. These people benefit when section titles make it possible to predict what each section contains.
+   -  From an [A11y Project](https://www.a11yproject.com/posts/how-to-accessible-heading-structure/) post (about websites, the principles apply to mobile): Headings are the backbone of the content of a page. A visitor should be able to scan the webpage using headings to get a good impression of its content. Heading levels have meaning, especially for screen reader users .... headings [represent] the page content similar to the index of a book: easily scannable and semantic. 
 
 
-- Headings matter to the mobile team. A few relevant snippets from our current accessibility standards: 
+- Headings matter to the mobile team. A few relevant snippets from our current [accessibility standards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/testing/Accessibility%20Test%20Plan.md): 
    -  We will “programmatically specify ARIA level for all text headings in React Native.”
    -  “Screen reader should provide a breadcrumb like page read”
    -   “Headings and labels design should describe topic or purpose and be programmatically determined as such.”
