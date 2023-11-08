@@ -168,27 +168,30 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 ## Timeline--TBD
 
 ### Prepare
-Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I would also like to discuss the relative priorities of recruitment criteria (e.g., it’s more important to recruit at least 4 people who are 55 years or older than it is to recruit 7 people who will join from their smartphone), and how the criteria are prioritized when recruiting replacements for participants who cancel in advance. 
+There are 2 phases of research. Before recruitment starts for each phase, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.  
 
-Amanda and Cindy are available for a kickoff call during any of these times (please also invite Wes in case he can make it): 
-- **Thu Sept 21** 12 pm - 3 pm ET
-- **Fri Sept 22**  12 pm - 5 pm ET
+Amanda and Cindy are available for a kickoff call during any of these times: 
+- **DATES** TIMES TBD ET
 
-Our email addresses are cindy.merrill@adhocteam.us, amanda.klausmeier@va.gov, and wesley.rowe@agile6.com
+Our email addresses are cindy.merrill@adhocteam.us and amanda.klausmeier@va.gov
 
-**Prior to the kickoff call, I would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
+**Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
-I have scheduled the following two **pilot tests**:
-- Pilot 1: **Sept 27 TBD ET** with TBD (tbd@adhocteam.us)
-- Pilot 2: **Sept 28 TBD ET** with TBD (tbd@adhocteam.us)
+We have scheduled the following two **pilot tests**:
+- Pilot 1: **DATE at TIME TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 2: **DATE at TIME TBD ET** with TBD (tbd@adhocteam.us)
 
 ### Research sessions
-* Planned dates of research: **Oct 2 – Oct 9, 2023** 
+* Planned dates of research: 
+  - **Phase 1: TBD, 2023** 
+  - **Phase 2: TBD, 2023** 
 
-We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from a screener question).
+We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
 ### Length of sessions
-* Session length: 1 hour
+* Session length: 
+  - Phase 1: **60 minutes** non assistive technology users 
+  - Phase 2: **90 minutes** assistive technology users 
 * Buffer time between sessions: 1 hour
 * Maximum sessions per day: 3
 
@@ -196,12 +199,8 @@ We would like to request that **Perigean calls each participant** to remind them
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Oct 2, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Oct 3, 2023 | 12-1, 2-3, 7-8 pm 
-Oct 4, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
-Oct 5, 2023 | 12-1, 2-3, 5-6, 7-8 pm
-Oct 6, 2023 | 12-1, 2-3, 5-6, 7-8 pm
-Oct 9, 2023 | 12-1, 5-6, 7-8 pm
+TBD, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
@@ -209,9 +208,10 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Cindy Merrill 
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Cindy Merrill 
-- Participant(s) for pilot test: TBD	
+- Participant(s) for pilot test: TBD
+- Accessibility specialist (for Phase 2 sessions): TBD 	
 - Note-takers: Perigean	(in github)
-- Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Wes Rowe, Amanda Klausmeier, Danielle Thierry, Jordan Wood, Randi Mays, Dave Conlon.) 
+- Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Amanda Klausmeier, Dave Conlon, OFCIO, USWDS.) 
 
 ## Approvals
 - Dave Conlon (PO) on Nov 7, 2023
