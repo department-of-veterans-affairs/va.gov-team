@@ -88,7 +88,7 @@ Thank you. What does “Next of kin contact” mean to you?
 
 ### Task 1: Find EC and NoK information - 10 minutes/15 minutes AT
 
-Thank you for sharing all of that with me! Tell me, how would you check this information in your VA record to be sure it matches what you expect is there/on file?
+Thank you for sharing all of that with me! Tell me, how would you check to ensure the VA has the correct medical emergency contact and next of kin on file? 
 
 _if said, they'd ask someone_ If there was no one available to talk to, how would you confirm this information online?
 
