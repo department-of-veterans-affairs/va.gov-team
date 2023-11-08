@@ -12,7 +12,9 @@ As a Veteran, I want an overview of my appointment history so I can plan future 
 
 **Functional**
 - Past appointments for the past two years must display.
-  - The display of past appointments in VAOS must follow the same display business rules noted in [upcoming appointments](./upcoming-list.md) (except for past cancelled appointments which are not displayed in VAOS).
+- The display of past appointments in VAOS follows the same display business rules noted in [upcoming appointments](./upcoming-list.md) with two differences:
+  - Past canceled appointments are not displayed in VAOS.
+  - Past appointments are sorted starting from most recent to furthest in the past.
 - User can filter past appointments by certain time periods.  
 - Cancelled appointments of any type must not display on the past appointments page. 
 
