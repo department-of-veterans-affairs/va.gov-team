@@ -1,4 +1,4 @@
-# Past appointments
+# Past appointments summary
 
 ## Overview
 
