@@ -4,7 +4,7 @@
 - **Time**: 4:30 p.m. Eastern
 - [Zoom Link](https://coformaco.zoom.us/j/81312165916?pwd=QyszOEpFNERKQ1hneXZiUDFzZnBKUT09)
 - Sharepoint Link (Lily?)
-- [Recording Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64323)
+- [Recording Link](https://coformaco.zoom.us/rec/share/Nm2co70XUaq9HHBhSnudatUOgvsiveX0x7Iejis272b0s1fqwJZ_dW_y_WVwZ2bv.4FojsG88VAzp8C3d) Passcode: 7ig=ij*2
 
 ## Starting the CAIA Process
 ### Process Initiated
