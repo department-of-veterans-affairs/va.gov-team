@@ -1,7 +1,7 @@
 # Transition Notes for My VA UX Designer
 Last updated: November 8, 2023
 
-Welcome to the Authenticated Experience team! You're in good hands. Here's some things you mght want to know outside of your onboarding ticket that are specific to your role on the team. Feel free to reach out to me any time on Slack @angela agosto.
+Welcome to the Authenticated Experience team! You're in good hands. Here's some things you might want to know outside of your onboarding ticket that are specific to your role on the team. Feel free to reach out to me any time on Slack @angela agosto.
 
 ## [My VA Sketch file](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
 * This is the main (and only) Sketch file for the My VA page. Unlike Profile which has several Sketch documents, all current and past My VA designs live in this one doc.
