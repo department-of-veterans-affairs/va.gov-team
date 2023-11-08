@@ -111,9 +111,11 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)**
        - ✔️ 🟥 [SPIKE: Determine Impacts to Current User Flow & Functionality](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68081)
-       - 🟥[[UX] Create New User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68083)
+       - ✔️ 🟥[[UX] Create New User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68083)
        - 🟥[[UX] Create New Content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68146)
        - 🟥[[UX] [Design] Create wireframe for scenario when checkbox isn't selected](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68746)
+       - 🟥[[UX] [Design] Create Final Wireframe](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68084)
+            - Added mid-sprint 
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
       - 🟥Create research review ticket
       - 🟥Create a CAIA review ticket
@@ -141,8 +143,8 @@ ________________________________________________________________________________
        - 🟥[Research] Analyze GA Metrics
        - 🟥[[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
 - **GOAL: Address tech & design debt**
-    - ❗ 🟥[Create a Poster Version that Includes Information about Submitting a Travel Claim During Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68734)
-    - ❗ 🟥[Update Travel MSA & Veteran FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68701)
+    - ✔️ ❗ 🟥[Create a Poster Version that Includes Information about Submitting a Travel Claim During Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68734)
+    - ✔️ ❗ 🟥[Update Travel MSA & Veteran FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68701)
     - 🟩 [Update & Add Questions to Answer to LoROTA GitHub Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68702)
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
        - 🟥[[SPIKE] [UX] Determine if we're ready to update font styles, icons and color palette](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68602)
