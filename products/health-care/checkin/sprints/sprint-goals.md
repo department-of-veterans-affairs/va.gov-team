@@ -44,8 +44,7 @@ ________________________________________________________________________________
        - ✔️ 🟥 
 
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
-      - 🟥 Conduct research
-      - 
+      - 🟥 [[Research]Conduct Research Study #65416](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65416)
    - **Sub Goals: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
        -  🟩  [[FE] Enable Travel Feature for VISN 6](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66423)
            - Production release 11/28 ViSN tbd
@@ -58,8 +57,7 @@ ________________________________________________________________________________
             - 🟦 
             - 🟩          
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
-        - 🟥 Any other UX work? [[UX][Content]
-        - to we need 🟩  ? 
+        - 🟥 [[UX][Design] Create Final Wireframes #68244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68244)
     - **Sub Goal: Handle Missing Appointment Information**
         - 🟥[[UX][Design] ?
     - **Sub Goal: Analyze current metrics to see what they tell us**       
