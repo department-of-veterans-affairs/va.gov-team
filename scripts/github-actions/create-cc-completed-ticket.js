@@ -13,6 +13,8 @@ const CUSTOMER_SUPPORT_EPIC_NAME = 'Governance Team Collaboration Cycle Customer
 
 const [owner, repo] = GITHUB_REPOSITORY.split('/');
 
+const REPO_BASE = `repos/${owner}/${repo}/`;
+
 // instance for making ZenHub api calls
 const axiosInstanceZH = axios.create({
   baseURL: 'https://api.zenhub.com/public/graphql',
@@ -23,7 +25,7 @@ const axiosInstanceZH = axios.create({
 
 // instance for making Github api calls
 const axiosInstanceGH = axios.create({
-  baseURL: `https://api.github.com/repos/${owner}/${repo}/`,
+  baseURL: `https://api.github.com/`,
   headers: {
     'Authorization': `Bearer ${GITHUB_TOKEN}`,
     'Content-Type': 'application/json',
@@ -68,14 +70,14 @@ function getTitleInfo(issueBody) {
 
 // retrieve GH ticket
 async function getGHIssue(number) {
-  const URL = `issues/${number}`
+  const URL = `${REPO_BASE}issues/${number}`
   const {data} = await axiosInstanceGH.get(URL);
   return data; 
 }
 
 // add milestone to a GH ticket
 async function addMilestone(number, milestone) {
-  const URL = `issues/${number}`
+  const URL = `${REPO_BASE}issues/${number}`
   await axiosInstanceGH.patch(URL, {
     milestone
   });
@@ -83,10 +85,26 @@ async function addMilestone(number, milestone) {
 
 // close the completed ticket
 async function closeIssue(number) {
-  const URL = `issues/${number}`;
+  const URL = `${REPO_BASE}issues/${number}`;
   await axiosInstanceGH.patch(URL, {
     state: "closed"
   });
+}
+
+
+// get the GH handle of the platform-governance-team's maintainer
+// if there is no maintainer take the first team member returned
+async function getGHMaintainerHandle() {
+  const BASE_URL = `orgs/${owner}/teams/platform-governance-team/members`;
+  let { data: dataMaintainer } = await axiosInstanceGH(`${BASE_URL}?role=maintainer`);
+  // maintainer exists
+  if (dataMaintainer.length) {
+    const [{ login }] = dataMaintainer;
+    return login;
+  }
+  // no maintainer
+  const { data: [ { login } ] } = await axiosInstanceGH(BASE_URL);
+  return login;
 }
 
 // get the va.gov-team's repo id
@@ -119,12 +137,13 @@ async function getVaGovTeamRepoId() {
 
 // create an issue via ZenHub
 async function createIssue(title, repoId) {
+  const maintainer = await getGHMaintainerHandle();
   const query = `mutation createIssue {
     createIssue(input: {
         title: "${title}",
         repositoryId: "${repoId}",
         labels: ["governance-team"],
-        assignees: ["shiragoodman"],
+        assignees: ["${maintainer}"],
         body: "This ticket is for Platform tracking purposes only. There is no VFS action needed."
     }) {
         issue {
