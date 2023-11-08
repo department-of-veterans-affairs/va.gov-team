@@ -11,7 +11,7 @@ Initial research will test with Veterans and beneficiaries to validate that it c
 
 ### OCTO Priorities 
 
-This research aligns with the following [OCTO priorities]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md)
+This research aligns with the following [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md)
 
 - Solidify the VA.gov platform 
 - Refresh VA.gov homepage and IA 
