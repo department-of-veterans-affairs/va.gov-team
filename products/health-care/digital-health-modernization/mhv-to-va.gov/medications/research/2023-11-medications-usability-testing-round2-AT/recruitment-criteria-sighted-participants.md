@@ -95,6 +95,8 @@ Note: For recruitment purposes, users can use either a Desktop or Laptop interch
 | Tuesday | Nov. 14, 2023 | 9:00am – 1:00pm, 2:00pm to 7:00pm |
 | Thursday | Nov. 16, 2023 | 9:00am – 1:00pm, 2:00pm to 7:00pm |
 | Friday | Nov. 17, 2023 | 9:00am – 4:00pm |
+| Wednesday | Nov. 22, 2023 | 9:00am - 7:00pm|
+| Friday | Nov. 24, 2023 | 9:00am – 4:00pm |
 
 Note: Please do not schedule more than 4 sessions per day.
 
