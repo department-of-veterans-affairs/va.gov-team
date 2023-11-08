@@ -36,6 +36,5 @@ Welcome to the Authenticated Experience team! You're in good hands. Here's some 
 * [Platform office hours](https://depo-platform-documentation.scrollhelp.site/support/office-hours)
 * [VA API Statuses](https://valighthouse.statuspage.io/)
 * [VA.gov Applications Teams org chart](https://docs.google.com/drawings/d/1V5rYPy6gPb1DvjBl2VnygZQelu4bjZrN9trBLb8TpMw/edit) Note: This link is internal to Ad Hoc.
-* [The difference between a VA seal, logo, and emblem](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.defense.gov/Portals/1/Page-Assets/trademarks/Graphical-Depiction-of-Guide-for-Website.pdf)
 * [Internal Veterans who are willing to participate in pilot sessions for research](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 * [My VA Analytics on GA](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/)
