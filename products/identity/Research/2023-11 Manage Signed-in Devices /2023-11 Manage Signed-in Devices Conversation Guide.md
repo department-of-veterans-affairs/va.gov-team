@@ -88,8 +88,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Second Task: Prototype Walk-Through - 10 minutes
 
 - I'm now going to show you a prototype. This is a website design that we are thinking about using. It may look like the real VA.gov but it is not real, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
-   - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=fmuY0h4DhYNhuRKR-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88&show-proto-sidebar=1)
-   - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=fmuY0h4DhYNhuRKR-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54&show-proto-sidebar=1)
+   - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=4dbsIvuJfCFPcesT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88)
+   - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=M8JIqmZjKIytXcZz-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54)
 - Let's pretend that you got a notification from the VA of a sign-in to your account, and that you don't recognize it, or you don't think it was you signing in.
     - How would you expect to recieve a notification like this? [email, text, multiple ways?]
     - Would you do anything with this information?
