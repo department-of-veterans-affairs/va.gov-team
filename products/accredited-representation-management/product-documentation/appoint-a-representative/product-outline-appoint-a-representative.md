@@ -76,6 +76,7 @@ As we work towards this MVP, we will also be preparing for a future goal of digi
 3. Management of open requests for appointment
 4. Management of current representation
 5. Satisfaction survey to assess the user perceptions of our product experience
+6. Consider how we might support situations where multiple representatives are assigned (Claim PoA vs. Claimant PoA)
 
 --- 
 
