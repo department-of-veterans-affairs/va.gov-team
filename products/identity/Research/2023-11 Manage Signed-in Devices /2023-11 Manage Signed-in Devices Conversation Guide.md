@@ -45,9 +45,6 @@ Before we start, I have a few things that I want to go over with you:
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*
 
@@ -64,13 +61,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Signing into VA.gov - 5 minutes (Understanding password management)
 
-- How do you normally access VA.gov?  Can you share your screen with me and walk me through that process?
+- How do you normally access VA.gov?  Would you be willing to share your screen with me and walk me through that process?  We'll pause the recording to protect any sensitive information.  [PAUSE RECORDING]  
    - MOBILE DEVICE: [If they are able to access VA.gov without signing in...] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with signing in? 
 - Have you ever manually signed out of your account?  If so, can you show me how?
   - Do you ever sign back in after signing out? Can you describe that for me?
 - How do you keep track of your password for signing into your VA account?
    - Have you ever had to reset your password? Can you describe that process for me?
-- Have you ever logged into a website like your bank or Facebook from both your phone and computer or another device at the same time?
+- Have you ever logged into a website like Netflix from both your phone and computer or another device at the same time?
    - Are there any security concerns with this?
    - [If yes] What do you think those concerns might be?
 - Some services online register where you sign in from and let you know if your account has been signed in from a device or even a location that is unusual for you. Have you ever gotten a notice like this, from any service?
