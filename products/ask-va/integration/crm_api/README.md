@@ -7,8 +7,11 @@ This is the list of APIs that the va.gov UI will consume, in priority order. The
 3. APIs that can only be fed by Dynamics APIs (data that only lives in Dynamics).
 4. All other endpoints, in the general order that we plan to attack them.
 
+## Hey! The Links Don't Work!
 
-# API Integration Status
+The links in this document are intentionally disabled. The AVA CRM Team and the AVA FE Team are currently collaborating on the API design and definitions. As the details are ironed out, the subordinate pages will be cleaned up and linked from this document.
+
+## API Integration Status
 
 |Color | Status |
 |---|---|
@@ -21,21 +24,26 @@ This is the list of APIs that the va.gov UI will consume, in priority order. The
 |---|---|---|:---:|:---:|---|:---:|
 Status | GET /ping | Dynamics | 🟩 | 🟨 |  | [link] |
 Form | GET /topics?[id] | Dynamics | ⬜ | ⬜ |  | [link] |
-Form | PUT /inquiry/new | Dynamics | ⬜ | ⬜ |  | [link] |
 Form | GET /alerts | Dynamics | ⬜ | ⬜ |  | [link] |
-Dashboard | GET /inquiries?[num] | Dynamics | ⬜ | ⬜ | dahsboard / find by inquiry number | [link] |
-Dashboard | GET /search?[text] | Dynamics | ⬜ | ⬜ |  | [link] |
-Dashboard | GET /replies | Dynamics | ⬜ | ⬜ | | [link] |
-Dashboard | PUT /reply?[id] | Dynamics | ⬜ | ⬜ |  | [link] |
-Dashboard | PUT /attachment/new | Dynamics | ⬜ | ⬜ |  | [link] |
-Dashboard | GET /attachment?id | Dynamics | ⬜ | ⬜ |  | [link] |
-Dashboard | PUT /profile/new | VA Profile | ⬜ | ⬜ | VA Profile  | [link] |
+Form | PUT /inquiry/new | Dynamics | ⬜ | ⬜ |  | [link] |
+Form | GET /inquiry?{num} | Dynamics | ⬜ | ⬜ | inquiry by number | [link] |
+Dashboard | GET /inquiries | Dynamics | ⬜ | ⬜ | dahsboard inquiries | [link] |
+Dashboard | GET /inquiries/search?{txt} | Dynamics | ⬜ | ⬜ | inquiry and reply search | [link] |
+Dashboard | GET /inquiry/{id}/replies | Dynamics | ⬜ | ⬜ | | [link] |
+Dashboard | PUT /inquiry/{id}/reply/new | Dynamics | ⬜ | ⬜ |  | [link] |
+Dashboard | PUT /attachment/new?{id} | Dynamics | ⬜ | ⬜ |  | [link] |
+Dashboard | GET /attachment?{id} | Dynamics | ⬜ | ⬜ |  | [link] |
+Form | GET /facilities?{id} | Lighthouse | ⬜ | ⬜ |  | [link] |
+Form | GET /facilities?{latlong} | Lighthouse | ⬜ | ⬜ |  | [link] |
+Form | GET /facilities/ed?{id} | Dynamics? | ⬜ | ⬜ | likely Dynamics | [link] |
+Form | GET /facilities/ed?{latlong} | Dynamics? | ⬜ | ⬜ | likely Dynamics | [link] |
+Form | GET /zipcodes?{prefix} | Lighthouse? | ⬜ | ⬜ |  | [link] |
+Form | GET /states | Lighthouse | ⬜ | ⬜ |  | [link] |
+Form | GET /countries | Lighthouse | ⬜ | ⬜ |  | [link] |
 Dashboard | GET /profile | VA Profile | ⬜ | ⬜ | VA Profile | [link] |
-Dashboard | POST /profile | VA Profile | ⬜ | ⬜ | VA Profile | [link] |
-Form | Medical Facilities | Lighthouse/Dynamics | ⬜ | ⬜ | Likely pulled from Lighthouse | [link] |
-Form | School Facility Codes | WEAMS(?)/Dynamics | ⬜ | ⬜ | Likely pulled from Dynamics | [link] |
-Form | GET /states | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link] |
-Form | GET /zipcodes?[prefix] | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link] |
-Form | GET /provinces | Lighthouse/Dynamics | ⬜ | ⬜ |  | [link] |
+Dashboard | ~PUT /profile/new~ | VA Profile | ⬜ | ⬜ | VA Profile  | [link] |
+Dashboard | ~POST /profile~ | VA Profile | ⬜ | ⬜ | VA Profile | [link] |
+Form | ~GET /states~ | Dynamics | ⬜ | ⬜ |  | [link] |
+Form | ~GET /provinces~ | Dynamics | ⬜ | ⬜ |  | [link] |
 Form | ~GET /inquiry?[id]~ | Dynamics | ⬜ | ⬜ | | [link] |
 Form | ~PUT /attachment?[id]~ | Dynamics | ⬜ | ⬜  |  | [link] |
