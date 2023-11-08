@@ -61,10 +61,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Signing into VA.gov - 5 minutes (Understanding password management)
 
-- How do you normally access VA.gov?  Would you be willing to share your screen with me and walk me through that process?  We'll pause the recording to protect any sensitive information.  [PAUSE RECORDING]  
+- How do you normally access VA.gov?  Would you be willing to share your screen with me and walk me through that process?  We'll pause the recording to protect any sensitive information.  [PAUSE RECORDING]  **observe if the user has a prepopulated password or uses a password manager or etc.**
    - MOBILE DEVICE: [If they are able to access VA.gov without signing in...] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with signing in? 
-- Have you ever manually signed out of your account?  If so, can you show me how?
-  - Do you ever sign back in after signing out? Can you describe that for me?
+[RESUME RECORDING]
 - How do you keep track of your password for signing into your VA account?
    - Have you ever had to reset your password? Can you describe that process for me?
 - Have you ever logged into a website like Netflix from both your phone and computer or another device at the same time?
@@ -86,10 +85,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - I'm now going to show you a prototype. This is a website design that we are thinking about using. It may look like the real VA.gov but it is not real, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
    - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=4dbsIvuJfCFPcesT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88)
    - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=M8JIqmZjKIytXcZz-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54)
-- Let's pretend that you got a notification from the VA of a sign-in to your account, and that you don't recognize it, or you don't think it was you signing in.
-    - How would you expect to recieve a notification like this? [email, text, multiple ways?]
-    - Would you do anything with this information?
-       - If you wouldn't take any action based on this notification, what might you expct to happen?
+- Have you ever manually signed out of your account?  If so, can you show me how?
+- Let's pretend that you logged into your VA.gov account from your friend's computer, but you forgot to logout before you left.
     - If you decided to take action, what would you do? [pause]
        - [If they don't respond with VA.gov]... Would you go to VA.gov to sign into to your acount?
 - I would like for you to share your screen now and walk me through how you would complete the following steps.  I'm going to share with you a prototype that you can use to walk me through so that you are not having to share your actual information.
