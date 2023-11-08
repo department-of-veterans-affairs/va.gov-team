@@ -41,3 +41,4 @@ The MVP will include desktop & mobile experiences and the pathway is `/src/appli
 1. Manage requests (can the vet cancel a request)
 1. Manage rep (can the vet cancel an existing rep)
 2. Satisfaction survey to assess the user perceptions of our product experience
+3. Consider how we might support situations where multiple representatives are present (Claim PoA vs. Claimant PoA)
