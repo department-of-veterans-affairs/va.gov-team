@@ -19,24 +19,22 @@ This is the general guide containing all possible questions for participating Ve
 
   - [ ] Create notetaker and observer sign up sheet
   - [ ] Create note taking doc
-  - [ ] Review tips on [moderating]([https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Moderatingtips]), guidelines for recording sessions,and guidance on participant and researcher safety and exit strategies.
+  - [ ] Review tips on [moderating](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Moderatingtips), [guidelines for recording sessions](https://depo-platform-documentation.scrollhelp.site/research-design/Recording-User-Research-Sessions.2050949305.html), and [guidance on participant and researcher safety and exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 <!---->
 
 - **Day of the session**
 
-  - [ ] Use #feedback-backchannel in Slack for real-time feedback from observers.
-  - [ ] Mute your Slack notifications.
+  - [ ] Start a thread in [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) (ex: Dependency Verification Usability P1 starts in 10 minutes :thread: )
   - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).
-  - [ ] Start a thread in #feedback-backchannel (ex: Dependency Verification Usability P1 starts in 10 minutes :thread: )
   - [ ] Type “observer instructions” in the channel at the beginning of your day of sessions to give them tips
   - [ ] Make sure you mute all notifications, and close unnecessary applications
   - [ ] Make sure all attendees (except participants) are muted
   - [ ] Have your conversation guide somewhere accessible that the participant cannot see
   - [ ] Make sure you have transcriptions enabled
   - [ ] Make sure to hit record after permission is granted!
-  - [ ] Keep handy the Tech set-up checklist and Troubleshooting Research Sessions in case the participant needs help during the session.
-  - [ ] Refer to tips on moderating and responding to emergencies
+  - [ ] Keep handy the [Tech set-up checklist](https://depo-platform-documentation.scrollhelp.site/research-design/tech-set-up-checklist) and [Troubleshooting Research Sessions](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr) in case the participant needs help during the session.
+  - [ ] Refer to tips on on [moderating](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Moderatingtips) and [guidance on participant and researcher safety and exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
   - [ ] At the end of your session, take a look at the #feedback-backchannel and see if anyone brought up questions that you can address with your participant
 
 - **Starting the session**
