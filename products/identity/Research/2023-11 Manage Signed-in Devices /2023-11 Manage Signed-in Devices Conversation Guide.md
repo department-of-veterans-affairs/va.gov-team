@@ -61,7 +61,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Signing into VA.gov - 5 minutes (Understanding password management)
 
-- How do you normally access VA.gov?  Would you be willing to share your screen with me and walk me through that process?  We'll pause the recording to protect any sensitive information.  [PAUSE RECORDING]  **observe if the user has a prepopulated password or uses a password manager or etc.**
+- How do you normally access VA.gov?  Would you be willing to share your screen with me and walk me through that process?  We'll pause the recording to protect any sensitive information.  [PAUSE RECORDING]  *observe if the user has a prepopulated password or uses a password manager or etc.*
    - MOBILE DEVICE: [If they are able to access VA.gov without signing in...] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with signing in? 
 [RESUME RECORDING]
 - How do you keep track of your password for signing into your VA account?
@@ -90,12 +90,12 @@ Before we look at the website, let’s start with a few warm-up questions.
    - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=M8JIqmZjKIytXcZz-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54)
 - Can you share your screen now and walk me through how you would complete the following steps.
 [If participant is unable to pull up the prototype]
-- I'm going to share with you a prototype that you can use to walk me through so that you are not having to share your actual information.
-   - [Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
-   - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
+   - I'm going to share with you a prototype that you can use to walk me through so that you are not having to share your actual information.
+      - [Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+      - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
 - Let's pretend that you logged into your VA.gov account from your friend's computer, but you forgot to logout before you left.
     - If you wanted to log out of your friend's device, what would you do? [pause]
-       - [If they don't respond with VA.gov]... Would you go to VA.gov to sign into to your acount? Can you show me what you would do once signed into VA.gov?  Why would you start there?
+       - [If they don't respond with go to VA.gov]... Would you go to VA.gov to sign into to your acount? Can you show me what you would do once signed into VA.gov?  Why would you start there?
    - **Username** page
       - [SUCCESS] (selects username > profile OR "go to your profile") Allow them to continue walking you through.
       - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
