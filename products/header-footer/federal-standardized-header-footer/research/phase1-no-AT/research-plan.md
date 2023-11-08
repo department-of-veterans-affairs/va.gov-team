@@ -89,54 +89,83 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 - [Mural notetaking board TBD]()
 	
 ## Recruitment
+- **Phase 1: Non-assistive technology users**  
+  -  Perigean to Recruit **10 Veterans and 4 caregivers or family members** of Veterans who meet the below criteria in order to get a minimum of **10 completed sessions**, preferably evenly represented between mobile and desktop. Criteria are also in this [recruitment intake ticket TBD](). 
 
-Ask Perigean to recruit **8 Veterans and 3 family members** of Veterans who meet the below criteria in order to get **8 completed sessions**, which are also in this [recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/387). 
+- **Phase 2: Assistive technology users** 
+ -  Perigean to Recruit **14 Veterans, caregivers, and family members** of Veterans who meet the below criteria in order to get a minimum of **8 completed sessions**. Criteria are also in this [recruitment intake ticket TBD]().
+ 
 
 ### Required criteria (in decreasing order of priority)
-- NONE have ever applied for VA benefits under the PACT Act
-- At least 5 whose service years include *1989 or earlier*
-- At least 3 whose service years include *1990 or later*
-- At least 3 whose service years include both *before AND after* 1990
-- At least 4 people with a cognitive disability (e.g., TBI)
-- At least 4 people who are age 55 or older
-- At least 3 who do NOT have VA health care or disability
-- At least 7 have a smartphone to use it for the session and...
-  - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen
-  - Be willing to share over Zoom a web browser window on their smartphone
-  - Have a working microphone on their smartphone
-- At least 2 people 35 or under
-- At least 3 people of color
-- At least 2 women
-- At least 2 people who don't have any degree or vocational training after high school 
-- At least 2 people who live in a rural or remote area
-- At least 2 people who are LGBTQ+
+- **Phase 1: Non-assistive technology users** 
+  - *Primary criteria:*
+    - **NONE** need to use a screen reader or screen magnifier every time they access the Internet 
+    - **At least 5** have a smartphone and are willing to use it for the session and... 
+      - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen 
+      - Are willing to share over Zoom a web browser window on their smartphone 
+      - Have a working microphone on their smartphone 
+    - **At least 5** have a computer and are willing to use it for the session  
+  - *Secondary criteria:*
+     - At least 4 people have a cognitive disability (e.g., TBI) 
+     - At least 4 people are age 55 or older 
+     - At least 2 people 35 or under 
+     - At least 2 people don't have any degree or vocational training after high school 
+     - At least 2 people live in a rural or remote area 
+     - At least 3 people of color 
+     - At least 2 women 
+     - At least 2 people are LGBTQ+ 
+
+ - **Phase 2: Assistive technology users** 
+  - *Primary criteria:*
+    - **ALL** must use a screen reader or screen magnifier every time they access the Internet 
+    - **At least 3** have a smartphone or tablet and are willing to use it for the session and... 
+      - Have Zoom downloaded to their mobile device prior to the session and know how to share their screen 
+      - Are willing to share over Zoom a web browser window on their mobile device 
+      - Have a working microphone on their mobile device 
+    - **At least 5** have a computer and are willing to use it for the session  
+  - *Secondary criteria:*
+     - At least 2 people are age 55 or older 
+     - At least 2 people 35 or under 
+     - At least 2 people don't have any degree or vocational training after high school 
+     - At least 2 people live in a rural or remote area 
+     - At least 4 people have a cognitive disability (e.g., TBI) 
+     - At least 3 people of color 
+     - At least 2 women 
+     - At least 2 people are LGBTQ+ 
 
 ### Screening Questions
 
-1. Have you applied for VA benefits under the PACT Act?
-    1. No *(RECRUIT 11)*
-    2. Yes *(disqualify)*
+1. Do you use screen reader or screen magnifier technology **every time** you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
+    1. No *(disqualify for assistive tech; go to question #5 for non-assistive tech)*
+    2. Yes *(ask next question)*
 
+1. Are you willing to join the Zoom session using this assistive technology? 
+    1. No *(disqualify)* 
+    1. Yes *(ask next question)*  
+
+1. How long have you been using this screen reader or screen magnifier technology? 
+    1. Less than 2 years *(disqualify)* 
+    1. 2-5 years *(ask next question)*
+    1. More than 5 years *(ask next question)* 
+
+1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND qualify for assistive tech AND ask rest of questions)*
+
+1. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? *(RECORD)*
+    1. Smartphone  
+    1. Computer 
+    1. Tablet 
 
 1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
      1. No
-     2. Yes *(RECRUIT 4 and RECORD as having a cognitive disability)*
+     2. Yes *(RECRUIT and RECORD as having a cognitive disability)*
 
-1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve. 
      1. No  
-     1. Yes *(RECRUIT 2)*
+     1. Yes *(RECRUIT 2 for each phase)*
 
 
 
-1. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
-     1. No 
-     2. Yes *(RECRUIT 7)*
-
-1. What time zone are you located in? *(RECORD)*
-
-
-
-## Timeline
+## Timeline--TBD
 
 ### Prepare
 Before recruitment starts, I would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. I would also like to discuss the relative priorities of recruitment criteria (e.g., it’s more important to recruit at least 4 people who are 55 years or older than it is to recruit 7 people who will join from their smartphone), and how the criteria are prioritized when recruiting replacements for participants who cancel in advance. 
@@ -185,5 +214,5 @@ Please list the people who will be serving in each role.
 - Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Wes Rowe, Amanda Klausmeier, Danielle Thierry, Jordan Wood, Randi Mays, Dave Conlon.) 
 
 ## Approvals
-- Dave Conlon (PO) on Sept 19, 2023
-- Shane Strassberg (VA Research Ops) on Sept 20, 2023
+- Dave Conlon (PO) on Nov 7, 2023
+- Shane Strassberg (VA Research Ops) on TBD
