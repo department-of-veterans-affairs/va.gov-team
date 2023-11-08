@@ -102,14 +102,10 @@ To get started:
 
 _Navigation_
 
-Imagine you’ve come to VA.gov to ... (rotate between the two)
-
-9. Learn more about representatives, such as a VSO or attorney, that can help you in applying for a VA benefit. Show where you would expect to go to learn more.
+9. Imagine you’ve come to VA.gov to learn more about representatives, such as a VSO or attorney, that can help you in applying for a VA benefit. Show where you would expect to go to learn more.
    - _Note: If you come to a page where you expected to find information that isn’t there, stop and let me know and we’ll move to the next question._
    - Why did you decide to go here?
-10. Find a list of nationwide representatives, such as a VSO or attorney, that can help you in applying for a VA benefit. Show where you would expect to go to find a list of representatives.
-      - _Note: If you come to a page where you expected to find information that isn’t there, stop and let me know and we’ll move to the next question._
-      - Why did you decide to go here?
+   - How did it feel to find information about representatives on VA.gov?
 
 ### Things to watch for:
 
@@ -137,38 +133,38 @@ Imagine you’ve come to VA.gov to learn more about getting support from a repre
 
 _Get help from an accredited representative page_
 
-11. Take a moment to review the page. What are your initial impressions?
-12. Any information missing that you’d like to see?
-13. What would you consider to be the most important information on this page?
-14. What would your next step be from this page?
-15. Click the ‘Find a representative’ link to continue.
+10. Take a moment to review the page. What are your initial impressions?
+11. Any information missing that you’d like to see?
+12. What would you consider to be the most important information on this page?
+13. What would your next step be from this page?
+14. Click the ‘Find a representative’ link to continue.
 
 
 
 _Search - Filter & Sort_
 
-16. Before clicking anything, take a moment to review the page. How would you describe the main things this page is telling you?
+15. Before clicking anything, take a moment to review the page. How would you describe the main things this page is telling you?
    - _IF no mention of representative meaning;_ click the ‘How can each type of representative help me?’ dropdown. What are your thoughts on this information?
       - Which representative type would you choose and why?
-17. Are there any other inputs you’d like to search for that are not provided?
-18. When you search, what information do you expect to see about a representative?
+16. Are there any other ways you’d like to search that are not provided?
+17. When you search, what information do you expect to see about a representative?
 
 
 
 _Search - Results_
 
-19. Click the ‘City, state or postal code’ box then ‘Search’, which will show search results for VSOs. From the table of options, how would you decide which representative to go forward with?
-20. Is there any information missing you’d like to see?
+18. Click the ‘City, state or postal code’ box then ‘Search’, which will show search results for VSOs. From the table of options, how would you decide which representative to move forward with?
+19. Is there any information missing you’d like to see?
    - _*Note: If you’d like to see attorney options to compare feel free to click the ‘attorney’ option up top._
-21. What are your thoughts on the sort options? Are there any other ways you’d like to sort the information shown?
-22. Any other thoughts on this page?
+20. What are your thoughts on the sort options? Are there any other ways you’d like to sort the information shown?
+21. Any other thoughts on this page?
 
 
 
 _Current Representative_
 
-23. Click the ‘Next Prototype’ button in the top right to go back to the homepage.
-24. Imagine you have a current representative and could see that information on VA.gov. Where would you expect to see your current representative information?
+22. Click the ‘Next Prototype’ button in the top right to go back to the homepage.
+23. Imagine you have a current representative and could see that information on VA.gov. Where would you expect to see your current representative information? When you get to where you expect to see the information stop.
 
 ### Things to watch for:
 
@@ -181,10 +177,9 @@ _Current Representative_
 
 ## Post-Task Interview - 5 minutes
 
-25. What are your thoughts on the experience we just shared?
-26. How likely would you be to use a tool such as this? Why or why not?
-27. Anything else you’d like to share today?
-28. Observers, do you have any additional questions?
+24. What are your thoughts on the experience we just shared?
+25. How likely would you be to use the search tool? Why or why not?
+26. Observers, do you have any additional questions?
 
 
 
