@@ -1,4 +1,4 @@
-# Conversation Guide for Proactive Benefits, November 2023
+# Conversation Guide for Proactive Benefits, November 2023**
 
 This is the general guide containing all possible questions for participating Veterans. Not all of these questions will be asked, and “probe” questions are listed as optional ways to dig deeper into the overarching question. Researchers may copy and customize this guide to each participant by bolding applicable/priority questions in a separate document.
 
@@ -8,7 +8,7 @@ This is the general guide containing all possible questions for participating Ve
 - Build on our current understanding of Veteran’s communication preferences. 
 - Deepen our understanding of the experience of this cohort of Veterans and find out how they might respond to this outreach.
 
-### Moderator Logistics
+### Moderator Logistics** 
 
 - **2-3 days before the session**
 
@@ -96,12 +96,19 @@ As a reminder, you don’t have to answer any questions that you would prefer no
 
     - Probe: Have you taken any action based on the PACT Act?
 
+  - _\[If no, move on and let them know we’ll revisit this topic later]_
+
 
 ## Experience with VA Communications (10-15 min)
 
 _Goal: Build on our current understanding of Veteran’s communication preferences and experiences_ 
 
 Before we share some sample communications with you to hear your feedback and questions, we’d first like to hear a bit more about your experience with communications you’ve received from the VA.
+
+- What kind of communications do you receive from the VA today?
+
+  - Probe: What are the communications about?
+  - Probe: What format (i.e. letter v. email v. text)?
 
 - I’d like for you to think about outreach you’ve received from the VA that felt clear or helpful. Can you tell me about it?
 
@@ -121,11 +128,6 @@ Before we share some sample communications with you to hear your feedback and qu
   - Probe: What questions did you have?
   - Probe: How did the outreach impact your view or understanding of the VA?
 
-- What kind of communications do you receive from the VA today?
-
-  - Probe: What are the communications about?
-  - Probe: What format (i.e. letter v. email v. text)?
-
 - What do you expect from different forms of communication (i.e. letter v. email v. text)?
 
   - Probe: Do you receive all of these forms of communication? Others?
@@ -138,7 +140,8 @@ Before we share some sample communications with you to hear your feedback and qu
 
 - Have you received PACT Act communications from the VA?
 
-  - If yes, can you share more about them?
+  - If yes, what were they about?
+  - What was your impression of the communication(s)?
   - Probe: What action, if any, have you taken in response to PACT Act communications?
 
 - Do you actively manage your communication preferences with the VA? For example, have you ever unsubscribed from a form of communication (such as text) or selected a preferred channel of communication?
@@ -178,9 +181,9 @@ First, I’ll give you a moment to review the letter. What’s your initial impr
 
   - Probe: What questions or concerns do you have?
 
-    - The letter makes references to your eligibility based on information from your personal records. Does that bring up any questions for you? Concerns?
+    - The letter makes references to your eligibility based on information from your personal records. What are your thoughts on the VA suggesting you may be eligible based on your personal records?"
 
-  - \[For those that have filed a claim in the past] Based on what you’ve read in the letter, do you anticipate this process will be different from past experiences filing a claim? Why or why not?
+  - \[For those that have filed a claim in the past] Based on what you’ve read in the letter, how would you anticipate this process to compare to past experiences filing a claim? 
 
 - In this scenario, we asked you to imagine that you received this as a letter in the mail. That said, we’re interested in understanding how Veterans would prefer to receive information like this. How would you expect to receive this information (i.e. via mail, email, either)? Why?
 
@@ -218,9 +221,9 @@ First, I’ll give you a moment to review the letter. What’s your initial impr
 
   - Probe: What questions or concerns do you have?
 
-    - The letter makes references to your eligibility based on information from your personal records. Does that bring up any questions for you? Concerns?
+    - The letter makes references to your eligibility based on information from your personal records. What are your thoughts on the VA suggesting you may be eligible based on your personal records?"
 
-  - \[For those that have filed a claim in the past] Based on what you’ve read in the letter, do you anticipate this process will be different from past experiences filing a claim? Why or why not?
+  - \[For those that have filed a claim in the past] Based on what you’ve read in the letter, how would you anticipate this process to compare to past experiences filing a claim? 
 
 - In this scenario, we asked you to imagine that you received this as a letter in the mail. That said, we’re interested in understanding how Veterans would prefer to receive information like this. How would you expect to receive this information (i.e. via mail, email, either)? Why?
 
@@ -249,8 +252,9 @@ First, I’ll give you a moment to review the letter. What’s your initial impr
     - Where do you expect the link might take you?
     - What information would you hope to be provided with?
 
-  - If you were to scan the QR code, what would you expect to happen next?
+  - \[Prompt if needed] What steps would you take to follow the QR code?
 
+    - If you were to scan the QR code, what would you expect to happen next?
     - Where do you expect the QR code might take you?
     - What information would you hope to be provided with?
 
@@ -266,8 +270,14 @@ Related to this, we’re thinking about sending the letter that we shared with y
 As a reminder, you don’t have to answer this question if you’d prefer not to.
 
 - If you wanted to take action on the claim, what might you have done?
+
   - Probe: Would the ITF and wait to file appeal to you more? Or would you prefer to file a claim right away? Why?
-  - Probe \[if not previously addressed]: Who do you expect will be involved in this process other than yourself?
+
+  - Probe \[if not previously addressed]: Who do you expect would be involved in this process other than yourself? 
+
+    - \[Clarify if needed] For example, family members or caregivers
+
+<!---->
 
 - Probe \[if not previously addressed]: What questions might you have had?
 - Probe \[if not previously addressed]: How might this outreach impact your perception of the VA?
