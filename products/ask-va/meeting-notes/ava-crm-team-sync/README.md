@@ -1,3 +1,48 @@
+## Meeting Notes for CRM Sync on 11/07/2023
+
+`/ping` is working; GitHub for API docs/status; Facilities
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Khoa, Eddie, Jacob, Ruchi, Becky, Natalie
+* **AVA CRM Team:** Bharat, Wayne, Chris, Kathleen, Jamie, Shelby
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+1. The `/ping` endpoint was shown to work behind the VA's VPN. Last step is to see it working in STAGING, which should happen before we start our API workshop on Thursday.
+   * We will continue looking for a resolution to localhost development as a low-priority, background task.
+2. As we collaborate, we'll keep the API documentation and endpoint statuses in GitHub.
+3. Medical Facilities
+   * We were looking for a system of record that is managed by a team that's upstream from our application. (Trying to not keep app-specific copies of data.)
+   * Lighthouse exposes Medical Facilities that map to CRM records almost perfectly, but there are two exceptions that we discussed.
+      1. Lighthouse stores Northern California facilities in a more granular way than CRM. Those facilities would need to be mapped to the parent facility.
+      2. Lighthouse exposes many more facilities than have been referenced in CRM inquiries. New facilities would have to be accounted for in routing, OR mapped to the CRM catch-all facility, OR filter the larger list down to the facilities expected by AVA CRM.
+   * AVA CRM mentioned that the medical facilities were OIT-directed and VAST-sourced. When asked how new facilities come into the inquiry process, it was stated that this has never happened before, but OIT should alert them.
+4. Educational Facilities
+   * We were looking for a system of record that is managed by a team that's upstream from our application. (Trying to not keep app-specific copies of data.)
+   * We found a source of facilities that is used by the GI Bill Comparison Tool that matches the AVA CRM data almost prefectly. Only a few malformed AVA facility codes could not be matched.
+   * We believe this data was sourced from WEAMS, but there is no API backing it. Dynamics CRM may be the only system of record for this.
+   * AVA FE will follow up with the GI Bill team to ensure there is no API before closing the lid on this one.
+
+### Action Items:
+
+- [ ] Jacob: Is Lighthouse pulled from VAST? (11/14)
+- [ ] Jacob: Reach out to GI Bill team to see how their list is maintained and if there's an API for it. (11/14)
+- [X] ~Joe: Consolidate Category/Topic/Subtopic into a single endpoint in the API status doc.~
+- [ ] Joe/Eddie: Reach out to AVA CRM see what metadata is available from the unified Category/Topic/Subtopic endpoint.
+- [ ] Khoa: See `/ping` endpoint invoked from STAGING server (including the locked-down version of the endpoint).
+---
+- [X] ~Becky to touch base with Kathleen on military information fields this week.~\
+   ~Check that fields won’t affect routing / system.~\
+   ~Draft email.~
+- [X] ~[Hold after convo with Kathleen] Communicate to business teams about military information.~\
+   ~Send out email in tandem (Kathleen and Becky) to AVA distribution email~
+- [ ] Joe and Jacob to request zero tokens and access to the appropriate Azure resources.\
+   They will follow up with the support team and JD as needed for information on the resources to get access.
+
+---
+
 ## Meeting Notes for CRM Sync on 11/02/2023
 
 Focused on `/ping`; Cat/Topic/Sub; 01/02 Remainder

@@ -91,6 +91,7 @@ async function closeIssue(number) {
   });
 }
 
+
 // get the GH handle of the platform-governance-team's maintainer
 // if there is no maintainer take the first team member returned
 async function getGHMaintainerHandle() {

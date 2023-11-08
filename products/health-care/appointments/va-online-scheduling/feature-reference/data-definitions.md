@@ -1,4 +1,4 @@
-# Data Definitions
+# Appointment Data Definitions
 
 Reference for data that VAOS displays for different appointment types.
 

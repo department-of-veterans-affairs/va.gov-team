@@ -272,6 +272,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
@@ -322,6 +323,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
@@ -374,6 +376,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
@@ -422,6 +425,7 @@ VA appointment
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
 You shared these details about your concern
@@ -469,6 +473,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 ```
 
@@ -518,6 +523,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 ```
 
@@ -573,6 +579,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 ```
 
@@ -619,6 +626,7 @@ COVID-19 vaccine
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 ```
 
@@ -653,6 +661,7 @@ This appointment is for disability rating purposes only. It doesn't include trea
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
 ```
@@ -701,6 +710,7 @@ This appointment occurred in the past.
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
 ```
@@ -741,6 +751,7 @@ Breadcrumb: `< Back to appointments`
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
 ```
@@ -936,6 +947,7 @@ You must join this meeting from this VA location:
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
 You'll be meeting with
@@ -994,6 +1006,7 @@ VA Video Connect at a VA location
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
 You'll be meeting with
@@ -1045,6 +1058,7 @@ VA Video Connect at a VA location
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
 You'll be meeting with
@@ -1110,6 +1124,7 @@ You must join this meeting from this VA location:
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
 You'll be meeting with
@@ -1382,6 +1397,7 @@ Someone from your VA facility will call you at your phone number on file at the 
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 ```
 
@@ -1438,6 +1454,7 @@ VA appointment over the phone
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 ```
 
@@ -1490,6 +1507,7 @@ VA appointment over the phone
 Directions
 
 Clinic: {Clinic name}
+Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 ```
 

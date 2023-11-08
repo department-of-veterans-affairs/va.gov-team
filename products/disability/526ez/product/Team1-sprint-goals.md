@@ -11,19 +11,16 @@ Period - 11/08/2023 - 11/21/2023
    - eVSS to Lighthouse Migration - Engineering
        - PPIU - Direct Debit 
          - [ ] Release plan
-       - Submit
-          - [ ] DD Dashboard for Sidekiq jobs
-          - Benefits Claims Service
-            - [ ] DD Dashboard
-            - [ ] Release plan
+      - Benefits Claims Service
+        - [ ] Release plan
 - **Features**
    - 526ez sync with paper version 
        - Toxic Exoposure - unblocked work
-           - [ ] Design changes
-           - [ ] Copy updates
-           - [ ] Collab cycle mid-point
+           - [ ] New mocks for timeframe location capture
+           - [ ] Copy updates from research and CAIA feedback
            - [ ] Unblocked engineering work - if any
        - [ ]  New military service questions - kick-off collab cycle
+       - [ ]  Implementation - Make homelessnessContact fields optional
          
 - **Other**
   - Shadow Research
@@ -32,12 +29,13 @@ Period - 11/08/2023 - 11/21/2023
       
 - **Stretch Goals**
   - Engineering
-     - [ ] 
+     - [ ] PCIU Discovery
   - Design
      - [ ]
   - Research
      - [ ]
-
+  - Other
+     - [ ] Update 526ez Product Guide  
              
 
 ## Sprint 17

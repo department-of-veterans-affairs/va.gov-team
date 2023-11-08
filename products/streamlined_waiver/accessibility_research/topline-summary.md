@@ -26,41 +26,29 @@ This topline summary is a high level, top of mind summary of trends found in the
 _Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
 
-**Finding #1**
+**1. Login process was time consuming and led to many participants running out of time to interact with form.**
 
-- More details on Finding #1
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+Front end team is exploring options for creating an unauthenticated form for future usability studies.
 
 
-**Finding #2**
 
-- More details on Finding #2
-- These details could be key words, actions, or test outcomes
+**2. Two participants were confused by the button on the Work History List Loop**
 
-> Quote (if relevant)
+One participant stated they thought the "cancel" button would cancel the whole form.
 
 
-**Finding #3**
+**3. VoiceOver is not reading transition pages**
 
-- More details on Finding #3
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+This is an issue with Focus attribute and has been documented previously.
 
 
-**Finding #4**
+**4. The level of difficulty was unique to each individual depending on the screen reader they use, the device (mobile vs desktop), and their personal preferences (the way they like to navigate)**
 
-- More details on Finding #4
-- These details could be key words, actions, or test outcomes
+One participant had an unconventional way of navigating the page by having the screen reader read all of the links on the page. This overemphasized the header and footer of the page rather than the content on the form pages. Another participant could not share his screen because he was using Dolphin Guide which did not allow multitasking.
 
-> Quote (if relevant)
+> "When I navigate through the page, because I'm an impatient person, I use H for headings all the time. But I was just using my arrow key to go down the screen." 
 
 
-**Finding #5**
+**5. We found that users of screen readers were extraordinarily patient**
 
-- More details on Finding #5
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+Although the login process was time consuming and frustrating, participants were in good spirits and eager to continue to complete tasks until our 90 minutes ran out.

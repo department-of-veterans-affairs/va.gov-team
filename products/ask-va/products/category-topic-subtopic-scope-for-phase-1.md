@@ -1,9 +1,9 @@
 # Category, topic, and subtopic scope for Phase 1
-Last updated by @beckyphung on November 7, 2023
+Last updated by @beckyphung on November 8, 2023
 
 This document outlines the scope of category, topic, and subtopic changes for Phase 1 of the Ask VA front-end redesign to VA.gov. 
 
-These changes are documented in [this spreadsheet](https://docs.google.com/spreadsheets/d/1qRpAwE-OmISFzYsg4w3n8VlBsxJxkBAFZL21AWDXFKc/edit#gid=0). It also shows these characteristics, but these aren't changes:
+These changes are documented in [this spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/AskVA/Shared%20Documents/General/UX/11.8.23%20PHASE%201_%20Category,%20topic%20and%20subtopic%20labels%20in%20order.xlsx?d=wbd0524b1164643b4994bf9ec28819484&csf=1&web=1&e=zjnPA5). It also shows these characteristics, but these aren't changes:
 - category in order of rank field (ranked by usage)
 - topic and subtopic in alphabetical order (apart from 'Other' - see "Nice to have" updates below)
 
@@ -13,11 +13,12 @@ These changes are documented in [this spreadsheet](https://docs.google.com/sprea
 
 ## "Must Have" updates for Phase 1
 - Changes to category, topic and subtopic names only
-
-## "Nice to Have" updates for Phase 1
 - Adding new topic or subtopic with an existing routing queue
 - Adding new topic or subtopic with a completely new routing queue
 - Removing current topic or subtopic
+
+## "Nice to Have" updates for Phase 1
+
 - Moving 'Other' topic or subtopic to the bottom of the list
 
 ### Evidence

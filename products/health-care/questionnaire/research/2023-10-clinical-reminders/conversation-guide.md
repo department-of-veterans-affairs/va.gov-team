@@ -102,7 +102,7 @@ Before we start, a few things I want to mention:
   
 
 - Next, pretend that you are answering the pre-appointment questions again. We also call these clinical reminders, so you may hear me refer to them as such. Some of the questions will be familiar to you as you answered them before your appointment, while others may not. Please think a loud as you review the screens. I’ll ask you a few questions as you move though too.
-  - [eScreening link](https://escreening.va.gov/but/assessment/home)  
+  - [eScreening link](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fescreening.va.gov%2Fbut%2FassessmentEmailLogin%3Fcode%3D2JmUuszlN1bfe636sBzCEQ%253D%253D&data=05%7C01%7C%7C508afc1463974977ea4208dbdbbfcedb%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638345389069890219%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JMIAh6kCGRa6HKIBAnZ9yU8dc%2Bhyr0sbk2CbJxJyKHQ%3D&reserved=0)
 
 - [**Notetaker:** Note which questionnaire branching logic they follow and if the clinical reminders end in a positive or negative result. Write down any comments shared without prompting from the Moderator.] 
 
