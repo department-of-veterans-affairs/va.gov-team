@@ -47,9 +47,6 @@
 * We launched User Researches to learn about Veterans feedback on notifications style and content.
 * We’re expanding our metrics and analytics tracking to understand our Self-Service User Interface usage by platform users.
 
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics, if possible._
-
 ---
 
 ## Assumptions
