@@ -52,7 +52,6 @@ Before we start, I have a few things that I want to go over with you:
 *Start recording.*
 
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
 ## Warm-up Questions (Optional) - 5 minutes
@@ -132,11 +131,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Sometimes it takes a while to develop and code changes that we want to make. If we could quickly put up the "sign out all" button while we work on the rest of what we showed you today, would you find that useful?
 - Is there any additional feedback you have for me at this point?
 - Any questions for me? 
-
-## Consent to use video clips
-
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
 ## Thank-You and Closing - X minutes
