@@ -99,7 +99,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 ### Required criteria (in decreasing order of priority)
 - **Phase 1: Non-assistive technology users** 
   - *Primary criteria:*
-    - **NONE** need to use a screen reader or screen magnifier every time they access the Internet 
+    - **NONE** need to use a screen reader or screen magnifier to access the Internet 
     - **At least 5** have a smartphone and are willing to use it for the session and... 
       - Have Zoom downloaded to their smartphone prior to the session and know how to share their screen 
       - Are willing to share over Zoom a web browser window on their smartphone 
