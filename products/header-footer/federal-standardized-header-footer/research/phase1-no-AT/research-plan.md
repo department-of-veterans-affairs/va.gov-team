@@ -23,11 +23,11 @@ This research aligns with the [21st Century IDEA](https://www.whitehouse.gov/wp-
 
 ### Veteran Journey
 There are many potential touchpoints between the Veteran and this application throughout the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
-- Getting out (Engaging VA to access benefits and services)
-- Starting up (Attending to health needs)
-- Taking care of myself (Recognizing and addressing mental health needs, Managing primary care and chronic health issues, Seeking support for an acute health event, Maintaining my health)
-- Retiring (Taking care of my health)
-- Aging (Managing my declining health)
+- Getting out
+- Starting up 
+- Taking care of myself 
+- Retiring 
+- Aging
 
 ## Research Goals	
 The purpose of this research is to find out: 
@@ -53,23 +53,40 @@ The findings from this research will create an understanding of how the header a
     - How do Veterans (and others) feel about the new USA logo? 
      
 
-
 ### Hypotheses
 1. Veterans (and others) will be able to easily use the header and footer. 
-1. Veterans won’t have any difficulty reading any of the text shown in the prototypes. 
-1. Veterans who use assistive technology (screen reader or screen magnification software) will be able to easily use the header and footer. 
-1. The new VA seal helps Veterans understand this is a VA website. 
-1. Veterans will be able to easily find the authenticated menu when it’s integrated with the main menu in the mobile header. 
-1. The new USA logo mark helps Veterans understand this is a Federal government website. 
+1. Veterans (and others) won’t have any difficulty reading any of the text shown in the prototypes. 
+1. Veterans (and others) who use assistive technology (screen reader or screen magnification software) will be able to easily use the header and footer. 
+1. The new VA seal helps Veterans (and others) understand this is a VA website. 
+1. Veterans (and others) will be able to easily find the authenticated menu when it’s integrated with the main menu in the mobile header. 
+1. The new USA logo mark helps Veterans (and others) understand this is a Federal government website. 
 
 ## Method	
-We will conduct **remote moderated usability testing** to observe research participants using a working prototype that presents the questions and results screens in the PACT Act Wizard. The prototype is not a high-fidelity design prototype but instead an **online survey (in Survey Monkey) that presents questions** and branches appropriately to subsequent questions and relevant results screens. In this way, we’re **testing the content of the PACT Act Wizard**—the text and flow of the questions and the logical branching—but not the UI design.   
+We will conduct **remote moderated usability testing** to observe research participants using mobile and desktop prototypes.   
 
-Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
+Sessions will be conducted over Zoom with transcripts. 
+
+We would like to test with both mobile and desktop users. 
+
+There will be 2 phases of research: 
+
+- **Phase 1: Non-assistive technology users**  
+  - Both desktop and mobile users 
+  - 2 Figma prototypes (mobile and desktop) 
+  - 60-minute sessions 
+
+- **Phase 2: Assistive technology users** 
+  - Both desktop and mobile users 
+  - 1 coded prototype that's accessible and responsive (CodePen likely) 
+  - 90-minute sessions 
+
+NOTE: We will consult with AuthExp team to have them lead usability testing for authenticated menu as a Phase 3.  
+
 
 ### Research materials
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/conversation-guide.md)
-- [Link to prototype](https://www.surveymonkey.com/r/KKVHSFV)
+- [Link to conversation guide TBD]()
+- [Link to prototype TBD]()
+- [Mural notetaking board TBD]()
 	
 ## Recruitment
 
