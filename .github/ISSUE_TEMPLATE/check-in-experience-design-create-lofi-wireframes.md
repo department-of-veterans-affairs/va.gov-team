@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+## User Story
+As a [role], I want to [what] so that I can [do something].
+
 ## Tasks
 - [ ] Create lo-fi wireframes
 
