@@ -1,11 +1,11 @@
 # Research Debrief: Appointment Scheduling Processes at Cerner and VistA Sites
 
-## Purpose
+### Purpose
 This is a high-level overview of the appointment scheduling processes at Cerner and VistA sites, compiled from our visits two facilities that use VistA and one that uses Cerner. 
 
 While we don't believe two visits were enough to fully understand all the nuances between the two scheduling systems, the takeaways that follow cover some of the key similarities and differences that we heard. We'll be looking in detail at these findings in our full report. 
 
-## Process of Scheduling Appointments
+### Process of Scheduling Appointments
  **VistA:**
      - Veterans can direct schedule online or request an appointment.
      - MSA creates requests and converts them into appointments.
