@@ -1,4 +1,4 @@
-# Research Brief: Appointment Scheduling Processes at Cerner and VistA Sites
+# Research Debrief: Appointment Scheduling Processes at Cerner and VistA Sites
 
 ## Introduction
 
