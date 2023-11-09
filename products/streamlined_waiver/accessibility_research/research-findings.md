@@ -1,11 +1,11 @@
 
-# [Study] Research Findings 
+# [Streamlined Waiver Accessibility Study] Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Streamlined Waiver Path (Enhanced Financial Status Report Form), Debt Resolution Team**
 
-Date: MM/DD/YYYY
+Date: 10/24/23 - 11/3/23
 
-[Designer 1] [email], [Designer 2] [email]
+[Charlotte Cesana - UX Researcher & Moderator] [charlotte.cesana@va.gov], [Megan Gayle - UX Researcher/Designer] [megan.gayle@govcio.com], [Joseph Lee - UX Designer] [joseph@cityfriends.tech]
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -19,31 +19,78 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new).
 
-_Then, describe your goals for this research_
+_The Veteran Journey_
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+Debt can happen at any stage in [the Veteran’s journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) after the ‘Getting out’ stage. However, certain types of debt, such as Post-9/11 GI Bill debt, is more likely to occur at the ‘Finding something to do’ stage.
+
+Other key moments this research touches in the Veteran journey are:
+
+-   Attending to health needs
+    
+-   Taking care of myself
+    
+-   Managing my declining health
+    
+
+This research also touches on aging and managing new needs for those that develop vision issues or blindness later in life.
+
+_Research Goals_
+
+
+1.  #### Understand accessibility of the non visual user experience of the eFSR (Streamlined Waiver) forms and what improvements can be made (efficiency, auditory scannability, proficiency, flexibility)
+    
+2.  #### Understand how this form compares in contrast to mental models Veterans that use screen readers have with other forms
+    
+3.  #### Understand Veterans level of satisfaction with the eFSR (Streamlined Waiver) form
 
 
 
 ## Research Questions
 
-_Research questions here_
+### GOAL 1: Understand accessibility of the non visual user experience of the eFSR (Streamlined Waiver) forms and what improvements can be made (efficiency, auditory scannability, proficiency, flexibility)
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
+### Navigation & Overall Experience
+
+-   How do Veterans with visual limitations who use screen readers navigate through the form?
+    
+-   How easy or difficult is it to fill out the form with a screen reader?
+    
+-   Which area of the form would be most helpful for Veterans using screen readers to hear first when they tab?
+    
+-   Should it be: The header (step x of 7) or should it be the question they are being asked?
+    
+-   How do they experience error states?
+    
+-   Do participants know how to expand *additional information* sections? 
+    
+-   What is difficult to accomplish in this form, if anything?
+    
+-   How is the experience of signing the form?
+    
+
+### GOAL 2: Understand how this form compares in contrast to mental models Veterans that use screen readers have with other forms
+
+### Comprehension
+
+-   How is comprehension of the list loops from editing a section to the summary?
+    
+-   How clear is the transition from one section to the next of the form?
+    
 
 
-* Question 
-* Question
-* Question
+### GOAL 3: Understand Veterans level of satisfaction with the eFSR (Streamlined Waiver) form
+
+### Satisfaction
+
+-   How do Veterans that use screen readers feel about filling out the SW form? Does it meet their expectations? How can we improve their experience?
+    
 
 ## Methodology 
 
-_Brief description of method chosen_
+-   Accessibility testing with a usability study approach
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
 
 
 ## Hypotheses and Conclusions
