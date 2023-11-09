@@ -29,7 +29,7 @@ The team outlined their flows for the reactivation step in [this Mural](https://
 ## <a name="url"></a>URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
-No changes to form flow URLs or breadcrumbs at this moment. Recommending updating base URL so it is up to date with standards.
+No IA recommendations to form flow URLs or breadcrumbs at this moment. Recommending updating base URL so it is up to date with standards.
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
