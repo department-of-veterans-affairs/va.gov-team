@@ -28,10 +28,10 @@ To best serve the users of VA.gov, we will need to collect the following informa
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
 |    P4 `Reschedule`                   |          10/25/2023        |     Dolphin               |     Intermediate            |     Windows                 |    Chrome         |     Desktop        |
 |    P5                    |        10/27/2023          |        JAWS            |         Intermediate        |           Windows           |             | Desktop            |
-|       P7                 |            10/30/2023      |                    |                 |                      |             |             |
-|   P8                     |          10/31/2023        |                    |                 |                      |             |             |
-|   P9                     |              11/1/2023    |                    |                 |                      |             |             |
-|       P10                 |                 11/3/2023 |                    |                 |                      |             |             |
+|       P7 (No show)                |            10/30/2023      |      Unsure              |   Intermediate              | CHrome, FIrefox                     | Android            |             |
+|   P8  (1/2 Session)                   |          10/31/2023        | JAWS                    | Intermediate                 | Windows                     | Chrome            |    Desktop         |
+|   P9 (No Show)                    |              11/1/2023    |                    |                 |                      |             |             |
+|       P10   (1/2 Session)              |                 11/3/2023 |  Voiceover                  |  Intermediate               | Mac                    |  Safari           |  Desktop           |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 
