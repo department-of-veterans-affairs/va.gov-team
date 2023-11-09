@@ -19,12 +19,7 @@
 
 Team has created user flows in [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694111229625/784141f7f136fcd481b4010e5ec0ca961434e5fe?sender=u79ee90295fdb006d7f463212). We added feedback under the user flows as well as added stickies directly on the flow. Those stickies represent feedback based on the [VA experience standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards).
 
-| Category | Standard | This product |
-| ---- | ---- | ---- | 
-User flows | A user flow has valid or appropriate closure, and doesn't result in a dead end where a user can't complete a task due to a functional issue (i.e. blank page, missing field or CTA, 404 error). | Already on Content's radar but want to confirm there’s info on the last page so folks have context what one can expect after submitting |
-User flows | A user flow provides content or navigation to help users understand where to go or what to do next. | Include content on the intro page for verifying identity to 1) let folks know they are going to a new page and 2) how to return to this page. Team has implemented this!
-User flows | A user flow includes a prominently placed CTA that doesn't lead the user out of the primary flow without notifying them or providing a clear way for them to return to the original flow. | Same as above, include content on the intro page for verifying identity to 1) let folks know they are going to a new page and 2) how to return to this page. I’m curious about what happens if the verification process isn’t successful. What can be done to support this flow? |
-User flows | Your content or feature supports all necessary user flows and scenarios. | At this moment, the POA/third party flow isn't being supported in the digital flow. The team has added content on the intro page so that audience is directed to submit by paper form. I added sticky for non-citizen flow to include screen where folks can enter A number |
+FYI, no flow for POA/third party is supported at this moment.
 
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
@@ -38,7 +33,7 @@ User flows | Your content or feature supports all necessary user flows and scena
 **1) H1 of page - New**
 - URL: 
 - Breadcrumb: VA.gov home > Records >  H1 of page
-- Notes: Subsequent pages will add on to the above URL using short and simple labels, i.e. .../introduction/. We can provide further guidance on these additions if needed. Let us know if there’s any other questions on the POA/third party URLs as well.
+- Notes: Subsequent pages will add on to the above URL using short and simple labels, i.e. .../introduction/. We can provide further guidance on these additions if needed.
 
 
 ## <a name="nav"></a>Entry points <br>
@@ -63,19 +58,31 @@ This is a list of proposed entry points. We recommend checking page performance 
   - Link destination: 
   - Notes: Add to search results as well
 
-4. **[Privacy Act Requests](https://department.va.gov/privacy/privacy-act-requests/)** - Add
+4. **[Privacy Policy](https://www.va.gov/privacy-policy/)** - Add
+  - Placement description: Under “Privacy Act Rights”
+  - Link label: TBD by Sitewide Content
+  - Link destination: 
+  - Notes:
+
+5. **[VA claim exam (C&P exam)](https://www.va.gov/disability/va-claim-exam/)** - Add
+  - Placement description: 
+  - Link label: TBD by Sitewide Content
+  - Link destination: 
+  - Notes:
+
+6. **[Privacy Act Requests](https://department.va.gov/privacy/privacy-act-requests/)** - Add
   - Placement description: 
   - Link label: TBD by Sitewide Content
   - Link destination: 
   - Notes: We would need to connect with the team that manages this site to add entry point here.
 
-5. **[FOIA Requests](https://department.va.gov/foia/foia-requests/)** - Add
+7. **[FOIA Requests](https://department.va.gov/foia/foia-requests/)** - Add
   - Placement description: Below “How are VA FOIA Requests Handled?”, there is a section for “Personal Records”
   - Link label: TBD by Sitewide Content
   - Link destination: 
   - Notes: We would need to connect with the team that manages this site to add entry point here.
     
-6. **[Privacy Policy](https://www.va.gov/privacy-policy/)** - Add
+8. **[Privacy Policy](https://www.va.gov/privacy-policy/)** - Add
   - Placement description: Under “Privacy Act Rights”
   - Link label: TBD by Sitewide Content
   - Link destination: 
@@ -96,7 +103,7 @@ This is a list of proposed entry points. We recommend checking page performance 
 ## <a name="bestbets"></a>Best Bets <br>
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.*
 
-Think it might be helpful to have best bets!
+Think it might be helpful to have best bets! Happy to connect on this once application has been published.
 
 <hr>
 <hr>
