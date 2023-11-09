@@ -61,7 +61,9 @@ ________________________________________________________________________________
             - 🟦 [[BE] Implement get_appointments method in client class #68686](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68686)
             - 🟩 [[FE]Change Workflow to Go from Questions to Completion Page #688650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68865)
             - 🟩 [[FE] Make Alerts Dismissible per Wireframes #68866](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68866)
-            - 🟩 [[FE]Unified e2e test - define paths #68683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68683)          
+            - 🟩 [[FE]Unified e2e test - define paths #68683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68683)
+        - **EPIC: [Unified Check-in: Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**           
+            - 🟥 [[UX][Design] Align inline annotations to correct components on artboards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67723)
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
         - 🟥 [[UX][Design] Create Final Wireframes #68244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68244)
         - 🟩 [[FE] Placeholder](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69686)
