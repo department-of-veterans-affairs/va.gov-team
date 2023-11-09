@@ -16,6 +16,8 @@ import startApp from 'platform/startup/router';
 
 ```jsx
 // Old
+import { Route } from 'react-router';
+
 <Route path="/" component={ClaimsStatusApp}>
   {/* Nested routes here */}
 </Route>
@@ -23,6 +25,8 @@ import startApp from 'platform/startup/router';
 // New
 // <Routes> must be parent element of <Route> elements
 // `element` replaces `component`
+import { Route, Routes } from 'react-router-dom-v5-compat';
+
 <Routes>
   <Route path="/" element={ClaimsStatusApp}>
     {/* Nested routes here */}
