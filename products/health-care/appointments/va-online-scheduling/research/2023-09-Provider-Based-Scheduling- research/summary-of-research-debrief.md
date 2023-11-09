@@ -91,6 +91,6 @@ This is a high-level overview of research findings on appointment scheduling pro
 - Contact staff at both sites we visited to get clarification and ask follow up questions. 
 - Write a full research report with key findings.
 - Create supporting documents to add to the GH research folder and include in the appendix: flow chart for the scheduling process at both, terms and definitions used in both systems, a spreadsheet of contacts to follow up with in the future, collect VistA and Cerner training documents and add them to GH with a link to them in the appendix. 
-- P
+
 
 
