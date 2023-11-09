@@ -661,10 +661,10 @@ As other Health care teams are updating these CTAs, Public Websites may be calle
 
 **More info:**
 * A6 program GDrive folder:[ React Widgets](https://drive.google.com/drive/u/1/folders/1BnLFus_BECGARlCfoSKKexaGe7KiLqzo)
-* [Healthcare system cutover to Cerner (now Oracle health): runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md)
+* [Healthcare system cutover to Cerner (now Oracle health): runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md)
 * [React widget flows](https://app.mural.co/t/vagov6717/m/vagov6717/1651166973924/bc8bc44cab4e4ae7b84819d22ba89b11aa70e5e1?invited=true) (Mural)
 * **Q2/Q3 2022 project:** Active effort to replace old hard coded data file with Drupal as source of truth for which healthcare records management system is used by a VA medical center system. 
-   * [CMS source of truth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Cerner-Support/cms-source-of-truth) (github)
+   * [CMS source of truth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/healthcare-widget-support/cms-source-of-truth) (github)
 * Oracle Health cutovers have been complex and no additional facilities will move to Oracle Health in 2022. Oracle Health cutovers should resume in 2023.
 
 
