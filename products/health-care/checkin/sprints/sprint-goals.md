@@ -73,7 +73,6 @@ ________________________________________________________________________________
     - 🟩 [[FE][BUG] Demo questions are shown to Veteran if visiting a UUID for the second time, after already checking in for that appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69131)
     - 🟩 [[FE][SPIKE] Can we use the new Design System's minimal header component?](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69082) 
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
-       - 🟥 [UX] Any remaining DSV3 components to update in sketch?
 
 __________________________________________________________________________________________________________________________________________________________
 
