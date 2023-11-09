@@ -18,7 +18,7 @@ Where does your product fit into the Veteran journey? Are there moments that mat
 Getting out: Engaging VA to access benefits and services
 Taking care of myself: Managing primary care and chronic health issues
 
-### Research Goals
+## Research Goals
 In this study, we aim to observe Veterans filling out their own disability claims with real data in order to better understand the end-to-end user experience.  We will assess the clarity and usability of the 526ez in its current state as well as uncover pain points that do not surface in structured, feature-specific testing. 
 This study will also serve as a pilot for regular observational research to capture changes and updates.
 Goals:
@@ -72,7 +72,7 @@ Veterans who review the process and prepare the material they need in advance ar
 - Social media, family, and friends serve as a source of information for troubleshooting issues and information sharing among Veterans.
 - The form takes most Veterans much longer than the estimated 25-minute burden to complete. 
 
-### Methodology
+## Methodology
 This study sets up a consistent, repeatable process that can help us identify design debt and get regular  “health checks” to ensure improvements and new releases are having their expected impact.
 We will conduct semi-structured interviews in which we shadow Veterans completing the 526ez form for the first time. In these sessions, we will ask Veterans to share their screens and think aloud as they fill out the form with the intention of submitting a real claim. The sessions will be capped at 2 hours with the expectation that many Veterans will require a follow-up session to complete the form, which we will ask Perigean to schedule if necessary. 
 Structure of the sessions:
@@ -95,7 +95,7 @@ For moderated interviews:
 - Conversation Guide (Google Doc version)
 - Note: There will be no prototype or staging profile used for this study. Veterans will be completing the form on their accounts. 
 
-### Recruitment
+## Recruitment
 OCTO works with Perigean, a small business, to handle the recruitment, scheduling, and compensation of Veterans and caregivers.
 
 Before writing your recruitment criteria, be sure to review the following resources.
@@ -114,7 +114,7 @@ Recruit 9 participants for targeted 5-7 completed sessions with Veterans who hav
 - Must be comfortable with sharing personal information for the purpose of completing the application
 - Inclusive, diverse sample with respect to race/ethnicity, age, gender, educational attainment, financial status
 
-Primary criteria 
+**Primary criteria** 
 Disability Benefit eligibility
 - All Veterans must be eligible to file for disability compensation in the next 30 days. 
 
@@ -135,7 +135,7 @@ Race/Ethnicity
 - No more than 2 Caucasian Veterans	
 - At least 2 other ethnicities (Hispanic, Asian, Native American) 
 
-Secondary criteria
+**Secondary criteria**
 Recruit a mix of gender, education, condition count, and military branch
 
 Screener Questions
@@ -164,7 +164,7 @@ Screener Questions
 - Yes (Recruit 3-4 Veterans)
 - No
 
-### Timeline
+## Timeline
 Please submit artifacts for Research Review 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 Submitted to Perigean: [Determine w/ Shannon and preceding dates] 
 Research dates: Monday, November 13- Wednesday, November 29th
@@ -191,7 +191,7 @@ November 20-22: 9am EST - 6pm EST
 November 27-December 1: 9am EST- 6pm EST
 December 4- December 8: 9am EST- 6pm EST
 
-### Team Roles
+## Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for the moderator and the emails for the moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 - Moderator: Nichole Nicholas, Evelyn Hilbrich Davis, and Julie Pedtke will be sharing in moderation responsibilities
 - Research guide writing and task development (usually but not always same as moderator): Same as moderators
