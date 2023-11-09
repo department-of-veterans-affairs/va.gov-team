@@ -144,7 +144,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
         - 🟥[[UX][Content] Create Content to Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67897)
     - **Sub Goal: Handle Missing Appointment Information**
-        - ✔️ 🟥[[UX][Design] Create Final Wireframes w/ Annotations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68747)
+        - ⛔ BLOCKED 🟥[[UX][Design] Create Final Wireframes w/ Annotations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68747)
              - Started, but is blocked by Appointments, Misty and Kristen to align on empty states. When identified, we will follow their direction and pull into a future sprint. Moved this to backlog.  
     - **Sub Goal: Analyze current metrics to see what they tell us**       
        - 🟥[Research] Analyze GA Metrics
