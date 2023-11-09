@@ -106,6 +106,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this introduction to inclusive research and use the recruitment checker (Google Sheets) to understand OCTO's targets for inclusivity.
 We would like to schedule a kickoff call with Perigean as soon as the research plan is approved, to review the survey and email content that will be sent to participants. 
+-  Yes, Tuesday, November 14, 2023
 
 ### Recruitment criteria
 Recruit 9 participants for targeted 5-7 completed sessions with Veterans who have never completed the 526ez online and are ready to do so for the first time. 
