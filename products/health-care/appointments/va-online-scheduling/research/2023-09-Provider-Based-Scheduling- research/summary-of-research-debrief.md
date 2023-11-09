@@ -84,12 +84,18 @@ While we don't believe two visits were enough to fully understand all the nuance
 - MSAs can add Veterans to the Standby Request Queue on request.
 - Providers create "requests" similar to VistA's Return to Clinic orders.
 
-
-
 ## Next steps
 - Contact staff at both sites we visited to get clarification and ask follow up questions. 
 - Write a full research report with key findings.
 - Create supporting documents to add to the GH research folder and include in the appendix: flow chart for the scheduling process at both, terms and definitions used in both systems, a spreadsheet of contacts to follow up with in the future, collect VistA and Cerner training documents and add them to GH with a link to them in the appendix. 
 
+
+| **Areas of key differences**                                           | **Cerner**                                                          | **VistA**                                                            |
+|-------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Veteran Scheduling**                                | Veterans do not have online scheduling; they must call, email, secure message, or visit in person. | Veterans can directly schedule appointments online or request them.  |
+| **Appointment Creation Process**                       | MSAs directly create appointments without a request process.        | MSAs create requests and convert them into appointments.             |
+| **Clinic Selection for Appointment Availability**      | MSAs select resources (usually providers) for appointment availability. | MSAs select clinics for appointment availability.                   |
+| **Provider Selection for Appointment Availability**    | Providers create "requests" similar to VistA's Return to Clinic orders. | Selecting a provider is not required to schedule an appointment.    |
+| **Standby Request Queue**                              | MSAs can add Veterans to the Standby Request Queue on request.       | TBD (in the process of verifying if this is an option)                                                     |
 
 
