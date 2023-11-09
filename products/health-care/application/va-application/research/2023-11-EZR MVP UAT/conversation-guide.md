@@ -42,8 +42,6 @@ Before we start, I have a few things that I want to go over with you:
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- **You'll be interacting with a beta version of the website today.** This tool has not been released and it may not function exactly the way you expect. Since it is linked to the VA system, it will show you your real information. Towards the end, I will remind you not to submit anything.
-
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
 - **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
@@ -80,6 +78,7 @@ Let’s start with a few warm-up questions.
 
 ## Second Task: [Wayfinding - Static Page] - 5 minutes
 
+- **You'll be interacting with a beta version of the website today.** This tool has not been released and it may not function exactly the way you expect. Since it is linked to the VA system, it will show you your real information. Towards the end, I will remind you not to submit anything.
 - For this next scenario, imagine you just started a new job and your health insurance has changed because of it. Now, you've realized that you need to update your insurance details for your VA health care benefit. To do that, you decided to search on Google to find out how and where you can update your information. Google takes you to this page on VA.gov you're about to see. For this scenario, are you comfortable with sharing your screen and talking through your thought process?
 - Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
 - [Share link to (https://staging.va.gov/health-care/update-health-information-1/) in Zoom chat]
