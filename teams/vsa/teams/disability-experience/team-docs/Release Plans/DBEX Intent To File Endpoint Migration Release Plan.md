@@ -35,7 +35,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [x] Stage C: 10%
     - [x] Stage D: 25%
     - [x] Stage E: 50%
-    - [ ] Stage F: Go live!
+    - [x] Stage F: Go live!
 - [ ] Post-launch questions
 
 
