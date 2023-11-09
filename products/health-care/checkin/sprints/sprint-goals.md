@@ -64,7 +64,8 @@ ________________________________________________________________________________
             - 🟩 [[FE]Unified e2e test - define paths #68683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68683)          
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
         - 🟥 [[UX][Design] Create Final Wireframes #68244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68244)
-    - ⛔ BLOCKED **Sub Goal: Handle Missing Appointment Information**
+    - **Sub Goal: Handle Missing Appointment Information**
+         - ⛔ BLOCKED (waiting for Appointments and Mobile App to make decisions) 
     - **Sub Goal: Analyze current metrics to see what they tell us**       
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
