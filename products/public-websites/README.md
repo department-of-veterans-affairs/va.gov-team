@@ -649,23 +649,23 @@ Public Websites manages the unauthed version of 5 React Healthcare widgets relat
 
 Calls to action on these widgets point users to the Electronic Healthcare Records (EHR) system used by their primary healthcare facility. Three flavors of EHR: 
 * MyHealtheVet - Digital platform of the VistA healthcare provider. CTAs that point to MHV, once a user logs in, will take users out to MHV's platform.
-* Cerner - New EHR provider as of 2020, used at some VAMC systems/facilities. Systems were migrating to Cerner through 2022; migrations on pause as of July 2022. For Veterans who have patient records at a Cerner facility, CTAs that point to Cerner will also appear and take those users out to Cerner's digital platform.
-* MyHealtheVet on VA.gov - An in-house digital platform built by the VA. CTAs that point to MHV on VA.gov will take users to a VA.gov dashboard, where both MHV and Cerner data is pulled in via APIs.
+* Oracle Health (formerly Cerner) - New EHR provider as of 2020, used at some VAMC systems/facilities. Systems were migrating to Cerner (at the time) through 2022; migrations on pause as of July 2022. For Veterans who have patient records at an Oracle Health facility, CTAs that point to Oracle Health will also appear and take those users out to Oracle Health's digital platform.
+* MyHealtheVet on VA.gov - An in-house digital platform built by the VA. CTAs that point to MHV on VA.gov will take users to a VA.gov dashboard, where both MHV and Oracle Health data is pulled in via APIs.
 
 As other Health care teams are updating these CTAs, Public Websites may be called up on as code reviewers to review changes and ensure that the unauthed experience for these 5 widgets behaves as expected. 
 
 **Governance / Content:**
 
 * Content is provided by Sitewide Content team
-* Cerner cutover information is publicized in DSVA slack: #vagov-cerner-launch-coordination
+* Oracle Health cutover information is publicized in DSVA slack: #vagov-oracle-launch-coordination
 
 **More info:**
 * A6 program GDrive folder:[ React Widgets](https://drive.google.com/drive/u/1/folders/1BnLFus_BECGARlCfoSKKexaGe7KiLqzo)
-* [Healthcare system cutover to Cerner: runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md)
+* [Healthcare system cutover to Cerner (now Oracle health): runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md)
 * [React widget flows](https://app.mural.co/t/vagov6717/m/vagov6717/1651166973924/bc8bc44cab4e4ae7b84819d22ba89b11aa70e5e1?invited=true) (Mural)
 * **Q2/Q3 2022 project:** Active effort to replace old hard coded data file with Drupal as source of truth for which healthcare records management system is used by a VA medical center system. 
    * [CMS source of truth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Cerner-Support/cms-source-of-truth) (github)
-* Cerner cutovers have been complex and no additional facilities will move to Cerner in 2022. Cerner cutovers should resume in 2023.
+* Oracle Health cutovers have been complex and no additional facilities will move to Oracle Health in 2022. Oracle Health cutovers should resume in 2023.
 
 
 ## VA.gov Homepage
