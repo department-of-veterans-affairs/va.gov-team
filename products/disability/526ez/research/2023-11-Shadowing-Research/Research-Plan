@@ -6,3 +6,14 @@ Disability compensation is often the first VA "service" that Veterans will come 
 526EZ is a long-form with many known pain points and multiple teams working on improvements. While there is continual user testing of subsections and pages within the form, we don’t have a clear sense of the end-to-end experience for Veterans as they fill in their own information (vs mock data and scenarios during testing). 
 [Link to product brief]
 (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/product).
+
+### OCTO Priorities
+Which OCTO priorities does this research support? Work with your VA lead and product manager as needed.
+2. Solidify the VA.gov platform
+6. Enhance Veterans’ personalized online experience
+7. Fast-track disability claims, starting with PACT Act claims
+
+### Veteran Journey
+Where does your product fit into the Veteran journey? Are there moments that matter?
+Getting out: Engaging VA to access benefits and services
+Taking care of myself: Managing primary care and chronic health issues
