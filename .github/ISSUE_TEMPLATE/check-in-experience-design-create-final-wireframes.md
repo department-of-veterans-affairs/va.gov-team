@@ -12,6 +12,7 @@ As a [role], I want to [what] so that I can [do something].
 
 ## Tasks
 - [ ] Create final wireframes with content
+- [ ] Create any needed markup into Sketch Page(s) for heading annotations, aria label values or link paths
 
 ## Acceptance Criteria
 - [ ] Does CAIA (or content and a11y SME) need to review? 
