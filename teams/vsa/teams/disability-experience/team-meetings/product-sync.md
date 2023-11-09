@@ -1,5 +1,19 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Oct 26' 2023       
+### Participants: Rakshinda, Shannon, Emily, Steve 
+### Topics Covered:
+- Emily's concern regarding potential validation errors related to rated disabilities discrepancies between EVSS and LH enpoints
+  -  Ongoing discrepancies with mobile
+     -  LH is working with BGS to resolve that
+  -  EVSS is to take out validation for this field
+    - Need to confirm that LH is also removing the validation - **TREX to check for /submit migration**
+      - Confirmed with Kayla that LH has updated 526 v2 service to treat ratedDisabilityId and diagnosticCode as optional and allow null values
+- Toxic Exposure 
+  - VSRs are currently checking for service connecting for PACT Act so veterans are not blocked from submitting claims for PACT Act
+-  Monitoring with Sam / Steve / Mark
+  - WatchTower tag for Octo level visibility
+    
 ### Date: Oct 19' 2023       
 ### Participants: Rakshinda, Austin, Shannon, Emily, Steve 
 ### Topics Covered:

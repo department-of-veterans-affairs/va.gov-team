@@ -12,10 +12,9 @@
 
 
 ### Day of the session
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
-Slack for real-time feedback from observers.
+- Use teams channels for real-time feedback from observers.
 - Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers.
 
 
 
@@ -76,7 +75,9 @@ Before we start, a few things I want to mention:
 
 
 - How were you notified, such as a text or email, that your provider wanted you to answer some questions prior to your appointment?
-  - You should have been sent [text or email] by Perigean for today's session. Please bring up the [text or email], then share your screen. [**Moderator Note:** Help participant open the link and screen share if necessary. If the participant is unable to share their screen, then share your screen and follow the participant’s instructions.] [Mobile screen sharing instructions](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions) 
+  - Share your screen with the example that they mentioned. This is also determine what prototype you share with them.:
+    - [eScreening email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening%20Email.png)
+    - [BHL email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Email.png)
 
 - How far in advance of your appointment did you receive this notification? 
 
@@ -100,7 +101,8 @@ Before we start, a few things I want to mention:
 
   
 
-- Next, pretend that you are answering the pre-appointment questions again. We also call these clinical reminders, so you may hear me refer to them as such. Some of the questions will be familiar to you as you answered them before your appointment, while others may not. Please think a loud as you review the screens. I’ll ask you a few questions as you move though too. 
+- Next, pretend that you are answering the pre-appointment questions again. We also call these clinical reminders, so you may hear me refer to them as such. Some of the questions will be familiar to you as you answered them before your appointment, while others may not. Please think a loud as you review the screens. I’ll ask you a few questions as you move though too.
+  - [eScreening link](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fescreening.va.gov%2Fbut%2FassessmentEmailLogin%3Fcode%3D2JmUuszlN1bfe636sBzCEQ%253D%253D&data=05%7C01%7C%7C508afc1463974977ea4208dbdbbfcedb%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638345389069890219%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JMIAh6kCGRa6HKIBAnZ9yU8dc%2Bhyr0sbk2CbJxJyKHQ%3D&reserved=0)
 
 - [**Notetaker:** Note which questionnaire branching logic they follow and if the clinical reminders end in a positive or negative result. Write down any comments shared without prompting from the Moderator.] 
 

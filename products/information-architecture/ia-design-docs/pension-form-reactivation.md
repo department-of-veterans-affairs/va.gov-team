@@ -28,7 +28,7 @@ The team outlined their flows for the reactivation step in [this Mural](https://
 ## <a name="url"></a>URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
-No changes to URL or breadcrumbs.
+No changes to URL or breadcrumbs at this moment
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
@@ -58,15 +58,20 @@ The team laid out the entry points in [this Mural](https://app.mural.co/t/depart
   - Link destination: www.va.gov/pension/application/527EZ/introduction
  <img width="450" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/bdbfbe86-70de-404c-b947-a146e8a01af1">
 
-
 **6. [About VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/)**
-  - Link label:
   - Link destination: www.va.gov/pension/application/527EZ/introduction
  <img width="400" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/bd814a5a-528d-4a96-a6c4-1b208de52ffc">
 
-    
-**7. [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/)**
-  - Link label:
+**7. [Find a Form search results](https://www.va.gov/find-forms/?q=527EZ)**
+  - Link destination: www.va.gov/pension/application/527EZ/introduction
+<img width="550" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/0eb1a5d6-451f-41d6-8b90-8c5548b36dd2">
+
+**8. [Fully developed claim for a VA pension](https://www.va.gov/pension/how-to-apply/fully-developed-claim/)**
+  - Link label: Apply for pension benefits online
+  - Link destination: www.va.gov/pension/application/527EZ/introduction
+<img width="750" alt= "Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/09802a01-8920-44e2-956c-46d46a0073f7">
+
+**9. [Evidence to support VA pension, DIC, or accrued benefits claims](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/)**
   - Link destination: www.va.gov/pension/application/527EZ/introduction
 <img width="450" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/4e7add42-ae54-40ed-97bf-d772fe1fb3f1">
 
@@ -82,7 +87,7 @@ Current URL | Redirect to | Notes
 Original [redirect request](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15012) for 302 code has been rescinded as of 8/31/23. 
 
 ## <a name="search"></a>Best bets <br>
-We previously routed best bets searches to the [About VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/) page so that folks wouldn't get search results to the form flow. We are updating best bets so that search results direct to the [online form](https://www.va.gov/pension/application/527EZ/introduction) again.
+We previously routed best bets searches to the [About VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/) page so that folks wouldn't get search results to the form flow. We recommend updating best bets so that search results direct to the [online form](https://www.va.gov/pension/application/527EZ/introduction) again. Once form is reactivated, feel free to submit a [best bet ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/Best%20Bet%20Request.md) or ping me in Slack and we can create the ticket and implement the best bet updates.
 
 
 <hr>

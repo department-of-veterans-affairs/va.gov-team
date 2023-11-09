@@ -20,7 +20,7 @@ What follows is a menu of the services we offer. **No worries if you don't know 
 You can also reach us by attending our weekly office hours on Tuesdays at 4 PM Eastern on [Zoom](https://coformaco.zoom.us/j/83992174780?pwd=Tk1jZ0o3MWxLcHFMWTM1S3ZrcytqUT09).
 
 ### Research support
-We can help you plan your research sessions, ensuring that they are equitable and account for important accessibility factors. When it comes time to run research sessions we can also provide technical support for research participants who rely on assistive technology, like screen readers. 
+We can help you plan your research sessions, ensuring that they are equitable and account for important accessibility factors. When it comes time to run research sessions we can also provide technical support for research participants who rely on assistive technology, like screen readers. During the research sessions, we also observe and take notes, with an eye to accessibility. Once the research has concluded, we provide a robust deliverable containing accessibility findings and recommendations to the research team.  
 
 ### Accessibility test planning
 We can work with a team to develop an accessibility-focused testing plan so that during design and development you are able to continually ensure that your product is accessible. We can help develop the plan, and walk you through how to run the tests. We have experience creating plans for both automated and manual testing.

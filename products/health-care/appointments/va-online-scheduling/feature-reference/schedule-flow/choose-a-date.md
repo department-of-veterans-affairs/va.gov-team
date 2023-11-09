@@ -20,7 +20,7 @@ Veterans are asked to choose a preferred date for when they'd like to receive ca
 - After entering a date, the user is sent to the direct schedule calendar page
 
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2899-14241&t=rlUNz5oWE30aEgSO-4) 
 

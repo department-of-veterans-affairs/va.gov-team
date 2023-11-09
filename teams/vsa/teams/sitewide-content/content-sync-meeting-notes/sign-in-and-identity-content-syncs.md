@@ -1,8 +1,18 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**October 26, 2023**
+-
+Attendees: Aliyah, Lauren, Laura, Clayton, Carl, Sophia, Joe, Nathalie, Josh (researcher on identity MFA team), and Matt (designer on chatbot team)
+- **Audit updates:** Danielle working with Tom and Lauren A. on this. We'll need to wait until their plan is fianlized before we (Laura and Aliyah) begin any audit work.
+- **Content in authenticated experience about verifying identity:** Aliyah circled back to a question re: the types of content a user may see if they'll need to verify their identity, depending on the sign in partner they've used. After our meeting, Joe shared a screen capture of a screen that says what they can do if they have a verified Login.gov or ID.me account (sign out and sign back in with one of these accounts) **or** if they don't have either of those account types (created an account with Login.gov or ID.me and then verify identity).
+- **Veteran support team:** Camille joined the call and chatted a bit more about the research that her team is doing on the feedback surveys on R&S pages.
+- We clarified on the call that some of the research findings may be about the "Signing in to VA.gov" page because folks will enter the study from the specific page.
+- Clayton/CORE identity team would be happy to hear if there's any feedback on the Signing in to VA.gov page that comes up in research. The CORE identity team/LGA teams are coordinating with Camille on how they'll share that research.
+  
+
 **October 12, 2023**
 -
-Attendess: Aliyah, Lauren, Laura, Clayton, Carl, Sophia, Nathalie, Ngozi
+Attendees: Aliyah, Lauren, Laura, Clayton, Carl, Sophia, Nathalie, Ngozi
 - Camille (Veteran Support team) is planing research on the **Signing in to VA.gov page.** She'll join the next meeting to chat more about her research plans and we can discuss how this may overlap with research done by the CORE identity team (Clayton).
 - **Audit:** We discussed that we'll need to do a comprehensive audit (unauthenticated and authenticated experiences) for mentions of sign in options. 
   - Audit of authenticated experience would involve public websites

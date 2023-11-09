@@ -41,3 +41,11 @@ Systems used by Application Processing teams
           - Any time the Priority Group (PG) changes or any determination is made regarding Priority Group and/or Copay status, a letter will be sent out notifying the Veteran of the change
  
 ### Miscellaneous
+- 11-6-2023
+     - Update on how ES would handle an EZR submitted within a current year that has already had a means test:
+          - If there are less dependents on the EZR than on the current record
+               - We need to test this to truly understand what will happen
+               - Desired outcome: Any information that would impact the financial assessment/means test would be ignored.  The Veteran should only have one means test per income year (this is calendar year).
+               - Future: We need to consider adding a check on E&E service to see if there is a means test already present in the current income year, and if there is, possibly preventing any info that could impact income from being updated. 
+          - Insurance information can be updated any time, but Josh F is double checking on how multiple policies with adding/removing would work.
+     - There is a caveat that the EZR service hasn't been used in about 8 years, and we may find out more on what actually happens during the end-to-end testing

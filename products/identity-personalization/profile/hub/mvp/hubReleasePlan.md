@@ -1,6 +1,6 @@
 # Hub MVP Release Plan
 
-**Updated:** 10/24/2023 draft
+**Updated:** 11/1/2023 draft
 
 ## Table of Contents
 
@@ -18,9 +18,9 @@
 **<details><summary>Related Toggles</summary>**
 <p>
 
-- `add the toggle name`
-  - addthe toggle description
-  - 
+- `profile_use_hub_page`
+  - Use a hub style page as the root page for the profile application
+
 </p>
 </details> 
 
@@ -28,7 +28,8 @@
 
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/readme.md)
 - [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2023-09-profile-hub-usability) 
-- [Analytics Dashboard
+- [Analytics Dashboard for Search](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
+     - for the hub our goal is "Objective #1: Reduce searches from within profile for items in the profile"
 - [QA Testing Ticket
 - [QA Spreadsheet
 
@@ -41,12 +42,12 @@
 |Planning Item/Question|Response|
 |---|---|
 |UAT Go/No-go Convo|[Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68248)|
-|Desired Date Range or Test Duration|1 week|
-|Desired Number of Users| |
-|How you'll recruit the right production test users|We will recruit users via Perigean|
-|How you'll conduct the testing|We will conduct UAT over Zoom to ensure the different features work correctly|
+|Desired Date Range or Test Duration|1 day|
+|Desired Number of Users| internal UAT |
+|How you'll recruit the right production test users| Since its FE UI we can test internally |
+|How you'll conduct the testing| We'll run through our QA testing for UAT |
 |How you'll give the test users access to the product in production w/o making it live on VA.gov|The feature will be behind a feature flag|
-|Link to Research plan for UAT||
+|Link to Research plan for UAT|n/a we're running internal UAT reusing our QA testing|
 
 
 ### Results 

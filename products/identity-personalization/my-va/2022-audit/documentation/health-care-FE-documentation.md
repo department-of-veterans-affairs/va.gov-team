@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: August 25, 2023
+Last updated: October 31, 2023
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -16,7 +16,7 @@ You have no health care information to show.
 
 **Secondary link**
 - When a user does not have health care, a secondary link should appear for [Apply for VA health care](https://www.va.gov/health-care/apply/application/introduction)
-- See more on the [Apply for VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#apply-for-va-health-care-link)
+- See more about the [Apply for VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#apply-for-va-health-care-link)link
 
 **Positioning**
 - The text should appear on the lefthand side on desktop, directly under the "Health care" header.
@@ -56,7 +56,9 @@ Location
 
 - Next appointment: Static text that appears this way for every appointment card
 - Date: Date of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
+  - Note: Follow formatting in Sketch file (i.e. Tuesday, June 1, 2022)  
 - Time: Time of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
+  - Note: Follow formatting in Sketch file (i.e. Time: 9:00 a.m. ET)
 - Location: Location of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
 
 ---
@@ -77,17 +79,13 @@ You have no upcoming appointments to show.
 **Positioning**
 
 - This text should appear on the lefthand side on desktop.
-- It should appear directly below the "Health care" header if the user does not have unread messages.
-- It should appear directly below the messages notifications if the user does have unread messages.
-
+- It should appear directly below the "Health care" header.
 ---
 
 ### If a user receives VA health care at a Cerner facility
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ADCF0E10-E520-4E53-AA3A-70B27D06AD46)
-- [Desktop - expanded](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/Ryd9gKQ)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B86A600B-1B19-4128-854C-299A3A7AAD07)
-- [Mobile - expanded](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/L4PYeML)
+- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/VradRV8)
+- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGlJVpL)
 
 **Show**
 
@@ -97,40 +95,12 @@ You have no upcoming appointments to show.
 
 - If we detect that a user does not receive VA health care services from any Cerner facility via the [Drupal integration](https://depo-platform-documentation.scrollhelp.site/developer-docs/how-to-opt-in-to-drupal-as-the-source-of-truth-for).
 
-#### **Content**
+#### UX specs
 
-**Choose the right health portal**
-
-To manage your health care at these facilities, go to My VA  Health:
-- (**Health care facility name**)
-- (**Health care facility name**)
-
-[Go to My VA Health](https://patientportal.myhealth.va.gov/clear-session?to=https%3A%2F%2Fstaging-patientportal.myhealth.va.gov%3Fauthenticated%3Dtrue)
-
-Having trouble opening My VA Health?
-
-*Expanded content:* 
-
-Try these steps:
-- Disable your browser's pop-up blocker
-- Sign in to My VA Health with the same account you used to sign in to VA.gov
-
-For **any other facility, go to My HealtheVet.**
-
-[Go to My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)
-
-**Content specs**
-
-- The health care facility names should use the Drupal integration to show only the names of facilities that a user receives VA health care at that are Cerner facilities. **This content is dynamic.**
-
-#### Visual specs
-
-- Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the Cerner alert.
-- Use the [additional info](https://design.va.gov/components/additional-info) component for the dropdown that says "Having trouble opening My VA Health?"
-- Use the [secondary action link](https://design.va.gov/components/link/action#secondary) for the "Go to My VA Health" and "Go to My HealtheVet" CTA links.
+- When we detect that a user has received care at a Cerner facility, we show all health care links (Visit My HealtheVet on VA.gov, Go to your inbox, Schedule and manage your appointments, Refill and track your prescriptions, Request travel reimbursement, and Get your VA medical records and lab and test results) and no other cards or empty state text in the section.
 
 **Positioning**
-- This alert should appear directly below the health care header and nothing else should be shown in the section besides this alert.
+- This alert should appear directly below the health care header and nothing else should be shown in the section besides the links.
 
 ---
 
@@ -206,8 +176,8 @@ Use font awesome icon `calendar` for icon
 - For users who have VA health care but do not have any upcoming appointments.
 
 **Positioning**
-- This link should appear under the "Send a secure message to your health care team" link if that applies, or at the top of the stack of health care links if the user has unread messages. 
-- The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+- This link should appear under the "Go to your inbox" link, second in the list of links when it applies.
+- The stack of links appears on the lefthand side on desktop if the user does not have any upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
 
@@ -225,7 +195,8 @@ Use font awesome icon `prescription-bottle` for icon
 - For users who have VA health care.
 
 **Positioning**
-- This link should appear under the "Schedule and manage your appointments" link if that applies, or at the top of the stack of health care links if the user has unread messages and appointments. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+- This link should appear under the "Schedule and manage your appointments" link if that applies, or under the inbox link if the user has an upcoming appointment.
+- The stack of links appears on the lefthand side on desktop if the user does not have any upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
 
@@ -243,7 +214,8 @@ Use font awesome icon `suitcase` for icon
 - For users who have VA health care.
 
 **Positioning**
-- This link should appear under the "Refill and track your prescriptions" link. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+- This link should appear under the "Refill and track your prescriptions" link.
+- The stack of links appears on the lefthand side on desktop if the user does not have any upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
 
@@ -261,7 +233,8 @@ Use font awesome icon `file-medical` for icon
 - For users who have VA health care.
 
 **Positioning**
-- This link should appear under the "Request travel reimbursement" link. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+- This link should appear under the "Request travel reimbursement" link.
+- The stack of links appears on the lefthand side on desktop if the user does not have any upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
 
@@ -305,31 +278,23 @@ Use font awesome icon `file-medical` for icon
 
 **Positioning**
 - This should appear under the 'Health care' header on the lefthand side on desktop.
-- If the user has unread messages, then this error appears below the unread messages alert and all secondary links appear on the right on desktop.
 
 **Secondary links**
-- When this error shows and the user doesn't have unread messages, the following secondary links should appear on the lefthand side on desktop:
+- When this error shows, the following secondary links should appear on the lefthand side on desktop:
   - [Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
   - [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
   - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
   - [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
 
-- When this error shows and the user has unread messages, the following secondary links should appear on the righthand side on desktop:
-  - [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
-  - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
-  - [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
-
 #### Mock-ups
-- [Desktop without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
-- [Mobile without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
-- [Desktop with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C19F6AA0-62CE-4F92-89BD-65680DE67F60)
-- [Mobile with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/0C2845E1-A9E9-412C-B653-11B292A822A0)
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
 
 
 ### Error State 3: The messaging API call fails
 
 #### Visual specs
-- When the messaging API call fails, we do not show an error message - we show the [Send a secure message to your heath care team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#send-a-secure-message-to-your-health-care-team-link) link in the list of links in the health care section.
+- When the messaging API call fails, we do not show an error message - we show the [Go to your inbox](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#send-a-secure-message-to-your-health-care-team-link) link in the list of links in the health care section.
 - Follow all other specs for when this secondary link shows.
 
 #### Mock-ups

@@ -47,18 +47,13 @@ This list is alphabetized by category name. Each field is marked as:
 
 ### Date of birth
 
-**This field will not change.** It will be required, **unless**:
-- `Who are you asking a question for?` = `A general question`
-- and/or `Category` or `topic` = `Education benefits and work study`
+**This field will not change.** It will be required, except in special circumstances (see [Field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)).
 
 ### Social security number and service number
 
-**These fields will change to accommodate Veterans without a social security number.** Social security number will be required, **unless**:
+**These fields will change to accommodate Veterans who are known by their `Service number`, not their `Social security number`.**
 
-- `Who are you asking a question for?` = `A general question`
-- and/or `Category` or `topic` = `Education benefits and work study`
-
-However, if the Veteran does not have a `Social security number`, we will ask for their `Service number`. This will remain optional, in case they do not have either.
+At least one of the following, `Social security number` or `Service number`, will be required, except in special circumstances (see [Field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md)). Submitters can input both if they choose.
 
 ### Service start and end dates
 
@@ -70,20 +65,20 @@ However, if the Veteran does not have a `Social security number`, we will ask fo
 
 ### DoD/EDIPI number
 
-**This field will be removed.** Although [business lines had differing needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information) for `DoD/EDIPI`, we think this field should be **removed** because agents can look this up in MPI using a Veteran's first and last name and DOB or SSN, which will be required.
+**This field will be removed.** Although [business lines had differing needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information) for `DoD/EDIPI`, we think this field should be **removed** because agents can look this up in MPI using a Veteran's first and last name and DOB or SSN – all of which will be required.
 
 ### Branch of service
 
-**This field will change.** Previously, when military fields were present, `Branch of service` was always optional.
-
-However, there are certain business lines that need to know `Branch of service` for their category:
+**This field will change.** This field will be required for these categories:
   - `Veteran ID Card (VIC)`
   - `Disability compensation` (including when `Disability compensation` is a topic under `Benefits issues outside the U.S.`)
   - `Survivor benefits`
   - `Burials and memorials`
   - `Center for Women Veterans`
 
-By making this field required when business lines say they need it, our hypothesis is that agents will more often have the information they need to reply to a submitter in the first instance. And by removing this field when business lines say they don’t need it, we minimize the need for submitters to enter unnecessary information.
+For any other category, it will not be included in the form.
+
+Previously, when military fields were present, `Branch of service` was always optional. By making this field required when business lines say they need it, our hypothesis is that agents will more often have the information they need to reply to a submitter in the first instance. And by removing this field when business lines say they don’t need it, we minimize the need for submitters to enter unnecessary information.
 
 If an inquiry is re-routed to one of these business lines from a business line that does not include `Branch of service`, they will be missing this information. But, we don’t believe that including this field as optional solves the problem. There’s still a likelihood that submitters:
 - do not fill out the field, when it’s needed

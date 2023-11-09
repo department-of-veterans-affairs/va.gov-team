@@ -75,24 +75,28 @@ There are a couple of terms I’m curious to talk to you about. I’m interested
 First, what does “medical emergency contact” mean to you?  
 - As far as you know, do you have that information in your VA record?
 - How do you know?
-- How do you expect VA to use that information?
+- How do you expect the VA to use that information?
 - Where or when do you expect to be asked about this?
 
-Second, what does “Next of kin contact” mean to you?  
+Thank you. What does “Next of kin contact” mean to you?  
 - As far as you know, do you have that information in your VA record?
 - How do you know?
-- How do you expect VA to use that information?
+- How do you expect the VA to use that information?
 - Where or when do you expect to be asked about this?
 
 ## Tasks
 
 ### Task 1: Find EC and NoK information - 10 minutes/15 minutes AT
 
-Thank you for sharing all of that with me! Tell me, how would you check this information in your VA record to be sure it matches what you expect is there?
+Thank you for sharing all of that with me! 
+
+Tell me, how would you check to ensure the VA has the correct medical emergency contact and next of kin information on file? 
 
 _if said, they'd ask someone_ If there was no one available to talk to, how would you confirm this information online?
 
 Interesting - let’s start screen sharing so you can show me how you’d do that.
+
+Are you familiar with how to share your screen with Zoom? 
 
 #### Screen sharing instructions
 
@@ -108,16 +112,21 @@ _Instructions for folks using screenreaders on a desktop:_
 - Tab once more - make sure "share sound" is checked. 
 - Tab 4 times over to "share screen" - click activate. 
 
-Great, now I can see your screen! Thank you for your patience in figuring this out.  Now please go ahead and show me how you’d check this information?
+Great, now I can see your screen! Thank you for your patience in figuring this out.  Now please go ahead and show me how you’d check this information? If you wanted to check the “medical emergency contact” and "next of kin contact" information how would you do that? 
 
-_Participants may start on Google, VA.gov, or somewhere else. If they go elsewhere, we eventually need to get them to VA.gov._ 
-- I’d like for you to show me how to find this information on VA.gov?
+_Participants may start on Google, VA.gov, or somewhere else.
 - _We expect participants will go to VA.gov and be prompted to log in at some point._
+- _We eventually need to get them to staging.va.gov_
+- I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov. Let me know if you need any help doing that.
+- Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in the chat.
+- Great, I’d like for you to show me how to find this information from this page (VA.gov)?
 - _Nudge and probe as appropriate. If get totally lost, help them out. Ultimately, has to go to the Profile section of VA.gov._
 
-Now I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov and then share your screen with me. Let me know if you need any help doing that.
+_Instructions for folks using screenreaders on a desktop:_
 
-Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in in the chat.
+- Now I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov.
+- Let me know if you need any help doing that.
+- Okay great, I can see your screen. Now please navigate to the "sign in" button and I'll tell you the credentials you should type to log in.
 
 ### Task 2: Review Personal health contacts page - 8 minutes
 
@@ -127,11 +136,11 @@ _If had to be directed to Profile_From here_: If you wanted to review the inform
   
 _If arrived in the _Personal health care contacts_ section of Profile_
 
-Why don't you spend a little time getting to know this page. Please think out loud and let me know what your thoughts are about the page, the information here, and how everything is organized. 
-What do you think this page is all about?
-If needed, and applicable: You shared that you also have [XYZ] benefits from VA. Is this information related to those benefits too?
-How is this information useful to you? 
-Let’s pretend you need to update a phone number for your next of kin, how would you go about doing that? 
+- Why don't you spend a little time getting to know this page. Please think out loud and let me know what your thoughts are about the page, the information here, and how everything is organized. 
+- What do you think this page is all about?
+- If needed, and applicable: You shared that you also have [XYZ] benefits from VA. Is this information related to those benefits too?
+- How is this information useful to you? 
+- Let’s pretend you need to update a phone number for your next of kin, how would you go about doing that? 
 
 ### Things to note 
 - Is it clear that the “Personal health care contacts” only pertain to health care? 
@@ -140,15 +149,13 @@ Let’s pretend you need to update a phone number for your next of kin, how woul
 
 ### Task 3: Get insights on expectations - 5 minutes 
 
-3. What information for your Emergency contact would you expect/want to have here? Why? 
-How many Emergency contacts do you want/expect to list/have? Why? 
-What do you expect to be able to do with this information on this page? 
+- What information for your Emergency contact would you expect/want to have here? Why? 
+   - How many Emergency contacts do you want/expect to list/have? Why? 
+   - What do you expect to be able to do with this information on this page? 
 
-4. What about next of kin, What information for your next of kin would you expect/want to have here? Why? 
-
-How many next of kin would you expect/want to have here? 
-
-What information would be useful to have here? Why? 
+- What about next of kin, What information for your next of kin would you expect/want to have here? Why? 
+   - How many next of kin would you expect/want to have here? 
+   - What information would be useful to have here? Why? 
 
 ## Post-task interview questions - 5 minutes
 

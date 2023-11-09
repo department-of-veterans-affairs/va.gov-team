@@ -1,3 +1,158 @@
+## Meeting Notes for CRM Sync on 11/07/2023
+
+`/ping` is working; GitHub for API docs/status; Facilities
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Khoa, Eddie, Jacob, Ruchi, Becky, Natalie
+* **AVA CRM Team:** Bharat, Wayne, Chris, Kathleen, Jamie, Shelby
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+1. The `/ping` endpoint was shown to work behind the VA's VPN. Last step is to see it working in STAGING, which should happen before we start our API workshop on Thursday.
+   * We will continue looking for a resolution to localhost development as a low-priority, background task.
+2. As we collaborate, we'll keep the API documentation and endpoint statuses in GitHub.
+3. Medical Facilities
+   * We were looking for a system of record that is managed by a team that's upstream from our application. (Trying to not keep app-specific copies of data.)
+   * Lighthouse exposes Medical Facilities that map to CRM records almost perfectly, but there are two exceptions that we discussed.
+      1. Lighthouse stores Northern California facilities in a more granular way than CRM. Those facilities would need to be mapped to the parent facility.
+      2. Lighthouse exposes many more facilities than have been referenced in CRM inquiries. New facilities would have to be accounted for in routing, OR mapped to the CRM catch-all facility, OR filter the larger list down to the facilities expected by AVA CRM.
+   * AVA CRM mentioned that the medical facilities were OIT-directed and VAST-sourced. When asked how new facilities come into the inquiry process, it was stated that this has never happened before, but OIT should alert them.
+4. Educational Facilities
+   * We were looking for a system of record that is managed by a team that's upstream from our application. (Trying to not keep app-specific copies of data.)
+   * We found a source of facilities that is used by the GI Bill Comparison Tool that matches the AVA CRM data almost prefectly. Only a few malformed AVA facility codes could not be matched.
+   * We believe this data was sourced from WEAMS, but there is no API backing it. Dynamics CRM may be the only system of record for this.
+   * AVA FE will follow up with the GI Bill team to ensure there is no API before closing the lid on this one.
+
+### Action Items:
+
+- [ ] Jacob: Is Lighthouse pulled from VAST? (11/14)
+- [ ] Jacob: Reach out to GI Bill team to see how their list is maintained and if there's an API for it. (11/14)
+- [X] ~Joe: Consolidate Category/Topic/Subtopic into a single endpoint in the API status doc.~
+- [ ] Joe/Eddie: Reach out to AVA CRM see what metadata is available from the unified Category/Topic/Subtopic endpoint.
+- [ ] Khoa: See `/ping` endpoint invoked from STAGING server (including the locked-down version of the endpoint).
+---
+- [X] ~Becky to touch base with Kathleen on military information fields this week.~\
+   ~Check that fields won’t affect routing / system.~\
+   ~Draft email.~
+- [X] ~[Hold after convo with Kathleen] Communicate to business teams about military information.~\
+   ~Send out email in tandem (Kathleen and Becky) to AVA distribution email~
+- [ ] Joe and Jacob to request zero tokens and access to the appropriate Azure resources.\
+   They will follow up with the support team and JD as needed for information on the resources to get access.
+
+---
+
+## Meeting Notes for CRM Sync on 11/02/2023
+
+Focused on `/ping`; Cat/Topic/Sub; 01/02 Remainder
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Khoa, Eddie, Natalie
+* **AVA CRM Team:** JD, Chris, Shelby, Jamie, Tina, Bharat
+* **Note Taker:** Joe
+
+### Key Takeaways:
+
+1. The `/ping` endpoint is still the focus to make sure that we can get our calls from va.gov to ask.va.gov and back.
+   * AVA FE team has abandoned the attempts to get calls to work from development machines, falling back to ...
+   * The development process will be frustratingly slow. But our fallback is to push every change to DEV servers for validation and testing. It's a 20-minute-per-edit difference, but ...
+   * We will keep looking for a resolution to localhost development as a low-priority, background task.
+2. JD recommended that we consolidate the `/category`, `/topic`, and `/subtopic` API endpoints into a single endpoint that specifies an optional parent identifier
+   * Call the endpoint without an id to get a list of categories
+   * Call the endpoint with a category id to get a list of topics
+   * Call the endpoint with a topic id to get a list of subtopics (or empty list)
+3. JD mentioned that a good bit of the topic config can be passed back as well, so that the API can help us make the UI more data-driven.
+   * Many of the show/hide annotations of fields by topic is included in the tables
+   * Not all scenarios are included, so can't be 100% data-driven.
+4. Bharat (rightly) reminded us of the fast-approaching 01/02 date, and let us know that his team would help us in any way needed to help move things along faster.
+5. Spoke briefly about data mappings between AVA/VA.
+   * Verified with the CRM team that medical facility field is 3 digits in the source VA data, which helped us to later complete the mappings between the two sources.
+   * Natalie reviewed the VA Profile process again and offered to help in the process if we need to add any fields (i.e. intake form, ...), asked to be included in any related meetings.
+   * Eddie reminded the devs that we have a very thorough document between his SPIKE findings and Becky's related document.
+
+### Action Items:
+
+- [ ] Joe to tweak the API endpoint documentation for Cat/Topic/Sub, as described by JD.
+- [ ] Joe and Eddie to reach out to see what metadata is available from the unified Cat/Topic/Sub endpoint.
+- [ ] Khoa to wrap up `/ping` endpoint from DEV/STAGING server, to include the locked-down version of the endpoint.
+- [ ] Joe to queue up the next non-ping endpoints for discussion soon, possibly for Tuesday if `/ping` has been validated in DEV.\
+      ---
+- [ ] Becky to touch base with Kathleen on military information fields this week.\
+   Check that fields won’t affect routing / system.\
+   Draft email.
+- [ ] Joe and Jacob to request zero tokens and access to the appropriate Azure resources.\
+   They will follow up with the support team and JD as needed for information on the resources to get access.
+- [ ] [Hold after convo with Kathleen] Communicate to business teams about military information.\
+   Send out email in tandem (Kathleen and Becky) to AVA distribution email
+
+---
+
+## Meeting Notes for CRM Sync on 10/31/2023
+
+Focused on `/ping`; Future discussions
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Khoa, Jacob, Eddie
+* **AVA CRM Team:** JD, Chris, Shelby, Stephanie, Wayne, Tina, 
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+1. The `/ping` endpoint is still the focus to make sure that we can get our calls from va.gov to ask.va.gov and back.
+   * AVA FE team is working through some connectivity and deployment issues.
+   * AVA CRM is at the ready to answer any questions we may have.
+   * In a nutshell, we're trying to hit the `/ping` endpoint that JD provided from our development machines using the SOCKS proxy. Otherwise, our development process will be frustratingly slow. But our fallback is to push every change to DEV servers for validation and testing. It's a 20-minute-per-edit difference that can make our iterations on ideas flow much more quickly. But we are timeboxing this effort to the next day (Wednesday).
+2. Natalie gave the teams a heads up that she'll be facilitating a discussion during the next all-hands sync on the LOE for changes to categories/topics/subtopics that might possibly impact routing.
+
+### Action Items:
+
+- [x] ~Joe to document the `sec_id` -> `ICN` decision in a GitHub issue.~
+- [ ] Becky to touch base with Kathleen on military information fields this week.\
+   Check that fields won’t affect routing / system.\
+   Draft email.
+- [ ] Joe and Jacob to request zero tokens and access to the appropriate Azure resources.\
+   They will follow up with the support team and JD as needed for information on the resources to get access.
+- [ ] [Hold after convo with Kathleen] Communicate to business teams about military information.\
+   Send out email in tandem (Kathleen and Becky) to AVA distribution email
+
+---
+
+## Meeting Notes for CRM Sync on 10/26/2023
+
+Focused on `/ping`; Baseline analytics strategy
+
+### Attendees:
+
+* **AVA FE Team:** Khoa, Joe, Jacob, Eddie, Ruchi
+* **AVA CRM Team:** JD, Chris, Jamie, Bharat, 
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+1. The `/ping` endpoint will be the focus to make sure that we can get our calls from va.gov to ask.va.gov and back.
+2. Rather than dump tons of data from the App Insights log, Joe and Jacob will request access to querythe data directly.
+
+### Action Items:
+
+- [X] ~Joe to update Thursday meetings to use Teams moving forward.~
+- [ ] Joe to document the `sec_id` -> `ICN` decision in a GitHub issue.
+- [ ] Becky to touch base with Kathleen on military information fields this week.\
+   Check that fields won’t affect routing / system.\
+   Draft email.
+- [X] ~Bharat - send out a briefing of the lower environment~
+- [ ] Joe and Jacob to request zero tokens and access to the appropriate Azure resources.\
+   They will follow up with the support team and JD as needed for information on the resources to get access.
+- [X] ~Joseph Duty to send API credentials via secure VA email.~
+- [X] ~Joseph Duty to send code snippet on calling out to the APIs.~
+- [ ] [Hold after convo with Kathleen] Communicate to business teams about military information.\
+   Send out email in tandem (Kathleen and Becky) to AVA distribution email
+
+
+---
+
 ## Meeting Notes for CRM Sync on 10/23/2023
 
 `sec_id` potential issues; AVA data questions

@@ -4,6 +4,11 @@ Last updated: October 2023
 
 Modern source of technical truth for VA.gov homepage iteration that shipped June 2023.
 
+## Homepage monitoring
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/engineering/monitoring.md
+
+## Homepage build
+
 Homepage consists of several sections, driven by different technical mechanisms. 
 
 | Section  | Technical Mechanism | Links | Drupal Role / Section required |

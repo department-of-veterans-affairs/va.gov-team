@@ -1,36 +1,49 @@
 ## README.md
 
-Overview of APIs goes here.
+This is the list of APIs that the va.gov UI will consume, in priority order. The priority was determined by:
 
+1. Ping endpoint first, as the simplest test of the plumbing.
+2. Form APIs before Dashboard APIs (since we'll be working on Forms first).
+3. APIs that can only be fed by Dynamics APIs (data that only lives in Dynamics).
+4. All other endpoints, in the general order that we plan to attack them.
 
-# API Integration Status
+## Hey! The Links Don't Work!
+
+The links in this document are intentionally disabled. The AVA CRM Team and the AVA FE Team are currently collaborating on the API design and definitions. As the details are ironed out, the subordinate pages will be cleaned up and linked from this document.
+
+## API Integration Status
 
 |Color | Status |
 |---|---|
 ⬜ | Not Started |
 🟨 | In Progress |
-🟦 | Done but not Integrated |
-🟩 | Done and Integrated |
-🟥 | Exception / Blocked |
+🟩 | Done |
+🟥 | Blocked |
 
-| Artifact | Endpoint | Source | AVA Status | CRM Status | Comments | Documentation |
+| Artifact | Endpoint | Source | API Status | Integration | Notes | Docs |
 |---|---|---|:---:|:---:|---|:---:|
-Dashboard | Create Profile | VA Profile |⬜  | ⬜  | Offloading to VA Profile  | [link](Dashboard_CreateMyProfile.md) |
-Dashboard | Read My Profile | VA Profile | ⬜  | ⬜  | Offloading to VA Profile | [link](Dashboard_ReadMyProfile.md) |
-Dashboard | Update Profile | VA Profile |⬜  | ⬜  | Offloading to VA Profile | [link](Dashboard_UpdateMyProfile.md) |
-Dashboard | Retrieve Correspondence | Dynamics |⬜  | ⬜  | | [link](Dashboard_RetrieveCorrespondence.md) |
-Dashboard | Retrieve Inquiries | Dynamics | ⬜  | ⬜  |  | [link](Dashboard_RetrieveInquiries.md) |
-Dashboard | Submit Reply | Dynamics | ⬜  | ⬜  |  | [link](Dashboard_SubmitAReply.md) |
-Dashboard | Upload File | Dynamics | ⬜  | ⬜  |  | [link](Dashboard_UploadFile.md) |
-Form | Get Categories | Dynamics | ⬜  | ⬜  |  | [link](Form_GetCategories.md) |
-Form | Get Topics | Dynamics | ⬜  | ⬜  |  | [link](Form_GetTopics.md) |
-Form | Get SubTopics | Dynamics | ⬜  | ⬜  |  | [link](Form_GetSubTopics.md) |
-Form | Retrieve Inquiry Status | Dynamics |⬜  | ⬜  |  | [link](Form_RetrieveInquiryStatus.md) |
-Form | Submit Inquiry | Dynamics | ⬜  | ⬜  |  | [link](Form_SubmitInquiry.md) |
-Form | Upload File | Dynamics | ⬜  | ⬜  |  | [link](Form_UploadFile.md) |
-Form | Retrieve Banner Message | Dynamics | ⬜  | ⬜  |  | [link](Form_RetrieveBannerMessage.md) |
-Form | Medical Facilities | Lighthouse/Dynamics | ⬜  | ⬜  |  | [link](Form_MedicalFacilities.md) |
-Form | School Facility Codes | Dynamics | ⬜  | ⬜  |  | [link](Form_SchoolFacilityCodes.md) |
-Form | States | Dynamics | ⬜  | ⬜  |  | [link](Form_States.md) |
-Form | Zip Codes | Dynamics | ⬜  | ⬜  |  | [link](Form_ZipCodes.md) |
-Form | Canadian Provinces | Dynamics |⬜  | ⬜  |  | [link](Form_CanadianProvinces.md) |
+Status | GET /ping | Dynamics | 🟩 | 🟨 |  | [link] |
+Form | GET /topics?[id] | Dynamics | ⬜ | ⬜ |  | [link] |
+Form | GET /alerts | Dynamics | ⬜ | ⬜ |  | [link] |
+Form | PUT /inquiry/new | Dynamics | ⬜ | ⬜ |  | [link] |
+Form | GET /inquiry?{num} | Dynamics | ⬜ | ⬜ | inquiry by number | [link] |
+Dashboard | GET /inquiries | Dynamics | ⬜ | ⬜ | dahsboard inquiries | [link] |
+Dashboard | GET /inquiries/search?{txt} | Dynamics | ⬜ | ⬜ | inquiry and reply search | [link] |
+Dashboard | GET /inquiry/{id}/replies | Dynamics | ⬜ | ⬜ | | [link] |
+Dashboard | PUT /inquiry/{id}/reply/new | Dynamics | ⬜ | ⬜ |  | [link] |
+Dashboard | PUT /attachment/new?{id} | Dynamics | ⬜ | ⬜ |  | [link] |
+Dashboard | GET /attachment?{id} | Dynamics | ⬜ | ⬜ |  | [link] |
+Form | GET /facilities?{id} | Lighthouse | ⬜ | ⬜ |  | [link] |
+Form | GET /facilities?{latlong} | Lighthouse | ⬜ | ⬜ |  | [link] |
+Form | GET /facilities/ed?{id} | Dynamics? | ⬜ | ⬜ | likely Dynamics | [link] |
+Form | GET /facilities/ed?{latlong} | Dynamics? | ⬜ | ⬜ | likely Dynamics | [link] |
+Form | GET /zipcodes?{prefix} | Lighthouse? | ⬜ | ⬜ |  | [link] |
+Form | GET /states | Lighthouse | ⬜ | ⬜ |  | [link] |
+Form | GET /countries | Lighthouse | ⬜ | ⬜ |  | [link] |
+Dashboard | GET /profile | VA Profile | ⬜ | ⬜ | VA Profile | [link] |
+Dashboard | ~PUT /profile/new~ | VA Profile | ⬜ | ⬜ | VA Profile  | [link] |
+Dashboard | ~POST /profile~ | VA Profile | ⬜ | ⬜ | VA Profile | [link] |
+Form | ~GET /states~ | Dynamics | ⬜ | ⬜ |  | [link] |
+Form | ~GET /provinces~ | Dynamics | ⬜ | ⬜ |  | [link] |
+Form | ~GET /inquiry?[id]~ | Dynamics | ⬜ | ⬜ | | [link] |
+Form | ~PUT /attachment?[id]~ | Dynamics | ⬜ | ⬜  |  | [link] |

@@ -2,7 +2,7 @@
 - **Study Name:** Debt Resolution: Streamlined Waiver
 - **Study Dates:** October 24 - November 3, 2023
 - **Study Research Lead:** Charlotte Cesana
-- **A11y Collaborators:** Sara and SK
+- **A11y Collaborators:** Sara and SK (along with Angela from MHV)
 - **Related Docs:** Link to [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/research-plan.md) and [communication guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/conversation-guide.md)
 - **Ticket Links:** EPIC and/or [CAIA research assistance request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62881)
 
@@ -26,13 +26,8 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
-|      P1                  |  10/24/2023                |                    |                 |                      |             |             | 
-|  P2                      |           10/24/2023       |                    |                 |                      |             |             |
-|    P3                    |     10/25/2023             |                    |                 |                      |             |             |
-|    P4                    |          10/25/2023        |                    |                 |                      |             |             |
-|   P5                     |     10/26/2023             |                    |                 |                      |             |             |
-|    P6                    |        10/27/2023          |                    |                 |                      |             |             |
+|    P4 `Reschedule`                   |          10/25/2023        |     Dolphin               |     Intermediate            |     Windows                 |    Chrome         |     Desktop        |
+|    P5                    |        10/27/2023          |        JAWS            |         Intermediate        |           Windows           |             | Desktop            |
 |       P7                 |            10/30/2023      |                    |                 |                      |             |             |
 |   P8                     |          10/31/2023        |                    |                 |                      |             |             |
 |   P9                     |              11/1/2023    |                    |                 |                      |             |             |

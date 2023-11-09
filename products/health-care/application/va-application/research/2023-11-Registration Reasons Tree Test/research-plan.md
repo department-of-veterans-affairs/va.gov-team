@@ -4,25 +4,37 @@
 
 The paper form allows for Veterans to self-select the health care benefit type they want to apply for - Enrollment or Registration. On the backend in VES (Veteran Enrollment System), each person has a status and some can be Registration Only with a registration reason. 
 
-The concept of registration and enrollment, if they are steps in the process or the same thing, was found to be confusing during the intial generative research with Veterans. Choosing between these labels did not align with the Veteran's mental model of going about health care eligibility process.
+The concept of registration and enrollment, if they are steps in the process or the same thing, was found to be confusing during the initial generative research with Veterans. Choosing between these labels did not align with the Veteran's mental model of going about health care eligibility and the application process.
 
 - [Link to generative mental model study folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration)
 
 Looking at this from the perspective of registration reasons as scenarios Veterans may have when applying for health care benefits and completing a 10-10EZ, we want to learn the paths taken within VA.gov and if the Veteran reports going to the existing application or another location on the website.
 
+**Registration reasons scenarios for this test**
+- Service Connected Only
+- C&P Disability Benefits Exam
+- Mental health care (Other)
+- Marriage/Family counseling
+- ART/IVF
 
-- [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration)
+
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration)
 
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? 
+
+- Enhance Veterans’ personalized online experience
+
+
 
 ### Veteran Journey
 [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
+
 - Getting out
 - Starting up
-	- Moment that matters: selecting health care coverage according to their individual set of needs
+	- **Moment that matters**: selecting health care coverage according to their individual set of needs
 - Taking care of myself
 - Retiring
   
@@ -36,8 +48,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-- We want to know if Veterans expect to access these scenarios through different areas on VA.gov or if for all reasons they go to the same starting point/application.
+- We want to know if Veterans expect to access these scenarios through different areas on VA.gov or through the health care benefits hub and specifically application page. 
 - Knowing this will guide the path on how to update the content of the 10-10EZ introduction page and knowing if other introduction pages/paths need to be accounted for registration mvp. 
 
 
@@ -59,20 +70,23 @@ How will this research advance your product to the next phase in the design proc
 - Do Veterans expect to get only the [registration reason] they signed up for or more health care benefits in their application? 
 
 
-### Hypothesis
-- Hypothesis that for the appointment registration scenarios - like a C&P or toxic exposure exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
-- Hypothesis that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
-- We hypotheis that their expectation is getting the most the can due to their disability rating and that they are applying for the most they are eligible for.
 
+
+### Hypothesis
+- Hypothesis that for the appointment registration scenarios - like a C&P exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
+- Hypothesis that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
+- We hypothesize that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking, such as mental health or counseling care.
 
 ## Methodology	
 
 - Tree tests - appropriate for evaluative research
 - Unmoderated 
 
+Using Optimal Workshop, we will create a tree test of VA.gov to see where online Veterans would expect to sign up for a registration reason related to health care. We will include a few pre (4 questions) and post test (2 questions) and a couple 5 scenarios with post-task questions (1-2 per task) to evaluate. 
+
 ### Location
-- Unmoderated
-- Optimal Workshop Tree Test link with before/after questions
+- Unmoderated - Participants can complete remotely and asynchronously.
+- Optimal Workshop Tree Test link with task questions per scenario
 
 
 
@@ -80,15 +94,14 @@ How will this research advance your product to the next phase in the design proc
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group 1](url goes here)
-- [Link to prototype or OptimalSort session for group 2](url goes here)
-- [Link to prototype or OptimalSort session for group 3](url goes here)
-- [Link to prototype or OptimalSort session for group 4](url goes here)
-- [Link to prototype or OptimalSort session for group 5](url goes here)
-- [Link to prototype or OptimalSort session for group 6](url goes here)
-- [Link to prototype or OptimalSort session for group 7](url goes here)
-- [Link to prototype or OptimalSort session for group 8](url goes here)
+- [Link to prototype or OptimalSort session for group 1](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=1)
+- [Link to prototype or OptimalSort session for group 2](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=2)
+- [Link to prototype or OptimalSort session for group 3](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=3)
+- [Link to prototype or OptimalSort session for group 4](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=4)
+- [Link to prototype or OptimalSort session for group 5](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=5)
+- [Link to prototype or OptimalSort session for group 6](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=6)
+- [Link to prototype or OptimalSort session for group 7](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=7)
+- [Link to prototype or OptimalSort session for group 8](https://dj540s05.optimalworkshop.com/treejack/io60v1go?token=8)
 
 
 
@@ -96,92 +109,104 @@ How will this research advance your product to the next phase in the design proc
 ## Recruitment	
 
 ### Recruitment approach
-We will use Perigean to recruit participants into cohrots needed for unmoderated tree test study.
-
-- 7 cohorts are only Veterans
-- 1 cohort is Active Duty/Service Member
-
+We will use Perigean to recruit participants into cohorts needed for an unmoderated tree test study.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-**Total requested 72 / 35 total completed**
-- 8 cohorts total / 9 participants per each cohort
-
-
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+**All participants must have:**
+- All have a computer or mobile device and are willing to use it to complete the activity.
 
 
-- Mix of demographics (no more than 3 per category on race, age range) - per each cohort
+|Total requested|Completed sessions|
+|:-------------:|:----------------:|
+|       72      |         35       | 
 
 
+### Cohort Description
+|                |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8 |
+|----------------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------: |
+|***SEX***       |        |        |        |        |        |        |        |         |                
+|Male            |        |   9    |        |        |        |        |        |   5     |   
+|Female          |    9   |        |        |        |        |        |        |   4     |    
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---   | 
+|***Age***       |        |        |        |        |        |        |        |         |          
+|18-24 yo        |        |        |    4   |        |        |        |        |         |       
+|25-34 yo        |        |        |    5   |        |        |        |        |         |      
+|35-44 yo        |        |        |        |    4   |        |        |        |         |       
+|45-54 yo        |        |        |        |   5    |        |        |        |         |       
+|55+ yo          |        |        |        |        |     9  |        |        |         |        
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---   |  
+|***Role***	 |        |        |        |        |        |        |        |         |        
+|Veteran    	 |     9  |   9    |     9  |   9    |    9   |   9    |        |    9    |   
+|Active Duty    |      	  |        |        |        |        |        |     9  |         |       
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Benefits***  |        |        |        |        |        |        |        |        |      
+|Health care     |  0     |   0    |    0   |    0   |      0 |    0   |   0    |  9     |    
+|Disability      |  0     |   0    |    0   |    0   |   4   |    0   |   0    |  9     |    
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Cognitive Impairment and/or Functional Disabilities***  |        |        |        |        |        |        |        |        |      
+| Traumatic Brain Injury (TBI)                                 |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Post-Traumatic Stress Disorder (PTSD)                        |  0     |   0    |    0   |    0   |      0 |    1   |   0    |  0     |
+| Attention-Deficit/Hyperactivity Disorder (ADHD)              |  0     |   0    |    0   |    0   |      0 |    2   |   0    |  0     |
+| Autism                                                       |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Vertigo                                                      |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Aphasia                                                      |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Dyslexia                                                     |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Dyscalculia                                                  |  0     |   0    |    0   |    0   |      0 |    x   |   0    |  0     |
+| Distractibility                                              |  0     |   0    |    0   |    0   |      0 |    1   |   0    |  0     |
+| Memory loss                                                  |  0     |   0    |    0   |    0   |      0 |    2   |   0    |  0     |
+| Reading difficulties                                         |  0     |   0    |    0   |    0   |      0 |    1   |   0    |  0     |
+| Low tolerance for cognitive overload                         |  0     |   0    |    0   |    0   |      0 |    2   |   0    |  0     |
 
-Cohort 1
-- What is your service connected disability rating? (must be over 50% to qualify)
 
-Cohort 2
-- What is your service connected disability rating? (must be between 30-40% to qualify)
-- Not enrolled in VA health care
-
-Cohort 3
-- What is your service connected disability rating? (must be between 30-40% to qualify)
-- Enrolled in VA health care
-  
-Cohort 4
-- What is your service connected disability rating? (must be between 0-20% to qualify)
-- Not enrolled in VA health care
-
-Cohort 5
-- What is your service connected disability rating? (must be between 0-20% to qualify)
-- Enrolled in VA health care
+### Screener question cohort 1-7
+1. Are you currently enrolled in VA health care benefits?
+   	- Yes *(disqualify)*
+   	- No *(see if fit in cohort 1-7 criteria)*
 
 
-Cohort 6
-- Do you have a service connected disability? (must be NO to qualify, 0% rating)
-- Not enrolled in VA health care
-
-
-Cohort 6
-- Do you have a service connected disability? (must be NO to qualify, 0% rating)
-- Enrolled in VA health care
-
-
-Cohort 8
-- Current Active Duty / Service Member
-- Discharge date in less than 365 days
-
+### Screener question cohort 8
+1. Are you currently enrolled in VA health care benefits?
+   	- Yes *(Qualified for cohort 8)*
+   	- No *(disqualify)*
 
 
 ## Timeline
-November ## - ##, 2023
+November November 2023
+
+Kickoff call requested
+Preferred date/time: Novmeber 9, 2023 at 4pm ET / 1pm PT
+
+Kikcoff call participants:
+- Jessica Stump (jessica.stump@adhocteam.us)
+- Katelyn Caillouet (katelyn.caillouet@agile6.com)
+- Hieu Vo (hieu.vo@agile6.com)
+- Angela Agosto (angela.agosto@adhocteam.us)
+- Kristen McConnell (kristen.mcconnell@va.gov)
+
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: 
 * Date and time of pilot session: N/A
 
 ### Research sessions
-* Planned dates of research: November ##-## 2023
+* Planned dates of research: November 2023 (TBD, adjusting around holiday weekend, will discuss in kickoff call)
+* Study will be open for about 2 weeks, with the starting date (as soon as Perigean sends out emails).
 
 ### Length of sessions
-* Session length: Unmoderated, 30 minutes or less
-* Buffer time between sessions: N/A 
-* Maximum Sessions per day: N/A
+* Session length: Unmoderated, 30 minutes
 
-### Availability
-Not applicable - unmoderated
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator): Jessica Stump (jessica.stump@adhocteam.us)
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Moderator: Unmoderated tree test
+- Research guide writing and task development (usually but not always same as moderator): Jessica Stump (jessica.stump@adhocteam.us) and Katelyn Caillouet (katelyn.caillouet@agile6.com)
+- Participant recruiting & screening: Perigean
+- Participant(s) for pilot test: 
+
+
+## Approvals
+- Kristen McConnell (kristen.mcconnell@va.gov) on November 2, 2023
+

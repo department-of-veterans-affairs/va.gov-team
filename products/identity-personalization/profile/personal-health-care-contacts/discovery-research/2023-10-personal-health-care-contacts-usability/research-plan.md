@@ -97,14 +97,14 @@ We’d like to recruit 12 participants for a total of 8 completed sessions:
 
 We would like to request a kick-off meeting with Perigean to go over the recruitment criteria and screener questions.
 **Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes**
-- Wednesday, October 11: 10 - 12pm, 3 - 4:30pm EST 
-- Thursday, October 12:  10 - 12pm, 1 - 2pm, 3 - 4pm EST 
+- Monday, November 6: 10 - 12pm, 3 - 4:30pm EST 
+- Tuesday, November 7:  10 - 12pm, 1 - 3pm EST
 
 ### Recruitment criteria
 
 All participants:
 
-- Must be veterans
+- Must be veterans or caregivers 
 - Must have a computer or mobile phone and be willing to complete their sessions on this device
 - Must be willing to share a web browser window on the Zoom call
 - Must have a working microphone
@@ -163,18 +163,15 @@ Some participants:
 > Answering **only** "I do not know" or "I don't receive any benefits or services through VA" disqualifies participants.
 > Please recruit 8 who include "health care benefits" in their response, and 4 that select any combination of options that **does not** include "health care benefits".
 
-6. Do you have a disability rating?
- >_(Answering `yes` would qualify the participant to satisfy criteria for 4 participants who do not have health care, but have a disability rating. If no, disqualify)_
-
 ## Timeline
 
 ### Prepare
-- Pilot: Week of October 16th 
+- Pilot: Week of October 6  
 - Pilot participant email: TBD
 - Date and time of pilot session: TBD
 
 ### Research sessions
-Planned dates of research: October 19 - 26th 
+Planned dates of research: November 14 - 21st
 
 ### Length of sessions
 * Session length: 1 hour
@@ -184,19 +181,19 @@ Planned dates of research: October 19 - 26th
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| 10/19/2023 | 9am - 4pm; 5:30pm - 7pm |	
-| 10/20/2023 | 9am - 5pm |
-| 10/23/2023 | 9am - 5pm; 5:30pm - 7pm |
-| 10/24/2023 | 9am - 5pm | 
-| 10/25/2023 | 9am - 5pm; 5:30pm - 7pm |
-| 10/26/2023 | 9am - 5pm | 
+| 11/14/2023 | 9am - 4pm; 5:30pm - 7pm |	
+| 11/15/2023 | 9am - 5pm |
+| 11/16/2023 | 9am - 5pm; 5:30pm - 7pm |
+| 11/20/2023 | 9am - 5pm | 
+| 11/21/2023 | 9am - 5pm; 5:30pm - 7pm |
+| 11/22/2023 | 9am - 5pm | 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 - Moderator: Jonathan Nelson (jonathanj.nelson@adhocteam.us)
 - Research guide writing and task development: Jonathan Nelson
 - Participant recruiting & screening: Perigean
-- Project point of contact: Jonathan Nelson (jonathanj.nelson@adhocteam.us)
+- Project point of contact: Jonathan Nelson (jonathan.nelson@adhocteam.us)
 - Participants for pilot test: TBD
 - Note-takers: Shared amongst team members
 - Observers: 
@@ -210,7 +207,7 @@ all others to sign up via sign up list.
 
 ## Approvals
 - Reviewed and approved by Samara Strauss on 10/6/23
-- Reviewed and approved by Patrick Bateman on 
+- Reviewed and approved by Patrick Bateman on 10/10/23
 - Reviewed and approved by Shane Strassberg on 
 
 

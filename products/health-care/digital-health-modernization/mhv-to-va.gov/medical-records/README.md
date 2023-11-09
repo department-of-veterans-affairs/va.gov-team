@@ -19,7 +19,7 @@ Last Updated: Feb 13, 2023
 |Mikki Northuis|Content and IA | mikki.northuis@va.gov |
 |Martha Wilkes |OCTO Accessibility Strategist | martha.wilkes@va.gov |
 |Coulton Bunney |OCTO Design Lead| coulton.bunney@va.gov |
-|Alexia Wunder | ByLight Design Lead | alexia.wunder@va.gov |
+|Alexia Wunder | By Light Design Lead | alexia.wunder@va.gov |
 |Mike Moyer | ByLight Lead Developer | michael.moyer@va.gov |
 |Marci McGuire |Home Team Product Manager| marci.mcguire@adhocteam.us|
 |Jonathan Nelson|Home Team Designer |jonathan.nelson@adhocteam.us |

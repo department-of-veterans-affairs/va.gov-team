@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), PACT Act Wizard, Sitewide Public Websites**
 
-Date: 10/23/2023
+Date: 11/1/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
@@ -24,7 +24,7 @@ Date: 10/23/2023
 <br>
 
 ## Research Goals
-The PACT Act Wizard is an i**nteractive question-and-answer flow to help Veterans understand how the PACT Act may apply to them**. 
+The PACT Act Wizard is an **interactive question-and-answer flow to help Veterans understand how the PACT Act may apply to them**. 
 
 There are many potential touchpoints between the Veteran and this application throughout the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
 - Getting out (Engaging VA to access benefits and services)
@@ -57,7 +57,7 @@ Learnings will help refine questions and the presentation of results in the wiza
 
 1. What feedback do Veterans (and others) have on the **results**?
     
-    - There were some questions and interaction issues that arose on the R1 results pages, which are documented later in this report. 
+    - There were some questions and interaction issues that arose on the *You may be eligible* results pages, which are documented later in this report. 
      
 
 1. If the tool says that they're eligible, what do they say they would **do next**?
@@ -68,7 +68,7 @@ Learnings will help refine questions and the presentation of results in the wiza
 ## Methodology 
 We conducted **remote usability testing** over Zoom on October 2-6, 2023 to get feedback from research participants using a prototype that presented the questions and results pages in the PACT Act Wizard. The prototype was not a high-fidelity design prototype but instead an **online survey (in Survey Monkey) that presented questions** and branched appropriately to subsequent questions and relevant results pages. In this way, we **tested the *content* of the PACT Act Wizard**—the text and flow of the questions and the logical branching—but *not* the UI design. 
 
-Perigean recruited the participants. **We talked to 9 Veterans**, one of whom was also a Veteran's family member (spouse).
+Perigean recruited the participants. **We talked to 9 Veterans**, two of whom were also Veterans' family members.
 -  **Most (8 of 9) had NOT applied for VA benefits under the PACT Act**. The one who did had applied just the week before through the American Legion.
 - 4 served *1989 or earlier*, 2 served *1990 or later*, and 3 served *during both* periods of time.
 - **Most (8 of 9) used a computer** during the session; only 1 used a smartphone.
@@ -81,11 +81,11 @@ In the wizard, participants were first **asked when they served, and their answe
   - If served *1990 or later*, ask burn pit questions
   - If served *1989 or earlier*, ask Agent Orange, Radiation, and Camp Lejeune questions
   - If served *during both time periods*, ask ALL of the above questions
-- If answered "yes" to a burn pit question, skip the rest of the burn pit questions. Similarily, if answered "yes" to an Agent Orange question, skip the other Agent Orange questions. 
+- If answer "yes" to a burn pit question, skip the rest of the burn pit questions. Similarily, if answer "yes" to an Agent Orange question, skip the other Agent Orange questions. 
 - Based on responses to the above questions, show one of the following results pages:
   - *VA benefit eligibility* (can't tell if you're eligible)
   - *Camp Lejeune* (may be eligible but not under PACT Act)
-  - *You may be eligible* (may be eligible under PACT Act)
+  - *You may be eligible* (may be eligible under PACT Act), which links to the *Apply for VA benefits now* page  
 
 Any participants whose responses didn't yield the *You may be eligible* results page were shown it afterwards, even though it didn't apply to their situation (which was explained by the moderator).
 
@@ -104,21 +104,21 @@ Any participants whose responses didn't yield the *You may be eligible* results 
 
 1. Veterans (and others) will understand what "presumptive conditions" mean after reading the plain language description in the results flow. 
 
-    - UNKNOWN: All 9 participants in this study already understood what *presumptive conditions* were *before* they read the description in the wizard.
+    - UNKNOWN: All 9 participants in this study already understood what *presumptive conditions* were *before* they read the description in the wizard. These were all Veterans, and we don't know whether non-Veterans would already know what *presumptive conditions* are or be able to understand from the description in the results page.
 
 
 ## Key Findings
 
 1. All 9 participants had an overall positive experience using the PACT Act Wizard.
 1. Some of the wizard questions were confusing to some participants.
-1. Some participants had interaction challenges on the R1 results pages.
-1. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect*.
+1. Some participants had interaction challenges on the *You may be eligible* results pages.
+1. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which may be *incorrect*.
 1. Participants shared their feedback and questions about how and when to apply for PACT Act benefits.
 
 
 ## Details of Findings 
 
-Because this study was testing the *content* of the PACT Act Wizard and not the overall user experience, the user feedback varies more across participants than usually happens in a usability test. In this research on content, the number of participants who experienced or mentioned each point of feedback was often small.
+Because this study was focused on the *content* of the PACT Act Wizard and not the user interface, the feedback varied more across participants than we usually see in usability tests. In this research study, the number of participants who experienced or mentioned each point of feedback was often small, and sometimes that was because a question in the wizard was seen by only a few participants (due to the wizard branching logic).
 
 ### 1. All 9 participants had an overall positive experience using the PACT Act Wizard
 
@@ -135,38 +135,35 @@ Participants called out the following specific features as working well:
 
 > *"It follows a logical pattern--if/then. There's a clear button to take me to the next question...There's not a lot of choices. It flows smartly. And if I need to go back a page, that page is available. It doesn't take me someplace else" (p9).*
 
-Participants' positivity towards the PACT Act Wizard wasn't affected by the number of questions that they saw. The **prototype showed between 2 and 10 questions to each participant, based on their responses**. If someone answered "yes" to one of the burn pit or Agent Orange questions, they would skip the other questions in that section and might get a followup question. Below is a table showing the range and average number of questions seen by all participants and also separated by service year group. 
+Participants' positivity towards the PACT Act Wizard wasn't affected by the number of questions that they saw. The **prototype showed between 2 and 11 questions to each participant, based on their responses**. If someone answered "yes" to one of the burn pit or Agent Orange questions, they would skip the other questions in that section and might get a followup question. Below is a table showing the range and average number of questions seen by all participants and also separated by service year group. 
 
 Service year group | # of Participants | Range of # Q's seen | Avg # Q's seen | Maximum possible # of Q's 
 ------------------|---------------|----|----------- | -----
-All groups | 9 | 2-10 | 6 | 10
+All groups | 9 | 2-10 | 6 | 11
 1990 or later | 2 | 2 | 2 | 4
 1989 or earlier | 4 | 5-7 | 6 | 7
-Both time periods | 3 | 8-10 | 8.7 | 10
+Both time periods | 3 | 8-10 | 8.7 | 11
 
 Participants who served in both time periods saw the greatest number of questions, followed by people who served in 1989 or earlier, and then those who served in 1990 or later.
 
 ### 2. Some of the wizard questions were confusing to some participants
-#### Three participants had difficulty with the service years question
+#### Three of 9 participants (33%) had difficulty with the service years question
 ![q-service-years](./images/q-service-years.png)
 
 One participant **thought that none of the options applied** to him. When prompted to try again, he blamed it on his tendency *"to read through stuff quicker than I should."* He thought that rewording the radio button options to "1990 to present" and "Prior to 1989" might be clearer.
 
 > *"This is one of those frustrating times when there's not an appropriate answer for me" (p10).*
 
-A different participant was thinking about the campaigns she served in and not the years, and was **wondering whether toxic exposures for 1990 were similar to those that she might have experienced 12 years later** in the 2000's. She suggested instead having checkbox options with the different options and thought this might be easier for answering questions on behalf of family members, too. She suggested the following list of options: Operation Iraqi Freedom, Operation Enduring Freedom, Desert Storm, Vietnam, Gulf War, Cold War. (Seems like this list could get really long and require updating.)
+A different participant was thinking about the campaigns she served in and not the years, and was **wondering whether toxic exposures for 1990 were similar to those that she might have experienced 12 years later** in the 2000's. She suggested instead having checkbox options with different wars/campaigns and thought this might be easier for answering questions on behalf of family members, too. She suggested the following list: Operation Iraqi Freedom, Operation Enduring Freedom, Desert Storm, Vietnam, Gulf War, Cold War. (Seems like this list could get really long and require updating.)
 
 A third participant didn't select "both time periods" until his second time through the survey. He seemed to think that the word **"serve" meant instead "started" or "joined" because he asked whether it includes his training**. The reason is that he joined in Aug 1989 and did basic training and tech training, but he didn't actually start serving until 1990. 
 
 > *"You're really not in the military until after training" (p4).*
 
-#### RECOMMENDATIONS: 
-1. **Consider instead asking what year the Veteran joined the service and what year they left** (as in Perigean's recruitment survey from the VA). This might be more straightforward than the cognitive load of *A/B/both* radio button options, and also would eliminate questions about whether one's service is close enough to 1989 or 1990 and the implications. 
-     1. Alternatively, consider making the options into 2 checkboxes instead of 3 radio buttons.
-     1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
-1. Consider adding a "Not sure" option that would result in ALL questions being asked (like the current "Both time periods" option).
+#### RECOMMENDATION: 
+1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options. Some participants were confused about whether any of the 3 options applied, the similar wording of the options starting with "1990" and "1989", whether toxic exposures in 1990 were at all similar to those 12 years later, and whether "served" meant the year they started basic training or their first assignment. 
 
-#### Two participants didn't know what C-123 planes were in the Agent Orange question
+#### Two of 5 participants (40%) didn't know what C-123 planes were in the Agent Orange question
 ![q-C-123-plane-Agent-Orange](./images/q-C-123-plane-Agent-Orange.png)
 
 When they saw the above question, 2 participants said (unprompted) that they **didn't know what "C-123 airplanes" are**. Both of them answered "I'm not sure" to the question. 
@@ -174,9 +171,9 @@ When they saw the above question, 2 participants said (unprompted) that they **d
 Two other participants mentioned that they're familiar with C-123's but others may not be. One of them said, *"If it applied to you, you would know...service members know their equipment" (p9).* The other said something similar and also that an explanation might be helpful.
 
 #### RECOMMENDATION: 
-1. Consider adding a brief description or link to **information about C-123 planes** so that people won't stop and wonder what they are.
+2. Consider whether to provide information about C-123 planes since some in the research sessions said they didn't know what they were.
 
-#### One participant had questions about another Agent Orange question 
+#### One of 7 participants (14%) had questions about another Agent Orange question 
 ![q-DMZ-Agent-Orange](./images/q-DMZ-Agent-Orange.png)
 
 One participant asked **what the word "serve" means**--"in country" (on the ground), or does it also include on a ship nearby or in the airspace above? 
@@ -187,24 +184,22 @@ The same participant was also unsure about **what is considered to be "near" the
 
 This participant also asked **if there is a minimum duration for the time that you must have served there**, and if it must be continuous service for a period of time. 
 
-#### RECOMMENDATIONS:
-1. Consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
-1. Consider revising the content to clarify what is meant by the word "near" in the DMZ option.
+#### RECOMMENDATION:
+3. Consider how we might continue to learn about any confusion around the meanings of “serve” and “near the DMZ” (from 1 of 7 research participants) and if content adjustments for clarity are needed.
 
-#### One participant was unclear about what "neutral zone" means
+#### Two participants were unclear about locations in various questions and wanted to see a map
 ![q-neutral-zone-burn-pit](./images/q-neutral-zone-burn-pit.png)
 
-One participant asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations with the FOB (Forward Operating Base) names on it for the places she lived, transported supplies to, had a day pass to, etc. Without this information, she answered "not sure" to the question.
+The only participant who saw the question above (so 100% of those who saw it) asked whether "neutral zone" in the question refers to what was called "the green zone" when she served in Iraq. She said that she wanted to see a map that shows the locations with the FOB (Forward Operating Base) names on it for the places she lived, transported supplies to, had a day pass to, etc. Without this information, she answered "not sure" to the question.
 
 > *"I know I was in Iraq, but I don't know where in Iraq [they are referring to]...I know some of the FOBs where I was. I didn't know the cities I was close to...I really didn't pay attention to knowing exactly where I was, besides the fact that I was in Iraq...I know they said one time I was in the green zone" (p8).*
 
 Another participant also wanted to see a map that showed the geographical areas of the locations listed in the question.
 
-#### RECOMMENDATIONS: 
-1. In the questions, consider trying to more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone").
-1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
+#### RECOMMENDATION: 
+4. Consider how we might continue to learn about any confusion or ambiguity around locations in questions and if adjustments for clarity are needed.
 
-### 3. Some participants had interaction challenges on the R1 results pages 
+### 3. Some participants had interaction challenges on the *You may be eligible* results pages 
 
 #### Who saw which results pages
 
@@ -218,9 +213,9 @@ Results page | # of Participants
 
 Based on their responses to the questions, 6 of 9 participants were taken to the "**You may be eligible" results page**. This page in the prototype contained **burn pit content only and so wasn't applicable to all participants** (the real wizard will show content on this page that corresponds to the specific questions to which the user answered "yes"). The other 3 participants saw this same "You may be eligible" page after first looking at the results page more relevant to their responses to the questions. Two of the 9 participants seemed to have minimal interest in interacting with the "You may be eligible" results because it didn't apply to them (i.e., wrong war and toxic subtances), though all the other participants interacted fully with the pages--either because the content applied to them or because they were more willing to pretend that the specifics were different. (Note: It would have been helpful if we had created the second version of the "You may be eligible" results page with Vietnam/Agent Orange content as we originally planned because that would have made more sense to the Vietnam-era Veterans in this study.)
 
-#### User feedback on the R1-1 "You may be eligible" results page
+#### User feedback on the "You may be eligible" results page
 
-**All 9 participants understood *presumptive conditions***, but most said that they **knew this before the research session**. One commented that the explanation on the page was easy to understand, but a more useful assessment would be to show the description to people who weren't already familiar with presumptive conditions.
+**All 9 participants understood *presumptive conditions***, but most said that they **knew this before the research session**. One commented that the explanation on the page was easy to understand, but a more useful assessment would be to show the description to people who weren't already familiar with presumptive conditions. Note that these participants were all Veterans, and so we don't know whether non-Veterans would understand presumptive conditions.
 
 > *"I honestly think the VA or whoever's doing this for the VA has made it more clear...it's making it easier" (p2).*
 
@@ -228,11 +223,11 @@ One participant **expected to be asked when and where he served**, but that's no
 
 One participant **wanted to see what the specific presumptive conditions are**, which aren't on the page. More specifically, they wanted to know what conditions are covered for which location(s) in what timeframe.
 
-#### RECOMMENDATIONS:
-1. In or near the description of presumptive conditions on the R1-1 page, consider adding a note or link about where to find a list of specific conditions (on the R1-2 page). Nothing on the current R1-1 page indicates that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
+#### RECOMMENDATION:
+5. Consider how we might indicate where to find the list of presumptive conditions while reading the definition presumptive conditions on the *You may be eligible* results page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
 
-#### User feedback on the R1-2 "Apply for VA benefits now" results page
-**Three participants read the 3 jump links at the top of the page as CTA's** (calls to action) and puzzled over which one to select because there wasn't any explanatory text around them. The links said *File a  claim for disability compensation* and *Apply for VA health care*. One of the 3 people scrolled down the page and noticed that they matched the headers on the page, and so guessed that they were jump links to the headers. The other 2 people figured it out when they clicked on one of them and remained on the same page.
+#### User feedback on the "Apply for VA benefits now" results page
+**Three participants read the 2 jump links at the top of the page as CTA's** (calls to action) and puzzled over which one to select because there wasn't any explanatory text around them. The links said *File a  claim for disability compensation* and *Apply for VA health care*. One of the 3 people scrolled down the page and noticed that they matched the headers on the page, and so guessed that they were jump links to the headers. The other 2 people figured it out when they clicked on one of them and remained on the same page.
 
 One participant got **stuck after clicking on the "Learn more about health care eligibility (opens in a new tab)" link**. He couldn't figure out how to get back to the results page because he didn't realize the content was in a new browser tab and so the "Back" button didn't do anything. He wasn't very tech savvy. After looking through the page, this participant said that he could want to confirm with someone at the VA that he should apply for benefits.
 
@@ -253,11 +248,11 @@ I've heard horror stories, people trying to get claims and the time investment t
 
 
 #### RECOMMENDATIONS:
-1. Share with the Design System team (and CAIA?) the feedback of 3 participants reading the jump links at the top of the results page as CTA's.
-1. Share with Laura Flannery the user's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard of this feedback before, but it's a new approach that hasn't been tested before.]*
-1. Consider adding more content/link/header for those who already have VA disability because "if you haven't filed a claim" and "if we denied your claim" may not seem to apply.
+9. Consider where to share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
+1. Consider where to share this finding *(Laura Flannery? other accessibility specialists?*): One participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[Laura hasn't heard this feedback before, but this is a new approach that hasn't been tested before.]*
+1. *(#6 in the Recommendations section)* Consider how we might better support people who already get VA disability compensation and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
 
-### 4. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which were *incorrect*
+### 4. Some participants had beliefs about whether they were eligible for benefits under the PACT Act before trying the wizard--some of which may be *incorrect*
 
 Below is a list of reasons why **some participants said that they were NOT eligible** for benefits under the PACT Act:
 1. **Wasn't in one of the locations at the right time** (3 participants) for one of the reasons listed below.
@@ -269,35 +264,35 @@ Below is a list of reasons why **some participants said that they were NOT eligi
 
 > *"I know I'm not eligible so I don't want to waste anybody's time, including my own" (p10).*
 
-A different participant who's 100% disabled said that they **planned to file for PACT Act benefits in order to add more service-related disabilities to their record**. They knew that they couldn't get any more disability money, but they wanted the potential for extra DIC (Dependency and Indemnity Compensation) death benefits to their next of kin if they died of a service-related disability.
+A third participant who's 100% disabled said that they **planned to file for PACT Act benefits in order to add more service-related disabilities to their record**. They knew that they couldn't get any more disability money, but they wanted the potential for extra DIC (Dependency and Indemnity Compensation) death benefits to their next of kin if they died of a service-related disability.
 
-Another participant heard that you **could be eligible for PACT Act benefits by having served in a specific region--even if you don't have any medical conditions--because of presumed exposure.** One of the pilot participants also thought this might be the case because of the "presumption of exposure" content on the *You may be eligible* results page. This is actually incorrect because you must have a disability to get compensation. Just being in a specific location and getting exposed to toxic substances isn't enough.
+Another participant heard that you **could be eligible for PACT Act benefits by having served in a specific region--even if you don't have any medical conditions--because of presumed exposure.** One of the pilot participants also thought this might be the case because of the "presumption of exposure" content on the *You may be eligible* results page. 
 
 > *"Having simply gone into Vietnam, you don't have to have conditions. But a condition is different, of course, from just presence and exposure. You could have been sprayed with Agent Orange and yet not have conditions" (p10).*
 
 #### RECOMMENDATIONS: 
-1. Consider adding more information to the PACT Act page and/or the wizard to address participants' questions and concerns:  
+7. Consider if and how we might address participants' questions and concerns about eligibility for benefits under the PACT Act, including sharing our findings with communications, outreach, and burn pit registry colleagues:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
-     1. You must have a disability in order to get compensation, but not necessarily a presumptive condition. Just being in a specific location and getting exposed to toxic substances isn't enough. 
-     1. Burn pit registry is not connected to PACT Act eligibility, and so you should still apply for PACT Act benefits.
-1. VA could consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits. This would address one participant's assumption that not hearing from VA means they aren't eligible. Might other Veterans share this belief, too?
+     1. Whether you must have a disability in order to get compensation *vs.* were just in a specific location
+     1. Whether the burn pit registry notifies you about PACT Act eligibility
+13. *(#11 in the Recommendations section)* Consider if/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits. 
 
 ### 5. Participants shared their feedback and questions about how and when to apply for PACT Act benefits  
 The following is feedback that we received from individual participants about applying for PACT Act benefits. 
 
-One participant said that there **shouldn't be a deadline to apply**, which he heard about in a radio ad (Sept 30). He didn't understand that this deadline was for a special enrollment period for certain combat Veterans.
+One participant said that there **shouldn't be a deadline to apply**, which he heard about in a radio ad (Sept. 30). He didn't understand that this deadline was for a special enrollment period for certain combat Veterans.
 
 > *"I can understand that it's about trying to get people to apply, but you should be able to apply anytime" (p9).*
 
-One participant was concerned about applying for PACT Act benefits because of a **presumptive condition that she was diagnosed for but that she doesn't remember seeing in her current problem list**. 
+One participant was concerned about applying for PACT Act benefits because of a **presumptive condition that she was diagnosed with but that she doesn't remember seeing in her current problem list**. 
 
 > *"I have been told by one of my primary care doctors...diagnosed with fibromyalgia, but I don't see it in my problem list...So it might be somewhere in my medical records that he said I had it...If they didn't actually comb through the records and look for it...you can't just search by typing a word. I may get denied saying that there's no medical record that this is something you have" (p8).*
 
-A participant said that they would **encourage others to apply even if your condition isn't on the list** because it might be added in the future. The VA does look at trends of medical conditions reported by Veterans and periodically revises the rules and/or presumptive conditions, as it did with the PACT Act.
+A participant said that they would **encourage others to apply even if your condition isn't on the list** because it might be added in the future. 
 
 > *"We look at this right now and we compare it to our uncles who were in Vietnam who did not get the benefits until after they died. 20-30 years later, now the families did [get benefits]" (p1).*
 
-One participant **wondered if the PACT Act benefits are any different from regular VA disability compensation**. The answer is "no"; the PACT Act just expands eligibility for existing benefits.
+One participant **wondered if the PACT Act benefits are any different from regular VA disability compensation**. 
 
 One participant was **concerned about filing a Supplemental Claim because they might lose their current disability rating and compensation** because the VA looks at everything again. One pilot participant also had this same concern.
 
@@ -314,12 +309,14 @@ One participant **would have tried to convince his dad to apply** for benefits u
 > *"If Dad were still alive today, I would have tried to convince him to have gone through this...We all know that when those guys came back [from Vietnam], they were treated like dirt...and he didn't want anything to do with the military...The VA today and the way the PACT Act is worded, I think if he was alive today, he would have been convinced after a lot of talking to apply...Thank goodness that today we are recognizing what those guys went through" (p4).*
 
 #### RECOMMENDATIONS:
-1. Danielle said she plans to share participant feedback about the Sept 30 deadline misunderstanding to OPIA for their continued outreach work.
-1. Consider adding more information to the PACT Act page and/or the wizard to address participants' questions and concerns:
-     1. PACT Act expands eligibility for existing disability compensation benefits.   
-     1. This is the current list of presumptive conditions and others might be added in the future. (Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?)
-     1. The significance of having your disability rating for at least 10 years before applying for additional disability compensation (IF that's accurate information and reasonable advice).
-     1. Any guidance on how to handle CRSC and PACT benefits together.
+13. Consider if/how we might communicate about future deadlines, given that one participant thought they wouldn't be able to apply for benefits at all after the Sept. 30 deadline. 
+1. *(#8 in the Recommendations section)* Consider how we might address participants' questions and concerns about applying for benefits under the PACT Act:
+     1. Are PACT Act benefits different from regular disability compensation?   
+     1. Should I include conditions that aren't presumptive? 
+     1. Might the list of presumptive conditions change in the future? 
+     1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying?
+     1. How to handle CRSC and PACT benefits together?
+1. *(#12 in the Recommendations section)* Consider if/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
  
 
 ## Additional Insights
@@ -343,7 +340,7 @@ The other 2 participants went to the VA.gov home page. One typed into the search
 
 ### D. Participants shared feedback about the VA disability claims process in general
 One participant (and also one pilot participant) described negative experiences in the past with **VA not believing that medical conditions are linked to their service**. 
-
+ 
 > *"Initially, the first 2 exams I had back in 2011 and 2012. They were telling me no, you're fine, you don't fall under this. As the years went by...I knew I did. But I had to go back multiple times. I think that was the more frustrating part...They were saying no no no, and then I had to go back just for them to say okay, yeah we were wrong: You do fall under that...It was over a decade of symptoms and finally they said, oops, yeah, we found [a] correlation" (p2).*
 
 This same participant advised against telling the doctor that you're "fine" when a doctor asks how you're doing.
@@ -371,42 +368,42 @@ A different participant said that it's frustrating that he **doesn't know  wheth
 
 ## Research methodology learnings
 1. Having Survey Monkey handle the complex branching in the prototype to questions and results pages was super helpful and enabled the moderator to focus on observing and conversing with the participant (*vs.* figuring out on-the-fly which question or results page to show next).
-1. We should have built a second version of the *You may be eligible* results page in order to show presumptive conditions for Vietnam/Agent Orange because that would have been easier for the Vietnam-era participants to understand.
-1. The single date in the R1-1 results page *(on or after August 2, 1990)* wasn't mentioned by most participants. Perhaps it would have been more natural to have had a conversation around dates if the sample results page had a date range instead of a single date as some of the content does *(e.g., between January 9, 1962, and May 7, 1975).*
-1. Asking participants to rate their confidence at knowing what to do next was problematic when the results page they were looking at was not relevant to their specific situation.
+1. We should have built a second version of the *You may be eligible* results page in order to show presumptive conditions for Vietnam/Agent Orange because that would have been easier for the Vietnam-era participants to relate to.
+1. The single date in the *You may be eligible* results page *(on or after August 2, 1990)* wasn't mentioned by most participants. Perhaps it would have been more natural to have had a conversation around dates if the sample results page had a date range instead of a single date as some of the content does *(e.g., between January 9, 1962, and May 7, 1975).*
+1. Asking participants to rate their confidence about knowing what to do next was problematic when the results page they were looking at was not relevant to their specific situation.
+1. We could have asked the two participants who were family members of a Veteran to go through the PACT Act Wizard on behalf of their Veteran family member to see if they knew enough about their family members' military service to answer the questions. 
 
 ## All Recommendations
 Preliminary ideas for recommendations are listed below as input to discussion with the team and stakeholders.
 
 ### For content in the PACT Act wizard
-1. Consider instead asking what year the Veteran joined the service and what year they left (as in Perigean's recruitment survey from the VA). This might be more straightforward than the cognitive load of *A/B/both* radio button options, and also would eliminate questions about whether one's service is close enough to 1989 or 1990 and the implications. 
-     1. Alternatively, consider making the options into 2 checkboxes instead of 3 radio buttons.
-     1. Alternatively, if we want to stick with radio buttons, consider rewording the options so that the first two don't both start with numbers that look similar (i.e., 1990, 1989). For example, "1990 to present" and "Prior to 1989".
-     1. Consider adding a "Not sure" option that would result in ALL questions being asked (like the current "Both time periods" option).
-1. Consider adding a brief description or link to information about C-123 planes so that people won't stop and wonder what they are.
-1. Consider adding content about whether on a ship nearby or in the airspace above counts as having served in the location.
-1. Consider revising the content to clarify what is meant by the word "near" in the DMZ option.
-1. In the questions, consider trying to more closely mirror the language that Veterans heard during their service (e.g., specific FOB names, "green zone").
-1. Consider showing a map for questions that may have confusing or ambiguous locations, such as "neutral zone".
-1. In or near the description of presumptive conditions on the R1-1 page, consider adding a note or link about where to find a list of specific conditions (on the R1-2 page). Nothing on the current R1-1 page indicates that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
-1. Consider adding more content/link/header for those who already have VA disability because "if you haven't filed a claim" and "if we denied your claim" may not seem to apply.
-1. Consider adding more information to the PACT Act page and/or the wizard to address participants' questions and concerns:  
+1. Consider how we might ask for the Veteran’s service years with decreased cognitive load around *X/Y/both* options. Some participants were confused about whether any of the 3 options applied, the similar wording of the options starting with "1990" and "1989", whether toxic exposures in 1990 were at all similar to those 12 years later, and whether "served" meant the year they started basic training or their first assignment. 
+1. Consider whether to provide information about C-123 planes since some in the research sessions said they didn't know what they were.
+1. Consider how we might continue to learn about any confusion around the meanings of “serve” and “near the DMZ” (from 1 of 7 research participants) and if content adjustments for clarity are needed.
+1. Consider how we might continue to learn about any confusion or ambiguity around locations in questions and if adjustments for clarity are needed.
+1. Consider how we might indicate where to find the list of presumptive conditions while reading the definition presumptive conditions on the *You may be eligible* results page. Nothing on that page suggests that you will be able to see presumptive conditions after you click the "Learn what to do next" link.
+1. Consider how we might better support people who already get VA disability compensation and don't see the "If you haven't filed a claim for your condition" and "If we denied your claim for this condition in the past" links as relevant.
+1. Consider if and how we might address participants' questions and concerns about eligibility for benefits under the PACT Act, including sharing our findings with communications, outreach, and burn pit registry colleagues:  
      1. Whether/how PACT Act benefits are relevant if you're already 100% disabled *[Danielle Thierry is working with OPIA to add this to the PACT page]*
-     1. You must have a disability in order to get compensation, but not necessarily a presumptive condition. Just being in a specific location and getting exposed to toxic substances isn't enough. 
-     1. Burn pit registry is not connected to PACT Act eligibility, and so you should still apply for PACT Act benefits.
-1. Consider adding more information to the PACT Act page and/or the wizard to address participants' questions and concerns:
-     1. PACT Act expands eligibility for existing disability compensation benefits.   
-     1. This is the current list of presumptive conditions and others might be added in the future. (Does the VA ever reach out to Veterans who have reported service-connected conditions who may be affected by changes in eligibility or presumptive conditions?)
-     1. The significance of having your disability rating for at least 10 years before applying for additional disability compensation (IF that's accurate information and reasonable advice).
-     1. Any guidance on how to handle CRSC and PACT benefits together.
+     1. Whether you must have a disability in order to get compensation *vs.* were just in a specific location
+     1. Whether the burn pit registry notifies you about PACT Act eligibility
+1. Consider how we might address participants' questions and concerns about applying for benefits under the PACT Act:
+     1. Are PACT Act benefits different from regular disability compensation?   
+     1. Should I include conditions that aren't presumptive? 
+     1. Might the list of presumptive conditions change in the future? 
+     1. Could I lose my current disability rating and compensation if I file a Supplemental Claim? Should I wait before applying?
+     1. How to handle CRSC and PACT benefits together?
 
 ### For the wizard design and functionality
-1. Share with the Design System team (and CAIA?) the feedback of 3 participants reading the jump links at the top of the results page as CTA's.
-1. Share with Laura Flannery the user's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[DONE--She hasn't heard of this feedback before, but it's a new approach that hasn't been tested before.]*
+9. Consider where to share this finding *(Design System team?)*: Three participants read the jump links at the top of the results page as CTA's.
+1. Consider where to share this finding *(Laura Flannery? other accessibility specialists?*): One participant's difficulty in navigating back after clicking on a link and landing in a new browser tab. *[Laura hasn't heard this feedback before, but this is a new approach that hasn't been tested before.]*
+
 
 ### For VA
-1. Danielle said she plans to share participant feedback about the Sept 30 PACT Act deadline misunderstanding to OPIA for their continued outreach work.
-1. VA could consider reaching out to people who are on the burn pit registry to encourage them to apply for PACT Act benefits. This would address one participant's assumption that not hearing from VA means they aren't eligible. Might other Veterans share this belief, too?
+11. Consider if/how to discuss with others in VA about whether they plan to communicate with everyone on the burn pit registry to encourage them to apply for PACT Act benefits. This would address a participant's assumption that not hearing from VA after signing up for the registry means they aren't eligible for PACT Act benefits.
+1. Consider if/how to discuss with others in VA to find out whether the VA ever reaches out to Veterans who have reported service-connected conditions who might be affected by changes in eligibility or presumptive conditions.
+1. Consider if/how we might communicate about future deadlines, given that one participant thought they wouldn't be able to apply for benefits at all after the Sept. 30 deadline. 
+
 
 ## Next Steps
 
@@ -415,8 +412,8 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 ## Further research needed
 
 1. When **additional questions about medical conditions** get added to this wizard, it would be helpful to usability test that content before launch.
-1. Consider testing with **people who don't know what presumptive conditions are** in order to evaluate the explanation provided in the wizard.
-1. We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so that we can find out if they know enough about their family member's service to be able to answer the questions in this wizard.
+1. Consider testing with **people who don't know what presumptive conditions are**, perhaps family members of Veterans who aren't Veterans, in order to evaluate the explanation provided in the wizard.
+1. We would like to get feedback from people who are **family members of Veterans but not Veterans themselves** so we can find out if they know enough about their family member's service to be able to answer the questions in this wizard. In this research, the two Veteran family members who were also Veterans interacted with the PACT Act Wizard for their own military service, not for their Veteran family member. If we're unable to recruit enough non-Veterans, asking Veterans who have a Veteran family member to try the PACT Act Wizard for their family member's service would be helpful. 
 1. We would like to get feedback from more **Veterans using smartphones**. In this study, we had several such people recruited but only one showed up for the sessions. 
 1. We would like to get feedback from **Veterans who use screen readers**, which we were unable to do this time because our prototype wasn't accessible.
 
@@ -468,17 +465,22 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
   
 </details>
 
-
 <details>
-  <summary>Static results pages (Click to show screenshots)</summary>
+  <summary>Static "VA benefit eligibility" results page (Click to show screenshot)</summary>
 
   ![results--benefit-eligibility](./images/results--benefit-eligibility.png)
+      
+</details>
+
+<details>
+  <summary>Static "Camp Lejeune" results page (Click to show screenshot)</summary>
+
   ![results--lejeune](./images/results--lejeune.png)
      
 </details>
 
 <details>
-  <summary>Interactive R1-1 results page (Click to show screenshots)</summary>
+  <summary>Interactive "You may be eligible" results page (Click to show screenshot)</summary>
 
   ![Results-R1-1-top](./images/Results-R1-1-top.png)
   ![Results-R1-1-bottom](./images/Results-R1-1-bottom.png)
@@ -486,7 +488,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 </details>
 
 <details>
-  <summary>Interactive R1-2 results page (Click to show screenshots)</summary>
+  <summary>Interactive "Apply for VA benefits now" results page (Click to show screenshot)</summary>
 
   ![Results-R1-2-top](./images/Results-R1-2-top.png)
   ![Results-R1-2-mid](./images/Results-R1-2-mid.png)
@@ -495,7 +497,7 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 </details>
 
 <details>
-  <summary>R1-2 results: Gulf War conditions open (Click to show screenshots)</summary>
+  <summary>"Apply for VA benefits now" results with Gulf War conditions open (Click to show screenshot)</summary>
 
   ![Results-R1-2-GulfWar-accordion-open](./images/Results-R1-2-GulfWar-accordion-open.png)
      

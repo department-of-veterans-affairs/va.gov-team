@@ -15,18 +15,24 @@ If you decide to go the `asdf` route, the below should help:
 #### Prerequisites
 **Note:** I would highly recommend installing Homebrew and the Xode Command Line Tools before proceeding
 
-[asdf installatino docs](https://asdf-vm.com/guide/getting-started.html#community-supported-download-methods)
+[asdf installation docs](https://asdf-vm.com/guide/getting-started.html#community-supported-download-methods)
 
 If you have done the above, you can run `brew install asdf` to install `asdf`.
+```sh
+brew install asdf
+
+echo -e "\n. \"$(brew --prefix asdf)/libexec/asdf.sh\"" >> ~/.zshrc
+echo -e "\n. \"$(brew --prefix asdf)/etc/bash_completion.d/asdf.bash\"" >> ~/.zshrc
+```
 
 ### asdf Plugins
 `asdf` relies on a plugin system, so adding compatibility for new languages is as simple as adding a new plugin. We will need the `nodejs` and `ruby` plugins
 ```sh
 # nodejs
-asdf add nodejs
+asdf plugin add nodejs
 
 # ruby
-asdf add ruby
+asdf plugin add ruby
 ```
 
 ### Installing the required `nodejs` version

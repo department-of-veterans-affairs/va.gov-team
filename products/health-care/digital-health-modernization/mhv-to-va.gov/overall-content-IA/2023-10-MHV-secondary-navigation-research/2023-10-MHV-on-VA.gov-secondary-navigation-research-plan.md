@@ -2,7 +2,7 @@
 
 ## Background
 
-As we move My HealtheVet (MHV) to VA.gov, we discover that there are problems with the current VA.gov secondary navigation system. It is not only inaccessible and unintuitive but also doesn't support complex navigations within all the tools of the MHV on VA.gov. This study aims to give us more context to those problems from Veterans' perspectives and understand what aspects of primary and secondary navigations are confusing to Veterans by looking at how they use tools within MHV on VA.gov when completing health management tasks. 
+As we move My HealtheVet (MHV) to VA.gov, we want to know if the current VA.gov secondary navigation and breadcrumbs work on MHV on VA.gov and how we could improve navigational strategies if they don't work. This study aims to give us more context as to how Veterans would use the current secondary navigation and breadcrumbs within the MHV on VA.gov when completing health management tasks. 
 
 ### OCTO Objectives
 This research supports the following OCTO objectives: 
@@ -24,19 +24,21 @@ The goal of this study is to help us better understand how Veterans expect to be
 
 ### Outcome
 
-This research will inform us of users' pain points when using the current and the new secondary navigation, which give us ideas on how to improve and iterate on the new design so the secondary navigation can be ready when all the tools are available on MHV on VA.gov in Phase 2. 
+This research will inform us how Veterans navigate health tools on MHV on VA.gov to complete health tasks, which give us a better sense of what works and what doesn't with the current secondary navigational strategies (section navigation and breadcrumbs). For what doesn't work, we are able to use the feedback to help us make improvements to the secondary navigational strategies. 
 
 ### Research questions
 
-* How does the current secondary navigational pattern used across VA.gov align with users’ expectations? 
-* In what situations might a user want to navigate back to the MHV on the VA.gov landing page? 
-* In what situations might a user want to jump directly from one tool to another? 
+* How does the current VA.gov secondary navigational pattern align with Veterans’ expectations for MHV on VA.gov? 
+* In what situations might a Veteran want to navigate back to the MHV on the VA.gov landing page, if they want to go back to the landing page? 
+* In what situations might a Veteran want to jump directly from one tool to another? 
 
 ### Hypotheses 
-* Users want to be able to jump from any part of MHV on VA.gov back to the MHV on the VA.gov landing page. They will do this by clicking on the VA logo at the top left of the website. 
-* Users expect to be able to directly navigate from a child (or sub-tool, e.g. Sent of Secure messages) of a tool to a child of another tool.
-* Mobile users will default to using the "menu" button in the primary navigation bar when trying to navigate from one part of MHV on VA.gov to another.
-* Mobile users will rarely use breadcrumbs to navigate. 
+
+* Users want to be able to navigate every part of MHV on VA.gov easily regardless of where they are.
+* Mobile users will likely struggle with current secondary navigation because "in this section" is not noticeable.
+* Users might have trouble differentiating the primary menu from the secondary menu.
+* Users might want to click on "VA.gov" home when they want to get back to the MHV landing page because the MHV landing page link is hidden.
+* Users might only rely on secondary (section) navigation and overlook breadcrumbs and direct links on the pages that take them to other tools. 
 
 ## Method
 
@@ -48,9 +50,9 @@ Data collection will be remote and conducted using Zoom.
 
 ### Research materials
 
-[Conversation guide](add link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research/2023-10-MHV-on-VA.gov-secondary-navigation-conversation-guide.md)
 
-[Prototype](add link here)
+[Prototype](https://sketch.com/s/02430c9f-e4cb-4945-b7bb-6ec2f81a0bd7/a/g1ELlLr/play)
 
 
 ## Recruitment
@@ -60,7 +62,7 @@ We will partner with Perigean to recruit Veterans.
 
 We request a kickoff meeting with Perigean.
 		
-**Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes**
+**Kickoff meeting times with Perigean: 12-1 pm on 11/6, 12-1 pm on 11/7, 12-1 pm on 11/8, 9 am - 11 am on 11/9. Anticipate KO meeting lasting 30 minutes**
 
 We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network. 
 
@@ -71,11 +73,11 @@ Primary criteria (must-haves)
 - Must have an active MHV account that they have accessed at least once in the past 12 months
 
 **Desired sample**
-- 15 total
-- 7 frequent users of MHV
-- 8 infrequent users of MHV
-- All mobile users
-- Age and education level range throughout, but ideally include at least 10 participants older than 55 and 10 participants with some college or less as their terminal degree
+- 8 total
+- 4 frequent users of MHV
+- 4 infrequent users of MHV
+- 8 mobile users
+- Age and education level range throughout, but ideally include at least 5 participants older than 55 and 5 participants with some college or less as their terminal degree.
 
 ### Screener questions
 
@@ -95,41 +97,45 @@ Primary criteria (must-haves)
 * 2-3 times a month *(Qualify)*
 * more than 3 times a month *(Qualify)*
 
-
 ## Timeline
 - Submit for approval 10/30
 - Kick-off 11/1
-- Interview week 11/1 - 11/10
-- Synthesize and analysis week 11/13 - 11/17 (If, for any reason, it's delayed, the latest to get this study done is the last week of November.)
+- Interview week 11/20 - 11/24
+- Synthesize and analysis week 11/27 - 12/1
 
 ### Prepare
-- Pilot #1: 
+- Pilot #1: Haven't rescheduled yet, but it'll probably be during the week of 11/6. 
 
 ### Research sessions
-* Planned dates of research: 
+* Planned dates of research: 11/20/2023, 11/21/2023, 11/22/2023, 11/24/2023
+* Due to Thanksgiving week, if you can't fill all interviews on those dates, we will take interviews on 11/27/2023. 
 
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 30 minutes
 
 ### Availability
-Please schedule only 10 interviews per week. 
-
+Please schedule no more than 3 interviews per day. 
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
-
+11/20/2023        | 10:30AM - 12:30AM, 3:00PM - 6:00PM
+11/21/2023        | 10:30AM - 5:00PM
+11/22/2023        | 10:30AM - 5:00PM
+11/24/2023        | 10:30AM - 5:00PM
+11/27/2023        | 10:30AM - 5:00PM
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 
-- Alternating Moderators: Jenny Wang (Yizhen.Wang@va.gov) 
-- Research guide writing and task development: 
+- Alternating Moderators: Jenny Wang (Yizhen.Wang@va.gov), Lois Lewis
+- Research guide writing and task development: Jenny Wang (Yizhen.Wang@va.gov) 
 - Participant recruiting & screening: Perigean
-- Project point of contact: 
+- Project point of contact: Jenny Wang (Yizhen.Wang@va.gov), Lois Lewis (no VA email yet), Coulton Bunney (coulton.bunney@va.gov)
 - Participants for the pilot test: 
-- Note-takers: 
+- Note-takers: Jenny Wang (Yizhen.Wang@va.gov), Lois Lewis
 - Observers: to sign up via the sign-up list. 
 
 ## Approvals
-- Reviewed and approved by  on 2023
+- Reviewed and approved by Lois Lewis on
+- 

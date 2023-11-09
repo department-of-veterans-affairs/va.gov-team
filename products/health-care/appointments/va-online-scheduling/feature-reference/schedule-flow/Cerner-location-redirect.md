@@ -40,7 +40,7 @@ Veterans are asked to choose if they would like to receive care at a Cerner faci
     - If the user is not eligible for either path, they're shown a modal explaining why
 
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=179-42053&t=Rk531E1jSdxJnizH-4) 
 

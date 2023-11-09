@@ -28,7 +28,7 @@ Veterans are asked the reason for their appointment.
     - For community care requests or the direct path, they're sent to the contact info page
     - For VA requests, they're sent to the visit type page
 
-## User interface design
+## Specifications
 
 [User Flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2899-14264&t=rlUNz5oWE30aEgSO-4)
 

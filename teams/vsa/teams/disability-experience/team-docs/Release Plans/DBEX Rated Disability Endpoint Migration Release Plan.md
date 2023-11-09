@@ -52,6 +52,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - This migration will make use of two flags: `disability_compensation_lighthouse_rated_disabilities_provider_background` and `disability_compensation_lighthouse_rated_disabilities_provider_foreground`
     - Representing the RD call in the submit flow and form flow, respectively
 - LH v2 does not have a controller mapped on the vets-api side, will have to monitor the RD job instead
+- 11/7 - LH will be making a change to the service their API calls, thus we will have to redo some tests
 
 < br >
 
@@ -195,11 +196,6 @@ Percentage of Users (and roughly how many users do you expect this to be): 1%
             Ticket(s) created to address: N/A
             - [x] Has the issue been resolved?
               - Fixed on LH side
-      -     Rollback reason: Discrepancy between EVSS and LH decision text display
-            Date: 10/16/23
-            Severity/Impact: Low - known issue, non-blocking
-            Ticket(s) created to address: N/A
-            - [] Has the issue been resolved?
 
 ### Stage B: Moderate ramp up
 #### Planning  
@@ -216,6 +212,12 @@ Percentage of Users (and roughly how many users do you expect this to be): 5%
 - New 499 Errors: 
 - Highest Latency:
 - Rollbacks:
+  -     Rollback reason: Discrepancy between EVSS and LH decision text display
+            Date: 10/16/23
+            Severity/Impact: Low - known issue, non-blocking
+            Ticket(s) created to address: N/A
+            - [] Has the issue been resolved?
+    - 11/7 - LH will be making a change to the service their API calls, thus we will have to redo some tests
 
 ### Stage C: Another moderate ramp up
 #### Planning

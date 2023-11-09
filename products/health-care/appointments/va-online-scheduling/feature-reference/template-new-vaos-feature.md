@@ -15,7 +15,7 @@
 - [Functional requirement]
 - [Functional requirement]
 
-## User interface design
+## Specifications
 
 [User flow](Add link) 
 

@@ -7,16 +7,22 @@
 **Path**: /ping
 
 **Parameters**:
-None
+* ?organizationName=[env]
+    * Environments:  
+        * dvagov-iris-dev
+        * dvagov-iris-int
+        * dvagov-veft-qa
+        * dvagov-veft-preprod
+        * dvagov-veft
 
 **Headers**:
 
 **optional:** these headers will only be included for users that are logged in
 
-| Name | Type | Description |
-|---|---|---|
-|Authorization|JWT?|Token for access to the CRM API|
-|secid|string|User security identifier|
+| Name | Type | Description | Required |
+|---|---|---|---|
+|Authorization|2 parts|Tokens for access to the CRM API| Yes |
+|ICN|string|User security identifier| Only for Authenticated Users |
 
 ## Response
 
@@ -32,7 +38,7 @@ None
 { 
     "status": { 
         "code": 200, 
-        "message": "pong"
+        "data": "OK"
     }
 }
 ```
@@ -45,14 +51,6 @@ None
 
 The `/ping` endpoint takes no parameters, and returns the static message, "pong". This is the simplest endpoint for the Dymanics APIs. It will allow us to make sure that our AWS services can call out to the Azure services and get a response across the cloud boundaries.
 
-If there's a concept of a version number for the Dynamics deploys, a good stretch goal would be to return that version and the hosting environment as the data value. For example:
+* [Wide Open Ping](dev.integration.d365.va.gov/veis/vagov.lob.ava/api/ping)
+* [Secured Ping](dev.integration.d365.va.gov/veis/vagov.lob.ava.avtest/api/ping)
 
-```json
-{ 
-    "status": { 
-        "code": 200, 
-        "message": "pong", 
-        "data": { "version": "v1.2.3", "environment": "STAGING" }
-    }
-}
-```

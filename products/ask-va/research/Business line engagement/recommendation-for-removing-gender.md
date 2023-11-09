@@ -1,10 +1,8 @@
 # Recommendation for removing `Gender` collection from Ask VA
 
-*Ask VA Integration team*
+Last updated by @beckyphung: October 30, 2023
 
-Last updated: October 18, 2023
-
-We recommend not collecting `Gender` once we migrate Ask VA to VA.gov.
+We recommend not collecting `Gender` when we migrate Ask VA to VA.gov.
 
 ## VA.gov Design System
 The [VA.gov Design System](https://design.va.gov/patterns/ask-users-for/gender) provides clear guidance to only ask for gender identity if it benefits the user experience: 

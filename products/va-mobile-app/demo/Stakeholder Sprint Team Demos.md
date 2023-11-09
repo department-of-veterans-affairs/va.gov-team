@@ -4,11 +4,30 @@ Meeting Owner: Jennifer Brown
 Timing: Every second Wednesday 2:35 - 3:15pm 
 
 ---  
-**Demo Sprint 81 10/11/23** 
+**Demo Sprint 83 11/8/23** 
+Agenda
+- Demo Topic(s)
+  -  Personalized Home Screen
+
+- Slides - [Sprint 83 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/13301567/Sprint.83.-.VA.Mobile.App.Demo.Slides.pdf)
+
+- Video - 
+
+---  
+**Demo Sprint 82 10/25/23** 
 Agenda
 - Demo Topic(s)
   -  Travel Claims in Appointments
 
+- Slides - [[[Sprint 82 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/13169450/Sprint.82.-.VA.Mobile.App.Demo.Slides.pdf)
+
+- Video - [https://github.com/department-of-veterans-affairs/va.gov-team/assets/93945676/916b0402-5932-4237-8a78-1933c49e076b]
+
+---  
+**Demo Sprint 81 10/11/23** 
+Agenda
+- Demo Topic(s)
+  -  Travel Claims in Appointments
 
 - Slides - [[Sprint 81 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12882981/Sprint.81.-.VA.Mobile.App.Demo.Slides.pdf)
 

@@ -1,5 +1,58 @@
 # Design Weekly Sync Agenda
 
+## 2023-11-06
+
+Attendees: Angela, Jessica, Hieu, Katelyn, Kristen, Alex, Heather, Emily
+
+- Team discussed the submission dependent error (applies to all Mutilple Response components and how to approach it.
+- Short-term approach for the Contradictory alerts and contents:
+    - Staging is using the v1 Stepper Component that contains the “We’ll save your application on every change. Your application ID number is ####.” message.” This is part of the forms library, it cannot be changed.
+    - The Sketch mockup uses v3, which does have the message. Once the form library is updated, dev can update the Stepper to v3.
+    - The solution: remove the “Finish this application later” function for the Multiple Response section and add a warning stating they must complete the required field in this section.
+
+- We discussed how discovery works needs to be done on the multiple components.
+    - Why doesn’t pre-fill work on this component? 
+    - If “query’ requires each page to have a unique URL, can we have multiple URLs? How does this work with multiple dependents? 
+    - How are other teams approaching this? Tabs you can edit? Task-list, sub-task? 
+- Can we incorporate a generative study? 
+    - UAT, upcoming Nov 13-22: leave as is.
+    - Usability Study in the middle of January: maybe
+- We discuss how this work also revolves around EZR V2, Review & Confirm flow. And it would be good to jump-start it.
+
+## 2023-10-30
+
+Attendees: Jessica, Hieu, Katelyn, Kristen, Alex, Heather, Emily
+
+
+- EZR MVP Research
+    - Went over conversation guide:
+    - How should the participant get to the static page? The team thinks it is a better scenario to have the Veteran update their Insurance.
+    - UX should ask the developer for update, and staging links since we want to submit research ASAP.
+
+- Midpoint Review
+    - UX should have Assistive Tech user for Usability Research (in December)
+    - A MUST-change (launch blocking) for the Review Page, wording on the Agreement. Team must confirm with HEC SME.
+    - Design MUST: Reviewers wants the Additional Info to be shorter, more in line with the Guidelines. While lengthy, the content in the household is needed. The team feels the need to push back.
+
+- Registration Tree-Test:
+    - Waiting for HEC to respond.
+    - Mural Presentation, we had (2) questions that needed answer.
+
+- Team wants to hold Registration since EZR takes priority.
+
+
+## 2023-10-23
+
+Attendees: Jessica, Hieu, Kristen, Alex
+
+
+- Went over registration presentation deck
+- Talked about reframing the deck outline to be focused on the scenarios and remove the other slides
+- Use examples and Sketch wireframes within the scenario examples instead of at the end of the presentation
+- Talked about cohorts for registration tree test; focusing on most being unenrolled but a cohort or two of enrolled with disability ratings. 
+
+
+
 ## 2023-10-16
 
 Attendees: Jessica, Katelyn, Hieu, Kristen

@@ -1,7 +1,7 @@
 # Content guidance on FAQs (Working document)
 
 ## Problem and goals
-The Resources & Support section of VA.gov relies heavily on Q&As and multiple FAQ pages, especially for reusable content. At this time the single Q&A is the only available reusable content type, currently reusable within Campaign Landing Pages, Benefit Detail Pages, FAQs, & Resources & Support. But FAQs can create UX issues as well as issues with duplicative content (i.e. content framed as a question in one location and a section of content in another location). We want to document guidance for VA.gov content contributors so they can determine when an FAQ may be appropriate (and when another solution may be the answer) and how to structure Q&As and multiple FAQ pages that provide value when appropriate.
+The Resources & Support section of VA.gov relies heavily on Q&As and multiple FAQ pages, especially for reusable content. At this time the Reusable Q&A is the only available reusable content type, currently reusable within Campaign Landing Pages, Benefit Detail Pages, FAQs, & Resources & Support. But FAQs can create UX issues as well as issues with duplicative content (i.e. content framed as a question in one location and a section of content in another location). We want to document guidance for VA.gov content contributors so they can determine when an FAQ may be appropriate (and when another solution may be the answer) and how to structure Q&As and multiple FAQ pages that provide value when appropriate.
 
 ## When and how to use FAQs for Veteran- and beneficiary-facing VA content
 
@@ -23,10 +23,10 @@ It may warrant an FAQ--or a different solution. If the question is promotional o
   - People are asking this question in search engines, **or**
   - Contact centers are receiving calls with this question 
  
-## When to publish a single Q&A, a multiple FAQ page, or both
+## When to publish a Reusable Q&A, a multiple FAQ page, or both
 
 - First, check to make sure the question isn't already answered in VA.gov content. 
-- Does the question on its own have high search value (threshold?)? If yes, consider publishing this as a single Q&A.
+- Does the question on its own have high search value (threshold?)? If yes, consider publishing this as a Reusable Q&A.
 - Are there X (define threshold) or more questions that directly relate to the same topic? If yes, consider including these questions on a multiple FAQs page. (What's our threshold for too many total FAQs on a page?)
 
 ## How to structure a Q&A and a multiple FAQ page

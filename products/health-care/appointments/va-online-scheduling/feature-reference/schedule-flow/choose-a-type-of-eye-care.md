@@ -21,7 +21,7 @@ Podiatry (currently only available for Community Care)
 Nutrition services
 
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=155-31279&t=YKoF2YbaafF6RwO9-4) 
 

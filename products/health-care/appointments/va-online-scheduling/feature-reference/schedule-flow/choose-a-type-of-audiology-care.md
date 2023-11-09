@@ -12,7 +12,7 @@ Veterans choose the type of aduiology care they need
 **Functional**
 For audiology, users are shown the facility type page before choosing the specific audiology type.
 
-## User interface design
+## Specifications
 
 [User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=155-31179&t=h7voOZsnZQC7y70u-4) 
 

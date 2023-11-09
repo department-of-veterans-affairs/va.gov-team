@@ -238,17 +238,9 @@ The Veterans Experience Office (VEO) is furthering its partnership with Cisco to
 
 The need for CC/BCC functionality frequently surfaces when discussing potential use cases with business lines. For example, this functionality is essential when considering the PACT Act, as copied VSO’s, VSR’s, and/or caregivers can receive the exact same information the Veteran receives and immediately provide guidance, support, and advocacy throughout the review process. Another potential benefit of CC/BCC is the collection of feedback from copied parties to improve notifications as processes change.
 
-#### CISCO webex connect integration
-We are expanding our notification provider integrations to include Cisco, so we can support more VA notification use cases like VEO AudioCARE.
-
-#### Email Encryption
-We will implement a secure solution to deliver sensitive information to Veterans digitally.
 
 #### SMTP/Internal Notification Support
 We want the notification experience to be the same regardless of the recipient having an external email address or an internal VA.gov address. Currently VA Notify emails are labelled as "EXTERNAL" when sent to va.gov recipients.
-
-#### CC/BCC Support
-We want to allow business lines to incorporate supporting recipients into emails, like VSOs/VSRs, so Veterans get the notifications they need with the help they need from approved individuals.
 
 #### Multi-Account Support for Providers
 As VA business lines acquire their own provider account(s), VA Notify must add support to send notifications through the appropriate provider and account (Amazon Pinpoint, Twilio, Cisco, etc.).

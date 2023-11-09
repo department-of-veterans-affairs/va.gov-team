@@ -191,7 +191,7 @@ Specific solution is dependent on Research and Discovery of the Medications sect
 - Research: Robyn Singleton
 - Engineering: Adrian Rollett 
 
- **Bylight**
+ **By Light**
    - Product Leads: Raquel Robertson & Tanner Bird
    - Design: Harrison Amelang, Lexi Wunder
    - Engineering Lead: 
