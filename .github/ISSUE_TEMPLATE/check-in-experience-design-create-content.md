@@ -20,4 +20,4 @@ As a [role], I want to [what] so that I can [do something].
 - [ ] Does UX team review? 
 - [ ] Does check in team need to review via Slack?  
 - [ ] Do VA OCTO PO's need to approve? 
-- [ ] Does Lori need links or content for f/u tickets?  
+- [ ] Does check in PO need links or content for f/u tickets?  
