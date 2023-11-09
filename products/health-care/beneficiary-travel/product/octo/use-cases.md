@@ -1,26 +1,17 @@
 # Use Cases For API MVP 
 
-<!-- TODO:
-
-- [ ] analytics for phase 1
-- [ ] use cases for phase 2
-- [ ] analytics for phase 2
-- [ ] proof read
-- [ ] send over
- -->
-
 ## Phase 0 - Infrastructure
 
 As an API, 
-This system should support a level of System to System Authentication and Authorization, 
+we should support a level of System to System Authentication and Authorization, 
 So that various clients can utilize the API 
 
 As an API, 
-This system should defer Veteran Validation to the client systems
+we should defer Veteran Validation to the client systems
 So that this API is not integrating with multiple identity providers  
 
 As an API, 
-we should have metrics on which client is making any given claim within API
+we should have metrics on which client is making any given call within API
 so that we can have traceability and metrics available 
 
 As an API, 
@@ -40,6 +31,10 @@ there should be a continuous deployment / continuous integration pipeline establ
 So that we can deliver features without having to wait for the next release cycle
 
 As an API
+I should have the ability to use a feature toggle based rollout strategy
+so that updates and changes can be controlled without deployments
+
+As an API
 there should be a test harness that supports unit, e2e and other tests that needed
 so that we ensure that regression does not happen we new features. 
 
@@ -52,12 +47,21 @@ there should at least two lower environments, dev and staging
 so that clients can test their integrations
 
 As an API
-there should be metrics for latency and errors
+there should be metrics for latency
 so that we have observability into the system when we go live
 
 As an API
 we should establishing an architecture to handle async processing of claims
 so that we can make better claims while keeping calls into the API light and fast. 
+
+As an API team
+we should have metrics around success calls vs error'd out calls
+so that we can monitor our systems
+
+As an API
+we should be able to maintain a p90 of under 3 secs
+so that we can provide a fast modern experience. 
+
 
 ## Phase 1 - Simple Claim (porting over existing functionality, plus a little extra)
 
@@ -75,8 +79,23 @@ so that the claim has a hiring chance of getting auto-adjudicated
 
 As an API, 
 I should allow 1 claim to be submitted per day per facility
-to help reduce waste, fraud and abuse
+to help minimized rejected claims
 
+As an API
+I should be able to trace a claim created back to its client
+so that troubleshooting is possible
+
+As an API team
+We should be able to see how the lifecycle of a claim, from submission to paid including metrics, atleast time to paid
+so that we have visibility into claim times 
+
+As an API team, 
+we should have alerting on critical errors  that are sent to the support team
+so that we can triage production problems
+ 
+As an API team, 
+we should be able to see how many claims created by the API are denied, with the reason why
+so that we can plan future features to help reduce these denied claims (if any)
 
 ## Phase 2 - Eligibility
 
@@ -94,5 +113,12 @@ Given a Veteran ICN,
 I should be able to tell th status of the Veterans BTSSS account (has direct deposit set, has an account, etc)
 so that client apps can give a better UX for the Veterans
 
+As an API 
+we should be able to see a report/summary of reasons why a Veteran isn't eligible based on the API call 
+so that we can plan future features (if any)
+
 
 ## Phase 3 - More types of claims
+
+
+// TBD, lets not get too far ahead of ourselves
