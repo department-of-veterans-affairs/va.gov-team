@@ -94,9 +94,11 @@ Tell me, how would you check to ensure the VA has the correct medical emergency 
 
 _if said, they'd ask someone_ If there was no one available to talk to, how would you confirm this information online?
 
-Interesting - let’s start screen sharing so you can show me how you’d do that.
+- Do you think that information would be on any VA websites? Which one? 
 
-Are you familiar with how to share your screen with Zoom? 
+- Interesting - I have a specific website where I want to see if you can find that information
+
+- Let’s start screen sharing so you can show me how you’d do that. Are you familiar with how to share your screen with Zoom? 
 
 #### Screen sharing instructions
 
@@ -112,21 +114,25 @@ _Instructions for folks using screenreaders on a desktop:_
 - Tab once more - make sure "share sound" is checked. 
 - Tab 4 times over to "share screen" - click activate. 
 
-Great, now I can see your screen! Thank you for your patience in figuring this out.  Now please go ahead and show me how you’d check this information? If you wanted to check the “medical emergency contact” and "next of kin contact" information how would you do that? 
+Great, now I can see your screen! 
 
-_Participants may start on Google, VA.gov, or somewhere else.
-- _We expect participants will go to VA.gov and be prompted to log in at some point._
-- _We eventually need to get them to staging.va.gov_
-- I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov. Let me know if you need any help doing that.
+Thank you for your patience in figuring this out.  Now let's go to that website. I can post the URL in the chat or just say it to you. Which of you prefer? 
+
+- _Send them or say staging.va.gov_
+
+- This is a test version of VA.gov. It looks like the real website and we have turned some special things on for our session. Nothing we do here will impact your actually information and you will see it has test data in certain parts of the site. 
+  
+- Please go ahead and show me how you’d check the “medical emergency contact” and "next of kin contact" information on this site? 
+
+_If participant mentions or attempts to sign in_ send credentials   
+
+_If participant does not attempt to sign in_
+- If you signed in, do you think anything different would be available?
+  
+_Guide partipant to sign in_
 - Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in the chat.
 - Great, I’d like for you to show me how to find this information from this page (VA.gov)?
-- _Nudge and probe as appropriate. If get totally lost, help them out. Ultimately, has to go to the Profile section of VA.gov._
 
-_Instructions for folks using screenreaders on a desktop:_
-
-- Now I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov.
-- Let me know if you need any help doing that.
-- Okay great, I can see your screen. Now please navigate to the "sign in" button and I'll tell you the credentials you should type to log in.
 
 ### Task 2: Review Personal health contacts page - 8 minutes
 
