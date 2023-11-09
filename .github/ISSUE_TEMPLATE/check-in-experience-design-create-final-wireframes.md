@@ -10,17 +10,14 @@ assignees: ''
 ## User Story
 As a [role], I want to [what] so that I can [do something].
 
-## User Workflow
-- Given I
-- When I
-- Then I
-
 ## Tasks
-- [ ] Create final mockups with callouts 
-- [ ] Decide: Should a content and accessibility review be part of this ticket or separate tickets due to scope?
+- [ ] Create final wireframes with content
 
 ## Acceptance Criteria
-- [ ] UI review meeting with product/UX team for feature capabilities
-- [ ] UI review meeting with engineering for layout and callouts (can be the same meeting as above)
-- [ ] Wireframe available on Sketch Cloud
-- [ ] If the wireframes applies to an error state or text message, then update the [GitHub source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/text-and-error-messages.md) documentation.
+- [ ] Does CAIA (or content and a11y SME) need to review? 
+- [ ] Does platform design need to review?
+- [ ] Do any other health app teams need to review for cross-platform consistencies? 
+- [ ] Does UX team review? 
+- [ ] Does check in team need to review via Slack?  
+- [ ] Do VA OCTO PO's need to approve? 
+- [ ] Does check in PO need links or content for f/u tickets?  
