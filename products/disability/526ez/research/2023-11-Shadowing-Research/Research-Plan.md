@@ -115,33 +115,33 @@ Recruit 9 participants for targeted 5-7 completed sessions with Veterans who hav
 - Inclusive, diverse sample with respect to race/ethnicity, age, gender, educational attainment, financial status
 
 **Primary criteria** 
-Disability Benefit eligibility
-- All Veterans must be eligible to file for disability compensation in the next 30 days. 
+- Disability Benefit eligibility
+   - All Veterans must be eligible to file for disability compensation in the next 30 days. 
 
-Experience filing for benefits
-- Quota- At least 3 Veterans who have never filed 
-- Quota- At least 2 Veterans who have filed in the past, but never online
+- Experience filing for benefits
+   - Quota- At least 3 Veterans who have never filed 
+   - Quota- At least 2 Veterans who have filed in the past, but never online
 
-Comfortable being observed filling out their claim on va.gov.   
+- Comfortable being observed filling out their claim on va.gov.   
 
-Age
-- Recruit a mix of ages
+- Age
+   - Recruit a mix of ages
 
-Disability
-- At least 3 Veterans with cognitive disabilities
+- Disability
+   - At least 3 Veterans with cognitive disabilities
 
-Race/Ethnicity 
-- At least 1 Black Veterans
-- No more than 2 Caucasian Veterans	
-- At least 2 other ethnicities (Hispanic, Asian, Native American) 
+- Race/Ethnicity 
+   - At least 1 Black Veterans
+   - No more than 2 Caucasian Veterans	
+   - At least 2 other ethnicities (Hispanic, Asian, Native American) 
 
 **Secondary criteria**
 Recruit a mix of gender, education, condition count, and military branch
 
-Screener Questions
+**Screener Questions**
 1. Do you have a VA.gov account that you have logged onto in the last six months? 
-- Yes [Advance]
-- No [Hold]
+   a. Yes [Advance]
+   b. No [Hold]
 
 2. Have you ever filed a claim for disability compensation with VA in the past? If so, when and how did you file it?  [Free response, record method/date of last filing] 
 - No (Recruit 4 Veterans who have not filed in the past)
