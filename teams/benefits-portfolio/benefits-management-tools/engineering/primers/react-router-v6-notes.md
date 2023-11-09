@@ -27,8 +27,9 @@ import { Route } from 'react-router';
 // `element` replaces `component`
 import { Route, Routes } from 'react-router-dom-v5-compat';
 
+// Pay attention to the fact that this is an actual instance of the component, not just the class
 <Routes>
-  <Route path="/" element={ClaimsStatusApp}>
+  <Route path="/" element={<ClaimsStatusApp />}>
     {/* Nested routes here */}
   </Route>
 </Routes>
