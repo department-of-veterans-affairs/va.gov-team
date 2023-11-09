@@ -31,26 +31,26 @@ Much of the current effort around 526ez is focused on stability, technical debt,
 The research will give us insight into the holistic experience of completing the 526ez and highlight opportunities for improvements at a form level.  Findings will also support the validation and prioritization of design debt. 
 
 ### Research questions
-Goal: Assess the current user experience of applying for disability benefits. 
-- How easy is it to use the design the first time? Can Veterans understand what they need to do? (Learnability)
-- How does the Veteran’s experience change from the beginning of the form to later sections? 
-- How quickly can Veterans perform tasks? (Efficiency)
-- Are there many user errors that are easy to make, and can they easily recover? (Efficiency)
-- How do Veterans feel about their experience? (Satisfaction)
+- Goal: Assess the current user experience of applying for disability benefits. 
+   - How easy is it to use the design the first time? Can Veterans understand what they need to do? (Learnability)
+      - How does the Veteran’s experience change from the beginning of the form to later sections? 
+   - How quickly can Veterans perform tasks? (Efficiency)
+   - Are there many user errors that are easy to make, and can they easily recover? (Efficiency)
+   - How do Veterans feel about their experience? (Satisfaction)
 
-Goal: Identify the pain points that lead to form exits, multiple sessions, and abandonment.
-- What are the blockers that are preventing Veterans from completing the form in one session? 
-- Are certain parts of the form a heavier burden to complete than others? If so, why?
-- Where might the form be relying too much on memory and recall?
+- Goal: Identify the pain points that lead to form exits, multiple sessions, and abandonment.
+   - What are the blockers that are preventing Veterans from completing the form in one session? 
+   - Are certain parts of the form a heavier burden to complete than others? If so, why?
+   - Where might the form be relying too much on memory and recall?
 
-Goal: Learn how Veterans plan for and adapt to the length and complexity of the 526. 
-- How can we best prepare Veterans for what’s ahead in the form so that they can plan accordingly?
-- What are Veterans' expectations for completing the 526ez before getting started? 
-- Where did they get their information? 
-- Do Veterans intend to finish in a single session, or do they plan for breaks?
-- Do they time-box work on an application, or do they have other milestones such as finishing a specific section?
-- What do Veterans do when they have a question or need assistance? 
-- (After completing the form) How well does their plan hold up? Did their approach or mindset change throughout the experience? Does anything surprise them?
+- Goal: Learn how Veterans plan for and adapt to the length and complexity of the 526. 
+   - How can we best prepare Veterans for what’s ahead in the form so that they can plan accordingly?
+   - What are Veterans' expectations for completing the 526ez before getting started? 
+      - Where did they get their information? 
+   - Do Veterans intend to finish in a single session, or do they plan for breaks?
+      - Do they time-box work on an application, or do they have other milestones such as finishing a specific section?
+   - What do Veterans do when they have a question or need assistance? 
+   - (After completing the form) How well does their plan hold up? Did their approach or mindset change throughout the experience? Does anything surprise them?
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
