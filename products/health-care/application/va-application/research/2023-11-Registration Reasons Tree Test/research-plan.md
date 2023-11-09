@@ -188,8 +188,8 @@ Kikcoff call participants:
 ### Prepare
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: 
-* Date and time of pilot session: N/A
+* Pilot participant: Steven Straily
+* Date and time of pilot session: Participant ID 000000	 - Sent link 11/9 at 18:31
 
 ### Research sessions
 * Planned dates of research: November 2023 (TBD, adjusting around holiday weekend, will discuss in kickoff call)
@@ -204,7 +204,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Moderator: Unmoderated tree test
 - Research guide writing and task development (usually but not always same as moderator): Jessica Stump (jessica.stump@adhocteam.us) and Katelyn Caillouet (katelyn.caillouet@agile6.com)
 - Participant recruiting & screening: Perigean
-- Participant(s) for pilot test: 
+- Participant(s) for pilot test: Steven Straily
 
 
 ## Approvals
