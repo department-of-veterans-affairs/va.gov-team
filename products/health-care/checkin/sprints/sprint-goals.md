@@ -64,6 +64,7 @@ ________________________________________________________________________________
             - 🟩 [[FE]Unified e2e test - define paths #68683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68683)          
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
         - 🟥 [[UX][Design] Create Final Wireframes #68244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68244)
+        - 🟩 [[FE] Placeholder](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69686)
     - **Sub Goal: Handle Missing Appointment Information**
          - ⛔ BLOCKED (waiting for Appointments and Mobile App to make decisions) 
     - **Sub Goal: Analyze current metrics to see what they tell us**       
@@ -144,7 +145,7 @@ ________________________________________________________________________________
         - 🟥[[UX][Content] Create Content to Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67897)
     - **Sub Goal: Handle Missing Appointment Information**
         - ⛔ BLOCKED 🟥[[UX][Design] Create Final Wireframes w/ Annotations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68747)
-             - Started, but is blocked by Appointments, Misty and Kristen to align on empty states. When identified, we will follow their direction and pull into a future sprint. Moved this to backlog.  
+             - Started, but is blocked by Appointments, Misty and Kristen to align on empty states. When identified, we will follow their direction and pull into a future sprint. Moved this to backlog. 
     - **Sub Goal: Analyze current metrics to see what they tell us**       
        - 🟥[Research] Analyze GA Metrics
        - 🟥[[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
