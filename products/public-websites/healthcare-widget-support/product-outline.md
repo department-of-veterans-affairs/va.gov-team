@@ -1,11 +1,12 @@
-# Cerner React Widgets - Product outline
+# Healthcare React Widgets - Product outline
 (Note: this is being completed retroactively by a successor team.)
+(As of Nov 2023, Cerner is now Oracle Health.)
 
 ## Overview
-React Widgets will enable Veterans to be directed to the correct electronic system (VistA/MyHealtheVet or Cerner/My VA Health) for 5 top tasks based on which VA medical system (geographic) is appropriate.
+React Widgets will enable Veterans to be directed to the correct electronic system (VistA/MyHealtheVet or Oracle Health (formerly Cerner)/My VA Health) for 5 top tasks based on which VA medical system (geographic) is appropriate.
 
 ## Problem Statement
-Before VA systems started cutting over to Cerner, the implementation of these common top tasks assumed that all actions would be taken through VistA. The gradual roll-out of Cerner has introduced the need to match Veterans to the correct EHR system.
+Before VA systems started cutting over to Cerner (now Oracle Health), the implementation of these common top tasks assumed that all actions would be taken through VistA. The gradual roll-out of Oracle Health has introduced the need to match Veterans to the correct EHR system.
 
 Top tasks in question:
 - Refill a prescription
@@ -29,7 +30,7 @@ _How might we enable the VA.gov user interface to intelligently send Veterans to
 
 ## Desired Business Outcomes
 
-- Roll out Cerner without negatively impacting Veterans or VA operations
+- Roll out Oracle Health without negatively impacting Veterans or VA operations
 
 ## Undesired Business Outcomes
 
@@ -71,11 +72,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - A react widget enables the combination of two data sources to conditionally change the UI for a given visitor:
   - The user object in the browser has info from an API about which medical systems the Veteran has had records/interactions with.
-  - A list of which VA Medical Systems has cut over to Cerner can be provided through the codebase (MVP) or external configuration (future iteration).
+  - A list of which VA Medical Systems has cut over to Oracle Health can be provided through the codebase (MVP) or external configuration (future iteration).
 
 ### Initiatives
 
-- Externalize the list of Cerner facilities | [CMS Source of Truth iteration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/cms-source-of-truth/initiative-brief.md)
+- Externalize the list of Oracle Health facilities | [CMS Source of Truth iteration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/cms-source-of-truth/initiative-brief.md)
 
 --- 
 
