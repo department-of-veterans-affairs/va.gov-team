@@ -8,5 +8,13 @@ assignees: ''
 ---
 
 ## Tasks
-- [ ] Create lo-fi wireframes for discovery purposes
-- [ ] Schedule kickoff & design intent meeting with Platform
+- [ ] Create lo-fi wireframes
+
+## Acceptance Criteria
+- [ ] Does CAIA (or content and a11y SME) need to review? 
+- [ ] Does platform design need to review?
+- [ ] Do any other health app teams need to review for cross-platform consistencies? 
+- [ ] Does UX team review? 
+- [ ] Does check in team need to review via Slack?  
+- [ ] Do VA OCTO PO's need to approve? 
+- [ ] Does Lori need links or content for f/u tickets?  
