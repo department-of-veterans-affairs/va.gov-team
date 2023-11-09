@@ -35,10 +35,15 @@ Sidekiq is used to import content into the database. There are five Sidekiq scri
 - Run each script below in any order
 
 StdIncomeThresholdImport.new.perform
+
 GmtThresholdsImport.new.perform
+
 StdCountyImport.new.perform
+
 StdStateImport.new.perform
+
 StdZipcodeImport.new.perform
+
 
 ### The Check-In Module Endpoints
 - /income_limits/v1/limitsByZipCode/
