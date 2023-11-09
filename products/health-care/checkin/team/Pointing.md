@@ -4,10 +4,12 @@ Story points are a unit of measure for expressing an estimate of the overall eff
 
 When we estimate with story points, we assign a point value to each item. The raw values we assign are unimportant. What matters are the _relative values_. A story that is assigned a 2 should be twice as much as a story that is assigned a 1. It should also be two-thirds of a story that is estimated as 3 story points.
 
-## Engineering Assumptions
+## Pointing Assumptions 
+
+### Engineering
 -
 
-## UX Assumptions
+### UX
 
 - Includes updating prototype interactions, if applicable. (E.g., on our Sketch production file Pages.)
 - Includes time to update documentation or links in Git, Sketch, etc., if applicable. 
