@@ -4,8 +4,10 @@
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 - Complete any project-specific setup tasks for this study (List them below)
-   - Set-up Notetaking Board
+   - Set-up [Notetaking Board](https://app.mural.co/t/oddball4265/m/oddball4265/1697479225159/6a0d168b0c9bd95ad422a5250349bd8ecf71aa04?sender=ub6d328e737d4511e3f063904)
    - Check Prototype
+      - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=4dbsIvuJfCFPcesT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88)
+      - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=M8JIqmZjKIytXcZz-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54)  
 
 
 ### Day of the session
