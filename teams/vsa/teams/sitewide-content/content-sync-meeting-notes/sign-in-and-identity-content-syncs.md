@@ -1,5 +1,9 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**November 9, 2023**
+-
+We cancelled the meeting. There were no agenda items.
+
 **October 26, 2023**
 -
 Attendees: Aliyah, Lauren, Laura, Clayton, Carl, Sophia, Joe, Nathalie, Josh (researcher on identity MFA team), and Matt (designer on chatbot team)
