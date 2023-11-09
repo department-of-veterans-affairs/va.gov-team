@@ -16,7 +16,8 @@ As a [role], I want to [what] so that I can [do something].
 
 
 ## Acceptance Criteria
-- [ ] Does CAIA (or content and a11y SME) need to review? 
+- [ ] Does CAIA (or content and a11y SME) need to review?
+- [ ] Do our shared support need to review? Angela Fowler (a11y) and Sara Sterkenburg (IA)
 - [ ] Does platform design need to review?
 - [ ] Do any other health app teams need to review for cross-platform consistencies? 
 - [ ] Does UX team review? 
