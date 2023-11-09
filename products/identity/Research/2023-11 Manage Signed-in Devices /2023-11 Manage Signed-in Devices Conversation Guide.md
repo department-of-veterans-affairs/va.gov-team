@@ -63,7 +63,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Signing into VA.gov - 5 minutes (Understanding password management)
 
-- How do you normally access VA.gov?  Would you be willing to share your screen with me and walk me through that process?  We'll pause the recording to protect any sensitive information.  [PAUSE RECORDING]  *observe if the user has a prepopulated password or uses a password manager or etc.*
+- What device are you joining us with today?  Would you be willing to share your screen with me and walk me through that process?  We'll pause the recording to protect any sensitive information.  [PAUSE RECORDING]  *observe if the user has a prepopulated password or uses a password manager or etc.*
    - MOBILE DEVICE: [If they are able to access VA.gov without signing in...] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with signing in? 
 [RESUME RECORDING]
 - How do you keep track of your password for signing into your VA account?
