@@ -94,7 +94,7 @@ While we don't believe two visits were enough to fully understand all the nuance
 |-------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------|
 | **Veteran Scheduling**                                | Veterans do not have online scheduling; they must call, email, secure message, or visit in person. | Veterans can directly schedule appointments online or request them.  |
 | **Appointment Creation Process**                       | MSAs directly create appointments without a request process.        | MSAs create requests and convert them into appointments.             |
-| **Clinic Selection for Appointment Availability**      | MSAs select resources (usually providers) for appointment availability. | MSAs select clinics for appointment availability.                   |
+| **Clinic Selection for Appointment Availability**      | MSAs select resources (usually providers) for appointment availability. | MSAs select [clinics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/feature-reference/vista-appointments-facilities-clinics.md) for appointment availability.                   |
 | **Provider Selection for Appointment Availability**    | Providers create "requests" similar to VistA's Return to Clinic orders. | Selecting a provider is not required to schedule an appointment.    |
 | **Standby Request Queue**                              | MSAs can add Veterans to the Standby Request Queue on request.       | TBD (in the process of verifying if this is an option)                                                     |
 
