@@ -1,11 +1,13 @@
-# Cerner CMS Source of Truth Release Plan - DRAFT
+# Oracle Health (formerly Cerner) CMS Source of Truth Release Plan - DRAFT
+
+As of Nov 2023, Oracle acquired Cerner. Cerner is now Oracle Health.
 
 ## Scope of release
-Initiative brief: [Initiative: Cerner react widgets consume facility/system data from CMS instead of hard-coded array](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/cms-source-of-truth/initiative-brief.md)
+Initiative brief: [Initiative: Healthcare react widgets consume facility/system data from CMS instead of hard-coded array](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/cms-source-of-truth/initiative-brief.md)
 
 This is a backend data change that should remain invisible to site users. 
 
-Cerner cutover support epic [#7158](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7158) includes a subset of tickets that describe this launch: 
+Oracle Health cutover support epic [#7158](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7158) includes a subset of tickets that describe this launch: 
 * [Add static data build step to content-build #8199](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8199)
 * [Add Electronic Health Care Record data query/endpoint #8201](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8201)
 * [Create async JS API (within FE code) to make JSON facility data available to products #9306](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9306)
@@ -15,18 +17,18 @@ Cerner cutover support epic [#7158](https://github.com/department-of-veterans-af
 * [Remove Cerner data source feature toggle and hard coded mechanism #9078](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9078)
 
 
-### Cerner cutover schedule
+### Oracle Health cutover schedule
 During the testing / launch period for this change, additional Systems will cutover to Cerner. Timing for each phase is planned with respect to the following launches: 
-* June 13 - White City, Roseburg
-* June 25 - Boise
-* July 16 - Anchorage
-* August 27 - Puget Sound
+* June 13, 2022 - White City, Roseburg
+* June 25, 2022 - Boise
+* July 16, 2022 - Anchorage
+* August 27, 2022 - Puget Sound
 
 
 ## Phase I: PW validation in Staging
 The Public Websites (PW) team will deliver an API ([#9306](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9306)) that makes Cerner/VistA facility data available to FE components. The API will be independent of the current hard-coded/synchronous approach, so product teams can decide when to integrate and switch from previous hard coded data source to the new API.
 
-PW will integrate against the new API for Cerner React widgets, e.g. Schedule and manage health appointments. 
+PW will integrate against the new API for Healthcare React widgets, e.g. Schedule and manage health appointments. 
 
 PW will place the API behind a feature toggle that controls the Cerner data source:
 * Off = Hard coded data
@@ -102,13 +104,13 @@ A separate funnel needs to be built for each of the five Benefit Detail pages th
 
 #### User flow 1: User can sign in and reach the EHR to finish their task
 Because some users will already be signed in, we need to pick up the flow after login.
-- Flow begins with clicking a CTA button that links to either Cerner or VistA. 
-    - The GA click event on a Cerner link:
+- Flow begins with clicking a CTA button that links to either Oracle Health (Cerner) or VistA. 
+    - The GA click event on a Oracle Health (Cerner) link:
       - ec (category): "Interactions",
       - ea (action): "Default Button CTA - Go to My VA Health - rgb(0, 62, 115)",
       - el (element?): "cta-button-click"
     - The click on a VistA link is the same, except the text on the button is "Go to My HealtheVet" instead (reflected in the `ea` property above).
-- **It doesn't appear that GA can track the user to the new tab that opens up for either Cerner or VistA.** 
+- **It doesn't appear that GA can track the user to the new tab that opens up for either Oracle Health (Cerner) or VistA.** 
 - The only thing we think we can watch for (for site health monitoring) is to see if the user returns to the original widget page for further interaction. 
   - Since the CTA opened another tab, there is not likely to be a new Page View event.
   - Clicking a CTA within the widget (ie, a different button or the same one again) would be an antipattern to monitor (expected but not common)
