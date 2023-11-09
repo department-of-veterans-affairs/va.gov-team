@@ -69,20 +69,6 @@ While we don't believe two visits were enough to fully understand all the nuance
     * When changing an encounter, the appointment is canceled, and a new one is scheduled, with patients not automatically notified.
 * PII security concerns: The patient provides their full name, date of birth, and full SSN or DOD number.
 
-## Key Differences Between Cerner and VistA Facilities
-
-### VistA:
-- Veterans can directly schedule appointments online or request them.
-- MSAs create requests and convert them into appointments.
-- MSAs select clinics for appointment availability.
-- Selecting a provider is not required to schedule an appointment.
-
-### Cerner:
-- Veterans do not have online scheduling; they must call, email, secure message, or visit in person.
-- MSAs directly create appointments without a request process.
-- MSAs select resources (usually providers) for appointment availability.
-- MSAs can add Veterans to the Standby Request Queue on request.
-- Providers create "requests" similar to VistA's Return to Clinic orders.
 
 ## Next steps
 - Contact staff at both sites we visited to get clarification and ask follow up questions. 
