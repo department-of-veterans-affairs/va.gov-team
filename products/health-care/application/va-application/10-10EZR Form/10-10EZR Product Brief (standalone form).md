@@ -66,6 +66,13 @@ How might we provide an online experience where the Veteran can quickly and easi
 |Single-session submissions |NEW |75% of submitted forms | TBD |TBD |
 
 
+#### **Key Result #3:** Reduce number of EZR form downloads from VA.gov
+
+| Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |
+|EZR PDF Downloads |avg 10,400 monthly |3,000 monthly | TBD |TBD |
+
+
 ---
 
 ## Assumptions
