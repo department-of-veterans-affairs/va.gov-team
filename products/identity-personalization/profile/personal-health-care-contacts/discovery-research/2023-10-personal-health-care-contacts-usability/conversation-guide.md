@@ -148,6 +148,11 @@ _If arrived in the _Personal health care contacts_ section of Profile_
 - How is this information useful to you? 
 - Let’s pretend you need to update a phone number for your next of kin, how would you go about doing that? 
 
+_If not mentioned or engaged with "Learn how to update your personal health care contacts"_ 
+
+- Towards the top of the screen, it says "Learn how to update your personal health care contact information" - Can you navigate back to that and click on it?
+- What is this information tell you? 
+
 ### Things to note 
 - Is it clear that the “Personal health care contacts” only pertain to health care? 
 - Is it clear to users how to update their information? 
