@@ -125,6 +125,18 @@ In future iterations, we plan to review for alternative locations and other syst
 - Dependent Backend systems
      - Enrollment System
 - [1010EZR - Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr)
+- Rollback & Fix plan (1-3 days to triage and implement fix)
+     - In the event of a security vulnerability incident, we will:
+          - Immediately - Turn off feature using feature toggle
+          - Immediately - Triage incident
+          - Day 1 - Assess viable solutions
+          - Day 1-3 - Implement solution
+          - Day 1-3 - Complete solution testing
+          - Day 1 - Implement additional monitoring, if applicable
+          - Day 1-3 - Turn on feature using feature toggle (starting with a small percentage)
+          - Day 1-3 - Complete post-mortem document
+          - Day 1-30 - Continue to monitor performance
+          - Day 1-10 - Proceed with Release Plan
 - Contacts:
      - Product Manager - Alex Seelig (alex.seelig@agile6.com), Heather Justice (heather.justice@adhocteam.us)
      - Product Owner - Patrick Bateman (patrick.bateman@va.gov)
