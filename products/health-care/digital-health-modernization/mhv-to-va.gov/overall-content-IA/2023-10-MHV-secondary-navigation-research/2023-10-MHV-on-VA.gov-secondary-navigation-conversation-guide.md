@@ -57,11 +57,9 @@ Before we start, I have a few things that I want to go over with you:
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
 
-1. What benefits other than healthcare, if any, do you receive from the VA? 
-
-2. Do you normally use your phone or desktop to do things on VA.gov?
+1. Do you normally use your phone or  desktop to do things on VA.gov?
+2. Tell me about the last time you used it. When was that? What did you use it for? 
    
-3. What do you normally  
 
 **Screen sharing instructions**
 
@@ -82,13 +80,13 @@ Thanks for your patience in figuring that out.
 
 ## Interview - 50 minutes 
 
-Great, now the fun part begins. I'd like you to know that I will share two prototype links with you during our chat today. So, now I will share with you the first link. How would you prefer the link? I could say it out loud for you to put into your browser, or I could put it in the Zoom chat. 
+Great, now the fun part begins. I'd like you to know that I will share a prototype link with you during our chat today. I will put the link in the Zoom chat. 
 
-Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
+Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. You will be signed in as a testing user, named Judy. It’s fake account with fake information, so you won’t see your name and your personal information. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
 
 _Send link to prototype:_
 
-**So, let's say that you have a chronic condition that requires you to manage regularly, which needs you to navigate MHV on VA.gov. Today is the day to do that, and here are list of things you need to do:** 
+**So, today you are going to perform some healthcare related activities on My HealtheVet on VA.gov. I will be giving you a couple of health care related activities, and please use this prototype to walk me through how you'd complete the activities.** 
 
 I will give you a list of activities, and please use this prototype to walk me through how you'd complete the activities.
 
