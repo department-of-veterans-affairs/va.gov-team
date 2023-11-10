@@ -55,11 +55,11 @@ How might we provide an online experience where the Veteran can quickly and easi
 |Veteran Validation errors |NEW |TBD | TBD |TBD |
 
 
-#### **Key Result #2:** Increase number of form submissions in a single session
+#### **Key Result #2:** Capture 75% of form submissions in a single session
 
 - Data source
      - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-     - Google Analytics Dashboard
+     - Google Analytics Dashboard - TBD (NEW)
 
 | Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
