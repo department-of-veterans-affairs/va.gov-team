@@ -115,11 +115,16 @@ Let’s start with a few warm-up questions.
 
 ## Fourth Task: [The Form] - 10 minutes
 
-- For this next task, we are going to have you go through the form as if you were prompted to update your information. This is a special beta version of the form, accessible via the email you provided before its official release. Please be careful not to submit unless you intend to update your health benefits information for real.
-- As you go through the form, could you please talk aloud about what you would need to do as you go.
+- For this next task, we are going to have you go through the form as if you were prompted to update your information. This is a special beta version of the form, accessible via the email you provided before its official release. Please be careful not to submit since we're still testing the form and its features.
+- As you go through the form, could you please talk aloud about what you would need to do as you go?
 
 **Participant questions** 
 - What are your expectations regarding the prefilling feature?
+
+**Stop the Participant at the REVIEW PAGE** 
+- Since we've reached the end of the form, we can stop the study here. And you close the web pages. 
+- Once the final version is released and you are prompted to update your health care benefits information using this form, it may look a little different.
+- You can also stop screen sharing.
 
 ### Things to watch for:
 
