@@ -22,4 +22,5 @@
 ## Things to Note
  - Zip file of images will not work when sending an email to the group above
  - Update Github page with the latest and greatest description (content) and (images)
- - Update change management section above 
+ - Update change management section above
+ - Relates to [Updating the app stores Va Mobile Docs ](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20App%20Stores)
