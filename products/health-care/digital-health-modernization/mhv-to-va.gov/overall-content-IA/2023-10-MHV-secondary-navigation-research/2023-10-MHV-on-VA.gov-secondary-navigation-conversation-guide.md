@@ -82,15 +82,13 @@ Thanks for your patience in figuring that out.
 
 Great, now the fun part begins. I'd like you to know that I will share a prototype link with you during our chat today. I will put the link in the Zoom chat. 
 
-Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. You will be signed in as a testing user, named Judy. It’s fake account with fake information, so you won’t see your name and your personal information. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
+Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. You will be signed in as a testing user, named Judy. It’s a fake account with fake information, so you won’t see your name and your personal information. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
 
 _Send link to prototype:_
 
-**So, today you are going to perform some healthcare related activities on My HealtheVet on VA.gov. I will be giving you a couple of health care related activities, and please use this prototype to walk me through how you'd complete the activities.** 
+**So, today you are going to perform some healthcare-related activities on My HealtheVet on VA.gov. I will be giving you a couple of healthcare-related activities, and please use this prototype to walk me through how you'd complete the activities.** 
 
-I will give you a list of activities, and please use this prototype to walk me through how you'd complete the activities.
-
-**_Task 1a - MR and SM_** (Start from the signed-in MHV landing page) Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. Where would you look for the results from those blood tests? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+**_Task 1a - MR and SM_** (Start from the signed-in MHV landing page) Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. How would you go about seeing those results? It would really help me if you could talk me through what you are thinking. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -104,9 +102,11 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_Pay attention to_) Where does participant click first, and ask why?
 - (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
-- (_If participant didn't click or didn't see the direct link to ask a question_) Do you expect to be able to directly get to secure message from here?
+- (_If participant felt stuck) Where do you expect to find it? Why? 
+- What are your thoughts about the amount of time it took you to find the blood result?
+- Thinking about this task - is this something you’ve done before - looked up a test result on a va site? tell me about that.
 
-**_Task 1b - MR and SM_** Then, say you're confused about the results and not sure what they mean and you want to ask your doctor about it. Using the resources offered on this website, how would you send them a message? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+**_Task 1b - MR and SM_** hen, say you're not sure what the results mean because of the medical terminologies and you want to ask your doctor about it. Using the resources offered on this website, how would you go about doing that? It would really help me if you could talk me through what you are thinking
 
 **Must ask:**
 - What would you normally do? 
@@ -114,8 +114,9 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 - (_If participant didn't click or didn't see the direct link to ask a question_) Do you expect to be able to directly get to secure message from here?
+- Is this something you’ve done before? How did you approach it?
 
-**_Task 2 - Appointments_** (from where they left off) You need to make a new appointment with your new doctor, but you don't remember their name. You can check their name from your recent appointment visit. How would you find their name from your recent appointment visit on this website?
+**_Task 2 - Appointments_** (from where they left off) You need to make a new appointment with your new doctor, but you don't remember their name. You can check their name from your recent appointment visit. How would you would you go about finding their name on this website?
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -127,6 +128,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant looks for past appointments in the secondary nav._) Do you think you'd find past appointments in the menu, and why?
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 - (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
+- Is this something you’ve done before? How did you approach it?
   
 **_Task 3 - Medications_** (from where they left off) Imagine that you have taken some medications for a while. You want to find information on how you can renew medications, and you want to check the expiration date for ordering refills for TACROLIMUS. How do you go about doing that from here? 
 
