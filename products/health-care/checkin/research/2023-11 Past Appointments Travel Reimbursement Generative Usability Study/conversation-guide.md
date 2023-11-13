@@ -80,7 +80,7 @@ We have a few different activities we’ll complete during this session. To star
 
 - If you could wave a magic wand and make the travel reimbursement process how you’d want it, what would it be like?  (What’s the ideal situation?)
 
-- And can you tell me a little about how you think of your travel claims in relation to your other claims, such as [EXAMPLE]?
+- And can you tell me a little about how you think about your travel reimbursement claims in relation to your other claims, such as [EXAMPLE]?
 
 
 ## Task #1: BTSSS status questions - 10 minutes
