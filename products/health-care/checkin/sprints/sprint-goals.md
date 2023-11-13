@@ -75,8 +75,14 @@ ________________________________________________________________________________
     - 🟩 [[FE][BUG] Demo questions are shown to Veteran if visiting a UUID for the second time, after already checking in for that appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69131)
     - 🟩 [[FE][SPIKE] Can we use the new Design System's minimal header component?](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69082) 
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
-         - 🟩 [[FE][DS v3 #5: Update buttons]](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65597)
-         - 🟥 TBD
+         - 🟥 [[Design] Create Final Wireframes for switch headings and body and icons to v3 in Unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69831)
+         - 🟥 [[Design] Create Final Wireframes for switch headings and body and icons to v3 in Production file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69832)
+         - 🟥 [[UX][Design] DS v3 #3: Update alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64829)
+         - 🟥 [[FE] DS v3 #3: Update slim alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65493)
+         - 🟥 [[Design] Switch to button pairs for v3 to Yes and No buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69841)
+         - 🟩 [[FE] Switch headings and body and icons to v3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69829)
+         - 🟩 [[FE][DS v3 #5: Update buttons]](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65597) 
+
 
 -------------- END FUTURE / TENTATIVE ---------------
 __________________________________________________________________________________________________________________________________________________________
