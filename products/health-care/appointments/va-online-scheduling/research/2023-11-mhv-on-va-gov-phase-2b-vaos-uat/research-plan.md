@@ -105,7 +105,6 @@ Remote, over Zoom.
 
 ### Research materials
 
-For moderated *desktop* usability test 
 - [Conversation guide](conversation-guide.md)
 - [Task tracker](https://docs.google.com/spreadsheets/d/1i4vXL-1MkC-QhdzWUneLyfaopI5UL0JPAI7uHux90DE/edit#gid=0)
 - [Observer Signup sheet](https://docs.google.com/spreadsheets/d/1psKVN-csDpXjvwFOEgGBUAdCzaF9M_Ua27pujRqaNzQ/edit?usp=sharing)
