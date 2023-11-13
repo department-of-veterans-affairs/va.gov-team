@@ -43,7 +43,7 @@
 
 In depth review. These findings have not been advised during our sync with Benefits and Claims team
 
-#### Step 2 (SK)
+#### Step 2 (SK) 
 
 ![B0593EEF-8541-4259-8215-FCFAEE075CF7](https://github.com/department-of-veterans-affairs/va.gov-team/assets/102324990/db80fc07-0bd2-4063-b543-9499add1b564)
 
@@ -53,7 +53,7 @@ Why is this screenshot of the actual form here?
 Visual users may potentially think they can interact with this.
 
 
-#### Step 2 (SK)
+#### Step 2 (SK) - Set Focus
 ￼
 ![A164DBE0-EF63-4F0D-B208-B09B509579D0](https://github.com/department-of-veterans-affairs/va.gov-team/assets/102324990/9fcb13c3-f3a2-47cb-8a01-90c51a36c586)
 
@@ -76,21 +76,21 @@ This code listens for the "blur" event on the date input field and then sets foc
 
 Make sure to replace `'yourDateInput'` and `'alertComponent'` with the actual IDs or element references for your specific input field and alert component.
 
-#### Step 4 (SK)
+#### Step 4 (SK) - Inline Error Message
 ![0C161ECF-476B-4071-8251-B0E96821F69B](https://github.com/department-of-veterans-affairs/va.gov-team/assets/102324990/b1fc3f05-015b-41af-a4dc-465f1131dae4)
 
 Long inline error messages can be verbose for screen reader users, potentially making it challenging to quickly understand and address the issue. Does it need to repeat the entire question? Can we do something like “select at least one option?” Open to discuss 
 
 
 ￼
-#### Step 1 (Jamie)
+#### Step 1 (Jamie) - Progess Bar
 
  ![Image 11-13-23 at 12 48 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/102324990/6ce1f6ef-acbb-41fe-afe7-ec3e01326ac9)
 
 Progress bar isn’t correct (should only be 1 blue bar)
 
 
-#### Step 3.3 (Jamie)
+#### Step 3.3 (Jamie) - Conditional Logic
 
 I think that conditional should be on a new page? it’s a LOT of fields to add. one page for “did the veteran serve under another name?” then if yes, another page for “what other name did they serve under?”
 
@@ -99,13 +99,17 @@ I think that conditional should be on a new page? it’s a LOT of fields to add.
 ￼
 
 
-#### Step 4.5 (Jamie) 
+#### Step 4.5 (Jamie) - Conditional Logic
 
 Do those conditionals need to be on their own pages too? Or do we just make sure they are very careful about having the SR announce them?
 
 ![Image 11-13-23 at 12 49 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/102324990/d5ed540c-a189-4f7a-9c9f-9312b01afe74)
 
-￼
+#### Step 6 (Jamie) - Clear and Concise Headers 
 
+ Call it “review and submit,” or put those two actions on two pages or maybe it should be “review”, next, “sign and submit” something to make it clear what action you’re actually taking.
+
+
+![99A4F022-0039-435D-AAC4-185B9040F868](https://github.com/department-of-veterans-affairs/va.gov-team/assets/102324990/118b3d4f-9e2a-4609-8a9e-b0651d2f0725)
 
 </details>
