@@ -103,6 +103,15 @@ _Hypothesis statement_
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
+1. We hypothesize that the eFSR/Streamlined Waiver form will be usable by Veterans that use screen readers. They will be able to understand it and fill it out.
+**Maybe true**
+
+2.  While we think it will be usable, we also believe that accessibility issues identified in an internal accessibility audit, may take away from the experience.
+**Likely true**
+
+3. We further hypothesize that the accessibility of the form will line up with the mental models that Veterans who use screen readers have about online forms.
+**Likely true**
+
 
 ## Key Findings
 
@@ -110,19 +119,30 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+**Navigation findings**
 
-2. Finding two
+**1. The ease of use of the financial status report form (streamlined waiver path) seemed to differ across participants based on the type of screen reader used and their level of proficiency with it, and unique navigation style.**
 
-3. Finding three
+Though we had a small sample, we do note that the 2 participants who struggled the most and were not successful signing in were using Dolphin Guide. Due to limitations of the Dolphin Guide technology, one participant was not able to activate the screen reader while in Zoom. This might be more indicative of a limitation of Dolphin Guide than of its success reading the FSR form. This should be noted for future AT studies that extra measures should be put in place for users of Dolphin Guide to successfully participate in AT interviews. 
 
-4. Finding four
+The 2 participants who completed the form until the review page (P5) and the confirmation page (P6) were using JAWS and VoiceOver, respectively. P9 (using VoiceOver) might have been successful in signing in to the form if there had not been a staging error. He reviewed the Wizard and Introduction pages. P8 (using JAWS) was able to sign in and got to the contact info section before running out of time. 
 
-5. Finding five
+We noted that in addition to JAWS and VoiceOver requiring different commands, they also read differently. 
 
-6. Finding six
+Additionally, the sample of Veterans we spoke to sometimes had different systems they used to navigate through the form. For example, one participant (P8, JAWS) navigated the page by having the screen reader read all of the links on the page. This overemphasized the header and footer of the page rather than the content on the form pages. P5 (JAWS) had to alternate in and out of Forms mode. P6 (VoiceOver) has peripheral vision and would use a combination of screen reader and clicking. 
 
-7. Finding seven
+
+3. Finding two
+
+4. Finding three
+
+5. Finding four
+
+6. Finding five
+
+7. Finding six
+
+8. Finding seven
 
 
 ## Details of Findings 
