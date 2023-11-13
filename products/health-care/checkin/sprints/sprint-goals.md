@@ -8,11 +8,11 @@ ________________________________________________________________________________
  - **GOAL: Ongoing Production Support**
  - **GOAL: Comply with the ATO**
      - **Sub Goal: ATO Compliance: Resolve Pen Test Issues** 
+ - **GOAL: Phased Roll Out of Travel & 45-Minute Features**
  - **GOAL: Measure Time to Check-in**
  - **GOAL: Support CERNER Integration**
      - **Sub Goal: Get Demographics Data from VA Profile** 
  - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
     - **Sub Goal: Add Travel Claim Terms of Agreement**
     - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
@@ -23,8 +23,8 @@ ________________________________________________________________________________
      - **Sub Goal: Switch Components to Design System v. 3**
  
 #### PLANNED RELEASES 
-- ❗ 🟩 TBD: Roll out 45-minute & Travel to All of VISN 15
-- ❗ 🟩 11/28: Roll out 45-minute & Travel to 6 additional VISNs TBD
+- ❗ 🟩 [Roll Out on TBD to All of VISN 15](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69808)
+- ❗ 🟩 [Roll Out on 11/28 to 6 VISNs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69769)
 
 #### SPRINT TICKETS
 - **GOAL: Ongoing Production Support**     
@@ -33,16 +33,16 @@ ________________________________________________________________________________
  - **GOAL: Comply with the ATO**
     - **Sub Goal: [ATO Compliance: Resolve Pen Test Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68239)**
          - ❗ 🟩 [Resolve Pen Test Issue #1-4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68145) 
+ - **GOAL: [Phased Roll-out of Travel & 45-Minute Features](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66721)**
+    - ❗ 🟩 [Roll Out on TBD to All of VISN 15](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69808)
+    - ❗ 🟩 [Roll Out on 11/28 to 6 VISNs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69769)
 - **GOAL: [Measure Time to Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68240)**
     - ❗ 🟦 TBD
 - **GOAL: [Support CERNER Integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68271)**
-    - **Sub Goal: [Get Demographics Data from VA Profile]()**
+    - **Sub Goal: [Get Demographics Data from VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69812)**
         - 🟦🟩🟪 [Meet with VA Profile Team to Determine Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69813)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-   - **Sub Goals: [Phased Roll-out of Travel & 45-Minute Features](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66721)**
-       - 🟩 [Roll Out on TBD to All of VISN 15](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69808)
-       - 🟩 [Roll Out on 11/28 to 6 VISNs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69769)
-   - **Sub Goal: [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)**
+    - **Sub Goal: [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)**
        - ❗🟥 [[Content] [Design] Update content in Review page wireframe to coincide of eCheck-in production userflow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69713)
        - ❗🟩 [[FE]Create Review Page in eCheck-in flow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68085)
             - Note: Need to wait on new wireframe, was originally designed to go out with Unified Check-in: Priority 1 userflow. See above ticket
