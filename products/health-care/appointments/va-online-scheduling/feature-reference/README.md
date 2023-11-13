@@ -5,14 +5,15 @@
 
 Product, business, and technical documentation of [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling) features.
 
-## Manage appointments
-
-### Accessing Appointments
+## Access the Appointments Tool
 
 | Feature | Usage | 
 |---|---|
 | [Login and access](./login-and-access.md) | Authentication and access rules. |
 | [Appointments portal](./appointments-home.md) | Starting page to schedule or manage appointments |
+
+
+## Manage appointments
 
 ### Appointment summary views
 
