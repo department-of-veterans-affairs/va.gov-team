@@ -71,4 +71,49 @@ Before we go to the prototype, let’s start with a few warm-up questions.
 
 - Great. Thank you.
 
+## General travel questions: 5-10 minutes
+We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about your previous experience filing a travel reimbursement claim.
+
+- Talk to me about the last time you filed a travel claim. Can you describe the steps for us, as well as your experience?  (What's the experience now?) 
+
+- If you could wave a magic wand and make the travel reimbursement process how you’d want it, what would it be like?  (What’s the ideal situation?)
+
+- (Needs workshopping) And can you tell me a little about how you think of your travel claims in relation to your other claims, such as benefit claims?
+
+
+## Task #1: BTSSS status questions - 10 minutes
+
+_**Note:** Use inclusive language as much as possible. If the participant is blind or low-vision, the moderator can still share their screen to help observers follow along, but explain this to the Veteran._
+
+- Thank you! Now we’re going to go through some terms that relate to travel reimbursement claim statuses.
+  
+- This activity will help understand how Veterans, like you, are thinking about travel reimbursement claims at different steps in the submission and review process. If we can understand more about how you think of claim statuses, we can then present them in an expected and helpful way.
+  
+- I’ll be going through some words and phrases that represent different claim statuses you might have encountered in the past. You might recognize these from when you last filed a travel reimbursement claim.
+  
+- Ok, so if you’re ready (I’ll share my screen to help our observers follow along) and we’ll start with the first term. And remember, there are no right or wrong answers.
+
+_Share screen with [slide deck of terms](https://docs.google.com/presentation/d/1iIrZYINUNU-MzirNz54y_xH9VNyg4PeRXGbNe1dLn2I/edit?usp=sharing)_
+
+_Complete the following with all 11 statuses:_
+
+- Ok, so the (first/next/last) term is _____
+  
+  - What does this word/phrase mean to you in the context of the status of a travel reimbursement claim that you've filed?
+    
+  - Have you encountered this term before when filing for travel reimbursement?
+    
+  - Is there anything confusing about this term?
+    - _(if appropriate/if the participant says they wouldn’t use that term)_ What would you call it instead?
+      
+  - How important is it for you to know this claim status during the travel reimbursement process?
+ 
+_After going through all terms_
+
+- Were there any other terms you expected to be here that were not included?
+
+_When complete_
+
+- Thank you! That concludes that activity. Now we’ll have you try out a prototype.
+
 
