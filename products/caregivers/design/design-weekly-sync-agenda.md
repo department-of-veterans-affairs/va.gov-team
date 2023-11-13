@@ -1,5 +1,13 @@
 # Design Weekly Sync Agenda
 
+## 2023-11-13
+
+Attendees: Angela, Jessica, Hieu, Katelyn
+
+- Team discussed the minor changes in the conversation guide of the EZR MVP UAT: added instruction to sign in to a backup account, moved the "beta version" blurb closer to the scenario, and added a blurb at the Review section.
+- Coordination with Sara Sterkenburg on MHV team to update the link on the MHV Landing Page: we have looped her in a while back but will waiting for an exact launch date before pinging her team to the link.
+- Jessica noted that most SHOULD feedback items on the STAGING REVIEW comment have been picked up or it is a Form's Library limitation/constraint.
+
 ## 2023-11-06
 
 Attendees: Angela, Jessica, Hieu, Katelyn, Kristen, Alex, Heather, Emily
