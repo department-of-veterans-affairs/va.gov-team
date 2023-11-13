@@ -14,8 +14,8 @@ When we estimate with story points, we assign a point value to each item. The ra
 - Includes updating prototype interactions, if applicable. (E.g., on Sketch production file Pages.)
 - Includes time to update documentation or links in Git, Sketch, etc., if applicable. 
 - Includes time to update the Annotations page and/or add inline annotations to artboards or Pages, if applicable. E.g., aria labels, headings, heading styles, link destinations, etc.
-- Includes time to receive quick, within reason, feedback from appropriate stakeholder(s) at office hours. E.g., content or a11y SMEs, platform design, UX team, check in team, VA OCTO PO's, check in PO, Angela Fowler (a11y) or Sara Sterkenburg (IA).
-- Includes time to create or update symbols, and validate across relevant Pages and artboards using those symbols, if applicable. 
+- Includes time to receive and make minor changes from SMEs and Platform, from officr hours, for example. E.g., content or a11y SMEs, platform design, UX team, check in team, VA OCTO PO's, check in PO, Angela Fowler (a11y) or Sara Sterkenburg (IA).
+- Includes time to create or update symbols in Sketch (or Figma), and validate across relevant Pages and artboards using those symbols, if applicable. 
 
 ## Story Point Baseline
 
