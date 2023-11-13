@@ -10,21 +10,21 @@ ________________________________________________________________________________
      - **Sub Goal: ATO Compliance: Resolve Pen Test Issues** 
  - **GOAL: Measure Time to Check-in**
  - **GOAL: Support CERNER Integration**
-     - **Sub Goal: Identify Necessary CHIP Work** 
+     - **Sub Goal: Get Demographics Data from VA Profile** 
  - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Phased Roll-out of Beneficiary Travel Claims Submitted via eCheck-in**
     - **Sub Goal: Add Travel Claim Terms of Agreement**
     - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
+     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
      - **Sub Goal: Explain to the Veteran why we Keep Asking them to Verify their Information**
-     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**  
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
      - **Sub Goal: Switch Components to Design System v. 3**
  
- #### PLANNED RELEASES 
--  - ❗ 🟦🟩 Production release 11/28 - 45-minute
-   - ❗ 🟦🟩 Production release 11/28 - Travel pay
+#### PLANNED RELEASES 
+- ❗ 🟦🟩 Production release 11/28 - 45-minute
+- ❗ 🟦🟩 Production release 11/28 - Travel pay
 
 #### SPRINT TICKETS
 - **GOAL: Ongoing Production Support**     
@@ -34,10 +34,9 @@ ________________________________________________________________________________
     - **Sub Goal: [ATO Compliance: Resolve Pen Test Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68239)**
          - ❗ 🟩 [Resolve Pen Test Issue #1-4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68145) 
 - **GOAL: [Measure Time to Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68240)**
-    - ❗ 🟦
- 
+    - ❗ 🟦 
 - **GOAL: [Support CERNER Integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68271)**
-    - **Sub Goal: Identify Necessary CHIP Work**
+    - **Sub Goal: [Get Demographics Data from VA Profile]()**
         - 🟦🟩 
 - **GOAL: Make submission of a travel reimbursement claim easier**
    - **Sub Goal: [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)**
