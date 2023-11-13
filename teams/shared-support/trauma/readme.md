@@ -103,6 +103,7 @@ Took notes for a big meeting or small group? You've helped share and grow our le
 - Tyler Gindraux
 - Megan Graham
 - Julie Strothman
+- Pam Drouin
 
 #### How do I serve as a scribe?
 1. Volunteer at our next big meeting
