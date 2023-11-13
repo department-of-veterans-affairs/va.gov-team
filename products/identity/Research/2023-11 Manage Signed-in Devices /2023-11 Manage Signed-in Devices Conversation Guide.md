@@ -85,12 +85,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Second Task: Prototype Walk-Through - 10 minutes
 
 
-- Have you ever manually signed out of your account?  If so, can you walk me through how?
-   - How often do you do that?
+
 
 - I'm now going to show you a prototype. This is a website design that we are thinking about using. It may look like the real VA.gov but it is not real, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
    - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=4dbsIvuJfCFPcesT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88)
    - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=M8JIqmZjKIytXcZz-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54)
+  - Have you ever manually signed out of your account?  If so, can you walk me through how?
+   - How often do you do that?
 - Can you share your screen now and walk me through how you would complete the following steps.
 [If participant is unable to pull up the prototype]
    - I'm going to share with you a prototype that you can use to walk me through so that you are not having to share your actual information.
