@@ -71,7 +71,7 @@ Remote with Zoom
 ### Research Materials
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study/conversation-guide.md)
 - [CodePen Prototype](https://codepen.io/team/va-cie/live/bGOmjGe)
-- Recruitment intake ticket
+- [Recruitment intake ticket]
 
 ## Recruitment
 Perigean to recruit a total of 18 Veterans in order to get 12 completed sessions, which includes at least 5 completed sessions with Veterans with a cognitive impairment, 3 completed sessions with screen reader users, and 2 completed sessions with screen magnification or zoom users.
