@@ -6,7 +6,7 @@
 ## Change Management
 | Date Request | Date Implemented | Change Request  |
 |----| ---- | ----| 
-| 9/26/23 | TBD | Inclusion of Proof of Veteran Status in Features, Updated images to be iPhone images and include Proof of Veteran Status | 
+| 9/26/23 | 11/14/23 | Inclusion of Proof of Veteran Status in Features, Updated images to be iPhone images and include Proof of Veteran Status | 
 
 ## How to update 
 - Follow steps here to get new images [Updating the app stores Va Mobile Docs ](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20App%20Stores)
