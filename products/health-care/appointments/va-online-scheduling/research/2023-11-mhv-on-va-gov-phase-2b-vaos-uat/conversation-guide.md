@@ -51,7 +51,7 @@ _Start recording._
 - Is it ok if we record this session?
 
 
-## **Section 1: Warm-Up Questions (5 minutes)**
+## Section 1: Warm-Up Questions (5 minutes)
 
 Before we look at the site, I have a few questions first, as it would be great to learn more about you and how you use the VA for health and benefits.
 
@@ -60,7 +60,7 @@ Before we look at the site, I have a few questions first, as it would be great t
    - Do you ever use MyHealtheVet, VA.gov, (_if Cerner_) or My VA Health?
 
 
-## **Section 2: Screen share (5 minutes)**
+## Section 2: Screen share (5 minutes)
 
 - During our session today, I am going to ask you to login to VA.gov so we can see how the appointments tool works for you. To do this I will neeed you to share your screen. I can walk you through how to start the screen share. 
 
@@ -91,16 +91,14 @@ _[iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/re
 - Now, I am going to give you a series of tasks for you to do on the website. Please think out loud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
 
 
-#### Task : Breadcrumb and URL updates/ Descriptive back (10 minutes)
-
+### Task : Breadcrumb and URL updates/ Descriptive back (10 minutes)
 
 - PROMPT: You are curious the last time you visited your provider, where would you go to find out the date of your last appointment?  Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
 - Go ahead and use the website to complete the task. Once you’re there, stop and wait for the next instruction.
 Once they navigate to past appointments ask them to expand one of them. Now ask "how would you go back to your list of upcoming appointments?
 Observe as they navigate. Are the breadcrumbs accurate? Are they using the descriptive back button? Do they mentions using it as they think out loud?"
 
-#### Task 4: Print appointment details (10 minutes)
-
+### Task 4: Print appointment details (10 minutes)
 
 - PROMPT: Imagine you want to print the details for an upcoming appointment. Without activating anything, where do you think you’d find that?
 - TASK 1: Go ahead and use the website to complete the task but don't actually print it. 
@@ -108,22 +106,45 @@ Observe as they navigate. Are the breadcrumbs accurate? Are they using the descr
 - TASK 2: Navigate to a past appointment to do the same thing but again, you do not have to print anything.
 - TASK 2: If you have a pending appointment, go ahead and do the same thing. 
 
-## Section 4: Mental Model Tasks (45 min)
-
+## Section 4: Mental Model Tasks (-- min)
 
 ### Task : Facility/clinic selection for direct scheduling(10 minutes)
 
 - PROMPT: Say you wanted to schedule an appointment at your VA facility. Without activating anything, how do you think you would do that from here? You can look/swipe around the screen, just don’t activate anything.
 - I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
 
+Stop them on the facility selection page:
+- How do you feel about selecting a facility here?
+- If you could have any other information about this facility, what would it be?
 
-### Task : Provider selection for CC (10 minutes)
+If possible, continue to the clinic selection page:
+- How do you feel about selecting a clinic here?
+- If you could have any other information about this clinic, what would it be?
 
-- PROMPT: Say you wanted to make a community care appointment. 
-- Without activating anything, how do you think you would do that from here?
+Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
+
+### Task : Provider selection for community care (10 minutes)
+
+Are you familiar with community care?
+
+**IF YES:**
+    - Tell me what you know about it. It helps us to hear about things in your own words to make sure we're using plain language when we describe them.
+    - Have you ever scheduled an appointment through community care?
+
+PROMPT: Say you wanted to make a community care appointment. Without activating anything, how do you think you would do that from here?
 - I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
 
-## Section 5: Thank-You and Closing (5 minutes)
+_Stop them on the provider list of the provider selection page._
+
+- How do you feel about selecting a provider here?
+- If you could have any other information about this provider, what would it be?
+
+Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
+
+**IF NO:**
+ - You likely won't be able to schedule community care appointments, but let's check. Could you try to schedule a podiatry appointment? I won't ask you to schedule the appointment, we'll just start the process.
+
+## Section : Thank You and Closing (5 minutes)
 
 
 ### Task: Website Exit
