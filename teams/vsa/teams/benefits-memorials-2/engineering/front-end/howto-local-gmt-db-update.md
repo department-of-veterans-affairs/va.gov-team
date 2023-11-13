@@ -21,3 +21,8 @@ The current workaround involves uncommenting some code in `src/applications/fina
     3. `IncomeLimits::StdCountyImport.new.perform`
     4. `IncomeLimits::StdIncomeThresholdImport.new.perform`
     5. `IncomeLimits::StdStateImport.new.perform`
+
+  - - - -
+
+  ### Alternate workaround
+  [This is a faster solution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/front-end/the-wrong-way.md#local-gmt-data-issues) geared towards hard coding gmt data values for local testing
