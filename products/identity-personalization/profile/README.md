@@ -100,9 +100,8 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 |Project|Status|
 |----|----|
-|[Notification preferences: Default send & adding email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send#readme)|Pre-launch|
-|[Notification preferences: Editing as a subtask](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask)|Pre-launch|
-|[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md)|Testing|
+
+|[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md)|Preparing for Staging Review|
 
 ### Completed projects & enhancements
 
@@ -167,8 +166,11 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[Notification preferences: Default send & adding email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send#readme)|Launched November 2023|
+|[Notification preferences: Editing as a subtask](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask)|Launched November 2023|
 |[Add Board of Veteran's Appeals status update notification preference](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47441)|Live to 100% December 19, 2022|
 [Notification preferences MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/README.md) | Launched November 2021 |
+
 
 #### Account security
 
