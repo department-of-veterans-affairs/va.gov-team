@@ -101,6 +101,7 @@ We don’t want the profile to become such a de facto place for Veteran informat
 |Project|Status|
 |----|----|
 |[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md)|Preparing for Staging Review|
+|Enhanced Military Information|Discovery/Initial Design|
 
 ### Completed projects & enhancements
 
