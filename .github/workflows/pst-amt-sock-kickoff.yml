@@ -56,7 +56,7 @@ jobs:
     if: contains(github.event.issue.title, 'SOCKS access')
     steps:
       - name: Run workflow
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           script: |
