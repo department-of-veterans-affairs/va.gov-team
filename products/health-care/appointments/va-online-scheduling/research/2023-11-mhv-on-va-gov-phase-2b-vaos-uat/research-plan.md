@@ -70,11 +70,8 @@ Retiring
 1. Are users at Cerner facilities able to navigate to My VA Health?
 
 **Mental Model Study**
-1. Are participants able to start the scheduling process?
-2. Are participants able to select a facility and clinic?
-3. Are CC eligible participants able to select a provider?
-4. What other methods of scheduling would be helpful?
-5. What other information would be helpful when making their selections?
+1. Does the process of selecting a clinic (VistA) or provider (community care) meet participant expectations?
+1. What other information would be helpful when scheduling with a provider or clinic?
 
 ### Outcome
 
@@ -83,7 +80,7 @@ We will use the _UAT_ findings to validate or improve:
 - the descriptive back link navigation on the details pages.
 - the print button design.
 
-We will use the _mental model study_ finding to:
+We will use the _mental model study_ findings to:
 - better understand participant expectations around facility and clinic selection.
 - better understand participant expectations around community care provider selection.
 - identify pain points or potential improvements, and use this to inform our approach to improving the scheduling process.
@@ -100,7 +97,7 @@ We will use the _mental model study_ finding to:
 
 ## Method
 
-We'll run a moderated test divided into two parts: an evaluative UAT study and a generative mental model study.
+We'll run a moderated test in two parts: an evaluative UAT study and a generative mental model study.
 
 ### Location
 
