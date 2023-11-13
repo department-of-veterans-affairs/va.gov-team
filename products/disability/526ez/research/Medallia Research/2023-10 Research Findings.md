@@ -52,3 +52,25 @@ The purpose of this research is to understand user pain points and areas of impr
 4. Veterans are finding themselves misrouted to or stuck on the Reserves National Guard (RNG) page.
 
 5. Veterans reported evidence-related challenges throughout the application. 
+
+## Recommendations
+Address blockers
+   - Update error message tracker with findings in order to determine where fixes have been successful or still require attention. 
+   - Investigate RNG misroutings
+
+Support Veterans looking for help
+   - Conduct SME interviews with the Contact Center in order to better understand the situations/barriers that prevent them from resolving Veteran concerns. 
+   - Consider other means (chatbot, which is in beta) for Veterans to receive live help to unblock and reduce uncertainty.
+
+Set expectations for evidence
+   - Clarify how Veterans can provide more evidence in the 4142 redesign (existing language of “supporting [lay] statements or other evidence” is seemingly not clear)
+   - Assess the holistic experience of evidence management in the Veteran shadowing research
+
+Further research
+   - Account for different experiences for Veterans using desktop vs. mobile when applying for benefits
+   - Convert smaller observations into tickets for potential future work
+   - Expand UX analytics capabilities; learn about existing tools and how to best utilize them starting with DOMO.
+
+
+
+
